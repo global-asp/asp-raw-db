@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=2502&d=0&a=1
+id:	2502
+title:	Syana Sya Mũvũa
+author:	Anna Kula
+artist:	Wiehan de Jager
+lang:	Kikamba
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2502.png
+desc:	Once there was a family with three very obedient children. The problem was they were made of wax
+
+page_text:
+
+P1	Ĩvinda ya tene na tene,  vaĩna musyĩ wekalaa na ũtanu.
+P2	Mayaũkitanaa ene kwa ene. Nimatetheesyaa asyai moo musyĩ na mĩundani.
+P3	Ĩndĩ mayanengetwe mwanya wakũthi vakuvĩ na mwaki.
+P4	Maĩlĩte kũthũkũma wĩa woo w'onthe ũtukũ.
+P5	Ĩndĩ mwana ũmwe aĩ na mea ma kũthi nza kwĩanĩkĩa kyeni kya sua.
+P6	Mũthenya ũmwe nĩwethĩiw'e na mea asu ma kũthi nza muno. Ĩndĩ aamwanainya nĩmamũkanisye.
+P7	Ũũi! Mwana ũsu ndaatetheka. Nĩwanyinyũkie nũndũ wa ũvyuvu wa sua.
+P8	Syana sya mũvũa nĩsyakwatiwe ni kyeva nũndũ wa kwona mwanaainya ainyinyuka.
+P9	Ĩndĩ nĩmethĩiw'e na mũvango. Nĩmosie mũndo wa mũvũa ula wanyinyukie maseovya kasũni.
+P10	Nĩmosie mwanaainya kasũni mamũlĩsya ĩũlu wa kĩĩma kĩtũlu.
+P11	Na sua ĩkuuma nĩwolũkile athi kũu akwina kyeninĩ kya kĩoko.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

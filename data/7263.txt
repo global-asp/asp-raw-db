@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=7263&d=0&a=1
+id:	7263
+title:	A Trip to Zanzibar
+author:	Barke Ramadhan
+artist:	Wiehan de Jager, Jemma Kahn, Rijuta Ghate, Catherine Groenewald and Laura Libertore
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7263.png
+desc:	A child who went on a trip to Zanzibar exploring different things in the environment.
+
+page_text:
+
+P1	A walk in Zanzibar,  what do you see? Shops selling sweets,  in very narrow streets.
+P2	A swim in Zanzibar,  what do you see? Changu,  Kibua,  Tasi,  Pono,  Jodari na Kambisi.
+P3	A drive in Zanzibar,  what do you see? Animals in a jungle,  watching at an angle.
+P4	A dance in Zanzibar,  what do you see? Swahili,  English and Arab,  all dancing Taarab.
+P5	A drink in Zanzibar,  what do you see? Miwa,  madafu juicy,  coffee and tea are spicy.
+P6	A trip to Zanzibar,  do you wish to go back?
+
+images:
+
+illustrations/pages/1846.png
+illustrations/pages/6598.png
+illustrations/pages/924.png
+illustrations/pages/6810.png
+illustrations/pages/6766.png
+illustrations/pages/2444.png
+illustrations/pages/7123.png
+
+translations:
+
+English (Adaptation)	My First  Trip to  Kampala	id=10164

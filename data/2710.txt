@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=2710&d=0&a=1
+id:	2710
+title:	Arakiliko
+author:	Saidi Omar Dramani
+artist:	Joshua Waswa
+lang:	Lugbarati
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2710.png
+desc:	Young boys like going out into forests to hunt for birds. They use catapults for hunting birds.  This is a story about a young boy who found and shot a Hornbill as he was walking through the village. A Hornbill is commonly found in forests in tropical Africa. He was very excited and offered the bird to an old man in the village who liked eating anything given to him.
+
+page_text:
+
+P1	Ma ndra mu aci si enyati cilioa. Ma esu arakiliko.
+P2	Aka mu eri gbi abitira si 'bo tre "aaa,  aaa,  aaa!"
+P3	Arakiliko nde nga olia. Te anzu eri ma vutia aise alia si.
+P4	Kpere ri pati a'wi ni ma sia. Agbi eri dika. A'de pati ma sia ri si vaa.
+P5	Ma e'du arakiliko nde ri.
+P6	Afe eri "Alimuru" ni: Agu afa ci ri nyaapi ri. (O'du alu afe eri ni yuku. Nya eri ayiko si.).
+P7	Arakiliko ma dri ambo ru,  mba kile saturu le.
+P8	Aria nde ma odu kile kabilo vile ri le. 'Ba tusu ni ra asini tu!
+P9	Mi eco arakiliko esu ututa koko ku. Ini si eyi ri pati a'wi ma sia. Agu alu alu afa ini lee ri nya. E'yo 'di si. Alimuru ni arakiliko nya.
+
+images:
+
+illustrations/pages/2432.png
+illustrations/pages/2433.png
+illustrations/pages/2434.png
+illustrations/pages/2438.png
+illustrations/pages/2435.png
+illustrations/pages/2436.png
+illustrations/pages/2437.png
+illustrations/pages/2439.png
+illustrations/pages/2440.png
+illustrations/pages/2441.png
+
+translations:
+
+English (Original)	The Hornbill	id=2563
+Luganda (Translation)	Eŋŋaaŋa	id=2774
+Lugbarati (Official) (Translation)	Àràkílíkò	id=8768
+Lumasaaba (Translation)	Liŋaasa (Ŋaa, Ŋaa)	id=2775
+Lunyole (Translation)	Eŋaaŋa	id=3156
+Ng’aturkana (Translation)	Ikeny Lokut	id=18074

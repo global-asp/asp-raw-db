@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=2875&d=0&a=1
+id:	2875
+title:	Ata?
+author:	Joyce Chemitai
+artist:	Sandra McDougall
+lang:	Sabinyi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2875.png
+desc:	This story asks us to count how many insects
+
+page_text:
+
+P1	Ponto toŋŋoŋik ayeeny karenŋkot ata?
+P2	Ata kaapopok cee ponto tonitok amwanu?
+P3	Ata kareŋkok cee ponto kupawinak somok?
+P4	Ponto peesek mutu kareŋkok ata?
+P5	Ata yitik cee ponto Jokik sisit?
+P6	Ponto pisinak sokol yitik ata?
+P7	How many eyes do six cats have?
+P8	Ata kareŋkok cee ponto jojatyit?
+
+images:
+
+illustrations/pages/1786.png
+illustrations/pages/1600.png
+illustrations/pages/1599.png
+illustrations/pages/1601.png
+illustrations/pages/1602.png
+illustrations/pages/1603.png
+illustrations/pages/1604.png
+illustrations/pages/1605.png
+illustrations/pages/1606.png
+
+translations:
+
+Amharic (Translation)	ስንት?	id=13123
+Aringati (Translation)	Kí Sị́ Yã?	id=7229
+Ateso (Translation)	Imwasi Ayi?	id=2870
+Dhopadhola (Translation)	Adi?	id=19488
+English (Original)	How Many?	id=1787
+Kikamba (Translation)	Syianaata?	id=2871
+Kiswahili (Translation)	Ni Ngapi?	id=9529
+Luganda (Translation)	Bimeka?	id=2872
+Lugbarati (Translation)	Yii Siya	id=12640
+Lumasaaba (Translation)	Biba Byeenga?	id=2873
+Lusoga (Translation)	Ameka?	id=2874
+Setswana (Translation)	Tse Kae?	id=2876

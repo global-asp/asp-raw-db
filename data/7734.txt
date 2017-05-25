@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=7734&d=0&a=1
+id:	7734
+title:	Rabbit Under the Tree
+author:	Phumy Zikode
+artist:	Wiehan de Jager
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7734.png
+desc:	While Rabbit is sleeping under an apple tree
+
+page_text:
+
+P1	Rabbit was sleeping under an apple tree. An apple fell down from a branch.
+P2	A voice said,  "Run rabbit run!" She woke up quickly and ran away with great speed.
+P3	She met a chicken. "Why are you running?" asked the chicken. Rabbit replied,  "I don't know. I just heard something falling and a voice said,  'Run rabbit run!'."
+P4	The chicken was frightened. She started running when she heard what the rabbit said.
+P5	They met a dog. Dog asked,  "Why are you running?" Chicken said,  "I don't know. I just heard what the rabbit said,  and she doesn't know. She heard something falling and a voice said,  'Run rabbit run!'."
+P6	The dog was surprised about what she heard. She started running with Rabbit and Chicken.
+P7	They met a horse. The horse asked the dog,  "Why are you running?"    Dog said,  "I don't know. I just heard what the chicken said,  and she doesn't know. She heard what the rabbit said and she doesn't know. She heard something falling and a voice said,  'Run rabbit run!'."
+P8	The horse starts to run with the others.
+P9	They met a donkey. The donkey asked,  "Why are you running?"    Horse replied,  "I don't know. I just heard what the dog said,  and he doesn't know. He heard what the chicken said and she doesn't know. She heard what the rabbit said and she doesn't know. She heard something falling and a voice said,  'Run rabbit run!'."
+P10	So Donkey starts running too.
+P11	They met a cow. The cow asked,  "Why are you running?" Donkey replied,  "I don't know. I just heard what the horse said,  and she doesn't know. She heard what the dog said and he doesn't know. He heard what the chicken said and she doesn't know. She heard what the rabbit said and she doesn't know. She heard something falling and a voice said,  'Run rabbit run!'."
+P12	The cow is worried and starts to run as well.
+P13	They met a cat. The cat asked,  "Why are you running?" Cow replied,  "I don't know. I just heard what the donkey said,  and he doesn't know. He heard what the horse said and she doesn't know. She heard what the dog said and he doesn't know. He heard what the chicken said and she doesn't know. She heard what the rabbit said and she doesn't know. She heard something falling and a voice said,  'Run rabbit run!'."
+P14	The cat started running with the other animals.
+P15	Then they met the boy riding the bicycle and he asked,  "Why are you running?'' And the animals replied,  "We don't know. We heard what the rabbit said and she doesn't know. She heard something falling and a voice said,  'Run rabbit run!'.
+P16	The boy laughed and said,  "An apple fell off the tree because of the wind. I'm the one who said,  'Run rabbit run!'."
+
+images:
+
+illustrations/pages/7610.png
+illustrations/pages/7595.png
+illustrations/pages/7596.png
+illustrations/pages/7597.png
+illustrations/pages/7598.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/7601.png
+illustrations/pages/7602.png
+illustrations/pages/7603.png
+illustrations/pages/7604.png
+illustrations/pages/7605.png
+illustrations/pages/7606.png
+illustrations/pages/7607.png
+illustrations/pages/7608.png
+illustrations/pages/7609.png
+illustrations/pages/7610.png
+
+translations:
+
+Afrikaans (Translation)	Hasie Se Groot Skrik	id=10861
+Afrikaans (Translation)	Hasie Onder Die Boom	id=11221
+Afrikaans (Translation)	Hasie Onder Die Boom	id=20094
+ChiTonga (Translation)	Sulwe Mujungusi Acisamu	id=18656
+CiNyanja (Translation)	Kalulu Munsi Mwa Mutengo	id=18669
+Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
+English (Adaptation)	Test Edit	id=16731
+French (Translation)	Le Lapin Sous Un Arbre	id=10154
+Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
+IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
+isiXhosa (Translation)	Umvundla Phantsi Komthi	id=17581
+isiZulu (Original)	Unogwaja Ngaphansi Kwesihlahla	id=7664
+isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
+Kiswahili (Translation)	Sungura Chini Ya Mti	id=8438
+Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
+Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lunyole (Translation)	Enduyu Ŋaasi W’Omuyembe	id=16585
+Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
+Sepedi (Translation)	Mmutla Ka Tlase Ga Mohlare	id=18135
+Sesotho (South Africa) (Translation)	Mmutlanyana Tlasa Sefate	id=20049
+Setswana (Translation)	Mmutla Mo Tlase Ga Setlhare	id=15041
+SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
+siSwati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Tshivenda (Translation)	Muvhuḓa Fhasi Ha Muri	id=18322
+Xitsonga (Translation)	Kondlo Ehansi Ka Murhi	id=19020

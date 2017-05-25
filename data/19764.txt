@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=19764&d=0&a=1
+id:	19764
+title:	Hyena, Hare and Basins
+author:	Jane Taylor and African Storybook
+artist:	Salim Kasamba
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19764.png
+desc:	If a basin can give birth
+
+page_text:
+
+P1	Hare owned a donkey and a small red basin.
+P2	When Hare needed a big basin,  he borrowed Hyena's blue basin.
+P3	Hyena wanted to wash his clothes in his basin.
+P4	"Your basin had a baby," said Hare. Hyena took both basins.
+P5	Another day,  Hare borrowed Hyena's basin again.
+P6	When Hyena went to get his basin,  Hare had bad news.
+P7	Hyena called the big animals to decide the truth.
+P8	"Things that live and give birth,  also die," explained Hare.
+
+images:
+
+illustrations/pages/19188.png
+illustrations/pages/19185.png
+illustrations/pages/19186.png
+illustrations/pages/19187.png
+illustrations/pages/19188.png
+illustrations/pages/19189.png
+illustrations/pages/19190.png
+illustrations/pages/19191.png
+illustrations/pages/19192.png
+
+translations:
+
+English (Translation)	Hyena, Hare and Basins	id=19194
+Kiswahili (Original)	Fisi, Sungura Na Karai	id=19193

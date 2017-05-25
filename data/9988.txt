@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=9988&d=0&a=1
+id:	9988
+title:	Animals of Uganda
+author:	Wendy Parry
+artist:	Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9988.png
+desc:	About animals in Uganda
+
+page_text:
+
+P1	These are giraffes. They have very long necks. They eat leaves from tall trees. What colour is a giraffe?
+P2	This is an elephant. The males have white tusks. They have large ears. Elephants have long trunks. They use their trunks to pick leaves off the tall trees. Elephants eat grasses and leaves. What colour is the elephant?
+P3	This is a crocodile. It lives in the rivers and lakes. It has a long tail. It has a wide mouth and many sharp teeth. It eats fish and other animals. What colour is the crocodile?
+P4	This is a lion. It has big,  sharp teeth. The male lions have a mane. Where is the mane on this lion?
+P5	This is the crested crane. It is the symbol of Uganda. It has long legs and a crown. What are the colours of the crested crane?
+P6	These are water buffalo. They eats grasses and live near rivers and lakes. What does a water buffalo have growing on its head?
+P7	These animals are called zebras. They have black and white stripes. What other animal do you know that looks like a zebra?
+P8	Here are two different types of animal. A mother warthog with her babies. Warthogs have tusks too. How many warthogs can you count in the picture? The other animals are cobs. They eats grasses. What colour is the cob?
+P9	What types of animals do you see? Where do they live? Which one would you eat?
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9647.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9631.png
+illustrations/pages/9644.png
+illustrations/pages/9650.png
+illustrations/pages/9646.png
+illustrations/pages/9645.png
+
+translations:
+

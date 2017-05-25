@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2923&d=0&a=1
+id:	2923
+title:	Paalakyaanik
+author:	Joyce Chemitai
+artist:	Cathy Feek
+lang:	Sabinyi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2923.png
+desc:	This story is about a little girl who is ill and has to stay away from school.  Letters are an important form of communication while she is off sick.
+
+page_text:
+
+P1	Kyanyoru ani palakyaanik luket wikitwe.
+P2	Yoo ki kule,  kusilyi kanyoyinteet nyimwani palaakyeet kaneetinteet nyimwani.
+P3	Myaanat thabisile yeme kupur ka.
+P4	Yoo ki anyo anyoru palakyeet nyee kisilu leekook cee ceesumani tokoi.
+P5	Sap lakwar no Thabisile!
+P6	Yoo ki anyoru palakyeet nyee kisile corweemwani.
+P7	Kwapurury piceet nyi?
+P8	Yoo ki anyoru palakyeet nyee kisile yeyo nyimwani.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

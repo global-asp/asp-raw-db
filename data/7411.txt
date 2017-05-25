@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=7411&d=0&a=1
+id:	7411
+title:	The Rainbow
+author:	Ursula Nafula
+artist:	Catherine Groenewald and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7411.png
+desc:	Simple story about colours of the rainbow.
+
+page_text:
+
+P1	It has many colours.
+P2	They appear together.
+P3	You see orange.
+P4	You see blue.
+P5	You see red.
+P6	The colours are so beautiful.
+
+images:
+
+illustrations/pages/6767.png
+illustrations/pages/6787.png
+illustrations/pages/6339.png
+illustrations/pages/6338.png
+illustrations/pages/6342.png
+illustrations/pages/6341.png
+illustrations/pages/6335.png
+
+translations:
+
+Afaan Oromo (Translation)	Sabbata Waaqaa	id=12251

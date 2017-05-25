@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=15341&d=0&a=1
+id:	15341
+title:	Isijeziso
+author:	Foundation phase teachers Umlazi
+artist:	Melany Pietersen
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15341.png
+desc:	Uma senza okungalungile sizojeza.
+
+page_text:
+
+P1	Langa limbe umama wasiphathela izithelo eziningi.
+P2	"Sizozidla nini izithelo?" bebuza kumama? "Sizozidla ebusuku izithelo," kuphendula umama.
+P3	Umfowethu uRahim unomona.  Wayeziluma zonke izithelo azishiye engaziqedile.
+P4	"Buka nje ukuthi wenzeni uRahim!" kusho umfowabo omncane. "URahim ugangile futhi unomona," kusho umfowabo.
+P5	Umama wamuthukuthelela uRahim.
+P6	Sonke samuthukuthelela uRahim. Kodwa akakhombisanga ukuzisola uRahim.
+P7	"Uzomjezisa yini uRahim?" kubuza umfowabo omncane.
+P8	"Rahim,  uzozisola khona maduze nje," kuxwayisa umama.
+P9	URahim uzizwa engaphilile manje.
+P10	"Isisu sami sibuhlungu," esho enyenyeza.
+P11	Umama wayekulindele loku okwenzakalayo. Izithelo ziyamujezisa uRahim!
+P12	Emva kwesikhathi waxolisa uRahim. "Ngeke ngiphinde ngibe nomona," esho ethembisa. Samukholwa sonke.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiNdebele (Translation)	Isijeziso Sakathemba	id=13803
+isiZulu (Adaptation)	Umhobholo	id=13326
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Oluwanga (Translation)	Eshinyasio	id=19592
+Portuguese (Translation)	Castigo	id=18855
+siSwati (Translation)	Sijeziso Sabobo	id=13868

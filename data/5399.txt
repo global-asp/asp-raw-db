@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=5399&d=0&a=1
+id:	5399
+title:	Die Avonture Van Superkoei
+author:	H. Van der Haar
+artist:	Danielle Bruckert
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/5399.png
+desc:	n Storie oor n koei en haar avonture gedurende die nag.
+
+page_text:
+
+P1	Dit is Koei. Koei is supercool!
+P2	Sy is 'n gewone koei gedurende die dag.
+P3	Sy vlieg vlieërs gedurende die dag.
+P4	 En sy speel met 'n bal.
+P5	Snags is sy Superkoei!
+P6	Sy red lewens.
+P7	 En veg teen boewe.
+P8	Maar wanneer jy jou ogies styf toemaak.
+P9	 Beskerm sy jou deur die nag!
+P10	Die einde.
+
+images:
+
+illustrations/pages/858.png
+illustrations/pages/859.png
+illustrations/pages/860.png
+illustrations/pages/861.png
+illustrations/pages/862.png
+illustrations/pages/863.png
+illustrations/pages/864.png
+illustrations/pages/865.png
+illustrations/pages/866.png
+illustrations/pages/867.png
+illustrations/pages/868.png
+
+translations:
+

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=17265&d=0&a=1
+id:	17265
+title:	Wïnynyu
+author:	Odhieng Akway Oman and Omot Oman Obono
+artist:	Jean Fullalove
+lang:	Anywak
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17265.png
+desc:	Listen to the many different sounds that animals make.
+
+page_text:
+
+P1	Twöngï määdö.
+P2	Jïëy cwiinynyi.
+P3	Thöölë lwiyyö.
+P4	Guu guyyö.
+P5	Dïëk rëëdö.
+P6	Dhäk jwöngö.
+P7	Nguu ngäärö.
+P8	Ocwöm gi ba luubö na bärë bärë.
+P9	Nyïu obwörë ngienynyi.
+P10	 Obwörë cäänö.
+
+images:
+
+illustrations/pages/3029.png
+illustrations/pages/3030.png
+illustrations/pages/3031.png
+illustrations/pages/3032.png
+illustrations/pages/3033.png
+illustrations/pages/3035.png
+illustrations/pages/3036.png
+illustrations/pages/3037.png
+illustrations/pages/3038.png
+illustrations/pages/3043.png
+illustrations/pages/3029.png
+illustrations/pages/3041.png
+
+translations:
+
+Afrikaans (Translation)	Luister	id=11144
+Afrikaans (Translation)	Luister	id=11183
+English (Original)	Listen	id=3044
+French (Translation)	Écoute	id=12679
+Oluwanga (Translation)	Rechelesia!	id=3093
+Portuguese (Translation)	Escuta	id=17033

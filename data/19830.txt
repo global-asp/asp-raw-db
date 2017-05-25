@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=19830&d=0&a=1
+id:	19830
+title:	My Little Sister
+author:	Fred Selorm Parku
+artist:	Silva Afonso
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19830.png
+desc:	A boy called Kafui
+
+page_text:
+
+P1	My name is Kafui and I have a little sister called Elinam.
+P2	Elinam is always happy,  whenever it is time for school.
+P3	Their teacher Madam Esi,  tells and reads interesting stories to them everyday.
+P4	She also gives them,  storybooks to read at home.
+P5	My little sister is always happy to go to school.
+
+images:
+
+illustrations/pages/13824.png
+illustrations/pages/13822.png
+illustrations/pages/13824.png
+illustrations/pages/13840.png
+illustrations/pages/13844.png
+illustrations/pages/13819.png
+
+translations:
+

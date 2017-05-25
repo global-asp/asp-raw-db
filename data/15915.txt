@@ -1,0 +1,31 @@
+url:	http://africanstorybook.org/reader.php?id=15915&d=0&a=1
+id:	15915
+title:	Naoa Le Leshala
+author:	Traditional tale
+artist:	Chidren of Paleng
+lang:	Sesotho (Lesotho)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15915.png
+desc:	Naoa le leshala tsaea nokeng. Emong le emong o ne a sa batle hots’ela.
+
+page_text:
+
+P1	Ele Naoa le Leshala. Ba rumiloe motseng o thekoana.
+P2	Joale ba ts'oanela ho ts'ela noka. Eaba ba fumana noka e tletse.
+P3	Ba etsa khang ka ho ts'ela. Eaba Naoa o re,  "Leshala ts'ela pele." Le Leshala le e na a re,  "Aoa ts'ela pele."
+P4	Joalo joalo,  ho fihlela a ts'ela pele.
+P5	Empa eare ha Leshala lets'ela,  a oela ka metsing a re,  "Pshhhhhhhh!" Naoa a ts'eha a ba a peperana.
+
+images:
+
+illustrations/pages/15907.png
+illustrations/pages/15907.png
+illustrations/pages/15908.png
+illustrations/pages/15910.png
+illustrations/pages/15912.png
+illustrations/pages/15913.png
+
+translations:
+
+English (Translation)	Bean and Coal	id=15969

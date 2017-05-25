@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=12610&d=0&a=1
+id:	12610
+title:	Kungani Sicoco Sibe Sibi
+author:	Busile Ndhlovu
+artist:	Hélder de Paz Alexandre
+lang:	siSwati
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12610.png
+desc:	Kube sicoco salalela ngabe sihle njengemgolololo!
+
+page_text:
+
+P1	Eminyekeni leminyenti leyengcile,  umgololo nesicoco bewungebangani. Ngalelinye lilanga tancuma kuyobuka tintfombi edolobheni.
+P2	Sicoco besinemona nesikhumba semgololo lesicwebetelako nalesihle.
+P3	Satsi: Wente ngani kutsi kute ube muhle kangaka? Buka mine,  Ngimubi kakhulu. Ngingenta njani ngesikhumba sami?
+P4	Umgololo watsi: Lalela lapha! Faka emanti ebhodweni bese uwabeka emmlilweni. Ngemva kwaloko ubese u.
+P5	Kepha sicoco satsi: Sengiyati,  ngiyati. Ngicela usale ubindza mngani wami. Sicoco sase siyahamba.
+P6	Sitsite nasifika ekhaya safaka emanti ebhodweni. Sase siwafaka emlilweni.
+P7	Atsite emanti nasacala kubila,  satiphosela ekhatsi ebhodweni.
+P8	Sikhumba saso sasha,  umsila waso wabuye wajubeka.
+P9	Kun ekutsi sibe sihle njengemgololo,  saba sibi kakhulu kundlula kucala!
+
+images:
+
+illustrations/pages/7077.png
+illustrations/pages/7069.png
+illustrations/pages/7070.png
+illustrations/pages/7071.png
+illustrations/pages/7072.png
+illustrations/pages/7073.png
+illustrations/pages/7074.png
+illustrations/pages/7075.png
+illustrations/pages/7076.png
+illustrations/pages/7077.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+English (Adaptation)	Why Frog is so Ugly - Colouring Book	id=17360
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+isiXhosa (Adaptation)	Kutheni Isele Lilibi? (Faka Imibala)	id=17551
+Kiswahili (Translation)	Sababu Chura Kuwa Na Sura Mbaya	id=8712
+Luganda (Translation)	Lwaki Wakikere Mubi Nnyo?	id=9657
+Luganda (Adaptation)	Wakikere Ne Wamunya	id=13778
+Ng’aturkana (Adaptation)	Akidodok Nabworok	id=13522
+Portuguese (Translation)	Porquê a Rã É Tão Feia?	id=7477
+Portuguese (Translation)	O Porquê Do Sapo Ser Tão Feio	id=19259
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=2974&d=0&a=1
+id:	2974
+title:	Sare Za Shule
+author:	Gladys Njoki and Racheal Njoki
+artist:	Mlungisi Dlamini
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2974.png
+desc:	Ninarudi shuleni na hivyo nalazimika kuzijaribu sare zangu za shule kuhakikisha zinanitosha.
+
+page_text:
+
+P1	Rinda hili ni refu.
+P2	Sweta hii ni kubwa.
+P3	Mkoba huu ni mkubwa.
+P4	Mshipi huu.
+P5	Kofia hii ni ndogo.
+P6	Sokisi hizi ni fupi.
+P7	Lakini viatu hivi ni vipya.
+P8	 Vinanitosha vizuri.
+
+images:
+
+illustrations/pages/954.png
+illustrations/pages/955.png
+illustrations/pages/956.png
+illustrations/pages/957.png
+illustrations/pages/958.png
+illustrations/pages/959.png
+illustrations/pages/960.png
+illustrations/pages/961.png
+illustrations/pages/954.png
+
+translations:
+
+Anywak (Translation)	Abïïk Øt-Göör	id=12633
+Aringati (Translation)	Ujaku Ꞌbã Bõngó Sụ̃kụ́lụ̃ Drị̂ Kî	id=7526
+English (Original)	School Clothes	id=1794
+Kikamba (Translation)	Ngua Sya Sukulu	id=2973
+Lugbarati (Translation)	Bongo Sukulu Ni Diyi	id=12641
+Lunyole (Translation)	Engoye J’Esomero	id=2975
+Lusoga (Translation)	Byambalo Bya Isomero	id=2976
+Maa (Translation)	Inkiláni E Sukúul	id=2972
+Ng’aturkana (Translation)	Ng’Iworui a Esukul	id=2977
+Oluwanga (Translation)	Tsingubo Tsiomwisomero	id=2978
+Setswana (Translation)	Diaparo Tsa Sekolo	id=2979

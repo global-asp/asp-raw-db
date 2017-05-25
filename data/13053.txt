@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=13053&d=0&a=1
+id:	13053
+title:	Mnu. Mbhobo Ophethwe Buthongo
+author:	Sphiwe Mtswene and Tsepo Mahlangu
+artist:	Graham Paterson
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13053.png
+desc:	Mnu. Mbhobo ufunana nendawo lapho angakhululeka
+
+page_text:
+
+P1	Ngelinye ilanga,  uMnu. Mbhobo weza wazokuvakatjha. Wathi: Ngiphethwe buthongo! Ngifunana netaka engingakghona ukulala kilo!
+P2	Ngiyakwazi ukukhwela umuthi. Ngiyakwazi ukujinka. Kodwana ukulala ngiyakuthanda,  yinto engiyithandako.
+P3	Itaka leli libonakala lilihle! Ngicabanga ukulala la. Wena ke? Awucabangi bonyana mbono omuhle loyo?
+P4	Awa! Mnu. Mbhobo! Indlulamithi idla lapha! Ingacabanga bona usisidlo semini bese ithoma idla iinhluthu zakho.
+P5	Itaka leli libonakala lilihle! Ngicabanga ukulala la. Wena ke? Awucabangi bonyana mbono omuhle loyo?
+P6	Awa! Mnu. Mbhobo kuneenyosi ezinegi lapha! Angekhe ukghone ukulala neenyosi ezigcwele koke nje!
+P7	Itaka leli libonakala lilihle! Ngicabanga ukulala la. Wena ke? Awucabangi bonyana mbono omuhle loyo?
+P8	Awa! Mnu. Mbhobo,  yinyoka le elapha! Akusilitaka lela! Inyoka yakaZimu eziluphalele. Uyithusile kwamambala.
+P9	Itaka leli libonakala lilihle! Ngicabanga ukulala la. Wena ke? Awucabangi bonyana mbono omuhle loyo?
+P10	Awa! Mnu. Mbhobo! Kunenyoni elilako lapha! Angekhe ukghone ukulala etjhadeni elingaka.
+P11	Mnu. Mbhobo,  zama ukukhwela elinye itaka! Batjho boke Begodu itaka lela lihle khulu ukuthi libe mbhede wakhe.
+P12	Inyoni nenyoka,  indlulamithi neenyosi bezijabulile ukuba noMnu. Mbhobo emthini wabo.
+
+images:
+
+illustrations/pages/9017.png
+illustrations/pages/9018.png
+illustrations/pages/9019.png
+illustrations/pages/9020.png
+illustrations/pages/9021.png
+illustrations/pages/9022.png
+illustrations/pages/9023.png
+illustrations/pages/9024.png
+illustrations/pages/9025.png
+illustrations/pages/8091.png
+illustrations/pages/9026.png
+illustrations/pages/8099.png
+illustrations/pages/9030.png
+
+translations:
+
+Afrikaans (Translation)	Slaperige Mnr. Luiheid	id=11518
+English (Original)	Sleepy Mr. Sloth	id=9039
+French (Translation)	M. Paresseux Est Fatigué	id=10856

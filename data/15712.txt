@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=15712&d=0&a=1
+id:	15712
+title:	Ng'ombe Mwenye Pembe Moja
+author:	Ursula Nafula
+artist:	Marion Drew
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15712.png
+desc:	Umewahi kumwona ngombe mwenye pembe moja na bila mkia?
+
+page_text:
+
+P1	Haaaa! Nyumbani kwetu,  kuna ng'ombe mzuri.
+P2	Hana mkia na ana pembe moja tu. Ni ng'ombe mzuri sana.
+P3	Ni ng'ombe mnono mwenye tumbo kubwa.
+P4	Ni ng'ombe mwenye nguvu.
+P5	Mchungaji anampenda ng'ombe huyu sana. Amemfunza ng'ombe huyu kuitambua sauti yake pekee.
+P6	Malishoni,  ng'ombe huyu hula pekee yake.
+P7	Ng'ombe huyu ni hodari kwa vita na ng'ombe wengine hawamsumbui.
+P8	Watu wengi wanamjua ng'ombe huyu. Wanamwogopa kwa sababu yeye hupigana kwa pembe yake moja. Ukikutana na ng'ombe wa aina hii,  utafanya nini?
+
+images:
+
+illustrations/pages/9612.png
+illustrations/pages/9613.png
+illustrations/pages/9614.png
+illustrations/pages/9615.png
+illustrations/pages/9616.png
+illustrations/pages/9617.png
+illustrations/pages/9618.png
+illustrations/pages/9619.png
+illustrations/pages/9620.png
+
+translations:
+
+Afaan Oromo (Translation)	Sa'aa Gaafa Tokko Qabdu	id=12959
+Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
+English (Translation)	Cow With One Horn	id=9622
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Lámnsoʼ (Translation)	Nàʼ Wo Wù Kér Loŋ E Mòʼón	id=15065
+Lunyole (Translation)	Eŋombe Ey’Olwiga Lulala	id=11906
+Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
+Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
+Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
+Sesotho (Lesotho) (Original)	Khomo E Bokopa	id=9621
+siSwati (Translation)	Inkhomo Leneluphondvo Lunye	id=13076

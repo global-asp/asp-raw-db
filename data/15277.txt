@@ -1,0 +1,29 @@
+url:	http://africanstorybook.org/reader.php?id=15277&d=0&a=1
+id:	15277
+title:	Ktèb It-Tṡàwir Mtèġi
+author:	Ramzi Hachani
+artist:	Karen Lilje, Catherine Groenewald, Alice Toich, Katrien Coetzer, Wiehan de Jager and Marleen Visser
+lang:	Tunisian
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15277.png
+desc:	Ktèb bkilmèt w tṡàwir bsìŧa
+
+page_text:
+
+P1	Bneyye.
+P2	Ġaṡfùra.
+P3	Ṡìd.
+P4	Qaŧŧùsa.
+
+images:
+
+illustrations/pages/8072.png
+illustrations/pages/9567.png
+illustrations/pages/9223.png
+illustrations/pages/9515.png
+illustrations/pages/8866.png
+
+translations:
+
+Lunyole (Translation)	My Picture Book	id=10165

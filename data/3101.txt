@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=3101&d=0&a=1
+id:	3101
+title:	Mbili
+author:	Ursula Nafula
+artist:	Richard MacIntosh
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3101.png
+desc:	Mitungo miepesi kuhusu vitu viwili au jozi – viganja
+
+page_text:
+
+P1	Mikono miwili midogo ya kushika.
+P2	Miguu miwili midogo kupiga teke.
+P3	Macho mawili madogo kuona.
+P4	Masikio mawili madogo kusikia.
+P5	And two loving arms to HUG!
+P6	Na mikono miwili KUKUMBATIA kwa upendo.
+
+images:
+
+illustrations/pages/3062.png
+illustrations/pages/3061.png
+illustrations/pages/3063.png
+illustrations/pages/3064.png
+illustrations/pages/3065.png
+illustrations/pages/3066.png
+illustrations/pages/3067.png
+illustrations/pages/3068.png
+illustrations/pages/3069.png
+illustrations/pages/3070.png
+illustrations/pages/3071.png
+
+translations:
+
+Arabic (Translation)	اثنان	id=19920
+English (Original)	Two	id=3072
+Gikuyu (Translation)	Igĩrĩ	id=9676
+Ng’aturkana (Translation)	Ng'arei	id=9543

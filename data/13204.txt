@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13204&d=0&a=1
+id:	13204
+title:	Aparasia Nu Aiyeng
+author:	John Emongot
+artist:	Rob Owen, Alice Toich, Catherine Groenewald, Marion Drew, Mango Tree, Onesmus Kakungi and Wiehan de Jager
+lang:	Ateso
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13204.png
+desc:	Ikamunit aswamisinei nu isomayete iduwe aparasia nu aiyeng.
+
+page_text:
+
+P1	Erai nu aparasia nu aiyeng. Iyalamas iduwe kere.
+P2	Edol aiyeng, epol aswam k'abolya.
+P3	Ekwenyunete Apio kede Opio arar aito tapuruc sek.
+P4	Elosi Opio ka papa ke acok aituk.
+P5	Toto, Opio k'Apio elosete aipejoikin tataa kec ocaalo, Apokor.
+P6	Opotu oloto aidar ebaasi lo eyangari kesi.
+P7	Obu tataa kec iyalamikin anu awanyun ike tatai. Ayangautos iboro lu ipu.
+P8	Obu papaa kec da iyalamikin noi.
+P9	Ogeyari tata aitemonokin ibore yen iyamat.
+P10	Oponi okorakinai Asio ka Opio emucere k'agarya.
+P11	Edol ebong, obu Opio olot abolya emopiira ka ipapero ke.
+P12	Olosi Asio aisiom kede ipapero ke.
+P13	Eyapu abongor osomero, obu toto ka papa kec Asio ka Opio ipooto epucit kede iduwe iciye.
+
+images:
+
+illustrations/pages/9066.png
+illustrations/pages/11676.png
+illustrations/pages/11668.png
+illustrations/pages/11668.png
+illustrations/pages/11670.png
+illustrations/pages/11661.png
+illustrations/pages/11455.png
+illustrations/pages/11662.png
+illustrations/pages/11674.png
+illustrations/pages/10050.png
+illustrations/pages/11669.png
+illustrations/pages/12881.png
+illustrations/pages/9855.png
+illustrations/pages/12945.png
+
+translations:
+
+English (Original)	Holiday Time	id=13021
+Lunyole (Translation)	Luŋumula	id=13647
+Lunyole (Adaptation)	My Holiday Time	id=13648

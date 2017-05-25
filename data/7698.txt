@@ -1,0 +1,27 @@
+url:	http://africanstorybook.org/reader.php?id=7698&d=0&a=1
+id:	7698
+title:	'n Koei is my Vriend
+author:	Vanessa Rademeyer
+artist:	Marleen Visser and Felicity Bell
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7698.png
+desc:	n Storie oor die belangrikheid vann koei vir die mens.
+
+page_text:
+
+P1	Mama koei koei. Ek hou van jou koei koei.
+P2	Gister het jy my melk gegee.
+P3	Mama het 'n pragtige handsak en ek het baie goeie skoene.
+
+images:
+
+illustrations/pages/6379.png
+illustrations/pages/6373.png
+illustrations/pages/6376.png
+illustrations/pages/6105.png
+
+translations:
+
+English (Original)	A Cow is my Friend	id=6383

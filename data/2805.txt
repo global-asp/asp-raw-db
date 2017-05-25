@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=2805&d=0&a=1
+id:	2805
+title:	Kaayosyeet
+author:	Joyce Chemitai
+artist:	Kathy Arbuckle
+lang:	Sabinyi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2805.png
+desc:	I am helping to prepare vegetables to cook. There is one vegetable I dont like preparing.
+
+page_text:
+
+P1	Ayotaani ani taponik.
+P2	Ateene kaapuconteet.
+P3	Ateene karotinak.
+P4	Asiite paroyoonik.
+P5	Mwatya ceko amuute mwatyaap ceeko.
+P6	Ateene sukuumanik.
+P7	Teene yeyo nyimwani. Mutuŋkurunak.
+P8	Yiyani mutuŋkurunak arir yee amiite ateene.
+
+images:
+
+illustrations/pages/1307.png
+illustrations/pages/1307.png
+illustrations/pages/1308.png
+illustrations/pages/1309.png
+illustrations/pages/1310.png
+illustrations/pages/1311.png
+illustrations/pages/1312.png
+illustrations/pages/1313.png
+illustrations/pages/1314.png
+
+translations:
+
+Afrikaans (Translation)	Kook	id=7691
+Aringati (Translation)	Aꞌdíŋá	id=8358
+Ateso (Translation)	Aipo	id=2849
+Ateso (Translation)	Aipo	id=7669
+Dhopadhola (Translation)	Tedo	id=19484
+English (Original)	Cooking	id=2795
+isiZulu (Translation)	Ukupheka	id=8744
+Lugbarati (Translation)	Nyaka A`diza	id=2799
+Lugbarati (Official) (Translation)	Nyaká A’Dɨ́zà	id=8754
+Lumasaaba (Translation)	Khuuteekha	id=8745
+Lunyole (Translation)	Ohunyiiya	id=2802
+Lusoga (Translation)	Okufumba	id=8746
+Sesotho (Lesotho) (Translation)	Phehang	id=19966
+Setswana (Translation)	Go Apaya	id=2806

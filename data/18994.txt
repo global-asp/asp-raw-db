@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=18994&d=0&a=1
+id:	18994
+title:	Palesa O Rata Dimela
+author:	Sara Mohale
+artist:	Jesse Pietersen
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18994.png
+desc:	Palesa o bolela le mehlare
+
+page_text:
+
+P1	Yo ke Palesa. Leina la gagwe le ra go re 'letšoba' ka polelo ya gabo ya Setswana.
+P2	Palesa o bolela le mohlare wa monamune mo mesong. "Mohlare wa monamune,  re kgopela o re fe dinamune tše dintši."
+P3	Palesa o ya sekolong ka maoto. Mo tseleng o bolela le bjang o re,  "Ka kgopelo bjang,  gola o be yo motala o se ke wa omelela."
+P4	Palesa o feta matšoba a naga. "Matšoba,  re leboga mebala ya lena ye mebotse ya go kganya."
+P5	Sekolong,  Palesa o bolela le mohlare wo monnyane. "Mohlare,  re kgopela o be le dithabe tše kgolo gore re kgone go dula morithing ge re bala."
+P6	Palesa o bolela le mehlašana yeo e dikologilego sekolo. "Ka kgopelo,  gola o tiye gore o thibele batho ba go se loke go tsena ka sekolong."
+P7	Ge Palesa a boa sekolong,  o etela mohlare wa dinamune. "Na dinamune tša gago di šetše di butšwitše?"a botšiša a realo.
+P8	"Dinamune di sa le tala," Palesa a realo ka go nyama. "Ke tla go bona gosasa mohlare wa monamune," a realo. "Mohlomongwe o tla be o ntshwaretše namune ya go butšwa!"
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+ChiTonga (Translation)	Palesa Ulayanda Zisamu	id=18641
+CiNyanja (Translation)	Palesa Akonda Mitengo Na Maluwa	id=18610
+IciBemba (Translation)	Palesa Alitemwa Ifimenwa	id=18585
+isiZulu (Translation)	Upalesa Uthanda Izitshalo	id=16092
+SiLozi (Translation)	Palisa Ulata Licalo	id=18568
+Xitsonga (Translation)	Palesa U Rhandza Swimilana	id=18862

@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=13211&d=0&a=1
+id:	13211
+title:	Ekokoroit Ka Apoo
+author:	Lolupe teachers
+artist:	Duane Arthur
+lang:	Ng’aturkana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13211.png
+desc:	Poyo kidiama apoo ka ekokoroit. Abu ekokoroit kingala lopaekeng.
+
+page_text:
+
+P1	Kolong ang'orot,  ayei Ekokoroit ka Apoo. Arai kechi ng'ipaalon luminan.
+P2	Atabong apei kilak Apoo Ekokoroit anawi keng. Kimuja kechi akimuj nakeebon aapei.
+P3	Todol apak nalosiet akiper. Abu Apoo king'olik atamar ewoito ekokoroit ka akewi ng'akies eperete.
+P4	Taanyung'a Apoo atamar eperete Ekokoroit ka akewi niajokon. Nyejotooro ng'esi kiiya kuwala.
+P5	Ataparachu,  asaki Apoo akiyen ng'amunonoe Ekokoroit. "Aliwae iwanakinete eesi ng'akies nakwaare?" King'is ng'esi.
+P6	Abu Ekokoroit tolimo aboliar ng'esi. Tolimok tama,  "Ekone,  kiyakar sua ng'ikieny ng'amunonoe elosio akiper. Eperio etuboritae ng'akies. Ejotooroi ejok emam ng'akies."
+P7	"Ani nataparachu tobuakinae ng'akies nabo," kitatamia Ekokoroit.
+P8	Tolot Apoo nawi kisisa ng'aumonoe ang'ikukui. Totiaku awi Apoo akiroo ng'una! Esibit iyong inyo abu tosubakin?
+
+images:
+
+illustrations/pages/12453.png
+illustrations/pages/12438.png
+illustrations/pages/12440.png
+illustrations/pages/12443.png
+illustrations/pages/12449.png
+illustrations/pages/12453.png
+illustrations/pages/12454.png
+illustrations/pages/12455.png
+illustrations/pages/12456.png
+
+translations:
+
+English (Original)	Rooster and Hare	id=12464
+French (Translation)	Coq Et Lièvre	id=13275
+Kiswahili (Translation)	Jimbi Na Sungura	id=12609
+Portuguese (Translation)	O Galo E a Lebre	id=18859

@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=7685&d=0&a=1
+id:	7685
+title:	Umzimba Wam
+author:	Nokwanda Mbusi
+artist:	Mlungisi Dlamini
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7685.png
+desc:	Imizimba yethu singayisebenzisa ukwenza izinto ezininzi
+
+page_text:
+
+P1	Ndingabaleka ngawo.
+P2	Ndingaxhuma ngawo.
+P3	Ndingadanisa ngawo.
+P4	Ndingaqubha ngawo.
+P5	Ndingatsiba ngawo.
+P6	Ndingakhaba ngawo.
+P7	Ndingasuka ndihambe ngawo.
+P8	Kodwa andingekhe ndibhabhe ngawo.
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Anywak (Translation)	Dëëra	id=17261
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+English (Adaptation)	My Body	id=9882
+Kikamba (Translation)	Mwii Wakwa	id=2934
+Kiswahili (Translation)	Mwili Wangu	id=12632
+Luganda (Translation)	Omubiri Gwange	id=2935
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Sepedi (Translation)	Mmele Waka	id=7854
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386
+Zande (Translation)	Kptore	id=12613

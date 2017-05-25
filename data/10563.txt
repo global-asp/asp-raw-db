@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=10563&d=0&a=1
+id:	10563
+title:	Friendship Between Hyena and Hare
+author:	Adapted Aesop's Fable
+artist:	Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10563.png
+desc:	Adapted from Aesops fableHare and Hound
+
+page_text:
+
+P1	Hare and Hyena were friends. They decided to farm potatoes together.
+P2	They worked hard on the farm.
+P3	After work,  Hare and Hyena played together.
+P4	But sometimes Hyena chased Hare. Hare would run away.
+P5	One day,  Hare asked,  "If you are my friend,  why do you chase me?"
+P6	Then Hare asked,  "But if you are not my friend,  why do we work and play together?"
+P7	A friend is someone who is always a friend.
+
+images:
+
+illustrations/pages/8136.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8135.png
+illustrations/pages/8150.png
+illustrations/pages/8138.png
+illustrations/pages/8136.png
+illustrations/pages/8141.png
+
+translations:
+
+Luganda (Translation)	Omukwano Gwa Wakayima Ne Wampisi.	id=12912

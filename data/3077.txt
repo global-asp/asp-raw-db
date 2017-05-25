@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=3077&d=0&a=1
+id:	3077
+title:	Musalu Awonesa Paapawe
+author:	Milton Eridad Shissa
+artist:	Benjamin Mitchley
+lang:	Lumasaaba
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3077.png
+desc:	Musau’s father
+
+page_text:
+
+P1	Aabawo khaalekho,  yabawo khakhaana khasiinde khatweela kheesi balaanga bari Musalu,  nga khamenya ni paapawe bari Syooba.
+P2	Abe imbuka ifuura buukali,  Syooba ekhala ibulafu mu khunywa,  khukhwoolesa shiilo khukari,  nga Musalu ayilakho imbuka khuumubona.
+P3	Buli mbuka isi paapa wa Musalu akobolela ingo,  aakhupatsaka liyoombo ari,  "Balebe,  Balebe! Yiitsa munjeete,  namuunyu akana khuundya."
+P4	Ne buIi lweesi baawulilatsaka Syooba nga akhupa liyoombo,  babekhali be khu shisiintsa beetsatsaka,  nga barura mu bulili bwaabwe,  nga baabaliile buyiingo,  kamafumo ni tsipaanga,  khuuwonesa Syooba. Ne buli mbuka abe bamunyoola waameelile,  nga abawombesa busa.
+P5	Paapa wa Musalu weloosela ni khuunywa ni khuukhupa liyoombo lwe buyeeti shiilo khukari. Nabo babekhali be mu shisiintsa belooselatsaka khukhwiitsa ni buyiingo,  ni kamafumo,  ni tsipaanga,  nga bakana khuuwonesa Syooba. Ne buli mbuka nga bamunyoola wameelile,  nga abawombesa busa.
+P6	Abe buli lweesi paapa wa Musalu akobolela ingo mu shilo khukari,  Musalu awulila liyoombo ilyo,  lyaamusiisimusa mwiilo. Musalu abe waamanya likono lya paapawe buulayi naabi. Abe arekereesa khukhwoolesa Syooba ni eetsa mu shiilima woola aambi ni kumulyaango kwe ntsu yaabwe.
+P7	Shiilo shitweela,  Syooba waakobola ingo nga wameelile,  nga ni shabatsaka busheele. Ne kumuluundi kuno,  abe namuunyu weebisile aambi ni ntsu yeewe. Syooba n'akhupa liyoombo,  namuunyu waamwiitsa khuumwibwakala buubi naabi.
+P8	Syooba waantsuwa luukali lweene. Ne babekhali baaloma bari,  "Syooba waakhuluwisile ni buuwombesi bweewe." Baryo baashuukhila busa mu bulili bwaabwe,  baafuura liilo lyaabwe.
+P9	Nga ni shabatsaka busheele,  khukhwantsuwa khwa Syooba khwasiisimusa Musalu. Musalu waarekereesa buulayi ari awulile paapawe oole nga ni shabatsaka. Ne paapawe waalekha khwoola aambi ni ntsu ta. Musalu wenyukha wekhala,  waarekeeresa buulayi bubweene.
+P10	Musalu welomela ari,  "Kwaluno,  ifwaana paapa wase ali mu bukosi. Ari s'ali khuuuwombes ta."
+P11	Musalu wesuta waarura mu bulili bweewe. Wasyuula shitsikhi she kumulilo khukhwaama mu mayika.
+P12	Musalu walaanga ari,  "Paapa! Paapa! Mu buwaanga bwe kumweesi,  Musalu waabona paapawe nga arekana ni namuunyu. Wenyusa shitsikhi she kumulilo mu ngaaki."
+P13	Ni khukhwaamila abweenewo,  Syooba si elayo luundi khuutsya khunywa ta. Ne imbuka yeewe ifuura buukali,  aakimalila mu khukanikhila babaana be mu maleekelo tsingano.
+
+images:
+
+illustrations/pages/1433.png
+illustrations/pages/1434.png
+illustrations/pages/1435.png
+illustrations/pages/1436.png
+illustrations/pages/1437.png
+illustrations/pages/1438.png
+illustrations/pages/1439.png
+illustrations/pages/1440.png
+illustrations/pages/1441.png
+illustrations/pages/1442.png
+illustrations/pages/1443.png
+illustrations/pages/1444.png
+illustrations/pages/1445.png
+illustrations/pages/1446.png
+
+translations:
+
+Amharic (Translation)	አባቱን የታደገው ጥላሁን	id=12738
+English (Original)	Musau Saves His Father	id=2140
+English (Adaptation)	Musau Saves His Father	id=18326
+Luganda (Translation)	Kabali Ataasa Kitaawe	id=6426
+Lugbarati (Translation)	Amagu Pa Ima Ati	id=2522
+Lunyole (Translation)	Musa Ataasa Semwana	id=2523

@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=18074&d=0&a=1
+id:	18074
+title:	Ikeny Lokut
+author:	Simon Ipoo
+artist:	Joshua Waswa
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18074.png
+desc:	ikeny lokut loatuman lo anyami erot
+
+page_text:
+
+P1	Ache kolong'it alosi ayong nawi,  abu atorukau lokut lotiatuman.
+P2	Napei achaki amoru  anapandil kona,  dio kirema tama, "Akoro,  akoro akoro!"
+P3	Toporo lokut kidiama. Nakaneni,  abu ayong epung'ar ewapak etor kiding ng'inyia.
+P4	 Todol ni adoo kidiama ekitoe lotikoonon. Dio atachak nabo. Apak naga tachakun kwap.
+P5	Atokopu ayong ikeny lokut kang.
+P6	Ainak Erot: lo anyameene ibore daang nicha aanyuni ng'esi. Talakar ng'esi ikobari lokut.
+P7	Apolot akou alokut,  nabo agogong noi ekoni epanga kori aep.
+P8	Ayakar lokut atumes na ikoni na amesek. Arai lokesuburakinan noi!
+P9	Nyepalag aanyun lokut. Eperenete nakwaare naduon  naebokito katen aekitoe nakoonok. Imujeene ituan ibore ni emina. Ng'esi anyamia Erot lokut.
+
+images:
+
+illustrations/pages/2432.png
+illustrations/pages/2433.png
+illustrations/pages/2434.png
+illustrations/pages/2438.png
+illustrations/pages/2435.png
+illustrations/pages/2436.png
+illustrations/pages/2437.png
+illustrations/pages/2439.png
+illustrations/pages/2440.png
+illustrations/pages/2441.png
+
+translations:
+
+English (Original)	The Hornbill	id=2563
+Luganda (Translation)	Eŋŋaaŋa	id=2774
+Lugbarati (Translation)	Arakiliko	id=2710
+Lugbarati (Official) (Translation)	Àràkílíkò	id=8768
+Lumasaaba (Translation)	Liŋaasa (Ŋaa, Ŋaa)	id=2775
+Lunyole (Translation)	Eŋaaŋa	id=3156

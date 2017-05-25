@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=6719&d=0&a=1
+id:	6719
+title:	Olchoré Láí Ojî Coco
+author:	Leonard Kotikash
+artist:	Ursula Nafula
+lang:	Maa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/6719.png
+desc:	Coco is my puppy. His brother also comes to live with us
+
+page_text:
+
+P1	Óre apá ará kití,  náaishô olénkapú enkíshóórotó sídáí olêng. Náaishô olkití día.  Óre ínâ olóng nayáu áng,  náshípa olêng,  amû átáyíóló ajó ánóto olchoré odúpa.
+P2	Náajokí olénkapú peê adung'oki enkárná. Nájó Coco. Náaikilíkuan olénkapu peê aishoó ínâ árná. Nájóki,  te enkárakí kényaányukie "cocoa."
+P3	Náíkilíkuan olénkapú tenáa ké ninyé aké eáta. Náajokí,  kéáta likái onyaányukie.  Nálo adól.
+P4	Óre peê édôl Coco olaláshe,  néshipa olêng. Néítutûm ilúkúny énaa iloshî oányaita ilomón.
+P5	Náomón olénkapú peê áaishó mataramáta pokíra aáre. Náaishô. Néjo peê aramát aitobirakí. Népuo lelô díéîn boó áaiguran.
+P6	Óre peê elusóo ilápaitin kumók,  nébulu lelô díéîn áaku sapúki. Néaku imáídim ataramáta ópeny.
+P7	Nélotu olénkapú ayá olikái día. Néíng'uarí Coco. Óre peê eyáí olaláshe,  néísinánuo Coco olêng. Nétiu énaa káagirá aikilikúán ajokí,  "káínyoo peê itaasá ínâ?"
+P8	Népal endála. Néany kiriamári áapuo óng'átá. Nétií inkólóng'i náanya Coco endáa kití olêng. Nányamálu siî nanú olêng. Náíng'oru enáíkó peê arét Coco.
+P9	Nédala,  néípirrâr Coco ó olaláshe lenyé te dúkuya nánú.
+P10	Nádol ajó etishípe Coco peê etumó ó olaláshe lenyé. Náláu ajó ké ing'áí áíter airorokí,  ké olénkapú láí arashû ké Coco. Náyíólou ajó kényorráa táatá Coco máíriamari áapuo áaipirrar te ong'atá.
+
+images:
+
+illustrations/pages/2485.png
+illustrations/pages/2486.png
+illustrations/pages/2487.png
+illustrations/pages/2488.png
+illustrations/pages/2485.png
+illustrations/pages/2491.png
+illustrations/pages/2490.png
+illustrations/pages/2492.png
+illustrations/pages/2489.png
+illustrations/pages/2493.png
+illustrations/pages/2494.png
+
+translations:
+
+English (Original)	My Friend Coco	id=2548
+isiZulu (Translation)	Umngani Wami Ukhokho	id=6716
+Kikamba (Translation)	Munyanya Wa Wakwa Coco	id=6717
+Kiswahili (Translation)	Rafiki Yangu Coco	id=6718
+Ng’aturkana (Translation)	Lopaekang Koko	id=6720
+Oluwanga (Translation)	Omwitsa Wanje Kulukulu	id=6721

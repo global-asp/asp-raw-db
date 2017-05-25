@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=19767&d=0&a=1
+id:	19767
+title:	Monkey and the Drought
+author:	Jane Taylor and African Storybook
+artist:	Salim Kasamba
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19767.png
+desc:	We can all live together peacefully if we are willing to share. (Also available at Level 3.)
+
+page_text:
+
+P1	The rains did not come. The land was very dry.
+P2	This monkey left home to look for water and food.
+P3	She walked over hills and valleys.
+P4	She came to a place named Tirkol.
+P5	Monkey was very happy in this place.
+P6	She ate fruit and got fat. But she missed her friends.
+P7	So Monkey made the long journey home.
+P8	The other monkeys were joyful to see her.
+P9	"Where is this wonderful place with fruit?" they asked her.
+P10	"I will take you there," said Monkey.
+P11	The other monkeys loved Tirkol. They decided to stay there forever.
+P12	But the monkeys from Tirkol were worried.
+P13	"These new monkeys will eat all our fruit," they said.
+P14	The Tirkol monkeys went to attack the new monkeys.
+P15	"Why fight?" asked an elder. "There is enough fruit for all!"
+P16	This was true. So the monkeys decided to live together peacefully.
+
+images:
+
+illustrations/pages/18796.png
+illustrations/pages/18786.png
+illustrations/pages/18788.png
+illustrations/pages/18789.png
+illustrations/pages/18790.png
+illustrations/pages/18791.png
+illustrations/pages/18792.png
+illustrations/pages/18793.png
+illustrations/pages/18794.png
+illustrations/pages/18795.png
+illustrations/pages/18796.png
+illustrations/pages/18797.png
+illustrations/pages/18798.png
+illustrations/pages/18799.png
+illustrations/pages/18800.png
+illustrations/pages/18801.png
+illustrations/pages/18802.png
+
+translations:
+
+English (Original)	Monkey and the Drought	id=18803
+Kiswahili (Translation)	Kima Na Kiangazi	id=18804

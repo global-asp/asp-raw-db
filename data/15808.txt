@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=15808&d=0&a=1
+id:	15808
+title:	Ya Tukupanda Mun'gunda
+author:	Alberto Mateus Chaibo
+artist:	Silva Afonso
+lang:	Ciyawo
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15808.png
+desc:	A-Luwisa akwete masengo gakutenda ga pacikola.  Mama vawo adipelece kwakamucisya.  A-Luwisa akudijiganya cici kwa mama vawo?
+
+page_text:
+
+
+images:
+
+illustrations/pages/13693.png
+illustrations/pages/13689.png
+illustrations/pages/14114.png
+illustrations/pages/14113.png
+illustrations/pages/14115.png
+illustrations/pages/13693.png
+illustrations/pages/13694.png
+illustrations/pages/13695.png
+illustrations/pages/13696.png
+illustrations/pages/13697.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Portuguese (Original)	O Que Semeamos Na Machamba	id=14100

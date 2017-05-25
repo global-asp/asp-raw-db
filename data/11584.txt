@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=11584&d=0&a=1
+id:	11584
+title:	Kabali and Kateera
+author:	Milly Kasule
+artist:	Franz Phooko
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11584.png
+desc:	Two friends each have a different animal. One has a cat
+
+page_text:
+
+P1	Kabali and Kateera are friends.
+P2	Kabali has a cat. Kateera has a rabbit.
+P3	Kabali plays with his cat every day.
+P4	Kateera feeds his rabbit twice a day.
+P5	Kateera's rabbit produced six babies. Two rabbits were black. Two rabbits were brown. Two rabbits were white.
+P6	Kabali's cat produced three babies. One kitten was male. Two kittens were female.
+P7	Kateera sold four of the baby rabbits. He used the money to buy books and pencils for school.
+P8	Kabali did not sell any kittens. The people in the village did not want cats.
+
+images:
+
+illustrations/pages/9585.png
+illustrations/pages/9576.png
+illustrations/pages/9577.png
+illustrations/pages/9578.png
+illustrations/pages/9579.png
+illustrations/pages/9580.png
+illustrations/pages/9581.png
+illustrations/pages/9582.png
+illustrations/pages/9583.png
+
+translations:
+
+Luganda (Original)	Kabali Ne Kateera	id=11555

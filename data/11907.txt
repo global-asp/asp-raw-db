@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=11907&d=0&a=1
+id:	11907
+title:	Obulema Si Butesobola.
+author:	Cissy Namugerwa and Ritah Katetemera
+artist:	Wiehan de Jager
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11907.png
+desc:	Olugero luno lwogera ku bantu abalina obulemu ku mibiri gyabwe naye nga bakola emirimu  ngabalala.
+
+page_text:
+
+P1	Ono ye Agnes. Musomesa.
+P2	Agnes mulema. Atambulira ku miggo.
+P3	Ono ye Metobo. Akola ku luleereetu.
+P4	Metabo namagoye. Alina ekizibu ku maaso ge.
+P5	Ono ye Moraa. Mulimi.
+P6	Moraa tawulira. Akozesa bubonero.
+P7	Ono ye Osero. Yasinga okusamba mupiira kusomero lyange.
+P8	Osero yafuna ekizibu ku mikono bwe yafuna a kabenje. Naye akozesa ebigere bye nawangula.
+
+images:
+
+illustrations/pages/10424.png
+illustrations/pages/10419.png
+illustrations/pages/10418.png
+illustrations/pages/10420.png
+illustrations/pages/10421.png
+illustrations/pages/10422.png
+illustrations/pages/10424.png
+illustrations/pages/10425.png
+illustrations/pages/10426.png
+
+translations:
+
+Afrikaans (Translation)	Gestremde Mense Kán! 	id=20056
+Amharic (Translation)	አካል ጉዳተኝነት ከምንም አያግድም!	id=16458
+Ateso (Adaptation)	Mam Angwal Erai Adekk!!!	id=16212
+ChiTonga (Translation)	Bulema Takuli Kwaalilwa	id=18636
+CiNyanja (Translation)	Kulemala Sikulepela	id=18624
+English (Original)	Disability is Not Inability	id=10416
+English (Adaptation)	Disability is Not Inability	id=12694
+English (Adaptation)	Different Abilities	id=13496
+IciBemba (Translation)	Ukulemana Teekufilwa	id=18581
+isiNdebele (Translation)	Ukukgholophala Akwenzi Umuntu Ukobana Angakghoni Ukwenza Izinto	id=11323
+isiXhosa (Translation)	Ukukhubazeka Akuthethi Ukuba Awunakho Ukwenza Izinto	id=17522
+isiZulu (Translation)	Abazona Izehluleki	id=16089
+Ng’aturkana (Translation)	Meere Ang'walu Apalagag	id=11809
+Portuguese (Translation)	A Deficiência Não É Uma Incapacidade	id=16412
+Sepedi (Translation)	Bogolofadi Ga Se Go Se Kgone	id=17996
+Sesotho (South Africa) (Translation)	Ho Ba Le Boqhwala Ha Se Ho Hloka Bokgoni	id=20025
+Setswana (Translation)	Bogole Ga Se Go Palelwa	id=14962
+Setswana (Translation)	Bogole Ga Se Go Palelwa	id=18882
+SiLozi (Translation)	Buhole Aki Kupalelwa	id=18563
+Tshivenda (Translation)	Vhuholefhali a Si U Sa Kona	id=18181
+Xitsonga (Translation)	Vutsoniwa a Hi Vutsandzeki	id=18990

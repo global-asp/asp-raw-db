@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=12912&d=0&a=1
+id:	12912
+title:	Omukwano Gwa Wakayima Ne Wampisi.
+author:	Annet Ssebaggala
+artist:	Rob Owen
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12912.png
+desc:	Awabeera omukwano tewabulawo bintu binyiiza.
+
+page_text:
+
+P1	Wakayima ne Wampisi baali ba mukwano. Baasalawo okulimira awamu. Baalima omusiri gwa Lumonde.
+P2	Baakolanga nnyo na'maanyi nga bali mu nnimiro.
+P3	Nga bamaze okukola,  Wakayima ne Wampisi baazanyangako bombi.
+P4	Naye ebiseera ebimu, Wampisi yafubutulanga nnyo Wakayima emisinde.
+P5	Olunaku lumu, Wakayima yabuuza Wampisi,  "Bwoba ddala oli mukwano gwange,  lwaki onfubutulanga emisinde?"
+P6	Ne Wampisi nabuuza bwati,  "Singa ddala toli mukwano gwange,  twandikoze era netuzanya ffenna?"
+P7	Owomukwano ye muntu abeera mukwano gwo ddala buli kadde.
+
+images:
+
+illustrations/pages/8136.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8135.png
+illustrations/pages/8150.png
+illustrations/pages/8138.png
+illustrations/pages/8136.png
+illustrations/pages/8141.png
+
+translations:
+
+English (Original)	Friendship Between Hyena and Hare	id=10563

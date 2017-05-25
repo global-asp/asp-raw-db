@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=10040&d=0&a=1
+id:	10040
+title:	Buji Masamanne Nanaye
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Catherine Groenewald
+lang:	Kanuri
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10040.png
+desc:	Fero gana adə kəla tappiajappayen wurayen. Tappi Akai awo diwi tia cuwandia cəkkayi koro ngudo laa təngəɍi tia banajiyi.Barra bana adəyen curo kauwayen fakkeyenniya
+
+page_text:
+
+P1	Sa Nana ganajun yanju tia buji shawanin sǝnaji. Yinnanju buji masamanne adǝa ngǝlaini kitando.
+P2	Bujidǝ iɍinju: ingi goroye-a ɍiwulla-a kǝɍi-a. Bujidǝ bujiya yanjuye curo ngimbedǝa gade.
+P3	Katti gǝre fanjayedǝ ngamdu ye kannua ye kau-aye. Curonju kadi-a kǝlanji-a dasaga. Nana ndason yaye sai kǝladowa ani tia jagǝria.
+P4	Yanju wulji: "Adǝ bujinju masammanne tia kǝladowaro yida ciɍiwi."
+P5	Nana fero hangalla. Na baram kǝrǝnnedǝa nojǝna.
+P6	Bǝla kakanjuye Gadoridǝ na dǝganadǝa nojǝna. Sa san leje kiam kaɍimoye kakanju-a casai.
+P7	Yim laa, Nana sanambu kido. Gadoriro,  bǝla kakanjuyero ciyenniya,  jawallan curo kauwayen facciye ledu tiyero. Rijǝna ngai.
+P8	Fǝrdu kǝska laayen napce bana gureyen. Sadǝn tia kǝnǝm ngoje kǝnnasim badiyen.
+P9	Ngo kǝnnasimnjudǝ: Kǝla buji masammannen ti bowoda. Kakanju mǝmǝssiaro tiro kiam kaɍimoye curo kop kurayen ci. Sa Nana kop kiambedǝa cǝmoyidǝ kǝnǝmmin fayen.
+P10	Nana hangallayen simnju kaje kǝlanju sapkenniya,  kǝla kǝskayen kǝlakaajinjun ngudo jiɍi ɍiwullaa napkada kiro.
+P11	Nana ciyenniya ngudodǝ ganadǝ fefedo bakce tiro jawaldǝa fǝleyeyeno. Ngudodǝa giya.
+P12	Nana na jawaldǝ yindiro yaktidǝro kadio. Ngudo ɍiwulladǝ njango bujiye Nanayedǝa camǝn kolyen.
+P13	Nana nguje ngoyenniya,  gǝwaktu sinjuye bujidǝ kiro. Kuwa buji yanjuro asuyen. Sam kidǝnniya baram am fanjaye ingi ngojaidǝa kiro.
+P14	Am fanjaye aiya-a bike-an tia kapkeyera. Barga kǝnde feronjayero kani duwajane malyera.
+P15	Nana kǝla bujinju masammannen napce danju giyiro.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5997.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6002.png
+illustrations/pages/6003.png
+illustrations/pages/6004.png
+illustrations/pages/6005.png
+illustrations/pages/6006.png
+illustrations/pages/6007.png
+
+translations:
+
+English (Original)	Akai's Special Mat	id=6008
+French (Translation)	La Natte Spéciale D’Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+Kiswahili (Translation)	Mkeka Wa Akai	id=7860
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Nkaayi Noomukeeka Omulobole	id=7893
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+siSwati (Translation)	Imadi Yathembi Lebalulekile	id=13073
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

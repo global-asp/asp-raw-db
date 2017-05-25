@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=14417&d=0&a=1
+id:	14417
+title:	Eu Sei Fazer Isso!
+author:	World Education
+artist:	Silva Afonso
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14417.png
+desc:	Amélia acorda e pensa: Hoje é o meu primeiro dia de escola.
+
+page_text:
+
+
+images:
+
+illustrations/pages/13814.png
+illustrations/pages/13815.png
+illustrations/pages/13816.png
+illustrations/pages/13819.png
+illustrations/pages/13817.png
+illustrations/pages/13820.png
+illustrations/pages/13821.png
+illustrations/pages/13822.png
+illustrations/pages/13823.png
+illustrations/pages/13824.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+English (Translation)	I Can Do This!	id=14534
+French (Translation)	Je Peux Le Faire!	id=14537

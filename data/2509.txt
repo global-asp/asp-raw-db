@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=2509&d=0&a=1
+id:	2509
+title:	Ga Di Ntekane
+author:	Ngwanapule Margaret Malele and Maureen N. Ramusi
+artist:	Sandy Lightly
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2509.png
+desc:	Lebo’s clothes are all too small for her. What will she do with them?
+
+page_text:
+
+P1	"Mma,  e tla o bone," Lebo a ngongorega. "Diaparo tše ga di ntekane,  ke tše nnyane." "Ga ke bone," gwa araba Mma.
+P2	"Lebelela sekhete sa ka. Ga se ntekane," Lebo a ngongorega. "Ee,  ke a dumela," gwa araba Mma. "Neo o tla tšea sekhete sa gago."
+P3	"Lebelela borokgo bja ka. Ga bo ntekane," Lebo a ngongorega. "Ee,  ke a dumela," gwa araba Mma. "Neo o tla tšea borokgo bja gago."
+P4	"Lebelela sekipa sa ka. Ga se ntekane," Lebo a ngongorega. "Ee,  ke a dumela," gwa araba Mma. "Neo o tla tšea sekipa sa gago."
+P5	"Lebelela jesi ya ka. Ga e ntekane," Lebo a ngongorega. "Ee,  ke a dumela," gwa araba Mma. "Neo o tla tšea jesi ya gago."
+P6	"Lebelela jase ya ka ya pula. Ga e ntekane," Lebo a ngongorega. "Ee,  ke a dumela," gwa araba Mma. "Neo o tla tšea jase ya gago."
+P7	"Lebelela masokisi a ka. Ga a ntekane," Lebo a ngongorega. "Ee,  ke a dumela," gwa araba Mma. "Neo o tla tšea masokisi a gago."
+P8	"Lebelela diteki tša ka. Ga dintekane," Lebo a ngongorega. "Ee,  ke a dumela," gwa araba Mma. "Neo o tla tšea diteki tša gago."
+P9	"Bjale Neo o na le diaparo tše ntši," gwa bolela Lebo. "Aowa,  ke a gana," gwa araba Neo. "Lebelelang ga di ntekane,  ke tše kgolo!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te Klein	id=11428
+English (Original)	Too Small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani Khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane Izimpahla Zami	id=2504
+Kiswahili (Translation)	Ndogo Sana, Kubwa Sana	id=7877
+Luganda (Translation)	Ntono Nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Bibombi Naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rutooro (Translation)	Kataito	id=14944
+Sesotho (Lesotho) (Translation)	Ha Li Ntekane	id=2512

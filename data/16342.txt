@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=16342&d=0&a=1
+id:	16342
+title:	Monkey's Child
+author:	Ursula Nafula
+artist:	Jesse Breytenbach
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16342.png
+desc:	All of mother monkey’s babies die
+
+page_text:
+
+P1	In Miwa Forest,  there lived a monkey who was always sad. This was because every time she had a baby,  it died.
+P2	The pain of losing her babies made Monkey jump up and down. She would jump to one branch,  then to another,  and cry out,  "Kwi! Kwi! Kwi!"
+P3	Monkey was sadder when she saw other monkeys with their babies.
+P4	The sad monkey sat on a branch.  Days passed and she cried more and more.
+P5	Then she gave birth again. She decided to take the baby to the path so that people passing would see the baby and wish it well.
+P6	Monkey put her baby on the path. At that time,  a hunter was returning home. He saw the baby monkey lying on the side of the path.
+P7	The hunter carried the baby monkey to his house. When the hunter reached home,  his three sons wanted to hold the baby monkey.
+P8	The boys sang: Throw it up! Throw it down!  Throw it to me!  Throw it to him! The baby monkey was thrown from one child to the other.
+P9	Mother Monkey hid in a tree and watched them. She was afraid that this baby would also die,  like the others.
+P10	Then the hunter's wife saw her children playing with the little monkey. She said,  "Be careful! Bring it here. You will drop it!"
+P11	She took the baby monkey in her arms,  and blessed it.
+P12	The hunter's wife put the baby monkey down. Mother Monkey picked the baby up and disappeared into the forest. From then on,  Mother Monkey never lost another baby.
+
+images:
+
+illustrations/pages/16338.png
+illustrations/pages/16328.png
+illustrations/pages/16329.png
+illustrations/pages/16330.png
+illustrations/pages/16331.png
+illustrations/pages/16332.png
+illustrations/pages/16333.png
+illustrations/pages/16334.png
+illustrations/pages/16335.png
+illustrations/pages/16336.png
+illustrations/pages/16337.png
+illustrations/pages/16338.png
+illustrations/pages/16339.png
+
+translations:
+
+Dhopadhola (Translation)	Oŋer Gi Cipa Jadwar	id=15764
+English (Original)	Monkey and the Hunter’S Wife	id=9051
+English (Adaptation)	Monkey's Visit to the Hunter's Home	id=10273
+French (Translation)	Maman Singe Et La Femme Du Chasseur	id=10183
+Gurene (Translation)	~Maaŋa La Tu’Usa Pↄga	id=12668
+isiZulu (Translation)	Umfene Nonkosikazi Womzingeli	id=10950
+Kinyarwanda (Translation)	Inkende N'umugore W'umuhigi	id=11469
+Kinyarwanda (Translation)	Inkende N'umugore W'umuhigi	id=11481
+Kiswahili (Translation)	Mwana Wa Tumbili	id=10166
+Kiswahili (Translation)	Mtoto Wa Kima	id=12915
+Kiswahili (Adaptation)	Mwana Wa Tumbili	id=16340
+Kiswahili (Adaptation)	Mtoto Wa Kima	id=16341
+Lunyole (Translation)	Ekima N’Omuhasi W’Omuŋiimi	id=11908
+Oluwanga (Translation)	Omwana Wa Lishene	id=12958
+Setswana (Translation)	Tshwene Le Mosadi Wa Motsomi	id=11155
+Setswana (Translation)	Tshwene Le Mosadi Wa Motsumi	id=14946

@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=13071&d=0&a=1
+id:	13071
+title:	Intwala Eputjukileko
+author:	Skosana ES and Mahlangu TP
+artist:	Magriet Brink
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13071.png
+desc:	Lendaba imayelana nezinsizwa ezaziyofuna izinkomo zaze zahlwelawa
+
+page_text:
+
+P1	Kade esikhathini esadlulako. Bekunabesana ababili abaloba iinkomo zabo. Bazuma iinkomo kwabe kwarhwaqela.
+P2	Nasele kubanzima khulu,  babona umkhanyo ngendlini. Bavumelana bona bakhambe bayokubawa indawo yokulala.
+P3	Bafika endlini bakokoda. Umnyango wavuleka bangena ngaphakathi. Abesanaba azange babone muntu. Kodwana bezwa izwi libalotjhisa.
+P4	Izwi lathi,  "Ngiyintwala vulani ipoto nithathe ukudla. Vulani umjeke begodu nisele amarhewu."
+P5	Intwala yambatha isikhumba sayo yaphuma.
+P6	Abesana badla,  basela,  begodu bebathokoza. Bakhamba.
+P7	Nabasendleleni bakhamba,  bafikelwa mcabango omumbi. Bathi, "Ngeze kwenzeka ukuthi sithole ukudla entwaleni." Bagqhina baphetha ngokuvumelana bona babuyele emuva bayoku putjuza intwala.
+P8	Babuyele endlini baputjuza intwala. Ngokuphazima kwelihlo intwala beyingekho,  nendlu yanyamalala! Bazithola sebangaphandle ebalena lakuvuleke khona.
+
+images:
+
+illustrations/pages/9717.png
+illustrations/pages/9711.png
+illustrations/pages/9712.png
+illustrations/pages/9710.png
+illustrations/pages/9713.png
+illustrations/pages/9714.png
+illustrations/pages/9715.png
+illustrations/pages/9716.png
+illustrations/pages/9717.png
+
+translations:
+
+Afrikaans (Translation)	Die Luis Wat Doodgedruk Is	id=11298
+Afrikaans (Translation)	Die Platgedrukte Luis	id=11397
+Afrikaans (Translation)	Vermorselde Luis	id=11521
+English (Translation)	Crushed Louse	id=9787
+French (Translation)	Le Pou Écrasé	id=10148
+isiXhosa (Translation)	Intwala Eyatyunyuzwayo	id=16475
+isiZulu (Original)	Intwala Echotshiwe	id=9786
+Lámnsoʼ (Translation)	Shinser She  Á Bvəʼəyín	id=15066
+Luganda (Translation)	Enffa Y’Ensekere	id=11904
+Portuguese (Translation)	O Piolho Esmagado	id=16563

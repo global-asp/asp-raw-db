@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=15098&d=0&a=1
+id:	15098
+title:	Efesta Ya Ashinama a Manyaka
+author:	Little Zebra Books
+artist:	Little Zebra Books and Laura Libertore
+lang:	Elomwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15098.png
+desc:	This tale explains why pigs have flat noses. What else does the story teach us?
+
+page_text:
+
+P1	Mahiku akhalayi nikhuuru nimoha na ashinama a manyaka yahuupuwela opaka efesta etokweene,  osulu wa mwaako. Yaawoopa ashinamaru yaawo a manyaka.
+P2	Ekupa yiiwalaaya elociwaka efesta. Yeeyo yaahuupuwela,  miyo nkaano nnyaka nimoha mano keere esheeni?
+P3	Mmeelo mwaya yaahupuwela wi ekushe manyaka ehele vamuru epateyevo ni epothi. Yaaheerano yeela yonnaaya wi yaaheemereryiwa ovolowa ofestani yaasiveliwa yoonaka wi yootepa ovyaka. Yookacamiha tiila: efesta ene yeele yeereya wansuwani.
+P4	Efesta yaapacenryaaya,  nsuwa naapacerya oviha,  epothi tho epacerya otothowa manyaka emora.
+P5	Ashinama yaale amanyaka yaananariwa,  eloca eriki: "taani yoole ohirino manyaka? Ntakhara sheeni orwa vaava?"
+P6	Mwene aashinama yaale aahaaruma wi ephare ekupa yeele erihele vachayani. Ashinama oothene yiiwalaaya masu a mwene yaaheereno yeeyo ene. Yaaphara ekupa yeele erihela vachayani.
+P7	Ekupa muhaawa waya! Yaamorenlaaya vachayani yaamaninhe mpichi aya vachayani,  ohala otuturuwelanne. Yenreno yeela,  ashinama oothene yaakookela ofestani. Yaawo yaalya yiina ohiyu woothene. Mwene aahakalala.
+P8	Ohuukhuwe woona mpichi wa ekupa ori wootuturuwanelana,  waavinyenrye vaavale ophiyerya olelo.
+
+images:
+
+illustrations/pages/6814.png
+illustrations/pages/6805.png
+illustrations/pages/6806.png
+illustrations/pages/6807.png
+illustrations/pages/6809.png
+illustrations/pages/6808.png
+illustrations/pages/6810.png
+illustrations/pages/6811.png
+illustrations/pages/6813.png
+
+translations:
+
+Afrikaans (Translation)	Geen Varke Toegelaat Nie	id=10916
+Chichewa (Translation)	Nkhumba Ikanizidwa Kuphwando Chifukwa Chopanda Nyanga	id=15101
+Chinyungwe (Original)	Cikondweso Kudzulu	id=7270
+Chisena (Translation)	Nkhumba Zakhondeswa	id=15100
+English (Translation)	No Pigs Allowed	id=7272
+French (Translation)	Interdit Aux Cochons	id=10838
+isiXhosa (Translation)	Azivumelekanga Iihagu Apha	id=10127
+Kiswahili (Translation)	Nguruwe Hawaruhusiwi	id=12653
+Ng’aturkana (Translation)	Emam Ng'ikurung'oi Achamitae	id=12628
+Oluwanga (Translation)	Tsingurwe Shitsinjisibwa Tawe	id=12970
+Portuguese (Translation)	Não São Permitidos Porcos	id=15099
+siSwati (Translation)	Tingulube Atikavunyelwa	id=13050

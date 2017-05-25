@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=13076&d=0&a=1
+id:	13076
+title:	Inkhomo Leneluphondvo Lunye
+author:	Ayanda Motha and Gcwalisile Moosa
+artist:	Marion Drew
+lang:	siSwati
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13076.png
+desc:	Wake wayibona inkhomo leneluphondvo lunye futsi lengenamsila?
+
+page_text:
+
+P1	Heeeee! Kunenkhomo lenhle ekhaya.
+P2	Ayinawo umsila ineluphondvo lunye. Ibukeka iyinhle kakhulu.
+P3	Ikhuluphele futsi inesisu lesikhulu.
+P4	Iyinkhomo lenemandla kunaletinye.
+P5	Umelusi wayo uyitsandza kakhulu. Uyifundzisile lenkhomo kutsi ilalele liphimbo lakhe yedvwa.
+P6	Uma ngabe umhlambi uya emadlelweni,  lenkhomo idla yodvwa.
+P7	Lenkhomo ilwa kakhulu,  ngako-ke letinye tinkhomo tiyishiya yodvwa.
+P8	Bantfu bayayati lenkhomo. Bayayesaba ngoba ingalwa ngaloluphondvo lwayo lunye. Ungenta njani nawungake uhlangane naloluhlobo lolunjena.
+
+images:
+
+illustrations/pages/9612.png
+illustrations/pages/9613.png
+illustrations/pages/9614.png
+illustrations/pages/9615.png
+illustrations/pages/9616.png
+illustrations/pages/9617.png
+illustrations/pages/9618.png
+illustrations/pages/9619.png
+illustrations/pages/9620.png
+
+translations:
+
+Afaan Oromo (Translation)	Sa'aa Gaafa Tokko Qabdu	id=12959
+Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
+English (Translation)	Cow With One Horn	id=9622
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Kiswahili (Translation)	Ng'ombe Mwenye Pembe Moja	id=15712
+Lámnsoʼ (Translation)	Nàʼ Wo Wù Kér Loŋ E Mòʼón	id=15065
+Lunyole (Translation)	Eŋombe Ey’Olwiga Lulala	id=11906
+Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
+Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
+Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
+Sesotho (Lesotho) (Original)	Khomo E Bokopa	id=9621

@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=9189&d=0&a=1
+id:	9189
+title:	Yii Wezu
+author:	Alice Inzikuru
+artist:	Alice Inzikuru
+lang:	Lugbarati
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9189.png
+desc:	Ori ni yii weza oni
+
+page_text:
+
+P1	Ndra drio okuku piyi ori be agi ni.
+P2	Odu aliu Okuku kini Ori ni "ba muki yii wee." "Muke,  te ani ni yi wezu ku",  Ori omvi dini le. Okuku omvi "mi asiku ma nga mi embaa raa."
+P3	Agii iri di mu yii adii aa. Okuku zi,  "adi ni nga fi yii aa oko ni?" "mi ii,  ma nga mi ne raka" Ori omvi dini le.
+P4	Okuku mbu yii adii ma alea,  Ori ri eri ne engazu yii tia amve.
+P5	Sawa were vutia,  Ori fii yii adii ma alea Okuku ni di drinia embataa fesi.
+P6	Okuku pi yi Ori be we yii,  yii adii ali koko di ma alea.
+P7	Edo saa yii dria.
+P8	Yii ni saa ria yii dria,  Okuku edo yii we nguku nguku ru. Orin i Okuku ni ibiria edo omvu yii ma alea eri ni ni le yii wezu nguku nguku ru kuris i.
+P9	Ori ni di mu avi yii dria ri si bo,  Okuku nga saa eza kokuru fii Ori ni di mu avi yii dria ri si bo,  Okuku nga saa eza kokuru fii yii ma etia ori ma edri epazu.
+P10	Coti Okuku ni mu efo yii ma alia ri si bo,  laa Orin i ii ma nguku dria yii eri nit e mvu ri ofuzu.
+P11	Asizu Okuku endru yii Ori ma alea ri ii ma ti si.
+
+images:
+
+illustrations/pages/9175.png
+illustrations/pages/9175.png
+illustrations/pages/9176.png
+illustrations/pages/9177.png
+illustrations/pages/9178.png
+illustrations/pages/9179.png
+illustrations/pages/9180.png
+illustrations/pages/9181.png
+illustrations/pages/9187.png
+illustrations/pages/9182.png
+illustrations/pages/9183.png
+illustrations/pages/9184.png
+
+translations:
+
+Afrikaans (Translation)	Skilpad Tot Die Redding!	id=11252
+Afrikaans (Translation)	Swem	id=11299
+Afrikaans (Translation)	Swem	id=11331
+English (Translation)	Swimming	id=9190
+French (Translation)	Allons Nager	id=10936
+isiNdebele (Translation)	Ukududa	id=13780
+Rutooro (Translation)	Kuziha	id=14942
+Setswana (Translation)	Thuma	id=11482

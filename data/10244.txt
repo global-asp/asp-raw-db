@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=10244&d=0&a=1
+id:	10244
+title:	N'wa Vundlani Aya a Mubuzweni
+author:	Rafael Ernesto Samuel
+artist:	Hélder de Paz Alexandre
+lang:	Xitswa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10244.png
+desc:	This story is about what happens when you go to a party and get drunk. Or is it?
+
+page_text:
+
+P1	A kali loku,  a zvihari zvi pimisili aku maha a mubuzu. Kanilezvi a mubuzu lowu awu ngahi wa zonthle a zvihari. Awuhi wa zvihari zva timhonzo.
+P2	N'wa vundlani awa kari a ti longisela kasi akuya le ku buseni. Kanilezvi yena a kumili aku a mubuzu awu mu ringani. Wa zvihari zva timhonzo.
+P3	N'wa vundlani a fambili a lava a timhonzo. Loku a ti kumili a nu vekela laha ka hloku yakwe a gama aya le mubuzweni.
+P4	Le ku buseni n'wa vundlani awakari an'wa na a kina.
+P5	Aku kina ka yena ku mu karalisili a gama awa laha ka mumu. Na a kari a etlela,  a timhonzo ti nu namuka!
+P6	Hiku maha loku,  zonthle a zvihari zvinu tsumbula aku n'wa vundlani awa nga lumbi a tlawa wa zvihari zva timhonzo. Zvi mukokili a tindlevi kala akuza ti leha.
+P7	Zvi gama zvi tsutsuma. Zvi ngaho va n'wa vundlani va kulili a tindlevi tabze!
+
+images:
+
+illustrations/pages/10187.png
+illustrations/pages/10186.png
+illustrations/pages/10185.png
+illustrations/pages/10187.png
+illustrations/pages/10188.png
+illustrations/pages/10189.png
+illustrations/pages/10190.png
+illustrations/pages/10191.png
+
+translations:
+
+English (Original)	Rabbit Goes to a Party	id=10110
+English (Adaptation)	Rabbit Goes to a Party - Colouring Book	id=17433
+isiXhosa (Translation)	Umvundla Uya Ethekweni	id=13089
+Portuguese (Translation)	O Coelho Vai a Festa	id=10243
+Sesotho (Lesotho) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090

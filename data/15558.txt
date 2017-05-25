@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=15558&d=0&a=1
+id:	15558
+title:	Paka Wa Selemeng
+author:	Brigid Simiyu
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15558.png
+desc:	Selemeng ana paka wengi. Je
+
+page_text:
+
+P1	Selemeng anawapenda paka. Kuna paka wengi nyumbani kwake.
+P2	Selemeng ana paka mmoja mweusi. Paka huyu anakula nyama nyingi.
+P3	Selemeng vile vile ana paka mmoja mnono. Paka huyu anakula kila kitu.
+P4	Paka wa tatu,  alipanda juu ya mti na kukwama huko.
+P5	Selemeng alimfuata paka akakwama naye mtini. Mamake Selemeng alilazimika kumsaidia kushuka chini.
+P6	Selemeng pia ana paka wawili wavivu. Wanalala nje ya nyumba wakiota jua mchana kutwa.
+P7	Selemeng vile vile,  ana paka watatu wanao shughuli nyingi. Usiku wanawashika panya jikoni.
+P8	Selemeng ana mbwa mmoja. Jina lake ni Lirafi. Lirafi anahuzunika kwa sababu hana rafiki.
+P9	Paka wa Selemeng hawampendi Lirafi. Wanapomfukuza,  Lirafi anatoroka nyumbani.
+P10	Selemeng anapompata Lirafi,  anamrudisha nyumbani. Paka hawfurahi Lirafi anaporejeshwa. Hawataki kumwona tena.
+P11	Selemeng ana paka wangapi?
+P12	Selemeng ana mbwa wangapi? Lirafi yuko wapi sasa?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Aduroota Caala	id=12956
+English (Translation)	Selemeng's Cats	id=12155
+French (Translation)	Les Chats De Selemeng	id=13276
+Sepedi (Translation)	Dikatse Tša Selemeng	id=12581
+Sesotho (Lesotho) (Original)	Likatse Tsa Selemeng	id=12027

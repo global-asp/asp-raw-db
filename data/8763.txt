@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=8763&d=0&a=1
+id:	8763
+title:	‘Dì Má Ɨ́
+author:	Enzata Francis
+artist:	Kathy Arbuckle
+lang:	Lugbarati (Official)
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8763.png
+desc:	Mí là e’yó má mà drì á: Ma à’dí ‘ɨ́ yàrì
+
+page_text:
+
+P1	'Dì má mà e'dá nɨ.
+P2	Má mà elɨ́ ázɨ́á.
+P3	'Dìrɨ 'bá àma vílé àkúá 'dìyɨ mà e'dá.
+P4	Nyaká mání lèlé tʉ̀rɨ̀ è'bí osízàrɨ̀ pɨ mákù osízàrɨ̀ be.
+P5	Má ecó mâ drí mà e'dá gbǎ rá.
+P6	Má mà elɨ́ ázɨ́á.
+P7	Má mà símù námbà èrɨ 077 – 3426587.
+
+images:
+
+illustrations/pages/1709.png
+illustrations/pages/1710.png
+illustrations/pages/1711.png
+illustrations/pages/1797.png
+illustrations/pages/1713.png
+illustrations/pages/1714.png
+illustrations/pages/1715.png
+illustrations/pages/1716.png
+
+translations:
+
+Afaan Oromo (Translation)	Kuni Ana	id=12232
+Ateso (Adaptation)	Enngo Naa.	id=10557
+English (Original)	This is Me	id=1798
+Kikamba (Translation)	Uyu Ni Nye	id=2216
+Luganda (Translation)	Ono Ye Nze	id=2217
+Lugbarati (Translation)	‘Di Ma I	id=2718
+Lunyole (Translation)	Ono Ndiise	id=2218
+Setswana (Translation)	Ke Nna O	id=2219

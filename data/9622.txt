@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=9622&d=0&a=1
+id:	9622
+title:	Cow With One Horn
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Marion Drew
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9622.png
+desc:	Have you ever seen a cow with only one horn and no tail?
+
+page_text:
+
+P1	Heeeee! There is a beautiful cow at home.
+P2	It has only one horn,  and no tail.
+P3	It is fat,  with a big stomach.
+P4	It is a powerful cow.
+P5	The shepherd loves this cow the most.
+P6	When the other cattle graze,  this one eats alone.
+P7	This cow is a fighter. Other cows leave it alone.
+P8	If you met such a cow,  what would you do?
+
+images:
+
+illustrations/pages/9612.png
+illustrations/pages/9613.png
+illustrations/pages/9614.png
+illustrations/pages/9615.png
+illustrations/pages/9616.png
+illustrations/pages/9617.png
+illustrations/pages/9618.png
+illustrations/pages/9619.png
+illustrations/pages/9620.png
+
+translations:
+
+Afaan Oromo (Translation)	Sa'aa Gaafa Tokko Qabdu	id=12959
+Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Kiswahili (Translation)	Ng'ombe Mwenye Pembe Moja	id=15712
+Lámnsoʼ (Translation)	Nàʼ Wo Wù Kér Loŋ E Mòʼón	id=15065
+Lunyole (Translation)	Eŋombe Ey’Olwiga Lulala	id=11906
+Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
+Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
+Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
+Sesotho (Lesotho) (Original)	Khomo E Bokopa	id=9621
+siSwati (Translation)	Inkhomo Leneluphondvo Lunye	id=13076

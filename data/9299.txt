@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=9299&d=0&a=1
+id:	9299
+title:	The Race
+author:	Mozambican folktale
+artist:	Amir Bachir António Necas
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9299.png
+desc:	Who will win if snail and rabbit have a race?
+
+page_text:
+
+P1	One day the rabbit found a snail. He said to the snail,  "You can't run! All you know is how to crawl on the ground."
+P2	The snail said,  "Come and see on Sunday."
+P3	The snail prepared a hundred pieces of paper and wrote the same message on them.
+P4	The snail handed out the pieces of paper to his friends and said,  "When the rabbit comes here calling me,  one of you must say: I am the snail."
+P5	Then the snail told his friends to hide behind the bushes where the rabbit and the snail were to pass.
+P6	On Sunday,  the rabbit arrived and found the snail. The rabbit said,  "Let´s have a race. But I will win."
+P7	Snails lined up behind trees on the racing track so that each time the rabbit passed,  a snail would shout,  'I am the snail' During the race,  the rabbit called out,  "Snail! Snail!"
+P8	One of the snails hidden behind the bushes answered,  "I am the snail! I am the snail!"
+P9	Finally,  the rabbit was very tired. He lay down,  saying,  "Snail,  I am so tired; you have won." One snail watched from behind the bush.
+P10	So the snail won the race because he was clever!
+
+images:
+
+illustrations/pages/9318.png
+illustrations/pages/9318.png
+illustrations/pages/9304.png
+illustrations/pages/9305.png
+illustrations/pages/9306.png
+illustrations/pages/9307.png
+illustrations/pages/9308.png
+illustrations/pages/9309.png
+illustrations/pages/9310.png
+illustrations/pages/9311.png
+illustrations/pages/9312.png
+
+translations:
+
+Ciyawo (Translation)	Kuwutuka	id=15740
+English (Adaptation)	The Race - Colouring Book	id=17546
+Portuguese (Adaptation)	A Corrida	id=9467

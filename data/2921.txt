@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2921&d=0&a=1
+id:	2921
+title:	Ng’Abaruae
+author:	Dennis Lokitare
+artist:	Cathy Feek
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2921.png
+desc:	Iyani ekoi lo kidiama  apese naachi na edeka na kaneni emam alosukul. Erai ng’abaruae ng’irotin lu epedorea ng’esi ekiyan ka ng’itung’a luche.
+
+page_text:
+
+P1	Ewik loben,  abu ayong atanyu ng'abaruae nakaalak.
+P2	Akwaar na apei abu eketedekan kang kigir abarua loketataman kang.
+P3	Edeka Thabisile. Echamakina iboikin nawi.
+P4	Akwaar na ng'arei abu ayong ataanyu abarua anakilas kang.
+P5	Tojoker atipei,  Thabisile!
+P6	Akwaar na ng'auni abu ataanyu abarua alopaekang alokajokon akidwng daang.
+P7	Achori ayong etorube lo kotere iyong. Amina na ebunit ani a Dudu.
+P8	Akwaar na ng'omon abu ayong ataanyu abarua ani aitiokang.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

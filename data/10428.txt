@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=10428&d=0&a=1
+id:	10428
+title:	Day With my Doll
+author:	Nina Orange
+artist:	Natalie Propa
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10428.png
+desc:	A wordless story about a childs activities with her doll.
+
+page_text:
+
+P1	Akero namonyorire Azizi nkomogwarosa etuki.
+P2	Ekero nkonyu echae ya mambi nkomorgeria Azizi.
+P3	Ngotara risiko rionsi gochora amaoga.
+P4	Namoa Azizi rioga.   Korende tarigoteba,  "Mbuya mono."
+P5	Nigo nkomosibi Azizi oraba se mama ataransibi.
+P6	Nkoboi Azizi eyanga embariri ekiagera nyanchete erangi embariri.
+P7	Ekero ngochikorara,  nkomobeka Azizi nsemo yane.
+
+images:
+
+illustrations/pages/9356.png
+illustrations/pages/9355.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+

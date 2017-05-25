@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=2579&d=0&a=1
+id:	2579
+title:	Refiloe Le Dikoko Tsa Gagwe
+author:	Lorato Trok
+artist:	Wiehan de Jager
+lang:	Setswana
+level:	Read aloud
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2579.png
+desc:	Kgangnnyana e e monate ka ga Refiloe le dikoko tsa gagwe.
+
+page_text:
+
+P1	E ne e le lenyalo la ntlha go diragala mo lelapeng la ga Tenane. Refiloe ga a ise a tsamae a itumele jaana! 'Ke ya go nna morweetsana wa ga Palesa. Ke tla be ke apere mosese le ditlhako tse dintswha!' A rialo go dikoko tsa gagwe. Refiloe to ne a bua le dikoko tsa gagwe ka metlha. Dikoko tse o ne a di fiwa ke rragwe ka letsatsi la gagwe la matsalo,  mme Refiloe o ne a di rata thata.
+P2	'Refiloe,  tlosa dikoko tsa gago tse di leswe fa,  ga ke batle go di bona gaufi le tente ya lenyalo',  ga goeletsa mmagwe.
+P3	'Tlogang fa lona,  ga ke batle lo jewa ko lenyalong la ga Palesa,  ga bua Refiloe a koba dikoko tsa gagwe mo tenteng.
+
+images:
+
+illustrations/pages/986.png
+illustrations/pages/1003.png
+illustrations/pages/1011.png
+illustrations/pages/989.png
+
+translations:
+
+English (Original)	Refiloe and the Washed Chickens	id=1024
+English (Translation)	Mary and the Washed Chickens	id=7899
+isiZulu (Translation)	Uthandeka Kanye Nezinkukhu Ezigeziwe	id=2573
+Kiswahili (Translation)	Refiloe Na Kuku Waliooshwa	id=2574
+Lugbarati (Translation)	Sara Yi A’U ‘Bani Ojii ‘Dii Pie	id=2576
+Lumasaaba (Translation)	Nabulondela Ni Bukokho Buusiinge (A)	id=2577
+Lumasaaba (Translation)	Nabulondela Ni Bukokho Busiinge (C)	id=2578
+Lumasaaba (Translation)	Nabulondela Ni Bukokho Busiinge (B)	id=2984

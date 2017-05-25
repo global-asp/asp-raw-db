@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=5445&d=0&a=1
+id:	5445
+title:	Lekeek Isiet! Eight Trees
+author:	Caroline Lentupuru
+artist:	Caroline Lentupuru
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/5445.png
+desc:	Children are asked number and colur of anything from their environment
+
+page_text:
+
+P1	The rest ask "Which are these eight?" Eight trees! Which are these eight?
+P2	Eight birds! Which are these eight? Eight trees! Which are these eight? Eight cows! Which are these eight?
+P3	Eight cows! Which are these eight?
+P4	They also name these according to colours. Then first child has to say the colours or names of the eight goats or cows.
+P5	What colour are the eight goats? The others answer,  "Eight white goats."
+
+images:
+
+illustrations/pages/2425.png
+illustrations/pages/2428.png
+illustrations/pages/2545.png
+illustrations/pages/2426.png
+illustrations/pages/2427.png
+illustrations/pages/2430.png
+
+translations:
+

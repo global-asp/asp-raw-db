@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=10446&d=0&a=1
+id:	10446
+title:	My First Pair of Shoes
+author:	Ursula Nafula
+artist:	Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10446.png
+desc:	Do you remember the first pair of shoes that you chose? This little girl can’t wait to wear her new shoes!
+
+page_text:
+
+P1	I had never worn shoes before. When I saw children wearing nice shoes,  I would look at them with longing.
+P2	My mother would say,  "You will have many pairs in the future,  just wait!" Sometimes I did not believe her. "When is the future?" I asked her one day.
+P3	Time passed and it was nearly Christmas. Everybody was busy going to the market and coming back with bags of new things. "Mother,  are we going to the market?" I asked her.
+P4	The day before Christmas,  my mother woke me up earlier than usual. She asked me to fetch the big shopping basket she always carried to the market.
+P5	At the open-air market there were many parents with their children. They were buying new clothes and stocking up on food.
+P6	We went straight to where there were many different types of shoes. My eyes were wide with amazement. I gaped at row after row of neatly arranged shoes.
+P7	After trying on many pairs,  I settled for black lace-up shoes. At home that night,  I couldn't sleep. I was so excited thinking of how I would wear my new shoes and show off to every child in the village.
+P8	After a while,  I got out of bed and put on the shoes. I walked slowly around the room and then put the shoes back into the box. I lay down again,  but I couldn't sleep.
+P9	I got up and tried on the shoes a second time. I strutted around the room for a while and then put them back.
+P10	I lay down once more and tried to sleep. But I got up a third time. I put on the shoes and jumped around the room. Then I felt tired. I decided to get back into bed.
+P11	The following morning,  I was woken by my mother. "What is this I see?" she asked.
+P12	I was wearing my new shoes in bed!
+
+images:
+
+illustrations/pages/9500.png
+illustrations/pages/9494.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9499.png
+illustrations/pages/10444.png
+illustrations/pages/9498.png
+illustrations/pages/9502.png
+illustrations/pages/9501.png
+illustrations/pages/9500.png
+
+translations:
+
+Kiswahili (Original)	Viatu  Vyangu Vya Kwanza	id=10440
+Luganda (Translation)	Omugogo Gwe Ngatto Zange Ogwasooka	id=13287
+Lunyole (Translation)	Omugogo Gw'engato Jange Endaayi	id=13450

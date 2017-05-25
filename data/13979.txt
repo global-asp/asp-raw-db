@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=13979&d=0&a=1
+id:	13979
+title:	Maggy and Doris the Cat
+author:	Amos Metui Karia
+artist:	Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13979.png
+desc:	The story is all about a cat.
+
+page_text:
+
+P1	This is Maggy's cat. The cat's name is Doris.
+P2	What a naughty cat!
+P3	Everybody loves this cat. They play with Doris too.
+P4	Maggy enjoys watching Doris resting with mother cat. Doris has two brothers.
+P5	Maggy loves cats! But cats do not like to be hugged.
+P6	Maggy's friend and her family came to visit Doris the cat. They brought a present for Doris. Maggy is so happy about this.
+
+images:
+
+illustrations/pages/13442.png
+illustrations/pages/13442.png
+illustrations/pages/13443.png
+illustrations/pages/13446.png
+illustrations/pages/13439.png
+illustrations/pages/13441.png
+illustrations/pages/13445.png
+
+translations:
+

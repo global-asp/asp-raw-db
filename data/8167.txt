@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=8167&d=0&a=1
+id:	8167
+title:	Okukina
+author:	Cornelius Gulere
+artist:	Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8167.png
+desc:	A poem about a girl who loves to dance. Her teacher finds this irritating
+
+page_text:
+
+P1	Nkina bwemba ndi isanhu,  Nkina bwemba ndi naku,  Nkina bwemba ndi gholongera,  Nkina bwemba ndi ilalu.
+P2	Omusomesa wange ankoba,  "Tyama oteleere! Tokinhiriza buli kiseera."
+P3	Aye Maama ankoba,  "Okukina kukulamya,  Okukina kukuwanvuya,  Lulala oidha kuba mukini,  Obeewunise bonaboona!"
+P4	Nze naakoba,  "Lulala ndha kukina abantu basasulire Okubona nze nga ndi kubuuka bwe neetala. 'Akina lubabu, ' bwe baidha okukoba."
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+English (Original)	Dancing	id=2183
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Portuguese (Translation)	Dançando	id=12173
+Setswana (Translation)	Mokibo	id=2695

@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=9792&d=0&a=1
+id:	9792
+title:	Keke's Swing
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Marion Drew
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9792.png
+desc:	Keke swings on her favourite swing. She goes very
+
+page_text:
+
+P1	Keke sat on her swing. She loved her swing. It was the best swing at her school.
+P2	Keke moved slowly on her swing. Backwards and forwards,  backwards and forwards. When Keke moved,  her swing went faster and faster. Soon she was right at the top.
+P3	Keke looked down at the ground. She was very high up. "Aeei," she called,  "Look how high I am!"
+P4	She was happy to be so high. She could see the whole village. She was nearly as high as birds flying over the cornfields.
+P5	After a while Keke wanted to come down. The swing would not stop. "Oh,  oh,  oh," she called. "I don't know how to stop this swing!"
+P6	The swing went on and on. Up and down,  up and down. Keke was frightened. "Where will this swing take me? I might go up to the moon. I must get off!" she cried.
+P7	So,  Keke let go of the swing. She fell down,  down,  down.
+P8	"Oh,  oh,  oh!" cried the other children.  Keke fell onto the ground. She hurt her head. "Eeeeh,  eeeeh,  eeeh," she cried.
+P9	The other children were very sad. Keke did not know what to do. "Eeeeh,  eeeeh,  eeeh," she cried.
+P10	The children called their teacher. "M'e Mpho. Please come!" they called. "Keke fell off the swing. She has hurt her head."
+P11	M'e Mpho ran to the swing. She picked Keke up off the ground. M'e Mpho kissed Keke's head. Keke smiled,  "That's better now." "I will not go on that swing by myself again," she said. "I never want to go to the moon."
+P12	"Next time I will be with you on your swing,  Keke," said M'e Mpho. "We can go to the moon together!"
+
+images:
+
+illustrations/pages/9324.png
+illustrations/pages/9319.png
+illustrations/pages/9320.png
+illustrations/pages/9321.png
+illustrations/pages/9322.png
+illustrations/pages/9323.png
+illustrations/pages/9324.png
+illustrations/pages/9325.png
+illustrations/pages/9326.png
+illustrations/pages/9327.png
+illustrations/pages/9328.png
+illustrations/pages/9329.png
+illustrations/pages/9330.png
+
+translations:
+
+Afrikaans (Adaptation)	Keke Se Swaai	id=10535
+French (Translation)	La Balançoire De Kéké	id=10844
+Portuguese (Translation)	O Baloiço Da Keke	id=16655
+Rutooro (Translation)	Omwesuuso Gwa Keke	id=10553
+Sesotho (Lesotho) (Original)	Senkokomaile Sa Keke	id=9790
+Sesotho (Lesotho) (Translation)	Keke's Swing	id=11423

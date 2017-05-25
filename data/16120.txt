@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=16120&d=0&a=1
+id:	16120
+title:	This is Norah
+author:	Ursula Nafula
+artist:	Melany Pietersen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16120.png
+desc:	Norah loves her doll and is worried one day when she thinks the doll is lost.
+
+page_text:
+
+P1	This is Norah. Norah's doll is called Sellah.
+P2	Norah loves Sellah very much.  She plays and sleeps with Sellah every night.
+P3	One day,  Norah was very worried because she could not find Sellah.
+P4	Norah's mother had washed Sellah.
+P5	Norah went to her mother crying,  "I can't find Sellah."
+P6	Before Norah slept,  her mother brought Sellah to her.
+P7	Norah jumped out of bed and danced with Sellah.
+P8	Norah hugged her mother and thanked her for cleaning Sellah.
+
+images:
+
+illustrations/pages/9482.png
+illustrations/pages/9482.png
+illustrations/pages/9483.png
+illustrations/pages/9481.png
+illustrations/pages/9485.png
+illustrations/pages/9489.png
+illustrations/pages/9486.png
+illustrations/pages/9487.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Translation)	Girl Called Norah	id=9797
+French (Translation)	La Fille Du Nom De Norah	id=10762
+Luganda (Original)	Omuwala Norah	id=9795

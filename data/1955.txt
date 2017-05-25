@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=1955&d=0&a=1
+id:	1955
+title:	Tubala Bazira
+author:	Isaac Kagoda
+artist:	Gay Galsworthy
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1955.png
+desc:	Kunsulo eyo mu kibira tubala ensolo edhija okunhwa amaadhi. Ologhooza kiki ekibaawo nga empologoma eidhye?
+
+page_text:
+
+P1	Ndovu ndala yaja okunhwa amaadhi.
+P2	Ntwiga ibiri dhaaja okunhwa amaadhi.
+P3	Mbogo isatu na binhonhi bina byaaja okunhwa amaadhi.
+P4	Mpongo itaanu na mbiidhi enkambwe mukaaga dhaaja okunwa amaadhi.
+P5	Bikere musanvu na byanhanda munaana byaali biri mu maadhi.
+P6	Ntulege mwenda dhoona dhaaja okunhwa amaadhi.
+P7	Mpologoma ndala yaidha yoona okunhwa amaadhi.
+P8	Bazira bameka abaasigala nga bali kunhwa amaadhi?
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Aringati (Translation)	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ	id=6985
+Ateso (Translation)	Aimar	id=9655
+English (Original)	Counting	id=1784
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lugbarati (Official) (Translation)	Kàlàfé Làzà	id=8753
+Lunyole (Translation)	Ohubala	id=1954
+Sepedi (Translation)	Go Bala	id=1956
+Sesotho (Lesotho) (Translation)	Ho Bala	id=1958
+Setswana (Translation)	Go Bala	id=2807

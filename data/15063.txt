@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=15063&d=0&a=1
+id:	15063
+title:	Pùúr Kfə́n É Bàm
+author:	Nicola Rijsdijk
+artist:	Karen Lilje
+lang:	Lámnsoʼ
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15063.png
+desc:	Pùúr wùmòʼ wo wù-uù lo
+
+page_text:
+
+P1	Pùúr,  kfə́n é bàm é wòsò waá səərí.
+P2	Dzə̀ʼə̀m e wò ŋkaà. Dzə̀ʼə̀m fen.
+P3	Pùúr,  kfə́n é bàm. Feyi dzə̀ é yuv é ŋàŋ.
+P4	Come back,  cat! Don't go outside.
+P5	Pùúr,  kfə́n é bàm. Yòʼ kér wò kifá kìy.
+P6	Pùúr,  kfén é bàm. À kòóy a dzə̀ ka?
+P7	Pùúr,  kfə́n é bàm. Yòʼ dzə̀ ŋkar yè.
+P8	Òó mbàa pùúr,  à sì é bàm a?
+P9	Á dze e wò ŋkaà. Sì ghán sé mbuùné.
+P10	Pùúr?
+
+images:
+
+illustrations/pages/8059.png
+illustrations/pages/9122.png
+illustrations/pages/9121.png
+illustrations/pages/9123.png
+illustrations/pages/9124.png
+illustrations/pages/8061.png
+illustrations/pages/8062.png
+illustrations/pages/8063.png
+illustrations/pages/8064.png
+illustrations/pages/8065.png
+illustrations/pages/8066.png
+illustrations/pages/8067.png
+illustrations/pages/8068.png
+
+translations:
+
+Afrikaans (Translation)	Kom Terug, Kat	id=11171
+Amharic (Translation)	ተመለሽ ድመቴ	id=11781
+English (Translation)	Come Back, Cat	id=9125
+French (Translation)	Reviens, Chat!	id=12655
+Yoruba (Translation)	Padà Wá, Olóńgbò	id=11209

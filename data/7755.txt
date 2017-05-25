@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=7755&d=0&a=1
+id:	7755
+title:	Invunja Ni Khau
+author:	Amade Francisco Mauae and Francelino Salomão Mussoho
+artist:	Reginaldo Vicente Manhice
+lang:	Cicopi
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7755.png
+desc:	Rabbit invites his friend Monkey over to play
+
+page_text:
+
+P1	Kutomaha tiya,  Invunja ni Khau idi vangana. Di tsiko do kari,  ha nzalani,  Invunja wuto pimisa kuramba m´gana wa vona ku ta sakana votse.
+P2	Invunja wuto khene: Ahi sakani ngu kubikana. Khau yi do wotisa: Hina mahisa ku cani tonto?
+P3	Invunja wuto xamula: Ahi di veli n´dilo.
+P4	Hi thela mati ka khadi hi releka.
+P5	Nina khata ngungani ni bela ka khadi,  ma cikheta kuhala mati,  nina gogota civalu,  uni tulela ni huma.
+P6	Invunja wuto kheta nguwona wu bela,  mbimo si manga kheta ku hala mati.
+P7	Invunja wuto gogota civalu. Khau yi tula.
+P8	Mbimo si yinga bela Khau ka khadi,  Invunjo wuto veka dirigwi da hombe citimwi ka civalu,  wu gwita wu khalahatsa!
+P9	M´kama manga khata kuhala mati,  Khau yi do gogota civalu. Invunja wu lamba kutula.
+P10	Khau yi to fisa tonto ka khadi. Ti di halo,  Invunja wudodla m´gana wa wona!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/7737.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/7738.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/7739.png
+
+translations:
+
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+English (Original)	The Cooking Game	id=6993
+English (Adaptation)	The Cooking Game - Colouring Book	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo Wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo Wokuphekana (Faka Imibala)	id=17564
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

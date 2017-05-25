@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=8166&d=0&a=1
+id:	8166
+title:	O Macaco Que Comeu a Sua Própria Cauda
+author:	Jorge Eusébio Eusébio
+artist:	Horácio José Cossa
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8166.png
+desc:	That rabbit is at it again!
+
+page_text:
+
+P1	Era uma vez,  o coelho era grande amigo do macaco.
+P2	Um dia,  o coelho disse: vamos passear a procura de algo para comer. O macaco aceitou,  mas era uma armadilha para ele!
+P3	Foram ao campo de milho e começaram a comer maçaroca de dono.
+P4	Mas o esperto coelho tinha um plano para pegar o macaco e mostrar-lhe que ele era tolo.
+P5	Ele começou a gritar: ladrão! Ladrão! O vosso milho está a acabar! Ele saltou e fugiu.
+P6	De repente,  os donos da machamba apareceram e encontraram o macaco a tentar fugir. Porém,  o macaco tinha uma cauda comprida que o dificultava correr.
+P7	Os donos seguiram o macaco dizendo: pare! Pare! Nós já ti vimos,  tu és o macaco.
+P8	Eles conseguiram capturar o macaco,  e começaram a chicoteá-lo.
+P9	Ele não pôde suportar a dor e disse: estava com o meu amigo coelho. Foi ele quem me convidou.
+P10	Os donos cortaram a cauda do macaco,  e lhe disseram: vá e diga ao teu amigo que te cortamos a cauda!
+P11	Assim,  eles foram à casa do coelho cozinhar a cauda do macaco para comerem juntos. O coelho convidou ao macaco para o almoço.
+P12	No final da refeição,  o coelho perguntou ao macaco se sabia o que acabavam de comer. O tolo do macaco respondeu: não,  não sei!
+P13	O coelho disse-lhe que tinha comido a sua cauda e ele depois correu. É por isso que o coelho e o macaco são inimigos!
+
+images:
+
+illustrations/pages/8012.png
+illustrations/pages/8010.png
+illustrations/pages/8011.png
+illustrations/pages/8012.png
+illustrations/pages/8013.png
+illustrations/pages/8014.png
+illustrations/pages/8015.png
+illustrations/pages/8016.png
+illustrations/pages/8017.png
+illustrations/pages/8018.png
+illustrations/pages/8019.png
+illustrations/pages/8020.png
+illustrations/pages/8021.png
+illustrations/pages/8022.png
+
+translations:
+
+English (Adaptation)	Monkey Eats His Own Tail	id=10559
+English (Original)	Monkey Eats His Own Tail	id=16574
+English (Adaptation)	Monkey Eats His Own Tail - Colouring Book	id=17168
+isiXhosa (Translation)	Inkawu Itya Umsila Wayo	id=7882
+isiXhosa (Adaptation)	Inkawu Itya Umsila Wayo (Faka Imibala)	id=17535
+Ng’aturkana (Translation)	Ekadokot Lo Anyami Ekosim Keng.	id=10560

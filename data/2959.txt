@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=2959&d=0&a=1
+id:	2959
+title:	Inamúka Ng'éjúkó
+author:	Leonard Kotikash
+artist:	Cathy Feek
+lang:	Maa
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2959.png
+desc:	Sipho goes to town with his sister and she buys him new shoes.
+
+page_text:
+
+P1	Éíríámárî Sítonik ó enkanáshe áapuo osokóni.
+P2	Óre egirá enkánashe aing'uraá inkiláni te oldúkâ,  néliyioyú Sítonik.
+P3	Nédol Sítonik entóki nányôr olêng.
+P4	Inamúka naámiritái.
+P5	Nétemakíno.
+P6	Néínyang'áki enkánashe Sítóník inamúka naáíguránie empíra.
+P7	Néísarrísar áapuo áng. Íjo káínyoo peê eisarrísar?
+P8	Nébaya eneiguraníéki empíra te rishatá náíshiaakíno. Néíshopito Sítonik inamúka enyéna ng'éjúkó.
+
+images:
+
+illustrations/pages/1638.png
+illustrations/pages/1639.png
+illustrations/pages/1640.png
+illustrations/pages/1641.png
+illustrations/pages/1642.png
+illustrations/pages/1643.png
+illustrations/pages/1644.png
+illustrations/pages/1645.png
+illustrations/pages/1638.png
+
+translations:
+
+Ateso (Translation)	Amuka Nuka Itetiak	id=2960
+Ekegusii (Translation)	Ebikoroto Ebiyia	id=2961
+English (Original)	New Shoes	id=1793
+Kikamba (Translation)	Siatu Niu	id=2962
+Leblango (Translation)	Warö a Nyen	id=11678
+Luganda (Translation)	Engatto Empya	id=2963
+Lugbarati (Translation)	Jijima O`di Ri	id=2966
+Lumasaaba (Translation)	Tsingaato Tsiimbya	id=2965
+Lunyole (Translation)	Engaito Epyaha	id=2981
+Ng’aturkana (Translation)	Ng’Amuk Nakiteat	id=2967
+Olukhayo (Translation)	Ebilaro Biyaha	id=2968
+Oluwanga (Translation)	Efilaro Efiyiakha	id=2969
+Sabinyi (Translation)	Kweyock Cee Leelac	id=2970
+Setswana (Translation)	Ditlhako Tse Dintšhwa	id=2971

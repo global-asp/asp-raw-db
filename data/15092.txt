@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=15092&d=0&a=1
+id:	15092
+title:	My First Day In School
+author:	Nyanchama Onywoki
+artist:	Mango Tree, Silva Afonso, Silva Afonso and Vusi Malindi and Jesse Breytenbach
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15092.png
+desc:	This is a simple story that describes a childs first day in school.
+
+page_text:
+
+P1	It was very early in the morning.
+P2	I woke me up to prepare for school.
+P3	As I dressed up,  I thought,  "How will I look like in my school uniform?"
+P4	My father escorted me to school.
+P5	I joined other pupils in class. It was my first day in school.   I had my first lesson.
+P6	The next teacher to come to class was teacher Mary. She was tall.
+P7	When i grow up,  i want to be like my teacher.
+P8	I loved going to school very much.
+
+images:
+
+illustrations/pages/13846.png
+illustrations/pages/14598.png
+illustrations/pages/14047.png
+illustrations/pages/11452.png
+illustrations/pages/13846.png
+illustrations/pages/13851.png
+illustrations/pages/14050.png
+illustrations/pages/14050.png
+illustrations/pages/14057.png
+
+translations:
+
+Ekegusii (Translation)	Rituko Ritang'ani Kogend' Esukuru.	id=15391

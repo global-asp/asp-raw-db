@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=8878&d=0&a=1
+id:	8878
+title:	Clever Cat
+author:	Ursula Nafula
+artist:	Catherine Groenewald
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8878.png
+desc:	Mister Kiio has a clever cat called Safi.
+
+page_text:
+
+P1	In my village,  lives Mister Kio. Mister Kio has a cat called Safi.
+P2	When Mister Kio goes to work,  he leaves the door open.
+P3	Safi sits in the doorway to watch over the house.
+P4	When the neighbour's dog comes close,  Safi scares him away.
+P5	The dog runs away.
+P6	When a neighbour knocks at the door,  Safi is ready to scratch.
+P7	The neighbour turns and runs away.
+P8	When Safi is hungry,  she closes the door.
+P9	Safi eats her food.
+P10	Afterwards,  Safi jumps onto the sofa and sleeps,  "Purr! Purr! Purr!"
+P11	When Mister Kio returns,  Safi stretches happily and welcomes him home.
+P12	Mister Kio and Safi sit down,  and each of them reads the newspaper.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+Kiswahili (Original)	Paka Mwerevu	id=8877
+Sesotho (Lesotho) (Translation)	Katse E Bohlale	id=10622

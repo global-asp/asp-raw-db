@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=15353&d=0&a=1
+id:	15353
+title:	Ukabali Nokateera
+author:	Foundation phase teachers Umlazi
+artist:	Franz Phooko
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15353.png
+desc:	Abafana ababili nezilwane zabo zasekhaya.
+
+page_text:
+
+P1	UKabali no Kateera bangabangani.
+P2	UKabali unekati. UKateera unonogwaja.
+P3	Nsukuzonke uKabali udlala nekati lakhe.
+P4	UKateera upha unogwaja wakhe ukudla kabili ngosuku.
+P5	Unogwaja ka Kateera wazala abantwana abayisithupha. Ababili babemnyama. Ababili babensundu. Kanti ababili babemhlophe.
+P6	Ikati lika Kabali lephuka abathinyana abathathu. Owodwa wabathinyana wawungowesilisa. Ababili babo kwakungabesifazane.
+P7	Abane babantwana bakanogwaja wabadayisa uKateera. Imali wayisebenzisela ukuthenga izincwadi kanye namapeni esikole.
+P8	UKabali akabadayisanga abathinyana bakhe. Abantu bendawo babengawafuni amakati.
+
+images:
+
+illustrations/pages/9585.png
+illustrations/pages/9576.png
+illustrations/pages/9577.png
+illustrations/pages/9578.png
+illustrations/pages/9579.png
+illustrations/pages/9580.png
+illustrations/pages/9581.png
+illustrations/pages/9582.png
+illustrations/pages/9583.png
+
+translations:
+
+French (Translation)	Kabali Et Kateera	id=13775
+Ng’aturkana (Translation)	Kabali Ka Kateera	id=11810

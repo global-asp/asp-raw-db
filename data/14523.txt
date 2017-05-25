@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=14523&d=0&a=1
+id:	14523
+title:	Khalai Parle Aux Plantes
+author:	Fanny Caudron and Translators without Borders
+artist:	Jesse Pietersen
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14523.png
+desc:	Khalai est une petite fille qui parle aux plantes.
+
+page_text:
+
+P1	This is Khalai. She is seven years old. Her name means 'the good one' in her language,  Lubukusu.
+P2	Khalai wakes up and talks to the orange tree. "Please orange tree,  grow big and give us lots of ripe oranges."
+P3	Khalai walks to school. On the way she talks to the grass. "Please grass,  grow greener and don't dry up."
+P4	Khalai passes wild flowers. "Please flowers,  keep blooming so I can put you in my hair."
+P5	At school,  Khalai talks to the tree in the middle of the compound. "Please tree,  put out big branches so we can read under your shade."
+P6	Khalai talks to the hedge round her school. "Please grow strong and stop bad people from coming in."
+P7	When Khalai returns home from school,  she visits the orange tree. "Are your oranges ripe yet?" asks Khalai.
+P8	"The oranges are still green," sighs Khalai. "I will see you tomorrow orange tree," says Khalai. "Perhaps then you will have a ripe orange for me!"
+
+images:
+
+illustrations/pages/13389.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa.	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

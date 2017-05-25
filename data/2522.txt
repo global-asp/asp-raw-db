@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=2522&d=0&a=1
+id:	2522
+title:	Amagu Pa Ima Ati
+author:	Saidi Omar Dramani
+artist:	Wiehan de Jager
+lang:	Lugbarati
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2522.png
+desc:	Musau’s father
+
+page_text:
+
+P1	O'du alu,  mva azi 'ba ndra eri omve Amagu; eri ndra o'a ima ati,  Asianju be.
+P2	Ondre alu alu si Asianzu ni mu ewa mvu,  eri amvi ini si; Amagu ne ni eri ku.
+P3	Amagu ma ati ka eca akua ini si 'bo,  eri tre,  "Ma 'bapi! Ma 'bapi! Emi ma emu ma azako! Obau le ma nya!"
+P4	Kaa Asianzu ma otreta eri 'bo,  eri efu eyivile joa ri si 'e pie,  aju pie,  dika panga pie emuzu eri pazu. Eyi Asianzu ni isu ati ci dika eri eyi ma asi ole.
+P5	Amagu ma ati mu drile ewa mvuza be dika otreta be azakoma a'izu ini si. 'Ba erivile enyatia 'dii efu ini si e pie,  aju pie,  dika panga pie eri pazu. Ini alu alu si,  enjo eyi ma asi olezu ri alu ri le.
+P6	Saa woro si Amagu ma ati ka eca akua ini si otreta azakoma ni ri be 'bo,  eri anga o'dua ri si. A'dusi ku ni ima ati ma o'duko kilili. Eri ima ati Asianzu ma acita ini alia ri eri kpere eri ni eca jotilea.
+P7	Ini azi alu,  Asianzu emvi akua ini si atiza ru kile oko ri le. O'du 'di si obau ada ri zi 'i jo tala. Asianzu ka mu otre kile oku ri le 'bo,  obau embu lezu eri nyazu.
+P8	Asianzu otre o'duko uru si. Te agu enyatia 'dii 'yo,  "Ama ande curu'do Asianzu ma olokiri 'ba olezu ini si 'dii 'bo." Asii eyivile joa si,  laa eyi o'du ko vile.
+P9	Kile oko ri le,  Asianzu ma otreta enga Amagu o'dua ri si. Amagu e'do 'i ati ma pa o'duko ari kile oko ri le,  te ati ma aci emuzu jotilea ri yo. Amagu enga ri uru eri ati ma acita eri dika.
+P10	"Ma ati amve 'dile candi alia,  Amagu 'yo. O'du andru 'di si ovu ni enzo nze ku."
+P11	Amagu embu gbolo dria ri si. E'du pati aci be ni,  nzu amve 'dale okpo si.
+P12	"Ma ati! Ma ati!" Omba diza si Amagu ne ima ati aco co anyapa azi be. Enga pati diza 'da uru.
+P13	Obau ka mu aci diza ne 'bo,  apa ra. E'do zu o'du 'da si,  Asianzu ku adriza muzu ondre si ewa mvuzu ri ra. E'do kani anzi nyiri sukulua 'dii ni o'duko olo 'i.
+
+images:
+
+illustrations/pages/1433.png
+illustrations/pages/1434.png
+illustrations/pages/1435.png
+illustrations/pages/1436.png
+illustrations/pages/1437.png
+illustrations/pages/1438.png
+illustrations/pages/1439.png
+illustrations/pages/1440.png
+illustrations/pages/1441.png
+illustrations/pages/1442.png
+illustrations/pages/1443.png
+illustrations/pages/1444.png
+illustrations/pages/1445.png
+illustrations/pages/1446.png
+
+translations:
+
+Amharic (Translation)	አባቱን የታደገው ጥላሁን	id=12738
+English (Original)	Musau Saves His Father	id=2140
+English (Adaptation)	Musau Saves His Father	id=18326
+Luganda (Translation)	Kabali Ataasa Kitaawe	id=6426
+Lumasaaba (Translation)	Musalu Awonesa Paapawe	id=3077
+Lunyole (Translation)	Musa Ataasa Semwana	id=2523

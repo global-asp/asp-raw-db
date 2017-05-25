@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=8740&d=0&a=1
+id:	8740
+title:	Eng’Or
+author:	Alfred Esinyen and Simon Ipoo
+artist:	Sue Kramer
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8740.png
+desc:	Eyakasi ng’agiran ta ng’itorubei lu idodiunito ng’iboro luong’ora lu ca a ng’irwa ka daang.
+
+page_text:
+
+P1	Ng'akito naang'ora tochii.
+P2	Eng'atuny loepwasitae nieng'or.
+P3	Amugati naang'or tononok.
+P4	Ng'akekio naang'ora.
+P5	Ng'abutio naang'ora tomojong'ito.
+P6	Ekosowan loong'or –kamalamalan.
+P7	Apukot naang'or tochek.
+P8	Ing'ok nieng'or-sulut.
+P9	Echoto loong'or kichapikinite.
+P10	Eleu loong'or-kaapalan.
+P11	Ani nyo nabo en? Ereet loasegan anakinwaket.
+
+images:
+
+illustrations/pages/2617.png
+illustrations/pages/2618.png
+illustrations/pages/2619.png
+illustrations/pages/2620.png
+illustrations/pages/2621.png
+illustrations/pages/2622.png
+illustrations/pages/2624.png
+illustrations/pages/2625.png
+illustrations/pages/2626.png
+illustrations/pages/2627.png
+illustrations/pages/2628.png
+illustrations/pages/2629.png
+
+translations:
+
+English (Original)	Brown	id=2631
+isiXhosa (Translation)	Umbala Omdaka	id=7255
+Kiswahili (Translation)	Kahawia	id=2632
+Lugbarati (Translation)	Okalakukala	id=7240
+Lugbarati (Official) (Translation)	Òkàlàkʉ̀kàlà	id=8757
+Maa (Translation)	Múgíé	id=2767
+Ng’aturkana (Translation)	Niong'or	id=2746
+Oluwanga (Translation)	Olukusi	id=8739

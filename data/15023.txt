@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=15023&d=0&a=1
+id:	15023
+title:	Bala Iikati
+author:	Nokuthula Bernelee Dyonase
+artist:	Jesse Breytenbach
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15023.png
+desc:	Counting book
+
+page_text:
+
+P1	Zingaphi iikati?      0   ziliqanda.
+P2	Zingaphi iikati?      1  inye ikati.
+P3	Zingaphi iikati?      2  zimbini iikati.
+P4	Zingaphi iikati?      3   zintathu iikati.
+P5	Zingaphi iikati?      4  zine iikati.
+P6	Zingaphi iikati?      5  zintlanu iikati.
+P7	Zingaphi iikati?      6  zintandathu iikati.
+P8	Zingaphi iikati?      7  zisixhenxe iikati.
+P9	Zingaphi iikati?            8  zisibhozo iikati.
+P10	Yintoni le siyibonayo? Ikatana iphezulu emthini! "Ndizakuyihlangula!"
+P11	"Mama,  singayigcina? Enye nje kuphela." Zingaphi iikati?      9    zilithoba iikati.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Amharic (Translation)	ድመቶችን እንቁጠር	id=13124
+Arabic (Translation)	عدد القطط	id=19919
+English (Adaptation)	Counting Cats	id=12693
+Lunyole (Translation)	Ohubala Epuusi	id=13559
+Portuguese (Translation)	Contar Gatos	id=16196
+Tunisian (Translation)	Ħisbèn Il-Qŧàŧis	id=15384

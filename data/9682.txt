@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=9682&d=0&a=1
+id:	9682
+title:	Mbiwa Yeew'aa Nzaa Na Mba
+author:	Fatuma Nzive
+artist:	Benjamin Mitchley
+lang:	Kikamba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9682.png
+desc:	A hungry jackal comes across an orchard where a ripe bunch of grapes is hanging from a branch. The jackal jumps up to grab the grapes but he falls hard on his back. He keeps jumping even higher and each time he falls even harder on his back. Will he ever get the grapes?
+
+page_text:
+
+P1	Tene muno vai Mbiwa yeew'aa nzaa. Yaenda kithekani kumantha liu.
+P2	Oona muti munene wina mba mbiu. Asisya kitungo kya mba kiniinite uvongeni iulu muno vyu.
+P3	"Iia syi muyo muno kwakusisya," asuania we mwene. Asyoka na itina vanini nikana atulile iulu muno.
+P4	I mba syai iulu muno vyu. Mbiwa yavalukile nthi na muongo itavikiite i mba.
+P5	Mbiwa yookila na yasyokanga itina wa vala yambiie. Yeeyumbany'a kutuulila iulu muno vyu. Yu aivakuvi kuvikila mba indi avalukile na muongo wake munangango.
+P6	Atata ingi na ingi,  indi ndaavikia i mba. Aendeeie na kuvalukanga muvaka muongo wake wathuka vyu.
+P7	Muminukilyoni niweeyitukie na aekana nasyo na athi.
+P8	Mbiwa ndaaiw'a muyo ona vanini. Aungama,  asisya i mba na asuania,  "Ona mba isu ti mbiu." Aendeea na kyalo kyake. Ai na nzaa mbingi muno vyu woondu weew'aa mbee.
+
+images:
+
+illustrations/pages/1775.png
+illustrations/pages/1776.png
+illustrations/pages/1775.png
+illustrations/pages/1777.png
+illustrations/pages/1778.png
+illustrations/pages/1779.png
+illustrations/pages/1780.png
+illustrations/pages/1781.png
+illustrations/pages/1782.png
+
+translations:
+
+Afrikaans (Translation)	Honger Jakkals en Die Suur Druiwe	id=11162
+Afrikaans (Translation)	Jakkals en Die Suur Druiwe	id=11436
+Dhopadhola (Translation)	Kibwe Gi Mukumer	id=19480
+English (Original)	Hungry Jackal and the Sour Grapes	id=2104
+French (Translation)	Le Chacal Affamé Et Les Raisins Acidulés	id=12658
+isiXhosa (Translation)	Udyakalashe Neediliya Ezimuncu	id=2527
+isiZulu (Translation)	Hungry Jackal and the Sour Grapes	id=11429
+Kinyarwanda (Translation)	Imbwebwe Ishonje N’Imizabibu Ibishye	id=17464
+Kiswahili (Translation)	Mbweha Na Zabibu Chachu	id=7865
+Luganda (Translation)	Emmondo Erumwa Enjala N’Ensaali Ezikaawa	id=8356
+Lugbarati (Official) (Translation)	Òbólókó Àbírí Nɨ́ Ndě Rá Rɨ̀ Pɨ Cǔcǔ Be.	id=8784
+Lumasaaba (Translation)	Sisyutse Sye’Tsala Ni Kamatsangwali Kamalulu	id=8282
+Lunyole (Translation)	Ehibbwe Ehiyala N’Amapeera Agajujuma	id=8399
+Ng’aturkana (Translation)	Epeot Lo Anyamit Akoro Ka Ng’Apedur Nakaabarak	id=8448
+Oluwanga (Translation)	Lisimba Lieinzala	id=8280
+Sesotho (Lesotho) (Translation)	Phokojoe E Lapileng Le Morara O Bolila	id=15904

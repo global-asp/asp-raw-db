@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=13778&d=0&a=1
+id:	13778
+title:	Wakikere Ne Wamunya
+author:	Parents
+artist:	Hélder de Paz Alexandre, Emily Berg and Rob Owen
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13778.png
+desc:	Obutawuliriza ndwadde mbi era abantu bangi batuuse mu mbeera enzibu enyyo lwakuba tebawuliriza 
+nga babannyonnyola.
+
+page_text:
+
+P1	Emyaka mingi emabega,  Wamunya ne Wakikere bali bamukwano. Olunaku lumu baabayita ku kabaga.
+P2	Wakikere yatunurira Wamunya nawulira obujja anti Wamunya yali mulungi nnyo.
+P3	Wakikere yabuuza Wamunya nti ''Wakolaki okunyirira bwotyo? Ntunulira,  nze ndi mubi nnyo nkolentya olususu lwange?
+P4	Wamunya namugamba nti "Wuliriza,  bwetuddayo eka,  sena amazzi ogateeke munsuwa ogateke kumuliro." Ekidako.
+P5	Wakikere teyalinda kumumalirayo teyagenda na kukabaga yadduka buddusi natuuka eka.
+P6	Yasooka kusirikirira nalowooza naye nga obujja bumulumira mukwano gwe Wamunya olw'obulungi bwe.
+P7	Yasalawo nateeka amazzi munsuwa nassa ku muliro.
+P8	Amazzi bwegatandika okwesera,  neyebikamu.
+P9	Ha! Ekyatuuka ku Wakikere,  olususu lwe lwona lwajja nomukira negukutukako.
+P10	Mukifo kyokubeera omujagujagu era omubalagavu nga Wamunya yafuuka kkanga baana Kitalo!
+
+images:
+
+illustrations/pages/8152.png
+illustrations/pages/7069.png
+illustrations/pages/7070.png
+illustrations/pages/7071.png
+illustrations/pages/7820.png
+illustrations/pages/8152.png
+illustrations/pages/13426.png
+illustrations/pages/7074.png
+illustrations/pages/7075.png
+illustrations/pages/7076.png
+illustrations/pages/7077.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+English (Adaptation)	Why Frog is so Ugly - Colouring Book	id=17360
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+isiXhosa (Adaptation)	Kutheni Isele Lilibi? (Faka Imibala)	id=17551
+Kiswahili (Translation)	Sababu Chura Kuwa Na Sura Mbaya	id=8712
+Luganda (Translation)	Lwaki Wakikere Mubi Nnyo?	id=9657
+Ng’aturkana (Adaptation)	Akidodok Nabworok	id=13522
+Portuguese (Translation)	Porquê a Rã É Tão Feia?	id=7477
+Portuguese (Translation)	O Porquê Do Sapo Ser Tão Feio	id=19259
+siSwati (Translation)	Kungani Sicoco Sibe Sibi	id=12610
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=2001&d=0&a=1
+id:	2001
+title:	Icimbi Elicwebezelayo
+author:	Clare Verbeek
+artist:	Cathy Feek
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2001.png
+desc:	Lendaba imayelana necimbi likasilika. Isitshela ngezinto ezenziwa yile cimbi nokuthi liphenduka kanjani libe yinto ehlukile.
+
+page_text:
+
+P1	Amaqanda achamusela amacimbi amancane.
+P2	Sawanikeza amahlamvu kamalibhele.
+P3	Akhula aba makhulu futhi aya ngokukhuluphala.
+P4	Amacimbi akha imifece kasilika.
+P5	Ngaphakathi kwemifece amacimbi ashintsha aba ngamabhu.
+P6	Abanye abantu bawafuya ngenhloso ethize amacimbi kasilika.
+P7	Ezweni laseChina bagcina izinkulungwane zalolu hlobo lwecimbi.
+P8	Benza izindwangu zikasilika ngemifece yawo.
+
+images:
+
+illustrations/pages/1666.png
+illustrations/pages/1667.png
+illustrations/pages/1668.png
+illustrations/pages/1666.png
+illustrations/pages/1669.png
+illustrations/pages/1670.png
+illustrations/pages/1671.png
+illustrations/pages/1672.png
+illustrations/pages/1673.png
+
+translations:
+

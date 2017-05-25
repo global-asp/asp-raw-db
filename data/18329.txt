@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=18329&d=0&a=1
+id:	18329
+title:	Wangari Maathai
+author:	Ursula Nafula
+artist:	Maya Marshak
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18329.png
+desc:	Hi ni hadithi ya kuvutia kumhusu Wangari Maathai.
+
+page_text:
+
+P1	Kulikuwa na msichana mdogo aliyeitwa Wangari.
+P2	Wangari alipanda mbegu katika bustani yao.
+P3	Jioni,  Wangari alirudi nyumbani.
+P4	Wangari alipofikisha umri wa miaka saba,  alienda shule.
+P5	Wangari alifanya vyema shuleni. Alialikwa kwenda Amerika kuendeleza masomo yake.
+P6	Alisomea Sayansi ya viumbe,  hasa mimea.
+P7	Hakusahau nchi yake ya Kenya.
+P8	Wangari aliporudi,  Kenya ilikuwa imebadilika. Miti mingi ilikuwa imekatwa.
+P9	Wangari aliwafunza wanawake kupanda miti. Waliiuza na kupata pesa.
+P10	Ujumbe wa Wangari ulienea Afrika nzima.
+P11	Wangari alipewa Tuzo la Amani la Nobel.
+P12	Alikuwa mwanamke wa kwanza wa Kiafrika kutuzwa. Alifariki mwaka 2011.
+
+images:
+
+illustrations/pages/9803.png
+illustrations/pages/9803.png
+illustrations/pages/9804.png
+illustrations/pages/9805.png
+illustrations/pages/9806.png
+illustrations/pages/9807.png
+illustrations/pages/9808.png
+illustrations/pages/9810.png
+illustrations/pages/9811.png
+illustrations/pages/9812.png
+illustrations/pages/9813.png
+illustrations/pages/9814.png
+illustrations/pages/9815.png
+
+translations:
+
+Afrikaans (Translation)	'n Klein Saadjie: Die Verhaal Van Wangari Maathai	id=11337
+English (Original)	A Tiny Seed: The Story of Wangari Maathai	id=9809
+French (Translation)	Une Petite Graine: L’Histoire De Wangari Maathai	id=10136
+isiXhosa (Translation)	Imbewu Encinci: Ibali Lika Wangari Maathai	id=11582
+Kiswahili (Translation)	Hadithi Kumhusu Wangari Maathai	id=9911
+Kiswahili (Adaptation)	Wangari Maathai	id=19354
+Lámnsoʼ (Translation)	Shiŋgoòy: Kimfèr Ke Wangari Mathay	id=14721
+Yoruba (Adaptation)	Èso Kékeré Kan: Ìtàn Tí Wangari Maathai	id=11890

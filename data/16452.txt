@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=16452&d=0&a=1
+id:	16452
+title:	አባተ አእነና ለልጀጅ
+author:	የፈተ and አበበ
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16452.png
+desc:	Ky’ateeka abaana okukola bulikimu abakulu kyebaba balangira?
+
+page_text:
+
+P1	አበበ መሚበባለል ነደ ሰወው ነንበብለ፡፡There was a man called Enzo
+P2	አበበ ከበደ መሚበባለል ለልጀጅመ ለወውThis man had a son. The son's name was Paul
+P3	አነደ ነን ለጀጁ ነደ አለወው "ሰረርሰሀረር ነደ ለልል: "One day the man said to his son,  "Let's go for a walk"
+P4	በመነገደዱ ለላሲለል ሰሲለፈፉ መሚመረር በቦረርሰሳ አኤኤ: On the way,  they saw a very nice suitcase. It was packed full
+P5	ደሰስ ለወው ለለልጀጁመ  ነደዲ አለወው "ነሰሳወውነና በቤተት ነወሰደድወ "The man got very excited. He said to his son,  "Pick it up and we will take it home"
+P6	ለልጀጁመ በባተቱ ለወውነ ረገግ  ተሰሀከመሞ ወደ በቤተት ወሰደድወ: The son did what the father told him to do. Paul put the suitcase on his head and carried it
+P7	ከበቦረሰሳወው ወሰስተት በባበቡ  ወተታ:  ነና ገግረሩ ለላ ወውተታ! On the way home,  a snake slithered out of the suitcase. It landed on Paul's feet!
+P8	አበባተትነና ለልጀ በብተታመ ፈፍረሩ ለልጀጁ በቦረርሰሳወውነ ተትለልወ  በብፈፍተነንተ ረሮተ!Father and son were both very scared. Paul dropped the suitcase. They ran away very fast!
+
+images:
+
+illustrations/pages/10082.png
+illustrations/pages/10081.png
+illustrations/pages/10082.png
+illustrations/pages/10083.png
+illustrations/pages/10084.png
+illustrations/pages/10085.png
+illustrations/pages/10087.png
+illustrations/pages/10086.png
+illustrations/pages/10088.png
+
+translations:
+
+Amharic (Translation)	አባት እና ልጅ	id=16453
+French (Translation)	Père Et Fils	id=13273
+Luganda (Original)	Father and Son	id=10439
+Portuguese (Translation)	O Pai E O Filho	id=16580
+Setswana (Translation)	Rre Le Morwa Wa Gagwe	id=14955

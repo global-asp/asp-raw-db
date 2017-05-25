@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=9934&d=0&a=1
+id:	9934
+title:	Bird Hunters
+author:	Dominic
+artist:	Wiehan de Jager, Marion Drew, Marleen Visser, Emily Berg, Magriet Brink and Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9934.png
+desc:	The story is about the three boys and one girl who  dodged lessons and went for hunting birds in the forest.
+
+page_text:
+
+P1	Once upon a time there were three little boys and one girl. They all lived in one village called Nakwiga.
+P2	They were studying at Busolwe Glory of God primary school.
+P3	On their way to school,  they used to hear birds singing.
+P4	One day,  three boys and one girl decided to dodge school and went for hunting in the nearby forest.
+P5	The bird started singing like this,  You call me bad; I am not bad x4.
+P6	Am good but if you think am bad I will be bad at the end. Then the children caught that bird and went with it at home.
+P7	When they reached home they slaughtered and ate it.
+P8	The following day they all died. Because its meat was poisonous.
+
+images:
+
+illustrations/pages/9193.png
+illustrations/pages/7961.png
+illustrations/pages/9192.png
+illustrations/pages/9594.png
+illustrations/pages/6731.png
+illustrations/pages/7572.png
+illustrations/pages/8549.png
+illustrations/pages/8555.png
+illustrations/pages/8162.png
+
+translations:
+
+Luganda (Translation)	Abayizzi B'ebinyonyi	id=17006

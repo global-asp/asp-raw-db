@@ -1,0 +1,28 @@
+url:	http://africanstorybook.org/reader.php?id=9733&d=0&a=1
+id:	9733
+title:	Domestic Birds
+author:	
+artist:	Wiehan de Jager and N/A
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9733.png
+desc:	Pictures and names of domestic birds
+
+page_text:
+
+P1	Duck.
+P2	Cock.
+P3	Guinea Fowl.
+P4	Turkey.
+
+images:
+
+illustrations/pages/292.png
+illustrations/pages/9730.png
+illustrations/pages/5651.png
+illustrations/pages/9731.png
+illustrations/pages/9732.png
+
+translations:
+

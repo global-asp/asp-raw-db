@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=3098&d=0&a=1
+id:	3098
+title:	Máapé!
+author:	Leonard Kotikash
+artist:	Thembinkosi Kohli
+lang:	Maa
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3098.png
+desc:	Kéítódolu inkiaasîn oó irubát ó osésen – aing’uayá
+
+page_text:
+
+P1	Óre te oó inkúmeishin áainéí.
+P2	Píiisúa!
+P3	Áíngúáyie intapúka naárropîl.
+P4	Óre te oó inkonyék áainéí.
+P5	nádol olákútá oyáwua osiwúó.
+P6	nádol empuús nashípa.
+P7	Óre te enkutúk ái.
+P8	náíshiamísham enkáré é enaipósha naisúkut.
+P9	náíshamísham olng'anayíoi ómélók.
+P10	Óre te oó inkáik áainéí.
+P11	náíbung enkáíná inó.
+
+images:
+
+illustrations/pages/3015.png
+illustrations/pages/3016.png
+illustrations/pages/3017.png
+illustrations/pages/3018.png
+illustrations/pages/3019.png
+illustrations/pages/3020.png
+illustrations/pages/3021.png
+illustrations/pages/3022.png
+illustrations/pages/3022.png
+illustrations/pages/3024.png
+illustrations/pages/3025.png
+illustrations/pages/3026.png
+
+translations:
+
+Afaan Oromo (Translation)	Haa Deemnu!	id=12254
+English (Original)	Let's Go	id=3028
+English (Translation)	Iri Ma Koy	id=11734
+French (Translation)	Allons-Y!	id=9922
+Fulfulde (Translation)	En Njaha!	id=10001
+Hausa (Translation)	Mu Je !	id=9970
+isiZulu (Translation)	Asambe	id=7703
+Kanuri (Translation)	Leniwo	id=10030
+Lubukusu (Translation)	Khe Khuche!	id=3100
+Ng’aturkana (Translation)	Kapana!	id=3099
+Olukhayo (Translation)	Kenda Khuche	id=3094
+Oluwanga (Translation)	Khutsie!	id=3102
+Somali (Translation)	Ina Wadiya	id=16761
+Zarma (Translation)	Iri Ma Koy!	id=10097
+Zarma (Translation)	Iri Ma Koy	id=11590

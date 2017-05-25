@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18072&d=0&a=1
+id:	18072
+title:	Akine Nakedong'an
+author:	Simon Ipoo
+artist:	José Nhambo
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18072.png
+desc:	Akine na adikino epeot enyami anamoni.
+
+page_text:
+
+P1	Apei kolong'it alosi akine namoni,  sodi kirim amoni elakara. Nakaneni abu ng'esi towoliyo!
+P2	Napei kona kiriama ka epeot! Dio epeot taapu nikeng tama,  "Kanyamit ayong akoro."
+P3	Tatachu akine tama,  "Epeot,  ayen atamar isaki iyong akinyam ayong. Nakaneni asaki ayong atotoana alakara!"
+P4	King'it nabo epeot akine tama,  "Inyo eger ang'akiro kang'una? Atonere ilakara? Kwai?"
+P5	Tatachu akine tama, "Kerai akitu,  kajoikinit ayong akitu edong'ae!"
+P6	Ekisidi tolemu epeot agita. Kiboikin kisiak akisidong'are.
+P7	Kisiak akine akidong'are,  nakaneni aring'a cha ng'esi ebulit wadio.
+P8	Ayakasi ng'ing'wokwo diye. Apotu taaput aking'olikin ibore niasuba kaneni.
+P9	Tobul epeot na eng'olikinia ng'ing'wokwo. Abu ng'esi torei wadio dio kipung'ar!
+P10	Torubak akine idong'ae kotere abu epeot lotete asaki akiar ng'esi toeka.
+
+images:
+
+illustrations/pages/8395.png
+illustrations/pages/8380.png
+illustrations/pages/8381.png
+illustrations/pages/8383.png
+illustrations/pages/8385.png
+illustrations/pages/8387.png
+illustrations/pages/8388.png
+illustrations/pages/8389.png
+illustrations/pages/8390.png
+illustrations/pages/8391.png
+illustrations/pages/8395.png
+
+translations:
+
+Afrikaans (Translation)	Die Dansende Boerbok	id=11243
+English (Original)	The Dancing Goat	id=8392
+Lumasaaba (Translation)	Imbusi Ishina	id=11899
+Portuguese (Translation)	A Dança Do Cabrito	id=8471
+Portuguese (Translation)	A Cabra Dançarina	id=18888
+siSwati (Translation)	Imbuti Ledansako	id=14808

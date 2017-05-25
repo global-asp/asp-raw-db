@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=12003&d=0&a=1
+id:	12003
+title:	ገብጋባው ክንዴ
+author:	መዘምር ግርማ
+artist:	Zablon Alex Nguku
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12003.png
+desc:	ይህ ተረት የአንድ ሁለት ድግሶችን በአንድ ቀን ለመብላት አስቦ የተነሳ ክንዴ የሚባል ሰው ታሪክ ነው፡፡ ይሳካት ይሆን? እስኪ ተረቱን አንብበን እንረዳ!
+
+page_text:
+
+P1	ከረጅም ጊዜ በፊት በብርቃ መንደር ክንዴ የሚባል ሰው ይኖር ነበር፡፡ ሥጋ መብላትም በጣም ይወድ ነበር፡፡
+P2	አንድ ቀን የብርቃ መንደር አለቃ ሁሉንም መንደርተኞች በወንድ ልጁ ሰርግ ላይ እንዲገኙ ጋበዛቸው፡፡
+P3	ክንዴ ደግሞ በሌላ እንቧይባድ በተባለች መንደርም ሌላ ድግስ እንዳለ ሰማ፡፡ ''አሃ! ሁለት ድግስ በአንድ ቀን!'' ሲል አሰበ ክንዴ፡፡
+P4	''ሁለቱንም ድግሶች መብላት አለብኝ፣'' አለ ክንዴ፡፡ መጀመሪያ ወደ እንቧይባድ እሄድና ከዚያ ወደ ብርቃ ተመልሼ እመጣለሁ፡፡.
+P5	ክንዴ በጠዋት ተነስቶ ወደ እንቧይባድ ሄደ፡፡ ዘወር ዘወር ብሎ ሲያይ ድግሱ ገና እንዳልጀመረ ተረዳ፡፡ ''ወደ ብርቃ እመለስና ወደ እንቧይባድ ደግሞ በኋላ ላይ እመለሳለሁ'' በማለት ወሰነ፡፡
+P6	ክንዴ ወደ ብርቃ ሥጋው ተዘጋጅቶ ይጠብቀኛል ብሎ አስቦ ለመብላት ሄደ፡፡በጣም ርቦት ነበር በዚህ ወቅት፡፡ ሲደርስ ወንዶቹና ሴቶቹ ምግቡን ገና እያዘገጃጁ ነበር፡፡
+P7	''እንቧይባድ ላይ ወጥ ሰሪዎቹ ለመስራት ሲዘገጃጁ ነበር ወደዚህ የመጣሁት'' በማለት አሰበ፡፡ ''ምግቡ አሁን ደርሶ ይሆናል፡፡'' ክንዴ ወደ እንቧይባድ ለመመለስ ወሰነ፡፡.
+P8	ክንዴ እንቧይባዱ ድግስ ጋ ሲደርስ ሰዎቹ በልተው ጨርሰዋል፡፡ እንግዶች ለሙሽሪትና ለሙሽራው ስጦታ እየሰጡ ነበር፡፡ ክንዴ በጣም ስስታም ነበር፡፡ የሚሰጠው ስጦታ አልነበረውም፡፡ መብላት ብቻ ነበር የፈለገው፡፡
+P9	ክንዴ ምግቡን በማጣቱ በጣም ተበሳጭቶ ነበር፡፡ ወደ ብርቃ መንደር ለመመለስ ወሰነ፡፡ ስለተራበና ስለደከመው በፍጥነት ሊጓዝ አልቻለም ነበር፡፡
+P10	ብርቃ ሰዎቹ ሲጨፍሩና ሲዘፍኑ ደረሰ፡፡ ምግቡን ሁሉ በልተው ጨርሰው ነበር፡፡
+P11	ምግብ ምንም እንዳልቀረ ሲሰማ ክንዴ ወድቆ ራሱን ሳተ፡፡ የሁለቱም ድግስ ስጋ አምልጦት ነበር፡፡ ያገኛት በትንሽ ስኒ የነበረች ገንፎ ብቻ ነበረች፡፡
+P12	ተናዶና ተርቦ ቀስ ብሎ ወደ ቤቱ እያዘገመ ሄደ፡፡
+
+images:
+
+illustrations/pages/9128.png
+illustrations/pages/9128.png
+illustrations/pages/9129.png
+illustrations/pages/9130.png
+illustrations/pages/9131.png
+illustrations/pages/9132.png
+illustrations/pages/9134.png
+illustrations/pages/9135.png
+illustrations/pages/9136.png
+illustrations/pages/9137.png
+illustrations/pages/9138.png
+illustrations/pages/9139.png
+illustrations/pages/9140.png
+
+translations:
+
+Akuapem Twi (Translation)	Kiundu Difudepɛfo No	id=18459
+Asante Twi (Translation)	Adifudepɛfoɔ Kiundu	id=18279
+Dagaare (Translation)	Kiundu, Bundi-Gbogbo Soba	id=17771
+Dagbani/Dagbanli (Translation)	Kiundu Biɛmlana	id=18150
+Dangme (Translation)	Kiundu Komdodomitsɛ	id=18340
+Dhopadhola (Translation)	Otoyo Jaworo	id=15757
+English (Original)	Greedy Kiundu	id=9133
+English (Adaptation)	Greedy  Mairu	id=10264
+Ewe (Translation)	Kiundu Ɖokuitɔdila	id=18180
+Fante (Translation)	Kiundu Onyibernyi	id=18489
+Ga (Translation)	Saki Hiɛjoolɔ	id=18291
+Gonja (Translation)	Kiundu Kajɛ Wura	id=18212
+Kasem (Translation)	Kiundu Na Ye Wochanyeno	id=18225
+Lunyole (Translation)	Hiyubi  Ow'ogulyerye	id=11614
+Mampruli (Translation)	Kiundu Beemdaana	id=19320
+Ng’aturkana (Translation)	Kiundu Lokarorokanan	id=9771
+Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
+Portuguese (Translation)	Kiundu Guloso	id=16439
+Sesotho (Lesotho) (Translation)	Ntate Meharo O Meharo	id=10626
+Setswana (Translation)	Megagaru Ya Ga Abele	id=14961

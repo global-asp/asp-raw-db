@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=13632&d=0&a=1
+id:	13632
+title:	The Visit of Death
+author:	Owor Israel
+artist:	Alex Zablon, Mango Tree, Peris Wachuka and Zablon Alex Nguku
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13632.png
+desc:	The story builds the skill of patience in children.
+
+page_text:
+
+P1	One day,  Death visited a man called Hupapa,  who lived in the village of Mugulu.
+P2	Hupapa was scared to see the visitor.
+P3	Death told Hupapa that his turn to see God had come. Hupapa told Death that he was not ready, but Death insisted claiming it was Hupapa's turn to see God.
+P4	Hupapa served Death with a delicious meal.
+P5	After the meal, Death fell asleep and Hupapa picked death list and wrote his name at the bottom.
+P6	When Death woke up, he was happy with Hupapa's hospitality and opted to begin with the names at the bottom.
+P7	Unfortunately, Hupapa had his name at the bottom.
+
+images:
+
+illustrations/pages/13475.png
+illustrations/pages/9131.png
+illustrations/pages/9128.png
+illustrations/pages/13474.png
+illustrations/pages/9132.png
+illustrations/pages/11449.png
+illustrations/pages/13108.png
+illustrations/pages/13110.png
+
+translations:
+
+English (Adaptation)	Death Visits Hupapa	id=17197

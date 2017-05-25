@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=15740&d=0&a=1
+id:	15740
+title:	Kuwutuka
+author:	Alberto Mateus Chaibo and Assima Abudo
+artist:	Amir Bachir António Necas
+lang:	Ciyawo
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15740.png
+desc:	Ce-Dikonokono ni ce-Kalunga akutenda npikisano.  Vani va cawine?
+
+page_text:
+
+P1	  Dyapadi disiku dine ce-Kalunga vaasimene ce-Dikonokono ni vaatesile,  "M'mwe ngakomboleka kuwutuka! Ya nkombwele m'mwe ni ya kudiwuta pasi."
+P2	  Sano ce-Dikonokono vatite,  "Can'nyice Jumapidi kuti m'mwe can'nyiwone."
+P3	  Ce-Dikonokono vadinganisye macila kwa macila ga yipande ya yipepa ni valembile malove gane gakwe ga acila cipepa,  ni ntenga wakwe wumpepe yipepa yose.
+P4	  Ce-Dikonokono vaapele yipepa yila acinjawo ni vatite,  "Katema ka cakopoceleje ce-Kalunga,  camumilanje. Vamo vakwe m'mwanya-jo canjile,  'Wune ni ce-Dikonokono'."
+P5	  Digongo vaatesile kuti catusimanile pasyeto maluva-po pakuti kwele ce-Kalunga ni ce-Dikonokono ni kwa cacipitaga.
+P6	  Jumapidi ce-Kalunga vakopocele pamalo pala ni vaasimene ce-Dikonokono ni vatite,  "Kwende tupikisane! Nambo cinambwine!"
+P7	  Ndavi jila-jila ce-Dikonokono vajuvile pasyeto maluva ni valesile ce-Kalunga adi nkuwutuka.     Pawujo pakuwutuka,  ce-Kalunga vavilasile,  "Ce-Dikonokono! Ce-Dikonokono!"
+P8	  Mwa acimakonokono ga gajuvile pamaluva gala,  dyajanjile dimo dyakwe,  "Wune ce-Dikonokono! Wune ce-Dikonokono!"
+P9	   Pambesi pakwe,  ce-Kalunga vapesile n'nope mpaka vatemi pasi ni vatite,  "Ce-Dikonokono,  wune mbesile ni m'mwe mbwinile."
+P10	  Ni pele ce-Dikonokono vawinile ntande wa wukalamuci wawo!
+
+images:
+
+illustrations/pages/9318.png
+illustrations/pages/9318.png
+illustrations/pages/16186.png
+illustrations/pages/9305.png
+illustrations/pages/9306.png
+illustrations/pages/9307.png
+illustrations/pages/9308.png
+illustrations/pages/16187.png
+illustrations/pages/15812.png
+illustrations/pages/15813.png
+illustrations/pages/9317.png
+
+translations:
+
+English (Original)	The Race	id=9299
+English (Adaptation)	The Race - Colouring Book	id=17546
+Portuguese (Adaptation)	A Corrida	id=9467

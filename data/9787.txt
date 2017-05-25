@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=9787&d=0&a=1
+id:	9787
+title:	Crushed Louse
+author:	Zimbili Dlamini
+artist:	Magriet Brink
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9787.png
+desc:	Two young men accept a louses hospitality
+
+page_text:
+
+P1	Long time ago,  there were two young men who lost their cows. They looked for the cows until it was late.
+P2	As it got dark,  they saw a light in a house. They agreed to go and ask for a place to sleep.
+P3	They went to the house and knocked. The door opened and they went in. The young men didn't see anyone. But they heard a voice greeting them.
+P4	The voice said,  "I am a louse. Open the metal pot and have food. Open the earthenware pot and drink amahewu."
+P5	Then the louse put on its skin and went out.
+P6	The young men ate,  drank,  and gave thanks. Then they left the house.
+P7	As they left,  they had a bad thought. They said,  "No,  it couldn't have happened that we had food from a louse."  Eventually they agreed to go back and crush the louse.
+P8	They went back to the house and crushed the louse. Suddenly the louse was gone,  and the house disappeared! They found themselves outside in the open.
+
+images:
+
+illustrations/pages/9717.png
+illustrations/pages/9711.png
+illustrations/pages/9712.png
+illustrations/pages/9710.png
+illustrations/pages/9713.png
+illustrations/pages/9714.png
+illustrations/pages/9715.png
+illustrations/pages/9716.png
+illustrations/pages/9717.png
+
+translations:
+
+Afrikaans (Translation)	Die Luis Wat Doodgedruk Is	id=11298
+Afrikaans (Translation)	Die Platgedrukte Luis	id=11397
+Afrikaans (Translation)	Vermorselde Luis	id=11521
+French (Translation)	Le Pou Écrasé	id=10148
+isiNdebele (Translation)	Intwala Eputjukileko	id=13071
+isiXhosa (Translation)	Intwala Eyatyunyuzwayo	id=16475
+isiZulu (Original)	Intwala Echotshiwe	id=9786
+Lámnsoʼ (Translation)	Shinser She  Á Bvəʼəyín	id=15066
+Luganda (Translation)	Enffa Y’Ensekere	id=11904
+Portuguese (Translation)	O Piolho Esmagado	id=16563

@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=13938&d=0&a=1
+id:	13938
+title:	The Old Man of Koleo
+author:	Phellow Mmbuni
+artist:	Wiehan de Jager and PHELLOW MMBUNI
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13938.png
+desc:	A story about the family of an old man going to the town for the first time.
+
+page_text:
+
+P1	The old man of Koleo has just gone to town.
+P2	The wife of the old man of Koleo has just gone to town.
+P3	The son of the wife of the old man of Koleo has just gone to town.
+P4	The cousin of the son of the wife of the old man of Koleo has just gone to town.
+P5	The dog of the cousin of the son of the wife of the old man of Koleo has just gone to town.
+
+images:
+
+illustrations/pages/13990.png
+illustrations/pages/13990.png
+illustrations/pages/13992.png
+illustrations/pages/13988.png
+illustrations/pages/13989.png
+illustrations/pages/13993.png
+
+translations:
+

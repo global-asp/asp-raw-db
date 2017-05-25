@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=2818&d=0&a=1
+id:	2818
+title:	Tólikíoki Tenákatá - Imúain
+author:	Leonard Kotikash
+artist:	Rijuta Ghate
+lang:	Maa
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2818.png
+desc:	Ékíyiolóú imúain kúmok oó intokítin.
+
+page_text:
+
+P1	Káínyoo páa pûs olóíng'ang'e?
+P2	Mmê pûs énaaké.
+P3	Káínyoo peê enyorí imbenék?
+P4	Menyóri énaaké.
+P5	Káínyoo peê áâ sikítoi olmáísurí?
+P6	Óre ilmaisurîn oóotô náa kéísikítok. Óre ilmaisurîn oojôn náa kényori.
+P7	Káínyoo peê érôk olmámpuli?
+P8	Mmê ilmampuliní pookí óoroók.
+P9	Káínyoo peê édô osárge?
+P10	Kédo osárge amû kétíi entókî nájî 'iron'.
+P11	Káínyoo peê eibór emunyán?
+P12	Mayíólo.
+
+images:
+
+illustrations/pages/1050.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+English (Original)	Colours	id=1927
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+isiNdebele (Translation)	Ngitjela Nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele ... Ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kiswahili (Translation)	Taja Rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sepedi (Translation)	Mpotše...gona Bjale. Mebala	id=1936
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Mebala	id=11549
+Setswana (Translation)	Mpotse Mo ... Mebala E Farologaneng!	id=11164

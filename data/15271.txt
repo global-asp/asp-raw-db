@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=15271&d=0&a=1
+id:	15271
+title:	Palesa Loves Plants
+author:	African Storybook
+artist:	Jesse Pietersen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15271.png
+desc:	Palesa is a little girl who loves all plants.
+
+page_text:
+
+P1	This is Palesa. Her name means 'flower' in her language,  Setswana.
+P2	In the morning Palesa talks to the orange tree. "Orange tree,  please give us lots of oranges."
+P3	Palesa walks to school. On the way she says to the grass,  "Please grass,  grow greener and don't dry up."
+P4	Palesa passes wild flowers. "Flowers,  thank you for your bright colours."
+P5	At school,  Palesa talks to the little tree. "Tree,  please grow big branches so we can read under your shade."
+P6	Palesa talks to the hedge round her school.  "Please grow strong and stop bad people from going inside."
+P7	When Palesa returns home,  she visits the orange tree. "Are your oranges ripe yet?" asks Palesa.
+P8	"The oranges are still green," sighs Palesa. "I will see you tomorrow orange tree," she says. "Perhaps then you will have a ripe orange for me!"
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa.	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=14521&d=0&a=1
+id:	14521
+title:	Muhlayisi Na Vuhlayiselo Byo Hlawuleka
+author:	Arnold Mushwana
+artist:	Magriet Brink
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14521.png
+desc:	Xitori xa vana va swihari lava pfuniweke no hlayisiwa loko va fika evuhlayiselweni bya swihari swo pfumala vatswari. Swihari leswi swi hlayisiwa hi munhu wo hlawuleka na ntlawa wa yena.
+
+page_text:
+
+P1	Lexi i xitori xa muhlayisi na vuhlayiselo bya swihari swo pfumala vatswari.
+P2	Nhweti ya ku hela mphesaphesa evuhlayiselweni. Nomsa wa lembe rin'we hi yena wo sungula ku fika. A larile na ku hlundzuka.
+P3	Endzhaku ka masiku Nomsa a tiyela. A sungula ku tlanga na swihari swin'wana.
+P4	Siku rin'wana enhwetini ku fikile xihahampfhuka evuhlayiselweni.
+P5	Endzeni ka xihahampfhuka a ku ri na xindlopfana xi funengetiwile nkumba lowukulu. Vito ra xona i Ndzima.
+P6	Ndzima a funengele nkumba. A ri na ntlhanu wa masiku. Muhlayisi a mamisa Ndzima hi bodhlela.
+P7	Hi vusiku byin'wana un'wana na un'wana u pfuxiwile hi ku fika ka Ambiya.
+P8	Ambiya a ri na ntlhanu wa tinhweti. A heleriwile hi matimba endzhaku ko famba nkarhi wo leha.
+P9	Hikwalaho ka nkolo wa yena wo leha,  muhlayisi u khomile bodhlela a ri yisa ehenhla ku n'wi mamisa.
+P10	Swihari swin'wana leswi fikeke nhweti yaleyo ku vile swinghalana. Mavito ya swona i Kopi,  Kepi na Kipi.
+P11	Muhlayisi u rhandza swihari hinkwaswo. Na leswi phungelaka.
+P12	Vanhu va e vuhlayiselweni va tirha hi matimba. Va tshemba leswaku siku rin'wana swihari leswo pfumala vatswari swi ta tihlayisa. Swi ta tlhelela enhoveni.
+
+images:
+
+illustrations/pages/12997.png
+illustrations/pages/12979.png
+illustrations/pages/12982.png
+illustrations/pages/12983.png
+illustrations/pages/12984.png
+illustrations/pages/12985.png
+illustrations/pages/12986.png
+illustrations/pages/12989.png
+illustrations/pages/12990.png
+illustrations/pages/12991.png
+illustrations/pages/12997.png
+illustrations/pages/12995.png
+illustrations/pages/12998.png
+
+translations:
+
+ChiTonga (Translation)	Mubambi Wabanyama Abusena Bwatunyama Twakafidwa Bazyali	id=18639
+CiNyanja (Translation)	Osunga Nyama Pamalo Posungila Nyama Zing’Ono	id=18627
+Dhopadhola (Translation)	Jakur Gi Kakuro Nythindho Manyakare	id=15762
+IciBemba (Translation)	Uusakamana Inama Neencende Yakwe Iyaibeela	id=18584
+isiXhosa (Translation)	Umgcini Nekhaya Leenkedama	id=14123
+isiZulu (Translation)	Umgcini Nesikhungo Esikhethekile	id=14087
+isiZulu (Adaptation)	Ikhaya Lezilwane Elikhethekile	id=17338
+Portuguese (Translation)	Keeper E Sua Creche Especial	id=16713
+Sepedi (Translation)	Mothuši Le Lefelo La Gagwe La Go Ikgetha La Go Hlokomela	id=18002
+Sesotho (S.Africa) (Translation)	Mohlokomedi Wa Diphoofolo Le Sebaka Sa Hae Se Ikgethang	id=14442
+Setswana (Translation)	Motlhokomedi Le Serapa Sa Gagwe Se Se Kgethegileng	id=13974
+SiLozi (Translation)	Mubabaleli Ni Sibaka Sa Ndiyala Za Lifolofolo	id=18566
+Tshivenda (Translation)	Muthogomeli	id=14730

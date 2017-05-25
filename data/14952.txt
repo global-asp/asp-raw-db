@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=14952&d=0&a=1
+id:	14952
+title:	I Know How to Draw!
+author:	Isabelle Duston
+artist:	Silva Afonso and Silva Afonso and Vusi Malindi
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14952.png
+desc:	Alfredo can tell many stories with his drawings.
+
+page_text:
+
+
+images:
+
+illustrations/pages/14015.png
+illustrations/pages/14016.png
+illustrations/pages/14017.png
+illustrations/pages/14018.png
+illustrations/pages/14019.png
+illustrations/pages/14020.png
+illustrations/pages/14021.png
+illustrations/pages/14022.png
+illustrations/pages/14902.png
+illustrations/pages/14023.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Portuguese (Original)	Eu Sei Desenhar!	id=14896

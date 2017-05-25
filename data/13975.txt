@@ -1,0 +1,80 @@
+url:	http://africanstorybook.org/reader.php?id=13975&d=0&a=1
+id:	13975
+title:	Kgwele Ya Me E E Khibidu
+author:	Lorato Trok
+artist:	Marion Drew
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13975.png
+desc:	Kgwele e e khibidu e e kgolo e tsena mo loetong.
+
+page_text:
+
+P1	Kgwele.
+P2	Kgwele ya me.
+P3	Kgwele ya me e e khibidu.
+P4	Kgwele ya me e e kgolo,  e e khibidu.
+P5	Ke a raga.
+P6	Ke raga kgwele ya me.
+P7	Ke raga kgwele ya me e e khibidu.
+P8	Ke raga kgwele ya me e e khibidu ka maatla!
+P9	Kae?
+P10	Kgwele ya me e kae?
+P11	Jaanong kgwele ya me e kae?
+P12	Jaanong kgwele ya me e e khibidu e kae?
+P13	E kwa godimo.
+P14	E kwa godimo-dimo.
+P15	E kwa godimo-dimo kwa lefaufaung.
+P16	E kwa godimo kwa lefaufaung,  kwa godimo ga ngwedi. E ile!
+
+images:
+
+illustrations/pages/10779.png
+illustrations/pages/10777.png
+illustrations/pages/10778.png
+illustrations/pages/10779.png
+illustrations/pages/10780.png
+illustrations/pages/10781.png
+illustrations/pages/10782.png
+illustrations/pages/10783.png
+illustrations/pages/10784.png
+illustrations/pages/10785.png
+illustrations/pages/10786.png
+illustrations/pages/10787.png
+illustrations/pages/10788.png
+illustrations/pages/10789.png
+illustrations/pages/10790.png
+illustrations/pages/10792.png
+illustrations/pages/10793.png
+
+translations:
+
+Afrikaans (Translation)	My Rooi Bal	id=20085
+Amharic (Translation)	የኔ ትልቁ ኳስ	id=16454
+Amharic (Translation)	ቀይዋ ኳሴ	id=16463
+ChiTonga (Translation)	Bbola Yangu Iisubila	id=18628
+CiNyanja (Translation)	Bola Yanga Yofuwila	id=18608
+Ciyawo (Translation)	Mpila Wangu Wecejewu	id=15157
+Ciyawo (Translation)	Mpila Wangu Wecejewu	id=15159
+Ciyawo (Translation)	Mpila Wangu Wecejewu	id=15160
+Dholuo (Translation)	Mpira Na Marakwar	id=15201
+Ekegusii (Translation)	Omopir' One	id=15094
+English (Translation)	My Red Ball	id=13308
+English (Translation)	My Red Ball	id=19976
+Fante (Adaptation)	Mo Bɔɔl Kɔkɔɔ No	id=18815
+Gikuyu (Translation)	Mu͂bi͂ra Wakwa Mu͂nene Mu͂tune	id=15607
+IciBemba (Translation)	Umupila Wandi Uwakashika	id=18573
+isiXhosa (Translation)	Ibhola Yam Ebomvu	id=14121
+isiZulu (Translation)	Ibhola Lami Elibomvu	id=13536
+Kiswahili (Translation)	Mpira Wangu Mwekundu	id=16088
+Lunyole (Translation)	Omupiira Gwange Omulando	id=13701
+Portuguese (Translation)	A Minha Bola Vermelha	id=17616
+Sepedi (Translation)	Kgwele Ya Ka Ye Hubedu	id=18003
+Sesotho (Lesotho) (Original)	Bolo Eaka E Khubelu	id=13307
+Sesotho (S.Africa) (Translation)	Bolo Ya Ka E Kgubedu	id=14511
+SiLozi (Translation)	Mbola Yaka Yefubelu	id=18557
+Tshivenda (Translation)	Bola Yanga Tswuku	id=14774
+Tunisian (Translation)	Kùrti Il-Ħamra	id=15151
+Xitsonga (Translation)	Bolo Ya Mina Yo Tshuka	id=14519
+Yoruba (Translation)	Bóòlù Mi Tí Ó Púpa	id=14966

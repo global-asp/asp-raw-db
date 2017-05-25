@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=2934&d=0&a=1
+id:	2934
+title:	Mwii Wakwa
+author:	Anna Kula
+artist:	Mlungisi Dlamini
+lang:	Kikamba
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2934.png
+desc:	This story describes what we can do with our bodies. Read more to see what we cannot do with our bodies.
+
+page_text:
+
+P1	Nothembe nawo.
+P2	No nituile nawo.
+P3	Nonisunge nawo.
+P4	Nonitivie nawo.
+P5	Nonitulatuile nawo.
+P6	Nonithele nawo.
+P7	Ngingega ngawo.
+P8	Indi ndiuluka nawo.
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Anywak (Translation)	Dëëra	id=17261
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+English (Adaptation)	My Body	id=9882
+isiXhosa (Translation)	Umzimba Wam	id=7685
+Kiswahili (Translation)	Mwili Wangu	id=12632
+Luganda (Translation)	Omubiri Gwange	id=2935
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Sepedi (Translation)	Mmele Waka	id=7854
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386
+Zande (Translation)	Kptore	id=12613

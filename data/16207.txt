@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=16207&d=0&a=1
+id:	16207
+title:	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka
+author:	Nokuthula Zondi
+artist:	Mango Tree
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16207.png
+desc:	U-Ebei nomama wakhe balindele ibhasi enkulu eluhlaza okwesibhakabhaka ezobayisa edolobheni. Kodwa ibhasi eluhlaza okwesibhakabhaka ifile. Bazofika kanjani edolobheni?
+
+page_text:
+
+P1	Yayiyodwa ibhasi edolobheni lika-Ebei. Yayinkulu futhi iluhlaza okwesibhakabhaka. Yayinomsindo omkhulu.
+P2	Ngelinye ilanga umama ka-Ebei wathi,  "Kusasa sizokuya edolobheni siyothenga umfaniswano wakho."
+P3	U-Ebei wajabula kakhulu. Babezohamba ngebhasi enkulu eluhlaza okwesibhakabhaka. Kwakungavumi ukuba alale ebusuku.
+P4	U-Ebei wayesevele esegqokile lapho umama wakhe engena ezomvusa.
+P5	U-Ebei nomama wakhe baya esitobhini. Balindela ibhasi enkulu eluhlaza okwesibhakabhaka. Kodwa ibhasi ayizange ifike.
+P6	Abanye abantu bafika esitobhini. Babekhononda ngoba ibhasi yayingasigcinanga isikhathi. "Ngabe ibhasi isishiyile?" Babebuza.
+P7	U-Ebei wakhathazeka. "Ngeke sikwazi ukuya edolobheni. Ngeke ngikwazi ukuthola umfaniswano wami," ecabanga.
+P8	Abanye abantu baduba babuyela emakhaya. Kodwa u-Ebei wayekhala engafuni ukuya ekhaya. Kodwa umama wakhe wayemduduza ethi,  "Sizolinda isikhashana eside."
+P9	Masishane,  bezwa umsindo. Babona izintuli emoyeni. Yayiza ibhasi!
+P10	Kodwa le bhasi yayingeluhlaza okwesibhakabhaka. Yiyingenkulu. Le bhasi yayibomvu futhi incane. Abantu ababelindile bayibuka ibhasi. Abazange bagibele.
+P11	"Ngenani! "Ngenani!" kumemeza umshayeli ethi,  "Sishiywe isikhathi namuhla.
+P12	U-Ebei nomama wakhe bangena kuqala. Ngesikhashana wonke umuntu wangena ebhasini elibomvu elincane.
+P13	U-Ebei wabuka phandle ngefasitela. Wabona abanye abantu abaningi esitobhini.
+P14	Abanye abantu abaningi babegijima bejahe ukugibela ibhasi. Kodwa basebeshiywe isikhathi. Ibhasi yase igcwele. Ibhasi ebomvu yahamba yaya edolobheni.
+P15	"Iphi ibhasi enkulu eluhlaza okwesibhakabhaka?"  Kubuza umama ka Ebei. "Ifile," kuphendula umshayeli. "Siyayilungisa,  izobakhona kusasa," kusho umshayeli.
+P16	U-Ebei wayengenandaba nombala webhasi. Wayengenandaba nobukhulu bebhasi. Wayejabuliswa ukuthi yayiya edolobheni.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=14412&d=0&a=1
+id:	14412
+title:	Maguru Apatiana Miguu
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14412.png
+desc:	Maguru anaamua kuwapa wanyama wote miguu ili waweze kufurahia kutembea kama vile binadamu.
+
+page_text:
+
+P1	Hapo zamani,  wanyama hawakuwa na miguu.  Wote walitambaa.
+P2	Watu pekee walitembea. Walikuwa wamepatiwa miguu na Maguru.
+P3	Maguru aliamua kuwapatia pia wanyama miguu.  Alitaka watembee. Aliwatangazia.
+P4	Wanyama walifurahi.  Wataweza kutembea na kukimbia. Waliimba na kucheza.
+P5	Walipotambaa,  matumbo yao yalikwaruzwa. Miguu itawasaidia kusimama na kuona mbali.
+P6	Siku ilipofika,  wanyama wengi walitambaa kwenda kwa Maguru.
+P7	Kila mnyama alipata miguu minne. Kila ndege alipata miguu miwili.
+P8	Wanyama walikuwa tofauti waliposimama. Wengine walishindwa kusimama wakaanguka.
+P9	Walizunguka kijijini wakiwaonyesha watu. Walisema,  "Hatutatambaa tena."
+P10	Wa mwisho alikuwa Jongoo. Maguru alimwuliza,  "Kuna mwingine nyuma yako?" Jongoo alijibu,  "La! Ni mimi wa mwisho."
+P11	Maguru aliwaza,  "Ikiwa hakuna mwingine nyuma yake,  nitaifanyia nini miguu itakayobaki?" Maguru aliamua kumpatia Jongoo miguu yote iliyobaki.
+P12	Jongoo aliondoka kwa furaha na miguu mingi. Aliwaza,  "Nitaweza kwenda kwa kasi kuwaliko wote."
+P13	Baada ya Jongoo kuondoka,  Nyoka alifika. "Tafadhali,  nipatie nami miguu." Nyoka alimsihi Maguru.
+P14	"Nimepatiana miguu yote kwa waliotangulia. Wewe ulikuwa wapi?" Maguru alimwuliza. Nyoka alimjibu,  "Nililala kupita kiasi."
+P15	Maguru alitafuta kila mahali. Alikosa kupata miguu yoyote iliyosalia.
+P16	Maguru alimwambia,  "Hakuna miguu iliyobaki." Nyoka alitambaa akarudi bila miguu. Hadi leo,  Nyoka anangoja kupata miguu.
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+English (Original)	Maguru Gives Legs	id=14415
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+isiXhosa (Translation)	Umaguru Uphisa Ngemilenze	id=17576
+isiZulu (Translation)	Umaguru Uphisana Ngemilenze	id=16360
+isiZulu (Adaptation)	Umveli Unikela Ngemilenze	id=17461
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru O Fana Ka Maoto	id=20037
+Sesotho (South Africa) (Translation)	Maguru Deel Bene Uit	id=20083
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Tshivenda (Translation)	Maguru U Ṋekedza Milenzhe	id=18285
+Xitsonga (Translation)	Maguru a Phakela Milenge	id=18870

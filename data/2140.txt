@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=2140&d=0&a=1
+id:	2140
+title:	Musau Saves His Father
+author:	Kanyiva Sandi
+artist:	Benjamin Mitchley
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2140.png
+desc:	Musau’s father got drunk every night
+
+page_text:
+
+P1	Once upon a time,  there was a small boy named Musau who lived with his father Syonzola.
+P2	Syonzola stayed out drinking until very late every night and Musau hardly ever saw him.
+P3	When Musau's father came home,  he would scream,  "Villagers! Villagers! Come and rescue me! I am being attacked by a hyena."
+P4	On hearing Syonzola's screams,  the villagers would come with their arrows and spears and machetes,  to rescue him. But they would find that he was drunk and just teasing them.
+P5	Musau's father continued drinking and shouting for help late at night. The villagers continued going with arrows and spears and machetes to rescue him. But each time it was the same story. He would only be teasing them.
+P6	Every time Musau's father returned home late,  Musau would be woken by the screams for help. Musau knew his father's voice very well. He would listen as Syonzola moved in the dark until he reached the door of their house.
+P7	One night,  Syonzola came home drunk as usual. But this time,  a hyena hid near the house. When Syonzola screamed,  the hyena fiercely attacked him.
+P8	Syonzola screamed so loudly. But the villagers said,  "We are tired of Syonzola's tricks."  They turned over in their beds and went back to sleep.
+P9	As usual,  Syonzola's screams woke up his son Musau. Musau listened for his father's steps as he always did. But his father did not seem to move closer to the house. Musau sat up and listened more keenly.
+P10	"My father is really in danger," Musau said. "This time he is not teasing."
+P11	Musau jumped up from his bed. He grabbed a smoldering log from the fire and rushed out of the hut.
+P12	"Father,  father," he called. In the moonlight,  Musau saw Syonzola struggling with an animal. He raised the burning log. When the hyena saw the fiery log,  he ran away.
+P13	After that,  Syonzola never went out again to drink. Instead,  he spent his days telling interesting stories to the school children.
+
+images:
+
+illustrations/pages/8233.png
+illustrations/pages/8221.png
+illustrations/pages/8222.png
+illustrations/pages/8223.png
+illustrations/pages/8224.png
+illustrations/pages/8225.png
+illustrations/pages/8226.png
+illustrations/pages/8227.png
+illustrations/pages/8228.png
+illustrations/pages/8229.png
+illustrations/pages/8230.png
+illustrations/pages/8231.png
+illustrations/pages/8232.png
+illustrations/pages/8234.png
+
+translations:
+
+Amharic (Translation)	አባቱን የታደገው ጥላሁን	id=12738
+English (Adaptation)	Musau Saves His Father	id=18326
+Luganda (Translation)	Kabali Ataasa Kitaawe	id=6426
+Lugbarati (Translation)	Amagu Pa Ima Ati	id=2522
+Lumasaaba (Translation)	Musalu Awonesa Paapawe	id=3077
+Lunyole (Translation)	Musa Ataasa Semwana	id=2523

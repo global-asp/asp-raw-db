@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=2278&d=0&a=1
+id:	2278
+title:	The Friend I Miss
+author:	Ursula Nafula
+artist:	Rijuta Ghate, Catherine Groenewald, Benjamin Mitchley and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2278.png
+desc:	Two young childhood friends grow up together in the village. One drops out of school and the other goes on lonely and missing her friend.
+
+page_text:
+
+P1	Every morning when I woke up I hurried to eat my breakfast.
+P2	Then I would take my blue blouse and run out of the house to find my friend Muthoni.
+P3	Once I found Muthoni,  we would forget everything else.
+P4	Muthoni and I would play hide and seek. I hid in big trees,  while Muthoni went behind huts.
+P5	We promised each other that we would work hard in school and graduate.
+P6	But one day,  Muthoni did not come to school. I stood at the door to our class and waited for her to arrive. But she did not come.
+P7	When I returned home that day,  I told my mother about my friend Muthoni.
+P8	I continued with school,  but I missed Muthoni very much.
+P9	But every day I went to school,  I looked for Muthoni everywhere.
+P10	Now I am a lady,  but I still miss my friend Muthoni.
+
+images:
+
+illustrations/pages/8658.png
+illustrations/pages/2444.png
+illustrations/pages/2450.png
+illustrations/pages/2452.png
+illustrations/pages/1191.png
+illustrations/pages/1514.png
+illustrations/pages/1517.png
+illustrations/pages/2481.png
+illustrations/pages/8666.png
+illustrations/pages/8641.png
+illustrations/pages/1812.png
+
+translations:
+
+Kiswahili (Translation)	Rafiki Ninayemkosa	id=9527

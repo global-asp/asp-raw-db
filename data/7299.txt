@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=7299&d=0&a=1
+id:	7299
+title:	Embwa
+author:	Ritah Katetemera
+artist:	Catherine Groenewald, Wiehan de Jager, Jean Fullalove, Ursula Nafula and Sandy Campbell
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7299.png
+desc:	Olugelo luno lukwata ku musajja eyalina embwa ye emu nga ngonvu ate nga mpulize.
+
+page_text:
+
+P1	Awo olwatuuka nga wabawo omusajja ngalina embwa ye emu.
+P2	Omusajja ono yali ayagala nnyo embwa ye.
+P3	Yamukolera nga emirimu mingi nga okugenda mu katale eggule enyama.
+P4	Okuleta amazzi okuva ku luzzi.
+P5	Okukuuma ensolo zawaka,  n'okukuuma mukama wayo baleme mutusaako bulabe.
+P6	Lwali lumu omusajja ono nagigulira ekirabo okugyebaza emirimu gyekola,  nokubeera eyamazima nga bagitumye.
+P7	Embwa yasanyuka nnyo. Neyeyongera okukola ennyo.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792

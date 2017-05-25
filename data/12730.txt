@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=12730&d=0&a=1
+id:	12730
+title:	Amotoka Napus Naapolon
+author:	Simon Ipoo
+artist:	Mango Tree
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12730.png
+desc:	Arai Ebei edia lo esomae esukul. Abu ngesi talakar noi kotere alimokini itokeng atamar karikori lotaun katogielak eworu lo esukul. Emuit ngesi akiyen etaun.
+
+page_text:
+
+P1	Ayei amotoka apei bon nadakar nakata Ebei. Arai ng'esi naapolon,  napus. Achalana eruye keng.
+P2	Apei kolong'it,  tolimu itokeng a Ebei tama,  "Kilosi ng'oni moi akigiel ng'iworui kon lu esukul."
+P3	Abu Ebei talakar noi. Edokete kechi amotoka napus napolon. Nyejotooro ng'esi atabong ng'ina.
+P4	Na abunio itokeng akitekienyun ng'esi,  akienyi Ebei aning'orot nabo anapit ng'iworui.
+P5	Apotu Ebei ka itokeng torotokis jik tani nidoket ng'amotokae. Kidara kechi amotoka napus. Nakaneni nyedoluno amotoka.
+P6	Todolut ng'ikalotok luche dang nidoket ng'amotokae. Eng'urung'urosi kechi kotere achaikinit amotoka. "Kiisik ng'oni amotoka a?" King'itanarosi make.
+P7	Abu Ebei tobul. Tatam ng'esi tama kori nyepedorete kechi alosit lotaun akigiel eworu lo esukul.
+P8	Tobur ng'iche-tung'a tobong'osi nawiyei. Nakaneni,  kigor Ebei tong'er akibong nawi. Kimaima itokeng ng'esi. "Kidari ng'oni amotoka nikooyen," tama itokeng.
+P9	Napei,  kiirasi eruye ka apuwa ekuwam. Talakar Ebei kotere ayeni ng'esi atamar ebunit amotoka!
+P10	Nakaneni,  pe arai amotoka napus. Arai niareng'an niichi. Apotu ng'itung'a tokienyikis imotoka. Emam itwan abu todoka tooma. Abulit ng'itung'a kotere pe anupito.
+P11	"Tolomutu! Tolomutu!" Kirema ekamean. "Echaunit ng'oni akwaar naga," tolimu ng'esi.
+P12	Apotu Ebei ka itokeng king'arenikis tolomasi. Wadio,  tolomasi ng'itung'a luche daang nimotoka niareng'an niichi.
+P13	Tokienyia Ebei king'a alopuke dio king'olik ng'itung'a lukaalak aniedokere ng'amotokae.
+P14	Akerete ng'itung'a lukaalak akidol amotoka,  nakaneni nyedolo kechi. Kilelebun amotoka ng'ina. Dio torotokis lotaun.
+P15	"Nyani amotoka napus naapolon?" King'itakin itokeng a Ebei. "Ichwang'akina," tatachu ekamean. "Esubakinio. Iwoki moi amotoka napus naapolon ng'itung'a daang lu edong'o akwaar naka." Kiyatak ng'esi.
+P16	Pe asaki Ebei akiyen emunyen amotoka. Pe asaki ng'esi tani akiyen etiae amotoka. Alakara kotere ewokorit ng'esi amotoka lotaun.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=13124&d=0&a=1
+id:	13124
+title:	ድመቶችን እንቁጠር
+author:	ስኒን ተፈራ and መዘምር ግርማ
+artist:	Jesse Breytenbach
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13124.png
+desc:	Counting book
+
+page_text:
+
+P1	ስንት ድመቶች አሉ? ዜሮ ድመቶች፡፡
+P2	ስንት ድመቶች አሉ? ፩ አንድ ድመት፡፡
+P3	ስንት ድመቶች አሉ? ፪ ሁለት ድመቶች፡፡
+P4	ስንት ድመቶች አሉ? ፫ ሶስት ድመቶች፡፡
+P5	ስንት ድመቶች አሉ? ፬ አራት ድመቶች፡፡
+P6	ስንት ድመቶች አሉ? ፭ አምስት ድመቶች፡፡
+P7	ስንት ድመቶች አሉ? ፮ ስድስት ድመቶች፡፡
+P8	ስንት ድመቶች አሉ? ፯ ሰባት ድመቶች፡፡
+P9	ስንት ድመቶች አሉ? ፰ ስምንት ድመቶች፡፡
+P10	እዚህ የምናየው ምንድን ነው? ውሮ ከዛፍ ላይ መውጣት ተቸግራ! ''እኔ አወርድሻለሁ!''
+P11	''እማዬ ውሮን እንውሰዳት? አንዷን ብቻ'' ስንት ድመቶች? ፱ ዘጠኝ ድመቶች፡፡.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Arabic (Translation)	عدد القطط	id=19919
+English (Adaptation)	Counting Cats	id=12693
+isiXhosa (Translation)	Bala Iikati	id=15023
+Lunyole (Translation)	Ohubala Epuusi	id=13559
+Portuguese (Translation)	Contar Gatos	id=16196
+Tunisian (Translation)	Ħisbèn Il-Qŧàŧis	id=15384

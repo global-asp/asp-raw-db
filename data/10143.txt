@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=10143&d=0&a=1
+id:	10143
+title:	Azizi La Poupée
+author:	Marianne Pasty-Abdul Wahid and Translators without Borders
+artist:	Natalie Propa
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10143.png
+desc:	Cette enfant adore s’occuper de sa poupée. Et sa poupée est pour elle une amie chérie.
+
+page_text:
+
+P1	Voici Azizi. Azizi est ma poupée.
+P2	J'aime beaucoup Azizi parce qu'elle sourit tout le temps.
+P3	Après m'être levée,  je me lave le visage. Puis je cherche Azizi.
+P4	Une fois Azizi trouvée,  je lui brosse ses cheveux.
+P5	Lorsque je mange mon petit-déjeuner,  je donne aussi à manger à Azizi.
+P6	Lorsque je mange des bonbons,  j'en donne aussi un à Azizi.
+P7	Mais Azizi ne mange jamais son bonbon. Je me demande pourquoi!
+P8	Je me promène dans le jardin et y cueille des fleurs.
+P9	J'en donne une à Azizi. Mais elle ne dit jamais "merci."
+P10	Je lave Azizi avant que ma maman ne me donne mon bain.
+P11	J'habille Azizi de vêtements rouges,  parce que j'adore le rouge.
+P12	Lorsque je me couche,  je couche Azizi près de moi.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the Doll	id=9748
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Lámnsoʼ (Translation)	Shibvə̀m Shee Azizi	id=16448
+Lugwere (Translation)	Odole Omulyabwita	id=16112

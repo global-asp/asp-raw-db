@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=2191&d=0&a=1
+id:	2191
+title:	Ekhafu Yekamakana
+author:	Joseph Saka
+artist:	Danielle Bruckert
+lang:	Lubukusu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2191.png
+desc:	A story for toddlers about a cow with daytime identity as a soft toy
+
+page_text:
+
+P1	Eino ekhafu. Ekhafu ili bulai po!
+P2	Khwama echuli khwola kumusi ekhafu yanga'ali.
+P3	Epurusia ikaiti.
+P4	Namwe yipa kumpira.
+P5	Musilo mwosi,  ekhafu yakhuukia!
+P6	Eonia bulamu.
+P7	Yipania busiku.
+P8	Nono nofunikha chimoni lukali,  Mala wikombe kamalayi -.
+P9	Ekhafu enyala yakhukendelakho wesi!
+P10	The End.
+
+images:
+
+illustrations/pages/858.png
+illustrations/pages/859.png
+illustrations/pages/860.png
+illustrations/pages/861.png
+illustrations/pages/862.png
+illustrations/pages/863.png
+illustrations/pages/864.png
+illustrations/pages/865.png
+illustrations/pages/866.png
+illustrations/pages/867.png
+illustrations/pages/868.png
+
+translations:
+
+Ng’aturkana (Translation)	Ng’Akiro Nakaili-Ilok Aite Anaajokon	id=2196

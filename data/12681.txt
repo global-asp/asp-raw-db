@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=12681&d=0&a=1
+id:	12681
+title:	Jaaka Le Pêcheur
+author:	Johanne Jean-maître and Translators without Borders
+artist:	Zablon Alex Nguku
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12681.png
+desc:	La description de la vie d’un pêcheur du Nil.
+
+page_text:
+
+P1	Voici Jaaka le pêcheur de Naminya.
+P2	Il pêche à la rivière du Nil.
+P3	Il a un bateau,  un filet de pêche et un hameçon.
+P4	Il se réveille toujours très tôt le matin pour attraper la perche du Nil.
+P5	Vers 10 h,  il va vendre ses prises au marché central au Jinja.
+P6	Jaaka,  qu'est-il arrivé? Que se passe-t-il? Il est tellement triste.
+P7	"Aujourd'hui,  la situation est mauvaise. Le vent du Nil m'a empêché de pêcher. De plus,  une perche s'est éloignée dans la rivière avec mon hameçon."
+P8	"Mais je garde espoir que demain sera une meilleure journée car j'ai acheté un nouvel hameçon."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka Die Visserman	id=11406
+English (Translation)	Jaaka the Fisherman	id=8491
+isiXhosa (Translation)	Ujaaka Umlobi	id=13206
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

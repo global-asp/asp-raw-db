@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=13376&d=0&a=1
+id:	13376
+title:	Undlovu Namasele
+author:	Nokuthula Bernelee Dyonase
+artist:	Amir Bachir António Necas
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13376.png
+desc:	How we must not upset the balance of nature.
+
+page_text:
+
+P1	Kudala-dala,  umnumzana uNgonyama wayengukumkani wehlathi.
+P2	Wathuma izilwanyana zakhe ukuba ziyokuphelisa ingxolo eyayisechibini apha ehlathini. Kodwa zange ziphumelele.
+P3	Indlovu yazigqatsa ukuyayiphelisa. Indlovu leyo yathunywa ukuba iyokugada.
+P4	Ezinzulwini zobusuku yaqalisa ingxolo yaze indlovu yaqalisa ukubulala amasele. Yaphinda ngosuku olulandelayo yenza ngokukwanjalo.
+P5	Emva kweevekana,  waba novuyo ukumkani uNgonyama ngoba undlovu wayeyiphelisile iingxolo.
+P6	Kodwa emva kwenyanga,  babona izinambuzane ezininzi entsimini yabo.
+P7	Ukumkani uNgonyama wacela undlovu ukuba abize amasele azotya izinambuzane.
+P8	Waba noloyiko undlovu ngoba wayewabulele onke. Wathi,  "Uxolo,  ndi-ndi-ndi-ndiye,  ndiwabulala!"
+P9	Wathi ukumkani uNgonyama,  "Ndlovu,  ndakucela ukuba uphelise ingxolo,  hayi ukuba ubulale amasele."
+P10	Waze ukumkani waxelela zonke izilwanyana ukuba zisoloko zisenza ngqo into ayithethileyo.
+
+images:
+
+illustrations/pages/8197.png
+illustrations/pages/8195.png
+illustrations/pages/8196.png
+illustrations/pages/8197.png
+illustrations/pages/8198.png
+illustrations/pages/8199.png
+illustrations/pages/8200.png
+illustrations/pages/8201.png
+illustrations/pages/8202.png
+illustrations/pages/8203.png
+illustrations/pages/8195.png
+
+translations:
+
+English (Original)	The Elephant and the Frogs	id=8204
+English (Adaptation)	The Elephant and the Frogs - Colouring Book	id=17443
+Kiswahili (Translation)	Ndovu Na Vyura	id=9480
+Portuguese (Translation)	O Elefante E As Rãs	id=8238
+Xitswa (Translation)	N'wa Ndlovu Ni Makheli	id=9883

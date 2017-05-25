@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=8471&d=0&a=1
+id:	8471
+title:	A Dança Do Cabrito
+author:	Jorge Eusébio Eusébio
+artist:	José Nhambo
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8471.png
+desc:	Um cabrito encontra um lobo na selva
+
+page_text:
+
+P1	Um dia,  um cabrito perdeu-se na selva.
+P2	E encontrou-se com o lobo!
+P3	O cabrito disse: Sr. Lobo,  eu sei que queres me comer. Porém,  gostaria de morrer feliz.
+P4	O lobo perguntou ao cabrito: morrer feliz? Como?
+P5	O cabrito respondeu: gostaria de morrer dançando.
+P6	Então,  o lobo pegou na sua guitarra e começou a tocar.
+P7	O cabrito começou a dançar.
+P8	Perto do local,  havia cães. Eles aproximaram-se para ver o que estava a acontecer.
+P9	O lobo teve medo de cães. Deixou a guitarra e fugiu!
+P10	E o cabrito continuou a dançar,  porque estava livre das garras do lobo!
+
+images:
+
+illustrations/pages/8395.png
+illustrations/pages/8380.png
+illustrations/pages/8381.png
+illustrations/pages/8382.png
+illustrations/pages/8384.png
+illustrations/pages/8386.png
+illustrations/pages/8388.png
+illustrations/pages/8389.png
+illustrations/pages/8390.png
+illustrations/pages/8391.png
+illustrations/pages/8395.png
+
+translations:
+
+Afrikaans (Translation)	Die Dansende Boerbok	id=11243
+English (Original)	The Dancing Goat	id=8392
+Lumasaaba (Translation)	Imbusi Ishina	id=11899
+Ng’aturkana (Translation)	Akine Nakedong'an	id=18072
+Portuguese (Translation)	A Cabra Dançarina	id=18888
+siSwati (Translation)	Imbuti Ledansako	id=14808

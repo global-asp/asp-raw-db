@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=19593&d=0&a=1
+id:	19593
+title:	My Storybook
+author:	Soila Murianka
+artist:	Catherine Groenewald, Wiehan de Jager and Stephen Wallace
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19593.png
+desc:	A child describes her storybook.
+
+page_text:
+
+P1	Look at me.
+P2	I am a girl.
+P3	I have a new storybook.
+P4	Look at my new storybook.
+P5	My sister took my storybook.
+P6	My little brother took my storybook too.
+P7	He likes to read my storybook.
+P8	Now I am reading my storybook.
+
+images:
+
+illustrations/pages/8606.png
+illustrations/pages/8659.png
+illustrations/pages/8664.png
+illustrations/pages/8636.png
+illustrations/pages/8662.png
+illustrations/pages/8666.png
+illustrations/pages/10546.png
+illustrations/pages/19236.png
+illustrations/pages/8636.png
+
+translations:
+

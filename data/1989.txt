@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=1989&d=0&a=1
+id:	1989
+title:	Izincwadi
+author:	Clare Verbeek
+artist:	Cathy Feek
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1989.png
+desc:	Lendaba imayelana nentombazanyana egulayo. Njengoba igula
+
+page_text:
+
+P1	Ngesonto eledlule ngithole izincwadi ezingini.
+P2	NgoMsombuluko udokotela wami wabhala incwadi eya kuthisha wami.
+P3	UThabisile uyagula. Kumele ahlale ekhaya.
+P4	NgoLwesibili ngathola incwadi evela ekilasini.
+P5	Yiba ngcono ngokushesha Thabisile!
+P6	NgoLwesithathu ngabe sengithola incwadi evela kumngani wami omkhulu.
+P7	Ngikudwebele lesi sithombe. Ngothando ivela kuDudu.
+P8	NgoLwesine ngithole incwadi evela kumama.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+

@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=16440&d=0&a=1
+id:	16440
+title:	Themba Umtsengisi Wabhanana
+author:	Phumla Madonsela
+artist:	Zablon Alex Nguku
+lang:	siSwati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16440.png
+desc:	Indvodza leyephula umgomo wemmango ngekutfwala  bhanana wayo kutsi uyotsengiswa emakethe.
+
+page_text:
+
+P1	Themba utfwele ikhredi yemabhanana lavutsiwe.
+P2	Themba uya emakethe kuyotsengisa bhanana.
+P3	Emakethe bantfu batsenga titselo.
+P4	Kepha akekho namunye lotsenga emabhanana aThemba. Bantfu banconota kutsenga titselo kubesifazane.
+P5	Bantfu bavame kutsi: "Emimmangweni yakitsi,  besifazane bodvwa labatsengisa titselo." Bantfu bebatibuta batsi: "Yindvodza lenjani lena?"
+P6	Kepha Themba akatange akushaye mkhuba loko. Watichubekela ngekutsengisa abuye amemetele atsi: "Tsengani emabhanana ami! Tsengani emabhanana ami lanongotelako futsi lavutsiwe."
+P7	Lomunye wesifazane wafika watsi cuku sikhehle sabhana ekhredini yaThemba. Wasibukisisa ngekucophelela sikhehle sabhanana.
+P8	Lowesifazane wakutfokotela kusitsenga lesikhehle semabhanana aThemba.
+P9	Ngemva kwaloko bantfu labanyenti beta kutotsenga emabhanana kuThemba. Bebatsenga emabhanana aThemba babuye bawadle.
+P10	Ngesikhashana lesincane ikhredi beseyingenalutfo. Themba wabala imali lekayizuzile ngalelolanga.
+P11	Wasuka lapho waya kuyotsenga insipho,  shukela kanye nesinkhwa. Watifaka tonkhe tintfo takhe ekhredini.
+P12	Themba wayihlalisisa kahle ikhredi yakhe layetfwele enhloko,  wachubeka wahamba waya ekhaya.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+English (Original)	Tom the Banana Seller	id=13627
+French (Translation)	Tom, Le Vendeur De Bananes	id=14530
+isiXhosa (Translation)	Utom, Umthengisi Webhanana	id=15024
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216

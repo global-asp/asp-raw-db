@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=7229&d=0&a=1
+id:	7229
+title:	Kí Sị́ Yã?
+author:	Delu Barnabas
+artist:	Sandra McDougall
+lang:	Aringati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7229.png
+desc:	Count how many insects
+
+page_text:
+
+P1	Ĩndẽrẽpẽpẽ ị̃rị̃ ꞌbã pá kí pírí sị́ yã?
+P2	Ãriŋa sụ ꞌbã ụ́pụ́pị́ kí adru pírí sị́ yã?
+P3	Ụ́bị́rá na ꞌbã pá kí adru pírí sị́ yã?
+P4	Ĩwá tõwú ꞌbã drị́ kí adru pírí sị́ yã?
+P5	Ũcogo ázị̂rị̃ ꞌbã bị́lẹ́ kí adru pírí sị́ yã?
+P6	Úyáŋá na ꞌbã kótẽ kí adru pírí sị́ yã?
+P7	Búrãŋá ázíyá ꞌbã mịfị́ kí adru pírí sị́ yã?
+P8	Gụ̃lẹ́lẹ́gụ ãlu ꞌbã pá kí adru pírí sị́ yã?
+
+images:
+
+illustrations/pages/1786.png
+illustrations/pages/1600.png
+illustrations/pages/1599.png
+illustrations/pages/1601.png
+illustrations/pages/1602.png
+illustrations/pages/1603.png
+illustrations/pages/1604.png
+illustrations/pages/1605.png
+illustrations/pages/1606.png
+
+translations:
+
+Amharic (Translation)	ስንት?	id=13123
+Ateso (Translation)	Imwasi Ayi?	id=2870
+Dhopadhola (Translation)	Adi?	id=19488
+English (Original)	How Many?	id=1787
+Kikamba (Translation)	Syianaata?	id=2871
+Kiswahili (Translation)	Ni Ngapi?	id=9529
+Luganda (Translation)	Bimeka?	id=2872
+Lugbarati (Translation)	Yii Siya	id=12640
+Lumasaaba (Translation)	Biba Byeenga?	id=2873
+Lusoga (Translation)	Ameka?	id=2874
+Sabinyi (Translation)	Ata?	id=2875
+Setswana (Translation)	Tse Kae?	id=2876

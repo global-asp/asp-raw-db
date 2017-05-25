@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=14129&d=0&a=1
+id:	14129
+title:	Phefo
+author:	Lorato Trok
+artist:	Marion Drew
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14129.png
+desc:	Kgang-khutswe ya maatla a phefo.
+
+page_text:
+
+P1	Phefo e feta ka lebelo. E feta ka lebelo le legolo mo pele ga lelapa la rona.
+P2	Phefo e maatla. E gagolaka khaete ya me mo matsogong a me.
+P3	Di taboga mo morago ga khaete ya me. Phefo e ntatlhela kgakala mme e nkgaoganya le khaete ya me!
+P4	Phefo e fetoga go nna matlakadibe. E tsholeletsa khaete ya me kwa godimo thata.
+P5	Phefo ya matlakadibe e ya nkometsa! Ga ke kgone go bona sepe. Ga ke kgone go tshwara sepe.
+P6	Jaanong khaete ya me e kae? Ka gongwe e tshwerwe ke setlhare.
+P7	Ka gongwe khaete ya me e sa le mo lefaufaung.
+P8	Ka lesego phefo e emisa go fofa. Ke sa le mo sediding.
+P9	Fa sedidi se fela ke lebelela dintlha tsotlhe. Phefo e ile kae?
+P10	Ga ke bone khaete ya me gope. Ga ke tlhole ke utlwa phefo.
+P11	Gongwe nka bona khaete ya me kamoso. Jaanong ke tshwanetse ke ye gae pele ga phefo e simolola gape.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+
+translations:
+
+English (Translation)	Wind	id=14119
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Sesotho (S.Africa) (Translation)	Moya	id=14478
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

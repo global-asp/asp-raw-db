@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=19479&d=0&a=1
+id:	19479
+title:	Gwok Gi Ngona
+author:	Owino Ogot and Athieno Gertrude
+artist:	Rob Owen
+lang:	Dhopadhola
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19479.png
+desc:	Kigana mako kwoŋ Gwok ma oboth abotha ri twodo to gi ma okonyo go akwayo cwak piyo piyo.
+
+page_text:
+
+P1	Indir acel Gwok ocombo i tongi gi moro m'oyikere i kwoyo dhu malawa. Openjere ni,  "Ogwaŋ mene m'oweyo tonge ka?"
+P2	Okwano tonge,  onwaŋo apar to paro ni nyalo bedo apa Mbata. To ketho i mugowa pere.
+P3	Odok gi tonge no peco pere to ketho ka malyeth.
+P4	Gwok oromo gi Ngona munyo ogik kendo i malawa. Ngona openjo go ni,  "I neno raye tongan?" Gwok odwoko ni,  ''Ongoye gima aŋeyo kwoŋ tongin.
+P5	Gi kenyo Ngona okidho pa ogwange je penjo tonge.
+P6	Kareno tonge oyido ocako toŋo acele acele.
+P7	Gwok otemo swa kuro nyithindhi Ngona,  to cemo ku romo jo. Oyido kec neko nyithindhi Ngona kis hongo.
+P8	Ndir acel Ngona okidho pa Gwok rango tonge. Munyo ocungo woko,  owinjo iy nyithindhi Ngona mor!
+P9	Ngona omwomere i ot to cwado Gwok gi yiwe. Gwok ogwe to por woko gi dirisa.
+P10	Ngona to ryemo aryema Gwok kir i malawa.
+P11	Gwok oywakere ni,  "Cwakan,  oyido akuya ni meno tongin!"
+P12	Ngona owinjo ywakirok pa Gwok to cwako go. Okwanyo nyithindhe to tero fonjo jo buko pi.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+isiXhosa (Translation)	Unja No Xam	id=17573
+Kiswahili (Translation)	Mbwa Na Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa Na Mamba	id=18327

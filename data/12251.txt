@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=12251&d=0&a=1
+id:	12251
+title:	Sabbata Waaqaa
+author:	Dinqisisa Temesgen and Mulualem Daba
+artist:	Wiehan de Jager and Catherine Groenewald
+lang:	Afaan Oromo
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12251.png
+desc:	Sabbanni waaqayyoo halluu adda addaa qaba.
+
+page_text:
+
+P1	Sabbanni waaqayyoo Halluu hedduu qaba.
+P2	Halluuwwan kunis waliin mula'atu.
+P3	Halluun Kelloon ni argama.
+P4	Halluun cuquliisa ni argama.
+P5	Halluun diimaa ni argama.
+P6	Halluuwwan kun baayee ni bareedu.
+
+images:
+
+illustrations/pages/6767.png
+illustrations/pages/6787.png
+illustrations/pages/6339.png
+illustrations/pages/6338.png
+illustrations/pages/6342.png
+illustrations/pages/6341.png
+illustrations/pages/6335.png
+
+translations:
+
+English (Original)	The Rainbow	id=7411

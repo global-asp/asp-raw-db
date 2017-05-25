@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=7771&d=0&a=1
+id:	7771
+title:	Podi, Ntšwa Le Kgomo
+author:	Lorato Trok
+artist:	Marleen Visser
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7771.png
+desc:	Podi
+
+page_text:
+
+P1	Podi,  Ntšwa le Kgomo e ne e ne ditsala tse dikgolo. Ka letsatsi lengwe ba ne ba tsaya loeto ka tekisi.
+P2	Erile fa ba goroga mokgweetsi wa tekesi a kopa gore ba duele. Kgomo o ile a duela.
+P3	Ntšwa ena o ile a duela go feta,  ka gonne a ne a sena madi a a lekaneng.
+P4	Fa mokgweetsi a re o fa Ntšwa madi a mannye a gagwe,  Podi ena o ne a tshaba ntle le go duela.
+P5	Mokgweetsi ka go tenega o ne a tsamaya ntle le go busetsa Ntšwa madi a gagwe.
+P6	Ke ntlha eo le gompieno,  Ntšwa ka metlha o tabogela koloi. O be a ya go lebelela gore a a ka se bone mokgweetsi o a mo kolotang.
+P7	Podi ena ka gale o tshaba modumo wa koloi. O tshaba gore o tla tshwarwa ka a sa duela madi a tekesi.
+P8	Kgomo ena ga a tlhomphe dikoloi. O tsaya nako ya gagwe go feta mo tseleleng ka gonne a itse gore o duetse tekesi.
+
+images:
+
+illustrations/pages/6372.png
+illustrations/pages/6371.png
+illustrations/pages/6373.png
+illustrations/pages/6374.png
+illustrations/pages/6375.png
+illustrations/pages/6376.png
+illustrations/pages/6377.png
+illustrations/pages/6378.png
+illustrations/pages/6379.png
+
+translations:
+
+Afrikaans (Translation)	Bok, Hond en Koei	id=11138
+Dhopadhola (Translation)	Dyel, Gwok Kodi Dhyaŋ	id=16481
+English (Translation)	Goat, Dog and Cow	id=6380
+English (Adaptation)	Goat, Dog, and Cow With Tv	id=13529
+French (Translation)	La Chèvre, Le Chien Et La Vache	id=10839
+isiNdebele (Translation)	Imbuzi, Inja Nekomo	id=7670
+isiZulu (Translation)	Imbuzi, Inja Nenkomo	id=7491
+Kikamba (Translation)	Mbui, Ngiti Na Ng'ombe	id=9686
+Kiswahili (Translation)	Mbuzi, Mbwa Na Ng’Ombe	id=7868
+Luganda (Translation)	Wambuzi, Wambwa Ne Wante	id=7787
+Lumasaaba (Original)	Imbusi, Imbwa Ni Ngaafu	id=6730
+Lunyole (Translation)	Embusi, Embwa N’Eŋombe	id=8397
+Maa (Translation)	Enkíné, Oldía Ó Enkíténg	id=7867
+Ng’aturkana (Translation)	Akine, Ing'ok Ka Aite	id=7014
+Oluwanga (Translation)	Imbusi, Imbwa Nende Ing’Ombe	id=8279
+Portuguese (Translation)	A Cabra, O Cachorro E a Vaca	id=16419
+Rutooro (Translation)	Embuzi, Embwa, N’Ente	id=14925
+Sesotho (Lesotho) (Adaptation)	Pooli, Ntja, Le Khomo Le Tv	id=13553

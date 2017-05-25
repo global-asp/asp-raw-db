@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=13090&d=0&a=1
+id:	13090
+title:	Moutiwanyane O Ya Tsamaya Boithabisong
+author:	Motheba Mosothoane
+artist:	Hélder de Paz Alexandre
+lang:	Sesotho (Lesotho)
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13090.png
+desc:	This story is about what happens when you go to a party and get drunk. Or is it?
+
+page_text:
+
+P1	Ka nako engwe,  diphoofolo di ne di rera ho ba le boithabiso. Empa ene ese tsohle tse yang. E ne ele diphoofolo tse nang le manaka fela.
+P2	Moutlwanyane o ne itokiseditse ho ya boithabisong. Empa leha ho le jwalo wa fumana hore ha e se wa tsohle. E ne e le wa tse nang le manaka fela.
+P3	Moutlwanyane wa ya kae-kae,  wa fumana manaka. Ya a beha ho dima hloho ya ona,  ya ya boithabisong.
+P4	Boithabisong moutlwanyane wa ja,  wa nwa,  le ho jaefa.
+P5	Tsena tsa etsa hore o kgathale,  wa qetella o robetse letsatsing.
+P6	Ka nako yeo o robetseng diphoolo tse nang le manaka di ele tsa hlokomela hore ha ese phoofolo yeo di neng di e woka. Ya ba di hula ditsebe tsa ona hore di be kgolo.
+P7	Ya ba owa baleha. Ke kahona moutlwanyane o nang le ditsebe tse kgolo!
+
+images:
+
+illustrations/pages/10187.png
+illustrations/pages/10186.png
+illustrations/pages/10185.png
+illustrations/pages/10187.png
+illustrations/pages/10188.png
+illustrations/pages/10189.png
+illustrations/pages/10190.png
+illustrations/pages/10191.png
+
+translations:
+
+English (Original)	Rabbit Goes to a Party	id=10110
+English (Adaptation)	Rabbit Goes to a Party - Colouring Book	id=17433
+isiXhosa (Translation)	Umvundla Uya Ethekweni	id=13089
+Portuguese (Translation)	O Coelho Vai a Festa	id=10243
+Xitswa (Translation)	N'wa Vundlani Aya a Mubuzweni	id=10244

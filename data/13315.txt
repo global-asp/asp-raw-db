@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=13315&d=0&a=1
+id:	13315
+title:	Wenda Langi Hi?
+author:	Rose Alungho
+artist:	Sue Kramer, Rijuta Ghate, Sandy Lightly, Catherine Groenewald, Wiehan de Jager and Amir Bachir António Necas
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13315.png
+desc:	Enghambagana hu ma langi.
+
+page_text:
+
+P1	Dinah likes a purple dress. Dinah genda ehiteteyi ehya papo.
+P2	My aunt likes an orange dress. Dad bought it for her. Senge genda ehiteteyi ehye kapapaali. Bbabba nja ga muguliye.
+P3	Jjajja likes a blue dress. Nguhwa genda ehiteteyi ehya bbululu.
+P4	Dan likes a red van. Dani genda emotoka enando.
+P5	The baby likes a yellow chair. Omwana genda etebe eya namagi.
+P6	Customers like red tomatoes. Abagusi benda enyaanya enyululuhi.
+P7	School children like to wear blue tops for games. Abaana basomi benda ebbulawuzi eja bbululu ohuguduliramo.
+P8	My sister likes a yellow blouse. Muganda yange genda a ebbulawuzi eya namagi.
+P9	Jane likes a pink dress. Jane genda ehiteteyi ehya pinki.
+P10	My neighbour likes a yellow cottage. Mulirwana yange genda amago aga namagi.
+P11	Insects like green places. Ebibuka byenda ebifo ebya kilagala.
+P12	My friend and I like green apples. Ese ni meri yange hwenda bugali weene emiyembe emibisi.
+
+images:
+
+illustrations/pages/9193.png
+illustrations/pages/5932.png
+illustrations/pages/5937.png
+illustrations/pages/6780.png
+illustrations/pages/6035.png
+illustrations/pages/934.png
+illustrations/pages/6785.png
+illustrations/pages/9192.png
+illustrations/pages/2296.png
+illustrations/pages/1897.png
+illustrations/pages/6260.png
+illustrations/pages/8200.png
+illustrations/pages/6663.png
+
+translations:
+
+English (Original)	What Colors Do You Like?	id=9266

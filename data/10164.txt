@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=10164&d=0&a=1
+id:	10164
+title:	My First  Trip to  Kampala
+author:	Herbert  Haumba and Rose Alungho
+artist:	Catherine Groenewald and Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10164.png
+desc:	A child who went on a trip to kampala exploring different things in the environment.
+
+page_text:
+
+P1	A walk in kampala,  what do you see? Shops selling clothes,  in very congested streets.
+P2	A shower in Nakivuubo,  what do you see? Owino market,  taxi park,  play ground,  petrol station,  mukwano arcade.
+P3	A drive in kampala,  what do you see? Very tall buildings,  very many cars of different types.
+P4	Languages in kampala,  what do you hear? Luganda, Swahili,  English and Lunyankole,  all are being spoken.
+P5	A breakfast in Kampala,  what do you see? Menvu, black tea, milk tea and Bushera.
+P6	A trip to kampala,  do you wish to go back?
+
+images:
+
+illustrations/pages/9466.png
+illustrations/pages/9470.png
+illustrations/pages/8630.png
+illustrations/pages/9477.png
+illustrations/pages/10048.png
+illustrations/pages/9844.png
+illustrations/pages/10085.png
+
+translations:
+
+English (Original)	A Trip to Zanzibar	id=7263

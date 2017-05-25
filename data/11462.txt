@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=11462&d=0&a=1
+id:	11462
+title:	Ingozi Yokulahla Umama
+author:	Apiwe Magadla
+artist:	Zablon Alex Nguku
+lang:	isiXhosa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11462.png
+desc:	Ibali elinzulu ngosapho lwase Turkana
+
+page_text:
+
+P1	Kwakukho indoda eyayigama lingu Lodipo. Wayehlala kunye no mama wakhe,  nabafazi bakhe ababini,  u-Akai no Akitela.
+P2	Unkosikazi kaLodipo wokuqala,  u-Akai,  yayinguye kuphela owayencedisa umama kaLodipo owayengasaboni.
+P3	Mini ithile,  u-Akitela,  inkosikazi encinci kaLodipo,  wacebisa umyeni wakhe esithi,  "Masihambe siyokuhlala kwenye indawo."  Wayeziva engasakhuselekanga,  kuba apho babehlala khona,  babehlaselwa ngabaphangi beenkomo.
+P4	ULodipo waxelela u-Akitela ukuba umama wakhe wayengafuni ukushiya ikhaya lakhe. Kodwa u-Akitela wanyanzela ukuba bahambe,  bamshiye umama kaLodipo. "Ukuba asihambi apha,  ndizakubuyela ekhaya kubazali bam," wakhala u-Akitela.
+P5	ULodipo wayemthanda kakhulu u-Akitela. Ngoko ke,  wavuma ukushiya umama wakhe. Baqalisa ukulungiselela uhambo. U-Akai,  umfazi wokuqala,  wayengonwabanga nakancinci sesisehlo.
+P6	Umama ka Lodipo wayezihlalele phantsi komthi engazi nokuba kwenzekani. "Singamshiya kanjani eyedwa?" Wazibuza u-Akai,  ekhathazeke kakhulu.
+P7	ULodipo wathatha inkamela,  walayisha zonke iimpahla zabo. Wakuqgiba,  wahamba kunye nabafazi bakhe bobabini. Bamshiya ke umama wakhe,  bengatshongo nokuba bayahamba. Walila u-Akai,  ezele lusizi ngokushiya uninazala wakhe eyedwa.
+P8	Emva kokuba uLodipo ehambile nabafazi bakhe,  kuye kwafika abaphangi beenkomo,  bahlasela ekuhlaleni.
+P9	Babuza kumama kaLodipo ukuba uphi unyana wakhe. Babemkhangela,  befuna ukumbulala. Wabacenga esithi,  "Nincede ningambulali u-Akai."
+P10	Umama kaLodipo wacela abaphangi ukuba babuye nenkunzi yakhe yegusha,  uLodipo awayehambe nayo.
+P11	Baye bahamba ke aba bahlaseli,  beyokukhangela uLodipo. Bathe bakumfumana,  bambulala kunye nomfazi wakhe omncinci u-Akitela.
+P12	Uye wabuya ke u-Akai,  kunye nenkuzi yegusha kamama kaLodipo. Bahlala kunye ngolonwabo ekhayeni labo.
+
+images:
+
+illustrations/pages/6931.png
+illustrations/pages/6927.png
+illustrations/pages/6928.png
+illustrations/pages/6929.png
+illustrations/pages/6930.png
+illustrations/pages/6934.png
+illustrations/pages/6931.png
+illustrations/pages/6932.png
+illustrations/pages/6933.png
+illustrations/pages/6935.png
+illustrations/pages/6936.png
+illustrations/pages/6937.png
+illustrations/pages/6938.png
+
+translations:
+
+Afrikaans (Translation)	Die Gevaar Van Verwerping	id=11249
+English (Original)	Danger of Abandoning a Mother	id=7549
+Kiswahili (Translation)	Lodipo Amtoroka Mama	id=15937
+Ng’aturkana (Translation)	Erono Akijal Itokon	id=13313
+Sepedi (Translation)	Danger of Abandoning a Mother	id=11468

@@ -1,0 +1,31 @@
+url:	http://africanstorybook.org/reader.php?id=7671&d=0&a=1
+id:	7671
+title:	Okunoonya Amazzi
+author:	Augustine Napagi
+artist:	Hélder de Paz Alexandre
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7671.png
+desc:	Ekikere nga kinoonya amazzi.
+
+page_text:
+
+P1	Wa wensobola okufuna amazzi?
+P2	Mu nsuwa mulimu amazzi.
+P3	Gookya nnyo.
+P4	Amazzi gano gasobola okunyogoga?
+
+images:
+
+illustrations/pages/7821.png
+illustrations/pages/7819.png
+illustrations/pages/7074.png
+illustrations/pages/7076.png
+illustrations/pages/7075.png
+
+translations:
+
+Amharic (Translation)	ውኃ ፍለጋ	id=14538
+English (Original)	Looking for Water	id=7667
+Zande (Translation)	Gera Tipa Ime	id=17450

@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=15613&d=0&a=1
+id:	15613
+title:	Fisi Na Kobe
+author:	Brigid Simiyu
+artist:	Salim Kasamba
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15613.png
+desc:	Jinsi kobe alipata ganda ngumu
+
+page_text:
+
+P1	Katika kijiji cha Mkosi,  kuliishi Fisi mlafi.
+P2	Katika kijiji jirani,  kuliishi Kobe mwoga. Fisi na Kobe walikuwa marafiki.
+P3	Fisi alisikia kwamba kulikuwa na nyuki waliotengeza asali tamu. Nyuki hao walisafiri mbali na mizinga wao mara moja kwa mwaka.  "Lazima tuipate ile asali wakati nyuki wako safarini," Fisi alimwambia Kobe.
+P4	Kobe aliogopa kwenda,  lakini hakuwa na ujasiri wa kukataa. Asubuhi iliyofuata,  Fisi na Kobe walianza safari ya kuitembelea mizinga ya nyuki. Fisi alienda kwa kasi huku Kobe akijikokota nyuma kwa woga.
+P5	Walipanda milima,  wakashuka,  wakavuka mabonde. Waliuvuka mto mkubwa na kuendelea na safari.
+P6	Hatimaye,  waliona mizinga ya nyuki milimani kwenye miti. Fisi alikwenda kwa haraka. Kobe alikuwa karibu kuzirai kutokana na njaa na uchovu.
+P7	Fisi alipoufikia mzinga mkubwa zaidi,  alimwambia Kobe,  "Panda juu ya mti haraka uuangushe mzinga chini."
+P8	Kobe aling'ang'ana kupanda mti. Kila mara aliangalia chinis asije kuanguka. Fisi alikasirishwa na kitendo hicho akaanza kumpigia Kobe kelele.
+P9	Kobe alipoguza mzinga,  alisikia sauti ya nyuki. Kumbe walikuwa bado ndani ya mzinga wao! Kobe aligutuka na kuanguka chini.
+P10	Mzinga wa nyuki ulimwangukia Kobe akawa amefunikwa  na kufichwa na asali! Fisi alianza kuilamba asali. Nyuki hawakufurahia kitendo hicho.
+P11	Nyuki walimuuma Fisi kila sehemu ya mwili wake akaamua kukimbilia usalama wake. Nyuki walimfuata wakiendelea kumuuma.
+P12	Fisi aliteremka mlimani,  akavuka mto na bonde. Nyuki walizidi kumuuma wakati huo wote.
+P13	Kobe akiwa bado chini ya mzinga mkubwa,  alishuhudia kimya. Mzinga na asali ilikaukia mgongoni mwake.
+P14	Baadaye,  Kobe alitambua kuwa hakuhitaji tena kujificha kichakani.   Gamba lake jipya lingeweza kumkinga.
+P15	Fisi alikwa amechoka na kujaa vidonda. Alizirai kabla kufika nyumbani. Alipoamka,  aligundua kwamba mishale ya nyuki ilisababisha madoadoa kwenye ngozi yake.
+
+images:
+
+illustrations/pages/13398.png
+illustrations/pages/13395.png
+illustrations/pages/13397.png
+illustrations/pages/13398.png
+illustrations/pages/13400.png
+illustrations/pages/13401.png
+illustrations/pages/13403.png
+illustrations/pages/13405.png
+illustrations/pages/13406.png
+illustrations/pages/13407.png
+illustrations/pages/13408.png
+illustrations/pages/13409.png
+illustrations/pages/13410.png
+illustrations/pages/13411.png
+illustrations/pages/13412.png
+illustrations/pages/13414.png
+
+translations:
+
+English (Original)	Hyena and Tortoise	id=13548
+English (Adaptation)	Hyena and Tortoise	id=18439
+Lugwere (Translation)	Mpiti N’Ofudu	id=16711
+Portuguese (Translation)	A Hiena E a Tartaruga	id=16653

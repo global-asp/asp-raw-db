@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=8490&d=0&a=1
+id:	8490
+title:	Jaaka Omuvubi
+author:	Tom Sabwa
+artist:	Zablon Alex Nguku
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8490.png
+desc:	Omusaadha omuvubi ku Mwiga Kiyira.
+
+page_text:
+
+P1	Ono ni Jaaka omuvubi avila Namina.
+P2	Avubila ku mwiiga kiira.
+P3	Alina elyato,  akatimba,  n'eilobo.
+P4	Awuna iinho enkoko ajigema munwa,  yaja ku mwiga okugema emputa ehnenhe n'entono.
+P5	Kusaawa nga inha edhokunkyo yadhitundila mukatale akanenhe akeiindha.
+P6	Jaaka kyiki ekyibailewo? Lero bisaze? Nga munivu iinho.
+P7	"Lero embela mbi. Embela eyo kumaadhi tendhikiliza kuvuba. Neilobo emputa yajile nayo."
+P8	"Aye nninha eisubi enkyo lwidha kuba lulunji,  kuba ela nguze neilobo eiyaka."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka Die Visserman	id=11406
+English (Translation)	Jaaka the Fisherman	id=8491
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiXhosa (Translation)	Ujaaka Umlobi	id=13206
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

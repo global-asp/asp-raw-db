@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=12960&d=0&a=1
+id:	12960
+title:	የአይጢት ቤት
+author:	ዳዊት ግርማ and መዘምር ግርማ
+artist:	Amy Uzzell
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12960.png
+desc:	Mouse tries out various places until he finds a comfortable spot to sleep.
+
+page_text:
+
+P1	አይጧ አዲስ ቤት እየፈለገች ነው፡፡
+P2	ይሄ ቤት ጥሩ ይመስላል፡፡
+P3	''መጥተሽ ከእኔ ጋር መተኛት ትችያለሽ'' አላት አንድ ቡችላ፡፡ ''አመሰግናለሁ'' አለች አይጥ፡፡.
+P4	በዚያ ሌሊት አይጧ ደስ የማይል ነገር በህልሟ እየመጣ ስትረበሽ አደረች፡፡
+P5	''መጥተሽ ከእኔ ጋር መተኛት ትችያለሽ''  አለቻት በቀቀን፡፡ ''አመሰግናለሁ'' አለች አይጥ፡፡.
+P6	በዚያ ሌሊት አይጧ ጫጫታ የበዛበት እና አስፈሪ ህልም ስታይ አደረች፡፡
+P7	''መጥተሽ ከእኔ ጋር መተኛት ትችያለሽ'' አላት አሣ፡፡ ''አመሰግናለሁ'' አለች አይጥ፡፡.
+P8	በዚያ ሌሊት አይጧ ያየችው ህልም ቀዝቃዛና ርጥበታማ ነበር፡፡
+P9	አይጧ ሞቃትና ደረቅ የሆነ ቦታ ፈለገች፡፡
+P10	ከዚያም በአቅራቢያዋ የመጽሐፍ መደርደሪያ አገኘች፡፡
+P11	በዚያ ሌሊት አይጧ ሞቃትና ደስ የሚል ህልም አየች፡፡ መልካም እንቅልፍ፣ አይጢት!
+
+images:
+
+illustrations/pages/8832.png
+illustrations/pages/8834.png
+illustrations/pages/8835.png
+illustrations/pages/8836.png
+illustrations/pages/8837.png
+illustrations/pages/8846.png
+illustrations/pages/8839.png
+illustrations/pages/8840.png
+illustrations/pages/8841.png
+illustrations/pages/8842.png
+illustrations/pages/8843.png
+illustrations/pages/8844.png
+illustrations/pages/8845.png
+
+translations:
+
+English (Original)	A House for Mouse	id=9118

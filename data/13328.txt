@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=13328&d=0&a=1
+id:	13328
+title:	Ehitehere Hye Fe.
+author:	Rose Alungho
+artist:	Peris Wachuka, Vusi Malindi, Marleen Visser, Catherine Groenewald, hospital, Wiehan de Jager and police man
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13328.png
+desc:	ebitu mu hitehere hyefe
+
+page_text:
+
+P1	Huli n'esomero. We have a school.
+P2	Huli n'egangiro. We have a hospital.
+P3	Huli naaba maama. We have mothers.
+P4	Huli no musirikale. We have a police man.
+P5	Huli ne 'kanisa. We have a church.
+
+images:
+
+illustrations/pages/13107.png
+illustrations/pages/13490.png
+illustrations/pages/13329.png
+illustrations/pages/13345.png
+illustrations/pages/13500.png
+illustrations/pages/13501.png
+
+translations:
+

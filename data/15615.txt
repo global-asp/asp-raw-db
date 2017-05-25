@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=15615&d=0&a=1
+id:	15615
+title:	Siku Ambayo Jua Lilipotea
+author:	Brigid Simiyu
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15615.png
+desc:	Siku moja jua linaenda zake.  Wakati likiwa limeenda
+
+page_text:
+
+P1	Mama Jua alimtembelea dadake Mwezi.  "Nitarejea karibuni," Jua aliyaambia Mawingu.
+P2	Mama Jua alipoondoka,  Milima ilihuzunika.
+P3	Upepo uliitingiza Miti. Miti ilikasirika. Iliiangusha majani yake kila mahali.
+P4	Anga lilianza kulalamika. Lilibadilika na kuwa rangi ya kijivu.
+P5	Mawingu yalihuzunika yalipoona mambo haya yote. Yalilia machozi mengi.
+P6	Ulimwengu mzima ukaanza kuzama majini.
+P7	Wakati huo,  Mama Jua alimbusu dadake Mwezi. Alimuaga tayari kurejea.
+P8	Anga lilimfurahia Mama Jua. Lilibadilika rangi ya bluu. Milima ilitabasamu.
+P9	Upepo ulilala.  Miti ilinyoosha matawi yake na kutabasamu.
+P10	Mawingu yalifurahi tena kumwona Mama Jua. Yalienda kucheza.
+P11	Miche ilichipuka katika ardhi na kusema,  "Habari." Dunia nzima iling'ara.
+P12	Mama Jua aliangaza kila mahali.  Alitabasamu na kusema,  "Niliwaambia nitarejea."
+
+images:
+
+illustrations/pages/14611.png
+illustrations/pages/14612.png
+illustrations/pages/14598.png
+illustrations/pages/14600.png
+illustrations/pages/14602.png
+illustrations/pages/14604.png
+illustrations/pages/14605.png
+illustrations/pages/14606.png
+illustrations/pages/14607.png
+illustrations/pages/14608.png
+illustrations/pages/14609.png
+illustrations/pages/14610.png
+illustrations/pages/14611.png
+
+translations:
+
+Akuapem Twi (Translation)	Da a Owia Kɔtɔe	id=18458
+Dagaare (Translation)	A Bebiri Na Ŋmenaa Naŋ Da Ba Kyebe	id=17770
+Dagbani/Dagbanli (Translation)	Dahinshɛli Wuŋtaŋa Ni Daa Zo	id=18149
+Dangme (Translation)	Ligbi Ko Pu Ɔ Ho Ɔ	id=18339
+English (Translation)	The Day the Sun Went Away	id=14771
+Ewe (Translation)	Gbe Si Gbe Ɣe Dzo La	id=18165
+Fante (Translation)	Da a Ewia Kɔree	id=18488
+French (Translation)	Le Jour Où Le Soleil S'en Alla	id=14970
+Ga (Translation)	Gbi Ni Hulu Shi Kɛtee	id=18335
+Gonja (Translation)	Kachɛ Nɛ Epeŋi Yɔ Kade	id=18174
+Kasem (Translation)	Dɛ Delo Wia Na Viiri To	id=18233
+Kinyarwanda (Translation)	Umunsi Izuba Ryigendeye	id=17458
+Lunyole (Translation)	Oludaalo Olu Lyuba Lya Ŋoyeŋo	id=16425
+Mampruli (Translation)	Dahinseeli Wuntaŋŋa  Ŋɔn Daa Zɔa	id=19321
+Nzema (Translation)	Kenle Mɔɔ Ewia Ne Hɔle La	id=18431
+Portuguese (Translation)	O Dia Que O Sol Foi Embora	id=16411
+Yoruba (Translation)	Ọjọ́  Tí Òòrùn Rin Ìrinajò	id=16555

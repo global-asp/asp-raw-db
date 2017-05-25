@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=13781&d=0&a=1
+id:	13781
+title:	Ufudu Uthola Indlu Yakhe
+author:	Thulani Sombili and Khensani Mdaka
+artist:	Katrien Coetzer
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13781.png
+desc:	UFudu ufunana nendlu yakhe. Uzoyithola kuphi?
+
+page_text:
+
+P1	Ngelinye ilanga uFudu wayekhamba esikghweni. Bekafunisisa. Bekaqalisisa kude naphasi etjanini. Wahlangana noMneke.
+P2	Wakhwela emgogodlheni kaFudu. UFudu wakhamba athwele uMneke emgogodlheni. Bafuna bafunisisa,  kodwana belingekho itshwayo lendlu. Ilanga beliphezulu emafini.
+P3	Ngemva kwesikhatjhana bahlangana noSotjhara. "Kukhona enikufunako?" kwabuza uSotjhara. "Iye Sotjhara,  ngifunana nendlu yami. Akhange uyibone,  ngethutjana na?"
+P4	USotjhara wathi,  "Awa,  akhange,  kodwana ngizakuzisa ukuyifuna!" Wadlalisa amaphiko wakhe begodu waphapha wakhamba. "Kodwana ungigijimela khulu," kwakhononda uFudu. USotjhara wabuya. "Kulungile,  ngizakweqayeqa nami."
+P5	UFudu waragela phambili,  bano Mneke nosoTjhara bazigedle emgogodlheni. Bacala bacalisisa,  kodwana belingekho itshwayo lendlu. Ilanga bese lehlele phasi kancani emafini.
+P6	Ngemva kwesikhatjhana bahlangana noNombongwe. "Kukhona enikufunako?" kwabuza uNobongwe. "Iye,  nombhongo,  ngifunana nendlu yami,  akhange uyibone,  ngethutjana na?"
+P7	Nombongwe wathi: "Awa,  akhange,  kodwana ngikuzasiza ukuyifuna!" Weqela emgogodlheni kaFudu bakhamba,  noMneke noSotjhara no Nombongwe bahleli emgogodlheni wakhe. Bafuna bafunisisa,  kodwana belingekho itshwayo lendlu. Kwathoma ukubetha ummoya olula.
+P8	Ngemva kwesikhatjhana bahlangana neKhondlo. Belimatasatasa ngengadi yeembali. "Kukhona enikufunako?" kwabuza ikhondlo. "Iye,  Khondlo,  ngifunana nendlu yami,  akhenge uyibone,  ngethutjana na?"
+P9	Ikhondlo lathi: "Awa,  akhange kodwana ngizakusiza ukuyifuna!" leqela emgogodlheni kaFudu. "Jama,  angekhe ngatjhiya iimbali zami emva." UFudu wajama. Ikhondlo lazithabulula ladobha iimbali zalo.
+P10	Ufudu waragela phambili,  noMneke noSotjhara noNombongwe nekhondlo emgogodlheni wakhe. Bafuna bafunisisa,  kodwana belingekho itshwayo lendlu. Umoya wathanyelela amakari eenyaweni zikaFudu. UFudu wadinwa. "Nibudisi," wadosa umoya.
+P11	Umoya weza ngamandla. Isibhakabhaka sabanzima. "Oh,  iphi indlu yami?" kwabuza uFudu. Isivungungu sabhodla entabeni. Kuza izulu. "Oh,  iphi indlu kaFudu?" kwabuza uMneke noSotjhara noNombongwe neKhondlo.
+P12	Umoya wavunguza begodu wabetha. Wavuthela uMneke noSotjhara no Nombongwe neKhondlo wabasusa emgogodlheni kaFudu.
+P13	Kweza isinanja,  ko-ko-ko. UFudu wathukwa warhunyela ngemgogodlheni wakhe. Kwafuthumala begodu kwahlaleka. "Oh,  nasi indlu yami!"
+P14	"Oh,  nasi indlu yami!"
+
+images:
+
+illustrations/pages/9213.png
+illustrations/pages/9214.png
+illustrations/pages/9215.png
+illustrations/pages/9216.png
+illustrations/pages/9213.png
+illustrations/pages/9223.png
+illustrations/pages/9218.png
+illustrations/pages/9219.png
+illustrations/pages/9220.png
+illustrations/pages/9221.png
+illustrations/pages/9222.png
+illustrations/pages/9224.png
+illustrations/pages/9227.png
+illustrations/pages/9226.png
+illustrations/pages/9225.png
+
+translations:
+
+Afrikaans (Original)	Skilpad Soek Sy Huis	id=9228
+English (Translation)	Tortoise Finds His House	id=9229
+French (Translation)	Tortue Trouve Sa Maison	id=12866
+isiZulu (Translation)	Ufudu Uthola Indlu Yakhe	id=11291
+isiZulu (Translation)	Tortoise Finds His House	id=11303
+Kiswahili (Translation)	Nyumba Ya Kobe	id=12692
+Ng’aturkana (Translation)	Aanyuni Abokok Akai Keng	id=12685
+Oluwanga (Translation)	Likhutu Linyoola Inzu Yalio	id=13018
+Portuguese (Translation)	A Tartaruga Encontra a Sua Casa	id=19218

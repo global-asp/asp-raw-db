@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=17124&d=0&a=1
+id:	17124
+title:	Ilanga Nemvula
+author:	CynthiaNxele
+artist:	Wiehan de Jager, Marleen Visser, Catherine Groenewald, Melany Pietersen, Jesse Breytenbach and Genevieve Terblanche
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17124.png
+desc:	Ubani onamandla phakathi kwelanga nemvula?
+
+page_text:
+
+P1	Ngosuku olulandelayo,  Ilanga lavuka ekuseni kakhulu. Abantu bageza zonke izingubo zabo. Izingubo zashesha ukoma. "Uyabona,  yimi onamandla," kusho Ilanga.
+P2	  Ngosuku olulandelayo,  Imvula yavuka ekuseni kakhulu. Yayithela usuku lonke. Abantu bagcwalisa amabhakede namathangi.  "Uyabona,  yimina onamandla," kusho Imvula.
+P3	NgoMasingana noNhlolanja,  Ilanga lavuka ekuseni kakhulu,  zonke izinsuku lalibalele. Zonke izitshalo zoma.  Abantu bomile. Izilwane zingenamanzi.
+P4	Kwakushisa yonke indawo.  Abantu bafuna imifula ukubhukuda.
+P5	NgoMbasa imvula yaqala ukuna.  Yana ekuseni. Yana ntambama. Yana kusihlwa nasebusuku.
+P6	 Yonke into yayimanzi. Bese,  kwaqala ukubanda. Abantu bagqoka amajazi nezingubo. Kwakunodaka yonke indawo.
+P7	Abalimi bajabula. Balima kakhulu. Babethembe ukuthi isilimo siyomila uma imvula seyimile.
+P8	Emva kwesikhathi,  abantu basebekhathele yiMvula. Izilwane zafuna izindawo ezomile eziphephile.
+P9	 Ekugcineni,  Ilanga laphuma kodwa lingashisi ngokwanele. Izulu labanda.
+P10	Kwakungekho muntu othokozela lesimo sezulu.
+P11	Abantu bazibuza ngeLanga neMvula.  Babefuna ukwazi ukuthi ngubani onamandla. Wena? Ucabangani? Ucabanga ukuthi ngubani onamandla? YiLanga noma yiMvula.
+
+images:
+
+illustrations/pages/2166.png
+illustrations/pages/9424.png
+illustrations/pages/7961.png
+illustrations/pages/2162.png
+illustrations/pages/8609.png
+illustrations/pages/7963.png
+illustrations/pages/17084.png
+illustrations/pages/10291.png
+illustrations/pages/14798.png
+illustrations/pages/14799.png
+illustrations/pages/10274.png
+illustrations/pages/10976.png
+
+translations:
+
+English (Translation)	Sun and Rain	id=16995
+English (Adaptation)	Sun and Rain	id=17083
+Luganda (Original)	Wankuba Ne Wamusana	id=12911

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=14122&d=0&a=1
+id:	14122
+title:	Upalesa Uthanda Izityalo
+author:	Kholeka Mabeta
+artist:	Jesse Pietersen
+lang:	isiXhosa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14122.png
+desc:	UPalesa yintombazana encinane ethetha nezityalo ezahlukeneyo.
+
+page_text:
+
+P1	Lo nguPalesa. Uneminyaka esixhenxe ubudala. Igama lakhe lithetha ukuthi 'intyatyambo' kulwimi lwakhe iSetswana.
+P2	UPalesa uyavuka athethe nomthi weeorenji. "Nceda mthi weeorenji,  khula ube mkhulu usinike amaorenji amaninzi avuthiweyo."
+P3	UPalesa uhamba ngeenyawo ukuya esikolweni. Endleleni uthetha nengca. "Nceda ngca,  yiba luhlaza kakhulu ungomi."
+P4	UPalesa udlula kwiintyatyambo zasendle. "Ncedani zintyatyambo,  qhamani ukuze ndihombise ngani iinwele zam."
+P5	Esikolweni uPalesa uthetha nomthi osembindini wesakhiwo. "Nceda mthi,  khupha amasebe amakhulu ukwenzela sifundele phantsi komthunzi."
+P6	UPalesa uthetha nemithi yokubiyela ejikeleze isikolo sakhe. "Nceda ukhule womelele,  unqande abantu abakhohlakeleyo bangangeni."
+P7	Xa uPalesa ebuyela ekhaya esuka esikolweni,  undwendwela umthi weeorenji. "Ingaba awakavuthwa amaorenji wakho?" uyabuza uPalesa.
+P8	"Amaorenji aseluhlaza," wanesingqala uPalesa. "Ndiyakukubona ngomso mthi weeorenji," watsho uPalesa. "Mhlawumbi uyakube sele unalo iorenji elivuthiweyo lam."
+
+images:
+
+illustrations/pages/13389.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa.	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

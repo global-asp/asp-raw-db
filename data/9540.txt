@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=9540&d=0&a=1
+id:	9540
+title:	Akinyangang'a Ka Echom
+author:	Jackline Ikaale
+artist:	Jeremiah Dube
+lang:	Ng’aturkana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9540.png
+desc:	Things are fine for good friends Crocodile and Baboon
+
+page_text:
+
+P1	Echom ka Akinyang arai ng'ipalon luaminin. Abolianasi apei. Emujenet apei. Asubenetet ibore daang apei.
+P2	Akwar apei abu Akinyang todekakin tonyou akitu. Nanyunia atamar epot ekedeke,  abu tolot nia Nyabezi loa abala ng'esia,  "Kisaki iyong ajokerea,  echamakina iyong inyami akiring ae chom."
+P3	Na eiraria ng'una abu Akinyang tong'o. Nakaneni amam nga'che naepedorete akitojok ngesi pe arai akinyam lopaekeng echom.
+P4	Na alosio Echom anyun lopaekeng,  Abu Akinyang tanapa ng'esi nichul ang'olol.
+P5	Abu Akinyang tama,  "Kalimoki ng'esi Nyabezi atamar,  kisaki ajoker tonyam lopaekon."
+P6	Abu Echom tama,  Emam ekone. Nyikinyam ayong. Adit ayong. Kidarou wadio katanyarak apaakang. Epolot ngesi akidwang ayong. Tonyam ng'esi kimwon.
+P7	Nakaneni abu Akinyang tama,  "Nyali tokona apaakon?" Abu Echom tolim,  Eyei ngesi lokitoi loeyei lokwas ang'olol. "Tolimok Akinyang ng'esi tama, Kape yau ngesi atanyam."
+P8	Topor Echom alokaku akinyang tamatar todoka kidiama lokitoe. Abu Akinyang kidar na tong'opia ng'esi jik. Nakaneni tosal epalonu kech kanen.
+
+images:
+
+illustrations/pages/6979.png
+illustrations/pages/6974.png
+illustrations/pages/6976.png
+illustrations/pages/6977.png
+illustrations/pages/6978.png
+illustrations/pages/6979.png
+illustrations/pages/6980.png
+illustrations/pages/6981.png
+illustrations/pages/6982.png
+
+translations:
+
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11238
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11293
+Chinyungwe (Original)	Uxamwali Bwa Kolo Na Nyakhoko	id=7228
+English (Translation)	Crocodile and Baboon	id=7357
+French (Translation)	Le Crocodile Et Le Babouin	id=12656
+Lámnsoʼ (Translation)	Ŋgày Wùn Mbùy	id=16446
+Portuguese (Translation)	O Crocodilo E O Babuíno	id=16409

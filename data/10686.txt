@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=10686&d=0&a=1
+id:	10686
+title:	Raconte-Moi … Maintenant ! Heureux Et Triste
+author:	Nadine Verdier and Translators without Borders
+artist:	Rijuta Ghate
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10686.png
+desc:	Des phrases qui explorent les sentiments et ce qui bouleverse les gens
+
+page_text:
+
+P1	Pourquoi le bébé pleure-t-il?
+P2	Je pense qu'elle a faim.
+P3	Pourquoi le garçon est-il triste?
+P4	Je pense que son père lui manque.
+P5	Pourquoi la fille est-elle heureuse?
+P6	Elle a une nouvelle robe.
+P7	Pourquoi le vieil homme rit-il?
+P8	Il a lu une bonne blague.
+P9	Pourquoi la dame sourit-elle?
+P10	Ses enfants lisent tranquillement.
+P11	Que ressent cette dame?
+P12	Je pense qu'elle est timide.
+
+images:
+
+illustrations/pages/1891.png
+illustrations/pages/1892.png
+illustrations/pages/1893.png
+illustrations/pages/1894.png
+illustrations/pages/1895.png
+illustrations/pages/1896.png
+illustrations/pages/1897.png
+illustrations/pages/1898.png
+illustrations/pages/1899.png
+illustrations/pages/1900.png
+illustrations/pages/1901.png
+illustrations/pages/1902.png
+illustrations/pages/1903.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...! Hartseer en Gelukkig	id=11478
+Amharic (Translation)	ደስ ያላችሁና የከፋችሁ አሁኑኑ … ንገሩኝ!	id=13126
+English (Original)	Happy and Sad	id=1904
+English (Adaptation)	Happy and Sad	id=16086
+isiNdebele (Translation)	Tjela Mina … Nje! Ithabo Kanye Nokudana	id=13056
+isiXhosa (Translation)	Ndixelele ... Ngoku! Wonwabile Kwaye Uqumbile	id=2825
+isiZulu (Translation)	Ukujabula Nokuphatheka Kabi	id=2822
+Kikamba (Translation)	Ndavye Oyu ... Utanu Na Kimako	id=2497
+Kiswahili (Translation)	Furaha Na Huzuni	id=2823
+Kiswahili (Adaptation)	Furaha Na Huzuni	id=16199
+Maa (Translation)	Tólikíoki Tenákatá ... Enchipái Ó Enkisinánuo	id=2826
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona! Elakara Nabo Kiyalolong’I	id=2827
+Ng’aturkana (Adaptation)	Elakara Nabo Kiyalolong'l	id=16202
+Oluwanga (Translation)	Mbolera Bulano...obusangafu Nende Eshibeera!	id=2496
+Portuguese (Translation)	Feliz E Triste	id=18887
+Rutooro (Translation)	Ngamgira...hati! Kusemererwa No Kubihirwa	id=14920
+Sepedi (Translation)	Mpotše … Gona Bjale! Lethabo Le Manyami	id=2824
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Thabo Le Hokoata	id=11551

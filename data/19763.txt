@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=19763&d=0&a=1
+id:	19763
+title:	How Tortoise Got a Crooked Nose
+author:	Judith Baker and African Storybook
+artist:	Marlene Visser 
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19763.png
+desc:	Don’t be too quick to enter a fight! (Also available at Level 3.).
+
+page_text:
+
+P1	Tortoise and Squirrel need money.
+P2	They make plates to sell at the market.
+P3	Tortoise sees a fight at the market.
+P4	Squirrel and Mole are fighting.
+P5	"Leave my friend alone!" shouts Tortoise.
+P6	Mole bites Tortoise on the nose.
+P7	His broken nose hurts.
+P8	Tortoise has a crooked nose because he rushed to fight.
+
+images:
+
+illustrations/pages/13136.png
+illustrations/pages/13129.png
+illustrations/pages/13130.png
+illustrations/pages/13131.png
+illustrations/pages/13132.png
+illustrations/pages/13133.png
+illustrations/pages/13134.png
+illustrations/pages/13135.png
+illustrations/pages/13136.png
+
+translations:
+
+English (Translation)	How Tortoise’S Nose Became Crooked	id=13137
+French (Translation)	Le Nez Crochu De Tortue	id=13769
+Portuguese (Translation)	Foi Assim Que O Nariz Da Tartaruga Ficou Torto	id=16560
+Yoruba (Original)	Bí Imú Ìjàpá Ṣe Rí Kọ́ńbó	id=13128

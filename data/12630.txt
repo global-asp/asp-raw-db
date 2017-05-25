@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=12630&d=0&a=1
+id:	12630
+title:	Pøøl
+author:	Odhieng Akway Oman and Omot Oman Obono
+artist:	Microsoft Clip Art
+lang:	Anywak
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12630.png
+desc:	What clouds bring to the environment.
+
+page_text:
+
+P1	Pøøl kännö ki køth. Amëër ki pøøl.
+P2	Pøøl kännö ki pieø. Amëër ki pøøl.
+P3	Pøøl cäng gëëngë gëëngö. Amëër ki pøøl.
+P4	Pøøl ceer gëëngë gëëngö. Amëër ki pøøl.
+
+images:
+
+illustrations/pages/2115.png
+illustrations/pages/2116.png
+illustrations/pages/2117.png
+illustrations/pages/2118.png
+illustrations/pages/2119.png
+
+translations:
+
+English (Original)	Clouds	id=2122
+English (Adaptation)	Weather	id=10261
+Luganda (Translation)	Ebire	id=6270
+Ng’aturkana (Translation)	Ng'idowon	id=7036
+Setswana (Translation)	Maru	id=7892
+Somali (Translation)	Daruuraha	id=16759

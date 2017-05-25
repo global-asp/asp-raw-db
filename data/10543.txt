@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=10543&d=0&a=1
+id:	10543
+title:	Engoho N’Ekongoja
+author:	Nathan Higenyi
+artist:	Rob Owen
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10543.png
+desc:	Engoho yadulinga Ekongoja.
+
+page_text:
+
+P1	Lulala Ekongoja yagaana Engoho mu musaala ne ŋuumula neŋwa hu duuka niyemereye hu hugulu hulala.
+P2	Ekongoja yabuusa Engoho yiti,  "Meeri yange ohugulu ohundi huli ŋeena?"
+P3	Engoho yaloma Ekongoja yiti,  "Ow'eduuka gatemireho ko gaapa ebiitu bino."
+P4	Ekongoja yabuusa Engoho yiiti,  "Keesi singa tiina eri ow'eduuka gatemaho gaapa ebiitu?" Engoho yehirisa.
+P5	Ekongoja yatiina hu duuka yegayirira ow'eduuka ayitemeho ohugulu hulala ayiŋe ebiitu. Owe'duuka gehirisa.
+P6	Ekongoja yakekeja n'ebiitu byayo paka engo.
+P7	Enkongoja ni yoola yagaana Engoho n'amagulu gaaya gombi.
+P8	Ekongoja yanyiiga yatandiha ohubbinga Engoho. Nohwosa haati,  seyiŋambanga.
+
+images:
+
+illustrations/pages/9588.png
+illustrations/pages/9587.png
+illustrations/pages/9588.png
+illustrations/pages/9589.png
+illustrations/pages/9590.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/9593.png
+illustrations/pages/9594.png
+
+translations:
+
+Afrikaans (Translation)	Hen Kul Vir Arend	id=16344
+ChiTonga (Translation)	Nkuku  Yamucenga  Sikwaze	id=18646
+CiNyanja (Translation)	Nkuku Yamupita Kunzelu Nkwazi	id=18664
+English (Translation)	Hen Tricks Eagle	id=10544
+IciBemba (Translation)	Inkoko Yacenjesha Kapumpe	id=18683
+isiXhosa (Translation)	Usikhukukazi Uqhatha Ukhozi	id=17526
+isiZulu (Translation)	Usikhukhukazi Uqiliga Ukhozi	id=16359
+isiZulu (Translation)	Uskhukhukazi Ukhohlisa Ukhozi	id=16547
+Sepedi (Translation)	Kgogo E Hlalefetša Ntšhu	id=18169
+Sesotho (South Africa) (Translation)	Kgoho O Jalletsa Ntsu	id=20029
+Setswana (Translation)	Koko O Tsietsa Phakalane	id=16595
+Setswana (Translation)	Koko O Tsietsa Lenong	id=16718
+Setswana (Translation)	Koko O Tsietsa Lenong	id=17647
+SiLozi (Translation)	Kuhu Ipuma Mbande	id=18719
+Tshivenda (Translation)	Khuhu I Fhura Goni	id=18301
+Xitsonga (Translation)	Huku Yi Xenga Koti	id=18877

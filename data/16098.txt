@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=16098&d=0&a=1
+id:	16098
+title:	O Frango E O Gongolo
+author:	Translators without Borders and Andréa Marroquim
+artist:	Magriet Brink
+lang:	Portuguese
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16098.png
+desc:	História do Frango e do Gongolo (nível 4)
+
+page_text:
+
+P1	O Frango e o Gongolo são amigos.
+P2	Estão a jogar futebol.
+P3	Frango é o guarda redes.
+P4	Gongolo marca um golo!
+P5	O Frango fica muito zangado.
+P6	E come Gongolo.
+P7	Frango encontra a Mãe Gongolo.
+P8	"Mãe,  ajude-me!"  grita Gongolo.
+P9	O Frango sente-se doente.
+P10	Gongolo tem um gosto muito ruim.
+P11	O Frango tossiu até Gongolo sair. Gongolo foge.
+P12	Frangos e Gongolos são inimigos.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+Dhopadhola (Translation)	Gweno Gi Ogongolo	id=15734
+English (Translation)	Chicken and Millipede	id=18289
+English (Translation)	Chicken and Millipede	id=18325
+IciBemba (Translation)	Inkoko Na Ciyongoli	id=18681
+isiZulu (Translation)	Unkuku Noshongololo (Level 1)	id=15102
+Kiswahili (Translation)	Kuku Na Jongoo	id=15608
+Lámnsoʼ (Translation)	Ŋgvəv Wùn Ngom – Ŋkèʼ Mbìy	id=15061
+Lugwere (Translation)	Nkoko N’Ogongolo	id=16113
+Lunyole (Translation)	Engoho Ni Waga	id=16583
+Oluwanga (Translation)	Ingokho Nende Likongolo	id=19589
+Yoruba (Translation)	Adìyẹ Àti Ọ̀ọ̀kùn	id=16553

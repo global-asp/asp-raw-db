@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=20029&d=0&a=1
+id:	20029
+title:	Kgoho O Jalletsa Ntsu
+author:	Tseliso Masolane
+artist:	Rob Owen
+lang:	Sesotho (South Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20029.png
+desc:	Kgoho o bapala maqiti a mabe ka Ntsu.
+
+page_text:
+
+P1	Kgalekgale Kgoho le Ntsu e ne e le metswalle. Ka tsatsi le leng, Ntsu a fumana Kgoho a dutse tlasa sefate a phomotse ka mekotlana ya hae ya dijo. Kgoho o ne a eme ka leoto le le leng.
+P2	Ntsu a botsa Kgoho, "Leoto le leng la hao le kae?"
+P3	Kgoho a jwetsa Ntsu, "Mongalebenkele o kgaotse leoto la ka mme a mpha mekotlana ena ya dijo."
+P4	Ntsu a botsa Kgoho hore na le yena a ka kgona ho etsa jwalo.
+Le yena o ne a batla mokotlana wa dijo. Kgoho a dumela.
+P5	Ntsu a ya ho mongalebenkele mme a mo kopa hore a kgaole le le leng la maoto a hae hore a fumane dijo. Mongalebenkele a dumela.
+P6	Ntsu a tlolatlola ka leoto le le leng le tsela yohle ho ya hae. Empa o ne a thabetse dintho tseo mongalebenkele a mo fileng tsona.
+P7	Ha Ntsu a fihla hae, a fumana Kgoho a na le maoto a hae a mabedi.
+P8	Ntsu o ne a halefile mme a lelekisa Kgoho. Empa ha a ka a mo tshwara.
+Ka hoo, Ntsu o dula a batlana le bana ba Kgoho. Ka nako tsohle ha a tshwara a le mong, o a mo ja.
+
+images:
+
+illustrations/pages/9588.png
+illustrations/pages/9587.png
+illustrations/pages/9588.png
+illustrations/pages/9589.png
+illustrations/pages/9590.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/9593.png
+illustrations/pages/9594.png
+
+translations:
+
+Afrikaans (Translation)	Hen Kul Vir Arend	id=16344
+ChiTonga (Translation)	Nkuku  Yamucenga  Sikwaze	id=18646
+CiNyanja (Translation)	Nkuku Yamupita Kunzelu Nkwazi	id=18664
+English (Translation)	Hen Tricks Eagle	id=10544
+IciBemba (Translation)	Inkoko Yacenjesha Kapumpe	id=18683
+isiXhosa (Translation)	Usikhukukazi Uqhatha Ukhozi	id=17526
+isiZulu (Translation)	Usikhukhukazi Uqiliga Ukhozi	id=16359
+isiZulu (Translation)	Uskhukhukazi Ukhohlisa Ukhozi	id=16547
+Lunyole (Original)	Engoho N’Ekongoja	id=10543
+Sepedi (Translation)	Kgogo E Hlalefetša Ntšhu	id=18169
+Setswana (Translation)	Koko O Tsietsa Phakalane	id=16595
+Setswana (Translation)	Koko O Tsietsa Lenong	id=16718
+Setswana (Translation)	Koko O Tsietsa Lenong	id=17647
+SiLozi (Translation)	Kuhu Ipuma Mbande	id=18719
+Tshivenda (Translation)	Khuhu I Fhura Goni	id=18301
+Xitsonga (Translation)	Huku Yi Xenga Koti	id=18877

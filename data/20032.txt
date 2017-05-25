@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=20032&d=0&a=1
+id:	20032
+title:	Ke Rata Ho Etsa 
+author:	Tseliso Masolane
+artist:	Wiehan de Jager
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20032.png
+desc:	Ke eng seo o ratang ho se etsa?
+
+page_text:
+
+P1	Ke rata ho tlola kgathi le motswalle wa ka.
+P2	Ke rata ho ngola ditlhaku letlapeng.
+P3	Ke rata ho bala dibuka tse nang le ditshwantsho.
+P4	Ke rata ho ja ditholwana tse fapaneng.
+P5	Ke rata ho thusa mona hae.
+P6	Ke rata ho mamela dipale tsa Mme.
+P7	Ke rata ho robala betheng e kgolo.
+P8	Ke rata ho etsa dintho tsena. Ke eng seo o ratang ho se etsa?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat Ek Graag Doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+CiNyanja (Translation)	Vintu Vamene Nikonda Kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I Enjoy Doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18984
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18986
+Xitsonga (Translation)	Ndzi Rhandza Ku Endla	id=18875

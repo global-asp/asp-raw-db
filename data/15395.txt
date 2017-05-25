@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=15395&d=0&a=1
+id:	15395
+title:	Musar
+author:	Dessailly A.B. Chirchir
+artist:	Catherine Groenewald
+lang:	Kalenjin
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15395.png
+desc:	Musar cho kicheb aboo.
+
+page_text:
+
+P1	Kikichopkei Zama kuwo sukul karon.
+P2	Mi kichobe aboo musarek ab karon.
+P3	Kimwa Zama kile, "Nget iyoo kichob musar cho koromen kisir aboo!"
+P4	Torete musar Zama mu sukul simaam ruba.
+P5	Ochu musarek kikururyo.
+P6	Rong'u aboo cheko mu chomnyot nyo wou.
+P7	Kimwa Zama kile, "Aboo, Bere chii tikimeche musarechu sukaru keny."
+P8	Kipkaat Zama mi metinyi kile, "Anyinyen musarekab iyoo kisir chobo aboo."
+P9	Kisom Zama sukaru kile "Aboo kono sukaruk atesyi musarek amu mayem."
+P10	Mi kukochinii aboto Zama sukaruk kamining kitesyi musarekchi.
+P11	"Woo!Aboo!Ketesyi chumbi musarekchu!"
+P12	Kiteb Zama abonyii kile "chone ayu iyoo kaa keny."
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+IciBemba (Translation)	Umusunga	id=18578
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Lunyole (Translation)	Obusera	id=13458
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

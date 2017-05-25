@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=17004&d=0&a=1
+id:	17004
+title:	Oscar and the Snake
+author:	Children of Tsumkwe library
+artist:	Photos by Candi Miller, Phillemon Nqeni, Actor: Kqece, Kqece and Aice and Candy Miller
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17004.png
+desc:	A simple and dramatic story with a Namibian setting
+
+page_text:
+
+P1	Oscar ran into camp.
+P2	He heard the dog barking and looked.
+P3	'Auwwwhhhh!' Oscar fell back.
+P4	"Father,  help!"
+P5	"A big snake! There. It will bite my brother."
+P6	Oscar's father beat the snake to death.
+
+images:
+
+illustrations/pages/17275.png
+illustrations/pages/18198.png
+illustrations/pages/17269.png
+illustrations/pages/17270.png
+illustrations/pages/17277.png
+illustrations/pages/17278.png
+illustrations/pages/17272.png
+
+translations:
+

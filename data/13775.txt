@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=13775&d=0&a=1
+id:	13775
+title:	Kabali Et Kateera
+author:	Patricia Roth and Translators without Borders
+artist:	Franz Phooko
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13775.png
+desc:	Deux amis avaient chacun deux animaux différents. L’un avait un chat
+
+page_text:
+
+P1	Kabali et Kateera sont amis.
+P2	Kabali a un chat. Kateera,  un lapin.
+P3	Kabali joue avec son chat tous les jours.
+P4	Kateera nourrit son lapin deux fois par jour.
+P5	Le lapin de Kateera a eu six lapereaux: deux noirs,  deux marrons et deux blancs.
+P6	La chatte de Kabali elle a eu trois chattons. Un male et deux femelles.
+P7	Kateera a vendu quatre lapereaux. Avec l'argent qu'il a gagné,  il a acheté des livres et des crayons pour l'école.
+P8	Kabali lui n'a vendu aucun chat. Les habitants du village n'en voulaient pas.
+
+images:
+
+illustrations/pages/9585.png
+illustrations/pages/9576.png
+illustrations/pages/9577.png
+illustrations/pages/9578.png
+illustrations/pages/9579.png
+illustrations/pages/9580.png
+illustrations/pages/9581.png
+illustrations/pages/9582.png
+illustrations/pages/9583.png
+
+translations:
+
+isiZulu (Translation)	Ukabali Nokateera	id=15353
+Ng’aturkana (Translation)	Kabali Ka Kateera	id=11810

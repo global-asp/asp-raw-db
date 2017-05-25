@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=15406&d=0&a=1
+id:	15406
+title:	Be Nitie Ng'at Machal Koda?
+author:	Quinter Awino
+artist:	Jess Jardim-Wedepohl
+lang:	Dholuo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15406.png
+desc:	Wuoro ka be nitiere an machielo kamoro e piny
+
+page_text:
+
+P1	Awuoro ka be nitie moro machal koda kamoro e piny.
+P2	Maneno ka an.
+P3	To wuoyo machal koda.
+P4	To nigi yier mong'inre ka mara.
+P5	Ng'at manigi wang'a,  ita.
+P6	Man gi nyaka nyiero na.
+P7	Manyalo timo gima anyalo timo.
+P8	To ok nyal timo gima ok anyal.
+P9	Aseng'iyo mang'iyo kuonde te mondo ayud an morro. Asedhi piny e bungu marango e tok yiende.
+P10	Narango aluora,  malo gi piny.
+P11	E such ng'ato ka ng'ato.
+P12	Nokanyal yudo machal koda kamoro amora kata achiel.
+P13	Nitie mana an achiel e piny ka! An makende,  oh en adier!
+P14	Kata kamano ok en an kende,  be ineno?Nitie mana in achiel kende!
+
+images:
+
+illustrations/pages/15344.png
+illustrations/pages/15343.png
+illustrations/pages/15344.png
+illustrations/pages/15345.png
+illustrations/pages/15346.png
+illustrations/pages/15347.png
+illustrations/pages/15348.png
+illustrations/pages/15349.png
+illustrations/pages/15361.png
+illustrations/pages/15352.png
+illustrations/pages/15355.png
+illustrations/pages/15356.png
+illustrations/pages/15358.png
+illustrations/pages/15359.png
+illustrations/pages/15360.png
+
+translations:
+
+English (Original)	Is There Anyone Like Me?	id=15363
+isiXhosa (Translation)	Ingaba Ukhona Omnye Ofana Nam?	id=19900

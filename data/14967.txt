@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=14967&d=0&a=1
+id:	14967
+title:	Le Vent
+author:	Véronique Haour and Translators without Borders
+artist:	Marion Drew
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14967.png
+desc:	Histoire sur la force du vent.
+
+page_text:
+
+P1	Le vent rugit. Il rugit en passant devant chez nous.
+P2	C'est un vent violent. Il m'arrache le cerf-volant de la main.
+P3	Je cours après mon cerf-volant. Le vent me pousse loin du cerf-volant!
+P4	Le vent se transforme en tornade. Il emporte mon cerf-volant de plus en plus haut.
+P5	La tornade m'aspire! Je ne vois plus rien,  je ne touche plus rien.
+P6	Où est mon cerf-volant maintenant? Peut-être qu'il est pris dans un arbre.
+P7	Peut-être que mon cerf-volant vole encore dans le ciel.
+P8	Le vent se calme enfin. Je tourbillonne toujours.
+P9	Quand j'arrête de tourbillonner,  je regarde autour de moi. Où est passé le vent?
+P10	Je ne vois mon cerf-volant nulle part. Je n'entends plus le vent.
+P11	Peut-être que demain je retrouverai mon cerf-volant. Maintenant,  il faut que je rentre à la maison,  avant que le vent se remette à rugir encore.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+
+translations:
+
+English (Translation)	Wind	id=14119
+English (Adaptation)	Wind	id=15055
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Sesotho (S.Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=13289&d=0&a=1
+id:	13289
+title:	Eng'atuny Lokaelon
+author:	Lolupe teachers
+artist:	Marleen Visser
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13289.png
+desc:	Epaalonu engatuny ka ekile
+
+page_text:
+
+P1	Asaki kolong eng'atuny apudun anamoni.
+P2	Abu ng'esi toelu ekile.
+P3	Emujeenete aapei. Tobul eng'atuny kotere amina ekile akimuj akiring!
+P4	Kitam ng'esi atamar kaario ng'esi katanyami.
+P5	Abu ekile dang kiruja enyami eng'atuny ng'esi.
+P6	Toriang'u dio tokopu akwara tama echum! Kipung'ar eng'atuny.
+P7	Anyoun akwar ng'ina toremokins eng'atung ka ng'itung'a.
+
+images:
+
+illustrations/pages/7341.png
+illustrations/pages/7340.png
+illustrations/pages/7341.png
+illustrations/pages/7343.png
+illustrations/pages/7347.png
+illustrations/pages/7345.png
+illustrations/pages/7344.png
+illustrations/pages/7349.png
+
+translations:
+
+Afrikaans (Translation)	Die Leeu Wat Vrienskap Wou Hê	id=11304
+Dhopadhola (Translation)	Simbwor Odwaro Mere	id=19483
+English (Original)	Lion That Wanted Friendship	id=7368
+English (Translation)	Lion That Wanted Friendship	id=11340
+French (Translation)	Le Lion Qui Voulait Un Ami	id=12677
+Portuguese (Translation)	O Leão Que Queria Amizade	id=16723
+Setswana (Translation)	Lion That Wanted Friendship	id=11465

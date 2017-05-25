@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=5283&d=0&a=1
+id:	5283
+title:	Andiswa Soccer Star
+author:	Eden Daniels
+artist:	Eden Daniels
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/5283.png
+desc:	Andiswa really wants to play soccer with the school team
+
+page_text:
+
+P1	Andiswa watched the boys play soccer. She wished that she could join them. She asked the coach if she can practise with them.
+P2	The coach put his hands on his hips. "At this school,  only boys are allowed to play soccer," he said.
+P3	The boys told her to go play netball. They said that netball is for girls and soccer is for boys. Andiswa was upset.
+P4	The next day,  the school had a big soccer match. The coach was worried because his best player was sick and could not play.
+P5	Andiswa ran to the coach and begged him to let her to play. The coach was not sure what to do. Then he decided that Andiswa could join the team.
+P6	The game was tough. Nobody had scored a goal by half time.
+P7	During the second half of the match one of the boys passed the ball to Andiswa. She moved very fast towards the goal post. She kicked the ball hard and scored a goal.
+P8	The crowd went wild with joy. Since that day,  girls were also allowed to play soccer at the school.
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/4460.png
+illustrations/pages/4461.png
+illustrations/pages/4462.png
+illustrations/pages/4463.png
+illustrations/pages/4464.png
+illustrations/pages/4465.png
+illustrations/pages/4466.png
+illustrations/pages/4467.png
+
+translations:
+
+Amharic (Translation)	አዲሴ- የእግር ኳስ ኮከቧ	id=12962
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=16757
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Tigrigna (Translation)	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ	id=18977
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

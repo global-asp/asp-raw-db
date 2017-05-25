@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=8466&d=0&a=1
+id:	8466
+title:	A Yingwe Ya Ki Ti B'abzisa
+author:	Rafael Ernesto Samuel
+artist:	Razaque Lázaro Quive
+lang:	Xitswa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8466.png
+desc:	Rabbit goes to visit his friend the Hyena.
+
+page_text:
+
+P1	Aka ci khati leciya ca kali,  ka kama wa ndlala,  a yingwe yaku tala hi wuthlari,  yi ti mahisili aku kwatsi yo b'abza,  yi tsandza niku huma a handle.
+P2	A zvi hari zo tala zi yili a kaya ka yona kasi akuya vuxela. Kanilezvi,  ni cinwe a ci hari ci nga zvikota aku huma handle.
+P3	Loku gi cili ni mumu waku saseka ngovu,  a ci gwaja ci tili. Ci pimisili aku vuxela a yingwe conawu.
+P4	Ku tsongwani a ci gwaja a ci lava aku ngena lomu ndlwini ka yingwe,  kanilezvi,  hi ci hathlanyana,  a ci gwaja ci nyimili ci wona aku akuhi ni mikondzo ya zvi hari zo tala zi nga ngena zi nga humi.
+P5	Hiku maha loku,  a ci gwaja ci nyimili hi le handle ci ku,  "Xewi. U muneni kani mungana? Wa cukwata ke?"
+P6	"Unga cavi mungana. Ngena u ndzi pangalata."
+P7	"Wa hemba. Ndzi wona a mikondzo ya zvi hari zi nga ngena kanilezvi a yaku huma andzi yi woni."
+P8	A yingwe yino miyela,  a ci gwaja ciku ngalu,  "Salani mungana,  ndzi taku vuxela a siku gi nwani."
+P9	A ci gwaja ci tsutsumili ka wundawu ligiya!
+
+images:
+
+illustrations/pages/8362.png
+illustrations/pages/8362.png
+illustrations/pages/8363.png
+illustrations/pages/8364.png
+illustrations/pages/8365.png
+illustrations/pages/8368.png
+illustrations/pages/8372.png
+illustrations/pages/8374.png
+illustrations/pages/8377.png
+illustrations/pages/8379.png
+
+translations:
+
+English (Original)	The Sick Hyena	id=8393
+English (Adaptation)	The Sick Hyena - Colouring Book	id=17424
+Portuguese (Translation)	A Hiena Doentia	id=8394

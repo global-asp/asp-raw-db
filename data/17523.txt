@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=17523&d=0&a=1
+id:	17523
+title:	Father's Inheritance
+author:	Lemu Wachile
+artist:	Jacob Kono
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17523.png
+desc:	A folktale about the wisdom of a father
+
+page_text:
+
+P1	Once upon a time,  there was a hardworking farmer. He had a hardworking wife,  and two sons.
+P2	He had enough food because he and his wife worked very hard. He wanted his children to have a good life. He never let them do any work.
+P3	After some time,  his wife died.
+P4	The man still did not want his children to work. He did the field labour and all the housework too.
+P5	But as time went on,  the man became old and sick. He started to worry about what would become of his children when he died. They would not be able to take care of themselves.
+P6	He called his sons. He said,  "My inheritance to you is a lot of gold hidden in the fields. So,  it's up to you to plough them and find the gold."
+P7	He also called his neighbours and said,  "I'm going to die soon. My sons do not know how to look after themselves. Please look after them until they can do it for themselves."
+P8	After the man died,  the neighbours provided his sons with food for some time.
+P9	The brothers did not want to be robbed of the gold their father buried. They decided to do the digging themselves.
+P10	They dug one field after another,  but they did not find any gold.
+P11	They sat down and one asked the other,  "Do you think our father cheated us?" The other brother said,  "No,  I think our father was saying that farming is gold. And if we dig the fields,  plant,  and plough we can become rich."
+P12	So,  like all the other farmers,  they dug up the fields. They grew wheat and became very rich.
+
+images:
+
+illustrations/pages/17228.png
+illustrations/pages/17218.png
+illustrations/pages/17219.png
+illustrations/pages/17220.png
+illustrations/pages/17221.png
+illustrations/pages/17222.png
+illustrations/pages/17223.png
+illustrations/pages/17666.png
+illustrations/pages/17669.png
+illustrations/pages/17226.png
+illustrations/pages/17227.png
+illustrations/pages/17228.png
+illustrations/pages/17229.png
+
+translations:
+
+Afaan Oromo (Translation)	Dhaala Abbaa	id=17965
+Amharic (Translation)	የአባት ውርስ	id=17966
+Kiswahili (Translation)	Urithi Kutoka Kwa Baba	id=17937

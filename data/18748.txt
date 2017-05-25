@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=18748&d=0&a=1
+id:	18748
+title:	Funny Story
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Khothatso Ranoosi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18748.png
+desc:	Meet some unusual animals and people in this unusual story!
+
+page_text:
+
+P1	Khotso rides a donkey. His donkey is blue. Khotso and his donkey eat together.
+P2	Grandmother Thabo is cooking. She is cooking in a black pot. Grandmother Thabo and her cat eat together.
+P3	Neo's cow is as green as grass. The cow stands on Neo's foot. She drops her bucket of milk.
+P4	Ntate Phakane has a black horse. His horse is very strong. The horse pulls the plough all by itself.
+P5	Thabang drives his car. He travels with his dog. Thabang's dog poops in the car!
+P6	The blue donkey,  the green cow,  the black horse,  and grandmother's cat got into Thabang's car. They all started to sing.
+
+images:
+
+illustrations/pages/12087.png
+illustrations/pages/12086.png
+illustrations/pages/12085.png
+illustrations/pages/12087.png
+illustrations/pages/12088.png
+illustrations/pages/12089.png
+illustrations/pages/12090.png
+
+translations:
+
+English (Translation)	Funny Story	id=13306
+isiXhosa (Translation)	Ibali Elihlekisayo	id=14959
+Sesotho (Lesotho) (Original)	Pale E Qabolang	id=13305
+Xitsonga (Translation)	Xitori Xo Hlekisa	id=14385
+Xitsonga (Translation)	Xitori Xo Hlekisa	id=18747

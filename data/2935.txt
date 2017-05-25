@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=2935&d=0&a=1
+id:	2935
+title:	Omubiri Gwange
+author:	Rev Joseph M Katabaro
+artist:	Mlungisi Dlamini
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2935.png
+desc:	We can do many actions with our bodies
+
+page_text:
+
+P1	Nsobola okudduka nagwo.
+P2	Nsobola okubuuka nagwo.
+P3	Nsobola okuzina nagwo.
+P4	Nsobola okuwuga nagwo.
+P5	Nsobola okubuuka omuguwa nagwo.
+P6	Nsobola okugusambisa omupiira.
+P7	Nsobola okubulawo nagwo.
+P8	Naye sisobola kubuuka mu bbanga nagwo.
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Anywak (Translation)	Dëëra	id=17261
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+English (Adaptation)	My Body	id=9882
+isiXhosa (Translation)	Umzimba Wam	id=7685
+Kikamba (Translation)	Mwii Wakwa	id=2934
+Kiswahili (Translation)	Mwili Wangu	id=12632
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Sepedi (Translation)	Mmele Waka	id=7854
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386
+Zande (Translation)	Kptore	id=12613

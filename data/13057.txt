@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=13057&d=0&a=1
+id:	13057
+title:	Ufikile Okhulumela Futhi
+author:	Gaspah Juma
+artist:	Jesse Breytenbach
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13057.png
+desc:	UFikile umumuntu olungileko
+
+page_text:
+
+P1	Ekadeni kwakukhona umntazana ibizo lakhe kungu Fikile,  ahlala nonina. UFikile kwabe kumumuntu okhulumela futhi,  begodu bekangazitshwenyi ngokulalela unina lokha nakamkhuzako ngokukhulumela futhi kwakhe.
+P2	UFikile waye anokghari obekahlala maqalanga nesikhisi lapha bekuhlala khona uFikile. Ngelinye ilanga ukghariyakhe waphathwa kugula.
+P3	Unina kaFikile wabe amatasatasa ngalelo langa,  begodu kwabe sekuhlwile lokha nakamthuma bona asele ukghariyakhe ukudla.
+P4	Endleleni wahlangana nepisi eyazitjhugulula yazenza umuntu,  uJabu.
+P5	UJabu wabuza uFikile bonyana uphetheni,  wamphendula wathi,  "Ngiphethe inyama,  amaqanda Kanye nebisi." Kanti unina,  wabe amkhuzile bona angatjho litho bonyana uphetheni.
+P6	UFikile waphinde watjela uJabu bona ukudla lokhu usela ukghariyakhe osele agula. Wathoma uJabu waginya amathe ngomqabango obesele anawo ngenyama ephethwe nguFikile.
+P7	Wagijima uJabu waya emzini kakghari kaFikile ngaphambi kobana yena afike.
+P8	Wafika waginya ukghari kaFikile,  wathi ngemvakwalokho waziphuthela ngengubo ukghari kaFikile waye aziphuthele ngayo.
+P9	Wafika uFikile,  wathola indlu ithule ithe du! Wangena ngaphakathi warhuwelela ukghariyakhe,  "Kghari,  ukuphi?"
+P10	Akhenge athole ipendulo,  wabona bonyana angene ngekumbeni engaphakathi lapha bekulala khona ukghariyakhe. Warareka lokha nakabona kunomuntu oziphuthele ngengubo ekulu.
+P11	Wabuza uFikile,  "Kghari kubayini iindlebe zakho zizikulu kangaka namhlanje?" waphendula uJabu angaphakathi kwengubo,  "bonyana ngikghone ukukuzwa kuhle."
+P12	Wabuza godu uFikile,  "Kghari,  kubayini amehlwakho amakhulu kangaka namhlanje?" Waphendula uJabu wathi,  "Wonyana ngikghone ukukubona kuhle."
+P13	Wabuza kwamaphelelo uFikile "Kghari kubayini umlomakho umkhulu kangaka namhlanje?" Waphendula uJabu wathi,  "Bonyana ngikghone ukukuginya." Weqa embendeni uJabu,  waginya uFikile.
+P14	Ngombana uFikile waye amumuntu okhulumela futhi,  bekakhuluma nalokha angaphakathi kwamathumbu kaJabu. Waye abuza imibuzo engapheliko.
+P15	Waphetha ngokudinwa uJabu ngemibuzo kazi eminengi kaFikile,  wabona bonyana kuncono amkhafule.
+P16	UFikile nokghariyakhe balanyulelwa babantu abahlala kuleyo ndawo,  kusukela ngalelo langa uFikile khenge asakhuluma khulu nabantu angabaziko.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiXhosa (Translation)	Unandipha Intombazana Elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

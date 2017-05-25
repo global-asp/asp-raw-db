@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=15441&d=0&a=1
+id:	15441
+title:	Ukuphikisana Ngemisebenzi Eyahlukene
+author:	Umlazi Foundation Phase teachers
+artist:	Wiehan de Jager
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15441.png
+desc:	Ingabe kukhona imisebenzi ebaluleke ukwedlula eminye?
+
+page_text:
+
+P1	Esigodini esithile,  kwabe kunokuphikisana kwabantu ngemisebezi eyahlukene. Wonke umuntu wayecabanga ukuthi umsebenzi wakhe ubalulekile.
+P2	Uthisha wathi uyena onomsebenzi obalulekile kunayo yonke. "Ngaphandle kathisha,  asikho isikole,  akukho nokufunda."
+P3	Umakhi wathi uyena onomsebenzi obaluleke kunayo yonke.   "Ngaphadle komakhi,  ngeke sibekhona isikole sokufunda nezindlu zokulala."
+P4	Umbazi wathi uyena onomsebenzi obalulekile kunayo yonke. "Ngaphandle kombazi,  ayikho impahla yasendlini nesikole."
+P5	Udokotela wazitshela ukuthi unomsebenzi obaluleke kunayo yonke.   "Ngaphandle kodokotela nabahlengikazi,  ungagula ufe."
+P6	Umlimi wathi nguye onomsebenzi obalulekile kunayo yonke. "Ngaphandle kwabalimi,  ngeke ubenakho ukudla ozokudla."
+P7	Umfundi waphikisa wathi abafundi yibo abanomsebenzi obaluleke kakhulu. "Ngaphandle kwabafundi,  ngeke babekhona othisha,  abakhi,  odokotela,  abalimi,  noma ababazi."
+P8	Ekugcineni,  bonke bavumelana ngokuthi yonke imisebenzi ibalulekile. Siyabadinga othisha,  abakhi,  odokotela,  abalimi,  nababazi. Kodwa wonke umuntu kufanele abe umfundi kuqala!
+
+images:
+
+illustrations/pages/10274.png
+illustrations/pages/10274.png
+illustrations/pages/10278.png
+illustrations/pages/10276.png
+illustrations/pages/10279.png
+illustrations/pages/10277.png
+illustrations/pages/10275.png
+illustrations/pages/10280.png
+illustrations/pages/10281.png
+
+translations:
+
+English (Original)	Disagreement Among Occupations	id=10537
+English (Adaptation)	Which Work is the Most Important?	id=19761
+French (Translation)	Un Désaccord Sur L’Importance De Divers Emplois	id=13159
+Portuguese (Translation)	Desentendimento Entre Profissões	id=16413

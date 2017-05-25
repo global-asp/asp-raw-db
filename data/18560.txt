@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=18560&d=0&a=1
+id:	18560
+title:	Palica
+author:	Limbali Muyendekwa
+artist:	Catherine Groenewald
+lang:	SiLozi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18560.png
+desc:	Boma abayo kono bondate kibona babatatea palica yaka kusasani.
+
+page_text:
+
+P1	Zama uitukiseza kuya kwa sikolo.
+P2	Bondate batateha palica ya mukushuko.
+P3	"Boma baziba kutatea palica yende!" abulela Zama.
+P4	Zama imufanga mata akwa sikolo palica.
+P5	Palica ilukile.
+P6	Bondate basela mabisi,  ka lilato.
+P7	"Bondate,  nasepa palica ye isatokwa cukela," abulela Zama.
+P8	"Palica yetateilwi ki boma imunati kufita ya bondate," Zama wasepa cwalo.
+P9	"Bondate,  nisakupa cuka?" abuza Zama.
+P10	Ndatae Zama amufa cuka yeng'wi.
+P11	"Wu! Tate mubeyili lizwai leling'ata mwa palica!"
+P12	"Tate,  Boma bafita nakomang'i?" abuza Zama.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+IciBemba (Translation)	Umusunga	id=18578
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Lunyole (Translation)	Obusera	id=13458
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

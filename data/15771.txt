@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=15771&d=0&a=1
+id:	15771
+title:	A-Tiyagu Ni Ng'ombe
+author:	Assima Abudo
+artist:	Ingrid Schechter
+lang:	Ciyawo
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15771.png
+desc:	Anganga akucengela wumi wa a-Tiyagu.
+
+page_text:
+
+P1	  A-Tiyagu valamaga ni anganga vawo.
+P2	  Vele vasilondesyaga ng'ombe ni anganga vawo.
+P3	  Dine disiku vakopocele asikadi.
+P4	  Vanya-wo vajigele ng'ombe syose-pe.
+P5	  A-Tiyagu ni anganga vawo vatisile ni vajuvile.
+P6	  Vanya-wo vajuvile mwitinji mpaka kuswa.
+P7	  Pawujo pakwe asikadi ni vawujaga.
+P8	  Anganga vasisile a-Tiyagu m'masamba.
+P9	  Nsikadi jumo jwakwe vadivete vevala,  nambo vele vadiji civela jii.
+P10	  Pavapadi vakucengela,  a-Tiyagu ni anganga vawo vatyosile mwitinji.
+P11	  Vanya-wo vapite kunyumba mwa citema-citema.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi and the Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

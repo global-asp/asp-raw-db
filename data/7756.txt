@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=7756&d=0&a=1
+id:	7756
+title:	A Mpfundla Ni Havu
+author:	Pensaivo Faife
+artist:	Reginaldo Vicente Manhice
+lang:	Changana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7756.png
+desc:	Rabbit invites his friend Monkey over to play
+
+page_text:
+
+P1	A siku rin'wi a Mpfundla ni Havu avali va nganu. Hi nkama wa dlala Mpfundla wu rambi a mu nganu a kuva va tlanga.
+P2	A Mpfundla wuku: A hi tlangi hiku svekana. A Havu yi hlamula yiku: Hinga svi yentsisa aku yini svolesvo?
+P3	A Mpfundla u hlamula wuku: A hi tsiveli ndzilu.
+P4	Hi cela mati ka bota,  hi gama hi thlathleka a ndzilweni.
+P5	Mina ni ta ngena a ku sungula. A loko ni gongondza a xi mbonyo xa bota ni pfuleli ni ta huma.
+P6	A Mpfundla yi ngena a ku sungula. A nkama a mati manga sungula a ku kufumela.
+P7	A Mpfundla wu gongondza,  a Havu yi pfula.
+P8	A nkama ku nga ngena a Havu,  a Mpfundla wu teka a ribzi dza dzikulu u thlanteka a henhla ka xi mbonyo xa bota.
+P9	A nkama a mati manga sungula aku bila,  a Havu yi gongondza a Mpfundla a wu pfulanga a xi mbonyo xa bota.
+P10	A Havu yi gama yifa,  a Mpfundla yi gama yida a munganu wakwe!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/7736.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/7735.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/7752.png
+
+translations:
+
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The Cooking Game	id=6993
+English (Adaptation)	The Cooking Game - Colouring Book	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo Wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo Wokuphekana (Faka Imibala)	id=17564
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

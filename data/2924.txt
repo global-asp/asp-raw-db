@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2924&d=0&a=1
+id:	2924
+title:	Makwalo
+author:	Lorato Trok
+artist:	Cathy Feek
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2924.png
+desc:	Kagang e ke ka ga mosetsana o o lwalalng mme a se kgone go ya sekolong. O kwala makwalo go bua le batho.
+
+page_text:
+
+P1	Beke e e fetileng ke amogetse makwalo a mantsi.
+P2	Ka Mosupologo ngaka ya me e kwaletse morutabana wa me lekwalo.
+P3	Thabisile o a lwala. O tshwanetse go nna kwa gae.
+P4	Ka Labobedi ke amogetse lekwalo go tswa phaposing ya me.
+P5	Fola ka bonako,  Thabisile!
+P6	Ka Labobedi ke amogetse lekwalo go tswa phaposing ya me.
+P7	Ke go taketse setshwantso se. Ka lerato go tswa go Dudu.
+P8	Ka Labone ke amogetse lekwalo go tswa go mme.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Xitsonga (Translation)	Mapapila	id=7699

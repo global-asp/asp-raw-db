@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=16191&d=0&a=1
+id:	16191
+title:	Kadondi Omutumulitumuli
+author:	Wadda Cyprian
+artist:	Jesse Breytenbach
+lang:	Lugwere
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16191.png
+desc:	OKadondi w’omukago aate ataka ino okumanya ebintu
+
+page_text:
+
+P1	Omu biseera eby'eira wabbairewo omwala ogubeetanga bati Kadondi. OKadondi yabbaire mwala mutumulitumuli. Omaaye wa Kadondi n'amulabula obutatumulatumulanga ino,  naye oKadondi tiyamuwulirisirye.
+P2	Lumo,  oisenga wa Kadondi yalwaire. Yabbanga ku mugingi oguli oku lubba ly'ekiinamo okuteeba oku kyalo e w'aba Kadondi.
+P3	Olunaku olwo,  omaaye wa Kadondi yafulugutanire n'emirimo. Omaaye wa Kadondi oweyawereire oKadondi emere okutwalira oisengawe obwire bwabbaire kanaigolo.
+P4	Oweyabbaire ayaba,  n'asisinkana Gabeya omu nzira,  eyabbaire oMpiti naye nga yeecuusire oti muntu.
+P5	OGabeya n'abuulya oKadondi ekiyabbaire yetiikire. OKadondi n'airamu ati,  "Nyama,  magi,  n'amata." Omaaye wa Kadondi yabbaire amusisiitiire obutakoberaku omuntu yenayena ekiyetiikire.
+P6	OKadondi era n'akobera oGabeya ati oisengawe mulwaire era amutwalira mere. OGabeya n'atandiika okumira ebita olw'ekiloboozo ky'enyama oKadondi giyabbaire yeetiikire.
+P7	N'airuka mangu n'asoka oKadondi e wa isengawe.
+P8	N'amira oisenga wa Kadondi era ni yebiika ogubbulangiti.
+P9	OKadondi oweyatukire,  yagyirye enyumba nga nsiriki ti,  n'angira omu nyumba era n'ayeta oisengawe,  ati,  "Isenga,  oli yaina?"
+P10	OKadondi oweyakaire okuwulira edoboozi lya isengawe,  yangiliire kimo mu kisenge ky'omunda oisengawe egiyabbaire agona. Yewunyire owe yabwoine omuntu e yebwikire ogubbulangiti ogunene.
+P11	OKadondi n'abuulya ati,  "Isenga,  lwaki amatwigo manene ino olwatyanu?" OGabeya n'airiramu munda omu bbulangiti ati,  "Kaisi isobole okukuwulira kusa."
+P12	OKadondi n'amubuulya tete ati,  "Isenga,  lwaki amaisogo manene ino olwatyanu?" OGabeya n'airamu ati,  "Kaisi isobole okukubona kusa."
+P13	OKadondi n'abuulya ogusembayo ati "Isenga,  lwaki omunwagwo munene ino olwatyanu?" OGabeya n'airamu ati,  "Kaisi isobole okukumira." OGabeya n'abuuka okuzwa okukitanda n'amira oKadondi.
+P14	Olwokubba oKadondi yabbaire mutumulitumuli,  yeyongeire okutumula n'oweyabbaire omu kida kya Gabeya. Yabwirye ebibuulyo bingi ino.
+P15	Okunkomerero,  Gabeya n'asinya ebibuulyo bya Kadondi ebingi,  era n'asalawo okumwandula.
+P16	Abantu b'oku kitundu balamilye oKadondi n'oisengawe. Okuzwa kwolwo,  oKadondi tiyairireyo okutumulanga ino n'abantu abatamaite.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
+isiXhosa (Translation)	Unandipha Intombazana Elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

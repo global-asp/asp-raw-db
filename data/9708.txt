@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=9708&d=0&a=1
+id:	9708
+title:	Omwalimu Moraa
+author:	Ntaata Asiago Onesmus
+artist:	Vusi Malindi
+lang:	Ekegusii
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9708.png
+desc:	Omogano bwogokumia igoro y Omwarimu Moraa nékiagosomia.
+
+page_text:
+
+P1	Oyo nomwalimu one. Erieta naye Moraa. Nigo ang'anchete mono.
+P2	Omwalimu Moraa agonsomia chinuguta. Nabonkonyaa goteba a,  e,  i,  o,  u.
+P3	Omwalimu Moraa otosomine chirangi embariri,  buru,  machani,  na emwamu.
+P4	Chinsa chiokorara mobaso Omwalimu Moraa,  agototereria twarara. Agotera ogotera okuya twarara.
+P5	Chumataro nigo agototebia igoro yabasacha bogokumia.
+P6	Tichi kabere,  Omwalimu Moraa otototebia igoro yabakungu bogokumia.
+P7	Tichi gataro ototebia igoro yogosomba.
+P8	Aramisi ototebia igoro y'oboremi.
+P9	Na ichuma,  Omwalimu Moraa ototebia totebe emegano yaito gochia ase abande.
+P10	Omwalimu ato monuya ase ense engima. Gingokina,  ntaete koba buna Omwalimu Moraa.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Bakafundisha Ba Akinyi	id=18586
+isiNdebele (Translation)	Utitjhere Nkosi	id=13043
+isiXhosa (Translation)	Utitshalakazi Uakinyi	id=14116
+isiZulu (Translation)	Uthisha Uzanele	id=13537
+isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
+Kimîîru (Original)	Mwarimu Makena	id=9688
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Tshivenda (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

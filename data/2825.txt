@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=2825&d=0&a=1
+id:	2825
+title:	Ndixelele ... Ngoku! Wonwabile Kwaye Uqumbile
+author:	Ntombizodwa Gxowa-Dlayedwa
+artist:	Rijuta Ghate
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2825.png
+desc:	Izivakalisi ziphonononga izimvo nokuba zintoni ezenza abantu bavuye okanye baqumbe.
+
+page_text:
+
+P1	Kutheni ubhabha elila nje?
+P2	Ndicinga ukuba ulambile.
+P3	Kutheni inkwenkwe iqumbile?
+P4	Ndicinga ikhumbula utata wayo.
+P5	Kutheni intombazana yonwabile nje?
+P6	Unelokhwe entle.
+P7	Kutheni indoda endala ihleka nje?
+P8	Ifunde isiqhulo esilungileyo.
+P9	Kutheni inenekazi lincumile nje?
+P10	Abantwana balo bafunda ngokuthe cwaka.
+P11	Liva ntoni eli nenekazi?
+P12	Ndicinga ukuba uziva enentloni.
+
+images:
+
+illustrations/pages/1891.png
+illustrations/pages/1892.png
+illustrations/pages/1893.png
+illustrations/pages/1894.png
+illustrations/pages/1895.png
+illustrations/pages/1896.png
+illustrations/pages/1897.png
+illustrations/pages/1898.png
+illustrations/pages/1899.png
+illustrations/pages/1900.png
+illustrations/pages/1901.png
+illustrations/pages/1902.png
+illustrations/pages/1903.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...! Hartseer en Gelukkig	id=11478
+Amharic (Translation)	ደስ ያላችሁና የከፋችሁ አሁኑኑ … ንገሩኝ!	id=13126
+English (Original)	Happy and Sad	id=1904
+English (Adaptation)	Happy and Sad	id=16086
+French (Translation)	Raconte-Moi … Maintenant ! Heureux Et Triste	id=10686
+isiNdebele (Translation)	Tjela Mina … Nje! Ithabo Kanye Nokudana	id=13056
+isiZulu (Translation)	Ukujabula Nokuphatheka Kabi	id=2822
+Kikamba (Translation)	Ndavye Oyu ... Utanu Na Kimako	id=2497
+Kiswahili (Translation)	Furaha Na Huzuni	id=2823
+Kiswahili (Adaptation)	Furaha Na Huzuni	id=16199
+Maa (Translation)	Tólikíoki Tenákatá ... Enchipái Ó Enkisinánuo	id=2826
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona! Elakara Nabo Kiyalolong’I	id=2827
+Ng’aturkana (Adaptation)	Elakara Nabo Kiyalolong'l	id=16202
+Oluwanga (Translation)	Mbolera Bulano...obusangafu Nende Eshibeera!	id=2496
+Portuguese (Translation)	Feliz E Triste	id=18887
+Rutooro (Translation)	Ngamgira...hati! Kusemererwa No Kubihirwa	id=14920
+Sepedi (Translation)	Mpotše … Gona Bjale! Lethabo Le Manyami	id=2824
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Thabo Le Hokoata	id=11551

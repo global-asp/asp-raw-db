@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=13200&d=0&a=1
+id:	13200
+title:	Utingi Kunye Neenkomo
+author:	Lunathi Ntunzi
+artist:	Ingrid Schechter
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13200.png
+desc:	Umakhulu usindisa ubomi bukaTingi.
+
+page_text:
+
+P1	UTingi wayehlala nomakhulu wakhe.
+P2	Wayesoloko enakekela iinkomo kunye naye.
+P3	Ngenye imini amajoni afika.
+P4	Athatha zonke iinkomo.
+P5	UTingi kunye nomakhulu babaleka bazimela.
+P6	Bazimela ehlathini kwade kwasebusuku.
+P7	Ke ngoku aphinda abuya amajoni.
+P8	Umakhulu wafihla uTingi phantsi kwamahlahla.
+P9	Elinye lamajoni labeka inyawo lalo phezu kwakhe,  kodwa waye wathula.
+P10	Xa bebona ukuba bakhuselekile,  uTingi kunye nomakhulu baphuma.
+P11	Ke ngoku bachwechwa babuyela ekhaya bethule.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi and the Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

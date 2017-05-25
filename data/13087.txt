@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=13087&d=0&a=1
+id:	13087
+title:	The Tree
+author:	Jane Tsharane
+artist:	Kathy Arbuckle, Wiehan de Jager, Catherine Groenewald, Rob Owen, Vusi Malindi and Maya Marshak
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13087.png
+desc:	A story about the purpose of a tree in our everyday life.
+
+page_text:
+
+P1	I am a tree and I am your friend.
+P2	I am a tree I give you life.
+P3	I am a tree I give you shelter.
+P4	I am a tree I give you shade.
+P5	I am a tree I give you food.
+P6	I am a tree I give you furniture.
+P7	I am a tree I give you education.
+P8	I am a tree I give you fire.
+P9	I am a tree and I am your friend.
+
+images:
+
+illustrations/pages/9605.png
+illustrations/pages/9690.png
+illustrations/pages/9815.png
+illustrations/pages/1595.png
+illustrations/pages/9606.png
+illustrations/pages/6785.png
+illustrations/pages/10402.png
+illustrations/pages/10394.png
+illustrations/pages/6069.png
+illustrations/pages/9690.png
+
+translations:
+
+isiZulu (Translation)	Isihlahla	id=13662

@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=13625&d=0&a=1
+id:	13625
+title:	Eking’Ol
+author:	Simon Ipoo
+artist:	Rob Owen
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13625.png
+desc:	Aria eking’ol ekitoe lo eyakar ajokis naajokon alotooma ng’iturkana. Erupi ekitoe logo anang’ololin nabo nyeonene.
+
+page_text:
+
+P1	Erai ekitoe lo eking'ol. Ejok eking'ol noi.
+P2	Nyeoniyori eking'ol ng'irwa lu akamu.
+P3	Nabo ejok etorube a eking'ol.
+P4	Enyamio ng'opocho eeng'ol ka apinet keng.
+P5	Edukere ng'ang'olia ng'akais ka alaar.
+P6	Eyaoo ng'apyet ka ng'amololea.
+P7	Ipoore ng'ichok keng.
+P8	Ibus amoni na aang'ol. Imina iyong eking'ol a?
+
+images:
+
+illustrations/pages/9607.png
+illustrations/pages/9604.png
+illustrations/pages/9605.png
+illustrations/pages/9606.png
+illustrations/pages/9607.png
+illustrations/pages/9608.png
+illustrations/pages/9609.png
+illustrations/pages/9610.png
+illustrations/pages/9611.png
+
+translations:
+
+English (Translation)	Palm Tree	id=13626
+Kiswahili (Translation)	Mtende	id=15864
+Kiswahili (Adaptation)	Mtende	id=19355
+Kiswahili (Adaptation)	Mtende	id=19362
+Kiswahili (Adaptation)	Mtende	id=19364

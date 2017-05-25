@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=9671&d=0&a=1
+id:	9671
+title:	Counting Animals
+author:	Zanele Buthelezi
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9671.png
+desc:	All the animals are thirsty. Count them as they go to drink water.
+
+page_text:
+
+P1	One elephant is going to drink water.
+P2	Two giraffes are going to drink water.
+P3	Three buffaloes and four birds are also going to drink water.
+P4	Five antelopes and warthogs are walking to the water.
+P5	Seven zebras are running to the water.
+P6	Eight frogs and nine fish are swimming in the water.
+P7	One lion roars. He also wants to drink. Who is afraid of the lion?
+P8	One elephant is drinking water with the lion.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9652.png
+illustrations/pages/9647.png
+illustrations/pages/9644.png
+illustrations/pages/9646.png
+illustrations/pages/9650.png
+illustrations/pages/9645.png
+illustrations/pages/9651.png
+illustrations/pages/9648.png
+
+translations:
+
+Afrikaans (Translation)	Tel Die Diere	id=10448
+Afrikaans (Translation)	Tel Die Diere	id=11413
+Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Asante Twi (Translation)	Mmoa Akenkan	id=18219
+Dagaare (Translation)	Donne Sɔrebo	id=17769
+Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
+Dangme (Translation)	Lohwehi Kanemi	id=18297
+Ewe (Translation)	Lãwo Xexlẽ	id=18179
+Fante (Translation)	Mbowadoma Nkanee	id=18487
+French (Translation)	Compter Les Animaux	id=12654
+Ga (Translation)	Kooloi Kanemɔ	id=18287
+Gonja (Translation)	Asɔbɔaya Be Ke Karga	id=18173
+Kasem (Translation)	Vara Garem	id=18208
+Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
+Lámnsoʼ (Translation)	Á Táŋ Nyám Si	id=15064
+Luganda (Translation)	Ohubala Ebisolo	id=11905
+Lunyole (Adaptation)	Okubala Ebisolo	id=16664
+Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
+Nzema (Translation)	Nane Edianlɛ	id=18423
+Oluwanga (Translation)	Okhubala Tsisolo	id=19590
+Portuguese (Translation)	Contando Os Animais	id=16562
+Tunisian (Translation)	Ħisbèn Ħayewènèt	id=15389
+Yoruba (Translation)	Kíka Àwọn Ẹranko	id=16554

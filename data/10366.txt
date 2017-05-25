@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=10366&d=0&a=1
+id:	10366
+title:	Bana Ba Entsoeng Ka Kerese
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Wiehan de Jager
+lang:	Sesotho (Lesotho)
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10366.png
+desc:	Once there was a family with three very obedient children. The problem was they were made of wax
+
+page_text:
+
+P1	Khale khale hone ho ena le lelapa leleng le lula le thabile.
+P2	Bana ba lelapa leo,  bane basa rate ho loana ba lula ha 'moho. Ba thusa batsoali babona hae le masimong.
+P3	Empa bane basa lumelloe ho atamela pela mollo.
+P4	Ka hore batla qhilibiea,  bane ba etsa mosebetsi oa bona bosiu feela.
+P5	Eaba e mong oa bashanyana bao,  o batla hotsoela kantle ele kannete hoea letsatsing.
+P6	Ka letsatsi leleng,  o ne a sa khone ho ithiba hoohang. Eaba bo abuti oa hae baea monothisa.
+P7	Empa nako e ne e se eile. Eaba o ea qhilibiea letsatsing.
+P8	Eaba bo abuti oahae baea koata,  hobane abuti oa bona o qhilibilihile ke letsatsi.
+P9	Empa baba le menahano e meng. Ba etsa nonyana ka kholu eno ea abuti oa bona ea qhilibisitsoeng ke letsatsi.
+P10	Banka abuti oa bona eo eseng ele nonyana,  ho moisa holima thaba.
+P11	Eare letsatsi hele hlaha,  ea fofela holimo entse e bina.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Setswana (Translation)	Bana Ba Kerese	id=2519

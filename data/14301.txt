@@ -1,0 +1,29 @@
+url:	http://africanstorybook.org/reader.php?id=14301&d=0&a=1
+id:	14301
+title:	The Fox and the Crow
+author:	Renson Kipchirchir
+artist:	Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14301.png
+desc:	It is a story book that is fit for children.
+
+page_text:
+
+P1	A fox once saw a crow flying with a piece of cheese in its beak and settle on branch of a tree.
+P2	'That is for me, as i am a Fox, ''said Master Reynard, and he walked up to the foot of the tree.
+P3	''Good day, Mistress crow, ''he cried.''How well you are looking today; how bright your eyes.
+P4	I feel sure your voice must surpass that of other birds, just as your figure; let me hear but one song from you that I may greet you as the Queen of the birds.''.
+
+images:
+
+illustrations/pages/
+illustrations/pages/5731.png
+illustrations/pages/13551.png
+illustrations/pages/5744.png
+illustrations/pages/5740.png
+illustrations/pages/5734.png
+
+translations:
+

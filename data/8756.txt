@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=8756&d=0&a=1
+id:	8756
+title:	Bàdàrʉ́ Pi Bʉ́nɨ̀ Be
+author:	Aluonzi Moses
+artist:	Sorit Gupto
+lang:	Lugbarati (Official)
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8756.png
+desc:	Bàdàrú lè avɨ́tá sǎrʉ́
+
+page_text:
+
+P1	Bàdàrʉ́ lè avɨ́tá àràpàpà pie.
+P2	àzɨ́nɨ àrɨ́á berɨ̀ tʉ̀.
+P3	Lè avɨ́tá ó'bó 'bánɨ́ edélé kàràtásɨ̀ sɨ̀ dɨ̀yɨ tʉ̀.
+P4	Lè vɨ́nɨ jó ambó,  cɨ́nyákɨ́sɨ̀ 'dɨ̀yɨ sizʉ́ tʉ̀.
+P5	Bàdàrʉ́ kà mvɨ ákúá 'bo,  andrɨ̂ nɨ lè èrɨ ayʉ́ àngù édé ó'dú dríásɨ̀,  te èrɨ gà sɨ̀.
+P6	"Ángù sàbúnì ònzɨ́!" èrɨ ó'dú dríásɨ̀ otré ókpósɨ́.
+P7	O'dú àlʉ orobɨ́ òbì èrɨ ó'bú trá yɨ̀ èri mà jó ruá àzɨ́nɨ o'bu dɨ̀yɨ érɨ ocɨ́rɨ̀á.
+P8	Ò'bu àzó fěpɨrɨ̀ odró Bàdàrú nɨ. Érɨ́nɨ́ nzurɨá 'ɨ́mà édrɨ pazʉ́rɨ̀á èrɨ̀ jɨ otré sɨ̀,  "Èko má àzà. Èko má àzà!"
+P9	Cotí cotí,  ópɨ́ Sàbúnɨ́ óbúrúsá e'da 'ɨ. 'Y kɨ́nɨ̀,  "Bàdàrú mɨ́ mà ovʉ òrìsɨ̀ kʉ." Ópɨ́ Sàbúnɨ̀ nga òkpó fě `'ɨ́ mà màránɨ̀ óbʉ́rʉ́sá drɨ́ kɨ́nɨ̀,  "'ɨ̀ mu ò'bʉ àzó fè 'bá 'dɨ̀yɨ o'dí."
+P10	Màránɨ̀ ó'bʉ́rʉ́sárʉ́ 'dɨ̀yɨ ngá o'bʉ àzó fè 'bá dɨ̀yɨ dró tè.
+P11	'Dòrɨ̀á,  Bàdàrú lè sàbúnɨ̀ ayʉ́zà àzɨ́nɨ ruá trizà pi ruá 'bàzà àlárʉ̌ rɨ̀ be tʉ̀.
+
+images:
+
+illustrations/pages/607.png
+illustrations/pages/607.png
+illustrations/pages/612.png
+illustrations/pages/608.png
+illustrations/pages/610.png
+illustrations/pages/609.png
+illustrations/pages/611.png
+illustrations/pages/613.png
+illustrations/pages/614.png
+illustrations/pages/911.png
+illustrations/pages/910.png
+illustrations/pages/912.png
+
+translations:
+
+English (Original)	Bunty and Bubbly	id=913
+isiXhosa (Translation)	Uminti No Gwebu	id=3129
+Kiswahili (Translation)	Bunty Na Bubbly	id=2830
+Lugbarati (Translation)	Bunty Yi Bubbly Be	id=2828

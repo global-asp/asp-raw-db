@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=10364&d=0&a=1
+id:	10364
+title:	Thupa Eaka E Kae?
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Rijuta Ghate
+lang:	Sesotho (Lesotho)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10364.png
+desc:	A boy is looking everywhere for his cricket bat. Will he find it?
+
+page_text:
+
+P1	Ke lahlile thupa eaka,  hape haketsebe hore na nka e fumana kae.
+P2	Ke e shebile kamora lemati,  ha eo le mono kamora lemati.
+P3	Kae e sheba leka lilae tsa liraka. Ha ke e fumane.
+P4	Ka e sheba leka tlasa bethe. Ha eeo le mono.
+P5	Kae batlisisa leka hara lebokose. Ha e bonts'e ene ele teng kahare holona.
+P6	Ka e batlisisa le katlasa marulelo antlo. Ha ke e fumane le kateng.
+P7	Kae sheba mona,  le mane le hohle. Kentse kesa e fumane.
+
+images:
+
+illustrations/pages/1556.png
+illustrations/pages/1557.png
+illustrations/pages/1558.png
+illustrations/pages/1559.png
+illustrations/pages/1560.png
+illustrations/pages/1561.png
+illustrations/pages/1562.png
+illustrations/pages/1563.png
+illustrations/pages/1564.png
+
+translations:
+
+English (Original)	Where is my Bat?	id=2615
+isiXhosa (Translation)	Liphi Iphini Lam Lokubetha Ibhola?	id=2764
+isiZulu (Translation)	Likuphi Iphini Lami Lokuphebeza?	id=2762
+Kiswahili (Translation)	Wapi Kigoe Changu?	id=2758
+Luganda (Translation)	Akatti Kange Kaliwa?	id=6171
+Luganda (Translation)	Akatti Kange Kaliwa?	id=7167
+Lugbarati (Translation)	Ma Pati Avitavileri Ngoa Ya?	id=2721
+Lugbarati (Official) (Translation)	Má Vɨ́lé Pati Pòyé Avɨ́zʉ́ Rɨ̀ Ngòá Yǎ?	id=8761
+Maa (Translation)	Kóreê Ésíarê Áí Naaríéki Empíra?	id=2766
+Ng’aturkana (Translation)	Aluwae Eyei Akibapet Kang?	id=2759
+Oluwanga (Translation)	Akhapao Khanje Khali Yena?	id=2760
+Sepedi (Translation)	Mmopu  Wa Ka O Kae?	id=2761
+Sesotho (Lesotho) (Translation)	Thupa Eaka E Kae?	id=2763

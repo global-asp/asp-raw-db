@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=10103&d=0&a=1
+id:	10103
+title:	Gorŋo-Ɲa Nda Konjanje
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Winny Asara
+lang:	Zarma
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10103.png
+desc:	Gorŋo-ɲa nda konjanje han kulu yoonay ga no i go. Han fo gorŋo-ɲa bina sara kala a na hari te kaŋmana hagu.
+
+page_text:
+
+P1	Gorŋo-ɲa nda konjanje wo coron nda coro yaŋ no. Amma han kulu yoonay ga no i go. Han fo i ne nga ma te taawa karyaŋ yoonay ga di wo kaŋ ga waani nda nga cala.
+P2	I koy taawa ziiyaŋ batama ra,  i sintin ga zi. Gorŋo-ɲa ga waasi,  amma konjanje mo waasi nd'a. Da gorŋo-ɲa na taawaa jindaw nangu mooro,  konjanje ma a jindaw nangu kaŋ mooru nda no-din. Gorŋo-ɲa sintin ga futu.
+P3	I ne sohõ ngey ma te palnaati-palnaati. Sintina ga,  konjanje ga ci gooliya. Gorŋo-ɲa daŋ bi folloŋ. Nga ga,  Gorŋo-ɲa te gooliye.
+P4	Konjanje na taawaa zi,  a daŋ bi. Konjanje na a fante,  a ye ga daŋ bi. Konjanje ye ga daŋ boŋ ga kar,  a daŋ bi. Konjanje daŋ bi gu.
+P5	Gorŋo-ɲa futu kaŋ nga mana zaama. Gorŋo-ɲa si hin foori. Konjanje ga a haaru,  zama se cora go ga ziinini gumo.
+P6	Gorŋo-ɲa futa ba gumo kala a na nga mayo feeri ga konjanje daŋ ga gon.
+P7	Gorŋo-ɲa ye ga ka fu,  a di konjanje ɲa. Konjanje ɲa na a hã: "Ni mana di ay se ay izo?" Gorŋo-ɲa mana tu. Konjanje ɲa lakkalo tun.
+P8	Kala konjanje ɲa ma jinde kayna fo kaŋ ne: "Ay ɲa ay faaba!" Konjanje ɲa go ga hangan ga boori. A bay kaŋ jinda si ga fun kala gorŋo-ɲa gunda ra haray.
+P9	Konjanje ɲa ne a se: "Te ni dabarey kaŋ ni ga waani,  ay izo!" Konjanjey ga hin ga haw fumbo taŋ,  kaŋ ga boro hawguba. Sohõ kay; gorŋo-ɲa sig a ma kaani.
+P10	Gorŋo-ɲa jarbu. A kaaruka,  a tufa. Nga ga a tisso,  a koto,  a ye ga koto. Konjanje hawo si kaanu.
+P11	Gorŋo-ɲa di ga koto kala a na konjanje yeeri ga ka gunda ra. Konjanje ɲaŋo nda izo noru ga koy tugu tuuri-ɲa fo cire.
+P12	Za han din,  gorŋey nda konjanjey te care se baabayze.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
+Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+ChiTonga (Translation)	Nkuku, Joongola	id=18643
+CiNyanja (Translation)	Nkuku Na Bongololo	id=18661
+English (Translation)	Chicken and Millipede	id=9094
+French (Translation)	La Poule Et Le Millepatte	id=9959
+French (Translation)	Poulet Et Mille-Pattes	id=10145
+Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
+Gurene (Translation)	Nͻbila La Katagune	id=12663
+Hausa (Translation)	Kaza Da	id=9977
+isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
+isiXhosa (Translation)	Unkukhu  Nosongololo	id=17517
+isiZulu (Translation)	Unkukhu Noshongololo	id=13535
+isiZulu (Adaptation)	Unkukhu Noshongololo	id=17452
+Kanuri (Translation)	Kuwui-a Dǝngaɍi-A	id=10039
+Kinyarwanda (Translation)	Inkoko Na Magurijana	id=17457
+Lámnsoʼ (Translation)	Ŋgvəv Wun Ŋgom	id=16444
+Likpakpaanl (Translation)	Ukↄla Ni Gonlgonl	id=18776
+Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
+Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
+Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Portuguese (Translation)	O Frango E O Gongolo	id=16099
+Portuguese (Translation)	Galinha E Milípede	id=16477
+Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
+Sepedi (Translation)	Chicken and Millipede	id=11485
+Sepedi (Translation)	Kgogo Le Legokolodi	id=12410
+Sesotho (S.Africa) (Translation)	Kgoho Le Lefokolodi	id=14434
+Setswana (Translation)	Koko Le Sebokolodi	id=13973
+SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
+siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Tshivenda (Translation)	Khuhu Na Dongololo	id=14731
+Xitsonga (Translation)	Huku Na Khongoloti	id=14408

@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=19362&d=0&a=1
+id:	19362
+title:	Mtende
+author:	Translators without Borders and Monica Shank
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19362.png
+desc:	Msimulizi wa hadithi kutoka Turkana anatufundisha kuhusu umuhimu na matumizi ya mtende.
+
+page_text:
+
+P1	Hebu nikueleze kuhusu mtende.
+P2	Mtende ni mmea wa kudumu. Unaweza kusitawi wakati mimea yote mingine imekauka.
+P3	Kivuli cha mtende kina upepo mzuri.
+P4	Tunakula matunda ya mtende.
+P5	Tunatumia majani ya mtende kuezeka nyumba zetu.
+P6	Tunatengeneza fagio na kusuka mikeka kwa kutumia majani ya mtende.
+P7	Tunatumia nafaka zake kupika.
+P8	Sasa umefahamu kwa nini mtende ni muhimu sana?
+
+images:
+
+illustrations/pages/9607.png
+illustrations/pages/9604.png
+illustrations/pages/9605.png
+illustrations/pages/9606.png
+illustrations/pages/9607.png
+illustrations/pages/9608.png
+illustrations/pages/9609.png
+illustrations/pages/9610.png
+illustrations/pages/9611.png
+
+translations:
+
+English (Translation)	Palm Tree	id=13626
+Kiswahili (Translation)	Mtende	id=15864
+Kiswahili (Adaptation)	Mtende	id=19355
+Kiswahili (Adaptation)	Mtende	id=19364
+Ng’aturkana (Original)	Eking’Ol	id=13625

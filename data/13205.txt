@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=13205&d=0&a=1
+id:	13205
+title:	Germinating Seed
+author:	Cissy Namugerwa
+artist:	Mlungisi Dlamini and Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13205.png
+desc:	The stages through which a bean seed germinates and how it is prepared in different ways.
+
+page_text:
+
+P1	Omulandira gwe gusoka okumera. Germination is the development of a seed into a seedling.
+P2	Gumerera mu ttaka. The cotyledons come out and the roots remain in the soil.
+P3	Ekikolo kye kiddako okumera. Kitutunuka kyolekera enjuba. The stem and small leaves aim at the sun.
+P4	Ebikoola ebisooka bifuluma. The first two leaves come out.
+P5	Ekimera ky'ekijanjaalo kikula ne kiwanvuyira ddala. The bean seedling grows tall.
+P6	Oluvanyuma kimulisa (kireeta ebimuli). Ebimuli bifuukamu ebijanjaalo. Later, the seedling bears flowers and pods.
+P7	Mu kijanjaalo mubeeramu ensigo nnyingi. The pods have many seeds.
+P8	Oluvannyuma lw'essabitii munaana ebijanjjalo biba bituuse okulya. After eight weeks, beans are ready to eat and sale.
+P9	Oluusi tulya by'ampogola, oba magera oba katogo. Beans can be cooked in different ways. Ebijjanjalo mmere ezimba emibiri gyaffe. Beans are body building food.
+
+images:
+
+illustrations/pages/1824.png
+illustrations/pages/1826.png
+illustrations/pages/1827.png
+illustrations/pages/1828.png
+illustrations/pages/1829.png
+illustrations/pages/1824.png
+illustrations/pages/1832.png
+illustrations/pages/1833.png
+illustrations/pages/6194.png
+illustrations/pages/12945.png
+
+translations:
+
+Afrikaans (Translation)	'n Boontjiesaad	id=11127
+Afrikaans (Translation)	Hoe Groei 'n Boontjie ?	id=11129
+Aringati (Translation)	Mãrágĩ Drí Ángápí Ángárĩ	id=9275
+English (Original)	The Sprouting Bean	id=2257
+French (Translation)	Le Haricot Qui Germe	id=12700
+Kakwa (Translation)	Teyikota Lo Pupuu Ilo	id=9055
+Kikamba (Translation)	Mboso Ikumea	id=2403
+Kiswahili (Translation)	Maharagwe Yanayomea	id=2405
+Leblango (Translation)	Oraŋŋa Tye a Yabërë	id=11740
+Luganda (Translation)	Ekijanjaalo Ekimera	id=2406
+Lugbarati (Translation)	Kaiko Engapi Enga Ri	id=2980
+Lugbarati (Official) (Translation)	Kaíkó Engápɨ Engárɨ̀	id=8766
+Maa (Translation)	Embúlúnotó É Empóóshóí	id=2414
+Ng’aturkana (Translation)	Emarage Lokajupunan	id=2411
+Oluwanga (Translation)	Linakanda Lisebushe	id=2412
+Setswana (Translation)	Nawa E E Thunyang	id=2413

@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=16453&d=0&a=1
+id:	16453
+title:	አባት እና ልጅ
+author:	መዘምር ግርማ
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16453.png
+desc:	ልጆች ሁልጊዜ አዋቂዎች የሚነግሯቸውን ማድረግ አለባቸውን?
+
+page_text:
+
+P1	አየለ የሚባል ሰው ነበር፡፡There was a man called Ayele
+P2	ይህ ሰው ልጅ ነበረው፡፡ የልጁም ስም ታሪኩ ይባል ነበር፡፡This man had a son. The son's name was Paul
+P3	አንድ ቀን ሰውዬው ለልጁ ''ሽርሽር እንውጣ'' አለው፡፡One day Ayele said to his son,  "Let's go for a walk"
+P4	በመንገዳቸውም ላይ አንድ ቆንጆ ሻንጣ አዩ፡፡ ሙሉውን ነበር፡፡On the way,  they saw a very nice suitcase. It was packed full
+P5	ሰውዬው በጣም ተደሰተ፡፡ ለልጁም ''አንሳውና ወደ ቤታችን እንወስደዋለን'' አለው፡፡The man got very excited. He said to his son,  "Pick it up and we will take it home"
+P6	ልጅዬውም አባትዬው ያዘዘውን አደረገ፡፡ ታሪኩ ሻንጣውን ራሱ ላይ ተሸከመ፡፡The son did what the father told him to do. Paul put the suitcase on his head and carried it
+P7	ወደቤት በመሄድ ላይም ሳሉ እባብ ከሻንጣው ብቅ አለ፡፡ በታሪኩ እግርም ላይ አረፈ፡፡On the way home,  a snake slithered out of the suitcase. It landed on Paul's feet!
+P8	አባትና ልጅ በጣም ፈሩ፡፡ ታሪኩ ሻንጣውን ጣለው፡፡ በፍጥነት ሮጠው አመለጡ!Father and son were both very scared. Paul dropped the suitcase. They ran away very fast!
+
+images:
+
+illustrations/pages/10082.png
+illustrations/pages/10081.png
+illustrations/pages/10082.png
+illustrations/pages/10083.png
+illustrations/pages/10084.png
+illustrations/pages/10085.png
+illustrations/pages/10087.png
+illustrations/pages/10086.png
+illustrations/pages/10088.png
+
+translations:
+
+Amharic (Translation)	አባተ አእነና ለልጀጅ	id=16452
+French (Translation)	Père Et Fils	id=13273
+Luganda (Original)	Father and Son	id=10439
+Portuguese (Translation)	O Pai E O Filho	id=16580
+Setswana (Translation)	Rre Le Morwa Wa Gagwe	id=14955

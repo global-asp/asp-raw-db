@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=2957&d=0&a=1
+id:	2957
+title:	Lelapa La Me
+author:	Lorato Trok
+artist:	Kathy Arbuckle
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2957.png
+desc:	Se ke ka mefuta e e farologaneng ya dibuka e ba lelapa la me ba di buisang.
+
+page_text:
+
+P1	Nnake o buisa buka ya sekolo.
+P2	Mme o buisa Beibele.
+P3	Kgaitsediaka o buisa buka ya go apaya.
+P4	Malome o buisa koranta.
+P5	Nkoko o buisa makasine.
+P6	Kgaitsediaka o monnye o buisa buka ya ditshwantsho.
+P7	Nna ke buisa buka e.
+P8	Gaufinyane ke tla be ke itse go buisa sengwe le sengwe!
+
+images:
+
+illustrations/pages/1791.png
+illustrations/pages/1630.png
+illustrations/pages/1631.png
+illustrations/pages/1632.png
+illustrations/pages/1633.png
+illustrations/pages/1634.png
+illustrations/pages/1635.png
+illustrations/pages/1636.png
+illustrations/pages/1637.png
+
+translations:
+
+Aringati (Translation)	Lị́cọ́ Ãmadrị̂	id=7531
+Ateso (Translation)	Ekale Koosi	id=2946
+English (Original)	My Family	id=1792
+Kikamba (Translation)	Musyi Wakwa	id=2951
+Luganda (Translation)	Abantu B'ewaka	id=2952
+Lumasaaba (Translation)	Be Muungo Mweefwe	id=2954
+Lusoga (Translation)	Abomumaka Gange	id=2955
+Olukhayo (Translation)	Ifamili  Yanje	id=2953
+Oluwanga (Translation)	Oluyia Lwanje	id=2956

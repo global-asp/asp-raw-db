@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=19401&d=0&a=1
+id:	19401
+title:	Mbuni Na Simba
+author:	Susan Kavaya
+artist:	Brian Wambi
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19401.png
+desc:	Mbuni anamwamini rafiki yake Simba bila kujua mipango ya Simba kuwahusu watoto wake.
+
+page_text:
+
+P1	Mbuni na Simba walikuwa marafiki sana. Wote wawili walikuwa na watoto wachanga.
+P2	Mbuni aliwalisha watoto wake vizuri.
+P3	Watoto wa Simba hawakupata chakula cha kutosha.
+P4	Simba aliwaangalia vifaranga na kuwaza,  "Hawa ni wazuri! Natamani wangekuwa wangu!"
+P5	Wakati Mbuni alikuwa hayupo,  Simba aliwachukua watoto wa Mbuni akaenda nao nyumbani kwake.
+P6	Mbuni alirudi na kupata watoto wa Simba nyumbani kwake. Alilia,  "Watoto wangu wako wapi?"
+P7	Mbuni alikimbia nyumbani kwa Simba akawapata wanawe wakiwa na Simba.
+P8	Simba alikataa kuwarudisha watoto wa Mbuni. Alisema,  "Hawa ni wangu sasa. Unaweza kuwachukua watoto wa simba."
+P9	Mbuni alikasirika sana. "Nitafanya nini ili niweze kupata watoto wangu?" alijiwazia.
+P10	Halafu alifikiri,  "Ninajua nitakachokifanya. Nitawaita wanyama wote kwa mkutano."
+P11	Wanyama walikubali kukutana.
+P12	Tembo aliwauliza Mbuni na Simba kuzungumza.
+P13	Wanyama wengi waliogopa kumlaumu Simba.
+P14	Mwishowe,  Kindi alisimama na kusema,  "Watoto ambao wanafanana na ndege ni wa Mbuni. Watoto ambao wana mikia ni wa Simba jike."
+P15	Kindi alitorokea ndani ya tundu. Wanyama wote walishangilia.
+P16	Simba alikasirika sana. Alienda nyumbani na watoto wake.
+
+images:
+
+illustrations/pages/19205.png
+illustrations/pages/19195.png
+illustrations/pages/19196.png
+illustrations/pages/19197.png
+illustrations/pages/19198.png
+illustrations/pages/19199.png
+illustrations/pages/19200.png
+illustrations/pages/19201.png
+illustrations/pages/19202.png
+illustrations/pages/19203.png
+illustrations/pages/19204.png
+illustrations/pages/19205.png
+illustrations/pages/19206.png
+illustrations/pages/19207.png
+illustrations/pages/19208.png
+illustrations/pages/19209.png
+illustrations/pages/19210.png
+
+translations:
+
+English (Translation)	Ostrich and Lioness	id=19292
+Ng’aturkana (Original)	Ekales Ka Ng’Atuny	id=19211
+Ng’aturkana (Translation)	Kales Ka Ng’Atuny	id=19212

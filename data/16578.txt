@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=16578&d=0&a=1
+id:	16578
+title:	I Love Forests
+author:	Gertrude Kobusinge
+artist:	Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16578.png
+desc:	In Kibale forest we meet different species of birds
+
+page_text:
+
+P1	I love forests!
+P2	Last week I went to Kibale forest.
+P3	I saw many trees. I saw Fig,  Muvule,  Palm,  and Ebony trees.
+P4	I saw chimpanzees,  baboons,  and monkeys.
+P5	I saw different birds. I saw crested cranes,  eagles,  and owls.
+P6	I laughed when I saw a big elephant with a little tail.
+P7	I saw so many different animals,  birds,  and plants.
+
+images:
+
+illustrations/pages/16540.png
+illustrations/pages/16577.png
+illustrations/pages/16539.png
+illustrations/pages/16544.png
+illustrations/pages/16541.png
+illustrations/pages/16543.png
+illustrations/pages/16542.png
+illustrations/pages/16540.png
+
+translations:
+
+Rutooro (Original)	Ngonza Ebibira	id=16545

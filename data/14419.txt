@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=14419&d=0&a=1
+id:	14419
+title:	Bi Simu
+author:	Ursula Nafula
+artist:	Marion Drew
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14419.png
+desc:	Bi Simu ni mhusika wa kiajabu! Je
+
+page_text:
+
+P1	Anaitwa Bi Simu. Mwangalie!
+P2	Ana simu tano. Akiamka,  anazipanga simu zake tano juu ya meza.
+P3	Ya manjano ni ya kuwasiliana na watu wa familia yake.
+P4	Ile nyeupe ni ya kuwasiliana na wenzake kazini.
+P5	Bali ile nyekundu ni ya kuwasiliana na wale walio na madeni yake.
+P6	Nayo ile ya wardi ni ya kuwasiliana na marafiki zake wa dhati.
+P7	Ile ya kizambarau anaitumia kuwasiliana na watu wanaohitaji msaada wake.
+P8	Bi Simu hupenda watu kufurahi. Hapendi ugomvi wala vita.
+P9	Huwaalika watoto kuangalia runinga katika duka lake.
+P10	Huwatembelea wagonjwa na wazee katika nyumba zao.
+P11	Kila apitapo,  kuna mayowe ya,  "Bi Simu! Bi Simu!"
+P12	Naye hufurahia na kusema,  "Mimi ni Bi Simu na hizi simu zangu ziangalieni!" Huyo ni Bi Simu na simu zake tano.
+
+images:
+
+illustrations/pages/10053.png
+illustrations/pages/10048.png
+illustrations/pages/10049.png
+illustrations/pages/10050.png
+illustrations/pages/10051.png
+illustrations/pages/10052.png
+illustrations/pages/10053.png
+illustrations/pages/10054.png
+illustrations/pages/10055.png
+illustrations/pages/10056.png
+illustrations/pages/10057.png
+illustrations/pages/10058.png
+illustrations/pages/10059.png
+
+translations:
+
+Dhopadhola (Translation)	Nya Simu	id=15765
+English (Translation)	Ms Phone	id=14420
+French (Translation)	Mme Téléphone !	id=14969
+Kinyarwanda (Translation)	Nyiramaterefone	id=17468
+Portuguese (Translation)	Menina Telefone	id=17046
+Setswana (Translation)	Mma Mogala	id=14939

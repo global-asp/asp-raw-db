@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=14420&d=0&a=1
+id:	14420
+title:	Ms Phone
+author:	Ursula Nafula
+artist:	Marion Drew
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14420.png
+desc:	Ms Phone is quite a character! Can you imagine having five phones
+
+page_text:
+
+P1	She is called Ms Phone. Look at her!
+P2	She has five cellphones. When she wakes up,  she arranges her cellphones on the table.
+P3	The yellow one is for communicating with family.
+P4	The white one is for communicating with people at work.
+P5	The red one is for communicating with those who owe her something.
+P6	The pink one is for communicating with her best friends.
+P7	The purple one is for communicating with people who need her help.
+P8	Ms Phone likes people to be happy. She does not like fighting.
+P9	She lets the children watch television at her shop.
+P10	She visits the sick and the elderly in their homes.
+P11	When she passes,  there are shouts of "Ms Phone! Ms Phone!"
+P12	Then she feels happy and says,  "I am Ms Phone. Here,  look at my phones!" That is Ms Phone and her five cellphones.
+
+images:
+
+illustrations/pages/10053.png
+illustrations/pages/10048.png
+illustrations/pages/10049.png
+illustrations/pages/10050.png
+illustrations/pages/10051.png
+illustrations/pages/10052.png
+illustrations/pages/10053.png
+illustrations/pages/10054.png
+illustrations/pages/10055.png
+illustrations/pages/10056.png
+illustrations/pages/10057.png
+illustrations/pages/10058.png
+illustrations/pages/10059.png
+
+translations:
+
+Dhopadhola (Translation)	Nya Simu	id=15765
+French (Translation)	Mme Téléphone !	id=14969
+Kinyarwanda (Translation)	Nyiramaterefone	id=17468
+Kiswahili (Original)	Bi Simu	id=14419
+Portuguese (Translation)	Menina Telefone	id=17046
+Setswana (Translation)	Mma Mogala	id=14939

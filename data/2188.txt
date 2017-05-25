@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=2188&d=0&a=1
+id:	2188
+title:	Red
+author:	Reviva Schermbrucker
+artist:	Sue Kramer
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2188.png
+desc:	Sentences with photographs of everyday red objects.
+
+page_text:
+
+P1	Mama is filling a red bucket.
+P2	Abongile is playing with a red truck.
+P3	Deon is holding red flowers.
+P4	Aunty is wearing a red jersey.
+P5	There is a red sun above Grandpa.
+P6	There is a red scooter parked in the street.
+P7	A red lizard is on Babalwa's lap.
+P8	A red fire engine is at the fire station.
+P9	Here is Sibahle wearing a red top.
+P10	She is trying on red boots.
+P11	They don't fit!
+
+images:
+
+illustrations/pages/1761.png
+illustrations/pages/1762.png
+illustrations/pages/1763.png
+illustrations/pages/1764.png
+illustrations/pages/1765.png
+illustrations/pages/1766.png
+illustrations/pages/1767.png
+illustrations/pages/1768.png
+illustrations/pages/1769.png
+illustrations/pages/1770.png
+illustrations/pages/1771.png
+illustrations/pages/1772.png
+
+translations:
+
+isiXhosa (Translation)	Umbala Obomvu	id=2750
+Kikamba (Translation)	Langi Mutune	id=2751
+Lugbarati (Translation)	Afa Eka ‘Diyi	id=10476
+Maa (Translation)	Enadó	id=2983
+Ng’aturkana (Translation)	Niareng’An	id=2752

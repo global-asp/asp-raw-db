@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=5423&d=0&a=1
+id:	5423
+title:	Uzula Imfene Ethanda Ukujayiva
+author:	Nonhlanhla Mathebula
+artist:	Sean Whitehead
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/5423.png
+desc:	UZula imfene akafuni ukudla izithelo. Ngelinye ilanga
+
+page_text:
+
+P1	UZula yimfene edangele. Umama wakhe umxoshile ekhaya.
+P2	Yingakho uZula edangele. Ngalokho akazukuwudla ubhanana wakhe.
+P3	UZula ukhathele. Akazukuzidla izithelo zakhe.
+P4	UZula uwe emthini ngesikhathi elele. Washaya phansi. Bhaxa!
+P5	Nhlangothi zonke eduze kukaZula amahlathi ayanyakaza. UZula akana namandla okubaleka noma okugibela emthini.
+P6	UZula wethuka kakhulu! Kodwa bekuyi-apula liwa lisuka emthini.
+P7	UZula walidla i-apula. Wabe esesuka egijima,  wagijima waze wangabe esakwazi.
+P8	Akazanga ukuthi ugijima nje uyakuphi. Inye nje into ebeyazi,  ukuthi kufanele agijime.
+P9	Ekugcineni wafika ebaleni lapho ayengaphumula khona. Wabe esedla izithelo eziningi ukuze athole amandla.
+P10	UZula wabe esenamandla ngokudla izithelo eziningi. Waqala ukujayiva.
+P11	UZula waqala ukwenza umbungazo ejayivela zonke izilwane. Ngaphambili nangemuva kombungazo ubenokudla izithelo ukuthola amandla.
+P12	Loko kwamenza umjayivi wodumo.
+
+images:
+
+illustrations/pages/4443.png
+illustrations/pages/4444.png
+illustrations/pages/4445.png
+illustrations/pages/4446.png
+illustrations/pages/4447.png
+illustrations/pages/4448.png
+illustrations/pages/4449.png
+illustrations/pages/4450.png
+illustrations/pages/4452.png
+illustrations/pages/4453.png
+illustrations/pages/4454.png
+illustrations/pages/4455.png
+illustrations/pages/4457.png
+
+translations:
+
+English (Original)	Mape the Dancing Ape	id=5291
+isiZulu (Translation)	Umandla Inkawu Yomdanso	id=7480

@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=2401&d=0&a=1
+id:	2401
+title:	Basooleli Babili Be Ntsala
+author:	Cornelius Wekunya
+artist:	Bronwen Heath
+lang:	Lumasaaba
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2401.png
+desc:	Lukano luno luwaamba khu khubala. Balilila umanye tsikeeki tseenga tseesi Wanda ni Wantsala baalya
+
+page_text:
+
+P1	Wantsala ni Wanda bali basooleli babili be ntsala.
+P2	Kuukhu ali khuukhola tsikeeki likhumi watsireere khu sowaani.
+P3	Wantsala waabukulakho ikeeki indwela ne Wanda waabukulakho tsibili.
+P4	Wantsala waabukula tsitsiindi tsine. Wanda naye waabukula tsibili.
+P5	Wantsala alya tsikeeki tsenga? Ne Wanda alya tsenga? Balekhela kuukhu tsenga?
+
+images:
+
+illustrations/pages/1717.png
+illustrations/pages/1717.png
+illustrations/pages/1718.png
+illustrations/pages/1719.png
+illustrations/pages/1720.png
+illustrations/pages/1799.png
+
+translations:
+
+Aringati (Translation)	Ãbị́rị́ Ndẽ Anzị Ị̃rị̃ Kí Rá	id=7528
+Ateso (Translation)	Isap Iyarei Lu Eyarit Etengei	id=2999
+English (Original)	Two Hungry Boys	id=1800
+Lubukusu (Translation)	Basoleli Babili Be Njala	id=2399
+Luganda (Translation)	Abalenzi Ababiri Abayala	id=2400
+Lugbarati (Translation)	Anzi Iri Abiri Ni Nde Ra `diyi	id=2719
+Lugbarati (Official) (Translation)	Anzɨ Ìrì Àbírí Nɨ́ Fulé Káyɨ̀ 'dɨ̀yɨ	id=8800
+Lunyole (Translation)	Abaseere Babiri Abayala	id=2402

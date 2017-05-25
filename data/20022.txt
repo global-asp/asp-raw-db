@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=20022&d=0&a=1
+id:	20022
+title:	Kiumbe Kilicho Na Viwili
+author:	Ursula Nafula
+artist:	
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20022.png
+desc:	Familia ya Izinzawu inakutana na kiumbe cha ajabu.
+
+page_text:
+
+P1	Familia ya Izinzawu ilikuwa yenye furaha. Binti wao wawili walijifunza kupika na kutunza bustani
+kutoka kwa mama yao.
+P2	Kila walipokula chakula cha jioni, waliongea kuhusu waliyotenda siku hiyo.
+P3	Baba aliwaonya wanawe kutoingia ndani ya msitu
+kabisa. Aliwaambia kuhusu kiumbe cha ajabu kilichoishi katika msitu huo. Alisema, "Kiumbe hicho ni kama sisi wawili pamoja!"
+P4	Siku moja, wasichana wale walikuwa wakicheza karbibu na mto. Waliuzunguka mti, na ghafla, walikabiliana na kiumbe cha ajabu! Kiumbe hicho kilikuwa na macho mawili, mapua mawili, viganja viwili na mikono miwili.
+P5	Wakitetemeka kwa woga, walikimbia kuwaeleza ndugu zao walichokuwa wameona. Hata hivyo, wavulana hao hawakuwaamini, "Ni ujinga wa wasichana tu!"  walisema.
+P6	Mwishowe, hamu iliwazidi. Wavulana hao waliwafuata dada zao wakaelekea mtoni ili kujionea wenyewe kiumbe hicho cha ajabu.
+P7	Walitafuta na kutafuta lakini waliona nyasi 
+ndefu na miti peke yake. Ghafla, walisikia kelele, wakatazama juu.
+P8	Juu ya mti walikiona kiumbe cha ajabu wasichokuwa wameona tangu. Kilikuwa na macho mawili, mapua mawili, viganja viwili na mikono miwili. Kila sehemu ya mwili ilikuwa mbili mbili kinyume na wao waliokuwa na kimoja pekee.
+P9	Watoto hao waliogopa, walikimbia kuwaambia wazazi wao. Muda mfupi baadaye, familia nzima ilikuwa pale mtoni kukichunguza kiumbe hicho cha ajabu.
+P10	"Msiniumize!"  kiumbe hicho kilisema, huku kikijificha nyuma ya mti. Wakati huo, familia iliweza kuona mguu mmoja, kiganja kimoja, mkono mmoja na jicho moja pekee.
+P11	"Mimi ni kama ninyi tu," kiumbe hicho kiliendelea kusema. "Tofauti kati yangu nanyi ni kwamba niliumbwa na mbili mbili ya kila sehemu ya mwili."
+P12	Hivyo ndivyo familia ya Izinzawu iligundua kwamba kiumbe hicho hakikuwa cha kuogopwa. Ilikuwa tu hali tofauti kutoka kwao.
+
+images:
+
+illustrations/pages/19458.png
+illustrations/pages/19455.png
+illustrations/pages/19456.png
+illustrations/pages/19457.png
+illustrations/pages/19458.png
+illustrations/pages/19459.png
+illustrations/pages/19460.png
+illustrations/pages/19461.png
+illustrations/pages/19462.png
+illustrations/pages/19463.png
+illustrations/pages/19464.png
+illustrations/pages/19465.png
+illustrations/pages/19466.png
+
+translations:
+
+English (Original)	Creature With Two	id=19467
+isiZulu (Translation)	Izinzawu	id=19468

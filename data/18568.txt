@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=18568&d=0&a=1
+id:	18568
+title:	Palisa Ulata Licalo
+author:	Limbali Muyendekwa
+artist:	Jesse Pietersen
+lang:	SiLozi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18568.png
+desc:	Palisa ubulela ni likota
+
+page_text:
+
+P1	Yo ki Palisa. Libizo la hae litalusa Palisa mwamushobo wa hae,  wa Setswana.
+P2	Kakusasani Palisa ubulela kota olenji. "Wena Kota ya Olenji,  lufe ma olenji amang'ata."
+P3	Palisa uya kwa sikolo. Mwanzila ubulelela bucwani,  "Wena bucwani,  ula butala'gilini' nikusaoma."
+P4	Palisa ubona lipalisa zeimelezi. "Mina lipalisa lwaitumela kwa kubenya kwa mibala yamina."
+P5	Kwa sikolo Palisa ubulela nikota yesikaula. "Wena kota,  uhule nimitai yemituna kuli luno balelelanga mwatasi ya hao."
+P6	Palisa ubulela nilukwakwa 'lapa' yetingulukile sikolo sa hae. "Uhule nimata kuli utibele batu baba maswe kukena mwa hali."
+P7	Cwale Palisa akutela kwandu kuzwa kwa sikolo,  uyopotela kota ya olonji. "Kuli ma olonji ahao abuzwize?" abuza Palisa.
+P8	"Maolonji asana nibutala kappa kusabuzwa," abuyela Palisa.  "Lukakubona kamuso wena kota ya maolonji," abulela cwalo. "Mwendi kono ukaba ni olonji yebuzwize yaka!"
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+ChiTonga (Translation)	Palesa Ulayanda Zisamu	id=18641
+CiNyanja (Translation)	Palesa Akonda Mitengo Na Maluwa	id=18610
+IciBemba (Translation)	Palesa Alitemwa Ifimenwa	id=18585
+isiZulu (Translation)	Upalesa Uthanda Izitshalo	id=16092
+Sepedi (Translation)	Palesa O Rata Dimela	id=18994
+Xitsonga (Translation)	Palesa U Rhandza Swimilana	id=18862

@@ -1,0 +1,31 @@
+url:	http://africanstorybook.org/reader.php?id=14538&d=0&a=1
+id:	14538
+title:	ውኃ ፍለጋ
+author:	Misraq Wondale and መዘምር ግርማ
+artist:	Hélder de Paz Alexandre
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14538.png
+desc:	ይህ መጽሀፍ ቀዝቃዛ ውሀ ስለምትፈልግ እንቁራሪት ነው፡፡
+
+page_text:
+
+P1	 ውኃ ከየት አገኛለሁ?
+P2	ትንሽ ውኃ  ማሰሮ ውስጥ አለ፡፡
+P3	ይፋጃል፡፡
+P4	ይህ ውኃ ቀዝቃዛ ሊሆን ይችላል፡፡
+
+images:
+
+illustrations/pages/7821.png
+illustrations/pages/7819.png
+illustrations/pages/7074.png
+illustrations/pages/7076.png
+illustrations/pages/7075.png
+
+translations:
+
+English (Original)	Looking for Water	id=7667
+Luganda (Translation)	Okunoonya Amazzi	id=7671
+Zande (Translation)	Gera Tipa Ime	id=17450

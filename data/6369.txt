@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=6369&d=0&a=1
+id:	6369
+title:	Fruits
+author:	Ritah Katetemera
+artist:	Wiehan de Jager and Catherine Groenewald
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/6369.png
+desc:	Fruit is good for us. People
+
+page_text:
+
+P1	Fruits,  fruits,  fruits.
+P2	Fruit is sweet to eat.
+P3	People eat different types of fruits.
+P4	One may eat mangoes,  another may eat pineapples.
+P5	We also enjoy oranges.
+P6	Children enjoy apples.
+P7	Birds enjoy corn.
+P8	Oh fruits are good for health. People,  animals and birds like fruits so much.
+
+images:
+
+illustrations/pages/6198.png
+illustrations/pages/6212.png
+illustrations/pages/6198.png
+illustrations/pages/6223.png
+illustrations/pages/6218.png
+illustrations/pages/6205.png
+illustrations/pages/6212.png
+illustrations/pages/6204.png
+illustrations/pages/6205.png
+
+translations:
+

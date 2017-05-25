@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=16579&d=0&a=1
+id:	16579
+title:	O Nariz Do Elefante
+author:	Translators without Borders and Debora Santos
+artist:	Wiehan de Jager
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16579.png
+desc:	Como o elefante passou a ter uma tromba longa. (Uma versão reduzida da história O Curioso Bebê Elefante.)
+
+page_text:
+
+P1	Todos sabem que os elefantes têm narizes longos.
+P2	Mas a muito tempo atrás,  o nariz do elefante era curto e gordo.
+P3	Nasceu uma bebê elefante. Ela era muito curiosa. Sempre tinha uma pergunta para todos os animais.
+P4	Ela era muito curiosa sobre a Girafa. "Por que você tem um pescoço longo?" ela perguntou.
+P5	Ela era muito curiosa sobre o Rinoceronte. "Por que o seu chifre tem uma ponta afiada?" ela perguntou.
+P6	Ela era muito curiosa sobre o Crocodilo. "O que os crocodilos comem no jantar?" ela perguntou.
+P7	O Corvo esperto logo disse,  "Siga-me até o rio. Lá você verá o que os crocodilos comem no jantar."
+P8	Assim,  a Bebê Elefante seguiu o Corvo até o rio.
+P9	Ela afastou o junco e parou em pé na margem.  Olhou para a água. Onde estava o Crocodilo?
+P10	"Olá",  disse um pedra próxima à margem do rio. "Olá",  disse a Bebê Elefante. "Você pode me dizer o que os crocodilos comem no jantar?" ela perguntou.
+P11	"Chegue mais perto e vou lhe contra",  disse a pedra. A Bebê Elefante se curvou. "Chegue mais perto",  disse a pedra. A Bebê Elefante se curvou mais ainda.
+P12	De repente! Nhac! O Crocodilo agarrou o nariz da Bebê Elefante com sua mandíbula.
+P13	A Bebê Elefante foi para trás com suas pernas fortes e puxou. E puxou,  e puxou. Mas o Crocodilo não soltava o nariz dela.
+P14	O nariz da Bebê Elefante esticou e esticou. E esticou. Até que ela caiu para trás. "Dufff!"
+P15	O nariz curto da Bebê Elefante esticou e transformou-se em um nariz comprido.
+P16	O nariz dela era tão longo que conseguia pegar as frutas dos galhos altos. E depois desse dia,  todos os elefantes têm trombas longas e úteis.
+
+images:
+
+illustrations/pages/1110.png
+illustrations/pages/1111.png
+illustrations/pages/1112.png
+illustrations/pages/1110.png
+illustrations/pages/1113.png
+illustrations/pages/1114.png
+illustrations/pages/1116.png
+illustrations/pages/1118.png
+illustrations/pages/1119.png
+illustrations/pages/1120.png
+illustrations/pages/1121.png
+illustrations/pages/1122.png
+illustrations/pages/1123.png
+illustrations/pages/1124.png
+illustrations/pages/1125.png
+illustrations/pages/1882.png
+illustrations/pages/1127.png
+
+translations:
+
+Dhopadhola (Translation)	Umi Liec	id=15737
+English (Translation)	Elephant's Nose	id=15093
+Oluwanga (Adaptation)	Omwana We Inzofu	id=19800
+Tunisian (Translation)	Xcem Il-Fìle	id=15220
+Yoruba (Translation)	Imú Eerin	id=16558

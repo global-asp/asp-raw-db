@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=5291&d=0&a=1
+id:	5291
+title:	Mape the Dancing Ape
+author:	Sean Whitehead
+artist:	Sean Whitehead
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/5291.png
+desc:	Mape the ape doesn’t want to eat fruit. His life changes when one day he learns that fruit is good for him and gives him energy.
+
+page_text:
+
+P1	Mape is a sad ape. Mape's mom sent him away from home.
+P2	Mape is very sad. And he will not eat his bananas.
+P3	Mape is very tired. But he will not eat his fruit.
+P4	Mape fell out a tree while he was sleeping. He hit the ground. BOOM!
+P5	Everywhere around Mape the bushes were moving. Mape did not have the energy to run away or climb a tree.
+P6	Mape was so scared! But then an apple fell from a tree.
+P7	Mape ate the apple. Then he ran and ran,  until he could not run anymore.
+P8	He did not know where he was running to. He just knew he had to get away from the bushes!
+P9	Mape finally got to a field where he could rest. He ate many fruits to get energy.
+P10	Mape had a lot of energy from eating fruit. He started to dance.
+P11	Mape began a dancing show for all the animals. Before and after the show he would always eat fruit to get energy.
+P12	The show was very good. Even the king of the jungle came to watch the show.
+P13	That is how Mape became the happy,  dancing ape.
+
+images:
+
+illustrations/pages/4443.png
+illustrations/pages/4444.png
+illustrations/pages/4445.png
+illustrations/pages/4446.png
+illustrations/pages/4447.png
+illustrations/pages/4448.png
+illustrations/pages/4449.png
+illustrations/pages/4450.png
+illustrations/pages/4452.png
+illustrations/pages/4453.png
+illustrations/pages/4454.png
+illustrations/pages/4455.png
+illustrations/pages/4456.png
+illustrations/pages/4457.png
+
+translations:
+
+isiZulu (Translation)	Uzula Imfene Ethanda Ukujayiva	id=5423
+isiZulu (Translation)	Umandla Inkawu Yomdanso	id=7480

@@ -1,0 +1,69 @@
+url:	http://africanstorybook.org/reader.php?id=11990&d=0&a=1
+id:	11990
+title:	Hamisi's Lucky Day
+author:	Adelheid Marie Bwire
+artist:	Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11990.png
+desc:	Hamisi sees a boy at the market wearing an attractive green shirt. Will Hamisi be able to persuade his father to buy him the same shirt?
+
+page_text:
+
+P1	Hamisi needs a new school uniform. His dad takes him to the market.
+P2	Hamisi sees a boy wearing a beautiful shirt. "That is a very fine shirt," thinks Hamisi.
+P3	"Dad,  I wish I had a shirt like that boy," says Hamisi.
+P4	"Look,  there are those beautiful shirts," says Hamisi. "Dad,  please buy one for me."
+P5	"Hamisi,  I have to buy your uniform," says dad.
+P6	"I do not have enough money for that shirt," says dad.
+P7	Hamisi's dad buys the uniform. He is surprised when he gets the change. He has enough money left over to buy a shirt!
+P8	It is Hamisi's lucky day! Which shirt will he choose?
+
+images:
+
+illustrations/pages/7976.png
+illustrations/pages/7966.png
+illustrations/pages/7967.png
+illustrations/pages/7968.png
+illustrations/pages/7969.png
+illustrations/pages/7972.png
+illustrations/pages/7973.png
+illustrations/pages/7975.png
+illustrations/pages/7976.png
+
+translations:
+
+Afrikaans (Translation)	Hamisi Se Gelukkige Dag	id=20058
+Akuapem Twi (Translation)	Da a Hamisi Tiri Yɛɛ Yiye	id=18460
+Asante Twi (Translation)	Ɛda a Hamisi Ti Yɛɛ Yie	id=18220
+ChiTonga (Translation)	Buzuba Bwacoolwe Bwa Hamisi	id=18637
+CiNyanja (Translation)	Siku La Mwayi La Hamisi	id=18625
+Dagaare (Translation)	Hamisi Zunoɔ Bebiri	id=17772
+Dagbani/Dagbanli (Translation)	Hamisi Zuɣ’Suŋ Dabsili	id=18151
+Dangme (Translation)	Hamisi Manye Ligbi	id=18298
+Ewe (Translation)	Hamisi Ƒe Dzɔgbenyuie Ŋkeke	id=18182
+Fante (Translation)	Hamisi Ne Tsir Nkwa Da	id=18490
+French (Translation)	Le Jour De Chance D’Hamisi !	id=13157
+Ga (Translation)	Gbi Ni Moi Heba Nii	id=18292
+Gonja (Translation)	Hamisi Be Kumu Lɛla Achɛ	id=18213
+IciBemba (Translation)	Ubushiku Hamisi Ashuukile	id=18582
+isiNdebele (Translation)	Isikipa Esihlaza Sakadumi	id=13807
+isiXhosa (Translation)	Imini Yethamsanqa Likahamisi	id=16476
+isiXhosa (Translation)	Imini Kahamisi Yamathamsanqa	id=17525
+isiZulu (Translation)	Usuku Lukahamisi Lwenhlanhla	id=16358
+Kasem (Translation)	Hamisi  Yuu-Ywoŋo Dɛ	id=18226
+Kinyarwanda (Translation)	Umunsi W'amahirwe Kuri Mugabo	id=17462
+Kiswahili (Original)	Hamisi Abahatika	id=8040
+Mampruli (Translation)	Hamisi Zugsuŋŋu Dabsiri	id=18849
+Ng’aturkana (Translation)	Ekeny Ka Hamisi	id=12951
+Nzema (Translation)	Hamisi Kenle Kpalɛ	id=18425
+Portuguese (Translation)	Dia De Sorte Do Hamisi	id=16564
+Sepedi (Translation)	Letšatši La Kagiso La Mahlatse	id=19008
+Sesotho (South Africa) (Translation)	Letsatsi La Tshepo La Lehlohonolo	id=20028
+Setswana (Translation)	Letsatsi La Ga Hamisi La Letlhogonolo	id=16594
+Setswana (Translation)	Letsatsi La Ga Kagiso La Letlhogonolo	id=17646
+SiLozi (Translation)	Lizazi La Litohonolo La Hamisi	id=18564
+siSwati (Translation)	Umfaniswano Wesikolo	id=13872
+Tshivenda (Translation)	Ḓuvha Ḽa Mashudu Ḽa Hamisi	id=18284
+Xitsonga (Translation)	Siku Ra Hamisi Ra Nkateko	id=18878

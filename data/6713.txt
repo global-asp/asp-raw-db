@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=6713&d=0&a=1
+id:	6713
+title:	Umazinyo Ushaka
+author:	Zimbili Dlamini
+artist:	Ethan Alberts
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/6713.png
+desc:	U-Oskha ushaka unenkinga yamehlo- akaboni kahle ukuze abambe izinhlanzi. Umngani wakhe oyihhashi lamanzi wamkhuthaza ukuthi adle izaqathi
+
+page_text:
+
+P1	UMazinyo unenkinga yamehlo. Akakwazi ukubona ezinye izinhlanzi.
+P2	Kepha akafuni ukudla isaqathi sakhe.
+P3	USivinini ihhashi lasolwandle wathi,  "Mazinyo,  yidla isaqathi sakho!"
+P4	UMazinyo akakuthandi ukunambitheka kwezaqathi.
+P5	"Izaqathi zizokusiza ekutheni ubone kahle, "Kusho uSivinini.
+P6	UMazinyo waya kudokotela. UMazinyo noSivinini bahlala balinda udokotela Shezi.
+P7	Udokotela uShezi wathi,  "izibuko zizokusiza ukuba ubone kangcono."
+P8	UMazinyo akafuni ukugqoka izibuko.
+P9	Kodwa izibuko zamsiza ukubona ezinye izinhlanzi. Manje udla izaqathi zakhe nezinye izinhlanzi!
+
+images:
+
+illustrations/pages/5292.png
+illustrations/pages/5293.png
+illustrations/pages/5294.png
+illustrations/pages/5295.png
+illustrations/pages/5296.png
+illustrations/pages/5297.png
+illustrations/pages/5298.png
+illustrations/pages/5299.png
+illustrations/pages/5300.png
+illustrations/pages/5301.png
+
+translations:
+
+English (Original)	Oscar the Shark	id=5303
+isiZulu (Translation)	Umazinyo Ushaka	id=7490

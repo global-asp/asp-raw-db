@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=17259&d=0&a=1
+id:	17259
+title:	Waxyar Iyo Waxweeyn
+author:	Abdirizack yussuf abdalla
+artist:	Vian Oelofsen
+lang:	Somali
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17259.png
+desc:	Read about things that can be small or big.
+
+page_text:
+
+P1	Aqal yar,  aqal weeyn.
+P2	Gamco yar,  gamco weeyn.
+P3	Ri yar,  ri weeyn.
+P4	Kitaab yar,  kitaab weeyn.
+P5	Farxad yar,  farxad badan.
+P6	The end.
+
+images:
+
+illustrations/pages/3048.png
+illustrations/pages/3057.png
+illustrations/pages/3049.png
+illustrations/pages/3050.png
+illustrations/pages/3051.png
+illustrations/pages/3052.png
+illustrations/pages/3053.png
+illustrations/pages/3054.png
+illustrations/pages/3055.png
+illustrations/pages/3048.png
+illustrations/pages/3056.png
+illustrations/pages/3059.png
+
+translations:
+
+English (Original)	Little and Big	id=3060
+English (Adaptation)	Small and Big	id=13556
+Kiswahili (Translation)	Kubwa Na Ndogo	id=15939
+Lunyole (Translation)	Ehitono N'ehibbala	id=13555
+Maa (Translation)	Enkití Ó Esápuk	id=3090
+Ng’aturkana (Translation)	Niichi Ka Niapolon	id=3091
+Oluwanga (Translation)	Akhatiiti Nende Okukhoongo	id=3092
+Tunisian (Translation)	Ṡɍìr W Kbìr	id=15278
+Zande (Translation)	Umba Na Bakere	id=16762

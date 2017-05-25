@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=18610&d=0&a=1
+id:	18610
+title:	Palesa Akonda Mitengo Na Maluwa
+author:	Bether Mwale Moyo
+artist:	Jesse Pietersen
+lang:	CiNyanja
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18610.png
+desc:	Palesa akamba na
+
+page_text:
+
+P1	Uyu ni Palesa. Zina lake itantauza "maluwa" mucitundu ca kwao ciSetswana.
+P2	Kuseni Palesa anauza mutengo wa ma lalanje nati. "Iwe mutengo utipase ma lalanje yambili."
+P3	Palesa ayenda kusukulu. Munjila anati kwa uzu,  "Iwe uzu ukule kwambili,  ndipo usafe."
+P4	Palesa anona maluwa yali imilile. "Imwe maluwa,  zikoma pa maonekedwe anu okongola."
+P5	Pa sukulu,  Palesa anauza kamutengo nati. "Iwe kamutengo,  umela matepo akulu-akulu kuti tiziwelengela mucinfwile cako."
+P6	Palesa anauza mupanda wamene unazungulila sukulu lake nati,  "Kula nampamvu kucinjiliza antu oyipa kungena."
+P7	Pamene Palesa anabwelela ku nyumba,  anayenda kuona mutenga wama lalanje,  "Kodi ma lalanje ako apya?"
+P8	"Mhm! Malalanje akali abisi," anati Palesa.  "Tizaonana mailo iwe mutengo wamalalanje," anakamba.  "Kapena mailo uzankala na malalanje akupya!"
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+ChiTonga (Translation)	Palesa Ulayanda Zisamu	id=18641
+IciBemba (Translation)	Palesa Alitemwa Ifimenwa	id=18585
+isiZulu (Translation)	Upalesa Uthanda Izitshalo	id=16092
+Sepedi (Translation)	Palesa O Rata Dimela	id=18994
+SiLozi (Translation)	Palisa Ulata Licalo	id=18568
+Xitsonga (Translation)	Palesa U Rhandza Swimilana	id=18862

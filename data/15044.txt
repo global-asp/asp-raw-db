@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=15044&d=0&a=1
+id:	15044
+title:	Katlego, Mosetsana Yo O Buang Thata
+author:	Lorato Trok
+artist:	Jesse Breytenbach
+lang:	Setswana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15044.png
+desc:	Go bua thata ga ga Kalabushe go mo tsenya mo mathateng ebile gape go mo ntsha mo mathateng.
+
+page_text:
+
+P1	Bogologolotala go ne go na le mosetsana a bidiwa Katlego. Katlego e ne e le mosetsana yo o buang thata. Mmagwe Katlego o ne a mo kgalemelela go bua thata,  mme fela Katlego a se utlwe.
+P2	Ka letsatsi lengwe,  rakgadi wa ga Katlego o ne a lwala. O ne a dula go tshela molapo go tswa kwa motseng wa gaabo Katlego.
+P3	Mmagwe Katlego o ne a tshwaregile thata ka letsatsi leo. Go ne go le lotlatlana fa a fa Katlego dijo gore a isetse rakgadi wa gagwe yo o lwalang.
+P4	Mo tseleng Katlego o ne a kopana le Sinson,  phiri e e kgonang go iphetola go nna motho.
+P5	Sinson o ne a mmotsa gore o tshwere eng. Katlego a araba,  "Nama,  mae le mašwi." Mmagwe Katlego o mo kgalemetse gore a se bue gore o tshwere eng.
+P6	Gape Katlego o ne a bolelela Sinson gore rakgadi wa gagwe o a lwala ebile o mo isetsa dijo. Sinson o ne a simolola go rokoga mathe fa a akanya ka ga nama e Katlego a e tshwereng.
+P7	O ne a tabogela kwa pele ga Katlego go ya kwa ga rakgadi wa gagwe.
+P8	O ne a metsa rakgadi wa ga Katlego mme a ikhurumetsa ka kobo ya gagwe.
+P9	Fa Katlego a goroga,  ntlo e ne e rile tuu. O ne a tsena mo gare mme  a goa,  "Rakgadi,  o kae?"
+P10	Fa a ne a sa utlwe lentswe la rakgadiagwe,  Katlego o ne a tsenela kwa gare ga phaposi kwa rakgadiagwe a robalang teng. O ne a makala a bona motho a khurumeditswe ke kobo e kgolo.
+P11	"Rakgadi,  ke eng fa ditsebe tsa gago di le dikgolo gompieno?" Katlego a botsa. Sinson a araba a le kwa tlase ga kobo,  "Gore ke kgone go go utlwa sentle."
+P12	Katlego a botsa gape,  "Rakgadi,  ke eng fa matlho a gago a le magolo jaana gompieno?" Sinson a araba,  "Gore ke kgone go go bona sentle."
+P13	La bofelo,   Katlego a botsa,  "Rakgadi ke eng fa molomo wa gago o le mogolo jaana gompieno?" Sinson a araba,  "Gore ke kgone go go kometsa." Sinson o ne a tlola kwa godimo ga bolao mme a kometsa Katlego.
+P14	Ka gonne Katlego o ne a bua thata,  o ne antse a tsweletse go bua a ntse a le mo maleng a ga Sinson. O ne a botsa dipotso tse dintsi.
+P15	Kwa bofelong,  Sinson o ne a lapisitswe ke dipotso tsa ga Katlego,  a feleletsa a mo kgwetse kwa ntle.
+P16	Katlego le rakgadi wa gagwe ba ne ba thusiwa ke baagi ba motse. Go tloga ka letsatsi leo,  Katlego o ne a se tlhole a bua le batho ba a sa ba itseng.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
+isiXhosa (Translation)	Unandipha Intombazana Elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

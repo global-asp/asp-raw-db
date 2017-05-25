@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=2454&d=0&a=1
+id:	2454
+title:	Vayu, the Wind
+author:	Madhuri Pai
+artist:	Rijuta Ghate
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2454.png
+desc:	This story describes what the wind can do and the effect it has on us.
+
+page_text:
+
+P1	I finish my hot,  hot bath. My wet body feels so cool,  cool,  cool.  What makes that happen? Vayu,  the wind!
+P2	The milk in my cup is too hot. But soon it is ready for me to sip. Who makes that happen? Vayu,  the wind!
+P3	The window curtains flutter and gently brush my face. Who makes it happen? Vayu,  the wind!
+P4	A bolt of lightning far away. Black clouds moving my way. Who makes that happen? Vayu,  the wind!
+P5	Branches sway and leaves tremble. Flowers gently fall. Who did it all? Vayu,  the wind!
+P6	We are playing far from the house. Yet I can smell the food mother is preparing. Who makes it happen? Vayu,  the wind!
+P7	A glass on a windowsill,  crashes to the ground. I am glad I was not around. Who broke the glass? It was Vayu,  the wind!
+P8	A whistle blows. A train rolls in. I cannot see it,  but I hear its din. Who makes that happen? Vayu,  the wind!
+P9	Cannot be seen. Cannot be heard. Works without saying a word. Who can it be? Of course! The wind.
+
+images:
+
+illustrations/pages/2442.png
+illustrations/pages/2443.png
+illustrations/pages/2444.png
+illustrations/pages/2445.png
+illustrations/pages/2448.png
+illustrations/pages/2449.png
+illustrations/pages/2450.png
+illustrations/pages/2451.png
+illustrations/pages/2452.png
+illustrations/pages/2453.png
+illustrations/pages/2455.png
+
+translations:
+
+isiNdebele (Translation)	Vayu Ummoya	id=13069
+isiXhosa (Translation)	Uvayu Umoya	id=2456
+Kiswahili (Translation)	Vayu, Upepo	id=2611
+Ng’aturkana (Adaptation)	Vayu, Ekuwam	id=13288

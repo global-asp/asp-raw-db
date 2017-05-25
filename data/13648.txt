@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13648&d=0&a=1
+id:	13648
+title:	My Holiday Time
+author:	Bukheye Mulongo Christopher
+artist:	Rob Owen, Catherine Groenewald, Marion Drew, Mango Tree, Onesmus Kakungi and Wiehan de Jager
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13648.png
+desc:	Talks about the activities done during the school holidays.
+
+page_text:
+
+P1	It is now time for holidays.
+P2	We do a lot of work and play.
+P3	Mega and Kana wake up very early to feed the chicken, pick eggs and collect firewood.
+P4	Mega and his father take the cow to graze.
+P5	Mother,  Mega and Kana go to visit their grandmother in the village of Mulandu.
+P6	They go to the bus stop and wait for the bus to take them.
+P7	Grandmother was very happy to see her grandchildren!
+P8	Grandfather was also very happy to see his grandchildren!
+P9	Grandmother is preparing lunch for her grand children.
+P10	Mega and Kana were served with fish and rice for lunch.
+P11	The evening, Mega went to play football with his friends.
+P12	Kana joins the reading club in the evening too.
+P13	On the last day of the holiday,  Mega and Kana joined the children`s party. It was so colorful.
+
+images:
+
+illustrations/pages/13431.png
+illustrations/pages/11676.png
+illustrations/pages/11668.png
+illustrations/pages/11668.png
+illustrations/pages/11670.png
+illustrations/pages/11661.png
+illustrations/pages/11455.png
+illustrations/pages/11662.png
+illustrations/pages/11674.png
+illustrations/pages/10050.png
+illustrations/pages/11669.png
+illustrations/pages/12881.png
+illustrations/pages/9855.png
+illustrations/pages/12945.png
+
+translations:
+
+Ateso (Adaptation)	Aparasia Nu Aiyeng	id=13204
+English (Original)	Holiday Time	id=13021
+Lunyole (Translation)	Luŋumula	id=13647

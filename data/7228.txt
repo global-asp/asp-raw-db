@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=7228&d=0&a=1
+id:	7228
+title:	Uxamwali Bwa Kolo Na Nyakhoko
+author:	Basilio Gimo
+artist:	Little Zebra Books and Jeremiah Dube
+lang:	Chinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7228.png
+desc:	Things are fine for good friends Crocodile and Baboon
+
+page_text:
+
+P1	Kolo na nyakhoko bukhali uxamwali bwawo bwakuti ponda ndipondembo. Iwo akhambasendzeka pabodzi na kumbadyera pabodzi. Ndipo bzinthu bzentse akhambacita pabodzi.
+P2	Tsono ntsiku inango nyakhoko adaduwala kwene-kwene kwa kuti penu-penu. Pomwe iye adawona kuti matenda yale yali kufika pakuipa,  adayenda kwa nyabezi kukawombeza,  ndipo nyabezi ule adamuuza kuti: "Wona kuti iwepo ulimbe,  bzinfunika kuti iwepo udye nyama ya kolo."
+P3	Pomwe adabva bzimwebzo,  nyakhoko adakhala na ntsisi. Tsono pakhalibe muti winango omwe angadaphata kuti iye alimbe acisaya kudya xamwali wace Koloyo.
+P4	Pomwe Kolo adayenda kukawona xamwali wace Nyakhokoyo,  iye adamubereka kumbuyo aciyenda naye pakati panyandza.
+P5	Pomwe akhali pakati panyandza pale nyakhoko adauza Kolo kuti: "Nyabezi wandiuza ine-pano kuti ndirimbe bzinfunika kuti ndidye iwepo xamwaliwe."
+P6	Ndipo kolo adatawira kuti: "Ne xamwali,  leka kudya ine-pano,  thangwe ndine m'ng'ono,  dikhira ndikakucemerere yavu wangu,  nakuti iye ni mkulu kuposa ine-pano. Omweyo ndiye ungadye ucikhuta."
+P7	Ndipo Nyakhoko adabvundza kuti: "Apa yavu wakoyo ali kuponi?" Ndipo Kolo adatawira kuti: "Ali m'muti ule-ule omwe uli pantsuwa ule." Ndipo nyakhoko adamuuza kuti: "Ndoko ndipo ukamutenge kuti ndidzadye ndidzakhute."
+P8	Kolo adamoga aciyenda m'muti mule acikakhaliratu. Ndipo alibe kubwerera pomwe. Nyakhoko adadikhira,  kudikhira,  kudikhira. Ndipo adawona kolo ziiii. Ndipo budamalira uxamwali bwawobo.
+
+images:
+
+illustrations/pages/6979.png
+illustrations/pages/6974.png
+illustrations/pages/6976.png
+illustrations/pages/6977.png
+illustrations/pages/6978.png
+illustrations/pages/6979.png
+illustrations/pages/6980.png
+illustrations/pages/6981.png
+illustrations/pages/6982.png
+
+translations:
+
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11238
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11293
+English (Translation)	Crocodile and Baboon	id=7357
+French (Translation)	Le Crocodile Et Le Babouin	id=12656
+Lámnsoʼ (Translation)	Ŋgày Wùn Mbùy	id=16446
+Ng’aturkana (Translation)	Akinyangang'a Ka Echom	id=9540
+Portuguese (Translation)	O Crocodilo E O Babuíno	id=16409

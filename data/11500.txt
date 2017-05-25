@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=11500&d=0&a=1
+id:	11500
+title:	U Jaaka Umdobi
+author:	Esti Groenewald
+artist:	Zablon Alex Nguku
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11500.png
+desc:	Omusaadha omuvubi ku Copier Yira .
+
+page_text:
+
+P1	Lona ngu Jaaka u Mdobi ovela eNaminya.
+P2	UDoba emfuleni iNile.
+P3	Unesikebhe,  isisefo Sokudoba kanye nodobo.
+P4	Uvuka ekuseni njalo ukuze abambe uhlobo olukhethekile lwenhlanzi yaseNile.
+P5	Ngehora leshumi ekuseni,  uthengisa izinhlanzi azibambile phakathi nedolobha iJinja.
+P6	Jaaka kwanzenjani? Awuyenzanga inzuzo? Udumele kakhuku uJaaka.
+P7	"Namhlanje isimo besijabhisa. Umoya womfula iNile awuvumanga ukuthi ngidobe. Enye inhlanzi imuke nodobo lwami."
+P8	"Kodwa nginethemba lokuthi kusasa kuzobangcono,  ngoba ngithenge udobo olusha."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka Die Visserman	id=11406
+English (Translation)	Jaaka the Fisherman	id=8491
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiXhosa (Translation)	Ujaaka Umlobi	id=13206
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

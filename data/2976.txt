@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=2976&d=0&a=1
+id:	2976
+title:	Byambalo Bya Isomero
+author:	James Kidulu
+artist:	Mlungisi Dlamini
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2976.png
+desc:	Ndi kwirayo ku isomero. Ndino okwegeza mu byambalo byange ebyeisomero. Nnhenda kubona oba bintuuka bukalamu.
+
+page_text:
+
+P1	Ekiteeteeyi kino kileeyi inho.
+P2	Omudhoozi guno munene inho.
+P3	Ensawo eno nnene inho.
+P4	Omusipi guno mumpi inho.
+P5	Enkoofiira eno ntono inho.
+P6	Sookisi dhino nnhimpi inho.
+P7	Engaito dhino mpyaka inho.
+P8	 Dhintuuka nabukalamu inho.
+
+images:
+
+illustrations/pages/954.png
+illustrations/pages/955.png
+illustrations/pages/956.png
+illustrations/pages/957.png
+illustrations/pages/958.png
+illustrations/pages/959.png
+illustrations/pages/960.png
+illustrations/pages/961.png
+illustrations/pages/954.png
+
+translations:
+
+Anywak (Translation)	Abïïk Øt-Göör	id=12633
+Aringati (Translation)	Ujaku Ꞌbã Bõngó Sụ̃kụ́lụ̃ Drị̂ Kî	id=7526
+English (Original)	School Clothes	id=1794
+Kikamba (Translation)	Ngua Sya Sukulu	id=2973
+Kiswahili (Translation)	Sare Za Shule	id=2974
+Lugbarati (Translation)	Bongo Sukulu Ni Diyi	id=12641
+Lunyole (Translation)	Engoye J’Esomero	id=2975
+Maa (Translation)	Inkiláni E Sukúul	id=2972
+Ng’aturkana (Translation)	Ng’Iworui a Esukul	id=2977
+Oluwanga (Translation)	Tsingubo Tsiomwisomero	id=2978
+Setswana (Translation)	Diaparo Tsa Sekolo	id=2979

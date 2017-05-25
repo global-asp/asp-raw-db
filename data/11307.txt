@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=11307&d=0&a=1
+id:	11307
+title:	Sokker Wedstryd
+author:	Aimee van Rooyen
+artist:	Vusi Malindi
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11307.png
+desc:	n Groot verassing.
+
+page_text:
+
+P1	Ons is mal oor sokker.
+P2	Moloko is besig om vir ons sokker te leer speel.
+P3	Ons speel sokker.
+P4	Moloko is die beste juffrou!
+P5	Na die wedstryd het Moloko vir ons vertel dat sy vir ons 'n verassing het.
+P6	Maar sy sal eers vir ons môre laat weet wat dit is.
+P7	Die volgende dag het ons almal vroeg na die veld toe gekom. Ons is almal mal oor verassings.
+P8	Moloko het nuwe sokker toerusting en balle vir ons almal. Wat 'n wonderlike verassing.
+
+images:
+
+illustrations/pages/7978.png
+illustrations/pages/7970.png
+illustrations/pages/7977.png
+illustrations/pages/7978.png
+illustrations/pages/7980.png
+illustrations/pages/7982.png
+illustrations/pages/7983.png
+illustrations/pages/7984.png
+illustrations/pages/7985.png
+
+translations:
+
+Afrikaans (Translation)	Sokker Wedstryd	id=11403
+English (Translation)	Soccer Game	id=9825
+English (Adaptation)	Soccer Game is  Good	id=13524
+French (Translation)	Une Partie De Football	id=13277
+isiXhosa (Adaptation)	Indebe Yomhlaba I-Chiefs Ne-Aces	id=9826
+isiZulu (Translation)	Sithanda Ibhola Lezinyawo	id=13325
+Luganda (Translation)	Okuzannya Akapiira	id=8425
+Lunyole (Translation)	Omupiira	id=13523
+Sepedi (Original)	Re Bapala Bolo	id=8038
+Sesotho (S.Africa) (Translation)	Re Bapala Bolo	id=9831

@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=16422&d=0&a=1
+id:	16422
+title:	Neŋamba
+author:	Mubbalya Charles
+artist:	Jesse Breytenbach
+lang:	Lunyole
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16422.png
+desc:	Neŋamba muŋayi ate mugesigesi
+
+page_text:
+
+P1	Hale hale ŋaliiŋo omuhana eyi balanganga bati Neŋamba. Neŋamba gali muhana owelomalomanianga. Nyina ya Neŋamba gamulabula aye Neŋamba natamuŋulira.
+P2	Lulala,  masenge ya Neŋamba galwaye. Galiinga engereha w'erungu.
+P3	Hu lunaku olwo nyiina ya Neŋamba gali n'ebyohuhola. Egulo,  enyanga ni jibitiriye,  nyina ya Neŋamba gamuŋaye emeere ohuŋirira masengewe.
+P4	Hungira gageene ogu Nalaŋa ogwecuusa gwafuha muutu.
+P5	Ogu Nalaŋa gwamubuusa ehi gaali nagegiire,  Neŋamba gagugoboyemo ati,  "Nyama,  amaagi n'amabere." Nyina ya Neŋamba gali amulabuye ohutaloma ehyagegire.
+P6	Era Neŋamba galomeye ogu Nalaŋa ati,  "Masengewe mulwaye era ati nje eyi gali nali huŋirira emeere."
+P7	Nalaŋa gaduluma ni geyuna geherere Neŋamba ohwola ewa masengewe.
+P8	Nalaŋa gamira masenge ya Neŋamba nga gewiiha ebbulangiti yiiye.
+P9	Neŋamba ni golire,  ehidaala hyali hiŋolongeye hyeene. Gattiina mu nyumba nga langa ati,  "Senge,  oli ŋeena?"
+P10	Nigawene n'ataŋulira janjasi lya masengewe,  Neŋamba gatiina mu hisenge ehyo mugati eyi Masenge we gaŋenyuhahanga. Ehyamutusa efiiri hu mutwe nj'ohubona omuutu ni gewihire mu bbulangiti.
+P11	Neŋamba gagubuusa ati,  "Senge,  lwahiina amatwi gago mabbala tyo?" Ogu Nalaŋa gwagoboyemo ni guli mu bbulangiti guti,  "Ko nahasobola ohuhuŋulira bulaŋi."
+P12	Neŋamba nindi gagubuusa ati,  "Senge lwahiina emooni jijo mbala jityo?" Ogu Nalaŋa gwa goboyemo guuti,  "Ko nahahubona bulaŋi."
+P13	Muhuheneresa Neŋamba gagubuusa ati,  "Senge,  lwahiina omunwa gugwo mubbala olwaleero?" Ogu Nalaŋa gwagoboyemo guuti,  "Ko nahasobola ohuhumira." Nalaŋa ga pwanguha mu buliiri nga amiira Neŋamba.
+P14	Olw'ohuba Neŋamba gali muhaana owe lomalomya,  gegumya n'ohweromyalomya n'olugaali mu hiida hy'ogu Nalaŋa. Gabuusa ebibuuso ebyeene ebingi.
+P15	Hu komerero,  ogu Nalaŋa gwasinya ebibuuso bya Neŋamba ebingi nga gusalaŋo ohumuhaasa.
+P16	Abehitehere bayeeda Neŋamba ni masengewe. Ohuŋwa olwo ni n'olwo Neŋamba sigelomalomanianga n'abatamanyiire.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
+isiXhosa (Translation)	Unandipha Intombazana Elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

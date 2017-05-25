@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=18782&d=0&a=1
+id:	18782
+title:	Lisayikl
+author:	Kunji Daniel Mbedobe
+artist:	Zablon Alex Nguku
+lang:	Likpakpaanl
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18782.png
+desc:	Timoor ni aasayikl buen li ti manl linampal aasayikl ki lik waa bi mbimbin muan mu ni ponn ni na. Amaa linampal aasayikl aakumɔŋ nan ti di u koon tibɔr ni le timoor ni aasayikl bae nlan ke u li far waadichal.
+
+page_text:
+
+P1	Ma tiin le cha na aa,  ŋisayik ŋilee ŋiba le nan bi. Lisayikl liba nan bi timoor ni.
+P2	Lisayikl liken na nan bi linampal la.
+P3	Daalbadaal,  lisayikl li bi linampal na nan tuk lisayikl li bi timoor ni na ke,  "Saa ji ni ŋan,  kaa geen ni ŋan,  le utaal ki gbaa si."
+P4	"Amaa timi kan,  ti doo bibɔrb aadichal ni. Ti ji tijiir mɔmɔk aabɔŋ. Daalbadaal kan,  dan nan manl mi ki lik," linampal aasayikl nan len. "M ga dan kinyeek kimina," timoor ni aasayikl nan len. "M gobr ke mmoon mu bi joo nyu ndaan na."
+P5	Kaa nyi ke liŋuul nan joo udichadaan. U nan puun,  "Ŋisayik ŋi joo ma jikaar ji na,  ŋi ga kan!" N-yoonn mue na,  u nan di siker pel kitalŋ.
+P6	Ŋisayik gbaan nan dan ŋi nan ji tiwan muan lidichal gbaan ni. Ŋi nan dan ki laa,  "Chuchuchichicheche!"
+P7	Buyoonn bi ti fuu kitalŋ gbaan che na le linampal aasayikl len ke,  "Cha m lak siker wee lik. Aa kan taa ji mmuan mu do na aa."
+P8	Amaa waar aan u nyan siker na,  le kitalŋ gbaan wɔb,  PA! Kitalŋ gbaan nan chu lisayikl gbaan aayil,  le u nimbil nyan ni ke liteebɔnl yaan na.
+P9	Timoor ni aasayikl nan si lik ni iwaan ni. Le ki len ke,  "E. Heee! M jɔ,  ba aawan muan aa jin aan animbil nyan ni ki kpii kina?"
+P10	Amaa linampal aasayikl aa nan ŋman u gar u.
+P11	Le timoor ni aasayikl nyan lidichal gbaan ni ki len ke,  "Haa! Maan ŋman tiwan muan ni aa nyuŋ ni na."
+P12	Saa dichal li kaa ŋan kpala na soor ni anaabo aadichal li ye lidichal nyanyaan na.
+
+images:
+
+illustrations/pages/7506.png
+illustrations/pages/7496.png
+illustrations/pages/7497.png
+illustrations/pages/7498.png
+illustrations/pages/7499.png
+illustrations/pages/7500.png
+illustrations/pages/7501.png
+illustrations/pages/7502.png
+illustrations/pages/7503.png
+illustrations/pages/7504.png
+illustrations/pages/7505.png
+illustrations/pages/7505.png
+illustrations/pages/7506.png
+
+translations:
+
+Afrikaans (Translation)	Die Rot	id=11325
+English (Translation)	The Rat	id=7769
+English (Adaptation)	The Big Rats	id=13612
+Kiswahili (Translation)	Panya	id=8439
+Lunyole (Translation)	Embeba	id=13611
+Lusoga (Original)	Wansolimo	id=7768
+Portuguese (Translation)	A Ratazana	id=18858
+Portuguese (Translation)	A Ratazana	id=18890
+Rutooro (Translation)	Embeba	id=14941

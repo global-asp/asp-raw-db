@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=11363&d=0&a=1
+id:	11363
+title:	Wat kan ek doen?
+author:	Robyn Vorster
+artist:	Cathy Feek
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11363.png
+desc:	Ek kan baie verskillende dinge doen.
+
+page_text:
+
+P1	Ek kan.
+P2	Ek kan spring.
+P3	Ek kan dans.
+P4	Ek kan 'n motor bou.
+P5	Ek kan my oog knip.
+P6	Ek kan sing.
+P7	Ek kan lees.
+
+images:
+
+illustrations/pages/1372.png
+illustrations/pages/1373.png
+illustrations/pages/1374.png
+illustrations/pages/1372.png
+illustrations/pages/1375.png
+illustrations/pages/1376.png
+illustrations/pages/1377.png
+illustrations/pages/1378.png
+
+translations:
+
+isiZulu (Original)	Ngingakwenza Lokhu	id=1993

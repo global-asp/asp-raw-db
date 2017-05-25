@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=18862&d=0&a=1
+id:	18862
+title:	Palesa U Rhandza Swimilana
+author:	Mkomati John Mongwe
+artist:	Jesse Pietersen
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18862.png
+desc:	Palesa u vulavula na mirhi
+
+page_text:
+
+P1	Loyi i Palesa. Vito ra yena ri vula 'xiluva' hi ririmi ra Setswana.
+P2	Nimixo Palesa u vulavula na murhi wa lamula. "Murhi wa lamula,  ndzi kombela leswaku u hi nyika malamula yo tala."
+P3	Palesa u ya exikolweni. Endleleni u ri eka byanyi,  "Byanyi,  ndzi kombela u kula u ku hlazaa na leswaku u nga ha omi."
+P4	Palesa u hundza byanyi bya le nhoveni. "Swiluva,  ndzi khensa mihlovo ya n'wina yo hatima."
+P5	Exikolweni,  Palesa u vulavula na ximudyana. "Murhi,  ndzi kombela u kula u va na marhavi lamakulu leswaku hi ta kota ku hlayela ehansi ka ndzhuti wa wena."
+P6	Palesa u vulavula na rihlampfu ekusuhi na xikolo. "Ndzi kombela u kula u va na matimba kutani u sivela swigevenga ku nghena endzeni."
+P7	Loko Palesa a vuya ekaya ku suka exikolweni,  u endzele murhi wa lamula. "Xana malamula ya wena ya vupfile ku fika sweswi?" ku vutisa Palesa.
+P8	"Malamula ma ha ri ma rihlaza," ku hefemuteka Palesa. "Ndzi ta ku vona mundzuku wena nsinya wa lamula," ku vula Palesa. "Kumbexana endzhaku ka sweswo u ta va na lamula ro vupfa ra mina!"
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+ChiTonga (Translation)	Palesa Ulayanda Zisamu	id=18641
+CiNyanja (Translation)	Palesa Akonda Mitengo Na Maluwa	id=18610
+IciBemba (Translation)	Palesa Alitemwa Ifimenwa	id=18585
+isiZulu (Translation)	Upalesa Uthanda Izitshalo	id=16092
+Sepedi (Translation)	Palesa O Rata Dimela	id=18994
+SiLozi (Translation)	Palisa Ulata Licalo	id=18568

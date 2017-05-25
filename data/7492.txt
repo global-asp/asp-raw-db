@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=7492&d=0&a=1
+id:	7492
+title:	Impukane
+author:	Pricilla Tshotlhang
+artist:	Ethan Alberts, Wiehan de Jager and Catherine Groenewald
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7492.png
+desc:	This story talks about how a fly is dangerous.
+
+page_text:
+
+P1	Impukane iyisinambuzane.
+P2	Impukane ihlala endaweni engcolile.
+P3	 Endlini encane,  phakathi ezindlini nasekudleni kwethu.
+P4	Isuka ezindaweni ezingcolile,  indizele ezindlini zethu.
+P5	Iwela ekudleni kwethu,  ishiye amagciwane.
+P6	Uma sidla ukudla okugcolile,  siphathwa yizifo ezidala isusu esibuhlungu.
+P7	Impukane iyingozi.
+
+images:
+
+illustrations/pages/5294.png
+illustrations/pages/5294.png
+illustrations/pages/5299.png
+illustrations/pages/5302.png
+illustrations/pages/2135.png
+illustrations/pages/5526.png
+illustrations/pages/5847.png
+illustrations/pages/5294.png
+
+translations:
+
+English (Adaptation)	Flies	id=13639
+Lunyole (Translation)	Esoŋera	id=12909
+Xitsonga (Translation)	Nhongana	id=14381

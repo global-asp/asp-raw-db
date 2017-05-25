@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=13803&d=0&a=1
+id:	13803
+title:	Isijeziso Sakathemba
+author:	William Jiyana
+artist:	Melany Pietersen
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13803.png
+desc:	Ngisiphi isijeziso somsana omarhamaru odla khulu?
+
+page_text:
+
+P1	Ahh! Umma uze neenthelo.
+P2	Mina ngilambile. Umma uzosipha nini iinthelo lezi?
+P3	Hlam,  hlam,  hlam! Mnandi!
+P4	"Ngubani odle iinthelo?" kubuza uSana. "UThemba akakalungi," kukhuluma uThembi.
+P5	Umma ukwatile.
+P6	"Themba,  ngubani odle iinthelo?"
+P7	Mma uThemba udle iinthelo zoke,  ibhanana,  ipenapula,  ipiyere,  umengo.
+P8	Themba kubayini ungabawi. Linthelo bezingakahlanzeki.
+P9	Ngiyajuluka.
+P10	Mma amathumbu wami abuhlungu.
+P11	Ngizwa ubuhlungu.
+P12	Siyakulibalela Themba. Zifundise ukubawa njalo.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiZulu (Adaptation)	Umhobholo	id=13326
+isiZulu (Translation)	Isijeziso	id=15341
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Oluwanga (Translation)	Eshinyasio	id=19592
+Portuguese (Translation)	Castigo	id=18855
+siSwati (Translation)	Sijeziso Sabobo	id=13868

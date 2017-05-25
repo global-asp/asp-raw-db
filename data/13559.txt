@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=13559&d=0&a=1
+id:	13559
+title:	Ohubala Epuusi
+author:	Bubaali primary school
+artist:	Jesse Breytenbach
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13559.png
+desc:	Puusi jinga?
+
+page_text:
+
+P1	Puusi jinga? Ziro.
+P2	Puusi jinga? 1 Puusi ndala.
+P3	Puusi jinga? 2 Puusi ebiri.
+P4	Puusi jinga? 3 Puusi edatu.
+P5	Puusi jinga?   4 Puusi ene.
+P6	Puusi jinga? 5 Puusi etaanu.
+P7	Puusi jinga? 6 Puusi mukaaga.
+P8	Puusi jinga? 7 Puusi musanvu.
+P9	Puusi jinga?  8 Puusi munaana.
+P10	Hiina hino ehihubona? Ahaana h'epuusi halemeye hu musaala.
+P11	Puusi jinga? 9 Puusi mwenda.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Amharic (Translation)	ድመቶችን እንቁጠር	id=13124
+Arabic (Translation)	عدد القطط	id=19919
+English (Adaptation)	Counting Cats	id=12693
+isiXhosa (Translation)	Bala Iikati	id=15023
+Portuguese (Translation)	Contar Gatos	id=16196
+Tunisian (Translation)	Ħisbèn Il-Qŧàŧis	id=15384

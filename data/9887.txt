@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=9887&d=0&a=1
+id:	9887
+title:	Masanja Maapi
+author:	Bukheye Mulongo Christopher
+artist:	Michael Nakuwa, Franz Phooko, Rob Owen, Razaque Lázaro Quive and Jesse Breytenbach
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9887.png
+desc:	Ono nambongha  lulimi  mu  lulimi  olunyole.
+
+page_text:
+
+P1	Masanja maapi gasalire amasanja.
+P2	Mu pandu ja masanja.
+P3	Amasanja masanja maapi.
+P4	Aga gasalire gaali masanja maapi.
+P5	Masanja gaweene Masanja maapi na'amasanja.
+P6	Masanja maapi galehire amasanja Gagalehera masanja.
+
+images:
+
+illustrations/pages/9605.png
+illustrations/pages/9847.png
+illustrations/pages/9583.png
+illustrations/pages/2551.png
+illustrations/pages/9580.png
+illustrations/pages/9718.png
+illustrations/pages/9576.png
+
+translations:
+
+Lunyole (Adaptation)	Masanja Maapi	id=16620

@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=8039&d=0&a=1
+id:	8039
+title:	Pula
+author:	Letta Machoga
+artist:	Marleen Visser
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8039.png
+desc:	Bana kamoka ba rata go bapala ka meets!
+
+page_text:
+
+P1	Ke rata meetsi.
+P2	Ke rata go raloka ka meetsi.
+P3	Pula e a na.
+P4	Pula e re fa meetse.
+P5	Ke rata go ralokela ka ntle.
+P6	Efela pula e a na.
+P7	Ke rata go ralokela puleng.
+P8	Pula e thapišitše moriri wa ka. Tate wa o lokiša.
+
+images:
+
+illustrations/pages/7964.png
+illustrations/pages/7958.png
+illustrations/pages/7959.png
+illustrations/pages/7960.png
+illustrations/pages/7961.png
+illustrations/pages/7962.png
+illustrations/pages/7963.png
+illustrations/pages/7964.png
+illustrations/pages/7965.png
+
+translations:
+
+Afrikaans (Translation)	Reën	id=11184
+English (Translation)	Rain	id=9828
+isiXhosa (Adaptation)	Imvula	id=9829

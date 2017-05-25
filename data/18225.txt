@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=18225&d=0&a=1
+id:	18225
+title:	Kiundu Na Ye Wochanyeno
+author:	Joseph Kandwe (OLE Ghana)
+artist:	Alex Zablon
+lang:	Kasem
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18225.png
+desc:	Kiundu ba lage se o ga dim na wo mɛ to o ŋwea ne. O wo ke tɛ mo se o ye ga jeiro telei tiine delei ne?
+
+page_text:
+
+P1	Faŋa to baaro wodwoŋe mɔ daama wo Nyamani teo ne ba na bwoi-o we Kiundu. O dɛɛm lage dim dedɛ. O dɛɛm nam teeni o lage nɔna donem mo.
+P2	Dɛ dedoa mo teo kom pɛ bwoŋe nɔɔna se bà ba o bu kadiri jeiro ne.
+P3	Kiundu daama ni ba na ŋɔɔne kadiri jeiro kodwoŋe teo na bwola pa se ba bwoi ko we,  Katumbi to. "Jeiro telei dɛ dedoa!" Kiundu na boŋe o pa o tete.
+P4	Kiundu maa ta o boboŋa ne o we,  "Ko jege se a vu jeiro telei tem maama mo." "A wo bobo a vu Katumbi mo ye a laam jwoori a ba Nyamani."
+P5	Kiundu maa zanŋi titinti o vu Katumbi. O na yi daane to,  ba ta wora ba saŋe wodiiru tem mo. Kiundu maa boŋe se o jwori Nyamni se o laam jwori o ba ywo. Kwaya yirani.
+P6	Kiundu jwori o vo Nyami ye o jege tiina we nôna yam wo ti ya yiga. Kana laam ma jege-o. Amaa o na yi da to,  ba ta wό saŋe wodiu kom ba ti.
+P7	"A na yage Katumbi maŋa kalo to,  ba bobo saŋem mo." O boŋe konto mo. "Tento wɛɛne wodiu kom bega." Kiundu maa jwori o vo Katumbi. Kana laam jege o dedɛ.
+P8	Maŋa kalo Kiundu na yi Katumbi to nɔɔna bam di wodiu kom ba ti. Veira laam mo wora ba pae ba pɛɛra ka-dooro de o baro wom mo. Kiundu ba jege pɛɛre se o pa. Wonto lage dim yerane mo.
+P9	Kiundu wo chɔge dedɛ de o na wό yi wodiu kom to. O maa boŋe se o jwori o vu Nyamani. Kana kam laam nige o dedɛ ye o kwori o bugi pa se o daa ware o vu lela lela.
+P10	O na yi Nyamani teo kom ne to,  nɔɔna bam wora ba leini ye ba sae mo. Ba maŋe ba di wodiu kom maama!
+P11	O na nige we wodiu daa teira to Kiundu beiri mo. O gɛ nɔna yam jeselei sem maama ne. O yia na puri ye o zaŋa wɛne to,  o nɛ gole kapwaano fenfee mo zuŋa wone o nyɔ!
+P12	Kiundu jwori sɔŋɔ de o kana.
+
+images:
+
+illustrations/pages/9128.png
+illustrations/pages/9128.png
+illustrations/pages/9129.png
+illustrations/pages/9130.png
+illustrations/pages/9131.png
+illustrations/pages/9132.png
+illustrations/pages/9134.png
+illustrations/pages/9135.png
+illustrations/pages/9136.png
+illustrations/pages/9137.png
+illustrations/pages/9138.png
+illustrations/pages/9139.png
+illustrations/pages/9140.png
+
+translations:
+
+Akuapem Twi (Translation)	Kiundu Difudepɛfo No	id=18459
+Amharic (Translation)	ገብጋባው ክንዴ	id=12003
+Asante Twi (Translation)	Adifudepɛfoɔ Kiundu	id=18279
+Dagaare (Translation)	Kiundu, Bundi-Gbogbo Soba	id=17771
+Dagbani/Dagbanli (Translation)	Kiundu Biɛmlana	id=18150
+Dangme (Translation)	Kiundu Komdodomitsɛ	id=18340
+Dhopadhola (Translation)	Otoyo Jaworo	id=15757
+English (Original)	Greedy Kiundu	id=9133
+English (Adaptation)	Greedy  Mairu	id=10264
+Ewe (Translation)	Kiundu Ɖokuitɔdila	id=18180
+Fante (Translation)	Kiundu Onyibernyi	id=18489
+Ga (Translation)	Saki Hiɛjoolɔ	id=18291
+Gonja (Translation)	Kiundu Kajɛ Wura	id=18212
+Lunyole (Translation)	Hiyubi  Ow'ogulyerye	id=11614
+Mampruli (Translation)	Kiundu Beemdaana	id=19320
+Ng’aturkana (Translation)	Kiundu Lokarorokanan	id=9771
+Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
+Portuguese (Translation)	Kiundu Guloso	id=16439
+Sesotho (Lesotho) (Translation)	Ntate Meharo O Meharo	id=10626
+Setswana (Translation)	Megagaru Ya Ga Abele	id=14961

@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=15972&d=0&a=1
+id:	15972
+title:	Neo Finds Her Pig
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Marion Drew
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15972.png
+desc:	Neo loses her pig in an accident. What happens after that?
+
+page_text:
+
+P1	Neo takes her pig for a ride on her bicycle.
+P2	She hits a stone in the road. The pig falls down. It cries. It says,  "Hooeeeee,  hooeeeee!"
+P3	Tsotang finds it. He says,  "Haaiee,  who does this pig belong to?"
+P4	Tsotang chases it,  until he catches it.
+P5	He takes the pig to the chief. The chief tells him to look after it.
+P6	Neo passes by on the path. She hears the pig grunting,  "Hmmm,  hmmm,  hmmm!"
+P7	She goes in. She is happy to see her pig.
+P8	Neo says to her pig,  "Come,  let's go home. We will not ride the bicycle again."
+
+images:
+
+illustrations/pages/15918.png
+illustrations/pages/15916.png
+illustrations/pages/15917.png
+illustrations/pages/15918.png
+illustrations/pages/15920.png
+illustrations/pages/15919.png
+illustrations/pages/15921.png
+illustrations/pages/15923.png
+illustrations/pages/15924.png
+
+translations:
+
+Sesotho (Lesotho) (Original)	Neo a Fumana Fariki Ea Hae	id=15970

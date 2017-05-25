@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=11509&d=0&a=1
+id:	11509
+title:	Die Man Wat Alleen Gewoon Het
+author:	Monique de Ridder
+artist:	Little Zebra Books and Trevor Kellog
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11509.png
+desc:	Die man wat alleen wou bly het toe op die einde van die dag sy vrou verloor...
+
+page_text:
+
+P1	Daar was eens ŉ man wat nie naby sy bure wou woon nie. Die man wou ook nie hê dat sy vrou by die bure se huise moes kuier nie.
+P2	Op 'n dag het die man toe ŉ huis diep in die bos gebou,  ver van die bure se huise af.
+P3	Hy het elke oggend baie vroeg sy huis verlaat en eers weer laat in die aand teruggekom.
+P4	Een nag was die man baie laat. 'n Hiëna het gesien dat die man nog nie by die huis is nie.
+P5	Die hiëna het aan die huis se deur gaan klop.
+P6	Die vrou het gedink dis haar man en toe maak sy die deur oop. Die hiëna het op die vrou gespring en haar opgeëet.
+P7	Die man het by die huis gekom en gesien dat sy vrou deur die hiëna opgeëet is. Daar was niks wat hy kon doen nie.
+P8	En dis alles omdat hy nie naby sy bure wou woon nie.
+
+images:
+
+illustrations/pages/7327.png
+illustrations/pages/7325.png
+illustrations/pages/7327.png
+illustrations/pages/7329.png
+illustrations/pages/7324.png
+illustrations/pages/7331.png
+illustrations/pages/7332.png
+illustrations/pages/7333.png
+illustrations/pages/7334.png
+
+translations:
+
+Chinyungwe (Original)	Ona Ico Nkhukhala Awiri	id=7365
+English (Translation)	The Man Who Lived Alone	id=7366
+French (Translation)	L’Homme Qui Voulait Vivre Seul	id=12678
+Luganda (Translation)	Omusajja Eya Beeranga Yekka	id=8290
+Lugbarati (Official) (Translation)	Ágú Àzɨ́ Ndráa A’Ápɨ A’Dúle Rɨ̀	id=12634
+Lumasaaba (Translation)	Umusaani Uwamenyatsaka Yenyene	id=8357
+Oluwanga (Translation)	Omusatsa Wamenya Yenyene	id=8288
+Portuguese (Translation)	O Homem Que Vivia Sozinho	id=17035
+Rutooro (Translation)	Omusaija Ayaikaraga Wenka	id=14936
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11553
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11556
+Sepedi (Translation)	Monna Yo a Bego a Dula a Le Tee	id=12411
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=12919
+siSwati (Translation)	Beyihlala Yodwa	id=13777

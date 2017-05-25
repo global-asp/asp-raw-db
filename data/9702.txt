@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=9702&d=0&a=1
+id:	9702
+title:	Flowers
+author:	Rashida
+artist:	Jonathan Field, Rob Owen and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9702.png
+desc:	the story is about flowers in our  community
+
+page_text:
+
+P1	Once upon a time, there lived a girl in Busolwe village called Namagunga.
+P2	She liked flowers so much. One day she went to fetch water from river Nakwiga.
+P3	On her way, she found flowers which she admired so much, waooooo! She said.
+P4	When she returned she told her mother to also plan flowers at their home because.
+P5	In churches we find flowers.
+P6	On our dresses we find flowers.
+P7	On our shoes we find flowers.
+P8	We all like flowers.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/9500.png
+illustrations/pages/6577.png
+illustrations/pages/9003.png
+illustrations/pages/9000.png
+illustrations/pages/9457.png
+illustrations/pages/6723.png
+illustrations/pages/6700.png
+illustrations/pages/7987.png
+
+translations:
+
+Dholuo (Translation)	Mafua	id=15197
+Ma'di (Translation)	Ofu	id=16755

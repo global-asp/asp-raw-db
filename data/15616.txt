@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=15616&d=0&a=1
+id:	15616
+title:	Ndovu Na Kinyonga
+author:	Brigid Simiyu
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15616.png
+desc:	Mfalme anateua kazi ngumu
+
+page_text:
+
+P1	Hapo zamani katika ikulu kubwa,  paliishi mfalme na bintiye mrembo.
+P2	Ndovu aliishi katika nyumba upande mmoja wa ikulu. Kinyonga aliishi upande mwingine.
+P3	Wakati huo,  kukashuhudiwa kiangazi kikubwa katika nchi ile. Mfalme alikuwa na wazo kisha akawaita majirani zake kwenda katika ikulu.
+P4	Mfalme aliwaambia Ndovu na Kinyonga,  "Ninataka mkanyage ardhi hadi maji yatokee." Mfalme aliahidi kuwa ambaye angefaulu angemwoa bintiye wa kifalme.
+P5	Kinyonga hakuwa na matumaini yoyote kwa ajili ya udogo wake. Ndovu alifurahi mno kwani alikuwa mkubwa wa maumbile na mwenye nguvu. Ndovu alienda uwanjani na kuanza kukanyaga aridhi.
+P6	Vumbi nyingi ilitokea,  lakini hapakuwa na maji. Ndovu alikanyaga aridhi hata karibu maji kutokea,  lakini alielekea kuchoka. Alimpa Kinyonga nafasi kujaribu.
+P7	Kinyonga alianza kukanyaga aridhi. Baada ya muda mfupi,  maji yalitoka. Watu hawakuamini macho yao!
+P8	Kwa hivyo,  Mfalme alimpa Kinyonga bintiye. Ndovu alienda nyumbani kwa hasira.
+
+images:
+
+illustrations/pages/9461.png
+illustrations/pages/9457.png
+illustrations/pages/9458.png
+illustrations/pages/9459.png
+illustrations/pages/9460.png
+illustrations/pages/9461.png
+illustrations/pages/9462.png
+illustrations/pages/9463.png
+illustrations/pages/9464.png
+
+translations:
+
+Dhopadhola (Translation)	Lyec Gi Ŋokino	id=15736
+English (Original)	Elephant and Chameleon	id=10455
+Portuguese (Translation)	O Elefante E O Camaleão	id=16414
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=10456
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=11901
+Yoruba (Translation)	Eerin Àti Ọ̀gà	id=16556

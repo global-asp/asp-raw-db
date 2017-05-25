@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=13471&d=0&a=1
+id:	13471
+title:	Milk is Good
+author:	Busolwe Public Library
+artist:	Wiehan de Jager, Catherine Groenewald, Natalie Propa and Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13471.png
+desc:	Mummy is away and dad is making milk
+
+page_text:
+
+P1	Zama is getting ready for school.
+P2	Dad is cooking porridge for breakfast. He mixes it with milk.
+P3	"Mummy has got the sweetest breast milk!" says Zama.
+P4	Milk has got fats, vitamins, calcium which gives Zama alot of energy for school.
+P5	The milk is ready.
+P6	Dad pours the milk,  with love.
+P7	"Dad,  I think this porridge needs more sugar and milk," says Zama.
+P8	"Mummy's milk tastes much better than Dad's milk," says Zama.
+P9	"Dad,  please in this milk asks Zama."
+P10	Dad adds sugar to Zama's milk.
+P11	"Wu! Dad! You added water in my milk!"
+P12	"Dad,  when will Mom be home?" asks Zama.
+
+images:
+
+illustrations/pages/11997.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/11667.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/7919.png
+illustrations/pages/11997.png
+illustrations/pages/13260.png
+illustrations/pages/9357.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+French (Translation)	Le Porridge	id=13771
+IciBemba (Translation)	Umusunga	id=18578
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Lunyole (Translation)	Obusera	id=13458
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

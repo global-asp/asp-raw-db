@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=12633&d=0&a=1
+id:	12633
+title:	Abïïk Øt-Göör
+author:	Odhieng Akway Oman and Omot Oman Obono
+artist:	Mlungisi Dlamini
+lang:	Anywak
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12633.png
+desc:	I am going back to school and have to try on all my school clothes to see if they fit.
+
+page_text:
+
+P1	Aragi man bäär.
+P2	Cuuräp man dwøng.
+P3	Kïïth man dwøng.
+P4	Kaw man bäär.
+P5	Cöör man thiinh.
+P6	Kaal-ciee mwoi cëëgö.
+P7	Ba-war mwoi nyäro.
+P8	 Geno-orøm tiel.
+
+images:
+
+illustrations/pages/954.png
+illustrations/pages/955.png
+illustrations/pages/956.png
+illustrations/pages/957.png
+illustrations/pages/958.png
+illustrations/pages/959.png
+illustrations/pages/960.png
+illustrations/pages/961.png
+illustrations/pages/954.png
+
+translations:
+
+Aringati (Translation)	Ujaku Ꞌbã Bõngó Sụ̃kụ́lụ̃ Drị̂ Kî	id=7526
+English (Original)	School Clothes	id=1794
+Kikamba (Translation)	Ngua Sya Sukulu	id=2973
+Kiswahili (Translation)	Sare Za Shule	id=2974
+Lugbarati (Translation)	Bongo Sukulu Ni Diyi	id=12641
+Lunyole (Translation)	Engoye J’Esomero	id=2975
+Lusoga (Translation)	Byambalo Bya Isomero	id=2976
+Maa (Translation)	Inkiláni E Sukúul	id=2972
+Ng’aturkana (Translation)	Ng’Iworui a Esukul	id=2977
+Oluwanga (Translation)	Tsingubo Tsiomwisomero	id=2978
+Setswana (Translation)	Diaparo Tsa Sekolo	id=2979

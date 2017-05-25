@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=8501&d=0&a=1
+id:	8501
+title:	Mumbi
+author:	Oloosirkon ECD
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8501.png
+desc:	Hadithi ya lugha mbili inayoelezea vitendo tofauti ambavyo msichana mdogo anatenda.
+
+page_text:
+
+P1	Hii ni kamba ya kuruka. This is a skipping rope.
+P2	Mumbi anaruka kamba pekee yake. Mumbi is skipping the rope alone.
+P3	Mumbi ameshikiwa kamba na rafiki yake. Mumbi’ s friend is holding the rope for her.
+P4	Sasa Mumbi anasoma kitabu. Mumbi is now reading a book.
+P5	Mumbi anawaaga rafiki zake. Mumbi is bidding her friends goodbye.
+P6	Mumbi is washing utensils in the kitchen. Mumbi anaosha vyomba jikoni.
+P7	Mumbi anaandika ubaoni. Mumbi is writing on the board.
+P8	Sasa Mumbi anakula matunda. Mumbi is now eating friut.
+P9	Sasa ni usiku. Mumbi analala. Now,  it is night time. Mumbi is sleeping.
+P10	Mama anamzungumzia Mumbi. Mother is talking to Mumbi.
+P11	Mumbi anafikiria. Mumbi is thinking.
+
+images:
+
+illustrations/pages/1492.png
+illustrations/pages/1493.png
+illustrations/pages/1494.png
+illustrations/pages/1495.png
+illustrations/pages/1496.png
+illustrations/pages/1497.png
+illustrations/pages/1498.png
+illustrations/pages/1499.png
+illustrations/pages/1500.png
+illustrations/pages/1501.png
+illustrations/pages/1492.png
+illustrations/pages/1502.png
+
+translations:
+

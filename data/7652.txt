@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=7652&d=0&a=1
+id:	7652
+title:	My Grandma.
+author:	Augustine Napagi
+artist:	Ingrid Schechter
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7652.png
+desc:	A boy visits her grandma and get some fun.
+
+page_text:
+
+P1	Grandma greets me.
+P2	We ran to look at grandma's cow.
+P3	I caught up with her.
+P4	I ran away from her.
+P5	Grandma got very tired.
+
+images:
+
+illustrations/pages/7579.png
+illustrations/pages/7583.png
+illustrations/pages/7587.png
+illustrations/pages/7579.png
+illustrations/pages/7592.png
+illustrations/pages/7580.png
+
+translations:
+
+Luganda (Translation)	Jjajja Wange.	id=7668
+Luganda (Translation)	Jajja Wange Omukyala.	id=9667

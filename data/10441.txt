@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=10441&d=0&a=1
+id:	10441
+title:	Lekishon O Nkishu
+author:	Paul Maseri
+artist:	Wiehan de Jager
+lang:	Maa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10441.png
+desc:	Eiturrayie olchekut oji Lekishon inkishu enyenak.
+
+page_text:
+
+P1	Nele Lekishon. Eipoto Lekishon oldia lenye.
+P2	Eiriamari shoo. Eirowuaja enkolong'.
+P3	Neinepu pokirare esumash we ngure.
+P4	Eshomo aing'oru enkare.
+P5	Neiminie inkishu.
+P6	Eishirita Lekishon.
+P7	Eloito aang' woldia lenye.
+P8	Alda! Noona nkishu tiang'!
+
+images:
+
+illustrations/pages/10432.png
+illustrations/pages/10431.png
+illustrations/pages/10432.png
+illustrations/pages/10433.png
+illustrations/pages/10434.png
+illustrations/pages/10435.png
+illustrations/pages/10436.png
+illustrations/pages/10437.png
+illustrations/pages/10438.png
+
+translations:
+
+English (Translation)	Lekishon and the Cows	id=12603
+French (Translation)	Lekishon Et Les Vaches	id=13127
+isiXhosa (Translation)	Ulekishon Neenkomo Zakhe	id=13120
+Portuguese (Translation)	Lekishon E As Vacas	id=16658

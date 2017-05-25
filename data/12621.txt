@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=12621&d=0&a=1
+id:	12621
+title:	Meno Aina Gani?
+author:	Brigid Simiyu
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12621.png
+desc:	Wanyama mbali mbali wana meno tofauti.
+
+page_text:
+
+P1	Mamba ana meno makali.
+P2	Simba ana meno makali vile vile.
+P3	Papa ana meno makali sana. Kwa nini baadhi ya wanyama wana meno makali?
+P4	Ng'ombe ana meno yenye nguvu anayotumia kusaga.
+P5	Ndege hawana meno. Wao hula namna gani?
+P6	Panya wana meno makubwa ya mbele.
+P7	Awali nilikuwa na meno ya mbele.
+P8	Meno yangu ya mbele yaling'oka! Je,  wewe una meno mangapi?
+
+images:
+
+illustrations/pages/9634.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9626.png
+illustrations/pages/9630.png
+illustrations/pages/9631.png
+illustrations/pages/9634.png
+illustrations/pages/9632.png
+illustrations/pages/9633.png
+
+translations:
+
+Afrikaans (Translation)	Tande	id=10594
+Aringati (Translation)	Sí Éséle Íngóní Rĩ?	id=9643
+English (Translation)	What Type of Teeth?	id=9653
+isiNdebele (Translation)	Unamazinyo Amangakhi?	id=13052
+isiZulu (Translation)	What Type of Teeth?	id=11562
+Kakwa (Original)	Kala Lo Gbo’Da Adidinyo?	id=9625
+Kinyarwanda (Translation)	Ni Ubuhe Bwoko Bw’Amenyo?	id=17469
+Lugbarati (Official) (Translation)	Sí Má Éséle Ngó Lé Rɨ 'ɨ?	id=9649
+Lunyole (Translation)	Meeno Gangeri Hi?	id=16649
+Ng’aturkana (Translation)	Ng'ikiel Lu Ikote Ai?	id=12649
+Oluwanga (Translation)	Ameno Mbia Shi?	id=12963
+Portuguese (Translation)	Que Tipo De Dentes?	id=19220
+Rutooro (Translation)	Miringoki Eyamaino?	id=14945

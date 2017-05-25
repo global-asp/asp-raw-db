@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=12926&d=0&a=1
+id:	12926
+title:	Ah! Football!
+author:	Ursula Nafula
+artist:	Onesmus Kakungi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12926.png
+desc:	A little boy is sent by his grandmother to buy few items from the shop. He goes off with his best friend and ends up playing football with other friends. Will he bring what he was sent to buy?
+
+page_text:
+
+P1	I like playing with my friend Chuma.
+P2	We are good friends. When either one of us is sent somewhere,  we go together.
+P3	One day,  my grandmother sent me to the shop to buy salt and cooking oil.   I went with Chuma.
+P4	On the way,  we saw our friends playing football.
+P5	"Ah! Football!" I said. I wanted to play too.
+P6	I said to Chuma,  "Let's ask if we can play with them. I like playing football very much."
+P7	Chuma replied,  "Let us go to the shop first,  then we can come to play."
+P8	But I replied,  "Let us play first!" "Grandmother will not allow us to return."
+P9	We joined our friends to play. I was the goal keeper. The goal posts were made of two big stones.
+P10	I worked hard to catch the ball. My friends were not able to score any goals.
+P11	We played until the field was full of sand.
+P12	Then we went to the shop. Grandmother's money was gone! I started to cry. Chuma shouted,  "Stop crying. You wanted to play first."
+P13	We returned home without salt or cooking oil.   We were very dirty and worried.
+P14	Grandmother was annoyed when we got home. The first question she asked us was,  "Where were you all this time?"
+P15	We had to tell her the truth. She forgave us but warned,  "Never again go to play  without permission."
+P16	We went to feed the ducks.   Later on,  we cleaned ourselves.
+
+images:
+
+illustrations/pages/12881.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/12873.png
+illustrations/pages/12874.png
+illustrations/pages/12876.png
+illustrations/pages/12877.png
+illustrations/pages/12878.png
+illustrations/pages/12879.png
+illustrations/pages/12880.png
+illustrations/pages/12881.png
+illustrations/pages/12882.png
+illustrations/pages/12883.png
+illustrations/pages/12884.png
+illustrations/pages/12885.png
+illustrations/pages/12886.png
+illustrations/pages/12887.png
+
+translations:
+
+Kiswahili (Original)	Ah! Mpira!	id=12925
+Ng’aturkana (Translation)	Woe! Epira!	id=13212

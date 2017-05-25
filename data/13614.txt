@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=13614&d=0&a=1
+id:	13614
+title:	Amalikibbu!
+author:	Mubbalya Charles
+artist:	Rob Owen
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13614.png
+desc:	Amalikibbu!
+
+page_text:
+
+
+images:
+
+illustrations/pages/9500.png
+illustrations/pages/9494.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9499.png
+illustrations/pages/10444.png
+illustrations/pages/9498.png
+illustrations/pages/9502.png
+illustrations/pages/9501.png
+illustrations/pages/9500.png
+
+translations:
+
+Lunyole (Translation)	Ndi Muhaana	id=13704
+Ng’aturkana (Adaptation)	Happy Akai	id=15578

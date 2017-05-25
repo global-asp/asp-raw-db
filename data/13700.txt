@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=13700&d=0&a=1
+id:	13700
+title:	Obuŋoono Bulaŋi
+author:	Kaguja education centre
+artist:	Sue Kramer, Wiehan de Jager, Sandy Lightly, Catherine Groenewald and Vusi Malindi
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13700.png
+desc:	Obuyonjo kintu kikulu nnyo era buli muntu atekedwa abeere muyonjo mu buli kintu kyonna ekikwatagana nobulamu bwe. Obuyonjo butuyamba okutangira endwadde.
+
+page_text:
+
+P1	Ohusaaba buŋono. Saaba omubiri obe muŋoono.
+P2	Ohwosa buŋoono. Yoosa engoye jijo obe muŋoono.
+P3	Ohuŋirya ameeno buŋoono. Weŋirye nga ameeno obe muŋoono.
+P4	Ohusaagula buŋoono,  saagulanga olunya,  efumbiro,  ehisenge obe muŋoono.
+P5	Ohunyiiya buŋoono. Nyiiya ebiryo. Nyiiya enyama enyee bulaŋi.
+P6	Yosa hubibala no hiri hu birya.
+P7	Nyiiya hu maaji ago hunywa. Gaate mu songo oba muhadomola.
+P8	Homa ebimuli mu lunya lu lwo lu bonehe bulaŋi.
+
+images:
+
+illustrations/pages/1762.png
+illustrations/pages/7515.png
+illustrations/pages/6452.png
+illustrations/pages/7518.png
+illustrations/pages/7517.png
+illustrations/pages/1652.png
+illustrations/pages/6661.png
+illustrations/pages/1420.png
+illustrations/pages/940.png
+
+translations:
+
+Luganda (Original)	Obuyonjo Bulungi	id=7802

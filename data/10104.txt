@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=10104&d=0&a=1
+id:	10104
+title:	Akay Tangaraa Kaŋ Ga Maamaacandi
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Catherine Groenewald
+lang:	Zarma
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10104.png
+desc:	Wandiyo fo no kaŋ za a ga zanka kala a beeri
+
+page_text:
+
+P1	Kaŋ Akay go wandiyo kayna,  ɲaŋo ga a kanandi tangara hanno fo boŋ. Kongu tangara fo dumi no kaŋ Akay hawayo kay a se.
+P2	Tangaraa harey ga furo mo ra gumo: ciray,  bula nda boogu. A ga waana tangara cindo kaŋ go ɲaŋo se nga bukka ra.
+P3	Laabo kaŋ go ga fuwo windi ga koogu,  a ga dungu,  a gonda tondi. A ra gonda gondi nda daŋ yaŋ. Akay lakkal si tun gondey nda daŋey din se.
+P4	Ɲaŋo ga ne kaŋ: "Akay tangara maamaacanta no go ga a hallasi ga wa nda gondey nda daŋey."
+P5	Akay gonda lakkal gumo. A ga bay nangu kaŋ day haro si mooru.
+P6	A ga bay nangu kaŋ Maɲata kaŋ ga ti kaayi waybora yaŋ kwaara go. A ga cin ga koy ga yo wa haŋ kayo do.
+P7	Han fo,  Akay mana te saaye. Kaayo do koyyaŋ boŋ no a daray tondey ra. A humburu.
+P8	A goro tuuri ɲa fo cire ga faaba batu. No-din no jirbi na a sambu,  hala nda hindiri yaŋ.
+P9	A hindiri kaŋ nga go ga kani nga tangaraa maamaacanta boŋ. Kaayo go ga haaru,  a go ga yo wa gombo beeri fo sale a se. Waati kaŋ Akay na nga kambe sale ga ne nga ga waa ta no moyey hay.
+P10	Akay na nga moyey feeri moso-moso. Waati kaŋ a na nga boŋ sambu,  a di curayze boogu kayna fo,  kaŋ go tuuri-kambe boŋ,  nga boŋo deedandi.
+P11	Waati kaŋ Akay tun ga kay,  curayzo go ga nga fatey kar-kar ga fonda cabe a se. A na curayzo gana.
+P12	Akay ka ga to nangu kaŋ fonda ga fay ihinka. Curayze boogo na tangara patarmi fo kaŋga hima a wana taŋ ganda.
+P13	Kaŋ a ne nga ga tangara patarmo sambu,  a di ce taamuyaŋ do tangaraa ga. A faham kaŋ nga ɲa ce taamuyaŋ no. Wo-din banda,  a di dayo kaŋ do i kwaara borey go ga hari guru.
+P14	Akay yaŋ kwaara borey go ga doonu,  i go ga gaanu a kaayaŋo se. I na feeji fo wi ga ton,  ga burɲe te Akay kaayaŋo ma ga.
+P15	Akay goro nga tangaraa boŋ ga ham dumbari kaso fo ŋwa ga ma kaani.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5997.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6002.png
+illustrations/pages/6003.png
+illustrations/pages/6004.png
+illustrations/pages/6005.png
+illustrations/pages/6006.png
+illustrations/pages/6007.png
+
+translations:
+
+English (Original)	Akai's Special Mat	id=6008
+French (Translation)	La Natte Spéciale D’Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kiswahili (Translation)	Mkeka Wa Akai	id=7860
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Nkaayi Noomukeeka Omulobole	id=7893
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+siSwati (Translation)	Imadi Yathembi Lebalulekile	id=13073

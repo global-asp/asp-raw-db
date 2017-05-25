@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=6993&d=0&a=1
+id:	6993
+title:	The Cooking Game
+author:	Mozambican folktale
+artist:	Reginaldo Vicente Manhice
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/6993.png
+desc:	Rabbit invites his friend Monkey over to play
+
+page_text:
+
+P1	Once upon a time,  Rabbit and Monkey were friends. One day,  in a time of famine,  Rabbit invited Monkey over to play.
+P2	Rabbit said,  "Let's play cooking each other!" Monkey asked,  "How can we do that?"
+P3	Rabbit answered,  "First,  we have to make a fire."
+P4	Rabbit continued,  "We fill a pot with water,  and then put it on the fire."
+P5	"I will get in first. When I beat on the lid of the pot,  you open it. Then I will get out." Rabbit explained. Monkey agreed.
+P6	So,  Rabbit got in the pot first.
+P7	When the water started to warm up,  Rabbit knocked,  and Monkey opened the lid.
+P8	When it was Monkey's turn,  Rabbit put a big stone on the lid of the pot and sat on top of it as well!
+P9	When the water started to boil,  Monkey knocked,  but Rabbit didn't open the lid.
+P10	Monkey died,  and Rabbit ate his best friend!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/6681.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/6684.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/6689.png
+
+translations:
+
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Adaptation)	The Cooking Game - Colouring Book	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo Wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo Wokuphekana (Faka Imibala)	id=17564
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

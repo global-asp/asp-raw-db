@@ -1,0 +1,23 @@
+url:	http://africanstorybook.org/reader.php?id=17137&d=0&a=1
+id:	17137
+title:	The Boy and the Jackal
+author:	Ernst Swartbooi
+artist:	Benjamin Mitchley
+lang:	English
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17137.png
+desc:	About a jackal who helps a helpful boy.
+
+page_text:
+
+P1	 One day Jackal felt sick. He tried drinking water,  but that made his stomach swollen. He tried eating grass but still his stomach hurt.
+
+images:
+
+illustrations/pages/1693.png
+illustrations/pages/1776.png
+
+translations:
+
+English (Adaptation)	Ernst and the Jackal	id=17484

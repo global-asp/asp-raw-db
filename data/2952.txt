@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=2952&d=0&a=1
+id:	2952
+title:	Abantu B'ewaka
+author:	Mwesigwa Joshua Waswa
+artist:	Kathy Arbuckle
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2952.png
+desc:	This story is about the different sorts of books my family reads.
+
+page_text:
+
+P1	Muganda wange asoma akatabo k'essomero.
+P2	Maama asoma Bayibuli.
+P3	Mwannyinaze asoma akatabo akalagirira okufumba.
+P4	Kojja asoma olupapula lw'amawulire.
+P5	Jjajja asoma magaziini.
+P6	Muto wange asoma akatabo k'ebifaananyi.
+P7	Nze kano akatabo ke nsoma.
+P8	Mu bbanga ttono nja kuba nsobola okusoma buli kintu kyonna.
+
+images:
+
+illustrations/pages/1791.png
+illustrations/pages/1630.png
+illustrations/pages/1631.png
+illustrations/pages/1632.png
+illustrations/pages/1633.png
+illustrations/pages/1634.png
+illustrations/pages/1635.png
+illustrations/pages/1636.png
+illustrations/pages/1637.png
+
+translations:
+
+Aringati (Translation)	Lị́cọ́ Ãmadrị̂	id=7531
+Ateso (Translation)	Ekale Koosi	id=2946
+English (Original)	My Family	id=1792
+Kikamba (Translation)	Musyi Wakwa	id=2951
+Lumasaaba (Translation)	Be Muungo Mweefwe	id=2954
+Lusoga (Translation)	Abomumaka Gange	id=2955
+Olukhayo (Translation)	Ifamili  Yanje	id=2953
+Oluwanga (Translation)	Oluyia Lwanje	id=2956
+Setswana (Translation)	Lelapa La Me	id=2957

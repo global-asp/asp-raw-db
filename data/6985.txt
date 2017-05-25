@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=6985&d=0&a=1
+id:	6985
+title:	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ
+author:	Barnabas Delu
+artist:	Gay Galsworthy
+lang:	Aringati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/6985.png
+desc:	In the wild at a waterhole we count the animals coming to drink. What do you think happens when the lion comes to drink?
+
+page_text:
+
+P1	Ĩwá ãlu mụ ị̃yị́ mvụlé.
+P2	Kụ́rị ị̃rị̃ mụ kí ị̃yị́ mvụlé.
+P3	ꞌDãá ụ̃drụ́ na kí ãzíla ãriŋa sụ abe. Kí pírí mụ ị̃yị́ mvụlé.
+P4	Lẽza tõwú kí ĩzõgó ázíyá abe kí mụ ị̃yị́ mvụlé.
+P5	Ụ́drụ́gọ́ ázị̂rị̃ kí ị̃ꞌbị ãrõ abe ị̃yị́ agá.
+P6	Ũndere úrômĩ kí mụ ị̃yị́ mvụlé.
+P7	Kẹ̃mị̃ ãlu amụ́ ị̃yị́ mvụlé.
+P8	Ãꞌdi ụ̃rị̃ kóru sĩ mụjó ị̃yị́ mvụŋá trũ drị̃ gá nĩ yã?
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Ateso (Translation)	Aimar	id=9655
+English (Original)	Counting	id=1784
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lugbarati (Official) (Translation)	Kàlàfé Làzà	id=8753
+Lunyole (Translation)	Ohubala	id=1954
+Lusoga (Translation)	Tubala Bazira	id=1955
+Sepedi (Translation)	Go Bala	id=1956
+Sesotho (Lesotho) (Translation)	Ho Bala	id=1958
+Setswana (Translation)	Go Bala	id=2807

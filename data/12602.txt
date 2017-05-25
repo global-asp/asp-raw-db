@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=12602&d=0&a=1
+id:	12602
+title:	Mamba Mwenye Njaa
+author:	Brigid Simiyu
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12602.png
+desc:	Mamba mwenye njaa anaendea majini...
+
+page_text:
+
+P1	Wakati mmoja palikuwa na mamba mwenye njaa.
+P2	Alitafuta chakula pole pole tena kimya.
+P3	POO! Mamba anashambulia!
+P4	Baada ya hiyo hana njaa tena, na anafurahi.
+P5	Hadi anapohisi njaa tena.
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Afrikaans (Translation)	Die Honger Krokodil	id=11063
+Arabic (Translation)	التمساح الجائع	id=18188
+English (Original)	The Hungry Crocodile	id=7043
+French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Luganda (Translation)	Ggonya Omuyala.	id=9664
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
+Portuguese (Translation)	O Crocodilo Faminto	id=18889

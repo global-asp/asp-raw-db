@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=13286&d=0&a=1
+id:	13286
+title:	Ekibonerezo
+author:	Annet Ssebaggala
+artist:	Melany Pietersen
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13286.png
+desc:	kibonerezo ki ekiweebwa omwana owomululu alya ebibala byonna natalekerawo banne?
+
+page_text:
+
+P1	Olunaku lumu,  maama yaleeta  ebibala,  ennanansi,  amenvu,  emicungwa,  emiyembe n'amapeera. Yabiwanika ku kabada waggulu.
+P2	Twabuuza maama nti,  ''Ffe tunaalya ddi ku bibala?'' Maama yaddamu nti,  "Tujja kulya olwaleero."
+P3	Muganda wange Kayima wamululu nnyo. Yagenda alumaluma ku buli kibala. Ebisinga yeyabirya.
+P4	Muto wange omulala yagamba nti,  ''Mazima labayo Kayima kyakoze!'' Kayima si muntu mulungi ate alina nnyo omululu.
+P5	Maama yanyigira nnyo Kayima.
+P6	Era naffe twanyigira nnyo Kayima. Kyokka yye Kayima nga teyefiirayo.
+P7	Muto wange yabuuza maama nti,  ''Kayima togenda kumubonereza?''.
+P8	''Kayima,  olina okutwentondera mangu ddala.''.
+P9	Kati kayima tawulira bulungi.
+P10	Kayima yayogera mu kaama nti,  "Olubuto lunnuma nnyo.''."
+P11	Maama yali yakitegedde dda nti olubuto lujja kumuluma. Kati ebibala bibonereza Kayima!
+P12	Oluvanyuma Kayima yatusaba tumusonyiwe. Yagamba nti,  "Sikyaddamu kubeera na mululu mulundi mulala.'' Naffe twamusonyiwa."
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiNdebele (Translation)	Isijeziso Sakathemba	id=13803
+isiZulu (Adaptation)	Umhobholo	id=13326
+isiZulu (Translation)	Isijeziso	id=15341
+Oluwanga (Translation)	Eshinyasio	id=19592
+Portuguese (Translation)	Castigo	id=18855
+siSwati (Translation)	Sijeziso Sabobo	id=13868

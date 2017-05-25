@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=11280&d=0&a=1
+id:	11280
+title:	My Ma Maak Tuin
+author:	Tersia Myburgh
+artist:	Jonathan Field
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11280.png
+desc:	Die ma en pa maak tuine. Die gesin werk saam om die tuin skoon te maak.
+
+page_text:
+
+P1	My ma maak tuin. Sy het ŉ klein tuin gemaak. Sy het ertjies in haar klein tuin geplant.
+P2	My pa maak tuin. Hy het ŉ klein tuin gemaak. Hy het blomme in sy klein tuin geplant.
+P3	My ma het altwee tuine skoon gemaak.
+P4	My pa het altwee tuine water gegee.
+P5	Ek en my ouers het in die klein tuine gewerk. Ek en my suster het die blomme en ertjies gepluk.
+P6	Die klein tuin met ertjies het sakke vol ertjies gegee. Die klein tuin met blomme het sake vol blomme gegee.
+P7	My ma het tuin gemaak. Sy het ŉ groot tuin gemaak. Sy het die groot tuin vol ertjies geplant.
+P8	My pa het tuin gemaak. Hy het ŉ groot tuin gemaak. Hy het die groot tuin vol blomme geplant.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/8998.png
+illustrations/pages/8999.png
+illustrations/pages/9000.png
+illustrations/pages/9001.png
+illustrations/pages/9002.png
+illustrations/pages/9003.png
+illustrations/pages/9004.png
+illustrations/pages/9005.png
+
+translations:
+
+English (Translation)	My Mother Planted	id=9034
+French (Translation)	Ma Mère a Fait Des Plantations	id=12660
+isiZulu (Translation)	Umama Watshala	id=11520
+isiZulu (Translation)	Umama Wami Utshalile	id=12914
+Kiswahili (Translation)	Mamangu Alipanda	id=12652
+Lunyole (Translation)	Maama Wange Gahoma	id=13505
+Lusoga (Original)	Maama Wange Yalima	id=9031
+Lusoga (Adaptation)	Maama Wange Yalima, my Mother Planted	id=9040
+Ng’aturkana (Translation)	Itokang Etakini	id=12650
+Oluwanga (Translation)	Mama Wanje Yaraka	id=13015
+Portuguese (Translation)	A Minha Mãe Plantou	id=17615
+Sepedi (Translation)	Mma Waka O Bjadile	id=11080
+Sepedi (Translation)	Mma Waka O Bjadile	id=11083

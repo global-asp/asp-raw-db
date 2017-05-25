@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=12642&d=0&a=1
+id:	12642
+title:	O’Bu Aku’Dukuru Ri
+author:	Avako Judith
+artist:	Cathy Feek
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12642.png
+desc:	This story is about what a silkworm does and how it turns into something different.
+
+page_text:
+
+P1	O'bu aku'dukuru 'di su gbe niria ebikobi ma rua.
+P2	Ama yini cucu ma bi fe nyazaru i.
+P3	Aku'duku diyi zoki ambu azini eca di ose.
+P4	O'bu 'di si ima jorovu wizi si.
+P5	Jorovu 'di ma alea dele o'bu 'diyi oja yi di ndi ndiaru.
+P6	'Ba azi diyi o'bu aku'duku ru 'diyi ezu asisile ndu ndu yi si.
+P7	Angu 'ba ni ni omvele China ru ku ria 'ba yi aku'duku elifu'elifu ma ta mba asisile ndu ndu yi si.
+P8	'Ba yi bongo wizi-wizi ru diyi ede aku'duku ma jorovu si (wizi).
+
+images:
+
+illustrations/pages/1666.png
+illustrations/pages/1667.png
+illustrations/pages/1668.png
+illustrations/pages/1666.png
+illustrations/pages/1669.png
+illustrations/pages/1670.png
+illustrations/pages/1671.png
+illustrations/pages/1672.png
+illustrations/pages/1673.png
+
+translations:
+
+English (Original)	Silkworm	id=1795

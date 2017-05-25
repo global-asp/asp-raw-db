@@ -1,0 +1,25 @@
+url:	http://africanstorybook.org/reader.php?id=16620&d=0&a=1
+id:	16620
+title:	Masanja Maapi
+author:	Mubbalya Charles
+artist:	Franz Phooko, unknown and Territorio ca brinco
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16620.png
+desc:	Ono nambongha  lulimi  mu  lulimi  olunyole.
+
+page_text:
+
+P1	Masanja maapi gasalire amasanja. Mu pandu ja masanja.
+P2	Amasanja masanja maapi aga gasalire gaali masanja maapi Masanja nigaweene Masanja maapi na'amasanja sanja maapi galehire amasanja gagalehera masanja.
+
+images:
+
+illustrations/pages/16617.png
+illustrations/pages/16618.png
+illustrations/pages/9583.png
+
+translations:
+
+Lunyole (Original)	Masanja Maapi	id=9887

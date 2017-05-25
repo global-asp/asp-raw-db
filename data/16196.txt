@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=16196&d=0&a=1
+id:	16196
+title:	Contar Gatos
+author:	Translators without Borders and Nádia Morais
+artist:	Jesse Breytenbach
+lang:	Portuguese
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16196.png
+desc:	Livro de contar
+
+page_text:
+
+P1	Quantos gatos? 0 Zero gatos.
+P2	Quantos gatos? 1 Um gato.
+P3	Quantos gatos? 2 Dois gatos.
+P4	Quantos gatos? 3 Três gatos.
+P5	Quantos gatos? 4 Quatro gatos.
+P6	Quantos gatos? 5 Cinco gatos.
+P7	Quantos gatos? 6 Seis gatos.
+P8	Quantos gatos? 7 Sete gatos.
+P9	Quantos gatos? 8 Oito gatos.
+P10	O que estamos a ver? É um gatinho preso na árvore! "Vou salvar-te!"
+P11	"Mamã,  podemos ficar com ele? Só mais um" Quantos gatos? 9 Nove gatos.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Amharic (Translation)	ድመቶችን እንቁጠር	id=13124
+Arabic (Translation)	عدد القطط	id=19919
+English (Adaptation)	Counting Cats	id=12693
+isiXhosa (Translation)	Bala Iikati	id=15023
+Lunyole (Translation)	Ohubala Epuusi	id=13559
+Tunisian (Translation)	Ħisbèn Il-Qŧàŧis	id=15384

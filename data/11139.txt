@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=11139&d=0&a=1
+id:	11139
+title:	Siku Tuliyouona Upinde
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11139.png
+desc:	Mvulana anauona upinde kwa mara ya kwanza. Bila kujua ni nini
+
+page_text:
+
+P1	Jina langu ni Kobole.  Ninaishi katika kijiji  kidogo.
+P2	Siku moja nilipokuwa nikichuma matunda,  niliona jambo la kushangaza.
+P3	Niliona mistari ya rangi tofauti angani.
+P4	Niliyaangusha matunda,  nikakimbia kuwaambia watu nyumbani.
+P5	Niliwapata watu wamesimama nje wakitazama juu kwa mshangao.
+P6	Nilisema kwa furaha,  "Ni shuka maridadi." Neno alipinga akasema,  "La! Ni rangi tofauti zinamwagika kutoka angani."
+P7	Baadhi ya wanakijiji walikubaliana nami na wengine waliamini aliyosema Neno. Tulianza kubishana.
+P8	Mara,  mgeni mmoja alitokea na kusema,  "Mmekosea nyote."
+P9	Tulipiga mayowe,  "Ikiwa tumekosea,  wewe tueleze ukweli."
+P10	Yule mgeni alisema,  "Ni upinde. Kwani humjawahi kuuona upinde?"
+P11	Kwa mshangao zaidi,  tulimjibu,  "La! U-p-i-n-d-e ni nini?"
+P12	Neno alimwuliza,  "Je,  ni wetu? Tunaweza kuuweka hapa?" Hatukupata majibu kwa maswali yetu. Mgeni huyo alikuwa tayari ameenda zake.
+
+images:
+
+illustrations/pages/10970.png
+illustrations/pages/10965.png
+illustrations/pages/10966.png
+illustrations/pages/10967.png
+illustrations/pages/10969.png
+illustrations/pages/10970.png
+illustrations/pages/10971.png
+illustrations/pages/10973.png
+illustrations/pages/10975.png
+illustrations/pages/10976.png
+illustrations/pages/10977.png
+illustrations/pages/10979.png
+illustrations/pages/10980.png
+
+translations:
+
+English (Translation)	Day We Saw the Rainbow	id=11142
+French (Translation)	Un Arc-En-Ciel De Passage Au Village	id=13774
+Portuguese (Translation)	O Arco-Íris Visita a Aldeia	id=18857

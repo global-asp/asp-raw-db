@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=11899&d=0&a=1
+id:	11899
+title:	Imbusi Ishina
+author:	Milton Eridad Shissa
+artist:	José Nhambo
+lang:	Lumasaaba
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11899.png
+desc:	Imbusi yaakanana khatsuutse mu shisaali…
+
+page_text:
+
+P1	Yabawo lutweela,  imbusi yaakyeenda yoola mu shitsakha,  yaaba nga ikyeendaana nga yasaangalile naabi. Ne yakelawo yakoraana.
+P2	Lubaluba,  yaakanana khatsuutse. Kila khatsuutse kheetsa isi imbusi,  ne nga khabonekha nga intsala yaakhaliile naabi.
+P3	Kila imbusi iloma iri: Musakhulu khatsuutse,  ise naamanyile ndi ukana khuundya. Ne ngana ifwe nga ndi musangaafu.
+P4	Kila khatsuutse khareeba imbusi khari,  shiina sheesi umanyisa? Khuufwa nga uli musangaafu? Musaambo shiina?
+P5	Imbusi yeelamo iri,  siinga imba uwe khuufwa,  ingana ifwe nga ndi khuushina!
+P6	Khatsuutse khaabukula lituungu lyakho. Kharyo khekhala aasi khaarakikha khuulibuta.
+P7	Imbusi nayo yaarakikha khuushina,  abe yakhaba nga yaba yaariirakilemo khakyeekhe.
+P8	Ne aambikho ni shiifwo isho,  yabawo tsiimbwa. Natso tseetsa tsibone shiina shishiitsya mu moni.
+P9	Ne khatsuutse ni khaabona khu mbwa khaarya. Kila khenyukha khaatikhula tsindimo khaatsya.
+P10	Ne imbusi niyo yeloosela nga ishina,  lwekhuuba yaba yaamanyile iri yaawonile khuulibwa ni khatsuutse!
+
+images:
+
+illustrations/pages/8395.png
+illustrations/pages/8380.png
+illustrations/pages/8381.png
+illustrations/pages/8383.png
+illustrations/pages/8385.png
+illustrations/pages/8387.png
+illustrations/pages/8388.png
+illustrations/pages/8389.png
+illustrations/pages/8390.png
+illustrations/pages/8391.png
+illustrations/pages/8395.png
+
+translations:
+
+Afrikaans (Translation)	Die Dansende Boerbok	id=11243
+English (Original)	The Dancing Goat	id=8392
+Ng’aturkana (Translation)	Akine Nakedong'an	id=18072
+Portuguese (Translation)	A Dança Do Cabrito	id=8471
+Portuguese (Translation)	A Cabra Dançarina	id=18888
+siSwati (Translation)	Imbuti Ledansako	id=14808

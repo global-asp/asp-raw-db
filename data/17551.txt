@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=17551&d=0&a=1
+id:	17551
+title:	Kutheni Isele Lilibi? (Faka Imibala)
+author:	Nokuthula Bernelee Dyonase
+artist:	Hélder de Paz Alexandre
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17551.png
+desc:	Kutheni isele lilibi?
+
+page_text:
+
+P1	Kudala-dala,  icilikishe nesele babe ngabahlobo.
+P2	Isele lalinomona bubuhle nenkazimlo yecilikishe.
+P3	"Wenze njani ukuze ubemhle? Jonga mna,  ndimbi. Ndenze njani ngolwam ulusu?" latsho isele.
+P4	Lathi icilikishe,  "Mamela,  galela amanzi embizeni uyibeke emlilweni. Ecaleni kwakho."
+P5	Kodwa isele lathi,  "Sendiyazi,  ndiyayazi. Thula,  mhlobo wam." Lahamba.
+P6	Lafika ekhaya lagalela amanzi embizeni.
+P7	Athe xa amanzi eqala ukubila,  lazijula kuwo.
+P8	Ze latsha ulusu lakhe,  laqhawukelwa nangumsila.
+P9	Endaweni yokuba liqhakazele libelihle nje ngecilikishe,  laba libi nangakumbi!
+
+images:
+
+illustrations/pages/7077.png
+illustrations/pages/17361.png
+illustrations/pages/17362.png
+illustrations/pages/17364.png
+illustrations/pages/17363.png
+illustrations/pages/17370.png
+illustrations/pages/17368.png
+illustrations/pages/17365.png
+illustrations/pages/17369.png
+illustrations/pages/17367.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+English (Adaptation)	Why Frog is so Ugly - Colouring Book	id=17360
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+Kiswahili (Translation)	Sababu Chura Kuwa Na Sura Mbaya	id=8712
+Luganda (Translation)	Lwaki Wakikere Mubi Nnyo?	id=9657
+Luganda (Adaptation)	Wakikere Ne Wamunya	id=13778
+Ng’aturkana (Adaptation)	Akidodok Nabworok	id=13522
+Portuguese (Translation)	Porquê a Rã É Tão Feia?	id=7477
+Portuguese (Translation)	O Porquê Do Sapo Ser Tão Feio	id=19259
+siSwati (Translation)	Kungani Sicoco Sibe Sibi	id=12610
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

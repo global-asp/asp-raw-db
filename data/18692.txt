@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=18692&d=0&a=1
+id:	18692
+title:	Woro
+author:	Owino Ogot
+artist:	Melany Pietersen
+lang:	Dhopadhola
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18692.png
+desc:	Woro omiyo ŋok gi dyeo ocando Otal.
+
+page_text:
+
+P1	Adha wan okelo olemo kweth kweth wok gine i kisiya.
+P2	Oyido olemo neno maŋon tektek.
+P3	Omin wan Otal obedo gi woro to kayo kis olemo.
+P4	Ŋa ma okayo kayo olemo me ama?
+P5	Adha wan obedo gi keme ma thoth to koko.
+P6	Wa ŋico ni Otal ama okayo kayo olemo.
+P7	Ameno apaka wawaco ri adha wan.
+P8	Adha wan openjo go to yeyo.
+P9	Otal to cako winjo tuwo abwap.
+P10	To ŋweco i coron piyo piyo.
+P11	Ŋok gi dyewo obino ri go abwap.
+P12	Adha wan openjo gi ma wa fonjero kwoŋ tim p'Otal.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+English (Translation)	Greed	id=13327

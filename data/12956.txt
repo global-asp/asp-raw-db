@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=12956&d=0&a=1
+id:	12956
+title:	Aduroota Caala
+author:	Mulualem Daba
+artist:	Jesse Breytenbach
+lang:	Afaan Oromo
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12956.png
+desc:	Caalan Aduroota saddeeti fi saree tokko qaba. Sareen isaa Tolaa jedhama.
+
+page_text:
+
+P1	Caalan adurree ni jaallatta. Mana isaa keessa adurroota baayyee qaba.
+P2	Aduurootta Caalan qabuu keessa tokko gurraacha dha. Adurreen kun foon baayyee nyaata.
+P3	Caalan adurree furdaa tokkos qaba. Adurreen kun waan hundama nyaata.
+P4	Adurreen inni kun immo mukaa irraa yaabachu jaallata. Muka irraas oola.
+P5	Caalan mukaa irraa ni yaabba. Adurree isaa waliinis mukaa irraa ni oola. Haati Caala dhuftee muka irraa akka buu'an in gargaartiin.
+P6	Caalan adurrootta dadhaboo lama qaba. Guyyaa guutuu aduu irra ciisanii oolu.
+P7	Caalan adurrootta cimoo sadii qaba. Yeroo galgalaahu hantuuta gola keessaa qabu.
+P8	Caalan saree tokko qaba. Maqaan isaa Tolaa jedhama. Tolaan hiriyoota hin qabu. Tolaan gammada miti.
+P9	Adurroottin Caala,  Tolaa hin jallatani. Mana keessa ni ari'atuni. Innis fiigee baqata.
+P10	Caalan barbaade gara manaatti isaa  deebisa. Adurroottin immoo ni aaru. Tolaa ijaan arguu hin barbaadan.
+P11	Caalan adurrootta meeqa qabaa? Saddeet qabaa.
+P12	Caalan saree meeqa qabaa? Tokko qabaa. Tolaan amma eessa jiraa?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+English (Translation)	Selemeng's Cats	id=12155
+French (Translation)	Les Chats De Selemeng	id=13276
+Kiswahili (Translation)	Paka Wa Selemeng	id=15558
+Sepedi (Translation)	Dikatse Tša Selemeng	id=12581
+Sesotho (Lesotho) (Original)	Likatse Tsa Selemeng	id=12027

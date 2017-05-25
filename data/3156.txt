@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=3156&d=0&a=1
+id:	3156
+title:	Eŋaaŋa
+author:	Bukheye Mulongo Christopher
+artist:	Joshua Waswa
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3156.png
+desc:	Ŋaaliŋo omuseere owahuba oguŋaaŋa ogubatalya. Coka ng’aguŋa omusaaja mulala omusahulu owamenyanga hu hyalo ohwo niye ni geriila hiisi ehi gabonanga. Ng’omusaaja oyo anyiiya oguŋaaŋa ogwo ng’agulya!
+
+page_text:
+
+P1	N'ali ngendagenda Hu hyalo e Buŋanga nagwirihirira oguŋaaŋa Ogwageeja.
+P2	Ni naguhubba epanda gwalira guuti,  "ŋaa,  ŋaa,  ŋa!"
+P3	Oguŋaaŋaa gwagululuha mu bbanga. Ese ni ndulumira mu nyaasi.
+P4	Ohwola olugwagwa hu mulanga. Ebaale ni lyagulasula hu luno gwagwa hugwa ŋaasi.
+P5	Nangala Oguŋaaŋaa guno.
+P6	Oguŋaaŋa guno naguŋa Hiragana alya hiisi ehigagaana. Olundi namuŋa Namupongera. Geyaasa,  era gamulya n'atatya huŋongera.
+P7	Oguŋaaŋa gwahula gwaaŋangala omutwe gwaba ogera hipaanga.
+P8	N'ogulya amasavu ogera oti g'etaama. Eragugera omulungo gwataama.
+P9	Ohufuna oguŋaaŋa hyenda hupanga. Owiire ni wiira oguhejera hu mulanga. Omuutu ehi genda nj'ehi alya. Hiryagaana oguŋaaŋa ng'ogu alya.
+
+images:
+
+illustrations/pages/2432.png
+illustrations/pages/2433.png
+illustrations/pages/2434.png
+illustrations/pages/2438.png
+illustrations/pages/2435.png
+illustrations/pages/2436.png
+illustrations/pages/2437.png
+illustrations/pages/2439.png
+illustrations/pages/2440.png
+illustrations/pages/2441.png
+
+translations:
+
+English (Original)	The Hornbill	id=2563
+Luganda (Translation)	Eŋŋaaŋa	id=2774
+Lugbarati (Translation)	Arakiliko	id=2710
+Lugbarati (Official) (Translation)	Àràkílíkò	id=8768
+Lumasaaba (Translation)	Liŋaasa (Ŋaa, Ŋaa)	id=2775
+Ng’aturkana (Translation)	Ikeny Lokut	id=18074

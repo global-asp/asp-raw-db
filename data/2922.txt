@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2922&d=0&a=1
+id:	2922
+title:	Amasafu
+author:	Catherine Were
+artist:	Cathy Feek
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2922.png
+desc:	Olukano luno nilwo omukhana omutiti omulwale na shanyalirwa okhutsia mwisomero tawe. Amasafu kaba injira ya obukhonyi khu mukhana nga akarumikhira okhumanyisia abeetsa nalwala.
+
+page_text:
+
+P1	Lichuma liawere ndanyola amasafu amanji.
+P2	Mubarasa yawere,  omusirishi wanje yahandichira omusomesia wanje lisafu.
+P3	Wamachina nomulwale. Akhoyere okhwikhala nango.
+P4	Olwakhabiri,  ndanyoola lisafu okhurula khu abomushisomero shianje.
+P5	Owone lwangu Wamachina!
+P6	Muchitaru,  ndanyola lisafu okhurula khu mwitsa wanje wokhumwoyo.
+P7	Ekhuchorere eshifwanani shino. Owakhuchama,  Wandanje.
+P8	Muchine,  ndanyoola lisafu okhurula khu mama wanje.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

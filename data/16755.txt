@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=16755&d=0&a=1
+id:	16755
+title:	Ofu
+author:	Rita Laura Lulua
+artist:	Wiehan de Jager, Jonathan Field and Rob Owen
+lang:	Ma'di
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16755.png
+desc:	the story is about flowers in our  community
+
+page_text:
+
+P1	Adrani eze,  zaangwa  Evalyne kolu ara dri  kare ungwele tanganyika rii ga; Adjumani disitrikiti a.
+P2	 Evalyne ole ani ofu si pkwo. Odu zi si,  oya eyi ekore abua meri a.
+P3	Ana engwi re rii,  esu ofu letia. Ole ani pkwo ojo wululu!
+P4	Oca baru di ojo ana endre ni,  nyisa ofu badri baru dia ci; amala ale ofu ndro palanda!
+P5	Ekelezia a adi ofu esu.
+P6	Bani bongu ga sa adi ofu esu.
+P7	Ama nvuka tii ga sa,  adi ofu esu!
+P8	Ale pkwo ama ofu si daku.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/9500.png
+illustrations/pages/6577.png
+illustrations/pages/9003.png
+illustrations/pages/9000.png
+illustrations/pages/9457.png
+illustrations/pages/6723.png
+illustrations/pages/6700.png
+illustrations/pages/7987.png
+
+translations:
+
+Dholuo (Translation)	Mafua	id=15197
+English (Original)	Flowers	id=9702

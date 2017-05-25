@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=2885&d=0&a=1
+id:	2885
+title:	Epupi Ekon Etau Biai?
+author:	Ignatius Okurut
+artist:	Kathy Arbuckle
+lang:	Ateso
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2885.png
+desc:	Etatami iponesio lu epupio ekatau kapakisio nuka egelegela nejaasi itunga lu egelegela.
+
+page_text:
+
+P1	Idila eka etau aipup iboro luipu.
+P2	Apupi eongo aiyalama ne itatamianakina isio tataaka awaragasia ebong.
+P3	Asubi eongo abang ne abolia eongo keda apaperoka.
+P4	Apupi eongo erono arai etema papaka ebe emameete ngesi ikapun.
+P5	Apupi eongo ebe eminai eongo arai etun totoka eongo.
+
+images:
+
+illustrations/pages/1328.png
+illustrations/pages/1329.png
+illustrations/pages/1330.png
+illustrations/pages/1328.png
+illustrations/pages/1331.png
+illustrations/pages/1332.png
+
+translations:
+
+Aringati (Translation)	Cãndíru Ꞌbã Ị́jọ́ Ĩtrĩkãŋá	id=7267
+English (Original)	Feelings	id=2884
+Kikamba (Translation)	Kwĩw’A	id=2887
+Lugbarati (Translation)	Ru Etumuzu	id=2888
+Lugbarati (Official) (Translation)	Àfaamázʉ́	id=8752
+Lumasaaba (Translation)	Bibyambaso	id=8916
+Lunyole (Translation)	Weŋulira Otye?	id=2890
+Lunyole (Adaptation)	Feelings	id=13618
+Lusoga (Translation)	Mpulira	id=2891
+Maa (Translation)	Aníng	id=2886
+Ng’aturkana (Translation)	Ng’Akiiranaret Akwaan	id=2893
+Oluwanga (Translation)	Obuulili	id=2892
+Sabinyi (Translation)	Co Katinyiŋ	id=2894
+Setswana (Translation)	Maikutlo	id=2895
+Tunisian (Translation)	Iħsès	id=15155

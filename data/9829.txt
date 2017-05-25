@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=9829&d=0&a=1
+id:	9829
+title:	Imvula
+author:	Nolitha Bikitsha and Thandabantu Magengelele
+artist:	Marleen Visser
+lang:	isiXhosa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9829.png
+desc:	UNomvula uthanda ukudlala
+
+page_text:
+
+P1	"Hayi Nomvula,  sukudlala ngamanzi. Amanzi anqabile!" "Kushushu nje Mama! Ingathi ndingangena kula manzi. Ndifuna ukuphola."
+P2	"Hayi Nomvula,  sukudlala ngamanzi. Amanzi anqabile!" "Kushushu nje Mama. Ndinxaniwe. Ingathi ndingasela amanzi abandayo."
+P3	Iyana imvula. Amanzi,  aza kuba maninzi. Kodwa ngoku,  andikwazi ukudlala. Ingathi kungabashushu.
+P4	Tyhini khangela izityalo. Ziyakhula,  ziluhlaza. Jonga nee-emele nezitya zigcwele ziyaphuphuma ngamanzi.
+P5	Iyekile ngoku ukunetha imvula. Siza kutsho sidlale. Khangela ukuba kuhle kwelizwe emva kwemvula. Isibhakabhaka sihle. Futhi,  kuluhlaza yaka! Imithi,  ingca neentyatyambo zimibala-bala.
+P6	Owu,  nantso inetha kwakhona le mvula. Sizakudlala nini?
+P7	Hayi mna,  ndiza kudlala nokuba kuyanetha. Akusemnandi nje ukudlala emvuleni! Chapha chapha chapha! Imanz'ilokhwe yam! Imanz'ilokhwe yam! Chapha chapha chapha! Zimanz'iinwele zam! Zimanz'iinwele zam!
+P8	Nomvula! Awuva mntanam! Sondela,  ndikusule iinwele,  ndikukame. Chapha chapha chapha! Zimanz'iinwele zakho! Zimanz'iinwele zakho!
+
+images:
+
+illustrations/pages/7964.png
+illustrations/pages/7958.png
+illustrations/pages/7959.png
+illustrations/pages/7960.png
+illustrations/pages/7961.png
+illustrations/pages/7962.png
+illustrations/pages/7963.png
+illustrations/pages/7964.png
+illustrations/pages/7965.png
+
+translations:
+
+Afrikaans (Translation)	Reën	id=11184
+English (Translation)	Rain	id=9828
+Sepedi (Original)	Pula	id=8039

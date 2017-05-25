@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=7368&d=0&a=1
+id:	7368
+title:	Lion That Wanted Friendship
+author:	Joachim Muhindo
+artist:	Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7368.png
+desc:	A lion wants to be friends with a human. They manage to live together in peace for a while
+
+page_text:
+
+P1	Once upon time,  a lion wanted to come out of the bush and have a human as a friend.
+P2	And so the lion and the man became friends.
+P3	They ate together and shared meat. The lion realised that the man was a meat lover. It began to fear that the man would kill it.
+P4	The lion feared that perhaps the man might spear it with his spears. The man feared that the lion might eat him at night when he slept.
+P5	One night the man dreamed that the lion was moving towards him slowly,  trying to eat him.
+P6	The man took up his spear,  shouting,  "If you want to eat me,  then I will spear you." The lion woke up and ran out,  "I said this man will one day kill me."
+P7	From that day,  the lion and the man were no longer friends. The lion will kill a human whenever it finds one. And humans will kill a lion if they can.
+
+images:
+
+illustrations/pages/7341.png
+illustrations/pages/7340.png
+illustrations/pages/7341.png
+illustrations/pages/7343.png
+illustrations/pages/7347.png
+illustrations/pages/7345.png
+illustrations/pages/7344.png
+illustrations/pages/7349.png
+
+translations:
+
+Afrikaans (Translation)	Die Leeu Wat Vrienskap Wou Hê	id=11304
+Dhopadhola (Translation)	Simbwor Odwaro Mere	id=19483
+English (Translation)	Lion That Wanted Friendship	id=11340
+French (Translation)	Le Lion Qui Voulait Un Ami	id=12677
+Ng’aturkana (Adaptation)	Eng'atuny Lokaelon	id=13289
+Portuguese (Translation)	O Leão Que Queria Amizade	id=16723
+Setswana (Translation)	Lion That Wanted Friendship	id=11465

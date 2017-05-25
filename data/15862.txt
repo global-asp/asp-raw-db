@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=15862&d=0&a=1
+id:	15862
+title:	Akai Amefurahi
+author:	Translators without Borders and Pete Mhunzi
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15862.png
+desc:	Akai amefurahi kupata viatu vyake vipya vya kwanza.
+
+page_text:
+
+P1	  Akai hakuwa na viatu. Marafiki zake walivaa viatu vizuri walipocheza.
+P2	 Akai alimwomba mamake amnunulie viatu. Ilikuwa shida kucheza bila viatu.
+P3	   Walipotembea kijijini,  mama alitambua kuwa watoto wengine walivaa viatu isipokuwa Akai na Etabo.
+P4	    Siku moja asubuhi mama alimwamsha Akai akamwambia ajitayarishe waende sokoni.
+P5	    Akai na mamake walitembea hadi sokoni.
+P6	   Walipoingia katika duka la viatu,  Akai alijawa na furaha sana.
+P7	    Usiku ule,  Akai hakuweza kulala. Aliwazia tu viatu vyake vipya.
+P8	    Hamu ya kuvaa viatu alizidi. Akai akasimama na kuvivaa viatu vyake.
+P9	    Hata baada ya kurudi kitandani,  Akai aliwaza jinsi angewaonyesha wenzake viatu vyake.
+P10	   Akai aliamka tena na kuvivaa viatu vyake vipya akacheza cheza chumbani.
+P11	 Mama aliingia chumbani. Alimpata Akai amelala kitandani akiwa amevaa viatu. Akamwambia Akai asivivae tena viatu vyake kitandani.
+P12	    Akai alifurahi kupata viatu kwa mara ya kwanza.
+
+images:
+
+illustrations/pages/9500.png
+illustrations/pages/9494.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9499.png
+illustrations/pages/10444.png
+illustrations/pages/9498.png
+illustrations/pages/9502.png
+illustrations/pages/9501.png
+illustrations/pages/9500.png
+
+translations:
+
+English (Adaptation)	Happy Akai	id=16209

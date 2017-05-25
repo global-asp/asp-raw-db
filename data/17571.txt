@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=17571&d=0&a=1
+id:	17571
+title:	Ndiyakonwabela Ukwenza Izinto
+author:	Xolisa Guzula
+artist:	Wiehan de Jager
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17571.png
+desc:	Izinto endithanda ukuzenza.
+
+page_text:
+
+P1	Ndiyakuthanda ukutsibatsiba nomhlobo wam.
+P2	Ndiyakuthanda ukubhala oonobumba ebhodini.
+P3	Ndiyakuthanda ukufunda iincwadi ezinemifanekiso.
+P4	Ndiyakuthanda ukutya iintlobontlobo zeziqhamo.
+P5	Ndiyakuthanda ukuncedisa ekhaya.
+P6	Ndiyakuthanda ukumamela amabali kamama wam.
+P7	Ndiyakuthanda ukulala ebhedini enkulu.
+P8	Ndiyazithanda ezi zinto. Uthanda ntoni wena?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+isiZulu (Adaptation)	Engijabulela Ukukwenza	id=19595
+Portuguese (Translation)	Eu Gosto De Fazer	id=16567
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18001
+Setswana (Translation)	Ke Rata Go Dira Se	id=17652
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18318

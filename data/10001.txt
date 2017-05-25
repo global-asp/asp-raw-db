@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=10001&d=0&a=1
+id:	10001
+title:	En Njaha!
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Thembinkosi Kohli
+lang:	Fulfulde
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10001.png
+desc:	Konngi gooɗom dow anndal maatinorɗe: maatol
+
+page_text:
+
+P1	Faro hinere am.
+P2	Miɗo maata henndu seseetuuje tunnuɗe.
+P3	Miɗo maata uurngol piinndi lobbiri.
+P4	Faro gite am.
+P5	Miɗo yi'a baaluure no weela nder henndu to toowti.
+P6	Miɗo yi'a geggeeru sehiindu.
+P7	Faro hunnduko am.
+P8	Miɗo meeɗa ndiyam lamɗejam ɗam teeku.
+P9	Miɗo meeɗa ndeelam lamsuɗam ɗam leemuure.
+P10	Faro junngo am.
+P11	Miɗo jogoo junngo maaɗa.
+
+images:
+
+illustrations/pages/3015.png
+illustrations/pages/3016.png
+illustrations/pages/3017.png
+illustrations/pages/3018.png
+illustrations/pages/3019.png
+illustrations/pages/3020.png
+illustrations/pages/3021.png
+illustrations/pages/3022.png
+illustrations/pages/3022.png
+illustrations/pages/3024.png
+illustrations/pages/3025.png
+illustrations/pages/3026.png
+
+translations:
+
+Afaan Oromo (Translation)	Haa Deemnu!	id=12254
+English (Original)	Let's Go	id=3028
+English (Translation)	Iri Ma Koy	id=11734
+French (Translation)	Allons-Y!	id=9922
+Hausa (Translation)	Mu Je !	id=9970
+isiZulu (Translation)	Asambe	id=7703
+Kanuri (Translation)	Leniwo	id=10030
+Lubukusu (Translation)	Khe Khuche!	id=3100
+Maa (Translation)	Máapé!	id=3098
+Ng’aturkana (Translation)	Kapana!	id=3099
+Olukhayo (Translation)	Kenda Khuche	id=3094
+Oluwanga (Translation)	Khutsie!	id=3102
+Somali (Translation)	Ina Wadiya	id=16761
+Zarma (Translation)	Iri Ma Koy!	id=10097
+Zarma (Translation)	Iri Ma Koy	id=11590

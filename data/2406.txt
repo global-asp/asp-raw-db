@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=2406&d=0&a=1
+id:	2406
+title:	Ekijanjaalo Ekimera
+author:	Rebecca Kuteesa
+artist:	Mlungisi Dlamini
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2406.png
+desc:	Simba ensigo y’ekijanjaalo olabe ekibaawo ng’ogifukiridde era n’ogirabirira bulungi.
+
+page_text:
+
+P1	Omulandira gwe gusooka okumera.
+P2	Gumerera mu ttaka.
+P3	Ekikolo kye kiddako okumera. Kitutunuka kyolekera enjuba.
+P4	Ebikoola ebisooka bifuluma.
+P5	Ekimera ky'ekijanjaalo kikula ne kiwanvuyira ddala.
+P6	Oluvanyuma kimulisa (kireeta ebimuli). Ebimuli bifuukamu ebijanjaalo.
+P7	Mu kijanjaalo mubeeramu ensigo nnyingi.
+
+images:
+
+illustrations/pages/1824.png
+illustrations/pages/1826.png
+illustrations/pages/1827.png
+illustrations/pages/1828.png
+illustrations/pages/1829.png
+illustrations/pages/1824.png
+illustrations/pages/1832.png
+illustrations/pages/1833.png
+
+translations:
+
+Afrikaans (Translation)	'n Boontjiesaad	id=11127
+Afrikaans (Translation)	Hoe Groei 'n Boontjie ?	id=11129
+Aringati (Translation)	Mãrágĩ Drí Ángápí Ángárĩ	id=9275
+English (Original)	The Sprouting Bean	id=2257
+English (Adaptation)	Germinating Seed	id=13205
+French (Translation)	Le Haricot Qui Germe	id=12700
+Kakwa (Translation)	Teyikota Lo Pupuu Ilo	id=9055
+Kikamba (Translation)	Mboso Ikumea	id=2403
+Kiswahili (Translation)	Maharagwe Yanayomea	id=2405
+Leblango (Translation)	Oraŋŋa Tye a Yabërë	id=11740
+Lugbarati (Translation)	Kaiko Engapi Enga Ri	id=2980
+Lugbarati (Official) (Translation)	Kaíkó Engápɨ Engárɨ̀	id=8766
+Maa (Translation)	Embúlúnotó É Empóóshóí	id=2414
+Ng’aturkana (Translation)	Emarage Lokajupunan	id=2411
+Oluwanga (Translation)	Linakanda Lisebushe	id=2412
+Setswana (Translation)	Nawa E E Thunyang	id=2413

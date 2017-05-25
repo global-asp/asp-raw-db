@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=7893&d=0&a=1
+id:	7893
+title:	Nkaayi Noomukeeka Omulobole
+author:	Cornelius Gulere
+artist:	Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7893.png
+desc:	Nkaayi mughala yakulira mu nsozi nga ali noomukeeka ogutali gwa buliidho. Omukeeka guno gwali guyamba Nkaayi obutafuna bukosefu kuva mu bisolo bikambwe era akanoni ka namumpongera kaamuyamba okwirayo eka bwe yali abuze nga kakozesa mukeeka guno.
+
+page_text:
+
+P1	Nkaayi bwe yali omughala omuto,  ininha yamutanga ku mukeeka omulobole atenduke. Songa wa Nkaayi neegaluka okuva mu nsansa.
+P2	Omukeeka gwali mu langi ndhobole. Dha pinka na bululu na kilagala. Nga gwa ndhaghulo ku mikeeka egindi ininha gye yali najo mu nhumba.
+P3	Okwetooloola ewa Nkaayi ghaali ghookya inho are ghaidwiire bubaale. Ebighuuka ne emisota nga byetaaya. Aye nkaayi yali tasobola kulumwa bighuuka bino ebikambwe.
+P4	Her mother said,  "Her special mat protects Akai from any harm."
+P5	Akai was a clever child. She learnt where the nearest shallow well was.
+P6	Yali aidhi akasiisira ka dhaadhawe ghekaali. Yajangayo okweva amata ni dhaadhawe.
+P7	Lulala,  Nkaayi byamusobera. Yasimbula okuja ewa dhaadhawe aye tiyatuukayo. Nkaayi yaatya.
+P8	Yaatyama ghansi mu muti omukone yalindirira obuyambi. Tiyalwa nga aghongera nookuloota yaaloota.
+P9	This is how the dream went: She was lying on her special mat. A woman who looked like her grandmother was watching over her. The lady smiled and gave her a big bowl of camel milk. Just when Akai stretched out her hand to take the milk,  she woke up.
+P10	Akai opened her eyes slowly. When she looked up,  she saw a small blue bird balanced on a branch above her.
+P11	Nkaayo yaja okuzuuka,  nga abona kanamumpongera kali kumulaga ngira. Nkaayi yaakanonereza.
+P12	Nkaayi yaatuuka mu maagaanana. Kanamumpongera kaasuulawo ekikutu kyomukeeka ekyali kifaanana noomukeeka gwa Nkaayi gweene.
+P13	Bweyasitula omukeeka ati,  yaabona ebigere bya ininha. Yailaku yaabona ensulo mwebanona amaadhi.
+P14	Abomumaka ga Nkaayi bayemba baakina okumwiisuusa okwira ghaka. Baamwitira embuzi,  baamwokyera emamba baasagamba olwokwiira kwe ghaka.
+P15	Nkaayi yaatyama ku mukeeka gwe omulobole yaasagamba ni baine eno bwalya ogunofu ogwemamba endhokye.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5997.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6002.png
+illustrations/pages/6003.png
+illustrations/pages/6004.png
+illustrations/pages/6005.png
+illustrations/pages/6006.png
+illustrations/pages/6007.png
+
+translations:
+
+English (Original)	Akai's Special Mat	id=6008
+French (Translation)	La Natte Spéciale D’Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kiswahili (Translation)	Mkeka Wa Akai	id=7860
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+siSwati (Translation)	Imadi Yathembi Lebalulekile	id=13073
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

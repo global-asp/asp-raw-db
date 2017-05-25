@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=15410&d=0&a=1
+id:	15410
+title:	My Brother Ken
+author:	Emmaculate Onyango
+artist:	Marleen Visser, Catherine Groenewald, Onesmus Kakungi, Vusi Malindi, Silva Afonso, Silva Afonso and Vusi Malindi and Abraham Muzee
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15410.png
+desc:	Brotherly love.
+
+page_text:
+
+P1	My name is John.
+P2	I have an older brother called Ken.  Ken loves me and I love him too.
+P3	We walk to school together in the morning.
+P4	When the bell rings for break time,  Ken helps me to put on my games uniform.
+P5	Often I play with Ken and his friends during break. When the bell rings at the end of the day,  we hurry home.
+P6	After we reach home,  we go to swim in the river.
+P7	At bedtime Ken reminds me how to brush my teeth.
+P8	During the weekend,  we go to play football in the field.
+P9	I love my brother very much.
+P10	My mother loves watching her children play football.
+
+images:
+
+illustrations/pages/14051.png
+illustrations/pages/9857.png
+illustrations/pages/13666.png
+illustrations/pages/14736.png
+illustrations/pages/14062.png
+illustrations/pages/14735.png
+illustrations/pages/13497.png
+illustrations/pages/14047.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/9572.png
+
+translations:
+
+Dholuo (Original)	Owadwa Ken	id=15208

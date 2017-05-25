@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=20018&d=0&a=1
+id:	20018
+title:	Vitu mbali mbali
+author:	Ursula Nafula
+artist:	Dorcas Wepukhulu and Bloom Images
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20018.png
+desc:	Majna ya vitu tofauti.
+
+page_text:
+
+P1	Huyu ni ndovu.
+P2	Huu ni uyoga.
+P3	Hii ni birika.
+P4	Hiki ni chackula.
+P5	Huyu ni nge.
+P6	Hii ni pasi.
+P7	Hii ni taa.
+P8	Hii ni nyumba.
+P9	Huu ni moto.
+
+images:
+
+illustrations/pages/18587.png
+illustrations/pages/18588.png
+illustrations/pages/18589.png
+illustrations/pages/18590.png
+illustrations/pages/18591.png
+illustrations/pages/18586.png
+illustrations/pages/18581.png
+illustrations/pages/18583.png
+illustrations/pages/18582.png
+illustrations/pages/18587.png
+
+translations:
+

@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=18629&d=0&a=1
+id:	18629
+title:	Beenzuma
+author:	Vision Milimo
+artist:	Catherine Groenewald
+lang:	ChiTonga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18629.png
+desc:	Boola musa
+
+page_text:
+
+P1	Izina lyangu ndime Simo.
+P2	Ndijisi benzuma bone.
+P3	Mazina aabo ngaaya: Zizo,  Lele,  Sisa alimwi Ayanda.
+P4	Mbuli mbomuzyi kale kuti muntu a muntu inga ulijisi cintu ncayandisisya kucita kapati mubuumi bwakwe. Zizo ulauyanda musobano wabbola citaambiki.
+P5	Lele mwanamusankwa uyanda kudubbwida mukati mumeenda malamfu.
+P6	Sisa walo ukkomanina kapati cisobano cakalaambe. Musobano ooyu linji-linji ucitika ciindi camasiku nokuli mwezi.
+P7	Ayanda walo uyanda kubala.
+P8	Ino muyeeya kuti mebo ncisobano nzi nceyanda. Mebo ndilayanda kucita kufumbwa ceeco beenzuma ncobayanda kucita. Mubbola,  ndajanika. Akube kukudubbwida,  nkweli. Kalaambe,  tacaambwi. Ikubala,  mumwesu.
+P9	Eelyo aboobo kwiina nkwezulilwa,  nyina andaba. Kwaboola Zizo,  ndimubbola.
+P10	Ndasika kuli Lele,  nkudubbwida.
+P11	Mwaleta Sisa,  ndimukalaambe.
+P12	Waitwa ayebo,  sunu,  sena ncisobano nzi ncoyandisisya kapati?
+P13	Boola tuume bbola.
+P14	Boola tudubbwide.
+P15	Boola tusobane kalaambe.
+P16	Langa waindwa,  boola tubale antoomwe!
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Ṡuħàb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

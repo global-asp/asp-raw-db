@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=18771&d=0&a=1
+id:	18771
+title:	Frog and Snake
+author:	John Emongot
+artist:	Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18771.png
+desc:	Through this story we learn that not all friends are true.
+
+page_text:
+
+P1	Once upon a time,  Frog and Snake were good friends. Their homes were near each other and their children played together.
+P2	One day,  Frog said to Snake,  "My friend I want to visit my mother next week. Would you like to go with me?"
+P3	"I would be happy to go," Snake answered. "Very good,  then let's prepare for a long journey," replied Frog. "We also need to find someone to look after our homes while we are away," she added.
+P4	They asked Monkey to help since he was good and responsible. Monkey accepted.
+P5	During the next few days,  the two friends were busy making arrangements for the journey. Frog collected white ants and packed them in a big sack. Her mother loved to eat white ants.
+P6	The day arrived and the two friends set off at dawn. Soon they reached the thick forest. As they entered the forest,  a group of angry squirrels gathered to attack them.
+P7	Snake was so afraid that she started shaking. She hissed and hissed but the fierce squirrels kept on coming closer.
+P8	Just as the squirrels were about to attack them,  Frog croaked very loudly. The squirrels got such a fright that they ran away.
+P9	When the two friends finally arrived at Frog's mother's place,  they were hungry and tired. Frog's mother gave them a mat to sit on while she was preparing food.
+P10	When the food was ready,  Frog and Snake washed and sat down to eat.
+P11	Before they started eating,  Frog said,  "Snake you can't eat while lying down. That is bad manners. Please sit up properly otherwise my mother will be offended."
+P12	Snake tried very hard to sit up like the frogs,  but she failed.
+P13	Meanwhile Frog and her mother started eating the food.
+P14	"I can't sit up properly," Snake pleaded with Frog. But Frog would not listen.
+P15	Snake was so upset that she decided to go back to her home. She did not say farewell to the frogs.
+P16	On the way home,  she made a plan to teach Frog a lesson!
+
+images:
+
+illustrations/pages/18698.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18700.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18707.png
+illustrations/pages/18709.png
+illustrations/pages/18710.png
+illustrations/pages/18711.png
+illustrations/pages/18712.png
+illustrations/pages/18713.png
+illustrations/pages/18714.png
+
+translations:
+
+English (Adaptation)	Frog and Snake	id=19762
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772

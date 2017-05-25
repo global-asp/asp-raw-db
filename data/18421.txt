@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18421&d=0&a=1
+id:	18421
+title:	Ng’Ipalon Ng’Iarei Lochamam
+author:	Turkana ECD Teachers
+artist:	Jesse Pietersen
+lang:	Ng’aturkana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18421.png
+desc:	Poyo a Ethiopia kichama ng’ipalon ng’iarei lusorok luachamum anierumor totiakas kotere ng’ekiro akwapit.
+
+page_text:
+
+P1	Ayei kolong Ikale ka Irara. Taraut ng'ipaalon.
+P2	Toloto nakeor kapei abolia.
+P3	Tobong'ut nawi kewar.
+P4	Tolimok Ikale itokeng,  "Ariam ayong epae loajokon. Eyakar ng'ajul namugeyek ka nakirionok. Alakara ayong. Eriamun moi naboka ng'esi."
+P5	Totachak ataikale,  "Hee-ro ikakoku. Alakara ibong'u niajokon. Mere epae yok. Arara erai emoit. Kiari ng'oni kitonyam. Nyiriama kang'esi moi nabo."
+P6	Kaneni tolimok Irara itokeng nia ayei. "Aanyu epae loajokon. Eyakar ng'ajul nakirionok. Elakara jiik. Eriamunos moi nabo."
+P7	Totachak ata Irara,  "Hee-ro cha ikakou nikesionon. Kerai ikale nitikajokon. Alakara nyenyama iyonga. Kiriamun ka iyong moi. Taar tonyam nii-eem."
+P8	Akwaar nache,  tolot Irara lorerea ka-taa Ikale.
+P9	Amam Ikale. Adukito ka itokeng alokai.
+P10	Tochalu Irara,  "Atoloto nakeor atoboliata."
+P11	Tama Ikale,  "Meere ng'ipalon ng'on nabo. Nyabuniang. Apupiang itokeng. Ejok ng'ide epupete itokech."
+P12	Tong'oo Irara. Tobong nia-itokeng.
+
+images:
+
+illustrations/pages/18402.png
+illustrations/pages/18401.png
+illustrations/pages/18402.png
+illustrations/pages/18403.png
+illustrations/pages/18404.png
+illustrations/pages/18405.png
+illustrations/pages/18406.png
+illustrations/pages/18407.png
+illustrations/pages/18408.png
+illustrations/pages/18409.png
+illustrations/pages/18410.png
+illustrations/pages/18411.png
+illustrations/pages/18412.png
+
+translations:
+
+English (Original)	Two Little Friends	id=18420
+Kiswahili (Translation)	Marafiki Wawili Wadogo	id=19404

@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=17456&d=0&a=1
+id:	17456
+title:	Bisi Nini Y'ubururu
+author:	Emmanuel Sibomana
+artist:	Mango Tree
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17456.png
+desc:	Mugisha na nyinabategereje bisi nini y’ubururu kugira ngo ibajyane mu mugi. Ariko iyo bisi yarapfuye. None baragera mu mugi bate?
+
+page_text:
+
+P1	Mu mudugudu Mugisha yari atuyemo hakoraga bisi imwe gusa yajyaga mu mugi. Yari nini kandi isa n'ubururu. Yagendaga isakuza cyane.
+P2	Umunsi umwe nyina wa Mugisha aramubwira ati,  "Ejo tuzajya mu mugi kugura imyenda yawe y'ishuri."
+P3	Mugisha yarishimye cyane kubera ko bari kugenda muri ya bisi nini y'ubururu. Yaraye adasinziriye iryo joro.
+P4	Mugisha yari yarangije kwambara igihe nyina yazaga kumukangura mu gitondo.
+P5	Mugisha na nyina batangira urugendo bagana aho bategera bisi. Bahageze bategereza ya bisi nini y'ubururu. Ariko bisi ntiyaza.
+P6	Abandi bantu na bo baje aho bategera bisi. Batangira kwivovota kubera ko bisi yari yatinze. Baribazaga bati,  "Ese bisi yaba yadusize?"
+P7	Mugisha yari yihebye. Yaratekerezaga ati,  "Ntabwo turi bubashe kujya mu mugi. Sindi bubone imyenda yanjye y'ishuri."
+P8	Abantu bamwe barambiwe gutegereza,  bisubirira mu rugo. Ariko Mugisha ararira yanga gutaha. Nyina aramuhumuriza. Ati,  "Turakomeza dutegereze gato."
+P9	Muri ako kanya bumva urusaku. Babona ivumbi ritumuka. Ya bisi yari ije!
+P10	Ariko iyo bisi yari ije ntiyari ubururu,  nta n'ubwo yari nini. Iyo bisi yari umutuku kandi ari ntoya. Abari bategereje bitegereza iyo bisi. Ntibayijyamo.
+P11	Umushoferi arababwira ati,  "Nimwinjire! Nimwinjire!" Ati,  "Uyu munsi twakererewe cyane."
+P12	Mugisha na nyina ni bo babanje kwinjira. Hanyuma n'abadi bose binjira muri ya bisi nto itukura.
+P13	Mugisha arebera mu idirishya. Abona hakiri abandi bantu aho bategera bisi.
+P14	Ndetse hari benshi bari bacyirukanka ngo binjire muri iyo bisi. Ariko bari bakererewe. Bisi yari yamaze kuzura. Ya bisi itukura irahaguruka yerekeza mu mugi.
+P15	Nyina wa Mugisha arabaza ati,  "Ese ya bisi nini y'ubururu iri he?" Umushoferi aramusubiza ati,  "Yarapfuye." Yongeraho ati,  "Turi kuyikanika izaza ejo."
+P16	Ibara rya bisi ntacyo ryari ribwiye Mugisha. Nta n'ikibazo yari atewe n'uko bisi yari ntoya. Yari ashimishijwe n'uko iyo bisi yari igiye mu mugi.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

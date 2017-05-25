@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=10839&d=0&a=1
+id:	10839
+title:	La Chèvre, Le Chien Et La Vache
+author:	Claire Sjaarda and Translators without Borders
+artist:	Marleen Visser
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10839.png
+desc:	La chèvre
+
+page_text:
+
+P1	La chèvre,  le chien et la vache étaient de très bons amis. Un jour,  ils partirent se promener en taxi.
+P2	A la fin de leur voyage,  le chauffeur leur demanda de payer sa course. La vache paya sa part.
+P3	Le chien paya un peu plus,  parce qu'il n'avait pas la somme exacte.
+P4	Alors que le chauffeur était sur le point de rendre la monnaie au chien,  la chèvre se sauva en courant sans rien payer.
+P5	Le chauffeur en colère repris la route sans rendre la monnaie au chien.
+P6	C'est pourquoi,  encore aujourd'hui à l'arrivée d'une voiture,  le chien court trouver le chauffeur à l'intérieur pour qu'il lui rende sa monnaie.
+P7	La chèvre se sauve au bruit d'une voiture. Elle a peur d'être arrêtée pour ne pas avoir payé.
+P8	La vache quant à elle,  reste indifférente à l'approche d'une voiture. Elle prend son temps pour traverser la route parce qu'elle sait qu'elle a payé son dû.
+
+images:
+
+illustrations/pages/6372.png
+illustrations/pages/6371.png
+illustrations/pages/6373.png
+illustrations/pages/6374.png
+illustrations/pages/6375.png
+illustrations/pages/6376.png
+illustrations/pages/6377.png
+illustrations/pages/6378.png
+illustrations/pages/6379.png
+
+translations:
+
+Afrikaans (Translation)	Bok, Hond en Koei	id=11138
+Dhopadhola (Translation)	Dyel, Gwok Kodi Dhyaŋ	id=16481
+English (Translation)	Goat, Dog and Cow	id=6380
+English (Adaptation)	Goat, Dog, and Cow With Tv	id=13529
+isiNdebele (Translation)	Imbuzi, Inja Nekomo	id=7670
+isiZulu (Translation)	Imbuzi, Inja Nenkomo	id=7491
+Kikamba (Translation)	Mbui, Ngiti Na Ng'ombe	id=9686
+Kiswahili (Translation)	Mbuzi, Mbwa Na Ng’Ombe	id=7868
+Luganda (Translation)	Wambuzi, Wambwa Ne Wante	id=7787
+Lumasaaba (Original)	Imbusi, Imbwa Ni Ngaafu	id=6730
+Lunyole (Translation)	Embusi, Embwa N’Eŋombe	id=8397
+Maa (Translation)	Enkíné, Oldía Ó Enkíténg	id=7867
+Ng’aturkana (Translation)	Akine, Ing'ok Ka Aite	id=7014
+Oluwanga (Translation)	Imbusi, Imbwa Nende Ing’Ombe	id=8279
+Portuguese (Translation)	A Cabra, O Cachorro E a Vaca	id=16419
+Rutooro (Translation)	Embuzi, Embwa, N’Ente	id=14925
+Sesotho (Lesotho) (Adaptation)	Pooli, Ntja, Le Khomo Le Tv	id=13553
+Setswana (Translation)	Podi, Ntšwa Le Kgomo	id=7771

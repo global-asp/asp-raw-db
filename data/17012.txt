@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=17012&d=0&a=1
+id:	17012
+title:	Wakame Akabeiha Warujojo
+author:	Sanyu Sophie
+artist:	Wiehan de Jager
+lang:	Rukiga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17012.png
+desc:	Wakame Okuyabehabeihire Warujojo atyo akamusiinga omumpaka zokwiiruka
+
+page_text:
+
+P1	Obwakare na kare Warujojo na Wakame bakaba bari abanywani Bakaba beine ekisyo ky' ente,  entaama hamwe ne mbaraasi.
+P2	Bakaba bariisa amatungo gaabo omurushozi rwa Kiziba omuri Kamwenge. Obumwe nobumwe bakaba batwara amatungo gaabo omuruhaanga rwa Rukooko okusherurayo amaizi no bunyaasi oburungi.
+P3	Wakame na Warujojo bakaba bazaana omupiira bari omwirisizo. Eki kikaba kibashemeza munonga munonga.
+P4	Kwonka omukuzaana kwabo,  Warujojo akaba asiinga Wakame kandi akaba amuteera za goolo nyingi munonga.
+P5	Eizooba rimwe Wakame akabuuza Warujojo "Nenki ekirikutuma wazaana gye munoonga?" Warujojo akamugarukamu ngu "Nahabwa amaguru gangye mahango."
+P6	Eizooba eryakuratiireho Wakame akagambira Warujojo ngu beirukye empaka. Warujojo atyo yeikiriza batandika okwiruka.
+P7	Wakame akasiinga empaka zokwiiruka zoona. Eki kikabiihiza Warujojo ahakuba akaba atuura nasiinga.  Mbwenu yabuuza Wakame ati "Ekyirikutuma weiruka munoonga nikyi?  Wakame yagarukamu ngu ni ahabw' buguru bwangye bukye."
+P8	Warujojo ahonaho yabuuza Wakame ngu nkorekyi okukyedeeza amaguru gangye.  Wakame yamugarukamu ati,  "Kyanguhi munonga,  ninza kukworeka okworakyendeeze amaguru gaawe n'omuriro."
+P9	Wakame akagambira Warujojo ngu ate amaguru ge omumuriro.  Warujojo atyo yaaza omumuriro yaribatamu. Atyo yatandika okuteera enduru mpango ati "aibambe! Ayii! Omuriro gwanyosya!"
+P10	Wakame akashemererwa munonga. Yaguma nagambira Warujojo ngu agumisirize amaguru ge gariyo nigakyendeera.
+P11	Warujojo akashasha munoonga atyo yaruga omumuriro nayajura nk'omwaana. Akaba atakubaasa n'okwemerera atyo y'abyaama   ahansi.
+P12	Warujojo akaguma ashutami ahansi okumara ebiro byingyi ahakuba akaba atarikubaasa kwemerera.
+P13	Warujojo akeimuka yataaha omuka owabo ahanyima y'ebiro bingyi.
+P14	Obwahati Wakame na Warujojo tibari banywani.
+
+images:
+
+illustrations/pages/13000.png
+illustrations/pages/13000.png
+illustrations/pages/13001.png
+illustrations/pages/13002.png
+illustrations/pages/13003.png
+illustrations/pages/13004.png
+illustrations/pages/13005.png
+illustrations/pages/13006.png
+illustrations/pages/13007.png
+illustrations/pages/13008.png
+illustrations/pages/13009.png
+illustrations/pages/13010.png
+illustrations/pages/13012.png
+illustrations/pages/13013.png
+illustrations/pages/13014.png
+
+translations:
+
+Amharic (Adaptation)	ዝሆንና ጥንቸል - ተረት ተረት	id=18755
+English (Translation)	Hare Tricks Elephant Again	id=13093
+Kiswahili (Original)	Sungura Na Ndovu (Tena!)	id=13092
+Kiswahili (Translation)	Sungura Amdanganya Ndovu	id=18342
+Setswana (Translation)	Mmutla O Tsietsa Tlou Gape	id=14958

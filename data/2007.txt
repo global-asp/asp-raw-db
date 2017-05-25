@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2007&d=0&a=1
+id:	2007
+title:	Valua
+author:	Stephen Musyoka
+artist:	Cathy Feek
+lang:	Kikamba
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2007.png
+desc:	This story is about a little girl who is ill and has to stay away from school.  Letters are an important form of communication while she is off sick.
+
+page_text:
+
+P1	Kyumwa kithelu nina kwatie valua mbiingi.
+P2	Wakwambililya ndakitali wakwa niwandikiie mwalimu wakwa valua.
+P3	Thabisile ni muwau. Ngonginya ekale musyi.
+P4	Wakeli ninakwatie valua kuma kilasini kyakwa.
+P5	Voa mituki,  Thabisile!
+P6	Wakatatu ninakwatie value kuma kwa munyanyawa wakwa.
+P7	Nisolile ivisa yii nundu waku. Wendo kuma kwa Dudu.
+P8	Wakana ninakwatie valua kuma kwa mama.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=8439&d=0&a=1
+id:	8439
+title:	Panya
+author:	Pete Mhunzi
+artist:	Zablon Alex Nguku
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8439.png
+desc:	Panya wa nyika anamtembelea panya wa nyumbani kuona maisha yake mazuri akiwa nayo nyumbani.  Lakini uchoyo wa panya wa nyumbani unamshinda naye panya wa nyika anaona thamani iliyopo nyumbani mwake kwenyewe.
+
+page_text:
+
+P1	Hapo zamani,  kulikuwa na panya wawili. Mmoja wao aliishi nyikani.
+P2	Panya mwingine aliishi katika nyumba.
+P3	Siku moja,  panya aliyeishi katika nyumba alimwambia panya wa nyika,  "Wewe chakula chako si kizuri,  usingizi wako umejaa mang' amung' amu huku mvua ikikulowesha."
+P4	"Lakini sisi,  tunalala fofofo nyumba za watemi. Tunakula vyakula vingi mno. Afadhali unitembelee siku moja ukaone fahari iliyopo wewe mwenyewe," alisema panya wa nyumba. "Leo hii hii usiku," akajibu panya wa nyika. "Niko tayari kama mrija unaosubiri kinwaji."
+P5	Wakati huo huo mwenye nyumba alikasirika ajabu akifoka matusi,  "panya hawa wanaokula chakula changu,  wataona cha mtema kuni!" Ndipo akawategea mtego uliyojaa sukari.
+P6	Panya waliingia nyumbani kula vitamu vilivyomo. Waliingia wakicheka,  "chu. Chu. Chi. Chi. Che. Che!"
+P7	Walipoufikia mtego,  panya wa nyumba alisema,  "wacha nionje sukari. Tazama vitamu vitamu tunavyokula hapa."
+P8	Lakini kabla panya hajapata kugusa sukari,  mtego ukamnasa kichwa. Pa! Macho yake yakabubujika kama mbilinganyi.
+P9	Panya wa nyika akamtazama ameduwaa. Akasema,  "E. Heee rafiki yangu kitamu kipi ulichokula kikayafanya macho yabubujike?"
+P10	Lakini panya wa nyumba akashindwa kujibu.
+P11	Panya wa nyika akaondoka akikejeli,  "Du! Umekula vizuri kiasi siviwezi vitamu hivyo unavyohimidi."
+P12	Kuwepo nyumbani kunako chakaa mradi kwako ni bora kuliko kuwepo nyumbani kuzuri sana angalau ni nyumba ya jirani yako.
+
+images:
+
+illustrations/pages/7506.png
+illustrations/pages/7496.png
+illustrations/pages/7497.png
+illustrations/pages/7498.png
+illustrations/pages/7499.png
+illustrations/pages/7500.png
+illustrations/pages/7501.png
+illustrations/pages/7502.png
+illustrations/pages/7503.png
+illustrations/pages/7504.png
+illustrations/pages/7505.png
+illustrations/pages/7505.png
+illustrations/pages/7506.png
+
+translations:
+
+Afrikaans (Translation)	Die Rot	id=11325
+English (Translation)	The Rat	id=7769
+English (Adaptation)	The Big Rats	id=13612
+Likpakpaanl (Translation)	Lisayikl	id=18782
+Lunyole (Translation)	Embeba	id=13611
+Lusoga (Original)	Wansolimo	id=7768
+Portuguese (Translation)	A Ratazana	id=18858
+Portuguese (Translation)	A Ratazana	id=18890
+Rutooro (Translation)	Embeba	id=14941

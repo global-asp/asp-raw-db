@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=13610&d=0&a=1
+id:	13610
+title:	Children  Enjoy  Playing.
+author:	Mubbalya Charles
+artist:	Sue Kramer, Wiehan de Jager, Mlungisi Dlamini, Catherine Groenewald and Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13610.png
+desc:	Children enjoy playing different games according to age. Read the story and find your favourite games and share with friends.
+
+page_text:
+
+P1	Young boys enjoy playing football.
+P2	I enjoy rope skipping.
+P3	Anna and sam like playing with hens while giving them food.
+P4	Some boys enjoy hide and seek.
+P5	Sam likes running.
+P6	Girls like swimming.
+P7	Elsie likes to jump like a frog.
+P8	Girls play with water.
+P9	Nelly likes sliding.
+P10	Children like to play wedding games.
+P11	Keisha and Dona like to play with dolls.
+P12	What about you?
+
+images:
+
+illustrations/pages/13379.png
+illustrations/pages/13254.png
+illustrations/pages/1627.png
+illustrations/pages/11668.png
+illustrations/pages/9858.png
+illustrations/pages/1623.png
+illustrations/pages/9848.png
+illustrations/pages/1624.png
+illustrations/pages/1421.png
+illustrations/pages/942.png
+illustrations/pages/6516.png
+illustrations/pages/1768.png
+illustrations/pages/1770.png
+
+translations:
+
+English (Original)	Children Like to Play	id=7259
+Luganda (Translation)	Abaana Baagala Okuzannya	id=7457
+Lunyole (Translation)	Abaana Benda Ohugudula	id=13609

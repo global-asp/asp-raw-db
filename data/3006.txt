@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=3006&d=0&a=1
+id:	3006
+title:	Manaasi Ni Kamakhula
+author:	Fabian Wakholi
+artist:	Wiehan de Jager
+lang:	Lumasaaba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3006.png
+desc:	Wele we likulu akhalawo khuukabila Manasi Nabubi inyuungu iyetsulamo kamakhula. Aryo waasangaala naabi lweebyo byeesi eyika nga waakilolilemo
+
+page_text:
+
+P1	Aabawo khaale ni khaale naabi,  babaandu abe baakhumanyakho shishiindu shoosi ta. Sibaamanya khuubyaala byakhulya ta,  namwe khuunaba tsingubo ta,  namwe khuubasa bibyuuma ta. Ne wele waabwe Khabuumbi uwamenyatsaka mu ngaaki mwikulu aaba ni kamakesi koosi ke shibala. Abe waakabiikha buulayi mu nyuungu.
+P2	Shifukhu shitweela,  Khabuumbi waakhalawo khuuwa Manaasi inyuungu iyo iye kamakesi. Buli esi Manaasi ekheengela mu nyuungu umwo,  eyikatsakayo shishiindu shiyaakha. Isho shaamwikhoyesatsaka naabi.
+P3	Lwe kumuluungo,  Manaasi wambaasa ari,  "Kane imbiikhe inyuungu yino buulayi imisya we kusaala kuleeyi. Kane shino shiinyalisise ise khuukimalila senyene. Manaasi waaborora luwuutsi luleeyi,  waalubowelela khu nyuungu,  lwanyuma waakibowa khu nda yeewe. Aryo waarakikha khuuniina khu kusaala. Ne sishaba shaangu khuuniina nga waasutile inyuungu ta,  lwekhuuba yaba imukuunyaka khu meesikamo keewe buli nyaanga."
+P4	Bino byoosi byakholekha nga umwaana wa Manasi umukyeekhe,  uwaba weemikhile mwisiina mwe kusaala,  waaloleleele. Kila aloma paapawe ari,  "Sishaandibeele shaangu khuuniina nga waabowele inyuungu iyo khu mukoongo,  mu shifwo she nda?" Manaasi waakhakakho waabowa inyuungu iyetsula kamakyesi khu mukoongo,  ni abweenewo waashinyoola nga shaangu naabi khuuniina.
+P5	Lubaluba,  waatabula imisya we kusaala. Ne waasilamo wambaasa ari,  "Iseese niye uwaandibeele ni kamakesi koosi,  ne bona ari umwaana wase wafuurire ise kamakyesi!" Manaasi lirima lyamuwaamba lwashino,  waabukula inyuungu iyaba ili imisya we kusaala waakitsukutsa aasi.
+P6	Inyuungu iyo yekhupa aasi yaabulyungukhaka. Kamakesi iko kaasalanila kekyela ka buli muundu khuufunakho. Shino nisho shishamilamo babaandu khukhwiiyika khuulima,  khuunaba tsingubo,  ni khuubasa bibyuuma,  atweela ni bibiindu bibiindi byoosi byeesi babaandu bakhola.
+
+images:
+
+illustrations/pages/1273.png
+illustrations/pages/1274.png
+illustrations/pages/1275.png
+illustrations/pages/1276.png
+illustrations/pages/1277.png
+illustrations/pages/1278.png
+illustrations/pages/1279.png
+
+translations:
+
+Ekegusii (Translation)	Anansi N’Obong’Aini	id=2232
+English (Original)	Anansi and Wisdom	id=1938
+Kikamba (Translation)	Ananzi Na Ũĩ	id=2233
+Kiswahili (Translation)	Anansi Na Hekima	id=2234
+Lugbarati (Translation)	Ibio Pi Ondoa Be	id=2230
+Lugbarati (Official) (Translation)	Èbìó Pɨ Òndʉ̀á Be	id=8775
+Maa (Translation)	Anansi Ó Eng'énó	id=2732
+Ng’aturkana (Translation)	Anansi Ka Aosou	id=2235
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=2256
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=8677
+Spanish (Translation)	Anansi Y La Sabiduría	id=14407

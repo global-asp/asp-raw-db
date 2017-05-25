@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2915&d=0&a=1
+id:	2915
+title:	Waraga Yi
+author:	Doris Maandebo
+artist:	Cathy Feek
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2915.png
+desc:	This story is about a little girl who is ill and has to stay away from school.  Letters are an important form of communication while she is off sick.
+
+page_text:
+
+P1	Sabiti aje risi ma esu waraga tre.
+P2	O`du Alu si dakitari ma vile ri si waraga ma vile imbapi ni.
+P3	Tabucia ni azoru. Le ma li ava akua.
+P4	O`du Iri si ma esu waraga engazu ma agii kilasia 'diyi vu.
+P5	Mi ati mbele,  Tabucia!
+P6	O`du Na si ma esu waraga engazu ma agiyi mani lele turi vu.
+P7	Agba e`da `di mini. Leta be engazu Dudu vu.
+P8	O`du su si ma esu waraga engazu ma andri vu.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

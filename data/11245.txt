@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=11245&d=0&a=1
+id:	11245
+title:	Nanu Se Taxi
+author:	Lara Grealy
+artist:	Marion Drew
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11245.png
+desc:	Nanu en sy ma wag virn taxi. Hulle sien baie mense wanneer hulle wag.
+
+page_text:
+
+P1	Hello! My naam is Nanu. Ek wag saam met my ma vir 'n taxi. Ons gaan huistoe.
+P2	Hier staan ek in die tou. My ma sing vir my 'n liedjie. "Kom Mnr. Taxi,  sien jy nie? Ons wag,  ek en Nanu!"
+P3	Die vrou lanks aan my vat haar hoenders huistoe. Hulle sal eiers lê vir haar om to eet.
+P4	Hierdie manne kom van die werk af. Hulle glimlag vir my. Ek hoor hoe hulle sing,  "Hey klein Nanu,  moet jou nie bekommer nie. Die taxi kom vinnig."
+P5	'n Vrou loop verby. Sy is 'n baie knap vrou. Is haar skoenie nie mooi nie? Hulle gaan "klap,  klap,  klap. Klap,  klap,  klap." wanneer sy verby loop.
+P6	Hierdie man verkoop koeldrank. Ek hou van koeldrank. Hulle is so koud en soet. Hou jy van dit?
+P7	Kyk! Daardie vrouens vat hul aandete op hul koppe huistoe. Is hulle nie slim nie?
+P8	Daardie vrou laat haar hare doen. Sy gaan vanaand met haar maaitjies uit.
+P9	Nou is ek moeg. My ma sit my op haar rug waar ek kan rus. Sy sing,  "Asseblief Mnr Taxi moet nie laat wees nie,  Ouma wag by ons hek."
+P10	Daar is my maaitjie Tumi. Hy rus ook. Ons gaan amper by die huis wees.
+P11	Daar bo vlieg die voëls huistoe. Hulle moet voor dit donker word huis toe gaan.
+P12	Hierdie vrou het mooi oorbelle. Ek dink sy het hulle vandag in die dorp gekoop. Wanneer ek groot is sal ek baie oorbelle vier ek en my ma koop.
+P13	My ma word nou moeg. Ek sing vir haar 'n liedjie,  "Asseblief Mnr Taxi,  kom nou,  ons wag,  ek en my ma."
+P14	Wag! Ek hoor die taxi! Hier kom hy!
+P15	Dit is ons groot rooi taxi. Hy het gekom om ek en my ma huis toe te vat. Ek is baie bly!
+P16	Totsiens!
+
+images:
+
+illustrations/pages/7576.png
+illustrations/pages/7560.png
+illustrations/pages/7562.png
+illustrations/pages/7563.png
+illustrations/pages/7564.png
+illustrations/pages/7565.png
+illustrations/pages/7566.png
+illustrations/pages/7571.png
+illustrations/pages/7568.png
+illustrations/pages/7569.png
+illustrations/pages/7570.png
+illustrations/pages/7572.png
+illustrations/pages/7573.png
+illustrations/pages/7574.png
+illustrations/pages/7575.png
+illustrations/pages/7576.png
+illustrations/pages/7577.png
+
+translations:
+
+English (Original)	Nanu’S Taxi	id=7590
+English (Translation)	Nanu Se Taxi	id=13413
+French (Translation)	Le Taxi-Brousse De Nanu	id=12665
+Kiswahili (Translation)	Teksi Ya Nanu	id=8713
+Portuguese (Translation)	O Táxi Da Nanu	id=17619

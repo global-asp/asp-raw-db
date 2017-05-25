@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=18858&d=0&a=1
+id:	18858
+title:	A Ratazana
+author:	Translators without Borders and Nádia Morais
+artist:	Zablon Alex Nguku
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18858.png
+desc:	A ratazana do mato visitou a ratazana doméstica para ver como ela tinha uma boa vida. No entanto
+
+page_text:
+
+P1	Era uma vez duas ratazanas. Uma vivia no mato.
+P2	A outra,  vivia numa casa.
+P3	Um dia,  a ratazana que vivia na casa disse à ratazana que vivia no mato: "Comes mal,  dormes mal e apanhas chuva."
+P4	"Mas nós,  dormimos nas casas dos chefes,  comemos muitas coisas diferentes. Um dia,  vem visitar-me,  para veres," disse a ratazana doméstica. "Vou esta noite," disse a ratazana do mato. "Estou mais preparada do que nunca."
+P5	Entretanto,  o dono da casa estava furioso. Gritava: "Estas ratazanas comem a minha comida toda! Vão ver o que é bom!" Desta vez,  fez uma armadilha com açúcar.
+P6	As ratazanas entraram para ver as guloseimas que estavam na casa. Começaram a rir e a guinchar.
+P7	Quando chegaram à armadilha,  a ratazana doméstica disse: "Deixa-me provar este açúcar. Estás a ver as coisas boas que comemos aqui?"
+P8	Mas antes que a ratazana pudesse tocar no açúcar,  a armadilha fechou-se. ZÁS! A armadilha apanhou a cabeça da ratazana e os seus olhos saltaram para fora como beringelas.
+P9	A ratazana do mato olhava,  surpreendida. Disse: "Amiga,  o que comeste para os teus olhos ficarem assim?"
+P10	Mas a ratazana doméstica não conseguia responder.
+P11	A ratazana do campo saiu da casa a dizer: "Não vou dar conta dessa comida de que tanto falas."
+P12	A nossa pior casa é sempre melhor que a melhor casa dos nossos vizinhos.
+
+images:
+
+illustrations/pages/7506.png
+illustrations/pages/7496.png
+illustrations/pages/7497.png
+illustrations/pages/7498.png
+illustrations/pages/7499.png
+illustrations/pages/7500.png
+illustrations/pages/7501.png
+illustrations/pages/7502.png
+illustrations/pages/7503.png
+illustrations/pages/7504.png
+illustrations/pages/7505.png
+illustrations/pages/7505.png
+illustrations/pages/7506.png
+
+translations:
+
+Afrikaans (Translation)	Die Rot	id=11325
+English (Translation)	The Rat	id=7769
+English (Adaptation)	The Big Rats	id=13612
+Kiswahili (Translation)	Panya	id=8439
+Likpakpaanl (Translation)	Lisayikl	id=18782
+Lunyole (Translation)	Embeba	id=13611
+Lusoga (Original)	Wansolimo	id=7768
+Portuguese (Translation)	A Ratazana	id=18890
+Rutooro (Translation)	Embeba	id=14941

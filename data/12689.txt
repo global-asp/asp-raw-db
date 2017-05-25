@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=12689&d=0&a=1
+id:	12689
+title:	Mtu Na Simba
+author:	Brigid Simiyu
+artist:	Hélder de Paz Alexandre
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12689.png
+desc:	Jinsi mtu anaepuka kifo.
+
+page_text:
+
+P1	Hapo zamani za kale,  palikuwa na mtu aliyekuwa akitembea kichakani. Ghafla,  alikutana na Simba!
+P2	Simba alikuwa akipumzika katika nyasi fupi za msimu wa baridi.
+P3	Makutano hayo yalitokea ghafla mtu huyo asijue la kufanya. Alijawa na woga.
+P4	Mwanzoni,  Simba alishangaa pia na kuogopa kidogo. Lakini mngurumo mkubwa ulisikika kutoka tumboni mwake kwani alikuwa na njaa.
+P5	Mtu yule alijikuta juu ya mti mrefu. Alianza kupiga mayowe.
+P6	Simba alilala chini ya mti akisubiri mlo. Muda ulipozidi kwenda,  Simba alijifanya kulala usingizi.
+P7	Muda mfupi baadaye,  mtu yule alilala usingizi. Kisha akaamka tena. Mwishoni alisinzia na kulala fofofo.
+P8	Lakini mara aliporomoka kutoka juu na kumwangukia yule Simba aliyelala.
+P9	Wote waliamka wakiwa wamechanganyikiwa na kuogopa. Simba alisahau mlo wake na kukimbilia usalama wake.
+P10	Mtu yule alianza kukimbia akielekea upande mmoja na Simba. Aligundua kwamba alikuwa akikimbia na Simba!
+P11	Kwa hivyo alibadilisha mwelekeo wake na kuepuka kuliwa na Simba!
+
+images:
+
+illustrations/pages/8180.png
+illustrations/pages/8180.png
+illustrations/pages/8181.png
+illustrations/pages/8182.png
+illustrations/pages/8184.png
+illustrations/pages/8188.png
+illustrations/pages/8189.png
+illustrations/pages/8190.png
+illustrations/pages/8191.png
+illustrations/pages/8192.png
+illustrations/pages/8193.png
+illustrations/pages/8194.png
+
+translations:
+
+English (Original)	Man and Lion	id=8205
+English (Adaptation)	Man and Lion - Colouring Book	id=17392
+English (Adaptation)	Manu and the Lion	id=18332
+Luganda (Translation)	Omusajja N'empologoma.	id=10708
+Portuguese (Translation)	O Homem E O Leão	id=8207
+Xitswa (Translation)	A Wanuna Ni Nghonyamu	id=8729

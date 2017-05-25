@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=7854&d=0&a=1
+id:	7854
+title:	Mmele Waka
+author:	Motlhago Sara Mohale
+artist:	Mlungisi Dlamini
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7854.png
+desc:	Re kgona go dira dilo ka bontshi ka mmele wa rena
+
+page_text:
+
+P1	Ke kitima ka wona.
+P2	Ke tlola ka wona.
+P3	Ke bina ka wona.
+P4	Ke rutha ka wona.
+P5	Ke tlola-tlola ka wona.
+P6	Ke raga ka wona.
+P7	Ke phonyokga ka wona.
+P8	Efela,  ga ke kgone go fofela marung ka wona!
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Anywak (Translation)	Dëëra	id=17261
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+English (Adaptation)	My Body	id=9882
+isiXhosa (Translation)	Umzimba Wam	id=7685
+Kikamba (Translation)	Mwii Wakwa	id=2934
+Kiswahili (Translation)	Mwili Wangu	id=12632
+Luganda (Translation)	Omubiri Gwange	id=2935
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386
+Zande (Translation)	Kptore	id=12613

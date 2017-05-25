@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=19481&d=0&a=1
+id:	19481
+title:	Mac
+author:	Owino Ogot and Athieno Gertrude
+artist:	Rob Owen
+lang:	Dhopadhola
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/19481.png
+desc:	Kigana kwoŋ bero pa mac.
+
+page_text:
+
+P1	A nen mac!
+P2	Mac waŋo gi kipiny.
+P3	Watedo gi mac.
+P4	Mac kelo ri wan lyetho.
+P5	Mac miyo wan lero.
+P6	A nen mac!
+P7	Mac obedo gi maber.
+P8	Aka ni gi men.
+
+images:
+
+illustrations/pages/8560.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8557.png
+illustrations/pages/8558.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Arabic (Translation)	النار	id=18190
+English (Translation)	Fire	id=8565
+Lunyole (Original)	Omuliro	id=8564
+Samburu (Translation)	Nkima	id=17257
+Somali (Translation)	Dab	id=17256
+Zande (Translation)	Wee	id=17255

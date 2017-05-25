@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=2830&d=0&a=1
+id:	2830
+title:	Bunty Na Bubbly
+author:	Brigid Simiyu
+artist:	Sorit Gupto
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2830.png
+desc:	Bunty anapenda kucheza lakini hapendi sabuni na anakataa kujisafisha.  Usiku mmoja anaota ndoto kuhusu viini vya uchafu.  Je
+
+page_text:
+
+P1	Bunty anapenda kucheza na vipepeo.
+P2	Na ndege.
+P3	Anapenda kucheza na mashua iliyotengenezwa kutoka kwa makaratasi.
+P4	Anapendelea pia kutengeneza mangome kutumia changarawe.
+P5	Bunty anaporudi nyumbani,  mamake humuuliza ajisafishe. Lakini hukataa.
+P6	"Nachukia sabuni!" yeye hulia.
+P7	Usiku mmoja,  alikuwa na ndoto. Aliota kuwa vijidudu vinavyosababisha magonjwa vilikuwa vimeizunguka ngome yake na vilikuwa vinamvamia.
+P8	Bunty anafukuzwa na vijidudu. Anakimbia kuokoa uhai wake huku akipiga mayowe,  "NisaidieNisaidie!"
+P9	Ghafla,  Mfalme Sabuni kwa jina Bubbly anatokezea. "Bunty,  usiogope," anasema. "Nenda mkavamie vijidudu!" Mfalme Sabuni anaamrisha jeshi lake la povu.
+P10	Jeshi la povu linafukuzia mbali vijidudu.
+P11	Siku hizi,  Bunty hupendelea kutumia sabuni,  na hujipangusa na kujisugua hadi anakuwa msafi.
+
+images:
+
+illustrations/pages/607.png
+illustrations/pages/607.png
+illustrations/pages/612.png
+illustrations/pages/608.png
+illustrations/pages/610.png
+illustrations/pages/609.png
+illustrations/pages/611.png
+illustrations/pages/613.png
+illustrations/pages/614.png
+illustrations/pages/911.png
+illustrations/pages/910.png
+illustrations/pages/912.png
+
+translations:
+
+English (Original)	Bunty and Bubbly	id=913
+isiXhosa (Translation)	Uminti No Gwebu	id=3129
+Lugbarati (Translation)	Bunty Yi Bubbly Be	id=2828
+Lugbarati (Official) (Translation)	Bàdàrʉ́ Pi Bʉ́nɨ̀ Be	id=8756

@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=9664&d=0&a=1
+id:	9664
+title:	Ggonya Omuyala.
+author:	Cissy Namugerwa and Ritah Katetemera
+artist:	Wiehan de Jager
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9664.png
+desc:	Olugero lukwata ku Ggonya eyali omuyala ennyo.
+
+page_text:
+
+P1	Waliwo Ggonya nga muyala nnyo.
+P2	Buli kiseera yasooba nga mpolampola okunonya ekyokulya.
+P3	POO! Ggonya nayasama!
+P4	Oluvanyuma lw'ekyo Ggonya yali akuse era nga musanyufu.
+P5	Paka lwadamu okuba omuyala.
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Afrikaans (Translation)	Die Honger Krokodil	id=11063
+Arabic (Translation)	التمساح الجائع	id=18188
+English (Original)	The Hungry Crocodile	id=7043
+French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
+Portuguese (Translation)	O Crocodilo Faminto	id=18889

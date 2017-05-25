@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=9991&d=0&a=1
+id:	9991
+title:	Namukhaywa
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Wiehan de Jager
+lang:	Hausa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9991.png
+desc:	Wani mutum da ɗiyanshi shidda ƴan mata. Yana yi ma matarshi barazanar rabuwa da ita idan ba ta aifi ɗa namiji ba. Matar ta aifi ɗiya biyu tawaye
+
+page_text:
+
+P1	Can dauri,  cikin garin da ake ce ma Elunyiko,  an yi wani mutum da ake kiran shi Ndong'a,  yana tare da matarshi mai sunan Namukhaywa. Sun aifi ɗiya mata shida.
+P2	Lokacin da Namukhaywa take ɗauke da cikinta na bakwai,  Ndong'a ya ce mata. "Idan kika aifi ɗiya mace kuma,  to kar ki komo gidan nan,  amma in kin aifi ɗa namiji to,  za ni shirya miki babbar walima!"
+P3	Lokacin da haifuwar ta zo,  Namukhaywa ta je wajen ingozoma. Ta tambaye ta ɗa namiji ne ko ɗiya mace ce za ta haifuwa?
+P4	Ta aifi ɗiya biyu -namiji da mace! Ta raɗama namijin sunan Mukhawana,  ita kuma maccen Mulongo. Idan ta kalli Mukhwana sai ta ji daɗi. Amma idan ta kalli Mulongo,  sai ranta yaɓaci. Sai ta yi tunanin,  abu guda ya rage ta yi.
+P5	Namukhaywa ta bar Mulongo ga hannun ingozama kuma ta kaima mijinta Mukhwana.
+P6	Cikin jin daɗi ta gwadawa mijinta jaririn namiji. Ya ji daɗi kuma ya gayyaci duk mutanen garinsu su zo wajen walimar bikin ɗanshi.
+P7	Makhwana ya girma kuma ya zama kyakyawan saurayi. Ita ma Mulongo ta girma kuma ta zama budurwa mai ɗan karen kyau.
+P8	Wata rana,  Mukhwana yana kiyon bisasshen babanshi,  sai ya hango wata budurwa mai kyau. "Wanan budurwar ita nike so in aura," ya faɗa.
+P9	Ko da ya tambayi aurenta sai ta fara waƙa kamar haka: "Mukhwana wefwe,  Mukhwana. So yakhupa omunwa,  Mukhwana. Nebebula omukhana,  Mukhwana. Barulaka khulwanda,  Mukhwana. Nebebula omusiani,  Mukhwana. Barera mungo muno,  Mukhwana. Iyeyi yakwa,  Mukhwana. Iyindi yakwa,  Mukhwana."
+P10	Kullum ana haka,  ana haka. Mukhwana bai san abin da zai yi ba. Sai ya je wurin uwarshi,  Namukhaywa,  ya faɗa mata. "Na samu wata budurwa mai kyau,  kuma ina son aurenta. Amma ko da haushe na tambayeta sai ta yi ta mini waƙa."
+P11	Cikin mamaki,  Namukhaywa ta ce mishi,  "abin da yarinyar ta faɗa cikin waƙarta gaskiya ne. Ƙanwarka ce. Ku,  tawaye ne. Babanka yana sun in aifi ɗa namiji ba ɗiya mace ɓa. Sai na bar ƙanwarka wajen ingozama,  kai kuma na kawoka gida wajen babanka."
+P12	Lokacin da Mukhwana ya bayyanama babanshi abin da ya faru,  sai ya gane rishin gaskiyarshi. Ya kirayo Namukhaywa kuma suka tafi tare gidan ingozamar neman Mulongo.
+P13	Lokacin da Mulongo ta dayo gida,  babanta da mutanen garin sun yanka akuya don yin shagalin bikin haɗa kan Mulongo da sauren ƴan uwanta bakwai maza da mata.
+P14	Bayan shekara ɗaya,  Mulongo ta auri ɗan wani mai kuɗin ƙauyen. Ta kawoma uwayenta arziki dayawa tare da jin daɗi.
+
+images:
+
+illustrations/pages/5807.png
+illustrations/pages/5806.png
+illustrations/pages/5807.png
+illustrations/pages/5808.png
+illustrations/pages/5809.png
+illustrations/pages/5810.png
+illustrations/pages/5812.png
+illustrations/pages/5813.png
+illustrations/pages/5814.png
+illustrations/pages/5815.png
+illustrations/pages/5817.png
+illustrations/pages/5818.png
+illustrations/pages/5820.png
+illustrations/pages/5822.png
+illustrations/pages/5824.png
+
+translations:
+
+English (Original)	Namukhaywa	id=5859
+French (Translation)	Namukhaywa	id=9961
+Fulfulde (Translation)	Namukhaywa	id=10024
+Kanuri (Translation)	Fanna	id=10041
+Kiswahili (Translation)	Namukhaywa	id=7874
+Luganda (Translation)	Namukwaya	id=8312
+Lugbarati (Official) (Translation)	Àyákáká	id=8788
+Lumasaaba (Translation)	Mukhaye	id=8305
+Lunyole (Translation)	Namwima	id=8404
+Maa (Translation)	Namukhaywa	id=7875
+Ng’aturkana (Translation)	Namukhaywa	id=8457
+Setswana (Translation)	Dineo	id=7800
+siSwati (Translation)	Namukhaywa	id=13078
+Zarma (Translation)	Namukayya	id=10106

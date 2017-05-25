@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=7225&d=0&a=1
+id:	7225
+title:	Land of No Old People
+author:	David Ker
+artist:	Little Zebra Books and Laura Libertore
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7225.png
+desc:	In many cultures
+
+page_text:
+
+P1	One time it happened in a village that a gang of young people decided to kill all the old people so that they would stop doing magic.
+P2	But one of the youth ran off with his father and hid him in the desert.
+P3	After he had done this,  the gang began killing the old people.
+P4	Just then a snake came into the village from the desert. The snake went into the stomach of a small child.
+P5	The snake kept poking its head out of the mouth of the child.
+P6	The parents of the child and all the other people tried everything to solve this problem. But they saw that if they killed the snake they would also kill the child.
+P7	Then the young man who had hidden his father went and told him everything that had happened. And the old man said,  "That's the easiest thing in the world to take care of."
+P8	The old man said,  "Find a toad and put it near the snake. You'll see that the snake will come out of the child's stomach to catch the toad. The young man did just what the old man said. And the snake came out and started to chase the toad. The child was saved from death."
+
+images:
+
+illustrations/pages/6802.png
+illustrations/pages/6792.png
+illustrations/pages/6793.png
+illustrations/pages/6794.png
+illustrations/pages/6795.png
+illustrations/pages/6796.png
+illustrations/pages/6797.png
+illustrations/pages/6798.png
+illustrations/pages/6800.png
+
+translations:
+
+Chinyungwe (Original)	Maswaka Yadapha Nkhalamba Zentsene	id=7224

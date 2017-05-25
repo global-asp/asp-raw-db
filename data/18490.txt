@@ -1,0 +1,69 @@
+url:	http://africanstorybook.org/reader.php?id=18490&d=0&a=1
+id:	18490
+title:	Hamisi Ne Tsir Nkwa Da
+author:	Gabriel Ampah Sam (OLE Ghana)
+artist:	Rob Owen
+lang:	Fante
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18490.png
+desc:	Hamisi hu banyimba bi dɛ ɔhyɛ sortar fɛɛfɛɛfɛw bi
+
+page_text:
+
+P1	Hamisi hia skuul atar fofor. Ne papa nye no kɔr guamu.
+P2	Hamisi hu banyimba bi a ɔhyɛ sor atar. Hamisi dwendwen wɔ ne tsir mu dɛ,  "Sor atar no yɛ fɛw papaapa."
+P3	Hamisi dɛ,  "Me yamu a nkyɛ mowɔ sor atar a ɔtse dɛ banyimba ne dze no."
+P4	Hamisi dɛ,  "Hwɛ ɔtontɔn sor ntar soronko bi."  "Paapa,  me pa wo kyɛw tɔ kor ma me ae," Hamisi na ɔreka dɛm yi.
+P5	Ne papa kaa dɛ,  "Hamisi ɔwɔ dɛ motɔ wo skuul atar."
+P6	Na mbom,  "Minnyi dɛm sor atar no ho sika."
+P7	Hamisi ne papa tua atar no kaw. Ɔyɛ no nwanwa ber a onyaa sika no nsesa. Sika no pii aka a obotum dze atɔ sor atar fofor!
+P8	Ɔyɛ Hamisi ne tsir nkwa da. Na ebɛn atar mpo na ɔbɛsan mu eyi?
+
+images:
+
+illustrations/pages/7976.png
+illustrations/pages/7966.png
+illustrations/pages/7967.png
+illustrations/pages/7968.png
+illustrations/pages/7969.png
+illustrations/pages/7972.png
+illustrations/pages/7973.png
+illustrations/pages/7975.png
+illustrations/pages/7976.png
+
+translations:
+
+Afrikaans (Translation)	Hamisi Se Gelukkige Dag	id=20058
+Akuapem Twi (Translation)	Da a Hamisi Tiri Yɛɛ Yiye	id=18460
+Asante Twi (Translation)	Ɛda a Hamisi Ti Yɛɛ Yie	id=18220
+ChiTonga (Translation)	Buzuba Bwacoolwe Bwa Hamisi	id=18637
+CiNyanja (Translation)	Siku La Mwayi La Hamisi	id=18625
+Dagaare (Translation)	Hamisi Zunoɔ Bebiri	id=17772
+Dagbani/Dagbanli (Translation)	Hamisi Zuɣ’Suŋ Dabsili	id=18151
+Dangme (Translation)	Hamisi Manye Ligbi	id=18298
+English (Translation)	Hamisi's Lucky Day	id=11990
+Ewe (Translation)	Hamisi Ƒe Dzɔgbenyuie Ŋkeke	id=18182
+French (Translation)	Le Jour De Chance D’Hamisi !	id=13157
+Ga (Translation)	Gbi Ni Moi Heba Nii	id=18292
+Gonja (Translation)	Hamisi Be Kumu Lɛla Achɛ	id=18213
+IciBemba (Translation)	Ubushiku Hamisi Ashuukile	id=18582
+isiNdebele (Translation)	Isikipa Esihlaza Sakadumi	id=13807
+isiXhosa (Translation)	Imini Yethamsanqa Likahamisi	id=16476
+isiXhosa (Translation)	Imini Kahamisi Yamathamsanqa	id=17525
+isiZulu (Translation)	Usuku Lukahamisi Lwenhlanhla	id=16358
+Kasem (Translation)	Hamisi  Yuu-Ywoŋo Dɛ	id=18226
+Kinyarwanda (Translation)	Umunsi W'amahirwe Kuri Mugabo	id=17462
+Kiswahili (Original)	Hamisi Abahatika	id=8040
+Mampruli (Translation)	Hamisi Zugsuŋŋu Dabsiri	id=18849
+Ng’aturkana (Translation)	Ekeny Ka Hamisi	id=12951
+Nzema (Translation)	Hamisi Kenle Kpalɛ	id=18425
+Portuguese (Translation)	Dia De Sorte Do Hamisi	id=16564
+Sepedi (Translation)	Letšatši La Kagiso La Mahlatse	id=19008
+Sesotho (South Africa) (Translation)	Letsatsi La Tshepo La Lehlohonolo	id=20028
+Setswana (Translation)	Letsatsi La Ga Hamisi La Letlhogonolo	id=16594
+Setswana (Translation)	Letsatsi La Ga Kagiso La Letlhogonolo	id=17646
+SiLozi (Translation)	Lizazi La Litohonolo La Hamisi	id=18564
+siSwati (Translation)	Umfaniswano Wesikolo	id=13872
+Tshivenda (Translation)	Ḓuvha Ḽa Mashudu Ḽa Hamisi	id=18284
+Xitsonga (Translation)	Siku Ra Hamisi Ra Nkateko	id=18878

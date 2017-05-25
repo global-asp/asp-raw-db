@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=18889&d=0&a=1
+id:	18889
+title:	O Crocodilo Faminto
+author:	Translators without Borders and Isabel Ferreira
+artist:	Wiehan de Jager
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18889.png
+desc:	O crocodilo faminto avança sorrateiro na água…
+
+page_text:
+
+P1	Era uma vez um crocodilo faminto.
+P2	Procurou por comida lenta e silenciosamente.
+P3	ZÁS! O crocodilo ataca!
+P4	Depois disso,  deixou de estar faminto e está feliz.
+P5	Até ficar novamente faminto.
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Afrikaans (Translation)	Die Honger Krokodil	id=11063
+Arabic (Translation)	التمساح الجائع	id=18188
+English (Original)	The Hungry Crocodile	id=7043
+French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
+Luganda (Translation)	Ggonya Omuyala.	id=9664
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016

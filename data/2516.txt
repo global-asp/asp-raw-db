@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=2516&d=0&a=1
+id:	2516
+title:	Abaana Be Iula
+author:	Catherine Were
+artist:	Wiehan de Jager
+lang:	Oluwanga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2516.png
+desc:	Khale yaliwo ifamili nende abaana bataru abeshiribwa. Efitinyu fiali mbu bali balongwa khurula khu iula
+
+page_text:
+
+P1	Khale lialikho litaala elala eliabandu bali nibamwenya mubusangafu.
+P2	Shibakhupanan- gakho tawe. Bakhonyanga abebusi babu hango nende mumukunda.
+P3	Ne shibafuchirirungwa okhusuta hambi no muliro tawe.
+P4	Bakholanga mirimo chiabu chiosi mushiro.
+P5	Ne mulala khu basiani yekomba okhutsia okhwora omubasu.
+P6	Inyanga ndala,  yekomba muno muno okhukhola ario. Abasiani babu nibamukaya.
+P7	Ne bachelewa! Yasalulukha mumubasu.
+P8	Abaana be iula baberera muno muno,  olwabalola owashiabwe nasalulukha mulimba.
+P9	Nibakasia liparo. Nibalonga liyoni okhurula khu iula yali niyisalulushe.
+P10	Nibabukula omusiani wabu weliyoni,  nibamuira khu shikulu eshirambi.
+P11	Ne olwa elimba liarula,  napurukha hekulu niyemba mubulafu bwe itsuli.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=18620&d=0&a=1
+id:	18620
+title:	Balikani
+author:	Limbali Muyendekwa
+artist:	Catherine Groenewald
+lang:	SiLozi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18620.png
+desc:	Taha
+
+page_text:
+
+P1	Libizo laka kina Simo.
+P2	Nitabela ahulu kuba ningambolo ye ama balikani baka.
+P3	Balikani baka ba mabizo abona kibo Zizo,  Lele,  Sisa ni Ayanda.
+P4	Kwabalikani baka ba kuna mucaha yabizwa Zizo. Yena ububana ahulu kwa mbola yamautu mu uwinile mipuzo mwa papali ye.
+P5	Mulika yomung'wi ki Lele mane yena kimutu yana nikabubo kwamakande akutapa ni mwalinuka zabo Zambezi ni Luanginga.
+P6	Kwabalikani baka ba kuna ni Sisa yena yakona ahulu papali ya mwipato kappa kalambe papali yeba paliwa ahulu nako yabusihu.
+P7	Ayanda yena ulata ahulu kabala libuka.
+P8	Na nacaindisa lipapali kaufela azona zebapala balikani baka mane nizabahala ahulu kwa lipapali kaufela. Kwa kutapa nikalambe kamwa mezi nikulaha ahulu mbola ya mautu nangelela kwabalikani baka ba.
+P9	Zizo limulikani waka mwa papali yam bola yamautu mane akuna yalufita.
+P10	Kwakutapa kona nicaziba ni mulikani waka Lele yena yolukanganisana ahulu kwakutapa masa abuLozi.
+P11	Lubapala ahulu butongwe kappa kalambe nimulikani waka Sisa.
+P12	Ubizizwe niwena mulikann. Ubapala papali mang'i?
+P13	Taha lutolaha mbola.
+P14	Taha utape niluna.
+P15	Taha lubapale kalambe amoho.
+P16	Bala niluna.
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Ṡuħàb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

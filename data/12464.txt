@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=12464&d=0&a=1
+id:	12464
+title:	Rooster and Hare
+author:	Geoffrey Thiiru
+artist:	Duane Arthur
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12464.png
+desc:	Be careful of what might happen when you play a joke on someone.
+
+page_text:
+
+P1	Once upon a time,  there was a rooster and a hare. They were good friends.
+P2	One night,  Hare visited Rooster and his family. They enjoyed supper together.
+P3	When it was bedtime,  Rooster and his family soon fell asleep. Hare could not see their heads.
+P4	Rooster and his family slept very well. Hare was not able to sleep the whole night.
+P5	In the morning,  Hare wanted to know Rooster's secret. "Where do you put your heads at night?" he asked.
+P6	Rooster decided to play a joke on Hare. He said,  "At bedtime,  we chop off our heads. Without heads,  we sleep very well."
+P7	"Then in the morning,  we put our heads back on," explained Rooster.
+P8	Hare went home and told his family about the rooster's secret. The Hare family decided to try it themselves. What do you think happened?
+
+images:
+
+illustrations/pages/12453.png
+illustrations/pages/12438.png
+illustrations/pages/12440.png
+illustrations/pages/12443.png
+illustrations/pages/12449.png
+illustrations/pages/12453.png
+illustrations/pages/12454.png
+illustrations/pages/12455.png
+illustrations/pages/12456.png
+
+translations:
+
+French (Translation)	Coq Et Lièvre	id=13275
+Kiswahili (Translation)	Jimbi Na Sungura	id=12609
+Ng’aturkana (Translation)	Ekokoroit Ka Apoo	id=13211
+Portuguese (Translation)	O Galo E a Lebre	id=18859

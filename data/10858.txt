@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=10858&d=0&a=1
+id:	10858
+title:	La Lune Et La Casquette
+author:	Sébastien Rolland and Translators without Borders
+artist:	Angie & Upesh
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10858.png
+desc:	Un petit garçon reçoit une casquette bleue de la part de sa mère. Le vent souffle et envoie la casquette au sommet dun vieil arbre. Le petit garçon est alors très triste. Le soir
+
+page_text:
+
+P1	Un jour,  toute ma famille est allée à la fête foraine.
+P2	Papa a acheté des jolies lunettes à mon frère. Maman m'a acheté une casquette bleue. Et le bébé a eu du sucre d'orge.
+P3	En chemin vers la maison,  le vent s'est mis à souffler très fort. Il a même emporté ma casquette.
+P4	Elle s'est retrouvée coincée au sommet d'un vieil arbre.
+P5	J'ai beaucoup pleuré. Et je n'ai même pas mangé mon dîner.
+P6	Plus tard,  cette nuit-là,  la lune est apparue. Elle a vu ma casquette au sommet du vieil arbre.
+P7	La lune a alors essayé ma casquette. Elle s'est mise à sourire de plaisir. Et j'ai souri moi aussi.
+P8	Le lendemain,  après l'école,  ma mère m'a donné une nouvelle casquette de couleur rouge. "C'est la lune qui te l'envoie",  m'a-t-elle dit.
+P9	Cette nuit-là,  la lune et moi portions nos casquettes et nous sourions. Nous étions heureux.
+P10	Penses-tu que le soleil a besoin d'une casquette?
+P11	Devine quelle casquette je porte aujourd'hui!
+
+images:
+
+illustrations/pages/2137.png
+illustrations/pages/2138.png
+illustrations/pages/2139.png
+illustrations/pages/2141.png
+illustrations/pages/2142.png
+illustrations/pages/2143.png
+illustrations/pages/2144.png
+illustrations/pages/2145.png
+illustrations/pages/2146.png
+illustrations/pages/2147.png
+illustrations/pages/2148.png
+illustrations/pages/2150.png
+
+translations:
+
+Afrikaans (Translation)	Die Maan en Die Keps	id=11151
+English (Original)	The Moon and the Cap	id=2154
+isiXhosa (Translation)	Inyanga Ne Kepisi	id=2236
+isiZulu (Translation)	Inyanga Nekepisi	id=2225
+Kiswahili (Translation)	Mwezi Na Kofia	id=2229
+Sepedi (Translation)	Ngwedi Le Kepisi	id=2231
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=2228
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=10365
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=11182
+siSwati (Translation)	Inyanga Nekepisi	id=13044

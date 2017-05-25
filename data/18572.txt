@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=18572&d=0&a=1
+id:	18572
+title:	Nalitemwa Ukubelenga
+author:	Eunice Mukonde-Mulenga
+artist:	Wiehan de Jager
+lang:	IciBemba
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18572.png
+desc:	Ili lyashi pamulumendo uwatemwa ukubelenga utushimi. Alitemwa ukubelenga icakuti afwaya abakushimikilako mulupwa lwakwe.
+
+page_text:
+
+P1	Nalitemwa ukubelenga.
+P2	Nalaabelengela naani?
+P3	Nkashi yandi nalaala.
+P4	Nalaabelengela naani?
+P5	Baamaayo nabaamama baali neencito.
+P6	Nalaabelengela naani?
+P7	Baataata na baashikulu bali neencito.
+P8	Nalaabelengela naani? Nalaibelengela nemwine!
+
+images:
+
+illustrations/pages/7915.png
+illustrations/pages/7915.png
+illustrations/pages/10545.png
+illustrations/pages/7917.png
+illustrations/pages/10546.png
+illustrations/pages/7919.png
+illustrations/pages/7921.png
+illustrations/pages/7920.png
+illustrations/pages/7922.png
+
+translations:
+
+Afrikaans (Translation)	Ek Hou Van Lees	id=20062
+Akuapem Twi (Translation)	Mepɛ Akenkan	id=18461
+Amharic (Translation)	ማንበብ እወዳለሁ	id=13125
+Amharic (Translation)	ማንበብ እወዳለሁ	id=13318
+Arabic (Translation)	!أحب أن أقرأ	id=18187
+Asante Twi (Translation)	Mepɛ Akenkan	id=18221
+ChiTonga (Translation)	Ndayanda Kubala	id=18631
+CiNyanja (Translation)	Nikonda Kuwelenga	id=18607
+Dagaare (Translation)	N Nɔŋɛɛ Kannoo	id=17773
+Dagbani/Dagbanli (Translation)	M  Bɔri Ni N-Karim	id=18152
+Dangme (Translation)	I Suɔ  Ma Kane Ni	id=18300
+English (Translation)	I Like to Read	id=10547
+English (Translation)	I Love to Read	id=12413
+English (Translation)	Nenda Ohusoma	id=13498
+English (Adaptation)	I Love Reading	id=13499
+Ewe (Translation)	Melɔ̃a Nuxexlẽ	id=18167
+Fante (Translation)	Mepɛ Akenkan	id=18491
+French (Translation)	J’Aime Lire	id=13156
+Ga (Translation)	Misumɔ Ni Makane Nii	id=18293
+Gonja (Translation)	Mee Sha  Nɛ M Baa Kraŋ	id=18175
+Hadiya (Translation)	Qaanana'ima Ittomo	id=18428
+isiNdebele (Translation)	Ngithanda Ukufunda	id=13812
+isiXhosa (Translation)	Ndiyathanda Ukufunda	id=14933
+isiZulu (Translation)	Ngiyathanda Ukufunda	id=13322
+Kasem (Translation)	A Lage Se a Ga	id=18209
+Kiswahili (Translation)	Ninapenda Kusoma	id=8476
+Kiswahili (Adaptation)	Ninapenda Kusoma	id=19357
+Nzema (Translation)	Me Kulo Kɛ Me Kenga	id=18426
+Oluwanga (Translation)	Ndachama Okhusoma	id=19591
+Portuguese (Translation)	Eu Gosto De Ler	id=16568
+Sepedi (Original)	Ke Rata Go Bala	id=8037
+Sesotho (South Africa) (Translation)	Ke Rata Ho Bala	id=20033
+Setswana (Translation)	Ke Rata Go Buisa	id=16752
+Setswana (Translation)	Ke Rata Go Buisa	id=17654
+SiLozi (Translation)	Nalata Kubala	id=18621
+siSwati (Adaptation)	Kumnandzi Kufundza	id=13818
+Somali (Translation)	Waxaan Jeclahay In Aan Aqriyo!	id=17263
+Tigrigna (Translation)	ምንባብ ይፈቱ እየ	id=18334
+Tshivenda (Translation)	Ndi Funa U Vhala	id=18276
+Xitsonga (Translation)	Ndzi Rhandza Ku Hlaya	id=18874

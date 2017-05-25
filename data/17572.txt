@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=17572&d=0&a=1
+id:	17572
+title:	Dog and Crocodile
+author:	Candiru Enzikuru Mary
+artist:	Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17572.png
+desc:	Dog finds some eggs on the river shore
+
+page_text:
+
+P1	One day at the river,  Dog came across some eggs in the sand. He asked himself,  "Which animal left these eggs here?"
+P2	He counted ten eggs and thought they might belong to Duck. He put them in his bag.
+P3	He took the eggs home and put them in a warm place.
+P4	When Dog returned to the river,  he met Crocodile. She asked,  "Have you seen my eggs?" "I don't know anything about your eggs," he replied.
+P5	Crocodile started visiting all the animals asking about her eggs.
+P6	Meanwhile,  the eggs hatched one by one.
+P7	Dog did his best to look after the baby crocodiles,  but there was never enough food. The young crocodiles were always hungry.
+P8	One day Crocodile went to Dog's house looking for her eggs. As she stood outside,  she heard the rumbling of little crocodile bellies!
+P9	Crocodile stormed inside and hit Dog with her tail. Dog yelped and jumped through the window.
+P10	Crocodile chased Dog all the way to the river.
+P11	Dog cried,  "I'm sorry,  I didn't know they were your eggs!"
+P12	Crocodile believed him and forgave him. She took her offspring for their first swimming lesson.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Adaptation)	Dog and Crocodile	id=18290
+isiXhosa (Translation)	Unja No Xam	id=17573
+Kiswahili (Translation)	Mbwa Na Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa Na Mamba	id=18327

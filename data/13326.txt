@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=13326&d=0&a=1
+id:	13326
+title:	Umhobholo
+author:	Nomasonto Sithole and Cynthia Nxele
+artist:	Melany Pietersen
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13326.png
+desc:	Ujeziswa kanjani umfana onomhobholo odle izithelo eziningi?
+
+page_text:
+
+P1	Ugogo usiphathele izithelo emakethe.
+P2	Izithelo ziconsisa amathe.
+P3	Umfowethu uVusi akakwazanga ukuzibamba. Waqala ngokudla ubhanana.
+P4	Hhayi bo! Ubani olume izithelo wazishiya?
+P5	Wathukuthela wafa ugogo. Wathetha!
+P6	Mina no Jabu sisola ukuthi nguVusi.
+P7	UJabu watshela ugogo ukuthi sisola uVusi.
+P8	Ugogo wambuza uVusi,  wavuma ukuthi nguye.
+P9	UVusi waqala ukungazizwa kahle.
+P10	Watshela ugogo ukuthi uphethwe yisisu.
+P11	Wagijimela endlini encane.
+P12	Ugogo wasibuza ukuthi sifunde sifundo sini ngokwenzeke kuVusi?
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiNdebele (Translation)	Isijeziso Sakathemba	id=13803
+isiZulu (Translation)	Isijeziso	id=15341
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Oluwanga (Translation)	Eshinyasio	id=19592
+Portuguese (Translation)	Castigo	id=18855
+siSwati (Translation)	Sijeziso Sabobo	id=13868

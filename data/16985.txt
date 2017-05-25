@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=16985&d=0&a=1
+id:	16985
+title:	Ìdí Tí Wọn Kò Sin Ajao
+author:	Taiwo Ẹhinẹni
+artist:	Jesse Breytenbach
+lang:	Yoruba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16985.png
+desc:	Ǹjé Ajao ni àdán ẹyẹ tàbí eku?
+
+page_text:
+
+P1	Ajao,  àdán kan,  sùn sí ilé rẹ̀ nínú àárẹ̀. Kòsí ẹnikẹ́ni tí ó yojú sí i.
+P2	Lẹ́yìn náà,  Ajao kú.
+P3	Àwọn aládùúgbò ní,  "Ajao ti kú,  a gbọdọ̀ pe àwọn ẹbí rẹ̀ láti wá sín."
+P4	Àwọn aládùúgbò lọ pe àwọn ẹyẹ pé,  "Ìkan lára yín ti kú."
+P5	Àwọn ẹyẹ wá,  wọ́n sì ri pé Ajao ni. Wọ́n ní,  "Ẹranko yìí kì í ṣe ara ẹbí wa."
+P6	"Gbogbo ẹbí wa ní ìyẹ́ ṣùgbọ́n Ajao kò ní nǹkankan. Nítorí náà,  kì í ṣe ara wa." Àwọn ẹyẹ náà sálọ.
+P7	Àwọn aládùúgbò ronú papọ̀,  wọ́n ní,  "Òòtọ́ ni àwọn ẹyẹ sọ. Ajao kò ní ìyẹ́. Nítorí náà,  kì í ṣe ara wọn."
+P8	Ìkan lára wọn ní,  "Ó gbọdọ̀ jẹ́ ìkan lára àwọn eku. Ó jọ wọ́n."
+P9	Àwọn aládùúgbò lọ pe àwọn eku pé,  "Ìkan lára àwọn ẹbí yín ti kú."
+P10	Àwọn eku wá,  wọ́n sì ri pé Ajao ni. Wọ́n ní,  "Ẹranko yìí kì í ṣe ara ẹbí wa."
+P11	"Gbogbo ẹbí wa ní ìrù ṣùgbọ́n Ajao kò ní ìrù." Àwọn eku náà rìn lọ.
+P12	A kò rí ẹbí fún Ajao,  ó sì wà bẹ́ẹ̀ láì sí ẹni tí yóò sín in.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+English (Translation)	Why Ajao Was Not Buried	id=16988
+Kiswahili (Translation)	Kwa Nini Ajao Hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068

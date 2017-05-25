@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=8800&d=0&a=1
+id:	8800
+title:	Anzɨ Ìrì Àbírí Nɨ́ Fulé Káyɨ̀ 'dɨ̀yɨ
+author:	Dorothy Fetaru
+artist:	Bronwen Heath
+lang:	Lugbarati (Official)
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8800.png
+desc:	Ádɨ́kódɨ̀ nze eyó  anzɨ ìrì àbírí nɨ́ fulé káì rá òtɨ̀lɨ̀pátɨ̀á yɨ mà dèdé nɨ́ adɨ́ mudrídɨ`yɨ awaápɨ yɨ mà èseléádɨ̀yɨ mà drìá.
+
+page_text:
+
+P1	Anzɨ ìrì àbírí nɨ́ fulé káyɨ̀ 'dɨ̀yɨ.
+P2	Ben pɨ Tabu be anzɨ àbírí nɨ fulé káyɨ̀ 'dɨ̀yɨ.
+P3	Dèdé nɨ òtɨ̀lɨ̀pátɨ̀á mudrí edérɨ̀á Èrɨ yɨ ò'bà sàánɨ̀ drìá.
+P4	Ben 'du òtɨ̀lɨ̀pátɨ̀á àlʉ. Tabu 'du òtìlìpátɨ̀á ìrì.
+P5	Ben 'du òtìlìpátɨ̀á su Thabo 'du òtɨ̀lɨ̀pátɨ̀á ìrì. Ben nya òtɨ̀lɨ̀pátɨ̀á sɨ́? Tabu nya òtɨ̀lɨ̀opátɨ̀á sɨ́? Òtɨ̀lɨ̀pátɨ̀á ace dèdé nɨ́ sɨ́?
+
+images:
+
+illustrations/pages/1717.png
+illustrations/pages/1717.png
+illustrations/pages/1718.png
+illustrations/pages/1719.png
+illustrations/pages/1720.png
+illustrations/pages/1799.png
+
+translations:
+
+Aringati (Translation)	Ãbị́rị́ Ndẽ Anzị Ị̃rị̃ Kí Rá	id=7528
+Ateso (Translation)	Isap Iyarei Lu Eyarit Etengei	id=2999
+English (Original)	Two Hungry Boys	id=1800
+Lubukusu (Translation)	Basoleli Babili Be Njala	id=2399
+Luganda (Translation)	Abalenzi Ababiri Abayala	id=2400
+Lugbarati (Translation)	Anzi Iri Abiri Ni Nde Ra `diyi	id=2719
+Lumasaaba (Translation)	Basooleli Babili Be Ntsala	id=2401
+Lunyole (Translation)	Abaseere Babiri Abayala	id=2402

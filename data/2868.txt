@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=2868&d=0&a=1
+id:	2868
+title:	Amayumba
+author:	Isaac Kagoda
+artist:	Kathy Arbuckle
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2868.png
+desc:	This story talks about the different kinds of houses that we live in.
+
+page_text:
+
+P1	Wakabi aba mu nhumba nsereke ya isubi.
+P2	Kirunda aba mu nhumba ya nsoda.
+P3	Enhumba enho ya muserebende.
+P4	Akasolya ke nhumba eno kansoda isatu.
+P5	Omusadha onho ali kwezimbira ye mwene enhumba.
+P6	Enhumba eno mpyaka.
+P7	Enhumba eno nkaire.
+P8	Nandyenze mbe owomunhumba eno.
+
+images:
+
+illustrations/pages/1591.png
+illustrations/pages/1591.png
+illustrations/pages/1592.png
+illustrations/pages/1593.png
+illustrations/pages/1594.png
+illustrations/pages/1595.png
+illustrations/pages/1596.png
+illustrations/pages/1597.png
+illustrations/pages/1598.png
+
+translations:
+
+Ateso (Adaptation)	Itogoi	id=10155
+English (Original)	Houses	id=1785
+Kikamba (Translation)	Nyumba	id=3087
+Luganda (Translation)	Amayumba	id=2866
+Lunyole (Translation)	Amayumba	id=2867
+Lunyole (Adaptation)	Jo Yi / Enyumba	id=9345
+Lusoga (Translation)	Ndhuuba Nhumba	id=8170
+Ng’aturkana (Translation)	Ng'akais	id=18136
+Setswana (Translation)	Matlo	id=2869
+Somali (Translation)	Guriyo	id=17262

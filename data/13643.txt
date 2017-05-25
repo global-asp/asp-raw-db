@@ -1,0 +1,24 @@
+url:	http://africanstorybook.org/reader.php?id=13643&d=0&a=1
+id:	13643
+title:	Conociendo Los Animales
+author:	Karelyn Hernández
+artist:	Rob Owen, Marleen Visser and Wiehan de Jager
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13643.png
+desc:	En este libro aprenderemos de los animales que existen.
+
+page_text:
+
+P1	Sapo.
+P2	Tortuga.
+
+images:
+
+illustrations/pages/13433.png
+illustrations/pages/12166.png
+illustrations/pages/13136.png
+
+translations:
+

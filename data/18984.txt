@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18984&d=0&a=1
+id:	18984
+title:	Tšeo Ke Ratago Go Dira
+author:	Sara Mohale
+artist:	Wiehan de Jager
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18984.png
+desc:	Na o rata go dira eng?
+
+page_text:
+
+P1	Ke rata go fofa kgati le mogwera wa ka.
+P2	Ke rata go ngwala ditlhaka letlapeng.
+P3	Ke rata go bala dipuku tša go ba le diswantšho.
+P4	Ke rata go ja dienywa tša go fapafapana.
+P5	Ke rata go thuša ka gae.
+P6	Ke rata go theeletša dikanegelo tša mma.
+P7	Ke rata go robala bolaong bjo bogolo.
+P8	Ke rata go dira dilo tše. Na wena o rata go dira eng?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat Ek Graag Doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+CiNyanja (Translation)	Vintu Vamene Nikonda Kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I Enjoy Doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+Sesotho (South Africa) (Translation)	Ke Rata Ho Etsa 	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18986
+Xitsonga (Translation)	Ndzi Rhandza Ku Endla	id=18875

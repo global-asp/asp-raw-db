@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=16655&d=0&a=1
+id:	16655
+title:	O Baloiço Da Keke
+author:	Translators without Borders and Isabel Ferreira
+artist:	Marion Drew
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16655.png
+desc:	A Keke brinca no seu baloiço preferido. Ela consegue chegar muito
+
+page_text:
+
+P1	A Keke sentou-se no seu baloiço. Adorava o seu baloiço. Era o melhor baloiço da escola.
+P2	A Keke movia-se devagarinho no seu baloiço. Para trás e para a frente. Para trás e para a frente. Quando a Keke se movia,  o seu baloiço começava a oscilar cada vez mais depressa. Em breve,  já estava no topo.
+P3	A Keke olhou para o chão. Estava bem lá no alto. "Ui!"  gritou ela. "Vejam como estou bem cá em cima!"
+P4	Estava feliz de estar tão alto. Conseguia ver toda a aldeia. Estava quase tão alto quanto os pássaros que voam sobre os campos de milho.
+P5	Passado algum tempo,  a Keke queria descer. Mas o baloiço não parava. "Oh,  oh,  oh",  chamava. "Não sei como fazer parar este baloiço!"
+P6	O baloiço continuava a oscilar. Para cima e para baixo,  para cima e para baixo. A Keke ficou com medo. "Onde me levará este baloiço? Poderia ir ter à Lua. Tenho de sair!"  gritou.
+P7	Então,  a Keke largou o baloiço. Caiu,  caiu,  caiu até cá abaixo.
+P8	"Oh,  oh,  oh",  gritaram as outras crianças. A Keke caiu ao chão. Magoou a sua cabeça. "Ai! Ai! Ai!"  chorou ela. As outras crianças estavam muito preocupadas.
+P9	A Keke não sabia o que fazer. "Ai! Ai! Ai!"  chorou ela novamente. As crianças chamaram a professora. "Ma Mpho. Venha,  por favor!"  gritaram. "A Keke caiu do baloiço. Magoou a cabeça."
+P10	Ma Mpho correu até ao baloiço. Pegou na Keke,  que estava no chão.
+P11	Ma Mpho beijou a cabeça de Keke. A Keke sorriu,  "Já está melhor." "Nunca mais andarei sozinha naquele baloiço",  disse ela. "Não quero ir até à Lua."
+P12	"Para a próxima,  irei contigo no teu baloiço,  Keke",  disse Ma Mpho. "Podemos ir juntas à Lua!"
+
+images:
+
+illustrations/pages/9324.png
+illustrations/pages/9319.png
+illustrations/pages/9320.png
+illustrations/pages/9321.png
+illustrations/pages/9322.png
+illustrations/pages/9323.png
+illustrations/pages/9324.png
+illustrations/pages/9325.png
+illustrations/pages/9326.png
+illustrations/pages/9327.png
+illustrations/pages/9328.png
+illustrations/pages/9329.png
+illustrations/pages/9330.png
+
+translations:
+
+Afrikaans (Adaptation)	Keke Se Swaai	id=10535
+English (Translation)	Keke's Swing	id=9792
+French (Translation)	La Balançoire De Kéké	id=10844
+Rutooro (Translation)	Omwesuuso Gwa Keke	id=10553
+Sesotho (Lesotho) (Original)	Senkokomaile Sa Keke	id=9790
+Sesotho (Lesotho) (Translation)	Keke's Swing	id=11423

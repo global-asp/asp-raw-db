@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=11553&d=0&a=1
+id:	11553
+title:	Monna Yo a Dutšego a Nnôši
+author:	Little Zebra Books and Phala Gladys
+artist:	Little Zebra Books and Trevor Kellog
+lang:	Sepedi
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11553.png
+desc:	Pukwana ye e bolela ka  monna yo a sa nyakego
+
+page_text:
+
+P1	Go be go ne le monna yo a bego a sa nyake go dula kgauswi le baagišani ba gagwe. Le gona o be a sa nyake gore mosadi wa gagwe a etele malapa a baagišani ba gagwe.
+P2	Ka le lengwe la matšatši o ile a sepela a ya go aga ngwako sethokgeng,  kgole le mengwako ya baagišinane ba gagwe.
+P3	O be a rata go sepela e sale mesông gomme a boa gae bošegošego mehle le mehle.
+P4	Tšatši le lengwe e be ele bošego kudu ge monna a fihla gae. Phiri e bone seo a bego a se dira.
+P5	Phiri ye e ile ya ya go kokota mojako wa ngwako.
+P6	Mosadi ye,  o be a nagana gore ke monna wa gagwe,  a bula mojako. Phiri e ile ya mo tabogela ya mo ja ka pela.
+P7	Monna,  ge a boa ka gae o bone gore mosadi wa gagwe o jele ke Phiri. Go be go se selo seo a ka sebolelago.
+P8	Dilo tše ka moka di diregile ka lebaka la gore ga a nyake go dula kgauswi le baagišani ba gagwe.
+
+images:
+
+illustrations/pages/7327.png
+illustrations/pages/7325.png
+illustrations/pages/7327.png
+illustrations/pages/7329.png
+illustrations/pages/7324.png
+illustrations/pages/7331.png
+illustrations/pages/7332.png
+illustrations/pages/7333.png
+illustrations/pages/7334.png
+
+translations:
+
+Afrikaans (Translation)	Die Man Wat Alleen Gewoon Het	id=11509
+Chinyungwe (Original)	Ona Ico Nkhukhala Awiri	id=7365
+English (Translation)	The Man Who Lived Alone	id=7366
+French (Translation)	L’Homme Qui Voulait Vivre Seul	id=12678
+Luganda (Translation)	Omusajja Eya Beeranga Yekka	id=8290
+Lugbarati (Official) (Translation)	Ágú Àzɨ́ Ndráa A’Ápɨ A’Dúle Rɨ̀	id=12634
+Lumasaaba (Translation)	Umusaani Uwamenyatsaka Yenyene	id=8357
+Oluwanga (Translation)	Omusatsa Wamenya Yenyene	id=8288
+Portuguese (Translation)	O Homem Que Vivia Sozinho	id=17035
+Rutooro (Translation)	Omusaija Ayaikaraga Wenka	id=14936
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11556
+Sepedi (Translation)	Monna Yo a Bego a Dula a Le Tee	id=12411
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=12919
+siSwati (Translation)	Beyihlala Yodwa	id=13777

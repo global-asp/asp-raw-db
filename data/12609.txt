@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=12609&d=0&a=1
+id:	12609
+title:	Jimbi Na Sungura
+author:	Ursula Nafula
+artist:	Duane Arthur
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12609.png
+desc:	Tahadhari na kinachoweza kutendeka unapomchezea mtu shere.
+
+page_text:
+
+P1	Hapo zamani za kale,  kulikuwa na Jimbi na Sungura. Walikuwa marafiki sana.
+P2	Siku moja,  Sungura alimtembelea Jimbi na familia yake usiku. Walifurahia kula chajio pamoja.
+P3	Wakati wa kulala ulifika. Sungura alitambua kwamba vichwa vya Jimbi na familia yake vilifichwa walipolala.
+P4	Jimbi na familia yake walilala fofofo,  lakini Sungura hakulala usiku kucha.
+P5	Asubuhi walipoamka,  Sungura alitaka kujua siri hiyo. Akauliza,  "Ninyi huviweka wapi vichwa vyenu mnapolala?"
+P6	Jimbi akitaka kumchezea shere Sungura,  alijibu,  "Rafiki yangu,  wakati wa kulala,  sisi ndege hukata vichwa vyetu ili tulale vyema kabisa."
+P7	"Asubuhi tuamkapo,  sisi huvirejesha vichwa vyetu mwilini." Jimbi aliendelea kueleza.
+P8	Sungura aliporudi nyumbani,  aliwaelezea familia yake siri hiyo ya kuku. Sungura waliamua kuijaribu siri hiyo wao wenyewe! Hebu fikiria,  ni nini kilichotokea?
+
+images:
+
+illustrations/pages/12453.png
+illustrations/pages/12438.png
+illustrations/pages/12440.png
+illustrations/pages/12443.png
+illustrations/pages/12449.png
+illustrations/pages/12453.png
+illustrations/pages/12454.png
+illustrations/pages/12455.png
+illustrations/pages/12456.png
+
+translations:
+
+English (Original)	Rooster and Hare	id=12464
+French (Translation)	Coq Et Lièvre	id=13275
+Ng’aturkana (Translation)	Ekokoroit Ka Apoo	id=13211
+Portuguese (Translation)	O Galo E a Lebre	id=18859

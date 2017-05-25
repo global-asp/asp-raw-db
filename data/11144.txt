@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=11144&d=0&a=1
+id:	11144
+title:	Luister
+author:	Marquerite Wepener
+artist:	Jean Fullalove
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11144.png
+desc:	Luister na die verskillende geluide wat diere maak.
+
+page_text:
+
+P1	Krieke tjir.
+P2	Muise piep.
+P3	Slange sis.
+P4	Honde blaf.
+P5	Bokkies blêr.
+P6	Koeie moe.
+P7	Leeus brul.
+P8	 En slakke maak glad nie 'n geluid nie.
+P9	Babas babbel.
+P10	 En kinders praat.
+
+images:
+
+illustrations/pages/3029.png
+illustrations/pages/3030.png
+illustrations/pages/3031.png
+illustrations/pages/3032.png
+illustrations/pages/3033.png
+illustrations/pages/3035.png
+illustrations/pages/3036.png
+illustrations/pages/3037.png
+illustrations/pages/3038.png
+illustrations/pages/3043.png
+illustrations/pages/3029.png
+illustrations/pages/3041.png
+
+translations:
+
+Afrikaans (Translation)	Luister	id=11183
+Anywak (Translation)	Wïnynyu	id=17265
+English (Original)	Listen	id=3044
+French (Translation)	Écoute	id=12679
+Oluwanga (Translation)	Rechelesia!	id=3093
+Portuguese (Translation)	Escuta	id=17033

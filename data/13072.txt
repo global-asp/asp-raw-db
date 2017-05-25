@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=13072&d=0&a=1
+id:	13072
+title:	Sitselo
+author:	Nobuhle Nkosi and Thulane Mogwenya
+artist:	Wiehan de Jager
+lang:	siSwati
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13072.png
+desc:	Bekunentfombatane lenhle nanoma ngubani bekafisa kuyishada. Emndenini wakubo bekunesihlahla sesitselo lesimnandzi. Batali balentfombatane bancuma kutsi indvodzakati yabo itawushada nanoma ngabe ngubani lotabavakashela ahlale nabo lilanga lonkhe angadli nasinye saletitselo.
+
+page_text:
+
+P1	Kwakukhona umndeni lonesihlahla sesitselo lesinongotelako,  wonkhe umuntfu bekafuna kuva leso sitselo. Lomndeni bewuphindze unendvondzakati lenhle kakhulu. Bantfu labanyenti bebancoma lobuhle bayo lobumangalisako,  emehlo lacwatimulako kantsi lokungetulu kwako konkhe,  bekuyindlela lemangalisako yekutiphatsa kwakhe.
+P2	Uma akhulela esigabeni sakhe sekuba yintfombi,  emajaha nemadvodza lamadzala bewaya ekhayikubo bayocela kumshada. Batali bakhe bancuma kutsi indvodza letawuhlala ekhaya labo lilanga lonkhe ingadli sitselo itawunikwa sandla sendvodzana yabo kutsi iyishade.
+P3	Indzaba yagcwala ummango wonkhe. Indvodza leyacala kuta ngumphatsi wemapulazi endzawo. Lendvodza beyilikhwa,  icebile futsi iseyinsha. Wamukelwa wanikwa sitselo. Wahlala sikhashana wase udla lesitselo bamcosha.
+P4	Kwalandzela umphatsi wekugcina tilwane. Naye abelikhwa,  amusha futsi acebile. Lentfombatane yamtsandza. Kodvwa nakanikwa lesitselo wavele wasidla ngekuphutfuma. Naye wacoshwa!
+P5	Lendvodza leyalandzela beyinemhlaba lomnengi. Bekangumuntfu lotikhukhumetako abuye amubi. Lentfombatane yathandaza kutsi adle ahambe. Naye wanikwa sitselo kodvwa akamange asidle. Ngekuhamba kwesikhatsi,  intfombatane yacala kumncenga kutsi adle. Ngensimbi yesine,  wahlaselwa yindlala wase uyadla. Naye ngekunjalo wacoshwa.
+P6	Kwalandzela inkhosi,  beyitikhukhumeta,  igugile futsi iyimbi. Bekute layitsandzako emmangweni. Lentfombatane yafisa kutsi adle ahambe. Kwatsi nabayinika lesitselo,  yala kusidla. Yahlala lilanga lonkhe. Kutsite ngetikhatsi tensimbi yesitfupha,  wacela kuya ngasendlini yangasese.
+P7	Emva kwemalanga,  kwafika inkosana lenhle lecebile. Lentfombatane yambuka ngekumtsandza. Yamyisa ngasese,  yabuye yamncenga kutsi angasidli lesitselo. Wamnika titselo letincane kunaleti bekatinika lalabanye. Kutsite ngetikhatsi tasemini,  inkhosana bese ivele isidlile sitselo nayo yacoshwa. Intfombatane yakhala tinyembenti telulaka nekudvumateka.
+P8	Ngelilanga lelilandzelako,  kwafika umlimi. Beka ngumuntfu loliphuya futsi avilapha,  bekalijaha lelatiwa bantfu labanyenti ngekukhuluma kakhulu. Ute nje angumuntfu lone litsemba lekutsi utawushadiswa nalentfombatane. Intfombatane yamunika titselo letinyenti yase imcela kutsi adle ahambe.
+P9	Batali bakhe besekumele banikele ngentfombatane yabo kulelivila. Lentfombatane yancenga icela batali bayo kutsi kube nguyo letincumelako kepha bekute lebebangakwenta. Kwatsi umlimi asamiyisa ekhaya lakhe,  wahamba ahlabelela ingoma lemnandzi ashaya netandla. Linyenti lebantfu bema emgwacweni bafuna kubona letitsandzani.
+P10	Kulelinyenti lebantfu bekukhona netisebenti tenkhosana lecebile. Babitela lomlimi ngasese,  bamtsembisa imali netinkhomo nangabe atawuyekela lentfombatane. Ngaphandle kwekungabata,  wakhetsa kutsatsa imali kanye netinkhomo wahamba nato.
+P11	Letisebenti tagcokisa lentfombatane timphahla takanokusho tamyisa esigodlweni kuyo inkhosana. Kungakapheli sikhatsi lesingakanani,  batali bentfombatane babitwa,  kwahlelwa umcimbi wekuhlanganisa laba lababili emshadweni.
+
+images:
+
+illustrations/pages/1344.png
+illustrations/pages/1345.png
+illustrations/pages/1344.png
+illustrations/pages/1346.png
+illustrations/pages/1347.png
+illustrations/pages/1348.png
+illustrations/pages/1349.png
+illustrations/pages/1350.png
+illustrations/pages/1351.png
+illustrations/pages/1352.png
+illustrations/pages/1353.png
+illustrations/pages/1354.png
+
+translations:
+
+English (Original)	Fruit	id=2124
+French (Translation)	Les Fruits	id=10182
+Gurene (Translation)	Tiisi Wɔla	id=12666
+Kiswahili (Translation)	Matunda	id=8431
+Likpakpaanl (Translation)	Lisubil	id=18777
+Lugbarati (Translation)	Pati Efi	id=2334
+Lugbarati (Official) (Translation)	Patí Éfɨ́	id=8750
+Lumasaaba (Translation)	Bibyaano	id=3086
+Lumasaaba (Translation)	Bibyaano	id=8688
+Lunyole (Translation)	Ehibala	id=2333
+Rutooro (Translation)	Ekijuma	id=14923

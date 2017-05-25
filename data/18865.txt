@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=18865&d=0&a=1
+id:	18865
+title:	Amatsi Nobulamu
+author:	Ebby Avutswa
+artist:	Wiehan de Jager, Melany Pietersen, Rob Owen, Vusi Malindi, Jesse Pietersen, Silva Afonso, Renate van Rensburg and Salim Kasamba
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18865.png
+desc:	Amatsi nobulamu.
+
+page_text:
+
+P1	Amatsi namalayi.
+P2	Khunywetsanga amatsi.
+P3	Tsisolo tsinywetsanga amatsi.
+P4	Emimera chikhonyeranga amatsi.
+P5	Tsikwena tsimenyanga mumatsi.
+P6	Khwisinganga amatsi.
+P7	Khwosirinjia efindu amatsi.
+P8	Khufuyiranga amatsi.
+P9	Amatsi nobulamu.
+
+images:
+
+illustrations/pages/15335.png
+illustrations/pages/13653.png
+illustrations/pages/10609.png
+illustrations/pages/9648.png
+illustrations/pages/13388.png
+illustrations/pages/17150.png
+illustrations/pages/924.png
+illustrations/pages/13819.png
+illustrations/pages/9485.png
+illustrations/pages/13415.png
+
+translations:
+
+English (Translation)	Water	id=18966

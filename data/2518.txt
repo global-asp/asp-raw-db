@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=2518&d=0&a=1
+id:	2518
+title:	Bana Ba Entsoeng Ka Kerese
+author:	Moeketsi Buku
+artist:	Wiehan de Jager
+lang:	Sesotho (Lesotho)
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2518.png
+desc:	Ho ne ho ena le lapa le ne le ena le bana ba bararo ba hlomphang haholo. Ba ne ba entsoe ka kereseme seo se ne se ba thiba ho ka etsa letho letsatsing kapa motséare ka letsoalo la hore ba tla qhibilia. Empa e mong oa bona o ne a batla ho bona hore na kantle ho joang motséareme a khetha ho tsoa a ke a bone linonyana le lifate. O qetella a qhibilia letsatsing ho fihlela moo baholoane ba hae ba etsang leqheka la ho mo pholosa.
+
+page_text:
+
+P1	Khale khale hone ho ena le lelapa le leng le lula le thabile.
+P2	Bana ba lelapa leo,  bane ba sa rate ho loana ba lula ha 'moho. Ba thusa batsoali babona hae le masimong.
+P3	Empa bane basa lumelloe ho atamela pela mollo.
+P4	Ka hore batla qhibilia,  bane ba etsa mosebetsi oa bona bosiu feela.
+P5	Eaba e mong oa bashanyana bao,  o batla ho tsoela kantle ele kannete hoea letsatsing.
+P6	Ka letsatsi le leng,  o ne a sa khone ho ithiba hoo-hang. Eaba baholoane ba hae ba mo hlokomela.
+P7	Empa nako e ne e se eile. Eaba o oa qhibilia letsatsing.
+P8	Eaba baholoane ba hae ba utloa bohloko hobane ngoana oa bo bona a qhibilihile ke letsatsi.
+P9	Empa ba ba le leqheka. Ba etsa nonyana ka kholu eno ea ngoana bobona ea qhibilisitsoeng ke letsatsi.
+P10	Ba nka ngoanabo bona eo e seng ele nonyana,  ho mo isa holimá thaba.
+P11	Eare letsatsi ha le hlaha,  a fofela holimo a ntse a bina.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

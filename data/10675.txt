@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=10675&d=0&a=1
+id:	10675
+title:	Abolia Naka Opooi
+author:	John Emongot
+artist:	Reginaldo Vicente Manhice
+lang:	Ateso
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10675.png
+desc:	Ikamunit ipapero iyarei ipoo keda edokolet lu opotu obolyata abolya na aipo osodi ipoo aiyam edokolet kabolya.
+
+page_text:
+
+P1	Ikolo sek,  arai ipoo ka edokolet ipaper. Obu ipoo onyarau edokolet abolya na'ipoo.
+P2	Ekot oni abolya abolya n'aipoonokin. Eponebani? Ingisi edokolet.
+P3	Ebeyit ber oni ainokokin akim, ebala ipoo.
+P4	Osodi aileleb amot ka'kipi,  edorokinete akim.
+P5	Engo ageyi alomar, edol esawa anangi engo arapet opukori jjo. Ocamuni edokolet.
+P6	Olomari ipoo amot toni na ageyata akip ajalamuun.
+P7	Obu ipoo onang arapet osodi edokolet apukor arapet.
+P8	Konye edol edokolet alomar,  obu ipoo yen oyawu engarot loo ti idokokini kuju na'arapet osodi aiboyikin kuju.
+P9	Egewutu akip amwakuun,  obu edokolet onang arapet konye obu ipoo yen onger angar arapet.
+P10	Anen, obu edokolet otwana osodi ipoo aiyam eke papero!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/6681.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/6684.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/6689.png
+
+translations:
+
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The Cooking Game	id=6993
+English (Adaptation)	The Cooking Game - Colouring Book	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo Wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo Wokuphekana (Faka Imibala)	id=17564
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

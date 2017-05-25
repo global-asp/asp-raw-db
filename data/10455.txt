@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=10455&d=0&a=1
+id:	10455
+title:	Elephant and Chameleon
+author:	Stella Badaru
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10455.png
+desc:	A king sets a difficult task
+
+page_text:
+
+P1	Once upon a time in a big palace,  there lived a king and his beautiful daughter,  the princess.
+P2	Elephant lived in a house on one side of the palace. Chameleon lived on the other side.
+P3	At this time,  there was a terrible drought across the land. The king had an idea and called his two neighbours to the palace.
+P4	The kind said to Elephant and Chameleon,  "I want you to stomp on the ground with your feet until water comes out." The king promised the princess in marriage to the one who succeeded.
+P5	Chameleon had no hope since he was very small. Elephant was extremely happy since he was so big and powerful. Elephant went to the field and started stomping on the ground.
+P6	A lot of dust came,  but no water. Elephant stomped on the ground until water was almost coming out,  but he was too tired. He gave Chameleon a chance to try.
+P7	Chameleon started stomping on the ground. After a short while,  water came out. People could not believe their eyes!
+P8	So the King gave the beautiful princess to Chameleon. Elephant went home annoyed.
+
+images:
+
+illustrations/pages/9461.png
+illustrations/pages/9457.png
+illustrations/pages/9458.png
+illustrations/pages/9459.png
+illustrations/pages/9460.png
+illustrations/pages/9461.png
+illustrations/pages/9462.png
+illustrations/pages/9463.png
+illustrations/pages/9464.png
+
+translations:
+
+Dhopadhola (Translation)	Lyec Gi Ŋokino	id=15736
+Kiswahili (Translation)	Ndovu Na Kinyonga	id=15616
+Portuguese (Translation)	O Elefante E O Camaleão	id=16414
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=10456
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=11901
+Yoruba (Translation)	Eerin Àti Ọ̀gà	id=16556

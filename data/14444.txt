@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=14444&d=0&a=1
+id:	14444
+title:	Khalai O Bua Le Dimela
+author:	Tseliso Masolane
+artist:	Jesse Pietersen
+lang:	Sesotho (S.Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14444.png
+desc:	Khalai ke ngwanana e monyenyane ya buang le dimela tse fapaneng.
+
+page_text:
+
+P1	Enwa ke Khalai. O dilemo di supileng. Lebitso la hae le bolela 'ya lokileng' ka puo ya habo,  Lubukusu.
+P2	Khalai o a tsoha mme o bua le sefate sa dilamunu. "Ka kopo sefate sa dilamunu,  hola o be moholo mme o re fe dilamunu tse ngata."
+P3	Khalai  o tsamaya ka maoto ho ya sekolong. Tseleng o bua le jwang. "Ka kopo jwang,  hola o be motalana mme o se ke wa omella."
+P4	Khalai o feta dipalesa tse hlaha. "Ka kopo dipalesa,  dulang le thuntse hore ke le kenye moriring wa ka."
+P5	Sekolong,  Khalai o bua le sefate se bohareng ba lebala la sekolo. "Ka kopo sefate,  phukalatsa makala a maholo hore re kgone ho balla tlasa moriti wa hao."
+P6	Khalaio bua le difatjana tse kampetseng sekolo. "Ka kopo holang le be matla mme le thibele batho ba babe ho kena."
+P7	Ha Khalai a kgutlela hae ho tswa sekolong,  a tjhakela sefate sa dilamunu. "Ebe dilamunu tsa hao di se di butswitse?" ho botsa  Khalai.
+P8	"Dilamunu di sa le tala," ho kgotsa Khalai. "Ke tla o bona hosane sefate sa dilamunu," ho rialo Khalai. "Mohlomong ka nako eo o tla be o se o na le dilamunu tse butswitseng!"
+
+images:
+
+illustrations/pages/13389.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa.	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

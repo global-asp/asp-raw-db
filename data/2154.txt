@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=2154&d=0&a=1
+id:	2154
+title:	The Moon and the Cap
+author:	Noni
+artist:	Angie & Upesh
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2154.png
+desc:	A little boy gets a blue cap from his mother. The wind blows the cap into a big tree and boy is very sad. At night
+
+page_text:
+
+P1	All of us went to the fun fair.
+P2	Father bought brother fancy glasses. Mother bought me a bright blue cap. The baby got sugar candy.
+P3	On the way home,  a very strong wind came. It blew my cap away.
+P4	My cap got stuck on a branch of a big old tree.
+P5	I cried a lot. And I did not eat my dinner.
+P6	Later that night,  the moon came up. It looked at my cap in the big old tree.
+P7	The moon tried on my cap. It smiled happily. I had to smile too.
+P8	After school the next day,  my mother gave me a shiny new red cap. "The moon sent it," she said.
+P9	That night,  both the moon and I wore our caps and smiled. We were happy.
+P10	Do you think the sun needs a hat?
+P11	Guess which cap I am wearing today!
+
+images:
+
+illustrations/pages/2137.png
+illustrations/pages/2138.png
+illustrations/pages/2139.png
+illustrations/pages/2141.png
+illustrations/pages/2142.png
+illustrations/pages/2143.png
+illustrations/pages/2144.png
+illustrations/pages/2145.png
+illustrations/pages/2146.png
+illustrations/pages/2147.png
+illustrations/pages/2148.png
+illustrations/pages/2150.png
+
+translations:
+
+Afrikaans (Translation)	Die Maan en Die Keps	id=11151
+French (Translation)	La Lune Et La Casquette	id=10858
+isiXhosa (Translation)	Inyanga Ne Kepisi	id=2236
+isiZulu (Translation)	Inyanga Nekepisi	id=2225
+Kiswahili (Translation)	Mwezi Na Kofia	id=2229
+Sepedi (Translation)	Ngwedi Le Kepisi	id=2231
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=2228
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=10365
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=11182
+siSwati (Translation)	Inyanga Nekepisi	id=13044

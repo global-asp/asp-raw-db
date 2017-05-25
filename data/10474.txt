@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=10474&d=0&a=1
+id:	10474
+title:	Rats!
+author:	Little Zebra Books
+artist:	Stephanie Simpson
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10474.png
+desc:	A man makes oil in his house. Rats want this oil. They come up with a plan to steal the oil. Will they succeed?
+
+page_text:
+
+P1	There was a man who sold oil that he made in his house.
+P2	And in that house there were rats. Lots of rats!
+P3	Every day the rats looked at the oil and said,  "How can we get that oil?"
+P4	The rats tried to put their mouths into the bottles. But the spaces in the bottles were too small.
+P5	The rats tried to tip over the bottles. But the oil would not flow out.
+P6	The rats had a meeting to discuss the problem. After a while,  one rat said,  "Let's put our tails into the bottles. Then we can lick the oil off our tails."
+P7	And that's exactly what the rats did. They put their tails into the bottles,  and then licked the oil off each other's tails. The rats did this until they had licked up all the oil.
+P8	The man of the house saw that all his oil was gone!
+P9	And that was the end of it.
+
+images:
+
+illustrations/pages/10465.png
+illustrations/pages/10464.png
+illustrations/pages/10465.png
+illustrations/pages/10466.png
+illustrations/pages/10467.png
+illustrations/pages/10468.png
+illustrations/pages/10469.png
+illustrations/pages/10470.png
+illustrations/pages/10471.png
+illustrations/pages/10472.png
+
+translations:
+
+Ciyawo (Translation)	Makoswe!	id=19002
+Portuguese (Original)	Ratos!	id=10461
+Portuguese (Translation)	“Ratos!”	id=19003

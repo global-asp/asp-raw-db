@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=11444&d=0&a=1
+id:	11444
+title:	Dembe Omusuubuzi
+author:	Annet Ssebaggala
+artist:	Zablon Alex Nguku
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11444.png
+desc:	Olugero luno lukwata ku musuubuzi omututumufu akolera awamu n`abenyumba ye mu kabuga ke Gayaza.
+
+page_text:
+
+P1	Ku kyaalo kyewaffe waliyo omusajja omusuubuzi erinnya lye Dembe.
+P2	Dembe alina edduuka ddene nyo mu kabuga ke Gayaza.
+P3	Mu duuka lya Dembe mulimu obuwunga,  sukali,  ebizigo,  omuceere,  ebijanjaalo,  nebirala bingi.
+P4	Dembe alina mukazi we nabaana basatu. Bona bakola nyo namanyi mu duuka.
+P5	Mukiseera ekyoluwummula,  abaana bayambako bazadde baabwe okukola mu dduuka nga baweereza abaguzi.
+P6	Dembe alina ebitabo mwawandiika ebya sente buli lunaku.
+P7	Dembe nemukyaala we balina enyumba ennungi ne mmotoka.
+P8	Balunda embuzi,  ente,  enkoko nobumyu. Obulamu bwaabwe bulungi.
+P9	Dembe ne mukazi we bafuna sente ezimala okulabirira abaana baabwe nokubatwaala mu masomero amalungi.
+
+images:
+
+illustrations/pages/10795.png
+illustrations/pages/10795.png
+illustrations/pages/10796.png
+illustrations/pages/10797.png
+illustrations/pages/10798.png
+illustrations/pages/10799.png
+illustrations/pages/10801.png
+illustrations/pages/10804.png
+illustrations/pages/10805.png
+illustrations/pages/10803.png
+
+translations:
+
+English (Translation)	Dembe the Shopkeeper	id=11466

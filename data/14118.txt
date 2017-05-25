@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=14118&d=0&a=1
+id:	14118
+title:	Upepo
+author:	Ursula Nafula
+artist:	Marion Drew
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14118.png
+desc:	Hadithi inaonyesha nguvu za upepo.
+
+page_text:
+
+P1	Niliusikia upepo ukivuma kupita makao yetu kwa kasi.
+P2	Upepo huo ulikuwa mkali. Uliibandua tiara yangu kutoka mkononi.
+P3	Niliifuata tiara yangu,  lakini upepo huo mkali ulinisukuma mbali nayo.
+P4	Upepo uligeuka na kuwa dhoruba. Dhoruba hiyo iliienua tiara yangu juu zaidi.
+P5	Dhoruba hiyo ya kutisha ilinimeza mzima mzima! Sikuweza kuona chochote wala kugusa chochote.
+P6	Niliikumbuka tiara  yangu nzuri. Ilikuwa wapi? Labda ilikuwa imenaswa mtini.
+P7	Au labda,  ilikuwa bado inapeperuka hewani.
+P8	Mwishowe,  dhoruba hiyo kali ilipunguka. Mimi nilikuwa bado ninazunguka.
+P9	Nilipotulia,  nilitazama mahali nilipokuwa. Nilijiuliza,  "Upepo ule mkali umeanda wapi?"
+P10	Sikuiona tiara  yangu nzuri popote. Sikuusikia tena upepo ukivuma.
+P11	Labda siku iliyofuata,  ningeipata tiara yangu nzuri.
+P12	La muhimu kwangu sasa ni kwenda zangu nyumbani,  mbali na upepo hatari.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+illustrations/pages/14101.png
+
+translations:
+
+English (Translation)	Wind	id=14119
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Sesotho (S.Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

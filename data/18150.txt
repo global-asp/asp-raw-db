@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=18150&d=0&a=1
+id:	18150
+title:	Kiundu Biɛmlana
+author:	Bugzuah Charles Midzira (OLE Ghana)
+artist:	Alex Zablon
+lang:	Dagbani/Dagbanli
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18150.png
+desc:	Binshɛŋa Kuindu ni daa bori yaɣi biɛhigu ni zaɣ’yini n nyɛ o kpaŋ o maŋa pam ka bindirigu din yoli dibu bi yaɣi o zuɣu. Wula ka o yɛn niŋ n-laɣim di buyi dabsili yini tiŋkpansi kɔŋkɔba?
+
+page_text:
+
+P1	Saha shɛli ha tiŋkpanshɛli yuli daa booni Nyamani. Ka doo daa beni ka o yuli booni Kiudu. O daa diri pam. Ka daa bori nimdi ŋubu n-ti yaɣi.
+P2	Dahinshɛli,  tiŋkpaŋa maa naa daa boli tiŋkpanima maa zaasa ni bɛ kana n-ti nya o bidibila ni yɛm lo amiliya shɛm.
+P3	Kiundu daa lahi wum niriba ni yɛri amiliya lobu laɣim di lahibali tiŋkpaŋshɛli tabina ka di yuli daa booni Katumbi. "Laɣim di buyi dabsili yiŋga!" Kiundu tɛhigu.
+P4	"N ni bahi chaŋ laɣim di buyi maa ni," Kiundu yɛli ti o maŋa. "N ni tuui chaŋ Katumbi ka naayi labina Nyamani."
+P5	Kiundu daa neei asibasi n chaŋ Katumbi tiŋkpaŋa. O na daa paai o daa nya ka bɛn duɣiri maa na duɣiri bindirigu maa. "N ni labi Nyamani ka labina kpe di yi tooi biɛla," Kiundu gbaaya.
+P6	Kiundu daa chaŋ labina ka maani tahima ni nimdi maa biya. Kum n daa mali o pumpɔŋɔ. Amaa o ni daa paana,  niriba gba daa na duɣiri bindirigu maa.
+P7	"Ni daa yiɣisi Katumbi bɛ daa pila duɣibu," O tiɛya. "Bindirigu maa tu ni di bi pumpɔŋɔ." Di zuɣu Kiunda daa chaŋ labina Katumbi. Kum daa wum o viɛnyɛliŋga.
+P8	Sahashɛli Kiundu ni daa zaŋ ti paai Katumbi,  niriba daa pun dimi. Saamba daa tirila amiliya mini ango sɔŋsim. Kiundu daa ka pini n-tira. O daa borila dibu kɔŋko.
+P9	Kiundu daa niŋ suhugarigu yaɣi zaŋkpa o ni daa pooi maa. O daa gbaaya ni o chaŋ labi Nyamani tiŋkpaŋa. Kum mini wumsmi n daa gbaagi o,  ka o daa chani belabela.
+P10	O ni daa paai Nyamni tiŋkpaŋa,  niriba n-daa yiina ka wara. Bɛ daa pun di bindirigu maa zaa naai!
+P11	O ni daa wum ni bidirigu kani,  Kiudu nini daa sabi o mi luhi. O daa pooi nimdi laɣiŋgunima ayi maa ni. O nini ni daa ti neei,  o daa nyɛ kukɔɣli biɛla kɔpu bila ni!
+P12	Kiudu daa lahi chaŋ labi yiŋa ni kum.
+
+images:
+
+illustrations/pages/9128.png
+illustrations/pages/9128.png
+illustrations/pages/9129.png
+illustrations/pages/9130.png
+illustrations/pages/9131.png
+illustrations/pages/9132.png
+illustrations/pages/9134.png
+illustrations/pages/9135.png
+illustrations/pages/9136.png
+illustrations/pages/9137.png
+illustrations/pages/9138.png
+illustrations/pages/9139.png
+illustrations/pages/9140.png
+
+translations:
+
+Akuapem Twi (Translation)	Kiundu Difudepɛfo No	id=18459
+Amharic (Translation)	ገብጋባው ክንዴ	id=12003
+Asante Twi (Translation)	Adifudepɛfoɔ Kiundu	id=18279
+Dagaare (Translation)	Kiundu, Bundi-Gbogbo Soba	id=17771
+Dangme (Translation)	Kiundu Komdodomitsɛ	id=18340
+Dhopadhola (Translation)	Otoyo Jaworo	id=15757
+English (Original)	Greedy Kiundu	id=9133
+English (Adaptation)	Greedy  Mairu	id=10264
+Ewe (Translation)	Kiundu Ɖokuitɔdila	id=18180
+Fante (Translation)	Kiundu Onyibernyi	id=18489
+Ga (Translation)	Saki Hiɛjoolɔ	id=18291
+Gonja (Translation)	Kiundu Kajɛ Wura	id=18212
+Kasem (Translation)	Kiundu Na Ye Wochanyeno	id=18225
+Lunyole (Translation)	Hiyubi  Ow'ogulyerye	id=11614
+Mampruli (Translation)	Kiundu Beemdaana	id=19320
+Ng’aturkana (Translation)	Kiundu Lokarorokanan	id=9771
+Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
+Portuguese (Translation)	Kiundu Guloso	id=16439
+Sesotho (Lesotho) (Translation)	Ntate Meharo O Meharo	id=10626
+Setswana (Translation)	Megagaru Ya Ga Abele	id=14961

@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=15737&d=0&a=1
+id:	15737
+title:	Umi Liec
+author:	Owino Ogot and Athieno Gertrude
+artist:	Wiehan de Jager
+lang:	Dhopadhola
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15737.png
+desc:	Paka liec onwaŋo ume mabor.
+
+page_text:
+
+P1	Kis dhano oŋeyo paka liec jo nitie gi umi gin maboyo.
+P2	To cango con,  umi liec oyido cek aka cwe.
+P3	Onywol nyathi liec moro. Go oyido jakimega swa. Go obedo gi penji ri kis ogwaŋ.
+P4	Go obedo gi kimega kwoŋ kol. Openjo kol ni,  "I raŋo initie gi ŋutin mabor?"
+P5	Obedo gi kimega kwoŋ liec adumo. Openjo liec adumo ni,  "I raŋo tungin bith?"
+P6	Obedo gi kimega kwoŋ ngona. Openjo ni,  "Cemo aŋo ma ngona jocamo othieno?"
+P7	Agak mariek owaco piyo piyo ni,  "Luwan wakidhi i malawa. Koro i la neno gima ngona camo m'othieno."
+P8	Gi kenyo nyathi liec oluwo agak kiri i malawa.
+P9	Orire i toko to cungo i thengi pi. Oŋiyo pi.    Ni kune ngona?
+P10	Tele ma thengi malawa omotho go ni,  "Yoga!" Nyathi liec bende odwoko ni,  "Yoga bende!" To penjo ni,  "I nyalo waco raye gima ngona camo m'othieno?"
+P11	To tele waco ri go ni,  "Biye cegin." To nyathi liec luŋere. Tele owaco ni,  "Medi bino cegin." Nyathi liec omedo luŋirok.
+P12	Arwat ni kap! Ngona ogamo umi nyathi liec gi lake.
+P13	Nyathi liec ogik acen to pidho tiende matek to ywayo. To ywayo de ywayo.  Kada ameno ngona koweyo ume.
+P14	Umi nyathi liec otele de to tele. To doko tele. Tundo go opodho taro ni,  "Bum!"
+P15	Umi nyathi liec ma oyido cek onyo otele olokere mabor.
+P16	Umi go obor swa ma nyalo gamo kiri olemo wok malo i jangi yen. Aka kiri konon liec je jo ni gi umi gin ma boyo ma di kony.
+
+images:
+
+illustrations/pages/1110.png
+illustrations/pages/1111.png
+illustrations/pages/1112.png
+illustrations/pages/1110.png
+illustrations/pages/1113.png
+illustrations/pages/1114.png
+illustrations/pages/1116.png
+illustrations/pages/1118.png
+illustrations/pages/1119.png
+illustrations/pages/1120.png
+illustrations/pages/1121.png
+illustrations/pages/1122.png
+illustrations/pages/1123.png
+illustrations/pages/1124.png
+illustrations/pages/1125.png
+illustrations/pages/1882.png
+illustrations/pages/1127.png
+
+translations:
+
+English (Translation)	Elephant's Nose	id=15093
+Oluwanga (Adaptation)	Omwana We Inzofu	id=19800
+Portuguese (Translation)	O Nariz Do Elefante	id=16579
+Tunisian (Translation)	Xcem Il-Fìle	id=15220
+Yoruba (Translation)	Imú Eerin	id=16558

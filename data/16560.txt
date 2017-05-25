@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=16560&d=0&a=1
+id:	16560
+title:	Foi Assim Que O Nariz Da Tartaruga Ficou Torto
+author:	Translators without Borders and Isabel Coelho
+artist:	Marleen Visser
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16560.png
+desc:	Esta história tem uma moral que é um bom conselho!
+
+page_text:
+
+P1	Era uma vez uma Tartaruga e um Esquilo que eram grandes amigos. Um dia,  o Esquilo disse à Tartaruga: "Minha amiga,  não temos dinheiro,  mas o dia do mercado está a chegar. Que podemos fazer para ganhar algum dinheiro?"
+P2	A Tartaruga respondeu: "Eu sei fazer pratos de barro. Quero que me ajudes a fazer pratos para vender." "Está bem,  amiga. Amanhã à noite ajudar-te-ei a fazer os pratos" – disse o Esquilo.
+P3	Chegado o dia,  a Tartaruga foi para o mercado. Viu duas pessoas a lutar ao longe. Pousou os seus pratos de barro e foi ver a luta.
+P4	Quando chegou lá,  viu que era o seu amigo Esquilo que estava a lutar com a Toupeira.
+P5	Imediatamente,  sem saber o que tinha causado a luta,  a Tartaruga pegou numa grande vara e começou a bater na Toupeira. "Deixa o meu amigo em paz!" – gritou a Tartaruga.
+P6	A Toupeira virou-se para a Tartaruga e mordeu-lhe o nariz.
+P7	O nariz da Tartaruga começou a sangrar.
+P8	A Tartaruga tinha entrado na luta sem pensar. A partir daquele dia,  ficou com o nariz torto para se lembrar de não se precipitar.
+
+images:
+
+illustrations/pages/13136.png
+illustrations/pages/13129.png
+illustrations/pages/13130.png
+illustrations/pages/13131.png
+illustrations/pages/13132.png
+illustrations/pages/13133.png
+illustrations/pages/13134.png
+illustrations/pages/13135.png
+illustrations/pages/13136.png
+
+translations:
+
+English (Translation)	How Tortoise’S Nose Became Crooked	id=13137
+English (Adaptation)	How Tortoise Got a Crooked Nose	id=19763
+French (Translation)	Le Nez Crochu De Tortue	id=13769
+Yoruba (Original)	Bí Imú Ìjàpá Ṣe Rí Kọ́ńbó	id=13128

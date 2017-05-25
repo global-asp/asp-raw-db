@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18883&d=0&a=1
+id:	18883
+title:	Boitumelo Le Ngalo
+author:	Atang-Wabone Malik
+artist:	Rijuta Ghate
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18883.png
+desc:	Diele tsa di kanokang maikutlo
+
+page_text:
+
+P1	Nnana ke eng a lela?
+P2	Ke akanya gore o tshwerwe ke tlala.
+P3	Ke eng fa mosimane yo a ngadile?
+P4	Ke akanya gore o tlhwaafaletse rraagwe.
+P5	Mosetsana yo ke eng fa a itumetse?
+P6	O na le mosese o o mosha.
+P7	Monnamogolo ke eng fa a tshega?
+P8	O bala lokwalo lo lo tshegisang.
+P9	Ke eng fa mosadi yo a nyenya?
+P10	Bana ba gagwe ba bala ba didimetse.
+P11	Mosadi yo o ikutlwa jang?
+P12	Ke akanya gore o ikutlwa a le bori.
+
+images:
+
+illustrations/pages/1891.png
+illustrations/pages/1892.png
+illustrations/pages/1893.png
+illustrations/pages/1894.png
+illustrations/pages/1895.png
+illustrations/pages/1896.png
+illustrations/pages/1897.png
+illustrations/pages/1898.png
+illustrations/pages/1899.png
+illustrations/pages/1900.png
+illustrations/pages/1901.png
+illustrations/pages/1902.png
+illustrations/pages/1903.png
+
+translations:
+
+Arabic (Translation)	الفرح والحزن	id=19918
+Ng’aturkana (Translation)	Alakara Ka Ang'oit	id=16484

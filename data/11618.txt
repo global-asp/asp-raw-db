@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=11618&d=0&a=1
+id:	11618
+title:	Bona Esolo
+author:	Mubbalya Charles
+artist:	Sandy Campbell
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11618.png
+desc:	ENGERI EBISOLO YI BI LIRAMO
+
+page_text:
+
+P1	Bona Esolo.
+P2	Eŋombe yimoola yiiti ''moo''.
+P3	Embusi yimeela yiiti, "mee,  mee."
+P4	Embalasi yirira yiiti,  ''Neyi.
+P5	Embiji elira yiiti,  "bo,  bo."
+P6	Engoho eholyoha yiiti,  "kokolyoko."
+P7	Embwa yisama yiiti,  ''bbwe.''.
+P8	Omulimi aloma ati,  "shhh."
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/1750.png
+illustrations/pages/1751.png
+illustrations/pages/1752.png
+illustrations/pages/1753.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+Ateso (Translation)	Ongolia Ityiang Lu	id=9209
+English (Original)	Look at the Animals	id=1221
+English (Adaptation)	Domestic Animals	id=9680
+English (Adaptation)	Look at the Animals	id=10257
+isiXhosa (Translation)	Izilwanyana Zasekhaya	id=2539
+isiZulu (Translation)	Izilwane Zasepulazini	id=2540
+Kiswahili (Translation)	Watazame Wanyama	id=9479
+Kiswahili (Adaptation)	Wanyama Wa Kufugwa	id=9681
+Kiswahili (Adaptation)	Manyati Na Wanyama Wake	id=16742
+Lugbarati (Translation)	Mi Ne Nga Anyapa 'diyi	id=12648
+Lunyole (Adaptation)	Boon Ebisolo	id=16737
+Rutooro (Adaptation)	Test Dora Ebisoro Sd	id=16736
+Rutooro (Translation)	Test Dora Ebisoro	id=16740
+Rutooro (Adaptation)	Test Dora Ebisoro Nm	id=16741
+Rutooro (Adaptation)	Test Dora Ebisoro	id=16743
+Sepedi (Translation)	Diphoofolo Tša Ka Gae	id=2544
+Sesotho (Lesotho) (Translation)	Liphohofolo Tsa Polasing	id=2543

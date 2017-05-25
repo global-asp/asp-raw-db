@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=7660&d=0&a=1
+id:	7660
+title:	Joy Goes to School.
+author:	Augustine Napagi
+artist:	Vusi Malindi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7660.png
+desc:	Joy is going to school.
+
+page_text:
+
+P1	Joy played all the day.
+P2	Her mother told her to wash.
+P3	She picked up her tooth brush.
+P4	Her mother put water in basin for her.
+P5	She dried her face.
+P6	She joined her sister to sleep.
+P7	In the morning she brushed her teeth.
+P8	Her mother helped her dress up.
+P9	She tied her shoes.
+P10	Joy goes to school.
+P11	Joy is in class.
+
+images:
+
+illustrations/pages/7516.png
+illustrations/pages/7516.png
+illustrations/pages/7517.png
+illustrations/pages/7514.png
+illustrations/pages/7518.png
+illustrations/pages/7515.png
+illustrations/pages/7513.png
+illustrations/pages/7507.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+
+translations:
+
+Luganda (Translation)	Joy Agenda Ku Somero	id=9053
+Luganda (Translation)	Joy Agenda Ku Somero	id=9056

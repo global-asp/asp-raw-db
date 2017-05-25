@@ -1,0 +1,81 @@
+url:	http://africanstorybook.org/reader.php?id=18330&d=0&a=1
+id:	18330
+title:	Magozwe
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18330.png
+desc:	Mvulana mdogo anajipata mtaani pamoja na watoto wengine wanaorandaranda. Katika hali ya kujitafutia
+
+page_text:
+
+P1	Kulikuwa na wavulana wa kurandaranda mtaani. Mmoja wao aliitwa Magozwe.
+P2	Wazazi wa Magozwe walikufa akiwa mdogo. Aliishi na mjombake.
+P3	Mjombake alimtesa. Magozwe alitorokea  mtaani.
+P4	Maisha ya mtaani yalikuwa magumu. Waliombaomba.
+P5	Siku moja,  Magozwe aliokota kitabu cha hadithi kwenye pipa.
+P6	Picha zilionyesha rubani wa ndege. Magozwe alitamani kuwa rubani mashuhuri.
+P7	Magozwe alikuwa akiomba chakula barabarani. Alikutana na Tomaso.
+P8	Tomaso aliwapeleka pahali pa kupata chakula.
+P9	Siku moja,  Magozwe alimwambia Tomaso,   "Sijui kusoma."
+P10	Magozwe pia alimweleza kwa nini alitoroka kwa mjombake.
+P11	Magozwe alikuwa na umri wa miaka kumi. Tomaso alimpatia kitabu.
+P12	Magozwe alifikiria juu ya kwenda shule.
+P13	Ingawa aliogopa,  Tomaso alimtia moyo.
+P14	Magozwe alipelekwa katika makao ya watoto.
+P15	Alisoma kwa bidii.
+P16	Siku moja,  Magozwe alimweleza Tomaso,  "Nitakuwa rubani maarufu kuliko wote."
+
+images:
+
+illustrations/pages/12937.png
+illustrations/pages/12931.png
+illustrations/pages/12932.png
+illustrations/pages/12933.png
+illustrations/pages/12935.png
+illustrations/pages/12936.png
+illustrations/pages/12937.png
+illustrations/pages/12938.png
+illustrations/pages/12939.png
+illustrations/pages/12940.png
+illustrations/pages/12941.png
+illustrations/pages/12942.png
+illustrations/pages/12943.png
+illustrations/pages/12944.png
+illustrations/pages/12945.png
+illustrations/pages/12946.png
+illustrations/pages/12947.png
+
+translations:
+
+Afrikaans (Translation)	Magozwe	id=20078
+Akuapem Twi (Translation)	Magozwe	id=18463
+Asante Twi (Translation)	Magozwe	id=18280
+ChiTonga (Translation)	Magozwe	id=18653
+CiNyanja (Translation)	Magozwe	id=18671
+Dagaare (Translation)	Magozwe	id=17775
+Dagbani/Dagbanli (Translation)	Magozwe	id=18162
+Dangme (Translation)	Mokasa	id=18302
+English (Original)	Magozwe	id=13213
+Ewe (Translation)	Magozwe	id=18184
+Fante (Translation)	Magozwe	id=18493
+French (Translation)	Magozwe	id=13768
+Ga (Translation)	Ankamafio	id=18337
+Gonja (Translation)	Magozwe	id=18215
+IciBemba (Translation)	Magozwe	id=18676
+isiXhosa (Translation)	Umagozwe	id=14127
+isiZulu (Translation)	Mhlaba Ngiyakuhlonipha	id=15051
+Kasem (Translation)	Magozwe	id=18229
+Kiswahili (Translation)	Magozwe	id=13214
+Kiswahili (Adaptation)	Magozwe	id=19360
+Mampruli (Translation)	Magozwe	id=19322
+Nzema (Translation)	Magozwe	id=18429
+Portuguese (Translation)	Magozwe	id=17034
+Sepedi (Translation)	Magozwe	id=18159
+Sesotho (S.Africa) (Translation)	Magozwe	id=14512
+Setswana (Translation)	Magozwe	id=14888
+SiLozi (Translation)	Magozwe	id=18742
+Tshivenda (Translation)	Magozwe	id=14794
+Xitsonga (Translation)	Mahewu	id=14524

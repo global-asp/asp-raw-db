@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=9510&d=0&a=1
+id:	9510
+title:	Ninsobora Okukora Kinu
+author:	Elisha Tabaro
+artist:	Cathy Feek
+lang:	Rutooro
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9510.png
+desc:	Ebintu ebinsobora kukora.
+
+page_text:
+
+P1	Ninsobora kusoma.
+
+images:
+
+illustrations/pages/1372.png
+illustrations/pages/1373.png
+illustrations/pages/1374.png
+illustrations/pages/1372.png
+illustrations/pages/1375.png
+illustrations/pages/1376.png
+illustrations/pages/1377.png
+illustrations/pages/1379.png
+illustrations/pages/1378.png
+
+translations:
+
+Afrikaans (Translation)	Ek Kan Dit Ook Doen	id=7672
+English (Original)	I Can Do This	id=1788
+English (Translation)	Apedori Ɛɔng Aswam Nʉ / I Can Do This	id=7558
+English (Adaptation)	What Do You Like?	id=10262
+English (Adaptation)	Things We Can Do	id=15270
+Kikamba (Translation)	Nonike Ou	id=2877
+Kiswahili (Translation)	Naweza Fanya Hivi	id=2878
+Lugbarati (Translation)	Ma Eco `di `ye Ra	id=2601
+Lusoga (Translation)	Nsobola	id=8169
+Setswana (Translation)	Ke Kgona Go Dira Se	id=2879

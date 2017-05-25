@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=15363&d=0&a=1
+id:	15363
+title:	Is There Anyone Like Me?
+author:	Fred Strydom
+artist:	Jess Jardim-Wedepohl
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15363.png
+desc:	I wonder if there’s another me somewhere in the world…
+
+page_text:
+
+P1	I wonder if there's another me somewhere in the world.
+P2	Who looks the same.
+P3	And talks the same.
+P4	And even has my curls.
+P5	Someone with my eyes my ears.
+P6	Who even has my laugh.
+P7	Who can do what I can do.
+P8	And can't do what I can't.
+P9	I've looked and looked everywhere to find another me. I went down to the park and looked behind the trees.
+P10	I looked around,  up and down.
+P11	At every single face.
+P12	I couldn't find another me in any single place.
+P13	There's only one me in the world! I'm special,  oh it's true!
+P14	But not just me,  don't you see? There's only one of you!
+
+images:
+
+illustrations/pages/15344.png
+illustrations/pages/15343.png
+illustrations/pages/15344.png
+illustrations/pages/15345.png
+illustrations/pages/15346.png
+illustrations/pages/15347.png
+illustrations/pages/15348.png
+illustrations/pages/15349.png
+illustrations/pages/15361.png
+illustrations/pages/15352.png
+illustrations/pages/15355.png
+illustrations/pages/15356.png
+illustrations/pages/15358.png
+illustrations/pages/15359.png
+illustrations/pages/15360.png
+
+translations:
+
+Dholuo (Translation)	Be Nitie Ng'at Machal Koda?	id=15406
+isiXhosa (Translation)	Ingaba Ukhona Omnye Ofana Nam?	id=19900

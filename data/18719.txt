@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=18719&d=0&a=1
+id:	18719
+title:	Kuhu Ipuma Mbande
+author:	Limbali Muyendekwa
+artist:	Rob Owen
+lang:	SiLozi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18719.png
+desc:	Kuhu ipuma Mbande kamukwa okomokisa
+
+page_text:
+
+P1	Kale kale kwa simuluho nekupilanga Kuhu ni Mbande hape neli balikani babatuna maswe. Lizazi leling'wi Mbande atofumana Kuhu inge ipumuzi inge iyemile fa liutu leliling'wi mwatasi akota nimikotana ya hae yanalekezi lika za hae.
+P2	Mbande abuza kuhu inge aikomokezi,   "Kuli liutu la hao likai?"
+P3	Kuhu yabulelela Mbande,  "Mulekisi wasintolo unibulelezi kulu lucinjanise liutu laka ni lika ze zenilekile kakucinjanisa ni liutu laka mane alipuma nikunifa lika ze ni lico zobona fa."
+P4	Mbande abuza kuhu kuli kamba niyena wakona kweza kezo ye yakupumisa liutu la hae kuli afumane lico za mwasintolo. Niyena nabata mukotana wa lika ni lico zanaboni ku kuhu. Kuhu yalumela ahulu kuli akuna butata.
+P5	Mbande yafunduka kanalule kuyo ambola nimulekise kuli apume kwa mautu aye ku kucinjisa nico nilika zamwa sintolo. Mulekisi alumela katabo yetuna kupuma liutu la Mbande.
+P6	Mbande yakala kupupulika niliutu leling'wi abafeza kuipuma nikucinjisa nilico zamwa sintolo kono yona Mbande neitabile mwapilu kufumana lika nilico zamwa sintolo. Mulekisi afa Mbande lika zeo.
+P7	Mbande ayofita kwandu afumana Kuhu namautu ayona inge akwanile kaufeela mi Mbande afilikana ahulu.
+P8	Kezo ye yanyemisa ahulu Sbande mane kala kumatamatisa Kuhu nikusiya Mbande mwaliluli. Kikaba le kaceku kubona Mbande aiketezi kuswalanga bana baKuhu abata kuishalula nama.
+
+images:
+
+illustrations/pages/9588.png
+illustrations/pages/9587.png
+illustrations/pages/9588.png
+illustrations/pages/9589.png
+illustrations/pages/9590.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/9593.png
+illustrations/pages/9594.png
+
+translations:
+
+Afrikaans (Translation)	Hen Kul Vir Arend	id=16344
+ChiTonga (Translation)	Nkuku  Yamucenga  Sikwaze	id=18646
+CiNyanja (Translation)	Nkuku Yamupita Kunzelu Nkwazi	id=18664
+English (Translation)	Hen Tricks Eagle	id=10544
+IciBemba (Translation)	Inkoko Yacenjesha Kapumpe	id=18683
+isiXhosa (Translation)	Usikhukukazi Uqhatha Ukhozi	id=17526
+isiZulu (Translation)	Usikhukhukazi Uqiliga Ukhozi	id=16359
+isiZulu (Translation)	Uskhukhukazi Ukhohlisa Ukhozi	id=16547
+Lunyole (Original)	Engoho N’Ekongoja	id=10543
+Sepedi (Translation)	Kgogo E Hlalefetša Ntšhu	id=18169
+Sesotho (South Africa) (Translation)	Kgoho O Jalletsa Ntsu	id=20029
+Setswana (Translation)	Koko O Tsietsa Phakalane	id=16595
+Setswana (Translation)	Koko O Tsietsa Lenong	id=16718
+Setswana (Translation)	Koko O Tsietsa Lenong	id=17647
+Tshivenda (Translation)	Khuhu I Fhura Goni	id=18301
+Xitsonga (Translation)	Huku Yi Xenga Koti	id=18877

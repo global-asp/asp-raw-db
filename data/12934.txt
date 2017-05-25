@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=12934&d=0&a=1
+id:	12934
+title:	Omutoka Omukali Kwe Lilesi
+author:	Margaret Amateshe
+artist:	Mango Tree
+lang:	Oluwanga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12934.png
+desc:	Omoka nende nyina balindanga omutoka omukali kwe lilesi kubaire elukulu. Abula
+
+page_text:
+
+P1	Lialio litoka tsa elala mulukoba lwabo Omoka. Liali likali khandi lie shilesi. Liali no luyoka muno.
+P2	Indalo yindi,  nyinamwana Omoka yaboola,  "Mutsuli khulatsia mulukulu okhukula ingubo yo yemwisomero."
+P3	Omoka yasangala muno. Bali batsie elukulu mumutoka omukali kwe lilesi. Yakhaywa okhukona mushiro.
+P4	Omoka yali afwalire tsingubo olwa nyina yetsa okhumwinyosia.
+P5	Omoka nende nyina bachenda okhutsia mushituo shio mutoka. Balinda omutoka mukali kwe lilesi. Habula omutoka shikwetsa tawe.
+P6	Abandu bandi boola ashituo shio mutoka. Beiniakana khulwa omutoka kwali kubutsire. "Omutoka kukhuleshere?" Bareeba.
+P7	Omoka yahenda muno. "Shikhulatsia elukulu tawe. Shindanyoola ingubo yo mwisomero ta," napaara.
+P8	Abandu bandi bafwa omwoyo bakalukha nango. Omoka yalira khulwa shiyenya okhutsia nango ta. Nyina namuenderesia. "Khulalinda kho oluono," naboola.
+P9	Mufise efio,  baulira oluyoka. Balola olufu lutuma. Omutoka kwali kwitsa!
+P10	Alali omutoka kuno shikwali kwe lilesi ta. Shikwali omukali tawe. Kwali omwakhanyu khandi omutiti. Abali balinda omutoka bakuenga. Shibanina mwo ta.
+P11	"Injiremwo! Injiremwo!" Omwirusi nayiibukha."Khushindire muno luno," naboola.
+P12	Omoka nende nyina benjira imberi. Mufise fitutu abandu boosi benjira mumutoka omutiti omwakhanyu.
+P13	Omoka yaenjerera mwidirisha. Yalola abandu abanji mushituo shio mutoka.
+P14	Buli shamundu yali yerukha okhunina omutoka. Abula bali bachelewe. Omutoka kwali kwitsule. Omutoka omwakhanyu kwasimukha okhutsia elukulu.
+P15	"Omutoka mukali kwe lilesi kuli ena?" Nyina Omoka yareeba. "Kubiyiire," omwirusi nakalusia. "Khukukasinjia. Kuletsa mutsuli," nametakho.
+P16	Omoka shiyateba ifwani yo mutoka tawe. Shiyateba obukhongo bwo mutoka ta. Yali nobusangafu khulwa omutoka kwali kutsia elukulu.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

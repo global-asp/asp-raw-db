@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=12677&d=0&a=1
+id:	12677
+title:	Le Lion Qui Voulait Un Ami
+author:	Murielle Brugoux and Translators without Borders
+artist:	Marleen Visser
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12677.png
+desc:	Un lion veut être l’ami d’un homme. Ils vivent quelque temps ensemble en paix
+
+page_text:
+
+P1	Il était un fois un lion qui voulait sortir du bush et devenir l'ami d'un homme.
+P2	Ainsi,  le lion et l'homme devinrent amis.
+P3	Ils prenaient leurs repas ensemble et partageaient la viande. Le lion réalisa alors que l'homme aimait la viande et commença à craindre que l'homme n'essaie de le tuer.
+P4	Le lion se mit à craindre que l'homme ne le transperce de sa lance. L'homme se mit à craindre que le lion ne le dévore,  la nuit,  pendant son sommeil.
+P5	Une nuit,  l'homme rêva que le lion s'approchait doucement de lui pour le manger.
+P6	L'homme saisit sa lance,  et cria au lion: "Si tu cherches à me manger,  alors je te transpercerai de ma lance!" Le lion se réveilla et s'enfuit en pensant: "je savais que cet homme me tuerait un jour."
+P7	Depuis ce jour,  l'homme et le lion ne sont plus amis. Les lions tuent les hommes qu'ils croisent sur leur chemin,  et les hommes,  s'ils le peuvent,  tuent les lions.
+
+images:
+
+illustrations/pages/7341.png
+illustrations/pages/7340.png
+illustrations/pages/7341.png
+illustrations/pages/7343.png
+illustrations/pages/7347.png
+illustrations/pages/7345.png
+illustrations/pages/7344.png
+illustrations/pages/7349.png
+
+translations:
+
+Afrikaans (Translation)	Die Leeu Wat Vrienskap Wou Hê	id=11304
+Dhopadhola (Translation)	Simbwor Odwaro Mere	id=19483
+English (Original)	Lion That Wanted Friendship	id=7368
+English (Translation)	Lion That Wanted Friendship	id=11340
+Ng’aturkana (Adaptation)	Eng'atuny Lokaelon	id=13289
+Portuguese (Translation)	O Leão Que Queria Amizade	id=16723
+Setswana (Translation)	Lion That Wanted Friendship	id=11465

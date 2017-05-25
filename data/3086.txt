@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=3086&d=0&a=1
+id:	3086
+title:	Bibyaano
+author:	Cornelius Wekunya
+artist:	Wiehan de Jager
+lang:	Lumasaaba
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3086.png
+desc:	In a faraway village
+
+page_text:
+
+P1	Khaalekho aabawo babaandu be muungo babaaba ni shisaala shishiilikho bibyaano bibyatokota,  shaakila babaandu bakali bakyeniya muungo umwo khuulya khu bibyaano ibyo. Muungo umwo ndi mwabamo umukhaana umumiliwu naabi nga babaandu baakali bewuumatsaka naabi buumuliwu bweewe buulayi ibwo,  tsimoni tsiwaanga,  ne khufuurira ilala intsibirisa yeewe iye angaaki naabi.
+P2	Nga nio alinyukhile buukhaana,  basooleli,  ni baseetsa baakhulu,  besoombatsaka muungo mweewe nga bakana khuumuselela. Basaali beewe baakhalawo bari umusaani yeesi ukane anyalise khukhwiikhala mu lwaanyi shifukhu shibuufu,  akhali khuulyakho khu byaano ta,  niye ukane amuyile nga umukhasi weewe.
+P3	Kamakhuuwa kano kaamalatana shisiintsa isho shoosi. Umusaani uwanyoowa khukhwiitsa aaba umuraangilisi we baalimi boosi mu shifwo isho. Aaba abonekha buulayi,  naluundi nga ashiili musooleli. Baryo baamwinyayila,  baamurusila bibyaano. Niye ekhala imbuka inyiimbi iri,  ukhaliindile ta,  waalya bibyaano,  baamuwoona weelayo.
+P4	Umuraangilisi we babaayi niye uweelakho. Aaba abonekha buulayi,  ashiili musooleli naluundi nga umuyiindifu. Umukhaana naye waamwikoomba. Ne bari bamurusila bibyaano,  abweene ni abweene,  waabilya. Naye baamuwoona weelayo.
+P5	Umusaani uweelakho aaba ali ni kamaswa kamakali naabi,  nga ewulila naabi,  naluundi nga abonekha buubi. Umukhaana waaba nga aloomba ari,  khali aliile khu byaano,  elayo. Ne nga baamurusiile bibyaano,  aaloba khuulya. Imbuka yaabirawo,  umukhaana waarakikha khuumwikoontselela alye. Ne nga tsisaawa tsitsya khwoola aambi likhumi,  intsala yaamuminya,  waalya. Naye baamuwoona weelayo.
+P6	Khukhwiilakho,  umwaami naye weetsawo. Niye aaba umulyakhani,  ewulila naabi,  naluundi nga abonekha buubi,  nga mbaawo umuundu yeesi umukana mu shisiintsa isho ta. Umukhaana weyikina ari manya oosi kane alye khu byaano,  eeleyo. Nga baamurusiile bibyaano,  waaloba khuubilya. Aryo waamala shifukhu shibuufu. Ne nga tsitsya khwoola saawa likhumi na tsibili,  aaloomba bamufukiilile atsyekho mu shiyiko. Baamulekha waatsya. Ne n'aakobola,  luluukhu lwe bibyaano lwaamukhupa,  ni kiminwa kyaarakikha khuurandaala! Umukhaana waakhupa shikhoowe,  nga umusaani uyo baamuwoonile,  weelayo.
+P7	Uri nga alibirirewo bifukhu bifwiiti biri,  umusooleli ubonekha buulayi,  umuyiinda uwe mu mafuki ke bayiinga,  naye woola. Umukhaana waamulolelela ni khukhwiikoomba khuukali. Aryo waamwiisa andulo,  waamwikoontselela khuula khulya ta. Waamurusila bibyaano bifwiiti biri,  khuuminyisakho byeesi baaseleli babaandi baaweebwa. Ne yatsya khwoola mwihaangilwe,  umusooleli we kamafuki ke buyiinga uyo,  aaba waaliile khaale,  naye baamuwoona weelayo. Umukhaana khulwe lirima liikali,  ni khuusinyana,  waarundukha kamasika waalila.
+P8	Basaali b'omukhaana baafunisibwa khuwaambisa "Tsabukara" yuno umukhaana waabwe. Umukhaana wekoontselela basaali ari bamuruse mu shikosi isho,  ne nga basaali sibali ni she khuukhola ta. Umulimi n'aaba nga amuyila ingo,  aapaka mukhono,  luundi wiimba kumweenya kumulayi naabi,  kukwarusa babaandu mu bukali,  khuuroongisa baakole khu lukuuto.
+P9	Mu baandu abo,  mwabamo babakaanisi b'omusooleli uwe kamafuki ke buyiinga. Bakhweesa umulimi baamwiisa andulo,  baamuteesesa,  khuumuwa kamapeesa ni tsikhaafu,  siinga alekha umukhaana uyo. Lubaluba,  niye waakaanila kamapeesa ni tsikhaafu,  weetsiila.
+P10	Babakaanisi bano baakwaarisa umukhaana bikwaaro biilayi,  baamuyila mu lubili,  baamwoolesa w'omwaana we kamafuki ke buyiinga. Mu mbuka ifwiiti iri,  balaanga basaali b'omukhaana,  baakhola kamayiiya ke khuubatubaasa boombi atweela mu bukhwaale.
+
+images:
+
+illustrations/pages/1344.png
+illustrations/pages/1345.png
+illustrations/pages/1344.png
+illustrations/pages/1346.png
+illustrations/pages/1347.png
+illustrations/pages/1348.png
+illustrations/pages/1349.png
+illustrations/pages/1349.png
+illustrations/pages/1350.png
+illustrations/pages/1351.png
+illustrations/pages/1352.png
+illustrations/pages/1353.png
+illustrations/pages/1354.png
+
+translations:
+
+English (Original)	Fruit	id=2124
+French (Translation)	Les Fruits	id=10182
+Gurene (Translation)	Tiisi Wɔla	id=12666
+Kiswahili (Translation)	Matunda	id=8431
+Likpakpaanl (Translation)	Lisubil	id=18777
+Lugbarati (Translation)	Pati Efi	id=2334
+Lugbarati (Official) (Translation)	Patí Éfɨ́	id=8750
+Lumasaaba (Translation)	Bibyaano	id=8688
+Lunyole (Translation)	Ehibala	id=2333
+Rutooro (Translation)	Ekijuma	id=14923
+siSwati (Adaptation)	Sitselo	id=13072

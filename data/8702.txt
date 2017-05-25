@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=8702&d=0&a=1
+id:	8702
+title:	A Naughty Girl
+author:	Bathokwa book club
+artist:	Catherine Groenewald, Vusi Malindi, Rob Owen, Natalie Propa, Ingrid Schechter and Melany Pietersen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8702.png
+desc:	A story about a little girl who never listens to her mother and learned a great lesson
+
+page_text:
+
+P1	Once upon a time the was a girl by the name of Emily Emily was very naughty.
+P2	Whenever her mother asked her to do anything she would refuse.
+P3	One day her mother was sick. She asked her to go her grandma and ask for some special medicine,  so that she can drink and get better. Because Emily was naughty,  she decided to go and have a swim on her way to grand ma.
+P4	It became late,  her mother started to worry.
+P5	Her mother called the people of the village to help her look for Emily.
+P6	She was very worried because there was a monster who eats little girls at night.
+P7	While the people were looking for Emily,  she was still having fun in the pond. She was not aware of the darkness.
+P8	It was time for dinner for the monster and he started looking for food. As he was walking he started to smell a little girl. The village people were getting closer and closer to the pond.
+P9	Emily saw the monster coming and she started to scream. The people of the village heard a little girl's scream and they started to run towards the voice.
+P10	The people of the village found emily still in the pond,  she was very scared. And from that day she learned to listen and to respect her mother.
+
+images:
+
+illustrations/pages/8665.png
+illustrations/pages/8661.png
+illustrations/pages/7518.png
+illustrations/pages/8630.png
+illustrations/pages/8559.png
+illustrations/pages/8558.png
+illustrations/pages/8115.png
+illustrations/pages/8643.png
+illustrations/pages/8114.png
+illustrations/pages/7584.png
+illustrations/pages/8025.png
+
+translations:
+
+English (Adaptation)	Ketty the Naughty Girl	id=13638
+Lunyole (Translation)	Omuhaana Owehyeju	id=12910

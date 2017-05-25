@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=14520&d=0&a=1
+id:	14520
+title:	Wavhidi a Vulavula Na Swimilana
+author:	Arnold Mushwana
+artist:	Jesse Pietersen
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14520.png
+desc:	Wavhidi i nhwana lontsongo loyi a vulavulaka na swimilana.
+
+page_text:
+
+P1	Loyi i Wavhudi. U na malembe ya nkombo. Vito ra yena i ra Xivhenda. To vula  leswaku 'wa kahle'.
+P2	Wavhudi u pfuka a vulavula na mulamula. "Ndza ku kombela wena mulamula,  kula u ta hi nyika malamula yo vupfa."
+P3	Wavhidi u ya exikolweni. Endleleni u vulavula na byanyi. "Ndza ku kombela wena byanyi,  kula u va wa rihlaza,  u nga omi."
+P4	Wavhudi a hundza swiluva swa nkova. "Ndza mi kombela n'wina swiluva,  kulani swinene ndzi ta hamba ndzi tikhavisa hi n'wina enhlokweni."
+P5	Exikolweni Wavhudi u vulavula na murhi lowu nga endzeni ka xikolo. "Ndza ku kombela wena murhi,  huma marhavi leswaku hi ta hamba hi hlaya ehansi ka wena."
+P6	Wavhudi u vulavula na mirhi ya mitwa leyi nga endla darata ya xikolo. Ndza ku kombela leswaku u kulak u sivela makhamba ku nghena exikolweni.
+P7	Loko Wavhudi a vuya hi le xikolweni u vhakerile mulamula. Kutani a wu vutisa a ku: "Xana malamula ya wena ya vupfile ke?"
+P8	"Malamula a ya si vupfa. Ndzi ta ku vona mundzuku. Kumbe ndzi nga kuma u ri na malamula yo vupfa." Ku vula Wavhudi.
+
+images:
+
+illustrations/pages/13389.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa.	id=14716

@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=9341&d=0&a=1
+id:	9341
+title:	Ukupheka
+author:	Candiru Eunice
+artist:	Kathy Arbuckle
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9341.png
+desc:	Home chores done by a child
+
+page_text:
+
+P1	Ngicwechwa ni maku owu. Ngicwechwa ali hunghaata amabboni.
+P2	Ngicwechwa ni kabegi olii. Ngicwechwa ali husalaga kabbeji.
+P3	Eri Karoti oli aya dria. Ali husalaga karooti huhyoma.
+P4	Ngigeza ubhontshisi.
+P5	Ma ovakedo oli ria. Salaga ovakedo.
+P6	Ma tibi iribi ru ri oli ria. Salaga sipinaci.
+P7	Ma adri ni mbasala oli. Maama asalasala ebitunguru.
+P8	Baka mbasala oli,  mindreni rea ma milea,  Ebitunguru bindisya nibisaliwe.
+
+images:
+
+illustrations/pages/1307.png
+illustrations/pages/1307.png
+illustrations/pages/1308.png
+illustrations/pages/1309.png
+illustrations/pages/1310.png
+illustrations/pages/1311.png
+illustrations/pages/1312.png
+illustrations/pages/1313.png
+illustrations/pages/1314.png
+
+translations:
+
+English (Original)	Ukupheka	id=1724
+Sepedi (Translation)	Go Apea	id=7701

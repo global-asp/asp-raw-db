@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=13496&d=0&a=1
+id:	13496
+title:	Different Abilities
+author:	Kenya Institute of Curriculum Development
+artist:	Jesse Breytenbach, Wiehan de Jager and Vusi Malindi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13496.png
+desc:	We all have different abilities
+
+page_text:
+
+P1	One day I met Agnes. Agnes is a teacher.
+P2	Agnes uses crutches to walk.
+P3	When I went to town,  I saw Metobo. He is a radio DJ.
+P4	Metobo has albinism. He has problems with his eyes and with his skin.
+P5	My neighbour is Moraa. She is a farmer.
+P6	Moraa has a problem with hearing. She speaks using Sign language.
+P7	Osero is the best soccer player in my school. I like to watch him play.
+P8	Osero lost his hands in an accident. However,  he scores many goals for his team!
+P9	My sister Jackie plays sports.  She is stronger than my brother!
+P10	I know that people with disabilities can do anything.
+P11	Every person has different abilities.
+P12	We can all work,  play and have fun!
+
+images:
+
+illustrations/pages/10424.png
+illustrations/pages/10419.png
+illustrations/pages/10418.png
+illustrations/pages/10420.png
+illustrations/pages/10421.png
+illustrations/pages/10422.png
+illustrations/pages/10424.png
+illustrations/pages/10425.png
+illustrations/pages/10426.png
+illustrations/pages/9083.png
+illustrations/pages/9085.png
+illustrations/pages/9091.png
+illustrations/pages/13497.png
+
+translations:
+
+Afrikaans (Translation)	Gestremde Mense Kán! 	id=20056
+Amharic (Translation)	አካል ጉዳተኝነት ከምንም አያግድም!	id=16458
+Ateso (Adaptation)	Mam Angwal Erai Adekk!!!	id=16212
+ChiTonga (Translation)	Bulema Takuli Kwaalilwa	id=18636
+CiNyanja (Translation)	Kulemala Sikulepela	id=18624
+English (Original)	Disability is Not Inability	id=10416
+English (Adaptation)	Disability is Not Inability	id=12694
+IciBemba (Translation)	Ukulemana Teekufilwa	id=18581
+isiNdebele (Translation)	Ukukgholophala Akwenzi Umuntu Ukobana Angakghoni Ukwenza Izinto	id=11323
+isiXhosa (Translation)	Ukukhubazeka Akuthethi Ukuba Awunakho Ukwenza Izinto	id=17522
+isiZulu (Translation)	Abazona Izehluleki	id=16089
+Luganda (Translation)	Obulema Si Butesobola.	id=11907
+Ng’aturkana (Translation)	Meere Ang'walu Apalagag	id=11809
+Portuguese (Translation)	A Deficiência Não É Uma Incapacidade	id=16412
+Sepedi (Translation)	Bogolofadi Ga Se Go Se Kgone	id=17996
+Sesotho (South Africa) (Translation)	Ho Ba Le Boqhwala Ha Se Ho Hloka Bokgoni	id=20025
+Setswana (Translation)	Bogole Ga Se Go Palelwa	id=14962
+Setswana (Translation)	Bogole Ga Se Go Palelwa	id=18882
+SiLozi (Translation)	Buhole Aki Kupalelwa	id=18563
+Tshivenda (Translation)	Vhuholefhali a Si U Sa Kona	id=18181
+Xitsonga (Translation)	Vutsoniwa a Hi Vutsandzeki	id=18990

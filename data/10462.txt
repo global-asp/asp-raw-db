@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=10462&d=0&a=1
+id:	10462
+title:	Imibala
+author:	Pricilla Tshotlhang
+artist:	Cathy Feek, Sue Kramer, Marleen Visser, Catherine Groenewald and Rob Owen
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10462.png
+desc:	imibala ya zimoto zi thanda ngu umdeni wami.
+
+page_text:
+
+P1	Ngithanda imoto ebomvu (red).
+P2	Ngithanda imoto eluhlaza kotshani ( green ).
+P3	Umama uthanda imoto ephuzi ( yellow ).
+P4	Ubaba uthanda imoto eluhlaza ( blue ) kwesibhakabhaka.
+P5	Udadewathu uthanda imoto ensundu (black ).
+P6	Umfowethu uthanda imoto emhlope (white ) njenjeqwa.
+P7	Sonke sithanda imibala eqhakazayo,  efana nedoni yamanzi.
+
+images:
+
+illustrations/pages/9637.png
+illustrations/pages/9641.png
+illustrations/pages/9637.png
+illustrations/pages/938.png
+illustrations/pages/9465.png
+illustrations/pages/353.png
+illustrations/pages/6378.png
+illustrations/pages/8647.png
+
+translations:
+

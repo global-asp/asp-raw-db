@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=12428&d=0&a=1
+id:	12428
+title:	Basi Kubwa La Bluu
+author:	Brigid Simiyu
+artist:	Mango Tree
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12428.png
+desc:	Ebei na mamake wanasubiri basi kubwa ya bluu kuwasafirisha kwenda mjini.  Lakini basi ya bluu iliharibika.  Je
+
+page_text:
+
+P1	Kulikuwa na basi moja tu katika kijiji cha Ebei. Lilikuwa basi kubwa lenye rangi ya bluu. Lilinguruma sana.
+P2	Siku moja mamake Ebei alisema,  "Kesho tutaenda mjini kununua sare yako ya shule."
+P3	Ebei alifurahi sana.   Kumbe atasafiri katika lile basi kubwa la bluu! Usiku huo hakuweza kulala vizuri.
+P4	Mamake alipoenda kumuamsha,  Ebei alikuwa tayari amevaa.
+P5	Ebei na mamake walienda kwenye kituo cha basi. Walisubiri lile basi kubwa la bluu. Basi halikufika.
+P6	Watu wengine walifika kwenye kituo cha basi. Wote walilalamika kuwa basi lilichelewa. Mmoja aliuliza,  "Basi limetuacha?"
+P7	Ebei alijawa na wasiswasi. "Tusipokwenda mjini,  sitapata sare yangu ya shule." Aliwaza.
+P8	Baadhi yao walikata tamaa wakarudi nyumbani. Lakini Ebei alilia akakataa kurudi. "Tutasubiri zaidi." Mamake alimtuliza.
+P9	Ghafla,  walisikia mngurumo. Wakaona vumbi hewani. Basi lilikuwa linakuja kwa kasi.
+P10	Basi halikuwa la bluu wala halikuwa kubwa. Basi lile lilikuwa dogo na jekundu. Waliosubiri waliliangalia tu na hawakuingia ndani.
+P11	Dereva aliwaita,  "Ingieni! Ingieni! Tumechelewa sana leo."
+P12	Ebei na mamake walikuwa wa kwanza kuingia. Mara wote waliingia ndani ya basi lile dogo jekundu.
+P13	Ebei alichungulia dirishani. Aliwaona watu wengi zaidi wakiingia ndani ya basi.
+P14	Mara basi likaondoka. Ebei aliwaona watu wengine wakikimbia kulifikia basi. Walikuwa tayari wamechelewa.
+P15	Mamake Ebei alimuuliza dereva,  "Liko wapi basi kubwa la bluu?"  Dereva alimjibu,  "Samahani mama,  basi la bluu liliharibika. Linatengenezwa. Kesho litakuja."
+P16	Ebei hakujali rangi wala ukubwa wa basi. Alifurahi kuwa basi lile lilikuwa linawapeleka mjini. Hatimaye,  atanunuliwa sare ya shule.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

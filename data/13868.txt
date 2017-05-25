@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=13868&d=0&a=1
+id:	13868
+title:	Sijeziso Sabobo
+author:	Busile Ndhlovu
+artist:	Melany Pietersen
+lang:	siSwati
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13868.png
+desc:	Sabayini sijeziso semfana lonemona lotsandza kudla kakhulu?
+
+page_text:
+
+P1	Make utsenge titselo.
+P2	Make utsenge titselo: emabhanana,  emahhabhula,  liwolintji,  sihhenge,  lipiyeli nelingoza.
+P3	Ngaze ngalotfola litfuba. Litfuba lekutitika ngetitselo. Batangicolela boTolo naNomusa.
+P4	Hawu! Ngubani lolume tonkhe titselo? Buka tonkhe tidliwe.
+P5	Hawu! Ngubani lolume tonkhe titselo? Buka tonkhe tidliwe.
+P6	"Asikhulumeni liciniso," kusho Nomusa. "Asikhulumeni liciniso," kusho Lolo. Ngubani lodle titselo?
+P7	Make titselo tilunyiwe. Mine angikatidli make.
+P8	Ngubani lodle titselo Bobo? Make.
+P9	Kutsi angihlante. Sisu sami sibuhlungu.
+P10	Make sisu sami sibuhlungu. Kutsi angihlante. Ngiso sijeziso sakho leso.
+P11	Kutsi angigijime ngiyohlanta. Angeke ngiphindze ngingaceli.
+P12	Utiva njani nyalo. Make ngiyacolisa. Angeke ngiphindze ngingaceli kuwe. "Siyakucolela sonkhe Bobo."
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiNdebele (Translation)	Isijeziso Sakathemba	id=13803
+isiZulu (Adaptation)	Umhobholo	id=13326
+isiZulu (Translation)	Isijeziso	id=15341
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Oluwanga (Translation)	Eshinyasio	id=19592
+Portuguese (Translation)	Castigo	id=18855

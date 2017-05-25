@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=2500&d=0&a=1
+id:	2500
+title:	Abantwana Bekhandlela
+author:	Ntombizodwa Gxowa-Dlayedwa
+artist:	Wiehan de Jager
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2500.png
+desc:	Kwakukho ikhaya elalinabantwana abaziphethe kakuhle kakhulu. Ingxaki yayikukuba babenziwe ngekhandlela
+
+page_text:
+
+P1	Kudala,  kwakuhlala usapho olonwabileyo.
+P2	Abazange balwe omnye nomnye. Babebanceda abazali babo ekhaya nasemasimini.
+P3	Kodwa babengavume-lekanga ukuba basondele emlilweni.
+P4	Kwakufuneka benze wonke umsebenzi wabo ebusuku.
+P5	Kodwa omnye wamakhwenkwe wayelangazelela ukuphuma phandle elangeni.
+P6	Ngenye imini ulangazelelo lwakhula ngamandla. Abantakwabo bamlumkisa.
+P7	Kodwa kwaku semva kwexesha! Wanyibilika elangeni elishushu.
+P8	Abantwana bekhandlela baba lusizi kakhulu ukubona untakwabo enyibilike waphela.
+P9	Kodwa,  benza icebo. Babumba igaqa lekhandlela laba yintaka.
+P10	Bathatha umntakwabo oyintaka,  bamsa phezu kwentaba ephakamileyo.
+P11	Njengoko ilanga liphuma,  wabhabhela kude evuma kukukhanya kwakusasa.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

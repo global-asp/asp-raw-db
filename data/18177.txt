@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=18177&d=0&a=1
+id:	18177
+title:	An Be Kena Nɛ Baa Tre Pendo Na
+author:	Chief A-R. Adam (OLE Ghana)
+artist:	Rob Owen
+lang:	Gonja
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18177.png
+desc:	Kena nɛ kumo nyɛmpeana kikɛ bee sha ga na be asheŋ.
+
+page_text:
+
+P1	Ndalo nde.
+P2	Ndalo bee sha ebuku be kekraŋ ga.
+P3	Pendo nde.
+P4	Pendo bee sha debelbi be keji ga.
+P5	Ndalo baŋ koso sukuu mo e naa kpa Pendo a yɔ kejito.
+P6	E bee sa Pendo nchu lela nna.
+P7	Mo tuto bee sa Pendo aboyu nna.
+P8	Karechɛ kikɛ e bee nyaŋ Pendo be kenyipo nna.
+P9	Pendo kɔ kenyipochu ga.
+P10	N tuto bee fa Pendo be kenyipochu na nna.
+P11	Ndalo bee nuu kenyipochu pɔpor kacha kama nna.
+P12	Amoso e bee kaŋɛ nna,  "Pendo mee chɔrɔ fo ga."
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/11992.png
+illustrations/pages/7944.png
+illustrations/pages/11993.png
+illustrations/pages/7939.png
+illustrations/pages/11994.png
+illustrations/pages/7938.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+illustrations/pages/7941.png
+illustrations/pages/7943.png
+illustrations/pages/11997.png
+illustrations/pages/7945.png
+
+translations:
+
+Akuapem Twi (Translation)	Pendo Yɛ Nantwibere	id=18466
+Asante Twi (Translation)	Yɛn Nantwibedeɛ Pendo	id=18224
+ChiTonga (Translation)	Ng’Ombe Yesu Jiinga Pendo	id=18633
+CiNyanja (Translation)	Ngo’Mbe Yatu Pendo	id=18588
+Dagaare (Translation)	Te Naabo Pendo	id=17778
+Dagbani/Dagbanli (Translation)	Pendo Ti Nahu	id=18154
+Dangme (Translation)	Pendo Wa Na	id=18304
+Ewe (Translation)	Pendo, Míaƒe Nyinɔ	id=18185
+Fante (Translation)	Hɛn Nantwi Pendo	id=18496
+French (Translation)	Pendo Notre Vache	id=13773
+Ga (Translation)	Pendo, Wɔtsina Yoo Lɛ	id=18295
+IciBemba (Translation)	Ingo’Mbe Yeesu Pendo	id=18576
+isiNdebele (Adaptation)	Ikomo Yakwethu Upuna	id=13798
+isiXhosa (Translation)	Upendo Inkomo Yethu	id=17580
+isiZulu (Translation)	Pendo, Ti Naafu	id=15362
+isiZulu (Adaptation)	Unondlini Wakwethu	id=17318
+Kasem (Translation)	Pendo, De Nao Kom	id=18211
+Ng’aturkana (Translation)	Aite Nabe Pendo	id=12949
+Nzema (Translation)	Pendo, Yɛ Ɛnlankɛ Ne	id=18433
+Oluwanga (Translation)	Ing'ombe Yefu Rapenda	id=19792
+Portuguese (Translation)	Pendo, Nossa Vaca	id=18851
+Sepedi (Translation)	Pendo Kgomo Ya Rena	id=18985
+Setswana (Translation)	Pendo Kgomo Ya Rona	id=17967
+SiLozi (Translation)	Pendo Komu Yaluna	id=18559
+Tshivenda (Translation)	Kholomo Yashu Pendo	id=18320
+Xitsonga (Translation)	Ntswele Ya Hina I Pendo	id=18860

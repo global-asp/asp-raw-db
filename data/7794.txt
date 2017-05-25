@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=7794&d=0&a=1
+id:	7794
+title:	Ennukuta Yange Eya Aa.
+author:	Cissy Namugerwa
+artist:	Mlungisi Dlamini, Kathy Arbuckle, Cathy Feek, Benjamin Mitchley, Sean Whitehead, Wiehan de Jager, Reginaldo Vicente Manhice, Catherine Groenewald and Paleng Children’s Centre
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7794.png
+desc:	Ekikwate kino kyogera ku nnukuta eya Aa
+
+page_text:
+
+P1	Nze Ana Maria.
+P2	Taata wange ye Agaba.
+P3	Maama anjagala.
+P4	Taata ayagala amata.
+P5	      Amata amaka.
+P6	Talaba agaba mata maka.
+P7	Male talaba wala.
+P8	Abaana babala amagi.
+P9	Namata asala emboga n'ennyama.
+P10	Ani ayagala amasavu?
+P11	Ate Namagala asaba.
+P12	Asaba asamba akapiira.
+
+images:
+
+illustrations/pages/7744.png
+illustrations/pages/6601.png
+illustrations/pages/6629.png
+illustrations/pages/1690.png
+illustrations/pages/1575.png
+illustrations/pages/14465.png
+illustrations/pages/1574.png
+illustrations/pages/6594.png
+illustrations/pages/11668.png
+illustrations/pages/1308.png
+illustrations/pages/1313.png
+illustrations/pages/959.png
+illustrations/pages/1622.png
+
+translations:
+
+English (Adaptation)	Sound Aaa	id=10149
+Lusoga (Translation)	Nhukuta Aa	id=8174

@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=15861&d=0&a=1
+id:	15861
+title:	Mtoto Aliyeleta Amani
+author:	Translators without Borders and Pete Mhunzi
+artist:	Jacob Kono
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15861.png
+desc:	Katika sehemu za pori za Turkana
+
+page_text:
+
+P1	Siku moja,  Akadeli alimbeba mtoto wake akaenda msituni kuchuma matunda.
+P2	Alipata mti uliojaa matunda mabivu.
+P3	Akadeli alimlaza mtoto wake chini akapanda mti.
+P4	Jasusi mmoja kutoka kijiji jirani alipitia pale akamwona mtoto. Kwa mshangao,  akajiuliza,  "Mamake mtoto huyu yuko wapi?"
+P5	Jasusi yule alipochutama,  sauti ya mikufu aliyoivaa shingoni mwake,  ilimwamsha mtoto.
+P6	Alimwacha mtoto aichezee mikufu hiyo.  Mtoto alicheza na kucheka.
+P7	Akadeli alitazama chini aone kilichomchekesha mtoto. Akamwona jasusi amechutama karibu na mtoto wake.
+P8	Hofu ilimwandama,  akauangusha mfuko wake uliojaa matunda.
+P9	Jasusi yule alitazama juu akasema,  "Usiogope. Ninacheza tu na mtoto wako mrembo."
+P10	Pole pole,  Akadeli akashuka kutoka mtini.
+P11	Jasusi alimpa mtoto mkufu mmoja,  akisema,  "Hii ni zawadi yako."
+P12	Akamwambia Akadeli,  "Mchukue mtoto na mkoba wako uende nyumbani. Mwambie mume wako ahamie kwenye amani zaidi. Mtoto wako amenifanya nibadili nia."
+
+images:
+
+illustrations/pages/14590.png
+illustrations/pages/14580.png
+illustrations/pages/14581.png
+illustrations/pages/14582.png
+illustrations/pages/14583.png
+illustrations/pages/14584.png
+illustrations/pages/14585.png
+illustrations/pages/14586.png
+illustrations/pages/14587.png
+illustrations/pages/14588.png
+illustrations/pages/14589.png
+illustrations/pages/14590.png
+illustrations/pages/14591.png
+
+translations:
+
+English (Translation)	Child As a Peacemaker	id=14617
+Maa (Translation)	Enkerai Nayaua Eseriani	id=15401
+Maa (Translation)	Enkerai Nayawua Eseriani	id=15525
+Ng’aturkana (Original)	Ikoku Nikesisilan	id=14614

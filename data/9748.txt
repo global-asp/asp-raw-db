@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=9748&d=0&a=1
+id:	9748
+title:	Azizi the Doll
+author:	Lawrence A. Konjuro
+artist:	Natalie Propa
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9748.png
+desc:	This child enjoys looking after her doll. And her doll is always a happy friend.
+
+page_text:
+
+P1	This is Azizi. Azizi is my doll.
+P2	I like Azizi because he always smiles.
+P3	After I wake up I wash my face. Then I look for Azizi.
+P4	When I find Azizi I brush his hair.
+P5	When I eat breakfast I feed Azizi.
+P6	When I eat sweets I give one to Azizi.
+P7	But Azizi never eats his sweet. I wonder why!
+P8	I walk around the compound picking flowers.
+P9	I give a flower to Azizi. But he never says,  "Thank you."
+P10	I wash Azizi clean before my mother bathes me.
+P11	I dress Azizi in red because I love the colour red.
+P12	When I go to sleep,  I lay Azizi beside me.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+French (Translation)	Azizi La Poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Lámnsoʼ (Translation)	Shibvə̀m Shee Azizi	id=16448
+Lugwere (Translation)	Odole Omulyabwita	id=16112

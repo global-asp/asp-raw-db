@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=13275&d=0&a=1
+id:	13275
+title:	Coq Et Lièvre
+author:	Gilles Falcone and Translators without Borders
+artist:	Jos? Jochicala, Silva Afonso and Vusi Malindi
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13275.png
+desc:	Faites attention à ce qui peut arriver quand vous faites une farce à quelquun.
+
+page_text:
+
+P1	Il était un fois un coq et un lièvre. Ils étaient très bons amis.
+P2	Une nuit,  Lièvre rendit visite à Coq et sa famille chez lui. Ils firent un bon dîner ensemble.
+P3	Puis vint l'heure d'aller au lit. Lièvre vit que quand Coq et sa famille dormaient,  leur tête était cachée.
+P4	Lièvre vit que Coq et sa famille dormaient très bien. Mais lui,  il ne put pas fermer l'œil de la nuit.
+P5	Au matin,  Lièvre voulut connaître le secret de Coq. "Où mettez vous vos têtes pendant la nuit?"  demanda-t-il.
+P6	Coq voulut faire une farce à Lièvre. Il dit: "Mon ami,  nous autres oiseaux avons un secret pour aller au lit. A l'heure de nous coucher,  nous enlevons nos têtes. Sans tête,  nous dormons très bien."
+P7	"Puis,  au matin,  nous remettons nos têtes en place",  expliqua Coq.
+P8	Lièvre rentra chez lui et raconta à sa famille le secret des poulets. La famille Lièvre décida d'essayer aussi! Et que croyez-vous qu'il arriva.
+
+images:
+
+illustrations/pages/12453.png
+illustrations/pages/12438.png
+illustrations/pages/12440.png
+illustrations/pages/12443.png
+illustrations/pages/12449.png
+illustrations/pages/12453.png
+illustrations/pages/12454.png
+illustrations/pages/12455.png
+illustrations/pages/12456.png
+
+translations:
+
+English (Original)	Rooster and Hare	id=12464
+Kiswahili (Translation)	Jimbi Na Sungura	id=12609
+Ng’aturkana (Translation)	Ekokoroit Ka Apoo	id=13211
+Portuguese (Translation)	O Galo E a Lebre	id=18859

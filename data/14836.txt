@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=14836&d=0&a=1
+id:	14836
+title:	Mother Changes
+author:	Ursula Nafula
+artist:	Catherine Groenewald, Rob Owen, Jesse Breytenbach, Mango Tree, Silva Afonso and Silva Afonso and Vusi Malindi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14836.png
+desc:	How a person grows and changes physically.
+
+page_text:
+
+P1	When mother was younger,  we visited her friends.
+P2	She took me to the market to buy vegetables.
+P3	She took my brother to town.
+P4	She taught me the names of plants.
+P5	When mother grew older,  her back bent.
+P6	She stayed home more and talked to our neighbour's children.
+P7	She fell sick more often.
+P8	She walked with difficulty.
+P9	Her grandchildren went to visit her during holiday time.
+P10	Neighbours brought her milk from the shop.
+P11	When mother was younger,  she was stronger.
+P12	Now,  mother is older,  she is weaker.
+
+images:
+
+illustrations/pages/1326.png
+illustrations/pages/9473.png
+illustrations/pages/14034.png
+illustrations/pages/11450.png
+illustrations/pages/13694.png
+illustrations/pages/14031.png
+illustrations/pages/14698.png
+illustrations/pages/9392.png
+illustrations/pages/6001.png
+illustrations/pages/11675.png
+illustrations/pages/7943.png
+illustrations/pages/9941.png
+illustrations/pages/1366.png
+
+translations:
+
+Kiswahili (Translation)	Mama Abadilika	id=16766

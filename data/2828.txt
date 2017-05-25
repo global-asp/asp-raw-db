@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=2828&d=0&a=1
+id:	2828
+title:	Bunty Yi Bubbly Be
+author:	Alice Ojobiru
+artist:	Sorit Gupto
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2828.png
+desc:	Bunty does not like soap
+
+page_text:
+
+P1	Bunty le arita arapapa pie ri.
+P2	 Azini aria be ri.
+P3	Le avita o'bo 'ba ni edele karatasi si di yi si ri.
+P4	Le vini jo ambo,  chinyaki si 'di siza tu.
+P5	Bunty ka mvi akua 'bo,  andri ni eri ayu angu ede odu dria si,  te eri ga si.
+P6	''Ma ngu sabuni tu!" eri otre okposi."
+P7	O'du alu orobi obi eri o'bu tra ki yi ima jo rua. O'bu di yi eri ociria.
+P8	O'bu azo fepiri eri bunty odro ria. Eri nzu ima edri pazu otreta pie ''Eko ma aza. Eko ma aza!''.
+P9	Coti coti,  opi Sabuni Bubby e'da 'i. 'Yo kini,  "Bunty mima ovu ori si ku." Opi Sabuni nga okpo fe ima marani eyi dri kini,  "Imu o'bu azo fe 'ba 'diyi o'di."
+P10	Marani o'burusa ru 'di nga o'bu azo fe 'ba di yi dro te.
+P11	'Doria,  Bunty le sabuni aguza azini eri ima rua tri azini oji alaru.
+
+images:
+
+illustrations/pages/607.png
+illustrations/pages/607.png
+illustrations/pages/612.png
+illustrations/pages/608.png
+illustrations/pages/610.png
+illustrations/pages/609.png
+illustrations/pages/611.png
+illustrations/pages/613.png
+illustrations/pages/614.png
+illustrations/pages/911.png
+illustrations/pages/910.png
+illustrations/pages/912.png
+
+translations:
+
+English (Original)	Bunty and Bubbly	id=913
+isiXhosa (Translation)	Uminti No Gwebu	id=3129
+Kiswahili (Translation)	Bunty Na Bubbly	id=2830
+Lugbarati (Official) (Translation)	Bàdàrʉ́ Pi Bʉ́nɨ̀ Be	id=8756

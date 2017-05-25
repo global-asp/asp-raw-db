@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=1999&d=0&a=1
+id:	1999
+title:	Izicathulo Ezintsha
+author:	Clare Verbeek
+artist:	Cathy Feek
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1999.png
+desc:	USipho uya edolobheni nodadewabo. Udadewabo umthengela izicathulo ezintsha.
+
+page_text:
+
+P1	USipho uya edolobheni nodadewabo.
+P2	Udadewabo uhamba ebuka izimpahla ezitolo. USipho ucikekile.
+P3	USipho ubona okufanele yena.
+P4	Amanani ezicathulo ehlisiwe.
+P5	Uyazilinganisa zonke.
+P6	Udadewabo umthengela izicathulo zokudlala ibhola.
+P7	Kungani bejahe kangaka ukufika ekhaya?
+P8	Ngenhlanhla,  ufike ngesikhathi enkundleni yebhola! Ugqoke izicathulo zebhola ezintsha.
+
+images:
+
+illustrations/pages/1638.png
+illustrations/pages/1639.png
+illustrations/pages/1640.png
+illustrations/pages/1641.png
+illustrations/pages/1642.png
+illustrations/pages/1643.png
+illustrations/pages/1644.png
+illustrations/pages/1645.png
+illustrations/pages/1638.png
+
+translations:
+

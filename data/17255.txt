@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=17255&d=0&a=1
+id:	17255
+title:	Wee
+author:	Isaac Monday Elisama
+artist:	Rob Owen
+lang:	Zande
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17255.png
+desc:	This story was developed and written by teachers at Mugulu Integrated Primary School in Busolwe Sub-County
+
+page_text:
+
+P1	Mo ngere,  wee!
+P2	We na zohe azo.
+P3	We na manga riahe.
+P4	We na fayasa kpoto boro ni wenehe.
+P5	We na fu ima rago.
+P6	Mo ngere,  wee!
+P7	We ni bawene he gbe.
+P8	Na tina ome gbe.
+
+images:
+
+illustrations/pages/8560.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8557.png
+illustrations/pages/8558.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Arabic (Translation)	النار	id=18190
+Dhopadhola (Translation)	Mac	id=19481
+English (Translation)	Fire	id=8565
+Lunyole (Original)	Omuliro	id=8564
+Samburu (Translation)	Nkima	id=17257
+Somali (Translation)	Dab	id=17256

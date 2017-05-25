@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=2767&d=0&a=1
+id:	2767
+title:	Múgíé
+author:	Leonard Kotikash
+artist:	Sue Kramer
+lang:	Maa
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2767.png
+desc:	Ilkerérin oóímáki intokitín naáítodólu empísha mugieîn ( énaa inamúka
+
+page_text:
+
+P1	Ilkeék oóíperrakí.
+P2	Olowuarú osíra múgíé.
+P3	Emukáté múgíé.
+P4	Inkutíti mukatení mugieîn naámeloók.
+P5	Inamúka músan mugieîn.
+P6	Olárro oguatúno múgíé.
+P7	Enkopíyia najú múgíé.
+P8	Oldía osípa múgíé.
+P9	Esarng'áb narépisho múgíé.
+P10	Enkomóm nashál múgíé.
+P11	Káínyoo ídólita? Enkomóm sídáí te kíok nátií esárng'ab.
+
+images:
+
+illustrations/pages/2617.png
+illustrations/pages/2618.png
+illustrations/pages/2619.png
+illustrations/pages/2620.png
+illustrations/pages/2621.png
+illustrations/pages/2622.png
+illustrations/pages/2624.png
+illustrations/pages/2625.png
+illustrations/pages/2626.png
+illustrations/pages/2627.png
+illustrations/pages/2628.png
+illustrations/pages/2629.png
+
+translations:
+
+English (Original)	Brown	id=2631
+isiXhosa (Translation)	Umbala Omdaka	id=7255
+Kiswahili (Translation)	Kahawia	id=2632
+Lugbarati (Translation)	Okalakukala	id=7240
+Lugbarati (Official) (Translation)	Òkàlàkʉ̀kàlà	id=8757
+Ng’aturkana (Translation)	Niong'or	id=2746
+Ng’aturkana (Translation)	Eng’Or	id=8740
+Oluwanga (Translation)	Olukusi	id=8739

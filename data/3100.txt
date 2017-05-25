@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=3100&d=0&a=1
+id:	3100
+title:	Khe Khuche!
+author:	Ursula Nafula
+artist:	Thembinkosi Kohli
+lang:	Lubukusu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3100.png
+desc:	Sentences about what we experience with our senses--smell
+
+page_text:
+
+P1	Nende liliolu liase.
+P2	Mbunyila bubolo bwe chisokisi chinjafu.
+P3	 Mbunyila bimuli bilayi.
+P4	Nende chimoni chase.
+P5	Mbona embeo neucha ebaluni.
+P6	 Mbona epusi esangafu.
+P7	Nende kumunwa kwase.
+P8	Khomba kamechi kenyanja ke kumunyu.
+P9	Khomba lichungwa linulu.
+P10	Nende kumukhono kwase.
+P11	Mbamba kumukhono kwoo.
+
+images:
+
+illustrations/pages/3015.png
+illustrations/pages/3016.png
+illustrations/pages/3017.png
+illustrations/pages/3018.png
+illustrations/pages/3019.png
+illustrations/pages/3020.png
+illustrations/pages/3021.png
+illustrations/pages/3022.png
+illustrations/pages/3022.png
+illustrations/pages/3024.png
+illustrations/pages/3025.png
+illustrations/pages/3026.png
+
+translations:
+
+Afaan Oromo (Translation)	Haa Deemnu!	id=12254
+English (Original)	Let's Go	id=3028
+English (Translation)	Iri Ma Koy	id=11734
+French (Translation)	Allons-Y!	id=9922
+Fulfulde (Translation)	En Njaha!	id=10001
+Hausa (Translation)	Mu Je !	id=9970
+isiZulu (Translation)	Asambe	id=7703
+Kanuri (Translation)	Leniwo	id=10030
+Maa (Translation)	Máapé!	id=3098
+Ng’aturkana (Translation)	Kapana!	id=3099
+Olukhayo (Translation)	Kenda Khuche	id=3094
+Oluwanga (Translation)	Khutsie!	id=3102
+Somali (Translation)	Ina Wadiya	id=16761
+Zarma (Translation)	Iri Ma Koy!	id=10097
+Zarma (Translation)	Iri Ma Koy	id=11590

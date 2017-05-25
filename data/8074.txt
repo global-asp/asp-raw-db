@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=8074&d=0&a=1
+id:	8074
+title:	Adhabu
+author:	Adelheid Marie Bwire
+artist:	Melany Pietersen
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8074.png
+desc:	Ni adhabu gani anayopata kijana mchoyo aliyekula matunda mengi kupita kiasi?
+
+page_text:
+
+P1	Siku moja mamangu alinunua matunda aina tofauti.
+P2	Mimi na ndugu zangu tulijiuliza,  "Mama atatugawia wakati gani?"
+P3	Baadaye,  kakangu,  Rahim,  alijificha na kuyala matunda yote!
+P4	Mimi na ndugu yangu tulipogundua,  tulisema kwa hasira,  "Rahim ni mtukutu na mchoyo. Lazima aadhibiwe."
+P5	Mama alikasirika sana alipogundua kwamba matunda yote yalikuwa yameliwa.
+P6	Mimi na ndugu yangu tulimwangalia Rahim kwa ukali.
+P7	Mimi nilimwuliza mama,  "Utamwadhibu Rahim?"
+P8	Baadaye,  Rahim alipata adhabu asiyoitarajia.
+P9	Hakuweza kutulia!
+P10	Mama alipomwuuliza alijibu kwa sauti ya chini,  "Naumwa na tumbo."
+P11	Sote tuliona kwamba hiyo ilikuwa adhabu mbaya kuliko kama Rahim angechapwa na mama.
+P12	Alipopata nafuu,  Rahim alituomba msamaha. Aliahidi kuwa hangeiba tena.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+English (Adaptation)	Punishment	id=11989

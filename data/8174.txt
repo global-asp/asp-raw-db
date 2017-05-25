@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=8174&d=0&a=1
+id:	8174
+title:	Nhukuta Aa
+author:	Cornelius Gulere
+artist:	Mlungisi Dlamini, Kathy Arbuckle, Cathy Feek, Benjamin Mitchley, Sue Kramer, Wiehan de Jager, Reginaldo Vicente Manhice and Emily Berg
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8174.png
+desc:	Ekigete kino kyogera ku nhukuta Aa
+
+page_text:
+
+P1	Ninze Ana Mariya.
+P2	Lata wange ni Asaba.
+P3	Maama ni Masagala.
+P4	Nkama naanhwa amata.
+P5	Baaba taganha mata makakakali.
+P6	Mbala talambaala.
+P7	Abanga abala magi.
+P8	Noomutala asalasala nsaala.
+P9	Ani asansala amasa?
+P10	Mpa ensaala nsaleku.
+P11	Nsaba asamba akapiira.
+
+images:
+
+illustrations/pages/7744.png
+illustrations/pages/6601.png
+illustrations/pages/6629.png
+illustrations/pages/1690.png
+illustrations/pages/1575.png
+illustrations/pages/1574.png
+illustrations/pages/6594.png
+illustrations/pages/2621.png
+illustrations/pages/1308.png
+illustrations/pages/1313.png
+illustrations/pages/959.png
+illustrations/pages/1622.png
+
+translations:
+
+English (Adaptation)	Sound Aaa	id=10149
+Luganda (Original)	Ennukuta Yange Eya Aa.	id=7794

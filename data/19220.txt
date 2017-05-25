@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=19220&d=0&a=1
+id:	19220
+title:	Que Tipo De Dentes?
+author:	Translators without Borders and Rossana Lima
+artist:	Rob Owen
+lang:	Portuguese
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/19220.png
+desc:	Alguns animais têm dentes afiados para morder. Outros animais têm dentes largos para triturar. Alguns animais não têm dentes. E tu?
+
+page_text:
+
+P1	Um crocodilo tem dentes afiados.
+P2	Um leão também tem dentes afiados.
+P3	Um tubarão tem dentes muito afiados!
+P4	Uma vaca tem dentes fortes para triturar.
+P5	Um pássaro não tem dentes. Como é que um pássaro come?
+P6	Os ratos têm dentes incisivos grandes.
+P7	Eu já tive incisivos.
+P8	Os meus incisivos caíram!
+
+images:
+
+illustrations/pages/9634.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9626.png
+illustrations/pages/9630.png
+illustrations/pages/9631.png
+illustrations/pages/9634.png
+illustrations/pages/9632.png
+illustrations/pages/9633.png
+
+translations:
+
+Afrikaans (Translation)	Tande	id=10594
+Aringati (Translation)	Sí Éséle Íngóní Rĩ?	id=9643
+English (Translation)	What Type of Teeth?	id=9653
+isiNdebele (Translation)	Unamazinyo Amangakhi?	id=13052
+isiZulu (Translation)	What Type of Teeth?	id=11562
+Kakwa (Original)	Kala Lo Gbo’Da Adidinyo?	id=9625
+Kinyarwanda (Translation)	Ni Ubuhe Bwoko Bw’Amenyo?	id=17469
+Kiswahili (Translation)	Meno Aina Gani?	id=12621
+Lugbarati (Official) (Translation)	Sí Má Éséle Ngó Lé Rɨ 'ɨ?	id=9649
+Lunyole (Translation)	Meeno Gangeri Hi?	id=16649
+Ng’aturkana (Translation)	Ng'ikiel Lu Ikote Ai?	id=12649
+Oluwanga (Translation)	Ameno Mbia Shi?	id=12963
+Rutooro (Translation)	Miringoki Eyamaino?	id=14945

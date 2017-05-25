@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=17360&d=0&a=1
+id:	17360
+title:	Why Frog is so Ugly - Colouring Book
+author:	Ingrid Schechter
+artist:	Hélder de Paz Alexandre
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17360.png
+desc:	Frog might have been as beautiful as Lizard if he had only listened!
+
+page_text:
+
+P1	Many years ago,  the Lizard and the Frog were friends. One day  they decided to look for girlfriends in the city.
+P2	The Frog was jealous of the Lizard's shining and brilliant skin.
+P3	He said,  "What did you do to look so beautiful? Look at me,  I am so ugly. What can I do about my skin?"
+P4	The Lizard said,  "Listen! Put some water in a pot and put it on the fire. Next you."
+P5	But the Frog said,  "I know already,  I know. Shut up,  my friend." And he left.
+P6	So he arrived home and put some water in a pot.
+P7	When the water began to boil,  he threw himself into it.
+P8	His skin was burnt and his tail came off!
+P9	And instead of being brilliant and beautiful like the Lizard,  he was even more ugly!
+
+images:
+
+illustrations/pages/7077.png
+illustrations/pages/17361.png
+illustrations/pages/17362.png
+illustrations/pages/17364.png
+illustrations/pages/17363.png
+illustrations/pages/17370.png
+illustrations/pages/17368.png
+illustrations/pages/17365.png
+illustrations/pages/17369.png
+illustrations/pages/17367.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+isiXhosa (Adaptation)	Kutheni Isele Lilibi? (Faka Imibala)	id=17551
+Kiswahili (Translation)	Sababu Chura Kuwa Na Sura Mbaya	id=8712
+Luganda (Translation)	Lwaki Wakikere Mubi Nnyo?	id=9657
+Luganda (Adaptation)	Wakikere Ne Wamunya	id=13778
+Ng’aturkana (Adaptation)	Akidodok Nabworok	id=13522
+Portuguese (Translation)	Porquê a Rã É Tão Feia?	id=7477
+Portuguese (Translation)	O Porquê Do Sapo Ser Tão Feio	id=19259
+siSwati (Translation)	Kungani Sicoco Sibe Sibi	id=12610
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

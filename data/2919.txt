@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2919&d=0&a=1
+id:	2919
+title:	Ebbaluŋa
+author:	Gershom Hirome
+artist:	Cathy Feek
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2919.png
+desc:	Oluŋayo luno luŋamba hu hahaana ahatasobola hutiina husoma olwohuba ahalwaye. Ebbaluŋa jahena jaahola hibbala mu ngeri eyoŋwanyisagana obuhwenda mu hiseera ehi habeereeyemo halwaye.
+
+page_text:
+
+P1	Nasuna ebbaluŋa nyingi mu sabbiiti eyabita.
+P2	Omusaŋu wange gaŋandiihira omusomesa wange ebbaluŋa olwabbalasa.
+P3	Ebbaluŋa yali yisoma yiiti Tabbisa mulwaye. Ali n'ohusigala engo.
+P4	Olwohubiri nasuna ebbaluŋa ohuŋwa eyiri ehibiina hyange.
+P5	Abahyange ni banyendesa ohuŋona amangu.
+P6	Olwohudatu nasuna ebbaluŋa ohuŋwa ewa meeri yange oyu singa ohwenda.
+P7	"Nahubba ehifaanani hino hululwo." Ohwenda ohuŋwa ewa Dooso.
+P8	Olwohune nasuna ebbaluŋa ohuŋwa eyiri maama.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

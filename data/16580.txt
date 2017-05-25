@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=16580&d=0&a=1
+id:	16580
+title:	O Pai E O Filho
+author:	Translators without Borders and Debora Santos
+artist:	Wiehan de Jager
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16580.png
+desc:	As crianças sempre devem fazer o que os adultos dizem para elas fazerem?
+
+page_text:
+
+P1	Havia um homem chamado Nsanga.
+P2	Esse homem tinha um filho. O nome de seu filho era Muddua.
+P3	Um dia,  o homem disse ao seu filho: "Vamos dar uma volta."
+P4	No caminho,  eles viram uma mala linda. Ela estava cheia.
+P5	O homem ficou muito empolgado. Ele disse ao filho: "Pegue a mala e vamos levá-la para casa."
+P6	O filho fez o que o pai disse para ele fazer. Colocou a mala em cima da cabeça e a carregou.
+P7	No caminho para casa,  uma cobra deslizou para fora da mala. Ela chegou até o pé de Muddua!
+P8	O pai e o filho ficaram muito assustados. O menino largou a mala. Os dois correram muito rápido!
+
+images:
+
+illustrations/pages/10082.png
+illustrations/pages/10081.png
+illustrations/pages/10082.png
+illustrations/pages/10083.png
+illustrations/pages/10084.png
+illustrations/pages/10085.png
+illustrations/pages/10087.png
+illustrations/pages/10086.png
+illustrations/pages/10088.png
+
+translations:
+
+Amharic (Translation)	አባተ አእነና ለልጀጅ	id=16452
+Amharic (Translation)	አባት እና ልጅ	id=16453
+French (Translation)	Père Et Fils	id=13273
+Luganda (Original)	Father and Son	id=10439
+Setswana (Translation)	Rre Le Morwa Wa Gagwe	id=14955

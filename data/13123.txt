@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=13123&d=0&a=1
+id:	13123
+title:	ስንት?
+author:	ስሂን ተፈራ and መዘምር ግርማ
+artist:	Sandra McDougall
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13123.png
+desc:	ልጆች፣ በስዕሎቹ ላይ ስንት ነፍሳት፣ እንስሳት ወይንም ወፎች እንዳሉ ቁጠሩ፡፡
+
+page_text:
+
+P1	ሁለት ነፍሳቶች ስንት እግሮች አሏቸው?
+P2	አራት ወፎች ስንት ክንፎች አሏቸው?
+P3	ሶስት አውራሪሶች ስንት ቀንዶች አሏቸው?
+P4	አምስት ዝሆኖች  ስንት አፍንጮች አሏቸው?
+P5	ሰባት ውሾች ስንት ጆሮዎች አሏቸው?
+P6	ሶስት ጦጣዎች ስንት ጭራዎች አሏቸው?
+P7	ስድስት ድመቶች ስንት አይኖች አሏቸው?
+P8	አንድ ትል ስንት እግር አላት?
+
+images:
+
+illustrations/pages/1786.png
+illustrations/pages/1600.png
+illustrations/pages/1599.png
+illustrations/pages/1601.png
+illustrations/pages/1602.png
+illustrations/pages/1603.png
+illustrations/pages/1604.png
+illustrations/pages/1605.png
+illustrations/pages/1606.png
+
+translations:
+
+Aringati (Translation)	Kí Sị́ Yã?	id=7229
+Ateso (Translation)	Imwasi Ayi?	id=2870
+Dhopadhola (Translation)	Adi?	id=19488
+English (Original)	How Many?	id=1787
+Kikamba (Translation)	Syianaata?	id=2871
+Kiswahili (Translation)	Ni Ngapi?	id=9529
+Luganda (Translation)	Bimeka?	id=2872
+Lugbarati (Translation)	Yii Siya	id=12640
+Lumasaaba (Translation)	Biba Byeenga?	id=2873
+Lusoga (Translation)	Ameka?	id=2874
+Sabinyi (Translation)	Ata?	id=2875
+Setswana (Translation)	Tse Kae?	id=2876

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=11171&d=0&a=1
+id:	11171
+title:	Kom Terug, Kat
+author:	Denise S Roux
+artist:	Karen Lilje
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11171.png
+desc:	n Spelerige kat wil nie in sy mandjie rus nie.
+
+page_text:
+
+P1	Kom terug,  kat! Kom speel met my.
+P2	Sit in jou mandjie. Bly net daar!
+P3	Kom terug,  kat! Jy's heeltemal te hoog.
+P4	Kom terug,  kat! Moenie uit gaan nie!
+P5	Kom terug,  kat! Dis nie joune nie!
+P6	Kom terug,  kat! Wat het jy daar?
+P7	Kom terug,  kat! Hy's nie jou maat nie!
+P8	Hallo,  kat! Is jy terug?
+P9	Bly in jou mandjie. Dis nou rustyd.
+P10	Kat?
+
+images:
+
+illustrations/pages/8059.png
+illustrations/pages/9122.png
+illustrations/pages/9121.png
+illustrations/pages/9123.png
+illustrations/pages/9124.png
+illustrations/pages/8061.png
+illustrations/pages/8062.png
+illustrations/pages/8063.png
+illustrations/pages/8064.png
+illustrations/pages/8065.png
+illustrations/pages/8066.png
+illustrations/pages/8067.png
+illustrations/pages/8068.png
+
+translations:
+
+Amharic (Translation)	ተመለሽ ድመቴ	id=11781
+English (Translation)	Come Back, Cat	id=9125
+French (Translation)	Reviens, Chat!	id=12655
+Lámnsoʼ (Translation)	Pùúr Kfə́n É Bàm	id=15063
+Yoruba (Translation)	Padà Wá, Olóńgbò	id=11209

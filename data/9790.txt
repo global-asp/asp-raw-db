@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=9790&d=0&a=1
+id:	9790
+title:	Senkokomaile Sa Keke
+author:	Marion Drew
+artist:	Marion Drew
+lang:	Sesotho (Lesotho)
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9790.png
+desc:	Keke o palame senkokomaile sa hae sa seratang. O ea holimo-limo. O tšaba hore o tlaea holimo khoeling.
+
+page_text:
+
+P1	Keke o ne a lutse holima senkokomaile sa hae antse a bapala. Hee o ne a serata haholo bophelong bahae. E ne e le senkokomaile sa bokhlokoa sekolong sa hae.
+P2	Keke eare hantse a bapala. O ne antse a se qhoshomisa butle-butle hantle. Aseisa pele le morao,  pele le morao. Eare ha antse ase palame,  antse aseisa pele le morao,  eaba senkokomaile sena sentse se eketsa lebelo. Eare nenneng aiphuma a se ale holimo.
+P3	Keke asheba fatše. O ne ale holimo haholo. Eaba ore,  "Aieeeee! Shebang hore na ke holimo joang."
+P4	O ne a thabile haholo ha a le holimo sebakeng. O ne a bona motse kaofela. O ne ale holimo ba nonyana ebitsoang lekhoaba haefofa.
+P5	Kamora nako eseng kae,  eaba Keke o nahana hotheoha senkokomaileng sa hae. Hona lehore seeme,  sene sea holimo haholo hofeta. "Oooh,  oooh,  oooh," ke Keke ea chong joalo,  "haketsebe hore na nka emisa senkokomaile sena joang."
+P6	Eaba sona senkokomaile sena sentse sea holimolimo. Keke o ne a ts'ohile haholo. "Ebe ketla fella kae le senkokomaile see?" "Mohlomong ketlabe kelo fihla holimo mane khoeling. Ketlameha hotheoha," ke Keke ea chong joalo.
+P7	Eaba o ea theoha,  a se tlohela se leseng. Eaba o ea oela,  hoea tlase,  tlaaase.
+P8	"Oh,  oh,  oh joooeeeeeee!" ke bana bachong joalo baneng bantse ba bapala le ena. Keke a oela fatše. O ne a oetse ka hlooho fatše,  'me autloile bohloko hloohong ea hae. Eaba oalla haholo,  "Eeeh,  eeeh,  eeeh!"
+P9	Bana babang bao baneng bantse ba bapala le eena,  ba koatile haholo. Keke o ne a sa tsebe hore na aka etsa eng. Eaba Keke ena ontse alla feela,  "Eeeh,  eeeh,  eeeh,  joooeeeeeeh!"
+P10	Eaba metsoallenyana ea hae e potlakela hoea bitsa tichere ea bona. "M'e Mampho,  tloho!" baea 'mitsa. "Keke o oetse fatše hotloha senkokomaileng sa hae. O tsoile kotsi hloohong ea hae."
+P11	Eaba M'e Mampho o matha kapele hoea mo phahamisa fatše hoea thusa Keke. A mo phahamisa fatše. Eaba o meta hlooho ea Keke. Keke a bososela ka pontso ea hothaba. "Ke betere hona joale." "Ha ke satlaea bapala senkokomaileng kele mong hape," ke Keke ea chong joalo. "Ha ke batle hoiphumana kele khoeling."
+P12	Eaba M'e Mampho ore,  "Nako etlang,  ha o batla hoea bapala,  o mpitse ke tlaea le oena. Re tlaea khoeling le oena rele babeli!"
+
+images:
+
+illustrations/pages/9324.png
+illustrations/pages/9319.png
+illustrations/pages/9320.png
+illustrations/pages/9321.png
+illustrations/pages/9322.png
+illustrations/pages/9323.png
+illustrations/pages/9324.png
+illustrations/pages/9325.png
+illustrations/pages/9326.png
+illustrations/pages/9327.png
+illustrations/pages/9328.png
+illustrations/pages/9329.png
+illustrations/pages/9330.png
+
+translations:
+
+Afrikaans (Adaptation)	Keke Se Swaai	id=10535
+English (Translation)	Keke's Swing	id=9792
+French (Translation)	La Balançoire De Kéké	id=10844
+Portuguese (Translation)	O Baloiço Da Keke	id=16655
+Rutooro (Translation)	Omwesuuso Gwa Keke	id=10553
+Sesotho (Lesotho) (Translation)	Keke's Swing	id=11423

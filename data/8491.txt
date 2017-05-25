@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=8491&d=0&a=1
+id:	8491
+title:	Jaaka the Fisherman
+author:	Cornelius Gulere
+artist:	Zablon Alex Nguku
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8491.png
+desc:	A description of the life of a hardworking Nile fisherman.
+
+page_text:
+
+P1	This is Jaaka the fisherman from Naminya.
+P2	He fishes on the river Nile.
+P3	He has a boat,  fishing net and a hook.
+P4	He always wakes up very early in the morning to catch the Nile perch.
+P5	At around 10am,  he's selling his catch in Jinja central market.
+P6	Jaaka what happened? Was it a loss? He's so sad.
+P7	"Today the situation is bad. The Nile breeze did not permit me to fish. And one perch swam away with my hook."
+P8	"But I have hope that tomorrow will be good,  because I've bought a new hook."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka Die Visserman	id=11406
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiXhosa (Translation)	Ujaaka Umlobi	id=13206
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

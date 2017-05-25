@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=16557&d=0&a=1
+id:	16557
+title:	Amalangi G'olufudu
+author:	Debra Hirome
+artist:	Jesse Breytenbach
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16557.png
+desc:	Olufudu luli na malagi gaaga?
+
+page_text:
+
+P1	Olufudu luli na malangi musanvu.
+P2	Erangi eri sooka erando.
+P3	Kenani gambaye esaati enando.
+P4	Erangi eryohubiri elya kapapaali.
+P5	Hiina ehindi ehyobona ehy'erangi elya kapapali?
+P6	Erangi eryohudatu lya namagi.
+P7	Hiina ehindi ehyobona ehy'erangi ya namagi?
+P8	Erangi eryohune lya nalutu.
+P9	Enimiiro yeefe ey'epandu ya nalutu.
+P10	Erangi eryohutanu lya bbululu.
+P11	Egulu lya bbululu.
+P12	Erangi eryomukaga lya bbululu omwinihi.
+P13	Ebibala bino mubbakuli bya bbululu omwinihi.
+P14	Erangi eryomusanvu lya papo.
+P15	Ehiteteyi hyange hya papo.  Papo nj'erangi eri singa ohwenda.
+P16	Omanyire amalangi omusanvu agolufudu? Ewe langi hi eyosinga ohwenda?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Dhopadhola (Translation)	Lifudu nitye gi cal abiryo	id=19961
+English (Translation)	Colours of a Rainbow	id=10463
+English (Adaptation)	7 Colours of a Rainbow	id=19760
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+Kikamba (Translation)	Utathi	id=15419
+Kiswahili (Original)	Rangi Za Upinde	id=10442
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
+siSwati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

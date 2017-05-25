@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=12869&d=0&a=1
+id:	12869
+title:	L’Arbre Qui Sauva Le Village D’Ombalantu
+author:	Olivia Mahe and Translators without Borders
+artist:	Julia te Water Naude
+lang:	French
+level:	Read aloud
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12869.png
+desc:	Thaïmi  et son frère Angula aiment rendre visite à leur arbre préféré
+
+page_text:
+
+P1	Grand-mère se tait. Selma touche la douce écorce du baobab. "C'est donc bien l'arbre qui les a tous sauvés," conclut-elle.
+
+images:
+
+illustrations/pages/2685.png
+illustrations/pages/2679.png
+illustrations/pages/2683.png
+illustrations/pages/2686.png
+illustrations/pages/2687.png
+illustrations/pages/2690.png
+illustrations/pages/2691.png
+illustrations/pages/2693.png
+
+translations:
+
+Ekegusii (Translation)	Omote  Oria Okonyete  Okenyoro Ki’Ombalantu	id=7154
+English (Original)	The Tree That Saved the Village of Ombalantu	id=2716
+English (Translation)	The Tree That Saved the Village of Ombalantu	id=2724
+Kikamba (Translation)	Muti  Ula Wavonokisye Ndua Ya Ombalantu	id=7156
+Kiswahili (Translation)	Mti Ulionusuru Kijiji Cha Ombalantu	id=7158
+Luganda (Translation)	Omuti Ogwataasa Abantu B’Embuya	id=7159
+Lugbarati (Translation)	Pati Enyati Olivu Niri Ma Azakoopi Ri	id=7160
+Maa (Translation)	Olchaní Óítajeúó Iltúng'áná Lé Ombalantu	id=7148
+Oluwanga (Translation)	Omusaala Kwaonia Litala Lia Namulungu (Ombalantu)	id=7161

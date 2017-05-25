@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=10094&d=0&a=1
+id:	10094
+title:	Haw-Ɲaŋo Kaŋ Ga Dambarandi Deeda
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Danielle Bruckert
+lang:	Zarma
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10094.png
+desc:	Deeda wo
+
+page_text:
+
+P1	Haw-ɲa fo ne. Haw-ɲaŋo ga boori.
+P2	Zaari ra,  nga nda haw-ɲa cindo kulu afo no.
+P3	A ga beene-hi foori te.
+P4	A ga taawa zi.
+P5	Amma da ciino to,  a ga dambarandi.
+P6	A ga fundi yaŋ faaba.
+P7	A ga tangam nda zayey.
+P8	Da ni na ni moyey daabu nda gaabi,  ga ŋwaaray.
+P9	Haw-ɲaŋo ga bangay ni se.
+P10	Deeda ban.
+
+images:
+
+illustrations/pages/858.png
+illustrations/pages/859.png
+illustrations/pages/860.png
+illustrations/pages/861.png
+illustrations/pages/862.png
+illustrations/pages/863.png
+illustrations/pages/864.png
+illustrations/pages/865.png
+illustrations/pages/866.png
+illustrations/pages/867.png
+illustrations/pages/868.png
+
+translations:
+
+English (Original)	The Adventures of Supercow	id=1239
+French (Translation)	Les Aventures De Super Vache	id=9954
+Fulfulde (Translation)	Haayndeeji Ɗi Nagge	id=10000
+Hausa (Translation)	Labarin Wata Saniya	id=9969
+isiXhosa (Translation)	Amaphulo Enkomo Yodumo	id=2153
+isiZulu (Translation)	Izigigaba Zenkomo Yezimanga	id=2155
+Kanuri (Translation)	Awowa Fero Wakkajǝgǝna	id=10029
+Kikamba (Translation)	Myangangĩle Ya Ng’Ombe Ya Vinya	id=2189
+Kinyarwanda (Translation)	Inka Idasanzwe	id=11597
+Kinyarwanda (Translation)	Ibikorwa By'inka Idasanzwe	id=11598
+Kiswahili (Translation)	Vituko Vya Ng’Ombe Shujaa	id=5314
+Luganda (Translation)	Ebikwata Ku Wante Ow'ebyewuunyo	id=2194
+Lugbarati (Translation)	Ayoko Nyaza Ti Okpo Be Ri Ni Ri	id=2151
+Lugbarati (Official) (Translation)	Ídri  Nyǎzà Tí Òkpó Be Rɨ Nɨ Rɨ	id=8778
+Lunyole (Translation)	Eŋombe Ey’Amaliholiho	id=2195
+Maa (Translation)	Inkiaasîn É Enkíténg É Enking'asíá	id=2728
+Ng’aturkana (Translation)	Ng’Akiro Nakaili-Ilok Aite Anaajokon	id=8725
+Olukhayo (Translation)	Ing’Ombe Yamakana	id=2198
+Oluwanga (Translation)	Efikhole Fie Ing’Ombe Yamakana	id=2199
+Portuguese (Translation)	As Aventuras Da Supervaca	id=12171
+Sepedi (Translation)	Bohlagahlaga Bja Kgomo E Maatla	id=2200
+Sesotho (Lesotho) (Translation)	Mehahlaula Ea Khomo Ea Senatla	id=2201
+Sesotho (Lesotho) (Translation)	Efikhole Fie Ing’Ombe Yamakana	id=10361

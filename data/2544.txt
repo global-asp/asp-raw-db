@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=2544&d=0&a=1
+id:	2544
+title:	Diphoofolo Tša Ka Gae
+author:	Ngwanapule Margaret Malele and Maureen N. Ramusi
+artist:	Sandy Campbell
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2544.png
+desc:	Hlohletša ka melodi ye e fapanego yeo e dirwago ke diphooflo tša polaseng.Na molemi o dira molodi o fe?
+
+page_text:
+
+P1	Theeletša diphoofolo tša ka gae ge di lla.
+P2	Kgomo e re,  "M-m-u-u. M-m-u-u." Kgomo e nyaka meetse.
+P3	Pudi e re,  "Me-e-e. Me-e-e." Pudi e nyaka meetse.
+P4	Pere e re,  "Yi-hi-hi-hi. Yi-hi-hi-hi." Pere e nyaka meetse.
+P5	Kolobe e re,  "Kgo-kgo-kgo." Kolobe e nyaka meetse.
+P6	Kgogo e re,  "Ke-kekee-kekee." Kgogo e nyaka meetse.
+P7	Mpša e re,  "Hou-hou-hou." Mpša e nyaka meetse.
+P8	Molemi o re,  "Ššš! Meetse a gago šia."
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/1750.png
+illustrations/pages/1751.png
+illustrations/pages/1752.png
+illustrations/pages/1753.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+Ateso (Translation)	Ongolia Ityiang Lu	id=9209
+English (Original)	Look at the Animals	id=1221
+English (Adaptation)	Domestic Animals	id=9680
+English (Adaptation)	Look at the Animals	id=10257
+isiXhosa (Translation)	Izilwanyana Zasekhaya	id=2539
+isiZulu (Translation)	Izilwane Zasepulazini	id=2540
+Kiswahili (Translation)	Watazame Wanyama	id=9479
+Kiswahili (Adaptation)	Wanyama Wa Kufugwa	id=9681
+Kiswahili (Adaptation)	Manyati Na Wanyama Wake	id=16742
+Lugbarati (Translation)	Mi Ne Nga Anyapa 'diyi	id=12648
+Lunyole (Translation)	Bona Esolo	id=11618
+Lunyole (Adaptation)	Boon Ebisolo	id=16737
+Rutooro (Adaptation)	Test Dora Ebisoro Sd	id=16736
+Rutooro (Translation)	Test Dora Ebisoro	id=16740
+Rutooro (Adaptation)	Test Dora Ebisoro Nm	id=16741
+Rutooro (Adaptation)	Test Dora Ebisoro	id=16743
+Sesotho (Lesotho) (Translation)	Liphohofolo Tsa Polasing	id=2543

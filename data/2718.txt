@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=2718&d=0&a=1
+id:	2718
+title:	‘Di Ma I
+author:	Doris Maandebo
+artist:	Kathy Arbuckle
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2718.png
+desc:	In this story I talk about who I am
+
+page_text:
+
+P1	'Di ma ma e'da ni.
+P2	Ma ma eli azia.
+P3	'Ba osi ndra ma mba na si.
+P4	'Diri 'ba ama vile akua 'diyi ma e'da.
+P5	Nyaka mani lele ndeni ri i'bi osi za ri pi maku osiza ri be.
+P6	Ma eco ma dri ma e'da bgaa ra.
+P7	Ma ma eli.
+P8	Ma ma simu ma namba eri 077 – 3426587.
+
+images:
+
+illustrations/pages/1709.png
+illustrations/pages/1710.png
+illustrations/pages/1711.png
+illustrations/pages/1712.png
+illustrations/pages/1797.png
+illustrations/pages/1713.png
+illustrations/pages/1714.png
+illustrations/pages/1715.png
+illustrations/pages/1716.png
+
+translations:
+
+Afaan Oromo (Translation)	Kuni Ana	id=12232
+Ateso (Adaptation)	Enngo Naa.	id=10557
+English (Original)	This is Me	id=1798
+Kikamba (Translation)	Uyu Ni Nye	id=2216
+Luganda (Translation)	Ono Ye Nze	id=2217
+Lugbarati (Official) (Translation)	‘Dì Má Ɨ́	id=8763
+Lunyole (Translation)	Ono Ndiise	id=2218
+Setswana (Translation)	Ke Nna O	id=2219

@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=11810&d=0&a=1
+id:	11810
+title:	Kabali Ka Kateera
+author:	Pascal Ewesit
+artist:	Franz Phooko
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11810.png
+desc:	Erai ipuus ka apoo ngitiang lu itanio anawiyei.Eminasi ngide abolia ka ngitiang luku.
+
+page_text:
+
+P1	Erai Kabali ka Kateera ng'ipaalon.
+P2	Eyakar Kabali ipuus. Eyakar Kateera apoo.
+P3	Ebolianasi Kabali ka ipuus keng jiik.
+P4	Isumuji Kateera apoo keng ng'akisumujet ng'aarei anakwaar.
+P5	Abu apoo na Kateera touriu ng'iponyang'ae ng'ikan-kapei. Erioko ng'iarei,  ng'ing'uronyang'ae ng'iarei nabo akwang'ak ng'iarei.
+P6	Abu ipuus nia Kabali touriu ng'ipuusio ng'iuni. Arai ipei nikile,  ng'iarei ng'iberu.
+P7	Abu Kateera togiela ng'iponyang'ae ng'iarei. Togielea ng'aropiyae ng'abukio ka ng'ipenselio lu esukul.
+P8	Nyegielara Kabali ng'ipuusio. Pe aminasi ng'itung'a adakar kang'ina akitan ng'ipuusio.
+
+images:
+
+illustrations/pages/9585.png
+illustrations/pages/9576.png
+illustrations/pages/9577.png
+illustrations/pages/9578.png
+illustrations/pages/9579.png
+illustrations/pages/9580.png
+illustrations/pages/9581.png
+illustrations/pages/9582.png
+illustrations/pages/9583.png
+
+translations:
+
+French (Translation)	Kabali Et Kateera	id=13775
+isiZulu (Translation)	Ukabali Nokateera	id=15353

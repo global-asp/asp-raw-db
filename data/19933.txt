@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=19933&d=0&a=1
+id:	19933
+title:	Fire Again!
+author:	Jenny Louw
+artist:	Rob Owen and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19933.png
+desc:	We provide different uses of fire
+
+page_text:
+
+P1	I see fire again.
+P2	The fire is burning brightly.
+P3	The fire can cook meat and vegetables.
+P4	The fire can keep me warm.
+P5	The orange light of the fire gives me light when it is dark.
+P6	The fire crackles and pops.
+P7	Fire is powerful and can be dangerous.
+P8	We must be careful when lighting fires or playing with fire.
+
+images:
+
+illustrations/pages/6121.png
+illustrations/pages/1298.png
+illustrations/pages/8560.png
+illustrations/pages/8557.png
+illustrations/pages/17333.png
+illustrations/pages/8558.png
+illustrations/pages/6121.png
+illustrations/pages/8556.png
+illustrations/pages/1298.png
+
+translations:
+

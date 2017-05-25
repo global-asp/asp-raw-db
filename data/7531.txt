@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=7531&d=0&a=1
+id:	7531
+title:	Lị́cọ́ Ãmadrị̂
+author:	Barnabas Delu
+artist:	Kathy Arbuckle
+lang:	Aringati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7531.png
+desc:	My family likes to read. Find out what each person is reading.
+
+page_text:
+
+P1	Má ádrị́pị la bụ́kụ̃ sụ̃kụ́lụ̃ drị̂ lã.
+P2	Má ãndrẽ la Bĩbĩlíyã lã.
+P3	Má ámvọ́pị la ị́jọ́ sĩlé ãkónã aꞌdíŋá drị̃ gá rĩ kí lã.
+P4	Má átịdrị́ la ị́jọ́ sĩlé gãzẹ́tị̃ gá rĩ lã.
+P5	Dẹ̃dẹ́ la mágázínĩ lã.
+P6	Má ámvọ́pị were rĩ la bụ́kụ̃ íꞌdá drị̂ undré.
+P7	Ma bụ́kụ̃ ꞌdĩ lã.
+P8	Ace were má bụ́kụ̃ pírí kí lã rá.
+
+images:
+
+illustrations/pages/1791.png
+illustrations/pages/1630.png
+illustrations/pages/1631.png
+illustrations/pages/1632.png
+illustrations/pages/1633.png
+illustrations/pages/1634.png
+illustrations/pages/1635.png
+illustrations/pages/1636.png
+illustrations/pages/1637.png
+
+translations:
+
+Ateso (Translation)	Ekale Koosi	id=2946
+English (Original)	My Family	id=1792
+Kikamba (Translation)	Musyi Wakwa	id=2951
+Luganda (Translation)	Abantu B'ewaka	id=2952
+Lumasaaba (Translation)	Be Muungo Mweefwe	id=2954
+Lusoga (Translation)	Abomumaka Gange	id=2955
+Olukhayo (Translation)	Ifamili  Yanje	id=2953
+Oluwanga (Translation)	Oluyia Lwanje	id=2956
+Setswana (Translation)	Lelapa La Me	id=2957

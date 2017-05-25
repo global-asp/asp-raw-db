@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=10476&d=0&a=1
+id:	10476
+title:	Afa Eka ‘Diyi
+author:	Eunice Candiru
+artist:	Sue Kramer
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10476.png
+desc:	Afa ekadiyi ma eseleyi kara kara
+
+page_text:
+
+P1	Mama ni yi 'baa ndo eka ri si.
+P2	Matua bi mawua eka 'diyih 'I ma dria.
+P3	Amati bi 'i ma dria mawua eka ni.
+P4	Ma andrapuru su vini suata ekaru ri 'i ma rua.
+P5	Etu eka ndrizaru ri diza fee baba ni.
+P6	A'a ndre pikipiki ekaru nzila ma kalatia.
+P7	Eyotaru 'ba olotoko ekaru ri 'i ma o'dua.
+P8	Muukari eka aci vile ri pari odu mvuzuri ma alea.
+P9	Inzikuruh su bilauzi eka run i 'i ma rua.
+P10	Eri jijima eka ri su 'i ma paa.
+P11	Jijima nde 'diyi cani eri ma paa ku.
+
+images:
+
+illustrations/pages/1761.png
+illustrations/pages/1762.png
+illustrations/pages/1763.png
+illustrations/pages/1764.png
+illustrations/pages/1765.png
+illustrations/pages/1766.png
+illustrations/pages/1767.png
+illustrations/pages/1768.png
+illustrations/pages/1769.png
+illustrations/pages/1770.png
+illustrations/pages/1771.png
+illustrations/pages/1772.png
+
+translations:
+
+English (Original)	Red	id=2188
+isiXhosa (Translation)	Umbala Obomvu	id=2750
+Kikamba (Translation)	Langi Mutune	id=2751
+Maa (Translation)	Enadó	id=2983
+Ng’aturkana (Translation)	Niareng’An	id=2752

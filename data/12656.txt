@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=12656&d=0&a=1
+id:	12656
+title:	Le Crocodile Et Le Babouin
+author:	Gilles Falcone and Translators without Borders
+artist:	Little Zebra Books and Jeremiah Dube
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12656.png
+desc:	Crocodile et Babouin sont bons amis et tout va bien... jusqu’à ce que Crocodile tombe malade. On dirait que Babouin va devoir faire un grand sacrifice s’il veut que son ami guérisse.
+
+page_text:
+
+P1	Babouin et Crocodile étaient les meilleurs amis du monde. Ils jouaient ensemble. Ils mangeaient ensemble. Ils faisaient tout ensemble.
+P2	Mais un jour,  Crocodile est tombé si malade qu'il était presque mort. Quand il a vu que sa maladie s'aggravait,  Crocodile est allé chez le nyabezi qui lui a dit: "Si tu veux aller mieux,  tu dois manger de la viande de babouin."
+P3	Crocodile a été triste d'entendre cela. Mais il n'y avait pas d'autre choix pour se soigner que de manger son ami le babouin.
+P4	Quand Babouin est allé voir son ami,  Crocodile l'a mis sur son dos et l'a emmené à l'endroit le plus profond de la rivière.
+P5	Crocodile a dit: "Le nyabezi m'a dit que je devais te manger pour guérir,  mon ami."
+P6	Alors,  Babouin lui a répondu: "Non,  mon ami. Ne me mange pas. Je suis trop petit. Attend un instant et j'appellerai mon grand-père. Il est plus grand que moi. Mange-le et tu seras rassasié."
+P7	Alors Crocodile a dit: "Où est-il,  ton grand-père?" Babouin lui a dit: "Il est dans cet arbre,  sur cette île." Crocodile a dit: "Va le chercher pour que je puisse le manger."
+P8	Babouin a sauté du dos de Crocodile,  il a vite grimpé tout en haut de l'arbre et il y est resté. Crocodile a attendu et attendu. Mais il n'a pas vu le moindre signe de Babouin. Et c'est comme ça qu'ils se sont fâchés.
+
+images:
+
+illustrations/pages/6979.png
+illustrations/pages/6974.png
+illustrations/pages/6976.png
+illustrations/pages/6977.png
+illustrations/pages/6978.png
+illustrations/pages/6979.png
+illustrations/pages/6980.png
+illustrations/pages/6981.png
+illustrations/pages/6982.png
+
+translations:
+
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11238
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11293
+Chinyungwe (Original)	Uxamwali Bwa Kolo Na Nyakhoko	id=7228
+English (Translation)	Crocodile and Baboon	id=7357
+Lámnsoʼ (Translation)	Ŋgày Wùn Mbùy	id=16446
+Ng’aturkana (Translation)	Akinyangang'a Ka Echom	id=9540
+Portuguese (Translation)	O Crocodilo E O Babuíno	id=16409

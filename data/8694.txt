@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=8694&d=0&a=1
+id:	8694
+title:	O Jogo De Olhar Sem Piscar
+author:	Jorge Eusébio Eusébio
+artist:	Zito Jorge Ngovene
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8694.png
+desc:	This time Rabbit is out-witted!
+
+page_text:
+
+P1	Há muito,  muito tempo,  o coelho e cobra eram grandes amigos.
+P2	Um dia,  decidiram passear pela selva. Conversavam durante o passeio. O coelho era o mais esperto que a cobra,  e a cobra sabia disso!
+P3	Discutiam sobre quem podia ficar mais tempo olhando para o outro,  sem pestanejar. A cobra disse: vamos pôr isto em prática. Eu sou o melhor! Irei ganhar! Então o coelho concordou.
+P4	A cobra e o coelho começaram a olhar um ao outro. Olharam-se por muitos minutos.
+P5	Mas a cobra cansou-se! Então vagarosamente retirou o seu corpo da pele,  e deixou-a ali com o coelho.
+P6	O coelho continuou com os olhos bem abertos olhando a cobra por muitas horas.
+P7	O coelho era o animal muito esperto,  todavia naquele dia a sua esperteza acabou. Por isso,  até hoje o coelho dorme com os olhos abertos!
+
+images:
+
+illustrations/pages/8671.png
+illustrations/pages/8670.png
+illustrations/pages/8671.png
+illustrations/pages/8672.png
+illustrations/pages/8673.png
+illustrations/pages/8674.png
+illustrations/pages/8675.png
+illustrations/pages/8676.png
+
+translations:
+
+English (Original)	The Staring Game	id=8554
+English (Adaptation)	The Staring Game - Colouring Book	id=17414

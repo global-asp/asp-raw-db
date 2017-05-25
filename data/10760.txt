@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=10760&d=0&a=1
+id:	10760
+title:	L’Histoire Du Feu
+author:	Marianne Pasty-Abdul Wahid and Translators without Borders
+artist:	Rob Owen
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10760.png
+desc:	Le feu raconte sa propre histoire.
+
+page_text:
+
+P1	Laisse-moi te raconter mon histoire. Je démarre comme une petite étincelle.
+P2	Je me déchaîne lorsque le vent me porte.
+P3	Toi et moi,  nous sommes de bons amis.
+P4	Je cuis ta nourriture.
+P5	J'éclaire tes nuits.
+P6	Je sais faire de nombreuses choses.
+P7	Je fais partie de ta famille.
+P8	Mais prends garde si tu m'invites chez toi. Je n'aime pas qu'on me laisse seul.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Afrikaans (Translation)	Die Storie Van Vuur	id=10807
+isiNdebele (Translation)	Inolwana Yomlilo	id=17740
+Portuguese (Translation)	A História Do Fogo	id=16415

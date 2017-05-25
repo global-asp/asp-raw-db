@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=17469&d=0&a=1
+id:	17469
+title:	Ni Ubuhe Bwoko Bw’Amenyo?
+author:	Sylvestre Ntabajyana
+artist:	Rob Owen
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17469.png
+desc:	Hari inyamaswa zifite amenyo atyaye zikoresha mu kurumana. Izindi z’ifite amenyo abwataraye zikoresha mu gutapfuna. Hari n’izitagira amenyo. Wowe se bite?
+
+page_text:
+
+P1	Ingona igira amenyo asongoye kandi atyaye.
+P2	Intare na yo igira amenyo asongoye kandi atyaye.
+P3	Igifi kinini cyitwa shark gifite amenyo asongoye kandi atyaye! Kuki inyamaswa zimwe zigira amenyo asongoye kandi atyaye?
+P4	Inka igira amenyo akomeye ikoresha mu gutapfuna ubwatsi.
+P5	Inyoni nta menyo zigira. Inyoni se irya ite?
+P6	Imbeba zigira amenyo manini y'imbere.
+P7	Nigeze kugira amenyo y'imbere.
+P8	Amenyo yange y'imbere ubu yarakutse. None se ufite amenyo angahe?
+
+images:
+
+illustrations/pages/9634.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9626.png
+illustrations/pages/9630.png
+illustrations/pages/9631.png
+illustrations/pages/9634.png
+illustrations/pages/9632.png
+illustrations/pages/9633.png
+
+translations:
+
+Afrikaans (Translation)	Tande	id=10594
+Aringati (Translation)	Sí Éséle Íngóní Rĩ?	id=9643
+English (Translation)	What Type of Teeth?	id=9653
+isiNdebele (Translation)	Unamazinyo Amangakhi?	id=13052
+isiZulu (Translation)	What Type of Teeth?	id=11562
+Kakwa (Original)	Kala Lo Gbo’Da Adidinyo?	id=9625
+Kiswahili (Translation)	Meno Aina Gani?	id=12621
+Lugbarati (Official) (Translation)	Sí Má Éséle Ngó Lé Rɨ 'ɨ?	id=9649
+Lunyole (Translation)	Meeno Gangeri Hi?	id=16649
+Ng’aturkana (Translation)	Ng'ikiel Lu Ikote Ai?	id=12649
+Oluwanga (Translation)	Ameno Mbia Shi?	id=12963
+Portuguese (Translation)	Que Tipo De Dentes?	id=19220
+Rutooro (Translation)	Miringoki Eyamaino?	id=14945

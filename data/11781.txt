@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=11781&d=0&a=1
+id:	11781
+title:	ተመለሽ ድመቴ
+author:	መዘምር ግርማ
+artist:	Karen Lilje
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11781.png
+desc:	A sneaky cat gets into trouble before naptime.
+
+page_text:
+
+P1	ተመለሽ ድመቴ! ከኔ ጋር ተጫወች፡፡
+P2	በቅርጫትሽ ውስጥ ተቀመጭ፡፡ እዚሁ ቆዪ!
+P3	ተመለሽ ድመቴ! ያ በጣም ይርቅሻል፡፡
+P4	ተመለሽ ድመቴ! ውጪ አትውጪ፡፡
+P5	ተመለሽ ድመቴ! ያ ያንች አይደለም፡፡
+P6	ተመለሽ ድመቴ! ምን አገኘሽ?
+P7	ተመለሽ ድመቴ! ያ ያንቺ ጓደኛ አይደለም፡፡
+P8	ታዲያስ ድመቴ! ተመለስሽ?
+P9	በቅርጫትሽ ውስጥ ቆዪ፡፡ አሁን የእንቅልፍ ሰዓት ነው፡፡
+P10	ድመቴ?
+
+images:
+
+illustrations/pages/8059.png
+illustrations/pages/9122.png
+illustrations/pages/9121.png
+illustrations/pages/9123.png
+illustrations/pages/9124.png
+illustrations/pages/8061.png
+illustrations/pages/8062.png
+illustrations/pages/8063.png
+illustrations/pages/8064.png
+illustrations/pages/8065.png
+illustrations/pages/8066.png
+illustrations/pages/8067.png
+illustrations/pages/8068.png
+
+translations:
+
+Afrikaans (Translation)	Kom Terug, Kat	id=11171
+English (Translation)	Come Back, Cat	id=9125
+French (Translation)	Reviens, Chat!	id=12655
+Lámnsoʼ (Translation)	Pùúr Kfə́n É Bàm	id=15063
+Yoruba (Translation)	Padà Wá, Olóńgbò	id=11209

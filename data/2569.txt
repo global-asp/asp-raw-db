@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=2569&d=0&a=1
+id:	2569
+title:	The Wise Man
+author:	Cornelius Wekunya
+artist:	Joshua Waswa
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2569.png
+desc:	A young man believes that youth know better than their elders. His father-in-law
+
+page_text:
+
+P1	Once upon a time,  there was a man who thought that the youth were wiser than their elders. He even bragged about it before his wife. He said to her,  "I am wiser than your father." His wife disagreed with him,  but he would not listen to her.
+P2	One day when the wife went to see her parents,  she told her father about how his son-in-law claims to be wiser than him because he is younger. The old man sent his daughter back to ask her husband if he still held the same view.
+P3	Her husband sent her back. "Go and tell your father to prepare for me a drink brewed from mist." "Now I will prove to my father- in-law that I am indeed very wise," he chuckled. No one can make a drink from mist.
+P4	The father-in-law just laughed it off as no alcohol could be made out of mist. However,  the old man sent the daughter back with a message accepting the challenge of preparing a brew from mist. But on condition that when it was ready,  the one to collect it should neither be a man nor a woman.
+P5	The son-in-law found himself trapped. From that time,  he believed in the old saying that "Shoulders will never grow taller than the head."
+
+images:
+
+illustrations/pages/2567.png
+illustrations/pages/2564.png
+illustrations/pages/2565.png
+illustrations/pages/2566.png
+illustrations/pages/2568.png
+illustrations/pages/2567.png
+
+translations:
+
+Amharic (Translation)	አዋቂው ሰውዬ	id=12737
+Lugbarati (Translation)	Agu Anitua Be E’Yo Ni Ndele Ra	id=2713
+Lumasaaba (Translation)	Uwe Lukyesikyesi Ukhaanyalisa Khukhwiwonesa Umweene Ta	id=2998

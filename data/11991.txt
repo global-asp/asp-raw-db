@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=11991&d=0&a=1
+id:	11991
+title:	Pendo Our Cow
+author:	Ruth Odondi
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11991.png
+desc:	A story about a much loved family cow.
+
+page_text:
+
+P1	This is Ndalo.
+P2	Ndalo likes to read books.
+P3	This is Pendo.
+P4	Pendo likes to eat carrots.
+P5	Ndalo grazes Pendo after school.
+P6	He gives fresh water to Pendo.
+P7	Father gives grain to Pendo.
+P8	He milks Pendo every day.
+P9	Pendo gives a lot of milk.
+P10	Father sells Pendo's milk.
+P11	Ndalo drinks fresh milk every day.
+P12	He says,  "Thank you Pendo!"
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/11992.png
+illustrations/pages/7944.png
+illustrations/pages/11993.png
+illustrations/pages/7939.png
+illustrations/pages/11994.png
+illustrations/pages/7938.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+illustrations/pages/7941.png
+illustrations/pages/7943.png
+illustrations/pages/11997.png
+illustrations/pages/7945.png
+
+translations:
+
+Afrikaans (Translation)	Pendo, Ons Koei 	id=20092
+Kiswahili (Original)	Ng’Ombe Wetu Pendo	id=8056
+Sesotho (South Africa) (Translation)	Kgomo Eso Pendo	id=20043

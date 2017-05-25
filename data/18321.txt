@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=18321&d=0&a=1
+id:	18321
+title:	Mukapu
+author:	Ramikosi Gudani
+artist:	Catherine Groenewald
+lang:	Tshivenda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18321.png
+desc:	Mmawe a vhaho baba vha kho bika mukapu wa matsheloni.
+
+page_text:
+
+P1	Zama u kho ḓi lugisela u ya tshikoloni.
+P2	Baba vha kho bika mukapu wa farisa thumbuni.
+P3	"Mmawe vha bika mukapu wa u ḓifhesa!" hu amba Zama.
+P4	Mukapu u ṋea Zama maanḓa a tshikolo.
+P5	Mukapu wa baba wo luga.
+P6	Baba vha shela mafhi,  nga lufuno.
+P7	"Baba,  ndi pfa unga mukapu hoyu u kha ḓi ṱoḓa swigiri," hu amba Zama.
+P8	"Mukapu wa mmawe u ḓifha u fhira wa baba," hu humbula Zama.
+P9	"Baba ndi kho humbela u engedzelwa swigiri?" ndi Zama a tshi humbela.
+P10	Baba vha muengedzela swigiri.
+P11	"Ehe! Baba! Vho shela muṋo mukapuni wanga!"
+P12	"Baba,  mmawe vha vhuya lini hayani?" ndi Zama a tshi vhudzisa.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+IciBemba (Translation)	Umusunga	id=18578
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Lunyole (Translation)	Obusera	id=13458
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=14919&d=0&a=1
+id:	14919
+title:	Jaaka Omusohi
+author:	Kangume Rhodah
+artist:	Zablon Alex Nguku
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14919.png
+desc:	Kusoborra enyikara y’omusohi ouyaikaraga hakisaaru kya Nile.
+
+page_text:
+
+P1	Onu nuwe Jaaka omusohi kuruga mukyaro Naminya.
+P2	Ahera hakisaaru ekikooto ekya Nile.
+P3	Aine eryaato,  ekitimba n'endobo.
+P4	Bulikiro aimuka murukyakya nukwe akwate encu Emamba.
+P5	Ha saaha ina zanyenkakara aba natunda ebyakwasire mukatale ka Jinja.
+P6	Jaaka kiki ekibaireho? Tokozire magoba? Abihiirwe muno.
+P7	"Kiro kinu tibingendiire kurungi. Ebigonzi by'ekisaru tibinyikirize kusoha N'encu emu irukire n'endobo yange."
+P8	"Baitu nyine kunihira nyenkya ekiro nikija kuba kirungi,  habwo kuba nguzire endobo empyaka."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka Die Visserman	id=11406
+English (Translation)	Jaaka the Fisherman	id=8491
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiXhosa (Translation)	Ujaaka Umlobi	id=13206
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=9766&d=0&a=1
+id:	9766
+title:	Kumbana's Child
+author:	Ingrid Schechter
+artist:	Razaque Lázaro Quive
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9766.png
+desc:	A story for teenagers
+
+page_text:
+
+P1	Once there was a young man called Kumbana.
+P2	When he was 25,  he fell in love with a girl called Zangane.
+P3	They were together for 3 years,  but he didn't have enough money to marry her.
+P4	Then one day she found she was pregnant,  because they didn't use protection.
+P5	A little girl was born,  and they called her Kheri.
+P6	But Kumbana was still studying,  and Zangane had a job in a town far away,  so they had to live apart.
+P7	After a while,  Zangane found a new boyfriend. He came to live with her and the little girl.
+P8	Kumbana was heart-broken. He cried and cried because he was separated from his daughter.
+P9	Time went on,  and Kumbana found a new girlfriend too. They lived together,  but they did not have any children.
+P10	Now Kheri did not like her new father at all. She was very unhappy,  and he used to beat her.
+P11	So when she was 12,  her mother decided to send her back to live with her real father.
+P12	Then Kumbana and Kheri were both happy again.
+
+images:
+
+illustrations/pages/9722.png
+illustrations/pages/9718.png
+illustrations/pages/9719.png
+illustrations/pages/9720.png
+illustrations/pages/9721.png
+illustrations/pages/9722.png
+illustrations/pages/9724.png
+illustrations/pages/9723.png
+illustrations/pages/9725.png
+illustrations/pages/9726.png
+illustrations/pages/9727.png
+illustrations/pages/9728.png
+illustrations/pages/9729.png
+
+translations:
+
+English (Adaptation)	Kumbana's Child - Colouring Book	id=17595
+isiZulu (Translation)	Ingane Kakumbana	id=15357
+Portuguese (Translation)	A Filha De Kumbana	id=10554

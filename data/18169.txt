@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=18169&d=0&a=1
+id:	18169
+title:	Kgogo E Hlalefetša Ntšhu
+author:	Dikeledi Queen Phokane
+artist:	Rob Owen
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18169.png
+desc:	Kgogo e raloka maleatlana a šoro go Ntšhu.
+
+page_text:
+
+P1	Kgalekgale Kgogo le Ntšhu e be e le bagwera. Ka letšatši le lengwe Lenong o ile a hwetša Kgogo a khuditše ka tlase ga mohlare le mekotla ya go tšwa mabenkeleng. Kgogo o be a eme ka leoto le tee.
+P2	Ntšhu a botšiša Kgogo a re,  "Naa leoto le lengwe la gago le kae?"
+P3	Kgogo a botša Ntšhu a re,  "Ralebenkele o ripile leoto la ka,  a le tšea gomme nna a mpha dijo tše."
+P4	Ntšhu a botšiša Kgogo ge e ba le yena a ka dira seo gore a hwetše mekotla ya dijo. Ntšhu le yena o be a nyaka mokotla wa dijo. Kgogo a dumela.
+P5	Ntšhu o ile a ya go ralebenkele a mo kgopela go re a ripe leoto la gagwe le tee gore a kgone go hwetša dijo le yena. Ralebenkele a amogela kgopelo yeo.
+P6	Ntšhu o ile a tlolatlola ka leoto le tee go fihla gae. O be a thabišitšwe ke dilo tšeo ralebenkele a mo filego tšona.
+P7	Ge Ntšhu a fihla gae,  a hwetša Kgogo a nale maoto a gagwe a mabedi.
+P8	Ntšhu o ile a befelwa kudu a kitimiša Kgogo. Efela a palelwa ke go mo swara. Ke ka lebaka leo le lehono re bonago Ntšhu e itefeletša ka go hloriša matswuana a Kgogo. Ge Ntšhu e swara tswuana,  e a aja.
+
+images:
+
+illustrations/pages/9588.png
+illustrations/pages/9587.png
+illustrations/pages/9588.png
+illustrations/pages/9589.png
+illustrations/pages/9590.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/9593.png
+illustrations/pages/9594.png
+
+translations:
+
+Afrikaans (Translation)	Hen Kul Vir Arend	id=16344
+ChiTonga (Translation)	Nkuku  Yamucenga  Sikwaze	id=18646
+CiNyanja (Translation)	Nkuku Yamupita Kunzelu Nkwazi	id=18664
+English (Translation)	Hen Tricks Eagle	id=10544
+IciBemba (Translation)	Inkoko Yacenjesha Kapumpe	id=18683
+isiXhosa (Translation)	Usikhukukazi Uqhatha Ukhozi	id=17526
+isiZulu (Translation)	Usikhukhukazi Uqiliga Ukhozi	id=16359
+isiZulu (Translation)	Uskhukhukazi Ukhohlisa Ukhozi	id=16547
+Lunyole (Original)	Engoho N’Ekongoja	id=10543
+Sesotho (South Africa) (Translation)	Kgoho O Jalletsa Ntsu	id=20029
+Setswana (Translation)	Koko O Tsietsa Phakalane	id=16595
+Setswana (Translation)	Koko O Tsietsa Lenong	id=16718
+Setswana (Translation)	Koko O Tsietsa Lenong	id=17647
+SiLozi (Translation)	Kuhu Ipuma Mbande	id=18719
+Tshivenda (Translation)	Khuhu I Fhura Goni	id=18301
+Xitsonga (Translation)	Huku Yi Xenga Koti	id=18877

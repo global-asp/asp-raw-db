@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=9831&d=0&a=1
+id:	9831
+title:	Re Bapala Bolo
+author:	Mirriam Mbelu
+artist:	Vusi Malindi
+lang:	Sesotho (S.Africa)
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9831.png
+desc:	Mokwetlisi o kwetlisa bana ho bapala bolo.
+
+page_text:
+
+P1	Moshemane le ngwanana ba ilo bapala bolo.
+P2	Mokwetlisi o ba laela melao ya papadi.
+P3	Bashemane le banana ba kwetliswa mmoho.
+P4	Mokwetlisi o boela a fa bana maele hape a ho bapala.
+P5	Bana le mokwetlisi ba thabile.
+P6	Nako ya boikwetliso e fedile.
+P7	Mokwetlisi o fihla le mokotla.
+P8	Mokwetlisis o fa bana diaparo tsa sehlopha.
+
+images:
+
+illustrations/pages/7978.png
+illustrations/pages/7970.png
+illustrations/pages/7977.png
+illustrations/pages/7978.png
+illustrations/pages/7980.png
+illustrations/pages/7982.png
+illustrations/pages/7983.png
+illustrations/pages/7984.png
+illustrations/pages/7985.png
+
+translations:
+
+Afrikaans (Translation)	Sokker Wedstryd	id=11307
+Afrikaans (Translation)	Sokker Wedstryd	id=11403
+English (Translation)	Soccer Game	id=9825
+English (Adaptation)	Soccer Game is  Good	id=13524
+French (Translation)	Une Partie De Football	id=13277
+isiXhosa (Adaptation)	Indebe Yomhlaba I-Chiefs Ne-Aces	id=9826
+isiZulu (Translation)	Sithanda Ibhola Lezinyawo	id=13325
+Luganda (Translation)	Okuzannya Akapiira	id=8425
+Lunyole (Translation)	Omupiira	id=13523
+Sepedi (Original)	Re Bapala Bolo	id=8038

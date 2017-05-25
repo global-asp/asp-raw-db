@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=14514&d=0&a=1
+id:	14514
+title:	I Colour In
+author:	Isabelle Duston
+artist:	Silva Afonso
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14514.png
+desc:	I like to colour in with different coloured pencils.
+
+page_text:
+
+P1	.
+
+images:
+
+illustrations/pages/13669.png
+illustrations/pages/13670.png
+illustrations/pages/13671.png
+illustrations/pages/13672.png
+illustrations/pages/13673.png
+illustrations/pages/13674.png
+illustrations/pages/13675.png
+illustrations/pages/13676.png
+illustrations/pages/13677.png
+illustrations/pages/13678.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Ciyawo (Adaptation)	Wune Ngupeta	id=15772
+French (Translation)	Je Peins	id=14536
+Portuguese (Original)	Eu Pinto	id=14012

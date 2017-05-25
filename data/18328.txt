@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=18328&d=0&a=1
+id:	18328
+title:	Musau Amwokoa Babake
+author:	Ursula Nafula
+artist:	Benjamin Mitchley
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18328.png
+desc:	Musau’s father got drunk every night
+
+page_text:
+
+P1	Musau aliishi na babake,  Syonzola.
+P2	Syonzola alienda kunywa pombe kila siku.
+P3	Aliporudi nyumbani,  aliita,  "Nisaidieni! Fisi ananiua."
+P4	Watu walikimbia kumsaidia. Lakini,  hawakumwona fisi.
+P5	Syonzola alifanya hivyo kila usiku.
+P6	Musau aliamshwa na kelele za babake.
+P7	  Fisi alimvamia Syonzola usiku mmoja.
+P8	  Syonzola aliita,  "Nisaidieni!" Watu walisema,  "Tumechoka na Syonzola. Anadanganya tena."
+P9	Musau alingoja. Babake hakufika.
+P10	Musau aliwaza,  "Ni kweli,  babangu yuko hatarini."
+P11	Musau alitoka nje mbio.
+P12	Musau aliita,  "Baba! Baba!"  Fisi alitoroka.
+P13	Kutoka siku hiyo,  Syonzola alibadilika. Anawasimulia watoto hadithi.
+
+images:
+
+illustrations/pages/8233.png
+illustrations/pages/8221.png
+illustrations/pages/8222.png
+illustrations/pages/8223.png
+illustrations/pages/8224.png
+illustrations/pages/8225.png
+illustrations/pages/8226.png
+illustrations/pages/8227.png
+illustrations/pages/8228.png
+illustrations/pages/8229.png
+illustrations/pages/8230.png
+illustrations/pages/8231.png
+illustrations/pages/8232.png
+illustrations/pages/8234.png
+
+translations:
+
+Kiswahili (Adaptation)	Musau Amwokoa Babake	id=19358

@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=16189&d=0&a=1
+id:	16189
+title:	Ombuli N’Akambe Ka Mpiti
+author:	Sumba Betty Mafaabi
+artist:	Wiehan de Jager
+lang:	Lugwere
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16189.png
+desc:	Nikhukhwoola ari asihentsa kumubano kwa namuunyu.
+
+page_text:
+
+P1	Lwabbaire lumo ekyalo ni kigwamu eisana erinene. Ebisolo ni birya eisubi lyonalyona omu kyalo. Okutoolaku emigulukira gyonkani egibba oku misaale eminene niigyo egyalamireku.
+P2	Lumo ombuli n'abona oMpiti ng'abita n'akambe,  ombuli n'amusaba akambe asobole okusala emigulukira alye.
+P3	OMpiti n'amuwa akambe. N'asala emigulukira era n'alya n'aikuta nakimo. OMbuli ni yeerabirira nakimo ebyakambe akaakozesere.
+P4	OMpiti oweyairire okumubuulya akambe,  ombuli yabbaire mu buzibu. Yabbaire nga takaali ayebukirya egyakabumire.
+P5	OMbuli n'atakula buli wantu nga anoonia akambe. N'okutuka okuti oMbuli akaali anoonia akambe ako.
+P6	OMpiti n'akoba oMbuli,  ati,  "Okuzwa ng'owogoterye akambe kange akabbaire kandisya,  nze n'alya niiwe. Awo kaisi nndye abaanabo,  n'abaizukulubo."
+P7	Okuzwa olwo,  oMpiti tabitirya oMbuli.
+P8	Ebyo nga bikaali biri awo,  oMbuli akaali yeyongera oku noonia akambe ka Mpiti.
+
+images:
+
+illustrations/pages/13567.png
+illustrations/pages/13550.png
+illustrations/pages/13552.png
+illustrations/pages/13551.png
+illustrations/pages/13566.png
+illustrations/pages/13567.png
+illustrations/pages/13568.png
+illustrations/pages/13569.png
+illustrations/pages/13570.png
+
+translations:
+
+English (Translation)	Goat and Hyena’S Knife	id=13623
+French (Translation)	La Chèvre Et Le Couteau De La Hyène	id=14529
+Kiswahili (Translation)	Mbuzi Na Kisu Cha Fisi	id=15611
+Lumasaaba (Original)	Wanambusi Ni Kumubano Kwa Namuunyu	id=13622
+Portuguese (Translation)	A Cabra E a Faca Da Hiena	id=16418

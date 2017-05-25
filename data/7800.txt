@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=7800&d=0&a=1
+id:	7800
+title:	Dineo
+author:	Lorato Trok
+artist:	Wiehan de Jager
+lang:	Setswana
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7800.png
+desc:	Dineo le monna wa gagwe Malepa ba nale barwadi ba le barataro. Malepa o tota a batla morwa. Fa Dineo a belega mawelana a mosimane le mosetsana
+
+page_text:
+
+P1	Bogologolo-tala kwa motsaneng wa Kagisano,  go ne go nale monna a bidiwa Malepa. Mosadi wa gagwe o ne a bidiwa Dineo. Ba ne ba na le bana ba le barataro. E ne e le basetsana fela.
+P2	Erile fa Dineo a le moimana ka ngwana wa bona wa bosupa,  Malepa a mo tshosetsa a re,  "Fa o ka tshola mosetsana gape,  ke tlile go go bolaya. Mme fa o ka tshola mosimane,  ke tla go direla moletlo o mogolo!"
+P3	Fa nako ya go belega e fitlhile,  Dineo a ya go mmelegisi wa setso. A ngwana e tla nna mosimane kgotsa mosetsana?
+P4	E ne e le mosimane LE mosetsana – mawelana! O ne a taa mosimane leina a re ke Gosego mme mosetsana ya nna Pabalelo. O ne a tlala boitumelo fa a lebelela Gosego,  mme a hutsafala fa a lebelela Pabalelo. A utlwa fela gore a ka dira selo se le sengwe.
+P5	Dineo o ne a tlogela Pabalelo mo tlhokomelong ya mmelegisi mme a ya gae le Gosego.
+P6	Ka boipelo o ne a bontsha Malepa ngwana wa bona wa mosimane. Malepa o ne a itumetse thata mme a bitsa motse otlhe go tla go keteka tsalo ya morwa wa gagwe.
+P7	Gosego o ne a gola ya nna lekolwane le le lebegang. Le Pabalelo o ne a gola go nna lekgarebe le le lebegang.
+P8	Ka letsatsi lengwe fa Gosego a disitse dikgomo tsa ga rragwe,  o ne a bona lekgarebe le lentle thata. O ne a bua a le esi a re,  "Le ke lekgarebe le ke batlang go le nyala."
+P9	Mme erile fa a mo kopa lenyalo,  lekgarebe la opela pina e: "Mukhwana wefwe,  Mukhwana. So yakhupa omunwa,  Mukhwana. Nebebula omukhana,  Mukhwana. Barulaka khulwanda,  Mukhwana. Nebebula omusiani,  Mukhwana. Barera mungo muno,  Mukhwana. Iyeyi yakwa,  Mukhwana. Iyindi yakwa,  Mukhwana."
+P10	Se se ne se diragala gangwe le gape. Gosego o ne a sa itse gore a dire eng. O ne a ya kwa go mmagwe,  Dineo. "Ke bone lekgarebe le lentle," a rialo. "Ke rata go le nyala. Mme ka metlha fa ke mo kopa lenyalo,  o opela pina e le nngwe."
+P11	Gosego a makala fa mmagwe a re,  "Se lekgarebe le opelang ka ga sona ke nnete. Ke kgaitsadiago. Lo ne lo le mawelana. Rrago o ne a batla mosimane,  eseng mosetsana. Ka jalo ke ile ka tlogela kgaitsadiago le mmelegisi,  wena ka go tlisa gae mo go rrago."
+P12	Fa Gosego a bolelela rragwe kgang e,  Malepa a ipona phoso. O ne a bitsa Dineo mme ba tsaya loeto go ya go mmelegisi. Ba ne ba ya go tsaya Pabalelo.
+P13	Fa Pabalelo a goroga mo lelapeng,  rragwe le bagolwane ba motse ba ne ba tlhaba podi mme ba dira moletlo wa setso go mo golagana le ba gaabo.
+P14	Morago ga ngwaga Pabalelo o ne a nyalwa ke morwa wa kgosi ya motse. Kgosi e ne e humile thata. Pabalelo o ne a tlisa khumo le boitumelo mo lelapeng la gaabo.
+
+images:
+
+illustrations/pages/5807.png
+illustrations/pages/5806.png
+illustrations/pages/5807.png
+illustrations/pages/5808.png
+illustrations/pages/5809.png
+illustrations/pages/5810.png
+illustrations/pages/5812.png
+illustrations/pages/5813.png
+illustrations/pages/5814.png
+illustrations/pages/5815.png
+illustrations/pages/5817.png
+illustrations/pages/5818.png
+illustrations/pages/5820.png
+illustrations/pages/5822.png
+illustrations/pages/5824.png
+
+translations:
+
+English (Original)	Namukhaywa	id=5859
+French (Translation)	Namukhaywa	id=9961
+Fulfulde (Translation)	Namukhaywa	id=10024
+Hausa (Translation)	Namukhaywa	id=9991
+Kanuri (Translation)	Fanna	id=10041
+Kiswahili (Translation)	Namukhaywa	id=7874
+Luganda (Translation)	Namukwaya	id=8312
+Lugbarati (Official) (Translation)	Àyákáká	id=8788
+Lumasaaba (Translation)	Mukhaye	id=8305
+Lunyole (Translation)	Namwima	id=8404
+Maa (Translation)	Namukhaywa	id=7875
+Ng’aturkana (Translation)	Namukhaywa	id=8457
+siSwati (Translation)	Namukhaywa	id=13078
+Zarma (Translation)	Namukayya	id=10106

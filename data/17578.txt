@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=17578&d=0&a=1
+id:	17578
+title:	Unandipha Intombazana Elincoko
+author:	Xolisa Guzula
+artist:	Jesse Breytenbach
+lang:	isiXhosa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17578.png
+desc:	UNandipha yintombazana enothando
+
+page_text:
+
+P1	Kudala kwaye kukho intombazana egama linguNandipha. UNandipha wayekuthanda kakhulu ukuncokola. Umama wakhe wayehlala emnqanda njalo ngobu buncoko bakhe,  kodwa akazange amamele.
+P2	Ngenye imini uNandipha wagulelwa ngumakazi wakhe owayehlala entlanjeni kude kufuphi nelali yakhe.
+P3	Umama kaNandipha wayexakeke kakhulu ngaloo mini. Kwakusele kuhlwile ngelixa wayenika uNandipha ukutya amakakuphathele umakazi wakhe ogulayo.
+P4	Endleleni eya kwamakazi,  uNandipha wadibana neMbulu eyayizitshintshe yazenza umntu.
+P5	Imbulu yambuza ukuba uphethe ntoni na. UNandipha waphendula wathi,  "Ndiphethe inyama,  amaqanda nobisi."  Umama wakhe wayemlumkisile ukuba maze angaxeleli mntu ngezinto awayeziphethe.
+P6	UNandipha wayichazela imbulu ngezinto awayeziphathele umakazi wakhe ogulayo. Yaza imbulu yaqalisa kwangonko ukucinga ngenyama eyayiphethwe nguNandipha.
+P7	Yakhawuleza yagqotsa ukuya endlwini kamakazi kaNandipha.
+P8	Imbulu yafika yabimbiliza umakazi kaNandipha yaze yazigquma ngengubo.
+P9	Ngelixa uNandipha efika kwakuthule kuthe cwaka endlwini. Wangena ngaphakathi wakhwaza wathi,  "Makazi uphi?"
+P10	Wathi xa engaliva izwi likamakazi wakhe wangena egumbini lakhe lokulala. Wothuswa kukubona umntu ozigqume ngengubo enkulu.
+P11	"Makazi,  kutheni iindlebe zakho ziinkulu kangaka?" wabuza uNandipha. Imbulu yaphendula phantsi kwengubo yathi,  "Ukuze ndikuve kakuhle."
+P12	UNandipha wabuza kwakhona wathi,  "Kutheni amehlo akho emakhulu kangaka?" Imbulu yaphendula yathi,  "Ukuze ndikwazi ukukubona kakuhle."
+P13	Ekugqibeleni uNandipha wabuza,  "Kutheni umlomo wakho umkhulu kangaka namhlanje?" Imbulu yaphendula yathi,  "Ukuze ndizokukubimbiliza kakuhle." Imbulu yaxhuma ebhedini yaze yambimbiliza uNandipha.
+P14	Ngenxa yoba uNandipha wayekuthanda ukuncokola,  waye wancokola nasesiswini sembulu. Wayebuza imibuzo emininzi.
+P15	Ekugqibeleni,  imbulu yadikwa yile mibuzo mininzi kaNandipha yaze yagqiba ekubeni imgabhe.
+P16	UNandipha nomakazi wakhe baye bahlangulwa ngabantu baselalini. Ukusukela ngaloo mini,  uNandipha akazange aphinde ancokole nabantu angabaziyo.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

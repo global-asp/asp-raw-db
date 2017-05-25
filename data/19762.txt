@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=19762&d=0&a=1
+id:	19762
+title:	Frog and Snake
+author:	Jane Taylor and African Storybook
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19762.png
+desc:	Through this story we learn that some friendships have their limits. (Also available at Level 3.)
+
+page_text:
+
+P1	Frog and Snake are friends.
+P2	Frog says,  "Come with me to visit my mother."
+P3	"Thank you," Snake says. "Who will watch our homes?"
+P4	"I will watch your homes," says Monkey.
+P5	Frog puts white ants in a bag for her mother.
+P6	Frog and Snake leave at dawn. They go into a forest.
+P7	They meet a gang of squirrels. Snake is afraid.
+P8	Frog protects her friend.
+P9	They are hungry when they get to Mother's house.
+P10	They wash and get ready to eat.
+P11	"Snake,  please sit up," says Frog.
+P12	Snake tries to sit up,  but she is not a frog.
+P13	"I cannot sit up like a frog," says Snake.
+P14	Frog will not listen.
+P15	"You do not understand me. I am going home."
+P16	Snake is annoyed. "I thought Frog was my friend."
+
+images:
+
+illustrations/pages/18698.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18700.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18707.png
+illustrations/pages/18709.png
+illustrations/pages/18710.png
+illustrations/pages/18711.png
+illustrations/pages/18712.png
+illustrations/pages/18713.png
+illustrations/pages/18714.png
+
+translations:
+
+English (Original)	Frog and Snake	id=18771
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772

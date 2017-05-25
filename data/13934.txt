@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=13934&d=0&a=1
+id:	13934
+title:	Elders
+author:	Oku Modesto
+artist:	Salim Kasamba
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13934.png
+desc:	The elders are greedy for meat!
+
+page_text:
+
+P1	Once upon a time there was a husband and wife with children. The mother prepared food for the family each day. She would bring the meal to the table for them to eat.
+P2	The father would divide the meat. He would say to the eldest child,  "I am old enough for meat. Here is yours. Wait until you are older."
+P3	Then he would say to the next child,  "I am old enough for meat. Here is yours. Wait until you are older." Each small portion became even smaller.  It went like this for all the children. The youngest child got a tiny piece of meat.
+P4	The father kept the big pieces of meat for himself and his wife. The children were quiet and ate their food.
+P5	Years passed and the children grew up. The parents grew old. They became weak. The children looked after their old mother and father.
+P6	One day at meal time,  the eldest child served the meat,  as usual. But this time she gave only a tiny piece to her father and a tiny piece to her mother.
+P7	She said to her parents,  "You ate yours,  now it is our time. We are old enough."  She served most of the meat to her brothers and sisters.
+P8	The father remembered what he did while his children were young. Mother and father agreed that it was not the right thing to do. They asked for forgiveness. The children promised that they would not repeat this mistake with their own children.
+
+images:
+
+illustrations/pages/13927.png
+illustrations/pages/13924.png
+illustrations/pages/13925.png
+illustrations/pages/13926.png
+illustrations/pages/13927.png
+illustrations/pages/13928.png
+illustrations/pages/13929.png
+illustrations/pages/13930.png
+illustrations/pages/13931.png
+
+translations:
+
+isiZulu (Translation)	Amakhehla Nezalukazi	id=16091
+Kinyarwanda (Translation)	Abakuru	id=17459
+Lugbarati (Original)	Mba-Za	id=13933

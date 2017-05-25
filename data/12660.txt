@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=12660&d=0&a=1
+id:	12660
+title:	Ma Mère a Fait Des Plantations
+author:	Muriel Binek and Translators without Borders
+artist:	Jonathan Field
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12660.png
+desc:	Une mère et un père font des plantations. La famille travaille ensembe pour planter et récolter.
+
+page_text:
+
+P1	Ma mère a fait des plantations. Elle a fait des plantations dans un petit jardin. Elle a fait des plantations de petits pois.
+P2	Mon père a fait des plantations. Il a fait des plantations dans un petit jardin. Il a planté des fleurs dans un petit jardin.
+P3	Ma mère a fait du désherbage dans les deux jardins.
+P4	Mon père a fait de l'arrosage dans les deux jardin.
+P5	Mes parents et moi avons travaillé dans les petits jardins. Ma sœur et moi avons récolté les fleurs et les petits pois.
+P6	Le petit jardin de petits pois a produit des sacs de pois. Le petit jardin de fleurs a produit des sacs de fleurs.
+P7	Ma mère a fait des plantations. Elle a fait des plantations dans un grand jardin.
+P8	Mon père a fait des plantations. Il a fait des plantations dans un grand jardin. Le jardin où il a fait les plantations était un jardin de fleurs.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/8998.png
+illustrations/pages/8999.png
+illustrations/pages/9000.png
+illustrations/pages/9001.png
+illustrations/pages/9002.png
+illustrations/pages/9003.png
+illustrations/pages/9004.png
+illustrations/pages/9005.png
+
+translations:
+
+Afrikaans (Translation)	My Ma Maak Tuin	id=11280
+English (Translation)	My Mother Planted	id=9034
+isiZulu (Translation)	Umama Watshala	id=11520
+isiZulu (Translation)	Umama Wami Utshalile	id=12914
+Kiswahili (Translation)	Mamangu Alipanda	id=12652
+Lunyole (Translation)	Maama Wange Gahoma	id=13505
+Lusoga (Original)	Maama Wange Yalima	id=9031
+Lusoga (Adaptation)	Maama Wange Yalima, my Mother Planted	id=9040
+Ng’aturkana (Translation)	Itokang Etakini	id=12650
+Oluwanga (Translation)	Mama Wanje Yaraka	id=13015
+Portuguese (Translation)	A Minha Mãe Plantou	id=17615
+Sepedi (Translation)	Mma Waka O Bjadile	id=11080
+Sepedi (Translation)	Mma Waka O Bjadile	id=11083

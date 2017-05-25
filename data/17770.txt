@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=17770&d=0&a=1
+id:	17770
+title:	A Bebiri Na Ŋmenaa Naŋ Da Ba Kyebe
+author:	Jonathan Gilbieri (OLE Ghana)
+artist:	Jesse Breytenbach
+lang:	Dagaare
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17770.png
+desc:	Dare kaŋa
+
+page_text:
+
+P1	Ŋmenaa la gaa ka o te puori o yɔɔ kyiu. Kyiu da kpeɛrɛ la a saluoni lombori na kaŋa. Ŋmenaa naŋ da wa gara o yeli ko la sagama,  "N na leɛ wa la wieũ zaa."
+P2	Ŋmenaa naŋ da wa gaa baare,  a tanne da de la ba zutarepeɛle leŋ.
+P3	Saseɛ ne teere da ŋmeɛrɛ la nɔkpeɛne. A teere suuri da iri. Ka ba da lɔɔ a vaɛ yaare zie zaa.
+P4	Ka a saluoni da ŋmoonɔ yɛlɛ. O suuri da iri la.
+P5	A sagama poore da sããɛ la ne a yɛlɛ ama. Ba da piili la a kono. Nentan da zoro la.
+P6	A andonɛɛ zaa da morɔ la kõɔ poɔ.
+P7	A saluoni lombori kaŋa na soba poɔ meŋ,  ŋmenaa da erɛ la siri a na yi a yɔɔ kyiu zie. O da mogre la o noɔre a eŋ o baaebaae.
+P8	Saluoni naŋ da wa nyɛ ka a ŋmenaa la puro waana ne a o veɛloŋ zaa,  o poɔ da pɛlle la. Ka a tanne meŋ da yɛrre ba vaɛɛ a sereŋ veɛla yaga zaa.
+P9	Ka saseɛ da gaa gbire. Teere meŋ da leɛre la ba nuuri a laara morɔ.
+P10	Sagama poore da pɛle la ba naŋ da la nyɛ ba ma ŋmenaa. Ka ba da leɛ gaa te deɛnɛ.
+P11	Tebilii ane mõɔ da pur yi la teŋa a puori ŋmenaa. A andonɛɛ za da nyegrɛ la.
+P12	Ŋmenaa veɛloŋ da kyaã la a zie zaa. "N ba yeli ka N na leɛ wa la," ŋmenaa la da yele ne eŋyuo.
+
+images:
+
+illustrations/pages/14611.png
+illustrations/pages/14612.png
+illustrations/pages/14598.png
+illustrations/pages/14600.png
+illustrations/pages/14602.png
+illustrations/pages/14604.png
+illustrations/pages/14605.png
+illustrations/pages/14606.png
+illustrations/pages/14607.png
+illustrations/pages/14608.png
+illustrations/pages/14609.png
+illustrations/pages/14610.png
+illustrations/pages/14611.png
+
+translations:
+
+Akuapem Twi (Translation)	Da a Owia Kɔtɔe	id=18458
+Dagbani/Dagbanli (Translation)	Dahinshɛli Wuŋtaŋa Ni Daa Zo	id=18149
+Dangme (Translation)	Ligbi Ko Pu Ɔ Ho Ɔ	id=18339
+English (Translation)	The Day the Sun Went Away	id=14771
+Ewe (Translation)	Gbe Si Gbe Ɣe Dzo La	id=18165
+Fante (Translation)	Da a Ewia Kɔree	id=18488
+French (Translation)	Le Jour Où Le Soleil S'en Alla	id=14970
+Ga (Translation)	Gbi Ni Hulu Shi Kɛtee	id=18335
+Gonja (Translation)	Kachɛ Nɛ Epeŋi Yɔ Kade	id=18174
+Kasem (Translation)	Dɛ Delo Wia Na Viiri To	id=18233
+Kinyarwanda (Translation)	Umunsi Izuba Ryigendeye	id=17458
+Kiswahili (Translation)	Siku Ambayo Jua Lilipotea	id=15615
+Lunyole (Translation)	Oludaalo Olu Lyuba Lya Ŋoyeŋo	id=16425
+Mampruli (Translation)	Dahinseeli Wuntaŋŋa  Ŋɔn Daa Zɔa	id=19321
+Nzema (Translation)	Kenle Mɔɔ Ewia Ne Hɔle La	id=18431
+Portuguese (Translation)	O Dia Que O Sol Foi Embora	id=16411
+Yoruba (Translation)	Ọjọ́  Tí Òòrùn Rin Ìrinajò	id=16555

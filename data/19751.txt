@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=19751&d=0&a=1
+id:	19751
+title:	Baboon Chief
+author:	Jane Taylor and African Storybook
+artist:	Isaac Okwir
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19751.png
+desc:	If this chief’s followers had questioned his silly orders
+
+page_text:
+
+P1	Don was a big baboon. He was a bully.
+P2	He was the baboon chief.
+P3	His followers gave him a special cloth.
+P4	"I will wear this on my head," said Don.
+P5	"Everyone follow my orders. Do not question me!" shouted Don.
+P6	So,  the followers followed their chief. If Don jumped,  everyone jumped.
+P7	But the band on Don's head was too tight.
+P8	He touched his sore head. The baboons touched their heads.
+P9	"This hurts," said Don. "This hurts," they copied.
+P10	"This is too tight!" "This is too tight," they copied.
+P11	Don fell down,  over a cliff. They all copied him.
+P12	The baboon chief died. His followers were hurt,  but they lived.
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldessa	id=18907
+English (Original)	Baboon Chief	id=18906

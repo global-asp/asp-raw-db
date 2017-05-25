@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=3892&d=0&a=1
+id:	3892
+title:	Namutosi Ni Butsuune Butaru
+author:	Fabian Wakholi
+artist:	Wiehan de Jager
+lang:	Lumasaaba
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3892.png
+desc:	Three young girls go to the forest to gather some wood on a hot day. There was enough
+
+page_text:
+
+P1	Aabawo khaalekho,  bakhaana bataru baatsya khureenya tsiikhu.
+P2	Antsye aaba abiilile naabi,  kila batsya i luutsi khuusuba. Baryo baasuba nga benyaha,  nga behanyakila kameetsi.
+P3	Baatsya khukhebulila nga antsye abukabukana. Beeyunakho khuukobolayo ingo.
+P4	Nga bali aambi khukhwoola ingo,  Namutosi weyabaaba mu milo mweewe. Wenyoola nga webiliile kumukufu kweewe. Aryo wekoontselela basheewe ari,  "Ni munjeete khukoboleyo." Ne basaale beewe baaloma bari antsye bwelabuule naabi.
+P5	Aryo Namutosi waakobolayo iluutsi yenyene. Waanyoola kumukuufu kweewe,  kila akyeendaka khaangu khuukobolayo ingo. Ne wakoraana khu lwe shishiilima.
+P6	Iburaangisikho waabonayo kumulilo kumulikha nga kwaamila mu ntsu. Waakyendaka khaangu woolayo,  waakhoonyaka khu lwiitsi.
+P7	Shamwiyaangisa khuubona nga imbwa niyo iyamwiikulilawo lulwiitsi,  yaamureeba iri,  "Ukana shiina?" Namutosi waakilamo ari,  "Naatibile,  ari imeentsa shiifwo e khuukona." Imbwa yaamwiilamo iri,  "Ingila mukari,  noola ta,  ikhuluma. Aryo Namutosi wenjila mu ntsu."
+P8	Lwanyuma imbwa yaamuloma iri,  "Indeekhele biilyo." Namutosi weelamo ari,  "Ise mbakhuteekhatsakilakho imbwa biilyo ta. Imbwa yaamuloma iri,  "Teekha,  noola ta,  inakhuluma!" Aryo Namutosi wamaaya waakiteekhela biilyo."
+P9	Imbwa yeelakho yaamuloma iri,  "Intsalile buulili." Namutosi waaloma ari,  "Ne ise nakhwaalatsakilakho imbwa buulili ta." Imbwa nayo yaamurisaka iri,  "Yaala buulili,  noola ta,  inakhuluma." Aryo Namutosi waala buulili.
+P10	Buli busheele,  Namutosi aateekhatsaka,  weeya mu ntsu,  luundi wasiingatsakila imbwa. Aabawo lutweela imbwa yaloma Namutosi iri,  "Namutosi,  shaleelo indi khuutsya khukyeniyilakho basaale baase. Ingana weeye intsu,  uteekhe biilyo,  usiinge bibiindu byase,  nga ishiili khukobola ingo ta."
+P11	Lubaluba nga imbwa ilitsiile,  Namutosi waakusa butsuune butaru khu murwe kweewe. Khatweela waakhara mu khuriiri,  khakhaandi waakhara inyuma we lulwiitsi,  ni khakhaandi waakhara mwitaala. Lwanyuma waarandabala tsindimo khuutsya ingo.
+P12	Ne imbwa ni yakobola,  yaheentsa Namutosi. Yalaanga iri,  "Namutosi,  uli waheena?" Khatsuune khakhanyoowa kheelamo khari,  "Ise indi ano mu khuriiri." Khakhaandi nakho khari,  "Ise indi inyuma we lulwiitsi." Khe khataru nakho khari,  "Ise indi ano mwiitaala."
+P13	Khaangukho,  imbwa yaamanya iri Namutosi waakiwomeele. Iryo yaarakho tsindimo yaatima,  yaloonda luukyele paka mu shaalo. Ne basaani ba Namutosi baaba nga baakibuliile ni tsisoonyi. Imbwa yashuukha,  yenyukhilamo yaatima yeelayo. Ni khukhwoolesa ari sibakibonatsakakho luundi ta.
+
+images:
+
+illustrations/pages/1196.png
+illustrations/pages/1197.png
+illustrations/pages/1198.png
+illustrations/pages/1196.png
+illustrations/pages/1199.png
+illustrations/pages/1200.png
+illustrations/pages/1201.png
+illustrations/pages/1202.png
+illustrations/pages/1203.png
+illustrations/pages/1204.png
+illustrations/pages/1207.png
+illustrations/pages/1208.png
+illustrations/pages/1209.png
+illustrations/pages/1210.png
+
+translations:
+
+Aringati (Translation)	Ãlíríkí Ꞌi Ãzíla Drị̃ꞌbị́ Na Kî	id=7532
+Ekegusii (Translation)	Nozibele N’Echitukia Isato	id=3165
+English (Original)	Nozibele and the Three Hairs	id=1880
+English (Translation)	Anna and the Three Hairs	id=7903
+isiXhosa (Translation)	Unozibele Namanwele Amathathu	id=6711
+isiZulu (Translation)	Unozibele Kanye Nezinwele Ezintathu	id=3896
+Kikamba (Translation)	Nonzimbele Na Nzwĩĩ Itatũ	id=3164
+Kiswahili (Translation)	Nozibele Na Nywele Tatu	id=3159
+Luganda (Translation)	Nakku N’Enviiri Essatu	id=3167
+Lugbarati (Translation)	Candiru Pi Dri`bi Ifi Na `diyi Be	id=3894
+Lugbarati (Official) (Translation)	Candiru Pi Dri'biifi Na ‘Diyi Be	id=8799
+Lunyole (Translation)	Nanjoosi N’Efiiri Edatu	id=3890
+Maa (Translation)	Nozibele Ó Ilpápít Okúni	id=3163
+Oluwanga (Translation)	Prisca Nende Obushinga Butaru	id=3162
+Oluwanga (Adaptation)	Prisca Nende Obushinga Butaru	id=19596
+Sepedi (Translation)	Nozibele Le Meriri E Meraro	id=3169
+Sesotho (Lesotho) (Translation)	Ts'oanelo Le Ntja Ea Nkoapo.	id=6710
+Sesotho (Lesotho) (Translation)	Nozibele Le Qobo Tse Tharo	id=10368
+Setswana (Translation)	Nozibele Le Meriri E Meraro	id=3168

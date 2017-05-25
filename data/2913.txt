@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2913&d=0&a=1
+id:	2913
+title:	Chibarwa
+author:	Joseph Saka
+artist:	Cathy Feek
+lang:	Lubukusu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2913.png
+desc:	This story is about a little girl who is ill and has to stay away from school.  Letters are an important form of communication while she is off sick.
+
+page_text:
+
+P1	Lichonekha nanyolile chibarwa chingali.
+P2	Olwabarasa omusilihi wase kaandikile omwalimu wase ebarwa.
+P3	Wamakina alikho aluala. Harama engo.
+P4	Mu mulimo kibili nanyolile ebarwa khukhwama mukilasi yase.
+P5	Sosa bwangu Wamakina!
+P6	Lwakhataru nanyolile ebarwa khukhwama wo musale wange wo kumwoyo.
+P7	Nakhuchorera ewe sifwanani sino. Busime khukhwama khu Wandanje.
+P8	Lwokhune nanyolile ebwarwa khukhwama khu mayi wase.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

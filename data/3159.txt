@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=3159&d=0&a=1
+id:	3159
+title:	Nozibele Na Nywele Tatu
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3159.png
+desc:	Wasichana watatu wanakusanya kuni siku moja iliyo na joto.  Wanapokuwa njiani kurudi nymbani
+
+page_text:
+
+P1	Hapo zamani za kale,  wasichana watatu walienda kutafuta kuni.
+P2	Ilikuwa siku yenye joto kwa hivyo walienda mtoni kuogelea. Walicheza wakirushiania maji na kuogelea.
+P3	Ghafla,  waligundua kuwa saa zilikuwa zimeenda. Waliharakisha kurudi kijijini.
+P4	Walipokuwa karibu nyumbani,  Nozibele aliweka mkono wake shingoni. Alikuwa amesahau mkufu wake! "Tafadhali rudini nami!" aliwasihi marafiki zake. Lakini,  marafiki zake walisema kwamba saa zilikuwa zimeenda sana.
+P5	Kwa hivyo Nozibele alirudi mtoni pekee yake. Aliupata mkufu wake na kuharakisha kurudi nyumbani. Lakini,  alipotea gizani.
+P6	Kwa umbali aliona mwangaza ukitokezea chumbani. Aliharakisha kuelekea chumba hicho na kubisha hodi mlangoni.
+P7	La kushangaza ni kuwa mbwa ndiye aliufungua mlango na kusema,  "Unataka nini?" "Nimepotea,  nahitaji mahali pa kulala," Nozibele alisema. "Ingia ndani,  au nikuume!" mbwa akajibu. Nozibele aliingia.
+P8	Kisha mbwa akasema,  "Nipikie chakula!" "Lakini sijawahi kumpikia mbwa chakula," Nozibele aljibu. "Pika,  au nikuume!" mbwa akasema. Nozibele alimpikia mbwa chakula.
+P9	Kisha mbwa akasema,  "Nitayarishie kitanda." Nozibele akajibu,  "Sijawahi kumtayarishia mbwa kitanda." "Tayarisha au nikuume!" mbwa alisema. Nozibele alitayarisha kitanda.
+P10	Alitakiwa kumpikia,  kumfagilia na kumwoshea mbwa kila siku. Kisha siku moja mbwa alisema,  "Nozibele,  leo nalazimika kuwatembelea marafiki zangu. Fagia nyumba,  pika chakula na uoshe vitu vyangu kabla sijarudi."
+P11	Mbwa alipoenda tu,  Nozibele alichukuwa nywele tatu kutoka kichwa chake. Aliweka mmoja mvunguni mwa kitanda,  mwingine nyuma ya mlango,  na mwingine ndani ya boma. Kisha alikimbia kwenda nyumbani haraka alivyoweza.
+P12	Mbwa aliporudi,  alimtafuta Nozibele. "Nozibele,  uko wapi?" aliita kwa sauti. "Niko hapa,  mvunguni mwa kitanda," unywele wa kwanza ulisema. "Niko hapa,  nyuma ya mlango," unywele wa pili ukasema. "Niko hapa,  ndani ya boma," ukasema unywele wa tatu.
+P13	Papo hapo mbwa alifahamu kuwa Nozibele alikuwa amemdanganya. Kwa hivyo alikimbia moja kwa moja hadi kijijini. Lakini,  ndugu zake Nozibele walikuwa wamemsubiri kwa fimbo kubwa. Mbwa aligeuka na kukimbia na hadi leo,  hajawahi kuonekana tena.
+
+images:
+
+illustrations/pages/1196.png
+illustrations/pages/1197.png
+illustrations/pages/1198.png
+illustrations/pages/1196.png
+illustrations/pages/1199.png
+illustrations/pages/1200.png
+illustrations/pages/1201.png
+illustrations/pages/1202.png
+illustrations/pages/1203.png
+illustrations/pages/1204.png
+illustrations/pages/1207.png
+illustrations/pages/1208.png
+illustrations/pages/1209.png
+illustrations/pages/1210.png
+
+translations:
+
+Aringati (Translation)	Ãlíríkí Ꞌi Ãzíla Drị̃ꞌbị́ Na Kî	id=7532
+Ekegusii (Translation)	Nozibele N’Echitukia Isato	id=3165
+English (Original)	Nozibele and the Three Hairs	id=1880
+English (Translation)	Anna and the Three Hairs	id=7903
+isiXhosa (Translation)	Unozibele Namanwele Amathathu	id=6711
+isiZulu (Translation)	Unozibele Kanye Nezinwele Ezintathu	id=3896
+Kikamba (Translation)	Nonzimbele Na Nzwĩĩ Itatũ	id=3164
+Luganda (Translation)	Nakku N’Enviiri Essatu	id=3167
+Lugbarati (Translation)	Candiru Pi Dri`bi Ifi Na `diyi Be	id=3894
+Lugbarati (Official) (Translation)	Candiru Pi Dri'biifi Na ‘Diyi Be	id=8799
+Lumasaaba (Translation)	Namutosi Ni Butsuune Butaru	id=3892
+Lunyole (Translation)	Nanjoosi N’Efiiri Edatu	id=3890
+Maa (Translation)	Nozibele Ó Ilpápít Okúni	id=3163
+Oluwanga (Translation)	Prisca Nende Obushinga Butaru	id=3162
+Oluwanga (Adaptation)	Prisca Nende Obushinga Butaru	id=19596
+Sepedi (Translation)	Nozibele Le Meriri E Meraro	id=3169
+Sesotho (Lesotho) (Translation)	Ts'oanelo Le Ntja Ea Nkoapo.	id=6710
+Sesotho (Lesotho) (Translation)	Nozibele Le Qobo Tse Tharo	id=10368
+Setswana (Translation)	Nozibele Le Meriri E Meraro	id=3168

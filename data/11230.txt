@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=11230&d=0&a=1
+id:	11230
+title:	Inkomo Enephondo Elilodwa
+author:	Nomathamsanqa Ngwenya
+artist:	Marion Drew
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11230.png
+desc:	Le ndaba ikhuluma ngenkomo enhle
+
+page_text:
+
+P1	Heeeee! Kukhona inkomo enhle ekhaya.
+P2	Ayinawo umsila futhi inephondo elilodwa. Ibukeke iyinhle kakhulu.
+P3	Ikhuluphele,  futhi inesisu esikhulu.
+P4	Inamandla kakhulu le nkomo.
+P5	Umelusi wayo uyithanda kakhulu le nkomo. Uyifundise ukuthi ilalele izwi lakhe lodwa.
+P6	Uma umhlambi uya emadlelweni uyodla,  le nkomo idla yodwa.
+P7	Le nkomo iyakwazi ukulwa,  yingakho ezinye izinkomo ziyiyeke iyodwa.
+P8	Abantu bayayazi le nkomo,  futhi bayayisaba ngoba iyalwa ngalephondo layo elilodwa. Uma ungadibana nenkomo enje,  ungenzani?
+
+images:
+
+illustrations/pages/9612.png
+illustrations/pages/9613.png
+illustrations/pages/9614.png
+illustrations/pages/9615.png
+illustrations/pages/9616.png
+illustrations/pages/9617.png
+illustrations/pages/9618.png
+illustrations/pages/9619.png
+illustrations/pages/9620.png
+
+translations:
+
+Afaan Oromo (Translation)	Sa'aa Gaafa Tokko Qabdu	id=12959
+Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
+English (Translation)	Cow With One Horn	id=9622
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Kiswahili (Translation)	Ng'ombe Mwenye Pembe Moja	id=15712
+Lámnsoʼ (Translation)	Nàʼ Wo Wù Kér Loŋ E Mòʼón	id=15065
+Lunyole (Translation)	Eŋombe Ey’Olwiga Lulala	id=11906
+Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
+Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
+Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
+Sesotho (Lesotho) (Original)	Khomo E Bokopa	id=9621
+siSwati (Translation)	Inkhomo Leneluphondvo Lunye	id=13076

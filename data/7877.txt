@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=7877&d=0&a=1
+id:	7877
+title:	Ndogo Sana, Kubwa Sana
+author:	Brigid Simiyu
+artist:	Sandy Lightly
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7877.png
+desc:	Nguo zote za Lebo ni ndogo mno kwake. Atazifanyaje?
+
+page_text:
+
+P1	"Mama," Nelima aliita. "Njoo uone. Nguo hizi zote ni ndogo kwangu!" "Hebu nizione," Mama alisema.
+P2	"Hebu angalia hii sketi yangu. Ni ndogo mno." Nelima alisema. "Ni kweli," Mama alikubali. "Lakini,  Sela anaweza kuitumia sketi yako."
+P3	"Tazama suruali yangu. Ni ndogo sana." Nelima alisema. "Kweli,  suruali hii ni ndogo sana." Mama alijibu. "Sela anaweza kuitumia suruali yako pia."
+P4	"Mama,  angalia fulana yangu. Ni ndogo sana." Nelima alisema. "Ni kweli." Mama alikubaliana naye. "Sela anaweza kuichukuwa fulana yako."
+P5	"Angalia sweta yangu. Ni ndogo sana." Nelima alisema. "Ndiyo,  ni ndogo." Mama alijibu. "Sela anaweza kuichukuwa sweta yako."
+P6	"Angalia koti langu la mvua. Ni dogo sana." Nelima alisema. "Kweli,  ni dogo." Mama alisema. "Sela anaweza kulichukuwa koti lako la mvua."
+P7	"Angalia soksi zangu. Ni ndogo sana." Nelima akasema. "Kweli,  ni ndogo." Mama alijibu. "Sela anaweza kuzichukuwa soksi zako."
+P8	"Angalia viatu vyangu. Ni vidogo mno." Nelima alisema. "Ni kweli." Mama akajibu. "Sela anaweza kuvichukuwa viatu vyako."
+P9	"Sasa umepata nguo nyingi,  sana." Nelima akamwambia Sela. "La! Hasha!" Sela akajibu. "Hizi nguo zote ni kubwa sana kwangu!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te Klein	id=11428
+English (Original)	Too Small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani Khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane Izimpahla Zami	id=2504
+Luganda (Translation)	Ntono Nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Bibombi Naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ga Di Ntekane	id=2509
+Sesotho (Lesotho) (Translation)	Ha Li Ntekane	id=2512

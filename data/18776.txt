@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=18776&d=0&a=1
+id:	18776
+title:	Ukↄla Ni Gonlgonl
+author:	Abraham Kwesi Bisilki
+artist:	Magriet Brink
+lang:	Likpakpaanl
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18776.png
+desc:	Ukɔla ni gonlgonl kpa kijɔtiik ki bi kpɔk tɔb na. Daalbaadaal libaa liŋuul nan chuu ukɔla waa ler nan pu le u ŋa kijɔrk aawan nibaa.
+
+page_text:
+
+P1	Ukɔla ni gonlgonl nan ye jɔtiib la. Amaa,  bi nan kpak tɔb n-yoon mɔmɔk. Dalbaadaal le bi chuu ke bi gbaa bɔl ki bee u ŋma gbaa bɔl jer uken na.
+P2	Bi nan buen baa gba bɔl nin chee le ki piin ki bi gbaa. Ukɔla nan gbaa mala,  amaa gonlgonl nan gbaa mala pam. Ukɔla lee bɔl buen dandar,  amaa gonlgonl nan lee buen dandar jer nima. Liŋuul nan gur bi chor ukɔla la.
+P3	Bi nan chuu ke bi gbaa penaati mam. Gonlgonl le nan puen kiir njan. Ukɔla nan jin libil libaa baanja la. Le ni ŋeer ke ukɔla mu kiir libil.
+P4	Golngoln nan faa bɔl le ke jin. Golgoln nan di bↄl miln le ke jin. Golngoln nan di uyil saa bↄl le ke jin. Golngoln nan jin ŋibil ŋiŋmu.
+P5	Liŋuul nan chuu ukɔla ke waa nan jin. Waa nan nyi ngbiir. Gonlgonl nan piin ki bi laa,  ujɔ aa nan bi ŋulni ni na pu.
+P6	Liŋuul nan chuu ukɔla ti nyaŋ le u waar umɔb le ki di gonlgonl nab.
+P7	Ukɔla aa nan chuun cha kun na,  u nan ton gonlgonl aana. Gonlgonl aana nan baa,  "Aa kan maa bo oo?" Ukɔla aa nan len tibaa. Ni nan muk gonlgonl aana pam.
+P8	N-yoon gbaan le gonlgonl aana ŋun nneel waatiir mubaa. "M na gaa mi lii!" nneel gbaan nan wii. Gonlgonl aana nan lik manlgonl le ki pel mbaamɔm. Nneel gbaan nan nyann ni ukɔla ni la.
+P9	Gonlgonl aana nan teen,  "Ma bo di saa puan na tun lituln!" Gonlgonltiib ga ŋmaa nuŋ le ki li to. Ukɔla aa ponn ni nan piin ki sukr.
+P10	Ukɔla nan bii. Le ki nab le ki tii. Le u chiin le ki koe,  le ki koe. Gonlgonl gbaan nan to sakpen.
+P11	Ukɔla nan koe ki ti saa buyoonn u koe ki wunl nyan ni gonlgonl u nan bi u ponn ni na. Gonlgonl aana ni waa bo nan baar jɔn busub bi ti bɔr.
+P12	Ki nya ni n-yoonn gbaan na,  ikɔla ni gonlgonl mam kpanl bidim.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
+Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+ChiTonga (Translation)	Nkuku, Joongola	id=18643
+CiNyanja (Translation)	Nkuku Na Bongololo	id=18661
+English (Translation)	Chicken and Millipede	id=9094
+French (Translation)	La Poule Et Le Millepatte	id=9959
+French (Translation)	Poulet Et Mille-Pattes	id=10145
+Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
+Gurene (Translation)	Nͻbila La Katagune	id=12663
+Hausa (Translation)	Kaza Da	id=9977
+isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
+isiXhosa (Translation)	Unkukhu  Nosongololo	id=17517
+isiZulu (Translation)	Unkukhu Noshongololo	id=13535
+isiZulu (Adaptation)	Unkukhu Noshongololo	id=17452
+Kanuri (Translation)	Kuwui-a Dǝngaɍi-A	id=10039
+Kinyarwanda (Translation)	Inkoko Na Magurijana	id=17457
+Lámnsoʼ (Translation)	Ŋgvəv Wun Ŋgom	id=16444
+Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
+Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
+Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Portuguese (Translation)	O Frango E O Gongolo	id=16099
+Portuguese (Translation)	Galinha E Milípede	id=16477
+Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
+Sepedi (Translation)	Chicken and Millipede	id=11485
+Sepedi (Translation)	Kgogo Le Legokolodi	id=12410
+Sesotho (S.Africa) (Translation)	Kgoho Le Lefokolodi	id=14434
+Setswana (Translation)	Koko Le Sebokolodi	id=13973
+SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
+siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Tshivenda (Translation)	Khuhu Na Dongololo	id=14731
+Xitsonga (Translation)	Huku Na Khongoloti	id=14408
+Zarma (Translation)	Gorŋo-Ɲa Nda Konjanje	id=10103

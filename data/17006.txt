@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=17006&d=0&a=1
+id:	17006
+title:	Abayizzi B'ebinyonyi
+author:	Ritah Katetemera
+artist:	Wiehan de Jager, Marion Drew, Marleen Visser, Emily Berg, Magriet Brink and Rob Owen
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17006.png
+desc:	Olugero luno lukwata ku baana abekweka nebagaana okugenda kussomero nebagenda mu kibira okuyigga ebinyonyi.
+
+page_text:
+
+P1	Edda ennyo,  waliyo abalenzi basatu n, omuwala omu. Babeera nga kukyalo ekimu ekiyitibwa Nakwiga.
+P2	Basomeranga kussomero eriyitibwa Bosolwe Glory of God Primary school.
+P3	Bwebaabanga bagenda kussomero,  bawuliranga  ebinyonyi nga  biyimba.
+P4	Olunaku lumu,  abalenzi abasatu n'omuwala omu,  basalawo okwekweka nebagaana okugenda kussomero nebagenda mukibira ekiriranye ne bayigga.
+P5	Ekinyonyi kyatandika okuyimba bwekiti: Ompita mubi,  Siri mubi x4.
+P6	Ndi mulungi,  naye bwoba olowooza nti ndimubi,  kunkomerero njakuba mubi nnyo. Abaana bakwata ekinyonyi ekyo nebagenda nakyo eka.
+P7	Bwebatuuka eka nebakibaaga ne bakirya.
+P8	Olunaku olwaddako,  bonna nebafa. Kubanga balya ennyama ey'obutwa.
+
+images:
+
+illustrations/pages/9193.png
+illustrations/pages/7961.png
+illustrations/pages/9192.png
+illustrations/pages/9594.png
+illustrations/pages/6731.png
+illustrations/pages/7572.png
+illustrations/pages/8549.png
+illustrations/pages/8555.png
+illustrations/pages/8162.png
+
+translations:
+
+English (Original)	Bird Hunters	id=9934

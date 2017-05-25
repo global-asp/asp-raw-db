@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=11465&d=0&a=1
+id:	11465
+title:	Lion That Wanted Friendship
+author:	Keamogetse Letau
+artist:	Marleen Visser
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11465.png
+desc:	Tau e ne e batla botsalano le monna mme ba feleletsa e le ditsala
+
+page_text:
+
+P1	Ka letsatsi lengwe. Tau e ne e batla go tswa mo sekgweng e eletsa go nna le tsala e eleng motho.
+P2	Ka jalo tau le Monna ya nna ditsala.
+P3	Baja mmogo ebile ba nathogana nama,  Mme tau ya lemoga gore monna o rata nama. Ya simolla go boifa gore monna o tla e bolaya.
+P4	Tau ya boifa gore gongwe monna o tla e tlhaba ka lerumo la gagwe,  Monna le ena o ne a boifa gore tau e tla mo ja a robetse mo mpeng ya bosigo.
+P5	Bosigo bongwe monna a lora tau e mo atumela ka bonya,  e leka go mo ja.
+P6	Monna a tsa lerumo la gagwe,  a gwelleditse: "Ge e le gore o batla go nja ke tla go tlhaba ka lerumo le la ka." Tau ya tsoga ya tshaba. Ya bua ere: "Ke rile ka letsatsi lelengwe monna yo o tla mpolaya."
+P7	Go tloga ka lona letsatsi leo,  tau le monna ya se tlhole e na ditsala. Tau e tlo bolaya motho ge e kopana le ena. Mme le batho le bona ba tla bolaya ditau fa go kgonega.
+
+images:
+
+illustrations/pages/7341.png
+illustrations/pages/7340.png
+illustrations/pages/7341.png
+illustrations/pages/7343.png
+illustrations/pages/7347.png
+illustrations/pages/7345.png
+illustrations/pages/7344.png
+illustrations/pages/7349.png
+
+translations:
+
+Afrikaans (Translation)	Die Leeu Wat Vrienskap Wou Hê	id=11304
+Dhopadhola (Translation)	Simbwor Odwaro Mere	id=19483
+English (Original)	Lion That Wanted Friendship	id=7368
+English (Translation)	Lion That Wanted Friendship	id=11340
+French (Translation)	Le Lion Qui Voulait Un Ami	id=12677
+Ng’aturkana (Adaptation)	Eng'atuny Lokaelon	id=13289
+Portuguese (Translation)	O Leão Que Queria Amizade	id=16723

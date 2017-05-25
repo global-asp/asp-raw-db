@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=2230&d=0&a=1
+id:	2230
+title:	Ibio Pi Ondoa Be
+author:	Doris Maandebo
+artist:	Wiehan de Jager
+lang:	Lugbarati
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2230.png
+desc:	The sky god decides to  give Anansi the spider  a pot of wisdom. He is so excited by all he learns from looking into it that he wants to hide it in a tree so that he can keep it all to himself. Unfortunately for him (but fortunately for the people of the world)
+
+page_text:
+
+P1	Ndra drio risi 'ba azini ni ni ndra e'yo aluni ku. 'Ba azi ni ni ndra ori saza ni ya,  kani bongo soza ni ya,  kani ata cumacuma edeza ni yaani aluni ku. Te ondoa dria ndra mungu mungua a'a pi 'bua iriti alea ri vu. Mba ndra ondoa ma ta kilili emvua alea.
+P2	O'du alu mungu mungua 'da ega e'yo emvua ondoa be ri fezu Ibio dri. O'du dria Ibio ka angu ne emvua 'nde ma alea 'bo eri e'yo azi o'di ni oni te. E'yo 'da ndri di Ibio ni fudri ci.
+P3	Ibio endra be tu ri e'do e'yo ega kini,  "ma nga emvua 'di ma ta mba kilili pati ezu ni ma sia 'bua 'dale. Eri nga di ovu pi mani a'dule. Ede di wizi izu ra,  tra eri emvua 'da ma rua kurumu,  ombe di eri ima alea. E'do di tu pati sia. Te pati tuza emvu be alea ri eca erini ewa ewa. Emvua ri eri kumuti ogba ogba."
+P4	Ibio ni ri ria dri ci ria 'dile,  eri ma mvi gaa ri so de pa pati etia,  ri ima ati ni ne. Nga 'yo ima ati ni kini,  "Cika te mini emvua 'di ombezu mi ma ngukua ka mini tuzu ndo kuya?" Ibio o'bi di emvua nde oti ima ngukua ra,  nga di pati tuza esu ewa kokoru.
+P5	Ca di pati sia 'bua lilia'daa mbele ru. Te e'do e'yo ega kini, "Ma ta ce mbele ni ovu ondoa dria be ma 'i ya ri,  te ma mvi ni 'di mani ondoru nde ni 'doo!" Awoko nya Ibio ni e'yo 'disi ra e'be emvua 'da pati sia ri si vaa.
+P6	Emvua nde andi 'i kpelekpele. Ondoa nga di 'i ere'ba dria yi vu. 'Ba dria oni di amvu 'yazu,  bongo sozu,  cumacuma yi edezu,  azi ndundu 'bayini ngale doria ra 'diyi yezu.
+
+images:
+
+illustrations/pages/1273.png
+illustrations/pages/1274.png
+illustrations/pages/1275.png
+illustrations/pages/1276.png
+illustrations/pages/1277.png
+illustrations/pages/1278.png
+illustrations/pages/1279.png
+
+translations:
+
+Ekegusii (Translation)	Anansi N’Obong’Aini	id=2232
+English (Original)	Anansi and Wisdom	id=1938
+Kikamba (Translation)	Ananzi Na Ũĩ	id=2233
+Kiswahili (Translation)	Anansi Na Hekima	id=2234
+Lugbarati (Official) (Translation)	Èbìó Pɨ Òndʉ̀á Be	id=8775
+Lumasaaba (Translation)	Manaasi Ni Kamakhula	id=3006
+Maa (Translation)	Anansi Ó Eng'énó	id=2732
+Ng’aturkana (Translation)	Anansi Ka Aosou	id=2235
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=2256
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=8677
+Spanish (Translation)	Anansi Y La Sabiduría	id=14407

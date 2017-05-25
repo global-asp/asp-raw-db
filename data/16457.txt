@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=16457&d=0&a=1
+id:	16457
+title:	Tcgãyas Áís Koe Ko Síí Sa
+author:	Naro Language Project
+artist:	Catherine Groenewald
+lang:	Naro
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16457.png
+desc:	A mother is going to hospital to give birth and her daughter writes her a letter.
+
+page_text:
+
+P1	Mother was finishing packing her clothes in a small bag. Aí sa ko gaas di qgáían dtcobe-coas koe tcana xg'ara.
+P2	As she went out the door,  she hugged me and said,  "Bye for now."Eẽs ko nquu-kg'm koe tcg'oa kas ko xgabe te,  a sa a máá: "Qãèse qaù," témé.
+P3	"Where are you going,  mum?" I looked up at her as I asked. Ra ghùikg'ai kose tẽe si a máá: "Aíè,  nda sia ko qõò," témé.
+P4	I started to cry wanting to follow her but dad lifted me up on his shoulder. Ra kò tshoa-tshoa a kg'ae,  còo si kgoanar hãa khama,  igabagam Papa ba ghùi te,  a quu te.
+P5	Dad said,  "Your mother is going to the hospital to have a baby."
+P6	When I heard "baby" I stopped crying and looked at him. "Why is she going to get the baby from the hospital?" I asked him.
+P7	Dad sat me on a small chair and said,  "I will tell you why she is going to get the baby from the hospital."
+P8	My dad held me close and said,  "We will always love you."
+P9	"Can I write a letter to her while she is there?" I asked dad.
+P10	That evening,  I began to write a letter to mum.
+P11	I tore a paper from my exercise book and began to write.
+P12	"Mummy,  mummy,  dad said that you have gone to bring another baby."
+P13	Please hurry up and return home.
+P14	I want you to bring a baby girl,  so I can play with her when she grows up.
+P15	You can bring two so one can be mine.
+P16	I am waiting for you here outside our house.
+P17	I folded my letter so I could give it to my father to bring it to mum. When I woke up the following morning,  the letter was gone.
+
+images:
+
+illustrations/pages/1503.png
+illustrations/pages/1504.png
+illustrations/pages/1505.png
+illustrations/pages/1506.png
+illustrations/pages/1507.png
+illustrations/pages/1508.png
+illustrations/pages/2133.png
+illustrations/pages/1509.png
+illustrations/pages/1510.png
+illustrations/pages/1511.png
+illustrations/pages/1512.png
+illustrations/pages/1513.png
+illustrations/pages/1514.png
+illustrations/pages/1503.png
+illustrations/pages/1515.png
+illustrations/pages/1516.png
+illustrations/pages/1517.png
+illustrations/pages/1518.png
+
+translations:
+
+Afrikaans (Translation)	'n Briefie Vir Mamma	id=11343
+Afrikaans (Translation)	Brief Aan Ma	id=11350
+English (Original)	Letter to Mum	id=2134
+isiZulu (Translation)	Incwadi Kamama	id=11513
+Kiswahili (Translation)	Barua Kwa Mama	id=2526

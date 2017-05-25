@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=18188&d=0&a=1
+id:	18188
+title:	التمساح الجائع
+author:	Hanadi Traifeh
+artist:	Wiehan de Jager
+lang:	Arabic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18188.png
+desc:	The hungry crocodile creeps through the water...
+
+page_text:
+
+P1	في يوم من الأيام، كان هنالك تمساح جائع
+P2	كان يبحث عن الطعام ببطء وهدوء
+P3	!طجججج! قفز التمساح.
+P4	لم يعد التمساح جائعاً بعد ذلك بل أصبح سعيداً
+P5	إلى أن يجوع مرة أخرى
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Afrikaans (Translation)	Die Honger Krokodil	id=11063
+English (Original)	The Hungry Crocodile	id=7043
+French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
+Luganda (Translation)	Ggonya Omuyala.	id=9664
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
+Portuguese (Translation)	O Crocodilo Faminto	id=18889

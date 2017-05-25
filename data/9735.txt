@@ -1,0 +1,29 @@
+url:	http://africanstorybook.org/reader.php?id=9735&d=0&a=1
+id:	9735
+title:	Different Plays
+author:	Ajarubo Philiam
+artist:	Mlungisi Dlamini, Kathy Arbuckle and Vusi Malindi
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9735.png
+desc:	Pictures of different types of playing
+
+page_text:
+
+P1	Skipping.
+P2	Running.
+P3	Kicking the ball.
+P4	Jumping.
+
+images:
+
+illustrations/pages/7970.png
+illustrations/pages/1627.png
+illustrations/pages/1623.png
+illustrations/pages/1622.png
+illustrations/pages/1624.png
+
+translations:
+
+Lugbarati (Translation)	Avitaa Ndu Ndu Diyi	id=9758

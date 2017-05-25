@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=10553&d=0&a=1
+id:	10553
+title:	Omwesuuso Gwa Keke
+author:	Rhodah Kangume and Gideon Sunday
+artist:	Marion Drew
+lang:	Rutooro
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10553.png
+desc:	Keke nayesuusa hamwesuuso gwe omurungi oguyatiinire kumuhikya ha kwezi.
+
+page_text:
+
+P1	Keke akaikarra hamwesuuso gwe. Oguyagonzaaga muno. Haisomero lye.
+P2	Keke ya yesuusaga mpora. Amanyuma n'omumaiso amanyuma n'omumaiso. Keke obuyayesuusaga omwesuuso nigweyongera kurahuka. Mukasumi akeke akasanga ali haiguru muno.
+P3	Keke obuyarozire hansi. Akasanga ali haiguru mumasonsolya. Yayeta bagenzi be ngu mundole haiguru nambere ndi!
+P4	Akaba aine omuhimbo kuba haiguru muno. Akaba nasobora kurora ekyaro kyona.
+P5	Haka hwaho obwire bwingi,  Keke akagonza kusimburruka. Baitu omwesuuso gutaleke kwehuuba. Haigura akeeta,  "Mau! Mau! Tinkusobora kuleka omwesuuso nyenka."
+P6	Omwesuuso gukagumizaamu nigwesuusa. Haiguru. Keke yagira obutiini bwingi. Omwesuuso nambere buramuhikya. Akarra obundi gumpikya haiguru hakwezi. Akacwamu kuguguru kayo.
+P7	Obuyateekerriize ekyo akalekera omwesuuso. Yagwa hansi.
+P8	Abaana bakateera enduuru mau! Mau! Keke yagwa hansi. Yayata omutwe. Keke akarra Ai! Ai! Ai! Bataahi boona. Bakwatwa obuganyi.
+P9	Keke atamanye kyokukora. Ya gumizaamu narra nukwo. Bataahibe kwiruka kweta omusomesa. Omukyara nyakaisiki no butiini obwingi. Keke kwoku agurukire ha mwesuuso ya hutaara omutwe.
+P10	Omukyara Nyakaisiki akegenda hamwesuuso. Yaiha keke hansi.
+P11	Yamunywegera hamutwe. Keke akamwegerra yagamba ndoho mpora. Tindukwongera kwesuusa nyenka. Tinkagendaga ha kwezi.
+P12	Omkyara Nyakaisiki yamunihiza omurundi ogundi kwe'esuusa nawe. Nukwo omwesuuso obugulihika ha kwezi bagenda boombi.
+
+images:
+
+illustrations/pages/9324.png
+illustrations/pages/9319.png
+illustrations/pages/9320.png
+illustrations/pages/9321.png
+illustrations/pages/9322.png
+illustrations/pages/9323.png
+illustrations/pages/9324.png
+illustrations/pages/9325.png
+illustrations/pages/9326.png
+illustrations/pages/9327.png
+illustrations/pages/9328.png
+illustrations/pages/9329.png
+illustrations/pages/9330.png
+
+translations:
+
+Afrikaans (Adaptation)	Keke Se Swaai	id=10535
+English (Translation)	Keke's Swing	id=9792
+French (Translation)	La Balançoire De Kéké	id=10844
+Portuguese (Translation)	O Baloiço Da Keke	id=16655
+Sesotho (Lesotho) (Original)	Senkokomaile Sa Keke	id=9790
+Sesotho (Lesotho) (Translation)	Keke's Swing	id=11423

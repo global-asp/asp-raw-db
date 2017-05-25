@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=18855&d=0&a=1
+id:	18855
+title:	Castigo
+author:	Translators without Borders and Nádia Morais
+artist:	Melany Pietersen
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18855.png
+desc:	Como se castiga um rapaz ganancioso que comeu demasiada fruta?
+
+page_text:
+
+P1	Um dia,  a mamã trouxe imensa fruta.
+P2	"Quando podemos comer alguma fruta," perguntámos. "Vamos comer fruta esta noite," disse a mamã.
+P3	O meu irmão Rahim é ganancioso. Provou a fruta toda e comeu muita fruta.
+P4	"Vejam o que o Rahim fez",  gritou o meu irmão mais novo. "O Rahim é malandro e egoísta," disse eu.
+P5	A mamã ficou zangada com o Rahim.
+P6	Nós também ficámos zangados com o Rahim. Mas o Rahim não ficou arrependido.
+P7	"Não vais castigar o Rahim?"  disse o irmão mais novo.
+P8	"Rahim,  vais arrepender-te em breve," disse a mamã.
+P9	O Rahim não está a sentir-se muito bem.
+P10	"Dói-me muito a barriga," murmura Rahim.
+P11	A mamã sabia que isto ia acontecer. A fruta está a castigar Rahim!
+P12	Mais tarde,  Rahim pediu-nos desculpa. "Não vou voltar a ser tão ganancioso," prometeu. E nós,  acreditamos.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiNdebele (Translation)	Isijeziso Sakathemba	id=13803
+isiZulu (Adaptation)	Umhobholo	id=13326
+isiZulu (Translation)	Isijeziso	id=15341
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Oluwanga (Translation)	Eshinyasio	id=19592
+siSwati (Translation)	Sijeziso Sabobo	id=13868

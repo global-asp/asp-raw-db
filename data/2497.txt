@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=2497&d=0&a=1
+id:	2497
+title:	Ndavye Oyu ... Utanu Na Kimako
+author:	
+artist:	Rijuta Ghate
+lang:	Kikamba
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2497.png
+desc:	This story talks about what things make us happy and what makes us sad.
+
+page_text:
+
+P1	Niki mwana ukuia?
+P2	Nikwathya ena nzaa.
+P3	Niki kivisi ni kithatu?
+P4	Nikwatya kina mea ma ithe.
+P5	Niki kelitu ni katanu?
+P6	Kena ilinda yeu.
+P7	Niki mutumia mukuu ukutheka?
+P8	Nusomie kindu kya uthekya.
+P9	Niki mundu muka ukukenyeesya itheka?
+P10	Niki mundu muka ukukenyeesya itheka?
+P11	Mundu muka ew'a ata?
+P12	Nikwatya ewa nzoni.
+
+images:
+
+illustrations/pages/1891.png
+illustrations/pages/1892.png
+illustrations/pages/1893.png
+illustrations/pages/1894.png
+illustrations/pages/1895.png
+illustrations/pages/1896.png
+illustrations/pages/1897.png
+illustrations/pages/1898.png
+illustrations/pages/1899.png
+illustrations/pages/1900.png
+illustrations/pages/1901.png
+illustrations/pages/1902.png
+illustrations/pages/1903.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...! Hartseer en Gelukkig	id=11478
+Amharic (Translation)	ደስ ያላችሁና የከፋችሁ አሁኑኑ … ንገሩኝ!	id=13126
+English (Original)	Happy and Sad	id=1904
+English (Adaptation)	Happy and Sad	id=16086
+French (Translation)	Raconte-Moi … Maintenant ! Heureux Et Triste	id=10686
+isiNdebele (Translation)	Tjela Mina … Nje! Ithabo Kanye Nokudana	id=13056
+isiXhosa (Translation)	Ndixelele ... Ngoku! Wonwabile Kwaye Uqumbile	id=2825
+isiZulu (Translation)	Ukujabula Nokuphatheka Kabi	id=2822
+Kiswahili (Translation)	Furaha Na Huzuni	id=2823
+Kiswahili (Adaptation)	Furaha Na Huzuni	id=16199
+Maa (Translation)	Tólikíoki Tenákatá ... Enchipái Ó Enkisinánuo	id=2826
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona! Elakara Nabo Kiyalolong’I	id=2827
+Ng’aturkana (Adaptation)	Elakara Nabo Kiyalolong'l	id=16202
+Oluwanga (Translation)	Mbolera Bulano...obusangafu Nende Eshibeera!	id=2496
+Portuguese (Translation)	Feliz E Triste	id=18887
+Rutooro (Translation)	Ngamgira...hati! Kusemererwa No Kubihirwa	id=14920
+Sepedi (Translation)	Mpotše … Gona Bjale! Lethabo Le Manyami	id=2824
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Thabo Le Hokoata	id=11551

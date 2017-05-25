@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=1968&d=0&a=1
+id:	1968
+title:	Liphi Ikati Lami?
+author:	Clare Verbeek
+artist:	Bronwen Heath
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1968.png
+desc:	Angilitholi ikati lami. Ngicela ungisize ukulibheka.
+
+page_text:
+
+P1	Likuphi ikati lami?
+P2	Kungabe lingaphansi kombhede?
+P3	Kungabe lingaphezu kwekhabethe?
+P4	Kungabe lingemuva kukasofa?
+P5	Kungabe liseduze komgqomo wezibi?
+P6	Kungabe liphakathi kubhasikidi?
+P7	Kungabe lingaphandle?
+P8	Nanti la!
+
+images:
+
+illustrations/pages/1565.png
+illustrations/pages/1565.png
+illustrations/pages/1822.png
+illustrations/pages/1566.png
+illustrations/pages/1567.png
+illustrations/pages/1568.png
+illustrations/pages/1569.png
+illustrations/pages/1570.png
+illustrations/pages/1823.png
+
+translations:
+

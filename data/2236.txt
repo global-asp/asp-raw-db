@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=2236&d=0&a=1
+id:	2236
+title:	Inyanga Ne Kepisi
+author:	Ntombizodwa Gxowa-Dlayedwa
+artist:	Angie & Upesh
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2236.png
+desc:	Nkwenkwana ithile iphiwa ikepisi eluhlaza ngumama wayo. Suke umoya uyivuthuze ikepisi iyokuwela emthini. Ebusuku kuthi gqi omnye umntu enxibe le kepisi
+
+page_text:
+
+P1	Sonke saya kwitheko lorhwebo eDasara.
+P2	Utata wathengela uChintu iindondo ezinomtsalane. Umama wandithengela ikepusi eqaqambileyo eluhlaza. Ubhabha wafumana iilekese.
+P3	Endleleni egodukayo,  umoya omkhulu weza. Wavuthuza,  ikepusi yam yaphaphatheka.
+P4	Ikepusi yam yaxhaseka esebeni lomthi omdala wephayphali.
+P5	Ndalila kakhulu. Kwaye andasitya isidlo sam sangokuhlwa.
+P6	Emva kwexesha ngobo busuku,  inyanga yavela. Yajonga ikepusi yam emthini omdala wePhayphali.
+P7	Yayilinganisa ikepusi yam. Inyanga yancuma ngolonwabo. Ndancuma nam ngokunjalo.
+P8	Ukuphuma kwesikolo ngemini elandelayo,  umama wam wandipha ikepusi ekhazimlayo,  entsha,  ebomvu. "Inyanga iyithumele," watsho.
+P9	Ngobo busuku,  sobabini inyanga nam sathwala iikepusi zethu,  sancuma. Sasonwabile.
+P10	Ucinga ukuba ilanga lifuna umnqwazi?
+P11	Qaqadisa yeyiphi ikepusi endiyithwalayo namhlanje?
+
+images:
+
+illustrations/pages/2137.png
+illustrations/pages/2138.png
+illustrations/pages/2139.png
+illustrations/pages/2141.png
+illustrations/pages/2142.png
+illustrations/pages/2143.png
+illustrations/pages/2144.png
+illustrations/pages/2145.png
+illustrations/pages/2146.png
+illustrations/pages/2147.png
+illustrations/pages/2148.png
+illustrations/pages/2150.png
+
+translations:
+
+Afrikaans (Translation)	Die Maan en Die Keps	id=11151
+English (Original)	The Moon and the Cap	id=2154
+French (Translation)	La Lune Et La Casquette	id=10858
+isiZulu (Translation)	Inyanga Nekepisi	id=2225
+Kiswahili (Translation)	Mwezi Na Kofia	id=2229
+Sepedi (Translation)	Ngwedi Le Kepisi	id=2231
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=2228
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=10365
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=11182
+siSwati (Translation)	Inyanga Nekepisi	id=13044

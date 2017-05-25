@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=8205&d=0&a=1
+id:	8205
+title:	Man and Lion
+author:	Mozambican folktale
+artist:	Hélder de Paz Alexandre
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8205.png
+desc:	How a man escapes from certain death.
+
+page_text:
+
+P1	Once upon a time,  Man was walking in the bush. Suddenly,  he met Lion!
+P2	Lion was resting in the short grass.
+P3	The meeting was so sudden that Man did not know what to do. He was full of fear.
+P4	At first,  Lion was surprised too,  and a little afraid. But there was a low rumble in his stomach,  because he was hungry.
+P5	Man suddenly found himself up a tall tree. He began to shout at Lion.
+P6	Lion lay down under the tree,  waiting for his meal. As time went on,  Lion fell asleep,  or so it seemed.
+P7	Soon Man fell asleep. Then he woke up again. Finally he dozed off and went fast asleep.
+P8	But then he crashed down on the sleeping Lion!
+P9	They both woke up confused and frightened. Lion forgot his meal and ran for his life.
+P10	Man began to run in the same direction as Lion. Then he realized that he was running behind Lion!
+P11	So he changed direction and escaped. He was not eaten by Lion!
+
+images:
+
+illustrations/pages/8180.png
+illustrations/pages/8180.png
+illustrations/pages/8181.png
+illustrations/pages/8182.png
+illustrations/pages/8184.png
+illustrations/pages/8188.png
+illustrations/pages/8189.png
+illustrations/pages/8190.png
+illustrations/pages/8191.png
+illustrations/pages/8192.png
+illustrations/pages/8193.png
+illustrations/pages/8194.png
+
+translations:
+
+English (Adaptation)	Man and Lion - Colouring Book	id=17392
+English (Adaptation)	Manu and the Lion	id=18332
+Kiswahili (Translation)	Mtu Na Simba	id=12689
+Luganda (Translation)	Omusajja N'empologoma.	id=10708
+Portuguese (Translation)	O Homem E O Leão	id=8207
+Xitswa (Translation)	A Wanuna Ni Nghonyamu	id=8729

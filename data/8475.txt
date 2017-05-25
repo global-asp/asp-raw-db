@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=8475&d=0&a=1
+id:	8475
+title:	Marafiki
+author:	Zimbili Dlamini
+artist:	Catherine Groenewald
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8475.png
+desc:	Hii ni hadithi kuhusu vitu ambavyo mtoto anapenda kufanya na marafiki zake.
+
+page_text:
+
+P1	Jina langu ni Simo.
+P2	Nina marifiki wanne.
+P3	Majina yao ni Zizo,  Lele,  Sisa na Ayanda.
+P4	Rafiki yangu Zizo,  hupenda kucheza mpira.
+P5	Rafiki yangu Lele,  hupenda kuogelea.
+P6	Rafiki yangu Sisa,  hupenda kucheza mchezo wa kidalipo.
+P7	Rafiki yangu Ayanda,  hupenda kusoma.
+P8	Mimi hupenda kufanya vyote wanavyopenda kufanya.
+P9	Hucheza mpira na Zizo.
+P10	Huogelea kwenye bwawa na Lele.
+P11	Hucheza mchezo wa kidalipo na Sisa.
+P12	Wewe pia njoo. Wewe pia ni rafiki. Unapenda mchezo gani?
+
+images:
+
+illustrations/pages/8077.png
+illustrations/pages/8076.png
+illustrations/pages/8077.png
+illustrations/pages/8078.png
+illustrations/pages/8079.png
+illustrations/pages/8080.png
+illustrations/pages/8081.png
+illustrations/pages/8082.png
+illustrations/pages/8083.png
+illustrations/pages/8084.png
+illustrations/pages/8086.png
+illustrations/pages/8085.png
+illustrations/pages/8087.png
+
+translations:
+

@@ -1,0 +1,29 @@
+url:	http://africanstorybook.org/reader.php?id=10165&d=0&a=1
+id:	10165
+title:	My Picture Book
+author:	Rose Alungho and Herbert  Haumba
+artist:	Karen Lilje, Catherine Groenewald, Alice Toich, Katrien Coetzer, Wiehan de Jager and Marleen Visser
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10165.png
+desc:	Ahatabo hanghambagana  hu bi fanani
+
+page_text:
+
+P1	Omuhana.
+P2	Enyuni.
+P3	Epologoma.
+P4	Epuusi.
+
+images:
+
+illustrations/pages/8072.png
+illustrations/pages/9567.png
+illustrations/pages/9223.png
+illustrations/pages/9515.png
+illustrations/pages/8866.png
+
+translations:
+
+Tunisian (Translation)	Ktèb It-Tṡàwir Mtèġi	id=15277

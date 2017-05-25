@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=9775&d=0&a=1
+id:	9775
+title:	Doli Na Manyinge Azizi
+author:	Nyadhi Eric Juma
+artist:	Natalie Propa
+lang:	Dholuo
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9775.png
+desc:	Nyathi mawinjo maber ka orito doli mare.   To kendo doli ne no osiko ka omor.
+
+page_text:
+
+P1	Maniendi en Azizi. Azizi en doli mara.
+P2	Ahere kinde duko nimar kinde duko osiko ka obunjo.
+P3	Bang' ka achiweo,  alwoko wang'a bang'e amanyo. Kama Azizi nitiere.
+P4	Banye ka ayude,  aywoyone wiye.
+P5	Sama ametho,  ko ametho kanyakla,  kod Azizi.
+P6	Kata sama achamo nyami bilie,  ko amiye moro.
+P7	To kata kamano,  en ok ocham mare. Kendo mano kawa kod wuoro!
+P8	Samoro awuotho e aluora ka apono maua.
+P9	Bang'e amiye,  kata kamano,  ok ogo,  "Erokamano."
+P10	Alwoko Azizi maer ahinya kapok mamana olwoka.
+P11	Bang'e arwake nanga makwar mimar ahero range makwar.
+P12	Bang'e ka adhi nindo,  adhi kod Azizi kendo apiele e batha.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the Doll	id=9748
+French (Translation)	Azizi La Poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Lámnsoʼ (Translation)	Shibvə̀m Shee Azizi	id=16448
+Lugwere (Translation)	Odole Omulyabwita	id=16112

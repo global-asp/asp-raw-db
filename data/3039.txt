@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=3039&d=0&a=1
+id:	3039
+title:	Lĩu Wa Kwakya
+author:	Robert Ssebukyu
+artist:	Cathy Feek
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3039.png
+desc:	Manya taata nange bye twagala okulya ku kyenkya.
+
+page_text:
+
+P1	Taata ayagala nyo obuuggi.
+P2	Nze,  njagala nyo kasooli omukaze.
+P3	Taata ayagala nyo kaawa.
+P4	Nze njagala nyo amatta.
+P5	Taata ayagala nyo amapeera.
+P6	Nze njagala nyo emikyungwa.
+P7	Taata ayagala nyo omugaati. Nze njagala nyo omugaati omukaze.
+P8	Ffembi twagala keeki enene.
+
+images:
+
+illustrations/pages/1571.png
+illustrations/pages/1572.png
+illustrations/pages/1573.png
+illustrations/pages/1574.png
+illustrations/pages/1575.png
+illustrations/pages/1576.png
+illustrations/pages/1577.png
+illustrations/pages/1571.png
+illustrations/pages/1578.png
+
+translations:
+
+English (Original)	Breakfast	id=2839
+isiZulu (Translation)	Ukudla Kwasekuseni	id=8735
+Kikamba (Translation)	Lĩu Wa Kwakya	id=2863
+Kiswahili (Translation)	Kifungua Kinywa	id=7780
+Luganda (Translation)	Ekyenkya	id=7782
+Lugbarati (Translation)	Nyaka O’Biti Si Ri	id=2862
+Lugbarati (Official) (Translation)	Nyaká Ò’Bíti Sɨ̀rɨ̀	id=8773
+Lunyole (Translation)	Ehyomumugamba	id=2844
+Lunyole (Translation)	Ebiryo Byo Mu Mugamba	id=12908
+Maa (Translation)	Endáa É Enkakenyá	id=2864
+Ng’aturkana (Translation)	Akimuji Na Ataparachu	id=8737
+Oluwanga (Translation)	Eshiokhulia Shiomumabwibwi	id=8738
+Sabinyi (Translation)	Amikap Koron	id=2847
+Setswana (Translation)	Difitlholo	id=2848
+Tunisian (Translation)	Fŧùr Iṡ-Ṡbèħ	id=15164

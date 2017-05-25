@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=7860&d=0&a=1
+id:	7860
+title:	Mkeka Wa Akai
+author:	Brigid Simiyu
+artist:	Catherine Groenewald
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/7860.png
+desc:	Msichana huyu mdogo anakua akiwa na mkeka wa ajabu.  Mkeka wa Akai unamkinga kutokana na hatari na kwa usaidizi wa ndege mdogo
+
+page_text:
+
+P1	Akai alipokuwa mdogo,  mamake alikuwa na mazoea ya kumlaza kwenye mkeka maridadi. Mkeka huo ulitengezwa na shangaziye Akai kwa majani ya mtende.
+P2	Mkeka wa Akai ulikuwa na rangi za waridi,  bluu na kijani kibichi. Ulikuwa tofauti na mikeka mingine aliyokuwa nayo mamake.
+P3	Makazi ya kina Akai yalikuwa katika sehemu kavu,  iliyojaa mawe na yenye joto. Kulikuwa na nge,  buibui na nyoka pia. Akai hakuwahi kuumwa na viumbe hao hatari.
+P4	"Huu mkeka wako wa kipekee hukukinga na hatari." Mamake alimwambia.
+P5	Akai alikuwa mtoto mwerevu. Alijua mahali kilipokuwa kisima cha karibu.
+P6	Vile vile alijua mahali ilipokuwa manyatta ya nyanyake. Mara kwa mara alienda kwa nyanyake kunywa maziwa ya ngamia.
+P7	Siku moja,  Akai aliondoka nyumbani kwenda kwa nyanyake.  Alipotelea milimani,  akaogopa.
+P8	Aliamua kuketi chini ya mti wa edome kusubiri usaidizi. Muda mfupi baadaye,  alilala akaota ndoto.
+P9	Ndotoni,  Akai alikuwa amelala kwenye mkeka wake kipekee. Bi kizee aliyefanana na nyanyake alikuwa akimchunga Akai. Bi kizee huyo alitabasamu na kumpa kikombe kikubwa cha maziwa ya ngamia. Mara tu Akai alipounyoosha mkono wake kukichukuwa kikombe cha maziwa,  aliamka.
+P10	Akai aliyafungua macho yake pole pole. Alipoangalia juu,  alimwona ndege mdogo wa rangi ya bluu ametua kwenye tawi.
+P11	Akai aliposimama,  yule ndege alipapatisha mbawa zake kisha akamwongoza. Akai alimfuata.
+P12	Akai alifika mahali penye njia panda. Yule ndege akakitupa kipande cha mkeka kilichofanana na ule wake.
+P13	Akai alikichukuwa kipande hicho akakitazama kwa makini. Aliziona nyayo alizozifahamu kuwa za mamake. Baadaye,  alikiona kisima walikochota maji.
+P14	Akai hatimaye alifika nyumbani. Watu wote wa familia yake waliimba na kucheza kumkaribisha nyumbani. Walimchinjia mbuzi,  wakachoma nyama na kusherehekea kurudi salama kwa mtoto wao.
+P15	Akai aliukalia mkeka wake wa kipekee akila kipande kikubwa cha nyama. Akai alifurahi sana.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5997.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6002.png
+illustrations/pages/6003.png
+illustrations/pages/6004.png
+illustrations/pages/6005.png
+illustrations/pages/6006.png
+illustrations/pages/6007.png
+
+translations:
+
+English (Original)	Akai's Special Mat	id=6008
+French (Translation)	La Natte Spéciale D’Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Nkaayi Noomukeeka Omulobole	id=7893
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+siSwati (Translation)	Imadi Yathembi Lebalulekile	id=13073
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

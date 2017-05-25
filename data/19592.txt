@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=19592&d=0&a=1
+id:	19592
+title:	Eshinyasio
+author:	Khabukoshe ASb Team
+artist:	Melany Pietersen
+lang:	Oluwanga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/19592.png
+desc:	Omusiani omulangu anyola eshinyasio.
+
+page_text:
+
+P1	Inyanga yindi mama yakula efiamo fiaukhane.
+P2	"Khunyala khulia lina efiamo fino?" Khwareba mama. Mama yakalusia,  "Khulafiria ingolobe."
+P3	Omusiani wefu Wakhulia nomulang'u. Yakonyerera buli eshiamo nalia efinji.
+P4	Omusani wefu omutiti yayula,  "Lolakho Wakhulia akholele! Wakhulia nowokhwienyera."
+P5	Wakhulia yasinyisia mama.
+P6	Kata fwesi khwasinyikha. Nabutswa Wakhulia shiyesundukhakho tawe.
+P7	Musiani mutiti yareba mama,  "Otsia khwelesia Wakhulia eshinyasio?"
+P8	"Wakhulia waleitsulisia," mama yamubolela.
+P9	Wakhulia yachaka okhusalira.
+P10	"Inda inzuna," Wakhulia yamonyera mama.
+P11	Mama yamanya eshichira Wakhulia nasalira. Yapara,  "Efiamo fya Wakhulia yalia nefiamulelera okhusalira inda."
+P12	Olunyuma,  Wakhulia yasaba eshileshero,  "Shendivakho omulang'u khandi tawe." Khwasubira eshilamo she.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiNdebele (Translation)	Isijeziso Sakathemba	id=13803
+isiZulu (Adaptation)	Umhobholo	id=13326
+isiZulu (Translation)	Isijeziso	id=15341
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Portuguese (Translation)	Castigo	id=18855
+siSwati (Translation)	Sijeziso Sabobo	id=13868

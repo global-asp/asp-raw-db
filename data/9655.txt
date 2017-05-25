@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=9655&d=0&a=1
+id:	9655
+title:	Aimar
+author:	John Emongot
+artist:	Gay Galsworthy
+lang:	Ateso
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9655.png
+desc:	In the wild at a waterhole we count the animals coming to drink. What do you think happens when the lion comes to drink?
+
+page_text:
+
+P1	Obu etome ediopet olot aimat akipi.
+P2	Opote ikorin iyarei da aimat akipi.
+P3	Ajaasi ibuwin iwuni k'akweny awongon, elosete aimat akipi.
+P4	Akalia akany k'apegei akanyapei ajaa alosit aimat akipi.
+P5	Ajaa aidodokai akanyarei k'agaria akanyauni toma akipi.
+P6	Ojaasi itukoi ikanyangon aimat akipi.
+P7	Obuni edope kosobwan aimat akipi.
+P8	Ingai etiting akere,  aisal emasi akipi.
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Aringati (Translation)	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ	id=6985
+English (Original)	Counting	id=1784
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lugbarati (Official) (Translation)	Kàlàfé Làzà	id=8753
+Lunyole (Translation)	Ohubala	id=1954
+Lusoga (Translation)	Tubala Bazira	id=1955
+Sepedi (Translation)	Go Bala	id=1956
+Sesotho (Lesotho) (Translation)	Ho Bala	id=1958
+Setswana (Translation)	Go Bala	id=2807

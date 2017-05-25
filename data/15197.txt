@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=15197&d=0&a=1
+id:	15197
+title:	Mafua
+author:	Adams Opere
+artist:	Wiehan de Jager, Jonathan Field and Rob Owen
+lang:	Dholuo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15197.png
+desc:	Sigana matin e wi mafua.
+
+page_text:
+
+P1	Chon chon gi lala,  e gweng' Busolwe nenitiere nyako mane iluongo ni Namagunga.
+P2	Nohero mafua ahinya. Chieng' moro nodhi kulo e aora miluongo ni Nakwiga.
+P3	Kane odhi kulo,  ne oyudo mafua mane ogombo ahinya,  waooooo! Ne owacho.
+P4	Kane odok dala ne okono min gi mondo enbe opidhie mafua e dala gi nikech.
+P5	In churches we find flowers e kanisni wayudo mafua.
+P6	E rinda wa be wayudo mafua.
+P7	E wuoch wa be wayudo mafua.
+P8	Wa duto wahero mafua.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/9500.png
+illustrations/pages/6577.png
+illustrations/pages/9003.png
+illustrations/pages/9000.png
+illustrations/pages/9457.png
+illustrations/pages/6723.png
+illustrations/pages/6700.png
+illustrations/pages/7987.png
+
+translations:
+
+English (Original)	Flowers	id=9702
+Ma'di (Translation)	Ofu	id=16755

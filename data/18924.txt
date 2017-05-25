@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=18924&d=0&a=1
+id:	18924
+title:	Mwandzangu Mbani?
+author:	Programa de Tradução em Cinyungwe
+artist:	Tamsin Hinrichsen
+lang:	Chinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18924.png
+desc:	Jesus Parable of the Good Samaritan told as if it was in contemporary Africa.
+
+page_text:
+
+P1	"Ndipo ntsiku ibodzi,  munthu winango omwe akhali mpfundzisi wa Mtemo adamuka kuti ayezere Jezu,  ndipo adam'bvundza kuti: "Misiri! Kodi ningacite tani kuti ndidzakhale na moyo?" Pamwepo,  Jezu adamutawira aciti: "Kodi muMtemo mudanembedwa ciyani? Umbaubva tani?"Ndipo iye adatawira aciti: "Funa Mbuya Mulungu wako na m'tima wako wentse,  moyo wako wentse,  mphambvu zako zentse,  na ndzeru zako zentse. Ndipo funambo mwandzako ninga momwe umbabzifunira iwe wekha.
+P2	Pakhana munthu m'bodzi omwe akhabuluka kucokera kuJerusalema acimbayenda kuJeriko. Ndipo iye adaphatidwa na akambowa. Iwo adam'khundula bzakubvala acim'menya,  ndipo adacoka acimusiya atafumphira.
+P3	 Tsono nyantsembe winango akhandobzipitirambo na njira,  pomwe adamuwona,  iye adamutsembera.
+P4	Tenepoyombo,  muLevi m'bodzi adapitambo na pamwepa acimuwona,  ndipo adamutsemberambo.
+P5	Tsono m'Samaliya m'bodzi,  omwe akhali paulendo,  pomwe adafika pakhana iyepo acimuwona,  adamubvera ntsisi.
+P6	Ndipo adafendera kuna iye,  acimutsuka bzironda na mafuta na vinyu acimanga bzirondabzo. Pomwe adamala,  adam'pakiza pabulu. Ndipo adayenda naye kunyumba ya alendo acikamukhongobza bwino.
+P7	Mangwana yandzace,  adacosa kobiri ziwiri za ndzayaya acipasa yakutambira alendo,  acimuuza kuti: "Ndikhongobzerembo munthuyu. Ndipo bzentse bzomwe imwe mun'dzonga,  nin'dzakulipirani pakubwerera."
+P8	Jezu adabvundza: "Kodi pa atatuwa,  mun'kumbuka kuti mwandzace wa ule omwe adaphatidwa na akambowa nguponi?" Ndipo mpfundzisi ule wa Mtemo adatawira aciti: "Mwandzace ngule omwe adamubvera ntsisi." Ndipo Jezu adamuuza kuti: "Ndokoni mukacitembo bzibodzi-bodzi."
+
+images:
+
+illustrations/pages/16281.png
+illustrations/pages/16283.png
+illustrations/pages/16280.png
+illustrations/pages/16278.png
+illustrations/pages/16276.png
+illustrations/pages/16275.png
+illustrations/pages/16277.png
+illustrations/pages/16279.png
+illustrations/pages/16282.png
+
+translations:
+
+Ciyawo (Translation)	Citagu Ca Ndamo Nsamadiya Jwa Canasa	id=18959
+Elomwe (Translation)	Musamariya a Ikharari	id=18946
+Emakhuwa (Translation)	Musamariya Ooreera Murima	id=18961
+English (Original)	The Good Samaritan	id=16284
+Portuguese (Translation)	Quem É O Meu Próximo?	id=18945

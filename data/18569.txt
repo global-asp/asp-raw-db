@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=18569&d=0&a=1
+id:	18569
+title:	Abanandi
+author:	Eunice Mukonde-Mulenga
+artist:	Catherine Groenewald
+lang:	IciBemba
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18569.png
+desc:	Isa we munandi
+
+page_text:
+
+P1	Ishina lyandi nine Simo.
+P2	Kuti natemwa ukumweba pabanandi.
+P3	Amashina yaabo ni Zizo,  Lele,  Sisa elyo na Ayanda.
+P4	Umuntu onse aaba neeco atemwa ukucita. Zizo atemwa ukuteya umupila.
+P5	Lele munandi uwatemwa ukoowa.
+P6	Sisa ena atemwa ukwangala akabwambe.
+P7	Ayanda atemwa ukubelenga amabuuku.
+P8	Ngaine mangalo nshi natemwa? Ine nalitemwa fyonse ifyo abanandi baatemwa ukucita.
+P9	Nga nasanga Zizo tulaateya umupila.
+P10	Nga ndi na Lele tuloowa.
+P11	Nga ndi na Sisa tulaateya icidunu.
+P12	Isa wemunandi,  ngaiwe finshi watemwa?
+P13	Isa tuteye umupila.
+P14	Isa toowe.
+P15	Isa tuteye icidunu.
+P16	Isa tubelengele pamo!
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Ṡuħàb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

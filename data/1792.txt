@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=1792&d=0&a=1
+id:	1792
+title:	My Family
+author:	Clare Verbeek
+artist:	Kathy Arbuckle
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1792.png
+desc:	My family likes to read. Find out what each person is reading.
+
+page_text:
+
+P1	My brother is reading a school book.
+P2	My mother is reading a bible.
+P3	My sister is reading a recipe book.
+P4	My uncle is reading a newspaper.
+P5	Granny is reading a magazine.
+P6	My little sister is reading a picture book.
+P7	I am reading this book.
+P8	Soon I will be able to read everything!
+
+images:
+
+illustrations/pages/1791.png
+illustrations/pages/1630.png
+illustrations/pages/1631.png
+illustrations/pages/1632.png
+illustrations/pages/1633.png
+illustrations/pages/1634.png
+illustrations/pages/1635.png
+illustrations/pages/1636.png
+illustrations/pages/1637.png
+
+translations:
+
+Aringati (Translation)	Lị́cọ́ Ãmadrị̂	id=7531
+Ateso (Translation)	Ekale Koosi	id=2946
+Kikamba (Translation)	Musyi Wakwa	id=2951
+Luganda (Translation)	Abantu B'ewaka	id=2952
+Lumasaaba (Translation)	Be Muungo Mweefwe	id=2954
+Lusoga (Translation)	Abomumaka Gange	id=2955
+Olukhayo (Translation)	Ifamili  Yanje	id=2953
+Oluwanga (Translation)	Oluyia Lwanje	id=2956
+Setswana (Translation)	Lelapa La Me	id=2957

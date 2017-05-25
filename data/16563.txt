@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=16563&d=0&a=1
+id:	16563
+title:	O Piolho Esmagado
+author:	Translators without Borders and Nádia Morais
+artist:	Magriet Brink
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16563.png
+desc:	Dois jovens perdem as suas vacas e ficam à procura dos animais até se fazer tarde. Vêem uma casa com luz e entram. Um piolho dá-lhes comida e bebida e vai-se embora. Os jovens aceitam a hospitalidade do piolho mas acabam por se arrepender.
+
+page_text:
+
+P1	Há muito tempo,  dois homens perderam as suas vacas. Ficaram à procura delas até se fazer tarde.
+P2	Quando já estava a ficar escuro,  viram uma casa iluminada. Concordaram em entrar e pedir um sítio para dormir.
+P3	Chegaram à porta da casa e bateram à porta. A porta abriu-se e entraram. Os jovens não conseguiam ver ninguém,  mas ouviam uma voz que os saudava.
+P4	A voz dizia: "Sou um piolho. Abram o tacho e comam qualquer coisa. Abram o pote de barro e bebam amahewu."
+P5	Depois,  o piolho vestiu o casaco e saiu.
+P6	Os jovens comeram,  beberam e agradeceram. Saíram da casa.
+P7	Enquanto saíam,  tiveram um pensamento. Disseram: "Não,  não é possível termos recebido comida de um piolho." Por fim,  concordaram em voltar e esmagar o piolho.
+P8	Voltaram à casa e esmagaram o piolho. De repente,  o piolho tinha desaparecido e a casa,  também! Deram por eles na rua,  sem abrigo.
+
+images:
+
+illustrations/pages/9717.png
+illustrations/pages/9711.png
+illustrations/pages/9712.png
+illustrations/pages/9710.png
+illustrations/pages/9713.png
+illustrations/pages/9714.png
+illustrations/pages/9715.png
+illustrations/pages/9716.png
+illustrations/pages/9717.png
+
+translations:
+
+Afrikaans (Translation)	Die Luis Wat Doodgedruk Is	id=11298
+Afrikaans (Translation)	Die Platgedrukte Luis	id=11397
+Afrikaans (Translation)	Vermorselde Luis	id=11521
+English (Translation)	Crushed Louse	id=9787
+French (Translation)	Le Pou Écrasé	id=10148
+isiNdebele (Translation)	Intwala Eputjukileko	id=13071
+isiXhosa (Translation)	Intwala Eyatyunyuzwayo	id=16475
+isiZulu (Original)	Intwala Echotshiwe	id=9786
+Lámnsoʼ (Translation)	Shinser She  Á Bvəʼəyín	id=15066
+Luganda (Translation)	Enffa Y’Ensekere	id=11904

@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=1863&d=0&a=1
+id:	1863
+title:	Ukudla Kwasekuseni
+author:	Clare Verbeek
+artist:	Cathy Feek
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1863.png
+desc:	Ukudla esikudla nobaba ekuseni.
+
+page_text:
+
+P1	Ubaba uthanda iphalishi lempuphu.
+P2	Mina ngithanda ama-cornflakes.
+P3	Ubaba uthanda ikofi.
+P4	Mina ngithanda ubisi.
+P5	Ubaba uthanda ama-apula.
+P6	Ngithanda amawolintshi.
+P7	Ubaba uthanda isinkwa kanti mina ngithanda isinkwa esigazingiwe.
+P8	Kodwa sobabili sithanda amagwinya.
+
+images:
+
+illustrations/pages/1571.png
+illustrations/pages/1572.png
+illustrations/pages/1573.png
+illustrations/pages/1574.png
+illustrations/pages/1575.png
+illustrations/pages/1576.png
+illustrations/pages/1577.png
+illustrations/pages/1571.png
+illustrations/pages/1578.png
+
+translations:
+

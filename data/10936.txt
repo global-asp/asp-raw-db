@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=10936&d=0&a=1
+id:	10936
+title:	Allons Nager
+author:	Isabelle Barth and Translators without Borders
+artist:	Alice Inzikuru
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10936.png
+desc:	Serpent apprend à nager et manque de se noyer. Heureusement que Tortue sait ce quil faut faire.
+
+page_text:
+
+P1	Il était une fois deux amis,  Tortue et Serpent.
+P2	Un jour Tortue dit à Serpent: "Allons nager." "D'accord,  mais je ne sais pas nager," répondit Serpent. "Je vais t'apprendre," assura Tortue.
+P3	Ils partirent pour la piscine. "Qui entrera le premier dans l'eau?" demanda Tortue. "Toi,  et je te regarderai," dit Serpent.
+P4	Tortue entra dans la piscine. Serpent l'observait depuis les marches.
+P5	Après quelques temps,  Serpent entra dans l'eau comme Tortue lui donnait des instructions.
+P6	Tortue et Serpent nageaient dans le petit bain de la piscine.
+P7	Ils ont commencé par flotter sur l'eau.
+P8	Comme ils flottaient,  Tortue commença à faire du dos crawlé. Tout en imitant Tortue,  Serpent ne pouvait pas se propulser et commença à se noyer.
+P9	En se rendant compte que Serpent avait disparu,  Tortue se dépêcha sous l'eau et vint secourir la vie du serpent.
+P10	Dès que Tortue sortit de l'eau,  elle retourna Serpent afin qu'il rejette l'eau qu'il avait avalée.
+P11	Pour finir,  Tortue fit du bouche-à-bouche pour faire sortir l'eau.
+
+images:
+
+illustrations/pages/9175.png
+illustrations/pages/9175.png
+illustrations/pages/9176.png
+illustrations/pages/9177.png
+illustrations/pages/9178.png
+illustrations/pages/9179.png
+illustrations/pages/9180.png
+illustrations/pages/9181.png
+illustrations/pages/9187.png
+illustrations/pages/9182.png
+illustrations/pages/9183.png
+illustrations/pages/9184.png
+
+translations:
+
+Afrikaans (Translation)	Skilpad Tot Die Redding!	id=11252
+Afrikaans (Translation)	Swem	id=11299
+Afrikaans (Translation)	Swem	id=11331
+English (Translation)	Swimming	id=9190
+isiNdebele (Translation)	Ukududa	id=13780
+Lugbarati (Original)	Yii Wezu	id=9189
+Rutooro (Translation)	Kuziha	id=14942
+Setswana (Translation)	Thuma	id=11482

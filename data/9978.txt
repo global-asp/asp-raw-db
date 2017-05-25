@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=9978&d=0&a=1
+id:	9978
+title:	Tabarmar Ta Masumman Ta Akai
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Catherine Groenewald
+lang:	Hausa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9978.png
+desc:	Wannan  yarinyar ta girma da wani tapi mai ban mamaki. Tapin Akai yana kare ta da duk mugun abu
+
+page_text:
+
+P1	Lokacin da Akai take yarinya,  ma'aifiyarta na shimfiɗe ta saman wata kyakkyawar tabarma. Tanti Akai ta saƙa wannan tabarmar ta masumman da kaba.
+P2	Launin tabarmar ya fito sosai: Bula,  ruwa hoda,  tsanwa. Ba tabarma ba ce kamar kowace tabarma da ke cikin ɗakinsu.
+P3	Ƙasar kewayen gidan a bushe take,  ka zafi ka kuma tsakkuwa. Ana ganin kunamu da micizai wani lokaci. Akai tana kiyaye ma wannan ƙwarirrika.
+P4	Ma'aifiyarta tana cewa: "Wannan tabarmar tana kare ki da miyagun abubuwa."
+P5	Akai yarinya ce mai ilimi. Ta san inda rijiya ma fi kusa take.
+P6	Kuma ta san inda garin kakarta yake. Takan je wani lokaci don ta sha nonon taguwa.
+P7	Wata rana,  ba ta yi sa'a. Sai ta tafi gari kakarta,  bisan hanya sai ta ɓace cikin duwatsu. Tsoro ya kama ta.
+P8	Wata rana,  ba ta yi sa'a. Sai ta tafi gari kakarta,  bisan hanya sai ta ɓace cikin duwatsu. Tsoro ya kama ta.
+P9	Ka mafarkin da ta yi: Ta kwance saman tabarmarta. Kakar ta miƙa mita nono taguwa cikin wani kopi. Lokaci ta miƙo hannu ta amsa sai ta farka.
+P10	Akai ta buɗe idonta a hankali. Lokacin da ta ɗaga kai,  sai ta ga wani tsuntsu bula saman wani reshe.
+P11	Da Akai ta tashi,  tsuntsu ya hira ya gwada mata hanya. Akai ta bi tsuntsun.
+P12	Akai ta zo wani wuri inda hanya ta rabu biyu (2). Tsuntsun ya yadda wani guntun tabarma mai kama da tabarmar Akai.
+P13	Da ta ɗauki guntun tabarmar,  Akai ta ga shaidar sawu ma'aifiyarta. Can gaba kuma sai ta ga rijiyar da suke janyo ruwa.
+P14	Ƴan uwanta su waƙa suna rawa don sun tarbe ta. Sun yanka akuya sun gasa don murnar ganin Akai ta komo.
+P15	Akai ta zamna saman tabarmarta kuma fara cin naman da aka gasa.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5997.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6002.png
+illustrations/pages/6003.png
+illustrations/pages/6004.png
+illustrations/pages/6005.png
+illustrations/pages/6006.png
+illustrations/pages/6007.png
+
+translations:
+
+English (Original)	Akai's Special Mat	id=6008
+French (Translation)	La Natte Spéciale D’Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kiswahili (Translation)	Mkeka Wa Akai	id=7860
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Nkaayi Noomukeeka Omulobole	id=7893
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+siSwati (Translation)	Imadi Yathembi Lebalulekile	id=13073
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

@@ -1,0 +1,31 @@
+url:	http://africanstorybook.org/reader.php?id=17450&d=0&a=1
+id:	17450
+title:	Gera Tipa Ime
+author:	Isaac Monday Elisama
+artist:	Hélder de Paz Alexandre
+lang:	Zande
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17450.png
+desc:	This book is about a frog looking for cold water.
+
+page_text:
+
+P1	Wari kami be Ime ni.
+P2	Bete ime gudu pere yore.
+P3	Tini kere fafaihe gbe.
+P4	Kagi ime re kuru ni zezerehe.
+
+images:
+
+illustrations/pages/7821.png
+illustrations/pages/7819.png
+illustrations/pages/7074.png
+illustrations/pages/7076.png
+illustrations/pages/7075.png
+
+translations:
+
+Amharic (Translation)	ውኃ ፍለጋ	id=14538
+English (Original)	Looking for Water	id=7667
+Luganda (Translation)	Okunoonya Amazzi	id=7671

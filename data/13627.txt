@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13627&d=0&a=1
+id:	13627
+title:	Tom the Banana Seller
+author:	Humphreys Odunga
+artist:	Zablon Alex Nguku
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13627.png
+desc:	A man goes against community norms and brings his bananas to sell at the market.
+
+page_text:
+
+P1	Tom carries a tray of ripe bananas.
+P2	Tom goes to the market to sell bananas.
+P3	People at the market are buying fruit.
+P4	But no one is buying Tom's bananas. They prefer to buy fruit from women.
+P5	"In our community,  only women sell fruit, " people say. "What kind of a man is this?" people ask.
+P6	But Tom does not give up. He calls,  "Buy my bananas! Buy my sweet ripe bananas!"
+P7	One woman picks up a bunch of bananas from the tray. She looks at the bananas carefully.
+P8	The woman buys the bananas.
+P9	More people come to the stall. They buy Tom's bananas and eat them.
+P10	Soon,  the tray is empty. Tom counts the money he earned.
+P11	Then Tom buys soap,  sugar,  and bread. He puts the things in his tray.
+P12	Tom balances the tray on his head and goes home.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+French (Translation)	Tom, Le Vendeur De Bananes	id=14530
+isiXhosa (Translation)	Utom, Umthengisi Webhanana	id=15024
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216
+siSwati (Translation)	Themba Umtsengisi Wabhanana	id=16440

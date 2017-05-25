@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=1744&d=0&a=1
+id:	1744
+title:	Imizwa
+author:	Clare Verbeek
+artist:	Kathy Arbuckle
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1744.png
+desc:	Ngikhuluma ngendlela engizizwa ngayo uma ngenza izinto ezihluka hlukene.
+
+page_text:
+
+P1	Inhliziyo yami izwa izinto eziningi.
+P2	Ngizizwa nginokuthokoza uma ugogo esixoxela izindaba kusihlwa.
+P3	Ngizizwa ngijabule uma ngidlala nomngani wami.
+P4	Ngiphatheka kabi uma ubaba ethi akanayo imali.
+P5	Ngizizwa ngithandwa uma umama wami engigona.
+
+images:
+
+illustrations/pages/1328.png
+illustrations/pages/1329.png
+illustrations/pages/1330.png
+illustrations/pages/1328.png
+illustrations/pages/1331.png
+illustrations/pages/1332.png
+
+translations:
+

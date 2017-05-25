@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=9756&d=0&a=1
+id:	9756
+title:	My Vocabulary Book
+author:	Yiiki Jackson
+artist:	Karen Lilje, Wiehan de Jager, N/A and Catherine Groenewald
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9756.png
+desc:	Simple words with pictures
+
+page_text:
+
+P1	My eye.
+P2	Animal hoof.
+P3	My dress.
+P4	My father's torch.
+P5	My soda bottle.
+P6	My mother's oven.
+P7	My school flag.
+P8	Our granary.
+
+images:
+
+illustrations/pages/8071.png
+illustrations/pages/5823.png
+illustrations/pages/9749.png
+illustrations/pages/5937.png
+illustrations/pages/9750.png
+illustrations/pages/5576.png
+illustrations/pages/9753.png
+illustrations/pages/9751.png
+illustrations/pages/9752.png
+
+translations:
+

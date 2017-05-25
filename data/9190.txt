@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=9190&d=0&a=1
+id:	9190
+title:	Swimming
+author:	
+artist:	Alice Inzikuru
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9190.png
+desc:	Snake learns to swim and nearly drowns. Fortunately Tortoise knows what to do.
+
+page_text:
+
+P1	Once upon a time there lived two friends,  Tortoise and Snake.
+P2	On day Tortoise said to Snake,  "Let us go and swim." "Alright,  but I don't know to swim," answered Snake. "I will teach you," replied Tortoise.
+P3	They went to a swimming pool. "Who will enter the water first?" asked Tortoise. "You will,  and I will watch you," said Snake.
+P4	Tortoise entered the swimming pool. Snake observed from the steps.
+P5	After some time,  Snake entered the pool as Tortoise gave instructions.
+P6	Tortoise and Snake swam in the shallow end of the pool.
+P7	They started floating on the water.
+P8	As they were floating,  Tortoise started swimming backstroke. While imitating Tortoise,  Snake could not propel himself and started drowning.
+P9	On realising that Snake had disappeared,  Tortoise hurriedly went under water and rescued the life of the snake.
+P10	As soon as Tortoise got out of the water,  he turned Snake upside-down in order to get rid of the water that Snake swallowed.
+P11	Finally,  Tortoise used the mouth-to-mouth method to remove more water.
+
+images:
+
+illustrations/pages/9175.png
+illustrations/pages/9175.png
+illustrations/pages/9176.png
+illustrations/pages/9177.png
+illustrations/pages/9178.png
+illustrations/pages/9179.png
+illustrations/pages/9180.png
+illustrations/pages/9181.png
+illustrations/pages/9187.png
+illustrations/pages/9182.png
+illustrations/pages/9183.png
+illustrations/pages/9184.png
+
+translations:
+
+Afrikaans (Translation)	Skilpad Tot Die Redding!	id=11252
+Afrikaans (Translation)	Swem	id=11299
+Afrikaans (Translation)	Swem	id=11331
+French (Translation)	Allons Nager	id=10936
+isiNdebele (Translation)	Ukududa	id=13780
+Lugbarati (Original)	Yii Wezu	id=9189
+Rutooro (Translation)	Kuziha	id=14942
+Setswana (Translation)	Thuma	id=11482

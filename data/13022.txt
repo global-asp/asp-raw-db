@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=13022&d=0&a=1
+id:	13022
+title:	Ngumunye Umgqibelo Ntambamba
+author:	Princess Ndlovu
+artist:	Wiehan de Jager
+lang:	isiZulu
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13022.png
+desc:	On a very hot Saturday afternoon
+
+page_text:
+
+P1	Kwakushisa kakhulu ngomgqibelo emini yantambamba Kuzibandela. Wonke umuntu wayeshesha ukucasuka. "Bontle,  Mpho no Lerato hambani niyodla"! Mme wathi kuthina. "Anginifuni ngaphansi kwezinyawo zami."
+P2	Saphuma sigijima endlini. "Asiye emfuleni" Kusho uLerato. "kupholile laphayana." "Kodwa uMme wathi singayobhukuda emfuleni" kusho Bontle. "Ngeke sibhukude," kuphendula uLerato. "Siyodlala emthunzini eceleni kwamanzi."
+P3	Kodwa ukudlala ulibeke umsebenzi oshisayo noma ungaphasi kwezihlahla eceleni komfula. Siqale sakhumula izicathulo. Kodwa sisashiselwa. Sabuye sakhumula amahembe neziketi. Kodwa sisashiselwa.
+P4	Safaka izinyawa emfuleni ukuze siphole. Sabuye sathelana ngemanzi. Sase siba manzi.
+P5	"Wozani! Asibhukude" kusho uMpho. "Mme ngeke azi." Sabhukuda,  sabhukuda saze sakhohlwa isikhathi.
+P6	Ilanga lase liyashona,  saze sizizwa sesigodola. Ziphi izingubo zethu?
+P7	Sazibheka phansi kwesihlahla. Sazibheka ehlathini. Sazibheka yonke indawo.
+P8	Bekunezinkomo eduze nomfula,  zithokozela utshani obumnandi. UBonhle wabheka phezulu,  "Bukani leya nkomo! Yini emlonyeni wayo?" "idla imbali ebomvu," kusho uLerato. "Akuyona imbali ebomvu," kumemeza uMpho. "I hembe lakho!"
+P9	Sabona enye inkomo eyayihlafuna into eluhlaza. "Isiketi sami!" kusho uBontle.
+P10	Sahamba saya ekhaya ngamaphenti ethu,  siqhaqhazela. Kodwa ayi ngoba kwakupholile. "Bekuyizinkomo," sikhala. "Izinkomo zidle izingubo zethu." Kodwa ngabe uMme wasikholwa? Maduzu izinqa zethu besezifudumele. Kodwa bekungaveli elangeni.
+
+images:
+
+illustrations/pages/924.png
+illustrations/pages/925.png
+illustrations/pages/927.png
+illustrations/pages/926.png
+illustrations/pages/928.png
+illustrations/pages/1004.png
+illustrations/pages/933.png
+illustrations/pages/931.png
+illustrations/pages/929.png
+illustrations/pages/930.png
+illustrations/pages/932.png
+
+translations:
+
+Afrikaans (Translation)	'n Warm Saterdag Middag	id=11416
+Afrikaans (Translation)	'n Baie Warm Saterdag Middag	id=11525
+Afrikaans (Translation)	'n Warm Saterdag	id=20090
+ChiTonga (Translation)	Bumwi Buzuba Masikati Mu Nsabata	id=18650
+CiNyanja (Translation)	Cibelu Cina Cakupya Mumazulo	id=18659
+Dhopadhola (Translation)	Mukaga Moro M’Olieth	id=15766
+Ekegusii (Translation)	Omokubio Oyomo Orenge Gosamba Mono	id=3153
+English (Original)	One Hot Saturday Afternoon	id=988
+English (Translation)	A Hot Saturday	id=5394
+English (Adaptation)	A Hot Saturday	id=13453
+French (Translation)	Un Samedi Après-Midi De Grande Chaleur	id=10843
+IciBemba (Translation)	Kasuba Kamo Pacibelushi Ninshi Nakukaba	id=18693
+isiXhosa (Translation)	Ngenye  Imva Kwemini Eshushu Yangomgqibelo	id=3152
+isiZulu (Translation)	Ngomunye Umgqibelo Ntambama Kushisa	id=3151
+isiZulu (Translation)	Ngomunye Umgqibelo Ntambama Kushisa	id=18956
+Kikamba (Translation)	Kiwioo Kimwe Kivyu Kya Wathanthatu	id=3150
+Kiswahili (Translation)	Jumamosi Alasiri	id=3149
+Kiswahili (Adaptation)	Jumamosi Moja Alasiri	id=18384
+Kiswahili (Adaptation)	Jumamosi Moja Alasiri	id=19356
+Lugbarati (Translation)	O’Du Azia Alu Driipi Tu Ondresi Ri	id=3157
+Lugbarati (Official) (Translation)	O'dú Ázɨ́á Má Òndré Àngù Nɨ́ Drɨzʉ́ Tù Rɨ̀	id=8771
+Lumasaaba (Translation)	Lihaangilwe Lye Lwa Khasesaba Lutweela Lweesi Kumuumu Kwaaburukhila Naabi	id=3148
+Lunyole (Translation)	Ehy'egulo Hu Lw'omukaaga Olwaliho Ebbugumu	id=3145
+Lunyole (Translation)	Ehy'egulo Hu Lw'omukaaga Olwaliho Ebbugumu	id=10250
+Maa (Translation)	Enkolong E Jumamosi Nairowua	id=3158
+Oluwanga (Translation)	Mwichuma Mushiteere  Shiomubasu Omululu	id=3154
+Portuguese (Translation)	Uma Tarde De Sábado E Calor	id=18864
+Rutooro (Translation)	Kyamukaga Kimu Nyamusana Mukyanda	id=14938
+Sepedi (Translation)	Mokibelo Wa Go Fiša Tšhiritšhiri	id=1009
+Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=3146
+Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=12622
+Sesotho (South Africa) (Translation)	Moqebelo O Mong O Tjhesang Haholo	id=20048
+Setswana (Translation)	Letsatsi La Lamatlhatso Le Le Mogote	id=3147
+SiLozi (Translation)	Lizazi Lenelicisa Haulu La Pelekelo	id=18737
+siSwati (Translation)	Ngelusuku Lwekushisa Kakhulu Kwelilanga Ngengcibelo Ntsambama	id=13062
+Tshivenda (Translation)	Masiari a Mugivhela U Fhisaho.	id=18319
+Xitsonga (Translation)	Siku Rin’Wana Ro Hisa Ra Muqgivela Nindzhenga	id=18867

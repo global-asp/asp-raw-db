@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=18966&d=0&a=1
+id:	18966
+title:	Water
+author:	Emily Barasa
+artist:	Wiehan de Jager, Melany Pietersen, Rob Owen, Vusi Malindi, Jesse Pietersen, Silva Afonso, Renate van Rensburg and Salim Kasamba
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18966.png
+desc:	Water is life.
+
+page_text:
+
+P1	Water is good.
+P2	We drink water.
+P3	Animals drink water.
+P4	Plants use water to grow.
+P5	Crocodiles live in water.
+P6	We swim in water.
+P7	We wash our hands with water.
+P8	We wash clothes with water.
+P9	Water is life.
+
+images:
+
+illustrations/pages/15335.png
+illustrations/pages/13653.png
+illustrations/pages/10609.png
+illustrations/pages/9648.png
+illustrations/pages/13388.png
+illustrations/pages/17150.png
+illustrations/pages/924.png
+illustrations/pages/13819.png
+illustrations/pages/9485.png
+illustrations/pages/13415.png
+
+translations:
+
+Oluwanga (Original)	Amatsi Nobulamu	id=18865

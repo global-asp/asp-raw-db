@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=7892&d=0&a=1
+id:	7892
+title:	Maru
+author:	Pinky Macheke
+artist:	Microsoft Clip Art
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7892.png
+desc:	Maru a tlisa eng mo go tikologong ya rona.
+
+page_text:
+
+P1	Maru a tlisa pula. Ke rata maru.
+P2	Maru a ka tlisa semathana. Ke rata maru.
+P3	Maru a ka fitlha letsatsi. Ke rata maru.
+P4	Maru a ka fitlha dinaledi. Ke rata maru.
+
+images:
+
+illustrations/pages/2115.png
+illustrations/pages/2116.png
+illustrations/pages/2117.png
+illustrations/pages/2118.png
+illustrations/pages/2119.png
+
+translations:
+
+Anywak (Translation)	Pøøl	id=12630
+English (Original)	Clouds	id=2122
+English (Adaptation)	Weather	id=10261
+Luganda (Translation)	Ebire	id=6270
+Ng’aturkana (Translation)	Ng'idowon	id=7036
+Somali (Translation)	Daruuraha	id=16759

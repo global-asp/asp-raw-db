@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=2611&d=0&a=1
+id:	2611
+title:	Vayu, Upepo
+author:	Brigid Simiyu
+artist:	Rijuta Ghate
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2611.png
+desc:	Hadithi hii inaelezea jinsi ambavyo upepo unavyotenda na athari zake kwetu.
+
+page_text:
+
+P1	Kila ninapomaliza kuoga kwa maji moto. Mwili wangu huwa majimaji na kuhisi baridi. Ninajua anayesababisha mwili kuhisi baridi. Vayu,  upepo!
+P2	Kwenye kikombe kuna maziwa moto sana. Baada ya muda,  maziwa yanapoa. Ninajua anayesababisha jambo hili kutendeka. Vayu,  upepo!
+P3	Pazia za dirisha zinapapatika pole pole zikinigusa uso. Ni nani husababisha jambo hili kutendeka? Vayu,  upepo!
+P4	Ninaona radi. Mawingu meusi yananikaribia. Ninajua anayesababisha jambo hili kutendeka. Vayu,  upepo!
+P5	Matawi yanayumbayumba na majani yanapepea. Maua yanadondoka kutoka mtini. Ninajua anayesababisha haya yote. Vayu,  upepo!
+P6	Tunapocheza nje,  tunanukia pipi  anazotayarisha mama. Ninajua anayesababisha hili kutendeka. Vayu,  upepo!
+P7	Bilauri iliyokuwa dirisahani,  imeanguka na kuvunjika. Nashukuru Mungu haikuniangukia. Ninajua aliyesababisha ukatili huu. Bila shaka ni Vayu,  upepo!
+P8	Firimbi imepulizwa. Gari la moshi linafika kituoni. Siwezi kuliona,  lakini nausikia mngurumo wake. Ninajua aliyesababisha haya. Vayu,  upepo!
+P9	Haonekani. Hasikiki. Hufanya kazi zote kisirisiri. Anaweza kuwa ni nani?  Mimi ninamjua!  Vayu,  upepo!
+
+images:
+
+illustrations/pages/2442.png
+illustrations/pages/2443.png
+illustrations/pages/2444.png
+illustrations/pages/2445.png
+illustrations/pages/2448.png
+illustrations/pages/2449.png
+illustrations/pages/2450.png
+illustrations/pages/2451.png
+illustrations/pages/2452.png
+illustrations/pages/2453.png
+illustrations/pages/2455.png
+
+translations:
+
+English (Original)	Vayu, the Wind	id=2454
+isiNdebele (Translation)	Vayu Ummoya	id=13069
+isiXhosa (Translation)	Uvayu Umoya	id=2456
+Ng’aturkana (Adaptation)	Vayu, Ekuwam	id=13288

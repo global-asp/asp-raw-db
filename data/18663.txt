@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=18663&d=0&a=1
+id:	18663
+title:	Anzanga
+author:	Bether Mwale Moyo and Vision Milimo
+artist:	Catherine Groenewald
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18663.png
+desc:	Bwela
+
+page_text:
+
+P1	Zina langa ndine Simo.
+P2	Ndine okondwela kwambili kunkala na ntawi yokuuzani nkani pali anzanga.
+P3	Nili na anzanga okwana anayi ndipo mazina awo ni aya: Oyamba ni Zizo,  wacibili ni Lele,  wacitatau ni Sisa ndipo osilizila ni Ayanda.
+P4	Monga mwamene muziwila kuti muntu aliyense kulicintu camene akonda kucita. Zizo akonda kwambili kumenya bola.
+P5	Lele ni munyamata wamene anvela bwino kusamba mumanzi.
+P6	Sisa eve akonda kwambili masowela a kalambe. Aya masowela kambili yamankalako ntawi ya usiku ngati kuli mwezi.
+P7	Ayanda akondesesa kuwelenga mabuku.
+P8	Niziwa mukati mwamutima mwanu mufunsa kuti,  "Nanga ine nimasowela bwanji yamene nikonda kwambili?" Mubola,  nipezeka. Kungankale nikusamba,  niliko. Kalambe,  nicaya. Kapena kuwelenga,  niwelenga.
+P9	Ine kulibe kwamene nipezeka kwenenkwene. Cifukwa nikapezeka na Zizo,  nimenya bola.
+P10	Ngati nili na Lele,  nisamba pa manzi.
+P11	Mukaleta Sisa,  nili mukalambe.
+P12	Waitanidwa munzanga,  nanga iwe,  nimasowela bwanji amene ukonda kwambili?
+P13	Bwela timenye bola.
+P14	Bwela tisambe pamanzi.
+P15	Bwela ticaye kalambe.
+P16	Bwela tiwelenge pamozi.
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Ṡuħàb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

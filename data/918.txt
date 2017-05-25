@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=918&d=0&a=1
+id:	918
+title:	A Very Tall Man
+author:	Cornelius Gulere
+artist:	Catherine Groenewald
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/918.png
+desc:	The man in this story is so tall that everything around him is too short or too small. He solves this problem by creating things to match his size.
+
+page_text:
+
+P1	His hoe was too short.
+P2	His doorway was too low.
+P3	His bed was too short.
+P4	His bicycle was too short.
+P5	This man was too tall!
+P6	He made a very long hoe handle.
+P7	He made very high door frames.
+P8	He made a very long bed.
+P9	He bought a very high bicycle.
+P10	He sat on a very high chair. He ate with a very long fork.
+P11	He left his house and lived in a big forest. He lived for many years.
+
+images:
+
+illustrations/pages/309.png
+illustrations/pages/309.png
+illustrations/pages/310.png
+illustrations/pages/311.png
+illustrations/pages/314.png
+illustrations/pages/313.png
+illustrations/pages/316.png
+illustrations/pages/315.png
+illustrations/pages/317.png
+illustrations/pages/318.png
+illustrations/pages/319.png
+illustrations/pages/320.png
+
+translations:
+
+Afaan Oromo (Translation)	Namicha Baayyee Dheeraa	id=12955
+Afrikaans (Translation)	'n Baie Lang Man	id=11260
+Afrikaans (Translation)	'n Baie Lang Man	id=11370
+Arabic (Translation)	الرجل ذو القامة الطويلة	id=10122
+Aringati (Translation)	Ágóbí Ázó Mbílíkó Rĩ	id=9280
+Dhopadhola (Translation)	Nyicwo Ma Bor Tektek	id=18686
+French (Translation)	Un Homme Très Grand	id=9923
+French (Translation)	Un Très Grand Bonhomme	id=12615
+Fulfulde (Translation)	Gorko Mawnuɗo Sanne	id=10002
+Gurene (Translation)	Budaa N Ba’Am Wↄgε	id=12662
+Hausa (Translation)	Wani Mutum Mai Ƙirma	id=9971
+isiXhosa (Translation)	Indoda Ende Kakhulu	id=19288
+isiZulu (Translation)	Indoda Ende Elingana Nendlulamithi	id=3491
+Kakwa (Translation)	Ŋ Utu Laga a Lojo	id=9281
+Kanuri (Translation)	Kam Adǝ Dadua	id=10031
+Kiswahili (Translation)	Mwanamme Mrefu	id=1176
+Lámnsoʼ (Translation)	Wír Wo Wù Dàrìn É Ŋàŋ	id=16445
+Likpakpaanl (Translation)	Uja Fɔfɔk Uba	id=18775
+Luganda (Translation)	Omusajja Omuwanvu Ennyo	id=8720
+Lugbarati (Translation)	Agu Azi Izu Ni	id=2329
+Lugbarati (Official) (Translation)	Ágʉ̀pɨ́ Ɨ́zʉ̀ Rɨ́	id=8780
+Lumasaaba (Translation)	Umusaani Umuleeyi Naabi	id=3004
+Lunyole (Translation)	Omusinde Omuleŋi Obugali	id=2330
+Lusoga (Translation)	Omusaadha Omuleeyi  Einho	id=919
+Setswana (Translation)	Monna O Motelele-Telele	id=2331
+Shona (Translation)	Murume akarebesa	id=19953
+Yoruba (Translation)	Ọkùnrin Gíga Púpọ̀ Kan	id=10688
+Zarma (Translation)	Gorzo	id=10098

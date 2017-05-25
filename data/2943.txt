@@ -1,0 +1,31 @@
+url:	http://africanstorybook.org/reader.php?id=2943&d=0&a=1
+id:	2943
+title:	Sniffles Mamba Na Punch Kipepeo
+author:	Brigid Simiyu
+artist:	Herminder Ohri
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2943.png
+desc:	Marafiki ni wa nini ikiwa si wa kusaidiana? Hii ni hadithi ya marafiki wawili wasio wa kawaida na ambao ni werevu.
+
+page_text:
+
+P1	Huku wakitingiza vichwa vyao wakitaka kuwafukuza vipepeo,  walisema,  "Hakuna mamba hapa,  tutaleta nyavu halafu tushike vipepeo." Kisha waliondoka na kwenda. Mamba wote walikusanyika na kusema,  "Asante Punch." "Asante Vipepeo."
+P2	Siku iliyofuata,  Sniffles aliwaona wanaume wakiwa wamebeba nyavu. Alikumbuka Punch akimwambia kuhusu nyavu. "Punch,  nyavu! Njoo hapa haraka! Wanaume wenye nyavu wamekuja." Mamba wote walienda kwenye ukingo wa mto. Vipepeo walitulia juu ya migongo na vichwa vya mamba.
+
+images:
+
+illustrations/pages/2259.png
+illustrations/pages/2260.png
+illustrations/pages/2261.png
+illustrations/pages/2262.png
+illustrations/pages/2263.png
+illustrations/pages/2264.png
+illustrations/pages/2265.png
+illustrations/pages/2266.png
+
+translations:
+
+English (Original)	Sniffles the Crocodile and Punch the Butterfly	id=2940
+isiXhosa (Translation)	Ujoja Ingwenya Nonogolide Ibhabhathane	id=2944

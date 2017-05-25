@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=12646&d=0&a=1
+id:	12646
+title:	A’Ugbe A’Ugbea
+author:	Angunduyo Milly
+artist:	Sue Kramer
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12646.png
+desc:	Sentences with photographs of yellow everyday objects.
+
+page_text:
+
+P1	Alapapa a'ugbe a'ugbea coza leri cinya.
+P2	Ari mupiraa ru a'ugbe a'ugbea ru ri jo alea.
+P3	Akanya a'ugbe a'ugbea ru ri nzila dria.
+P4	Mutukari ambo a'ugbe a'ugbea ru ri aku abo ri alea.
+P5	Bakule ambo a'ugbe a'ugbearu ri nyaku dria.
+P6	Mawua a'ugbe a'ugbea ru ri ndoo alea.
+P7	Karia pa be su a'ugbe a'ugbea ru ri geria.
+P8	Afa onzozu a'ugbe a'ugbea ru ri pari anyapa asea 'diyi ni a-a zu ria.
+P9	Jo a'ugbe a'ugbea ru ri kalaa.
+P10	Afrika a'ugbe a'ugbea ru ri ma dria.
+P11	Azini ama dria,  a-a ngoa ya? Afrika.
+
+images:
+
+illustrations/pages/934.png
+illustrations/pages/935.png
+illustrations/pages/936.png
+illustrations/pages/937.png
+illustrations/pages/938.png
+illustrations/pages/939.png
+illustrations/pages/940.png
+illustrations/pages/941.png
+illustrations/pages/942.png
+illustrations/pages/943.png
+illustrations/pages/1259.png
+illustrations/pages/945.png
+
+translations:
+
+English (Original)	Yellow	id=1258
+isiXhosa (Translation)	Umbala Omthubi	id=2350
+Kikamba (Translation)	Langi Wa Ilaa Ya Muuti	id=3000
+Lunyole (Translation)	Yellow	id=9347
+Maa (Translation)	Éísikítoi	id=3001
+Ng’aturkana (Translation)	Anyang’Aanut	id=2351
+Oluwanga (Translation)	Eshiengu	id=2352

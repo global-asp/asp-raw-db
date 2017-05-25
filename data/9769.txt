@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=9769&d=0&a=1
+id:	9769
+title:	Je M'amuse - I Enjoy
+author:	Isabelle Duston
+artist:	Wiehan de Jager
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9769.png
+desc:	Une petite fille décrit tout ce quelle aime.
+
+page_text:
+
+P1	I enjoy skipping rope.J'aime sauter à la corde.
+P2	Alone. Toute seule.
+P3	I enjoy skipping it with my friend too.J'aime aussi sauter à la corde avec mes amies.
+P4	I enjoy reading interesting stories.J'aime lire des histoires intéressantes.
+P5	I enjoy walking in the field with my friends.J'aime marcher dans la campagne avec mes amis.
+P6	I enjoy washing utensils for my mother.J'aime laver la vaisselle pour maman.
+P7	I enjoy writing big letters that I can read easily.J'aime écrire avec des grandes lettres,  qui sont facile à lire.
+P8	I enjoy eating different fruit.J'aime manger toutes sortes de fruits.
+P9	I enjoy sleeping on a big bed.J'aime dormir dans un grand lit.
+P10	I enjoy listening to mother telling interesting stories.J'aime écouter maman,  quand elle me raconte des histoires.
+P11	Ooh! I enjoy doing all these things!Ah! J'aime faire tout cela.
+
+images:
+
+illustrations/pages/1492.png
+illustrations/pages/1493.png
+illustrations/pages/1494.png
+illustrations/pages/1495.png
+illustrations/pages/1496.png
+illustrations/pages/1497.png
+illustrations/pages/1498.png
+illustrations/pages/1499.png
+illustrations/pages/1500.png
+illustrations/pages/1501.png
+illustrations/pages/1492.png
+illustrations/pages/1502.png
+
+translations:
+
+English (Translation)	Ndikonda	id=7774
+English (Adaptation)	I Like	id=10430
+English (Adaptation)	I Enjoy Doing	id=15274
+English (Translation)	Cilandikonda - I Enjoy	id=16451
+Kiswahili (Original)	Ninafurahi - I Enjoy	id=2106
+Luganda (Translation)	Nyumirwa	id=8284
+Lugbarati (Official) (Translation)	Álèàvásɨ̀	id=8785
+Lumasaaba (Translation)	Niwulila Bulayi	id=8285
+Lunyole (Translation)	Ese Nyumirwa	id=8400
+Maa (Translation)	Káshípákíno	id=7869
+Ng’aturkana (Translation)	Alakarikina	id=8449
+Oluwanga (Translation)	Ndachama	id=8283
+Rutooro (Translation)	Ngonza - I Enjoy	id=9484
+Tunisian (Translation)	Yiġjibni - I Enjoy	id=15382

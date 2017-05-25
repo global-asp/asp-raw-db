@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=2505&d=0&a=1
+id:	2505
+title:	Watoto Wa Nta
+author:	Mutugi Kamundi
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2505.png
+desc:	Palikuwa na familia moja ya watoto watatu watiifu.  Ilikuwa shida kwani  walikuwa watoto wa nta kwa hivyo walifanya shughuli zote usiku kwa kuhofia kuyeyushwa na jua kali.  Lakini mvulana mmoja anatamani sana kuiona dunia mchana na hivyo anatoka na kutembea nje.  Bila shaka
+
+page_text:
+
+P1	Hapo zamani za kale,  kulikuwa na familia moja yenye furaha.
+P2	Waliishi kwa amani.  Heri,  Amani na Musa waliwasaidia wazazi nyumbani na shambani.
+P3	Wazazi wao hawakuwaruhusu waende karibu na moto,  wala kukaa juani.
+P4	Heri,  Amani na Musa walifanya kazi zao zote usiku.
+P5	Musa alitamani kwenda nje wakati wa mchana.
+P6	Siku moja tamaa ilimzidi. Nduguze,  Heri na Amani,  walimwonya asiende juani lakini,  hakuwasikiza.
+P7	Joto lilipokuwa kali,  Musa aliyeyuka.
+P8	Heri na Amani walihuzunika walipomwona Musa akiyeyuka.
+P9	Heri na Amani waliichukua nta iliyoyeyuka wakamtengeneza ndege.
+P10	Kisha walimweka ndege huyo juu ya mlima mrefu.
+P11	Jua lilipochomoza,  ndege huyo alipeperuka akiimba kwa furaha.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

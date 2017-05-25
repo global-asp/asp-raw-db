@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=10132&d=0&a=1
+id:	10132
+title:	Leeto La Ka La Go Ya Lešokeng La Diphoofolo
+author:	Lillian Dhlamini
+artist:	Melany Pietersen, Rob Owen and Catherine Groenewald
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10132.png
+desc:	This is a story about how a day was spent at the zoo.
+
+page_text:
+
+P1	Lehono ke be ke ile lešokeng la diphoofolo.
+P2	Kebone diphoofolo ka mehutahutaKe bone tau,  morena wa diphoofolo.
+P3	Ke bone tlou,  phoofolo ye boima.
+P4	Ke bone kwena,  phoofolo eya meno a bogale.
+P5	Ke bone le thutlwa,  phoofolo ye telele.
+P6	Ke bone dipitsi tše dintsi,  tša mmala o mobotse.
+P7	Gape ke bone le kgomo,  phoofolo ya go fepa ditjhaba kanama le maswi.
+P8	Ke be ke thabile kudu. Bjale ke nako ya go boela gae.
+
+images:
+
+illustrations/pages/8572.png
+illustrations/pages/8573.png
+illustrations/pages/9628.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9647.png
+illustrations/pages/9650.png
+illustrations/pages/9630.png
+illustrations/pages/9935.png
+
+translations:
+
+English (Original)	My Trip to the Zoo	id=9968

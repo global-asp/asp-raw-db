@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=10131&d=0&a=1
+id:	10131
+title:	Jojo Le Kgomo
+author:	Matlakala Cynthia Kutumela
+artist:	Rob Owen and Catherine Groenewald
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10131.png
+desc:	Jojo o rata kgomo ja gagwe
+
+page_text:
+
+P1	Jojo ke mošemanyana.
+P2	Jojo o dula le mmagwe le kgomo ya go dira mašwi.
+P3	Jojo o rata kgomo.
+P4	Ka mehla mma go Jojo o gama Kgomo.
+P5	Jojo o nwa mašwi.
+P6	Jojo o iša kgomo goyo fula.
+P7	Jojo o fa kgomo meetse.
+P8	Mmago Jojo o a apea dijo.
+P9	Jojo o ipšhinya ka dijo.
+P10	Jojo le megwera wa gagwe,  ba raloka kgwele ya maoto.
+P11	Jojo o bala puku.
+P12	Jojo o laela kgomo gomme o ile go robala.
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/7934.png
+illustrations/pages/7937.png
+illustrations/pages/7936.png
+illustrations/pages/7940.png
+illustrations/pages/7942.png
+illustrations/pages/7939.png
+illustrations/pages/7938.png
+illustrations/pages/8557.png
+illustrations/pages/7928.png
+illustrations/pages/7926.png
+illustrations/pages/7944.png
+illustrations/pages/7939.png
+
+translations:
+
+Amharic (Translation)	ጆጆና ላሚቷ	id=18457
+English (Original)	Jojo and Cow	id=8717
+Lunyole (Translation)	Jojo   N’Eŋombe	id=10016

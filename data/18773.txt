@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=18773&d=0&a=1
+id:	18773
+title:	Two Thieves
+author:	Candiru Enzikuru Mary
+artist:	Marion Drew
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18773.png
+desc:	Two thieves wanted to steal maize from a farmer’s garden one night.
+
+page_text:
+
+P1	Two thieves wanted to steal maize from a farmer's garden one night. They did know about one another.
+P2	The first thief came and harvested a sack of maize.
+P3	The second thief entered the farmer's garden,  leaving his bicycle outside.
+P4	The two thieves bumped into one another in the maize field. They both cried out,  "Who are you?"
+P5	They both got a fright and ran away in opposite directions.
+P6	The first thief left behind his bag of maize.
+P7	The second thief left behind his bicycle.
+P8	When the farmer came he used the bicycle to carry the sack of maize.
+
+images:
+
+illustrations/pages/18364.png
+illustrations/pages/18363.png
+illustrations/pages/18364.png
+illustrations/pages/18365.png
+illustrations/pages/18366.png
+illustrations/pages/18367.png
+illustrations/pages/18368.png
+illustrations/pages/18369.png
+illustrations/pages/18370.png
+
+translations:
+
+Alur (Translation)	Jukwo Aryo	id=18774

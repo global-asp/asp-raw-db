@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=12581&d=0&a=1
+id:	12581
+title:	Dikatse Tša Selemeng
+author:	Motlhago Sara Mohale
+artist:	Jesse Breytenbach
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12581.png
+desc:	Selemeng o nale dikatse tše dintši le mpša ye tee. O di rata ka moka.
+
+page_text:
+
+P1	Selemeng o rata dikatse. Ke tše dintši ga gabo.
+P2	Selemeng o na le katse ye tee ye ntsho. E ja nama kudu.
+P3	Selemeng o na le katse ya go nona kudu. E ja sengwe le sengwe.
+P4	Katse ya boraro,  e a kitima,  ya namela mohlare. Ya ba le bothata gore e tla fologa bjang mohlareng.
+P5	Selemeng le yena a namela mohlare. Selemeng a ba le bothata le yena. Mma wa Selemeng a swanela ke go tlo thuša Selemeng le katse go fologa mohlare.
+P6	Selemeng o na le dikatse tše pedi gape. Di be di rata go orela letšatši mosegare ka moka.
+P7	Selemeng o na le dikatse tše tharo gape tša go phela di šoma. Bošego di swara magotlo ka ntlong ya dijo.
+P8	Selemeng o na le mpša ye tee. Leina la yona ke Lirafi. Lirafi ga ena bagwera. E kwatile.
+P9	Dikatse tša Selemeng ga di rate Lirafi. Tša koba Lirafi ka ntlong. Lirafi ya tšhaba.
+P10	Selemeng a swanela ke go lata Lirafi gore e boe gae. Dikatse tšona tša kwata. Ga di nyake go bona Lirafi le ga tee.
+P11	Selemeng o na le dikatse tše kae ga gabo? Ee,  o na le dikatse tše seswai!
+P12	Selemeng o na le dimpša tše kae ga gabo? Ee,  o na le mpša ye tee. Selemeng o rata dikatse tša gagwe tše seswai le mpša ya gagwe ye tee.
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Aduroota Caala	id=12956
+English (Translation)	Selemeng's Cats	id=12155
+French (Translation)	Les Chats De Selemeng	id=13276
+Kiswahili (Translation)	Paka Wa Selemeng	id=15558
+Sesotho (Lesotho) (Original)	Likatse Tsa Selemeng	id=12027

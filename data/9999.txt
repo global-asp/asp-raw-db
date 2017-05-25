@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=9999&d=0&a=1
+id:	9999
+title:	Yarinyar Da Ta Yi Arziki
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Mango Tree
+lang:	Hausa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9999.png
+desc:	Ƴan mata biyu sun tafi neman abinci.Duka biyun sun gamu da wata tsofuwa bisa hanyarsu
+
+page_text:
+
+P1	An yi wasu ƙannu biyu da ake kira Nelima da Nambuya. Uwayensu sun rasu. Ƴan matan biyu suna rayuwa a wani yanki mai hamada. Ba ruwan sama,  ba cimaka. Kowa yake son abincin,  sai ya yi tafiya mai nisan gaske.
+P2	Nelima yarin ce ma ɗa'a,  lafiya da kuma kirki. Ƙanwarta Nambuya tana son rayuwa kuma ba ta jin gargaɗi. Ba ta kula da sauran mutane kuma ba ta darajjanta su.
+P3	Wata rana,  ƙannuwan biyu sun tashi daga barci,  kuma sun fiskanci cewa babu abinci ko kaɗan. Sai suka yi niyyar tafiya neman abincin. Nelima da Nambuya sun ɗauki hanya dabam-dabam.
+P4	Lokacin nan,  wata tsofuwa da ake kira Netasile tana rayuwa kusa da gari. Tana da ƙoƙarin temakawa don tana arzika. Sai dai Netasile tana da kuturta,  kuma duk jikinta ƙuraje ne.
+P5	Nambuya ta haɗu da wannan tsofuyar,  da ta kiraye ta "Ɗiyata,  kina lafiya? Daga ina kike? Ina za ki?"
+P6	Nambuya ta amsa duk tambayoyin. Bayan haka, sai tsofuwar matar ta ce,  "Maida ni gidana,  kuma zan gaya miki abin da za ki yi." Nambuya ta wulaƙanta tsofuyar. Ta ce mata: "Na fi son in mutu da taɓa wannan ƙurajen naki."
+P7	Tsofuwar ba ta ce komi kuma ta muta fatan ta sabka lafiya.
+P8	Nambuya ta yi ta tafiya har sai da ta zo wani wuri na mamaki. Wurin akwa shanshani,  macizai,  kai da duk wani ƙwari. Nambuya ta gaji,  kuma ga yunwa saboda ba ta ci komi ba. Ko da zamna ta futa,  sai ƙwarin suka fito suka cinye ta.
+P9	Bisan hanyarta,  Nelima ita ma ta haɗu da tsofuwar. Ta yi farin cikin ganin Netasile,  saboda ita ce mutum ta farko da ta haɗu da ita cikin wannan bulaguron. Tsofuwar ta kiranyo ta kuma ta muta tambayoyi kamar yadda ta yi ma ƴar uwarta.
+P10	Nelima ta yarda ta maida tsofuwar gidanta. "Kin yi aikin da mutane da yawa suka guje ma," in ji tsofuwar. Sai ta ba ma Nelima wata sanda kuma ta ce mata ta koma gida,  can za ta iske duk abin da take so.
+P11	Nelima ta gode ma tsofuwar sosai kuma ta yi gaugawa ta koma gida. Ta tarda a gidan,  ɗaki cike da kaya da abincin. Ta zamanto it ace ma arzikin garin.
+P12	Amma ta yi ta kuka da rishin ƙanwarta kuma ta ce,  "wandan bai jin gargadi zai gamu da mugun abu."
+
+images:
+
+illustrations/pages/9239.png
+illustrations/pages/9230.png
+illustrations/pages/9231.png
+illustrations/pages/9232.png
+illustrations/pages/9233.png
+illustrations/pages/9234.png
+illustrations/pages/9235.png
+illustrations/pages/9237.png
+illustrations/pages/9236.png
+illustrations/pages/9238.png
+illustrations/pages/9239.png
+illustrations/pages/9240.png
+illustrations/pages/9241.png
+
+translations:
+
+Afrikaans (Translation)	Die Meisie Wat Ryk Geword Het	id=11254
+Amharic (Translation)	ሃብታሟ ልጅ	id=13097
+English (Translation)	The Girl Who Got Rich	id=9243
+French (Translation)	La Jeune Fille, Qui Devient Riche.	id=9962
+French (Translation)	La Jeune Fille Qui Devint Riche	id=10938
+Fulfulde (Translation)	Suka Debbo Diikaaɗo	id=10025
+isiZulu (Translation)	Intombazanyana Eyaba Isicebi	id=12170
+Kanuri (Translation)	Kәlayakku Gaɍiwujǝna	id=10043
+Kiswahili (Translation)	Nelima Atajirika	id=12687
+Lumasaaba (Original)	Nelima Agagawala	id=9242
+Ng’aturkana (Translation)	Apese Na Abu Tabar	id=12707
+Oluwanga (Translation)	Akhabere Aba Omuyiinda	id=13019
+Oluwanga (Adaptation)	Akhabere Aba Omuyiinda	id=19798
+Portuguese (Translation)	A Menina Que Ficou Rica	id=16582
+Zarma (Translation)	Wandiya Kaŋ Te Arzaka	id=10107

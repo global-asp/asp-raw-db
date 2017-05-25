@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=7594&d=0&a=1
+id:	7594
+title:	Tulinda
+author:	Cornelius Gulere
+artist:	Marleen Visser, Marion Drew, Catherine Groenewald and Herminder Ohri
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7594.png
+desc:	We wait is a story about waiting.
+
+page_text:
+
+P1	Ebitewo.
+P2	Masaala.
+P3	Takisi.
+P4	Bageni.
+P5	Tulindirira!
+
+images:
+
+illustrations/pages/7572.png
+illustrations/pages/6379.png
+illustrations/pages/7560.png
+illustrations/pages/7576.png
+illustrations/pages/6755.png
+illustrations/pages/2095.png
+
+translations:
+

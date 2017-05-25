@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=2219&d=0&a=1
+id:	2219
+title:	Ke Nna O
+author:	Lorato Trok
+artist:	Kathy Arbuckle
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2219.png
+desc:	Buisa ka nna: ke mang
+
+page_text:
+
+P1	Se ke setshwantsho sa me.
+P2	Ke na le dingwaga di le thataro.
+P3	Ke tlholegile ka Moranang.
+P4	Se ke setshwantsho sa ba lelapa la me.
+P5	Dijo tse ke di ratang thata ke matapole a a gadikilweng le tlhapi.
+P6	Ke kgona go taka seatla sa me.
+P7	Ke na le dingwaga tse thataro.
+P8	Nomoro ya ka ya mogala ke 033 – 3426587.
+
+images:
+
+illustrations/pages/1709.png
+illustrations/pages/1710.png
+illustrations/pages/1711.png
+illustrations/pages/1712.png
+illustrations/pages/1797.png
+illustrations/pages/1713.png
+illustrations/pages/1714.png
+illustrations/pages/1715.png
+illustrations/pages/1716.png
+
+translations:
+
+Afaan Oromo (Translation)	Kuni Ana	id=12232
+Ateso (Adaptation)	Enngo Naa.	id=10557
+English (Original)	This is Me	id=1798
+Kikamba (Translation)	Uyu Ni Nye	id=2216
+Luganda (Translation)	Ono Ye Nze	id=2217
+Lugbarati (Translation)	‘Di Ma I	id=2718
+Lugbarati (Official) (Translation)	‘Dì Má Ɨ́	id=8763
+Lunyole (Translation)	Ono Ndiise	id=2218

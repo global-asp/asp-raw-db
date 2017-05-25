@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=10202&d=0&a=1
+id:	10202
+title:	Rangi Ya Chungwa
+author:	Ursula Nafula
+artist:	Catherine Groenewald
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10202.png
+desc:	Mtoto anavutiwa na rangi ya chungwa.
+
+page_text:
+
+P1	Mimi na babangu tulienda mjini.
+P2	Mwanamke aliyavaa nguo ya rangi ya chungwa alitembea barabarani.
+P3	Alijifunga mshipi mkubwa mwekundu.
+P4	Alibeba kibeti cha rangi ya chungwa.
+P5	Alivaa viatu vya rangi ya chungwa vyenye visigino virefu.
+P6	Alikutana na msichana mdogo na mbwa wake.
+P7	Alipozirekebisha nywele zake,  kibeti chake kilianguka chini.
+P8	Aliinama kwa utaratibu kukiokota kibeti chake.
+P9	Vipuli vyake virefu vya rangi ya chungwa vilionekana.
+P10	Tulipoendelea na safari,  nilizidi kumtazama mwanamke huyo.
+P11	Babangu alitabasamu aliponiona.
+P12	Ninaipenda rangi ya chungwa.
+
+images:
+
+illustrations/pages/9474.png
+illustrations/pages/9465.png
+illustrations/pages/9466.png
+illustrations/pages/9469.png
+illustrations/pages/9470.png
+illustrations/pages/9939.png
+illustrations/pages/9940.png
+illustrations/pages/9474.png
+illustrations/pages/9942.png
+illustrations/pages/9475.png
+illustrations/pages/9476.png
+illustrations/pages/9477.png
+illustrations/pages/9478.png
+
+translations:
+
+English (Translation)	The Lady In Orange	id=18892
+Portuguese (Translation)	A Senhora Em Cor-De-Laranja	id=18893

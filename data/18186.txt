@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=18186&d=0&a=1
+id:	18186
+title:	أين قطتي؟
+author:	Hanadi Traifeh
+artist:	Bronwen Heath
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18186.png
+desc:	My cat has disappeared. Can you see my cat anywhere?
+
+page_text:
+
+P1	أين قطتي؟
+P2	هل هي تحت السرير؟
+P3	هل هي فوق الخزانة؟
+P4	هل هي وراء الأريكة؟
+P5	هل هي بجانب حاوية القمامة؟
+P6	هل هي داخل السلة؟
+P7	هل هي خارج المنزل؟
+P8	!ها هي.
+
+images:
+
+illustrations/pages/1565.png
+illustrations/pages/1565.png
+illustrations/pages/1822.png
+illustrations/pages/1566.png
+illustrations/pages/1567.png
+illustrations/pages/1568.png
+illustrations/pages/1569.png
+illustrations/pages/1570.png
+illustrations/pages/1823.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurreen Koo Essaa Jirtii?	id=12953
+Afrikaans (Translation)	Waar is my Kat?	id=7710
+Aringati (Translation)	Mâ Búrãŋâ Íngõlé?	id=7529
+English (Original)	Where is my Cat?	id=1825
+isiNdebele (Translation)	Ukuphi Ukatsu Wami?	id=13058
+isiXhosa (Translation)	Iphi Ikati Yam?	id=13247
+Kinyarwanda (Translation)	Injangwe Yanjye Irihe ?	id=11491
+Kiswahili (Translation)	Wapi Paka Wangu?	id=1970
+Luganda (Translation)	Kkapa Yange Eri Wa?	id=2120
+Lugbarati (Translation)	Ma Vile Busua Ngua Ya?	id=2784
+Lugbarati (Official) (Translation)	Má Vɨ́lé Búsùá Ngʉ̀á Yǎ?	id=8760
+Lunyole (Translation)	Ekapa Yange Yiri Ŋeena?	id=2123
+Lusoga (Translation)	Eipuusi Lyange Lili Gha?	id=2125
+Ng’aturkana (Translation)	Aluwae Eyei Ipus Nikang'?	id=9544
+Portuguese (Translation)	Onde Está O Meu Gato?	id=19222
+Sabinyi (Translation)	Miite Ani Pisimwani?	id=2126
+Sepedi (Translation)	Katse Yaka E Kae?	id=7478
+Setswana (Translation)	Katse Ya Me E Kae?	id=2128
+siSwati (Translation)	Liphi Likati Lami	id=11217
+Tunisian (Translation)	Wìn Qaŧŧùsi?	id=15387
+Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=10855
+Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=11643
+Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=11644
+Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=11645
+Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=11646
+Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=11648
+Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=11649

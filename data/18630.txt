@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18630&d=0&a=1
+id:	18630
+title:	Ndakkomana Kucita
+author:	Edith Sikota Habwanda
+artist:	Wiehan de Jager
+lang:	ChiTonga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18630.png
+desc:	Yebo ncinzi ncokkomanina kucita?
+
+page_text:
+
+P1	Ndakkomana kusobana alutambo amweenzuma.
+P2	Ndakkomana kulemba aboodi.
+P3	Ndakkomana kubala mabbuku ajisi zifwanikiso.
+P4	Ndakkomana kulya micelo yaandeene-andeene.
+P5	Ndakkomana kugwasya kung'anda.
+P6	Ndakkomana kuswiilizya kutwaano twabaama.
+P7	Ndakkomana koona abulo bupati.
+P8	Ndakkomana kucita zintu eezi.    Ino yebo ukkomanina kucita nzi?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat Ek Graag Doen	id=20061
+CiNyanja (Translation)	Vintu Vamene Nikonda Kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I Enjoy Doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18984
+Sesotho (South Africa) (Translation)	Ke Rata Ho Etsa 	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18986
+Xitsonga (Translation)	Ndzi Rhandza Ku Endla	id=18875

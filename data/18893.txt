@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18893&d=0&a=1
+id:	18893
+title:	A Senhora Em Cor-De-Laranja
+author:	Translators without Borders and Rossana Lima
+artist:	Catherine Groenewald
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18893.png
+desc:	Qual é o segredo da senhora em cor-de-laranja?
+
+page_text:
+
+P1	O meu pai levou-me até à cidade no nosso velho carro azul. Parámos numa grande rotunda à espera que as luzes ficassem verdes.
+P2	Vi uma senhora a andar ao lado da rua. Usava um lindo vestido cor-de-laranja vivo.
+P3	Tinha um grande cinto vermelho à volta da cintura.
+P4	Na mão,  trazia uma pequena mala de mão cor-de-laranja brilhante.
+P5	Usava um par de sapatos altos cor-de-laranja brilhantes.
+P6	Parou e tocou no seu cabelo comprido,  que estava amarrado no meio com um gancho.
+P7	Enquanto ajeitava o gancho,  a sua mala de mão caiu. "Oh," disse eu sentindo pena dela.
+P8	A senhora baixou-se para apanhar a sua mala de mão.
+P9	Vi uns brincos cor-de-laranja compridos enquanto ela limpava o pó da sua mala de mão.
+P10	As luzes mudaram para verde,  e o nosso carro arrancou,  mas eu fiquei a olhar para trás.
+P11	"Para o que é que estás a olhar?" perguntou o meu pai.
+P12	"Para aquela senhora cor-de-laranja," disse eu. Pensei na cor laranja durante todo o dia.
+
+images:
+
+illustrations/pages/9474.png
+illustrations/pages/9465.png
+illustrations/pages/9466.png
+illustrations/pages/9469.png
+illustrations/pages/9470.png
+illustrations/pages/9939.png
+illustrations/pages/9940.png
+illustrations/pages/9474.png
+illustrations/pages/9942.png
+illustrations/pages/9475.png
+illustrations/pages/9476.png
+illustrations/pages/9477.png
+illustrations/pages/9478.png
+
+translations:
+
+English (Translation)	The Lady In Orange	id=18892
+Kiswahili (Original)	Rangi Ya Chungwa	id=10202

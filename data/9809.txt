@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=9809&d=0&a=1
+id:	9809
+title:	A Tiny Seed: The Story of Wangari Maathai
+author:	Nicola Rijsdijk
+artist:	Maya Marshak and Onesmus Kakungi
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9809.png
+desc:	In a village on the slopes of Mount Kenya
+
+page_text:
+
+P1	In a village on the slopes of Mount Kenya in East Africa,  a little girl worked in the fields with her mother. Her name was Wangari.
+P2	Wangari loved being outside. In her family's food garden she broke up the soil with her machete. She pressed tiny seeds into the warm earth.
+P3	Her favourite time of day was just after sunset. When it got too dark to see the plants,  Wangari knew it was time to go home. She would follow the narrow paths through the fields,  crossing rivers as she went.
+P4	Wangari was a clever child and couldn't wait to go to school. But her mother and father wanted her to stay and help them at home. When she was seven years old,  her big brother persuaded her parents to let her go to school.
+P5	She liked to learn! Wangari learnt more and more with every book she read. She did so well at school that she was invited to study in the United States of America. Wangari was excited! She wanted to know more about the world.
+P6	At the American university Wangari learnt many new things. She studied plants and how they grow. And she remembered how she grew: playing games with her brothers in the shade of the trees in the beautiful Kenyan forests.
+P7	The more she learnt,  the more she realised that she loved the people of Kenya. She wanted them to be happy and free. The more she learnt,  the more she remembered her African home.
+P8	When she had finished her studies,  she returned to Kenya. But her country had changed. Huge farms stretched across the land. Women had no wood to make cooking fires. The people were poor and the children were hungry.
+P9	Wangari knew what to do. She taught the women how to plant trees from seeds. The women sold the trees and used the money to look after their families. The women were very happy. Wangari had helped them to feel powerful and strong.
+P10	As time passed,  the new trees grew into forests,  and the rivers started flowing again. Wangari's message spread across Africa. Today,  millions of trees have grown from Wangari's seeds.
+P11	Wangari had worked hard. People all over the world took notice,  and gave her a famous prize. It is called the Nobel Peace Prize,  and she was the first African woman ever to receive it.
+P12	Wangari died in 2011,  but we can think of her every time we see a beautiful tree.
+
+images:
+
+illustrations/pages/9803.png
+illustrations/pages/9803.png
+illustrations/pages/9804.png
+illustrations/pages/9805.png
+illustrations/pages/9806.png
+illustrations/pages/9807.png
+illustrations/pages/9808.png
+illustrations/pages/9810.png
+illustrations/pages/9811.png
+illustrations/pages/9812.png
+illustrations/pages/9813.png
+illustrations/pages/13091.png
+illustrations/pages/9815.png
+
+translations:
+
+Afrikaans (Translation)	'n Klein Saadjie: Die Verhaal Van Wangari Maathai	id=11337
+French (Translation)	Une Petite Graine: L’Histoire De Wangari Maathai	id=10136
+isiXhosa (Translation)	Imbewu Encinci: Ibali Lika Wangari Maathai	id=11582
+Kiswahili (Translation)	Hadithi Kumhusu Wangari Maathai	id=9911
+Kiswahili (Adaptation)	Wangari Maathai	id=18329
+Kiswahili (Adaptation)	Wangari Maathai	id=19354
+Lámnsoʼ (Translation)	Shiŋgoòy: Kimfèr Ke Wangari Mathay	id=14721
+Yoruba (Adaptation)	Èso Kékeré Kan: Ìtàn Tí Wangari Maathai	id=11890

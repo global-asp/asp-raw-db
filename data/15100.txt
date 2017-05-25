@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=15100&d=0&a=1
+id:	15100
+title:	Nkhumba Zakhondeswa
+author:	Little Zebra Books and Nandipha Tatoba
+artist:	Little Zebra Books and Laura Libertore
+lang:	Chisena
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15100.png
+desc:	This tale explains why pigs have flat noses. What else does the story teach us?
+
+page_text:
+
+P1	Pyaka pidamala n'nduli,  nsoka ubodzi wa pinyama pya nyanga,  wabverana kucita phwandu yawo padzulu pa mapiri. Iwo acemeresa basi ene pinyama pinango pya nyanga. Pinango nkhabe.
+P2	Nkhumba pidabva iye kulongwa na thangwi ya phwandu,  iye anyerezera,  ine nkhabe nyanga ibodzi. Ndinacitanji?
+P3	Mangwana mwace,  ndzeru zam'bwerera. Iye anyerezera kumedera nyanga zingasi na upula mu nsolo mwace!
+P4	Mangwana mwace,  ndzeru zam'bwerera. Iye anyerezera kumedera nyanga zingasi na upula mu nsolo mwace!
+P5	Mudatoma kuriya phwandu,  upula watoma kunyunguluka pontho nyanga mbazitoma kugwa. Pinyama pya nyanga pyaipirwa,  mbapibvundzisa kuti: "Mbani ule adasoweka nyanga?" Thangwi yanji iye abwera pano?
+P6	Mambo wa pinyama alonga kuti: "Imangeni nkhumba iyi muiponye pantsi. "Tenepa,  pinyama pyonsene,  mudabva ipyo mafala a mambo,  acitadi pen epi.  Aphata nkhumba mbaiponya pantsi. Ang'anani pidacitika na Nkhumba! Mudagwa iye,  agwa na mphuno. Pontho akhala na mphuno yakunyinduka.
+P7	Mudamala iwo basa yawo,  pinyama pinango pyonsene pyabwerera ku phwandu. Ipyo pyadya mbapiphupudza na kubvina. Pontho mambo akomerwa.
+P8	Mphapo leka kudzumatirwa ungaona mphuno ya Nkhumba yanyinduka,  thangwi akhala tenepo kwenda na kwenda.
+
+images:
+
+illustrations/pages/6814.png
+illustrations/pages/6805.png
+illustrations/pages/6806.png
+illustrations/pages/6807.png
+illustrations/pages/6809.png
+illustrations/pages/6808.png
+illustrations/pages/6810.png
+illustrations/pages/6811.png
+illustrations/pages/6813.png
+
+translations:
+
+Afrikaans (Translation)	Geen Varke Toegelaat Nie	id=10916
+Chichewa (Translation)	Nkhumba Ikanizidwa Kuphwando Chifukwa Chopanda Nyanga	id=15101
+Chinyungwe (Original)	Cikondweso Kudzulu	id=7270
+Elomwe (Translation)	Efesta Ya Ashinama a Manyaka	id=15098
+English (Translation)	No Pigs Allowed	id=7272
+French (Translation)	Interdit Aux Cochons	id=10838
+isiXhosa (Translation)	Azivumelekanga Iihagu Apha	id=10127
+Kiswahili (Translation)	Nguruwe Hawaruhusiwi	id=12653
+Ng’aturkana (Translation)	Emam Ng'ikurung'oi Achamitae	id=12628
+Oluwanga (Translation)	Tsingurwe Shitsinjisibwa Tawe	id=12970
+Portuguese (Translation)	Não São Permitidos Porcos	id=15099
+siSwati (Translation)	Tingulube Atikavunyelwa	id=13050

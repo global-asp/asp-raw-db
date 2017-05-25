@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=10149&d=0&a=1
+id:	10149
+title:	Sound Aaa
+author:	Cissy Namugerwa
+artist:	Mlungisi Dlamini, Cathy Feek, Wiehan de Jager, Catherine Groenewald, Jesse Pietersen, Karlien de Villiers, Marike le Roux, Franz Phooko, Vusi Malindi and Jesse Breytenbach
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10149.png
+desc:	The rhyme talks about sound  Aa.
+
+page_text:
+
+P1	I am Ana Maria Namata.
+P2	My dad is Mr Agaba Ali.
+P3	My mum is Ananga Asha. She cares and loves so much.
+P4	Dad wants apples and ants.
+P5	Angela and Agatha play with toy cats and rabbits.
+P6	Male is a tall man.
+P7	Apples are packed in a basket.
+P8	Namata,  Cathy,  Sara, Ali and Aba sat together.
+P9	Mummy taught me words with sound Aa.
+P10	Namagala is a prayerful girl.
+P11	Asaba and Akello learnt about a train.
+
+images:
+
+illustrations/pages/6784.png
+illustrations/pages/9853.png
+illustrations/pages/9582.png
+illustrations/pages/8509.png
+illustrations/pages/1576.png
+illustrations/pages/9584.png
+illustrations/pages/6619.png
+illustrations/pages/6784.png
+illustrations/pages/9855.png
+illustrations/pages/8854.png
+illustrations/pages/959.png
+illustrations/pages/9689.png
+
+translations:
+
+Luganda (Original)	Ennukuta Yange Eya Aa.	id=7794
+Lusoga (Translation)	Nhukuta Aa	id=8174

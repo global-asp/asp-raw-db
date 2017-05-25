@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=13631&d=0&a=1
+id:	13631
+title:	New Pussy Cat
+author:	Ritah Katetemera
+artist:	Marleen Visser
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13631.png
+desc:	Prosy wanted a cat. The whole family wanted a cat. Eventually they found the right cat.
+
+page_text:
+
+P1	Prosy wanted a pussy cat.
+P2	Prosy's family went to visit the pussy cats.
+P3	Prosy wanted this cat. It was too big for her.
+P4	Tim wanted this kitten. It was too small for him.
+P5	Mum wanted this kitten. It was too quick for her.
+P6	Everyone liked this kitten.
+P7	They took the kitten.
+P8	Everyone is happy with the new pussy cat.
+
+images:
+
+illustrations/pages/9557.png
+illustrations/pages/9554.png
+illustrations/pages/9555.png
+illustrations/pages/9556.png
+illustrations/pages/9557.png
+illustrations/pages/9558.png
+illustrations/pages/9559.png
+illustrations/pages/9560.png
+illustrations/pages/9561.png
+
+translations:
+
+Luganda (Original)	Pussi Empya	id=13630

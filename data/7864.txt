@@ -1,0 +1,100 @@
+url:	http://africanstorybook.org/reader.php?id=7864&d=0&a=1
+id:	7864
+title:	Eneikuna Enkalaoni Pee Eitajeu Enturkuluo
+author:	Leonard Kotikash
+artist:	Wiehan de Jager
+lang:	Maa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/7864.png
+desc:	Etoyíó enkôp néata enkálaóni enkuré. Nélo olkejú aing’orú enkáré náôk
+
+page_text:
+
+P1	Enkolong nairowua te atua entim natoyio.
+P2	Neitu eok enkalaoni enkare too' nkolong'i kumok.
+P3	"Kayieu olkitong'ati le enkare,  odou ata te embeneyeio."
+P4	Kake etoyio sii ninye enkoileelio.
+P5	"Tenamatum enkare,  naa kaye," neishir enkalaoni. "Kalo olkeju latoning'oyie."
+P6	"Ekinap olkeju aya," neliki karbobo ng'en.
+P7	Kake keata enkalaoni enkure naleng. "Kaye tenamaok enkare."
+P8	Nelo enkalaoni aing'oru olkeju.
+P9	Nedung atua inkujit naatoito,  nedooyo too' inkeek naatoito.
+P10	 Ometoning'o ilopir le enkare naruko.
+P11	Neng'obu enkalaoni enkare nairobi.
+P12	Neshipa naleng. Neitu edol olopiro le enkare elotu.
+P13	Nenyok enkalaoni ajo aibung inkujit,  nkeek kake ewa enkare.
+P14	"Entaretuoki. Entaretuoki sii ake."
+P15	"Tasioki,  takedo," nejoki enturkuluo naibor,  eibung'ita olng'osila te enkutuk enye.
+P16	"Malo omatiaaki enturkuluo ashe. Katon aanyu omeeu aok enkare."
+P17	Ore nabo olong egira aanyisho,  neponu inkayiok are naata inareta oo motonyi.
+P18	"Etii enturkuluo naibor sapuk nalotu oshi ene aok enkare," nejo enkayioni nabo. "Ekinya taata teipa."
+P19	"Maisho kuna ayiok ear enturkuluo naibor. Kake kara kiti,  kaa aas?"
+P20	Ore ina kata ake nedou enturkuluo naibor tolchani alotu aok enkare.
+P21	Neyiolou enkalaoni enaas.
+P22	Neipidoki enkeju e enkayioni,  neony oleng.
+P23	Neipid enkayioni!
+P24	Neing'asia enturkuluo naibor. Neisik alo eserian.
+P25	Neija eikuna enkalaoni teneisho enturkuluo naibor enashe te enkaraki naitajeuo.
+
+images:
+
+illustrations/pages/788.png
+illustrations/pages/784.png
+illustrations/pages/785.png
+illustrations/pages/786.png
+illustrations/pages/787.png
+illustrations/pages/789.png
+illustrations/pages/790.png
+illustrations/pages/791.png
+illustrations/pages/870.png
+illustrations/pages/871.png
+illustrations/pages/872.png
+illustrations/pages/873.png
+illustrations/pages/874.png
+illustrations/pages/875.png
+illustrations/pages/876.png
+illustrations/pages/877.png
+illustrations/pages/878.png
+illustrations/pages/879.png
+illustrations/pages/880.png
+illustrations/pages/881.png
+illustrations/pages/882.png
+illustrations/pages/883.png
+illustrations/pages/884.png
+illustrations/pages/885.png
+illustrations/pages/886.png
+illustrations/pages/887.png
+illustrations/pages/904.png
+illustrations/pages/888.png
+illustrations/pages/889.png
+
+translations:
+
+Afrikaans (Translation)	Hoe Mier Vir Duif Red	id=20059
+ChiTonga (Translation)	Kanyenyene Mbokakavwuna Nziba	id=18638
+CiNyanja (Translation)	Mwamene Kanyelele Kanapulumusila Nkunda	id=18626
+English (Original)	How Ant Saved Dove	id=2076
+French (Translation)	Comment La Fourmi Sauva La Colombe.	id=9965
+Fulfulde (Translation)	No Ɗayu Faaborii Wuugaandu.	id=10028
+Hausa (Translation)	Yadda Tururuwa Ta Ceci Habjia.	id=9997
+IciBemba (Translation)	Ifyo Kanyelele Aapuswishe Inkunda	id=18583
+isiXhosa (Translation)	Indlela Imbovane Eyalihlangula Ngayo Ihobe	id=7453
+isiZulu (Translation)	Wamphephisa Kanjani Utsheketshe Ujuba	id=7770
+isiZulu (Adaptation)	Utsheketshe Usindisa Ujuba	id=17359
+Kanuri (Translation)	Fudu Kanguwu Bolboloa Cǝkkaanadǝ.	id=10090
+Kiswahili (Translation)	Siafu Amwokoa Njiwa	id=8707
+Luganda (Translation)	Engeri Enkuyege Bwe Yataasa Ejjuba	id=8275
+Lugbarati (Translation)	Ogulegua Pa A’Balau Ni Ngoni Ru Ya Ri	id=12635
+Lunyole (Translation)	Engeri Eyi Ege Lyaŋoniamo Eŋuusi	id=8421
+Ng’aturkana (Translation)	Eger Lo Aiunia Imukunyo Akuuri	id=2572
+Oluwanga (Translation)	Ngala Liche Liaonia Liusiu	id=8274
+Sepedi (Translation)	Tšhošwane E Phološa Leeba	id=18000
+Sesotho (Lesotho) (Adaptation)	Kokonyana Le Leeba	id=15903
+Sesotho (South Africa) (Translation)	Kokonyana O Pholosa Leeba 	id=20031
+Setswana (Translation)	Tshoswane O Thusa Leeba	id=7814
+SiLozi (Translation)	Kokwani Mone Ipiliselize Liba	id=18565
+siSwati (Translation)	Indlela Intfutfwane Leyasindzisa Ngayo Lituba	id=17929
+Tshivenda (Translation)	Lusunzi Lu Tshidza Tshiivha	id=18275
+Xitsonga (Translation)	Ndlela Leyi Risokoti Ri Nga Ponisa Tuva	id=18876
+Zarma (Translation)	Mate Kaŋ Annoori Te Ga Kolŋay Faaba	id=10111

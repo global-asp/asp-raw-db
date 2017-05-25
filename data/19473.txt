@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=19473&d=0&a=1
+id:	19473
+title:	Okunoonia Zaabu
+author:	Nambi Sseppuuya
+artist:	Vusi Malindi
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19473.png
+desc:	Munoonie obugaiga obuli mu itaka.
+
+page_text:
+
+P1	Abantu bangi baali mu bwaavu obuliza.
+P2	Omwami Kyemba,  abakulira,  yaabakubiriza. "Munoonie obugaiga obuli mu itaka." Aye baali bakakanhavu era tibafaayo ku bigambo bye.
+P3	Ghalowo omulenzi yebeeta Mutaka. Mutaka yagemanga obunhonhi bungi. Yabulyanga bulamba. Yalyanga n'amani n'e byenda.
+P4	Lulala,  Mutaka yagema akayemba ku muti. Akayemba bwe kaabona nga Mutaka agya ku kata mu mainho. Kaamukoba kati,  "Muna,  ndeka nkukobere ky'oyenda okumanha."
+P5	Mutaka n'okukoba ati,  "Nkobera. Mmale nkulye!"
+P6	Akayemba kaayogeranga eno bwe kakyusa langi yaako. "Ndekula ngye ku muti gule memale nkukobere ebindi."
+P7	Mutaka yaalekula akayemba kaagya ku muti ogundi. Bwe kaatuukayo,  kaasekerera Mutaka. "Obugaiga buli mu nzeee!" Akayemba bwe kaayemba.
+P8	Mutaka yaabuuza,  "Oli kukoba ki?" "Munda mwange mulimu zaabu!" Akayemba bwe kairamu. "Obaire mudhega okundekula. Weefiiriiza obugaiga bungi." Akayemba bwe kaamusaaliza.
+P9	Akayemba kaania ensaabira efaanana oti zaabu. Kaagulukira ku muti ogusingaku obughanvu. Mutaka yaatandiika okutakula eitaka okwetoolooza omuti.
+P10	Yaayeta n'abandi ku kyalo,  "Mwidhe,  tutakule ebyobugaiga mu itaka."
+P11	Era akayemba kakaali kayembera mu muti nti,  "Obugaiga buli mu nzeee!"
+
+images:
+
+illustrations/pages/18386.png
+illustrations/pages/18385.png
+illustrations/pages/18386.png
+illustrations/pages/18387.png
+illustrations/pages/18388.png
+illustrations/pages/18389.png
+illustrations/pages/18390.png
+illustrations/pages/18391.png
+illustrations/pages/18392.png
+illustrations/pages/18393.png
+illustrations/pages/18394.png
+illustrations/pages/18395.png
+
+translations:
+
+English (Translation)	Look for the Gold	id=19474

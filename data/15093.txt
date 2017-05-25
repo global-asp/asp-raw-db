@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=15093&d=0&a=1
+id:	15093
+title:	Elephant's Nose
+author:	African Storybook
+artist:	Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15093.png
+desc:	Why does the elephant have a long nose?
+
+page_text:
+
+P1	Everyone knows that elephants have long noses.
+P2	But a long time ago,  the elephant's nose was short and fat.
+P3	A baby elephant was born. She was very curious. She had a question for every animal.
+P4	She was curious about Giraffe. "Why do you have a long neck?" she asked.
+P5	She was curious about Rhino.  "Why does your horn have a sharp point?" she asked.
+P6	She was very curious about Crocodile. "What do crocodiles eat for dinner?" she asked.
+P7	Clever Crow quickly said,  "Follow me to the river. There you will see what crocodiles eat for dinner."
+P8	So Baby Elephant followed Crow to the river.
+P9	She pushed through the reeds and stood on the bank.  She looked into the water. Where was Crocodile?
+P10	"Hello," said a stone near the river bank. "Hello," said Baby Elephant. "Can you tell me what crocodiles eat for dinner?" she asked.
+P11	"Come closer and I will tell you," said the stone. Baby Elephant bent down. "Come closer," said the stone. Baby Elephant bent down lower.
+P12	Suddenly! Snap! Crocodile grabbed Baby Elephant's nose in his jaws.
+P13	Baby Elephant sat back on her strong legs and pulled. And pulled,  and pulled. But Crocodile did not let go of her nose.
+P14	Baby Elephant's nose stretched and stretched. And stretched. Until she fell over. "Dufff!"
+P15	Baby Elephant's short nose had stretched into a long nose.
+P16	Her nose was so long she could pick fruit from high branches. And to this day,  all elephants have long and useful trunks.
+
+images:
+
+illustrations/pages/1110.png
+illustrations/pages/1111.png
+illustrations/pages/1112.png
+illustrations/pages/1110.png
+illustrations/pages/1113.png
+illustrations/pages/1114.png
+illustrations/pages/1116.png
+illustrations/pages/1118.png
+illustrations/pages/1119.png
+illustrations/pages/1120.png
+illustrations/pages/1121.png
+illustrations/pages/1122.png
+illustrations/pages/1123.png
+illustrations/pages/1124.png
+illustrations/pages/1125.png
+illustrations/pages/1882.png
+illustrations/pages/1127.png
+
+translations:
+
+Dhopadhola (Translation)	Umi Liec	id=15737
+Oluwanga (Adaptation)	Omwana We Inzofu	id=19800
+Portuguese (Translation)	O Nariz Do Elefante	id=16579
+Tunisian (Translation)	Xcem Il-Fìle	id=15220
+Yoruba (Translation)	Imú Eerin	id=16558

@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=2860&d=0&a=1
+id:	2860
+title:	Boima Le Bofefo
+author:	Lorato Trok
+artist:	Kathy Arbuckle
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2860.png
+desc:	A re buiseng mmogo gore ke eng se se boima
+
+page_text:
+
+P1	Ke eng se se boima? Kgogo kgotsa lefofa?
+P2	Ke eng se se bofefo? Palesa kgotsa mmidi?
+P3	Ke lesea le fe le le boima?
+P4	Ke mang o o boima? Rre kgotsa tlou?
+P5	Ke eng se se boima? Khilograma ya matlapa.
+P6	 Kgotsa grama ya samente?
+P7	Ke eng se se boima? Khilograma ya sukiri?
+P8	 Kgotsa khilograma ya mafofa?
+
+images:
+
+illustrations/pages/1579.png
+illustrations/pages/1579.png
+illustrations/pages/1580.png
+illustrations/pages/1581.png
+illustrations/pages/1583.png
+illustrations/pages/1584.png
+illustrations/pages/1585.png
+illustrations/pages/1586.png
+illustrations/pages/1587.png
+
+translations:
+
+Kikamba (Translation)	Nditu Na Mbũthũ	id=2855
+Kiswahili (Translation)	Nzito Na Nyepesi	id=2856
+Lunyole (Translation)	Ehisito N'ehyangu	id=2857
+Maa (Translation)	Enairóshi Ó Enánénéng	id=2744
+Ng’aturkana (Translation)	Apotis Ka Aooku	id=2858
+Oluwanga (Translation)	Obusiro Nende Obwangu	id=2859
+Somali (Translation)	Culeeys 'yo Fudeeyd	id=17258
+Zande (Translation)	Raraihe Na Guhe Araa Nga Ya	id=16760

@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=14812&d=0&a=1
+id:	14812
+title:	Mtoto Wa Miujiza
+author:	Alice Edui
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14812.png
+desc:	Mtu na bibiye wanamzaa mtoto wa miujiza.
+
+page_text:
+
+P1	Hapo kale aliishi mzee mmoja aliyeitwa Lotum.  Aliwafuga mbuzi,  ngamia,  ng'ombe na punda. Mkewe,  Akiru,  alikuwa mrembo sana.
+P2	Waliishi kwa muda mrefu bila kujaliwa mtoto. Baadaye,  Akiru alijifungua mtoto mrembo. Lotum alifurahi na kujivunia mkewe.
+P3	Siku moja Akiru alimwacha mtoto nyumbani pekee ili aende kuwakama ng'ombe. Kwa kawaida,  alimwachia kibuyu cha maziwa.
+P4	Kila alipoachwa nyumbani,  mtoto angeamka na kunywa maziwa yote kisha aanze kulia. Naye mamake angekimbia chumbani na kumtuliza.
+P5	Kila wakati Akiru alikipata kibuyu cha maziwa kikiwa kitupu. Alishangazwa sana na hakujua ni nani aliyeyanywa maziwa.
+P6	Baada ya muda,  Akiru alimwarifu mumewe Lotum mambo hayo. Lotum akaamua kupeleleza.
+P7	Lotum alijificha mahali chumbani humo. Mara alimwona mtoto akibugia kibuyu cha maziwa mdomoni. Alishangaa kumwona mtoto akiyanywa maziwa na kuyamaliza.
+P8	Lotum na mkewe walipogundua haya,  waliamua kuondoka usiku mtoto alipokuwa amelala.
+P9	Waliamua kumwachia mtoto wao ng'ombe mmoja,  ngamia mmoja na mbuzi mmoja.
+P10	Mtoto alipoamka alishangaa nyumbani palikuwa pametulia.   Akawaona wanyama walioachwa. Alikasirika na kuwaua ngamia na mbuzi. Hatimaye,  alijitosa tumboni mwa ng'ombe.
+P11	Siku moja ng'ombe akiwa malishoni,  mwanamume mmoja alimwona,  akwaza,  "Nitamchinja ng'ombe huyu nipate kitoweo."
+P12	Mara akachomoa mkuki na kumfuma tumboni akafa. Alipokuwa akimchuna ngozi,  alisikia sauti kutoka tumboni mwa ng'ombe,  "Usiniumize,  nimo!"
+P13	Mtoto wa miujiza alitoka tumboni mwa ng'ombe na kujinatisha katika kichwa cha mwanamume huyo. Mwanamume alijawa na hofu akatoroka kabla ya kuila ile nyama.
+P14	Wlipofika nyumbani,  mtoto alijinasua na kukaa mwambani. Mwanamume alimchinjia mtoto kondoo dume aliyenona.
+P15	Mtoto wa miujiza akala,  akashiba,  akafurahi. Usiku huo alitoweka asionekane tena.
+
+images:
+
+illustrations/pages/14779.png
+illustrations/pages/14777.png
+illustrations/pages/14778.png
+illustrations/pages/14779.png
+illustrations/pages/14780.png
+illustrations/pages/14781.png
+illustrations/pages/14782.png
+illustrations/pages/14783.png
+illustrations/pages/14784.png
+illustrations/pages/14785.png
+illustrations/pages/14786.png
+illustrations/pages/14787.png
+illustrations/pages/14788.png
+illustrations/pages/14789.png
+illustrations/pages/14790.png
+illustrations/pages/14791.png
+
+translations:
+
+English (Translation)	Magic Baby	id=14930
+Ng’aturkana (Original)	Muurui	id=14809

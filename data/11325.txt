@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=11325&d=0&a=1
+id:	11325
+title:	Die Rot
+author:	Maganda Isa
+artist:	Zablon Alex Nguku
+lang:	Afrikaans
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11325.png
+desc:	Bush rat visits the house rat to see what a wonderful life he has living inside. But house rats greed gets the better of him
+
+page_text:
+
+P1	Eens op n' tyd was daar twee rotte. Een rot het in die bos gewoon.
+P2	Die ander rot het in 'n huis gewoon.
+P3	Eendag sê die rot wat in die huis woon vir die rot wat in die bos woon,  "Jy eet sleg,  jy slaap sleg,  en dit reen op jou."
+P4	"Maar ek,  ek slaap in die huis van 'n ryk man. Ek eet 'n verskeidenheid lekker kos. Jy moet eendag by my kom kuier en sien waarvan ek praat," sê die huisrot. "Ek sal vanaand kom," sê die bosrot.
+P5	Intussen was die eienaar van die huis woedend. Hy vloek op die rotte. "Hierdie rotte wat my kos eet! Ek gaan hulle 'n ding wys!" Hy besluit om 'n strik met suiker te stel.
+P6	Die rotte stap by die huis in,  reg om aan die lekker kos te smul. Hulle lag ewe parmantig,  "Chuchuchichicheche!"
+P7	Toe hulle die strik sien sê die huisrot,  "Laat ek die suiker proe. Sien jy die smulgoed wat ons hier eet!"
+P8	Maar voor die huisrot die suiker kan eet,  klap die strik toe met 'n harde PA! Die rot se kop is vas in die strik en sy oë peul uit sy kop.
+P9	Die bosrot het geskrik. "E. Heee,  my vriend! Wat se kos het jy geëet wat jou oë so laat uitpeul?"
+P10	Maar die huisrot kon nie antwoord nie.
+P11	Die bosrot het vinnig die huis verlaat en gedink,  "Ek wil nooit weer dié soort kos sien nie."
+P12	Al is jou huis klein en bouvallig,  dit is beter as enigiets wat aan jou buurman behoort.
+
+images:
+
+illustrations/pages/7506.png
+illustrations/pages/7496.png
+illustrations/pages/7497.png
+illustrations/pages/7498.png
+illustrations/pages/7499.png
+illustrations/pages/7500.png
+illustrations/pages/7501.png
+illustrations/pages/7502.png
+illustrations/pages/7503.png
+illustrations/pages/7504.png
+illustrations/pages/7505.png
+illustrations/pages/7505.png
+illustrations/pages/7506.png
+
+translations:
+
+English (Translation)	The Rat	id=7769
+English (Adaptation)	The Big Rats	id=13612
+Kiswahili (Translation)	Panya	id=8439
+Likpakpaanl (Translation)	Lisayikl	id=18782
+Lunyole (Translation)	Embeba	id=13611
+Lusoga (Original)	Wansolimo	id=7768
+Portuguese (Translation)	A Ratazana	id=18858
+Portuguese (Translation)	A Ratazana	id=18890
+Rutooro (Translation)	Embeba	id=14941

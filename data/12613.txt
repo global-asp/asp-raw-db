@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=12613&d=0&a=1
+id:	12613
+title:	Kptore
+author:	Issack Monday Elisame
+artist:	Mlungisi Dlamini
+lang:	Zande
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12613.png
+desc:	We can do many actions with our bodies
+
+page_text:
+
+P1	Mi rengbe na ora nani.
+P2	Mi rengbe na gu nani.
+P3	Mi rengbe na do gbere nani.
+P4	Mi rengbe na guzo nani.
+P5	Mi rengbe na gbu nani.
+P6	Mi rengbe na dehe.
+P7	Mi rengbe na zio' nani.
+P8	Ono mia rengba nga ma gu nani te.
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Anywak (Translation)	Dëëra	id=17261
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+English (Adaptation)	My Body	id=9882
+isiXhosa (Translation)	Umzimba Wam	id=7685
+Kikamba (Translation)	Mwii Wakwa	id=2934
+Kiswahili (Translation)	Mwili Wangu	id=12632
+Luganda (Translation)	Omubiri Gwange	id=2935
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Sepedi (Translation)	Mmele Waka	id=7854
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386

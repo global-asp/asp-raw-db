@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=12900&d=0&a=1
+id:	12900
+title:	Efiiri
+author:	Yonasani Mayende
+artist:	Bronwen Heath
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12900.png
+desc:	Efiiri enjawulo.
+
+page_text:
+
+P1	Thuli ali nobufiri bupi.
+P2	Ana ali ne fiiri ndeeŋi.
+P3	Cathy ali ne fiiri ndeeŋiriri.
+P4	Zama ahambire efiiri jije.
+P5	Baba gahusa ehirefu.
+P6	Zanele asusuye efiiri.
+P7	Thabo asalireho efiiri.
+P8	Themba abegire efiiri.
+
+images:
+
+illustrations/pages/1745.png
+illustrations/pages/1211.png
+illustrations/pages/1212.png
+illustrations/pages/1213.png
+illustrations/pages/1214.png
+illustrations/pages/1215.png
+illustrations/pages/1216.png
+illustrations/pages/1217.png
+illustrations/pages/1218.png
+
+translations:
+
+Afrikaans (Translation)	Hare	id=11318
+Aringati (Translation)	Ĩzĩnũwélẽ Drị̃ꞌbị́	id=8359
+Ateso (Translation)	Itima	id=3079
+English (Original)	Hair	id=1746
+English (Adaptation)	Different People  With Different Hair	id=12686
+Kikamba (Translation)	Nzwĩĩ	id=1963
+Luganda (Translation)	Enviri	id=1962
+Luganda (Translation)	Enviiri	id=9339
+Lugbarati (Translation)	Dri'bi	id=2809
+Lumasaaba (Translation)	Litsuune	id=1964
+Lunyole (Translation)	Efiiri	id=3073
+Lusoga (Translation)	Nviiri	id=2810
+Maa (Translation)	Ilpápít	id=2743
+Ng’aturkana (Translation)	Ng’Itim	id=2812
+Oluwanga (Translation)	Liswi	id=3075
+Sabinyi (Translation)	Puteek	id=3076
+Setswana (Translation)	Moriri	id=3081
+Tshivenda (Translation)	Mavhudzi	id=5965

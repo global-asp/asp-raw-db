@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=2712&d=0&a=1
+id:	2712
+title:	Oku Pati Ru Ri
+author:	Oku Pati ru ri
+artist:	Jemma Kahn
+lang:	Lugbarati
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2712.png
+desc:	This is the story of an old man who has everything he wants – except a wife. So he decides to carve one for himself
+
+page_text:
+
+P1	Ndra drio ri si agu azi ni ndra ci lonyi be badaka-amvu be ambo,  ti be,  kabilo azini ndri pie fudri ci. Te eri ni eca ria deza,  ri vini di eca si candi ru a'dusiku ni afa azi alu ni eri vu yo. Eri ma oku yo.
+P2	O'du azini si eri ni pa so ria pati ma etia,  ondoa azini nga ega eri ma dria. Kini i ka eco oku esu ku,  i eco te i ma oku ede ceni ku.
+P3	Ka'dinile agu 'di nga di e'do azi nga oku edezu engazu pati arakala azi okpo ni ma rua. Kamu pati nde opa oku ru de 'bo,  nga eri ma mile elo,  coti mile ni zi yi ra. Vu oli eri ma rua e'yere,  coti pati nde nga eca idri ru.
+P4	Oku nde nga di ndri eri ni aga oku dria ra. Nga kumuti si drile nia dika zi eri ovuzu ima oku ru.
+P5	Fe eri ni kitenge wura be ndriza,  ngaliki pie azini afa dri ombezu ri pie,  ecezu eri curo'do oku 'bani 'dule 'bo ri i. Si eri ni jo odri si azini ase oku zo 'ba pati 'da ma etia ri si. Nga yo oku nde ma tia kini,  "I ko mani ma ma aza eyo alu si. Kirikiri si,  ka eco ra I lu 'ba azi ni mi enga ngua ya ri ku fo."
+P6	Te,  sawa were ma vutia karile anzi suru 'da ma alea 'diyi 'edo e'yo nze yi ma eselea. "Agu deza 'dile ri eco zamva ode,  ndriza 'dile ri 'du ima oku ru ngoni ngoni? Anzi 'diyi nga oku nde ogu ra ji eri yi vile kali ma alea."
+P7	Candi nga agu nde ri fu tu. Kini i eco nga aa ima oku koko ru ku. Te nga e'yo ega kini,  "Aka te eri ma afa azi esu candi ngani te ma fu nya nya ku ya ni 'ba?" Pe di ima amamu yi ma ti eri ndazu,  ongo ngozu eri ni azini afa azi eri ni ni ejizu i vu.
+P8	Yi ka mu eri esu 'bo nga eri ni ongo ngo o'duko aria yi vile ri si: Oku pati ru ri,  oku pati ru ri Ndri pi aga oku dria yi ra ri Mi ma agupi epe ama ti emuzu mi ma kitenge jizu I vu!
+P9	Fe ima kitenge nderi ra,  amamu nde yi saa puru 'be dria si,  yi ara dria si kpere eri ma agupi nde vu. A'bu ima mileti kitenge nde si ra. 'Diri omi eri ma asi sawa were si.
+P10	Te oku nde ma ava de ni i eri ma asia ku. Ani pe amamu yi ma ti muzu ongo ngo zu eri ni dika: Oku pati ru ri,  oku pati ru ri Ndri pi aga oku dria yi ra ri Mi vile agupi ri epe ama ti mi ma afa su dria ri eji zu vile! Amamu 'diyi go vini vile eri ma afa dria ri be ra.
+P11	Bi afa dri oti zu 'diri ima dria se ava ali ima oku ovu pi re 'ba azi ni ma kalia 'da ma e'yo si. Sawa were ma vutia,  omve vini ima amamu 'diyi dika. "Emi ma mu eri vu,  azini emi ma ngo ongo,  Oku pati ru ri,  oku pati ru ri,  Ndri pi aga oku dria yi ra ri Mi vile agupi ri epe ama ti emuzu mi ma edri ji zu!"
+P12	Ani yi go vile pale na zu ri si. Yi ri yima opile'bi gba eri ma wua dria. Yi ni di ongo ngo si ria,  yi ma alu alu enje eri ma mile efi. Coti coti oja i afa edeza pati si ri ru. Eri ma pa azini wi o'de va. 'Da ma vuti si eri ma dri nga vini e'de vaa. Eri ma ada e'de di pi vaa.
+P13	Agupi nde li di eri ma rua pati ru ri e'yere yi ara ma alia. Edre eri kpi yi ma alea. Esu okpo etu vu azini nyaku vu ra ani eri ma bi e'do edi dika ra.
+P14	Dika oli ka li,  pati nde ma bi yi ava 'ya ali. Kile oku eri ma agupi ni eri ma vico zuri ni 'ya leri le.
+
+images:
+
+illustrations/pages/2580.png
+illustrations/pages/2584.png
+illustrations/pages/2585.png
+illustrations/pages/2583.png
+illustrations/pages/2586.png
+illustrations/pages/2587.png
+illustrations/pages/2588.png
+illustrations/pages/2589.png
+illustrations/pages/2590.png
+illustrations/pages/2591.png
+illustrations/pages/2592.png
+illustrations/pages/2581.png
+illustrations/pages/2582.png
+illustrations/pages/2593.png
+illustrations/pages/2580.png
+
+translations:
+
+Aringati (Translation)	Ife Ũkú Ru Rĩ	id=7527
+English (Original)	The Tree Wife	id=2595
+isiXhosa (Translation)	Inkosikazi Eyenziwe Ngomthi	id=3137
+isiZulu (Translation)	Unkosikazi Oyisihlahla	id=3138
+isiZulu (Adaptation)	Unkosikazi Oyisihlahla	id=14188
+Kikamba (Translation)	Kiveti Kya Muti	id=3139
+Kiswahili (Translation)	Mke Mti	id=3140
+Luganda (Translation)	Omukazi Eyava Mu Muti	id=3141
+Lumasaaba (Translation)	Umukhasi We Mu Kusaala	id=7243
+Lunyole (Translation)	Omuhasi Womu Musaala	id=3142
+Maa (Translation)	Enkitók Naguatúno	id=2816
+Oluwanga (Translation)	Omukhasi Musala	id=3143
+Sepedi (Translation)	Mosadi Wa Sehlare	id=7244
+Sesotho (Lesotho) (Translation)	Mosali Oa Sefate	id=3144
+Sesotho (Lesotho) (Translation)	Mosali Wa Sefate	id=10370
+Setswana (Translation)	Mosadi Wa Setlhare	id=7242

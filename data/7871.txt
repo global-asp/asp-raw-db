@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=7871&d=0&a=1
+id:	7871
+title:	Mimi Na Familia Yangu
+author:	Brigid Simiyu
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/7871.png
+desc:	Hadithi inasimulia kuhusu vituko vya mvulana mdogo na familia yake isiyo ya kawaida!
+
+page_text:
+
+P1	Mimi na Dinasou wangu tunawaangalia ndege angani.
+P2	Mimi na Ndege wangu tunamkuta Sokwe mtini.
+P3	Mimi ninacheza na Sokwe na twiga wangu milimani.
+P4	Nyani wangu na Kima wanaogopa Bwana Kobe kwa kila njia.
+P5	Mimi na Kima wangu tunakula ndizi na Nyani kila siku.
+P6	Nyani wangu na Kima wanaogopa Bwana Kobe kwa kila njia.
+P7	Bwana Kobe nami tunaenda nyumbani polepole na Bi Nyoka.
+P8	Bi Nyoka nami twapenda kusonya na kuimba nyimbo kando ya ziwa.
+P9	Mimi na familia yangu nzima tunaishi pamoja kwa furaha kubwa!
+
+images:
+
+illustrations/pages/5216.png
+illustrations/pages/5217.png
+illustrations/pages/5218.png
+illustrations/pages/5219.png
+illustrations/pages/5232.png
+illustrations/pages/5221.png
+illustrations/pages/5220.png
+illustrations/pages/5222.png
+illustrations/pages/5223.png
+illustrations/pages/5224.png
+
+translations:
+
+Afrikaans (Translation)	Ek en my Groot Familie	id=11375
+English (Original)	My Family and I	id=5266
+French (Translation)	Ma Famille Et Moi	id=9924
+French (Translation)	Ma Famille Et Moi	id=10153
+Fulfulde (Translation)	Min E Koreeji Am	id=10003
+Hausa (Translation)	Ni Da Iyalina	id=9972
+isiZulu (Translation)	Mina Nomndeni Wami	id=7461
+isiZulu (Adaptation)	Mina Nomdeni Wami	id=13596
+Kanuri (Translation)	Wu-a Yallani-A	id=10032
+Luganda (Translation)	Nze N’Abenŋanda Zange	id=8295
+Lugbarati (Official) (Translation)	Má 'ɨ́ Àzɨ́nɨ Àkú Àma Vɨ́lé Rɨ̀	id=8787
+Lumasaaba (Translation)	Be Mungo  Mwase Ni Samwene.	id=8296
+Lunyole (Translation)	Amago Gange Ninange	id=8402
+Lusoga (Translation)	Amaka Gange Ni Nze	id=5267
+Maa (Translation)	Olmáréí Láí O Nánu	id=7872
+Ng’aturkana (Translation)	Awi Kang Ka Ayong	id=8450
+Oluwanga (Translation)	Oluyia Lwanje Nende Esie	id=8294
+Portuguese (Translation)	A Minha Família E Eu	id=17614
+Rutooro (Translation)	Eka  Yange  N’Anyowe	id=15219
+Sepedi (Translation)	My Family and I	id=10818
+Setswana (Translation)	Nna Le Ba Lelapa La Me	id=7775
+Zarma (Translation)	Ay Nda Ay Almiyaalo	id=10096

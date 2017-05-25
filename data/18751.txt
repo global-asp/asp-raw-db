@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=18751&d=0&a=1
+id:	18751
+title:	Jafonji Paran
+author:	Owino Ogot
+artist:	Jesse Pietersen
+lang:	Dhopadhola
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18751.png
+desc:	Nyathi omaro jafonji pere aka mito cal go ka dongo.
+
+page_text:
+
+P1	Amaro jafonji paran. Go fonjan gi kipiny kweth.
+P2	Go jafonji maber. Go jawor aka mwol.
+P3	Go okedo ye wiye maŋon swa.
+P4	Oketho tikin ma cal kweth i ye wiye.
+P5	Tikin pere ma nyaboke pendi,  matar,  m'obokere,  gi manyatoŋ gweno.
+P6	Mama,  i nu kedi ran wiyan paka apa jafonji paran?
+P7	A le ketho tikin i ye wiyan ka adongo.
+P8	A le bedo paka jafonji paran ka adongo!
+
+images:
+
+illustrations/pages/8513.png
+illustrations/pages/8509.png
+illustrations/pages/8510.png
+illustrations/pages/8511.png
+illustrations/pages/8512.png
+illustrations/pages/8513.png
+illustrations/pages/8514.png
+illustrations/pages/8515.png
+illustrations/pages/8516.png
+
+translations:
+
+Afrikaans (Translation)	My Juffrou	id=20086
+Akuapem Twi (Translation)	Me Kyerɛkyerɛfo	id=18465
+Asante Twi (Translation)	Me Kyerɛkyerɛfoɔ	id=18223
+ChiTonga (Translation)	Basiisi Bangu	id=18632
+CiNyanja (Translation)	Apunzisi Anga	id=18609
+Dagaare (Translation)	N Karema	id=17777
+Dagbani/Dagbanli (Translation)	N Karim Ba	id=18153
+Dangme (Translation)	Ye Tsɔɔlɔ	id=18303
+English (Original)	My Teacher	id=8507
+Ewe (Translation)	Nye Nufiala	id=18170
+Fante (Translation)	Me Kyerɛkyernyi	id=18495
+Ga (Translation)	Mitsɔɔlɔ	id=18294
+Gonja (Translation)	Mabe Eŋinipo	id=18176
+IciBemba (Translation)	Bakafundisha Bandi	id=18574
+isiXhosa (Translation)	Utitshala Wam	id=17577
+isiZulu (Translation)	Uthisha Wami	id=8075
+Kasem (Translation)	A Bereno	id=18210
+Kiswahili (Translation)	Mwalimu Wangu	id=15609
+Lunyole (Translation)	Omusomesa Wange	id=16424
+Mampruli (Translation)	N  Karimba	id=18852
+Nzema (Translation)	Me Kilehilevolɛ Ne	id=18432
+Oluwanga (Translation)	Omusomesia Wanje	id=19796
+Portuguese (Translation)	A Minha Professora	id=17617
+Sepedi (Translation)	Morutiši Wa Ka	id=18025
+Sesotho (South Africa) (Translation)	Mosuwetsana Wa Ka	id=20038
+Setswana (Translation)	Morutabana Wa Me	id=16753
+Setswana (Translation)	Morutabana Wa Me	id=17655
+SiLozi (Translation)	Bomuluti Baka	id=18558
+Tshivenda (Translation)	Mudededzi Wanga	id=18987
+Tunisian (Translation)	Muġallimti	id=15153
+Xitsonga (Translation)	Mudyondzisi Wa Mina	id=18998

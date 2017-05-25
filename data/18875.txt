@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18875&d=0&a=1
+id:	18875
+title:	Ndzi Rhandza Ku Endla
+author:	Mkomati John Mongwe
+artist:	Wiehan de Jager
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18875.png
+desc:	Xana u rhandza ku endla yini?
+
+page_text:
+
+P1	Ndzi rhandza ku tlulatlula.
+P2	Ndzi rhandza ku tsala maletere eka bodo.
+P3	Ndzi rhandza ku hlaya tibuku leti nga na swifaniso.
+P4	Ndzi rhandza ku dya mihandzu yo hambana.
+P5	Ndzi rhandza ku pfuneta ekaya.
+P6	Ndzi rhandza ku yingisela switori swa mhani.
+P7	Ndzi rhandza ku etlela eka mubedo lowukulu.
+P8	Ndzi rhandza ku endla swilo leswi. Xana wena u rhandza ku endla yini?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat Ek Graag Doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+CiNyanja (Translation)	Vintu Vamene Nikonda Kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I Enjoy Doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18984
+Sesotho (South Africa) (Translation)	Ke Rata Ho Etsa 	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18986

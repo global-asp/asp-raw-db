@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=7792&d=0&a=1
+id:	7792
+title:	A Dog
+author:	Ritah Katetemera and Cissy Namugerwa
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7792.png
+desc:	The story is about a man who had his own dog which was very faithful and obedient to him.
+
+page_text:
+
+P1	There was a man with his one dog.
+P2	He loved his dog so much.
+P3	It was hard working and it used to go to the market to buy meat.
+P4	Fetching water from the well.
+P5	Guarding every thing at home.
+P6	One day the man thanked his dog in a special way for being faithful.
+P7	The dog became so happy and it continued working hard.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+Luganda (Original)	Embwa	id=7299

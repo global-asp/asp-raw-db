@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=9621&d=0&a=1
+id:	9621
+title:	Khomo E Bokopa
+author:	Sebongile Daniel
+artist:	Marion Drew
+lang:	Sesotho (Lesotho)
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9621.png
+desc:	O kile oa bona khomoe lenaka le leleng e sena le mohatla?
+
+page_text:
+
+P1	''Heee! '' entle khomo ea heso.
+P2	E ne e sena mohatla le lenaka le le leng. E ne e shebahala hantle.
+P3	Heeee!' E mpa likholo khomo,  e nonne e le ntle.
+P4	E ne e le matla haholo ho feta tseling.
+P5	Molisana oa eona o ne a e rata haholo. E ne e tseba lentsoe la monga eona fela,  e ka e rutuoe.
+P6	Ha lile naheng,  e ne e fula moo e le'ngoe.
+P7	Hone ho ena le khomo e neng e loana haholo,  makhomo a mang,  a e sia e lenngoa.
+P8	Batho bane ba e tseba,  hape ba e ts'aba. Hobane e ne e thula ka lenaka le le leng joalo.
+
+images:
+
+illustrations/pages/9612.png
+illustrations/pages/9613.png
+illustrations/pages/9614.png
+illustrations/pages/9615.png
+illustrations/pages/9616.png
+illustrations/pages/9617.png
+illustrations/pages/9618.png
+illustrations/pages/9619.png
+illustrations/pages/9620.png
+
+translations:
+
+Afaan Oromo (Translation)	Sa'aa Gaafa Tokko Qabdu	id=12959
+Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
+English (Translation)	Cow With One Horn	id=9622
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Kiswahili (Translation)	Ng'ombe Mwenye Pembe Moja	id=15712
+Lámnsoʼ (Translation)	Nàʼ Wo Wù Kér Loŋ E Mòʼón	id=15065
+Lunyole (Translation)	Eŋombe Ey’Olwiga Lulala	id=11906
+Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
+Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
+Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
+siSwati (Translation)	Inkhomo Leneluphondvo Lunye	id=13076

@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=1956&d=0&a=1
+id:	1956
+title:	Go Bala
+author:	Maphokane Mapule Mohlamme
+artist:	Gay Galsworthy
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1956.png
+desc:	
+Diphoofolo di ile tša sepela go yo nwa meetse.
+
+page_text:
+
+P1	Tlou e tee e ile ya sepela go yo nwa meetse.
+P2	Dithutlwa tše pedi di ile tša sepela go yo nwa meetse.
+P3	Go na le dinare tše nne le dinonyana tše nne. Kamoka ga tšona di ya go nwa meetse.
+P4	Diphala tše hlano le dikolobe tša nageng tše tshela di yo nwa meetse.
+P5	Digwegwe tše šupa le dihlapi tše seswai di ka gare ga meetse.
+P6	Dipitsi tše senyane di yo nwa meetse.
+P7	Tau e tee e ile ya tla,  go nwa meetse.
+P8	Ke mang a na go le sebete sa go tšwela pele go nwa meetse?
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Aringati (Translation)	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ	id=6985
+Ateso (Translation)	Aimar	id=9655
+English (Original)	Counting	id=1784
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lugbarati (Official) (Translation)	Kàlàfé Làzà	id=8753
+Lunyole (Translation)	Ohubala	id=1954
+Lusoga (Translation)	Tubala Bazira	id=1955
+Sesotho (Lesotho) (Translation)	Ho Bala	id=1958
+Setswana (Translation)	Go Bala	id=2807

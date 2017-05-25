@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=14946&d=0&a=1
+id:	14946
+title:	Tshwene Le Mosadi Wa Motsumi
+author:	Lorato Trok
+artist:	Jesse Breytenbach
+lang:	Setswana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14946.png
+desc:	Mosadi wa motsumi yo o molemo.
+
+page_text:
+
+P1	Mo sekgweng sa Miwa,  go ne go dula Tshwene yo o neng a utlwile botlhoko ka dinako tsotlhe. Nako e nngwe le e nngwe fa a ne a nna le ngwana,  o ne a tlhokafala.
+P2	Botlhoko jwa go latlhegelwa ke bana bo ne jwa dira Tshwene gore a tlolakele kwa godimo le kwa tlase. O ne a tlolela mo kaleng e nngwe,  mme a tlolele mo go e nngwe,  a goe a re,  "Kwi! Kwi! Kwi!"
+P3	Tshwene o ne a utlwile botlhoko ka dinako tsotlhe. O ne a utlwa botlhoko thata fa a ne a bona botshwene ba bangwe le bana ba bona.
+P4	Tshwene yo o utlwileng botlhoko o tla dula mo kaleng mme a lebelele kwa godimo. Matsatsi a ile a feta mme Tshwene a ntse a lelela ruri.
+P5	O ne a tshola lesea gape. O ne a isa lesea kwa tseleng gore bafeti ka tsela ba le bone ebile ba le eleletse masego.
+P6	Tshwene o ne a fologela mo fatshe go tswa kwa kaleng mme a baya lesea mo thoko ga tsela. Ka nako eo,  monna wa motsumi o ne a le mo tseleng ya go ya gae. O ne a bona tshwenyana e robetse mo thoko ga tsela.
+P7	Monna wa motsumi o ne a tsaya tshwenyana a isa kwa lapeng la gagwe. Erile fa monna wa motsumi a fitlha kwa lapeng,  basimane ba gagwe ba bararo ba ile ba batla go tshwara tshwenyana.
+P8	Basimane ba bararo ba ile ba tshameka ba opela: "E latlhela kwa godimo! E latlhele kwa tlase! E latlhele kwa go nna! E latlhele kwa go ene!" Tshwenyana e ne a lathelwa go tswa kwa mosimaneng o mongwe go ya go o mongwe.
+P9	Fa basimane ba bararo ba ntse ba tshameka ka tshwenyana,  mmayona o ne a iphitlhile mo setlhareng a lebeletse. O ne a tshogile gore ngwana wa gagwe le ena o ltile go swa jaaka ba bangwe.
+P10	Mme mosadi wa monna wa motsumi a tla mme a bona bana ba tshameka ka tshwenyana.  "Tlhokomelang! E tliseng mo go nna. Lo tla e digela mo fatshe!" a rialo.
+P11	O ile a baya tshwenyana mo diatleng tsa gagwe,  mme a e tshegofatsa.
+P12	Mosadi wa monna wa motsumi o ile a baya tshwenyana mo fatshe. Tshwene o ile a tsaya lesea la gagwe mme a le baya mo sefubeng sa gagwe. O ile a nyamelela kwa godimo ga setlhare. A se tlhole a latlhegelwa ke bana gape!
+
+images:
+
+illustrations/pages/9057.png
+illustrations/pages/9042.png
+illustrations/pages/9043.png
+illustrations/pages/9044.png
+illustrations/pages/9045.png
+illustrations/pages/9046.png
+illustrations/pages/9047.png
+illustrations/pages/9048.png
+illustrations/pages/9054.png
+illustrations/pages/9058.png
+illustrations/pages/9059.png
+illustrations/pages/9057.png
+illustrations/pages/9060.png
+
+translations:
+
+Dhopadhola (Translation)	Oŋer Gi Cipa Jadwar	id=15764
+English (Original)	Monkey and the Hunter’S Wife	id=9051
+English (Adaptation)	Monkey's Visit to the Hunter's Home	id=10273
+English (Adaptation)	Monkey's Child	id=16342
+French (Translation)	Maman Singe Et La Femme Du Chasseur	id=10183
+Gurene (Translation)	~Maaŋa La Tu’Usa Pↄga	id=12668
+isiZulu (Translation)	Umfene Nonkosikazi Womzingeli	id=10950
+Kinyarwanda (Translation)	Inkende N'umugore W'umuhigi	id=11469
+Kinyarwanda (Translation)	Inkende N'umugore W'umuhigi	id=11481
+Kiswahili (Translation)	Mwana Wa Tumbili	id=10166
+Kiswahili (Translation)	Mtoto Wa Kima	id=12915
+Kiswahili (Adaptation)	Mwana Wa Tumbili	id=16340
+Kiswahili (Adaptation)	Mtoto Wa Kima	id=16341
+Lunyole (Translation)	Ekima N’Omuhasi W’Omuŋiimi	id=11908
+Oluwanga (Translation)	Omwana Wa Lishene	id=12958
+Setswana (Translation)	Tshwene Le Mosadi Wa Motsomi	id=11155

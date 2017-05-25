@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=2122&d=0&a=1
+id:	2122
+title:	Clouds
+author:	Clark Ness
+artist:	Microsoft Clip Art
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2122.png
+desc:	What clouds bring to the environment.
+
+page_text:
+
+P1	Clouds can bring rain. I like clouds.
+P2	Clouds can bring snow. I like clouds.
+P3	Clouds can hide the sun. I like clouds.
+P4	Clouds can hide the stars. I like clouds.
+
+images:
+
+illustrations/pages/2115.png
+illustrations/pages/2116.png
+illustrations/pages/2117.png
+illustrations/pages/2118.png
+illustrations/pages/2119.png
+
+translations:
+
+Anywak (Translation)	Pøøl	id=12630
+English (Adaptation)	Weather	id=10261
+Luganda (Translation)	Ebire	id=6270
+Ng’aturkana (Translation)	Ng'idowon	id=7036
+Setswana (Translation)	Maru	id=7892
+Somali (Translation)	Daruuraha	id=16759

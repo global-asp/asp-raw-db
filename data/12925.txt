@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=12925&d=0&a=1
+id:	12925
+title:	Ah! Mpira!
+author:	Stella Kihweo
+artist:	Onesmus Kakungi
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12925.png
+desc:	Mvulana mdogo alitumwa dukani na bibiye kununua vitu vichache.  Anaambatana na rafikiye na kucheza mpira.  Je
+
+page_text:
+
+P1	Mimi ninapenda kucheza na rafiki yangu Chuma.
+P2	Mimi na Chuma tunapendana sana. Tukitumwa,  tunaenda pamoja.
+P3	Siku moja nilitumwa na bibi dukani nikanunue chumvi na mafuta. Nilienda na Chuma.
+P4	Tukiwa njiani,  tuliwaona watoto wenzetu wakicheza mpira wa miguu.
+P5	Mimi nilitamani sana kucheza mpira huo. Nilisema,  "Ah! Mpira!"
+P6	Nilimwambia Chuma,  "Twende tuwaombe kucheza nao mpira. Mimi hupenda mpira wa miguu."
+P7	Chuma alinijibu,  "Twende kwanza dukani,  halafu turudi kucheza."
+P8	Lakini nilimwambia Chuma,  "Tucheze kwanza wewe! Tukienda nyumbani bibi hataturuhusu."
+P9	Tulikubaliwa na wenzetu tukacheza mpira. Nilikuwa golikipa.
+P10	Nilijitahidi kudaka mpira. Wenzangu hawakuweza kufunga goli hata moja.
+P11	Uwanja tuliochezea ulikuwa na mchanga mwingi. Magoli yake yalikuwa mawe makubwa.
+P12	Baada ya mchezo,  tuliondoka kwenda dukani,  lakini hatukuwa na pesa. Nilianza kulia. Chuma alinikemea,  "Acha kulia. Ni wewe ulitaka tucheze kabla ya kwenda dukani."
+P13	Tulirudi nyumbani bila chumvi wala mafuta. Tulikuwa tumechafuka kweli kweli.
+P14	Tulimkuta bibi amekasirika mno. Alituuliza,  "Mmekuwa wapi muda huu wote?"
+P15	Alipogundua kuwa tulipoteza hela,  alisema,  "Nawasamehe leo,  lakini,  msirudie tena kucheza bila ruhusa."
+P16	Tulienda haraka kuwalisha kuku na bata. Baadaye,  tulioga na kuwa wasafi.
+
+images:
+
+illustrations/pages/12881.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/12873.png
+illustrations/pages/12874.png
+illustrations/pages/12876.png
+illustrations/pages/12877.png
+illustrations/pages/12878.png
+illustrations/pages/12879.png
+illustrations/pages/12880.png
+illustrations/pages/12881.png
+illustrations/pages/12882.png
+illustrations/pages/12883.png
+illustrations/pages/12884.png
+illustrations/pages/12885.png
+illustrations/pages/12886.png
+illustrations/pages/12887.png
+
+translations:
+
+English (Translation)	Ah! Football!	id=12926
+Ng’aturkana (Translation)	Woe! Epira!	id=13212

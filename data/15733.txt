@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=15733&d=0&a=1
+id:	15733
+title:	Azizi Dole Paran
+author:	Owino Ogot and Athieno Gertrude
+artist:	Natalie Propa
+lang:	Dhopadhola
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15733.png
+desc:	Nyathi me omaro kuro dole pere. Aka dole pere obedo mere pere ma sangala kisi hongo je.
+
+page_text:
+
+P1	Me Azizi. Azizi obedo dole paran.
+P2	Amaro Azizi rupir go bwonjo i kisi sawa.
+P3	Ka acew alwoko waŋan. To arango Azizi.
+P4	Ka anwaŋo Azizi agwaro rigo wiye.
+P5	Apidho Azizi bende ka acamo cemo m'odikin.
+P6	Ka acamo swit amiyo Azizi acel.
+P7	To Azizi ki cam swit pere. Akuya ni iraŋo!
+P8	Awotho thoko dyedipo ka adimo thiw yen.
+P9	Amiyo Azizi thiw yen. Go kiwac kada ni,  "Walwa!"
+P10	A lwoko Azizi m'olony ka fodi mama ku lwokan.
+P11	A ruko ri Aziz nanga m'obokere rupir amaro cal m'obokere.
+P12	Aketho Azizi dhu butan ka akidho nindo.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the Doll	id=9748
+French (Translation)	Azizi La Poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Lámnsoʼ (Translation)	Shibvə̀m Shee Azizi	id=16448
+Lugwere (Translation)	Odole Omulyabwita	id=16112

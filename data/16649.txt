@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=16649&d=0&a=1
+id:	16649
+title:	Meeno Gangeri Hi?
+author:	Mubbalya Charles
+artist:	Rob Owen
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16649.png
+desc:	Meeno gengeriki?
+
+page_text:
+
+P1	Egoona liri n'ameeno moogi.
+P2	Epologoma yosi eri n'ameeno moogi.
+P3	Enjatu yosi eri n'ameeno moogi!
+P4	Eŋombe eri n'ameeno amagumu aganyanya emeere.
+P5	Enyuni ebula meeno. Yirya yiitye?
+P6	Embeba jiri n'ameeno amaleeŋi  ŋamunwa.
+P7	Naliiho n'ameeno  ŋamunwa.
+P8	Ameeno gange agaŋamunwa gabbongoha.
+
+images:
+
+illustrations/pages/9634.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9626.png
+illustrations/pages/9630.png
+illustrations/pages/9631.png
+illustrations/pages/9634.png
+illustrations/pages/9632.png
+illustrations/pages/9633.png
+
+translations:
+
+Afrikaans (Translation)	Tande	id=10594
+Aringati (Translation)	Sí Éséle Íngóní Rĩ?	id=9643
+English (Translation)	What Type of Teeth?	id=9653
+isiNdebele (Translation)	Unamazinyo Amangakhi?	id=13052
+isiZulu (Translation)	What Type of Teeth?	id=11562
+Kakwa (Original)	Kala Lo Gbo’Da Adidinyo?	id=9625
+Kinyarwanda (Translation)	Ni Ubuhe Bwoko Bw’Amenyo?	id=17469
+Kiswahili (Translation)	Meno Aina Gani?	id=12621
+Lugbarati (Official) (Translation)	Sí Má Éséle Ngó Lé Rɨ 'ɨ?	id=9649
+Ng’aturkana (Translation)	Ng'ikiel Lu Ikote Ai?	id=12649
+Oluwanga (Translation)	Ameno Mbia Shi?	id=12963
+Portuguese (Translation)	Que Tipo De Dentes?	id=19220
+Rutooro (Translation)	Miringoki Eyamaino?	id=14945

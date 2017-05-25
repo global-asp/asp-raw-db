@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13702&d=0&a=1
+id:	13702
+title:	Tom Omutundi W'amalafu
+author:	Bukheye Mulongo Christopher
+artist:	Zablon Alex Nguku
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13702.png
+desc:	Tom omutundi wamalafu.
+
+page_text:
+
+P1	Tom agega ahasuniya h'amalafu.
+P2	Tom atiina mu hatale ohutunda amalafu.
+P3	Abaatu mu hatale bali hugula ebibala.
+P4	Naye eŋuma ali hugula amalafu ga Tom. Benda hugula bibala hu bahaasi.
+P5	''Mu hitehere hyefe,  abahasi nja batunda ebibala. Musinde hi ono?" bawuusa."
+P6	Aye Tomu sigesonia. Alangirira,  "Mugule amalafu gange! Mugule amalafu gange!"
+P7	Omuhasi nabugula amalafu hu sununiya,  getegeresa bugali bwene.
+P8	Omuhasi agula amalafu.
+P9	Abaatu abandi balya. Bagula amalafu ga Tom balya.
+P10	Amalafu ni gaŋwa. Tom nga abala epiiya ejasunire.
+P11	Tom gagula sabbuni,  sukaali n'omugati gabiita hu suniya.
+P12	Tom gagega esuniya hu mutwe gatiina engo.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+English (Original)	Tom the Banana Seller	id=13627
+French (Translation)	Tom, Le Vendeur De Bananes	id=14530
+isiXhosa (Translation)	Utom, Umthengisi Webhanana	id=15024
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216
+siSwati (Translation)	Themba Umtsengisi Wabhanana	id=16440

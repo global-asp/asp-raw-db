@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=10243&d=0&a=1
+id:	10243
+title:	O Coelho Vai a Festa
+author:	Jorge Eusébio Eusébio
+artist:	Hélder de Paz Alexandre
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10243.png
+desc:	This story is about what happens when you go to a party and get drunk. Or is it?
+
+page_text:
+
+P1	Era uma vez,  os animais decidiram organizar uma festa. A festa não era para todos os animais,  mas sim,  era para animais com chifres.
+P2	O coelho preparou-se para ir. Só que,  descobriu que a festa não era para todos os animais. Era apenas para os animais que tinham chifres.
+P3	O coelho,  usando sua esperteza,  procurou chifres e colou na sua cabeça. Depois de colar,  foi à festa.
+P4	Na festa havia muita bebida,  muita comida e havia também música. O coelho comeu,  bebeu e dançou.
+P5	Depois de tanto beber,  comer e dançar,  o coelho caiu no chão. Porém os chifres descolaram-se e saíram da cabeça!
+P6	Assim,  todos os animais descobriram o engano do coelho. Dai,  eles puxaram as orelhas do coelho até ficarem grandes.
+P7	Depois eles fugiram. Eis a razão do coelho ter orelhas grandes!
+
+images:
+
+illustrations/pages/10187.png
+illustrations/pages/10186.png
+illustrations/pages/10185.png
+illustrations/pages/10187.png
+illustrations/pages/10188.png
+illustrations/pages/10189.png
+illustrations/pages/10190.png
+illustrations/pages/10191.png
+
+translations:
+
+English (Original)	Rabbit Goes to a Party	id=10110
+English (Adaptation)	Rabbit Goes to a Party - Colouring Book	id=17433
+isiXhosa (Translation)	Umvundla Uya Ethekweni	id=13089
+Sesotho (Lesotho) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090
+Xitswa (Translation)	N'wa Vundlani Aya a Mubuzweni	id=10244

@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=2000&d=0&a=1
+id:	2000
+title:	Izimpahla Zesikole
+author:	Clare Verbeek
+artist:	Mlungisi Dlamini
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2000.png
+desc:	Ngilinganisa zonke izimpahla zami zesikole.
+
+page_text:
+
+P1	Lengubo yinde.
+P2	Lelijezi likhulu.
+P3	Lesikhwama siyesinda.
+P4	Lelibhande lincane.
+P5	Lesisigqoko sincane.
+P6	Amasokisi mafushane.
+P7	Kodwa lezicathulo zintsha.
+P8	Zingilingana kahle.
+
+images:
+
+illustrations/pages/954.png
+illustrations/pages/955.png
+illustrations/pages/956.png
+illustrations/pages/957.png
+illustrations/pages/958.png
+illustrations/pages/959.png
+illustrations/pages/960.png
+illustrations/pages/961.png
+illustrations/pages/954.png
+
+translations:
+

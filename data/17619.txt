@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=17619&d=0&a=1
+id:	17619
+title:	O Táxi Da Nanu
+author:	Translators without Borders and Hauke Hartje
+artist:	Marion Drew
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17619.png
+desc:	A Nanu e a sua mãe estão à espera de um táxi que as leve de volta a casa. Enquanto elas estão á espera
+
+page_text:
+
+P1	Olá! O meu nome é Nanu. Eu,  juntamente com a minha mãe,  estou à espera de um táxi. Nós vamos para casa.
+P2	Aqui estou eu na fila. A minha mãe canta-me uma canção. "Venha senhor taxista,  não está a ver? Nós estamos à espera,  a Nanu e eu!"
+P3	A senhora ao meu lado vai levar as suas galinhas para casa. Elas irão pôr ovos para a senhora comer.
+P4	Estes homens estão de volta do trabalho. Eles sorriem-me. Eu ouço-os a cantar,  "Hey pequena Nanu,  não tenhas receio. O táxi está já a chegar."
+P5	Uma senhora passa ao nosso lado. Ela é uma senhora muito inteligente. Não são os seus sapatos maravilhosos? Eles fazem "clique,  clique,  cliqueclique,  clique,  clique." quando a senhora anda.
+P6	Este senhor está a vender bebidas frias. Eu adoro bebidas frias. Elas são tão frias e doces. Tu gostas de bebidas frias?
+P7	Olha! Estão ali senhoras a transportar os seus jantares na cabeça. Não são elas habilidosas?
+P8	Esta senhora está no cabeleireiro. Ela vai sair com as suas amigas esta noite.
+P9	Eu agora estou cansada. A minha mãe põe-me nas suas costas,  aonde eu posso descansar. Ela canta,  "Por favor senhor taxista,  não venha atrasado que o Gogo está à nossa espera no portão."
+P10	Ali está o meu amigo Tumi. Também ele está a descansar. Em breve,  nós vamos estar em casa.
+P11	Lá no alto,  os pássaros estão a voar de volta a casa. Eles têm que regressar a casa antes que escureça.
+P12	Esta senhora tem uns brincos muito bonitos. Eu acho que ela comprou os brincos hoje na cidade. Eu vou comprar muitos brincos para mim e para a minha mãe quando crescer.
+P13	A minha mãe está agora a ficar cansada. Eu canto-lhe uma canção,  "Por favor senhor taxista,  venha depressa que nós estamos à espera,  eu e a minha mãe."
+P14	Espera! Eu estou a ouvir o táxi! Aqui vem ele!
+P15	Este é o nosso enorme táxi vermelho. Ele chegou para nos levar para casa. Eu estou muito feliz!
+P16	Adeus!
+
+images:
+
+illustrations/pages/7576.png
+illustrations/pages/7560.png
+illustrations/pages/7562.png
+illustrations/pages/7563.png
+illustrations/pages/7564.png
+illustrations/pages/7565.png
+illustrations/pages/7566.png
+illustrations/pages/7571.png
+illustrations/pages/7568.png
+illustrations/pages/7569.png
+illustrations/pages/7570.png
+illustrations/pages/7572.png
+illustrations/pages/7573.png
+illustrations/pages/7574.png
+illustrations/pages/7575.png
+illustrations/pages/7576.png
+illustrations/pages/7577.png
+
+translations:
+
+Afrikaans (Translation)	Nanu Se Taxi	id=11245
+English (Original)	Nanu’S Taxi	id=7590
+English (Translation)	Nanu Se Taxi	id=13413
+French (Translation)	Le Taxi-Brousse De Nanu	id=12665
+Kiswahili (Translation)	Teksi Ya Nanu	id=8713

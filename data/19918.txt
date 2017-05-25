@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=19918&d=0&a=1
+id:	19918
+title:	الفرح والحزن
+author:	Ursula Nafula and المفكرون الصغار
+artist:	Rijuta Ghate
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/19918.png
+desc:	قصة تتحدث عن المشاعر
+
+page_text:
+
+P1	لماذا يبكي الطفل؟
+P2	أعتقد أنها جوعانة
+P3	يا ترى، لماذا يشعر هذا الطفل بالحزن؟
+P4	أعتقد أنه يفتقد أباه
+P5	يا ترى، لماذا تشعر هذه الطفلة بالفرح؟
+P6	لديها فستان جديد
+P7	يا ترى، لماذا يضحك هذا الرجل العجوز؟
+P8	إنه يقرأ قصة مضحكة
+P9	لماذا تبتسم هذه السيدة؟
+P10	لأن أولادها يقرأون بهدوء
+P11	كيف تشعر هذه السيدة؟
+P12	أعتقد أنها تشعر بالخجل
+
+images:
+
+illustrations/pages/1891.png
+illustrations/pages/1892.png
+illustrations/pages/1893.png
+illustrations/pages/1894.png
+illustrations/pages/1895.png
+illustrations/pages/1896.png
+illustrations/pages/1897.png
+illustrations/pages/1898.png
+illustrations/pages/1899.png
+illustrations/pages/1900.png
+illustrations/pages/1901.png
+illustrations/pages/1902.png
+illustrations/pages/1903.png
+
+translations:
+
+Ng’aturkana (Translation)	Alakara Ka Ang'oit	id=16484
+Setswana (Translation)	Boitumelo Le Ngalo	id=18883

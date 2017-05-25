@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=8038&d=0&a=1
+id:	8038
+title:	Re Bapala Bolo
+author:	Letta Machoga
+artist:	Vusi Malindi
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8038.png
+desc:	Ye ke kanegelo kopana ka ga sehlopha sa batho ba bases bao ba thabelago go raloka kwele ya maoto. Mokwetlisi wa bona o nale semala se segolo go sehlopha sa gagwe.
+
+page_text:
+
+P1	Re rata papadi ya bolo.
+P2	Moloko o re ruta papadi ya bolo.
+P3	Re bapala papadi ya bolo.
+P4	Re rata ge Moloko a re ruta papadi ya bolo.
+P5	Ka morago ga papadi Moloko o re botša ge a re swaretše semaka.
+P6	Efela re tla tseba fela gosasa.
+P7	Re fihlile pele ga nako ka le le latelago. Kamoka re rata semaka.
+P8	Moloko o re swaretše diaparo le dibolo tse mpsha tša go raloka papadi ya maoto! A semaka!
+
+images:
+
+illustrations/pages/7978.png
+illustrations/pages/7970.png
+illustrations/pages/7977.png
+illustrations/pages/7978.png
+illustrations/pages/7980.png
+illustrations/pages/7982.png
+illustrations/pages/7983.png
+illustrations/pages/7984.png
+illustrations/pages/7985.png
+
+translations:
+
+Afrikaans (Translation)	Sokker Wedstryd	id=11307
+Afrikaans (Translation)	Sokker Wedstryd	id=11403
+English (Translation)	Soccer Game	id=9825
+English (Adaptation)	Soccer Game is  Good	id=13524
+French (Translation)	Une Partie De Football	id=13277
+isiXhosa (Adaptation)	Indebe Yomhlaba I-Chiefs Ne-Aces	id=9826
+isiZulu (Translation)	Sithanda Ibhola Lezinyawo	id=13325
+Luganda (Translation)	Okuzannya Akapiira	id=8425
+Lunyole (Translation)	Omupiira	id=13523
+Sesotho (S.Africa) (Translation)	Re Bapala Bolo	id=9831

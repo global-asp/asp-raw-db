@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=11238&d=0&a=1
+id:	11238
+title:	Krokodil en Bobbejaan
+author:	Rachel Lane
+artist:	Jeremiah Dube
+lang:	Afrikaans
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11238.png
+desc:	Alles is reg met gooie vriende Krokodil en Bobbejaan
+
+page_text:
+
+P1	Bobbejaan en Krokodil is beste vriende. Hulle speel saam. Hulle eet saam. Hulle doen alles saam met mekaar.
+P2	Maar een dag word Krokodil so siek dat hy amper dood gaan. Toe hy sien hoe erg hy siek word,  gaan hy om die nyabezi te sien. Die nyabezi sê,  "As jy beter wil word,  moet jy bobbejaan vleis eet."
+P3	Toe hy dit hoor,  is Krokodil hartseer. Maar daar is geen ander opsie vir hom om gesond te word sonder om sy vriend die bobbejaan te eet.
+P4	Toe Bobbejaan sy vriend besoek,  sit Krokodil hom op sy rug en vat hom uit na die diepste deel van die rivier.
+P5	Krokodil sê toe vir hom,  "Die nyabezi het vir my gesê dat as ek gesond wil word,  moet ek jou eet,  my vriend."
+P6	Toe beantwoord Bobbejaan,  "Nee,  my vriend. Moenie my eet nie. Ek is te klein. Wag 'n bietjie en ek sal my oupa roep. Hy is groter as ek. Eet home n jy sal vol wees."
+P7	Toe sê Krokodil,  "Waar is jou oupa?" Bobbejaan sê,  "Hy's in daardie boom,  daar op die eiland." Krokodil sê,  "Gaan haal hom sodat ek hom kan eet."
+P8	Bobbejaan spring van Krokodil se rug af,  klim die boom an bly daar. Krokodil wag en wag,  maar hy sien geen teken van Bobbejaan nie. En dit was die einde van hulle vriendskap.
+
+images:
+
+illustrations/pages/6979.png
+illustrations/pages/6974.png
+illustrations/pages/6976.png
+illustrations/pages/6977.png
+illustrations/pages/6978.png
+illustrations/pages/6979.png
+illustrations/pages/6980.png
+illustrations/pages/6981.png
+illustrations/pages/6982.png
+
+translations:
+
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11293
+Chinyungwe (Original)	Uxamwali Bwa Kolo Na Nyakhoko	id=7228
+English (Translation)	Crocodile and Baboon	id=7357
+French (Translation)	Le Crocodile Et Le Babouin	id=12656
+Lámnsoʼ (Translation)	Ŋgày Wùn Mbùy	id=16446
+Ng’aturkana (Translation)	Akinyangang'a Ka Echom	id=9540
+Portuguese (Translation)	O Crocodilo E O Babuíno	id=16409

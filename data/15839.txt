@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=15839&d=0&a=1
+id:	15839
+title:	Injangwe Yanjye Irihe? Where is my Cat?
+author:	Martin Arabaruta
+artist:	Bronwen Heath
+lang:	Kinyarwanda English
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15839.png
+desc:	Injangwe yangye yangiye
+
+page_text:
+
+P1	Injangwe yanjye irihe? Where is my cat?
+P2	Ese iri munsi y'igitanda? Could it be under the bed?
+P3	Ese iri hejuru y'akabati? Could it be on the top of the wardrobe?
+P4	Ese iri inyuma y'intebe? Could it be behind the chair?
+P5	Ese iri aho tujugunya imyanda? Could it be it be in the dustbin?
+P6	Ese iri mu gitebo? Could it be in the basket?
+P7	Ese yagiye hanze? Could it have gone out?
+P8	Ngiyi hano! Here it is!
+
+images:
+
+illustrations/pages/1565.png
+illustrations/pages/1565.png
+illustrations/pages/1822.png
+illustrations/pages/1566.png
+illustrations/pages/1567.png
+illustrations/pages/1568.png
+illustrations/pages/1569.png
+illustrations/pages/1570.png
+illustrations/pages/1823.png
+
+translations:
+

@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=8706&d=0&a=1
+id:	8706
+title:	Kima Kijani Kibichi Ala Mkia Wake
+author:	Brigid Simiyu
+artist:	Horácio José Cossa
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8706.png
+desc:	Sungura huyo na vituko vyake tena!
+
+page_text:
+
+P1	Hapo zamani za kale,  Sungura alikuwa rafiki mkubwa wa Kima mwenye rangi ya kijani kibichi.
+P2	Siku moja Sungura alisema: Hebu twende matembezi tukatafute chakula. Kima alikubali,  lakini ulikuwa mtego kwake!
+P3	Walienda katika shamba la mahindi na kuanza kula.
+P4	Lakini Sungura mwakili alikuwa amezungumza na mwenye shamba,  kumshika Kima ili kuonyesha kuwa alikuwa mjinga.
+P5	Sungura mwakili aianza kupiga kelele: Wezi! Wezi! Mahindi yako ameisha yote! Kisha akaruka,  akatoroka na kwenda zake.
+P6	Ghafla,  wenyewe walifika na kumpata Kima akijaribu kutoroka. Kwa vile ana mkia mrefu,  ulimzuia kwenda kwa kasi.
+P7	Wenyewe walimfuata wakipiga kelele: Simama! Simama! Tulikuona,  wewe ni yule Kima.
+P8	Walimshika na kuanza kumpiga.
+P9	Hakustahimili uchungu hivyo alisema: Nilikuwa na rafiki yangu Sungura. Ni yeye aliyenialika.
+P10	Hata hivyo,  wenyewe waliukata mkia wake na kumwambia: Nenda kamwambie rafiki yako kuwa tuliukata mkia wako!
+P11	Walipoondoka,  Sungura alinyemelea na kuuchukuwa mkia wa Kima na kuupika. Kisha Sungura akamualika kima kwa chakula cha mchana.
+P12	Mwisho wa mlo Sungura alimwuliza Kima ikiwa alijua alichokula. Kima mjinga alijibu: La,  sijui!
+P13	Sungura alimwambia kuwa alikuwa amekula mkia wake mwenyewe kisha akatoroka. Kutoka siku hiyo,  walikuwa maadui!
+
+images:
+
+illustrations/pages/8012.png
+illustrations/pages/8010.png
+illustrations/pages/8011.png
+illustrations/pages/8012.png
+illustrations/pages/8013.png
+illustrations/pages/8014.png
+illustrations/pages/8015.png
+illustrations/pages/8016.png
+illustrations/pages/8017.png
+illustrations/pages/8018.png
+illustrations/pages/8019.png
+illustrations/pages/8020.png
+illustrations/pages/8021.png
+illustrations/pages/8022.png
+
+translations:
+
+Ateso (Translation)	Enyami Edokolet Eke Kori	id=9338
+isiZulu (Translation)	Inkawu Idla Umsila Wayo	id=10023
+Kiswahili (Adaptation)	Kima Apoteza Mkia Wake	id=13153

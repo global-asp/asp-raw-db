@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=18342&d=0&a=1
+id:	18342
+title:	Sungura Amdanganya Ndovu
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18342.png
+desc:	Hadithi hii inatuonyesha sababu sungura anakimbia kwa kasi na jinsi alivyomdanganya ndovu rafikiye.
+
+page_text:
+
+P1	Ndovu na Sungura walikuwa marafiki.
+P2	Waliwalisha wanyama wao sehemu iliyokuwa na nyasi na maji.
+P3	  Walizoea kucheza mpira wa miguu. Ndovu alifunga mabao mengi.
+P4	Sungura alikasirika akamwuliza,  "Ni kitu gani kinakusaidia kucheza bora?"
+P5	Ndovu alimjibu,  "Ni miguu yangu mikubwa."
+P6	  Sungura na Ndovu walishindana mbio. Ndovu alikasirika Sungura aliposhinda.
+P7	Alimwuliza,  "Nini inakusaidia kwenda mbio?" Sungura alimjibu,  "Miguu yangu myembamba."
+P8	Ndovu alimwuliza Sungura,  "Nitaipataje miguu myembamba?"  Sungura alimjibu,  "Nitakuonyesha."
+P9	Sungura alimwambia Ndovu,  "Simama ndani ya moto."  Ndovu alilia,  "Ninachomeka!"
+P10	Sungura alisema,  "Hii ndiyo njia pekee ya kuipata miguu  myembamba."
+P11	Ndovu alitoka ndani ya moto. Alilala chini.
+P12	Kwa siku nyingi,  hakuweza kusimama.
+P13	Alipopata nafuu,  alienda kwa familia yake.
+P14	Sungura alisikitika sana. Alimwomba Ndovu msamaha.
+
+images:
+
+illustrations/pages/13000.png
+illustrations/pages/13000.png
+illustrations/pages/13001.png
+illustrations/pages/13002.png
+illustrations/pages/13003.png
+illustrations/pages/13004.png
+illustrations/pages/13005.png
+illustrations/pages/13006.png
+illustrations/pages/13007.png
+illustrations/pages/13008.png
+illustrations/pages/13009.png
+illustrations/pages/13010.png
+illustrations/pages/13012.png
+illustrations/pages/13013.png
+illustrations/pages/13014.png
+
+translations:
+
+Amharic (Adaptation)	ዝሆንና ጥንቸል - ተረት ተረት	id=18755
+English (Translation)	Hare Tricks Elephant Again	id=13093
+Kiswahili (Original)	Sungura Na Ndovu (Tena!)	id=13092
+Rukiga (Translation)	Wakame Akabeiha Warujojo	id=17012
+Setswana (Translation)	Mmutla O Tsietsa Tlou Gape	id=14958

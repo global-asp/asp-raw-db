@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=16246&d=0&a=1
+id:	16246
+title:	The Lord's Prayer
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16246.png
+desc:	In this book
+
+page_text:
+
+P1	Our Father in heaven.
+P2	May your name be honored.
+P3	May your kingdom come.
+P4	May your will be done on earth as it is in heaven.
+P5	Give us today our daily bread.
+P6	Forgive us for doing wrong.
+P7	As we forgive others.
+P8	And do not lead us into temptation.
+P9	But deliver us from the evil one.
+P10	For yours is the kingdom and the power and the glory forever Amen.
+P11	Matthew 6: 9-13.
+
+images:
+
+illustrations/pages/16273.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Chinyungwe (Translation)	Baba Wathu	id=18980
+Elomwe (Translation)	Nivekelo Na Apwiya	id=18982
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=18983
+Imeetto (Translation)	Niswali	id=18993
+Portuguese (Translation)	Pai Nosso”	id=18981

@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=13523&d=0&a=1
+id:	13523
+title:	Omupiira
+author:	Hasahya Joan
+artist:	Vusi Malindi
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13523.png
+desc:	 haloma hu mupiira ogwa magulu
+
+page_text:
+
+P1	We love soccer. Hwenda nyo omupiira.
+P2	Moloko is teaching us soccer. Moloko ali hutwegeresa omupiira.
+P3	We are playing soccer. Huli hugudula omupiira.
+P4	Moloko is the best teacher! Maloko njo musomesa asingayo obulaŋi.
+P5	After the game,  Moloko told us that she has a surprise for us. Olufanyuma lwo mugudulo, Maloko gatusubisa ahalabo eyihuli.
+P6	But she will only let us know tomorrow. Naye anahatutegese olweejo.
+P7	The next day we all came early to the field. We all love surprises. Oludaalo olwalondaho,  hwatina hu hisaŋe mangu daala. Hwesi hwesi hwenda ebirabo.
+P8	Moloko has new soccer kits and balls for all of us! What a great surprise! Maloko ali n'ebyo mupiira ebinyaha ate byeefe hwesihwesi!
+
+images:
+
+illustrations/pages/7978.png
+illustrations/pages/7970.png
+illustrations/pages/7977.png
+illustrations/pages/7978.png
+illustrations/pages/7980.png
+illustrations/pages/7982.png
+illustrations/pages/7983.png
+illustrations/pages/7984.png
+illustrations/pages/7985.png
+
+translations:
+
+Afrikaans (Translation)	Sokker Wedstryd	id=11307
+Afrikaans (Translation)	Sokker Wedstryd	id=11403
+English (Translation)	Soccer Game	id=9825
+English (Adaptation)	Soccer Game is  Good	id=13524
+French (Translation)	Une Partie De Football	id=13277
+isiXhosa (Adaptation)	Indebe Yomhlaba I-Chiefs Ne-Aces	id=9826
+isiZulu (Translation)	Sithanda Ibhola Lezinyawo	id=13325
+Luganda (Translation)	Okuzannya Akapiira	id=8425
+Sepedi (Original)	Re Bapala Bolo	id=8038
+Sesotho (S.Africa) (Translation)	Re Bapala Bolo	id=9831

@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=7833&d=0&a=1
+id:	7833
+title:	Ensujju
+author:	Cissy Namugerwa
+artist:	Mlungisi Dlamini, Cathy Feek, Catherine Groenewald, Wiehan de Jager and Vusi Malindi
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7833.png
+desc:	Ekitontome kyogera ku Nsujju ne migaso gyayo.
+
+page_text:
+
+P1	Ensujju -Ensujju Ensujju-ewooma!
+P2	Kale ewooma nnyo-ewoomera ddala!
+P3	Ate bwogirya-ereeta amagezi!
+P4	Ensujju ettukuza! Ereeta amaanyi!
+P5	Nze maama owange- ampa ensujju!
+P6	Kati ndi mugimu ate ndi mulamu!
+P7	Nina amagezi. Nina amaanyi!
+P8	Bwoba togirina genda ogigule!
+P9	Olina wolima? Keera osimbe!
+P10	Ensujju bwe kula,  olyee!
+
+images:
+
+illustrations/pages/6202.png
+illustrations/pages/6203.png
+illustrations/pages/1576.png
+illustrations/pages/7510.png
+illustrations/pages/1624.png
+illustrations/pages/6780.png
+illustrations/pages/956.png
+illustrations/pages/960.png
+illustrations/pages/1613.png
+illustrations/pages/6205.png
+illustrations/pages/6203.png
+
+translations:
+
+Lusoga (Translation)	Iliibwa	id=8173

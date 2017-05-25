@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=16554&d=0&a=1
+id:	16554
+title:	Kíka Àwọn Ẹranko
+author:	Ṣẹ́gun Ṣóẹ̀tán
+artist:	Rob Owen
+lang:	Yoruba
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16554.png
+desc:	Òùngbẹ ń gbẹ àwọn ẹranko. Kà wọ́n bí wọ́n ti ń lọ mu omi.
+
+page_text:
+
+P1	Erin kan fẹ́ lẹ mu omi.
+P2	Àgùfọn méjì fẹ́ lọ mu omi.
+P3	Ẹfọ̀n mẹ́ta àti ẹyẹ mẹ́rin fẹ́ lọ mu omi.
+P4	Ẹtu márùnún àti túrùkú mẹ́fà ń rìn lọ sí ibi omi.
+P5	Sẹ́bírà méje ń sáré lọ mu omi.
+P6	Kọ̀ǹkọ̀ mẹ́jọ àti ẹja mẹ́sànàn ń wẹ̀ nínú omi.
+P7	Kìnìún kan bú ramúramù. Òun náà fẹ́ mu omi Tani ń bẹ̀rù kìnìún?
+P8	Erin kan ń mu omi pẹ̀lú kìnìún.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9652.png
+illustrations/pages/9647.png
+illustrations/pages/9644.png
+illustrations/pages/9646.png
+illustrations/pages/9650.png
+illustrations/pages/9645.png
+illustrations/pages/9651.png
+illustrations/pages/9648.png
+
+translations:
+
+Afrikaans (Translation)	Tel Die Diere	id=10448
+Afrikaans (Translation)	Tel Die Diere	id=11413
+Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Asante Twi (Translation)	Mmoa Akenkan	id=18219
+Dagaare (Translation)	Donne Sɔrebo	id=17769
+Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
+Dangme (Translation)	Lohwehi Kanemi	id=18297
+English (Original)	Counting Animals	id=9671
+Ewe (Translation)	Lãwo Xexlẽ	id=18179
+Fante (Translation)	Mbowadoma Nkanee	id=18487
+French (Translation)	Compter Les Animaux	id=12654
+Ga (Translation)	Kooloi Kanemɔ	id=18287
+Gonja (Translation)	Asɔbɔaya Be Ke Karga	id=18173
+Kasem (Translation)	Vara Garem	id=18208
+Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
+Lámnsoʼ (Translation)	Á Táŋ Nyám Si	id=15064
+Luganda (Translation)	Ohubala Ebisolo	id=11905
+Lunyole (Adaptation)	Okubala Ebisolo	id=16664
+Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
+Nzema (Translation)	Nane Edianlɛ	id=18423
+Oluwanga (Translation)	Okhubala Tsisolo	id=19590
+Portuguese (Translation)	Contando Os Animais	id=16562
+Tunisian (Translation)	Ħisbèn Ħayewènèt	id=15389

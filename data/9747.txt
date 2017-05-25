@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=9747&d=0&a=1
+id:	9747
+title:	Dangerous Objects
+author:	Awua Gasper
+artist:	Wiehan de Jager and N/A
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9747.png
+desc:	Pictures of dangerous objects.
+
+page_text:
+
+P1	Thorn.
+P2	Fire.
+P3	Snake.
+P4	Razorblade.
+P5	Panga Knife.
+P6	Needle.
+P7	Gun.
+P8	Poison.
+
+images:
+
+illustrations/pages/5976.png
+illustrations/pages/9739.png
+illustrations/pages/6121.png
+illustrations/pages/5921.png
+illustrations/pages/9740.png
+illustrations/pages/9741.png
+illustrations/pages/9742.png
+illustrations/pages/9745.png
+illustrations/pages/9744.png
+
+translations:
+

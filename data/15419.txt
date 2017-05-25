@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=15419&d=0&a=1
+id:	15419
+title:	Utathi
+author:	Hellen Wambui
+artist:	Jesse Breytenbach
+lang:	Kikamba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15419.png
+desc:	Wano uu wonanya langi sya utathi na kumulilikania mumathiwa yulu wa sindu sya kawaita mikalileni ila syi na malangi ta aa.
+
+page_text:
+
+P1	Utathi wina langi mwonza.
+P2	Langi wa mbee yiitawa mutune.
+P3	Kweyu ekiite sati mutune.
+P4	Langi wa keli ni wa isungwa.
+P5	Thii ni isungwa.
+P6	Langi wa wakatatu ni yelo.
+P7	Itumbi ya kienyeji yina langi wa yelo.
+P8	Langi wa kana ni wa ngilini.
+P9	Iua ni sya ngilini.
+P10	Langi wa katano ni mbuluu.
+P11	Matu ni ma mbuluu.
+P12	Langi wa thanthatu ni wa mbuluu ngwatu.
+P13	Matunda aa ni ma langi wa mbuluu ngwatu.
+P14	Langi wa mwonza ni wa nthambalau.
+P15	Ngua yakwa ni ya langi wa nthambalau. Ni langi niwendete muno!
+P16	Niwise langi syonthe sya utathi?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Dhopadhola (Translation)	Lifudu nitye gi cal abiryo	id=19961
+English (Translation)	Colours of a Rainbow	id=10463
+English (Adaptation)	7 Colours of a Rainbow	id=19760
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+Kiswahili (Original)	Rangi Za Upinde	id=10442
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
+siSwati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

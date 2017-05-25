@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=8425&d=0&a=1
+id:	8425
+title:	Okuzannya Akapiira
+author:	Nathan Ssemambo
+artist:	Vusi Malindi
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8425.png
+desc:	This is a story about a group of young people who enjoy playing soccer. Their coach has a big surprise for the team!
+
+page_text:
+
+P1	Kato alina akapiira. Nalule alina akapiira.
+P2	Abaana bali mu kisaawe. Abaan balina omutendesi.
+P3	Omutendesi abatendeka okuzannya akapiira.
+P4	Omutendesi abwaebiragiro.
+P5	Kato asiibula omutendesi. Nalule asiibula omutendesi.
+P6	Bonna badda eka.
+P7	Omukulu w'essomero abaleetera ebyambalo.
+P8	Omutendesi abgabira ebyambalo. Abaana bonna basanyuka.
+
+images:
+
+illustrations/pages/7978.png
+illustrations/pages/7970.png
+illustrations/pages/7977.png
+illustrations/pages/7978.png
+illustrations/pages/7980.png
+illustrations/pages/7982.png
+illustrations/pages/7983.png
+illustrations/pages/7984.png
+illustrations/pages/7985.png
+
+translations:
+
+Afrikaans (Translation)	Sokker Wedstryd	id=11307
+Afrikaans (Translation)	Sokker Wedstryd	id=11403
+English (Translation)	Soccer Game	id=9825
+English (Adaptation)	Soccer Game is  Good	id=13524
+French (Translation)	Une Partie De Football	id=13277
+isiXhosa (Adaptation)	Indebe Yomhlaba I-Chiefs Ne-Aces	id=9826
+isiZulu (Translation)	Sithanda Ibhola Lezinyawo	id=13325
+Lunyole (Translation)	Omupiira	id=13523
+Sepedi (Original)	Re Bapala Bolo	id=8038
+Sesotho (S.Africa) (Translation)	Re Bapala Bolo	id=9831

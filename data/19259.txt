@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=19259&d=0&a=1
+id:	19259
+title:	O Porquê Do Sapo Ser Tão Feio
+author:	Translators without Borders and Rossana Lima
+artist:	Hélder de Paz Alexandre
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/19259.png
+desc:	O Sapo poderia ser tão bonito como o Lagarto se ele apenas tivesse ouvido!
+
+page_text:
+
+P1	Há muitos anos,  o Lagarto e o Sapo eram amigos. Um dia,  decidiram ir à procura de namoradas na cidade.
+P2	O Sapo tinha ciúmes da pele luminosa e brilhante do Lagarto.
+P3	Ele disse: O que fizeste para seres tão bonito? Olha para mim,  sou tão feio. O que é que posso fazer quanto à minha pele?
+P4	O Lagarto disse: Ouve! Põe água numa panela e leva-a ao lume. Depois.
+P5	Mas o Sapo disse: Já sei,  já sei. Cala-te,  meu amigo. E foi-se embora.
+P6	Então chegou a casa e pôs água numa panela.
+P7	Quando a água começou a ferver,  atirou-se para dentro da água.
+P8	A pele dele ficou queimada e a cauda caiu!
+P9	E em vez de ficar brilhante e bonito como o Lagarto,  ficou ainda mais feio!
+
+images:
+
+illustrations/pages/7077.png
+illustrations/pages/7069.png
+illustrations/pages/7070.png
+illustrations/pages/7071.png
+illustrations/pages/7072.png
+illustrations/pages/7073.png
+illustrations/pages/7074.png
+illustrations/pages/7075.png
+illustrations/pages/7076.png
+illustrations/pages/7077.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+English (Adaptation)	Why Frog is so Ugly - Colouring Book	id=17360
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+isiXhosa (Adaptation)	Kutheni Isele Lilibi? (Faka Imibala)	id=17551
+Kiswahili (Translation)	Sababu Chura Kuwa Na Sura Mbaya	id=8712
+Luganda (Translation)	Lwaki Wakikere Mubi Nnyo?	id=9657
+Luganda (Adaptation)	Wakikere Ne Wamunya	id=13778
+Ng’aturkana (Adaptation)	Akidodok Nabworok	id=13522
+Portuguese (Translation)	Porquê a Rã É Tão Feia?	id=7477
+siSwati (Translation)	Kungani Sicoco Sibe Sibi	id=12610
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

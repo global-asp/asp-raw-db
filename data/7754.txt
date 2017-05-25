@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=7754&d=0&a=1
+id:	7754
+title:	N'wavhundlani Na N'wahawu
+author:	Lorde Urias Cândido
+artist:	Reginaldo Vicente Manhice
+lang:	Xitswa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7754.png
+desc:	Rabbit invites his friend Monkey over to play
+
+page_text:
+
+P1	Kaleloko ka masiku kama wa ndlala,  n´wavhundlani na n´wahawu vawahi vanghana. Siku ginwe n´wavhundlani ano alakanya aku ramba a munghana wakwe kasi kuya hlakana.
+P2	N´wavhundlani ati ngalu: Ahi hlakani hi ku bikana. N´wahawu ano hlamula aku: Hingazvimahisa kuyini ke?
+P3	N´wavhundlani ano hlamula aku: Aku sangula kulaveka hi dzivela a nzilu.
+P4	Hicela mati,  lomu ka bota hi kungeta.
+P5	Nzita sangula himina nzinghena,  loku nziba a tapa ya bota ku laveka aku uvhulula nzitahuma.
+P6	Hiku maha loko n´wavhundlani ano ngena hikuranga. Loko a mati masangula aku kufumela.
+P7	N´wavhundlani ano gongonza a tapa,  makumu n´wahawu ano vhulula a mbita.
+P8	Tsena lezvaku loku kucikele a khati ga n´wahawu,  n´wavhundlani ano teka a ribze ga hombe atlhateka a henhla ka bota,  a thlela a tshamela a tapa.
+P9	Loku a mati masangulile kuvila,  n´wahawu ano gongonza a tapa,  tsena lezvaku n´wavhundlani anga vhumelangi aku vhulula a mbita.
+P10	Hikwalaho,  n´wahawu anofa kwalomo. Kani lezvi n´wavhundlani a gile munghana wakwe!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/7750.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/7748.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/7749.png
+
+translations:
+
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The Cooking Game	id=6993
+English (Adaptation)	The Cooking Game - Colouring Book	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo Wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo Wokuphekana (Faka Imibala)	id=17564
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753

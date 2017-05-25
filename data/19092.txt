@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=19092&d=0&a=1
+id:	19092
+title:	Ngurumo Na Radi
+author:	Ursula Nafula
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19092.png
+desc:	Ngurumo na mwanawe
+
+page_text:
+
+P1	Hapo zamani,  Ngurumo na Radi waliishi duniani miongoni mwa watu.
+P2	Ngurumo alikuwa mamake Radi.
+P3	Radi alikuwa mwenye hasira kali. Mara nyingi alibishana na mamake.
+P4	Radi alipokasirika,  aliteketeza nyumba na kung'oa miti. Alitoa sauti ya kutisha,  "Pia-la-la-la,  pia-la-la-la!" Aliharibu mashamba na hata kuwaua watu.
+P5	Radi alipofanya vitendo hivi,  mamake alimwita kwa sauti ya juu,   "Bum-rambo-la-la-la,  la-bum!" Alijaribu kumzuia asisababishe uharibifu.
+P6	Radi hakutia maanani aliyosema mamake. Badala  yake angesababisha fujo kwa kila mmoja alipokuwa na hasira.
+P7	Hatimaye,  watu walipeleka malalamishi yao kwa mfalme.
+P8	Mfalme aliamrisha Ngurumo na mwanawe wahame kutoka kijijini. Aliwafukuza waishi mbali na makao ya watu.
+P9	Hili halikusaidia sana. Radi alipokasirika,  alizidi kuteketeza misitu,   "Pia-la-la-la,  pia-la-la-la!" Wakati mwingine,  ndimi za moto zilisambaa na kuunguza mashamba.
+P10	Kwa hivyo,  watu alienda tena kwa mfalme kumlalamikia.
+P11	Wakati huu,  mfalme aliwaambia Radi na Ngurumo kwamba hawangeendelea kuishi duniani. Aliwafukuza waishi angani wasikoweza kusababisha uharibifu mwingi.
+P12	Tangu wakati huo,  Radi anapokasirika,  huweza kuteketeza na kuharibu,  "Pia-la-la-la,  pia-la-la-la!" Nasi bado tunamsikia Ngurumo,  mamake Radi,  akimkemea,   "Bum-rambo-la-la-la,  la-bum!"
+
+images:
+
+illustrations/pages/19056.png
+illustrations/pages/19042.png
+illustrations/pages/19044.png
+illustrations/pages/19046.png
+illustrations/pages/19047.png
+illustrations/pages/19048.png
+illustrations/pages/19050.png
+illustrations/pages/19051.png
+illustrations/pages/19052.png
+illustrations/pages/19053.png
+illustrations/pages/19054.png
+illustrations/pages/19055.png
+illustrations/pages/19056.png
+
+translations:
+
+Dhopadhola (Original)	Mor Koth Kodi Lith Koth	id=19073
+English (Translation)	Thunder and Lightning	id=19074

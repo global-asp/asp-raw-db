@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=2888&d=0&a=1
+id:	2888
+title:	Ru Etumuzu
+author:	Doris Maandebo
+artist:	Kathy Arbuckle
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2888.png
+desc:	I describe my different feelings at different times and with different people.
+
+page_text:
+
+P1	Ma asi ni e`yo karakara etumu.
+P2	Ma idi ka amani o`duko olu ondresi ayiko ni ma fu tu.
+P3	Aka avi ma agiyi be ma e`da mani azaza ru.
+P4	Ma ati ka `yo `i vu sende yo,  ma eri onzi.
+P5	Ma andri ka ma o`de ma etumu kini `ba le ma ra.
+
+images:
+
+illustrations/pages/1328.png
+illustrations/pages/1329.png
+illustrations/pages/1330.png
+illustrations/pages/1328.png
+illustrations/pages/1331.png
+illustrations/pages/1332.png
+
+translations:
+
+Aringati (Translation)	Cãndíru Ꞌbã Ị́jọ́ Ĩtrĩkãŋá	id=7267
+Ateso (Translation)	Epupi Ekon Etau Biai?	id=2885
+English (Original)	Feelings	id=2884
+Kikamba (Translation)	Kwĩw’A	id=2887
+Lugbarati (Official) (Translation)	Àfaamázʉ́	id=8752
+Lumasaaba (Translation)	Bibyambaso	id=8916
+Lunyole (Translation)	Weŋulira Otye?	id=2890
+Lunyole (Adaptation)	Feelings	id=13618
+Lusoga (Translation)	Mpulira	id=2891
+Maa (Translation)	Aníng	id=2886
+Ng’aturkana (Translation)	Ng’Akiiranaret Akwaan	id=2893
+Oluwanga (Translation)	Obuulili	id=2892
+Sabinyi (Translation)	Co Katinyiŋ	id=2894
+Setswana (Translation)	Maikutlo	id=2895
+Tunisian (Translation)	Iħsès	id=15155

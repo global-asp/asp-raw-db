@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=15385&d=0&a=1
+id:	15385
+title:	Utingi
+author:	Foundation phase teachers Umlazi
+artist:	Ingrid Schechter
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15385.png
+desc:	Grandmother saves Tingis life.
+
+page_text:
+
+P1	UTingi wayehlala nogogo wakhe.
+P2	UTingi wayejwayele ukwalusa izinkomo nogogo wakhe.
+P3	Ngelinye ilanga kwafika amasosha.
+P4	Amasosha athatha izinkomo ahamba nazo.
+P5	UTingi nogogo wakhe babaleka bayocasha.
+P6	Bacasha ehlathini kwaze kwaba sebusuku.
+P7	Abaye abuya amasosha.
+P8	Ugogo wafihla uTingi ngaphansi kwamaqabunga.
+P9	Elinye lamasosha lamnyathela kodwa wathula.
+P10	UTingi nogogo baphuma sebebona ukuthi kuphephile.
+P11	Banyonyoba bagoduka.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi and the Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

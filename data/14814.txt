@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=14814&d=0&a=1
+id:	14814
+title:	What is Wrong Child? / Mtoto, Shida Ni Nini?
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14814.png
+desc:	Je
+
+page_text:
+
+P1	This is Matende. Huyu ni Matende.
+P2	Matende cried all the time. Matende alilia kila wakati.
+P3	When his mother fed him,  Matende cried. Mamake alipomnywesha maziwa,  Matende alilia.
+P4	When Matende was put down to rest,  he still cried. Matende alipowekwa kupumzika,  bado alilia.
+P5	When his mother changed his nappies,  Matende continued to cry. Mamake alipobadilisha pampa,  Matende aliendelea kulia.
+P6	When his mother carried him on her shoulder,  Matende cried more. Mamake alipombeba begani,  Matende alilia zaidi.
+P7	When he fell asleep,  Matende looked like he would start to cry again. Alipopatwa na usingizi,  Matende alionekana kuwa angeenza kulia tena.
+P8	Matende's mother looked at her son. She did not know what was wrong with him. Mamake Matende alimwangalia mwanawe. Hakujua kilichomsumbua.
+
+images:
+
+illustrations/pages/10483.png
+illustrations/pages/10477.png
+illustrations/pages/10478.png
+illustrations/pages/10479.png
+illustrations/pages/10480.png
+illustrations/pages/10481.png
+illustrations/pages/10482.png
+illustrations/pages/10483.png
+illustrations/pages/10484.png
+
+translations:
+
+English (Original)	Baby Who Cried	id=10529
+Lunyole (Translation)	Omwaana Agalira	id=13703
+Setswana (Translation)	Lesea Le Le Lelang	id=19856

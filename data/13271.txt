@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=13271&d=0&a=1
+id:	13271
+title:	Le Grand Bus Bleu
+author:	Véronique Thomas and Translators without Borders
+artist:	Mango Tree
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13271.png
+desc:	Ebei et sa maman attendent le grand bus bleu qui va les emmener en ville. Mais le grand bus bleu est tombé est panne.  Comment vont-ils aller en ville maintenant ?
+
+page_text:
+
+P1	Il n'y avait qu'un bus dans le village d'Ebei. Il était grand et bleu. Il faisait beaucoup de bruit.
+P2	Un jour,  la maman d'Ebei lui dit: "Demain nous irons en ville acheter ton uniforme pour l'école."
+P3	Ebei était très excité. Ils allaient prendre le grand bus bleu. Il ne dormit pas cette nuit-là.
+P4	Ebei était déjà habillé quand sa maman vint le réveiller.
+P5	Ebei et sa maman marchèrent jusqu' à l'arrêt de bus. Ils attendirent le grand bus bleu. Mais le bus ne venait pas.
+P6	D'autres gens arrivèrent à l'arrêt de bus. Ils se plaignaient parce que le bus était en retard. "Le bus nous a-t-il oubliés?" demandèrent-ils.
+P7	Ebei était inquiet. "Nous ne pourrons pas aller en ville. Je ne pourrai pas avoir mon uniforme," pensa-t-il.
+P8	Des gens renoncèrent à attendre et rentrèrent chez eux. Mais Ebei se mit à pleurer ; il ne voulait pas rentrer. Sa maman le consola. "Nous allons attendre encore un peu," lui dit-elle.
+P9	Tout à coup,  ils entendirent un bruit. Ils virent un nuage de poussière. Le bus arrivait!
+P10	Mais le bus n'était pas bleu. Il n'était pas grand non plus. Le bus était rouge et petit. Les gens qui attendaient regardèrent le bus. Ils hésitaient à monter.
+P11	" Montez,  Montez!"  cria le chauffeur. "Nous avons beaucoup de retard aujourd'hui," dit-il.
+P12	Ebei et sa maman montèrent les premiers. Bientôt tous les autres montèrent dans le petit bus rouge.
+P13	Ebei regarda par la fenêtre. Il vit d'autres gens encore à l'arrêt d'autobus.
+P14	D'autres courraient pour prendre le bus. Mais il était trop tard. Le bus était plein. Le bus rouge se mit en route vers la ville.
+P15	" Où est le grand bus bleu?" demanda la maman d'Ebei. "Il est tombé en panne," répondit le chauffeur. Nous sommes en train de le réparer. Il viendra demain," ajouta-t-il."
+P16	Ebei se moquait bien de la couleur du bus. Il se moquait bien de la taille du bus. Il était heureux parce que le bus allait en ville.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

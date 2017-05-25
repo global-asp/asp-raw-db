@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18986&d=0&a=1
+id:	18986
+title:	Zwine Nda Zwi Takalela
+author:	Ramikosi Gudani
+artist:	Wiehan de Jager
+lang:	Tshivenda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18986.png
+desc:	Zwine na takalela u ita ndi zwifhio?
+
+page_text:
+
+P1	Ndi takalela u fhufha khadi na khonani dzanga.
+P2	Ndi takalela u ṅwala maḽeḓere kha bodo.
+P3	Ndi takalela u vhala bugu ire na zwifanyiso.
+P4	Ndi takalela u ḽa mitshelo yo fhambananaho.
+P5	Ndi takalela u thusa hayani.
+P6	Ndi takalela u thetshelesa dzinganea dza mme anga.
+P7	Ndi takalela u eḓela mbeteni muhulu.
+P8	Zwi a ntakadza u ita izwi zwithu. Inwi vho ni takadzwa nga u ita mini?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat Ek Graag Doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+CiNyanja (Translation)	Vintu Vamene Nikonda Kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I Enjoy Doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18984
+Sesotho (South Africa) (Translation)	Ke Rata Ho Etsa 	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Xitsonga (Translation)	Ndzi Rhandza Ku Endla	id=18875

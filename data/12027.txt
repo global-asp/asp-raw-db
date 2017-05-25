@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=12027&d=0&a=1
+id:	12027
+title:	Likatse Tsa Selemeng
+author:	Khothatso Ranoosi
+artist:	Jesse Breytenbach
+lang:	Sesotho (Lesotho)
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12027.png
+desc:	Selemeng o na le likatse tse ngata. Selemeng o na le likatse tse kae?
+
+page_text:
+
+P1	Selemeng ke ngoanana ea monyane. O rata likatse. Lile ngata lapeng habo.
+P2	Selemeng o na le katse e le'ngoe entšo. E ja nama haholo.
+P3	Selemeng o na le katse e nonneng haholo. E ja ntho e'ngoe le e'ngoe.
+P4	Katse ea boraro,  ea matha,  hoea qhomela holima sefate. Ea fumana bothata ba hore na e theoha sefateng joang.
+P5	Selemeng a hloa sefate le ena. Selemeng a fumana bothata le ena. 'M'e oa Selemeng le ena a tlameha hoea thusa katse le Selemeng ho theoha sefateng.
+P6	Selemeng o na le likatse tse peli hape. Line li kakalla kantle letsatsing letšeare kaofela.
+P7	Selemeng o na le likatse tse tharo hape tse phatahaneng. Litšoara litoeba kantlung ea lijo bosiu.
+P8	Selemeng o na le ntja e le'ngoe. Lebitso la eona ke Lirafi. Ene e sena motsoalle. E koatile.
+P9	Likatse tsa Selemeng hali rate Lirafi. Li lelekisa Lirafi hore etsoe ka tlung. Ea baleha.
+P10	Selemeng a tlameha hoea e lata hore e khutlele lapeng. Eaba likatse lia koata. Hali batle hobona Lirafi hape.
+P11	Selemeng o na le likatse tse kae habo? Eea,  o na le likatse tse robeli.
+P12	Selemeng o na le lintja tse kae habo? Eea,  o na le ntja e le'ngoe. Selemeng o thabela likatse tsa hae tse robeli le ntja ea hae e le'ngoe.
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Aduroota Caala	id=12956
+English (Translation)	Selemeng's Cats	id=12155
+French (Translation)	Les Chats De Selemeng	id=13276
+Kiswahili (Translation)	Paka Wa Selemeng	id=15558
+Sepedi (Translation)	Dikatse Tša Selemeng	id=12581

@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=19920&d=0&a=1
+id:	19920
+title:	اثنان
+author:	المفكرون الصغار
+artist:	Richard MacIntosh
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/19920.png
+desc:	أجزاء من الجسم
+
+page_text:
+
+P1	يوجد لدي يدان لتمسك الكرة
+P2	يوجد لدي قدمان لضرب الكرة
+P3	يوجد لدي عينان لأرى
+P4	يوجد لدي أذنان لأسمع
+P5	And two loving arms to HUG!
+P6	يوجد لدي ذراعان لأضم من أحب
+
+images:
+
+illustrations/pages/3062.png
+illustrations/pages/3061.png
+illustrations/pages/3063.png
+illustrations/pages/3064.png
+illustrations/pages/3065.png
+illustrations/pages/3066.png
+illustrations/pages/3067.png
+illustrations/pages/3068.png
+illustrations/pages/3069.png
+illustrations/pages/3070.png
+illustrations/pages/3071.png
+
+translations:
+
+English (Original)	Two	id=3072
+Gikuyu (Translation)	Igĩrĩ	id=9676
+Kiswahili (Translation)	Mbili	id=3101
+Ng’aturkana (Translation)	Ng'arei	id=9543

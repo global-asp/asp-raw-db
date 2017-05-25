@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=2987&d=0&a=1
+id:	2987
+title:	Nyani Walioenda Huku Na Huko
+author:	Brigid Simiyu
+artist:	Benjamin Mitchley
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2987.png
+desc:	Watu katika kijiji cha Udongo wanahamia milimani kuepuka wanyama wa mwituni.  Wanajifunza kula matunda na mizizi na kuanza kuwa na tabia kama za nyani.  Kisha hizi familia za nyani zinagundua kwamba hazitaki tena kuishi pamoja.
+
+page_text:
+
+P1	Watu wa kijiji cha Udongo walikumbwa na matatizo mengi. Walihuzunika kwa sababu wanyama wa mwituni waliyahatarisha maisha yao.
+P2	Wanyama hawa walikula mimea yao yote na kuwaiba watoto. Hapakuwa pahali pazuri pa kuishi tena,  lakini,  wangehamia wapi?
+P3	Watu wa familia moja walihamia milimani. Waliamini kuwa wangepata chakula huko.
+P4	Milimani,  kulikuwa na vichaka,  mapango na miti mingi. Waliwatega sungura na kuwashika ndege kwa chakula.
+P5	Familia zingine ziliona jinsi familia ya milimani ilivyoishi vizuri. "Maisha ya milimani ni mazuri. Nanyi hamieni huku." Mtu mmoja alisema.
+P6	Familia zingine zilihamia milimani na kuishi mapangoni kwenye joto na usalama.
+P7	Watoto wa familia za milimani,  walizoe kupanda miti kutafuta matunda. Walining'inia kwenye matawi kama vile kima hufanya.
+P8	Kadri muda ulivyopita,  ndivyo familia za milimani zilibadilika kimaumbile. Watoto walipunguza maongezi yao,  na kukoroma zaidi. Mapua ya watu wazima yalianza kuwa makubwa na waliota nywele zaidi miilini.
+P9	Kila walipoangaliana,  waliona kwamba meno yao yalikuwa marefu. Walianza kutembea kwa miguu minne.
+P10	Walikuwa viumbe wapya wasiokuwa wameonekana pahali pale mbeleni. Waliitwa nyani.
+P11	Mwanzoni,  nyani hao waliishi kwa furaha. Badala ya kula sungura,  walianza kula mabuu.
+P12	Hata hivyo,  walikumbuka kwamba walikuwa watu mbeleni. Waliangaliana mapua yao makubwa na kuchekana.
+P13	Baadaye,  walianza kukasirishwa na tabia zao wenyewe. Walipochekana,  waliruka juu na chini kwa hasira. Vita vilizuka baina ya nyani wakalazimika kutawanyika.
+P14	Hiyo ndiyo sababu hata leo,  nyani huishi katika makundi madogo wala hawaishi kama taifa la nyani.
+
+images:
+
+illustrations/pages/1160.png
+illustrations/pages/1161.png
+illustrations/pages/1162.png
+illustrations/pages/1163.png
+illustrations/pages/1164.png
+illustrations/pages/1165.png
+illustrations/pages/1166.png
+illustrations/pages/1160.png
+illustrations/pages/1167.png
+illustrations/pages/1169.png
+illustrations/pages/1175.png
+illustrations/pages/1168.png
+illustrations/pages/1170.png
+illustrations/pages/1171.png
+illustrations/pages/1173.png
+
+translations:
+
+English (Original)	The Baboons That Went This Way and That	id=2605
+English (Adaptation)	The Baboons That Went This Way and That	id=2609
+English (Adaptation)	Baboons	id=19986
+isiZulu (Translation)	Izimfene Ezaziya Le Na Le	id=2853
+Lumasaaba (Translation)	Tsingukye Tsitsakyeendaana Eyi Ni Neeyi	id=2990
+Lunyole (Translation)	Enguge Ejerwenga Eno Ni Neera	id=2852
+Lunyole (Adaptation)	Enguge Ejerwenga Eno Ni Neera	id=16593
+Sepedi (Translation)	Ditšhwene Tšeo Di Be Go Di E Ya Kua Le Kua	id=2988
+Sesotho (Lesotho) (Translation)	Litsoene Tseneng Li Tsamaea Ka Tsela Ena Le Ena	id=2989

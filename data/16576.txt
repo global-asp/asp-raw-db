@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=16576&d=0&a=1
+id:	16576
+title:	Egaali
+author:	African Storybook
+artist:	Wiehan de Jager
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16576.png
+desc:	Erwanyi lishene libukula ingarangarani ya Namu!
+
+page_text:
+
+
+images:
+
+illustrations/pages/13433.png
+illustrations/pages/13429.png
+illustrations/pages/13430.png
+illustrations/pages/13431.png
+illustrations/pages/13432.png
+illustrations/pages/13433.png
+illustrations/pages/13434.png
+illustrations/pages/13435.png
+illustrations/pages/13436.png
+
+translations:
+
+Afrikaans (Translation)	Namu Se Fiets	id=20087
+English (Translation)	Namu’S Bicycle	id=13922
+French (Translation)	La Bicyclette De Namukuru	id=14968
+isiXhosa (Translation)	Ibhayisekile Kanamukuru	id=14120
+isiZulu (Translation)	Ibhayisikili  Likanamakuru	id=15049
+Oluwanga (Original)	Lishene Ne Ingarangarani	id=13921
+Portuguese (Translation)	A Bicicleta De Namukuru	id=17618
+Sesotho (S.Africa) (Translation)	Baesekele Ya Namukuru	id=14510
+Sesotho (South Africa) (Translation)	Baesekele Ya Seipati	id=20039
+Tshivenda (Translation)	Lukanyakanya Lwa Namukuru	id=14775
+Xitsonga (Translation)	Xikanyakanya Xa Masesi	id=14518

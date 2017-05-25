@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=11138&d=0&a=1
+id:	11138
+title:	Bok, Hond en Koei
+author:	Tristan Mark Ilsley
+artist:	Marleen Visser
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11138.png
+desc:	Bok
+
+page_text:
+
+P1	Bok,  Hond en Koei was groot vriende. Eendag het hulle op 'n reis in 'n huurmotor gegaan.
+P2	Toe hulle die einde van die reis bereik,  het die bestuurder hulle gevra om hulle reisgeld te betaal. Koei betaal toe haar geld.
+P3	Hond betaal 'n bietjie ekstra,  omdat hy nie die korrekte kleingeld gehad het nie.
+P4	Die bestuurder wou net Hond sy kleingeld terug gee,  toe Bok weghardloop sonder om enigiets te betaal.
+P5	Die bestuurder was baie kwaad. Hy het weggery sonder om vir Hond sy kleingeld terug te gee.
+P6	Dis hoekom,  selfs vandag,  Hond na 'n motor hardloop om binne in te loer op soek na die bestuurder wat hom nou nog sy kleingeld skuld.
+P7	Bok hardloop weg van die geluid van 'n motor. Sy is bang sy sal in hegtenis geneem word omdat sy nie haar reisgeld betaal het nie.
+P8	En Koei is nie gepla wanneer 'n motor aankom nie. Koei neem haar tyd om oor die pad te stap,  want sy weet dat sy haar reisgeld ten volle betaal het.
+
+images:
+
+illustrations/pages/6372.png
+illustrations/pages/6371.png
+illustrations/pages/6373.png
+illustrations/pages/6374.png
+illustrations/pages/6375.png
+illustrations/pages/6376.png
+illustrations/pages/6377.png
+illustrations/pages/6378.png
+illustrations/pages/6379.png
+
+translations:
+
+Dhopadhola (Translation)	Dyel, Gwok Kodi Dhyaŋ	id=16481
+English (Translation)	Goat, Dog and Cow	id=6380
+English (Adaptation)	Goat, Dog, and Cow With Tv	id=13529
+French (Translation)	La Chèvre, Le Chien Et La Vache	id=10839
+isiNdebele (Translation)	Imbuzi, Inja Nekomo	id=7670
+isiZulu (Translation)	Imbuzi, Inja Nenkomo	id=7491
+Kikamba (Translation)	Mbui, Ngiti Na Ng'ombe	id=9686
+Kiswahili (Translation)	Mbuzi, Mbwa Na Ng’Ombe	id=7868
+Luganda (Translation)	Wambuzi, Wambwa Ne Wante	id=7787
+Lumasaaba (Original)	Imbusi, Imbwa Ni Ngaafu	id=6730
+Lunyole (Translation)	Embusi, Embwa N’Eŋombe	id=8397
+Maa (Translation)	Enkíné, Oldía Ó Enkíténg	id=7867
+Ng’aturkana (Translation)	Akine, Ing'ok Ka Aite	id=7014
+Oluwanga (Translation)	Imbusi, Imbwa Nende Ing’Ombe	id=8279
+Portuguese (Translation)	A Cabra, O Cachorro E a Vaca	id=16419
+Rutooro (Translation)	Embuzi, Embwa, N’Ente	id=14925
+Sesotho (Lesotho) (Adaptation)	Pooli, Ntja, Le Khomo Le Tv	id=13553
+Setswana (Translation)	Podi, Ntšwa Le Kgomo	id=7771

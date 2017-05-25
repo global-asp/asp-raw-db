@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=2005&d=0&a=1
+id:	2005
+title:	Abafana Ababili Abalambile
+author:	Clare Verbeek
+artist:	Bronwen Heath
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2005.png
+desc:	USifiso noSiyabonga balambile. Badla amakhekhe enziwe nguGogo. Sisize sibale ukuthi badle amakhekhe amangaki.
+
+page_text:
+
+P1	USiyabonga noSifiso balambile.
+P2	Ugogo wenza amakhekhe amancane alishumi. Uwabeka epuletini.
+P3	USifiso uthatha ikhekhe elilodwa. USiyabonga uthatha amakhekhe amabili.
+P4	USifiso uthatha amakhekhe amane. USiyabonga uthatha amakhekhe amabili.
+P5	Mangaki amakhekhe adliwe nguSifiso? Mangaki amakhekhe adliwe unguSiyabonga? Mangaki amakhekhe asalele ugogo?
+
+images:
+
+illustrations/pages/1717.png
+illustrations/pages/1717.png
+illustrations/pages/1718.png
+illustrations/pages/1719.png
+illustrations/pages/1720.png
+illustrations/pages/1799.png
+
+translations:
+

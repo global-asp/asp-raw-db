@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=8698&d=0&a=1
+id:	8698
+title:	Fisi Na Kunguru
+author:	Pete Mhunzi
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8698.png
+desc:	Urafiki baina ya fisi na kunguru unakatika baada ya kunguru kumdanganya fisi. Soma uone vipi hili lilitokea.
+
+page_text:
+
+P1	Fisi na Kunguru walikuwa marafiki ingawa walikuwa tofauti. Kunguru aliruka lakini Fisi alitembea tu.
+P2	Siku moja Fisi alitaka kumfahamu Kunguru zaidi. Alimwuliza,  "Ni kitu gani cheupe kilicho nyuma ya shingo lako?" Kunguru alimjibu Fisi,  "Ni nyama nono nimekuwa nikiila huko angani ninaporuka. Nimeila kwa muda mrefu hadi imejibandika shingoni mwangu."
+P3	Kwa ukarimu wake,  Kunguru alimpatia Fisi manyoya.  Fisi  aliyashona mabawa,  akayaunganisha na mwili wake akajaribu kuruka. Uzito wake ulimshinda akalazimika kuwa na mpango tofauti.
+P4	Fisi alimwambia Kunguru,  "Niruhusu niushikilie mkia wako utakaporuka angani."   Kunguru alikubali akasema,  "Ninajua una hamu ya kuruka. Hebu tufanye hivyo kesho asubuhi." Asubuhi ilipofika,  Fisi aliushikilia mkia wa Kunguru,  Kunguru aliporuka.
+P5	Kunguru aliruka mpaka akachoka kabisa. Fisi alimsihi,  "Tafadhali rafiki yangu,  endelea kidogo zaidi!"
+P6	Hatimaye,  manyoya yote yaling'oka. Fisi akaelea peke yake angani. Alilirukia wingu jeupe akidhani ni nyama nono ambayo angejishikilia. Lakini,  alipojaribu kuishika ile "nyama," aliyashika mawingu majimaji tu!
+P7	Fisi alianza kuanguka kwa kasi kutoka angani. Alipaza sauti akisema,  "Nisaidie! Nisaidie!"  Hakuna aliyemsikia. Kunguru alikuwa ametokomea mawinguni.
+P8	Fisi alianguka chini kwa kishindo akalala kimya kwa muda. Baadaye aliamka kwa maumivu akipiga mayowe. Mguu wake mmoja ulikuwa umevunjika. Alikuwa na madoadoa mengi mwilini.
+P9	Fisi hajaweza kuruka. Urafiki baina yake na Kunguru haukuwepo tena.
+
+images:
+
+illustrations/pages/1725.png
+illustrations/pages/1725.png
+illustrations/pages/1726.png
+illustrations/pages/1727.png
+illustrations/pages/1728.png
+illustrations/pages/1729.png
+illustrations/pages/1730.png
+illustrations/pages/1731.png
+illustrations/pages/1732.png
+illustrations/pages/1733.png
+illustrations/pages/1734.png
+
+translations:
+
+Afrikaans (Translation)	Hiëna en Raaf	id=10914
+Afrikaans (Translation)	Hiëna en Kraai	id=11174
+English (Original)	Hyena and Raven	id=2105
+French (Translation)	La Hyène Et Le Corbeau	id=10181
+Gurene (Translation)	Sãseŋa La Guͻ	id=12667
+isiNdebele (Translation)	Ipisi Nenyoni	id=13055
+Likpakpaanl (Translation)	Naachiin Ni Ukaabɔn	id=18778

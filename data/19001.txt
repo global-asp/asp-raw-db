@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=19001&d=0&a=1
+id:	19001
+title:	“a Canoa Da Sara”
+author:	© 2016 Little Zebra Books
+artist:	Little Zebra Books and Rachel Geer
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19001.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	A Sara tem uma canoa. A canoa dela é grande. A canoa está na margem do rio.
+P2	Algumas mulheres aparecem no rio. Uma mulher tem um cesto de fruitas. Outra mulher tem uma galinha. Outra mulher tem um cabrito. Outra mulher tem dois cabritos. Elas perguntam à Sara,  "Como é que nós podemos chegar à outra margem do rio?" A Sara diz,  "Entrem na minha canoa!"
+P3	Depois,  alguns homens chegam. Um homem tem peixe. Outro homem tem uma bicicleta. Outra tem un saco de arroz.
+P4	Outro homem tem dois sacos de arroz. Eles perguntam à Sara,  "Como é que nós podemos chegar à outra margem do rio?" A Sara responde,  "Entrem na minha canoa!"
+P5	Alguns animais aparecem no rio. Eles perguntam à Sara,  "Como é que nós podemos chegar à outra margem do rio?" A Sara diz,  "Entrem na minha canoa!"
+P6	Os animais entram na canoa. O cão entra na canoa. O gato entra na canoa. O macaco-cão entra na canoa. O coelho entra na canoa. O cágado entra na canoa. A gazela entra na canoa.
+P7	O elefante aparece no rio. Ele pergunta,  "Como é que eu posso chegar à outra margem do rio?" A Sara diz,  "Entra na minha canoa!" O elefante entra na canoa. A canoa fica cheia de água.
+P8	A canoa é pequena. Não há espaço suficiente.
+P9	A Sara diz,  "Esperam um minuto! Primeiro eu levarei as mulheres."
+P10	A Sara diz,  "Em segundo,  eu levarei os homens."
+P11	A Sara diz,  "Por fim,  eu levarei os animais."
+P12	O elefante diz,  "Ei,  eu irei a pé!"
+
+images:
+
+illustrations/pages/16290.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+English (Original)	Sara's Canoe	id=16261

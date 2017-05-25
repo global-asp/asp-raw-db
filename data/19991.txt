@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=19991&d=0&a=1
+id:	19991
+title:	Mwana anoshamisa
+author:	Ephraim Mhlanga
+artist:	Meghan Judge
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19991.png
+desc:	Nyaya inotemesa musoro
+
+page_text:
+
+P1	Ndakatarisisa zvakare.
+P2	Ndakaona  mai vakazvitakura vakabata dumbu ravo.
+P3	Vanhu vemumusha medu vakabvumidza mai ava kugara nesu mumusha.
+P4	Ava manheru mai ava vakatanga kuchema,  Mwana! mwana avakubuda".
+P5	Vakabva vazvara mwana akafanana nedhongi.
+P6	Vanhu vakashaya kuti voita sei.
+P7	Vanhu vakatiza. Mai ava vakafunga, "Zvino ndoita seiko nemwana akafanana nedhongi uyu?".
+P8	Pakupedzisira vakafunga kuti vade mwana wavo.
+P9	Mwana uyu akakura ndokubva mai votadza kumubereka.
+P10	Mai vakatsamwa
+  nazvo. Mwana dhongi akagumbukawo zvakare. Mwana akabva akava mai vake.
+P11	Paakawona mai vake vadonha pasi, mwana akabva atiza.
+P12	Mwana akanzwa nzara, akanga aneta uye akanga osurukirwa. Akabva abatwa nehope ndokubva akotsira.
+P13	Paakazo pepuka, akawona murume akamira padyo naye.
+P14	Murume uyu akatakura mwana dhongi ndokuenda naye kumba.
+P15	Kuzoti akura, mwana dhongi aigara achibereka murume uyu kumusana.
+P16	Mumwe musi vakaenda pamusoro pechikomo ndokurara zvavo vachizorora ipapo.
+P17	Mwana dhongi paakazoti pepu, akawana angove ega.
+P18	Mwana dhongi akashushikana nazvo. Akabva aenda kunotsvaga mai vake.
+P19	"Kuti vangave mai vangu here avo?".
+P20	Mwana dhongi namai vake vave kugara vese zvakare. Anogara achibereka mai vake pesepavanofamba muraini.
+
+images:
+
+illustrations/pages/14979.png
+illustrations/pages/14972.png
+illustrations/pages/14973.png
+illustrations/pages/14974.png
+illustrations/pages/14976.png
+illustrations/pages/14977.png
+illustrations/pages/14978.png
+illustrations/pages/14979.png
+illustrations/pages/14980.png
+illustrations/pages/14981.png
+illustrations/pages/14982.png
+illustrations/pages/14983.png
+illustrations/pages/14984.png
+illustrations/pages/14985.png
+illustrations/pages/14986.png
+illustrations/pages/14987.png
+illustrations/pages/14988.png
+illustrations/pages/14989.png
+illustrations/pages/14990.png
+illustrations/pages/14991.png
+illustrations/pages/14992.png
+
+translations:
+
+Dhopadhola (Translation)	Nyathi ma nyakare	id=19993
+English (Original)	Donkey Child	id=15028
+English (Adaptation)	Strange Baby	id=15033
+isiZulu (Translation)	Umntwana ongajwayelekile	id=20006
+Kiswahili (Translation)	Mtoto Punda	id=15865
+Ng’aturkana (Translation)	Ikoku Sikiria	id=15574

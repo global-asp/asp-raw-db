@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=8446&d=0&a=1
+id:	8446
+title:	Edit Noi
+author:	Dennis Lokitare
+artist:	Sandy Lightly
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8446.png
+desc:	Edisiak ng’iworui a Lebo noi anikeng. Nyonte epedori ng’esi asubakinia kesi?
+
+page_text:
+
+P1	"Ito," anyara Lebo. "Bua king'olik. Edisiak ng'iworui lu noi anikang!" "Kimiekinae eng'olik," tolim ito.
+P2	"King'olik eworu kang lonapan anabor. Edit noi," tolim Lebo. "Kong'ina,  ikoni neni," tolim ito. "Epedori Nomsa akinap eworu kon lonapat anabor."
+P3	"King'olik ng'iworui kang lukanikan. Edisiak nabo daang," tolim Lebo. "Kong'ina,  Ikote daang neni," tolim ito. "Epedori Nomsa akinap ng'iworui kon lukanikak."
+P4	"King'olik eworu kang lonapat alorarum. Edit nabo noi," tolim Lebo. "Kong'ina,  ikoni neni," tolim ito. "Epedori Nomsa akinap eworu kon lonapat alorarum."
+P5	"King'olik ewoeu kang lo a ng'agiran. Edit nabo noi," tolim Lebo. "Kong'ina,  ikoni neni," tolim ito. "Epedori Nomsa akinap eworu kon lo a ng'agiran."
+P6	"King'olik ewoeu kang lonapat anakiru. Edit nabo noi," tolim Lebo. "Kong'ina,  ikoni neni," tolim ito. "Epedori Nomsa akinap eworu kon lonapat anakiru."
+P7	"King'olik ng'apokoi kang. Edisiak nabo noi," tolim Lebo. "Kong'ina,  ikote neni," tolim ito. "Epedori Nomsa akinap ng'apokoi."
+P8	"King'olik ng'amuk kang. Edisiak nabo noi," tolim Lebo. "Kong'ina,  ikote neni," tolim ito. "Epedori Nomsa akinap ng'amuk kon."
+P9	"Tokona iyakar iyong ng'iworui lukaalak," tolim Lebo. "Mere kong'ina,  amakar ayong," tolim Nomsa,  "Epolok ng'iworui lu daang anikang!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te Klein	id=11428
+English (Original)	Too Small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani Khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane Izimpahla Zami	id=2504
+Kiswahili (Translation)	Ndogo Sana, Kubwa Sana	id=7877
+Luganda (Translation)	Ntono Nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Bibombi Naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Maa (Translation)	Éíkití Olêng	id=7879
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ga Di Ntekane	id=2509
+Sesotho (Lesotho) (Translation)	Ha Li Ntekane	id=2512

@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=2874&d=0&a=1
+id:	2874
+title:	Ameka?
+author:	Isaac Kagoda
+artist:	Sandra McDougall
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2874.png
+desc:	Olugero luno lubuuza obungi bwe ebitundu byo omubiri ebili ku biwuuka
+
+page_text:
+
+P1	Ebisendamazi ebibiri biba na magulu ameka?
+P2	Ebinonhi ebina biba na maghagha ameka?
+P3	Enkula eisatu dhiba na mayiga ameka?
+P4	Endhovu eitanu dhiba na makono ameka?
+P5	Embwa omusanvu dhiba na matu ameka?
+P6	Enkembo eisatu dhiba na mikira emeka?
+P7	Kapa omukaaga dhiba na maiso ameka?
+P8	Eigongolo eirala liba na magulu ameka?
+
+images:
+
+illustrations/pages/1786.png
+illustrations/pages/1600.png
+illustrations/pages/1599.png
+illustrations/pages/1601.png
+illustrations/pages/1602.png
+illustrations/pages/1603.png
+illustrations/pages/1604.png
+illustrations/pages/1605.png
+illustrations/pages/1606.png
+
+translations:
+
+Amharic (Translation)	ስንት?	id=13123
+Aringati (Translation)	Kí Sị́ Yã?	id=7229
+Ateso (Translation)	Imwasi Ayi?	id=2870
+Dhopadhola (Translation)	Adi?	id=19488
+English (Original)	How Many?	id=1787
+Kikamba (Translation)	Syianaata?	id=2871
+Kiswahili (Translation)	Ni Ngapi?	id=9529
+Luganda (Translation)	Bimeka?	id=2872
+Lugbarati (Translation)	Yii Siya	id=12640
+Lumasaaba (Translation)	Biba Byeenga?	id=2873
+Sabinyi (Translation)	Ata?	id=2875
+Setswana (Translation)	Tse Kae?	id=2876

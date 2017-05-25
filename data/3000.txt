@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=3000&d=0&a=1
+id:	3000
+title:	Langi Wa Ilaa Ya Muuti
+author:	Stephen Musyoka
+artist:	Sue Kramer
+lang:	Kikamba
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3000.png
+desc:	Sentences attached to  photographs of yellow everyday objects (eg flowers
+
+page_text:
+
+P1	Kimbalutwa kya ilaa ya muti kithangathini.
+P2	Ngoma ya ilaa ya muuti nthini wa nyumba.
+P3	Mbalasi ya ilaa ya muuti leluni.
+P4	Iloli ya ilaa ya muuti nthini wa tauni nene.
+P5	Mbakuli ya ilaa ya muuti muthangani.
+P6	Malaa ma ilaa ya muuti nthini wan doo.
+P7	Kaindo ka ukua miio ka ilaa ya muuti leluni.
+P8	Kitiuko kya ilaa ya muuti nthini wa kundu kwa uthumua.
+P9	Nyumba ya ilaa ya muuti konani.
+P10	Avilika ya ilaa ya muuti mutweni wakwa.
+P11	Na ithonze tutua va? Nthini wa Avilika.
+
+images:
+
+illustrations/pages/934.png
+illustrations/pages/935.png
+illustrations/pages/936.png
+illustrations/pages/937.png
+illustrations/pages/938.png
+illustrations/pages/939.png
+illustrations/pages/940.png
+illustrations/pages/941.png
+illustrations/pages/942.png
+illustrations/pages/943.png
+illustrations/pages/1259.png
+illustrations/pages/945.png
+
+translations:
+
+English (Original)	Yellow	id=1258
+isiXhosa (Translation)	Umbala Omthubi	id=2350
+Lugbarati (Translation)	A’Ugbe A’Ugbea	id=12646
+Lunyole (Translation)	Yellow	id=9347
+Maa (Translation)	Éísikítoi	id=3001
+Ng’aturkana (Translation)	Anyang’Aanut	id=2351
+Oluwanga (Translation)	Eshiengu	id=2352

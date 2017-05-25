@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=11740&d=0&a=1
+id:	11740
+title:	Oraŋŋa Tye a Yabërë
+author:	Ogena Scovia
+artist:	Mlungisi Dlamini
+lang:	Leblango
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11740.png
+desc:	Plant a bean seed and see what happens when you water and look after it.
+
+page_text:
+
+P1	Lwïtë cakö döŋö.
+P2	Lwïtë döŋö dök pïŋ i të lobo.
+P3	Ëka tyënë të döŋö. Pote döŋö malo tuŋceŋ.
+P4	Pote më acël donynyo öökö.
+P5	Koti oraŋŋa döŋö a bor.
+P6	Ëka të turu. Atura oraŋŋa lökërë dökö kom oraŋŋa.
+P7	Nyig oraŋŋa bedo a pol i pala mërë.
+
+images:
+
+illustrations/pages/1824.png
+illustrations/pages/1826.png
+illustrations/pages/1827.png
+illustrations/pages/1828.png
+illustrations/pages/1829.png
+illustrations/pages/1824.png
+illustrations/pages/1832.png
+illustrations/pages/1833.png
+
+translations:
+
+Afrikaans (Translation)	'n Boontjiesaad	id=11127
+Afrikaans (Translation)	Hoe Groei 'n Boontjie ?	id=11129
+Aringati (Translation)	Mãrágĩ Drí Ángápí Ángárĩ	id=9275
+English (Original)	The Sprouting Bean	id=2257
+English (Adaptation)	Germinating Seed	id=13205
+French (Translation)	Le Haricot Qui Germe	id=12700
+Kakwa (Translation)	Teyikota Lo Pupuu Ilo	id=9055
+Kikamba (Translation)	Mboso Ikumea	id=2403
+Kiswahili (Translation)	Maharagwe Yanayomea	id=2405
+Luganda (Translation)	Ekijanjaalo Ekimera	id=2406
+Lugbarati (Translation)	Kaiko Engapi Enga Ri	id=2980
+Lugbarati (Official) (Translation)	Kaíkó Engápɨ Engárɨ̀	id=8766
+Maa (Translation)	Embúlúnotó É Empóóshóí	id=2414
+Ng’aturkana (Translation)	Emarage Lokajupunan	id=2411
+Oluwanga (Translation)	Linakanda Lisebushe	id=2412
+Setswana (Translation)	Nawa E E Thunyang	id=2413

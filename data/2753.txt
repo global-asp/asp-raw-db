@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=2753&d=0&a=1
+id:	2753
+title:	Mwami Nsowera Ne Mwami Bontwe
+author:	Rebecca Kuteesa
+artist:	Joshua Waswa
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2753.png
+desc:	Mr Fly and Mr Big Head were friends. Then one day they argued about who could cross the river. Things did not end well.
+
+page_text:
+
+P1	Ono ye Mwami Nsowera.
+P2	Ono ye Mwami Bontwe.
+P3	Mw. Bontwe ne Mw. Nsowera baali ba mikwaano nnyo. Olumu bagenda okutambulako bombi.
+P4	Bweb'atuuka ku lubalama lw'omugga,  ne batandika okukaayana bokka na bokka nti,  "Tosobola kubuuka mugga guno!" "Nsobola! Yegwe atasobola!"
+P5	Mw. Nsowera n'amugamba nti,  "Kale buuka!" Ko Mw. Bontwe nti,  "Nedda,  gw'oba osooka okubuuka."  Awo Mw. Nsowera n'abuuka omugga.
+P6	Ye Mw. Bontwe bwe yabuuka yagwa bugwi mu mugga. Era,  olw'obunene bw'omutwe gwe; yatandika okubira mu mugga.
+P7	Ye Mw. Bontwe bwe yabuuka yagwa bugwi mu mugga. Era,  olw'obunene bw'omutwe gwe; yatandika okubira mu mugga.
+P8	Mw. Nsowera n'asekka nnyo nti,  "Ha ha haaaaa!" Yasekka nnyo era okukakana nga omumwa gwe guyulis'emu bibiri okuva kuluda olumu paka ku lulala!
+
+images:
+
+illustrations/pages/2419.png
+illustrations/pages/2416.png
+illustrations/pages/2417.png
+illustrations/pages/2418.png
+illustrations/pages/2420.png
+illustrations/pages/2421.png
+illustrations/pages/2422.png
+illustrations/pages/2423.png
+illustrations/pages/2423.png
+
+translations:
+
+Aringati (Translation)	Ãmbógó Ụ́nụ́ Kí Ãmbógó Drị̃kụ̃lụ̃ Be	id=9276
+English (Original)	Mr Fly and Mr Big Head	id=2446
+Kakwa (Translation)	Amonye Kaduŋati Seku Amonye Lokuwe	id=9277
+Kikamba (Translation)	Ngi Na Mũtwe Mũnene	id=3171
+Lugbarati (Translation)	Onyukunyu Pi Drikulu Be	id=2604
+Lugbarati (Official) (Translation)	Onyúkunyú Pi Drìkùlù Be	id=8793
+Lumasaaba (Translation)	Umukoosi Wasame Ni Umukoosi Wakurwe	id=3174
+Lunyole (Translation)	Wasoŋera Ni Hirimutwe	id=3173
+Maa (Translation)	Olojong'áni Ó Elúkúnyá Sápuk	id=2783
+Ng’aturkana (Translation)	Echut Ka Akulului	id=3170
+Oluwanga (Translation)	Mwami Isi Nende Mwami Wokurwe Kukhoongo	id=3172

@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=19919&d=0&a=1
+id:	19919
+title:	عدد القطط
+author:	المفكرون الصغار
+artist:	Jesse Breytenbach
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19919.png
+desc:	قصة عن العد
+
+page_text:
+
+P1	كم قطة يوجد؟ لا يوجد قطط
+P2	كم قطة يوجد؟ قطة واحدة
+P3	كم قطة يوجد؟ قطتان
+P4	كم قطة يوجد؟ ثلاث قطط
+P5	كم قطة يوجد؟ أربعة قطط
+P6	كم قطة يوجد؟ خمسة قطط
+P7	كم قطة يوجد؟ ستة قطط
+P8	كم قطة يوجد؟ سبعة قطط
+P9	كم قطة يوجد؟ ثمانية قطط
+P10	ما هذا على غصن الشجرة؟ إنها قطة صغيرة. "ٍأساعدك!"
+P11	"أمي، هل نستطيع الاحتفاظ به؟ أرجوك واحد آخر" كم قطة أصبح لدينا؟ تسع قطط.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Amharic (Translation)	ድመቶችን እንቁጠር	id=13124
+English (Adaptation)	Counting Cats	id=12693
+isiXhosa (Translation)	Bala Iikati	id=15023
+Lunyole (Translation)	Ohubala Epuusi	id=13559
+Portuguese (Translation)	Contar Gatos	id=16196
+Tunisian (Translation)	Ħisbèn Il-Qŧàŧis	id=15384

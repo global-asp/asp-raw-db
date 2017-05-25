@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=9298&d=0&a=1
+id:	9298
+title:	Tingi Ni Ti Homu
+author:	Rafael Ernesto Samuel
+artist:	Ingrid Schechter
+lang:	Xitswa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9298.png
+desc:	Grandmother saves Tingis life.
+
+page_text:
+
+P1	Tingi a wa tsama ni kokwani wakwe.
+P2	Yena a wa hlayisa a ti homu zin'wi na kokwani.
+P3	A siku gu kari,  ku tili a va ka maxanga.
+P4	Vona va tekili a ti homu va famba.
+P5	Tingi zin'wi ni kokwani wakwe va tsutsumili va ya fihlala.
+P6	Vona va fihlalile lomu khwatini kala gi phuma.
+P7	A nzaku ka lezvo,  a va ka maxanga va wuyili kambi.
+P8	Tingi a fihliwilwe lomu ka matluka hi kokwani wakwe.
+P9	A mun'wi wa va ka maxanga a kanzihelili tingi,  kanilezvi yena anga ketangi.
+P10	A kama wo ngana na ku rulili,  tingi ni kokwani wakwe va humili laha ku basa.
+P11	Vona va xiyamelili va ya kaya.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi and the Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921

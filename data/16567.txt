@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=16567&d=0&a=1
+id:	16567
+title:	Eu Gosto De Fazer
+author:	Translators without Borders and Marcella Selwyn
+artist:	Wiehan de Jager
+lang:	Portuguese
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16567.png
+desc:	Frases curtas e simples sobre coisas que uma criança gosta de fazer. (Uma versão simples da 
+
+page_text:
+
+P1	Gosto de pular corda com meu amigo.
+P2	Gosto de escrever letras na lousa.
+P3	Gosto de ler livros com imagens.
+P4	Gosto de comer fruta diferente.
+P5	Gosto de ajudar em casa.
+P6	Gosto de ouvir histórias da minha mãe.
+P7	Gosto de dormir em uma cama grande.
+P8	Eu gosto de fazer essas coisas. O que você gosta de fazer?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+isiXhosa (Translation)	Ndiyakonwabela Ukwenza Izinto	id=17571
+isiZulu (Adaptation)	Engijabulela Ukukwenza	id=19595
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18001
+Setswana (Translation)	Ke Rata Go Dira Se	id=17652
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18318

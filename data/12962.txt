@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=12962&d=0&a=1
+id:	12962
+title:	አዲሴ- የእግር ኳስ ኮከቧ
+author:	ዳዊት ግርማ and መዘምር ግርማ
+artist:	Eden Daniels
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12962.png
+desc:	እግርኳስ ለወንዶች ብቻ ነው ተብላ በአሰልጣኙ የተከለከለችው አዲሴ የምታደርገውን አንብቡ፡፡
+
+page_text:
+
+P1	አዲሴ ወንዶች ልጆች ኳስ ሲጫወቱ እየተመለከተች ነው፡፡ ከልጆቹ ጋር ተቀላቅላ መጫወት ፈለገች፡፡
+P2	አሰልጣኙ እጆቹን ወገቡ ላይ አደረገ፡፡ ''በዚህ ት/ቤት ወንድ ልጆች ብቻ ናቸው እንዲጫወቱ የተፈቀደላቸው'' አለ፡፡
+P3	ልጆቹ ሄዳ እጅ ኳስ እንድትጫወት ነገሯት፡፡ እነሱም ለሴት እጅ ኳስ እንደሆነ፤ እግር ኳስ ግን ለወንድ ልጆች እንደሆነ ነገሯት፡፡ አዲሴ ተናደደች፡፡
+P4	በሚቀጥለው ቀን ትምህርት ታላቅ የአግር ኳስ ግጥሚያ ነበረበት፡፡ አሰልጣኙ በጣም ተጨንቋል፡፡
+P5	አዲሴ ወደ አሰልጣኙ እየሮጠች ሄዳ እንድትጫወት እንዲፈቅድላት ለመነችው፡፡ አሰልጣኙ ምን ማድረግ እንዳለበት ግራ ገባው፡፡ ከዚያም አዲሴ ቡድኑን እንድትቀላቀል ፈቀደላት፡፡
+P6	ጨዋታው በጣም ፈታኝ ነበር፡፡ በመጀመሪያው ግማሽ የጨዋታው ክፍለ ጊዜ ማንም ጎል ሊያስቆጥር አልቻለም፡፡
+P7	በሁለተኛው አጋማሽ የጨዋታው ጊዜ ከልጆቹ መካከል አንዱ ኳስ ለአዲሴ አቀበላት፡፡ ኳሱን በፍጥነት ወደ ጎል እያንከባለለች ሄደች፡፡ ከዚያም ኳሱን በኃይል አክርራ መታችውና ጎል አስቆተረች፡፡
+P8	ተመልካቹ በደስታ አበደ፡፡ ከዚያ ቀን ጀምሮ ሴቶችም በትምህርት ቤቱ  ኳስ እንዲጫወቱ ተፈቀደላቸው፡፡
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/4460.png
+illustrations/pages/4461.png
+illustrations/pages/4462.png
+illustrations/pages/4463.png
+illustrations/pages/4464.png
+illustrations/pages/4465.png
+illustrations/pages/4466.png
+illustrations/pages/4467.png
+
+translations:
+
+English (Original)	Andiswa Soccer Star	id=5283
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=16757
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Tigrigna (Translation)	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ	id=18977
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

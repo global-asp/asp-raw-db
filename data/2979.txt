@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=2979&d=0&a=1
+id:	2979
+title:	Diaparo Tsa Sekolo
+author:	Lorato Trok
+artist:	Mlungisi Dlamini
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2979.png
+desc:	Ke nako ya go boela sekolong. Ke leka diaparo tsa ka tsa sekolo go bona gore di sa ntekana.
+
+page_text:
+
+P1	Mosese o o motelele.
+P2	Jeresi e e kgolo.
+P3	Kgetsana e e kgolo.
+P4	Lebanta le.
+P5	Hutshe e ennye.
+P6	Dikauso di dikhutshwane.
+P7	Mme fela ditlhako tse di dintšhwa.
+P8	Di ntekana sentle.
+
+images:
+
+illustrations/pages/954.png
+illustrations/pages/955.png
+illustrations/pages/956.png
+illustrations/pages/957.png
+illustrations/pages/958.png
+illustrations/pages/959.png
+illustrations/pages/960.png
+illustrations/pages/961.png
+illustrations/pages/954.png
+
+translations:
+
+Anywak (Translation)	Abïïk Øt-Göör	id=12633
+Aringati (Translation)	Ujaku Ꞌbã Bõngó Sụ̃kụ́lụ̃ Drị̂ Kî	id=7526
+English (Original)	School Clothes	id=1794
+Kikamba (Translation)	Ngua Sya Sukulu	id=2973
+Kiswahili (Translation)	Sare Za Shule	id=2974
+Lugbarati (Translation)	Bongo Sukulu Ni Diyi	id=12641
+Lunyole (Translation)	Engoye J’Esomero	id=2975
+Lusoga (Translation)	Byambalo Bya Isomero	id=2976
+Maa (Translation)	Inkiláni E Sukúul	id=2972
+Ng’aturkana (Translation)	Ng’Iworui a Esukul	id=2977
+Oluwanga (Translation)	Tsingubo Tsiomwisomero	id=2978

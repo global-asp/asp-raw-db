@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=11142&d=0&a=1
+id:	11142
+title:	Day We Saw the Rainbow
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11142.png
+desc:	A boy is out in the fields and sees a rainbow for the first time. He doesn’t know what the rainbow is..
+
+page_text:
+
+P1	My name is Kobole.   I live in a small village.
+P2	I was out picking fruits when I saw something I had never seen before.
+P3	There were colourful lines in the sky.
+P4	I dropped all the fruit and ran to tell people at home.
+P5	People were standing outside surprised.
+P6	I said happily,  "It is a beautiful sheet hanging from the sky." "No! I think someone is pouring paint from the sky." Neno said.
+P7	Some people agreed with me. Others thought Neno was right. We began to argue.
+P8	A man from a faraway village said,  "You are all wrong."
+P9	We shouted,  "Tell us what it is if we are wrong."
+P10	The stranger said,  "It is the rainbow. Have you never seen the rainbow before?"
+P11	We asked the stranger,  "What is a r-a-i-n-b-o-w?"
+P12	Neno asked,  "Is it ours? Can we keep it here?" We never got answers to our questions because the man had left.
+
+images:
+
+illustrations/pages/10970.png
+illustrations/pages/10965.png
+illustrations/pages/10966.png
+illustrations/pages/10967.png
+illustrations/pages/10969.png
+illustrations/pages/10970.png
+illustrations/pages/10971.png
+illustrations/pages/10973.png
+illustrations/pages/10975.png
+illustrations/pages/10976.png
+illustrations/pages/10977.png
+illustrations/pages/10979.png
+illustrations/pages/10980.png
+
+translations:
+
+French (Translation)	Un Arc-En-Ciel De Passage Au Village	id=13774
+Kiswahili (Original)	Siku Tuliyouona Upinde	id=11139
+Portuguese (Translation)	O Arco-Íris Visita a Aldeia	id=18857

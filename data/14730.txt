@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=14730&d=0&a=1
+id:	14730
+title:	Muthogomeli
+author:	Yvonne Mulovhedzi
+artist:	Magriet Brink
+lang:	Tshivenda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14730.png
+desc:	Nganea i no amba nga phuka thukhu dzo thusiwaho dzi tshi swika vhuthogomeloni ha zwisiwana. Phukha thukhu hedzi dzi thogomelwa nga muthu o khetheaho na vhathu vhawe.
+
+page_text:
+
+P1	Ndi nganeai ya muthogomeli na fhethu hu no dzula zwisiwana zwa zwipuka.
+P2	Nwedzi wo fhiraho ho vha hu tshi khou shumesiwa afha fhethu. Nomsa a re na nwaha muthihi o vha ene wa u thoma u swika.O vha o onda a songo takala.
+P3	Fhedzi hu si kale Nomsa a khwathelela. A thoma u tamba na dzinwe phukha.
+P4	Nga duvha li tevhelaho nwedzi wonoyo,  bufho la kavha fhethu hanefho ha u thogomela zwisiwana.
+P5	Nga ngomu ha bufho ho vha hu na ndou thukhu yo kuvhatedzwa nga nguvho khulwane.
+P6	Ndiwa o vha a kha nguvho. O vha ana maduvha matanu. Muthogomeli o mamisa Ndiwa nga bodelo.
+P7	Vhunwe vhusiku vhathu vhothe vho mbo di vusiwa nga u swika ha Ambia.
+P8	Ambia o vha ana minwedzi mitanu. O vha o neta murahu ha lwendo lulapfu.
+P9	Nga mulandu wa mukulo mulapfu muthogomeli u isela bodelo ntha u mamisa Ambia.
+P10	Zwisiwana zwa u fhedzisela uswika nwedzi wonowo ho vha hu zwidawana zwo fariwaho nga ndala Kopi,  Kepi,  na Keji.
+P11	Muthogomeli na vhathusi vhawe vho vha tshi funa phukha dzothe na dzi sa pfiho.
+P12	Vhathu vha hafha fhethu vho vha tshi shuma nga maanda. Vha takalela uri linwe duvha zwisiwana zwi do di thogomela nga zwone zwine. Nga murahu phukha dzi do humela dakani.
+
+images:
+
+illustrations/pages/12997.png
+illustrations/pages/12979.png
+illustrations/pages/12982.png
+illustrations/pages/12983.png
+illustrations/pages/12984.png
+illustrations/pages/12985.png
+illustrations/pages/12986.png
+illustrations/pages/12989.png
+illustrations/pages/12990.png
+illustrations/pages/12991.png
+illustrations/pages/12997.png
+illustrations/pages/12995.png
+illustrations/pages/12998.png
+
+translations:
+
+ChiTonga (Translation)	Mubambi Wabanyama Abusena Bwatunyama Twakafidwa Bazyali	id=18639
+CiNyanja (Translation)	Osunga Nyama Pamalo Posungila Nyama Zing’Ono	id=18627
+Dhopadhola (Translation)	Jakur Gi Kakuro Nythindho Manyakare	id=15762
+IciBemba (Translation)	Uusakamana Inama Neencende Yakwe Iyaibeela	id=18584
+isiXhosa (Translation)	Umgcini Nekhaya Leenkedama	id=14123
+isiZulu (Translation)	Umgcini Nesikhungo Esikhethekile	id=14087
+isiZulu (Adaptation)	Ikhaya Lezilwane Elikhethekile	id=17338
+Portuguese (Translation)	Keeper E Sua Creche Especial	id=16713
+Sepedi (Translation)	Mothuši Le Lefelo La Gagwe La Go Ikgetha La Go Hlokomela	id=18002
+Sesotho (S.Africa) (Translation)	Mohlokomedi Wa Diphoofolo Le Sebaka Sa Hae Se Ikgethang	id=14442
+Setswana (Translation)	Motlhokomedi Le Serapa Sa Gagwe Se Se Kgethegileng	id=13974
+SiLozi (Translation)	Mubabaleli Ni Sibaka Sa Ndiyala Za Lifolofolo	id=18566
+Xitsonga (Translation)	Muhlayisi Na Vuhlayiselo Byo Hlawuleka	id=14521

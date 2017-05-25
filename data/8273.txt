@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=8273&d=0&a=1
+id:	8273
+title:	Omukeeka Gwa Nakaayi Ogwenjawulo
+author:	Joseph M. Katabaro
+artist:	Catherine Groenewald
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8273.png
+desc:	Omuwala omuto eyewunyisa yakula n’omukeeka ogwenjawulo. Omukeeka gwa Nakaayi gwa mukuuma nga eri obulabe bwona
+
+page_text:
+
+P1	Nakaayi nga akyali muwala muto,  Maama we yamwebasanga ku mukeeka omulungi ennyo. Ssenga wa Nakaayi ye yali yaluka omukeeka guno ogwenjawulo okuva mu nsansa.
+P2	Omukeeka gono gwalimu langi ezenjawulo nga bululu,  kiragara ne kakobe. Gwali mwawufu nnyo ku mikeeka gyona egyali mu nsisira ya Maama wa Nakaayi.
+P3	Obutonde bw'ettaka eryari lyetoolodde Nakaayi gyejabeeranga lyari kalu,  nga lyokya era nga lijudde amayinja. Waliyo enjaba ez'obusagwa,  nabbubi n'emisota mubuungi ddala. Naye Nakaayi teyaberanga nabulabe obw'okulumibwa ebitonde ebyo byona ebyobulabe.
+P4	Maama yamugamba nti omukeeka gwe guno ogwenjawulo; gw'ali gumukuuma eri obulabe bwonna.
+P5	Nakaayi yali mwana mugezi,  era yazuula ewali oluzzi olwokumpi ate nga si luwanvu.
+P6	Era nayiga n'ensisira ya Jajja we omukyala weyali. Yagendangayo okunywa amata g'engamiya ne Jajja we.
+P7	Olumu Nakaayi teyali wa mukisa nnyo. Bwe yali agenda ewa Jjaja we teyatuuka. Yabulira mu nsozi. Era Nakaayi yatya nnyo.
+P8	Yatuula wansi w'omuti nga bw'alinda obuyambi. Oluvannyuma otulo twamutwala era nafuna ekirooto.
+P9	Ekirooto kyali bwekiti: Yali yebase ku mukeeka gwe guno ogwenjawulo. Omukyala eyali eyefananyiriza nga Jajja we omukyala yali amutunuulide ngabwamukuuma. Era omukyala ona yamwenya n'amuwa ebbakuli ennene nga erimu amata g'engamiya. Nakaayi bwegezaako okutwala amata gano,  nasisimuka mukirooto.
+P10	Nakaayi n'azibula amasoge mpola mpola; era bweyatunula waggulu; n'alaba kanyonnyi akabululu nga kayimiridde ku tabi ly'omuti.
+P11	Nakaayi bweyasituka,  akanyonnyi nekakuba ebiwawatiro byako ere nekabuuka nekatandika okumulaga ekkubo. Nakaayi naye nakagoberera.
+P12	Nakaayi bwe yatuuka mukifo nga ekubo ly'awukana mu njuyi biri; akanyonnyi kasuula akatundu k'omukeeka akaali ekefananyiriza omukeeka gwe.
+P13	Bweyakutama okugyawo omukeeka; Nakaayi yalaba ebigere ebyasigala mu kubo era bwatyo nakimanya nti byali bya Maama we. Mubwangu ddala,  yalaba oluzzi omutono webaakimanga amazzi.
+P14	Abenŋanda za Nakaayi bayimba ne bazina nga bamwaniriza ewaka. Era basala embuzi,  n'ebokya ennyama ne bajaguza olw'okudda kw'omwana wabwe obulungi.
+P15	Nakaayi yatuula ku mukeeka gwe ogwenjawulo nawoomerwa ekifi ekinene kye nnyama enjokye.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5997.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6002.png
+illustrations/pages/6003.png
+illustrations/pages/6004.png
+illustrations/pages/6005.png
+illustrations/pages/6006.png
+illustrations/pages/6007.png
+
+translations:
+
+English (Original)	Akai's Special Mat	id=6008
+French (Translation)	La Natte Spéciale D’Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kiswahili (Translation)	Mkeka Wa Akai	id=7860
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Nkaayi Noomukeeka Omulobole	id=7893
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+siSwati (Translation)	Imadi Yathembi Lebalulekile	id=13073
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

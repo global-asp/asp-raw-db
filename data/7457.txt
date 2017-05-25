@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=7457&d=0&a=1
+id:	7457
+title:	Abaana Baagala Okuzannya
+author:	Annet Ssebaggala
+artist:	Wiehan de Jager, Sue Kramer, Catherine Groenewald, Mlungisi Dlamini, Angie & Upesh, Eden Daniels and Felicity Bell
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7457.png
+desc:	Abaana banyumirwa nnyo okuzanya emizannyo egyenjawulo okusinziira ku myaaka gyaabwe.Soma olugero luno ozuule ebikunyumira ne mikwaano gyo.
+
+page_text:
+
+P1	Abaana baagala ebyokuzanyisa.
+P2	Nze njagala nnyo okubuuka omuguwa no`okwesuuba.
+P3	Abalenzi abamu basamba omupiira.
+P4	Sam ayagala okudduka.
+P5	Abawaala abamu babaka omupiira.
+P6	Elsie ayagala okubuuka nga ekikere.
+P7	Abawala bazanyisa amazzi.
+P8	Nelly ayagala nnyo Gogolo.
+P9	Abaana baagala nnyo okuzannya emizannyo gye mbaga.
+P10	Keisha ne Dona baagala okuzanyisa ddole.
+P11	Ate ggwe onyumirwa kuzanyisa ki?
+P12	Jane ayagala nnyo okuzanya Jangu onkwekule.
+
+images:
+
+illustrations/pages/6099.png
+illustrations/pages/2027.png
+illustrations/pages/1627.png
+illustrations/pages/4465.png
+illustrations/pages/1623.png
+illustrations/pages/4467.png
+illustrations/pages/1624.png
+illustrations/pages/1421.png
+illustrations/pages/942.png
+illustrations/pages/6516.png
+illustrations/pages/1768.png
+illustrations/pages/1770.png
+illustrations/pages/1104.png
+
+translations:
+
+English (Original)	Children Like to Play	id=7259
+English (Adaptation)	Children  Enjoy  Playing.	id=13610
+Lunyole (Translation)	Abaana Benda Ohugudula	id=13609

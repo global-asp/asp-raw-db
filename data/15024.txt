@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=15024&d=0&a=1
+id:	15024
+title:	Utom, Umthengisi Webhanana
+author:	Nokuthula Bernelee Dyonase
+artist:	Zablon Alex Nguku
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15024.png
+desc:	A man goes against community norms and brings his bananas to sell at the market.
+
+page_text:
+
+P1	UTom uphethe ingobozi yeebhanana ezivuthiweyo.
+P2	UTom uya emarikeni uyothengisa iibhanana.
+P3	Abantu abasemarikeni bathenga iziqhamo.
+P4	Kodwa akukho mntu ozithengayo iibhanana zikaTom. Bakhetha ukuthenga iziqhamo ebafazini.
+P5	"Ekuhlaleni,  ngabafazi bodwa abathengisa iziqhamo," batsho abantu. "Yindoda enjani na le?" bayabuza abantu.
+P6	Kodwa uTom akancami. Uyakhwaza,  "Thengani iibhanana zam! Thengani iibhanana zam ezinencasa ezivuthiweyo!"
+P7	Omnye umfazi uthatha ipakethi yeebhanana engobozini. Ujonga iibhanana ngononophelo.
+P8	Lo mfazi uthenga iibhanana.
+P9	Abantu abaninzi beza esitendini. Bathenga iibhanana zikaTom bazitye.
+P10	Msinyane,   ingobozi ayinanto. UTom ubala imali ayenzileyo.
+P11	Aze uTom athenge isepha,  iswekile,  nesonka. Ufaka izinto engobozini yakhe.
+P12	UTom ungcekelela ingobozi entlokweni yakhe agoduke.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+English (Original)	Tom the Banana Seller	id=13627
+French (Translation)	Tom, Le Vendeur De Bananes	id=14530
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216
+siSwati (Translation)	Themba Umtsengisi Wabhanana	id=16440

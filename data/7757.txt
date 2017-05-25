@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=7757&d=0&a=1
+id:	7757
+title:	Gihulo Ni Ndzogo
+author:	Telvino Américo Manuel
+artist:	Reginaldo Vicente Manhice
+lang:	Gitonga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7757.png
+desc:	Rabbit invites his friend Monkey over to play
+
+page_text:
+
+P1	Adiri gikati gi mwegyo,  gihulo ni ndzogo vadiri dzipari. Li tsigu li mwedo,  gu diri tino ya ndzala,  gihulo gi di rana pariyaye gasi guya hagana.
+P2	Gihulo gi di kigyo: Hongole hi hagana ku gu pulana moyo ni moyo! Ndzogo yi di wudzisa: Hina gira karini?
+P3	Gihulo gi di haka kharati: Hongole hi gira nilu.
+P4	Hi handzega libota nyi mati.
+P5	Ku gu ngengela gihulo gi di kigyo: Nyi na bela gu phela,  gasi uwe una sega gifenengedzo. Nya gu gogota gifenengedzo,  una tula,  nyi duga.
+P6	Ku phela gi di bela gihulo mu libotane. Olu kuwe o beyago mu libotane,  gi kati manga phela gu vhisa mati.
+P7	Gihulo gi di gogota,  ndzogo yi di tula gifenengedzo,  gihulo gi di duga.
+P8	"Olu kuwe ubelago,  dzogo," gi ganede gihulo. Aholu gikati yi nga bela dzogo,  gihulo gi di sega ifenengedzo,  gi di handzega gi windi nya gi kongolo ku vbatsani.
+P9	Gikati mati manga phela gu vhila,  ndzogo yi di gogota aholu gihulo ka nga tula gifenengedzo.
+P10	Ku gu landela dzogo yi di fa! Ku mahegiso gihulo gi hodzide phariyaye!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/7740.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/7741.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/7742.png
+
+translations:
+
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The Cooking Game	id=6993
+English (Adaptation)	The Cooking Game - Colouring Book	id=17563
+isiXhosa (Translation)	Umdlalo Wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo Wokuphekana (Faka Imibala)	id=17564
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

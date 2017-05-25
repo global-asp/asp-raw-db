@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=10179&d=0&a=1
+id:	10179
+title:	The Rainbow
+author:	Jane Tsharane
+artist:	Benjamin Mitchley, Michael Nakuwa, Wiehan de Jager, Marleen Visser and Jesse Breytenbach
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10179.png
+desc:	A child talks of her rainbow house
+
+page_text:
+
+P1	I love the rainbow.
+P2	I love all the colours of the rainbow.
+P3	I wish I could have a rainbow house.
+P4	It could have a red roof.
+P5	It could have a blue windows.
+P6	I could have it painted yellow outside.
+P7	It could have violet walls inside.
+P8	It could have orange flowers.
+P9	It could have indigo bed.
+P10	It could have a green garden.
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/6260.png
+illustrations/pages/7961.png
+illustrations/pages/6239.png
+illustrations/pages/6260.png
+illustrations/pages/2483.png
+illustrations/pages/5673.png
+illustrations/pages/2550.png
+illustrations/pages/9847.png
+
+translations:
+

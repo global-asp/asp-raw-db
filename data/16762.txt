@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=16762&d=0&a=1
+id:	16762
+title:	Umba Na Bakere
+author:	Isaac Monday Elisama
+artist:	Vian Oelofsen
+lang:	Zande
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16762.png
+desc:	Read about things that can be small or big.
+
+page_text:
+
+P1	Umba kpakpari. Bakere kpakpari.
+P2	Umba abee. Bakere abee.
+P3	Umba meme. Bakere meme.
+P4	Tooni buku. Bakere buku.
+P5	Tooni mongo. Bakere mongo.
+P6	The end.
+
+images:
+
+illustrations/pages/3048.png
+illustrations/pages/3057.png
+illustrations/pages/3049.png
+illustrations/pages/3050.png
+illustrations/pages/3051.png
+illustrations/pages/3052.png
+illustrations/pages/3053.png
+illustrations/pages/3054.png
+illustrations/pages/3055.png
+illustrations/pages/3048.png
+illustrations/pages/3056.png
+illustrations/pages/3059.png
+
+translations:
+
+English (Original)	Little and Big	id=3060
+English (Adaptation)	Small and Big	id=13556
+Kiswahili (Translation)	Kubwa Na Ndogo	id=15939
+Lunyole (Translation)	Ehitono N'ehibbala	id=13555
+Maa (Translation)	Enkití Ó Esápuk	id=3090
+Ng’aturkana (Translation)	Niichi Ka Niapolon	id=3091
+Oluwanga (Translation)	Akhatiiti Nende Okukhoongo	id=3092
+Somali (Translation)	Waxyar Iyo Waxweeyn	id=17259
+Tunisian (Translation)	Ṡɍìr W Kbìr	id=15278

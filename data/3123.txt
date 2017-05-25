@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=3123&d=0&a=1
+id:	3123
+title:	Musumbi Wa Nyunyi
+author:	Stephen Musyoka
+artist:	Wiehan de Jager
+lang:	Kikamba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3123.png
+desc:	The birds want a king
+
+page_text:
+
+P1	Ivinda ya tene vyu,  nyunyi syaina ikomano. Nimendaa musumbi ota andu na nyamu sya kithekani. Ni isuni yiva itonya utwika musumbi?
+P2	"Ndiu ya makuyu e vinya na ailyi ta musumbi" Umwe woo asya,  "Aiyee,  nde kilauni na eetana wasya wake umaa nai",  Ungi asya,  "Aya,  Nyaa,  nikwithiwa ni muneeni,  akivaa ta munyambu." Ungi asya "Aiyee,  ndatonya kuuluka na musumbi wa nyunyi no nginya auluke."
+P3	"Nikwatya naile utwika musumbi." Tausi aneena aamitye nzau syake,  "nani mwanake muno." "Wi nzasu muno" Asya ndundu Khova. "Kwongela ndwi Mwavilika." "Ni metho manene vyu kukila nyunyi syonthe,  naile utwika musumbi." "Aiyee,  tiwe ndundu makayany'a. Ukomaa sua iyuma."
+P4	Na mayaiwana. Na umwe asya "ula utonya kuuluka iulu vyu niwe ukutwika musumbi." "Ii' ii,  makayanya na matuila muno matuni."
+P5	Mbata Musinga yauluka muthenya aumwe iulu wa syima Nkwanzi. Ndiu ya makuyu auluka avita matheo. Ateo ndiu yi mavandu yauluka matuku atatu ite kuungama yangie kula kwisua.
+P6	Ndiu yatumua inene "Ninye ni iulu vyu,  ni nyie musumbi."
+P7	Ateo aseng'ie muno kwiwa wasya iulu wake "Chrri,  Chirri,  Chirri."   Iulu wa mutwe vai kasuni kanini vyu,  Ncede kala ni Neddicky. Ka kwatilikite uthwau wa ndiu nene.   "Ticki,  Ticki,  Ticki," asungia. Ni wa vyu ninye musumbi!
+P8	Ndiu auluka aendete na iulu " Ninye ni iulu vyu ninye musumbi",  aneneena na wasya.
+P9	Chirri,  chirri,  chirri,  ninyie ni iulu ninye musumbi." Ncede aneena. Kai kaumalila kuma uungu wa ndiu."
+P10	Nyunyi ingi nisyonaa uu wonthe na sya thata. Nisyeethie itile uthwau ula keekwatilite ateo koona undu ithatite na kalika iimani ya nzoka.
+P11	Nyunyi ingi nisyonaa uu wonthe na sya thata. Nisyeethie itile uthwau ula keekwatilite ateo koona undu ithatite na kalika iimani ya nzoka.
+P12	"Ndundu no muvaka uketeele kaumaluke ukakwate" matavya Ndundu Khova athi ekala vakuvi na iima.
+P13	Ateo isua yavyuva na akoma mituki. Ncede akunikila na mituki "wii" aumaluka athi.
+P14	Ndundu eewie nthoni nundu wa kueka kasuni kau kavite. Nundu wa uu asyimaa na aikoma muthenya ndakoneke ni masuni aangi.
+
+images:
+
+illustrations/pages/306.png
+illustrations/pages/292.png
+illustrations/pages/295.png
+illustrations/pages/293.png
+illustrations/pages/294.png
+illustrations/pages/296.png
+illustrations/pages/297.png
+illustrations/pages/299.png
+illustrations/pages/300.png
+illustrations/pages/301.png
+illustrations/pages/302.png
+illustrations/pages/303.png
+illustrations/pages/305.png
+illustrations/pages/304.png
+illustrations/pages/307.png
+
+translations:
+
+Afrikaans (Translation)	Die Koning Van Die Voëls	id=10815
+Afrikaans (Translation)	Koning Van Die Voëls	id=20077
+Chinyanja (Translation)	Mfumu Ya Mbalame	id=15710
+ChiTonga (Translation)	Mwami Wabayuni	id=15709
+ChiTonga (Translation)	Mwami Wabayuni	id=18648
+CiNyanja (Translation)	Mfumu Yambalame	id=18667
+Dhopadhola (Translation)	Kere Pa Winyin	id=15763
+English (Original)	King of the Birds	id=920
+English (Adaptation)	The Clever Little Bird	id=5397
+French (Translation)	Le Roi Des Oiseaux	id=12680
+IciBemba (Translation)	Imfumu Yafyuuni	id=18687
+isiXhosa (Translation)	Uncede Inkosi Yeentaka	id=17575
+isiZulu (Translation)	Inkosi Yezinyoni	id=12645
+isiZulu (Adaptation)	Ungcede Inkosi Yezinyoni	id=13601
+Kiswahili (Translation)	Mfalme Wa Ndege	id=3116
+Lugbarati (Translation)	Opi Aria Yi Ni	id=3121
+Lugwere (Translation)	Kabaka We Nyonyi	id=16552
+Lumasaaba (Translation)	Umuyiinga We Binywiinywi	id=3117
+Lumasaaba (Translation)	Umuyiinga We Binywiinywi	id=8697
+Lunyole (Translation)	Habaha W’Enyuni	id=3119
+Maa (Translation)	Olkínkí Le Oó Imotónyi	id=7206
+Oluwanga (Translation)	Omwami Wa Amayoni	id=3120
+Portuguese (Translation)	Rei Das Aves	id=16660
+Sepedi (Translation)	Kgoši Ya Dinonyana	id=18160
+Sesotho (South Africa) (Translation)	Morena Wa Dinonyana	id=20036
+Setswana (Translation)	Kgosi Ya Dinonyane	id=15043
+SiLozi (Translation)	Mulena Walinyunywani	id=18730
+Tshivenda (Translation)	Khosi Ya Zwiṋoni	id=18183
+Xitsonga (Translation)	Hosinkulu Ya Swinyenyana	id=18871

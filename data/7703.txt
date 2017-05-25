@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=7703&d=0&a=1
+id:	7703
+title:	Asambe
+author:	Silindile Dube
+artist:	Thembinkosi Kohli
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7703.png
+desc:	Imisho ngokwazi kwangaphambilini mayelana nesikuzwayo
+
+page_text:
+
+P1	Ngekhala lami.
+P2	 Nginuka amasokisi angcolile.
+P3	 Nginuka izimbali ezinhle.
+P4	Ngamehlo ami.
+P5	 Ngibona ibhalunde lindizela emoyeni.
+P6	 Ngibona iKati elijabulile.
+P7	Ngolimi lwami.
+P8	 Nginambitha ulwandle olunosawoti.
+P9	 Nginambitha i - wolintshi elimnandi.
+P10	Ngesandla sami.
+P11	 Ngibamba isandla sakho.
+
+images:
+
+illustrations/pages/3015.png
+illustrations/pages/3016.png
+illustrations/pages/3017.png
+illustrations/pages/3018.png
+illustrations/pages/3019.png
+illustrations/pages/3020.png
+illustrations/pages/3021.png
+illustrations/pages/3022.png
+illustrations/pages/3022.png
+illustrations/pages/3024.png
+illustrations/pages/3025.png
+illustrations/pages/3026.png
+
+translations:
+
+Afaan Oromo (Translation)	Haa Deemnu!	id=12254
+English (Original)	Let's Go	id=3028
+English (Translation)	Iri Ma Koy	id=11734
+French (Translation)	Allons-Y!	id=9922
+Fulfulde (Translation)	En Njaha!	id=10001
+Hausa (Translation)	Mu Je !	id=9970
+Kanuri (Translation)	Leniwo	id=10030
+Lubukusu (Translation)	Khe Khuche!	id=3100
+Maa (Translation)	Máapé!	id=3098
+Ng’aturkana (Translation)	Kapana!	id=3099
+Olukhayo (Translation)	Kenda Khuche	id=3094
+Oluwanga (Translation)	Khutsie!	id=3102
+Somali (Translation)	Ina Wadiya	id=16761
+Zarma (Translation)	Iri Ma Koy!	id=10097
+Zarma (Translation)	Iri Ma Koy	id=11590

@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=13771&d=0&a=1
+id:	13771
+title:	Le Porridge
+author:	Patricia Roth and Translators without Borders
+artist:	Catherine Groenewald
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13771.png
+desc:	Maman est en déplacement et cest papa qui prépare le porridge ce matin.
+
+page_text:
+
+P1	Zama se prépare pour aller à l'école.
+P2	Papa prépare du porridge pour le petit déjeûner.
+P3	"C'est maman qui fait le meilleur porridge!" dit Zama.
+P4	Le porridge permet à Zama de faire le plein d'énergie avant d'aller à l'école.
+P5	Le porridge est prêt.
+P6	Papa verse le lait avec amour.
+P7	"Papa,  je pense qu'il n'y a pas assez de sucre dans ce porridge",  dit Zama.
+P8	"Le porridge de maman a meilleur goût que celui de papa",  pense Zama.
+P9	"Papa est-ce que je pourrais avoir plus de sucre s'il te plaît?"  demande Zama.
+P10	Papa donne plus de sucre à Zama.
+P11	"Berk! Papa! Tu as mis du sel dans mon porridge!"
+P12	"Dit papa,  quand est-ce qu'elle rentre maman?"  demande Zama.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+IciBemba (Translation)	Umusunga	id=18578
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Lunyole (Translation)	Obusera	id=13458
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=2402&d=0&a=1
+id:	2402
+title:	Abaseere Babiri Abayala
+author:	Gershom Hirome
+artist:	Bronwen Heath
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2402.png
+desc:	Oluŋayo luno lwa hwega hubala. Ben ni Tabo baleheraho nguhwa yaawe keeki jinga?
+
+page_text:
+
+P1	Benya ni Tabo nj'abaseere ababiri abayala.
+P2	Nguhwa yaabwe ali hunyiiya keeki. Ali hujita hu saani.
+P3	Benya abuguuye keeki ndala. Tabo niye abuguuye keeki ebiri.
+P4	Benya abuguuye keeki ene. Tabo niye abuguuye keeki ebiri.
+P5	Benya galya keeki jinga? Tabo galya keeki jinga? Nguhwa yaabwe bamuleheraŋo keeki jinga?
+
+images:
+
+illustrations/pages/1717.png
+illustrations/pages/1717.png
+illustrations/pages/1718.png
+illustrations/pages/1719.png
+illustrations/pages/1720.png
+illustrations/pages/1799.png
+
+translations:
+
+Aringati (Translation)	Ãbị́rị́ Ndẽ Anzị Ị̃rị̃ Kí Rá	id=7528
+Ateso (Translation)	Isap Iyarei Lu Eyarit Etengei	id=2999
+English (Original)	Two Hungry Boys	id=1800
+Lubukusu (Translation)	Basoleli Babili Be Njala	id=2399
+Luganda (Translation)	Abalenzi Ababiri Abayala	id=2400
+Lugbarati (Translation)	Anzi Iri Abiri Ni Nde Ra `diyi	id=2719
+Lugbarati (Official) (Translation)	Anzɨ Ìrì Àbírí Nɨ́ Fulé Káyɨ̀ 'dɨ̀yɨ	id=8800
+Lumasaaba (Translation)	Basooleli Babili Be Ntsala	id=2401

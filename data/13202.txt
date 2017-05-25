@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=13202&d=0&a=1
+id:	13202
+title:	Listen to my Body
+author:	Noni
+artist:	Angie & Upesh
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13202.png
+desc:	Have you ever listened to what your body tells you?
+
+page_text:
+
+P1	Today I am not going to school. It is a holiday!
+P2	Today I am not going to watch TV. There is no electricity anyway.
+P3	What am I going to do? Today I am going to listen to my body!
+P4	First,  I have to be very quiet.  So that I can listen to my own body.
+P5	Yes,  now I can hear my breath. I breathe in and out,  in and out.
+P6	And I can make my breath noisier. Sssssssssssss! And softer. Mmmmmmm.
+P7	Now I can hear my heart beating! Doodom,  doodoom,  dooo dooom.
+P8	Can I make my heart go faster or louder? Yes,  by jumping up and down twenty times.
+P9	Now see,  my heart is beating faster.
+P10	If I put my fingers on my wrist,  then I can feel my pulse!
+P11	I can hear myself laughing. Haha,  haha,  haaah,  haaa!
+P12	I can hear myself crying. Boohoooo hooo!
+P13	I can hear myself clapping. Clap,  clap,  clap.
+P14	I can hear my stomach rumbling! Guddu,  guddu,  guddu.
+P15	My stomach is saying,  "Feed me!"
+P16	My nose can smell cakes baking in mother's kitchen. And now I want to hear my jaws chewing those cakes!
+
+images:
+
+illustrations/pages/2008.png
+illustrations/pages/2009.png
+illustrations/pages/2010.png
+illustrations/pages/2011.png
+illustrations/pages/2012.png
+illustrations/pages/2013.png
+illustrations/pages/2014.png
+illustrations/pages/2016.png
+illustrations/pages/2017.png
+illustrations/pages/2018.png
+illustrations/pages/2019.png
+illustrations/pages/2020.png
+illustrations/pages/2021.png
+illustrations/pages/2022.png
+illustrations/pages/2023.png
+illustrations/pages/2024.png
+illustrations/pages/2025.png
+
+translations:
+
+English (Adaptation)	Listen to my Body	id=13558
+isiXhosa (Translation)	Mamela Kumzimba Wam	id=2933
+isiXhosa (Translation)	Mamela Umzimba Wam 2	id=14960
+isiZulu (Translation)	Lalela Umzimba Wami	id=2910
+Kiswahili (Translation)	Nausikiliza Mwili Wangu	id=15713
+Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
+Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
+Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
+Maa (Translation)	Ainining Osesen Lai	id=2927
+Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
+Sesotho (Lesotho) (Translation)	Mamela Mmele Oa Hao	id=2031

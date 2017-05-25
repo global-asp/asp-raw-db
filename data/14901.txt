@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=14901&d=0&a=1
+id:	14901
+title:	Tic-Tac, Tic-Tac...
+author:	World Education
+artist:	Silva Afonso
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14901.png
+desc:	Tic-tac
+
+page_text:
+
+
+images:
+
+illustrations/pages/14045.png
+illustrations/pages/14046.png
+illustrations/pages/14047.png
+illustrations/pages/14048.png
+illustrations/pages/14049.png
+illustrations/pages/14050.png
+illustrations/pages/14051.png
+illustrations/pages/14052.png
+illustrations/pages/14053.png
+illustrations/pages/14054.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+English (Translation)	Tick-Tock, Tick-Tock...	id=14951

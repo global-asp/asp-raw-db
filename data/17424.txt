@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=17424&d=0&a=1
+id:	17424
+title:	The Sick Hyena - Colouring Book
+author:	Ingrid Schechter
+artist:	Razaque Lázaro Quive
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17424.png
+desc:	Rabbit goes to visit his friend the hyena.
+
+page_text:
+
+P1	Once upon a time,  a long time ago,  there was a time of great hunger. A very smart hyena pretended he was so sick he couldn't even go out.
+P2	Lots of animals went to visit him in his home to comfort him. But none of them ever came out!
+P3	One beautiful afternoon,  the rabbit arrived. He thought he would like to visit the hyena too.
+P4	He almost went into the hyena's cave. But suddenly he stopped,  and saw there were only tracks of animals going in,  and none coming out.
+P5	So he stayed outside and shouted into it,  "How are you? Are you healthy,  my best friend? Are you getting better?"
+P6	The hyena answered,  "Don't worry,  my friend. Come in and give me some lovely company!"
+P7	"You are lying! I can see the footprints of animals that have gone in but haven't come out."
+P8	The hyena went quiet and the rabbit said,  "Good-bye,  my friend,  I think I will visit you another day."
+P9	And the rabbit ran far away from that place!
+
+images:
+
+illustrations/pages/8362.png
+illustrations/pages/17423.png
+illustrations/pages/17416.png
+illustrations/pages/17415.png
+illustrations/pages/17418.png
+illustrations/pages/17425.png
+illustrations/pages/17422.png
+illustrations/pages/17421.png
+illustrations/pages/17417.png
+illustrations/pages/17419.png
+
+translations:
+
+English (Original)	The Sick Hyena	id=8393
+Portuguese (Translation)	A Hiena Doentia	id=8394
+Xitswa (Translation)	A Yingwe Ya Ki Ti B'abzisa	id=8466

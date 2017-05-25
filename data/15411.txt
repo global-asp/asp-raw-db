@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=15411&d=0&a=1
+id:	15411
+title:	Ekiteng Ai
+author:	Daisy Meibuko
+artist:	Rob Owen, Marleen Visser, Vusi Malindi and Natalie Edwards
+lang:	Maa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15411.png
+desc:	Yilo ena atini neemaki ekiteng.
+
+page_text:
+
+P1	Ore enkiteng ai naa keji mugie.
+P2	Ore tadekenya nareu ekiteng ai meshomo adaa.
+P3	Nenya ekiteng engujit ometaraposhuyu.
+P4	Kanyor ekiteng ai oleng.
+P5	Nikicho ekiteng ai enkare.
+P6	Nelep papa ekiteng eton etu elo airag.
+
+images:
+
+illustrations/pages/15370.png
+illustrations/pages/13366.png
+illustrations/pages/15373.png
+illustrations/pages/11994.png
+illustrations/pages/11993.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+
+translations:
+

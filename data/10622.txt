@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=10622&d=0&a=1
+id:	10622
+title:	Katse E Bohlale
+author:	Ursula Nafula
+artist:	Catherine Groenewald
+lang:	Sesotho (Lesotho)
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10622.png
+desc:	Ntate Noko ona le katse. E mothusa ho kata ntlo ea hae. Baea ratana haholo.
+
+page_text:
+
+P1	Ntate Noko o lula motseng oa haeso. Ntate Noko o na le katse ent'so e ts'oeu e bitsoang Safi.
+P2	Ha Ntate Noko a ea mosebetsing,  o sia lemati le butsoe.
+P3	Safi e sala e lutse monyako oa lemati e kata ntlo ea Ntate Noko.
+P4	Ha ntja ea mohaisane etla,  Safi e nts'a linala tsa eona ho bontsa ntoa.
+P5	Ntja ea baleha.
+P6	Ha mohaisane a etla,  Safi ea itukisetsa ho mongoapa.
+P7	Mohaisane le ena a tjekela morao a baleha.
+P8	Ha Safi e lapile,  e suthumetsa le mati ka maoto a pele,  e be e ea lekoala.
+P9	E kena ka hare e be e ja lijo tsa eona.
+P10	Ha Safi e khotsofetse,  e qothomela sofeng e be e ea robala. E be joale o utloa lehonotho la ho khona hoa katse.
+P11	Ha Ntate Noko a fihla,  Safi ea thaba,  ea ikotlolla eaba ea moamohela.
+P12	Eaba joale Ntate Noko le Safi ba lula 'moho pela mollo ba bala likoranta.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever Cat	id=8878
+Kiswahili (Original)	Paka Mwerevu	id=8877

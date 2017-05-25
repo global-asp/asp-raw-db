@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=16415&d=0&a=1
+id:	16415
+title:	A História Do Fogo
+author:	Translators without Borders and Debora Santos
+artist:	Rob Owen
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16415.png
+desc:	O fogo conta sua própria história.
+
+page_text:
+
+P1	Vou contar minha história para você. Começo como uma pequena faísca.
+P2	Eu corro frenético quando o vento me carrega.
+P3	Você e eu somos bons amigos.
+P4	Eu cozinho a sua comida.
+P5	Eu ilumino a sua noite.
+P6	Eu faço muitos truques.
+P7	Faço parte da sua família.
+P8	Mas tenha cuidado quando me convidar para sua casa. Não gosto de ser deixado sozinho.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Afrikaans (Translation)	Die Storie Van Vuur	id=10807
+French (Translation)	L’Histoire Du Feu	id=10760
+isiNdebele (Translation)	Inolwana Yomlilo	id=17740

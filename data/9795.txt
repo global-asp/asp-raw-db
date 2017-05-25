@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=9795&d=0&a=1
+id:	9795
+title:	Omuwala Norah
+author:	Annet Ssebaggala
+artist:	Melany Pietersen
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9795.png
+desc:	Maama wa Norah yagyawo kidole nakyooza nga Norah tategedde kino kyamweralikiriza nnyo naye oluvanyuma yasanyuka nnyo nga alowooza nti afunye kiddole ekipya.
+
+page_text:
+
+P1	Omuwala Norah yalina kiddole ngabakiyita Selah.
+P2	Norah yalinga ayagala nnyo kiddolekye. Yazanyanganakyo era nga alyanakyo emisana. Nekiro nga yebaka nakyo.
+P3	Olunaku lumu,  Norah yanoonya kiddole kye buuli wamu,  naye ngatakiraba. Norah yeralikirira nnyo!
+P4	Maama we yeyakigyawo nakitwaala nakyooza nga Norah tamanyi. Maama yayoza kiddole nakiwanika emanju waggulu kufumbiro kisobole okukala obulungi.
+P5	Naye Norah yali munakuwavu nnyo. Maama we yamugamba,  "Norah teweralikirira,  beera mugumu."
+P6	Mukiseera ekyakawungeezi,  Maama yaleeta kiddole nakiwa Norah. Kyali kitukula nnyo nga kiri nga ekipya!
+P7	Norah yasanyuka nnyo. Nabuukabuuka! Nazinamu! Nasekannyo!
+P8	Yafukamira wansi neyebaza maamawe.
+
+images:
+
+illustrations/pages/9482.png
+illustrations/pages/9482.png
+illustrations/pages/9483.png
+illustrations/pages/9481.png
+illustrations/pages/9485.png
+illustrations/pages/9489.png
+illustrations/pages/9486.png
+illustrations/pages/9487.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Translation)	Girl Called Norah	id=9797
+English (Adaptation)	This is Norah	id=16120
+French (Translation)	La Fille Du Nom De Norah	id=10762

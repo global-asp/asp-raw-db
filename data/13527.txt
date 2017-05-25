@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=13527&d=0&a=1
+id:	13527
+title:	Sherry In the Market
+author:	Kagoya Zabiba
+artist:	Cathy Feek, Wiehan de Jager, Felicity Bell, Melany Pietersen, Rob Owen, Catherine Groenewald, Onesmus Kakungi and Jesse Pietersen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13527.png
+desc:	This a boy who went to the market for the first time.
+
+page_text:
+
+P1	Sherry likes her school bag.
+P2	It is Sherry's birthday.
+P3	Sherry at the tax park.
+P4	Sherry with her friends.
+P5	Sherry at the market with her mum.
+P6	Ooh! It is time for food.
+P7	Sweet oranges.
+P8	But where is mother mother?
+P9	I went to buy a birthday gift for you.
+P10	Thank you mum!
+
+images:
+
+illustrations/pages/11672.png
+illustrations/pages/13384.png
+illustrations/pages/6743.png
+illustrations/pages/1639.png
+illustrations/pages/12881.png
+illustrations/pages/9495.png
+illustrations/pages/13257.png
+illustrations/pages/13388.png
+illustrations/pages/12887.png
+illustrations/pages/6105.png
+illustrations/pages/6089.png
+
+translations:
+
+English (Original)	Sane In the Market	id=6168
+Lunyole (Translation)	Sherry Muhutale	id=13525

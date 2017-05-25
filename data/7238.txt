@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=7238&d=0&a=1
+id:	7238
+title:	Ãyĩkõrú Ꞌbã Wárágã Kî
+author:	Barnabas Delu
+artist:	Cathy Feek
+lang:	Aringati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7238.png
+desc:	This story is about a little girl who is ill and has to stay away from school. Letters are an important form of communication while she is off sick.
+
+page_text:
+
+P1	Sãbátũ ájệ rĩ sĩ má ịsụ́ wárágã kí ũꞌbí ru.
+P2	Ụ́ꞌdụ́ ãlu sĩ,  dãkítárĩ mádrị̂ sĩ wárágã ímbápị mádrị̂ nî.
+P3	Ãyĩkõrú ꞌi ãyánĩ rú. Lẽ ꞌbã uꞌá lị́cọ́ gá.
+P4	Ụ̃ꞌdụ́ ị̃rị̃ sĩ,  má ịsụ́ wárágã kĩlásĩ mâdrị̂ drị́.
+P5	Ãyĩkõrú! Mí ádrí gbõrú.
+P6	Ụ́ꞌdụ́ na sĩ,  má ịsụ́ wárágã mâ wọ̃rị́ mâ lẽlé ambamba rĩ drị́.
+P7	Ágbã íꞌdá ꞌdĩ mínî. Lẽtáŋá angájó Dụ̃dụ́ drị́.
+P8	Ụ́ꞌdụ́ sụ sĩ,  má ịsụ́ wárãgã angájó mâ ãndrẽ drị́.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=11550&d=0&a=1
+id:	11550
+title:	Die Kersvet Kinders
+author:	Suzette Hallatt
+artist:	Wiehan de Jager
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11550.png
+desc:	Die story gaan oor ‘n familie wat gemaak is van was. Die een seun gaan wel eendag in die sonlig uit en smelt. Sy broer en suster beraam toe ‘n plan om hom te help.
+
+page_text:
+
+P1	Lank,  lank gelede,  was daar 'n gelukkige familie.
+P2	Hulle het nooit met mekaar baklei nie. Die kinders het hul ouers in die huis en op die lande gehelp.
+P3	Maar daar was net een probleem,  hulle was nie toegelaat om naby 'n vuur te kom nie.
+P4	Hulle moes al hul werk in die nag doen.
+P5	Een van die seuns wou baie graag in die sonlig uitgaan.
+P6	Eendag was die begeerte om uit te gaan te sterk. Sy broer en suster het hom gewaarsku.
+P7	 Maar dit was te laat. Hy het in die warm son gesmelt.
+P8	Die kersvet kinders was baie hartseer om te sien hoe hul boetie wegsmelt.
+P9	Hulle het toe 'n plan gemaak en die gesmelte kersvet in 'n voël gevorm.
+P10	Hulle het die voël na 'n hoë berg toe geneem.
+P11	En toe die son opkom,  het hy al singend weg gevlieg.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

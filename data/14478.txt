@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=14478&d=0&a=1
+id:	14478
+title:	Moya
+author:	Tseliso Masolane
+artist:	Google and Zethu
+lang:	Sesotho (S.Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14478.png
+desc:	Pale ka matla a moya.
+
+page_text:
+
+P1	Moya o a rora. O rora o feta heso.
+P2	Moya o matla.  O hula khaete ka letsohong la ka.
+P3	Ke matha ka mora khaete ya ka. Moya o mphefolela hole le khaete!
+P4	Moya e ba sefefo. O nkela khaete ya ka hodimodimo.
+P5	Sefefo se a nkwenya!  Ha ke bone letho,  ha ke tshware letho.
+P6	E hokae khaete ya ka jwale? Mohlomong e tshwasehile sefateng.
+P7	Mohlomong khaete ya ka e sa ntse e fofa marung.
+P8	Moya o qetella o kgutsa. Ke ntse ke bidika.
+P9	Ha ke emisa ho bidika,  ke a qamaka. Moya o ile hokae?
+P10	Ha ke bone khaete ya ka hohle. Ha ke sa utlwa moya.
+P11	Mohlomong hosane ke tla fumana khaete ya ka. Jwale,  ke tlameha ho ya hae,  pele moya o qala ho rora hape.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+
+translations:
+
+English (Translation)	Wind	id=14119
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

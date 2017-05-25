@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=13611&d=0&a=1
+id:	13611
+title:	Embeba
+author:	Mubbalya Charles
+artist:	Zablon Alex Nguku
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13611.png
+desc:	Embeba.
+
+page_text:
+
+P1	Lulala,  eyo yaliyo embeba embala ebiiri. Endala yagonanga mwisugu.
+P2	Embeba eyindi yagonanga mu nyumba.
+P3	Oludaalo lulala,  embeba eyaali eyo mu nyumba yaloma yira ey'omwisugu yiiti,  "Olya bubi,  oŋenyuha bubi,  era efula ehutoonyaho naho."
+P4	Aye efe huŋenyuha mu nyumba y'omubbala,  hulya ebiryo ebitaasi nahirala,  lulala buje otuhyalireho.
+P5	Ebyo ni bihiri aŋo,  omwene nyumba gali musunguŋali. Gahayuha ati,  "Embeba jino ejirya ebiryo byange,  ni jitehuume jiija hubona."
+P6	Embeba jaajire ohulya ebinoli mu nyumba,  jaajire ni jicaacaala,  "Chu,  chu,  chi,  che."
+P7	Nijolire hu hatego embeba eyo mu nyumba yaloma yiiti,  "Hakombe sukaali ono,  oweene ebinooli ebihulya ŋaano."
+P8	Aye,  embeba ko erye sukaali ono,  ahatego habasuha haati!
+P9	"Eeee! Meri yange,  waliye binooli hiina biino ebyahufundulahise emoni."
+P10	Cooka embeba y'omunju nga seŋanga n'ohunyega.
+P11	Embeba y'omwisugu yatula mu nju neroma yiiti,  "Haa sinaŋange ebinooli bino ebya paha paha."
+P12	Ehidaala hihyo ehibi hihira ehy'o wahyo ehiraŋi.
+
+images:
+
+illustrations/pages/7506.png
+illustrations/pages/7496.png
+illustrations/pages/7497.png
+illustrations/pages/7498.png
+illustrations/pages/7499.png
+illustrations/pages/7500.png
+illustrations/pages/7501.png
+illustrations/pages/7502.png
+illustrations/pages/7503.png
+illustrations/pages/7504.png
+illustrations/pages/7505.png
+illustrations/pages/7505.png
+illustrations/pages/7506.png
+
+translations:
+
+Afrikaans (Translation)	Die Rot	id=11325
+English (Translation)	The Rat	id=7769
+English (Adaptation)	The Big Rats	id=13612
+Kiswahili (Translation)	Panya	id=8439
+Likpakpaanl (Translation)	Lisayikl	id=18782
+Lusoga (Original)	Wansolimo	id=7768
+Portuguese (Translation)	A Ratazana	id=18858
+Portuguese (Translation)	A Ratazana	id=18890
+Rutooro (Translation)	Embeba	id=14941

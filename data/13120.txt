@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=13120&d=0&a=1
+id:	13120
+title:	Ulekishon Neenkomo Zakhe
+author:	Nokuthula Bernelee Dyonase
+artist:	Wiehan de Jager
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13120.png
+desc:	Neiminie nkishu.
+
+page_text:
+
+P1	NguLekishon lo. ULekishon ubiza inja yakhe.
+P2	ULekishon nenja yakhe basa imfuyo edlelweni. Ilanga liyatshisa.
+P3	ULekishon nenja yakhe banxaniwe kwaye balambile.
+P4	Bayahamba bayokufuna amanzi.
+P5	ULekishon ulahlekelwa ziinkomo zakhe.
+P6	ULekishon uqalisa ukulila.
+P7	Ugqiba ekubeni aye ekhaya nenja yakhe.
+P8	Iinkomo ziyifumene indlela egodukayo! ULekishon nenja yakhe bavuya kakhulu.
+
+images:
+
+illustrations/pages/10432.png
+illustrations/pages/10431.png
+illustrations/pages/10432.png
+illustrations/pages/10433.png
+illustrations/pages/10434.png
+illustrations/pages/10435.png
+illustrations/pages/10436.png
+illustrations/pages/10437.png
+illustrations/pages/10438.png
+
+translations:
+
+English (Translation)	Lekishon and the Cows	id=12603
+French (Translation)	Lekishon Et Les Vaches	id=13127
+Maa (Original)	Lekishon O Nkishu	id=10441
+Portuguese (Translation)	Lekishon E As Vacas	id=16658

@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=9761&d=0&a=1
+id:	9761
+title:	My Picture Reading Book
+author:	
+artist:	Alice Toich, Wiehan de Jager, N/A and Joseph Ejoyi
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9761.png
+desc:	Simple words and pictures.
+
+page_text:
+
+P1	Pen.
+P2	Cup.
+P3	Table.
+P4	Chair.
+P5	Pot.
+P6	Axe.
+P7	Book.
+P8	Knife.
+P9	Ball.
+
+images:
+
+illustrations/pages/7915.png
+illustrations/pages/9759.png
+illustrations/pages/6083.png
+illustrations/pages/5777.png
+illustrations/pages/6118.png
+illustrations/pages/6122.png
+illustrations/pages/9760.png
+illustrations/pages/6089.png
+illustrations/pages/6082.png
+illustrations/pages/9162.png
+
+translations:
+

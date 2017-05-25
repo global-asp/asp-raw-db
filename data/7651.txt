@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=7651&d=0&a=1
+id:	7651
+title:	Esapat Lo Eisinye.
+author:	John Emongot
+artist:	Wiehan de Jager, Laura Libertore and Jemma Kahn
+lang:	Ateso
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7651.png
+desc:	Ikamunit itunga lu ejasi kede eisinye kaebit.Esapat lo akoto akerit kede akweny aimik ipapero ke.
+
+page_text:
+
+P1	Adope paaran, opotu isap iwuni oloto ameej kede ingokwo. Eboyete kesi ocalo lo anyaritai Mugulu.
+P2	Opotu kesi iryamakinos kede atapengo arei olomakinete kesi adapit itoni na'yarata.
+P3	Edol esawa lo abongor ore, obu eitiak omunar okotkin edope sapat akerit kede akweny arei.
+P4	Opotu isap iyarei odapata ngesi ka'demar akweny.
+
+images:
+
+illustrations/pages/5815.png
+illustrations/pages/6734.png
+illustrations/pages/296.png
+illustrations/pages/6794.png
+illustrations/pages/2586.png
+
+translations:
+
+English (Original)	A Greedy Boy	id=6388
+Sepedi (Translation)	Mosimane Wa Megabaru	id=7481

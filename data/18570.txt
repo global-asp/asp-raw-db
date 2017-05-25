@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18570&d=0&a=1
+id:	18570
+title:	Nalitemwa Ukucita Ifintu
+author:	Edith Sikota Habwanda and Eunice Mukonde-Mulenga
+artist:	Wiehan de Jager
+lang:	IciBemba
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18570.png
+desc:	Iwe cinshi watemwa ukucita?
+
+page_text:
+
+P1	Nalitemwa ukutoloka neentambo pamo noomunandi.
+P2	Nalitemwa ukulemba pa boodi.
+P3	Nalitemwa ukubelenga ifitabo ifyakwata ifikope.
+P4	Nalitemwa ukulya ifisabo ifyapusanapusana.
+P5	Nalitemwa ukwafwako ukubomba incito kung'anda.
+P6	Nalitemwa ukumfwa utushimi twabaamaayo.
+P7	Nalitemwa ukulaala pabusanshi ubukulu.
+P8	Nalitemwa ukucita ifintu ifi. Nga iwe watemwa ukuciteenshi?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat Ek Graag Doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+CiNyanja (Translation)	Vintu Vamene Nikonda Kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I Enjoy Doing	id=15575
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18984
+Sesotho (South Africa) (Translation)	Ke Rata Ho Etsa 	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18986
+Xitsonga (Translation)	Ndzi Rhandza Ku Endla	id=18875

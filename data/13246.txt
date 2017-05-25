@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=13246&d=0&a=1
+id:	13246
+title:	Tingi Ne Mombe
+author:	Irene Pholo
+artist:	Ingrid Schechter
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13246.png
+desc:	Grandmother saves Tingis life.
+
+page_text:
+
+P1	Tingi nanga a tshigara na mbuya wake.
+P2	Tingi na mbuya wake nanga wa tshifvuya mombe.
+P3	Ringwe zuwa ku ka uya masoja.
+P4	Masoja iyayo ndo ku tora mombe i dzodzokure.
+P5	Tingi na mbuya wake waka thiza wa tshino zwiwiga.
+P6	Wka zwiwiga ku masango ku swikira hu siku.
+P7	Masoja iyayo ndokudzoka.
+P8	Mbuya wa Tingi,  waka wiga Tingi pasi kwe mithi.
+P9	Mungwe wa masoja a ka tshweta gumbo rake pamusoro wa Tingi,  kasi Tingi a ka nyarara a singa tshemi.
+P10	Pananga wasoja ayenda ndo mbuya wa Tingi na Tingi waka buqa mumasango iyayo.
+P11	Waka yenda ku mba kwawo wa ka vhunduka waka qaro ne tsitsi.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi and the Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

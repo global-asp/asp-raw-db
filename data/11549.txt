@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=11549&d=0&a=1
+id:	11549
+title:	Njoetse Hona Joale … Mebala
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Rijuta Ghate
+lang:	Sesotho (Lesotho)
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11549.png
+desc:	Hobaneng le holimo lele leputsoa? Hobaneng letsoai lele lesoeu?
+
+page_text:
+
+P1	Hobaneng le holimo lele leputsoa?
+P2	Ha se kamehla leleng leputsoa. Ho joalo?
+P3	Hobaneng makhasi ale matala?
+P4	Ha se kamehla a leng matala. Ho joalo?
+P5	Hobaneng libanana lile ts'ehla?
+P6	Libanana hali butsoe,  li ts'ehla. Libanana tsesa butsoang,  li tala.
+P7	Hobaneng likhele,  li lents'o?
+P8	Ha se kaofela likhele lileng nts'o.
+P9	Hobaneng mali ale makhubelu?
+P10	Hona le ts'epe maling a rona. E etsa mali abe makhubelu.
+P11	Hobaneng letsoai lele lesoeu?
+P12	Hake tsebe!
+
+images:
+
+illustrations/pages/1050.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+English (Original)	Colours	id=1927
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+isiNdebele (Translation)	Ngitjela Nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele ... Ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kiswahili (Translation)	Taja Rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Maa (Translation)	Tólikíoki Tenákatá - Imúain	id=2818
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sepedi (Translation)	Mpotše...gona Bjale. Mebala	id=1936
+Setswana (Translation)	Mpotse Mo ... Mebala E Farologaneng!	id=11164

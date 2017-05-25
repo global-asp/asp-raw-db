@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=7480&d=0&a=1
+id:	7480
+title:	Umandla Inkawu Yomdanso
+author:	Khabonina Naomi Mafolo
+artist:	Sean Whitehead
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7480.png
+desc:	Mape the ape doesn’t want to eat fruit. His life changes when one day he learns that fruit is good for him and gives him energy.
+
+page_text:
+
+P1	UMandla yinkawu edangele. Umama wakhe umxoshe ekhaya.
+P2	UMandla ujabhile. Angeke adle ubhanana wakhe.
+P3	UMandla ukhathele kakhulu ngalokho angeke adle izithelo.
+P4	UMandla uwe emthini elele,  washayeka phansi Bhaxa!
+P5	Kuzo zonke izinhlangothi isihlahla ziyanyakaza. Kodwa uMandla akanawo umdlandla wokubaleka.
+P6	UMandla wathuka kakhulu! Habe! Yi-apula liwe emthini.
+P7	UMandla udla ama-apula kakhulu. Uthi angawadla,  bese asuke ngejubane antininize aze ajuluke bese eyaphumula.
+P8	Wagijima angazi lapho eya khona. Akwaziyo wukuthi,  kumele abalekele ehlathini achashe.
+P9	UMandla wagcina ethola indawa lapho azodansela khona,  nalapho azophumula emva komdanso. Udla izithelo eziningi ezahlukahlukene.
+P10	UMandla unamandla amaningi ngoba udla izithelo. Ngalokho waqala ukudansa.
+P11	UMandla waqala umbukiso wokudansa ebukelwa yizo zonke izinyamazane. Ngaphambili kokuba adanse,  nangemva komdanso,  uMape udla izithelo.
+P12	Ukuzivocavoca kwakhe kwakhe kuhle kakhulu,  ngisho neNkosi yesivande yeza ukuzobukela umdanso.
+P13	Waphenduka kanjalo inkawu yomdanso uMandla.
+
+images:
+
+illustrations/pages/4443.png
+illustrations/pages/4444.png
+illustrations/pages/4445.png
+illustrations/pages/4446.png
+illustrations/pages/4447.png
+illustrations/pages/4448.png
+illustrations/pages/4449.png
+illustrations/pages/4450.png
+illustrations/pages/4452.png
+illustrations/pages/4453.png
+illustrations/pages/4454.png
+illustrations/pages/4455.png
+illustrations/pages/4456.png
+illustrations/pages/4457.png
+
+translations:
+
+English (Original)	Mape the Dancing Ape	id=5291
+isiZulu (Translation)	Uzula Imfene Ethanda Ukujayiva	id=5423

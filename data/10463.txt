@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=10463&d=0&a=1
+id:	10463
+title:	Colours of a Rainbow
+author:	Caren Echesa
+artist:	Jesse Breytenbach
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10463.png
+desc:	This story lists the colours of the rainbow and things you might see in everyday life that share these colours.
+
+page_text:
+
+P1	A rainbow has seven colours.
+P2	The first colour is red.
+P3	Kewyu is wearing a red shirt.
+P4	The second colour is orange.
+P5	This is an orange. What else can you see that is the colour orange?
+P6	The third colour is yellow.
+P7	The yolk of an egg is yellow. What else can you see that is the colour yellow?
+P8	The fourth colour is green.
+P9	Our banana garden is green.
+P10	The fifth colour is blue.
+P11	The sky is blue.
+P12	The sixth colour is indigo.
+P13	These berries are the colour indigo.
+P14	The seventh colour is violet.
+P15	My dress is violet. Violet is my favourite colour! What is your favourite colour?
+P16	Do you know the seven colours of the rainbow?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Dhopadhola (Translation)	Lifudu nitye gi cal abiryo	id=19961
+English (Adaptation)	7 Colours of a Rainbow	id=19760
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+Kikamba (Translation)	Utathi	id=15419
+Kiswahili (Original)	Rangi Za Upinde	id=10442
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
+siSwati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20039&d=0&a=1
+id:	20039
+title:	Baesekele Ya Seipati
+author:	Tseliso Masolane
+artist:	Wiehan de Jager
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20039.png
+desc:	Tshwene e baleha ka baesekele ya Seipati.
+
+page_text:
+
+P1	Seipati le moena wa hae ba itokisedise ho ya sekolong.
+P2	Seipati o palamisa moena wa hae baesekeleng ya hae.
+P3	Metswalle ya bona e a ba thabela ha ba kena sekolong.
+P4	Ha ba ntse ba le ka phaposing, tshwene ya fihla ka ntle. Tshwene ya palama baesekele ya Seipati ya baleha ka yona.
+P5	Bana ba lelekisa tshwene.
+P6	Tshwene ya siya baesekele ka tlasa sefate.
+P7	Tshwene ya sesetsa sehlekehlekeng, mahareng a letsha. Ya palama hodimo sefateng.
+P8	Tshwene ya ba sadisa hantle! Bana ba phahamisa matsoho hore e tsamaye hantle. Seipati o na le baesekele ya hae hape.
+
+images:
+
+illustrations/pages/13433.png
+illustrations/pages/13429.png
+illustrations/pages/13430.png
+illustrations/pages/13431.png
+illustrations/pages/13432.png
+illustrations/pages/13433.png
+illustrations/pages/13434.png
+illustrations/pages/13435.png
+illustrations/pages/13436.png
+
+translations:
+
+Afrikaans (Translation)	Namu Se Fiets	id=20087
+English (Translation)	Namu’S Bicycle	id=13922
+French (Translation)	La Bicyclette De Namukuru	id=14968
+isiXhosa (Translation)	Ibhayisekile Kanamukuru	id=14120
+isiZulu (Translation)	Ibhayisikili  Likanamakuru	id=15049
+Lunyole (Adaptation)	Egaali	id=16576
+Oluwanga (Original)	Lishene Ne Ingarangarani	id=13921
+Portuguese (Translation)	A Bicicleta De Namukuru	id=17618
+Sesotho (S.Africa) (Translation)	Baesekele Ya Namukuru	id=14510
+Tshivenda (Translation)	Lukanyakanya Lwa Namukuru	id=14775
+Xitsonga (Translation)	Xikanyakanya Xa Masesi	id=14518

@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=17573&d=0&a=1
+id:	17573
+title:	Unja No Xam
+author:	Sheila Mandlate and Nomalizo Mguye
+artist:	Rob Owen
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17573.png
+desc:	UNja ufumana amaqanda emlanjeni
+
+page_text:
+
+P1	"Sesiphi isilwanyana esishiye la maqanda apha?" kubuza uNja.
+P2	"Ndicinga ukuba la maqanda ngaka Dada," watsho uNja.
+P3	"Ndiza kuwa gada la maqanda," watsho ecinga uNja.
+P4	"Ukhe wawabona amaqanda wam?" wabuza uXam. "Hayi," kuphendula uNja.
+P5	UXam wahambela zonke izilwanyana ebuzisa,  "Nikhe nawabona amaqanda wam?"
+P6	Aqandusela amaqanda.
+P7	Abantwana baka Xam babesoloko belambile.
+P8	UXam watyelela uNja. Waweva amantshontsho wakhe ngaphakathi kwendlu kaNja.
+P9	UXam wakhawuleza wangena endlini kaNja,  wamqhwaba.
+P10	UXam wamleqa uNja wada wayomfikisa emlanjeni.
+P11	"Uxolo,  bendicinga ukuba ngamaqanda kaDada."
+P12	"Ndiyakuxolela," watsho uXam. "Ngoku siya hamba siyo qubha."
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+Kiswahili (Translation)	Mbwa Na Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa Na Mamba	id=18327

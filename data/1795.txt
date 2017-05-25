@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=1795&d=0&a=1
+id:	1795
+title:	Silkworm
+author:	Clare Verbeek
+artist:	Cathy Feek
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1795.png
+desc:	This story is about what a silkworm does and how it turns into something different.
+
+page_text:
+
+P1	The worms laid small eggs on the leaves.
+P2	We fed them mulberry leaves.
+P3	They grew bigger and became fatter.
+P4	The larvae made silk cocoons.
+P5	Inside the cocoons,  the worms turned into pupae.
+P6	Some people breed silkworms for a certain purpose.
+P7	In China they keep thousands of kinds of silkworms.
+P8	They make silk cloths using their cocoons.
+
+images:
+
+illustrations/pages/1666.png
+illustrations/pages/1667.png
+illustrations/pages/1668.png
+illustrations/pages/1666.png
+illustrations/pages/1669.png
+illustrations/pages/1670.png
+illustrations/pages/1671.png
+illustrations/pages/1672.png
+illustrations/pages/1673.png
+
+translations:
+
+Lugbarati (Translation)	O’Bu Aku’Dukuru Ri	id=12642

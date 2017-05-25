@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=19986&d=0&a=1
+id:	19986
+title:	Baboons
+author:	Ursula Nafula
+artist:	Benjamin Mitchley
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/19986.png
+desc:	Baboons survive but they change their behaviour.
+
+page_text:
+
+
+images:
+
+illustrations/pages/1160.png
+illustrations/pages/1162.png
+illustrations/pages/1164.png
+illustrations/pages/1166.png
+illustrations/pages/1167.png
+illustrations/pages/1169.png
+illustrations/pages/1170.png
+
+translations:
+
+English (Original)	The Baboons That Went This Way and That	id=2605
+English (Adaptation)	The Baboons That Went This Way and That	id=2609
+isiZulu (Translation)	Izimfene Ezaziya Le Na Le	id=2853
+Kiswahili (Translation)	Nyani Walioenda Huku Na Huko	id=2987
+Lumasaaba (Translation)	Tsingukye Tsitsakyeendaana Eyi Ni Neeyi	id=2990
+Lunyole (Translation)	Enguge Ejerwenga Eno Ni Neera	id=2852
+Lunyole (Adaptation)	Enguge Ejerwenga Eno Ni Neera	id=16593
+Sepedi (Translation)	Ditšhwene Tšeo Di Be Go Di E Ya Kua Le Kua	id=2988
+Sesotho (Lesotho) (Translation)	Litsoene Tseneng Li Tsamaea Ka Tsela Ena Le Ena	id=2989

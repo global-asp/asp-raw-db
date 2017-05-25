@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=16549&d=0&a=1
+id:	16549
+title:	Ibhasi Enkulu Emzuba
+author:	Nokuthula Bernelee Dyonase
+artist:	Mango Tree
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16549.png
+desc:	Ibhasi enkulu emzuba.
+
+page_text:
+
+P1	Kwakukho ibhasi enye qha kwilali kaEbei. Yayinkulu kwaye imzuba. Yayingxola kakhulu.
+P2	"Sizakuya edolophini ngomso," watsho umama kaEbei. "Sizakuthenga iyunifom yakho yesikolo."
+P3	Wavuya kakhulu u-Ebei. Babezohamba ngebhasi enkulu emzuba. Akazange akwazi ukulala ngobobusuku.
+P4	Wathi xa umama wakhe ezekumvusa,  wabe sele enxibile u-Ebei.
+P5	U-Ebei nomama wakhe baya esikhululweni sebhasi. Balinda ibhasi enkulu emzuba. Kodwa ayizange ifike ibhasi.
+P6	Abanye abantu bafika esikhululweni sebhasi. Bakhalaza ngoba ibhasi ayizange ifike ngexesha. "Iphi ibhasi?" babuza.
+P7	Wayekhathazekile u-Ebei. "Asizukwazi ukuya edolophini," wacinga. "Andizukwazi ukufumana iyunifom yam."
+P8	Abanye abantu banikezela baze bagoduka. Walila u-Ebei. Wayengafuni ukugoduka. "Sizakulinda okwexeshana," watsho umama wakhe.
+P9	Ngesaquphe,  beva ingxolo. Babona uthuli emoyeni. Yayisiza ibhasi!
+P10	Kodwa le bhasi yayingekho mzuba. Yayingekho nkulu. Yayibomvu kwaye incinci. Abantu babengafuni ukuyikhwela lebhasi.
+P11	"Khwelani! Khwelani!" wakhwaza umqhubi. "Sishiyiwe lixesha namhlanje," wakhwaza.
+P12	U-Ebei nomama wakhe bakhwela kuqala. Kungekudala nabanye bakhwela ibhasi encinci ebomvu.
+P13	U-Ebei wajonga efestileni. Wabona kusekho abanye abantu esikhululweni sebhasi.
+P14	Igquba labantu laleqa ibhasi. Kodwa babeshiywe lixesha. Ibhasi ebomvu yayigcwele. Yahamba isiya edolophini.
+P15	"Iphi ibhasi enkulu emzuba?" wabuza umama kaEbei. "Imoshakele," waphendula umqhubi. "Siyayilungisa. Iza kuza ngomso."
+P16	U-Ebei wayengawukhathalelanga umbala webhasi. Wayengakhathalelanga bungakanani bayo. Le bhasi yayisiya edolophini!
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

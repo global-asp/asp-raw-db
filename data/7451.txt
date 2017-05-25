@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=7451&d=0&a=1
+id:	7451
+title:	Ukudanisa
+author:	Neliswa Majola and Education without Borders
+artist:	Catherine Groenewald
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7451.png
+desc:	Lo mbongo ungentombazana encinane ezimisele ukuba ngumdanisi ophum izandla ngenye imini. Abanye abantu abafana notitshalakazi wakhe abayithandisisi ncam le nto yakhe
+
+page_text:
+
+P1	Ndidanisa xa ndonwabile,  Ndidanisa xa ndibuhlungu,  Ndidanisa xa ndindedwa,  Ndidanisa xa ndicaphukile.
+P2	Utitshalakazi wam uthi,  "Hlala phantsi uzole! Sukudanisa imini yonke."
+P3	Kodwa umama wam yena uthi,  "Ukudanisa kwenza ube sempilweni,  Ukudanisa kwenza ube mde,  Ngenye imini uza kuba ngumdanisi,  Kwaye uza kubamangalisa bonke!"
+P4	Kwaye mna ndithi,  "Ngenye imini ndiza kudanisa kwaye abantu baza kubhatala xa befuna ukundibona nditsiba-tsiba kwaye ndizibhija-bhija." 'Udanisa kakuhle KAKHULU',  baza kutsho.
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+English (Original)	Dancing	id=2183
+isiZulu (Adaptation)	Ukudansa	id=13333
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lusoga (Translation)	Okukina	id=8167
+Portuguese (Translation)	Dançando	id=12173
+Setswana (Translation)	Mokibo	id=2695

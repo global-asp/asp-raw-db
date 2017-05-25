@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=17533&d=0&a=1
+id:	17533
+title:	Sungura Mjanja
+author:	Olenkotila Primary School Teachers Kajiado
+artist:	Abraham Muzee
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17533.png
+desc:	Sungura anafanya ujanja wake tena!
+
+page_text:
+
+P1	Siku moja Sungura alienda kutafuta chakula. Njiani,  alikutana na Ndovu aliyebeba asali mgongoni. Sungura alimwambia Ndovu,  "Tafadhali nibebe. Mimi ni mnyonge."
+P2	Ndovu alikubali Sungura akadakia mgongo wake. Mara moja,  Sungura alianza kula asali ya Ndovu!
+P3	Asali ilidondoka kwenye mgongo wa Ndovu. Ndovu alipouliza,  Sungura alisema ni maji kutoka kwenye kidonda chake.
+P4	Waliufikia mto na kumkuta kiboko mkubwa akinywa maji.
+P5	Sungura alitaka kujua kati ya Ndovu na Kiboko,  ni nani aliyekuwa na nguvu kumshinda mwingine.
+P6	Walianza kubishana. Ndovu alisema yeye ndiye mwenye nguvu zaidi naye Kiboko akasema ni yeye.
+P7	Sungura alisema kuwa alijua jinsi ya kutambua aliyekuwa na nguvu zaidi. Aliwaambia wamsubiri.
+P8	Sungura alirejea na kamba ndefu. Alimfunga Ndovu kiunoni na kumwelekeza mbali na mto.
+P9	Sungura alimfunga Kiboko kiunoni na kumuacha pale karibu na mto.
+P10	Sungura alijificha mtini akasema,  "Tayari! Moja,  mbili,  tatu! Vuta sasa!"
+P11	Kiboko na Ndovu walivutana. Ndovu alimvuta Kiboko naye Kiboko alimvuta Ndovu.
+P12	Kiboko na Ndovu walivutana lakini,  hakuna aliyeshinda.
+P13	Sungura aliendelea kula asali ya Ndovu kule mtini.
+P14	Baada ya kumaliza kula asali,  aliikatia kamba karibu sana na Kiboko.
+P15	Ndovu aliangukia mti kwa kishindo.
+P16	Sungura alimshangilia Kiboko akisema kwamba yeye ndiye mwenye nguvu zaidi.
+
+images:
+
+illustrations/pages/17187.png
+illustrations/pages/17185.png
+illustrations/pages/17186.png
+illustrations/pages/17187.png
+illustrations/pages/17188.png
+illustrations/pages/17189.png
+illustrations/pages/17190.png
+illustrations/pages/17191.png
+illustrations/pages/17192.png
+illustrations/pages/17193.png
+illustrations/pages/17194.png
+illustrations/pages/17195.png
+illustrations/pages/17196.png
+illustrations/pages/17198.png
+illustrations/pages/17199.png
+illustrations/pages/17200.png
+illustrations/pages/17201.png
+
+translations:
+
+Dhopadhola (Translation)	Oculu Ja Ryeko	id=19482
+English (Original)	Hare the Trickster	id=17453
+English (Adaptation)	Hare the Trickster	id=18217
+Maa (Translation)	Enkitejo	id=18989

@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=12155&d=0&a=1
+id:	12155
+title:	Selemeng's Cats
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Marleen Visser and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12155.png
+desc:	Selemeng has many cats. How many cats does Selemeng have?
+
+page_text:
+
+P1	Selemeng loves cats. There are many cats at her house.
+P2	Selemeng has one black cat. This cat eats a lot of meat.
+P3	Selemeng has one fat cat. This cat eats everything.
+P4	Cat number three,  runs up a tree. This cat gets stuck in the tree.
+P5	Selemeng climbs the tree. She gets stuck with cat three. Selemeng's mother has to help them get down.
+P6	Selemeng has two lazy cats. They lie outside in the sun all day.
+P7	Selemeng has three busy cats. They catch rats in the kitchen at night.
+P8	Selemeng has one dog. His name is Lirafi. Lirafi has no friends. He is sad.
+P9	Selemeng's cats do not like Lirafi. They chase him out of the house. Lirafi runs away.
+P10	Selmeng finds Lirafi and brings him home. The cats are not happy. They do not want to see Lirafi again.
+P11	How many cats does Selemeng have? She has eight cats.
+P12	How many dogs does Selemeng have? She has one dog. Where is Lirafi now?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Aduroota Caala	id=12956
+French (Translation)	Les Chats De Selemeng	id=13276
+Kiswahili (Translation)	Paka Wa Selemeng	id=15558
+Sepedi (Translation)	Dikatse Tša Selemeng	id=12581
+Sesotho (Lesotho) (Original)	Likatse Tsa Selemeng	id=12027

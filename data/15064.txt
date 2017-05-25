@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=15064&d=0&a=1
+id:	15064
+title:	Á Táŋ Nyám Si
+author:	Beatrice Tafon Takeh
+artist:	Rob Owen
+lang:	Lámnsoʼ
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15064.png
+desc:	Kilòŋ kí sí yúm nyám si sidzə̀m. Sí lóo dù ji si du
+
+page_text:
+
+P1	Kitàm ki du ji kí-iì du,  e nò mendzə́v.
+P2	Aleeleé du abaà ji á du,  e nò mendzə́v.
+P3	Anyar ataár wùn à menə́n mè mekweè,  á du ji á du,  e nò sá mendzə́v.
+P4	Nyám see impalar sitàn wùn à vitsəətsə̀ŋ vi ntuùfúu ghán,  du e ndzəv.
+P5	Seven zebras are running to the water.
+P6	Visòn waamé wùn à sə́ si bvə̀ʼə̀ə láʼ ndzə́v.
+P7	Bvərə̀ʼ wùmòʼ nyamkìrì. Wù taʼ sa e no mendzə́v. Fan la bvərə̀ʼ?
+P8	Kitàm kímóʼ kí nó mendzə́v wùn bvərə̀ʼ.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9652.png
+illustrations/pages/9647.png
+illustrations/pages/9644.png
+illustrations/pages/9646.png
+illustrations/pages/9650.png
+illustrations/pages/9645.png
+illustrations/pages/9651.png
+illustrations/pages/9648.png
+
+translations:
+
+Afrikaans (Translation)	Tel Die Diere	id=10448
+Afrikaans (Translation)	Tel Die Diere	id=11413
+Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Asante Twi (Translation)	Mmoa Akenkan	id=18219
+Dagaare (Translation)	Donne Sɔrebo	id=17769
+Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
+Dangme (Translation)	Lohwehi Kanemi	id=18297
+English (Original)	Counting Animals	id=9671
+Ewe (Translation)	Lãwo Xexlẽ	id=18179
+Fante (Translation)	Mbowadoma Nkanee	id=18487
+French (Translation)	Compter Les Animaux	id=12654
+Ga (Translation)	Kooloi Kanemɔ	id=18287
+Gonja (Translation)	Asɔbɔaya Be Ke Karga	id=18173
+Kasem (Translation)	Vara Garem	id=18208
+Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
+Luganda (Translation)	Ohubala Ebisolo	id=11905
+Lunyole (Adaptation)	Okubala Ebisolo	id=16664
+Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
+Nzema (Translation)	Nane Edianlɛ	id=18423
+Oluwanga (Translation)	Okhubala Tsisolo	id=19590
+Portuguese (Translation)	Contando Os Animais	id=16562
+Tunisian (Translation)	Ħisbèn Ħayewènèt	id=15389
+Yoruba (Translation)	Kíka Àwọn Ẹranko	id=16554

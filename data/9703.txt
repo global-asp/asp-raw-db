@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=9703&d=0&a=1
+id:	9703
+title:	Huts In Our Village
+author:	Yusuf
+artist:	Wiehan de Jager, Kathy Arbuckle, Danica Strydom, Magriet Brink and Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9703.png
+desc:	The story describes  how huts are made and where they are found mostly.
+
+page_text:
+
+P1	A hut is made using poles,  grass and mud.
+P2	A hut has got one door and two windows.
+P3	Huts are very good to stay in during dry seasons because they are cool.
+P4	Huts are also good to stay in when it is raining because you do not hear noise like on iron sheets.
+P5	Huts are very easy to make.
+P6	Every village in Uganda has got huts.
+P7	BUT our village Nandahabi has got the most beautiful huts.
+
+images:
+
+illustrations/pages/8551.png
+illustrations/pages/8544.png
+illustrations/pages/5307.png
+illustrations/pages/1857.png
+illustrations/pages/8528.png
+illustrations/pages/1591.png
+illustrations/pages/925.png
+illustrations/pages/6241.png
+
+translations:
+
+Lunyole (Translation)	Ebiitiira Mu Hitehere Hyeefe	id=10018

@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=1991&d=0&a=1
+id:	1991
+title:	Izindlu
+author:	Clare Verbeek
+artist:	Kathy Arbuckle
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1991.png
+desc:	Lendaba ikhuluma ngezinhlobo zezindlu esihlala kuzo.
+
+page_text:
+
+P1	UMzi uhlala endlini efulelwe ngotshani.
+P2	UThulani uhlala endlini eyisikwele.
+P3	Lendlu iwunxande.
+P4	Uphahla lwalendlu lingunxantathu.
+P5	Lendoda izakhela indlu yayo.
+P6	Lendlu yintsha.
+P7	Lendlu yindala.
+P8	Ngifisa ukuba bengihlala kulendlu.
+
+images:
+
+illustrations/pages/1591.png
+illustrations/pages/1591.png
+illustrations/pages/1592.png
+illustrations/pages/1593.png
+illustrations/pages/1594.png
+illustrations/pages/1595.png
+illustrations/pages/1596.png
+illustrations/pages/1597.png
+illustrations/pages/1598.png
+
+translations:
+

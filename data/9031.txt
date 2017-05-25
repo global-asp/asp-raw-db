@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=9031&d=0&a=1
+id:	9031
+title:	Maama Wange Yalima
+author:	Tom Sabwa
+artist:	Jonathan Field
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9031.png
+desc:	Mother and father are planting gardens. The family works together to plant and harvest.
+
+page_text:
+
+P1	Maama wange yalima. Yalima akalimiro. Akalimiro keyalima kaali ka mpindi.
+P2	Baaba yalima. Yalima akalimiro. Akalimiro keyalima kaali ka bimuli.
+P3	Maama wange yadhuba mu bulimiro bwombi.
+P4	Baaba wange yafukirira mu bulimiro bwombi.
+P5	Abazaire bange ni Nze twakola mu bulimiro obutono. Mwaninhaze ni Nze twayeza ebimuli ne mpande.
+P6	Akalimiro akatono ake mpande kavaamu agasawo ge mpindi. Akalimiro akatono ake bimuli kavaamu agasawo ge bimuli.
+P7	Maama wange yalima. Yalima ogulimiro. Ogulimiro gwe yalima gwaali gwa mpindi.
+P8	Baaba yalima. Yalima ogulimiro. Ogulimiro gwe yalima gwaali gwa bimuli.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/8998.png
+illustrations/pages/8999.png
+illustrations/pages/9000.png
+illustrations/pages/9001.png
+illustrations/pages/9002.png
+illustrations/pages/9003.png
+illustrations/pages/9004.png
+illustrations/pages/9005.png
+
+translations:
+
+Afrikaans (Translation)	My Ma Maak Tuin	id=11280
+English (Translation)	My Mother Planted	id=9034
+French (Translation)	Ma Mère a Fait Des Plantations	id=12660
+isiZulu (Translation)	Umama Watshala	id=11520
+isiZulu (Translation)	Umama Wami Utshalile	id=12914
+Kiswahili (Translation)	Mamangu Alipanda	id=12652
+Lunyole (Translation)	Maama Wange Gahoma	id=13505
+Lusoga (Adaptation)	Maama Wange Yalima, my Mother Planted	id=9040
+Ng’aturkana (Translation)	Itokang Etakini	id=12650
+Oluwanga (Translation)	Mama Wanje Yaraka	id=13015
+Portuguese (Translation)	A Minha Mãe Plantou	id=17615
+Sepedi (Translation)	Mma Waka O Bjadile	id=11080
+Sepedi (Translation)	Mma Waka O Bjadile	id=11083

@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=19476&d=0&a=1
+id:	19476
+title:	Bonyo
+author:	Owino Ogot and Athieno Gertrude
+artist:	Rob Owen
+lang:	Dhopadhola
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19476.png
+desc:	Locusts invade a village and eat every plant. Guess what the villagers did?
+
+page_text:
+
+P1	Ndir acel waneno ponde ponde macol ma nyakare bino. Obedo dwol bonyo,  ma oyido bino i calo mawan.
+P2	Bonyo opye i ndelin to camo cemo ni,  "Kata kata."
+P3	Watemo ryemo bonyo. To ku kadho.
+P4	Watemo koko ni,  "Wuwi,  wuwi!" To bonyo ku kadho.
+P5	Wa goyo madewe gi sapik. To bonyo ku kadho.
+P6	Wa moko mac ni waryem gine bonyo. To jo ku kadho.
+P7	Jo pye wi yen. Bonyo oturo jangi yen ru peko pa jo.
+P8	Rumacen wapoyo ni bonyo i camo aka mit. Dhano je to cako dimo bonyo ketho i gunin gi i katimbin.
+P9	Nyithindho jo ringo to jo kelo asandin to jo poŋo iye bonyo.
+P10	Wa malo bonyo to wa celo. To wa moyo bonyo ma camo ndir ma piny ŋic.
+P11	Yawere mere wanwaŋo bonyo okadho. Ponde ponde ma nyakare oweyo calo mawan.
+P12	Munyo jo fur jo lyewo ndelin pa jo,  jo goyo ndur ni,  "Bonyo onyeko ndelin mawan!" Jo calo jo ywak ni,  "Wa le camo aŋo oro me? Bonyo otimo riwan aŋo me?"
+
+images:
+
+illustrations/pages/10597.png
+illustrations/pages/10597.png
+illustrations/pages/10598.png
+illustrations/pages/10599.png
+illustrations/pages/10600.png
+illustrations/pages/10601.png
+illustrations/pages/10602.png
+illustrations/pages/10603.png
+illustrations/pages/10604.png
+illustrations/pages/10605.png
+illustrations/pages/10606.png
+illustrations/pages/10607.png
+illustrations/pages/10608.png
+
+translations:
+
+English (Original)	Locusts	id=13455

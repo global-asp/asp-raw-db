@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=15208&d=0&a=1
+id:	15208
+title:	Owadwa Ken
+author:	Emmaculate Onyango
+artist:	Marleen Visser, Catherine Groenewald, Onesmus Kakungi, Vusi Malindi, Silva Afonso and Abraham Muzee
+lang:	Dholuo
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15208.png
+desc:	Hera Mar Owete.
+
+page_text:
+
+P1	Nyinga en John.
+P2	An gi owadwa maduong nyinge en Ken. Ken ni e klas abich.
+P3	Wadhi gi Ken e sikul gokinyi.
+P4	Ka okot mar saa yueyo oywak,  Ken konya ruako lepa mag tugo. Watugo kod Ken gi osiepene saa yueyo matin no. Ken ohera ahinya anbe ahere.
+P5	Ka okot oyuak mar dhi dala. Waringo gi Ken ka wadhi dala.
+P6	Ka wachopo dala,  Ken konya golo lep sikul kasto wadhi luok e aora.
+P7	Bang luok wadhi dala,  kawachopo to  Ken puonja rudho laka.
+P8	Bang rudho lakwa,  wadhi tugo opira e pap.
+P9	Ahero owadwa Ken ahinya.
+P10	Mamana ohero neno kaka nyithinde tugo opira.
+
+images:
+
+illustrations/pages/14051.png
+illustrations/pages/9857.png
+illustrations/pages/13666.png
+illustrations/pages/14736.png
+illustrations/pages/14062.png
+illustrations/pages/14735.png
+illustrations/pages/13497.png
+illustrations/pages/14047.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/9572.png
+
+translations:
+
+English (Translation)	My Brother Ken	id=15410

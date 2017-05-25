@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=16989&d=0&a=1
+id:	16989
+title:	Wammese Ne Wakikere
+author:	Ritah Katetemera and Annet Ssebaggala
+artist:	Hélder de Paz Alexandre, Emily Berg, Magriet Brink and Stephanie Simpson
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16989.png
+desc:	Olugero luno lukwata ku Wakikere ne Wammese. Wammese yali yetamidwa okulabirira Wakikere.
+
+page_text:
+
+P1	Edda ennyo,  Wammese ne Wakikere baali bamukwano nnyo.
+P2	Bombi babeera nga kukyalo kimu.
+P3	Wammese yali mulimi wa kasooli. Emmere teyagwangawo mu maka ga Wammese. Kyoka Wakikere nga ye tayagalira ddala kulima.
+P4	Abaana ba Wammese tebalumwako ku njala.
+P5	Mumaka ga Wakikere,  walingayo enjala nyingi. Kino kyaletera Wakikere okugendanga mumaka ga Wammese ng'asabiriza kasooli.
+P6	Eky'okulabirira ab'omumaka ga Wakikere,  tekyasanyusa Wammese. Wammese yalina ekirowoozo ekirungi nti ab'ekitongole ky'ebyobulimi baayisa etteeka.
+P7	Kasooli alina kulibwa nga wampeke so si buwunga. Kino kyali kizibu nnyo eri Wakikere!
+P8	Okuva ku olwo,  okutuusa leero,  Wakikere tasobola kulya kasooli wa mpeke.
+
+images:
+
+illustrations/pages/10466.png
+illustrations/pages/10469.png
+illustrations/pages/9800.png
+illustrations/pages/8545.png
+illustrations/pages/10468.png
+illustrations/pages/7076.png
+illustrations/pages/10470.png
+illustrations/pages/8539.png
+illustrations/pages/8152.png
+
+translations:
+
+English (Original)	Rat and Frog	id=10638

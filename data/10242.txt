@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=10242&d=0&a=1
+id:	10242
+title:	Lion is Sick
+author:	Little Zebra Books
+artist:	Claudio Molina
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10242.png
+desc:	King Lion has a terrible illness. Will Hare be able to cure him?
+
+page_text:
+
+P1	One day,  all the wild animals got together to choose a king. They decided that Lion should be their king.
+P2	In celebration of the new king,  they had a great big party that went on for a week. They ate,  they drank,  they sang and they danced.
+P3	When the celebration was over,  everyone went home.
+P4	King Lion went home too. The next day,  when Hyena arrived at Lion's house to visit the king,  he found Lion was sick in bed. Lion said weakly,  "I have got a terrible illness. I don't know what to do."
+P5	Hyena said,  "O great king,  don't worry. Hare will know the cure for this illness."
+P6	Lion cheered up and right away sent Hyena to call Hare.
+P7	Hyena ran to call Hare and said,  "Let's go to the king because he is very sick. He sent me to call you." So Hare hurried to Lion's house.
+P8	Lion said,  "I am so happy to see you,  my dear Hare. I have called you because my life is hanging by a thread. I have an incurable illness. Hyena told me that you have the cure for this sickness of mine."
+P9	Lion replied,  "Don't you worry,  Hare,  about this medicine being difficult to find. The bird that flies is the one that is caught. Come on now,  tell us about this medicine!"
+P10	And Hare replied,  "O my king,  when I say that the medicine is hard to find I don't mean that it is far away. For you to be healed at once,  you must make an ointment from the heart of a hyena."
+P11	When Hyena heard that,  he started trembling all over. He was the one who had told Lion that Hare had the medicine to cure his illness! It was useless now to try to contradict Hare about the medicine.
+P12	So Hyena ran away. And to this day,  hyenas like to eat hares,  but always avoid lions.
+
+images:
+
+illustrations/pages/10217.png
+illustrations/pages/10213.png
+illustrations/pages/10214.png
+illustrations/pages/10215.png
+illustrations/pages/10216.png
+illustrations/pages/10217.png
+illustrations/pages/10218.png
+illustrations/pages/10219.png
+illustrations/pages/10220.png
+illustrations/pages/10221.png
+illustrations/pages/10223.png
+illustrations/pages/10224.png
+illustrations/pages/10225.png
+
+translations:
+
+Portuguese (Original)	O Leão Fica Doente	id=10231

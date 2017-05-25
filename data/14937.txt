@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=14937&d=0&a=1
+id:	14937
+title:	Orubungo Rwa Neyma Mu Afirika
+author:	Musinguzi Moses
+artist:	Benard Agasi
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14937.png
+desc:	Orubazo orucwereriirwe owa Omuzaani w’Omupiira Neyma da Silver Santos obuyabungiire amahanga g’Afirika kwoleka obukodyo bwo kusamba omupiira.
+
+page_text:
+
+P1	Neymar obuyahikire bufirika,  akahikira murubuga rwa Nigeria. Aba Nigeria. Aba Nigeria bamugamba aboleke akakoolya kokuzanisa omupiira nokozesa haiguru yekigere kokulereza.
+P2	Obuyarugire Nigeria,  akagenda Ghana kwoleka akakoolya kokuhereza omupiira nakozesa munda yekigere. Feki kikasemeza muno abantu baahana.
+P3	Obwakaba akyali Ghana,  Neymar yatunga kuralizibwa kuruga mu South Afirika kwoleka kutega omupiira nokozesa ekigere kyomumaiso.
+P4	Kuruga mu South Afirika,  yagenda Chad obwakaba ali Chad akoleka kutega omupiira nakozesa orubaju rwekigere.
+P5	Naymar obuyahikire DR Congo,  akatukumiza ihanga nakakoolya kokulega omupiira nakozesa ekibero.
+P6	Abanya Uganda abasungire Neymar mukango bakacwamu kumuraliza kwoleka akakoolya kokwihaho omupiira.
+P7	Amakuru gararanga mubuturuka musana byo Afirika yoona.
+P8	Sabiiti egi Abatanzaniya bayeta Neymar kwijka kwoleka akakoolyo kokuhereza omupiira nokozesa omutwe.
+P9	Hanyima yagenda mu Rwanda kwoleka akakoolyo kokuhereza omupiira nakozesa ekigere kyaheru.
+P10	Hanyima ya Rwanda,  Neymar yamalirirra orubungorwe mu South Sudan,  mbere yayolekere akakoolyo kokukwata omupiira mugolo akaguleera namaani gukagenda.
+
+images:
+
+illustrations/pages/9006.png
+illustrations/pages/9006.png
+illustrations/pages/9007.png
+illustrations/pages/9008.png
+illustrations/pages/9009.png
+illustrations/pages/9010.png
+illustrations/pages/9011.png
+illustrations/pages/9012.png
+illustrations/pages/9013.png
+illustrations/pages/9014.png
+illustrations/pages/9015.png
+
+translations:
+
+Afrikaans (Translation)	Neymar Se Besoek Aan Afrika	id=11548
+English (Translation)	Neymar's Visit to Africa	id=9037
+French (Translation)	La Visite De Neyman en Afrique	id=12675
+Lugbarati (Original)	Neymar Ma Emu Taa Afrika Ri	id=9029
+Portuguese (Translation)	A Visita Do Neymar a África	id=17620
+Tshivenda (Translation)	Neymar's U Dalela Africa	id=9981

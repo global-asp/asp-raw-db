@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=13069&d=0&a=1
+id:	13069
+title:	Vayu Ummoya
+author:	B Sibiya and TM Mabaso
+artist:	Rijuta Ghate
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13069.png
+desc:	Indatjana le ihlathulula lokho ummoya okukwazi ukukwenza nomthelela yayo kithi.
+
+page_text:
+
+P1	Soke isikhathi nangiceda ukuhlamba ngamanzi wami atjhisako. Umzimba wami omanzi uzwakala upholile,  upholile,  upholile. Yini eyenza lokho kwenzeke? Vayu,  ummoya!
+P2	Ibisi elingekomitjini yami - litjhisa khulu,  litjhisa khulu. Kodwana maduze likulindele bona ngili rhubule. Ngubani owenza lokho kwenzeke? Vayu,  ummoya!
+P3	Amarharideni aphephetha arhuhle ubuso bami kamnandi. Ngubani owenza lokhu kwenzeke? Vayu,  ummoya!
+P4	Umbani uhlaba kude le. Amafu anzima akhamba ngendlela yami. Ngubani owenza lokho kwenzeke? Vayu,  ummoya!
+P5	Amataka aya ngapha nangapha begodu amakari ayaphephuka. Amathuthumbo awela phasi ngesineke. Kwenziwe ngubani koke lokhu? Vayu,  ummoya!
+P6	Kude nendlu,  siyadlala,  sele ngikhona ukunukelela amaswidi umma awalungisako. Ngubani owenza lokhu kwenzeke? Vayu,  ummoya!
+P7	Irhalasi liwa efesdirini liduleka phasi liyaphuka. Ngithabile bengingekho. Ngubani odlala ngokulelesa okumbi kangaka? Iye,  bekungu Vayu,  ummoya!
+P8	Kulila umlozi. Isitimela siyangena. Angiboni kodwana ngizwa itjhada laso. Ngubani owenza lokho kwenzeke? Vayu,  ummoya!
+P9	Awubonakali. Awuzwakali. Wenza woke umsebenzi ngesidu. Kungaba ngubani? Iye! Ummoya!
+
+images:
+
+illustrations/pages/2442.png
+illustrations/pages/2443.png
+illustrations/pages/2444.png
+illustrations/pages/2445.png
+illustrations/pages/2448.png
+illustrations/pages/2449.png
+illustrations/pages/2450.png
+illustrations/pages/2451.png
+illustrations/pages/2452.png
+illustrations/pages/2453.png
+illustrations/pages/2455.png
+
+translations:
+
+English (Original)	Vayu, the Wind	id=2454
+isiXhosa (Translation)	Uvayu Umoya	id=2456
+Kiswahili (Translation)	Vayu, Upepo	id=2611
+Ng’aturkana (Adaptation)	Vayu, Ekuwam	id=13288

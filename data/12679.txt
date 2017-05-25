@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=12679&d=0&a=1
+id:	12679
+title:	Écoute
+author:	Claire Sjaarda and Translators without Borders
+artist:	Jean Fullalove
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12679.png
+desc:	Écoute les différents cris des animaux.
+
+page_text:
+
+P1	Les criquets stridulent.
+P2	Les souris couinent.
+P3	Les serpents sifflent.
+P4	Les chiens aboient.
+P5	Les chèvres bêlent.
+P6	Les vaches meuglent.
+P7	Les lions rugissent.
+P8	Et les escargots ne font aucun bruit.
+P9	Les bébés babillent.
+P10	Et les enfants parlent.
+
+images:
+
+illustrations/pages/3029.png
+illustrations/pages/3030.png
+illustrations/pages/3031.png
+illustrations/pages/3032.png
+illustrations/pages/3033.png
+illustrations/pages/3035.png
+illustrations/pages/3036.png
+illustrations/pages/3037.png
+illustrations/pages/3038.png
+illustrations/pages/3043.png
+illustrations/pages/3029.png
+illustrations/pages/3041.png
+
+translations:
+
+Afrikaans (Translation)	Luister	id=11144
+Afrikaans (Translation)	Luister	id=11183
+Anywak (Translation)	Wïnynyu	id=17265
+English (Original)	Listen	id=3044
+Oluwanga (Translation)	Rechelesia!	id=3093
+Portuguese (Translation)	Escuta	id=17033

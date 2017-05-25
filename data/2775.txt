@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=2775&d=0&a=1
+id:	2775
+title:	Liŋaasa (Ŋaa, Ŋaa)
+author:	Fabian Wakholi
+artist:	Joshua Waswa
+lang:	Lumasaaba
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2775.png
+desc:	Umusooleli mutweela waatsya wanyoola liŋaasa
+
+page_text:
+
+P1	Ise naba ndi khuukyeenda mu shaalo she Luŋaaŋa,  naanyoola liŋaasa liboofu.
+P2	Ni nalikhupa libaale ni paande yase,  lyaniaaka liri,  "ŋaaa,  ŋaa,  ŋaaa."
+P3	Liŋaasa lyapamburukhila mu ngaaki. Ne ise naatimila aasi mu bunyaasi.
+P4	 Khukhwoolesa ni lyakwa khu kusaala kukwoomu. Naalilasa ni paande yase luundi. Khu mbuka yino,  liŋaasa lyahanukha lyekhupa aasi.
+P5	Naatsya naalibukula.
+P6	Naliyilila Nangaromboosa,  umuundu ulya shoosi sheesi anyoola. (Lutweela namuwa namutwiitwi),  waamulya nga amwinukuna.
+P7	Kumurwe kwe liŋaasa kwaba kumuboofu naabi,  naluundi abe kwaayomaana nga shiibya.
+P8	Kunywiinywi kweene kwaba ni kiminaawa nga likheese naluundi nga kuŋaaha.
+P9	Sishili shaangu khuunyoola liŋaasa nga akhwirengekharengekha ta. Mu shilo kamaŋaasa kakona khu sokya tse kimisaala kimyoomu. Umuundu alya sheesi akana. Isho nisho shishikila Nangaromboosa alya kamaŋaasa.
+
+images:
+
+illustrations/pages/2432.png
+illustrations/pages/2433.png
+illustrations/pages/2434.png
+illustrations/pages/2438.png
+illustrations/pages/2435.png
+illustrations/pages/2436.png
+illustrations/pages/2437.png
+illustrations/pages/2439.png
+illustrations/pages/2440.png
+illustrations/pages/2441.png
+
+translations:
+
+English (Original)	The Hornbill	id=2563
+Luganda (Translation)	Eŋŋaaŋa	id=2774
+Lugbarati (Translation)	Arakiliko	id=2710
+Lugbarati (Official) (Translation)	Àràkílíkò	id=8768
+Lunyole (Translation)	Eŋaaŋa	id=3156
+Ng’aturkana (Translation)	Ikeny Lokut	id=18074

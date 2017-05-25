@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=14534&d=0&a=1
+id:	14534
+title:	I Can Do This!
+author:	Isabelle Duston
+artist:	Silva Afonso
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14534.png
+desc:	It is Amelias first day of school. What will she do on her first day?
+
+page_text:
+
+
+images:
+
+illustrations/pages/13814.png
+illustrations/pages/13815.png
+illustrations/pages/13816.png
+illustrations/pages/13819.png
+illustrations/pages/13817.png
+illustrations/pages/13820.png
+illustrations/pages/13821.png
+illustrations/pages/13822.png
+illustrations/pages/13823.png
+illustrations/pages/13824.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+French (Translation)	Je Peux Le Faire!	id=14537
+Portuguese (Original)	Eu Sei Fazer Isso!	id=14417

@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=10231&d=0&a=1
+id:	10231
+title:	O Leão Fica Doente
+author:	Francisco Escondido
+artist:	Claudio Molina
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10231.png
+desc:	O rei Leão fica muito doente. A lebre consegue curar-lo?
+
+page_text:
+
+P1	Um dia,  todos os animais selvagens se juntaram para escolher um rei para si. E quando se juntaram,  perceberam que seria bom escolherem o leão para rei de todos os animais.
+P2	Certos da sua decisão,  ali mesmo no meio daquela reunião,  eles elegeram o leão como rei dos animais. No meio da cerimónia de seleção do Rei Leão,  fizeram uma grande festa que durou uma semana e nessa festa participaram todos os animais até ao fim da cerimónia. Eles comeram,  eles beberam,  eles cantaram e eles dançaram.
+P3	Quando a cerimónia terminou,  todos dispersaram e voltaram às suas casas. E como era costume,  todos os animais vieram para felicitar o leão,  por ele ser o seu rei.
+P4	Um dos visitantes que veio felicitar o Rei leão foi a Hiena. Quando a Hiena chegou à casa do Leão,  descobriu que ele estava de cama,  doente. E o Leão disse,  "Estou doente com uma doença incurável."
+P5	Mas a Hiena disse,  "Ó Grande Rei,  não fiques triste por causa da tua doença. A Lebre sabe como curá-la."
+P6	Assim,  o Leão animou-se e mandou a Hiena chamar a Lebre imediatamente para o ir curar.
+P7	E na verdade,  a Hiena foi a correr chamar a Lebre e disse,  "Vamos depressa ter com o Rei,  porque ele está muito doente. Ele mandou-me chamar-te." A lebre levantou-se e foi,  chegando perante o Rei,  dizendo,  "Cheguei,  meu Rei! Ouvi dizer que o rei precisava de mim e por isso vim,  Grande Rei."
+P8	O Leão respondeu,  "Estou extremamente feliz por te ter perto de mim,  minha Lebre. Chamei-te eu próprio,  Lebre,  porque a minha vida está por um fio. Tenho uma doença incurável. Mas a Hiena sussurrou-me que a Lebre tem a cura para esta minha doença."
+P9	O Leão respondeu,  "Não te preocupes,  Lebre,  com esse remédio difícil de encontrar. O pássaro que voa é aquele que pode ser apanhado. Vá lá,  fala-nos desse remédio!"
+P10	E a Lebre respondeu,  "Ó meu Rei,  quando digo que o remédio é difícil de encontrar,  não quero dizer que se encontra longe. Para que fiques curado de uma vez,  deves usar uma pomada feita com o coração de uma hiena."
+P11	Quando a Hiena ouviu isto,  começou a tremer por todo o lado,  porque tinha sido ela que tinha dito ao Leão que a Lebre conhecia o remédio para a sua doença. Era inútil tentar contrariar a Lebre em relação ao remédio de que ela tinha falado.
+P12	Por isso,  a Hiena acabou por fugir e nunca mais foi visitar o Leão.
+
+images:
+
+illustrations/pages/10217.png
+illustrations/pages/10213.png
+illustrations/pages/10214.png
+illustrations/pages/10215.png
+illustrations/pages/10216.png
+illustrations/pages/10217.png
+illustrations/pages/10218.png
+illustrations/pages/10219.png
+illustrations/pages/10220.png
+illustrations/pages/10221.png
+illustrations/pages/10223.png
+illustrations/pages/10224.png
+illustrations/pages/10225.png
+
+translations:
+
+English (Adaptation)	Lion is Sick	id=10242

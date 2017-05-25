@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=13458&d=0&a=1
+id:	13458
+title:	Obusera
+author:	Rose Alungho
+artist:	Catherine Groenewald
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13458.png
+desc:	Bbaabba anyiya obusera obwe hyomumugamba.
+
+page_text:
+
+P1	Zama getegeha ohutina hu somero.
+P2	Bbaabba anyiya obusera obwe hyo'mumugamba.
+P3	''Maama aŋosa obusera bulaŋi, '' pogaloma Zama.
+P4	Obusera buŋa Zama amaani aga tiina hu somero.
+P5	Obusera bunyiye.
+P6	Bbaabba ajuha amabeere mu muhago.
+P7	Bbaabba ndowosa nti obusera wuno bwenda suukali obundi.
+P8	Obusera wa maama buŋooma nyo ohusingaho owa bbaabba.
+P9	"Bbaabba peeho sukaali owundi?" Zama gasunga.
+P10	Bbaabba aŋa Zama sukaali mungi.
+P11	''Wu bbaabba otaye cumbi mu busera wange!''.
+P12	"Bbaabba,  maama ana habe ŋaali engo?" Zama awuusa.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+IciBemba (Translation)	Umusunga	id=18578
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

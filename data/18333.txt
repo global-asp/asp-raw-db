@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=18333&d=0&a=1
+id:	18333
+title:	Ox and Donkey
+author:	Ursula Nafula
+artist:	Salim Kasamba
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18333.png
+desc:	A story about a hard-working ox and a clever donkey.
+
+page_text:
+
+P1	A farmer had an old ox.
+P2	He also had a donkey. The ox and the donkey were friends.
+P3	When the day ended,  the ox said,  "I am very tired today."
+P4	The next day,  the ox said to the donkey,  "I did not have any rest."
+P5	The donkey replied,   "I went to the market today. I worked harder than you."
+P6	The next day,  again the ox said,  "Today was a very bad day for me."
+P7	The donkey told the ox,  "When the farmer comes,  lie down and say,  'Moo! Moo!' He will let you rest."
+P8	The next morning,  the ox cried,  "Moo! Moo!" The farmer let him rest.
+P9	The farmer took the donkey out to plough the land.
+P10	The donkey worked hard all day. In the evening,  he was very tired.
+P11	The donkey said,  "I heard the farmer saying you are tired and sick. He will kill you for meat."
+P12	The ox said,  "I will work tomorrow. I feel better now."
+
+images:
+
+illustrations/pages/15496.png
+illustrations/pages/15491.png
+illustrations/pages/15492.png
+illustrations/pages/15493.png
+illustrations/pages/15494.png
+illustrations/pages/15495.png
+illustrations/pages/15496.png
+illustrations/pages/15497.png
+illustrations/pages/15498.png
+illustrations/pages/15499.png
+illustrations/pages/15500.png
+illustrations/pages/15501.png
+illustrations/pages/15502.png
+
+translations:
+
+English (Original)	በሬ እና አህያ	id=15505
+Kiswahili (Translation)	Fahali Na Punda	id=15612
+Portuguese (Translation)	O Boi E O Burro	id=18844

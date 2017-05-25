@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=17966&d=0&a=1
+id:	17966
+title:	የአባት ውርስ
+author:	መዘምር ግርማ
+artist:	Jacob Kono
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17966.png
+desc:	ስለ አባት ጥበብ፣ ስለ ልጅ ጉብዝና እና ስለ እርሻ ዋጋ የሚተርት ተረት፡፡ (ይህ ተረት በለሙ ዋቺሌ በኦሮምኛ ተተረተ፡፡ የእንግሊዝኛ ቅጂውን ኤልሳቤጥ ሊያርድ ጻፉት፡፡
+
+page_text:
+
+P1	በድሮ ጊዜ ሁለት ታታሪ ባልና ሚስት ገበሬዎች ነበሩ፡፡ ሁለት ልጆችም ነበሯቸው፡፡
+P2	ባልና ሚስቱ ጠንክረው ስለሚሰሩ ሀብታሞች ነበሩ፡፡ ልጆቻቸውም ጥሩ ሕይወት እንዲኖሩላቸው ይፈልጉ ነበር፡፡ ልጆቻቸውንም ምንም ዓይነት ስራ አያሰሯቸውም ነበር፡፡
+P3	ከተወሰነ ጊዜ በኋላ ግን ሚስትዮዋ ሞተች፡፡
+P4	አሁንም ባልየው ልጆቹ ስራ እንዲሰሩ አልፈለገም፡፡ የውጪውንም ሆነ የቤት ውስጡን ስራ የሚሰራው እሱው ነበር፡፡
+P5	ግዜው እየገፋ ሲሄድ ግን አባትዬው አረጀ፡፡ ታመመ፡፡ ከሞተም በኋላ ልጆቹ ምን እንደሚበጃቸው ይጨነቅ ጀመር፡፡ ራሳቸውን አይችሉልኝም በማለት ሃሳብ ገባው፡፡
+P6	ልጆቹንም ጠራቸውና ''የማወርሳችሁ በማሳው ላይ የተቀበረ ወርቅ አለ፡፡ ቆፍራችሁ አግኙት'' አላቸው፡፡
+P7	ጎረቤቶቹንም ጠርቶ ''እንግዲህ መሞቴ ነው፤ ልጆቼም ረዳት አልባ ናቸው፡፡ ራሳቸውን መቻልን እስኪያውቁ ድረስ አግዙልኝ'' አለ፡፡
+P8	ሰውየውም ከሞተ በኋላ ሰዎቹ ለልጆቹ ለተወሰነ ጊዜ ምግብ ሰጧቸው፡፡
+P9	ወንድማማቾቹም ወርቃቸውን ሌላ ሰው እንዳይወስድባቸው በመፍራት ራሳቸው ማሳውን ለመቆፈር ወሰኑ፡፡
+P10	ማሳውን ሙሉ በሙሉ ቢቆፍሩም ወርቅ ግን ሊያገኙ አልቻሉም፡፡
+P11	ቁጭ ብለው ሳለ አንደኛው ልጅ ሌላኛውን ''አባታችን አታሎናል ማለት ነው እንዴ?'' በማለት ጠየቀው፡፡ ሌላኛውም ''አይ፣ አባታችን እርሻ ወርቅ መሆኑን ሊያስተምረን ፈልጎ ነው፡፡ ማሳውን ቆፍረንና አርሰን ከዘራነው እንበለጽጋለን'' በማለት መለሰለት፡፡
+P12	በመሆኑም መሬቱን ቆፍረው ዘር ዘሩበት፡፡ ስንዴ አምርተውም በእጅጉ በለጸጉ፡፡
+
+images:
+
+illustrations/pages/17228.png
+illustrations/pages/17218.png
+illustrations/pages/17219.png
+illustrations/pages/17220.png
+illustrations/pages/17221.png
+illustrations/pages/17222.png
+illustrations/pages/17223.png
+illustrations/pages/17666.png
+illustrations/pages/17669.png
+illustrations/pages/17226.png
+illustrations/pages/17227.png
+illustrations/pages/17228.png
+illustrations/pages/17229.png
+
+translations:
+
+Afaan Oromo (Translation)	Dhaala Abbaa	id=17965
+English (Original)	Father's Inheritance	id=17523
+Kiswahili (Translation)	Urithi Kutoka Kwa Baba	id=17937

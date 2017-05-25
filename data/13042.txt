@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=13042&d=0&a=1
+id:	13042
+title:	Zincani Khulu
+author:	Octavius Masemola and Aubrey Mahlakwane
+artist:	Sandy Lightly
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13042.png
+desc:	ULebo ukhulile
+
+page_text:
+
+P1	"Mma," kubiza uLebo. "Iza uzokubona. Izembatho lezi zoke zincani khulu kimi!" "Ithi ngizibone," kutjho unina.
+P2	"Qala irogo lami. Lincani khulu," kutjho uLebo. "Iye,  kunjalo," kuvuma unina. "Ungambulela uNomsa irogo lakho."
+P3	"Qala amabhrugu wami. Mancani khulu," kutjho uLebo. "Iye,  mancani," kuvuma unina. "Ungawambulela uNomsa nawo."
+P4	"Qala iskipa sami. Sincani naso," kutjho uLebo. "Iye,  sincani," kuvuma unina. "Ungambulela uNomsa."
+P5	"Qala ijezi yami. Yincani nayo," kutjho uLebo. "Iye,  yincani nayo," kuvuma unina. "Ungayambulela uNomsa nayo."
+P6	"Qala ijasi yami yezulu. Yincani," kutjho uLebo. "Iye,  yincani nayo," kuvuma unina. "Ungayambulela uNomsa nayo ijasi yezulu leyo."
+P7	"Qala amakowusu wami. Mancani khulu nawo," kutjho uLebo. "Iye,  mancani," kuvuma unina. "Ungambulela uNomsa nawo."
+P8	"Qala amateki wami. Mancani nawo," kutjho uLebo. "Iye,  mancani, "Kuvuma unina. "Ungawambulela uLebo amateki la."
+P9	"Nje sele unezembatho ezinengi," kutjho uLebo. "Awa! Anginazo ezinengi," kutjho uNomsa. "Lezi zikhulu kimi zoke!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te Klein	id=11428
+English (Original)	Too Small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane Izimpahla Zami	id=2504
+Kiswahili (Translation)	Ndogo Sana, Kubwa Sana	id=7877
+Luganda (Translation)	Ntono Nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Bibombi Naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ga Di Ntekane	id=2509
+Sesotho (Lesotho) (Translation)	Ha Li Ntekane	id=2512

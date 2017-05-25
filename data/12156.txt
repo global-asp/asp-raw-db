@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=12156&d=0&a=1
+id:	12156
+title:	Counting Cats
+author:	
+artist:	Jesse Breytenbach
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12156.png
+desc:	Counting book
+
+page_text:
+
+P1	How many cats? 0 Zero cats.
+P2	How many cats? 1 One cat.
+P3	How many cats? 2 Two cats.
+P4	How many cats? 3 Three cats.
+P5	How many cats? 4 Four cats.
+P6	How many cats? 5 Five cats.
+P7	How many cats? 6 Six cats.
+P8	How many cats? 7 Seven cats.
+P9	How many cats? 8 Eight cats.
+P10	What's this we see? A kitten is stuck in a tree! "I will rescue you!"
+P11	"Mama,  can we keep him? Just one more." How many cats? 9 Nine cats.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+

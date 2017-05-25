@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=2792&d=0&a=1
+id:	2792
+title:	Anang’a a Ng’Amotokae
+author:	Alfred Esinyen and Simon Ipoo
+artist:	Cathy Feek
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2792.png
+desc:	Abu edia king’olik ipudat ka napoleon ebukorosi
+
+page_text:
+
+P1	Abu ayong eng'olik aloor ekokori kwap emoru.
+P2	Topeu ipudat edoki emoru.
+P3	Eruoro ekamian aloori kang'ina anasim keng.
+P4	Pe amisikinit ngesi erukudi ang'amotokae.
+P5	Apotu ng'amotokae ng'una tanang'as retete.
+P6	Abu awuiwui na esibitar to na arek todolut aking'arakin lu awanan.
+P7	Todolut ng'amotokae ng'aarei kiriasi aloori ka ipudat ng'ini.
+P8	Abu ayong atoriang' akin lokojokon.
+
+images:
+
+illustrations/pages/347.png
+illustrations/pages/347.png
+illustrations/pages/348.png
+illustrations/pages/349.png
+illustrations/pages/350.png
+illustrations/pages/351.png
+illustrations/pages/367.png
+illustrations/pages/353.png
+illustrations/pages/354.png
+
+translations:
+
+Aringati (Translation)	Drị̃lẹ́-Ũnzí Ịsụ́ Drãdrị̃gá Ꞌi	id=6436
+Ateso (Translation)	Akangasi	id=2835
+English (Original)	Accident	id=915
+isiZulu (Translation)	Ingozi	id=8721
+Kakwa (Translation)	Koŋo Naro	id=9050
+Kikamba (Translation)	Mbanga	id=2787
+Luganda (Translation)	Akabenje	id=2788
+Lugbarati (Translation)	Drileonzi	id=2598
+Lugbarati (Official) (Translation)	Drìléònzɨ́	id=8779
+Lumasaaba (Translation)	Bunyaalifu	id=916
+Lumasaaba (Translation)	Bunyaalifu	id=8722
+Lunyole (Translation)	Ahabenje	id=2789
+Lusoga (Translation)	Akabendhe	id=2790
+Ngakarimojong (Translation)	Anang’a a Ng’Amotokae	id=8723
+Oluwanga (Translation)	Amasila	id=2791
+Sabinyi (Translation)	Wuyinto	id=2793
+Sepedi (Translation)	Kotsi	id=7853
+Setswana (Translation)	Kotsi	id=2794

@@ -1,0 +1,73 @@
+url:	http://africanstorybook.org/reader.php?id=17575&d=0&a=1
+id:	17575
+title:	Uncede Inkosi Yeentaka
+author:	Xolisa Guzula
+artist:	Wiehan de Jager
+lang:	isiXhosa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17575.png
+desc:	Iintaka zazifuna ukuba nenkosi. Inokuba kuza kukhethwa eyiphi intaka ibe yinkosi?
+
+page_text:
+
+P1	Kudala,  iintaka zazingenayo inkosi. Ngenye imini zagqiba ekubeni zibe nentlanganiso,  apho zaziza kuxoxa ngokuba ngubani na owayenokuba yinkosi yazo. Zabuzana ukuba ngubani owayengaba yinkosi yazo?
+P2	"UKhozi womelele kwaye ukhangeleka enentsobi yobukhosi." Yatsho enye intaka. "Hayi angekhe,  uKhozi akanaso isitshaba. Futhi xa ekhwaza akavakali kakuhle." "Kungcono uNciniba ngoba yena mkhulu,  xa ekhala uvakala njengengonyama." Kwatsho enye intaka. "Hayi,  soze,  akakwazi ukubhabha,  inkosi yeentaka kufanele ukuba ikwazi ukubhabha."
+P3	"Mna ndicinga ukuba ndingaba yinkosi," watsho uPikoko edlalisa isisila sakhe. "Ndimhle kakhulu." "Kodwa uyaziqhenya," kwatsho uSikhova. "Mna ndinamehlo amakhulu kunazo zonke iintaka. Ndingaba yinkosi." "Hayi,  unotshe. Ungaba yinkosi njani wena Sikhova njengokuba ulala xa kuza kusa nje!" Zonke iintaka zamphikisa.
+P4	Zathi zisaqhubeka nengxoxo,  enye yeentaka yeza nombono wokuba okungcono iintaka zibhabhe. Eyona ibhabhela phezulu kakhulu ibe yiyona eza kuba yinkosi yeentaka. Zavumela phezulu zonke iintaka,  zaqalisa ukubhabha zisiya phezulu esibhakabhakeni.
+P5	URhanisi wabhabha usuku olunye wabhabhela phezu kwezona ntaba ziphakamileyo elizweni. UKhozi yena wabhabhela phezu kweentaba eziluhlaza iintsuku ezimbini. Kodwa uXhalanga wabhabhela phezulu iintsuku ezintathu engami,  entingela ngqo kufutshane nelanga. Wathi esabhabha njalo uXhalanga,  suka waviwa zezinye iintaka ekhwaza lisithi "Ndiphezulu,  ndiyinkosi!"
+P6	Kodwa ngentla kwakhe uXhalanga wesuka weva ngelizwi elincinci lisithi,  "Tswi,  tswi,  tswi! Ndiphezulu ndiyinkosi." Kwakusitsho eyona ntaka encinane iNcede. Kwathi kanti yayikhwele ephikweni likaXhalanga ngelixa entingela phezulu esibhakabhakeni!
+P7	"Awusokuze undogqithe," watsho uXhalanga entingela phezulu kwakhona. Wabhabha de waphelelwa ngamandla. Waphinda wakhwaza futhi "Ndiphezulu Ndiyinkosi yenu."
+P8	Kodwa ngaphantsi kwephiko lakhe kwakusazimele uNcede. Waphuma uNcede,  "Tswi,  tswi! Tswi,  tswi! Ndim intaka encinci,  ndiyinkosi."  Kodwa uXhalanga wayediniwe ukuba angabasantingela phezulu.
+P9	Wehlela ngezantsi kodwa uNcede wayesazifihle phantsi kwephiko lakhe. Ezinye iintaka zazinomsindo kakhulu nguNcede. Zazimlindele ukuze athi xa efika nje zimxuthe zonke iintsiba zakhe.
+P10	Kodwa intaka encinane yabona indlela ezinye iintaka ezazinomsindo ngayo. Ngokukhawuleza yehla yangena emngxunyeni wenyoka ongenanto. Iintaka zathi kuSikhova,  "Wena S'khova ngoba unamehlo amakhulu,  gada uNcede umbambe xa ephuma." Ngokunjalo,  uSikhova wahlala phambi komngxunya wawugada.
+P11	Kodwa emini xa ilanga selifudumele uSikhova wabiwa bubuthongo walala. Intaka encinci uNcede yalunguza yabona uSikhova elele,  yaze ngokukhawuleza yanyonyoba,  yaphuma yabhabha.
+P12	USikhova waba neentloni ngento ayenzileyo,  yokubhungcisa uNcede. Ukusukela ngaloo mini,  uSikhova waqala ukuzingela ebusuku,  aze alale emini,  azimele ukuze angabonwa zezinye iintaka.
+
+images:
+
+illustrations/pages/306.png
+illustrations/pages/292.png
+illustrations/pages/295.png
+illustrations/pages/293.png
+illustrations/pages/294.png
+illustrations/pages/296.png
+illustrations/pages/299.png
+illustrations/pages/300.png
+illustrations/pages/301.png
+illustrations/pages/302.png
+illustrations/pages/305.png
+illustrations/pages/304.png
+illustrations/pages/307.png
+
+translations:
+
+Afrikaans (Translation)	Die Koning Van Die Voëls	id=10815
+Afrikaans (Translation)	Koning Van Die Voëls	id=20077
+Chinyanja (Translation)	Mfumu Ya Mbalame	id=15710
+ChiTonga (Translation)	Mwami Wabayuni	id=15709
+ChiTonga (Translation)	Mwami Wabayuni	id=18648
+CiNyanja (Translation)	Mfumu Yambalame	id=18667
+Dhopadhola (Translation)	Kere Pa Winyin	id=15763
+English (Original)	King of the Birds	id=920
+English (Adaptation)	The Clever Little Bird	id=5397
+French (Translation)	Le Roi Des Oiseaux	id=12680
+IciBemba (Translation)	Imfumu Yafyuuni	id=18687
+isiZulu (Translation)	Inkosi Yezinyoni	id=12645
+isiZulu (Adaptation)	Ungcede Inkosi Yezinyoni	id=13601
+Kikamba (Translation)	Musumbi Wa Nyunyi	id=3123
+Kiswahili (Translation)	Mfalme Wa Ndege	id=3116
+Lugbarati (Translation)	Opi Aria Yi Ni	id=3121
+Lugwere (Translation)	Kabaka We Nyonyi	id=16552
+Lumasaaba (Translation)	Umuyiinga We Binywiinywi	id=3117
+Lumasaaba (Translation)	Umuyiinga We Binywiinywi	id=8697
+Lunyole (Translation)	Habaha W’Enyuni	id=3119
+Maa (Translation)	Olkínkí Le Oó Imotónyi	id=7206
+Oluwanga (Translation)	Omwami Wa Amayoni	id=3120
+Portuguese (Translation)	Rei Das Aves	id=16660
+Sepedi (Translation)	Kgoši Ya Dinonyana	id=18160
+Sesotho (South Africa) (Translation)	Morena Wa Dinonyana	id=20036
+Setswana (Translation)	Kgosi Ya Dinonyane	id=15043
+SiLozi (Translation)	Mulena Walinyunywani	id=18730
+Tshivenda (Translation)	Khosi Ya Zwiṋoni	id=18183
+Xitsonga (Translation)	Hosinkulu Ya Swinyenyana	id=18871

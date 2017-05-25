@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=1958&d=0&a=1
+id:	1958
+title:	Ho Bala
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Gay Galsworthy
+lang:	Sesotho (Lesotho)
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1958.png
+desc:	In the wild at a waterhole we count the animals coming to drink. What do you think happens when the lion comes to drink?
+
+page_text:
+
+P1	Ka letsatsi le leng tlou engoe eile ea ea ho oa noa metsi.
+P2	Eaba ho ba le giraffe tse peli li eo noa metsi le tsona.
+P3	Ho ne ho ena le tse tharo tse tona le linonyana tse'ne. Kaofela hoa tsona line line linoa metsi.
+P4	Likhants'i tse hlano le likolobe tse ts'eletseng line li eo noa metsi.
+P5	Linqankane tse suping le lithlapi tse robeli line lile ka metsing.
+P6	Li Qoakha tse robong line lilo noa mestsi.
+P7	Tau e'nogoe ea kena hoea noa metsi.
+P8	Ke mang ea senatla se seholo,  aka tsoelang pele ka ho noa metsie?
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Aringati (Translation)	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ	id=6985
+Ateso (Translation)	Aimar	id=9655
+English (Original)	Counting	id=1784
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lugbarati (Official) (Translation)	Kàlàfé Làzà	id=8753
+Lunyole (Translation)	Ohubala	id=1954
+Lusoga (Translation)	Tubala Bazira	id=1955
+Sepedi (Translation)	Go Bala	id=1956
+Setswana (Translation)	Go Bala	id=2807

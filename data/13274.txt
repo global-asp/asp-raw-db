@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=13274&d=0&a=1
+id:	13274
+title:	Punition
+author:	Suzanne Alban and Translators without Borders
+artist:	Melany Pietersen
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13274.png
+desc:	Quelle est la punition quand on est glouton et qu’on mange trop de fruits ?
+
+page_text:
+
+P1	Un jour,  Maman a ramassé beaucoup de fruits.
+P2	Nous lui demandons: "Pouvons-nous manger des fruits?" Maman répond: "Nous les mangerons ce soir."
+P3	Mon frère Rahim est glouton. Il goûte tous les fruits. Il en mange beaucoup.
+P4	"Regarde ce qu'a fait Rahim!"  crie mon petit frère. Et moi,  je dis: "Rahim est méchant et égoïste."
+P5	Maman est fâchée contre Rahim.
+P6	Nous aussi,  nous sommes fâchés contre Rahim. Mais Rahim ne regrette rien.
+P7	"Tu ne vas pas punir Rahim?"  demande Petit Frère.
+P8	"Rahim",  prévient maman,  "tu le regretteras bientôt."
+P9	Rahim ne se sent pas bien.
+P10	Il gémit: "J'ai mal au ventre!"
+P11	Maman savait que cela arriverait. Ce sont les fruits qui punissent Rahim!
+P12	Plus tard,  Rahim vient s'excuser et promet: "Je ne serai plus jamais aussi glouton." Et nous,  nous le croyons.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+isiNdebele (Translation)	Isijeziso Sakathemba	id=13803
+isiZulu (Adaptation)	Umhobholo	id=13326
+isiZulu (Translation)	Isijeziso	id=15341
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Oluwanga (Translation)	Eshinyasio	id=19592
+Portuguese (Translation)	Castigo	id=18855
+siSwati (Translation)	Sijeziso Sabobo	id=13868

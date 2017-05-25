@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=7881&d=0&a=1
+id:	7881
+title:	Mbweha Na Jua
+author:	Brigid Simiyu
+artist:	Manyeka Arts Trust
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/7881.png
+desc:	Bweha mvivu anapendezwa na jua na kutaka kumpeleka nyumbani kwao ili akutane na babake.  Wanafunga safari huku Bweha akimbeba jua mgongoni
+
+page_text:
+
+P1	Hapo zamani,  palikuwa na Mbweha mvivu pia mjinga. Aliishi na babake mzee katika kichaka cha Kalahari.
+P2	Asubuhi moja,  Mbweha Mzee aliamka na kumpata mwanawe amelala juani. Chakula hakikuwa tayari na mbuzi walikuwa bado zizini! "Wewe kijana,  u mvivu sana! Nenda ukamtafute mke. Nimezeeka sana siwezi kukukimu tena," babake Bweha alisema. Kwa hivyo Mbweha aliruka juu na kuwapeleka mbuzi malishoni.
+P3	Kichakani,  aliona kitu kilichoangaza juu ya mwamba. Alizidi kuukaribia mwamba. Alipozidi kuukaribia ndipo mwangaza ulipozidi kupendeza. Labda huyu ndiye mke wake!
+P4	"U-mzuri mno," Mbweha aliueleza mng'aro. "Lakini,  wewe ni nani? Mbona uko peke yako?" "Mimi ni jua," mng'aro ulijibu. "Familia yangu waliniacha hapa wakati walihama. Hawakutaka kunibeba maanake mimi ni moto sana."
+P5	Mbweha alisema,  "Lakini wewe u-mzuri sana! Mimi nitakubeba. Nitakupeleka nyumbani nikujulishe kwa babangu." "Sawa,  unaweza nibeba. Lakini,  usilalamike nikiwa joto kuliko unavyoweza kuhimili," jua lilisema.
+P6	Mbweha alienda nyumbani bila ngozi wala manyoya mgongoni,  vile vile bila mke. Babake aliuguza mgongo wa Mbweha kwa kutumia mafuta maalumu. Na manyoya yakamea mara nyingine.
+P7	Babake Mbweha aliuuguza mgongo wa Mbweha kwa kutumia mafuta.
+P8	Manyoya yakaota tena.
+P9	Manyoya hayo mapya yalikuwa rangi tofauti na yale mengine mwilini. Rangi zote tofauti zilimkumbusha Mbweha kila mara kutokuwa mjinga tena.
+
+images:
+
+illustrations/pages/5253.png
+illustrations/pages/5246.png
+illustrations/pages/5247.png
+illustrations/pages/5250.png
+illustrations/pages/5251.png
+illustrations/pages/5252.png
+illustrations/pages/5253.png
+illustrations/pages/5255.png
+illustrations/pages/5256.png
+illustrations/pages/5258.png
+
+translations:
+
+English (Original)	Jackal and the Sun	id=5276
+Lugbarati (Official) (Translation)	Òbólókó Pɨ Ètú Be	id=8786
+Lunyole (Translation)	Ehibbwe N’ Eryuba	id=8401
+Setswana (Translation)	Phokoje Le Letsatsi	id=7791

@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=9797&d=0&a=1
+id:	9797
+title:	Girl Called Norah
+author:	Annet Ssebaggala
+artist:	Melany Pietersen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9797.png
+desc:	Norah loves her doll and is worried one day when she thinks the doll is lost.
+
+page_text:
+
+P1	This is a girl called Norah. Her doll's name is Selah.
+P2	Norah loves her doll very much. Norah plays with Selah every day. She sleeps with her doll every night.
+P3	One day,  Norah could not find her doll. She looked everywhere,  but could not find Selah. Norah got very worried.
+P4	Norah did not know that her mother took Selah for washing. She hung the doll outside to dry.
+P5	"I can't find my doll," cried Norah. "Don't worry," said her mother.
+P6	That evening,  Norah's mother gave the doll to Norah. The doll was very clean. Selah looked like a new doll!
+P7	Norah was very happy. She jumped up and down. She danced. She laughed loudly.
+P8	And she thanked her mother.
+
+images:
+
+illustrations/pages/9482.png
+illustrations/pages/9482.png
+illustrations/pages/9483.png
+illustrations/pages/9481.png
+illustrations/pages/9485.png
+illustrations/pages/9489.png
+illustrations/pages/9486.png
+illustrations/pages/9487.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Adaptation)	This is Norah	id=16120
+French (Translation)	La Fille Du Nom De Norah	id=10762
+Luganda (Original)	Omuwala Norah	id=9795

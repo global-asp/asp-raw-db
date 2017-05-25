@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=1785&d=0&a=1
+id:	1785
+title:	Houses
+author:	Clare Verbeek
+artist:	Kathy Arbuckle
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1785.png
+desc:	Explore different kinds of houses that people live in. Which house would you like?
+
+page_text:
+
+P1	Mzi lives in a thatched house.
+P2	Thulani lives in a square house.
+P3	This house is a rectangle.
+P4	The roof of this house is a triangle.
+P5	This man is building his own house.
+P6	This house is new.
+P7	This house is old.
+P8	I wish I lived in this house.
+
+images:
+
+illustrations/pages/1591.png
+illustrations/pages/1591.png
+illustrations/pages/1592.png
+illustrations/pages/1593.png
+illustrations/pages/1594.png
+illustrations/pages/1595.png
+illustrations/pages/1596.png
+illustrations/pages/1597.png
+illustrations/pages/1598.png
+
+translations:
+
+Ateso (Adaptation)	Itogoi	id=10155
+Kikamba (Translation)	Nyumba	id=3087
+Luganda (Translation)	Amayumba	id=2866
+Lunyole (Translation)	Amayumba	id=2867
+Lunyole (Adaptation)	Jo Yi / Enyumba	id=9345
+Lusoga (Translation)	Amayumba	id=2868
+Lusoga (Translation)	Ndhuuba Nhumba	id=8170
+Ng’aturkana (Translation)	Ng'akais	id=18136
+Setswana (Translation)	Matlo	id=2869
+Somali (Translation)	Guriyo	id=17262

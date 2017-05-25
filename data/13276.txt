@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13276&d=0&a=1
+id:	13276
+title:	Les Chats De Selemeng
+author:	Gilles and Translators without Borders
+artist:	Jesse Breytenbach
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13276.png
+desc:	Selemeng a beaucoup de chats. Combien en a-t-il ?
+
+page_text:
+
+P1	Selemeng aime les chats. Il y a beaucoup de chats dans sa maison.
+P2	Selemeng a un chat noir. Ce chat mange beaucoup de viande.
+P3	Selemeng a un gros chat. Ce chat mange de tout.
+P4	Selemeng a un gros chat. Ce chat mange de tout.
+P5	Selemeng grimpe à l'arbre. Elle reste coincée avec le chat numéro trois. La mère de Selemeng doit l'aider à descendre.
+P6	Selemeng a deux chats paresseux. Ils dorment dehors au soleil toute la journée.
+P7	Selemeng a trois chats affairés. Ils attrapent des rats dans la cuisine pendant la nuit.
+P8	Selemeng a un chien. Il s'appelle Lirafi. Lirafi n'a pas d'amis. Il est triste.
+P9	Les chats de Selemeng n'aiment pas Lirafi. Ils le chassent de la maison. Lirafi s'enfuit.
+P10	Selemeng trouve Lirafi et le ramène à la maison. Les chats ne sont pas contents. Ils ne veulent pas revoir Lirafi.
+P11	Combien de chats a Selemeng? Selemeng a huit chats.
+P12	Combien de chiens a Selemeng? Elle a un chien. Où est Lirafi maintenant?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Aduroota Caala	id=12956
+English (Translation)	Selemeng's Cats	id=12155
+Kiswahili (Translation)	Paka Wa Selemeng	id=15558
+Sepedi (Translation)	Dikatse Tša Selemeng	id=12581
+Sesotho (Lesotho) (Original)	Likatse Tsa Selemeng	id=12027

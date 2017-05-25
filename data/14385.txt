@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=14385&d=0&a=1
+id:	14385
+title:	Xitori Xo Hlekisa
+author:	Arnold Mushwana
+artist:	Khothatso Ranoosi
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14385.png
+desc:	Lexi i xitori xa swifuwo na vinyi va swona lava swi rhandzaka swinene.
+
+page_text:
+
+P1	Kurhula u khandziye mbhongolo. Mbhongolo ya yena i ya bulu. Kurhula na mbhongolo ya yena va dya swin'we.
+P2	Kokwana N'wa-Twenti va sweka. U swekela epotweni ra ntima. Kokwana N'wa-Twonti na ximanga va dya swin'we.
+P3	Homu ya Nyiko i ya rihlaza ku fana na byanyi. Homu yi kandziya nenge wa Nyiko. A wisa baketi ra masi.
+P4	Tatana Hatima va na hanci ya ntima. Hanci ya vona yi na matimba. Hanci yi kota ku koka xikomu xo rima yi ri yoxe.
+P5	Ntsakisi u chayela movha. U famba na mbyana ya yena. Mbyana ya Ntsakisi yi hlometela hi fasitere!
+P6	Mbhongolo ya bulu,  homu ya rihlaza,  hanci ya ntima,  na ximanga xa kokwana va nghena endzeni ka movha wa tatana Ntsakisi. Hinkwavo va sungula ku yimbelela. U vona wonge i mani a nga na rito ro saseka eka vona?
+
+images:
+
+illustrations/pages/12087.png
+illustrations/pages/12086.png
+illustrations/pages/12085.png
+illustrations/pages/12087.png
+illustrations/pages/12088.png
+illustrations/pages/12089.png
+illustrations/pages/12090.png
+
+translations:
+
+English (Translation)	Funny Story	id=13306
+English (Translation)	Funny Story	id=18748
+isiXhosa (Translation)	Ibali Elihlekisayo	id=14959
+Sesotho (Lesotho) (Original)	Pale E Qabolang	id=13305
+Xitsonga (Translation)	Xitori Xo Hlekisa	id=18747

@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=17457&d=0&a=1
+id:	17457
+title:	Inkoko Na Magurijana
+author:	Emmanuel Sibomana
+artist:	Magriet Brink
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17457.png
+desc:	Ubucuti bwinkoko na Magurijana bwarangwaga no kurushanwa. Umunsi umwe Inkoko yababajwe no guhora itsindwa hanyuma ikorera Magurijana igikorwa cyubugome.
+
+page_text:
+
+P1	Inkoko na Magurijana bari inshuti. Ariko bahoraga barushanwa. Umunsi umwe biyemeje gukina umupira w'amaguru ngo barebe urusha undi.
+P2	Bagiye ku kibuga batangira gukina. Inkoko yakinaga yihuta ariko Magurijana akarushaho. Inkoko yateraga umupira ukagera kure,  ariko Magurijana akawutera kure cyane. Inkoko itangira kurakara.
+P3	Noneho biyemeza gutera za penariti. Magurijana ni we wabanje mu izamu. Inkoko itsinda igitego kimwe gusa. Hanyuma Inkoko na yo iba igiye mu izamu.
+P4	Magurijana yateye umupira n'ikirenge atsinda igitego. Magurijana akubita amacenga atsinda igitego. Magurijana atera umupira n'umutwe atsinda igitego. Magurijana atsinda ibitego bitanu.
+P5	Inkoko igira umujinya kubera ko yari yatsinzwe. Yari yatsinzwe bikomeye. Magurijana atangira guseka kubera uwo mujinya wa mucuti we.
+P6	Inkoko yararakaye ku buryo yahise ibumbura umunwa wayo ihita imira Magurijana.
+P7	Igihe Inkoko yatahaga,  ihura na nyina wa Magurijana. Nyina wa Magurijana abaza Inkoko ati,  "Waba wabonye umwana wanjye?" Inkoko ntiyasubiza. Nyina wa Magurijana atangira kugira impungenge.
+P8	Hanyuma nyina wa Magurijana yumva akajwi gato kavug akati,  "Mama ntabara!"  Nyina wa Magurijana areba hirya no hino anatega amatwi kurushaho. Yumva ka kajwi karaturuka mu nda y'Inkoko.
+P9	Nyina wa Magurijana arasakuza ati,  "Koresha ubushobozi bwawe budasanzwe mwana wanjye!"  Magurijana ashobora kuzana impumuro mbi ndetse akanabiha. Magurijana abikoze,  Inkoko itangira kumererwa nabi.
+P10	Inkoko itangira gutura imibi. Itangira kumira amacandwe no guciragura. Iritsamura,  irakorora. Magurijana yari yayibihiye.
+P11	Inkoko ikomezagukorora kugeza ubwo yarutse Magurijana wari wamaze kugera mu gifu cy'inkoko. Nyina wa Magurijana n'umwana we bahita burira igiti bajya kwihisha.
+P12	Kuva icyo gihe,  Inkoko na Magurijana babaye abanzi.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
+Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+ChiTonga (Translation)	Nkuku, Joongola	id=18643
+CiNyanja (Translation)	Nkuku Na Bongololo	id=18661
+English (Translation)	Chicken and Millipede	id=9094
+French (Translation)	La Poule Et Le Millepatte	id=9959
+French (Translation)	Poulet Et Mille-Pattes	id=10145
+Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
+Gurene (Translation)	Nͻbila La Katagune	id=12663
+Hausa (Translation)	Kaza Da	id=9977
+isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
+isiXhosa (Translation)	Unkukhu  Nosongololo	id=17517
+isiZulu (Translation)	Unkukhu Noshongololo	id=13535
+isiZulu (Adaptation)	Unkukhu Noshongololo	id=17452
+Kanuri (Translation)	Kuwui-a Dǝngaɍi-A	id=10039
+Lámnsoʼ (Translation)	Ŋgvəv Wun Ŋgom	id=16444
+Likpakpaanl (Translation)	Ukↄla Ni Gonlgonl	id=18776
+Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
+Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
+Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Portuguese (Translation)	O Frango E O Gongolo	id=16099
+Portuguese (Translation)	Galinha E Milípede	id=16477
+Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
+Sepedi (Translation)	Chicken and Millipede	id=11485
+Sepedi (Translation)	Kgogo Le Legokolodi	id=12410
+Sesotho (S.Africa) (Translation)	Kgoho Le Lefokolodi	id=14434
+Setswana (Translation)	Koko Le Sebokolodi	id=13973
+SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
+siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Tshivenda (Translation)	Khuhu Na Dongololo	id=14731
+Xitsonga (Translation)	Huku Na Khongoloti	id=14408
+Zarma (Translation)	Gorŋo-Ɲa Nda Konjanje	id=10103

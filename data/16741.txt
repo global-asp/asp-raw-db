@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=16741&d=0&a=1
+id:	16741
+title:	Test Dora Ebisoro Nm
+author:	Nomalizo Mguye
+artist:	Sandy Campbell
+lang:	Rutooro
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16741.png
+desc:	Explore the sounds made by different farmyard animals. What noise does the farmer make?
+
+page_text:
+
+P1	Dora ebisoro.
+P2	Ente egamba,  "Mooo!"
+P3	Embuzi egamba,  "Meee,  meee!"
+P4	Embaraasi egamba,  "Urrr!"
+P5	Empunu egamba,  "Grugru!"
+P6	Enkoko egamba,  "Kukuku!"
+P7	Embwa egamba,  "Boiboi!"
+P8	"Ssshhhh!" Dora ebisoro egamba.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/1750.png
+illustrations/pages/1751.png
+illustrations/pages/1752.png
+illustrations/pages/1753.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+Ateso (Translation)	Ongolia Ityiang Lu	id=9209
+English (Original)	Look at the Animals	id=1221
+English (Adaptation)	Domestic Animals	id=9680
+English (Adaptation)	Look at the Animals	id=10257
+isiXhosa (Translation)	Izilwanyana Zasekhaya	id=2539
+isiZulu (Translation)	Izilwane Zasepulazini	id=2540
+Kiswahili (Translation)	Watazame Wanyama	id=9479
+Kiswahili (Adaptation)	Wanyama Wa Kufugwa	id=9681
+Kiswahili (Adaptation)	Manyati Na Wanyama Wake	id=16742
+Lugbarati (Translation)	Mi Ne Nga Anyapa 'diyi	id=12648
+Lunyole (Translation)	Bona Esolo	id=11618
+Lunyole (Adaptation)	Boon Ebisolo	id=16737
+Rutooro (Adaptation)	Test Dora Ebisoro Sd	id=16736
+Rutooro (Translation)	Test Dora Ebisoro	id=16740
+Rutooro (Adaptation)	Test Dora Ebisoro	id=16743
+Sepedi (Translation)	Diphoofolo Tša Ka Gae	id=2544
+Sesotho (Lesotho) (Translation)	Liphohofolo Tsa Polasing	id=2543

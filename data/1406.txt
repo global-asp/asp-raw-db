@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=1406&d=0&a=1
+id:	1406
+title:	Kotsi
+author:	Maphokane Mapule Mohlamme
+artist:	Cathy Feek
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1406.png
+desc:	A Mercedes car and a truck are involved in an accident.
+
+page_text:
+
+P1	Ke bone lori e kgolo e otlelwa go ya fase mo tseleng.
+P2	Mesedise yona e be otlelwa go ya godimo mo tseleng.
+P3	Mootledi wa lori o be a bolela ka selefounu.
+P4	O be a sa lebelela mo tseleng.
+P5	Go o ile gwa ba le kotsi e kgolo.
+P6	Ambulense le maphodisa ba ile ba fihla,  go tla go thuša.
+P7	Di lori tše pedi tša goga dikoloi le tšona di ile tša fihla. Di ile tša goga lori le koloi.
+P8	Ke be ke tšhogile.
+
+images:
+
+illustrations/pages/347.png
+illustrations/pages/347.png
+illustrations/pages/348.png
+illustrations/pages/349.png
+illustrations/pages/350.png
+illustrations/pages/351.png
+illustrations/pages/367.png
+illustrations/pages/353.png
+illustrations/pages/354.png
+
+translations:
+

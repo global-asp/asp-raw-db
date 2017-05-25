@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=10257&d=0&a=1
+id:	10257
+title:	Look at the Animals
+author:	Tabingwa Aisha and Mubbalya Charles
+artist:	Sandy Campbell, Wiehan de Jager and Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10257.png
+desc:	Explore the sounds made by different farmyard animals. What noise does the farmer make?
+
+page_text:
+
+P1	Look at the animals we keep at home.
+P2	The cow gives us milk.
+P3	The rabbits and cats are very friendly to human beings.
+P4	The horse says,  "Neigh."
+P5	The cows and goats are paid as bride price in Uganda.
+P6	The chicken says,  "Cluck."
+P7	The dog is a source of security at our homes.
+P8	The farmer looks after them so much.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+Ateso (Translation)	Ongolia Ityiang Lu	id=9209
+English (Original)	Look at the Animals	id=1221
+English (Adaptation)	Domestic Animals	id=9680
+isiXhosa (Translation)	Izilwanyana Zasekhaya	id=2539
+isiZulu (Translation)	Izilwane Zasepulazini	id=2540
+Kiswahili (Translation)	Watazame Wanyama	id=9479
+Kiswahili (Adaptation)	Wanyama Wa Kufugwa	id=9681
+Kiswahili (Adaptation)	Manyati Na Wanyama Wake	id=16742
+Lugbarati (Translation)	Mi Ne Nga Anyapa 'diyi	id=12648
+Lunyole (Translation)	Bona Esolo	id=11618
+Lunyole (Adaptation)	Boon Ebisolo	id=16737
+Rutooro (Adaptation)	Test Dora Ebisoro Sd	id=16736
+Rutooro (Translation)	Test Dora Ebisoro	id=16740
+Rutooro (Adaptation)	Test Dora Ebisoro Nm	id=16741
+Rutooro (Adaptation)	Test Dora Ebisoro	id=16743
+Sepedi (Translation)	Diphoofolo Tša Ka Gae	id=2544
+Sesotho (Lesotho) (Translation)	Liphohofolo Tsa Polasing	id=2543

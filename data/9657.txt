@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=9657&d=0&a=1
+id:	9657
+title:	Lwaki Wakikere Mubi Nnyo?
+author:	Ritah Katetemera
+artist:	Hélder de Paz Alexandre
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9657.png
+desc:	Olugero luno lukwata kungeri wamunya gye yalumbamu mukwano gwe wakikere olwo bubalagavu bwe.
+
+page_text:
+
+P1	Emyaka mingi emabega,  wamunya ne wakikere bali bamukwano. Olunaku lumu basalawo okugenda okunonya abagalwa mukibuga.
+P2	Wakikere yalina obujja olw'okuba nti wamunya yali mubalagavu nnyo.
+P3	Wakikere yagamba: Wakolaki okunyirira bwotyo? Ntunulira,  ndi mubi nnyo,  nkolentya olususu lwange?
+P4	Wamunya nagamba: wuliriza! Teka amazzi munsuwa ogateke kumuliro. Ekidako.
+P5	Naye wakikere nagamba: Ekyo mbadde nkimanyi. Sirika,  mukwano. Nagenda.
+P6	Natuuka ewaka nateeka amazzi munsuwa.
+P7	Amazzi bwegatandika okwesera,  neyebikamu.
+P8	N'olususu lwe lwona lwajja nomukira negukutukako.
+P9	Mukifo kyokubera omujagujagu era omubalagavu ng'omunya,  yafuuka kkangabaana.
+
+images:
+
+illustrations/pages/7077.png
+illustrations/pages/7069.png
+illustrations/pages/7070.png
+illustrations/pages/7071.png
+illustrations/pages/7072.png
+illustrations/pages/7073.png
+illustrations/pages/7074.png
+illustrations/pages/7075.png
+illustrations/pages/7076.png
+illustrations/pages/7077.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+English (Adaptation)	Why Frog is so Ugly - Colouring Book	id=17360
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+isiXhosa (Adaptation)	Kutheni Isele Lilibi? (Faka Imibala)	id=17551
+Kiswahili (Translation)	Sababu Chura Kuwa Na Sura Mbaya	id=8712
+Luganda (Adaptation)	Wakikere Ne Wamunya	id=13778
+Ng’aturkana (Adaptation)	Akidodok Nabworok	id=13522
+Portuguese (Translation)	Porquê a Rã É Tão Feia?	id=7477
+Portuguese (Translation)	O Porquê Do Sapo Ser Tão Feio	id=19259
+siSwati (Translation)	Kungani Sicoco Sibe Sibi	id=12610
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

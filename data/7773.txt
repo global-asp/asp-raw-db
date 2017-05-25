@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=7773&d=0&a=1
+id:	7773
+title:	My Daughter Polar
+author:	Cissy Namugerwa
+artist:	Vusi Malindi
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7773.png
+desc:	This story describes a girl called Polar who liked listening and telling stories.This made her loved by both her teacher and mother.
+
+page_text:
+
+P1	This my daughter Polar.
+P2	She is a good girl.
+P3	She likes telling stories.
+P4	I tell her stories.
+P5	Polar tells her friends stories too.
+P6	One day Polar told a very good story.
+P7	The story was about cooking.
+P8	Her teacher gave her a cake and all became happy.
+
+images:
+
+illustrations/pages/7511.png
+illustrations/pages/7511.png
+illustrations/pages/7517.png
+illustrations/pages/7510.png
+illustrations/pages/7511.png
+illustrations/pages/7509.png
+illustrations/pages/7510.png
+illustrations/pages/7516.png
+illustrations/pages/7515.png
+
+translations:
+

@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=12678&d=0&a=1
+id:	12678
+title:	L’Homme Qui Voulait Vivre Seul
+author:	Véronique Thomas and Translators without Borders
+artist:	Little Zebra Books and Trevor Kellog
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12678.png
+desc:	C’est l’histoire d’un homme qui ne voulait habiter près de personne. L’homme et sa femme s’en allèrent habiter  dans une maison isolée
+
+page_text:
+
+P1	Il était une fois un homme qui ne voulait pas habiter près de ses voisins. Il ne voulait pas non plus que sa femme rende visite à leurs voisins.
+P2	Un jour,  il s'en alla loin dans la brousse pour construire une maison,  loin de celles de ses voisins.
+P3	Il s'en allait tous les matins et revenait tard le soir.
+P4	Un soir,  l'homme tarda à rentrer chez lui. Une hyène vit ce que l'homme faisait.
+P5	La hyène alla frapper à la porte de la maison.
+P6	La femme,  pensant que c'était son mari,  ouvrit la porte. La hyène sauta sur elle et la dévora.
+P7	Quand l'homme rentra à la maison,  il vit que la hyène avait mangé sa femme. Il ne pouvait rien dire.
+P8	Et tout ceci parce qu'il ne voulait pas habiter près de ses voisins.
+
+images:
+
+illustrations/pages/7327.png
+illustrations/pages/7325.png
+illustrations/pages/7327.png
+illustrations/pages/7329.png
+illustrations/pages/7324.png
+illustrations/pages/7331.png
+illustrations/pages/7332.png
+illustrations/pages/7333.png
+illustrations/pages/7334.png
+
+translations:
+
+Afrikaans (Translation)	Die Man Wat Alleen Gewoon Het	id=11509
+Chinyungwe (Original)	Ona Ico Nkhukhala Awiri	id=7365
+English (Translation)	The Man Who Lived Alone	id=7366
+Luganda (Translation)	Omusajja Eya Beeranga Yekka	id=8290
+Lugbarati (Official) (Translation)	Ágú Àzɨ́ Ndráa A’Ápɨ A’Dúle Rɨ̀	id=12634
+Lumasaaba (Translation)	Umusaani Uwamenyatsaka Yenyene	id=8357
+Oluwanga (Translation)	Omusatsa Wamenya Yenyene	id=8288
+Portuguese (Translation)	O Homem Que Vivia Sozinho	id=17035
+Rutooro (Translation)	Omusaija Ayaikaraga Wenka	id=14936
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11553
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11556
+Sepedi (Translation)	Monna Yo a Bego a Dula a Le Tee	id=12411
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=12919
+siSwati (Translation)	Beyihlala Yodwa	id=13777

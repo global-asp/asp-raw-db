@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=8088&d=0&a=1
+id:	8088
+title:	Abangane
+author:	Zimbili Dlamini
+artist:	Catherine Groenewald
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8088.png
+desc:	Indaba mayelana nomfana nabangani bakhe
+
+page_text:
+
+P1	Igama lami nguSimo.
+P2	Nginabangane abane.
+P3	Amagama abo nguZizo,  uLele,  uSisa,  no-Ayanda.
+P4	Umngane wami uZizo uthanda ibhola.
+P5	Umngane wami uLele uthanda ukubhukuda.
+P6	Umngane wami uSisa uthanda umacashelana.
+P7	Umngane wami u-Ayanda uthanda ukufunda.
+P8	Mina-ke,  ngithanda konke abakuthandayo.
+P9	Ngidlala ibhola noZizo.
+P10	Ngibhukuda edamini noLele.
+P11	Ngidlala umacashelana noSisa.
+P12	Woza mngani. Wena,  uthandani?
+P13	Woza,  uzodlala ibhola nathi.
+P14	Woza,  uzobhukuda nathi.
+P15	Woza,  uzodlala umacashelana nathi.
+P16	Woza,  uzofunda nathi!
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Ṡuħàb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=10473&d=0&a=1
+id:	10473
+title:	I Know Colours
+author:	Nina Orange
+artist:	Jesse Breytenbach
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10473.png
+desc:	A wordless story showing the colours red
+
+page_text:
+
+P1	The first colour is red.
+P2	The third colour is yellow.
+P3	The fifth colour is blue.
+P4	The second colour is orange.
+P5	The fourth colour is green.
+P6	The seventh colour is violet.
+
+images:
+
+illustrations/pages/9853.png
+illustrations/pages/9839.png
+illustrations/pages/9843.png
+illustrations/pages/9849.png
+illustrations/pages/9841.png
+illustrations/pages/9846.png
+illustrations/pages/9854.png
+
+translations:
+

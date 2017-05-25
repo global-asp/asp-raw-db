@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=16097&d=0&a=1
+id:	16097
+title:	Grande Autocarro Azul
+author:	Translators without Borders and Andréa Marroquim
+artist:	Mango Tree
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16097.png
+desc:	Ebei e sua mãe estão à espera do grande autocarro azul para levá-los à cidade. Mas o autocarro azul quebrou. Como eles irão à cidade?
+
+page_text:
+
+P1	Na vila de Ebei havia apenas um autocarro. Ele era grande e azul. Era muito barulhento.
+P2	Um dia,  a mãe de Ebei disse: "Amanhã iremos à cidade para comprar seu uniforme da escola."
+P3	Ebei estava muito feliz. Eles iriam viajar no grande autocarro azul. Naquela noite,  ele não conseguiu dormir.
+P4	Ebei já estava pronto quando sua mãe chegou para acordá-lo.
+P5	Ebei e sua mãe caminharam até a paragem do autocarro. Eles esperaram pelo grande autocarro azul. Mas o autocarro não veio.
+P6	Outras pessoas chegaram na paragem. Eles reclamaram porque o autocarro estava atrasado. Perguntaram: "O autocarro nos deixou?"
+P7	Ebei estava preocupado. "Não conseguiremos ir à cidade e eu não poderei comprar meu uniforme",  ele pensou.
+P8	Algumas pessoas desistiram e voltaram para casa. Mas Ebei chorou e não quis ir embora. A mãe tentou acalmá-lo. "Vamos esperar mais um pouco",  ela disse.
+P9	De repente,  ouviram um barulho. Eles viram poeira no ar. O autocarro estava a chegar!
+P10	Mas este não era azul. E não era grande. O autocarro era pequeno e vermelho. As pessoas ficaram a olhar para o autocarro. Eles não entraram.
+P11	"Entrem! Entrem!"  gritou o motorista. "Hoje nós estamos muito atrasados",  ele disse.
+P12	Ebei e a mãe foram os primeiros a entrar. Logo todos entraram no pequeno autocarro vermelho.
+P13	Ebei olhou pela janela. Ele viu algumas pessoas na paragem.
+P14	E muita gente corria para pegar o autocarro. Mas era tarde demais. O autocarro estava cheio. O autocarro vermelho partiu para a cidade.
+P15	"Onde está o grande autocarro azul?"  perguntou a mãe de Ebei. "Quebrou",  respondeu o motorista. "Estamos a consertar. Virá amanhã",  ele falou.
+P16	Ebei não se importava com a cor do autocarro. Ele não se importava com o tamanho. Estava feliz porque este autocarro estava indo para a cidade.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

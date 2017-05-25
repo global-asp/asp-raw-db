@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=10106&d=0&a=1
+id:	10106
+title:	Namukayya
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Wiehan de Jager
+lang:	Zarma
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10106.png
+desc:	Alboro fo kaŋ hay ize’way iddu. A ne wando se da a mana alboro hay kulu nga ga a fay. Waybora hay taway yaŋ: alboro fon da wayboro fo. Deeda caw ga faham.
+
+page_text:
+
+P1	Waato,  Lungudo kwaaraa ra,  gonda alboro fo nda nga wande. I ga ne kurɲo se Donga,  wando mo Namukayya. I gonda ize wayboro iddu.
+P2	Waati kaŋ Namukayya du ize iyyanta gunda,  donga na a hanga candi: "Da ni kande ize-way hino wo,  kulu ni ga daray." Amma da ni kande ize alboro,  ay ga burɲe bambata te ni se.
+P3	Kaŋ hay-zaŋa to,  Namukayya koy ga di waybora kaŋ ga hayandi. A na a hã hala ize aru no wala wayboro.
+P4	A hay taway yaŋ,  alboro fo,  wayboro fo. A na waybora ma daŋ Mulongo,  albora mo Mukwa. Da a na Mukwa guna,  a ga kaani. Amma da a na Mulongo guna,  bina kulu no ga sara. A go ga miila kaŋ hari folloŋ no cindi nga se nga ma te.
+P5	Namukayya zuru ga dira ga Mulongo naŋ waybora kaŋ ga borey hyandi se.
+P6	A na ize-aro cabe Donga se nda farhã. A ma kaani gumo,  a na kwaaraa kulu burɲe.
+P7	Mukwa ka ga beeri ga te alboro hanno. Mulongo mo beeri ga te wandiyo hanno.
+P8	Han fo,  Mukwa go ga nga baaba almaney kuru,  kala a di wandiyo hanno fo. A ne: "Wandiya wo day no ay ga hiiji."
+P9	Waati kulu kaŋ a na a hã hiijay se kulu wandiya ga soobay ga hẽ no: "Mukhwana wefwe,  Mukhwana. So yakhupa omunwa,  Mukhwana. Nebebula omukhana,  Mukhwana. Barulaka khulwanda,  Mukhwana. Nebebula omusiani,  Mukhwana. Barera mungo muno,  Mukhwana. Iyeyi yakwa,  Mukhwana. Iyindi yakwa,  Mukhwana."
+P10	Han kulu kaŋ arwaso na sanno te a se,  wandiya ga hẽ day no. Abinde,  a koy nga ɲa kaŋ ga ti Namukayya do. A ne a se: "Ay di wandiyo hanno fo,  ay ga bar'a hiijay se. Amma waati kaŋ ay salaŋ a se kulu a ga hẽ no."
+P11	Maamaaci na a di kaŋ ɲaŋo ne a se: "Hẽẽno din,  manti yaamo hẽẽni no,  a ga cim,  ni wayme no,  araŋ taway yaŋ no. Ni baaba soofu alboro ga bisa wandiyo. Ay bindi,  ay na ni wayme furu waybora kaŋ ga borey hayandi do. Nga ga ay kande nin ni baaba do."
+P12	Waati kaŋ Mukwa na deeda te nga baaba se,  a faham kaŋ daray yaŋ te nga se. A na wando ce,  i na care gan aga koy waybora do nga Mulongo ta ga kande.
+P13	Waati kaŋ Mulongo ka nga baaba kwaara,  baabo nda kwaaraa dottiijey na hincin fo zeeri ga wi,  ga a kaayaŋo bine-farhã cabe.
+P14	Alwaati kayna banda,  bonkoono ize arzakante fo na Mulongo hiiji. A kande nga hayrayey se lakkal-kanay nda arzaka boobo.
+
+images:
+
+illustrations/pages/5807.png
+illustrations/pages/5806.png
+illustrations/pages/5807.png
+illustrations/pages/5808.png
+illustrations/pages/5809.png
+illustrations/pages/5810.png
+illustrations/pages/5812.png
+illustrations/pages/5813.png
+illustrations/pages/5814.png
+illustrations/pages/5815.png
+illustrations/pages/5817.png
+illustrations/pages/5818.png
+illustrations/pages/5820.png
+illustrations/pages/5822.png
+illustrations/pages/5824.png
+
+translations:
+
+English (Original)	Namukhaywa	id=5859
+French (Translation)	Namukhaywa	id=9961
+Fulfulde (Translation)	Namukhaywa	id=10024
+Hausa (Translation)	Namukhaywa	id=9991
+Kanuri (Translation)	Fanna	id=10041
+Kiswahili (Translation)	Namukhaywa	id=7874
+Luganda (Translation)	Namukwaya	id=8312
+Lugbarati (Official) (Translation)	Àyákáká	id=8788
+Lumasaaba (Translation)	Mukhaye	id=8305
+Lunyole (Translation)	Namwima	id=8404
+Maa (Translation)	Namukhaywa	id=7875
+Ng’aturkana (Translation)	Namukhaywa	id=8457
+Setswana (Translation)	Dineo	id=7800
+siSwati (Translation)	Namukhaywa	id=13078

@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=2956&d=0&a=1
+id:	2956
+title:	Oluyia Lwanje
+author:	Dophine Olesi and Rebeccah Atieno
+artist:	Kathy Arbuckle
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2956.png
+desc:	My family likes to read. Find out what each person is reading.
+
+page_text:
+
+P1	Omusiani wefu asomanga eshitabu shio khusukuli.
+P2	Mama wanje asomanga Ibibilia.
+P3	Omukhana wefu asomanga eshitabu shia obuteshi.
+P4	Khotsa wanje asomanga ligazeti.
+P5	Kukhu asomanga ligazeti.
+P6	Omukhana wefu omutiti asomanga eshitabu shie tsipicha.
+P7	Esomanga eshitabu shino.
+P8	Ndalanyala okhusoma buli shindu?
+
+images:
+
+illustrations/pages/1791.png
+illustrations/pages/1630.png
+illustrations/pages/1631.png
+illustrations/pages/1632.png
+illustrations/pages/1633.png
+illustrations/pages/1634.png
+illustrations/pages/1635.png
+illustrations/pages/1636.png
+illustrations/pages/1637.png
+
+translations:
+
+Aringati (Translation)	Lị́cọ́ Ãmadrị̂	id=7531
+Ateso (Translation)	Ekale Koosi	id=2946
+English (Original)	My Family	id=1792
+Kikamba (Translation)	Musyi Wakwa	id=2951
+Luganda (Translation)	Abantu B'ewaka	id=2952
+Lumasaaba (Translation)	Be Muungo Mweefwe	id=2954
+Lusoga (Translation)	Abomumaka Gange	id=2955
+Olukhayo (Translation)	Ifamili  Yanje	id=2953
+Setswana (Translation)	Lelapa La Me	id=2957

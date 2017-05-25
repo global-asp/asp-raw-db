@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=19468&d=0&a=1
+id:	19468
+title:	Izinzawu
+author:	Mlungisi Madlala and Ntombikayise Ngidi
+artist:	Tawanda Mhandu
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19468.png
+desc:	Umndeni wezinzawu uhlangana nesidalwa esingajwayelekile.
+
+page_text:
+
+P1	Umndeni wezinzawu kwakungumndeni othokozile. Wawunamantombazane amabili ayesiza umama endlini,  nabafana ababili ababephuma nobaba wabo bayozingela.
+P2	Ngesikhathi sesidlo santambama,  babexoxa ngalokho abakwenzile ngalolosuku.
+P3	Ubaba wayevame ukuzixwayisa izingane ukuthi zingadukeli kude ehlathini. Ngoba kunesidalwa esingajwayelekile esihlala lapho,  esifana nabo bexhunywe imizimba yabo ndawonye.
+P4	Kwathi ngelinye ilanga,  amantombazane edlala ukudoba emfuleni. Bagijima bazungeza isihlahla bahlangana ubuso nobuso nesidalwa esingajwayelekile: sinamehlo amabili,  amakhala amabili,  izandl'ezimbili,  izingalo ezimbili.
+P5	Bethukile,  bagijima bayotshel'abafowabo. Abafana abazange babakholwe. "Umbhedo wamantombazane nje lo!" kwasho bona abafana.
+P6	Base beya emfuleni ukuyohlola le nto.
+P7	Babheka,  babheka. Ababekubona nje utshani,  izihlahla nomfula. Umsindo owazwakal'esithubeni wabenza babheka phezulu.
+P8	Esihlahleni kwakulenga isidalwa esinezinyawo ezimbili,  imilenze emibili,  izingalo ezimbili,  izandla ezimbili. Abakwazang'ukulinda ukubona ubuso baso.
+P9	Manje,  kwase kuya umndeni wonke emfuleni. Isidalwa sasibalindile.
+P10	"Ningangilimazi!" kwasho isidalwa. "Ngifana nani nje." Wayelokhu ejika ngohlangothi ukuze babone unyawo olulodwa,  umlenze owodwa,  isandla esisodwa,  ingalo eyodwa,  iso elilodwa.
+P11	Sathi isidalwa,  "Siyefana. Umehluko nje ukuthi ngenkathi nidalwa nina ibumba lalingene ukuthi kwenziwe ucezu lwenu."
+P12	Zathola kanjalo-ke izinzawu ukuthi lesi yisidalwa okungamele zisesabe.
+
+images:
+
+illustrations/pages/19458.png
+illustrations/pages/19455.png
+illustrations/pages/19456.png
+illustrations/pages/19457.png
+illustrations/pages/19458.png
+illustrations/pages/19459.png
+illustrations/pages/19460.png
+illustrations/pages/19461.png
+illustrations/pages/19462.png
+illustrations/pages/19463.png
+illustrations/pages/19464.png
+illustrations/pages/19465.png
+illustrations/pages/19466.png
+
+translations:
+
+English (Original)	Creature With Two	id=19467
+Kiswahili (Translation)	Kiumbe Kilicho Na Viwili	id=20022

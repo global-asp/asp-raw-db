@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=1787&d=0&a=1
+id:	1787
+title:	How Many?
+author:	Clare Verbeek
+artist:	Sandra McDougall
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1787.png
+desc:	Count how many insects
+
+page_text:
+
+P1	How many legs do two ladybirds have?
+P2	How many wings do four birds have?
+P3	How many horns do three rhinos have?
+P4	How many trunks do five elephants have?
+P5	How many ears do seven dogs have?
+P6	How many tails do three monkeys have?
+P7	How many eyes do six cats have?
+P8	How many legs does one worm have?
+
+images:
+
+illustrations/pages/1786.png
+illustrations/pages/1600.png
+illustrations/pages/1599.png
+illustrations/pages/1601.png
+illustrations/pages/1602.png
+illustrations/pages/1603.png
+illustrations/pages/1604.png
+illustrations/pages/1605.png
+illustrations/pages/1606.png
+
+translations:
+
+Amharic (Translation)	ስንት?	id=13123
+Aringati (Translation)	Kí Sị́ Yã?	id=7229
+Ateso (Translation)	Imwasi Ayi?	id=2870
+Dhopadhola (Translation)	Adi?	id=19488
+Kikamba (Translation)	Syianaata?	id=2871
+Kiswahili (Translation)	Ni Ngapi?	id=9529
+Luganda (Translation)	Bimeka?	id=2872
+Lugbarati (Translation)	Yii Siya	id=12640
+Lumasaaba (Translation)	Biba Byeenga?	id=2873
+Lusoga (Translation)	Ameka?	id=2874
+Sabinyi (Translation)	Ata?	id=2875
+Setswana (Translation)	Tse Kae?	id=2876

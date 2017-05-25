@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=12173&d=0&a=1
+id:	12173
+title:	Dançando
+author:	Catarina Ribas
+artist:	Catherine Groenewald
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12173.png
+desc:	A poem about a girl who loves to dance. Her teacher finds this irritating
+
+page_text:
+
+P1	Eu danço quando estou contente,  Danço quando estou aborrecida,  Danço quando estou sozinha,  Danço quando estou zangada.
+P2	Minha professora disse: - Fique quieta! Não dance o dia todo.
+P3	Mas minha mãe disse: - Dançar torna você mais saudável,  Dançar faz você crescer. Um dia você será uma dançarina e a todos irá surpreender!
+P4	E eu disse: - Um dia,  eu vou dançar e as pessoas pagarão para me ver pulando e rodopiando. "Ela dança TÃO bem",  é o que elas dirão.
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+English (Original)	Dancing	id=2183
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lusoga (Translation)	Okukina	id=8167
+Setswana (Translation)	Mokibo	id=2695

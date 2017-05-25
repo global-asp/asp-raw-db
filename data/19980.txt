@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=19980&d=0&a=1
+id:	19980
+title:	Mebela ye mesupa ya molalatladi
+author:	Tara Appalraju
+artist:	Jesse Breytenbach
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19980.png
+desc:	Kanegelo ye e tsebagatsa dinomoro le mebala.
+
+page_text:
+
+P1	Ke eng seo e lego se serolwana.
+P2	ww.
+P3	ee.
+P4	hh.
+P5	ff.
+P6	gg.
+P7	hh.
+P8	gg.
+P9	hh.
+P10	hh.
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Dhopadhola (Translation)	Lifudu nitye gi cal abiryo	id=19961
+English (Translation)	Colours of a Rainbow	id=10463
+English (Adaptation)	7 Colours of a Rainbow	id=19760
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+Kikamba (Translation)	Utathi	id=15419
+Kiswahili (Original)	Rangi Za Upinde	id=10442
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+siSwati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

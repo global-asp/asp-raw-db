@@ -1,0 +1,87 @@
+url:	http://africanstorybook.org/reader.php?id=20023&d=0&a=1
+id:	20023
+title:	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 
+author:	Tseliso Masolane
+artist:	Mango Tree
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20023.png
+desc:	Thato le mmae ba emetse bese e kgolo e mmala wa botala ba lehodimo ho ba isa toropong. Ebe ba tla fihla toropong?
+
+page_text:
+
+P1	Ho ne ho na le bese e le nngwe feela motseng wa boThato. E ne e le kgolo e le mmala wa botala ba lehodimo. E ne e le lerata haholo.
+P2	Ka letsatsi le leng, mme  wa Thato a re, "Kamoso re ya toropong ho ya reka diaparo tsa hao tsa sekolo."
+P3	Thato o ne a thabile haholo. Ba ne ba tlo tsamaya ka bese e kgolo ya mmala wa botala ba lehodimo. O ne a sa kgone ho rabala bosiu boo.
+P4	Thato o ne a se a itokisitse ha mmae  a tlo mo tsosa.
+P5	Thato le mmae ba tsamaya ka maoto ho ya boemeleng ba bese. Ba ne ba emetse bese e e kgolo e mmala wa botala ba lehodimo. Empa bese ya se ka ya fihla.
+P6	Batho ba bang  ba  ile ba fihla boemelong ba bese. Ba ne ba ipelaetsa hobane bese e ne e sa fihla ka nako.
+
+"Bese e kae?" ba botsa.
+P7	Thato o ne a tshwenyehile. "Ha re na  kgona ho ya toropong. Ha ke na ho kgona ho ba le diaparo tse ntjha  tsa sekolo," a nahana.
+P8	Batho ba bang ba ne ba ikela hae. Empa Thato a lla ebile a sa batle ho boela hae.
+
+Mmae o ne a mo kgothatsa. "Re tla ema hanyenyane," a rialo.
+P9	Hanghang, ba ile ba utlwa modumo.
+
+Ba ile ba bona lerole moyeng.
+
+Bese e ne e tla!
+P10	Empa bese e ne e se e mmala o botala ba lehodimo. E ne e se kgolo. Bese e ne e le kgubedu ebile e le nyenyane. Batho ba  ne ba sa e palame.
+P11	"Palamang! Palamang!" mokganni a hweletsa. "Re morao nakong kajeno," a rialo.
+P12	Thato le mmae e ne e le bona ba pele ho palama bese. Kamora nakwana batho ba bang le bona ba palama bese e kgubedu e nyenyane.
+P13	Thato o ne a shebile ka fensetere. O ne a bona batho ba  bangata  boemelong ba bese.
+P14	Batho ba bangata ba ne ba matha ho tshwara bese. Empa ba ne ba le morao nakong. Bese e ne e tletse. Bese e kgubedu e ne e ya toropong.
+P15	"Bese e mmala wa botala ba lehodimo e kgolo e kae?" mme wa Thato a botsa.
+"E robehile," mokganni a araba.
+"Re a e lokisa. E tla fihla kamoso."
+P16	Thato o ne a sa tshwenyeha ka mmala wa bese. O ne a sa tshwenyeha ka boholo ba bese. O ne a thabetse feela hore bese e ya toropong.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

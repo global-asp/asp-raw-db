@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=16245&d=0&a=1
+id:	16245
+title:	The Sower
+author:	Little Zebra Books
+artist:	Tamsin Hinrichsen and Little Zebra Books
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16245.png
+desc:	Jesus parable of the sower depicted as if it happened in rural Africa.
+
+page_text:
+
+P1	       A sower went out to sow his seed.
+P2	And as he sowed,  some fell along the path and was trampled on,  and the wild birds devoured it.
+P3	Other seed fell on rock,  and when it came up,  it withered because it had no moisture.
+P4	Other seed fell among the thorns,  and they grew up with it and choked it.
+P5	But other seed fell on good soil and grew,  and it produced a hundred times as much grain."As he said this,  he called out,  "The one who has ears to hear had better listen!
+P6	Then his disciples asked him what this parable meant. He said,  "You have been given the opportunity to know the secrets of the kingdom of God,  but for others they are in parables,  so that although they see they may not see,  and although they hear they may not understand."
+P7	Now the parable means this: The seed is the word of God. Those along the path are the ones who have heard; then the devil comes and takes away the word from their hearts,  so that they may not believe and be saved. Those on the rock are the ones who receive the word with joy when they hear it,  but they have no root. They believe for a while,  but in a time of testing fall away.
+P8	As for the seed that fell among thorns,  these are the ones who hear,  but as they go on their way they are choked by the worries and riches and pleasures of life,  and their fruit does not mature.
+P9	But as for the seed that landed on good soil,  these are the ones who,  after hearing the word,  cling to it with an honest and good heart,  and bear fruit with steadfast endurance.
+
+images:
+
+illustrations/pages/16267.png
+illustrations/pages/16267.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16270.png
+illustrations/pages/16271.png
+illustrations/pages/16289.png
+illustrations/pages/16286.png
+illustrations/pages/16287.png
+illustrations/pages/16285.png
+
+translations:
+
+Ciyawo (Translation)	Citagu Ca Mundu Jwa Kumisa Mbeju	id=19040
+Portuguese (Translation)	“a Parábola Do Semeador”	id=19041

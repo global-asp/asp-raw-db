@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=9053&d=0&a=1
+id:	9053
+title:	Joy Agenda Ku Somero
+author:	Annet Ssebaggala
+artist:	Vusi Malindi
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9053.png
+desc:	Olugero luno lukwata ku Joy nga yetetekateeka okugenda ku somero nga ayambibwako maama we.
+
+page_text:
+
+P1	Joy yazannya olunaku lwonna.
+P2	Maama we yamugamba ayoze.
+P3	Yakwata akasenya ke.
+P4	Maama we yamuteera amazzi mu baafu.
+P5	Yesimuula mu maaso.
+P6	Yagenda ne yebaka wamu ne muganda we.
+P7	Ku makya yakeera nasenya amannyo.
+P8	Maama we yamuyambako okwambala.
+P9	Yasiba obuguwa bwengatto ze.
+P10	Joy agenda ku somero.
+P11	Joy ali mu Kibiina.
+
+images:
+
+illustrations/pages/7516.png
+illustrations/pages/7516.png
+illustrations/pages/7517.png
+illustrations/pages/7514.png
+illustrations/pages/7518.png
+illustrations/pages/7515.png
+illustrations/pages/7513.png
+illustrations/pages/7507.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+
+translations:
+
+English (Original)	Joy Goes to School.	id=7660
+Luganda (Translation)	Joy Agenda Ku Somero	id=9056

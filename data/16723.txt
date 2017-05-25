@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=16723&d=0&a=1
+id:	16723
+title:	O Leão Que Queria Amizade
+author:	Translators without Borders and Isabel Coelho
+artist:	Marleen Visser
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16723.png
+desc:	Um leão quer ser amigo de um humano. Conseguem viver em paz durante uns tempos
+
+page_text:
+
+P1	Era uma vez um leão que queria sair do mato e ter um amigo humano.
+P2	Assim,  o leão e o homem tornaram-se amigos.
+P3	Comiam juntos e partilhavam carne. O leão percebeu que o homem gostava de carne e começou a temer que o ele o matasse.
+P4	O leão temia que talvez o homem o lanceasse com as suas lanças. O homem temia que o leão o comesse à noite enquanto ele dormia.
+P5	Uma noite,  o homem sonhou que o leão estava a aproximar-se lentamente dele para o tentar comer.
+P6	O homem pegou na lança e gritou: "Se me tentares comer,  lanceio-te. O leão acordou e fugiu." "Eu bem disse que um dia este homem me vai matar."
+P7	A partir desse dia,  o homem e o leão deixaram de ser amigos. O leão mata humanos quando os encontra e os humanos matam leões se tiverem essa oportunidade.
+
+images:
+
+illustrations/pages/7341.png
+illustrations/pages/7340.png
+illustrations/pages/7341.png
+illustrations/pages/7343.png
+illustrations/pages/7347.png
+illustrations/pages/7345.png
+illustrations/pages/7344.png
+illustrations/pages/7349.png
+
+translations:
+
+Afrikaans (Translation)	Die Leeu Wat Vrienskap Wou Hê	id=11304
+Dhopadhola (Translation)	Simbwor Odwaro Mere	id=19483
+English (Original)	Lion That Wanted Friendship	id=7368
+English (Translation)	Lion That Wanted Friendship	id=11340
+French (Translation)	Le Lion Qui Voulait Un Ami	id=12677
+Ng’aturkana (Adaptation)	Eng'atuny Lokaelon	id=13289
+Setswana (Translation)	Lion That Wanted Friendship	id=11465

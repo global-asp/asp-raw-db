@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=17581&d=0&a=1
+id:	17581
+title:	Umvundla Phantsi Komthi
+author:	Xolisa Guzula
+artist:	Wiehan de Jager
+lang:	isiXhosa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17581.png
+desc:	UMvundla wayelele phantsi komthi wama-apile. Weva into nelizwi lisithi
+
+page_text:
+
+P1	UMvundla wayelele phantsi komthi wama-apile. Wathi esalele njalo kwawa qakatha i-apile phantsi.
+P2	Weva ngento nelizwi lisithi,  "Qakatha! Baleka,  Mvundla baleka!" Wavuka ngokukhawuleza wathi ngqe-e-e-e.
+P3	Wadibana nenkukhu,  yona eyathi,  "Ubaleka ntoni mvundla?" UMvundla waphendula,  "Nam andazi. Ndive ngento isithi,  'Qakatha! Baleka,  Mvundla baleka!'."
+P4	Yabaleka nenkukhu isothuswa yinto etshiwo ngumvundla. Baze bahlangana noNja.
+P5	UNja wathi,  "Nibaleka ntoni?" UNkukhu wathi,  "Nam andazi nje. Ndive ngomvundla,  esithi naye akayazi. Uve ngento isithi,  'Qakatha! Baleka,  Mvundla,  baleka!'."
+P6	Yabaleka nabo inja yakuva esi simanga.
+P7	Bahlangana noHashe. Wabuza uHashe wathi,  "Nibaleka ntoni?"  UNja wathi,  "Nam andazi. Ndive ngenkukhu isithi nayo ayazi. Ive ngomvundla esithi naye akazi. Uve ngento nje isithi,  'Qakatha! Baleka,  Mvundla,  baleka!'."
+P8	Labaleka nalo ihashe. Baze bonke bahlangana nembongolo.
+P9	Wabuza uMbongolo wathi,  "Nibaleka ntoni? UHashe wathi,  "Nam andazi. Ndive ngenja isithi nayo ayazi. Ithi ive ngenkukhu isithi nayo ayazi. Yona ive ngomvundla esithi naye akazi. Uve nje ngento isithi,  'Qakatha! Baleka,  Mvundla,  baleka!'.
+P10	Wabaleka noMbongolo.
+P11	Baze bahlangana nenkomo. Wabuza uNkomo wathi,  "Nibaleka ntoni?"  UMbongolo wathi,  "Nami andazi. Ndive ngoHashe esithi naye akazi. Uthi uve ngenja isithi nayo ayazi. Yona ithi ive ngenkukhu isithi nayo ayazi. Yona ive ngomvundla esithi naye akazi. Yena uve nje ngento isithi,  'Qakatha! Baleka,  Mvundla,  baleka!'."
+P12	UNkomo naye wabaleka,  baze bahlangana noKati. Wabuza wathi,  "Nibaleka ntoni Nkomo?"
+P13	Bonke bathi,  "Nathi asazi. Sive ngoMvundla esithi naye akazi. Uve nje ngento isithi,  'Qakatha! Baleka Mvundla,  baleka!'."
+P14	Wabaleka nokati.
+P15	Bahlangana nenkwenkwe eyayikhwele ibhayisekile. Yabuza yathi,  "Nibaleka ntoni?" Bonke bathi,  "Nathi asazi. Sive ngomvundla esithi naye akazi nje. Uve ngento isithi 'Qakatha! Baleka Mvundla,  baleka!'."
+P16	Yahleka inkwenkwe yaze yathi,  "Ngelixa i-apile belisiwiswa ngumoya emthini,  ndim othe,  'Baleka Mvundla,  baleka!'."
+
+images:
+
+illustrations/pages/7610.png
+illustrations/pages/7595.png
+illustrations/pages/7596.png
+illustrations/pages/7597.png
+illustrations/pages/7598.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/7601.png
+illustrations/pages/7602.png
+illustrations/pages/7603.png
+illustrations/pages/7604.png
+illustrations/pages/7605.png
+illustrations/pages/7606.png
+illustrations/pages/7607.png
+illustrations/pages/7608.png
+illustrations/pages/7609.png
+illustrations/pages/7610.png
+
+translations:
+
+Afrikaans (Translation)	Hasie Se Groot Skrik	id=10861
+Afrikaans (Translation)	Hasie Onder Die Boom	id=11221
+Afrikaans (Translation)	Hasie Onder Die Boom	id=20094
+ChiTonga (Translation)	Sulwe Mujungusi Acisamu	id=18656
+CiNyanja (Translation)	Kalulu Munsi Mwa Mutengo	id=18669
+Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
+English (Translation)	Rabbit Under the Tree	id=7734
+English (Adaptation)	Test Edit	id=16731
+French (Translation)	Le Lapin Sous Un Arbre	id=10154
+Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
+IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
+isiZulu (Original)	Unogwaja Ngaphansi Kwesihlahla	id=7664
+isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
+Kiswahili (Translation)	Sungura Chini Ya Mti	id=8438
+Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
+Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lunyole (Translation)	Enduyu Ŋaasi W’Omuyembe	id=16585
+Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
+Sepedi (Translation)	Mmutla Ka Tlase Ga Mohlare	id=18135
+Sesotho (South Africa) (Translation)	Mmutlanyana Tlasa Sefate	id=20049
+Setswana (Translation)	Mmutla Mo Tlase Ga Setlhare	id=15041
+SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
+siSwati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Tshivenda (Translation)	Muvhuḓa Fhasi Ha Muri	id=18322
+Xitsonga (Translation)	Kondlo Ehansi Ka Murhi	id=19020

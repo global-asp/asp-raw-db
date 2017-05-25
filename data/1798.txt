@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=1798&d=0&a=1
+id:	1798
+title:	This is Me
+author:	Clare Verbeek
+artist:	Kathy Arbuckle
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1798.png
+desc:	Read about me: who I am
+
+page_text:
+
+P1	This is my picture.
+P2	I am six years old.
+P3	This is a picture of my family.
+P4	My favourite food is fried fish and chips.
+P5	I can draw my hand.
+P6	I am six years old.
+P7	My telephone number is 033 – 3426587.
+
+images:
+
+illustrations/pages/1709.png
+illustrations/pages/1710.png
+illustrations/pages/1711.png
+illustrations/pages/1797.png
+illustrations/pages/1713.png
+illustrations/pages/1714.png
+illustrations/pages/1715.png
+illustrations/pages/1716.png
+
+translations:
+
+Afaan Oromo (Translation)	Kuni Ana	id=12232
+Ateso (Adaptation)	Enngo Naa.	id=10557
+Kikamba (Translation)	Uyu Ni Nye	id=2216
+Luganda (Translation)	Ono Ye Nze	id=2217
+Lugbarati (Translation)	‘Di Ma I	id=2718
+Lugbarati (Official) (Translation)	‘Dì Má Ɨ́	id=8763
+Lunyole (Translation)	Ono Ndiise	id=2218
+Setswana (Translation)	Ke Nna O	id=2219

@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=17165&d=0&a=1
+id:	17165
+title:	My Cat Koko
+author:	African Storybook
+artist:	Marleen Visser and SIL International
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17165.png
+desc:	The story is about my pet.
+
+page_text:
+
+P1	My pet is a cat. She is called Koko. She is friendly and beautiful.
+P2	My brother Tom and I like playing with Koko. My mother likes watching us while we play with Koko.
+P3	Koko is so playful. Koko likes playing with her little sisters while her mother is asleep. I like watching Koko playing with her sisters.
+P4	We all like watching Koko playing with butterflies. Koko keeps us busy during our free time.
+P5	Everyone in our family loves Koko.  My brother bought a present for her. This made me very happy.
+P6	Koko is always clean and smart.  I feel good when I see Koko.  She likes me too.
+
+images:
+
+illustrations/pages/13441.png
+illustrations/pages/17164.png
+illustrations/pages/13446.png
+illustrations/pages/13439.png
+illustrations/pages/13444.png
+illustrations/pages/13445.png
+illustrations/pages/17166.png
+
+translations:
+
+English (Original)	My Pet	id=14279

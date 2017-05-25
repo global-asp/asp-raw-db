@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=2218&d=0&a=1
+id:	2218
+title:	Ono Ndiise
+author:	Gershom Hirome
+artist:	Kathy Arbuckle
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2218.png
+desc:	Soma hu bipambaho: Niise ani
+
+page_text:
+
+P1	Hino hifananyi hyange.
+P2	Ndi wa myaha mukaaga ej'obuhulu.
+P3	Ndi n'emyaha musanvu.
+P4	Hino hifananyi hya mago gange.
+P5	Ebiryo byange ebinyumirwa,  nyeeni ni cipusi.
+P6	Panga ohuhubba engalo yange.
+P7	Panga ohutuuma.
+P8	Enamba y'esimu yange yiri 0752 342658.
+
+images:
+
+illustrations/pages/1709.png
+illustrations/pages/1710.png
+illustrations/pages/1711.png
+illustrations/pages/1712.png
+illustrations/pages/1797.png
+illustrations/pages/1713.png
+illustrations/pages/1714.png
+illustrations/pages/1715.png
+illustrations/pages/1716.png
+
+translations:
+
+Afaan Oromo (Translation)	Kuni Ana	id=12232
+Ateso (Adaptation)	Enngo Naa.	id=10557
+English (Original)	This is Me	id=1798
+Kikamba (Translation)	Uyu Ni Nye	id=2216
+Luganda (Translation)	Ono Ye Nze	id=2217
+Lugbarati (Translation)	‘Di Ma I	id=2718
+Lugbarati (Official) (Translation)	‘Dì Má Ɨ́	id=8763
+Setswana (Translation)	Ke Nna O	id=2219

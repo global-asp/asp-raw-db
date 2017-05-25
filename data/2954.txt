@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=2954&d=0&a=1
+id:	2954
+title:	Be Muungo Mweefwe
+author:	Fabian Wakholi
+artist:	Kathy Arbuckle
+lang:	Lumasaaba
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2954.png
+desc:	This story is about the different sorts of books my family reads.
+
+page_text:
+
+P1	Waandayase Kutosi ali khuusoma shitabo sye lileekelo.
+P2	Maayi ali khuusoma i Bayibuli.
+P3	Umukooko wase Nelima ali khuusoma shitabo shishikanikha khu bye khuuteekha.
+P4	Paapa waandaye wa paapa ali khuusoma luupapula lwe kamakhuuwa.
+P5	Kuukhu ali khuusoma shiitabo.
+P6	Umukooko wase umukyeekhe Nekesa naye ali khuusoma shiitabo she bifwaananyi.
+P7	Indi khuusoma shiitabo shino.
+P8	Imbuka inoola isome buli shiindu.
+
+images:
+
+illustrations/pages/1791.png
+illustrations/pages/1630.png
+illustrations/pages/1631.png
+illustrations/pages/1632.png
+illustrations/pages/1633.png
+illustrations/pages/1634.png
+illustrations/pages/1635.png
+illustrations/pages/1636.png
+illustrations/pages/1637.png
+
+translations:
+
+Aringati (Translation)	Lị́cọ́ Ãmadrị̂	id=7531
+Ateso (Translation)	Ekale Koosi	id=2946
+English (Original)	My Family	id=1792
+Kikamba (Translation)	Musyi Wakwa	id=2951
+Luganda (Translation)	Abantu B'ewaka	id=2952
+Lusoga (Translation)	Abomumaka Gange	id=2955
+Olukhayo (Translation)	Ifamili  Yanje	id=2953
+Oluwanga (Translation)	Oluyia Lwanje	id=2956
+Setswana (Translation)	Lelapa La Me	id=2957

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=7259&d=0&a=1
+id:	7259
+title:	Children Like to Play
+author:	Annet Ssebaggala
+artist:	Sue Kramer, Wiehan de Jager, Mlungisi Dlamini, Angie & Upesh, Eden Daniels, Felicity Bell and Catherine Groenewald
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7259.png
+desc:	Children enjoy playing different games according to age. Read the story and find your favourite games and share with friends.
+
+page_text:
+
+P1	Young children like to play with Toys.
+P2	I like skipping and swinging.
+P3	Connie likes hide and seek.
+P4	Some boys play football.
+P5	Sam likes running.
+P6	Some girls play net ball.
+P7	Elsie likes to jump like a frog.
+P8	Girls play with water.
+P9	Nelly likes sliding.
+P10	Children like to play wedding games.
+P11	Keisha and Dona like to play with dolls.
+P12	What about you?
+
+images:
+
+illustrations/pages/6099.png
+illustrations/pages/2027.png
+illustrations/pages/1627.png
+illustrations/pages/6949.png
+illustrations/pages/4465.png
+illustrations/pages/1623.png
+illustrations/pages/4467.png
+illustrations/pages/1624.png
+illustrations/pages/1421.png
+illustrations/pages/942.png
+illustrations/pages/6516.png
+illustrations/pages/1768.png
+illustrations/pages/1770.png
+
+translations:
+
+English (Adaptation)	Children  Enjoy  Playing.	id=13610
+Luganda (Translation)	Abaana Baagala Okuzannya	id=7457
+Lunyole (Translation)	Abaana Benda Ohugudula	id=13609

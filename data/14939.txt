@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=14939&d=0&a=1
+id:	14939
+title:	Mma Mogala
+author:	Lorato Trok
+artist:	Marion Drew
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14939.png
+desc:	Padi ka ga mosadi yo o nang le megala e metlhano.
+
+page_text:
+
+P1	O bidiwa Mma Mogala. O mmone fela!
+P2	O na le megala-ya letheka e metlhano. Fela fa a tsoga,  o tlhomaganya megala ya gagwe  mo tafoleng.
+P3	E e serolwana ke ya go bua le ba lelapa.
+P4	E e tshweu ke ya go bua le badiri mmogo.
+P5	E e khibidu ke ya go bua le ba ba saletseng kwa morago ka melato.
+P6	E e pinki ke ya go bua le ditsala tsa gagwe.
+P7	E e phepole ke ya go bua le batho ba ba tlhokang thuso ya gagwe.
+P8	Mma Mogala o rata go bona batho ba itumetse. Ga a rate ntwa.
+P9	O letlelela bana go bogela thelebishene ko lebenkeleng la gagwe.
+P10	O etela balwadi le bagodi kwa matlong a bona.
+P11	Fa a fetang teng,  batho ba a goelela "Mma Mogala! Mma Mogala!"
+P12	Mme a itumele mme a re,  "Ke Mma Mogala. Bona megala ya me!" Ke Mma Mogala le megala ya gagwe ya letheka e metlhano.
+
+images:
+
+illustrations/pages/10053.png
+illustrations/pages/10048.png
+illustrations/pages/10049.png
+illustrations/pages/10050.png
+illustrations/pages/10051.png
+illustrations/pages/10052.png
+illustrations/pages/10053.png
+illustrations/pages/10054.png
+illustrations/pages/10055.png
+illustrations/pages/10056.png
+illustrations/pages/10057.png
+illustrations/pages/10058.png
+illustrations/pages/10059.png
+
+translations:
+
+Dhopadhola (Translation)	Nya Simu	id=15765
+English (Translation)	Ms Phone	id=14420
+French (Translation)	Mme Téléphone !	id=14969
+Kinyarwanda (Translation)	Nyiramaterefone	id=17468
+Kiswahili (Original)	Bi Simu	id=14419
+Portuguese (Translation)	Menina Telefone	id=17046

@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=10157&d=0&a=1
+id:	10157
+title:	Ifula
+author:	Humphreys Odunga
+artist:	Marleen Visser
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10157.png
+desc:	Abaana boosi bachama okhubaira amaatsi!
+
+page_text:
+
+P1	Ndachama amatsi.
+P2	Ndachama khubaya mumatsi.
+P3	Ifula ikwitsanga.
+P4	Ifula ikhwetsanga amatsi.
+P5	Ndiuliranga nimbaya erwanyi.
+P6	Alali ifula ikwitsanga.
+P7	Ndiuliranga nimbaira mufula.
+P8	Liswi lianje litorire. Kho papa yangasinja.
+
+images:
+
+illustrations/pages/7964.png
+illustrations/pages/7958.png
+illustrations/pages/7959.png
+illustrations/pages/7960.png
+illustrations/pages/7961.png
+illustrations/pages/7962.png
+illustrations/pages/7963.png
+illustrations/pages/7964.png
+illustrations/pages/7965.png
+
+translations:
+

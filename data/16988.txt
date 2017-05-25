@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=16988&d=0&a=1
+id:	16988
+title:	Why Ajao Was Not Buried
+author:	Taiwo Ẹhinẹni
+artist:	Jesse Breytenbach
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16988.png
+desc:	Is Ajao the bat a bird or a rat?
+
+page_text:
+
+P1	Ajao,  a bat,  lay in his house very ill. There was no one to attend to him.
+P2	Then,  Ajao died.
+P3	The neighbours said,  "Ajao is dead. We must call his relations to come and bury him."
+P4	The neighbours went and called the birds saying,  "A relative of yours is dead."
+P5	The birds came and saw that it was Ajao. They said,  "This animal is not part of our family."
+P6	"All our family have feathers but Ajao has none. So,  he is not one of us." The birds went away.
+P7	The neighbours reasoned together. They agreed,  "The birds are right. Ajao has no feathers. So,  he is not their relative."
+P8	One of them said,  "He must be part of the family of rats. He looks like them."
+P9	The neighbours went and called the rats saying,  "One of your family is dead."
+P10	The rats came and saw that it was Ajao. They said,  "This animal is not part of our family."
+P11	"Everyone in our family has a tail. Ajao has no tail." The rats went away.
+P12	No relations were found for Ajao and he remained unburied.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+Kiswahili (Translation)	Kwa Nini Ajao Hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

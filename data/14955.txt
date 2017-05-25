@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=14955&d=0&a=1
+id:	14955
+title:	Rre Le Morwa Wa Gagwe
+author:	Lorato Trok
+artist:	Wiehan de Jager
+lang:	Setswana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14955.png
+desc:	Leeto le le makatsang la ga Thabo le Thabong.
+
+page_text:
+
+P1	Go ne go le monna a bidiwa Thabo. There was a man called Thabo.
+P2	O ne a na le morwa. Ena o ne a bidiwa Thabong. This man had a son. The son's name was Thabong.
+P3	Ka letsatsi lengwe monna a re go morwaagwe," A re phuthulole maoto."One day the man said to his son,  "Let's go for a walk."
+P4	Fa ba ntse ba tsamaya,  ba bona mokotla wa diaparo. O ne o tletse. On the way,  they saw a very nice suitcase. It was packed full.
+P5	Monna o ne a itumetse thata. "E tsholetse re ye gae ka yona," a rialo go Thabong. The man got very excited. He said to Thabong,  "Pick it up and we will take it home."
+P6	Morwa o ile a dira se rragwe a reng a se dire. Thabong o ile a rwala mokotla ka tlhogo mme ba ya gae. The son did what the father told him to do. Thabong put the suitcase on his head and carried it.
+P7	Mo tseleng go ya gae,  noga e ile ya tswa mo mokotleng. Ya wela mo maotong a ga Thabong!On the way home,  a snake slithered out of the suitcase. It landed on Thabong's feet!
+P8	Thabo le Thabong ba ne ba tshogile thata. Thabong o ile a latlhela mokotla mo fatshe. Ba ile ba tshaba ka lebelo le le tshabegang. Father and son were both very scared. Thabong dropped the suitcase. They ran away very fast!
+
+images:
+
+illustrations/pages/10082.png
+illustrations/pages/10081.png
+illustrations/pages/10082.png
+illustrations/pages/10083.png
+illustrations/pages/10084.png
+illustrations/pages/10085.png
+illustrations/pages/10087.png
+illustrations/pages/10086.png
+illustrations/pages/10088.png
+
+translations:
+
+Amharic (Translation)	አባተ አእነና ለልጀጅ	id=16452
+Amharic (Translation)	አባት እና ልጅ	id=16453
+French (Translation)	Père Et Fils	id=13273
+Luganda (Original)	Father and Son	id=10439
+Portuguese (Translation)	O Pai E O Filho	id=16580

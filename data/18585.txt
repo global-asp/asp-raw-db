@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=18585&d=0&a=1
+id:	18585
+title:	Palesa Alitemwa Ifimenwa
+author:	Eunice Mukonde-Mulenga
+artist:	Jesse Pietersen
+lang:	IciBemba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18585.png
+desc:	Palesa alaalanda ku fimuti
+
+page_text:
+
+P1	Uyu ni Palesa. Ishina lyakwe lipilibula 'iluba' mululimi lwakwe ulwa ciTswana.
+P2	Uluceelo Palesa alanda kucimuti ca ma olenji. "We cimuti ca maolenji,  tupeele amaolenji ayengi twapaapata."
+P3	Palesa aya kusukulu. Munshila aeba icaani ati,  "We caani,  ba gilini saana kabili wikooma."
+P4	Palesa amona amaluba yaimenenafye. "Mwe maluba,  twatootela pa makaala yeenu ayabalabata."
+P5	Pa sukulu,  Palesa alanda ku cimuti icishilakula.    "We cimuti,  imisambo yoobe ikakule pakuti tukaleebelengelamo."
+P6	Palesa asosa ku lupango lwashinguluka isukulu lyakwe ati,  "Ukule uwakosa pakuti uleelesha abantu babipa ukwingila mukati."
+P7	Ilyo Palesa abwelela ku ng'anda ukufuma kusukulu,  ayamona icimuti ca maolenji. "Bushe amaolenji yobe nayapya?" Palesa amwipusha.
+P8	"Amaolenji tayalapya," efya asuka Palesa.    "Tukamonana mailo we cimuti ca maolenji," efyo asosa. "Limbi mailo ukakwata iolenji lyandi ilyapya."
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+ChiTonga (Translation)	Palesa Ulayanda Zisamu	id=18641
+CiNyanja (Translation)	Palesa Akonda Mitengo Na Maluwa	id=18610
+isiZulu (Translation)	Upalesa Uthanda Izitshalo	id=16092
+Sepedi (Translation)	Palesa O Rata Dimela	id=18994
+SiLozi (Translation)	Palisa Ulata Licalo	id=18568
+Xitsonga (Translation)	Palesa U Rhandza Swimilana	id=18862

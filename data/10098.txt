@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=10098&d=0&a=1
+id:	10098
+title:	Gorzo
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Catherine Groenewald
+lang:	Zarma
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10098.png
+desc:	Deeda wo
+
+page_text:
+
+P1	A kalma kayna a se gumo.
+P2	Afu-mayo ye ganda gumo.
+P3	A daaro kayna gumo a se.
+P4	A beela kayna a se gumo.
+P5	Alboro wo beeri gumo.
+P6	A na bundu kuuku daŋ nga kalmaa ga.
+P7	A na nga fu-mayey beerandi.
+P8	A te nga boŋ se daari bambata fo.
+P9	A day beelo kuuku fo.
+P10	A go ga goro karga kuuku boŋ,  a go ga ŋwa nda kawra bambata fo.
+P11	A dira nga kwaaraa,  ga koy goro saaji fimbi fo ra. A goro no-din jiiri boobo.
+
+images:
+
+illustrations/pages/309.png
+illustrations/pages/309.png
+illustrations/pages/310.png
+illustrations/pages/311.png
+illustrations/pages/314.png
+illustrations/pages/313.png
+illustrations/pages/316.png
+illustrations/pages/315.png
+illustrations/pages/317.png
+illustrations/pages/318.png
+illustrations/pages/319.png
+illustrations/pages/320.png
+
+translations:
+
+Afaan Oromo (Translation)	Namicha Baayyee Dheeraa	id=12955
+Afrikaans (Translation)	'n Baie Lang Man	id=11260
+Afrikaans (Translation)	'n Baie Lang Man	id=11370
+Arabic (Translation)	الرجل ذو القامة الطويلة	id=10122
+Aringati (Translation)	Ágóbí Ázó Mbílíkó Rĩ	id=9280
+Dhopadhola (Translation)	Nyicwo Ma Bor Tektek	id=18686
+English (Original)	A Very Tall Man	id=918
+French (Translation)	Un Homme Très Grand	id=9923
+French (Translation)	Un Très Grand Bonhomme	id=12615
+Fulfulde (Translation)	Gorko Mawnuɗo Sanne	id=10002
+Gurene (Translation)	Budaa N Ba’Am Wↄgε	id=12662
+Hausa (Translation)	Wani Mutum Mai Ƙirma	id=9971
+isiXhosa (Translation)	Indoda Ende Kakhulu	id=19288
+isiZulu (Translation)	Indoda Ende Elingana Nendlulamithi	id=3491
+Kakwa (Translation)	Ŋ Utu Laga a Lojo	id=9281
+Kanuri (Translation)	Kam Adǝ Dadua	id=10031
+Kiswahili (Translation)	Mwanamme Mrefu	id=1176
+Lámnsoʼ (Translation)	Wír Wo Wù Dàrìn É Ŋàŋ	id=16445
+Likpakpaanl (Translation)	Uja Fɔfɔk Uba	id=18775
+Luganda (Translation)	Omusajja Omuwanvu Ennyo	id=8720
+Lugbarati (Translation)	Agu Azi Izu Ni	id=2329
+Lugbarati (Official) (Translation)	Ágʉ̀pɨ́ Ɨ́zʉ̀ Rɨ́	id=8780
+Lumasaaba (Translation)	Umusaani Umuleeyi Naabi	id=3004
+Lunyole (Translation)	Omusinde Omuleŋi Obugali	id=2330
+Lusoga (Translation)	Omusaadha Omuleeyi  Einho	id=919
+Setswana (Translation)	Monna O Motelele-Telele	id=2331
+Shona (Translation)	Murume akarebesa	id=19953
+Yoruba (Translation)	Ọkùnrin Gíga Púpọ̀ Kan	id=10688

@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=18326&d=0&a=1
+id:	18326
+title:	Musau Saves His Father
+author:	Ursula Nafula
+artist:	Benjamin Mitchley
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18326.png
+desc:	Musau’s father got drunk every night
+
+page_text:
+
+P1	Musau lived with his father,  Syonzola.
+P2	Syonzola went to drink alcohol every day.
+P3	Syonzola came home drunk. He called,  "Help! A hyena is killing me."
+P4	The people came. There was no hyena.
+P5	Syonzola did this every night.
+P6	Every time Syonzola shouted,  Musau woke up.
+P7	One night,  a hyena waited for Syonzola.
+P8	Syonzola cried,  "Help!"  The people said,  "We are tired. Syonzola is tricking us again."
+P9	Musau waited. His father did not arrive.
+P10	"My father is really in danger," Musau said.
+P11	Musau ran outside.
+P12	"Father! Father!" He called. The hyena ran away.
+P13	From that day,  Syonzola changed. Now he tells children stories.
+
+images:
+
+illustrations/pages/8233.png
+illustrations/pages/8221.png
+illustrations/pages/8222.png
+illustrations/pages/8223.png
+illustrations/pages/8224.png
+illustrations/pages/8225.png
+illustrations/pages/8226.png
+illustrations/pages/8227.png
+illustrations/pages/8228.png
+illustrations/pages/8229.png
+illustrations/pages/8230.png
+illustrations/pages/8231.png
+illustrations/pages/8232.png
+illustrations/pages/8234.png
+
+translations:
+
+Amharic (Translation)	አባቱን የታደገው ጥላሁን	id=12738
+English (Original)	Musau Saves His Father	id=2140
+Luganda (Translation)	Kabali Ataasa Kitaawe	id=6426
+Lugbarati (Translation)	Amagu Pa Ima Ati	id=2522
+Lumasaaba (Translation)	Musalu Awonesa Paapawe	id=3077
+Lunyole (Translation)	Musa Ataasa Semwana	id=2523

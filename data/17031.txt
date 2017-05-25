@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=17031&d=0&a=1
+id:	17031
+title:	Kwa Nini Ajao Hakuzikwa
+author:	Ursula Nafula
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17031.png
+desc:	Je
+
+page_text:
+
+P1	Ajao alikuwa popo. Aliugua nyumbani kwake bila wa kumhudumia.
+P2	Halafu,  Ajao alifariki.
+P3	Majirani wakasema,  "Ajao amekufa. Itatubidi tuwaite jamaa zake wamzike."
+P4	Majirani waliwaita ndege wakisema,  "Mmoja wenu amefariki."
+P5	Ndege waliona kuwa alikuwa Ajao. Wakasema,  "Mnyama huyu si wa jamii yetu."
+P6	"Wote wa jamii yetu wana manyoya lakini Ajao hana yoyote. Yeye si mmoja wetu." Ndege waliondoka wakaenda.
+P7	Majirani walikubali,  "Ndege wamesema ukweli. Ajao hana manyoya. Yeye si wa jamii yao."
+P8	Mmoja wao akasema,  "Lazima awe wa jamii ya panya. Anafanana nao."
+P9	Majirani waliwaita panya wakisema,  "Mmoja wenu amefariki."
+P10	Panya walifika wakaona kuwa ni Ajao. Wakasema,  "Mnyama huyu si wa jamii yetu."
+P11	"Kila mmoja wa familia yetu ana mkia. Ajao hana mkia." Panya waliondoka wakaenda.
+P12	Hakuna jamaa wa Ajao alipatikana kwa hivyo Ajao hakuzikwa.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+English (Translation)	Why Ajao Was Not Buried	id=16988
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

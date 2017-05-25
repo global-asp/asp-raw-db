@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=18208&d=0&a=1
+id:	18208
+title:	Vara Garem
+author:	Joseph Kandwe (OLE Ghana)
+artist:	Rob Owen
+lang:	Kasem
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18208.png
+desc:	Nanyɔm jege vara maama mo. Gare ba ba na vei se ba nyɔ na.
+
+page_text:
+
+P1	Tuu dedoa mo maa vei se ko nyɔ na.
+P2	Sigi selei mo maa vei se se nyɔ na.
+P3	Ga-naane detɔ de zuna bana de mo maa vei se ba nyɔ na.
+P4	Tɔrro tenu de ga-teira yaredo mo maa vei na bam ne.
+P5	Nambworro terepɛ mo duri te vei na bam ne.
+P6	Mantwaaro nana de ywona nogo mo wora ba pugi na bam wone.
+P7	Nywoŋo dedoa ŋuura. Ko de lage na mo se ko nyɔ. Wɔ mo kware nywoŋo?
+P8	Tuu dedoa mo wora ko nyɔ na de nywoŋo kom.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9652.png
+illustrations/pages/9647.png
+illustrations/pages/9644.png
+illustrations/pages/9646.png
+illustrations/pages/9650.png
+illustrations/pages/9645.png
+illustrations/pages/9651.png
+illustrations/pages/9648.png
+
+translations:
+
+Afrikaans (Translation)	Tel Die Diere	id=10448
+Afrikaans (Translation)	Tel Die Diere	id=11413
+Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Asante Twi (Translation)	Mmoa Akenkan	id=18219
+Dagaare (Translation)	Donne Sɔrebo	id=17769
+Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
+Dangme (Translation)	Lohwehi Kanemi	id=18297
+English (Original)	Counting Animals	id=9671
+Ewe (Translation)	Lãwo Xexlẽ	id=18179
+Fante (Translation)	Mbowadoma Nkanee	id=18487
+French (Translation)	Compter Les Animaux	id=12654
+Ga (Translation)	Kooloi Kanemɔ	id=18287
+Gonja (Translation)	Asɔbɔaya Be Ke Karga	id=18173
+Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
+Lámnsoʼ (Translation)	Á Táŋ Nyám Si	id=15064
+Luganda (Translation)	Ohubala Ebisolo	id=11905
+Lunyole (Adaptation)	Okubala Ebisolo	id=16664
+Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
+Nzema (Translation)	Nane Edianlɛ	id=18423
+Oluwanga (Translation)	Okhubala Tsisolo	id=19590
+Portuguese (Translation)	Contando Os Animais	id=16562
+Tunisian (Translation)	Ħisbèn Ħayewènèt	id=15389
+Yoruba (Translation)	Kíka Àwọn Ẹranko	id=16554

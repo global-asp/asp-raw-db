@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=18983&d=0&a=1
+id:	18983
+title:	Yesu Onxuttiha Ovekela
+author:	© 2016 Little Zebra Books
+artist:	Marleen Visser
+lang:	Emakhuwa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18983.png
+desc:	In this book
+
+page_text:
+
+P1	Yesu Onxuttiha Ovekela.
+P2	Tiith'ahu,  muriwiirimu,  nsinananyunivuwihiwe.
+P3	Omwene anyu orwe,  otthuna wanyu wiireye.
+P4	Siiso vathi-va ntoko wiirimu.
+P5	Munivahe olelo yooly'ahu yakhula nihiku.
+P6	Munilevelele soottheka sahu.
+P7	Ntoko hiyo nnaalevelaahu ale annitthekela.
+P8	Muhinihiye omora neehereryiwaka,  nto munoopole sootakhala.
+P9	Okhala wira wawinyu omwene.
+P10	Ni owerya ni nttittimiho,  mahiku othene. Ameni.
+P11	Ameni.
+
+images:
+
+illustrations/pages/16273.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Chinyungwe (Translation)	Baba Wathu	id=18980
+Elomwe (Translation)	Nivekelo Na Apwiya	id=18982
+English (Original)	The Lord's Prayer	id=16246
+Imeetto (Translation)	Niswali	id=18993
+Portuguese (Translation)	Pai Nosso”	id=18981

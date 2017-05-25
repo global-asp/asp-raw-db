@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=13063&d=0&a=1
+id:	13063
+title:	Ingozi Ethusako
+author:	Mtshwene
+artist:	Rob Owen
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13063.png
+desc:	Abentwana ababili babona ingozi embi hlangana kweloyi nethraga.
+
+page_text:
+
+P1	Ngelinye ilanga mina no dadwethu sasikhamba hlanu kwendlela.
+P2	Ithraga ekulu beyiya enzasi kweentaba.
+P3	Ikoloyi beyigijima ngebelo eliphezulu iya phezulu ngentabeni.
+P4	Umtjhayeli wethraga bekakhuluma nomalile edinini. Angakaqali indlela.
+P5	Ithraga yatjhayisa ikoloyi!
+P6	Kwafika besizo elirhabako namapholisa bazokurhelebha.
+P7	Kwafika iinkoloyi ezimbili ezidosako. Yinye yadosa ithraga. Yinye yadosa ikoloyi.
+P8	Sabona yoke into. Besithukiwe.
+
+images:
+
+illustrations/pages/9638.png
+illustrations/pages/9635.png
+illustrations/pages/9636.png
+illustrations/pages/9637.png
+illustrations/pages/9641.png
+illustrations/pages/9639.png
+illustrations/pages/9640.png
+illustrations/pages/9638.png
+illustrations/pages/9642.png
+
+translations:
+
+Afrikaans (Translation)	'n Ernstige Ongeluk	id=11396
+English (Original)	Serious Accident	id=9672
+French (Translation)	Un Grave Accident	id=10851
+isiXhosa (Translation)	Ingozi Embi	id=13203
+Kiswahili (Translation)	Ajali Mbaya	id=10555
+Portuguese (Translation)	Acidente Grave	id=18868
+Rutooro (Translation)	Butandwa Eyakabi	id=14909
+Setswana (Translation)	Kotsi E E Maswe	id=14882

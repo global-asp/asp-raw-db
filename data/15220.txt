@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=15220&d=0&a=1
+id:	15220
+title:	Xcem Il-Fìle
+author:	Ramzi Hachani
+artist:	Wiehan de Jager
+lang:	Tunisian
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15220.png
+desc:	Kifèc xcem il-file welle ŧwìl?
+
+page_text:
+
+P1	In-nès il-kull yaġrfu illi il-fyùle ġandhum xcumèt ŧwèl.
+P2	Emme bikri,  xcem il-fìl kèn qṡìr w xcìn.
+P3	Fìle ṡɍìra twildit. Kènit ġandhe ħubb l-itŧilèġ. Kènit ġandhe su`èl l'kull ħayewèn.
+P4	Kènit mitġajjbe fi'z-zaràfe. "Ġlèc ġandik raqbe ŧwìle?" nicdithe.
+P5	Kènit mittġajjbe fi Weħìd il-Qarn. "Ġlèc garnik mđebbib?" nicdittu.
+P6	Kènit mittġajjbe barce fi'it-Timsèħ. "Cnuwwe yèklu it-tmèseħ fi'l-ġce?" nicdit.
+P7	Il-Ɍràb iđ-Đkiy fìsaġ qàl,  "Tebbaġni l'il-wèd. Ɍàdi tewwe tcùf cnuwwe yèklu it-tmèseħ fi'l-ġce."
+P8	W hekke il-Fìle iṡ-Ṡɍìra tebbġit il-Ɍràb l'il-wèd.
+P9	Dezzit il-qṡab w wiqfit ġle ħarf il-wèd. Ɍazrit fi'l-me. Wìn it-Timsaħ?
+P10	"aslème," qàlit il-ħajre illi baħđe ħarf il-wèd. "Ġaslème," qàlit il-Fìle iṡ-Ṡɍìra. "Tnejjimci tqulli cnuwwe yèklu it-tmèseħ."
+P11	"Uqrub w tewwe nqullik," qàlit il-ħajre. Il-Fìle iṡ-Ṡɍìra ŧabbsit. "Zìd uqrub," qalit il-ħajre. Il-Fìle iṡ-Ṡɍìra zèdit ŧabbsit.
+P12	Ġle ɍafle! Traq! It-Timsèħ xŧaf xcem il-Fìle iṡ-Ṡɍìre b'jdèqu.
+P13	Il-Fìle iṡ-Ṡɍìra ŧàħit il-tèli w jibdit. W jibdit,  w jibdit. Emme it-Timsèħ me seyyibċ xcemhe.
+P14	Xcem il-Fìle iṡ-Ṡɍìra tjebbid w tjebbid. W tjebbid. Ħatte lìn ŧàħit. "Dufff!"
+P15	Xcem il-Fìle iṡ-Ṡɍìra tjebbid ħatte welle ŧwìl.
+P16	Xcemhe ŧwèl l'darjet illi wellèt tnejjim taqŧif il-ɍalle min aġle ġurf. W l'lyùm,  il-fyùle il-kull ġandhum xràŧim ŧwèl w nèfġìn.
+
+images:
+
+illustrations/pages/1110.png
+illustrations/pages/1111.png
+illustrations/pages/1112.png
+illustrations/pages/1110.png
+illustrations/pages/1113.png
+illustrations/pages/1114.png
+illustrations/pages/1116.png
+illustrations/pages/1118.png
+illustrations/pages/1119.png
+illustrations/pages/1120.png
+illustrations/pages/1121.png
+illustrations/pages/1122.png
+illustrations/pages/1123.png
+illustrations/pages/1124.png
+illustrations/pages/1125.png
+illustrations/pages/1882.png
+illustrations/pages/1127.png
+
+translations:
+
+Dhopadhola (Translation)	Umi Liec	id=15737
+English (Translation)	Elephant's Nose	id=15093
+Oluwanga (Adaptation)	Omwana We Inzofu	id=19800
+Portuguese (Translation)	O Nariz Do Elefante	id=16579
+Yoruba (Translation)	Imú Eerin	id=16558

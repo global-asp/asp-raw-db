@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=18559&d=0&a=1
+id:	18559
+title:	Pendo Komu Yaluna
+author:	Limbali Muyendekwa
+artist:	Rob Owen
+lang:	SiLozi
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18559.png
+desc:	Litangu lakomu yelatiwa ahulu mwalubasi lwaluna.
+
+page_text:
+
+P1	Yo kimuuna yabizwa Ndalo. Uina mwa hae ni ndatae.
+P2	Mwalinako zeng'ata ulatanga kubala libuka.
+P3	Mwa hae mo kupila komu yebizwa Pendo.
+P4	Komu ilata ahulu kufula licalo zasikuwa zeswana nibo kaloti.
+P5	Ndalo ulisanga komu ye asakotoka feela kuzwa kwa sikolo. Kikomu yelatiwa ahulu mwa hae mo.
+P6	Ndalo uifanga mezi akenile komu yabona ye.
+P7	Bondatae bona baifanga mase ambonyi nimauza.
+P8	Baiamanga muzilili komu yabona ye yasitole.
+P9	Komu ye isisa ahulu nikubafa muzilili omung'ata mwa hae mo.
+P10	Bondatae Pendo balekisanga muzilili abafeza kuama.
+P11	Omung'ata muzilili wasiyalanga kwandu kuli mane yena Ndalo kikunwanga muzilili zazi nizazi inge mutu yanwa mezi.
+P12	Uitumelanga kwa komu ye kuli mane inge yautwa niyona. Ubulelanga kuli,  "niitumezi Pendo."
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/11992.png
+illustrations/pages/7944.png
+illustrations/pages/11993.png
+illustrations/pages/7939.png
+illustrations/pages/11994.png
+illustrations/pages/7938.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+illustrations/pages/7941.png
+illustrations/pages/7943.png
+illustrations/pages/11997.png
+illustrations/pages/7945.png
+
+translations:
+
+Akuapem Twi (Translation)	Pendo Yɛ Nantwibere	id=18466
+Asante Twi (Translation)	Yɛn Nantwibedeɛ Pendo	id=18224
+ChiTonga (Translation)	Ng’Ombe Yesu Jiinga Pendo	id=18633
+CiNyanja (Translation)	Ngo’Mbe Yatu Pendo	id=18588
+Dagaare (Translation)	Te Naabo Pendo	id=17778
+Dagbani/Dagbanli (Translation)	Pendo Ti Nahu	id=18154
+Dangme (Translation)	Pendo Wa Na	id=18304
+Ewe (Translation)	Pendo, Míaƒe Nyinɔ	id=18185
+Fante (Translation)	Hɛn Nantwi Pendo	id=18496
+French (Translation)	Pendo Notre Vache	id=13773
+Ga (Translation)	Pendo, Wɔtsina Yoo Lɛ	id=18295
+Gonja (Translation)	An Be Kena Nɛ Baa Tre Pendo Na	id=18177
+IciBemba (Translation)	Ingo’Mbe Yeesu Pendo	id=18576
+isiNdebele (Adaptation)	Ikomo Yakwethu Upuna	id=13798
+isiXhosa (Translation)	Upendo Inkomo Yethu	id=17580
+isiZulu (Translation)	Pendo, Ti Naafu	id=15362
+isiZulu (Adaptation)	Unondlini Wakwethu	id=17318
+Kasem (Translation)	Pendo, De Nao Kom	id=18211
+Ng’aturkana (Translation)	Aite Nabe Pendo	id=12949
+Nzema (Translation)	Pendo, Yɛ Ɛnlankɛ Ne	id=18433
+Oluwanga (Translation)	Ing'ombe Yefu Rapenda	id=19792
+Portuguese (Translation)	Pendo, Nossa Vaca	id=18851
+Sepedi (Translation)	Pendo Kgomo Ya Rena	id=18985
+Setswana (Translation)	Pendo Kgomo Ya Rona	id=17967
+Tshivenda (Translation)	Kholomo Yashu Pendo	id=18320
+Xitsonga (Translation)	Ntswele Ya Hina I Pendo	id=18860

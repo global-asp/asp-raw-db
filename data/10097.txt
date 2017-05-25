@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=10097&d=0&a=1
+id:	10097
+title:	Iri Ma Koy!
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Thembinkosi Kohli
+lang:	Zarma
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10097.png
+desc:	Maateyaŋ harey boŋ sorro yaŋ: haw taayaŋ
+
+page_text:
+
+P1	Nda ay niina.
+P2	 Ay ga ma suseeti fumbey haw.
+P3	Ay ga ma toori boosi kaaney haw.
+P4	Nda ay moyey.
+P5	Ay ga di baalu kaŋ go ga deesi hala beena ra.
+P6	Ay ga di maaje.
+P7	Nda ay mayo.
+P8	Ay ga ma ciiro kaŋ go teeku haro ga.
+P9	Ay ga ma leemu kaaniyo.
+P10	Nda ay kamba.
+P11	Ay ga ni kamba di.
+
+images:
+
+illustrations/pages/3015.png
+illustrations/pages/3016.png
+illustrations/pages/3017.png
+illustrations/pages/3018.png
+illustrations/pages/3019.png
+illustrations/pages/3020.png
+illustrations/pages/3021.png
+illustrations/pages/3022.png
+illustrations/pages/3022.png
+illustrations/pages/3024.png
+illustrations/pages/3025.png
+illustrations/pages/3026.png
+
+translations:
+
+Afaan Oromo (Translation)	Haa Deemnu!	id=12254
+English (Original)	Let's Go	id=3028
+English (Translation)	Iri Ma Koy	id=11734
+French (Translation)	Allons-Y!	id=9922
+Fulfulde (Translation)	En Njaha!	id=10001
+Hausa (Translation)	Mu Je !	id=9970
+isiZulu (Translation)	Asambe	id=7703
+Kanuri (Translation)	Leniwo	id=10030
+Lubukusu (Translation)	Khe Khuche!	id=3100
+Maa (Translation)	Máapé!	id=3098
+Ng’aturkana (Translation)	Kapana!	id=3099
+Olukhayo (Translation)	Kenda Khuche	id=3094
+Oluwanga (Translation)	Khutsie!	id=3102
+Somali (Translation)	Ina Wadiya	id=16761
+Zarma (Translation)	Iri Ma Koy	id=11590

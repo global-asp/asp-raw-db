@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=18882&d=0&a=1
+id:	18882
+title:	Bogole Ga Se Go Palelwa
+author:	Atang-Wabone Malik
+artist:	Wiehan de Jager
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18882.png
+desc:	Ke polelwana e e kayang
+
+page_text:
+
+P1	Yo ke Akenese. Ke morutabana wame.
+P2	Akenese o dirisa dithobane go tsamaya.
+P3	Yona ke Metobo. Ke DJ yo ke moratang go gaisa.
+P4	Metobo o na le mathata le matlho a gagwe.
+P5	Yona ke Moraa,  ke moagisanyi wame. Moraa ke molemi-morui.
+P6	Moraa o na le bosusu. O bua a dirisa diatla.
+P7	Yona ke Osego. Ke motshamiki wa kgwele yo a gaisang botlhe kwa sekoleng same.
+P8	Osego ga a na diatla. Mme o nosetsa setlhopha sa rona dinno di le dintsi!
+
+images:
+
+illustrations/pages/10424.png
+illustrations/pages/10419.png
+illustrations/pages/10418.png
+illustrations/pages/10420.png
+illustrations/pages/10421.png
+illustrations/pages/10422.png
+illustrations/pages/10424.png
+illustrations/pages/10425.png
+illustrations/pages/10426.png
+
+translations:
+
+Afrikaans (Translation)	Gestremde Mense Kán! 	id=20056
+Amharic (Translation)	አካል ጉዳተኝነት ከምንም አያግድም!	id=16458
+Ateso (Adaptation)	Mam Angwal Erai Adekk!!!	id=16212
+ChiTonga (Translation)	Bulema Takuli Kwaalilwa	id=18636
+CiNyanja (Translation)	Kulemala Sikulepela	id=18624
+English (Original)	Disability is Not Inability	id=10416
+English (Adaptation)	Disability is Not Inability	id=12694
+English (Adaptation)	Different Abilities	id=13496
+IciBemba (Translation)	Ukulemana Teekufilwa	id=18581
+isiNdebele (Translation)	Ukukgholophala Akwenzi Umuntu Ukobana Angakghoni Ukwenza Izinto	id=11323
+isiXhosa (Translation)	Ukukhubazeka Akuthethi Ukuba Awunakho Ukwenza Izinto	id=17522
+isiZulu (Translation)	Abazona Izehluleki	id=16089
+Luganda (Translation)	Obulema Si Butesobola.	id=11907
+Ng’aturkana (Translation)	Meere Ang'walu Apalagag	id=11809
+Portuguese (Translation)	A Deficiência Não É Uma Incapacidade	id=16412
+Sepedi (Translation)	Bogolofadi Ga Se Go Se Kgone	id=17996
+Sesotho (South Africa) (Translation)	Ho Ba Le Boqhwala Ha Se Ho Hloka Bokgoni	id=20025
+Setswana (Translation)	Bogole Ga Se Go Palelwa	id=14962
+SiLozi (Translation)	Buhole Aki Kupalelwa	id=18563
+Tshivenda (Translation)	Vhuholefhali a Si U Sa Kona	id=18181
+Xitsonga (Translation)	Vutsoniwa a Hi Vutsandzeki	id=18990

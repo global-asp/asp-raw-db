@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=2721&d=0&a=1
+id:	2721
+title:	Ma Pati Avitavileri Ngoa Ya?
+author:	Alice Ojobiru
+artist:	Rijuta Ghate
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2721.png
+desc:	A boy is looking everywhere for his cricket bat. Can you help him find it?
+
+page_text:
+
+P1	Ma avi ma 'bibia bo te ma econi esu ku.
+P2	Ma one angu katile etia ra. Ma esu ni 'daa ku ye.
+P3	Ma nda eri parife si ra. Ma econi eri esu ku.
+P4	Ma nda eri gbolo ma etia vini doa yo.
+P5	Ma nda eri bokisi alea. Mile ti ni ma ndre ni ku.
+P6	Ma ndaa eri pari jo dria fa o'bazu di alea,  te ma esu eri alenia ku.
+P7	Ma nda eri idia,  idia,  'daa azini pari dria,  esu ni eri pari dria alea ku.
+
+images:
+
+illustrations/pages/1556.png
+illustrations/pages/1557.png
+illustrations/pages/1558.png
+illustrations/pages/1559.png
+illustrations/pages/1560.png
+illustrations/pages/1561.png
+illustrations/pages/1562.png
+illustrations/pages/1563.png
+illustrations/pages/1564.png
+
+translations:
+
+English (Original)	Where is my Bat?	id=2615
+isiXhosa (Translation)	Liphi Iphini Lam Lokubetha Ibhola?	id=2764
+isiZulu (Translation)	Likuphi Iphini Lami Lokuphebeza?	id=2762
+Kiswahili (Translation)	Wapi Kigoe Changu?	id=2758
+Luganda (Translation)	Akatti Kange Kaliwa?	id=6171
+Luganda (Translation)	Akatti Kange Kaliwa?	id=7167
+Lugbarati (Official) (Translation)	Má Vɨ́lé Pati Pòyé Avɨ́zʉ́ Rɨ̀ Ngòá Yǎ?	id=8761
+Maa (Translation)	Kóreê Ésíarê Áí Naaríéki Empíra?	id=2766
+Ng’aturkana (Translation)	Aluwae Eyei Akibapet Kang?	id=2759
+Oluwanga (Translation)	Akhapao Khanje Khali Yena?	id=2760
+Sepedi (Translation)	Mmopu  Wa Ka O Kae?	id=2761
+Sesotho (Lesotho) (Translation)	Thupa Eaka E Kae?	id=2763
+Sesotho (Lesotho) (Translation)	Thupa Eaka E Kae?	id=10364

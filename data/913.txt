@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=913&d=0&a=1
+id:	913
+title:	Bunty and Bubbly
+author:	Sorit Gupto
+artist:	Sorit Gupto
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/913.png
+desc:	Bunty likes to play but she does not like soap and refuses to clean up. One night she has a dream about germs. Will her dream change her mind about getting clean?
+
+page_text:
+
+P1	Bunty loves to play with butterflies.
+P2	 And with birds.
+P3	She loves to play with paper boats.
+P4	She also likes to make sand castles.
+P5	When Bunty goes back home,  her mother asks her to clean up. She refuses.
+P6	"I hate soap!" she screams.
+P7	One night,  she has a dream. The germs are all around her castle,  and are attacking her.
+P8	Bunty is chased by the germs. She runs for her life and screams,  "Help. Help!"
+P9	Suddenly,  Soap King Bubbly appears. "Bunty,  don't be afraid," he says. "Go attack the germs!" the Soap King orders his army of bubbles.
+P10	The army of bubbles chases the germs away.
+P11	These days,  Bunty likes to use soap,  and she brushes and scrubs herself clean.
+
+images:
+
+illustrations/pages/607.png
+illustrations/pages/607.png
+illustrations/pages/612.png
+illustrations/pages/608.png
+illustrations/pages/610.png
+illustrations/pages/609.png
+illustrations/pages/611.png
+illustrations/pages/613.png
+illustrations/pages/614.png
+illustrations/pages/911.png
+illustrations/pages/910.png
+illustrations/pages/912.png
+
+translations:
+
+isiXhosa (Translation)	Uminti No Gwebu	id=3129
+Kiswahili (Translation)	Bunty Na Bubbly	id=2830
+Lugbarati (Translation)	Bunty Yi Bubbly Be	id=2828
+Lugbarati (Official) (Translation)	Bàdàrʉ́ Pi Bʉ́nɨ̀ Be	id=8756

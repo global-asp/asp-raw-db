@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=19924&d=0&a=1
+id:	19924
+title:	Mebala Ya Mola Wa Godimo
+author:	Lorato Trok
+artist:	Jesse Breytenbach
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19924.png
+desc:	A o itse mebala ya mola wa godimo?
+
+page_text:
+
+P1	Mebala e e supa ya mola wa godimo.
+P2	1 khibidu.
+P3	O apere hempe e e khibidu.
+P4	2 mmala wa namune.
+P5	Ke eng se se mmala wa namune mo setshwantsong se?
+P6	3 mmala wa tlae.
+P7	Ke eng se se mmala wa tlae mo setshwantsong se?
+P8	4 tala.
+P9	Ke eng se se tala mo setshwantsong se?
+P10	5 botala jwa legodimo.
+P11	Ke eng se se botala jwa legodimo mo setshwantsong se?
+P12	6 mmala wa ntsho-pududu.
+P13	Ke eng se se ntsho-pududu mo setshwantsong se?
+P14	7 perese.
+P15	Perese ke mmala o montle thata! Wena o rata mmala o fe?
+P16	A o itse mebala ya mola wa godimo?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Arabic (Translation)	ألوان قوس قزح	id=19899

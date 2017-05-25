@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=3139&d=0&a=1
+id:	3139
+title:	Kiveti Kya Muti
+author:	Stephen Musyoka
+artist:	Jemma Kahn
+lang:	Kikamba
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3139.png
+desc:	This is the story of an old man who has everything he wants – except a wife. So he decides to carve one for himself
+
+page_text:
+
+P1	Ivinda ya tene kwai mundu wai na kila kindu – muunda munou,  wai na ngombe,  malondu na mbui. Na aendee na ukua andeea kwithiwa na kimako,  nundu ndai na kindu kimwe. Ndai muka.
+P2	Aungamite ungu wa muti muthenya umwe aukiwa ni ivindisya iseo. Kethiwa ndona kiveti ai atonya usovya kimwe?
+P3	Kwou ambia kuseuvya kiveti kyanake kumana na uvonge wa muti. Ila waminie kuseuvya ivisa,  akita metho mayo na mavinguka. Aivevea na yethiwa na thayu.
+P4	Kwaw'o kyai kiveti kyanake utakyona vandu vangi. Atulya ndu mbee wakyo to akikulya ethiwe mume wakyo.
+P5	Akinenga ngua nzeo,  wanyua na mbete ya mutwe kwonanya kyai kiveti kitwae. Na akyakia nyumba ya ndaka na nyeki ila yai vakuvi na kitina kya muti vala kyaumie. "Nikukulya kindu kimwe kwatei." Atavya kiveti kyake. "Ndukaatate utavya mundu vala waumie."
+P6	Kwa kavinda kavuthu,  aume ma muika kuma utuini ungi mambiia kuneena. "Mundu mukuu ta usu atonya kwithiwa na kiveti kya muika kyanake uu ata? Mavanga kukyosa na kukitwaa kyuuni kyoo."
+P7	Mukuu uu niwethiwe na kyeva muno. Ndai atonya kwikala thayu atena kiveti kiu. Ateo avindisya yingi,  "Ethiwa nina kindu kyake ndyaile ni kumaka." Kwou atuma mavui,  kukimantha,  kukinia,  na kumwetee o kindu kuma kwakyo.
+P8	Ila makyonie,  makiniie kwa kithyomo kya nyunyi. Kiveti kya muti kiveti kya muti,  Kiseo kitemoneka. Mwimiu nututumie tumutungie ngua yaku.
+P9	Kya manenga ngua yakyo,  na mauluka iulu wa iima,  mbusi,  maendete kula kwi muume wakyo. Akwatie ngua yakyo vakuvi na uthyu na eewa muyo vanini.
+P10	Wendi wake uyathela mituki. Niwatumiie mavui ingi makinie. Kiveti kya muti,  kiveti kya muti kiseo kitemoneka,  mwimiu nututumie tumutungie mbete yaku ya mutwe.
+P11	Akwete mbete ya mutwe athumuuka nundu wa kiveti kyake kikuasa kyuuni kya andu angi. Kwa kavinda,  eeta mavui make ingi. Thyiuuthi kula kii mukaine,  kiveti kya muti kiveti kya muti kiseo kitemoneka muimiu niatutumie tumutungie thayu wake!
+P12	Kwou mathi ivinda ya katatu. Mavuila ituoni syakyo. Mainite,  kila isuni yatonga itho mituki kyatwika ivisa. Maau na moko mavaluka na mutwe. Na kyavaluka muthangani.
+P13	Kavola muume avingilitya kitina kya muti usini. Akyungamya na mii yakyo kiwuni. Nundu wa isua na muthanga,  kyamesya matu ingi.
+P14	Na ukungi wikwo matu nimaumasya wasya. Otondu kiveti kikaa kikwenda muume.
+
+images:
+
+illustrations/pages/2580.png
+illustrations/pages/2584.png
+illustrations/pages/2585.png
+illustrations/pages/2583.png
+illustrations/pages/2586.png
+illustrations/pages/2587.png
+illustrations/pages/2588.png
+illustrations/pages/2589.png
+illustrations/pages/2590.png
+illustrations/pages/2591.png
+illustrations/pages/2592.png
+illustrations/pages/2581.png
+illustrations/pages/2582.png
+illustrations/pages/2593.png
+illustrations/pages/2580.png
+
+translations:
+
+Aringati (Translation)	Ife Ũkú Ru Rĩ	id=7527
+English (Original)	The Tree Wife	id=2595
+isiXhosa (Translation)	Inkosikazi Eyenziwe Ngomthi	id=3137
+isiZulu (Translation)	Unkosikazi Oyisihlahla	id=3138
+isiZulu (Adaptation)	Unkosikazi Oyisihlahla	id=14188
+Kiswahili (Translation)	Mke Mti	id=3140
+Luganda (Translation)	Omukazi Eyava Mu Muti	id=3141
+Lugbarati (Translation)	Oku Pati Ru Ri	id=2712
+Lumasaaba (Translation)	Umukhasi We Mu Kusaala	id=7243
+Lunyole (Translation)	Omuhasi Womu Musaala	id=3142
+Maa (Translation)	Enkitók Naguatúno	id=2816
+Oluwanga (Translation)	Omukhasi Musala	id=3143
+Sepedi (Translation)	Mosadi Wa Sehlare	id=7244
+Sesotho (Lesotho) (Translation)	Mosali Oa Sefate	id=3144
+Sesotho (Lesotho) (Translation)	Mosali Wa Sefate	id=10370
+Setswana (Translation)	Mosadi Wa Setlhare	id=7242

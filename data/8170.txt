@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=8170&d=0&a=1
+id:	8170
+title:	Ndhuuba Nhumba
+author:	Cornelius Gulere
+artist:	Kathy Arbuckle
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8170.png
+desc:	Weetegereze ebika bya amayumba abantu mwe basula. Odhuuba kusula mu nhumba kika ki?
+
+page_text:
+
+P1	Muzaale asula mu nsiisira nsereke na isubi.
+P2	Mbubani asula mu nhumba nsunkule ya nsonda.
+P3	Eno nhumba muserebende.
+P4	Asulya ka nhumba eno katangire era kasulike.
+P5	Omusaadha ono ali kwezimbira nhumba.
+P6	Nhumba eno mpyaka.
+P7	Eno nhumba nkaire.
+P8	Ndhuuba kusulaku mu nhumba eno.
+
+images:
+
+illustrations/pages/1591.png
+illustrations/pages/1591.png
+illustrations/pages/1592.png
+illustrations/pages/1593.png
+illustrations/pages/1594.png
+illustrations/pages/1595.png
+illustrations/pages/1596.png
+illustrations/pages/1597.png
+illustrations/pages/1598.png
+
+translations:
+
+Ateso (Adaptation)	Itogoi	id=10155
+English (Original)	Houses	id=1785
+Kikamba (Translation)	Nyumba	id=3087
+Luganda (Translation)	Amayumba	id=2866
+Lunyole (Translation)	Amayumba	id=2867
+Lunyole (Adaptation)	Jo Yi / Enyumba	id=9345
+Lusoga (Translation)	Amayumba	id=2868
+Ng’aturkana (Translation)	Ng'akais	id=18136
+Setswana (Translation)	Matlo	id=2869
+Somali (Translation)	Guriyo	id=17262

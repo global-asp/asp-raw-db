@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=13327&d=0&a=1
+id:	13327
+title:	Greed
+author:	
+artist:	Melany Pietersen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13327.png
+desc:	What is the punishment for a greedy boy who ate too much fruit?
+
+page_text:
+
+P1	Grandmother brought us fruits from the market.
+P2	They looked delicious.
+P3	My brother Vusi got greedy and ate a piece from each fruit.
+P4	Who bit the fruits?
+P5	Grandmother became angry and shouted.
+P6	We suspected Vusi.
+P7	We told grandmother.
+P8	Grandmother asked him and he confessed.
+P9	Suddenly,  Vusi didn't feel well.
+P10	He ran to the toilet.
+P11	Vusi held his stomach.
+P12	Grandmother asked what lesson we had learnt from Vusi's experience.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Dhopadhola (Translation)	Woro	id=18692

@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=17465&d=0&a=1
+id:	17465
+title:	Kabanyana, Gacuma K’Amagambo
+author:	Sylvestre Ntabajyana
+artist:	Jesse Breytenbach
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17465.png
+desc:	Kabanyana agira urugwiro n’amatsiko menshi akanakunda kuvuga amagambo menshi. Ibyo byatumye ahura n’ibibazo byinshi ariko aza kugira amahirwe yo kubyikuramo. Kabanyana akwigisha iki?
+
+page_text:
+
+P1	Kera habayeho umukobwa witwaga Kabanyana. Kabanyana yagiraga amagambo menshi. Nyina yari yaramwihanangirije kutajya avugaguzwa ariko Kabanyana aranangira.
+P2	Umunsi umwe nyirasenge wa Kabanyana aza kurwara. Yari atuye hakurya y'ikibaya ahateganye n'umusozi iwabo wa Kabanyana bari batuyeho.
+P3	Kuri uwo munsi nyina wa Kabanyana yari ahuze cyane. Ku gicamunsi aza guha Kabanyana ingemu yo gushyira nyirasenge wari urwaye.
+P4	Mu nzira,  Kabanyana aza guhura n'impyisi yari yinduye umuntu.
+P5	Nuko warupyisi iramubaza iti,  "Wikoreye iki?" N'ubwo nyina wa Kabanyana yari yamubujije kuvuga ibyo yikoreye,  yasubije Warupyisi ati,  "Nikoreye inyama,  amagi n'amata."
+P6	Kabanyana yongeraho ko ingemu yikoreye ayishyiriye nyirasenge. Ako kanya warupyisi itangira kugira amerwe itekereje ibyo Kabanyana yari yikoreye.
+P7	Iriruka itanga Kabanyana kwa nyirasenge.
+P8	Ihageze ihita inconcomera nyirasenge wa Kabanyana hanyuma yitwikira ikiringiti cye.
+P9	Kabanyana agezeyo,  asanga urugo rutuje cyane. Yinjira mu nzu atangira guhamagara nyirasenge n'ijwi riranguruye.
+P10	Abuze umwitaba ahita ajya mu cyumba nyirasenge yaryamagamo. Atugurwa no kubona umuntu wiyoroshye ikiringiti ikinini.
+P11	Nuko aravuga ati,  "Masenge,  ko amatwi yawe yabaye manini uyu munsi byakugendekeye bite?" Ya mpyisi irasubiza iti,  "Ni ukugira ngo nkumve neza."
+P12	Nuko arongera arabaza ati,  "Masenge,  ko amaso yawe yabaye manini byakugendekeye bite?" Irasubiza iti,  "Ni ukugira ngo nshobore kukubona neza."
+P13	Noneho Kabanyana arabaza ati,  "Masenge,  ko umunwa wawe wabaye munini byakugendekeye bite?" Nuko warupyisi iti,  "Kugira ngo mbone uko ngunconcomera." Warupyisi ihita isimbuka maze inconcomera Kabanyana.
+P14	Kubera kugira amagambo menshi,  Kabanyana akomeza kuvuga ari mu nda ya warupyisi. Abaza ibibazo byinshi.
+P15	Nyuma y'aho warupyisi irambirwa amagambo ya Kabanyana maze iramuruka.
+P16	Kabanyana na nyirasenge baza gukizwa n'abaturage bo kuri uwo musozi. Kuva icyo gihe,  Kabanyana atangira kugabanya amagambo ku bantu atazi.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
+isiXhosa (Translation)	Unandipha Intombazana Elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

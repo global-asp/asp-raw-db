@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=7901&d=0&a=1
+id:	7901
+title:	My Dog
+author:	Pinky Macheke
+artist:	Wiehan de Jager and Heslia Schon
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7901.png
+desc:	The story is about a dog called Stopie
+
+page_text:
+
+P1	The name of my dog is Stopie.
+P2	Stopie likes to bark at night.
+P3	Stopie has two puppies.
+P4	Stopie's young puppy likes to steal food in the kitchen.
+P5	The other puppy has three legs.
+P6	The three dogs barks during the day and at night.
+
+images:
+
+illustrations/pages/5926.png
+illustrations/pages/5926.png
+illustrations/pages/2382.png
+illustrations/pages/2385.png
+illustrations/pages/2380.png
+illustrations/pages/2383.png
+illustrations/pages/1299.png
+
+translations:
+
+Luganda (Translation)	Embwa Yange	id=17003

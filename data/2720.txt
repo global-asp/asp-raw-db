@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=2720&d=0&a=1
+id:	2720
+title:	Buku Angumile Niri
+author:	Doris Maandebo
+artist:	Sandra McDougall
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2720.png
+desc:	In this story I talk about different kinds of weather.
+
+page_text:
+
+P1	Angu a'wi ru.
+P2	Etu dri dri.
+P3	Oli ni li li.
+P4	Angu mile iriti ru.
+P5	Angu ambi ambi.
+P6	Ozoo ni 'di.
+P7	Ovi ci.
+P8	Ane geri ni.
+
+images:
+
+illustrations/pages/1547.png
+illustrations/pages/1547.png
+illustrations/pages/1548.png
+illustrations/pages/1549.png
+illustrations/pages/1550.png
+illustrations/pages/1551.png
+illustrations/pages/1552.png
+illustrations/pages/1553.png
+illustrations/pages/1554.png
+
+translations:
+
+English (Original)	Weather Book	id=1861
+Kiswahili (Translation)	Kitabu Cha Hali Ya Hewa	id=2209
+Luganda (Translation)	Akatabo K’Obudde	id=2210
+Lugbarati (Official) (Translation)	Búkù Àngù Mile Nɨ́ Rɨ̀	id=8762
+Lumasaaba (Translation)	Shiitabo Shishiwaamba Khu Bwiile	id=2211
+Maa (Translation)	Impukunót Ó Oloing'áng'e	id=2415
+Nandi (Translation)	Bukit Ab Ole U Emet	id=17251
+Ng’aturkana (Translation)	Akitab Na Eboyor Akwap	id=2212
+Olukhayo (Translation)	Esitabu Sialinga	id=2213
+Oluwanga (Translation)	Eshitabu Shielihanga	id=2214
+Setswana (Translation)	Buka Ya Maemo a Bosa	id=2215
+Somali (Translation)	Ciwaan Ayaa Kama Qan	id=16763
+Spanish (Translation)	El Libro Del Clima	id=14405
+Zande (Translation)	Gu Buku Ngaga Wai Du Rago	id=17451

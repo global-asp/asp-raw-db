@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=12665&d=0&a=1
+id:	12665
+title:	Le Taxi-Brousse De Nanu
+author:	Véronique Thomas and Translators without Borders
+artist:	Marion Drew
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12665.png
+desc:	Nanu et sa maman attendent un taxi pour rentrer à la maison. En l’attendant
+
+page_text:
+
+P1	Bonjour! Je m'appelle Nanu. J'attends un taxi-brousse avec maman. Nous rentrons à la maison.
+P2	Me voici,  je fais la queue derrière maman. Maman me chante une chanson: "M. Le Taxi,  dépêchez-vous. Ne voyez-vous pas que je vous attends avec Nanu!"
+P3	La dame à côté de moi ramène ses poulets à la maison. Ils pondront des œufs qu'elle pourra manger.
+P4	Ces hommes rentrent du travail. Ils me sourient. Je les entends chanter: "Hé,  petite Nanu,  ne t'en fais pas. Très bientôt,  le taxi sera là."
+P5	Une dame passe devant nous. C'est une dame très élégante. Comme ses chaussures sont belles! Elles font "clic-clac,  clic-clac,  clic-clac" quand elle marche.
+P6	Cet homme vend des boissons fraîches. J'adore les boissons fraîches. Elles sont si fraîches et sucrées. Et toi? Les aimes-tu?
+P7	Regarde! Ces dames ramènent des provisions pour le dîner sur leur tête. Comme elles sont adroites!
+P8	Cette dame se fait coiffer. Elle va sortir avec ses amies ce soir.
+P9	A présent,  je suis fatiguée. Maman me met sur son dos pour que je me repose. Elle fredonne, "S'il vous plait M. Le Taxi,  ne soyez pas en retard,  Gogo nous attend au village."
+P10	Voici mon ami Tumi. Lui aussi se repose. Nous serons bientôt à la maison.
+P11	Les oiseaux volent haut dans le ciel et rentrent chez eux. Ils doivent rentrer avant la nuit.
+P12	Cette dame a de belles boucles d'oreilles. Je crois qu'elle les a achetées en ville aujourd'hui. Plus tard,  j'achèterai plein de boucles d'oreilles pour moi et maman.
+P13	Maman commence à se fatiguer maintenant. Je lui chante une chanson,  "S'il vous plait M. Le Taxi,  où êtes-vous maintenant? Je vous attends avec maman."
+P14	Ecoute! J'entends le taxi! Il arrive!
+P15	Voici notre grand taxi rouge. Il arrive pour nous ramener à la maison,  moi et maman. Comme je suis heureuse.
+P16	Au revoir!
+
+images:
+
+illustrations/pages/7576.png
+illustrations/pages/7560.png
+illustrations/pages/7562.png
+illustrations/pages/7563.png
+illustrations/pages/7564.png
+illustrations/pages/7565.png
+illustrations/pages/7566.png
+illustrations/pages/7571.png
+illustrations/pages/7568.png
+illustrations/pages/7569.png
+illustrations/pages/7570.png
+illustrations/pages/7572.png
+illustrations/pages/7573.png
+illustrations/pages/7574.png
+illustrations/pages/7575.png
+illustrations/pages/7576.png
+illustrations/pages/7577.png
+
+translations:
+
+Afrikaans (Translation)	Nanu Se Taxi	id=11245
+English (Original)	Nanu’S Taxi	id=7590
+English (Translation)	Nanu Se Taxi	id=13413
+Kiswahili (Translation)	Teksi Ya Nanu	id=8713
+Portuguese (Translation)	O Táxi Da Nanu	id=17619

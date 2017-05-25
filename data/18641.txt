@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=18641&d=0&a=1
+id:	18641
+title:	Palesa Ulayanda Zisamu
+author:	Edith Sikota Habwanda
+artist:	Jesse Pietersen
+lang:	ChiTonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18641.png
+desc:	Palesa ulaambaula kuzisamu
+
+page_text:
+
+P1	Ooyu ngu Palesa. Izyina lyakwe lyaamba 'iduba' mumulaka wakwe waciSwana.
+P2	Mafwumofwumo,  Palesa ulakanana kucisamu camafwuleenke.   "We ocisamu camafwuleenke,  Akaka kotupa mafwuleenke manji."
+P3	Palesa uleenda kuya kucikolo. Munzila waambila bwizu wati,  "We obwizu,  koindila kusiya alimwi utayumi."
+P4	Palesa wainda mumaluba akalimenena. "Nywe nomaluba,  ndamulumba nkaambo kamibala yanu imweka."
+P5	A cikolo,  Palesa waamba kukasamu kacikkomena.    "Okasamu,  mitabi yako kiikkomena kutegwa katubalila mucimvule cako."
+P6	Palesa wabandika kulukwakwa luzingulukide cikolo cakwe. "Akaka koyuma akukasya bantu babi kunjila mukati."
+P7	Palesa najokela kung'anda kuzwa kucikolo,  waswaya cisamu camafwuleenke.    "Sena mafwuleenke ako abizwa kale?" Palesa wamubuzya.
+P8	"Mafwuleenke taana bizwa," Palesa waamba. "Njakukubona cifwumo ocisamu camafwuleenke," Palesa waamba.  "Ndiza cifwumo uyakundibeda afwuleenke libizidwe."
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+CiNyanja (Translation)	Palesa Akonda Mitengo Na Maluwa	id=18610
+IciBemba (Translation)	Palesa Alitemwa Ifimenwa	id=18585
+isiZulu (Translation)	Upalesa Uthanda Izitshalo	id=16092
+Sepedi (Translation)	Palesa O Rata Dimela	id=18994
+SiLozi (Translation)	Palisa Ulata Licalo	id=18568
+Xitsonga (Translation)	Palesa U Rhandza Swimilana	id=18862

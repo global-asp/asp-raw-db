@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13153&d=0&a=1
+id:	13153
+title:	Kima Apoteza Mkia Wake
+author:	Ursula Nafula
+artist:	Horácio José Cossa
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13153.png
+desc:	Sungura huyo na vituko vyake tena!
+
+page_text:
+
+P1	Sungura alikuwa rafiki mkubwa wa Kima. Walishiriki mambo mengi pamoja.
+P2	Siku moja Sungura alisema,  "Hebu twende matembezi tukatafute chakula." Kima alikubali bila kujua yaliyomsubiri!
+P3	Walienda katika shamba la wenyewe na kuanza kula mahindi. Sungura alikuwa na njama ya kumtendea Kima uovu.
+P4	Sungura alimwonea Kima wivu kwa kuwa na mkia mrefu. Alikuwa amezungumza na wenye shamba. "Kima atakuja kula mahindi yenu leo. Mfunze adabu!"
+P5	Walipokuwa wakila mahindi,  Sungura alijificha na kupiga kelele akisema,  "Mwizi! Mwizi! Mahindi yenu yanaliwa yote!" Kisha akatoroka na kwenda zake. Kima hakujua lililokuwa likiendelea.
+P6	Ghafla,  wenyewe walifika na kumpata Kima akijaribu kutoroka. Hata hivyo,  mkia wake mrefu ulimzuia kwenda haraka.
+P7	Walimfuata wakipiga kelele,  "Simama! Simama! Umetumalizia mahindi yetu."
+P8	Walimshika na kuanza kumpiga. Kima alijaribu kuponyoka na kutoroka tena lakini hakuweza.
+P9	Kima hakuweza kuvumilia kichapo. Aliwasihi waache kumchapa ili awaeleze mambo yalivyokuwa. "Nilikuwa na rafiki yangu Sungura. Ni yeye aliyenialika," alilia.
+P10	Hata hivyo,  wenyewe hawakumsikiza. Mmoja alitoa panga na kusema,  "Leo ni leo! Utashika adabu!" Aliukata mkia wake. Sungura alishuhudia kila kitu kutoka alikojificha.
+P11	Wenye shamba waliondoka na kwenda zao. Kima alipokimbilia usalama wake,  Sungura aliuchukuwa mkia wa Kima na kwenda kuupika. "Nitamwalika Kima kwa chakula cha mchana," alitabasamu.
+P12	Baada ya mlo,  Kima alisema,  "Asante rafiki yangu kwa kuandaa chakula kitamu." Sungura alimwuliza Kima ikiwa alijua alichokula. Bila kujua,  Kima alijibu, "La,  sijui!"
+P13	Sungura alisema,  "Hicho kitoweo kitamu ulichokula,  ni mkia wako." Baada ya kusema hivyo,  alitoroka. Na kutoka siku hiyo walikuwa maadui!
+
+images:
+
+illustrations/pages/13142.png
+illustrations/pages/13138.png
+illustrations/pages/13152.png
+illustrations/pages/13142.png
+illustrations/pages/8013.png
+illustrations/pages/8014.png
+illustrations/pages/13144.png
+illustrations/pages/13145.png
+illustrations/pages/13146.png
+illustrations/pages/13147.png
+illustrations/pages/13148.png
+illustrations/pages/13149.png
+illustrations/pages/13150.png
+illustrations/pages/13151.png
+
+translations:
+
+Ateso (Translation)	Enyami Edokolet Eke Kori	id=9338
+isiZulu (Translation)	Inkawu Idla Umsila Wayo	id=10023
+Kiswahili (Translation)	Kima Kijani Kibichi Ala Mkia Wake	id=8706

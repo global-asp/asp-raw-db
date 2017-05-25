@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=18859&d=0&a=1
+id:	18859
+title:	O Galo E a Lebre
+author:	Translators without Borders and Nádia Morais
+artist:	Duane Arthur
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18859.png
+desc:	Cuidado com o que pode acontecer quando se prega uma partiga a alguém.
+
+page_text:
+
+P1	Era uma vez um galo e uma lebre. Eram bons amigos.
+P2	Uma noite,  a Lebre visitou o Galo e a sua família,  em casa. Cearam juntos.
+P3	Depois,  chegou a hora de ir para a cama. A Lebre reparou que,  quando o Galo e a família dormiam,  escondiam a cabeça.
+P4	A Lebre notou que o Galo e a família dormiam muito bem. Ela,  no entanto,  não conseguia dormir a noite toda.
+P5	De manhã,  a Lebre quis saber qual era o segredo do Galo. "Onde é que vocês põem a cabeça à noite?"  perguntou.
+P6	Então,  o Galo decidiu pregar uma partida à Lebre. Disse-lhe: "Minha amiga,  nós as aves temos um segredo na hora de ir dormir. Nessa altura,  cortamos a cabeça. Dormimos muito bem sem cabeça!"
+P7	"Na manhã seguinte,  voltamos a colocar as cabeças," explicou o Galo.
+P8	A Lebre foi para casa e contou à sua família o segredo do Galo. A família da Lebre decidiu experimentar! O que acham que aconteceu?
+
+images:
+
+illustrations/pages/12453.png
+illustrations/pages/12438.png
+illustrations/pages/12440.png
+illustrations/pages/12443.png
+illustrations/pages/12449.png
+illustrations/pages/12453.png
+illustrations/pages/12454.png
+illustrations/pages/12455.png
+illustrations/pages/12456.png
+
+translations:
+
+English (Original)	Rooster and Hare	id=12464
+French (Translation)	Coq Et Lièvre	id=13275
+Kiswahili (Translation)	Jimbi Na Sungura	id=12609
+Ng’aturkana (Translation)	Ekokoroit Ka Apoo	id=13211

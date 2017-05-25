@@ -1,0 +1,92 @@
+url:	http://africanstorybook.org/reader.php?id=10026&d=0&a=1
+id:	10026
+title:	Ɓinngel Nyiiya No Kiinyuɗo Sanne
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Wiehan de Jager
+lang:	Fulfulde
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10026.png
+desc:	Hinere nyiiwa ɓooyi no mawni
+
+page_text:
+
+P1	Himɓe fuu anndi ko nyiiwa no woodi hinere juutunde sanne.
+P2	Ammaa ɓooyi ko hinere nyiiwa no mawnunoo,  no raɓɓiɗinnoo. Hano nii faɗo caka yeeso magga.
+P3	Nyannde gooɗom,  ɓinngel nyiiwa kiinyungel sanne rimaama. Bisa fuu,  imo woodi ko o ƴamata dow muuɗum.
+P4	O kiinyuɗo faro ko daari geelobel ladde. O ƴami: "Ngam ɗume ko aɗa woodi daande juutunde?"
+P5	O kiinyuɗo faro ko daari guuturuwo. "Ngam ɗume luwal maaɗa no seeɓi?"
+P6	O kiinyuɗo faro ko daari ngabbu. O ƴami: "Ngam ɗume ko aɗa tawraa gite boɗeeje?"
+P7	O kiinyuɗo faro ko daari tolbiya. "Ɗume toleya hiirtotoo?"
+P8	Inna on wi'i o: "Abadaa to waɗu iri ƴamol ngol!" O takkitii imo yigga waywayko.
+P9	Ammaa ngam faɓru no ƴoƴi,  tinni no wi'a: "Tokkam njehen dow weendu ndun. A yi'an ɗon ko toleya hiirtotoo."
+P10	Ɓinngel nyiiwa ngel no tokki faɓru ndun naa to weendu ndun.
+P11	O ittani ho'ore makko laawol nder kuɗooli ɗin nden o dari dow ɓaargol weendu ndun. Imo daara nder ndiyam ɗam. Toye toleya ngan tawanoo?
+P12	Hayre tawaande hadde ɓaargol weendu ndun wi'i: "Jam waali." Ɓinngel nyiiwa ngel jaabii: "Jam waali,  se ndegom non,  oɗon mbaawa haalani kam ko toleya hiirtotoo?"
+P13	Hayre nden yeccii: "Tura faa mi haalane ɗum. Ley sanne,  ley sanne" Ɓinngel nyiiwa ngan leesi sanne faa to.
+P14	"Snap!" Hinere makko yani nder nyi'iƴe tolbiya. Faɓru ndun wulli: "Toleya,  ɗume kiirtoto-ɗaa!"
+P15	Ɓinngel nyiiwa ngel jooɗi dow koyɗe muuɗum tekkuɗe nden ngel fooɗi,  ngel fooɗi,  ngel fooɗi. Ammaa toleya ngan yoofaay.
+P16	Hinere ɓinngel nyiiwa nden ɗaartii,  ɗaartii,  nden nde ɗaartii faa to "Duuffff!" O saami dow ɓaawo.
+P17	Ko toleya ngan waasi hiiraande muuɗum,  ɓernde magga fuu halkii,  nga majjiri non nder ndiyam ɗam.
+P18	Ɓinngel nyiiwa ngel daari hinere muuɗum. O waawataa yi'i ho'ore majjum!
+P19	Iɗum juuti faa iɗum waawaa teɓtol ɓiɓɓe leɗɗe dow licce ɓuruɗe toowude.
+P20	Nden lootoroo ndiyam wakkati nyallomaaji ɓuruɗi wulowulo.
+P21	Gilla nyannde muuɗum,  nyiibi no ngoodi juuɗe juutuɗe sanne,  iɗum nafa sanne.
+
+images:
+
+illustrations/pages/1110.png
+illustrations/pages/1111.png
+illustrations/pages/1112.png
+illustrations/pages/1110.png
+illustrations/pages/1113.png
+illustrations/pages/1114.png
+illustrations/pages/1115.png
+illustrations/pages/1116.png
+illustrations/pages/1117.png
+illustrations/pages/1118.png
+illustrations/pages/1119.png
+illustrations/pages/1120.png
+illustrations/pages/1121.png
+illustrations/pages/1122.png
+illustrations/pages/1123.png
+illustrations/pages/1124.png
+illustrations/pages/1125.png
+illustrations/pages/1126.png
+illustrations/pages/1882.png
+illustrations/pages/1127.png
+illustrations/pages/1128.png
+illustrations/pages/1129.png
+
+translations:
+
+Afrikaans (Translation)	Nuuskierige Baba Olifant	id=20055
+Chinyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=2059
+ChiTonga (Translation)	Kukankamana Kwa Mwana Wa Musobvu	id=16450
+ChiTonga (Translation)	Kubuzya-Buzya Kwakana Kamuzomvu	id=18640
+CiNyanja (Translation)	Kufunsa Funsa Kwa Kamwana Ka Njovu	id=18623
+English (Original)	Curious Baby Elephant	id=1881
+French (Translation)	Le Bébé Éléphant Est Très Curieux	id=9963
+Hausa (Translation)	Jinjiri Giwa Mai Ƙwanƙwanto	id=9994
+IciBemba (Translation)	Akaana Ka Nsofu Akaleeipusha-Ipusha	id=18580
+isiXhosa (Translation)	Indlela Iindlovu Ezafumana Ngayo Imiboko Emide	id=17521
+isiZulu (Translation)	Indlovu Eyayithanda Izinto	id=8211
+isiZulu (Adaptation)	Ikhala Lendlovu	id=13547
+Kanuri (Translation)	Tada Kǝmagǝnne Laa Jauro Ndoroma	id=10044
+Kiswahili (Translation)	Mtoto Wa Tembo Mdadisi	id=7618
+Leblango (Translation)	Atïn Lyëc a Yïl	id=11848
+Luganda (Translation)	Omwana Gwe Njovu Ogujagu Jagu	id=8277
+Lugbarati (Official) (Translation)	Èwámvá Òlúkùlúá Be Rɨ̀	id=8782
+Lumasaaba (Translation)	Wanatsofu Umwana Urebareba	id=8278
+Lunyole (Translation)	Esulu Y’Enjofu	id=16584
+Maa (Translation)	Olkuoo Loltome Oikilikuanisho	id=7866
+Ng’aturkana (Translation)	Itaok a Etom Nikachwaan	id=2536
+Oluwanga (Translation)	Omwana We Inzofu, Mwangu Omuchesi	id=8276
+Sepedi (Translation)	Tlowana Ya Go Rata Go Tseba	id=2409
+Sepedi (Adaptation)	Ngwana Wa Tlou Wa Go Rata Go Tseba Kudu	id=2610
+Sesotho (South Africa) (Translation)	Ledinyane La Tlou Le Neng Le Rata Ho Tseba Ha	id=20024
+Setswana (Translation)	Tlowana Marata Go Itse	id=2060
+SiLozi (Translation)	Kuitalifisa Kwa Kana Ka Tou	id=18567
+Tshivenda (Translation)	Ṅwana Wa Nḓou Aṱoḓaho U Ḓivha.	id=18283
+Xitsonga (Translation)	Xindlopfana Xo Hlamarisa	id=18991
+Zarma (Translation)	Ce-Beeriizo Ga Sootiya Gumo	id=10108

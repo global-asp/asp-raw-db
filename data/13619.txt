@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=13619&d=0&a=1
+id:	13619
+title:	Ebiitu E Bimanyire
+author:	Beatres Nabune and Hamba Dinah
+artist:	Michael Nakuwa
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13619.png
+desc:	Luyeeda omwaana ohumanya eyaŋwera ne bibatambisa.
+
+page_text:
+
+P1	Yino nje Manyatta. Nj'amago gange. Gali mu Saza lye Turkana.
+P2	Yino kamelo. Mu Saza lye Turkana abaatu babaya e byeyo byengeri nyingi. Aye ekamelo nj'esiinga omuganyulo.
+P3	 Bano nj' abasomesa baange., Nenda ohutiina hu somero.
+P4	Yino meeri. E meeri jiba mbala. Jitambisiwa ohugeesa abaatu ne by'amagusi hu maaji. Singa tiina e Mombasa,  nja huwona emeeri.
+P5	 Hino hitanda. Neenda ehitanda ehi bbaabba gaholeye. Huŋenyuhaho ni muganda yange.
+P6	 Yino dwaya. Engo huli ne dwaya ebiri. Nindi huli ne ngoho nyingi ejiteera amaagi ameene amangi.
+P7	Guno gubeba. Agabeba gasolo gabi. Galya emere. Galumaluma engoye Galeeta n'obulwaye.
+P8	Yino mbwa. Embwa solo jomu mago. Embwa yeefe bayilaanga baati Daa. Esama bugali weene.
+P9	Yino tamusiya. Abasaaye baange bali ni tamusiya embala.
+P10	Ndi mu hy'ohubiri nindi manyire ebiitu bingi.
+
+images:
+
+illustrations/pages/2550.png
+illustrations/pages/2551.png
+illustrations/pages/2552.png
+illustrations/pages/2553.png
+illustrations/pages/2554.png
+illustrations/pages/2550.png
+illustrations/pages/2555.png
+illustrations/pages/2556.png
+illustrations/pages/2557.png
+illustrations/pages/2558.png
+illustrations/pages/2559.png
+
+translations:
+
+Afrikaans (Translation)	Dinge Wat Ek Weet	id=11092
+English (Original)	Things I Know	id=2561
+French (Translation)	Les Choses Que Je Connais	id=12709
+Kikamba (Translation)	Syindu Ila Nisi	id=3134
+Kiswahili (Translation)	Vitu Ninavyojua	id=3135
+Maa (Translation)	Intokitín Náyíólo	id=2815
+Ng’aturkana (Translation)	Ng'iboro Lu Ayeni Ayong	id=3133
+Ng’aturkana (Translation)	Ngakuro Nayeni Ayong	id=9542
+Olukhayo (Translation)	Ebindu Bindmanya	id=3136
+Oluwanga (Translation)	Efindu Fia Ndamanya	id=3132
+Rutooro (Translation)	Ebintu Ebimanyire	id=14943
+siSwati (Translation)	Tintfo Lengitatiko	id=13061

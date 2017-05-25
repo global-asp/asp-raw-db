@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=12963&d=0&a=1
+id:	12963
+title:	Ameno Mbia Shi?
+author:	Margaret Amateshe
+artist:	Rob Owen
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12963.png
+desc:	Tsisolo tsindi tsili nende ameno amamemu ko khuluma. Etsindi tsili na ameno amapamu ko khusia. Na etsindi tsibula ameno. Neywe?
+
+page_text:
+
+P1	Ikwena ili nende ameno amamemu.
+P2	Italanyi yosi ili nende ameno amamemu.
+P3	Inyeni ingali ili nende ameno amamemu okhushira. Ni shichira shina tsisolo tsindi tsili nende ameno amamemu?
+P4	Ing'ombe ili nende ameno ka amani kokhusia.
+P5	Liyoni libula ameno. Liyoni lilitsanga lirie?
+P6	Tsimbeba tsili nende ameno amakali ke imberi.
+P7	Siesi ndali na ameno ke imberi.
+P8	Ameno kanje ke imberi kakhulikha. Ewe oli na ameno kanga?
+
+images:
+
+illustrations/pages/9634.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9626.png
+illustrations/pages/9630.png
+illustrations/pages/9631.png
+illustrations/pages/9634.png
+illustrations/pages/9632.png
+illustrations/pages/9633.png
+
+translations:
+
+Afrikaans (Translation)	Tande	id=10594
+Aringati (Translation)	Sí Éséle Íngóní Rĩ?	id=9643
+English (Translation)	What Type of Teeth?	id=9653
+isiNdebele (Translation)	Unamazinyo Amangakhi?	id=13052
+isiZulu (Translation)	What Type of Teeth?	id=11562
+Kakwa (Original)	Kala Lo Gbo’Da Adidinyo?	id=9625
+Kinyarwanda (Translation)	Ni Ubuhe Bwoko Bw’Amenyo?	id=17469
+Kiswahili (Translation)	Meno Aina Gani?	id=12621
+Lugbarati (Official) (Translation)	Sí Má Éséle Ngó Lé Rɨ 'ɨ?	id=9649
+Lunyole (Translation)	Meeno Gangeri Hi?	id=16649
+Ng’aturkana (Translation)	Ng'ikiel Lu Ikote Ai?	id=12649
+Portuguese (Translation)	Que Tipo De Dentes?	id=19220
+Rutooro (Translation)	Miringoki Eyamaino?	id=14945

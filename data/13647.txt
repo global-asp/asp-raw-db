@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13647&d=0&a=1
+id:	13647
+title:	Luŋumula
+author:	Bukheye Mulongo Christopher
+artist:	Rob Owen, Alice Toich, Catherine Groenewald, Marion Drew, Mango Tree, Onesmus Kakungi and Wiehan de Jager
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13647.png
+desc:	Endaalo jo luŋumula mu baana
+
+page_text:
+
+P1	Hiseera hya luŋumula. Nahisi mwaana gesunga ohwagama engo.
+P2	During holiday time,  we do a lot of work and play. Muluŋumula, hu hola emirimu emyeene emingi era hwa gudula.
+P3	Muhwana ni Nandi be nyuha mumugamba enyo baŋaa engoho ebiryo, bangala amagi ate batenya ekwi.
+P4	Muhwana ni Bbaaba wuwe baŋira eŋombe ohwaaya.
+P5	Maama, Muhwana ni Nandi batiina ohuhyalira nguhuhwa yawe e' Mulandu.
+P6	They go to the bus stop and wait for the bus to take them.
+P7	Nguhu gasanyuha nyoo ohuboona hu bejuhulu baabe! Bamuŋirilaho obulabo.
+P8	Sehulu yesi gasanyuha nyoo ohubona hu bejuhulu baabe!
+P9	Nguhu ali hutegehera abageni e'hyomumusi.
+P10	Nandi ni Muhwana babeŋuye enyeeni n'omucere ehyo mumusi.
+P11	Ehyegulogulo, Muhwana gatiina ohugudula omupiira naba meri babe.
+P12	Nandi geyunga hu basooma ehyegulo.
+P13	Huludaalo olusembayo olw'oluŋumula, Muhwana ni Nandi batiina hu mukolo gwabaana.
+
+images:
+
+illustrations/pages/9066.png
+illustrations/pages/11676.png
+illustrations/pages/11668.png
+illustrations/pages/11668.png
+illustrations/pages/11670.png
+illustrations/pages/11661.png
+illustrations/pages/11455.png
+illustrations/pages/11662.png
+illustrations/pages/11674.png
+illustrations/pages/10050.png
+illustrations/pages/11669.png
+illustrations/pages/12881.png
+illustrations/pages/9855.png
+illustrations/pages/12945.png
+
+translations:
+
+Ateso (Adaptation)	Aparasia Nu Aiyeng	id=13204
+English (Original)	Holiday Time	id=13021
+Lunyole (Adaptation)	My Holiday Time	id=13648

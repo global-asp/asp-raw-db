@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=18327&d=0&a=1
+id:	18327
+title:	Mbwa Na Mamba
+author:	Ursula Nafula
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18327.png
+desc:	Mbwa anayapata mayai kando mwa mto na kuyapeleka nyumbani. Mama Mamba atafanyaje atakapojua hili?
+
+page_text:
+
+P1	Mbwa aliyaona mayai kando ya mto.
+P2	Aliyakusanya katika mkoba wake.
+P3	Alipofika nyumbani,  aliyaweka karibu na moto.
+P4	Mamba alimwuliza Mbwa,  "Umeyaona mayai yangu?" Mbwa alimjibu,  "La."
+P5	Mamba aliuliza kila mnyama,  "Umeyaona mayai yangu?"
+P6	Mayai yaliangua.
+P7	Mbwa aliwalisha watoto wa Mamba chakula kidogo.
+P8	Mamba aliwasikia watoto wake wakilia.
+P9	Mamba alimvamia  Mbwa.
+P10	Mamba alimfukuza Mbwa.
+P11	Mbwa alimwomba Mamba msamaha.
+P12	Mamba alienda na watoto wake kuogelea.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+isiXhosa (Translation)	Unja No Xam	id=17573
+Kiswahili (Translation)	Mbwa Na Mamba	id=17596

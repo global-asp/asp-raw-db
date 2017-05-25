@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=11466&d=0&a=1
+id:	11466
+title:	Dembe the Shopkeeper
+author:	Annet Ssebaggala
+artist:	Zablon Alex Nguku
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11466.png
+desc:	A description of the life of a Gayaza shopkeeper and his family.
+
+page_text:
+
+P1	In my home village,  there is a trader called Dembe.
+P2	Dembe has a big shop in the village.
+P3	The shop sells flour,  sugar,  rice,  beans,  and many more things.
+P4	Dembe and his wife have three children. The children help in the shop during the holidays.
+P5	Each day,  Dembe adds up the money they earned.
+P6	Dembe has a business book. In the book he writes the amount they earn each day. He also writes what they spend to buy things for the shop.
+P7	Dembe and his wife can afford a big house and a car.
+P8	They also keep cows,  chickens and rabbits.
+P9	This family has a good life. One day,  the children will take over the shop. But first they will finish school.
+
+images:
+
+illustrations/pages/10795.png
+illustrations/pages/10795.png
+illustrations/pages/10796.png
+illustrations/pages/10797.png
+illustrations/pages/10798.png
+illustrations/pages/10799.png
+illustrations/pages/10801.png
+illustrations/pages/10804.png
+illustrations/pages/10805.png
+illustrations/pages/10803.png
+
+translations:
+
+Luganda (Original)	Dembe Omusuubuzi	id=11444

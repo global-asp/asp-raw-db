@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=2540&d=0&a=1
+id:	2540
+title:	Izilwane Zasepulazini
+author:	Thandi Khumalo
+artist:	Sandy Campbell
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2540.png
+desc:	Mamela imisindo eyenziwa yizilwane zasepulazini. Msindo muni owenziwa ngumlimi?
+
+page_text:
+
+P1	Nazi izilwane epulazini.
+P2	Inkomo ikhala ithi,  "Mu-u-u. Mu-u-u." Inkomo ifuna amanzi.
+P3	Imbuzi ikhala ithi,  "Me-e-e. Me-e-e." Imbuzi ifuna amanzi.
+P4	Ihashi likhala lithi,  "Yi-hi-hi-hi. Yi-hi-hi-hi." Ihashi lifuna amanzi.
+P5	Ingulube ikhala ithi,  "Ho-ho-ho i-i-i." Ingulube ifuna amanzi.
+P6	Isikhukhukazi sikhala sithi,  "ke-ke-ke-ke-e-e,  ke-ke." Isikhukhukazi sifuna amanzi.
+P7	Inja ikhala ithi,  "Hhawu-hhawu-hhawu." Inja ifuna amanzi.
+P8	Umlimi uphendula athi,  "Shhh! Nawa amanzi."
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/1750.png
+illustrations/pages/1751.png
+illustrations/pages/1752.png
+illustrations/pages/1753.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+Ateso (Translation)	Ongolia Ityiang Lu	id=9209
+English (Original)	Look at the Animals	id=1221
+English (Adaptation)	Domestic Animals	id=9680
+English (Adaptation)	Look at the Animals	id=10257
+isiXhosa (Translation)	Izilwanyana Zasekhaya	id=2539
+Kiswahili (Translation)	Watazame Wanyama	id=9479
+Kiswahili (Adaptation)	Wanyama Wa Kufugwa	id=9681
+Kiswahili (Adaptation)	Manyati Na Wanyama Wake	id=16742
+Lugbarati (Translation)	Mi Ne Nga Anyapa 'diyi	id=12648
+Lunyole (Translation)	Bona Esolo	id=11618
+Lunyole (Adaptation)	Boon Ebisolo	id=16737
+Rutooro (Adaptation)	Test Dora Ebisoro Sd	id=16736
+Rutooro (Translation)	Test Dora Ebisoro	id=16740
+Rutooro (Adaptation)	Test Dora Ebisoro Nm	id=16741
+Rutooro (Adaptation)	Test Dora Ebisoro	id=16743
+Sepedi (Translation)	Diphoofolo Tša Ka Gae	id=2544
+Sesotho (Lesotho) (Translation)	Liphohofolo Tsa Polasing	id=2543

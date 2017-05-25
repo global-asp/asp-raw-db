@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=17414&d=0&a=1
+id:	17414
+title:	The Staring Game - Colouring Book
+author:	Ingrid Schechter
+artist:	Zito Jorge Ngovene
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17414.png
+desc:	This time Rabbit is out-witted!
+
+page_text:
+
+P1	A long time ago,  the rabbit and the snake were good friends.
+P2	One day they began to chat with each other. But the rabbit was much cleverer than the snake,  and the snake knew it!
+P3	So,  they were discussing who could stare the longest. The snake said,  "Let's try it. I will win by staring at you." So the rabbit agreed to the staring game.
+P4	The snake and the rabbit began to stare. They kept on doing it for several minutes.
+P5	Then the snake got tired. So he got out of his body and only his skin was left looking at the rabbit.
+P6	The rabbit continued looking at the snake's skin for several hours.
+P7	The rabbit thought he was the cleverest animal,  but on that day,  his cleverness was ended. And that's why to this day the rabbit sleeps with his eyes open!
+
+images:
+
+illustrations/pages/8671.png
+illustrations/pages/17409.png
+illustrations/pages/17407.png
+illustrations/pages/17408.png
+illustrations/pages/17413.png
+illustrations/pages/17412.png
+illustrations/pages/17411.png
+illustrations/pages/17410.png
+
+translations:
+
+English (Original)	The Staring Game	id=8554
+Portuguese (Translation)	O Jogo De Olhar Sem Piscar	id=8694

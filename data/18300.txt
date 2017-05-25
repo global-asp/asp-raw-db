@@ -1,0 +1,97 @@
+url:	http://africanstorybook.org/reader.php?id=18300&d=0&a=1
+id:	18300
+title:	I Suɔ  Ma Kane Ni
+author:	Divine Apedo (OLE Ghana) Divine Apedo (OLE Ghana)
+artist:	Wiehan de Jager Wiehan de Jager
+lang:	DangmeDangme
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18300.png
+desc:	Nyazia nɛ ɔ kɔɔ nyumu yo wayo ko nɛ suɔ nyazia kanemi he. E suɔ waa nitsɛ nɛ emaa suɔ nɛ e sia nyazia ha e webimɛ.
+
+page_text:
+
+P1	Your translated text
+P2	I suɔ ma kane ni.
+P3	Your translated text
+P4	Mɛ nɔ ma kane tsɔɔ?
+P5	Your translated text
+P6	Ye nyɛmi yo ɔ hwɔ mayo.
+P7	Mɛ nɔ ma kane tsɔɔ?
+P8	Your translated text
+P9	Ye nyɛ kɛ ye maa hɛ dɔ.
+P10	Your translated text
+P11	Mɛ nɔ ma kane tsɔɔ?
+P12	Your translated text
+P13	Ye tsɛ kɛ ye nɛ hɛ dɔ.
+P14	Your translated text
+P15	Mɛ nɔ ma kane tsɔɔ? I ma nyɛ kane tsɔɔ ye he!
+P16	Your translated text
+P17	Your translated text
+P18	Your translated text
+
+images:
+
+illustrations/pages/924.png
+illustrations/pages/7915.png
+illustrations/pages/925.png
+illustrations/pages/7915.png
+illustrations/pages/927.png
+illustrations/pages/10545.png
+illustrations/pages/926.png
+illustrations/pages/7917.png
+illustrations/pages/10546.png
+illustrations/pages/928.png
+illustrations/pages/7919.png
+illustrations/pages/1004.png
+illustrations/pages/7921.png
+illustrations/pages/933.png
+illustrations/pages/7920.png
+illustrations/pages/931.png
+illustrations/pages/7922.png
+illustrations/pages/929.png
+illustrations/pages/930.png
+illustrations/pages/932.png
+
+translations:
+
+Afrikaans (Translation)	Ek Hou Van Lees	id=20062
+Akuapem Twi (Translation)	Mepɛ Akenkan	id=18461
+Amharic (Translation)	ማንበብ እወዳለሁ	id=13125
+Amharic (Translation)	ማንበብ እወዳለሁ	id=13318
+Arabic (Translation)	!أحب أن أقرأ	id=18187
+Asante Twi (Translation)	Mepɛ Akenkan	id=18221
+ChiTonga (Translation)	Ndayanda Kubala	id=18631
+CiNyanja (Translation)	Nikonda Kuwelenga	id=18607
+Dagaare (Translation)	N Nɔŋɛɛ Kannoo	id=17773
+Dagbani/Dagbanli (Translation)	M  Bɔri Ni N-Karim	id=18152
+English (Translation)	I Like to Read	id=10547
+English (Translation)	I Love to Read	id=12413
+English (Translation)	Nenda Ohusoma	id=13498
+English (Adaptation)	I Love Reading	id=13499
+Ewe (Translation)	Melɔ̃a Nuxexlẽ	id=18167
+Fante (Translation)	Mepɛ Akenkan	id=18491
+French (Translation)	J’Aime Lire	id=13156
+Ga (Translation)	Misumɔ Ni Makane Nii	id=18293
+Gonja (Translation)	Mee Sha  Nɛ M Baa Kraŋ	id=18175
+Hadiya (Translation)	Qaanana'ima Ittomo	id=18428
+IciBemba (Translation)	Nalitemwa Ukubelenga	id=18572
+isiNdebele (Translation)	Ngithanda Ukufunda	id=13812
+isiXhosa (Translation)	Ndiyathanda Ukufunda	id=14933
+isiZulu (Translation)	Ngiyathanda Ukufunda	id=13322
+Kasem (Translation)	A Lage Se a Ga	id=18209
+Kiswahili (Translation)	Ninapenda Kusoma	id=8476
+Kiswahili (Adaptation)	Ninapenda Kusoma	id=19357
+Nzema (Translation)	Me Kulo Kɛ Me Kenga	id=18426
+Oluwanga (Translation)	Ndachama Okhusoma	id=19591
+Portuguese (Translation)	Eu Gosto De Ler	id=16568
+Sepedi (Original)	Ke Rata Go Bala	id=8037
+Sesotho (South Africa) (Translation)	Ke Rata Ho Bala	id=20033
+Setswana (Translation)	Ke Rata Go Buisa	id=16752
+Setswana (Translation)	Ke Rata Go Buisa	id=17654
+SiLozi (Translation)	Nalata Kubala	id=18621
+siSwati (Adaptation)	Kumnandzi Kufundza	id=13818
+Somali (Translation)	Waxaan Jeclahay In Aan Aqriyo!	id=17263
+Tigrigna (Translation)	ምንባብ ይፈቱ እየ	id=18334
+Tshivenda (Translation)	Ndi Funa U Vhala	id=18276
+Xitsonga (Translation)	Ndzi Rhandza Ku Hlaya	id=18874

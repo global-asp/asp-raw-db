@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=19216&d=0&a=1
+id:	19216
+title:	Tom, O Vendedor De Bananas
+author:	Translators without Borders and Carolina Iazzetta Alves
+artist:	Zablon Alex Nguku
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19216.png
+desc:	Um homem vai contra as regras da sua comunidade e leva bananas para vender no mercado.
+
+page_text:
+
+P1	O Tom está a carregar uma bandeja de bananas maduras.
+P2	O Tom vai ao mercado para vender as bananas.
+P3	As pessoas no mercado estão a comprar frutas.
+P4	Mas ninguém compra as bananas do Tom. Elas preferem comprar frutas de mulheres.
+P5	Elas dizem: "Na nossa comunidade apenas mulheres vendem frutas" E perguntam: "Que tipo de homem é esse?"
+P6	Mas o Tom não desiste. E ele grita: "Comprem minhas bananas! Comprem minhas bananas doces e maduras!"
+P7	Uma mulher pega algumas bananas da bandeja. Ela olha para as bananas com muito cuidado.
+P8	A mulher compra as bananas.
+P9	Mais pessoas se aproximam. Elas compram as bananas do Tom e comem-nas.
+P10	Rapidamente as bananas acabam. O Tom conta o dinheiro que ganhou.
+P11	O Tom compra sabão,  açúcar e pão. Ele coloca as compras na bandeja.
+P12	O Tom apoia a bandeja em sua cabeça e vai à casa.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+English (Original)	Tom the Banana Seller	id=13627
+French (Translation)	Tom, Le Vendeur De Bananes	id=14530
+isiXhosa (Translation)	Utom, Umthengisi Webhanana	id=15024
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+siSwati (Translation)	Themba Umtsengisi Wabhanana	id=16440

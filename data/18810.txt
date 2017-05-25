@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=18810&d=0&a=1
+id:	18810
+title:	Buttons
+author:	Nahyuha Sarah
+artist:	Wiehan de Jager, pic, fish, button, Rose, valid and circle
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18810.png
+desc:	Different colours and button qualities
+
+page_text:
+
+P1	All of my buttons are circles.
+P2	Some of my buttons are green.
+P3	All of my buttons are small.
+P4	Some of my buttons are yellow.
+P5	All of my buttons are nice.
+P6	Some of my buttons are red.
+P7	All of my buttons are shiny.
+P8	Some of my buttons are blue.
+P9	All of my buttons are good.
+P10	I like all my buttons.
+
+images:
+
+illustrations/pages/18806.png
+illustrations/pages/18814.png
+illustrations/pages/6663.png
+illustrations/pages/18808.png
+illustrations/pages/5555.png
+illustrations/pages/18809.png
+illustrations/pages/5552.png
+illustrations/pages/18811.png
+illustrations/pages/5547.png
+illustrations/pages/18813.png
+illustrations/pages/18806.png
+
+translations:
+

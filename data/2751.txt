@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=2751&d=0&a=1
+id:	2751
+title:	Langi Mutune
+author:	Stephen Musyoka
+artist:	Sue Kramer
+lang:	Kikamba
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2751.png
+desc:	Sentences attached to  photographs of red everyday objects (eg clothes
+
+page_text:
+
+P1	Mama ni ukususya ndoo ndune.
+P2	Abongile ni ukuthauka na iloli itune.
+P3	Deon ni ukwete malaa matune.
+P4	Mwendwau niwikite vulana ndune.
+P5	Ve isua itune iulu wa umau.
+P6	Ve kivi kivi ndune leluni.
+P7	Ing'ala itune yi mauni ma Babalwa.
+P8	Ngali ya uvosya mwaki ndune yi Kiseseni.
+P9	Uu ni Sibahle ekiite vulana ndune.
+P10	Etata kwikia makovo matune.
+P11	Mai kuaniiya!
+
+images:
+
+illustrations/pages/1761.png
+illustrations/pages/1762.png
+illustrations/pages/1763.png
+illustrations/pages/1764.png
+illustrations/pages/1765.png
+illustrations/pages/1766.png
+illustrations/pages/1767.png
+illustrations/pages/1768.png
+illustrations/pages/1769.png
+illustrations/pages/1770.png
+illustrations/pages/1771.png
+illustrations/pages/1772.png
+
+translations:
+
+English (Original)	Red	id=2188
+isiXhosa (Translation)	Umbala Obomvu	id=2750
+Lugbarati (Translation)	Afa Eka ‘Diyi	id=10476
+Maa (Translation)	Enadó	id=2983
+Ng’aturkana (Translation)	Niareng’An	id=2752

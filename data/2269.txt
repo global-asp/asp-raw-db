@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=2269&d=0&a=1
+id:	2269
+title:	Too Small
+author:	Media Matters
+artist:	Sandy Lightly
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2269.png
+desc:	Lebo has grown out of all her clothes and they are now too small for her. What will she do with them?
+
+page_text:
+
+P1	"Mom," calls Lebo. "Come and look. These clothes are all too small for me!" "Let me see," says Mom.
+P2	"Look at my skirt. It's too small," says Lebo. "Yes,  it is," says Mom. "Nomsa can have your skirt."
+P3	"Look at my jeans. They're too small," says Lebo. "Yes,  they are," says Mom.  "Nomsa can have your jeans."
+P4	"Look at my T-shirt. It's too small," says Lebo. "Yes,  it is," says Mom. "Nomsa can have your T-shirt."
+P5	"Look at my jersey. It's too small," says Lebo. "Yes,  it is," says Mom. "Nomsa can have your jersey."
+P6	"Look at my raincoat. It's too small," says Lebo. "Yes,  it is," says Mom. "Nomsa can have your raincoat."
+P7	"Look at my socks. They're too small," says Lebo. "Yes,  they are," says Mom. "Nomsa can have your socks."
+P8	"Look at my shoes. They're too small," says Lebo. "Yes,  they are," says Mom. "Nomsa can have your shoes."
+P9	"Now you have lots of clothes," says Lebo. "Oh no I don't," says Nomsa. "These clothes are all too big for me!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te Klein	id=11428
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani Khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane Izimpahla Zami	id=2504
+Kiswahili (Translation)	Ndogo Sana, Kubwa Sana	id=7877
+Luganda (Translation)	Ntono Nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Bibombi Naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ga Di Ntekane	id=2509
+Sesotho (Lesotho) (Translation)	Ha Li Ntekane	id=2512

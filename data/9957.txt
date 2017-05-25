@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=9957&d=0&a=1
+id:	9957
+title:	La Gourde De Khayanga
+author:	Isabelle Duston et Véronique Biddau
+artist:	Catherine Groenewald
+lang:	French
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9957.png
+desc:	Khayanga a perdu ses parents
+
+page_text:
+
+P1	Khayanga vivait heureuse avec ses parents jusqu'à ce qu'ils meurent alors qu'elle avait dix ans.
+P2	Khayanga fut recueilli par Rosa,  une parente éloignée. Rosa était gentille avec Khayanga,  mais elle était vieille,  fragile et pauvre.
+P3	Khayanga allait souvent se recueillir sur la tombe de ses parents pour leur raconter son désespoir.
+P4	Un jour,  lors d'une de ces visites,  elle reçut un cadeau. C'était une gourde très spéciale,  qui apparu à la surface de la tombe de ses parents.
+P5	La gourde chanta une chanson belle et apaisante. Khayanga reconnut la voix de sa défunte mère. Les paroles allaient ainsi:.
+P6	Khayanga emmenait sa gourde magique partout. Avec sa gourde,  Khayanga sentait la présence protectrice de ses parents.
+P7	Un jour,  quelque chose de tragique arriva à la gourde magique. Elle se brisa alors que Khayanga allait chercher de l'eau à la rivière. Le cœur de Khayanga fut lui aussi brisé.
+P8	Khayanga tenait les morceaux de la gourde cassée dans ses petites mains et chantait:.
+P9	Khayanga entendit la voix de sa mère qui lui disait: "Mon enfant,  ramasse les morceaux qui restent. Prend les pour aller chercher de l'eau et lave toi les pieds. Lorsque tu auras fini,  ferme les yeux." Khayanga obéit et tout à coup,  la gourde brisée redevint à nouveau entière.
+P10	Khayanga continua à emmener sa gourde partout où elle allait. Partout où elle passait,  les gens murmuraient le uns aux autres,  "Qu'est ce que c'est que cette gourde?" Avec sa gourde magique,  Khayanga reçut tout ce dont elle avait besoin.
+P11	Avec la gourde magique,  Khayanga savait que ses parents veillaient sur elle. Rien de mal ne pouvait lui arriver.
+
+images:
+
+illustrations/pages/1381.png
+illustrations/pages/1382.png
+illustrations/pages/1813.png
+illustrations/pages/1383.png
+illustrations/pages/1384.png
+illustrations/pages/1814.png
+illustrations/pages/1385.png
+illustrations/pages/1386.png
+illustrations/pages/1387.png
+illustrations/pages/1381.png
+illustrations/pages/1388.png
+illustrations/pages/1811.png
+
+translations:
+
+Afrikaans (Translation)	Khayanga en Haar Spesiale Pot	id=11515
+Ekegusii (Translation)	Omogano O’Khayanga Nekerandi Kiaye	id=3115
+English (Original)	Khayanga and Her Gourd	id=2107
+Fulfulde (Translation)	Kayannga E Jollooru Muuɗum	id=10009
+Hausa (Translation)	Kayanga Da Gyanɗama	id=9992
+Kanuri (Translation)	Fanda-a Budanju-A	id=10035
+Kikamba (Translation)	Ngewa Ya Kayanga Na Kĩkuu Kyake	id=2395
+Kiswahili (Translation)	Khayanga Na Kibuyu Chake	id=7280
+Luganda (Translation)	Nanziri N’Endeku	id=2457
+Lugbarati (Translation)	Adiko Kayia Pini ‘Ima Zukulu Be Ri	id=2461
+Lunyole (Translation)	Namudira N’Ehita	id=2458
+Maa (Translation)	Kayánga Ó Emókór Enyé	id=3113
+Ng’aturkana (Translation)	Khayanga Ka Etwo Keng	id=2459
+Oluwanga (Translation)	Wamachina  Nakhamuka Khe	id=2460
+Sepedi (Translation)	Kgayanga Le Nkgo	id=7847
+Sepedi (Translation)	Khayanga Le Nkgo Ya Gagwe	id=7863
+Setswana (Translation)	Moipone Le Sego Sa Gagwe	id=6519
+Zarma (Translation)	Kayanga Nda Nga Zolla	id=10100

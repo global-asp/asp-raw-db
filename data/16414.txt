@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=16414&d=0&a=1
+id:	16414
+title:	O Elefante E O Camaleão
+author:	Translators without Borders and Debora Santos
+artist:	Wiehan de Jager
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16414.png
+desc:	Um rei atribui uma tarefa difícil
+
+page_text:
+
+P1	Era uma vez um grande palácio onde moravam o rei e sua linda filha,  a princesa.
+P2	O Elefante vivia em uma casa em um dos lados do palácio. O Cameleão vivia do outro lado.
+P3	Nesse momento,  havia em seca terrível nas terras. O rei teve uma ideia e chamou seus dois vizinhos ao palácio.
+P4	O rei disse ao Elefante e ao Camelão: – Quero que vocês batam no chão com as patas até surgir água. O rei prometeu a princesa em casamento para quem conseguisse.
+P5	O Camaleão não tinha esperança,  já que era muito pequeno. O Elefante estava muito feliz,  já que era bem grande e forte. O Elefante foi para o campo e começou a bater no solo com as patas.
+P6	Levantou bastante poeira,  mas nada de água. O Elefante bateu no solo até que a água estava quase surgindo,  mas estava muito cansado. Ele deu uma chance ao Camaleão para tentar.
+P7	O Camaleão começou a bater no solo. Após pouco tempo a água apareceu. As pessoas não conseguiam acreditar no que viam!
+P8	Assim,  o rei entregou a princesa ao Camaleão. O Elefante voltou para casa aborrecido.
+
+images:
+
+illustrations/pages/9461.png
+illustrations/pages/9457.png
+illustrations/pages/9458.png
+illustrations/pages/9459.png
+illustrations/pages/9460.png
+illustrations/pages/9461.png
+illustrations/pages/9462.png
+illustrations/pages/9463.png
+illustrations/pages/9464.png
+
+translations:
+
+Dhopadhola (Translation)	Lyec Gi Ŋokino	id=15736
+English (Original)	Elephant and Chameleon	id=10455
+Kiswahili (Translation)	Ndovu Na Kinyonga	id=15616
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=10456
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=11901
+Yoruba (Translation)	Eerin Àti Ọ̀gà	id=16556

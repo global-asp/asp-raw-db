@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=18218&d=0&a=1
+id:	18218
+title:	Adun Mrembo
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18218.png
+desc:	Adun anagundua kuwa mwanamume aliyeolewa kwake hakuwa alivyoonekana. Atatoroka vipi kutoka nyumbani kwake?
+
+page_text:
+
+P1	Adun alikuwa msichana mrembo sana. Wanaume wote kijijini walitaka kumuoa. Adun aliwakataa wote.
+P2	Ilikuwa siku ya soko. Mamboleo aliomba miguu kutoka kwa mwanamume mmoja,  mikono kutoka kwa mwingine,  na kiwiliwili kutoka kwa mtu tofauti. Mamboleo aliziunganisha sehemu hizo tofauti. Alikiweka kichwa chake juu kisha akaenda sokoni.
+P3	Mamboleo alimtaka Adun na alikuwa na azma ya kumuoa. Adun alipendezwa na Mamboleo akataka kuolewa naye. Mamboleo alitoka mji wa mbali lakini,  Adun alikuwa tayari kurudi naye kwake.
+P4	Adun na Mamboleo walipokuwa wakisafiri,  mwenye miguu aliichukuwa. Kisha mwenye mikono aliichukuwa mikono yake. Mwishowe kabisa,  mwenye kiwiliwili,  alikichukuwa.
+P5	Kichwa pekee kilibaki kikaendelea kutembea. Ingawa Adun aliogopa,  hakutoroka. Baadaye,  waliwasili katika nyumba ya kichwa hicho.
+P6	Keshoye kabla ya kichwa kuondoka kwenda shambani,  kilimweleza Kobe,  "Adun akijaribu kutroroka,  nijulishe kwa kuipuliza pembe hii."
+P7	Kichwa kilipoondoka,  Adun alifunganya virago vyake tayari kutoroka.
+P8	Kobe alipoona hivyo,  aliipuliza pembe akisema,  "Kichwa,  kichwa,  Adun yu karibu kutoroka."
+P9	Kichwa kilimwendea Adun na kusema,  "Unafikiri unaenda wapi?" Adun alirejea nyumbani kwa kichwa,  shingo upande.
+P10	Hatimaye,  Adun alitafuta mawaidha kutoka kwa mganga. Mganga alimshauri,  "Nenda ununue keki za maharagwe. Ziloe katika mafuta kisha uziweke ndani ya pembe."
+P11	Adun alifuata maagizo ya mganga. Aliziweka keki zilizoloa mafuta ndani ya pembe.
+P12	Asubuhi ilipofika,  Adun alivichukuwa virago vyake akaanza kutoroka tena. Kobe alipoichukuwa pembe kuipuliza,  keki tamu zilianguka mdomoni mwake.
+P13	Kobe alikula,  akala na akala. Adun alitoroka akaenda zake.
+
+images:
+
+illustrations/pages/13337.png
+illustrations/pages/13337.png
+illustrations/pages/13338.png
+illustrations/pages/13339.png
+illustrations/pages/13340.png
+illustrations/pages/13341.png
+illustrations/pages/13342.png
+illustrations/pages/13343.png
+illustrations/pages/13344.png
+illustrations/pages/13345.png
+illustrations/pages/13346.png
+illustrations/pages/13347.png
+illustrations/pages/13349.png
+illustrations/pages/13348.png
+
+translations:
+
+English (Translation)	Adun, the Beautiful	id=13539
+French (Translation)	Adun, La Belle	id=14528
+French (Translation)	Adun, La Belle	id=15294
+Portuguese (Translation)	Adun, a Bela	id=16651
+Yoruba (Original)	Adùn, Ọmọ Arẹwà Kan	id=13538

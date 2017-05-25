@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=14909&d=0&a=1
+id:	14909
+title:	Butandwa Eyakabi
+author:	Musinguzi Moses
+artist:	Rob Owen
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14909.png
+desc:	Abaana babiri barora butandwa ye kiroole nakamotoka akataito.
+
+page_text:
+
+P1	Kiro kimu nyowe namunyaanya omwisiki tukaba niturubata haihi noruguudo.
+P2	Ekimotoka kikaija nikisirimuka hakasozi.
+P3	Akamotoko akataito kaali nikairuka enziriga nikatemba harusozi.
+P4	Omuvugi wekiroole akaba nabaliza hasiim. Atakurora muruguudo.
+P5	Ekiroole kikatomera akamotoka!
+P6	Ambulensi ya poliisi yaija kuyamba.
+P7	Nebimotoka bibi ebikooto byaija. Ekimu kyatwaraekimoyoka. Endi yatwara akataito.
+P8	Tukarora buli kintu. Tukahunirra muno.
+
+images:
+
+illustrations/pages/9638.png
+illustrations/pages/9635.png
+illustrations/pages/9636.png
+illustrations/pages/9637.png
+illustrations/pages/9641.png
+illustrations/pages/9639.png
+illustrations/pages/9640.png
+illustrations/pages/9638.png
+illustrations/pages/9642.png
+
+translations:
+
+Afrikaans (Translation)	'n Ernstige Ongeluk	id=11396
+English (Original)	Serious Accident	id=9672
+French (Translation)	Un Grave Accident	id=10851
+isiNdebele (Translation)	Ingozi Ethusako	id=13063
+isiXhosa (Translation)	Ingozi Embi	id=13203
+Kiswahili (Translation)	Ajali Mbaya	id=10555
+Portuguese (Translation)	Acidente Grave	id=18868
+Setswana (Translation)	Kotsi E E Maswe	id=14882

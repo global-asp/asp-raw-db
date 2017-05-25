@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=15401&d=0&a=1
+id:	15401
+title:	Enkerai Nayaua Eseriani
+author:	John Nga'sike and Susan Nashipae
+artist:	Jacob Kono
+lang:	Maa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15401.png
+desc:	Enkerai nayawua eseriani.
+
+page_text:
+
+P1	Netii ena tomononi nanapita enkerai enye entim alo aitau irganayio.
+P2	  Ore te ntim netum olchani ooata irganayio ooto.
+P3	Neirajie ninye enkerai enye nairura abori olchani,  neked ninye olchani.
+P4	Nelotu olmurrani lo likae osho neingasia ninye oleng'neikilikwan kweon nejo,  "Koree ngotonye ena kerai?"
+P5	Nejo ninye airrugo neinyoyie enkerai oltuala loo maasaa naishopito ninye temurt enye.
+P6	Nisho ninye enkerai edalare imasaa enyanak neshipakino ninye enkerai oleng adalare nena masaa ilo murrani.
+P7	Neingorr ninye ngotonye abori ainguraa ajo kanyio nagira aitakweni enkerai,  nedol ninye oltungani lemeyiolo oogira ataaniki enkerai enye.
+P8	Ore pee edol ngotonye enkerai egira omurrani adalare enkerai enye neirut ninye oleng omeitiai orbene obore irganayio.
+P9	Ore pee edol omurrani ajo eiruto ngotonye nejoki mintoki auresho amu kagira ake adalare enkerai ena kerai ino sidai.
+P10	Inaa taa pee edou ninye entomononi to ichani.
+P11	Neitayu ninye omurrani emaasai enye nabo neisho enkerai nejoki,  "Nena enkishoroto ino."
+P12	Nejoki ninye ina tomononi,  "Tudumu enkerai ino orbene lino shomo ang nijoki orpayian lino pee eidur alo emurrua natii eseriani amu aishoo enkerai ino eseriani."
+
+images:
+
+illustrations/pages/14590.png
+illustrations/pages/14580.png
+illustrations/pages/14581.png
+illustrations/pages/14582.png
+illustrations/pages/14583.png
+illustrations/pages/14584.png
+illustrations/pages/14585.png
+illustrations/pages/14586.png
+illustrations/pages/14587.png
+illustrations/pages/14588.png
+illustrations/pages/14589.png
+illustrations/pages/14590.png
+illustrations/pages/14591.png
+
+translations:
+
+English (Translation)	Child As a Peacemaker	id=14617
+Kiswahili (Translation)	Mtoto Aliyeleta Amani	id=15861
+Maa (Translation)	Enkerai Nayawua Eseriani	id=15525
+Ng’aturkana (Original)	Ikoku Nikesisilan	id=14614

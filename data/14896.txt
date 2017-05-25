@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=14896&d=0&a=1
+id:	14896
+title:	Eu Sei Desenhar!
+author:	World Education
+artist:	Silva Afonso and Silva Afonso and Vusi Malindi
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14896.png
+desc:	Alfredo pode contar muitas histórias com seus desenhos.
+
+page_text:
+
+
+images:
+
+illustrations/pages/14015.png
+illustrations/pages/14016.png
+illustrations/pages/14017.png
+illustrations/pages/14018.png
+illustrations/pages/14019.png
+illustrations/pages/14020.png
+illustrations/pages/14021.png
+illustrations/pages/14022.png
+illustrations/pages/14902.png
+illustrations/pages/14023.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+English (Translation)	I Know How to Draw!	id=14952

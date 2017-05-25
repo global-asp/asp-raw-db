@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=17261&d=0&a=1
+id:	17261
+title:	Dëëra
+author:	Abulong Ojulu Okello
+artist:	Mlungisi Dlamini
+lang:	Anywak
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17261.png
+desc:	We can do many actions with our bodies
+
+page_text:
+
+P1	Løny man rienga kigø.
+P2	Løny man päära kigø.
+P3	Løny man miela kigø.
+P4	Løny man kwänga kigø.
+P5	Løny man käätta kigø.
+P6	Løny man bääla gø kigø.
+P7	Løny man päära wøk kigø.
+P8	Ba baløny man määtta kikø.
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+English (Adaptation)	My Body	id=9882
+isiXhosa (Translation)	Umzimba Wam	id=7685
+Kikamba (Translation)	Mwii Wakwa	id=2934
+Kiswahili (Translation)	Mwili Wangu	id=12632
+Luganda (Translation)	Omubiri Gwange	id=2935
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Sepedi (Translation)	Mmele Waka	id=7854
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386
+Zande (Translation)	Kptore	id=12613

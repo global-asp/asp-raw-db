@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=8712&d=0&a=1
+id:	8712
+title:	Sababu Chura Kuwa Na Sura Mbaya
+author:	Brigid Simiyu
+artist:	Hélder de Paz Alexandre
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8712.png
+desc:	Chura angekuwa na sura nzuri kama Mjusi kama angesikiliza!
+
+page_text:
+
+P1	Miaka mingi iliyopita,  Mjusi na Chura walikuwa marafiki. Siku moja waliamua kutafuta wasichana wapenzi jijini.
+P2	Chura alimwonea Mjusi wivu kwa vile ngozi yake ilimetameta na kuvutia.
+P3	Alisema: Kipi ulifanya ili ukaonekana mrembo hivi? Hebu,  niangalie,  nina sura mbaya mno. Ninaweza kufanya nini kuhusu ngozi yangu?
+P4	Mjusi alisema: Sikiliza! Tia maji chunguni kisha ukiweke mekoni. Halafu u.
+P5	Lakini Chura akasema: Najua tayari,  najua. Fyata ulimi,  rafiki yangu. Mara akaondoka.
+P6	Kwa hivyo alifika nyumbani na kutia maji chunguni.
+P7	Maji yalipoanza kuchemka,  alijitumbukiza ndani.
+P8	Na ngozi yake ikachomeka na mkia wake ukakatika!
+P9	Na badala ya kumetameta na kuwa mrembo kama Mjusi,  alikuwa na sura mbaya zaidi!
+
+images:
+
+illustrations/pages/7077.png
+illustrations/pages/7069.png
+illustrations/pages/7070.png
+illustrations/pages/7071.png
+illustrations/pages/7072.png
+illustrations/pages/7073.png
+illustrations/pages/7074.png
+illustrations/pages/7075.png
+illustrations/pages/7076.png
+illustrations/pages/7077.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+English (Adaptation)	Why Frog is so Ugly - Colouring Book	id=17360
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+isiXhosa (Adaptation)	Kutheni Isele Lilibi? (Faka Imibala)	id=17551
+Luganda (Translation)	Lwaki Wakikere Mubi Nnyo?	id=9657
+Luganda (Adaptation)	Wakikere Ne Wamunya	id=13778
+Ng’aturkana (Adaptation)	Akidodok Nabworok	id=13522
+Portuguese (Translation)	Porquê a Rã É Tão Feia?	id=7477
+Portuguese (Translation)	O Porquê Do Sapo Ser Tão Feio	id=19259
+siSwati (Translation)	Kungani Sicoco Sibe Sibi	id=12610
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

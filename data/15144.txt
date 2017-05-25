@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=15144&d=0&a=1
+id:	15144
+title:	Tihomu
+author:	Mongoe Bangaweni
+artist:	Catherine Groenewald and Sean Whitehead
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15144.png
+desc:	murisi wa tihomu u le tihonwini
+
+page_text:
+
+P1	Tihomu ta tsutsuma.
+P2	Murisi ule ndzhaku ka tihomu.
+P3	Tihomu Ti tsutsuma hirivilo rale henhla.
+P4	Tiraha kuhuma naritshuri, loko tirikarhi ti tsutsuma.
+P5	Murisi nayena wa landzela,  arikari a tsutsuma.
+P6	Tihomu hinkwato ti hlanganile. Murisi ule kuti languteni.
+
+images:
+
+illustrations/pages/1621.png
+illustrations/pages/1614.png
+illustrations/pages/1621.png
+illustrations/pages/1621.png
+illustrations/pages/4448.png
+illustrations/pages/1621.png
+illustrations/pages/1607.png
+
+translations:
+

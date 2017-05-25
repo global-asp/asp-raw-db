@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=16757&d=0&a=1
+id:	16757
+title:	Amina Xidiga Kubada Cagta
+author:	Abdikadir Abdullahi Ali
+artist:	Eden Daniels
+lang:	Somali
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16757.png
+desc:	Andiswa really wants to play soccer with the school team
+
+page_text:
+
+P1	Amina waxay dawatay wiilal kubada cagta ci yaarayan. Waxay damacday in ay kubirto ayaga. Waxay weydisay tawabaraha in ay tawabar laqadani karto ayaga.
+P2	Tawabaraha gacmaha ayuu saartay simihiisa. "Iskoolkan,  wilasha kali ayaa la,  ogolyahay in ay ciyaran kubada cagta",  ayuu yiri.
+P3	Cunuga wuxu ushegam in ay baxdo kadib ay ciyaarto kubada gacanta. Waxey dheheen kubada gacanta wa gabdhaha o kalian. Kubada cagta wa wilasha. Amina wey xanaaqsaneed.
+P4	Malinki xigtay macadka waxa kajiray ciyaar weyn o kubada cagta ah,  tawbaraha waxu mujiyay. Walwal,  sababto ah ciyaaryananadisa ugu wanagsana ay kaxanuunsaday maysan ciyaari karin.
+P5	Amina tawabaraha ayay kuoroday wayna bariday sii ogu ogolada inay ciyaarto. Tawabaraha muusan hubin waxuu sameyni dono. Kadib waxuu goansaday in Amina kubirto koxda.
+P6	Ciyarta way adkeed cid gool dhalisay majirto ciyarla gebta hore.
+P7	Qeebtii danbe ciyarta mid kamid ah ciyartooyda wilasha waxuu uturay kubada Amina. Waxay udhaqsatay si dhaasi leh goolka xagisa. Waxay darbeysay kubada si adag waxayna xareysay gool.
+P8	Dawadayaasha waxay lacajabeen farxad darteed kabikwato maalintaas,  gabdaha waxaa loogaladay inay ciyaaraan kubada cagta ee iskoolka.
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/4460.png
+illustrations/pages/4461.png
+illustrations/pages/4462.png
+illustrations/pages/4463.png
+illustrations/pages/4464.png
+illustrations/pages/4465.png
+illustrations/pages/4466.png
+illustrations/pages/4467.png
+
+translations:
+
+Amharic (Translation)	አዲሴ- የእግር ኳስ ኮከቧ	id=12962
+English (Original)	Andiswa Soccer Star	id=5283
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Tigrigna (Translation)	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ	id=18977
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

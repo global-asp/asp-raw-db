@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=2864&d=0&a=1
+id:	2864
+title:	Endáa É Enkakenyá
+author:	Unknown
+artist:	Cathy Feek
+lang:	Maa
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2864.png
+desc:	Táyioló ajó káínyoo kinyôr ó mpápá áainosá te enkákenya.
+
+page_text:
+
+P1	Kényor papa atoóko oloshoró.
+P2	Nányór nanú ainósa ilpáyêk oópejó te ilatá.
+P3	Nényor papa atoóko kahawa.
+P4	Nányor nanú atoóko kulé.
+P5	Kényór papa ainósa ilng'anayíó oóotô.
+P6	Kányór siî nanú ilng'anayíó oóotô.
+P7	Kényor papa emukáte. Kányor nanú emukáte napéjo.
+P8	Ékinyôr pókíra inkitumpuaaní sapúki.
+
+images:
+
+illustrations/pages/1571.png
+illustrations/pages/1572.png
+illustrations/pages/1573.png
+illustrations/pages/1574.png
+illustrations/pages/1575.png
+illustrations/pages/1576.png
+illustrations/pages/1577.png
+illustrations/pages/1571.png
+illustrations/pages/1578.png
+
+translations:
+
+English (Original)	Breakfast	id=2839
+isiZulu (Translation)	Ukudla Kwasekuseni	id=8735
+Kikamba (Translation)	Lĩu Wa Kwakya	id=2863
+Kiswahili (Translation)	Kifungua Kinywa	id=7780
+Luganda (Translation)	Lĩu Wa Kwakya	id=3039
+Luganda (Translation)	Ekyenkya	id=7782
+Lugbarati (Translation)	Nyaka O’Biti Si Ri	id=2862
+Lugbarati (Official) (Translation)	Nyaká Ò’Bíti Sɨ̀rɨ̀	id=8773
+Lunyole (Translation)	Ehyomumugamba	id=2844
+Lunyole (Translation)	Ebiryo Byo Mu Mugamba	id=12908
+Ng’aturkana (Translation)	Akimuji Na Ataparachu	id=8737
+Oluwanga (Translation)	Eshiokhulia Shiomumabwibwi	id=8738
+Sabinyi (Translation)	Amikap Koron	id=2847
+Setswana (Translation)	Difitlholo	id=2848
+Tunisian (Translation)	Fŧùr Iṡ-Ṡbèħ	id=15164

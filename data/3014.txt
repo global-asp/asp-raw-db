@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=3014&d=0&a=1
+id:	3014
+title:	Babaana Be Buwuula
+author:	Milton Eridad Shissa
+artist:	Wiehan de Jager
+lang:	Lumasaaba
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3014.png
+desc:	Aabawo lutweela
+
+page_text:
+
+P1	Aabawo khaalekho,  yabawo baalebe be muungo mutweela abe babamenya nga baasangaafu.
+P2	Abe sibasoolanakho ta. Baayeetatsaka naabi basaali baabwe muungo ni mu mikuunda.
+P3	Ne shonyene ndi abe sibafukiilisibwakho khukhwisyeendakho aambi ni kumulilo ta.
+P4	Abe bali ni khuukholatsaka kimilimo kyaabwe mu shilo mwonyene.
+P5	Ne mutweela khu basooleli abo wewotooma naabi khuutsyakho ibulafu mu muumu.
+P6	Ne lutweela khukhwiwotooma khuno khwaabiririra naabi. Babaandaaye baamureewura.
+P7	Ne byaba byaabirire khaale! Nga waamalile khaale khuuyengukhakila mu muumu kukwaba kwaabilile.
+P8	Basooleli be buwuula babaramile baawulila kumutaambo,  khuubona nga waandayaabwe ayengukhaka awawo.
+P9	Ne baafunayo shishambaaso shishiindi. Baryo baawumbaka buwuula bubuyengukhakile tsana,  baabuwumbamwo khanywiinywi.
+P10	Baayila waandaayabwe khanywiinywi tsana khu lukiingi luleeyi naabi.
+P11	Nga inyaanga niyarura,  waapamburukha waatsya nga eemba mu buwaanga bwe kumutikhinyi.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

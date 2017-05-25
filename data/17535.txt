@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=17535&d=0&a=1
+id:	17535
+title:	Inkawu Itya Umsila Wayo (Faka Imibala)
+author:	Nokuthula Bernelee Dyonase
+artist:	Horácio José Cossa
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17535.png
+desc:	Umvundla uqalile ngamaqhinga!
+
+page_text:
+
+P1	Kudala,  umvundla wayengumhlobo omkhulu wenkawu.
+P2	Ngenye imini umvundla wathi,  "Makhe sihambe siyokhangela into etyiwayo." Inkawu yavuma,  kodwa yayenzelwe umgibe.
+P3	Baya entsimini yombona baze baqalisa ukutya.
+P4	Kodwa umvundla ondwebileyo wayethethe nabanini bentsimi ukuze babambisele inkawu kwaye bayibonise ukuba yayisisidenge.
+P5	Umvundla ondwebileyo waqalisa ukukhwaza,  "Amasela! Amasela! Umbona wenu wonke uphelile!" Waze watsiba wabaleka.
+P6	Ngesiquphe bavela abanini bentsimi baze bafumana inkawu izama ukubaleka. Kodwa yayinomsila omde kwaye kwakunzima ukuba ibaleke.
+P7	Abanini bentsimi bayilandela bekhwaza,  "Yima! Yima! Sikubonile uyinkawu."
+P8	Bayibamba ke ngoko baze baqalisa ukuyibetha.
+P9	Zange ikwazi ukunyamezela iintlungu yaze yathi,  "Bendikunye nomhlobo wam umvundla. Bendimenywe nguye."
+P10	Kodwa abanini bentsimi bawuqhawula umsila wayo baze bayixelela,  "Hamba uyoxelela umhlobo wakho ukuba siwunqumle umsila wakho!"
+P11	Ngoko ke baya emzini womvundla baze bapheka umsila wenkawu bezakuwutya. Umvundla wamema inkawu izokutya isidlo sasemini.
+P12	Besakugqiba ukutya umvundla wabuza inkawu ukuba yayisazi ukuba itye ntoni na? Isidenge senkawu saphendula,  "Hayi,  andazi!"
+P13	Umvundla wayixelela ukuba yayigqiba kutya umsila wayo waze wabaleka. Babaziintshaba ukusukela ngoko!
+
+images:
+
+illustrations/pages/8012.png
+illustrations/pages/17167.png
+illustrations/pages/17169.png
+illustrations/pages/17170.png
+illustrations/pages/17171.png
+illustrations/pages/17172.png
+illustrations/pages/17173.png
+illustrations/pages/17174.png
+illustrations/pages/17175.png
+illustrations/pages/17176.png
+illustrations/pages/17177.png
+illustrations/pages/17178.png
+illustrations/pages/17179.png
+illustrations/pages/17180.png
+
+translations:
+
+English (Adaptation)	Monkey Eats His Own Tail	id=10559
+English (Original)	Monkey Eats His Own Tail	id=16574
+English (Adaptation)	Monkey Eats His Own Tail - Colouring Book	id=17168
+isiXhosa (Translation)	Inkawu Itya Umsila Wayo	id=7882
+Ng’aturkana (Translation)	Ekadokot Lo Anyami Ekosim Keng.	id=10560
+Portuguese (Translation)	O Macaco Que Comeu a Sua Própria Cauda	id=8166

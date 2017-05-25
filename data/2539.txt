@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=2539&d=0&a=1
+id:	2539
+title:	Izilwanyana Zasekhaya
+author:	Veronica Ntombentsha Magalela and Nolitha Bikitsha
+artist:	Sandy Campbell
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2539.png
+desc:	Mamela nzulu izandi ezenziwa zizilwanyana zasekhaya. Ngxolo ini eyenziwa ngumlimi?
+
+page_text:
+
+P1	Nazi izilwanyana zasekhaya.
+P2	Inkomo iyakhala ithi,  "Mhu-u-u. Mhu-u-u." Inkomo ifuna amanzi.
+P3	Ibhokhwe iyakhala ithi,  "Mhe-e-e-eh. Mhe-e-e-eh." Ibhokhwe ifuna amanzi.
+P4	Ihashe liyakhala lithi,  "Yi-hi-hi-hi. Yi-hi-hi-hi." Ihashe lifuna amanzi.
+P5	Ihagu iyakhala ithi,  "Hho-hho-hho-i-i-i-i." Ihagu ifuna amanzi.
+P6	Isikhukukazi siyakhala sithi,  "ke-ke-ke-keeee,  ke-ke." Isikhukukazi sifuna amanzi.
+P7	Inja iyakhonkotha ithi,  "Hawu-hawu-hawu." Inja ifuna amanzi.
+P8	Umlimi uphendula uthi,  "Shhh! Nanga amanzi!"
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/1750.png
+illustrations/pages/1751.png
+illustrations/pages/1752.png
+illustrations/pages/1753.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+Ateso (Translation)	Ongolia Ityiang Lu	id=9209
+English (Original)	Look at the Animals	id=1221
+English (Adaptation)	Domestic Animals	id=9680
+English (Adaptation)	Look at the Animals	id=10257
+isiZulu (Translation)	Izilwane Zasepulazini	id=2540
+Kiswahili (Translation)	Watazame Wanyama	id=9479
+Kiswahili (Adaptation)	Wanyama Wa Kufugwa	id=9681
+Kiswahili (Adaptation)	Manyati Na Wanyama Wake	id=16742
+Lugbarati (Translation)	Mi Ne Nga Anyapa 'diyi	id=12648
+Lunyole (Translation)	Bona Esolo	id=11618
+Lunyole (Adaptation)	Boon Ebisolo	id=16737
+Rutooro (Adaptation)	Test Dora Ebisoro Sd	id=16736
+Rutooro (Translation)	Test Dora Ebisoro	id=16740
+Rutooro (Adaptation)	Test Dora Ebisoro Nm	id=16741
+Rutooro (Adaptation)	Test Dora Ebisoro	id=16743
+Sepedi (Translation)	Diphoofolo Tša Ka Gae	id=2544
+Sesotho (Lesotho) (Translation)	Liphohofolo Tsa Polasing	id=2543

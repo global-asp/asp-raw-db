@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=2387&d=0&a=1
+id:	2387
+title:	Little Dog
+author:	Val Morris
+artist:	Heslia Schon
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2387.png
+desc:	A story about a little dog and cat playing with a ball.
+
+page_text:
+
+P1	One day Little Dog was playing with a ball.
+P2	He saw a cat. He said,  "Hello,  Little Cat. Can I play with you?" Little Cat said,  "I will play with you. Can I play with your ball?"
+P3	"Yes," said Little Dog. "It is a red ball. I will kick it to you and you can hit it back to me."
+P4	So the two little friends began to play. Little Dog said,  "I like to play with you. It is fun. You are a good friend."
+P5	The big red ball went over the wall. Little Cat began to cry. "We do not have a ball to play with."
+P6	"I like to play with the big red ball," said Little Cat. Little Cat began to cry and cry.
+P7	"I will get the ball," said Little Dog and he jumped over the wall.
+P8	Soon he was back with the ball. Little Cat was happy that it was back. The two friends played and played.
+P9	Little Dog said,  "Come to my house and let us look at a picture book." In the picture book,  they saw a little dog play ball with a little cat!
+
+images:
+
+illustrations/pages/2376.png
+illustrations/pages/2377.png
+illustrations/pages/2378.png
+illustrations/pages/2379.png
+illustrations/pages/2380.png
+illustrations/pages/2381.png
+illustrations/pages/2382.png
+illustrations/pages/2383.png
+illustrations/pages/2384.png
+illustrations/pages/2385.png
+
+translations:
+
+isiZulu (Translation)	Inja Encane	id=7305

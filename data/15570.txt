@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=15570&d=0&a=1
+id:	15570
+title:	ፋንቱና እቅዷ
+author:	ነጋሳ እጀታ (Negassa Ejeta)
+artist:	Atilabachew Reda
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15570.png
+desc:	ፋንቱና እቅዷ የአንደኛ ክፍል ተማሪ ታሪክ ነው፡፡ ፋንቱ ጥሩ ልጅ ለመሆን ትፈልጋለች፡፡ ለልጆችም ስለዕለታዊ ተግባራቷ ትናገራለች፡፡
+
+page_text:
+
+P1	ፋንቱ በድሉ እባላለሁ። የአንደኛ ክፍል ተማሪ ነኝ። ዕድሜዬ ሰባት ዓመት ነው። ጥሩ ልጅና ጎበዝ ተማሪ መሆን እፈልጋለሁ።
+P2	በጠዋት ከእንቅልፌ ስነሳ ወደ መጸዳጃ ቤት እሄዳለሁ።
+P3	እጄንና ፊቴን እታጠባለሁ፤ አፌን በደንብ እጉመጠመጣለሁ።
+P4	ቁርሴን በልቼ ስጨርስ ደብተሮቼንና መጻሕፍቴን ይዤ ወደ ትምህርት ቤት እሄዳለሁ።
+P5	በመንገድ ላይ አልጫወትም፤ የመኪና መንገድ ሳቋርጥም እጠነቀቃለሁ።
+P6	በትምህርት ቤቴ በሰዓቱ እገኛለሁ።
+P7	ለሰንደቅ አላማ መዝሙር እሰለፋለሁ።
+P8	ክፍል ገብቼ ስሜ ሲጠራ ቆሜ ''አቤት'' እላለሁ።
+P9	መምህሬ ሲያስረዱ በጥንቃቄ አዳምጣለሁ፤ ያልገባኝንም እጠይቃለሁ።
+P10	መምህሬ በጥቁር ሰሌዳ ላይ የጻፉትን በደብተሮቼ ላይ እገለብጣለሁ።
+P11	ከጓደኞቼ ጋር በቡድን አጠናለሁ።
+P12	የክፍልና የቤት ሥራዬን ቀድሜ አሳርማለሁ።
+P13	በእረፍት ጊዜና በምሳ ሰዓት ከጓደኞቼ ጋር እጫወታለሁ።
+P14	ከጓደኞቼ ጋር በፍጹም አልጣላም፤ ከአጠፋሁም ይቅርታ እጠይቃለሁ።
+P15	በኔ ጉዳይ ላይ መምህሬና ወላጆቼ በቅርብ ይወያያሉ።
+P16	እኔም የሁሉንም ምክር በአክብሮት እቀበላለሁ።
+P17	ከትምህርት በኋላ ትንሽ ተጫውቼ አጠናለሁ፤ የቤት ሥራዬንም እሠራለሁ።
+P18	እጄን ታጥቤ እራቴን ከበላሁ በኋላ አፌን ተጉመጥምጬ እተኛለሁ።
+
+images:
+
+illustrations/pages/15530.png
+illustrations/pages/15529.png
+illustrations/pages/15530.png
+illustrations/pages/15531.png
+illustrations/pages/15532.png
+illustrations/pages/15533.png
+illustrations/pages/15534.png
+illustrations/pages/15535.png
+illustrations/pages/15536.png
+illustrations/pages/15538.png
+illustrations/pages/15539.png
+illustrations/pages/15540.png
+illustrations/pages/15542.png
+illustrations/pages/15543.png
+illustrations/pages/15550.png
+illustrations/pages/15545.png
+illustrations/pages/15547.png
+illustrations/pages/15548.png
+illustrations/pages/15549.png
+
+translations:
+
+Afaan Oromo (Translation)	Faantuufi Karoora Ishee	id=15568
+English (Original)	Fantu	id=15541

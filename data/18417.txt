@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=18417&d=0&a=1
+id:	18417
+title:	Chiriku
+author:	Ursula Nafula
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18417.png
+desc:	Chiriku ni mcheshi
+
+page_text:
+
+P1	Chiriku alikatazwa na mamake kuongea sana. Hakutii.
+P2	Shangazi ya Chiriku aliishi mbali. Siku moja,  alikuwa mgonjwa.
+P3	Chiriku alitumwa ampelekee shangazi yake chakula. Ilikuwa jioni.
+P4	Chiriku alikutana na  Sinso. Sinso alikuwa fisi aliyegeuka mtu.
+P5	Sinso alimwuliza Chiriku alichobeba. Alimjibu,  "Nimebeba nyama na mayai."
+P6	Chiriku pia alisema,  "Ninampelekea shangazi mgonjwa."   Sinso alitamani chakula hicho.
+P7	Sinso alimwambia kwaheri. Alikimbia akajificha nyumbani kwa shangazi.
+P8	Sinso alimmeza shangazi. Akajifunika blanketi. 
+P9	Chiriku alipowasili,  nyumba ilikuwa kimya kabisa. Aliita,  "Shangazi,  uko wapi?"
+P10	Chiriku hakumsikia shangazi. Aliingia katika chumba. Alishangaa kuona umbo kubwa.
+P11	Chiriku alimwuliza,  "Mbona una masikio makubwa?"   Sinso alimjibu,  "Ili nikusikie."
+P12	Aimwuliza tena,  "Mbona una macho makubwa?" Sinsou alimjibu,  "Ili nikuone."
+P13	Mwisho alimwuliza,  "Mbona una mdomo mkubwa?" Sinso alimjibu,  "Ili nikumeze."
+P14	Sinso alimmeza Chiriku. Chiriku aliendelea kuuliza maswali akiwa tumboni.
+P15	Mwishoni,  Sinso alichoka na maswali mengi aliyouliza Chiriku. Alimtema nje.
+P16	Chiriku na shangazi yake waliokolewa. Chiriku alikoma kuongea ovyo.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
+isiXhosa (Translation)	Unandipha Intombazana Elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

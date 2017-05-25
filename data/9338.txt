@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=9338&d=0&a=1
+id:	9338
+title:	Enyami Edokolet Eke Kori
+author:	John Emongot
+artist:	Horácio José Cossa
+lang:	Ateso
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9338.png
+desc:	Edokolet lo obu onyam eke kori
+
+page_text:
+
+P1	Adope paran arasi ipooo ka edokolet ipapero.
+P2	Anen obu ipoo olimok opapero ke, alotoailate amowutu ibore yeni inyamari. Obu edokolet lo ocam konye mam ajeni ebe emodikitai ngesi.
+P3	Opotu oloto amusiri na ekirididi osodete alomakin aiyam.
+P4	Konye acoo ipoo yen obu olot aikwenyar ikulepeke amusiri aikamun edokolet lo ka aitodikin ngesi ebe bangana ngesi noi.
+P5	Ogeyari ipoo yen aresianar,  ikokolak! Ikokolak! Ikokolak! Adawun ekus kirididi kere! Anen odakuni ekesa je adai okeri.
+P6	Atipet opotu ikulepek amusiri okerutu adumun edokolet etami akeryari konye ajasi kede ekori lo awojan lo esipikorit ngesi akerit.
+P7	Olomakinete ikulepek aidap edokolet obalasi, obwowu! Obwowu! Iwanyu iso jo,  irai jo edokolet.
+P8	Oponi ikamunai ngesi osodete abukokin agweret.
+P9	Mam ngesi apedori aililing obu olimo, awupa engo kede opaperoka ipoo. Arai ngesi ayawuni engo nee.
+P10	Konye opotu ikulepek ojepasi eke kori. Osodete alimokin ngesi ebe olot olimok opapero kon ebe ajepar eka kori!
+P11	Osodete alosit oreke ipoo aipo ekori k'edokolet aiyam. Obu ipoo onyarawu edokolet lo abunere aiyam n'aparan.
+P12	Akawulo n'adawun eiyam, obu ipoo ingit edokolet ibore yen anyam ngesi. Amamut aijen obu otemar ebe mam ngesi ejeni.
+P13	Oponi ikwenyakinai ngesi ebe inyam jo ekoni kori. Iposiari edokolet akerit. Anyowun angin opotu ityang lu okolokinos!
+
+images:
+
+illustrations/pages/8012.png
+illustrations/pages/8010.png
+illustrations/pages/8011.png
+illustrations/pages/8012.png
+illustrations/pages/8013.png
+illustrations/pages/8014.png
+illustrations/pages/8015.png
+illustrations/pages/8016.png
+illustrations/pages/8017.png
+illustrations/pages/8018.png
+illustrations/pages/8019.png
+illustrations/pages/8020.png
+illustrations/pages/8021.png
+illustrations/pages/8022.png
+
+translations:
+
+isiZulu (Translation)	Inkawu Idla Umsila Wayo	id=10023
+Kiswahili (Translation)	Kima Kijani Kibichi Ala Mkia Wake	id=8706
+Kiswahili (Adaptation)	Kima Apoteza Mkia Wake	id=13153

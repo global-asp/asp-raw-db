@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=2506&d=0&a=1
+id:	2506
+title:	Abaana Abaava Mu Nvumbo
+author:	Mwesigwa Joshua Waswa
+artist:	Wiehan de Jager
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2506.png
+desc:	Edda ennyo waaliwo amaka omwali abaana abawulize ennyo basatu. Ekibi nti abaana abo baali baava mu nvumbo. Bwe kityo baalinga okukola buli kintu ekiro olw’okwewala okusaanuukira mu musana. Naye omu ku balensi ayagala okugendako ebweru alabe ku kitangaala ky’omusana era bw’atyo atambula n’agenda ebweru. Era nga bwe kisuubirwa
+
+page_text:
+
+P1	Awo olwatuuka ne wabaawo amaka agaali amasanyufu ennyo.
+P2	Tebaalwanagananga era baayambanga nnyo bazadde baabwe ewaka ne mu nnimiro.
+P3	Naye tebaabaganyanga kuliraana muliro.
+P4	Baakolanga emirimu gyabwe mu budde obw'ekiro.
+P5	Omu ku balenzi yayagalanga nnyo okugendako mu musana.
+P6	Olunaku lumu,  omwana omulenzi oyo yawulira ng'ayagala nnyo okugenda mu musana naye baganda be ne bamulabula.
+P7	Naye omulenzi ono yali yagenze dda mu musana. Omulenzi oyo era yasaanuukira mu musana ogwali gwaka ennyo.
+P8	Baganda be ne banakuwala nnyo olwa muganda waabwe okusaanuuka.
+P9	Naye ne bayiiya okubaako kye bakola. Olwo ne bakola ekinyonyi okuva nvumbo eyasaanuuka okuva mu muganda waabwe.
+P10	Ekinyonyi ekyo kye bo kye baalaba nga muganda waabwe ne bakitwala ku lusozi oluwanvu ne bakiteeka eyo.
+P11	Awo omusana bwe gwayaka ne kibuuka nga bwe kiyimba mu kitangaala ky'oku makya.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

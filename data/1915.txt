@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=1915&d=0&a=1
+id:	1915
+title:	Sekolo Sa Murung
+author:	Moeketsi Buku
+artist:	Ketan Raut
+lang:	Sesotho (Lesotho)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1915.png
+desc:	The animals in the jungle rush to the new school with great enthusiasm. But they are not enthusiastic when they see who their new teacher is.
+
+page_text:
+
+P1	Khale khale ho ne ho na le muru o lefifi haholo.
+P2	E ne e le muru o moholo o na le lifate tse ngata le litsela tse tsétsáne haholo. Liphohofolo tse ngata le linonyana li ne li lula mona.
+P3	One day,  all the animals came together. "Did you hear?" asked Tota,  the parrot. "Yes," said Hirni,  the deer. "What?" asked Darpok,  the rabbit. "We have a school in the jungle," answered Zhoola,  the monkey. Mota,  the elephant wondered,  "Hmph?" Lamboo,  the giraffe said,  "Oh good!" Dheema,  the snail squealed,  "Hurry,  let's go!"
+P4	Tota,  the parrot flew ahead. Zhoola,  the monkey jumped from tree to tree. Poorakha,  the python slithered fast. "Here!" shouted Tota. "Can you read?" "It is upside down,  I think," said Zhoola hanging by the branch. Poorakha concluded,  "Hisssss. No one can read."
+P5	Soon,  all the other friends joined them. Lamboo looked over the tree. "No one here," he said. Zhoola repeated,  "No one here." Tota proposed,  "Look carefully!" Pilloo,  the little bear declared,  "I found a room!"
+P6	"I found a swing," announced Dheema. "What are these blocks?" Darpok wanted to know. "What is this?" was Zhoola's question. Poorakha explained,  "I believe this is a pencil."
+P7	Mota and Lamboo found a classroom. They called the others,  "Look,  what is this?" Everyone came with school bags. They began shouting,  "Teacher! Teacher! Where is our teacher?" No one knew.
+P8	Then they heard a roar. They heard a loud roar. They heard a louder roar. Poorakha was worried. Dheema was scared. Tota hid behind the board. Lamboo and Zhoola were puzzled.
+P9	Who is this? "Hup!" said Zhoola the monkey. No one spoke. They all looked at the teacher. Up and down carefully. Then they looked at one another.
+P10	The teacher turned to write on the black board. "Jump," said Zhoola. "Fly!" said Tota. Thump,  thump,  thump ran Mota. "Run,  run,  run fast," screamed Dheema. When the teacher turned. There was no one in the class.
+
+images:
+
+illustrations/pages/1905.png
+illustrations/pages/1906.png
+illustrations/pages/1907.png
+illustrations/pages/1908.png
+illustrations/pages/1909.png
+illustrations/pages/1910.png
+illustrations/pages/1912.png
+illustrations/pages/1913.png
+illustrations/pages/1913.png
+illustrations/pages/1916.png
+illustrations/pages/1914.png
+
+translations:
+
+English (Original)	The Jungle School	id=9549
+isiXhosa (Translation)	Isikolo Sasehlathini	id=7279
+isiZulu (Translation)	Isikole Esisehlathini	id=3182
+isiZulu (Translation)	Isikole Esisehlathini	id=17134
+Sepedi (Translation)	Sekolo Sa Sethokgweng	id=2985

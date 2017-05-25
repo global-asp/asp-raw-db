@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20043&d=0&a=1
+id:	20043
+title:	Kgomo Eso Pendo
+author:	Tseliso Masolane
+artist:	Rob Owen
+lang:	Sesotho (South Africa)
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20043.png
+desc:	Pale ya kgomo e ratwang haholo ya lelapa.
+
+page_text:
+
+P1	Enwa ke Ndalo.
+P2	Ndalo o rata ho bala dibuka.
+P3	Enwa ke Pendo.
+P4	Pendo e rata ho ja dihwete.
+P5	Ndalo o fudisa Pendo ha sekolo se tswa.
+P6	O nwesa Pendo metsi a hlwekileng.
+P7	Ntate o fa Pendo furu.
+P8	O hama Pendo ka mehla.
+P9	Pendo e fana ka lebese le lengata.
+P10	Ntate o rekisa lebese la Pendo.
+P11	Ndalo o nwa lebese le foreshe ka mehla.
+P12	O re, "Ke a leboha Pendo!"
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/11992.png
+illustrations/pages/7944.png
+illustrations/pages/11993.png
+illustrations/pages/7939.png
+illustrations/pages/11994.png
+illustrations/pages/7938.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+illustrations/pages/7941.png
+illustrations/pages/7943.png
+illustrations/pages/11997.png
+illustrations/pages/7945.png
+
+translations:
+
+Afrikaans (Translation)	Pendo, Ons Koei 	id=20092
+English (Adaptation)	Pendo Our Cow	id=11991
+Kiswahili (Original)	Ng’Ombe Wetu Pendo	id=8056

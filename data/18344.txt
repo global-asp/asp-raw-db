@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=18344&d=0&a=1
+id:	18344
+title:	Umoja
+author:	Ursula Nafula
+artist:	Vusi Malindi
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18344.png
+desc:	Wanakijiji wanaungana kubadilisha maisha yao.
+
+page_text:
+
+P1	Kijiji chetu kilikuwa na shida nyingi. Tulikuwa na mfereji mmoja.
+P2	Tulitegemea chakula cha msaada.
+P3	Tuliogopa kuvamiwa na wezi.
+P4	Wazazi wengine hawakuweza kulipa karo.
+P5	Wasichana wadogo waliacha shule.
+P6	Wavulana wadogo walirandaranda kijijini.
+P7	Uchafu ulikuwa kila mahali.
+P8	Watu walikatwa na vipande vya chupa.
+P9	Siku moja,  mfereji ulikosa maji.
+P10	Babangu aliwaita watu waende mkutano.
+P11	Watu walikusanyika wakajadiliana.
+P12	Babangu alisema,  "Lazima tuyabadilishe maisha yetu."
+P13	Mimi nilisema,  "Nitasafisha uwanja wa nyumba yetu."
+P14	Mamake Dama alisema,  "Wanawake wataungana wapande chakula."
+P15	Babake Mumo alisema,  "Wanaume watachimba kisima cha maji."
+P16	Kwa sauti moja tulisema,  "Tuyabadilishe maisha yetu."
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/10609.png
+illustrations/pages/10616.png
+illustrations/pages/10614.png
+illustrations/pages/10611.png
+illustrations/pages/10613.png
+illustrations/pages/10615.png
+illustrations/pages/10617.png
+illustrations/pages/10612.png
+illustrations/pages/10610.png
+illustrations/pages/10618.png
+illustrations/pages/10619.png
+illustrations/pages/10620.png
+illustrations/pages/10621.png
+illustrations/pages/10623.png
+illustrations/pages/10624.png
+illustrations/pages/10625.png
+
+translations:
+
+English (Translation)	Decision	id=13304
+Kiswahili (Original)	Uamuzi	id=13303

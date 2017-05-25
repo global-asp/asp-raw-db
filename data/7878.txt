@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=7878&d=0&a=1
+id:	7878
+title:	Ngwana Wa Sejato
+author:	Motlhago Sara Mohale
+artist:	Wiehan de Jager, Vusi Malindi, Rijuta Ghate, Sue Kramer, Catherine Groenewald, Benjamin Mitchley and Sandy Lightly
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7878.png
+desc:	Kanegelo ka mosetsanyana wa sejato. O a itshola morago ga go ja kudu.
+
+page_text:
+
+P1	Ke mesong. Letšatši le hlabile.
+P2	Kea o a tsoga.
+P3	Kea o a ja.
+P4	O ja panana.
+P5	O ja dikuku ka teye.
+P6	Ke yola o ja lefela.
+P7	Ke yoo o nwa mageu.
+P8	O dula fase. O nyamile.
+P9	O a lla.
+P10	Mala ke a magolo.
+P11	Mala a opa. O jele kudu. Ke sejato!
+
+images:
+
+illustrations/pages/6657.png
+illustrations/pages/6339.png
+illustrations/pages/7513.png
+illustrations/pages/6496.png
+illustrations/pages/1918.png
+illustrations/pages/2621.png
+illustrations/pages/6204.png
+illustrations/pages/5998.png
+illustrations/pages/6587.png
+illustrations/pages/6444.png
+illustrations/pages/6657.png
+illustrations/pages/6658.png
+
+translations:
+
+Sepedi (Original)	Ngwana Wa Sejato!	id=7852

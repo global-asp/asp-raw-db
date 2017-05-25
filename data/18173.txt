@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=18173&d=0&a=1
+id:	18173
+title:	Asɔbɔaya Be Ke Karga
+author:	Joseph Kipo Ahiah (OLE Ghana)
+artist:	Rob Owen
+lang:	Gonja
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18173.png
+desc:	Achukoŋ koAsɔbɔaya na kikɛ. Karga amo a ka bee yɔ nɛ a ya nuu nchu ere.
+
+page_text:
+
+P1	Jobote koŋnule e naa yɔ nɛ ku ya nuu nchu.
+P2	Ajirafu anyɔ e naa yɔ nɛ a ya nuu nchu.
+P3	Kupuntona asa nɛ mbuibi ana bee yɔ nɛ a ya nuu nchu.
+P4	Achɔŋ anu nɛ aligbi she bee nite ayɔ nchu na sɛ.
+P5	A zebra ashunu bee shile a yɔ nchu na a sɛ.
+P6	A tangbaga aburwa nɛ a kɔrtɔ akpanɔ bee laŋ nchu na to.
+P7	Buluŋ keŋwule ponte. Ku maalɛ gba bee sha nchu na nɛ ku nu. Wanɛ e naa ŋana buluŋ?
+P8	Jobote koŋwule nɛ buluŋ e naa nu nchu na.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9652.png
+illustrations/pages/9647.png
+illustrations/pages/9644.png
+illustrations/pages/9646.png
+illustrations/pages/9650.png
+illustrations/pages/9645.png
+illustrations/pages/9651.png
+illustrations/pages/9648.png
+
+translations:
+
+Afrikaans (Translation)	Tel Die Diere	id=10448
+Afrikaans (Translation)	Tel Die Diere	id=11413
+Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Asante Twi (Translation)	Mmoa Akenkan	id=18219
+Dagaare (Translation)	Donne Sɔrebo	id=17769
+Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
+Dangme (Translation)	Lohwehi Kanemi	id=18297
+English (Original)	Counting Animals	id=9671
+Ewe (Translation)	Lãwo Xexlẽ	id=18179
+Fante (Translation)	Mbowadoma Nkanee	id=18487
+French (Translation)	Compter Les Animaux	id=12654
+Ga (Translation)	Kooloi Kanemɔ	id=18287
+Kasem (Translation)	Vara Garem	id=18208
+Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
+Lámnsoʼ (Translation)	Á Táŋ Nyám Si	id=15064
+Luganda (Translation)	Ohubala Ebisolo	id=11905
+Lunyole (Adaptation)	Okubala Ebisolo	id=16664
+Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
+Nzema (Translation)	Nane Edianlɛ	id=18423
+Oluwanga (Translation)	Okhubala Tsisolo	id=19590
+Portuguese (Translation)	Contando Os Animais	id=16562
+Tunisian (Translation)	Ħisbèn Ħayewènèt	id=15389
+Yoruba (Translation)	Kíka Àwọn Ẹranko	id=16554

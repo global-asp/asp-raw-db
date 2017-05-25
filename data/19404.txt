@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=19404&d=0&a=1
+id:	19404
+title:	Marafiki Wawili Wadogo
+author:	Susan Kavaya
+artist:	Jesse Pietersen
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19404.png
+desc:	Hadithi ya kitamaduni ya Kihabeshi kuhusu marafiki wawili wadogo wanaokutana na baadaye kupoteza urafiki wao kwa sababu ya kuwa tofauti.
+
+page_text:
+
+P1	Hapo zamani za kale,  kulikuwa na Mbuzi Mdogo na Chui Mdogo. Walikuwa marafiki.
+P2	Walienda kucheza pamoja uwanjani.
+P3	Walirudi nyumbani jioni sana.
+P4	Mbuzi mdogo alimwambia mamake,  "Nilikutana na rafiki mrembo. Ana madoadoa maridadi. Nimefurahi sana. Tutakutana tena kesho."
+P5	Mamake Mbuzi Mdogo alijibu,  "Aa,  mwanangu. Nimefurahi umerudi salama. Yeye si rafiki yetu. Usikutane naye tena."
+P6	Wakati huo huo,  Chui Mdogo alimwambia mamake,  "Nilikutana na rafiki mrembo. Anapenda kucheza sana. Nimefurahi. Tutakutana tena kesho."
+P7	Mamake alijibu,  "Aa,  maskini mwanangu. Yule alikuwa mbuzi mdogo mrembo. Nasikitika hukumla. Utakapokutana naye kesho,  muue na umle. Usiogope."
+P8	Siku iliyofuata,  Chui Mdogo alienda katika kijiji cha Mbuzi Mdogo.
+P9	Mbuzi Mdogo hakuwa nje. Alikuwa amejificha nyumbani na mamake.
+P10	Chui Mdogo alipaza sauti,  "Twende uwanjani tucheze."
+P11	Mbuzi Mdogo alijibu,  "Sisi si marafiki tena. Leo siji. Nimemsikiza mamangu. Watoto wazuri huwasikiza mama zao."
+P12	Chui Mdogo alihuzunika. Alirudi kwa mamake.
+
+images:
+
+illustrations/pages/18402.png
+illustrations/pages/18401.png
+illustrations/pages/18402.png
+illustrations/pages/18403.png
+illustrations/pages/18404.png
+illustrations/pages/18405.png
+illustrations/pages/18406.png
+illustrations/pages/18407.png
+illustrations/pages/18408.png
+illustrations/pages/18409.png
+illustrations/pages/18410.png
+illustrations/pages/18411.png
+illustrations/pages/18412.png
+
+translations:
+
+English (Original)	Two Little Friends	id=18420
+Ng’aturkana (Translation)	Ng’Ipalon Ng’Iarei Lochamam	id=18421

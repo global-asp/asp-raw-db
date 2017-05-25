@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=17468&d=0&a=1
+id:	17468
+title:	Nyiramaterefone
+author:	Sylvestre Ntabajyana
+artist:	Marion Drew
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17468.png
+desc:	Nyiramaterefone aratangaje cyane. Ibaze nawe umuntu ufite telefone eshanu zo kuganiriraho n’abantu batandukanye?
+
+page_text:
+
+P1	Yitwa Nyiramaterefone. Mwitegereze se!
+P2	Afite terefone eshanu zigendanwa. Uko abyutse ahita atondekanya izo terefone uko ari eshanu ku meza.
+P3	Iy'umuhondo ayikoresha mu kuvugana n'abo mu muryango we.
+P4	Iy'umweru ayikoresha avugana n'abo bakorana.
+P5	Itukura ayikoresha avugana n'abamurimo imyenda.
+P6	Iy'ikigina ayikoresha iyo avugana n'inshuti ze z'inkoramutima.
+P7	Iy'umuhemba akayikoresha avugana n'abamukeneyeho inkunga.
+P8	Nyiraterefone akunda gushimisha abantu. Ntabwo akunda amahane.
+P9	Yemererera abana kuza kureba televiziyoku iduka rye.
+P10	Akunda gusura abarwayi ndetse n'abakecuru n'abasaza mu ngo zabo.
+P11	Aho anyuze hose baririmba izina rye bati,  "Nyiramaterefone! Nyiramaterefone!"
+P12	Na we akishima avuga ati,  "Ndi Nyiramaterefone,  nimurebe uburyo terefone zanjye ari nziza!" Nguwo Nyiramaterefone na terefone ze eshanu zigendanwa.
+
+images:
+
+illustrations/pages/10053.png
+illustrations/pages/10048.png
+illustrations/pages/10049.png
+illustrations/pages/10050.png
+illustrations/pages/10051.png
+illustrations/pages/10052.png
+illustrations/pages/10053.png
+illustrations/pages/10054.png
+illustrations/pages/10055.png
+illustrations/pages/10056.png
+illustrations/pages/10057.png
+illustrations/pages/10058.png
+illustrations/pages/10059.png
+
+translations:
+
+Dhopadhola (Translation)	Nya Simu	id=15765
+English (Translation)	Ms Phone	id=14420
+French (Translation)	Mme Téléphone !	id=14969
+Kiswahili (Original)	Bi Simu	id=14419
+Portuguese (Translation)	Menina Telefone	id=17046
+Setswana (Translation)	Mma Mogala	id=14939

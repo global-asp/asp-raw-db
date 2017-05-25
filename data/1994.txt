@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=1994&d=0&a=1
+id:	1994
+title:	Umndeni Wami
+author:	Clare Verbeek
+artist:	Kathy Arbuckle
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1994.png
+desc:	This story is about the different sorts of books my family reads.
+
+page_text:
+
+P1	Umfowethu ufunda incwadi yesikole.
+P2	Umama ufunda iBhayibheli.
+P3	Udadewethu yena ufunda incwadi yokupheka.
+P4	Umalume ufunda iphephandaba.
+P5	Ugogo yena ufunda ibhuku.
+P6	Udadewethu omncane ufunda incwadi enezithombe.
+P7	Mina ngifunda le ncwadi.
+P8	Maduze nje ngizobe ngikwazi ukufunda konke!
+
+images:
+
+illustrations/pages/1791.png
+illustrations/pages/1630.png
+illustrations/pages/1631.png
+illustrations/pages/1632.png
+illustrations/pages/1633.png
+illustrations/pages/1634.png
+illustrations/pages/1635.png
+illustrations/pages/1636.png
+illustrations/pages/1637.png
+
+translations:
+

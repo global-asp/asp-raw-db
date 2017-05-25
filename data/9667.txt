@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=9667&d=0&a=1
+id:	9667
+title:	Jajja Wange Omukyala.
+author:	Cissy Namugerwa
+artist:	Ingrid Schechter
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9667.png
+desc:	Olugero lukwata ku mukwa gwa jajja wamu na bazzukulu.
+
+page_text:
+
+P1	Jajja wange ambuuza.
+P2	Tudduka okutuunirira ente ya jajja mukyala.
+P3	Era njifuna naye.
+P4	Wabula ate ne mudduka ko.
+P5	Jajja mukyala akoowa nnyo.
+
+images:
+
+illustrations/pages/7579.png
+illustrations/pages/7583.png
+illustrations/pages/7587.png
+illustrations/pages/7579.png
+illustrations/pages/7592.png
+illustrations/pages/7580.png
+
+translations:
+
+English (Original)	My Grandma.	id=7652
+Luganda (Translation)	Jjajja Wange.	id=7668

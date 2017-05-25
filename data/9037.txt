@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=9037&d=0&a=1
+id:	9037
+title:	Neymar's Visit to Africa
+author:	
+artist:	Benard Agasi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9037.png
+desc:	An imaginary description of footballer Neymar da Silva Santos’ visit to African countries to demonstrate specific soccer skills.
+
+page_text:
+
+P1	When Neymar arrived in Africa he landed in the capital city of Nigeria. The Nigerians told him to demonstrate the skill of passing the ball using the instep.
+P2	From Nigeria,  he moved to Ghana to demonstrate passing the ball using the inside of the foot. This made all the people in Ghana very happy.
+P3	While in Ghana,  Neymar received an invitation from South Africa to demonstrate trapping the ball using the front of the foot.
+P4	From South Africa,  he moved to Chad. In Chad he demonstrated trapping the ball using the side of the foot.
+P5	When Neymar reached DR Congo,  he shook the country with the skill of trapping the ball using the thigh.
+P6	The Ugandans who watched Neymar in the Congo decided to invite him to demonstrate the skill of tackling.
+P7	This news then spread all over East Africa. The Kenyans welcomed Neymar to demonstrate punching in goal keeping.
+P8	The same week the Tanzanians called for Neymar to demonstrate the skill of heading in passing the ball.
+P9	He later moved to Rwanda to demonstrate the skill of passing the ball using the outside of the foot.
+P10	After Rwanda,  Neymar concluded his African trip in South Sudan,  where he demonstrated the skill of punting in goal keeping.
+
+images:
+
+illustrations/pages/9006.png
+illustrations/pages/9006.png
+illustrations/pages/9007.png
+illustrations/pages/9008.png
+illustrations/pages/9009.png
+illustrations/pages/9010.png
+illustrations/pages/9011.png
+illustrations/pages/9012.png
+illustrations/pages/9013.png
+illustrations/pages/9014.png
+illustrations/pages/9015.png
+
+translations:
+
+Afrikaans (Translation)	Neymar Se Besoek Aan Afrika	id=11548
+French (Translation)	La Visite De Neyman en Afrique	id=12675
+Lugbarati (Original)	Neymar Ma Emu Taa Afrika Ri	id=9029
+Portuguese (Translation)	A Visita Do Neymar a África	id=17620
+Rutooro (Translation)	Orubungo Rwa Neyma Mu Afirika	id=14937
+Tshivenda (Translation)	Neymar's U Dalela Africa	id=9981

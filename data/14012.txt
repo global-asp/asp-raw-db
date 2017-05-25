@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=14012&d=0&a=1
+id:	14012
+title:	Eu Pinto
+author:	World Education
+artist:	Silva Afonso, Vusumuzi Malindi and José Jochicala
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14012.png
+desc:	Eu pinto com os meus lápis de color.
+
+page_text:
+
+P1	.
+
+images:
+
+illustrations/pages/13669.png
+illustrations/pages/13670.png
+illustrations/pages/13671.png
+illustrations/pages/13672.png
+illustrations/pages/13673.png
+illustrations/pages/13674.png
+illustrations/pages/13675.png
+illustrations/pages/13676.png
+illustrations/pages/13677.png
+illustrations/pages/13678.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Ciyawo (Adaptation)	Wune Ngupeta	id=15772
+English (Translation)	I Colour In	id=14514
+French (Translation)	Je Peins	id=14536

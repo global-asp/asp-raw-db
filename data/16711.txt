@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=16711&d=0&a=1
+id:	16711
+title:	Mpiti N’Ofudu
+author:	Cyprian Wadda
+artist:	Salim Kasamba
+lang:	Lugwere
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16711.png
+desc:	Engeri oFudu giyafuniremu ekikonkolo n’oMpiti engeri giyafuniremu amabala oku mugongo.
+
+page_text:
+
+P1	Omu biseera eby'eira,  omu kyalo ky'e Pulaka,  wabbaireyo oMpiti ow'amairu.
+P2	Oku kyalo ekiriraine e Pulaka wabbaireyo oFudu omuti. OMpiti n'oFudu babbaire bamukago.
+P3	OMpiti n'awulira ati oku ntuumo kw'omwiga okw'e bugwayisana wabbaireyo eNzoki egyabbaire n'omujenene omunoli. ENzoki ginu gyazwangayo ni gitambula omulundi gumo omu mwanka,  era gyazwangayo omu bisaasala byagyo okumala esaabbiiti namba. OMpiti n'akoba oFudu ati,  "Tuteakwa okufuna omujenene ogwo ng'eNzoki gibulawo."
+P4	OFudu ni yeraliikirira okwaba. Naye n'atya ino okugaana. Eizo lyaku,  ni baaba oku bisaasala by'ezoki,  oMpiti n'atambula mangumangu naye oFudu n'akwetuka ng'amuzwaku enyuma naye nga muti.
+P5	Baniinile oku lusozi,  ni baikirira,  ni basalamu omu muswete. Ni bambuka omwiga ogw'e bbugwaisana era ni beeyongerayo.
+P6	Okumalilirya,  ni babona ebisaasala omu bisaale oku lusozi,  oMpiti n'airuka n'amaan. Olwobuddembi,  n'enzala,  oFudu katono abbalikeku.
+P7	OMpiti oweyatuukire oku gusaasala ogusingamu obunene,  tiyamalire ebiseera,  n'ayeta oFudu,  "Oyanguweeku,  oniine omusaale ojaakeyo ekisaasala."
+P8	OFudu n'alwanikana okuniina omusale mpolampola. Yabbaire amaite ati ayinza okutyerera n'agwa. Kinu kyanyiizire oMpiti eyabbaire atandiika okwasyamikira oFudu.
+P9	OFudu oweyakwaite oku kisaasala,  n'awulira ezoki nga gikunga. Gyabbaire gikaali giri mu bisaasala byagyo. OFudu ni yeekanga ino era n'azwa oku kisaale n'agwa. N'ogusaasala ogunene gwona ni gugwa.
+P10	Ekisaasala ni kigwa oku Fudu. Omujenene ni gumususukaku era ni gumubiikiraku nakimo kale nabba tabonekaku. OMpiti n'atandika okukomba omujenene. Ekyo tikyasanyusire enzoki.
+P11	Enzoki ni giruma oMpiti buli wantu. OMpiti N'asalawo okwiruka okulamya obwomibwe naye enzoki ni gimusimbaku.
+P12	OMpiti n'airuka naikirira oku lusozi,  n'ayambuka omwiga n'abita omu muswete yooyo mukiinamo. Ensoki ni gimwetoloola nga gimuluma.
+P13	OFudu nga akaali ansi wekisasala nategeera ati bulikintu kisirikiliri. Ekisasala n'omujenene nga bye bbapiirye okumugongo gwe.
+P14	Amangu ago ofudu nategera ati takaali yetaaga okukweetuka okwingira omukigona okwebisa. Ekikonkolo kye ekiyaaka eky' omujenene kisobola okumukuma.
+P15	OMpiti yabbaire adembere ino era ng'aizwire birumerume by'enzoki atyo n'abbarikaku ng'akaali okutuuka e'ika. Oweyairiwire,  nategeera ati ebirumerume by'enzoki bimukutulyagireku ebyoya ebimo okwidiba.
+
+images:
+
+illustrations/pages/13398.png
+illustrations/pages/13395.png
+illustrations/pages/13397.png
+illustrations/pages/13398.png
+illustrations/pages/13400.png
+illustrations/pages/13401.png
+illustrations/pages/13403.png
+illustrations/pages/13405.png
+illustrations/pages/13406.png
+illustrations/pages/13407.png
+illustrations/pages/13408.png
+illustrations/pages/13409.png
+illustrations/pages/13410.png
+illustrations/pages/13411.png
+illustrations/pages/13412.png
+illustrations/pages/13414.png
+
+translations:
+
+English (Original)	Hyena and Tortoise	id=13548
+English (Adaptation)	Hyena and Tortoise	id=18439
+Kiswahili (Translation)	Fisi Na Kobe	id=15613
+Portuguese (Translation)	A Hiena E a Tartaruga	id=16653

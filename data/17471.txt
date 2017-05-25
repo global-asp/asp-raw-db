@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=17471&d=0&a=1
+id:	17471
+title:	Muto Yange Omudoto
+author:	Gershom Hirome
+artist:	Mlungisi Dlamini
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17471.png
+desc:	Omwana owehihulu gehabya olwa mutowe abererera mu mugudulo muhuluwe n’afa n’emirimo ja ŋango.
+
+page_text:
+
+P1	Sisimuha naŋwana omuliro.
+P2	Ni kena nga mbasa amaaji.
+P3	Nga nasaaga ekwi.
+P4	Nga kuyuga mu bi piiya.
+P5	Nga saagula mu nyumba.
+P6	Noosa esaani.
+P7	Lwahiina tamba bugali tyo,  ne muganda yange ni geholera gw'ohugudula?
+
+images:
+
+illustrations/pages/978.png
+illustrations/pages/979.png
+illustrations/pages/980.png
+illustrations/pages/981.png
+illustrations/pages/983.png
+illustrations/pages/984.png
+illustrations/pages/985.png
+illustrations/pages/987.png
+
+translations:
+
+Aringati (Translation)	Álụ́ma Ꞌbã Ádrị́pị Ĩmbíráŋá Ũvú Rĩ	id=7239
+English (Original)	Lazy Little Brother	id=2896
+isiXhosa (Translation)	Umnakwethu Omncinci Olivila	id=13160
+Kikamba (Translation)	Kamwanayia Kaanu	id=2898
+Lubukusu (Translation)	Wandayase Omukara	id=2899
+Luganda (Translation)	Muto Wange Munafu	id=2900
+Lugbarati (Translation)	Ma Adri Gaa Ovuo Ru Ri	id=2901
+Lugbarati (Official) (Translation)	Ma Adrigaaovuoruri	id=8796
+Lumasaaba (Translation)	Waandaaye Umukyeekhe Umutoro	id=2903
+Lunyole (Translation)	Muto Yange Omudoto	id=2904
+Lunyole (Adaptation)	Muto Yange Omudoto	id=17472
+Lusoga (Translation)	Lwaki Nkola Zenka?	id=2905
+Maa (Translation)	Olotí Aláshe Túrúáí	id=2897
+Ng’aturkana (Translation)	Lokaito Loochi Lokalany	id=2906
+Oluwanga (Translation)	Akhasiani Akhatofu	id=2907
+Sabinyi (Translation)	Yeya Lekwa Nyee Puren	id=2908
+Setswana (Translation)	Nnake Yo O Botswa	id=2909
+Somali (Translation)	Walal Yar Oo Caajislow Ah	id=17264

@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=18879&d=0&a=1
+id:	18879
+title:	Vanghana
+author:	Mkomati John Mongwe
+artist:	Catherine Groenewald
+lang:	Xitsonga
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18879.png
+desc:	Tana munghana
+
+page_text:
+
+P1	Vito ra mina ndzi Simo.
+P2	Ndzi na vanghana va mune.
+P3	Mavito ya vona i Zizo,  Lele,  Sisa na Ayanda.
+P4	Munghana wa mina Zizo u rhandza ku tlanga bolo.
+P5	Munghana wa mina Lele u rhandza ku khida.
+P6	Munghana wa mina Sisa u rhandza ku tlanga xitumbelelani.
+P7	Munghana wa mina Ayanda u rhandza ku hlaya.
+P8	Mina? Ndzi rhandza ku endla hinkwaswo swilo leswi va swi endlaka.
+P9	Ndzi tlanga bolo na Zizo.
+P10	Ndzi khida na Lele.
+P11	Ndzi tlanga xitumbelelani na Sisa.
+P12	Tana munghana,  xana u rhandza ku endla yini?
+P13	Tana,  u ta tlanga bolo na hina.
+P14	Tana,  u ta khida na hina.
+P15	Tana,  u ta tlanga xitumbelelani na hina.
+P16	Tana,  u ta hlaya na hina!
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Ṡuħàb	id=15388

@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=2207&d=0&a=1
+id:	2207
+title:	Ameeno
+author:	Gershom Hirome
+artist:	Kathy Arbuckle
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2207.png
+desc:	Hiisi solo yiri n’ameeno gaayo agatafaanana n’agesolo ejindi. Enyuni nijo jibulamo meeno. Hiina ehyola hu meeno geefe hunatiina ni huhula?
+
+page_text:
+
+P1	Egoona liri n'ameeno mabbala.
+P2	Epologoma yoosi yiri n'ameeno mabbala.
+P3	Eŋombe yiri n'ameeno magumu.
+P4	Enyuni yiŋumamo meeno.
+P5	Ameeno g'embeba agaŋamugulu maleeŋi.
+P6	Lukwata yiri n'ameeno amoogi.
+P7	Nabanga n'ameeno mangi.
+P8	Aye leero ndimo ameeno matotono.
+
+images:
+
+illustrations/pages/1701.png
+illustrations/pages/1701.png
+illustrations/pages/1702.png
+illustrations/pages/1703.png
+illustrations/pages/1704.png
+illustrations/pages/1705.png
+illustrations/pages/1706.png
+illustrations/pages/1707.png
+illustrations/pages/1708.png
+
+translations:
+
+English (Original)	Teeth	id=2131
+Kikamba (Translation)	Mayo	id=2132
+Kiswahili (Translation)	Meno	id=10152
+Kiswahili (Adaptation)	Meno	id=19359
+Luganda (Translation)	Amannyo	id=2206
+Lugbarati (Translation)	Si	id=2708
+Lugbarati (Official) (Translation)	Sí	id=8770
+Ng’aturkana (Adaptation)	Ng'ikiel	id=16485
+Setswana (Translation)	Meno	id=2208

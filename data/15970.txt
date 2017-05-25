@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=15970&d=0&a=1
+id:	15970
+title:	Neo a Fumana Fariki Ea Hae
+author:	Sehlopa sa Malea-lea ASP
+artist:	Marion Drew
+lang:	Sesotho (Lesotho)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15970.png
+desc:	Neo o lahlile fariki ea hae ka kotsi. Ho etsahetse eng ka morao ho moo?
+
+page_text:
+
+P1	Neo a palamisa fariki baesekele.
+P2	A chaise lejoe tseleng ka baesekele. Fariki ea oela fatše. Ea lla,  eare,  "Hooeeeee! Hooeeeee!"
+P3	Tsotang a e thola. A re,  "Haai,  fariki eo,  ebe kea mang?"
+P4	Tsotang a e lelekisa a ba a e tšoara.
+P5	A isa fariki Moreneng. Morena a re a e boloke.
+P6	Neo a utloa lehonotho la fariki,  "Hmmm,  hmmm,  hmmm!"
+P7	A be a pota a thaba ha a bona fariki ea hae.
+P8	Neo a re ho fariki,  "Haree hae. Haresatla palama baesekele hape."
+
+images:
+
+illustrations/pages/15918.png
+illustrations/pages/15916.png
+illustrations/pages/15917.png
+illustrations/pages/15918.png
+illustrations/pages/15920.png
+illustrations/pages/15919.png
+illustrations/pages/15921.png
+illustrations/pages/15923.png
+illustrations/pages/15924.png
+
+translations:
+
+English (Translation)	Neo Finds Her Pig	id=15972

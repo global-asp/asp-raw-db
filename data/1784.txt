@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=1784&d=0&a=1
+id:	1784
+title:	Counting
+author:	Clare Verbeek
+artist:	Gay Galsworthy
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1784.png
+desc:	In the wild at a waterhole we count the animals coming to drink. What do you think happens when the lion comes to drink?
+
+page_text:
+
+P1	One elephant went to drink water.
+P2	Two giraffes went to drink water.
+P3	There are three buffaloes and four birds. They are all going to drink water.
+P4	Five impalas and six wild hogs are going to drink water.
+P5	Seven frogs and eight fish are in the water.
+P6	Nine zebras are going to drink water.
+P7	One lion came to drink water.
+P8	Who is brave enough to continue drinking?
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Aringati (Translation)	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ	id=6985
+Ateso (Translation)	Aimar	id=9655
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lugbarati (Official) (Translation)	Kàlàfé Làzà	id=8753
+Lunyole (Translation)	Ohubala	id=1954
+Lusoga (Translation)	Tubala Bazira	id=1955
+Sepedi (Translation)	Go Bala	id=1956
+Sesotho (Lesotho) (Translation)	Ho Bala	id=1958
+Setswana (Translation)	Go Bala	id=2807

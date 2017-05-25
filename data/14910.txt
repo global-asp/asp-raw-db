@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=14910&d=0&a=1
+id:	14910
+title:	Iphalishi
+author:	Zimbili Dlamini
+artist:	Catherine Groenewald
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14910.png
+desc:	Mom is away and Dad is making the morning porridge.
+
+page_text:
+
+P1	UZama  ulungisela ukuya esikoleni.
+P2	Ubaba upheka iphalishi abazolidla ekuseni.
+P3	"Umama upheka iphalishi elimnandi!" kusho uZama.
+P4	Iphalishi linikeza uZama umndlandla esikoleni.
+P5	Selilungile iphalishi.
+P6	Ubaba uthela ubisi ephalishini ngothando.
+P7	"Baba,  ngicabanga ukuthi leliphalishi lidinga ushukela othe xaxa," kusho uZama.
+P8	"Iphalishi likamama limnandi kunelikababa," kucabanga uZama.
+P9	"Baba,  ngicela omunye ushukela,  kusho uZama''."
+P10	Ubaba wathelela uZama omunye ushukela.
+P11	"Wu! Baba! Ufake iswayi ephalishini lami."
+P12	"Baba,  umama uzobuya nini?" kubuza uZama.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+IciBemba (Translation)	Umusunga	id=18578
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Lunyole (Translation)	Obusera	id=13458
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

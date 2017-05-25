@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=12169&d=0&a=1
+id:	12169
+title:	Friends Become Enemies
+author:	Nelson Acadri
+artist:	Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12169.png
+desc:	Will hardworking Hyena ever learn his lesson when it comes to his friend the lazy Hare?
+
+page_text:
+
+P1	Once upon a time there lived two friends,  Hyena and Hare. Hyena was a hardworking farmer. He woke up early every morning and went to work in his field.
+P2	Hare woke up when it was already broad daylight. He would yawn and stretch. Then he would go looking for food.
+P3	Most mornings,  Hare would take some seeds from Hyena's granary. Then he went to his field and pretended to work. He would light a fire and roast the seeds. He did nothing,  except eat roasted seeds.
+P4	At harvest time,  Hare went and stole his friend's ripe maize. He carried it to his own granary.
+P5	Hyena complained about the stolen crops. Hare answered,  "Maybe the neighbours stole your maize. They are suffering from famine because they are lazy."
+P6	Hyena thought about this problem for a long time. He came up with an idea. He collected gum from the trees. He put that sticky gum around the whole field. The thief would get stuck in the gum.
+P7	During the night,  Hare went to Hyena's field to steal more maize. Before entering the field he looked around to see if it was safe.
+P8	Hare did not see the gum that Hyena had put around the field. Hare stood in the gum and was stuck. He started shouting for help.
+P9	Hyena heard the shouts and ran out to catch the thief. He could not believe his eyes. It was his friend Hare who was stuck in the gum!
+
+images:
+
+illustrations/pages/12162.png
+illustrations/pages/12159.png
+illustrations/pages/12160.png
+illustrations/pages/12161.png
+illustrations/pages/12162.png
+illustrations/pages/12163.png
+illustrations/pages/12164.png
+illustrations/pages/12165.png
+illustrations/pages/12166.png
+illustrations/pages/12167.png
+
+translations:
+
+French (Translation)	Des Amis Devenus Ennemis	id=13158
+Lugbarati (Original)	Ba Agiyi Ru Diyi Eca Aribo Ru	id=12158
+Portuguese (Translation)	Os Amigos Se Tornam Inimigos	id=16416

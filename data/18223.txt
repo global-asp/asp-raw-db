@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=18223&d=0&a=1
+id:	18223
+title:	Me Kyerɛkyerɛfoɔ
+author:	Agnes Asamoah-Duodu (OLE Ghana)
+artist:	Jesse Pietersen
+lang:	Asante Twi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18223.png
+desc:	Abaayewa ketewa bi a ɔpɛ sɛ ɔyɛ sɛ ne kyerɛkyerɛfoɔ pɛpɛɛpɛ.
+
+page_text:
+
+P1	Mepɛ me kyerɛkyerɛfoɔ asɛm.
+P2	Ne ho yɛ fɛ. Ɔyɛ ɔkyerɛkyerɛfoɔ pa. Ne yam yɛ na ɔwɔ abotrɛ.
+P3	Wabɔ ne tirinwi mmɛsa fɛɛfɛɛfɛ.
+P4	Ɔde nhweneɛ a n'ahosuo yɛ fɛ abobɔ ne tirinwi mu.
+P5	Ne nhweneɛ no bi yɛ ahabanmono,  fitaa,  kɔkɔɔ,  ɛne akokɔsradeɛ.
+P6	Maame,  me pa wo kyɛw,  wobɛbɔ me tirinwi mmɛsa sɛ me kyerɛkyerɛfoɔ deɛ no bi?
+P7	Sɛ menyini a me nso mede nhweneɛ bɛbobɔ me tirinwi mu.
+P8	Mɛnyini abɛyɛ sɛ me kyerɛkyerɛfoɔ pɛpɛɛpɛ!
+
+images:
+
+illustrations/pages/8513.png
+illustrations/pages/8509.png
+illustrations/pages/8510.png
+illustrations/pages/8511.png
+illustrations/pages/8512.png
+illustrations/pages/8513.png
+illustrations/pages/8514.png
+illustrations/pages/8515.png
+illustrations/pages/8516.png
+
+translations:
+
+Afrikaans (Translation)	My Juffrou	id=20086
+Akuapem Twi (Translation)	Me Kyerɛkyerɛfo	id=18465
+ChiTonga (Translation)	Basiisi Bangu	id=18632
+CiNyanja (Translation)	Apunzisi Anga	id=18609
+Dagaare (Translation)	N Karema	id=17777
+Dagbani/Dagbanli (Translation)	N Karim Ba	id=18153
+Dangme (Translation)	Ye Tsɔɔlɔ	id=18303
+Dhopadhola (Translation)	Jafonji Paran	id=18751
+English (Original)	My Teacher	id=8507
+Ewe (Translation)	Nye Nufiala	id=18170
+Fante (Translation)	Me Kyerɛkyernyi	id=18495
+Ga (Translation)	Mitsɔɔlɔ	id=18294
+Gonja (Translation)	Mabe Eŋinipo	id=18176
+IciBemba (Translation)	Bakafundisha Bandi	id=18574
+isiXhosa (Translation)	Utitshala Wam	id=17577
+isiZulu (Translation)	Uthisha Wami	id=8075
+Kasem (Translation)	A Bereno	id=18210
+Kiswahili (Translation)	Mwalimu Wangu	id=15609
+Lunyole (Translation)	Omusomesa Wange	id=16424
+Mampruli (Translation)	N  Karimba	id=18852
+Nzema (Translation)	Me Kilehilevolɛ Ne	id=18432
+Oluwanga (Translation)	Omusomesia Wanje	id=19796
+Portuguese (Translation)	A Minha Professora	id=17617
+Sepedi (Translation)	Morutiši Wa Ka	id=18025
+Sesotho (South Africa) (Translation)	Mosuwetsana Wa Ka	id=20038
+Setswana (Translation)	Morutabana Wa Me	id=16753
+Setswana (Translation)	Morutabana Wa Me	id=17655
+SiLozi (Translation)	Bomuluti Baka	id=18558
+Tshivenda (Translation)	Mudededzi Wanga	id=18987
+Tunisian (Translation)	Muġallimti	id=15153
+Xitsonga (Translation)	Mudyondzisi Wa Mina	id=18998

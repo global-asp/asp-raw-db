@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=19288&d=0&a=1
+id:	19288
+title:	Indoda Ende Kakhulu
+author:	Nokuthula Bernelee Dyonase
+artist:	Catherine Groenewald
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19288.png
+desc:	Le ndoda inde ngokwenene. Iyisombulula kanjani le ngxaki yokuba mde kangaka?
+
+page_text:
+
+P1	Igaba lakhe lalilifutshane ngokwenene.
+P2	Umnyango wakhe wawusezantsi ngokwenene.
+P3	Ibhedi yakhe yayimfutshane ngokwenene.
+P4	Ibhayisekile yakhe yayimfutshane ngokwenene.
+P5	Lendoda yayinde ngokwenene!
+P6	Yenza intonga yegaba ende kakhulu.
+P7	Yenza imigubasi emide kakhulu.
+P8	Yenza ibhedi ende kakhulu.
+P9	Yathenga ibhayisekile ephakame kakhulu.
+P10	Yahlala esitulweni esiphakame kakhulu. Yatya ngefolokhwe ende kakhulu.
+P11	Yayishiya indlu yayo yayohlala kwihlathi elikhulu. Yaphila iminyaka emininzi.
+
+images:
+
+illustrations/pages/309.png
+illustrations/pages/309.png
+illustrations/pages/310.png
+illustrations/pages/311.png
+illustrations/pages/314.png
+illustrations/pages/313.png
+illustrations/pages/316.png
+illustrations/pages/315.png
+illustrations/pages/317.png
+illustrations/pages/318.png
+illustrations/pages/319.png
+illustrations/pages/320.png
+
+translations:
+
+Afaan Oromo (Translation)	Namicha Baayyee Dheeraa	id=12955
+Afrikaans (Translation)	'n Baie Lang Man	id=11260
+Afrikaans (Translation)	'n Baie Lang Man	id=11370
+Arabic (Translation)	الرجل ذو القامة الطويلة	id=10122
+Aringati (Translation)	Ágóbí Ázó Mbílíkó Rĩ	id=9280
+Dhopadhola (Translation)	Nyicwo Ma Bor Tektek	id=18686
+English (Original)	A Very Tall Man	id=918
+French (Translation)	Un Homme Très Grand	id=9923
+French (Translation)	Un Très Grand Bonhomme	id=12615
+Fulfulde (Translation)	Gorko Mawnuɗo Sanne	id=10002
+Gurene (Translation)	Budaa N Ba’Am Wↄgε	id=12662
+Hausa (Translation)	Wani Mutum Mai Ƙirma	id=9971
+isiZulu (Translation)	Indoda Ende Elingana Nendlulamithi	id=3491
+Kakwa (Translation)	Ŋ Utu Laga a Lojo	id=9281
+Kanuri (Translation)	Kam Adǝ Dadua	id=10031
+Kiswahili (Translation)	Mwanamme Mrefu	id=1176
+Lámnsoʼ (Translation)	Wír Wo Wù Dàrìn É Ŋàŋ	id=16445
+Likpakpaanl (Translation)	Uja Fɔfɔk Uba	id=18775
+Luganda (Translation)	Omusajja Omuwanvu Ennyo	id=8720
+Lugbarati (Translation)	Agu Azi Izu Ni	id=2329
+Lugbarati (Official) (Translation)	Ágʉ̀pɨ́ Ɨ́zʉ̀ Rɨ́	id=8780
+Lumasaaba (Translation)	Umusaani Umuleeyi Naabi	id=3004
+Lunyole (Translation)	Omusinde Omuleŋi Obugali	id=2330
+Lusoga (Translation)	Omusaadha Omuleeyi  Einho	id=919
+Setswana (Translation)	Monna O Motelele-Telele	id=2331
+Shona (Translation)	Murume akarebesa	id=19953
+Yoruba (Translation)	Ọkùnrin Gíga Púpọ̀ Kan	id=10688
+Zarma (Translation)	Gorzo	id=10098

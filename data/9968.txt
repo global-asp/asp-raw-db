@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=9968&d=0&a=1
+id:	9968
+title:	My Trip to the Zoo
+author:	Mmapule Nkuna
+artist:	Rob Owen and Melany Pietersen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9968.png
+desc:	This is a story about how a day was spent at the zoo.
+
+page_text:
+
+P1	Today I went to the zoo.
+P2	I saw a lot.I saw a lion.
+P3	I saw an elephant.
+P4	I saw a crocodile.
+P5	I saw giraffes.
+P6	I saw a lot of zebras.
+P7	I even saw a cow.
+P8	It was a lot of fun. But then Daddy drove us home.
+
+images:
+
+illustrations/pages/13745.png
+illustrations/pages/13749.png
+illustrations/pages/9628.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9647.png
+illustrations/pages/9650.png
+illustrations/pages/9630.png
+illustrations/pages/13751.png
+
+translations:
+
+Sepedi (Adaptation)	Leeto La Ka La Go Ya Lešokeng La Diphoofolo	id=10132

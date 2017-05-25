@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=19899&d=0&a=1
+id:	19899
+title:	ألوان قوس قزح
+author:	Jane Taylor
+artist:	Jesse Breytenbach
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19899.png
+desc:	ألوان فوس قزح
+
+page_text:
+
+P1	7 ألوان في قوس قزح.
+P2	1 أحمر.
+P3	الولد يلبس قميص أحمر
+P4	2 البرتقالي.
+P5	ما هوو الشيء البرتقالي في هذه الصورة؟
+P6	3 أصفر.
+P7	ما هو الشيء الأصفر في هذه الصورة؟
+P8	4 أخضر.
+P9	ما هو الشيء الأخضر في هذه الصورة؟
+P10	5 أزر.
+P11	ما هو الشيء الأزرق في هذه الصورة؟
+P12	6 أزرق غام.
+P13	ما هو الشيء الأزرق الغامق في هذه الصورة؟
+P14	7 بنفسجي.
+P15	البنفسجي لوني المفضل! ما هو لونك المفضل؟
+P16	ما هي ألوان قوس قزح السبعة؟
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Setswana (Translation)	Mebala Ya Mola Wa Godimo	id=19924

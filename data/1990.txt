@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=1990&d=0&a=1
+id:	1990
+title:	Umzimba Wami
+author:	Clare Verbeek
+artist:	Mlungisi Dlamini
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1990.png
+desc:	Imizimba yethu singayisebenzisa ukwenza izinto eziningi
+
+page_text:
+
+P1	Ngingagijima ngawo.
+P2	Ngingagxuma ngawo.
+P3	Ngingadansa ngawo.
+P4	Ngingabhukuda ngawo.
+P5	Ngingajomba ngawo.
+P6	Ngingakhahlela ngawo.
+P7	Ngingeqa ngawo.
+P8	Kodwa ngeke ngindize ngawo.
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+

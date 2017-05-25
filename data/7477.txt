@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=7477&d=0&a=1
+id:	7477
+title:	Porquê a Rã É Tão Feia?
+author:	Jorge Eusébio Eusébio
+artist:	Hélder de Paz Alexandre
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7477.png
+desc:	A rã poderia ser tão bonita como o lagarto se ela quisesse ouvir!
+
+page_text:
+
+P1	Há muitos anos atrás,  o lagarto e a rã eram amigos. Então,  um dia decidiram procurar namoradas na cidade.
+P2	A rã sentia inveja da pele brilhante do lagarto.
+P3	Ela perguntou,  "O que é que fizeste para ter ma pele brilhante? Eu sou tão feia e com rugas. Podes ajudar-me a fazer alguma coisa para que a minha pele fique bonita como a sua?"
+P4	O lagarto respondeu,  "Por que não? Agora me escuta: põe água na panela e coloca-a no fogo. Depois."
+P5	Mas a rã disse,  "Já sei,  eu sei. Podes deixar comigo. Cala-te,  meu amigo." A rã partiu,  sem querer ouvir mais nada.
+P6	Então,  ela chegou à casa e colocou a água na panela.
+P7	Quando a água começou a ferver,  lançou-se dentro da panela.
+P8	E sua pele queimou e sua cauda desapareceu!
+P9	Em vez de a rã ser brilhante e bonita como o lagarto,  tornou-se mais feia ainda!
+
+images:
+
+illustrations/pages/7077.png
+illustrations/pages/7069.png
+illustrations/pages/7070.png
+illustrations/pages/7657.png
+illustrations/pages/7658.png
+illustrations/pages/7659.png
+illustrations/pages/7074.png
+illustrations/pages/7075.png
+illustrations/pages/7076.png
+illustrations/pages/7077.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+English (Adaptation)	Why Frog is so Ugly - Colouring Book	id=17360
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+isiXhosa (Adaptation)	Kutheni Isele Lilibi? (Faka Imibala)	id=17551
+Kiswahili (Translation)	Sababu Chura Kuwa Na Sura Mbaya	id=8712
+Luganda (Translation)	Lwaki Wakikere Mubi Nnyo?	id=9657
+Luganda (Adaptation)	Wakikere Ne Wamunya	id=13778
+Ng’aturkana (Adaptation)	Akidodok Nabworok	id=13522
+Portuguese (Translation)	O Porquê Do Sapo Ser Tão Feio	id=19259
+siSwati (Translation)	Kungani Sicoco Sibe Sibi	id=12610
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

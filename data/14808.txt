@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=14808&d=0&a=1
+id:	14808
+title:	Imbuti Ledansako
+author:	Sakhile Khoza and Linda Twala
+artist:	José Nhambo
+lang:	siSwati
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14808.png
+desc:	Imbuti yahlangana nempisi ehlatsini
+
+page_text:
+
+P1	Ngalelinye lilanga,  imbuti yahamba yayovakasha ehlatsini lapho beyitihambela khona ngenjabulo ingati nekutsi live liphelaphi. Kepha yase iyalahleka.
+P2	Kusenjalo,  yase ihlangana neMpisi! Lempisi yase itakuye kandzi beyibukeka ilambile.
+P3	Imbuti yatsi: Mnumzane Mpisi,  ngiyati kutsi ufuna kungidla. Kepha bengingatsandza kufa ngijabulile!
+P4	Usho kutsini? Ufe ujabulile? Kanjani? Kubuta iMpisi.
+P5	Imbuti yaphendvula: nangabe kumele ngife ngingatsandza kufa ngidansa.
+P6	Impisi yase itsatsa igitali yayo,  yahlala phasi,  yase icala kuyidlala.
+P7	Imbuti yase icala kudansa nanobe nje beyitfukile.
+P8	Madvute naleyo ndzawo bekunetinja. Teta nato tatobuka lebekwenteka.
+P9	Ngaleso sikhatsi impisi beyesaba tinja,  ngaloko ke yajika yabaleka.
+P10	Imbuti yachubeka nekudansa ngobe beseyikhulukile empisini.
+
+images:
+
+illustrations/pages/8395.png
+illustrations/pages/8380.png
+illustrations/pages/8381.png
+illustrations/pages/8383.png
+illustrations/pages/8385.png
+illustrations/pages/8387.png
+illustrations/pages/8388.png
+illustrations/pages/8389.png
+illustrations/pages/8390.png
+illustrations/pages/8391.png
+illustrations/pages/8395.png
+
+translations:
+
+Afrikaans (Translation)	Die Dansende Boerbok	id=11243
+English (Original)	The Dancing Goat	id=8392
+Lumasaaba (Translation)	Imbusi Ishina	id=11899
+Ng’aturkana (Translation)	Akine Nakedong'an	id=18072
+Portuguese (Translation)	A Dança Do Cabrito	id=8471
+Portuguese (Translation)	A Cabra Dançarina	id=18888

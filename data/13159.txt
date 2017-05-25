@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=13159&d=0&a=1
+id:	13159
+title:	Un Désaccord Sur L’Importance De Divers Emplois
+author:	Translators without Borders
+artist:	Wiehan de Jager
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13159.png
+desc:	Certains emplois sont ils plus importants que d’autres?
+
+page_text:
+
+P1	Dans un village,  des gens ne s'entendaient pas sur les divers emplois. Chacun croyait que son emploi était le plus important!
+P2	Un professeur disait occuper l'emploi le plus important du village. "Sans professeurs,  il n'y a pas d'école. Sans écoles,  vous ne pouvez apprendre quoi que ce soit."
+P3	Le bâtisseur disait occuper l'emploi le plus important. "Sans bâtisseurs,  il n'y a pas d'écoles où apprendre ni même de maisons où dormir."
+P4	Le menuisier disait occuper l'emploi le plus important. "Sans menuisiers,  il n'y a pas de meubles dans les maisons et dans les écoles."
+P5	Le médecin affirmait occuper l'emploi le plus important. "Sans médecins et sans infirmières,  vous pourriez tomber malade et en mourir."
+P6	Le fermier disait occuper l'emploi le plus important. "Sans fermiers,  vous n'auriez rien à manger."
+P7	L'élève déclara que les élèves occupaient l'emploi le plus important. "Sans élèves,  il n'y a pas de professeurs,  pas de bâtisseurs,  pas de médecins,  pas de fermiers ni de menuisiers."
+P8	Après un certain temps,  tous étaient d'accord pour dire que tous les emplois sont également importants. Nous avons besoin de professeurs,  de bâtisseurs,  de médecins,  de fermiers et de menuisiers. Or,  chacun doit d'abord être un élève!
+
+images:
+
+illustrations/pages/10274.png
+illustrations/pages/10274.png
+illustrations/pages/10278.png
+illustrations/pages/10276.png
+illustrations/pages/10279.png
+illustrations/pages/10277.png
+illustrations/pages/10275.png
+illustrations/pages/10280.png
+illustrations/pages/10281.png
+
+translations:
+
+English (Original)	Disagreement Among Occupations	id=10537
+English (Adaptation)	Which Work is the Most Important?	id=19761
+isiZulu (Translation)	Ukuphikisana Ngemisebenzi Eyahlukene	id=15441
+Portuguese (Translation)	Desentendimento Entre Profissões	id=16413

@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=2153&d=0&a=1
+id:	2153
+title:	Amaphulo Enkomo Yodumo
+author:	Ntombizodwa Gxowa-Dlayedwa
+artist:	Danielle Bruckert
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2153.png
+desc:	Eli libali labantwana abancinci elingamaphulo enkomo uDyamluthi
+
+page_text:
+
+P1	Le yinkomo.   Inkomo intle!
+P2	Emini yinkomo eqhelekileyo.
+P3	Ibhabhisa iKhayihi.
+P4	Okanye ikhaba ibhola.
+P5	Ebusuku inkomo ebalaseleyo!
+P6	Isindisa imiphefumlo.
+P7	Kwaye ilwa ulwaphulo-mthetho.
+P8	Kodwa,  ukuba uvala amehlo akho ngokuqinileyo ngenene,  kwaye wenze Umnqwno -.
+P9	Inkomo ingeza Kukubona nawe ngokunjala!
+P10	Isiphetho.
+
+images:
+
+illustrations/pages/858.png
+illustrations/pages/859.png
+illustrations/pages/860.png
+illustrations/pages/861.png
+illustrations/pages/862.png
+illustrations/pages/863.png
+illustrations/pages/864.png
+illustrations/pages/865.png
+illustrations/pages/866.png
+illustrations/pages/867.png
+illustrations/pages/868.png
+
+translations:
+
+English (Original)	The Adventures of Supercow	id=1239
+French (Translation)	Les Aventures De Super Vache	id=9954
+Fulfulde (Translation)	Haayndeeji Ɗi Nagge	id=10000
+Hausa (Translation)	Labarin Wata Saniya	id=9969
+isiZulu (Translation)	Izigigaba Zenkomo Yezimanga	id=2155
+Kanuri (Translation)	Awowa Fero Wakkajǝgǝna	id=10029
+Kikamba (Translation)	Myangangĩle Ya Ng’Ombe Ya Vinya	id=2189
+Kinyarwanda (Translation)	Inka Idasanzwe	id=11597
+Kinyarwanda (Translation)	Ibikorwa By'inka Idasanzwe	id=11598
+Kiswahili (Translation)	Vituko Vya Ng’Ombe Shujaa	id=5314
+Luganda (Translation)	Ebikwata Ku Wante Ow'ebyewuunyo	id=2194
+Lugbarati (Translation)	Ayoko Nyaza Ti Okpo Be Ri Ni Ri	id=2151
+Lugbarati (Official) (Translation)	Ídri  Nyǎzà Tí Òkpó Be Rɨ Nɨ Rɨ	id=8778
+Lunyole (Translation)	Eŋombe Ey’Amaliholiho	id=2195
+Maa (Translation)	Inkiaasîn É Enkíténg É Enking'asíá	id=2728
+Ng’aturkana (Translation)	Ng’Akiro Nakaili-Ilok Aite Anaajokon	id=8725
+Olukhayo (Translation)	Ing’Ombe Yamakana	id=2198
+Oluwanga (Translation)	Efikhole Fie Ing’Ombe Yamakana	id=2199
+Portuguese (Translation)	As Aventuras Da Supervaca	id=12171
+Sepedi (Translation)	Bohlagahlaga Bja Kgomo E Maatla	id=2200
+Sesotho (Lesotho) (Translation)	Mehahlaula Ea Khomo Ea Senatla	id=2201
+Sesotho (Lesotho) (Translation)	Efikhole Fie Ing’Ombe Yamakana	id=10361
+Zarma (Translation)	Haw-Ɲaŋo Kaŋ Ga Dambarandi Deeda	id=10094

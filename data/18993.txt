@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=18993&d=0&a=1
+id:	18993
+title:	Niswali
+author:	© 2016 Little Zebra Books
+artist:	Marleen Visser
+lang:	Imeetto
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18993.png
+desc:	In this book
+
+page_text:
+
+P1	Athumwanihu nri wirimu.
+P2	Ncina ninyu nittakattifihiye.
+P3	Umwene enyu uwe.
+P4	Utthuna winyu upankyee,  vathi vaa toko wirimu.
+P5	Nnivahe ilelo yolya ehu.
+P6	Nnilevelele coottheka cihu toko cinaalevelelehu annitthekela.
+P7	Nhinihiye mwa coothepya.
+P8	Nanso nnoopole mwa coonanara.
+P9	Kontha wa winyu uri umwene.
+P10	Ikuru ni nttittimiho mahuku othene.
+P11	Ameni.
+
+images:
+
+illustrations/pages/16273.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Chinyungwe (Translation)	Baba Wathu	id=18980
+Elomwe (Translation)	Nivekelo Na Apwiya	id=18982
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=18983
+English (Original)	The Lord's Prayer	id=16246
+Portuguese (Translation)	Pai Nosso”	id=18981

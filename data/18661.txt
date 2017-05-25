@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=18661&d=0&a=1
+id:	18661
+title:	Nkuku Na Bongololo
+author:	Bether Mwale Moyo
+artist:	Magriet Brink
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18661.png
+desc:	Nkuku na bongololo anali abwenzi. Koma nkuku inakalipa cifukwa inaluza mumasowela ndipo inacita cintu copanda nzelu.
+
+page_text:
+
+P1	Nkuku na Bongololo anali abwenzi. Koma anali kukonda mupikisano mumasowela. Nkuku na Bongololo anayamba kumenya bola yamendo kuti aziwe wamena anali kuziwisisa kumenya bola.
+P2	Nkuku na Bongololo anayenda kubwalo lomenyela bola ndipo anayamba kumenya bola. Nkuku inali kutamanga koma siyinasiye bongololo. Nkuku inamenyela kutali bola,  koma kamenyedwe ka Bongololo kanapitilila kamenyedwe ka Nkuku. Nkuku inakalipa.
+P3	Anagwilizana kuti wina amenyela bola mu goli ndipo wina agwile bola. Nkuku inangenesako kamozi. Ndipo inafika ntawi yakuti Bogololo amenyele bola mu goli.
+P4	Bongololo anamenya ndipo anagolesa. Bongololo anazugulusa bola ndipo anagolisa. Bongololo anamenya bola na mutu ndipo anagolesa. Bongololo anagolesa tusanu.
+P5	Nkuka inakalipa cifukwa inaluza. Nkuku inalikuluza kwambili. Bongololo anayamba kuseka naku kalipisa munzake.
+P6	Nkuku inakalipa kwambili ndipo inasegula kamwa namela bongololo.
+P7	Pamene Nkuku inali kuyenda kunyumba inakumana na amake Bongololo. Amake Bongololo anafunsa nati,  "Sunaoneko mwana wanga?" Nkuku siyinayanke. Amake Bongololo anada nkawa.
+P8	Amake Bongololo anamvela ka lizu kang'ono kapempa tandizo kwa amai ake. Amake Bongololo analanganisisa konse konse,  ndipo anamvesesa. Lizu linali kumvekela mukati mwa Nkuku.
+P9	Amake Bongololo anakuwa nati,  "Sewenzesa mpamvu zako zapadela mwana wanga!" Mabongololo yanunka kwambili ndipo siyamveka bwino mukamwa. Pamenepo,  Nkuku inayamba kumvela kudwala.
+P10	Nkuku,  inageya ndipo inavulula. Ndipo ina tunya nakumela. Ina etyemula naku kosomola.
+P11	Nkuku inakosomola mpaka inaluka Bongololo anali mumala,  wamene inamela. Amake Bongololo na mwana wao anakwela mutengo ndipo anabisama.
+P12	Kucokela apo,  pakati pa Nkuku na Bongololo pali cizondo.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
+Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+ChiTonga (Translation)	Nkuku, Joongola	id=18643
+English (Translation)	Chicken and Millipede	id=9094
+French (Translation)	La Poule Et Le Millepatte	id=9959
+French (Translation)	Poulet Et Mille-Pattes	id=10145
+Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
+Gurene (Translation)	Nͻbila La Katagune	id=12663
+Hausa (Translation)	Kaza Da	id=9977
+isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
+isiXhosa (Translation)	Unkukhu  Nosongololo	id=17517
+isiZulu (Translation)	Unkukhu Noshongololo	id=13535
+isiZulu (Adaptation)	Unkukhu Noshongololo	id=17452
+Kanuri (Translation)	Kuwui-a Dǝngaɍi-A	id=10039
+Kinyarwanda (Translation)	Inkoko Na Magurijana	id=17457
+Lámnsoʼ (Translation)	Ŋgvəv Wun Ŋgom	id=16444
+Likpakpaanl (Translation)	Ukↄla Ni Gonlgonl	id=18776
+Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
+Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
+Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Portuguese (Translation)	O Frango E O Gongolo	id=16099
+Portuguese (Translation)	Galinha E Milípede	id=16477
+Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
+Sepedi (Translation)	Chicken and Millipede	id=11485
+Sepedi (Translation)	Kgogo Le Legokolodi	id=12410
+Sesotho (S.Africa) (Translation)	Kgoho Le Lefokolodi	id=14434
+Setswana (Translation)	Koko Le Sebokolodi	id=13973
+SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
+siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Tshivenda (Translation)	Khuhu Na Dongololo	id=14731
+Xitsonga (Translation)	Huku Na Khongoloti	id=14408
+Zarma (Translation)	Gorŋo-Ɲa Nda Konjanje	id=10103

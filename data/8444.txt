@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=8444&d=0&a=1
+id:	8444
+title:	Ekile Lo Eboi Alopei
+author:	Dennis Lokitare
+artist:	Little Zebra Books and Trevor Kellog
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8444.png
+desc:	Ejokadakar dir a? Kiitanit ng’oni ng’itung’a luche dir a? Eyani ekoi lo kidiama ekile lopeamina akiboikin ka ng’itung’a luche tani nabo pe asaki tani aberu keng kiboikinos ka ng’itung’a. Ariamu ng’esi ebachit lokadwaran kotere ng’asueta keng.
+
+page_text:
+
+P1	Ayei kolong ekile epei lopeasaki akiboikin ka ng'ikidunyet. Nabo pe asaki tani aberu keng kilanak ng'awiyei a ng'ikidunyet keng.
+P2	Abu ng'esi akolong'it ace nabo tolot todukok awi keng namoni nakalonon,  nabo nikalonon a ng'ikidunyet keng.
+P3	Elanari ng'esi nikalapatan nacataparac daang nabo tobong nawi keng ebong kewar.
+P4	Akwaar apei abu ng'esi totinenik abong'un nawi. Abu napokocin king'olik ng'una daang ng'una asubi ekile ng'olo.
+P5	Abu napokocin tolot nawi keng nabo kidong'odong'ok ekidor akai keng.
+P6	Abu aberu ng'ina tama kori lokiliekeng ng'olo abu sodi tang'a ekidor. Abu napokocin togirakin aberu ng'ina nabo kirajakin.
+P7	Napei adolunio ekile ng'olo,  abu torukau aberu keng kolong kirika napokocin. Emam nabo ng'una apedori ng'esi alimun.
+P8	Asubakinosi nabo ng'una daang kotere pe asaki ng'esi akiboikin ka ng'ikidunyet keng.
+
+images:
+
+illustrations/pages/7327.png
+illustrations/pages/7325.png
+illustrations/pages/7327.png
+illustrations/pages/7329.png
+illustrations/pages/7324.png
+illustrations/pages/7331.png
+illustrations/pages/7332.png
+illustrations/pages/7333.png
+illustrations/pages/7334.png
+
+translations:
+
+Lugbarati (Official) (Translation)	Ágúàzɨ́ Ndráaa’Ápɨa’Dúlerɨ̀	id=8789
+Lunyole (Translation)	Omusinde  Owamenya ɳa  Yenyene	id=8405
+Maa (Translation)	Oltung’Áni Óbîk Ópeny	id=7870
+Setswana (Translation)	Motshelanosi	id=7846

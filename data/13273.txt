@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=13273&d=0&a=1
+id:	13273
+title:	Père Et Fils
+author:	Suzanne Alban and Translators without Borders
+artist:	Wiehan de Jager
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13273.png
+desc:	Une histoire en deux langues : luganda et français. Les enfants doivent-ils toujours faire ce que leur disent les adultes ?
+
+page_text:
+
+P1	Eddawaliwo omusajja nga ye Nsangabisibe. Il était une fois un homme qui s'appelait Enzo.
+P2	Omusajja ono yalina mutabani nga ye Mudduawulira. Cet homme avec un fils qui s'appelait Paul.
+P3	Lumu taata yagamba mutabaniwe nti jangu tutambuleko. Un jour,  l'homme dit à son fils: "Allons nous promener."
+P4	Bwe baali batambula,  nebasanga omugugu omusibe obulungi ennyo. Omugugu nga gusanyusa okulaba. En chemin,  ils trouvèrent une très jolie valise,  qui avait l'air pleine à craquer.
+P5	Taata nakwatibwa amaddu nagamba Mudduawuliranti,  "Situla omugugu ogwetike tugutwale eka."Le père,  tout excité,  dit à son fils: "Ramasse-la et nous l'emporterons à la maison."
+P6	Omwana nasitula omugugu neyetikka. Paul fit ce que lui disait son père. Il mit la valise sur la tête et la porta.
+P7	Batambulako katono,  omusota neguva mumugugu negumugwa kubigere!Pendant qu'ils rentraient à la maison,  un serpent sortit de la valise. Il atterrit aux pieds de Paul!
+P8	Taata ne mutabaniwe batya nnyo era nebasuula omugugu nebadduka. Le père et le fils eurent la frayeur de leur vie. Paul laissa tomber la valise et ils s'enfuirent à toutes jambes.
+
+images:
+
+illustrations/pages/10082.png
+illustrations/pages/10081.png
+illustrations/pages/10082.png
+illustrations/pages/10083.png
+illustrations/pages/10084.png
+illustrations/pages/10085.png
+illustrations/pages/10087.png
+illustrations/pages/10086.png
+illustrations/pages/10088.png
+
+translations:
+
+Amharic (Translation)	አባተ አእነና ለልጀጅ	id=16452
+Amharic (Translation)	አባት እና ልጅ	id=16453
+Luganda (Original)	Father and Son	id=10439
+Portuguese (Translation)	O Pai E O Filho	id=16580
+Setswana (Translation)	Rre Le Morwa Wa Gagwe	id=14955

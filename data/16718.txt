@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=16718&d=0&a=1
+id:	16718
+title:	Koko O Tsietsa Lenong
+author:	Lorato Trok
+artist:	Rob Owen
+lang:	Setswana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16718.png
+desc:	Koko o tshameka motlae o o maswe mo go Lenong.
+
+page_text:
+
+P1	Bogologotala Koko le Lenong e ne ele ditsala. Ka letsatsi le lengwe Lenong o ile a fitlhela Koko a ikhutsitse mo tlase ga setlhare a tswa mabenkeleng. Koko o ne a eme ka leoto le le lengwe.
+P2	"Leoto la gago le lengwe le kae?"  Lenong a botsa Koko.
+P3	"Ralebenkele o kgaotse leoto la me mme a mpha dikgetsi tse di tletseng dijo tse mo boemong," Koko a bolelela Lenong.
+P4	 Lenong a botsa Koko gore a le ene  a ka dira jalo.  Le ene o ne a batla kgetse ya dijo.  Koko a dumela.
+P5	Lenong o ile a ya go ralebenkele mme a kopa gore a mo kgaole leoto mme a mo fe dikgetse tsa dijo mo boemong. Ralebenkele o ile a dumela.
+P6	Lenong o ile a tlola-tlola ka leoto le le lengwe go ya gae. Mme fela o ne a itumeletse dilo tse ralebenkele o neng a mo file tsone.
+P7	Fa Lenong a fitlha kwa gae,  o ile a fitlhela Koko a nale maoto a mabedi.
+P8	Lenong o ne a tenegile mme a lelekisa Koko. Mme fela a se mo tshware. Ka jalo,  Lenong o dula a batlana le bana ba dikoko. Fa a tshwara mongwe wa bone,  o a mo ja.
+
+images:
+
+illustrations/pages/9588.png
+illustrations/pages/9587.png
+illustrations/pages/9588.png
+illustrations/pages/9589.png
+illustrations/pages/9590.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/9593.png
+illustrations/pages/9594.png
+
+translations:
+
+Afrikaans (Translation)	Hen Kul Vir Arend	id=16344
+ChiTonga (Translation)	Nkuku  Yamucenga  Sikwaze	id=18646
+CiNyanja (Translation)	Nkuku Yamupita Kunzelu Nkwazi	id=18664
+English (Translation)	Hen Tricks Eagle	id=10544
+IciBemba (Translation)	Inkoko Yacenjesha Kapumpe	id=18683
+isiXhosa (Translation)	Usikhukukazi Uqhatha Ukhozi	id=17526
+isiZulu (Translation)	Usikhukhukazi Uqiliga Ukhozi	id=16359
+isiZulu (Translation)	Uskhukhukazi Ukhohlisa Ukhozi	id=16547
+Lunyole (Original)	Engoho N’Ekongoja	id=10543
+Sepedi (Translation)	Kgogo E Hlalefetša Ntšhu	id=18169
+Sesotho (South Africa) (Translation)	Kgoho O Jalletsa Ntsu	id=20029
+Setswana (Translation)	Koko O Tsietsa Phakalane	id=16595
+Setswana (Translation)	Koko O Tsietsa Lenong	id=17647
+SiLozi (Translation)	Kuhu Ipuma Mbande	id=18719
+Tshivenda (Translation)	Khuhu I Fhura Goni	id=18301
+Xitsonga (Translation)	Huku Yi Xenga Koti	id=18877

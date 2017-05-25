@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=12675&d=0&a=1
+id:	12675
+title:	La Visite De Neyman en Afrique
+author:	Binek Muriel and Translators without Borders
+artist:	Benard Agasi
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12675.png
+desc:	Une description imaginaire de la visite du footballeur Neyman da Silva Santos pour démontrer les compétences spécifiques liées au soccer.
+
+page_text:
+
+P1	Quand Neymar arriva en Afrique,  il atterrit dans la capitale du Niger. Les Nigériens lui dirent de faire la démonstation de l'aptitude de passer la balle en utilisant le cou-de-pied.
+P2	Du Niger,  il déménagea au Ghana pour faire la démonstration de la passe en utilisant l'intérieur du pied. Cela rendit les gens de Ghana très heureux.
+P3	Quand il se trouva au Ghana,  Neymar reçut une invitation de l'Afrique du Sud pour démontrer le maintien de la balle en utilisant l'avant du pied.
+P4	De l'Afrique du sud,  il déménagea au Chad. Là-bas,  il démontra le maintien de la balle en utilisant le côté du pied.
+P5	Quand Neymar atteignit le Congo,  il stupéfia le pays avec cette aptitude particulière en utilisant la cuisse.
+P6	Les Ougandais qui regardaient Neymar au Congo décidèrent de l'inviter pour qu'il puisse faire la démonstration de l'aptitude du maintien de la balle.
+P7	Ces nouvelles ont traversé tout l'Est de l'Afrique. Les habitants du Kenya ont fait la démonstration du.
+P8	La même semaine les Tanzaniens appelèrent Neymar pour faire la démonstration de renvoyer la balle par la tête.
+P9	Il déménagea au Rwanda pour faire la démonstration du renvoi de la balle en utilisant la partie extérieure du pied.
+P10	Après Rwanda,  Neymar termina son voyage au sud du Soudan,  où il démontra l'aptitude à jouer avec le ballon en gardant le but.
+
+images:
+
+illustrations/pages/9006.png
+illustrations/pages/9006.png
+illustrations/pages/9007.png
+illustrations/pages/9008.png
+illustrations/pages/9009.png
+illustrations/pages/9010.png
+illustrations/pages/9011.png
+illustrations/pages/9012.png
+illustrations/pages/9013.png
+illustrations/pages/9014.png
+illustrations/pages/9015.png
+
+translations:
+
+Afrikaans (Translation)	Neymar Se Besoek Aan Afrika	id=11548
+English (Translation)	Neymar's Visit to Africa	id=9037
+Lugbarati (Original)	Neymar Ma Emu Taa Afrika Ri	id=9029
+Portuguese (Translation)	A Visita Do Neymar a África	id=17620
+Rutooro (Translation)	Orubungo Rwa Neyma Mu Afirika	id=14937
+Tshivenda (Translation)	Neymar's U Dalela Africa	id=9981

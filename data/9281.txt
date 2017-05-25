@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=9281&d=0&a=1
+id:	9281
+title:	Ŋ Utu Laga a Lojo
+author:	Aga Khan Foundation
+artist:	Catherine Groenewald
+lang:	Kakwa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9281.png
+desc:	Ŋ utu laga a ‘dudo a lojo lo kolokindo ‘baa lanyelo duga ku sakaji i rudu kata lo
+
+page_text:
+
+P1	Kole na lepe na luba lo a lojo sa.
+P2	Kaakutu na lepe na a mberembere sa.
+P3	Gbolo na lepe na anaŋutu sa.
+P4	Gari lo lepe lo a loŋutu sa.
+P5	Ilo ŋutu de a lojo sa.
+P6	Lepe a keba le'de luba laga lojo.
+P7	Lepe a kukunda kaakutu naga a najo.
+P8	Lepe a kukunda gbolo naga a najo.
+P9	Lepe a gborundo gari laga a lojo.
+P10	Lepe a gbi'diki i si'de naga i 'diko'diko. Lepe nyosu ku 'busu laga ku kala laga a lojo.
+P11	Lepe a koloki 'baa lanye lo duga ku sakaji i rudu laga a duma kata.
+
+images:
+
+illustrations/pages/309.png
+illustrations/pages/309.png
+illustrations/pages/310.png
+illustrations/pages/311.png
+illustrations/pages/314.png
+illustrations/pages/313.png
+illustrations/pages/316.png
+illustrations/pages/315.png
+illustrations/pages/317.png
+illustrations/pages/318.png
+illustrations/pages/319.png
+illustrations/pages/320.png
+
+translations:
+
+Afaan Oromo (Translation)	Namicha Baayyee Dheeraa	id=12955
+Afrikaans (Translation)	'n Baie Lang Man	id=11260
+Afrikaans (Translation)	'n Baie Lang Man	id=11370
+Arabic (Translation)	الرجل ذو القامة الطويلة	id=10122
+Aringati (Translation)	Ágóbí Ázó Mbílíkó Rĩ	id=9280
+Dhopadhola (Translation)	Nyicwo Ma Bor Tektek	id=18686
+English (Original)	A Very Tall Man	id=918
+French (Translation)	Un Homme Très Grand	id=9923
+French (Translation)	Un Très Grand Bonhomme	id=12615
+Fulfulde (Translation)	Gorko Mawnuɗo Sanne	id=10002
+Gurene (Translation)	Budaa N Ba’Am Wↄgε	id=12662
+Hausa (Translation)	Wani Mutum Mai Ƙirma	id=9971
+isiXhosa (Translation)	Indoda Ende Kakhulu	id=19288
+isiZulu (Translation)	Indoda Ende Elingana Nendlulamithi	id=3491
+Kanuri (Translation)	Kam Adǝ Dadua	id=10031
+Kiswahili (Translation)	Mwanamme Mrefu	id=1176
+Lámnsoʼ (Translation)	Wír Wo Wù Dàrìn É Ŋàŋ	id=16445
+Likpakpaanl (Translation)	Uja Fɔfɔk Uba	id=18775
+Luganda (Translation)	Omusajja Omuwanvu Ennyo	id=8720
+Lugbarati (Translation)	Agu Azi Izu Ni	id=2329
+Lugbarati (Official) (Translation)	Ágʉ̀pɨ́ Ɨ́zʉ̀ Rɨ́	id=8780
+Lumasaaba (Translation)	Umusaani Umuleeyi Naabi	id=3004
+Lunyole (Translation)	Omusinde Omuleŋi Obugali	id=2330
+Lusoga (Translation)	Omusaadha Omuleeyi  Einho	id=919
+Setswana (Translation)	Monna O Motelele-Telele	id=2331
+Shona (Translation)	Murume akarebesa	id=19953
+Yoruba (Translation)	Ọkùnrin Gíga Púpọ̀ Kan	id=10688
+Zarma (Translation)	Gorzo	id=10098

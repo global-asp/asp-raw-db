@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=10100&d=0&a=1
+id:	10100
+title:	Kayanga Nda Nga Zolla
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Catherine Groenewald
+lang:	Zarma
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10100.png
+desc:	Kayanga hayrayey bu
+
+page_text:
+
+P1	Kayanga nda nga hayrayey go baafunay hanno te kala i ka ga bu,  a gonda jiiri way.
+P2	Roosa kaŋ ga ti a ɲakafosina na a ta nda kambe hinka. Roosa ga Kayanga cabe borotaray kulu dumi,  amma a zeenay,  farga nda talkataray kul go a ga.
+P3	Kayanga ga hatta ga koy nga hayrayey saarey boŋ,  ga hẽ.
+P4	Han fo a du gomni fo saarayey boŋ. Zollo fo kaŋ ga maamancandi no bangay a se hayrayey saarey boŋ.
+P5	Dooni kaano fo no zolla ga te kaŋ ga bine yeenandi. Kayanga faham kaŋ nga ɲa jinda no. Sanney kaŋ a ga ci ne-ya:.
+P6	Nangu kaŋ Kayanga go kulu a zollo maamancanta go a bande. Zolla kaŋ hayrayey na no ga a hallasi.
+P7	Han fo,  saaru fo du zolla. Hari ceeciyaŋ boŋ no zolla kaŋ ga bagu. Kayanga bina mo sara gumo.
+P8	Zollo camsey go Kayanga se kamba ra,  a go ga doonu ga ne:.
+P9	Kayanga ma ɲaŋo jinda kaŋ ne a se: "Ay izo,  camsey kumna. I sambu ga koy ga hari ka,  ga ni cey ɲum. Da ni ban,  ni ma moy daabu" Kayanga te hari kaŋ i ne,  sahã din zolla kaŋ bagu ye ga taji.
+P10	Kayanga go nda nga zolla nangu kulu kaŋ a ga koy. Nangu kulu kaŋ a gana,  no borey ga ciinay ga ne care se: "Ifo zollo no a se wo?" A zollo maamacanta fondo ra,  a muraadey kulu no ga feeri.
+P11	A zollo fondo ra,  a faham kaŋ nga harey go ga haggoy nda nga. Taali kulu no si hin ga duw'a.
+
+images:
+
+illustrations/pages/1381.png
+illustrations/pages/1382.png
+illustrations/pages/1813.png
+illustrations/pages/1383.png
+illustrations/pages/1384.png
+illustrations/pages/1814.png
+illustrations/pages/1385.png
+illustrations/pages/1386.png
+illustrations/pages/1387.png
+illustrations/pages/1381.png
+illustrations/pages/1388.png
+illustrations/pages/1811.png
+
+translations:
+
+Afrikaans (Translation)	Khayanga en Haar Spesiale Pot	id=11515
+Ekegusii (Translation)	Omogano O’Khayanga Nekerandi Kiaye	id=3115
+English (Original)	Khayanga and Her Gourd	id=2107
+French (Translation)	La Gourde De Khayanga	id=9957
+Fulfulde (Translation)	Kayannga E Jollooru Muuɗum	id=10009
+Hausa (Translation)	Kayanga Da Gyanɗama	id=9992
+Kanuri (Translation)	Fanda-a Budanju-A	id=10035
+Kikamba (Translation)	Ngewa Ya Kayanga Na Kĩkuu Kyake	id=2395
+Kiswahili (Translation)	Khayanga Na Kibuyu Chake	id=7280
+Luganda (Translation)	Nanziri N’Endeku	id=2457
+Lugbarati (Translation)	Adiko Kayia Pini ‘Ima Zukulu Be Ri	id=2461
+Lunyole (Translation)	Namudira N’Ehita	id=2458
+Maa (Translation)	Kayánga Ó Emókór Enyé	id=3113
+Ng’aturkana (Translation)	Khayanga Ka Etwo Keng	id=2459
+Oluwanga (Translation)	Wamachina  Nakhamuka Khe	id=2460
+Sepedi (Translation)	Kgayanga Le Nkgo	id=7847
+Sepedi (Translation)	Khayanga Le Nkgo Ya Gagwe	id=7863
+Setswana (Translation)	Moipone Le Sego Sa Gagwe	id=6519

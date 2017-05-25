@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=10940&d=0&a=1
+id:	10940
+title:	Le Crocodile Qui Avait Très Faim
+author:	Marianne Pasty-Abdul Wahid and Translators without Borders
+artist:	Wiehan de Jager
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10940.png
+desc:	Le crocodile affamé glisse à travers les eaux…
+
+page_text:
+
+P1	Il était une fois un crocodile qui avait très faim.
+P2	Il cherchait de quoi manger,  doucement et sans faire de bruit.
+P3	TCHAK! Le crocodile attaque!
+P4	Après cela sa faim est calmée,  et il est content.
+P5	Jusqu'à ce qu'il ait faim de nouveau.
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Afrikaans (Translation)	Die Honger Krokodil	id=11063
+Arabic (Translation)	التمساح الجائع	id=18188
+English (Original)	The Hungry Crocodile	id=7043
+Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
+Luganda (Translation)	Ggonya Omuyala.	id=9664
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
+Portuguese (Translation)	O Crocodilo Faminto	id=18889

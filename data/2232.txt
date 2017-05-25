@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=2232&d=0&a=1
+id:	2232
+title:	Anansi N’Obong’Aini
+author:	Dennis Ogaro Ondieki
+artist:	Wiehan de Jager
+lang:	Ekegusii
+level:	Read aloud
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2232.png
+desc:	The sky god decides to give Anansi the spider a pot of wisdom. He is so excited by all he learns from looking into it that he wants to hide it in a tree so that he can keep it all to himself. Unfortunately for him (but fortunately for the people of the world)
+
+page_text:
+
+P1	Igabwo kare kare banto tibamanyete kende. Tibamanyete gosimeka endagera,  gose gosona yanga,  gose korosia ebinto korua ase chichuma. Nonya nigo nyasaye orenge korokwa Nyame narengeoo gotatiga amenyete igoro ase rise naende nigo abwate obong'aini bwensi bwense. Nigo agachete obong'aini obo ase enyongo.
+P2	Rituko erimo,  Nyame akaamua koenana enyongo eria y'obong'aini gosia ase Anansi. Kera engaki Anansi arigereretie enyongo eria,  nigo arenge kweegeria egento ekeyia. Nero nigo yare komorentera omogoko omonge.
+P3	Rakini Anansi nigo arenge omong'iti nokoba igo akarengereria,  "Tiga nkache enyongo eye igoro y'omote omotaambe,  ase onde bwensi atayenyore. Erio nario ndanyore enyongo eye ebe eyane inche bweka!" Akamina amakengo akarosia engori naboigo agasiba engori eria ase enyongo eria. Koruoo agesiba engori eria ase ekeuno kiaye,  erinde enyongo eria egasugunana bosio bwaye,  erinde agachaka korina omote oria.
+P4	Rakini korina omote oria n'enyongo eria ekaba obokongu asengencho enyongo nigo yarenge konyakomotwomera amaru aye kera engaki. Anansi agachaka kogechiwa mono nenyongo eria yarenge komoara,  amo n'omoroso. Engaki eye yonsi omwana bw'Anansi nigo akengerete korwa nse yomote oria,  amorigereretie buna akorina. Akamotebia,  'Naki yarenge koba bwororo kware korina omote oyio gosibete enyongo eyio ase omogongo oo ribaga ri'ekeuno?" Erio Anansi agatema gosiba enyongo eria yabwate obong'aini mogongo oye,  akanyora buna nigo yarenge bwororo mono korina omote oria."
+P5	Eyio ekagera akairina omote oria mbaka igoro bwango sana. Rakini agatenena nakorengereria,  "Ninche bweka mbwenerete gotwara obong'aini bwensi,  na igaa omwawa oyo one nigo ang'ainia kombua!"
+P6	Enyongo erai egaateka ebisanda ekaba ebiminyore ebinge nse yomote oria. Nabo igo bono abanto besometie okorema,  ogosona chiyanga n'ebinto bionsi abanto bamanyete rero.
+
+images:
+
+illustrations/pages/1273.png
+illustrations/pages/1274.png
+illustrations/pages/1275.png
+illustrations/pages/1276.png
+illustrations/pages/1277.png
+illustrations/pages/1278.png
+illustrations/pages/1279.png
+
+translations:
+
+English (Original)	Anansi and Wisdom	id=1938
+Kikamba (Translation)	Ananzi Na Ũĩ	id=2233
+Kiswahili (Translation)	Anansi Na Hekima	id=2234
+Lugbarati (Translation)	Ibio Pi Ondoa Be	id=2230
+Lugbarati (Official) (Translation)	Èbìó Pɨ Òndʉ̀á Be	id=8775
+Lumasaaba (Translation)	Manaasi Ni Kamakhula	id=3006
+Maa (Translation)	Anansi Ó Eng'énó	id=2732
+Ng’aturkana (Translation)	Anansi Ka Aosou	id=2235
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=2256
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=8677
+Spanish (Translation)	Anansi Y La Sabiduría	id=14407

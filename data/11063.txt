@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=11063&d=0&a=1
+id:	11063
+title:	Die Honger Krokodil
+author:	Nadine Elsë
+artist:	Wiehan de Jager
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11063.png
+desc:	Die storie gaan oorn krokodil ... wat doen hy as hy honger is?
+
+page_text:
+
+P1	Eendag was daar 'n baie honger krokodil.
+P2	Hy het stadig en saggies vir kos gesoek.
+P3	GAPS! Daar hap die krokodil!
+P4	Na dit is hy nie meer honger nie,  en is hy baie gelukkig.
+P5	Totdat hy weer honger raak.
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Arabic (Translation)	التمساح الجائع	id=18188
+English (Original)	The Hungry Crocodile	id=7043
+French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
+Luganda (Translation)	Ggonya Omuyala.	id=9664
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
+Portuguese (Translation)	O Crocodilo Faminto	id=18889

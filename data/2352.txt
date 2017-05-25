@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=2352&d=0&a=1
+id:	2352
+title:	Eshiengu
+author:	Catherine Were
+artist:	Sue Kramer
+lang:	Oluwanga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2352.png
+desc:	Tsinyali tsiungasibwe khu tsipicha tsinyengu tsie efindu fia buli nyanga.
+
+page_text:
+
+P1	Lipurupru liobwengu khumuyeshe.
+P2	Shipumbu eshiengu munzu.
+P3	Isishiri ifwana obwengu khumwaanda.
+P4	Eshimo tsa lukongo mwitokho.
+P5	Eshikaye shiobwengu khwiloba.
+P6	Efimuli efiengu munyungu.
+P7	Eshichinganga efindu khunjira.
+P8	Omuswerurukho kwobwengu mwikunda.
+P9	Inzu inyengu khu masanganjira.
+P10	Afrika inyengu khu murwe kwanje.
+P11	Ne efwe fwesi khwamenya heena? Mushialo shiabamali shia Afrika.
+
+images:
+
+illustrations/pages/934.png
+illustrations/pages/935.png
+illustrations/pages/936.png
+illustrations/pages/937.png
+illustrations/pages/938.png
+illustrations/pages/939.png
+illustrations/pages/940.png
+illustrations/pages/941.png
+illustrations/pages/942.png
+illustrations/pages/943.png
+illustrations/pages/1259.png
+illustrations/pages/945.png
+
+translations:
+
+English (Original)	Yellow	id=1258
+isiXhosa (Translation)	Umbala Omthubi	id=2350
+Kikamba (Translation)	Langi Wa Ilaa Ya Muuti	id=3000
+Lugbarati (Translation)	A’Ugbe A’Ugbea	id=12646
+Lunyole (Translation)	Yellow	id=9347
+Maa (Translation)	Éísikítoi	id=3001
+Ng’aturkana (Translation)	Anyang’Aanut	id=2351

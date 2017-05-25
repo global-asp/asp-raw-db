@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=8729&d=0&a=1
+id:	8729
+title:	A Wanuna Ni Nghonyamu
+author:	Rafael Ernesto Samuel
+artist:	Hélder de Paz Alexandre
+lang:	Xitswa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8729.png
+desc:	How a man escapes from certain death.
+
+page_text:
+
+P1	Hi ka masiku lawaya,  akuhi ni wanuna anga kari a fama lomu kwatini. Hi ci tsuketi,  a kumanili ni nghonyamu!
+P2	A nghonyamu ayi kari yi ti humulela ka bzanyi ga ndzokati.
+P3	A thlanganu wabze wa ci tsuketi wu mahili aku a wanuna anga tivi a cu maha. A wa teli ni wutoya.
+P4	Aku sanguleni,  a nghonyamu yi dzukili yonawu,  yi cavanyana. Kanilezvi lomu ndzeni ka yona aku kari ku b'oha aku kombisa aku yona ayi kari yizva a ndlala.
+P5	A wanuna hatlisili aya noma ka sinya wo leha! A sangula aku cwanga na a kari a ruketela a nghonyamu.
+P6	Nghonyamu yi b'aramili laha hasi ka sinya nayi kari yi nyimela a zvakuga zva yona. Aku fambeni ka kama,  a nghonyamu yi zvili awurongo,  yi wa ti mahisa aku kwatsi hi loku yi wazva awurongo.
+P7	Hi kama wa wu tsongwani,  a wanuna a etlelili. A gama a thlendlemuka kambi. Hi ku gumesa,  a khudzehela a gama a khon'wa hi wu rongo.
+P8	Kanilezvi a wili a hehla ka nghonyamu yinga ngha yi etleli!
+P9	Votle va vukili na vanga tivi a cu maha,  na va cava. A nghonyamu yi rivakelwi ni zvakuga zva yona,  yi tsutsuma kasi aku ponisa a wutomi ga yona.
+P10	A wanuna na yenawu a tsutsumile hi tlelu legi a nghonyamu yinga kari yi tsutsuma ka gonawu. A gama a tsumbula aku yenawu awa kari a tsutsuma hi tlelu gin'wi ni nghonyamu!
+P11	Hiku maha loku,  yena a wanuna a cicili a tlelu kasi a pona aku giwa hi nghonyamu!
+
+images:
+
+illustrations/pages/8180.png
+illustrations/pages/8180.png
+illustrations/pages/8181.png
+illustrations/pages/8182.png
+illustrations/pages/8184.png
+illustrations/pages/8187.png
+illustrations/pages/8189.png
+illustrations/pages/8190.png
+illustrations/pages/8191.png
+illustrations/pages/8192.png
+illustrations/pages/8193.png
+illustrations/pages/8194.png
+
+translations:
+
+English (Original)	Man and Lion	id=8205
+English (Adaptation)	Man and Lion - Colouring Book	id=17392
+English (Adaptation)	Manu and the Lion	id=18332
+Kiswahili (Translation)	Mtu Na Simba	id=12689
+Luganda (Translation)	Omusajja N'empologoma.	id=10708
+Portuguese (Translation)	O Homem E O Leão	id=8207

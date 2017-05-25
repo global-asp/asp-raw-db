@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=10439&d=0&a=1
+id:	10439
+title:	Father and Son
+author:	Frista Nattabira
+artist:	Wiehan de Jager
+lang:	Luganda English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10439.png
+desc:	Ky’ateeka abaana okukola bulikimu abakulu kyebaba balangira?
+
+page_text:
+
+P1	Edda waliwo omusajja nga ye Nsangabisibe. Long time ago,  there was a man called Nsangabisibe. There was a man called Enzo.
+P2	Omusajja ono yalina mutabani nga ye Mudduawulira. Nsangabisibe had a son called Mudduawulira. This man had a son. The son's name was Paul.
+P3	Lumu taata yagamba mutabaniwe nti jangu tutambuleko. One day the man said to his son,  "Let's go for a walk."
+P4	Bwe baali batambula,  nebasanga omugugu omusibe obulungi ennyo. Omugugu nga gusanyusa okulaba. When they were walking,  they found a very beautiful suitcase by the roadside. On the way,  they saw a very nice suitcase. It was packed full.
+P5	Taata nakwatibwa amaddu nagamba Mudduawuliranti,  "Situla omugugu ogwetike tugutwale eka."The man got very excited. He said to his son,  "Pick it up and we will take it home."
+P6	Omwana nasitula omugugu neyetikka. The son picked the suitcase and carried it on his head. The son did what the father told him to do. Paul put the suitcase on his head and carried it.
+P7	Batambulako katono,  omusota neguva mumugugu negumugwa kubigere!On the way home,  a snake slithered out of the suitcase. It landed on Mudduawulira's feet!
+P8	Taata ne mutabaniwe batya nnyo era nebasuula omugugu nebadduka. Nsangabisibe and Mudduawulira were very scared,  dropped the suitcase and ran away. Father and son were both very scared. Paul dropped the suitcase. They ran away very fast!
+
+images:
+
+illustrations/pages/10082.png
+illustrations/pages/10081.png
+illustrations/pages/10082.png
+illustrations/pages/10083.png
+illustrations/pages/10084.png
+illustrations/pages/10085.png
+illustrations/pages/10087.png
+illustrations/pages/10086.png
+illustrations/pages/10088.png
+
+translations:
+
+Amharic (Translation)	አባተ አእነና ለልጀጅ	id=16452
+Amharic (Translation)	አባት እና ልጅ	id=16453
+French (Translation)	Père Et Fils	id=13273
+Portuguese (Translation)	O Pai E O Filho	id=16580
+Setswana (Translation)	Rre Le Morwa Wa Gagwe	id=14955

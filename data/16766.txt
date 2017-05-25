@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=16766&d=0&a=1
+id:	16766
+title:	Mama Abadilika
+author:	Ursula Nafula
+artist:	Catherine Groenewald, Jesse Breytenbach, Rob Owen, unknown and Wiehan de Jager
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16766.png
+desc:	Hadithi inaonyesha jinsi mtu anavyokua na kubadilika kimaumbile.
+
+page_text:
+
+P1	Mama alipokuwa msichana,  nilienda naye kuwatembelea marafiki zake.
+P2	Alinipeleka sokoni tukanunue mboga.
+P3	Alienda na ndugu yangu mjini.
+P4	Alinifunza majina ya mimea.
+P5	Mama alipozeeka,  mgongo wake ulipinda.
+P6	Aliketi nyumbani na kuzungumza na watoto wa majirani.
+P7	Alikuwa mgonjwa mara kwa mara.
+P8	Wajukuu wake walimtembelea wakati wa likizo.
+P9	Alitembea kwa shida.
+P10	Majirani walimpelekea maziwa kutoka dukani.
+P11	Mama alipokuwa msichana,  alikuwa mwenye nguvu.
+P12	Sasa amezeeka,  amekuwa mnyonge.
+
+images:
+
+illustrations/pages/1326.png
+illustrations/pages/9473.png
+illustrations/pages/14034.png
+illustrations/pages/11450.png
+illustrations/pages/13694.png
+illustrations/pages/14031.png
+illustrations/pages/14698.png
+illustrations/pages/9392.png
+illustrations/pages/11675.png
+illustrations/pages/6001.png
+illustrations/pages/7943.png
+illustrations/pages/9941.png
+illustrations/pages/1366.png
+
+translations:
+
+English (Original)	Mother Changes	id=14836

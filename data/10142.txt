@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=10142&d=0&a=1
+id:	10142
+title:	My Baby Boy.
+author:	Ritah Katetemera
+artist:	Melany Pietersen, Catherine Groenewald, Genevieve Terblanche, Lauren Rycroft, Natalie Propa, Franz Phooko and Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10142.png
+desc:	The story is short and brief it talks about a little boy JaneFrancis.
+
+page_text:
+
+P1	My baby boy is John Francis.
+P2	He likes yellow bananas and apples.
+P3	After taking his breakfast, he goes to play with a friend.
+P4	He likes swimming during afternoon hours.
+P5	He does his homework and draws different pictures.
+P6	John Francis has a big cock.
+P7	He plays hide and seek with friends.
+P8	His favorite color is yellow.
+P9	He likes pet animals very much.
+P10	John Francis encourages his friends to read hard,  to have a bright future.
+
+images:
+
+illustrations/pages/8967.png
+illustrations/pages/8977.png
+illustrations/pages/8029.png
+illustrations/pages/8608.png
+illustrations/pages/8652.png
+illustrations/pages/8667.png
+illustrations/pages/9629.png
+illustrations/pages/9858.png
+illustrations/pages/9363.png
+illustrations/pages/9580.png
+illustrations/pages/9855.png
+
+translations:
+
+English (Original)	My Baby Boy	id=9668

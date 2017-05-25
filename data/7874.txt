@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=7874&d=0&a=1
+id:	7874
+title:	Namukhaywa
+author:	Brigid Simiyu
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/7874.png
+desc:	Hadithi ya mwnamme na mkewe aliyemzalia watoto wasichana pekee. Anamwonya mkewe kuwa akimzaa mtoto msichana tena atamuua lakini iwapo atamzalia mvulana atamwaandalia karamu.  Mkewe anaenda kwa mkunga wa kienyeji na kujifungua mapacha. Soma ujue alichofanya baada ya hilo.
+
+page_text:
+
+P1	Hapo zamani katika kijiji cha Elunyikho,  paliishi mwanamme kwa jina Ndong'a na mkewe Namukhaywa. Walikuwa na watoto sita,  wote wasichana.
+P2	Namukhaywa alipokuwa na mimba ya saba,  Ndong'a alimwonya,  "Ukimzaa msichana,  nitakuua. Lakini ukinipa mtoto mvulana,  nitakuandalia karamu kubwa!"
+P3	Wakati wa kujifungua ulipowadia,  Namukhaywa alienda kwa mkunga wa kienyeji. Je,  mtoto atakuwa msichana au mvulana?
+P4	Alikuwa mvulana NA msichana – mapacha! Mvulana alimwita Mukhwana,  na msichana akamwita Mulongo. Alipomwangalia Mukhwana,  alifurahi sana. Lakini alipomwangalia Mulongo,  alihuzunika mno. Ni jambo moja tu angelifanya.
+P5	Namukhaywa alimwacha Mulongo chini ya ulezi wa mkunga na kumpeleka Mukhwana nyumbani kwa mumewe.
+P6	Kwa fahari,  alimwonyesha Ndong'a mtoto mvulana. Alifurahi sana na kuwaita wanakijiji kusherehekea kuzaliwa kwa mtoto wake mvulana.
+P7	Mukhwana alikua na kuwa kijana mwanamme wa kupendeza. Na Mulongo naye,  akawa mwanamke mrembo mno.
+P8	Siku moja wakati alikuwa akichunga mifugo wa babake,  Mukhwana alimwona msichana mrembo sana. "Huyu ndiye msichana ningependa kuoa," alijiambia.
+P9	Lakini alipomuuliza kumuoa,  aliimba wimbo huu: "Mukhwana wefwe,  Mukhwana. So yakhupa omunwa,  Mukhwana. Nebebula omukhana,  Mukhwana. Barulaka khulwanda,  Mukhwana. Nebebula omusiani,  Mukhwana. Barera mungo muno,  Mukhwana. Iyeyi yakwa,  Mukhwana. Iyindi yakwa,  Mukhwana."
+P10	Hii ilifanyika tena na tena. Mukhwana hakujua la kufanya. Kwa hivyo alimwendea mamake,  Namukhaywa. "Nimempata msichana mrembo," alisema. "Nataka kumuoa. Lakini kila ninapomuuliza,  anaimba wimbo ule ule."
+P11	La kushangaza,  Namukhaywa alisema,  "Anachoimba msichana yule ni kweli. Yeye ni dadako. Mlizaliwa mapacha. Babako alimtaka mtoto mvulana na wala si msichana. Kwa hivyo nilimwacha dadako kwa mkunga na kukuleta wewe nyumbani."
+P12	Wakati Mukhwana alimwambia babake kisa hicho,  babake aliona kwamba alikuwa amefanya kosa. Alimwita Namukhaywa,  na pamoja walienda kwa mkunga kumleta Mulongo.
+P13	Mulongo alipofika nyumbani,  babake na wazee wa kijiji walimchinja mbuzi na kutekeleza kimila cha kumuunganisha Mulongo na ndugu zake saba.
+P14	Mwaka mmoja baadaye,  Mulongo aliolewa kwa mwana wa tajiri kutoka kijijini. Alilietea familia yake mali mengi na furaha.
+
+images:
+
+illustrations/pages/5807.png
+illustrations/pages/5806.png
+illustrations/pages/5807.png
+illustrations/pages/5808.png
+illustrations/pages/5809.png
+illustrations/pages/5810.png
+illustrations/pages/5812.png
+illustrations/pages/5813.png
+illustrations/pages/5814.png
+illustrations/pages/5815.png
+illustrations/pages/5817.png
+illustrations/pages/5818.png
+illustrations/pages/5820.png
+illustrations/pages/5822.png
+illustrations/pages/5824.png
+
+translations:
+
+English (Original)	Namukhaywa	id=5859
+French (Translation)	Namukhaywa	id=9961
+Fulfulde (Translation)	Namukhaywa	id=10024
+Hausa (Translation)	Namukhaywa	id=9991
+Kanuri (Translation)	Fanna	id=10041
+Luganda (Translation)	Namukwaya	id=8312
+Lugbarati (Official) (Translation)	Àyákáká	id=8788
+Lumasaaba (Translation)	Mukhaye	id=8305
+Lunyole (Translation)	Namwima	id=8404
+Maa (Translation)	Namukhaywa	id=7875
+Ng’aturkana (Translation)	Namukhaywa	id=8457
+Setswana (Translation)	Dineo	id=7800
+siSwati (Translation)	Namukhaywa	id=13078
+Zarma (Translation)	Namukayya	id=10106

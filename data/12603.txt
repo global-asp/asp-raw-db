@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=12603&d=0&a=1
+id:	12603
+title:	Lekishon and the Cows
+author:	Paul Maseri
+artist:	Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12603.png
+desc:	Lekishon the Maasai herd boy loses his cows.
+
+page_text:
+
+P1	This is Lekishon. Lekishon is calling his dog.
+P2	Lekishon and his dog are going to graze the animals. The sun is hot.
+P3	Lekishon and his dog are thirsty and hungry.
+P4	They go to look for water.
+P5	Lekishon loses track of his cows.
+P6	Lekishon starts to cry.
+P7	He decides to go home with his dog.
+P8	The cows found the way home! Lekishon and his dog are very happy.
+
+images:
+
+illustrations/pages/10432.png
+illustrations/pages/10431.png
+illustrations/pages/10432.png
+illustrations/pages/10433.png
+illustrations/pages/10434.png
+illustrations/pages/10435.png
+illustrations/pages/10436.png
+illustrations/pages/10437.png
+illustrations/pages/10438.png
+
+translations:
+
+French (Translation)	Lekishon Et Les Vaches	id=13127
+isiXhosa (Translation)	Ulekishon Neenkomo Zakhe	id=13120
+Maa (Original)	Lekishon O Nkishu	id=10441
+Portuguese (Translation)	Lekishon E As Vacas	id=16658

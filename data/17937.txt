@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=17937&d=0&a=1
+id:	17937
+title:	Urithi Kutoka Kwa Baba
+author:	Ursula Nafula
+artist:	Jacob Kono
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17937.png
+desc:	Hii ni hadithi inayoeleza hekima ya baba na jinsi mwanawe anavyogundua urithi walioachiwa kutokana na ukulima.
+
+page_text:
+
+P1	Eba na mkewe Lelisa walifanya kazi zao kwa bidii sana. Walikuwa na watoto wawili wa kiume.
+P2	Walitimiza mahitaji yao kutokana na juhudi zao. Eba alitaka wanawe waishi maisha ya starehe. Hawakufanya kazi zozote.
+P3	Baada ya muda,  Lelisa alifariki.
+P4	Hata baada ya kifo cha mkewe,  Eba hakuwaacha wanawe kumsaidia kufanya kazi. Alizafanya kazi zote za shambani na za nyumbani.
+P5	Muda ulipopita,  Eba alizeeka na kuwa mgonjwa. Alihofia maisha ya wanawe. Hakujua wangeishi vipi baada ya kifo chake. Hawangeweza kujitegemea.
+P6	Eba aliwaita wanawe akasema,  "Urithi wangu kwenu ni dhahabu nyingi iliyofichwa shambani. Kwa hivyo,  ni juu yenu kuilima shamba ili kuipata dhahabu hiyo."
+P7	Eba pia aliwaita majirani akawaambia,  "Nitafariki hivi karibuni. Wanangu hawajui kujitegemea. Nawasihi mwasaidie hadi watakapoweza kujikimu wenyewe."
+P8	Baada ya Eba kufariki,  majirani waliwapa wanawe chakula kwa muda.
+P9	Ndugu hao hawakutaka kuporwa dhahabu iliyofichwa na baba yao. Waliamua kuyalima mashamba wenyewe ili waipate.
+P10	Waliyalima mashamba moja baada ya nyingine. Hawakuipata dhahabu yoyote.
+P11	Waliketi chini na mmoja wao akamwuliza mwingine,  "Je,  unadhani baba alitudanganya?" Yule mwingine akasema,  "La,  ninadhani baba alikuwa akimaanisha kuwa ukulima ni dhahabu.  Ikiwa tutayalima mashamba,  tupande mbegu na kuipalilia mimiea,  tutakuwa tajiri."
+P12	Kwa hivyo,  kama wakulima wengine,  wana hao waliyalima mashamba yao.  Walipanda ngano na kuwa tajiri sana.
+
+images:
+
+illustrations/pages/17228.png
+illustrations/pages/17218.png
+illustrations/pages/17219.png
+illustrations/pages/17220.png
+illustrations/pages/17221.png
+illustrations/pages/17222.png
+illustrations/pages/17223.png
+illustrations/pages/17666.png
+illustrations/pages/17669.png
+illustrations/pages/17226.png
+illustrations/pages/17227.png
+illustrations/pages/17228.png
+illustrations/pages/17229.png
+
+translations:
+
+Afaan Oromo (Translation)	Dhaala Abbaa	id=17965
+Amharic (Translation)	የአባት ውርስ	id=17966
+English (Original)	Father's Inheritance	id=17523

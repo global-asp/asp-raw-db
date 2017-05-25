@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=9347&d=0&a=1
+id:	9347
+title:	Yellow
+author:	Busolwe Sites
+artist:	Sue Kramer
+lang:	Lunyole
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9347.png
+desc:	olugelo huῃamba hu langi  erya  namagi.
+
+page_text:
+
+P1	Epuluguti yanamagi hu mujehe.
+P2	Eῃoma eya pulastiki munju.
+P3	Embalasi eya namagi mu lugudo.
+P4	Emotoka eya namagi mu hibuga.
+P5	Olubya olwa namagi hwiroba.
+P6	Ebimuli ebya namagi mu ndobo.
+P7	Endubi eya namagi mu muhoosi.
+P8	Ehye suubo ehya namagi mu hisaῃe.
+P9	Enju eya namagi hu koona.
+P10	Afirika eya namagi hu mutwe gwange.
+P11	Ne efe humenya ῃena mu Afirika?
+
+images:
+
+illustrations/pages/934.png
+illustrations/pages/935.png
+illustrations/pages/936.png
+illustrations/pages/937.png
+illustrations/pages/938.png
+illustrations/pages/939.png
+illustrations/pages/940.png
+illustrations/pages/941.png
+illustrations/pages/942.png
+illustrations/pages/943.png
+illustrations/pages/1259.png
+illustrations/pages/945.png
+
+translations:
+
+English (Original)	Yellow	id=1258
+isiXhosa (Translation)	Umbala Omthubi	id=2350
+Kikamba (Translation)	Langi Wa Ilaa Ya Muuti	id=3000
+Lugbarati (Translation)	A’Ugbe A’Ugbea	id=12646
+Maa (Translation)	Éísikítoi	id=3001
+Ng’aturkana (Translation)	Anyang’Aanut	id=2351
+Oluwanga (Translation)	Eshiengu	id=2352

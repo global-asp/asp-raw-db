@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=7753&d=0&a=1
+id:	7753
+title:	O Jogo Da Cozinha
+author:	Jorge Eusébio Eusébio
+artist:	Reginaldo Vicente Manhice
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7753.png
+desc:	Rabbit invites his friend Monkey over to play
+
+page_text:
+
+P1	Era uma vez,  o coelho e o macaco eram amigos. Numa época de fome,  o coelho decidiu convidar o seu amigo para juntos brincarem.
+P2	O coelho disse: vamos brincar de cozinhar um para o outro! O coelho respondeu: como vamos fazer isso?
+P3	O coelho respondeu: vamos fazer fogo.
+P4	Pormos água na panela,  e depois pormos no fogo.
+P5	Vou entrar em primeiro na panela,  quando a água comece a ferver,  hei-de bater na tampa e vais abrir para eu puder sair.
+P6	O coelho entrou primeiro,  e a água começou a ferver.
+P7	O coelho bateu na tampa e o macaco abriu.
+P8	Mas quando foi a vez do macaco a entrar na panela,  o coelho pos por cima da tampa uma pedra grande e sentou-se!
+P9	Quando a água começou a ferver,  o macaco bateu na tampa e o coelho nao abriu!
+P10	Assim o macaco morreu na panela e o coelho comeu o seu amigo!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/7743.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/7744.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/7745.png
+
+translations:
+
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The Cooking Game	id=6993
+English (Adaptation)	The Cooking Game - Colouring Book	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo Wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo Wokuphekana (Faka Imibala)	id=17564
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

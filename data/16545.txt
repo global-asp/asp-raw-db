@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=16545&d=0&a=1
+id:	16545
+title:	Ngonza Ebibira
+author:	Gertrude Kobusinge
+artist:	Rob Owen
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16545.png
+desc:	Kubunga mu ekibira kya Kibale kikaleta kumanya bingi hali ebisoro
+
+page_text:
+
+P1	Ngonza ebibira!
+P2	Kya kataano ekihoire nka genda mukibira kya kibale.
+P3	Emiringo yemiti eyinarozere niyo eno omukindo,  omuvule,  na ebony.
+P4	Nkorora ebisoro binu ebikuya,  enkerebe,  enkende nebindi bingi muno.
+P5	Nkatunga nomugisa gwakukora ebinyonyi ebitali bimu nka entuuha ebihungu na kabyasi.
+P6	Nkasemererwa muno kurora enjojo nkoota muno baituina akakira kataito.
+P7	Nkarora ebintu ebitale bimu ebsoro,  ebinyonyi nebimera.
+
+images:
+
+illustrations/pages/16540.png
+illustrations/pages/16577.png
+illustrations/pages/16539.png
+illustrations/pages/16544.png
+illustrations/pages/16541.png
+illustrations/pages/16543.png
+illustrations/pages/16542.png
+illustrations/pages/16540.png
+
+translations:
+
+English (Translation)	I Love Forests	id=16578

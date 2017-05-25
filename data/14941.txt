@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=14941&d=0&a=1
+id:	14941
+title:	Embeba
+author:	Kangume Rhodah
+artist:	Zablon Alex Nguku
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14941.png
+desc:	Embeba y’omukisaka ekabungira eyomunju kurora ebirungi ebitaaha munju baitu ekeega Isomo.
+
+page_text:
+
+P1	Obusumi bwaira muno hakaba haroho embeba ibiri emu yaikaraga munju endi yaikaraga mukisaka.
+P2	Embeba endi yakaraga munju.
+P3	Kiro kimu embeba y' omunju ekagambira eyomukisaka,  "Iwe olya kubi,  obyamu kubi,  enjura ekuteera."
+P4	"Baitu nyowe mbyama munju y'omunyoro. Ndya ebyokulya ebirungi kiro kinu oije ombungire," embeba y'omunju n' egambira eyomukasaka. "Ninyija kwija kiro kinu ekiro," embeba y'omukisaka yagamba. "Nyina ekihika nkakaseka kokunywa soda."
+P5	Obu kunu mukama w'enju akaba atamirwe. "Embeba habwokumuliira ebyokulya yacwamu kuzitega!" Akwata omutego atamu sukaali.
+P6	Embeba ekiro zaija kulya ebwokulya ebirungi zikaija niseka,  "Chuilchuilchuilchuil!"
+P7	Obuzahikire munju embeba y'omunju egamba,  "Kandye hasukaali enu. Orole ebirungi tulya kunu."
+P8	Baitu ekaba etakaliire sukaali omutego gwayebbasura,  PA! Gwagikwata omutwe amaiso gagitugunduka nkagenjagi.
+P9	Embeba y'omukisaka yarora mukuhunirra yagamba,  "Eee! Munywani wange byokulyaki ebi ebimurukulya bikaba tugundura amaiso?"
+P10	Baitu enu etagarukemu.
+P11	Embeba y'o'mukisaka yayegendera n'egamba,  "Haa! Timbisobole ebyokulya orukuhaisa."
+P12	Eka yawe embi n'ekira eyamutaahi waawe enungi.
+
+images:
+
+illustrations/pages/7506.png
+illustrations/pages/7496.png
+illustrations/pages/7497.png
+illustrations/pages/7498.png
+illustrations/pages/7499.png
+illustrations/pages/7500.png
+illustrations/pages/7501.png
+illustrations/pages/7502.png
+illustrations/pages/7503.png
+illustrations/pages/7504.png
+illustrations/pages/7505.png
+illustrations/pages/7505.png
+illustrations/pages/7506.png
+
+translations:
+
+Afrikaans (Translation)	Die Rot	id=11325
+English (Translation)	The Rat	id=7769
+English (Adaptation)	The Big Rats	id=13612
+Kiswahili (Translation)	Panya	id=8439
+Likpakpaanl (Translation)	Lisayikl	id=18782
+Lunyole (Translation)	Embeba	id=13611
+Lusoga (Original)	Wansolimo	id=7768
+Portuguese (Translation)	A Ratazana	id=18858
+Portuguese (Translation)	A Ratazana	id=18890

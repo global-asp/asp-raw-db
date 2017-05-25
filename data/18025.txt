@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=18025&d=0&a=1
+id:	18025
+title:	Morutiši Wa Ka
+author:	Sara mohale
+artist:	Jesse Pietersen
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18025.png
+desc:	Mosetsana o nyaka go swana le morutiši wa gagwe.
+
+page_text:
+
+P1	Ke rata morutiši wa ka.
+P2	Ke morutiši wa go loka. O na le botho le pelotelele.
+P3	O logile meriri ya gagwe botse kudu.
+P4	O loketše dipheta tša mebalabala meriring ya gagwe.
+P5	Dipheta tša gagwe ke tše talamorogo,  šweu,  hubedu le tše serolwana.
+P6	Mma,  ka kgopelo hle,  ke kgopela gore le ntoge meriri go swana le morutiši wa ka?
+P7	Ge ke godile,  ke tlo tsentšha dipheta meriring ya ka.
+P8	Ke tla gola ka ba bjalo ka morutiši wa ka!
+
+images:
+
+illustrations/pages/8513.png
+illustrations/pages/8509.png
+illustrations/pages/8510.png
+illustrations/pages/8511.png
+illustrations/pages/8512.png
+illustrations/pages/8513.png
+illustrations/pages/8514.png
+illustrations/pages/8515.png
+illustrations/pages/8516.png
+
+translations:
+
+Afrikaans (Translation)	My Juffrou	id=20086
+Akuapem Twi (Translation)	Me Kyerɛkyerɛfo	id=18465
+Asante Twi (Translation)	Me Kyerɛkyerɛfoɔ	id=18223
+ChiTonga (Translation)	Basiisi Bangu	id=18632
+CiNyanja (Translation)	Apunzisi Anga	id=18609
+Dagaare (Translation)	N Karema	id=17777
+Dagbani/Dagbanli (Translation)	N Karim Ba	id=18153
+Dangme (Translation)	Ye Tsɔɔlɔ	id=18303
+Dhopadhola (Translation)	Jafonji Paran	id=18751
+English (Original)	My Teacher	id=8507
+Ewe (Translation)	Nye Nufiala	id=18170
+Fante (Translation)	Me Kyerɛkyernyi	id=18495
+Ga (Translation)	Mitsɔɔlɔ	id=18294
+Gonja (Translation)	Mabe Eŋinipo	id=18176
+IciBemba (Translation)	Bakafundisha Bandi	id=18574
+isiXhosa (Translation)	Utitshala Wam	id=17577
+isiZulu (Translation)	Uthisha Wami	id=8075
+Kasem (Translation)	A Bereno	id=18210
+Kiswahili (Translation)	Mwalimu Wangu	id=15609
+Lunyole (Translation)	Omusomesa Wange	id=16424
+Mampruli (Translation)	N  Karimba	id=18852
+Nzema (Translation)	Me Kilehilevolɛ Ne	id=18432
+Oluwanga (Translation)	Omusomesia Wanje	id=19796
+Portuguese (Translation)	A Minha Professora	id=17617
+Sesotho (South Africa) (Translation)	Mosuwetsana Wa Ka	id=20038
+Setswana (Translation)	Morutabana Wa Me	id=16753
+Setswana (Translation)	Morutabana Wa Me	id=17655
+SiLozi (Translation)	Bomuluti Baka	id=18558
+Tshivenda (Translation)	Mudededzi Wanga	id=18987
+Tunisian (Translation)	Muġallimti	id=15153
+Xitsonga (Translation)	Mudyondzisi Wa Mina	id=18998

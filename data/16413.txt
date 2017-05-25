@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=16413&d=0&a=1
+id:	16413
+title:	Desentendimento Entre Profissões
+author:	Translators without Borders and Nádia Morais
+artist:	Wiehan de Jager
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16413.png
+desc:	Há profissões mais importantes que outras?
+
+page_text:
+
+P1	Numa aldeia,  houve um desentendimento entre pessoas de diferentes profissões. Todos acreditavam que o seu trabalho era o mais importante!
+P2	O professor dizia que tinha a profissão mais importante. "Sem professores,  ninguém podia ir para a escola e aprender."
+P3	O construtor dizia que tinha a profissão mais importante. "Sem construtores,  não teríamos escolas onde aprender nem casas onde dormir."
+P4	O carpinteiro dizia que ele é que tinha a profissão mais importante. "Sem carpinteiros,  as escolas e as casas não teriam móveis."
+P5	O médico dizia que ele é que tinha a profissão mais importante. "Sem médicos e enfermeiras,  podemos adoecer e morrer."
+P6	O agricultor dizia que ele tinha a profissão mais importante de todas. "Sem agricultores,  ninguém teria comida para comer."
+P7	O estudante dizia que ele tinha o trabalho mais importante de todos. "Sem estudantes,  não teríamos professores,  construtores,  médicos,  agricultores nem carpinteiros."
+P8	Por fim,  todos chegaram a um acordo. Todas as profissões são importantes! Precisamos de professores,  construtores,  médicos,  agricultores e carpinteiros. No entanto,  antes de mais,  é preciso ser estudante!
+
+images:
+
+illustrations/pages/10274.png
+illustrations/pages/10274.png
+illustrations/pages/10278.png
+illustrations/pages/10276.png
+illustrations/pages/10279.png
+illustrations/pages/10277.png
+illustrations/pages/10275.png
+illustrations/pages/10280.png
+illustrations/pages/10281.png
+
+translations:
+
+English (Original)	Disagreement Among Occupations	id=10537
+English (Adaptation)	Which Work is the Most Important?	id=19761
+French (Translation)	Un Désaccord Sur L’Importance De Divers Emplois	id=13159
+isiZulu (Translation)	Ukuphikisana Ngemisebenzi Eyahlukene	id=15441

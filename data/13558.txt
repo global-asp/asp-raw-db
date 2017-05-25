@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=13558&d=0&a=1
+id:	13558
+title:	Listen to my Body
+author:	Teachers of Bubaali Primary School
+artist:	Angie & Upesh, Karlien de Villiers, Marike le Roux, Catherine Groenewald, Jesse Pietersen and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13558.png
+desc:	Each of us has a wonderful body. Have you ever listened to what your body tells you?
+
+page_text:
+
+P1	Today I am going to school with my brother.
+P2	I feel like eating food.
+P3	What am I going to do? Today I am going to listen to my body!
+P4	I want to read story book with my mum.
+P5	Yes,  now I can hear my breath. In. Out. In. Out.
+P6	We can sing after the lesson to refresh our minds,  can we?
+P7	And now I can hear my heart beating! Doodom,  doodoom,  dooodooom.
+P8	I can run.
+P9	And if I put my fingers on my wrist then I can hear my pulse!
+P10	And I can hear myself laughing Haha haha haaah haaa!
+P11	I hate crying.
+P12	And clapping tap tappa tap tapaa.
+P13	And saying feed me,  feed me.
+P14	My body enjoys riding a lot. What about you?
+P15	It is fun listening to my body. An now I want to hear my jaws chewing.
+
+images:
+
+illustrations/pages/13382.png
+illustrations/pages/13429.png
+illustrations/pages/13259.png
+illustrations/pages/2011.png
+illustrations/pages/8854.png
+illustrations/pages/2013.png
+illustrations/pages/13435.png
+illustrations/pages/2016.png
+illustrations/pages/13388.png
+illustrations/pages/2019.png
+illustrations/pages/2020.png
+illustrations/pages/2021.png
+illustrations/pages/2022.png
+illustrations/pages/2023.png
+illustrations/pages/2024.png
+illustrations/pages/13430.png
+illustrations/pages/2026.png
+illustrations/pages/2027.png
+
+translations:
+
+English (Original)	Listen to my Body	id=13202
+isiXhosa (Translation)	Mamela Kumzimba Wam	id=2933
+isiXhosa (Translation)	Mamela Umzimba Wam 2	id=14960
+isiZulu (Translation)	Lalela Umzimba Wami	id=2910
+Kiswahili (Translation)	Nausikiliza Mwili Wangu	id=15713
+Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
+Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
+Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
+Maa (Translation)	Ainining Osesen Lai	id=2927
+Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
+Sesotho (Lesotho) (Translation)	Mamela Mmele Oa Hao	id=2031

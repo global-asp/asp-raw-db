@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=12737&d=0&a=1
+id:	12737
+title:	አዋቂው ሰውዬ
+author:	ከድር ኢብራሂም and ፋሲካ ምንዳ
+artist:	Joshua Waswa
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12737.png
+desc:	አዋቂው ሰውዬ እኔ ከታላቆቼ ሁሉ አውቃለሁ የሚል ሰውዬ ታሪክ ነው።
+
+page_text:
+
+P1	ከዕለታት አንድ ቀን ወጣቶች ከታላላቆቻቸው ይበልጥ አዋቂ ናቸው ብሎ የሚያስብ ሰውዬ ነበር፡፡ ይህ ሰውዬ ለባለቤቱ ''እኔ ወጣት ነኝ፤ ከታላቆቼ ሁሉ ይበልጥ አዋቂ ነኝ'' አላት፡፡  ባለቤቱ ደግሞ ''አንተ ከአባቴ በላይ አዋቂ አይደለህም'' አለችው፡፡
+P2	አንድ ቀን የሰውዬው ባለቤት ወላጆቿን ለማየት ትሄዳለች፡፡ ከዛም ባሏ ያለውን ነገር ለአባቷ ትናገራለች። ከዚያም አባቷ ''በዪ ልጄ አሁን ሄደሽ 'ካንተና ከአባቴ ማነው አዋቂ?' ብለሽ ጠይቂው'' አሏት፡፡
+P3	የሰውዬው ባለቤት አባቷ ያሏትን ነገር ሄዳ ለባለቤቷ ትነግረዋለች። ባለቤቷም ''ሄደሽ አባትሽን 'ከጭጋግ ጠላ ያዘጋጁልኝ' ብሎዎታል በያቸው'' ብሎ ይልካታል። ''አሁን በጣም አዋቂ ሰው እንደሆንኩ አማቴ ይረዳሉ'' አለና ሳቅ አለ። ማንም ከጭጋግ ጠላ መስራት አይችልም።
+P4	እሷም መልዕክቱን ለማድረስ ወደ አባቷ ሄዳ ነገረቻቸው። አባትየው በጣም ሳቁ፡፡ ምክንያቱም ምንም አይነት ጠላ ከጭጋግ አይሰራም። አባቷም ''በዪ ልጄ፣ አሁን ሄደሽ 'እሺ ከጭጋግ ጠላ አዘጋጅልሃለሁ፤ ነገር ግን ጠላውን የሚወስደው ወንድም ሴትም መሆን የለበትም' በዪው'' ይሏታል።
+P5	ይህን መልዕክት ሄዳ ለባለቤቷ ስትነግረው ባለቤቷ በመልሱ ተገረመና '''ልጅ ይሮጣል እንጂ አባቱን አይቀድምም' የሚባለው ነገር ለካ እውነት ነው'' አለ፡፡
+
+images:
+
+illustrations/pages/2567.png
+illustrations/pages/2564.png
+illustrations/pages/2565.png
+illustrations/pages/2566.png
+illustrations/pages/2568.png
+illustrations/pages/2567.png
+
+translations:
+
+English (Original)	The Wise Man	id=2569
+Lugbarati (Translation)	Agu Anitua Be E’Yo Ni Ndele Ra	id=2713
+Lumasaaba (Translation)	Uwe Lukyesikyesi Ukhaanyalisa Khukhwiwonesa Umweene Ta	id=2998

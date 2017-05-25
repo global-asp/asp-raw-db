@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=2112&d=0&a=1
+id:	2112
+title:	The Talking Bag
+author:	Caroline Lentupuru
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2112.png
+desc:	Three little girls meet a giant who pretends to need help with firewood.
+
+page_text:
+
+P1	Once upon a time there was a female giant. As she was walking near the lake one day,  she met three little girls.    The giant asked the girls,  "Who among you is loved by both parents?"
+P2	One of the girls said,  "My mother loves me most." Another said,  "My father loves me most." But the third one said,  "I am loved by both parents."
+P3	The giant asked the girl loved by both parents to help her carry firewood. So the girl followed the giant.
+P4	They walked for some distance. The girl asked the giant,  "Where is your firewood?" The giant replied,  "It is near those trees over there!"
+P5	When they reached the trees,  the girl asked again,  "Where is your firewood?" The giant answered,  "Not far now!"
+P6	They met a man along the way. He asked the giant,  "What is the name of your child?" The giant replied,  "She is called the talking bag."
+P7	The girl burst out singing. She sang,  "I am not called the talking bag. My name is Kaamungei! Oh! My mother,  whom I love. Oh! My father,  whom I love. Oh! My calabash,  which I use to drink milk!"
+P8	When the man heard what the girl sang,  he rescued her and took her back to her parents.   The story ends there!
+
+images:
+
+illustrations/pages/1461.png
+illustrations/pages/1461.png
+illustrations/pages/1462.png
+illustrations/pages/1463.png
+illustrations/pages/1465.png
+illustrations/pages/1466.png
+illustrations/pages/1467.png
+illustrations/pages/1468.png
+illustrations/pages/1469.png
+
+translations:
+
+Afrikaans (Translation)	Die Pratende Sak	id=11204
+Ekegusii (Translation)	Omoguko Ogokwana	id=2528
+Kikamba (Translation)	Muvuko Unenaa	id=2529
+Kiswahili (Translation)	Mkoba Uzungumzao	id=2530
+Lugbarati (Translation)	Okporua Eyo Nzepi Ri	id=2531
+Lugbarati (Official) (Translation)	Òkpóróá E'yó Nzépɨ  Ɨ̀ndɨ̀ Rɨ̀	id=8764
+Maa (Translation)	Olbéné Oiró	id=2986
+Ng’aturkana (Translation)	Abusek Na Irworo	id=2532
+Oluwanga (Translation)	Iloloti Ilomalomanga	id=2533
+Sepedi (Translation)	Mokotla Wa Go Bolela	id=5325

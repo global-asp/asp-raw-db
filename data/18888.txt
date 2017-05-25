@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18888&d=0&a=1
+id:	18888
+title:	A Cabra Dançarina
+author:	Translators without Borders and Isabel Ferreira
+artist:	José Nhambo
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18888.png
+desc:	Uma cabra encontra um lobo na floresta
+
+page_text:
+
+P1	Um dia,  uma cabra entrou na mata e começou a passear alegremente. Mas depois perdeu-se!
+P2	De repente,  encontrou um lobo! O lobo acercou-se dela e parecia faminto.
+P3	A cabra disse: "Senhor Lobo,  sei que me quer comer. Mas gostaria de morrer feliz!"
+P4	O lobo perguntou à cabra: "O que queres dizer com isso? Morrer feliz? Como?"
+P5	A cabra respondeu: "Se tiver que morrer,  gostaria de morrer a dançar!"
+P6	Então,  o lobo pegou numa guitarra. Sentou-se e começou a tocar.
+P7	E a cabra começou a dançar,  embora ainda estivesse um pouco preocupada.
+P8	Perto de onde estavam,  havia alguns cães. Eles vieram ver o que se estava a passar.
+P9	Ora esse lobo tinha medo de cães. Por isso,  fugiu!
+P10	E a cabra continuou a dançar,  porque agora estava livre do lobo!
+
+images:
+
+illustrations/pages/8395.png
+illustrations/pages/8380.png
+illustrations/pages/8381.png
+illustrations/pages/8383.png
+illustrations/pages/8385.png
+illustrations/pages/8387.png
+illustrations/pages/8388.png
+illustrations/pages/8389.png
+illustrations/pages/8390.png
+illustrations/pages/8391.png
+illustrations/pages/8395.png
+
+translations:
+
+Afrikaans (Translation)	Die Dansende Boerbok	id=11243
+English (Original)	The Dancing Goat	id=8392
+Lumasaaba (Translation)	Imbusi Ishina	id=11899
+Ng’aturkana (Translation)	Akine Nakedong'an	id=18072
+Portuguese (Translation)	A Dança Do Cabrito	id=8471
+siSwati (Translation)	Imbuti Ledansako	id=14808

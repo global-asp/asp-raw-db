@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=6426&d=0&a=1
+id:	6426
+title:	Kabali Ataasa Kitaawe
+author:	Unknown
+artist:	Benjamin Mitchley
+lang:	Luganda
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/6426.png
+desc:	Musau’s father got drunk every night
+
+page_text:
+
+P1	Awo olwatuuka,  ne wabeerawo omulenzi omuto gwe baayitanga Kabali. Yabeeranga ne kitaawe eyayitibwanga Byansi.
+P2	Byansi yasiibanga mu kunywa mwenge era ewaka yaddanga obudde buyise nnyo. Bambi ne mutabani we Kabali yazibuwalirwanga okumulaba.
+P3	Byansi bwe yakomangawo eka mu matumbibudde,  ng'akoowolera wagulu abantu b'oku kyalo nti,  "Abatuuze! Abatuuze! Mujje muntaase,  empisi endya."
+P4	Abatuuze bwe bawulirang enduulu,  nga bavaayo n'obusaale,  amafumu n'amajambiya okutaasa Byansi. Wabula baasanganga Byansi atamidde,  era ng'abadde abatawaanya butawaanyi.
+P5	Kitaawe wa Kabali teyalekayo kunywa era ng'atamiira n'atawaanyanga abatuuze nga abalimba nga bw'alumbiddwa empisi. Abatuuze nabo baagenda mu maaso okujjanga n'obusaale,  amafumu n'amajambiya okumutaasa,  naye nga tebasangawo mpisi,  wabula nga Byansi abeera abatawaanya butaawanyi.
+P6	Buli mulundi kitaawe wa Kabali lwe yaddanga eka mu ttumbi,  Kabali,  ng'enduulu za kitaawe ez'okwagala okumuyamba nga zimuzuukusa. Kabali yali amanyi bulungi eddoboozi lya kitawe. Era yamuwuliranga ng'avuya mu nzikiza,  okutuusa bwe yatuukanga ku mulyango gw'enju yaabwe.
+P7	Ekiro ekimu,  Byansi yadda ewaka nga mutamiivu nga bulijjo. Wabula ku mulundi guno,  empisi yaliko yali yeekwese okumpi n'enyumba ye. Empisi bwe yawurila nga Byansi atambula,  n'ebuukayo n'emulumba!
+P8	Byansi n'awoloma nnyo era nga bw'ayita abatuuze okumuyamba! Abatuuze ne bagamba nti,  "Tukooye obuko bwa Byansi,  atutawanya butawanyi." Era bwe batyo ne beekyusiza mu buliri bwabwe ne beeyongera okwebaka.
+P9	Naye nga bulijo,  okuwoggana kwa Byansi kwazukusa mutabani we Kabali. Nga bulijjo Kabali yatega okutu awulire oba nga kitaawe anaavuya nga bulijjo.  Naye ku luno yagenda okuwulira nga kitaawe alinga atasemberera nnyumba! Awo Kabali n'atuula ne yeeyongera okuwuliriza ennyo.
+P10	Kabali n'agamba nti,  "Kitange ali mu buzibu,  ku luno tali mu kusaaga."
+P11	Kabali yabuuka omulundi gumu okuva mu buliri bwe. Yabaka ekisi ky'omuliro ekyaka n'aggulawo n'afuluma ebweru ng'adduka.
+P12	Yadduka nga bw'aleakaana nti,  "Taata! Taata." Mu kitangaala ky'omwezi,  Kabali yalaba kitaawe ng'alwanagana n'ensolo era n'awanika ekisiki ky'omuliro. Empisi bwe yalaba omuliro ogwaka n'edduka.
+P13	Awo empisi bwe yalengera ekisiki ky'omuliro,  n'edduka.
+P14	Okuva olwo,  Byansi teyaddamu kunywa mwenge,  era ebiseera bye ebisinga yabimalanga agerera abaana b'amasomero engero ezinyuma.
+
+images:
+
+illustrations/pages/1433.png
+illustrations/pages/1434.png
+illustrations/pages/1435.png
+illustrations/pages/1436.png
+illustrations/pages/1437.png
+illustrations/pages/1438.png
+illustrations/pages/1439.png
+illustrations/pages/1440.png
+illustrations/pages/1441.png
+illustrations/pages/1442.png
+illustrations/pages/1443.png
+illustrations/pages/1444.png
+illustrations/pages/1445.png
+illustrations/pages/1433.png
+illustrations/pages/1446.png
+
+translations:
+
+Amharic (Translation)	አባቱን የታደገው ጥላሁን	id=12738
+English (Original)	Musau Saves His Father	id=2140
+English (Adaptation)	Musau Saves His Father	id=18326
+Lugbarati (Translation)	Amagu Pa Ima Ati	id=2522
+Lumasaaba (Translation)	Musalu Awonesa Paapawe	id=3077
+Lunyole (Translation)	Musa Ataasa Semwana	id=2523

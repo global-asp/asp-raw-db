@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=13544&d=0&a=1
+id:	13544
+title:	Khalai Aizungumzia Mimea
+author:	Ursula Nafula
+artist:	Jesse Pietersen
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13544.png
+desc:	Msichana mdogo anazungumzia mimea na kuiliza msaada wake.
+
+page_text:
+
+P1	Khalai ni msichana mwenye umri wa miaka saba. Jina lake lina maana ya 'aliye mzuri' katika lugha yake ya Lubukusu.
+P2	Khalai anaamka na kuaongea na mmea mchanga wa Mchungwa,  "Tafadhali,  kua mkubwa uzae machungwa mengi mabivu."
+P3	Khalai anaenda shuleni na njiani anaongea na Nyasi,  "Tafadhali Nyasi,  kua kijani zaidi na zaidi na wala usikauke."
+P4	Khalai anayapita Maua ya mwituni na kusema,  "Tafadhali Maua,  endelea kunawiri ili niweze kukuweka kwenye nywele zangu."
+P5	Akiwa shuleni,  Khalai anauzungumzia Mti ulioko katikati ya shule,  "Tafadhali Mti,  zaa matawi makubwa ili tusomee chini ya kivuli chako."
+P6	Khalai anauzungumzia ua unaoizingira shule yake,  "Tafadhali Ua,  kua mwenye nguvu ili uzuie shule yetu kutokana na watu wabaya."
+P7	Anaporudi nyumbani alasiri,  Khalai anautembelea mti wa Mchungwa kuangalia ikiwa machungwa yameiva.
+P8	"Machungwa bado mabichi," Khalai anashusha pumzi. "Nitakuona kesho,  we mti Mchungwa. Labda utanipa chungwa mbivu wakati huo."
+
+images:
+
+illustrations/pages/13389.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa.	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=10554&d=0&a=1
+id:	10554
+title:	A Filha De Kumbana
+author:	Barbara Torres and Graça Rafael Dzucule
+artist:	Razaque Lázaro Quive
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10554.png
+desc:	A story for teenagers
+
+page_text:
+
+P1	Era uma vez um jovem chamdo Kumbana.
+P2	Aos 25 anos,  ele se apaixonou por uma rapariga chamada Zangane.
+P3	Eles ficaram juntos durante 3 anos,  mas ele não tinha dinheiro suficiente para casar-se com ela.
+P4	Então,  um dia ela descobriu que estava grávida porque eles não usaram a camisinha.
+P5	Nasceu uma menininha que eles chamaram de Kheri.
+P6	Mas Kumbana ainda estava estudando e Zangane trabalhava em uma cidade distante. Por causa disso,  eles tiveram que viver separados um do outro.
+P7	Depois de um tempo,  Zangane achou um novo namorado. Ele passou a morar com ela e com a menininha.
+P8	Kumbana ficou decepcionado. Ele chorou muito,  porque ele estava separado da sua filha.
+P9	O tempo passou e Kumbana teve uma nova namorada também,  mas eles não tiveram mais filhos.
+P10	Acontece que Kheri não gostava de seu novo pai de jeito nenhum. Ela estava muito infeliz e ele costumava a bater nela.
+P11	Quando ela completou 12 anos,  sua mãe decidiu mandá-la de volta para viver com seu verdadeiro pai.
+P12	Então Kumbala e Kheri ficaram feliz novamente.
+
+images:
+
+illustrations/pages/9722.png
+illustrations/pages/9718.png
+illustrations/pages/9719.png
+illustrations/pages/9720.png
+illustrations/pages/9721.png
+illustrations/pages/9722.png
+illustrations/pages/9724.png
+illustrations/pages/9723.png
+illustrations/pages/9725.png
+illustrations/pages/9726.png
+illustrations/pages/9727.png
+illustrations/pages/9728.png
+illustrations/pages/9729.png
+
+translations:
+
+English (Original)	Kumbana's Child	id=9766
+English (Adaptation)	Kumbana's Child - Colouring Book	id=17595
+isiZulu (Translation)	Ingane Kakumbana	id=15357

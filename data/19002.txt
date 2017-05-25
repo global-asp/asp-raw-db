@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=19002&d=0&a=1
+id:	19002
+title:	Makoswe!
+author:	Little Zebra Books and © 2016 Little Zebra Books
+artist:	Stephanie Simpson
+lang:	Ciyawo
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19002.png
+desc:	A man makes oil in his house. Rats want this oil. They come up with a plan to steal the oil. Will they succeed?
+
+page_text:
+
+P1	Wadiji wusiku wine,  valume vamo vasumisyaga mawuta ga vatesile panyumba pawo.
+P2	Ni kumangwawo kwadi kwana mikutula kwa mikutula ja makoswe.
+P3	Masiku gose-pe acimakoswe vagasakaga mawuta gala ni vatiga,  "Cinawudi tutende mpaka tugapate kung'wa gele mawuta?"
+P4	Vele vanya vadingaga kupasya mawuta gala ni pakamwa pawo,  nambo ngayikombola. Vagalepele digongo dipowo dya dibotolo dyadiji dyamwana.
+P5	Vagwisisye dibotolo nambo mawuta nganigakopoka.
+P6	Makoswe gayiweni kuti yikusosekwa yakusimonjekwa pakukombola kung'wa gele mawuta-go. Sano dikoswe dine dyatite kwa acinjawo kuti,  "Sano tujigaleje micila jetu ni tujinjisyeje mwibotolo kuti tukombole kulamba mawuta ga gave m'micila mwetu."
+P7	Pele dikoswe-dyo dyayidinjile. Dyajinjisye ncila wawo mwibotolo ni dyatyosisye ncila wula wudi wugumbile mawuta. Gugulu! Gugulu! Pele gose-pe galambanaga m'micila. Pele cila dikoswe dyajinjisyaga mwibotolo mwa mawuta ni kulambaga mpaka mwibotolo kuva mwangadi.
+P8	Ndema japite valume kutola panandi mawuta,  vayiweni kuti mwadiji mwangadi ata panandi!
+P9	Adisi jamadile pele.
+
+images:
+
+illustrations/pages/10465.png
+illustrations/pages/10464.png
+illustrations/pages/10465.png
+illustrations/pages/10466.png
+illustrations/pages/10467.png
+illustrations/pages/10468.png
+illustrations/pages/10469.png
+illustrations/pages/10470.png
+illustrations/pages/10471.png
+illustrations/pages/10472.png
+
+translations:
+
+English (Translation)	Rats!	id=10474
+Portuguese (Original)	Ratos!	id=10461
+Portuguese (Translation)	“Ratos!”	id=19003

@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=13640&d=0&a=1
+id:	13640
+title:	Keeper and His Special Nursery
+author:	African Storybook
+artist:	Magriet Brink
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13640.png
+desc:	A story about rescued baby animals arriving at a nursery for orphans. These little animals are nursed and looked after by a special person and his team of helpers.
+
+page_text:
+
+P1	This is the story of Keeper and his nursery for orphaned animals.
+P2	Last month was a busy month at the nursery. The first one to arrive at the nursery was  one-year old Nomsa. She was thin and sad.
+P3	But soon,  Nomsa got stronger. She began to play with the other animals.
+P4	On another day that month,  a helicopter landed at the nursery.
+P5	In the helicopter was a small elephant under big blanket. Her name was Ndiwa.
+P6	Ndiwa was five days' old. Keeper fed Ndiwa with a bottle.
+P7	One night,  everybody was woken up by the arrival of Ambia,  a giraffe.
+P8	Ambia was five months' old. She was weak after her long journey.
+P9	Because of her long neck,  Keeper held the bottle high to feed Ambia.
+P10	The last orphans to arrive that month were three hungry cubs. Their names were Kopi,  Kepi and Keji.
+P11	Keeper and his helpers love all of the animals,  even the naughty ones.
+P12	The people at the nursery work hard. They hope that one day the orphans can look after themselves. Then these animals can return to the wild.
+
+images:
+
+illustrations/pages/12997.png
+illustrations/pages/12979.png
+illustrations/pages/12982.png
+illustrations/pages/12983.png
+illustrations/pages/12984.png
+illustrations/pages/12985.png
+illustrations/pages/12986.png
+illustrations/pages/12989.png
+illustrations/pages/12990.png
+illustrations/pages/12991.png
+illustrations/pages/12997.png
+illustrations/pages/12995.png
+illustrations/pages/12998.png
+
+translations:
+
+Afrikaans (Translation)	Die Wildwagter en Sy Spesiale Reservaat	id=20075
+English (Original)	Keeper and His Nursery	id=13025
+French (Translation)	Keeper Et Son Orphelinat Spécial	id=13770
+Kiswahili (Translation)	Mlinzi Na Chekechea Yake	id=13026
+Lugwere (Translation)	Omulisya N’Ekiraalokye Ekyenjawulo	id=16194
+Lunyole (Translation)	Omuhuumi N’Olusito Olukugu	id=16423

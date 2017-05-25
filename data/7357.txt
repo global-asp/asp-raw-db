@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=7357&d=0&a=1
+id:	7357
+title:	Crocodile and Baboon
+author:	Little Zebra Books
+artist:	Little Zebra Books and Jeremiah Dube
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7357.png
+desc:	Things are fine for good friends Crocodile and Baboon
+
+page_text:
+
+P1	Baboon and Crocodile were the best of friends. They played together. They ate together. They did everything together.
+P2	But one day,  Crocodile got so sick that he was almost dead. When he saw that his sickness was getting worse,  Crocodile went to the nyabezi who said,  "If you want to get better,  you have to eat baboon meat."
+P3	When he heard this,  Crocodile was sad. But there was no other option to heal himself except to eat his friend the baboon.
+P4	When Baboon went to see his friend,  Crocodile put him on his back and took him out to the deepest part of the river.
+P5	Crocodile said,  "The nyabezi told me that if I am to be healed I must eat you,  my friend."
+P6	Then,  Baboon replied,  "No,  my friend. Don't eat me. I'm too small. Wait a minute and I'll call my grandfather. He's bigger than me. Eat him and you'll be full."
+P7	Then Crocodile said,  "Where is this grandfather of yours?" Baboon said,  "He's in that tree,  over on that island." Crocodile said,  "Go get him so that I may eat him."
+P8	Baboon jumped off Crocodile's back and ran straight up the tree and stayed there. Crocodile waited and waited. But he didn't see any sign of Baboon. And that was the end of their friendship.
+
+images:
+
+illustrations/pages/6979.png
+illustrations/pages/6974.png
+illustrations/pages/6976.png
+illustrations/pages/6977.png
+illustrations/pages/6978.png
+illustrations/pages/6979.png
+illustrations/pages/6980.png
+illustrations/pages/6981.png
+illustrations/pages/6982.png
+
+translations:
+
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11238
+Afrikaans (Translation)	Krokodil en Bobbejaan	id=11293
+Chinyungwe (Original)	Uxamwali Bwa Kolo Na Nyakhoko	id=7228
+French (Translation)	Le Crocodile Et Le Babouin	id=12656
+Lámnsoʼ (Translation)	Ŋgày Wùn Mbùy	id=16446
+Ng’aturkana (Translation)	Akinyangang'a Ka Echom	id=9540
+Portuguese (Translation)	O Crocodilo E O Babuíno	id=16409

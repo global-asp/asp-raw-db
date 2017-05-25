@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2918&d=0&a=1
+id:	2918
+title:	Tsibarwa
+author:	Fabian Wakholi
+artist:	Cathy Feek
+lang:	Lumasaaba
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2918.png
+desc:	Luukano luno luwaamba khu mukhaana umukyeekhe uuli umulwaale
+
+page_text:
+
+P1	Isapiiti iyabirire nafunile tsibarwa tsingali.
+P2	Khu palatsa umukaangi wase aaronela umuleekeli wase ibarwa.
+P3	Nafuuna mulwaale. Aakha arame ingo.
+P4	Khu lwa khabiri nafuna ibarwa khukhwaama isi baasomi bashaase.
+P5	Uwumbuutse khaangu,  Nafuuna.
+P6	Lwa khataru nafuna ibarwa khukhwaama isi musaale wase naabi.
+P7	Nakhuupile iwe shifaani shino. Ni khuukana khuukali khukhwaama isi Dada.
+P8	Lwa khane nafuna ibarwa khukhwaama isi maayi.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

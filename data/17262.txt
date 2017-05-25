@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=17262&d=0&a=1
+id:	17262
+title:	Guriyo
+author:	Feisal Mohamed
+artist:	Kathy Arbuckle
+lang:	Somali
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17262.png
+desc:	Explore different kinds of houses that people live in. Which house would you like?
+
+page_text:
+
+P1	Mohamed wuxuu ku noolyahay guri coos ku daboolan yahay.
+P2	Thulani wuxu ku noolyahay guri afar gees.
+P3	Gurigan waa afar gees.
+P4	Saqafka gurigan waa saddax gees.
+P5	Ninkan wuxuu dhisanayaa gurigiisa.
+P6	Gurigan wuu cusuban yahay.
+P7	Gurigan waa duug.
+P8	Waxaan jeclaani lahaa inaan kunolado gurigan.
+
+images:
+
+illustrations/pages/1591.png
+illustrations/pages/1591.png
+illustrations/pages/1592.png
+illustrations/pages/1593.png
+illustrations/pages/1594.png
+illustrations/pages/1595.png
+illustrations/pages/1596.png
+illustrations/pages/1597.png
+illustrations/pages/1598.png
+
+translations:
+
+Ateso (Adaptation)	Itogoi	id=10155
+English (Original)	Houses	id=1785
+Kikamba (Translation)	Nyumba	id=3087
+Luganda (Translation)	Amayumba	id=2866
+Lunyole (Translation)	Amayumba	id=2867
+Lunyole (Adaptation)	Jo Yi / Enyumba	id=9345
+Lusoga (Translation)	Amayumba	id=2868
+Lusoga (Translation)	Ndhuuba Nhumba	id=8170
+Ng’aturkana (Translation)	Ng'akais	id=18136
+Setswana (Translation)	Matlo	id=2869

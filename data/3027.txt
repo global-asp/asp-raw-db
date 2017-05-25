@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=3027&d=0&a=1
+id:	3027
+title:	Onzi Mini Mima Aadrii Kuzu A’Dule Ri
+author:	
+artist:	Catherine Groenewald
+lang:	Lugbarati
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3027.png
+desc:	A poem about a girl who loves to dance. Her teacher finds this irritating
+
+page_text:
+
+P1	I dance when I am happy,  I dance when I am sad,  I dance when I am lonely,  I dance when I am mad.
+P2	My teacher says,  "Sit still! Don't dance about all day."
+P3	But my mother says,  "Dancing makes you healthy,  Dancing makes you tall,  One day you'll be a dancer,  And surprise them all!"
+P4	And I say,  "One day I'll dance and people will pay Just to see me leap and twirl" 'Her dancing is SO good',  they'll say.
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+English (Original)	Dancing	id=2183
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Lusoga (Translation)	Okukina	id=8167
+Portuguese (Translation)	Dançando	id=12173
+Setswana (Translation)	Mokibo	id=2695

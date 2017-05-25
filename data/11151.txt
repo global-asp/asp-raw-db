@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=11151&d=0&a=1
+id:	11151
+title:	Die Maan en Die Keps
+author:	Adel van der Watt
+artist:	Angie & Upesh
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11151.png
+desc:	Kan die maann hoed dra?
+
+page_text:
+
+P1	Ons het almal na die kermis toe gegaan.
+P2	My pa het vir my broer 'n deftige bril gekoop. My ma het vir my 'n helder blou keps gekoop. Die baba het spookasem gekry.
+P3	Op pad huis toe het 'n sterk wind opgesteek. Die wind het my keps weggewaai.
+P4	My keps het vasgehak aan 'n tak van 'n groot ou boom.
+P5	Ek het baie gehuil. Ek het selfs nie my aandete geëet nie.
+P6	Later daardie nag het die maan opgekom. Die maan het na my keps gekyk in die groot ou boom.
+P7	Die maan het my keps aangesit en geglimlag. Ek het vir die maan terug geglimlag.
+P8	Die volgende dag na skool het my ma vir my 'n nuwe helder rooi keps gegee. Sy het gesê,  "Die maan het dit gestuur."
+P9	Daardie nag het beide die maan en ek ons kepse gedra en geglimlag. Ons was altwee gelukkig.
+P10	Dink jy die son het 'n keps nodig?
+P11	Raai watter keps gaan ek vandag dra!
+
+images:
+
+illustrations/pages/2137.png
+illustrations/pages/2138.png
+illustrations/pages/2139.png
+illustrations/pages/2141.png
+illustrations/pages/2142.png
+illustrations/pages/2143.png
+illustrations/pages/2144.png
+illustrations/pages/2145.png
+illustrations/pages/2146.png
+illustrations/pages/2147.png
+illustrations/pages/2148.png
+illustrations/pages/2150.png
+
+translations:
+
+English (Original)	The Moon and the Cap	id=2154
+French (Translation)	La Lune Et La Casquette	id=10858
+isiXhosa (Translation)	Inyanga Ne Kepisi	id=2236
+isiZulu (Translation)	Inyanga Nekepisi	id=2225
+Kiswahili (Translation)	Mwezi Na Kofia	id=2229
+Sepedi (Translation)	Ngwedi Le Kepisi	id=2231
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=2228
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=10365
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=11182
+siSwati (Translation)	Inyanga Nekepisi	id=13044

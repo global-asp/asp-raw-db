@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=18190&d=0&a=1
+id:	18190
+title:	النار
+author:	Hanadi Traifeh
+artist:	Rob Owen
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18190.png
+desc:	This story was developed and written by teachers at Mugulu Integrated Primary School in Busolwe Sub-County
+
+page_text:
+
+P1	!انظر إلى النار.
+P2	النار تحر
+P3	النار تمكننا من طهي الطعام
+P4	النار تعطينا الدفء
+P5	النار تزودنا بالضوء
+P6	!انظر إلى النار.
+P7	النار رائعة
+P8	النار قوية
+
+images:
+
+illustrations/pages/8560.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8557.png
+illustrations/pages/8558.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Dhopadhola (Translation)	Mac	id=19481
+English (Translation)	Fire	id=8565
+Lunyole (Original)	Omuliro	id=8564
+Samburu (Translation)	Nkima	id=17257
+Somali (Translation)	Dab	id=17256
+Zande (Translation)	Wee	id=17255

@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=7490&d=0&a=1
+id:	7490
+title:	Umazinyo Ushaka
+author:	Nobuhle Mngadi
+artist:	Ethan Alberts
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7490.png
+desc:	Oscar the Shark has a problem with his eyes – he can’t see well enough to catch fish. His friend the seahorse encourages Oscar to eat his carrots
+
+page_text:
+
+P1	UMazinyo wayenenkinga yaamehlo. Wayengakwazi ukubona ezinye izinhlanzi.
+P2	Kodwa wayengakwazi ukudla izaqathi zakhe.
+P3	USivinini ihhashi lasolwandle wathi "Mazinyo dlana izaqathi zakho."
+P4	Kodwa uMazinyo wayengakuthandi ukunambitheka kwezaqathi.
+P5	"Izaqathi zizokusiza ukuthi ubonekahle" kusho uSivinini.
+P6	UMazinyo wabe eseya kwadokotela. UMazinyo noSivinini balindela udokotela Shakes.
+P7	Udokotela Mazibuko uthi,  "Izibuko zamehlo zizokusiza ubone kangcono."
+P8	UMazinyo wayengathandi ukugqoka izibuko.
+P9	Kodwa izibuko zamsiza ukuthi akwazi ukubona ezinye izinhlanzi. Manje useyazidla izaqathi zakhe nezinhlanzi.
+
+images:
+
+illustrations/pages/5292.png
+illustrations/pages/5293.png
+illustrations/pages/5294.png
+illustrations/pages/5295.png
+illustrations/pages/5296.png
+illustrations/pages/5297.png
+illustrations/pages/5298.png
+illustrations/pages/5299.png
+illustrations/pages/5300.png
+illustrations/pages/5301.png
+
+translations:
+
+English (Original)	Oscar the Shark	id=5303
+isiZulu (Translation)	Umazinyo Ushaka	id=6713

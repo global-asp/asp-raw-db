@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=17046&d=0&a=1
+id:	17046
+title:	Menina Telefone
+author:	Translators without Borders and Isabel Ferreira
+artist:	Marion Drew
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17046.png
+desc:	A Menina Telefone é cá uma figura! Consegues imaginar o que é ter cinco telefones
+
+page_text:
+
+P1	Chamam-lhe a Menina Telefone. Olhem para ela!
+P2	Tem cinco telemóveis. Quando acorda,  coloca os telemóveis por ordem sobre a mesa.
+P3	O amarelo é para comunicar com a família.
+P4	O branco para comunicar com os colegas de trabalho.
+P5	O vermelho é para comunicar com pessoas que lhe devem alguma coisa.
+P6	O cor-de-rosa é para comunicar com os seus melhores amigos.
+P7	O roxo é para comunicar com as pessoas que precisam da sua ajuda.
+P8	A Menina Telefone quer que as pessoas sejam felizes. Não gosta de brigas.
+P9	Deixa que as crianças vejam televisão na sua loja.
+P10	Visita as casas dos doentes e dos idosos.
+P11	Quando passa,  escutam-se os gritos de "Menina Telefone! Menina Telefone!"
+P12	Nessas alturas,  ela sente-se feliz e diz: "Sou a Menina Telefone – vejam os meus telefones!" Assim é a Menina Telefone com os seus cinco telemóveis.
+
+images:
+
+illustrations/pages/10053.png
+illustrations/pages/10048.png
+illustrations/pages/10049.png
+illustrations/pages/10050.png
+illustrations/pages/10051.png
+illustrations/pages/10052.png
+illustrations/pages/10053.png
+illustrations/pages/10054.png
+illustrations/pages/10055.png
+illustrations/pages/10056.png
+illustrations/pages/10057.png
+illustrations/pages/10058.png
+illustrations/pages/10059.png
+
+translations:
+
+Dhopadhola (Translation)	Nya Simu	id=15765
+English (Translation)	Ms Phone	id=14420
+French (Translation)	Mme Téléphone !	id=14969
+Kinyarwanda (Translation)	Nyiramaterefone	id=17468
+Kiswahili (Original)	Bi Simu	id=14419
+Setswana (Translation)	Mma Mogala	id=14939

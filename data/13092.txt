@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=13092&d=0&a=1
+id:	13092
+title:	Sungura Na Ndovu (Tena!)
+author:	Agnes Gichaba
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13092.png
+desc:	Katika hadithi hii tunajifunza kwa nini sungura anakimbia kwa kasi na jinsi alivyomdanganya rafiki yake ndovu.
+
+page_text:
+
+P1	Hapo zamani za kale,  Ndovu na Sungura walikuwa marafiki wakubwa sana. Walikuwa na ngamia,  ng'ombe na kondoo wengi.
+P2	Walilisha wanyama hao katika bonde la Kingilo. Wakati mwingine waliwapeleka wanyama milimani kulikokuwa na nyasi na maji kwa wingi.
+P3	Wanyama walipokula,  Sungura na Ndovu walicheza. Walipenda sana kucheza mpira wa miguu.
+P4	Kila walipocheza,  Ndovu aliingiza mabao mengi kumliko Sungura. Sungura alikasirishwa mno na hali hiyo.
+P5	Siku moja Sungura alimwuliza Ndovu,  "Ni nini kinakuwezesha kuwa mwingizaji goli maarufu?" Ndovu alimjibu,  "Ni miguu yangu minono."
+P6	Siku iliyofuata,  Sungura alipendekeza washindane mbio. Ndovu alikubali na wakaanza mbio.
+P7	Sungura alishinda mbio zote. Ndovu alikasirika. Hakuwahi kushindwa. Alimwuliza Sungura,  "Ni nini kinakuwezesha kuwa mkimbiaji maarufu?"  Sungura alijibu,  "Ni miguu yangu myembamba."
+P8	Ndovu alimwuliza,  "Nitawezaje kupata miguu myembamba?" Sungura alimjibu,  "Ni rahisi,  nitakuonyesha. Tafuta kuni  ukoke moto."
+P9	Ndovu alikusanya kuni akakoka moto mkubwa. Sungura alimwambia,  "Sasa iweke miguu yako ndani ya moto." Ndovu alisimama ndani ya moto. Alipiga kelele,  "Naungua! Naungua!"
+P10	Sungura alifurahi. Alimhimiza Ndovu aendelea hivyo hivyo maanake hivyo tu ndivyo miguu yake ingelikuwa myembamba.
+P11	Miguu ya Ndovu ilijeruhiwa vibaya akaondoka motoni. Hakuweza kusimama kwa hivyo alilala chini.
+P12	Ndovu aliketi kwa siku nyingi kabla kuweza kusimama.
+P13	Hatimaye,  aliweza kuchechemea na kwenda nyumbani kwa familia yake.
+P14	Sungura alimwomba Ndovu msamaha. Hata hivyo,  Ndovu na Sungura si marafiki tena.
+
+images:
+
+illustrations/pages/13000.png
+illustrations/pages/13000.png
+illustrations/pages/13001.png
+illustrations/pages/13002.png
+illustrations/pages/13003.png
+illustrations/pages/13004.png
+illustrations/pages/13005.png
+illustrations/pages/13006.png
+illustrations/pages/13007.png
+illustrations/pages/13008.png
+illustrations/pages/13009.png
+illustrations/pages/13010.png
+illustrations/pages/13012.png
+illustrations/pages/13013.png
+illustrations/pages/13014.png
+
+translations:
+
+Amharic (Adaptation)	ዝሆንና ጥንቸል - ተረት ተረት	id=18755
+English (Translation)	Hare Tricks Elephant Again	id=13093
+Kiswahili (Translation)	Sungura Amdanganya Ndovu	id=18342
+Rukiga (Translation)	Wakame Akabeiha Warujojo	id=17012
+Setswana (Translation)	Mmutla O Tsietsa Tlou Gape	id=14958

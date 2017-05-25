@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=9746&d=0&a=1
+id:	9746
+title:	Etoi Ekorokwa Azizi
+author:	
+artist:	Natalie Propa
+lang:	Ekegusii
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9746.png
+desc:	Omwana oyo nigo anchete korenda etoi yaye. Na etoi eye yaye nomosani ogogete rioka.
+
+page_text:
+
+P1	Oyo Azizi. Azizi netoi yane.
+P2	Nigo mwanchete Azizi okoba agaseka botambe.
+P3	Ekero nabokire,  ngwesibia obosia. Namanya komorenda Azizi.
+P4	Akero namonyorire Azizi nkomogwarosa etuki.
+P5	Ekero nkonyu echae ya mambi nkomorgeria Azizi.
+P6	Ekero nkoria ebitamutamo nigo nkoa Azizi ekemo.
+P7	Korende Azizi tari kori getamutamu kiaye.   Inche ngokumia naseki!
+P8	Ngotara risiko rionsi gochora amaoga.
+P9	Namoa Azizi rioga.   Korende tarigoteba,  "Mbuya mono."
+P10	Nigo nkomosibi Azizi oraba se mama ataransibi.
+P11	Nkoboi Azizi eyanga embariri ekiagera nyanchete erangi embariri.
+P12	Ekero ngochikorara,  nkomobeka Azizi nsemo yane.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+English (Original)	Azizi the Doll	id=9748
+French (Translation)	Azizi La Poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Lámnsoʼ (Translation)	Shibvə̀m Shee Azizi	id=16448
+Lugwere (Translation)	Odole Omulyabwita	id=16112

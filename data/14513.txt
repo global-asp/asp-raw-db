@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=14513&d=0&a=1
+id:	14513
+title:	Moya
+author:	Arnold Mushwana
+artist:	Marion Drew
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14513.png
+desc:	Xitori xo kombisa matimba ya moya.
+
+page_text:
+
+P1	Moya wu bonga. Wu bonga wu hundza hi le kaya.
+P2	Moya wu na matimba. Wu handzurile khayinti evokweni ra mina.
+P3	Ndzi cacela khayinti ya mina. Moya wu ndzi hungela le kule na khayinti!
+P4	Moya lowu se i Tornado. Wu yisa khayinti ya mina ehenhlahenhla.
+P5	 Tornado yi ni mita. A ndzi voni nchumu a ndzi khomi nchumu.
+P6	Khayinti ya mina se yi kwihi? Kumbe yi khwekerile emurhini.
+P7	Kumbe ya ha haha empfhukeni.
+P8	Moya se wu yimile. Mina ndza ha rhendzeleka.
+P9	Loko ndzi yima ku rhendzeleka ndzi sungula ku languta ematlhelo. Moya wu ye kwihi?
+P10	Khayinti ya mina a ndzi yi voni. Moya na wona a ndza ha wu twi.
+P11	Kumbe mundzuku ndzi ta yi kuma khayinti ya mina. Sweswi ndzi ya ekaya moya wu nga si vuya nakambe.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+
+translations:
+
+English (Translation)	Wind	id=14119
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Sesotho (S.Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684

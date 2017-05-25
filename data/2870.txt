@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=2870&d=0&a=1
+id:	2870
+title:	Imwasi Ayi?
+author:	Ignatius Okurut
+artist:	Sandra McDougall
+lang:	Ateso
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2870.png
+desc:	Icorakit ooni awaragat na ooni aimar etiai iboro lu eporitos
+
+page_text:
+
+P1	Akeje amwasai ejaatatar ekonyelet?
+P2	Abebenoka bo adi ejataatar akweny awongon?
+P3	Amumwar adi ejaatatar imosingo iuni?
+P4	Akanin adi ejatatar itomei ikany?
+P5	Akii adi ejaatatar ingokwo ikanyarei?
+P6	Akonye amwasai ejaatatar idokolen iuni?
+P7	Akonye adi ejaatatar ikapai ikanyaape?
+P8	Imwasi bo ayi akeje ejataatar ekurut ediopet?
+
+images:
+
+illustrations/pages/1786.png
+illustrations/pages/1600.png
+illustrations/pages/1599.png
+illustrations/pages/1601.png
+illustrations/pages/1602.png
+illustrations/pages/1603.png
+illustrations/pages/1604.png
+illustrations/pages/1605.png
+illustrations/pages/1606.png
+
+translations:
+
+Amharic (Translation)	ስንት?	id=13123
+Aringati (Translation)	Kí Sị́ Yã?	id=7229
+Dhopadhola (Translation)	Adi?	id=19488
+English (Original)	How Many?	id=1787
+Kikamba (Translation)	Syianaata?	id=2871
+Kiswahili (Translation)	Ni Ngapi?	id=9529
+Luganda (Translation)	Bimeka?	id=2872
+Lugbarati (Translation)	Yii Siya	id=12640
+Lumasaaba (Translation)	Biba Byeenga?	id=2873
+Lusoga (Translation)	Ameka?	id=2874
+Sabinyi (Translation)	Ata?	id=2875
+Setswana (Translation)	Tse Kae?	id=2876

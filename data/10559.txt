@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=10559&d=0&a=1
+id:	10559
+title:	Monkey Eats His Own Tail
+author:	Ursula Nafula
+artist:	Horácio José Cossa and Onesmus Kakungi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10559.png
+desc:	That rabbit is at it again!
+
+page_text:
+
+P1	For a long time,  Rabbit and Monkey were great friends.
+P2	However,  Rabbit was jealous of Monkey because of his long tail. One day they went for a walk.
+P3	They went to the shamba and started eating maize.
+P4	Rabbit tricked Monkey to be trapped by the farmer.
+P5	Clever rabbit shouted,  "Robbers! Robbers!" And ran away.
+P6	Monkey could not run fast because of his long tail.
+P7	The farmers shouted: Stop! Stop!
+P8	They caught him and started beating him.
+P9	Monkey revealed how his friend Rabbit invited him to the shamba.
+P10	But the owners did not want to listen. "We will cut off your tail," they said.
+P11	Rabbit took Monkey's tail secretly and cooked it. Then he invited Monkey for the meal.
+P12	After the meal,  Monkey said,  "The meat was delicious."
+P13	Rabbit smiled and said,  "It was your tail," and ran away. And from then on Monkey and Rabbit became enemies!
+
+images:
+
+illustrations/pages/13138.png
+illustrations/pages/13139.png
+illustrations/pages/8011.png
+illustrations/pages/13140.png
+illustrations/pages/8013.png
+illustrations/pages/8014.png
+illustrations/pages/13143.png
+illustrations/pages/13145.png
+illustrations/pages/13146.png
+illustrations/pages/13147.png
+illustrations/pages/13148.png
+illustrations/pages/13149.png
+illustrations/pages/13150.png
+illustrations/pages/13151.png
+
+translations:
+
+English (Original)	Monkey Eats His Own Tail	id=16574
+English (Adaptation)	Monkey Eats His Own Tail - Colouring Book	id=17168
+isiXhosa (Translation)	Inkawu Itya Umsila Wayo	id=7882
+isiXhosa (Adaptation)	Inkawu Itya Umsila Wayo (Faka Imibala)	id=17535
+Ng’aturkana (Translation)	Ekadokot Lo Anyami Ekosim Keng.	id=10560
+Portuguese (Translation)	O Macaco Que Comeu a Sua Própria Cauda	id=8166

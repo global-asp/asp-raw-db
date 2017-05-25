@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=8207&d=0&a=1
+id:	8207
+title:	O Homem E O Leão
+author:	Jorge Eusébio Eusébio
+artist:	Hélder de Paz Alexandre
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8207.png
+desc:	How a man escapes from certain death.
+
+page_text:
+
+P1	Era uma vez,  um homem estava a andar pela selva,  e de repente deparou-se com um leão!
+P2	O leão estava a descansar no capim.
+P3	O homem,  assustado não soube o que fazer.
+P4	Espantado,  o leão viu aí uma refeição,  uma vez que o seu estômago roncava de tanta fome.
+P5	O homem conseguiu fugir e subir numa árvore. Estando lá em cima,  ele insultava o leão.
+P6	O leão ficou debaixo da árvore esperando pelo homem que serviria da sua refeição. Passado algum tempo o leão dormiu.
+P7	O homem permaneceu lá em cima. Depois de algumas horas,  ele por sua vez,  começou a sonecar.
+P8	Mas de repente ele cai em cima do leão que também estava a dormir!
+P9	O leão assustado,  acordou e pôs-se a correr.
+P10	O homem também pôs-se a correr na mesma direcção com o leão.
+P11	Quando descobriu a sua falha,  mudou de direcção e assim escapou da morte!
+
+images:
+
+illustrations/pages/8180.png
+illustrations/pages/8180.png
+illustrations/pages/8181.png
+illustrations/pages/8182.png
+illustrations/pages/8184.png
+illustrations/pages/8361.png
+illustrations/pages/8189.png
+illustrations/pages/8190.png
+illustrations/pages/8191.png
+illustrations/pages/8192.png
+illustrations/pages/8193.png
+illustrations/pages/8194.png
+
+translations:
+
+English (Original)	Man and Lion	id=8205
+English (Adaptation)	Man and Lion - Colouring Book	id=17392
+English (Adaptation)	Manu and the Lion	id=18332
+Kiswahili (Translation)	Mtu Na Simba	id=12689
+Luganda (Translation)	Omusajja N'empologoma.	id=10708
+Xitswa (Translation)	A Wanuna Ni Nghonyamu	id=8729

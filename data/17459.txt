@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=17459&d=0&a=1
+id:	17459
+title:	Abakuru
+author:	Emmanuel Sibomana
+artist:	Salim Kasamba
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17459.png
+desc:	Abakuru bagira inda nini yinyama!
+
+page_text:
+
+P1	Kera habayeho umugabo n'umugore n'abana. Uwo mugore yateguriraga abo mu muryango we ibyo kurya buri munsi. Akajya abashyirira amafunguro ku meza buri munsi.
+P2	Se w'abana ni we wabagabanyaga inyama. Yajyaga abwira umwana w'imfura ati,  "Ndakuze bihagije ku buryo ngomba kurya inyama nini. Dore akira iyi abe ari yo urya. Tegereza uzabanze ukure ni bwo uzarya inyama nini."
+P3	Hanyuma akabwira umwana w'ubuheta ati,  "Ndakuze bihagije ku buryo ngomba kurya inyama nini. Dore akira iyi abe ari yo urya. Ubundi utegereze uzabanze ukure ni bwo uzarya inyama nini." Akabwira abana bose atyo. Umuto muri bo yafataga akanyama gato kurusha abandi.
+P4	Inyama nini zaribwaga n'umugabo n'umugore we. Abana bagaceceka,  bakarya izo bahawe.
+P5	Hashira imyaka myinshi abana barakura. Ababyeyi na bo barasaza kugezaubwo batagishoboye kugira icyobakora. Noneho abana bagasimburana mu gutegurira ababyeyi babo amafunguro.
+P6	Umunsi umwe igihe cyo kurya kigeze,  umwana w'imfura aba ari we ugabura inyama nk'uko byari bisanzwe. Ariko noneho aha se na nyina utunyama duto.
+P7	Abwira ababyeyi be ati,  "Mwariye inyama nini mu gihe cyanyu,  ubu natwe igihe cyacu kirageze. Turakuze bihagije." Maze izindi nyama zose aziha barumuna be nabashiki be.
+P8	Ise yibuka ibyo yakorerag aabana be bakiri bato. Uwo mugore n'umugabo we barabyemera bati,  "Ni koko ukoze neza." Nuko basaba imbabazi. Abana biyemeza kutazakorera ikosa nk'iryo abana bazabyara.
+
+images:
+
+illustrations/pages/13927.png
+illustrations/pages/13924.png
+illustrations/pages/13925.png
+illustrations/pages/13926.png
+illustrations/pages/13927.png
+illustrations/pages/13928.png
+illustrations/pages/13929.png
+illustrations/pages/13930.png
+illustrations/pages/13931.png
+
+translations:
+
+English (Translation)	Elders	id=13934
+isiZulu (Translation)	Amakhehla Nezalukazi	id=16091
+Lugbarati (Original)	Mba-Za	id=13933

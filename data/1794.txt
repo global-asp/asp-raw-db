@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=1794&d=0&a=1
+id:	1794
+title:	School Clothes
+author:	Clare Verbeek
+artist:	Mlungisi Dlamini
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1794.png
+desc:	I am going back to school and have to try on all my school clothes to see if they fit.
+
+page_text:
+
+P1	This dress is long.
+P2	This jersey is big.
+P3	This bag is big.
+P4	This belt is.
+P5	This hat is small.
+P6	The socks are short.
+P7	But these shoes are new.
+P8	They fit well.
+
+images:
+
+illustrations/pages/954.png
+illustrations/pages/955.png
+illustrations/pages/956.png
+illustrations/pages/957.png
+illustrations/pages/958.png
+illustrations/pages/959.png
+illustrations/pages/960.png
+illustrations/pages/961.png
+illustrations/pages/954.png
+
+translations:
+
+Anywak (Translation)	Abïïk Øt-Göör	id=12633
+Aringati (Translation)	Ujaku Ꞌbã Bõngó Sụ̃kụ́lụ̃ Drị̂ Kî	id=7526
+Kikamba (Translation)	Ngua Sya Sukulu	id=2973
+Kiswahili (Translation)	Sare Za Shule	id=2974
+Lugbarati (Translation)	Bongo Sukulu Ni Diyi	id=12641
+Lunyole (Translation)	Engoye J’Esomero	id=2975
+Lusoga (Translation)	Byambalo Bya Isomero	id=2976
+Maa (Translation)	Inkiláni E Sukúul	id=2972
+Ng’aturkana (Translation)	Ng’Iworui a Esukul	id=2977
+Oluwanga (Translation)	Tsingubo Tsiomwisomero	id=2978
+Setswana (Translation)	Diaparo Tsa Sekolo	id=2979

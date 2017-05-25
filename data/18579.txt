@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=18579&d=0&a=1
+id:	18579
+title:	Saaca  Iikulu Iyabuluu
+author:	Eunice Mukonde-Mulenga
+artist:	Mango Tree
+lang:	IciBemba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18579.png
+desc:	Ebei nabanyina baleelolela saaca iyabuluu pakuti ibatwale ku tauni. Nomba saaca yabuluu yalyonaike. Bushe baleeya shani ku tauni?
+
+page_text:
+
+P1	Kwalifye saaca imo mumushi mwakwa Ebei. Yaali iikulu kabili iyabuluu. Yaali iyacongo saana.
+P2	Bushiku bumo,  baana Ebei baatile,  "Mailo tukaya ku tauni mukushita yunifomu yobe."
+P3	Ebei alitemenwe saana. Pakuya baleekabilwa ukunina saaca. Ubo bushiku Ebei aalifililwe ukulaala.
+P4	Uluceelo-ceelo Ebei alishibwike,  afwala nookufwala banyina tabalaaisa mukumubusha.
+P5	Ebei nabanyina baile pamakasa kucitesheni ca saaca.  Baaloleelele saaca iikulu iyabuluu. Leelo saaca tayaishile.
+P6	Abantu nabambi bafikile pacitesheni ca saaca.  Baaliilishanya pamulandu wakuti saaca yaaliceelwa ukufika. "Bushe saaca naitusha?" efyo baipwishe.
+P7	Ebei aliisakamikwa.  "Tatwaye kutauni." "Nshashite yunifomu yandi," efyo atontonkenye.
+P8	Abantu bambi baalinakile ukuloolela. Baaliiya na kumayanda. Leelo Ebei aalilila akana nookuya ku ng'anda.   Banyina baalimutalalika.   "Twalaaloleko panono," efyo batile.
+P9	Palya pene,  baumfwile icongo. Baamwene noolukungu mumwela. Saaca yaisa!
+P10	Leelo iyi saaca tayaali buluu. Tayaakulile. Saaca iyi yaali iyakashika kabili iinono.   Abantu baaleeloleela baaloleeshe saaca.  Tabaaninine muli saaca.
+P11	"Ingileni! Ingileni! " efyapundile banamutekenya ba saaca.   "Twaceelwa saana leelo," efyo banamutekenya ba saaca baatile.
+P12	Ebei nabanyina ebabaliilepo ukunina. Ukwabulookupisha inshita,  abantu bonse baniinine muli saaca iinono iyakashika.
+P13	Ebei aaloleeshe panse peewindo. Amwene abantu nabambi pacitesheni ca saaca.
+P14	Abantu abengi baaleefwa baaleebutukila ukuniina saaca. Nomba baaliceelelwe.  Saaca yaaliswile.  Saaca yakashika yaile kutauni.
+P15	"Bushe saaca iikulu iya buluu ilikwisa?" efyo baipwishe banyina Ebei. "Naifwa," efyo baaswike banamutekenya.  "Tuleeilungisha. Ikeesa mailo," efya landile banamutekenya.
+P16	Ebei tasakamikwe neemimonekele ya saaca. Tasakamikwe nookuceepa nelyo ukukula kwa saaca. Aalitemenwe pantu iyi saaca yaleeya kutauni.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

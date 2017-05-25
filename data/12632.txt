@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=12632&d=0&a=1
+id:	12632
+title:	Mwili Wangu
+author:	Peterson Kibuuri and Stevenson Mutisya
+artist:	Mlungisi Dlamini
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12632.png
+desc:	We can do many actions with our bodies
+
+page_text:
+
+P1	Ninaweza kukimbia nayo.
+P2	Ninaweza kuruka nayo.
+P3	Ninaweza kucheza nayo.
+P4	Ninaweza kuogelea nayo.
+P5	Ninaweza kuruka kamba nayo.
+P6	Ninaweza kupiga nayo.
+P7	Ninaweza kuepa nayo.
+P8	Lakini siwezi kupaa angani nayo.
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Anywak (Translation)	Dëëra	id=17261
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+English (Adaptation)	My Body	id=9882
+isiXhosa (Translation)	Umzimba Wam	id=7685
+Kikamba (Translation)	Mwii Wakwa	id=2934
+Luganda (Translation)	Omubiri Gwange	id=2935
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Sepedi (Translation)	Mmele Waka	id=7854
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386
+Zande (Translation)	Kptore	id=12613

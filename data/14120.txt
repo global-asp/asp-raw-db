@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=14120&d=0&a=1
+id:	14120
+title:	Ibhayisekile Kanamukuru
+author:	Kholeka Mabeta
+artist:	Wiehan de Jager
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14120.png
+desc:	Inkawu imka nebhayisekile kaNamukuru!
+
+page_text:
+
+P1	UNamukuru nomntakwabo balungele ukuya esikolweni.
+P2	UNamukuru uthwala umntakwabo kwibhayisekile yakhe.
+P3	Abahlobo babo bayababulisa endleleni eya esikolweni.
+P4	Ngeli lixa beseklasini,  inkawu iyafika ngaphandle. Inkawu imka nebhayisekile kaNamukuru!
+P5	Abantwana baleqa inkawu.
+P6	Inkawu ishiya ibhayisekile phantsi komthi.
+P7	Inkawu idadela kwisiqithi esiphakathi kwichibi. Ikhwela phezulu emthini.
+P8	Inkawu iyabulisa iphephezelisa isandla! Abantwana nabo bayabulisa bephephezilisa izandla. UNamukuru uyifumene ibhayisekile yakhe kwakhona.
+
+images:
+
+illustrations/pages/13433.png
+illustrations/pages/13429.png
+illustrations/pages/13430.png
+illustrations/pages/13431.png
+illustrations/pages/13432.png
+illustrations/pages/13433.png
+illustrations/pages/13434.png
+illustrations/pages/13435.png
+illustrations/pages/13436.png
+
+translations:
+
+Afrikaans (Translation)	Namu Se Fiets	id=20087
+English (Translation)	Namu’S Bicycle	id=13922
+French (Translation)	La Bicyclette De Namukuru	id=14968
+isiZulu (Translation)	Ibhayisikili  Likanamakuru	id=15049
+Lunyole (Adaptation)	Egaali	id=16576
+Oluwanga (Original)	Lishene Ne Ingarangarani	id=13921
+Portuguese (Translation)	A Bicicleta De Namukuru	id=17618
+Sesotho (S.Africa) (Translation)	Baesekele Ya Namukuru	id=14510
+Sesotho (South Africa) (Translation)	Baesekele Ya Seipati	id=20039
+Tshivenda (Translation)	Lukanyakanya Lwa Namukuru	id=14775
+Xitsonga (Translation)	Xikanyakanya Xa Masesi	id=14518

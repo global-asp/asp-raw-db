@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=10030&d=0&a=1
+id:	10030
+title:	Leniwo
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Thembinkosi Kohli
+lang:	Kanuri
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10030.png
+desc:	Mana kǝla fal fal maana wujana: fandu
+
+page_text:
+
+P1	Cinjanin kundenno.
+P2	Safa kadawua kinaji fakki.
+P3	Fǝɍe bǝbǝcci fakki.
+P4	Simmin kundenno.
+P5	Balo karaa cadi rukki.
+P6	Ngambadu kǝji fanji rukki.
+P7	Cinin kundenno.
+P8	Ingi kǝlwua tekuye tambǝkki.
+P9	Ingi suwurra lemǝn nasaraye tambǝkki.
+P10	Nukkonin kundenno.
+P11	Nukkonǝm takki.
+
+images:
+
+illustrations/pages/3015.png
+illustrations/pages/3016.png
+illustrations/pages/3017.png
+illustrations/pages/3018.png
+illustrations/pages/3019.png
+illustrations/pages/3020.png
+illustrations/pages/3021.png
+illustrations/pages/3022.png
+illustrations/pages/3022.png
+illustrations/pages/3024.png
+illustrations/pages/3025.png
+illustrations/pages/3026.png
+
+translations:
+
+Afaan Oromo (Translation)	Haa Deemnu!	id=12254
+English (Original)	Let's Go	id=3028
+English (Translation)	Iri Ma Koy	id=11734
+French (Translation)	Allons-Y!	id=9922
+Fulfulde (Translation)	En Njaha!	id=10001
+Hausa (Translation)	Mu Je !	id=9970
+isiZulu (Translation)	Asambe	id=7703
+Lubukusu (Translation)	Khe Khuche!	id=3100
+Maa (Translation)	Máapé!	id=3098
+Ng’aturkana (Translation)	Kapana!	id=3099
+Olukhayo (Translation)	Kenda Khuche	id=3094
+Oluwanga (Translation)	Khutsie!	id=3102
+Somali (Translation)	Ina Wadiya	id=16761
+Zarma (Translation)	Iri Ma Koy!	id=10097
+Zarma (Translation)	Iri Ma Koy	id=11590

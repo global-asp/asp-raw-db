@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=13122&d=0&a=1
+id:	13122
+title:	Baasi Ennene  Eya Bululu
+author:	Fatma Baraka and John Emongot
+artist:	Mango Tree
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13122.png
+desc:	Olugero luno lukwata ku baasi ennene eya bululu nga yeyoka eyalinga ku kyaalo.Eyewanisaanga abantu emitima.
+
+page_text:
+
+P1	Ku kyaalo ky'Ebei kwaliko baasi emu yokka. Baasi eyo yali nnene nga ate ya bululu. Era yali ereekaana nyo!
+P2	Lumu maama w'Ebei yagamba,  "Enkya tujja kugenda mu kibuga nkugulire olugoye lw'essomero."
+P3	Ebei yasanyuka nnyo bweyalowooza ku kutambulirako mu gu baasi ogunene ogwa bululu. Era ekiro ekyo teyakomba ku mpeke ya tulo.
+P4	Maama w'Ebei yagenda okujja okumuzuukusa,  yamusanga yazuukuse dda nga n'okwambala yamaze dda!
+P5	Ebei ne maama we baatambula nebagenda mu kifo we balinyira baasi nebagirinda. Naye ekyakabi baasi teyalabikako.
+P6	Abantu abalala nabo baatuuka awalinyirwa baasi nebatandika okwemulugunya nti,  "Iii,  baasi nga eruddeyo? Oba yatulese dda?"
+P7	Ebei yerarikirira era wakati mu birowoozo nagamba nti,  "Kirabika tetukyagenze mu kibuga era n'olugoye lwange olw'essomero sikyalufunye."
+P8	Abantu abamu baakoowa nebeddirayo eka. Naye Ebei ye nakaaba nga tayagala kuddayo waka. Maamawe namugumya.
+P9	Amangu ago baawulira okuvuuma,  nebalaba n'enfuufu mu bbanga.
+P10	Baasi eyajja yali myufu ate nga ntono. Abaali bagirinze baagitunuulira era tebaagirinya.
+P11	"Muyingire! Muyingire!" omugoba wa baasi nabakowoola. "Leero tuli kikeerezi nnyo!"
+P12	Ebei ne maama we bebaasookera ddala okuyingira. Olwo buli muntu nayingira.
+P13	Ebei yatunula mu ddirisa naalaba abantu nga beyongedde obungi.
+P14	Nabalala nga baja badduka nabo bajirinye naye baatuuka kikeerezi nga baasi ejjudde. Baasi emyufu neyolekera ekibuga.
+P15	  "It broke down  Maama wa Ebei yabuuza nti,  baasi eyabulu ennene eri wa? Omugoba wa baasi yaddamu nti,  "Yafunye obuzibu. Tukyagidabiiriza naye ejja kujja enkya.
+P16	Ebei teyafaayo ku langi oba obunene bwa baasi. Ekyamusanyusa kyali nti baasi egenda mu kibuga.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

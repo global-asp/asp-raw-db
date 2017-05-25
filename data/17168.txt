@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=17168&d=0&a=1
+id:	17168
+title:	Monkey Eats His Own Tail - Colouring Book
+author:	Ingrid Schechter
+artist:	Horácio José Cossa
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17168.png
+desc:	That rabbit is at it again!
+
+page_text:
+
+P1	Once upon a time the rabbit was a great friend of the monkey.
+P2	One day the rabbit said,  "Let's go for a walk and look for something to eat." The monkey agreed,  but it was a trap for him!
+P3	They went to a field of maize and started to eat it.
+P4	But the clever rabbit had spoken to the owners of the farm,  to catch the monkey and show him he was foolish.
+P5	The clever rabbit started shouting,  "Robbers! Robbers! Your maize is all gone!" And he jumped up and ran away.
+P6	Suddenly the owners appeared and found the monkey trying to run away. But he has a long tail and it was stopping him.
+P7	The owners followed him,  shouting,  "Stop! Stop! We saw you,  you are the monkey."
+P8	But they caught him and started beating him.
+P9	He couldn't stand the pain so he said,  "I was with my friend Rabbit. He is the one who invited me."
+P10	But the owners cut his tail off and told him,  "Go and tell your friend that we cut off your tail!"
+P11	Then they went to the rabbit's house and cooked the monkey's tail to eat. The rabbit invited the monkey for lunch.
+P12	At the end of the meal the rabbit asked the monkey if he knew what he had eaten. The foolish monkey answered,  "No I don't!"
+P13	The rabbit told him that he had eaten his own tail and then ran away. And from then on they became enemies!
+
+images:
+
+illustrations/pages/8012.png
+illustrations/pages/17167.png
+illustrations/pages/17169.png
+illustrations/pages/17170.png
+illustrations/pages/17171.png
+illustrations/pages/17172.png
+illustrations/pages/17173.png
+illustrations/pages/17174.png
+illustrations/pages/17175.png
+illustrations/pages/17176.png
+illustrations/pages/17177.png
+illustrations/pages/17178.png
+illustrations/pages/17179.png
+illustrations/pages/17180.png
+
+translations:
+
+English (Adaptation)	Monkey Eats His Own Tail	id=10559
+English (Original)	Monkey Eats His Own Tail	id=16574
+isiXhosa (Translation)	Inkawu Itya Umsila Wayo	id=7882
+isiXhosa (Adaptation)	Inkawu Itya Umsila Wayo (Faka Imibala)	id=17535
+Ng’aturkana (Translation)	Ekadokot Lo Anyami Ekosim Keng.	id=10560
+Portuguese (Translation)	O Macaco Que Comeu a Sua Própria Cauda	id=8166

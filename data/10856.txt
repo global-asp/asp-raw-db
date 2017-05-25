@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=10856&d=0&a=1
+id:	10856
+title:	M. Paresseux Est Fatigué
+author:	Isabelle Barth and Translators without Borders
+artist:	Graham Paterson
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10856.png
+desc:	M. Paresseux cherche un endroit confortable pour sa sieste
+
+page_text:
+
+P1	Un jour,  M. Paresseux est venu. Il a dit: Je suis fatigué! J'ai besoin d'une bonne branche comme lit!
+P2	Je suis très bon à l'escalade. Je sais comment me balancer. Mais ce que je préfère par dessus tout,  c'est dormir.
+P3	Cette branche a l'air parfaite! Je pense que je vais dormir là. Et vous? Ne pensez-vous pas que c'est une idée splendide?
+P4	Ah non,  M. Paresseux! C'est là que mange la girafe. Elle pourrait vous prendre pour son déjeuner et grignoter vos cheveux!
+P5	Cette branche à l'air parfaite! Je pense que je vais dormir là. Et vous? Ne pensez-vous pas que c'est une idée splendide?
+P6	Ah non,  M. Paresseux! Là il y a un nid d'abeilles,  juste à cet endroit! Vous ne dormirez jamais avec toutes ces abeilles partout!
+P7	Cette branche à l'air parfaite! Je pense que je vais dormir là. Et vous? Ne pensez-vous pas que c'est une idée splendide?
+P8	Ah non,  M. Paresseux,  là,  c'est un serpent! Ce n'est pas une branche! Pauvre serpent. Vous lui avez fait drôlement peur.
+P9	Cette branche à l'air parfaite! Je pense que je vais dormir là. Et vous? Ne pensez-vous pas que c'est une idée splendide?
+P10	Ah non,  M Paresseux! Là il y a un oiseau qui pousse des cris! Vous ne pourrez jamais dormir en paix avec tout ce bruit dans l'air!
+P11	Essayez de monter plus haut sur une autre branche,  M. Paresseux! Ont-ils tous dit. Et cette branche était la branche parfaite pour lui servir de lit.
+P12	L'oiseau et le serpent,  la girafe et toutes les abeilles étaient contents d'avoir M. Paresseux dans leur arbre.
+
+images:
+
+illustrations/pages/9017.png
+illustrations/pages/9018.png
+illustrations/pages/9019.png
+illustrations/pages/9020.png
+illustrations/pages/9021.png
+illustrations/pages/9022.png
+illustrations/pages/9023.png
+illustrations/pages/9024.png
+illustrations/pages/9025.png
+illustrations/pages/8091.png
+illustrations/pages/9026.png
+illustrations/pages/8099.png
+illustrations/pages/9030.png
+
+translations:
+
+Afrikaans (Translation)	Slaperige Mnr. Luiheid	id=11518
+English (Original)	Sleepy Mr. Sloth	id=9039
+isiNdebele (Translation)	Mnu. Mbhobo Ophethwe Buthongo	id=13053

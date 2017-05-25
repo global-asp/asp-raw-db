@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=14921&d=0&a=1
+id:	14921
+title:	Tingi N’Ente
+author:	Kangume Rhodah
+artist:	Ingrid Schechter
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/14921.png
+desc:	Mukaaka najuna obwomeezi bwa Tingi.
+
+page_text:
+
+P1	Tingi yaikaraga nanyinenkuru.
+P2	Barolerraga ente zaabu hamu.
+P3	Kiro kimu abaserukali.
+P4	Baija batwara ente zoona.
+P5	Tingi nanyinenkura bakairuka bayesereke.
+P6	Bakesereka kuhika itumbi.
+P7	Abaserukali bakamara bagaruka.
+P8	Tingi nanyinenkuru bayesereka hansi mubikoora.
+P9	Omuserukali omu yarubata Tingi baitu atateere nduuru akaculeera' chi'.
+P10	Tingi nanyinenkuru obubahuliire abaserukali bagenda bakuta kuta barugayo.
+P11	Bokasooba mpora bataaha.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi and the Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

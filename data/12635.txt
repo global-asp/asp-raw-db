@@ -1,0 +1,100 @@
+url:	http://africanstorybook.org/reader.php?id=12635&d=0&a=1
+id:	12635
+title:	Ogulegua Pa A’Balau Ni Ngoni Ru Ya Ri
+author:	Doris Maandebo
+artist:	Wiehan de Jager
+lang:	Lugbarati
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12635.png
+desc:	Angu ‘wi tu dika yi vico nde Ogulegua ni ambamba. Mu yi ara tia ‘dale yi mvu te yi ‘du eri ra. A’balau epa Agulegua ma idri. Ogulegua fe di A’balau ni awa’difo geri ngo si ya?
+
+page_text:
+
+P1	Ili si angu 'wi ndra oce talaa tu.
+P2	O'du karakara Ogulegua a'a 'dani yi mvuza koko ru.
+P3	"Kirikiri ale mani yi ni fo,  ka tro eti li alu pati bi ma dria."
+P4	Te ata andreli dria ongu te.
+P5	"Aka yi mvu mbele ku,  ma nga dra te," Ogulegua ri di owu 'dini. "Le ece kokoru ma ma mu yi ara mani e'yo erizu drinia 'dia ri ma tia 'dale."
+P6	"Yi ara 'dani nga mi 'du te," Ajaroa ondoa beri nga eri ma bile ndu li 'dini.
+P7	Te yi vico fu Ogulegua ni ambamba. "Ma nga dra te aka yi were ni mvu ku ria."
+P8	Ogulegua fu mu yi ara ri nda si.
+P9	Ayise 'wiza pi ma dria si pati arakala 'wiza pi ma talaa pie.
+P10	Kpere erini yi ara ma o'duko eriria.
+P11	Ogulegua se yi ambiza ezu.
+P12	Ayiko dri teni di yima gogofi imu pi ri nee ku.
+P13	Ogulegua o'bi ayise a'wi ra pi ima drile ri ebi. Te yi 'du eri te.
+P14	"Ba azini ma ko ma aza yo. Kirikiri si iko ma aza fo."
+P15	"Mbele,  mi etu, "A'balau emvea pati arakala bii pi ima tia ri 'yo 'dile.
+P16	"Ma eco ni angu 'diri ku ku kpere mani awa'difo feria A'balau ni. Ma nga te kpere erini emuria yi mvuria."
+P17	O'du alu eri ni te ria,  agupianzia iri ni pi emu yi ara ma tia eyi ma abitara pie.
+P18	"A'balau azi ambo emve ni aci yi mvu 'dia 'dia," mva alu ri nga yo. "Ama andru odresi enya nya eri si."
+P19	"Ma eco ni fe agupianzia 'diyi ni A'balau emvea ri ni 'dizu ku. Te ma gakanyaa 'dole,  ma eco a'di afa 'ye i ka?"
+P20	Coti A'balau emvea ri esa pati sia risi vaa yi mvuzu.
+P21	Ondoa azini ega Ogulegua ma dria.
+P22	Eri mbu mva aluri ma pa,  ra ci pa ni rii.
+P23	Mva nde nga mbu awu pie,  "Maye maye."
+P24	Ori si A'balau emvea ri sa re i zizu.
+P25	"Di di bele ni geri ndra Ogulegua ni awa'difo fezu A'balau ni eri ni i pazu risi ri i."
+
+images:
+
+illustrations/pages/788.png
+illustrations/pages/784.png
+illustrations/pages/785.png
+illustrations/pages/786.png
+illustrations/pages/787.png
+illustrations/pages/789.png
+illustrations/pages/790.png
+illustrations/pages/791.png
+illustrations/pages/870.png
+illustrations/pages/871.png
+illustrations/pages/872.png
+illustrations/pages/873.png
+illustrations/pages/874.png
+illustrations/pages/875.png
+illustrations/pages/876.png
+illustrations/pages/877.png
+illustrations/pages/878.png
+illustrations/pages/879.png
+illustrations/pages/880.png
+illustrations/pages/881.png
+illustrations/pages/882.png
+illustrations/pages/883.png
+illustrations/pages/884.png
+illustrations/pages/885.png
+illustrations/pages/886.png
+illustrations/pages/887.png
+illustrations/pages/904.png
+illustrations/pages/888.png
+illustrations/pages/889.png
+
+translations:
+
+Afrikaans (Translation)	Hoe Mier Vir Duif Red	id=20059
+ChiTonga (Translation)	Kanyenyene Mbokakavwuna Nziba	id=18638
+CiNyanja (Translation)	Mwamene Kanyelele Kanapulumusila Nkunda	id=18626
+English (Original)	How Ant Saved Dove	id=2076
+French (Translation)	Comment La Fourmi Sauva La Colombe.	id=9965
+Fulfulde (Translation)	No Ɗayu Faaborii Wuugaandu.	id=10028
+Hausa (Translation)	Yadda Tururuwa Ta Ceci Habjia.	id=9997
+IciBemba (Translation)	Ifyo Kanyelele Aapuswishe Inkunda	id=18583
+isiXhosa (Translation)	Indlela Imbovane Eyalihlangula Ngayo Ihobe	id=7453
+isiZulu (Translation)	Wamphephisa Kanjani Utsheketshe Ujuba	id=7770
+isiZulu (Adaptation)	Utsheketshe Usindisa Ujuba	id=17359
+Kanuri (Translation)	Fudu Kanguwu Bolboloa Cǝkkaanadǝ.	id=10090
+Kiswahili (Translation)	Siafu Amwokoa Njiwa	id=8707
+Luganda (Translation)	Engeri Enkuyege Bwe Yataasa Ejjuba	id=8275
+Lunyole (Translation)	Engeri Eyi Ege Lyaŋoniamo Eŋuusi	id=8421
+Maa (Translation)	Eneikuna Enkalaoni Pee Eitajeu Enturkuluo	id=7864
+Ng’aturkana (Translation)	Eger Lo Aiunia Imukunyo Akuuri	id=2572
+Oluwanga (Translation)	Ngala Liche Liaonia Liusiu	id=8274
+Sepedi (Translation)	Tšhošwane E Phološa Leeba	id=18000
+Sesotho (Lesotho) (Adaptation)	Kokonyana Le Leeba	id=15903
+Sesotho (South Africa) (Translation)	Kokonyana O Pholosa Leeba 	id=20031
+Setswana (Translation)	Tshoswane O Thusa Leeba	id=7814
+SiLozi (Translation)	Kokwani Mone Ipiliselize Liba	id=18565
+siSwati (Translation)	Indlela Intfutfwane Leyasindzisa Ngayo Lituba	id=17929
+Tshivenda (Translation)	Lusunzi Lu Tshidza Tshiivha	id=18275
+Xitsonga (Translation)	Ndlela Leyi Risokoti Ri Nga Ponisa Tuva	id=18876
+Zarma (Translation)	Mate Kaŋ Annoori Te Ga Kolŋay Faaba	id=10111

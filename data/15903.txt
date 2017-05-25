@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=15903&d=0&a=1
+id:	15903
+title:	Kokonyana Le Leeba
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Wiehan de Jager
+lang:	Sesotho (Lesotho)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15903.png
+desc:	Leeba lepolosa kokonyana nokeng. Le kokonyane e polosa leeba.
+
+page_text:
+
+P1	Hone ho chesa. Hone ho omeletse. Kokonyana e ne e nyeriloe.
+P2	"Ke batla metsi," ho rialo Kokonyana. Hone hosena metsi.
+P3	"Ketla batla noka moo eleng teng," ho rialo Kokonyana. "E be ketla noa," ho rialo Kokonyana. Eaba,  "Mutlanyana ore,  o hlokomela hantle,  noka e kotsi haholo!"
+P4	Kokonyana ea tsamaea holo batla noka. Ea tsamaea nako e telehele. Ea fumana noka. Ea noa metsi a noka.
+P5	Aaiee! Ea oela ka nokeng. "Nthuseng,  nthuseng,  kea kopa,  oee!" ea hoelehelitse ka lerata.
+P6	Leeba le lesoeu latla lenkile thupa. Leeba lena lare,  "Ts'oara thupa ena. Ketla o thusa."
+P7	Kokonyana ea khona ho hloella thupeng. Leeba lafofa lenkile Kokonyana ena ka thupa. Eaba ke ho pholoha hooa Kokonyana.
+P8	"Ke tlameha holeboha leeba," ke Kokonyana eoo.
+P9	Bashanyana ba babeli baea nokeng. Bankile liqha. Bane ba batla hoja nama ea leeba.
+P10	"Oh,  aee,  ke tlameha ho thiba bashanyana bana baseke ba bolaha Leeba," ho rialo Kokonyana. Kokonyana ena eaba le menahano e meng. Ea qhomela holima leoto la moshanyana e mong. Ea moloma.
+P11	"Heleee!" a buoa ka bohale. A etsa lerata. Leeba le lesoeu la fofa. La pholoha.
+P12	"Kea leboha Kokonyana,  kea leboha!" ho rialo Leeba. Ke qetello ea pale ea rona.
+
+images:
+
+illustrations/pages/788.png
+illustrations/pages/784.png
+illustrations/pages/785.png
+illustrations/pages/870.png
+illustrations/pages/871.png
+illustrations/pages/876.png
+illustrations/pages/877.png
+illustrations/pages/878.png
+illustrations/pages/879.png
+illustrations/pages/880.png
+illustrations/pages/887.png
+illustrations/pages/904.png
+illustrations/pages/889.png
+
+translations:
+
+Afrikaans (Translation)	Hoe Mier Vir Duif Red	id=20059
+ChiTonga (Translation)	Kanyenyene Mbokakavwuna Nziba	id=18638
+CiNyanja (Translation)	Mwamene Kanyelele Kanapulumusila Nkunda	id=18626
+English (Original)	How Ant Saved Dove	id=2076
+French (Translation)	Comment La Fourmi Sauva La Colombe.	id=9965
+Fulfulde (Translation)	No Ɗayu Faaborii Wuugaandu.	id=10028
+Hausa (Translation)	Yadda Tururuwa Ta Ceci Habjia.	id=9997
+IciBemba (Translation)	Ifyo Kanyelele Aapuswishe Inkunda	id=18583
+isiXhosa (Translation)	Indlela Imbovane Eyalihlangula Ngayo Ihobe	id=7453
+isiZulu (Translation)	Wamphephisa Kanjani Utsheketshe Ujuba	id=7770
+isiZulu (Adaptation)	Utsheketshe Usindisa Ujuba	id=17359
+Kanuri (Translation)	Fudu Kanguwu Bolboloa Cǝkkaanadǝ.	id=10090
+Kiswahili (Translation)	Siafu Amwokoa Njiwa	id=8707
+Luganda (Translation)	Engeri Enkuyege Bwe Yataasa Ejjuba	id=8275
+Lugbarati (Translation)	Ogulegua Pa A’Balau Ni Ngoni Ru Ya Ri	id=12635
+Lunyole (Translation)	Engeri Eyi Ege Lyaŋoniamo Eŋuusi	id=8421
+Maa (Translation)	Eneikuna Enkalaoni Pee Eitajeu Enturkuluo	id=7864
+Ng’aturkana (Translation)	Eger Lo Aiunia Imukunyo Akuuri	id=2572
+Oluwanga (Translation)	Ngala Liche Liaonia Liusiu	id=8274
+Sepedi (Translation)	Tšhošwane E Phološa Leeba	id=18000
+Sesotho (South Africa) (Translation)	Kokonyana O Pholosa Leeba 	id=20031
+Setswana (Translation)	Tshoswane O Thusa Leeba	id=7814
+SiLozi (Translation)	Kokwani Mone Ipiliselize Liba	id=18565
+siSwati (Translation)	Indlela Intfutfwane Leyasindzisa Ngayo Lituba	id=17929
+Tshivenda (Translation)	Lusunzi Lu Tshidza Tshiivha	id=18275
+Xitsonga (Translation)	Ndlela Leyi Risokoti Ri Nga Ponisa Tuva	id=18876
+Zarma (Translation)	Mate Kaŋ Annoori Te Ga Kolŋay Faaba	id=10111

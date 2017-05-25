@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=11567&d=0&a=1
+id:	11567
+title:	Juffrou Akinyi
+author:	Karien van Wyk
+artist:	Vusi Malindi
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11567.png
+desc:	‘n Laerskoolleerder is baie lief vir haar onderwyseres. Sy vertel vir die leser van alles wat juffrou Akinyi haar al geleer het
+
+page_text:
+
+P1	Hierdie is my onderwyseres. Haar naam is juffrou Akinyi. Sy is baie lief vir my.
+P2	Juffrou Akinyi leer vir ons van die alfabet en die vokale. Ek kan die klanke a,  e,  i,  o,  u sê.
+P3	Juffrou Akinyi het ons geleer van die kleure rooi,  blou,  groen,  geel en swart.
+P4	Tydens slaaptyd sing juffrou Akinyi vir ons 'n wiegieliedjie.
+P5	Op Maandae vertel sy vir ons stories oor goeie mans.
+P6	Op Dinsdae vertel sy vir ons stories oor goeie vrouens.
+P7	Op Woensdae vertel sy vir ons stories oor verskillende vervoermiddels.
+P8	Op Donderdae vertel sy vir ons stories oor boerdery.
+P9	Op Vrydae vra juffrou Akinyi dat ons,  ons eie stories vir die klas vertel.
+P10	Ons onderwyseres is die beste juffrou in die wêreld! As ek groot is wil ek net soos juffrou Akinyi wees.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Bakafundisha Ba Akinyi	id=18586
+isiNdebele (Translation)	Utitjhere Nkosi	id=13043
+isiXhosa (Translation)	Utitshalakazi Uakinyi	id=14116
+isiZulu (Translation)	Uthisha Uzanele	id=13537
+isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
+Kimîîru (Original)	Mwarimu Makena	id=9688
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Tshivenda (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=18857&d=0&a=1
+id:	18857
+title:	O Arco-Íris Visita a Aldeia
+author:	Translators without Borders and Nádia Morais
+artist:	Wiehan de Jager
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18857.png
+desc:	Um rapaz sai para o campo e vê um arco-íris pela primeira vez. Não sabe o que é
+
+page_text:
+
+P1	Kobole vivia numa pequena aldeia.
+P2	Uma tarde,  Kobole saiu para apanhar maracujá. Aconteceu uma coisa imprevista.
+P3	Viu linhas coloridas a atravessar o céu.
+P4	Deixou cair a fruta e correu para casa para contar aos outros habitantes da aldeia.
+P5	Encontrou toda a gente na rua. Estavam a olhar para o céu.
+P6	Kobole disse: "É um pano bonito,  pendurado do céu." Neno disse: "Não! Acho que é alguém a verter tinta do céu."
+P7	Algumas pessoas concordaram com Kobole. Outras,  acharam que Neno tinha razão. Os dois grupos discutiam.
+P8	Um homem de uma aldeia distante chegou e disse. "Estão todos errados."
+P9	As pessoas gritaram: "Então,  o que é?"
+P10	O homem estranho disse: "É o arco-íris. Nunca tinham visto o arco-íris?"
+P11	"O que é um arco-íris?" perguntaram os habitantes da aldeia.
+P12	Neno perguntou: "É teu? Podemos guardá-lo aqui?"  mas o homem já tinha ido embora.
+
+images:
+
+illustrations/pages/10970.png
+illustrations/pages/10965.png
+illustrations/pages/10966.png
+illustrations/pages/10967.png
+illustrations/pages/10969.png
+illustrations/pages/10970.png
+illustrations/pages/10971.png
+illustrations/pages/10973.png
+illustrations/pages/10975.png
+illustrations/pages/10976.png
+illustrations/pages/10977.png
+illustrations/pages/10979.png
+illustrations/pages/10980.png
+
+translations:
+
+English (Translation)	Day We Saw the Rainbow	id=11142
+French (Translation)	Un Arc-En-Ciel De Passage Au Village	id=13774
+Kiswahili (Original)	Siku Tuliyouona Upinde	id=11139

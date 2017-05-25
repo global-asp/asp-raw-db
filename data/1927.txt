@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=1927&d=0&a=1
+id:	1927
+title:	Colours
+author:	Madhav Chavan
+artist:	Rijuta Ghate
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1927.png
+desc:	We ask why things are different colours.
+
+page_text:
+
+P1	Why is the sky blue?
+P2	It is not always blue. Is it?
+P3	Why are leaves green?
+P4	They are not always green. Are they?
+P5	Why are bananas yellow?
+P6	Ripe bananas are yellow. Unripe bananas are green.
+P7	Why are umbrellas black?
+P8	Not all umbrellas are black.
+P9	Why is blood red?
+P10	There is iron in the blood. That makes it red.
+P11	Why is salt white?
+P12	I don't know!
+
+images:
+
+illustrations/pages/1926.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+isiNdebele (Translation)	Ngitjela Nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele ... Ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kiswahili (Translation)	Taja Rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Maa (Translation)	Tólikíoki Tenákatá - Imúain	id=2818
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sepedi (Translation)	Mpotše...gona Bjale. Mebala	id=1936
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Mebala	id=11549
+Setswana (Translation)	Mpotse Mo ... Mebala E Farologaneng!	id=11164

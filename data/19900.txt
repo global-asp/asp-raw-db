@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=19900&d=0&a=1
+id:	19900
+title:	Ingaba Ukhona Omnye Ofana Nam?
+author:	Zolile Tricarter Kalashe
+artist:	Jess Jardim-Wedepohl
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19900.png
+desc:	Ingaba ukhona omnye ofana nam ehlabathini?
+
+page_text:
+
+P1	Ndiyacinga ukuba ukhona ondim nakweyiphina indawo ehlabathini.
+P2	Okhangeleka ngokufanayo.
+P3	Nothetha ngokufanayo.
+P4	Nonamafongqofongqo afana nawam kananjalo.
+P5	Omnye onamehlo am kunye neendlebe zam.
+P6	Nonokuhleka okunjengokwam kananjalo.
+P7	Ongenza into endingayenza.
+P8	Nongenako ukwenza endingenako ukukwenza.
+P9	Ndiye ndakhangela kwaye ndakhangela yonke indawo ukuba ndifumane omnye ondim. Ndiye ndehla ndaya epakini kwaye ndakhangela emva kwemithi.
+P10	Ndikhangele konke okundingqongileyo,  phezulu nasezantsi.
+P11	Kubo bonke ubuso.
+P12	Andikwazanga ukufumana omnye ondim nakweyiphina indawo.
+P13	Kukho ondim omnye kuphela ehlabathini! Ndindodwa,  oh yinyaniso!
+P14	Kodwa nje ingendim,  awuboni? Kukho omnye kuphela onguwe!
+
+images:
+
+illustrations/pages/15344.png
+illustrations/pages/15343.png
+illustrations/pages/15344.png
+illustrations/pages/15345.png
+illustrations/pages/15346.png
+illustrations/pages/15347.png
+illustrations/pages/15348.png
+illustrations/pages/15349.png
+illustrations/pages/15361.png
+illustrations/pages/15352.png
+illustrations/pages/15355.png
+illustrations/pages/15356.png
+illustrations/pages/15358.png
+illustrations/pages/15359.png
+illustrations/pages/15360.png
+
+translations:
+
+Dholuo (Translation)	Be Nitie Ng'at Machal Koda?	id=15406
+English (Original)	Is There Anyone Like Me?	id=15363

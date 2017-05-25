@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=18578&d=0&a=1
+id:	18578
+title:	Umusunga
+author:	Edith Sikota Habwanda and Eunice Mukonde-Mulenga
+artist:	Catherine Groenewald
+lang:	IciBemba
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18578.png
+desc:	Baamaayo tabalipo nomba baataata ebaleipika umusunga uwalucelo.
+
+page_text:
+
+P1	Zama aleeipekanya ukuya kusukulu.
+P2	Baataata baleeipika umusunga uwaluceelo.
+P3	"Baamaayo baalishiba ukwipika umusunga uusuma!" efyalandile Zama.
+P4	Umusunga ulaapeela Zama amaka ayakusukulu.
+P5	Umusunga wena naupya.
+P6	Baataata baleebika umukaka baleemwentula.
+P7	"Baataata,  umusunga uyu ucili uleefwayikwa shuga," efyasosele Zama.
+P8	"Umusunga uwo beepika baamaayo waliwama ukucila uwabaataata," Zama efyo atontonkenye.
+P9	"Baataata,  ndelombako shuga," efyalombele Zama.
+P10	Bashi Zama baamupeele shuga naimbi.
+P11	"Mmu! Baataata! Mwacibika umucele uwingi mumusunga!"
+P12	"Taata,  nga baamaayo baalaisa nshita nshi?" Zama aipwishe.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Lunyole (Translation)	Obusera	id=13458
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

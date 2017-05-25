@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=17618&d=0&a=1
+id:	17618
+title:	A Bicicleta De Namukuru
+author:	Translators without Borders and Teresa Sousa
+artist:	Wiehan de Jager
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17618.png
+desc:	Um macaco foge com a bicicleta de Namukuru!
+
+page_text:
+
+P1	A Namukuru e o seu irmão estão prontos para a escola.
+P2	A Namukuru leva o seu irmão na sua bicicleta.
+P3	Os amigos deles saúdam-nos conforme vão para a escola.
+P4	Enquanto estão na sala de aula,  aparece um macaco lá fora. O macaco foge com a bicicleta da Namukuru.
+P5	As crianças perseguem o macaco.
+P6	O macaco deixa a bicicleta debaixo de uma árvore.
+P7	O macaco nada até uma ilha no meio do lago. Ele sobe a um árvore alta.
+P8	O macaco faz adeus! As crianças também. A Namukuru tem a sua bicicleta de volta.
+
+images:
+
+illustrations/pages/13433.png
+illustrations/pages/13429.png
+illustrations/pages/13430.png
+illustrations/pages/13431.png
+illustrations/pages/13432.png
+illustrations/pages/13433.png
+illustrations/pages/13434.png
+illustrations/pages/13435.png
+illustrations/pages/13436.png
+
+translations:
+
+Afrikaans (Translation)	Namu Se Fiets	id=20087
+English (Translation)	Namu’S Bicycle	id=13922
+French (Translation)	La Bicyclette De Namukuru	id=14968
+isiXhosa (Translation)	Ibhayisekile Kanamukuru	id=14120
+isiZulu (Translation)	Ibhayisikili  Likanamakuru	id=15049
+Lunyole (Adaptation)	Egaali	id=16576
+Oluwanga (Original)	Lishene Ne Ingarangarani	id=13921
+Sesotho (S.Africa) (Translation)	Baesekele Ya Namukuru	id=14510
+Sesotho (South Africa) (Translation)	Baesekele Ya Seipati	id=20039
+Tshivenda (Translation)	Lukanyakanya Lwa Namukuru	id=14775
+Xitsonga (Translation)	Xikanyakanya Xa Masesi	id=14518

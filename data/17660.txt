@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=17660&d=0&a=1
+id:	17660
+title:	ነብርና ሚዳቋ
+author:	መዘምር ግርማ
+artist:	Isaac Okwir
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17660.png
+desc:	ነብርና ሚዳቋ ጓደኛሞች ለመሆን ቃል ይገባባሉ፡፡ ጓደኝነታቸው ግን ከመጀመሪያው ተበላሸ፡፡
+
+page_text:
+
+P1	ነብር ሚዳቋን ለመያዝ ሁልጊዜ ትጥር ነበር፡፡
+P2	ሚዳቋም ሁሌ ታመልጣት ነበር፡፡
+P3	አንድ ቀን ነብር ሚዳቋን ጠርታ ''ጓደኛ እንሁን፡፡ አንቺ የምትበይውን እኔ አልበላ፡፡ ምን ያጣላናል?'' አለቻት፡፡
+P4	ሚዳቋም በሃሳቡ ተስማማች፡፡ ነብርም ''ጓደኞች ለመሆን ቃል እንገባባ፡፡ አንዳችን ቃለ-መሐላውን ካፈረስን፤ ልጅ ይንሳን'' አለች፡፡
+P5	ጓደኞች ለመሆን ቃል ተገባቡ፡፡ ማታ ሚዳቋ ዛፍ ስር ተኝታለች፡፡ ነብር ደግሞ ከበላይዋ በዛፉ ቅርንጫፍ ላይ ተኝታለች፡፡
+P6	ሚዳቋዋ ቶሎ ወፈረች፡፡ ነብሯ ግን ከሳች፡፡
+P7	ነብሯ ወፍራም ሚዳቋ መብላት አማራት፡፡ ለራሷም ''ስለ ቃለ-መሐላው ግድም አይሰጠኝ፡፡ ልጅ የለኝ እኔ! ምን ቸገረኝ!'' አለች፡፡
+P8	ሚዳቋዋን ለመያዝ ነብሯ ዘለለች፡፡ ስትዘል ግን በሁለት የዛፍ ቅርንጫፎች መሃል ተጣበቀች፡፡
+P9	ሚዳቋዋም ደነገጠች፡፡ ተስፈንጥራ ''ባ! ባ!'' ብላ ጮኸች፡፡
+P10	ነብሯ ''ወዳጄ፣ እርጂኝ፡፡ የጓደኝነት ቃሉን ያፈረሰ ልጅ ይንሳው ተባብለናል'' ስትል ለመነቻት፡፡
+P11	ሚዳቋዋም ''አባትሽ ይሆናል ያንን ቃል የገባው፡፡ አሁን ይኸው ባንቺ ደረሰብሽ'' ስትል መለሰችላት፡፡
+
+images:
+
+illustrations/pages/17309.png
+illustrations/pages/17306.png
+illustrations/pages/17307.png
+illustrations/pages/17309.png
+illustrations/pages/17310.png
+illustrations/pages/17311.png
+illustrations/pages/17312.png
+illustrations/pages/17313.png
+illustrations/pages/17314.png
+illustrations/pages/17315.png
+illustrations/pages/17316.png
+illustrations/pages/17317.png
+
+translations:
+
+English (Original)	Leopard and Antelope	id=17659

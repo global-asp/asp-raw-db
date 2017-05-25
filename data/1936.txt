@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=1936&d=0&a=1
+id:	1936
+title:	Mpotše...gona Bjale. Mebala
+author:	Maphokane Mapule Mohlamme
+artist:	Rijuta Ghate
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/1936.png
+desc:	Re botšiša gore ke ka lebaka la eng dilo di na le mebala e fapanego.
+
+page_text:
+
+P1	Ke ka lebaka la eng leratadima le le botala lerata?
+P2	Ga le be botala lerata ka nako tšohle. A ke ba go bjalo?
+P3	Gobaneng makala a le botala morogo?
+P4	Ga a be botala morogo ka nako tšohle. E ka ba a ba bjalo?
+P5	Ke ka lebaka la eng,  dipanana e le tše le serolwane?
+P6	Dipanana tša go butšwa di serolwane. Dipanana tše tala di botala morogo.
+P7	Ke ka gobaneng disamporele e le tše ntsho?
+P8	Disamporele ga se tše ntsho ka moka.
+P9	Ke ka gobaneng madi e le a makhibidu?
+P10	Ke ka gobane go na le ayone mo mading. Ke yona e dirago madi e be a makhibidu.
+P11	Ke ka lebaka la eng letswai e le le lešweu?
+P12	Ga ke tsebe.
+
+images:
+
+illustrations/pages/1050.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+English (Original)	Colours	id=1927
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+isiNdebele (Translation)	Ngitjela Nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele ... Ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kiswahili (Translation)	Taja Rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Maa (Translation)	Tólikíoki Tenákatá - Imúain	id=2818
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Mebala	id=11549
+Setswana (Translation)	Mpotse Mo ... Mebala E Farologaneng!	id=11164

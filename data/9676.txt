@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=9676&d=0&a=1
+id:	9676
+title:	Igĩrĩ
+author:	Lilian Wachira
+artist:	Richard MacIntosh
+lang:	Gikuyu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9676.png
+desc:	Gũtunga kũhũthũ igũrũ rĩa indo ĩgĩrĩ kana mahatha.
+
+page_text:
+
+P1	Moko manini merĩ ma kũnyita.
+P2	Miguu miwili midogo kupiga teke. Magũrũ merĩ manini ma gũikia teke.
+P3	Maitho merĩ manini ma kũona.
+P4	Masikio mawili madogo kusikia. Matũ merĩ manini ma kuigua.
+P5	And two loving arms to HUG!
+P6	Na mikono miwili KUKUMBATIA kwa upendo. Na moko merĩ ma GUKŨMBATĨRIA na wendo.
+
+images:
+
+illustrations/pages/3062.png
+illustrations/pages/3061.png
+illustrations/pages/3063.png
+illustrations/pages/3064.png
+illustrations/pages/3065.png
+illustrations/pages/3066.png
+illustrations/pages/3067.png
+illustrations/pages/3068.png
+illustrations/pages/3069.png
+illustrations/pages/3070.png
+illustrations/pages/3071.png
+
+translations:
+
+Arabic (Translation)	اثنان	id=19920
+English (Original)	Two	id=3072
+Kiswahili (Translation)	Mbili	id=3101
+Ng’aturkana (Translation)	Ng'arei	id=9543

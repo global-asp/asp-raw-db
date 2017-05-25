@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=2400&d=0&a=1
+id:	2400
+title:	Abalenzi Ababiri Abayala
+author:	Mwesigwa Joshua Waswa
+artist:	Bronwen Heath
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2400.png
+desc:	Olugero luno lukwata ku kubala. Balamu olabe keeki Musa ne Kizito ze baatwala ne ze baalekerawo jjajja.
+
+page_text:
+
+P1	Musa ne Kizito be balenzi ababiri abayala.
+P2	Jjajja akola bukeeki kkumi. Abuteeka ku ssowaani.
+P3	Musa atwalako keeki emu. Kizito n'atwalako keeki bbiri.
+P4	Musa atwalako keeki nnya. Kizito n'atwalako keeki bbiri.
+P5	Musa yalya keeki mmeka? Kizito yalya keki mmeka? Jjajja yasigazaawo keeki mmeka?
+
+images:
+
+illustrations/pages/1717.png
+illustrations/pages/1717.png
+illustrations/pages/1718.png
+illustrations/pages/1719.png
+illustrations/pages/1720.png
+illustrations/pages/1799.png
+
+translations:
+
+Aringati (Translation)	Ãbị́rị́ Ndẽ Anzị Ị̃rị̃ Kí Rá	id=7528
+Ateso (Translation)	Isap Iyarei Lu Eyarit Etengei	id=2999
+English (Original)	Two Hungry Boys	id=1800
+Lubukusu (Translation)	Basoleli Babili Be Njala	id=2399
+Lugbarati (Translation)	Anzi Iri Abiri Ni Nde Ra `diyi	id=2719
+Lugbarati (Official) (Translation)	Anzɨ Ìrì Àbírí Nɨ́ Fulé Káyɨ̀ 'dɨ̀yɨ	id=8800
+Lumasaaba (Translation)	Basooleli Babili Be Ntsala	id=2401
+Lunyole (Translation)	Abaseere Babiri Abayala	id=2402

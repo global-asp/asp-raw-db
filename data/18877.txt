@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=18877&d=0&a=1
+id:	18877
+title:	Huku Yi Xenga Koti
+author:	Mkomati John Mongwe
+artist:	Rob Owen
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18877.png
+desc:	Huku yi endla qhinga ro xenga koti.
+
+page_text:
+
+P1	Khale ka khaleni,  Huku na Koti a va ri vanghana. Siku rin'wana Koti ri kumile Huku ehansi ka murhi yi wisile na tibege ta yona ta le vhengeleni. Huku a yi yimile hi nenge wun'we.
+P2	Koti ri vutisa Huku ri ku,  "Xana wu kwihi nenge wa wena wun'wana?"
+P3	Huku yi byela Koti yi ku,  "Muxavisi u tsemile nenge wa mina kutani a ndzi nyika girosa tanihi bazela."
+P4	Koti ri vutisa Huku loko na le ka yena a nga endla swo fana. Na rona a ri lava bege ya girosa. Huku yi pfumela.
+P5	Koti ri yile eka muxavisi kutani ri n'wi kombela leswaku ri tsemiwa nenge wun'we wa rona ku ta nyikiwa girosa. N'wamavhengele u pfumerile.
+P6	Koti ri thamukile hi nenge wun'we ndlela hinkwayo ri ya ekaya. Kambe a ri tsakile hi swilo leswi n'wamavhengele a nga n'wi nyika.
+P7	Loko Koti ri fika ekaya,  ri kumile huku yi ri na milenge ha yimbirhi.
+P8	Koti ri hlundzukile kutani ri hlongorisa huku. Kambe a ri kotangi ku yi khoma. Endzhaku ka sweswo,  koti mikarhi hinkwayo ri lava swikukwana. Loko ri swi kuma ra swi khoma,  ri swi dya.
+
+images:
+
+illustrations/pages/9588.png
+illustrations/pages/9587.png
+illustrations/pages/9588.png
+illustrations/pages/9589.png
+illustrations/pages/9590.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/9593.png
+illustrations/pages/9594.png
+
+translations:
+
+Afrikaans (Translation)	Hen Kul Vir Arend	id=16344
+ChiTonga (Translation)	Nkuku  Yamucenga  Sikwaze	id=18646
+CiNyanja (Translation)	Nkuku Yamupita Kunzelu Nkwazi	id=18664
+English (Translation)	Hen Tricks Eagle	id=10544
+IciBemba (Translation)	Inkoko Yacenjesha Kapumpe	id=18683
+isiXhosa (Translation)	Usikhukukazi Uqhatha Ukhozi	id=17526
+isiZulu (Translation)	Usikhukhukazi Uqiliga Ukhozi	id=16359
+isiZulu (Translation)	Uskhukhukazi Ukhohlisa Ukhozi	id=16547
+Lunyole (Original)	Engoho N’Ekongoja	id=10543
+Sepedi (Translation)	Kgogo E Hlalefetša Ntšhu	id=18169
+Sesotho (South Africa) (Translation)	Kgoho O Jalletsa Ntsu	id=20029
+Setswana (Translation)	Koko O Tsietsa Phakalane	id=16595
+Setswana (Translation)	Koko O Tsietsa Lenong	id=16718
+Setswana (Translation)	Koko O Tsietsa Lenong	id=17647
+SiLozi (Translation)	Kuhu Ipuma Mbande	id=18719
+Tshivenda (Translation)	Khuhu I Fhura Goni	id=18301

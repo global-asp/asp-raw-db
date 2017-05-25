@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=9345&d=0&a=1
+id:	9345
+title:	Jo Yi / Enyumba
+author:	Candiru Eunice
+artist:	Kathy Arbuckle
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9345.png
+desc:	Jo ndundu di yi. Elete aa jo ngoleri ma alia?
+
+page_text:
+
+P1	Bileyo ni a'a jo ase si waria ni ma alia. Gesa ali mu nyumba eye'nyasi eye'hiteteyi.
+P2	Adriko ni a''a jo bati si kona beri su trotro ni ma alia. Wegulo ali mu nyumba eje'sonda ejagagana atenga ya 'mabaati.
+P3	Jo di ri kona be su trotro ku ri i'i. Enyumba yiino yasonda eja rekitango.
+P4	Jo di ma dri kala be na. Ahasolya he'nyumba yiino hesuliha.
+P5	Agupi di ri ii ma jo si. Omusaja ono ali huzimba enyumba yiiye.
+P6	'Di ri jo o'di ni. Enyumba yiino pyaha.
+P7	Ji 'di de 'bo. Enyumba yiino kayire.
+P8	Aka te mani a'a jo 'di ma alia foo! Mba niindi mu nyumba yiino!
+
+images:
+
+illustrations/pages/1591.png
+illustrations/pages/1591.png
+illustrations/pages/1592.png
+illustrations/pages/1593.png
+illustrations/pages/1594.png
+illustrations/pages/1595.png
+illustrations/pages/1596.png
+illustrations/pages/1597.png
+illustrations/pages/1598.png
+
+translations:
+
+Ateso (Adaptation)	Itogoi	id=10155
+English (Original)	Houses	id=1785
+Kikamba (Translation)	Nyumba	id=3087
+Luganda (Translation)	Amayumba	id=2866
+Lunyole (Translation)	Amayumba	id=2867
+Lusoga (Translation)	Amayumba	id=2868
+Lusoga (Translation)	Ndhuuba Nhumba	id=8170
+Ng’aturkana (Translation)	Ng'akais	id=18136
+Setswana (Translation)	Matlo	id=2869
+Somali (Translation)	Guriyo	id=17262

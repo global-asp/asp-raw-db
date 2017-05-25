@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=15610&d=0&a=1
+id:	15610
+title:	Sungura Na Fisi
+author:	Brigid Simiyu
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15610.png
+desc:	Hata kama Sungura ni mchanja
+
+page_text:
+
+P1	Sungura na Fisi walikuwa marafiki. Walifanya kazi na kucheza pamoja.
+P2	Sungura alimwambia Fisi,  "Tulime pamoja." Fisi alimwuliza, "Tutapanda nini?"
+P3	Walikubaliana Sungura kuwachunga ndege wasile mahindi. Fisi alikuwa alime shamba.
+P4	Fisi alilalamika. Sungura alimjibu,  "Nitawafukuza ndege usiku na mchana."
+P5	Fisi alikubali kulima shamba. Alipomaliza,  alipanda mbegu ya mahindi.
+P6	Fisi alipalalia mahindi.  Sungura aliketi juu ya jiwe akiimba.
+P7	Sungura aliwafukuza ndege kwa furaha. Hakutoa jasho hata kidogo.
+P8	Sungura alisema,  "Nitavuna kilicho juu ya udongo. Nawe kilicho chini."
+P9	Sungura alitangulia kuyavuna mahindi. Fisi alikuwa wa mwisho.
+P10	Fisi alipata mizizi pekee. Aliwaza kwa muda mrefu.
+P11	Fisi aligundua kwamba Sungura alimdanganya.  Alimwambia Sungura,  "Tulime tena pamoja."
+P12	Fisi alisema,  "Nitavuna vinavyomea juu nawe vinavyomea chini ya udongo."
+P13	Wote walilima na kupanda viazi. Walifanya kazi zote shambani pamoja.
+P14	Fisi alienda kuvuna vilivyomea juu ya ardhi. Alipata majani pekee.
+P15	Sungura alivuna viazi vingi. Fisi alikasirika akamwuliza,  "Kwa nini ulinidanganya?"
+P16	Fisi alimfukuza Sungura alipize kisasi. Tangu siku hiyo,  walikuwa maadui.
+
+images:
+
+illustrations/pages/8138.png
+illustrations/pages/8135.png
+illustrations/pages/8136.png
+illustrations/pages/8137.png
+illustrations/pages/8138.png
+illustrations/pages/8139.png
+illustrations/pages/8140.png
+illustrations/pages/8141.png
+illustrations/pages/8142.png
+illustrations/pages/8143.png
+illustrations/pages/8144.png
+illustrations/pages/8145.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8148.png
+illustrations/pages/8149.png
+illustrations/pages/8150.png
+
+translations:
+
+Dhopadhola (Translation)	Oculu Kodi Ondyek	id=18696
+English (Original)	Hare and Hyena	id=9796
+Kiswahili (Adaptation)	Sungura Na Fisi	id=18418

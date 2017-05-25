@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=8753&d=0&a=1
+id:	8753
+title:	Kàlàfé Làzà
+author:	Alice Ojobiru
+artist:	Gay Galsworthy
+lang:	Lugbarati (Official)
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8753.png
+desc:	Àma ànyàpá áséá ‘dɨ̀yɨ mà kàlàfe làa yɨní mùría yí mvuriá. Mí egá àdɨ e’yó ecó ɨ̀ ‘yé nɨ̀ kàmì kà emú yí mvuriá nɨ̀ rɨ̀á?
+
+page_text:
+
+P1	Èwá àlʉ mu yí mvú.
+P2	Òndéré ìrì mú yí mvú.
+P3	Òdrú na àrɨ́á sʉ be. Yɨ dríá mu yí mvurɨá.
+P4	Yéré tòwí àzɨ́nɨ èzò ázɨ́á yɨ̀ mʉ yí mvùrɨ́á.
+P5	Odrúkudrú ázírì àzɨ́nɨ è'bɨ́ àrò yɨ yí álɨ́á.
+P6	Bʉ́ré óròmɨ̀ yɨ̀ mu yí mvurɨá.
+P7	Kàmì àlʉ amú yí mvurɨá.
+P8	À`dɨ mà ásí mba muzʉ́ yí mvuzà be drìlé rá nɨ̀ yà?
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Aringati (Translation)	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ	id=6985
+Ateso (Translation)	Aimar	id=9655
+English (Original)	Counting	id=1784
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lunyole (Translation)	Ohubala	id=1954
+Lusoga (Translation)	Tubala Bazira	id=1955
+Sepedi (Translation)	Go Bala	id=1956
+Sesotho (Lesotho) (Translation)	Ho Bala	id=1958
+Setswana (Translation)	Go Bala	id=2807

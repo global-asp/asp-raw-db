@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=2231&d=0&a=1
+id:	2231
+title:	Ngwedi Le Kepisi
+author:	Maphokane Mapule Mohlamme
+artist:	Angie & Upesh
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2231.png
+desc:	Mosimanyana o hwetša kepisi ye talalerata go tšwa go mma wa gagwe.Moya o ile fokela kepisi mohlareng wo mogolo
+
+page_text:
+
+P1	Ka moka ga rena re ile ra ya ya kua mekhukhwaneng ya borekelo kua Dasar.
+P2	Tate o ile a rekela Chintu dipaketsana tša mabonwa. Mma a nthekela kepisi ya go taga ya mmala wa botala lerata. Gomme ngwana a hwetša le lekere le monate.
+P3	Mo tseleng ge re boela gae,  go ile gwa tšutla moya woo maatla. O ile wa fofetša kepisi kua kgole.
+P4	Kepisi e ile ya swarega godimo ga lekala la mohlare wa morula.
+P5	Ke ile ka lla ga bohloko. Ga sa ka ja le dijo tša matena ka letšatši leo.
+P6	Nkgapelanyana bošegong bjoo,  go ile gwa tšwelela ngwedi. E ile ya lebelela kepisi ya ka godimo ga mohlare wa morula.
+P7	E ile ya rwala kepisi ya ka. Ngwedi e ile ya myemyela ka lethabo. Le nna ka swanelwa ke go myemyela.
+P8	Ka letšatši le le latelago ge ke boa sekolong,  mma o ile a mpha kepisi e mphša e tagilego e khibidu. "E rometšwe ke ngwedi" gwa realo mma.
+P9	Bošegong bjoo,  nna le ngwedi re ile ra rwala dikepisi tša rena,  gomme ra myemyela. Re be re thabile.
+P10	A o gopola gore letšatši le hloka kepisi na?
+P11	Akanya gore e ka ba ke apere efe kepisi lehono!
+
+images:
+
+illustrations/pages/2137.png
+illustrations/pages/2138.png
+illustrations/pages/2139.png
+illustrations/pages/2141.png
+illustrations/pages/2142.png
+illustrations/pages/2143.png
+illustrations/pages/2144.png
+illustrations/pages/2145.png
+illustrations/pages/2146.png
+illustrations/pages/2147.png
+illustrations/pages/2148.png
+illustrations/pages/2150.png
+
+translations:
+
+Afrikaans (Translation)	Die Maan en Die Keps	id=11151
+English (Original)	The Moon and the Cap	id=2154
+French (Translation)	La Lune Et La Casquette	id=10858
+isiXhosa (Translation)	Inyanga Ne Kepisi	id=2236
+isiZulu (Translation)	Inyanga Nekepisi	id=2225
+Kiswahili (Translation)	Mwezi Na Kofia	id=2229
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=2228
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=10365
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=11182
+siSwati (Translation)	Inyanga Nekepisi	id=13044

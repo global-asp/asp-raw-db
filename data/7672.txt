@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=7672&d=0&a=1
+id:	7672
+title:	Ek Kan Dit Ook Doen
+author:	Andries du Plessis
+artist:	Cathy Feek
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7672.png
+desc:	Hierdie prentjieboek beskryfn paar aktiwiteite wat kinders leer terwyl hulle grootword.
+
+page_text:
+
+P1	Ek kan spring en dans.
+P2	Ek kan met my springtou spring.
+P3	Ek dans terwyl ek na die radio luister.
+P4	Ek bou my eie draadkar.
+P5	Kyk,  ek kan knipoog!
+P6	Ek sing in die koor.
+P7	Ek kan lees.
+
+images:
+
+illustrations/pages/1372.png
+illustrations/pages/1373.png
+illustrations/pages/1374.png
+illustrations/pages/1372.png
+illustrations/pages/1375.png
+illustrations/pages/1376.png
+illustrations/pages/1377.png
+illustrations/pages/1378.png
+
+translations:
+
+English (Original)	I Can Do This	id=1788
+English (Translation)	Apedori Ɛɔng Aswam Nʉ / I Can Do This	id=7558
+English (Adaptation)	What Do You Like?	id=10262
+English (Adaptation)	Things We Can Do	id=15270
+Kikamba (Translation)	Nonike Ou	id=2877
+Kiswahili (Translation)	Naweza Fanya Hivi	id=2878
+Lugbarati (Translation)	Ma Eco `di `ye Ra	id=2601
+Lusoga (Translation)	Nsobola	id=8169
+Rutooro (Translation)	Ninsobora Okukora Kinu	id=9510
+Setswana (Translation)	Ke Kgona Go Dira Se	id=2879

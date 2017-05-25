@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=13998&d=0&a=1
+id:	13998
+title:	We Have Fun
+author:	Phellow Mmbuni
+artist:	PHELLOW MMBUNI
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13998.png
+desc:	A story about the fun children have when at school and at home.
+
+page_text:
+
+P1	We have fun while we are going to our school.
+P2	We have fun while we are cleaning our classroom.
+P3	We have fun while we are learning our lessons.
+P4	We have fun while we are playing in the playground.
+P5	We have fun while we are learning our lessons,  we enjoy ourselves at school.
+P6	We have fun while we are on our way back home.
+P7	We enjoy ourselves at home.
+
+images:
+
+illustrations/pages/13997.png
+illustrations/pages/13999.png
+illustrations/pages/14000.png
+illustrations/pages/14011.png
+illustrations/pages/14002.png
+illustrations/pages/14004.png
+illustrations/pages/14007.png
+illustrations/pages/14008.png
+illustrations/pages/14009.png
+
+translations:
+

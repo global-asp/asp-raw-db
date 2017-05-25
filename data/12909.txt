@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=12909&d=0&a=1
+id:	12909
+title:	Esoŋera
+author:	Bukheye Mulongo Christopher
+artist:	Ethan Alberts, Wiehan de Jager and Catherine Groenewald
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12909.png
+desc:	Esoŋera Hiwuka  ehyobulabe
+
+page_text:
+
+P1	Esoŋera hibuuka.
+P2	Esoŋera emenya mu bifo ebicaafu.
+P3	Eba mu migwanya, mu bibbomboyizi ko nohu biryo.
+P4	Esoŋera egululuha yaŋwa mu bifo ebyo ebicaafu yaaja mu mago geefe.
+P5	Niyoola yigwa hu biryo byeefe yabicaafuŋasa.
+P6	Omuutu naalya ebiryo ebyo ebicafuŋaaye alumiziwa mu hida.
+P7	Esoŋera yabulabe bugali weene.
+
+images:
+
+illustrations/pages/5294.png
+illustrations/pages/5294.png
+illustrations/pages/5299.png
+illustrations/pages/5302.png
+illustrations/pages/2135.png
+illustrations/pages/5526.png
+illustrations/pages/5847.png
+illustrations/pages/5294.png
+
+translations:
+
+English (Adaptation)	Flies	id=13639
+isiZulu (Translation)	Impukane	id=7492
+Xitsonga (Translation)	Nhongana	id=14381

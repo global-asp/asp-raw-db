@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=10148&d=0&a=1
+id:	10148
+title:	Le Pou Écrasé
+author:	Maïté Indacochéa and Translators without Borders
+artist:	Magriet Brink
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10148.png
+desc:	Deux jeunes hommes ayant perdu les vaches qu’ils surveillaient cherchent leurs bêtes jusqu’à ce qu’il soit très tard. Il voient une maison avec une lumière allumée
+
+page_text:
+
+P1	Il était une fois,  il y a très longtemps,  deux jeunes hommes qui avaient perdu leurs vaches. Ils avaient cherché leurs bêtes jusqu'à ce qu'il soit très tard.
+P2	Il commençait à faire noir quand ils virent une lumière allumée dans une maison. Ils se mirent d'accord pour s'y rendre et pour demander à y passer la nuit.
+P3	Ils se rendirent à la maison et cognèrent. La porte s'ouvrit et ils entrèrent. Les jeunes hommes ne virent personne,  mais ils entendirent une voix qui les accueillait.
+P4	La voix dit: "Je suis un pou. Ouvrez la marmite et servez-vous à manger. Prenez la jarre et buvez de l'amahewu."
+P5	Le pou jeta une peau sur ses épaules et sortit de la maison.
+P6	Les jeunes hommes mangèrent,  burent et rendirent grâce. Ils quittèrent la maison.
+P7	Comme ils s'en allaient,  ils eurent une mauvaise pensée. Ils dirent: "Non,  il est impossible que nous ayons mangé de la nourriture venant d'un pou." Ils finirent par s'entendre pour y retourner et écraser le pou.
+P8	Ils retournèrent à la maison et écrasèrent le pou. Soudain,  le pou avait n'était plus là et la maison disparut! Ils se retrouvèrent à l'extérieur,  à découvert.
+
+images:
+
+illustrations/pages/9717.png
+illustrations/pages/9711.png
+illustrations/pages/9712.png
+illustrations/pages/9710.png
+illustrations/pages/9713.png
+illustrations/pages/9714.png
+illustrations/pages/9715.png
+illustrations/pages/9716.png
+illustrations/pages/9717.png
+
+translations:
+
+Afrikaans (Translation)	Die Luis Wat Doodgedruk Is	id=11298
+Afrikaans (Translation)	Die Platgedrukte Luis	id=11397
+Afrikaans (Translation)	Vermorselde Luis	id=11521
+English (Translation)	Crushed Louse	id=9787
+isiNdebele (Translation)	Intwala Eputjukileko	id=13071
+isiXhosa (Translation)	Intwala Eyatyunyuzwayo	id=16475
+isiZulu (Original)	Intwala Echotshiwe	id=9786
+Lámnsoʼ (Translation)	Shinser She  Á Bvəʼəyín	id=15066
+Luganda (Translation)	Enffa Y’Ensekere	id=11904
+Portuguese (Translation)	O Piolho Esmagado	id=16563

@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=3003&d=0&a=1
+id:	3003
+title:	Ng’Ombe Wa Sokoni
+author:	Ursula Nafula
+artist:	Catherine Groenewald
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/3003.png
+desc:	Ng’ombe wanatanga tanga na kuingia sokoni huku wakivuruga shughuli za pale.  Mwanamke mmoja anachukuwa jukumu la kulalamika na kupiga kelele.  Kwa kujibu
+
+page_text:
+
+P1	Kila mtu alijua kwamba Mama Schola alipenda kupiga kelele mno.
+P2	Siku hiyo,  ilihusiana na ng'ombe waliokuwa sokoni. "Wafukuzie mbali hawa ng'ombe wajinga," alisema. "Wanakula mboga zangu."
+P3	"Hei we pale! Wafukuze hawa ng'ombe wajinga watoke hapa," alisisitiza. "Wanakula nguo zangu."
+P4	"Wapi mwenye ng'ombe hawa wajinga?" alipiga kelele. "Wanakula nafaka yangu."
+P5	Kutoka mafichoni mwake,  Sorimpan,  mchungaji,  alichuchumaa kwa kumuogopa yule mwanamke aliyekuwa akipiga kelele. Alikuwa ameenda kunywa maji kwenye mfereji wakati ng'ombe wake waliranda na kwenda sokoni.
+P6	"Sasa ona kile hawa ng'mbe wajinga wamefanya!" Aliendelea kupiga kelele. "Wamevunja vyungu vyangu."
+P7	Baadaye kidogo,  "Aah! Sio tena!" Alisikika akisema. "Nitashtaki jambo hili kwa polisi. Hawa ng'ombe wajinga wameangusha kibanda changu cha matunda."
+P8	Sorimpan,  fimbo mkononi,  alihepa kati ya umati na kufaulu kuwaona ng'ombe wake. Ng'ombe wa Sorimpan walimjua vyema. Kwa hivyo,  waligeuka na kumwangalia alipotokea!
+P9	Wakati huo,  palikuwa na umati mkubwa wa watazamaji: wanaume,  wanawake na hata watoto. Wote walisimama wakiangalia ng'ombe ambao walimsikiliza Sorimapn pekee.
+P10	Ghafla,  ng'ombe walivunja kimya chao! Walianza kuongea wote pamoja wakiwakosoa watu!
+P11	Umati wa watu ulishangaa na kupiga hatua nyuma wakiwaogopa ng'ombe. Kisha ng'ombe waliacha kuzungumza na kuuangalia umati kwa mshangao! Lakini Mama Schola alisikika akisema,  "Tangu lini ng'ombe wakaingilia shughuli zetu za sokoni?"
+P12	Sasa ilikuwa zamu ya Mama Schola kukosolewa na ng'ombe. Wanawake wote waliokuwa wakiuza,  walisonga na kujiunga na Mama Schola kwa ajili ya woga.
+P13	Ng'ombe waliwakosoa wanawake. Waliongea kuhusu hali ya mboga zao wakisema,  "Hizi ni mboga za aina gani? Zote ni nzee na zimeanza kunyauka!"
+P14	Ni wazi kuwa ng'ombe walikuwa hawajamaliza bado! Waligeuka na kuangalia kibanda cha nguo kisha walipiga kelele wakisema,  "Mnasema tunakula nguo zenu,  nguo gani? Mnamaanisha hivi viraka vikuu kuu! Nani atavinunua?"
+P15	Ng'ombe sasa walisongea kibanda kilichofuata. Watu wote waliwafuata. "Nafaka yenu imejaa wadudu. Nani anataka kuila hiyo! Tulionja tu kujua ikiwa hapa ni mahali pa kuja mara kwa mara!" ng'ombe walisema kwa madharau.
+P16	"Na wewe Mama Schola," ng'ombe waliendelea,  "Acha kelele nyingi. Unaongea juu ya vyungu hivi ambavyo vimepasuka?" Ng'ombe waligeuza vichwa vyao kuelekeza upande wa vyungu vya Mama Schola. "Hivi havina dhamana yoyote. Vinavunjika upesi,  kwa hivyo usitulaumu sisi." Baada ya hayo,  ng'ombe waligeuka na kuondoka wakifuatwa na Sorimpan kwa karibu.
+
+images:
+
+illustrations/pages/1607.png
+illustrations/pages/1608.png
+illustrations/pages/1609.png
+illustrations/pages/1609.png
+illustrations/pages/1610.png
+illustrations/pages/1611.png
+illustrations/pages/1612.png
+illustrations/pages/1613.png
+illustrations/pages/1614.png
+illustrations/pages/1617.png
+illustrations/pages/1607.png
+illustrations/pages/1608.png
+illustrations/pages/1617.png
+illustrations/pages/1618.png
+illustrations/pages/1619.png
+illustrations/pages/1620.png
+illustrations/pages/1621.png
+
+translations:
+
+English (Original)	Market Cows	id=2408
+English (Adaptation)	The Market Cows	id=13646

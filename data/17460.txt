@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=17460&d=0&a=1
+id:	17460
+title:	Ishyamba Ribamo Inzoka
+author:	Emmanuel Sibomana
+artist:	Rob Owen
+lang:	Kinyarwanda
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/17460.png
+desc:	Abakobwa batatu bavukana bagiye gutashya mu ishyamba
+
+page_text:
+
+P1	Umudugudu witwa Sinyaire uzengurutswe n'imisozi. Haba inzoka nyinshi mu ishyamba riri kuri iyo misozi. Hari ikiyoka kinini abatuye uwo mudugudu bari barise Kimizi. Icyo kiyoka cyari cyarateye ubwoba abantu benshi. Cyamiraga ihene n'intama bunguri.
+P2	Umunsi umwe abakobwa batatu bavukana aribo Mutesi,  Keza na Kayitesi bajya mu ishyamba gutashya. Nyirakuru w'abo bakobwa arababwira ati,  "mwitondere cyakiyoka kitwa Kimizi. Ntimugire ikindi mufata mu ishyamba uretse inkwi." Muri abo bakobwa,  Keza ni we wenyine utarateze amatwi ibyo nyirakuru yababwiraga.
+P3	Abakobwa bapfunyitse amata,  imineke,  ibijumba n'amazi. Bafata imigozi yo guhambira inkwi,  n'umuhoro utyaye wo kuzitema. Hanyuma berekeza mu ishyamba.
+P4	Bari mu nzira bagenda baganira. Ako kanya Mutesi,  wari mukuru muri bo aravuga ati,  "Muceceke. Tugeze hafi y'aho cya kiyoka Kimizi kiba."
+P5	Kayitesi aba abwiye abandi ati,  "Nimurebe amenyo ya zahabu ya Kimizi. Nimureke tuyatware." Mutesi arababwira ati,  "Mwibuke ibyo nyogokuru yatubwiye. Nta kindi kintutugomba gukura muri iri shyamba uretse inkwi."
+P6	Keza aravuga ati,  "Njyewe sinemera ibyo nyogokuru yavuze. Ndumva yarabivuze kugira ngo atubuze kwifatira ibyo dushaka. Ndishakira ariya menyo ya zahabu." Abavandimwe be bibatera impungenge. Baravugabati,  "Keza,  twakuburiye." Keza ntiyabyitaho.
+P7	Muri ako kanya,  Kimizi aza gushaka amenyo ye yazahabu. Ararakara cyane kubera ko abuze amenyo ye. Nuko Kimizi yumva abakobwa baganira baseka. Yihisha mu rutare hafi y'inzira abo bakobwa bagombaga kunyuramo batashye.
+P8	Nuko abakobwa barataha bikoreye inkwi zabo kumutwe. Ako kanya bumva ijwi rigira riti "Hzzzzzzzzzz!" Babona Kimizi yasamye cyane yiteguye kubarya. Abo bakobwa bagira ubwoba bwinshi.
+P9	Kimizi abaza abo bakobwa ati,  "Ninde watwaye amenyo yanjye ya zahabu?" Habura usubiza. Icyo kiyoka kiyemeza kubagerageza. Kirababwira kiti,  "umwere muri mweni uri bushobore kuririmba neza adakora amakosa. Ariko uwanyibiye amenyo ari buze kuririrmba nabi. Uwo ni we uza kuba ifunguro ryanjye muri iyi minsi itatu!"
+P10	Mutesi atangira kuririmba n'ijwi ryiza ati,  "Si ngewe,  si ngwee ufite amenyo yawe. Uyafite aracyari inyuma." Hanyuma Kayitesi na we aririmba iyondirimbo. Na we aririmba neza.
+P11	Hanyuma igihe cya Keza cyokuririmba kiba kirageze. Agira ubwoba. Yigira imbere atangira kuririmba. Ariko yaririmbye nabi cyane ndetse n'amagambo ayavuga nabi. Kimizi aramukankamira ati,  "Ntushobora kuririmba nk'abandi?" Icyo kiyoka gihita kimenya ko Keza ari we wakibiye amenyo.
+P12	Kimizi arasama cyane ahita aconcomera Keza. Bakuru be bahita birukanka basubira mu mudugudu babwira abantu bose uko byagenze. Nyirakuru avuga ababaye ati,  "Narinamuburiye. Iyo azakunyumvira ntaba yariwe na kiriya kiyoka."
+
+images:
+
+illustrations/pages/10763.png
+illustrations/pages/10763.png
+illustrations/pages/10765.png
+illustrations/pages/10766.png
+illustrations/pages/10767.png
+illustrations/pages/10769.png
+illustrations/pages/10770.png
+illustrations/pages/10771.png
+illustrations/pages/10772.png
+illustrations/pages/10773.png
+illustrations/pages/10774.png
+illustrations/pages/10775.png
+illustrations/pages/10776.png
+
+translations:
+
+Afrikaans (Translation)	Woud Van Slange	id=20057
+ChiTonga (Translation)	Cisaka Canzoka	id=18645
+CiNyanja (Translation)	Sanga La Njoka	id=18662
+Dhopadhola (Translation)	Lul Thwol	id=15738
+English (Original)	Forest of Snakes	id=13265
+English (Adaptation)	The Evil Forest	id=14414
+French (Translation)	La Forêt Des Serpents	id=13772
+IciBemba (Translation)	Insoka Isha Mumpanga	id=18682
+isiXhosa (Translation)	Ihlathi Leenyoka	id=17524
+isiZulu (Translation)	Inyoka Yehlathi, Umagilogilo	id=16094
+Kiswahili (Translation)	Msitu Wa Nyoka	id=13309
+Ng’aturkana (Translation)	Amoni  Ang’Imunio	id=13310
+Olunyala (Translation)	Esichakha Esya Chinjukha	id=13266
+Oluwanga (Translation)	Omutsuru Kwe Tsinzukha	id=13311
+Portuguese (Translation)	A Floresta De Cobras	id=16581
+Sepedi (Translation)	Lešoka La Dinoga	id=18996
+Sesotho (South Africa) (Translation)	Moru Wa Dinoha	id=20026
+Setswana (Translation)	Sekgwa Sa Dinoga	id=14954
+Setswana (Translation)	Naga Ya Dinoga	id=15462
+SiLozi (Translation)	Linoha Zamwa Mushitu	id=18708
+Tshivenda (Translation)	Ḓaka Ḽa Dziṋowa	id=18296
+Xitsonga (Translation)	Xihlahla Xa Tinyoka	id=18880

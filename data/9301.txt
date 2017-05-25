@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=9301&d=0&a=1
+id:	9301
+title:	La Natte Spéciale D’Akai
+author:	Meike Wernicke and Geneviève Brisson
+artist:	Catherine Groenewald
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9301.png
+desc:	This young Turkana girl grows up with a most unusual and remarkable mat. Akai’s mat protects her from harm and
+
+page_text:
+
+P1	Quand Akai était une petite fille,  sa mère l'endormait sur une magnifique natte. La tante d'Akai avait fabriqué cette natte spéciale avec des feuilles de palmier.
+P2	Les couleurs de la natte étaient vives: rose,  bleu,  et vert. Elle était différente des autres nattes que sa mère avait dans la hutte.
+P3	La terre autour de la maison était sèche,  chaude et remplie de pierres. On y trouvait des scorpions et des serpents. Akai ne risquait jamais d'être mordue par ces créatures.
+P4	Sa mère disait: "C'est sa natte spéciale qui protège Akai de tous les dangers."
+P5	Akai était une fille intelligente. Elle savait où était le puits de surface le plus proche.
+P6	Elle savait où était la manyatta,  le village de sa grand-mère. Elle y allait souvent pour boire du lait de chamelle avec sa grand-mère.
+P7	Un jour,  Akai ne fut pas si chanceuse. Elle partit pour la manyatta de sa grand-mère,  mais elle n'y arriva pas,  car elle se perdit dans les montagnes. Elle avait peur.
+P8	Elle s'assit sous un arbre edome et elle attendit de l'aide. Rapidement,  elle s'endormit et se mit à rêver.
+P9	Voici le rêve qu'elle fit: Elle était couchée sur sa natte spéciale. Sa grand-mère souriait en lui donnant un grand bol de lait de chamelle. Au moment où Akai tendait la main pour prendre le lait elle se réveilla.
+P10	Akai ouvrit ses yeux lentement. Lorsqu'elle leva la tête,  elle vit un petit oiseau bleu qui était assis sur une branche au-dessus d'elle.
+P11	Lorsque Aika se leva,  le petit oiseau bleu battit des ailes et lui montra le chemin. Elle suivit l'oiseau.
+P12	Akai arriva à l'endroit où le chemin se divise en deux. L'oiseau bleu laissa tomber un morceau de natte qui ressemblait à la natte d'Aika.
+P13	En ramassant le morceau de natte,  Akai vit des empreintes de pas et elle sut que c'était celles de sa mère. Un peu plus tard elle vit le puits de surface où sa famille allait puiser de l'eau.
+P14	La famille d'Akai chanta et dansa pour lui souhaiter la bienvenue. Ils abattirent une chèvre,  firent rôtir la viande et célébrèrent le retour de leur enfant.
+P15	Akai s'assit sur sa natte spéciale et dégusta un grand morceau de viande rôtie.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5997.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6002.png
+illustrations/pages/6003.png
+illustrations/pages/6004.png
+illustrations/pages/6005.png
+illustrations/pages/6006.png
+illustrations/pages/6007.png
+
+translations:
+
+English (Original)	Akai's Special Mat	id=6008
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kiswahili (Translation)	Mkeka Wa Akai	id=7860
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Nkaayi Noomukeeka Omulobole	id=7893
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+siSwati (Translation)	Imadi Yathembi Lebalulekile	id=13073
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

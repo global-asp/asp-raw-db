@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=18332&d=0&a=1
+id:	18332
+title:	Manu and the Lion
+author:	Ursula Nafula
+artist:	Hélder de Paz Alexandre
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18332.png
+desc:	How a man escapes from certain death.
+
+page_text:
+
+P1	One day,  Manu was walking.
+P2	At that time,  a lion was resting in the grass.
+P3	Manu was full of fear.
+P4	The lion woke up.
+P5	Manu climbed a tall tree.
+P6	The lion waited for Manu under the tree.
+P7	Manu fell asleep.
+P8	He fell down from the tree.
+P9	 The lion ran away.
+P10	Manu started to run in the same direction as the lion.
+P11	When he realised,  he changed and run away.
+
+images:
+
+illustrations/pages/8180.png
+illustrations/pages/8180.png
+illustrations/pages/8181.png
+illustrations/pages/8182.png
+illustrations/pages/8184.png
+illustrations/pages/8188.png
+illustrations/pages/8189.png
+illustrations/pages/8190.png
+illustrations/pages/8191.png
+illustrations/pages/8192.png
+illustrations/pages/8193.png
+illustrations/pages/8194.png
+
+translations:
+
+English (Original)	Man and Lion	id=8205
+English (Adaptation)	Man and Lion - Colouring Book	id=17392
+Kiswahili (Translation)	Mtu Na Simba	id=12689
+Luganda (Translation)	Omusajja N'empologoma.	id=10708
+Portuguese (Translation)	O Homem E O Leão	id=8207
+Xitswa (Translation)	A Wanuna Ni Nghonyamu	id=8729

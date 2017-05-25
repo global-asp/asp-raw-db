@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=8333&d=0&a=1
+id:	8333
+title:	Imbuzi Inja Nenkomo
+author:	Fabian Wakholi
+artist:	Marleen Visser
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8333.png
+desc:	Goat
+
+page_text:
+
+P1	Imbuzi,  Inja ne Nkomo babengabangane abakhulu. Ngelinye ilanga bathatha uhambo ngetekisi.
+P2	Sebefike ekugcineni nohambo lwabo,  umshayeli wabe esecela ukuthi bakhokhe imali yokuthi bagibelile. Inkomo yakhokha eyayo.
+P3	Inja yakhokha imali ethe ukwedlula,  ngoba kade ingenayo imali eyanele.
+P4	Uma umshayeli esezilungisela ukunika Inja ushintshi wayo. Imbuzi yabaleka ngaphandle kokukhokha ngisho isenti.
+P5	Umshayeli wayecasuke kakhulu. Washaya wachitha ngaphandle kokunika Inja ushintshi wayo.
+P6	Yingakho kuze kube namhlanje; Inja igijimela ngaphambi kwemoto ilunguze ngaphakathi ukuze ithole umshayeli oyikweleta ushintshi wayo.
+P7	Imbuzi iyabaleka uma izwa umsindo wemoto. Isaba ukuthi izoboshwa ukuthi ayizange ilukhokhele uhambo eyayiluthathe nabangani bayo.
+P8	Inkomo ayinandaba umangabe kuza imoto. Inkomo ithatha isikhathi sayo uma inqamula umgwaqo ngoba iyazi ukuthi yayikhokha yonke imali okwakufanele iyikhokhe.
+
+images:
+
+illustrations/pages/6372.png
+illustrations/pages/6371.png
+illustrations/pages/6373.png
+illustrations/pages/6374.png
+illustrations/pages/6375.png
+illustrations/pages/6376.png
+illustrations/pages/6377.png
+illustrations/pages/6378.png
+illustrations/pages/6379.png
+
+translations:
+
+isiZulu (Translation)	Imbuzi, Inja Ne Nkomo	id=8336
+siSwati (Adaptation)	Inja, Imbuti Ne Nkhomo	id=17527

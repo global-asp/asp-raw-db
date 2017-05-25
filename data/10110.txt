@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=10110&d=0&a=1
+id:	10110
+title:	Rabbit Goes to a Party
+author:	Mozambican folktale
+artist:	Hélder de Paz Alexandre
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10110.png
+desc:	This story is about what happens when you go to a party and get drunk. Or is it?
+
+page_text:
+
+P1	Once upon a time,  the animals decided to have a party. But it was not for all of them. It was only for the animals that had horns.
+P2	The rabbit was getting ready for the party. But then he found out that the party was not for everyone. It was just for animals with horns.
+P3	The rabbit went somewhere and got some horns. Then he put them on his head and went to the party.
+P4	During the party the rabbit ate and drank and danced.
+P5	This made him tired and he fell down in the sun. But while the rabbit was sleeping,  the horns fell off!
+P6	Then all the animals discovered that the rabbit was not the kind of animal they wanted. So they pulled his ears till they got bigger and bigger.
+P7	Then they ran away. And that's the reason why rabbits have big ears!
+
+images:
+
+illustrations/pages/10187.png
+illustrations/pages/10186.png
+illustrations/pages/10185.png
+illustrations/pages/10187.png
+illustrations/pages/10188.png
+illustrations/pages/10189.png
+illustrations/pages/10190.png
+illustrations/pages/10191.png
+
+translations:
+
+English (Adaptation)	Rabbit Goes to a Party - Colouring Book	id=17433
+isiXhosa (Translation)	Umvundla Uya Ethekweni	id=13089
+Portuguese (Translation)	O Coelho Vai a Festa	id=10243
+Sesotho (Lesotho) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090
+Xitswa (Translation)	N'wa Vundlani Aya a Mubuzweni	id=10244

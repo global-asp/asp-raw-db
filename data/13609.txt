@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=13609&d=0&a=1
+id:	13609
+title:	Abaana Benda Ohugudula
+author:	Mubbalya Charles
+artist:	Sue Kramer, Wiehan de Jager, Mlungisi Dlamini, Angie & Upesh, Eden Daniels, Felicity Bell and Catherine Groenewald
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13609.png
+desc:	abaana benda ohududula
+
+page_text:
+
+P1	Abaana abaŋeere benda ohugudusa obutooyi.
+P2	Ese nenda ohutuuma n'ohwesubaja.
+P3	Nerima genda ohwehweha n'ohwendulana.
+P4	Abaseere basamba omupiira ogwamagulu.
+P5	Mbironyingi genda huduluma.
+P6	Abahaana basamba omupiira ogwemihono.
+P7	Yerusa genda hutuuma oti ehere.
+P8	Abahaana bagudula n'amaji.
+P9	Neri genda ohuterela.
+P10	Abaana benda ohugudula Go-go w'abagoole.
+P11	Nerima ni Negesa benda ohugudula n'obudoole.
+P12	N'ate ewe?
+
+images:
+
+illustrations/pages/6099.png
+illustrations/pages/2027.png
+illustrations/pages/1627.png
+illustrations/pages/6949.png
+illustrations/pages/4465.png
+illustrations/pages/1623.png
+illustrations/pages/4467.png
+illustrations/pages/1624.png
+illustrations/pages/1421.png
+illustrations/pages/942.png
+illustrations/pages/6516.png
+illustrations/pages/1768.png
+illustrations/pages/1770.png
+
+translations:
+
+English (Original)	Children Like to Play	id=7259
+English (Adaptation)	Children  Enjoy  Playing.	id=13610
+Luganda (Translation)	Abaana Baagala Okuzannya	id=7457

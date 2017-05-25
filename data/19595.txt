@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=19595&d=0&a=1
+id:	19595
+title:	Engijabulela Ukukwenza
+author:	Foundation Phase teachers Umlazi
+artist:	Wiehan de Jager
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19595.png
+desc:	Izinto ezingijabulisayo. (isiZulu.)
+
+page_text:
+
+P1	Kuyangijabulisa ukudlala intambo nomngane wami.
+P2	Kuyangijabulisa ukubhala onkamisa ebhodini.
+P3	Kuyangijabulisa ukufunda izincwadi ezinezithombe.
+P4	Kuyangijabulisa ukudla izithelo ezinhlobonhlobo.
+P5	Kuyangijabulisa ukusiza ekhaya. I enjoy helping at home.
+P6	Ngiyazijabulela izindaba engizixoxelwa umama.
+P7	Kuyangijabulisa ukulala embhedeni omkhulu.
+P8	Kuyangijabulisa ukwenza lezizinto. Wena yini ekujabulisayo?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+isiXhosa (Translation)	Ndiyakonwabela Ukwenza Izinto	id=17571
+Portuguese (Translation)	Eu Gosto De Fazer	id=16567
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18001
+Setswana (Translation)	Ke Rata Go Dira Se	id=17652
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18318

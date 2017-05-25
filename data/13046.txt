@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=13046&d=0&a=1
+id:	13046
+title:	Ubongani Neenkomo
+author:	Carol Mabena and Gloria Magana
+artist:	Ingrid Schechter
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13046.png
+desc:	Ugogo usindisa ipilo ka Bongani.
+
+page_text:
+
+P1	UBongani bekahlala nogogwakhe.
+P2	Bekavame ukutjheja iinkomo naye.
+P3	Ngelinye lamalanga amasotja eza.
+P4	Athatha iinkomo.
+P5	UBongani nogogwakhe babaleka bese babhaca.
+P6	Babhaca ehlathini kwaze kwaba sebusuku.
+P7	Yeke-ke amasotja abuya.
+P8	Ugogo wafihla uBongani ngaphasi kwamakari.
+P9	Omunye wamasotja wabeka inyawo phezu kwakaBonganii,  kodwana wathula.
+P10	Nasele kuphephile,  uBongani nogogwakhe baphuma.
+P11	Batotobela ekhaya ngaphandle kwetjhada.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi and the Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

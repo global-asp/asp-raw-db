@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=9529&d=0&a=1
+id:	9529
+title:	Ni Ngapi?
+author:	Joseph Opilo
+artist:	Sandra McDougall
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9529.png
+desc:	Hesebu sehemu tofauti za wanyama walioko.
+
+page_text:
+
+P1	Bunzi wawili wana miguu mingapi?
+P2	Ndege wanne wana mabawa mangapi?
+P3	Vifaru watatu wana pembe ngapi?
+P4	Ndovu watano wana pembe ngapi?
+P5	Mbwa saba wana masikio mangapi?
+P6	Nyani watatu wana mikia mingapi?
+P7	Paka sita wana macho mangapi?
+P8	Jongoo mmoja ana miguu mingapi?
+
+images:
+
+illustrations/pages/1786.png
+illustrations/pages/1600.png
+illustrations/pages/1599.png
+illustrations/pages/1601.png
+illustrations/pages/1602.png
+illustrations/pages/1603.png
+illustrations/pages/1604.png
+illustrations/pages/1605.png
+illustrations/pages/1606.png
+
+translations:
+
+Amharic (Translation)	ስንት?	id=13123
+Aringati (Translation)	Kí Sị́ Yã?	id=7229
+Ateso (Translation)	Imwasi Ayi?	id=2870
+Dhopadhola (Translation)	Adi?	id=19488
+English (Original)	How Many?	id=1787
+Kikamba (Translation)	Syianaata?	id=2871
+Luganda (Translation)	Bimeka?	id=2872
+Lugbarati (Translation)	Yii Siya	id=12640
+Lumasaaba (Translation)	Biba Byeenga?	id=2873
+Lusoga (Translation)	Ameka?	id=2874
+Sabinyi (Translation)	Ata?	id=2875
+Setswana (Translation)	Tse Kae?	id=2876

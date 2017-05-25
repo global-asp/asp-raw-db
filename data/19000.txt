@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=19000&d=0&a=1
+id:	19000
+title:	Dikuwungwa Dya A-Sara
+author:	© 2016 Little Zebra Books
+artist:	Little Zebra Books and Rachel Geer
+lang:	Ciyawo
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/19000.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	A-Sara akwete dikuwungwa dimo. Dikuwungwa dyawo dyekulungwa. Dikuwungwa-dyo didi mungulugulu lusulo.
+P2	Akopocele acakongwe kulusulo. Vakongwe vamo vana citundu ca yisogosi. Vane vakongwe akwete nguku. Sooni vane vakongwe akwete mbusi jimo. Sooni vane vakongwe akwete mbusi sividi. Vele vanya akwaawuusya a-Sara kuti,  "Tujomboce cinawudi mpaka pesi lusulo?" A-Sara atite kuti,  "Nkwele mundikuwungwa dyangu!"
+P3	Sooni ayice acalume. Vamo valume akwete somba. Vane valume akwete njinga. Vane akwete cisaka ca mpunga.
+P4	Vane valume akwete yisaka yividi ya mpunga. Vele vanya akwaawuusya a-Sara kuti,  "Tujomboce cinawudi mpaka pesi lusulo?" A-Sara akwanga kuti,  "Nkwele mundikuwungwa dyangu!"
+P5	Yinyama yine yikopocele palusulo. Yele yikwaawuusya a-Sara kuti,  "Tujomboce cinawudi mpaka pesi lusulo?" A-Sara atite kuti,  "Nkwele mundikuwungwa dyangu!"
+P6	Yinyama yikwesile mundikuwungwa. Mbwa jikwesile mundikuwungwa. Come cikwesile mundikuwungwa. Dijani dikwesile mundikuwungwa. Kalunga jikwesile mundikuwungwa. Ngong'o jikwesile mundikuwungwa. Ngolombwe jikwesile mundikuwungwa.
+P7	Ndembo jikopocele kulusulo. Jele jikwaawuusya kuti,  "Wune cinyomboce cinawudi mpaka pesi lusulo?" A-Sara atite kuti,  "Nkwele mundikuwungwa dyangu!" Ndembo jikwesile mundikuwungwa. Dikuwungwa-dyo digumbele mesi.
+P8	Dikuwungwa dyawunicile vele vanya. Dikuwungwa didi dyamwana n'nope,  dyangadi malo gakwanila.
+P9	A-Sara atite,  "Munyembeceya panadi. Ca ndanda,  cinyigale acakongwe."
+P10	A-Sara atite,  "Kaviidi,  cinyigale acalume."
+P11	"A-Sara sooni atite kuti,  "Kumpesi-ko,  cinyigale yinyama.
+P12	Ndembo jitite,  "Yii! Wune cinyende wa pasi!"
+
+images:
+
+illustrations/pages/16290.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+English (Original)	Sara's Canoe	id=16261
+Portuguese (Translation)	“a Canoa Da Sara”	id=19001

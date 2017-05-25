@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=18561&d=0&a=1
+id:	18561
+title:	Muluti Akinyi
+author:	Limbali Muyendekwa
+artist:	Vusi Malindi
+lang:	SiLozi
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18561.png
+desc:	Litangu lelikuswani la muluti yatuumile wamusali  niza luluta.
+
+page_text:
+
+P1	Ba kibo muluti baka.  Libizo labona kibo Akinyi.   Banilata haulu.
+P2	Bomuluti Akinyi baluluta mukoloko walitaku neli taku zenyinyani. Nakona kubulela litaku za a,  e,  i,  o,  u.
+P3	Bomuluti Akinyi baluluta mibala ya bufubelu,  mbilu,  ngánda,  talukeke ni omunsu.
+P4	Nako yakupumula bomuluti Akinyi baluopelelanga pina yaku lulobalisa. Baluopelelanga pina yakulobalisa yabanana.
+P5	Balukandekelanga matangu abaana balindume la Mubulo.
+P6	La Bubeli balukandekelanga matangu alindume za basali.
+P7	La Bulalu balukandekelanga makande alinzila zakuzamaela zeshutanashutana.
+P8	La bune balukandekelanga za bulimi.
+P9	Nila bufaibi,  balukandekela matangu aluna mwa kilasi bomuluti Akinyi.
+P10	Bomuluti baluna kibona bocaziba mwa lifasi kaufela! Nibata kuba inge bomuluti Akinyi anikahula.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Bakafundisha Ba Akinyi	id=18586
+isiNdebele (Translation)	Utitjhere Nkosi	id=13043
+isiXhosa (Translation)	Utitshalakazi Uakinyi	id=14116
+isiZulu (Translation)	Uthisha Uzanele	id=13537
+isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
+Kimîîru (Original)	Mwarimu Makena	id=9688
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+Tshivenda (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

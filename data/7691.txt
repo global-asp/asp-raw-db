@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=7691&d=0&a=1
+id:	7691
+title:	Kook
+author:	Eurika Jansen van Vuuren
+artist:	Kathy Arbuckle
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7691.png
+desc:	Ek help graag om groente voor te berei vir ete. Daar is een groente wat ek nie graag voorberei nie.
+
+page_text:
+
+P1	Ek skil die aartappels.
+P2	Ek kerf die koolkop.
+P3	Ek rasper die wortels.
+P4	Ek was die bone.
+P5	Ek sny die botterskorsie op.
+P6	Ek kerf die spinasie.
+P7	My ma skil die uie.
+P8	Gekapte uie laat my huil!
+
+images:
+
+illustrations/pages/1307.png
+illustrations/pages/1307.png
+illustrations/pages/1308.png
+illustrations/pages/1309.png
+illustrations/pages/1310.png
+illustrations/pages/1311.png
+illustrations/pages/1312.png
+illustrations/pages/1313.png
+illustrations/pages/1314.png
+
+translations:
+
+Aringati (Translation)	Aꞌdíŋá	id=8358
+Ateso (Translation)	Aipo	id=2849
+Ateso (Translation)	Aipo	id=7669
+Dhopadhola (Translation)	Tedo	id=19484
+English (Original)	Cooking	id=2795
+isiZulu (Translation)	Ukupheka	id=8744
+Lugbarati (Translation)	Nyaka A`diza	id=2799
+Lugbarati (Official) (Translation)	Nyaká A’Dɨ́zà	id=8754
+Lumasaaba (Translation)	Khuuteekha	id=8745
+Lunyole (Translation)	Ohunyiiya	id=2802
+Lusoga (Translation)	Okufumba	id=8746
+Sabinyi (Translation)	Kaayosyeet	id=2805
+Sesotho (Lesotho) (Translation)	Phehang	id=19966
+Setswana (Translation)	Go Apaya	id=2806

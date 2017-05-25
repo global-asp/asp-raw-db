@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=14916&d=0&a=1
+id:	14916
+title:	Do Not Scare the Snakes!
+author:	Isabelle Duston
+artist:	Silva Afonso
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14916.png
+desc:	Two friends climb up a mango tree. What they find up the tree gives them a fright. What is on the mango tree?
+
+page_text:
+
+
+images:
+
+illustrations/pages/13857.png
+illustrations/pages/13858.png
+illustrations/pages/13860.png
+illustrations/pages/13861.png
+illustrations/pages/13862.png
+illustrations/pages/13863.png
+illustrations/pages/13864.png
+illustrations/pages/13865.png
+illustrations/pages/13866.png
+illustrations/pages/13867.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Ciyawo (Adaptation)	Ngagasitusya Majoka!	id=15770
+Portuguese (Original)	Não Assustes As Cobras!	id=14895

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=9125&d=0&a=1
+id:	9125
+title:	Come Back, Cat
+author:	Nicola Rijsdijk
+artist:	Karen Lilje
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9125.png
+desc:	A sneaky cat gets into trouble before naptime.
+
+page_text:
+
+P1	Come back,  cat! Play with me.
+P2	Sit in your basket. Stay right here!
+P3	Come back,  cat! That's way too high.
+P4	Come back,  cat! Don't go outside.
+P5	Come back,  cat! That's not yours.
+P6	Come back,  cat! What have you got?
+P7	Come back,  cat! That's not your friend!
+P8	Hello,  cat! Are you back?
+P9	Stay in your basket. It's nap time now.
+P10	Cat?
+
+images:
+
+illustrations/pages/8059.png
+illustrations/pages/9122.png
+illustrations/pages/9121.png
+illustrations/pages/9123.png
+illustrations/pages/9124.png
+illustrations/pages/8061.png
+illustrations/pages/8062.png
+illustrations/pages/8063.png
+illustrations/pages/8064.png
+illustrations/pages/8065.png
+illustrations/pages/8066.png
+illustrations/pages/8067.png
+illustrations/pages/8068.png
+
+translations:
+
+Afrikaans (Translation)	Kom Terug, Kat	id=11171
+Amharic (Translation)	ተመለሽ ድመቴ	id=11781
+French (Translation)	Reviens, Chat!	id=12655
+Lámnsoʼ (Translation)	Pùúr Kfə́n É Bàm	id=15063
+Yoruba (Translation)	Padà Wá, Olóńgbò	id=11209

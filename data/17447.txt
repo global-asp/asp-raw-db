@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=17447&d=0&a=1
+id:	17447
+title:	Marqaa
+author:	Mulualem Daba
+artist:	Catherine Groenewald
+lang:	Afaan Oromo
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17447.png
+desc:	Abbaa Tolaa Tolaaf Marqaa qopheesa haati Tolaa waan hin jirref.
+
+page_text:
+
+P1	Tolaan mana barumsaa deemmuf qophahaa jira.
+P2	Abbaan tolaa ciree marqaa tolaaf qopheessa jira.
+P3	Tolaan haati koo marqaa mi'aawa qophessitti jeedhe.
+P4	Marqaan Tolaan humna ni kenna.
+P5	Marqaan qopha'eera.
+P6	Tolaaf abbaan isaa anaan buuseef.
+P7	Tolaan abbaa isaatin,  "Marqaan kun ashaboo hanqatera" jeedhen.
+P8	Tolaan marqaan Haati isaa qopheesitu mi'aadha jeedhe yaada.
+P9	Tolaan abbaa isaa ashaboo gafate.
+P10	Abbaan Tolaan marqaati ashaaboo dabaleefi.
+P11	"Uhhh! Abbaa marqaa kootii ashaboo osoo hin taane sukkara naaf dabalte!" Jedhee Tolaan.
+P12	Tolaan abbaa isaa haatii isaa yoom akka dhuuftu gafate.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+Dhopadhola (Translation)	Nyuka	id=15767
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+IciBemba (Translation)	Umusunga	id=18578
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kiswahili (Translation)	Uji	id=15614
+Lunyole (Translation)	Obusera	id=13458
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997

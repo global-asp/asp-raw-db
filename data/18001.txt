@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=18001&d=0&a=1
+id:	18001
+title:	Tšeo Ke Ratago Go Dira
+author:	Sara mohale
+artist:	Wiehan de Jager
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18001.png
+desc:	Na o rata go dira eng?
+
+page_text:
+
+P1	Ke rata go fofa kgati le mogwera wa ka. I enjoy skipping with my friend.
+P2	Ke rata go ngwala ditlhaka letlapeng. I enjoy writing letters on the board.
+P3	Ke rata go bala dipuku tša go ba le diswantšho. I enjoy reading books with pictures.
+P4	Ke rata go ja dienywa tša go fapafapana. I enjoy eating different fruit.
+P5	Ke rata go thuša ka gae. I enjoy helping at home.
+P6	Ke rata go theeletša dikanegelo tša mma. I enjoy listening to my mother's stories.
+P7	Ke rata go robala bolaong bjo bogolo. I enjoy sleeping on a big bed.
+P8	Ke rata go dira dilo tše. Na wena o rata go dira eng? I enjoy doing these things. What do you enjoy doing?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+isiXhosa (Translation)	Ndiyakonwabela Ukwenza Izinto	id=17571
+isiZulu (Adaptation)	Engijabulela Ukukwenza	id=19595
+Portuguese (Translation)	Eu Gosto De Fazer	id=16567
+Setswana (Translation)	Ke Rata Go Dira Se	id=17652
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18318

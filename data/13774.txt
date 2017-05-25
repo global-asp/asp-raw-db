@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=13774&d=0&a=1
+id:	13774
+title:	Un Arc-En-Ciel De Passage Au Village
+author:	Patricia Roth and Translators without Borders
+artist:	Wiehan de Jager
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13774.png
+desc:	Un garçon se promène dans les champs quand soudain il aperçoit un arc-en-ciel pour la première fois de sa vie. Il ne sait pas ce quest un arc-en-ciel
+
+page_text:
+
+P1	Kobole vivait dans un petit village.
+P2	Un après-midi,  Kobole cueillait des fruits de la passion quand soudain,  quelque chose d'inhabituel arriva.
+P3	Il aperçu dans le ciel des lignes arquées multicolores ciel.
+P4	Là,  laissant tomber les fruits à terre,  il courut chez lui pour alerter les villageois.
+P5	Seulement,  lorsqu'il arriva,  tout le monde se tenait déjà debout devant leurs maisons,  les yeux rivés vers le ciel.
+P6	Kobole dit: "Qu'il est beau ce vêtement suspendu au ciel" Neno rétorqua: "Ce n'est pas un vêtement! Je crois plutôt que quelqu'un a versé de la peinture depuis le ciel."
+P7	Certains étaient d'accord avec Kobole. D'autres pensaient que c'était Neno qui avait raison. Les deux groupes de personnes étaient en désaccord.
+P8	C'est alors qu'un homme d'un village lointain arriva et dit: "Vous avez tous faux."
+P9	"Alors qu'est-ce que c'est?"  crièrent les gens.
+P10	"Il s'agit d'un arc-en-ciel",  dit l'étranger. Est-ce la première fois que vous en voyez?
+P11	C'est quoi un "a-r-c-e-n-c-i-e-l?" demandèrent les villageois,  fixant l'étranger.
+P12	"Est-ce qu'il est nous appartient? Pouvons-nous le garder ici",  demanda Neno. Mais l'homme était déjà parti.
+
+images:
+
+illustrations/pages/10970.png
+illustrations/pages/10965.png
+illustrations/pages/10966.png
+illustrations/pages/10967.png
+illustrations/pages/10969.png
+illustrations/pages/10970.png
+illustrations/pages/10971.png
+illustrations/pages/10973.png
+illustrations/pages/10975.png
+illustrations/pages/10976.png
+illustrations/pages/10977.png
+illustrations/pages/10979.png
+illustrations/pages/10980.png
+
+translations:
+
+English (Translation)	Day We Saw the Rainbow	id=11142
+Kiswahili (Original)	Siku Tuliyouona Upinde	id=11139
+Portuguese (Translation)	O Arco-Íris Visita a Aldeia	id=18857

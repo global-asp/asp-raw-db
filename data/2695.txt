@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=2695&d=0&a=1
+id:	2695
+title:	Mokibo
+author:	Lorato Trok
+artist:	Catherine Groenewald
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2695.png
+desc:	Leboko ka ga mosetsana yo o ratang go bina. Se se ne se sa itumedise morutabana wa gagwe
+
+page_text:
+
+P1	Ke a bina fa ke itumetse,  Ke a bina fa ke tlhoname,  Ke a bina fa ke le bodutu,  Ke a bina fa ke kwatile.
+P2	Morutababa wa me a re,  "Nna fatshe! Se bine letsatsi lotlhe."
+P3	Mme mme wa me ena a re,  "Go bina go dira gore o dule o itekanetse,  Go dira gore o nne motelele,  Ka letsatsi lengwe o tlile go nna sebini,  Mme o ba gakgamatshe botlhe!"
+P4	Nna ke a re,  "Ka letsatsi lengwe ke tlile go bina mme batho ba tlile go duela Fela gore ba mpone ke tlola ebile ke dikologa" Ba tla re'O a kgatlhisa ebile o a itumedisa'.
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+English (Original)	Dancing	id=2183
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lusoga (Translation)	Okukina	id=8167
+Portuguese (Translation)	Dançando	id=12173

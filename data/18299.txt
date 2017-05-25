@@ -1,0 +1,97 @@
+url:	http://africanstorybook.org/reader.php?id=18299&d=0&a=1
+id:	18299
+title:	Khonani
+author:	Ramikosi Gudani Ramikosi Gudani
+artist:	Catherine Groenewald Catherine Groenewald
+lang:	TshivendaTshivenda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18299.png
+desc:	Iḓani
+
+page_text:
+
+P1	Your translated text
+P2	Nṋe ndi pfi Simo.
+P3	Your translated text
+P4	Ndi na khonani nṋa.
+P5	Your translated text
+P6	Madzina avho ndi Zizo,  Lele,  Sisa,  na-Ayanda.
+P7	Your translated text
+P8	Khonani yanga Zizo u takalela bola.
+P9	Your translated text
+P10	Khonani yanga Lele u takalela u bambela.
+P11	Your translated text
+P12	Khonani yanga Sisa u takalela u tamba mudzumbamo.
+P13	Your translated text
+P14	Khonani yanga Ayanda u takalela u vhala.
+P15	Your translated text
+P16	Nṋe? Ndi takalela zwoṱhe zwine vha funa u ita.
+P17	Your translated text
+P18	Ndi tamba bola na Zizo.
+P19	Your translated text
+P20	Ndi bambela na Lele.
+P21	Ndi tamba mudzumbamo na Sisa.
+P22	Iḓani khonani,  inwi ni funa zwifhio?
+P23	Iḓani,  ni tambe bola na riṋe.
+P24	Iḓani,  ni bambele na riṋe.
+P25	Iḓani,  ni tambe mudzumbamo na riṋe.
+P26	Iḓani,  ni vhale na riṋe!
+
+images:
+
+illustrations/pages/924.png
+illustrations/pages/8601.png
+illustrations/pages/925.png
+illustrations/pages/8600.png
+illustrations/pages/927.png
+illustrations/pages/8601.png
+illustrations/pages/926.png
+illustrations/pages/8602.png
+illustrations/pages/928.png
+illustrations/pages/8603.png
+illustrations/pages/1004.png
+illustrations/pages/8604.png
+illustrations/pages/933.png
+illustrations/pages/8605.png
+illustrations/pages/931.png
+illustrations/pages/8606.png
+illustrations/pages/929.png
+illustrations/pages/9857.png
+illustrations/pages/930.png
+illustrations/pages/8608.png
+illustrations/pages/932.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Tunisian (Translation)	Ṡuħàb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

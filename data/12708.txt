@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=12708&d=0&a=1
+id:	12708
+title:	Akinyang Na Anyamit Akoro
+author:	Simon Ipoo
+artist:	Wiehan de Jager
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12708.png
+desc:	Ekoi lo akinyang ana anyamit akoro.
+
+page_text:
+
+P1	Ayei kolong akinyang nanyamit akoro.
+P2	Asaki ng'esi akimuj wadio nabo ekililing'at.
+P3	PUU! Toporok akinyang!
+P4	Arumoret kaneni,  amam akoro anyamit ng'esi,  nabo talakar ng'esi.
+P5	Todol ni enyamia ng'esi akoro nabo.
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Afrikaans (Translation)	Die Honger Krokodil	id=11063
+Arabic (Translation)	التمساح الجائع	id=18188
+English (Original)	The Hungry Crocodile	id=7043
+French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
+Luganda (Translation)	Ggonya Omuyala.	id=9664
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
+Portuguese (Translation)	O Crocodilo Faminto	id=18889

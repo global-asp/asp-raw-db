@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13528&d=0&a=1
+id:	13528
+title:	Umdlalo Wokuphekana
+author:	Lunathi Ntunzi
+artist:	Reginaldo Vicente Manhice
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13528.png
+desc:	UMvundla umema umhlobo wakhe uNkawu ukuba bazodlala. Ingathi uMvundla uyawaqalile ngamaqhinga!
+
+page_text:
+
+P1	Kudala-dala,  umvundla nenkawu babengabahlobo. Ngenye imini,  ngexesha lendlala,  umvundla wamema umhlobo wakhe ukuba bazodlala.
+P2	Umvundla wathi,  "Masidlale ukuphekaphekana!" Inkawu yabuza,  "Sizakuyenza njani lonto?"
+P3	Ke ngoku umvundla waphendula,  "Kufuneka sibase umlilo."
+P4	Sigcwalise imbiza ngamanzi,  ke ngoku siyibeke emlilweni.
+P5	Mna ndiyakungena kuqala. Xa ndibetha isiciko sembiza,  uvule. Ngoku ndizokuphuma.
+P6	Inkawu yavuma ukuyenza lonto. Ngoko umvundla wangena kuqala embizeni,  amanzi eqala ukubila.
+P7	Umvundla wankqonkqoza,  inkawu yasivula isiciko.
+P8	Kodwa kuthe xa ilithuba lenkawu,  umvundla wathatha ilityekazi elikhulu,  walibeka phezu kwesiciko sembiza,  esakugqiba,  wahlala phezu kwaso.
+P9	Kuthe xa amanzi eqala ukubila,  inkawu yankqonkqoza,  kodwa umvundla akakhange asivule isiciko.
+P10	Ngoku inkawu yafa,  ke ngoku umvundla watya umhlobo wakhe!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/6681.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/6684.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/6689.png
+
+translations:
+
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The Cooking Game	id=6993
+English (Adaptation)	The Cooking Game - Colouring Book	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Adaptation)	Umdlalo Wokuphekana (Faka Imibala)	id=17564
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

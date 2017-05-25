@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=14279&d=0&a=1
+id:	14279
+title:	My Pet
+author:	Angela Yiaile
+artist:	Sonia Dearling and Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14279.png
+desc:	The story is about my pet.
+
+page_text:
+
+P1	My pet is called Koko. She is beautiful and friendly.
+P2	My brother Tom and I like playing with Koko. Mother likes watching us as we play with Koko.
+P3	Koko is so playful. She likes playing with her little sisters while her mother is asleep. I like watching 
+Koko play with her sisters.
+P4	My friends and I like watching Koko play with butterflies. Koko keeps us busy during our free time.
+P5	Everyone loves Koko. My brother Tom bought a present for Koko. I was very happy.
+P6	Koko is always clean. I like carrying her. She likes it too.
+
+images:
+
+illustrations/pages/13441.png
+illustrations/pages/9563.png
+illustrations/pages/13446.png
+illustrations/pages/13439.png
+illustrations/pages/13444.png
+illustrations/pages/13445.png
+illustrations/pages/13441.png
+
+translations:
+
+English (Adaptation)	My Cat Koko	id=17165

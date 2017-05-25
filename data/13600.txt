@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=13600&d=0&a=1
+id:	13600
+title:	Uzama Intombazanyana Ekhuluma Kakhulu
+author:	Zimbili Dlamini and African Storybook
+artist:	Jesse Breytenbach
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13600.png
+desc:	UKalabushe wayeyintomazane eyayinomusa  ekuthanda ukukhuluma. Loko ngelinye ilanga kwamfaka enkingeni
+
+page_text:
+
+P1	Emandulo kwakukhona intombazanyana,  igama layo kunguZama. UZama wayeyintombanyana ekhuluma kakhulu. Umama wakhe wayemxwayisile ngalokukhuluma kakhulu kwakhe. Kodwa uZama akazange amlalele umama wakhe.
+P2	Ngelinye ilanga uZama wagulelwa ngubabekazi wakhe owayehlala kwesinye isigodi esiseduze nabo.
+P3	Umama kaZama wayematasatasa kakhulu ngalelo langa. Kwabe sekuyintambama lapho umama wakhe ethuma uZama ukuthi ahambisele ubabekazi wakhe ogulayo ukudla.
+P4	Endleleni uZama wahlangana no Sgidi impisi. Eyayizishintshe yaba umuntu.
+P5	Impisi yambuza ukuthi uphetheni. UZama waphendula wathi, '' Inyama, amaqanda nobisi.'' Yize umama wakhe wayemxwayisile ukuthi angatsheli muntu ukuthi uphetheni.
+P6	UZama watshela impisi ukuthi uhambisela ubabekazi wakhe ogulayo ukudla. Impisi yaqala ukucabanga ngenyama eyayiphethwe uZama.
+P7	Yagijima ngejubane elikhulu imshiya ngemuva iya kubabekazi wakhe.
+P8	Impisi yafika yamgwinya ubabekazi wakhe yabe isizemboza ngengubo yakhe yokulala.
+P9	Ngesikhathi uZama efika kwakuthule cwaka endlini. Wangena ngaphakathi ememeza ethi, ''Babekazi ukuphi?''.
+P10	Uma engalizwa izwi lika babekazi wakhe wangena egumbini lakhe lokulala. Wamangala uma ebona umuntu ozemboze ngenkulu ingubo le.
+P11	''Babekazi kungani unezindlebe ezinkulu kangaka?'' kubuza uZama. USgidi impisi waphendula ngaphansi kwengubo wathi,  ''Khona ngizokuzwa kahle.''.
+P12	UZama wabuza futhi kubabekazi wakhe wathi, ''Kungani amehlo akho emakhulu kangaka?'' uSgidi waphendula wathi,  ''Khona ngizokubona kahle.''.
+P13	Ekugcineni uZama wabuza wathi,  ''Kungani unomlomo omkhulu kangaka namhlanje?'' USgidi waphendula wathi,  ''Khona ngizodla kahle.'' USgidi impisi wagxuma embhedeni wamgwinya uZama.
+P14	Ngenxa yokuthi uZama wayekhuluma kakhulu,  wakhuluma noma esesiswini sempisi uSgidi. Wayebuza imibuzo eminingi.
+P15	Ekugcineni uSgidi wayesekhathele imibuzo eminingi kaZama wanquma ukumhlanzela ngaphandle.
+P16	UZama nobabekazi wakhe basindiswa abantu bendawo. Kusukela ngalelo langa uZama akaphindanga wakhuluma kakhulu nabantu angabazi.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
+isiXhosa (Translation)	Unandipha Intombazana Elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

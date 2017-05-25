@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=18318&d=0&a=1
+id:	18318
+title:	Zwine Nda Zwi Takalela
+author:	Ramikosi Gudani
+artist:	Wiehan de Jager
+lang:	Tshivenda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18318.png
+desc:	Zwine na takalela u ita ndi zwifhio? (Bilingual Tshivenda and English.)
+
+page_text:
+
+P1	Ndi takalela u fhufha khadi na khonani dzanga. I enjoy skipping with my friend.
+P2	Ndi takalela u ṅwala maḽeḓere kha bodo. I enjoy writing letters on the board.
+P3	Ndi takalela u vhala bugu ire na zwifanyiso. I enjoy reading books with pictures.
+P4	Ndi takalela u ḽa mitshelo yo fhambananaho. I enjoy eating different fruit.
+P5	Ndi takalela u thusa hayani. I enjoy helping at home.
+P6	Ndi takalela u thetshelesa dzinganea dza mme anga. I enjoy listening to my mother's stories.
+P7	Ndi takalela u eḓela mbeteni muhulu. I enjoy sleeping on a big bed.
+P8	Zwi a ntakadza u ita izwi zwithu. Inwi vho ni takadzwa nga u ita mini? I enjoy doing these things. What do you enjoy doing?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+isiXhosa (Translation)	Ndiyakonwabela Ukwenza Izinto	id=17571
+isiZulu (Adaptation)	Engijabulela Ukukwenza	id=19595
+Portuguese (Translation)	Eu Gosto De Fazer	id=16567
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18001
+Setswana (Translation)	Ke Rata Go Dira Se	id=17652

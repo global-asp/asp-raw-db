@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=9949&d=0&a=1
+id:	9949
+title:	My Village
+author:	Wendy Parry
+artist:	Wiehan de Jager, Mario Kart, Laura Libertore, Vusi Malindi and Catherine Groenewald
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9949.png
+desc:	First sentence reader about a village in Uganda
+
+page_text:
+
+P1	I live in a village in Uganda called Kiwangala. It is a very nice village.
+P2	The children in the village like to go to school. We like our teachers.
+P3	We like to to read at school. We like to count numbers. 1, 2, 3, 4, 5!
+P4	We like to play with our friends. We play with our balls.
+P5	We like to eat banana's in our village.
+P6	We like to run after the pigs.
+P7	We like to play with our friends.
+
+images:
+
+illustrations/pages/1659.png
+illustrations/pages/9690.png
+illustrations/pages/9353.png
+illustrations/pages/9372.png
+illustrations/pages/7970.png
+illustrations/pages/2471.png
+illustrations/pages/6811.png
+illustrations/pages/8602.png
+
+translations:
+
+Amharic (Translation)	የኔ መንደር	id=14539
+Dhopadhola (Translation)	Piny Paran	id=18752

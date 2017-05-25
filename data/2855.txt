@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=2855&d=0&a=1
+id:	2855
+title:	Nditu Na Mbũthũ
+author:	Anna Kula
+artist:	Kathy Arbuckle
+lang:	Kikamba
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2855.png
+desc:	In this story we are asked to work out what is heavier and what is lighter.
+
+page_text:
+
+P1	Nĩ kyaũ kĩla kĩlitu,  Ngũkũ kana ĩvw'ĩa?
+P2	Nĩ kyaũ kĩla kĩvũthũ,  Nĩ ĩlaa kana nĩ kĩlikyo?
+P3	Nĩ kaana keva kalitu?
+P4	Nũũ ũla mũlitu,  nzou kana nau?
+P5	Ni kyaũ kĩla kĩlitu,  nĩ kilo kya maviaĩ.
+P6	Kana ngulamu ya simiti?
+P7	Ni kyaũ kĩla kĩlitu,  ni kilo kya sukalĩĩ.
+P8	 Kana ni kilo kya mavw'ĩa?
+
+images:
+
+illustrations/pages/1579.png
+illustrations/pages/1579.png
+illustrations/pages/1580.png
+illustrations/pages/1581.png
+illustrations/pages/1583.png
+illustrations/pages/1584.png
+illustrations/pages/1585.png
+illustrations/pages/1586.png
+illustrations/pages/1587.png
+
+translations:
+
+Kiswahili (Translation)	Nzito Na Nyepesi	id=2856
+Lunyole (Translation)	Ehisito N'ehyangu	id=2857
+Maa (Translation)	Enairóshi Ó Enánénéng	id=2744
+Ng’aturkana (Translation)	Apotis Ka Aooku	id=2858
+Oluwanga (Translation)	Obusiro Nende Obwangu	id=2859
+Setswana (Translation)	Boima Le Bofefo	id=2860
+Somali (Translation)	Culeeys 'yo Fudeeyd	id=17258
+Zande (Translation)	Raraihe Na Guhe Araa Nga Ya	id=16760

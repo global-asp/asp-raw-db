@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=18457&d=0&a=1
+id:	18457
+title:	ጆጆና ላሚቷ
+author:	ፋሲል አሰፋ (Fasil Assefa)
+artist:	Rob Owen and Catherine Groenewald
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18457.png
+desc:	ሕፃናት እንሰሶችን መውደድና መንከባከብን በልጅነታቸው መማር እንዳለባቸው የሚያሳይ ስእላዊ መፅሐፍ።
+
+page_text:
+
+P1	ጆጆ ትንሽ ልጅ ነዉ።
+P2	ጆጆ የሚኖረው ከእናቱ እና ከአንዲት ላም ጋር ነዉ።
+P3	ጆጆ ላሚቷን በጣም ይወዳታል።
+P4	ሁልጊዜ ጠዋት ጠዋትም የጆጆ እናት ላሚቷን ያልቧት ነበር።
+P5	ጆጆም ወተት በደንብ ይጠጣል።
+P6	ጆጆ ላሚቷን ወደ ግጦሽ ይወስዳታል።
+P7	ውሀም ከጉድጓድ እየቀዳ ያጠጣታል።
+P8	የጆጆ እናትም ማድ ቤት ውስጥ ምግብ ያበስላሉ።
+P9	ጆጆም ምግብ በደንብ ይመገባል።
+P10	ጆጆ እግር ኳስ ከጓደኛው ጋር ይጫወታል።
+P11	ጆጆ መፅሓፍቶችን ማንበብ ይወዳል።
+P12	ጆጆ ላሚቷን ተሰናብቶ ወደ መኝታው ሄደ።
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/7934.png
+illustrations/pages/7937.png
+illustrations/pages/7936.png
+illustrations/pages/7940.png
+illustrations/pages/7942.png
+illustrations/pages/7939.png
+illustrations/pages/7938.png
+illustrations/pages/8557.png
+illustrations/pages/7928.png
+illustrations/pages/7926.png
+illustrations/pages/7944.png
+illustrations/pages/7939.png
+
+translations:
+
+English (Original)	Jojo and Cow	id=8717
+Lunyole (Translation)	Jojo   N’Eŋombe	id=10016
+Sepedi (Translation)	Jojo Le Kgomo	id=10131

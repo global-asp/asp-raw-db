@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=8877&d=0&a=1
+id:	8877
+title:	Paka Mwerevu
+author:	Ursula Nafula
+artist:	Catherine Groenewald
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8877.png
+desc:	Bwana Kio ana paka mwerevu anayeitwa Safi.
+
+page_text:
+
+P1	Kijijini mwetu anaishi Bwana Kio. Bwana Kio ana paka anayeitwa Safi.
+P2	Bwana Kio anapoenda kazini,  anauacha mlango wazi.
+P3	Safi anaketi mlangoni na kuilinda nyumba.
+P4	Mbwa wa jirani akikaribia,  Safi anamkodolea macho na kumunyooshea kucha zake.
+P5	Mbwa anatoroka na kurudi kwao.
+P6	Jirani akiugusa malango,  Safi huwa tayari kumkwaruza.
+P7	Jirani anageuka mbio na kwenda zake.
+P8	Safi akihisi njaa,  anaufunga mlango ili aende kula.
+P9	Safi hula chakula chake kilichotayarishwa na Bwana Kio.
+P10	Akimaliza,  huruka juu ya sofa na kulala,  "Purr! Purr! Purr!"
+P11	Bwana Kio akirudi,  Safi hujinyoosha kwa furaha na kumlaki.
+P12	Bwana Kio na Safi wanaketi sebuleni,  kila mmoja akisoma gazeti.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever Cat	id=8878
+Sesotho (Lesotho) (Translation)	Katse E Bohlale	id=10622

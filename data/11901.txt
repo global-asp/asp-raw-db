@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=11901&d=0&a=1
+id:	11901
+title:	Enjojo N’E Nyapimpina
+author:	Lucy Kabasambu and Robert Kirisa
+artist:	Wiehan de Jager
+lang:	Rutooro
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11901.png
+desc:	Omukama akatekaha ekiragiro ekigumire muno.
+Bantu ekisembo kikaba kiri kuswera muharawe owarasiinga nooha Enjojo rundi Enyapimpina.
+
+page_text:
+
+P1	Obusumi bwaira muno mukikaali ekikooto hakaba bahaliyo omukama nomu harawe omurungi Batebe.
+P2	Enjojo yaikaraga munju harubaju rumu orwekikaali enyapimpina yaikaraga harubaju.
+P3	Mubwire obu hakaba haroho ekyanda kyamaani munsi yoona. Omukama akatunga ekitekerezo. Yayeta abatahibe babiri mukikaali.
+P4	Omukama yagambira enjojo nenyapimpina,  ninyenda inywe munsambire ensi nebigere byanyu kuhika amaizi gaizire. Omukama akaraganiza ekisembo ekya maani hali ogu arasingura.
+P5	Enyapimpina ekaba etaina kunihira nkoku ekaba eri nceke. Enjojo ekaba esemerrwe muno haabwokuba ekaba eri nkooto muno kandi Enjojo yagenda yatandika kusambirra ensi.
+P6	Ecuku nyingi yaija baitu amaizi gataije. Enjojo ekasamba ensi haburaho katoito amaizi kwija. Baitu ekaba ejwahire muno yahereza enyapimpina omugisa kulengaho.
+P7	Enyapimpina yatandika kusamba ensi hanyuma yobwire buke amaizi gaija. Abantu bataikirize ekibarozere namaiso gaabo.
+P8	Omukama yahereza Enyapimpina omuhara. Enjojo yataaha muka ebihirwe.
+
+images:
+
+illustrations/pages/9461.png
+illustrations/pages/9457.png
+illustrations/pages/9458.png
+illustrations/pages/9459.png
+illustrations/pages/9460.png
+illustrations/pages/9461.png
+illustrations/pages/9462.png
+illustrations/pages/9463.png
+illustrations/pages/9464.png
+
+translations:
+
+Dhopadhola (Translation)	Lyec Gi Ŋokino	id=15736
+English (Original)	Elephant and Chameleon	id=10455
+Kiswahili (Translation)	Ndovu Na Kinyonga	id=15616
+Portuguese (Translation)	O Elefante E O Camaleão	id=16414
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=10456
+Yoruba (Translation)	Eerin Àti Ọ̀gà	id=16556

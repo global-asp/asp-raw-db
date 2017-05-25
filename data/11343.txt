@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=11343&d=0&a=1
+id:	11343
+title:	'n Briefie Vir Mamma
+author:	Jenine van der Walt and Marise Malherbe
+artist:	Catherine Groenewald
+lang:	Afrikaans
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11343.png
+desc:	A mother is going to hospital to give birth and her daughter writes her a letter.
+
+page_text:
+
+P1	Mamma was besig om haar klere in 'n klein sakkie in te pak.
+P2	Terwyl sy by die deur uitgaan gee sy my 'n drukkie en sê,  "Totsiens vir nou."
+P3	"Waarheen is mamma op pad?" vra ek terwyl ek na haar kyk.
+P4	Ek het begin huil en wou haar graag volg maar pappa het my opgetel en op sy skouers gesit.
+P5	Pappa sê toe,  "Jou mamma gaan hospitaal toe om 'n babatjie te kry."
+P6	Toe ek die woord "baba" hoor,  hou ek op met huil en kyk na pappa. "Hoekom gaan mamma die baba by die hospitaal kry?" vra ek vir pappa.
+P7	Pappa sit my op 'n klein stoeltjie neer en sê,  "Ek sal jou vertel hoekom mamma die baba by die hospitaal gaan kry."
+P8	Pappa het my teen hom vas gedruk en gesê,  "Ons sal altyd lief wees vir jou."
+P9	"Kan ek vir mamma 'n briefie skryf terwyl sy in die hospitaal is?" vra ek vir pappa.
+P10	Daardie aand begin ek toe vir mamma 'n briefie skryf.
+P11	Ek skeur 'n stukkie papier uit my oefenboek en begin toe te skryf.
+P12	"Mamma,  pappa het gesê dat mamma hospitaal toe is om nog 'n baba huistoe te bring."
+P13	Maak asseblief gou en kom weer vinnig huistoe.
+P14	Ek wil graag 'n baba sussie hê sodat ek met haar kan speel wanneer sy ouer is.
+P15	Mamma kan maar twee babas bring dan kan een baba myne wees.
+P16	Ek sal buite die huis vir mamma wag.
+P17	Ek het my briefie opgevou sodat ek dit vir pappa kon gee om vir mamma te neem. Die volgende oggend toe ek wakker word was die briefie weg en mamma was terug!
+
+images:
+
+illustrations/pages/1503.png
+illustrations/pages/1504.png
+illustrations/pages/1505.png
+illustrations/pages/1506.png
+illustrations/pages/1507.png
+illustrations/pages/1508.png
+illustrations/pages/2133.png
+illustrations/pages/1509.png
+illustrations/pages/1510.png
+illustrations/pages/1511.png
+illustrations/pages/1512.png
+illustrations/pages/1513.png
+illustrations/pages/1514.png
+illustrations/pages/1503.png
+illustrations/pages/1515.png
+illustrations/pages/1516.png
+illustrations/pages/1517.png
+illustrations/pages/1518.png
+
+translations:
+
+Afrikaans (Translation)	Brief Aan Ma	id=11350
+English (Original)	Letter to Mum	id=2134
+isiZulu (Translation)	Incwadi Kamama	id=11513
+Kiswahili (Translation)	Barua Kwa Mama	id=2526
+Naro (Translation)	Tcgãyas Áís Koe Ko Síí Sa	id=16457

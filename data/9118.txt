@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=9118&d=0&a=1
+id:	9118
+title:	A House for Mouse
+author:	Michele Fry
+artist:	Amy Uzzell and Jennifer Jacobs
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9118.png
+desc:	Mouse tries out various places until he finds a comfortable spot to sleep.
+
+page_text:
+
+P1	Mouse was looking for a new house.
+P2	This looks like a nice house.
+P3	"You can come and sleep with me," said Puppy. "Thank you," said Mouse.
+P4	That night,  Mouse's dreams were bouncy and muddy.
+P5	"You can come and sleep with me," said Parrot.   "Thank you," said Mouse.
+P6	That night,  Mouse's dreams were noisy and wild.
+P7	"You can come and sleep with me," said Fish.   "Thank you," said Mouse.
+P8	That night,  Mouse's dreams were cold and wet.
+P9	Mouse needed somewhere warm and dry.
+P10	Mouse found a bookshelf nearby.
+P11	That night,  Mouse had warm and cosy dreams. Good night Mouse.
+
+images:
+
+illustrations/pages/8832.png
+illustrations/pages/8834.png
+illustrations/pages/8835.png
+illustrations/pages/8836.png
+illustrations/pages/8837.png
+illustrations/pages/8846.png
+illustrations/pages/8839.png
+illustrations/pages/8840.png
+illustrations/pages/8841.png
+illustrations/pages/8842.png
+illustrations/pages/8843.png
+illustrations/pages/8844.png
+illustrations/pages/8845.png
+
+translations:
+
+Amharic (Translation)	የአይጢት ቤት	id=12960

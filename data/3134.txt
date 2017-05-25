@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=3134&d=0&a=1
+id:	3134
+title:	Syindu Ila Nisi
+author:	Stephen Musyoka
+artist:	Michael Nakuwa
+lang:	Kikamba
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3134.png
+desc:	Different things that children are familiar with at home and in school.
+
+page_text:
+
+P1	Ii ni manyatta. Nivo kwitu. Nyumba yakwa yi nthini wa kisio kya Turkana.
+P2	Ii ni ngamile. Nthini wa kisio kya Turkana andu nimaithasya nyamu syi kivathukany'o. Ateo ngamile ni nyamu yendekete muno.
+P3	Aa ni alimu makwa. Nindete kuthi sukulu. Sukulu yakwa yitawa Lolupe. Ninendete mwalimu wakwa wa syindu sya useuvya na moko.
+P4	Ii ni meli. Meli ni nene. Itumikaa kwa kukua andu na miio kiwuni. Ngathi Mwambasa ni kwona meli.
+P5	Kii ni kitanda. Nau wanzeuvisye. Nikitumiaa na mwinawa wa munduume. Wiwaa nesa ukikomee.
+P6	Ii ni nzamba. Musyi twi nzamba ili. Na twi nguku mbiingi. Nilekasya matumbi maingi.
+P7	Ii ni mbia ni nyamu nzuku ni syisaa liu. Nisyanangaa ngua. Nisyetae mowau.
+P8	Ii ni ngiti. Ngiti ni nyamu sya musyi. Ngiti yiitu yitawa Daa. Ikumaa muno.
+P9	Uu ni mwavuli. Asyai makwa me mwavuli munene. Wina langi mutune,  mbuluu,  ilaa ya muuti na kisunzuni. Ila kwina mbua,  tutumiaa mwavuli twikauiwe.
+P10	Ni kilasi kya keli na ninisi syindu mbingi. Ningwenda kumanya ingi mbingi. Kila ndesi ngulasya musyai kana mwalimu.
+
+images:
+
+illustrations/pages/2550.png
+illustrations/pages/2551.png
+illustrations/pages/2552.png
+illustrations/pages/2553.png
+illustrations/pages/2554.png
+illustrations/pages/2550.png
+illustrations/pages/2555.png
+illustrations/pages/2556.png
+illustrations/pages/2557.png
+illustrations/pages/2558.png
+illustrations/pages/2559.png
+
+translations:
+
+Afrikaans (Translation)	Dinge Wat Ek Weet	id=11092
+English (Original)	Things I Know	id=2561
+French (Translation)	Les Choses Que Je Connais	id=12709
+Kiswahili (Translation)	Vitu Ninavyojua	id=3135
+Lunyole (Translation)	Ebiitu E Bimanyire	id=13619
+Maa (Translation)	Intokitín Náyíólo	id=2815
+Ng’aturkana (Translation)	Ng'iboro Lu Ayeni Ayong	id=3133
+Ng’aturkana (Translation)	Ngakuro Nayeni Ayong	id=9542
+Olukhayo (Translation)	Ebindu Bindmanya	id=3136
+Oluwanga (Translation)	Efindu Fia Ndamanya	id=3132
+Rutooro (Translation)	Ebintu Ebimanyire	id=14943
+siSwati (Translation)	Tintfo Lengitatiko	id=13061

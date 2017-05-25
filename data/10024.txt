@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=10024&d=0&a=1
+id:	10024
+title:	Namukhaywa
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Wiehan de Jager
+lang:	Fulfulde
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10024.png
+desc:	Gorko gooɗom no abba rewɓe 6
+
+page_text:
+
+P1	Waɗiinoo wakkati,  nder wuro Elunyiko niɗɗo gooɗom mbi'eteeɗo Ndonga jooddakeno e deekiiɗum ɗon,  imo wi'ee Namukaywa. Sukaaɓe joweego'o ɓe ndanyi ɗon; ɓe fuu rewɓe non.
+P2	Nde Namukaywa wonndunoo reedu suka muuɗum joweeɗiɗaɓo,  Ndonga sappanii mo: "Se a danyii suka debbo,  no haani majjaa. Ammaa se a danyii suka gorko,  mi waɗante juulɗe mawɗe!"
+P3	Wakkati danyol suka on ɓattinoo,  Namukaywa yehi to debbo kakkilaniiɗo rewɓe wonnduɓe deeɗi. Reedu gorko naa debbo njogii-mi?
+P4	O danyi gorko e debbo- funeeɓe! O innditiri gorko on Mukawana,  debbo on Mulongo. Nde o daarii Mukawana fuu sewo jippotoo dow makko. Ammaa,  nde o daarii Mulongo,  o weltintaa say ɓalinaango. O miiji huunde wo'otere hoddii ko waɗetee.
+P5	Namukaywa acci Mulongo to debbo kakkilaniiɗo sawɓe,  o yahri Mukawana to goriiko.
+P6	O holli Ndonga scukalel ngel nder welowelo. Huunde nden weli goriiko faa o noddi himɓe wuro ngon fuu ngara mbeltoo ngam o heɓii gorko.
+P7	Mukawana mawni,  laatii suka gorko lobbo. Mulongo duu mawni laatii suka debbo jom ᶇari.
+P8	Nyannde gooɗom,  nde o hilninoo jawdi abbiiko,  Mukawana yi'i suka debbo lobbo gooɗom. O wi'i nder ɓernde makko: "Oo woni debbo mo dewlan-mi."
+P9	Ko o ƴami faa o dewla o,  debbo naati no yima: "Mukawanawefwe,  Mukawna. So yakupawomunwa,  Mukawana. Nebebulawomukana,  Mukawna. Barulakakulwanda,  Mukawana. Nebebulawomusiyani,  Mukawana. Bareramungomuno,  Mukana. Iyeyiyakawa,  Mukawana. Iyindiyakawa,  Mukawana."
+P10	Ɗum ɗon waɗii kaden,  yeeƴitii waɗi kaden. Mukawana anndaa fuu ko waɗataa. Ndeen o yehi to inniiko,  Namukaywa. O wi'i: "Mi heɓii suka debbo lobbo,  miɗo yiɗi mi dewlap mo." Ammaa nde ngaddanmoo-mi filla dewgal ngal fuu,  jimol go'otol ngol o yimantaka.
+P11	Dow ko o miijaay,  Namukaywa wi'i mo,  "ko suka debbo on yimata no ngoonga. Bannda debbo non. On funeeɓe non. Gorko abba yiɗunoo,  o yiɗaanoo mi danya mo debbo. Saabe majjum waɗi ko ɗalu-mi bannda debbo to debbo kakkilaniio rewɓe sawɓe,  ngartinmaa-mi wuro."
+P12	Wakkati Mukawana fillantonoo abbiiɗum taariki on,  abba on annditi ko walaa ngoonga. O noddi Namukaywa ɓe njahidi to debbo kakkilaniiɗo sawɓe ɓen faa ɓe tewta Mulongo.
+P13	Wakkati Mulongo yottinoo wuru,  abbiiko e nayeeɓe wuro ngon kiirsi mbe'a nden ɓe ngaɗa ɗum fijo finaa-tawaa faa ɓe poonna Mulongo e banndiraaɓe muuɗum worɓe e rewɓe.
+P14	Ko waɗoynoo hitaande,  ɓii laamiiɗo wuro ngon dewli Mulongo. O waddani koreeji makko jawdi faa ɗuuɗi e hakkillo fukkiingo.
+
+images:
+
+illustrations/pages/5807.png
+illustrations/pages/5806.png
+illustrations/pages/5807.png
+illustrations/pages/5808.png
+illustrations/pages/5809.png
+illustrations/pages/5810.png
+illustrations/pages/5812.png
+illustrations/pages/5813.png
+illustrations/pages/5814.png
+illustrations/pages/5815.png
+illustrations/pages/5817.png
+illustrations/pages/5818.png
+illustrations/pages/5820.png
+illustrations/pages/5822.png
+illustrations/pages/5824.png
+
+translations:
+
+English (Original)	Namukhaywa	id=5859
+French (Translation)	Namukhaywa	id=9961
+Hausa (Translation)	Namukhaywa	id=9991
+Kanuri (Translation)	Fanna	id=10041
+Kiswahili (Translation)	Namukhaywa	id=7874
+Luganda (Translation)	Namukwaya	id=8312
+Lugbarati (Official) (Translation)	Àyákáká	id=8788
+Lumasaaba (Translation)	Mukhaye	id=8305
+Lunyole (Translation)	Namwima	id=8404
+Maa (Translation)	Namukhaywa	id=7875
+Ng’aturkana (Translation)	Namukhaywa	id=8457
+Setswana (Translation)	Dineo	id=7800
+siSwati (Translation)	Namukhaywa	id=13078
+Zarma (Translation)	Namukayya	id=10106

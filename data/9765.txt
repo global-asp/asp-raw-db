@@ -1,0 +1,34 @@
+url:	http://africanstorybook.org/reader.php?id=9765&d=0&a=1
+id:	9765
+title:	We Play to Learn
+author:	Jacan Oyenya Ismail
+artist:	Wiehan de Jager, Catherine Groenewald, N/A, Felicity Bell and Vusi Malindi
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9765.png
+desc:	Simple words and pictures of things used to play.
+
+page_text:
+
+P1	Ball.
+P2	Rope.
+P3	T-Shirt.
+P4	Netball goal post.
+P5	Football goal post.
+P6	See-Saw.
+P7	Swing.
+
+images:
+
+illustrations/pages/6037.png
+illustrations/pages/8622.png
+illustrations/pages/6038.png
+illustrations/pages/1735.png
+illustrations/pages/9762.png
+illustrations/pages/9763.png
+illustrations/pages/9764.png
+illustrations/pages/6104.png
+
+translations:
+

@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=13312&d=0&a=1
+id:	13312
+title:	Ebuu Lokarorokanan
+author:	Simon Ipoo
+artist:	Zablon Alex Nguku
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13312.png
+desc:	Apese na erumi ataaba
+
+page_text:
+
+P1	Alose kolong ng'apesur,  Alio ka Akiru aokun ng'akipi anang'olol.
+P2	Abong'unet,  tobur kechi alorot kiyang'asi anataaba anaapolon.
+P3	Asaki Alio anyoun alosit nawi,  nakaneni ikwa kirum ng'esi ataaba.
+P4	Kipung'ar Akiru nawi anyarare ata-ka-Alio.
+P5	Na adolunio itokeng nataaba,  toriamu Alio irumit ataaba kire.
+P6	"Adukokini ayong alaar kiriam ataaba nyelomuneta ng'itieng lu amoni," tolimok itokeng Alio.
+P7	Kong'ina,  toduk alaar kipeak ekidor epei bon,  lo itoruni ng'esi elomuni tooma.
+P8	Nakaneni,  adukeene Ebuu esemeene,  nabo apupeene ata-ka-Alio einuni ng'esi akimuj.
+P9	Toro ng'esi akitatama eos. Kitatami lokojokon ng'irwa nakaalak.
+P10	Tolimokis ng'itieng luche ng'esi atamar kiliko echut lo ariyet toeokinio ejok! Nakaneni kiliko ng'esi echut lo ang'olol bu toeok. Nyeng'aara ekidor.
+P11	Kiliko ng'esi echut lo ang'olol dio tobong'u toeok. Nakaneni nyeng'aara ekidor. Ekisidi kiliko echut lo ariyet.
+P12	Bu toeok,  tang'aar ekidor. Tanyam Ebuu ng'olo Alio.
+P13	Na abunio itokeng nabo,  toeok nikooyen. Nakaneni emam itwan ang'aa ng'esi.
+P14	Tanyara aberu ng'ina ekiriam ang'itiang kadaang. Kinokaki akim naapolon nadui. "Echakakin etiang'it lo anyami Alio nakim tonomia," tolimok ng'esi kechi.
+P15	Toporoporoto ng'itieng daang eosi:    "Ata-ka Alio - iouuu yah! Anikanyamit ikon koku,  achakakin nakim-na! Chi-gir-rr!" Todol apak na ekwee.
+P16	Topor ekwee,  dio akim kiwang'a ng'esi ekosim. Towaanik ng'esi tama,  kwa-a-ak!
+P17	Esal kech kadaang bu Ebuu. Napei epori ng'esi,  tachakakin nakim.
+P18	Towanik Ebuu esaki aking'arakino,  nakaneni amam ikeng'arakinan. Topetaros ng'itieng luche!
+
+images:
+
+illustrations/pages/6957.png
+illustrations/pages/6948.png
+illustrations/pages/6949.png
+illustrations/pages/6950.png
+illustrations/pages/6951.png
+illustrations/pages/6952.png
+illustrations/pages/6953.png
+illustrations/pages/6954.png
+illustrations/pages/6955.png
+illustrations/pages/6957.png
+illustrations/pages/6958.png
+illustrations/pages/6959.png
+illustrations/pages/6961.png
+illustrations/pages/6963.png
+illustrations/pages/6965.png
+illustrations/pages/6967.png
+illustrations/pages/6970.png
+illustrations/pages/6972.png
+illustrations/pages/7495.png
+
+translations:
+
+English (Original)	Greedy Hyena	id=7550
+Kiswahili (Translation)	Fisi Mlafi	id=15866
+Somali (Adaptation)	Waraabihii Dhooniga Ahaa	id=12405

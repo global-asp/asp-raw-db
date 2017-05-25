@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=11092&d=0&a=1
+id:	11092
+title:	Dinge Wat Ek Weet
+author:	Caitlin Chislett
+artist:	Michael Nakuwa
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11092.png
+desc:	Verskillende dinge waarmee kinders bekend is by die huis en by die skool.
+
+page_text:
+
+P1	Hierdie is 'n Manyatta. Dit is my huis. My huis is in Turkana,  Kenya.
+P2	Hierdie is 'n kameel. In Turkana hou mense baie verskillende diere aan. Maar die kameel is die belangrikste.
+P3	Hierdie is my onderwysers. Ek hou baie om skool toe te gaan. My skool se naam is Lolupe Laerskool. Ek hou baie van my kunsonderwyser.
+P4	Hierdie is 'n skip. Skepe is baie groot. Hulle word gebruik om mense en goedere op water te vervoer. As ek na Mombasa toe gaan,  sal ek 'n skip sien.
+P5	Hierdie is 'n bed. Ek hou van die bed wat my pa vir my gemaak het. Ek deel dit saam met my jonger boetie. Dit is baie gemaklik.
+P6	Hierdie is 'n haan. Ons het twee hane by die huis. Ons het ook baie henne. Die henne lê baie eiers.
+P7	Hierdie is 'n muis. Muise is 'n probleem. Hulle eet kos. Hulle vernietig ook klere. Hulle kan siektes veroorsaak.
+P8	Hierdie is 'n hond. Honde is troeteldiere. Ons hond se naam is Daa. Hy blaf baie.
+P9	Hierdie is 'n sambreel. My ouers het 'n groot sambreel. Dit is rooi,  blou,  oranje en groen. Waneer dit rëen gebruik ons die sambreel sodat ons nie nat word nie.
+P10	Ek is in Graad Twee en ek weet van baie dinge. Ek wil nog meer weet.
+
+images:
+
+illustrations/pages/2550.png
+illustrations/pages/2551.png
+illustrations/pages/2552.png
+illustrations/pages/2553.png
+illustrations/pages/2554.png
+illustrations/pages/2550.png
+illustrations/pages/2555.png
+illustrations/pages/2556.png
+illustrations/pages/2557.png
+illustrations/pages/2558.png
+illustrations/pages/2559.png
+
+translations:
+
+English (Original)	Things I Know	id=2561
+French (Translation)	Les Choses Que Je Connais	id=12709
+Kikamba (Translation)	Syindu Ila Nisi	id=3134
+Kiswahili (Translation)	Vitu Ninavyojua	id=3135
+Lunyole (Translation)	Ebiitu E Bimanyire	id=13619
+Maa (Translation)	Intokitín Náyíólo	id=2815
+Ng’aturkana (Translation)	Ng'iboro Lu Ayeni Ayong	id=3133
+Ng’aturkana (Translation)	Ngakuro Nayeni Ayong	id=9542
+Olukhayo (Translation)	Ebindu Bindmanya	id=3136
+Oluwanga (Translation)	Efindu Fia Ndamanya	id=3132
+Rutooro (Translation)	Ebintu Ebimanyire	id=14943
+siSwati (Translation)	Tintfo Lengitatiko	id=13061

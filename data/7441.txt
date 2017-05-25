@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=7441&d=0&a=1
+id:	7441
+title:	Tingi and the Cows
+author:	Ingrid Schechter
+artist:	Ingrid Schechter
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7441.png
+desc:	Grandmother saves Tingis life.
+
+page_text:
+
+P1	Tingi lived with his grandmother.
+P2	He used to look after the cows with her.
+P3	One day the soldiers came.
+P4	They took the cows away.
+P5	Tingi and his grandmother ran away.
+P6	They hid in the bush until night.
+P7	Then the soldiers came back.
+P8	Grandmother hid Tingi under the leaves.
+P9	One of the soldiers put his foot right on him,  but he kept quiet.
+P10	When it was safe,  Tingi and his grandmother came out.
+P11	They crept home very quietly.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Adaptation)	Tingi and the Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=9883&d=0&a=1
+id:	9883
+title:	N'wa Ndlovu Ni Makheli
+author:	Rafael Ernesto Samuel
+artist:	Amir Bachir António Necas
+lang:	Xitswa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9883.png
+desc:	How we must not upset the balance of nature.
+
+page_text:
+
+P1	A kali ka masiku a hosi ya khwati akuhi n'wa nghonyamu.
+P2	Yena a rumili a zvihari kasi za kota akuya miyeta a guwa gi nga kari gi zvala le tiveni lomu khwatini. Kanilezvi vona avazikotangi!
+P3	A ndlovu yiti hlawulili akuya miyeta a guwa. A ndlovu yi rumiwili akuya wonelela.
+P4	Laha ci kari ka wusiku a guwa ginu sangula,  hikumaha loku n'wa ndlovu nayenawu anu sangula aku dayela amakheli. Yena anuya a mahleni hiku dayela amandziku wa kona.
+P5	Hiku fambeni ka maviki yu kari,  n'wa hosi n'wa nghonyamu anu tsaka hikusa n'wa ndlovu azi kotili aku mbeta a guwa.
+P6	Kanilezvi a ndzaku ka hweti,  vona va wonili amabandzala hiku tsalangana ka wona lomu masin'wini ka vona.
+P7	N'wa hosi n'wa nghonyamu a rumili n'wa ndlovu kasi a vitana amakhele ma taga amabandzala.
+P8	N'wa ndlovu anu tala a hloku hikusa yena awa deli amakheli wothle. Aku ngalu: Rivalelu,  rivalelu,  nzi de-de-de-deli wothle!
+P9	A ndlovu yi celilwe a ci kanikisuweni a malembi yo tala.
+P10	Hikumaha loku,  a hosi yi beleli a nayu ka zvihari zonthle kasi ku zvi maha a hosi yi wulaku ka wothle a kama.
+
+images:
+
+illustrations/pages/8197.png
+illustrations/pages/8195.png
+illustrations/pages/8196.png
+illustrations/pages/8197.png
+illustrations/pages/8198.png
+illustrations/pages/8199.png
+illustrations/pages/8200.png
+illustrations/pages/8201.png
+illustrations/pages/8202.png
+illustrations/pages/8203.png
+illustrations/pages/8195.png
+
+translations:
+
+English (Original)	The Elephant and the Frogs	id=8204
+English (Adaptation)	The Elephant and the Frogs - Colouring Book	id=17443
+isiXhosa (Translation)	Undlovu Namasele	id=13376
+Kiswahili (Translation)	Ndovu Na Vyura	id=9480
+Portuguese (Translation)	O Elefante E As Rãs	id=8238

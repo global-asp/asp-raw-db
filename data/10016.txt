@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=10016&d=0&a=1
+id:	10016
+title:	Jojo   N’Eŋombe
+author:	Bukheye Mulongo Christopher
+artist:	Rob Owen and Catherine Groenewald
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10016.png
+desc:	jojo gali neghombe eyigenda obugaali.
+
+page_text:
+
+P1	Jojo museere muŋere.
+P2	Jojo amenyire ni nyina ko n'eŋombe.
+P3	Jojo genda eŋombe nago.
+P4	Hiisi mugamba maama wa jojo ahama eŋombe nago.
+P5	Jojo aŋiraayo amabeere.
+P6	Jojo aŋira eŋombe ohwaaya.
+P7	Jojo. Aŋa eŋombe nago amaaji.
+P8	Maama wa Jojo anyiiya ebiryo.
+P9	Jojo aŋomerwa ebiryo.
+P10	Jojo asamba omupiira ni meeriwe.
+P11	Jojo asoma ehitabo hihye.
+P12	Jojo aseebula eŋombe yaawe ng'aŋo atiina hu buliri ohuŋenyuha.
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/7934.png
+illustrations/pages/7937.png
+illustrations/pages/7936.png
+illustrations/pages/7940.png
+illustrations/pages/7942.png
+illustrations/pages/7939.png
+illustrations/pages/7938.png
+illustrations/pages/8557.png
+illustrations/pages/7928.png
+illustrations/pages/7926.png
+illustrations/pages/7944.png
+illustrations/pages/7939.png
+
+translations:
+
+Amharic (Translation)	ጆጆና ላሚቷ	id=18457
+English (Original)	Jojo and Cow	id=8717
+Sepedi (Translation)	Jojo Le Kgomo	id=10131

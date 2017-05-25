@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=8717&d=0&a=1
+id:	8717
+title:	Jojo and Cow
+author:	Isiira Patrick
+artist:	Rob Owen and Catherine Groenewald
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8717.png
+desc:	All children should learn to love and care their animals kept at home.
+
+page_text:
+
+P1	Jojo is a young boy.
+P2	Jojo living with his mother and a milk cow.
+P3	Jojo loves the cow.
+P4	Every morning Jojo's mother milks the cow.
+P5	Jojo takes the milk.
+P6	Jojo takes the cow to graze.
+P7	Jojo gives the cow the water.
+P8	Jojo's mother cooks food.
+P9	Jojo enjoys food.
+P10	Jojo plays the ball with his friend.
+P11	Jojo reads his book.
+P12	Jojo says bye to the cow and go to bed to sleep.
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/7934.png
+illustrations/pages/7937.png
+illustrations/pages/7936.png
+illustrations/pages/7940.png
+illustrations/pages/7942.png
+illustrations/pages/7939.png
+illustrations/pages/7938.png
+illustrations/pages/8557.png
+illustrations/pages/7928.png
+illustrations/pages/7926.png
+illustrations/pages/7944.png
+illustrations/pages/7939.png
+
+translations:
+
+Amharic (Translation)	ጆጆና ላሚቷ	id=18457
+Lunyole (Translation)	Jojo   N’Eŋombe	id=10016
+Sepedi (Translation)	Jojo Le Kgomo	id=10131

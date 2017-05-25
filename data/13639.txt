@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=13639&d=0&a=1
+id:	13639
+title:	Flies
+author:	Bukheye Mulongo Christopher
+artist:	Ethan Alberts, Wiehan de Jager, Rob Owen and Mango Tree
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13639.png
+desc:	This story talks about how a fly is dangerous.
+
+page_text:
+
+P1	Flies are insects.
+P2	Flies like living in dirty places.
+P3	In toilets, rubbish pits and on food.
+P4	Flies move from dirty places to our homes.
+P5	They fall on our food and make it dirty.
+P6	When one eats dirty food,  he gets stomach ache.
+P7	A flies are very dangerous.
+
+images:
+
+illustrations/pages/5294.png
+illustrations/pages/5294.png
+illustrations/pages/5299.png
+illustrations/pages/5302.png
+illustrations/pages/13574.png
+illustrations/pages/5526.png
+illustrations/pages/13371.png
+illustrations/pages/5294.png
+
+translations:
+
+isiZulu (Translation)	Impukane	id=7492
+Lunyole (Translation)	Esoŋera	id=12909
+Xitsonga (Translation)	Nhongana	id=14381

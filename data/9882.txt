@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=9882&d=0&a=1
+id:	9882
+title:	My Body
+author:	Rose Alungho
+artist:	Mlungisi Dlamini, Alice Toich, Marion Drew, Natalie Propa, Rob Owen, Jesse Breytenbach and Catherine Groenewald
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9882.png
+desc:	We can do many actions with our bodies
+
+page_text:
+
+P1	I can swim with it.
+P2	I can dance with it.
+P3	I can swing with it.
+P4	I can get eats using my body.
+P5	I can skip with it.
+P6	I can bath my doll with it.
+P7	I can make mats with it.
+P8	I can move with it but i can not fly with it.
+
+images:
+
+illustrations/pages/9853.png
+illustrations/pages/9848.png
+illustrations/pages/9068.png
+illustrations/pages/9319.png
+illustrations/pages/9842.png
+illustrations/pages/1627.png
+illustrations/pages/9365.png
+illustrations/pages/9609.png
+illustrations/pages/9493.png
+
+translations:
+
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Anywak (Translation)	Dëëra	id=17261
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+isiXhosa (Translation)	Umzimba Wam	id=7685
+Kikamba (Translation)	Mwii Wakwa	id=2934
+Kiswahili (Translation)	Mwili Wangu	id=12632
+Luganda (Translation)	Omubiri Gwange	id=2935
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Sepedi (Translation)	Mmele Waka	id=7854
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386
+Zande (Translation)	Kptore	id=12613

@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=6165&d=0&a=1
+id:	6165
+title:	Inyang and the Bird
+author:	Simon Ipoo
+artist:	Wiehan de Jager, Jemma Kahn, Catherine Groenewald, Kathy Arbuckle and Rijuta Ghate
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/6165.png
+desc:	A story of a Turkana herdboy who spent many days hungry away from home.
+
+page_text:
+
+P1	Inyang was a herd's boy.
+P2	One day….
+P3	… he was very hungry.
+P4	He got a bird.
+P5	And sent it home.
+P6	The bird flew.
+P7	And landed on the hut.
+P8	People heard the bird.
+P9	Food was cooked.
+P10	They took food.
+P11	Found him under the tree.
+P12	The cows had gone.
+P13	They fed him.
+P14	His father went for the cows.
+P15	Inyang ate enough.
+P16	Inyang and the cows were taken home.
+P17	The bird had saved Inyang!
+
+images:
+
+illustrations/pages/1872.png
+illustrations/pages/1607.png
+illustrations/pages/1132.png
+illustrations/pages/1866.png
+illustrations/pages/1872.png
+illustrations/pages/5878.png
+illustrations/pages/5879.png
+illustrations/pages/1853.png
+illustrations/pages/5612.png
+illustrations/pages/1652.png
+illustrations/pages/1713.png
+illustrations/pages/1867.png
+illustrations/pages/4512.png
+illustrations/pages/1928.png
+illustrations/pages/1520.png
+illustrations/pages/5664.png
+illustrations/pages/1607.png
+illustrations/pages/1872.png
+
+translations:
+
+English (Adaptation)	Inyang and the Bird	id=10169

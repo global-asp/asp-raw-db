@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=9467&d=0&a=1
+id:	9467
+title:	A Corrida
+author:	Jorge Eusébio Eusébio
+artist:	Amir Bachir António Necas
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9467.png
+desc:	Who will win if snail and rabbit have a race?
+
+page_text:
+
+P1	Era uma vez,  o coelho encontrou o caracol,  e lhe disse,  "tu não és capaz de correr! O que tu sabes é rastejar no solo."
+P2	Então,  o caracol disse,  "venha no domingo e tu verás."
+P3	O caracol preparou milhões de pedaços de papéis e escreveu algumas palavras por cada papel,  com a mesma mensagem em todos.
+P4	O caracol deu os papéis aos seus amigos e disse,  "quando o coelho vier me chamar,  um de vocês dirá,  "eu sou o caracol.
+P5	Lhes disse para se esconderem atrás da selva,  por onde o coelho e o caracol passarão.
+P6	No domingo o coelho chegou lá e encontrou o caracol e disse,  "vamos competir,  mas ganharei."
+P7	Naquele momento o caracol escondeu-se atrás da selva e deixou o coelho correr. Ao longo da corrida,  o coelho chamava,  "caracol,  caracol!"
+P8	E um dos caracóis escondidos na selva respondia,  "eu sou o caracol,  eu sou o caracol."
+P9	Finalmente,  o coelho estava muito cansado e sentou-se no chão e disse,  "caracol,  estou cansado e tu ganhaste."
+P10	Assim,  o caracol ganhou por causa da sua esperteza!
+
+images:
+
+illustrations/pages/9318.png
+illustrations/pages/9318.png
+illustrations/pages/9313.png
+illustrations/pages/9305.png
+illustrations/pages/9306.png
+illustrations/pages/9307.png
+illustrations/pages/9308.png
+illustrations/pages/9314.png
+illustrations/pages/9315.png
+illustrations/pages/9316.png
+illustrations/pages/9317.png
+
+translations:
+
+Ciyawo (Translation)	Kuwutuka	id=15740
+English (Original)	The Race	id=9299
+English (Adaptation)	The Race - Colouring Book	id=17546

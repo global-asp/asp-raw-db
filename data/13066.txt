@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=13066&d=0&a=1
+id:	13066
+title:	Imibala Yemushi Wenkhosatane
+author:	Nkosingiphile Crusentia Nkosi and Sebenzile Thelma Mathabela
+artist:	Jesse Breytenbach
+lang:	siSwati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13066.png
+desc:	Lendzaba isetfulela imibala yemushi wenkhosatane kanye netintfo longahle utibone emihleni yekuphila letingulemibala lena.
+
+page_text:
+
+P1	Umushi wenkhosatane unemibala lesikhombisa.
+P2	Umbala wekucala ubovu.
+P3	Kewyu ugcoke lihembe lelibovu.
+P4	Umbala wesibili uluphuti.
+P5	Leli li-olintji. Yini lokunye lokubonako lokunembala loluphuti?
+P6	Umbala wesitsatfu umtfubi.
+P7	Inhlitiyo yelicandza inembala lomtfubi.
+P8	Umbala wesine uluhlata.
+P9	Ingadze yetfu yabhanana iluhlata.
+P10	Umbala wesihlanu uluhlata sasibhakabhaka.
+P11	Sibhakabhaka siluhlata.
+P12	Umbala wesitfupha uyi-indigo.
+P13	Lawangema gumence lanembala lo-indigo.
+P14	Umbala wesikhombisa uphephuli.
+P15	Lilokwe lami liphephuli. Umbala lophephuli ngumbala lengiwutsandza kakhulu. Nguwuphi umbala lowutsandzako?
+P16	Ngabe uyayati imibala lesikhombisa yemushi wenkhosatane.
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Dhopadhola (Translation)	Lifudu nitye gi cal abiryo	id=19961
+English (Translation)	Colours of a Rainbow	id=10463
+English (Adaptation)	7 Colours of a Rainbow	id=19760
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+Kikamba (Translation)	Utathi	id=15419
+Kiswahili (Original)	Rangi Za Upinde	id=10442
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980

@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=11428&d=0&a=1
+id:	11428
+title:	Te Klein
+author:	Rebekah Lewis
+artist:	Sandy Lightly
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11428.png
+desc:	Lebo has grown out of all her clothes and they are now too small for her. What will she do with them?
+
+page_text:
+
+P1	"Ma!" roep Lebo. "Kom kyk. Hierdie klere is te klein vir my!" "Laat ek kyk," sê Ma.
+P2	"Kyk,  hierdie romp is te klein vir my," sê Lebo. "Ja,  dit is," sê Ma. "Jy kan die romp vir Nomsa gee."
+P3	"Kyk,  my denimbroek is ook te klein vir my," sê Lebo. "Ja,  dit is," sê Ma. "Jy kan dit vir Nomsa gee."
+P4	"Kyk,  my t-hemp is ook te klein," sê Lebo. "Ja,  dit is," sê Ma. "Nomsa kan jou t-hemp kry."
+P5	"Kyk,  my trui is ook te klein," sê Lebo. "Ja,  dit is," sê Ma. "Nomsa kan jou trui kry."
+P6	"Kyk,  my reënjas is ook te klein," sê Lebo. "Ja,  dit is," sê Ma. "Nomsa kan jou reënjas kry."
+P7	"Kyk,  my kouse is te klein," sê Lebo. "Ja,  hulle is," sê Ma. "Nomsa kan jou kouse kry."
+P8	"Kyk,  my tekkies is te klein vir my," sê Lebo. "Ja,  hulle is," sê Ma. "Nomsa kan jou tekkies kry."
+P9	"Nou het jy sommer baie klere,  Nomsa" sê Lebo. "O nee,  ek het nie," sê Nomsa. "Hierdie klere is almal te groot vir my!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+English (Original)	Too Small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani Khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane Izimpahla Zami	id=2504
+Kiswahili (Translation)	Ndogo Sana, Kubwa Sana	id=7877
+Luganda (Translation)	Ntono Nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Bibombi Naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ga Di Ntekane	id=2509
+Sesotho (Lesotho) (Translation)	Ha Li Ntekane	id=2512

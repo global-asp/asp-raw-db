@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=15786&d=0&a=1
+id:	15786
+title:	Jafonji Agwera
+author:	Owino Ogot and Athieno Gertrude
+artist:	Vusi Malindi
+lang:	Dhopadhola
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15786.png
+desc:	Kigana macek aka yot ma mako kwoŋ jafonji maber ma oasere.
+
+page_text:
+
+P1	Me jafonji mawan. I lwoŋo go ni Agwera. Go omaro wan swa.
+P2	Jafonji Agwera fonjo wan nyikuta. Anyalo waco nyikuta a,  e,  i,  o,  u.
+P3	Jafonji Agwera otyeko fonjo wan paka i lwoŋo cal: mobokere,  nyabululu,  nyabokependi,  nyatongweno gi macol.
+P4	I hongo ma ywomirok,  Jafonji Agwera wero riwan. Go wero wer ma rendo wan to wa nindo.
+P5	I tic acyel go gana riwan kwoŋ wasen macwo.
+P6	I tic acyel go gana riwan kwoŋ wasen mamon.
+P7	I tic adek go gana riwan kwoŋ gi woth.
+P8	I tic aŋwen go gana riwan kwong fur.
+P9	I tic abic Jafonji Agwera waco riwan ni wa gana ri wadi wan.
+P10	Jafonji mawan ber loyo jafonjii man je. Amito ni abedi paka Jafonji Agwera ka adwoŋ.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Bakafundisha Ba Akinyi	id=18586
+isiNdebele (Translation)	Utitjhere Nkosi	id=13043
+isiXhosa (Translation)	Utitshalakazi Uakinyi	id=14116
+isiZulu (Translation)	Uthisha Uzanele	id=13537
+isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
+Kimîîru (Original)	Mwarimu Makena	id=9688
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Tshivenda (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

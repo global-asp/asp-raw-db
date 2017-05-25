@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=11182&d=0&a=1
+id:	11182
+title:	Khoeli Le Kepisi
+author:	Khothatso Ranoosi
+artist:	Angie & Upesh
+lang:	Sesotho (Lesotho)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11182.png
+desc:	A little boy gets a blue cap from his mother. The wind blows the cap into a big tree and boy is very sad. At night someone surprising wears the cap
+
+page_text:
+
+P1	Kaofela reile raea Maseru moo ho rekisoang lintho tsengata.
+P2	Ntate oaka o reketse Rantsipe likhalase tsa mahlong tse qabolang. 'M'e oaka o nreketse kepisi e putsoa. Ngoana a fumana lipompong.
+P3	Ha kentse kele tseleng e eang hae,  hoa fihla moea oa sefefo oa fefola kepisi eaka e putsoa.
+P4	Kepisi eaka ea hakoa ke makhasi a sefate sa khale sa liperekisi.
+P5	Kalla ha bohloko. Ka seke kaja le lijo tsa mantsibuea.
+P6	Ha'mamorao bosiung ba tsatsing leo,  khoeli ea hlaha. Ea sheba kepisi eaka sefateng sa khale sa liperekisi.
+P7	Khoeli ena ea roala kepisi eaka. Ene e thabile haholo,  e bososela. Ka bososela lenna.
+P8	Kamora sekolo hore setsoe 'm'e oaka amfa kepisi entcha e khubelu. 'Khoeli e o romelletse eona, ' ho rialo 'm'e oaka.
+P9	Bosiung boo eaba nna le khoeli re roala likepisi tsa rona. Rene re thabile ebile re bososela.
+P10	O nahana hore letsatsi le lona le batla kepisi?
+P11	Ako leke hobatla hore na ke katiba efeng eeo keneng ke eroetse tsatsing lena.
+
+images:
+
+illustrations/pages/2137.png
+illustrations/pages/2138.png
+illustrations/pages/2139.png
+illustrations/pages/2141.png
+illustrations/pages/2142.png
+illustrations/pages/2143.png
+illustrations/pages/2144.png
+illustrations/pages/2145.png
+illustrations/pages/2146.png
+illustrations/pages/2147.png
+illustrations/pages/2148.png
+illustrations/pages/2150.png
+
+translations:
+
+Afrikaans (Translation)	Die Maan en Die Keps	id=11151
+English (Original)	The Moon and the Cap	id=2154
+French (Translation)	La Lune Et La Casquette	id=10858
+isiXhosa (Translation)	Inyanga Ne Kepisi	id=2236
+isiZulu (Translation)	Inyanga Nekepisi	id=2225
+Kiswahili (Translation)	Mwezi Na Kofia	id=2229
+Sepedi (Translation)	Ngwedi Le Kepisi	id=2231
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=2228
+Sesotho (Lesotho) (Translation)	Khoeli Le Kepisi	id=10365
+siSwati (Translation)	Inyanga Nekepisi	id=13044

@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=13780&d=0&a=1
+id:	13780
+title:	Ukududa
+author:	I Masango and R Khosa
+artist:	Alice Inzikuru
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13780.png
+desc:	Inyoka ifunda ukududa bese pheze yaqwila.
+
+page_text:
+
+P1	Ekadeni bekunabangani ababili,  iKghuru kanye neNyoka.
+P2	Ngelinye ilanga ikghuru yathi ku Nyoka,  "Asikhambe siyokududa."
+P3	Bakhamba baya edamini lokududa.
+P4	IKghuru yangena ngedamini lokududa. Inyoka yaqala amagadango weKhguru.
+P5	Ngemva kwesikhathi eside,  iNyoka yangena ngedamini iKghuru imlayela.
+P6	IKghuru neNyoka badudela edamini ekugcineni lapha kungatihingiko.
+P7	Bathoma bathaya ngemanzimi.
+P8	Bathi basathaya njalo,  IKghuru yathoma yaduda ngomhlana. Kwathi iNyoka isalingisela iKghuru ngendlela iduda ngayo,  INyoka khenge ikghone ukujika kuhle yathoma yaqwila.
+P9	Kwathi ukulemuka bonyana iNyoka inyamalele,  iKghuru ngokurhaba yangena ngaphasi kwamanzi yasindisa ipilo yeNyoka.
+P10	Ngemva ngokuhti iKghuru iphuma ngemanzini,  yaqalisa iNyoka phasi yenzelela ukuth inyoka ikhiphe amanzi ewagwinyileko.
+P11	Emaphethelweni,  iKghuru yasebenzisa indlela yomlomo kumlomo ukukhipha amanzi amanengi.
+
+images:
+
+illustrations/pages/9175.png
+illustrations/pages/9175.png
+illustrations/pages/9176.png
+illustrations/pages/9177.png
+illustrations/pages/9178.png
+illustrations/pages/9179.png
+illustrations/pages/9180.png
+illustrations/pages/9181.png
+illustrations/pages/9187.png
+illustrations/pages/9182.png
+illustrations/pages/9183.png
+illustrations/pages/9184.png
+
+translations:
+
+Afrikaans (Translation)	Skilpad Tot Die Redding!	id=11252
+Afrikaans (Translation)	Swem	id=11299
+Afrikaans (Translation)	Swem	id=11331
+English (Translation)	Swimming	id=9190
+French (Translation)	Allons Nager	id=10936
+Lugbarati (Original)	Yii Wezu	id=9189
+Rutooro (Translation)	Kuziha	id=14942
+Setswana (Translation)	Thuma	id=11482

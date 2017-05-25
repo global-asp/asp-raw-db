@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=9480&d=0&a=1
+id:	9480
+title:	Ndovu Na Vyura
+author:	Caren Echesa
+artist:	Amir Bachir António Necas
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9480.png
+desc:	How we must not upset the balance of nature.
+
+page_text:
+
+P1	Hapo kale,  mfalme wa mwitu alikuwa Bw. Simba.
+P2	Aliwatuma wanyama wake kukomesha kelele zilizotoka kwenye ziwa ndogo mwituni. Lakini hawakufaulu!
+P3	Ndovu alijitolea kukomesha. Ndovu alitumwa nje kuwa mlinzi.
+P4	Usiku wa manane kelele zilianza na ndovu akaanza kuua vyura. Alifanya vile vile siku iliyofuata.
+P5	Baada ya majuma kadhaa,  Mfalme Simba alikuwa mwenye furaha kwa kuwa ndovu alikomesha kelele.
+P6	Lakini baada ya mwezi,  waliona wadudu shambani mwao.
+P7	Mfalme Simba alimuuliza ndovu kuwaita vyura waende kuwala wadudu.
+P8	Ndovu alijawa na uoga kwa vile alikuwa amewaua wote. Alisema: Samahani,  samahani,  ni-li-waua wote!
+P9	Kisha Mfalme Simba alisema: Ndovu,  nilikuuliza kukomesha kelele,  siyo kuua vyura. Ndovu aliwekwa gerezani miaka mingi!
+P10	Mfalme aliwaambia wanyama wote wafanye kila alilosema wakati wote.
+
+images:
+
+illustrations/pages/8197.png
+illustrations/pages/8195.png
+illustrations/pages/8196.png
+illustrations/pages/8197.png
+illustrations/pages/8198.png
+illustrations/pages/8199.png
+illustrations/pages/8200.png
+illustrations/pages/8201.png
+illustrations/pages/8202.png
+illustrations/pages/8203.png
+illustrations/pages/8195.png
+
+translations:
+
+English (Original)	The Elephant and the Frogs	id=8204
+English (Adaptation)	The Elephant and the Frogs - Colouring Book	id=17443
+isiXhosa (Translation)	Undlovu Namasele	id=13376
+Portuguese (Translation)	O Elefante E As Rãs	id=8238
+Xitswa (Translation)	N'wa Ndlovu Ni Makheli	id=9883

@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=18668&d=0&a=1
+id:	18668
+title:	Maguru Apasa Mendo
+author:	Bether Mwale Moyo
+artist:	Wiehan de Jager
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18668.png
+desc:	Maguru anaganiza kuti apase nyama zonse mendo kuti nazo zizikondwela kuyenda monga antu.
+
+page_text:
+
+P1	Kale kale,  kunalibe nyama inali na mendo. Zonse nyama,  zinali kukalaba pansi.
+P2	Antu cabe,  ndiye amene anali na mendo. Cifukwa Maguru anapasa antu mendo.
+P3	Siku lina,  Maguru anganizila kupasa mendo kuvinyama vonse.     Anazunguluka munzi wonse anali kukuwilila kusewenzesa cokambilako.    Anali kufuna kuti nyama zonse ziziyenda monga antu.
+P4	Nyama zinakondwela kwambili pamene zinamvela kuti zizapasidwa mendo.    Nyama iliyonse inafuna kunkala na mendo kuti iziyenda na kutamanga.    Zinayamba kufendeza micila naku nyamula mapapiko mucisangalalo.
+P5	  Nyama zinabwela pamozi ndipo zinakambilana pakuvuta kokalaba. Doti inalikukwalaula mimba zao.    Mendo azatandiza kuimilila monga antu ndiponso kuona mwamena antu amaonela.
+P6	Pamene kunaca,  nyama zambili zinakalaba kuyenda kunyumba ya Maguru kutenga mendo. Nyamalikiti,  Nkalamu,  Njovu,  aKalulu,  Ng'wena na Mbalame zinapanga mundandanda kuyembekezela kuti zipasiwe mendo.
+P7	Nyama iliyonse inapasiwa mendo anayi.    Mbalame zinapasiwa mendo awili.
+P8	Vinyama vinasinta kaonekedwe namendo. Nyama zina zinavina nacisangalalo. Nyama zina zinakangiwa kuyenda ndipo zinali kugwa.
+P9	Nyama zinayenda kuzunguluka munzi ndiponso kudalila mendo kuonesa antu. Zonse nyama zinati "Sitizakabwezapo kukalaba."
+P10	Nyama inali yolekezela mumundandanda inali Bongololo. Maguru anafunsa,  "Kodi kuli ena amene akukonka mumbuyo?" "Ayi kulibe,  ndine womalizila," anayanka Bongololo.
+P11	Maguru anaganiza nati,  "Ngati kulibe ena,  kodi mendo yasala tizacita nayo cani?" Maguru anapasa Bongololo mendo yonse yanasalako.
+P12	Bongololo anayenda wosangalala kwambili cifukwa anatenga mendo yambili. "Nizayamba kuyendesa kupitilila wina aliyense," anaganiza.
+P13	Pamene cabe anayenda Bongololo,  Njoka inafika kunyumba kwa Maguru. "Maguru,  nipasenikoni naine mendo," Njoka inapempa.
+P14	"Napasa kudala yonse mendo,  nanga unali kuti?" anafunsa Maguru. "Nenze nagonelela," inayanka Njoka.
+P15	Maguru anasakila munyumba mwake kuti kapena munasalako mendo.    Koma sanapeze mendo aliyense.
+P16	Maguru anacoka panja nauza Njoka,  "Cangoipa Njoka koma kulibe mendo yasalako. Njoka inakalaba,  ndipo inabwelela kunyumba cilibe mendo. Kucokela ija siku,  njoka simagonelela. Masiku onse iyembekezela siku imene izakatenga mendo."
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+English (Original)	Maguru Gives Legs	id=14415
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+isiXhosa (Translation)	Umaguru Uphisa Ngemilenze	id=17576
+isiZulu (Translation)	Umaguru Uphisana Ngemilenze	id=16360
+isiZulu (Adaptation)	Umveli Unikela Ngemilenze	id=17461
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Kiswahili (Translation)	Maguru Apatiana Miguu	id=14412
+Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru O Fana Ka Maoto	id=20037
+Sesotho (South Africa) (Translation)	Maguru Deel Bene Uit	id=20083
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Tshivenda (Translation)	Maguru U Ṋekedza Milenzhe	id=18285
+Xitsonga (Translation)	Maguru a Phakela Milenge	id=18870

@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=10708&d=0&a=1
+id:	10708
+title:	Omusajja N'empologoma.
+author:	Ritah Katetemera and John Emongot
+artist:	Hélder de Paz Alexandre
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10708.png
+desc:	How a man escapes from certain death.
+
+page_text:
+
+P1	Edda ennyo, waliwo omusajja nga atambulira munsiko. Amangu ago yasisinkana empologoma!
+P2	Empologoma yali ewumulidde mu busubi obumpi mubudde obwobutiti.
+P3	Ensisinkano yali yamangu,  omusajja teyamanya kyakukola olw'okutya okungi.
+P4	Mukusooka, empologoma nayo yewuunya era n'etyamu. Naye yafunamu okuwuluguma mu lubuto lwayo kubanga enjala yali egiruma.
+P5	Mangu ddala, omusajja yesanga ali wagulu ku muti omuwanvu. Natandika okugirekanira nti,  genda!
+P6	Empologoma yagalamira wansi w'omuti ngerindirira ekijulokye. Okisera wekyayitawo, empologoma neyeebaka.
+P7	Mangu ddala omusajja yasooka neyeebaka, n'azukuka, naddamu n'asumagira,  neyebakira ddala.
+P8	Naye neyekkata kumugongo gw'empologoma eyali yeebase wansi w'omuti.
+P9	Bombi baazuukuka nga batabudwa ate nga batidde nnyo. Empologoma yerabira ekijjulo kyayo n'edduka okutasa obulamu.
+P10	Omusajja n'empologoma badduka nga badda kuluuyi lwe lumu. Oluvanyuma nakizuula nti,  yali adduka n'empologoma.
+P11	Awo n'akyusa obuufu n'awona okuliibwa empologoma.
+
+images:
+
+illustrations/pages/8180.png
+illustrations/pages/8180.png
+illustrations/pages/8181.png
+illustrations/pages/8182.png
+illustrations/pages/8184.png
+illustrations/pages/8188.png
+illustrations/pages/8189.png
+illustrations/pages/8190.png
+illustrations/pages/8191.png
+illustrations/pages/8192.png
+illustrations/pages/8193.png
+illustrations/pages/8194.png
+
+translations:
+
+English (Original)	Man and Lion	id=8205
+English (Adaptation)	Man and Lion - Colouring Book	id=17392
+English (Adaptation)	Manu and the Lion	id=18332
+Kiswahili (Translation)	Mtu Na Simba	id=12689
+Portuguese (Translation)	O Homem E O Leão	id=8207
+Xitswa (Translation)	A Wanuna Ni Nghonyamu	id=8729

@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=11482&d=0&a=1
+id:	11482
+title:	Thuma
+author:	Samantha Lee Herd and Judica Maheso
+artist:	Alice Inzikuru and Robert McEwan
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11482.png
+desc:	Kgang ka Khudu le Noga. Khudu ya raya Noga ya re a re ye go thuma. Ga simolola ga nna boima go Noga e nnwela mo metsing. Khudu ya falosa botshelo jwa Noga ka go jera molomo go molomo go ntsha metsi mo go Noga.
+
+page_text:
+
+P1	Ka nako e ngwe gone gona le ditsala,  Kundu le Noga.
+P2	Ka letsatsi le lengwe Khudu ya re go Noga,  "a re ye go thuma." "Ga re itse go thuma" ga araba Noga. "Ke tla go ruta" ga fetola Khudu.
+P3	Ba ya molapong. "Ke mang yo o tla tsenang pele?" ga botsa Khudu. "Tsena,  ke tla go lebelela go" araba Noga.
+P4	Khudu ya tsena pele,  mo molapong. Noga ya gata mo bonamelelong.
+P5	Morago ga nako,  Noga ya tsena mo molapong Khudu ya e bontsha.
+P6	Khudu le Noga tsa thuma moboteng jwa molapong.
+P7	Tsa simolola go thuma mo godimo gametsi.
+P8	Ga dintse di thuma Khudu ya simolola go thuma ka sa morago. Ya simolola go etsa Khudu,  Noga ka go thoka matsogo ya simolola go nwela.
+P9	Ka mogo Noga ya timelela,  Khudu ka bonako ya batla Noga mo metsing go e felosa.
+P10	Ka bonako Khudu ya tswa mo metsing go felosa Noga,  Khudu ya robatsa Noga ka dimpa go e felosa.
+P11	Ko bofelong,  Khudu ya dirisa molomo wa yona go ntsha metsi mo go Noga.
+
+images:
+
+illustrations/pages/9175.png
+illustrations/pages/9175.png
+illustrations/pages/9176.png
+illustrations/pages/9177.png
+illustrations/pages/9178.png
+illustrations/pages/9179.png
+illustrations/pages/9180.png
+illustrations/pages/9181.png
+illustrations/pages/9187.png
+illustrations/pages/9182.png
+illustrations/pages/9183.png
+illustrations/pages/9184.png
+
+translations:
+
+Afrikaans (Translation)	Skilpad Tot Die Redding!	id=11252
+Afrikaans (Translation)	Swem	id=11299
+Afrikaans (Translation)	Swem	id=11331
+English (Translation)	Swimming	id=9190
+French (Translation)	Allons Nager	id=10936
+isiNdebele (Translation)	Ukududa	id=13780
+Lugbarati (Original)	Yii Wezu	id=9189
+Rutooro (Translation)	Kuziha	id=14942

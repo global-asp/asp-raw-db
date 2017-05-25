@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=12655&d=0&a=1
+id:	12655
+title:	Reviens, Chat!
+author:	Gilles Falcone and Translators without Borders
+artist:	Karen Lilje
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12655.png
+desc:	Un chat sournois a des problèmes avant la sieste.
+
+page_text:
+
+P1	Reviens,  chat! Joue avec moi.
+P2	Assieds-toi dans le panier. Reste là!
+P3	Reviens,  chat! C'est beaucoup trop haut.
+P4	Reviens,  chat! Ne va pas dehors.
+P5	Reviens,  chat! Ce n'est pas à toi.
+P6	Reviens,  chat! Qu'est-ce que tu as trouvé?
+P7	Reviens,  chat! Ce n'est pas ton ami!
+P8	Salut,  chat! Te revoilà?
+P9	Reste dans ton panier. C'est l'heure de la sieste maintenant.
+P10	Chat?
+
+images:
+
+illustrations/pages/8059.png
+illustrations/pages/9122.png
+illustrations/pages/9121.png
+illustrations/pages/9123.png
+illustrations/pages/9124.png
+illustrations/pages/8061.png
+illustrations/pages/8062.png
+illustrations/pages/8063.png
+illustrations/pages/8064.png
+illustrations/pages/8065.png
+illustrations/pages/8066.png
+illustrations/pages/8067.png
+illustrations/pages/8068.png
+
+translations:
+
+Afrikaans (Translation)	Kom Terug, Kat	id=11171
+Amharic (Translation)	ተመለሽ ድመቴ	id=11781
+English (Translation)	Come Back, Cat	id=9125
+Lámnsoʼ (Translation)	Pùúr Kfə́n É Bàm	id=15063
+Yoruba (Translation)	Padà Wá, Olóńgbò	id=11209

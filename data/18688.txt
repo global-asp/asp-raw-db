@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=18688&d=0&a=1
+id:	18688
+title:	Pus Ma Ryek
+author:	Owino Ogot
+artist:	Catherine Groenewald
+lang:	Dhopadhola
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18688.png
+desc:	Kigana me mako kwoŋ pus ma ofonji kula maber.
+
+page_text:
+
+P1	I calo mawan nitye Jadwoŋ ma i lwoŋo ni Dibworo. Dibworo nitye gi pus ma akol. I lwoŋo ni Olonyo.
+P2	Ka Jadwoŋ Dibworo kidho tic,  go weyo thigo ma ku cego.
+P3	Olonyo bedo i dho ot to kuro ot pa Jadwoŋ Dibworo.
+P4	Ka gwok pa jager obino,  Olonyo neno ma omoro amora waŋe.
+P5	Ka gwok oneno ŋweco aŋweca ma doko ku ŋiyo cen. Aka doko ki dwoki.
+P6	Jager ma olimbo,  nwaŋo Olonyo pa nende oyikere ayika ma gwaro go.
+P7	Ka jager oneno ameno wire awira to ŋweco kadho. Aka doko ki dwoki.
+P8	Ka Olonyo winjo kec neko,  dhiro thigo gi lwete to diyo matek.
+P9	Go gik i ot to bedo piny to mwole. Nyaka to camo cemo.
+P10	Ka Olonyo ocowo,  por i kom ma yom to nindo. Kenyo onyo iwinjo nyaka ka ywe ni,  "Purr! Purr! Purr!"
+P11	Ka Jadwoŋ Dibworo odwoko,  Olonyo twenyere gi kisangala to jolo go.
+P12	Jadwoŋ Dibworo kodi Olonyo jo bedo cegin gi mac to kis dhano soma papila.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+English (Translation)	Clever Cat	id=8878
+Kiswahili (Original)	Paka Mwerevu	id=8877
+Sesotho (Lesotho) (Translation)	Katse E Bohlale	id=10622

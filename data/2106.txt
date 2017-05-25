@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=2106&d=0&a=1
+id:	2106
+title:	Ninafurahi - I Enjoy
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/2106.png
+desc:	Hadithi katika lugha mbili inayoelezea vitu vyote ambavyo msichana mdogo anafurahia kutenda.
+
+page_text:
+
+P1	I enjoy skipping. Ninafurahi kuruka.
+P2	I enjoy skipping rope alone. Ninafurahi kuruka peke yangu.
+P3	I enjoy skipping with my friend. Ninafurahi kuruka na rafiki yangu vile vile.
+P4	I enjoy reading interesting stories. Ninafurahi kusoma hadithi za kuvutia.
+P5	I enjoy walking in the field with my friends. Ninafurahi kutembea uwanjani pamoja na marafiki zangu.
+P6	I enjoy washing dishes to help at home. Ninafurahi kumwoshea mama vyombo.
+P7	I enjoy writing big letters which I can read easily. Ninafurahi kuandika herufi kubwa ambazo ninaweza kusoma kwa urahisi.
+P8	I enjoy eating different fruits. Ninafurahi kula matunda ya aina tofauti.
+P9	I enjoy sleeping on a big bed. Ninafurahi kulala kwenye kitanda kikubwa.
+P10	I enjoy listening to my mother's interesting stories. Ninafurahi kusikiliza hadithi za mama za kuvutia.
+P11	I enjoy doing all these things!Aah! Ninafurahi kuruka,  kusoma,  kuandika,  kula matunda,  kutembea pamoja na marafiki,  kuosha vyombo na kusikiliza hadithi!
+
+images:
+
+illustrations/pages/1492.png
+illustrations/pages/1493.png
+illustrations/pages/1494.png
+illustrations/pages/1495.png
+illustrations/pages/1496.png
+illustrations/pages/1497.png
+illustrations/pages/1498.png
+illustrations/pages/1499.png
+illustrations/pages/1500.png
+illustrations/pages/1501.png
+illustrations/pages/1492.png
+illustrations/pages/1502.png
+
+translations:
+
+English (Translation)	Ndikonda	id=7774
+English (Adaptation)	I Like	id=10430
+English (Adaptation)	I Enjoy Doing	id=15274
+English (Translation)	Cilandikonda - I Enjoy	id=16451
+French (Translation)	Je M'amuse - I Enjoy	id=9769
+Luganda (Translation)	Nyumirwa	id=8284
+Lugbarati (Official) (Translation)	Álèàvásɨ̀	id=8785
+Lumasaaba (Translation)	Niwulila Bulayi	id=8285
+Lunyole (Translation)	Ese Nyumirwa	id=8400
+Maa (Translation)	Káshípákíno	id=7869
+Ng’aturkana (Translation)	Alakarikina	id=8449
+Oluwanga (Translation)	Ndachama	id=8283
+Rutooro (Translation)	Ngonza - I Enjoy	id=9484
+Tunisian (Translation)	Yiġjibni - I Enjoy	id=15382

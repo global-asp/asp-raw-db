@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=11209&d=0&a=1
+id:	11209
+title:	Padà Wá, Olóńgbò
+author:	Taiwo Ẹhinẹni
+artist:	Karen Lilje
+lang:	Yoruba
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11209.png
+desc:	Olóńgbò àrékérekè kan kó sí wàhálà kí ó tó di àkókò à ti sùn.
+
+page_text:
+
+P1	Padà wá,  olóńgbò! Ṣeré pẹ̀lú mi.
+P2	Jòkó sínú apẹ̀rẹ̀ rẹ. Dúró síbí!
+P3	Padà wá,  olóńgbò! Ọ̀nà yẹn ti ga jù.
+P4	Padà wá,  olóńgbò! Má lọ síta.
+P5	Padà wá,  olóńgbò! Iyẹn kì í ṣe tìrẹ.
+P6	Padà wá,  olóńgbò! Kí ni o ní?
+P7	Padà wá,  olóńgbò! Iyẹn kì í ṣe ọ̀rẹ́ rẹ.
+P8	Báwo ni,  olóńgbò! Ṣé o ti padà?
+P9	Dúró sínú apẹ̀rẹ̀ rẹ. Àkókò oorun ti yá.
+P10	Olóńgbò?
+
+images:
+
+illustrations/pages/8059.png
+illustrations/pages/9122.png
+illustrations/pages/9121.png
+illustrations/pages/9123.png
+illustrations/pages/9124.png
+illustrations/pages/8061.png
+illustrations/pages/8062.png
+illustrations/pages/8063.png
+illustrations/pages/8064.png
+illustrations/pages/8065.png
+illustrations/pages/8066.png
+illustrations/pages/8067.png
+illustrations/pages/8068.png
+
+translations:
+
+Afrikaans (Translation)	Kom Terug, Kat	id=11171
+Amharic (Translation)	ተመለሽ ድመቴ	id=11781
+English (Translation)	Come Back, Cat	id=9125
+French (Translation)	Reviens, Chat!	id=12655
+Lámnsoʼ (Translation)	Pùúr Kfə́n É Bàm	id=15063

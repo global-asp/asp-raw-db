@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=9259&d=0&a=1
+id:	9259
+title:	Kalabushe, Chiriku
+author:	Gaspah Juma
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9259.png
+desc:	Kalabushe ni mcheshi
+
+page_text:
+
+P1	Hapo kale,  paliishi msichana kwa jina Kalabushe. Kalabushe alikuwa chiriku. Alionywa na mamake kutozungumza sana,  lakini hakusikia.
+P2	Siku moja,  shangaziye Kalabushe,  aliyeishi ng'ambo ile ya kijiji cha Kalabushe,  aliugua.
+P3	Mamake Kalabushe alikuwa na shughuli nyingi siku hiyo. Kalabushe alipopewa chakula kumpelekea shangaziye,  tayari ilikuwa jioni.
+P4	Njiani,  Kalabushe alikutana na fisi kwa jina Sinsou. Sinsaou alikuwa amegeuka kuwa mtu.
+P5	Sinsou alimwuliza alichobeba. Kalabushe alijibu,  "Nimebeba nyama,  mayai na maziwa." Kalabushe alikuwa ameonywa kutosema alichobeba.
+P6	Kalabushe vile vile alimwambia Sinsou kuwa shangaziye alikuwa mgonjwa na kwamba alikuwa anampelekea chakula. Sinsou alidondokwa mate alipofikiria juu ya nyama aliyobeba Kalabushe.
+P7	Haraka haraka,  Sinsou alikimbia mbele. Alienda katika nyumba ya shangaziye Kalabushe na kusubiri.
+P8	Alimmeza shangaziye Kalabushe kisha akajigubika blanketi lake.
+P9	Kalabushe alipowasili,  nyumba ilikuwa kimya kabisa. Aliingia ndani na kuita,  "Shangazi,  uko wapi?"
+P10	Kalabushe hakusikia sauti ya shangaziye. Aliingia ndani ya chumba ambamo kawaida shangaziye alilala. Alishangaa alimpomwona mtu amejigubika blanketi.
+P11	"Shangazi,  mbona masikio yako ni makubwa sana leo?" Kalabushe aliuliza. Sinsou alijibu kutoka ndani ya lile blanketi kubwa,  "Ili niweze kukusikia vyema."
+P12	Kalabushe aliuliza tena,  "Shangazi,  mbona macho yako ni makubwa sana leo?" Sinsou alijibu,  "Ili niweze kukuona vyema."
+P13	Mwishowe Kalabushe aliuliza,  "Shangazi,  mbona mdomo wako ni mkubwa sana leo?" Sinsou alijibu,  "Ili niweze kukumeza." Kisha Sinsou aliruka na kummeza Kalabushe.
+P14	Kwa vile Kalabushe alipenda kuongea sana,  alizidi kuzungumza na kuuliza maswali mengi hata alipokuwa ndani ya tumbo lake Sinsou.
+P15	Mwishoni,  Sinsou alichoshwa na maswali mengi ya Kalabushe akaamua kumtema nje.
+P16	Kalabushe na shangaziye waliokolewa na wanakijiji. Tokea siku ile,  Kalabushe alikoma kuzungumza sana na watu waliokuwa wageni kwake.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the Talkative	id=9526
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
+isiXhosa (Translation)	Unandipha Intombazana Elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane Eyayikuthanda Ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Adaptation)	Chiriku	id=18417
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

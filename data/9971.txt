@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=9971&d=0&a=1
+id:	9971
+title:	Wani Mutum Mai Ƙirma
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Catherine Groenewald
+lang:	Hausa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9971.png
+desc:	Wannan labarin wani babban mutum ne wanda duk abin da yake kewaye da shi ƙarami ne kuma gajere  ne. sai ya ciyo kan matsalar ta hanyar ƙera abubuwan da suka yi daidai da tsayinshi.
+
+page_text:
+
+P1	Gatarinshi ƙarami ne ƙwarai.
+P2	Ƙofar ɗakinshi ta yi ƙasa ƙwarai.
+P3	Gadonshi ya yi gajerta ƙwarai.
+P4	Kekenshi ƙarami ne ƙwarai.
+P5	Wannan mutumen babban ne ƙwarai.
+P6	Ya ƙera wata babbar ƙota ta gatarinshi.
+P7	Ya ƙara girman ƙofarshi.
+P8	Ya ƙera wani babban gado.
+P9	Ya sayi wani keke mai tsawo.
+P10	Ya zamna saman wata babbar kujera kuma ya ci abinci da wata babbar koshiya.
+P11	Ya bar gidanshi kuma ya koma cikin babban kurmi. Ya yi ruyuwarshi tsawon shekaru da dama.
+
+images:
+
+illustrations/pages/309.png
+illustrations/pages/309.png
+illustrations/pages/310.png
+illustrations/pages/311.png
+illustrations/pages/314.png
+illustrations/pages/313.png
+illustrations/pages/316.png
+illustrations/pages/315.png
+illustrations/pages/317.png
+illustrations/pages/318.png
+illustrations/pages/319.png
+illustrations/pages/320.png
+
+translations:
+
+Afaan Oromo (Translation)	Namicha Baayyee Dheeraa	id=12955
+Afrikaans (Translation)	'n Baie Lang Man	id=11260
+Afrikaans (Translation)	'n Baie Lang Man	id=11370
+Arabic (Translation)	الرجل ذو القامة الطويلة	id=10122
+Aringati (Translation)	Ágóbí Ázó Mbílíkó Rĩ	id=9280
+Dhopadhola (Translation)	Nyicwo Ma Bor Tektek	id=18686
+English (Original)	A Very Tall Man	id=918
+French (Translation)	Un Homme Très Grand	id=9923
+French (Translation)	Un Très Grand Bonhomme	id=12615
+Fulfulde (Translation)	Gorko Mawnuɗo Sanne	id=10002
+Gurene (Translation)	Budaa N Ba’Am Wↄgε	id=12662
+isiXhosa (Translation)	Indoda Ende Kakhulu	id=19288
+isiZulu (Translation)	Indoda Ende Elingana Nendlulamithi	id=3491
+Kakwa (Translation)	Ŋ Utu Laga a Lojo	id=9281
+Kanuri (Translation)	Kam Adǝ Dadua	id=10031
+Kiswahili (Translation)	Mwanamme Mrefu	id=1176
+Lámnsoʼ (Translation)	Wír Wo Wù Dàrìn É Ŋàŋ	id=16445
+Likpakpaanl (Translation)	Uja Fɔfɔk Uba	id=18775
+Luganda (Translation)	Omusajja Omuwanvu Ennyo	id=8720
+Lugbarati (Translation)	Agu Azi Izu Ni	id=2329
+Lugbarati (Official) (Translation)	Ágʉ̀pɨ́ Ɨ́zʉ̀ Rɨ́	id=8780
+Lumasaaba (Translation)	Umusaani Umuleeyi Naabi	id=3004
+Lunyole (Translation)	Omusinde Omuleŋi Obugali	id=2330
+Lusoga (Translation)	Omusaadha Omuleeyi  Einho	id=919
+Setswana (Translation)	Monna O Motelele-Telele	id=2331
+Shona (Translation)	Murume akarebesa	id=19953
+Yoruba (Translation)	Ọkùnrin Gíga Púpọ̀ Kan	id=10688
+Zarma (Translation)	Gorzo	id=10098

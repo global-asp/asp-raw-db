@@ -1,0 +1,25 @@
+url:	http://africanstorybook.org/reader.php?id=11109&d=0&a=1
+id:	11109
+title:	Abangani Abakhulu Ababili
+author:	Thembekile Elina
+artist:	Wiehan de Jager and Jemma Kahn
+lang:	isiNdebele
+level:	Read aloud
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11109.png
+desc:	Indatjana le ikhuluma ngabangani abakhulu ababili ebathi basayokukweriyela umnganabo omunye
+
+page_text:
+
+P1	Ubaba uSaucepan nobaba uPot bebabangani abakhulu begodu bebahlala bathabile iminyaka eminengi.
+P2	Ngelinye ilanga ubaba uSaucepan watjela ubaba uPot bonyana bakhambe bayokukweriyela umnganabo omunye ubaba uPlate.
+
+images:
+
+illustrations/pages/5514.png
+illustrations/pages/5514.png
+illustrations/pages/5525.png
+
+translations:
+
+English (Original)	Two Good Friends	id=5566

@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=18438&d=0&a=1
+id:	18438
+title:	Heavy and Light
+author:	Kholeka Mabeta
+artist:	Kathy Arbuckle
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18438.png
+desc:	In this story we are asked to work out what is heavier and what is lighter.
+
+page_text:
+
+P1	What is heavier? The chicken or the feather?
+P2	What is lighter? The flower or the corn?
+P3	Which baby is heavier?
+P4	Who is heavier,  elephant or dad?
+P5	Which is heavier? A kilo of stones?
+P6	Or a gram of cement?
+P7	Which is heavier? A kilo of sugar?
+P8	Or a kilo of feathers?
+
+images:
+
+illustrations/pages/1579.png
+illustrations/pages/1579.png
+illustrations/pages/1580.png
+illustrations/pages/1581.png
+illustrations/pages/1583.png
+illustrations/pages/1584.png
+illustrations/pages/1585.png
+illustrations/pages/1586.png
+illustrations/pages/1587.png
+
+translations:
+
+isiZulu (Original)	Okusindayo Nokulula	id=1878

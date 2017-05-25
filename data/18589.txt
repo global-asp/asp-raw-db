@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18589&d=0&a=1
+id:	18589
+title:	Vintu Vamene Nikonda Kucita
+author:	Bether Mwale Moyo
+artist:	Wiehan de Jager
+lang:	CiNyanja
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18589.png
+desc:	Nanga iwe ukonda kucita cani?
+
+page_text:
+
+P1	Nikonda kujumpa nantambo na munzanga.
+P2	Nikonda kulemba pa bodi.
+P3	Nikonda kuwelenga mabuku amene ali na vitunzi tunzi.
+P4	Nikonda kudya visepo vosiyana siyana.
+P5	Nikunda kutandiza kugwila ncito za panyumba.
+P6	Nikonda kunvela tu ntano twa amai.
+P7	Nikonda kugona pa bedi ikulu.
+P8	Nikonda kucita vintu ivi. Nanga iwe ukonda kucita cani?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat Ek Graag Doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I Enjoy Doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18984
+Sesotho (South Africa) (Translation)	Ke Rata Ho Etsa 	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18986
+Xitsonga (Translation)	Ndzi Rhandza Ku Endla	id=18875

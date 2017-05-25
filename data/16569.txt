@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=16569&d=0&a=1
+id:	16569
+title:	Jaaka O Pescador
+author:	Translators without Borders and Marcella Lang
+artist:	Zablon Alex Nguku
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16569.png
+desc:	Uma descrição da vida de um dedicado pescador do Nilo.
+
+page_text:
+
+P1	Este é Jaaka,  o pescador de Naminya.
+P2	Ele pesca no rio Nilo.
+P3	Ele tem um barco,  uma rede de pesca e um anzol.
+P4	Ele sempre acorda muito cedo pela manhã para pegar a perca do Nilo.
+P5	Por volta das 10h,  ele está vendendo seu pescado no mercado central Jinja.
+P6	Jaaka o que aconteceu? Foi uma perda? Ele está tão triste.
+P7	"Hoje,  a situação está ruim. A brisa do Nilo não me deixa pescar. E uma perca fugiu com o meu anzol."
+P8	"Mas eu tenho esperança de que amanhã será bom,  porque comprei um novo anzol."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka Die Visserman	id=11406
+English (Translation)	Jaaka the Fisherman	id=8491
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiXhosa (Translation)	Ujaaka Umlobi	id=13206
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

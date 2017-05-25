@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=2519&d=0&a=1
+id:	2519
+title:	Bana Ba Kerese
+author:	Lorato Trok
+artist:	Wiehan de Jager
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2519.png
+desc:	Bogologolo go ne go nale lelapa le na le bana ba bararo b aba maitseo. Bothata e ne ele gore ba ne ba bopilwe ka kerese
+
+page_text:
+
+P1	Bogologolo tala go kile ga nna lelapa lengwe le le itumetseng.
+P2	Bana ba ne ba utlwana mme ba sa rate ntwa. Ba ne ba thusa batsadi ba bona kwa gae le kwa masimong.
+P3	Mme ba ne ba sa letlelelwa go atamela fa thoko ga molelo.
+P4	Ba ne ba letlelelwa fela go dira ditiro tsa bona bosigo.
+P5	Mme mongwe wa basimane o ne a eletsa go bona letsatsi.
+P6	Ka letsatsi lengwe keletso ya gagwe e ne ya mo fenya.    Basimane ba bangwe ba ne ba mo kgalema.
+P7	Mme go ne so setse go le thari! O ne a tlhapologa mo letsatsing.
+P8	Bana ba kerese ba ne ba utlwa botlhoko go bona o mongwe wa bona a tlhapologa.
+P9	Mme ba ne ba dira leano. Ba ne ba tsaya kerese e e tlhapologileng ba e aga go nna nonyane.
+P10	Ba ile ba tsaya nonyane e ba e baya kwa godimo ga thaba.
+P11	Fa letsatsi le tlhaba,  o ile a fofela kwa godima a opela a itumetse.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366

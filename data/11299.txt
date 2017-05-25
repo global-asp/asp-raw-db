@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=11299&d=0&a=1
+id:	11299
+title:	Swem
+author:	Megan Smith
+artist:	Alice Inzikuru and Robert McEwan
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/11299.png
+desc:	Dit isn storie oor Skilpad wat sy maat
+
+page_text:
+
+P1	Eendag lank gelede het daar twee vriende gewoon,  'n skilpad en 'n slang.
+P2	Op 'n dag sê Skilpad vir Slang,  "Kom ons gaan swem." "Goed,  maar ek weet nie hoe om te swem nie" antwoord Slang. "Ek sal jou leer" antwoord Skilpad.
+P3	Hulle het na 'n swembad toe gegaan. "Wie sal eerste in die water ingaan?" vra Skilpad. "Jy kan,  en ek sal vir jou kyk" sê Slang.
+P4	Skilpad het die swembad binne gegaan. Slang hou hom van die trappies af dop.
+P5	After some time,  Snake entered the pool as Tortoise gave instructions.
+P6	Skilpad en Slang het saam in die vlak kant van die swembad geswem.
+P7	They started floating on the water.
+P8	Terwyl hulle dryf begin Skilpad rugslag swem. Terwyl Slang vir skilpad na-aap kon hy homself nie nie bo hou nie en het hy begin verdrink.
+P9	On realising that Snake had disappeared,  Tortoise hurriedly went under water and rescued the life of the snake.
+P10	Sodra Skilpad uit die water uit geklim het,  het hy Slang onderstebo gehou om ontslae te raak van die water wat Slang ingesluk het.
+P11	Ten slotte,  Skilpad het die mond-tot-mond-metode gebruik om meer water te verwyder.
+
+images:
+
+illustrations/pages/9175.png
+illustrations/pages/9175.png
+illustrations/pages/9176.png
+illustrations/pages/9177.png
+illustrations/pages/9178.png
+illustrations/pages/9179.png
+illustrations/pages/9180.png
+illustrations/pages/9181.png
+illustrations/pages/9187.png
+illustrations/pages/9182.png
+illustrations/pages/9183.png
+illustrations/pages/9184.png
+
+translations:
+
+Afrikaans (Translation)	Skilpad Tot Die Redding!	id=11252
+Afrikaans (Translation)	Swem	id=11331
+English (Translation)	Swimming	id=9190
+French (Translation)	Allons Nager	id=10936
+isiNdebele (Translation)	Ukududa	id=13780
+Lugbarati (Original)	Yii Wezu	id=9189
+Rutooro (Translation)	Kuziha	id=14942
+Setswana (Translation)	Thuma	id=11482

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=18981&d=0&a=1
+id:	18981
+title:	Pai Nosso”
+author:	© 2016 Little Zebra Books
+artist:	Marleen Visser
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18981.png
+desc:	In this book
+
+page_text:
+
+P1	Pai nosso que está no céu.
+P2	Que todos reconheçam que o seu nome é santo.
+P3	Que o seu reino venha a nós.
+P4	Que a sua vontade seja feita aqui na terra como no céu.
+P5	Dê-nos hoje o pão nosso de cada dia.
+P6	Perdoe os nossos pecados assim como nós.
+P7	Perdoamos aos que nos fazem mal.
+P8	Não nos deixe cair em tentação.
+P9	Mas livre-nos do mal.
+P10	Pois teu é o reino,  o poder e a glória,  para sempre. Amém.
+P11	Mateus 6: 9-13.
+
+images:
+
+illustrations/pages/16273.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Chinyungwe (Translation)	Baba Wathu	id=18980
+Elomwe (Translation)	Nivekelo Na Apwiya	id=18982
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=18983
+English (Original)	The Lord's Prayer	id=16246
+Imeetto (Translation)	Niswali	id=18993

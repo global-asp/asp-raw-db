@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=12254&d=0&a=1
+id:	12254
+title:	Haa Deemnu!
+author:	Dinqisisa Temesgen and Mulualem Daba
+artist:	Thembinkosi Kohli
+lang:	Afaan Oromo
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/12254.png
+desc:	Fayyida Qaama Miira keenya baruu.
+
+page_text:
+
+P1	Funyaan kootiin waan hedduu fuunfadha.
+P2	Kaalsii xuraawaa nan fuunfadha.
+P3	Abaaboo miidhaganis nan fuunfadha.
+P4	Ija kootiin waan hedduun ilaala.
+P5	Ijaa kootiin afuuffee qilleensa keessa deemu nan ilaala.
+P6	Adurree gammadduus nan ilaala.
+P7	Arrabaa kootiin waan hedduun  dhandhama.
+P8	Galaana ashaboo qabu nan dhandhama.
+P9	Cuunfaa mi'aawaa burtukaanaas nan dhandhama.
+P10	Harka kootiin waan hedduun qaqqaba.
+P11	Harkakeen qabadha.
+
+images:
+
+illustrations/pages/3015.png
+illustrations/pages/3016.png
+illustrations/pages/3017.png
+illustrations/pages/3018.png
+illustrations/pages/3019.png
+illustrations/pages/3020.png
+illustrations/pages/3021.png
+illustrations/pages/3022.png
+illustrations/pages/3022.png
+illustrations/pages/3024.png
+illustrations/pages/3025.png
+illustrations/pages/3026.png
+
+translations:
+
+English (Original)	Let's Go	id=3028
+English (Translation)	Iri Ma Koy	id=11734
+French (Translation)	Allons-Y!	id=9922
+Fulfulde (Translation)	En Njaha!	id=10001
+Hausa (Translation)	Mu Je !	id=9970
+isiZulu (Translation)	Asambe	id=7703
+Kanuri (Translation)	Leniwo	id=10030
+Lubukusu (Translation)	Khe Khuche!	id=3100
+Maa (Translation)	Máapé!	id=3098
+Ng’aturkana (Translation)	Kapana!	id=3099
+Olukhayo (Translation)	Kenda Khuche	id=3094
+Oluwanga (Translation)	Khutsie!	id=3102
+Somali (Translation)	Ina Wadiya	id=16761
+Zarma (Translation)	Iri Ma Koy!	id=10097
+Zarma (Translation)	Iri Ma Koy	id=11590

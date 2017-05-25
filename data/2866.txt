@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=2866&d=0&a=1
+id:	2866
+title:	Amayumba
+author:	Rebecca Kuteesa
+artist:	Kathy Arbuckle
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2866.png
+desc:	Amayumba.
+
+page_text:
+
+P1	Kapere abeera mu kasiisira.
+P2	Kiberu abeera mu nnyumba nsondannya.
+P3	Eno ennyumba erina enjuyi bbiri bbiri ez'enkanaka.
+P4	Akasolya k'ennyumba eno ka nsondassatu.
+P5	Ono omusajja azimba nnyumba ye.
+P6	Eno ennyumba mpya.
+P7	Ennyumba eno nkadde.
+P8	Kale singa mbeera mu nnyumba eno!
+
+images:
+
+illustrations/pages/1591.png
+illustrations/pages/1591.png
+illustrations/pages/1592.png
+illustrations/pages/1593.png
+illustrations/pages/1594.png
+illustrations/pages/1595.png
+illustrations/pages/1596.png
+illustrations/pages/1597.png
+illustrations/pages/1598.png
+
+translations:
+
+Ateso (Adaptation)	Itogoi	id=10155
+English (Original)	Houses	id=1785
+Kikamba (Translation)	Nyumba	id=3087
+Lunyole (Translation)	Amayumba	id=2867
+Lunyole (Adaptation)	Jo Yi / Enyumba	id=9345
+Lusoga (Translation)	Amayumba	id=2868
+Lusoga (Translation)	Ndhuuba Nhumba	id=8170
+Ng’aturkana (Translation)	Ng'akais	id=18136
+Setswana (Translation)	Matlo	id=2869
+Somali (Translation)	Guriyo	id=17262

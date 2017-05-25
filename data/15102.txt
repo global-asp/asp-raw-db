@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=15102&d=0&a=1
+id:	15102
+title:	Unkuku Noshongololo (Level 1)
+author:	KwaZulu-Natal subject advisors
+artist:	Magriet Brink
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15102.png
+desc:	uNkukhu noShongololo banobungani bokuncintisana okukhulu. Ngelinye ilanga uNkukhu ucasulwa ukuhlulwa kangangoba ugcina esenze into ewubulima obukhulu.
+
+page_text:
+
+P1	UNkukhu noShongololo bangabangani.
+P2	Bayahamba bayodlala ibhola lezinyawo.
+P3	UNkukhu ungunozinti.
+P4	UShongololo ushaya igoli!
+P5	UNkukhu udinwe wafa.
+P6	UNkukhu udla uShongololo.
+P7	UNkukhu uhlangana nomama Shongololo.
+P8	"Ngisize Mama!" kukhala uShongololo.
+P9	UNkukhu uzizwa engaphilile.
+P10	UShongololo unambitheka kabi kakhulu.
+P11	UNkukhu uhlanza uShongololo. Amashongololo ayabaleka.
+P12	Izinkukhu namashongololo sebeyizitha.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+Dhopadhola (Translation)	Gweno Gi Ogongolo	id=15734
+English (Translation)	Chicken and Millipede	id=18289
+English (Translation)	Chicken and Millipede	id=18325
+IciBemba (Translation)	Inkoko Na Ciyongoli	id=18681
+Kiswahili (Translation)	Kuku Na Jongoo	id=15608
+Lámnsoʼ (Translation)	Ŋgvəv Wùn Ngom – Ŋkèʼ Mbìy	id=15061
+Lugwere (Translation)	Nkoko N’Ogongolo	id=16113
+Lunyole (Translation)	Engoho Ni Waga	id=16583
+Oluwanga (Translation)	Ingokho Nende Likongolo	id=19589
+Portuguese (Translation)	O Frango E O Gongolo	id=16098
+Yoruba (Translation)	Adìyẹ Àti Ọ̀ọ̀kùn	id=16553

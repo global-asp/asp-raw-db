@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=9039&d=0&a=1
+id:	9039
+title:	Sleepy Mr. Sloth
+author:	Paul Kennedy
+artist:	Graham Paterson
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9039.png
+desc:	Mr. Sloth is looking for a comfortable place to nap
+
+page_text:
+
+P1	One day,  Mr Sloth came to visit. He said:   I'm sleepy! I need a good branch for a bed!
+P2	I'm quite good at climbing. I know how to swing.   But sleeping's my favourite,  favourite thing.
+P3	This branch looks lovely! I think I'll sleep here.   And you? Don't you think that's a splendid idea?
+P4	Oh no,  Mr Sloth! A giraffe's eating there!   He might think you're lunch and start nibbling your hair!
+P5	This branch looks lovely! I think I'll sleep here.   And you? Don't you think that's a splendid idea?
+P6	Oh no,  Mr Sloth! There's a beehive right there!   You'll never get sleep with those bees everywhere!
+P7	This branch looks lovely! I think I'll sleep here.   And you? Don't you think that's a splendid idea?
+P8	Oh no,  Mr Sloth,  that's a snake over there!   Not a branch! Poor old snake. You gave him quite a scare.
+P9	This branch looks lovely! I think I'll sleep here.   And you? Don't you think that's a splendid idea?
+P10	Oh no,  Mr Sloth! There's a bird squawking there!   You'll never get sleep with that noise in the air!
+P11	Try climb one more branch,  Mr Sloth! They all said.   And that branch was just the right one for his bed.
+P12	The bird and the snake,  the giraffe and each bee   were happy to have Mr Sloth in their tree.
+
+images:
+
+illustrations/pages/9017.png
+illustrations/pages/9018.png
+illustrations/pages/9019.png
+illustrations/pages/9020.png
+illustrations/pages/9021.png
+illustrations/pages/9022.png
+illustrations/pages/9023.png
+illustrations/pages/9024.png
+illustrations/pages/9025.png
+illustrations/pages/8091.png
+illustrations/pages/9026.png
+illustrations/pages/8099.png
+illustrations/pages/9030.png
+
+translations:
+
+Afrikaans (Translation)	Slaperige Mnr. Luiheid	id=11518
+French (Translation)	M. Paresseux Est Fatigué	id=10856
+isiNdebele (Translation)	Mnu. Mbhobo Ophethwe Buthongo	id=13053

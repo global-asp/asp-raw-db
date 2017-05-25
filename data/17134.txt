@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=17134&d=0&a=1
+id:	17134
+title:	Isikole Esisehlathini
+author:	Zimbili Dlamini
+artist:	Ketan Raut
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17134.png
+desc:	Izilwane zasehlathini ziya esikoleni esisha ngumkhulu umfutho. Kodwa ziphelelwa ngumfutho uma zibona ukuthi uthisha wabo ngubani.
+
+page_text:
+
+P1	Kwakukhona ihlathi elimnyama.
+P2	Kwakuyihlathi elikhulu elimnyama. Kunezihlahla eziningi nendledlana encane. Izilwane nezinyoni eziningi zihlala khona.
+P3	Ngelinye ilanga,  zonke izilwane zahlanga ndawonye,  "Uthi uzwile?" kubuza u Tota,  izikhwenene. "Yebo," kusho uHirni,  inyamazane enempondo ezamagatsha. "Ini?" kubuza uDarpok,  unogwaja. Sinesikole esikehlathini," kuphendula uZhoola,  inkawu. "Hmph?" kumangala Mota,  indlovu. Lamboooo,  kusho indlulamithi,  "O Kuhle!" kukabalasa uDheema,  umnenke,  "Asisheshisani,  sihambeni!
+P4	UTota,  isikhwenene wandiza. UZhoola,  inkawu yagxumagxuma isuka esihlahleni iya kwesinye. UPoorakha,  inhlwathi iphixilika ngokushesha. "Ngapha!" kumemeza uTota. "Uyakwazi ukufunda?" "Ngicabanga ukuthi kubheke phansi," kusho u Zhoola elenga egatsheni lesihlahla. "Hissssss," kuqedela uPoorakha inhlwathi. "Akekho ongafunda."
+P5	Ngokushesha bonke abangane bahlanganyela ndawonye. ULambooo indlulamithi yabheka phezulu esihlahleni yathi,  "Akukho muntu lapha."UZhoola wagcizelela wathi,  "Akukho muntu." UTota wabacela ukuba babhekisise. Ibhele uPilloo waqinisekisa wathi,  "Ngiyitholile indlu."
+P6	"Ngiwutholile ujingo," kumemezela uDheema,  umnenke. "Awani lamabholoksi?" kubuza uDarpok unogwaja efuna ukwazi. "Yini lena?" kubuza uZhoola. UPoorakha inhlwathi yaphendula yathi,  "Ngikholelwa ekutheni yipensela."
+P7	UMota kanye no Lamboo bathola indlu yokufundela. Babiza abanye,  bathi "Bukani yini le!" Bonke bafika bephethe izikhwama zesikole. Baqala ukumemeza,  "Thisha! Thisha! Uphi uthisha wethu?" Akukho noyedwa owaziyo.
+P8	Bezwa ukubhonga. Bezwa ukubhonga okukhulu. Bezwa ukubhonga okukhuluuuu. UPoorakha wayenexhala. UDheema esaba. UTota wacasha emva kwebhodi. ULamboo kanye no Zhoola babedikile.
+P9	Ubani lo? "Kusukuma!" uZhoola inkawu. Akekho owakhuluma. Bonke babuka uthisha bemehlisa bemenyusa ngesineke. Base bonke babhekana.
+P10	Uthisha waphenduka wabhala ebhodini elimnyama. "Gxuma," kusho uZhoola. "Ndiza!" kusho uTota. Gqi gqi gqi kubaleka uMota. "Baleka,  baleka,  baleka ngokushesha," kumemeza uDheema. "Bhagoooo," bonke bamemeza. Ngesikhathi uthisha ephenduka kwabe kungasekho muntu endlini yokufundela.
+
+images:
+
+illustrations/pages/1905.png
+illustrations/pages/1906.png
+illustrations/pages/1907.png
+illustrations/pages/1908.png
+illustrations/pages/1909.png
+illustrations/pages/1910.png
+illustrations/pages/1911.png
+illustrations/pages/1912.png
+illustrations/pages/1913.png
+illustrations/pages/1916.png
+illustrations/pages/1914.png
+
+translations:
+
+English (Original)	The Jungle School	id=9549
+isiXhosa (Translation)	Isikolo Sasehlathini	id=7279
+isiZulu (Translation)	Isikole Esisehlathini	id=3182
+Sepedi (Translation)	Sekolo Sa Sethokgweng	id=2985
+Sesotho (Lesotho) (Translation)	Sekolo Sa Murung	id=1915

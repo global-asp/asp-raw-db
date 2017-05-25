@@ -1,0 +1,79 @@
+url:	http://africanstorybook.org/reader.php?id=20006&d=0&a=1
+id:	20006
+title:	Umntwana ongajwayelekile
+author:	Zimbili Dlamini
+artist:	Meghan Judge
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20006.png
+desc:	Indaba yomntwana ongajwayelekile
+
+page_text:
+
+P1	Ngibonani ngamehlo ami.
+P2	Owesifazane okhulelwe ebambelele
+  esisiswini sakhe.
+P3	Umphakathi wamamukela ukuthi
+  ahlale nathi.
+P4	Ngabo lobo busuku wezwakala
+  ememeza ethi, ngiyalunywa sengiyabeletha.
+P5	Wabeletha umntwana oyimbongolo.
+P6	Sizokwenzenjani? Abantu besho bemangala.
+P7	Babaleka bonke abantu. "Ngizokwenzenjani ngalomntwana oyimbongolo?" Kucabanga lo wesifazane.
+P8	Ekugcineni wazibophezela ukumthanda
+  umntwana wakhe.
+P9	Umntwana oyimbongolo wakhula
+  kakhulu kwagcina kunzima ukumbeletha emhlane.
+P10	Umama wakhe waphatheka
+  kabi. Umntwana umbongolo wadinwa wamkhahlela unina.
+P11	Umntwana umbongolo wabaleka
+  uma esembona unina elele phansi.
+P12	Umbongolo wazizwa enomzwangedwa,elambile futhi ekhathele. Wagcina ezumekile.
+P13	Waphaphama sekumi indoda
+  eduze kwakhe.
+P14	Indoda yamthatha umbongolo
+  yaya naye kwayo.
+P15	Esekhulile umbongolo, indoda
+  yayimgibela.
+P16	Ngolunye usuku banyukela
+  entabeni bayophumula waze wazumeka umbongolo.
+P17	Umbongolo waphaphama
+  esesele yedwa futhi.
+P18	Umbongolo wayekhathazekile. Waphindela
+  emuva wayofuna umama wakhe.
+P19	Umbongolo wayehamba ezibuza, Ngabe nguye umama wami lo.
+P20	Wamthola umama wakhe,bahlala kahle ndawonye. Lapho umama wayegibela kumntwana wakhe bazulazule endaweni yangakubo.
+
+images:
+
+illustrations/pages/14979.png
+illustrations/pages/14972.png
+illustrations/pages/14973.png
+illustrations/pages/14974.png
+illustrations/pages/14976.png
+illustrations/pages/14977.png
+illustrations/pages/14978.png
+illustrations/pages/14979.png
+illustrations/pages/14980.png
+illustrations/pages/14981.png
+illustrations/pages/14982.png
+illustrations/pages/14983.png
+illustrations/pages/14984.png
+illustrations/pages/14985.png
+illustrations/pages/14986.png
+illustrations/pages/14987.png
+illustrations/pages/14988.png
+illustrations/pages/14989.png
+illustrations/pages/14990.png
+illustrations/pages/14991.png
+illustrations/pages/14992.png
+
+translations:
+
+Dhopadhola (Translation)	Nyathi ma nyakare	id=19993
+English (Original)	Donkey Child	id=15028
+English (Adaptation)	Strange Baby	id=15033
+English (Translation)	Mwana anoshamisa	id=19991
+Kiswahili (Translation)	Mtoto Punda	id=15865
+Ng’aturkana (Translation)	Ikoku Sikiria	id=15574

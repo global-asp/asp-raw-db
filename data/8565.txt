@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=8565&d=0&a=1
+id:	8565
+title:	Fire
+author:	Deborah Namugosa
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8565.png
+desc:	This story was developed and written by teachers at Mugulu Integrated Primary School in Busolwe Sub-County
+
+page_text:
+
+P1	Look,  fire!
+P2	Fire burns.
+P3	Fire cooks.
+P4	Fire gives warmth.
+P5	Fire gives light.
+P6	Look,  fire!
+P7	Fire is wonderful.
+P8	And it is powerful.
+
+images:
+
+illustrations/pages/8560.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8557.png
+illustrations/pages/8558.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Arabic (Translation)	النار	id=18190
+Dhopadhola (Translation)	Mac	id=19481
+Lunyole (Original)	Omuliro	id=8564
+Samburu (Translation)	Nkima	id=17257
+Somali (Translation)	Dab	id=17256
+Zande (Translation)	Wee	id=17255

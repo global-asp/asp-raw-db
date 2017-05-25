@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=13709&d=0&a=1
+id:	13709
+title:	Maal Hojjechaa Jirta?
+author:	Dinqisisa Temesgen and Mulualem Daba
+artist:	Wiehan de Jager
+lang:	Afaan Oromo
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13709.png
+desc:	Himootni kun daaimman reefu dubbisuu jalqabaniifi gargaara.
+
+page_text:
+
+P1	Ani sirbaan jira.
+P2	Isheen harka raasaa jirti.
+P3	Ani harka walitti rukkutaan jira.
+P4	Isheen hixaachaa jirti.
+P5	Inni nama waamaa jira.
+P6	Ani nama deebisaan jira.
+P7	Isheen dhaggeeffachaa jirti.
+
+images:
+
+illustrations/pages/7131.png
+illustrations/pages/7127.png
+illustrations/pages/6641.png
+illustrations/pages/7122.png
+illustrations/pages/6578.png
+illustrations/pages/7116.png
+illustrations/pages/7123.png
+illustrations/pages/6644.png
+
+translations:
+
+Afrikaans (Translation)	Wat Maak Jy?	id=11093
+Afrikaans (Translation)	Wat Doen Jy?	id=11543
+English (Original)	What Are You Doing?	id=7292
+English (Translation)	What Are You Doing?	id=7718
+English (Translation)	What Are You Doing?	id=7721
+isiXhosa (Translation)	Wenza Ntoni?	id=14931
+isiXhosa (Translation)	Wenza Ntoni?	id=15035
+isiZulu (Adaptation)	Wenzani?	id=17101
+Kiswahili (Translation)	Unafanya Nini?	id=15711
+Lunyole (Translation)	Ohola Hiina?	id=13602
+Ng’aturkana (Translation)	Nyo Isubi Iyong?	id=9778
+Portuguese (Translation)	O Que É Que Estás a Fazer?	id=19219
+Sepedi (Translation)	O Dira Eng?	id=7692
+Tunisian (Translation)	Cnuwwe Qàġid Taġmil?	id=15381

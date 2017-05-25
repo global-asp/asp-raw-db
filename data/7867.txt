@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=7867&d=0&a=1
+id:	7867
+title:	Enkíné, Oldía Ó Enkíténg
+author:	Leonard Kotikash
+artist:	Marleen Visser
+lang:	Maa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7867.png
+desc:	Óre Enkíné
+
+page_text:
+
+P1	Ilchoréta apá enkíne,  oldía ó enkíténg. Óre enkolóng nabô népuo páran te engárrî.
+P2	Óre peê ebayá,  néjokí oláréwání lé engárri peê élâk iropiyianí enyê. Nélak enkíteng inenyéna.
+P3	Nélak oldía aitulusoó,  amû meáta esíáná oó iropiyianí naáíririkíno.
+P4	Néjo oláréwání áshúkóki oldía iropiyianí enyéna naátelekutúa,  nédol enkíné peê eisík aló éítû élâk.
+P5	Négoro naléng oláréwání. Néreu engárri aló éítû eshukokí oldía iropiyianí enyéna naáshukokíno.
+P6	Náa ínâ peê óre o táatá kémir oldía engárri aing'orú olaréwani leitú éíshô iropiyianí enyéna naáshukúnye.
+P7	Néísik enkíne tenéning engárri nalotú. Kéuré ajó kéíbung'í amû eitú élâk iropiyianí enyéna.
+P8	Néméírut nínye enkíteng tenéning engárri nalotú. Kédeenyári tenélang enkóítói. Kéyíólo ajó étáláá iropiyianí enyéna te lulúng'ata.
+
+images:
+
+illustrations/pages/6372.png
+illustrations/pages/6371.png
+illustrations/pages/6373.png
+illustrations/pages/6374.png
+illustrations/pages/6375.png
+illustrations/pages/6376.png
+illustrations/pages/6377.png
+illustrations/pages/6378.png
+illustrations/pages/6379.png
+
+translations:
+
+Afrikaans (Translation)	Bok, Hond en Koei	id=11138
+Dhopadhola (Translation)	Dyel, Gwok Kodi Dhyaŋ	id=16481
+English (Translation)	Goat, Dog and Cow	id=6380
+English (Adaptation)	Goat, Dog, and Cow With Tv	id=13529
+French (Translation)	La Chèvre, Le Chien Et La Vache	id=10839
+isiNdebele (Translation)	Imbuzi, Inja Nekomo	id=7670
+isiZulu (Translation)	Imbuzi, Inja Nenkomo	id=7491
+Kikamba (Translation)	Mbui, Ngiti Na Ng'ombe	id=9686
+Kiswahili (Translation)	Mbuzi, Mbwa Na Ng’Ombe	id=7868
+Luganda (Translation)	Wambuzi, Wambwa Ne Wante	id=7787
+Lumasaaba (Original)	Imbusi, Imbwa Ni Ngaafu	id=6730
+Lunyole (Translation)	Embusi, Embwa N’Eŋombe	id=8397
+Ng’aturkana (Translation)	Akine, Ing'ok Ka Aite	id=7014
+Oluwanga (Translation)	Imbusi, Imbwa Nende Ing’Ombe	id=8279
+Portuguese (Translation)	A Cabra, O Cachorro E a Vaca	id=16419
+Rutooro (Translation)	Embuzi, Embwa, N’Ente	id=14925
+Sesotho (Lesotho) (Adaptation)	Pooli, Ntja, Le Khomo Le Tv	id=13553
+Setswana (Translation)	Podi, Ntšwa Le Kgomo	id=7771

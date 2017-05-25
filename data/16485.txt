@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=16485&d=0&a=1
+id:	16485
+title:	Ng'ikiel
+author:	Simon Ipoo
+artist:	Kathy Arbuckle
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/16485.png
+desc:	Eyakatar ngitieng lugelagelae ngikiel ngarekia nakaalak.
+
+page_text:
+
+P1	Eyakar etiang'it be akinyang ng'ikiel lukaalak. Nakipi ibooyo akinyang.
+P2	Eyakar nabo eng'atuny dae ng'ikiel luapolok. Enyami eng'atuny ng'itieng luche.
+P3	Eyakar ibarasit be aite ng'ikiel lu ang'ikiling'a. Edaka aite ng'inyaa.
+P4	Emakatar ng'ikieny lua ang'akopir ng'ikiel. Nyenyakaete kechi akimuj.
+P5	Eyakatar ng'irunyei dae ng'ikiel lu along'aren luapolok.
+P6	Eyakatar ng'ikolea luapolok ng'ikiel luitayek lokojokon. Nanam naapolon eya ng'ikolia luapolok.
+P7	Ayakar kolong ayong ng'ikiel lukaalak lokojokon.
+P8	Nakaneni,  amakar tokona ng'ikiel lukaalak. Alokorosi epewae.
+
+images:
+
+illustrations/pages/1701.png
+illustrations/pages/1701.png
+illustrations/pages/1702.png
+illustrations/pages/1703.png
+illustrations/pages/1704.png
+illustrations/pages/1705.png
+illustrations/pages/1706.png
+illustrations/pages/1707.png
+illustrations/pages/1708.png
+
+translations:
+
+English (Original)	Teeth	id=2131
+Kikamba (Translation)	Mayo	id=2132
+Kiswahili (Translation)	Meno	id=10152
+Kiswahili (Adaptation)	Meno	id=19359
+Luganda (Translation)	Amannyo	id=2206
+Lugbarati (Translation)	Si	id=2708
+Lugbarati (Official) (Translation)	Sí	id=8770
+Lunyole (Translation)	Ameeno	id=2207
+Setswana (Translation)	Meno	id=2208

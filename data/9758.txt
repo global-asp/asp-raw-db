@@ -1,0 +1,29 @@
+url:	http://africanstorybook.org/reader.php?id=9758&d=0&a=1
+id:	9758
+title:	Avitaa Ndu Ndu Diyi
+author:	Candiru Eunice
+artist:	Mlungisi Dlamini, Kathy Arbuckle and Vusi Malindi
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9758.png
+desc:	Avitaa ndu ndu diyi
+
+page_text:
+
+P1	Ombuta bakasi.
+P2	Onzu zu.
+P3	Mupira tuzu.
+P4	Ombuzu.
+
+images:
+
+illustrations/pages/7970.png
+illustrations/pages/1627.png
+illustrations/pages/1623.png
+illustrations/pages/1622.png
+illustrations/pages/1624.png
+
+translations:
+
+English (Original)	Different Plays	id=9735

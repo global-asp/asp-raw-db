@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=14166&d=0&a=1
+id:	14166
+title:	Mary a School Girl
+author:	Idah Mito
+artist:	Rob Owen, Silva Afonso, Vusi Malindi, José Jochicala, Salim Kasamba and Silva Afonso and Vusi Malindi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14166.png
+desc:	It is a story about a girl called Mary
+
+page_text:
+
+P1	Mary wakes up early in the morning, brushes her teeth, wears her uniform, takes breakfast and goes to school.
+P2	In school, Mary sweeps their classroom with her friends. She also wipes her desk clean.
+P3	This is Mary's classroom. Her teacher is Mrs. Marion. She is a jovial teacher and Mary loves her so much.
+P4	Mary is the class monitor. She brings the books from the office and gives them to the pupils to read.
+P5	It is break time. Mary and her friends are in the field playing football. It is healthy to play.
+P6	It is lunch time. Mary and her friends are going back home. Back at home Mary helps her parents in house chores.
+P7	At home, Mary and her whole family sits in the dining room and eats their meal after a prayer by their grandmother.
+P8	Mary likes cleaning the house and washes the dishes after lunch. Mary ensures that the kitchen is clean always and all pest are chased away.
+P9	Mary and her brother feeds their animals with the leftovers. They do this during their free time.
+P10	It is now night. Everyone is tired and feeling sleepy. Mary and her brother are in their bedroom ready to sleep.
+
+images:
+
+illustrations/pages/14034.png
+illustrations/pages/13815.png
+illustrations/pages/14058.png
+illustrations/pages/14021.png
+illustrations/pages/14017.png
+illustrations/pages/14062.png
+illustrations/pages/13855.png
+illustrations/pages/13927.png
+illustrations/pages/14043.png
+illustrations/pages/14037.png
+illustrations/pages/10444.png
+
+translations:
+
+Ng’aturkana (Adaptation)	Ikoku Na Esukul	id=18137

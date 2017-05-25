@@ -1,0 +1,28 @@
+url:	http://africanstorybook.org/reader.php?id=7838&d=0&a=1
+id:	7838
+title:	Lits'oene Tse Ne Li Ea Koana Le Koana
+author:	Moeketsi Buku
+artist:	Benjamin Mitchley
+lang:	Sesotho (Lesotho)
+level:	Read aloud
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7838.png
+desc:	Batho ba neng ba phela motseng ba hlokofetsoa ke liphohofolo tse hla ba fallela lithabeng le malapa a bona. Ba qala ho phela ka litholoana le meroho ebe ba fetoha litsóene. Ha ba fetohile ba hlokomela hore ha ba sa batla ho lula kapa ho phela moho ebe ba falla.
+
+page_text:
+
+
+images:
+
+illustrations/pages/1160.png
+illustrations/pages/1162.png
+illustrations/pages/1164.png
+illustrations/pages/1166.png
+illustrations/pages/1167.png
+illustrations/pages/1169.png
+illustrations/pages/1170.png
+
+translations:
+
+Luganda (Translation)	Ebigaya Ebyali Byetala Eno N’Eri	id=7168
+Lugbarati (Translation)	Ojimata Acipi 'dosi 'dasi 'diyi	id=7269

@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=8394&d=0&a=1
+id:	8394
+title:	A Hiena Doentia
+author:	Jorge Eusébio Eusébio
+artist:	Razaque Lázaro Quive
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8394.png
+desc:	Rabbit goes to visit his friend the Hyena.
+
+page_text:
+
+P1	Era uma vez,  nos tempos passados,  numa época de fome,  uma hiena elegante fingiu que estava doente e que não podia conseguir sair de casa.
+P2	Assim,  muitos animais foram visitar a hiena na sua casa,  mas nenhum deles saía da casa da hiena!
+P3	Numa linda tarde,  o coelho foi visitar a hiena.
+P4	Chegado lá,  quase a entrar na caverna da hiena,  de repente parou e viu que só tinha pegadas da entrada,  não tinha pegadas de saída.
+P5	Então,  ele parou de fora e gritou,  "como estás,  amiga hiena? Como estás de saúde,  minha melhor amiga? Que tal estás a melhorar?"
+P6	A hiena respondeu,  "não te preocupes,  amigo coelho. Entra e vem me dar a sua gostosa companhia!"
+P7	"Tu estás a mentir,  estou a ver somente pegadas dos animais que entraram na caverna,  mas não vejo pegadas da sua saída."
+P8	A hiena imediatamente ficou quieta,  e o coelho disse,  "tchau,  meu amigo. Irei visitar-te noutro dia."
+P9	E o coelho pôs-se a correr!
+
+images:
+
+illustrations/pages/8362.png
+illustrations/pages/8362.png
+illustrations/pages/8363.png
+illustrations/pages/8364.png
+illustrations/pages/8365.png
+illustrations/pages/8367.png
+illustrations/pages/8371.png
+illustrations/pages/8374.png
+illustrations/pages/8376.png
+illustrations/pages/8379.png
+
+translations:
+
+English (Original)	The Sick Hyena	id=8393
+English (Adaptation)	The Sick Hyena - Colouring Book	id=17424
+Xitswa (Translation)	A Yingwe Ya Ki Ti B'abzisa	id=8466

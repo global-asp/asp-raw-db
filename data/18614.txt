@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=18614&d=0&a=1
+id:	18614
+title:	Basi Ikulu Yobilibila
+author:	Bether Mwale Moyo
+artist:	Mango Tree
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18614.png
+desc:	Ebei na amai ake ayembekeza basi ikulu yobilibila kuti iwapeleke ku tauni. Koma basi ikulu yobilibila ya onongeka. Kodi Ebei na amai ake azayenda bwanji ku tauni?
+
+page_text:
+
+P1	Kunali basi imozi cabe mumunzi wa Ebei. Inali ikulu ndiponso yobilibila. Inali ya congo kwambili.
+P2	Siku lina,  amake Ebei anati,  "Mailo tizayenda ku tauni tikagule yunifomu yako."
+P3	Ebei anakondwela kwambili. Ebei na amai ake anali kufunika kukwela basi poyenda.    Usiku uyo,  Ebei anakangiwa nakuti agone.
+P4	Kuseniseni,  Ebei anauka ndipo anavala,  amai ake akalibe nakubwela kuti amuuse.
+P5	Ebei na amai ake anayenda namendo ku citesheni ca basi. Anayembekeza basi ikulu yobilibila Ebei na amai ake. Koma basi siyinafike.
+P6	Antu ena anafika pa citesheni ca basi. Anadandaula antu cifukwa basi inacedwa kufika. "Kodi basi yatisiya?" Anafunsa.
+P7	Ebei anada nkawa. "Sitizakwanisa kuyenda ku tauni. Siniza kwanisa kutenga yunifomu yanga," anaganiza.
+P8	Antu ena analema kuyembekeza,  ndipo anayenda kumanyumba. Koma Ebei analila ndipo anakana kuyenda kunyumba. Amai ake anamutontoza nati,  "Tizayembekezako pang'ono."
+P9	Mwazizizi antu anamvela congo. Npipo anaona kakungu mu mpepo. Yabwela basi!
+P10	Koma basi iyi siyinali yobilibila. Inali yofuwila. Basi iyi inali yofuwila ndipo yaing'ono. Antu amene anali kuyembekeza anapenya basi. Sanakwele mu basi.
+P11	"Ngenani! "Ngenani!" anakuwa oyendesa basi. "Tacedwa kwambili lelo." Oyendesa basi anakamba."
+P12	Ebei na amai ake anayambilila kukwela.    Kosataya ntawi,  antu onse anakwela basi yaing'ono yofuwila.
+P13	Ebei analangana panja pa windo. Anaona antu ena pa citesheni ca basi.
+P14	Antu ambili ena anali kutamangila kuti akwele basi.    Koma anacedwa. Basi inazula. Basi yofuwila,  inayambapo kuyenda ku tauni.
+P15	"Kodi basi ikulu yofuwila ilikuti?" anafunsa amake Ebei. "Yafa," anayanka oyendesa basi. "Tiyikonza. Izabwela mailo," ananena.
+P16	Ebei sanavutike na kaonekedwa ka basi. Sanavutike na kucepa kapena kukula kwa basi. Anakondwela cifukwa iyi basi inali kuyenda ku tauni!
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

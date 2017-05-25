@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=15146&d=0&a=1
+id:	15146
+title:	Osiepe
+author:	Emmaculate Onyango
+artist:	Catherine Groenewald
+lang:	Dholuo
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15146.png
+desc:	Bi
+
+page_text:
+
+P1	Nyinga en Simo.
+P2	An gi osiepe ang'wen.
+P3	Nyinge gi gin Zizo,  Lele,  Sisa to gi Ayanda.
+P4	Osiepna Zizo ohero tugo opira.
+P5	Osiepna Lele ohero go abal.
+P6	Osiepna Sisa ohero tugo brikicho.
+P7	Osiepna Ayanda to ohero somo.
+P8	An ahero timo gigo ma gihero timo te.
+P9	Atugo opira gi Zizo.
+P10	Ago abal gi Lele.
+P11	Atugo brikicho gi Sisa.
+P12	Bi,  osiepa,  in ihero ang'o?
+P13	Bi,  itugo opira kodwa.
+P14	Bi,  igo abal kodwa.
+P15	 Bi,  itugo brikicho kodwa.
+P16	Bi,  mondo isom kodwa!
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Ṡuħàb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

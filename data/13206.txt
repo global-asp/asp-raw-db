@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=13206&d=0&a=1
+id:	13206
+title:	Ujaaka Umlobi
+author:	Nokuthula Bernelee Dyonase
+artist:	Zablon Alex Nguku
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13206.png
+desc:	Omusaadha omuvubi ku Mwiga Kiyira.
+
+page_text:
+
+P1	NguJaaka lo,  umlobi waseNeminya.
+P2	Uloba kumlambo iNayile.
+P3	Unesikhephe,  umnatha negwegwe.
+P4	Uvuka ekuseni rhoqo ukuze abambe intlanzi yaseNayile.
+P5	Ngentsimbi yeshumi,  uthengisa iintlanzi emarikeni eJunja.
+P6	Kwenzeke ntoni,  Jakaa? Ibalekile intlanzi? Unxunguphele.
+P7	"Izinto azihambi kakuhle namhlanje. Umoya waseNayile awundivumeli ndilobe. Enye intlanzi imke negwegwe lam."
+P8	"Kodwa ndinethemba lokuba kuzobangcono ngomso,  ngoba ndithenge igwegwe elitsha."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka Die Visserman	id=11406
+English (Translation)	Jaaka the Fisherman	id=8491
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

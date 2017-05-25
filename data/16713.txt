@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=16713&d=0&a=1
+id:	16713
+title:	Keeper E Sua Creche Especial
+author:	Translators without Borders and Marina Hennies
+artist:	Magriet Brink
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16713.png
+desc:	Uma história sobre filhotes de animais que chegam a uma creche para órfãos. Estes pequenos animais são cuidados por uma pessoa especial e a sua equipe.
+
+page_text:
+
+P1	Esta é a história de Keeper e a sua creche para animais órfãos.
+P2	O mes passado foi movimentado para Keeper e seus ajudantes na creche. Nomsa,  com um ano de idade,  chegou primeiro. Ela veio num velho caminhão verde. Keeper e seus ajudantes ficaram com muita pena da Nomsa. Ela estava tão magra e triste.
+P3	Mas logo Nomsa ficou mais forte. Começou a brincar com os outros animais.
+P4	Num outro dia,  um helicóptero aterrissou na creche.
+P5	No helicóptero estava um pequeno elefante debaixo de um grande cobertor.
+P6	Ndiwa estava debaixo do cobertor. Ele tinha cinco dias de idade. Keeper deu uma mamadeira ao Ndiwa.
+P7	Numa noite,  todos foram acordados com a chegada da Ambia.
+P8	Ambia tinha cinco meses de idade. Ela estava fraca após a sua longa jornada.
+P9	Por causa do seu pescoço comprido,  Keeper segurou a mamadeira no alto para alimentar a Ambia.
+P10	Os últimos órfãos a chegar no mes passado foram Kopi,  Kepi e Keji. Estes filhotes tinham dois meses de idade.
+P11	Keeper e seus ajudantes amam todos os animais,  até os travessos.
+P12	As pessoas na creche trabalham muito. Elas esperam que um dia os órfãos possam cuidar de si. Então estes animais poderão voltar para a selva.
+
+images:
+
+illustrations/pages/12997.png
+illustrations/pages/12979.png
+illustrations/pages/12982.png
+illustrations/pages/12983.png
+illustrations/pages/12984.png
+illustrations/pages/12985.png
+illustrations/pages/12986.png
+illustrations/pages/12989.png
+illustrations/pages/12990.png
+illustrations/pages/12991.png
+illustrations/pages/12997.png
+illustrations/pages/12995.png
+illustrations/pages/12998.png
+
+translations:
+
+ChiTonga (Translation)	Mubambi Wabanyama Abusena Bwatunyama Twakafidwa Bazyali	id=18639
+CiNyanja (Translation)	Osunga Nyama Pamalo Posungila Nyama Zing’Ono	id=18627
+Dhopadhola (Translation)	Jakur Gi Kakuro Nythindho Manyakare	id=15762
+IciBemba (Translation)	Uusakamana Inama Neencende Yakwe Iyaibeela	id=18584
+isiXhosa (Translation)	Umgcini Nekhaya Leenkedama	id=14123
+isiZulu (Translation)	Umgcini Nesikhungo Esikhethekile	id=14087
+isiZulu (Adaptation)	Ikhaya Lezilwane Elikhethekile	id=17338
+Sepedi (Translation)	Mothuši Le Lefelo La Gagwe La Go Ikgetha La Go Hlokomela	id=18002
+Sesotho (S.Africa) (Translation)	Mohlokomedi Wa Diphoofolo Le Sebaka Sa Hae Se Ikgethang	id=14442
+Setswana (Translation)	Motlhokomedi Le Serapa Sa Gagwe Se Se Kgethegileng	id=13974
+SiLozi (Translation)	Mubabaleli Ni Sibaka Sa Ndiyala Za Lifolofolo	id=18566
+Tshivenda (Translation)	Muthogomeli	id=14730
+Xitsonga (Translation)	Muhlayisi Na Vuhlayiselo Byo Hlawuleka	id=14521

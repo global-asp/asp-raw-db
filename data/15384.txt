@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=15384&d=0&a=1
+id:	15384
+title:	Ħisbèn Il-Qŧàŧis
+author:	Ramzi Hachani
+artist:	Jesse Breytenbach
+lang:	Tunisian
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15384.png
+desc:	Ktèb ħsèb
+
+page_text:
+
+P1	Qaddèc min qaŧŧùs? 0 Ṡfìr qaŧŧùs.
+P2	Qaddèc min qaŧŧùs? 1 Qaŧŧùs wèħid.
+P3	Qaddèc min qaŧŧùs? 2 Zùz qŧàŧis.
+P4	Qaddèc min qaŧŧùs? 3 Ċlèċe qŧàŧis.
+P5	Qaddèc min qaŧŧùs? 4 Arbġa qŧàŧis.
+P6	Qaddèc min qaŧŧùs? 5 Xamse qŧàŧis.
+P7	Qaddèc min qaŧŧùs? 6 Sitte qŧàŧis.
+P8	Qaddèc min qaŧŧùs? 7 Sebġa qŧàŧis.
+P9	Qaddèc min qaŧŧùs? 8 Ċmenye qŧàŧis.
+P10	Cnuwwe hèđe? Qŧìŧis wèħil fi cujra! "Ène tewwe nmennġik!"
+P11	"Ummi,  nnejmùci nxallìuh ġandne? Wèħid èxir barka." Qaddèc min qaŧŧùs? 9 Tisġa qŧàŧis.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Amharic (Translation)	ድመቶችን እንቁጠር	id=13124
+Arabic (Translation)	عدد القطط	id=19919
+English (Adaptation)	Counting Cats	id=12693
+isiXhosa (Translation)	Bala Iikati	id=15023
+Lunyole (Translation)	Ohubala Epuusi	id=13559
+Portuguese (Translation)	Contar Gatos	id=16196

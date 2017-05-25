@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=18977&d=0&a=1
+id:	18977
+title:	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ
+author:	ኣንገሶም ኣባዲ፣ ጎይትኦም ከበደ
+artist:	Eden Daniels
+lang:	Tigrigna
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18977.png
+desc:	Andiswa really wants to play soccer with the school team
+
+page_text:
+
+P1	ትርሓስ ደቂ ተባዕትዮ ኩዕሶ እግሪ ክፃወቱ ሪኣ፤ ናብኣቶም ተሓዊሳ ክትፃወት ደልያ፡፡ ምስአቶም ተሓዊሳ ክትለማመድ ትክእል እንተኾይና ድማ ነቲ ኣሰልጣኒ ሓቲታቶ፡፡
+P2	እቲ አሰልጣኒ አእዳው አብ ሽምጡ ገይሩ፡፡ ''አብዚ ቤት ትምህርቲ ፀወታ እግሪ ኩዕሶ ንደቂ ተባዕትዮ ጥራሕ እዩ ክፃወቱ ተፈቂዱ'' ኢሉ መለሰላ፡፡
+P3	እቶም ደቂ ተባዕትዮ ንዓአ መርበብ ኩዕሶ ኸይዳ ንክትፃወት ነጊሮማ፡፡ ከምዚ እውን ኢሎም መርበብ ኩዕሶ ንደቂ ኣንስትዮ እግሪ ኩዕሶ ድማ ንደቂ ተባዕትዮ እዩ ምስበልዋ ትርሓስ ሓሪቃ፡፡
+P4	 ኣብቲ ካልአይ መዓንቲ፤ እቲ ቤት ትምህርቲ ከቢድ ውድድር ፀወታ እግሪ ኩዕሶ ነይርዎ፡፡ እቲ አሰልጣኒ አብዚ ውድድር ብጣዕሚ እዩ ሓዚኑ ነይሩ ምክንያቱ ድማ እቲ ብሉፅ ተፃወቲኡ ብምሕማሙ፡፡.
+P5	ትርሓስ ናብቲ አሰልጣኒ ብፍጥነት ከይዳ ንኽትፃወት ንክፈቅደላ ለሚናቶ፡፡ እቲ አሰልጣኒ እንታይ ከም ዝውስን ርግፀኛ ኣይነበረን፡፡ ደሓር ግን ትርሓስ ናብቲ ቡድን ተሓዊሳ ንኽትፃወት ፈቂዱላ፡፡
+P6	እቲ ፀወታ ከቢድ ብምንባሩ ክሳብ ጊዜ ዕረፍቲ ምንም ጎል (ሽቶ) ክምዝገብ ኣይክአለን ነይሩ፡፡
+P7	ካብ ዕረፍቲ መልሲ ሓደ ተፃዋቲ እታ ኩዕሶ ናብ ትርሓስ ኣሕሊፍ ሂብዋ፡፡ ንሳ ብፍጥትን ናብ ጎል ገፅ ብምሕላፍ ብሓይሊ ብምውቃዕ ሽቶ አመዝጊባ፡፡
+P8	እቶም ተመልከቲ ወሰን ዘይብሉ ሓጎስ ተሰመዖም፤ ካብዚ ዕለት ጀሚሩ አብቲ ቤት ትምህርቲ ንደቂ ኣንስትዮ ፀወታ እግሪ ኩዕሶ ተፈቂዱ፡፡
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/4460.png
+illustrations/pages/4461.png
+illustrations/pages/4462.png
+illustrations/pages/4463.png
+illustrations/pages/4464.png
+illustrations/pages/4465.png
+illustrations/pages/4466.png
+illustrations/pages/4467.png
+
+translations:
+
+Amharic (Translation)	አዲሴ- የእግር ኳስ ኮከቧ	id=12962
+English (Original)	Andiswa Soccer Star	id=5283
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=16757
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

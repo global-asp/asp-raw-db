@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18148&d=0&a=1
+id:	18148
+title:	ክንፍ ያበቀለው ልጅ
+author:	መዘምር ግርማ
+artist:	Tadesse Teshome
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/18148.png
+desc:	አንድ ልጅ የወንድሙን ዶሮ በልቶ ክንፍ ማብቀል ጀመረ፡፡ (ይህ ተረት በመጀመሪያ በወርቁ ደበሌ ተተረተ፡፡ የእንግሊዝኛው ቅጂ የተጻፈው በኤልሳቤት ሊያርድ ነው፡፡)
+
+page_text:
+
+P1	በድሮ ጊዜ ሁለት ወንድ ልጆች ያሏቸው አንድ ሀብታም ሰው ነበሩ፡፡ ሀብታሙም ሰውዬ በኑዛዜያቸው ላይ የበኩር ልጃቸው ሁሉንም ላሞቻቸውን እንዲወስድ ተናዙለት፡፡ ለትንሹ ልጃቸው ግን አንድ አውራ ዶሮ ብቻ ተናዘዙ፡፡
+P2	ሰውዬውም ከሞቱ በኋላ የበኩር ልጃቸው ሁሉንም ላሞች ወሰደ፡፡ ትንሹ ልጅ ግን አንድ አውራ ዶሮ ብቻ ደረሰው፡፡
+P3	ከተወሰነ ጊዜ በኋላ ሀብታሙ ልጅ ታመመ፡፡ መፍትሔ ፍለጋም ወደ አንድ የባሕል መድሐኒት አዋቂ ሰው ሄደ፡፡ መድሐኒት አዋቂውም ''አንዲህ እንዲህ ዓይነት አውራ ዶሮ እረድ'' አሉት፡፡
+P4	ሀብታሙም ልጅ የተባለውን ዓይነት አውራ ዶሮ ለማግኘት ተቸገረ፡፡ ከዚያም የወንድሙን አውራ ዶሮ አስታወሰ፡፡ ወደ ወንድሙም የተወሰኑ ሰዎችን ላከ፡፡
+P5	ወንድምዬውም ''ያለኝ አንድ ብቸኛ ሀብት ይሄ አውራ ዶሮ ነው፡፡ ወንድሜን ካዳነው ግን ከወንድሜ ስለማይበልጥብኝ ሰጥቻለሁ'' አላቸው፡፡
+P6	ሰዎቹ ዶሮውን አርደው ለታመመው ልጅ አበሉት፡፡ ልጁም ከሕመሙ ዳነ፡፡
+P7	ከተወሰነ ጊዜ በኋላም እጅግ ያልተለመደ ነገር ተከሰተ፡፡ የሀብታሙ ልጅ ሰውነት ላባና ክንፎች ማብቀል ጀመረ፡፡
+P8	የሚያየውን ማመን አልቻለም፡፡
+P9	ወደ አዛውንቶች ሄደ፡፡ እነሱም ''ይህ ወንድምህን ስለበደልከው የመጣብህ ቁጣ ነው፡፡ ሁሉንም ላሞች ወስደህ ስታበቃ አባትህ ያወረሱትን ዶሮም በላህበት'' አሉት፡፡ ሽማግሌዎቹ ለሀብታሙ ልጅ ''እንድትድን ከፈለግህ ወንድምህ ይቅር ሊልህ ይገባል'' አሉት፡፡
+P10	ሽማግሌዎቹ ''ይህን የእጅ አምባር የምህረቱ ምልክት እንዲሆን ለወንድምህ እንሰጠዋን፡፡ ከተፋበት ትድናለህ'' ሲሉ አስረዱት፡፡
+P11	ሽማግሌዎቹም የእጅ አምባሩን ወንድሙ ጋ ወስደው ''ትፋበትና ወንድምህን ይቅር በለው'' አሉት፡፡ ወንድምዬውም ተፋበት፡፡
+P12	በመሆኑም ሽማግሌዎቹ ከሀብታሙ ልጅ ላሞች ግማሹን ለድሃው ወንድሙ ለመስጠት ወሰኑ፡፡
+
+images:
+
+illustrations/pages/18142.png
+illustrations/pages/17994.png
+illustrations/pages/17995.png
+illustrations/pages/17997.png
+illustrations/pages/18138.png
+illustrations/pages/18139.png
+illustrations/pages/18140.png
+illustrations/pages/18141.png
+illustrations/pages/18142.png
+illustrations/pages/18143.png
+illustrations/pages/18144.png
+illustrations/pages/18145.png
+illustrations/pages/18146.png
+
+translations:
+
+English (Original)	Man Who Grew Feathers	id=18147
+Kiswahili (Translation)	Mwanamume Aliyeota Manyoya	id=19400

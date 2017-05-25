@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=2526&d=0&a=1
+id:	2526
+title:	Barua Kwa Mama
+author:	Ursula Nafula
+artist:	Catherine Groenewald
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/2526.png
+desc:	Mama anaenda hospitalini kujifungua mtoto na bintiye anamwandikia barua.
+
+page_text:
+
+P1	Mama aliziweka nguo zake katika begi ndogo.
+P2	Alinikumbatia akasema,  "Kwa heri kwa sasa."
+P3	"Mama unaenda wapi?" Nilimwuliza.
+P4	Nilianza kulia nikitaka kumfuata. Hata hivyo,  baba alinibeba na kunituliza.
+P5	Baba alisema,  "Mamako anaenda hospitalini kujifungua mtoto."
+P6	Niliposikia 'mtoto' sikulia tena. Nilimwuliza,  "Kwa nini aende hospitalini?"
+P7	Baba alinijibu,  "Nitakueleza kwa nini anaenda kumpata mtoto hospitalini."
+P8	Babangu alisema,  "Tutakupenda wakati wote."
+P9	"Ninaweza kumwandikia barua akiwa huko?" Nilimuuliza baba.
+P10	Jioni hiyo,  nilianza kumtungia mama barua.
+P11	Nilichukuwa karatasi na kuanza kuandika.
+P12	"Mama,  mama! Baba alisema kwamba umeenda kumleta mtoto mwingine."
+P13	Tafadhali,  fanya haraka urudi nyumbani.
+P14	Ningependa umlete mtoto msichana. Nitacheza naye akiwa mkubwa.
+P15	Unaweza kuwaleta wawili. Mmoja atakuwa wangu.
+P16	Ninakusubiri hapa nyumbani.
+P17	Niliikunja barua yangu ili baba ampelekee mama. Asubuhi,  barua haikuwepo.
+
+images:
+
+illustrations/pages/1503.png
+illustrations/pages/1504.png
+illustrations/pages/1505.png
+illustrations/pages/1506.png
+illustrations/pages/1507.png
+illustrations/pages/1508.png
+illustrations/pages/2133.png
+illustrations/pages/1509.png
+illustrations/pages/1510.png
+illustrations/pages/1511.png
+illustrations/pages/1512.png
+illustrations/pages/1513.png
+illustrations/pages/1514.png
+illustrations/pages/1503.png
+illustrations/pages/1515.png
+illustrations/pages/1516.png
+illustrations/pages/1517.png
+illustrations/pages/1518.png
+
+translations:
+
+Afrikaans (Translation)	'n Briefie Vir Mamma	id=11343
+Afrikaans (Translation)	Brief Aan Ma	id=11350
+English (Original)	Letter to Mum	id=2134
+isiZulu (Translation)	Incwadi Kamama	id=11513
+Naro (Translation)	Tcgãyas Áís Koe Ko Síí Sa	id=16457

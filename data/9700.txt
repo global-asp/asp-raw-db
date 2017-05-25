@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=9700&d=0&a=1
+id:	9700
+title:	Teacher Akinyi
+author:	Lawrence A. Konjuro
+artist:	Vusi Malindi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9700.png
+desc:	A short and simple story about a wonderful teacher and what she teaches us.
+
+page_text:
+
+P1	This is my teacher. Her name is Teacher Akinyi. She loves us a lot.
+P2	Teacher Akinyi teaches us the alphabet. She teaches us the vowels. I can say the letters a,  e,  i,  o,  u.
+P3	Teacher Akinyi teaches us colours. I know red,  blue,  green,  yellow,  and black.
+P4	During nap time,  Teacher Akinyi sings us to sleep. She sings a lullaby to us.
+P5	On Monday,  she tells us stories about great men.
+P6	On Tuesday,  she tells us stories about great women.
+P7	On Wednesday,  she tells us stories about means of transport.
+P8	On Thursday,  she tells us stories about farming.
+P9	And on Friday,  we tell our own stories to the class.
+P10	Our teacher is the best teacher in the world! When I grow up,  I want to be like Teacher Akinyi.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+French (Translation)	La Maîtresse Akiny	id=10685
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Bakafundisha Ba Akinyi	id=18586
+isiNdebele (Translation)	Utitjhere Nkosi	id=13043
+isiXhosa (Translation)	Utitshalakazi Uakinyi	id=14116
+isiZulu (Translation)	Uthisha Uzanele	id=13537
+isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
+Kimîîru (Original)	Mwarimu Makena	id=9688
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Tshivenda (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

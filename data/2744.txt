@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=2744&d=0&a=1
+id:	2744
+title:	Enairóshi Ó Enánénéng
+author:	Leonard Kotikash
+artist:	Kathy Arbuckle
+lang:	Maa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/2744.png
+desc:	
+
+page_text:
+
+P1	Káa náíroshi? Ké lúkunku o aashû enkópíró?
+P2	Káa náneneng? Ké entapúkái o aashû olpáyékí?
+P3	Káa kéráí te kúna náíroshi?
+P4	Kálo óíroshi? Ké olpayíán o aashû oltómé?
+P5	Káa náíroshi? Ké enkílo oó isoitó.
+P6	 O aashû embéné é esimíti?
+P7	Káa náíroshi? Ké enkílo é esukári.
+P8	o aashû enkílo oó inkopír?
+
+images:
+
+illustrations/pages/1579.png
+illustrations/pages/1579.png
+illustrations/pages/1580.png
+illustrations/pages/1581.png
+illustrations/pages/1583.png
+illustrations/pages/1584.png
+illustrations/pages/1585.png
+illustrations/pages/1586.png
+illustrations/pages/1587.png
+
+translations:
+
+Kikamba (Translation)	Nditu Na Mbũthũ	id=2855
+Kiswahili (Translation)	Nzito Na Nyepesi	id=2856
+Lunyole (Translation)	Ehisito N'ehyangu	id=2857
+Ng’aturkana (Translation)	Apotis Ka Aooku	id=2858
+Oluwanga (Translation)	Obusiro Nende Obwangu	id=2859
+Setswana (Translation)	Boima Le Bofefo	id=2860
+Somali (Translation)	Culeeys 'yo Fudeeyd	id=17258
+Zande (Translation)	Raraihe Na Guhe Araa Nga Ya	id=16760

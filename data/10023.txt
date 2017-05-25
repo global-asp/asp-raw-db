@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=10023&d=0&a=1
+id:	10023
+title:	Inkawu Idla Umsila Wayo
+author:	Princess Ndlovu
+artist:	Horácio José Cossa
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10023.png
+desc:	uNogwaja uphezu kwamasu akhe futhi!
+
+page_text:
+
+P1	UNogwaja wayengumngani omkhulu wenkawu.
+P2	Ngelinye ilanga unogwaja wathi: Masihambe siyofuna into esizoyidla. Inkawu yavuma,  kodwa wayesezigwaze ngowakhe.
+P3	Bahamba baya emasimini ombila baqala badla umbila.
+P4	Kodwa unogwaja ohlakaniphile wayesekhulume nabanikazi bepulazi,  ukuthi abambe inkawu bese eyikhombisa ukuthi iyisilima.
+P5	Unogwaja ohlakaniphile waqala wamemeza: Amasela! Amasela! Umbila wakho usuhambe wonke! Wase egxuma ebaleka.
+P6	Ngokuphazima kweso,  abalimi base befikile bathola inkawu izama ukubaleka. Kodwa inomsila omude kanti wawumbambezela.
+P7	Abalimi bayilandela bememeza: Ima! Ima! Sikubonile,  uwena inkawu.
+P8	Kodwa bamthola base beqala bemshaya.
+P9	Akakwazanga ukubekezelela ubuhungu wase ethi: Benginomngani wami unogwaja. Uyena ongimemile.
+P10	Kodwa abalimi bayinquma umsila base beyitshela ukuthi: Hamba uyotshela umngan wakho ukuthi sikunqume umsila!
+P11	Base bahamba baya endlini kanogwaja apheka umsila wenkawu kuze bazowudla.
+P12	Emva kwesidlo unogwaja wabuza inkawu ukuthi iyazi ukuthi beyidlani. Isilima senkawu saphendula:.
+P13	Unogwaja wamtshela ukuthi ubedla umsila wakhe wase ebaleka. Kusukela lapho baphenduka izitha.
+
+images:
+
+illustrations/pages/8012.png
+illustrations/pages/8010.png
+illustrations/pages/8011.png
+illustrations/pages/8012.png
+illustrations/pages/8013.png
+illustrations/pages/8014.png
+illustrations/pages/8015.png
+illustrations/pages/8016.png
+illustrations/pages/8017.png
+illustrations/pages/8018.png
+illustrations/pages/8019.png
+illustrations/pages/8020.png
+illustrations/pages/8021.png
+illustrations/pages/8022.png
+
+translations:
+
+Ateso (Translation)	Enyami Edokolet Eke Kori	id=9338
+Kiswahili (Translation)	Kima Kijani Kibichi Ala Mkia Wake	id=8706
+Kiswahili (Adaptation)	Kima Apoteza Mkia Wake	id=13153

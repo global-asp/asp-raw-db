@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=17740&d=0&a=1
+id:	17740
+title:	Inolwana Yomlilo
+author:	Mahlangu Maria
+artist:	Rob Owen
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/17740.png
+desc:	Fire tells its own story.
+
+page_text:
+
+P1	Ngivumele ngikudembele indaba yami. Mina ngithoma ngingelincani ilangabe.
+P2	Mina ngigijima emangweni lokha ummoya ungithwala.
+P3	Sibangani abahle, wena nami.
+P4	Mina ngipheka ukudla kwakho.
+P5	Mina ngikhanyisa ubusuku bakho.
+P6	Mina nginamaqhinga nemilingo eminengi.
+P7	Mina ngiyingcenye yomndeni wakho.
+P8	Kodwa yelela ngesikhatheso ungimemela emzini wakho. Mina angithandi bona ungitjhiye ngedwa.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Afrikaans (Translation)	Die Storie Van Vuur	id=10807
+French (Translation)	L’Histoire Du Feu	id=10760
+Portuguese (Translation)	A História Do Fogo	id=16415

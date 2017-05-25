@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=13413&d=0&a=1
+id:	13413
+title:	Nanu Se Taxi
+author:	Saajida Parak
+artist:	Marion Drew
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13413.png
+desc:	Nanu and her mother are waiting for a taxi to take them home. Nanu sees all sorts of interesting people and things while they wait. But will their taxi ever arrive?
+
+page_text:
+
+P1	Hallo! My naam is Nanu. Ek wag met my ma vir a taxi. Ons gaan huis toe.
+P2	Hier staan ek in die lyn. My ma sing vir my 'n lied. "Kom Mnr Taxi kan jy nie sien nie? Ons wag. Ek en Nanu!"
+P3	Die vrou langs my neem haar hoeners huis toe. Hulle lê eiers vir haar om te eet.
+P4	Hierdie manne kom terug van die werk. Hulle glimlag met my. Ek hoor hulle sing,  "Hey klein Nanu,  moet jou nie bekommerd wees nie. Taxi kom in 'n haas."
+P5	'n Dame loop verby. Sy is 'n baie stylvolle dame. Is haar skoene nie pragtig nie? Hulle gaan " klik,  klik,  klik. Klik,  klik,  klik." wanner sy loop.
+P6	 Die man verkoop koeldrank. Ek is mal oor koeldrank.  Hulle is so koud and soet. Hou jy van hulle?
+P7	Kyk! Hier is dame wat vat hulle aandete huis toe op hulle koppe. Is hulle nie slim?
+P8	Die vrou kry haar hare gedoen. Sy gaan uit saam met haar vriende vanaand.
+P9	Ek is nou moeg. My ma sit my op haar rug waar ek kan rus. Sy sing, "Asseblief Mnr Taxi,  moet nie laat wees nie,  Gogo wag by ons hek."
+P10	Daar is my vriend Tumi. Hy rus ook. Ons sal nou by die huis wees.
+P11	Hoog daar vlieg die voëls huis toe. Hulle moet by die huis wees voor dit donker raak.
+P12	Die dame het pragtige oorbelle. Ek dink sy het dit by die dorp gekoop vandag. Wanneer ek grootword sale k baie oorbelle koop vir my en my ma.
+P13	My ma kry nou moeg. Ek sing vir haar 'n lied,  "Asseblief Mnr Taxi,  Sal jy nie kom,  ons wag,  ek en ma."
+P14	Wag! Ek kan die taxi hoor! Hier kom dit!
+P15	Dit is ons groot rooi taxi. Dit het gekom om vir my en ma huis toe te neem. Ek is baie Gelukkig !
+P16	Totsiens !
+
+images:
+
+illustrations/pages/7576.png
+illustrations/pages/7560.png
+illustrations/pages/7562.png
+illustrations/pages/7563.png
+illustrations/pages/7564.png
+illustrations/pages/7565.png
+illustrations/pages/7566.png
+illustrations/pages/7571.png
+illustrations/pages/7568.png
+illustrations/pages/7569.png
+illustrations/pages/7570.png
+illustrations/pages/7572.png
+illustrations/pages/7573.png
+illustrations/pages/7574.png
+illustrations/pages/7575.png
+illustrations/pages/7576.png
+illustrations/pages/7577.png
+
+translations:
+
+Afrikaans (Translation)	Nanu Se Taxi	id=11245
+English (Original)	Nanu’S Taxi	id=7590
+French (Translation)	Le Taxi-Brousse De Nanu	id=12665
+Kiswahili (Translation)	Teksi Ya Nanu	id=8713
+Portuguese (Translation)	O Táxi Da Nanu	id=17619

@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=15939&d=0&a=1
+id:	15939
+title:	Kubwa Na Ndogo
+author:	Alice Kairichi
+artist:	Vian Oelofsen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15939.png
+desc:	Kulinganisha vitu vikubwa na vidogo.
+
+page_text:
+
+P1	Kofia kubwa,  kofia ndogo.
+P2	Yohana amevaa  kofia kubwa. Ngugi amevaa kofia ndogo.
+P3	Mikono mikubwa,  mikono midogo.
+P4	Baba ana mikono mikubwa. Mtoto ana mikono midogo.
+P5	Mbuzi mkubwa,  mbuzi mdogo.
+P6	Mbuzi mkubwa alikula kitabu kidogo. Mbuzi mdogo alikula kitabu kikubwa.
+P7	Kitabu kikubwa,  kitabu kidogo.
+P8	Mtoto anasoma kitabu kikubwa. Baba anasoma kitabu kidogo.
+P9	Tabasamu kubwa,  tabasamu ndogo.
+P10	Baba ana tabasamu kubwa. Mtoto ana tabasamu ndogo.
+P11	Kubwa na ndogo!
+
+images:
+
+illustrations/pages/3048.png
+illustrations/pages/3057.png
+illustrations/pages/3049.png
+illustrations/pages/3050.png
+illustrations/pages/3051.png
+illustrations/pages/3052.png
+illustrations/pages/3053.png
+illustrations/pages/3054.png
+illustrations/pages/3055.png
+illustrations/pages/3048.png
+illustrations/pages/3056.png
+illustrations/pages/3059.png
+
+translations:
+
+English (Original)	Little and Big	id=3060
+English (Adaptation)	Small and Big	id=13556
+Lunyole (Translation)	Ehitono N'ehibbala	id=13555
+Maa (Translation)	Enkití Ó Esápuk	id=3090
+Ng’aturkana (Translation)	Niichi Ka Niapolon	id=3091
+Oluwanga (Translation)	Akhatiiti Nende Okukhoongo	id=3092
+Somali (Translation)	Waxyar Iyo Waxweeyn	id=17259
+Tunisian (Translation)	Ṡɍìr W Kbìr	id=15278
+Zande (Translation)	Umba Na Bakere	id=16762

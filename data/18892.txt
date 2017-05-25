@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=18892&d=0&a=1
+id:	18892
+title:	The Lady In Orange
+author:	Ursula Nafula
+artist:	Catherine Groenewald
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18892.png
+desc:	A child is fascinated by the colour orange.
+
+page_text:
+
+P1	My father took me to town in our old blue car. We stopped at a big roundabout to wait for the lights to turn green.
+P2	I saw a lady walking on the side of the road. She was wearing a beautiful bright orange dress.
+P3	She had a big red belt around her waist.
+P4	In her hand,  she carried a shiny little orange handbag.
+P5	She wore a pair of shiny orange high-heeled shoes.
+P6	She stopped and touched her long hair,  which was held together in the middle with a hairpin.
+P7	As she fixed her hairpin,  her handbag fell down. "Ouch," I said feeling bad for her.
+P8	The lady bent to pick up her handbag.
+P9	I saw long orange earrings as she cleaned the dust off her handbag.
+P10	The lights changed green,  and our car drove off,  but I kept looking behind.
+P11	"What are you looking at?" my father asked.
+P12	"At the lady in orange," I said. I thought of the colour orange all day.
+
+images:
+
+illustrations/pages/9474.png
+illustrations/pages/9465.png
+illustrations/pages/9466.png
+illustrations/pages/9469.png
+illustrations/pages/9470.png
+illustrations/pages/9939.png
+illustrations/pages/9940.png
+illustrations/pages/9474.png
+illustrations/pages/9942.png
+illustrations/pages/9475.png
+illustrations/pages/9476.png
+illustrations/pages/9477.png
+illustrations/pages/9478.png
+
+translations:
+
+Kiswahili (Original)	Rangi Ya Chungwa	id=10202
+Portuguese (Translation)	A Senhora Em Cor-De-Laranja	id=18893

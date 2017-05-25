@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=16209&d=0&a=1
+id:	16209
+title:	Happy Akai
+author:	Dominic E Emuria and David A Lodung'a
+artist:	Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16209.png
+desc:	A girl gets shoes for the first time.
+
+page_text:
+
+P1	Akai had no shoes. Other children her age     had shoes.
+P2	"It is difficult to play without shoes," said Akai  to her mother.
+P3	"Akai,  I think it is time for you to have shoes," said mother. .
+P4	Mother woke up Akai   early the next morning.   .
+P5	Akai and her mother went to the market. .
+P6	They went into a shoe shop. Mother bought shoes for Akai.
+P7	At night,  Akai thought about her new shoes. .
+P8	Akai put on her new shoes. .
+P9	Akai thought about how she would show off her shoes. .
+P10	Akai wore her new shoes again. She danced around the room.
+P11	"Akai,  you must not wear shoes in bed," said mother. .
+P12	Akai was so happy to have shoes for the first time.
+
+images:
+
+illustrations/pages/9500.png
+illustrations/pages/9494.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9499.png
+illustrations/pages/10444.png
+illustrations/pages/9498.png
+illustrations/pages/9502.png
+illustrations/pages/9501.png
+illustrations/pages/9500.png
+
+translations:
+
+Kiswahili (Translation)	Akai Amefurahi	id=15862

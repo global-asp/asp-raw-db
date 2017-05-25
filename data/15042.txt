@@ -1,0 +1,31 @@
+url:	http://africanstorybook.org/reader.php?id=15042&d=0&a=1
+id:	15042
+title:	Diel Matin
+author:	Christine Akello
+artist:	Rob Owen, Marion Drew, Magriet Brink and Catherine Groenewald
+lang:	Dholuo
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15042.png
+desc:	Owacho kaka diel no dhi nyieo koti.
+
+page_text:
+
+P1	Idhikanye dielna matin?
+P2	Adhi e chiro nyieo koti.
+P3	Koti mar diel?
+P4	Ere kaka diel nyalo rwako koti?
+P5	Ji bonyiero diel morwako koti!
+
+images:
+
+illustrations/pages/9613.png
+illustrations/pages/9616.png
+illustrations/pages/9495.png
+illustrations/pages/8984.png
+illustrations/pages/9857.png
+illustrations/pages/9712.png
+
+translations:
+
+English (Original)	My Little Goat (Colour-In)	id=9885

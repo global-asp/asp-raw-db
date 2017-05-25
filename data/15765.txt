@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=15765&d=0&a=1
+id:	15765
+title:	Nya Simu
+author:	Owino Ogot and Athieno Gertrude
+artist:	Marion Drew
+lang:	Dhopadhola
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15765.png
+desc:	Nya Simu oyido dhano gi pi! Apar ye bedo gi simu abic ma luwo gi ji m’opokere opokere?
+
+page_text:
+
+P1	I lwoŋo ni Nya Simu.    Anen go!
+P2	Ni gi simu abic. Go cano simu pere iwi meza ka ocewi.
+P3	Manyatoŋgweno mere maluwo gi jo peco.
+P4	Matar mere ma luwo gi ji ma ka tic.
+P5	M'obokere mere ma luwo gi jo banjin pere.
+P6	Marakwaro mere ma luwo gi mere pere ma kacunye.
+P7	Ma olyewa meno maluwo gi ji ma rango bothe kony.
+P8	Nya Simu mito ni ji wosangala. Go dak gorok.
+P9	Go yeyo nyithindho neno televison i duka pere.
+P10	Go limo jutwo gi jum'otegino i pecin pa jo.
+P11	Kis kama go kadho iye ikoko ni,  "Nya Simu! Nya Simu!"
+P12	Go sangala aka waco ni,  "An Nya Simu aka e-e neni simu paran!" Meno Nya Simu gi simu pere abic.
+
+images:
+
+illustrations/pages/10053.png
+illustrations/pages/10048.png
+illustrations/pages/10049.png
+illustrations/pages/10050.png
+illustrations/pages/10051.png
+illustrations/pages/10052.png
+illustrations/pages/10053.png
+illustrations/pages/10054.png
+illustrations/pages/10055.png
+illustrations/pages/10056.png
+illustrations/pages/10057.png
+illustrations/pages/10058.png
+illustrations/pages/10059.png
+
+translations:
+
+English (Translation)	Ms Phone	id=14420
+French (Translation)	Mme Téléphone !	id=14969
+Kinyarwanda (Translation)	Nyiramaterefone	id=17468
+Kiswahili (Original)	Bi Simu	id=14419
+Portuguese (Translation)	Menina Telefone	id=17046
+Setswana (Translation)	Mma Mogala	id=14939

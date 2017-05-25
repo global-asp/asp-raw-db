@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=15388&d=0&a=1
+id:	15388
+title:	Ṡuħàb
+author:	Ramzi Hachani
+artist:	Catherine Groenewald
+lang:	Tunisian
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/15388.png
+desc:	Ħkèyet wlid w ṡuħàbu
+
+page_text:
+
+P1	Ène ismi Simo.
+P2	Ène ġandi arbġa ṡuħàb.
+P3	Esèmìhum Zizo,  Lele,  Sisa w Ayanda.
+P4	Ṡàħibti Zizo tħibb laġb il-kùra.
+P5	Ṡàħibti Lele tħibb il-ġùmèn.
+P6	Ṡàħbi Sisa yħibb laġb il-ɍummìża.
+P7	Ṡàħibti Ayanda tħibb il-qràye.
+P8	W'ène? Ène nħibb naġmil il-ħàjèt il-kull illi hùme yħibbu yaġmlùhum.
+P9	Nalġab il-kùra mġa Zizo.
+P10	Nġùm mġa Lele.
+P11	Nalġab il-ɍummìża mġa Sisa.
+P12	W'inti,  ṡàħbi,  cnuwwe tħibb taġmil?
+P13	Ìje alġab il-kura mġàne.
+P14	Ìje ġùm mġàne.
+P15	Ìje alġab il-ɍummìże mġàne.
+P16	Ìje aqra mġàne!
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Tshivenda (Translation)	Khonani	id=18299
+Xitsonga (Translation)	Vanghana	id=18879

@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=9296&d=0&a=1
+id:	9296
+title:	Fire's Story
+author:	Nina Orange
+artist:	Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9296.png
+desc:	Fire tells its own story.
+
+page_text:
+
+P1	Let me tell you my story. I start as a small spark.
+P2	I run wild when the wind carries me.
+P3	We are good friends,  you and I.
+P4	I cook your food.
+P5	I light your night.
+P6	I have many tricks.
+P7	I am part of your family.
+P8	But be careful when you invite me to your home. I don't like to be left alone.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+

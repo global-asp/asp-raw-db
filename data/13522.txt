@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=13522&d=0&a=1
+id:	13522
+title:	Akidodok Nabworok
+author:	Lolupe teachers
+artist:	Hélder de Paz Alexandre
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13522.png
+desc:	Erono akirok ngakiro napenyepedorosi.
+
+page_text:
+
+P1	Arai akidodok ka ayole ng'ipaalon.
+P2	Amalimali eleu lo ayole.
+P3	Abworok eleu lo akidodok.
+P4	Abu ayole tama napaekeng kitukulau ng'akipi.
+P5	Kipung'ar akidodok nawi akisub ng'una.
+P6	Dio akidodok kitukulau ng'akipi.
+P7	Tachakakin ng'esi nakipi na akulate.
+P8	Tonoma ng'akipi eleu keng kilebeleb.
+P9	Abu akidodok tobworokok noi!
+
+images:
+
+illustrations/pages/7077.png
+illustrations/pages/7069.png
+illustrations/pages/7070.png
+illustrations/pages/7071.png
+illustrations/pages/7072.png
+illustrations/pages/7073.png
+illustrations/pages/7074.png
+illustrations/pages/7075.png
+illustrations/pages/7076.png
+illustrations/pages/7077.png
+
+translations:
+
+Afrikaans (Translation)	Hoekom Padda so Lelik Is	id=11439
+English (Original)	Why Frog is so Ugly	id=7205
+English (Adaptation)	Why Frog is so Ugly - Colouring Book	id=17360
+isiXhosa (Translation)	Kutheni Isele Lilibi?	id=13083
+isiXhosa (Adaptation)	Kutheni Isele Lilibi? (Faka Imibala)	id=17551
+Kiswahili (Translation)	Sababu Chura Kuwa Na Sura Mbaya	id=8712
+Luganda (Translation)	Lwaki Wakikere Mubi Nnyo?	id=9657
+Luganda (Adaptation)	Wakikere Ne Wamunya	id=13778
+Portuguese (Translation)	Porquê a Rã É Tão Feia?	id=7477
+Portuguese (Translation)	O Porquê Do Sapo Ser Tão Feio	id=19259
+siSwati (Translation)	Kungani Sicoco Sibe Sibi	id=12610
+Xitswa (Adaptation)	Hikuyini a Kheli Gi Svarili	id=9789

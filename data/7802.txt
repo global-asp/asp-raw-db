@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=7802&d=0&a=1
+id:	7802
+title:	Obuyonjo Bulungi
+author:	Annet Ssebaggala
+artist:	Sue Kramer, Wiehan de Jager, Sandy Lightly, Catherine Groenewald and Vusi Malindi
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7802.png
+desc:	Obuyonjo kintu kikulu nnyo era buli muntu atekedwa abeere muyonjo mu buli kintu kyonna ekikwatagana nobulamu bwe. Obuyonjo butuyamba okutangira endwadde.
+
+page_text:
+
+P1	Okunaaba buyonjo. Naaba omubiri gwo obeere muyonjo.
+P2	Okwooza buyonjo. Yoza engoye zo obeere muyonjo.
+P3	Okusenya buyonjo. Senya amannyo go obeere muyonjo.
+P4	Okweera buyonjo. Yera olujja,  effumbiro,  n'ekisenge obeere muyonjo. Tewerabira kwaala obuliri bwo.
+P5	Okufumba buyonjo. Fumba emmere. Fumba enyama ejje bulungi.
+P6	Yoza ebibala nga tonaba kubirya.
+P7	Fumba amazzi agokunywa. Gateeke mu nsuwa oba mu kadomola. Gasanikireko bulungi.
+P8	Simba ebimuli mu lujja lwo lulabike bulungi.
+
+images:
+
+illustrations/pages/1762.png
+illustrations/pages/7515.png
+illustrations/pages/6452.png
+illustrations/pages/7518.png
+illustrations/pages/7517.png
+illustrations/pages/1652.png
+illustrations/pages/6661.png
+illustrations/pages/1420.png
+illustrations/pages/940.png
+
+translations:
+
+Lunyole (Translation)	Obuŋoono Bulaŋi	id=13700

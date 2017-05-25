@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=15736&d=0&a=1
+id:	15736
+title:	Lyec Gi Ŋokino
+author:	Owino Ogot and Athieno Gertrude
+artist:	Wiehan de Jager
+lang:	Dhopadhola
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15736.png
+desc:	Kere oketho gir atima matek swa
+
+page_text:
+
+P1	Cango,  cango,  cango i tindi moro obedo iye kere gi nyare maber swa.
+P2	Oyido peco pa lyec nitye yuthenge acel ma tindi no. Aka Ŋokino oyido bende bedo yuthenge man.
+P3	I hongo no,  ceŋ olyel tektek swa i piny gi pi. To kere bedo gi paro to lwoŋo jo ger pere aryo me bino i tindi pere.
+P4	Kere owaco ri Lyec gi Ŋokino ni,  "Amito wi nyon piny gi tyendi win nyuka pi wok."  Kere ociko ni le miyo nyare ri ŋat meno ma onyal wodho pi.
+P5	Ŋokino ku bedo gi geno paka go oyido thin swa. Lyec osangala swa paka go oyido dwoŋ tektek aka nitye gi men. Lyec okidho i ndelo to cako nyono piny.
+P6	Fukefuke mathoth oduny,  to pi ku wok. Lyec onyono anyona piny to ol. Pi oyido cegin wok! To miyo Ŋokino silwany ni bende wo tem.
+P7	Ŋokino to cako nyono piny. I hongo macek won,  to pi wok. Ji jo kunyalo yeyo gi ma ju neno gi waŋ jo.
+P8	To kere miyo Ŋokino nyare. Omiyo Lyec wotho munyo kumo.
+
+images:
+
+illustrations/pages/9461.png
+illustrations/pages/9457.png
+illustrations/pages/9458.png
+illustrations/pages/9459.png
+illustrations/pages/9460.png
+illustrations/pages/9461.png
+illustrations/pages/9462.png
+illustrations/pages/9463.png
+illustrations/pages/9464.png
+
+translations:
+
+English (Original)	Elephant and Chameleon	id=10455
+Kiswahili (Translation)	Ndovu Na Kinyonga	id=15616
+Portuguese (Translation)	O Elefante E O Camaleão	id=16414
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=10456
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=11901
+Yoruba (Translation)	Eerin Àti Ọ̀gà	id=16556

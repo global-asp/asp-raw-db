@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=7481&d=0&a=1
+id:	7481
+title:	Mosimane Wa Megabaru
+author:	Lucilla Ramashala
+artist:	Marleen Visser, Wiehan de Jager, Eden Daniels and Bronwen Heath
+lang:	Sepedi
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7481.png
+desc:	This story is suitable for young readers
+
+page_text:
+
+P1	Letsatsi le lengwe basemane ba bararobao ba tswago motseng wa ga Mogulu,  baile ba ya g tsona. Ba ile ba somisa dimpsa go bathusa.
+P2	Ge bale tseleng baile ba gahlana le dinonyane. Baile ba di kitimisa go fihlela ba di hwetsa e bile ba di bolaya.
+P3	Ge nako ya goya gae e fihla,  ba ile ba swanelwa ke go aroganya dinonyane. Mosemane o tee o ile a tshaba le dinonyane tse pedi.
+P4	Basemane ba bangwe ba babedi baile ba mo kitimisa ba mo amoga dinonyane tsela.
+
+images:
+
+illustrations/pages/5815.png
+illustrations/pages/6377.png
+illustrations/pages/296.png
+illustrations/pages/4466.png
+illustrations/pages/1717.png
+
+translations:
+
+Ateso (Translation)	Esapat Lo Eisinye.	id=7651
+English (Original)	A Greedy Boy	id=6388

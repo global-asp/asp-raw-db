@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=7366&d=0&a=1
+id:	7366
+title:	The Man Who Lived Alone
+author:	Little Zebra Books
+artist:	Little Zebra Books and Trevor Kellog
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7366.png
+desc:	This is the story of a man who didnt want to live near other people. The man and his wife moved to a remote house
+
+page_text:
+
+P1	There was a man who didn't want to live close to his neighbours. And he also didn't want his wife to visit the homes of her neighbours.
+P2	One day he went and built a home way out in the bush,  far from the homes of his neighbours.
+P3	He would go out every day in the morning and come home late at night.
+P4	One night the man was very late getting home. A hyena saw what that man was doing.
+P5	The hyena went and knocked on the door of the house.
+P6	The woman,  thinking it was her husband,  opened the door. The hyena jumped on her and devoured her.
+P7	The man,  when he returned home saw that his wife had been eaten by a hyena. There was nothing he could say.
+P8	All this happened because he didn't want to live near his neighbours.
+
+images:
+
+illustrations/pages/7327.png
+illustrations/pages/7325.png
+illustrations/pages/7327.png
+illustrations/pages/7329.png
+illustrations/pages/7324.png
+illustrations/pages/7331.png
+illustrations/pages/7332.png
+illustrations/pages/7333.png
+illustrations/pages/7334.png
+
+translations:
+
+Afrikaans (Translation)	Die Man Wat Alleen Gewoon Het	id=11509
+Chinyungwe (Original)	Ona Ico Nkhukhala Awiri	id=7365
+French (Translation)	L’Homme Qui Voulait Vivre Seul	id=12678
+Luganda (Translation)	Omusajja Eya Beeranga Yekka	id=8290
+Lugbarati (Official) (Translation)	Ágú Àzɨ́ Ndráa A’Ápɨ A’Dúle Rɨ̀	id=12634
+Lumasaaba (Translation)	Umusaani Uwamenyatsaka Yenyene	id=8357
+Oluwanga (Translation)	Omusatsa Wamenya Yenyene	id=8288
+Portuguese (Translation)	O Homem Que Vivia Sozinho	id=17035
+Rutooro (Translation)	Omusaija Ayaikaraga Wenka	id=14936
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11553
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11556
+Sepedi (Translation)	Monna Yo a Bego a Dula a Le Tee	id=12411
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=12919
+siSwati (Translation)	Beyihlala Yodwa	id=13777

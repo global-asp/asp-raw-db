@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=12693&d=0&a=1
+id:	12693
+title:	Counting Cats
+author:	Annet Ssebaggala
+artist:	Jesse Breytenbach
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/12693.png
+desc:	Counting book
+
+page_text:
+
+P1	How many cats? 0 Zero cats. No cats.
+P2	How many cats? 1 One cat. One black cat. A black cat can eat red meat.
+P3	How many cats? 2 Two cats. White and grey cats. White and grey cats play in flowers.
+P4	How many cats? 3 Three cats. Grey, creme and spotted cats. They play up and down on walls.
+P5	How many cats? 4 Four cats. Four cats are good friends of Paul.
+P6	How many cats? 5 Five cats. Five cats play around the sitting room.
+P7	How many cats? 6 Six cats. Six cats can sit together and watch the film.
+P8	How many cats? 7 Seven cats. Seven cats play around the compound.
+P9	How many cats 8 Eight cats. Eight cats do not want the dog.
+P10	What's this we see? A kitten is stuck in a tree! "I will rescue you!" Paul said.
+P11	"Mama,  can we keep him? Just one more." How many cats? 9 Nine cats are too much. Mama said.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Amharic (Translation)	ድመቶችን እንቁጠር	id=13124
+Arabic (Translation)	عدد القطط	id=19919
+isiXhosa (Translation)	Bala Iikati	id=15023
+Lunyole (Translation)	Ohubala Epuusi	id=13559
+Portuguese (Translation)	Contar Gatos	id=16196
+Tunisian (Translation)	Ħisbèn Il-Qŧàŧis	id=15384

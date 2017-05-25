@@ -1,0 +1,100 @@
+url:	http://africanstorybook.org/reader.php?id=8274&d=0&a=1
+id:	8274
+title:	Ngala Liche Liaonia Liusiu
+author:	Margaret Amateshe
+artist:	Wiehan de Jager
+lang:	Oluwanga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/8274.png
+desc:	Eshialo shumire na liche lititi lili nobulo. Litsia mumwalo okhunywa amatsi ne likholomokha na amatsi. Liusiu liwonia liche lititi. Liche Lititi likhupire lirie Liusiu orio?
+
+page_text:
+
+P1	Yali nyanga yeshimiu mushitsuru eshimiu.
+P2	Liche liali nelibulile amatsi khutsinyanga tsinyinji.
+P3	"Ndenya imburo ya matsi kata khurula khwisafu."
+P4	Kata lime liali niliumire.
+P5	"Nindalanywa tawe,  ndalafwa," Liche nelirira. "Ndalatsia mumwalo kwembuliranga."
+P6	"Omwalo kulakhwishia," Eshituyu eshichesi neshibolera Liche.
+P7	Liche liali nende obulo muno. "Ndalafwa nindalanywa amatsi tawe."
+P8	Liche liatsia okhukhaba omwalo.
+P9	Nelibura obunyasi obumu nende amasaka amomu.
+P10	Khula lelianza okhuulira omwalo nekuwola.
+P11	Liche lianywa imburo ikhongo ya matsi.
+P12	Liasangala muno ne silialola lirunde likhongo nilitsa tawe.
+P13	Liche liatema okhutira obunyasi obumu bwali nobubenganga khumatsi ne omwalo nokulikhomolosia.
+P14	"Khonya,  bane khonya."
+P15	"Ninakho lwangu," Liusiu neliboolera Liche nelilumire lisaka khumunwa.
+P16	Liche liebashe liri,  "Sindalatsia neshiri okhupira Liusiu orio tawe. Ndalalinda okhula ngala liletsa okhunywa matsi."
+P17	Inyanga ndala nilishilindanga,  abasiani babiri betsa mumwalo nende tsifandili.
+P18	"Liliwo liusiu likhongo lia rachari litsanga okhunywa matsi ano," omusiani mulala naboola. "Khulalira angolobe."
+P19	"Sindalafuchirira abasiani beere Liusiu lirachari tawe. Alali endi omutiti muno. Ndalakhola endie?" Liche liebara.
+P20	Mufise efio,  Liusiu lirachari liayera okhurula khumusala khunywa matsi.
+P21	Liche liali nende inganakani.
+P22	Liaruchira khu shirenje shia musiani mulala neliluma efitinyu muno.
+P23	Omusiani yaruka. "Uui!" Nakhupa oluungu.
+P24	Liusiu liesundukha nelipurukha okhwionia.
+P25	Endio no olwa Liche liakhupira Liusiu orio khulwa okhulionia.
+
+images:
+
+illustrations/pages/788.png
+illustrations/pages/784.png
+illustrations/pages/785.png
+illustrations/pages/786.png
+illustrations/pages/787.png
+illustrations/pages/789.png
+illustrations/pages/790.png
+illustrations/pages/791.png
+illustrations/pages/870.png
+illustrations/pages/871.png
+illustrations/pages/872.png
+illustrations/pages/873.png
+illustrations/pages/874.png
+illustrations/pages/875.png
+illustrations/pages/876.png
+illustrations/pages/877.png
+illustrations/pages/878.png
+illustrations/pages/879.png
+illustrations/pages/880.png
+illustrations/pages/881.png
+illustrations/pages/882.png
+illustrations/pages/883.png
+illustrations/pages/884.png
+illustrations/pages/885.png
+illustrations/pages/886.png
+illustrations/pages/887.png
+illustrations/pages/904.png
+illustrations/pages/888.png
+illustrations/pages/889.png
+
+translations:
+
+Afrikaans (Translation)	Hoe Mier Vir Duif Red	id=20059
+ChiTonga (Translation)	Kanyenyene Mbokakavwuna Nziba	id=18638
+CiNyanja (Translation)	Mwamene Kanyelele Kanapulumusila Nkunda	id=18626
+English (Original)	How Ant Saved Dove	id=2076
+French (Translation)	Comment La Fourmi Sauva La Colombe.	id=9965
+Fulfulde (Translation)	No Ɗayu Faaborii Wuugaandu.	id=10028
+Hausa (Translation)	Yadda Tururuwa Ta Ceci Habjia.	id=9997
+IciBemba (Translation)	Ifyo Kanyelele Aapuswishe Inkunda	id=18583
+isiXhosa (Translation)	Indlela Imbovane Eyalihlangula Ngayo Ihobe	id=7453
+isiZulu (Translation)	Wamphephisa Kanjani Utsheketshe Ujuba	id=7770
+isiZulu (Adaptation)	Utsheketshe Usindisa Ujuba	id=17359
+Kanuri (Translation)	Fudu Kanguwu Bolboloa Cǝkkaanadǝ.	id=10090
+Kiswahili (Translation)	Siafu Amwokoa Njiwa	id=8707
+Luganda (Translation)	Engeri Enkuyege Bwe Yataasa Ejjuba	id=8275
+Lugbarati (Translation)	Ogulegua Pa A’Balau Ni Ngoni Ru Ya Ri	id=12635
+Lunyole (Translation)	Engeri Eyi Ege Lyaŋoniamo Eŋuusi	id=8421
+Maa (Translation)	Eneikuna Enkalaoni Pee Eitajeu Enturkuluo	id=7864
+Ng’aturkana (Translation)	Eger Lo Aiunia Imukunyo Akuuri	id=2572
+Sepedi (Translation)	Tšhošwane E Phološa Leeba	id=18000
+Sesotho (Lesotho) (Adaptation)	Kokonyana Le Leeba	id=15903
+Sesotho (South Africa) (Translation)	Kokonyana O Pholosa Leeba 	id=20031
+Setswana (Translation)	Tshoswane O Thusa Leeba	id=7814
+SiLozi (Translation)	Kokwani Mone Ipiliselize Liba	id=18565
+siSwati (Translation)	Indlela Intfutfwane Leyasindzisa Ngayo Lituba	id=17929
+Tshivenda (Translation)	Lusunzi Lu Tshidza Tshiivha	id=18275
+Xitsonga (Translation)	Ndlela Leyi Risokoti Ri Nga Ponisa Tuva	id=18876
+Zarma (Translation)	Mate Kaŋ Annoori Te Ga Kolŋay Faaba	id=10111

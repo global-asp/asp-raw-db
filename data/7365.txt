@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=7365&d=0&a=1
+id:	7365
+title:	Ona Ico Nkhukhala Awiri
+author:	Carlos Kanembera
+artist:	Little Zebra Books and Trevor Kellog
+lang:	Chinyungwe
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7365.png
+desc:	This is the story of a man who didnt want to live near other people. The man and his wife moved to a remote house
+
+page_text:
+
+P1	Akhalipo mwamuna m'bodzi omwe akhafuna lini kukhala pabodzi na andzace. Napo na mkazace kuyenda m'mii mwa anyapafupi wa nyumba yace.
+P2	Ntsiku inango iye adayenda kumanga nyumba kuthengo kutali na nyumba na wanthu andzace.
+P3	Iye akhambacoka ntsiku zinango acimbabwerera usiku.
+P4	Tsono bzidawoneka ntsiku ibodzi,  mpsakuti mwamuna ule adadokedwa kwene-kwene.
+P5	Ntsiku imweyo thika nakuti akhawona bzomwe mwamuna ule akhacita ndipo thika ule adayendambo kukagogodza msuwo wa nyumba yaceyo.
+P6	Na tenepo mkazace ule acimupumpsa kuti ni bayace na tenepo iye adafungula msuwoyo,  ndipo thika ule adamugwesera pantsi mkaziyo acimudyeratu.
+P7	Mwamuna ule pomwe adadzafika pamui pale adadzawona mkazace wadyedwa na thika. Pamwepo iye adasaya nyakubvundza.
+P8	Bzentsenebzo bzidacitika na thangwe rakusaya kukhala pafupi na andzace.
+
+images:
+
+illustrations/pages/7327.png
+illustrations/pages/7325.png
+illustrations/pages/7327.png
+illustrations/pages/7329.png
+illustrations/pages/7324.png
+illustrations/pages/7331.png
+illustrations/pages/7332.png
+illustrations/pages/7333.png
+illustrations/pages/7334.png
+
+translations:
+
+Afrikaans (Translation)	Die Man Wat Alleen Gewoon Het	id=11509
+English (Translation)	The Man Who Lived Alone	id=7366
+French (Translation)	L’Homme Qui Voulait Vivre Seul	id=12678
+Luganda (Translation)	Omusajja Eya Beeranga Yekka	id=8290
+Lugbarati (Official) (Translation)	Ágú Àzɨ́ Ndráa A’Ápɨ A’Dúle Rɨ̀	id=12634
+Lumasaaba (Translation)	Umusaani Uwamenyatsaka Yenyene	id=8357
+Oluwanga (Translation)	Omusatsa Wamenya Yenyene	id=8288
+Portuguese (Translation)	O Homem Que Vivia Sozinho	id=17035
+Rutooro (Translation)	Omusaija Ayaikaraga Wenka	id=14936
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11553
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=11556
+Sepedi (Translation)	Monna Yo a Bego a Dula a Le Tee	id=12411
+Sepedi (Translation)	Monna Yo a Dutšego a Nnôši	id=12919
+siSwati (Translation)	Beyihlala Yodwa	id=13777

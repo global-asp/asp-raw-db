@@ -1,0 +1,100 @@
+url:	http://africanstorybook.org/reader.php?id=9997&d=0&a=1
+id:	9997
+title:	Yadda Tururuwa Ta Ceci Habjia.
+author:	Plan Niger - Projet NECS - Usaid
+artist:	Wiehan de Jager
+lang:	Hausa
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9997.png
+desc:	Daji ya bushe
+
+page_text:
+
+P1	A cikin daji,  wata rana lokacin ana yin mugun zafi.
+P2	Ƴar Tururuwar ta yi kwanaki da kwanaki ba ta samu ruwan sha ba.
+P3	"Ina bukatar ɗashin ruwa ko da wanda ya faɗo ne daga kunnen icce."
+P4	Ba bu ko bazara.
+P5	"Idan ban sha ruwa ba za ni iya mutuwa",  ƴar Tururuwar ta faɗa. "Ya kamata in tafi tabkin nan,  da na ji labarin shi."
+P6	"Wanan tabkin yana iya tafiya da ke," wani tsofon Kurege ya yi mata kashedi.
+P7	Sai dai wanan ƴar Tururuwar ta ji ƙishirwa ƙwarai. "Idan ban sha ruwa ba za ni iya mutuwa."
+P8	Ƴar Tururuwa ta tafi neman tabkin.
+P9	Cikin ciyawa kuma ƙalƙashin reshinen itace busasu.
+P10	Har lokacin da ta ji kukan ruwan tabkin.
+P11	Ƴar Tururuwa ka ƙwalga sanyayen ruwan tabki.
+P12	Tana ta jin daɗi ba ta gani ba ruwan tabki suna bori.
+P13	Ƴar Tururuwa ta yi,  ta yi ta kama ɗan reshen iccen da yake saman ruwan. Amma ruwan sun tafi da ita.
+P14	"Ku taimakeni. Don Allah ku ceceni."
+P15	"Hawo da sauri",  yin ji Habjiya,  da ta riƙe da wani reshen icce ga bakinta.
+P16	"Ba za ni tafiya ba har sai na yi ma Habjiyar nan godiya. Za ni jira har lokacin da ta dawo shan ruwa."
+P17	Tana cikin jira,  wata rana sai ƴan samari biyu riƙe da kaushun harbi suka zo bakin tabkin.
+P18	"Akwai wata babar Habjiya da take zuwa wurin ga shan ruwa",  ɗaya daga cikin samarin ya faɗa. "Sai mun same ta don mu yi tuwon dare da ita."
+P19	"Ba za ni barin ƴan samarin nan ba su kashe wanan Habjiyar ba. Amma kuma ni ƙaramci ya yi mini yawa,  to yaya za ni yi?"
+P20	A wanan lokacin ne,  Habjiyar ta sabko daga saman icce don ta sha ruwa.
+P21	Sai ƴar Tururuwar ta samu wata dubara.
+P22	Ta hawo saman ɗaya daga cikin samarin,  ta cije shi da ƙarfi.
+P23	Ɗan sarmayin ya bugga tsalo. "Wash!" yana kuwa.
+P24	Habjiyar ta ji tsoro kuma ta fira ta koma wani wuri.
+P25	Ta haka ne ƴar Tururuwa da godema Habjiyar da ta ceceta.
+
+images:
+
+illustrations/pages/788.png
+illustrations/pages/784.png
+illustrations/pages/785.png
+illustrations/pages/786.png
+illustrations/pages/787.png
+illustrations/pages/789.png
+illustrations/pages/790.png
+illustrations/pages/791.png
+illustrations/pages/870.png
+illustrations/pages/871.png
+illustrations/pages/872.png
+illustrations/pages/873.png
+illustrations/pages/874.png
+illustrations/pages/875.png
+illustrations/pages/876.png
+illustrations/pages/877.png
+illustrations/pages/878.png
+illustrations/pages/879.png
+illustrations/pages/880.png
+illustrations/pages/881.png
+illustrations/pages/882.png
+illustrations/pages/883.png
+illustrations/pages/884.png
+illustrations/pages/885.png
+illustrations/pages/886.png
+illustrations/pages/887.png
+illustrations/pages/904.png
+illustrations/pages/888.png
+illustrations/pages/889.png
+
+translations:
+
+Afrikaans (Translation)	Hoe Mier Vir Duif Red	id=20059
+ChiTonga (Translation)	Kanyenyene Mbokakavwuna Nziba	id=18638
+CiNyanja (Translation)	Mwamene Kanyelele Kanapulumusila Nkunda	id=18626
+English (Original)	How Ant Saved Dove	id=2076
+French (Translation)	Comment La Fourmi Sauva La Colombe.	id=9965
+Fulfulde (Translation)	No Ɗayu Faaborii Wuugaandu.	id=10028
+IciBemba (Translation)	Ifyo Kanyelele Aapuswishe Inkunda	id=18583
+isiXhosa (Translation)	Indlela Imbovane Eyalihlangula Ngayo Ihobe	id=7453
+isiZulu (Translation)	Wamphephisa Kanjani Utsheketshe Ujuba	id=7770
+isiZulu (Adaptation)	Utsheketshe Usindisa Ujuba	id=17359
+Kanuri (Translation)	Fudu Kanguwu Bolboloa Cǝkkaanadǝ.	id=10090
+Kiswahili (Translation)	Siafu Amwokoa Njiwa	id=8707
+Luganda (Translation)	Engeri Enkuyege Bwe Yataasa Ejjuba	id=8275
+Lugbarati (Translation)	Ogulegua Pa A’Balau Ni Ngoni Ru Ya Ri	id=12635
+Lunyole (Translation)	Engeri Eyi Ege Lyaŋoniamo Eŋuusi	id=8421
+Maa (Translation)	Eneikuna Enkalaoni Pee Eitajeu Enturkuluo	id=7864
+Ng’aturkana (Translation)	Eger Lo Aiunia Imukunyo Akuuri	id=2572
+Oluwanga (Translation)	Ngala Liche Liaonia Liusiu	id=8274
+Sepedi (Translation)	Tšhošwane E Phološa Leeba	id=18000
+Sesotho (Lesotho) (Adaptation)	Kokonyana Le Leeba	id=15903
+Sesotho (South Africa) (Translation)	Kokonyana O Pholosa Leeba 	id=20031
+Setswana (Translation)	Tshoswane O Thusa Leeba	id=7814
+SiLozi (Translation)	Kokwani Mone Ipiliselize Liba	id=18565
+siSwati (Translation)	Indlela Intfutfwane Leyasindzisa Ngayo Lituba	id=17929
+Tshivenda (Translation)	Lusunzi Lu Tshidza Tshiivha	id=18275
+Xitsonga (Translation)	Ndlela Leyi Risokoti Ri Nga Ponisa Tuva	id=18876
+Zarma (Translation)	Mate Kaŋ Annoori Te Ga Kolŋay Faaba	id=10111

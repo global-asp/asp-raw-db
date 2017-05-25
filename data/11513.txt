@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=11513&d=0&a=1
+id:	11513
+title:	Incwadi Kamama
+author:	Khadija Mohamed and Willie
+artist:	Catherine Groenewald
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/11513.png
+desc:	A mother is going to hospital to give birth and her daughter writes her a letter.
+
+page_text:
+
+P1	Umama ebeqeda ukupakisha izingubo zakhe esikhwameni esincane.
+P2	Njengob ayewaphuma ngomnyango, yena enganga futhi wathi,  "Sala kahle kwamanje."
+P3	"Uyaphi uMama?" ngambheka ngalesosikhathi ngimbuza.
+P4	Ngaqala ukukhala ngilangazele ukumlandela kodwa ubaba wangiphakamisela phezukwehlombe lakhe.
+P5	Ubaba wathi,  "Umama uya esibhedlela ukuyothola umntwana."
+P6	Laphongizwa "umntwana" Ngayeka ukukhala ngambuka. "Kungani yena ayothola ingane esibhedlela?" ngimbuza.
+P7	Ubaba wangihlalisa esihlalweni esincane wathi,  "ngizokutshela ukuthi kungani eyothola umntwana esibhedlela."
+P8	Ubaba wangizisa duzane,  wathi,  "Sizohlala sikuthanda."
+P9	"Ngingambalela incwadi uma ele?" Ngabuza Ubaba.
+P10	Ngalobobusuku, ngaqala ukubhalela umama incwadi.
+P11	Ngaklebhule iphepha encwadini yami yomsebenzi ngaqala ukubhala.
+P12	"Mama,  umama,  ubaba uthi uye ukuyothola umntwana omuny."
+P13	Sicela usheshe ubuye ekhaya.
+P14	 Ngifuna ukuthi ulethe intombazanyana,  ngizokhona ukudlala nayo uma iseKhulile.
+P15	 Ungakwazi uzakungenisa ezimbili ukuze umuntu abe ngawami.
+P16	 Ngikulindile lapha ngaphandle kwendlu yethu.
+P17	Ngigoqe incwadi yami ukuze ngikwazi ukuyinika ubaba ukuthi ukuletha yona Mama. Uma ngivuka ekuseni obulandelayo, incwadi wayesehambile.
+
+images:
+
+illustrations/pages/1503.png
+illustrations/pages/1504.png
+illustrations/pages/1505.png
+illustrations/pages/1506.png
+illustrations/pages/1507.png
+illustrations/pages/1508.png
+illustrations/pages/2133.png
+illustrations/pages/1509.png
+illustrations/pages/1510.png
+illustrations/pages/1511.png
+illustrations/pages/1512.png
+illustrations/pages/1513.png
+illustrations/pages/1514.png
+illustrations/pages/1503.png
+illustrations/pages/1515.png
+illustrations/pages/1516.png
+illustrations/pages/1517.png
+illustrations/pages/1518.png
+
+translations:
+
+Afrikaans (Translation)	'n Briefie Vir Mamma	id=11343
+Afrikaans (Translation)	Brief Aan Ma	id=11350
+English (Original)	Letter to Mum	id=2134
+Kiswahili (Translation)	Barua Kwa Mama	id=2526
+Naro (Translation)	Tcgãyas Áís Koe Ko Síí Sa	id=16457

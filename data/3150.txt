@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=3150&d=0&a=1
+id:	3150
+title:	Kiwioo Kimwe Kivyu Kya Wathanthatu
+author:	Stephen Musyoka
+artist:	Wiehan de Jager
+lang:	Kikamba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/3150.png
+desc:	On a very hot Saturday afternoon
+
+page_text:
+
+P1	Kyai kiwiyoo kivyu kya wathanthatu mwei wa ikumi na ili. Kila umwe ai muthatu. "Bontle na Mpho na Leroto,  umalai muthauke" Mme atutavya. "Ndi kumwenda vakuvi nakwa."
+P2	Twaumaaluka tusembete. "Tuthii usini" Loreto atutavya. "Vau ni vathithangu." "Indi Mme atwia twikativie usini" Bontle atutavya " Tuyitivia" Leroto asungia. "Tuthauke munyini vakuvi na kiwu."
+P3	Ateo ithau ya 'libeke' ni ivyu ona ethiwa wi ungu wa miti vakuvi na usi. Mbee twaumya syaatu. Indi twai o avyu. Twaumya sati na sikati. Indi twai o avayu.
+P4	Twekia maau usini mathithe. Na twombangana kiwu. Mituki twamena kiwu.
+P5	"Inywi nenyu! Tutiviei" Asya Mpho. "Mme ndakamanya" Twativia na twativia nginya twolwa ni ivinda.
+P6	Sua yambiia kuthua na twambiia kwiwa mbevo ngua situ syaiva?
+P7	Twamantha ungu wa miti. Twamantha kithekani Twamantha kila vandu.
+P8	Ateo vai ngombe syai vakuvi na usi sikuya nyeki syai muyo. Bontle asisya iulu! " Sisya ngombe iya! Yumite kyau? "Iya ilaa itune" Lerato asya."
+P9	"Ti ilaa itune" Mpho atulya wasya. "Ni sati yaku" Twasisya ngombe ingi yutanyuka kindu ki mbuluu. "Isu ni skati yakwa" Bontle atulya wasya.
+P10	Twenukie na ngua sya nthini tutetema nikwithiwa kwai na uthithu. "Ni ngombe" Twasya,  ngombe nisyosyaie ngua situ Mme niwatwikiiie? Mituki itimba situ syavyuva. Na ti undu wa isua.
+
+images:
+
+illustrations/pages/924.png
+illustrations/pages/925.png
+illustrations/pages/927.png
+illustrations/pages/926.png
+illustrations/pages/928.png
+illustrations/pages/1004.png
+illustrations/pages/933.png
+illustrations/pages/931.png
+illustrations/pages/929.png
+illustrations/pages/930.png
+illustrations/pages/932.png
+
+translations:
+
+Afrikaans (Translation)	'n Warm Saterdag Middag	id=11416
+Afrikaans (Translation)	'n Baie Warm Saterdag Middag	id=11525
+Afrikaans (Translation)	'n Warm Saterdag	id=20090
+ChiTonga (Translation)	Bumwi Buzuba Masikati Mu Nsabata	id=18650
+CiNyanja (Translation)	Cibelu Cina Cakupya Mumazulo	id=18659
+Dhopadhola (Translation)	Mukaga Moro M’Olieth	id=15766
+Ekegusii (Translation)	Omokubio Oyomo Orenge Gosamba Mono	id=3153
+English (Original)	One Hot Saturday Afternoon	id=988
+English (Translation)	A Hot Saturday	id=5394
+English (Adaptation)	A Hot Saturday	id=13453
+French (Translation)	Un Samedi Après-Midi De Grande Chaleur	id=10843
+IciBemba (Translation)	Kasuba Kamo Pacibelushi Ninshi Nakukaba	id=18693
+isiXhosa (Translation)	Ngenye  Imva Kwemini Eshushu Yangomgqibelo	id=3152
+isiZulu (Translation)	Ngomunye Umgqibelo Ntambama Kushisa	id=3151
+isiZulu (Translation)	Ngumunye Umgqibelo Ntambamba	id=13022
+isiZulu (Translation)	Ngomunye Umgqibelo Ntambama Kushisa	id=18956
+Kiswahili (Translation)	Jumamosi Alasiri	id=3149
+Kiswahili (Adaptation)	Jumamosi Moja Alasiri	id=18384
+Kiswahili (Adaptation)	Jumamosi Moja Alasiri	id=19356
+Lugbarati (Translation)	O’Du Azia Alu Driipi Tu Ondresi Ri	id=3157
+Lugbarati (Official) (Translation)	O'dú Ázɨ́á Má Òndré Àngù Nɨ́ Drɨzʉ́ Tù Rɨ̀	id=8771
+Lumasaaba (Translation)	Lihaangilwe Lye Lwa Khasesaba Lutweela Lweesi Kumuumu Kwaaburukhila Naabi	id=3148
+Lunyole (Translation)	Ehy'egulo Hu Lw'omukaaga Olwaliho Ebbugumu	id=3145
+Lunyole (Translation)	Ehy'egulo Hu Lw'omukaaga Olwaliho Ebbugumu	id=10250
+Maa (Translation)	Enkolong E Jumamosi Nairowua	id=3158
+Oluwanga (Translation)	Mwichuma Mushiteere  Shiomubasu Omululu	id=3154
+Portuguese (Translation)	Uma Tarde De Sábado E Calor	id=18864
+Rutooro (Translation)	Kyamukaga Kimu Nyamusana Mukyanda	id=14938
+Sepedi (Translation)	Mokibelo Wa Go Fiša Tšhiritšhiri	id=1009
+Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=3146
+Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=12622
+Sesotho (South Africa) (Translation)	Moqebelo O Mong O Tjhesang Haholo	id=20048
+Setswana (Translation)	Letsatsi La Lamatlhatso Le Le Mogote	id=3147
+SiLozi (Translation)	Lizazi Lenelicisa Haulu La Pelekelo	id=18737
+siSwati (Translation)	Ngelusuku Lwekushisa Kakhulu Kwelilanga Ngengcibelo Ntsambama	id=13062
+Tshivenda (Translation)	Masiari a Mugivhela U Fhisaho.	id=18319
+Xitsonga (Translation)	Siku Rin’Wana Ro Hisa Ra Muqgivela Nindzhenga	id=18867

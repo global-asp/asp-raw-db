@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=2615&d=0&a=1
+id:	2615
+title:	Where is my Bat?
+author:	Meera Tendolkar
+artist:	Rijuta Ghate
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/2615.png
+desc:	A boy is looking everywhere for his cricket bat. Will he find it?
+
+page_text:
+
+P1	I have lost my bat,  and I cannot find it.
+P2	I looked behind the door. It was not there.
+P3	I looked for it on the shelf. I could not find it there.
+P4	I looked for it under the bed. Not there either.
+P5	I searched inside the box. There was no sign of it.
+P6	I searched the attic. It was not there.
+P7	I looked here,  there and everywhere. I could not find it anywhere.
+
+images:
+
+illustrations/pages/1556.png
+illustrations/pages/1557.png
+illustrations/pages/1558.png
+illustrations/pages/1559.png
+illustrations/pages/1560.png
+illustrations/pages/1561.png
+illustrations/pages/1562.png
+illustrations/pages/1563.png
+illustrations/pages/1564.png
+
+translations:
+
+isiXhosa (Translation)	Liphi Iphini Lam Lokubetha Ibhola?	id=2764
+isiZulu (Translation)	Likuphi Iphini Lami Lokuphebeza?	id=2762
+Kiswahili (Translation)	Wapi Kigoe Changu?	id=2758
+Luganda (Translation)	Akatti Kange Kaliwa?	id=6171
+Luganda (Translation)	Akatti Kange Kaliwa?	id=7167
+Lugbarati (Translation)	Ma Pati Avitavileri Ngoa Ya?	id=2721
+Lugbarati (Official) (Translation)	Má Vɨ́lé Pati Pòyé Avɨ́zʉ́ Rɨ̀ Ngòá Yǎ?	id=8761
+Maa (Translation)	Kóreê Ésíarê Áí Naaríéki Empíra?	id=2766
+Ng’aturkana (Translation)	Aluwae Eyei Akibapet Kang?	id=2759
+Oluwanga (Translation)	Akhapao Khanje Khali Yena?	id=2760
+Sepedi (Translation)	Mmopu  Wa Ka O Kae?	id=2761
+Sesotho (Lesotho) (Translation)	Thupa Eaka E Kae?	id=2763
+Sesotho (Lesotho) (Translation)	Thupa Eaka E Kae?	id=10364

@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=10807&d=0&a=1
+id:	10807
+title:	Die Storie Van Vuur
+author:	Marizel Vorster
+artist:	Rob Owen, Wiehan de Jager and Amir Bachir António Necas
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10807.png
+desc:	Hierdie storie handel oorn vuur en sy rol in mens se daaglikse lewe. Dit gaan oor hoe goed die vuur virn mens is
+
+page_text:
+
+P1	Laat ek jou my storie vertel. Ek begin my lewe as 'n klein vonkie.
+P2	As die wind begin waai,  hardloop ek wild.
+P3	Ek en jy is goeie vriende.
+P4	Ek kook jou kos.
+P5	Ek gee jou lig in die nag.
+P6	Ek het baie toertjies.
+P7	Ek is deel van jou familie.
+P8	Maar wees versigtig wanneer jy my na jou huis toe nooi. Ek hou nie daarvan as jy my alleen los nie.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+French (Translation)	L’Histoire Du Feu	id=10760
+isiNdebele (Translation)	Inolwana Yomlilo	id=17740
+Portuguese (Translation)	A História Do Fogo	id=16415

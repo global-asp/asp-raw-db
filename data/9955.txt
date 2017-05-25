@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=9955&d=0&a=1
+id:	9955
+title:	Nakitto À L'école.
+author:	Isabelle Duston et Véronique Biddau
+artist:	Genevieve Terblanche, Wiehan de Jager, Vusi Malindi and Karlien de Villiers
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/9955.png
+desc:	Cette histoire encourage les enfants à aller à lécole.
+
+page_text:
+
+P1	Lundi dernier,  Nakitto a commencé l'école.
+P2	Elle est arrivée dans une nouvelle classe et a fait la connaissance avec de nouveaux camarades.
+P3	Nakitto aime les livres avec des images.
+P4	Les élèves sont sortis pour apprendre d'autres leçons.
+P5	Ils ont appris le son des lettres.
+P6	Ils se sont reposés après la classe. Nakitto a dormi à côté de la maîtresse.
+P7	Ils font aussi des sorties scolaires.
+P8	Nakitto lit avec sa maman à la maison.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9364.png
+illustrations/pages/9372.png
+illustrations/pages/9377.png
+illustrations/pages/9354.png
+illustrations/pages/9367.png
+illustrations/pages/9375.png
+illustrations/pages/8854.png
+
+translations:
+
+English (Original)	Nakitto at School	id=9550
+Fulfulde (Translation)	Faati No Janngirde	id=10004
+Hausa (Translation)	Nakitto a Makaranta	id=9973
+Kanuri (Translation)	Fusam Lokkolnin	id=10033
+Zarma (Translation)	Nakitto Furo Lokkol	id=10095

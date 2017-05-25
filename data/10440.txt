@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=10440&d=0&a=1
+id:	10440
+title:	Viatu  Vyangu Vya Kwanza
+author:	Ursula Nafula
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/10440.png
+desc:	Je
+
+page_text:
+
+P1	Sikuwa nimewahi kuvaa viatu. Nilipowaona watoto waliovaa viatu,  niliwatazama kwa hamu.
+P2	Mamangu alinifariji kwa kusema,  "Utakuwa na jozi nyingi baadaye,  subiri tu utaona!" Wakati mwingine sikumwamini. "Baadaye itakuwa lini?" Nilimwuliza siku moja.
+P3	Kisha ulikuwa msimu wa Krismasi. Kila mtu alijishughulisha kwenda sokoni na kurejea na vitu vipya. "Je,  mama,  nasi tutaenda sokoni?" Nilimwuliza.
+P4	Siku kabla ya Krismasi,  mamangu aliniamsha mapema kuliko ilivyokuwa kawaida. Alinieleza nichukuwe lile kapu kubwa ambalo kawaida alilitumia kwenda sokoni.
+P5	Sokoni palikuwa na wazazi wengi walioandamana na watoto wao. Walinunua nguo mpya na hifadhi kubwa ya vyakula.
+P6	Tulienda moja kwa moja hadi sehemu ya viatu aina tofauti. Nilishangaa kwa kuona mstari baada ya mwingine wa viatu vilivyopangwa kwa unadhifu.
+P7	Baada ya kupima baadhi ya jozi nyingi,  nilichukuwa jozi ya viatu vya michezo. Sikuweza kulala usiku huo. Nilisisimkwa sana nilipowaza jinsi ningevivaa viatu vyangu vipya na kujivunia kila mtoto kijijini.
+P8	Muda mfupi baadaye,  niliamka kitandani na kuvijaribu tena viatu vyangu. Nilitembea pole pole chumbani kisha nikavirejesha ndani ya sanduku. Nililala lakini sikupata usingizi.
+P9	Niliamka na kuvijaribu tena kwa mara ya pili. Nilitembea kwa maringo chumbani kisha nikavirejesha sandukuni.
+P10	Nililala mara nyingine nikinuia kupata usingizi. Lakini muda mfupi baadaye,  niliamka kwa mara ya tatu. Nilivivaa vyatu nikaruka ruka chumbani kidogo. Nilihisi usingizi nikarudi kitandani.
+P11	Asubuhi yake,  niliamshwa na mamangu. "Hiki ni nini ninaona?" Aliuliza.
+P12	Nilikuwa nimevaa viatu vyangu vipya kitandani!
+
+images:
+
+illustrations/pages/9500.png
+illustrations/pages/9494.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9499.png
+illustrations/pages/10444.png
+illustrations/pages/9498.png
+illustrations/pages/9502.png
+illustrations/pages/9501.png
+illustrations/pages/9500.png
+
+translations:
+
+English (Translation)	My First Pair of Shoes	id=10446
+Luganda (Translation)	Omugogo Gwe Ngatto Zange Ogwasooka	id=13287
+Lunyole (Translation)	Omugogo Gw'engato Jange Endaayi	id=13450

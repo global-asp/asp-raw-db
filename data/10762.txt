@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=10762&d=0&a=1
+id:	10762
+title:	La Fille Du Nom De Norah
+author:	Marianne Pasty-Abdul Wahid and Translators without Borders
+artist:	Melany Pietersen
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10762.png
+desc:	Norah aime sa poupée et s’inquiète le jour où elle pense l’avoir perdue.
+
+page_text:
+
+P1	Voici Norah,  une petite fille. Le nom de sa poupée est Selah.
+P2	Norah adore sa poupée. Norah joue tous les jours avec Selah. Elle dort toutes les nuits avec sa poupée.
+P3	Un jour,  Norah ne trouva plus sa poupée. Elle la chercha partout,  mais ne trouva Selah nulle part. Norah s'inquiéta.
+P4	Norah ne savait pas que sa maman avait pris Selah pour la laver. La maman suspendit la poupée dehors,  pour la faire sécher.
+P5	"Je ne trouve plus ma poupée",  pleura Norah. "Ne t'inquiète pas",  lui dit sa maman.
+P6	Ce soir-là,  la maman de Norah lui rendit sa poupée. La poupée était toute propre. On aurait dit que Selah était une poupée neuve!
+P7	Norah était tellement contente. Elle sautilla dans tous les sens. Elle dansa. Elle rit aux éclats.
+P8	Et elle remercia sa maman.
+
+images:
+
+illustrations/pages/9482.png
+illustrations/pages/9482.png
+illustrations/pages/9483.png
+illustrations/pages/9481.png
+illustrations/pages/9485.png
+illustrations/pages/9489.png
+illustrations/pages/9486.png
+illustrations/pages/9487.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Translation)	Girl Called Norah	id=9797
+English (Adaptation)	This is Norah	id=16120
+Luganda (Original)	Omuwala Norah	id=9795

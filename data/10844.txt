@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=10844&d=0&a=1
+id:	10844
+title:	La Balançoire De Kéké
+author:	Isabelle Barth and Translators without Borders
+artist:	Marion Drew
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10844.png
+desc:	Kéké se balance sur sa balançoire préférée. Elle va haut
+
+page_text:
+
+P1	Kéké était assise sur sa balançoire. Elle adorait sa balançoire. C'était la meilleure de toute l'école.
+P2	Kéké allait lentement sur sa balançoire. En arrière et en avant. En arrière et en avant. Quand Kéké se tanguait,  sa balançoire allait de plus en plus vite. Bientôt elle arriva tout en haut.
+P3	Kéké regarda le sol en bas. Elle allait très haut. "Oh oh," appela-t-elle. "Regardez comme je vais haut!"
+P4	Elle est contente d'aller si haut. Elle pouvait voir tout le village. Elle allait aussi haut que les oiseaux qui volaient au-dessus des champs de maïs.
+P5	Après quelque temps,  Kéké voulu descendre. La balançoire ne voulait pas s'arrêter. "Oh,  oh,  oh," appela-t-elle. "Je ne sais pas comment arrêter cette balançoire!"
+P6	La balançoire continuait et continuait. En haut et en bas,  en haut et en bas. Kéké avait très peur. "Où cette balançoire va-t-elle m'emmener? Je vais peut être aller sur la lune. Il faut que je descende!" cria-t-elle.
+P7	Kéké lâcha la balançoire. Elle tomba,  et encore,  et encore,  et encore.
+P8	"Oh,  oh,  oh," crièrent les autres enfants. Kéké tomba sur le sol. Elle se fit mal à la tête. "Ouille,  ouille,  ouille," cria-t-elle. Les autres enfants étaient très inquiets.
+P9	Kéké ne savait pas quoi faire. "Ouille,  ouille,  ouille," cria-t-elle à nouveau. Les enfants appelèrent la maîtresse. "Ma Mpho. Venez s'il vous plaît!" ont-ils appelé. "Kéké est tombée de la balançoire. Elle s'est fait mal à la tête."
+P10	Ma Mpho couru jusqu'à la balançoire. Elle ramassa Kéké qui était à terre.
+P11	Ma Mpho donna un baiser à Kéké sur le front. Kéké sourit,  "Ça va mieux maintenant." "Je ne vais plus retourner sur cette balançoire toute seule," dit-elle. "Je ne veux plus aller sur la lune."
+P12	"La prochaine fois,  j'irai sur ta balançoire avec toi,  Kéké," dit Ma Mpho. "Nous irons sur la lune ensemble!"
+
+images:
+
+illustrations/pages/9324.png
+illustrations/pages/9319.png
+illustrations/pages/9320.png
+illustrations/pages/9321.png
+illustrations/pages/9322.png
+illustrations/pages/9323.png
+illustrations/pages/9324.png
+illustrations/pages/9325.png
+illustrations/pages/9326.png
+illustrations/pages/9327.png
+illustrations/pages/9328.png
+illustrations/pages/9329.png
+illustrations/pages/9330.png
+
+translations:
+
+Afrikaans (Adaptation)	Keke Se Swaai	id=10535
+English (Translation)	Keke's Swing	id=9792
+Portuguese (Translation)	O Baloiço Da Keke	id=16655
+Rutooro (Translation)	Omwesuuso Gwa Keke	id=10553
+Sesotho (Lesotho) (Original)	Senkokomaile Sa Keke	id=9790
+Sesotho (Lesotho) (Translation)	Keke's Swing	id=11423

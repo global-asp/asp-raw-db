@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=13607&d=0&a=1
+id:	13607
+title:	Big Blue Bus
+author:	Mubbalya Charles
+artist:	Mango Tree and Catherine Groenewald
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13607.png
+desc:	Richard and his mother are waiting for the big blue bus to take them to town. But the blue bus broke down. How will they get to town?
+
+page_text:
+
+P1	There was only one bus in Busolwe Town. It was very dusty and noisy.
+P2	One day,  Richard's mother said,  "Tomorrow we will go to the market to buy your school uniform."
+P3	Richard was very excited. They would travel in the big blue bus. He could not sleep that night.
+P4	Richard was already dressed when his mother came to wake him. She was surprised to find her son already up.
+P5	Richard and his mother immediately walked to the bus stop. They waited for the big blue bus which Richard had been hearing about.
+P6	Other people arrived at the bus stop. They complained because the bus was late. "Has the bus left us?" they asked.
+P7	Richard was worried. "We will not be able to go to town. I will not be able to get my uniform," he thought.
+P8	Some people gave up waiting and went home. But Richard cried and did not want to go. His mother talked to him softly. "We will wait a bit longer," she said.
+P9	Suddenly,  they heard a noise. They saw dust in the air. The bus was coming!
+P10	But this bus was not blue. It was not big. This bus was new to them. The waiting people looked at this bus. They did not get in.
+P11	"Get in! Get in! The big blue bus is not coming today,  ''shouted the driver. "We are very late today," he said."
+P12	Richard and his mother got in first. Soon everyone else got in the small red bus.
+P13	Richard looked out the window. He saw more people at the bus stop.
+P14	Even more people were running to catch the bus. But they were too late. The bus was full. The red bus left for town.
+P15	"Where is the big blue bus?" asked Richrad's mother. "It broke down," replied the driver. "We are fixing it. It will come tomorrow," he added.
+P16	Richard did not care about the colour of the bus. He did not care about the size of the bus. He was happy because this bus was going to town.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11667.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

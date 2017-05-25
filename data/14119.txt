@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=14119&d=0&a=1
+id:	14119
+title:	Wind
+author:	Ursula Nafula
+artist:	Marion Drew
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14119.png
+desc:	Story about the power of wind.
+
+page_text:
+
+P1	The wind roars. It roars past our home.
+P2	The wind is powerful. It tears my kite from my hand.
+P3	I run after my kite. The wind blows me away from the kite!
+P4	The wind becomes a tornado. It carries my kite higher and higher.
+P5	The tornado swallows me up! I see nothing,  I touch nothing.
+P6	Where is my kite now? Perhaps it is caught in a tree.
+P7	Perhaps my kite is still flying in the sky.
+P8	The wind finally dies down. I am still spinning.
+P9	When I stop spinning I look around. Where did the wind go?
+P10	I cannot see my kite anywhere. I cannot hear the wind anymore.
+P11	Perhaps tomorrow I will find my kite. Now,  I must go home,  before the wind starts to roar again.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+
+translations:
+
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Sesotho (S.Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

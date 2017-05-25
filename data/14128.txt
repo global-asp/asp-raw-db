@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=14128&d=0&a=1
+id:	14128
+title:	Umoya
+author:	Kholeka Mabeta
+artist:	Marion Drew
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/14128.png
+desc:	Ibali limalunga namandla omoya.
+
+page_text:
+
+P1	Umoya uyabhudla. Umoya ubhudla ikhaya lethu.
+P2	Umoya unamandla. Ukrazula ikayiti yam isesandleni sam.
+P3	Ndileqa ikayiti yam. Umoya undivuthelela kude nekayiti yam.
+P4	Umoya uba sisitshingitshane. Isitshingitshane siyinyusela phezulu kakhulu ikayiti yam.
+P5	Isitshingitshane siyandigubungela. Andiboni nto,  andikwazi kubamba nto.
+P6	Ingaba iphi ikayiti yam ngoku? Mhlawumbi ibambeke emthini.
+P7	Mhlawumbi ikayiti yam isabhabha esibhakabhakeni.
+P8	Ngelingeni umoya uyaphela. Mna ndisajikeleza.
+P9	Xa ndiyeka ukujikeleza ndiyabheka-bheka. Ingaba uye phi umoya?
+P10	Andiyiboni naphi na ikayiti yam. Andisawuva umoya.
+P11	Mhlawumbi ndizakuyifumana ngomso ikayiti yam. Ngoku kufuneka ndiye ekhaya phambi kokuba umoya ubhudle kwakhona.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+
+translations:
+
+English (Translation)	Wind	id=14119
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiZulu (Translation)	Umoya	id=15053
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Sesotho (S.Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

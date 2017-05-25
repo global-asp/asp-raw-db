@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=13529&d=0&a=1
+id:	13529
+title:	Goat, Dog, and Cow With Tv
+author:	Khothatso Ranoosi and Marion Drew
+artist:	Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/13529.png
+desc:	Goat
+
+page_text:
+
+P1	Cow,  Goat,  and Dog went to town in a taxi. They were going shopping.
+P2	Cow bought a TV.
+P3	Goat bought a blanket.
+P4	Dog wanted to buy new shoes. But he did not have enough money.
+P5	The three friends went home in a taxi.
+P6	Did you see Cow standing in a field doing nothing? It is because she is thinking about her TV.
+P7	Did you see Goat running away from cars? It is because he is worried that someone might steal his blanket.
+P8	Did you see Dog running towards cars? Now he has enough money to buy his shoes. He wants to go to town.
+
+images:
+
+illustrations/pages/13531.png
+illustrations/pages/6371.png
+illustrations/pages/10566.png
+illustrations/pages/10567.png
+illustrations/pages/13530.png
+illustrations/pages/13531.png
+illustrations/pages/10568.png
+illustrations/pages/6378.png
+illustrations/pages/6377.png
+
+translations:
+
+Afrikaans (Translation)	Bok, Hond en Koei	id=11138
+Dhopadhola (Translation)	Dyel, Gwok Kodi Dhyaŋ	id=16481
+English (Translation)	Goat, Dog and Cow	id=6380
+French (Translation)	La Chèvre, Le Chien Et La Vache	id=10839
+isiNdebele (Translation)	Imbuzi, Inja Nekomo	id=7670
+isiZulu (Translation)	Imbuzi, Inja Nenkomo	id=7491
+Kikamba (Translation)	Mbui, Ngiti Na Ng'ombe	id=9686
+Kiswahili (Translation)	Mbuzi, Mbwa Na Ng’Ombe	id=7868
+Luganda (Translation)	Wambuzi, Wambwa Ne Wante	id=7787
+Lumasaaba (Original)	Imbusi, Imbwa Ni Ngaafu	id=6730
+Lunyole (Translation)	Embusi, Embwa N’Eŋombe	id=8397
+Maa (Translation)	Enkíné, Oldía Ó Enkíténg	id=7867
+Ng’aturkana (Translation)	Akine, Ing'ok Ka Aite	id=7014
+Oluwanga (Translation)	Imbusi, Imbwa Nende Ing’Ombe	id=8279
+Portuguese (Translation)	A Cabra, O Cachorro E a Vaca	id=16419
+Rutooro (Translation)	Embuzi, Embwa, N’Ente	id=14925
+Sesotho (Lesotho) (Adaptation)	Pooli, Ntja, Le Khomo Le Tv	id=13553
+Setswana (Translation)	Podi, Ntšwa Le Kgomo	id=7771

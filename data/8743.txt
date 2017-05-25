@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=8743&d=0&a=1
+id:	8743
+title:	Ng’Ide a Ng’Amonok
+author:	Dennis Lokitare
+artist:	Wiehan de Jager
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8743.png
+desc:	Kolong ang’orot ayei awi na ayakar ng’ide ng’uni luajokak. Arai ecanit bon ng’esi atamar asubitae kesi a ng’amonok na kaneni asubete ng’iticisio daang nakwaare sodi nyenom kesi akolong nabo tokeyasi. Na kaneni abu edia epei kimu aking’olikin akwapit naparan sodi topudo ng’esi.
+
+page_text:
+
+P1	Kolong ang'orot,  alomit awi na alakara.
+P2	Pe ajienete kesi. Eng'aranakinete ng'ikauriak kech anawi tani alomana.
+P3	Na kaneni pe achamunitae kesi irudakinosi nakim.
+P4	Achamakina esubete etich kech nakwaare.
+P5	Na kaneni emuit esapat epei alosit nikalapatan nakolong.
+P6	Apei kwaar abu ekimue tolalaar. Apotu ta lokatokeng kiteng'ero ng'esi.
+P7	Na kaneni kisidioro ng'una! Abu ng'esi tokeeya anakolong anakariran.
+P8	Apotu ng'ide a ng'amonok kiyalolong'o aking'olikin lokatokech ekeyari.
+P9	Na kaneni apotu totiakut arekinet. Apotu tolemut emodol a ng'amonok ana ekeyarito kichaut ikeny.
+P10	Apotu yasi lokatokech lo arai ikeny kidiama naita emoru.
+P11	Nabo na ajipunia akolong,  abu ng'esi toporo eeokinit tooma nakicha na ataparach.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die Kersvet Kinders	id=11550
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of Wax	id=2181
+isiXhosa (Translation)	Abantwana Bekhandlela	id=2500
+isiZulu (Translation)	Abantwana Abenziwe Ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kiswahili (Translation)	Watoto Wa Nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Maa (Translation)	Inkera E Emanoo	id=2736
+Oluwanga (Translation)	Abaana Be Iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=2518
+Sesotho (Lesotho) (Translation)	Bana Ba Entsoeng Ka Kerese	id=10366
+Setswana (Translation)	Bana Ba Kerese	id=2519

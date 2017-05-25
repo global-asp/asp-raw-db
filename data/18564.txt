@@ -1,0 +1,69 @@
+url:	http://africanstorybook.org/reader.php?id=18564&d=0&a=1
+id:	18564
+title:	Lizazi La Litohonolo La Hamisi
+author:	Limbali Muyendekwa
+artist:	Rob Owen
+lang:	SiLozi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/18564.png
+desc:	Hamis ashukela yembe yende yeneitinilwe kimushimani kulikambe niyena waba niyona yembe yeswana.
+
+page_text:
+
+P1	Hamisi natokwa yunifomu yakwa sikolo. Kikabaka leo ndatae Hamisi amubiza kuli baye amoho kuyolika lyapalo ze zakwa sikolo kwa musika.
+P2	Hamisi mwalieto labona lakuya kwa musika abona kashimani kanakatinile yembe yende ahulu kuli mane ayitabela kuli alekilwe ku ndatae. Aipulela mwapilu ali yale ki yembe yende.
+P3	"Neniikumbuta kuli kambe yembe ya mushimani yale kiyaka," aikeza kwa muna wakuikumbuta kubona yembe yende yene iyapezwi kimushimani ona yo.
+P4	"Amubone,  mulekisi yale ulekisa liyembe zende ahulu. Taate amunilekele kwateni yembe yale au," abulela Hamisi.
+P5	"Hamisi,  Nani kakulekela feela yunifomu inosi," abulela ndatae Hamisi.
+P6	"Anina masheleng'i akukulekela yembe yobata konji feela yunifomu," aikeza ndate Hamisi.
+P7	Hamisi kalitohonolo kwafumaneha masheleng'I anasiyezi abafeza kumulekila yunifomu bondatae mane nakwana kuleka yembe yeo yanabata ahulu.
+P8	Neli liza lalitohonolo la Hamisi! Ki yembe ifi yakaiketela?
+
+images:
+
+illustrations/pages/7976.png
+illustrations/pages/7966.png
+illustrations/pages/7967.png
+illustrations/pages/7968.png
+illustrations/pages/7969.png
+illustrations/pages/7972.png
+illustrations/pages/7973.png
+illustrations/pages/7975.png
+illustrations/pages/7976.png
+
+translations:
+
+Afrikaans (Translation)	Hamisi Se Gelukkige Dag	id=20058
+Akuapem Twi (Translation)	Da a Hamisi Tiri Yɛɛ Yiye	id=18460
+Asante Twi (Translation)	Ɛda a Hamisi Ti Yɛɛ Yie	id=18220
+ChiTonga (Translation)	Buzuba Bwacoolwe Bwa Hamisi	id=18637
+CiNyanja (Translation)	Siku La Mwayi La Hamisi	id=18625
+Dagaare (Translation)	Hamisi Zunoɔ Bebiri	id=17772
+Dagbani/Dagbanli (Translation)	Hamisi Zuɣ’Suŋ Dabsili	id=18151
+Dangme (Translation)	Hamisi Manye Ligbi	id=18298
+English (Translation)	Hamisi's Lucky Day	id=11990
+Ewe (Translation)	Hamisi Ƒe Dzɔgbenyuie Ŋkeke	id=18182
+Fante (Translation)	Hamisi Ne Tsir Nkwa Da	id=18490
+French (Translation)	Le Jour De Chance D’Hamisi !	id=13157
+Ga (Translation)	Gbi Ni Moi Heba Nii	id=18292
+Gonja (Translation)	Hamisi Be Kumu Lɛla Achɛ	id=18213
+IciBemba (Translation)	Ubushiku Hamisi Ashuukile	id=18582
+isiNdebele (Translation)	Isikipa Esihlaza Sakadumi	id=13807
+isiXhosa (Translation)	Imini Yethamsanqa Likahamisi	id=16476
+isiXhosa (Translation)	Imini Kahamisi Yamathamsanqa	id=17525
+isiZulu (Translation)	Usuku Lukahamisi Lwenhlanhla	id=16358
+Kasem (Translation)	Hamisi  Yuu-Ywoŋo Dɛ	id=18226
+Kinyarwanda (Translation)	Umunsi W'amahirwe Kuri Mugabo	id=17462
+Kiswahili (Original)	Hamisi Abahatika	id=8040
+Mampruli (Translation)	Hamisi Zugsuŋŋu Dabsiri	id=18849
+Ng’aturkana (Translation)	Ekeny Ka Hamisi	id=12951
+Nzema (Translation)	Hamisi Kenle Kpalɛ	id=18425
+Portuguese (Translation)	Dia De Sorte Do Hamisi	id=16564
+Sepedi (Translation)	Letšatši La Kagiso La Mahlatse	id=19008
+Sesotho (South Africa) (Translation)	Letsatsi La Tshepo La Lehlohonolo	id=20028
+Setswana (Translation)	Letsatsi La Ga Hamisi La Letlhogonolo	id=16594
+Setswana (Translation)	Letsatsi La Ga Kagiso La Letlhogonolo	id=17646
+siSwati (Translation)	Umfaniswano Wesikolo	id=13872
+Tshivenda (Translation)	Ḓuvha Ḽa Mashudu Ḽa Hamisi	id=18284
+Xitsonga (Translation)	Siku Ra Hamisi Ra Nkateko	id=18878

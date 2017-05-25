@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=15611&d=0&a=1
+id:	15611
+title:	Mbuzi Na Kisu Cha Fisi
+author:	Brigid Simiyu
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/15611.png
+desc:	Mbuzi anaomba kisu cha Fisi
+
+page_text:
+
+P1	Hapo zamani za kale,  kulikuwa na kipindi kirefu cha kiangazi. Wanyama walikula nyasi zote nchini. Kilichosalia pekee ni aina ya mmea wa kutambaa uliokuwa juu ya miti mikubwa.
+P2	Siku moja Mbuzi alimwona Fisi akipita na kisu. Mbuzi aliomba kisu ili akatie ule mmea kwa chakula.
+P3	Fisi alimpa Mbuzi kisu. Mbuzi aliukata mmea ule na kula hadi kushiba kabisa. Alisahau kisu baada ya kukitumia.
+P4	Wakati Fisi alirudi kukitaka kisu chake,  Mbuzi hakujua afanye nini. Hakukumbuka kule alikokitupa.
+P5	Mbuzi alikwaruza hapa na pale akikitafuta kisu. Hadi leo,  Mbuzi bado anakitafuta kisu hicho.
+P6	Fisi alimwambia Mbuzi,  "Kwa sababu umekipoteza kisu changu,  ambacho kiliniwezesha kupata riziki yangu,  utakuwa mlo wangu. Vile vile nitawala wana wako."
+P7	Tangu siku hiyo,  Fisi hajamhurumia Mbuzi.
+P8	Wakati huo huo,  Mbuzi anaendelea kukitafuta kisu cha Fisi.
+
+images:
+
+illustrations/pages/13567.png
+illustrations/pages/13550.png
+illustrations/pages/13552.png
+illustrations/pages/13551.png
+illustrations/pages/13566.png
+illustrations/pages/13567.png
+illustrations/pages/13568.png
+illustrations/pages/13569.png
+illustrations/pages/13570.png
+
+translations:
+
+English (Translation)	Goat and Hyena’S Knife	id=13623
+French (Translation)	La Chèvre Et Le Couteau De La Hyène	id=14529
+Lugwere (Translation)	Ombuli N’Akambe Ka Mpiti	id=16189
+Lumasaaba (Original)	Wanambusi Ni Kumubano Kwa Namuunyu	id=13622
+Portuguese (Translation)	A Cabra E a Faca Da Hiena	id=16418

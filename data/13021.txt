@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=13021&d=0&a=1
+id:	13021
+title:	Holiday Time
+author:	John Emongot
+artist:	Rob Owen, Alice Toich, Catherine Groenewald, Marion Drew, Mango Tree, Onesmus Kakungi and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/13021.png
+desc:	Talks about the activities done during the school holidays.
+
+page_text:
+
+P1	It is now time for holidays. Every pupil is eager to go back home.
+P2	During holiday time,  we do a lot of work and play.
+P3	Opio and Asio wake up very early to feed the chickens,  pick eggs and collect firewood.
+P4	Opio and his father take the cows to graze.
+P5	Mother,  Opio and Asio go to visit their grandmother in the village of Apokor.
+P6	They go to the bus stop and wait for the bus to take them.
+P7	Grandmother is very happy to see her grandchildren! They bring her some gifts too.
+P8	Grandfather is also very happy to see his grandchildren!
+P9	Grandmother is preparing lunch for her visitors.
+P10	Asio and Opio are served fish and rice for lunch.
+P11	Late in the evening,  Opio goes to play football with his friends.
+P12	Asio joins the reading club in the evening too.
+P13	On the last day of the holiday,  Opio and Asio join the children's party. They meet new friends.
+
+images:
+
+illustrations/pages/9066.png
+illustrations/pages/11676.png
+illustrations/pages/11668.png
+illustrations/pages/11668.png
+illustrations/pages/11670.png
+illustrations/pages/11661.png
+illustrations/pages/11455.png
+illustrations/pages/11662.png
+illustrations/pages/11674.png
+illustrations/pages/10050.png
+illustrations/pages/11669.png
+illustrations/pages/12881.png
+illustrations/pages/9855.png
+illustrations/pages/12945.png
+
+translations:
+
+Ateso (Adaptation)	Aparasia Nu Aiyeng	id=13204
+Lunyole (Translation)	Luŋumula	id=13647
+Lunyole (Adaptation)	My Holiday Time	id=13648

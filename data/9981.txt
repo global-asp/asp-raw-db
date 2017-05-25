@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=9981&d=0&a=1
+id:	9981
+title:	Neymar's U Dalela Africa
+author:	Acherlager Lesedi Milanzi
+artist:	Benard Agasi
+lang:	Tshivenda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/9981.png
+desc:	Neymar u dalela mashango o fhambananaho a Africa a tshi sumbedza zwikili zwo fhambananaho zwa bola.
+
+page_text:
+
+P1	Musi Neymar atshi swika Africa,  o swikela capital city ya Nigeria. Vhathu vha Nigeria vha mu humbela uri avha sumbedze zwitaila zwa u dirivhula bola.
+P2	U bva Nigeria ombo di fhirela Ghana u vha sumbedza u raha bola a tshi kho shumisa mulendzhe wa nga ngomu. Ezwi zwa takadza nga maanda vhathu vha Ghana.
+P3	Musi a tshe Ghana,  Neyma ombo di rabiwa Africa Tshipembe uri a vha sumbedze u imisa bola a tshi khou shumisa phanda ha muledzhe.
+P4	U bva Africa Tshipembe a mbo di fhirela Chad. Musi e Chad ombo di vha sumbedza u imisa bola a tshi khou shumisa matungo a mulendzhe.
+P5	Musi Neymar a tshi swika DR Congo,  o mangadza shango nga tshikili tshau imisa bola a tshi khou shumisa tshirumbi.
+P6	Vhathu vha Uganda vho vhonaho Neymar musi e Congo vho mbo di muramba uri avha sumbedze tshikili tsha u thivha bola mudavhini.
+P7	Mafhungo aya ombo di swika hothe East-Africa. Vhathu vha Kenya vha tanganedza Neyma uri a vha sumbedze u thivhela bola mapalani.
+P8	Kha vhege yeneyo nthihi,  vhathu vha Tanzania vha vhidza Neymar uri a vha sumbedze tshikili tsha u fhirisa bola nga thoho.
+P9	Nga murahu a fhirela Rwanda u vha sumbedza tshikili tsha u phasa bola a tshi khou shumisa nga nnda ha muledzhe.
+P10	U bva Rwanda Neymar o mbo di fhedzisa lwendo lwawe lwa Africa South-Sudan,  he a sumbedzisa tshikili tsha u thivhela bola uri isi kore mapalani.
+
+images:
+
+illustrations/pages/9006.png
+illustrations/pages/9006.png
+illustrations/pages/9007.png
+illustrations/pages/9008.png
+illustrations/pages/9009.png
+illustrations/pages/9010.png
+illustrations/pages/9011.png
+illustrations/pages/9012.png
+illustrations/pages/9013.png
+illustrations/pages/9014.png
+illustrations/pages/9015.png
+
+translations:
+
+Afrikaans (Translation)	Neymar Se Besoek Aan Afrika	id=11548
+English (Translation)	Neymar's Visit to Africa	id=9037
+French (Translation)	La Visite De Neyman en Afrique	id=12675
+Lugbarati (Original)	Neymar Ma Emu Taa Afrika Ri	id=9029
+Portuguese (Translation)	A Visita Do Neymar a África	id=17620
+Rutooro (Translation)	Orubungo Rwa Neyma Mu Afirika	id=14937

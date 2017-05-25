@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=10260&d=0&a=1
+id:	10260
+title:	Animals, Animals
+author:	Tabingwa Aisha
+artist:	Sandy Campbell, Wiehan de Jager and Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/10260.png
+desc:	Explore  the uses of animals  in our community.
+
+page_text:
+
+P1	Look at our animals we keep at home.
+P2	The cow gives us milk.
+P3	The rabbits and cats are very friendly to human beings.
+P4	The horse says,  "Neigh."
+P5	The cows and goats are paid as bride price in Uganda.
+P6	The chicken says,  "Cluck."
+P7	The dog is a source of security at our homes.
+P8	The farmer looks after them so much.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+English (Adaptation)	Look at Our Animals	id=10258

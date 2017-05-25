@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=8768&d=0&a=1
+id:	8768
+title:	Àràkílíkò
+author:	Enzata Francis
+artist:	Joshua Waswa
+lang:	Lugbarati (Official)
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/8768.png
+desc:	Ágúpímvá òděa rʉ nɨ esú azɨnɨ gbɨ àràkílíkò. Ji àríá ndě mà àvù fé mbàzàʉ àzɨ  yɨ vílé ényátiá nɨ drí. Mbàzàʉ ‘dà a’dí azɨnɨ nya àràkílíkò ‘dà rá.
+
+page_text:
+
+P1	Má nɨ́ ndráa mu rɨá ací rɨ̀á ényáti cìlìóá rɨ̀á,  Má èsú àràkílíkò.
+P2	Á kà mu èri gbí àbìtìrà sɨ̀ 'boó,  tre "áàà,  áàà,  áàà!"
+P3	Àràkílíkò ndê nga sǎ òlɨ́á. Te má nzu èrɨ mà vútisɨ̀ ásé alɨ́á sì.
+P4	Kpere èrinɨ́ rirɨá patí à'wɨ́ nɨ mà sɨ́á. Á gbɨ èrɨ díká. 'Dìáràá e'dé patí mà sɨ́á rì sì vǎ.
+P5	Má e'dú àràkílíkò ndê rɨ̀.
+P6	Á fè èrɨ Álɨmʉ́rʉ́ nɨ: Ágú àfá círì nyǎpí rɨ. (Ò'dʉ́ àlʉ á fè èrinɨ yúkú. Nyǎ,  aɨ́ yúkú ndêrɨ̀ àyìkò sɨ.).
+P7	Àràkílíkò mà drì àmbórʉ́,  mba kìlé màsétè lé.
+P8	Àría ndê mà ósò ékìlé kàbìlò vílé rɨ̀ lé. 'Bá mà cùcú ni ànɨ́ ra tʉ̀!
+P9	Mí ecónɨ́ àràkílíkò èsú otʉ́tá kókò kʉ. Ínísì yɨ ri patí à'wɨ́ mà sía. 'Bá àlʉ àlʉ nɨ àfá 'Í nɨ́ lèlé rɨ̀ nya. 'Dà banɨ ásísílé Álɨmʉ́rʉ́ nɨ́ àràkílíkò nyazʉ́rɨ̀ 'ɨ́.
+
+images:
+
+illustrations/pages/2432.png
+illustrations/pages/2433.png
+illustrations/pages/2434.png
+illustrations/pages/2438.png
+illustrations/pages/2435.png
+illustrations/pages/2436.png
+illustrations/pages/2437.png
+illustrations/pages/2439.png
+illustrations/pages/2440.png
+illustrations/pages/2441.png
+
+translations:
+
+English (Original)	The Hornbill	id=2563
+Luganda (Translation)	Eŋŋaaŋa	id=2774
+Lugbarati (Translation)	Arakiliko	id=2710
+Lumasaaba (Translation)	Liŋaasa (Ŋaa, Ŋaa)	id=2775
+Lunyole (Translation)	Eŋaaŋa	id=3156
+Ng’aturkana (Translation)	Ikeny Lokut	id=18074

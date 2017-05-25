@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=16092&d=0&a=1
+id:	16092
+title:	Upalesa Uthanda Izitshalo
+author:	Zanele Zuma
+artist:	Jesse Pietersen
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/16092.png
+desc:	UPalesa uxoxa nezihlahla
+
+page_text:
+
+P1	Lona nguPalesa. Igama lakhe lichaza ukuthi 'imbali' ngolimi lwakhe lweSetswana.
+P2	Ekuseni uPalesa uxoxa nesihlahla samawolintshi. "Sihlahla samawolintshi,  sicela usiphe amawolintshi amaningi."
+P3	UPalesa uya esikoleni. Endleleni uxoxa notshani uthi,  "Tshani,  sicela uhlale uluhlaza usisize ungashi."
+P4	UPalesa,  ekuhambeni kwakhe,  ubona izimbali zasendle. "Zimbali,  siyabonga ngemibala yenu emihle neqhakazile."
+P5	Wafika esikoleni uPalesa waxoxa nesihlahla esincane. "Sihlahla,  ngicela ukhule ube namagatsha amakhulu ukuze sihlale ngaphansi komthunzi wakho."
+P6	UPalesa uxoxa nothango oluzungeze isikole sakhe. "Sicela uhlale uqinile,  uvimbele izigebengu zingangeni ngaphakathi esikoleni sethu."
+P7	Ngesikhathi ebuyela ekhaya,  wavakashela isihlahla samawolintshi. "Ngabe amawolintshi akho asevuthiwe?" kubuza uPalesa.
+P8	"Amawolintshi aseluhlaza," kucabanga uPalesa. "Usale kahle,  ngizokubona kusasa sihlahla samawolintshi. Mhlawumbe kusasa uzobe usunalo iwolintshi elivuthiwe ozongipha lona!"
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+ChiTonga (Translation)	Palesa Ulayanda Zisamu	id=18641
+CiNyanja (Translation)	Palesa Akonda Mitengo Na Maluwa	id=18610
+IciBemba (Translation)	Palesa Alitemwa Ifimenwa	id=18585
+Sepedi (Translation)	Palesa O Rata Dimela	id=18994
+SiLozi (Translation)	Palisa Ulata Licalo	id=18568
+Xitsonga (Translation)	Palesa U Rhandza Swimilana	id=18862
