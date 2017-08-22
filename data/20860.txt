@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=20860&d=0&a=1
+id:	20860
+title:	Igisiga K'igihanga
+author:	Niyifasha Epimaque
+artist:	Graham Paterson, Katrien Coetzer, Melany Pietersen and Rob Owen
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20860.png
+desc:	Igisiga cyagiye gushaka amazi. (ku riba).
+
+page_text:
+
+P1	Igisiga cyari gifite inyota. Kigenda urugendo rurerure gishaka amazi yo kunywa ariko kiraheba.
+P2	Noneho kiguruka kigaruka. Ku giti cyari gituyeho. Byagifashe igihe kinini kuko cyari cyarushye.
+P3	Ubwo cyarimo kugenda cyabonye amazi mu kabindi ku mbuga y'umuntu.
+P4	Amazi yendaga kugera ku ndiba y'akabindi. Umunwa wako ntiwabashaga kugera ku mazi mu kabindi. Gitekereza uburyo bwo kujyana ayo mazi.
+P5	Igitekerezo kiza mu mutwe. Gifata ibuye rito kirirekurira mu mazi maze arasimbuka ava mu kabindi.
+P6	Igisiga gishyiraho umunwa kinwa ibitonyanga.
+P7	Gifata irindi buye gisubiramo ibyo cyakoze. Gikomeza kubikora gityo kugera ubwo cyahagiye.
+
+images:
+
+illustrations/pages/9592.png
+illustrations/pages/9223.png
+illustrations/pages/9216.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/8599.png
+illustrations/pages/9036.png
+illustrations/pages/9026.png
+
+translations:
+
+English (Original)	A Wise Crow	id=10198
+Lusoga (Translation)	 	id=21281

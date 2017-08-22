@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=21138&d=0&a=1
+id:	21138
+title:	Majitu Ni Wajinga
+author:	Brigid Simiyu
+artist:	Natalie Propa
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21138.png
+desc:	Kunapokuwa na kiangazi Mulongo na familia yake wanatafuta chakula. Wanapata shamba la migomba. Je
+
+page_text:
+
+P1	Kulikuwa na kiangazi. Mulongo na familia yake walikosa chakula.
+P2	Siku moja, Mulongo alielekeza famalia yake msituni kutafuta chakula.
+P3	Walipata shamba la migomba lakini mwenyewe hakuwepo.
+P4	Ghafla, jitu kubwa liliwasili!  
+
+Liliwaruhusu wakae pale.
+P5	Asubuhi moja, jitu lilisema, “Nipikie mvulana wako.”
+P6	Jioni, jitu lilisema, “Kesho, mpike binti yako.”
+P7	Wazazi walimficha binti yao mtini.
+P8	Jitu lilimwambia mke wa Mulongo, “Kesho lazima umpike mmeo.”
+P9	Jioni hiyo, jitu lilimwuliza mke ajipike mwenyewe!
+P10	Baada ya kula, jitu lililala chini ya mti likikoroma.
+P11	Jitu liliwaona wote wakiwa wazima.  Lilikasirika sana.
+P12	Familia ya Mulongo ilifaulu kulidanganya jitu. 
+
+Walishuka kutoka mtini.
+
+images:
+
+illustrations/pages/8114.png
+illustrations/pages/8111.png
+illustrations/pages/8112.png
+illustrations/pages/8113.png
+illustrations/pages/8114.png
+illustrations/pages/8115.png
+illustrations/pages/8116.png
+illustrations/pages/8117.png
+illustrations/pages/8118.png
+illustrations/pages/8119.png
+illustrations/pages/8120.png
+illustrations/pages/8121.png
+illustrations/pages/8122.png
+
+translations:
+
+Amharic (Translation)	ጭራቆች ደደቦች ናቸው	id=21182
+English (Translation)	Mulongo and the Ogre	id=9127
+English (Adaptation)	Ogres Are Stupid	id=20886
+French (Translation)	Mulongo Et L'ogre	id=10699
+Luganda (Translation)	Bawazzike Ba Siiru	id=21060
+Lumasaaba (Original)	Mulongo Ni Wanasilikhe	id=9126
+Lumasaaba (Adaptation)	Mulongo Ni Wanasilikhe (Revised)	id=10521
+Ng’aturkana (Translation)	Ebang’Aka Ng’Ibuin	id=21132
+Tigrigna (Translation)	ሕንጉጉ ሕማቓት እዮሞ	id=21103

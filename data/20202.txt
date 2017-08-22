@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=20202&d=0&a=1
+id:	20202
+title:	Palesa Nɔŋa Tebula
+author:	J. K. A. Anankor and E. T. Anoeni (OLE Ghana)
+artist:	Jesse Pietersen
+lang:	Talen
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20202.png
+desc:	Palesa aa bunpug n bilk a nɔŋ tebula waabe.
+
+page_text:
+
+P1	Palesa nŋwala. O wuor la gbin aa puug o teng, Setswana antoa poone.
+P2	Beege darwoo, Palesa toat tera leemu tee yee. "Leemu teega, tem te leemu berug-berug."
+P3	Palesa n ne ya sukuu, o ne toat tera mug yee. "Muugo zuogen somma ka de kpii."
+P4	Palesa n dol mug puut zi'i, o ne yee. "Puure, ya tuuma tuuma ne ya muolum soma wa."
+P5	O n be sukuune, Palesa ne toat tera tee bila yee. "Teega, ke ka e yilla zuo yiem, ka te ne zi e ma'ahem ne kaalma."
+P6	Palesa ne toat teet fulenfuut o sukuune yee. "Ya kpegem paa ka de ke ka nirvoa biega kpeet ya poone."
+P7	Palesa n ne yi sukuu paa yinne na, o ne kaaga leemu tee la. "E leemu nan pu muoge?" Palesa n ne bueh.
+P8	"Leemu la nan aa bun kaha," Palesa ne fabula ŋwala. "M sa'an nan nyee beog," o ne yela nŋwala. "Daansier e nan mar leem be'emer ne."
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+IciBemba (Translation)	Maluba Ali Temwa Ifilimbwa	id=20786
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Mampruli (Translation)	Suhuyini Wuri Bunbula 	id=20120
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+SiLozi (Translation)	Palisa Ulata Licalo	id=20776
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

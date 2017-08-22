@@ -17,7 +17,8 @@ P3	Naasaaka tsiikhu.
 P4	Naakulula mu saatsi.
 P5	Neeya amukhe.
 P6	Isiinga tsisowaani.
-P7	Nga wandaayase ali khukhwinyaha busa.
+P7	Lwashiina inaamba naabi indyo.
+P8	Nga wandaayase ali khukhwinyaha busa.
 
 images:
 
@@ -41,8 +42,7 @@ Luganda (Translation)	Muto Wange Munafu	id=2900
 Lugbarati (Translation)	Ma Adri Gaa Ovuo Ru Ri	id=2901
 Lugbarati (Official) (Translation)	Ma Adrigaaovuoruri	id=8796
 Lunyole (Translation)	Muto Yange Omudoto	id=2904
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17471
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17472
+Lunyole (Translation)	 	id=21094
 Lusoga (Translation)	Lwaki Nkola Zenka?	id=2905
 Maa (Translation)	Olotí Aláshe Túrúáí	id=2897
 Ng’aturkana (Translation)	Lokaito Loochi Lokalany	id=2906

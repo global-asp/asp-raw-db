@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=21141&d=0&a=1
+id:	21141
+title:	Ngurumo Na Mwanawe
+author:	Brigid Simiyu
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21141.png
+desc:	Ngurumo na mwanawe waliishi duniani. Kwa ajili ya uharibifu wa mwanawe
+
+page_text:
+
+P1	Hapo zamani, Ngurumo na Radi waliishi duniani miongoni mwa watu.
+P2	Ngurumo alikuwa mama ya Radi.
+P3	Radi alikuwa mwenye hasira kali.
+P4	Radi alipokasirika, aliharibu watu, nyumba na miti.
+P5	Radi aliposababisha uharibifu kama huo, Ngurumo alipiga kelele.
+P6	Radi hakujali kelele za mama yake.
+P7	Hatimaye, watu walienda kwa mflame kulalamika.
+P8	Mfalme aliwatuma Ngurumo na Radi kuishi mbali.
+P9	Radi aliendelea kuchoma misitu na mimea alipokasirika.
+P10	Kwa hivyo, watu walienda tena kwa mfalm kulalamika.
+P11	Mfalme aliwatuma Ngurumo na Radi kuishi angani.
+P12	Hata hivyo, Radi bado anachoma na kuharibu anapokasirika.
+
+images:
+
+illustrations/pages/19056.png
+illustrations/pages/19042.png
+illustrations/pages/19044.png
+illustrations/pages/19046.png
+illustrations/pages/19047.png
+illustrations/pages/19048.png
+illustrations/pages/19050.png
+illustrations/pages/19051.png
+illustrations/pages/19052.png
+illustrations/pages/19053.png
+illustrations/pages/19054.png
+illustrations/pages/19055.png
+illustrations/pages/19056.png
+
+translations:
+
+Ateso (Translation)	Eiresi Keda Okokuke	id=21042
+Dhopadhola (Original)	Mor Koth Kodi Lith Koth	id=19073
+English (Translation)	Thunder And Lightning	id=19074
+English (Adaptation)	Thunder And Her Son	id=20889
+Kiswahili (Translation)	Ngurumo Na Radi	id=19092
+Ng’aturkana (Translation)	Agirokin Ka Lokookeng	id=21128
+Tigrigna (Translation)	ነጎዳ ምስ ወዳ 	id=21172

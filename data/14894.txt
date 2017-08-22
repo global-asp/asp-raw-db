@@ -11,6 +11,15 @@ desc:	Eu sei como jogar o professor. O que você pode fazer?
 
 page_text:
 
+P1	O meu professor dá passos largos. Eu sei andar como o professor.
+P2	O professor canta o hino em sentido. Eu sei cantar o hino como o professor.
+P3	O professor toca o sino para entrar na sala. Eu sei tocar o sino como o professor.
+P4	O professor lê livros em voz alta. Eu sei ler em voz alta como o professor.
+P5	O professor escreve no quadro. Eu sei escrever no quadro como o professor.
+P6	O professor aponta no mapa a nossa província. Eu sei apontar no mapa como o professor.
+P7	O professor vai falar com os outros professores. Eu sei falar como o professor.
+P8	O professor limpa a sua carteira todos os dias. Eu sei limpar a carteira como o professor.
+P9	Eu sei fazer muito bem o que o professor faz. Quando eu crescer,  vou ser professor!
 
 images:
 

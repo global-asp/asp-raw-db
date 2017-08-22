@@ -1,0 +1,74 @@
+url:	http://africanstorybook.org/reader.php?id=21315&d=0&a=1
+id:	21315
+title:	Dabbobi Sun Samu Kafafu
+author:	Muhammad Tukur Bala
+artist:	Wiehan de Jager
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21315.png
+desc:	Maguru ya yanke shawarar ba dabbobi kafafuwa don suji dadin tafiya kamar mutane.
+
+page_text:
+
+P1	Zamanin da dabbobi basu da kafafu
+P2	Maguru mutane kadai yaba kafafu
+P3	Maguru ya yanke shawara yaba kowace dabba kafafu
+P4	Dabbobin na bukatar Kafafu don tafiya da kuma gudu
+P5	Jan jiki yana yi masu wahala
+P6	Da ranar tazo dabbobi daban daban suka ja jiki zuwa gidan maguru
+P7	Maguru yaba dabbobi da tsuntsaye kafafu
+P8	Wasu dabbbobin sun yi rawa wasu sun fadi kasa
+P9	Sai suka ce ba za mu kara jan jiki ba
+P10	Kadandoniya ta zo daga karshe
+P11	Maguru ya ba kadandonya dukan kafafun da suka rage
+P12	Sai Kadandoniya cikin farin ciki tace sai nafi kowa sauri
+P13	Bayan zuwan kadandoniya sai ga maciji yazo yana rogon maguru ya bashi kafaf
+P14	Maciji ya cewa maguru nayi nauyin barci
+P15	Maguru bai samo wa maciji kafufu ba
+P16	Tun daga nan maciji yake zaman jiran kafafu
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+Afrikaans (Translation)	Maguru Deel Bene Uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+English (Original)	Maguru Gives Legs	id=14415
+English (Adaptation)	Animals Get Legs	id=20884
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+isiXhosa (Translation)	Umaguru Uphisa Ngemilenze	id=17576
+isiZulu (Translation)	Umaguru Uphisana Ngemilenze	id=16360
+isiZulu (Adaptation)	Umveli Unikela Ngemilenze	id=17461
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Kiswahili (Translation)	Maguru Apatiana Miguu	id=14412
+Kiswahili (Translation)	Wanyama Wapata Miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
+Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru O Fana Ka Maoto	id=20037
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Tshivenda (Translation)	Maguru U Ṋekedza Milenzhe	id=18285
+Xitsonga (Translation)	Maguru A Phakela Milenge	id=18870

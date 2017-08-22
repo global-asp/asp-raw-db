@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=19074&d=0&a=1
 id:	19074
-title:	Thunder and Lightning
-author:	Ogot  Owino and Athieno Gertrude
+title:	Thunder And Lightning
+author:	Athieno Gertrude and Owino Ogot
 artist:	Jesse Breytenbach
 lang:	English
 level:	First paragraphs
@@ -42,5 +42,10 @@ illustrations/pages/19056.png
 
 translations:
 
+Ateso (Translation)	Eiresi Keda Okokuke	id=21042
 Dhopadhola (Original)	Mor Koth Kodi Lith Koth	id=19073
+English (Adaptation)	Thunder And Her Son	id=20889
 Kiswahili (Translation)	Ngurumo Na Radi	id=19092
+Kiswahili (Translation)	Ngurumo Na Mwanawe	id=21141
+Ng’aturkana (Translation)	Agirokin Ka Lokookeng	id=21128
+Tigrigna (Translation)	ነጎዳ ምስ ወዳ 	id=21172

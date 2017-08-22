@@ -12,17 +12,17 @@ desc:	UNkukhu noShongololo banobungani bokuncintisana. Ngelinye ilanga uNkukhu u
 page_text:
 
 P1	UNkukhu noShongololo babengabangani. Babehlala bencintisana. Ngelinye ilanga banquma ukudlala ibhola lezinyawo befuna ukubona ukuthi ubani owayengumpetha.
-P2	Baya enkundleni yebhola base beqala umdlalo wabo. UNkukhu wayeshesha,  kodwa uShongololo wayeshesha kakhulu. UNkukhu wayelikhahlela liye kude,  kodwa elikaShongololo laliya kude kakhulu,  UNkukhu waqala manje ukukhononda.
+P2	Baya enkundleni yebhola base beqala umdlalo wabo. UNkukhu wayeshesha, kodwa uShongololo wayeshesha kakhulu. UNkukhu wayelikhahlela liye kude, kodwa elikaShongololo laliya kude kakhulu,  uNkukhu waqala manje ukukhononda.
 P3	Base benquma ukukhahlela amaphenathi. Kwaqala uShongololo ukuba avimbe emapalini. UNkukhu wafaka igoli elilodwa. Emva kwalokho kwasekuba ithuba likaNkukhu ukuvimba.
 P4	UShongololo wakhahlela. Lasho ezintini. Wapheceza ejika nebhola,  waphinda waliqulela phakathi. Wabuye walishaya ngekhanda,  langena ezintini. UShongololo washaya amagoli amahlanu.
 P5	Kwamthukuthelisa kakhulu uNkukhu ukuthi wehluliwe. Wayengakubekezeleli ukwehlulwa. UShongololo wavele wamhleka ngoba umngane wakhe wayesethukuthele.
 P6	UNkukhu wayesethukuthele kakhulu kangangoba waze wamgwinya uShongololo.
 P7	Eseya ekhaya uNkukhu wahlangana noMama Shongololo. UMama Shongololo wathi kuye,  "Uke wayibona ingane yami?" UNkukhu akaphendulanga. UMama Shongololo wakhathazeka.
-P8	UMama Shongololo wezwa izwi elincane lithi. "Ngelekelele Mama!"   UMama Shongololo waqalaza,  elalelisisa. Izwi lalivela ngaphakathi enkukhwini.
-P9	UMama Shongololo wamemeza,  "Sebenzisa wonke amandla akho mntanami!" Amashongololo akwazi ukukhipha iphunga elibi anambitheke kabi. Ngokushesha uNkukhu wafikelwa ukucanuzela kwenhliziyo.
-P10	UNkukhu wagonyuluka,  wagwinya,  wakhafula. Wathimula,  wakhwehlela kaningi. Ishongololo lalenyanyeka!
+P8	UMama Shongololo wezwa izwi elincane lithi. "Ngelekelele Mama!" UMama Shongololo waqalaza,  elalelisisa. Izwi lalivela ngaphakathi enkukhwini.
+P9	UMama Shongololo wamemeza, "Sebenzisa wonke amandla akho mntanami!" Amashongololo akwazi ukukhipha iphunga elibi anambitheke kabi. Ngokushesha uNkukhu wafikelwa ukucanuzela kwenhliziyo.
+P10	UNkukhu wagonyuluka, wagwinya, wakhafula. Wathimula, wakhwehlela kaningi. Ishongololo lalenyanyeka!
 P11	UNkukhu wakhwehlela wakhwehlela laze laphuma laqhasha ishongololo elalisesiswini sakhe. UMama Shongololo nengane yakhe banwabuzela bekhuphuka ngesihlahla beyocasha.
-P12	Kusukela ngalelo langa,  izinkukhu namashongololo bayizitha.
+P12	Kusukela ngalelo langa, izinkukhu namashongololo bayizitha.
 
 images:
 
@@ -43,17 +43,18 @@ illustrations/pages/8994.png
 translations:
 
 Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
-Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+Afrikaans (Translation)	Hoender En Duisendpoot	id=20054
 ChiTonga (Translation)	Nkuku, Joongola	id=18643
 CiNyanja (Translation)	Nkuku Na Bongololo	id=18661
+Dhopadhola (Translation)	Gweno Kodi Ongongolo	id=20822
 English (Translation)	Chicken and Millipede	id=9094
 French (Translation)	La Poule Et Le Millepatte	id=9959
 French (Translation)	Poulet Et Mille-Pattes	id=10145
 Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
 Gurene (Translation)	Nͻbila La Katagune	id=12663
-Hausa (Translation)	Kaza Da	id=9977
+Hausa (Niger) (Translation)	Kaza Da	id=9977
 isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
-isiXhosa (Translation)	Unkukhu  Nosongololo	id=17517
+isiXhosa (Translation)	Unkukhu Nosongololo	id=17517
 isiZulu (Translation)	Unkukhu Noshongololo	id=13535
 Kanuri (Translation)	Kuwui-a Dǝngaɍi-A	id=10039
 Kinyarwanda (Translation)	Inkoko Na Magurijana	id=17457
@@ -62,6 +63,7 @@ Likpakpaanl (Translation)	Ukↄla Ni Gonlgonl	id=18776
 Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
 Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
 Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Mampruli (Translation)	Noa Ni Sanguntiri	id=20117
 Portuguese (Translation)	O Frango E O Gongolo	id=16099
 Portuguese (Translation)	Galinha E Milípede	id=16477
 Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
@@ -70,7 +72,8 @@ Sepedi (Translation)	Kgogo Le Legokolodi	id=12410
 Sesotho (S.Africa) (Translation)	Kgoho Le Lefokolodi	id=14434
 Setswana (Translation)	Koko Le Sebokolodi	id=13973
 SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
-siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Siswati (Translation)	Inkhukhu Nelishongololo	id=12580
+Talen (Translation)	Nobil Ne Sanguin 	id=20179
 Tshivenda (Translation)	Khuhu Na Dongololo	id=14731
 Xitsonga (Translation)	Huku Na Khongoloti	id=14408
 Zarma (Translation)	Gorŋo-Ɲa Nda Konjanje	id=10103

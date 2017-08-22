@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=21233&d=0&a=1
+id:	21233
+title:	ሚሚ ወደ ትምህርት ቤት ሄደች 
+author:	ፋሲል አሠፋ (Fasil Assefa)
+artist:	Vusi Malindi
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21233.png
+desc:	ሚሚ በእረፍት ቀንና በትምህርት ቀኗ እንዴት ንፅህናዋን እንደምትጠብቅ የሚያሳይ፡፡
+
+page_text:
+
+P1	ሚሚ በረፍት ቀኗ ቀኑን ሙሉ ስትጫወት ዋለች፡፡
+P2	እናቷም ከመተኛቷ በፊት እንድትተታጠብ ነገሯት፡፡
+P3	የጥርስ ቡርሿንም አንስታ ጥርሷን ቦረሸች፡፡
+P4	እናቷም ውሀ በጎድጔዳ ሠሀን አድርገው አቀረቡላት፡፡
+P5	ፊቷን ከታጠበችም በኃላ በፎጣ አደራረቀች፡፡
+P6	የመኝታ ሰዓቷ ሲደርስም ከእህቷ ጎን ሄዳ ተኛች፡፡
+P7	በጠዋት ተነስታም ጥርሷን ቦረሸች፣ ሰውነቷንም ተጣጠበች፡፡
+P8	እናቷም ልብሷን እንድትለብስ ረዷት፡፡
+P9	ጫማዋንም አሰረች፡፡
+P10	ከዛም ወደ ትምህርት ቤት ሄደች፡፡
+P11	ሚሚ ወደ መማሪያ ክፍል ገብታም   ትምህርቷን በጥሩ ሁኔታ ተከታተለች፡፡
+
+images:
+
+illustrations/pages/7516.png
+illustrations/pages/7516.png
+illustrations/pages/7517.png
+illustrations/pages/7514.png
+illustrations/pages/7518.png
+illustrations/pages/7515.png
+illustrations/pages/7513.png
+illustrations/pages/7507.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+
+translations:
+
+English (Original)	Joy Goes to School.	id=7660
+Luganda (Translation)	Joy Agenda Ku Somero	id=9053
+Luganda (Translation)	Joy Agenda Ku Somero	id=9056

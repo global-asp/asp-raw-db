@@ -13,9 +13,10 @@ page_text:
 
 P1	Ayei kolong akinyang nanyamit akoro.
 P2	Asaki ng'esi akimuj wadio nabo ekililing'at.
-P3	PUU! Toporok akinyang!
-P4	Arumoret kaneni,  amam akoro anyamit ng'esi,  nabo talakar ng'esi.
-P5	Todol ni enyamia ng'esi akoro nabo.
+P3	Napei kona.
+P4	PUU! Toporok akinyang!
+P5	Arumoret kaneni,  amam akoro anyamit ng'esi,  nabo talakar ng'esi.
+P6	Todol ni enyamia ng'esi akoro nabo.
 
 images:
 
@@ -32,6 +33,8 @@ Afrikaans (Translation)	Die Honger Krokodil	id=11063
 Arabic (Translation)	التمساح الجائع	id=18188
 English (Original)	The Hungry Crocodile	id=7043
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
 Luganda (Translation)	Ggonya Omuyala.	id=9664
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252

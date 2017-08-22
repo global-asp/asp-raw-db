@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=21134&d=0&a=1
+id:	21134
+title:	Sungura Na Fisi Wanapanda Mimea
+author:	Brigid Simiyu
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21134.png
+desc:	Ingawa walikuwa marafiki
+
+page_text:
+
+P1	Hapo zamani, Sungura na Fisi walikuwa marafiki wazuri.
+P2	Sungura alimwambia Fisi, “Ningependa tulime pamoja.”
+P3	Sungura alionelea wapande mahindi na wagawane majukumu.
+P4	Sungura alimwambia Fisi, “Kazi yangu ya kuwafukuza ndege ni ngumu.”
+P5	Fisi alikubali kulima shamba peke yake.
+P6	Wakati Fisi aling’oa magugu, Sungura aliketi chini akiimba.
+P7	Mahinid yalipokuwa  tayari, Sungura alifurahi kuwafukuza ndege.
+P8	Sungura alisema, “Nitavuna yaliyo juu ya udongo. Utavuna yaliyo chini.”
+P9	Sungura alivuna mahindi yote akahifadhi.
+P10	Fisi alikuta mizizi tupu chini ya udongo.
+P11	Fisi aligundua kwamba alikuwa amedanganywa. 
+
+Alikasirika sana.
+P12	Walipanda viazi. Fisi alisema, “Nitavuna yaliyo juu ya
+udongo.”
+P13	Walifanya kazi pamoja shambani wakiimba.
+P14	Wakati wa kuvuna, Fisi alivuna majani ya viazi pekee.
+P15	Sungura alivuna viazi vingi vikubwa akahifadhi.
+P16	Fisi alimkimbiza Sungura akitaka kulipiza kisasi.  
+
+Urafiki wao uliisha.
+
+images:
+
+illustrations/pages/8138.png
+illustrations/pages/8135.png
+illustrations/pages/8136.png
+illustrations/pages/8137.png
+illustrations/pages/8138.png
+illustrations/pages/8139.png
+illustrations/pages/8140.png
+illustrations/pages/8141.png
+illustrations/pages/8142.png
+illustrations/pages/8143.png
+illustrations/pages/8144.png
+illustrations/pages/8145.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8148.png
+illustrations/pages/8149.png
+illustrations/pages/8150.png
+
+translations:
+
+Acholi (Translation)	Apwoyo Gin Ki Laluu  Gu Pitu Cam	id=20992
+Amharic (Translation)	ጥንቸል እና አያ ጅቦ እህል አመረቱ 	id=21246
+Dhopadhola (Translation)	Oculu Kodi Ondyek	id=18696
+English (Original)	Hare And Hyena	id=9796
+English (Adaptation)	Hare And Hyena Grow Crops	id=20885
+Kiswahili (Translation)	Sungura Na Fisi	id=15610
+Kiswahili (Adaptation)	Sungura Na Fisi	id=18418
+Lunyole (Translation)	Wakayima Ni Namunyu Balima Ebirime	id=21023
+Tigrigna (Translation)	ማንቲለ በረኻን ምህርቲ ዘፍሪ ዝብኢን	id=21112

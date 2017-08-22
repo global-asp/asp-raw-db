@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=21337&d=0&a=1
+id:	21337
+title:	Omusajja Omugezi
+author:	Kayinga Muddu Yisito
+artist:	Joshua Waswa
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21337.png
+desc:	Omulenzi omuto asubira nti abavubuka bamanyi nnyo okusinga abakadde. Mukoowe
+
+page_text:
+
+P1	Edda ennyo waliwo omusajja eyalowooza nti abavubuka bagezi nnyo
+  okukira ku bakadde baabwe. Era ne yepankira kumukaziwe. Yamugamba nti “ ndi
+  mugezi okusinga ku taata wo”. Era omukazi yamuwakanya naye omuvubuka ono
+  teyawuliriza mukazi we.
+P2	Bwakya lumu omukazi n’agenda okulaba ku bakaddebe, yategeeze
+  taatawe engeri mukoddomi we bweyeyita okuba omugezi okusinga taatawe olw’okuba
+  yye muto.
+P3	Era baawe yamusindika addeyo ewabwe “agambe taatawe amutegekere
+  ekyokunwa ekisogoddwa mu mukka” era awo njakukasa mukoddomi wange nti
+  mubutuufu ndi mugezi nnyo. Era yaseka nga bwakuddaala nti tewali muntu
+  asobola kukola mwenge kuva mumukka.
+P4	Muko yaseka busesi nti tewali mwenge gusobola kukolebwa kuva mu
+  mukka. Naye omukadde ono yatuma muwalawe addeyo n’obubaka nti akkirizza
+  okusomozebwa kw’okuyiisa omwenge okuva mumukka. Naye kukakwakurizo nti
+  bwegunaaba guyidde, anagunona alina kuba musajja oba mukazi.
+P5	Omuko yesanga nga ali mukatego. Era okuva mukaseera ako, yakiririza
+  munjogera egamba nti “ Ebibegabega tebisobola kukula kusukka kumutwe”
+
+images:
+
+illustrations/pages/2567.png
+illustrations/pages/2564.png
+illustrations/pages/2565.png
+illustrations/pages/2566.png
+illustrations/pages/2568.png
+illustrations/pages/2567.png
+
+translations:
+
+Amharic (Translation)	አዋቂው ሰውዬ	id=12737
+English (Original)	The Wise Man	id=2569
+Lugbarati (Translation)	Agu Anitua Be E’Yo Ni Ndele Ra	id=2713
+Lumasaaba (Translation)	Uwe Lukyesikyesi Ukhaanyalisa Khukhwiwonesa Umweene Ta	id=2998

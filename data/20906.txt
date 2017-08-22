@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=20906&d=0&a=1
+id:	20906
+title:	Isiganwa Rigamije Ubumwe Muri Afurika
+author:	Daniel Tuyisenge
+artist:	Brian Wambi
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20906.png
+desc:	Iyi nkuru iravuga ku bantu babiri bakiri bato birutse muri Afurika bagamije gukwirakwiza ubutumwa bwamahoro. Bagenda
+
+page_text:
+
+P1	Rukundo na Murenzi ni inshuti zikunda kwiruka. Birukaga buri munsi bari kumwe.
+P2	Umunsi umwe, Rukundo aravuga ati: "reka tuzenguruke umugabane wacu. Twiruke dushyigikire igitekerezo cy'ubumwe bwa Afurika!"  Murenzi ati: "ahubwo twatinze! Tugende!"
+P3	Bafashe ikemezo cyo kwitwaza urumuri rw'ubumwe mu rugendo rwabo. Batangiriye isiganwa ryabo kure iyo mu magepfo y'umugi wa Cape.
+P4	Baturutse muri Afurika y'Epfo bakomereza ku nkombe z'iburengerazuba. Banyuze Namibiya, Angola, Repubulika Ihananira Demokarasi ya Kongo na Kameruni. Baruhukira Abuja.
+P5	Abasiganwa bo muri Afurika y'Iburengerazuba bifatanije na bo bageze muri Nijeriya. Bakomereje hamwe, bakurikira uruzi rwa Nijeri bakomeza mu burengerazuba.
+P6	Umuyaga wo mu butayu muri Mali wababereye inkomyi. Murenzi ni we warushaga imbaraga abandi. Nuko arabayobora bakomeza urugendo.
+P7	Ku nkombe ya Gineya muri Konakiri abirukaga bari bahindanyijwe n'ivumbi bagiye koga mu nyanja. Hanyuma bakomereza muri Maroke banyuze muri Senegari na Moritaniya.
+P8	I Kasabulanka abirukaga bakinnye n'urundi rubyiruko ku nkombe z'inyanja. Hanyuma, barahaguruka bakomereza mu majyaruguru y'Afurika.
+P9	Banyuze muri Alijeriya na Libiya bahagara mu Misiri kugira ngo basure za piramide. Hanyuma bakomereje iburasirazuba, bakurikiye uruzi rwa Nili berekeza mu Bugande.
+P10	Barirukanse baca mu butayu na pariki z'ibihugu bitandukanye. Urundi ribyiruko rwifatanije na bo bageze i Kampala. Nuko iryo tsinda ryose rikomereza ku nkombe za Kenya.
+P11	I Mombasa bicaye ku mucanga barya umuceri n'amafi. Maze Murenzi aravuga ati: "Reka dufate urumuri rw'ubumwe turujyane ku musozi wa Kirimanjaro."
+P12	Ariko Murenzi yari ananiwe. Igihe berekezaga muri Tanzaniya yituye hasi. Abirukaga bose barahagarara basubira inyuma ngo bamutabare.
+P13	Murenzi ahereza Rukundo rwa rumuri. Aravuga ati: "Jyana uru rumuri ku musozi wa Kilimanjaro. Mucane urumuri rw'ubumwe bw'umunyafurika."
+P14	Abantu  bishimira abasianwaga bati: "Muri intwari zacu!" Bakimara gucana urumuri rw'ubumwe ku isunzu rya Kilimanjaro, basiganwe basubira mu magepfo ya Afurika.
+P15	Bahagaze gato ngo boge mu kiyaga cya Malawi. Rukundo abwira Murenzi ati "Twavuye mu magepfo tugana mu majyaruguru none turagarutse. Urugendo rwacu ruri hafi kurangira."
+P16	Abasiganwaga bagamije Ubumwe byarangiye berekeje urumuri ahitwa Great Zimbabwe. Abantu benshi bahuriye aha hantu h'ingenzi. Murenzi aramwenyura ati: "Mbega isiganwa!" 
+
+images:
+
+illustrations/pages/19868.png
+illustrations/pages/19860.png
+illustrations/pages/19861.png
+illustrations/pages/19862.png
+illustrations/pages/19863.png
+illustrations/pages/19864.png
+illustrations/pages/19865.png
+illustrations/pages/19866.png
+illustrations/pages/19867.png
+illustrations/pages/19868.png
+illustrations/pages/19869.png
+illustrations/pages/19870.png
+illustrations/pages/19871.png
+illustrations/pages/19872.png
+illustrations/pages/19873.png
+illustrations/pages/19874.png
+illustrations/pages/19875.png
+
+translations:
+
+English (Original)	Africa Unity Race	id=19876
+Kiswahili (Translation)	Mbio Kuhimiza Umoja Wa Afrika	id=19877
+Lukenye (Translation)	Empaka Ezamawanga Ga  Abairugavu	id=21480
+Lukenye (Translation)	Empaka Ezamawanga Ga  Abairugavu	id=21507
+Lusoga (Translation)	Okuvugania Kwa Afirika Okweyimba	id=21258

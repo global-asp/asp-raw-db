@@ -22,11 +22,11 @@ P8	Trevor alimkaribisha. "Mpenzi wangu,  mbona ukakimbia umbali huu peke yako us
 P9	Apenyo alikunywa maji,  akashusha pumzi na kusema,  "Babangu anataka kunioza kwa chifu Aludah Mkuu. Lakini,  siwezi kuolewa na yule mzee mwovu. Trevor,  ningependa kuolewa nawe hata kama wewe ni maskini. Ninakupenda."
 P10	"Lakini sina chochote cha kulipia mahari." Trevor alilalama. Apenyo alijibu,  "Naelewa,  lakini nataka kuolewa na wewe tu." Aliwaza kwa muda kisha akasema,  "Hebu twende kwa Kategga,  mwenye mashua,  atuvushe hadi upande mwingine wa mto tuepukane na babangu."
 P11	Mfalme Kayanja alipogundua kuwa bintiye ametoweka,  aliamuru msako ufanywe kijijini. Walinzi na askari walimtafuta Apenyo kila mahali lakini hawakumpata. Walirudi na kumwambia Mfalme kwamba Apenyo hakuonekana popote. "Basi tafuteni pia vichakani." Aliamrisha Mfalme Kayanja aliyekuwa amekasirika sana.
-P12	Trevor na Apenyo walipokuwa wakiharakisha kwenda kwenye mto,  mawingu meusi yalianza kukusanyika angani. Dhoruba kubwa ilikuwa inakuja.
+P12	Trevor na Apenyo walipokuwa wakiharakisha kwenda kwenye mto,  mawingu meusi yalianza kukusanyika angani. Dhoruba kubwa ilikuwa inakaribia.
 P13	Kategga,  mwenye mashua,  alikuwa anafunga mashua yake Trevor na Apenyo walipofika. Trevor alimwmomba Kategga awavukishe hadi ng'ambo ya pili ya mto. Kategga alikataa akawaelezea kwamba dhoruba kali ilikuwa inakaribia na ingekuwa hatari kuvuka.
 P14	Trevor alisizitiza huku akimwelezea kwa nini itawalazimu kuvuka  wakati huo. Alitia mkono mfukoni na kutoa kete yenye thamani na kumpa Kategga. Kategga aliwaonea huruma akakubali kuwavusha haraka kabla ya dhoruba.
 P15	Kategga aliivuta mashua ukingoni. Wakaabiri na kuanza safari. Mfalme Kayanja na Chifu Aludah walipofika ufukweni,  waliowaona watu watatu mashuani wakivuka. Wakatambua kwamba Apenyo  alikuwa anatoroka.
-P16	Dhoruba kali ilianza na kusababisha mawimbi makubwa. Kategga hakuweza kudhibiti mashua tena. Mfalme Kayanja alipiga mayowe,  "Apenyo,  tafadhali rudi! Nimekusamehe,  kamwe sitakuadhibu wewe wala Trevor." Mayowe ya Mfalme yalikuwa ya bure. Mashua ilipinduka,  wote watatu wakatumbukia majini wakazama. Kutoka siku hiyo,  walioishi katika ufalme wa mfalme Kayanja,  waliruhusiwa kumwoa yeyote waliyemtaka,  tajiri au maskini.
+P16	Dhoruba kali ilsababisha mawimbi makubwa. Kategga alishindwa kudhibiti mashua. Mfalme alilia, "Apenyo, tafadhali rudi! Nimewasamehe." Mayowe yake yalikuwa ya bure. Mashua ilipinduka wote wakazama. Tangu siku hiyo, walioishi katika ufalme wa Kayanja, walimwoa waliyemtaka, tajiri au maskini.
 
 images:
 
@@ -59,7 +59,7 @@ Dagaare (Translation)	Naa Kayanja Ne O  Pɔgeyaa	id=17774
 Dagbani/Dagbanli (Translation)	Naa Kayanja Mini O Bipuɣiŋga	id=18161
 Dangme (Translation)	Matsɛ Kayanja Kɛ E Bi Yo Ɔ	id=18341
 Dhopadhola (Translation)	Kere Kodi Nyare	id=18750
-English (Original)	King Kayanja and His Daughter	id=10210
+English (Original)	King Kayanja And His Daughter	id=10210
 Ewe (Translation)	Fia Kayanja Kple Via Nyɔnuvi	id=18172
 Fante (Translation)	Ɔhen Kayanja Na Ne Babasia	id=18492
 French (Translation)	Le Roi Kayanja Et Sa Fille	id=12664
@@ -80,5 +80,6 @@ Sepedi (Translation)	Kgoši Kayanja Le Morwedi Wa Gagwe	id=18163
 Sesotho (South Africa) (Translation)	Morena Kadi Le Moradi Wa Hae	id=20035
 Setswana (Translation)	Kgosi Mothupi Le Morwadiagwe	id=14957
 SiLozi (Translation)	Mulena Kayanja Ni Mwana Wa Hae Wa Musizani	id=18741
+Talen (Translation)	Na'ab Kayanja Ne O Puawoo	id=20196
 Tshivenda (Translation)	Thovhele Kayanja Na Ṅwananyana Wawe	id=18277
 Xitsonga (Translation)	Hosinkulu Kayanja Na Nhwanyana Wa Yena	id=18872

@@ -16,7 +16,8 @@ P2	Gamco yar,  gamco weeyn.
 P3	Ri yar,  ri weeyn.
 P4	Kitaab yar,  kitaab weeyn.
 P5	Farxad yar,  farxad badan.
-P6	The end.
+P6	Dhamaad.
+P7	The end.
 
 images:
 
@@ -42,5 +43,4 @@ Lunyole (Translation)	Ehitono N'ehibbala	id=13555
 Maa (Translation)	Enkití Ó Esápuk	id=3090
 Ng’aturkana (Translation)	Niichi Ka Niapolon	id=3091
 Oluwanga (Translation)	Akhatiiti Nende Okukhoongo	id=3092
-Tunisian (Translation)	Ṡɍìr W Kbìr	id=15278
 Zande (Translation)	Umba Na Bakere	id=16762

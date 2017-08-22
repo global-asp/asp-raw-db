@@ -1,8 +1,8 @@
 url:	http://africanstorybook.org/reader.php?id=13632&d=0&a=1
 id:	13632
 title:	The Visit of Death
-author:	Owor Israel
-artist:	Alex Zablon, Mango Tree, Peris Wachuka and Zablon Alex Nguku
+author:	Beatres Nabune
+artist:	Alex Zablon, Michael Omadi, Atilabachew Reda and Audrey Anderson
 lang:	English
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
@@ -33,3 +33,4 @@ illustrations/pages/13110.png
 translations:
 
 English (Adaptation)	Death Visits Hupapa	id=17197
+Lumasaaba (Translation)	Kumutambo Kwekhufa Kucheniya Hupapa	id=20737

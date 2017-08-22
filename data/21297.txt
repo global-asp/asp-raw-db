@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=21297&d=0&a=1
+id:	21297
+title:	Enhumba Eya Omusonso
+author:	Sumaya Nakagolo
+artist:	Amy Uzzell and Jennifer Jacobs
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21297.png
+desc:	Omusonso ghughezesaku ebitundhu Binghi paka whefunha ekifwo ekigiwa emirembe okutendhukamu.
+
+page_text:
+
+P1	omusonso yali elikunhonia
+  enhumba empyaka
+P2	Kinho kibonekha nga
+  ekifwo ekilungi
+P3	Osobola okwidha watendhuka
+  niinze, “akabwa akato nakaakhoba, “webale” omusonso gwailamu.  
+P4	Obwiire obwho, ebilooto
+  byo omusonso byali bilungi ate ngha byesiimu.
+P5	Osobola okwidha watendhuka
+  niinze, “akanoni kakoba. “webale”
+  omusonso gwailamu.
+P6	Obwiire obwho, ebilooto
+  byo omusonso byali bikheyanafu ate ngha byantinsa
+P7	Osobola okwidha watendhuka
+  niinze, “ engheghe
+  yakooba. “webale,
+  omusonso gwailamu.
+P8	Obwiire obwho, ebilooto
+  byo omusonso byali binhogwovhu ate ngha bibolu.
+P9	Omusonso gwayendhe awantu
+  nga wasuwilivu ate nga wakalu.
+P10	Your translated text
+P11	Omusonso gwayaganha ekabadha
+  eyebitabo okumpi awo.
+P12	Obwiire obwo, omusonso
+  gwhafuna ebilooto ebisuwilivu, ate nga bilungi. Suula bulungi musonso.
+
+images:
+
+illustrations/pages/8832.png
+illustrations/pages/8834.png
+illustrations/pages/8835.png
+illustrations/pages/8836.png
+illustrations/pages/8837.png
+illustrations/pages/8846.png
+illustrations/pages/8839.png
+illustrations/pages/8840.png
+illustrations/pages/8841.png
+illustrations/pages/8842.png
+illustrations/pages/8843.png
+illustrations/pages/8844.png
+illustrations/pages/8845.png
+
+translations:
+
+Acholi (Translation)	Ka Bwutu It Oyoo	id=20667
+Amharic (Translation)	የአይጢት ቤት	id=12960
+English (Original)	A House for Mouse	id=9118
+Kinyarwanda (Translation)	Inzu Y'imbeba	id=20854
+Kumam (Translation)	Oot Me Iyono	id=20977
+Lusoga (Translation)	Enhumba Ya Wampube	id=21391

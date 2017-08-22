@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=20893&d=0&a=1
+id:	20893
+title:	The Pot That Died
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Emily Berg
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20893.png
+desc:	Byantaka had a small pot. He desired a bigger pot. What could he do? He used his head and got what he wanted.
+
+page_text:
+
+P1	Byantaka had a cow and a small pot for water.
+P2	He went to borrow a bigger pot from his neighbour.
+P3	Byantaka put a small pot inside the neighbour’s big pot.
+P4	He carried the pots to the neighbour.
+P5	“Your pot gave birth,” Byantaka told the neighbour.
+P6	Byantaka went to the neighbour to borrow the pot again.
+P7	He did not return it. The neighbour went to ask.
+P8	Byantaka said, “It died. I was coming to tell you.”
+P9	The neighbour shouted, “I have never heard of a pot dying!”
+P10	Byantaka replied, “My friend, everything that produces must die.”
+P11	The neighbour went to court to report Byantaka.
+P12	The judge said, “Every living thing which reproduces must die.”
+P13	Byantaka got the big pot and his neighbour lost.
+
+images:
+
+illustrations/pages/14436.png
+illustrations/pages/14435.png
+illustrations/pages/14436.png
+illustrations/pages/13193.png
+illustrations/pages/13194.png
+illustrations/pages/14440.png
+illustrations/pages/14437.png
+illustrations/pages/14447.png
+illustrations/pages/14446.png
+illustrations/pages/14448.png
+illustrations/pages/14450.png
+illustrations/pages/14449.png
+illustrations/pages/14451.png
+illustrations/pages/14452.png
+
+translations:
+
+English (Translation)	Byantaka And The Dead Pot	id=14497
+Kiswahili (Translation)	Chungu Kilichokufa	id=21148
+Lusoga (Original)	Byantaka Ne Ensaka Enfu	id=14482
+Ng’aturkana (Translation)	Agulu Na Atoani	id=21121
+Runyoro (Translation)	Ensoha Eyafire	id=20993
+Tigrigna (Translation)	እታ ዝሞተት ዕትሮ	id=21195

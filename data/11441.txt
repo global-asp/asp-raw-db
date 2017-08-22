@@ -14,11 +14,12 @@ page_text:
 P1	Elinyilanga kwakukhona umndeni ababehlala emzaneni. Abazali kulo mndeni neba vuka ekuseni njalo ekuseni,  ukusebenza emasimini. Zayishiya umntwana nendodana yabo endala,  uSipho ngubani eyishumi ubudala,  futhi indodakazi yabo endala uBulelwa,  owayeneminyaka eyishumi nambili ubudala.
 P2	Izingane zakhe ezindala nebathanda ukudlala ngaphandle emini kanye babekhohliwe ukwenza indlu yabo yasendlini. Abafana nebathanda ukudlala ibhola Amantombazane nebathanda ukudlala nge onodoli emhlabeni egcekeni. Bakhohlwa mayelana nginakekela ingane lapho abangane baba bafiga. Umntwana akhala,  akhala akekho weza.
 P3	Elinyilanga izingane zabeka umntwana ngaphasi kwesihlahla emthunzini phezu kwengubo egqamile ebomvu. Bahamba bayo dlala. Ingane yaqala ukukhala evamile. Iqembu iNdwa landizela ngaphezu enkundleni yezemidlalo kanye wahawukela ikhala. Zazama ukuthola abantwana ukuqaphela ukuthi ingane wayememeza kodwa abantwana baqhubeka ukudlala. IziNdwa zanquma ukuthatha ingane bese baikhulisa bona.
-P4	Bekhushisa kakhulu kangangokuba umama wanquma ziphumule ngaphansi kwesihlahla. Nakuba yena ephumule ezwa umntwana ekhala. Yena waqalaza akwazi lutho. Wabe asabheka phezulu wabona iz iNdwa ezine ezindizayo ziphethe umnthwanakhe engubeni ebomvu. Wathethisa futhi wazisukela iziNdwa Lapho owesifazana etshela umyeni wakhe lokho ebona akazange akholelwe wakhe.
-P5	IziNdwa zafihla usana phakathi komhlanga sokuvikela. Babefuna ukuthola umndeni omusha wayeyobanakekela umntwana. Bathi badlisa walibeka ukulala. Base bandiza bayo funa ukudla okuningi. Umntwana babelele isikhathi eside ngaphandle ekhala. Lapho umntwana waphaphama kwaqala bekhala ngoba kwabe alambile.
-P6	.
-P7	Ixoxo wacabanga ukuthi iziNdwa abantshontshe umntwana,  futhi wanquma ufihle ingane kusukela iziNdwa. Kungazelelwe ixoxo wezwa izwi iziNdwa. Kwakungekho nesikhathi sakufihla. Ixoxo kugwinywe umntwana wacasha iMbila. Lapho iziNdwa befika bathi abaso ukuthola umntwana futhi landizela ayofuna kuwo. Ixoxo ezitshakadule emuva umntwana ekhaya.
-P8	Kwaba umdeni wemntwana ehlezi ebusuku kabi kungazelelwe ixoxo wagxumela ngomyango. Ixoxo wabatshela ukuthi khinsa kanjani ingane yabo. Bacela isele ukuze abanikele ingane. "Ngiphe izimpukane ezithathuukuba ngidle ngizokunika umntwana",  wathi ixoxo. Ubaba wabamba izimpukane ezithathu wabandla kuze ixoxo. Ixoxo yakhohlola futhi umntwana kanye. Ixoxo wagxuma futhi umdeni wasina ngenjabulo.
+P4	INdwa ezine zilamukele zizolanda umntwana ngaphansi kwesihlahla. INdwa ngamunye yathatha ekhoneni ngegubo komntwana waphakamisa umntwana phezulu bese zandiza. Izingane abazange bakuqaphele lutho goba kade badlala bamtasa. Abazali yezingane nebasebenza kanzima elangeni elishisayo.
+P5	Bekhushisa kakhulu kangangokuba umama wanquma ziphumule ngaphansi kwesihlahla. Nakuba yena ephumule ezwa umntwana ekhala. Yena waqalaza akwazi lutho. Wabe asabheka phezulu wabona iz iNdwa ezine ezindizayo ziphethe umnthwanakhe engubeni ebomvu. Wathethisa futhi wazisukela iziNdwa Lapho owesifazana etshela umyeni wakhe lokho ebona akazange akholelwe wakhe.
+P6	IziNdwa zafihla usana phakathi komhlanga sokuvikela. Babefuna ukuthola umndeni omusha wayeyobanakekela umntwana. Bathi badlisa walibeka ukulala. Base bandiza bayo funa ukudla okuningi. Umntwana babelele isikhathi eside ngaphandle ekhala. Lapho umntwana waphaphama kwaqala bekhala ngoba kwabe alambile.
+P7	.
+P8	Ixoxo wacabanga ukuthi iziNdwa abantshontshe umntwana,  futhi wanquma ufihle ingane kusukela iziNdwa. Kungazelelwe ixoxo wezwa izwi iziNdwa. Kwakungekho nesikhathi sakufihla. Ixoxo kugwinywe umntwana wacasha iMbila. Lapho iziNdwa befika bathi abaso ukuthola umntwana futhi landizela ayofuna kuwo. Ixoxo ezitshakadule emuva umntwana ekhaya.
+P9	Kwaba umdeni wemntwana ehlezi ebusuku kabi kungazelelwe ixoxo wagxumela ngomyango. Ixoxo wabatshela ukuthi khinsa kanjani ingane yabo. Bacela isele ukuze abanikele ingane. "Ngiphe izimpukane ezithathuukuba ngidle ngizokunika umntwana",  wathi ixoxo. Ubaba wabamba izimpukane ezithathu wabandla kuze ixoxo. Ixoxo yakhohlola futhi umntwana kanye. Ixoxo wagxuma futhi umdeni wasina ngenjabulo.
 
 images:
 
@@ -35,6 +36,10 @@ illustrations/pages/8486.png
 translations:
 
 English (Original)	Baby Snatched By Cranes	id=8487
+English (Adaptation)	Baby And Cranes	id=20910
 French (Translation)	Un Bébé Enlevé Par Des Grues	id=10144
+Kiswahili (Translation)	Mtoto Na Korongo	id=21150
+Lámnsoʼ (Translation)	Wán Wo Vintùŋàshàʼshàʼ Vi Boŋrin 	id=21041
 Luganda (Translation)	Omwana Eya Nyakulibwa Ngaali	id=11903
-Sesotho (Lesotho) (Translation)	Ngoana Ea Ileng a Utsua Ke ‘Mamokoatatsie	id=10373
+Sesotho (Lesotho) (Adaptation)	Ngoana Ea Ileng A Utsua Ke Mamokoatatsie	id=21158
+Tigrigna (Translation)	ህፃንን ዑፍን	id=21170

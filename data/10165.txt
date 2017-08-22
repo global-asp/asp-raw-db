@@ -1,13 +1,13 @@
 url:	http://africanstorybook.org/reader.php?id=10165&d=0&a=1
 id:	10165
-title:	My Picture Book
+title:	Ahatabo Hanghambagana  Hu Bi Fanani
 author:	Rose Alungho and Herbert  Haumba
 artist:	Karen Lilje, Catherine Groenewald, Alice Toich, Katrien Coetzer, Wiehan de Jager and Marleen Visser
 lang:	Lunyole
 level:	First words
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/10165.png
-desc:	Ahatabo hanghambagana  hu bi fanani
+desc:	Ahatabo hanghambagana hu bi fanani.
 
 page_text:
 
@@ -26,4 +26,4 @@ illustrations/pages/8866.png
 
 translations:
 
-Tunisian (Translation)	Ktèb It-Tṡàwir Mtèġi	id=15277
+Tunisian (Translation)	Ktēb T-Tṣāwir Mtēɛi	id=15277

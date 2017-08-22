@@ -4,7 +4,7 @@ title:	Ibhola Yam Ebomvu
 author:	Kholeka Mabeta
 artist:	Marion Drew
 lang:	isiXhosa
-level:	First words
+level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/14121.png
 desc:	Ibhola enkulu ebomvu ithabatha uhambo.
@@ -14,7 +14,7 @@ page_text:
 P1	Ibhola.
 P2	Ibhola yam.
 P3	Ibhola yam ebomvu.
-P4	Ibhola yam enkulu,  ebomvu.
+P4	Ibhola yam enkulu, ebomvu.
 P5	Ndiyakhaba.
 P6	Ndikhaba ibhola yam.
 P7	Ndikhaba ibhola yam ebomvu.
@@ -26,7 +26,7 @@ P12	Iphi ibhola yam ebomvu ngoku?
 P13	Iphezulu.
 P14	Iphezulu kakhulu.
 P15	Iphezulu kakhulu esibhakabhakeni.
-P16	Iphezulu kakhulu esibhakabhakeni,  ngaphaya kwenyanga. Imkile!
+P16	Iphezulu kakhulu esibhakabhakeni, ngaphaya kwenyanga. Imkile!
 
 images:
 
@@ -61,7 +61,6 @@ Ciyawo (Translation)	Mpila Wangu Wecejewu	id=15160
 Dholuo (Translation)	Mpira Na Marakwar	id=15201
 Ekegusii (Translation)	Omopir' One	id=15094
 English (Translation)	My Red Ball	id=13308
-English (Translation)	My Red Ball	id=19976
 Fante (Adaptation)	Mo Bɔɔl Kɔkɔɔ No	id=18815
 Gikuyu (Translation)	Mu͂bi͂ra Wakwa Mu͂nene Mu͂tune	id=15607
 IciBemba (Translation)	Umupila Wandi Uwakashika	id=18573

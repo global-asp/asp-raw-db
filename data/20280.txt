@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20280&d=0&a=1
+id:	20280
+title:	Imbwa
+author:	janviere micomyiza
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20280.png
+desc:	Inkuru iravuga ku mugabo wari ufite imbwa yamwubahaga cyane kandi ikamubera indahemuka.
+
+page_text:
+
+P1	Habayeho umugabo wari ufite imbwa imwe.
+P2	Yakundaga imbwa ye cyane.
+P3	Imbwa yarakoraga cyane kuko yanayitumaga ku isoko kugura inyama.
+P4	Yavomaga amazi ku iriba.
+P5	Yarindaga ibintu byose byo mu rugo.
+P6	Umunsi umwe yashimiye imbwa ye mu buryo budasanzwe kuko yamubereye indahemuka.
+P7	Imbwa yarishimye ndetse ikomeza gukora cyane.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

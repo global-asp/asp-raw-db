@@ -13,9 +13,10 @@ page_text:
 
 P1	Once there was a very hungry crocodile.
 P2	He searched for food slowly and quietly.
-P3	POW! The crocodile strikes!
-P4	After that he is no longer hungry,  and he is happy.
-P5	Until he gets hungry again.
+P3	And then.
+P4	POW! The crocodile strikes!
+P5	After that he is no longer hungry,  and he is happy.
+P6	Until he gets hungry again.
 
 images:
 
@@ -31,6 +32,8 @@ translations:
 Afrikaans (Translation)	Die Honger Krokodil	id=11063
 Arabic (Translation)	التمساح الجائع	id=18188
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
 Luganda (Translation)	Ggonya Omuyala.	id=9664
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252

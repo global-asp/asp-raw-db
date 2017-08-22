@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=20760&d=0&a=1
+id:	20760
+title:	Andiswa Kwararriyar 'yarwasan Kwallan Kafa
+author:	Muhammad Umar
+artist:	Eden Daniels
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20760.png
+desc:	Hakika Andiswa na san kwallan kafa
+
+page_text:
+
+P1	Andiswa ta na kallan yara maza suna wasan kwallan kafa. Ta so a ce ta na cikin su. Ta tambayi Maiharar da 'yanwasan ko za ta iya shiga cikinsu ta yi wasa.
+P2	Maihorar da 'yanwasa ya dora hannuwansa akan kugunsa yace "A wannan makaranta maza ne kadai aka bari su yi wasan kwallan kafa.
+P3	'Yanmaza suka ce mata ta ta tafi ta yi wasan kwallan da ake da hannu, ita ce ta mata, kwallan kafa ta maza ce. Andiswa ta damu.
+P4	Kashe-gari, makarantar za ta yi babban wasa. Maihorar da 'yanwasa ya damu saboda kwararran Danwasan sa ba yi da lafiya kuma ba zai iya wasa ba.
+P5	Andiswa ta ruga wajan Maihorar da 'yanwasa ta roke shi ya kyale ta, ta yi wasa. Maihorar da 'yanwasa ya rasa yadda zai yi. Sai ya yanke shawra Andiswa ta shiga cikin su.
+P6	Wasa ya yi zafi, ba wanda ya ci kwallo a farkon rabin lokaci.
+P7	Lokacin da aka juya rabin lokaci na biyu, sai wani daga cikin su ya turawa Andiswa kwallo. Sai ta ruga da sauri kusa da wallo (goal). Andiswa tadoki kwallo da karfi ta ci
+P8	'Yankallo suka mike da murna. Tun daga ranar aka kyale mata suna yin wasan kwallan kafa a wannan makaranta.
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/4460.png
+illustrations/pages/4461.png
+illustrations/pages/4462.png
+illustrations/pages/4463.png
+illustrations/pages/4464.png
+illustrations/pages/4465.png
+illustrations/pages/4466.png
+illustrations/pages/4467.png
+
+translations:
+
+Amharic (Translation)	አዲሴ- የእግር ኳስ ኮከቧ	id=12962
+English (Original)	Andiswa Soccer Star	id=5283
+Lusoga (Translation)	Andiswa Omuzaanhi Owo  Mupiira	id=21371
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=16757
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Tigrigna (Translation)	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ	id=18977
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=20849&d=0&a=1
+id:	20849
+title:	Mutum Mai Sakaci
+author:	Muhammad Umar and Taiye Fatoki
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20849.png
+desc:	Wani mutum mai sakacin gaske
+
+page_text:
+
+P1	Wata rana an yi wani mutum mai suna Joel a wani kauye mai suna Aya.
+P2	Baya tanadin abinci dan gaba, sai barnatarwa.
+P3	Ba abin da ya rage masa a cikin rumbu.
+P4	Sakamakon fari Masarar da aka shuka ta bushe.
+P5	Guguwa ta ya ye danboton rumbun.
+P6	Yara suna wasoson abincin da ya rage a cikin tukunya.
+P7	Mahaifiyarsu ta fashe da kuka domin tunanin abin da za ta ba su nan gaba.
+P8	Mahaifinsu ya zauna a kofar gida ya na tunanin abin da zai je ya zo nan gaba.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Kinyarwanda (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

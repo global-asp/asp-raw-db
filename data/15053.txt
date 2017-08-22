@@ -18,10 +18,10 @@ P4	Umoya uphenduka isivunguvungu. Sithatha ikhayithi lami kudekude phezulu.
 P5	Isivunguvungu siyangigwinya! Angisaboni lutho. Angithinti lutho.
 P6	Liphi ikhayithi lami manje? Mhlawumbe ligaxele esihlahleni.
 P7	Mhlawumbe ikhayithi lami lisandiza phezulu esibhakabhakeni.
-P8	Umoya ugcina wehlile. Ngisaphenduphenduka.
-P9	Lapho ngiyeka ukuphenduphenduka ngiqalaza yonke indawo. Ushonephi umoya?
+P8	Umoya ugcina wehlile. Ngisaphendu-phenduka.
+P9	Lapho ngiyeka ukuphendu-phenduka ngiqalaza yonke indawo. Ushonephi umoya?
 P10	Angilibonindawo ikhayithi lami. Umoya angisawuzwa nhlobo.
-P11	Mhlawumbe ngizolithola kusasa ikhayithi lami. Manje,  kufanele ngiye ekhaya,  ngaphambi kokuba umoya uqale futhi ukuvunguza.
+P11	Mhlawumbe ngizolithola kusasa ikhayithi lami. Manje,  kufanele ngiye ekhaya, ngaphambi kokuba umoya uqale futhi ukuvunguza.
 
 images:
 
@@ -40,10 +40,12 @@ illustrations/pages/14112.png
 
 translations:
 
+Acholi (Translation)	Yamo	id=21322
 English (Translation)	Wind	id=14119
 English (Adaptation)	Wind	id=15055
 French (Translation)	Le Vent	id=14967
 isiXhosa (Translation)	Umoya	id=14128
+Kinyarwanda (Translation)	Umuyaga	id=20857
 Kiswahili (Original)	Upepo	id=14118
 Kiswahili (Adaptation)	Upepo Mkali	id=18345
 Sesotho (S.Africa) (Translation)	Moya	id=14478

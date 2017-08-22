@@ -22,9 +22,10 @@ P8	Kadri muda ulivyopita,  ndivyo familia za milimani zilibadilika kimaumbile. W
 P9	Kila walipoangaliana,  waliona kwamba meno yao yalikuwa marefu. Walianza kutembea kwa miguu minne.
 P10	Walikuwa viumbe wapya wasiokuwa wameonekana pahali pale mbeleni. Waliitwa nyani.
 P11	Mwanzoni,  nyani hao waliishi kwa furaha. Badala ya kula sungura,  walianza kula mabuu.
-P12	Hata hivyo,  walikumbuka kwamba walikuwa watu mbeleni. Waliangaliana mapua yao makubwa na kuchekana.
-P13	Baadaye,  walianza kukasirishwa na tabia zao wenyewe. Walipochekana,  waliruka juu na chini kwa hasira. Vita vilizuka baina ya nyani wakalazimika kutawanyika.
-P14	Hiyo ndiyo sababu hata leo,  nyani huishi katika makundi madogo wala hawaishi kama taifa la nyani.
+P12	Walisahau jinsi ya kutembea wima kama awali. Walivua nguo zao kwa sababu miili yao ilifunikwa kwa manyoya meusi.
+P13	Hata hivyo,  walikumbuka kwamba walikuwa watu mbeleni. Waliangaliana mapua yao makubwa na kuchekana.
+P14	Baadaye,  walianza kukasirishwa na tabia zao wenyewe. Walipochekana,  waliruka juu na chini kwa hasira. Vita vilizuka baina ya nyani wakalazimika kutawanyika.
+P15	Hiyo ndiyo sababu hata leo,  nyani huishi katika makundi madogo wala hawaishi kama taifa la nyani.
 
 images:
 
@@ -48,7 +49,7 @@ translations:
 
 English (Original)	The Baboons That Went This Way and That	id=2605
 English (Adaptation)	The Baboons That Went This Way and That	id=2609
-English (Adaptation)	Baboons	id=19986
+English (Adaptation)	They Became Baboons	id=19986
 isiZulu (Translation)	Izimfene Ezaziya Le Na Le	id=2853
 Lumasaaba (Translation)	Tsingukye Tsitsakyeendaana Eyi Ni Neeyi	id=2990
 Lunyole (Translation)	Enguge Ejerwenga Eno Ni Neera	id=2852

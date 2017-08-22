@@ -13,20 +13,21 @@ page_text:
 
 P1	Kulikuwa na wavulana wa kurandaranda mtaani. Mmoja wao aliitwa Magozwe.
 P2	Wazazi wa Magozwe walikufa akiwa mdogo. Aliishi na mjombake.
-P3	Mjombake alimtesa. Magozwe alitorokea  mtaani.
+P3	Mjombake alimtesa. Magozwe alitorokea mtaani.
 P4	Maisha ya mtaani yalikuwa magumu. Waliombaomba.
-P5	Siku moja,  Magozwe aliokota kitabu cha hadithi kwenye pipa.
+P5	Siku moja, Magozwe aliokota kitabu cha hadithi kwenye pipa.
 P6	Picha zilionyesha rubani wa ndege. Magozwe alitamani kuwa rubani mashuhuri.
 P7	Siku moja, Magozwe alikuwa akiomba chakula barabarani. Alikutana na Tomaso.
-P8	Tomaso aliwapeleka pahali pa kupata chakula.
-P9	Siku moja,  Magozwe alimwambia Tomaso,   "Sijui kusoma."
+P8	Tomaso alimpeleka Magozwe na wenzake pahali pa kupata chakula.
+P9	Siku moja, Magozwe alimwambia Tomaso,"Sijui kusoma."
 P10	Magozwe pia alimweleza kwa nini alitoroka kwa mjombake.
 P11	Magozwe alipokuwa na umri wa miaka kumi, Tomaso alimpatia kitabu.
 P12	Magozwe alifikiria juu ya kwenda shule.
-P13	Ingawa aliogopa,  Tomaso alimtia moyo.
+P13	Ingawa aliogopa, Tomaso alimtia moyo.
 P14	Magozwe alipelekwa katika makao ya watoto.
 P15	Alisoma kwa bidii.
-P16	Siku moja,  Magozwe alimweleza Tomaso,  "Nitakuwa rubani maarufu kuliko wote."
+P16	Siku moja, Magozwe alimweleza Tomaso, "Nitakuwa rubani maarufu kuliko wote."
+P17	MASWALI: 1. Kwa nini Magozwe aliishi mtaani? 2. Akina Magozwe walifanya nini kupata hela? 3. Nini ilimhamasisha Mazogwe kuwa rubani wa ndege? 4. Vitendo vipi vya Tomaso vilionesha upendo wake kwa watoto? 5. Unafikiri Magozwe atatimiza ndoto yake ya kuwa rubani maarufu? Toa sababu tatu kwa jibu lako.
 
 images:
 
@@ -50,8 +51,8 @@ illustrations/pages/12947.png
 
 translations:
 
+0 (Translation)	Magozwe	id=18463
 Afrikaans (Translation)	Magozwe	id=20078
-Akuapem Twi (Translation)	Magozwe	id=18463
 Asante Twi (Translation)	Magozwe	id=18280
 ChiTonga (Translation)	Magozwe	id=18653
 CiNyanja (Translation)	Magozwe	id=18671

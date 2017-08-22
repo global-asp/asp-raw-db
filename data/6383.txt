@@ -13,7 +13,8 @@ page_text:
 
 P1	Mother cow cow,  I like you cow.
 P2	Yesterday you gave me milk.
-P3	Mummy has a nice bag, and I have very good shoes.
+P3	My father buys meat every Saturday.
+P4	Mummy has a nice bag, and I have very good shoes.
 
 images:
 
@@ -25,3 +26,14 @@ illustrations/pages/6105.png
 translations:
 
 Afrikaans (Translation)	'n Koei is my Vriend	id=7698
+Ateso (Translation)	Apaperoka Nges Akiteng	id=20625
+Dhopadhola (Translation)	Dhaing Obedo Mere Paran	id=20948
+Hausa (Nigeria) (Translation)	Saniya Kawata Ce	id=20801
+Kinyarwanda (Translation)	Inka Ni Incuti Yange	id=20256
+Kumam (Translation)	Dyang Obedo Nya Wota	id=20949
+Lumasaaba (Translation)	Ikafu Umsale Woese	id=20951
+Lusoga (Translation)	Ente Mukwano Gwange	id=21392
+Mampruli (Translation)	Nzɔa Nyɛ Naafu	id=20112
+Runyankore (Translation)	Ente Ninywani Yangye	id=20652
+Talen (Translation)	Nauh Aa Man Zɔ	id=20199
+Xitsonga (Translation)	Homu I Munghana Wa  Mina	id=21475

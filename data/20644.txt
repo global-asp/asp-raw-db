@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20644&d=0&a=1
+id:	20644
+title:	Embwa
+author:	Jerome Atugonza
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Runyoro
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20644.png
+desc:	Embozi eno eli hebwa no musaija akaba ine ebwa eyamhulilizaga muno ne muha ekitinnisa.
+
+page_text:
+
+P1	Hakabahaliyo omusaija ne ebwa' e
+P2	Ya gyendaga muno.
+P3	Embwa yakoraga muno kandi ya genda mukatare kugura eyama
+P4	Yatabaraga emaizi kuruga haiziba
+P5	Neloreraga buli kintu omuka
+P6	Ekirokimu, omusaija akasima embwa ye mugenri eyamanyi muno habyokuba owesiga
+P7	Embwa yasemereya mno kandi yeyongeza kukoora muno.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Talen (Translation)	Baa	id=20271

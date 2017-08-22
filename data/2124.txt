@@ -17,11 +17,13 @@ P3	The news spread all over the village. The first man to come was the head of a
 P4	The leader of animal keepers was next. He was handsome,  young and rich. The girl admired him. But when he was served with the fruit,  he immediately ate it,  and was sent away.
 P5	The next man to come had many pieces of land. He was arrogant and ugly. The girl prayed that he would eat and go away. When served,  he refused to eat. The time passed,  and the girl started begging him to eat. By around four o'clock,  he was overcome with hunger,  and he ate. He,  too,  was sent away.
 P6	Next,  the chief came around. He was arrogant,  old,  and ugly. No one liked him in the village. The girl wished that he would eat and go away. When he was served with the fruit,  he refused to eat. He stayed the whole day. At about six o'clock,  he asked if he could go to the toilet.
-P7	A few days later,  a young,  handsome,  rich prince arrived. The girl looked at him in admiration. She took him aside,  and begged him not to eat the fruit. She served him much less fruit than the other suitors. But by midday the prince had already eaten and was sent away. The girl burst into tears of anger and disappointment.
-P8	The next day,  a farmer came around. He was poor and lazy,  but he was young and popular among many people for being a great talker. He came determined to win. The girl served him many fruits and asked him to eat and go away.
-P9	Her parents had to hand over their daughter to the "lazy one." The girl begged to be saved from her fate,  but her parents could do nothing. As the farmer took her home,  he sang such a beautiful song while clapping his hands. Many people flocked to the road to see the couple.
-P10	Among the people were servants of the rich prince. They called the farmer aside,  and offered him money and cattle if he would leave the girl. Without a moment's hesitation,  he took the money and the cattle,  and walked off.
-P11	The servants dressed the girl in fine clothes and took her to the palace,  straight to the prince. Before long,  her parents were called and a ceremony was organised to join the two in marriage.
+P7	He was allowed to go. When he returned,  the aroma of the fruit hung around him,  and his lips were red! He had eaten the fruit in the toilet! To the girl's relief,  he was sent away.
+P8	A few days later,  a young,  handsome,  rich prince arrived. The girl looked at him in admiration. She took him aside,  and begged him not to eat the fruit. She served him much less fruit than the other suitors. But by midday the prince had already eaten and was sent away. The girl burst into tears of anger and disappointment.
+P9	The next day,  a farmer came around. He was poor and lazy,  but he was young and popular among many people for being a great talker. He came determined to win. The girl served him many fruits and asked him to eat and go away.
+P10	When he was served,  he refused to eat. The girl waited painfully. Midday passed,  and then two o'clock. At four o'clock,  the farmer asked for water. The girl prayed that he would eat the fruit,  but she was still praying when the clock turned to seven. This farmer had overcome the test of endurance set by the parents!
+P11	Her parents had to hand over their daughter to the "lazy one." The girl begged to be saved from her fate,  but her parents could do nothing. As the farmer took her home,  he sang such a beautiful song while clapping his hands. Many people flocked to the road to see the couple.
+P12	Among the people were servants of the rich prince. They called the farmer aside,  and offered him money and cattle if he would leave the girl. Without a moment's hesitation,  he took the money and the cattle,  and walked off.
+P13	The servants dressed the girl in fine clothes and took her to the palace,  straight to the prince. Before long,  her parents were called and a ceremony was organised to join the two in marriage.
 
 images:
 
@@ -42,6 +44,7 @@ translations:
 
 French (Translation)	Les Fruits	id=10182
 Gurene (Translation)	Tiisi Wɔla	id=12666
+Kinyarwanda (Translation)	Imbuto	id=20282
 Kiswahili (Translation)	Matunda	id=8431
 Likpakpaanl (Translation)	Lisubil	id=18777
 Lugbarati (Translation)	Pati Efi	id=2334
@@ -50,4 +53,4 @@ Lumasaaba (Translation)	Bibyaano	id=3086
 Lumasaaba (Translation)	Bibyaano	id=8688
 Lunyole (Translation)	Ehibala	id=2333
 Rutooro (Translation)	Ekijuma	id=14923
-siSwati (Adaptation)	Sitselo	id=13072
+Siswati (Adaptation)	Sitselo	id=13072

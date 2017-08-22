@@ -1,0 +1,28 @@
+url:	http://africanstorybook.org/reader.php?id=7546&d=0&a=1
+id:	7546
+title:	Skipping
+author:	Marion Drew
+artist:	Marion Drew
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/7546.png
+desc:	This is a wordless picture story drawn in childlike style. It is about a girls encounter with a bird while skipping.
+
+page_text:
+
+
+images:
+
+illustrations/pages/7536.png
+illustrations/pages/7537.png
+illustrations/pages/7538.png
+illustrations/pages/7539.png
+illustrations/pages/7540.png
+illustrations/pages/7541.png
+illustrations/pages/7542.png
+illustrations/pages/7543.png
+
+translations:
+
+English (Adaptation)	Skipping	id=10118

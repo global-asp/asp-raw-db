@@ -13,11 +13,11 @@ page_text:
 
 P1	Ese nenda omusomesa wange.
 P2	Ye muŋoono. Ye musomesa mulaŋi. Ye wahisa era mu wunjeeri.
-P3	Ye gahambire efiiri jije bulaŋi.
-P4	Ye ataaye embira jamalangi mu fiiri jije.
+P3	Ye gahambire efiiri lirye bulaŋi.
+P4	Ye ataaye embira jamalangi mu fiiri lirye.
 P5	Embira jije ja nalutu,  kosa,  nando,  ni namagi.
 P6	Wange maama oŋanga ohukamba efiiri hye j'omusomesa wange?
-P7	Ni ndiba ni kulire keesi ndita embira mu fiiri jange.
+P7	Ni ndiba ni kulire keesi ndita embira mu fiiri lyange.
 P8	Nja huhula mbe hy' omusomesa wange.
 
 images:
@@ -36,6 +36,7 @@ translations:
 
 Afrikaans (Translation)	My Juffrou	id=20086
 Akuapem Twi (Translation)	Me Kyerɛkyerɛfo	id=18465
+Amharic (Translation)	መምህሬ 	id=21236
 Asante Twi (Translation)	Me Kyerɛkyerɛfoɔ	id=18223
 ChiTonga (Translation)	Basiisi Bangu	id=18632
 CiNyanja (Translation)	Apunzisi Anga	id=18609
@@ -48,10 +49,12 @@ Ewe (Translation)	Nye Nufiala	id=18170
 Fante (Translation)	Me Kyerɛkyernyi	id=18495
 Ga (Translation)	Mitsɔɔlɔ	id=18294
 Gonja (Translation)	Mabe Eŋinipo	id=18176
+Hausa (Nigeria) (Translation)	Malamata	id=20510
 IciBemba (Translation)	Bakafundisha Bandi	id=18574
 isiXhosa (Translation)	Utitshala Wam	id=17577
 isiZulu (Translation)	Uthisha Wami	id=8075
 Kasem (Translation)	A Bereno	id=18210
+Kinyarwanda (Translation)	Mwarimu Wanjye	id=20230
 Kiswahili (Translation)	Mwalimu Wangu	id=15609
 Mampruli (Translation)	N  Karimba	id=18852
 Nzema (Translation)	Me Kilehilevolɛ Ne	id=18432

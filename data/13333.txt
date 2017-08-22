@@ -15,6 +15,7 @@ P1	Kwakunentombazana eyayikwazi ukudansa.
 P2	Noma uthisda efundisa wayedansa.
 P3	Noma eskhaya wayezidansela ephula ejabulile endansela nogogo wakhe.
 P4	U Sindiswa wayedansela nabantu ehlolo. Ngemphela wayekutha futhi ekwazi ukudansa.
+P5	Wagcina esedume kakhulu izithombe zakhe zazibekwe ema bhodini amakhulu edolobheni.
 
 images:
 
@@ -27,9 +28,10 @@ illustrations/pages/1323.png
 
 translations:
 
+Dhopadhola (Translation)	Myeli	id=20944
 English (Original)	Dancing	id=2183
 isiXhosa (Translation)	Ukudanisa	id=7451
 Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
-Lusoga (Translation)	Okukina	id=8167
+Lumasaaba (Translation)	Kuchina	id=20932
 Portuguese (Translation)	Dançando	id=12173
 Setswana (Translation)	Mokibo	id=2695

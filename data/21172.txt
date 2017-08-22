@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=21172&d=0&a=1
+id:	21172
+title:	ነጎዳ ምስ ወዳ 
+author:	Angish Abay
+artist:	Jesse Breytenbach
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21172.png
+desc:	ነጎዳ ምስ ወዳ ኣብ መሬት እዮም ይነብሩ ነይሮም። ብምኽያት ጥፍኣት ወዳ፣ ካብ ሰብ ርሒቖም ኣብ ሰማይ ክነብሩ ንጉስ ወሲንሎም።
+
+page_text:
+
+P1	ቐደም ቐደም፣ ነጎዳን በርቕን ኣብ መሬት ምስ ሰባት እዮም ይነብሩ ነይሮም።
+P2	ነጎዳ ንበርቒ ኣዲኡ እያ ነይራ።
+P3	በርቒ ብጣዕሚ ሓራቕ እዩ ነይሩ።
+P4	በርቒ እንትሓርቕ ሰባት፣ ደኒን ገዛውትን የጥፍእ ነይሩ።
+P5	በርቒ ጉድኣት እንተብፅሕ፣ ነጎዳ ሓያል ድምፂ ትፈጥር ነይራ።
+P6	በርቒ ንኣዲኡ ፈፂሙ ኣይሰምዓን ነይሩ።
+P7	ኣብ መወዳእታ፣ ሰባት ናብ ንጉስ ጥርዓን ኣቕሪቦም።
+P8	እቲ ንጉስ ንነጎዳን በርቒን ኣብ ርሑቕ ዓዲ ከይዶም ክቕመጡ ወሲንሎም።
+P9	በርቒ ሕዚ እውን እንትሓርቕ ጫካን ኣዝርእትን የቃፅል ነበረ።
+P10	ሰባት ንኻልኣይ ግዜ ናብ ንጉስ ጥርዓን ኣቕሪቦም።
+P11	እቲ ንጉስ ንነጎዳን በርቕን ኣብ ሰማይ ክነብሩ ወሲንሎም።
+P12	ሕዚ እውን ግን በርቒ እንትሓርቕ የዕንውን የቃፅልን ኣሎ።
+
+images:
+
+illustrations/pages/19056.png
+illustrations/pages/19042.png
+illustrations/pages/19044.png
+illustrations/pages/19046.png
+illustrations/pages/19047.png
+illustrations/pages/19048.png
+illustrations/pages/19050.png
+illustrations/pages/19051.png
+illustrations/pages/19052.png
+illustrations/pages/19053.png
+illustrations/pages/19054.png
+illustrations/pages/19055.png
+illustrations/pages/19056.png
+
+translations:
+
+Ateso (Translation)	Eiresi Keda Okokuke	id=21042
+Dhopadhola (Original)	Mor Koth Kodi Lith Koth	id=19073
+English (Translation)	Thunder And Lightning	id=19074
+English (Adaptation)	Thunder And Her Son	id=20889
+Kiswahili (Translation)	Ngurumo Na Radi	id=19092
+Kiswahili (Translation)	Ngurumo Na Mwanawe	id=21141
+Ng’aturkana (Translation)	Agirokin Ka Lokookeng	id=21128

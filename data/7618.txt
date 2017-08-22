@@ -7,31 +7,31 @@ lang:	Kiswahili
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/7618.png
-desc:	Elephants once had short noses
+desc:	Mbeleni
 
 page_text:
 
 P1	Tembo ana mkonga mrefu.
-P2	Hapo kale,  Tembo alikuwa na pua fupi,  nono. Pua hilo lilionekana kama kiatu kilichopachikwa katikati ya uso wake.
-P3	Siku moja,  Tembo alizaa mtoto. Alikuwa mdadisi na alimuuliza swali kila mnyama aliyemuona.
-P4	Mtoto wa Tembo alimdadisi twiga. "Kwa nini shingo yako ni ndefu?"
-P5	Pia alidadisi kifaru. "Kwa nini pembe yako ina ncha iliyochongoka sana?"
-P6	Mtoto wa Tembo pia alimdadisi kiboko,  "Kwa nini una macho mekundu?"
-P7	Alipomwona mamba,  alimdadisi,  "Wewe hula nini?"
-P8	Mamake alimwonya,  "Mwanangu,  usiulize wanyama maswali kama hayo?"  Mtoto wa Tembo alinuna akaenda kucheza.
-P9	Kunguru mwerevu akamwambia Mtoto wa Tembo,  "Nifuate mtoni nikuonyeshe kile wanachokula mamba."
+P2	Zamani, Tembo alikuwa na pua fupi, nono. Pua hilo lilionekana kama kiatu kilichopachikwa katikati ya uso wake.
+P3	Siku moja, Tembo alizaa mtoto. Alikuwa mdadisi. Alimuuliza swali kila mnyama aliyemuona.
+P4	Mtoto wa Tembo alimdadisi Twiga. "Kwa nini shingo yako ni ndefu?"
+P5	Pia alidadisi Kifaru. "Kwa nini pembe yako ina ncha iliyochongoka sana?"
+P6	Mtoto wa Tembo pia alimdadisi Kiboko, "Kwa nini una macho mekundu?"
+P7	Alipomwona Mamba, alimdadisi, "Wewe hula nini?"
+P8	Mamake alimwonya, "Mwanangu, usiulize wanyama maswali kama hayo?" Mtoto wa Tembo alinuna akaenda kucheza.
+P9	Kunguru mwerevu akamwambia Mtoto wa Tembo,  "Nifuate mtoni nikuonyeshe wanachokula mamba."
 P10	Mtoto wa Tembo akamfuata Kunguru hadi mtoni.
-P11	Alijipenyeza katikati ya mianzi kwenye ukingo wa mto. Akatazama majini kisha akauliza,  "Mamba mwenyewe yuko wapi?"
-P12	Jiwe lililokuwa karibu na mto lilisema,  "Hujambo?"  "Sijambo." Alijibu Mtoto wa Tembo. "Unaweza kunieleza wanachokula mamba jioni?"
-P13	Jiwe lilimjibu,  "Hebu inama kidogo nikwambie wanachokula mamba."  Mtoto wa Tembo aliinama chini karibu kabisa na jiwe lile kisha.
-P14	"Tap!" Mara hiyo hiyo,  pua la Mtoto wa Tembo lilikuwa kunywani mwa mamba. "Mamba atakula nyama yako leo." Kunguru mjanja aliyemshawishi Mtoto wa Tembo kwenda mtoni,  akasema.
-P15	Mtoto wa Tembo akakita chini miguu yake yenye nguvu,  akasimama imara na akaanza kujivuta. Wakati huo,  Mamba hakuliachilia pua la Mtoto wa Tembo.
-P16	Pua la Mtoto wa Tembo,  likarefuka zaidi,  mpaka. "Puu!" Mtoto wa Tembo akaanguka kichali chali.
-P17	Baada ya kukikosa chakula chake,  mamba alizama na kutokomea majini.
+P11	Alijipenyeza katikati ya mianzi kwenye ukingo wa mto. Akatazama majini kisha akauliza, "Mamba mwenyewe yuko wapi?"
+P12	Jiwe lililokuwa karibu na mto lilisema, "Hujambo?"  "Sijambo." Alijibu Mtoto wa Tembo. "Unaweza kunieleza wanachokula mamba jioni?"
+P13	Jiwe lilimjibu, "Hebu inama kidogo nikwambie wanachokula mamba." Mtoto wa Tembo aliinama chini karibu kabisa na jiwe lile.
+P14	Wakati huo huo pua la Mtoto wa Tembo lilikuwa kunywani mwa mamba. "Mamba atakula nyama yako leo." Kunguru mjanja akasema.
+P15	Mtoto wa Tembo akakita chini miguu yake yenye nguvu, akasimama imara na akaanza kujivuta. Wakati huo, Mamba hakuliachilia pua la Mtoto wa Tembo.
+P16	Pua la Mtoto wa Tembo likarefuka zaidi, mpaka, puu! Mtoto wa Tembo akaanguka kichali chali.
+P17	Baada ya kukikosa chakula chake, mamba alizama na kutokomea majini.
 P18	Mtoto wa Tembo alilitazama pua lake. Lilikuwa refu kama mkonga na hakuweza kuona lilipoishia.
 P19	Mkonga wake mrefu ulimwezesha kuchuma matunda yaliyokuwa kwenye matawi ya juu.
-P20	Pia,  aliweza kuoga kutumia mkonga  wake wakati wa joto.
-P21	Hadi leo,  tembo wote huwa na mikonga mirefu yenye faida kwao.
+P20	Pia, aliweza kuoga kutumia mkonga wake wakati wa joto.
+P21	Hadi leo, tembo wote huwa na mikonga mirefu yenye faida kwao.
 
 images:
 
@@ -65,28 +65,33 @@ Chinyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=2059
 ChiTonga (Translation)	Kukankamana Kwa Mwana Wa Musobvu	id=16450
 ChiTonga (Translation)	Kubuzya-Buzya Kwakana Kamuzomvu	id=18640
 CiNyanja (Translation)	Kufunsa Funsa Kwa Kamwana Ka Njovu	id=18623
+CiNyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=20784
 English (Original)	Curious Baby Elephant	id=1881
 French (Translation)	Le Bébé Éléphant Est Très Curieux	id=9963
 Fulfulde (Translation)	Ɓinngel Nyiiya No Kiinyuɗo Sanne	id=10026
-Hausa (Translation)	Jinjiri Giwa Mai Ƙwanƙwanto	id=9994
+Hausa (Niger) (Translation)	Jinjiri Giwa Mai Ƙwanƙwanto	id=9994
 IciBemba (Translation)	Akaana Ka Nsofu Akaleeipusha-Ipusha	id=18580
 isiXhosa (Translation)	Indlela Iindlovu Ezafumana Ngayo Imiboko Emide	id=17521
 isiZulu (Translation)	Indlovu Eyayithanda Izinto	id=8211
 isiZulu (Adaptation)	Ikhala Lendlovu	id=13547
 Kanuri (Translation)	Tada Kǝmagǝnne Laa Jauro Ndoroma	id=10044
 Leblango (Translation)	Atïn Lyëc a Yïl	id=11848
+Leblango (Translation)	Atin Lye Came Kite Kene	id=21473
 Luganda (Translation)	Omwana Gwe Njovu Ogujagu Jagu	id=8277
 Lugbarati (Official) (Translation)	Èwámvá Òlúkùlúá Be Rɨ̀	id=8782
 Lumasaaba (Translation)	Wanatsofu Umwana Urebareba	id=8278
-Lunyole (Translation)	Esulu Y’Enjofu	id=16584
+Lunyole (Translation)	Esuulu Y’Enjofu	id=16584
+Lusoga (Translation)	Wandhovu Omuto Omubuulirize	id=20900
 Maa (Translation)	Olkuoo Loltome Oikilikuanisho	id=7866
+Mampruli (Translation)	Wab Bla Ninkpensi Inabugu Bla Ninkpensi	id=20365
 Ng’aturkana (Translation)	Itaok a Etom Nikachwaan	id=2536
 Oluwanga (Translation)	Omwana We Inzofu, Mwangu Omuchesi	id=8276
 Sepedi (Translation)	Tlowana Ya Go Rata Go Tseba	id=2409
 Sepedi (Adaptation)	Ngwana Wa Tlou Wa Go Rata Go Tseba Kudu	id=2610
-Sesotho (South Africa) (Translation)	Ledinyane La Tlou Le Neng Le Rata Ho Tseba Ha	id=20024
+Sesotho (South Africa) (Translation)	Nko Ya Tlou	id=20024
 Setswana (Translation)	Tlowana Marata Go Itse	id=2060
 SiLozi (Translation)	Kuitalifisa Kwa Kana Ka Tou	id=18567
+Talen (Translation)	Wobil Veeh Wol Daan	id=20187
 Tshivenda (Translation)	Ṅwana Wa Nḓou Aṱoḓaho U Ḓivha.	id=18283
 Xitsonga (Translation)	Xindlopfana Xo Hlamarisa	id=18991
 Zarma (Translation)	Ce-Beeriizo Ga Sootiya Gumo	id=10108

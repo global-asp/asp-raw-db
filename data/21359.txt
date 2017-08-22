@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=21359&d=0&a=1
+id:	21359
+title:	Mafarauta Tsuntsu
+author:	Ibrahim Musa
+artist:	Wiehan de Jager, Marion Drew, Marleen Visser, Emily Berg, Magriet Brink and Rob Owen
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21359.png
+desc:	Labarin yana magana akan wasu yara guda uku tare watayar yarinya wadanda suka ki halartar darasi suka tafi cikin daji don farautar tsuntsaye.
+
+page_text:
+
+P1	A wani lokaci a can baya, anyi wasu yara maza uku da mace daya. Dukansu 'yan kauyen Nakwiga ne.
+P2	Suna karatu ne a makantar firamare ta Busolwe.
+P3	Akan hanyar su ta zuwa  makaranta, sukan ji kukan tsuntsaye.
+P4	Wata rana yara ukku da wata yarinya su ka kuduri su ki halartar darasi, sai suka tafi farauta a dajin dake kusa da su.
+P5	Sai tsuntsun ya fara rera kukansa kamar yana fadar, kuna kira na da kalmar batanci, Ni ba sakarai ne ba, har sau hudu.
+P6	Ni na gari ne, amman in kuna jin ni sakarai ne, to zan nuna maku ni lallai sakarai ne anan gaba. Sai yaran suka kama tsuntsun suka tafi da shi gida.
+P7	Da suka isa gida sai suka yanke shi suka cinye.
+P8	Kashe gari duk sai suka mutu. Saboda namanshi na dauke da guba.
+
+images:
+
+illustrations/pages/9193.png
+illustrations/pages/7961.png
+illustrations/pages/9192.png
+illustrations/pages/9594.png
+illustrations/pages/6731.png
+illustrations/pages/7572.png
+illustrations/pages/8549.png
+illustrations/pages/8555.png
+illustrations/pages/8162.png
+
+translations:
+
+Dhopadhola (Translation)	Judwaar Winyo	id=20596
+English (Original)	Bird Hunters	id=9934
+Luganda (Translation)	Abayizzi B'ebinyonyi	id=17006

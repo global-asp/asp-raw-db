@@ -1,0 +1,71 @@
+url:	http://africanstorybook.org/reader.php?id=21118&d=0&a=1
+id:	21118
+title:	መብራቴና ከተማ
+author:	Mezemir Girma
+artist:	Brian Wambi
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21118.png
+desc:	ይህ አስቂኝ ተረት ስለጓደኝነትና ከዘንጋዳ ዘለላ በጥረት ስለሚገኝ ጥቅም ይተርካል፡፡
+
+page_text:
+
+P1	ከረጅም ጊዜ በፊት መብራቴና ከተማ ምግብ በመጋራት ይኖሩ ነበር፡፡
+P2	መብራቴ ‹‹አብረን መብላታቸን ካልቀረ አብረን እንቆፍር›› አለ፡፡
+P3	መብራቴ ለከተማ ‹‹አንተ ትቆፍራለህ እኔ እተክላለሁ›› አለ፡፡
+P4	መብራቴ ለከተማ ‹‹አንተ ትተክላለህ፣ እኔ አርማለሁ›› አለው፡፡
+P5	የዘንጋዳው እሸት ሲደርስ ከተማ ለመብራቴ እንቁረጠው የሚል ሃሳብ አመጣለት፡፡
+P6	መብራቴም ‹‹አንተ ትቆርጣለህ፤ እኔ ጎተራው ውስጥ እጨምራለሁ›› አለው፡፡
+P7	መብራቴ ሰነፍ ነበር፡፡ ስለዚህ ከተማ የዘንጋዳውን ዘለላ ብቻ ሰጠው፡፡
+P8	መብራቴ የዘንጋዳውን ጣት ብቻ ወሰደ፡፡ ከዚያም ዶሮን አገኛት፡፡
+P9	ዶሮም ዘንጋዳውን በላች፡፡ 
+ለመብራቴም እንቁላል ሰጠችው፡፡
+P10	መብራቴ የተወሰኑ ልጆችን አገኘ፡፡
+እንቁላሉንም ሰበሩበት፡፡
+P11	ልጆቹ ለመብራቴ ማንጎ ሰጡት፡፡
+P12	መብራቴ በቀቀንን አገኛት፡፡ በቀቀን ማንጎውን በልታ ላባ ሰጠችው፡፡
+P13	ሐይቅ ላባውን ወስዶ ለመብራቴ ትንሽ ውኃ ሰጠው፡፡
+P14	መብራቴ ውኃውን የከሰል አክሳይ እሳት ለማጥፋት ተጠቀመበት፡፡
+P15	ባለከሰሉ አንጥረኛ ለመብራቴ መጥረቢያ ሰጠው፡፡
+P16	መብራቴ ባለ ስጋ ቤቶች አገኘ፡፡ መጥረቢያውን ሰበሩበት፡፡
+P17	መብራቴ የበሬውን ራስና ጭራ ወሰደ፡፡
+መብራቴ ያደረገውን እዩ!
+P18	ከዚያም ‹‹የንጉሡ በሬ ጭቃ ውስጥ ተቀረቀረ›› እያለ ጮኸ፡፡
+P19	ሰዎች ሊረዱት መጡ፡፡ ‹‹ጭራውንና ራሱን ሳቡ›› አላቸው መብራቴ፡፡
+P20	‹‹ከብቶቻችሁን ለንጉሡ እንድሰጥ ስጡኝ›› አላቸው መብራቴ፡፡
+
+images:
+
+illustrations/pages/15478.png
+illustrations/pages/15471.png
+illustrations/pages/15472.png
+illustrations/pages/15473.png
+illustrations/pages/15474.png
+illustrations/pages/15475.png
+illustrations/pages/15476.png
+illustrations/pages/15477.png
+illustrations/pages/15478.png
+illustrations/pages/15479.png
+illustrations/pages/15480.png
+illustrations/pages/15481.png
+illustrations/pages/15482.png
+illustrations/pages/15483.png
+illustrations/pages/15484.png
+illustrations/pages/15485.png
+illustrations/pages/15486.png
+illustrations/pages/15487.png
+illustrations/pages/15488.png
+illustrations/pages/15489.png
+illustrations/pages/15490.png
+
+translations:
+
+English (Translation)	Magezi And The Finger Of Millet	id=15504
+English (Adaptation)	Magezi And Kasiira	id=20875
+Kiswahili (Translation)	Magezi Na Kasiira	id=21075
+Lunyole (Translation)	Musiho Ni Malwa	id=21024
+Lusoga (Original)	Magezi Na Akafangata Ko Bulo	id=15503
+Ng’aturkana (Translation)	Magezi Ka Kasira	id=21136
+Portuguese (Translation)	Magezi E a Erva De Milheto	id=17094
+Tigrigna (Translation)	ህበይን ዋዓግን	id=21110

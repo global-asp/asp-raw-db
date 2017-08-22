@@ -18,9 +18,10 @@ P4	Owalonda hu oyo gaali muhulu w'abemera ebisoolo. Ono yeesi gaali aboneha bula
 P5	Hu oyo owalondaho gaali n'ebibanja ebyene ebingi,  coka gaali n'ehyeŋulisi ate n'aboneha bubi. Omuhana gasalaŋo mu mwoyo gugwe ati yeesi alye ehibala bimuhaye atiine. Ni bamuŋa ehibala sigalya. Ehiseera ni hyabitaŋo ng'omuhana atagiha ohumwegayirira alyeho. Hu saawa oti ehuumi ej'egulo gaŋulira enjala n'emubitiirisa ng'alya era yeesi nga bamusebula.
 P6	Ng'omwami aŋuga ehitahere ehyo yeesi gaaja ohugesyaho. Oyo niye gaali musahulu,  w'ehyeŋurisi atenga aboneha bubi! Ŋaŋuma muutu yesi owaali n'amwenda hu hyalo ohwo. Omuhaana ng'asunga mu mwoyo gugwe ati yeesi alye ehibala atiine! Ni bamuŋa ehibala gageene ohuhirya. Gaali aŋo olunaku lwosi. Coka ni jaali ni jinatere ohwola esaawa ehumi n'ebiri,  gasunga ohutiinaho mu hyolooni. Nga bamufugiirira. Ni gagobola,  ahawowo h'ehibala nago hali hamuŋunyaho ate n'omunwa gugwe gwali gulanduŋaye era ni gusaabbeene. Gaali aliriiye ehibala mu hyolooni! Wangewe yeesi nga bamusebula ng'omuhaana omwoyo gumwiha.
 P7	Ni ŋabitaŋo enaku ndidiri,  ng'omulangira gaaja. Ono gaali ahiiri muvubuka aboneha obulaŋi ate omugaaga. Omuhana ni gamubona ng'amusiima Gahena gamuŋira hu tulo gamwegayirira ati atalyaho hu hibala kadi. Ni gahena ng'amuleetera ebibala coka niye gaamuŋa bitono ohuhiraho abandi. Jali jitaŋera sawa mukaaga omulangira n'aliye hale ehibala era nga bamusebula. Hino hyasaalisa bugali omuhaana oyo era gasunguŋala gaalira eby'embaha ebyene.
-P8	Abasaaye b'omuhaana baali n'ohuŋa omusaaja oyo omwafu ate atali muhosi ow'amaaani omuhaana waawe. Omuhana gagesyaho ohusunga bamulehe naye abasaaye babe ni baŋuma hyahuhola hu saawa eyo. Ko ni bali mu lugendo ni batiina omusaaja gagendanga gemba ahembo n'ahubba nomu ngalo. Abaatu abene abangi nga bahumbana mu lugudo ohwebonera.
-P9	Hu baatu abaaja,  ohwebonera mwalimo abaŋeeresa b'omulangira ola. Abaatu abo nga balanga omusaaja oyo hu tulo bamuloma baati banamuŋe ebbesa ko n'eŋombe singa abalehera omuhaana. Ni ŋaŋuma hwegania,  omusaaja oyo galoma baamuŋa ebbesa n'eŋombe nga getiinira abalehera omuhaana.
-P10	Abaŋeeresa abo nga bambasa omuhaana oyo engoye endaŋi nga bamuŋira mu lubiri eri omulangira. Ni ŋabitaŋo enaku ndidiri nga bategeha omukolo balanga abasaaye b'omuhaana ohugaata abaatu bano ababiiri mu bufumbo.
+P8	Olunaku olwalondaho omusaaja omwafu nga yeesi gaaja. Omusaaja ono gaali abula hihulu ehi ahola wabula n'alima hulima aye n'atali muhosi ow'amaani. Abaatu hu hitundu baali bamumanyire bugali olw'agabono agangi agagelombolanga. Coka omusaaja ono gaaja n'ali muhenerefu ohuŋangula omuhaana oyo. Omuhaana gamuŋa ebibala ebyene ebingi era gamuloma alye ahene atiine. Ni bamuŋa ebibala,  gageene ohubirya. Omuhana ng'alindaho ni himuluma coka omusaaja gagaana ohulya. Esaawa nga jetoloola,  nga joola mukaaga ejomu muusi,  nga joola omunana. Hu saawa ehuumi eje hy'egulo ng'omusaaja asunga amaaji ohunywa. Omuhaana gasigala n'asuubira ati hamunga analye ehibala naye si pohyali. Gaali ahiiri n'esuubi eryo ng'esaawa endala ey'egulo yoola. Omusaaja oyo ng'aŋangula omuhaana olwohuba omugumikiriza!
+P9	Abasaaye b'omuhaana baali n'ohuŋa omusaaja oyo omwafu ate atali muhosi ow'amaaani omuhaana waawe. Omuhana gagesyaho ohusunga bamulehe naye abasaaye babe ni baŋuma hyahuhola hu saawa eyo. Ko ni bali mu lugendo ni batiina omusaaja gagendanga gemba ahembo n'ahubba nomu ngalo. Abaatu abene abangi nga bahumbana mu lugudo ohwebonera.
+P10	Hu baatu abaaja,  ohwebonera mwalimo abaŋeeresa b'omulangira ola. Abaatu abo nga balanga omusaaja oyo hu tulo bamuloma baati banamuŋe ebbesa ko n'eŋombe singa abalehera omuhaana. Ni ŋaŋuma hwegania,  omusaaja oyo galoma baamuŋa ebbesa n'eŋombe nga getiinira abalehera omuhaana.
+P11	Abaŋeeresa abo nga bambasa omuhaana oyo engoye endaŋi nga bamuŋira mu lubiri eri omulangira. Ni ŋabitaŋo enaku ndidiri nga bategeha omukolo balanga abasaaye b'omuhaana ohugaata abaatu bano ababiiri mu bufumbo.
 
 images:
 
@@ -43,6 +44,7 @@ translations:
 English (Original)	Fruit	id=2124
 French (Translation)	Les Fruits	id=10182
 Gurene (Translation)	Tiisi Wɔla	id=12666
+Kinyarwanda (Translation)	Imbuto	id=20282
 Kiswahili (Translation)	Matunda	id=8431
 Likpakpaanl (Translation)	Lisubil	id=18777
 Lugbarati (Translation)	Pati Efi	id=2334
@@ -50,4 +52,4 @@ Lugbarati (Official) (Translation)	Patí Éfɨ́	id=8750
 Lumasaaba (Translation)	Bibyaano	id=3086
 Lumasaaba (Translation)	Bibyaano	id=8688
 Rutooro (Translation)	Ekijuma	id=14923
-siSwati (Adaptation)	Sitselo	id=13072
+Siswati (Adaptation)	Sitselo	id=13072

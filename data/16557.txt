@@ -11,22 +11,22 @@ desc:	Olufudu luli na malagi gaaga?
 
 page_text:
 
-P1	Olufudu luli na malangi musanvu.
+P1	Olufudu luli n'amalangi musanvu.
 P2	Erangi eri sooka erando.
 P3	Kenani gambaye esaati enando.
-P4	Erangi eryohubiri elya kapapaali.
-P5	Hiina ehindi ehyobona ehy'erangi elya kapapali?
-P6	Erangi eryohudatu lya namagi.
-P7	Hiina ehindi ehyobona ehy'erangi ya namagi?
-P8	Erangi eryohune lya nalutu.
-P9	Enimiiro yeefe ey'epandu ya nalutu.
-P10	Erangi eryohutanu lya bbululu.
+P4	Erangi eryo hubiri erya kapapaali.
+P5	Hiina ehindi ehi obona ehy'erangi elya kapapaali?
+P6	Erangi eryo hudatu lya namagi.
+P7	Hiina ehindi ehi obona ehy'erangi erya namagi?
+P8	Erangi eryo hune lya nalutu.
+P9	Ebisyaga biri n'amahoose aga nalutu.
+P10	Erangi eryo hutanu lya bbululu.
 P11	Egulu lya bbululu.
-P12	Erangi eryomukaga lya bbululu omwinihi.
-P13	Ebibala bino mubbakuli bya bbululu omwinihi.
-P14	Erangi eryomusanvu lya papo.
+P12	Erangi eryo mukaga lya bbululu onyiiye.
+P13	Ebibala bino mu bbakuli bya bbululu onyiiye.
+P14	Erangi eryo musanvu lya papo.
 P15	Ehiteteyi hyange hya papo.  Papo nj'erangi eri singa ohwenda.
-P16	Omanyire amalangi omusanvu agolufudu? Ewe langi hi eyosinga ohwenda?
+P16	Omanyire amalangi omusanvu ag'olufudu? Ewe langi hi ery'osinga ohwenda?
 
 images:
 
@@ -50,12 +50,21 @@ illustrations/pages/9856.png
 
 translations:
 
-Dhopadhola (Translation)	Lifudu nitye gi cal abiryo	id=19961
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Amharic (Translation)	7 የቀስተደመና ቀለማት 	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+Chinyanja (Translation)	Mautoto Asanu Ndi Awiri Autawaleza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
 English (Translation)	Colours of a Rainbow	id=10463
-English (Adaptation)	7 Colours of a Rainbow	id=19760
+English (Adaptation)	7 Colours Of A Rainbow	id=19760
+Hausa (Nigeria) (Translation)	Launika Bakwai Na Bakan Gizo	id=20798
 isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+isiZulu (Translation)	Imibala Eyisikhombisa Yothingo  Lwenkosazana	id=20679
 Kikamba (Translation)	Utathi	id=15419
 Kiswahili (Original)	Rangi Za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
+Lusoga (Translation)	Musoke Ali Na Langi 7	id=20396
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
 Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
 Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
-siSwati (Translation)	Imibala Yemushi Wenkhosatane	id=13066
+Siswati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

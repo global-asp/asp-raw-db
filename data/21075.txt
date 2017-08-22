@@ -1,0 +1,80 @@
+url:	http://africanstorybook.org/reader.php?id=21075&d=0&a=1
+id:	21075
+title:	Magezi Na Kasiira
+author:	Brigid Simiyu
+artist:	Brian Wambi
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21075.png
+desc:	Hadithi ya kuchekesha inayohusu urafiki na ujanja unaotokana na mtama.
+
+page_text:
+
+P1	Hapo zamani, Magezi na Kasiira waliishi kwa kushiriki chakula pamoja.
+P2	Magezi alisema, “Hebu tulime pamoja namna tunavyokula pamoja.”
+P3	Magezi alimwambia Kasiira, “Wewe lima mimi nitapanda.”
+P4	Magezi pia alimwambia Kasiira, “Wewe panda mimi nitapalilia.”
+P5	Wakati mtama ulipokomaa, Kasiira alimwuliza Magezi kuvuna.
+P6	Magezi alijibu, “Wewe vuna. Mimi nitahifadhi kwenye ghala.”
+P7	Magezi alikuwa mvivu.  Kwa hivyo, Kasiira alimpatia kifungu kimoja tu cha mtama.
+P8	Magezi alichukuwa kile kifungu cha mtama.  
+
+Alikutana na Kuku.
+P9	Kuku alikula ule mtama.  
+
+Alimpatia Magezi yai.
+P10	Magezi aliwakuta watoto wekicheza. 
+
+Walilivunja lile yai.
+P11	Watoto wale walimpatia Magezi embe.
+P12	Magezi alimkuta Kasuku. Kasuku alilikula lile embe kisha akampatia unyoya.
+P13	Ziwa liliuchukuwa unyoya. Likampatia Magezi maji.
+P14	Magezi aliyatumia maji kuzima moto uliotumiwa kuchoma makaa.
+P15	Wachoma makaa walimpatia Magezi shoka.
+P16	Magezi aliwakuta wachinjaji.
+
+Waliivunja shoka.
+P17	Magezi alipatiwa kichwa na mkia wa fahali.  
+
+Tazama alichofanya Magezi!
+P18	Alipiga mayowe, “Fahali wa mfalme amekwama matopeni!”
+P19	Watu walikuja kumsaidia. 
+
+Magezi aliwaambia, “Vuteni mkia na kichwa.”
+P20	Magezi aliwaambia watu,  “Nipeni ng’ombe wenu nimpelekee mfalme.”
+
+images:
+
+illustrations/pages/15478.png
+illustrations/pages/15471.png
+illustrations/pages/15472.png
+illustrations/pages/15473.png
+illustrations/pages/15474.png
+illustrations/pages/15475.png
+illustrations/pages/15476.png
+illustrations/pages/15477.png
+illustrations/pages/15478.png
+illustrations/pages/15479.png
+illustrations/pages/15480.png
+illustrations/pages/15481.png
+illustrations/pages/15482.png
+illustrations/pages/15483.png
+illustrations/pages/15484.png
+illustrations/pages/15485.png
+illustrations/pages/15486.png
+illustrations/pages/15487.png
+illustrations/pages/15488.png
+illustrations/pages/15489.png
+illustrations/pages/15490.png
+
+translations:
+
+Amharic (Translation)	መብራቴና ከተማ	id=21118
+English (Translation)	Magezi And The Finger Of Millet	id=15504
+English (Adaptation)	Magezi And Kasiira	id=20875
+Lunyole (Translation)	Musiho Ni Malwa	id=21024
+Lusoga (Original)	Magezi Na Akafangata Ko Bulo	id=15503
+Ng’aturkana (Translation)	Magezi Ka Kasira	id=21136
+Portuguese (Translation)	Magezi E a Erva De Milheto	id=17094
+Tigrigna (Translation)	ህበይን ዋዓግን	id=21110

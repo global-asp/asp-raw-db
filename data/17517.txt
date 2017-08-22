@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=17517&d=0&a=1
 id:	17517
-title:	Unkukhu  Nosongololo
+title:	Unkukhu Nosongololo
 author:	Xolisa Guzula
 artist:	Magriet Brink
 lang:	isiXhosa
@@ -11,18 +11,18 @@ desc:	UNkukhu noSongololo babengabahlobo abathanda ukukhuphisana kakhulu. Ngenye
 
 page_text:
 
-P1	UNkukhu noSongololo babengabahlobo. Kodwa babesoloko bekhuphisana ngento yonke. Ngenye imini bagqiba ekubeni badlale ibhola ekhatywayo babone ukuba ngubani oyena ubalaselayo ekuyidlaleni.
-P2	Baya ebaleni lebhola ekhatywayo baze baqalisa ukudlala. UNkukhu wayesenza iintshukumo ezikhawulezayo,  kodwa uSongololo yena wayekhawuleza nangakumbi. UNkukhu wayeyikhaba iye kude ibhola,  kodwa uSongololo wayeyikhaba iye kude kakhulu. UNkukhu waqala ke ngoku ukungonwabi.
+P1	UNkukhu noSongololo babengabahlobo. Kodwa babesoloko bekhuphisana ngento yonke. Ngenye imini bagqiba ekubeni badlale ibhola ekhatywayo babone ukuba ngubani oyena ubalaselayo ekuyidlaleni. 
+P2	Baya ebaleni lebhola ekhatywayo baze baqalisa ukudlala. UNkukhu wayesenza iintshukumo ezikhawulezayo, kodwa uSongololo yena wayekhawuleza nangakumbi. UNkukhu wayeyikhaba iye kude ibhola, kodwa uSongololo wayeyikhaba iye kude kakhulu. UNkukhu waqala ke ngoku ukungonwabi. 
 P3	Bagqiba ekubeni bakhabe amapenalthi. Kwaqala uSongololo ukuba agade iipali. UNkukhu wafaka inqaku elinye kuphela. Emva koko yaba lithuba likaNkunku ukunqanda ibhola ingangeni ezipalini.
 P4	USongololo wakhaba ibhola wakora. USongololo wajikajika nebhola waze wakora elinye inqaku. USongololo wayingquba ngentloko ibhola wakora nelinye inqaku. USongololo wakora kahlanu.
-P5	UNkukhu yamenza waba nomsindo into yokodlulwa ngusongololo. Wayengakuthandi ukogqithwa. USongololo wavele wamhleka nje ngoba umhlobo wakhe wayengonwabanga kwaphela.
+P5	UNkukhu yamenza waba nomsindo into yokodlulwa ngusongololo. Wayengakuthandi ukogqithwa. USongololo wavele wamhleka nje ngoba umhlobo wakhe wayengonwabanga kwaphela. 
 P6	UNkukhu wayenomsindo kakhulu waze wavula umlomo wakhe wamkhulu waze waliginya isongololo.
-P7	Kuthe xa uNkukhu egoduka,  wadibana noMam'uSongololo. UMam'uSongololo wabuza,  "Ukhe wambona umntwana wam torhwana?"  UNkukhu akazange aphendule. UMam' uSongololo wakhathazeka.
-P8	UMam'uSongololo weva izwi elincinci. "Ndincede Mama!"  UMama uSongololo walaqalaqaza wamamelisisa. IIizwi lalivela ngaphakathi esuswini senkukhu.
-P9	UMam'uSongololo wakhwaza,  "Sebenzisa amandla akho akhethekileyo mntwan'am!"  Amasongololo ayakwazi ukukhupha ivumba elibi enze nokuba izinto zinambitheke kakubi. Kwangoko,  uNkukhu waqalisa ukungaziva mnandi.
-P10	UNkukhu wakhonyuluka. Wabuye waginya waphinda wathufa. Wathimla,  wakhohlela kaninzi. Isongololo lalimphathisa isicaphu-caphu!
+P7	Kuthe xa uNkukhu egoduka, wadibana noMam' uSongololo. UMam' uSongololo wabuza, "Ukhe wambona umntwana wam torhwana?" UNkukhu akazange aphendule. UMam' uSongololo wakhathazeka. 
+P8	UMam' uSongololo weva izwi elincinci. "Ndincede Mama!" UMama uSongololo walaqalaqaza wamamelisisa. Ilizwi lalivela ngaphakathi esuswini senkukhu.
+P9	UMam' uSongololo wakhwaza, "Sebenzisa amandla akho akhethekileyo mntwan'am!" Amasongololo ayakwazi ukukhupha ivumba elibi enze nokuba izinto zinambitheke kakubi. Kwangoko, uNkukhu waqalisa ukungaziva mnandi.
+P10	UNkukhu wakhonyuluka. Wabuye waginya waphinda wathufa. Wathimla, wakhohlela kaninzi. Isongololo lalimphathisa isicaphu-caphu!
 P11	UNkukhu wakhohlela wade waligabha isongolololo ebelisesuswini sakhe. UMama uSongololo nomntwana wakhe barhubuluza banyuka emthini ngeliya kuzimela.
-P12	Ukusukela ngaloo mini,  iinkukhu namasongololo baba ziintshaba.
+P12	Ukusukela ngaloo mini, iinkukhu namasongololo baba ziintshaba.
 
 images:
 
@@ -43,15 +43,16 @@ illustrations/pages/8994.png
 translations:
 
 Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
-Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+Afrikaans (Translation)	Hoender En Duisendpoot	id=20054
 ChiTonga (Translation)	Nkuku, Joongola	id=18643
 CiNyanja (Translation)	Nkuku Na Bongololo	id=18661
+Dhopadhola (Translation)	Gweno Kodi Ongongolo	id=20822
 English (Translation)	Chicken and Millipede	id=9094
 French (Translation)	La Poule Et Le Millepatte	id=9959
 French (Translation)	Poulet Et Mille-Pattes	id=10145
 Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
 Gurene (Translation)	Nͻbila La Katagune	id=12663
-Hausa (Translation)	Kaza Da	id=9977
+Hausa (Niger) (Translation)	Kaza Da	id=9977
 isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
 isiZulu (Translation)	Unkukhu Noshongololo	id=13535
 isiZulu (Adaptation)	Unkukhu Noshongololo	id=17452
@@ -62,6 +63,7 @@ Likpakpaanl (Translation)	Ukↄla Ni Gonlgonl	id=18776
 Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
 Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
 Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Mampruli (Translation)	Noa Ni Sanguntiri	id=20117
 Portuguese (Translation)	O Frango E O Gongolo	id=16099
 Portuguese (Translation)	Galinha E Milípede	id=16477
 Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
@@ -70,7 +72,8 @@ Sepedi (Translation)	Kgogo Le Legokolodi	id=12410
 Sesotho (S.Africa) (Translation)	Kgoho Le Lefokolodi	id=14434
 Setswana (Translation)	Koko Le Sebokolodi	id=13973
 SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
-siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Siswati (Translation)	Inkhukhu Nelishongololo	id=12580
+Talen (Translation)	Nobil Ne Sanguin 	id=20179
 Tshivenda (Translation)	Khuhu Na Dongololo	id=14731
 Xitsonga (Translation)	Huku Na Khongoloti	id=14408
 Zarma (Translation)	Gorŋo-Ɲa Nda Konjanje	id=10103

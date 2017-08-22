@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=18319&d=0&a=1
 id:	18319
-title:	Masiari a Mugivhela U Fhisaho.
+title:	Masiari A Mugivhela U Fhisaho
 author:	Ramikosi Gudani
 artist:	Wiehan de Jager
 lang:	Tshivenda
@@ -18,7 +18,7 @@ P4	Fhedzi u tamba hu tshi fhisa,  naho ni fhasi ha muri tsini na mulambo ni do �
 P5	Ra dzhenisa fhedzi milenzhe maḓini ri rotholelwe. Ra thoma u hashana nga maḓi. Hu si kale ra vha ro no ṋukala nga maḓi.
 P6	"Hai vheiwe! Kha ri bambele," hu amba Mpho. "Mmawe a vha nga zwi ḓivhi." Ra bambela ra bambela ra hangwa na nga ha tshifhinga.
 P7	Ḓuvha ḽa thoma u sunguvhela,  ha thoma u rotholela. Zwiambaro zwashu zwi ngafhi?
-P8	Ra sedza fhasi ha miri.    Ra seza maḓakani.    Ra sedza hoṱhe hoṱhe.
+P8	Ra sedza fhasi ha miri. Ra seza maḓakani. Ra sedza hoṱhe hoṱhe.
 P9	Ho vha huna kholomo tsini na mulambo dzi tshi ḓiphina ga hatsi han u ḓifha. Bontle a sedza nnṱha,  "Sedzani iḽa kholomo! Ndi mini tshire mulomoni?" "I khou ḽa luvha litswuku," hu huwelela Mpho. "Ndi hemmbe yanu!"
 P10	Ra lavhelesa iṅwe kholomo ye ya vha i khou la tshithu tshidala. "Ndi tshikete tshanga!" hu pfala Bontle.
 P11	Ra ya hayani nga dziphenti,  ri tshi tetemela. Ho vha husina zwine ra nga ita,  "Ndi kholomo," ri tshi lila. "Kholomo dzo ri ḽela zwiambaro."
@@ -45,6 +45,7 @@ translations:
 Afrikaans (Translation)	'n Warm Saterdag Middag	id=11416
 Afrikaans (Translation)	'n Baie Warm Saterdag Middag	id=11525
 Afrikaans (Translation)	'n Warm Saterdag	id=20090
+Ateso (Translation)	Amukaaga Na Amwanan	id=20628
 ChiTonga (Translation)	Bumwi Buzuba Masikati Mu Nsabata	id=18650
 CiNyanja (Translation)	Cibelu Cina Cakupya Mumazulo	id=18659
 Dhopadhola (Translation)	Mukaga Moro M’Olieth	id=15766
@@ -54,7 +55,7 @@ English (Translation)	A Hot Saturday	id=5394
 English (Adaptation)	A Hot Saturday	id=13453
 French (Translation)	Un Samedi Après-Midi De Grande Chaleur	id=10843
 IciBemba (Translation)	Kasuba Kamo Pacibelushi Ninshi Nakukaba	id=18693
-isiXhosa (Translation)	Ngenye  Imva Kwemini Eshushu Yangomgqibelo	id=3152
+isiXhosa (Translation)	Ngenye Imva Kwemini Eshushu Yangomgqibelo	id=3152
 isiZulu (Translation)	Ngomunye Umgqibelo Ntambama Kushisa	id=3151
 isiZulu (Translation)	Ngumunye Umgqibelo Ntambamba	id=13022
 isiZulu (Translation)	Ngomunye Umgqibelo Ntambama Kushisa	id=18956
@@ -70,6 +71,7 @@ Lunyole (Translation)	Ehy'egulo Hu Lw'omukaaga Olwaliho Ebbugumu	id=10250
 Maa (Translation)	Enkolong E Jumamosi Nairowua	id=3158
 Oluwanga (Translation)	Mwichuma Mushiteere  Shiomubasu Omululu	id=3154
 Portuguese (Translation)	Uma Tarde De Sábado E Calor	id=18864
+Rufumbira (Translation)	Uwamukaga Wizuba	id=20635
 Rutooro (Translation)	Kyamukaga Kimu Nyamusana Mukyanda	id=14938
 Sepedi (Translation)	Mokibelo Wa Go Fiša Tšhiritšhiri	id=1009
 Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=3146
@@ -77,5 +79,5 @@ Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=12622
 Sesotho (South Africa) (Translation)	Moqebelo O Mong O Tjhesang Haholo	id=20048
 Setswana (Translation)	Letsatsi La Lamatlhatso Le Le Mogote	id=3147
 SiLozi (Translation)	Lizazi Lenelicisa Haulu La Pelekelo	id=18737
-siSwati (Translation)	Ngelusuku Lwekushisa Kakhulu Kwelilanga Ngengcibelo Ntsambama	id=13062
+Siswati (Translation)	Ngelusuku Lwekushisa Kakhulu Kwelilanga Ngengcibelo Ntsambama	id=13062
 Xitsonga (Translation)	Siku Rin’Wana Ro Hisa Ra Muqgivela Nindzhenga	id=18867

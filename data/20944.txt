@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=20944&d=0&a=1
+id:	20944
+title:	Myeli
+author:	Hellen Alowo
+artist:	Catherine Groenewald
+lang:	Dhopadhola
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20944.png
+desc:	Kigana mee nitye kwong nyako mumaro myeli. Jafwonji pere nwango nigime myigo nge to yoki go medo go meni italanta pere.
+
+page_text:
+
+P1	Amyelo kaanigi seimi, amyelo ka  ajulo, amyelo kaani kendani, amyelo ka amako nge.
+P2	Jafwonji parani wacho ni, bedi lingi! ikiri myeli ndelo gipi.
+P3	To yokani wacho ni myyeli niyini ibedo ma ichwe, myeli miyini ibedo mabori, ndelo achieli ilabedo jamyeli  aka ila miyo jo dhier.
+P4	To awacho ni ndelo achieli alamyelo to jii ju chulani nyaka ma nenani ka awiyo  pyerani. Myeli pere nga ber apaka julwacho.
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+English (Original)	Dancing	id=2183
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lumasaaba (Translation)	Kuchina	id=20932
+Portuguese (Translation)	Dançando	id=12173
+Setswana (Translation)	Mokibo	id=2695

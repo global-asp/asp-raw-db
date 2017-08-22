@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=21025&d=0&a=1
+id:	21025
+title:	Ahasuje  Ahatasiima
+author:	Charles Mubbalya
+artist:	Jacob Kono
+lang:	Lunyole
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21025.png
+desc:	Wanduyu atusa wahasuje mu hizibu. Aye muhifo hy’ohwoheresa ehisubise eri wanduyu
+
+page_text:
+
+P1	Wahasuje omuyala gaali aŋiima.
+P2	Gafulumusa embeba mu gubaale.
+P3	Ni gaali n’ayaba, ogubaale gwamugwa hu hyaba.
+P4	Wanduyu gamuŋuliiye ni g’eteera ng'amudulumirira.
+P5	Wanduyu gehirisa ohumuyeeda gahamufunamo ehy'egulo.
+P6	Wanduyu gaŋindiiha ogubaale ohuŋwa hu hyaba
+ hya Wahasuje.
+P7	Wahasuje ga tisa tisa ohumulya.
+P8	Basuna omusaaja omuhulu ohu bagaya.
+P9	Wahasuje gehanira ohulya omusaaja yeesi.
+P10	Omusaaja galoma ati, "Mundehe mboneho ogubaale ko saleŋo."
+P11	Wahasuje ni Wanduyu bamuŋira hu gubaale.
+P12	Wahasuje ganyonyoye ng’olu gubaale gwamugwa hu
+hyaba.
+P13	Omusaaja galoma Wanduyu ohumulaga ng’olugasindiiha ogubaale.
+P14	Wanduyu ga gobosa ogubaale hu hyaba hya wahasuje.
+P15	Omusaaja galomire ati, "Paaŋo. Hwetiinire engo."
+P16	Wahusuje bamupapasa.
+
+images:
+
+illustrations/pages/18475.png
+illustrations/pages/18468.png
+illustrations/pages/18469.png
+illustrations/pages/18470.png
+illustrations/pages/18471.png
+illustrations/pages/18472.png
+illustrations/pages/18473.png
+illustrations/pages/18474.png
+illustrations/pages/18475.png
+illustrations/pages/18476.png
+illustrations/pages/18477.png
+illustrations/pages/18478.png
+illustrations/pages/18479.png
+illustrations/pages/18481.png
+illustrations/pages/18482.png
+illustrations/pages/18483.png
+illustrations/pages/18484.png
+
+translations:
+
+Afaan Oromo (Translation)	Jedalaaf Illeti	id=18486
+Amharic (Translation)	ቀበሮና ጥንቸል	id=18845
+Amharic (Translation)	ውለታቢሱ ቀበሮ	id=21243
+English (Original)	Jackal and Rabbit	id=18485
+English (Adaptation)	Ungrateful Jackal	id=20876
+Kiswahili (Translation)	Mbweha Na Sungura	id=19387
+Kiswahili (Translation)	Mbweha Asiye Na Shukurani	id=21124
+Ng’aturkana (Translation)	Epeot Lope Alakara	id=21123
+Tigrigna (Translation)	ዘየመስግን ተኹላ	id=21109

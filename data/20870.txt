@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=20870&d=0&a=1
+id:	20870
+title:	Lioness And Ostrich
+author:	Dorcas Wepukhulu
+artist:	Brian Wambi
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20870.png
+desc:	Lioness plans to take Ostrichs children.
+
+page_text:
+
+P1	Ostrich and Lioness were once good friends.
+P2	Unlike Lioness, Ostrich fed her chicks well.
+P3	Lioness’s cubs did not have enough food to eat.
+P4	Lioness wished the fat chicks were hers.
+P5	When Ostrich was not home, Lioness took the chicks.
+P6	When Ostrich returned, she asked, “Where are my children?”
+P7	Ostrich found her chicks with Lioness at her hut.
+P8	Lioness said, “The chicks are mine now. Take the cubs.”
+P9	Ostrich asked herself, “How can I get my children back?”
+P10	She called all the animals for a meeting.
+P11	The animals arrived for the meeting.
+P12	Elephant asked Ostrich and Lioness to speak.
+P13	Most of the animals were afraid to blame Lioness.
+P14	Squirrel said, “Children that look like birds belong to Ostrich.”
+P15	Then Squirrel ran into a hole.
+P16	Lioness was very angry. She went home with her cubs.
+
+images:
+
+illustrations/pages/19205.png
+illustrations/pages/19195.png
+illustrations/pages/19196.png
+illustrations/pages/19197.png
+illustrations/pages/19198.png
+illustrations/pages/19199.png
+illustrations/pages/19200.png
+illustrations/pages/19201.png
+illustrations/pages/19202.png
+illustrations/pages/19203.png
+illustrations/pages/19204.png
+illustrations/pages/19205.png
+illustrations/pages/19206.png
+illustrations/pages/19207.png
+illustrations/pages/19208.png
+illustrations/pages/19209.png
+illustrations/pages/19210.png
+
+translations:
+
+English (Translation)	Ostrich and Lioness	id=19292
+Kiswahili (Translation)	Mbuni Na Simba	id=19401
+Kiswahili (Translation)	Simba Jike Na Mbuni	id=21059
+Ng’aturkana (Original)	Ekales Ka Ng’Atuny	id=19211
+Ng’aturkana (Translation)	Kales Ka Ng’Atuny	id=19212
+Tigrigna (Translation)	ዋዕሮን ሰገንን	id=21173

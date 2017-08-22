@@ -15,12 +15,14 @@ P1	This is my teacher. Her name is Teacher Akinyi. She loves us a lot.
 P2	Teacher Akinyi teaches us the alphabet. She teaches us the vowels. I can say the letters a,  e,  i,  o,  u.
 P3	Teacher Akinyi teaches us colours. I know red,  blue,  green,  yellow,  and black.
 P4	During nap time,  Teacher Akinyi sings us to sleep. She sings a lullaby to us.
-P5	On Monday,  she tells us stories about great men.
-P6	On Tuesday,  she tells us stories about great women.
-P7	On Wednesday,  she tells us stories about means of transport.
-P8	On Thursday,  she tells us stories about farming.
-P9	And on Friday,  we tell our own stories to the class.
-P10	Our teacher is the best teacher in the world! When I grow up,  I want to be like Teacher Akinyi.
+P5	The lullaby goes like this: Golden slumber give your eyes Smiles await you when you rise Sleep pretty darlings,  do not cry And I'll sing you a sweet lullaby.
+P6	Teacher Akinyi knows many stories. She tells us a different story each day of the week.
+P7	On Monday,  she tells us stories about great men.
+P8	On Tuesday,  she tells us stories about great women.
+P9	On Wednesday,  she tells us stories about means of transport.
+P10	On Thursday,  she tells us stories about farming.
+P11	And on Friday,  we tell our own stories to the class.
+P12	Our teacher is the best teacher in the world! When I grow up,  I want to be like Teacher Akinyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

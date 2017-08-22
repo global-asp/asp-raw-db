@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=20026&d=0&a=1
 id:	20026
 title:	Moru Wa Dinoha
 author:	Tseliso Masolane
-artist:	
+artist:	Rob Owen
 lang:	Sesotho (South Africa)
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
@@ -80,7 +80,9 @@ isiXhosa (Translation)	Ihlathi Leenyoka	id=17524
 isiZulu (Translation)	Inyoka Yehlathi, Umagilogilo	id=16094
 Kinyarwanda (Translation)	Ishyamba Ribamo Inzoka	id=17460
 Kiswahili (Translation)	Msitu Wa Nyoka	id=13309
+Lusoga (Translation)	Abaguuna Abasaatu No Ogusoota  Mu Kibira	id=21280
 Ng’aturkana (Translation)	Amoni  Ang’Imunio	id=13310
+Ng’aturkana (Adaptation)	Amoni Na Aya Ng'imunio	id=20357
 Olunyala (Translation)	Esichakha Esya Chinjukha	id=13266
 Oluwanga (Translation)	Omutsuru Kwe Tsinzukha	id=13311
 Portuguese (Translation)	A Floresta De Cobras	id=16581

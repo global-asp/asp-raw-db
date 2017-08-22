@@ -7,23 +7,23 @@ lang:	Lunyole
 level:	First sentences
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/10019.png
-desc:	Abegi bane baali bebbi bemiyembe. Omwene miyembe gabanghambire gabanghira hu somero babahangavula
+desc:	Abegi bane baali bebbi bemiyembe. Omwene miyembe gabanghambire gabanghira hu somero babahangavula.
 
 page_text:
 
-P1	Ebiseera ebyaahale,  yaaliyo otuseere tune.
+P1	Ebiseera ebyahale,  yaaliyo otuseere tune.
 P2	Twasomeranga hu Kaguja primary school.
-P3	Otuseere twatinanga hu somero nitutaliyeho maŋolu goosigoosi.
+P3	Otuseere twatinanga hu somero ni tutaliyeho maŋolu goosi.
 P4	Tweŋongereranga mu hibiina olw'enjala.
-P5	Lula tweyibire mu somero ohuheja eby'ohulya.
-P6	Nitwasomohire hula twagwirihirira oguyembe oguleremayeho emiyembe emirabire.
-P7	Otuseere twadulumire twoola hu musaala twanoga emiyembe,  twamwenyera era twatagiha ohujirya.
+P5	Lulala tweyibire mu somero ohuja ohuheja eby'ohulya.
+P6	Ni twasomohire hula twagwirihirira oguyembe oguleremayeho emiyembe emirabire.
+P7	Otuseere twadulumire twola hu musaala twanoga emiyembe,  twamwenyera era twatagiha ohujirya.
 P8	Omanyire ehi tuseere tuno twebirira?
 P9	Tuba ko tulya omweene miyembe nga aŋwayo naŋaala,  huŋaala.
-P10	Otuseere twali situmubona. Nigahabuha,  twafulumuha twatiina twehweeha.
+P10	Otuseere twali situmubona. Ni gahabuha,  twafulumuha twatiina twehweeha.
 P11	Hiisi halala sihehirisanga hahye huholola,  huloma oba huhayaana.
 P12	Omweene miyembe gawene atyo nga ahubba endulu ejaleeta abaapi n'abaleeŋi.
-P13	Otuseere tuno batuŋambire era baatuŋira hu somero balanga abasaaye b'otwibi,  abasomesa ko n'abeegi bahyawe ohuhumbaana. Ehyaali ŋala hyaali hihulu.
+P13	Otuseere tuno batuŋambire era baatuŋira hu somero balanga abasaaye b'otwibi,  abasomesa ko n'abeegi bahyawe ohuhumbana. Ehyali ŋala hyaali hihulu.
 
 images:
 
@@ -46,3 +46,4 @@ translations:
 
 English (Original)	The Mango Thieves	id=7459
 English (Adaptation)	The Banana Thieves	id=9881
+Kakwa (Translation)	Kola Ti A’Bugo	id=21341

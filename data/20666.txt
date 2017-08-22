@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=20666&d=0&a=1
+id:	20666
+title:	Lacoo Ma Caa
+author:	Maurice Lamony
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Acholi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20666.png
+desc:	Lacoo moo ma caa adada pe ogwoko cam ma ber
+
+page_text:
+
+P1	Tye karo moo, no tye lacoo moo ma ki lwongo ni Joel. En ono bedo i caro moo ma ki lwongo ni Aya.
+P2	En ono pe paro pi gwoko cam pi anyim. No mere lanyo alanya.
+P3	Wa nyig bel acel moo pe odong i dero.
+P4	Anyogi oran otwoo ko weng.
+P5	Lapiro obino obayo wi deero weng.
+P6	Litino ki laaro ko dek ma odong i cubu riya.
+P7	Mego obutu ingom kun kok ni man dong imiyo ngo ki litino nino mukene?
+P8	Won gang obedo ite ot kun paaro pi anyim.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

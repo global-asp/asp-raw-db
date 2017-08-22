@@ -18,11 +18,12 @@ P4	ULodipo waxelela u-Akitela ukuba umama wakhe wayengafuni ukushiya ikhaya lakh
 P5	ULodipo wayemthanda kakhulu u-Akitela. Ngoko ke,  wavuma ukushiya umama wakhe. Baqalisa ukulungiselela uhambo. U-Akai,  umfazi wokuqala,  wayengonwabanga nakancinci sesisehlo.
 P6	Umama ka Lodipo wayezihlalele phantsi komthi engazi nokuba kwenzekani. "Singamshiya kanjani eyedwa?" Wazibuza u-Akai,  ekhathazeke kakhulu.
 P7	ULodipo wathatha inkamela,  walayisha zonke iimpahla zabo. Wakuqgiba,  wahamba kunye nabafazi bakhe bobabini. Bamshiya ke umama wakhe,  bengatshongo nokuba bayahamba. Walila u-Akai,  ezele lusizi ngokushiya uninazala wakhe eyedwa.
-P8	Emva kokuba uLodipo ehambile nabafazi bakhe,  kuye kwafika abaphangi beenkomo,  bahlasela ekuhlaleni.
-P9	Babuza kumama kaLodipo ukuba uphi unyana wakhe. Babemkhangela,  befuna ukumbulala. Wabacenga esithi,  "Nincede ningambulali u-Akai."
-P10	Umama kaLodipo wacela abaphangi ukuba babuye nenkunzi yakhe yegusha,  uLodipo awayehambe nayo.
-P11	Baye bahamba ke aba bahlaseli,  beyokukhangela uLodipo. Bathe bakumfumana,  bambulala kunye nomfazi wakhe omncinci u-Akitela.
-P12	Uye wabuya ke u-Akai,  kunye nenkuzi yegusha kamama kaLodipo. Bahlala kunye ngolonwabo ekhayeni labo.
+P8	Umama ka Lodipo washiyeka yedwa ekhala inyembezi,  ecula lengoma: "Awesita Lodipo Ngina Ekitae Ka ng'akinei,  Nakolong kedounio,  Nitonoma tani Akolong'a Awesiti ngina,  Awesiti a Lodipo ngina Eriamaros morua polonia."
+P9	Emva kokuba uLodipo ehambile nabafazi bakhe,  kuye kwafika abaphangi beenkomo,  bahlasela ekuhlaleni.
+P10	Babuza kumama kaLodipo ukuba uphi unyana wakhe. Babemkhangela,  befuna ukumbulala. Wabacenga esithi,  "Nincede ningambulali u-Akai."
+P11	Umama kaLodipo wacela abaphangi ukuba babuye nenkunzi yakhe yegusha,  uLodipo awayehambe nayo.
+P12	Baye bahamba ke aba bahlaseli,  beyokukhangela uLodipo. Bathe bakumfumana,  bambulala kunye nomfazi wakhe omncinci u-Akitela.
+P13	Uye wabuya ke u-Akai,  kunye nenkuzi yegusha kamama kaLodipo. Bahlala kunye ngolonwabo ekhayeni labo.
 
 images:
 
@@ -45,5 +46,6 @@ translations:
 Afrikaans (Translation)	Die Gevaar Van Verwerping	id=11249
 English (Original)	Danger of Abandoning a Mother	id=7549
 Kiswahili (Translation)	Lodipo Amtoroka Mama	id=15937
+Lusoga (Translation)	Ebizibu Byo Ku Leka Omuzaile	id=21382
 Ng’aturkana (Translation)	Erono Akijal Itokon	id=13313
 Sepedi (Translation)	Danger of Abandoning a Mother	id=11468

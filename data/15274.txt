@@ -1,24 +1,40 @@
 url:	http://africanstorybook.org/reader.php?id=15274&d=0&a=1
 id:	15274
-title:	I Enjoy Doing
+title:	I Enjoy Doing / Ninafurahi
 author:	African Storybook
 artist:	Wiehan de Jager
 lang:	English
-level:	First words
+level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/15274.png
-desc:	What do you enjoy doing?
+desc:	What do you enjoy doing? Je
 
 page_text:
 
 P1	I enjoy skipping with my friend.
-P2	I enjoy writing letters on the board. Ninafurahia kuandika herufi kubwa ninazoweza kusoma kwa wepesi.
-P3	I enjoy reading books with pictures. Ninafurahia kusoma hadithi zinzovutia.
-P4	I enjoy eating different fruit. Ninafurahia kula matunda tofauti.
-P5	I enjoy helping at home. Ninafurahia kumwoshea mama vyombo.
-P6	I enjoy listening to my mother's stories. Ninafurahia kumsikiliza mama akisimulia hadithi za kuvutia.
-P7	I enjoy sleeping on a big bed. Aah! Ninafurahia kufanya hivi vyote.
+
+Ninafurahi kuruka kamba na rafiki yangu.
+P2	I enjoy writing letters on the board. 
+
+Ninafurahi kuandika herufi ubaoni.
+P3	I enjoy reading books with pictures. 
+
+Ninafurahi kusoma hadithi za picha.
+P4	I enjoy eating different fruit. 
+
+Ninafurahi kula matunda tofauti.
+P5	I enjoy helping mother in the kitchen. 
+
+Ninafurahi kumsaidia mama jikoni.
+P6	I enjoy listening to my mother's stories. 
+
+Ninafurahi kusikiliza hadithi za mama.
+P7	I enjoy sleeping on a big bed. 
+
+Ninafurahi kulala kwenye kitanda kikubwa.
 P8	I enjoy doing these things. What do you enjoy doing?
+
+Ninafurahi kufanya vitu hivi. Je, wewe unafurahi kufanya nini?
 
 images:
 
@@ -47,4 +63,4 @@ Maa (Translation)	Káshípákíno	id=7869
 Ng’aturkana (Translation)	Alakarikina	id=8449
 Oluwanga (Translation)	Ndachama	id=8283
 Rutooro (Translation)	Ngonza - I Enjoy	id=9484
-Tunisian (Translation)	Yiġjibni - I Enjoy	id=15382
+Tunisian (Translation)	Yeɛjibni	id=15382

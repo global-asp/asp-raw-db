@@ -1,10 +1,10 @@
 url:	http://africanstorybook.org/reader.php?id=6790&d=0&a=1
 id:	6790
-title:	An Egg for Bride Wealth
-author:	Maganda Isa and Cornelius Gulere
+title:	An Egg For Bride Wealth
+author:	Cornelius Wambi Gulere
 artist:	Wiehan de Jager
 lang:	English
-level:	Longer paragraphs
+level:	Read aloud
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/6790.png
 desc:	A story is about a young man and an important egg
@@ -45,11 +45,18 @@ illustrations/pages/6741.png
 translations:
 
 Afrikaans (Adaptation)	'n Eier Vir Bruidskat	id=11319
+Amharic (Translation)	ጥሎሽ	id=21119
+English (Adaptation)	Bride Wealth	id=20879
 French (Translation)	Un Œuf Pour Le Prix De La Fiancée	id=10138
+Hausa (Nigeria) (Translation)	Kyautar Da Ta Zamo Silar Arziki	id=21117
+Kiswahili (Translation)	Mahari	id=21126
 Lámnsoʼ (Translation)	Wúm Ye Dzəə̀n Juu	id=15068
 Lusoga (Original)	Igi Lya Mwandu	id=6744
+Ng’aturkana (Translation)	Abeye Na Eutare	id=21120
 Portuguese (Translation)	Um Ovo Para Conseguir Uma Noiva	id=15802
+Runyankore (Translation)	Eihuri Aha Bwenjugano	id=20804
 Sepedi (Translation)	Lee La Magadi	id=10919
 Sepedi (Translation)	Lee La Magadi	id=11497
 Sepedi (Translation)	Lee La Magadi	id=11501
 Sepedi (Translation)	Lee La Magadi	id=11502
+Tigrigna (Translation)	ገዝሚ	id=21108

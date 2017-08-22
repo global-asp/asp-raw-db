@@ -15,14 +15,15 @@ P1	Once upon a time,  there lived two rats.
 P2	One rat lived in the town, one lived in the village.
 P3	One day,  the rat that lived in the town said to the rat that lived in the village,  "You eat badly and sleep badly too."
 P4	We sleep in chief's house. We eat many different kinds of food. Come and visit me and see," said the town rat."
-P5	Meanwhile the chief was furious. He cursed,  "These rats that eat my food,  they will see!" This time,  he set a trap with sugar.
-P6	The rats came in to eat the goodies in the house. They came laughing,  "Chuchuchichicheche!"
-P7	When they reached the trap the town rat said,  "Let me taste this sugar. You see the goodies we eat here."
-P8	But before the rat could take the sugar,  the trap snapped,  PA! The trap caught the rat's head,  and his eyes bulged like eggplants.
-P9	The village rat just looked,  amazed. He said,  "E. Heee! My friend,  which goodies did you eat that made your eyes bulge?"
-P10	But the town rat could not reply.
-P11	The village rat left the house saying,  "Haa! I will not manage these goodies you praise."
-P12	Your worst home is better than your neighbour's best home.
+P5	"I will come this very night," said the village rat.
+P6	Meanwhile the chief was furious. He cursed,  "These rats that eat my food,  they will see!" This time,  he set a trap with sugar.
+P7	The rats came in to eat the goodies in the house. They came laughing,  "Chuchuchichicheche!"
+P8	When they reached the trap the town rat said,  "Let me taste this sugar. You see the goodies we eat here."
+P9	But before the rat could take the sugar,  the trap snapped,  PA! The trap caught the rat's head,  and his eyes bulged like eggplants.
+P10	The village rat just looked,  amazed. He said,  "E. Heee! My friend,  which goodies did you eat that made your eyes bulge?"
+P11	But the town rat could not reply.
+P12	The village rat left the house saying,  "Haa! I will not manage these goodies you praise."
+P13	Your worst home is better than your neighbour's best home.
 
 images:
 
@@ -47,7 +48,6 @@ English (Translation)	The Rat	id=7769
 Kiswahili (Translation)	Panya	id=8439
 Likpakpaanl (Translation)	Lisayikl	id=18782
 Lunyole (Translation)	Embeba	id=13611
-Lusoga (Original)	Wansolimo	id=7768
 Portuguese (Translation)	A Ratazana	id=18858
 Portuguese (Translation)	A Ratazana	id=18890
 Rutooro (Translation)	Embeba	id=14941

@@ -18,16 +18,17 @@ P4	Nilianza kulia nikitaka kumfuata. Hata hivyo,  baba alinibeba na kunituliza.
 P5	Baba alisema,  "Mamako anaenda hospitalini kujifungua mtoto."
 P6	Niliposikia 'mtoto' sikulia tena. Nilimwuliza,  "Kwa nini aende hospitalini?"
 P7	Baba alinijibu,  "Nitakueleza kwa nini anaenda kumpata mtoto hospitalini."
-P8	Babangu alisema,  "Tutakupenda wakati wote."
-P9	"Ninaweza kumwandikia barua akiwa huko?" Nilimuuliza baba.
-P10	Jioni hiyo,  nilianza kumtungia mama barua.
-P11	Nilichukuwa karatasi na kuanza kuandika.
-P12	"Mama,  mama! Baba alisema kwamba umeenda kumleta mtoto mwingine."
-P13	Tafadhali,  fanya haraka urudi nyumbani.
-P14	Ningependa umlete mtoto msichana. Nitacheza naye akiwa mkubwa.
-P15	Unaweza kuwaleta wawili. Mmoja atakuwa wangu.
-P16	Ninakusubiri hapa nyumbani.
-P17	Niliikunja barua yangu ili baba ampelekee mama. Asubuhi,  barua haikuwepo.
+P8	Nilisikiliza baba akinieleza lakini sikuelewa. Alipomaliza,  nilimuuliza,  "Ataendelea kunipenda?"
+P9	Babangu alisema,  "Tutakupenda wakati wote."
+P10	"Ninaweza kumwandikia barua akiwa huko?" Nilimuuliza baba.
+P11	Jioni hiyo,  nilianza kumtungia mama barua.
+P12	Nilichukuwa karatasi na kuanza kuandika.
+P13	"Mama,  mama! Baba alisema kwamba umeenda kumleta mtoto mwingine."
+P14	Tafadhali,  fanya haraka urudi nyumbani.
+P15	Ningependa umlete mtoto msichana. Nitacheza naye akiwa mkubwa.
+P16	Unaweza kuwaleta wawili. Mmoja atakuwa wangu.
+P17	Ninakusubiri hapa nyumbani.
+P18	Niliikunja barua yangu ili baba ampelekee mama. Asubuhi,  barua haikuwepo.
 
 images:
 
@@ -55,5 +56,10 @@ translations:
 Afrikaans (Translation)	'n Briefie Vir Mamma	id=11343
 Afrikaans (Translation)	Brief Aan Ma	id=11350
 English (Original)	Letter to Mum	id=2134
+English (Adaptation)	Waiting For Baby 	id=21452
+isiNdebele (Translation)	Silindele Umntwana	id=21463
 isiZulu (Translation)	Incwadi Kamama	id=11513
+isiZulu (Translation)	Silindele Usana Lwethu	id=21464
 Naro (Translation)	Tcgãyas Áís Koe Ko Síí Sa	id=16457
+Sesotho (South Africa) (Translation)	Ho Lebelletswe Lesea	id=21467
+Siswati (Translation)	Kulindza Umntfwana	id=21465

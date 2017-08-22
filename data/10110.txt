@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=10110&d=0&a=1
 id:	10110
-title:	Rabbit Goes to a Party
+title:	Rabbit Goes To A Party
 author:	Mozambican folktale
 artist:	Hélder de Paz Alexandre
 lang:	English
@@ -32,8 +32,8 @@ illustrations/pages/10191.png
 
 translations:
 
-English (Adaptation)	Rabbit Goes to a Party - Colouring Book	id=17433
+English (Adaptation)	Rabbit Goes To A Party - Colouring Book	id=17433
 isiXhosa (Translation)	Umvundla Uya Ethekweni	id=13089
 Portuguese (Translation)	O Coelho Vai a Festa	id=10243
-Sesotho (Lesotho) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090
+Sesotho (South Africa) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090
 Xitswa (Translation)	N'wa Vundlani Aya a Mubuzweni	id=10244

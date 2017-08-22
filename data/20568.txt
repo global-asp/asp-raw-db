@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=20568&d=0&a=1
+id:	20568
+title:	Onger Kede Nyang
+author:	Agnes Kabonesa
+artist:	Abraham Muzee
+lang:	Kumam
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20568.png
+desc:	Epone kame Onger oko konyo kede kwo mere kur Nyang chame.
+
+page_text:
+
+P1	Onger oriamo kede Nyang ooko me nam.
+P2	Onger oko penye be, in ibedo tuai?
+Nyang oko dwoko be ii nam.
+P3	Nyang oko penyo Onger be in ibedo tuai? Onger oko dwoko be i wii yen.
+P4	Nyang oko penye be itwero kwang?
+P5	Likatwero, di Onger dwoko, apwonyi
+P6	Wan obedo adyereson. Kur ibed kede lworo, Nyang oko yamo ne Onger.
+P7	Onger, nerunango tuo. Emito ringo, Nyang okoyamo
+P8	Onger tiye kede lworo, pien Nyang twero came.
+P9	Onger mito lwii ki kakame Nyang tiye iye.
+P10	Onger tiye kede ngec
+P11	Ayaro mini cunya, Onger oko cikere.
+P12	Di Onger oko yamo be cunya nono kom tiye iyat iiye itela.
+P13	Itwero ot kwanyo na cunyi nono? Nyang oko penyere, eba Onger oko dwoko
+P14	Nyang oko ikwang di edok iye itela. Onger di ringo i wii yene.
+P15	Likame itye nyawota, ingala! Nyang oko yamo.
+P16	Wan liko tiye awotino. Imito cama! di Onger dwoko.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri Da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	Unkawu Nongwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kiswahili (Translation)	Sokwe Na Mamba	id=20374
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343

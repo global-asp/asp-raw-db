@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=19993&d=0&a=1
 id:	19993
-title:	Nyathi ma nyakare
-author:	Joseph Alfred Owino Ogot and Owino Ogot
+title:	Nyathi Ma Nyakare
+author:	Owino Ogot
 artist:	Meghan Judge
 lang:	Dhopadhola
 level:	First sentences
@@ -59,9 +59,10 @@ illustrations/pages/14992.png
 
 translations:
 
+ChiShona (Translation)	Mwana Anoshamisa	id=19991
 English (Original)	Donkey Child	id=15028
 English (Adaptation)	Strange Baby	id=15033
-English (Translation)	Mwana anoshamisa	id=19991
+isiXhosa (Translation)	Umbhongolo, Usana Olusisimanga	id=20818
 isiZulu (Translation)	Umntwana ongajwayelekile	id=20006
 Kiswahili (Translation)	Mtoto Punda	id=15865
 Ng’aturkana (Translation)	Ikoku Sikiria	id=15574

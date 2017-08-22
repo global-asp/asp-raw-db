@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=21150&d=0&a=1
+id:	21150
+title:	Mtoto Na Korongo
+author:	Brigid Simiyu
+artist:	Emily Berg
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21150.png
+desc:	Korongo wanamwona mtoto akilia na wanaamua kwenda naye.
+
+page_text:
+
+P1	Mama na baba walimwacha Makabi amchunge mtoto mchanga.
+P2	Makabi alicheza akasahau kumchunga mtoto.
+P3	Korongo walimkuta mtoto akilia.
+P4	Walimbebea ndani ya blanketi wakaruka naye.
+P5	Mama aliona korongo wanne wakiruka na mtoto wake mchanga.
+P6	Korongo walimlinda mtoto vyema.
+P7	Korongo walipokuwa hawako, chura alimmeza mtoto!
+P8	Chura alitaka zawadi ya nzi watatu. 
+
+Alimrudisha mtoto kwa wazazi wake.
+
+images:
+
+illustrations/pages/8485.png
+illustrations/pages/8479.png
+illustrations/pages/8482.png
+illustrations/pages/8154.png
+illustrations/pages/8156.png
+illustrations/pages/8485.png
+illustrations/pages/8484.png
+illustrations/pages/8483.png
+illustrations/pages/8486.png
+
+translations:
+
+English (Original)	Baby Snatched By Cranes	id=8487
+English (Adaptation)	Baby And Cranes	id=20910
+French (Translation)	Un Bébé Enlevé Par Des Grues	id=10144
+isiZulu (Translation)	Ingane Wahlwitha Ngi Indwa	id=11441
+Lámnsoʼ (Translation)	Wán Wo Vintùŋàshàʼshàʼ Vi Boŋrin 	id=21041
+Luganda (Translation)	Omwana Eya Nyakulibwa Ngaali	id=11903
+Sesotho (Lesotho) (Adaptation)	Ngoana Ea Ileng A Utsua Ke Mamokoatatsie	id=21158
+Tigrigna (Translation)	ህፃንን ዑፍን	id=21170

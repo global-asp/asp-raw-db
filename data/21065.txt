@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21065&d=0&a=1
+id:	21065
+title:	Igipupe Azizi
+author:	Daniel Tuyisenge
+artist:	Natalie Propa
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21065.png
+desc:	Uyu mwana yakundaga cyane ipupe ke. Igipupe ke cyari inshuti ye magara.
+
+page_text:
+
+P1	Dore Azizi. Azizi ni igipupe cyange.
+P2	Nkunda cyane Azizi kubera ko ahora aseka igihe cyose.
+P3	Iyo maze gukanguka, nkaraba mu maso. Hanyuma nkashakisha Azizi.
+P4	Iyo mbonye Azizi, musokoza imisatsi ye.
+P5	Iyo maze gusamura, mpa Azizi na we  icyo kurya.
+P6	Iyo ndi kurya bombo, mpa nanone Azizi.
+P7	Ariko Azizi ntarya bombo ze. Nibaza impamvu!
+P8	Ntembera mu busitani nkafata indabo.
+P9	Mpereza rumwe Azizi. Ariko ntavuge nta mba "murakoze."
+P10	Nkarabya Azizi mbere yuko mama ampereza ibase.
+P11	Nambika Azizi imyambaro y'umutuku, kubera ko nunda umutuku.
+P12	Iyo ngiye kuryama, ndyamisha Azizi iruhande rwange.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the Doll	id=9748
+French (Translation)	Azizi La Poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Lámnsoʼ (Translation)	Shibvə̀m Shee Azizi	id=16448
+Lugwere (Translation)	Odole Omulyabwita	id=16112

@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=20492&d=0&a=1
+id:	20492
+title:	የእንቁራሪት ቆዳ
+author:	Mezemir Girma
+artist:	Rob Owen
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20492.png
+desc:	ይህ ተረት እንቁራሪቶች እንዴት ወጣገባ ያለ ሰውነት ሊኖራቸው እንደቻለና ከውኃ ርቀው መኖር እንደሚችሉ ያብራራል፡፡
+
+page_text:
+
+P1	ሞድ የተባለው እንቁራሪት ውኃ ውስጥ መኖር ሰለቸው፡፡
+P2	‹‹ተጠንቀቅ›› አለ ኤሊ፡፡ ‹‹ቆዳህ ይደርቃል እኮ፡፡››
+P3	ሞድ ግን አዲስ ነገር ለማየት ስለፈለገ ዘሎ ወጣ፡፡
+P4	ዙሪያ ገባውን ቃኘ፡፡
+P5	አንድ ኩሬ ስር ወይንጠጅ እስስት አገኘ፡፡
+P6	እስስቷ ወደ ሮዝነት መቀየር ጀመረች! ሞድ ዘሎ ጠፋ፡፡
+P7	ከዚያ ጅብ እሳት ሲያይዝ አየው፡፡
+P8	እሳቱ ወደ ሞድ ተቃረበ፡፡
+P9	እሳቱ ቆዳውን አቃጠለው፡፡ ሞድ ተመልሶ ወደ ኩሬው ገባ፡፡
+P10	ቆዳው ግን ቆሳሰለ፡፡
+P11	ሞድ ከአንድ አለት ስር መኖሪያ አገኘ፡፡ ቆዳውም ደረቀ፤ ጠነከረ፡፡
+P12	አሁን እንቁራሪት ብቻ ነው ለስላሳ ቆዳ ያለውና በውኃ አቅራቢያ የሚኖረው፡፡
+
+images:
+
+illustrations/pages/13417.png
+illustrations/pages/13415.png
+illustrations/pages/13416.png
+illustrations/pages/13417.png
+illustrations/pages/13418.png
+illustrations/pages/13419.png
+illustrations/pages/13421.png
+illustrations/pages/13422.png
+illustrations/pages/13423.png
+illustrations/pages/13424.png
+illustrations/pages/13425.png
+illustrations/pages/13426.png
+illustrations/pages/13427.png
+
+translations:
+
+Afaan Oromo (Translation)	Gogaa Fattee	id=20424
+English (Original)	Mod the Toad	id=13546
+English (Adaptation)	How the Toad Got Its Skin	id=19766
+French (Translation)	Mod Le Crapaud	id=14527
+isiZulu (Translation)	Usele,  Iselesele	id=20669
+Kiswahili (Translation)	Namna Chura Alipata Ngozi Yake	id=20439
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
+Portuguese (Translation)	Mod, a Sapa	id=17037

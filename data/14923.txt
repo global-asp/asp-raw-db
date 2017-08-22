@@ -17,11 +17,13 @@ P3	Amakuru gakararanga omu kyaro kyona. Omusaija owuyabandize kwija akaba ali mu
 P4	Mukuru wa balinzi b'ebisoro nuwe yayongireho. Akaba ali murungi,  muto kandi mugaiga. Omwisiki akamwegomba. Baitu obuyahairwe ebijuma,  akabiriraho ahonaho,  kandi akabigwa.
 P5	Omusaija ondi owuyaizire akaba aine amataka maingi. Akaba aine omururu kandi mubi. Omwisiki yasaba ngu alye kandi agende. Obuyahairwe,  yayanga kulya. Akaire karabaho,  kandi omwisiki yatandika kumusaba alye. Nkasaaha ikumi zarwebagyo,  akakwatwa enjara,  kandi yalya. Nawe,  akabigwa.
 P6	N'omunyoro,  nawe akaija. Akaba aine omururu,  mukuru,  kandi mubi chu. Busaho ayamwendaga mukyaro. Omwisiki akaba nayenda ngu uwe alye kandi agende. Obuyahairwe ebijuma,  yayanga kubirya. Akaikaraho ekiro kyona. Nkasaha ikumi naibiri,  akasaba obwaraba nasobora kugenda mukyolooni.
-P7	Hanyuma yebiro bike,  mugenzi w'omukama omuto,  omurungi kandi mugaiga yahika. Omwisiki akamurora omukwegomba. Akamutwara harubaju,  kandi yamusaba kutalya ekijuma kyoona. Akamuha ebijuma kitaitoho kukira hali abandi. Baitu omwihagwe akaba amazire kulya kandi yabigwa. Habwekiniga omwisiki akatunga amaziga kandi yarra muno.
-P8	Ekiro ekindi,  omulimi akaija,  akaba ali munaku kandi mugara,  baitu akaba ali muto kandi namaywa abantu baingi muno habwokuba worugambo. Akaija amalirire kusinga. Omwisiki akamuha ebijuma bingi kandi yamusaba kulya akagenda.
-P9	Abazaire bakaba baina kuhayo muhara wabo hali "omugara." Omwisiki akeesengereza kumujuna kuruga omunyikara egi. Baitu bazairebe tibaine ekibakozireho. Omulimi obuyamutwaire mukaye,  akazina ekizina ekirungi obu natera omungaro. Abantu baingi bakaijura murugudo kurora abagonzangaine.
-P10	Abamu ha bantu bakaba bali bahereza bomukama. Bayeta omulimi harubaju,  kandi bamuha sente n'ente obwaraleka omwisiki. Hataroho akaire kwokwanga,  akatwara sente,  n'ente,  kandi yarugaho.
-P11	Abahereza ba jweka omwisiki mungoye enungi kandi bamutwara mukikaali,  halimutabani w'omukama. Mubusumi buke,  bakeeta bazairebe. Kandi omukoro gukatekanizibwa kuteeraniza ababiri mubuswezi.
+P7	Akaikirizibwa kugenda. Obuyagarukire,  akahooho kebijuma kamwetoorora,  kandi eminwaye yatukura! Akaba alire ekijuma mukyolooni! Habwokulekerwa kwomwisiki,  akabingwa.
+P8	Hanyuma yebiro bike,  mugenzi w'omukama omuto,  omurungi kandi mugaiga yahika. Omwisiki akamurora omukwegomba. Akamutwara harubaju,  kandi yamusaba kutalya ekijuma kyoona. Akamuha ebijuma kitaitoho kukira hali abandi. Baitu omwihagwe akaba amazire kulya kandi yabigwa. Habwekiniga omwisiki akatunga amaziga kandi yarra muno.
+P9	Ekiro ekindi,  omulimi akaija,  akaba ali munaku kandi mugara,  baitu akaba ali muto kandi namaywa abantu baingi muno habwokuba worugambo. Akaija amalirire kusinga. Omwisiki akamuha ebijuma bingi kandi yamusaba kulya akagenda.
+P10	Obuyahairwe,  yayanga kulya. Omwisiki yalindirra mubusasi. Ihagwe lyarabaho,  zahika saha munana. Saha ikumi,  omulimi yasaba amaizi. Omwisiki yasaba ngu alye ekijuma,  baitu akaba nasaba mpaka obuzahikire saha emu. Omulimi onu akaba asingwire ekirengeso ekyokugumisiriza ekyatairweho abazaire!
+P11	Abazaire bakaba baina kuhayo muhara wabo hali "omugara." Omwisiki akeesengereza kumujuna kuruga omunyikara egi. Baitu bazairebe tibaine ekibakozireho. Omulimi obuyamutwaire mukaye,  akazina ekizina ekirungi obu natera omungaro. Abantu baingi bakaijura murugudo kurora abagonzangaine.
+P12	Abamu ha bantu bakaba bali bahereza bomukama. Bayeta omulimi harubaju,  kandi bamuha sente n'ente obwaraleka omwisiki. Hataroho akaire kwokwanga,  akatwara sente,  n'ente,  kandi yarugaho.
+P13	Abahereza ba jweka omwisiki mungoye enungi kandi bamutwara mukikaali,  halimutabani w'omukama. Mubusumi buke,  bakeeta bazairebe. Kandi omukoro gukatekanizibwa kuteeraniza ababiri mubuswezi.
 
 images:
 
@@ -43,6 +45,7 @@ translations:
 English (Original)	Fruit	id=2124
 French (Translation)	Les Fruits	id=10182
 Gurene (Translation)	Tiisi Wɔla	id=12666
+Kinyarwanda (Translation)	Imbuto	id=20282
 Kiswahili (Translation)	Matunda	id=8431
 Likpakpaanl (Translation)	Lisubil	id=18777
 Lugbarati (Translation)	Pati Efi	id=2334
@@ -50,4 +53,4 @@ Lugbarati (Official) (Translation)	Patí Éfɨ́	id=8750
 Lumasaaba (Translation)	Bibyaano	id=3086
 Lumasaaba (Translation)	Bibyaano	id=8688
 Lunyole (Translation)	Ehibala	id=2333
-siSwati (Adaptation)	Sitselo	id=13072
+Siswati (Adaptation)	Sitselo	id=13072

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=21479&d=0&a=1
+id:	21479
+title:	Dog And Jackal
+author:	Baudouin Habingabwa
+artist:	Rob Owen
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21479.png
+desc:	Dog and Jackal were working for Sekamana….
+
+page_text:
+
+P1	Dog and Jackal were Sekamana's workers.
+
+They hunted for him during the day.
+P2	They guarded his compound at night.
+P3	Each evening, Sekamana ate good meat for dinner.
+
+But he gave only bones to Dog and Jackal.
+P4	One day, Jackal said to Dog, “We must rebel against Sekamana’s bad treatment. Run away with me!”
+P5	But out of respect and fear, Dog decided to stay. 
+
+Jackal ran away.
+P6	Soon, Sekamana noticed that Jackal was gone. "Where is my brave hunter?" he asked Dog. 
+
+Dog told him the whole story.
+P7	Since then Jackal has not returned.
+
+He hunts by himself and eats the meat he has hunted.
+P8	But Dog is still eating bones.
+
+images:
+
+illustrations/pages/25374.png
+illustrations/pages/25372.png
+illustrations/pages/25375.png
+illustrations/pages/25373.png
+illustrations/pages/25374.png
+illustrations/pages/25378.png
+illustrations/pages/25377.png
+illustrations/pages/25379.png
+illustrations/pages/25380.png
+
+translations:
+
+Kinyarwanda (Original)	Imbwa Na Nyiramuhari	id=21478

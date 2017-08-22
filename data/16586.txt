@@ -15,12 +15,14 @@ P1	Ono musomesa wange. Esiina lirye nje musomesa Nambubi. Ye ganyenda bugali.
 P2	Musomesa Nambubi atusomesa enjukuta epoleeri ko n'ejatuha. Panga ohusoma enjukuta jino: a,  e,  i,  o,  u.
 P3	Musomesa Nambubi amalangi: erando,  erya bululu,  erya kiragala,  erya namagi ko n'emali.
 P4	Ebiseera ebyegandaalo Musomesa Nambubi atwembera ahembo ahataŋenyusa.
-P5	Hu lwo bbalasa atuganira engano ejiŋamba hu basinde abahasingula.
-P6	Hu lwohubiri atuganira engano ejiŋamba hu bahasi abahasingula.
-P7	Hu lwohudatu atuganira engano ejiŋamba hu ngenda.
-P8	Hu lwohune atuganira engano ejiŋamba hu bulimi.
-P9	Aŋo ni hu lwohutaanu musomesa Nambubi gatuloma ohuganira ehibbubbu hy'abasomi engano ejeefe huwefe.
-P10	Omusomesa weefe nj'omusomesa asinga mu hyalo hyosi! Nindihula,  nenda mbe hya Musomesa Nambubi.
+P5	Ahembo ahataŋenyusa hatina haati: Hayuni mboje,  mboje,  Hali mboja.
+P6	Musomesa Nambubi amanyire engano nyingi. Hiisi ludaalo mu sabbiiti atuganira olugano lundi.
+P7	Hu lwo bbalasa atuganira engano ejiŋamba hu basinde abahasingula.
+P8	Hu lwohubiri atuganira engano ejiŋamba hu bahasi abahasingula.
+P9	Hu lwohudatu atuganira engano ejiŋamba hu ngenda.
+P10	Hu lwohune atuganira engano ejiŋamba hu bulimi.
+P11	Aŋo ni hu lwohutaanu musomesa Nambubi gatuloma ohuganira ehibbubbu hy'abasomi engano ejeefe huwefe.
+P12	Omusomesa weefe nj'omusomesa asinga mu hyalo hyosi! Nindihula,  nenda mbe hya Musomesa Nambubi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Translation)	Uthisha Uzanele	id=13537
 isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

@@ -1,0 +1,87 @@
+url:	http://africanstorybook.org/reader.php?id=20755&d=0&a=1
+id:	20755
+title:	Mutum Mai Tsawo Sosai
+author:	Muhammad Umar
+artist:	Catherine Groenewald
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20755.png
+desc:	Duk abinda ke kewaye da wannan mutum mai tsawo duk gajeru ne
+
+page_text:
+
+P1	Fatanyarsa gajera sosai.
+P2	Kofar gidansa gajeriya ce sosai.
+P3	Gadonsa dan karami sosai.
+P4	Kekensa dan karami sosai.
+P5	Wannan mutum ya na tsawo sosai.
+P6	Ya yi kotar fatanya mai tsawo.
+P7	Ya yi kofar gaidansa mai tsawo.
+P8	Ya yi gado mai tsawo.
+P9	Ya sayi keke mai tsawo sosai.
+P10	Ya zauna kan kujera mai tsawo sosai. Kuma ya ci abinci da cabi mai tsawo.
+P11	Ya bar gidansa ya koma cikin babban daji, ya zauna tsawon lokaci.
+
+images:
+
+illustrations/pages/309.png
+illustrations/pages/309.png
+illustrations/pages/310.png
+illustrations/pages/311.png
+illustrations/pages/314.png
+illustrations/pages/313.png
+illustrations/pages/316.png
+illustrations/pages/315.png
+illustrations/pages/317.png
+illustrations/pages/318.png
+illustrations/pages/319.png
+illustrations/pages/320.png
+
+translations:
+
+Afaan Oromo (Translation)	Namicha Baayyee Dheeraa	id=12955
+Afrikaans (Translation)	'n Baie Lang Man	id=11260
+Afrikaans (Translation)	'n Baie Lang Man	id=11370
+Arabic (Translation)	الرجل ذو القامة الطويلة	id=10122
+Aringati (Translation)	Ágóbí Ázó Mbílíkó Rĩ	id=9280
+Ateso (Translation)	Etunganan Lo Awojan Noi	id=20668
+ChiShona (Translation)	Murume Akarebesa	id=20649
+Dhopadhola (Translation)	Jal Ma Bor Tektek	id=18686
+Dhopadhola (Translation)	Jali Ma Bori Tektek Swa	id=20665
+English (Original)	A Very Tall Man	id=918
+English (Adaptation)	Thimba to the Rescue! 	id=20302
+French (Translation)	Un Homme Très Grand	id=9923
+French (Translation)	Un Très Grand Bonhomme	id=12615
+Fulfulde (Translation)	Gorko Mawnuɗo Sanne	id=10002
+Gurene (Translation)	Budaa N Ba’Am Wↄgε	id=12662
+Hausa (Niger) (Translation)	Wani Mutum Mai Ƙirma	id=9971
+Hausa (Nigeria) (Translation)	Wani Dogon Mutum	id=21360
+isiNdebele (Translation)	Uthimba Uyaphulukisa!	id=20824
+isiXhosa (Translation)	Indoda Ende Kakhulu	id=19288
+isiZulu (Translation)	Indoda Ende Elingana Nendlulamithi	id=3491
+isiZulu (Translation)	Walanyulelwa Ngu Themba!	id=20687
+Kakwa (Translation)	Ŋ Utu Laga a Lojo	id=9281
+Kanuri (Translation)	Kam Adǝ Dadua	id=10031
+Kinyarwanda (Translation)	Umugabo Areshe Chaane	id=20973
+Kinyarwanda (Translation)	Umugabo Muremure Cyane	id=21427
+Kiswahili (Translation)	Mwanamme Mrefu	id=1176
+Kumam (Translation)	Icuo A Bor Twatwal	id=20691
+Lámnsoʼ (Translation)	Wír Wo Wù Dàrìn É Ŋàŋ	id=16445
+Luganda (Translation)	Omusajja Omuwanvu Ennyo	id=8720
+Luganda (Translation)	Omusajja Omu Wanvuu Enyoo	id=21076
+Lugbarati (Translation)	Agu Azi Izu Ni	id=2329
+Lugbarati (Official) (Translation)	Ágʉ̀pɨ́ Ɨ́zʉ̀ Rɨ́	id=8780
+Lumasaaba (Translation)	Umusaani Umuleeyi Naabi	id=3004
+Lumasaaba (Translation)	Umuseza Umuleyi Nabi	id=20931
+Lunyole (Translation)	Omusinde Omuleŋi Obugali	id=2330
+Lusoga (Translation)	Omusaadha Omuleeyi  Einho	id=919
+Mampruli (Translation)	Dɔwa’Alli Pam	id=21220
+Ng’aturkana (Translation)	Ekile Lokooyan Noi	id=20341
+Rufumbira (Translation)	Umugabo Mulemule	id=20929
+Sesotho (South Africa) (Translation)	Thimba A Pholosa!	id=20847
+Setswana (Translation)	Monna O Motelele-Telele	id=2331
+Siswati (Translation)	Umfana Lonemusa 	id=20781
+Xitsonga (Translation)	Wanuna Wo Leha Swinene	id=21474
+Yoruba (Translation)	Ọkùnrin Gíga Púpọ̀ Kan	id=10688
+Zarma (Translation)	Gorzo	id=10098

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=21078&d=0&a=1
+id:	21078
+title:	Embwaa
+author:	Stellah Nakasango
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21078.png
+desc:	Olugeero luno lukwata kumusajja nanyini webwa jeyeesiga enyoo ate nga netoowaze nyoo jaali.
+
+page_text:
+
+P1	Wabeelayo omusajja ne bwaa yee.
+P2	Ayagala nyoo ebwaa
+P3	Yali nkozzi nyo era ya genda nga nayo mukatale okugula eyaama.
+P4	Okukiima amazzi ku mugga.
+P5	Okukuma buli kintu ewaaka.
+P6	Lumu, omusajja yebaaza embwa ye mugeri ejjjawufu enyo okubeera enesimbu.
+P7	Embwa yasanyuka nyo neyeyogera okukola enyo.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

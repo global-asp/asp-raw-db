@@ -40,11 +40,13 @@ illustrations/pages/14112.png
 
 translations:
 
+Acholi (Translation)	Yamo	id=21322
 English (Translation)	Wind	id=14119
 English (Adaptation)	Wind	id=15055
 French (Translation)	Le Vent	id=14967
 isiXhosa (Translation)	Umoya	id=14128
 isiZulu (Translation)	Umoya	id=15053
+Kinyarwanda (Translation)	Umuyaga	id=20857
 Kiswahili (Original)	Upepo	id=14118
 Kiswahili (Adaptation)	Upepo Mkali	id=18345
 Setswana (Translation)	Phefo	id=14129

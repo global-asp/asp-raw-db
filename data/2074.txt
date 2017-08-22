@@ -11,9 +11,13 @@ desc:	Haŋambi oyu balanga Namumbirya genda bugali ohulya aye sigenda hunyiiya. 
 
 page_text:
 
-P1	Olwolire yaaliyo namumbirya oyubalanganga baati Anansi. Omuhasi w'anansi gaali munyiyi mulaŋi mweene. Aye Anansi habuhya buhya gendanga ohulega hubiryo ebi behitundu benyiyiranga nabomumago gaawe.
-P2	Oludaalo lulala gemereeraho ŋa enyumba y'enduyu. Enduyu yaali meeriwe ow'omuhago. Anansi galomire nasamaliriye ati: "Mutamu yiyo omwo mulimo eryani Anansi gendanga eryani. Enduyu yaloma yiiti: "Litanya bulaŋi. Aye linanye muhamaanga ahatali haleŋi. Huuma hulye." "Nahendire,  wanduyu,  naye ndi nebiitu ebyohuhola," Anansi pogaloma muwangu. Aba hurindirira munyumba ya enduyu,  Enduyu yahamuŋaaye emirino ohuhola."
-P3	Anansi galoma ati,   "Manyire,  nabbote oluwuzi. Nesidihe oluwuzi olwo hu hugulu hwange nga sidiha olundi hu tamu yiyo. Eryani nirinanye,  ŋalula oluwuzi era ese naaje ninduluma!" Enduyu yaŋeega yiiti etehataha yino yaali yamahulu. Era yahozesewa.
+P1	Olwolire yaaliyo namumbirya oyu balanganga baati Anansi. Omuhasi w'anansi gaali munyiiyi mulaŋi mwene. Aye Anansi habuhyabuhya gendanga ohulega hu biryo ebi behitundu benyiyiiranga nabomumago gaawe.
+P2	Lulala Anansi gemereraha ŋa nyumba ya Wanduyu meriwe. Anansi nga abuusa ati, "Mutamu yiyo omwo mulimo eryani?"
+
+Anansi gendanga bugali eryani. Wanduyu nga agobolamo ati, "Litanyu bulaŋi. Aye linanye muhamonga ahatali haleŋi".
+
+Anansi ng'agobolamo ati, "Nahehendire aye ndi n'ebiitu eby'ohuholaho". Aba hulindirrira mu nyumba yo Wamaduyu, hani Wananduyu gamuŋaye emirimo ej'ohuhola.
+P3	Anansi galoma ati,   "Manyire,  nabbote oluwuzi. Nesidihe oluwuzi olwo hu hugulu hwange nga sidiha olundi hu tamu yiyo. Eryani ni rinanye,  ona ŋalule oluwuzi era ese naaje ni nduluma!" Enduyu yaŋeega yiiti etehataha yino yaali yamahulu. Era yahozesewa.
 P4	"Punyisa ebijanjari," Anansi gaŋunyirisa ko nasamasagalaye. Ahaloosa h'ebijanjaalo ebiri hunyiyiwa mu tamu. Ekima jarira,  "Nja hulye ebijanjaalo. Biri hupi hunya." Anansi galoma ati,  "Negomba ohuba bbaabba w'ekima," nundi era,  Anansi gateesa ohuhamba oluwuzi alusidihe hu hagulu huhwe ate oluyi olundi alusidihe hu gutamu gw'ebijanjaalo. Bbaabba w'ekima galobosa ati,  etehateha yino yaali yamahulu. Era yahozesewa.
 P5	Anansi gaŋunyirisa namasangalo eno pwaniaga era galoma ati,  "Punyira omuya gwamabboni,  amabboni n'omudugere,  ponefugirira!" Anansi galanga meriwe embiji y'omwisugu,  "Etamu yange yijuye amabboni n'omudugere! Nja hulye." Anansi galoma ati,  "Nahendire ohulya. Era nundi Anansi gateesa ohuhamba oluwuzi alusidihe hu hugulu huhwe,  oluyi olundi alusidihe hu tamu y'amabboni. Meeriwe embiji y'omwisugu gaŋeega ati etehateha yino yaali yamahulu,  era yahozesewa."
 P6	Aŋa Anansi golera hulwaabi,  gali nahabuzi nasidihire humagulu gage omunaana. Anansi galoma n'ohwepaaha ati,  "Yino etehateha ndaŋi,  oba tamu yani eneheerere ohunya?" Naŋaweene aŋo Anansi gaŋulira ohuŋalula hu hugulu hulala. "Aha," Anansi galoma. "Paŋo,  olwo nj'oluwuzi olusidihire hu lyani ly'Enduyu."
@@ -34,17 +38,23 @@ illustrations/pages/1069.png
 
 translations:
 
+Afaan Oromo (Translation)	Sharaariti Dadhaba	id=20428
+Amharic (Translation)	ሰነፉ አናንሲ	id=20489
 English (Original)	Lazy Anansi	id=1077
 English (Adaptation)	Lazy Anansi	id=19765
 French (Translation)	Anansi, La Fainéante	id=10850
+Hausa (Nigeria) (Translation)	Anansi Malalaci	id=20520
 isiZulu (Translation)	Anansi Ovilaphayo	id=11195
+isiZulu (Translation)	Ivila Elingu-Anansi	id=20724
 Kikamba (Translation)	Kitumi Kya Anansi Kwithiwa Na Maau Matheke Nyanya	id=2068
 Kiswahili (Translation)	Jinsi Anansi Alivyopata Miguu Minane Myembamba	id=2069
+Kiswahili (Translation)	Anansi Mvivu	id=20438
 Luganda (Translation)	Nabbubi Omunafu	id=2073
 Luganda (Translation)	Lwaki Nabbubi Erina Obugulu Munaana Obutono	id=8730
 Lugbarati (Translation)	E`yo Ebio Ma Pa Yin I Ovuzu Izia Izia Aro Ri	id=2070
 Lugbarati (Official) (Translation)	Ebìó Òvʉ́ó Rʉ Rɨ̀	id=8795
 Lumasaaba (Translation)	Lwashiina Wanaasi Nabubi Ali Ni Buukyele Shinaane Buunyelele	id=3012
+Lusoga (Translation)	Munansi Omunafu	id=20401
 Maa (Translation)	Káínyoo Peê Éátâ Anansi Inkejék Ísíet Rónkéní	id=2729
 Ng’aturkana (Translation)	Eyakar Anansi Ng’Akejen Ngakan-Kauni Nadiim	id=2075
 Oluwanga (Translation)	Esichira Anansi Naba Norulenje Orutiti Munane	id=2071

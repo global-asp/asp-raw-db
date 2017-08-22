@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=20840&d=0&a=1
+id:	20840
+title:	Umukobwa Utunva
+author:	Gaudah Gahima
+artist:	Catherine Groenewald, Vusi Malindi, Rob Owen, Natalie Propa, Ingrid Schechter and Melany Pietersen
+lang:	Rufumbira
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20840.png
+desc:	Imbozi yumukobwa utalunvilaga nyina akaba yalize isomo.
+
+page_text:
+
+P1	Kela habayeho umukobwa waliwitwa Emile. Emile ntabwo yunva.
+P2	Buli ubwo nyina yamubwilaga ngo agile icho yakola yalangaga.
+P3	Umusi gumwe nyina yaladwaye nuko alamusaba ngo aje kwanyilakulu kumuzanila umuti gwo kunwa Emile alanga. Kubelaa ntabwo yunvaga yashijimo kuja kwoga alikuja kwanyilakulu.
+P4	Bwalije nuko nyina atangila kugila ubwoba.
+P5	Nyina yakuye abokuchalo kumuyamba gushaka Emile.
+P6	Yali yilalikiliye kubela ko halihaliho igisimba chadyaga abakobwa batoya nijolo.
+P7	Abakobali bali kumushaka we yali yibeleye mukidiba alikwoga. Ntabwo yabonye umwijima.
+P8	Isaha yukudyayigisimba yalageze nuko gitangila kuja gushaka ichokudya. Uko chalikili kugenda chatangiye guhumulidwa agakobwa gatoya. Abantu bichalo balibatanye kwegela ikidiba
+P9	Emile yabonye igisimba gitangiye kuza nuko atela indulu. Abantu bichalo bunvise  agakobwa kali gutela indulu nuko balegeleze
+P10	Abantu basanze Emile akili mumazi. Yali afite ubwoba bwinchi chane. Kuvana ugomusi yamenye kubahiliza nyina.
+
+images:
+
+illustrations/pages/8665.png
+illustrations/pages/8661.png
+illustrations/pages/7518.png
+illustrations/pages/8630.png
+illustrations/pages/8559.png
+illustrations/pages/8558.png
+illustrations/pages/8115.png
+illustrations/pages/8643.png
+illustrations/pages/8114.png
+illustrations/pages/7584.png
+illustrations/pages/8025.png
+
+translations:
+
+English (Original)	A Naughty Girl	id=8702
+English (Adaptation)	Ketty the Naughty Girl	id=13638
+Lumasaaba (Translation)	Umu Kana Wiyangala 	id=20600
+Lunyole (Translation)	Omuhaana Owehyeju	id=12910
+Runyankore (Translation)	Omwishikyi Wekyeezo	id=20937

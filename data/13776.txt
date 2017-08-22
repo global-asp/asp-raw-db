@@ -3,7 +3,7 @@ id:	13776
 title:	Nogwaja Ngaphasi Kwesihlahla
 author:	Khulekani Mabuza and Adam Nkambule
 artist:	Wiehan de Jager
-lang:	siSwati
+lang:	Siswati
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/13776.png
@@ -24,9 +24,10 @@ P10	"Ngive loku lokukhulunywe yinja lapho itsi,  nayo ayati kepha ive lokhu loku
 P11	Bahlangana nenkhomo. Inkhomo yabuta,  "Yindzaba nibaleka?" Imbongo yaphendvula,  "Nami angati."
 P12	"Ngisandza kuva nge Lihhashi loku lelitsi nalo alikwati nalo live ngenja nayo lengati lutfo nayo. Inja yona ive ngenkhukhu nayo lengati lutfo yona leve ngalogwaja lotse uve intfo letsite iwa esihlahleni kwavakala nelivi litsi: Baleka logwaja baleka!" Inkhomo beyikhatsatekile nayo yacala kugijima.
 P13	Letilwane tase tihlanga nelikati,  lase liyababuta,  "Yindzaba nibaleke?" Inkhomo yaphendvula,  "Mine angati."
-P14	Ne likati lacala lagijima kanye naletinye tilwane.
-P15	Base bahlangana nemfana atiihambela ngebhayisikili yakhe wase wabuta,  "Yindzaba nibaleka?" Tilwane ngekuhlanganyela taphendula tatsi,  "Asati. Sive loku logwaja logwaja latsi akakakuva. Utsi uve intfo letsite iwa kwase kuvakala livi litsi: Baleka logwaja baleka!"
-P16	Umfana wavele wafa insini wavakala sekatsi,  "Li apula leliwe esihlahleni ngobe bekunemoya. Ngimi lengitse: Baleka logwaja baleka!"
+P14	Ngisandza kuva loku lokukhulunywe yimbongolo nayo lengati lutfo,  nayo ive ngelihhashi nalo lelingati lutfo,  nalo live lokukhulunywe yinja,  nayo lengati lutfo yona ive lokukhulunywe inkhukhu,  nayo lengati lutfo naye ive loku lokuvela kulogwaja lotsi naye akati lutfo kepha uve intfo iwa kwase kwevakala livi litsi: Baleka logwaja baleka!
+P15	Ne likati lacala lagijima kanye naletinye tilwane.
+P16	Base bahlangana nemfana atiihambela ngebhayisikili yakhe wase wabuta,  "Yindzaba nibaleka?" Tilwane ngekuhlanganyela taphendula tatsi,  "Asati. Sive loku logwaja logwaja latsi akakakuva. Utsi uve intfo letsite iwa kwase kuvakala livi litsi: Baleka logwaja baleka!"
+P17	Umfana wavele wafa insini wavakala sekatsi,  "Li apula leliwe esihlahleni ngobe bekunemoya. Ngimi lengitse: Baleka logwaja baleka!"
 
 images:
 
@@ -58,6 +59,7 @@ CiNyanja (Translation)	Kalulu Munsi Mwa Mutengo	id=18669
 Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
 English (Translation)	Rabbit Under the Tree	id=7734
 English (Adaptation)	Test Edit	id=16731
+English (Adaptation)	Run Rabbit Run!	id=20888
 French (Translation)	Le Lapin Sous Un Arbre	id=10154
 Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
 IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
@@ -65,13 +67,17 @@ isiXhosa (Translation)	Umvundla Phantsi Komthi	id=17581
 isiZulu (Original)	Unogwaja Ngaphansi Kwesihlahla	id=7664
 isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
 Kiswahili (Translation)	Sungura Chini Ya Mti	id=8438
+Kiswahili (Translation)	Kimbia Sungura, Kimbia!	id=21140
 Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
 Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lumasaaba (Translation)	Tima Ssunguda Tima	id=20999
 Lunyole (Translation)	Enduyu Ŋaasi W’Omuyembe	id=16585
+Ng’aturkana (Translation)	Apoo Na Epung’Ar!	id=21135
 Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
 Sepedi (Translation)	Mmutla Ka Tlase Ga Mohlare	id=18135
 Sesotho (South Africa) (Translation)	Mmutlanyana Tlasa Sefate	id=20049
 Setswana (Translation)	Mmutla Mo Tlase Ga Setlhare	id=15041
 SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
+Tigrigna (Translation)	ጉየይ ማንቲለ፣ ጉየይ 	id=21188
 Tshivenda (Translation)	Muvhuḓa Fhasi Ha Muri	id=18322
 Xitsonga (Translation)	Kondlo Ehansi Ka Murhi	id=19020

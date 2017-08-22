@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=20642&d=0&a=1
+id:	20642
+title:	Akaisiki Akato
+author:	Jerome Atugonza
+artist:	Wiehan de Jager, Sarah Bouwer, Padmanabha, Brandan Reynolds and blackmoondev.com
+lang:	Runyoro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20642.png
+desc:	Akaisiki akato bakakatuma owa isenkuru wako. Omumuhanda
+
+page_text:
+
+P1	akaisiki akato abazaire be bakakatuma mwa esi nkuru waye awyalara ga mukibira. Akaisiki kakagenda konka nokujaguza kwingi
+P2	omyisiki yeyahikire mu kibira, yasanga embuzi, yamugamba nti wengendereze habyokuba haliyo orusoronkana rwebisolo by'mukibira
+P3	omusiki weyakire hagati yekibira, yasanga ebisoro bingi omuhanda yairuka muno natooka
+P4	weyaturikire omukibira, yasanga ebinyonyi bingi hamu nebitooka. Omyisiki yairuka natooka. Ise'kuru wamuhuura
+P5	Isi'nkuru yabaza nomukazi we nti ogo myijukuru waitu. Yagenda yo mangu ne embwa ye kumurora
+P6	webakire omuka, yaramukya burionmu na baana abandi emere. weyamazire, yatandika banyumiza ebya mubaireho omumuhanda.
+P7	weyamazire kubanyumiza kandi bamuha amagezi aga kutagarukamu kulibata wenka omu kibira, yagenda nekujaguza kwingi kuzana naaba abandi
+P8	Atakyore kulibata wenka mu kibira.
+
+images:
+
+illustrations/pages/19826.png
+illustrations/pages/19826.png
+illustrations/pages/13351.png
+illustrations/pages/10233.png
+illustrations/pages/292.png
+illustrations/pages/17295.png
+illustrations/pages/13930.png
+illustrations/pages/14062.png
+illustrations/pages/2039.png
+
+translations:
+
+Dhopadhola (Translation)	Nyako Mathini	id=20970
+English (Original)	A Little  Girl 	id=20550
+Hausa (Nigeria) (Translation)	Wata Karamar Yarinya	id=20759
+Kinyarwanda (Translation)	Umukobwa Muto	id=20962
+Luganda (Translation)	Omuwala Omuto	id=20946

@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=21097&d=0&a=1
+id:	21097
+title:	Bona Ebisolo
+author:	Christopher Bukheye Mulongo
+artist:	Sandy Campbell
+lang:	Lunyole
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21097.png
+desc:	Engeri ebisolo biroma. Engeri ebisolo biroma!
+
+page_text:
+
+P1	Bona ebisolo.
+P2	Eŋombe yiroma yiiti, “Mo-o-o.”
+P3	Embusi
+  yiroma yiiti,
+  "me-e-e.”
+P4	Embalaasi
+  yiroma yiiti,
+  "Ur-r-r."
+P5	Embiiji yiroma yiiti, "U-u-u-u."
+P6	Engoho
+  yiroma yiiti,
+  ”Ko-ko-ko.”
+P7	Embwa
+  yiroma yiiti,”Wo-wo-wo.”
+P8	Omulimi aloma ati,
+  "Ssshhhh!"
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/1750.png
+illustrations/pages/1751.png
+illustrations/pages/1752.png
+illustrations/pages/1753.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+Amharic (Translation)	እንስሳቱን ተመልከቱ	id=21234
+Arabic (Translation)	اُنْظُرْ إِلَى الحَيَوَانَاتِ	id=20369
+Ateso (Translation)	Ongolia Ityiang Lu	id=9209
+English (Original)	Look at the Animals	id=1221
+English (Adaptation)	Domestic Animals	id=9680
+English (Adaptation)	Look at the Animals	id=10257
+Hausa (Nigeria) (Translation)	Kalli Dabbobin	id=21368
+isiXhosa (Translation)	Izilwanyana Zasekhaya	id=2539
+isiZulu (Translation)	Izilwane Zasepulazini	id=2540
+Kinyarwanda (Translation)	Inyamaswa Zo Mu Rugo	id=20732
+Kiswahili (Translation)	Watazame Wanyama	id=9479
+Kiswahili (Adaptation)	Wanyama Wa Kufugwa	id=9681
+Kiswahili (Adaptation)	Manyati Na Wanyama Wake	id=16742
+Lugbarati (Translation)	Mi Ne Nga Anyapa 'diyi	id=12648
+Lunyole (Translation)	Bona Esolo	id=11618
+Lunyole (Adaptation)	Boon Ebisolo	id=16737
+Rutooro (Adaptation)	Test Dora Ebisoro Sd	id=16736
+Rutooro (Adaptation)	Test Dora Ebisoro Nm	id=16741
+Rutooro (Adaptation)	Test Dora Ebisoro	id=16743
+Sepedi (Translation)	Diphoofolo Tša Ka Gae	id=2544
+Sesotho (Lesotho) (Translation)	Liphohofolo Tsa Polasing	id=2543

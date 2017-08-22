@@ -1,25 +1,25 @@
 url:	http://africanstorybook.org/reader.php?id=11598&d=0&a=1
 id:	11598
-title:	Ibikorwa By'inka Idasanzwe
+title:	Inka Idasanzwe
 author:	Martin Arabaruta
 artist:	Danielle Bruckert
 lang:	Kinyarwanda
 level:	First words
 lic:	Creative Commons: Attribution-Non Commercial 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/11598.png
-desc:	A story for toddlers about a cow with a daytime identity as a soft toy
+desc:	Iyi ni inkuru yabana bato cyane yerekeye inka iba ari igikinisho ku manywa
 
 page_text:
 
 P1	Iyi ni inka. Inka ni nziza!
 P2	Ku manywa, iba ari inka isanzwe.
 P3	Igurutsa akadege.
-P4	Ikina umupira.
+P4	Igakina umupira.
 P5	Mu ijoro,  iba inka idasanzwe!
-P6	Itabara abantu.
+P6	Igatabara abantu.
 P7	 Kandi ikarwanya ibyaha.
 P8	Ariko uramutse ufunze amaso yawe neza, ugatanga ikifuzo.
-P9	Inka ishobora nawe kuza kugusura!
+P9	Iyi nka ishobora kugusura nawe!
 P10	Iherezo.
 
 images:
@@ -41,12 +41,11 @@ translations:
 English (Original)	The Adventures of Supercow	id=1239
 French (Translation)	Les Aventures De Super Vache	id=9954
 Fulfulde (Translation)	Haayndeeji Ɗi Nagge	id=10000
-Hausa (Translation)	Labarin Wata Saniya	id=9969
+Hausa (Niger) (Translation)	Labarin Wata Saniya	id=9969
 isiXhosa (Translation)	Amaphulo Enkomo Yodumo	id=2153
 isiZulu (Translation)	Izigigaba Zenkomo Yezimanga	id=2155
 Kanuri (Translation)	Awowa Fero Wakkajǝgǝna	id=10029
 Kikamba (Translation)	Myangangĩle Ya Ng’Ombe Ya Vinya	id=2189
-Kinyarwanda (Translation)	Inka Idasanzwe	id=11597
 Kiswahili (Translation)	Vituko Vya Ng’Ombe Shujaa	id=5314
 Luganda (Translation)	Ebikwata Ku Wante Ow'ebyewuunyo	id=2194
 Lugbarati (Translation)	Ayoko Nyaza Ti Okpo Be Ri Ni Ri	id=2151

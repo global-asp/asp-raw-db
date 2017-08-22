@@ -12,7 +12,7 @@ desc:	Nonkungu a endzela malume wa yena kutani mhani wa yena u n’wi nyikile xi
 page_text:
 
 P1	Khale ka khaleni,  a ku ri na swisiwana swa vatekani. A va ri na n'wana un'we ntsena,  loyi a vuriwa Nonkungu. A a va n'wi rhandza swinene. Loko a kurile vatswari va yena va tekile Nonkungu ku ya tshama na Mtonyama,  malume wa yena wa xifumi. Mhani wa Nonkungu u n'wi rhungele swiambalo swo hlawuleka leswi nga na rhibono,  tikunupu na vuhlalu. Nakambe u rhungele n'wana wa yena vuhlalu bya le nhan'wini byo saseka. Endzhaku ka sweswo,  u sukile a ya etikweni leri a ku tshama malume wa yena.
-P2	Loko a ri erendzweni ra yena,  Nonkungu u fikile exinambyanini. U tsemakanyile xinambyana kutani a hlangana na nhwanyana a ambarile switlakati. Nhwanyana u vutisile a ku,  "Xana u ya kwihi?" "Ndzi endzela malume wa mina Mtonyama," ku hlamula Nonkungu. "Hi swona,  Mtonyama i malume wa mina na mina! Na mina ndzi le ndleleni yo n'wi endzela," ku vula nhwanyana. Hiloko va famba kun'we. Endzhaku ka nkarhinyana,  nhwanyana hiloko a ku eka Nonkungu,  "Swiambalo swa wena swi sasekile. Ndzi kombela leswaku ndzi ringeta ku swi ambala."
+P2	Loko a ri erendzweni ra yena, Nonkungu u fikile exinambyanini. U tsemakanyile xinambyana kutani a hlangana na nhwanyana a ambarile switlakati. Nhwanyana u vutisile a ku, "Xana u ya kwihi?" "Ndzi endzela malume wa mina Mtonyama," ku hlamula Nonkungu. "Hi swona,  Mtonyama i malume wa mina na mina! Na mina ndzi le ndleleni yo n'wi endzela," ku vula nhwanyana. Hiloko va famba kun'we. Endzhaku ka nkarhinyana, nhwanyana hiloko a ku eka Nonkungu, "Swiambalo swa wena swi sasekile. Ndzi kombela leswaku ndzi ringeta ku swi ambala."
 P3	Nonkungu u hluvurile swiambalo swa yena kutani a swi nyika nhwanyana. Loko nhwanyana a hluvurile switlakati swa yena,  Nonkungu u kumile leswaku u na ncila! Nonkungu a a chava. U swi vonile xikan'we leswaku nhwanyana a a ri nkolombyana. Va fambile va ya emahlweni katsongo,  kutani endzhaku ka sweswo Nonkungu a kombela a ku,  "Ndzi kombela u ndzi tlherisela swiambalo na vuhlalu bya mina."
 P4	Nkolombyana a hlamula a ku,  "Ndzi pfumelele ndzi ambala ku kondza ndzi fika eka murhi lowu landzelaka." Ivi wu kombetela eka murhi lowu wu nga ehenhla ka xintshabyana xa le kusuhi. Loko va fika emurhini,  Nonkungu u kombele nkolombyana a ku,  "Ndzi kombela u ndzi tlherisela swimbalo na vuhlalu bya mina." "Ndzi pfumelele ndzi swi ambala ku kondza hi fika ensin'wini leyiya," ku vula nkolombyana. Ivi wu kombetela eka nsimu leyi nga kusuhi na xintshabyana. Nonkungu a a chava,  hikokwalaho u pfumerile.
 P5	Eku heteleleni va fikile ensin'wini. Nakambe Nonkungu u komberile nkolombyana a ku,  "Ndzi kombela u ndzi tlherisela swiambalo na vuhlalu bya mina." "Ndzi pfumelele ndzi swi ambala ku kondza hi fika eka yindlu leyi ku tshamaka wansati loyi a nga tshama," ku vula nkolombyana. Ivi wu komba eka yindlu leyi yi nga eka mpfhukanyana. Hiloko va famba va ya emahlweni. Loko va fika endlwini,  nkolombyana wu susumetele Nonkungu endzhaku kutani wu tsutsuma wu ya emahlweni.
@@ -43,6 +43,7 @@ illustrations/pages/1190.png
 translations:
 
 Afrikaans (Translation)	Nonkungu en Die Imbulu	id=11532
+Afrikaans (Translation)	Nonkungu en Die Imbulu	id=20089
 ChiTonga (Translation)	Nonkungu Alimwi Anabulwe	id=18655
 CiNyanja (Translation)	Nonkungu Na Mbulu	id=18673
 Ekegusii (Translation)	Nokungu N’Eimbulu	id=2097
@@ -71,6 +72,7 @@ Oluwanga (Adaptation)	Nashimuli Nende Okunani	id=19594
 Sepedi (Translation)	Nonkungu Le Imbulu	id=18156
 Sesotho (Lesotho) (Translation)	Ts'epang Le Katse Ea Lehata	id=2158
 Sesotho (Lesotho) (Translation)	Nonkungu Le Imbulu	id=2705
+Sesotho (South Africa) (Translation)	Neo Le Lempetje	id=20047
 Setswana (Translation)	Neo Le Lelobu	id=17663
 SiLozi (Translation)	Nonkungu Ni Hopani	id=18745
 Tshivenda (Translation)	Nonkungu Na Mbulu	id=18192

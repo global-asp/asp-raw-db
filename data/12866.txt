@@ -12,19 +12,20 @@ desc:	Tortue cherche sa maison. Où va-t-elle la trouver ?
 page_text:
 
 P1	Un jour,  Tortue marchait dans le veld. Elle regardait partout. Elle regardait au loin et dans l'herbe. Et puis,  elle croisa Escargot.
-P2	Escargot dit: "Non,  je ne l'ai pas vue,  mais je vais t'aider à chercher." Il grimpa sur la carapace de Tortue. Tortue reprit sa route avec Escargot sur le dos. Ils cherchèrent et cherchèrent,  mais aucun signe d'une maison. Le soleil était haut dans le ciel.
-P3	Un peu plus tard,  ils croisèrent Moineau. "Vous cherchez quelque chose?"  demanda Moineau. "Oui,  Moineau,  je cherche ma maison. Est-ce que tu l'aurais vue,  par hasard?" Moineau dit: "Non,  je ne l'ai pas vue,  mais je vais t'aider à chercher."
-P4	Il battit des ailes et fila au loin. "Mais tu vas trop vite pour moi",  se plaignit Tortue. Moineau revint: "Alors,  je vais monter sur ton dos,  moi aussi."
-P5	Tortue continua,  avec Escargot et Moineau perches sur sa carapace. Ils cherchèrent et cherchèrent,  mais aucun signe de maison. Le soleil avait un peu baissé dans le ciel.
-P6	Un peu plus tard,  ils croisèrent Coccinelle. "Vous cherchez quelque chose?"  demanda Coccinelle. "Oui,  Coccinelle,  je cherche ma maison. Est-ce que tu l'aurais vue,  par hasard?"
-P7	Coccinelle dit: "Non,  je ne l'ai pas vue,  mais je vais t'aider à chercher." Elle sauta sur le dos de Tortue qui reprit son chemin,  avec Escargot,  Moineau et Coccinelle perchés sur le dos. Ils cherchèrent et cherchèrent,  mais aucun signe de maison. Une petite brise commençait à souffler.
-P8	Un peu plus tard ils croisèrent Souris,  qui tressait une couronne de marguerites. "Vous cherchez quelque chose?"  demanda Souris. "Oui,  Souris,  je cherche ma maison. Est-ce que tu l'aurais vue,  par hasard?"
-P9	Souris dit: "Non,  je ne l'ai pas vue,  mais je vais t'aider à chercher." Et elle sauta sur le dos de tortue. "Attendez,  je ne peux pas laisser mes fleurs derrière." Tortue attendit. Souris tendit la patte et ramassa ses marguerites.
-P10	Tortue repartit,  avec Escargot et Moineau et Coccinelle et Souris sur son dos. Ils cherchèrent et cherchèrent,  mais aucun signe d'une maison. Le vent soulevait les feuilles et les faisait tourner autour des pieds de Tortue. Tortue était fatiguée. "Vous êtes lourds",  soupira-t-elle.
-P11	Le vent devint plus fort. Le ciel s'assombrit. "Oh,  où est ma maison?"  demanda Tortue. Le tonnerre grondait sur les collines. Les éclairs tombaient au loin. Plic,  plic,  faisait la pluie. "Oh,  où est la maison de Tortue?"  demandèrent Escargot et Moineau et Coccinelle et Souris.
-P12	Le vent tourbillonnait et fouettait. Il fit tomber Escargot et Moineau et Coccinelle et Souris du dos de Tortue.
-P13	Puis vint la grêle,  tac-tac-tac. Tortue eut si peur qu'elle se recroquevilla dans sa carapace. C'était chaud et douillet à l'intérieur. "Oh,  voici ma maison!"
-P14	"Oh,  voici la maison de tortue!"
+P2	"Tu cherches quelque chose?"  demanda Escargot. "Oui,  Escargot,  je cherche ma maison. Est-ce que tu l'aurais vue,  par hasard?"
+P3	Escargot dit: "Non,  je ne l'ai pas vue,  mais je vais t'aider à chercher." Il grimpa sur la carapace de Tortue. Tortue reprit sa route avec Escargot sur le dos. Ils cherchèrent et cherchèrent,  mais aucun signe d'une maison. Le soleil était haut dans le ciel.
+P4	Un peu plus tard,  ils croisèrent Moineau. "Vous cherchez quelque chose?"  demanda Moineau. "Oui,  Moineau,  je cherche ma maison. Est-ce que tu l'aurais vue,  par hasard?" Moineau dit: "Non,  je ne l'ai pas vue,  mais je vais t'aider à chercher."
+P5	Il battit des ailes et fila au loin. "Mais tu vas trop vite pour moi",  se plaignit Tortue. Moineau revint: "Alors,  je vais monter sur ton dos,  moi aussi."
+P6	Tortue continua,  avec Escargot et Moineau perches sur sa carapace. Ils cherchèrent et cherchèrent,  mais aucun signe de maison. Le soleil avait un peu baissé dans le ciel.
+P7	Un peu plus tard,  ils croisèrent Coccinelle. "Vous cherchez quelque chose?"  demanda Coccinelle. "Oui,  Coccinelle,  je cherche ma maison. Est-ce que tu l'aurais vue,  par hasard?"
+P8	Coccinelle dit: "Non,  je ne l'ai pas vue,  mais je vais t'aider à chercher." Elle sauta sur le dos de Tortue qui reprit son chemin,  avec Escargot,  Moineau et Coccinelle perchés sur le dos. Ils cherchèrent et cherchèrent,  mais aucun signe de maison. Une petite brise commençait à souffler.
+P9	Un peu plus tard ils croisèrent Souris,  qui tressait une couronne de marguerites. "Vous cherchez quelque chose?"  demanda Souris. "Oui,  Souris,  je cherche ma maison. Est-ce que tu l'aurais vue,  par hasard?"
+P10	Souris dit: "Non,  je ne l'ai pas vue,  mais je vais t'aider à chercher." Et elle sauta sur le dos de tortue. "Attendez,  je ne peux pas laisser mes fleurs derrière." Tortue attendit. Souris tendit la patte et ramassa ses marguerites.
+P11	Tortue repartit,  avec Escargot et Moineau et Coccinelle et Souris sur son dos. Ils cherchèrent et cherchèrent,  mais aucun signe d'une maison. Le vent soulevait les feuilles et les faisait tourner autour des pieds de Tortue. Tortue était fatiguée. "Vous êtes lourds",  soupira-t-elle.
+P12	Le vent devint plus fort. Le ciel s'assombrit. "Oh,  où est ma maison?"  demanda Tortue. Le tonnerre grondait sur les collines. Les éclairs tombaient au loin. Plic,  plic,  faisait la pluie. "Oh,  où est la maison de Tortue?"  demandèrent Escargot et Moineau et Coccinelle et Souris.
+P13	Le vent tourbillonnait et fouettait. Il fit tomber Escargot et Moineau et Coccinelle et Souris du dos de Tortue.
+P14	Puis vint la grêle,  tac-tac-tac. Tortue eut si peur qu'elle se recroquevilla dans sa carapace. C'était chaud et douillet à l'intérieur. "Oh,  voici ma maison!"
+P15	"Oh,  voici la maison de tortue!"
 
 images:
 
@@ -52,6 +53,7 @@ isiNdebele (Translation)	Ufudu Uthola Indlu Yakhe	id=13781
 isiZulu (Translation)	Ufudu Uthola Indlu Yakhe	id=11291
 isiZulu (Translation)	Tortoise Finds His House	id=11303
 Kiswahili (Translation)	Nyumba Ya Kobe	id=12692
+Lusoga (Translation)	Enkhudhu Yazuula Enhumba  Yaayo	id=21298
 Ng’aturkana (Translation)	Aanyuni Abokok Akai Keng	id=12685
 Oluwanga (Translation)	Likhutu Linyoola Inzu Yalio	id=13018
 Portuguese (Translation)	A Tartaruga Encontra a Sua Casa	id=19218

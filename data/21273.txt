@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=21273&d=0&a=1
+id:	21273
+title:	 Bileri
+author:	Bishop Willis CPTC Student Teachers
+artist:	Microsoft Clip Art
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21273.png
+desc:	Bireri ki ebileeta ekyuka ye mbeera yo butonde.
+
+page_text:
+
+P1	Ebireri bitonesa amadhi.
+  Nenda ebireri.
+P2	Ebireri bisobola okuleta
+  omugozi. Nenda ebireri.    
+P3	Ebireri bisobola okubwika
+  kunduba.Nenda ebireri.
+P4	 Ebireri bisobola okukumunye.Nenda ebireri.
+
+images:
+
+illustrations/pages/2115.png
+illustrations/pages/2116.png
+illustrations/pages/2117.png
+illustrations/pages/2118.png
+illustrations/pages/2119.png
+
+translations:
+
+Anywak (Translation)	Pøøl	id=12630
+English (Original)	Clouds	id=2122
+English (Adaptation)	Weather	id=10261
+Luganda (Translation)	Ebire	id=6270
+Lusamia (Translation)	Amaaresi	id=21481
+Ng’aturkana (Translation)	Ng'idowon	id=7036
+Setswana (Translation)	Maru	id=7892
+Somali (Translation)	Daruuraha	id=16759

@@ -13,20 +13,20 @@ page_text:
 
 P1	Igama lami nguSimo.
 P2	Nginabangane abane.
-P3	Amagama abo nguZizo,  uLele,  uSisa,  no-Ayanda.
+P3	Amagama abo nguZizo, uLele, uSisa, no-Ayanda.
 P4	Umngane wami uZizo uthanda ibhola.
 P5	Umngane wami uLele uthanda ukubhukuda.
 P6	Umngane wami uSisa uthanda umacashelana.
 P7	Umngane wami u-Ayanda uthanda ukufunda.
-P8	Mina-ke,  ngithanda konke abakuthandayo.
+P8	Mina-ke, ngithanda konke abakuthandayo.
 P9	Ngidlala ibhola noZizo.
 P10	Ngibhukuda edamini noLele.
 P11	Ngidlala umacashelana noSisa.
-P12	Woza mngani. Wena,  uthandani?
-P13	Woza,  uzodlala ibhola nathi.
-P14	Woza,  uzobhukuda nathi.
-P15	Woza,  uzodlala umacashelana nathi.
-P16	Woza,  uzofunda nathi!
+P12	Woza mngani. Wena, uthandani?
+P13	Woza, uzodlala ibhola nathi.
+P14	Woza, uzobhukuda nathi.
+P15	Woza, uzodlala umacashelana nathi.
+P16	Woza, uzofunda nathi!
 
 images:
 
@@ -64,6 +64,7 @@ isiXhosa (Translation)	Abahlobo	id=9880
 Kiswahili (Translation)	Marafiki	id=16084
 Lugwere (Translation)	Bakaagwa	id=16114
 Lunyole (Translation)	Ab’Omuhago	id=16421
+Mampruli (Translation)	Zɔadima	id=20110
 Ng’aturkana (Translation)	Ng'ipalon	id=15579
 Oluwanga (Translation)	Abetsa	id=19794
 Portuguese (Translation)	Amigos	id=16417
@@ -71,6 +72,7 @@ Sepedi (Translation)	Bagwera	id=18979
 Sesotho (South Africa) (Translation)	Metswalle	id=20027
 Setswana (Translation)	Ditsala	id=15037
 SiLozi (Translation)	Balikani	id=18620
+Talen (Translation)	Zɔnam	id=20192
 Tshivenda (Translation)	Khonani	id=18299
-Tunisian (Translation)	Ṡuħàb	id=15388
+Tunisian (Translation)	Aṣħāb	id=15388
 Xitsonga (Translation)	Vanghana	id=18879

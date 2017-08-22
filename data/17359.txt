@@ -11,25 +11,25 @@ desc:	Kwakomise kakhulu ezweni uTsheketshe omncane wayenxanwe kakhulu. Wehlela e
 
 page_text:
 
-P1	Kusehlobo,  ilanga liphumile. Kusehlathini elomile.
+P1	Kusehlobo, ilanga liphumile. Kusehlathini elomile.
 P2	Sekudlule izinsuku eziningi uTsheketshe engenamanzi.
-P3	Ngidinga iconsi lamanzi,  noma ngabe liphuma eqabungeni nje.
+P3	Ngidinga iconsi lamanzi, noma ngabe liphuma eqabungeni nje.
 P4	Kodwa akusekho namazolo lawa.
-P5	"Uma ngingatholi amanzi manje,  ngizofa. Kuzomele ngiye kulo mfula engake ngezwa ngawo," kusho uTsheketshe.
-P6	"Hhayi bo! Uzomuka nomfula,  umfula ugcwele," kuxwayisa uNgwejeje ohlakaniphile.
+P5	"Uma ngingatholi amanzi manje, ngizofa. Kuzomele ngiye kulo mfula engake ngezwa ngawo," kusho uTsheketshe.
+P6	"Hhayi bo! Uzomuka nomfula, umfula ugcwele," kuxwayisa uNgwejeje ohlakaniphile.
 P7	Kodwa uTsheketshe wayome kakhulu. "Ngizofa uma ngingatholi manzi," kusho yena.
 P8	UTsheketsheke wahamba wayofuna umfula.
 P9	Wahamba enqamula otshanini obomile nasemagatsheni omile.
 P10	Wezwa ukuhaza kwamanzi.
-P11	UTsheketshe wathi,  "Ngibonwa yini,  amanzi! Waphuza ephindelela."
-P12	Uthe engazelele,  wangenisa ngamandla umfula.  Shwi! Zaya kuTsheketshe.
+P11	UTsheketshe wathi, "Ngibonwa yini, amanzi! Waphuza ephindelela."
+P12	Uthe engazelele, wangenisa ngamandla umfula. Shwi! Zaya kuTsheketshe.
 P13	Wazama ukubambelela otshanini obomile eduze kwakhe. Amanzi amphonsa le kude.
 P14	"Ngisizeni bo! Ngisizeni bo!"
-P15	"Shesha,  gibela lapha," kusho uJuba omhlophe ebambe ukhuni ngomlomo.
+P15	"Shesha, gibela lapha," kusho uJuba omhlophe ebambe ukhuni ngomlomo.
 P16	"Ngizohlala lapha ukuze ngikwazi ukumbonga uJuba," kusho uTsheketshe.
-P17	Ngesikhathi esalindile uTsheketshe,  kwaqhamuka abafana ababili bephethe izihlilingi.
-P18	"Kunejuba elikhulu elimhlophe eliphuza kulo mfula. Namhlanje,  lizoba ukudla kwethu," kusho omunye wabafana.
-P19	"Angeke ngibavumele laba bafana babulale uJuba. Yize ngimncane,  konje yini nje engingayenza?"
+P17	Ngesikhathi esalindile uTsheketshe, kwaqhamuka abafana ababili bephethe izihlilingi.
+P18	"Kunejuba elikhulu elimhlophe eliphuza kulo mfula. Namhlanje, lizoba ukudla kwethu," kusho omunye wabafana.
+P19	"Angeke ngibavumele laba bafana babulale uJuba. Yize ngimncane, konje yini nje engingayenza?"
 P20	Ngawo lowo mzuzu uJuba wandiza wehlela phansi ukuzophuza.
 P21	UTsheketshe wayesenalo isu.
 P22	Wagxumela onyaweni lomfana wamncinza kakhulu.
@@ -79,13 +79,16 @@ French (Translation)	Comment La Fourmi Sauva La Colombe.	id=9965
 Fulfulde (Translation)	No Ɗayu Faaborii Wuugaandu.	id=10028
 Hausa (Translation)	Yadda Tururuwa Ta Ceci Habjia.	id=9997
 IciBemba (Translation)	Ifyo Kanyelele Aapuswishe Inkunda	id=18583
+IciBemba (Translation)	Kokwane Ipiliselize Inkunda	id=20821
 isiXhosa (Translation)	Indlela Imbovane Eyalihlangula Ngayo Ihobe	id=7453
 isiZulu (Translation)	Wamphephisa Kanjani Utsheketshe Ujuba	id=7770
 Kanuri (Translation)	Fudu Kanguwu Bolboloa Cǝkkaanadǝ.	id=10090
 Kiswahili (Translation)	Siafu Amwokoa Njiwa	id=8707
 Luganda (Translation)	Engeri Enkuyege Bwe Yataasa Ejjuba	id=8275
 Lugbarati (Translation)	Ogulegua Pa A’Balau Ni Ngoni Ru Ya Ri	id=12635
-Lunyole (Translation)	Engeri Eyi Ege Lyaŋoniamo Eŋuusi	id=8421
+Lugwere (Translation)	Ingeli Isi Iswa Yayeta Liwuusi	id=21085
+Lusoga (Translation)	Nseete Ayamba Kaghemba	id=20408
+Lusoga (Translation)	Engeri Enswa Yeyaghonia  Eighemba	id=21270
 Maa (Translation)	Eneikuna Enkalaoni Pee Eitajeu Enturkuluo	id=7864
 Ng’aturkana (Translation)	Eger Lo Aiunia Imukunyo Akuuri	id=2572
 Oluwanga (Translation)	Ngala Liche Liaonia Liusiu	id=8274
@@ -94,7 +97,7 @@ Sesotho (Lesotho) (Adaptation)	Kokonyana Le Leeba	id=15903
 Sesotho (South Africa) (Translation)	Kokonyana O Pholosa Leeba 	id=20031
 Setswana (Translation)	Tshoswane O Thusa Leeba	id=7814
 SiLozi (Translation)	Kokwani Mone Ipiliselize Liba	id=18565
-siSwati (Translation)	Indlela Intfutfwane Leyasindzisa Ngayo Lituba	id=17929
+Siswati (Translation)	Indlela Intfutfwane Leyasindzisa Ngayo Lituba	id=17929
 Tshivenda (Translation)	Lusunzi Lu Tshidza Tshiivha	id=18275
 Xitsonga (Translation)	Ndlela Leyi Risokoti Ri Nga Ponisa Tuva	id=18876
 Zarma (Translation)	Mate Kaŋ Annoori Te Ga Kolŋay Faaba	id=10111

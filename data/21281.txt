@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=21281&d=0&a=1
+id:	21281
+title:	 
+author:	Bishop Willis CPTC Student Teachers
+artist:	Melany Pietersen, Graham Paterson, Katrien Coetzer and Rob Owen
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21281.png
+desc:	I ayenga iwe okoba ki? Memale bino biva ighaku?
+
+page_text:
+
+P1	Your translated text
+P2	Your translated text
+P3	Your translated text
+P4	Your translated text
+P5	Your translated text
+P6	Your translated text
+P7	Your translated text
+
+images:
+
+illustrations/pages/9592.png
+illustrations/pages/9223.png
+illustrations/pages/9216.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/8599.png
+illustrations/pages/9036.png
+illustrations/pages/9026.png
+
+translations:
+
+English (Original)	A Wise Crow	id=10198
+Kinyarwanda (Translation)	Igisiga K'igihanga	id=20860

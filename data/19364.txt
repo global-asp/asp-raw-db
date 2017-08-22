@@ -19,6 +19,7 @@ P5	Tunatumia majani ya mtende kuezeka nyumba zetu.
 P6	Tunatengeneza fagio na kusuka mikeka kwa kutumia majani ya mtende.
 P7	Tunatumia nafaka zake kupika.
 P8	Sasa umefahamu kwa nini mtende ni muhimu sana?
+P9	Maswali: 1. Kweli au sio kweli? A)Mtende unahitaji maji mengi kusitawi. B) Mtende unatoa kivuli kizuri. 2. Jaza nafasi zilizo wazi. A) Tunatumia _____ya mtende kuezeka nyumba zetu. B) Tunasuka ________ kwa kutumia majani ya mtende. 3. Taja jina la aina nyingine ya mti inayosaidia jamii yenu. Eleza sifa zake.
 
 images:
 
@@ -36,6 +37,5 @@ translations:
 
 English (Translation)	Palm Tree	id=13626
 Kiswahili (Translation)	Mtende	id=15864
-Kiswahili (Adaptation)	Mtende	id=19355
-Kiswahili (Adaptation)	Mtende	id=19362
+Kiswahili (Adaptation)	Mtende	id=19363
 Ng’aturkana (Original)	Eking’Ol	id=13625

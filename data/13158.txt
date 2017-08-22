@@ -20,6 +20,7 @@ P6	Hyène médita longuement sur son problème. Il eut alors une idée. Il recue
 P7	Au cours de la nuit,  Lièvre se dirigea vers le champ de Hyène pour voler à nouveau du maïs. Avant d'y entrer,  il regarda autour de lui pour s'assurer qu'il n'y avait pas de danger.
 P8	Lièvre ne vit pas la gomme que Hyène avait mise tout autour du champ. Lièvre se retrouva prisonnier de la gomme. Il se mit alors à crier à l'aide.
 P9	Hyène entendit les cris et courut attraper le voleur. Il ne pouvait en croire ses yeux. C'était Lièvre,  son ami,  pris dans la gomme!
+P10	Depuis ce moment,  Hyène et Lièvre se séparèrent,  chacun prenant son chemin. Cet événement marqua la fin de leur amitié.
 
 images:
 
@@ -37,5 +38,7 @@ illustrations/pages/12167.png
 translations:
 
 English (Translation)	Friends Become Enemies	id=12169
+Kumam (Translation)	Owotino Oko Doko Jokwor	id=20608
 Lugbarati (Original)	Ba Agiyi Ru Diyi Eca Aribo Ru	id=12158
+Lumasaaba (Translation)	Basale Bi Kola Balabe	id=20618
 Portuguese (Translation)	Os Amigos Se Tornam Inimigos	id=16416

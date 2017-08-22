@@ -13,13 +13,13 @@ page_text:
 
 P1	"Mama," kusho uThandi. "Bheka zonke lezizimpahla sezincane. Ngizogqokani?" "Linganisa ngibone,  Thandi," kusho umama.
 P2	"Bheka isiketi siyangiqina," kusho uThandi elinganisa. "Uqinisile,  sincane. Sinike uJabulile," kusho umama.
-P3	"Bheka nje lelibhulukwe,  alingeni," kusho uThandi elinganisa. Uqinisile,  lincane. Linike uJabulile," kusho umama."
-P4	"Bheka mama lesikibha,  naso sincane," kusho uThandi elinganisa. "Uqinisile,  naso sincane. Sinike uJabulile," kusho umama.
-P5	"Bheka mama lelijezi,  nalo lincane," kusho uThandi elinganisa. "Uqinisile,  lincane. Linike uJabulile nalo," kusho umama.
-P6	'"Bheka ijazi lami lemvula lincane," kusho uThandi elinganisa. "Uqinisile,  nalo lincane. Linike uJabulile," kusho umama.
-P7	"Bheka lamasokisi ami,  mancane," asho uThandi ekhononda. "Uqinisile,  mancane. Anike uJabulile nawo," kusho umama emduduza.
-P8	"Bheka lezi zicathulo. Eshu,  ziyangiqina!" kusho uThandi. "Uqinisile,  nazo zincane. Zinike uJabulile," kusho umama.
-P9	"Unezimpahla eziningi manje,  Jabulile! Zithathe zonke," kusho uThandi. "Kodwa zinkulu zonke nje lezizimpahla!" kusho uJabulile.
+P3	"Bheka nje lelibhulukwe,  alingeni," kusho uThandi elinganisa. Uqinisile, lincane. Linike uJabulile," kusho umama."
+P4	"Bheka mama lesikibha,  naso sincane," kusho uThandi elinganisa. "Uqinisile, naso sincane. Sinike uJabulile," kusho umama.
+P5	"Bheka mama lelijezi, nalo lincane," kusho uThandi elinganisa. "Uqinisile, lincane. Linike uJabulile nalo," kusho umama.
+P6	"Bheka ijazi lami lemvula lincane," kusho uThandi elinganisa. "Uqinisile, nalo lincane. Linike uJabulile," kusho umama.
+P7	"Bheka lamasokisi ami, mancane," asho uThandi ekhononda. "Uqinisile, mancane. Anike uJabulile nawo," kusho umama emduduza.
+P8	"Bheka lezi zicathulo. Eshu, ziyangiqina!" kusho uThandi. "Uqinisile, nazo zincane. Zinike uJabulile," kusho umama.
+P9	"Unezimpahla eziningi manje, Jabulile! Zithathe zonke," kusho uThandi. "Kodwa zinkulu zonke nje lezizimpahla!" kusho uJabulile.
 
 images:
 
@@ -46,6 +46,9 @@ Luganda (Translation)	Ntono Nnyo	id=8708
 Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
 Lumasaaba (Translation)	Bibombi Naabi	id=8709
 Lunyole (Translation)	Too Small	id=8398
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21093
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21100
+Lusoga (Translation)	Ntonioli	id=20904
 Maa (Translation)	Éíkití Olêng	id=7879
 Ng’aturkana (Translation)	Edit Noi	id=8446
 Oluwanga (Translation)	Eshititi Muno	id=8297

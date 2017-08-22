@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20605&d=0&a=1
+id:	20605
+title:	Imbwa
+author:	Noel Abaho
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20605.png
+desc:	Uru rugero ruri kumugabo yari afite imbwa ye yari yizwerwa kandi imwemera.
+
+page_text:
+
+P1	Hari umugabo nimbwaye imwe.
+P2	Yaragikundaga chane.
+P3	yakoraga chane kandi yagendaga mwisoko kugura inyama
+P4	yavomaga amazi kukiziba
+P5	ikumaga burikinu kyose murogo.
+P6	Umunsi umwe umugabo yarashimye imbwa ye neza chane  kubera yizerwaga
+P7	Imbwa yarishimwe kandi ikomeza kukora nimbaraga nyishi.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

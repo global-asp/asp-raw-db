@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=16210&d=0&a=1
 id:	16210
 title:	Ujasiri Wa Nangila
 author:	Ursula Nafula
-artist:	Vusi Malindi
+artist:	
 lang:	Kiswahili
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
@@ -20,7 +20,7 @@ P6	Nangila alijawa na wasiwasi kaka zake pia waliposhindwa kwenda ziwani. Nangil
 P7	Njiani,  Nangila alimsaidia bi kizee mmoja kubeba kuni. Bi kizee alimshukuru,  akamwambia,  "Nitakueleza jinsi utakavyofika kwenye ziwa la mizimu na namna utakavyofanya."
 P8	Nangila alipofika ufuoni mwa ziwa,  aliiona familia ya mizimu ikinywa na kusherehekea. Alisubiri na kutazama. Moja baada ya nyingine,  mizimu ilipatwa na usingizi.
 P9	Mizimu yote ilipolala,  Nangila alipiga mbizi ziwani. Aliipata miti-shamba na kuiweka mkobani. Alipoogelea kurudi ufuoni,  mawimbi makubwa yalimzunguka.
-P10	Nangila alipofika ufuoni,  mizimu ilikuwa imeamka. Kwa woga,  aliimba wimbo aliofunzwa na bi kizee: Mie bintiye Wekesa,  Nilikuja kwa sababu wanaume waliogopa. Babangu ahitaji dawa kuponya donda lake. Ndiyo sababu ya kuwa mahali hapa panapoogofya,  Kwani ninyi ndio viongozi.
+P10	Nangila alifika ufuoni mizimu ikiwa imeamka. Aliimba kwa woga wimbo aliofunzwa na bi kizee: Mie bintiye Wekesa, Nilikuja kwa sababu wanaume waliogopa. Babangu ahitaji dawa. Ndiyo sababu nikaja hapa penye woga, Kwani ninyi ndio viongozi.
 P11	Sauti ya Nangila ilikuwa tamu sana hata mizimu ikamtaka aimbe zaidi. Kuimba kwake kulipoifanya ilale tena,  Nangila alikimbia haraka akafika kijijini.
 P12	Baada ya kutibu donda la babake,  babake aliweza kusimama tena. Kijiji kizima kilisherehekea na kumshangilia Nangila.
 
@@ -45,7 +45,7 @@ translations:
 Afrikaans (Translation)	Nangila Se Dapperheid	id=20088
 ChiTonga (Translation)	Busicamba Bwaa Nangila	id=18654
 CiNyanja (Translation)	Kulimba Mutima Kwa Nangila	id=18672
-English (Original)	Nangila’S Courage	id=15116
+English (Original)	Nangila's Courage	id=15116
 IciBemba (Translation)	Ukushipa Kwakwa Nangila	id=18677
 isiXhosa (Translation)	Unangila Igorhakazi	id=17579
 isiZulu (Translation)	Isibindi Sikanolwazi	id=16407
@@ -55,5 +55,5 @@ Sesotho (South Africa) (Translation)	Mamello Ya Bonolo	id=20040
 Setswana (Translation)	Bopelokgale Jwa Ga Nangila	id=16754
 Setswana (Translation)	Bopelokgale Jwa Ga Bonolo	id=17656
 SiLozi (Translation)	Bundume Bwa Nangila	id=18744
-Tshivenda (Translation)	Vhuhali Ya Nangila.	id=18288
+Tshivenda (Translation)	Vhuhali Ya Nangila	id=18288
 Xitsonga (Translation)	Vurhena Bya Nangila	id=18992

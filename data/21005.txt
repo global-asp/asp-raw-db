@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=21005&d=0&a=1
+id:	21005
+title:	Fana And Her Animals (Colour-In)
+author:	Foziya Mohammed
+artist:	Jesse Breytenbach
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21005.png
+desc:	Fana loves animals. She spends time with them
+
+page_text:
+
+P1	Fana and her family live in Debre Birhan, a busy town in Ethiopia. Fana is a Grade 3 student. She is good-hearted and wise.
+P2	Fana loves animals. She has a cat, two hens, a goat and a dove. She spends time with these animals, feeding them, and playing with them.
+P3	One day, Fana was playing in the school yard with her friends when she saw children throwing stones at doves. 
+
+"Why are they hurting the doves?" She asked herself.
+P4	She stopped playing and ran towards the children throwing stones. 
+
+At first her friends didn't understand what was happening, then they followed her. "Stop throwing stones," shouted Fana.
+P5	The other children ran away. 
+
+Fana caught the two injured doves. She saw wounds on their wings. She decided to take the two doves home to look after them.
+P6	She fed the doves. In the evening she told her family what she saw and did during the day, and how she saved the doves.
+P7	In the morning Fana and her parents went to the clinic and got medicine for the doves. 
+
+After a few days, the doves' wounds healed. Fana felt very happy.
+P8	Fana always tells her friends, "I love animals. Animals are useful to us and they are our friends. We must protect and preserve them."
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25273.png
+illustrations/pages/25274.png
+illustrations/pages/25275.png
+illustrations/pages/25276.png
+illustrations/pages/25277.png
+illustrations/pages/25278.png
+illustrations/pages/25279.png
+illustrations/pages/25280.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana And Her Animals	id=21004
+English (Adaptation)	Fana Loves Animals	id=21396
+Kiswahili (Translation)	Fana Na Wanyama Wake 	id=21006

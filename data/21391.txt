@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=21391&d=0&a=1
+id:	21391
+title:	Enhumba Ya Wampube
+author:	Titus Ndhokero
+artist:	Amy Uzzell and Jennifer Jacobs
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21391.png
+desc:	Wampube agezaaku ebifo bingi paka bwayagaana ekifo ekilungi ekyokutendukamu.
+
+page_text:
+
+P1	Wampube ali kunoonia nhumba mpyaka.
+P2	Eno nhumba eboneka bulungi.
+P3	“Osobola okwidha okutenduka ni nze,” Akabwa bwe kaakoba. 
+“Webale,” Wampube yairamu.
+P4	Obwire obwo, ebilooto ebya Wapube byali bibukabuka era nga bilimu ne ebinhaga
+P5	“Osobola okwidha watenduka ni nze,” Mukusu bwe yakoba. 
+“webale,” Wampube   yairamu.
+P6	Obwire obwo, ebilooto ebya Wapube byali bileenkaana nga tibiwulikana.
+P7	“Osobola okwida watenduka ni nze,” Kyenhanda yaakoba. 
+“Weebale,” Wampube yaakoba.
+P8	Obwire obwo, ebilooto ebya Wampube byali biinhogovu era bitobu.
+P9	Wampube yali yeetaaga ekifo ekilimu eibugumu era nga kikalu.
+P10	Your translated text
+P11	Wampube yaayagaana kabada eye ebitabo okumpi agho.
+P12	Obwire obwo, Wampube yali ne ebilooto ebibugumu nga bilungi. 
+Sula bulungi Wampube.
+
+images:
+
+illustrations/pages/8832.png
+illustrations/pages/8834.png
+illustrations/pages/8835.png
+illustrations/pages/8836.png
+illustrations/pages/8837.png
+illustrations/pages/8846.png
+illustrations/pages/8839.png
+illustrations/pages/8840.png
+illustrations/pages/8841.png
+illustrations/pages/8842.png
+illustrations/pages/8843.png
+illustrations/pages/8844.png
+illustrations/pages/8845.png
+
+translations:
+
+Acholi (Translation)	Ka Bwutu It Oyoo	id=20667
+Amharic (Translation)	የአይጢት ቤት	id=12960
+English (Original)	A House for Mouse	id=9118
+Kinyarwanda (Translation)	Inzu Y'imbeba	id=20854
+Kumam (Translation)	Oot Me Iyono	id=20977
+Lusoga (Translation)	Enhumba Eya Omusonso	id=21297

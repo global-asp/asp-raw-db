@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=20170&d=0&a=1
+id:	20170
+title:	Ernst Und Der Schakal
+author:	Mirko Plitt
+artist:	Benjamin Mitchley
+lang:	German
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20170.png
+desc:	Eine lehrreiche Geschichte von einem Schakal und einem Jungen
+
+page_text:
+
+P1	Eines Tages fühlte sich Schakal krank.
+P2	Er trank etwas Wasser, aber das blähte seinen Magen auf. Er aß etwa Gras, aber davon bekam er Bauchschmerzen.
+P3	Schakal begriff, dass nur die Medizin der Menschen ihm helfen konnte. So machte er sich mühsam auf den Weg zum Krankenhaus in der nächsten Stadt.
+P4	Die Krankenschwester schrie laut auf, als sie den räudigen Schakal sah. "Das Krankenhaus ist für kranke Menschen, nicht Tiere. Weg mit dir!", rief sie. Aber Schakal war klug und obwohl er doch so krank war, dachte er sich einen Plan aus.
+P5	Er fragte einen Jungen, der vor dem Krankenhaus wartete, ob er ihm die Medizin von der Krankenschwester holen würde. "Wenn du das für mich tust, werde ich dir jeden Tag ein fettes Suppenhuhn bringen", versprach Schakal dem Jungen, der Ernst hieß.
+P6	Ernst hatte Hunger und außerdem Mitleid mit dem kranken Schakal, dessen Schnurrhaare schlaff herunterhingen und der seinen Schwanz wie einen Lumpen hinter sich herzog.
+P7	Also betrat Ernst das Krankenhaus, besorgte die Medizin und gab sie dem Schakal. Schakal leckte sie gleich ganz auf. Da richteten sich seine Ohren auf und sein Schwanz hob sich. Im nächsten Augenblick war der Schakal auch schon davon gelaufen, hinweg in die Steppe, ohne sich noch einmal nach Ernst umzusehen.
+P8	"He!", rief der Junge, "was ist jetzt mit meinem Suppenhuhn?" Der Schakal rannte nur noch schneller. An diesem Abend gingen Ernst und seine Eltern mit knurrendem Magen zu Bett.
+P9	Doch als sie am nächsten Morgen erwachten, fanden sie vor ihrer Haustür ein fettes Steppenhuhn. Auch am nächsten Tag, und an jedem Tag von da an, bis der Junge erwachsen war.
+P10	Den Schakal sah er nie wieder. Aber Ernst wurde Tierarzt und an der Wand seiner Praxis hing ein großes Bild von einem stolzen Schakal.
+
+images:
+
+illustrations/pages/1776.png
+illustrations/pages/17486.png
+illustrations/pages/17643.png
+illustrations/pages/17518.png
+illustrations/pages/17516.png
+illustrations/pages/17639.png
+illustrations/pages/17635.png
+illustrations/pages/17636.png
+illustrations/pages/17638.png
+illustrations/pages/17642.png
+illustrations/pages/17641.png
+
+translations:
+
+English (Original)	The Boy and the Jackal	id=17137
+English (Adaptation)	Ernst and the Jackal	id=17484

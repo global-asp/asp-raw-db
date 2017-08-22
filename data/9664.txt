@@ -13,9 +13,10 @@ page_text:
 
 P1	Waliwo Ggonya nga muyala nnyo.
 P2	Buli kiseera yasooba nga mpolampola okunonya ekyokulya.
-P3	POO! Ggonya nayasama!
-P4	Oluvanyuma lw'ekyo Ggonya yali akuse era nga musanyufu.
-P5	Paka lwadamu okuba omuyala.
+P3	Noluvanyuma.
+P4	POO! Ggonya nayasama!
+P5	Oluvanyuma lw'ekyo Ggonya yali akuse era nga musanyufu.
+P6	Paka lwadamu okuba omuyala.
 
 images:
 
@@ -32,6 +33,8 @@ Afrikaans (Translation)	Die Honger Krokodil	id=11063
 Arabic (Translation)	التمساح الجائع	id=18188
 English (Original)	The Hungry Crocodile	id=7043
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
 Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708

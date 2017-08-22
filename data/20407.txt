@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=20407&d=0&a=1
+id:	20407
+title:	Abantu Benkolagana Nabo
+author:	Cornelius Wambi Gulere and Marvin Kenneth Maali
+artist:	Brandan Reynolds, Rob Owen and Sarah Bouwer
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20407.png
+desc:	Omughala ono omuto ayogera ku bantu baakolagana nabo.
+
+page_text:
+
+P1	Amaina gange ninze
+  Anita. Ndi ne emyaka 8 egyobukulu.
+P2	Nnhenda okuzaanha.
+P3	Nnhenda okuzaanha ni mikwano gyange ku isomero.
+P4	Yokaana muganda wange. Nansinga obukulu.
+P5	Baliraanwa baife balungi ku ife.
+P6	Yokaana, Peetero, ni Nze tugya ku isomero ilala.
+P7	Maama wange ni Nze tugya mu katale buli lwa
+  Saabbiiti.
+P8	Muganda wange ni Nze tukuba ebifaanani
+  ebisesa.
+P9	Muganda wange Yokaana
+  musomi wa bitabo mulungi. Asomera baine ebitabo mu kibiina kye.
+P10	Bbaabba wange mukuumi
+  wa bitabo ku isomero lyaife.
+  Alondera abaana ebitabo bye engero.
+P11	Eisomero olunaigala, tugya
+  kukyalira ba dhaadda baife mu kyalo.
+P12	Nnhenda inho abaaghaka,
+  badhaadha, ni baliraanwa
+  baife.
+
+images:
+
+illustrations/pages/10612.png
+illustrations/pages/9500.png
+illustrations/pages/9502.png
+illustrations/pages/14062.png
+illustrations/pages/14566.png
+illustrations/pages/13665.png
+illustrations/pages/14064.png
+illustrations/pages/14027.png
+illustrations/pages/14111.png
+illustrations/pages/14017.png
+illustrations/pages/14709.png
+illustrations/pages/13931.png
+illustrations/pages/10611.png
+
+translations:
+
+English (Original)	People I Relate With	id=15166

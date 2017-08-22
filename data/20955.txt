@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20955&d=0&a=1
+id:	20955
+title:	Imbwa
+author:	Namee Lillian
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Lumasaaba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20955.png
+desc:	Lukaano luno luwambagana khumusetsa abe ulinimbwa yewe abe imuwa shitiwa shikaali nabi nga imuwulira.
+
+page_text:
+
+P1	Abe waliwo umusetsa ni mbwa yewe  indela.
+P2	Abe akana naabi imbwa yewe yino.
+P3	Abe iramba ni kamaani nga itsa no mukhatale khukula inyama.
+P4	Itaya ni kametsi uhwama khufubu.
+P5	Abe ilinda bulishindu ingo.
+P6	Lutwela umusetsa wasiima imbwa yewe mubulayi lwekhuwulira bulayi
+P7	Imbwa yasanyuha nabi yamala yeyongera khuramba ni kamaani.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=20507&d=0&a=1
+id:	20507
+title:	Saniyar Mu Pendo
+author:	Philip Hayab John
+artist:	Rob Owen
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20507.png
+desc:	Labarin wata saniyar da ake kauna a wani gida.
+
+page_text:
+
+P1	Wannan shi ne Ndalo
+P2	Ndalo na son karatun litattafai
+P3	Wannan saniya ita ce Pendo
+P4	Pendo tana son cin karas
+P5	Ndalo na kai Pendo kiwo da ya taso makaranta
+P6	Ya kan shayar da Pendo ruwa a cikin tsabtattaccen kwami
+P7	Baba kan zuba wa Pendo hatsi a daro ta ci
+P8	Ya kan tatsi madaran Pendo kullum
+P9	Pendo na samar da madara bokitai da yawa
+P10	Baba kan kai madaran Pendo a shagon Maziwa Hapa a sayar
+P11	Ndalo na jin dadin shan madara sabon tatsa kullum
+P12	Cikin murmushi, ya kan dáfa ta ya ce “Na gode, Pendo!”
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/11992.png
+illustrations/pages/7944.png
+illustrations/pages/11993.png
+illustrations/pages/7939.png
+illustrations/pages/11994.png
+illustrations/pages/7938.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+illustrations/pages/7941.png
+illustrations/pages/7943.png
+illustrations/pages/11997.png
+illustrations/pages/7945.png
+
+translations:
+
+Afrikaans (Translation)	Pendo, Ons Koei 	id=20092
+English (Adaptation)	Pendo Our Cow	id=11991
+English (Adaptation)	Ndalo And Pendo – The Best Of Friends 	id=20299
+isiNdebele (Translation)	Undalo Nopendo – Abangani Bamambala	id=20823
+isiZulu (Translation)	Ubonga Nonondlini Wakwabo – Abangani Abakhulu	id=20685
+Kiswahili (Original)	Ng’Ombe Wetu Pendo	id=8056
+Sesotho (South Africa) (Translation)	Kgomo Eso Pendo	id=20043
+Sesotho (South Africa) (Translation)	Ndalo Le Pendo – Metswalle E Utlwanang	id=20834
+Siswati (Translation)	Ndalo Napendo	id=20775
+Talen (Translation)	Te Naoh Pendo	id=20201

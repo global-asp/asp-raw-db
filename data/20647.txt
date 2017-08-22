@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=20647&d=0&a=1
+id:	20647
+title:	Omusiri Gwa' Mama
+author:	Jerome Atugonza
+artist:	Zablon Alex Nguku, Wiehan de Jager, Steven McKimmie and Jesse Breytenbach
+lang:	Runyoro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20647.png
+desc:	Ebinu bikuwata homusiri gya mama nomuhara we.
+
+page_text:
+
+P1	Gunu musiri gya mama. Gukoto muno kandi murungi muno. Mama ebyara emere nyigi muno' mumusiri gunu.
+P2	Gunu muti gyo omuyembe mama gwe ya byare. Emiyembe emezere muno kandi ekuzoka kurungi muno. Gidetereza e'bicyanta kuruga omukanya.
+P3	Mama nanyowe tugenda omusisiri ku funa ebikyooli byo koyoika. Ebiro ebindi, Mama egenda natunda ebikyooli omukatare.
+P4	Omusisiri gwina esinguu enkonto muno ne nyanya. Hariyo ensinguu emu ekonto muno gye nyeda muno kulora
+P5	Ente za bataihi ba mama zili mukulya ebitakuri. Mama agya kubihirwa wanakizora.
+P6	Mama ebyara ebikaijjo.Ebanyani bange nanyowe twenda kuzanira emubikaijo.
+
+images:
+
+illustrations/pages/13696.png
+illustrations/pages/13694.png
+illustrations/pages/13388.png
+illustrations/pages/13695.png
+illustrations/pages/10655.png
+illustrations/pages/11670.png
+illustrations/pages/9847.png
+
+translations:
+
+English (Original)	Mama's Garden	id=14088

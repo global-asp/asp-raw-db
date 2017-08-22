@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=20595&d=0&a=1
+id:	20595
+title:	Ekapa Lo Ecobee
+author:	Betty Atima
+artist:	Catherine Groenewald
+lang:	Ateso
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20595.png
+desc:	Ejaatar ejakait Kiio ekapa lo ecobee lo ebakai Safi.
+
+page_text:
+
+P1	ocaalo ka, ejai ejakait Kio. Ejataar ejakait lo Ekapa lo Ebakai Safi.
+P2	Ne elosio ejakait Kio aswam, ejalakini ekek engaara.
+P3	Iboikin Safi okek aidar etogo.
+P4	ne ebunio Ekiongok lodunyet osiepi, itukurianikini do Safi nges.
+P5	Okeeri do Ekingoko.
+P6	Ne ikungokina edunyet ekek, ekapakin Safi aikwac.
+P7	Ibelokin do edunyet akwatat.
+P8	Ido ne eriebia Safi etenge, egolokini ekek.
+P9	Ogeuni ainyam ikenyamat.
+P10	Edau do ainyam, esomakin Safi ocolong ogeuni do ajoo.
+P11	Ido ne ebonguna ejakait Kio ka aswam, eriyor do safi keda aiyalama osodi aijaun Kio ore.
+P12	Iboikinos do kio keda Safi kwap, osodi do ngin dope kakesi  aisiom apapula na iyemuto.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever Cat	id=8878
+Hausa (Nigeria) (Translation)	Mage Mai Wayo	id=21362
+Kiswahili (Original)	Paka Mwerevu	id=8877
+Sesotho (Lesotho) (Translation)	Katse E Bohlale	id=10622

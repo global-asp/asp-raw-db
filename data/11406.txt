@@ -34,10 +34,11 @@ illustrations/pages/8133.png
 
 translations:
 
-English (Translation)	Jaaka the Fisherman	id=8491
+English (Translation)	Jaaka The Fisherman	id=8491
 French (Translation)	Jaaka Le Pêcheur	id=12681
 isiXhosa (Translation)	Ujaaka Umlobi	id=13206
 isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Kinyarwanda (Translation)	Umurobyi Jaaka	id=21205
 Luganda (Adaptation)	Jaaka Omuvubi	id=10151
 Lusoga (Original)	Jaaka Omuvubi	id=8490
 Portuguese (Translation)	Jaaka O Pescador	id=16569

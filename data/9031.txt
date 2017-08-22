@@ -7,18 +7,18 @@ lang:	Lusoga
 level:	First sentences
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/9031.png
-desc:	Mother and father are planting gardens. The family works together to plant and harvest.
+desc:	Maama ni Bbaabba bali mu kulima nnimiro. Abali mu maka gano bakolera ghalala okusimba no okukungula.
 
 page_text:
 
 P1	Maama wange yalima. Yalima akalimiro. Akalimiro keyalima kaali ka mpindi.
-P2	Baaba yalima. Yalima akalimiro. Akalimiro keyalima kaali ka bimuli.
+P2	Bbaabba yalima. Yalima akalimiro. Akalimiro keyalima kaali ka bimuli.
 P3	Maama wange yadhuba mu bulimiro bwombi.
-P4	Baaba wange yafukirira mu bulimiro bwombi.
-P5	Abazaire bange ni Nze twakola mu bulimiro obutono. Mwaninhaze ni Nze twayeza ebimuli ne mpande.
-P6	Akalimiro akatono ake mpande kavaamu agasawo ge mpindi. Akalimiro akatono ake bimuli kavaamu agasawo ge bimuli.
+P4	Bbaabba wange yafukirira mu bulimiro bwombi.
+P5	Abazaire bange ni Nze twakola mu bulimiro obutono. Mwaninhaze ni Nze twayeza ebimuli ne mpindi.
+P6	Akalimiro akatono ake mpande kavaamu agasawo ge mpande. Akalimiro akatono ake bimuli kavaamu agasawo age bimuli.
 P7	Maama wange yalima. Yalima ogulimiro. Ogulimiro gwe yalima gwaali gwa mpindi.
-P8	Baaba yalima. Yalima ogulimiro. Ogulimiro gwe yalima gwaali gwa bimuli.
+P8	Bbaabba yalima. Yalima ogulimiro. Ogulimiro gwe yalima gwaali gwa bimuli.
 
 images:
 
@@ -35,13 +35,13 @@ illustrations/pages/9005.png
 translations:
 
 Afrikaans (Translation)	My Ma Maak Tuin	id=11280
+Afrikaans (Adaptation)	Die Tuin	id=20359
 English (Translation)	My Mother Planted	id=9034
 French (Translation)	Ma Mère a Fait Des Plantations	id=12660
 isiZulu (Translation)	Umama Watshala	id=11520
 isiZulu (Translation)	Umama Wami Utshalile	id=12914
 Kiswahili (Translation)	Mamangu Alipanda	id=12652
-Lunyole (Translation)	Maama Wange Gahoma	id=13505
-Lusoga (Adaptation)	Maama Wange Yalima, my Mother Planted	id=9040
+Lusoga (Adaptation)	My Mother Planted	id=9040
 Ng’aturkana (Translation)	Itokang Etakini	id=12650
 Oluwanga (Translation)	Mama Wanje Yaraka	id=13015
 Portuguese (Translation)	A Minha Mãe Plantou	id=17615

@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=6388&d=0&a=1
 id:	6388
 title:	A Greedy Boy
 author:	Tukei A Cathy
-artist:	Marleen Visser, Wiehan de Jager, Eden Daniels and Bronwen Heath
+artist:	Bronwen Heath, Eden Daniels, Marleen Visser and Wiehan de Jager
 lang:	English
 level:	First words
 lic:	Creative Commons: Attribution 3.0
@@ -26,5 +26,10 @@ illustrations/pages/1717.png
 
 translations:
 
+Acholi (Translation)	Awobi Ma Lagem	id=21317
 Ateso (Translation)	Esapat Lo Eisinye.	id=7651
+Ateso (Translation)	Esapat Lo Eisinge	id=20967
+Hausa (Nigeria) (Translation)	Yaro Mai Sankai	id=20788
+Kinyarwanda (Translation)	Umuhungu Arya Ibirenze	id=20612
+Luganda (Translation)	Omulenzi Owomululu	id=20969
 Sepedi (Translation)	Mosimane Wa Megabaru	id=7481

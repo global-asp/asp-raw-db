@@ -15,12 +15,14 @@ P1	Aaba mbayi bangu. Zyina lyabo mbaa Akinyi. Ba Akinyi balandiyanda kapati.
 P2	Bayi ba Akinyi balatwiiyisya cipele atubala tusyoonto.    Inga ndaamba mizuzumina ya a,  e,  i,  o,  u.
 P3	Bayi ba Akinyi,  balatwiiyisya mibala isalala,  yanyanzabili,  yamungunga waji,  ausiya.
 P4	Ciindi cakupuna,  bayi balatwiimbila kutegwa toone. Balatwiimbila lwiimbo lwakutubutika.
-P5	Balatwaanina twaano twabalombwana basyomwa,  mumuvwulo.
-P6	Bwabili,  balatwaanina twaano twabamakaintu basyomwa.
-P7	Bwatatu,  balatwaanina twaano twazyakweendela.
-P8	Bwane,  inga balatwaanina alizyabulimi.
-P9	Muli Bwasanu,  Bayi ba Akinyi batwaambila kwaana twaano twasu.
-P10	Bayi besu mbaahabupampu bainda munyika. Ndiyanda kuyakuba mbuli bayi ba Akinyi ndaakukkomena.
+P5	Lwiimbo lwakutubutika ndoolu: Ng'ozi zyangolide amupe meso aanu,  Lumwemwe lulamulindila mwabuka,  Amoone nobayandwa,  mutalili Ndilamwiimbila kaimbo Kalweela kakumubutika.
+P6	Bayi ba Akinyi balizyi twaano tunji. Balatwaambila twaano twaandeene buzuba abuzuba bwamvwiki.
+P7	Balatwaanina twaano twabalombwana basyomwa,  mumuvwulo.
+P8	Bwabili,  balatwaanina twaano twabamakaintu basyomwa.
+P9	Bwatatu,  balatwaanina twaano twazyakweendela.
+P10	Bwane,  inga balatwaanina alizyabulimi.
+P11	Muli Bwasanu,  Bayi ba Akinyi batwaambila kwaana twaano twasu.
+P12	Bayi besu mbaahabupampu bainda munyika. Ndiyanda kuyakuba mbuli bayi ba Akinyi ndaakukkomena.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
 Dholuo (Translation)	Japuonj Akinyi	id=9709
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

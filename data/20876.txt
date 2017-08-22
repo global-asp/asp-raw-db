@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=20876&d=0&a=1
+id:	20876
+title:	Ungrateful Jackal
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Jacob Kono
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20876.png
+desc:	Rabbit saves Jackal from a difficult situation. But instead of fulfilling his promise to reward Rabbit
+
+page_text:
+
+P1	Hungry Jackal was hunting.
+P2	He chased a mouse under a big rock.
+P3	As Jackal dug, the rock fell on his paw.
+P4	Rabbit heard Jackal calling and ran to see what happened.
+P5	Rabbit agreed to help Jackal because Jackal promised him dinner.
+P6	Rabbit pushed the rock until it rolled off Jackal’s paw.
+P7	Rabbit asked for his reward.
+
+Jackal threatened to eat him!
+P8	Jackal and Rabbit found an old man to judge their case.
+P9	Jackal threatened to eat the old man too!
+P10	The man said, “Let me see the rock before I decide.”
+P11	Jackal and Rabbit took the man to the rock.
+P12	Jackal explained how the rock fell on his paw.
+P13	The man asked Rabbit to show how he pushed the rock.
+P14	Rabbit pushed until the rock was back on Jackal’s paw.
+P15	The man said, “Now it is fair. Let us go home.”
+P16	The man and Rabbit went. 
+
+Jackal was left trapped.
+
+images:
+
+illustrations/pages/18475.png
+illustrations/pages/18468.png
+illustrations/pages/18469.png
+illustrations/pages/18470.png
+illustrations/pages/18471.png
+illustrations/pages/18472.png
+illustrations/pages/18473.png
+illustrations/pages/18474.png
+illustrations/pages/18475.png
+illustrations/pages/18476.png
+illustrations/pages/18477.png
+illustrations/pages/18478.png
+illustrations/pages/18479.png
+illustrations/pages/18481.png
+illustrations/pages/18482.png
+illustrations/pages/18483.png
+illustrations/pages/18484.png
+
+translations:
+
+Afaan Oromo (Translation)	Jedalaaf Illeti	id=18486
+Amharic (Translation)	ቀበሮና ጥንቸል	id=18845
+Amharic (Translation)	ውለታቢሱ ቀበሮ	id=21243
+English (Original)	Jackal and Rabbit	id=18485
+Kiswahili (Translation)	Mbweha Na Sungura	id=19387
+Kiswahili (Translation)	Mbweha Asiye Na Shukurani	id=21124
+Lunyole (Translation)	Ahasuje  Ahatasiima	id=21025
+Ng’aturkana (Translation)	Epeot Lope Alakara	id=21123
+Tigrigna (Translation)	ዘየመስግን ተኹላ	id=21109

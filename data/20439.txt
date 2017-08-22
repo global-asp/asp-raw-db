@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=20439&d=0&a=1
+id:	20439
+title:	Namna Chura Alipata Ngozi Yake
+author:	Brigid Simiyu
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20439.png
+desc:	Hadithi hii inaeleza kwa nini vyura wana migongo yenye matuta na wanaweza kuishi mbali na maji.
+
+page_text:
+
+P1	Mod alikuwa amechoka kuishi majini.
+P2	“Kuwa makini. Ngozi yako itanyauka,” Kasa alimwambia.
+P3	Lakini Mod alitaka kujua. Aliruka akaenda zake.
+P4	Alitazama kila mahali.
+P5	Alikuta kinyonga wa kizambarau kando ya dimbwi la maji.
+P6	Kinyonga aligeuka rangi ya waridi! Mod aliruka mbali.
+P7	Kisha alimwona fisi akikoka moto.
+P8	Moto ulienea karibu na Mod. Aliogopa.
+P9	Moto uliichoma ngozi yake. Alirukia dimbwi la maji.
+P10	Lakini ngozi yake ilikuwa tayari na malengelenge.
+P11	Mod alikuwa na ngozi kavu na mbaya. Aliishi miambani.
+P12	yura wachache wana ngozi nyororo. Wanaishi majini.
+
+images:
+
+illustrations/pages/13417.png
+illustrations/pages/13415.png
+illustrations/pages/13416.png
+illustrations/pages/13417.png
+illustrations/pages/13418.png
+illustrations/pages/13419.png
+illustrations/pages/13421.png
+illustrations/pages/13422.png
+illustrations/pages/13423.png
+illustrations/pages/13424.png
+illustrations/pages/13425.png
+illustrations/pages/13426.png
+illustrations/pages/13427.png
+
+translations:
+
+Afaan Oromo (Translation)	Gogaa Fattee	id=20424
+Amharic (Translation)	የእንቁራሪት ቆዳ	id=20492
+English (Original)	Mod the Toad	id=13546
+English (Adaptation)	How the Toad Got Its Skin	id=19766
+French (Translation)	Mod Le Crapaud	id=14527
+isiZulu (Translation)	Usele,  Iselesele	id=20669
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
+Portuguese (Translation)	Mod, a Sapa	id=17037

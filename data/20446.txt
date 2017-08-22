@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=20446&d=0&a=1
+id:	20446
+title:	ተወዳጇ ልጅ
+author:	Mezemir Girma
+artist:	Brian Wambi
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20446.png
+desc:	ናታቦ የምትወደው ገምቦ ስለተሰበረባት በጣም ተበሳጭታ ወደ ጫካ እየሮጠች ሄዳ ጠፋች፡፡
+
+page_text:
+
+P1	ይቺ ናታቦ ናት፡፡ ስድስት ወንድሞች አሏት፡፡
+P2	ወላጆቿ አንድ ገንቦ ሰጧት፡፡ ያችን ገንቦም ትወዳታለች፡፡
+P3	አንድ ቀን ወንድሞቿ ገንቦን ሰበሩባት፡፡
+P4	ናታቦ ገንቦዋን ልታገኛት ስላልቻለች ማልቀስ ጀመረች፡፡
+P5	ናታቦ ሮጣ ጠፋችና አንድ ትልቅ ዛፍ ላይ ወጣች፡፡
+P6	ቤተሰቦቿ አገኟት፡፡ ‹‹እባክሽ ውረጂ›› በማለትም ለመኗት፡፡
+P7	ወንድሞቿ ‹‹እባክሽ ውረጂ›› በማለት ዘመሩ፡፡
+P8	ናታቦ በመዝራቸው አፌዘችባቸው፡፡
+P9	ከዚያ የናታቦ ጓደኛ መጣችና ‹‹እባክሽን ውረጂ››እያለች ዘመረችላት፡፡
+P10	የናታቦ ጓደኛ ከዛፉ ላይ እስክትወርድ ድረስ ዘመረች፡፡
+P11	ጓደኛሞቹ ወደ ቤት ሄዱ፡፡
+P12	ሁሉም ሰዎች ናታቦ ወደ ቤት በመመለሷ ተደስተው አዲስ ገምቦ ሰጧት፡፡
+
+images:
+
+illustrations/pages/18758.png
+illustrations/pages/18757.png
+illustrations/pages/18758.png
+illustrations/pages/18759.png
+illustrations/pages/18760.png
+illustrations/pages/18761.png
+illustrations/pages/18762.png
+illustrations/pages/18763.png
+illustrations/pages/18764.png
+illustrations/pages/18765.png
+illustrations/pages/18766.png
+illustrations/pages/18767.png
+illustrations/pages/18768.png
+
+translations:
+
+Afaan Oromo (Translation)	Jallatamtu Intaala	id=20419
+Dhopadhola (Translation)	Nyari Jo Mumari	id=20631
+English (Original)	Beloved Daughter	id=18769
+English (Adaptation)	Beloved Daughter	id=19752
+Hausa (Nigeria) (Translation)	'yar Da Ake Kauna	id=20799
+Hausa (Nigeria) (Translation)	'yar Da Ake Kauna	id=20894
+isiZulu (Translation)	Wohe, Ngebhodwe Lami!	id=20717
+Kiswahili (Translation)	Binti Mpendwa	id=20431
+Kumam (Translation)	Atin Nyako Ame Komaro 	id=20606
+Luganda (Translation)	Omwana Omwagalwa	id=18770
+Luganda (Translation)	Omuwala Ayagalwa Ennyo.	id=19598
+Lumasaaba (Translation)	Umukaana Uganiwa Nabi	id=20928
+Lusoga (Translation)	Omughala Omwende	id=21340
+Ng’aturkana (Translation)	Ikoku Na Aminae Lokojokon	id=20390
+Rufumbira (Translation)	Umukobwa Ukunzwe	id=20930
+Setswana (Translation)	Morwadi Yo O Rategang	id=21157

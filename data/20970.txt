@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=20970&d=0&a=1
+id:	20970
+title:	Nyako Mathini
+author:	Hellen Alowo
+artist:	Wiehan de Jager, Sarah Bouwer, Padmanabha, Brandan Reynolds and blackmoondev.com
+lang:	Dhopadhola
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20970.png
+desc:	Odhiri nyako mathini bongi kwari mere to romo kodi ogwange ideiri luuli.
+
+page_text:
+
+P1	Junywoli pa nyako mathini judhiro go bongi kwari mere mayido bedo yucheni maluli go okadho kende munyo nigi seimi.
+P2	Munyo go otundo chengini gi luuli go oromo gi ndeili mayido wotho kichari to luwo gi go munyo kangasa rupiri oyido nitye romo pa ogwange iluuli.
+P3	Munyo go otundu ideiri luuli, go onwango ogwange kweth chengin gi royo togo ngwecho angwecha kanyo go koko.
+P4	Munyo go owoki iluuli go oromo bende gi winyini kweth kanyacheili munyo ju koko. Nyako mathini mee ongwecho munyo medo koko. Kwari go owinjo go.
+P5	Kwari go oluwo kodi dhako pere ni meno nyakwari go. Go okadho neno go mapiyopiyo gi gwoki aka onwango go munyo gooli.
+P6	Munyo jutundo pecho go odonjo to motho nyithindho megi nyaka to chemo.Munyo ochowo chemo go oluwo kwong gima otimere rigo iroyo.
+P7	Munyo go ochowo wacho gima otimere gi nwango ryeko ma kwero luwo iluuli mungoye dhano mani, go okadho tuko gi nyithindho wade gi seimi.
+P8	Go kuluwo doko iluuli mugonye dhano mani.
+
+images:
+
+illustrations/pages/19826.png
+illustrations/pages/19826.png
+illustrations/pages/13351.png
+illustrations/pages/10233.png
+illustrations/pages/292.png
+illustrations/pages/17295.png
+illustrations/pages/13930.png
+illustrations/pages/14062.png
+illustrations/pages/2039.png
+
+translations:
+
+English (Original)	A Little  Girl 	id=20550
+Hausa (Nigeria) (Translation)	Wata Karamar Yarinya	id=20759
+Kinyarwanda (Translation)	Umukobwa Muto	id=20962
+Luganda (Translation)	Omuwala Omuto	id=20946
+Runyoro (Translation)	Akaisiki Akato	id=20642

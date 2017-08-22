@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=21277&d=0&a=1
+id:	21277
+title:	Amaadhi
+author:	Bishop Willis CPTC Student Teachers
+artist:	Wiehan de Jager, Melany Pietersen, Rob Owen, Vusi Malindi, Jesse Pietersen, Silva Afonso, Renate van Rensburg and Salim Kasamba
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21277.png
+desc:	Amaadhi  bulamu. Amaadhi bwibuka. Aye amaadhi gava IGHAKU?
+
+page_text:
+
+P1	Amaadhi   makalamu.
+P2	Tunhwa  amaadhi.
+P3	Ebisolo  binhwa
+  amaadhi.
+P4	Ebisimbe  bikozesa
+  amaadhi okukula.
+P5	Engoina  dhiba
+  mu maadhi.
+P6	Tweghugira  mu  maadhi.
+P7	Tunaaba  mungalo  dhaife na  maadhi.
+P8	Twoza  engoye  na maadhi.
+P9	Amaadhi  bulamu
+
+images:
+
+illustrations/pages/15335.png
+illustrations/pages/13653.png
+illustrations/pages/10609.png
+illustrations/pages/9648.png
+illustrations/pages/13388.png
+illustrations/pages/17150.png
+illustrations/pages/924.png
+illustrations/pages/13819.png
+illustrations/pages/9485.png
+illustrations/pages/13415.png
+
+translations:
+
+English (Translation)	Water	id=18966
+Lusoga (Translation)	Amaadhi	id=21264
+Oluwanga (Original)	Amatsi Nobulamu	id=18865

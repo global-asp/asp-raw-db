@@ -1,27 +1,29 @@
 url:	http://africanstorybook.org/reader.php?id=8174&d=0&a=1
 id:	8174
 title:	Nhukuta Aa
-author:	Cornelius Gulere
-artist:	Mlungisi Dlamini, Kathy Arbuckle, Cathy Feek, Benjamin Mitchley, Sue Kramer, Wiehan de Jager, Reginaldo Vicente Manhice and Emily Berg
+author:	Cornelius Wambi Gulere
+artist:	Benjamin Mitchley, Cathy Feek, Emily Berg, Kathy Arbuckle, Mlungisi Dlamini, Reginaldo Vicente Manhice, Sue Kramer and Wiehan de Jager
 lang:	Lusoga
 level:	First sentences
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/8174.png
-desc:	Ekigete kino kyogera ku nhukuta Aa
+desc:	Ekigete kino kyogera ku nhukuta Aa. Bigambo ki bysinga kukozesa?
 
 page_text:
 
-P1	Ninze Ana Mariya.
+P1	Ninze Ana Maliya.
 P2	Lata wange ni Asaba.
 P3	Maama ni Masagala.
 P4	Nkama naanhwa amata.
-P5	Baaba taganha mata makakakali.
-P6	Mbala talambaala.
-P7	Abanga abala magi.
-P8	Noomutala asalasala nsaala.
-P9	Ani asansala amasa?
-P10	Mpa ensaala nsaleku.
-P11	Nsaba asamba akapiira.
+P5	Amata amakakakali.
+P6	Bbaabba taganha mata makakakali.
+P7	Mbala talambaala.
+P8	Abanga abala magi.
+P9	Namatala asalasala nsaala.
+P10	Ana asansala masala?
+P11	Mpa ensaala nsaleku.
+P12	Nsaba asamba akapiira.
+P13	Waama nhukuta aaa ya ilala!
 
 images:
 

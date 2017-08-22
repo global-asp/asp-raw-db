@@ -18,6 +18,7 @@ P4	Ela está a esticar-se.
 P5	Ele está a chamar.
 P6	Eu estou a responder.
 P7	Ela está a ouvir.
+P8	O que é que estás a fazer?
 
 images:
 
@@ -43,6 +44,8 @@ isiXhosa (Translation)	Wenza Ntoni?	id=15035
 isiZulu (Adaptation)	Wenzani?	id=17101
 Kiswahili (Translation)	Unafanya Nini?	id=15711
 Lunyole (Translation)	Ohola Hiina?	id=13602
+Lunyole (Translation)	Ohola Hiina?	id=21099
+Mampruli (Translation)	Bɔ Ka I Niŋna?	id=21221
 Ng’aturkana (Translation)	Nyo Isubi Iyong?	id=9778
 Sepedi (Translation)	O Dira Eng?	id=7692
-Tunisian (Translation)	Cnuwwe Qàġid Taġmil?	id=15381
+Tunisian (Translation)	Ċnuwwa Qāɛed Taɛmil?	id=15381

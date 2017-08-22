@@ -11,6 +11,15 @@ desc:	Carlos and Maria are feeding their animals. What do they give the hungry a
 
 page_text:
 
+P1	"Carlos,  don't give corn kernels to the dog!" says Maria. "But the dog is hungry," replies Carlos. "Comes with me to feed the animals. They are all hungry," says Maria.
+P2	"Since you have corn kernels in your hand,  let's start with the poultry," says Maria. Carlos throws the corn to the chickens. The chicks squeal,  "Piupiu." The chickens cluck,  "Couck. Couck."
+P3	"Now let's give sorghum to the pigeons," says Maria. Carlos throws sorghum to the pigeons. The pigeons land on the floor. The pigeons coo,  "Curru. Curru," while they eat.
+P4	"Maria,  we forgot the dog. He is hungry and has not eaten, " says Carlos. "What are we going to give the dog?" he asks. The dog barks,  "Whaf. Whaf."  He seems to be saying,  "I'm hungry."
+P5	The goats bleat,  "Meee. Meee."  They seem to greet Carlos and Maria. "Now can we go and feed the rabbits?" asks Carlos. "Let's go," replies Maria. "Do you know what rabbits eat?"
+P6	"I know," answers Carlos,  "let's give them some green leaves. At school I learned that they like carrots." "Well done! Rabbits also need water," says Maria. Carlos fills the bowl of water for the rabbits.
+P7	"Maria,  we forgot the dog. He is hungry and has not eaten, " says Carlos. "What are we going to give the dog?" he asks. The dog barks,  "Whaf. Whaf." He seems to be saying,  "I'm hungry."
+P8	Maria and Carlos go to fetch bones from the kitchen. "Whaf. Whaf," barks the dog,  wagging his tail happily. Maria opens the pantry door. Two rats jump out and run away.
+P9	Maria cries,  "The rats gnawed bags of peanuts." "Rats eat peanuts?" asks Carlos. Mary replies,  "They eat and chew everything. Where is the cat?" "Miauuuu," says Mia the cat,  as she chases after the rats.
 
 images:
 
@@ -30,4 +39,5 @@ illustrations/pages/14006.png
 
 translations:
 
+Lusoga (Translation)	 	id=21279
 Portuguese (Original)	Piu...piu...piu	id=14900

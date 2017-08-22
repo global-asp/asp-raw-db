@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=20684&d=0&a=1
+id:	20684
+title:	Nkunda Amashyamba
+author:	Jean Paul Harelimana
+artist:	Rob Owen
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20684.png
+desc:	Mu ishyamba rya Kibale
+
+page_text:
+
+P1	Nkunda amashyamba!
+P2	Icyumweru gishize, nagiye mu ishyamba rya Kibale.
+P3	Nabonye imizabibu, Muvule, imikindo n'ibiti by'amabara meza.
+P4	Nabonye inguge, ibitera n'inkende.
+P5	Nabonye inyoni zitanduknye. Nabonye imisambi, za kagoma n'ibihunyira.
+P6	Narasetse cyane igihe nabonaga inzovu nini ifite umurizo mugufi.
+P7	Nabonye ubwoko butandukanye bw'inyamaswa, inyoni n'ibimera.
+P8	Ishyamba rya Kibale ni ahantu heza ho gusura. Nkunda amashyamba! Nawe se?
+
+images:
+
+illustrations/pages/16540.png
+illustrations/pages/16577.png
+illustrations/pages/16539.png
+illustrations/pages/16544.png
+illustrations/pages/16541.png
+illustrations/pages/16543.png
+illustrations/pages/16542.png
+illustrations/pages/16540.png
+
+translations:
+
+English (Translation)	I Love Forests	id=16578
+Rutooro (Original)	Ngonza Ebibira	id=16545

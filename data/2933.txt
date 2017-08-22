@@ -4,7 +4,7 @@ title:	Mamela Kumzimba Wam
 author:	Ntombizodwa Gxowa-Dlayedwa
 artist:	Angie & Upesh
 lang:	isiXhosa
-level:	First words
+level:	First sentences
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/2933.png
 desc:	Mamela umzimba wakho. Uthini?
@@ -12,21 +12,21 @@ desc:	Mamela umzimba wakho. Uthini?
 page_text:
 
 P1	Namhlanye andiyi esikolweni. Yiholideyi!
-P2	Namhlanje andizubukela umabona-kude/ iTV. Akukho mbane!
+P2	Namhlanje andizubukela umabona-kude. Akukho mbane!
 P3	Ndiza kwenza ntoni? Namhlanje ndiza kumamela kumzimba wam!
-P4	Okokuqala,  Ndiza kuthi cwaka. Cwaka kakhulu. Ukuze ndibe nokumamela kumzimba wam.
-P5	Ewe,  ngoku Ndiyawuva umphefumlo wam. Ngaphakathi. Ngaphandle. Ngaphakathi. Ngaphandle.
+P4	Okokuqala, ndiza kuthi cwaka. Cwaka kakhulu. Ukuze ndibe nokumamela kumzimba wam.
+P5	Ewe, ngoku ndiyawuva umphefumlo wam. Ngaphakathi. Ngaphandle. Ngaphakathi. Ngaphandle.
 P6	Kwaye ndingawenza umphefumlo wam ungxole kakhulwana. Ssssssssssssss! Ngokuthe cwaka Mmmmmm.
-P7	Kwaye ngoku ndiyayivavs intliziyo yam,  ibetha! Doodom,  doodoom,  dooodooom.
-P8	Ndingayenza intliziyo yam ihambe ngokukhawuleza okanye ngokungxolayo? Ewe,  ngokuxhumela phezulu naphantsi ngamaxesha amashumi amabini.
-P9	Ngoku,  bona intliziyo yam ibetha ngokukhawuleza. Doodom,  doodoom,  dooodooom!
+P7	Kwaye ngoku ndiyayivavs intliziyo yam, ibetha! Doodom, doodoom, dooodooom.
+P8	Ndingayenza intliziyo yam ihambe ngokukhawuleza okanye ngokungxolayo? Ewe, ngokuxhumela phezulu naphantsi ngamaxesha amashumi amabini.
+P9	Ngoku, bona intliziyo yam ibetha ngokukhawuleza. Doodom, doodoom, dooodooom!
 P10	Kwaye ukuba ndibeka iminwe yam esihlahleni sam,  ngoko ke ndingakwazi ukuva iPulse yam!
-P11	Kwaye ndiyaziva ndihlekaleni sam Haha haha haaah haaa!
-P12	Kwaye ndilila Boohoooohooo!
-P13	Kwaye ndihleka Qhwa Qhwaba Qhwa Qhwaba.
-P14	Ndingasiva isisu sam sixuxuzela Guddu guddu guddu.
-P15	Kwaye sisithi ndityse' ndityse'.
-P16	Kwaye impumlo yam iyaliva ivumba leejalebisi zigcadeka ekhitshini/egumbini lokuphekela likamama.
+P11	Kwaye ndiyaziva ndihleka. Haha, haha, haaah, haaa!
+P12	Kwaye ndilila. Boohoooohooo!
+P13	Kwaye ndihleka. Qhwa, qhwaba, qhwa, qhwaba.
+P14	Ndingasiva isisu sam sixuxuzela. Guddu, guddu, guddu.
+P15	Kwaye sisithi, "Ndityse, ndityse!"
+P16	Kwaye impumlo yam iyaliva ivumba leejalebisi zigcadeka egumbini lokuphekela likamama.
 P17	Kuluyolo ukuphulaphula umzimba wam. Kwaye ngoku ndifuna ukuva imihlathi yam ihlafuna.
 P18	Kwaye nesisu sam sigquma ziijalebisi ezimnandi nezishushu zikamama!
 
@@ -56,7 +56,7 @@ translations:
 
 English (Original)	Listen to my Body	id=13202
 English (Adaptation)	Listen to my Body	id=13558
-isiXhosa (Translation)	Mamela Umzimba Wam 2	id=14960
+isiXhosa (Translation)	Mamela Umzimba Wam	id=14960
 isiZulu (Translation)	Lalela Umzimba Wami	id=2910
 Kiswahili (Translation)	Nausikiliza Mwili Wangu	id=15713
 Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
@@ -64,4 +64,4 @@ Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
 Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
 Maa (Translation)	Ainining Osesen Lai	id=2927
 Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
-Sesotho (Lesotho) (Translation)	Mamela Mmele Oa Hao	id=2031
+Sesotho (Lesotho) (Translation)	Mamela Mmele Oaka	id=2031

@@ -3,7 +3,7 @@ id:	15505
 title:	በሬ እና አህያ
 author:	Melese Getahun Wolde
 artist:	Salim Kasamba
-lang:	English
+lang:	Amharic
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/15505.png
@@ -44,4 +44,5 @@ translations:
 
 English (Adaptation)	Ox and Donkey	id=18333
 Kiswahili (Translation)	Fahali Na Punda	id=15612
+Oluwanga (Adaptation)	Isurusi Nende Isishiri	id=20346
 Portuguese (Translation)	O Boi E O Burro	id=18844

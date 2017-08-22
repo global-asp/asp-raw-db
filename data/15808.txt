@@ -11,6 +11,15 @@ desc:	A-Luwisa akwete masengo gakutenda ga pacikola.  Mama vawo adipelece kwakam
 
 page_text:
 
+P1	  Luwisa: "Ngwete masengo ganguti ndende ga pacikola."   Mama: "Komboleka nankamusye?"
+P2	  Luwisa: "Ana cici tupandile mun'gunda-mu?"   Mama: "Yinangwa."
+P3	  Luwisa: "Ana cici tukudyaga mu yinangwa-mu?"   Mama: "Tukudyaga njiga ni masamba gakwe."
+P4	  Luwisa: "Ana cici sooni tukupandaga mun'gunda?"   Mama: "Tukupandaga ntesa."
+P5	  Luwisa: "Ana ntesa wudi njiga?"   Mama: "Ngava. Jidi mbeju ja jikutyocela mu wuluva."
+P6	  Luwisa: "Ana cici sooni tukupandaga mun'gunda?"   Mama: "Tukupandaga yimanga."
+P7	  Luwisa: "Tukudyaga yimanga yevisi."   Mama: "Sooni tukutwaga kuti wukopoce wutandi. Wele wutandi-wo,  tuwugaga wugadi."
+P8	  Luwisa: "Ana sooni cici tukupandaga mun'gunda?"   Mama: "Tukupandaga mbwanda sya ngunde syasidi cenene."
+P9	  Luwisa: "Tukupandaga yicindu yejinji mun'gunda."   Mama: "Pele tuveje vana ndavi jose-pe yakudya yambone!"
 
 images:
 

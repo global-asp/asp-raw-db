@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=19194&d=0&a=1
 id:	19194
-title:	Hyena, Hare and Basins
+title:	Hyena, Hare And Their Basins
 author:	Ursula Nafula
 artist:	Salim Kasamba
 lang:	English
@@ -18,7 +18,7 @@ P4	Hare gave Hyena his large basin. He also gave Hyena a small basin. Hare said,
 P5	A few days later,  Hare wanted to water his donkey and again he went to Hyena for help. Hyena thought,  "Since I will get an extra basin,  I will give him my basin straight away!"  Hare took Hyena's big basin and went to water his donkey. Afterwards he took Hyena's basin home with him.
 P6	Hyena waited to collect his basin from Hare. He wanted to give it time to give birth to a young one! When Hyena went to Hare's home to collect his basin,  Hare said,  "Hyena,  my friend,  I was just about to come to deliver the bad news. Your basin died two days ago. You know that all things that live,  also die!"
 P7	Hyena could not believe this news. He said,  "I must call bigger animals to judge the case." So Hyena called the bigger animals for a meeting. Elephants,  buffalos,  hippos and giraffes arrived at Hare's home to judge the case.
-P8	Hare was asked to explain what happened. He said,  "The first time I borrowed Hyena's basin,  it gave birth to a young one and I gave him the two. Unfortunately,  the second time I borrowed Hyena's basin,  it died before giving birth. You see,  whatever has life also dies. That's what happened to the basin!" All the animals agreed with Hare's explanation. Hyena lost his basin to Hare.
+P8	Hare was asked to explain what happened. He said,  "The first time I borrowed Hyena's basin,  it gave birth to a young one and I gave him the two. Unfortunately,  the second time I borrowed Hyena's basin,  it died before giving birth. Whatever has life also dies." All the animals agreed with Hare's explanation. Hyena lost his basin to Hare.
 
 images:
 
@@ -34,5 +34,12 @@ illustrations/pages/19192.png
 
 translations:
 
-English (Adaptation)	Hyena, Hare and Basins	id=19764
+Afaan Oromo (Translation)	Warabeesa, Illetif Gabate	id=20427
+Amharic (Translation)	ጅብ፣ ጥንቸልና ሳፋዎቻቸው	id=20481
+English (Adaptation)	Hyena, Hare And Their Basins	id=19764
+isiZulu (Translation)	Umpisi, Unogwaja Nezindishi	id=20722
 Kiswahili (Original)	Fisi, Sungura Na Karai	id=19193
+Kiswahili (Translation)	Fisi, Sungura Na  Beseni	id=20437
+Lusoga (Translation)	Wampiti, Wakayima Ni  Benseni	id=20400
+Ng’aturkana (Translation)	Ebuu, Apoo Ka Ng'atubwae	id=20416
+Setswana (Translation)	Phiri, Mmutla Le Dijana	id=21057

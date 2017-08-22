@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=20800&d=0&a=1
+id:	20800
+title:	Karin Kumallo
+author:	Rabiu Abdullahi
+artist:	Cathy Feek
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20800.png
+desc:	Nemawa Baba abincin da ya ke so lokacin karin kumallo.
+
+page_text:
+
+P1	Mahaifina ya na san Fate-fate.
+P2	Ina san kwamfilak (cornflakes).
+P3	Mahaifina ya na san gahawa.
+P4	Ina san madara.
+P5	Mahaifina ya na san tuffa.
+P6	Ina san leman-zaki.
+P7	Mahaifina ya na san mummuki. Ina san mummuki.
+P8	Dukkan mu muna san kek.
+
+images:
+
+illustrations/pages/1571.png
+illustrations/pages/1572.png
+illustrations/pages/1573.png
+illustrations/pages/1574.png
+illustrations/pages/1575.png
+illustrations/pages/1576.png
+illustrations/pages/1577.png
+illustrations/pages/1571.png
+illustrations/pages/1578.png
+
+translations:
+
+ChiTonga (Translation)	Cakulya Camafumofumo	id=20880
+English (Original)	Breakfast	id=2839
+IciBemba (Translation)	Umwikulo	id=20877
+isiZulu (Translation)	Ukudla Kwasekuseni	id=8735
+Kikamba (Translation)	Lĩu Wa Kwakya	id=2863
+Kiswahili (Translation)	Kifungua Kinywa	id=7780
+Luganda (Translation)	Lĩu Wa Kwakya	id=3039
+Luganda (Translation)	Ekyenkya	id=7782
+Lugbarati (Translation)	Nyaka O’Biti Si Ri	id=2862
+Lugbarati (Official) (Translation)	Nyaká Ò’Bíti Sɨ̀rɨ̀	id=8773
+Lunyole (Translation)	Ehyomumugamba	id=2844
+Lunyole (Translation)	Ebiryo Byo Mu Mugamba	id=12908
+Maa (Translation)	Endáa É Enkakenyá	id=2864
+Mampruli (Translation)	Nangbansuuri	id=21223
+Ng’aturkana (Translation)	Akimuji Na Ataparachu	id=8737
+Oluwanga (Translation)	Eshiokhulia Shiomumabwibwi	id=8738
+Sabinyi (Translation)	Amikap Koron	id=2847
+Setswana (Translation)	Difitlholo	id=2848
+SiLozi (Translation)	Mukushuko	id=20920
+Tunisian (Translation)	Fŧùr Iṡ-Ṡbèħ	id=15164

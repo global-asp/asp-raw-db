@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21113&d=0&a=1
+id:	21113
+title:	እታ በቅሊ
+author:	Angish Abay
+artist:	Marleen Visser
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21113.png
+desc:	ኣቡኣ ብዘይ ምኽባራ እያ በቅሊ ዘይትወልድ ዝብል ያታዊ ኣባህላ ኣሎ።እዚ ነበረያነበረ እውን በቅሊ ንምንታይ ከምዘይትወልድ ዝገልፅ ልማዳዊ ዛንታ እዩ ።
+
+page_text:
+
+P1	ሓንቲ ምሊት ትብሃል ፅብቕቲ በቅሊ ነይራ።
+P2	ሓደ ፅቡቕ ፈረስ “ንምሊት ናይ ግድን ክምርዐዋ ኣለኒ” በለ።
+P3	እቲ ፈረስ ንምሊት “ብሓደ ንሩባ ንኺድ” በላ።
+P4	እቲ ፈረስ ንኽትምርዓዎ ጠየቓ። ምሊት ድማ እሺ በለት።
+P5	እቲ ፈረስ “ኣቦኽን ኣዴኽን መነ መን ይብሃሉ”  ኢሉ ሓተታ።
+P6	“ኣደይ ኣብ አንዳ ንጉስ እያ ትነብር” ኢላ መለሰትሉ።
+P7	“ሓፍተይ ኣብ ቀፅሪ ቤተ ክርስትያን እያ እትነበር፤ ኣይትፈልጣን?”  በለቶ።
+P8	“እታ ፅብቕቲ ኣሞይ ምስ ዋና ኣማሓዳሪ  እያ እትነበር”  ኢላ ወሰኸትሉ።
+P9	ሓደ ኣረጊት ኣድጊ ይሓልፍ ነይሩ። ኣቡኣ ንምሊት እዩ።
+P10	ምሊት ንኣቡኣ ግልፅ ኢላ ኣይርኣየቶን፤ ሰላም እውን ኣይበለቶን።
+P11	እቲ ኣረጊት ኣድጊ “እንታይ ኮንኪ እዛ ጓለይ” በላ።
+P12	እቲ ፈረስ “መን እዩ እዚ ሕማቕ ኣድጊ?”  በላ።
+P13	“ፈፂመ ኣይፈልጦን” በለቶ ምሊት።
+P14	እቲ ፈረስ ነቲ ኣረጊት ኣድጊ ረግሖ።
+P15	እቲ ኣረጊት ኣድጊ ብጣዕሚ ሓዘነ፣ በኽዩ ድማ ሞተ።
+P16	ምሊት ኣቡኣ ስለ ዘይኣኽበረት ክሳብ ሎሚ ዋላ ሓደ ቆልዓ ኣይወለደትን።
+
+images:
+
+illustrations/pages/17977.png
+illustrations/pages/17968.png
+illustrations/pages/17969.png
+illustrations/pages/17970.png
+illustrations/pages/17971.png
+illustrations/pages/17972.png
+illustrations/pages/17973.png
+illustrations/pages/17974.png
+illustrations/pages/17975.png
+illustrations/pages/17976.png
+illustrations/pages/17977.png
+illustrations/pages/17978.png
+illustrations/pages/17979.png
+illustrations/pages/17980.png
+illustrations/pages/17981.png
+illustrations/pages/17982.png
+illustrations/pages/17984.png
+
+translations:
+
+Amharic (Translation)	በቅሎዋ ዋርዲት	id=17991
+Amharic (Adaptation)	በቅሎዋ ዋርዲት	id=18427
+Amharic (Translation)	ዋርዲት በቅሎዋ	id=21180
+English (Original)	Wardit, the Mule	id=17985
+English (Adaptation)	The Mule	id=20873
+Kiswahili (Translation)	Nyumbu	id=21073

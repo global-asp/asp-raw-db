@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=20087&d=0&a=1
+id:	20087
+title:	Namu Se Fiets
+author:	Fanie Viljoen
+artist:	Wiehan de Jager
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20087.png
+desc:	’n Apie ry met Namu se fiets weg! Die kinders jaag die apie.
+
+page_text:
+
+P1	Namu en haar broer is gereed vir skool.
+P2	Namu en haar broer ry saam op haar fiets.
+P3	Hulle vriende juig toe hulle by die skool inry.
+P4	Terwyl hulle in die klas is, kom ’n apie by die skoolhek in. 
+
+Die apie ry met Namu se fiets weg!
+P5	Die kinders jaag die apie.
+P6	Die apie spring af en los die fiets onder ’n boom.
+P7	Die apie swem na ’n eiland in die middel van die meer. Hy klim hoog in 'n boom in.
+P8	Die apie waai totsiens! 
+
+Die kinders waai terug. 
+
+Namu het weer haar fiets terug.
+
+images:
+
+illustrations/pages/13433.png
+illustrations/pages/13429.png
+illustrations/pages/13430.png
+illustrations/pages/13431.png
+illustrations/pages/13432.png
+illustrations/pages/13433.png
+illustrations/pages/13434.png
+illustrations/pages/13435.png
+illustrations/pages/13436.png
+
+translations:
+
+English (Translation)	Namu's Bicycle	id=13922
+French (Translation)	La Bicyclette De Namukuru	id=14968
+isiXhosa (Translation)	Ibhayisekile Kanamukuru	id=14120
+isiZulu (Translation)	Ibhayisikili Likanamakuru	id=15049
+Lunyole (Adaptation)	Egaali	id=16576
+Oluwanga (Original)	Lishene Ne Ingarangarani	id=13921
+Portuguese (Translation)	A Bicicleta De Namukuru	id=17618
+Sesotho (S.Africa) (Translation)	Baesekele Ya Namukuru	id=14510
+Sesotho (South Africa) (Translation)	Baesekele Ya Seipati	id=20039
+Tshivenda (Translation)	Lukanyakanya Lwa Namukuru	id=14775
+Xitsonga (Translation)	Xikanyakanya Xa Masesi	id=14518

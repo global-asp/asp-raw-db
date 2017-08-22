@@ -46,9 +46,10 @@ illustrations/pages/5824.png
 
 translations:
 
+Afrikaans (Translation)	Namukhaywa	id=11367
 English (Original)	Namukhaywa	id=5859
 French (Translation)	Namukhaywa	id=9961
-Hausa (Translation)	Namukhaywa	id=9991
+Hausa (Niger) (Translation)	Namukhaywa	id=9991
 Kanuri (Translation)	Fanna	id=10041
 Kiswahili (Translation)	Namukhaywa	id=7874
 Luganda (Translation)	Namukwaya	id=8312
@@ -58,5 +59,5 @@ Lunyole (Translation)	Namwima	id=8404
 Maa (Translation)	Namukhaywa	id=7875
 Ng’aturkana (Translation)	Namukhaywa	id=8457
 Setswana (Translation)	Dineo	id=7800
-siSwati (Translation)	Namukhaywa	id=13078
+Siswati (Translation)	Namukhaywa	id=13078
 Zarma (Translation)	Namukayya	id=10106

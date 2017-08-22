@@ -21,6 +21,7 @@ P7	L'oiseau Pam Pam cria d'une voix perçante,  "si u me tues tu n'auras plus de
 P8	Cette nuit-là,  le guérisseur entraîna le peuple dans une danse du feu pour célébrer le succès du chasseur et la liberté de l'oiseau Pam Pam. Et depuis ce jour,  tous les bons chasseurs se souviennent de l'histoire de l'oiseau Pam Pam qu'ils racontent à leurs enfants comme un souvenir des jours passés.
 P9	Pensa rentra chez lui et fabriqua de nouvelles flèches. Lorsque les gens virent ses nouvelles flèches,  ils s'exclamèrent: "Oh,  Oh,  regardez ce chasseur! Ils portent les plumes de l'oiseau Pam Pam dans ses flèches. Maintenant il chassera bien et nous rapportera de la bonne nourriture. Faisons une fête!"
 P10	Cette nuit-là,  le guérisseur entraîna le peuple dans une danse du feu pour célébrer le succès du chasseur et la liberté de l'oiseau Pam Pam. Et depuis ce jour,  tous les bons chasseurs se souviennent de l'histoire de l'oiseau Pam Pam qu'ils racontent à leurs enfants comme un souvenir des jours passés.
+P11	Notes sur l'histoire En 1998 Xun conteur Pensa Limungu (1949 – 2007) chanta cette histoire orale accompagné par les traditionnels Khonga à Marlene Winberg qui la traduisit avec l'aide de Kapilolo Mahongo. Elle parle des relations entre la nature et les hommes,  le chasseur et la proie. Elle explique au public que le chasseur est dépendant des ressources de la nature et ne doit pas les gaspiller. Les illustrations de cette histoire sont tirées des maquettes de Marlene Winberg,  interprétées numériquement par Satsiri Winberg par des manipulations de l'Art Manyeka. Collection de peintures faites par des artistes San.
 
 images:
 
@@ -40,4 +41,4 @@ translations:
 
 English (Original)	Pam-Pam Bird	id=5377
 Portuguese (Translation)	O Pássaro Pam-Pam	id=18846
-siSwati (Translation)	Lingangane	id=13314
+Siswati (Translation)	Lingangane	id=13314

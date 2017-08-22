@@ -13,9 +13,9 @@ page_text:
 
 P1	Ngibone iloli elikhulu ligijima phansi le emgwaqeni.
 P2	Imoto engu-Mercedes yayiza ikhuphuka ngomgwaqo.
-P3	Umshayeli weloli wayekhuluma Kumakhalekhukhwini.
+P3	Umshayeli weloli wayekhuluma kumakhala ekhukhwini.
 P4	Wayengabhekile emgwaqeni.
-P5	Kwaba khona okukhulu Ukushayisana.
+P5	Kwaba khona okukhulu ukushayisana.
 P6	I-ambulensi namaphoyisa beza ukuzosiza.
 P7	Kwafika amaloli amabili adonsa izimoto. Adonsa kokubili imoto encane neloli.
 P8	Ngethuka.
@@ -36,12 +36,17 @@ translations:
 
 Aringati (Translation)	Drị̃lẹ́-Ũnzí Ịsụ́ Drãdrị̃gá Ꞌi	id=6436
 Ateso (Translation)	Akangasi	id=2835
+Ateso (Translation)	Akangas	id=20626
 English (Original)	Accident	id=915
+Hausa (Nigeria) (Translation)	Hatsari	id=20757
 Kakwa (Translation)	Koŋo Naro	id=9050
 Kikamba (Translation)	Mbanga	id=2787
 Luganda (Translation)	Akabenje	id=2788
+Luganda (Translation)	Akabenje	id=20739
 Lugbarati (Translation)	Drileonzi	id=2598
 Lugbarati (Official) (Translation)	Drìléònzɨ́	id=8779
+Lugwere (Translation)	Akabenjje	id=21469
+Lugwere (Translation)	Kabeenje	id=21470
 Lumasaaba (Translation)	Bunyaalifu	id=916
 Lumasaaba (Translation)	Bunyaalifu	id=8722
 Lunyole (Translation)	Ahabenje	id=2789
@@ -49,6 +54,7 @@ Lusoga (Translation)	Akabendhe	id=2790
 Ngakarimojong (Translation)	Anang’a a Ng’Amotokae	id=8723
 Ng’aturkana (Translation)	Anang’a a Ng’Amotokae	id=2792
 Oluwanga (Translation)	Amasila	id=2791
+Rufumbira (Translation)	Impanuka	id=20632
 Sabinyi (Translation)	Wuyinto	id=2793
 Sepedi (Translation)	Kotsi	id=7853
 Setswana (Translation)	Kotsi	id=2794

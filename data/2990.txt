@@ -22,9 +22,10 @@ P8	Mbolambola,  bibiindu byaarakikha khushuukha. Khuukanikha mu baana khwaboomba
 P9	Buli mbuka isi baalolanatsakakho,  bebona nga kameeno kaabwe kasongokha naabi. Baarakikha khuukyeendela khu bikyele bine.
 P10	Baryo beekyela bibuumbe bishaakha abe byeesi umuundu yeesi aakhabonatsakakho mu shifwo isho ta. Bibuumbe bino nibyo byeesi ari babaandu balaanga bari Ingukye.
 P11	Imbuka yaabirawo nga tsingukye tsimenya mu mwikhoyo. Tsiryo tsaakamisa khuutimisa butuuyu,  tsaarakikha khuulyatsaka bye mwiloba.
-P12	Ne tsaaba nga tsishebulila tsiri lutweela tsabakho babaandu. Tsaaba nga tsilolana kamoolu kaatso kamaboofu,  tsaaba nga tsiitsekhelela tsonyene busa.
-P13	Ne tsingukye sitsakana naabi khuutsekha ta. Tsiryo tsaaba nga tsiisutaka mu ngaaki ni aasi lwe lirima liikali. Lwanyumakho,  tsingukye tsino tsaalekha khunyala khuumenya atweela ta lwe khukhwiitsekhelela ni lirima liikali. Isho shaakila buli ingukye ni muungo mwayo yaatsya yaamenya iyo yonyene.
-P14	Shisheene isho nisho shishikila tsingukye tsimenya mu bukuuka bukyeekhe ni shaleelo shino,  tsaalekha khumenya nga linaambo lye tsingukye ta.
+P12	Tsebilila luulomo lwe khuukanikha. Tseyabulamo tsingubo tsatso lwekhuuba bikyele byatso ni kamakhono keene byaba byetsuulekho bubwooya.
+P13	Ne tsaaba nga tsishebulila tsiri lutweela tsabakho babaandu. Tsaaba nga tsilolana kamoolu kaatso kamaboofu,  tsaaba nga tsiitsekhelela tsonyene busa.
+P14	Ne tsingukye sitsakana naabi khuutsekha ta. Tsiryo tsaaba nga tsiisutaka mu ngaaki ni aasi lwe lirima liikali. Lwanyumakho,  tsingukye tsino tsaalekha khunyala khuumenya atweela ta lwe khukhwiitsekhelela ni lirima liikali. Isho shaakila buli ingukye ni muungo mwayo yaatsya yaamenya iyo yonyene.
+P15	Shisheene isho nisho shishikila tsingukye tsimenya mu bukuuka bukyeekhe ni shaleelo shino,  tsaalekha khumenya nga linaambo lye tsingukye ta.
 
 images:
 
@@ -48,7 +49,7 @@ translations:
 
 English (Original)	The Baboons That Went This Way and That	id=2605
 English (Adaptation)	The Baboons That Went This Way and That	id=2609
-English (Adaptation)	Baboons	id=19986
+English (Adaptation)	They Became Baboons	id=19986
 isiZulu (Translation)	Izimfene Ezaziya Le Na Le	id=2853
 Kiswahili (Translation)	Nyani Walioenda Huku Na Huko	id=2987
 Lunyole (Translation)	Enguge Ejerwenga Eno Ni Neera	id=2852

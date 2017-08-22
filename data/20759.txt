@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=20759&d=0&a=1
+id:	20759
+title:	Wata Karamar Yarinya
+author:	Muhammad Umar
+artist:	Wiehan de Jager, Sarah Bouwer, Padmanabha, Brandan Reynolds and blackmoondev.com
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20759.png
+desc:	Wata yarinya ce aka aike ta wajan Kakanta akan hanya ta hadu da namun daji.
+
+page_text:
+
+P1	Wata yarinya iyayenta suka aike ta wajan Kakanta da ya ke zaune a bayan daji. Ta tafi cikin farin cikinta.
+P2	Lokacin da ta isa kusa da daji, ta hadu  da wata sakaran Akuya ta yi mata magana cewa ta yi a hankali domin za ta hadu da namun daji.
+P3	Lokacin da ta kai tsakiyar dajin, ta samu namun daji da yawa a kusa da hanya, sai ta yi ta gudu ta na kara.
+P4	Bayan ta fita daga daji, sai ta hadu da Tsuntsaye masu yawa a waje guda suna kara, sai ta kara gudu ta na kara. Sai Kakanta ya jiyo ta.
+P5	Kakanta ya ce da matarsa wannan jikarsu ce. Ya fita da sauri tare da Karensa domin duba ta kuma ya same ta a gajiye.
+P6	Lokacinda suka isa ta shiga gida ta gaishe da sauran yara kuma ta dauki abinci. Bayan ta gama cin abinci ta ba su labarin abin da ya faru akan hanya.
+P7	Bayan fadin abin da ya faru sai aka ba ta shawara ka da ta kara biyowa ta cikin daji ba tare da wani ba, sai ta tafi cikin farin ciki sukai ta wasa da sauran yara.
+P8	Ba ta sake biyowa ta cikin dajin ba tare da wani ba.
+
+images:
+
+illustrations/pages/19826.png
+illustrations/pages/19826.png
+illustrations/pages/13351.png
+illustrations/pages/10233.png
+illustrations/pages/292.png
+illustrations/pages/17295.png
+illustrations/pages/13930.png
+illustrations/pages/14062.png
+illustrations/pages/2039.png
+
+translations:
+
+Dhopadhola (Translation)	Nyako Mathini	id=20970
+English (Original)	A Little  Girl 	id=20550
+Kinyarwanda (Translation)	Umukobwa Muto	id=20962
+Luganda (Translation)	Omuwala Omuto	id=20946
+Runyoro (Translation)	Akaisiki Akato	id=20642

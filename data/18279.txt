@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=18279&d=0&a=1
 id:	18279
 title:	Adifudepɛfoɔ Kiundu
 author:	Henrietta Afrani (OLE Ghana)
-artist:	Alex Zablon
+artist:	Zablon Alex Nguku
 lang:	Asante Twi
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
@@ -42,7 +42,7 @@ illustrations/pages/9140.png
 
 translations:
 
-Akuapem Twi (Translation)	Kiundu Difudepɛfo No	id=18459
+0 (Translation)	Kiundu Difudepɛfo No	id=18459
 Amharic (Translation)	ገብጋባው ክንዴ	id=12003
 Dagaare (Translation)	Kiundu, Bundi-Gbogbo Soba	id=17771
 Dagbani/Dagbanli (Translation)	Kiundu Biɛmlana	id=18150
@@ -62,3 +62,4 @@ Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
 Portuguese (Translation)	Kiundu Guloso	id=16439
 Sesotho (Lesotho) (Translation)	Ntate Meharo O Meharo	id=10626
 Setswana (Translation)	Megagaru Ya Ga Abele	id=14961
+Talen (Translation)	Poraong Kiundu	id=20362

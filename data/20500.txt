@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=20500&d=0&a=1
+id:	20500
+title:	ዝንጀሮና ድርቁ
+author:	Mezemir Girma
+artist:	Salim Kasamba
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20500.png
+desc:	ያለንን ለማጋራት ከፈቀድን ሁላችንም አብረን በሠላም መኖር እንችላለን፡፡
+
+page_text:
+
+P1	ዝናብ አልዘነበም ነበር፡፡ መሬቱም በጣም ደርቋል፡፡
+P2	ይቺ ዝንጀሮ ምግብና ውሃ ፍለጋ ከቤቷ ወጥታለች፡፡
+P3	ተራራና ሸለቆን እያቆራረጠች ሄደች፡፡
+P4	ቲርኮል ከተባለ ስፍራም ደረሰች፡፡
+P5	ዝንጀሮ በዚህ ስፍራ ተደሰተች፡፡
+P6	ፍራፍሬ በልታ ወፈረች፡፡ ጓደኞቿ ግን ጠፉባት፡፡
+P7	ስለሆነም ዝንጀሮዋ ረጅም መንገድ ተጉዛ እቤቷ ደረሰች፡፡
+P8	ሌሎቹም ዝንጀሮዎች ሲያዩዋት ተደሰቱ፡፡
+P9	‹‹ይህ በፍራፍሬ የበለጸገ ስፍራ የት ነው ያለው?›› ሲሉ ጠየቋት፡፡
+P10	‹‹እወስዳችኋለሁ›› አለቻቸው፡፡
+P11	ሌሎቹም ዝንጀሮዎች ቲርኮልን ወደዱት፡፡ እዚያም በቋሚነት ለመኖር ወሰኑ፡፡
+P12	የቲርኮል ዝንጀሮዎች ግን ሃሳብ ገባቸው፡፡
+P13	‹‹እነዚህ አዲስ መጤ ዝንጀሮዎች ፍራፍሬያችንን በልተው ይጨርሱብናል›› በማለት ተጨነቁ፡
+P14	የቲርኮል ዝንጀሮዎች አዲሶቹን ዝንጀሮዎች ለማጥቃት ተነሱ፡፡
+P15	‹‹ለምን እንጣላለን?›› አሉ አንድ አዛውንት፡፡ ‹‹በቂ ፍራፍሬ እያለ!››
+P16	ይህም እውነት ነበር፡፡ ስለሆነም ዝንጀሮቹ በሰላም አብረው መኖር ጀመሩ፡፡
+
+images:
+
+illustrations/pages/18796.png
+illustrations/pages/18786.png
+illustrations/pages/18788.png
+illustrations/pages/18789.png
+illustrations/pages/18790.png
+illustrations/pages/18791.png
+illustrations/pages/18792.png
+illustrations/pages/18793.png
+illustrations/pages/18794.png
+illustrations/pages/18795.png
+illustrations/pages/18796.png
+illustrations/pages/18797.png
+illustrations/pages/18798.png
+illustrations/pages/18799.png
+illustrations/pages/18800.png
+illustrations/pages/18801.png
+illustrations/pages/18802.png
+
+translations:
+
+Afaan Oromo (Translation)	Jaldeesafi Hongee	id=20429
+English (Original)	Monkey and the Drought	id=18803
+English (Adaptation)	Monkey and the Drought	id=19767
+Hausa (Nigeria) (Translation)	Biri Da Fari	id=20511
+Hausa (Nigeria) (Translation)	Birai A Lokacin Fari	id=21366
+isiZulu (Translation)	Unkawana Nesomiso	id=20725
+Kiswahili (Translation)	Kima Na Kiangazi	id=18804
+Kiswahili (Translation)	Kima Na Kiangazi	id=20440
+Ng’aturkana (Translation)	Ekadokot Ka Akamu	id=20411

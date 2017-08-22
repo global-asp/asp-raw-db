@@ -18,9 +18,10 @@ P4	Umuraangilisi we babaayi niye uweelakho. Aaba abonekha buulayi,  ashiili muso
 P5	Umusaani uweelakho aaba ali ni kamaswa kamakali naabi,  nga ewulila naabi,  naluundi nga abonekha buubi. Umukhaana waaba nga aloomba ari,  khali aliile khu byaano,  elayo. Ne nga baamurusiile bibyaano,  aaloba khuulya. Imbuka yaabirawo,  umukhaana waarakikha khuumwikoontselela alye. Ne nga tsisaawa tsitsya khwoola aambi likhumi,  intsala yaamuminya,  waalya. Naye baamuwoona weelayo.
 P6	Khukhwiilakho,  umwaami naye weetsawo. Niye aaba umulyakhani,  ewulila naabi,  naluundi nga abonekha buubi,  nga mbaawo umuundu yeesi umukana mu shisiintsa isho ta. Umukhaana weyikina ari manya oosi kane alye khu byaano,  eeleyo. Nga baamurusiile bibyaano,  waaloba khuubilya. Aryo waamala shifukhu shibuufu. Ne nga tsitsya khwoola saawa likhumi na tsibili,  aaloomba bamufukiilile atsyekho mu shiyiko. Baamulekha waatsya. Ne n'aakobola,  luluukhu lwe bibyaano lwaamukhupa,  ni kiminwa kyaarakikha khuurandaala! Umukhaana waakhupa shikhoowe,  nga umusaani uyo baamuwoonile,  weelayo.
 P7	Uri nga alibirirewo bifukhu bifwiiti biri,  umusooleli ubonekha buulayi,  umuyiinda uwe mu mafuki ke bayiinga,  naye woola. Umukhaana waamulolelela ni khukhwiikoomba khuukali. Aryo waamwiisa andulo,  waamwikoontselela khuula khulya ta. Waamurusila bibyaano bifwiiti biri,  khuuminyisakho byeesi baaseleli babaandi baaweebwa. Ne yatsya khwoola mwihaangilwe,  umusooleli we kamafuki ke buyiinga uyo,  aaba waaliile khaale,  naye baamuwoona weelayo. Umukhaana khulwe lirima liikali,  ni khuusinyana,  waarundukha kamasika waalila.
-P8	Basaali b'omukhaana baafunisibwa khuwaambisa "Tsabukara" yuno umukhaana waabwe. Umukhaana wekoontselela basaali ari bamuruse mu shikosi isho,  ne nga basaali sibali ni she khuukhola ta. Umulimi n'aaba nga amuyila ingo,  aapaka mukhono,  luundi wiimba kumweenya kumulayi naabi,  kukwarusa babaandu mu bukali,  khuuroongisa baakole khu lukuuto.
-P9	Mu baandu abo,  mwabamo babakaanisi b'omusooleli uwe kamafuki ke buyiinga. Bakhweesa umulimi baamwiisa andulo,  baamuteesesa,  khuumuwa kamapeesa ni tsikhaafu,  siinga alekha umukhaana uyo. Lubaluba,  niye waakaanila kamapeesa ni tsikhaafu,  weetsiila.
-P10	Babakaanisi bano baakwaarisa umukhaana bikwaaro biilayi,  baamuyila mu lubili,  baamwoolesa w'omwaana we kamafuki ke buyiinga. Mu mbuka ifwiiti iri,  balaanga basaali b'omukhaana,  baakhola kamayiiya ke khuubatubaasa boombi atweela mu bukhwaale.
+P8	Shifukhu shisheelakho,  umulimi naye weetsawo. Niye aaba umutaambi,  naluundi nga umukara,  ne nga ali umusooleli uwamanyikhana mu baandu baakali nga n'ali umukanikhi umulayi naabi. Niye eetsa nga waamaliliile khufuura. Umukhaana waamurusila bibyaano biikali,  waamuloomba alye eeleyo. Ne nga baamurusila bibyaano,  ekaana khuubilya. Umukhaana waaliindiilila ni khukhwiikhaliilikha Khuukali. Lihaangilwe lyaabira,  tsoola saawa shinaane tse kumuusi. Uri tsoola saawa likhumi,  umulimi tsana waasaba kameetsi. Umukhaana waaloomba mu mwoyo kweewe ari khali aliile. Ne aaba ashiloomba aryo,  isaawa yoola ndweela iye ashilo.
+P9	Basaali b'omukhaana baafunisibwa khuwaambisa "Tsabukara" yuno umukhaana waabwe. Umukhaana wekoontselela basaali ari bamuruse mu shikosi isho,  ne nga basaali sibali ni she khuukhola ta. Umulimi n'aaba nga amuyila ingo,  aapaka mukhono,  luundi wiimba kumweenya kumulayi naabi,  kukwarusa babaandu mu bukali,  khuuroongisa baakole khu lukuuto.
+P10	Mu baandu abo,  mwabamo babakaanisi b'omusooleli uwe kamafuki ke buyiinga. Bakhweesa umulimi baamwiisa andulo,  baamuteesesa,  khuumuwa kamapeesa ni tsikhaafu,  siinga alekha umukhaana uyo. Lubaluba,  niye waakaanila kamapeesa ni tsikhaafu,  weetsiila.
+P11	Babakaanisi bano baakwaarisa umukhaana bikwaaro biilayi,  baamuyila mu lubili,  baamwoolesa w'omwaana we kamafuki ke buyiinga. Mu mbuka ifwiiti iri,  balaanga basaali b'omukhaana,  baakhola kamayiiya ke khuubatubaasa boombi atweela mu bukhwaale.
 
 images:
 
@@ -43,6 +44,7 @@ translations:
 English (Original)	Fruit	id=2124
 French (Translation)	Les Fruits	id=10182
 Gurene (Translation)	Tiisi Wɔla	id=12666
+Kinyarwanda (Translation)	Imbuto	id=20282
 Kiswahili (Translation)	Matunda	id=8431
 Likpakpaanl (Translation)	Lisubil	id=18777
 Lugbarati (Translation)	Pati Efi	id=2334
@@ -50,4 +52,4 @@ Lugbarati (Official) (Translation)	Patí Éfɨ́	id=8750
 Lumasaaba (Translation)	Bibyaano	id=8688
 Lunyole (Translation)	Ehibala	id=2333
 Rutooro (Translation)	Ekijuma	id=14923
-siSwati (Adaptation)	Sitselo	id=13072
+Siswati (Adaptation)	Sitselo	id=13072

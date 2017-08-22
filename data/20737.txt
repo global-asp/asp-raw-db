@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=20737&d=0&a=1
+id:	20737
+title:	Kumutambo Kwekhufa Kucheniya Hupapa
+author:	Namee Lillian
+artist:	SIL International
+lang:	Lumasaaba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20737.png
+desc:	Hupapa elamu aryena nga kumutambo kwekhufa kwetsile khucheniya.
+
+page_text:
+
+P1	Abawa umusetsa isi balanga bari Hupapa nga amenya mushalo bari Mugulu.
+P2	Lutwela Kumutambo kwe khufa kwetsa khumucheniya.
+P3	Hupapa arya naabi khubona umucheni.
+P4	"Shalelo lulwowo khuboona Were wetsele," nga umucheni akankha aryo. "Ne nahwitegekha tawe," Hupapa wekonzelera. Umucheni wekanila ari lulwewe lwolire.
+P5	Hupapa wawa umucheni bilyo biwomere.
+P6	Umucheni akoona nga amala khulya biryo. Hupapa wawamba lupapula wawandikha lisiino lyewe asi lisembayo.
+P7	Umucheni ngenyukha, asanyukhira lukoosi lwesi Hupapa amuwa. Akhala khunanikhira khubasembeyo asi.
+P8	Ari shibi shili shiri Hupapa abe awandikhire lisiino lyewe asi.
+
+images:
+
+illustrations/pages/17282.png
+illustrations/pages/17285.png
+illustrations/pages/17286.png
+illustrations/pages/17288.png
+illustrations/pages/17283.png
+illustrations/pages/17284.png
+illustrations/pages/17281.png
+illustrations/pages/17280.png
+illustrations/pages/17287.png
+
+translations:
+
+English (Original)	The Visit of Death	id=13632
+English (Adaptation)	Death Visits Hupapa	id=17197

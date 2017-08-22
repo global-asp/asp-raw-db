@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=20969&d=0&a=1
+id:	20969
+title:	Omulenzi Owomululu
+author:	Stellah Nakasango
+artist:	Bronwen Heath, Eden Daniels, Marleen Visser and Wiehan de Jager
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20969.png
+desc:	Olugero luno lukwata ku mulenzi eyayina omululu omungi enyo. Soma olabe nga webyali nga webyali.
+
+page_text:
+
+P1	Lumu abaalenzi basatu okuva mu kyaalo kya Mugulu bageenda okuyiiga.
+P2	webali batambula basaanga ebinyonyi bibiri. nebabigoba paka webabi taa.
+P3	wezatuka saawa zokuda ewaka,bayagala okugabana  ebinyoyo.Omulenzi naduka.
+P4	abalenzi bamugoba nebaba mujako ebinyonyi.
+
+images:
+
+illustrations/pages/5815.png
+illustrations/pages/6377.png
+illustrations/pages/296.png
+illustrations/pages/4466.png
+illustrations/pages/1717.png
+
+translations:
+
+Acholi (Translation)	Awobi Ma Lagem	id=21317
+Ateso (Translation)	Esapat Lo Eisinye.	id=7651
+Ateso (Translation)	Esapat Lo Eisinge	id=20967
+English (Original)	A Greedy Boy	id=6388
+Hausa (Nigeria) (Translation)	Yaro Mai Sankai	id=20788
+Kinyarwanda (Translation)	Umuhungu Arya Ibirenze	id=20612
+Sepedi (Translation)	Mosimane Wa Megabaru	id=7481

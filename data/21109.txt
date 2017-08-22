@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=21109&d=0&a=1
+id:	21109
+title:	ዘየመስግን ተኹላ
+author:	Angish Abay
+artist:	Jacob Kono
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21109.png
+desc:	ማንቲለ ንተኹላ ካብ ከቢድ ፀገም ኣድሒንዎ። ተኹላ ግን ክንዲ ንማንቲለ ኣመስጊኑ ዝሽልሞ ቓሉ ዓፀፈ።
+
+page_text:
+
+P1	ዝጠመየ  ተኹላ ይሃድን ነበረ።
+P2	እምኒ ኣብ ዘለዎ፣ ሓንቲ ኣንጭዋ የጓይ ነበረ።
+P3	ተኹላ እና ዃዓተ ኸሎ እቲ እምኒ እግሩ ፀቐጦ።
+P4	ተኹላ ክድሀ ሰሚዑ፣ ማንቲለ  እንታይ ኢዩ ኢሉ ክርኢ መፀ።
+P5	ተኹላ ንማንቲለ እግረይ ከውፅእ ሓግዘኒ እሞ ድራር ከድርረካ እየ በሎ ።
+P6	ማንቲለ ነቲ እምኒ ካብ እግሪ ተኹላ ኣንከራርዩ ኣልዓለሉ።
+P7	ማንቲለ በል ሽልማተይ ሃበኒ በሎ። ተኹላ ከይበልዐካ ኢሉ ኣፈራርሖ።
+P8	ተኹላን ማንቲለን ክፈርዶም ናብ ሓደ ሽማግለ ሰብኣይ ከዱ።
+P9	ተኹላ ነቲ ሽማግለ ሰብኣይ እውን ከይበልዐካ ኢሉ ኣፈራርሖ።
+P10	እቲ ሽማግለ ሰብኣይ “ቕድሚ ምፍራደይ እስቲ እቲ እምኒ ክርእዮ”  በለ።
+P11	ተኹላን ማንቲለን ነቲ ሰበኣይ ናብቲ እምኒ ወሰድዎ።
+P12	ተኹላ ድማ ከመይ ናብ እግሩ ከምዝወደቐ ኣረድኦም።
+P13	እቲ ሰብኣይ ንማንቲለ ነቲ እምኒ ከመይ ከምዝደፍኦ ጠየቖ።
+P14	እቲ ማንቲለ ነቲ እምኒ ክሳብ  ናይ ተኹላ እግሪ ዝፀቕጥ ደፍኦ።
+P15	እቲ ሰብኣይ “ሐዚ ግርም ፤በል ንኺድ ገዛና” በለ።
+P16	እቲ ሰብኣይን ማንቲለን ከዱ። ተኹላ ድማ እግሩ ተፀቒጡ ተረፈ።
+
+images:
+
+illustrations/pages/18475.png
+illustrations/pages/18468.png
+illustrations/pages/18469.png
+illustrations/pages/18470.png
+illustrations/pages/18471.png
+illustrations/pages/18472.png
+illustrations/pages/18473.png
+illustrations/pages/18474.png
+illustrations/pages/18475.png
+illustrations/pages/18476.png
+illustrations/pages/18477.png
+illustrations/pages/18478.png
+illustrations/pages/18479.png
+illustrations/pages/18481.png
+illustrations/pages/18482.png
+illustrations/pages/18483.png
+illustrations/pages/18484.png
+
+translations:
+
+Afaan Oromo (Translation)	Jedalaaf Illeti	id=18486
+Amharic (Translation)	ቀበሮና ጥንቸል	id=18845
+Amharic (Translation)	ውለታቢሱ ቀበሮ	id=21243
+English (Original)	Jackal and Rabbit	id=18485
+English (Adaptation)	Ungrateful Jackal	id=20876
+Kiswahili (Translation)	Mbweha Na Sungura	id=19387
+Kiswahili (Translation)	Mbweha Asiye Na Shukurani	id=21124
+Lunyole (Translation)	Ahasuje  Ahatasiima	id=21025
+Ng’aturkana (Translation)	Epeot Lope Alakara	id=21123

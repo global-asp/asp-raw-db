@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=21331&d=0&a=1
+id:	21331
+title:	Amahoro
+author:	Niyifasha Epimaque
+artist:	Steven McKimmie, Wiehan de Jager, Monge Tlaka, Jonathan Field, Emily Berg, Jano Strydom and Catherine Groenewald
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21331.png
+desc:	Amahoro ni cyo kintu ugira maze ukagera kucyo wifuza kuko amahoro akuremamo ikizere muri byose.
+
+page_text:
+
+P1	Amahoro ni ikintu k'ingenzi mu buzima bwacu bwa buri munsi.
+P2	Umuntu udafite amahoro nta kizima abasha gutekereza cyangwa ngo akore.
+P3	Iyo nta mahoro ufite, uta ikizere cyo kubaho ukaniyumvisha ko ntacyo wakora ngo gishoboke.
+P4	Amahoro ni umuzi w' ikizere cyo kubaho, ubukungu n'iterambere rirambye.
+P5	Umuryango ufite amahoro ntakintu cyabasha kuwuhungabanya mu mibanire y'abawugize.
+P6	Inshuti zifite amahoro zirakundana, kandi zikabana nta nkomyi.
+P7	Igihugu gifite amahoro nta ntambara ikirangwamo kandi ibyo abanyagihugu bifuje, bashyira hamwe bakabigeraho.
+P8	Amahoro abe kuri mwe mwese!
+
+images:
+
+illustrations/pages/8945.png
+illustrations/pages/7987.png
+illustrations/pages/8999.png
+illustrations/pages/13838.png
+illustrations/pages/18929.png
+illustrations/pages/6006.png
+illustrations/pages/8479.png
+illustrations/pages/13388.png
+illustrations/pages/10611.png
+
+translations:
+
+English (Translation)	Peace	id=21332

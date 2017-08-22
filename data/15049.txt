@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=15049&d=0&a=1
 id:	15049
-title:	Ibhayisikili  Likanamakuru
+title:	Ibhayisikili Likanamakuru
 author:	Margaret Nokuthula Zondi
 artist:	Wiehan de Jager
 lang:	isiZulu
@@ -14,7 +14,7 @@ page_text:
 P1	UNamakuru nomfowabo sebelungele ukuya esikoleni.
 P2	UNamakuru ugibelisa umfowabo ebhayisikilini lakhe.
 P3	Abangani babo bayabahalalisela lapho bengena ngebhayisikili esikoleni.
-P4	Bathi besesendlini yokufundela,  kwafika inkawu phandle. Inkawu igibela ibhayisikili likaNamakuru iyaphuma iyahamba.
+P4	Bathi besesendlini yokufundela, kwafika inkawu phandle. Inkawu igibela ibhayisikili likaNamakuru iyaphuma iyahamba.
 P5	Izingane ziyayijaha inkawu.
 P6	Inkawu ishiya ibhayisikili phansi kwesihlahla.
 P7	Inkawu iyahlamba iya phakathi nechibi. Inombela kudekude phezulu esihlahleni.
@@ -35,7 +35,7 @@ illustrations/pages/13436.png
 translations:
 
 Afrikaans (Translation)	Namu Se Fiets	id=20087
-English (Translation)	Namu’S Bicycle	id=13922
+English (Translation)	Namu's Bicycle	id=13922
 French (Translation)	La Bicyclette De Namukuru	id=14968
 isiXhosa (Translation)	Ibhayisekile Kanamukuru	id=14120
 Lunyole (Adaptation)	Egaali	id=16576

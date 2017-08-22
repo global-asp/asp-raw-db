@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=21469&d=0&a=1
+id:	21469
+title:	Akabenjje
+author:	Midrate Nachamu
+artist:	Cathy Feek
+lang:	Lugwere
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21469.png
+desc:	Omwisuka a`boona emootoka nga jigwa omukabenje.
+
+page_text:
+
+P1	Naboine ogumotoka oguuba nga gwikilila o`kulugudo.
+P2	Emootoka yaizile nga eyambuuka o`kulugudo.
+P3	Omuvugi w`emootoka yali atumula okwisiimu.
+P4	Yaali talikulingilila o`kulugudo.
+P5	Wabailewo akabenjje kanene.
+P6	Emootoka yabalwaile ne polisi yaizile okubayamba.
+P7	Emootoka ejikusa jaizile ibilii. 
+
+Jakusile emootoka jonajona.
+P8	Kyankangile.
+
+images:
+
+illustrations/pages/347.png
+illustrations/pages/347.png
+illustrations/pages/348.png
+illustrations/pages/349.png
+illustrations/pages/350.png
+illustrations/pages/351.png
+illustrations/pages/367.png
+illustrations/pages/353.png
+illustrations/pages/354.png
+
+translations:
+
+Aringati (Translation)	Drị̃lẹ́-Ũnzí Ịsụ́ Drãdrị̃gá Ꞌi	id=6436
+Ateso (Translation)	Akangasi	id=2835
+Ateso (Translation)	Akangas	id=20626
+English (Original)	Accident	id=915
+Hausa (Nigeria) (Translation)	Hatsari	id=20757
+isiZulu (Translation)	Ingozi	id=8721
+Kakwa (Translation)	Koŋo Naro	id=9050
+Kikamba (Translation)	Mbanga	id=2787
+Luganda (Translation)	Akabenje	id=2788
+Luganda (Translation)	Akabenje	id=20739
+Lugbarati (Translation)	Drileonzi	id=2598
+Lugbarati (Official) (Translation)	Drìléònzɨ́	id=8779
+Lugwere (Translation)	Kabeenje	id=21470
+Lumasaaba (Translation)	Bunyaalifu	id=916
+Lumasaaba (Translation)	Bunyaalifu	id=8722
+Lunyole (Translation)	Ahabenje	id=2789
+Lusoga (Translation)	Akabendhe	id=2790
+Ngakarimojong (Translation)	Anang’a a Ng’Amotokae	id=8723
+Ng’aturkana (Translation)	Anang’a a Ng’Amotokae	id=2792
+Oluwanga (Translation)	Amasila	id=2791
+Rufumbira (Translation)	Impanuka	id=20632
+Sabinyi (Translation)	Wuyinto	id=2793
+Sepedi (Translation)	Kotsi	id=7853
+Setswana (Translation)	Kotsi	id=2794

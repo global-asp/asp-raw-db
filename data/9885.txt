@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=9885&d=0&a=1
 id:	9885
 title:	My Little Goat (Colour-In)
 author:	Bukheye Mulongo Christopher
-artist:	Marleen Visser, José Nhambo, Abraham Muzee and Siya Masuku
+artist:	Marleen Visser
 lang:	English
 level:	First words
 lic:	Creative Commons: Attribution 4.0
@@ -12,9 +12,9 @@ desc:	A goat with a coat.
 page_text:
 
 P1	Where are you going my little goat?
-P2	I am going to market to buy a new coat.
-P3	"A coat for a goat?" asked the chicken.
-P4	"Can a goat have a coat?" asked the man.
+P2	I am going to market to buy a new coat.
+P3	"A coat for a goat?" asked the chicken.
+P4	"Can a goat have a coat?" asked the man.
 P5	Everyone will laugh at a goat with a coat!
 P6	But my little goat likes her new coat. Goodbye goat!
 

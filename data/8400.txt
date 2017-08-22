@@ -11,17 +11,17 @@ desc:	Olugero mu ndimi ebiri olusungu n’oluswayiri niruɳamba hubiitu byosi by
 
 page_text:
 
-P1	Nyumirwa ohutuuma omugoye. I enjoy skipping rope.
-P2	Nyumirwa ohutuuma omugoye seeka. I enjoy skipping rope alone.
-P3	Nyumirwa ohugutuuma ni meeri yange. I enjoy skipping rope with my friend.
-P4	Nyumirwa ohusoma engero eji nyoonya. I enjoy reading interesting stories. Nyumirwa ohusoma engero ejinyonya.
+P1	Nyumirwa ohutuuma omugoye. 
+P2	Nyumirwa ohutuuma omugoye seeka. 
+P3	Nyumirwa ohugutuuma ni meeri yange.
+P4	Nyumirwa ohusoma engero eji nyoonya. 
 P5	Nyumirwa ohugenda mu hisaaŋe n'abameeri bange. I enjoy walking in the field with my friends.
-P6	Nyumirwa ohwohesa maama ebyo'hunyiyiramo. I enjoy washing dishes to help at home.
-P7	Nyumirwa ohuŋandiiha enjuguta embala eji paanga nasoma muwangu. I enjoy writing big letters that I can read easily. Nyumirwa ohuŋandiiha enjuguta embala eji paanga nasoma muwangu.
-P8	Nyumirwa ohulya ebibala ebyengeri n'engeri. I enjoy eating different fruit.
-P9	Nyumirwa ohugona huhitaliri ehibbala. I enjoy sleeping on a big bed.
-P10	Nyumirwa ohuŋulirisa maama naagana engero eji nyoonya. I enjoy listening to mother tell stories.
-P11	Ese ohuhola ebiitu bino byoosi hunyoonya. I enjoy doing all these things!
+P6	Nyumirwa ohwohesa maama ebyo'hunyiyiramo.
+P7	Nyumirwa ohuŋandiiha enjuguta embala eji paanga nasoma muwangu.
+P8	Nyumirwa ohulya ebibala ebyengeri n'engeri. 
+P9	Nyumirwa ohugona huhitaliri ehibbala. 
+P10	Nyumirwa ohuŋulirisa maama naagana engero eji nyoonya. 
+P11	Ese ohuhola ebiitu bino byoosi hunyoonya.
 
 images:
 
@@ -42,7 +42,7 @@ translations:
 
 English (Translation)	Ndikonda	id=7774
 English (Adaptation)	I Like	id=10430
-English (Adaptation)	I Enjoy Doing	id=15274
+English (Adaptation)	I Enjoy Doing / Ninafurahi	id=15274
 English (Translation)	Cilandikonda - I Enjoy	id=16451
 French (Translation)	Je M'amuse - I Enjoy	id=9769
 Kiswahili (Original)	Ninafurahi - I Enjoy	id=2106
@@ -53,4 +53,4 @@ Maa (Translation)	Káshípákíno	id=7869
 Ng’aturkana (Translation)	Alakarikina	id=8449
 Oluwanga (Translation)	Ndachama	id=8283
 Rutooro (Translation)	Ngonza - I Enjoy	id=9484
-Tunisian (Translation)	Yiġjibni - I Enjoy	id=15382
+Tunisian (Translation)	Yeɛjibni	id=15382

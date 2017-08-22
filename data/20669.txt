@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=20669&d=0&a=1
+id:	20669
+title:	Usele,  Iselesele
+author:	Pumla Mdontswa
+artist:	Rob Owen
+lang:	isiZulu
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20669.png
+desc:	Le
+
+page_text:
+
+P1	Kusekuseni, kuyabanda, kumanzi kuleli hlathi. USele, iselesele elincane ukhathele ukubhukuda emanzini abandayo. Usezwakala ekhuluma yedwana ethi, "Kufanele ngisuke kule ndawo uma kuyisikhathi
+  sonyaka esinezimvula."
+P2	"Ngifuna ukubona izindawo," kusho uSele etshela ufudu. "Kufanele ngibone umhlaba." "Uqaphele-ke weSele, ungaphumi emanzini isikhathi eside, isikhumba sakho sizokoma," kuxwayisa isihlakani esiwufudu oluyisikulupada. Ngaleso sikhathi, amaselelesele ayenesikhumba esibushelelezi esiswakeme njengamaxoxo. Ngaphandle kwamanzi izikhumba zawo zazoma kakhulu.
+P3	Kodwa-ke ngoba uSele wayefuna ukwazi izinto, wacabanga, "Kumele ngiphume ngiye ngale kwehlathi," eqhubeka nokukhuluma yedwa. Nangempela uSele wathi gxu, waphuma emanzini. Nanguya ehamba esuka ngasemfuleni. Wayejabulela ukuhamba egxuma phezu kwamadwala, otshanini, edlula nemihosha.
+P4	Khona manjalo weza umsindo wendiza. Wathi khimilili, wabheka phezulu esibhakabhakeni, wazibuza, "Maye! Yini leya endiza phezulu kangaka? Ngabe amafu ayakwazi ukukhuluma?" Kodwa-ke akatholanga mpendulo.
+P5	USele waqhubeka nohambo lwakhe. Endlelni, wahlangana nomnwabu kuqala. Lwaluhleli eduze nexhaphozana, wase elubingelela. "Sawubona, ngilibangise ezweni elomile ngifuna ukuyobona khona. Ungangitshelani nje ngaleli zwe?" Lwaphendula unwabu, "Akukho okuhlukile. Nalapha liyana. Yiningi imvula kanti nezimpukane ziningi."
+P6	Ngesikhathi lukhuluma unwabu, umzimba walo washintsha umbala. Waqala wethuka uSele. Washeshe wavalelisa, wagxumagxumela ngasezihlahleni ezaziseduze.
+P7	Ngeshwa likaSele, thushu impisi eyayimatasa ishisa izihlahla ilungisela isikhathi sokutshala.
+P8	USele wesaba ukujika aphindele emuva ngoba wayezohlangana nonwabu futhi. Wahlala lapho, wawubona amehlo akhe kuphela. Manje ayesemakhulu ngenkani ngenxa yokwesaba. USele wenkosi wayesezungezwe umlilo.
+P9	Wayengasazi aye kuphi manje uSele. Afika amalangabi, aqala ukumshisa emhlane, wakhumbula ixhaphozana lamanzi lapho ayehlangane khona nonwabu. Wavala amehlo, wabamba umoya, wagxumela phezulu ebhekise ngasexhaphozini.
+P10	Waba nenhlanhla kuloku. Wakwazi ukugxumela exhaphozini, amanzi amsiza ukucima amalangabana ayeseqale ukushisa isikhumba sakhe. Kodwa-ke wayeselimele. Ngesikhathi ephuma exhaphozini, isikhumba sakhe emhlane sabe sesinamapanyaza.
+P11	Akafisanga lutho ngalolu hambo. Kuphela nje, wayesefuna ukuya ekhaya, kodwa wayesengasayazi indlela ephindela emuva ehlathini. USele wazitholela indawana epholile emnyama ngaphansi kwedwala, wazitholela ikhaya elisha. Isikhumba sakhe saya ngokuya siphola, kodwa, soma saba maqhubuqhubu.
+P12	Kungakho amaselesele enesikhumba esomile esimaqhubuqhubu, futhi ekwazi ukuhlala ngaphandle engenamazi. Amaxoxo wona anesikhumba esibushelelezi esiswakeme adinga ukuhlala endaweni enamanzi.
+
+images:
+
+illustrations/pages/13417.png
+illustrations/pages/13415.png
+illustrations/pages/13416.png
+illustrations/pages/13417.png
+illustrations/pages/13418.png
+illustrations/pages/13419.png
+illustrations/pages/13421.png
+illustrations/pages/13422.png
+illustrations/pages/13423.png
+illustrations/pages/13424.png
+illustrations/pages/13425.png
+illustrations/pages/13426.png
+illustrations/pages/13427.png
+
+translations:
+
+Afaan Oromo (Translation)	Gogaa Fattee	id=20424
+Amharic (Translation)	የእንቁራሪት ቆዳ	id=20492
+English (Original)	Mod the Toad	id=13546
+English (Adaptation)	How the Toad Got Its Skin	id=19766
+French (Translation)	Mod Le Crapaud	id=14527
+Kiswahili (Translation)	Namna Chura Alipata Ngozi Yake	id=20439
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
+Portuguese (Translation)	Mod, a Sapa	id=17037

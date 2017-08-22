@@ -1,0 +1,95 @@
+url:	http://africanstorybook.org/reader.php?id=20148&d=0&a=1
+id:	20148
+title:	Cat and Dog and the Ball
+author:	Elke and René Leisink
+artist:	Elke and René Leisink
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20148.png
+desc:	Long-time friends Cat and Dog enjoy some fun time playing ball.
+
+page_text:
+
+P1	This is Cat.
+
+This is Dog.
+P2	Cat and Dog live in a house. 
+
+A house with a door. 
+
+A house with a roof.
+P3	Cat and Dog have a ball. 
+
+The ball is red and blue and green.
+P4	Cat and Dog play with the ball. 
+
+Cat throws the ball to Dog.
+
+Dog catches the ball. 
+
+Dog throws the ball to Cat. 
+
+Cat catches the ball.
+P5	Then Cat throws the ball very high.
+
+Oh! oh!
+P6	The ball is on the roof. 
+
+The ball is on the roof of the house.
+P7	Cat and Dog can see the ball. 
+
+Cat and Dog cannot get to the ball.
+P8	Cat and Dog cry. 
+
+Then Elephant comes by.
+P9	Elephant is big. 
+
+Elephant can see the ball. 
+
+Elephant can get to the ball. 
+
+Elephant gets the ball from the roof. 
+
+Elephant takes the ball from the roof of the house.
+P10	Elephant gives the ball to Cat and Dog. 
+
+Cat and Dog smile. Elephant smiles. 
+
+Cat and Dog and Elephant smile.
+P11	Cat and Dog and Elephant play with the ball.
+
+Cat throws the ball to Dog. Dog catches the ball. 
+
+Dog throws the ball to Elephant. Elephant catches the ball. 
+
+Elephant throws the ball to Cat. Cat catches the ball.
+P12	Bye bye Cat.
+
+Bye bye Dog. 
+
+Bye bye Elephant.
+P13	 
+
+images:
+
+illustrations/pages/18630.png
+illustrations/pages/18631.png
+illustrations/pages/18632.png
+illustrations/pages/18633.png
+illustrations/pages/18634.png
+illustrations/pages/18635.png
+illustrations/pages/18636.png
+illustrations/pages/18637.png
+illustrations/pages/18638.png
+illustrations/pages/18639.png
+illustrations/pages/18640.png
+illustrations/pages/18641.png
+illustrations/pages/18642.png
+illustrations/pages/18782.png
+
+translations:
+
+CiNyanja (Translation)	Cona Galu Ndi Mpira	id=20772
+Kinyarwanda (Translation)	Injangwe, Imbwa N' Umupira	id=20686
+SiLozi (Translation)	Kaze Nja Ni Mbola	id=20923

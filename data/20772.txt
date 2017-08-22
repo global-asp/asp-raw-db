@@ -1,0 +1,85 @@
+url:	http://africanstorybook.org/reader.php?id=20772&d=0&a=1
+id:	20772
+title:	Cona Galu Ndi Mpira
+author:	Lusaka Teachers
+artist:	Elke and René Leisink
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20772.png
+desc:	Cona ndi Galu asewera ndi mpira. Mpira uli ndi utoto wofiira
+
+page_text:
+
+P1	Uyu ndi Cona.
+
+Uyu ndi Galu.
+P2	Galu ndi Cona zikhala mnyumba imodzi.
+
+Nyumba ili ndi khomo ndi mtenje.
+P3	Cona ndi Galu ali ndi mpira.
+
+Mpira uli ndi utoto wofiira, wobiliwira ndi wamsipu.
+P4	Cona ndi Galu asewera ndi mpira.
+
+Cona aponyera Galu mpira.
+
+Galu wagwira.
+
+Galu nso waponyera Cona.
+
+Cona wagwira mpira.
+P5	Ndipo Cona anaponyera mpira m'mwamba kwambiri.
+
+Ah! Ah!
+P6	Mpira uli pa mtenje wa nyumba.
+P7	Cona ndi Galu anauona mpira.
+
+Cona ndi Galu analephera kutenga mpira pamtenje.
+P8	Ndipo anayamba kulira.
+
+Njobvu yaikululu inabwera.
+P9	Njobvu ya ikululu inabwera ndi inauona mpira pamtenje wa nyumba.
+P10	Njobvu inatenga mpira pamtenje ndi kupatsa.
+
+Cona ndi Galu ndi onse anasekelera.
+
+Njobvu inamwetulira.
+P11	Cona, Galu ndi Njobvu anayamba kuchaya mpira.
+
+Cona anaponyera mpira. Galu anagwira.
+
+Galu naonso anaponyera mpira. Njobvu anagwira.
+
+Njobvu anaponya mpira kwa Cona ndipo anagwira.
+P12	Sala bwino Cona.
+
+Sala bwino Galu.
+
+Sala bwino Njobvu.
+
+Onse anatero.
+P13	Biblionef
+
+images:
+
+illustrations/pages/18630.png
+illustrations/pages/18631.png
+illustrations/pages/18632.png
+illustrations/pages/18633.png
+illustrations/pages/18634.png
+illustrations/pages/18635.png
+illustrations/pages/18636.png
+illustrations/pages/18637.png
+illustrations/pages/18638.png
+illustrations/pages/18639.png
+illustrations/pages/18640.png
+illustrations/pages/18641.png
+illustrations/pages/18642.png
+illustrations/pages/18782.png
+
+translations:
+
+English (Original)	Cat and Dog and the Ball	id=20148
+Kinyarwanda (Translation)	Injangwe, Imbwa N' Umupira	id=20686
+SiLozi (Translation)	Kaze Nja Ni Mbola	id=20923

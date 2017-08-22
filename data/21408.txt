@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=21408&d=0&a=1
+id:	21408
+title:	Setaele Sa Rafiki
+author:	Maphuti Mabala
+artist:	Audrey Anderson
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21408.png
+desc:	Rafiki a šikinya magetla. 
+
+page_text:
+
+P1	Ka Mošupologo, Sehlopha sa Bašemane ba Setaele ba fetile mo.
+P2	Sehlopha sa Bašemane ba Setaele ba fetile mo.
+P3	"Hei, Rafiki, meriri ya gago ya pitsi e kae? Meriri ya gago ga e se e dirwe selo, o kare ga o iše felo."
+P4	"Hei, Rafiki, thathuu ya gago ya maitirelo e kae? Letlalo la gago ga le kgahliše. Le wena ga o kgahliše."
+P5	"Hei Rafiki, dibenyane tša gago di kae? Meno a gago a befile, wa bona."
+P6	Letšatši leo, Rafiki o ile gae a sepela ka go nanya.
+P7	"Mmane, o ka kgona go ntira meriri ya pitsi?"
+
+"Nka se kgone go o dira meriri ya pitsi. Gabotse, nka se leke."
+P8	"Letlalo la ka ga le kgahliše le gatee, Sesi. O ka kgona go dira thathuu ya bofora?"
+
+"Ga o e hloke ya go swana le ya gago."
+P9	"Rakgolo, ke duma ge nka be ke na le dibenyane."
+
+"Dibenyane ngwanaka, ga a bohlokwa."
+P10	Mphelabeke wo o latelago, Santi Ramires o ile a nweša ntlha ya go thopiša.
+P11	Ka Mošupologo, Sehlopha sa Bašemane ba Setaele ba fetile mo. "Hei, Rafiki! O lokile!"
+P12	Rafiki a šikinya magetla. "Ke swana le nna; setaele se ke sa ka."
+
+images:
+
+illustrations/pages/15555.png
+illustrations/pages/15551.png
+illustrations/pages/15553.png
+illustrations/pages/15554.png
+illustrations/pages/15555.png
+illustrations/pages/15556.png
+illustrations/pages/15557.png
+illustrations/pages/15648.png
+illustrations/pages/15649.png
+illustrations/pages/15650.png
+illustrations/pages/15651.png
+illustrations/pages/15652.png
+illustrations/pages/15653.png
+
+translations:
+
+English (Original)	Rafiki's Style	id=15654

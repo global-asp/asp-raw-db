@@ -1,17 +1,17 @@
 url:	http://africanstorybook.org/reader.php?id=10626&d=0&a=1
 id:	10626
 title:	Ntate Meharo O Meharo
-author:	Missing
+author:	Khothatso Ranoosi and Marion Drew
 artist:	Alex Zablon
 lang:	Sesotho (Lesotho)
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/10626.png
-desc:	Ntate Meharo o leka ho fumana nama e ngata ka letsatsi le leleng.Empa ha atlehe. Hase hantle hoba meharo.
+desc:	Ntate Meharo o leka ho fumana nama e ngata ka letsatsi le leleng. Empa ha atlehe. Hase hantle hoba meharo.
 
 page_text:
 
-P1	Khalekhale motseng o bitosang Thoteng,  hone ho lula monna ea bitsoang Meharo. O ne a rata hoja nama haholo.
+P1	Khalekhale motseng o bitosoang Thoteng,  hone ho lula monna ea bitsoang Meharo. O ne a rata hoja nama haholo.
 P2	Kaleleng la matsatsi,  morena oa Thoteng a mema batho bohle ba motse hotla lechatong la mora oa hae.
 P3	Ntate Meharo a be a utloa hore hona le mokete o mong hape Makhoseng. Mhhh! Mekete e 'meli ka letsatsi le ts'oanang? O ea ipotsa.
 P4	Ntate Meharo a re,  "ketlameha hoea meketeng ena kaofela e le 'meli. Pele ketla qala hoea Makhoseng,  e be ke khutlela Thoteng."
@@ -42,7 +42,7 @@ illustrations/pages/9140.png
 
 translations:
 
-Akuapem Twi (Translation)	Kiundu Difudepɛfo No	id=18459
+0 (Translation)	Kiundu Difudepɛfo No	id=18459
 Amharic (Translation)	ገብጋባው ክንዴ	id=12003
 Asante Twi (Translation)	Adifudepɛfoɔ Kiundu	id=18279
 Dagaare (Translation)	Kiundu, Bundi-Gbogbo Soba	id=17771
@@ -62,3 +62,4 @@ Ng’aturkana (Translation)	Kiundu Lokarorokanan	id=9771
 Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
 Portuguese (Translation)	Kiundu Guloso	id=16439
 Setswana (Translation)	Megagaru Ya Ga Abele	id=14961
+Talen (Translation)	Poraong Kiundu	id=20362

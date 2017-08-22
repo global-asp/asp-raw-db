@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=20391&d=0&a=1
+id:	20391
+title:	Ensolo Dha Uganda
+author:	Cornelius Wambi Gulere and Richard Mutalya Waiswa
+artist:	Rob Owen
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20391.png
+desc:	Ebifa ku nsolo dha Uganda
+
+page_text:
+
+P1	Dhino ntwiga. Dhili ne enkoto endeeyi eino. Dhilya makoola ga ku miti mileeyi. Entwiga ya langi ki?
+P2	Eno ndhovu. Ensaadha dhiba na amasanka meeru. Dhili na amatu amanene. Endhovu dhiba ne ekikono ekileyilili.
+P3	Eno ngoina. Eghangaalira mu miiga na nhandha. Eli no omukira omuleeyi. Eli no omunhwa na amaino amasongovu. Elya  byanhandha ne ebisolo ebindi. Yeigu engoina ya langi ki?
+P4	Eno mpologoma. Eli na amaino amanene, nga ate mooji. Empologoma ensaadha dhiba ne ebisense. Ekisense kye empologoma eno kili igha?
+P5	Eno ni gwaali. Gwaali kabonero ka Uganda. Ali na amagulu maleeyi ne engule. Langi dha gwaali dhili ki?
+P6	Dhino nkula. Dhilya bisubi era dhighangaalira kumpi na miiga na nhandha. Enkula yakula ki ku mutwe gwayo?
+P7	Ensolo dhino dheetebwa  ntulege. Dhili ne enkuuluulo
+  endhilugavu ne endheru. Nsolo ki eyindi eliyo nga efaanana ne entulege?
+P8	Ghano ghaligho ensolo dha bika bibiri. Embiidhi enkazi eyomunsiko nga eli na abana baayo. Embiidhi edhomunsiko dhoona dhiba na amasanka. Embiidhi edhomunsiko obona imeka ghano mu kifaananhi? Dhile ensolo edhindi mpuuli. Dhilya bisubi. Empuuli ya langi ki?
+P9	Obona bika ki ebyensolo? Dhighangaalira gha? Dhilighaku dhoyinza okulya?
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9647.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9631.png
+illustrations/pages/9644.png
+illustrations/pages/9650.png
+illustrations/pages/9646.png
+illustrations/pages/9645.png
+
+translations:
+
+English (Original)	Animals of Uganda	id=9988
+Kumam (Translation)	Leini Me Yuganda	id=20898

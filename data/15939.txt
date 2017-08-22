@@ -11,15 +11,15 @@ desc:	Kulinganisha vitu vikubwa na vidogo.
 
 page_text:
 
-P1	Kofia kubwa,  kofia ndogo.
-P2	Yohana amevaa  kofia kubwa. Ngugi amevaa kofia ndogo.
-P3	Mikono mikubwa,  mikono midogo.
+P1	Kofia kubwa, kofia ndogo.
+P2	Yohana amevaa kofia kubwa. Ngugi amevaa kofia ndogo.
+P3	Mikono mikubwa, mikono midogo.
 P4	Baba ana mikono mikubwa. Mtoto ana mikono midogo.
-P5	Mbuzi mkubwa,  mbuzi mdogo.
+P5	Mbuzi mkubwa, mbuzi mdogo.
 P6	Mbuzi mkubwa alikula kitabu kidogo. Mbuzi mdogo alikula kitabu kikubwa.
-P7	Kitabu kikubwa,  kitabu kidogo.
+P7	Kitabu kikubwa, kitabu kidogo.
 P8	Mtoto anasoma kitabu kikubwa. Baba anasoma kitabu kidogo.
-P9	Tabasamu kubwa,  tabasamu ndogo.
+P9	Tabasamu kubwa, tabasamu ndogo.
 P10	Baba ana tabasamu kubwa. Mtoto ana tabasamu ndogo.
 P11	Kubwa na ndogo!
 
@@ -47,5 +47,4 @@ Maa (Translation)	Enkití Ó Esápuk	id=3090
 Ng’aturkana (Translation)	Niichi Ka Niapolon	id=3091
 Oluwanga (Translation)	Akhatiiti Nende Okukhoongo	id=3092
 Somali (Translation)	Waxyar Iyo Waxweeyn	id=17259
-Tunisian (Translation)	Ṡɍìr W Kbìr	id=15278
 Zande (Translation)	Umba Na Bakere	id=16762

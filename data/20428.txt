@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=20428&d=0&a=1
+id:	20428
+title:	Sharaariti Dadhaba
+author:	Mulualem  Daba
+artist:	Wiehan de Jager
+lang:	Afaan Oromo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20428.png
+desc:	Anansin shararitii dadhaaba dha.
+
+page_text:
+
+P1	Anansin shararitii dadhaaba dha.
+P2	Nyaata nijallata garu billchesuudhan dadhaba dha.
+P3	Anansinis Illeti bira dhaqe akka fudurashe kenituuf gafate.
+P4	Illetinis, "Tole. Nyaata sochosu nagargari," jette. Ananis garuu dadhaba dha.
+P5	Anansin, "Deebi’en dhufaa." Jedhe deeme
+P6	Anansinis dirii isaa miila tokkoti fiixa isaa distii Illettiti maree.
+P7	"Yommuu nyaanni bilchaatu dirii koo qabi naharkisii," Jedhe deeme.
+P8	Anansin, "Baqeela kee naaf latta Jaldeesso?" Jedhe. Jaldeesis, "Eyyee. Muraa isaa nagargaari," jedheen.
+P9	"Deebi’en dhufaa," jedhee ammas dirii isaa Baqeelichatti maree deeme.
+P10	"Dinnicha kee naflaata karkaroo?" jedhee gaafate. Karkaroonis, "Eyyee qopheesu isaa nagargarii," jedheen.
+P11	"Deebi’en dhufaa," jedhee ammas dirii isaa itti maree deeme.
+P12	Haala kanan Anansin miila isaa 8 distii adda adda irraatti maree.
+P13	Anansin diriin milaa isaa tokkoffa, lamaffa, sadaffa yommu harkifamu itti dhagahame.
+P14	Diriin miila isaa 8 diistitti qabsiise harkifama dhufee. Anansinis, "Na hinharkisina!" jedhee booye.
+P15	Anansinis kan dhagaye garuu hinturee. Diriichis baay’ee isaa harkisa cicita dhufee.
+P16	Miili Anansi baay'ee harkifame waan tureef isaa booda shararitin miila qal'aa dheera godhaatan.
+
+images:
+
+illustrations/pages/1069.png
+illustrations/pages/1070.png
+illustrations/pages/1071.png
+illustrations/pages/1072.png
+illustrations/pages/1073.png
+illustrations/pages/1074.png
+illustrations/pages/1075.png
+illustrations/pages/1076.png
+illustrations/pages/1069.png
+
+translations:
+
+Amharic (Translation)	ሰነፉ አናንሲ	id=20489
+English (Original)	Lazy Anansi	id=1077
+English (Adaptation)	Lazy Anansi	id=19765
+French (Translation)	Anansi, La Fainéante	id=10850
+Hausa (Nigeria) (Translation)	Anansi Malalaci	id=20520
+isiZulu (Translation)	Anansi Ovilaphayo	id=11195
+isiZulu (Translation)	Ivila Elingu-Anansi	id=20724
+Kikamba (Translation)	Kitumi Kya Anansi Kwithiwa Na Maau Matheke Nyanya	id=2068
+Kiswahili (Translation)	Jinsi Anansi Alivyopata Miguu Minane Myembamba	id=2069
+Kiswahili (Translation)	Anansi Mvivu	id=20438
+Luganda (Translation)	Nabbubi Omunafu	id=2073
+Luganda (Translation)	Lwaki Nabbubi Erina Obugulu Munaana Obutono	id=8730
+Lugbarati (Translation)	E`yo Ebio Ma Pa Yin I Ovuzu Izia Izia Aro Ri	id=2070
+Lugbarati (Official) (Translation)	Ebìó Òvʉ́ó Rʉ Rɨ̀	id=8795
+Lumasaaba (Translation)	Lwashiina Wanaasi Nabubi Ali Ni Buukyele Shinaane Buunyelele	id=3012
+Lunyole (Translation)	Anansi Omunafu	id=2074
+Lusoga (Translation)	Munansi Omunafu	id=20401
+Maa (Translation)	Káínyoo Peê Éátâ Anansi Inkejék Ísíet Rónkéní	id=2729
+Ng’aturkana (Translation)	Eyakar Anansi Ng’Akejen Ngakan-Kauni Nadiim	id=2075
+Oluwanga (Translation)	Esichira Anansi Naba Norulenje Orutiti Munane	id=2071
+Portuguese (Translation)	Anansi Preguiçoso	id=16657

@@ -7,7 +7,7 @@ lang:	Sepedi
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/12410.png
-desc:	Kgogo le legokolodi e be e le bagwera . Kgogo e ile ya kgopisega ge a lewa ke legokolodi. Go tloga tsatsing leo kgogo le legokolodi ya ba manaba a magolo
+desc:	Kgogo le legokolodi e be e le bagwera. Kgogo e ile ya kgopisega ge a lewa ke legokolodi. Go tloga tsatsing leo kgogo le legokolodi ya ba manaba a magolo.
 
 page_text:
 
@@ -18,8 +18,8 @@ P4	Lekgokolodi le ile la raga kgwele gomme la kora. Lekgokolodi le ile la laola 
 P5	Gomme kgogo e ile ya kgopišega morago ga go lewa. Ka nnete e ile ya ba mofengwa wa go leša dihlong. Legokodi le ile la thoma go sega morago ga ge mogwera wa lona a befelwa.
 P6	Kgogo e ile ya befelwa mo e ilego ya bula molomo wa yona gagolo gomme ya metša legokolodi.
 P7	Ge kgogo e lebile gae,  ya kopana le mmagwe legokolodi. "A ga se wa bona ngwana wa ka na?" gwa botšiša mmagwe legokolodi. Gomme kgogo ya se bolele selo. Empa mmagwe legokolodi a thoma go belaela.
-P8	Ke ge mmage legokolodi a e kwa lentšwana le lennyane le re: "Nthuse mma!" Mmagwe legokolodi a thoma go lebelela mathoko ka moka,  a theeletša ka šedi. Lentšu leo le be le etšwa ka gare ga kgogo.
-P9	Mmagwe legokolodi o ile a goelela a re: "Šomiša maatla a gago ngwanaka!" Legokolodi le kgona go ntšha monkgo o makatšang le go sa be le tatšo e bose. Gomme kgogo ya thoma go lwala.
+P8	Ke ge mmage legokolodi a e kwa lentšwana le lennyane le re, "Nthuse mma!" Mmagwe legokolodi a thoma go lebelela mathoko ka moka,  a theeletša ka šedi. Lentšu leo le be le etšwa ka gare ga kgogo.
+P9	Mmagwe legokolodi o ile a goelela a re, "Šomiša maatla a gago ngwanaka!" Legokolodi le kgona go ntšha monkgo o makatšang le go sa be le tatšo e bose. Gomme kgogo ya thoma go lwala.
 P10	Kgogo e ile ya thoma go betola. Ya hlafuna le go metša. Ya ethimola le go gotlhola,  ya gotlhola. Legokolodi le be le nyenyiša.
 P11	Kgogo e gotlhotše go fihlela e tshwa legokolodi. Mmago legokolodi le ngwana wa gagwe ba ile ba ile ba gagabela ka tlase ga mohlare go iphihla.
 P12	Go tloga tšatšing leo,  kgogo le legokolodi ya ba manaba a magolo.
@@ -43,17 +43,18 @@ illustrations/pages/8994.png
 translations:
 
 Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
-Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+Afrikaans (Translation)	Hoender En Duisendpoot	id=20054
 ChiTonga (Translation)	Nkuku, Joongola	id=18643
 CiNyanja (Translation)	Nkuku Na Bongololo	id=18661
+Dhopadhola (Translation)	Gweno Kodi Ongongolo	id=20822
 English (Translation)	Chicken and Millipede	id=9094
 French (Translation)	La Poule Et Le Millepatte	id=9959
 French (Translation)	Poulet Et Mille-Pattes	id=10145
 Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
 Gurene (Translation)	Nͻbila La Katagune	id=12663
-Hausa (Translation)	Kaza Da	id=9977
+Hausa (Niger) (Translation)	Kaza Da	id=9977
 isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
-isiXhosa (Translation)	Unkukhu  Nosongololo	id=17517
+isiXhosa (Translation)	Unkukhu Nosongololo	id=17517
 isiZulu (Translation)	Unkukhu Noshongololo	id=13535
 isiZulu (Adaptation)	Unkukhu Noshongololo	id=17452
 Kanuri (Translation)	Kuwui-a Dǝngaɍi-A	id=10039
@@ -63,6 +64,7 @@ Likpakpaanl (Translation)	Ukↄla Ni Gonlgonl	id=18776
 Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
 Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
 Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Mampruli (Translation)	Noa Ni Sanguntiri	id=20117
 Portuguese (Translation)	O Frango E O Gongolo	id=16099
 Portuguese (Translation)	Galinha E Milípede	id=16477
 Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
@@ -70,7 +72,8 @@ Sepedi (Translation)	Chicken and Millipede	id=11485
 Sesotho (S.Africa) (Translation)	Kgoho Le Lefokolodi	id=14434
 Setswana (Translation)	Koko Le Sebokolodi	id=13973
 SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
-siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Siswati (Translation)	Inkhukhu Nelishongololo	id=12580
+Talen (Translation)	Nobil Ne Sanguin 	id=20179
 Tshivenda (Translation)	Khuhu Na Dongololo	id=14731
 Xitsonga (Translation)	Huku Na Khongoloti	id=14408
 Zarma (Translation)	Gorŋo-Ɲa Nda Konjanje	id=10103

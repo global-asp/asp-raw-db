@@ -20,6 +20,7 @@ P6	Hyena thought about this problem for a long time. He came up with an idea. He
 P7	During the night,  Hare went to Hyena's field to steal more maize. Before entering the field he looked around to see if it was safe.
 P8	Hare did not see the gum that Hyena had put around the field. Hare stood in the gum and was stuck. He started shouting for help.
 P9	Hyena heard the shouts and ran out to catch the thief. He could not believe his eyes. It was his friend Hare who was stuck in the gum!
+P10	From that time,  Hyena went his way and Hare went the other way. That marked the end of their friendship.
 
 images:
 
@@ -37,5 +38,7 @@ illustrations/pages/12167.png
 translations:
 
 French (Translation)	Des Amis Devenus Ennemis	id=13158
+Kumam (Translation)	Owotino Oko Doko Jokwor	id=20608
 Lugbarati (Original)	Ba Agiyi Ru Diyi Eca Aribo Ru	id=12158
+Lumasaaba (Translation)	Basale Bi Kola Balabe	id=20618
 Portuguese (Translation)	Os Amigos Se Tornam Inimigos	id=16416

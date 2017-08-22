@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=21042&d=0&a=1
+id:	21042
+title:	Eiresi Keda Okokuke
+author:	Betty Atima
+artist:	Jesse Breytenbach
+lang:	Ateso
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21042.png
+desc:	Kolo eboyete eiresi keda okokuke kakwap. Konye anu adedeng na ike koku
+
+page_text:
+
+P1	Kolo sec, eboite Eiresi keda Eimiil kotoma akwap keda itunga.
+P2	Arai Eiresi totoke Eimiil.
+P3	Ajaatar Eimiil anyunyura na arono.
+P4	Ne anyunyurar Eimiil, amudiari itunga, itoogoi keda ikito.
+P5	Ne esomauna Eimiil ibore kangin, erurumauni do Eiresi.
+P6	Konye mam Eimiil apupi totoke.
+P7	Opotu do itunga eyangasi aimony ne ejai ekabaka.
+P8	Obu ekabaka ijuka Eiresi keda Eimiil alosit aiboi ne elwana.
+P9	Konye ariko Eimiil icwei amagoron keda iraan ne anyunyurikinor.
+P10	Aso apotu bobo itungan oyangasi aimony kes ne ajai ekabaka.
+P11	Obu ekabaka ijuka Eiresi keda Eimiil aiboi akuju.
+P12	Konye eriko Eimiil icwei ka amudianar ne enyunyurar.
+
+images:
+
+illustrations/pages/19056.png
+illustrations/pages/19042.png
+illustrations/pages/19044.png
+illustrations/pages/19046.png
+illustrations/pages/19047.png
+illustrations/pages/19048.png
+illustrations/pages/19050.png
+illustrations/pages/19051.png
+illustrations/pages/19052.png
+illustrations/pages/19053.png
+illustrations/pages/19054.png
+illustrations/pages/19055.png
+illustrations/pages/19056.png
+
+translations:
+
+Dhopadhola (Original)	Mor Koth Kodi Lith Koth	id=19073
+English (Translation)	Thunder And Lightning	id=19074
+English (Adaptation)	Thunder And Her Son	id=20889
+Kiswahili (Translation)	Ngurumo Na Radi	id=19092
+Kiswahili (Translation)	Ngurumo Na Mwanawe	id=21141
+Ng’aturkana (Translation)	Agirokin Ka Lokookeng	id=21128
+Tigrigna (Translation)	ነጎዳ ምስ ወዳ 	id=21172

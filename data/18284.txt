@@ -1,9 +1,9 @@
 url:	http://africanstorybook.org/reader.php?id=18284&d=0&a=1
 id:	18284
 title:	Ḓuvha Ḽa Mashudu Ḽa Hamisi
-author:	Maphaha Tshimangadzo Nelson Maphaha Tshimangadzo Nelson
-artist:	Rob Owen Rob Owen
-lang:	TshivendaTshivenda
+author:	Maphaha Tshimangadzo Nelson
+artist:	Rob Owen
+lang:	Tshivenda
 level:	First paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/18284.png
@@ -11,59 +11,26 @@ desc:	Hamisi o vhona mutukana o ambara hemmbe yavhuḓi a tama a tshi nga vha vh
 
 page_text:
 
-P1	Bola.
-P2	Hamisi u ṱoḓa dzhunifomo ntswa ya tshikolo. Khotsi awe vha mu dzhia vha mu isa makete.
-P3	A minha bola.
-P4	Hamisi u vhona mutukana o ambara hemmbe ya manakanaka. "Heiḽa ndi hemmbe ya vhuḓi," ndi Hamisi a humbulaho.
-P5	A minha bola vermelha.
-P6	"Ndi tama ndo vha ndi na hemmbe u fana na houḽa mutukana." A ambaho ndi Hamisi.
-P7	A minha bola grande e vermelha.
-P8	"Vhonani,  u khou rengisa hemmbe dzo khetheaho," Hamisi u ralo. "Baba,  kha vha nthengele nthihi." U a humbela.
-P9	Eu chuto.
-P10	"Hamisi,  ndi khou tea u ni rengela dzhunifomo wee," a raloho ndi khotsi awe.
-P11	Eu chuto a minha bola.
-P12	"A thina tshelede yo linganaho u renga heyo hemmbe," vhe vha ralo ndi khotsi awe.
-P13	Eu chuto a minha bola vermelha.
-P14	Khotsi a Hamisi vha badela dzhunifomo. Vha mangala vha tshi fhiwa tshintshi. Ho sala tshintshi i linganaho u renga hemmbe!
-P15	Eu chuto a minha bola vermelha com força.
-P16	Ndi ḓuvha ḽa mashudu ḽa Hamisi. U ḓo khetha ifhio hemmbe?
-P17	Onde?
-P18	Onde está a minha bola?
-P19	Onde está a minha bola agora?
-P20	Onde está a minha bola vermelha agora?
-P21	Está lá em cima.
-P22	Está lá em cima no alto.
-P23	Está lá em cima no alto no céu.
-P24	Está lá em cima no alto no céu na Lua. Desapareceu! Desapareceu!
+P1	Hamisi u ṱoḓa dzhunifomo ntswa ya tshikolo. Khotsi awe vha mu dzhia vha mu isa makete.
+P2	Hamisi u vhona mutukana o ambara hemmbe ya manakanaka. "Heiḽa ndi hemmbe ya vhuḓi," ndi Hamisi a humbulaho.
+P3	"Ndi tama ndo vha ndi na hemmbe u fana na houḽa mutukana." A ambaho ndi Hamisi.
+P4	"Vhonani,  u khou rengisa hemmbe dzo khetheaho," Hamisi u ralo. "Baba,  kha vha nthengele nthihi." U a humbela.
+P5	"Hamisi,  ndi khou tea u ni rengela dzhunifomo wee," a raloho ndi khotsi awe.
+P6	"A thina tshelede yo linganaho u renga heyo hemmbe," vhe vha ralo ndi khotsi awe.
+P7	Khotsi a Hamisi vha badela dzhunifomo. Vha mangala vha tshi fhiwa tshintshi. Ho sala tshintshi i linganaho u renga hemmbe!
+P8	Ndi ḓuvha ḽa mashudu ḽa Hamisi. U ḓo khetha ifhio hemmbe?
 
 images:
 
-illustrations/pages/10779.png
 illustrations/pages/7976.png
-illustrations/pages/10777.png
 illustrations/pages/7966.png
-illustrations/pages/10778.png
 illustrations/pages/7967.png
-illustrations/pages/10779.png
 illustrations/pages/7968.png
-illustrations/pages/10780.png
 illustrations/pages/7969.png
-illustrations/pages/10781.png
 illustrations/pages/7972.png
-illustrations/pages/10782.png
 illustrations/pages/7973.png
-illustrations/pages/10783.png
 illustrations/pages/7975.png
-illustrations/pages/10784.png
 illustrations/pages/7976.png
-illustrations/pages/10785.png
-illustrations/pages/10786.png
-illustrations/pages/10787.png
-illustrations/pages/10788.png
-illustrations/pages/10789.png
-illustrations/pages/10790.png
-illustrations/pages/10792.png
-illustrations/pages/10793.png
 
 translations:
 
@@ -98,5 +65,6 @@ Sesotho (South Africa) (Translation)	Letsatsi La Tshepo La Lehlohonolo	id=20028
 Setswana (Translation)	Letsatsi La Ga Hamisi La Letlhogonolo	id=16594
 Setswana (Translation)	Letsatsi La Ga Kagiso La Letlhogonolo	id=17646
 SiLozi (Translation)	Lizazi La Litohonolo La Hamisi	id=18564
-siSwati (Translation)	Umfaniswano Wesikolo	id=13872
+Siswati (Translation)	Umfaniswano Wesikolo	id=13872
+Talen (Translation)	Hamisi Dab Somer Daar	id=20195
 Xitsonga (Translation)	Siku Ra Hamisi Ra Nkateko	id=18878

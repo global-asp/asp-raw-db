@@ -11,17 +11,18 @@ desc:	Ubani onamandla phakathi kwelanga nemvula?
 
 page_text:
 
-P1	Ngosuku olulandelayo,  Ilanga lavuka ekuseni kakhulu. Abantu bageza zonke izingubo zabo. Izingubo zashesha ukoma. "Uyabona,  yimi onamandla," kusho Ilanga.
-P2	  Ngosuku olulandelayo,  Imvula yavuka ekuseni kakhulu. Yayithela usuku lonke. Abantu bagcwalisa amabhakede namathangi.  "Uyabona,  yimina onamandla," kusho Imvula.
-P3	NgoMasingana noNhlolanja,  Ilanga lavuka ekuseni kakhulu,  zonke izinsuku lalibalele. Zonke izitshalo zoma.  Abantu bomile. Izilwane zingenamanzi.
-P4	Kwakushisa yonke indawo.  Abantu bafuna imifula ukubhukuda.
-P5	NgoMbasa imvula yaqala ukuna.  Yana ekuseni. Yana ntambama. Yana kusihlwa nasebusuku.
-P6	 Yonke into yayimanzi. Bese,  kwaqala ukubanda. Abantu bagqoka amajazi nezingubo. Kwakunodaka yonke indawo.
-P7	Abalimi bajabula. Balima kakhulu. Babethembe ukuthi isilimo siyomila uma imvula seyimile.
-P8	Emva kwesikhathi,  abantu basebekhathele yiMvula. Izilwane zafuna izindawo ezomile eziphephile.
-P9	 Ekugcineni,  Ilanga laphuma kodwa lingashisi ngokwanele. Izulu labanda.
-P10	Kwakungekho muntu othokozela lesimo sezulu.
-P11	Abantu bazibuza ngeLanga neMvula.  Babefuna ukwazi ukuthi ngubani onamandla. Wena? Ucabangani? Ucabanga ukuthi ngubani onamandla? YiLanga noma yiMvula.
+P1	Ngolunye usuku Ilanga neMvula zaphikisana. "Yimi onamandla," kusho Ilanga "Yimi onamandla, "Kusho Imvula.
+P2	Ngosuku olulandelayo,  Ilanga lavuka ekuseni kakhulu. Abantu bageza zonke izingubo zabo. Izingubo zashesha ukoma. "Uyabona,  yimi onamandla," kusho Ilanga.
+P3	  Ngosuku olulandelayo,  Imvula yavuka ekuseni kakhulu. Yayithela usuku lonke. Abantu bagcwalisa amabhakede namathangi.  "Uyabona,  yimina onamandla," kusho Imvula.
+P4	NgoMasingana noNhlolanja,  Ilanga lavuka ekuseni kakhulu,  zonke izinsuku lalibalele. Zonke izitshalo zoma.  Abantu bomile. Izilwane zingenamanzi.
+P5	Kwakushisa yonke indawo.  Abantu bafuna imifula ukubhukuda.
+P6	NgoMbasa imvula yaqala ukuna.  Yana ekuseni. Yana ntambama. Yana kusihlwa nasebusuku.
+P7	 Yonke into yayimanzi. Bese,  kwaqala ukubanda. Abantu bagqoka amajazi nezingubo. Kwakunodaka yonke indawo.
+P8	Abalimi bajabula. Balima kakhulu. Babethembe ukuthi isilimo siyomila uma imvula seyimile.
+P9	Emva kwesikhathi,  abantu basebekhathele yiMvula. Izilwane zafuna izindawo ezomile eziphephile.
+P10	 Ekugcineni,  Ilanga laphuma kodwa lingashisi ngokwanele. Izulu labanda.
+P11	Kwakungekho muntu othokozela lesimo sezulu.
+P12	Abantu bazibuza ngeLanga neMvula.  Babefuna ukwazi ukuthi ngubani onamandla. Wena? Ucabangani? Ucabanga ukuthi ngubani onamandla? YiLanga noma yiMvula.
 
 images:
 
@@ -43,3 +44,4 @@ translations:
 English (Translation)	Sun and Rain	id=16995
 English (Adaptation)	Sun and Rain	id=17083
 Luganda (Original)	Wankuba Ne Wamusana	id=12911
+Lusoga (Translation)	Musana Ni Maadhi	id=20406

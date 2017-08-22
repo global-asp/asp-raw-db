@@ -7,7 +7,7 @@ lang:	Amharic
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/17991.png
-desc:	ይህ በቅሎ ለምን ልጅ እንደማትወልድ የሚያብራራ ተረት ነው፡፡ (ይህ ተረት በመስፍን ሀብተማርያም ተተረተ፡፡ የእንግሊዝኛው ቅጂ &#4840;ተጻፈው በኤሊዛቤት ሊያርድ ነው፡፡
+desc:	ይህ በቅሎ ለምን ልጅ እንደማትወልድ የሚያብራራ ተረት ነው፡፡ (ይህ ተረት በመስፍን ሀብተማርያም ተተረተ፡፡ የእንግሊዝኛው ቅጂ የተጻፈው በኤሊ
 
 page_text:
 
@@ -51,4 +51,8 @@ illustrations/pages/17984.png
 translations:
 
 Amharic (Adaptation)	በቅሎዋ ዋርዲት	id=18427
+Amharic (Translation)	ዋርዲት በቅሎዋ	id=21180
 English (Original)	Wardit, the Mule	id=17985
+English (Adaptation)	The Mule	id=20873
+Kiswahili (Translation)	Nyumbu	id=21073
+Tigrigna (Translation)	እታ በቅሊ	id=21113

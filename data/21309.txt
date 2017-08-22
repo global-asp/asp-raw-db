@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=21309&d=0&a=1
+id:	21309
+title:	Greedy Anansi
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21309.png
+desc:	Greedy Anansi tries to trick his friends into giving him more than his share of figs but his friends find out.
+
+page_text:
+
+P1	During famine, only crows picked figs. Anansi wished for some.
+P2	Anansi planned and took a fig from the crows.
+P3	Another time, the crows told Anansi, “You just want our food!”
+P4	Together, they went to pick figs. Anansi took all of them.
+P5	Anansi jumped. He fell into the river full of crocodiles.
+P6	Anansi said, “I am your lost relative.” He was not eaten.
+P7	Crocodiles tested Anansi. Anansi pretended to eat brown water like crocodiles.
+P8	Crocodiles believed Anansi. They allowed him to sleep in their hole.
+P9	Anansi said, “Take me across the river to fetch my family.”
+P10	The crocodile carried Anansi to the bank of the river.
+P11	Anansi ran away. The crocodile is still waiting for him.
+
+images:
+
+illustrations/pages/946.png
+illustrations/pages/2078.png
+illustrations/pages/947.png
+illustrations/pages/1996.png
+illustrations/pages/2077.png
+illustrations/pages/949.png
+illustrations/pages/952.png
+illustrations/pages/951.png
+illustrations/pages/2079.png
+illustrations/pages/948.png
+illustrations/pages/953.png
+illustrations/pages/1995.png
+
+translations:
+
+English (Original)	Anansi, the Crows, and the Crocodiles	id=1946
+Kiswahili (Translation)	Anansi, Kunguru Na Mamba	id=2305
+Luganda (Translation)	Anansi, Enkwale Ne Waggoonya	id=2302
+Lugbarati (Translation)	Ebio Pi, Gaagaa Pie Azini Eyio Pie	id=2306
+Lugbarati (Official) (Translation)	Èbǐo Pǐ, Gǎagǎa Pɨe Àzɨnɨ Éyío Pɨe	id=8794
+Lumasaaba (Translation)	Wanaasi, Bakikhoolo Ni Tsikweena	id=3011
+Lunyole (Translation)	Haŋambi, Nahinywamalwa Ni Wagoona	id=2307
+Maa (Translation)	Anansi, Ilkúrruki Ó Ilkinosîn	id=2734
+Ng’aturkana (Translation)	Anansi, Ng’Ikuruka Ka, Ng’Akinyang’A	id=2303
+Oluwanga (Translation)	Anansi, Amakhokho Nende Tsikwena	id=2304

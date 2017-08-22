@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20953&d=0&a=1
+id:	20953
+title:	Ogwok
+author:	Agnes Kabonesa
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Kumam
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20953.png
+desc:	Itatam ni tiye ikom icuo oudo tiye kede ogwok mere ame oudo tiye kede yei kede wor kame wone tiye.
+
+page_text:
+
+P1	Oudo tiye icuo kede ogwok mere acel.
+P2	Oudo emaro ogwok mere twatwal.
+P3	Oudo ogwok noni tiye nyatic atek di ooto wilo ringo i atale.
+P4	Twomo pii kikulo.
+P5	Daro gi dedede kipaco.
+P6	Ceng acel icuo noni oko pwono ne ogwok mere iye kite kitegelekina pi bedo kede yei.
+P7	Ogwok oko bedo kede ilel di eko mede kede tic kitek.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

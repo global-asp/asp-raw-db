@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=7549&d=0&a=1
 id:	7549
 title:	Danger of Abandoning a Mother
 author:	John Nga'sike
-artist:	Zablon Alex Nguku
+artist:	
 lang:	English
 level:	First paragraphs
 lic:	Creative Commons: Attribution 3.0
@@ -18,10 +18,11 @@ P4	Lodipo told Akitela that his blind mother did not want to move. Akitela insis
 P5	Lodipo loved Akitela very much so  he gave in to her demands. They prepared to leave. The first wife,  Akai,  watched all this happening with confusion.
 P6	Lodipo's blind mother sat on a goat skin under a tree. She was unaware of what was going on. "How can we leave her on her own?" Akai wondered to herself.
 P7	Lodipo and his wives loaded all their belongings on their two camels. They left quietly without even saying goodbye to the old woman. Akai was crying because she was sad to leave her mother-in-law all alone.
-P8	Immediately after Lodipo and his wives had left,  raiders attacked the place.
-P9	The raiders asked the old woman to tell them where her son went. "We are going after him to kill him," they told her.  She pleaded,  "Don't kill the first wife and her children."  She also asked them to get back her ram,  which Lodipo took with him.
-P10	The warriors followed Lodipo. Just as he was settling down in the new place,  they caught up with him. They killed him and his young wife.
-P11	The first wife,  Akai,  went back with the ram. They lived together happily.
+P8	The old woman cried and sang this sad song,  "Awesita Lodipo Ngina Ekitae Ka ng'akinei. Nakolong kedounio,  Nitonoma tani Akolong'a Awesiti ngina. Awesiti a Lodipo ngina Eriamaros morua polonia."
+P9	Immediately after Lodipo and his wives had left,  raiders attacked the place.
+P10	The raiders asked the old woman to tell them where her son went. "We are going after him to kill him," they told her.  She pleaded,  "Don't kill the first wife and her children."  She also asked them to get back her ram,  which Lodipo took with him.
+P11	The warriors followed Lodipo. Just as he was settling down in the new place,  they caught up with him. They killed him and his young wife.
+P12	The first wife,  Akai,  went back with the ram. They lived together happily.
 
 images:
 
@@ -43,5 +44,6 @@ translations:
 Afrikaans (Translation)	Die Gevaar Van Verwerping	id=11249
 isiXhosa (Translation)	Ingozi Yokulahla Umama	id=11462
 Kiswahili (Translation)	Lodipo Amtoroka Mama	id=15937
+Lusoga (Translation)	Ebizibu Byo Ku Leka Omuzaile	id=21382
 Ng’aturkana (Translation)	Erono Akijal Itokon	id=13313
 Sepedi (Translation)	Danger of Abandoning a Mother	id=11468

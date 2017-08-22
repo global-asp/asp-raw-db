@@ -16,12 +16,14 @@ P2	Wamachina yatong'a yenyene. Omwikho we waale,  Rosa,  owali omukofu,  yamubuk
 P3	Inyanga yindi,  Wamachina yatsia okhuchenda mufilindwa fia samwana nende nyina mbu ababolere nga anyakhahana mubulamu bwe. Yetukhula eshimwero shiayali nachinjire naliranga,  nabola ari:   Papa,  Oliyena? Mama,  Oliyena? Mwandekha omufwire. Muli yena?
 P4	Wamachina namalire okhuboola,  yalola eshimuka eshilayi shia malwelwe shia yali nashiri okhulolakho. Shiatsomoshera akari we eshirindwa shia samwana nende nyina.
 P5	Wamachina yalekha okhulira. Yawulira olwimbo okhurula mushimuka eshio. Lwali lwokhuunderesia. Eshimuka shiemba shiri.
-P6	Wamachina yabukula eshimuka eshio nashifumbeerera khushirifu. Yeulira shinga yeuliranga nashiri nende nyina nende samwana. OKhurula inyanga eyo,  Wamachina yachinganga eshimuka eshio buli wosi wayatsitsanga. Yaretsanga hambi wa yeyalisinjia. Yashichinganga buli lwosi natsia mumwalo.
-P7	Niyalekhanga okhushichinga,  yauliranga eshibera. Buli nashichinjire,  yetsuliranga nyina nende samwana naulira obulayi. Inyanga yindi yatsia mumwalo okhwenda amatsi. Olwayenama,  yarerekha. Yaanda khu shimuka okhushikalira okhukwa,  ne shietuya khwichina mana nishiatikhamo efitonye fitaru.   Yaberera muno.
-P8	Yenama kaala natola efipande efio. Yafitira mumakhono ne niyemba ari:.
-P9	Ne olwa Wamachina yeema,  yaulira omwoyo shinga kwa mamawe nikuboola: Omwana wefu,  tola efipande fitonyere,  Injira mumatsi ninafio. Taira amatsi wiyosirie efirenje fio. Niwakhamala,  timba tsimoni tsio. Wamachina nakhola ario. Ne olwayakololokha, yaulira efipande nifireresia mu makhono ke mana nifiuunga alala nifikhola eshimuka khandi.
-P10	Wamachina yatsiririra okhuchinga eshimuka eshio buli wosi wayatsia. Buli wayaburanga abandu baukanga nibarebana,  "Neshimuka shina shino?" Shibalolakho eshimuka nga eshio tawe. Buli olwa Wamachina yabulanga eshindu,  yechesinjia abandu bomulukongo olo eshimuka esho mana bamwa shiosi eshiayenyere.
-P11	Mu bulamu bwaye bwosi,  tsikhabi tsiaye tsiaburiranga mushimuka esho.
+P6	Wamachina,  eeh,  Wamachina! Omwana wefu wa khwachama! Shioli wenyene taa wachamwa! Bukula eshimuka shino wachamwa! Shichinjenje buli hosi wotsia wachamwa! Shukhuunderesinjie wachamwa!
+P7	Wamachina yabukula eshimuka eshio nashifumbeerera khushirifu. Yeulira shinga yeuliranga nashiri nende nyina nende samwana. OKhurula inyanga eyo,  Wamachina yachinganga eshimuka eshio buli wosi wayatsitsanga. Yaretsanga hambi wa yeyalisinjia. Yashichinganga buli lwosi natsia mumwalo.
+P8	Niyalekhanga okhushichinga,  yauliranga eshibera. Buli nashichinjire,  yetsuliranga nyina nende samwana naulira obulayi. Inyanga yindi yatsia mumwalo okhwenda amatsi. Olwayenama,  yarerekha. Yaanda khu shimuka okhushikalira okhukwa,  ne shietuya khwichina mana nishiatikhamo efitonye fitaru.   Yaberera muno.
+P9	Yenama kaala natola efipande efio. Yafitira mumakhono ne niyemba ari:.
+P10	Papa nende mama,  lole eshimuka shiatishe,  eshimuka shiamwamberesia,  ekhola eshisa mumanyie eshilolero,  mbu mushiri nasi.
+P11	Ne olwa Wamachina yeema,  yaulira omwoyo shinga kwa mamawe nikuboola: Omwana wefu,  tola efipande fitonyere,  Injira mumatsi ninafio. Taira amatsi wiyosirie efirenje fio. Niwakhamala,  timba tsimoni tsio. Wamachina nakhola ario. Ne olwayakololokha, yaulira efipande nifireresia mu makhono ke mana nifiuunga alala nifikhola eshimuka khandi.
+P12	Wamachina yatsiririra okhuchinga eshimuka eshio buli wosi wayatsia. Buli wayaburanga abandu baukanga nibarebana,  "Neshimuka shina shino?" Shibalolakho eshimuka nga eshio tawe. Buli olwa Wamachina yabulanga eshindu,  yechesinjia abandu bomulukongo olo eshimuka esho mana bamwa shiosi eshiayenyere.
+P13	Mu bulamu bwaye bwosi,  tsikhabi tsiaye tsiaburiranga mushimuka esho.
 
 images:
 
@@ -45,7 +47,7 @@ Ekegusii (Translation)	Omogano O’Khayanga Nekerandi Kiaye	id=3115
 English (Original)	Khayanga and Her Gourd	id=2107
 French (Translation)	La Gourde De Khayanga	id=9957
 Fulfulde (Translation)	Kayannga E Jollooru Muuɗum	id=10009
-Hausa (Translation)	Kayanga Da Gyanɗama	id=9992
+Hausa (Niger) (Translation)	Kayanga Da Gyanɗama	id=9992
 Kanuri (Translation)	Fanda-a Budanju-A	id=10035
 Kikamba (Translation)	Ngewa Ya Kayanga Na Kĩkuu Kyake	id=2395
 Kiswahili (Translation)	Khayanga Na Kibuyu Chake	id=7280

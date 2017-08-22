@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=20174&d=0&a=1
+id:	20174
+title:	Zu'o	
+author:	J. K. A. Anankor and E. T. Anoeni (OLE Ghana)
+artist:	Ethan Alberts, Saulsville and Wiehan de Jager
+lang:	Talen
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20174.png
+desc:	Solem denla toara zuo nmar daoŋ siem. Solem denla toara zuo nmar daoŋ siem.
+
+page_text:
+
+P1	Zu'o aa bun dumerug.
+P2	O nɔŋa da'at zii.
+P3	Be bina faung, tampuar zug ne diit zug.
+P4	O yira da'at zii ken ya' ne na.
+P5	Laben te diit ne ka da'at be.
+P6	Ɔn di di'da'at, o po'o nan dum.
+P7	Zu'o aa ɔn pu mah yem.
+
+images:
+
+illustrations/pages/5294.png
+illustrations/pages/5294.png
+illustrations/pages/5299.png
+illustrations/pages/5302.png
+illustrations/pages/13574.png
+illustrations/pages/5526.png
+illustrations/pages/13371.png
+illustrations/pages/5294.png
+
+translations:
+
+English (Adaptation)	Flies	id=13639
+isiZulu (Translation)	Impukane	id=7492
+Lunyole (Translation)	Esoŋera	id=12909
+Mampruli (Translation)	Zuaa	id=20168
+Ng’aturkana (Translation)	Ng'ichuch	id=20494
+Xitsonga (Translation)	Nhongana	id=14381

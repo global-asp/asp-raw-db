@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=21372&d=0&a=1
+id:	21372
+title:	Oscar Omusablenya
+author:	Titus Ndhokero
+artist:	Ethan Alberts
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21372.png
+desc:	Oscar omusablenya alina ekizibu namaiso ge-tabona bulungi oku gema ebyenandha. Mukwano gwe embalasi ye nyanda amokobera okulya carroti
+
+page_text:
+
+P1	Oscar alina ekizibu namaiso ge. Tasobola kubona ekyenandha kyonakyona.
+P2	Aye talya carroti de.
+P3	Johnnie embalasi ye nanda akoba, ’Oscar lya carroti doh!’
+P4	Aye Oscar tayenda ewomelela ye carroti.
+P5	'Carroti dida kuyamba okubona okusinga awo, ’Johnnie akoba.
+P6	Oscar aja eli omusawo.Oscar ne Johnnie balinda Dr Shakes.
+P7	Dr Shakes akoba, ’galubindi dida kuyamba okubona okusinga awo.
+P8	Oscar tayenda kwambala galubindi.
+P9	Aye galubindi diyamba Oscar okubona engege. Buti alya kaloti na ngege.
+
+images:
+
+illustrations/pages/5292.png
+illustrations/pages/5293.png
+illustrations/pages/5294.png
+illustrations/pages/5295.png
+illustrations/pages/5296.png
+illustrations/pages/5297.png
+illustrations/pages/5298.png
+illustrations/pages/5299.png
+illustrations/pages/5300.png
+illustrations/pages/5301.png
+
+translations:
+
+English (Original)	Oscar the Shark	id=5303
+isiZulu (Translation)	Umazinyo Ushaka	id=6713
+isiZulu (Translation)	Umazinyo Ushaka	id=7490

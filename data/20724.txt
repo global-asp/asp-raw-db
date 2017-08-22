@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=20724&d=0&a=1
+id:	20724
+title:	Ivila Elingu-Anansi
+author:	Pumla Mdontswa
+artist:	Wiehan de Jager
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20724.png
+desc:	Kungani izicabucabu zinemilenze emide eyondile?
+
+page_text:
+
+P1	U-Anansi isicabucabu esivilaphayo.
+P2	Uyakuthanda ukudla, kodwa uyavilapha ukukupheka.
+P3	Nangu esevakashela uGwajo, usecela unogwaja ukuba amuphe imifino yakhe.
+P4	"Kulungile ngizokupha. Ngisize ngokugoqoza." Kodwa u-Anansi uyavilapha.
+P5	"Ngisathi shelele, ngizobuye ngibuye," kusho u-Anansi.
+P6	U-Anansi athandele ulwembu emlenzeni wakhe, nasebhodweni likaGwajo.
+P7	"Ubodonsa ulwembu uma imifino seyilungile," kusho u-Anansi. Adlulele ezinkawini.
+P8	"We zinkawu, ngicela ningiphe ubhontshisi wenu?" kucela u-Anansi. "Kulungile. Sisize ukuqoba."
+P9	"Ngiyabuya," esho ethandela obunye ulwembu, edlulela kuNdlovudawana.
+P10	"Ndlovudawana, ngicela ukuzwa amazambane akho?" "Kulungile. Ngisize siwalungise."
+P11	"Ngizobuya," esho ethandela obunye ulwembu.
+P12	Ngokushesha, yilowo nalowo mlenze ka-Anansi wabe uthandeleke ebhodweni.
+P13	Khona manjalo u-Anansi wezwa ukudonseka emlenzeni wesibili. Kwaba kowesithathu.
+P14	Yonke imilenze eyisishiyagalombili yadonseka. "Musani ukudonsa!" kukhala u-Anansi.
+P15	Akekho owezwa ukukhala kuka-Anansi. Ulwembu banqamuka ngabunye ngabunye.
+P16	Imilenze ka-Anansi yadonseka, yadonseka. Kungakho nje zonke izicabucabu zinemilenze emide eyondile.
+
+images:
+
+illustrations/pages/1069.png
+illustrations/pages/1070.png
+illustrations/pages/1071.png
+illustrations/pages/1072.png
+illustrations/pages/1073.png
+illustrations/pages/1074.png
+illustrations/pages/1075.png
+illustrations/pages/1076.png
+illustrations/pages/1069.png
+
+translations:
+
+Afaan Oromo (Translation)	Sharaariti Dadhaba	id=20428
+Amharic (Translation)	ሰነፉ አናንሲ	id=20489
+English (Original)	Lazy Anansi	id=1077
+English (Adaptation)	Lazy Anansi	id=19765
+French (Translation)	Anansi, La Fainéante	id=10850
+Hausa (Nigeria) (Translation)	Anansi Malalaci	id=20520
+isiZulu (Translation)	Anansi Ovilaphayo	id=11195
+Kikamba (Translation)	Kitumi Kya Anansi Kwithiwa Na Maau Matheke Nyanya	id=2068
+Kiswahili (Translation)	Jinsi Anansi Alivyopata Miguu Minane Myembamba	id=2069
+Kiswahili (Translation)	Anansi Mvivu	id=20438
+Luganda (Translation)	Nabbubi Omunafu	id=2073
+Luganda (Translation)	Lwaki Nabbubi Erina Obugulu Munaana Obutono	id=8730
+Lugbarati (Translation)	E`yo Ebio Ma Pa Yin I Ovuzu Izia Izia Aro Ri	id=2070
+Lugbarati (Official) (Translation)	Ebìó Òvʉ́ó Rʉ Rɨ̀	id=8795
+Lumasaaba (Translation)	Lwashiina Wanaasi Nabubi Ali Ni Buukyele Shinaane Buunyelele	id=3012
+Lunyole (Translation)	Anansi Omunafu	id=2074
+Lusoga (Translation)	Munansi Omunafu	id=20401
+Maa (Translation)	Káínyoo Peê Éátâ Anansi Inkejék Ísíet Rónkéní	id=2729
+Ng’aturkana (Translation)	Eyakar Anansi Ng’Akejen Ngakan-Kauni Nadiim	id=2075
+Oluwanga (Translation)	Esichira Anansi Naba Norulenje Orutiti Munane	id=2071
+Portuguese (Translation)	Anansi Preguiçoso	id=16657

@@ -18,16 +18,17 @@ P4	I started to cry wanting to follow her but dad lifted me up on his shoulder.
 P5	Dad said,  "Your mother is going to the hospital to have a baby."
 P6	When I heard "baby" I stopped crying and looked at him. "Why is she going to get the baby from the hospital?" I asked him.
 P7	Dad sat me on a small chair and said,  "I will tell you why she is going to get the baby from the hospital."
-P8	My dad held me close and said,  "We will always love you."
-P9	"Can I write a letter to her while she is there?" I asked dad.
-P10	That evening,  I began to write a letter to mum.
-P11	I tore a paper from my exercise book and began to write.
-P12	"Mummy,  mummy,  dad said that you have gone to bring another baby."
-P13	Please hurry up and return home.
-P14	I want you to bring a baby girl,  so I can play with her when she grows up.
-P15	You can bring two so one can be mine.
-P16	I am waiting for you here outside our house.
-P17	I folded my letter so I could give it to my father to bring it to mum. When I woke up the following morning,  the letter was gone.
+P8	I listened keenly to him as he explained although I didn't quite understand why she wasn't having the baby at home. When dad finished explaining,  I asked,  "Will she still love me when she comes back with the other baby?"
+P9	My dad held me close and said,  "We will always love you."
+P10	"Can I write a letter to her while she is there?" I asked dad.
+P11	That evening,  I began to write a letter to mum.
+P12	I tore a paper from my exercise book and began to write.
+P13	"Mummy,  mummy,  dad said that you have gone to bring another baby."
+P14	Please hurry up and return home.
+P15	I want you to bring a baby girl,  so I can play with her when she grows up.
+P16	You can bring two so one can be mine.
+P17	I am waiting for you here outside our house.
+P18	I folded my letter so I could give it to my father to bring it to mum. When I woke up the following morning,  the letter was gone.
 
 images:
 
@@ -54,6 +55,11 @@ translations:
 
 Afrikaans (Translation)	'n Briefie Vir Mamma	id=11343
 Afrikaans (Translation)	Brief Aan Ma	id=11350
+English (Adaptation)	Waiting For Baby 	id=21452
+isiNdebele (Translation)	Silindele Umntwana	id=21463
 isiZulu (Translation)	Incwadi Kamama	id=11513
+isiZulu (Translation)	Silindele Usana Lwethu	id=21464
 Kiswahili (Translation)	Barua Kwa Mama	id=2526
 Naro (Translation)	Tcgãyas Áís Koe Ko Síí Sa	id=16457
+Sesotho (South Africa) (Translation)	Ho Lebelletswe Lesea	id=21467
+Siswati (Translation)	Kulindza Umntfwana	id=21465

@@ -15,12 +15,14 @@ P1	Ûjû ni mwarimu wakwa. Ritwa riawe ni mwarimu Makena. Niampendete mono.
 P2	Mwarimu Makena niaditananga kuthoma ntemwa. Nimbiji kuthoma a,  e,  i,  o,  u.
 P3	Mwarimu Makena nianditananga mantu ja rangi ta itune na injiru.
 P4	Igiita ria kumaama mwarimu Makena natwinagira ndwimbo injega.
-P5	Jumatatu atwiraga ngono cia arume njorua.
-P6	Jumaine agatwira ngono cia ekuru njorua.
-P7	Jumatano atugonaira ngono cia ngeendo.
-P8	Alamisi atwiraga ngono cia urimi.
-P9	Jumaa yakinya mwarimu Makena atweejaga kaanya tugonera aritwa bangi turi kiracine.
-P10	Mwarimu wetu ni umwega mono na ndakura ngienda kwaa ta mwarimu Makena.
+P5	Ruumwe I ruru: Tiga mwaana ii kuriira Nyakwwe netiree ii kurima Akeeja na kariguu ka muunda Tiga mwaana ii kuriira Nyakwwe netiree ii kurima Akeeja na kariguu ka muunda.
+P6	Mwarimu Makena naiji ngono inyingi na ni a tugonaira.
+P7	Jumatatu atwiraga ngono cia arume njorua.
+P8	Jumaine agatwira ngono cia ekuru njorua.
+P9	Jumatano atugonaira ngono cia ngeendo.
+P10	Alamisi atwiraga ngono cia urimi.
+P11	Jumaa yakinya mwarimu Makena atweejaga kaanya tugonera aritwa bangi turi kiracine.
+P12	Mwarimu wetu ni umwega mono na ndakura ngienda kwaa ta mwarimu Makena.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Translation)	Uthisha Uzanele	id=13537
 isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

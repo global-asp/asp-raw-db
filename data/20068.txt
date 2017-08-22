@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20068&d=0&a=1
+id:	20068
+title:	Lwaki Ajawo Tiyaziikibwa
+author:	Cornelius Wambi Gulere
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20068.png
+desc:	Ajawo irenha
+
+page_text:
+
+P1	Wairenha, Ajawo, yalambaala mu nhumbaye nga mulwaire inho. Yali ezira asobola kumubumbuudha.
+P2	Aghoni, Ajawo yaafa.
+P3	"Ajawo afiire. Tuli nookweta ebekikakye bamuziike." Balilanwabe bwe baakoba batyo.
+P4	Balilaanwa baaja ye Wakinhonhi baamukoba bati, "Owe ekikakyo afiire."
+P5	Ba Wakinhonhi baidha baabona nga ni Ajawo. Baakoba bati, "Ono wansolo ti wa kika kyaife."
+P6	"Abali mu kika kyaife bonaboona baliku amooya aye Ajawo aziraku waire. Kale, tali mulala ku ife." Ba Wakinhonhi baagolola.
+P7	Abalilaanwa beekobaana. Baikiriza bati, "Ba Wakinhonhi batuufu. Ajawo azira mooya. Kale, ti wa kika kyaibwe."
+P8	Mulala kubo yakoba ati, "Yakaba wa kika kya Ba Wampube. Abafaanana."
+P9	Abalilaanwa baaja era baaleeta Ba Wampube nga bakoba bati, "Omulala ku imwe mu maka afiire."
+P10	Ba Wampube baidha baabona nga ni Ajawo. Baakoba bati, "Ono wansolo ti wa kika kyaife."
+P11	"Buli mulala mu kika kyaife aliku omukira. Ajawo azira mukira." Ba Wampube baavaawo.
+P12	Ezira wa kika kya Ajawo eyabonekaku. Ajawo yasigala agho tiyaziikibwa.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+English (Translation)	Why Ajao Was Not Buried	id=16988
+Kiswahili (Translation)	Kwa Nini Ajao Hakuzikwa	id=17031
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

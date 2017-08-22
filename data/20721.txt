@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=20721&d=0&a=1
+id:	20721
+title:	Ufudu Wathola Kanjani Ikhala Elitshekile
+author:	Pumla Mdontswa
+artist:	Marlene Visser 
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20721.png
+desc:	Ungabojaha ukulwa! UFudu uphetha ngani ngokujaha ukulwa?
+
+page_text:
+
+P1	UFudu noSkwireli badinga imali.
+P2	Benquma ukwenza amapuleti bayowathengisa emakethe.
+P3	UFudu ubona kuliwa emakethe. Uphonseke khona.
+P4	USkwireli ulwa noMvukuzane.
+P5	"We Mvukuzane ndini, hlukana nomngane wami!" kumemeza uFudu.
+P6	UMvukuzane uluma uFudu ekhaleni.
+P7	Ikhala likaFudu lilimele, libuhlungu.
+P8	Namhlanje uFudu unekhala elitshekile ngoba wajahela ukulwa, wachofozwa uMvukuzane.
+
+images:
+
+illustrations/pages/13136.png
+illustrations/pages/13129.png
+illustrations/pages/13130.png
+illustrations/pages/13131.png
+illustrations/pages/13132.png
+illustrations/pages/13133.png
+illustrations/pages/13134.png
+illustrations/pages/13135.png
+illustrations/pages/13136.png
+
+translations:
+
+Afaan Oromo (Translation)	Funyaan Qocaa	id=20426
+Amharic (Translation)	የኤሊ አፍንጫ ለምን ተጣመመ?	id=20480
+English (Translation)	How Tortoise's Nose Became Crooked	id=13137
+English (Adaptation)	How Tortoise Got a Crooked Nose	id=19763
+French (Translation)	Le Nez Crochu De Tortue	id=13769
+Hausa (Nigeria) (Translation)	Yadda Kunkuru Ya Samu Karkataccen Hanci	id=20518
+Hausa (Nigeria) (Translation)	Yadda Kunkuru Ya Samu Karkataccen Hanci	id=21367
+Kinyarwanda (Adaptation)	Uko Akanyamasyo Kagize Izuru Ribwataraye	id=20250
+Kiswahili (Translation)	Jinsi Kobe Alipata Pua Kombo	id=20436
+Lusoga (Translation)	Wankudu Ne Ennhindo Engudule	id=20399
+Ng’aturkana (Translation)	Eger Lo Ang'walia Ekume Abokok	id=20418
+Portuguese (Translation)	Foi Assim Que O Nariz Da Tartaruga Ficou Torto	id=16560
+Setswana (Translation)	Goreng Khudu A Nale Nko E E Sokameng	id=21163
+Yoruba (Original)	Bí Imú Ìjàpá Ṣe Rí Kọ́ńbó	id=13128

@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=21412&d=0&a=1
+id:	21412
+title:	Chiefs Versus Aces
+author:	Nolitha Bikitsha
+artist:	Vusi Malindi
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21412.png
+desc:	We are going to play soccer - Chiefs versus Aces. Come and watch! Come with your vuvuzela!
+
+page_text:
+
+P1	The day that we’re waiting for is coming. It’s going to be Chiefs versus Aces on this very field. 
+Come and watch! Come with your vuvuzela!
+P2	“Chiefs, the cup must come to sleep at home,” said Coach. “I want us to work together as a team to defeat the Aces. We must attack cleverly, defend well, and pass to each other.”
+P3	Soon we were practising hard. 
+“Pass the ball, pass it, Portia Modise!”
+“Defend, defend, Jomo!”
+“There it is, there it is, into the goals!”
+Po-o-o-o! Po-o-o-o! Po-o-o-o! sounded the vuvuzela.
+P4	“You played wonderfully, my beautiful Chiefs!
+You attacked cleverly, you defended well, and you passed to each other. You played as a real team!”
+P5	“High five to all of you! Well done!” said Coach.
+P6	We went home really tired, but the practice was good.
+
+“When is the real match, Coach?” we asked.
+P7	Finally the day came. 
+“Halala Chiefs, halala! It’s going to be a good game. The cup is ours!” said Coach. 
+Po-o-o-o-o! Po-o-o-o! Po-o-o-o-o! sounded the vuvuzela.
+P8	And then there was a surprise. 
+
+“What beautiful kit!  Thank you, Coach. We play the best, and now we also look the best!”
+
+images:
+
+illustrations/pages/7978.png
+illustrations/pages/7970.png
+illustrations/pages/7977.png
+illustrations/pages/7978.png
+illustrations/pages/7980.png
+illustrations/pages/7982.png
+illustrations/pages/7983.png
+illustrations/pages/7984.png
+illustrations/pages/7985.png
+
+translations:
+
+Afrikaans (Translation)	Sokker Wedstryd	id=11307
+Afrikaans (Translation)	Sokker Wedstryd	id=11403
+English (Translation)	Soccer Game	id=9825
+English (Adaptation)	Soccer Game is  Good	id=13524
+French (Translation)	Une Partie De Football	id=13277
+isiXhosa (Adaptation)	Indebe Yomhlaba I-Chiefs Ne-Aces	id=9826
+isiZulu (Translation)	Sithanda Ibhola Lezinyawo	id=13325
+Luganda (Translation)	Okuzannya Akapiira	id=8425
+Lunyole (Translation)	Omupiira	id=13523
+Sepedi (Original)	Re Bapala Bolo	id=8038
+Sesotho (S.Africa) (Translation)	Re Bapala Bolo	id=9831

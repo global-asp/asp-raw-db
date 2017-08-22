@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=21197&d=0&a=1
+id:	21197
+title:	ቅርስስቲ መዓልቲ
+author:	Angish Abay
+artist:	Abraham Muzee
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21197.png
+desc:	እዚ ታሪኽ ብዛዕባ ክልተ ተጨወዩ ቆልዑ እዩ። እቶም ቆልዑ ሓደጋ ኣብ ዘለዎ ጉዕዞ ኣትዮም ነይሮም፤ ኣብ መወዳእታ ግን ድሒኖም።
+
+page_text:
+
+P1	ኣነን በርሀ ዓርከይን ካብ ቤት ትምህርቲ  ንገዛና ንኸድ ነበርና።
+P2	ሓደ መዓልቲ ሓደ ሰብኣይ ደድሕሬና ይኽተለና ነበረ።
+P3	ኣስናኑ ቡናዊ እዩ ነይሩ። ኣብ ገፁ ፈፀጋ ነይርዎ።
+P4	ምልስ ኢልና ምስርኣናዮ፣  ተቖጢዑ ኮረየልና።
+P5	ንዓይ ናብ ሽፍንቲ መኪና ሰንደውኒ።
+P6	በርሀ ዓርከይ ጎይዩ ኣምለጠ።
+P7	ኢደይ ኣሲሮም ናብ ፀልማት ገዛ ኣእትዮምኒ።
+P8	“ነዊሕ ጉዕዞ ስለ ንኸይድ፣ እዚ ምግቢ ብላዕ” በለኒ ሓደ ሰብኣይ።
+P9	ኣነ እናበላዕኹ እቲ ሰብኣይ ሽጋራ የትክኽ ነይሩ።
+P10	ሃንደበት ካሊእ ሰብኣይ ንበርሀ ዓርከይ እናጎተቶ መፀ።
+P11	ኣብቲ ካሊእ ክፍሊ እቶም ሰብኡት እናተኻትዑን እናተጓየቑን ንሰምዖም ነይርና።
+P12	“ቤተሰብና ኣይኸፍልዎምን፣ ጎይና ነምልጥ” በለኒ በርሀ።
+P13	ብርሃን ክሳብ ንርኢ ንቲ ዓንደ-ገመል ካብ እቲ መስኮት ነቐልናዮ።
+P14	በርሀ በቲ መስኮት ወፅዩ ዝረድኣና ሰብ ደለየ።
+P15	እቶም ሰባት እናሸኮሉ መፁ። እቲ መራሒኦም ብጣዕሚ ሓረቐ።
+P16	ናብቲ ካሊእ ክፍሊ ተመሊሶም ክትዖም ቀፀሉ።
+P17	“ኣይትፍራሕ፣ ፖሊሳት ኣለው ኣብዚ” ዝብል ድምፂ ሰማዕኹ።
+P18	ይጨኻጨኹ ነይሮም፤ ተኹሲ ጥይት እውን ይሰምዕ ነይረ።
+P19	ሓንቲ ፖሊስ “ኩሉ ነገር ኣብቂዑ ኣሎ። ሕዚ ድሕነትካ ሕልው እዩ” በለትኒ።
+P20	ድሕሪ እዛ ምዓልቲ ኣነን በርሀ ዓርከይን ምስተጠንቐቕና ኢና።
+
+images:
+
+illustrations/pages/14751.png
+illustrations/pages/14735.png
+illustrations/pages/14736.png
+illustrations/pages/14737.png
+illustrations/pages/14738.png
+illustrations/pages/14740.png
+illustrations/pages/14739.png
+illustrations/pages/14741.png
+illustrations/pages/14742.png
+illustrations/pages/14743.png
+illustrations/pages/14744.png
+illustrations/pages/14745.png
+illustrations/pages/14746.png
+illustrations/pages/14747.png
+illustrations/pages/14748.png
+illustrations/pages/14749.png
+illustrations/pages/14750.png
+illustrations/pages/14751.png
+illustrations/pages/14752.png
+illustrations/pages/14753.png
+illustrations/pages/14754.png
+
+translations:
+
+Dhopadhola (Translation)	Okwal Nyithindho	id=15761
+English (Original)	Kidnapped!	id=14734
+English (Adaptation)	Unlucky Day!	id=20892
+French (Translation)	Kidnappés !	id=14963
+Gikuyu (Translation)	Kidnapped	id=16201
+isiXhosa (Translation)	Bathinjiwe!	id=14880
+isiZulu (Translation)	Bathunjiwe!	id=14807
+Kiswahili (Translation)	Kutekwa Nyara!	id=15934
+Kiswahili (Translation)	Siku Ya Bahati  Mbaya!	id=21143
+Ng’aturkana (Translation)	Abunaro	id=16115
+Ng’aturkana (Translation)	Ekeny Loaronon!	id=21125
+Portuguese (Translation)	Raptados!	id=16716
+Sesotho (S.Africa) (Translation)	Kwetetswe!	id=14878
+Setswana (Translation)	Go Gapiwa Ka Dikgoka!	id=14883
+Tshivenda (Translation)	U Dzhiiwa Nga Khani	id=14879
+Xitsonga (Translation)	Ku Tlhakisiwa!	id=14881

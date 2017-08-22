@@ -11,20 +11,20 @@ desc:	Izinyoni zazifuna ukuba nenkosi. Zahlangana
 
 page_text:
 
-P1	Kudaladala,  izinyoni zazingenayo inkosi. Langa lithize zabamba umhlangano. Zazibhunga ngokuthi ngubani ongaba yinkosi ukuze nazo zibe nomholi njengabantu.
+P1	Kudaladala, izinyoni zazingenayo inkosi. Langa lithize zabamba umhlangano. Zazibhunga ngokuthi ngubani ongaba yinkosi ukuze nazo zibe nomholi njengabantu.
 P2	"Ukhozi lunamandla futhi lunesakhiwo sobukhosi." Kusho enye yezinyoni. "Cha ngeke,  ukhozi alunalo ugedla,  futhi uma lumemeza aluzwakali kahle." "Kungcono intshe ngoba inkulu,  ibhonga kuzwakale." Kusho enye yezinyoni. "Cha ngeke! Ayikwazi ukundiza,  inkosi yezinyoni kufanele ikwazi ukundiza."
-P3	"Mina,  ngingaba yinkosi," kusho ipigogo lidlalisa isisila salo. "Ngimuhle kabi." "Hhayi suka uyaziqhenya," kusho isikhova. "Mina,  nginamehlo amakhulu kunazo zonke izinyoni. Ngingaba yinkosi." "Cha,  ngeke ube yinkosi wena sikhova,  angithi ulala emini!" Zonke izinyoni zisiphikisa.
-P4	Zathi zisaqhubeka nenkulumo,  enye yezinyoni yeza nombono wokuthi kungcono kundizwe. Sekuyothi lowo oyondizela phezulu kakhulu kube nguyena oyoba yinkosi yezinyoni. Zonke izinyoni zavumela phezulu.
+P3	"Mina, ngingaba yinkosi," kusho ipigogo lidlalisa isisila salo. "Ngimuhle kabi." "Hhayi suka uyaziqhenya," kusho isikhova. "Mina, nginamehlo amakhulu kunazo zonke izinyoni. Ngingaba yinkosi." "Cha, ngeke ube yinkosi wena sikhova, angithi ulala emini!" Zonke izinyoni zisiphikisa.
+P4	Zathi zisaqhubeka nenkulumo, enye yezinyoni yeza nombono wokuthi kungcono kundizwe. Sekuyothi lowo oyondizela phezulu kakhulu kube nguyena oyoba yinkosi yezinyoni. Zonke izinyoni zavumela phezulu.
 P5	Ihansi landizela phezu kwezintatshana nje. Kanti ukhozi lwandizela phezu kwezintaba eziphakeme. Inqe lona,  landizela phezulu esibhakabhakeni.
-P6	Lisandizela phezulu inqe,  kwezwakala limemeza lithi "Ngiphezulu,  yimina inkosi!"
-P7	Khona manjalo,  lezwa izwi elincane,  "Tswi,  tswi,  tswi! Ngiphezulu kunani nonke,  ngiyinkosi." Kwasho ungcede omhlophe.   Phela,  wayecashe ngaphansi kwephiko lenqe ngesikhathi lindizela phezulu esibhakabhakeni!
-P8	"Ngeke usangehlula," kusho inqe lindizela phezulu futhi. Landiza laze laphelelwa ngamandla. Laphinda lamemeza lathi,  "Ngiphezulu Ngiyinkosi yenu."
-P9	Ngaphansi kwephiko lwalo,  nakhu okungungcede kuzishwathikile. Waphuma ungcede,  "Tswi,  tswi! Tswi,  tswi! Yimina inkosi." Ngaleso sikhathi inqe lase likhathele kakhulu ukundizela phezulu.
+P6	Lisandizela phezulu inqe, kwezwakala limemeza lithi "Ngiphezulu,  yimina inkosi!"
+P7	Khona manjalo, lezwa izwi elincane, "Tswi, tswi, tswi! Ngiphezulu kunani nonke, ngiyinkosi." Kwasho ungcede omhlophe. Phela, wayecashe ngaphansi kwephiko lenqe ngesikhathi lindizela phezulu esibhakabhakeni!
+P8	"Ngeke usangehlula," kusho inqe lindizela phezulu futhi. Landiza laze laphelelwa ngamandla. Laphinda lamemeza lathi, "Ngiphezulu ngiyinkosi yenu."
+P9	Ngaphansi kwephiko lwalo, nakhu okungungcede kuzishwathikile. Waphuma ungcede, "Tswi, tswi! Tswi, tswi! Yimina inkosi." Ngaleso sikhathi inqe lase likhathele kakhulu ukundizela phezulu.
 P10	Inqe landizela phansi kanti nongcede wayesacashe phansi kwephiko lalo. Ezinye izinyoni zazimthukuthelele kabi ungcede. Zazimlindele ukuthi uma efika nje zizomchutha zonke izimpaphe.
 P11	Inyoni encane yakubona ukuthukuthela kwezinye izinyoni. Ngokushesha yehla yathi tshobe emgodini.
-P12	Izinyoni zathi esikhoveni,  "Wena sikhova,  ngoba unamehlo amakhulu,  qapha ungcede,  umbambe uma ephuma." Ngempela isikhova sahlala phambi komgodi saqapha.
-P13	Emini ilanga selifudumele,  isikhova safikelwa ubuthongo salala. Ungcede walunguza wabona isikhova silele. Waphuma wanyonyoba wabaleka.
-P14	  Isikhova saba namahloni ngokwenzekile,  ukudedela ungcede. Kusukela ngalelo langa isikhova saqala ukuzingela ebusuku. Emini siyalala sicashele ukubonwa ngezinye izinyoni.
+P12	Izinyoni zathi esikhoveni, "Wena sikhova, ngoba unamehlo amakhulu, qapha ungcede, umbambe uma ephuma." Ngempela isikhova sahlala phambi komgodi saqapha.
+P13	Emini ilanga selifudumele, isikhova safikelwa ubuthongo salala. Ungcede walunguza wabona isikhova silele. Waphuma wanyonyoba wabaleka.
+P14	Isikhova saba namahloni ngokwenzekile, ukudedela ungcede. Kusukela ngalelo langa isikhova saqala ukuzingela ebusuku. Emini siyalala sicashele ukubonwa ngezinye izinyoni.
 
 images:
 
@@ -67,6 +67,7 @@ Lumasaaba (Translation)	Umuyiinga We Binywiinywi	id=3117
 Lumasaaba (Translation)	Umuyiinga We Binywiinywi	id=8697
 Lunyole (Translation)	Habaha W’Enyuni	id=3119
 Maa (Translation)	Olkínkí Le Oó Imotónyi	id=7206
+Mampruli (Translation)	Ninsi Natitari	id=20388
 Oluwanga (Translation)	Omwami Wa Amayoni	id=3120
 Portuguese (Translation)	Rei Das Aves	id=16660
 Sepedi (Translation)	Kgoši Ya Dinonyana	id=18160

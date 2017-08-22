@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=20230&d=0&a=1
+id:	20230
+title:	Mwarimu Wanjye
+author:	Baudouin Habingabwa
+artist:	Jesse Pietersen
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20230.png
+desc:	Uyu mwana wumukobwa akunda mwarimu we kandi arifuza kuba nka we.
+
+page_text:
+
+P1	Nkunda mwarimu wanjye.
+P2	Ni umwarimu mwiza. Aritonda kandi arihangana.
+P3	Yaboshye umusatsi we neza.
+P4	Yashyize amasaro y'amabara meza mu musatsi we.
+P5	Amasaro ni icyatsi kibisi, umweru, umutuku n'umuhondo.
+P6	Mama, wambohera umusatsi ukaba  nk'uwa mwarimu wanjye?
+P7	Ni nkura, nzashyira amasaro mu musatsi wanjye.
+P8	Nzakura maze mere nka mwarimu wanjye!
+
+images:
+
+illustrations/pages/8513.png
+illustrations/pages/8509.png
+illustrations/pages/8510.png
+illustrations/pages/8511.png
+illustrations/pages/8512.png
+illustrations/pages/8513.png
+illustrations/pages/8514.png
+illustrations/pages/8515.png
+illustrations/pages/8516.png
+
+translations:
+
+Afrikaans (Translation)	My Juffrou	id=20086
+Akuapem Twi (Translation)	Me Kyerɛkyerɛfo	id=18465
+Amharic (Translation)	መምህሬ 	id=21236
+Asante Twi (Translation)	Me Kyerɛkyerɛfoɔ	id=18223
+ChiTonga (Translation)	Basiisi Bangu	id=18632
+CiNyanja (Translation)	Apunzisi Anga	id=18609
+Dagaare (Translation)	N Karema	id=17777
+Dagbani/Dagbanli (Translation)	N Karim Ba	id=18153
+Dangme (Translation)	Ye Tsɔɔlɔ	id=18303
+Dhopadhola (Translation)	Jafonji Paran	id=18751
+English (Original)	My Teacher	id=8507
+Ewe (Translation)	Nye Nufiala	id=18170
+Fante (Translation)	Me Kyerɛkyernyi	id=18495
+Ga (Translation)	Mitsɔɔlɔ	id=18294
+Gonja (Translation)	Mabe Eŋinipo	id=18176
+Hausa (Nigeria) (Translation)	Malamata	id=20510
+IciBemba (Translation)	Bakafundisha Bandi	id=18574
+isiXhosa (Translation)	Utitshala Wam	id=17577
+isiZulu (Translation)	Uthisha Wami	id=8075
+Kasem (Translation)	A Bereno	id=18210
+Kiswahili (Translation)	Mwalimu Wangu	id=15609
+Lunyole (Translation)	Omusomesa Wange	id=16424
+Mampruli (Translation)	N  Karimba	id=18852
+Nzema (Translation)	Me Kilehilevolɛ Ne	id=18432
+Oluwanga (Translation)	Omusomesia Wanje	id=19796
+Portuguese (Translation)	A Minha Professora	id=17617
+Sepedi (Translation)	Morutiši Wa Ka	id=18025
+Sesotho (South Africa) (Translation)	Mosuwetsana Wa Ka	id=20038
+Setswana (Translation)	Morutabana Wa Me	id=16753
+Setswana (Translation)	Morutabana Wa Me	id=17655
+SiLozi (Translation)	Bomuluti Baka	id=18558
+Tshivenda (Translation)	Mudededzi Wanga	id=18987
+Tunisian (Translation)	Muġallimti	id=15153
+Xitsonga (Translation)	Mudyondzisi Wa Mina	id=18998

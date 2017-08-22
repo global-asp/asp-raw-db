@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=21129&d=0&a=1
+id:	21129
+title:	Bibi, Sungura Na Tembo
+author:	Brigid Simiyu
+artist:	
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21129.png
+desc:	Mtoto anaeleza namna bibi yake alivyowaelezea hadithi kabla wao kwenda kulala.
+
+page_text:
+
+P1	Bibi alianza, “Sungura na Tembo walikuwa marafiki tena majirani.”
+P2	Sungura alipenda uyoga lakini alikuwa mvivu sana. Hakulima.
+P3	Sungura hakupata uyoga. 
+
+Alianza kuiba ndizi za Tembo.
+P4	Tembo aliimba, “Nitamshika mwizi!” 
+
+Sungura aliogopa.
+P5	Kima alimchungia Tembo shamba lake.
+ 
+Lakini, Sungura hakuiba.
+P6	Tembo alienda kutazama.
+ 
+Sungura alijificha ndani ya matawi ya maboga.
+P7	Tembo aliangalia kila mahali. 
+
+Hakumpata mwizi.
+P8	Siku nyingine, Sungura alijificha ndani ya boga kubwa.
+P9	Tembo aliliona hilo boga kubwa akalimeza.
+P10	Boga lilisonga tumboni mwa Tembo.
+P11	Tembo alilitema boga.
+ 
+Sungura alitoka ndani akatoroka.
+P12	Bibi alisema, “Na huo ndio mwisho wa hadithi.”
+
+images:
+
+illustrations/pages/18842.png
+illustrations/pages/18819.png
+illustrations/pages/18831.png
+illustrations/pages/18832.png
+illustrations/pages/18833.png
+illustrations/pages/18834.png
+illustrations/pages/18835.png
+illustrations/pages/18836.png
+illustrations/pages/18837.png
+illustrations/pages/18839.png
+illustrations/pages/18840.png
+illustrations/pages/18841.png
+illustrations/pages/18842.png
+
+translations:
+
+Amharic (Translation)	አያቴ፣ ጥንቸልና ዝሆን	id=21245
+English (Original)	Grandmother's Stories	id=19109
+English (Adaptation)	Grandmother, Hare And Elephant	id=20883
+Kiswahili (Translation)	Hadithi Za Bibi	id=19110
+Lusoga (Translation)	Dhaada Omukazi,wakaima Ne Endovu	id=21334
+Tigrigna (Translation)	እናሓጎይ፣ ማንቲለን ሓርማዝን	id=21106

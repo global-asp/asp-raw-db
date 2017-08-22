@@ -15,12 +15,14 @@ P1	Awa ni apunzisi anga ndipo zina lao ni a Akinyi. Anikonda kwambili.
 P2	Apunzisi awa atipunzisa kuwelenga.    Ningakambe mavawelo monga a,  e,  i,  o,  u.
 P3	Apunzisi a Akinyi atipunzisa utoto monga kufuwila,  kubilibila,  msipu,  cikasu,  na kuda.
 P4	Pantawi yogona,  a punzisi amatiiimbila nyimbo mpaka tagona. Amatiyiimbila kanyimbo kotigonesa.
-P5	Amatiimbila ntano za amuna anacita vintu vavikulu pa siku Lolemba.
-P6	Siku Lacibili,  amatiimbila ntano za azimai anacita vintu vavikulu.
-P7	Pacitautu,  amatiimbila ntano zokamba pali mayendedwe.
-P8	Pacinayi amatiimbila ntano zaulimi.
-P9	Ndipo pacisanu,  amatiuza kuti tiimbe ntano zatu teka.
-P10	Apunzisi atu,  ni apunzisi amene aziwa kupunzisa a azipunzisi onse.    Nikakula nifuna kunkala monga apunzisi a Akinyi.
+P5	Kanyimbo kotigonesa kakuti:    Uu uu weh Uu uu weh Mwana akalila ninjala,  Mwana akalila nitulo,  Mwana akalila ninjala,  Mwana akalila nitulo.
+P6	Apunzisi a Akinyi aziwa ntano zambili.    Amatiimbila ntano zosiyana siyana siku lililonse.
+P7	Amatiimbila ntano za amuna anacita vintu vavikulu pa siku Lolemba.
+P8	Siku Lacibili,  amatiimbila ntano za azimai anacita vintu vavikulu.
+P9	Pacitautu,  amatiimbila ntano zokamba pali mayendedwe.
+P10	Pacinayi amatiimbila ntano zaulimi.
+P11	Ndipo pacisanu,  amatiuza kuti tiimbe ntano zatu teka.
+P12	Apunzisi atu,  ni apunzisi amene aziwa kupunzisa a azipunzisi onse.    Nikakula nifuna kunkala monga apunzisi a Akinyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 Dholuo (Translation)	Japuonj Akinyi	id=9709
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

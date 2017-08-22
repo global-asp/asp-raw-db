@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=21157&d=0&a=1
+id:	21157
+title:	Morwadi Yo O Rategang
+author:	Lorato Trok
+artist:	Brian Wambi
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21157.png
+desc:	Pitsa e e rategang ya ga Natefo e thubegile. O utlwile botlhoko thata mme o tshabela kwa sekgweng.
+
+page_text:
+
+P1	O ke Natefo. O na le bokgaitsadie ba barataro.
+P2	Batsadi ba gagwe ba mo fa pitsa e nnye. O a e rata.
+P3	Ka letsatsi lengwe bokgaitsadie ba thuba pitsa e.
+P4	Natefo ga a bone pitsa ya gagwe. O lela letsatsi lotlhe.
+P5	Natefo o a tshaba. O palama setlhare se se telele.
+P6	Batsadi ba gagwe ba a mo fitlhelela. “Ka kopo, fologela kwa tlase,”.
+P7	Bokgaitsadie ba opela, “Ka kopo fologela kwa tlase.”
+P8	Natefo o kgala pina ya bona.
+P9	Jaanong tsala ya ga Natefo ya fitlha.“Ka kopo fologela kwa tlase,” a opela.
+P10	Tsala ya ga Natefo a opela go fitlhelela a fologa kwa setlhareng.
+P11	Ditsala di tsamaya mmogo go ya gae.
+P12	Botlhe ba keteka gore Natefo o boetse gae. Natefo o fiwa pitsa e ntšhwa.
+
+images:
+
+illustrations/pages/18758.png
+illustrations/pages/18757.png
+illustrations/pages/18758.png
+illustrations/pages/18759.png
+illustrations/pages/18760.png
+illustrations/pages/18761.png
+illustrations/pages/18762.png
+illustrations/pages/18763.png
+illustrations/pages/18764.png
+illustrations/pages/18765.png
+illustrations/pages/18766.png
+illustrations/pages/18767.png
+illustrations/pages/18768.png
+
+translations:
+
+Afaan Oromo (Translation)	Jallatamtu Intaala	id=20419
+Amharic (Translation)	ተወዳጇ ልጅ	id=20446
+Dhopadhola (Translation)	Nyari Jo Mumari	id=20631
+English (Original)	Beloved Daughter	id=18769
+English (Adaptation)	Beloved Daughter	id=19752
+Hausa (Nigeria) (Translation)	'yar Da Ake Kauna	id=20799
+Hausa (Nigeria) (Translation)	'yar Da Ake Kauna	id=20894
+isiZulu (Translation)	Wohe, Ngebhodwe Lami!	id=20717
+Kiswahili (Translation)	Binti Mpendwa	id=20431
+Kumam (Translation)	Atin Nyako Ame Komaro 	id=20606
+Luganda (Translation)	Omwana Omwagalwa	id=18770
+Luganda (Translation)	Omuwala Ayagalwa Ennyo.	id=19598
+Lumasaaba (Translation)	Umukaana Uganiwa Nabi	id=20928
+Lusoga (Translation)	Omughala Omwende	id=21340
+Ng’aturkana (Translation)	Ikoku Na Aminae Lokojokon	id=20390
+Rufumbira (Translation)	Umukobwa Ukunzwe	id=20930

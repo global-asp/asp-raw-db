@@ -11,18 +11,18 @@ desc:	Bbaabba anyiya obusera obwe hyomumugamba.
 
 page_text:
 
-P1	Zama getegeha ohutina hu somero.
-P2	Bbaabba anyiya obusera obwe hyo'mumugamba.
-P3	''Maama aŋosa obusera bulaŋi, '' pogaloma Zama.
+P1	Zama getegeha ohutiina hu somero.
+P2	Bbabba anyiya obusera obwe hyomu mugamba.
+P3	Zama pogaloma ati, ''Maama aŋosa obusera bulaŋi''.
 P4	Obusera buŋa Zama amaani aga tiina hu somero.
-P5	Obusera bunyiye.
-P6	Bbaabba ajuha amabeere mu muhago.
-P7	Bbaabba ndowosa nti obusera wuno bwenda suukali obundi.
-P8	Obusera wa maama buŋooma nyo ohusingaho owa bbaabba.
+P5	Obusera bunyiiye.
+P6	Bbabba ajuha amabeere mu mu hihopo.
+P7	Bbaabba peega ti obusera buno bwendamo sukaali obundi.
+P8	Obusera bwa maama buŋooma ohuhiraho obwa bbabba.
 P9	"Bbaabba peeho sukaali owundi?" Zama gasunga.
-P10	Bbaabba aŋa Zama sukaali mungi.
+P10	Bbabba gaŋa, "Wo-o-o bbabba otaaye cumbi mu busera bwange!"
 P11	''Wu bbaabba otaye cumbi mu busera wange!''.
-P12	"Bbaabba,  maama ana habe ŋaali engo?" Zama awuusa.
+P12	Zama gabusa semwaana ati, "Maama anahagole ŋaali?"
 
 images:
 
@@ -59,6 +59,8 @@ isiZulu (Adaptation)	Umama Upheka Kamnandi	id=17305
 Kalenjin (Translation)	Musar	id=15395
 Kimîîru (Translation)	Uchuru	id=15412
 Kiswahili (Translation)	Uji	id=15614
+Lusoga (Translation)	Buugi	id=21198
+Mampruli (Translation)	Koko	id=21224
 Oluwanga (Translation)	Obusera	id=19793
 Portuguese (Translation)	Papa	id=18854
 Sepedi (Translation)	Motepa	id=18028

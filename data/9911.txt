@@ -11,16 +11,16 @@ desc:	Hi ni hadithi ya kuvutia kumhusu Wangari Maathai. Inaeleza jinsi maisha ya
 
 page_text:
 
-P1	Msichana mdogo alifanya kazi shambani na mamake. Waliishi karibu na Mlima Kenya,  Afrika Masariki. Msichana huyo aliitwa Wangari.
+P1	Msichana mdogo alifanya kazi shambani na mamake. Waliishi karibu na Mlima Kenya, Afrika Masariki. Msichana huyo aliitwa Wangari.
 P2	Wangari alilima katika bustani ya familia yake. Alipanda mbegu ndogo katika ardhi yenye joto.
-P3	Alipenda majira ya jioni,  wakati jua lilipotua. Giza lilipozidi,  Wangari  alienda nyumbani.
+P3	Alipenda majira ya jioni, wakati jua lilipotua. Giza lilipozidi, Wangari  alienda nyumbani.
 P4	Wangari alikuwa mwerevu. Alikuwa na hamu ya kwenda shule. Lakini,  wazazi wake walitaka awasaidie nyumbani. Alipofikisha umri wa miaka saba,  alianza kwenda shule.
 P5	Wangari alipenda kusoma. Alijifunza kupitia kila kitabu alichosoma. Alifanya vyema shuleni. Alialikwa kwenda Amerika kuendeleza masoma yake. Wangari alichangamshwa sana na nafasi hii. Alipenda kuujua ulimwengu zaidi.
-P6	Alipokuwa chuoni huko Amerika,  Wangari alijifunza mambo mapya. Alisomea mimea na jinsi inavyokua. Alikumbuka vile alicheza na ndugu zake. Alikumbuka kivuli cha miti maridadi ya misitu ya Kenya.
-P7	Alipojifunza,  alifahamu kuwa aliwapenda watu wa Kenya. Alitaka wafurahi na wawe huru. Alikumbuka kwao nyumbani Afrika.
+P6	Alipokuwa chuoni huko Amerika, Wangari alijifunza mambo mapya. Alisomea mimea na jinsi inavyokua. Alikumbuka vile alicheza na ndugu zake. Alikumbuka kivuli cha miti maridadi ya misitu ya Kenya.
+P7	Alipojifunza, alifahamu kuwa aliwapenda watu wa Kenya. Alitaka wafurahi na wawe huru. Alikumbuka kwao nyumbani Afrika.
 P8	Wangari alikamilisha masomo yake akarudi Kenya. Nchi yake ilikuwa imebadilika sana. Matajiri walikuwa wameikata miti. Wanawake walikosa kuni. Watu wengi walikuwa maskini. Watoto walikuwa na njaa.
 P9	Wangari aliwafunza wanawake kupanda miti. Waliiuza miti hiyo na kupata pesa. Walizitumia kwa mahitaji ya familia zao. Walifurahi kwa sababu Wangari aliwasaidia kuwa na nguvu na uwezo.
-P10	Muda ulipopita,  miti mipya ilikuwa misitu. Mito ilianza tena kupitisha maji. Ujumbe wa Wangari ulienea Afrika nzima. Leo,  mamilioni ya miti imemea kutokana na juhudi za Wangari.
+P10	Muda ulipopita,  miti mipya ilikuwa misitu. Mito ilianza tena kupitisha maji. Ujumbe wa Wangari ulienea Afrika nzima. Leo, mamilioni ya miti imemea kutokana na juhudi za Wangari.
 P11	Wangari alikuwa amefanya bidii. Watu ulimwengu mzima walifahamu hili. Walimpa Tuzo la Amani la Nobel. Wangari alikuwa mwanamke wa kwanza wa Kiafrika kupokea tuzo hilo.
 P12	Wangari aliaga dunia mwaka 2011. Tunaweza kumfikiria kila tunapouona mti wa kupendeza.
 
@@ -43,10 +43,14 @@ illustrations/pages/9815.png
 translations:
 
 Afrikaans (Translation)	'n Klein Saadjie: Die Verhaal Van Wangari Maathai	id=11337
-English (Original)	A Tiny Seed: The Story of Wangari Maathai	id=9809
+English (Original)	A Tiny Seed: The Story Of Wangari Maathai	id=9809
 French (Translation)	Une Petite Graine: L’Histoire De Wangari Maathai	id=10136
-isiXhosa (Translation)	Imbewu Encinci: Ibali Lika Wangari Maathai	id=11582
+Hausa (Nigeria) (Translation)	Mitsitsin Iri: Labarin Wangari Maathai	id=20859
+isiXhosa (Translation)	Ukhozo Lwembewu Oluncinane	id=11582
+isiZulu (Translation)	Imbewu Encane	id=21375
 Kiswahili (Adaptation)	Wangari Maathai	id=18329
 Kiswahili (Adaptation)	Wangari Maathai	id=19354
 Lámnsoʼ (Translation)	Shiŋgoòy: Kimfèr Ke Wangari Mathay	id=14721
+Sepedi (Translation)	Peu Ye Nnyanennyane	id=21377
+Sesotho (South Africa) (Translation)	Peo E Nyane	id=21376
 Yoruba (Adaptation)	Èso Kékeré Kan: Ìtàn Tí Wangari Maathai	id=11890

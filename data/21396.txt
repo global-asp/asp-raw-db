@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=21396&d=0&a=1
+id:	21396
+title:	Fana Loves Animals
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Jesse Breytenbach
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21396.png
+desc:	Fana spends time with the animals
+
+page_text:
+
+P1	Fana and her family live in a busy town.
+P2	Fana has a cat, two hens, a goat and a dove.
+P3	One day, Fana saw other children throwing stones at doves.
+P4	Fana ran towards the children. 
+
+She shouted, “Stop throwing stones.”
+P5	Fana took the two doves home to look after them.
+P6	She fed them and told her family how she saved them.
+P7	Fana and her parents took the doves to the clinic.
+P8	Fana tells her friends, “Animals are our friends. We protect them.”
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana And Her Animals	id=21004
+English (Adaptation)	Fana And Her Animals (Colour-In)	id=21005
+Kiswahili (Translation)	Fana Na Wanyama Wake 	id=21006

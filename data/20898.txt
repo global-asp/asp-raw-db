@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=20898&d=0&a=1
+id:	20898
+title:	Leini Me Yuganda
+author:	Agnes Kabonesa
+artist:	Rob Owen
+lang:	Kumam
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20898.png
+desc:	Kop ikom leini me Yuganda
+
+page_text:
+
+P1	Magi Ikorin. Ki tie kede ngut gi ka boco. Ki camo boke me yen ka boco. Ekori tie kede kala me erangi nyo?
+P2	Man obedo Lyec. A cuo mege tie kede tungi katar. Gi tie kede  yit gi ka lac. Lyecin tie kede um gi kaboco. Gi tiyo kede um gi pi kwanyo boke kedev nyige me yen ki iwi yen ka boco di ki camo. Lyecin camo lum kede boke. Erangi me lyec cal benyo?
+P3	Man obedo Nyang. Ebedo i esamai kede i inam. Etiye kede yibe kabor. Etiye kede doge ka lac kede lak katot abit. En ecamo Aporogo kede leini. Erangi me Nyang cal benyo?
+P4	Man obedo Engu. Etiye kede lake kaboco di bit. Engu icuo mere tiye kede yer i ngute katot. Yer bebo tuai kikom leini?.
+P5	Man obedo Owalu. Etiye kede anyut me Yuganda. Etiye kede tyene ka bocho kede ocoro i wie. Eriangin me Owalu obedo kala nyo?
+P6	Magi obedo Jobi me pii. Gin ki camo lume kede ki bedo ka iyapi kede esamai kede name. Nyo kame jobi me pii tiye kede adongo iwiye?
+P7	Magi leyini ame olwongo be itukon. Kitiye kede kom kocuculun kaka col kede ka katar. Lee mene ace ame ingeo acal kede etuko?
+P8	Kan tie kodi leini are kapapat. Eputir adako kede idwe mege. Iputiro me lum da tiye kede tungi. Iputiro me lum adi atiye ical ni? Leini ace en Amor me lum. Gin ki camo lume. Erangi me Amor me lum tiye nyo?
+P9	Kodere me leini adi mi neno? Ki bedo tuai? Mene en kame koto in icamo?
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9647.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9631.png
+illustrations/pages/9644.png
+illustrations/pages/9650.png
+illustrations/pages/9646.png
+illustrations/pages/9645.png
+
+translations:
+
+English (Original)	Animals of Uganda	id=9988
+Lusoga (Translation)	Ensolo Dha Uganda	id=20391

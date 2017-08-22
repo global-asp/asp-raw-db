@@ -15,12 +15,14 @@ P1	Uyῦ nῖ mwarῖmῦ wakwa. Etagῦo Mwarῖmῦ Njeri. Ni anyedete mῦno.
 P2	Mwarῖmῦ Njeri athomithagia ndemwa na a,  e,  i,  o,  u.
 P3	Mwarῖmῦ Njeri nῖ athothomi atῦthῦmithetie marangi mῦtῦne,  bruu,  grini na mῦirῦ.
 P4	Tῦgῖkoma Mwarῖmῦ Njeri nῖ atῦinagira karuῖmbo kega.
-P5	Jumatatu nῖ atῦganagῖra tῦrῦgano twa andῦ njorῦa.
-P6	Kerῖ,  Mwarῖmῦ Njeri atῦganagῖra ng'ano cῖa atῦmia njorῦa.
-P7	Gatatῦ,  atῦganagῖra ng'ano cia ng'endo.
-P8	Kanna atῦganagῖra ng'ano cia urῖmi.
-P9	Jῦma,  Mwarῖmῦ Njeri atuῖraga tugane ng'ano ciitu.
-P10	Mwarῖmῦ witῦ nῖῖ mwega mῦno. Ndaneneha,  gwenda gutwika ta Mwarῖmῦ Njeri.
+P5	Karῦῖmbo gaka nῖkῦ Mwarῖmῦ Njeri atuinagῖra:   Kŏŏma mwana Kŏŏma mwana Mami ni egῦka Kŏŏma,  akῦrekere Iria kŏŏma.
+P6	Mwarῖmῦ Njeri atῦganagῖra tῦrῦgano tῦῖngῖ.
+P7	Jumatatu nῖ atῦganagῖra tῦrῦgano twa andῦ njorῦa.
+P8	Kerῖ,  Mwarῖmῦ Njeri atῦganagῖra ng'ano cῖa atῦmia njorῦa.
+P9	Gatatῦ,  atῦganagῖra ng'ano cia ng'endo.
+P10	Kanna atῦganagῖra ng'ano cia urῖmi.
+P11	Jῦma,  Mwarῖmῦ Njeri atuῖraga tugane ng'ano ciitu.
+P12	Mwarῖmῦ witῦ nῖῖ mwega mῦno. Ndaneneha,  gwenda gutwika ta Mwarῖmῦ Njeri.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

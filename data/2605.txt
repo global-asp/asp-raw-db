@@ -22,9 +22,10 @@ P8	Slowly,  things began to change. The children talked less,  and grunted more.
 P9	Every time they looked at one another they saw that their teeth were longer. They started to walk on four legs.
 P10	They became a new creature that no-one had seen before in that place. This was the creature which people now call the baboon.
 P11	For a time,  the baboons lived happily. They stopped chasing the rock rabbits and ate grubs from the ground.
-P12	They still remembered that they had been people. They looked at each other's big noses and laughed at each other.
-P13	But they did not like the laughing. They jumped up and down in anger. Soon the baboons could not be together because of the laughing and the anger. Each family went off and lived by itself.
-P14	That is why baboons live in small groups today and do not live as a baboon nation.
+P12	They forgot how to talk. They took off their clothes because their legs and arms were covered with dark hair.
+P13	They still remembered that they had been people. They looked at each other's big noses and laughed at each other.
+P14	But they did not like the laughing. They jumped up and down in anger. Soon the baboons could not be together because of the laughing and the anger. Each family went off and lived by itself.
+P15	That is why baboons live in small groups today and do not live as a baboon nation.
 
 images:
 
@@ -47,7 +48,7 @@ illustrations/pages/1173.png
 translations:
 
 English (Adaptation)	The Baboons That Went This Way and That	id=2609
-English (Adaptation)	Baboons	id=19986
+English (Adaptation)	They Became Baboons	id=19986
 isiZulu (Translation)	Izimfene Ezaziya Le Na Le	id=2853
 Kiswahili (Translation)	Nyani Walioenda Huku Na Huko	id=2987
 Lumasaaba (Translation)	Tsingukye Tsitsakyeendaana Eyi Ni Neeyi	id=2990

@@ -1,0 +1,69 @@
+url:	http://africanstorybook.org/reader.php?id=20109&d=0&a=1
+id:	20109
+title:	Tikyɛa Talata
+author:	R.Y. Tongo and J. Salifu  (OLE Ghana)
+artist:	Vusi Malindi
+lang:	Mampruli
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20109.png
+desc:	Soalin gyinŋa kan btɔa tɔasira n wulsirila tikyâa sunŋu ni ŋɔn wulsiriti seem.
+
+page_text:
+
+P1	Nkarimma nŋɔ. U yuuri Tikyɛa Talata. U boori ti paam.
+P2	Tikyɛa Talata wulisila bachi koaba. Uwulsiri ti la bachi koaba vuuri. N nintoi mbolli: a, e, i, o, u.
+P3	Tikyɛa Talata wulisi ti la buna koom. Mmi bunzie, bunpeili, bundoazum ni bunsabli.
+P4	Ti gbihibu saha yi ti paai,  U yi yuumini ni ti gbisi. Lala yuuma ma nyala goom yumma.
+P5	Goom yuuni ma nyala nŋɔ: Salima goom timti i nini, laamusa musa gurii i ti nia. Gbihima nsuhuyura, dikum Ka nyuum goom yuunsuma nti.
+P6	Tikyɛa Talata mi soalima paam. U tiritila soalim kokɔapa bɛo kam bakwai puuni.
+P7	Atanidari u yi soalimla soalima zankyanŋi doa wa'ara.
+P8	Atalatadari u yi soalimla soalima zan poa wa'ara.
+P9	Alaribdari ka u titi looredim soalima.
+P10	Alaamisi ka u titi pukpasigu soalima.
+P11	Ka Arizuma, ka Tikyɛa Talata chaka ti soalim ti toori nti karimzongu ma.
+P12	Ti karimba maa n-nya karimbaŋ sunŋu duniyawa ni. N-yi zoai, n boorila n-nya Kaman Tikyɛa Talata.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Bakafundisha Ba Akinyi	id=18586
+isiNdebele (Translation)	Utitjhere Nkosi	id=13043
+isiXhosa (Translation)	Utitshalakazi Uakinyi	id=14116
+isiZulu (Translation)	Uthisha Uzanele	id=13537
+isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
+Kimîîru (Original)	Mwarimu Makena	id=9688
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
+Tshivenda (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=20646&d=0&a=1
+id:	20646
+title:	Esimu Y'mama
+author:	Jerome Atugonza
+artist:	Ingrid Schechter, Sandy Lightly and Venolin Keanan Govender
+lang:	Runyoro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20646.png
+desc:	Embozo enu eriha omyisiki omuto ne esimu ya nyina we.
+
+page_text:
+
+P1	Inkaimuka kara muno kwetekaniza genda haisomero
+P2	Mama akaba bihirwe muno hakuba nti nkaba ni gwayara mpolra.
+P3	Na lya ekyenyekara mangu.
+P4	Nasanga abanyanyi bange haisomero
+P5	Na kingura esaho wange. Eh...na sangamu esimu ya nyina wange! Na gigaruramu omusaho.
+P6	Zahika esa zokugaruka omuka. Naleba omu shaho yange.Eh... Esimu ya mama ekaba etalimu omusaho yange.
+P7	Natandika okucyura. Omusomesa yankanguza "Kizibuki, Wanjiku?" Intasobore kumugarukamu. Ne sweyeka emaiso gange ne ngaro zange.
+P8	Hakumalira, namugamba, Esimu ya mama ebuzileho Omusomesa ye' hunyiramuno. Twatandika kusera esimu  hamu
+P9	Natandika kuzina omu calassi. "Webere muno!"
+P10	Nateka esimu ya mama omusaho yange.Namalira nti tindi garukamu kugizanisa esimu ya mama.
+
+images:
+
+illustrations/pages/14458.png
+illustrations/pages/10614.png
+illustrations/pages/2289.png
+illustrations/pages/13743.png
+illustrations/pages/13845.png
+illustrations/pages/13850.png
+illustrations/pages/13840.png
+illustrations/pages/13842.png
+illustrations/pages/14458.png
+illustrations/pages/14059.png
+illustrations/pages/14458.png
+
+translations:
+
+English (Original)	Mother's Phone 	id=15204
+Kinyarwanda (Translation)	Telefoni Ya Mama	id=21046

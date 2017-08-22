@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=20664&d=0&a=1
+id:	20664
+title:	Nga Ma Olayo I Ot?
+author:	Maurice Lamony
+artist:	Rob Owen, Felicity Bell, Jesse Breytenbach and Melany Pietersen
+lang:	Acholi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20664.png
+desc:	Nyako moo ono layo jwii ento leyo iwi lamine Anna. Ci nino moo
+
+page_text:
+
+P1	Dye woo mukene dak oromo, piny col adada.
+P2	inge cam, wa ceto ka butu wan ki lamera Anna.
+P3	Abutu ma alwoo pyen an alayo jwii.
+P4	Jwii ka abedo ka lek, kuma tugi poo ci a aa malo no dong a layo ko.
+P5	Aruune aloko kabutu na oo ki pa Anna ma no lyet dak pe odyak ni.
+P6	ka piny oruu, an aye akwongo coo. Aweko Anna iwi kabutu.
+P7	Ka mama openyo ni anga ma odyako kabutu, adange ni Anna.
+P8	Ci orwoo ne mama oribu kabutu gin ki Anna.
+P9	Ki gum marac, gini dak onwoo ne ento ngat moo ma aromo no lako ne iwiye dong peke.
+P10	Mama otugi nyang cut ni Anna kara pe layo i ot, an aye alayo i ot.
+
+images:
+
+illustrations/pages/9392.png
+illustrations/pages/8559.png
+illustrations/pages/9844.png
+illustrations/pages/9499.png
+illustrations/pages/9500.png
+illustrations/pages/9145.png
+illustrations/pages/9502.png
+illustrations/pages/9496.png
+illustrations/pages/9486.png
+illustrations/pages/9392.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Original)	Who Wet the Bed?	id=10359
+Luganda (Translation)	Ani Afuka Kubuliri?	id=21077

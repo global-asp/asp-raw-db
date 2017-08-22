@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=20346&d=0&a=1
+id:	20346
+title:	Isurusi Nende Isishiri
+author:	Simon Ipoo
+artist:	
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20346.png
+desc:	Ne muruko shina okukhola mirimo okhushira okundi?
+
+page_text:
+
+P1	Omuruchi  yali ne Isurusi ingofu  khandi indofu.
+P2	Isurusi omwitsa we Isishiri yali yachonya muno.
+P3	Isishiri yeberera khulwa obusiro bwe ichinganga.
+P4	Isurusi yakona hasi khulwa amachonye amanji muno.
+P5	Isishiri yauka lwayakhola emirimo okhuyomba Isurusi.
+P6	Isishiri yachonya nobubeyi bwe Isurusi buli obushiere.
+P7	"Bulilwosi, enjonyere! Lelo kona  wikhole mulware."
+P8	"Nelime ndie oukhonyanga alwala?" Omulima yareba.
+P9	Isishiri yaboywa lichoki okhulima neinalwa obululu.
+P10	Isishiri yachonya ne Isurusi neiulukha hamsala.
+P11	"Washanje, nola lima ta mutsuli bakhusinza."
+P12	Isurusi neibola, "Eonere mutsuli esamula khu mirimo."
+
+images:
+
+illustrations/pages/15496.png
+illustrations/pages/15491.png
+illustrations/pages/15492.png
+illustrations/pages/15493.png
+illustrations/pages/15494.png
+illustrations/pages/15495.png
+illustrations/pages/15496.png
+illustrations/pages/15497.png
+illustrations/pages/15498.png
+illustrations/pages/15499.png
+illustrations/pages/15500.png
+illustrations/pages/15501.png
+illustrations/pages/15502.png
+
+translations:
+
+Amharic (Original)	በሬ እና አህያ	id=15505
+English (Adaptation)	Ox and Donkey	id=18333
+Kiswahili (Translation)	Fahali Na Punda	id=15612
+Portuguese (Translation)	O Boi E O Burro	id=18844

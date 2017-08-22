@@ -1,8 +1,8 @@
 url:	http://africanstorybook.org/reader.php?id=15116&d=0&a=1
 id:	15116
-title:	Nangila’S Courage
+title:	Nangila's Courage
 author:	Violet Otieno
-artist:	Vusi Malindi
+artist:	
 lang:	English
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
@@ -55,5 +55,5 @@ Sesotho (South Africa) (Translation)	Mamello Ya Bonolo	id=20040
 Setswana (Translation)	Bopelokgale Jwa Ga Nangila	id=16754
 Setswana (Translation)	Bopelokgale Jwa Ga Bonolo	id=17656
 SiLozi (Translation)	Bundume Bwa Nangila	id=18744
-Tshivenda (Translation)	Vhuhali Ya Nangila.	id=18288
+Tshivenda (Translation)	Vhuhali Ya Nangila	id=18288
 Xitsonga (Translation)	Vurhena Bya Nangila	id=18992

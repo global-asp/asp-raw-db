@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=20256&d=0&a=1
+id:	20256
+title:	Inka Ni Incuti Yange
+author:	Daniel Tuyisenge
+artist:	Felicity Bell and Marleen Visser
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20256.png
+desc:	Iki gitabo kiravuga ku kamaro kinka ku muntu.
+
+page_text:
+
+P1	Wa mbyeyi we, ndagukunda.
+P2	Ejo wampaye amata.
+P3	Papa agura inyama buri wa gatandatu.
+P4	Mama afite igikapu cyiza nange mfite inkweto nziza.
+
+images:
+
+illustrations/pages/6379.png
+illustrations/pages/6373.png
+illustrations/pages/6376.png
+illustrations/pages/6105.png
+
+translations:
+
+Afrikaans (Translation)	'n Koei is my Vriend	id=7698
+Ateso (Translation)	Apaperoka Nges Akiteng	id=20625
+Dhopadhola (Translation)	Dhaing Obedo Mere Paran	id=20948
+English (Original)	A Cow is my Friend	id=6383
+Hausa (Nigeria) (Translation)	Saniya Kawata Ce	id=20801
+Kumam (Translation)	Dyang Obedo Nya Wota	id=20949
+Lumasaaba (Translation)	Ikafu Umsale Woese	id=20951
+Lusoga (Translation)	Ente Mukwano Gwange	id=21392
+Mampruli (Translation)	Nzɔa Nyɛ Naafu	id=20112
+Runyankore (Translation)	Ente Ninywani Yangye	id=20652
+Talen (Translation)	Nauh Aa Man Zɔ	id=20199
+Xitsonga (Translation)	Homu I Munghana Wa  Mina	id=21475

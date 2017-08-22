@@ -11,7 +11,16 @@ desc:	Eu pinto com os meus lápis de color.
 
 page_text:
 
-P1	.
+P1	Eu pinto com os meus lápis de cor.
+P2	Eu pinto o tomate com o lápis de cor vermelha.
+P3	Eu pinto a laranja com o lápis de cor laranja.
+P4	Eu pinto o sol com o lápis de cor amarela.
+P5	Eu pinto a rã com o lápis de cor verde.
+P6	Eu pinto o céu com o meu lápis de cor azul.
+P7	Eu pinto as flores com o lápis de cor-de-rosa.
+P8	Eu pinto um gato com o lápis de cor preta.
+P9	Eu pinto a bandeira de Moçambique com muitas cores.
+P10	.
 
 images:
 

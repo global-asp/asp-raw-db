@@ -1,24 +1,24 @@
 url:	http://africanstorybook.org/reader.php?id=15204&d=0&a=1
 id:	15204
-title:	Mother's Phone Gets Lost
+title:	Mother's Phone 
 author:	Janet Mburu
-artist:	Sandy Lightly, Vusi Malindi, Silva Afonso, Silva Afonso and Vusi Malindi, Paleng Children’s Centre and Melany Pietersen
+artist:	Venolin Keanan Govender, Sandy Lightly, Monge Tlaka and Ingrid Schechter
 lang:	English
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/15204.png
-desc:	This is a  story about a young girl and her mothers phone.
+desc:	This is a story about a young girl and her mothers phone.
 
 page_text:
 
-P1	I woke up very early to go to get ready for school.
-P2	   Mother was annoyed. I was too slow dressing up.
-P3	I ate my breakfast.
+P1	I woke up very early to get ready for school.
+P2	Mother was annoyed. I was too slow dressing up.
+P3	I ate my breakfast quickly.
 P4	I met my friends in school.
-P5	In class,  I opened my school bag. Oops! Mother's phone!' I still had mother's phone. I returned it in my school bag.
+P5	I opened my school bag. Oops! I still had mother's phone! I returned it in the bag.
 P6	It was time to go home. I looked into my school bag. Oops! Mother's phone was not in my school bag.
-P7	I started crying. The teacher asked,  "What is the problem,  Wanjiku?" I could not talk. I covered my face with my hand.
-P8	Finally,  I said,  "Mother's phone is lost." Teacher was surprised. We started looking for the phone.
+P7	I started crying. The teacher asked, "What is the problem, Wanjiku?" I could not talk. I covered my face with my hand.
+P8	Finally, I said, "Mother's phone is lost." Teacher was surprised. We started looking for the phone.
 P9	I danced around in class. "Thank you teacher. Thank you teacher!"
 P10	I put mother's phone in my school bag. I said to myself,  "I will not play with mother's phone again."
 
@@ -38,3 +38,5 @@ illustrations/pages/14458.png
 
 translations:
 
+Kinyarwanda (Translation)	Telefoni Ya Mama	id=21046
+Runyoro (Translation)	Esimu Y'mama	id=20646

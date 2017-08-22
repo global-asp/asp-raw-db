@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=20857&d=0&a=1
+id:	20857
+title:	Umuyaga
+author:	Niyifasha Epimaque
+artist:	Marion Drew
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20857.png
+desc:	Inkuru ivuga uburyo umuyaga ugira imbaraga.
+
+page_text:
+
+P1	Umuyaga urahuha. Uhuhira inyuma y'urugo rwacu.
+P2	Umuyaga ugira imbaraga. Unshwanyaguriza igikinisho mu biganza.
+P3	Nirukanka ku gikinisho cyange. Umuyaga umpuha unjyana kure y'igikinisho.
+P4	Umuyaga uhinduka agashuruza. Ujyana igikinisho cyange hejuru cyane.
+P5	Agashuruza karamira! Sinagira icyo mbasha kubona cyangwa gufata.
+P6	Igikinisho cyange ubu kirihe? Ubanza cyafashwe mu giti.
+P7	Ubanza igikinisho cyange kikiguruka mu kirere.
+P8	Amaherezo umuyaga uragabanyuka. Ariko ndacyazenguruka.
+P9	Ndangije kuzenguruka ndeba iruhande. Wa muyaga wagiye he?
+P10	Nta hantu na hamwe nabasha kubona igikinisho cyange. Sinanabasha kumva umuyaga.
+P11	Ubanza ejo nzabona igikinisho cyange.
+P12	Ubu, najya mu rugo, mbere y'uko umuyaga wongera guhuha.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+illustrations/pages/14101.png
+
+translations:
+
+Acholi (Translation)	Yamo	id=21322
+English (Translation)	Wind	id=14119
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Sesotho (S.Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

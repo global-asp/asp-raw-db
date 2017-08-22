@@ -16,12 +16,14 @@ P2	Roosa kaŋ ga ti a ɲakafosina na a ta nda kambe hinka. Roosa ga Kayanga cabe
 P3	Kayanga ga hatta ga koy nga hayrayey saarey boŋ,  ga hẽ.
 P4	Han fo a du gomni fo saarayey boŋ. Zollo fo kaŋ ga maamancandi no bangay a se hayrayey saarey boŋ.
 P5	Dooni kaano fo no zolla ga te kaŋ ga bine yeenandi. Kayanga faham kaŋ nga ɲa jinda no. Sanney kaŋ a ga ci ne-ya:.
-P6	Nangu kaŋ Kayanga go kulu a zollo maamancanta go a bande. Zolla kaŋ hayrayey na no ga a hallasi.
-P7	Han fo,  saaru fo du zolla. Hari ceeciyaŋ boŋ no zolla kaŋ ga bagu. Kayanga bina mo sara gumo.
-P8	Zollo camsey go Kayanga se kamba ra,  a go ga doonu ga ne:.
-P9	Kayanga ma ɲaŋo jinda kaŋ ne a se: "Ay izo,  camsey kumna. I sambu ga koy ga hari ka,  ga ni cey ɲum. Da ni ban,  ni ma moy daabu" Kayanga te hari kaŋ i ne,  sahã din zolla kaŋ bagu ye ga taji.
-P10	Kayanga go nda nga zolla nangu kulu kaŋ a ga koy. Nangu kulu kaŋ a gana,  no borey ga ciinay ga ne care se: "Ifo zollo no a se wo?" A zollo maamacanta fondo ra,  a muraadey kulu no ga feeri.
-P11	A zollo fondo ra,  a faham kaŋ nga harey go ga haggoy nda nga. Taali kulu no si hin ga duw'a.
+P6	Kayanga! Kayanga! Iri bine baaka! Manti ni hinne,  ay izo! Zolla wo gaayi,  ay izo! A ma bara ni se nangu kulu kaŋ ni go! A ga ni mundey tuusu,  ay izo!
+P7	Nangu kaŋ Kayanga go kulu a zollo maamancanta go a bande. Zolla kaŋ hayrayey na no ga a hallasi.
+P8	Han fo,  saaru fo du zolla. Hari ceeciyaŋ boŋ no zolla kaŋ ga bagu. Kayanga bina mo sara gumo.
+P9	Zollo camsey go Kayanga se kamba ra,  a go ga doonu ga ne:.
+P10	Ay ɲa nda ay baaba,  Wa guna ga di zolla bagu. Zolla kaŋ araŋ na ay no bagu. Ifo no ay hima ga te,  ay ɲa nda ay baaba? Wa bakar ay se,  ga cabe ay se kaŋ araŋ mana fun ay sanni ra.
+P11	Kayanga ma ɲaŋo jinda kaŋ ne a se: "Ay izo,  camsey kumna. I sambu ga koy ga hari ka,  ga ni cey ɲum. Da ni ban,  ni ma moy daabu" Kayanga te hari kaŋ i ne,  sahã din zolla kaŋ bagu ye ga taji.
+P12	Kayanga go nda nga zolla nangu kulu kaŋ a ga koy. Nangu kulu kaŋ a gana,  no borey ga ciinay ga ne care se: "Ifo zollo no a se wo?" A zollo maamacanta fondo ra,  a muraadey kulu no ga feeri.
+P13	A zollo fondo ra,  a faham kaŋ nga harey go ga haggoy nda nga. Taali kulu no si hin ga duw'a.
 
 images:
 
@@ -45,7 +47,7 @@ Ekegusii (Translation)	Omogano O’Khayanga Nekerandi Kiaye	id=3115
 English (Original)	Khayanga and Her Gourd	id=2107
 French (Translation)	La Gourde De Khayanga	id=9957
 Fulfulde (Translation)	Kayannga E Jollooru Muuɗum	id=10009
-Hausa (Translation)	Kayanga Da Gyanɗama	id=9992
+Hausa (Niger) (Translation)	Kayanga Da Gyanɗama	id=9992
 Kanuri (Translation)	Fanda-a Budanju-A	id=10035
 Kikamba (Translation)	Ngewa Ya Kayanga Na Kĩkuu Kyake	id=2395
 Kiswahili (Translation)	Khayanga Na Kibuyu Chake	id=7280

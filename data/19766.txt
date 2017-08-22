@@ -2,12 +2,12 @@ url:	http://africanstorybook.org/reader.php?id=19766&d=0&a=1
 id:	19766
 title:	How the Toad Got Its Skin
 author:	Jane Taylor and African Storybook
-artist:	Brian Wambi and Salim Kasamba
+artist:	Rob Owen
 lang:	English
 level:	First words
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19766.png
-desc:	This tale explains why toads have bumpy backs and can live away from water. (Also available at Level 4.)
+desc:	This tale explains why toads have bumpy backs and can live away from water. (Also available at Level 4.).
 
 page_text:
 
@@ -42,6 +42,11 @@ illustrations/pages/13427.png
 
 translations:
 
+Afaan Oromo (Translation)	Gogaa Fattee	id=20424
+Amharic (Translation)	የእንቁራሪት ቆዳ	id=20492
 English (Original)	Mod the Toad	id=13546
 French (Translation)	Mod Le Crapaud	id=14527
+isiZulu (Translation)	Usele,  Iselesele	id=20669
+Kiswahili (Translation)	Namna Chura Alipata Ngozi Yake	id=20439
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
 Portuguese (Translation)	Mod, a Sapa	id=17037

@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=14497&d=0&a=1
 id:	14497
-title:	Byantaka and the Dead Pot
-author:	Cornelius Gulere
+title:	Byantaka And The Dead Pot
+author:	Cornelius Wambi Gulere
 artist:	Emily Berg
 lang:	English
 level:	First paragraphs
@@ -44,4 +44,9 @@ illustrations/pages/14452.png
 
 translations:
 
-Lusoga (Original)	Byantaka N’Ensaka Enfu	id=14482
+English (Adaptation)	The Pot That Died	id=20893
+Kiswahili (Translation)	Chungu Kilichokufa	id=21148
+Lusoga (Original)	Byantaka Ne Ensaka Enfu	id=14482
+Ng’aturkana (Translation)	Agulu Na Atoani	id=21121
+Runyoro (Translation)	Ensoha Eyafire	id=20993
+Tigrigna (Translation)	እታ ዝሞተት ዕትሮ	id=21195

@@ -1,24 +1,24 @@
 url:	http://africanstorybook.org/reader.php?id=9040&d=0&a=1
 id:	9040
-title:	Maama Wange Yalima, my Mother Planted
-author:	Cornelius Gulere
+title:	My Mother Planted
+author:	Cornelius Wambi Gulere
 artist:	Jonathan Field
 lang:	Lusoga English
 level:	First sentences
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/9040.png
-desc:	
+desc:	What did my mother plant?
 
 page_text:
 
-P1	Maama wange yalima. Yalima akalimiro. Akalimiro keyalima kaali ka mpindi. My mother planted. She planted a small garden. She planted a small garden of peas.
-P2	Baaba yalima. Yalima akalimiro. Akalimiro keyalima kaali ka bimuli. My father planted. He planted a small garden. He planted a small garden of flowers.
-P3	Maama wange yadhuba mu bulimiro bwombi. My mother weeded in both gardens.
-P4	Baaba wange yafukirira mu bulimiro bwombi. My father watered in both gardens.
-P5	Abazaire bange ni Nze twakola mu bulimiro obutono. Mwaninhaze ni Nze twayeza ebimuli ne mpande. My parents and I worked in the small gardens. My sister and I harvested the flowers and peas.
-P6	Akalimiro akatono ake mpande kavaamu agasawo ge mpindi. Akalimiro akatono ake bimuli kavaamu agasawo ge bimuli. The small garden of peas yielded sacks of peas. The small garden of flowers yielded sacks of flowers.
-P7	Maama wange yalima. Yalima ogulimiro. Ogulimiro gwe yalima gwaali gwa mpindi. My mother planted. She planted a large garden. The large garden she planted was of peas.
-P8	Baaba yalima. Yalima ogulimiro. Ogulimiro gwe yalima gwaali gwa bimuli. My father planted. He planted a large garden. The large garden he planted was of flowers.
+P1	My mother planted. She planted a little garden. The small garden she planted was of peas. 
+P2	My father planted. He planted a little garden. The little garden he plated was of flowers. 
+P3	My mother dug in both gardens. 
+P4	My father watered in both gardens. 
+P5	My parents and I worked in both small gardens. My sister and I harvested peas and flowers. 
+P6	The little garden of peas yielded large sacks of peas. The little garden of flowers yielded large sacks of flowers. 
+P7	My mother planted. She planted a big garden. The garden she planted was of peas. 
+P8	My father planted. He planted a big garden. The garden he planted was of flowers. 
 
 images:
 
@@ -35,12 +35,12 @@ illustrations/pages/9005.png
 translations:
 
 Afrikaans (Translation)	My Ma Maak Tuin	id=11280
+Afrikaans (Adaptation)	Die Tuin	id=20359
 English (Translation)	My Mother Planted	id=9034
 French (Translation)	Ma Mère a Fait Des Plantations	id=12660
 isiZulu (Translation)	Umama Watshala	id=11520
 isiZulu (Translation)	Umama Wami Utshalile	id=12914
 Kiswahili (Translation)	Mamangu Alipanda	id=12652
-Lunyole (Translation)	Maama Wange Gahoma	id=13505
 Lusoga (Original)	Maama Wange Yalima	id=9031
 Ng’aturkana (Translation)	Itokang Etakini	id=12650
 Oluwanga (Translation)	Mama Wanje Yaraka	id=13015

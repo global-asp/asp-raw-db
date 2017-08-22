@@ -15,12 +15,14 @@ P1	Oyo nomwalimu one. Erieta naye Moraa. Nigo ang'anchete mono.
 P2	Omwalimu Moraa agonsomia chinuguta. Nabonkonyaa goteba a,  e,  i,  o,  u.
 P3	Omwalimu Moraa otosomine chirangi embariri,  buru,  machani,  na emwamu.
 P4	Chinsa chiokorara mobaso Omwalimu Moraa,  agototereria twarara. Agotera ogotera okuya twarara.
-P5	Chumataro nigo agototebia igoro yabasacha bogokumia.
-P6	Tichi kabere,  Omwalimu Moraa otototebia igoro yabakungu bogokumia.
-P7	Tichi gataro ototebia igoro yogosomba.
-P8	Aramisi ototebia igoro y'oboremi.
-P9	Na ichuma,  Omwalimu Moraa ototebia totebe emegano yaito gochia ase abande.
-P10	Omwalimu ato monuya ase ense engima. Gingokina,  ntaete koba buna Omwalimu Moraa.
+P5	Ogotera gwokorara gokoenda iga: Chitoro chingiya Kea amaiso ao Ogoseka ngokoganyete Gokoboka Rara omwanchi omuya Torera,  na ningotererio Ogotera Ogwansu gwokorara.
+P6	Omwalimu Moraa igo amanyete emegano emengo. Nigo agototebia emegano aogo kera ewiki.
+P7	Chumataro nigo agototebia igoro yabasacha bogokumia.
+P8	Tichi kabere,  Omwalimu Moraa otototebia igoro yabakungu bogokumia.
+P9	Tichi gataro ototebia igoro yogosomba.
+P10	Aramisi ototebia igoro y'oboremi.
+P11	Na ichuma,  Omwalimu Moraa ototebia totebe emegano yaito gochia ase abande.
+P12	Omwalimu ato monuya ase ense engima. Gingokina,  ntaete koba buna Omwalimu Moraa.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

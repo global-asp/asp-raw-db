@@ -11,6 +11,22 @@ desc:	Lendaba ifundisa ukubala nemibala.
 
 page_text:
 
+P1	Imibala eyisikhombisa yothingo lwenkosazana.
+P2	Owokuqala ubomvu.
+P3	USenzo ugqoke ihembe eilibovu.
+P4	Owesibili usawolintshi.
+P5	Yini esawolintshi kulesithombe.
+P6	Owesithathu uphuzi.
+P7	Yini ephuzi kulesithombe.
+P8	Owesine uluhlaza njengotshani.
+P9	Yini eluhlaza njengotshani kulesithombe.
+P10	Owesihlanu uluhlaza njengesibhakabhaka.
+P11	Yini eluhlaza njengesibhakabhaka kulesithombe.
+P12	Owesithupha uluhlaza njengesibhakabhaka kakhulu.
+P13	Yini eluhlaza njengesibhakabhaka kakhulu kulesithombe.
+P14	Owesikhombisa unsomu.
+P15	Yini ensomu kulesithombe.
+P16	Yimiphi imibala eyisikhombisa yothingo lwenkosazana.
 
 images:
 
@@ -18,12 +34,21 @@ illustrations/pages/9838.png
 
 translations:
 
-Dhopadhola (Translation)	Lifudu nitye gi cal abiryo	id=19961
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Amharic (Translation)	7 የቀስተደመና ቀለማት 	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+Chinyanja (Translation)	Mautoto Asanu Ndi Awiri Autawaleza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
 English (Translation)	Colours of a Rainbow	id=10463
-English (Adaptation)	7 Colours of a Rainbow	id=19760
+English (Adaptation)	7 Colours Of A Rainbow	id=19760
+Hausa (Nigeria) (Translation)	Launika Bakwai Na Bakan Gizo	id=20798
+isiZulu (Translation)	Imibala Eyisikhombisa Yothingo  Lwenkosazana	id=20679
 Kikamba (Translation)	Utathi	id=15419
 Kiswahili (Original)	Rangi Za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
 Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke Ali Na Langi 7	id=20396
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
 Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
 Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
-siSwati (Translation)	Imibala Yemushi Wenkhosatane	id=13066
+Siswati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

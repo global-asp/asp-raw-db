@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=20091&d=0&a=1
+id:	20091
+title:	Palesa is Lief Vir Plante
+author:	Fanie Viljoen
+artist:	Jesse Pietersen
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20091.png
+desc:	Palesa praat met bome
+
+page_text:
+
+P1	Hier is Palesa. Haar naam beteken "blom" in haar taal, Setswana.
+P2	Soggens praat Palesa met die lemoenboom.
+"Lemoenboom, gee asseblief vir ons baie lemoene."
+P3	Palesa loop skool toe. 
+
+Op pad sê sy vir die gras, "Asseblief gras, word groener. Moenie uitdroog nie.”
+P4	Palesa loop verby veldblomme.
+
+"Blomme, baie dankie vir julle helder kleure."
+P5	By die skool praat Palesa met die klein boompie.
+
+"Boom, kry asseblief groot takke sodat ons in jou skadu kan lees."
+P6	Palesa praat met die heining om die skool.
+ 
+"Groei asseblief mooi sterk en hou die boewe uit."
+P7	Toe Palesa na skool terug by die huis kom, hardloop sy na die lemoenboom.
+ 
+"Is jou lemoene al ryp?" vra Palesa.
+P8	"Die lemoene is nog groen," sug Palesa. "Ek sal jou môre weer sien, lemoenboom," sê sy. "Miskien sal jy dan ’n ryp lemoen vir my hê.
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+IciBemba (Translation)	Maluba Ali Temwa Ifilimbwa	id=20786
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Mampruli (Translation)	Suhuyini Wuri Bunbula 	id=20120
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+SiLozi (Translation)	Palisa Ulata Licalo	id=20776
+Talen (Translation)	Palesa Nɔŋa Tebula	id=20202
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

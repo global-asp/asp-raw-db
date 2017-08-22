@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=21317&d=0&a=1
+id:	21317
+title:	Awobi Ma Lagem
+author:	Maurice Lamony
+artist:	Bronwen Heath, Eden Daniels, Marleen Visser and Wiehan de Jager
+lang:	Acholi
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21317.png
+desc:	Ododo eni rwate ki lutino ma pwud gu cako kwan acaka.
+
+page_text:
+
+P1	Nino moo, awobe adek me Mugulu gu ceto ka dwar. Gu woto ki gwogi gi.
+P2	Ma gu oo i lum, gin gu nongo aweno aryo. Gu ryemo gin weng gu neko'o.
+P3	Ma gitye ka dok gang, ono gi mito poko aweno. Awobi acel ongwejo kede weng.
+P4	Awobe aryo ni gu ryeme gu mayo aweno weng ki bote.
+
+images:
+
+illustrations/pages/5815.png
+illustrations/pages/6377.png
+illustrations/pages/296.png
+illustrations/pages/4466.png
+illustrations/pages/1717.png
+
+translations:
+
+Ateso (Translation)	Esapat Lo Eisinye.	id=7651
+Ateso (Translation)	Esapat Lo Eisinge	id=20967
+English (Original)	A Greedy Boy	id=6388
+Hausa (Nigeria) (Translation)	Yaro Mai Sankai	id=20788
+Kinyarwanda (Translation)	Umuhungu Arya Ibirenze	id=20612
+Luganda (Translation)	Omulenzi Owomululu	id=20969
+Sepedi (Translation)	Mosimane Wa Megabaru	id=7481

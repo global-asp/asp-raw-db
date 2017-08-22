@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=20686&d=0&a=1
+id:	20686
+title:	Injangwe, Imbwa N' Umupira
+author:	Jean Paul Harelimana and Paul
+artist:	Elke and René Leisink
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20686.png
+desc:	Kera habayeho Injangwe n Imbwa bikaba byari incuti cyane bigakunda kwishimisha bikina umupira.
+
+page_text:
+
+P1	Iyi ni Injangwe. Iyi ni Imbwa.
+P2	Injangwe n' Imbwa bibana mu nzu.
+P3	Injangwe n' Imbwa bifite umupira. Umupira ufite ibara ry'umutuku, ubururu n' umuhondo.
+P4	Injangwe n' imbwa bikina umupira. Injangwe ijugunyira Imbwa umupira. Imbwa ifata umupira. Imbwa ijugunyira Injangwe umupira. Injangwe ifata umupira.
+P5	Injangwe ijugunya umupira hejuru cyane! Yooo! Yooo!
+P6	Umupira waguye hejuru y'inzu.
+
+Umupira waguye hejuru y'igisenge cy' inzu.
+P7	Injangwe n' Imbwa byabonye umupira. Injangwe n' Imbwa ntibyashoboye kubona umupira.
+P8	Injangwe n' Imbwa birarira. Nyuma, Inzovu iba iraje.
+P9	Inzovu ni nini cyane.
+Inzovu ishobora kureba umupira.
+Inzovu ishobora gufata umupira. 
+Inzovu yakuye umupira hejuru y' inzu.
+P10	Inzovu yahay umupira Injangwe n' Imbwa.
+Injangwe n' Imbwa biraseka. Inzovu nayo iraseka.
+Injangwe, Imbwa n'Inzovu biraseka.
+P11	Injangwe n' Imbwa n' Inzovu zikina umupira.
+Injangwe ijugunyira imbwa umupira. Imbwa ifata umupira.
+Imbwa ijugunyira Inzovu umupira. Inzovu ifata umupira.
+Inzovu ijugunyira Injangwe umupira. Injangwe ifata umupira.
+P12	Urabeho Njangwe!
+
+Urabeho Mbwa!
+
+Urabeho Nzovu!
+P13	Urukundo hagati y' Injangwe n' Imbwa.
+
+images:
+
+illustrations/pages/18630.png
+illustrations/pages/18631.png
+illustrations/pages/18632.png
+illustrations/pages/18633.png
+illustrations/pages/18634.png
+illustrations/pages/18635.png
+illustrations/pages/18636.png
+illustrations/pages/18637.png
+illustrations/pages/18638.png
+illustrations/pages/18639.png
+illustrations/pages/18640.png
+illustrations/pages/18641.png
+illustrations/pages/18642.png
+illustrations/pages/18782.png
+
+translations:
+
+CiNyanja (Translation)	Cona Galu Ndi Mpira	id=20772
+English (Original)	Cat and Dog and the Ball	id=20148
+SiLozi (Translation)	Kaze Nja Ni Mbola	id=20923

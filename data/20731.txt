@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20731&d=0&a=1
+id:	20731
+title:	Imbwa
+author:	Gaudah Gahima
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Rufumbira
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20731.png
+desc:	Imbozi ifashe kumugabo wali ufite imbwa ye yamwubahirizaga chane.
+
+page_text:
+
+P1	hari hariho umugabo wari ufite imbwa
+P2	yakundaga iyi imbwa chane chane
+P3	iyi imbwa yakoraga chane kandi yajaga nomugatale kugura inyama
+P4	yajaga nokumugezi kuvoma amazi
+P5	yalindaga bulikimwe mulugo
+P6	umusi gumwe uyumugabo yashimye imbwaye mungeri idasanzwe kumbwo kuba imbwa irunvira
+P7	imbwa yalishimye chane nuko ikomeza gukora chane
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

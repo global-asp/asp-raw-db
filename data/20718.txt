@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=20718&d=0&a=1
+id:	20718
+title:	Uxoxo Nonyoka
+author:	Pumla Mdontswa
+artist:	Rob Owen
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20718.png
+desc:	Ngale ndaba
+
+page_text:
+
+P1	UXoxo noNyoka ngabangane.
+P2	Sekuzwakala uXoxo ethi kuNyoka, "Woza uhambe nami siyovakashela umama wami.
+P3	Waphendula uNyoka, "Ngiyabonga, kodwa amakhaya ethu azobhekwa ngubani?"
+P4	UNkawu wathi, "Ngizowabheka mina amakhaya enu."
+P5	UXoxo wafakela umama wakhe izintuthwane ezimhlophe esikhwameni.
+P6	UXoxo noNyoka bahamba ekuseni ngovivi. Bangena ehlathini.
+P7	Bahlangana neqembu lezilwanyana zasendle eziwumndeni wamagundwane. UNyoka ufikelwa ukwesaba.
+P8	UXoxo wavikela umngane wakhe uNyoka kulezi lwanyana.
+P9	Basebelambe kakhulu ngesikhathi befika ekhaya.
+P10	Bageza balungela ukudla.
+P11	"Nyoka mngane wami, hlala kahle, uqonde," kusho uXoxo.
+P12	UNyoka wazama ukuhlala njengoXoxo, wehluleka. Phela akalona ixoxo.
+P13	"Angikwazi ukuhlala njengexoxo," kuchaza uNyoka.
+P14	Kodwa uXoxo akazange afune ukuzwa nokuqonda loko.
+P15	"Awungizwa ukuthi ngithini, ngiphindela ekhaya lami-ke."
+P16	UNyoka, ngokucasuka wathi, "Bengicabanga ukuthi uXoxo ngumngani wami."
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog And Snake	id=19762
+Kinyarwanda (Translation)	Inzoka N' Igikeri	id=20763
+Kiswahili (Translation)	Chura Na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere Ni Wamusota	id=20398
+Lusoga (Translation)	Akalenga N’Omusta	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Setswana (Translation)	Segwagwa Le Noga	id=21160

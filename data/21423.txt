@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=21423&d=0&a=1
+id:	21423
+title:	Pretty Golden Pen
+author:	Ahmed Mardiya and Ibrahim Sharifa
+artist:	Andrews Opoku Antwi and Michelangelo Quaye Anang
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21423.png
+desc:	All that glitters is not gold. (This story was created at a teacher workshop in Accra with OLE Ghana in 2017.).
+
+page_text:
+
+P1	Long ago, in Pen Village, lived many pens.
+P2	There was Golden, Bic, Ballpoint, Gel, Marker, and others.
+P3	Golden was a pretty girl. 
+
+All the other pens in Pen Village wished to be like her.
+P4	Bic was Golden’s best friend. 
+
+“I will be the happiest pen in the whole of Pen Village if I get to be like Golden,” thought Bic.
+P5	But Golden was always sad and worried. She chose a lonely life away from all who loved her.
+P6	Nobody in Pen Village knew why Golden was always sad and worried. They believed she had all the reasons to be happy.
+P7	However, Golden had a big secret only she knew about. 
+
+What was Golden’s secret?
+P8	Although Golden was pretty and adored, she had no ink!
+
+“Of what use is a Golden pen without ink?” cried Golden.
+
+images:
+
+illustrations/pages/25333.png
+illustrations/pages/25336.png
+illustrations/pages/25337.png
+illustrations/pages/25339.png
+illustrations/pages/25340.png
+illustrations/pages/25341.png
+illustrations/pages/25342.png
+illustrations/pages/25343.png
+illustrations/pages/25333.png
+
+translations:
+
+Dagbani/Dagbanli (Original)	Salma Alikalimi	id=21421
+Kiswahili (Translation)	Kalamu Nzuri Ya Dhahabu	id=21445

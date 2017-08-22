@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=20373&d=0&a=1
+id:	20373
+title:	Honest Girl
+author:	John  Ng'asike
+artist:	Jacob Kono
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20373.png
+desc:	This story teaches about the importance of teling the truth.
+
+page_text:
+
+P1	There lived a beautiful girl. One day she was very hungry. She thought of ways of getting something to eat.
+P2	She met a man who asked her, "How are you young girl? What makes you sad?" The girl answered, "I am hungry."
+P3	The man was sorry for the girl. He told her there was a feast in the neighbourhood and she should go and steal food. The girl had never stolen before.
+P4	The girl stood up quickly and went to the home that was holding the feast.
+P5	When she got near, she forgot the instructions on how to steal. She sang repeatedly:
+I have come to steal food, f-o-o-d,
+I am walking slowly, slo-wly
+P6	People heard the song of the girl from far until she got into the homestead.
+P7	People were amazed by the nature of the song and asked her, "Where do you come from? What do you want? Why are you singing?"
+P8	The girl told them how hungry she was and they gave her food.
+
+Later, she was advised that stealing is bad!
+
+images:
+
+illustrations/pages/25044.png
+illustrations/pages/25038.png
+illustrations/pages/25039.png
+illustrations/pages/25040.png
+illustrations/pages/25041.png
+illustrations/pages/25042.png
+illustrations/pages/25043.png
+illustrations/pages/25044.png
+illustrations/pages/25045.png
+
+translations:
+
+Kinyarwanda (Translation)	Umukobwa W' Inyangamugayo	id=20378
+Ng’aturkana (Original)	Apese Nape Ayeni Akoko	id=20371

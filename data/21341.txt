@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=21341&d=0&a=1
+id:	21341
+title:	Kola Ti A’Bugo
+author:	Victor Bugingo
+artist:	Catherine Groenewald, Rijuta Ghate, Sean Whitehead, Wiehan de Jager, Benjamin Mitchley, Melany Pietersen, Magriet Brink, Karlien de Villiers, Marike le Roux, Vusi Malindi and Rob Owen
+lang:	Kakwa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21341.png
+desc:	Ngaji laga imnganii kilo koko’ya a’bugo kilo igbonaga kara gboku mago.
+
+page_text:
+
+P1	Kaju bero, ngaji
+  kude imangani Laga aworito,
+  kara kilo ku, kepo, Muki, Anyole ku Babu
+P2	Kara kenda Lobule puremari sukulu
+P3	Ngaji kilo ‘duu woro
+  I sukulu yuk u mago.
+P4	Mulunga kilo, kara tototo
+  I bange na jujumbuna katani igbonaga kara yinga mago ina.
+P5	Lunga le’de gele,
+  kilo ngaji de a utu I suu ne’de naga
+  laganga lungu adi komendaku
+P6	Akayo naga, kara yenga kara duga
+  meda a’bugo ti le’de ngutu
+  laga a’delaki I nyakale kata. Arumbo ku a’bu’busi
+P7	Ngaji kilo duga jonya
+  adi hahahaha. Indikiningana, ina mago de I wawangi tuwalo.
+P8	Kara giri awoke I ‘yewunda na a’bugo
+  kilo i melo.
+P9	Ibange naga kara
+  kilo meme’yu a’bugo kilo,
+  money a’bugolo duga yeyengunda. Kara duga apoki I kikira. Maratelo duga pija kara adi,
+  ngalo tikinda ta kilo a’bugo de?
+P10	Ngaji kilo duga wowoke
+  I’dana. Idoru katayu, kara adi, kulia, yola
+  ku jonya ti gbo’di ‘bayi inide.
+P11	Monye a’bugo lo duga
+  ‘bido ndululu adi, wululululuuu kola ku’de lo woo kilo
+P12	Ngaji kilo duga momoka,
+  kara ajongaji I sukulu yu. Duga kayungolo,
+  ngaji ti sukulu ku katogolo kilo giri lunge
+P13	Ngaji kilo duga giri
+  atiki ringe, kara gele gele
+  akpinya kelito mere gele gele. Ngaji
+  kilo alulujo ‘beri koru.
+
+images:
+
+illustrations/pages/4445.png
+illustrations/pages/4514.png
+illustrations/pages/9354.png
+illustrations/pages/8860.png
+illustrations/pages/9192.png
+illustrations/pages/9193.png
+illustrations/pages/1613.png
+illustrations/pages/9495.png
+illustrations/pages/1919.png
+illustrations/pages/8552.png
+illustrations/pages/6590.png
+illustrations/pages/8035.png
+illustrations/pages/8858.png
+illustrations/pages/6734.png
+
+translations:
+
+English (Original)	The Mango Thieves	id=7459
+English (Adaptation)	The Banana Thieves	id=9881
+Lunyole (Translation)	Abeebi B'emiyembe	id=10019

@@ -20,10 +20,11 @@ P6	She opened the pots to serve her grandchildren. When she opened the pot with 
 P7	"Who ate the meat?" asked Grandmother,  frowning. But all three grandchildren shook their heads. "Not me," each one said.
 P8	So their grandmother tied a rope across the river. She told each of them to walk on the rope as they sang a song. "The one that ate the meat will fall into the river,  and learn to tell the truth," Grandmother said to the children.
 P9	The first granddaughter walked quickly across the river,  singing the song.
-P10	The other two grandchildren began to argue with each other. The girl said to the boy,  "You go next." The boy replied,  "No,  you go next!"
-P11	The granddaughter who ate the meat was scared and shivering. As she stepped forward to walk on the rope,  she slipped and fell into the river.
-P12	"Help! Help!" shouted the girl. Grandmother said to the other two,  "She is guilty,  but we must help her."
-P13	Together they pulled the frightened girl out of the river. Since that day,  the old woman's grandchildren have always told the truth.
+P10	The song went like this: Nimbe esia ulire inyama. Mukoye khalira engwe mu nyanza. Engwe mu ndaliro engwe munyanza. Mukoye khalira engwe mu nyanza.
+P11	The other two grandchildren began to argue with each other. The girl said to the boy,  "You go next." The boy replied,  "No,  you go next!"
+P12	The granddaughter who ate the meat was scared and shivering. As she stepped forward to walk on the rope,  she slipped and fell into the river.
+P13	"Help! Help!" shouted the girl. Grandmother said to the other two,  "She is guilty,  but we must help her."
+P14	Together they pulled the frightened girl out of the river. Since that day,  the old woman's grandchildren have always told the truth.
 
 images:
 
@@ -45,4 +46,5 @@ illustrations/pages/13381.png
 translations:
 
 English (Adaptation)	Guilty Conscience (Song In English)	id=16573
+Kumam (Translation)	Lewic	id=20604
 Lunyole (Adaptation)	Ohuswaluuha	id=16575

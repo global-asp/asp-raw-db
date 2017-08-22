@@ -15,12 +15,14 @@ P1	Ma en japuoujna to nyinge Akinyi. Ohera sidang'.
 P2	Japuonj Akinyi puonjaga nukta kod fuoni mag wach. Anyalo wacho a,  e,  i,  o,  u.
 P3	Japuonj Akinyi osepuoujawa range kaka makwar,  mbulu,  alum,  ratong',  kod rateng'.
 P4	Seche mag ywenyo,  Japuonj Akinyi wernwa moudo wanindi. Adier ower wend nindo mamit.
-P5	Chieng' wuok tich,  oganonwa ewi chuo mathuondi.
-P6	Tich ariyo to oganonwa e wi nyiri mathuondi.
-P7	Tich adek,  oganonwa e wi yore mag wuoth.
-P8	Tich ang'wen is oganonwa ewi wecha mag pur.
-P9	Tich abich to okwayo moudo wawegi moudo waganne jowetewa wawegi.
-P10	Adiero japuonjwa ema oloyo japuonj duto maniepiny. Kabedo maduong' to agomba modo abed kaka japuonj Akiniyi.
+P5	Wer mamitno iwero kama: Nindo mayom ka mula Yie ichiwne wang'i Mor mogundho riti Kawang' ichiewo Nind maber jaherana Kik iywagi,  kendo wang' awerni Wend nindo mamit sidang' Ninda! Ninda!
+P6	Japuonj Akinyi ong'eyo sigana mathoth. Oganonwa sigana mopogore pile odiochieng ka odiochieng ejuma.
+P7	Chieng' wuok tich,  oganonwa ewi chuo mathuondi.
+P8	Tich ariyo to oganonwa e wi nyiri mathuondi.
+P9	Tich adek,  oganonwa e wi yore mag wuoth.
+P10	Tich ang'wen is oganonwa ewi wecha mag pur.
+P11	Tich abich to okwayo moudo wawegi moudo waganne jowetewa wawegi.
+P12	Adiero japuonjwa ema oloyo japuonj duto maniepiny. Kabedo maduong' to agomba modo abed kaka japuonj Akiniyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

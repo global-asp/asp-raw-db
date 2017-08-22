@@ -11,6 +11,15 @@ desc:	Amélie se réveille et pense: « Aujourdhui
 
 page_text:
 
+P1	Amélie se réveille et pense: " Aujourd'hui,   c'est mon premier jour d'école. " .
+P2	Amélie :  " Charles,  que dois-je faire ? " Charles: " Je vais te dire " .
+P3	Charles:  " Tu dois te laver le visage "Amélie : " Je sais me laver le visage. Et ensuite ?" .
+P4	Charles: " Tu dois te brosser les dents."Amélie: " Je sais me brosser les dents. Et ensuite?" .
+P5	Charles: " Tu dois manger."Amélie: " Je sais manger. Et ensuite?" .
+P6	Charles: " Tu dois mettre ton uniforme."Amélie: " Je sais mettre mon uniforme. Et ensuite?" .
+P7	Charles: " Tu dois prendre ton cartable. "Amélie: " Je sais prendre mon cartable. Et ensuite?" .
+P8	Charles: " Tu dois aller à l'école.  "Amélie: "  Je sais aller à l'école. Et ensuite? " .
+P9	Charles:  " Tu dois rentrer dans la salle de classeAmélie : " Je sais rentrer dans la salle de classe. Et ensuite ? .
 
 images:
 

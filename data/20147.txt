@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=20147&d=0&a=1
+id:	20147
+title:	Little Jojo's Long Tall Tale
+author:	Leo Daly
+artist:	Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20147.png
+desc:	The Chief of the Village of Many Shapes has lost the special horn that he blows to start the springtime party. Little Jojo goes in search of the missing horn
+
+page_text:
+
+P1	"I have a very big problem," cried Chief Short and Round.
+P2	"I have lost my spring horn," said Chief Short and Round.
+P3	"I will find your spring horn," said Little Jojo. "I will look at Tata Rectangle's house."
+P4	Little Jojo and Tata Rectangle looked everywhere but they could not find the spring horn.
+P5	"Go and see if Mama Triangle has the spring horn," said Tata Rectangle.
+P6	Little Jojo stopped at his house to pour a glass of cold water.
+P7	Jojo visited Dudu Diamond and asked if she would go with him.
+P8	"It’s not far but I will pack some food to take with," said Dudu.
+P9	Dudu and Jojo stopped to eat and rest at the bottom of the triangle mountain.
+P10	When they were half way up the mountain, they saw a strange spider web.
+P11	Jojo and Dudu arrived at Mama Triangle’s house.
+P12	"The chief did not leave his spring horn here," said Mama Triangle.
+P13	Mama Triangle knew where they could find the spring horn.
+P14	It was evening when they arrived at Chief Short and Round’s house.
+P15	Mama Triangle pointed at the chief. "You are wearing your spring horn on your head."
+P16	Chief Short and Round gave Little Jojo the spring horn to blow.  They were happy.
+
+images:
+
+illustrations/pages/19917.png
+illustrations/pages/19902.png
+illustrations/pages/19903.png
+illustrations/pages/19904.png
+illustrations/pages/19905.png
+illustrations/pages/19906.png
+illustrations/pages/19907.png
+illustrations/pages/19908.png
+illustrations/pages/19909.png
+illustrations/pages/19910.png
+illustrations/pages/19911.png
+illustrations/pages/19912.png
+illustrations/pages/19913.png
+illustrations/pages/19914.png
+illustrations/pages/19915.png
+illustrations/pages/19916.png
+illustrations/pages/19917.png
+
+translations:
+
+English (Original)	Little Jojo's Long Tall Tale	id=19923
+isiNdebele (Translation)	Indatjana Kajojo Ede	id=20783
+isiZulu (Translation)	Indaba Ka Jojo Omncane	id=20588
+Sesotho (South Africa) (Translation)	Pale Ya Jojo E Monyenyane E Telele Ya Maiqape	id=20830
+Siswati (Translation)	Indzaba Lendze Yajojo Lomncane 	id=20778

@@ -1,13 +1,13 @@
 url:	http://africanstorybook.org/reader.php?id=13073&d=0&a=1
 id:	13073
 title:	Imadi Yathembi Lebalulekile
-author:	Zodwa Mnisi and Nontethelelo Ndzinisa
+author:	Nontethelelo Ndzinisa and Zodwa Mnisi
 artist:	Catherine Groenewald
-lang:	siSwati
+lang:	Siswati
 level:	First paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/13073.png
-desc:	Lentfombatane lencane yemswati yakhula  nemadi lemangalisako. Lemadi ya Thembi lemvikela etingotini ngekusitwa yinyoni lencane
+desc:	Lentfombatane lencane yemswati yakhula nemadi lemangalisako. Lemadi ya Thembi lemvikela etingotini ngekusitwa yinyoni lencane
 
 page_text:
 
@@ -20,12 +20,13 @@ P6	Waphindze wafundza nekutsi lipulazi lagogo wakhe lingakuphi. Bekavame kuya ay
 P7	Ngalelinye lilanga Thembi bekangenayo inhlanhla. Wasuka aya epulazini kagogo kepha akazange afika. Walahleka etintsabeni. Thembi bekasaba.
 P8	Wahlala ngaphansi kwesihlahla alindze lusito. Madvutane watunywa butfongo waphupha.
 P9	Waphupha kanjena: Bekalele emadini yakhe lekhetsekile. Umfati lobekafana nagogo wakhe bekambhasobhile. Lomfati wamoyitela wabese umunika sitja sesigodzi lesinelubisi lelikamela. Watsi nakalula sandla sakhe atsatsa lolubisi,  wase uyaphaphama.
-P10	Watsi Thembi nakasukuma, lenyoni lencane leluhlata salingangane yaphaphisa timphiko yakhomba Thembi indlela. Walandzela lenyoni.
-P11	Thembi wafika emphambanandlela. Lenyoni leluhlata salungangane yawisa siceshana selimadi lebesifana ncamashi nelimadi laThembi.
-P12	Asacobonga lesiceshana selimadi,  Thembi wabona umfanekiso wetinyawo lebekati kutsi tamake wakhe. Madvutane wabona lomtfombo wemanti longashoni lapho bakha khona emanti.
-P13	Umndeni wa Thembi wahlabelela waphindze wadansa bamemukela kutsi ubuyile ekhaya. Bahlaba imbuti, batfosa inyama babungata kubuya kwemntfwana wabo aphephile.
-P14	Thembi wahlala emadini yakhe lekhetsekile atfokotela licatsa lelikhulu lenyama letfosiwe.
-P15	Thembi wahlala lakhe lelikhetsekile atfokotela licatsa lelikhulu lenyama letfosiwe.
+P10	Thembi wavula emehlo akhe kancane. Watsi nakabuka etulu, wabona inyoni lencane leluhlata salungangane isime egaleni lebelingetulu kwakhe.
+P11	Watsi Thembi nakasukuma, lenyoni lencane leluhlata salingangane yaphaphisa timphiko yakhomba Thembi indlela. Walandzela lenyoni.
+P12	Thembi wafika emphambanandlela. Lenyoni leluhlata salungangane yawisa siceshana selimadi lebesifana ncamashi nelimadi laThembi.
+P13	Asacobonga lesiceshana selimadi,  Thembi wabona umfanekiso wetinyawo lebekati kutsi tamake wakhe. Madvutane wabona lomtfombo wemanti longashoni lapho bakha khona emanti.
+P14	Umndeni wa Thembi wahlabelela waphindze wadansa bamemukela kutsi ubuyile ekhaya. Bahlaba imbuti, batfosa inyama babungata kubuya kwemntfwana wabo aphephile.
+P15	Thembi wahlala emadini yakhe lekhetsekile atfokotela licatsa lelikhulu lenyama letfosiwe.
+P16	Thembi wahlala lakhe lelikhetsekile atfokotela licatsa lelikhulu lenyama letfosiwe.
 
 images:
 
@@ -49,10 +50,13 @@ illustrations/pages/6007.png
 translations:
 
 English (Original)	Akai's Special Mat	id=6008
+English (Adaptation)	Abike's Day 	id=21453
 French (Translation)	La Natte Spéciale D’Akai	id=9301
 French (Translation)	Akai Et Sa Natte Spéciale	id=10137
 Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
 Hausa (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+isiNdebele (Translation)	Ilanga Lika Abike	id=21461
+isiZulu (Translation)	Usuku Luka Aphiwe	id=21458
 Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
 Kiswahili (Translation)	Mkeka Wa Akai	id=7860
 Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
@@ -60,12 +64,13 @@ Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
 Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
 Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
 Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
-Lusoga (Translation)	Nkaayi Noomukeeka Omulobole	id=7893
 Maa (Translation)	Esos E Naserian	id=7858
 Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
 Oluwanga (Translation)	Liyambo Lia Akai	id=8271
 Portuguese (Translation)	O Tapete Especial De Akai	id=16096
 Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
 Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Sesotho (South Africa) (Translation)	Letsatsi La Abike	id=21466
 Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+Siswati (Translation)	Lilanga La-Abike	id=21455
 Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

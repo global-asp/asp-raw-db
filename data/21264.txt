@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=21264&d=0&a=1
+id:	21264
+title:	Amaadhi
+author:	Power Abaho
+artist:	Wiehan de Jager, Melany Pietersen, Rob Owen, Vusi Malindi, Jesse Pietersen, Silva Afonso, Renate van Rensburg and Salim Kasamba
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21264.png
+desc:	Amaadhi no obulamu. Buli kisolo ne ekisimbe kinhwa amaadhi.
+
+page_text:
+
+P1	Amaadhi malungii
+P2	Tunhwa amaadhi
+P3	Ebisolo binwa amaadhi
+P4	Ebilimee bikozesa amaadhi okukula
+P5	Gonya dhiisula mumaadhi
+P6	Tuwugira mumaadhi
+P7	Tunaba engalo dhaiffe namaadhi
+P8	Twoza’engoye namaadhi
+P9	Amaadhi noo’bulamu
+
+images:
+
+illustrations/pages/15335.png
+illustrations/pages/13653.png
+illustrations/pages/10609.png
+illustrations/pages/9648.png
+illustrations/pages/13388.png
+illustrations/pages/17150.png
+illustrations/pages/924.png
+illustrations/pages/13819.png
+illustrations/pages/9485.png
+illustrations/pages/13415.png
+
+translations:
+
+English (Translation)	Water	id=18966
+Lusoga (Translation)	Amaadhi	id=21277
+Oluwanga (Original)	Amatsi Nobulamu	id=18865

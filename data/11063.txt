@@ -13,9 +13,10 @@ page_text:
 
 P1	Eendag was daar 'n baie honger krokodil.
 P2	Hy het stadig en saggies vir kos gesoek.
-P3	GAPS! Daar hap die krokodil!
-P4	Na dit is hy nie meer honger nie,  en is hy baie gelukkig.
-P5	Totdat hy weer honger raak.
+P3	En toe.
+P4	GAPS! Daar hap die krokodil!
+P5	Na dit is hy nie meer honger nie,  en is hy baie gelukkig.
+P6	Totdat hy weer honger raak.
 
 images:
 
@@ -31,6 +32,8 @@ translations:
 Arabic (Translation)	التمساح الجائع	id=18188
 English (Original)	The Hungry Crocodile	id=7043
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
 Luganda (Translation)	Ggonya Omuyala.	id=9664
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252

@@ -14,11 +14,11 @@ page_text:
 P1	Suubi alina tuviiri tumpi.
 P2	Naigaga alina nviiri mpanvu.
 P3	Mutesi alina nviiri mpanvu okusingaku Naigaga.
-P4	Nabirye alina nviiri dheyalanze.
+P4	Nabirye alina nviiri dhe yalanze.
 P5	Isabirye alina kirevu ku matama.
 P6	Babirye alina nviiri nsuusule.
 P7	Nsadhu alina nviiri nkomole.
-P8	Aye,  Waiswa amweire enviiri dha mpaata.
+P8	Aye,  Waiswa amweire nviiri dha mpaata.
 
 images:
 
@@ -35,6 +35,7 @@ illustrations/pages/1218.png
 translations:
 
 Afrikaans (Translation)	Hare	id=11318
+Amharic (Translation)	የፀጉር ምርጫዎቻችን	id=21177
 Aringati (Translation)	Ĩzĩnũwélẽ Drị̃ꞌbị́	id=8359
 Ateso (Translation)	Itima	id=3079
 English (Original)	Hair	id=1746
@@ -45,7 +46,6 @@ Luganda (Translation)	Enviiri	id=9339
 Lugbarati (Translation)	Dri'bi	id=2809
 Lumasaaba (Translation)	Litsuune	id=1964
 Lunyole (Translation)	Efiiri	id=3073
-Lunyole (Translation)	Efiiri	id=12900
 Maa (Translation)	Ilpápít	id=2743
 Ng’aturkana (Translation)	Ng’Itim	id=2812
 Oluwanga (Translation)	Liswi	id=3075

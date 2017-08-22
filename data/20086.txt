@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=20086&d=0&a=1
+id:	20086
+title:	My Juffrou
+author:	Fanie Viljoen
+artist:	Jesse Pietersen
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20086.png
+desc:	’n Meisie wil net soos haar juffrou wees.
+
+page_text:
+
+P1	Ek is lief vir my juffrou.
+P2	Sy is ’n goeie juffrou. Sy is vriendelik en geduldig.
+P3	Sy het haar hare so mooi gevleg.
+P4	Sy het kleurvolle krale in haar hare gesit.
+P5	Haar krale is groen, wit, rooi en geel.
+P6	Ma, sal Ma asseblief my hare soos my juffrou s’n vleg?
+P7	Wanneer ek ouer is, sal ek krale in my hare dra.
+P8	As ek eendag groot is gaan ek net soos my juffrou wees.
+
+images:
+
+illustrations/pages/8513.png
+illustrations/pages/8509.png
+illustrations/pages/8510.png
+illustrations/pages/8511.png
+illustrations/pages/8512.png
+illustrations/pages/8513.png
+illustrations/pages/8514.png
+illustrations/pages/8515.png
+illustrations/pages/8516.png
+
+translations:
+
+Akuapem Twi (Translation)	Me Kyerɛkyerɛfo	id=18465
+Amharic (Translation)	መምህሬ 	id=21236
+Asante Twi (Translation)	Me Kyerɛkyerɛfoɔ	id=18223
+ChiTonga (Translation)	Basiisi Bangu	id=18632
+CiNyanja (Translation)	Apunzisi Anga	id=18609
+Dagaare (Translation)	N Karema	id=17777
+Dagbani/Dagbanli (Translation)	N Karim Ba	id=18153
+Dangme (Translation)	Ye Tsɔɔlɔ	id=18303
+Dhopadhola (Translation)	Jafonji Paran	id=18751
+English (Original)	My Teacher	id=8507
+Ewe (Translation)	Nye Nufiala	id=18170
+Fante (Translation)	Me Kyerɛkyernyi	id=18495
+Ga (Translation)	Mitsɔɔlɔ	id=18294
+Gonja (Translation)	Mabe Eŋinipo	id=18176
+Hausa (Nigeria) (Translation)	Malamata	id=20510
+IciBemba (Translation)	Bakafundisha Bandi	id=18574
+isiXhosa (Translation)	Utitshala Wam	id=17577
+isiZulu (Translation)	Uthisha Wami	id=8075
+Kasem (Translation)	A Bereno	id=18210
+Kinyarwanda (Translation)	Mwarimu Wanjye	id=20230
+Kiswahili (Translation)	Mwalimu Wangu	id=15609
+Lunyole (Translation)	Omusomesa Wange	id=16424
+Mampruli (Translation)	N  Karimba	id=18852
+Nzema (Translation)	Me Kilehilevolɛ Ne	id=18432
+Oluwanga (Translation)	Omusomesia Wanje	id=19796
+Portuguese (Translation)	A Minha Professora	id=17617
+Sepedi (Translation)	Morutiši Wa Ka	id=18025
+Sesotho (South Africa) (Translation)	Mosuwetsana Wa Ka	id=20038
+Setswana (Translation)	Morutabana Wa Me	id=16753
+Setswana (Translation)	Morutabana Wa Me	id=17655
+SiLozi (Translation)	Bomuluti Baka	id=18558
+Tshivenda (Translation)	Mudededzi Wanga	id=18987
+Tunisian (Translation)	Muġallimti	id=15153
+Xitsonga (Translation)	Mudyondzisi Wa Mina	id=18998

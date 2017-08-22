@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=21124&d=0&a=1
+id:	21124
+title:	Mbweha Asiye Na Shukurani
+author:	Brigid Simiyu
+artist:	Jacob Kono
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21124.png
+desc:	Sungura anamwokoa Mbweha kutoka shidani. Lakini
+
+page_text:
+
+P1	Mbweha mwenye njaa alikuwa akiwinda.
+P2	Alimfukuza panya hadi akaingia chini ya jiwe.
+P3	Mbweha alipochimba, jiwe liliangukia mguu wake.
+P4	Sungura alimsikia Mbweha akilia. Alikimbia kuona kilichotokea.
+P5	Sungura alikubali kumsaidia Mbweha. Mbweha aliahidi kumpatia chakula.
+P6	Sungura alilisukuma jiwe hadi likaondokea mguu wa Mbweha.
+P7	Sungura alimwuliza zawadi yake.  Mbweha alitisha kumla Sungura!
+P8	Mbweha na Sungura walimtafuta mzee awaamulie kesi yao.
+P9	Mbweha alitisha kumla yule mzee pia!
+P10	Mzee alisema, “Hebu nione lile jiwe kabla kuamua.”
+P11	Mbweha na Sungura walimwonyesha mzee lile jiwe.
+P12	Mbweha alieleza jinsi jiwe liliangukia mguu wake.
+P13	Mzee alimwuliza Sungura kuonyesha namna alivyolisukuma jiwe.
+P14	Sungura alilisukuma jiwe hadi likaangukia mguu wa Mbweha.
+P15	Mzee alisema, “Sasa ni sawa. Hebu twende nyumbani.”
+P16	Mzee na Sungura walienda zao. Mbweha aliachwa akiwa amenaswa.
+
+images:
+
+illustrations/pages/18475.png
+illustrations/pages/18468.png
+illustrations/pages/18469.png
+illustrations/pages/18470.png
+illustrations/pages/18471.png
+illustrations/pages/18472.png
+illustrations/pages/18473.png
+illustrations/pages/18474.png
+illustrations/pages/18475.png
+illustrations/pages/18476.png
+illustrations/pages/18477.png
+illustrations/pages/18478.png
+illustrations/pages/18479.png
+illustrations/pages/18481.png
+illustrations/pages/18482.png
+illustrations/pages/18483.png
+illustrations/pages/18484.png
+
+translations:
+
+Afaan Oromo (Translation)	Jedalaaf Illeti	id=18486
+Amharic (Translation)	ቀበሮና ጥንቸል	id=18845
+Amharic (Translation)	ውለታቢሱ ቀበሮ	id=21243
+English (Original)	Jackal and Rabbit	id=18485
+English (Adaptation)	Ungrateful Jackal	id=20876
+Kiswahili (Translation)	Mbweha Na Sungura	id=19387
+Lunyole (Translation)	Ahasuje  Ahatasiima	id=21025
+Ng’aturkana (Translation)	Epeot Lope Alakara	id=21123
+Tigrigna (Translation)	ዘየመስግን ተኹላ	id=21109

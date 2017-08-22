@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=8168&d=0&a=1
 id:	8168
 title:	Omubiri Gwange
-author:	Cornelius Gulere
+author:	Cornelius Wambi Gulere
 artist:	Mlungisi Dlamini
 lang:	Lusoga
 level:	First words
@@ -34,6 +34,7 @@ illustrations/pages/1629.png
 
 translations:
 
+Acholi (Translation)	Kuma	id=21327
 Afaan Oromo (Translation)	Qaama Kiyya	id=12624
 Anywak (Translation)	Dëëra	id=17261
 Ateso (Translation)	Akakuwan	id=7784

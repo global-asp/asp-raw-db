@@ -21,9 +21,10 @@ P7	Eles apanharam uma grande pedra e tentaram abrir a abóbora.
 P8	– Não! – gritou a abóbora. Os pastores deram um salto atrás. A abóbora começou a abrir-se.
 P9	Uma bruxa saiu da abóbora.  Ela tinha um braço,  um olho e uma perna. Ela tinha um aspeto terrível. – Não me incomodem – disse a moloi com uma voz grossa – Eu sou o chefe da abóbora. A abóbora voltou a fechar –se.
 P10	Os pastores ficaram com muito medo. Eles correram a contar o sucedido aos seus pais. – Oh! Nós temos tanta sorte – disseram os pais – Vocês não conhecem a moloi da abóbora? È uma abóbora muito especial – disseram os pais dos pastores – Vocês têm que a deixar em paz.
-P11	E então isso aconteceu no próximo verão. A abóbora da senhora 'M'e Maneo abriu-se. Ela estava cheia de muitas e muitas sementes.
-P12	A bruxa saiu de dentro da abóbora. Ela escalou para fora da abóbora com a sua única perna. Ela observou todas as aldeias com o seu único olho. Ela espalhou todas essas sementes pelo vale com o seu único braço.
-P13	As sementes tornaram-se numas bonitas e enormes abóboras em todas as hortas do vale. Nesse inverno,  todas as pessoas do vale tiveram montes de abóboras para comer. Elas foram ter com a senhora 'M'e Maneo e agradeceram-lhe: – Muito obrigado,  senhora 'M'e Maneo!
+P11	– A abóbora vai-se abrir outra vez no próximo verão e a moloi vai espalhar sementes de abóbora por todas as nossas aldeias. Nós vamos ter muitas e muitas abóboras para comer – disseram os pais dos pastores.
+P12	E então isso aconteceu no próximo verão. A abóbora da senhora 'M'e Maneo abriu-se. Ela estava cheia de muitas e muitas sementes.
+P13	A bruxa saiu de dentro da abóbora. Ela escalou para fora da abóbora com a sua única perna. Ela observou todas as aldeias com o seu único olho. Ela espalhou todas essas sementes pelo vale com o seu único braço.
+P14	As sementes tornaram-se numas bonitas e enormes abóboras em todas as hortas do vale. Nesse inverno,  todas as pessoas do vale tiveram montes de abóboras para comer. Elas foram ter com a senhora 'M'e Maneo e agradeceram-lhe: – Muito obrigado,  senhora 'M'e Maneo!
 
 images:
 
@@ -46,4 +47,5 @@ translations:
 
 English (Translation)	'm'e Maneo's Pumpkin	id=10674
 French (Translation)	La Citrouille De M'dame Maneo	id=13270
+Kumam (Translation)	Esuju Ameo	id=20956
 Sesotho (Lesotho) (Original)	Mokopu Oa 'm'e Maneo	id=10671

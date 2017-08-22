@@ -7,17 +7,17 @@ lang:	Lunyole
 level:	First words
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/16583.png
-desc:	Olugano lw’Engoho ni Waga olw’edaala  eryo eryohune (4) ni hulwihiise hu daala edaayi (1)
+desc:	Olugano lw’Engoho ni Waga olw’edaala eryo eryohune (4) ni hulwihiise hu daala edaayi (1).
 
 page_text:
 
 P1	Engoho ni Waga bali bamuhago.
 P2	Batiina ohusamba omupiira.
-P3	Engoh o nj'eyali epambi y'e goolo.
+P3	Engoho nj'eyali epambi y'e goolo.
 P4	Waga gateeba!
 P5	Engoho esunguŋala.
 P6	Engoho ya mira Waga.
-P7	Engoho yaganana ni nyina wa Waga.
+P7	Engoho yaganana ni nyina ya Waga.
 P8	Nga Waga alira ati,  "Maama njede!"
 P9	Engoho yeŋulira n'erwaye.
 P10	Waga abulamo jamu.
@@ -42,9 +42,9 @@ illustrations/pages/8994.png
 
 translations:
 
+ChiTonga (Translation)	Nkuku A Jongola	id=20796
 Dhopadhola (Translation)	Gweno Gi Ogongolo	id=15734
-English (Translation)	Chicken and Millipede	id=18289
-English (Translation)	Chicken and Millipede	id=18325
+English (Translation)	Kuku Na Jongoo	id=18289
 IciBemba (Translation)	Inkoko Na Ciyongoli	id=18681
 isiZulu (Translation)	Unkuku Noshongololo (Level 1)	id=15102
 Kiswahili (Translation)	Kuku Na Jongoo	id=15608

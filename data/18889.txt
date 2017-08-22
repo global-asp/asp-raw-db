@@ -13,9 +13,10 @@ page_text:
 
 P1	Era uma vez um crocodilo faminto.
 P2	Procurou por comida lenta e silenciosamente.
-P3	ZÁS! O crocodilo ataca!
-P4	Depois disso,  deixou de estar faminto e está feliz.
-P5	Até ficar novamente faminto.
+P3	E depois.
+P4	ZÁS! O crocodilo ataca!
+P5	Depois disso,  deixou de estar faminto e está feliz.
+P6	Até ficar novamente faminto.
 
 images:
 
@@ -32,6 +33,8 @@ Afrikaans (Translation)	Die Honger Krokodil	id=11063
 Arabic (Translation)	التمساح الجائع	id=18188
 English (Original)	The Hungry Crocodile	id=7043
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
 Luganda (Translation)	Ggonya Omuyala.	id=9664
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252

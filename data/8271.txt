@@ -49,10 +49,13 @@ illustrations/pages/6007.png
 translations:
 
 English (Original)	Akai's Special Mat	id=6008
+English (Adaptation)	Abike's Day 	id=21453
 French (Translation)	La Natte Spéciale D’Akai	id=9301
 French (Translation)	Akai Et Sa Natte Spéciale	id=10137
 Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
 Hausa (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+isiNdebele (Translation)	Ilanga Lika Abike	id=21461
+isiZulu (Translation)	Usuku Luka Aphiwe	id=21458
 Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
 Kiswahili (Translation)	Mkeka Wa Akai	id=7860
 Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
@@ -60,12 +63,13 @@ Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
 Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
 Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
 Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
-Lusoga (Translation)	Nkaayi Noomukeeka Omulobole	id=7893
 Maa (Translation)	Esos E Naserian	id=7858
 Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
 Portuguese (Translation)	O Tapete Especial De Akai	id=16096
 Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
 Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Sesotho (South Africa) (Translation)	Letsatsi La Abike	id=21466
 Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
-siSwati (Translation)	Imadi Yathembi Lebalulekile	id=13073
+Siswati (Translation)	Imadi Yathembi Lebalulekile	id=13073
+Siswati (Translation)	Lilanga La-Abike	id=21455
 Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

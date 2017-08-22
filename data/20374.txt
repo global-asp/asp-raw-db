@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=20374&d=0&a=1
+id:	20374
+title:	Sokwe Na Mamba
+author:	Brigid Simiyu
+artist:	
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20374.png
+desc:	Kuhusu namna Sokwe aliepuka kuliwa na Mamba.
+
+page_text:
+
+P1	Sokwe anamkuta Mamba kando ya ziwa.
+P2	Sokwe anauliza, “Unaishi wapi?” Anajibu, “Ziwani.”
+P3	Mamba anauliza, “Unaishi wapi?” Anasema, “Kwenye miti.”
+P4	Mamba anauliza, “Unaweza kuogelea?”
+P5	“Siwezi,” Sokwe anajibu. Mamba anasema, “Nitakufunza."
+P6	Mamba anasema, “Sisi ni marafiki. Usiogope.”
+P7	Mamba anasema, “Mjomba ni mgonjwa. Anahitaji
+nyama.”
+P8	Sokwe ameogopa sana. Je, Mamba atamkula?
+P9	Sokwe anataka kumtoroka Mamba.
+P10	Sokwe anakuwa na wazo.
+P11	“Nitautoa moyo wangu umpatie,” Sokwe anaahidi.
+P12	“Moyo wangu uko kwenye mti,” Sokwe anasema.
+P13	“Utauleta moyo wako?” Sokwe anajibu, “Ndiyo.”
+P14	Mamba anaogelea kutoka majini. Sokwe anakimbilia miti.
+P15	“Wewe si rafiki yangu. Ulinidanganya!” Mamba anasema.
+P16	“Hatuko marafiki. Unataka kunila! Sokwe anajibu.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri Da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	Unkawu Nongwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343

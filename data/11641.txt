@@ -1,9 +1,9 @@
 url:	http://africanstorybook.org/reader.php?id=11641&d=0&a=1
 id:	11641
 title:	Kaza Da Shanshani
-author:	Plan Niger - Projet NECS - Usaid and Avec la contribution du comité asl du projet necs
+author:	Plan Niger - Projet NECS - Usaid
 artist:	Winny Asara
-lang:	Hausa
+lang:	Hausa (Niger)
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/11641.png
@@ -42,4 +42,4 @@ illustrations/pages/8994.png
 
 translations:
 
-Hausa (Adaptation)	Kaza Da Shanshani	id=11839
+Hausa (Niger) (Adaptation)	Kaza Da Shanshani	id=11839

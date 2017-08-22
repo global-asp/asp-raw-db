@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=20761&d=0&a=1
+id:	20761
+title:	Mutum Maras Kula
+author:	Muhammad Umar
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20761.png
+desc:	Wani mutum wanda bai damu da ya adana abinci sosai ba. Sakamakon haka iyalinsa su da abincin da za su ci.
+
+page_text:
+
+P1	Wani lokaci, an yi wani mutum da ake kira da suna Joel a wani kauye mai suna Aya.
+P2	Baya damuwa da tanadi abinci domin amfanin wata rana, sai dai kawai ya bata shi.
+P3	Ba komai a rumbun.
+P4	Ciwo ya kama masara ta bushe.
+P5	Sai iska mai karfi ta taso ta dauke masa dan bisan rumbu.
+P6	Yaran suka watsu neman dan abincin da aka rage.
+P7	Uwarsu ta fadi ta na kuka saboda abin da za ta ba su lokaci na gaba.
+P8	Mahaifinsu ya zauna a rumfar kofar daki yana tunanin gaba.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

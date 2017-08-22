@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=21106&d=0&a=1
+id:	21106
+title:	እናሓጎይ፣ ማንቲለን ሓርማዝን
+author:	Angish Abay
+artist:	
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21106.png
+desc:	እናሓጎኦም ምሸት ምሸት ከመይ ነበረያነበረ ትነግሮም ከም ዝነበረት ሓደ ቖልዓ ዝተዛረቦ።
+
+page_text:
+
+P1	እናሓጎይ “ማንቲለን ሓርማዝን ቐደም ጎረቤትን ኣዕርኽትን እዮም ነይሮም” ኢላ ጀመረት።
+P2	ማንቲለ ቅንጥሻራ ብጣዕሚ ይፈቱ፣ ማሕረስ ግን ዘይፈቱ ሰነፍ እዩ ነይሩ።
+P3	ማንቲለ ቅንጥሻራ ስለዘይነበሮ፣ ካብ ሓርማዝ  በናና ምስራቕ ጀሚሩ።
+P4	ሓርማዝ  “ክረኽቦ እየ እቲ ሌባ” እናበለ ደሪፉ። ማንቲለ ድማ ፈሪሑ።
+P5	ህበይ እቲ ሕርሻ ምሕላው ጀሚራ ፤ ማንቲለ ግን ኣይሰረቐን።
+P6	ሓርማዝ ከፃሪ ናብ ሕርሸኡ ከይዱ። ማንቲለ ኣብ  ቖፅሊ ዱባ ተሓቢኡ።
+P7	ሓርማዝ  ኣብ ኩሉ ኣንፈት ደልዩ ፤ እቲ ሌባ ግን ክረኽቦ ኣይክኣለን።
+P8	ካሊእ ግዜ፣ ማንቲለ ኣብ ውሽጢ ዓብይ ዱባ ተሓብአ።
+P9	ሓርማዝ ነቲ ዓብይ ዱባ ምስ ርኣዮ ወሓጦ።
+P10	እቲ ዱባ ኣብ ውሽጢ ከብዲ ሓርማዝ ተገላበጠ።
+P11	ሓርማዝ ነቲ ዱባ እንትፍ ኢልዎ። ማንቲለ ድማ ጎይዩ ኣምለጠ።
+P12	እናሓጎይ “እዚ ናይቲ ነበረያነበረ መወዳእታ እዩ” በለትና።
+
+images:
+
+illustrations/pages/18842.png
+illustrations/pages/18819.png
+illustrations/pages/18831.png
+illustrations/pages/18832.png
+illustrations/pages/18833.png
+illustrations/pages/18834.png
+illustrations/pages/18835.png
+illustrations/pages/18836.png
+illustrations/pages/18837.png
+illustrations/pages/18839.png
+illustrations/pages/18840.png
+illustrations/pages/18841.png
+illustrations/pages/18842.png
+
+translations:
+
+Amharic (Translation)	አያቴ፣ ጥንቸልና ዝሆን	id=21245
+English (Original)	Grandmother's Stories	id=19109
+English (Adaptation)	Grandmother, Hare And Elephant	id=20883
+Kiswahili (Translation)	Hadithi Za Bibi	id=19110
+Kiswahili (Translation)	Bibi, Sungura Na Tembo	id=21129
+Lusoga (Translation)	Dhaada Omukazi,wakaima Ne Endovu	id=21334

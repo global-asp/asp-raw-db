@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=20416&d=0&a=1
+id:	20416
+title:	Ebuu, Apoo Ka Ng'atubwae
+author:	Simon Ipoo
+artist:	
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20416.png
+desc:	Kwana euriya atubwa
+
+page_text:
+
+P1	Arai kolong Ebuu ka Apoo ng'ipaalon luminan.
+P2	Ayakar Apoo, esikiria keng ka itubwa niichi niareng'an.
+P3	Arai nacha esakia Apoo atubwa naapolon, dio kilip Ebuu.
+P4	Kitamu Ebuu ache kolong'it akilatar ng'iworui keng.
+P5	Tama ng'esi ing'isi Apoo, "Yau atubwa nakang naapolon."
+P6	"Auriu atubwa nakon itaok," tama niti ikobakini daang.
+P7	Ache kwaar kilipaa Apoo atubwa nabo.
+P8	Ani esakari Ebuu atubwa keng toriamu ekoi loarono.
+P9	Tama Apoo, "Atona atubwa kon." Abu Ebuu tong'oo noi.
+P10	Abu Ebuu tochunak ng'itiang luapolok daang.
+P11	Tama Apoo, "Ng'iboro daang lueyarete, etuakete."
+P12	Tonupa ng'itiang daang Apoo. Tolema Apoo ng'atubwae!
+
+images:
+
+illustrations/pages/19188.png
+illustrations/pages/19185.png
+illustrations/pages/19186.png
+illustrations/pages/19187.png
+illustrations/pages/19188.png
+illustrations/pages/19189.png
+illustrations/pages/19190.png
+illustrations/pages/19191.png
+illustrations/pages/19192.png
+
+translations:
+
+Afaan Oromo (Translation)	Warabeesa, Illetif Gabate	id=20427
+Amharic (Translation)	ጅብ፣ ጥንቸልና ሳፋዎቻቸው	id=20481
+English (Translation)	Hyena, Hare And Their Basins	id=19194
+English (Adaptation)	Hyena, Hare And Their Basins	id=19764
+isiZulu (Translation)	Umpisi, Unogwaja Nezindishi	id=20722
+Kiswahili (Original)	Fisi, Sungura Na Karai	id=19193
+Kiswahili (Translation)	Fisi, Sungura Na  Beseni	id=20437
+Lusoga (Translation)	Wampiti, Wakayima Ni  Benseni	id=20400
+Setswana (Translation)	Phiri, Mmutla Le Dijana	id=21057

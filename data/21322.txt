@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=21322&d=0&a=1
+id:	21322
+title:	Yamo
+author:	Maurice Lamony
+artist:	Marion Drew
+lang:	Acholi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21322.png
+desc:	Ododo eni loko i kum teko pa yamo ki kit ma yamu obedo kede.
+
+page_text:
+
+P1	Yamo gere. Gere karo ki gang wa.
+P2	Yamo tek adada. Jodo gin tuku na'o ki i cinga.
+P3	Angweco iko gin tuku na. Yamo baya oko cen ki bot gin tuku na.
+P4	Yamo dogo lapiro. Tingo gin tuku na lanete dok lanete.
+P5	Lapiro bino umu wiya'o. Pe atwero neno gin moo. Pe atwero gudu gin moo.
+P6	Gin tuku na dong tye kwene? Mogo no omok iwi yat.
+P7	Mogo no pwud tye ka tuk iwi yamo.
+P8	Yamo dong pye piny. Ento an pwud atye ka wire.
+P9	Ma dong atyeko wire, angiyo piny. Yamo ni oceto kwene?
+P10	Pe atye ka neno gin tuku na kamoo. Pe be dong atye ka winyo yamo.
+P11	Gwok digi abi nongo gin tuku na yo. Kumbeti, wek adoko gang ma yamo pwud peya dok ocako gere.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+
+translations:
+
+English (Translation)	Wind	id=14119
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kinyarwanda (Translation)	Umuyaga	id=20857
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo Mkali	id=18345
+Sesotho (S.Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

@@ -11,17 +11,17 @@ desc:	Mama we’kima gafirwanaga abaana
 
 page_text:
 
-P1	Mwideŋo lye Miwa,  mwalimo ekima eyaali n'enaku. Hiisi oluyasalanga enyana nga yi fa.
+P1	Mwideŋo lye Mwiwa,  mwalimo ekima eyaali n'enaku. Hiisi olu yasalanga enyana nga yi fa.
 P2	Obusiba w'ohufirwa wagema ekima yatuuma tuuma. Yatuumanga yaŋwa hu lusaga nga yitiina hu lundi,  "Kwi! Kwi! Kwi!"
-P3	Ekima yabererenga mu hweralihirira aye yerarihiriranga bugaali ni yhawene ejahye ni jisundya abaana baajo.
+P3	Ekima yabererenga mu hweralihirira aye yerarihiriranga bugaali ni yahawene ejahye ni jisundya abaana baajo.
 P4	Ekima yino yaha cuhiye eno ninera yesubajira mu masaga g'omusaala. Endaalo jabitaŋo yaliranga nyo.
-P5	Ehiseera hyolire nga esaala. Ya salaŋo etiine hupi no lugudo ababiita bayiŋe ekabi etafa hyejahye.
-P6	Ekima yaninuha nga yitengeha omwana hu ngira. Mu haseera aho omuŋimi gabugula ahaana h'ekima nga ahaŋira ewuwe.
-P7	Omuŋimi gadunda ahaana he kima gaŋira ewuwe. Nigola engo abasani babe abadatu batagiha ohuhagudusa.
+P5	Ehiseera hyolire nga esaala. Ya salaŋo etiine hupi no lugudo ababiita bayiŋe ekabi, enyana etafa hyejahye.
+P6	Ekima yaninuha nga yitengeha omwana hu ngira. Mu haseera aho omuŋiimi gabugula ahaana h'ekima nga ahaŋira ewuwe.
+P7	Omuŋiimi gadunda ahaana he kima gaŋira ewuwe. Nigola engo abasani babe abadatu batagiha ohuhagudusa.
 P8	Abaseere abadatu bembanga baati,  "Haholoŋe ŋamugulu. Hadanye ŋaasi. Danya eno. Danyira ola."
-P9	Abaseere bagudulanga na hahima,  ni hehaye hu musaala ne balengeleye. Yatyanga yiti omwana ono yeesi aŋanga gafa hyabahye.
-P10	Nga aŋo omuhasi w'omuŋimi gagaana abaana babwe ni bagudusa ahakima. Ng'aloma n'obuhenerefu ati,  "Mwegenderese! Muhaleete eno. Mutahahubbiraŋo."
-P11	Gahalera n'ahasabira emiyaya.
+P9	Abaseere bagudulanga na hahima,  ni hehaye hu musaala ni ha balengereye. Yatyanga yiti omwana ono yeesi aŋanga gafa hyabahye.
+P10	Nga aŋo omuhasi w'omuŋiimi gagaana abaana babwe ni bagudusa ahakima. Ng'aloma n'obuhenerefu ati,  "Mwegenderese! Muhaleete eno. Mutahahubbiraŋo."
+P11	Gahalera n'ahasabira emiyaaya.
 P12	Omuhasi w'omuŋimi gahata ŋaasi,  ekima yaaja neduluma namasanyu. Yahafumberera nga yituumira hu musaala.
 
 images:
@@ -43,13 +43,12 @@ illustrations/pages/9060.png
 translations:
 
 Dhopadhola (Translation)	Oŋer Gi Cipa Jadwar	id=15764
-English (Original)	Monkey and the Hunter’S Wife	id=9051
+English (Original)	Monkey and the Hunter's Wife	id=9051
 English (Adaptation)	Monkey's Visit to the Hunter's Home	id=10273
 English (Adaptation)	Monkey's Child	id=16342
 French (Translation)	Maman Singe Et La Femme Du Chasseur	id=10183
 Gurene (Translation)	~Maaŋa La Tu’Usa Pↄga	id=12668
 isiZulu (Translation)	Umfene Nonkosikazi Womzingeli	id=10950
-Kinyarwanda (Translation)	Inkende N'umugore W'umuhigi	id=11469
 Kinyarwanda (Translation)	Inkende N'umugore W'umuhigi	id=11481
 Kiswahili (Translation)	Mwana Wa Tumbili	id=10166
 Kiswahili (Translation)	Mtoto Wa Kima	id=12915

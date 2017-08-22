@@ -20,6 +20,7 @@ P6	Obawu nga di 'eyo ega ali,  egata azini ega di eri ma asia. Mu esekese tra pa
 P7	Inisi Etoo ko dri muzu nyaka oguzu Obawu vile amvua. Kamu ca amvua dale bo,  so pa kaala le ru,  edo di angu ondree andra azini oru,  dile azini dole.
 P8	Erini te yeria ali ria esekese bi eri kirikiri ci. Etoo edo di otre azini owu adi eco emu imaazako ni ya ri ma eyo si.
 P9	Obawu enzu mbele masete be dria lezu oguo gazu kayi,  te eri mu Etoo ni ne esekese be rua bo,  eri ma ava fu coti.
+P10	Agiyi eyi vile Etoo be ri de'i odu dasi kpere andru,  Obawu mu di ii ma geri ko si Etoo mu vini 'i ma geri ko si.
 
 images:
 
@@ -38,4 +39,6 @@ translations:
 
 English (Translation)	Friends Become Enemies	id=12169
 French (Translation)	Des Amis Devenus Ennemis	id=13158
+Kumam (Translation)	Owotino Oko Doko Jokwor	id=20608
+Lumasaaba (Translation)	Basale Bi Kola Balabe	id=20618
 Portuguese (Translation)	Os Amigos Se Tornam Inimigos	id=16416

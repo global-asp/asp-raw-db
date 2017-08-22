@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=20255&d=0&a=1
+id:	20255
+title:	Karisa N'inka
+author:	Narcisse Biziyaremye
+artist:	Ingrid Schechter
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20255.png
+desc:	Nyirakuru wa Karisa amufasha mu buzima bwe.
+
+page_text:
+
+P1	Karisa yabanaga na nyirakuru.
+P2	Yajyaga aragirana inka na nyirakuru.
+P3	Umunsi umwe, abasirikari baraza.
+P4	Babatwarira inka.
+P5	Karisa na nyirakuru bariruka barabahunga.
+P6	Bihisha mu gihuru  kugeza ijoro riguye.
+P7	Nyuma abasirikari baragaruka.
+P8	Nyirakuru amuhisha munsi y'amababi y'ibiti.
+P9	Umwe muri abo basirikari akandagira kuri Karisa ariko ntiyakoma.
+P10	Ba basirikare bamaze kugenda, Karisa na nyirakuru  bava mu bwihisho.
+P11	Basubira iwabo bomboka.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi And The Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

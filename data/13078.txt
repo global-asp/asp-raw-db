@@ -3,7 +3,7 @@ id:	13078
 title:	Namukhaywa
 author:	Mlimi Prince Nhlanhla and Masina Lindokuhle Richard
 artist:	Wiehan de Jager
-lang:	siSwati
+lang:	Siswati
 level:	First paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/13078.png
@@ -46,10 +46,11 @@ illustrations/pages/5824.png
 
 translations:
 
+Afrikaans (Translation)	Namukhaywa	id=11367
 English (Original)	Namukhaywa	id=5859
 French (Translation)	Namukhaywa	id=9961
 Fulfulde (Translation)	Namukhaywa	id=10024
-Hausa (Translation)	Namukhaywa	id=9991
+Hausa (Niger) (Translation)	Namukhaywa	id=9991
 Kanuri (Translation)	Fanna	id=10041
 Kiswahili (Translation)	Namukhaywa	id=7874
 Luganda (Translation)	Namukwaya	id=8312

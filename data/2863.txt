@@ -34,7 +34,10 @@ illustrations/pages/1578.png
 
 translations:
 
+ChiTonga (Translation)	Cakulya Camafumofumo	id=20880
 English (Original)	Breakfast	id=2839
+Hausa (Nigeria) (Translation)	Karin Kumallo	id=20800
+IciBemba (Translation)	Umwikulo	id=20877
 isiZulu (Translation)	Ukudla Kwasekuseni	id=8735
 Kiswahili (Translation)	Kifungua Kinywa	id=7780
 Luganda (Translation)	Lĩu Wa Kwakya	id=3039
@@ -44,8 +47,10 @@ Lugbarati (Official) (Translation)	Nyaká Ò’Bíti Sɨ̀rɨ̀	id=8773
 Lunyole (Translation)	Ehyomumugamba	id=2844
 Lunyole (Translation)	Ebiryo Byo Mu Mugamba	id=12908
 Maa (Translation)	Endáa É Enkakenyá	id=2864
+Mampruli (Translation)	Nangbansuuri	id=21223
 Ng’aturkana (Translation)	Akimuji Na Ataparachu	id=8737
 Oluwanga (Translation)	Eshiokhulia Shiomumabwibwi	id=8738
 Sabinyi (Translation)	Amikap Koron	id=2847
 Setswana (Translation)	Difitlholo	id=2848
+SiLozi (Translation)	Mukushuko	id=20920
 Tunisian (Translation)	Fŧùr Iṡ-Ṡbèħ	id=15164

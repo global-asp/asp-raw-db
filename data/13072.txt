@@ -3,7 +3,7 @@ id:	13072
 title:	Sitselo
 author:	Nobuhle Nkosi and Thulane Mogwenya
 artist:	Wiehan de Jager
-lang:	siSwati
+lang:	Siswati
 level:	First paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/13072.png
@@ -17,11 +17,13 @@ P3	Indzaba yagcwala ummango wonkhe. Indvodza leyacala kuta ngumphatsi wemapulazi
 P4	Kwalandzela umphatsi wekugcina tilwane. Naye abelikhwa,  amusha futsi acebile. Lentfombatane yamtsandza. Kodvwa nakanikwa lesitselo wavele wasidla ngekuphutfuma. Naye wacoshwa!
 P5	Lendvodza leyalandzela beyinemhlaba lomnengi. Bekangumuntfu lotikhukhumetako abuye amubi. Lentfombatane yathandaza kutsi adle ahambe. Naye wanikwa sitselo kodvwa akamange asidle. Ngekuhamba kwesikhatsi,  intfombatane yacala kumncenga kutsi adle. Ngensimbi yesine,  wahlaselwa yindlala wase uyadla. Naye ngekunjalo wacoshwa.
 P6	Kwalandzela inkhosi,  beyitikhukhumeta,  igugile futsi iyimbi. Bekute layitsandzako emmangweni. Lentfombatane yafisa kutsi adle ahambe. Kwatsi nabayinika lesitselo,  yala kusidla. Yahlala lilanga lonkhe. Kutsite ngetikhatsi tensimbi yesitfupha,  wacela kuya ngasendlini yangasese.
-P7	Emva kwemalanga,  kwafika inkosana lenhle lecebile. Lentfombatane yambuka ngekumtsandza. Yamyisa ngasese,  yabuye yamncenga kutsi angasidli lesitselo. Wamnika titselo letincane kunaleti bekatinika lalabanye. Kutsite ngetikhatsi tasemini,  inkhosana bese ivele isidlile sitselo nayo yacoshwa. Intfombatane yakhala tinyembenti telulaka nekudvumateka.
-P8	Ngelilanga lelilandzelako,  kwafika umlimi. Beka ngumuntfu loliphuya futsi avilapha,  bekalijaha lelatiwa bantfu labanyenti ngekukhuluma kakhulu. Ute nje angumuntfu lone litsemba lekutsi utawushadiswa nalentfombatane. Intfombatane yamunika titselo letinyenti yase imcela kutsi adle ahambe.
-P9	Batali bakhe besekumele banikele ngentfombatane yabo kulelivila. Lentfombatane yancenga icela batali bayo kutsi kube nguyo letincumelako kepha bekute lebebangakwenta. Kwatsi umlimi asamiyisa ekhaya lakhe,  wahamba ahlabelela ingoma lemnandzi ashaya netandla. Linyenti lebantfu bema emgwacweni bafuna kubona letitsandzani.
-P10	Kulelinyenti lebantfu bekukhona netisebenti tenkhosana lecebile. Babitela lomlimi ngasese,  bamtsembisa imali netinkhomo nangabe atawuyekela lentfombatane. Ngaphandle kwekungabata,  wakhetsa kutsatsa imali kanye netinkhomo wahamba nato.
-P11	Letisebenti tagcokisa lentfombatane timphahla takanokusho tamyisa esigodlweni kuyo inkhosana. Kungakapheli sikhatsi lesingakanani,  batali bentfombatane babitwa,  kwahlelwa umcimbi wekuhlanganisa laba lababili emshadweni.
+P7	Wavunyelwa kuya. Nakabuya bekanukelela liphunga lalesitselo kani futsi tindzebe takhe temlomo betibovu tju! Sewudle lesitselo endlini lencane! Lentfombatane yakhululeka ngoba naye wacoshwa.
+P8	Emva kwemalanga,  kwafika inkosana lenhle lecebile. Lentfombatane yambuka ngekumtsandza. Yamyisa ngasese,  yabuye yamncenga kutsi angasidli lesitselo. Wamnika titselo letincane kunaleti bekatinika lalabanye. Kutsite ngetikhatsi tasemini,  inkhosana bese ivele isidlile sitselo nayo yacoshwa. Intfombatane yakhala tinyembenti telulaka nekudvumateka.
+P9	Ngelilanga lelilandzelako,  kwafika umlimi. Beka ngumuntfu loliphuya futsi avilapha,  bekalijaha lelatiwa bantfu labanyenti ngekukhuluma kakhulu. Ute nje angumuntfu lone litsemba lekutsi utawushadiswa nalentfombatane. Intfombatane yamunika titselo letinyenti yase imcela kutsi adle ahambe.
+P10	Utsite nakanikwa lesitselo,  wala kusidla. Lentfombatane beyilindze kabuhlungu. Imini yandlula,  nensimbi yesibili. Ngensimbi yesine,  umlimi wacela emanti. Lentfombatane yathandaza kutsi amane adle lesitselo,  wachubeka nekuthandaza watsi ubuka sikhatsi watfola sekuyinsimbi yesikhombisa. Lomlimi waphumelela kufeza sifiso sebatali bentfombatane yabo.
+P11	Batali bakhe besekumele banikele ngentfombatane yabo kulelivila. Lentfombatane yancenga icela batali bayo kutsi kube nguyo letincumelako kepha bekute lebebangakwenta. Kwatsi umlimi asamiyisa ekhaya lakhe,  wahamba ahlabelela ingoma lemnandzi ashaya netandla. Linyenti lebantfu bema emgwacweni bafuna kubona letitsandzani.
+P12	Kulelinyenti lebantfu bekukhona netisebenti tenkhosana lecebile. Babitela lomlimi ngasese,  bamtsembisa imali netinkhomo nangabe atawuyekela lentfombatane. Ngaphandle kwekungabata,  wakhetsa kutsatsa imali kanye netinkhomo wahamba nato.
+P13	Letisebenti tagcokisa lentfombatane timphahla takanokusho tamyisa esigodlweni kuyo inkhosana. Kungakapheli sikhatsi lesingakanani,  batali bentfombatane babitwa,  kwahlelwa umcimbi wekuhlanganisa laba lababili emshadweni.
 
 images:
 
@@ -43,6 +45,7 @@ translations:
 English (Original)	Fruit	id=2124
 French (Translation)	Les Fruits	id=10182
 Gurene (Translation)	Tiisi Wɔla	id=12666
+Kinyarwanda (Translation)	Imbuto	id=20282
 Kiswahili (Translation)	Matunda	id=8431
 Likpakpaanl (Translation)	Lisubil	id=18777
 Lugbarati (Translation)	Pati Efi	id=2334

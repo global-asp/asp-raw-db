@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=20918&d=0&a=1
+id:	20918
+title:	Amabara
+author:	Daniel Tuyisenge
+artist:	Rijuta Ghate
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20918.png
+desc:	Turibaza igituma hari ibidahuza amabara.
+
+page_text:
+
+P1	Kubera iki ikirere ari ubururu?
+P2	Ikirere si ubururu buri gihe. Siko bimeze? 
+P3	Kuki amababa  ari icyatsi kibisi?
+P4	Amababi yose siko asa. Siko bimeze?
+P5	Kubera iki imineke ari umuhondo?
+P6	Imineke ihiye ni umuhondo. Amaseri mabisi ni icyatsi kibisi.
+P7	Kubera iki imitaka ari umukara?
+P8	Imitaka yose si umutaka.
+P9	Kuki amaraso ari umutuku?
+P10	Amaraso abamo ubutare. Butuma asa n'umutuku.
+P11	Kubera iki umunyu wera?
+P12	Ibi sinabimenya!
+
+images:
+
+illustrations/pages/1926.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+English (Original)	Colours	id=1927
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+isiNdebele (Translation)	Ngitjela Nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele ... Ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kiswahili (Translation)	Taja Rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Maa (Translation)	Tólikíoki Tenákatá - Imúain	id=2818
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sepedi (Translation)	Mpotše...gona Bjale. Mebala	id=1936
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Mebala	id=11549
+Setswana (Translation)	Mpotse Mo ... Mebala E Farologaneng!	id=11164

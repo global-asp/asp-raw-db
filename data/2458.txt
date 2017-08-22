@@ -16,12 +16,14 @@ P2	Kale nga Namudira asigala hu hyalo yeŋene. Omuhasi omusahulu oyu balanganga 
 P3	Namudira gateranga ohutiina hu magombe ga semwana ni nyina abalirire obutahi.
 P4	Lulala ni gatiina hu magombe gafunayo ehirabo. Ehirabo ehyo hyali hita ehyene ehiŋoono ehyahuhuduha ohuŋwa ŋagati w'amagombe.
 P5	Nga Namudira aŋulira olwembo oluhenaho obutahi ni luŋwera mu hita. Ejanjaasi ly'owemba lyali hy'erya nyina. Olwembo lwali lwemba luuti.
-P6	Namudira gabugula ehita ng'atiina ni nahyo. Era ohuŋwa hulwo nga Namudira atiinanga n'ehita ehyo hiisi eyi gajanga ni himuhenaho obutahi.
-P7	Naye lulala ehigosi hyola hu hita hihye. Ni gaali n'ajiiye amaaji ehita hyamweŋunula nga higwa hwibale hyadiha.
-P8	Ng'aŋo Namudira ahotama asolosa ebijo by'ehita abiŋimba ŋalala atagiha ohwemba ati.
-P9	Ng'aŋo Namudira aŋulira ejanjaasi lya nyina ni riroma liiti,  "Mwana wefe. Yangala obutundu obwo obusigayeŋo oje odaŋiremo amaaji osaabe amagulu ohene olimbirire." Nga Namudira ahola ng'olu bamuloma. Gali alimbula obujo bw'ehita bwebbotiremo ehita ehindi.
-P10	Nga Namudira geyongera ohutiinanga n'ehita ehyo hiisi eyi gajanga. Hiisi aŋagabiitanga,  abaatu beŋunyanga era ni bebuusa amahulu g'ehita ehyo. Ehita ehyo ehyamaliholiho hyafunisanga Namudira hiisi ehi gendanga.
-P11	Ehita ehyo hyaŋanga Namudiira emirembe era olu gabanga ni nahyo gamanyanga ati abasaaye babe bali ni naye bamuhuumire.
+P6	"Namudira ee,  Namudira! Sooli weŋene nabuhoda omulala! Mwana wange omuhoda omulala! Ŋamba ehita hino omuhoda omulala! Gendanga ni nahyo hiisi eyi oja,  omuhoda omulala! Hihutusengaho obutahi omuhoda omulala!"
+P7	Namudira gabugula ehita ng'atiina ni nahyo. Era ohuŋwa hulwo nga Namudira atiinanga n'ehita ehyo hiisi eyi gajanga ni himuhenaho obutahi.
+P8	Naye lulala ehigosi hyola hu hita hihye. Ni gaali n'ajiiye amaaji ehita hyamweŋunula nga higwa hwibale hyadiha.
+P9	Ng'aŋo Namudira ahotama asolosa ebijo by'ehita abiŋimba ŋalala atagiha ohwemba ati.
+P10	"Bbaabba ni maama,  mubone ehita himbwagihiremo. Ehita ehimwapaye. Kolehi,  maama ni bbaabba? Mube b'ehisa mundage ehiraga ti muhiri ni nange."
+P11	Ng'aŋo Namudira aŋulira ejanjaasi lya nyina ni riroma liiti,  "Mwana wefe. Yangala obutundu obwo obusigayeŋo oje odaŋiremo amaaji osaabe amagulu ohene olimbirire." Nga Namudira ahola ng'olu bamuloma. Gali alimbula obujo bw'ehita bwebbotiremo ehita ehindi.
+P12	Nga Namudira geyongera ohutiinanga n'ehita ehyo hiisi eyi gajanga. Hiisi aŋagabiitanga,  abaatu beŋunyanga era ni bebuusa amahulu g'ehita ehyo. Ehita ehyo ehyamaliholiho hyafunisanga Namudira hiisi ehi gendanga.
+P13	Ehita ehyo hyaŋanga Namudiira emirembe era olu gabanga ni nahyo gamanyanga ati abasaaye babe bali ni naye bamuhuumire.
 
 images:
 
@@ -45,7 +47,7 @@ Ekegusii (Translation)	Omogano O’Khayanga Nekerandi Kiaye	id=3115
 English (Original)	Khayanga and Her Gourd	id=2107
 French (Translation)	La Gourde De Khayanga	id=9957
 Fulfulde (Translation)	Kayannga E Jollooru Muuɗum	id=10009
-Hausa (Translation)	Kayanga Da Gyanɗama	id=9992
+Hausa (Niger) (Translation)	Kayanga Da Gyanɗama	id=9992
 Kanuri (Translation)	Fanda-a Budanju-A	id=10035
 Kikamba (Translation)	Ngewa Ya Kayanga Na Kĩkuu Kyake	id=2395
 Kiswahili (Translation)	Khayanga Na Kibuyu Chake	id=7280

@@ -11,23 +11,26 @@ desc:	Hamisi na nyumuyo ko nɛ wo afɛu tade ko
 
 page_text:
 
-P1	Hamisi hia sukuu tade ehe. Etsɛ ngɔ lɛ kaya juanɔ.
-P2	Your translated text
-P3	Hamisi na nyumuyo ko nɛ wo afɛu atade ko. Hamisi susu ke,  "Shɛti kɔlɔ ngɛ fɛu saminya."
-P4	Your translated text
-P5	Hamisi ke,  "I na nɛ I ngɛ tade kaa nyumuyoɔ."
-P6	Your translated text
-P7	Hamisi ke,  "Hiɛ e ngɛ shɛti notsɛ kɔlɔ ɔmɛ juae." E ke,  "Papa i kpa mo pɛɛ mo he kake ha mi."
-P8	Your translated text
-P9	Papa ke,  "Hamisi,  esa nɛ ma he o yunifɔmi ɔ."
-P10	Your translated text
-P11	Papa ke,  "I be sika nɛ hiɛ ha jama shɛti ɔ."
-P12	Your translated text
-P13	Hamisi tsɛ wo sukuu tade ɔ hiɔ. E nya kpɛ ehe kaa sedanimi piɛ. Nɔ nɛ piɛ nɛ ma he shɛti!
-P14	Your translated text
-P15	E ji Hamisi manye ligbi! Shɛti ɔ te nɛ e ma hia nɛ?
-P16	Your translated text
+P1	Your translated text
+
+Another line
+P2	Hamisi hia sukuu tade ehe. Etsɛ ngɔ lɛ kaya juanɔ.
+P3	Your translated text
+P4	Hamisi na nyumuyo ko nɛ wo afɛu atade ko. Hamisi susu ke,  "Shɛti kɔlɔ ngɛ fɛu saminya."
+P5	Your translated text
+P6	Hamisi ke,  "I na nɛ I ngɛ tade kaa nyumuyoɔ."
+P7	Your translated text
+P8	Hamisi ke,  "Hiɛ e ngɛ shɛti notsɛ kɔlɔ ɔmɛ juae." E ke,  "Papa i kpa mo pɛɛ mo he kake ha mi."
+P9	Your translated text
+P10	Papa ke,  "Hamisi,  esa nɛ ma he o yunifɔmi ɔ."
+P11	Your translated text
+P12	Papa ke,  "I be sika nɛ hiɛ ha jama shɛti ɔ."
+P13	Your translated text
+P14	Hamisi tsɛ wo sukuu tade ɔ hiɔ. E nya kpɛ ehe kaa sedanimi piɛ. Nɔ nɛ piɛ nɛ ma he shɛti!
+P15	Your translated text
+P16	E ji Hamisi manye ligbi! Shɛti ɔ te nɛ e ma hia nɛ?
 P17	Your translated text
+P18	Your translated text
 
 images:
 
@@ -83,6 +86,7 @@ Sesotho (South Africa) (Translation)	Letsatsi La Tshepo La Lehlohonolo	id=20028
 Setswana (Translation)	Letsatsi La Ga Hamisi La Letlhogonolo	id=16594
 Setswana (Translation)	Letsatsi La Ga Kagiso La Letlhogonolo	id=17646
 SiLozi (Translation)	Lizazi La Litohonolo La Hamisi	id=18564
-siSwati (Translation)	Umfaniswano Wesikolo	id=13872
+Siswati (Translation)	Umfaniswano Wesikolo	id=13872
+Talen (Translation)	Hamisi Dab Somer Daar	id=20195
 Tshivenda (Translation)	Ḓuvha Ḽa Mashudu Ḽa Hamisi	id=18284
 Xitsonga (Translation)	Siku Ra Hamisi Ra Nkateko	id=18878

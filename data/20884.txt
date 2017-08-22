@@ -1,0 +1,74 @@
+url:	http://africanstorybook.org/reader.php?id=20884&d=0&a=1
+id:	20884
+title:	Animals Get Legs
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20884.png
+desc:	Maguru decides to give legs to all animals so they can enjoy walking like people.
+
+page_text:
+
+P1	Long ago, animals had no legs.
+P2	Maguru had given legs only to people.
+P3	Maguru decided to give legs to every animal.
+P4	The animals wanted legs to walk and run.
+P5	It was hard for them to crawl.
+P6	When the day came, different animals crawled to Maguru's house.
+P7	Maguru gave legs to animals and birds.
+P8	Some animals danced, while others fell down.
+P9	They said, "We will never crawl again."
+P10	Millipede was the last animal on the line.
+P11	Maguru gave Millipede all the remaining legs.
+P12	Millipede said happily, “I will move faster than others.”
+P13	After Millipede, Snake came begging, “Please give me some legs.”
+P14	Snake said to Maguru, “I over-slept.
+P15	Maguru did not find any legs for Snake.
+P16	From that day, Snake still waits to get legs.
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+Afrikaans (Translation)	Maguru Deel Bene Uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+English (Original)	Maguru Gives Legs	id=14415
+Hausa (Nigeria) (Translation)	Dabbobi Sun Samu Kafafu	id=21315
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+isiXhosa (Translation)	Umaguru Uphisa Ngemilenze	id=17576
+isiZulu (Translation)	Umaguru Uphisana Ngemilenze	id=16360
+isiZulu (Adaptation)	Umveli Unikela Ngemilenze	id=17461
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Kiswahili (Translation)	Maguru Apatiana Miguu	id=14412
+Kiswahili (Translation)	Wanyama Wapata Miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
+Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru O Fana Ka Maoto	id=20037
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Tshivenda (Translation)	Maguru U Ṋekedza Milenzhe	id=18285
+Xitsonga (Translation)	Maguru A Phakela Milenge	id=18870

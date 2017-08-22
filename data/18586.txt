@@ -15,12 +15,14 @@ P1	Aba nibakafundisha bandi.    Ishina lyabo niba Akinyi. Balintemwa saana.
 P2	Bakafundisha ba Akinyi balaatusambilisha ukubelenga alufabeti na bavawelo.    Kuti nalumbula ifiunda pamo nga a,  e,  i,  o,  u.
 P3	Bakafundisha ba Akinyi balaatusambilisha amalangi pamo nga ukukashika,  buluu,  katapakatapa,  yelo no kufita.
 P4	Panshita yakutusha,  bakafundisha balaatwiimbila mpaka twalala. Balaatwiimbila akalwiimbo akakutulaalikisha.
-P5	Balaatushimikila utushimi utwabaume abalumbuka pali Cimo.
-P6	Pali Cibili,  balaatushimikila utushimi utwabanakashi abalumbuka.
-P7	Pali Citatu,  balatushimikila utushimi pafya myendele.
-P8	Pali Cine,  balaatushimikila pafyabulimi.
-P9	Na pali Cisaano,  bakafundisha ba Akinyi balaatweeba ukushimika utushimi tweesu fwebene.
-P10	Bakafundisha beesu ebaishibisha ukusambilisha pali bakafundisha bonse.    Mfwaya ukuba nga bakafundisha ba Akanyi nganaakula.
+P5	Akalwimbo akakulalikisha komfwika ngeefi:    Weetulo twa golide isa mumenso Ukumwentula kuleekulolela nga washibuka Laaleeni mwebatemwikwa bandi,  mwilaalila Nalaamwimbila akalwimbo akasuma.
+P6	Bakafundisha ba Akinyi balishiba utushimi utwingi.    Balaatushimikila utushimi utwaapusana-pusana cila bushiku.
+P7	Balaatushimikila utushimi utwabaume abalumbuka pali Cimo.
+P8	Pali Cibili,  balaatushimikila utushimi utwabanakashi abalumbuka.
+P9	Pali Citatu,  balatushimikila utushimi pafya myendele.
+P10	Pali Cine,  balaatushimikila pafyabulimi.
+P11	Na pali Cisaano,  bakafundisha ba Akinyi balaatweeba ukushimika utushimi tweesu fwebene.
+P12	Bakafundisha beesu ebaishibisha ukusambilisha pali bakafundisha bonse.    Mfwaya ukuba nga bakafundisha ba Akanyi nganaakula.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

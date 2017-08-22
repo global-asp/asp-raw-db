@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=21057&d=0&a=1
+id:	21057
+title:	Phiri, Mmutla Le Dijana
+author:	Lorato Trok
+artist:	
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21057.png
+desc:	Fa sejana se kgona go belega
+
+page_text:
+
+P1	Phiri le Mmutla e ne e le ditsala.
+P2	Mmutla o ne a na le esele le sejana se sennye se se khibidu.
+P3	Fa Mmutla a ne a tlhoka sejana se segolo, o ne a adima sa ga Phiri.
+P4	Phiri o ne a batla go tlhatswa diaparo tsa gagwe mo sejaneng sa gagwe.
+P5	Phiri o ne a ya kwa go Mmutla. “Ke tlhoka sejana sa me,” a rialo.
+P6	“Sejana sa gago se bone lesea,” ga rialo Mmutla. Phiri a tsaya dijana.
+P7	Ka letsatsi lengwe, Mmutla a adima sejana sa ga Phiri gape.
+P8	Fa Phiri a boela sejana sa gagwe, Mmutla o ne a mo tshwaretse kutlobotlhoko
+P9	“Sejana sa gago se sule,” Mmutla a rialo. Phiri o ne a sa dumele se.
+P10	Phiri o ne a bitsa diphologolo tse dikgolo go fetsa kgang e.
+P11	“Ditshedi fa di kgona go belega, le go swa di a kgona.” Mmutla a tlhalosa.
+P12	Diphologolo tsa dumelana le Mmutla. Phiri o ile a latlhegelwa ke sejana.
+
+images:
+
+illustrations/pages/19188.png
+illustrations/pages/19185.png
+illustrations/pages/19186.png
+illustrations/pages/19187.png
+illustrations/pages/19188.png
+illustrations/pages/19189.png
+illustrations/pages/19190.png
+illustrations/pages/19191.png
+illustrations/pages/19192.png
+
+translations:
+
+Afaan Oromo (Translation)	Warabeesa, Illetif Gabate	id=20427
+Amharic (Translation)	ጅብ፣ ጥንቸልና ሳፋዎቻቸው	id=20481
+English (Translation)	Hyena, Hare And Their Basins	id=19194
+English (Adaptation)	Hyena, Hare And Their Basins	id=19764
+isiZulu (Translation)	Umpisi, Unogwaja Nezindishi	id=20722
+Kiswahili (Original)	Fisi, Sungura Na Karai	id=19193
+Kiswahili (Translation)	Fisi, Sungura Na  Beseni	id=20437
+Lusoga (Translation)	Wampiti, Wakayima Ni  Benseni	id=20400
+Ng’aturkana (Translation)	Ebuu, Apoo Ka Ng'atubwae	id=20416

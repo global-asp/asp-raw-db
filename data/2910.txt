@@ -4,7 +4,7 @@ title:	Lalela Umzimba Wami
 author:	Family Literacy Project
 artist:	Angie & Upesh
 lang:	isiZulu
-level:	First words
+level:	First sentences
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/2910.png
 desc:	Wake walalela lokho okutshelwa ngumzimba wakho?
@@ -18,7 +18,7 @@ P4	Okokuqala kumele ngithule,  ngithulisise. Ukuze ngilale umzimba wami.
 P5	Yebo,  manje ngiyawuzwa umoya wami. Donsakhipha donsakhipha.
 P6	Futhi ngingawenza umoya ube nomsindo Sssssssssssssss! Futhi ngingawenza ube phansi Mmmmmmmm.
 P7	Manje ngiyayizwa inhliziyo yami ishaya! Dudum,  dudum,  dudum.
-P8	Ngingayenza inhliziyo yami ishaye ngamandla futhi ngokushesha? Yebo,  ngingagxumagxuma kufikela kumashumi amabili.
+P8	Ngingayenza inhliziyo yami ishaye ngamandla futhi ngokushesha? Yebo, nginga gxumagxuma kufikela kumashumi amabili.
 P9	Awubheke inhliziyo yami isishaya ngamandla. Dudum,  dudum,  dudum!
 P10	Futhi uma ngibeka iminwe yami esihlakaleni,  ngiyakuzwa ukushaya kwegazi! Ngabe iminwe iyezwa?
 P11	Futhi ngiyakwazi ukuzizwa ngihleka. Haha haha haha hahahha!
@@ -57,11 +57,11 @@ translations:
 English (Original)	Listen to my Body	id=13202
 English (Adaptation)	Listen to my Body	id=13558
 isiXhosa (Translation)	Mamela Kumzimba Wam	id=2933
-isiXhosa (Translation)	Mamela Umzimba Wam 2	id=14960
+isiXhosa (Translation)	Mamela Umzimba Wam	id=14960
 Kiswahili (Translation)	Nausikiliza Mwili Wangu	id=15713
 Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
 Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
 Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
 Maa (Translation)	Ainining Osesen Lai	id=2927
 Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
-Sesotho (Lesotho) (Translation)	Mamela Mmele Oa Hao	id=2031
+Sesotho (Lesotho) (Translation)	Mamela Mmele Oaka	id=2031

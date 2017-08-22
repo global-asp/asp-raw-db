@@ -7,15 +7,15 @@ lang:	Lusoga
 level:	First sentences
 lic:	Creative Commons: Attribution-Non Commercial 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/1955.png
-desc:	Kunsulo eyo mu kibira tubala ensolo edhija okunhwa amaadhi. Ologhooza kiki ekibaawo nga empologoma eidhye?
+desc:	Ku nsulo eyo mu kibira tubala ensolo edhija okunhwa amaadhi. Ologhooza kiki ekibaawo nga empologoma eidhye?
 
 page_text:
 
 P1	Ndovu ndala yaja okunhwa amaadhi.
 P2	Ntwiga ibiri dhaaja okunhwa amaadhi.
 P3	Mbogo isatu na binhonhi bina byaaja okunhwa amaadhi.
-P4	Mpongo itaanu na mbiidhi enkambwe mukaaga dhaaja okunwa amaadhi.
-P5	Bikere musanvu na byanhanda munaana byaali biri mu maadhi.
+P4	Mpongo itaanu na mbiidhi enkambwe mukaaga dhaaja okunhwa amaadhi.
+P5	Bikere musanvu na byanhanda munaana byaali bili mu maadhi.
 P6	Ntulege mwenda dhoona dhaaja okunhwa amaadhi.
 P7	Mpologoma ndala yaidha yoona okunhwa amaadhi.
 P8	Bazira bameka abaasigala nga bali kunhwa amaadhi?
@@ -45,3 +45,4 @@ Lunyole (Translation)	Ohubala	id=1954
 Sepedi (Translation)	Go Bala	id=1956
 Sesotho (Lesotho) (Translation)	Ho Bala	id=1958
 Setswana (Translation)	Go Bala	id=2807
+Talen (Translation)	Kaalog	id=20178

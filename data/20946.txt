@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=20946&d=0&a=1
+id:	20946
+title:	Omuwala Omuto
+author:	Stellah Nakasango
+artist:	Wiehan de Jager, Sarah Bouwer, Padmanabha, Brandan Reynolds and blackmoondev.com
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20946.png
+desc:	Olugero luno
+
+page_text:
+
+P1	Omuwaala omuto yatumibwa jaaja we eyabeera nga emabega we kibiira yagendayo nga musanyuufu.
+P2	weyatuka mukiibira ya saanga  ebuzi engayanvu, kuba waliyo olukiiko lwe nsoolo mukiibira.
+P3	We yatuuka makati gekibiira,yasanga ebisoolo bingi yaduka nyoo nga wawogana.
+P4	we yafuluma mukibiira yasaanga ebi nyonyi bingi naduka nga wawogana. jaaja we kwekumuwulira.
+P5	Jaaja we yayogeera ne mukaziwe. Mumangu ago negenda ne mbwa nze okumulaba. yamusanga akooye.
+P6	Baatuka ewaaka yayiingira nabuuza abaana abalara nalya emere.weyamala nayoogera ku kyaali kibadewo mukubo.
+P7	Weyamaala obabulira bamuwabula obutadamu kuyita mukibira yeka. yagenda musayufu na zanyaa na baana abalara.
+P8	Teya daamu kuyiita mukibiira nga ali yeeka.
+
+images:
+
+illustrations/pages/19826.png
+illustrations/pages/19826.png
+illustrations/pages/13351.png
+illustrations/pages/10233.png
+illustrations/pages/292.png
+illustrations/pages/17295.png
+illustrations/pages/13930.png
+illustrations/pages/14062.png
+illustrations/pages/2039.png
+
+translations:
+
+Dhopadhola (Translation)	Nyako Mathini	id=20970
+English (Original)	A Little  Girl 	id=20550
+Hausa (Nigeria) (Translation)	Wata Karamar Yarinya	id=20759
+Kinyarwanda (Translation)	Umukobwa Muto	id=20962
+Runyoro (Translation)	Akaisiki Akato	id=20642

@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=21204&d=0&a=1
+id:	21204
+title:	Ingona Yari Ishonje
+author:	Daniel Tuyisenge
+artist:	Wiehan de Jager
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21204.png
+desc:	Ingona yari ishonje yagiye yerekeza ku mazi.
+
+page_text:
+
+P1	Kera hariho ingona yari ishonje.
+P2	Ijya gushaka icyo kurya, buke buke idatera urusabu.
+P3	Bucece.
+P4	CAKI! Ingona iracakira!
+P5	Nyuma yabwo inzara irashira, kandi irishima.
+P6	Kugeza ubwo itongeye kugira inzara.
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Afrikaans (Translation)	Die Honger Krokodil	id=11063
+Arabic (Translation)	التمساح الجائع	id=18188
+English (Original)	The Hungry Crocodile	id=7043
+French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
+Luganda (Translation)	Ggonya Omuyala.	id=9664
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
+Portuguese (Translation)	O Crocodilo Faminto	id=18889

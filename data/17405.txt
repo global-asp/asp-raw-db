@@ -1,13 +1,13 @@
 url:	http://africanstorybook.org/reader.php?id=17405&d=0&a=1
 id:	17405
-title:	Tingi and the Cows - Colouring Book
-author:	Ingrid Schechter
+title:	Tingi And The Cows - Colouring Book
+author:	Ingrid Schechter and Ingrid Schechter
 artist:	Ingrid Schechter
 lang:	English
 level:	First sentences
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/17405.png
-desc:	Grandmother saves Tingis life.
+desc:	In this story Grandmother saves Tingis Life.
 
 page_text:
 
@@ -49,6 +49,7 @@ isiNdebele (Translation)	Ubongani Neenkomo	id=13046
 isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
 isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
 isiZulu (Translation)	Utingi	id=15385
+Kinyarwanda (Translation)	Karisa N'inka	id=20255
 Luganda (Translation)	Tingi N’Ente	id=8343
 Portuguese (Translation)	Tingi E Os Bois	id=7442
 Portuguese (Translation)	Tingi E As Vacas	id=18891

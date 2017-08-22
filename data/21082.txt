@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=21082&d=0&a=1
+id:	21082
+title:	Gyara Ko Barna 
+author:	Rabiatu Ahmad
+artist:	Marleen Visser, Natalie Propa and Silva Afonso and Vusi Malindi
+lang:	Hausa (Nigeria)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21082.png
+desc:	Bahaushe kan ce
+
+page_text:
+
+P1	An dauki lokaci ana tsamanin saukar ruwa sama, don haka jama'a  suka taru a kofar gidan Liman don a fita rokon ruwa.
+P2	Yayin da Liman ya fito ya roki Allah ya ba da damina mai albarka, da kuma fatan samun amfani gona mai kyau.
+P3	Washegari yara na wasa a waje,sai gagarimin hadari ya taso daga gabas, da alamun za a samu ruwa.
+P4	Ganin cewa an yi rokon ruwa, ga shi kuma hadarin ya hadu sosai don haka mahaifiyar yaran ta ce, su shigo gida.
+P5	Daga nan sai aka tsuge da ruwa
+P6	Mun yi farin cikin samun ruwan farko, sai dai murna ta koma ciki, don ruwan ya dade bai tsagaita ba.
+P7	Ruwa ya malale koina, har ya tafi da gadar da ta hada kauyenmu  da cikin birni.
+P8	Gyara ya zamo anoba a gare mu,domin ruwa ya mamaye gidaje da dama.
+P9	Jama'ar  karkararmu sun shiga damuwa,kasancewar ruwan ya shafe gonaki da gidajensu, ga shi uwa uba ma gadar garin ta rushe.
+P10	Wani abin ban tsoro kuma sai ga Kada na iyo a saman ruwa, wannan ya sa jama'a suka kidime gaba daya.
+P11	Don haka duk wata harka ta tsaya, yara  ba damar zuwa makaranta, sakamakon yadda ruwan ya mamaye koina
+P12	Wannan annoba ta haifar da damuwa ga  limami tare da al'ummar garin.
+
+images:
+
+illustrations/pages/10980.png
+illustrations/pages/10625.png
+illustrations/pages/10619.png
+illustrations/pages/12877.png
+illustrations/pages/12885.png
+illustrations/pages/14604.png
+illustrations/pages/7964.png
+illustrations/pages/10075.png
+illustrations/pages/16430.png
+illustrations/pages/14605.png
+illustrations/pages/10581.png
+illustrations/pages/7963.png
+illustrations/pages/12024.png
+
+translations:
+
+English (Original)	A Curse or a Blessing?	id=13317
+Hausa (Nigeria) (Translation)	Annoba Ko Alheri?	id=20852
+Kinyarwanda (Translation)	Umucheno Changa Umugisha?	id=20942
+Kumam (Translation)	Ilam Amotoko Winyo	id=20808
+Lumasaaba (Translation)	Shisirani Namwe Ihabi?	id=20734
+Runyankore (Translation)	Omucheeno Oba Omugyisha	id=20650

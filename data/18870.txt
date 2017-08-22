@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=18870&d=0&a=1
 id:	18870
-title:	Maguru a Phakela Milenge
+title:	Maguru A Phakela Milenge
 author:	Mkomati John Mongwe
 artist:	Wiehan de Jager
 lang:	Xitsonga
@@ -15,7 +15,7 @@ P1	Khale ka khaleni,  swihari a swi nga ri na milenge. Hinkwaswo a swi kasa emis
 P2	I vanhu ntsena lava a va ri na milenge hikuva Maguru a va nyikile yona.
 P3	Siku rin'wana,  Maguru u tekile xiboho xa ku nyika xihari xin'wana na xin'wana milenge. U rhendzelekile na tiko a swi tivisa hi xitwarisarito. A a lava leswaku xihari xin'wana na xin'wana xi famba ku fana na munhu.
 P4	Swihari a swi tsakile loko swi twa leswaku swi ta nyikiwa milenge. Xihari xin'wana na xin'wana a xi lava ku va na milenge ku endlela leswaku xi ta kota ku famba na ku tsutsuma. Swi yimbelela,  swi tlhengusa micila ya swona na ku kapakapisa timpapa ta swona.
-P5	Swihari swi hlanganile kutani swi vulavula hilaha a swi tikeriwa hakona eka ku kasa.    Misava a yi hala makhwiri ya swona. Milenge na yona yi ta swi pfuna ku kota ku yima na ku vona ekule,  ku fana na leswi swi endliwaka hi vanhu.
+P5	Swihari swi hlanganile kutani swi vulavula hilaha a swi tikeriwa hakona eka ku kasa. Misava a yi hala makhwiri ya swona. Milenge na yona yi ta swi pfuna ku kota ku yima na ku vona ekule, ku fana na leswi swi endliwaka hi vanhu.
 P6	Loko siku ri fika,  swihari swo tala swi kasile ku ya endlwini ya Maguru ku ya kuma milenge ya swona. Tinhutlwa,  tinghala,  tindlopfu,  makondlo na swinyenyana swi forile layeni ivi swi yimela ku nyikiwa milenge.
 P7	Xihari xin'wana na xin'wana xi nyikiwile mune wa milenge. Swinyenyana xin'wana na xin'wana xi nyikiwile milenge yimbirhi.
 P8	Swihari a swi languteka ku hambana loko swi ri ni milenge. Swin'wana swi cincile hi ntsako. Swin'wana swi vile ni ku tikeriwa loko swi famba ivi swi wela ehansi.
@@ -50,18 +50,25 @@ illustrations/pages/13919.png
 
 translations:
 
+Afrikaans (Translation)	Maguru Deel Bene Uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
 ChiTonga (Translation)	Maguru Upa Maulu	id=18649
 CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
 English (Original)	Maguru Gives Legs	id=14415
+English (Adaptation)	Animals Get Legs	id=20884
+Hausa (Nigeria) (Translation)	Dabbobi Sun Samu Kafafu	id=21315
 IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
 isiXhosa (Translation)	Umaguru Uphisa Ngemilenze	id=17576
 isiZulu (Translation)	Umaguru Uphisana Ngemilenze	id=16360
 isiZulu (Adaptation)	Umveli Unikela Ngemilenze	id=17461
 Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
 Kiswahili (Translation)	Maguru Apatiana Miguu	id=14412
+Kiswahili (Translation)	Wanyama Wapata Miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
 Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
 Sesotho (South Africa) (Translation)	Maguru O Fana Ka Maoto	id=20037
-Sesotho (South Africa) (Translation)	Maguru Deel Bene Uit	id=20083
 Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
 SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
 Tshivenda (Translation)	Maguru U Ṋekedza Milenzhe	id=18285

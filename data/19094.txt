@@ -11,18 +11,18 @@ desc:	Wasichana wanne wanaenda kuchuma matunda mstuni. Watatu wanapomdanganya mw
 
 page_text:
 
-P1	Siku moja Akadeli,  Lucia,  Acharait na Maria walienda msituni kutafuta matunda. Walishikana mikono kuvuka mto mkubwa uliokuwa karibu na msitu.
+P1	Siku moja Akadeli, Lucia, Acharait na Maria walienda msituni kutafuta matunda. Walishikana mikono kuvuka mto mkubwa uliokuwa karibu na msitu.
 P2	Waliufikia mti uliojaa matunda mabivu. Walikubaliana kuukwea mti ule na kuyachuma matunda wakiwa wameyafumba macho yao.
-P3	Hata hivyo,  Lucia,  Acharait na Maria hawakuyafumba macho yao. Akadeli pekee alifanya hivyo alipokuwa akichuma matunda.
-P4	Wakati wa kuyafumbua macho,  Akadeli alikuta kwamba alikuwa ameyachuma matunda mabichi pekee.
-P5	Lucia,  Acharait na Maria walimcheka Akadeli kisha wakaondoka kwenda zao nyumbani. Akadeli aliyatupa matunda yale mabichi akaanza kuchuma mabivu.
-P6	Muda mfupi baadaye,  Akadeli alikijaza kikapu chake kwa matudna mabivu. Alianza kuuvuka mto ule mkubwa peke yake.
-P7	Akadeli alipokuwa katikati,  kikapu chake kilimponyoka na kuanguka majini. Alikasirika sana akaanza kulia.
-P8	Kabla kuvuka ng'ambo,  Akadeli alimwona samaki ukingoni mwa mto. Alimchukuwa.
-P9	Alipokuwa amembeba samaki yule,  mwewe alimnyang'anya na kuruka naye.
+P3	Hata hivyo, Lucia, Acharait na Maria hawakuyafumba macho yao. Akadeli pekee alifanya hivyo alipokuwa akichuma matunda.
+P4	Wakati wa kuyafumbua macho, Akadeli alikuta kwamba alikuwa ameyachuma matunda mabichi pekee.
+P5	Lucia, Acharait na Maria walimcheka Akadeli kisha wakaondoka kwenda zao nyumbani. Akadeli aliyatupa matunda yale mabichi akaanza kuchuma mabivu.
+P6	Muda mfupi baadaye, Akadeli alikijaza kikapu chake kwa matudna mabivu. Alianza kuuvuka mto ule mkubwa peke yake.
+P7	Akadeli alipokuwa katikati, kikapu chake kilimponyoka na kuanguka majini. Alikasirika sana akaanza kulia.
+P8	Kabla kuvuka ng'ambo, Akadeli alimwona samaki ukingoni mwa mto. Alimchukuwa.
+P9	Alipokuwa amembeba samaki yule, mwewe alimnyang'anya na kuruka naye.
 P10	Akadeli aliona unyoya mmoja mrefu uliokuwa umeachwa na mwewe. Ingawa alikasirika,  aliuchukuwa ule unyoya na kuendelea na safari yake.
 P11	Akadeli aliwapita watu wakisherehekea harusi ya kitamaduni. Wachezaji walivalia nyasi vichwani badala ya manyoya kama ilivyokuwa desturi. Waliuchukuwa ule unyoya wakampatia fahali mkubwa!
-P12	Akadeli alifika nyumbani na fahali wake. Wazazi na jamaa zake walifurahi sana. Lucia,  Acharait na Maria walisikitaka kumdanganya Akadeli. Ilikuwa siku ya bahati kwa Akadeli!
+P12	Akadeli alifika nyumbani na fahali wake. Wazazi na jamaa zake walifurahi sana. Lucia, Acharait na Maria walisikitaka kumdanganya Akadeli. Ilikuwa siku ya bahati kwa Akadeli!
 
 images:
 
@@ -42,4 +42,4 @@ illustrations/pages/19017.png
 
 translations:
 
-English (Translation)	Akadeli’S Lucky Day	id=19095
+English (Translation)	Akadeli's Lucky Day	id=19095

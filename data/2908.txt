@@ -17,7 +17,8 @@ P3	Akarer Kwenik.
 P4	Ataŋŋ.
 P5	Apuci ani kot.
 P6	Asite ani torokok.
-P7	Ye miite yeyamwani kukworane.
+P7	Amune sayisye ani swama kot.
+P8	Ye miite yeyamwani kukworane.
 
 images:
 
@@ -42,8 +43,7 @@ Lugbarati (Translation)	Ma Adri Gaa Ovuo Ru Ri	id=2901
 Lugbarati (Official) (Translation)	Ma Adrigaaovuoruri	id=8796
 Lumasaaba (Translation)	Waandaaye Umukyeekhe Umutoro	id=2903
 Lunyole (Translation)	Muto Yange Omudoto	id=2904
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17471
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17472
+Lunyole (Translation)	 	id=21094
 Lusoga (Translation)	Lwaki Nkola Zenka?	id=2905
 Maa (Translation)	Olotí Aláshe Túrúáí	id=2897
 Ng’aturkana (Translation)	Lokaito Loochi Lokalany	id=2906

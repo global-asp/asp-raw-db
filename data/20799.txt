@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=20799&d=0&a=1
+id:	20799
+title:	'yar Da Ake Kauna
+author:	Muhammad Umar
+artist:	Brian Wambi
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20799.png
+desc:	Tukunyar da Ntaba ta fi kauna ta fashe
+
+page_text:
+
+P1	Wannan ita ce Natabo. Ta na da 'yan uwa maza guda shida.
+P2	Iyayenta sun ba ta karamar tukunya. Ta na son ta sosai.
+P3	Wata rana 'yan'uwanta suka fasa mata tukunyar.
+P4	Natabo ba ta ga tukunyarta ba. Ta yi kuka.
+P5	Natabo ta yi tafiyarta. Ta hau kan doguwar bishiya.
+P6	Iyayenta suka ganta. Suka ce da ita "Yi hakuri sauko kas"
+P7	"Yan'uwanta suna waka, yi hakuri sauko kas.
+P8	Natabo ta maida wakarsu abin dariya.
+P9	Sannan abokan Natabo suka zo. Yi hakuri sauko kasa. Sai ta rera waka.
+P10	Abokan Natabo suka rinka rera waka har sai da ta sauko daga kan bishiya.
+P11	Abokan suka tafi zuwa gida tare.
+P12	Kowa yana farin cikin dawowar Natabo gida. Natabo ta samu sabuwar tukunya.
+
+images:
+
+illustrations/pages/18758.png
+illustrations/pages/18757.png
+illustrations/pages/18758.png
+illustrations/pages/18759.png
+illustrations/pages/18760.png
+illustrations/pages/18761.png
+illustrations/pages/18762.png
+illustrations/pages/18763.png
+illustrations/pages/18764.png
+illustrations/pages/18765.png
+illustrations/pages/18766.png
+illustrations/pages/18767.png
+illustrations/pages/18768.png
+
+translations:
+
+Afaan Oromo (Translation)	Jallatamtu Intaala	id=20419
+Amharic (Translation)	ተወዳጇ ልጅ	id=20446
+Dhopadhola (Translation)	Nyari Jo Mumari	id=20631
+English (Original)	Beloved Daughter	id=18769
+English (Adaptation)	Beloved Daughter	id=19752
+Hausa (Nigeria) (Translation)	'yar Da Ake Kauna	id=20894
+isiZulu (Translation)	Wohe, Ngebhodwe Lami!	id=20717
+Kiswahili (Translation)	Binti Mpendwa	id=20431
+Kumam (Translation)	Atin Nyako Ame Komaro 	id=20606
+Luganda (Translation)	Omwana Omwagalwa	id=18770
+Luganda (Translation)	Omuwala Ayagalwa Ennyo.	id=19598
+Lumasaaba (Translation)	Umukaana Uganiwa Nabi	id=20928
+Lusoga (Translation)	Omughala Omwende	id=21340
+Ng’aturkana (Translation)	Ikoku Na Aminae Lokojokon	id=20390
+Rufumbira (Translation)	Umukobwa Ukunzwe	id=20930
+Setswana (Translation)	Morwadi Yo O Rategang	id=21157

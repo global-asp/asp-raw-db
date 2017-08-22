@@ -16,12 +16,14 @@ P2	Khayanga o ile a ya go dula le koko wa gagwe,  Rosa. Koko Rosa o be a lokile 
 P3	Khayanga o be a fela a etela mabitla a batswadi ba gagwe gomme a ba botša ka mohlako wa gagwe.
 P4	Ka tšatši le lengwe o rile a le gona kua mabitleng,  nkgo ye botsana ya tšwelela mo mabitleng ao a batswadi ba gagwe!
 P5	Nkgo yeo ya thoma go opela košana ye bosana yao gomotša. Khayanga o ile a kwa gore lentšu leo le opelago ke la mohu mmagwe. Košana ya re;.
-P6	Khayanga o ile a rwala nkgo gohle mo a yago. A robala le yona,  a sepela le yona. Nkgo ya mo thuša go kwa lerato le hlokomelo ya batswadi ba gagwe.
-P7	Ka tšatši le lengwe,  Khayanga o rile a ya go kga meetse nokeng ka nkgo ya gagwe,  ya wa ya thubega! Pelo ya Khayanga le yona ya thubega ka wona motsotso oo.
-P8	Khayanga a topa dikgapetlana tša nkgo a di swara ka matsogwana gomme a opela are;.
-P9	Khayanga a kwa lentšu la mmagwe lere; "Ngwana rena,  topa dikgapetlana tšeo di šetšego. Ekga meetse ka tšona o hlape maoto. Ge o fetša o tswalele mahlo." Khayanga o ile a dira bjalo gomme ka pelapela nkgo yela ya go thubega ya loka gape!
-P10	Khayanga a tšwela pele ka go rwala nkgo ya gagwe gohle mo a yago. Mo a fetago,  batho ba botšišana,  "Naa ke nkgo ye bjang ye?" Ka thušo ya nkgo yeo ya gagwe,  Khayanga a hwetša tšohle tšeo a di nyakago.
-P11	Ka thušo yeo ya nkgo,  Khayanga a tseba gore batswadi ba gagwe ba mo hlokometše,  le gore ga go selo se sebe seo se ka mo diragallago.
+P6	Khayanga,  ee,  Khayanga! Ngwana wa rena wa morategi! Gao tee,  morategi! Tšea nkgo ye,  morategi! Oe rwale gohle mo o yago,  morategi! O tle o gomotšege,  morategi!
+P7	Khayanga o ile a rwala nkgo gohle mo a yago. A robala le yona,  a sepela le yona. Nkgo ya mo thuša go kwa lerato le hlokomelo ya batswadi ba gagwe.
+P8	Ka tšatši le lengwe,  Khayanga o rile a ya go kga meetse nokeng ka nkgo ya gagwe,  ya wa ya thubega! Pelo ya Khayanga le yona ya thubega ka wona motsotso oo.
+P9	Khayanga a topa dikgapetlana tša nkgo a di swara ka matsogwana gomme a opela are;.
+P10	Mme le Tate,  Lea bona nkgo e thubegile. Nkgo yeo le mphileng. Ke direng,  Mme le Tate? Nkweleng bohloko le mpontšheng seka le nthuše. Gore le sa nale nna.
+P11	Khayanga a kwa lentšu la mmagwe lere; "Ngwana rena,  topa dikgapetlana tšeo di šetšego. Ekga meetse ka tšona o hlape maoto. Ge o fetša o tswalele mahlo." Khayanga o ile a dira bjalo gomme ka pelapela nkgo yela ya go thubega ya loka gape!
+P12	Khayanga a tšwela pele ka go rwala nkgo ya gagwe gohle mo a yago. Mo a fetago,  batho ba botšišana,  "Naa ke nkgo ye bjang ye?" Ka thušo ya nkgo yeo ya gagwe,  Khayanga a hwetša tšohle tšeo a di nyakago.
+P13	Ka thušo yeo ya nkgo,  Khayanga a tseba gore batswadi ba gagwe ba mo hlokometše,  le gore ga go selo se sebe seo se ka mo diragallago.
 
 images:
 
@@ -45,7 +47,7 @@ Ekegusii (Translation)	Omogano O’Khayanga Nekerandi Kiaye	id=3115
 English (Original)	Khayanga and Her Gourd	id=2107
 French (Translation)	La Gourde De Khayanga	id=9957
 Fulfulde (Translation)	Kayannga E Jollooru Muuɗum	id=10009
-Hausa (Translation)	Kayanga Da Gyanɗama	id=9992
+Hausa (Niger) (Translation)	Kayanga Da Gyanɗama	id=9992
 Kanuri (Translation)	Fanda-a Budanju-A	id=10035
 Kikamba (Translation)	Ngewa Ya Kayanga Na Kĩkuu Kyake	id=2395
 Kiswahili (Translation)	Khayanga Na Kibuyu Chake	id=7280

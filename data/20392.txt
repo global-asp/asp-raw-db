@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=20392&d=0&a=1
+id:	20392
+title:	Akidodok Ka Emun
+author:	Simon Ipoo
+artist:	Rob Owen
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20392.png
+desc:	Itatami poyo naga kidiama epaalonu loechamit eyakar arimatoi.
+
+page_text:
+
+P1	Arai kolong akidodok ka emun ng'ipaalon.
+P2	Tama akidodok, "Ibwa apana apeyo nawi aitokang."
+P3	"Ejok noi," tatachu Emun. "Kiyok ng'ae ng'auyei yok?"
+P4	"Edong'i ayong eyok ng'auyei kus," tatachu ekadokot.
+P5	Abu Akidodok kileleb ng'ikong  lochwee ainaar itokeng.
+P6	Kiswokakis Akidodok ka Emun arotokin. Todeng'o namoni.
+P7	Apotu kiriamun ka asung'sung ang'ikunyuko. Tobul Emun.
+P8	Abu Akidododok kigagaa Emun ani ang'ikunyuko.
+P9	Todolo kechi nawi aitokeng Akidodok enyamit akoro noi.
+P10	Dio kilataros ering'a idarito akimuj nanyamat.
+P11	" Ekone, tonyou kiboikin," tolimoki akidodok emun.
+P12	Tama emun eboikin, nakaneni pe arai ng'esi akidodok.
+P13	"Nyapedori ayong eboikin kwa Akidodok," tama Emun.
+P14	Tong'er akidodok akiirar ng'akiro ng'una.
+P15	"Nyinupit iyong ng'akiro kang. Alosi ayong nawi."
+P16	Tong'o Emun. "Abala kolong kori erai Akidodok epae!"
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog And Snake	id=19762
+isiZulu (Translation)	Uxoxo Nonyoka	id=20718
+Kinyarwanda (Translation)	Inzoka N' Igikeri	id=20763
+Kiswahili (Translation)	Chura Na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere Ni Wamusota	id=20398
+Lusoga (Translation)	Akalenga N’Omusta	id=21276
+Setswana (Translation)	Segwagwa Le Noga	id=21160

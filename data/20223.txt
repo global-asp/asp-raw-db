@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=20223&d=0&a=1
+id:	20223
+title:	Inkende N'ingona
+author:	Fulgence Ntibatekereza
+artist:	
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20223.png
+desc:	Uburyo inkende yirwanyeho ngo itaribwa ningona.
+
+page_text:
+
+P1	Inkende ihurira n'ingona ku mazi.
+P2	Inkende ibaza ingona iti "uba he?"
+P3	Ingona irayisubiza iti "mba mu mazi."
+P4	Ingona ibaza inkende iti "wowe uba he?" Mba mu biti.
+P5	Ingona irayibaza iti "ushobora koga?" Sinabishobora.
+P6	Ingona iti "ndakwigisha turi inshuti, ntugire ubwoba."
+P7	Inkende iti "marume ararwaye, ashaka inyama."
+P8	Inkende iratitira kuko ingona ishaka kuyirya.
+P9	Inkende ishaka uburyo yayicika.
+P10	Inkende iratekereza iti.
+P11	"Ndaguha umutima wanjye ku bwe."
+P12	Inkende iti "umutima wanjye uri mu giti ku butaka."
+P13	Ingona iti "urawumpa?" Inkende iti "yego rwose."
+P14	Ingona yoga ijya ku butaka. Inkende ihita ijya mu giti.
+P15	Ingona iti "uri indyarya nta bucuti bwawe."
+P16	Inkende iti "ntabwo turi incuti, washakaga kundya."
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri Da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	Unkawu Nongwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kiswahili (Translation)	Sokwe Na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343

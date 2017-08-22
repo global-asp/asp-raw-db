@@ -1,0 +1,69 @@
+url:	http://africanstorybook.org/reader.php?id=20438&d=0&a=1
+id:	20438
+title:	Anansi Mvivu
+author:	Brigid Simiyu
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20438.png
+desc:	Sababu ya buibui kuwa na miguu mirefu myembamba.
+
+page_text:
+
+P1	Anansi ni buibui mvivu.
+P2	Anapenda chakula, lakini kwa kuwa ni mvivu, hapiki.
+P3	Anansi anamtembelea Sungura. 
+
+Anomba wale mboga pamoja.
+P4	“Nisaidie kukoroga,” Sungura anasema. 
+
+Anansi ni mvivu.
+P5	“Nitarudi baadaye,” Anansi anasema.
+P6	Anafunga utando mguuni na kwenye chungu cha Sungura.
+P7	“Vuta utando mboga zitakapoiva.” Anansi anasema.
+P8	“Kima, naomba nile maharage nanyi?” "Tusaidie kazi.”
+P9	“Nitarudi,” Anansi anasema. Anafunga utando zaidi.
+P10	“Ngiri, tule pamoja viazi?” “Nisaidie kuvitayarisha.”
+P11	“Nitarudi,” Anansi anasema. Anafunga utando zaidi.
+P12	Hatimaye, kila mguu wa Anansi umefungwa kwenye chungu.
+P13	Anansi anavutwa kwenye mguu wa 2. Halafu mguu wa 3.
+P14	Miguu yote 8 inavutwa! “Acheni kuvuta!” Anansi Analia.
+P15	Hakuna anayemsikia Anansi. Utando unakatika mmoja mmoja.
+P16	Ndiyo sababu buibui wote wana miguu mirefu myembamba.
+
+images:
+
+illustrations/pages/1069.png
+illustrations/pages/1070.png
+illustrations/pages/1071.png
+illustrations/pages/1072.png
+illustrations/pages/1073.png
+illustrations/pages/1074.png
+illustrations/pages/1075.png
+illustrations/pages/1076.png
+illustrations/pages/1069.png
+
+translations:
+
+Afaan Oromo (Translation)	Sharaariti Dadhaba	id=20428
+Amharic (Translation)	ሰነፉ አናንሲ	id=20489
+English (Original)	Lazy Anansi	id=1077
+English (Adaptation)	Lazy Anansi	id=19765
+French (Translation)	Anansi, La Fainéante	id=10850
+Hausa (Nigeria) (Translation)	Anansi Malalaci	id=20520
+isiZulu (Translation)	Anansi Ovilaphayo	id=11195
+isiZulu (Translation)	Ivila Elingu-Anansi	id=20724
+Kikamba (Translation)	Kitumi Kya Anansi Kwithiwa Na Maau Matheke Nyanya	id=2068
+Kiswahili (Translation)	Jinsi Anansi Alivyopata Miguu Minane Myembamba	id=2069
+Luganda (Translation)	Nabbubi Omunafu	id=2073
+Luganda (Translation)	Lwaki Nabbubi Erina Obugulu Munaana Obutono	id=8730
+Lugbarati (Translation)	E`yo Ebio Ma Pa Yin I Ovuzu Izia Izia Aro Ri	id=2070
+Lugbarati (Official) (Translation)	Ebìó Òvʉ́ó Rʉ Rɨ̀	id=8795
+Lumasaaba (Translation)	Lwashiina Wanaasi Nabubi Ali Ni Buukyele Shinaane Buunyelele	id=3012
+Lunyole (Translation)	Anansi Omunafu	id=2074
+Lusoga (Translation)	Munansi Omunafu	id=20401
+Maa (Translation)	Káínyoo Peê Éátâ Anansi Inkejék Ísíet Rónkéní	id=2729
+Ng’aturkana (Translation)	Eyakar Anansi Ng’Akejen Ngakan-Kauni Nadiim	id=2075
+Oluwanga (Translation)	Esichira Anansi Naba Norulenje Orutiti Munane	id=2071
+Portuguese (Translation)	Anansi Preguiçoso	id=16657

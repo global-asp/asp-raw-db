@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=13558&d=0&a=1
 id:	13558
 title:	Listen to my Body
 author:	Teachers of Bubaali Primary School
-artist:	Angie & Upesh, Karlien de Villiers, Marike le Roux, Catherine Groenewald, Jesse Pietersen and Wiehan de Jager
+artist:	Abraham Muzee, Angie and  Upesh, Karlien de Villiers, Marike le Roux, Salim Kasamba and Steven McKimmie
 lang:	English
 level:	First sentences
 lic:	Creative Commons: Attribution 3.0
@@ -52,7 +52,7 @@ translations:
 
 English (Original)	Listen to my Body	id=13202
 isiXhosa (Translation)	Mamela Kumzimba Wam	id=2933
-isiXhosa (Translation)	Mamela Umzimba Wam 2	id=14960
+isiXhosa (Translation)	Mamela Umzimba Wam	id=14960
 isiZulu (Translation)	Lalela Umzimba Wami	id=2910
 Kiswahili (Translation)	Nausikiliza Mwili Wangu	id=15713
 Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
@@ -60,4 +60,4 @@ Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
 Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
 Maa (Translation)	Ainining Osesen Lai	id=2927
 Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
-Sesotho (Lesotho) (Translation)	Mamela Mmele Oa Hao	id=2031
+Sesotho (Lesotho) (Translation)	Mamela Mmele Oaka	id=2031

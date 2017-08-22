@@ -11,11 +11,11 @@ desc:	Hamisi o bona mosimane a apere hempe e ntle mme o eletsa ekare a ka nna le
 
 page_text:
 
-P1	Hamisi o tlhoka diaparo tse dintšhwa tsa sekolo.    Rragwe o mo isa marekelong.
+P1	Hamisi o tlhoka diaparo tse dintšhwa tsa sekolo. Rragwe o mo isa marekelong.
 P2	Hamisi o bona mosimane a apere hempe e ntle. "Ke hempe e ntle thata e," Hamisi a nagana.
-P3	"Fa fela nka be ke nale hempe e e tshwanang le ya mosimane o",  Hamisi a rialo.
-P4	"Bona,  o rekisa dihempe tsele tse di kgethegileng," Hamisi a rialo. "Rra,  tswee-tswee nthekele nngwe ya tsone," a kopa.
-P5	"Hamisi,  ke tshwanetse ke reke diaparo tsa gago tsa sekolo," ga rialo rragwe.
+P3	"Fa fela nka be ke nale hempe e e tshwanang le ya mosimane o", Hamisi a rialo.
+P4	"Bona, o rekisa dihempe tsele tse di kgethegileng," Hamisi a rialo. "Rra, tswee-tswee nthekele nngwe ya tsone," a kopa.
+P5	"Hamisi, ke tshwanetse ke reke diaparo tsa gago tsa sekolo," ga rialo rragwe.
 P6	"Ga kena madi a a lekaneng go reka hempe eo," rre a rialo.
 P7	Rragwe Hamisi o duelela diaparo tsa sekolo. O maketse fa a boelwa ke madi a mangwe. Go nale madi a a lekaneng go reka hempe!
 P8	Ke letsatsi la matlhogonolo la ga Hamisi! O ile go tlhopa hempe efeng?
@@ -64,6 +64,7 @@ Sepedi (Translation)	Letšatši La Kagiso La Mahlatse	id=19008
 Sesotho (South Africa) (Translation)	Letsatsi La Tshepo La Lehlohonolo	id=20028
 Setswana (Translation)	Letsatsi La Ga Kagiso La Letlhogonolo	id=17646
 SiLozi (Translation)	Lizazi La Litohonolo La Hamisi	id=18564
-siSwati (Translation)	Umfaniswano Wesikolo	id=13872
+Siswati (Translation)	Umfaniswano Wesikolo	id=13872
+Talen (Translation)	Hamisi Dab Somer Daar	id=20195
 Tshivenda (Translation)	Ḓuvha Ḽa Mashudu Ḽa Hamisi	id=18284
 Xitsonga (Translation)	Siku Ra Hamisi Ra Nkateko	id=18878

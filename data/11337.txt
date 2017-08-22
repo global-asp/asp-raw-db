@@ -42,11 +42,15 @@ illustrations/pages/9815.png
 
 translations:
 
-English (Original)	A Tiny Seed: The Story of Wangari Maathai	id=9809
+English (Original)	A Tiny Seed: The Story Of Wangari Maathai	id=9809
 French (Translation)	Une Petite Graine: L’Histoire De Wangari Maathai	id=10136
-isiXhosa (Translation)	Imbewu Encinci: Ibali Lika Wangari Maathai	id=11582
+Hausa (Nigeria) (Translation)	Mitsitsin Iri: Labarin Wangari Maathai	id=20859
+isiXhosa (Translation)	Ukhozo Lwembewu Oluncinane	id=11582
+isiZulu (Translation)	Imbewu Encane	id=21375
 Kiswahili (Translation)	Hadithi Kumhusu Wangari Maathai	id=9911
 Kiswahili (Adaptation)	Wangari Maathai	id=18329
 Kiswahili (Adaptation)	Wangari Maathai	id=19354
 Lámnsoʼ (Translation)	Shiŋgoòy: Kimfèr Ke Wangari Mathay	id=14721
+Sepedi (Translation)	Peu Ye Nnyanennyane	id=21377
+Sesotho (South Africa) (Translation)	Peo E Nyane	id=21376
 Yoruba (Adaptation)	Èso Kékeré Kan: Ìtàn Tí Wangari Maathai	id=11890

@@ -23,7 +23,8 @@ P9	"EhEhEh!" cria le garçon. "Je vais avoir des problèmes à cause de toi! Cet
 P10	Le vacher lui donna alors sa vache. Et le jeune homme se remit en route.
 P11	Chemin faisant,  il croisa un groupe qui fêtait un mariage. La famille de la mariée lui demanda de lui donner sa vache. C'est ce qu'il fit. La vache fut alors tuée et mangée tout entière.
 P12	Le jeune homme cria alors "EiEiEi! Je vais avoir des problèmes à cause de vous! Cette vache n'était pas à moi. Elle appartenait au vacher. Le vacher ne me l'a pas donnée pour rien. Il me l'a donnée en échange de mon fagot d'herbe. Le fagot d'herbe n'était pas à moi non plus. Il appartenait aux constructeurs. Les constructeurs ne me l'ont pas donné pour rien. Ils me l'ont donné parce qu'ils ont cassé mon bâton."
-P13	La famille de la mariée lui dit alors "Il ne nous reste rien pour te payer. Mais nous pouvons te donner la mariée en échange." Depuis cette histoire,  les hommes se transmettent le dicton suivant: "Tout bienfait sera rendu"!
+P13	Le bâton n'était pas à moi lui non plus. Il appartenait aux cueilleurs de mûres. Ils ne me l'ont pas donné sans raison. Ils me l'ont donné en échange de mon œuf. Cet œuf n'était pas à moi. C'était celui de ma grand-mère. Et elle ne me l'a pas donné sans raison non plus. Elle me l'a donné pour que j'aie le prix de la fiancée.
+P14	La famille de la mariée lui dit alors "Il ne nous reste rien pour te payer. Mais nous pouvons te donner la mariée en échange." Depuis cette histoire,  les hommes se transmettent le dicton suivant: "Tout bienfait sera rendu"!
 
 images:
 
@@ -45,11 +46,18 @@ illustrations/pages/6741.png
 translations:
 
 Afrikaans (Adaptation)	'n Eier Vir Bruidskat	id=11319
-English (Translation)	An Egg for Bride Wealth	id=6790
+Amharic (Translation)	ጥሎሽ	id=21119
+English (Translation)	An Egg For Bride Wealth	id=6790
+English (Adaptation)	Bride Wealth	id=20879
+Hausa (Nigeria) (Translation)	Kyautar Da Ta Zamo Silar Arziki	id=21117
+Kiswahili (Translation)	Mahari	id=21126
 Lámnsoʼ (Translation)	Wúm Ye Dzəə̀n Juu	id=15068
 Lusoga (Original)	Igi Lya Mwandu	id=6744
+Ng’aturkana (Translation)	Abeye Na Eutare	id=21120
 Portuguese (Translation)	Um Ovo Para Conseguir Uma Noiva	id=15802
+Runyankore (Translation)	Eihuri Aha Bwenjugano	id=20804
 Sepedi (Translation)	Lee La Magadi	id=10919
 Sepedi (Translation)	Lee La Magadi	id=11497
 Sepedi (Translation)	Lee La Magadi	id=11501
 Sepedi (Translation)	Lee La Magadi	id=11502
+Tigrigna (Translation)	ገዝሚ	id=21108

@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=16584&d=0&a=1
 id:	16584
-title:	Esulu Y’Enjofu
+title:	Esuulu Y’Enjofu
 author:	Gershom Hirome
 artist:	Wiehan de Jager
 lang:	Lunyole
@@ -11,18 +11,18 @@ desc:	Hale enjofu jail nga n’obusuulu butotono ate nga bupi
 
 page_text:
 
-P1	Hiisi mutu amanyire ati enjofu jiri n'esulu ndeeŋi.
-P2	Aye ebiro ebireeŋi eby'ahale,  esulu y'enjofu yabanga nyiipi era nga ngeeji.
+P1	Hiisi muutu amanyire ati enjofu jiri n'esuulu ndeeŋi.
+P2	Aye ebiro ebireeŋi eby'ahale,  esuulu y'enjofu yabanga nyiipi era nga ngeeji.
 P3	Enyana y'enjofu yasaaliwa. Yaali n'ohubuusa nga bugali. Yaali nga n'ehyo'hubuusa hiisi solo.
 P4	Yaali n'ohubusa ehiŋamba hu kooli. "Lwahiina oli n'egosi ereeŋi?"
-P5	Yaali n'ohubusa ehiŋamba hu Musirii. "Lwahiina olwiga lulwo luba naŋamugulu aŋasongohi?"
+P5	Yaali n'ohubusa ehiŋamba hu Musini. "Lwahiina olwiga lulwo luba naŋamugulu aŋasongohi?"
 P6	Yaali n'ohubuusa ehiŋamba hu Mbiri. "Lwahiina oba n'emoni enando?"
-P7	Era yaali n'ohubuusa bugali ebiŋamba hu Goona. "Egoona erya hiina ehy'egulo?"
-P8	Nyina yaloma yiti,  "Omanya omanya tabuusanga hy'ehyo." Yaŋwaŋo yagenda neminyaaye.
-P9	Aye hirimageisi Nahinywamalwa ganguŋirisa galoma ati,  "Nondeho enalwabi." Eyop'eyo'nabonere hiina ehi Goona erya ehyegulo.
-P10	Yityo enyana y'enjofu yalonderesa Nahinywamalwa ohwola Eyo muhiiho hulwabi.
-P11	Yaŋindihahana ohubita mu bigada nga ye merera hu mugo gw'olwabi. Yalengesa mu maaji. Egoona eri ŋeena?
-P12	Nga ebaale eryali ohuupi n'omugo gw'olwabi liloma liti-Ehe Enyana y'enjofu nga yosi yiloma yiti Ehe! Hamunga wahalomeraho hiina ehi Goona erya ehyegulo?
+P7	Era yaali n'ohubuusa bugali ebiŋamba hu Goona. "Egoona olya hiina ehy'egulo?"
+P8	Nyina yaloma yiiti,  "Omanya omanya otabusanga hy'ehyo." Yaŋwaŋo yagenda neminyaaye.
+P9	Aye hirimagesi Nahinywamalwa ganguŋirisa galoma ati,  "Nondeho ena lwaabi." Eyo peyi nabonere hiina ehi Goona erya ehyegulo.
+P10	Yityo enyana y'enjofu yalonderesa Nahinywamalwa ohwola eyo muhiiho hu lwabi.
+P11	Yaŋindihana ohubita mu bigada nga ye merera hu mugo gwolwaabi. Yalengesa mu maaji. Egoona eri ŋeena?
+P12	Nga ebaale eryali ohuupi n'egobo gw'olwaabi liroma liiti, "Eehe!" Enyana y'enjofu nga yosi yiroma yiiti, "Eehe! Hamunga wahalomeraho hiina ehi goona erya ehyegulo?"
 P13	Nga ebaale liroma litti,  ''Yiinamaho ŋaasi nahulomere'' Yiihaa yiihaana.
 P14	"Gabbu" nga esuulu njeeyo mu sayaja Goona. Nahinywamalawa nj'ohukwakwanuha "Egoona ena lye niwee ehyegulo."
 P15	Enyana y'enjofu nga yidimama humagulu gaayo ehwesa,  ehwesa era ehwesa. Aye nga Egoona hyetenga hulehula.
@@ -63,10 +63,11 @@ Chinyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=2059
 ChiTonga (Translation)	Kukankamana Kwa Mwana Wa Musobvu	id=16450
 ChiTonga (Translation)	Kubuzya-Buzya Kwakana Kamuzomvu	id=18640
 CiNyanja (Translation)	Kufunsa Funsa Kwa Kamwana Ka Njovu	id=18623
+CiNyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=20784
 English (Original)	Curious Baby Elephant	id=1881
 French (Translation)	Le Bébé Éléphant Est Très Curieux	id=9963
 Fulfulde (Translation)	Ɓinngel Nyiiya No Kiinyuɗo Sanne	id=10026
-Hausa (Translation)	Jinjiri Giwa Mai Ƙwanƙwanto	id=9994
+Hausa (Niger) (Translation)	Jinjiri Giwa Mai Ƙwanƙwanto	id=9994
 IciBemba (Translation)	Akaana Ka Nsofu Akaleeipusha-Ipusha	id=18580
 isiXhosa (Translation)	Indlela Iindlovu Ezafumana Ngayo Imiboko Emide	id=17521
 isiZulu (Translation)	Indlovu Eyayithanda Izinto	id=8211
@@ -74,17 +75,21 @@ isiZulu (Adaptation)	Ikhala Lendlovu	id=13547
 Kanuri (Translation)	Tada Kǝmagǝnne Laa Jauro Ndoroma	id=10044
 Kiswahili (Translation)	Mtoto Wa Tembo Mdadisi	id=7618
 Leblango (Translation)	Atïn Lyëc a Yïl	id=11848
+Leblango (Translation)	Atin Lye Came Kite Kene	id=21473
 Luganda (Translation)	Omwana Gwe Njovu Ogujagu Jagu	id=8277
 Lugbarati (Official) (Translation)	Èwámvá Òlúkùlúá Be Rɨ̀	id=8782
 Lumasaaba (Translation)	Wanatsofu Umwana Urebareba	id=8278
+Lusoga (Translation)	Wandhovu Omuto Omubuulirize	id=20900
 Maa (Translation)	Olkuoo Loltome Oikilikuanisho	id=7866
+Mampruli (Translation)	Wab Bla Ninkpensi Inabugu Bla Ninkpensi	id=20365
 Ng’aturkana (Translation)	Itaok a Etom Nikachwaan	id=2536
 Oluwanga (Translation)	Omwana We Inzofu, Mwangu Omuchesi	id=8276
 Sepedi (Translation)	Tlowana Ya Go Rata Go Tseba	id=2409
 Sepedi (Adaptation)	Ngwana Wa Tlou Wa Go Rata Go Tseba Kudu	id=2610
-Sesotho (South Africa) (Translation)	Ledinyane La Tlou Le Neng Le Rata Ho Tseba Ha	id=20024
+Sesotho (South Africa) (Translation)	Nko Ya Tlou	id=20024
 Setswana (Translation)	Tlowana Marata Go Itse	id=2060
 SiLozi (Translation)	Kuitalifisa Kwa Kana Ka Tou	id=18567
+Talen (Translation)	Wobil Veeh Wol Daan	id=20187
 Tshivenda (Translation)	Ṅwana Wa Nḓou Aṱoḓaho U Ḓivha.	id=18283
 Xitsonga (Translation)	Xindlopfana Xo Hlamarisa	id=18991
 Zarma (Translation)	Ce-Beeriizo Ga Sootiya Gumo	id=10108

@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=21243&d=0&a=1
+id:	21243
+title:	ውለታቢሱ ቀበሮ
+author:	Dawit  Girma
+artist:	Jacob Kono
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21243.png
+desc:	ጥንቸል በአስቸጋሪ ወቅት ቀበሮውን አዳነችው፡፡ ነገር ግን ቀበሮው ቃል በገባው መሰረት ለጥንቸል ውለታዋን መክፈል ሲገባው ቃሉን አጠፈ፣ መሃላውን አፈረሰ፡፡
+
+page_text:
+
+P1	የራበው ቀበሮ አደን ላይ ነው፡፡
+P2	በአንድ ትልቅ አለት ስር አይጥ ያሳድድ/ያነፈንፍ ጀመር፡፡
+P3	የአለቱን ስር ሲቦረቡር አለቱ ተንከባሎ እግሩ ላይ ወደቀበት፡፡
+P4	ቀበሮው እየጮኸ ሲጣራ ጥንቸል ሰማችውና ምን እንደተከሰተ ለማየት በሩጫ ሄደች፡፡
+P5	ጥንቸሏ ቀበሮውን ለመርዳት ተስማማች፤ ቀበሮውም በምላሹም ራቷን ሊያበላት ቃል ገባላት፡፡
+P6	ጥንቸልም አለቱን በመግፋት የቀበሮውን እግር አስለቀቀለት፡፡
+P7	ጥንቸልም ቃል የገባላትን እንዲሰጣት ጠየቀች፡፡ ነገር ግን የተገላቢጦሽ ሆነና ቀበሮ እበላሻለሁ ብሎ አስፈራራት፡፡
+P8	ከዚያም ቀበሮውና ጥንቸሏ ይዳኛቸው ዘንድ ወደ አንድ ሽማግሌ ሰውዬ ሄዱ፡፡
+P9	ቀበሮው ሽማግሌውን ሰውዬም እንደሚበላቸው በመዛት አስፈራራቸው፡፡
+P10	ሽማግሌውም፣ “እስኪ ከመወሰኔ በፊት አለቱን ልዬው” አሉ፡፡
+P11	ቀበሮውና ጥንቸሏ ሽማግሌውን አለቱ ወዳለበት ቦታ ወሰዷቸው፡፡
+P12	ቀበሮው አለቱ እንዴት እግሩ ላይ ሊወድቅበት እንደቻለ አብራራ፡፡
+P13	ሽማግሌው ጥንቸሏን አለቱን እንዴት አድርጋ እንዳንከባለለችው ጠየቃት፡፡
+P14	ጥንቸሏም አለቱን አንከባልላ ቀድሞ እንደነበረው የቀበሮው እግር ላይ አደረገችው፡፡
+P15	ከዚያም ሽማግሌው፣ “በጄ! አሁን ጥሩ ሆነ፣ በሉ ወደቤታችን እንመለስ፡፡” አሉ፡፡
+P16	ሽማግሌውና ጥንቸሏ ሄዱ፡፡ ቀበሮው ግን አለቱ ተጭኖት ብቻውን ቀረ፡፡
+
+images:
+
+illustrations/pages/18475.png
+illustrations/pages/18468.png
+illustrations/pages/18469.png
+illustrations/pages/18470.png
+illustrations/pages/18471.png
+illustrations/pages/18472.png
+illustrations/pages/18473.png
+illustrations/pages/18474.png
+illustrations/pages/18475.png
+illustrations/pages/18476.png
+illustrations/pages/18477.png
+illustrations/pages/18478.png
+illustrations/pages/18479.png
+illustrations/pages/18481.png
+illustrations/pages/18482.png
+illustrations/pages/18483.png
+illustrations/pages/18484.png
+
+translations:
+
+Afaan Oromo (Translation)	Jedalaaf Illeti	id=18486
+Amharic (Translation)	ቀበሮና ጥንቸል	id=18845
+English (Original)	Jackal and Rabbit	id=18485
+English (Adaptation)	Ungrateful Jackal	id=20876
+Kiswahili (Translation)	Mbweha Na Sungura	id=19387
+Kiswahili (Translation)	Mbweha Asiye Na Shukurani	id=21124
+Lunyole (Translation)	Ahasuje  Ahatasiima	id=21025
+Ng’aturkana (Translation)	Epeot Lope Alakara	id=21123
+Tigrigna (Translation)	ዘየመስግን ተኹላ	id=21109

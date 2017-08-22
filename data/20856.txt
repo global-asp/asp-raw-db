@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20856&d=0&a=1
+id:	20856
+title:	Wani Kare
+author:	Shehu Salisu Rogo
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Hausa (Nigeria)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20856.png
+desc:	Wannan labarin ya kunshi wani mutum da Karensa mai ladabi da biyayya.
+
+page_text:
+
+P1	Akwai wani mutum da Karensa guda daya.
+P2	Ya na matukar san karensa.
+P3	Karen na da matukar kwazo domin ya na zuwa kasuwa da kansa ya sayo nama.
+P4	Ya kuma debo ruwa daga rijiya.
+P5	Ya na kuma tsaran komai na gida.
+P6	Wata rana mutumin ya yi wa karen kyakkyawar karrama  saboda da biyayyarsa.
+P7	Kare ya yi murna kwrai, ya ci gaba da kwazonsa.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

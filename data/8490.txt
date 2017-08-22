@@ -11,14 +11,14 @@ desc:	Omusaadha omuvubi ku Mwiga Kiyira.
 
 page_text:
 
-P1	Ono ni Jaaka omuvubi avila Namina.
-P2	Avubila ku mwiiga kiira.
-P3	Alina elyato,  akatimba,  n'eilobo.
-P4	Awuna iinho enkoko ajigema munwa,  yaja ku mwiga okugema emputa ehnenhe n'entono.
-P5	Kusaawa nga inha edhokunkyo yadhitundila mukatale akanenhe akeiindha.
-P6	Jaaka kyiki ekyibailewo? Lero bisaze? Nga munivu iinho.
-P7	"Lero embela mbi. Embela eyo kumaadhi tendhikiliza kuvuba. Neilobo emputa yajile nayo."
-P8	"Aye nninha eisubi enkyo lwidha kuba lulunji,  kuba ela nguze neilobo eiyaka."
+P1	Ono ni Jaaka omuvubi aviira Namaira.
+P2	Avubira ku Mwiga Kiyira.
+P3	Ali ne lyato,  akatimba,  ne ilobo.
+P4	Awuuna enkoko ajigema munhwa,  kuja mwiga kugema mpuuta enene ne ntono.
+P5	Ku saawa nga inha edhokunkyo yadhitundira mu katale akanene ake Idhindha.
+P6	Jaaka kiki ekibaire wo? Leero bimusaze? Nga munhiivu inho.
+P7	"Lero embeera eyo ku maadhi tendhikiriiza kuvuba. "
+P8	"Eilobo empuuta yajiire nalyo. Aye nguze eiyaaka."
 
 images:
 
@@ -35,10 +35,11 @@ illustrations/pages/8133.png
 translations:
 
 Afrikaans (Translation)	Jaaka Die Visserman	id=11406
-English (Translation)	Jaaka the Fisherman	id=8491
+English (Translation)	Jaaka The Fisherman	id=8491
 French (Translation)	Jaaka Le Pêcheur	id=12681
 isiXhosa (Translation)	Ujaaka Umlobi	id=13206
 isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Kinyarwanda (Translation)	Umurobyi Jaaka	id=21205
 Luganda (Adaptation)	Jaaka Omuvubi	id=10151
 Portuguese (Translation)	Jaaka O Pescador	id=16569
 Runyankore (Translation)	Jaaka Omuvubi	id=11677

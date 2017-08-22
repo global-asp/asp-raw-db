@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=21366&d=0&a=1
+id:	21366
+title:	Birai A Lokacin Fari
+author:	Shamsuddeen Abdulkadir Dallaje
+artist:	Salim Kasamba
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21366.png
+desc:	Muna iya rayuwa tare a cikin lumana idan muna so taimakawa juna.
+
+page_text:
+
+P1	Damina ba ta sauka ba, Kasa ta bushe.
+P2	Wannan birinyar ta bar gida don neman ruwa da abinci
+P3	Ta na kai-kawo cikin tudu da kwari
+P4	Ta iso a wani wuri da ake kira Tirkol.
+P5	Birinyar ta samu farin ciki a wannan wurin.
+P6	Ta ci 'yayan itace ta yi kiba. Sai dai ta rasa kawayenta.
+P7	Don haka Birinyar ta tafi gida.
+P8	Sauran Biran sun cika da farin ciki da ganinta.
+P9	"Ina inda wannan kasaitaccen wuri mai 'yayan itace yake'
+P10	'Zan kai ku wajen,' cewar Birinyar
+P11	Sauran Biran suna kauna Tirkol. Sai suka kuduri zamansu acan har abada.
+P12	Amma biran Tirkol sun damu.
+P13	'Wadannan bakin biran za su cinye mana duk abincinmu' cewarsu
+P14	Don haka Biran Tirkol sai suka kaima bakin Birannan farmaki.
+P15	'Mi yasa muke fada?' Babbansu ya yayi tsawa. 'Akwai abinci da yawa.
+P16	Wannan haka ne. Sai suka kudurta su zauna tare cikin lumana.
+
+images:
+
+illustrations/pages/18796.png
+illustrations/pages/18786.png
+illustrations/pages/18788.png
+illustrations/pages/18789.png
+illustrations/pages/18790.png
+illustrations/pages/18791.png
+illustrations/pages/18792.png
+illustrations/pages/18793.png
+illustrations/pages/18794.png
+illustrations/pages/18795.png
+illustrations/pages/18796.png
+illustrations/pages/18797.png
+illustrations/pages/18798.png
+illustrations/pages/18799.png
+illustrations/pages/18800.png
+illustrations/pages/18801.png
+illustrations/pages/18802.png
+
+translations:
+
+Afaan Oromo (Translation)	Jaldeesafi Hongee	id=20429
+Amharic (Translation)	ዝንጀሮና ድርቁ	id=20500
+English (Original)	Monkey and the Drought	id=18803
+English (Adaptation)	Monkey and the Drought	id=19767
+Hausa (Nigeria) (Translation)	Biri Da Fari	id=20511
+isiZulu (Translation)	Unkawana Nesomiso	id=20725
+Kiswahili (Translation)	Kima Na Kiangazi	id=18804
+Kiswahili (Translation)	Kima Na Kiangazi	id=20440
+Ng’aturkana (Translation)	Ekadokot Ka Akamu	id=20411

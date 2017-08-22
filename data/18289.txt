@@ -1,13 +1,13 @@
 url:	http://africanstorybook.org/reader.php?id=18289&d=0&a=1
 id:	18289
-title:	Chicken and Millipede
+title:	Kuku Na Jongoo
 author:	Ursula Nafula
 artist:	Magriet Brink
 lang:	English
 level:	First words
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/18289.png
-desc:	Chicken and Millipede have a very competitive friendship. One day Chicken gets so cross about losing that she does something very silly.
+desc:	Kuku na Jongoo wana urafiki wa mabishano. Soma uone jinsi mambo yalivyokwenda siku moja kati yao.
 
 page_text:
 
@@ -42,8 +42,8 @@ illustrations/pages/8994.png
 
 translations:
 
+ChiTonga (Translation)	Nkuku A Jongola	id=20796
 Dhopadhola (Translation)	Gweno Gi Ogongolo	id=15734
-English (Translation)	Chicken and Millipede	id=18325
 IciBemba (Translation)	Inkoko Na Ciyongoli	id=18681
 isiZulu (Translation)	Unkuku Noshongololo (Level 1)	id=15102
 Kiswahili (Translation)	Kuku Na Jongoo	id=15608

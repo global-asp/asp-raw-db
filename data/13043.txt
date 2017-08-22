@@ -15,12 +15,14 @@ P1	Lo ngutitjhere wami. Ibizo lakhe nguTitjhere Nkosi. Ungithanda khulu kwamamba
 P2	UTitjhere Nkosi usifundisa amatjhada nabokamisa. Sele ngikwazi ukuthi a,  e,  i,  o,  u.
 P3	UTitjhere Nkosi sele asifundise umbala obovu,  ohlaza kwesibhakabhaka,  ohlaza satjani,  osarulana kanye nonzima.
 P4	Ngesikhathi sokulala UTitjhere Nkosi usivumela ingoma ukuze silale. Uvuma ingoma edunduzelako.
-P5	NgoMvulo usicocela iindatjana ezikhuluma ngamadoda alungileko.
-P6	Ngelesibili usicocela iindatjana ezikhuluma ngabomma abalungileko.
-P7	Ngelesithathu usicocela iindatjana ezikhuluma ngemihlobohlobo yeenthuthi.
-P8	Ngelesine usicocela iindatjana ezikhuluma ngezokulima.
-P9	Kuthi ngelesihlanu utitjhere Nkosi asibawe bonyana sicoce zethu iindatjana eklasini.
-P10	Utitjhere wethu ngutitjhere olunge khulu ephasinapha. Nangikhulako ngifuna ukufana notithere Nkosi.
+P5	Umdunduzelo uvunywa ngalindlela: Kulala okuqwebezelako nikela ngamehlwakho Ukumomotheka kukulindele nawuvukako Lalani nthandwa ezihle,  ningalili Mina ngizonivumela umdunduzelo omnandi.
+P6	Utitjhere Nkosi wazi iindatjana ezinengi. Usicocela iindatjana ezahlukahlukeneko ngamalanga woke weveke.
+P7	NgoMvulo usicocela iindatjana ezikhuluma ngamadoda alungileko.
+P8	Ngelesibili usicocela iindatjana ezikhuluma ngabomma abalungileko.
+P9	Ngelesithathu usicocela iindatjana ezikhuluma ngemihlobohlobo yeenthuthi.
+P10	Ngelesine usicocela iindatjana ezikhuluma ngezokulima.
+P11	Kuthi ngelesihlanu utitjhere Nkosi asibawe bonyana sicoce zethu iindatjana eklasini.
+P12	Utitjhere wethu ngutitjhere olunge khulu ephasinapha. Nangikhulako ngifuna ukufana notithere Nkosi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

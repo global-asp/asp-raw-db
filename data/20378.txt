@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=20378&d=0&a=1
+id:	20378
+title:	Umukobwa W' Inyangamugayo
+author:	Jean Paul Harelimana and Paul
+artist:	Jacob Kono
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20378.png
+desc:	Iyi nkuru iratwigisha akamaro ko kuvugisha ukuri.
+
+page_text:
+
+P1	Habayeho Umukobwa mwiza cyane. Umunsi umwe arasonza. Yatekereje uburyo bwose yabona ibyo kubrya.
+P2	Yahuye n'umugabo,aramubaza ati "Bite mukobwa muto? Wababajwe n'iki?" Umukobwa aramusubiza ati "Ndashonje."
+P3	Umugabo yaramwihanganishije. Yamubwiye ko hari urugo ruri kuberamo umunsi mukuru, amugira inama yo kujyayo akiba ibyo kurya.
+P4	Umukobwa yahagurutse bwangu ajya muri urwo rugo rwaberagamo umunsi mukuru.
+P5	Igihe yari ageze yafi y'urwo rugo, yibagiwe amabwiriza yahawe y'uko ariba. Yahise aririmba agira ati "Kiyapi cha iyong loge-e-e Abe ekokoyo loge-e-e."
+P6	Abantu bumvise indirimbo y'uwo mukobwa akiri kure, kugeza aho yagereye muri urwo.
+P7	Abantu batangajwe n'umwimerere n'uburyohe bw'iyo ndirimbo maze baramubaza bati "Uturutse he? Urashaka iki? Kuki urimo kuririmba?"
+P8	Umukobwa yababwiye ukuntu ashonje cyane nuko bamuha ibyo kurya.
+
+Nyuma, bamugiriye inama, bamubwirako kwiba ari bibi.
+
+images:
+
+illustrations/pages/25044.png
+illustrations/pages/25038.png
+illustrations/pages/25039.png
+illustrations/pages/25040.png
+illustrations/pages/25041.png
+illustrations/pages/25042.png
+illustrations/pages/25043.png
+illustrations/pages/25044.png
+illustrations/pages/25045.png
+
+translations:
+
+English (Translation)	Honest Girl	id=20373
+Ng’aturkana (Original)	Apese Nape Ayeni Akoko	id=20371

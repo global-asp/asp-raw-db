@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=20451&d=0&a=1
+id:	20451
+title:	እንቁራሪትና እባብ
+author:	Mezemir Girma
+artist:	Rob Owen
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20451.png
+desc:	አንዳንድ ጊዜ ጓደኝነት የራሱ የሆነ ገደብ እንዳለው የምንማርበትን ታሪክ እነሆ፡፡
+
+page_text:
+
+P1	እንቁራሪትና እባብ ጓደኛሞች ናቸው፡፡
+P2	እንቁራሪት ‹‹ና፣ እናቴን እንጎብኝ›› አለችው ለእባቡ፡፡
+P3	‹‹አመሰግናለሁ›› አለ እባቡ፡፡ ‹‹ግን ቤቶቻችንን ማን ይጠብቅልናል?››
+P4	‹‹ቤቶቻችሁን እኔ አይላችኋለሁ›› አለች ዝንጀሮ፡፡
+P5	እንቁራሪት ነጫጭ ጉንዳችን በከረጢት ለእናቷ ያዘችላት፡፡
+P6	እንቁራሪትና እባብ በጠዋት መንገዳቸውን ጀመሩ፡፡ ወደ ደን ውስጥም ገቡ፡፡
+P7	የአይጠመጎጥ መንጋ አገኙ፡፡ እባብ ፈራ፡፡
+P8	እንቁራሪት ጓደኛዋን አዳነችው፡፡
+P9	እናቷ ቤት ሲደርሱ እርቧቸው ነበር፡፡
+P10	እጃቸውን ታጥበው ለመብላት ተዘጋጁ፡፡
+P11	‹‹እባብ፣ እባክህ ተቀመጥ›› አለችው እንቁራሪት፡፡
+P12	እባብ ለመቀመጥ ሞከረ፡፡ ግን እንቁራት ስላልሆነ አልቻለም፡፡
+P13	‹‹እኔ እንደ እንቁራት መቀመጥ አልችልበትም›› አለ እባቡ፡፡
+P14	እንቁራት አልሰማችውም፡፡
+P15	‹‹ልትረጂኝ ስላልቻልሽ ወደ ቤቴ እሄዳለሁ፡፡››
+P16	እባብ ተበሳጨ፡፡ ‹‹አይ፣ እንቁራት ጓደኛዬ መስሎኝ ነበር፡፡››
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog And Snake	id=19762
+isiZulu (Translation)	Uxoxo Nonyoka	id=20718
+Kinyarwanda (Translation)	Inzoka N' Igikeri	id=20763
+Kiswahili (Translation)	Chura Na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere Ni Wamusota	id=20398
+Lusoga (Translation)	Akalenga N’Omusta	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Setswana (Translation)	Segwagwa Le Noga	id=21160

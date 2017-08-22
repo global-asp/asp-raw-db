@@ -2,8 +2,8 @@ url:	http://africanstorybook.org/reader.php?id=18459&d=0&a=1
 id:	18459
 title:	Kiundu Difudepɛfo No
 author:	Michael Anguah-Mante (OLE Ghana)
-artist:	Alex Zablon
-lang:	Akuapem Twi
+artist:	Zablon Alex Nguku
+lang:	0
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/18459.png
@@ -62,3 +62,4 @@ Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
 Portuguese (Translation)	Kiundu Guloso	id=16439
 Sesotho (Lesotho) (Translation)	Ntate Meharo O Meharo	id=10626
 Setswana (Translation)	Megagaru Ya Ga Abele	id=14961
+Talen (Translation)	Poraong Kiundu	id=20362

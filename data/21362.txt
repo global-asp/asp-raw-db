@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=21362&d=0&a=1
+id:	21362
+title:	Mage Mai Wayo
+author:	Halima  Lawal Daura
+artist:	Catherine Groenewald
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21362.png
+desc:	Mista Kiio yana da Mage mai wayo wadda ake kiranta Safi.
+
+page_text:
+
+P1	A kauyenmu ne Mista Kiio yake zaune. Yana da mage mai suna Safi.
+P2	Idan Mista Kiio ya tafi aiki, yakan bar kofa a bude.
+P3	Safi takan zauna a bakin kofa tana lura da gidan.
+P4	Idan karen makwabtansu ya matso kusa, safi takan wurgadeshi.
+P5	Karen ya kan gudu.
+P6	Idan wani makwabcinsu ya kwankwasa kofa, safi takan kai yago.
+P7	Makwacin yakan ruga a guje.
+P8	Idan Safi tana jin yunwa, ta kan rufe kofa.
+P9	Sai ta ci abincinta
+P10	Daga nan Safi sai tayi tsalle ta hau doguwar kujera ta yi barci har da minshari. Purr! Purr! Purr!
+P11	Idan Mista Kiio ya dawo, safi sai ta mike cikin farin ciki tana yi masa maraba.
+P12	Mista Kiio da Safi sai su zauna, kowannensu yana karanta jarida.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Ateso (Translation)	Ekapa Lo Ecobee	id=20595
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever Cat	id=8878
+Kiswahili (Original)	Paka Mwerevu	id=8877
+Sesotho (Lesotho) (Translation)	Katse E Bohlale	id=10622

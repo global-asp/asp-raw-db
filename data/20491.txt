@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=20491&d=0&a=1
+id:	20491
+title:	Our World
+author:	Ursula Nafula
+artist:	Herminder Ohri
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20491.png
+desc:	A story about the creation of the world and people.
+
+page_text:
+
+P1	God wanted someone to look after his creation.
+P2	Lion roared, "I am the king, I can do that."
+P3	Elephant shouted, "I am big. I am right for the job."
+P4	Whale said, "I swim and care for fish. I am the right one."
+P5	Shark thought his sharp teeth made him the right one.
+P6	Eagle laughed, "I fly and see everything. I am fit."
+P7	God said, "I will create man. He will do a better job."
+P8	He created man and woman with shiny black skins.
+P9	Others had white skin, blue eyes and golden hair.
+P10	Others had yellow skin, black hair and slanted eyes.
+P11	Some had brown skin, black hair and black eyes.
+P12	Lion roared, "I can kill them all. I am strong."
+P13	Other animals thought humans looked strange and different.
+P14	Shark and Fish laughed at humans, "How will they swim?"
+P15	God smiled, "Humans must care for what I have created."
+
+images:
+
+illustrations/pages/2237.png
+illustrations/pages/2238.png
+illustrations/pages/2239.png
+illustrations/pages/2240.png
+illustrations/pages/2241.png
+illustrations/pages/2242.png
+illustrations/pages/2243.png
+illustrations/pages/2244.png
+illustrations/pages/2245.png
+illustrations/pages/2246.png
+illustrations/pages/2247.png
+illustrations/pages/2248.png
+illustrations/pages/2249.png
+illustrations/pages/2250.png
+illustrations/pages/2251.png
+illustrations/pages/2252.png
+
+translations:
+
+English (Original)	Our Wonderful World	id=2253
+isiXhosa (Translation)	Ilizwe Lethu Elimangalisayo	id=7456
+Lusoga (Translation)	Ensi Yaife	id=20670
+Lusoga (Translation)	Ensi Yaife	id=20925
+Maa (Translation)	Enkóp Áng É Enking'asíá	id=2958
+Ng’aturkana (Translation)	Akwapit Yok Nakaili-Ilon	id=2254
+Oluwanga (Translation)	Eshialo Shiefu Shiokhuchamisia	id=2255

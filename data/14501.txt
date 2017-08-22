@@ -11,16 +11,18 @@ desc:	Pale e kgutshwane e bonolo ka mosuwetsana ya ratehang le seo a re rutang s
 
 page_text:
 
-P1	Enwa ke mosuwetsana wa ka. Lebitso la hae ke Mosuwetsana Akinyi.O nthata haholo.
+P1	Enwa ke mosuwetsana wa ka. Lebitso la hae ke Mosuwetsana Akinyi. O nthata haholo.
 P2	Mosuwetsana Akinyi o re ruta ditlhaku le ditumanotshi. Ke kgona ho bitsa ditlhaku a,  e,  i,  o,  u.
-P3	Mosuwetsana Akinyi o re rutile mebala kgubedu, tala, tshehla,  le ntsho.
-P4	Nakong ya ho robala,  Mosuwetsana Akinyi o re binela  ho fihlela re robala. O re binela dipina tsa ho re koietsa.
-P5	Ka Mantaha,  o re phetela dipale tsa  banna ba bahale.
-P6	Ka Labobedi,  o re phetela dipale tsa basadi ba bahale.
-P7	Ka Laboraro,  o re phetela dipale ka mefuta ya dipalangwang.
-P8	Ka Labone,  o re phetela dipale ka temo.
-P9	Mme ka Labohlano,  Mosuwetsana Akinyi o re kopa ho phetela barutwana ba bang ka phaposing dipale tsa rona.
-P10	Mosuwetsana wa rona ke mosuwetsana wa mantlha lefatsheng! Ha ke hola,  ke batla ho tshwana le Mosuwetsana Akinyi.
+P3	Mosuwetsana Akinyi o re rutile mebala kgubedu, tala, tshehla, le ntsho.
+P4	Nakong ya ho robala, Mosuwetsana Akinyi o re binela  ho fihlela re robala. O re binela dipina tsa ho re koietsa.
+P5	Pina ya ho koietsa e binwa tjena: Boroko ba kgauta  bofa mahlo a hao Pososelo tseo emetseng ha o tsoha Robalang baratuwa ba battle, le se lle Mme ke tla le binela pina e monate e koietsang.
+P6	Mosuwetsana Akinyi o tseba dipale tse ngata. O re phetela dipale tse fapaneng letsatsi ka leng la beke.
+P7	Ka Mantaha, o re phetela dipale tsa  banna ba bahale.
+P8	Ka Labobedi, o re phetela dipale tsa basadi ba bahale.
+P9	Ka Laboraro, o re phetela dipale ka mefuta ya dipalangwang.
+P10	Ka Labone, o re phetela dipale ka temo.
+P11	Mme ka Labohlano, Mosuwetsana Akinyi o re kopa ho phetela barutwana ba bang ka phaposing dipale tsa rona.
+P12	Mosuwetsana wa rona ke mosuwetsana wa mantlha lefatsheng! Ha ke hola, ke batla ho tshwana le Mosuwetsana Akinyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -55,10 +58,12 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

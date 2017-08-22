@@ -2,25 +2,25 @@ url:	http://africanstorybook.org/reader.php?id=19854&d=0&a=1
 id:	19854
 title:	Teret
 author:	Beza
-artist:	Abraham Muzee
+artist:	
 lang:	English
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19854.png
-desc:	
+desc:	The story is about a shepherd.
 
 page_text:
 
-P1	Once upon a time there was a shepherd. He had no grass to feed his pig, sheep and goat,  He has no barn to keep them warm.
-P2	So he decided to take them some where, some where in the neighborhood where they colud get food and shelter.
-P3	The sheperd boy said "I could sell them for a quarter each" but the man was negotiating for a lower price.
-P4	The man said "i only want the goat" but the shepherd boy said "friends are meant to be together. I want all of them to be together."
-P5	The shepherd boy sold the sheep,  the goat and the pig for a quarter each. But he was sad as he headed home.
-P6	He realized they weren't just animals but they were also his friends. So he came back to return the money and take his friends home.
-P7	"They are mine" the man said "i wont give them back" but the shepherd  boy kept on begging.
-P8	"I realized they are not just animals but also my friends" said the shepherd boy but the man asked "why did you sell them in the first place."
-P9	The old lady heard the argument and said "if you go on a quest for me and show me you really love your animals i will give you back with a barn and a perfect house."
-P10	Since the shepherd boy loves his animals  he did as the old lady asked and took home his three best friends to a perfect home and a barn.
+P1	There was a shepherd who had no grass to feed his pig, sheep and goat and no grains for his hen. He had no barn to keep them warm.
+P2	He decided to take them where they could get food and shelter.
+P3	The shepherd said, "I could sell them for a quarter each." But the man was negotiating for a lower price.
+P4	The man said, "I only want the goat." But the shepherd said, "These animals are friends. I want all of them to be together."
+P5	The shepherd sold the sheep, the goat and the pig for a quarter each. He gave the hen for free. He was sad as he headed home.
+P6	He realised they weren't just animals. They were also his friends. So he went back to return the money and take his friends home.
+P7	"They are mine now," the man said. "I won't give them back." But the shepherd kept begging.
+P8	"I realised they are not just animals but also my friends," said the shepherd. The man asked, "Why did you sell them in the first place?"
+P9	A neighbour heard the argument and said, "Make a barn, provide grass and grains. Then you can get your animals back."
+P10	The shepherd loved his animals. He gave back the money and took home his friends to a perfect barn and plenty of grass and grains.
 
 images:
 
@@ -38,3 +38,4 @@ illustrations/pages/19572.png
 
 translations:
 
+Lusoga (Translation)	Omukwano	id=21257

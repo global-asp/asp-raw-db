@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=21380&d=0&a=1
+id:	21380
+title:	Yardar Allah
+author:	Muhammad Tukur Bala
+artist:	Zablon Alex Nguku, Wiehan de Jager and Magriet Brink
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21380.png
+desc:	Duk abin zaka yi ce in Allah yaso ya yarda.
+
+page_text:
+
+P1	Wata rana Joha zai je kasuwa. Sai ya hadu da abokinsa
+P2	Sai abokin ya tambaya: Ina zaka Joha? Joha yace zani kasuwa.
+P3	Dan in sayo jaki. Sai abokin yace masa ka ce in Allah yaso ya yarda.
+P4	Aa! Ina da kudi kuma akwai jakai a kasuwa
+P5	Sai aka sace kudin a kasuwar. Joha yace Oo! ba sauran sayen jaki a yau.
+P6	Joha yayi nadama rashin fadin in Allah yaso ya yarda.
+
+images:
+
+illustrations/pages/17978.png
+illustrations/pages/17053.png
+illustrations/pages/9712.png
+illustrations/pages/15500.png
+illustrations/pages/17979.png
+illustrations/pages/8129.png
+illustrations/pages/1883.png
+
+translations:
+
+English (Original)	God Willing	id=21352

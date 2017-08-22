@@ -4,7 +4,7 @@ title:	Ngumvundla Nofudo (Kwakhona!)
 author:	African Storybook
 artist:	Padmanabha
 lang:	isiXhosa
-level:	First paragraphs
+level:	Longer paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/3084.png
 desc:	Usakhumbula ukuthi ufudo olucothayo noluzimiseleyo lwamoyisa kanjani umvundla kugqatso lwabo lwakudala-dala? Ngoku esi sibini sidibene kwakhona
@@ -44,4 +44,5 @@ illustrations/pages/2056.png
 translations:
 
 English (Original)	Hare and Tortoise (Again!)	id=2058
+English (Adaptation)	Tortoise And Rabbit	id=21320
 Kiswahili (Translation)	Sungura Na Kobe (Tena!)	id=3083

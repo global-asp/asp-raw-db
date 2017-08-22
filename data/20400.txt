@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=20400&d=0&a=1
+id:	20400
+title:	Wampiti, Wakayima Ni  Benseni
+author:	Cornelius Wambi Gulere
+artist:	
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20400.png
+desc:	Singa benseni ezaala
+
+page_text:
+
+P1	Wampiti ni Wakayima
+  baali ba mukwano.
+P2	Wakayina yali ne ndogoyi
+  ne benseni entono emyufu.
+P3	Wakayima bwe yali ayenda benseni enene, yeyazikwanga benseni enene eya bululu eya
+  Wampiti.
+P4	Wampiti yayenda okuyoza
+  engoye dhe mu benseni ye.
+P5	Wampiti yaja ye Wakayima.
+  “Nnhenda benseni yange enene,” bwe yakoba.
+P6	“Benseni yo yazaire,” Wakayima bwe yakoba. Wampiti yatwaala benseni dhombilili.
+P7	Olunaku olundi, Wakayima
+  kabili yeyazikwa benseni ya Wampiti.
+P8	Wampiti bwe yaja okunona benseni ye, Wakaima yamukuba amasu.
+P9	“Benseni yo yafa,” Wakayima
+  bwe yakoba. Wampiti yali tasobola kukiikiriza kino.
+P10	Wampiti yayeta ba wansolo abanene okusalawo amazima.
+P11	“Wakayima yainhonhola ati, “Ebintu ebilama era ni bizaala, era bifa.”
+P12	Ba wansolo baikiizagania ni Wakayima. Wampiti yabulwa ekyokukola. Wakayima yatwala benseni.
+
+images:
+
+illustrations/pages/19188.png
+illustrations/pages/19185.png
+illustrations/pages/19186.png
+illustrations/pages/19187.png
+illustrations/pages/19188.png
+illustrations/pages/19189.png
+illustrations/pages/19190.png
+illustrations/pages/19191.png
+illustrations/pages/19192.png
+
+translations:
+
+Afaan Oromo (Translation)	Warabeesa, Illetif Gabate	id=20427
+Amharic (Translation)	ጅብ፣ ጥንቸልና ሳፋዎቻቸው	id=20481
+English (Translation)	Hyena, Hare And Their Basins	id=19194
+English (Adaptation)	Hyena, Hare And Their Basins	id=19764
+isiZulu (Translation)	Umpisi, Unogwaja Nezindishi	id=20722
+Kiswahili (Original)	Fisi, Sungura Na Karai	id=19193
+Kiswahili (Translation)	Fisi, Sungura Na  Beseni	id=20437
+Ng’aturkana (Translation)	Ebuu, Apoo Ka Ng'atubwae	id=20416
+Setswana (Translation)	Phiri, Mmutla Le Dijana	id=21057

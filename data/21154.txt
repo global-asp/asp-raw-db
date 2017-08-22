@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21154&d=0&a=1
+id:	21154
+title:	Sungura Mjanja
+author:	Brigid Simiyu
+artist:	Abraham Muzee
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21154.png
+desc:	Sungura na ujanja wake. Anadanganya tena!
+
+page_text:
+
+P1	Sungura alikuta Tembo akibeba chungu cha asali.
+P2	Tembo alimbeba Sungura mgongoni. 
+
+Sungura alikula asali ya Tembo.
+P3	Walimpata Nyati mtoni akinywa maji.
+P4	Sungura alitaka kujua kati ya Nyati na Tembo, nani mwenye nguvu zaidi.
+P5	Sungura alisema kwamba alijua namna atakavyojua ukweli.
+P6	Sungura alimfunga Tembo kamba kiunoni upande mmoja.
+P7	Sungura pia alimfunga Nyati kamba ile ile kiunoni upande wa pili.
+P8	Sungura alijificha kwenye mti akasema, “Haya! Vuteni!”
+P9	Nyati na Tembo walivuta. Tembo alimvuta Nyati.
+P10	Nyati alimvuta Tembo.
+
+Hakuna aliyeshinda.
+P11	Sungura aliikata ile kamba karibu na Nyati. 
+
+Tembo alianguka kwa kishindo!
+P12	Sungura alimshangilia Nyati akisema, “Ni wewe mwenye nguvu zaidi.”
+
+images:
+
+illustrations/pages/17187.png
+illustrations/pages/17185.png
+illustrations/pages/17186.png
+illustrations/pages/17188.png
+illustrations/pages/17189.png
+illustrations/pages/17191.png
+illustrations/pages/17192.png
+illustrations/pages/17193.png
+illustrations/pages/17194.png
+illustrations/pages/17195.png
+illustrations/pages/17196.png
+illustrations/pages/17199.png
+illustrations/pages/17201.png
+
+translations:
+
+Amharic (Translation)	ብልጣብልጧ ጥንቸል	id=21304
+Dhopadhola (Translation)	Oculu Ja Ryeko	id=19482
+English (Original)	Hare the Trickster	id=17453
+English (Adaptation)	Hare the Trickster	id=18217
+English (Adaptation)	Trickster Hare	id=20917
+Kiswahili (Translation)	Sungura Mjanja	id=17533
+Maa (Translation)	Enkitejo	id=18989
+Tigrigna (Translation)	መታለሊ ማንቲለ	id=21183

@@ -15,12 +15,14 @@ P1	Me jafonji mawan. I lwoŋo go ni Agwera. Go omaro wan swa.
 P2	Jafonji Agwera fonjo wan nyikuta. Anyalo waco nyikuta a,  e,  i,  o,  u.
 P3	Jafonji Agwera otyeko fonjo wan paka i lwoŋo cal: mobokere,  nyabululu,  nyabokependi,  nyatongweno gi macol.
 P4	I hongo ma ywomirok,  Jafonji Agwera wero riwan. Go wero wer ma rendo wan to wa nindo.
-P5	I tic acyel go gana riwan kwoŋ wasen macwo.
-P6	I tic acyel go gana riwan kwoŋ wasen mamon.
-P7	I tic adek go gana riwan kwoŋ gi woth.
-P8	I tic aŋwen go gana riwan kwong fur.
-P9	I tic abic Jafonji Agwera waco riwan ni wa gana ri wadi wan.
-P10	Jafonji mawan ber loyo jafonjii man je. Amito ni abedi paka Jafonji Agwera ka adwoŋ.
+P5	Wer ago kidho ama: Nindo ma feza miy ye waŋin,  bwonjo kurin k'icew,  nindi win agwerin paran,  ongoye ywak,  aka ale wero riwin wer mamit.
+P6	Jafonji Agwera oŋeyo gigana kweth. Go gana riwan kigana m'opokere opokere kisi ndelo nyuka sabiti rumo.
+P7	I tic acyel go gana riwan kwoŋ wasen macwo.
+P8	I tic acyel go gana riwan kwoŋ wasen mamon.
+P9	I tic adek go gana riwan kwoŋ gi woth.
+P10	I tic aŋwen go gana riwan kwong fur.
+P11	I tic abic Jafonji Agwera waco riwan ni wa gana ri wadi wan.
+P12	Jafonji mawan ber loyo jafonjii man je. Amito ni abedi paka Jafonji Agwera ka adwoŋ.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

@@ -11,6 +11,15 @@ desc:	Carlos e Maria estão a alimentar os animais. O que eles dão aos animais 
 
 page_text:
 
+P1	Maria: Carlos,  não se dá grãos de milho ao cão! Carlos: Mas o cão está com fome. Maria: Vem comigo alimentar os animais. Todos estão com fome.
+P2	Maria: Já que estás com os grãos de milho na mão,  vamos começar pela capoeira. O Carlos atira o milho às galinhas. Os pintos piam,  "piupiu." As galinhas cacarejam,  "cá. Cará."
+P3	Maria: Agora vamos dar mapira aos pombos. O Carlos atira mapira aos pombos. Os pombos pousam no chão. "Curru. Curru," arrulham os pombos enquanto comem.
+P4	Maria: Agora vamos ver os cabritos. Carlos: Eles comem capim. Temos de arrancar capim para dar aos cabritos? Maria: Não. Os cabritos arranjam a sua comida sozinhos.
+P5	Os cabritos balem,  "mé.mééé." Parecem cumprimentar o Carlos e a Maria. Carlos: E agora podemos ir dar de comer aos coelhos? Maria: Vamos. Sabes o que comem os coelhos?
+P6	Carlos: Sei. Damos folhas verdes. Na escola aprendi que eles gostam de cenoura. Maria: Muito bem! Os coelhos precisam de água. O Carlos enche a tigela de água para os coelhos.
+P7	Carlos: Maria,  esqueceste do cão. Ele está com fome e ainda não comeu. O que vamos dar ao cão? O cão ouviu e ladra,  "au. Au." Parece dizer,  "estou com fome."
+P8	Maria: Vamos buscar os ossos que estão na cozinha. "Au. Au," ladra o cão a abanar o rabo contente. A Maria abriu a porta da despensa e dois ratos saltaram e fugiram.
+P9	Maria: Os ratos roeram os sacos de amendoim. Carlos: Eles comem amendoim? Maria: Eles comem e roem tudo. Onde está o gato? "Miauuuu," mia o gato a correr atrás dos ratos que chiam,  "chiiii."
 
 images:
 
@@ -31,3 +40,4 @@ illustrations/pages/14006.png
 translations:
 
 English (Translation)	Piu...piu...piu	id=14953
+Lusoga (Translation)	 	id=21279

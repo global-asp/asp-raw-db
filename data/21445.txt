@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=21445&d=0&a=1
+id:	21445
+title:	Kalamu Nzuri Ya Dhahabu
+author:	Ursula Nafula
+artist:	Andrews Opoku Antwi and Michelangelo Quaye Anang
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21445.png
+desc:	Yote yangaayo siyo dhahabu. (Hadithi hii iliandikwa wakati wa waksha ya walimu iliyopangwa na ASb na OLE Ghana jijini Accra 2017).
+
+page_text:
+
+P1	Hapo zamani za kale, kulikuwa na Kijiji cha Kalamu. 
+
+Kuliishi kalamu nyingi.
+P2	Kulikuwa na Dhahabu, Bic, Ballpoint, Gel, Marker na nyinginezo.
+P3	Dhahabu alikuwa msichana mrembo.
+P4	Bic alikuwa rafiki mkubwa wa Dhahabu.
+P5	Dhahabu alikuwa mwenye huzuni na wasiwasi kila wakati. 
+
+Alichagua maisha yenye upweke mbali na waliompenda.
+P6	Hakuna yeyote aliyejua kwa nini Dhahabu alihuzunika na kuwa na wasiwasi wakati wote.
+
+Waliamini kwamba alikuwa na kila sababu ya kufurahi.
+P7	Hata hivyo, Dhahabu alikuwa na siri kubwa ambayo yeye tu alijua.
+
+Je, siri ya Dhahabu ilikuwa nini?
+P8	Dhahabu alikuwa mrembo na mwenye kupendwa. Lakini, hakuwa na wino!
+
+"Je, kalamu ya Dhahabu ina umhimu gani bila wino?" Dhahabu alilia.
+
+images:
+
+illustrations/pages/25333.png
+illustrations/pages/25336.png
+illustrations/pages/25337.png
+illustrations/pages/25339.png
+illustrations/pages/25340.png
+illustrations/pages/25341.png
+illustrations/pages/25342.png
+illustrations/pages/25343.png
+illustrations/pages/25333.png
+
+translations:
+
+Dagbani/Dagbanli (Original)	Salma Alikalimi	id=21421
+English (Translation)	Pretty Golden Pen	id=21423

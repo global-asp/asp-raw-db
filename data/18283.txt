@@ -1,9 +1,9 @@
 url:	http://africanstorybook.org/reader.php?id=18283&d=0&a=1
 id:	18283
 title:	Ṅwana Wa Nḓou Aṱoḓaho U Ḓivha.
-author:	Maphaha Tshimangadzo Nelson Maphaha Tshimangadzo Nelson
-artist:	Wiehan de Jager Wiehan de Jager
-lang:	TshivendaTshivenda
+author:	Maphaha Tshimangadzo Nelson
+artist:	Wiehan de Jager
+lang:	Tshivenda
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/18283.png
@@ -13,57 +13,38 @@ page_text:
 
 P1	Muṅwe na muṅwe u a ḓivha u ri nḓou i na ningo ndapfusa.
 P2	Fhedzi kale ningo ya nḓou yo vha i pfufhi nahone yo khwaṱha. I tshi nga tshienda tsho nambatela vhukati ha tshifhaṱuwo.
-P3	Your translated text
-P4	Ḽiṅwe ḓuvha ha bebwa ndowana. Nḓowana yo ṱoḓa u ḓivha nga ha zwithu zwoṱhe. Nḓowana yo vha na mbudziso kha phukha iṅwe na iṅwe.
-P5	Your translated text
-P6	Yo ṱoḓa u ḓivha nga ha thudwa. "Ndi ngani ni na mukulo mulapfu," ya vhudzisa.
-P7	Your translated text
-P8	Your translated text
-P9	Yo ṱoḓa u ḓivha nga ha Tshugulu. "Ndi ngani lunanga lwau lu na ṱhodzi i fhiraho?"
-P10	Your translated text
-P11	Yo ṱoḓa u ḓivha nga ha Mvuvhu. "Ndi ngani ni na maṱo matswuku." Hu vhudzisa nḓowana.
-P12	Your translated text
-P13	Ya ṱoḓesa u ḓivha nga Ngweṋa. "Ngweṋa i ḽa mini nga tshifhinga tsha tshiswiṱulo." Nḓowana i a vhudzisa.
-P14	Your translated text
-P15	"Ni songo vhudzisa mbudziso yo raloho," vhe vha ralo ndi mme awe. Ya ṱuwa yo sinyalala.
-P16	Your translated text
-P17	Nga u ṱavhanya Funguvhu ḽa fhufhela fhasi kha nḓowana. "Ntevheleni mulamboni. Ni ḓo vhona uri ngweṋa i ḽa mini nga tshiswitulo." Funguvhu ḽa ambesa nga maanda.
-P18	Your translated text
-P19	Nḓowana ya tevhela funguvhu mulamboni.
-P20	Nḓowana ya fhanda vhukati ha ṱhanga ya swika ya ima khunzikhunzini. Ya lavhelesa ngomu maḓini. Ngweṋa yo vha i ngafhi?
-P21	"Hu rini," ḽe ḽa ralo ndi tombo ḽi re tsini na khunzikhunzi ya mulambo. "Ndi hone," i no ralo ndi nḓowana. "Ni nga mmbudza uri Ngweṋa i ḽa mini nga tshifhinga tsha tshiswiṱulo?" i a vhudzisa.
-P22	"Kwatamani ndi ḓo kona u ni vhudza," ḽe ḽa ralo ndi tombo. "Fhasi – fhasi" ndi tombo ḽo ambaho nga u ralo Nḓowana ya kwatamela fhasi.
-P23	Nga u ṱavhanya ningo ya nḓowana ya farwa nga mano a Ngweṋa. "Ngweṋa i ḓo ḽa inwi nga tshifhinga tsha tshiswiṱulo." Funguvhu ḽa ralo ḽi tshi tou ambela nṱha,  ḽa mbo di fhufha.
-P24	Nḓowana ya sendela murahu nga milenzhe yayo yo khwaṱhaho ya kokodza,  ya kokodza u dovha na u dovha fhedzi ngweṋa ya si litshedze ningo.
-P25	Ningo ya nḓowana ya tatamuwa na u tatamuwa,  ya tatamuwa na u tatamuwa. Zwenezwo "bi" ya wela murahu.
-P26	Ngweṋa ya nzwaṱimela maḓini. Yo vha i khou vhilaela nga u ponyokisa tshiswiṱulo tshayo.
-P27	Nḓowana ya sedza kha ningo yayo. Yo vha yo tatamudzwa ya lapfesa. Yo vha i khou balelwa u vhona mafhelelo ayo.
-P28	Ningo yo vha yo lapfa lune nḓowanan ya kona u fula mitshelo i re matavhini malapfu lapfu.
-P29	Ningo yo vha yo lapfa lune ya kona u ṱamba muvhili yo ka maḓi ngayo.
-P30	U bva lenelo ḓuvha nḓou dzoṱhe dzo vha na musingo mulapfu u re na mushumo.
+P3	Ḽiṅwe ḓuvha ha bebwa ndowana. Nḓowana yo ṱoḓa u ḓivha nga ha zwithu zwoṱhe. Nḓowana yo vha na mbudziso kha phukha iṅwe na iṅwe.
+P4	Yo ṱoḓa u ḓivha nga ha thudwa. "Ndi ngani ni na mukulo mulapfu," ya vhudzisa.
+P5	Yo ṱoḓa u ḓivha nga ha Tshugulu. "Ndi ngani lunanga lwau lu na ṱhodzi i fhiraho?"
+P6	Yo ṱoḓa u ḓivha nga ha Mvuvhu. "Ndi ngani ni na maṱo matswuku." Hu vhudzisa nḓowana.
+P7	Ya ṱoḓesa u ḓivha nga Ngweṋa. "Ngweṋa i ḽa mini nga tshifhinga tsha tshiswiṱulo." Nḓowana i a vhudzisa.
+P8	"Ni songo vhudzisa mbudziso yo raloho," vhe vha ralo ndi mme awe. Ya ṱuwa yo sinyalala.
+P9	Nga u ṱavhanya Funguvhu ḽa fhufhela fhasi kha nḓowana. "Ntevheleni mulamboni. Ni ḓo vhona uri ngweṋa i ḽa mini nga tshiswitulo." Funguvhu ḽa ambesa nga maanda.
+P10	Nḓowana ya tevhela funguvhu mulamboni.
+P11	Nḓowana ya fhanda vhukati ha ṱhanga ya swika ya ima khunzikhunzini. Ya lavhelesa ngomu maḓini. Ngweṋa yo vha i ngafhi?
+P12	"Hu rini," ḽe ḽa ralo ndi tombo ḽi re tsini na khunzikhunzi ya mulambo. "Ndi hone," i no ralo ndi nḓowana. "Ni nga mmbudza uri Ngweṋa i ḽa mini nga tshifhinga tsha tshiswiṱulo?" i a vhudzisa.
+P13	"Kwatamani ndi ḓo kona u ni vhudza," ḽe ḽa ralo ndi tombo. "Fhasi – fhasi" ndi tombo ḽo ambaho nga u ralo Nḓowana ya kwatamela fhasi.
+P14	Nga u ṱavhanya ningo ya nḓowana ya farwa nga mano a Ngweṋa. "Ngweṋa i ḓo ḽa inwi nga tshifhinga tsha tshiswiṱulo." Funguvhu ḽa ralo ḽi tshi tou ambela nṱha,  ḽa mbo di fhufha.
+P15	Nḓowana ya sendela murahu nga milenzhe yayo yo khwaṱhaho ya kokodza,  ya kokodza u dovha na u dovha fhedzi ngweṋa ya si litshedze ningo.
+P16	Ningo ya nḓowana ya tatamuwa na u tatamuwa,  ya tatamuwa na u tatamuwa. Zwenezwo "bi" ya wela murahu.
+P17	Ngweṋa ya nzwaṱimela maḓini. Yo vha i khou vhilaela nga u ponyokisa tshiswiṱulo tshayo.
+P18	Nḓowana ya sedza kha ningo yayo. Yo vha yo tatamudzwa ya lapfesa. Yo vha i khou balelwa u vhona mafhelelo ayo.
+P19	Ningo yo vha yo lapfa lune nḓowanan ya kona u fula mitshelo i re matavhini malapfu lapfu.
+P20	Ningo yo vha yo lapfa lune ya kona u ṱamba muvhili yo ka maḓi ngayo.
+P21	U bva lenelo ḓuvha nḓou dzoṱhe dzo vha na musingo mulapfu u re na mushumo.
 
 images:
 
 illustrations/pages/1110.png
-illustrations/pages/6491.png
 illustrations/pages/1111.png
 illustrations/pages/1112.png
-illustrations/pages/6569.png
 illustrations/pages/1110.png
-illustrations/pages/6039.png
 illustrations/pages/1113.png
-illustrations/pages/6956.png
-illustrations/pages/6568.png
 illustrations/pages/1114.png
-illustrations/pages/6599.png
 illustrations/pages/1115.png
-illustrations/pages/2027.png
 illustrations/pages/1116.png
-illustrations/pages/6604.png
 illustrations/pages/1117.png
-illustrations/pages/6632.png
 illustrations/pages/1118.png
-illustrations/pages/6755.png
 illustrations/pages/1119.png
 illustrations/pages/1120.png
 illustrations/pages/1121.png
@@ -84,10 +65,11 @@ Chinyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=2059
 ChiTonga (Translation)	Kukankamana Kwa Mwana Wa Musobvu	id=16450
 ChiTonga (Translation)	Kubuzya-Buzya Kwakana Kamuzomvu	id=18640
 CiNyanja (Translation)	Kufunsa Funsa Kwa Kamwana Ka Njovu	id=18623
+CiNyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=20784
 English (Original)	Curious Baby Elephant	id=1881
 French (Translation)	Le Bébé Éléphant Est Très Curieux	id=9963
 Fulfulde (Translation)	Ɓinngel Nyiiya No Kiinyuɗo Sanne	id=10026
-Hausa (Translation)	Jinjiri Giwa Mai Ƙwanƙwanto	id=9994
+Hausa (Niger) (Translation)	Jinjiri Giwa Mai Ƙwanƙwanto	id=9994
 IciBemba (Translation)	Akaana Ka Nsofu Akaleeipusha-Ipusha	id=18580
 isiXhosa (Translation)	Indlela Iindlovu Ezafumana Ngayo Imiboko Emide	id=17521
 isiZulu (Translation)	Indlovu Eyayithanda Izinto	id=8211
@@ -95,17 +77,21 @@ isiZulu (Adaptation)	Ikhala Lendlovu	id=13547
 Kanuri (Translation)	Tada Kǝmagǝnne Laa Jauro Ndoroma	id=10044
 Kiswahili (Translation)	Mtoto Wa Tembo Mdadisi	id=7618
 Leblango (Translation)	Atïn Lyëc a Yïl	id=11848
+Leblango (Translation)	Atin Lye Came Kite Kene	id=21473
 Luganda (Translation)	Omwana Gwe Njovu Ogujagu Jagu	id=8277
 Lugbarati (Official) (Translation)	Èwámvá Òlúkùlúá Be Rɨ̀	id=8782
 Lumasaaba (Translation)	Wanatsofu Umwana Urebareba	id=8278
-Lunyole (Translation)	Esulu Y’Enjofu	id=16584
+Lunyole (Translation)	Esuulu Y’Enjofu	id=16584
+Lusoga (Translation)	Wandhovu Omuto Omubuulirize	id=20900
 Maa (Translation)	Olkuoo Loltome Oikilikuanisho	id=7866
+Mampruli (Translation)	Wab Bla Ninkpensi Inabugu Bla Ninkpensi	id=20365
 Ng’aturkana (Translation)	Itaok a Etom Nikachwaan	id=2536
 Oluwanga (Translation)	Omwana We Inzofu, Mwangu Omuchesi	id=8276
 Sepedi (Translation)	Tlowana Ya Go Rata Go Tseba	id=2409
 Sepedi (Adaptation)	Ngwana Wa Tlou Wa Go Rata Go Tseba Kudu	id=2610
-Sesotho (South Africa) (Translation)	Ledinyane La Tlou Le Neng Le Rata Ho Tseba Ha	id=20024
+Sesotho (South Africa) (Translation)	Nko Ya Tlou	id=20024
 Setswana (Translation)	Tlowana Marata Go Itse	id=2060
 SiLozi (Translation)	Kuitalifisa Kwa Kana Ka Tou	id=18567
+Talen (Translation)	Wobil Veeh Wol Daan	id=20187
 Xitsonga (Translation)	Xindlopfana Xo Hlamarisa	id=18991
 Zarma (Translation)	Ce-Beeriizo Ga Sootiya Gumo	id=10108

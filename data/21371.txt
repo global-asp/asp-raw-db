@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=21371&d=0&a=1
+id:	21371
+title:	Andiswa Omuzaanhi Owo  Mupiira
+author:	Titus Ndhokero
+artist:	Eden Daniels
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21371.png
+desc:	Andiswa bwene ayenda kuzana mupiira ku tiimu eye isomelo
+
+page_text:
+
+P1	Andiswa ya bona abalenzi
+  nga bazana omupiira. Ye gomba nga ayenda kuzana
+  nabo.yabuza omutendesi okuzana nabo
+P2	Omutendesi yata emikono
+  ge kunkende,’mu isomelo lino, abalenzi bonka nabaikilizibwa okuzana omupila,’ya koba
+P3	Abalenzi bamokoba aje
+  azane netball.bakoba
+  netball yabawalla omupiira
+  gwa balenzi. Andiswa ya niggah
+P4	Olunaku olwailaku, eisomelo
+  lya lina oluzaanho olukulu. Omutendesi yali nga timusanyufu kubanga omuzaahni weh asinga yali
+  mulwaile nga tasobola kuzana
+P5	Andiswa yalumuka eye omutendesi
+  yamusaba okumwikiriza azaanhe. Omutendesi yali taidhi kya
+  kukola. Era yikiriza Andiswa azaanhe ku tiimu.
+P6	Omuzaanho gwali mugumu.
+  Wazira eyateeba paka ekuwumulamu.
+P7	Mu kitundu ekyokubili mu muuzaanho omulenzi yawa Andiswa omupiila. Yaja supiidi eye goolo yasamba omupiila na amanhi
+  yateeba goolo.
+P8	Abantu ba bwatuka
+  ne isanhu. Okuva olwo, abawala baikirizibwa okuzaanha omupiila mu isomelo.
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/4460.png
+illustrations/pages/4461.png
+illustrations/pages/4462.png
+illustrations/pages/4463.png
+illustrations/pages/4464.png
+illustrations/pages/4465.png
+illustrations/pages/4466.png
+illustrations/pages/4467.png
+
+translations:
+
+Amharic (Translation)	አዲሴ- የእግር ኳስ ኮከቧ	id=12962
+English (Original)	Andiswa Soccer Star	id=5283
+Hausa (Nigeria) (Translation)	Andiswa Kwararriyar 'yarwasan Kwallan Kafa	id=20760
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=16757
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Tigrigna (Translation)	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ	id=18977
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

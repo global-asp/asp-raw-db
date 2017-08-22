@@ -11,7 +11,16 @@ desc:	Wune ngupeta ni yakulembela yangu ya kupetela.
 
 page_text:
 
-P1	.
+P1	  Wune ngupeta ni yakulembela yangu ya kupetela.
+P2	  Wune ngupeta dipwete ni cakulembela ca ntundu wecejewu.
+P3	  Wune ngupeta dilalanje ni cakulembela ca ntundu wadilalanje.
+P4	  Wune ngupeta dyuva ni cakulembela ca ntundu wawunjano.
+P5	  Wune ngupeta dyola ni cakulembela ca ntundu wawusamba.
+P6	  Wune ngupeta kumawunde ni cakulembela ca ntundu wabuluwu.
+P7	  Wune ngupeta maluva ni cakulembela ca ntundu wecejewu.
+P8	  Wune ngupeta come cimo ni cakulembela ca ntundu wawupidiwu.
+P9	  Wune ngupeta mbendela ja Mosambiki ni mitundu jejinji.
+P10	.
 
 images:
 

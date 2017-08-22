@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=15504&d=0&a=1
 id:	15504
-title:	Magezi and the Finger of Millet
-author:	Cornelius Gulere
+title:	Magezi And The Finger Of Millet
+author:	Cornelius Wambi Gulere
 artist:	Brian Wambi
 lang:	English
 level:	Read aloud
@@ -58,5 +58,11 @@ illustrations/pages/15490.png
 
 translations:
 
-Lusoga (Original)	Magezi N' Akafangata Ak' Obulo	id=15503
+Amharic (Translation)	መብራቴና ከተማ	id=21118
+English (Adaptation)	Magezi And Kasiira	id=20875
+Kiswahili (Translation)	Magezi Na Kasiira	id=21075
+Lunyole (Translation)	Musiho Ni Malwa	id=21024
+Lusoga (Original)	Magezi Na Akafangata Ko Bulo	id=15503
+Ng’aturkana (Translation)	Magezi Ka Kasira	id=21136
 Portuguese (Translation)	Magezi E a Erva De Milheto	id=17094
+Tigrigna (Translation)	ህበይን ዋዓግን	id=21110

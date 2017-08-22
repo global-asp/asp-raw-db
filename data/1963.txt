@@ -35,6 +35,7 @@ illustrations/pages/1218.png
 translations:
 
 Afrikaans (Translation)	Hare	id=11318
+Amharic (Translation)	የፀጉር ምርጫዎቻችን	id=21177
 Aringati (Translation)	Ĩzĩnũwélẽ Drị̃ꞌbị́	id=8359
 Ateso (Translation)	Itima	id=3079
 English (Original)	Hair	id=1746
@@ -44,7 +45,6 @@ Luganda (Translation)	Enviiri	id=9339
 Lugbarati (Translation)	Dri'bi	id=2809
 Lumasaaba (Translation)	Litsuune	id=1964
 Lunyole (Translation)	Efiiri	id=3073
-Lunyole (Translation)	Efiiri	id=12900
 Lusoga (Translation)	Nviiri	id=2810
 Maa (Translation)	Ilpápít	id=2743
 Ng’aturkana (Translation)	Ng’Itim	id=2812

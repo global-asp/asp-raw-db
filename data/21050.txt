@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=21050&d=0&a=1
+id:	21050
+title:	Umuriro Nanone
+author:	Jean Paul Harelimana
+artist:	Rob Owen and Wiehan de Jager
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21050.png
+desc:	Twagerageje kuvuga ibintu bitandukanye umuriro ukora
+
+page_text:
+
+P1	Ndongeye mbona umuriro.
+P2	Umuriro uraka ushashagirana.
+P3	Umuriro ushobora guteka inyama n'imboga.
+P4	Umuriro ushobora gutuma nshyuha.
+P5	Urumuri rw'umuriro ruramurikira igihe hari umwijima.
+P6	Umuriro waka uturagurika.
+P7	Umuriro ufite imbara kandi uteye ubwoba.
+P8	Tugomba kwitonda igihe ducana umuriro cyangwa igihe dukina nawo.
+
+images:
+
+illustrations/pages/6121.png
+illustrations/pages/1298.png
+illustrations/pages/8560.png
+illustrations/pages/8557.png
+illustrations/pages/17333.png
+illustrations/pages/8558.png
+illustrations/pages/6121.png
+illustrations/pages/8556.png
+illustrations/pages/1298.png
+
+translations:
+
+English (Original)	Fire Again!	id=19933
+Luganda (Translation)	Omuliro Naate	id=21265

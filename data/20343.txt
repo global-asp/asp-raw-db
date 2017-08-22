@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=20343&d=0&a=1
+id:	20343
+title:	Libungwe Nende Ikwena
+author:	Ursula Nafula
+artist:	
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20343.png
+desc:	Yechesia shinga Libungwe lieonokosia okhulibwa nende Ikwena.
+
+page_text:
+
+P1	Libungwe liakanana Ikwena khu nyanza.
+P2	"Wamenya hena?" Ikwena yakalusia, "Munyanza."
+P3	"Wamenya hena?" Libungwe liakalusia, "Mumisala."
+P4	"Wamanya okhusoka?" Ikwena yareba Libungwe.
+P5	Libungwe liekana. Ikwena neibola, "Enyala okhwechesia."
+P6	Ikwena yabola, "Olahenda ta. Khuli abetsa."
+P7	Ikwena yabola, "Khotsa wanje nomulwale. Yenya inyama."
+P8	Libungwe neliba nende oburi. Ikwena naimulie?
+P9	Libungwe lienya okhwibatsa.
+P10	Libungwe lili nende liparo.
+P11	"Ndalainia omwoyo kwanje omuheresie," Libungwe lialaka.
+P12	"Omwoyo kwanje kuli khumusala," Libungwe liabola.
+P13	Ikwena yareba, "Olenda omwoyo kwo?" Libungwe lieyama.
+P14	Ikwena yakalukha mulukongo. Libungwe lianina khumusala.
+P15	Ikwena yaboola, "Obeere! Sholi omwitsa wanje ta."
+P16	"Shekhuli abetsa ta. Wenya okhundia!" Libungwe liabola.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri Da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	Unkawu Nongwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kiswahili (Translation)	Sokwe Na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402

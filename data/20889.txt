@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=20889&d=0&a=1
+id:	20889
+title:	Thunder And Her Son
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Jesse Breytenbach
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20889.png
+desc:	Thunder and her son
+
+page_text:
+
+P1	Long ago, Thunder and Lightning lived on earth among people.
+P2	Thunder was the mother of Lightning.
+P3	Lightning had a bad temper.
+P4	When Lightning was angry, he destroyed people, houses and trees.
+P5	When Lightning caused such damage, Thunder made a loud noise.
+P6	Lightning did not pay attention to his mother.
+P7	At last,  people complained to the king.
+P8	The king sent Thunder and Lightning to live far away.
+P9	Lightning still burnt forests and crops when he was angry.
+P10	So people complained to the king again.
+P11	The king sent Thunder and Lightning to live in the sky.
+P12	But Lightning still burns and destroys when he is angry.
+
+images:
+
+illustrations/pages/19056.png
+illustrations/pages/19042.png
+illustrations/pages/19044.png
+illustrations/pages/19046.png
+illustrations/pages/19047.png
+illustrations/pages/19048.png
+illustrations/pages/19050.png
+illustrations/pages/19051.png
+illustrations/pages/19052.png
+illustrations/pages/19053.png
+illustrations/pages/19054.png
+illustrations/pages/19055.png
+illustrations/pages/19056.png
+
+translations:
+
+Ateso (Translation)	Eiresi Keda Okokuke	id=21042
+Dhopadhola (Original)	Mor Koth Kodi Lith Koth	id=19073
+English (Translation)	Thunder And Lightning	id=19074
+Kiswahili (Translation)	Ngurumo Na Radi	id=19092
+Kiswahili (Translation)	Ngurumo Na Mwanawe	id=21141
+Ng’aturkana (Translation)	Agirokin Ka Lokookeng	id=21128
+Tigrigna (Translation)	ነጎዳ ምስ ወዳ 	id=21172

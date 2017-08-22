@@ -14,12 +14,13 @@ page_text:
 P1	Lona nguthisha wami. Igama lakhe  nguZanele. Ungithanda kakhulu.
 P2	Uthisha uZanele usifundisa ongwaqa nonkamisa. Ngiyakwazi ukuphimisa onkamisa a,  e,  i,  o,  u.
 P3	Uthisha usifundise imibala: -bomvu,  -luhlaza,  okwesibhakabhaka,  -luhlaza okotshani,  futhi -mnyama.
-P4	NgoMsombuluko,   usixoxela izindaba ezimayelana namadoda adumile.
-P5	NgoLwesibili,  usixoxela izindaba ezimayelana nabesifazane abadumile.
-P6	NgoLwesithathu,   usixoxela ngezithuthi.
-P7	NgoLwesine,  usixoxela ngezolimo.
-P8	NgoLwesihlanu,  yithuba lethu lokuxoxela abanye izindaba.
-P9	Uthisha wethu uvelele. Ngifuna ukufana nothisha uZanele uma sengikhulile.
+P4	Uthisha uZanele wazi izindaba eziningi. Usixoxela indaba ehlukile usuku nosuku.
+P5	NgoMsombuluko,   usixoxela izindaba ezimayelana namadoda adumile.
+P6	NgoLwesibili,  usixoxela izindaba ezimayelana nabesifazane abadumile.
+P7	NgoLwesithathu,   usixoxela ngezithuthi.
+P8	NgoLwesine,  usixoxela ngezolimo.
+P9	NgoLwesihlanu,  yithuba lethu lokuxoxela abanye izindaba.
+P10	Uthisha wethu uvelele. Ngifuna ukufana nothisha uZanele uma sengikhulile.
 
 images:
 
@@ -36,6 +37,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -52,11 +54,13 @@ isiZulu (Translation)	Uthisha Uzanele	id=13537
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

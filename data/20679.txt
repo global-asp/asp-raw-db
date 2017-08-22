@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=20679&d=0&a=1
+id:	20679
+title:	Imibala Eyisikhombisa Yothingo  Lwenkosazana
+author:	Pumla Mdontswa
+artist:	Jesse Breytenbach
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20679.png
+desc:	Le ndaba ikhuluma ngezinombolo nemibala.
+
+page_text:
+
+P1	Imibala eyisikhombisa yothingo lwenkosazana.
+P2	Owokuqala obomvu.
+P3	Ufake ihembe elibomvu.
+P4	Owesibili osawolintshi.
+P5	Yini esawolintshi kulesi sithombe?
+P6	Owesithathu osaphuzi.
+P7	Yini ephuzi kulesi sithombe?
+P8	Owesine oluhlaza satshani.
+P9	Yini eluhlaza satshani kulesi sithombe?
+P10	Owesihlanu oluhlaza sasibhakabhaka.
+P11	Yini eluhlaza sasibhakabhaka kulesi sithombe?
+P12	Owesithupha umbala oluhlaza ngokujiyile (indigo).
+P13	Yini enombala oluhlaza ngokujiyile kulesi sithombe?
+P14	Owesikhombisa osabukhwebezane ngokujiyile (violet).
+P15	Umbala wokugcina uyedlula yonke imibala ngobuhle. Wena uthanda umbala onjani?
+P16	Yimiphi imibala eyisikhombisa yothingo lwenkosazana?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Amharic (Translation)	7 የቀስተደመና ቀለማት 	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+Chinyanja (Translation)	Mautoto Asanu Ndi Awiri Autawaleza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
+English (Translation)	Colours of a Rainbow	id=10463
+English (Adaptation)	7 Colours Of A Rainbow	id=19760
+Hausa (Nigeria) (Translation)	Launika Bakwai Na Bakan Gizo	id=20798
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+Kikamba (Translation)	Utathi	id=15419
+Kiswahili (Original)	Rangi Za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke Ali Na Langi 7	id=20396
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
+Siswati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

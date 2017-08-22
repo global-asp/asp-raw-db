@@ -22,9 +22,10 @@ P8	Kancane kancane izinto zashintsha. Izingane zangabe zisakhuluma kodwa zase zi
 P9	Njalo uma bebukana babebonana ukuthi amazinyo abo ayakhula.
 P10	Bashintsha baba izidalwa ezintsha ezazingakaze zibonwe,  baphenduka izimfene.
 P11	Baphila kahle isikhathi eside beyizimfene ezikhululekile. Bayeka ukugijimisa onogwaja nezinyoni.
-P12	Kodwa babesakhumbula ukuthi babengabantu. Babebukana amakhala amade bahlekane.
-P13	Loyo owayehlekwa waye gxuma gxuma ukudinwa. Kwahamba isikhashana bangakwazi ukuhlala ndawonye ngenxa yokuchwensana. Umndeni ngamunye wahlukana.
-P14	Yingakho nje nanamuhla izimfene zingaphili njengesizwe sezimfene kodwa ngamaqoqana amancane.
+P12	Bagcina bekhohliwe nokuthi kuhanjwa kanjani. Bayeka ukukhuluma nokugqoka izingubo ngoba imilenze yabo yayimide futhi inoboya obumnyama.
+P13	Kodwa babesakhumbula ukuthi babengabantu. Babebukana amakhala amade bahlekane.
+P14	Loyo owayehlekwa waye gxuma gxuma ukudinwa. Kwahamba isikhashana bangakwazi ukuhlala ndawonye ngenxa yokuchwensana. Umndeni ngamunye wahlukana.
+P15	Yingakho nje nanamuhla izimfene zingaphili njengesizwe sezimfene kodwa ngamaqoqana amancane.
 
 images:
 
@@ -48,7 +49,7 @@ translations:
 
 English (Original)	The Baboons That Went This Way and That	id=2605
 English (Adaptation)	The Baboons That Went This Way and That	id=2609
-English (Adaptation)	Baboons	id=19986
+English (Adaptation)	They Became Baboons	id=19986
 Kiswahili (Translation)	Nyani Walioenda Huku Na Huko	id=2987
 Lumasaaba (Translation)	Tsingukye Tsitsakyeendaana Eyi Ni Neeyi	id=2990
 Lunyole (Translation)	Enguge Ejerwenga Eno Ni Neera	id=2852

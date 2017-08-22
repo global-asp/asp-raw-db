@@ -15,12 +15,14 @@ P1	Lo nguTitshalakazi wam. Igama lakhe nguTitshalakazi Akinyi. Uyandithanda kakh
 P2	UTitshalakazi Akinyi usifundisa ialfabhethi kunye noonobumba. Ndiyakwazi ukubiza amagama athi: a,  e,  i,  o,  u.
 P3	UTitshalakazi Akinyi usifundise le mibala: bomvu,  bhlowu,  luhlaza,  tyheli,  nomnyama.
 P4	Xa kufike ixesha lokulala uyasiculela side silale. Usiculela ingoma yokusilalisa.
-P5	NgoMvulo,  usibalisela amabali ngamadoda amangalisayo.
-P6	NgoLwesibini,  usibalisela amabali ngamakhosikazi amangalisayo.
-P7	NgoLwesithathu,  usibalisela amabali ngezithuthi.
-P8	NgoLwesine,  usibalisela amabali ngezolimo nemfuyo.
-P9	NgoLwesihlanu,  uTitshalakazi Akinyi usiyalela ukuba sibalise amabali wethu eklasini.
-P10	UTitshalakazi wethu ngoyena titshala ubalaseleyo kulo lonke ihlabathi! Xa ndikhulile ndifuna ukuba njengoTitshalakazi Akinyi.
+P5	Le ngoma yokulalisa ihamba ngolu hlobo: Thula bhabha,  thula mntwana Thula bhabha,  mus'ukulila Umama uyeza Uza neelekese.
+P6	UTitshalakazi Akinyi wazi amabali amaninzi. Usibalisela ibali elahlukileyo kusuku ngalunye lweveki.
+P7	NgoMvulo,  usibalisela amabali ngamadoda amangalisayo.
+P8	NgoLwesibini,  usibalisela amabali ngamakhosikazi amangalisayo.
+P9	NgoLwesithathu,  usibalisela amabali ngezithuthi.
+P10	NgoLwesine,  usibalisela amabali ngezolimo nemfuyo.
+P11	NgoLwesihlanu,  uTitshalakazi Akinyi usiyalela ukuba sibalise amabali wethu eklasini.
+P12	UTitshalakazi wethu ngoyena titshala ubalaseleyo kulo lonke ihlabathi! Xa ndikhulile ndifuna ukuba njengoTitshalakazi Akinyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

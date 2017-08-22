@@ -13,9 +13,10 @@ page_text:
 
 P1	Il était une fois un crocodile qui avait très faim.
 P2	Il cherchait de quoi manger,  doucement et sans faire de bruit.
-P3	TCHAK! Le crocodile attaque!
-P4	Après cela sa faim est calmée,  et il est content.
-P5	Jusqu'à ce qu'il ait faim de nouveau.
+P3	Et soudain.
+P4	TCHAK! Le crocodile attaque!
+P5	Après cela sa faim est calmée,  et il est content.
+P6	Jusqu'à ce qu'il ait faim de nouveau.
 
 images:
 
@@ -31,6 +32,8 @@ translations:
 Afrikaans (Translation)	Die Honger Krokodil	id=11063
 Arabic (Translation)	التمساح الجائع	id=18188
 English (Original)	The Hungry Crocodile	id=7043
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
 Luganda (Translation)	Ggonya Omuyala.	id=9664
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252

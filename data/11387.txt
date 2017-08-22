@@ -21,6 +21,7 @@ P7	Maar Hiëna was bekommerd. "Hoe gaan ek hierdie probleem oplos? Haas is 'n ba
 P8	Hiëna het hieroor gedink. "Alles reg,  jy kan die helfte van die plaas kry,  maar jy moet nog steets so hard werk." Haas glimlag want hy het geweet dit is 'n uitstekende ooreenkoms en hy stem in om so te maak.
 P9	Maar soos die tyd verby gaan,  het Haas opgehou om te werk en het heeldag gesit en sing. Hiëna het nogsteeds hard en lank gewerk en dit het hom kwaad gemaak dat hy al die werk moes doen. Hy het nie meer van Haas gehou nie. Hiëna het begin om bedenkinge te hê oor die ooreenkoms wat hy met Haas gemaak.
 P10	So op 'n dag het Hiëna vir Haas gesê,  "Ons het 'n probleem. Ons was vriende en het saam geboer maar ek hou nie daarvan dat jy deesdae niks doen nie. As jy my nie gaan help nie,  dan moet jy loop." Haas het geweier om te loop,  omdat hy gewoond geraak het aan al die kos wat hy verniet gekry het. Maar Hiëna het genoeg van die storie gehad en het vir Haas van die plaas af weggejaag. "As ek jou ooit weer naby my plaas sien,  sal ek jou opvreet!" het hy vir Haas geskree.
+P11	Dit is hoekom Hiëna steeds vir Haas jaag as hy hom naby sy plaas sien. En van daardie dag af skuil Haas in die veld en probeer groente steel van die plase in sy omgewing.
 
 images:
 
@@ -38,5 +39,6 @@ illustrations/pages/8150.png
 
 translations:
 
+Dhopadhola (Translation)	Goroki Pa Ochulu Kodi Ondieki	id=20634
 English (Original)	Hare and Hyena	id=8179
 English (Adaptation)	Hare and Hyenas Fight	id=13086

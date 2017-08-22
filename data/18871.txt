@@ -12,12 +12,12 @@ desc:	Swinyenyana swi lava ku hlawula hosinkulu. Xana ku ta va mani?
 page_text:
 
 P1	Khale ka khaleni,  swinyenyana swi vile na nhlengeletano. A swi lava ku va na hosinkulu,  ku fana na vanhu na swihari. Xana i xinyenyana xihi xi faneleke ku va hosinkulu?
-P2	"Gama,  ri na matimba kutani ri fanele hi vuhosinkulu!" ku vula xinyenyana xin'wana. "E-e,  a ri na harhi ya vukosi,  naswona loko ri huwelela,  ri twakala ri ri na gome," ku vula xin'wana xinyenyana.    "Se Yimbho,  hikuva yona i yikulu swinene naswona yi bonga ku fana na nghala," xin'wana xinyenyana xi huwelela. "E-e,  gama a ri koti ku haha. Hosinkulu ya swinyenyana yi fanele ku kota ku haha."
+P2	"Gama, ri na matimba kutani ri fanele hi vuhosinkulu!" ku vula xinyenyana xin'wana. "E-e, a ri na harhi ya vukosi, naswona loko ri huwelela, ri twakala ri ri na gome," ku vula xin'wana xinyenyana. "Se Yimbho,  hikuva yona i yikulu swinene naswona yi bonga ku fana na nghala," xin'wana xinyenyana xi huwelela. "E-e,  gama a ri koti ku haha. Hosinkulu ya swinyenyana yi fanele ku kota ku haha."
 P3	"Ndzi anakanya leswaku ndzi fanele ku va hosinkulu," ku vula Phigogo,  a karhi a tlangisa xipesu xa yena. "Ndzi sasekile swinene." "Wa tikukumuxa," ku vula Xikhovha. "Ndzi na mahlo lamakulu swinene ku tlula xinyenyana xin'wana na xin'wana. Ndzi fanele ku va hosinkulu." "E-e,  a wu nga vi hosinkulu wena Xikhovha," ku huwelela swinyenyana leswin'wana. "U ya eku etleleni loko dyambu ri xa!"
 P4	Hikokwalaho ka sweswo a swi yangi kule swinene hi ku hlawula hosinkulu. Hiloko xinyenyana xin'we xi ta na mavonelo. Xinyenyana xi ku,  "Xinyenyana lexi xi nga ta hahela ehenhla swinene xi ta va hosinkulu." "Ina,  ina," ku pfumela swihari hinkwaswo hi rito ra le henhla,  kutani hinkwaswo swi haha swi ya ehenhla,  emapapeni.
 P5	Sekwa ri hahile siku rin'we,  ri ku thwii ehenhla ka tintshava ta le henhla swinene emisaveni. Gama ri hahile ku ringana masiku mambirhi,  ri ya emapapeni ehenhla tintshava swinene. Kambe Koti ri hahele ehenhla ku ringana masiku manharhu hinkwawo handle ko yima,  ri hahela ehenhla thwii ri kongoma dyambu. Kule henhla ka swona,  swinyenyana swi twile Koti ri rila,  "Ndzi tlhandlukile swinene,  hi mina hosinkulu!"
 P6	Kambe se kahlekahle ehenhla ka rona Koti ri twile rito ritsanana,  "Ntshi,  ntshi,  ntshi! Hi mina wo fika ehenhla swinene,  hi mina hosinkulu." A ku ri Ncede,  xinyenyana lexitsongo swinene ka swinyenyana hinkwaswo. Koti ri hahele ehenhla ri nghena emapapeni.
-P7	"A wu nga ndzi tluli mina,  nakambe," ku vula Koti,  kutani ri tlhela ri haha thwi ri ya ehenhla ri nghena emoyeni. Ri hahile na ku lero na haha ku kondza ri nga koti ku haha nakambe. "Ndzi le henhla ku tlula xinyenyana xin'wana. Hi mina hosinkulu ya n'wina!" Ku huwelela Koti.
+P7	"A wu nga ndzi tluli mina,  nakambe," ku vula Koti,  kutani ri tlhela ri haha thwi ri ya ehenhla ri nghena emoyeni. Ri hahile na ku lero na haha ku kondza ri nga koti ku haha nakambe. "Ndzi le henhla ku tlula xinyenyana xin'wana. Hi mina hosinkulu ya n'wina!" ku huwelela Koti.
 P8	Kambe ku suka ehansi ka timpapa ta Koti ku hume xinyenyana xitsanana. "Tshwi,  tshwi! Tshwi,  tshwi! Hi mina,  xinyenyana lexitsongo swinene! Hi mina hosinkulu ya n'wina!" Koti a ri karhele swinene ku va ri haha ri ya emahlweni.
 P9	Hiloko ri hahela ehansi – na xinyenyana lexitsongo xi va xa ha ri eka timpapa ta rona. Swinyenyana leswin'wana swi hlundzukile hi Ncede. Swi ri yimerile,  swi lulamile ku susa tintsiva ta rona hinkwato.
 P10	Kambe hi xihatla loko Ngcede ri vona hilaha swinyenyana leswin'wana swi nga hlundzuka hakona,  kutani ri wele endzeni ka nkele wa nyoka. Swinyenyana leswi a swi yimile hiloko swi ku eka Xinkhovha,  "Hi mahlo ya wena lamakulu,  u fanele ku languta eka nkele kutani u xi khoma loko xi huma." Hiloko Xinkhovha xi tshama emahlweni ka nkele.
@@ -64,6 +64,7 @@ Lumasaaba (Translation)	Umuyiinga We Binywiinywi	id=3117
 Lumasaaba (Translation)	Umuyiinga We Binywiinywi	id=8697
 Lunyole (Translation)	Habaha W’Enyuni	id=3119
 Maa (Translation)	Olkínkí Le Oó Imotónyi	id=7206
+Mampruli (Translation)	Ninsi Natitari	id=20388
 Oluwanga (Translation)	Omwami Wa Amayoni	id=3120
 Portuguese (Translation)	Rei Das Aves	id=16660
 Sepedi (Translation)	Kgoši Ya Dinonyana	id=18160

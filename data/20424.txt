@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=20424&d=0&a=1
+id:	20424
+title:	Gogaa Fattee
+author:	Mulualem  Daba
+artist:	Rob Owen
+lang:	Afaan Oromo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20424.png
+desc:	Oduu durii maalif Fatteen gogaa cimaafi bishaan ala jirachuu danda’ee.
+
+page_text:
+
+P1	Fatteen bishaan keessa jiraachu jibisise garaa alaa bahuu barbaadde.
+P2	Qocaanis, "Ofeggadhu! qaamnii kee nigoga," jetten.
+P3	Fatten garuu gadi batee ilaalu barbaadde.
+P4	Naanno ishee huunda ilaalte.
+P5	Isheenis Garara bishaan bokka kufame keessa jiruu waliin walargani.
+P6	Gararanis gara halluu dimaatti jijiramu jalqabdee. Fatteenis irraa achi utaalte.
+P7	Isaa boodas, Warabessa ibida qabsiisu argite.
+P8	Qanqeen ibidas Fatteetti faca'e. Isheenis nisodaate.
+P9	Ibidichis qaama ishee gubnan, utaltee garaa bishaan bokka kufameeti deebite.
+P10	Qaama ishee hunda garuu qaanqeen gubee ture.
+P11	Fatten dhagaa jala mana argatte. Gogaan ishee haaras gogogaafi cimaa ta'ee.
+P12	Kanaafu, Raacha qoofatu amma qaama lalafafi bishaan moga jirachu dandaa'a.
+
+images:
+
+illustrations/pages/13417.png
+illustrations/pages/13415.png
+illustrations/pages/13416.png
+illustrations/pages/13417.png
+illustrations/pages/13418.png
+illustrations/pages/13419.png
+illustrations/pages/13421.png
+illustrations/pages/13422.png
+illustrations/pages/13423.png
+illustrations/pages/13424.png
+illustrations/pages/13425.png
+illustrations/pages/13426.png
+illustrations/pages/13427.png
+
+translations:
+
+Amharic (Translation)	የእንቁራሪት ቆዳ	id=20492
+English (Original)	Mod the Toad	id=13546
+English (Adaptation)	How the Toad Got Its Skin	id=19766
+French (Translation)	Mod Le Crapaud	id=14527
+isiZulu (Translation)	Usele,  Iselesele	id=20669
+Kiswahili (Translation)	Namna Chura Alipata Ngozi Yake	id=20439
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
+Portuguese (Translation)	Mod, a Sapa	id=17037

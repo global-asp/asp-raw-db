@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21073&d=0&a=1
+id:	21073
+title:	Nyumbu
+author:	Brigid Simiyu
+artist:	Marleen Visser
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21073.png
+desc:	Hadithi inayoeleza kwa nini nyumbu hawazai watoto.
+
+page_text:
+
+P1	Hapo zamani, kulikuwa na nyumbu mrembo. Aliitwa Waridi.
+P2	Farasi mwenye umbo zuri alisema, “Lazima nimwoe Waridi.”
+P3	Farasi alimwambia Waridi, “Hebu twende mtoni pamoja.”
+P4	Farasi alimwuliza Waridi kuwa mke wake. Waridi alikubali.
+P5	Farasi alimwuliza Waridi, “Wazazi wako ni nani?”
+P6	Waridi alisema, “Mama yangu anaishi katika ikulu ya mfalme.”
+P7	“Dada yangu anaishi ndani ya uwanja wa kanisa. Kwani humjui?”
+P8	Aliongeza, “Shangazi yangu mrembo anaishi na mkuu wa kijiji.”
+P9	Wakati huo, punda mzee alipita. Alikuwa babake Waridi.
+P10	Waridi hakumsalimu babake wala hakumtazama.
+P11	Punda yule mzee akauliza, “Kuna nini binti yangu?”
+P12	Farasi alimwuliza Waridi, “Huyu punda mjinga ni nani?”
+P13	Waridi alimjibu, “Simjui.”
+P14	Farasi alimpiga teke yule punda mzee.
+P15	Punda mzee alivunjika moyo. Alilia kisha akafa.
+P16	Kwa sababu Waridi hakumheshimu babake, hawezi kuzaa watoto.
+
+images:
+
+illustrations/pages/17977.png
+illustrations/pages/17968.png
+illustrations/pages/17969.png
+illustrations/pages/17970.png
+illustrations/pages/17971.png
+illustrations/pages/17972.png
+illustrations/pages/17973.png
+illustrations/pages/17974.png
+illustrations/pages/17975.png
+illustrations/pages/17976.png
+illustrations/pages/17977.png
+illustrations/pages/17978.png
+illustrations/pages/17979.png
+illustrations/pages/17980.png
+illustrations/pages/17981.png
+illustrations/pages/17982.png
+illustrations/pages/17984.png
+
+translations:
+
+Amharic (Translation)	በቅሎዋ ዋርዲት	id=17991
+Amharic (Adaptation)	በቅሎዋ ዋርዲት	id=18427
+Amharic (Translation)	ዋርዲት በቅሎዋ	id=21180
+English (Original)	Wardit, the Mule	id=17985
+English (Adaptation)	The Mule	id=20873
+Tigrigna (Translation)	እታ በቅሊ	id=21113

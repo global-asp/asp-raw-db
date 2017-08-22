@@ -1,0 +1,84 @@
+url:	http://africanstorybook.org/reader.php?id=20999&d=0&a=1
+id:	20999
+title:	Tima Ssunguda Tima
+author:	Namee and Wanyenze Lillian and Robinah
+artist:	Wiehan de Jager
+lang:	Lumasaaba
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20999.png
+desc:	Kumuyembe kwakwa asi asi we shisaala isi sunguda akonele. Kumulundi kwenen ukwo
+
+page_text:
+
+P1	Kumuyembe kwakwa asi is abe sunguda akonele.
+P2	Sunguda awulira likoona, “Tima sunguda tima!”
+P3	Ingkhoho yananiha khutima nga yawulira shesi sunguda aloma.
+P4	Baboolera imbwa nayo bari, “Sunguda awulire ishindu shikwa
+			amala watimma.”
+P5	Imbwa yananiha khutiima ni sunguda ni ingogkho.
+P6	Imbwa yabolerera indogoyi iri, “Sunguda awuliire ishindu
+			shikwa atima.”
+P7	Indogoyi nayo yananiha khutiima ni tsindaala.
+P8	Ipunda yereba tsashe, “Mulikhutima shi?” Indogoyi yeramu
+			iri, “ Nasse nakhumanya tawe.”
+P9	Ipunda yananikha khutima nitsashe.
+P10	Ipunda yabolera ingafu, “Sunguda awuliire ishindu shikwa
+			watima.”
+P11	Ingafu yeyemberera nayo yananiha khutima.
+P12	Ingafu yabolera pussi, “Sunguda awuliire ishindu shikwa
+			watima.”
+P13	Pussi naye wananikha khutiima ni bisoolo bindi.
+P14	Bakaanana umusinde.
+			“Wakhumanya shibelewo ta?” wareba aryo.
+
+images:
+
+illustrations/pages/7610.png
+illustrations/pages/7595.png
+illustrations/pages/7596.png
+illustrations/pages/7598.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/7601.png
+illustrations/pages/7602.png
+illustrations/pages/7603.png
+illustrations/pages/7604.png
+illustrations/pages/7605.png
+illustrations/pages/7606.png
+illustrations/pages/7607.png
+illustrations/pages/7608.png
+illustrations/pages/7609.png
+
+translations:
+
+Afrikaans (Translation)	Hasie Se Groot Skrik	id=10861
+Afrikaans (Translation)	Hasie Onder Die Boom	id=11221
+Afrikaans (Translation)	Hasie Onder Die Boom	id=20094
+ChiTonga (Translation)	Sulwe Mujungusi Acisamu	id=18656
+CiNyanja (Translation)	Kalulu Munsi Mwa Mutengo	id=18669
+Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
+English (Translation)	Rabbit Under the Tree	id=7734
+English (Adaptation)	Test Edit	id=16731
+English (Adaptation)	Run Rabbit Run!	id=20888
+French (Translation)	Le Lapin Sous Un Arbre	id=10154
+Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
+IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
+isiXhosa (Translation)	Umvundla Phantsi Komthi	id=17581
+isiZulu (Original)	Unogwaja Ngaphansi Kwesihlahla	id=7664
+isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
+Kiswahili (Translation)	Sungura Chini Ya Mti	id=8438
+Kiswahili (Translation)	Kimbia Sungura, Kimbia!	id=21140
+Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
+Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lunyole (Translation)	Enduyu Ŋaasi W’Omuyembe	id=16585
+Ng’aturkana (Translation)	Apoo Na Epung’Ar!	id=21135
+Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
+Sepedi (Translation)	Mmutla Ka Tlase Ga Mohlare	id=18135
+Sesotho (South Africa) (Translation)	Mmutlanyana Tlasa Sefate	id=20049
+Setswana (Translation)	Mmutla Mo Tlase Ga Setlhare	id=15041
+SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
+Siswati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Tigrigna (Translation)	ጉየይ ማንቲለ፣ ጉየይ 	id=21188
+Tshivenda (Translation)	Muvhuḓa Fhasi Ha Muri	id=18322
+Xitsonga (Translation)	Kondlo Ehansi Ka Murhi	id=19020

@@ -7,7 +7,7 @@ lang:	English
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/9545.png
-desc:	Four elderly animals join together to liberate themselves from their ungrateful owners
+desc:	Four elderly animals join together to liberate themselves from their ungrateful owners.
 
 page_text:
 
@@ -17,7 +17,7 @@ P3	The old rooster heard the woman talking and its heart sank. "Aaiii,  you are 
 P4	As the old rooster walked,  he met the cat. "What has happened?" the cat asked. "My friend,  my boss wants to eat me because I can no longer tell her the time," said the old rooster. "I am going to the big city to sing. Where are you going?" "My friend,  my boss has also decided to kill me because I can no longer catch rats. I am running away," said the cat. "Can I join you?" "Let's go!" said the old rooster.
 P5	They had walked a short while when they saw a dog running very fast. The old rooster called the dog and asked why he was running so fast. "My friend,  my boss chased me because I can no longer catch thieves," replied the dog while panting. "We have similar problems. We are going to the big city to sing," said the old rooster. "Can I join you?" asked the dog.
 P6	The three animals set off together. As they were walking,  a horse stopped them and asked what was happening. "Our bosses want to kill us because we can no longer do our jobs," they all replied together. "I have the same problem,  where are you going?" asked the horse. "We are going to the big city to sing," they replied. The horse asked to join them and they accepted.
-P7	They all walked until it was dark. They saw a house and when they reached it they heard noises inside. They were afraid and decided to sing a song to chase away the people who were in the house. The horse stood on the ground,  the dog climbed onto the horse's back,  the cat climbed on the dog's back,  and the rooster climbed on the cat's back.
+P7	They all walked until it was dark. They saw a house and when they reached it they heard noises inside. They were afraid and decided to sing a song to chase the people who were in the house. The horse stood on the ground,  the dog climbed onto the horse's back,  the cat climbed on the dog's back,  and the rooster climbed on the cat's back.
 P8	They immediately started singing. "Kookoliookoo," sang the rooster. "Myaaawuu myaaawuu," sang the cat. "Woo woo," sang the dog. "Wuuuu wuuuu," sang the horse. They all sang loudly together. The people inside the house were thieves. The thieves were afraid and ran away.
 P9	The old rooster,  the dog,  the horse and the cat entered the house and found food. When they had finished eating they went to sleep. The rooster slept near the door,  followed by the cat,  the dog,  and lastly the horse.
 P10	It was not too long before the thieves were back. Their boss was the first to go into the house. He had just opened the door when the old rooster pecked him with its beak. Then the cat scratched him with its nails. And then he found the dog,  which bit him.
@@ -45,5 +45,10 @@ translations:
 Afrikaans (Translation)	Die Ou Plaashaan	id=11053
 Afrikaans (Translation)	Ou Haan	id=11359
 Afrikaans (Translation)	Ou Haan	id=11523
+Amharic (Translation)	ያመለጡት እንስሳት	id=21181
+English (Adaptation)	Animals Run Away	id=20874
 French (Translation)	Le Vieux Coq	id=10840
+Kiswahili (Translation)	Wanyama Waliotoroka	id=21074
+Ng’aturkana (Translation)	Ng’Itieng Lu Apotu Tosiwakis	id=21137
 Portuguese (Translation)	Velho Galo	id=18863
+Tigrigna (Translation)	ዘምለጡ እንስሳት	id=21111

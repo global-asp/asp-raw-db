@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=20716&d=0&a=1
+id:	20716
+title:	Unkawu Nongwenya
+author:	Pumla Mdontswa
+artist:	Abraham Muzee
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20716.png
+desc:	Unkawu wasinda kanjani emlonyeni kaNgwenya.
+
+page_text:
+
+P1	UNkawu uhlangana noNgwenya ngasechibini.
+P2	Unkawu ubuza uNgwenya, "Ngabe uhlalaphi?" Aphendule Ngwenya, "Echibini."
+P3	UNgwenya ke naye bese ebuza uNkawu. Aphendule uNkawu, "Ngihlala ezihlahleni."
+P4	Aqhubeke uNgwenya, "Uyakwazi ukubhukuda?"
+P5	"Cha, angikwazi." UNgwenya-ke bese ethi, "Ngizokufundisa."
+P6	Aqhubeke uNgwenya, "Ungesabi, singabangane."
+P7	Khona lapho uNgwenya athi kuNkawu, "Umalume wami uyagula, udinga inyama."
+P8	UNkawu useyasaba ngempela manje. Ngabe uNgwenya izomudla?
+P9	UNkawu ufuna ukubalekela uNgwenya manje.
+P10	Hmm! Usenesu.
+P11	UNkawu bese ethembisa uNgwenya, "Ngizokunika inhliziyo yami, uphe umalume wakho."
+P12	"Kodwa-ke, mngane wami, inhliziyo yami isemhlabeni, esihlahleni," kuchaza uNkawu.
+P13	"Ungayilanda inhliziyo yakho lapho?" kubuza uNgwenya. Avumele phezulu uNkawu, "Yebo, yebo."
+P14	Nanguya uNgwenya ebhukuda eya emhlabeni. Nanguya noNkawu egijimela ezihlahleni.
+P15	UNgwenya wezwakala esethi, "Awuyena umngane wami. Uqambe amanga!"
+P16	Waphendula uNkawu esihlahleni, "Vele, asibona abangane! Ucabanga ukuthi angiboni ukuthi ufuna ukungidla ungishwabadele!"
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri Da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kiswahili (Translation)	Sokwe Na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343

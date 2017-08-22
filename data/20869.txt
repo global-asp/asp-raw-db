@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=20869&d=0&a=1
+id:	20869
+title:	Kolwe Ne N'gwena
+author:	Lusaka Teachers
+artist:	Abraham Muzee
+lang:	IciBemba
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20869.png
+desc:	Kolwe ali nomwenso mumatontokanyo Ingwena yalandya?
+
+page_text:
+
+P1	Kolwe akumana ne Ng'wena lumbali yabemba.
+P2	"Bushe wikala kwisa?" Kolwe aipusha. "Mulibemba," ya asuka Ing'wena.
+P3	"Bushe wikala kwisa?" Ing'wena yaipusha. Kolwe aasuka "Mufimuti."
+P4	"Bushe kuti waona?" Ing'wena yaipusha.
+P5	"Iyo, teti nsambe," Kolwe aasuka. "Kuti nakusambilisha."
+P6	Ing'wena yalanda, "Witina, tulifibusa."
+P7	"Kolwe, bayama balwele, balefwaikwa inama," Ing'wena yalanda.
+P8	Kolwe ali nomwenso mumatontokanyo bushe Ing'wena yalandya?
+P9	Kolwe alefwaya okufyuka Ing'wena.
+P10	Elyo Kolwe akwata etontonkanyo.
+P11	Kolwe alaaya, "Nalaa bapela umutima wandi?"
+P12	"Lelo umutima wandi, uli muchimuti kwishilya," alanda Kolwe.
+P13	"Bushe kuti wayausenda umutima obe?" Ing'wena yaipusha. "Ee," Kolwe asumina
+P14	Lilya Ing'wena yabwelela kwishilya, Kolwe afulumukila kufimuti.
+P15	Ing'wena yatile, "I we tauli chibusa wandi, wachimbepa."
+P16	Kolwe atile, "Lwe naine, tatuli fibusa. Ulefwaya okundya."
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri Da Kada	id=20538
+isiZulu (Translation)	Unkawu Nongwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kiswahili (Translation)	Sokwe Na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343

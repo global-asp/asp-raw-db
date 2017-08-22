@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=20911&d=0&a=1
+id:	20911
+title:	Crocodile And Dog
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20911.png
+desc:	Dog finds some eggs on the river shore
+
+page_text:
+
+P1	One day, Dog found eggs at the river
+P2	Dog put the ten eggs in his bag.
+P3	Dog looked after the eggs and kept them warm.
+P4	Crocodile asked Dog, “Have you seen my eggs?”
+P5	Crocodile asked all animals about her eggs.
+P6	Meanwhile,  the eggs hatched one by one.
+P7	Dog could not give the young crocodiles enough food.
+P8	One day, Crocodile heard the rumbling bellies of young crocodiles!
+P9	Crocodile went inside and hit Dog with her tail.
+P10	Crocodile chased Dog down the road.
+P11	Dog stopped and said to Crocodile, "I am sorry!"
+P12	Crocodile forgave him and went to swim with her children.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+isiXhosa (Translation)	Unja No Xam	id=17573
+Kiswahili (Translation)	Mbwa Na Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa Na Mamba	id=18327
+Kiswahili (Translation)	Mamba Na Mbwa	id=21151
+Tigrigna (Translation)	ሓርገፅን ከልብን	id=21178

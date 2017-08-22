@@ -1,13 +1,13 @@
 url:	http://africanstorybook.org/reader.php?id=19108&d=0&a=1
 id:	19108
-title:	The Hyena’S Funeral
-author:	James Ebulon
+title:	The Hyena's Funeral
+author:	Roselyne Wasike
 artist:	Jacob Kono
 lang:	English
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19108.png
-desc:	The donkeys attend a hyena’s funeral with good intentions.  But the hyenas play a cruel trick.
+desc:	The donkeys attend a hyena’s funeral with good intentions. But the hyenas play a cruel trick.
 
 page_text:
 
@@ -50,4 +50,3 @@ illustrations/pages/18734.png
 
 translations:
 
-Ng’aturkana (Original)	Ekoi Akiut Ebu Along’Or	id=19107

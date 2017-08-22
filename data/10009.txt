@@ -16,12 +16,14 @@ P2	Roja no jeydaaɗo Kayannga gooɗom kam jogii-mo. Roja no moƴƴi e Kayannga, 
 P3	Wakkati yahde wakkati fuu Kayannga no juurowo saabeere sakiraaɓe muuɗum faa o fillanoo ɓe tampiri makko.
 P4	Nyannde gooɗom ko juurowii ɓe,  o heɓi dokkal gooɗom. Jollooru hayndeeru gooɗom kam wanngi dow saabeere sakiraaɓe makko.
 P5	Jollooru ndun yimi jimol belngol gooɗom,  pukkinoowol hakkillo. Kayannga faamitii nder maggol sawta daande inniiɗum maayɗo. Sawtooji ɗin no mbi'a nii:.
-P6	To Kayannga yahta fuu no jogii jollooru muuɗum hayndeeru. Nde Kaynnga no jogii jollooru muuɗum fuu,  imo maata reenaare sakiraaɓe makko.
-P7	Nyannde gooɗom,  say gacce hewtii jollooru hayndeeru ndun. Ndun fusi wakkati Kayannga foondinoo weendu faa filowo ndiyam. Ɓernde Kayannga taƴi kan doo.
-P8	Kayannga naati no yima,  imo jogii laalaaɗe jollooru ɗen nder juukoy makko pamaroy:.
-P9	Kayannga nani sawto daande inniiɗum wi'I mo: "Ɓiyam day,  adu laalaaɗe koddiiɗe ɗen. Adu ɗe pilo-ɗaa ndiyam nden lootaa koyɗe maaɗa. Nde a lootii faa gasii fuu,  mummu gite maaɗa." Kayannga waɗi no yamiraa,  say tan,  jollooru ndun warti no wontirnoo.
-P10	Kayannga fuɗɗiti no yahda e jollooru muuɗum to o yahta fuu. To o wittorii fuu,  himɓe no nyo'a caka muuɗum en. "Nduye woni jollooru nduu?" Jollooru Kayannga hayndeeru nduu wadii o heɓi ko o haajaa fuu.
-P11	Jollooru makko hayndeeru nduu faaminii Kayannga ko sakiraaɓe muuɗum no kakkilii e muudum. Gacce fuu waawaa heɓude-mo.
+P6	Kayannga,  Kayannga! An ɓiyiimin mo min njiɗi! A wonaa an tan,  ɓiyam day! Joga jollooru nduu,  ɓiyam day! Yahdu e mayru to njahta fuu,  ɓiyam day! Accu ndu yeewite ɓiyam day!
+P7	To Kayannga yahta fuu no jogii jollooru muuɗum hayndeeru. Nde Kaynnga no jogii jollooru muuɗum fuu,  imo maata reenaare sakiraaɓe makko.
+P8	Nyannde gooɗom,  say gacce hewtii jollooru hayndeeru ndun. Ndun fusi wakkati Kayannga foondinoo weendu faa filowo ndiyam. Ɓernde Kayannga taƴi kan doo.
+P9	Kayannga naati no yima,  imo jogii laalaaɗe jollooru ɗen nder juukoy makko pamaroy:.
+P10	Baaba e inna,  Ndaaree jollooru ndun fusii. Jollooru ndu kokkarno-ɗom kam. Inna e baaba,  noye ngaɗan-mi? Njurmee kam,  lildee kam maande goodom Ko faaminta kam ko no on tawdaa he am wakkati fuu.
+P11	Kayannga nani sawto daande inniiɗum wi'I mo: "Ɓiyam day,  adu laalaaɗe koddiiɗe ɗen. Adu ɗe pilo-ɗaa ndiyam nden lootaa koyɗe maaɗa. Nde a lootii faa gasii fuu,  mummu gite maaɗa." Kayannga waɗi no yamiraa,  say tan,  jollooru ndun warti no wontirnoo.
+P12	Kayannga fuɗɗiti no yahda e jollooru muuɗum to o yahta fuu. To o wittorii fuu,  himɓe no nyo'a caka muuɗum en. "Nduye woni jollooru nduu?" Jollooru Kayannga hayndeeru nduu wadii o heɓi ko o haajaa fuu.
+P13	Jollooru makko hayndeeru nduu faaminii Kayannga ko sakiraaɓe muuɗum no kakkilii e muudum. Gacce fuu waawaa heɓude-mo.
 
 images:
 
@@ -44,7 +46,7 @@ Afrikaans (Translation)	Khayanga en Haar Spesiale Pot	id=11515
 Ekegusii (Translation)	Omogano O’Khayanga Nekerandi Kiaye	id=3115
 English (Original)	Khayanga and Her Gourd	id=2107
 French (Translation)	La Gourde De Khayanga	id=9957
-Hausa (Translation)	Kayanga Da Gyanɗama	id=9992
+Hausa (Niger) (Translation)	Kayanga Da Gyanɗama	id=9992
 Kanuri (Translation)	Fanda-a Budanju-A	id=10035
 Kikamba (Translation)	Ngewa Ya Kayanga Na Kĩkuu Kyake	id=2395
 Kiswahili (Translation)	Khayanga Na Kibuyu Chake	id=7280

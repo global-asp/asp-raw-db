@@ -11,16 +11,18 @@ desc:	Osobola okutubulira abulungi oba obubi bwenkuba? kubyombi kiki ekisinga am
 
 page_text:
 
-P1	Enkeera Wamusana yakeera nnyo navaayo. Yayaka olunaku lwonna. Abantu bayoza engoye zaabwe nezikala bulungi.
-P2	Ku lunaku olwaddako Wankuba naye Yaakeera nnyo. Yatonnya olunaku lwonna. Abantu balembeka amazzi Ebintu byonna ne bijjula. Wankuba nagamba nti nze nsinga amaanyi.
-P3	Mu mwezi gwa January Wamusana yakeeranga nayaka buli lunaku. Abantu bonna baasoberwa buliwamu nga wakalu enkalamata yaluma abantu,  nebisolo,  nomuddo ne gukala.
-P4	Ebbugumu lyayitirira abantu nga bajulira kuwuga mu migga.
-P5	Mu mwezi ogwaddako Wankuba yasonda amaanyi mangi ddala yatonnya kumakya,  mu ttuntu,  akawungeezi nekiro. Amazzi gajjula buli wamu.
-P6	Enkuba bweyatonya yaleeta obunyogovu. Abantu nga balina kwambala kabuuti basobole okubuguma.
-P7	Abalimi baasanyuka kubanga baasimba emmere nyingi era nekula mangu.
-P8	Kyokka batuuka ekiseera nebetamwa anti nga buli wamu wajjudde amazzi. Ebisolo nabyo nebitanndika okunoonya gyebiddukira ku lukalu.
-P9	Olunaku olwaddako omusana tegwayaka. Kyokka ate ne nkuba teyatonnya. Olwo obudde nebuba bwa kikome.
-P10	Buli muntu yali nga awulira bubi nga obudde tebweyagaza.
+P1	Olunaku lumu Wamusana ne Wankuba bawakana nnyo. Wamusana yagamba nze nsinga amaanyi,  ne Wankuba n`agamba nze nsinga amaanyi.
+P2	Enkeera Wamusana yakeera nnyo navaayo. Yayaka olunaku lwonna. Abantu bayoza engoye zaabwe nezikala bulungi.
+P3	Ku lunaku olwaddako Wankuba naye Yaakeera nnyo. Yatonnya olunaku lwonna. Abantu balembeka amazzi Ebintu byonna ne bijjula. Wankuba nagamba nti nze nsinga amaanyi.
+P4	Mu mwezi gwa January Wamusana yakeeranga nayaka buli lunaku. Abantu bonna baasoberwa buliwamu nga wakalu enkalamata yaluma abantu,  nebisolo,  nomuddo ne gukala.
+P5	Ebbugumu lyayitirira abantu nga bajulira kuwuga mu migga.
+P6	Mu mwezi ogwaddako Wankuba yasonda amaanyi mangi ddala yatonnya kumakya,  mu ttuntu,  akawungeezi nekiro. Amazzi gajjula buli wamu.
+P7	Enkuba bweyatonya yaleeta obunyogovu. Abantu nga balina kwambala kabuuti basobole okubuguma.
+P8	Abalimi baasanyuka kubanga baasimba emmere nyingi era nekula mangu.
+P9	Kyokka batuuka ekiseera nebetamwa anti nga buli wamu wajjudde amazzi. Ebisolo nabyo nebitanndika okunoonya gyebiddukira ku lukalu.
+P10	Olunaku olwaddako omusana tegwayaka. Kyokka ate ne nkuba teyatonnya. Olwo obudde nebuba bwa kikome.
+P11	Buli muntu yali nga awulira bubi nga obudde tebweyagaza.
+P12	Abantu bonna batandika okwebuuza bokka na bokka nti enkuba nomusana kiki ekisinga amaanyi? Gwe olowooza enkuba nomusana kiki ekisinga amaanyi?
 
 images:
 
@@ -41,3 +43,4 @@ translations:
 English (Translation)	Sun and Rain	id=16995
 English (Adaptation)	Sun and Rain	id=17083
 isiZulu (Adaptation)	Ilanga Nemvula	id=17124
+Lusoga (Translation)	Musana Ni Maadhi	id=20406

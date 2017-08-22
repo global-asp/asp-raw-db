@@ -11,16 +11,22 @@ desc:	Kanegelo ye e tsebagatsa dinomoro le mebala.
 
 page_text:
 
-P1	Ke eng seo e lego se serolwana.
-P2	ww.
-P3	ee.
-P4	hh.
-P5	ff.
-P6	gg.
-P7	hh.
-P8	gg.
-P9	hh.
+P1	Mebala ye mesupa ya molalatladi.
+P2	1 hubedu.
+P3	O apere hempe ye hubedu.
+P4	2 serolwana.
+P5	Naa ke eng se se lego serolwana mo seswantshong se.
+P6	3 serolwana.
+P7	Ke eng seo e lego se serolwana.
+P8	ww.
+P9	ee.
 P10	hh.
+P11	ff.
+P12	gg.
+P13	hh.
+P14	gg.
+P15	hh.
+P16	hh.
 
 images:
 
@@ -38,12 +44,21 @@ illustrations/pages/9856.png
 
 translations:
 
-Dhopadhola (Translation)	Lifudu nitye gi cal abiryo	id=19961
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Amharic (Translation)	7 የቀስተደመና ቀለማት 	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+Chinyanja (Translation)	Mautoto Asanu Ndi Awiri Autawaleza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
 English (Translation)	Colours of a Rainbow	id=10463
-English (Adaptation)	7 Colours of a Rainbow	id=19760
+English (Adaptation)	7 Colours Of A Rainbow	id=19760
+Hausa (Nigeria) (Translation)	Launika Bakwai Na Bakan Gizo	id=20798
 isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+isiZulu (Translation)	Imibala Eyisikhombisa Yothingo  Lwenkosazana	id=20679
 Kikamba (Translation)	Utathi	id=15419
 Kiswahili (Original)	Rangi Za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
 Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke Ali Na Langi 7	id=20396
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
 Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
-siSwati (Translation)	Imibala Yemushi Wenkhosatane	id=13066
+Siswati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

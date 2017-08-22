@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=21006&d=0&a=1
+id:	21006
+title:	Fana Na Wanyama Wake 
+author:	Ursula Nafula
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21006.png
+desc:	Fana anawapenda wanyama. Anakuwa nao kwa muda mrefu akiwalisha na kucheza nao.
+
+page_text:
+
+P1	Fana na familia yake wanaishi katika mji wa Debre Birhan nchini Ethiopia. Fana ni mwanafunzi wa darasa la tatu. Ni mwenye roho nzuri na hekima.
+P2	Fana anawapenda wanyama. Ana paka mmoja, kuku wawili, mbuzi na njiwa. Anakuwa nao kwa muda mrefu akiwalisha na kucheza nao.
+P3	Siku moja, Fana na wenzake walikuwa wakicheza uwanjani shuleni. Fana aliwaona watoto wakiwarushia njiwa mawe. 
+
+Alijiuliza, "Mbona wanawaumiza njiwa?"
+P4	Aliacha kucheza akakimbia kuelekea mahali watoto wale walikuwa. 
+
+Mwanzoni, wenzake hawakuelewa kilichokuwa kikitendeka. Walimfuata. Fana aliwakemea wale watoto, "Acheni kurusha mawe."
+P5	Wale watoto watukutu walitoroka. 
+
+Fana aliwashika njiwa waliojeruhiwa. Aliona majeraha kwenye mbawa zao. Aliamua kuwapeleka nyumbani kuwalinda.
+P6	Fana aliwalisha njiwa. Jioni aliisimulia familia yake alichokiona na kufanya siku ile na jinsi alivyowaokoa njiwa.
+P7	Asubuhi, Fana na wazazi wake welienda katika kliniki kupata dawa za kuwaponya njiwa. 
+
+Baada ya siku chache, njiwa walipona majeraha yao. Fana alifurahi sana.
+P8	Kila mara, Fana aliwaambia marafiki zake, "Ninawapenda wanyama. Wanyama wana manufaa kwetu na ni marafiki zetu. Lazima tuwalinde na kuwahifadhi."
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana And Her Animals	id=21004
+English (Adaptation)	Fana And Her Animals (Colour-In)	id=21005
+English (Adaptation)	Fana Loves Animals	id=21396

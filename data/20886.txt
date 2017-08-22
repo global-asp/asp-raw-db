@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=20886&d=0&a=1
+id:	20886
+title:	Ogres Are Stupid
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Natalie Propa
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20886.png
+desc:	There is a drought and Mulongo and his family are searching for food. They find a plantation and the owner lets them eat his crops at a very high price.
+
+page_text:
+
+P1	There was a drought. Mulongo’s family had no food.
+P2	One day, Mulongo led them into the forest for food.
+P3	They found a banana plantation but there was no owner.
+P4	Suddenly, a big ogre arrived!
+
+He let them stay.
+P5	Then one morning he said, “Cook your son for me.”
+P6	In the evening, the ogre said, “Cook your daughter tomorrow.”
+P7	The parents hid their daughter in a tree.
+P8	The ogre said, “Tomorrow you must cook your husband.
+P9	That evening, the ogre asked the wife to cook herself!
+P10	After eating, the ogre lay under the tree snoring.
+P11	The ogre saw all of them alive. 
+
+He was angry.
+P12	They tricked the ogre and came down from the tree.
+
+images:
+
+illustrations/pages/8114.png
+illustrations/pages/8111.png
+illustrations/pages/8112.png
+illustrations/pages/8113.png
+illustrations/pages/8114.png
+illustrations/pages/8115.png
+illustrations/pages/8116.png
+illustrations/pages/8117.png
+illustrations/pages/8118.png
+illustrations/pages/8119.png
+illustrations/pages/8120.png
+illustrations/pages/8121.png
+illustrations/pages/8122.png
+
+translations:
+
+Amharic (Translation)	ጭራቆች ደደቦች ናቸው	id=21182
+English (Translation)	Mulongo and the Ogre	id=9127
+French (Translation)	Mulongo Et L'ogre	id=10699
+Kiswahili (Translation)	Majitu Ni Wajinga	id=21138
+Luganda (Translation)	Bawazzike Ba Siiru	id=21060
+Lumasaaba (Original)	Mulongo Ni Wanasilikhe	id=9126
+Lumasaaba (Adaptation)	Mulongo Ni Wanasilikhe (Revised)	id=10521
+Ng’aturkana (Translation)	Ebang’Aka Ng’Ibuin	id=21132
+Tigrigna (Translation)	ሕንጉጉ ሕማቓት እዮሞ	id=21103

@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=20763&d=0&a=1
+id:	20763
+title:	Inzoka N' Igikeri
+author:	Jean Paul Harelimana and Paul
+artist:	Rob Owen
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20763.png
+desc:	Muri iyi nkuru
+
+page_text:
+
+P1	Igikeri n' Inzoka ni incuti.
+P2	Igikeri kiravuga kiti "Ngwino tujyane gusura mama."
+P3	Inoka iravuga iti "Urakoze", "ninde uzasigara ku rugo?"
+P4	Inkende iravuga iti "Nzabasigarira kurugo."
+P5	Igikeri gishyira mu gafuka intozi z'umweru zojyanira nyina.
+P6	Igikeri n' Inzoka bizinduka kare mu museke, byerekeza mu ishyamba.
+P7	Zahuye n'itsinda ry'inkima z'ingome. Inzoka igira ubwoba!
+P8	Igikeri gitabara incuti yacyo.
+P9	Byageze kwa Nyina wa Gikeri byashonje cyane.
+P10	Byarakarabye byitegura kurya.
+P11	Igiketi kiti "Nzoka, ngwino wicare."
+P12	Inzoka igerageza kwicara biranga kuko idateye nk'igikeri.
+P13	Inzoka iravuga iti "Sinshobora kwicara nk' Igikeri."
+P14	Igikeri nticyumva neza.
+P15	"Ntabwo unyumva? Ndatashye."
+P16	Inzoka itaha irakaye iravuga iti "Narinziko Gikeri ari mucuti wange."
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog And Snake	id=19762
+isiZulu (Translation)	Uxoxo Nonyoka	id=20718
+Kiswahili (Translation)	Chura Na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere Ni Wamusota	id=20398
+Lusoga (Translation)	Akalenga N’Omusta	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Setswana (Translation)	Segwagwa Le Noga	id=21160

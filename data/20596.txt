@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=20596&d=0&a=1
+id:	20596
+title:	Judwaar Winyo
+author:	Hellen Alowo
+artist:	Wiehan de Jager, Marion Drew, Marleen Visser, Emily Berg, Magriet Brink and Rob Owen
+lang:	Dhopadhola
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20596.png
+desc:	Kigana me obedo kwong chwo adek kodi nyako achieli maju keng kisoma to ju kadho dwaaro winyini iluli.
+
+page_text:
+
+P1	obedo ndir achieli, oyido nitye chwo mathindho adek kodi nyako achieli. ido jujye jubedo ichalo achieli ma ilwongo ni Nakwiga.
+P2	oyido jusoma isomero ma ilwongo ni Busolwe Glory of God primary school.
+P3	idhoyo munyo jukadho isomero oyido jutera winjo ka winyini juwero
+P4	ndelo acheili, chwo adek kodi nyako achieli jokeng kadho isomero to jukadho dwaar iluli mani chengin
+P5	winyo ochako weri ni, wii lwongani arachi; ani aki rachi *4.
+P6	aber tokiparo ni arachi alabedo marachi igike. to nyithidho me jumako winyo no to judoki ngine pecho.
+P7	munyo jo tundo pecho to ju yango winyo no to ju chamo.
+P8	yawere mere jujye jutho. rupiri winyo oyido nigi butwa.
+
+images:
+
+illustrations/pages/9193.png
+illustrations/pages/7961.png
+illustrations/pages/9192.png
+illustrations/pages/9594.png
+illustrations/pages/6731.png
+illustrations/pages/7572.png
+illustrations/pages/8549.png
+illustrations/pages/8555.png
+illustrations/pages/8162.png
+
+translations:
+
+English (Original)	Bird Hunters	id=9934
+Hausa (Nigeria) (Translation)	Mafarauta Tsuntsu	id=21359
+Luganda (Translation)	Abayizzi B'ebinyonyi	id=17006

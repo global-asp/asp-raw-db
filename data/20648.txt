@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=20648&d=0&a=1
+id:	20648
+title:	Kuseera Emaizi
+author:	Jerome Atugonza
+artist:	Hélder de Paz Alexandre
+lang:	Runyoro
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20648.png
+desc:	Kanu akatabu kali hekikere nekiseera emaizi agakufuuka.
+
+page_text:
+
+P1	Nkaha emberi nkusobora kufuna emaizi.
+P2	Halriyo emaizi omusuwa.
+P3	Gakyokya muno
+P4	Ganu emaizi gakusobora kufuuka.
+
+images:
+
+illustrations/pages/7821.png
+illustrations/pages/7819.png
+illustrations/pages/7074.png
+illustrations/pages/7076.png
+illustrations/pages/7075.png
+
+translations:
+
+Amharic (Translation)	ውኃ ፍለጋ	id=14538
+English (Original)	Looking for Water	id=7667
+Luganda (Translation)	Okunoonya Amazzi	id=7671
+Zande (Translation)	Gera Tipa Ime	id=17450

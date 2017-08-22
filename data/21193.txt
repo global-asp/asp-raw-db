@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=21193&d=0&a=1
+id:	21193
+title:	Nguli Na King'ang'í
+author:	Dorcas Wepukhulu
+artist:	Abraham Muzee
+lang:	Kikamba
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21193.png
+desc:	Undu Nguli yeeyovoisye kuuma kanywani ka Kingángi.
+
+page_text:
+
+P1	Nguli yakomana na Kingáng'i usini.
+P2	"Uekala vaa?" Nguli akolia, "Usini," King'ang'i asungia.
+P3	"Uekala vaa?" King'ang'i akolia. "Nikalaa mitini," Nguli asungia.
+P4	"Niutuvie?" King'ang'i akolia.
+P5	"Nditonyaa kutuvia," Nguli asungia. "Ninguuvundisya."
+P6	"Twi anyanya. Ndukakie," King'ang'i amutavya.
+P7	"Nguli, ango wakwa ni muuwau. Eenda nyama," King'ang'i aasya.
+P8	Nguli aakya vyu. King'ang'i nukumuya?
+P9	Nguli avanga kutoloka kuuma kwe King'ang'i.
+P10	Nguli ena muvango.
+P11	"Nekunenga ngoo yakwa," Nguli amuiya.
+P12	"Ngoo yakwa yeemutini," Nguli aasya.
+P13	"Nuumanthe ngoo yaku?" King'ang'i akolia. "Ii," Nguli asungia.
+P14	King'ang'i atuvia amutunga Nguli mutini.
+P15	"Wendwi munyanya waa. Nungengie," King'ang'i amutavia.
+P16	"Tui anyanya, wenda kundya!" Nguli amutavia.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri Da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	Unkawu Nongwenya	id=20716
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kiswahili (Translation)	Sokwe Na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343

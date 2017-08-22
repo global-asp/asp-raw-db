@@ -15,9 +15,9 @@ P1	Khuhu na dongolo zwo vha zwi dzikhonani. Fhedzi zwo vha tshi dzula zwi tshi t
 P2	Zwo ya luvhandeni lwa u tamba bola zwa thoma mutambo wazwo. Khuhu yo vha itshi khou tavhanya fhedzi dongololo lo vha li tshi khou tavhanyedzesa. Khuhu yo rahela phanda fhedzi dongololo la rahela phandesa. Khuhu ya thoma u vhilaela i tshi gungula.
 P3	Zwa humbula utatisana nga u kora bola ya khathulo. Lwa u thoma dongololo lo vha li wa u thivhela bola. Khuhu ya kora luthihi. Ha kona u vha tshikhathi tsha khuhu tsha u thivhela bola.
 P4	Dongololo la raha bola la kora. Dongololo la dirivhula bola la kora. Dongololo la I diya nga thoho la kora. Dongololo la kora lutanu.
-P5	Khuhu yo pfa vhavhesa nga u kundelwa hayo. Dongololo la thoma u sea ngauri khonani yo vha yo kwata.
+P5	Khuhu yo pfa vhavhesa nga u kundelwa hayo. Dongololo la thoma u sea ngauri khonani yo vha yo kwata.
 P6	Khuhu yo vha yo kwatesa lwe ya vula phapha zwihulwanesa ya mila dongololo.
-P7	Hezwi khuhu I tshi khou ya hayani ya tangana na mme a dongololo. Mme a donglolo vha vhudzisa vha ri,  "No vhuya na vhona nwananga?" Khuhu a yongo fhindula tshithu. Mme a dongololo vha thoma u vhilaela.
+P7	Hezwi khuhu I tshi khou ya hayani ya tangana na mme a dongololo. Mme a donglolo vha vhudzisa vha ri, "No vhuya na vhona nwananga?" Khuhu a yongo fhindula tshithu. Mme a dongololo vha thoma u vhilaela.
 P8	Zwenezwo mme a dongololo vha pfa kuipfi kutuku. "Kha vha nthuse mmawe!" ha lila liipfi. Mme a dongololo la sedza thungo dzothe la thetshelesa zwavhudi. Liipfi li khou bva nga ngomu ha khuhu.
 P9	Mme a dongololo vha vhidzelela,  "Shumisa maanda a u o khetheaho nwananga!" Dongololo la ita munukho muvhi na u thetshela huvhi. Khuhu ya thoma u lwala.
 P10	Khuhu ya boda. Nga murahu ya mila ya pfa. Ya dovha ya etsemula ya hotola ya hotola. Dongololo la nengisea!
@@ -43,17 +43,18 @@ illustrations/pages/8994.png
 translations:
 
 Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
-Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+Afrikaans (Translation)	Hoender En Duisendpoot	id=20054
 ChiTonga (Translation)	Nkuku, Joongola	id=18643
 CiNyanja (Translation)	Nkuku Na Bongololo	id=18661
+Dhopadhola (Translation)	Gweno Kodi Ongongolo	id=20822
 English (Translation)	Chicken and Millipede	id=9094
 French (Translation)	La Poule Et Le Millepatte	id=9959
 French (Translation)	Poulet Et Mille-Pattes	id=10145
 Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
 Gurene (Translation)	Nͻbila La Katagune	id=12663
-Hausa (Translation)	Kaza Da	id=9977
+Hausa (Niger) (Translation)	Kaza Da	id=9977
 isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
-isiXhosa (Translation)	Unkukhu  Nosongololo	id=17517
+isiXhosa (Translation)	Unkukhu Nosongololo	id=17517
 isiZulu (Translation)	Unkukhu Noshongololo	id=13535
 isiZulu (Adaptation)	Unkukhu Noshongololo	id=17452
 Kanuri (Translation)	Kuwui-a Dǝngaɍi-A	id=10039
@@ -63,6 +64,7 @@ Likpakpaanl (Translation)	Ukↄla Ni Gonlgonl	id=18776
 Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
 Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
 Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Mampruli (Translation)	Noa Ni Sanguntiri	id=20117
 Portuguese (Translation)	O Frango E O Gongolo	id=16099
 Portuguese (Translation)	Galinha E Milípede	id=16477
 Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
@@ -71,6 +73,7 @@ Sepedi (Translation)	Kgogo Le Legokolodi	id=12410
 Sesotho (S.Africa) (Translation)	Kgoho Le Lefokolodi	id=14434
 Setswana (Translation)	Koko Le Sebokolodi	id=13973
 SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
-siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Siswati (Translation)	Inkhukhu Nelishongololo	id=12580
+Talen (Translation)	Nobil Ne Sanguin 	id=20179
 Xitsonga (Translation)	Huku Na Khongoloti	id=14408
 Zarma (Translation)	Gorŋo-Ɲa Nda Konjanje	id=10103

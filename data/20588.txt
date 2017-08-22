@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=20588&d=0&a=1
+id:	20588
+title:	Indaba Ka Jojo Omncane
+author:	Pumla Mdontswa
+artist:	Marleen Visser
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20588.png
+desc:	Induna yesigodi saseZimele
+
+page_text:
+
+P1	"Nginenkinga enkulu," kukhala Induna uSgujana.
+P2	"Ngilahlekelwe uphondo lwami lwasentwasahlobo," eqhubeka ekhalaza.
+P3	UJojo omncane athembise, "Ungakhathazeki, ngizolubheka uphondo lwakho. Ngizoyobheka laphaya endlini kaBaba uNxande."
+P4	UJojo noBaba Nxande babheka yonke indawo, kodwa lutho abangaluthola uphondo.
+P5	UBaba Nxande waze wathi, "Ake uyobheka laphaya kuMama Nxantathu."
+P6	Nanguya uJojo eyodlula endlini yakhe eyophuza amanzi abandayo, kade ehamba, wonyiwe.
+P7	Wasuka lapho waya kuDudu Dayimane wamcela ukuba ahambe naye.
+P8	"Akukude, kodwa-ke ngizopakisha ukudlana esingahamba nako," kuchaza uDudu.
+P9	UDudu no Jojo sebelambile, bahlala phansi emazansi nentatshana ewunxathathu, badla, bathi ukuphumula kancane.
+P10	Kwathi sebekhuphuke ibanga eliyingxenye yentaba, babona ulwembu lwesicabucabu oluyisimanga nje.
+P11	UJojo no Dudu baze bafika endlini ka Mama Nxantathu.
+P12	UMama Nxantathu wabaphendula, "Cha, induna ayishiyanga uphondo lwasentwasahlobo lapha."
+P13	Kodwa-ke, uMama Nxathathu wayazi lapho bengaluthola khona uphondo lwasentwasahlobo.
+P14	Kwase kuhlwile ngesikhathi befika emzini wenduna uSgujana.
+P15	Umama Nxantathu wakhomba induna, "Ingani nalu uphondo ekhanda lakho."
+P16	Induna uSgujana yanika uJojo uphondo ukuba alushaye. Bonke bajabula.
+
+images:
+
+illustrations/pages/19917.png
+illustrations/pages/19902.png
+illustrations/pages/19903.png
+illustrations/pages/19904.png
+illustrations/pages/19905.png
+illustrations/pages/19906.png
+illustrations/pages/19907.png
+illustrations/pages/19908.png
+illustrations/pages/19909.png
+illustrations/pages/19910.png
+illustrations/pages/19911.png
+illustrations/pages/19912.png
+illustrations/pages/19913.png
+illustrations/pages/19914.png
+illustrations/pages/19915.png
+illustrations/pages/19916.png
+illustrations/pages/19917.png
+
+translations:
+
+English (Original)	Little Jojo's Long Tall Tale	id=19923
+English (Adaptation)	Little Jojo's Long Tall Tale	id=20147
+isiNdebele (Translation)	Indatjana Kajojo Ede	id=20783
+Sesotho (South Africa) (Translation)	Pale Ya Jojo E Monyenyane E Telele Ya Maiqape	id=20830
+Siswati (Translation)	Indzaba Lendze Yajojo Lomncane 	id=20778

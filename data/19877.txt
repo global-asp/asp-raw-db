@@ -26,7 +26,9 @@ P12	Hata hivyo,  Juma alikuwa amechoka. Walipokuwa njiani wakielekea Tanzania,  
 P13	Juma alimpokeza Mdogo kurunzi akisema,  "Ibebe kurunzi hii hadi Mlima Kilimanjaro. Hakikisha umewasha mwale wa umoja wa Afrika."
 P14	Watu waliwashangilia wakimbiaji wakisema,  "Ninyi ni mashujaa wetu." Baada ya kuwasha mwale wa umoja Mlimani Kilimanjaro,  walirejelea mbio kuelekea kusini mwa Afrika.
 P15	Walikatiza mbio zao ili kuogelea katika Ziwa Malawi. Mdogo alimwambia Juma,  "Tumekimbia kutoka kusini hadi kaskazini,  mashariki hadi magharibi. Safari yetu inakaribia kukamilika."
-P16	Hatimaye,  wakimbiaji wa umoja waliibeba kurunzi yao hadi nchini Zimbabwe. Umati wa watu ulikusanyika pale kushuhudia jambo hilo. "Mbio zilioje!" Alitabasamu Juma.
+P16	Hatimaye,  wakimbiaji wa umoja waliibeba kurunzi yao hadi nchini Zimbabwe. Umati wa watu ulikusanyika pale kushuhudia jambo hilo. 
+
+"Mbio zilioje!" Alisema Juma kwa abasamu.
 
 images:
 
@@ -51,3 +53,7 @@ illustrations/pages/19875.png
 translations:
 
 English (Original)	Africa Unity Race	id=19876
+Kinyarwanda (Translation)	Isiganwa Rigamije Ubumwe Muri Afurika	id=20906
+Lukenye (Translation)	Empaka Ezamawanga Ga  Abairugavu	id=21480
+Lukenye (Translation)	Empaka Ezamawanga Ga  Abairugavu	id=21507
+Lusoga (Translation)	Okuvugania Kwa Afirika Okweyimba	id=21258

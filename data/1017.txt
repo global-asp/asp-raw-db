@@ -20,8 +20,9 @@ P6	Mvua ilianza kunyesha kwa wingi zaidi na Anansi alihisi baridi na kunyeshewa.
 P7	Muda mfupi baadaye, Tai akawa anaruka pahali pale na kuweza kuona kikapu kando ya barabara. Aliona kwamba kulikuwa na fedha na nafaka kaitika kile kikapu. Kwa hivyo alikifunika kikapu na mbawa zake na kusubiri mvua itakapoisha.
 P8	Anansi aliona Tai akiwa amekalia kikapu chake. "Ah asante rafiki yangu kwa kukilinda kikapu changu," alimwambia Tai. "Samahani,  Anansi,  nilikusikia vyema?" Tai alisema. "Kikapu chako? Kikapu hiki ni changu! Nilikipata hapo pembeni mwa barabara!" Anansi hakuweza kuamini masikio yake! "Ni changu,  nakwambia!'."
 P9	Akiwa amekasirika,  Anansi alienda kushtaki wizi huo kwa Chifu. Lakini Tai alimwambia Chifu na wazee wake,  "Inawezekanaje mtu kukiacha kikapu barabarani kilichojaa fedha na nafaka bila ulinzi wowote?" "Lakini nilikuwa nikikichunga kikapu changu," alisema Anansi. "Fedha ni zangu na nafaka ni yangu!" "Nilikuwa nimekikinga kikapu kwa mbawa zangu wakati wewe ulitokezea tu na kusema kwamba kilikuwa chako!" Tai alijibu.
-P10	Waliwaita tena Anansi na Tai. "Tunaamini usemi wa Tai," walisema. "Yeye si mwizi. Ulikuwa ukijitakia kitu kisichokuwa chako." Anansi,  Buibui hakuweza kuamini masikio yake. Aliangua kilio.
-P11	Punde tu baadaye,  ujembe ulisambaa kwamba uamuzi ulimwendea vibaya Anansi. Alipoondoka,  alimsikia Sungura akicheka na kucheka. Sungura alirudi katika shamba lake na kuendelea kupanda matunda na mboga. Lakini Anansi alirejelea hali yake ya umaskini,  akiwa bila marafiki.
+P10	Baada ya Chifu na wazee wake kusikiliza kwa makini pande zote mbili,  waliwataka Anansi na Tai watoke hapo na kwenda mbali kidogo. Walijadili kisa hicho kwa muda mrefu. Hatimaye,  walifikia uamuzi.
+P11	Waliwaita tena Anansi na Tai. "Tunaamini usemi wa Tai," walisema. "Yeye si mwizi. Ulikuwa ukijitakia kitu kisichokuwa chako." Anansi,  Buibui hakuweza kuamini masikio yake. Aliangua kilio.
+P12	Punde tu baadaye,  ujembe ulisambaa kwamba uamuzi ulimwendea vibaya Anansi. Alipoondoka,  alimsikia Sungura akicheka na kucheka. Sungura alirudi katika shamba lake na kuendelea kupanda matunda na mboga. Lakini Anansi alirejelea hali yake ya umaskini,  akiwa bila marafiki.
 
 images:
 
@@ -42,7 +43,9 @@ translations:
 
 Afrikaans (Translation)	Anansi en Vulture	id=11547
 Afrikaans (Translation)	Anansi en Aasvoël	id=11557
+Ateso (Translation)	Anansi Keda Atarukot	id=20960
 English (Original)	Anansi and Vulture	id=996
+English (Adaptation)	Jealous Anansi	id=21247
 French (Translation)	Anansi Et Vautour	id=10140
 isiZulu (Translation)	Uanansi Nenqe	id=11409
 Lámnsoʼ (Translation)	Anansi Wun a Kiluŋŋgùrúʼ	id=15059

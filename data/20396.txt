@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=20396&d=0&a=1
+id:	20396
+title:	Musoke Ali Na Langi 7
+author:	Cornelius Wambi Gulere
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20396.png
+desc:	Luno olugero lugera nhuguta aghalala ni langi. (Kili ni ku luse lwa 2).
+
+page_text:
+
+P1	Musoke ali na langi 7.
+P2	Kasaayi 1.
+P3	Avaala saati kasaayi.
+P4	Kachungwa 2.
+P5	Kachungwa naali gha mu kifaananie?
+P6	Kasana 3.
+P7	Kasana naali gha mu kifaananie?
+P8	Kilagala 4.
+P9	Kalagala naali gha mu kifaananie?
+P10	Bululu 5.
+P11	Bululu naali gha mu kifaananie?
+P12	Miligo 6.
+P13	Miligo naali gha mu kifaananie?
+P14	Kakobe 7.
+P15	Your translated text
+P16	Langi dha musoke needhili gha?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Amharic (Translation)	7 የቀስተደመና ቀለማት 	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+Chinyanja (Translation)	Mautoto Asanu Ndi Awiri Autawaleza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
+English (Translation)	Colours of a Rainbow	id=10463
+English (Adaptation)	7 Colours Of A Rainbow	id=19760
+Hausa (Nigeria) (Translation)	Launika Bakwai Na Bakan Gizo	id=20798
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+isiZulu (Translation)	Imibala Eyisikhombisa Yothingo  Lwenkosazana	id=20679
+Kikamba (Translation)	Utathi	id=15419
+Kiswahili (Original)	Rangi Za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
+Siswati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

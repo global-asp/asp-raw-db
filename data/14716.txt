@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=14716&d=0&a=1
 id:	14716
-title:	Khalai U Amba Na Zwitavhiwa.
+title:	Khalai U Amba Na Zwitavhiwa
 author:	Yvonne Mulovhedzi
 artist:	Jesse Pietersen
 lang:	Tshivenda
@@ -11,13 +11,13 @@ desc:	Khalai ndi musidzana mutuku a no amba na zwitavhiwa zwo fhambanaho.
 
 page_text:
 
-P1	Ho yu ndi Khalai.                           U na minwaha ya sumbe. Dzina lawe li amba wavhudi nga luambo lwawe lwa Lubukusu.
+P1	Ho yu ndi Khalai. U na minwaha ya sumbe. Dzina lawe li amba wavhudi nga luambo lwawe lwa Lubukusu.
 P2	Khalai u vuwa a tshi amba na muri wa muswiri. "Ndi khou humbela muri wa muswiri,  hula uri fhe maswiri o vhibvaho."
 P3	Khalai a tshimbila a tshiya tshikoloni. Ndilani u amba na hatsi. "Ndi khou humbela hatsi vhu hule vhu vhe vhudala vhu songo oma."
 P4	Khalai a posa maluvha a dakani. "Ndi khou humbela maluvha kha dzule o naka uri ndi a dzehenise kha mavhudzi anga."
-P5	Tshikoloni,  Khalai u amba na muri vhukati ha fhethu. "Ndi khou humbela muri u bvise matavhi mahulu u ri ri kone u vhala fhasi ha murunzi wao."
+P5	Tshikoloni, Khalai u amba na muri vhukati ha fhethu. "Ndi khou humbela muri u bvise matavhi mahulu u ri ri kone u vhala fhasi ha murunzi wao."
 P6	Khalai u amba na fhethu u mona na tshikolo. "Ri khou humbela uri u hule nga maanda u thivhe vhathu vhavhi u dzena nga ngomu."
-P7	Musi Khalai a tshi vhuya u bva tshikoloni,  u dalela muri wa muswiri. "Miswiri yo no vhibva naa?" Hu vhudzisa Khalai.
+P7	Musi Khalai a tshi vhuya u bva tshikoloni, u dalela muri wa muswiri. "Miswiri yo no vhibva naa?" hu vhudzisa Khalai.
 P8	"Miswiri I kha di vha midala," Khalai a neta. "Ndi do u vhona matshelo muswiri," hu amba Khalai. "Khamusi u do vha na miswiri yo vhibvaho yanga!"
 
 images:
@@ -38,10 +38,14 @@ Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
 English (Translation)	Khalai Talks to Plants	id=13545
 English (Adaptation)	Palesa Loves Plants	id=15271
 French (Translation)	Khalai Parle Aux Plantes	id=14523
+IciBemba (Translation)	Maluba Ali Temwa Ifilimbwa	id=20786
 isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
 isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
 Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Mampruli (Translation)	Suhuyini Wuri Bunbula 	id=20120
 Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
 Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
 Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+SiLozi (Translation)	Palisa Ulata Licalo	id=20776
+Talen (Translation)	Palesa Nɔŋa Tebula	id=20202
 Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

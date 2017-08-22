@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=21002&d=0&a=1
+id:	21002
+title:	Imbwa
+author:	Wanyenze Robina
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Lumasaaba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21002.png
+desc:	Lugano luno lo museeza wooba ni ibwa yewe nga emuwuliliza nabi.
+
+page_text:
+
+P1	Abawooumuseza ni imbwa yeewe.
+P2	Aba agaana imbwa yewe naabi.
+P3	Aba ekola nabi nga eza ni mukatale kugula eenyama.
+P4	Kudaaya meezi kwama mu luuzie.
+P5	Kulinda buli chintu eengo.
+P6	Lunaku lwo gene umuseeza asiima Ebwa yewe mu jelu ye butwa lwa kuba euwulliza.
+P7	Imbwa yee sanyuka naabi yiyogenera ni kukola ni gaamani.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

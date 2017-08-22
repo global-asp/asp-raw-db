@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=21195&d=0&a=1
+id:	21195
+title:	እታ ዝሞተት ዕትሮ
+author:	Angish Abay
+artist:	Emily Berg
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21195.png
+desc:	ዓንደ ንእሽተይ ዑትሮ ነይርዎ ኮይኑ ግን ዓብይ ዑትሮ ክህልዎ ተመንዩ። እዚ ዓብይ ዑትሮ ንምርካብ ብዙሕ ሓሲቡ። ብዝሓሰቦ መሰረት ተሳኺዑሉ ዓብይ ዕትሮ ረኺቡ።
+
+page_text:
+
+P1	ዓንደ ላሕምን ንእሽተይ ዑትሮ መስተይት ማይን ነይረንኦ።
+P2	ካልእ ዓባይ ዑትሮ ካብ ጎረቤቱ ተለቅሐ።
+P3	ዓንደ ነታ ንእሽተይ ዕትሮ ናብ ውሽጢ እታ ካብ ጎረቤቱ ተለቅሓ ዓባይ ዕትሮ ኣእተዋ።
+P4	ዓንደ እተን ዓታሩ ተሸኪሙ ናብ ጎረቤቱ ከደ።
+P5	ዓንደ ነቲ ጎረቤቱ “ዕትሮኻ ወሊዳ” በሎ።
+P6	ካልእ ምዓልቲ፣ ዓንደ ነታ ዕትሮ ክልቃሕ ናብ ጎረቤቱ ከደ።
+P7	ተለቂሑ ግን ኣይመለሰሉን። እቲ ጎረቤቱ መልሰለይ ክብሎ ናብ ዓንደ ከደ።
+P8	“ክነግረካ እናበልኩ፣ እታ ዕትሮኻ እኮ ሞይታ” በሎ ዓንደ።
+P9	“ኣነ ዕትሮ ክመውት ርእየን ሰሚዐን ኣይፈልጥን” በሎ እቲ ጎረቤቱ።
+P10	“ኣንታ ዓርከይ ኩሉ ዝወልድ መዋቲ እዩ” ኢሉ መለሰሉ ዓንደ።
+P11	እቲ ጎረቤቱ ኣብ ፍርዲ ቤት ከይዱ ንዓንደ ከሰሶ።
+P12	እቲ ዳኛ  “ኩሉ ዝወልድ መዋቲ እዩ” ኢሉ ፈረደ።
+P13	በዚ ድማ ዓንደ ረቲዑ እታ ዓባይ ዕትሮ ንባዕሉ ወሰዳ።
+
+images:
+
+illustrations/pages/14436.png
+illustrations/pages/14435.png
+illustrations/pages/14436.png
+illustrations/pages/13193.png
+illustrations/pages/13194.png
+illustrations/pages/14440.png
+illustrations/pages/14437.png
+illustrations/pages/14447.png
+illustrations/pages/14446.png
+illustrations/pages/14448.png
+illustrations/pages/14450.png
+illustrations/pages/14449.png
+illustrations/pages/14451.png
+illustrations/pages/14452.png
+
+translations:
+
+English (Translation)	Byantaka And The Dead Pot	id=14497
+English (Adaptation)	The Pot That Died	id=20893
+Kiswahili (Translation)	Chungu Kilichokufa	id=21148
+Lusoga (Original)	Byantaka Ne Ensaka Enfu	id=14482
+Ng’aturkana (Translation)	Agulu Na Atoani	id=21121
+Runyoro (Translation)	Ensoha Eyafire	id=20993

@@ -13,7 +13,8 @@ page_text:
 
 P1	Mama koei koei. Ek hou van jou koei koei.
 P2	Gister het jy my melk gegee.
-P3	Mama het 'n pragtige handsak en ek het baie goeie skoene.
+P3	My pa koop vleis elke Saterdag.
+P4	Mama het 'n pragtige handsak en ek het baie goeie skoene.
 
 images:
 
@@ -24,4 +25,15 @@ illustrations/pages/6105.png
 
 translations:
 
+Ateso (Translation)	Apaperoka Nges Akiteng	id=20625
+Dhopadhola (Translation)	Dhaing Obedo Mere Paran	id=20948
 English (Original)	A Cow is my Friend	id=6383
+Hausa (Nigeria) (Translation)	Saniya Kawata Ce	id=20801
+Kinyarwanda (Translation)	Inka Ni Incuti Yange	id=20256
+Kumam (Translation)	Dyang Obedo Nya Wota	id=20949
+Lumasaaba (Translation)	Ikafu Umsale Woese	id=20951
+Lusoga (Translation)	Ente Mukwano Gwange	id=21392
+Mampruli (Translation)	Nzɔa Nyɛ Naafu	id=20112
+Runyankore (Translation)	Ente Ninywani Yangye	id=20652
+Talen (Translation)	Nauh Aa Man Zɔ	id=20199
+Xitsonga (Translation)	Homu I Munghana Wa  Mina	id=21475

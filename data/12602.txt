@@ -13,9 +13,10 @@ page_text:
 
 P1	Wakati mmoja palikuwa na mamba mwenye njaa.
 P2	Alitafuta chakula pole pole tena kimya.
-P3	POO! Mamba anashambulia!
-P4	Baada ya hiyo hana njaa tena, na anafurahi.
-P5	Hadi anapohisi njaa tena.
+P3	Halafu.
+P4	POO! Mamba anashambulia!
+P5	Baada ya hiyo hana njaa tena, na anafurahi.
+P6	Hadi anapohisi njaa tena.
 
 images:
 
@@ -32,6 +33,8 @@ Afrikaans (Translation)	Die Honger Krokodil	id=11063
 Arabic (Translation)	التمساح الجائع	id=18188
 English (Original)	The Hungry Crocodile	id=7043
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Luganda (Translation)	Ggonya Omuyala.	id=9664
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
 Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708

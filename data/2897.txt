@@ -17,7 +17,8 @@ P3	Náíper ilkeék.
 P4	Náíng'olíng'ol emotí ayíér endáa.
 P5	Náor oltírén.
 P6	Náísuj intokitín.
-P7	Amû egíra olálashe lái aigurán.
+P7	Káínyoo peê aás esíaai nabá injí ópeny?
+P8	Amû egíra olálashe lái aigurán.
 
 images:
 
@@ -42,8 +43,7 @@ Lugbarati (Translation)	Ma Adri Gaa Ovuo Ru Ri	id=2901
 Lugbarati (Official) (Translation)	Ma Adrigaaovuoruri	id=8796
 Lumasaaba (Translation)	Waandaaye Umukyeekhe Umutoro	id=2903
 Lunyole (Translation)	Muto Yange Omudoto	id=2904
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17471
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17472
+Lunyole (Translation)	 	id=21094
 Lusoga (Translation)	Lwaki Nkola Zenka?	id=2905
 Ng’aturkana (Translation)	Lokaito Loochi Lokalany	id=2906
 Oluwanga (Translation)	Akhasiani Akhatofu	id=2907

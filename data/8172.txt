@@ -1,8 +1,8 @@
 url:	http://africanstorybook.org/reader.php?id=8172&d=0&a=1
 id:	8172
-title:	Ensolimo Eli Gha?
-author:	Cornelius Gulere
-artist:	Michael Nakuwa, Benjamin Mitchley, Wiehan de Jager, Bronwen Heath, Catherine Groenewald and Rijuta Ghate
+title:	Ensolimo Oli Igha?
+author:	Cornelius Wambi Gulere
+artist:	Benjamin Mitchley, Bronwen Heath, Catherine Groenewald, Michael Nakuwa, Rijuta Ghate and Wiehan de Jager
 lang:	Lusoga
 level:	First sentences
 lic:	Creative Commons: Attribution 3.0
@@ -11,16 +11,17 @@ desc:	Bali kunoonia nsolimo eyali yesoze enhumba yekweka aghantu.
 
 page_text:
 
-P1	Ensolimo eli gha?
+P1	Ensolimo eli igha?
 P2	Loba ensolimo mu ndobo.
-P3	Eligha?
+P3	Eli igha?
 P4	Noonia,  Noonia! Ginoonie ghansi ghe ekitanda.
-P5	Eli gha? A a a a! Oli inhuma wa lwiji? Mbe,  toil inhuma wa lwiji.
-P6	Oli gha? Oli mu nsawo? Mbe,  toil mu nsawo.
+P5	Eli igha? A a a a! Oli inhuma wa lwiji? Mbe,  toli inhuma wa lwiji.
+P6	Oli igha? Oli mu nsawo? Mbe,  toli mu nsawo.
 P7	Oli mu ntamu? Mbe,  toli mu ntamu.
-P8	Waakaba oli gha? Mu kikabada?
-P9	Oli ghansi gha mukeeka? Mbe,  mbe.
-P10	Munda mu isanduuku,  iyi yi. Ndi kubona ensolimo mu isanduuku.
+P8	Waakaba oli igha? Mu kikabada?
+P9	Igha,  igha? Tisobola kukufuna.
+P10	Oli ghansi gha mukeeka? Mbe,  mbe.
+P11	Munda mu isanduuku,  iyi yi. Ndi kukubona. Wansolimo mu isanduuku.
 
 images:
 

@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=10945&d=0&a=1
 id:	10945
-title:	Chicken and Millipede
+title:	Chicken And Millipede
 author:	Dedre Grobler
 artist:	Winny Asara
 lang:	English
@@ -22,7 +22,7 @@ P8	Mother Millipede heard her son in Chicken.
 P9	Chicken began to feel ill.
 P10	Chicken started to cough.
 P11	Millipede fell out.
-P12	Chicken and Millipede wasn't friends anymore.
+P12	Chicken and Millipede weren't friends anymore.
 
 images:
 
@@ -42,5 +42,6 @@ illustrations/pages/8994.png
 
 translations:
 
-English (Adaptation)	Chicken and Millipede	id=9097
+English (Adaptation)	Chicken And Millipede	id=9097
 English (Adaptation)	Duck and Blind Snake	id=10021
+Lusoga (Translation)	Wankoko Ni Waigongolo	id=21262

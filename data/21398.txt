@@ -1,0 +1,68 @@
+url:	http://africanstorybook.org/reader.php?id=21398&d=0&a=1
+id:	21398
+title:	Going To The Big City
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Brian Wambi
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21398.png
+desc:	A boy is visiting his uncle in the big city for the first time!
+
+page_text:
+
+P1	The bus stop in my village was full of people.
+P2	The bus conductor shouted, “Going to the city!
+Leaving now!”
+P3	People kept their bags. 
+
+Others pushed to get on the bus.
+P4	Women with children sat down. 
+
+The journey would be long.
+P5	I sat near the window next to a man.
+P6	I thought, “I am going to the big city! I will miss my village.”
+P7	There were many hawkers selling their goods.
+P8	Some passengers bought things. 
+
+I had no money to buy anything.
+P9	Suddenly, the driver blew the horn. 
+
+It was time to leave.
+P10	The hawkers pushed each other to go out of the bus.
+P11	“Will I ever return to my village again?" I asked myself.
+P12	On the way, it became very hot. 
+
+I closed my eyes.
+P13	I thought about my mother, my brother, my rabbits and my tree seedlings.
+P14	I repeated the name of the place where my
+uncle lived in the city.
+P15	Many hours later, I was woken up. 
+
+Almost everyone had left.
+P16	It was time to look for my uncle’s house.
+
+images:
+
+illustrations/pages/15008.png
+illustrations/pages/14993.png
+illustrations/pages/14994.png
+illustrations/pages/14995.png
+illustrations/pages/14997.png
+illustrations/pages/14996.png
+illustrations/pages/14998.png
+illustrations/pages/14999.png
+illustrations/pages/15000.png
+illustrations/pages/15001.png
+illustrations/pages/15002.png
+illustrations/pages/15003.png
+illustrations/pages/15004.png
+illustrations/pages/15005.png
+illustrations/pages/15006.png
+illustrations/pages/15007.png
+illustrations/pages/15008.png
+
+translations:
+
+English (Original)	Day I Left Home for the City	id=15029
+Kiswahili (Translation)	Siku Niliyokwenda Jijini	id=15032

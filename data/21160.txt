@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=21160&d=0&a=1
+id:	21160
+title:	Segwagwa Le Noga
+author:	Lorato Trok
+artist:	Rob Owen
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21160.png
+desc:	Tlhamane e e re ruta gore botsala bongwe bo nale kwa bo felelang.
+
+page_text:
+
+P1	Segwagwa le Noga ke ditsala.
+P2	Segwagwa a re, “Tsamaya le nna go ya go etela mme.”
+P3	“Ke a leboga." Noga a rialo. “Ke mang yo o tla lebelelang matlo a rona?”
+P4	“Ke tla lebelela matlo a lona.” Ga rialo Tshwene.
+P5	Segwagwa o ne a tseela mmagwe ditshoswane tse di tshweu.
+P6	Segwagwa le Noga ba ne ba tsamaya ka masa. Ba tsena mo sekgweng.
+P7	Ba ne ba kopana le setlhopa sa bo moshe. Noga o a tshaba.
+P8	Segwagwa o sireletsa tsala ya gagwe.
+P9	Ba tshwerwe ke tlala fa ba fitlha kwa ntlong ya ga Mme.
+P10	Ba ile ba tlhapa matsogo mme ba ipaakanyetsa go ja.
+P11	“Noga, ke kopa a dule sentle,“ ga rialo Segwagwa.
+P12	Noga o ne a leka go dula sentle, mme fela ga ise segwagwa.
+P13	“Ga ke kgone go dula sentle jaaka segwagwa, Noga a rialo.
+P14	Segwagwa o ne a sa batle go utlwa.
+P15	“Ga o ntlhaloganye. Nna ke ya gae.”
+P16	Noga o tenegile. “Ke ne ke gopola gore Segwagwa ke tsala ya me.”
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog And Snake	id=19762
+isiZulu (Translation)	Uxoxo Nonyoka	id=20718
+Kinyarwanda (Translation)	Inzoka N' Igikeri	id=20763
+Kiswahili (Translation)	Chura Na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere Ni Wamusota	id=20398
+Lusoga (Translation)	Akalenga N’Omusta	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392

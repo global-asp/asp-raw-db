@@ -12,19 +12,20 @@ desc:	A Tartaruga está à procura da sua casa. Onde será que a vai encontrar?
 page_text:
 
 P1	Um dia,  a Tartaruga estava a passear pelo campo. Estava a procurar e a procurar. Olhou para longe e concentrou o seu olhar na relva. Depois passou pelo Caracol.
-P2	O Caracol disse. "Não,  não a vi,  mas vou ajudar-te a procurar!" Ele subiu para cima da carapaça da Tartaruga. A Tartaruga andou com o Caracol às suas costas. Procuraram e procuraram,  mas não havia sinal da casa. O sol brilhava no céu.
-P3	Um pouco mais tarde,  passaram pelo Pardal. "Estás à procura de alguma coisa?" perguntou o Pardal. "Sim,  Pardal,  estou à procura da minha casa. Viste-a por acaso?" O Pardal disse: "Não,  não a vi,  mas vou ajudar-te a procurar!"
-P4	Bateu as suas azas e afastou-se. "Mas estás a ir muito depressa para mim," queixou-se a Tartaruga. O Pardal voltou. "Está bem,  então vou subir para a tua carapaça também."
-P5	A Tartaruga continuou,  com o Caracol e o Pardal sentados na sua carapaça. Procuraram e procuraram,  mas não havia sinal da casa. O sol já estava a descer.
-P6	Um pouco mais tarde,  passaram pela Joaninha. "Estás à procura de alguma coisa?" perguntou a Joaninha. "Sim,  Joaninha,  estou à procura da minha casa. Viste-a,  por acaso?"
-P7	A Joaninha disse: "Não,  não a vi,  mas vou ajudar-te a procurar!" Ela subiu para as costas da Tartaruga e ela lá continuou,  com o Caracol,  o Pardal e a Joaninha sentados nas suas costas. Procuraram e procuraram,  mas não havia sinal da casa. Uma briza começou a soprar.
-P8	Um pouco mais tarde,  passaram pelo Rato. Estava a fazer uma coroa de margaridas. "Estás à procura de alguma coisa?" perguntou o Rato. "Sim,  Rato,  estou à procura da minha casa. Viste-a,  por acaso?"
-P9	O Rato disse: "Não,  não a vi,  mas vou ajudar-te a procurar!" Ele subiu para as costas da Tartaruga. "Espera,  não posso deixar as minhas flores." A Tartaruga esperou. O Rato esticou-se e esticou-se e apanhou a suas margaridas.
-P10	A Tartaruga continuou a andar,  com o Caracol,  o Pardal,  a Joaninha e o Rato às suas costas. Procuraram e procuraram,  mas não havia sinal da casa. O vento levantou as folhas do chão e fez um remoinho com elas à volta dos pés da Tartaruga. A Tartaruga ficou cansada. "Vocês são pesados," suspirou.
-P11	O vento ficou mais forte. O céu ficou escuro. "Oh,  onde está a minha casa?" perguntou a Tartaruga. Trovejava nas montanhas. Relâmpagos aclaravam o céu ao longe. Começava a chover. "Oh,  onde está a casa da Tartaruga?" perguntaram o Caracol,  o Pardal,  a Joaninha e o Rato.
-P12	O vento fazia remoinhos e chicoteava. Soprou o Caracol,  o Pardal,  a Joaninha e o Rato das costas da Tartaruga.
-P13	E depois veio o granizo,  bate-bate-bate. A Tartaruga apanhou um susto tão grande que fugiu para dentro da sua carapaça. Estava quentinho e aconchegado lá dentro.
-P14	"Oh,  aqui está a casa da Tartaruga!"
+P2	"Estás à procura de alguma coisa?" perguntou o Caracol. "Sim,  Caracol,  estou à procura da minha casa. Viste-a,  por acaso?"
+P3	O Caracol disse. "Não,  não a vi,  mas vou ajudar-te a procurar!" Ele subiu para cima da carapaça da Tartaruga. A Tartaruga andou com o Caracol às suas costas. Procuraram e procuraram,  mas não havia sinal da casa. O sol brilhava no céu.
+P4	Um pouco mais tarde,  passaram pelo Pardal. "Estás à procura de alguma coisa?" perguntou o Pardal. "Sim,  Pardal,  estou à procura da minha casa. Viste-a por acaso?" O Pardal disse: "Não,  não a vi,  mas vou ajudar-te a procurar!"
+P5	Bateu as suas azas e afastou-se. "Mas estás a ir muito depressa para mim," queixou-se a Tartaruga. O Pardal voltou. "Está bem,  então vou subir para a tua carapaça também."
+P6	A Tartaruga continuou,  com o Caracol e o Pardal sentados na sua carapaça. Procuraram e procuraram,  mas não havia sinal da casa. O sol já estava a descer.
+P7	Um pouco mais tarde,  passaram pela Joaninha. "Estás à procura de alguma coisa?" perguntou a Joaninha. "Sim,  Joaninha,  estou à procura da minha casa. Viste-a,  por acaso?"
+P8	A Joaninha disse: "Não,  não a vi,  mas vou ajudar-te a procurar!" Ela subiu para as costas da Tartaruga e ela lá continuou,  com o Caracol,  o Pardal e a Joaninha sentados nas suas costas. Procuraram e procuraram,  mas não havia sinal da casa. Uma briza começou a soprar.
+P9	Um pouco mais tarde,  passaram pelo Rato. Estava a fazer uma coroa de margaridas. "Estás à procura de alguma coisa?" perguntou o Rato. "Sim,  Rato,  estou à procura da minha casa. Viste-a,  por acaso?"
+P10	O Rato disse: "Não,  não a vi,  mas vou ajudar-te a procurar!" Ele subiu para as costas da Tartaruga. "Espera,  não posso deixar as minhas flores." A Tartaruga esperou. O Rato esticou-se e esticou-se e apanhou a suas margaridas.
+P11	A Tartaruga continuou a andar,  com o Caracol,  o Pardal,  a Joaninha e o Rato às suas costas. Procuraram e procuraram,  mas não havia sinal da casa. O vento levantou as folhas do chão e fez um remoinho com elas à volta dos pés da Tartaruga. A Tartaruga ficou cansada. "Vocês são pesados," suspirou.
+P12	O vento ficou mais forte. O céu ficou escuro. "Oh,  onde está a minha casa?" perguntou a Tartaruga. Trovejava nas montanhas. Relâmpagos aclaravam o céu ao longe. Começava a chover. "Oh,  onde está a casa da Tartaruga?" perguntaram o Caracol,  o Pardal,  a Joaninha e o Rato.
+P13	O vento fazia remoinhos e chicoteava. Soprou o Caracol,  o Pardal,  a Joaninha e o Rato das costas da Tartaruga.
+P14	E depois veio o granizo,  bate-bate-bate. A Tartaruga apanhou um susto tão grande que fugiu para dentro da sua carapaça. Estava quentinho e aconchegado lá dentro.
+P15	"Oh,  aqui está a casa da Tartaruga!"
 
 images:
 
@@ -53,5 +54,6 @@ isiNdebele (Translation)	Ufudu Uthola Indlu Yakhe	id=13781
 isiZulu (Translation)	Ufudu Uthola Indlu Yakhe	id=11291
 isiZulu (Translation)	Tortoise Finds His House	id=11303
 Kiswahili (Translation)	Nyumba Ya Kobe	id=12692
+Lusoga (Translation)	Enkhudhu Yazuula Enhumba  Yaayo	id=21298
 Ng’aturkana (Translation)	Aanyuni Abokok Akai Keng	id=12685
 Oluwanga (Translation)	Likhutu Linyoola Inzu Yalio	id=13018

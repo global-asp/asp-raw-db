@@ -1,13 +1,13 @@
 url:	http://africanstorybook.org/reader.php?id=19454&d=0&a=1
 id:	19454
 title:	Counting Cabbages
-author:	Penny Smith
+author:	Penelope Smith
 artist:	Magriet Brink
 lang:	English
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19454.png
-desc:	Colour-in storybook. A maths story about counting and sharing. (This storybook was made possible by funding from the Oppenheimer Memorial Trust.)
+desc:	Colour-in storybook. A maths story about counting and sharing. (This storybook was made possible by funding from the Oppenheimer Memorial Trust.).
 
 page_text:
 
@@ -51,3 +51,4 @@ translations:
 
 English (Original)	Counting Cabbages	id=19421
 isiZulu (Translation)	Siyakwazi Ukubala	id=19437
+Rufumbira (Translation)	Kubala Imboga	id=20745

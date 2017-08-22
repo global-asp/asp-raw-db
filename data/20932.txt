@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=20932&d=0&a=1
+id:	20932
+title:	Kuchina
+author:	Robina Wanyenze
+artist:	Catherine Groenewald
+lang:	Lumasaaba
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20932.png
+desc:	Kagano kano kwo mukaana ugana nabi kuchina. Umusomesa wewe kagana nda nga maayi wewe amwisamo mani ku kusa chitone chiwe.
+
+page_text:
+
+P1	Echina nga endi umusanyufu echina nga endi umuniyevu Echina nga endi senyene echina nga nanyigire.
+P2	Umusomesa woesi admela anti "yekala anesi Ukachinako nda."
+P3	Nga maayi woesi andomela anti Kuchina kuloa kuba umalayi Kuchina kudeyeisa Lunaku lwo gene enaba umuntu uu china.Ante ena biwunyesa.
+P4	Ante edoma enti,"Lunaku  lwo gene enachina  ni babantu  bana sasula kubona nga endi kuchina."Kuchina kwe we Kulayi,"baana looma."
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myeli	id=20944
+English (Original)	Dancing	id=2183
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Portuguese (Translation)	Dançando	id=12173
+Setswana (Translation)	Mokibo	id=2695

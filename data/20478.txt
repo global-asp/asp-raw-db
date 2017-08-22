@@ -1,0 +1,36 @@
+url:	http://africanstorybook.org/reader.php?id=20478&d=0&a=1
+id:	20478
+title:	Kanyana
+author:	Niyifasha Epimaque
+artist:	Kathy Arbuckle, Marleen Visser and Rob Owen
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20478.png
+desc:	Kanyana ni umukobwa wubaha ababyeyi be kandi akanabafasha mu mirimo yabo ya buri munsi.
+
+page_text:
+
+P1	Yarabyukaga mu gitondo.
+P2	Agategura amafunguro ya mugitondo.
+P3	Hanyuma agategura ameza maze agahamagara n'abandi bakaza bagasangira.
+P4	Yajyaga ku ishuri.
+P5	Akiga ashyizeho umwete.
+P6	Yaratahaga agakora isuku mu rugo.
+P7	Yarangiza agasubira mu masomo.
+P8	Cyangwa agasoma inkuru zishushanyije.
+
+images:
+
+illustrations/pages/19323.png
+illustrations/pages/9500.png
+illustrations/pages/1013.png
+illustrations/pages/13927.png
+illustrations/pages/14058.png
+illustrations/pages/13658.png
+illustrations/pages/14043.png
+illustrations/pages/1630.png
+illustrations/pages/13829.png
+
+translations:
+

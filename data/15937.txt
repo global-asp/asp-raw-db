@@ -18,11 +18,12 @@ P4	Lodipo akamwambia Akila kuwa hawangeweza kumuacha mama yake aliyekuwa kipofu.
 P5	Lodipo alimpenda sana Akila. Hivyo,  alikubaliana naye na kupanga watakavyotoroka. Akitela alishangazwa na haya yote.
 P6	Siku moja,  mamake Lodipo alikuwa ameketi kwenye ngozi ya mbuzi chini ya mti. Hakufahamu kilichokuwa kikiendelea. Huku akimwangalia na kumhurumia,  Akitela alitafakari,  "Itakuwaje tukimwacha peke yake?"
 P7	Lodipo na wakeze wawili walipakia mizigo yao kwenye ngamia wao wawili. Wakaondoka kimya kimya bila kumuaga yule ajuza. Akitela alikuwa akilia kwa huzuni ya kumuacha mama mkwewe.
-P8	Punde Lodipo na wakeze wawili walipoondoka,  wezi wa mifugo walivamia kijiji.
-P9	Wezi hao walimwambia ajuza awaeleze alikokwenda mwanawe. Majambazi hao walimwambia kuwa wangemtafuta Lodipo wamuue. Ajuza aliwaomba majambazi wasimuue Akitela.
-P10	Vile vile aliwaambia wamrudishie kondoo dume aliyekuwa amechukuliwa na Lodipo.
-P11	Majambazi walimtafuta Lodipo na kumpata katika kijiji kipya. Walimuua Lodipo na Akila,  mkewe wa pili.
-P12	Akitela alirudi kijijini pamoja na yule kondoo dume wakaishi kwa furaha.
+P8	Ajuza huyo aliachwa peke yake kwenye manyatta. Alilia na kuimba wimbo huu: Awesita Lodipo Ng'ina Ekitae Ka ng'akinei,  Nakolong kedounio,  Nitonoma tani Akolong'a Awesiti ng'ina,  Awesiti a Lodipo ng'ina Eriamaros morua polonia.
+P9	Punde Lodipo na wakeze wawili walipoondoka,  wezi wa mifugo walivamia kijiji.
+P10	Wezi hao walimwambia ajuza awaeleze alikokwenda mwanawe. Majambazi hao walimwambia kuwa wangemtafuta Lodipo wamuue. Ajuza aliwaomba majambazi wasimuue Akitela.
+P11	Vile vile aliwaambia wamrudishie kondoo dume aliyekuwa amechukuliwa na Lodipo.
+P12	Majambazi walimtafuta Lodipo na kumpata katika kijiji kipya. Walimuua Lodipo na Akila,  mkewe wa pili.
+P13	Akitela alirudi kijijini pamoja na yule kondoo dume wakaishi kwa furaha.
 
 images:
 
@@ -45,5 +46,6 @@ translations:
 Afrikaans (Translation)	Die Gevaar Van Verwerping	id=11249
 English (Original)	Danger of Abandoning a Mother	id=7549
 isiXhosa (Translation)	Ingozi Yokulahla Umama	id=11462
+Lusoga (Translation)	Ebizibu Byo Ku Leka Omuzaile	id=21382
 Ng’aturkana (Translation)	Erono Akijal Itokon	id=13313
 Sepedi (Translation)	Danger of Abandoning a Mother	id=11468

@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=20044&d=0&a=1
 id:	20044
 title:	Motoho
 author:	Tseliso Masolane
-artist:	Catherine Groenewald
+artist:	Abraham Muzee and Catherine Groenewald
 lang:	Sesotho (South Africa)
 level:	First words
 lic:	Creative Commons: Attribution 3.0
@@ -60,6 +60,8 @@ Kalenjin (Translation)	Musar	id=15395
 Kimîîru (Translation)	Uchuru	id=15412
 Kiswahili (Translation)	Uji	id=15614
 Lunyole (Translation)	Obusera	id=13458
+Lusoga (Translation)	Buugi	id=21198
+Mampruli (Translation)	Koko	id=21224
 Oluwanga (Translation)	Obusera	id=19793
 Portuguese (Translation)	Papa	id=18854
 Sepedi (Translation)	Motepa	id=18028

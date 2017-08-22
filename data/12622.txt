@@ -11,16 +11,36 @@ desc:	On a very hot Saturday afternoon
 
 page_text:
 
-P1	Motseare oa mantsibua ka khoeli ea ts'itioe hone ho chesa haholoholo. Emong le emong o ne a sa thaba. 'Bontle mpho le Lerato ba khotha hotsoala kantle ho ea bapala, ' 'M'e oa bona are 'hobona,  hakebatle haleka bapalla tlasa maoto aka,  batsoela kantle hontlo.'.
-P2	'Hare eng nokeng, ' Lerato a re ho pholile moo. 'Empa Mme a re reseke satole ka nokeng, ' ho rialo Botle. 'Harena hotola, ' ho araba Lerato,  're tlo bapala mono moreting pela metsi.'.
-P3	Empa re bapala libeke. O chesang mosebetsi leha hole joalo. Pele noka moo retla rola lieta tsa rona pele. Empa hontse hochesa. Eaba re hlobola lihempe le mese ea rona,  Empa hontse hole joalo hoba hontse ho chesa.
-P4	Eaba bakenya maotoa a bona ka nokeng hore a phoole. Ba hasana ka metsi. Ka mora nako e seng kae baiphumana base bale metsi hohle.
-P5	'oh tloho retlo tola, ' ho rialo Mpho,  'ha ana hotseba Mme.' Batola,  baba batola ba qetelletse ba lebetse nako.
-P6	Letsatsi laqala hoea malikelong,  be qala hohatsela. Liphahlo tsa rona li kae?
-P7	Re li shebile tlasa lifate. Ra li sheba le limeleng tse ngata,  hohle re ile ra sheba.
-P8	Pela noka moo,  honeng hoena le likhomo lintse li itjella joang bo bonolo. Bontle a sheba holimo,  'shebang khomo eane! Entse ejang?' 'Entse eja palesa e khubelu, ' horialo Lerato.
-P9	A se palesa e khubelu, ' ho rialo Mpho ka bohale,  ke hempe ea hao!' Rasheba khomo engoe hape,  ba fumana entse eja ntho engoe e putsoa. 'Ke mose oaka, ' horialo Botle ka bohale.
-P10	Baile baea ea hae,  ba te'ne mekoarela fela,  bahatsetse hoo ebileng ba thothomelang. Empa ene ese hobane ho pholile. 'Ke hobane likhomo tseno lijele liphahlo tsa bona, ' joale balla. Oile oa re kholoa Ntate? Kamora nako eseng kae eaba litono tsa rona lia oma,  empa line lisa ome hobane li omisoa ke letsatsi!
+P1	Motseare oa mantsibuea ka khoeli ea ts’itioe hone ho chesa haholo-holo. 
+Emong le emong o ne a sa thaba. 
+‘M’e oa bona a re, "Bontle, Mpho le Lerato tsoelang kantle lelo bapala. Hakebatle hale bapalla tlasa maoto aka."
+P2	Ratsoa re matha ka tlung.
+"Hare eng nokeng," Lerato a re, "Ho pholile moo. Empa ‘M’e a re reseke ratola ka nokeng," ho rialo Bontle. 
+‘Harena hotola,’ ho araba Lerato. ‘Re tlo bapala mono moriting pela metsi.’
+P3	Empa ho bapala libeke, ke mosebetsi o chesang, leha ole tlasa sefate pela noka. 
+Pele retla rola lieta tsa rona. 
+Empa rentse rechesa hole joalo. 
+Eaba re hlobola lihempe le mese ea rona.
+Empa rentse rechesa hole joalo.
+P4	Eaba rekenya maotoa a rona ka nokeng hore a phoole. Eaba re hasana ka ona. 
+Kamora nako e seng kae raiphumana rele metsi hohle.
+P5	"Oh tloho retlo tola," ho rialo Mpho, "ha ana hotseba ‘M’e."
+Ratola, ratola rabara tola ra lebala ka nako.
+P6	Letsatsi laqala hoea malikelong, ra qala hohatsela. 
+Liphahlo tsarona likae?
+P7	Relishebile tlasa lifate.
+Ralishebile le limeleng tse ngata. 
+Hohle reile rasheba.
+P8	Hone ne ena le likhomo pela noka, lintse li itjella joang bo bonolo.
+Bontle a sheba holimo, "Shebang khomo eane! Ke eng eka hanong la eona?"
+Lerato a re, “entse eja palesa e khubelu.’
+P9	Mpho ka bohale a re, "Ha se palesa e khubelu, ke hempe ea hao!"
+Rasheba khomo e’ngoe hape. Ene entse eja ntho e’ngoe e putsoa.
+Botle ka bohale a re, ‘Ke mose oaka!’
+P10	Reile raea ea hae re te’ne mekoarela fela. Rene re thothomela ke serame. Empa ene ese hobane ho bata.
+“Ene ele likhomo,” ralla. “Likhomo lijile liphahlo tsa rona.”
+Empa ‘M’e oa rona oile are kholoa?
+Hang litono tsa rona tsa chesa. Empa line lisa omisoe ke letsatsi!
 
 images:
 
@@ -41,6 +61,7 @@ translations:
 Afrikaans (Translation)	'n Warm Saterdag Middag	id=11416
 Afrikaans (Translation)	'n Baie Warm Saterdag Middag	id=11525
 Afrikaans (Translation)	'n Warm Saterdag	id=20090
+Ateso (Translation)	Amukaaga Na Amwanan	id=20628
 ChiTonga (Translation)	Bumwi Buzuba Masikati Mu Nsabata	id=18650
 CiNyanja (Translation)	Cibelu Cina Cakupya Mumazulo	id=18659
 Dhopadhola (Translation)	Mukaga Moro M’Olieth	id=15766
@@ -50,7 +71,7 @@ English (Translation)	A Hot Saturday	id=5394
 English (Adaptation)	A Hot Saturday	id=13453
 French (Translation)	Un Samedi Après-Midi De Grande Chaleur	id=10843
 IciBemba (Translation)	Kasuba Kamo Pacibelushi Ninshi Nakukaba	id=18693
-isiXhosa (Translation)	Ngenye  Imva Kwemini Eshushu Yangomgqibelo	id=3152
+isiXhosa (Translation)	Ngenye Imva Kwemini Eshushu Yangomgqibelo	id=3152
 isiZulu (Translation)	Ngomunye Umgqibelo Ntambama Kushisa	id=3151
 isiZulu (Translation)	Ngumunye Umgqibelo Ntambamba	id=13022
 isiZulu (Translation)	Ngomunye Umgqibelo Ntambama Kushisa	id=18956
@@ -66,12 +87,13 @@ Lunyole (Translation)	Ehy'egulo Hu Lw'omukaaga Olwaliho Ebbugumu	id=10250
 Maa (Translation)	Enkolong E Jumamosi Nairowua	id=3158
 Oluwanga (Translation)	Mwichuma Mushiteere  Shiomubasu Omululu	id=3154
 Portuguese (Translation)	Uma Tarde De Sábado E Calor	id=18864
+Rufumbira (Translation)	Uwamukaga Wizuba	id=20635
 Rutooro (Translation)	Kyamukaga Kimu Nyamusana Mukyanda	id=14938
 Sepedi (Translation)	Mokibelo Wa Go Fiša Tšhiritšhiri	id=1009
 Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=3146
 Sesotho (South Africa) (Translation)	Moqebelo O Mong O Tjhesang Haholo	id=20048
 Setswana (Translation)	Letsatsi La Lamatlhatso Le Le Mogote	id=3147
 SiLozi (Translation)	Lizazi Lenelicisa Haulu La Pelekelo	id=18737
-siSwati (Translation)	Ngelusuku Lwekushisa Kakhulu Kwelilanga Ngengcibelo Ntsambama	id=13062
-Tshivenda (Translation)	Masiari a Mugivhela U Fhisaho.	id=18319
+Siswati (Translation)	Ngelusuku Lwekushisa Kakhulu Kwelilanga Ngengcibelo Ntsambama	id=13062
+Tshivenda (Translation)	Masiari A Mugivhela U Fhisaho	id=18319
 Xitsonga (Translation)	Siku Rin’Wana Ro Hisa Ra Muqgivela Nindzhenga	id=18867

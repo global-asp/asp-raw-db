@@ -13,15 +13,17 @@ page_text:
 
 P1	Ekadeni bekunabangani ababili,  iKghuru kanye neNyoka.
 P2	Ngelinye ilanga ikghuru yathi ku Nyoka,  "Asikhambe siyokududa."
-P3	Bakhamba baya edamini lokududa.
-P4	IKghuru yangena ngedamini lokududa. Inyoka yaqala amagadango weKhguru.
-P5	Ngemva kwesikhathi eside,  iNyoka yangena ngedamini iKghuru imlayela.
-P6	IKghuru neNyoka badudela edamini ekugcineni lapha kungatihingiko.
-P7	Bathoma bathaya ngemanzimi.
-P8	Bathi basathaya njalo,  IKghuru yathoma yaduda ngomhlana. Kwathi iNyoka isalingisela iKghuru ngendlela iduda ngayo,  INyoka khenge ikghone ukujika kuhle yathoma yaqwila.
-P9	Kwathi ukulemuka bonyana iNyoka inyamalele,  iKghuru ngokurhaba yangena ngaphasi kwamanzi yasindisa ipilo yeNyoka.
-P10	Ngemva ngokuhti iKghuru iphuma ngemanzini,  yaqalisa iNyoka phasi yenzelela ukuth inyoka ikhiphe amanzi ewagwinyileko.
-P11	Emaphethelweni,  iKghuru yasebenzisa indlela yomlomo kumlomo ukukhipha amanzi amanengi.
+P3	"Kulungile,  kodwana mina angikwazi ukududa," kuphendula iNyoka. "Mina ngizakufundisa," kwaphendula iKghuru.
+P4	Bakhamba baya edamini lokududa.
+P5	"Ngubani ozokungena kokuthoma ngemanzini?" kwabuza iKghuru. "Nguwe,  mina ngizakubukela," kwatjho iNyoka.
+P6	IKghuru yangena ngedamini lokududa. Inyoka yaqala amagadango weKhguru.
+P7	Ngemva kwesikhathi eside,  iNyoka yangena ngedamini iKghuru imlayela.
+P8	IKghuru neNyoka badudela edamini ekugcineni lapha kungatihingiko.
+P9	Bathoma bathaya ngemanzimi.
+P10	Bathi basathaya njalo,  IKghuru yathoma yaduda ngomhlana. Kwathi iNyoka isalingisela iKghuru ngendlela iduda ngayo,  INyoka khenge ikghone ukujika kuhle yathoma yaqwila.
+P11	Kwathi ukulemuka bonyana iNyoka inyamalele,  iKghuru ngokurhaba yangena ngaphasi kwamanzi yasindisa ipilo yeNyoka.
+P12	Ngemva ngokuhti iKghuru iphuma ngemanzini,  yaqalisa iNyoka phasi yenzelela ukuth inyoka ikhiphe amanzi ewagwinyileko.
+P13	Emaphethelweni,  iKghuru yasebenzisa indlela yomlomo kumlomo ukukhipha amanzi amanengi.
 
 images:
 
@@ -46,5 +48,6 @@ Afrikaans (Translation)	Swem	id=11331
 English (Translation)	Swimming	id=9190
 French (Translation)	Allons Nager	id=10936
 Lugbarati (Original)	Yii Wezu	id=9189
+Ng’aturkana (Translation)	Akilulumare	id=20495
 Rutooro (Translation)	Kuziha	id=14942
 Setswana (Translation)	Thuma	id=11482

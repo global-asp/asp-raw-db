@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21497&d=0&a=1
+id:	21497
+title:	Inyamaswa Zicukura Iriba
+author:	Fulgence Ntibatekereza
+artist:	João Carlos Brito
+lang:	Kinyarwanda
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21497.png
+desc:	Imvura yamaze umwaka itagwa. Nta nigitonyanga cyashoboraga kuboneka. Ese inyamaswa zakemuye gute iki kibazo?
+
+page_text:
+
+P1	habayeho umwaka wose imvura itagwa. ibiti biruma. imigezi irakama ndetse amazi arashira. abantu n'inyamaswa batangira kwicwa n'inzara n'inyota.
+P2	intare n'inzovu bari abayobozi binyamaswa nuko bicara hasi batekereza kuri icyo kibazo. intare iravuga iti" tugiye kwicwa n'inyota. reka ducukure iriba". inzovu irabyemera ndetse ijya kubwira amakuru izindi nyamaswa.
+P3	inyamaswa zose zirabyemera uretse Bakame nuko zibiganiraho. intare iravuga iti" bavandimwe, uyu mwaka imvura ntiyaguye buri wese arimo aricwa n'inzara. reka ducukure iriba tuzajya tunyweraho amazi".
+P4	inyamaswa zose zirabyemera ndetse zitegura amasuka zitangira gucukura. ziracukura ziracukura hanyuma zigera ku mazi. intare irabaza iti" kubera iki bakame itaje gucukura, ntizigera inywa kuri aya mazi"
+P5	hashije umwanya bakame iraza ibona iriba. iravuga iti" yewe yewe wa riba we! ntiyigera yumva ijwi na rimwe irinjira inywa kuri ya mazi ndetse iyikinaguramo.
+P6	umunsi ukurikiyeho inyamaswa zisanga iriba rirasa nabi cyane hibereyemo ibyondo gusa. ziribaza ziti ninde wakoze ibi nuko inyamaswa imwe iravuga iti  ashobora kuba ari bakame kukon igihe twacukuraga ntawari ahari"
+P7	inyamaswa zishyiraho umurinzi. zihitamo babuni ngo ijye icunga iriba. babuni igihe bakame yazaga barabonanye ndetse amuha ibyo yari afite biryoshye.
+P8	bakame yari yazanye ubuki abuha babuni nuko afata amazi arayanywa. igihe bakame yari avuye aho, impyisi yaramurebaga.
+P9	umunsi ukurikiyeho impyisi ibwira izindi nyamaswa ko ari bakame wanyweye ndetse akanduza iriba, nuko zihitamo akanyamasyo ngo karinde iriba. bakamer iryo joro iraza yivugisha ibonye ntawikiriza iravuga iti' ndi bakame, nje kunywa amazi"
+P10	icyo gihe akanyamasyo kari kahageze kare kihisha hagati y'urutare ku buryo nako kasaga narwo  nuko bakame igiye mu mazi, akanyamasyo karayisumira kayisumira akaguru kugeza izuba rirashe.
+P11	inyamaswa zihageze zibano akanyamasyo kafashwe na bakame zihamagara inyamaswa zisigaye kugira ngo zifate umwanzuro wa bakame  igihe inyamaswa zari ziteranye, intare irazibaza iti" ni iki twakorera bakame?.
+P12	akanyamasyo karavuga kati" inzovu izayisumire iyisunikishe umutonzi wayo iyikubite ku rutare' inyamaswa zose ziremera. bakame iti' uziko bakame zitajya zipfa iyo bazikubise ku rutare'? bakame zipfa iyo bazinaze mu ivu. nuko intare ibwira inzovu gusunikira bakame mu ivu.
+P13	igihe bakame yarengewe n'ivu, inzovu yahise iyiterura irayijugunya. igihe bakame yituye hasi ahantu hose hahinduka ivumbi.
+P14	igihe umukungugu ushize, zirebye bakame zirayibura nuko zimenya ko bakame yongeye kuzihenda ubwenge.
+
+images:
+
+illustrations/pages/10230.png
+illustrations/pages/10226.png
+illustrations/pages/10227.png
+illustrations/pages/10228.png
+illustrations/pages/10230.png
+illustrations/pages/10234.png
+illustrations/pages/10233.png
+illustrations/pages/10235.png
+illustrations/pages/10236.png
+illustrations/pages/10237.png
+illustrations/pages/10238.png
+illustrations/pages/10239.png
+illustrations/pages/10240.png
+illustrations/pages/10241.png
+
+translations:
+
+Ateso (Translation)	Eboket Itiang Atan	id=20617
+Ciyawo (Adaptation)	Yinyama Yikusola Cisima	id=15571
+English (Adaptation)	Animals Dig a Well	id=10460
+Lumasaaba (Translation)	Tsisolo Stilima Ifubu	id=20662
+Portuguese (Original)	Os Animais Cavam Um Poço	id=10458
+Portuguese (Translation)	Os Animais Cavam Um Poço	id=11633

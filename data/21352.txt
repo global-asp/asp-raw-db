@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=21352&d=0&a=1
+id:	21352
+title:	God Willing
+author:	Muhammad Tukur Bala
+artist:	Zablon Alex Nguku, Wiehan de Jager and Magriet Brink
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21352.png
+desc:	Whatever you want to do say by Gods will.
+
+page_text:
+
+P1	One day Joha was going to the market. He came across a friend.
+P2	The friend asked: Where are you going Joha? I'm going to the market.
+P3	To buy a donkey. The friend told him to say by God will.
+P4	No! I have money and there are donkeys in the market
+P5	In the market the money was stolen. Oh! I can no more buy the donkey.
+P6	Joha regretted for not saying by God's will.
+
+images:
+
+illustrations/pages/17978.png
+illustrations/pages/17053.png
+illustrations/pages/9712.png
+illustrations/pages/15500.png
+illustrations/pages/17979.png
+illustrations/pages/8129.png
+illustrations/pages/1883.png
+
+translations:
+
+Hausa (Nigeria) (Translation)	Yardar Allah	id=21380

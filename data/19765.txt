@@ -7,18 +7,26 @@ lang:	English
 level:	First words
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19765.png
-desc:	The reason why spiders have long thin legs. (Also available at Level 4.)
+desc:	The reason why spiders have long thin legs. (Also available at Level 4.).
 
 page_text:
 
-P1	He loves food,  but he is too lazy to cook.
-P2	"Yes. Help me with stirring," says Rabbit. But Anansi is lazy.
-P3	Anansi ties some web around his leg and to Rabbit's pot.
-P4	"Monkeys,  can I share your beans?" "Yes. Help us with chopping."
-P5	"Warthog,  can I share your potatoes?" "Yes. Help me with preparing."
-P6	Soon,  each of Anansi's 8 legs is tied to a pot.
-P7	All 8 legs are being pulled! "Stop pulling!" cries Anansi.
-P8	Anansi's legs stretched! And so all spiders have long thin legs.
+P1	Anansi is a lazy spider.
+P2	He loves food,  but he is too lazy to cook.
+P3	Anansi visits Rabbit and asks to share his vegetables.
+P4	"Yes. Help me with stirring," says Rabbit. But Anansi is lazy.
+P5	"I will come back later," says Anansi.
+P6	Anansi ties some web around his leg and to Rabbit's pot.
+P7	"Pull the web when the greens are ready," says Anansi.
+P8	"Monkeys,  can I share your beans?" "Yes. Help us with chopping."
+P9	"I will come back," says Anansi. He ties more web.
+P10	"Warthog,  can I share your potatoes?" "Yes. Help me with preparing."
+P11	"I will come back," says Anansi. He ties more web.
+P12	Soon,  each of Anansi's 8 legs is tied to a pot.
+P13	Anansi feels a pull on leg 2. Then leg 3.
+P14	All 8 legs are being pulled! "Stop pulling!" cries Anansi.
+P15	No one hears Anansi crying. The webs break one by one.
+P16	Anansi's legs stretched! And so all spiders have long thin legs.
 
 images:
 
@@ -34,17 +42,23 @@ illustrations/pages/1069.png
 
 translations:
 
+Afaan Oromo (Translation)	Sharaariti Dadhaba	id=20428
+Amharic (Translation)	ሰነፉ አናንሲ	id=20489
 English (Original)	Lazy Anansi	id=1077
 French (Translation)	Anansi, La Fainéante	id=10850
+Hausa (Nigeria) (Translation)	Anansi Malalaci	id=20520
 isiZulu (Translation)	Anansi Ovilaphayo	id=11195
+isiZulu (Translation)	Ivila Elingu-Anansi	id=20724
 Kikamba (Translation)	Kitumi Kya Anansi Kwithiwa Na Maau Matheke Nyanya	id=2068
 Kiswahili (Translation)	Jinsi Anansi Alivyopata Miguu Minane Myembamba	id=2069
+Kiswahili (Translation)	Anansi Mvivu	id=20438
 Luganda (Translation)	Nabbubi Omunafu	id=2073
 Luganda (Translation)	Lwaki Nabbubi Erina Obugulu Munaana Obutono	id=8730
 Lugbarati (Translation)	E`yo Ebio Ma Pa Yin I Ovuzu Izia Izia Aro Ri	id=2070
 Lugbarati (Official) (Translation)	Ebìó Òvʉ́ó Rʉ Rɨ̀	id=8795
 Lumasaaba (Translation)	Lwashiina Wanaasi Nabubi Ali Ni Buukyele Shinaane Buunyelele	id=3012
 Lunyole (Translation)	Anansi Omunafu	id=2074
+Lusoga (Translation)	Munansi Omunafu	id=20401
 Maa (Translation)	Káínyoo Peê Éátâ Anansi Inkejék Ísíet Rónkéní	id=2729
 Ng’aturkana (Translation)	Eyakar Anansi Ng’Akejen Ngakan-Kauni Nadiim	id=2075
 Oluwanga (Translation)	Esichira Anansi Naba Norulenje Orutiti Munane	id=2071

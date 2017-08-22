@@ -11,16 +11,17 @@ desc:	Letsatsi
 
 page_text:
 
-P1	Khale-khale,  Letsatsi,  Khoeli,  Pula le Moea line li loants'ana.
+P1	Khale khale,  Letsatsi,  Khoeli,  Pula le Moea line li loants'ana.
 P2	Khang ea bona e ne e le hore Letsatsi le ne le batla ho chaba nako eohle. Khoeli e batla ho laeta nako eohle. Pula e batla hona nako eohle,  le Moea o batla foka nako eohle. Li sabatle ho fana ka sebaka.
-P3	Eaba barera hoba le tulo ea hotla buoa ka ts'ebelisano 'moho. Eaba kopanong ea bona,  Letsatsi le botsa Khoeli,  "Ke eng eo e leng molemo hotla thusa lefats'se ka eona?" Khoeli ea araba eare,  "Ke laetela li phoofolo tse hlaha,  hore li tsome lijo tse litla lija."
-P4	Khoeli le eona ea botsa Pula hore,  "Na molemo oa eona ke ofe ho thusa lefats'e?" Pula eare,  "Kefa lefats'e metsi hore limela tsohle lihlahe hantle. Hape kefa liphoofo metsi hore linoe."
-P5	Pula le eona ea botsa Moea hore,  "Na,  molemo oa ona ke ofe holima lefats'e?" Moea oa araba oare,  "Ke fiela lefats'e hore le hloeke. Hape ke thusa pula ho hasa metsi hohle lefats'eng ka bophara balona."
-P6	Moea le ona oa botsa Letsatsi hore,  "Na molemo oa lona ke ofe holima lefats'e?" Letsatsi la araba lare,  "Kefa lefats'e khanya le mofuthu e le hore liphoofo le lihloliloeng li phele ha monate."
-P7	Eaba Letsatsi,  Khoeli,  Pula le Moea baea utloana hore ba melemo kaofela.
-P8	Eaba Letsatsi lere,  "Kennete hore e mong le e mong ona le molemo oa tsela eoo,  a thusang lefats'e ka ona. Khoeli eare,  "Eea,  haho le a lemong ea betere hofeta e mong hara rona." Pula eona eare,  "Retla sebetsa ha'moho." Eaba Moea ore,  "Hare arolelaneng matsatsi." Kaofela ba lumellana."
-P9	Keka hona o bonang ka linako tseling Khoeli e ntse e le teng motse'eare Letsatsi le chabile. E ba ka nako tseling o utloa Moea ontse o foka leha Pula entse e eena. Letsatsi,  Khoeli,  Pula le Moea,  li sebetsa hantle ka kutloano.
-P10	O rata letsatsi,  khoeli,  pula kappa moea ho feta tseling? Toroea eo o e ratang hofeta tseling.
+P3	Eaba barera hoba le tulo ea hotla buoa ka ts'ebelisano 'moho.
+P4	Eaba kopanong ea bona,  Letsatsi le botsa Khoeli,  "Ke eng eo e leng molemo hotla thusa lefats'se ka eona?" Khoeli ea araba eare,  "Ke laetela li phoofolo tse hlaha,  hore li tsome lijo tse litla lija."
+P5	Khoeli le eona ea botsa Pula hore,  "Na molemo oa eona ke ofe ho thusa lefats'e?" Pula eare,  "Kefa lefats'e metsi hore limela tsohle lihlahe hantle. Hape kefa liphoofo metsi hore linoe."
+P6	Pula le eona ea botsa Moea hore,  "Na,  molemo oa ona ke ofe holima lefats'e?" Moea oa araba oare,  "Ke fiela lefats'e hore le hloeke. Hape ke thusa pula ho hasa metsi hohle lefats'eng ka bophara balona."
+P7	Moea le ona oa botsa Letsatsi hore,  "Na molemo oa lona ke ofe holima lefats'e?" Letsatsi la araba lare,  "Kefa lefats'e khanya le mofuthu e le hore liphoofo le lihloliloeng li phele ha monate."
+P8	Eaba Letsatsi,  Khoeli,  Pula le Moea baea utloana hore ba melemo kaofela.
+P9	Eaba Letsatsi lere,  "Kennete hore e mong le e mong ona le molemo oa tsela eoo,  a thusang lefats'e ka ona. Khoeli eare,  "Eea,  haho le a lemong ea betere hofeta e mong hara rona." Pula eona eare,  "Retla sebetsa ha'moho." Eaba Moea ore,  "Hare arolelaneng matsatsi." Kaofela ba lumellana."
+P10	Keka hona o bonang ka linako tseling Khoeli e ntse e le teng motse'eare Letsatsi le chabile. E ba ka nako tseling o utloa Moea ontse o foka leha Pula entse e eena. Letsatsi,  Khoeli,  Pula le Moea,  li sebetsa hantle ka kutloano.
+P11	O rata letsatsi,  khoeli,  pula kappa moea ho feta tseling? Toroea eo o e ratang hofeta tseling.
 
 images:
 
@@ -39,3 +40,5 @@ illustrations/pages/16108.png
 translations:
 
 English (Translation)	Sun, Moon, Rain and Wind	id=16111
+Lusoga (Translation)	Musana, Mwezi, Maadhi Ni Mpewo	id=21261
+Lusoga (Translation)	Omusana, Omwezi, Amaadhi Ne Empewo	id=21383

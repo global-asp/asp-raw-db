@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20271&d=0&a=1
+id:	20271
+title:	Baa
+author:	J. K. A. Anankor and E. T. Anoeni (OLE Ghana)
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Talen
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20271.png
+desc:	Solem denla toara bora ka koa n daa mar ka baa ka ka daa sa’a te’o ka dol o nour.
+
+page_text:
+
+P1	Buraa n da be, da mar o baa kakɔla.
+P2	O da nɔŋ o baa gɔ me pam.
+P3	Ka da tomet me ka la ka saahe, ka da ne ken da'a ne da'at numet.
+P4	Ke'et ko'om buleg ne ka won siel woo yinne.
+P5	Daar dekɔ ka buraa la da eng siel somma poih baa la.
+P6	Ne ka'n sa'a sera te o la.
+P7	La da pie baa la suh pam ka ka da kpelem tomet somma.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644

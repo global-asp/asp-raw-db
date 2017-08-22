@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=20168&d=0&a=1
+id:	20168
+title:	Zuaa
+author:	R.Y. Tongo and J. Salifu  (OLE Ghana)
+artist:	Ethan Alberts, Saulsville and Wiehan de Jager
+lang:	Mampruli
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20168.png
+desc:	Soalini wa wulsirila zɔaa barina. Soalini wa wulsirila zɔaa barina.
+
+page_text:
+
+P1	Zuaa nyala bunvri.
+P2	Zuaa beԑla da'ari daaziiya.
+P3	Baanig-ni dimni, sa'atampuya ni, ni diibuni.
+P4	Ka yigri nyiigra da'ari ni n kpɛri ti yiyani.
+P5	Ka tomni ti diibuni n sa-amdi.
+P6	Soa yi di da-ari, u puu ni bɛa.
+P7	Zuaa yala buveela.
+
+images:
+
+illustrations/pages/5294.png
+illustrations/pages/5294.png
+illustrations/pages/5299.png
+illustrations/pages/5302.png
+illustrations/pages/13574.png
+illustrations/pages/5526.png
+illustrations/pages/13371.png
+illustrations/pages/5294.png
+
+translations:
+
+English (Adaptation)	Flies	id=13639
+isiZulu (Translation)	Impukane	id=7492
+Lunyole (Translation)	Esoŋera	id=12909
+Ng’aturkana (Translation)	Ng'ichuch	id=20494
+Talen (Translation)	Zu'o		id=20174
+Xitsonga (Translation)	Nhongana	id=14381

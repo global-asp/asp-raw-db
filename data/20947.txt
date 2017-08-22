@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=20947&d=0&a=1
+id:	20947
+title:	Omusajja Atefirayo
+author:	Stellah Nakasango
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20947.png
+desc:	Olugero luno lukwata ku musajja eyari tefirayo
+
+page_text:
+
+P1	Awo rwatuka, wa beranganyo omusajja nga bamuyita Joel mu kyalo kya Aya.
+P2	Teya fanganyo kutereka meere gyebana kozesa mubisera bye maso, naye nga agyonona.
+P3	Tewasigalira meere yona mu kitereko.
+P4	kasoli ya yononeka era na kala.
+P5	Empewo eyamanyi yayuga ne jako ebati lye kiteeko.
+P6	Abanna bayayanila akatini akali kalekwedwawo musefuriya.
+P7	Maama  ya  gwa wansi nga akaaba kyanawa abaana mubiserwa bye maso.
+P8	Taata yatula wansi wa kabaraza nga alowoza kubisera bwemaso.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Translation)	Umugabo Wigisambo	id=20616
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

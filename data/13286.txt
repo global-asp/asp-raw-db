@@ -14,15 +14,16 @@ page_text:
 P1	Olunaku lumu,  maama yaleeta  ebibala,  ennanansi,  amenvu,  emicungwa,  emiyembe n'amapeera. Yabiwanika ku kabada waggulu.
 P2	Twabuuza maama nti,  ''Ffe tunaalya ddi ku bibala?'' Maama yaddamu nti,  "Tujja kulya olwaleero."
 P3	Muganda wange Kayima wamululu nnyo. Yagenda alumaluma ku buli kibala. Ebisinga yeyabirya.
-P4	Muto wange omulala yagamba nti,  ''Mazima labayo Kayima kyakoze!'' Kayima si muntu mulungi ate alina nnyo omululu.
-P5	Maama yanyigira nnyo Kayima.
-P6	Era naffe twanyigira nnyo Kayima. Kyokka yye Kayima nga teyefiirayo.
-P7	Muto wange yabuuza maama nti,  ''Kayima togenda kumubonereza?''.
-P8	''Kayima,  olina okutwentondera mangu ddala.''.
-P9	Kati kayima tawulira bulungi.
-P10	Kayima yayogera mu kaama nti,  "Olubuto lunnuma nnyo.''."
-P11	Maama yali yakitegedde dda nti olubuto lujja kumuluma. Kati ebibala bibonereza Kayima!
-P12	Oluvanyuma Kayima yatusaba tumusonyiwe. Yagamba nti,  "Sikyaddamu kubeera na mululu mulundi mulala.'' Naffe twamusonyiwa."
+P4	Bweyamala okubirya ye nagenda okuzannya.
+P5	Muto wange omulala yagamba nti,  ''Mazima labayo Kayima kyakoze!'' Kayima si muntu mulungi ate alina nnyo omululu.
+P6	Maama yanyigira nnyo Kayima.
+P7	Era naffe twanyigira nnyo Kayima. Kyokka yye Kayima nga teyefiirayo.
+P8	Muto wange yabuuza maama nti,  ''Kayima togenda kumubonereza?''.
+P9	''Kayima,  olina okutwentondera mangu ddala.''.
+P10	Kati kayima tawulira bulungi.
+P11	Kayima yayogera mu kaama nti,  "Olubuto lunnuma nnyo.''."
+P12	Maama yali yakitegedde dda nti olubuto lujja kumuluma. Kati ebibala bibonereza Kayima!
+P13	Oluvanyuma Kayima yatusaba tumusonyiwe. Yagamba nti,  "Sikyaddamu kubeera na mululu mulundi mulala.'' Naffe twamusonyiwa."
 
 images:
 
@@ -48,4 +49,4 @@ isiZulu (Adaptation)	Umhobholo	id=13326
 isiZulu (Translation)	Isijeziso	id=15341
 Oluwanga (Translation)	Eshinyasio	id=19592
 Portuguese (Translation)	Castigo	id=18855
-siSwati (Translation)	Sijeziso Sabobo	id=13868
+Siswati (Translation)	Sijeziso Sabobo	id=13868

@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=21443&d=0&a=1
+id:	21443
+title:	Wao Ni Nani?
+author:	Derek Smith
+artist:	Wiehan de Jager and Cathy Feek
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21443.png
+desc:	Tunauliza ni nani na hufanya nini?
+
+page_text:
+
+P1	Wao wako shuleni. Wao ni nini?
+P2	Wao ni wanafunzi. Wanajifunza kusoma na kuandika.
+P3	Yeye yuko hospitalini. Yeye ni nini?
+P4	Yeye ni daktari. Anasaidia wagonjwa.
+P5	Wao wamo jikoni. Wao ni nini?
+P6	Wao ni wapishi. Wapishi wanapenda kupika.
+P7	Yeye yuko shambani. Yeye ni nini?
+P8	Yeye ni mkulima. Anapanda vyakula vya watu.
+P9	Wao ni nani? Wamesimama pamoja.
+P10	 Wao ni familia. Wanapendana.
+
+images:
+
+illustrations/pages/14017.png
+illustrations/pages/14017.png
+illustrations/pages/14017.png
+illustrations/pages/1399.png
+illustrations/pages/1399.png
+illustrations/pages/15727.png
+illustrations/pages/10799.png
+illustrations/pages/10275.png
+illustrations/pages/10275.png
+illustrations/pages/1296.png
+illustrations/pages/1296.png
+
+translations:
+

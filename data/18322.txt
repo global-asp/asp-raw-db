@@ -26,7 +26,7 @@ P12	Kholomo ya thoma u vhilahela ya thoma u gidima nayone.
 P13	Zwa ṱangana na tshimange. Tshimange tsha vhudzisa,  "Ni kho gidimela mini?" Kholomo ya fhindula,  "A thi ḓivhi. Ndo soko pfa zwe donngi ya amba. Nayone a i ḓivhi. Yo pfa zwe mbongola ya amba,  nayone a i ḓivhi. Yo so ko pfa zwe mmbwa ya amba,  nayone a i ḓivhi. Yo pfa zwe khuhu ya amba na yone a i zwiḓivhi. Yo soko pfa zwe muvhuḓa wa amba na wone a u ḓivhi. Wo soko pfa tshithu tshi kho u wa na ipfi ḽe ḽa ri 'Gidima muvhuḓa gidima!'."
 P14	Tshimange tsha thoma u gidima na zwiṅwe zwipuka.
 P15	Zwa mbo di ṱangana na mutukana a kho gidimisa baisigira a vhudzisa,  "Ni kho gidimela mini?" Zwipuka zwa fhindula,  "A ri ḓivhi. Ro soko pfa zwe muvhuḓa wa amba na wone a u ḓivhi. Wo soko pfa tshithu tshi kho u wa na ipfi ḽe ḽa ri 'Gidima muvhuḓa gidima!'."
-P16	Mutukana a sea a kona uri,  "Apuḽa ḽo wa murini nga nṱhani ha muya. Ndi nṋe we nda ri 'Gidima muvhuḓa gidima!"'.
+P16	Mutukana a sea a kona uri,  "Apuḽa ḽo wa murini nga nṱhani ha muya. Ndi nṋe we nda ri 'Gidima muvhuḓa gidima!'."
 
 images:
 
@@ -58,6 +58,7 @@ CiNyanja (Translation)	Kalulu Munsi Mwa Mutengo	id=18669
 Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
 English (Translation)	Rabbit Under the Tree	id=7734
 English (Adaptation)	Test Edit	id=16731
+English (Adaptation)	Run Rabbit Run!	id=20888
 French (Translation)	Le Lapin Sous Un Arbre	id=10154
 Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
 IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
@@ -65,13 +66,17 @@ isiXhosa (Translation)	Umvundla Phantsi Komthi	id=17581
 isiZulu (Original)	Unogwaja Ngaphansi Kwesihlahla	id=7664
 isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
 Kiswahili (Translation)	Sungura Chini Ya Mti	id=8438
+Kiswahili (Translation)	Kimbia Sungura, Kimbia!	id=21140
 Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
 Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lumasaaba (Translation)	Tima Ssunguda Tima	id=20999
 Lunyole (Translation)	Enduyu Ŋaasi W’Omuyembe	id=16585
+Ng’aturkana (Translation)	Apoo Na Epung’Ar!	id=21135
 Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
 Sepedi (Translation)	Mmutla Ka Tlase Ga Mohlare	id=18135
 Sesotho (South Africa) (Translation)	Mmutlanyana Tlasa Sefate	id=20049
 Setswana (Translation)	Mmutla Mo Tlase Ga Setlhare	id=15041
 SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
-siSwati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Siswati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Tigrigna (Translation)	ጉየይ ማንቲለ፣ ጉየይ 	id=21188
 Xitsonga (Translation)	Kondlo Ehansi Ka Murhi	id=19020

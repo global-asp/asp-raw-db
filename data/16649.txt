@@ -14,7 +14,7 @@ page_text:
 P1	Egoona liri n'ameeno moogi.
 P2	Epologoma yosi eri n'ameeno moogi.
 P3	Enjatu yosi eri n'ameeno moogi!
-P4	Eŋombe eri n'ameeno amagumu aganyanya emeere.
+P4	Eŋombe eri n'ameeno amagumu aganyanya ebiryo.
 P5	Enyuni ebula meeno. Yirya yiitye?
 P6	Embeba jiri n'ameeno amaleeŋi  ŋamunwa.
 P7	Naliiho n'ameeno  ŋamunwa.
@@ -36,7 +36,7 @@ translations:
 
 Afrikaans (Translation)	Tande	id=10594
 Aringati (Translation)	Sí Éséle Íngóní Rĩ?	id=9643
-English (Translation)	What Type of Teeth?	id=9653
+English (Translation)	What Type Of Teeth?	id=9653
 isiNdebele (Translation)	Unamazinyo Amangakhi?	id=13052
 isiZulu (Translation)	What Type of Teeth?	id=11562
 Kakwa (Original)	Kala Lo Gbo’Da Adidinyo?	id=9625

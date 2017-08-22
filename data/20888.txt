@@ -1,0 +1,84 @@
+url:	http://africanstorybook.org/reader.php?id=20888&d=0&a=1
+id:	20888
+title:	Run Rabbit Run!
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20888.png
+desc:	An apple falls to the ground under the tree where Rabbit is sleeping. At the same time
+
+page_text:
+
+P1	An apple fell from a tree under which Rabbit was sleeping.
+P2	Rabbit heard a voice say, “Run Rabbit run!”
+P3	Rabbit told Chicken, “Something fell and I heard, ‘Run Rabbit run!'”
+P4	Chicken started running when she heard what Rabbit said.
+P5	They told Dog, “Rabbit heard something falling and she ran.”
+P6	Dog started running with Rabbit and Chicken.
+P7	Dog told Horse, “Rabbit heard something falling and she ran.”
+P8	Horse started to run with the others.
+P9	Donkey asked, “Why are you running?” Horse replied, “I don’t know.”
+P10	Donkey started running with them.
+P11	Donkey told Cow, “Rabbit heard something falling and she ran.”
+P12	Cow was worried and started to run as well.
+P13	Cow told Cat, “Rabbit heard something falling and she ran.”
+P14	Cat started running with the other animals.
+P15	They met a boy. 
+
+“Don’t you know what happened?” he asked.
+P16	“It was me who said, ‘Run Rabbit run!’” laughed the boy.
+
+images:
+
+illustrations/pages/7610.png
+illustrations/pages/7595.png
+illustrations/pages/7596.png
+illustrations/pages/7597.png
+illustrations/pages/7598.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/7601.png
+illustrations/pages/7602.png
+illustrations/pages/7603.png
+illustrations/pages/7604.png
+illustrations/pages/7605.png
+illustrations/pages/7606.png
+illustrations/pages/7607.png
+illustrations/pages/7608.png
+illustrations/pages/7609.png
+illustrations/pages/7610.png
+
+translations:
+
+Afrikaans (Translation)	Hasie Se Groot Skrik	id=10861
+Afrikaans (Translation)	Hasie Onder Die Boom	id=11221
+Afrikaans (Translation)	Hasie Onder Die Boom	id=20094
+ChiTonga (Translation)	Sulwe Mujungusi Acisamu	id=18656
+CiNyanja (Translation)	Kalulu Munsi Mwa Mutengo	id=18669
+Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
+English (Translation)	Rabbit Under the Tree	id=7734
+English (Adaptation)	Test Edit	id=16731
+French (Translation)	Le Lapin Sous Un Arbre	id=10154
+Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
+IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
+isiXhosa (Translation)	Umvundla Phantsi Komthi	id=17581
+isiZulu (Original)	Unogwaja Ngaphansi Kwesihlahla	id=7664
+isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
+Kiswahili (Translation)	Sungura Chini Ya Mti	id=8438
+Kiswahili (Translation)	Kimbia Sungura, Kimbia!	id=21140
+Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
+Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lumasaaba (Translation)	Tima Ssunguda Tima	id=20999
+Lunyole (Translation)	Enduyu Ŋaasi W’Omuyembe	id=16585
+Ng’aturkana (Translation)	Apoo Na Epung’Ar!	id=21135
+Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
+Sepedi (Translation)	Mmutla Ka Tlase Ga Mohlare	id=18135
+Sesotho (South Africa) (Translation)	Mmutlanyana Tlasa Sefate	id=20049
+Setswana (Translation)	Mmutla Mo Tlase Ga Setlhare	id=15041
+SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
+Siswati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Tigrigna (Translation)	ጉየይ ማንቲለ፣ ጉየይ 	id=21188
+Tshivenda (Translation)	Muvhuḓa Fhasi Ha Muri	id=18322
+Xitsonga (Translation)	Kondlo Ehansi Ka Murhi	id=19020

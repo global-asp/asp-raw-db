@@ -3,7 +3,7 @@ id:	13075
 title:	Libhubesi Nengulube Yesiganga
 author:	Mduduzi Sengwayo and Siyanda Nkosi
 artist:	Wiehan de Jager
-lang:	siSwati
+lang:	Siswati
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/13075.png
@@ -51,7 +51,6 @@ illustrations/pages/9535.png
 translations:
 
 French (Translation)	Le Lion Et Warthog	id=12661
-Kinyarwanda (Translation)	Intare N'isatura	id=11600
 Kiswahili (Translation)	Simba Na Ngiri	id=12699
 Ng’aturkana (Translation)	Eng'atuny Ka Eputir	id=12688
 Oluwanga (Translation)	Italanyi Nende Injiri	id=12957

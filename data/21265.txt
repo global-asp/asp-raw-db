@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=21265&d=0&a=1
+id:	21265
+title:	Omuliro Naate
+author:	Kusasira  Seri
+artist:	Rob Owen and Wiehan de Jager
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21265.png
+desc:	Ffe tuuwa emigaso enjenjawuro ejomuliro
+
+page_text:
+
+P1	Ndaba omuliro naate.
+P2	Omuliro gulikwaka n’ga gutan’ngala.
+P3	Omuliro ggufubba enyama nenva endirwa.
+P4	Omuliro gguyinza okunkuma
+  nga’ mbuguma
+P5	Ekaala yaorwengi eyo
+  muliro empa ekitangala nga kili zigizigi.
+P6	Omuliro  ghu palika nekilala ghu bukka.
+P7	Omuliro gwa manyi nekila gwabulabe.
+P8	Tulina kubabegendalezu nga tukoleza omuliro oba nga tuzanyanagwo.
+
+images:
+
+illustrations/pages/6121.png
+illustrations/pages/1298.png
+illustrations/pages/8560.png
+illustrations/pages/8557.png
+illustrations/pages/17333.png
+illustrations/pages/8558.png
+illustrations/pages/6121.png
+illustrations/pages/8556.png
+illustrations/pages/1298.png
+
+translations:
+
+English (Original)	Fire Again!	id=19933
+Kinyarwanda (Translation)	Umuriro Nanone	id=21050

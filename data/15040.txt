@@ -16,13 +16,13 @@ P2	Rre o apaya motogo gore re fitlhole.
 P3	"Mme o apaya motogo o o monate!" ga rialo Lebo.
 P4	Motogo o fa Lebo maatla kwa sekolong.
 P5	Motogo o butswile.
-P6	Rre o tshela mašwi,  ka lerato.
-P7	"Rra,  ke akanya gore motogo o o tlhoka sukiri e ntsi," ga rialo Lebo.
+P6	Rre o tshela mašwi, ka lerato.
+P7	"Rra, ke akanya gore motogo o o tlhoka sukiri e ntsi," ga rialo Lebo.
 P8	"Motogo wa ga mme o monate go feta wa ga rre," Lebo a akanya.
-P9	"Rre,  ke kopa o mphe  sukiri e nngwe gape" Lebo a kopa.
+P9	"Rre, ke kopa o mphe  sukiri e nngwe gape," Lebo a kopa.
 P10	Rre o fa Lebo sukiri gape.
 P11	"Iyo! Rre! O tshetse letswai mo motogong wa me!"
-P12	"Rre,  mme o tlile go boela leng gae?" Lebo a botsa.
+P12	"Rre, mme o tlile go boela leng gae?" Lebo a botsa.
 
 images:
 
@@ -60,6 +60,8 @@ Kalenjin (Translation)	Musar	id=15395
 Kimîîru (Translation)	Uchuru	id=15412
 Kiswahili (Translation)	Uji	id=15614
 Lunyole (Translation)	Obusera	id=13458
+Lusoga (Translation)	Buugi	id=21198
+Mampruli (Translation)	Koko	id=21224
 Oluwanga (Translation)	Obusera	id=19793
 Portuguese (Translation)	Papa	id=18854
 Sepedi (Translation)	Motepa	id=18028

@@ -1,0 +1,87 @@
+url:	http://africanstorybook.org/reader.php?id=20150&d=0&a=1
+id:	20150
+title:	Cat and Dog and the Egg
+author:	Elke and René Leisink
+artist:	Elke and René Leisink
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20150.png
+desc:	Cat and Dog are best friends. They see an egg on the grass. What will they do with it?
+
+page_text:
+
+P1	This is Cat.
+
+This is Dog.
+P2	Cat and Dog walk. 
+
+They walk in their village.
+P3	Then they see an egg. 
+
+The egg is in the grass. 
+
+The egg is alone in the grass. 
+
+The egg is all alone.
+P4	Cat and Dog walk to a bird. 
+
+They ask the bird, "Is this your egg?"
+P5	But the bird says, 
+"No, that is not my egg. Ask the owl.  
+Maybe it is his egg."
+P6	Cat and Dog walk to the owl. 
+
+They ask the owl, "Is this your egg?"
+P7	But the owl says, 
+"No, that is not my egg. Ask the goose.  
+Maybe it is her egg."
+P8	Cat and Dog walk to the goose. 
+
+They ask the goose, "Is this your egg?"
+P9	But the goose says, "No, that is not my egg. 
+Ask the two ducks. Maybe it is their egg."
+P10	Cat and Dog walk to the two ducks. 
+
+They ask the the two ducks, "Is this your egg?"
+P11	But the two ducks say, "No, that is not our egg." 
+
+Then the egg breaks.
+P12	There is a lizard in the egg. 
+
+A baby lizard.
+P13	The baby lizard says, 
+"Where is my mother? Where is my father? 
+Where are my mother and father?" 
+
+Cat and Dog bring the baby lizard to his mother and father.
+P14	Bye bye Cat. 
+
+Bye bye Dog. 
+
+Bye bye baby lizard.
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiTonga (Translation)	Kkiti, Mubwa A Ji	id=20770
+CiNyanja (Translation)	Cona Galu Ndi Dzira	id=20793
+SiLozi (Translation)	Kaze Nja Ni Lii	id=20924

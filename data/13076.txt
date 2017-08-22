@@ -3,7 +3,7 @@ id:	13076
 title:	Inkhomo Leneluphondvo Lunye
 author:	Ayanda Motha and Gcwalisile Moosa
 artist:	Marion Drew
-lang:	siSwati
+lang:	Siswati
 level:	First paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/13076.png
@@ -37,8 +37,10 @@ translations:
 Afaan Oromo (Translation)	Sa'aa Gaafa Tokko Qabdu	id=12959
 Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
 English (Translation)	Cow With One Horn	id=9622
+Hausa (Nigeria) (Translation)	Saniya Mai Kaho Daya	id=20865
 isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
 isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Kinyarwanda (Translation)	Inka Y' Ihembe Rimwe	id=21049
 Kiswahili (Translation)	Ng'ombe Mwenye Pembe Moja	id=15712
 Lámnsoʼ (Translation)	Nàʼ Wo Wù Kér Loŋ E Mòʼón	id=15065
 Lunyole (Translation)	Eŋombe Ey’Olwiga Lulala	id=11906

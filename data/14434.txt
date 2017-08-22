@@ -7,18 +7,18 @@ lang:	Sesotho (S.Africa)
 level:	First paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/14434.png
-desc:	Kgoho le Lefokolodi ba na le setswalle sa tlhodisano.  Tsatsi le leng Kgoho a kgena haholo ha a elellwa hore o tla hlolwa
+desc:	Kgoho le Lefokolodi ba na le setswalle sa tlhodisano. Tsatsi le leng Kgoho a kgena haholo ha a elellwa hore o tla hlolwa
 
 page_text:
 
 P1	Kgoho le Lefokolodi e ne e le metswalle. Empa ba ne ba dula ba hlodisana. Tsatsi le leng ba qeta ka ho ba bapala bolo ya maoto ho bona hore na ke mang eo e leng sebapadi se hlwahlwa.
-P2	Ba ile ba ya lebaleng la bolo mme ba qala papadi ya bona. Kgoho o ne a le lebelo,  empa Lefokolodi a le lebelo ho mo feta. Kgoho o rahela hole,  empa Lefokolodi o rahela hole ho mo feta. Kgoho o ile a qala a sarelwa.
+P2	Ba ile ba ya lebaleng la bolo mme ba qala papadi ya bona. Kgoho o ne a le lebelo, empa Lefokolodi a le lebelo ho mo feta. Kgoho o rahela hole,  empa Lefokolodi o rahela hole ho mo feta. Kgoho o ile a qala a sarelwa.
 P3	Ba ile ba nka qeto ya ho raha dipenale. Lefokolodi ya e ba yena pele ho ba sethibathibane. Kgoho o ile a hlaba ntlha e le nngwe feela. Ya eba nako ya hore Kgoho a sireletse ntlha.
 P4	Lefokolodi o ile a raha bolo a hlaba ntlha. Lefokolodi o ile a mo fekefa a ba a hlaba ntlha. Lefokolodi o ile a thula bolo ka hlooho a hlaba ntlha. Lefokolodi o ile a hlaba dintlha tse hlano.
 P5	Kgoho o ne a halefile hore o hlotswe. E ne e le mohlodiwa e mobe haholo. Lefokodi o ile a qala ho tsheha hobane motswalle wa hae o ne a etsa diphoso.
 P6	Kgoho o ne a halefile hoo a bileng a bula molomo wa hae haholo a kwenya Lefokolodi.
-P7	Ha Kgoho a tsamaya ho  ya hae,  a kopana le Mma Lefokolodi. Mma Lefokolodi a mmotsa,  "Ha o so bone ngwanaka?" Kgoho a se ke a araba. Mma Lefokolodi o ne a tshwenyehile.
-P8	Yaba  Mma Lefokolodi o utlwa lentswe le lesesane. "Nthuse Mme!" ha utlwahala lentswe le llang. Mma Lefokolodi a qamaka a mamedisisa ka hloko. Lentswe le ne le tswa ka hara Kgoho.
+P7	Ha Kgoho a tsamaya ho ya hae, a kopana le Mma Lefokolodi. Mma Lefokolodi a mmotsa, "Ha o so bone ngwanaka?" Kgoho a se ke a araba. Mma Lefokolodi o ne a tshwenyehile.
+P8	Yaba Mma Lefokolodi o utlwa lentswe le lesesane. "Nthuse Mme!" ha utlwahala lentswe le llang. Mma Lefokolodi a qamaka a mamedisisa ka hloko. Lentswe le ne le tswa ka hara Kgoho.
 P9	Mma Lefokolodi a hweletsa,  "Sebedisa matla a hao a ikgethang ngwanaka!" Mafokolodi a ka ntsha monko o mobe le tatso e mpe haholo. Kgoho a qala ho ikutlwa a kula.
 P10	Kgoho a bohla. A kwenya a ba a tshwela. A thimola a ba a hohlola. A ba a hohlola. Lefokolodi o ne a le mobe!
 P11	Kgoho a hohlola a ba a ntsha Lefokolodi ya neng a le ka mpeng ya hae. Mma Lefokolodi le ngwana wa hae ba ngwangwarela sefate ho ipata.
@@ -43,17 +43,18 @@ illustrations/pages/8994.png
 translations:
 
 Afrikaans (Translation)	Hennetjie en Wurmpie	id=11135
-Afrikaans (Translation)	Hoender en Duisendpoot	id=20054
+Afrikaans (Translation)	Hoender En Duisendpoot	id=20054
 ChiTonga (Translation)	Nkuku, Joongola	id=18643
 CiNyanja (Translation)	Nkuku Na Bongololo	id=18661
+Dhopadhola (Translation)	Gweno Kodi Ongongolo	id=20822
 English (Translation)	Chicken and Millipede	id=9094
 French (Translation)	La Poule Et Le Millepatte	id=9959
 French (Translation)	Poulet Et Mille-Pattes	id=10145
 Fulfulde (Translation)	Gortogal E Kaakatal	id=10012
 Gurene (Translation)	Nͻbila La Katagune	id=12663
-Hausa (Translation)	Kaza Da	id=9977
+Hausa (Niger) (Translation)	Kaza Da	id=9977
 isiXhosa (Translation)	Isikhukukazi Nokhozo Lombona	id=14126
-isiXhosa (Translation)	Unkukhu  Nosongololo	id=17517
+isiXhosa (Translation)	Unkukhu Nosongololo	id=17517
 isiZulu (Translation)	Unkukhu Noshongololo	id=13535
 isiZulu (Adaptation)	Unkukhu Noshongololo	id=17452
 Kanuri (Translation)	Kuwui-a Dǝngaɍi-A	id=10039
@@ -63,6 +64,7 @@ Likpakpaanl (Translation)	Ukↄla Ni Gonlgonl	id=18776
 Lugbarati (Original)	Au Pi Ii Elirigabe	id=9032
 Lugbarati (Adaptation)	Au Pi Ii Elirigabe	id=9095
 Lumasaaba (Translation)	Ingokho Ni Likongolyo	id=11881
+Mampruli (Translation)	Noa Ni Sanguntiri	id=20117
 Portuguese (Translation)	O Frango E O Gongolo	id=16099
 Portuguese (Translation)	Galinha E Milípede	id=16477
 Rutooro (Translation)	Enkoko N’ Ekikongoro	id=14924
@@ -70,7 +72,8 @@ Sepedi (Translation)	Chicken and Millipede	id=11485
 Sepedi (Translation)	Kgogo Le Legokolodi	id=12410
 Setswana (Translation)	Koko Le Sebokolodi	id=13973
 SiLozi (Translation)	Kuhu Ni Likondondo	id=18706
-siSwati (Translation)	Inkhukhu Nelishongololo	id=12580
+Siswati (Translation)	Inkhukhu Nelishongololo	id=12580
+Talen (Translation)	Nobil Ne Sanguin 	id=20179
 Tshivenda (Translation)	Khuhu Na Dongololo	id=14731
 Xitsonga (Translation)	Huku Na Khongoloti	id=14408
 Zarma (Translation)	Gorŋo-Ɲa Nda Konjanje	id=10103

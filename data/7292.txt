@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=7292&d=0&a=1
 id:	7292
 title:	What Are You Doing?
 author:	Nina Orange
-artist:	Wiehan de Jager and Wiehan de Jaager
+artist:	Wiehan de Jager
 lang:	English
 level:	First words
 lic:	Creative Commons: Attribution 3.0
@@ -18,6 +18,7 @@ P4	She is stretching.
 P5	He is calling.
 P6	I am answering.
 P7	She is listening.
+P8	What are you doing?
 
 images:
 
@@ -42,7 +43,9 @@ isiXhosa (Translation)	Wenza Ntoni?	id=15035
 isiZulu (Adaptation)	Wenzani?	id=17101
 Kiswahili (Translation)	Unafanya Nini?	id=15711
 Lunyole (Translation)	Ohola Hiina?	id=13602
+Lunyole (Translation)	Ohola Hiina?	id=21099
+Mampruli (Translation)	Bɔ Ka I Niŋna?	id=21221
 Ng’aturkana (Translation)	Nyo Isubi Iyong?	id=9778
 Portuguese (Translation)	O Que É Que Estás a Fazer?	id=19219
 Sepedi (Translation)	O Dira Eng?	id=7692
-Tunisian (Translation)	Cnuwwe Qàġid Taġmil?	id=15381
+Tunisian (Translation)	Ċnuwwa Qāɛed Taɛmil?	id=15381

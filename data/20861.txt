@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=20861&d=0&a=1
+id:	20861
+title:	Umukecuru Mu Icupa
+author:	Niyifasha Epimaque
+artist:	Abraham Muzee
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20861.png
+desc:	Umukecuru wigisambo yari arambiwe no kuba mu icupa. Umunsi umwe
+
+page_text:
+
+P1	Habayeho umukecuru wibanaga mu icupa. Agahora yijujuta.
+P2	Umunsi umwe ikivejuru gica ku rugo rwe kibona ababaye.
+P3	Ikivejuru kirahagarara kiramubaza, "hari ikihe kibazo? Kuki wababaye?"
+P4	Umukecuru aramusubiza ati "ndambiwe kuba mu icupa."
+P5	Ikivejuru kiramubwira "Haguruka, ukome amashyi inshuro ebyiri, uzenguruke inshuro eshatu."
+P6	Nyuma yo gukora ibyo yari abwiwe gukora, umukecuru yisanze mu nzu nto.
+P7	Nyuma y'iminsi mike, ikivejuru cyaragarutse gisanga akibabaye.
+P8	Ikivejuru kiramubaza, "Ni iki kitagenda Kuki ubabaye."
+P9	Umukecuru arasubiza "Iyi nzu ni nto cyane. Sinyikunda,"
+P10	Ikivejuru kiramubwira "Haguruka, ukome amashyi inshuro ebyiri, uzenguruke inshuro eshatu."
+P11	Nyuma yo gukora ibyo yari abwiwe gukora, umukecuru yisanze mu nzu nini.
+P12	Ikivejuru cyagarutse kureba umukecuru. Cyasanze akibabaye anakijujuta.
+P13	Ikivejuru cyaramubajije "hari kibazo ki mukecu?" Umukecuru arasubiza "Iyi nzu irijimye kandi irananduye."
+P14	Ikivejuru kiramubwira, "Ikivejuru kiramubwira "Haguruka, ukome amashyi inshuro ebyiri, uzenguruke inshuro eshatu."
+P15	Nyuma yo gukora ibyo yari abwwiwe gukora, umukecuru yisanze nanone mu icupa.
+P16	Umukecuru ntiyabasha kubona umugisha yari yakiriye. Yasaziye mu icupa rye, wenyine kandi anababaye.
+
+images:
+
+illustrations/pages/25248.png
+illustrations/pages/25233.png
+illustrations/pages/25234.png
+illustrations/pages/25235.png
+illustrations/pages/25236.png
+illustrations/pages/25237.png
+illustrations/pages/25238.png
+illustrations/pages/25239.png
+illustrations/pages/25240.png
+illustrations/pages/25241.png
+illustrations/pages/25242.png
+illustrations/pages/25243.png
+illustrations/pages/25244.png
+illustrations/pages/25245.png
+illustrations/pages/25246.png
+illustrations/pages/25247.png
+illustrations/pages/25248.png
+
+translations:
+
+English (Translation)	Old Woman In A Bottle	id=20853
+Setswana (Original)	Mosadimogolo Wa Lebotlolo	id=20850

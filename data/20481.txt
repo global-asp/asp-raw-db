@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=20481&d=0&a=1
+id:	20481
+title:	ጅብ፣ ጥንቸልና ሳፋዎቻቸው
+author:	Mezemir Girma
+artist:	
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20481.png
+desc:	ሳፋ መውለድ ከቻለ፤ ሕይወት አለው ማለት ነው፡፡ ሕይወት ያላቸው ሁሉ ይሞታሉ፡፡
+
+page_text:
+
+P1	ጅብና ጥንቸል ጓደኛሞች ነበሩ፡፡
+P2	ጥንቸል አህያና ትንሽዬ ቀይ ሳፋ ነበሯት፡፡
+P3	ጥንቸል ትልቅ ሳፋ ሲያስፈልጋት የጅብን ሰማያዊ ሳፋ ትዋሳለች፡፡
+P4	ጅብ ልብሶቹን በሳፋው ለማጠብ ፈለገ፡፡
+P5	ጅብ ጥንቸል ጋ ሄዶ ‹‹ሳፋዬን ፈልጌው ነበር›› አላት፡፡
+P6	‹‹ሳፋህ ልጅ ነበራት›› ብላ ጥንቸል ሁለቱንም ሳፋዎች ሰጠችው፡፡
+P7	በሌላ ቀን ጥንቸል የጅብን ሳፋ እንደገና ተዋሰች፡፡
+P8	ጅብ ሳፋውን ሊወስድ ሲሄድ ጥንቸል መጥፎ ወሬ ነገረችው፡፡
+P9	‹‹ሳፋህ ሞተ›› አለችው ጥንቸል፡፡ ጅብ ይህን ሊያምን አልቻለም፡፡
+P10	ጅብ ትልልቆቹን እንስሳት ፍረዱኝ ብሎ ጠራ፡፡
+P11	‹‹ሕይወት ያላቸውና የሚወልዱ ነገሮች መሞታቸውም አይቀርም›› አለች ጥንቸል፡፡
+P12	እንስሳቱ ከጥንቸል ጋር ተስማሙ፡፡ የጅብንም ሳፋ ጥንቸል ወሰደችበት፡፡
+
+images:
+
+illustrations/pages/19188.png
+illustrations/pages/19185.png
+illustrations/pages/19186.png
+illustrations/pages/19187.png
+illustrations/pages/19188.png
+illustrations/pages/19189.png
+illustrations/pages/19190.png
+illustrations/pages/19191.png
+illustrations/pages/19192.png
+
+translations:
+
+Afaan Oromo (Translation)	Warabeesa, Illetif Gabate	id=20427
+English (Translation)	Hyena, Hare And Their Basins	id=19194
+English (Adaptation)	Hyena, Hare And Their Basins	id=19764
+isiZulu (Translation)	Umpisi, Unogwaja Nezindishi	id=20722
+Kiswahili (Original)	Fisi, Sungura Na Karai	id=19193
+Kiswahili (Translation)	Fisi, Sungura Na  Beseni	id=20437
+Lusoga (Translation)	Wampiti, Wakayima Ni  Benseni	id=20400
+Ng’aturkana (Translation)	Ebuu, Apoo Ka Ng'atubwae	id=20416
+Setswana (Translation)	Phiri, Mmutla Le Dijana	id=21057

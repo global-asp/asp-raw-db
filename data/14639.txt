@@ -11,6 +11,15 @@ desc:	Augusto está lendo um livro animal. Irene quer ver os animais. Você conh
 
 page_text:
 
+P1	Augusto:  Irene,  olha um livro de animais Irene: Quero ver.
+P2	Irene:  Olha um leão. Como fazem os leões? Augusto: Eles rugem,  "grrr. Grrr."
+P3	Irene:  Olha um hipopótamo. Como fazem os hipopótamos? Augusto: Eles grunhem,  "ononon. Onc."
+P4	Irene:  Olha um elefante. Como fazem os elefantes? Augusto: Eles bramam "uuu. Uuu."
+P5	Irene:  Olha um javali. Como fazem as javalis? Augusto: Eles grunhem "oinc. Oinc."
+P6	Irene: Olha uma hiena. Como fazem as hienas? Augusto: Elas choram ou riem,  "hihihi."
+P7	Irene: Olha uma zebra. Como fazem as zebras? Augusto: Elas relincham,  "lihii. Lihii."
+P8	Irene: Olha um macaco. Como fazem os macacos? Augusto: Eles guincham,  "hii. Hii."
+P9	Irene:  Olha uma girafa. Como fazem as girafas? Augusto:  Não ouvimos. Balem baixinho.
 
 images:
 

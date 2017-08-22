@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=20830&d=0&a=1
+id:	20830
+title:	Pale Ya Jojo E Monyenyane E Telele Ya Maiqape
+author:	Matilda Dube
+artist:	Marleen Visser
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20830.png
+desc:	Morena wa Motse ya nang le Dibopeho tse Ngata o lahlehetswe ke lenaka le ikgethang leo a le letsang ho qala mokete wa ho thwasa ha selemo. Jojo e monyenyane o tswa a ilo batla lenaka le lahlehileng
+
+page_text:
+
+P1	"Ke na le bothata bo boholo haholo," ho lla Morena Kgutshwane le Tjhitja.
+P2	"Ke lahlehetswe ke lenaka la ka la selemo," ho bua Morena Kgutshwane le Tjhitja.
+P3	"Ke tla le fumana lenaka la hao la selemo," ho bua Jojo e monyenyane. "Ke tla sheba ntlong ya Tata Kgutlo-nne."
+P4	Jojo e monyenyane le Tata Kgutlo-nne ba batlile hohle empa ba sitwa ho fumana lenaka la selemo.
+P5	"Tsamaya o yo bona haeba Mama Kgutlo-tharo a na le lenaka la selemo," ho bua Tata Kgutlo-nne.
+P6	"Jojo e monyenyane a emisa ntlong ya hae ho tshela galase ya metsi a batang."
+P7	Jojo o tjhaketse Dudu Taemane mme a mo kopa hore a tsamaye le yena.
+P8	"Ha se hole empa ke tla nka dijo tseo re tla tsamaya le tsona," ho bua Dudu.
+P9	Dudu le Jojo ba a ema hore ba je mme ba phomole tlasa thaba ya kgutlo-tharo.
+P10	Ha ba se ba nyolohile halofo ya thaba, ba bona ntlo ya sekgo e sa tlwaelehang.
+P11	Jojo le Dudu ba fihla ntlong ya Mama kgutlo-tharo.
+P12	"Morena ha a siya lenaka la hae la selemo mona," ho bua Mama Kgutlo-tharo.
+P13	Mama Kgutlo-tharo o ne a tseba hore ba tla fumana lenaka la selemo kae.
+P14	E ne e le ka phirimana ha ba fihla ntlong ya Morena Kgutshwane le Tjhitja.
+P15	Mama Kgutlo-tharo a supa morena. "O rwele lenaka la hao la selemo hlohong ya hao."
+P16	Morena Kgutshwane le Tjhitja a neha Jojo e monyenyane lenaka la selemo hore a letse. Ba ne ba thabile.
+
+images:
+
+illustrations/pages/19917.png
+illustrations/pages/19902.png
+illustrations/pages/19903.png
+illustrations/pages/19904.png
+illustrations/pages/19905.png
+illustrations/pages/19906.png
+illustrations/pages/19907.png
+illustrations/pages/19908.png
+illustrations/pages/19909.png
+illustrations/pages/19910.png
+illustrations/pages/19911.png
+illustrations/pages/19912.png
+illustrations/pages/19913.png
+illustrations/pages/19914.png
+illustrations/pages/19915.png
+illustrations/pages/19916.png
+illustrations/pages/19917.png
+
+translations:
+
+English (Original)	Little Jojo's Long Tall Tale	id=19923
+English (Adaptation)	Little Jojo's Long Tall Tale	id=20147
+isiNdebele (Translation)	Indatjana Kajojo Ede	id=20783
+isiZulu (Translation)	Indaba Ka Jojo Omncane	id=20588
+Siswati (Translation)	Indzaba Lendze Yajojo Lomncane 	id=20778

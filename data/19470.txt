@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=19470&d=0&a=1
 id:	19470
-title:	Pig That Wouldn’T Listen
+title:	Pig That Wouldn't Listen
 author:	Zanele Mguye
 artist:	Marion Drew
 lang:	English
@@ -42,4 +42,7 @@ illustrations/pages/18317.png
 
 translations:
 
+English (Adaptation)	Disobedience!	id=20907
 isiZulu (Original)	Ingulube Eyayingafuni Ukungena Egoqweni	id=19469
+Kiswahili (Translation)	Kutotii!	id=21149
+Tigrigna (Translation)	ዘይምምእዛዝ	id=21194

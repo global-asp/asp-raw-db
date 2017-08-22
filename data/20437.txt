@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=20437&d=0&a=1
+id:	20437
+title:	Fisi, Sungura Na  Beseni
+author:	Brigid Simiyu
+artist:	Salim Kasamba
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20437.png
+desc:	Ikiwa beseni inaweza kuzaa
+
+page_text:
+
+P1	Fisi na Sungura walikuwa marafiki.
+P2	Sungura alimiliki punda na beseni ndogo nyekundu.
+P3	Sungura alimwomba Fisi beseni yake kubwa ya bluu.
+P4	Fisi alihitaji beseni yake ili afue nguo zake.
+P5	Fisi alisema, “Ninahitaji beseni yangu kubwa.”
+P6	“Beseni yako ilizaa mtoto.” Fisi alibeba beseni mbili.
+P7	Siku nyingine, Sungura aliomba tena beseni ya Fisi.
+P8	Fisi alipoendea beseni yake, alipata ujumbe mbaya.
+P9	“Beseni yako ilifariki.”  Fisi hakuweza kuamini hili.
+P10	Fisi aliwaita wanyama wakubwa waamue ukweli.
+P11	“Viumbe vinavyoishi na kuzaa, hufa,” Sungura alisema.
+P12	Wanyama walikubali. Fisi aliipoteza beseni yake.
+
+images:
+
+illustrations/pages/19188.png
+illustrations/pages/19185.png
+illustrations/pages/19186.png
+illustrations/pages/19187.png
+illustrations/pages/19188.png
+illustrations/pages/19189.png
+illustrations/pages/19190.png
+illustrations/pages/19191.png
+illustrations/pages/19192.png
+
+translations:
+
+Afaan Oromo (Translation)	Warabeesa, Illetif Gabate	id=20427
+Amharic (Translation)	ጅብ፣ ጥንቸልና ሳፋዎቻቸው	id=20481
+English (Translation)	Hyena, Hare And Their Basins	id=19194
+English (Adaptation)	Hyena, Hare And Their Basins	id=19764
+isiZulu (Translation)	Umpisi, Unogwaja Nezindishi	id=20722
+Kiswahili (Original)	Fisi, Sungura Na Karai	id=19193
+Lusoga (Translation)	Wampiti, Wakayima Ni  Benseni	id=20400
+Ng’aturkana (Translation)	Ebuu, Apoo Ka Ng'atubwae	id=20416
+Setswana (Translation)	Phiri, Mmutla Le Dijana	id=21057

@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=20496&d=0&a=1
+id:	20496
+title:	Atiakun Akiroit
+author:	Simon Ipoo
+artist:	Vusi Malindi
+lang:	Ng’aturkana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20496.png
+desc:	Abu adakar totiaku akilokony eboyor kech.
+
+page_text:
+
+P1	Ayakar kolong adakar kosi ng'ichan lukaalak. Eding'iding'ae ewokio ng'akipi alochor.
+P2	Edaruuniyo sua akimuj na eyaunit najokotau.
+P3	Agoleneo ng'awiyei jiik kotere ng'ikokolak lu apetuna.
+P4	Apotu ng'ide lukaalak toisikis akisomare esukul.
+P5	Asubete ng'ide lupesur luuchik etich ang'awiyei ang'itunga toriamuneta ng'asiling'a.
+P6	Epasaate ng'isapa alokiding adakar, etiyaate luche etich ang'amanat ang'itung'a.
+P7	Arai na ekutunia ekuwam, kilelebun ng'akalakalia lokito ka ng'alarin.
+P8	Todung'udung'osi ng'achupae na eleleba wadaang ng'itung'a.
+P9	Apei kwaar towon aperech tong'opa ng'akipi.
+P10	Abu apakang tochunak ng'itung'a daang lokiriam adakar.
+P11	Tochunakin ng'itung'a kwap ekitoe loapolon topupokis.
+P12	Tonyou ng'esi tama, "Echamitae ng'oni daang esiriama ng'atameta eng'arakinotor."
+P13	Abu Juma-lo arai ng'ikaru ng'ikankauni-kirema alokwap ekitoe tama, "Apedori ayong eng'arak alowae alo akiteseg akwap."
+P14	Tama aberu apei, "Potu ng'aberu daang eng'arakinos akitauni akimuj anamanat."
+P15	Tama eche-kile enyouni kidiama, "Tobokut ng'ikiliok akare ang'akipi."
+P16	Eremasi sua daang aetoil atamasi, "Potu elokonyo eboyor yok!" Anyoun akwar ng'ina atotiakutu sua daang asubakin eboyor kosi.
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/10609.png
+illustrations/pages/10614.png
+illustrations/pages/10611.png
+illustrations/pages/10613.png
+illustrations/pages/10615.png
+illustrations/pages/10617.png
+illustrations/pages/10612.png
+illustrations/pages/10610.png
+illustrations/pages/10618.png
+illustrations/pages/10619.png
+illustrations/pages/10620.png
+illustrations/pages/10621.png
+illustrations/pages/10623.png
+illustrations/pages/10624.png
+illustrations/pages/10625.png
+
+translations:
+
+English (Translation)	Decision	id=13304
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344

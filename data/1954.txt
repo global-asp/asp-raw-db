@@ -15,9 +15,9 @@ P1	Enjofu ndala yatiina ohunywa amaaji.
 P2	Ekooli ebiri jatiina ohunywa amaaji.
 P3	Jiri embogo edatu n'enyuni ene. Joosi jitiina ohunywa amaaji.
 P4	Namuli etaanu n'embiiji ej'omwisugu mukaaga jitiina ohunywa amaaji.
-P5	Amahere musanvu n'enyeeni munaana mu maaji.
-P6	Gwapeto mwenda jitiina ohunywa amaaji.
-P7	Epologoma ndala yajire ohunywa amaaji.
+P5	Amahere musanvu n'enyeeni munaana jali mu maaji.
+P6	Gwapeto mwenda jatiina ohunywa amaaji.
+P7	Epologoma ndala yajiiye ohunywa amaaji.
 P8	Nj'ani omusira ehihena ohweyongera ohunywa?
 
 images:
@@ -45,3 +45,4 @@ Lusoga (Translation)	Tubala Bazira	id=1955
 Sepedi (Translation)	Go Bala	id=1956
 Sesotho (Lesotho) (Translation)	Ho Bala	id=1958
 Setswana (Translation)	Go Bala	id=2807
+Talen (Translation)	Kaalog	id=20178

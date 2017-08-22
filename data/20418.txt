@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=20418&d=0&a=1
+id:	20418
+title:	Eger Lo Ang'walia Ekume Abokok
+author:	Simon Ipoo
+artist:	
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20418.png
+desc:	Nyirau iwowok akisiakin ekijiye
+
+page_text:
+
+P1	Asakete kolong Abokok ka Ekunyuk ariamun ng'aropiyae.
+P2	Tosubakis ng'iboro lukimujet, sodi yaasi agialar.
+P3	Napei adolio Abokok lodukan, toriamu ejiyo kaneni.
+P4	Arai Ekunyuk ka Nacheleru ajiyete.
+P5	"Nyiwan kare!" Kirema Abokok esaki aiun Ekunyuk.
+P6	Napei kona, tokony Nacheleru ekume Abokok.
+P7	Toriabak Abokok ekume nikapipilan!
+P8	Tong'wal ekume Abokok jik. Akopokin ng'esi lojiye!
+
+images:
+
+illustrations/pages/13136.png
+illustrations/pages/13129.png
+illustrations/pages/13130.png
+illustrations/pages/13131.png
+illustrations/pages/13132.png
+illustrations/pages/13133.png
+illustrations/pages/13134.png
+illustrations/pages/13135.png
+illustrations/pages/13136.png
+
+translations:
+
+Afaan Oromo (Translation)	Funyaan Qocaa	id=20426
+Amharic (Translation)	የኤሊ አፍንጫ ለምን ተጣመመ?	id=20480
+English (Translation)	How Tortoise's Nose Became Crooked	id=13137
+English (Adaptation)	How Tortoise Got a Crooked Nose	id=19763
+French (Translation)	Le Nez Crochu De Tortue	id=13769
+Hausa (Nigeria) (Translation)	Yadda Kunkuru Ya Samu Karkataccen Hanci	id=20518
+Hausa (Nigeria) (Translation)	Yadda Kunkuru Ya Samu Karkataccen Hanci	id=21367
+isiZulu (Translation)	Ufudu Wathola Kanjani Ikhala Elitshekile	id=20721
+Kinyarwanda (Adaptation)	Uko Akanyamasyo Kagize Izuru Ribwataraye	id=20250
+Kiswahili (Translation)	Jinsi Kobe Alipata Pua Kombo	id=20436
+Lusoga (Translation)	Wankudu Ne Ennhindo Engudule	id=20399
+Portuguese (Translation)	Foi Assim Que O Nariz Da Tartaruga Ficou Torto	id=16560
+Setswana (Translation)	Goreng Khudu A Nale Nko E E Sokameng	id=21163
+Yoruba (Original)	Bí Imú Ìjàpá Ṣe Rí Kọ́ńbó	id=13128

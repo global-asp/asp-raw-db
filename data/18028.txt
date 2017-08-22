@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=18028&d=0&a=1
 id:	18028
 title:	Motepa
-author:	Sara mohale
+author:	Motlhago Sara Mohale
 artist:	Catherine Groenewald
 lang:	Sepedi
 level:	First words
@@ -17,8 +17,8 @@ P3	"Motepa wa mma ke wo mobose kudu!" gwa bolela Zama.
 P4	Motepa o fa Zama maatla a kua sekolong.
 P5	Motepa o lokile.
 P6	Tate o tšhela maswi,  ka lerato.
-P7	"Tate,  ke nagana gore motepa wo o hloka swikiri, "Gwa bolela Zama.
-P8	"Tatso ya motepa wa mma e kaone go phala tatso ya motepa wa tate, "Gwa nagana Zama.
+P7	"Tate, ke nagana gore motepa wo o hloka swikiri."
+P8	"Tatso ya motepa wa mma e kaone go phala tatso ya motepa wa tate."
 P9	"Tate,  ke kgopela swikiri gape hle," gwa kgopela Zama.
 P10	Tate a fa Zama swikiri gape.
 P11	"Iyo! Tate! Le tšhetše letswai ka motepeng wa ka!"
@@ -60,6 +60,8 @@ Kalenjin (Translation)	Musar	id=15395
 Kimîîru (Translation)	Uchuru	id=15412
 Kiswahili (Translation)	Uji	id=15614
 Lunyole (Translation)	Obusera	id=13458
+Lusoga (Translation)	Buugi	id=21198
+Mampruli (Translation)	Koko	id=21224
 Oluwanga (Translation)	Obusera	id=19793
 Portuguese (Translation)	Papa	id=18854
 Sesotho (South Africa) (Translation)	Motoho	id=20044

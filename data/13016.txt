@@ -13,9 +13,10 @@ page_text:
 
 P1	Yaliwo khale ikwena yali inzala muno.
 P2	Yakhaaba efiokhulia kaala khandi iwolere.
-P3	POW! Ikwena ikamula shiokhulia!
-P4	Mufise fino shiili inzala ta,  na ili nende obusangafu.
-P5	Okhula lwo ilaulira inzala khandi.
+P3	Lwangu ilo.
+P4	POW! Ikwena ikamula shiokhulia!
+P5	Mufise fino shiili inzala ta,  na ili nende obusangafu.
+P6	Okhula lwo ilaulira inzala khandi.
 
 images:
 
@@ -32,6 +33,8 @@ Afrikaans (Translation)	Die Honger Krokodil	id=11063
 Arabic (Translation)	التمساح الجائع	id=18188
 English (Original)	The Hungry Crocodile	id=7043
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
 Luganda (Translation)	Ggonya Omuyala.	id=9664
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252

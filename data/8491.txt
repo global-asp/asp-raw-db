@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=8491&d=0&a=1
 id:	8491
-title:	Jaaka the Fisherman
-author:	Cornelius Gulere
+title:	Jaaka The Fisherman
+author:	Cornelius Wambi Gulere
 artist:	Zablon Alex Nguku
 lang:	English
 level:	First sentences
@@ -38,6 +38,7 @@ Afrikaans (Translation)	Jaaka Die Visserman	id=11406
 French (Translation)	Jaaka Le Pêcheur	id=12681
 isiXhosa (Translation)	Ujaaka Umlobi	id=13206
 isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Kinyarwanda (Translation)	Umurobyi Jaaka	id=21205
 Luganda (Adaptation)	Jaaka Omuvubi	id=10151
 Lusoga (Original)	Jaaka Omuvubi	id=8490
 Portuguese (Translation)	Jaaka O Pescador	id=16569

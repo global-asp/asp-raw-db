@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=20069&d=0&a=1
+id:	20069
+title:	Akili Ni Mali
+author:	Ursula Nafula
+artist:	Abraham Muzee
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20069.png
+desc:	Sokwe anasaidia Mamba ingawa Mamba ana mpango tofauti.
+
+page_text:
+
+P1	Sokwe alimkuta Mamba kando ya mto mkubwa.
+P2	Mamba alimwambia, "Nina maumivu. Tafadhali nisaidie."
+P3	Sokwe alimuuliza, "Unahitaji nini?"
+P4	Mamba akamjibu, "Usiponipatia moyo wako, sitapona."
+P5	Sokwe akasema, "Kwanza nibebe hadi upande ule wa mto."
+P6	Mamba alimbeba Sokwe mgongoni wakavuka mto.
+P7	Sokwe alisema, "Ninahitaji kisu ili nikate moyo wangu."
+P8	Wakati huo huo, upepo mkali ulianza kuvuma.
+P9	Mamba aliinuliwa juu karibu amuangushe Sokwe.
+P10	Sokwe alipoiona nchi kavu, alimwambia Mamba aharakishe.
+P11	Ghafla, Sokwe aliurukia mti.
+P12	Mamba alikasirika akasema, "Ulinidanganya! Utajuta!"
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19087.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+

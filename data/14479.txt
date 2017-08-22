@@ -1,24 +1,26 @@
 url:	http://africanstorybook.org/reader.php?id=14479&d=0&a=1
 id:	14479
-title:	Amara and the Dogs
+title:	Amara And Animals
 author:	Judy B. Maranga
-artist:	Silva Afonso, Silva Afonso and Vusi Malindi and Salim Kasamba
+artist:	Sarah Bouwer
 lang:	English
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/14479.png
-desc:	This is a story about a girl called Amara who loves her dog very much and she would do anything to protect it.
+desc:	This is a story about a girl who loves her dog so much that she would do anything to protect it.
 
 page_text:
 
-P1	Amara was nine years old, she went to Kerema primary school. Her favorite subjects were English, science and social studies. She wanted to be a lawyer when she grew up, she loved dogs very much, they were her pets.
-P2	Her mother was called Mrs Magare. She was a very hardworking farmer. Her husband Mr Magare died on a road accident and she was left a widow. Amara was five years when her dad died, her mother has managed to educate  and give her the basic needs.
-P3	When Amara was not in school she  used to spend her time with her dog cleaning and feeding it. The food she gave it mostly came from the Mwalimu hotel, she named her dog Simba.
-P4	Her mother did not like  dogs very much, but she did let Amara keep her pet. Whenever Simba disturbed her when she was in the kitchen she used to shout and say"you dog go away before i kick you', this could make Amara feel sad."
-P5	One day Amaras mother had visitors from the chamaa, it was on a weekend so Amara was home. She was happy that her mother's friends had come with their children who were her friend s at school. She was happy she had company to play with they could play football.
-P6	Her mother had prepared delicious meals like chapati, mandazi and pilau, this was the custom of Chamas. Amara was reminded by her mother  to keep the dog locked up so that it would not disturb the visitors. It used to bark to people  it did not know.
-P7	Her friends heard her mother calling  and she ran very fast to go and see why she was called, she was shockrd to see Simba was right there  looking at her, She knew after the visitors were gone her mother would punish her'Amara called out and said 'Simba please come here"and to their supprise it slowly went near her, even Mrs Magare did not know the name of the dog then slowly she took it and went to lock it upThey all laughed and liked the way Amara treated her dog. After finishing their meals they  they said to Amaras mother they were going to give their dogs better treatment because they mistreat them and the way they are so hepfull."
-P8	After the visitors left, Amara was called by her mother who apologized for being mean and cruel to her dog. Afterall all tthey were important and needed special careShe was happy that her mother accepted her dog, nowdays when shes in school she feeds Simba and her mothers friends have learned to treat their dogs better.
+P1	Amara was nine years old. She went to Kerema primary school. Her favorite subjects were English, Science and Social Studies. She wanted to be a lawyer when she grew up. Amara loved animals very much.
+P2	Amara lived with her mother, Margy. She was a very hardworking farmer. Amara's father died when she was 5 years old.
+P3	When Amara was not at school, she spent her time with Mbisa, the goat. She cleaned and fed it. 
+P4	Amara also had her pet, Simba. Her mother did not like  dogs very much, but she let Amara keep Simba. Whenever Simba disturbed her, she would shout, "Go away before I kick you out." Amara felt sad.
+P5	One Saturday, they had visitors from the women's group. Amara was happy that her mother's friends had come with their children. They could play football.
+P6	Her mother had prepared the food that the group liked. Amara was reminded by her mother to keep Simba locked up. It barked at strangers.
+P7	Amara did not lock up Simba well. The visitors were surprised to see the dog in the room. Mama Oto asked, "Why do you allow the dog to come inside the house?" Amara's mother called Amara to come and take Simba out. 
+P8	Amara did not hear her mother calling because they were busy playing.
+P9	When Amara went to the house, she called Simba out. Simba was very obedient to Amara. After the meal, the visitors said, "We'll also treat our dogs well like Amara. We mistreat them and yet they are so helpful."
+P10	Afterwards, Amara's mother apologised for being mean and cruel to  Simba. Amara was happy that her mother accepted her dog at last. When Amara is in school her mother feeds Simba. Her mother's friends have learned to be good to their dogs.
 
 images:
 
@@ -35,3 +37,6 @@ illustrations/pages/13697.png
 
 translations:
 
+Luganda (Translation)	Amara Nne’Bisolo	id=21482
+Lusoga (Translation)	Amara Nee’Bisolo	id=21256
+Runyankore (Translation)	Amara N'anenyamaishwa	id=20640

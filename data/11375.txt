@@ -36,11 +36,11 @@ illustrations/pages/5224.png
 
 translations:
 
-English (Original)	My Family and I	id=5266
+English (Original)	My Family And I	id=5266
 French (Translation)	Ma Famille Et Moi	id=9924
 French (Translation)	Ma Famille Et Moi	id=10153
 Fulfulde (Translation)	Min E Koreeji Am	id=10003
-Hausa (Translation)	Ni Da Iyalina	id=9972
+Hausa (Niger) (Translation)	Ni Da Iyalina	id=9972
 isiZulu (Translation)	Mina Nomndeni Wami	id=7461
 isiZulu (Adaptation)	Mina Nomdeni Wami	id=13596
 Kanuri (Translation)	Wu-a Yallani-A	id=10032
@@ -48,7 +48,7 @@ Kiswahili (Translation)	Mimi Na Familia Yangu	id=7871
 Luganda (Translation)	Nze N’Abenŋanda Zange	id=8295
 Lugbarati (Official) (Translation)	Má 'ɨ́ Àzɨ́nɨ Àkú Àma Vɨ́lé Rɨ̀	id=8787
 Lumasaaba (Translation)	Be Mungo  Mwase Ni Samwene.	id=8296
-Lunyole (Translation)	Amago Gange Ninange	id=8402
+Lunyole (Translation)	Amago Gange Ni Nange	id=8402
 Lusoga (Translation)	Amaka Gange Ni Nze	id=5267
 Maa (Translation)	Olmáréí Láí O Nánu	id=7872
 Ng’aturkana (Translation)	Awi Kang Ka Ayong	id=8450

@@ -17,7 +17,8 @@ P3	Ma eja asi.
 P4	Ma afa emvu alia ri osa.
 P5	Ma joale we.
 P6	Ma afajo yi oji.
-P7	 De ma adri gaa ri ni lu ini avi 'i.
+P7	Ma azi nga andekokoru `dini a`disi ya.
+P8	 De ma adri gaa ri ni lu ini avi 'i.
 
 images:
 
@@ -41,8 +42,7 @@ Luganda (Translation)	Muto Wange Munafu	id=2900
 Lugbarati (Official) (Translation)	Ma Adrigaaovuoruri	id=8796
 Lumasaaba (Translation)	Waandaaye Umukyeekhe Umutoro	id=2903
 Lunyole (Translation)	Muto Yange Omudoto	id=2904
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17471
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17472
+Lunyole (Translation)	 	id=21094
 Lusoga (Translation)	Lwaki Nkola Zenka?	id=2905
 Maa (Translation)	Olotí Aláshe Túrúáí	id=2897
 Ng’aturkana (Translation)	Lokaito Loochi Lokalany	id=2906

@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=20962&d=0&a=1
+id:	20962
+title:	Umukobwa Muto
+author:	Noel Abaho
+artist:	Padmanabha, Sarah Bouwer and Wiehan de Jager
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20962.png
+desc:	Umukobwa muto baramutumye kwa segukuru munzira agyenda abonana nibikoko mukibira.
+
+page_text:
+
+P1	Umukobwa muto yyari atumye naba byeyi be kwa segukuru we yaturaga inyuma ikibira aragyenda anezerewe nibyishimo.
+P2	Agyeze hafi yikibira abonana nihene isaze iramubwira  ngo ugyende neeza mukibira ko hari ibinyamaswa byinshi  mukibira.
+P3	Agyeje mohagati yikibira, asanga ibinyamaswa byinshi hapfi yumuhanda ariruka  atera induru.
+P4	Agyeje hanze yikibira arasanga ibinyonyi byinshi bisakuza byose. Umukobwa muto ariruka nawe atera induru asakuze, Segukuru aramwunva.
+P5	Segukuru aravuga nomugore we ngo uwo nimuzukuru wangye. Aragyenda mangu kumureba asanga arushe.
+P6	Bagyera murugobarataha munzu, arasuhuza abandi baana ararya. Barangjije kurya aravuga kubyamubayeho aza murugyendo rwe.
+P7	Arangije kuba bwira nabo bamuha ijambo ngo atazongyera kukya  mukibira bamumwira ko atazongyera gukya mukibira wenyine  arakina nabandi baana  barishima.
+P8	Nago yongyeye  gukya mukibira wenyine.
+
+images:
+
+illustrations/pages/19826.png
+illustrations/pages/19826.png
+illustrations/pages/13351.png
+illustrations/pages/10233.png
+illustrations/pages/292.png
+illustrations/pages/17295.png
+illustrations/pages/13930.png
+illustrations/pages/14062.png
+illustrations/pages/2039.png
+
+translations:
+
+Dhopadhola (Translation)	Nyako Mathini	id=20970
+English (Original)	A Little  Girl 	id=20550
+Hausa (Nigeria) (Translation)	Wata Karamar Yarinya	id=20759
+Luganda (Translation)	Omuwala Omuto	id=20946
+Runyoro (Translation)	Akaisiki Akato	id=20642

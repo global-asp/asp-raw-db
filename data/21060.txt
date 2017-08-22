@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21060&d=0&a=1
+id:	21060
+title:	Bawazzike Ba Siiru
+author:	Stellah Nakasango
+artist:	Natalie Propa
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21060.png
+desc:	Enjala yagwa nyingi era mu maka ga Mulongo nga temuli kaakulya. Baasanga olusuku olutaalina nynyini lwo. Nnyini lwo ya basasuza omuwendo oyinene.
+
+page_text:
+
+P1	Enjala yagwa nnyingi era mu maka ga Mulongo nga temuli kaakulya.
+P2	Lwali lumu, Mulongo yakulembera banne nebagenda mu kibira banoonya emmere.
+P3	Baasanga Olusuku olutaalina nnyini lwo.
+P4	Awo ezzike eddene nelibika, lya baleeka nebasigala.
+P5	Obudde bwe bwakya, wazike kwe kumugamna nti "Nfumbira mutabaniwo"
+P6	Akawungezi, wazzike kwe kumugamba nti"Enkya nsaga onfumbidde muwalawo.
+P7	Abazadde baakweka abaana baabwe mu muti.
+P8	Wazzike kwe kugamba nti"Enkya oteekwa okunfumbira balo"
+P9	Akawungezi ako, Wazike kwe kugamba omukyala yeefumbe!
+P10	Wazzike bwe yamala okulya kwe kwebaka wansi womuti natandika okufuluta.
+P11	Bwe yazuukuka, yatunula mu muti waggulu. Bonna yabalaba, kwe kunyiiga ennyo
+P12	Baalimba wazzike ne bakka wansi.
+
+images:
+
+illustrations/pages/8114.png
+illustrations/pages/8111.png
+illustrations/pages/8112.png
+illustrations/pages/8113.png
+illustrations/pages/8114.png
+illustrations/pages/8115.png
+illustrations/pages/8116.png
+illustrations/pages/8117.png
+illustrations/pages/8118.png
+illustrations/pages/8119.png
+illustrations/pages/8120.png
+illustrations/pages/8121.png
+illustrations/pages/8122.png
+
+translations:
+
+Amharic (Translation)	ጭራቆች ደደቦች ናቸው	id=21182
+English (Translation)	Mulongo and the Ogre	id=9127
+English (Adaptation)	Ogres Are Stupid	id=20886
+French (Translation)	Mulongo Et L'ogre	id=10699
+Kiswahili (Translation)	Majitu Ni Wajinga	id=21138
+Lumasaaba (Original)	Mulongo Ni Wanasilikhe	id=9126
+Lumasaaba (Adaptation)	Mulongo Ni Wanasilikhe (Revised)	id=10521
+Ng’aturkana (Translation)	Ebang’Aka Ng’Ibuin	id=21132
+Tigrigna (Translation)	ሕንጉጉ ሕማቓት እዮሞ	id=21103

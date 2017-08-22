@@ -1,0 +1,68 @@
+url:	http://africanstorybook.org/reader.php?id=20793&d=0&a=1
+id:	20793
+title:	Cona Galu Ndi Dzira
+author:	Lusaka Teachers
+artist:	Elke and René Leisink
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20793.png
+desc:	Cona ndi Galu ayenda mmudzi wao. Anapita kwa mbalame.
+
+page_text:
+
+P1	Uyu ndi Cona.
+
+Uyu ndi Cona.
+P2	Cona ndi Galu ayenda mmudzi wao.
+P3	Ndipo anaona dzira.
+
+Dzira linali m'maudzu lekha.
+P4	Cona ndi Galu anapita kwa mbalane.
+
+Nafunsa mbalame nati, "Kodi iri ndi dzira lako?"
+P5	Mbalame inati iri, Sidzira langa ai. Pitani mukafunse kadzidzi. Kapena ndi dzira lake."
+P6	Cona ndi Galu anapita kwa kadzidzi.
+
+Nafunsa nati, "Kodi iri ndi dzira lako?"
+P7	Kadzidzi anati, "Ili sidzira langa ai. Pitani mkafunse bakha la m'madzi."
+P8	Cona ndi Galu anapita kwa bakha la m'madzi, nafunsa nathi, "Kodi iri ndi dzira lako?"
+P9	Bakha la m'madzi inati, "Ili sidzira langa ti. Pitani mukafuseabakha awiri ao, kapena ndi lao."
+P10	Cona ndi Galu anapita kwa abakha nawafunsa nati, "Kodi ili ndi dzira lanu?"
+P11	Abakhaa awiri aja anakana kuti sidinali dziri lao.
+
+Dzira lija linaphwanyika "phwaa."
+P12	Ndipo mundi kabuluzi.
+P13	Mwana wabuluzi anati, "Kodi amai ndi atate anga ali kuti?"
+
+Cona ndi Galu anapereka mwana wa buluzi kwa amai ndi atate ake.
+P14	Sala bwino Cona.
+
+Sala bwino Galu.
+
+Sala bwino mwana wa buluzi.
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiTonga (Translation)	Kkiti, Mubwa A Ji	id=20770
+English (Original)	Cat and Dog and the Egg	id=20150
+SiLozi (Translation)	Kaze Nja Ni Lii	id=20924

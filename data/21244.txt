@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=21244&d=0&a=1
+id:	21244
+title:	ሠላም ፈጣሪው ህፃን
+author:	ፋሲል አሰፋ (Fasil Assefa)
+artist:	Jacob Kono
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21244.png
+desc:	በአንድ ጥቅጥቅ ባለና ሽፍታ በሚበዛበት ጫካ ዉስጥ አንዲት እናት ልጇን እዛፍ ስር አስቀምጣ ላይ ትወጣለች፡፡ አንድ ሽፍታ ልጁን ዛፍ ስር ያገኘዋል፡፡ ልጁ ምን ይገጥመው ይሆን?
+
+page_text:
+
+P1	አንዲት እናት ልጇን ታቅፋ ፍራ-ፍሬ ለመልቀም ወደ ጫካ ትገባለች፡፡
+P2	በጫካ ውስጥም ስትጓዝ የበሰለና የመሚያጔጉ ፍሬዎች የያዘ ዛፍ አገኘች፡፡
+P3	በመንገድ ላይ እንቅልፍ የወሰደውን ልጇንም ዛፍ ስር መሬት ላይ ታስተኛና ፍሬ ለማውረድ ከዛፍ ላይ ትወጣች፡፡
+P4	ከሌላ አካባቢ የመጣ አንድ ሽፍታ በአካባቢው ሲያለፍ ህፃኑን ይመለከተዋል፡፡ በጣምም ይደነቅና “እናቱ እዚህ ጥላው እንዴት ትሄዳለች?” በማለት ራሱን ይጠይቃል፡፡
+P5	ሽፍታው ዝቅ ብሎም በጉልበቱ ተንበርክኮ ልጁን ሲመለከትም አንገቱ ላይ ያነገተው ሠንሠለት ድምፅ ስለፈጠረ ድምፁ ህፃኑን ከእንቅልፉ ቀሰቀሰው፡፡
+P6	ህፃኑም ሲነቃ አንገቱ ላይ ባለው ሰንሰለት መጫወት ጀመረ፡፡ ህፃኑም በጨዋታው በጣም ተደስቶ በሳቅ ይፍለቀለቅ ጀመር፡፡
+P7	እናቱም የልጇን ሳቅ ስትሰማ በምን ሊስቅ እንደቻለ ለማወቅ ቁልቁል በዛፉ ቅርንጫፎች መካከል ስትመለከት አንድ ሰው ከልጇ አጠገብ መኖሩን ተመለከተች፡፡
+P8	በዚህ ጊዜ እናት በጣም ደነገጠች፡፡ ከድንጋጤዋ ብዛትም በእጇ ይዛው የነበረው ፍራፍሬ የሞላ ከረጢት ከእጇ አምልጦ ወደቀ፡፡
+P9	በዚህ ጊዜ ሽፍታው ሰውዬም ወደ ዛፉ ቀና ብሎ ሲመለከት እናትየው በፍርሀት ስትንቀጠቀጥ አያተት፡፡ ከዛም "እባክሽ አትፍሪ እኔ ከልጅሽ ጋር እየተጫወትኩ ነው እንጂ ምንም ጉዳት አላደረስኩበትም" በማለት እንድትረጋጋ ጠየቃት፡፡
+P10	ከዛም እናትየው ቀስ ብላ ከዛፉ ወረደች፡፡
+P11	ሽፍታውም አንገቱ ላይ ካደረገው የሰንሰለት ጌጥ ውስጥ አንዱን ሰንሰለት በማውጣት “ይኸውልህ አንተ ቆንጆ ልጅ ይህ ጌጥ መጫወቻ ይሁንህ” በማለት ለህፃኑ ስጦታ ሠጠው፡፡
+P12	ሽፍታው ቀጠል አድርጎም “ልጅሽን ይዘሽ ወደ ቤትሽ መሄድ ትችያለሽ፡፡ ለባለቤትሽ ደግሞ ይሄ አካባቢ አደገኛ ሽፍታዎች የበዙበት ቦታ ስለሆነ ሌላ ሠላም ያለበት መኖሪያ አካባቢ እንዲወስድሽና በዚያ እንድትኖሩ ንገሪው” በማለት ተሰናብቷቸው ሄደ፡፡
+
+images:
+
+illustrations/pages/14590.png
+illustrations/pages/14580.png
+illustrations/pages/14581.png
+illustrations/pages/14582.png
+illustrations/pages/14583.png
+illustrations/pages/14584.png
+illustrations/pages/14585.png
+illustrations/pages/14586.png
+illustrations/pages/14587.png
+illustrations/pages/14588.png
+illustrations/pages/14589.png
+illustrations/pages/14590.png
+illustrations/pages/14591.png
+
+translations:
+
+English (Translation)	Child As a Peacemaker	id=14617
+Kiswahili (Translation)	Mtoto Aliyeleta Amani	id=15861
+Maa (Translation)	Enkerai Nayaua Eseriani	id=15401
+Maa (Translation)	Enkerai Nayawua Eseriani	id=15525
+Ng’aturkana (Original)	Ikoku Nikesisilan	id=14614

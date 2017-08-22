@@ -18,16 +18,17 @@ P4	Ngaqala ukukhala ngilangazele ukumlandela kodwa ubaba wangiphakamisela phezuk
 P5	Ubaba wathi,  "Umama uya esibhedlela ukuyothola umntwana."
 P6	Laphongizwa "umntwana" Ngayeka ukukhala ngambuka. "Kungani yena ayothola ingane esibhedlela?" ngimbuza.
 P7	Ubaba wangihlalisa esihlalweni esincane wathi,  "ngizokutshela ukuthi kungani eyothola umntwana esibhedlela."
-P8	Ubaba wangizisa duzane,  wathi,  "Sizohlala sikuthanda."
-P9	"Ngingambalela incwadi uma ele?" Ngabuza Ubaba.
-P10	Ngalobobusuku, ngaqala ukubhalela umama incwadi.
-P11	Ngaklebhule iphepha encwadini yami yomsebenzi ngaqala ukubhala.
-P12	"Mama,  umama,  ubaba uthi uye ukuyothola umntwana omuny."
-P13	Sicela usheshe ubuye ekhaya.
-P14	 Ngifuna ukuthi ulethe intombazanyana,  ngizokhona ukudlala nayo uma iseKhulile.
-P15	 Ungakwazi uzakungenisa ezimbili ukuze umuntu abe ngawami.
-P16	 Ngikulindile lapha ngaphandle kwendlu yethu.
-P17	Ngigoqe incwadi yami ukuze ngikwazi ukuyinika ubaba ukuthi ukuletha yona Mama. Uma ngivuka ekuseni obulandelayo, incwadi wayesehambile.
+P8	Ngamlalela engichazela nangaloko ngingazisiswanga ukuthi kungani engatholi lomntwana ekhaya. Uma eceda ukungichazela,  Ngambuza,  "Uzongithanda na uma nomntwana omunye."
+P9	Ubaba wangizisa duzane,  wathi,  "Sizohlala sikuthanda."
+P10	"Ngingambalela incwadi uma ele?" Ngabuza Ubaba.
+P11	Ngalobobusuku, ngaqala ukubhalela umama incwadi.
+P12	Ngaklebhule iphepha encwadini yami yomsebenzi ngaqala ukubhala.
+P13	"Mama,  umama,  ubaba uthi uye ukuyothola umntwana omuny."
+P14	Sicela usheshe ubuye ekhaya.
+P15	 Ngifuna ukuthi ulethe intombazanyana,  ngizokhona ukudlala nayo uma iseKhulile.
+P16	 Ungakwazi uzakungenisa ezimbili ukuze umuntu abe ngawami.
+P17	 Ngikulindile lapha ngaphandle kwendlu yethu.
+P18	Ngigoqe incwadi yami ukuze ngikwazi ukuyinika ubaba ukuthi ukuletha yona Mama. Uma ngivuka ekuseni obulandelayo, incwadi wayesehambile.
 
 images:
 
@@ -55,5 +56,10 @@ translations:
 Afrikaans (Translation)	'n Briefie Vir Mamma	id=11343
 Afrikaans (Translation)	Brief Aan Ma	id=11350
 English (Original)	Letter to Mum	id=2134
+English (Adaptation)	Waiting For Baby 	id=21452
+isiNdebele (Translation)	Silindele Umntwana	id=21463
+isiZulu (Translation)	Silindele Usana Lwethu	id=21464
 Kiswahili (Translation)	Barua Kwa Mama	id=2526
 Naro (Translation)	Tcgãyas Áís Koe Ko Síí Sa	id=16457
+Sesotho (South Africa) (Translation)	Ho Lebelletswe Lesea	id=21467
+Siswati (Translation)	Kulindza Umntfwana	id=21465

@@ -1,0 +1,74 @@
+url:	http://africanstorybook.org/reader.php?id=21164&d=0&a=1
+id:	21164
+title:	እንስሳቱ እግር ተሰጣቸው
+author:	Mezemir Girma
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21164.png
+desc:	ሁሉም እንስሳት እንደሰዎች ሁሉ በእግራቸው በመሄድ እንዲደሰቱ ማስረሻ እግር ሊሰጣቸው ወሰነ፡፡
+
+page_text:
+
+P1	ከረጅም ጊዜ በፊት እንስሳት እግር አልነበራቸውም፡፡
+P2	ማስረሻ እግር የሰጠው ለሰዎች ብቻ ነበር፡፡
+P3	ማስረሻ ለሁሉም እንስሳት እግር ሊሰጣቸው ወሰነ፡፡
+P4	እንስሳቱ ለመራመጃና ለመሮጫ እግር ያስፈልጋቸው ነበር፡፡
+P5	መንፏቀቅ ይቸግራቸው ነበር፡፡
+P6	ቀኑ ሲደርስ የተለያዩ እንስሳት ወደ ማስረሻ ቤት እየተንፏቀቁ ሄዱ፡፡
+P7	ማስረሻም ለእንስሳትና ለወፎች እግር ሰጣቸው፡፡
+P8	የተወሰኑ እንስሳት ሲጨፍሩ፤ ሌሎቹ ደግሞ ወደቁ፡፡
+P9	‹‹ከእንግዲህ አንንፏቀቅም›› አሉ፡፡
+P10	ሃምሳ እግር የተሰለፈው ከመጨረሻ ነበር፡፡
+P11	ማስረሻ የቀሩትን እግሮች ሁሉ ለሃምሳ እግር ሰጠው፡፡
+P12	ሃምሳ እግርም በደስታ ‹‹ከሌሎቹ ፈጥኜ መሄድ እችላለሁ›› አለ፡፡
+P13	ከሃምሳ እግር በኋላም እባብ ‹‹ለኔም እግር ስጠኝ›› በማለት እየለመነ መጣ፡፡
+P14	እባብ ለማስረሻ ‹‹እንቅልፍ ጥሎኝ እኮ ነው›› አለው፡፡
+P15	ማስረሻ ለእባብ ምንም እግር ሊያገኝለት አልቻለም፡፡
+P16	ከዚያን ቀን ጀምሮ እባብ እግር እንዲሰጠው ይጠባበቃል፡፡
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+Afrikaans (Translation)	Maguru Deel Bene Uit	id=20083
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+English (Original)	Maguru Gives Legs	id=14415
+English (Adaptation)	Animals Get Legs	id=20884
+Hausa (Nigeria) (Translation)	Dabbobi Sun Samu Kafafu	id=21315
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+isiXhosa (Translation)	Umaguru Uphisa Ngemilenze	id=17576
+isiZulu (Translation)	Umaguru Uphisana Ngemilenze	id=16360
+isiZulu (Adaptation)	Umveli Unikela Ngemilenze	id=17461
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Kiswahili (Translation)	Maguru Apatiana Miguu	id=14412
+Kiswahili (Translation)	Wanyama Wapata Miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
+Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru O Fana Ka Maoto	id=20037
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Tshivenda (Translation)	Maguru U Ṋekedza Milenzhe	id=18285
+Xitsonga (Translation)	Maguru A Phakela Milenge	id=18870

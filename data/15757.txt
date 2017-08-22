@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=15757&d=0&a=1
 id:	15757
 title:	Otoyo Jaworo
 author:	Owino Ogot and Athieno Gertrude
-artist:	Alex Zablon
+artist:	Zablon Alex Nguku
 lang:	Dhopadhola
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
@@ -42,7 +42,7 @@ illustrations/pages/9140.png
 
 translations:
 
-Akuapem Twi (Translation)	Kiundu Difudepɛfo No	id=18459
+0 (Translation)	Kiundu Difudepɛfo No	id=18459
 Amharic (Translation)	ገብጋባው ክንዴ	id=12003
 Asante Twi (Translation)	Adifudepɛfoɔ Kiundu	id=18279
 Dagaare (Translation)	Kiundu, Bundi-Gbogbo Soba	id=17771
@@ -62,3 +62,4 @@ Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
 Portuguese (Translation)	Kiundu Guloso	id=16439
 Sesotho (Lesotho) (Translation)	Ntate Meharo O Meharo	id=10626
 Setswana (Translation)	Megagaru Ya Ga Abele	id=14961
+Talen (Translation)	Poraong Kiundu	id=20362

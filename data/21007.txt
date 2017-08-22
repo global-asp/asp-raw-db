@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=21007&d=0&a=1
+id:	21007
+title:	Mu Koyi Hausa
+author:	Haruna Abbas
+artist:	Wiehan de Jager, Karen Lilje, Catherine Groenewald, Katrien Coetzer and Marleen Visser
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21007.png
+desc:	A book with simple words and pictures. Littafi mai dauke da saukakan kalmomi da hotuna.
+
+page_text:
+
+P1	Yarinya tana tafiya
+P2	Tsuntsu yana tashi
+P3	Kare yana haushi
+P4	Mage tana cikin daki
+
+images:
+
+illustrations/pages/8072.png
+illustrations/pages/9567.png
+illustrations/pages/9223.png
+illustrations/pages/5926.png
+illustrations/pages/8866.png
+
+translations:
+
+Afaan Oromo (Translation)	Kitaaba Suraa	id=17466
+Anywak (Translation)	Buuk Mar Ngiiye	id=18155
+Arabic (Translation)	قصتي المصورة	id=18189
+English (Original)	My Picture Book	id=9737
+English (Adaptation)	My Picture Book	id=10117
+Hyam (Northern Nigeria) (Translation)	Kyaam Hyam Ma̱ (Learn Hyam Language)	id=20506
+Lugbarati (Translation)	Buku Mavile Eda Ni Ri	id=9757

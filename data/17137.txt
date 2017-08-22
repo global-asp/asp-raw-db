@@ -12,6 +12,10 @@ desc:	About a jackal who helps a helpful boy.
 page_text:
 
 P1	 One day Jackal felt sick. He tried drinking water,  but that made his stomach swollen. He tried eating grass but still his stomach hurt.
+P2	Jackal decided that only the medicine of man would help him so he dragged himself off to the clinic in the town. "Auwwwh" said the nurse when she saw the bedraggled jackal,  "this place is for sick people,  not animals. Go away!"
+P3	Now Jackal was a clever animal,  so sick as he was,  he made a plan. He asked a boy called Ernst who was sitting outside the clinic,  to help him by fetching the medicine from the nurse. "If you do this for me,  I will give you a fat,  fresh bird for you cooking pot,  everyday." Ernst was hungry and anyway,  he felt sorry for the sick jackal,  with his drooping whiskers and his tail hanging like a rag,  so he went in and got the medicine and gave it to the jackal.
+P4	Jackal licked up all the medicine at once and immediately his ears stood up and his tail lifted. The next moment he was off,  trotting away over the veld without even looking back at Ernst. "Hey," the boy shouted,  "what about my fat bird?" But the jackal just ran away faster. That night the boy and his parents slept with hunger.
+P5	When they woke the next morning they found a fat sandgrouse on their doorstep. And the next day too,  and for every day until the boy grew up.  Ernst never saw the jackal again,  but he became an animal doctor and kept a picture of a jackal on his wall.
 
 images:
 
@@ -21,3 +25,4 @@ illustrations/pages/1776.png
 translations:
 
 English (Adaptation)	Ernst and the Jackal	id=17484
+German (Translation)	Ernst Und Der Schakal	id=20170

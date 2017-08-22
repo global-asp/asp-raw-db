@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=17567&d=0&a=1
 id:	17567
-title:	Monkey and Crocodile - Colouring Book
+title:	Monkey And Crocodile - Colouring Book
 author:	Ingrid Schechter
 artist:	Amir Bachir António Necas
 lang:	English
@@ -38,7 +38,7 @@ illustrations/pages/17377.png
 
 translations:
 
-English (Original)	Monkey and Crocodile	id=10249
+English (Original)	Monkey And Crocodile	id=10249
 isiXhosa (Translation)	Inkawu No Xam	id=15936
 isiXhosa (Adaptation)	Inkawu No Xam (Faka Imibala)	id=17371
 Portuguese (Adaptation)	O Macaco E O Crocodilo	id=10681

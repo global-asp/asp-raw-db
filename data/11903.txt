@@ -16,9 +16,11 @@ P2	Abaana bano abiri Nakintu ne Musoke,  emisana bayagala nga nny'okuzanya nga t
 P3	Olumu omwana yali akaaba nga bulijjo,  nga bamulese wansi w'omutti mu kisiikirize bbo ne bagenda okuzanya. Ngaali ne zijja nga zibukira wagulu w'ekisaawe mwe b'azanyira nga. Ngaali z'ayagala nga nnyo abaana abato. Ne zinyolwa nnyo kubanga omwana yali akaaba. Ne zireekanira wagulu nga zigezaako okulabula abaana abazannya nti omwana yali akaaba,  naye ne batawulira kubanga b'ali bazanya. Awo Ngaali ne zisalawo okutwaala omwana zo zimw'ekulize.
 P4	Ngaali nnya zakka wansi okunona omwana eyali wansi w'omutti ng'akaaba. Buli Nyange n'ekwatta ensonda ya bulanggiti omwana kwe yali y'ebasse,  nezibuuka waggulu era nezigenda. Abaana tebamanya kigenze mumaso kubanga bali bazannya. Abazadde b'abaana b'ali mu nimiro nga bakola mu musana omungi.
 P5	Omusana gw'ali gw'aka nnyo maama n'asalaw'okuwumulirako mu kasikirize k'omutti; naye bwe yali akya wumudde ko n'awulira omwana we nga akaaba. N'atunula tunula nga talina ky'alaba. N'atunula waggulu n'alabba Ngaali nnya nga zirina omwana we mubanga. Bwe y'etegreza n'alaba bulanggiti y'omwana we,  n'amanya nti ddala oyo yali mwana we. N'aleekana nga bw'azigoba ngaali. Omwami teyamanya ky'ali kigenda mumasso,  n'ayita mukyala we akomewo bakole.
-P6	Abantu abataalina nga baana basaba nga ngaali okubafunira abaana. Ngaali z'ateesa okukuuma omwana okutuusa omuntu bw'alijja nga ayagala omwana. Nga bamugabira oyo yenna anasobola okumulabirira obulungi. Bamuliisa era ney'ebaka. Ngaali ne zibuuka okugenda okunonya emmere. Omwana y'ebakira akaseera kaawanvu nga tazuukuka. Omwana bwe yazuukuka,  n'atalaba wo muntu yenna,  n'atandika okukaaba kubanga yali muyala.
-P7	Ekikere ne kiwulira omwana ng'akaaba. Ne kisembela ne kiraba omwana ng'azingidwa mu bulanggiti. Ekikere ne kinnyolwa nnyo. Ekikere teky'ayagala nga nnyo ngaali kubanga ky'abirowooleza okuba ebibbi,  ebya ba nga abaana. Ekikere ne kisalawo okumukweka. Amangu ago ne kiwulira amaloboozi g'ngaali. Tewali kaseera ka kukweeka mwana,  era nekisalawo okumumira. Bwekityo ne ky'ekweeka emabega w'olwazzi olunene.
-P8	Ko ekikere nti,  "Munfunire enswera ssatu nzirye ndyoke mbawe omwana wa mwe." Ne bakwata enswera ssatu ne baziwa ekikere. Awo ekikere ne kitandika okwegoga era omwana n'abuuka yo mukamwa. Buli omu n'abuuka nga bwe bazina musanyu. N'ekikere ne kyegatako mu kusanyukira amwana.
+P6	Omukyala n'agezaako okumunnyonnyola naye nga ye omwami takikkiriza. Ebinnyonyi ne bibuuka ne bibulawo n'omwana. Ngaali ne zikweka omwana wakati mu mmuli. Ne ziteesa okumukuuma n'okumulabirira.
+P7	Abantu abataalina nga baana basaba nga ngaali okubafunira abaana. Ngaali z'ateesa okukuuma omwana okutuusa omuntu bw'alijja nga ayagala omwana. Nga bamugabira oyo yenna anasobola okumulabirira obulungi. Bamuliisa era ney'ebaka. Ngaali ne zibuuka okugenda okunonya emmere. Omwana y'ebakira akaseera kaawanvu nga tazuukuka. Omwana bwe yazuukuka,  n'atalaba wo muntu yenna,  n'atandika okukaaba kubanga yali muyala.
+P8	Ekikere ne kiwulira omwana ng'akaaba. Ne kisembela ne kiraba omwana ng'azingidwa mu bulanggiti. Ekikere ne kinnyolwa nnyo. Ekikere teky'ayagala nga nnyo ngaali kubanga ky'abirowooleza okuba ebibbi,  ebya ba nga abaana. Ekikere ne kisalawo okumukweka. Amangu ago ne kiwulira amaloboozi g'ngaali. Tewali kaseera ka kukweeka mwana,  era nekisalawo okumumira. Bwekityo ne ky'ekweeka emabega w'olwazzi olunene.
+P9	Ngaali bwe zaatuuka te zasangawo mwana. Ne zirowooza nti abalenzi bandiba nga b'atute omwana. Ekikere neky'ekweka mu lwazi okutuusa ngaali bwe z'agenda. Awo nekitandika okukongoja okutuuka mu maka g'abazadde b'omwana. Akawungeezi ako nga bonna ab'omujju bali mu kunnyolwa,  abamu nga bakaaba olw'okubula kw'omwana,  amangu ago ekikere ekinene ne nekijja ngakibuuka. Ne baagala okukikuba naye ne kitandiika okwogera. Ne kibagamba omwana gwe ky'ali kimize. Ne batandika okukyegayirira okubadiza omwana w'abwe.
+P10	Ko ekikere nti,  "Munfunire enswera ssatu nzirye ndyoke mbawe omwana wa mwe." Ne bakwata enswera ssatu ne baziwa ekikere. Awo ekikere ne kitandika okwegoga era omwana n'abuuka yo mukamwa. Buli omu n'abuuka nga bwe bazina musanyu. N'ekikere ne kyegatako mu kusanyukira amwana.
 
 images:
 
@@ -35,6 +37,10 @@ illustrations/pages/8486.png
 translations:
 
 English (Original)	Baby Snatched By Cranes	id=8487
+English (Adaptation)	Baby And Cranes	id=20910
 French (Translation)	Un Bébé Enlevé Par Des Grues	id=10144
 isiZulu (Translation)	Ingane Wahlwitha Ngi Indwa	id=11441
-Sesotho (Lesotho) (Translation)	Ngoana Ea Ileng a Utsua Ke ‘Mamokoatatsie	id=10373
+Kiswahili (Translation)	Mtoto Na Korongo	id=21150
+Lámnsoʼ (Translation)	Wán Wo Vintùŋàshàʼshàʼ Vi Boŋrin 	id=21041
+Sesotho (Lesotho) (Adaptation)	Ngoana Ea Ileng A Utsua Ke Mamokoatatsie	id=21158
+Tigrigna (Translation)	ህፃንን ዑፍን	id=21170

@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=18029&d=0&a=1
 id:	18029
 title:	Morutiši Akinyi
-author:	Sara mohale
+author:	Motlhago Sara Mohale
 artist:	Vusi Malindi
 lang:	Sepedi
 level:	First sentences
@@ -15,12 +15,14 @@ P1	Yo ke morutiši wa ka. Leina la gagwe ke Morutiši Akinyi. O nthata kudu.
 P2	Morutiši Akinyi o re ruta ditlhaka le medumo ya mantšu. Ke kgona go bolela ditlhaka tše a,  e,  i,  o,  u.
 P3	Morutiši Akinyi o re rutile mebala,  hubedu,  talalerata,  talamorogo,  serolwana le boso.
 P4	Ge e le nako ya go robala,  morutiši Akinyi o re opelela dikoša go bitša boroko. O re opelela kopelo ya go robatša.
-P5	Ka Mošupologo,  o re botša kanegelo ka ga digaka tša banna.
-P6	Ka Labobedi,  o re botša kanegelo ka ga digaka tša basadi.
-P7	Ka Laboraro,  o re botša ka dinamelwa tša go fapana.
-P8	Ka Labone,  o re botša ka tša temo.
-P9	Gomme ka Labohlano,  Morutiši Akinyi o re fa sebaka gore re anege dikanegelo tša rena ka phapošing.
-P10	Morutiši wa rena ke yo hlwahlwa lefaseng ka bophara! Ge ke gola ke rata go ba bjalo ka Morutiši Akinyi.
+P5	Koša yeo e re: A ntutulele,  ngwana robala Bomma ba ile kae Ba ile mašemong.
+P6	Morutiši Akinyi o tseba dikanegelo tše dintši. Tšatši le lengwe le le lengwe la beke o re botša kanegelo ye mpsha.
+P7	Ka Mošupologo,  o re botša kanegelo ka ga digaka tša banna.
+P8	Ka Labobedi,  o re botša kanegelo ka ga digaka tša basadi.
+P9	Ka Laboraro,  o re botša ka dinamelwa tša go fapana.
+P10	Ka Labone,  o re botša ka tša temo.
+P11	Gomme ka Labohlano,  Morutiši Akinyi o re fa sebaka gore re anege dikanegelo tša rena ka phapošing.
+P12	Morutiši wa rena ke yo hlwahlwa lefaseng ka bophara! Ge ke gola ke rata go ba bjalo ka Morutiši Akinyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -55,10 +58,12 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

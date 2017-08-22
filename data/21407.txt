@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21407&d=0&a=1
+id:	21407
+title:	Ngabe Ukhona Yini Ofana Nami?
+author:	Robert Mchunu
+artist:	Jess Jardim-Wedepohl
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21407.png
+desc:	Ngihlale ngimangala ukuthi ngabe ukhona yini omunye umuntu oyimina kwenye nje indawo emhlabeni.
+
+page_text:
+
+P1	Ngihlale ngimangala ukuthi ngabe ukhona yini omunye umuntu oyimina kwenye nje indawo emhlabeni.
+P2	Ofana nami.
+P3	Futhi okhuluma njengami.
+P4	Futhi onoboya obuphothekile njengami.
+P5	Umuntu onamehlo namadlebe afana nawami.
+P6	Umuntu oze ahleke njengami.
+P7	Umuntu ongenza lokho name engingakwenza …
+P8	… umuntu ongeke akwenze lokho nami engingeke ngikwenze.
+P9	Ngibhekile ngaphinda ngabheka yonke indawo ukuze ngithole omunye umuntu oyimina.
+
+Ngehlile ngaqonda ezansi epaki ngabheka nangemuva kwezihlahla.
+P10	Ngabheka eceleni, phansi naphezulu …
+P11	… ngibuka ubuso nobuso engibubonayo.
+P12	Kodwa angikwazanga ukuthola omunye umuntu oyimina ngisho nakweyodwa enye indawo.
+P13	Kusho ukuthi munye kuphela umuntu oyimina emhlabeni!
+
+Ngikhethekile, futhi lokho kuliqiniso elikhulu!
+P14	Kodwa-ke akusimina kuphela nje, usho ukuthi ngabe wena kawuboni? 
+
+Nawe munye kuphela umuntu onguwena!
+
+images:
+
+illustrations/pages/15344.png
+illustrations/pages/15343.png
+illustrations/pages/15344.png
+illustrations/pages/15345.png
+illustrations/pages/15346.png
+illustrations/pages/15347.png
+illustrations/pages/15348.png
+illustrations/pages/15349.png
+illustrations/pages/15361.png
+illustrations/pages/15352.png
+illustrations/pages/15355.png
+illustrations/pages/15356.png
+illustrations/pages/15358.png
+illustrations/pages/15359.png
+illustrations/pages/15360.png
+
+translations:
+
+Afrikaans (Translation)	Is Daar Nog Iemand Soos Ek?	id=21468
+Dholuo (Translation)	Be Nitie Ng'at Machal Koda?	id=15406
+English (Original)	Is There Anyone Like Me?	id=15363
+isiXhosa (Translation)	Ingaba Ukhona Omnye Ofana Nam?	id=19900

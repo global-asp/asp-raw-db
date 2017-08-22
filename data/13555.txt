@@ -11,11 +11,11 @@ desc:	Ehitono nehibbala.
 
 page_text:
 
-P1	Ekofira etono,  ekofira embala.
+P1	Ekufira etono,  ekofura embala.
 P2	Emihono emitono,  emihono emibbala.
 P3	Embusi etono,  embusi embala.
-P4	Ehitabo ehitono,  ehitabo ehibala.
-P5	Ahamweyu ahatono,  ahamwenyu ahabba.
+P4	Ehitabo ehitono,  ehitabo ehibbala.
+P5	Ahamwenyu ahatono,  ahamwenyu ahabba.
 P6	Hahomire aŋo.
 
 images:
@@ -42,5 +42,4 @@ Maa (Translation)	Enkití Ó Esápuk	id=3090
 Ng’aturkana (Translation)	Niichi Ka Niapolon	id=3091
 Oluwanga (Translation)	Akhatiiti Nende Okukhoongo	id=3092
 Somali (Translation)	Waxyar Iyo Waxweeyn	id=17259
-Tunisian (Translation)	Ṡɍìr W Kbìr	id=15278
 Zande (Translation)	Umba Na Bakere	id=16762

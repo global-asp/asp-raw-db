@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=21261&d=0&a=1
+id:	21261
+title:	Musana, Mwezi, Maadhi Ni Mpewo
+author:	Titus Ndhokero
+artist:	Children of Paleng
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21261.png
+desc:	Musana
+
+page_text:
+
+P1	Eira, eira eno omusana, omweszi, enkuba ne empewo
+  balibalikulwana.
+P2	Ekizibu kyali nti omusana gwa yenda okumasamasa olunaku lwonalwona.omwezi gwa yenda okumasasa eightala lye buli lunaku.enkuba ya yenda okutona buli lunaku, ate empewo ya yenda kufuuwa buli lunaku. bali nga tibenda kwewa kiseera.
+P3	Basalawo okutyama waalala bakyogeleku. Omusana gwa buuza omwezi, okolaki eki yamba ennsi?’ omwezi gwa ighlamu, m masa masa obwire bwona bwona ebisollo bisobolle okuyiga.
+P4	Omwezi gwa buuza enkuba,’okolakyi eki yamba ennsi?’ Maadhi yairamu, nhwa ensi amaadhi emiti ne ebisimbe bisobole okukula bulungi. Nhwaa amaadhi ebisolo binhwe.
+P5	Enkuba ya buuza empewo, ’okolakyi eki yamba ennsi?’ Empewo  yairamu, nyella ensi okufuuka enhondo. Mmasamasa enkuba ku nsi yona yona.
+P6	Empewo yabuuza omusana, "okola kyi ekiyamba ennsi? Omusana   gwairamu,’ Nhwaa ensi ekighatanga ne ekisuusu, ebisolo ne ebisembe be bewo.
+P7	Musana, Mwezi, Maadhi ni Mpewo beewuuliliza bulungi.
+P8	Omusana gwa koba, ’chillikitufu nti buli muntu kwife ayamba ennsi mu ngeri ya ife eyendaghulo. ’Nicho, omwezi gwa koba, ‘timuntumulala kwife asinga abandhi.’ ‘tosobola okukola walala,’enkuba yakoba, ’togabanye enaku.’ Ba salawo.
+P9	Kyova olusi oboghna omwezi nga omusana guli kwaka. Ate olusi owulila empewo nga enkuba eli kutona. Omusana,omwezi,enkuba ne empewo bikolabulungi walala byetegera.
+P10	Oyenda omusana, omwezi,enkuba oba empewo? Kuba kyosinga okwenda.
+P11	Twenda ensi tusobole okubawo. Atuwa emere ne ekisikirize,  ne ebisembe. Byona byona bituyamba mu ngeri. Mu kwiliza tokola boli ketusobola oku yamba ensi yaife. Oja kolaki okuyamba ensi ya ife? Kiwandike wansi.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+Lusoga (Translation)	Omusana, Omwezi, Amaadhi Ne Empewo	id=21383
+Sesotho (Lesotho) (Original)	Letsatsi, Khoeli, Pula Le Moea	id=16109

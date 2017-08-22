@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=20163&d=0&a=1
+id:	20163
+title:	Wabgu Ni Gumakyuwa
+author:	R.Y. Tongo and J. Salifu  (OLE Ghana)
+artist:	Wiehan de Jager
+lang:	Mampruli
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20163.png
+desc:	Naaba n daa zali u zali kpeeni
+
+page_text:
+
+P1	N Solini n-beni ka beni ka na-yiri titaari daa beni, ka naaba mari u bipunbli veeli, nabi-puunŋa.
+P2	Wabugu daa bela yiri sha-a kan tabi nayiri maa. Gumachuu gba daa bela nayiri maa ya-ari.
+P3	Sahawa, didaa niŋ ya ka wari-ya-ariga daa lu tinŋ gbani maa ni.
+
+Tinŋnaa maa daa teesila teesi sha-a. Ka booli u zizili taaba babayi nayi-rimaa ni.
+P4	Naamaa daa yali wabugu ni gumachuwa, "N-bola ya zan-ŋ ya-gbaya n-tabi tinŋa hali ka koom ti yina."
+
+Naa maa lɔ alikawuli ni nirugusoa ŋɔn nyaŋ lala u ni zanŋ u bipunbli veeli wa n-ti lala doomaa.
+P5	Gumachuwa daa ka tama dama u marila niŋ gbumbla. Wa bugu sufu daa maya pam dama u nyala bunkob-titaari ka naa mari yaa pam. Wabugu daa chanŋ yoomi n-tipiili n-tabri tinŋa.
+P6	Tankpoo pam daa yini ka koom kani. Wabugu daa tabi tingbani hali ka di ti wumu pam. U ti guma chuu soori ni u gba ma-asi.
+P7	Gumachuwa daa de-i wabugu n-piili n-tabri tinŋa. Di daa buyuyi ka koom piili yibu. Niriba nini daabutigi ni di nyala yalimaŋni.
+P8	Dizugu naa maa daa zanŋ u bipumbli veeli maa n-tila gumachuwa. Ka wabugu daa ja suuri n-kuli.
+
+images:
+
+illustrations/pages/9461.png
+illustrations/pages/9457.png
+illustrations/pages/9458.png
+illustrations/pages/9459.png
+illustrations/pages/9460.png
+illustrations/pages/9461.png
+illustrations/pages/9462.png
+illustrations/pages/9463.png
+illustrations/pages/9464.png
+
+translations:
+
+Dhopadhola (Translation)	Lyec Gi Ŋokino	id=15736
+English (Original)	Elephant and Chameleon	id=10455
+Kiswahili (Translation)	Ndovu Na Kinyonga	id=15616
+Portuguese (Translation)	O Elefante E O Camaleão	id=16414
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=10456
+Rutooro (Translation)	Enjojo N’E Nyapimpina	id=11901
+Talen (Translation)	Wɔbug Ne Gomatiog	id=20188
+Yoruba (Translation)	Eerin Àti Ọ̀gà	id=16556

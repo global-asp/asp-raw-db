@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=21446&d=0&a=1
+id:	21446
+title:	Bad King
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Marleen Visser
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21446.png
+desc:	Now you know why goats refuse to be pulled!
+
+page_text:
+
+P1	Goat was king of animals and birds. 
+
+He called a meeting.
+P2	Goat told them that he had a dream. 
+
+They all listened.
+P3	The dream was about hunger. 
+
+“What shall we do?” asked Cat.
+P4	Hen and Duck said, “Let’s keep food in the king’s store.”
+P5	King Goat said, “Tie up anyone who does not obey.”
+P6	It was time to choose a new king. 
+
+They chose Cat.
+P7	Goat did not want Cat as king. “I am the king.”
+P8	Goat did not take food. 
+
+Cow asked, “What shall we do?”
+P9	The animals and birds talked together. 
+
+They were angry with Goat.
+P10	Dog said, “I was always with him when he was king.”
+P11	Sheep said, “I gave his children my beautiful wool.”
+P12	Pig cried, “When he was king, I looked after his garden.”
+P13	“Did Goat think he will be king forever?” Sheep
+  asked.
+P14	The animals agreed that Goat must take food to king Cat.
+P15	The animals found Goat. Goat said, “I will always be king.”
+P16	“We will tie you and take you to the new king.”
+P17	Cow pulled Goat to the king’s court. 
+
+Others cheered.
+P18	That’s why goats refuse to move when they are pulled.
+
+images:
+
+illustrations/pages/13362.png
+illustrations/pages/13351.png
+illustrations/pages/13350.png
+illustrations/pages/13352.png
+illustrations/pages/13353.png
+illustrations/pages/13362.png
+illustrations/pages/13354.png
+illustrations/pages/13363.png
+illustrations/pages/13355.png
+illustrations/pages/13357.png
+illustrations/pages/13356.png
+illustrations/pages/13358.png
+illustrations/pages/13359.png
+illustrations/pages/13360.png
+illustrations/pages/13361.png
+illustrations/pages/13364.png
+illustrations/pages/13365.png
+illustrations/pages/13366.png
+illustrations/pages/13367.png
+
+translations:
+
+English (Translation)	Goat, The False King	id=13541
+French (Translation)	Le Faux Roi Bouc	id=14526
+isiZulu (Translation)	Imbuzi, Inkosi Eyayingenalo Iqiniso	id=16090
+Lusoga (Original)	Wambuzi Isabazinga Omufere	id=13540
+Portuguese (Translation)	Bode, O Rei Falso	id=16652

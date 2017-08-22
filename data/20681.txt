@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=20681&d=0&a=1
+id:	20681
+title:	Yimuphi  Umsebenzi Obaluleke Kakhulu?
+author:	Pumla Mdontswa
+artist:	Gill Bond and Neo
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20681.png
+desc:	Ngabe eminye imisebenzi ibaluleke ukwedlula eminye?
+
+page_text:
+
+P1	Laba bantu abavumelani.
+P2	Uthisha uzwakala ethi, Othisha babaluleke kakhulu, niyasidinga ukuze nifunde.
+P3	Umakhi yena athi, "Abakhi nabo babaluleke
+  kakhulu. Nidinga izindlu."
+P4	Umbazi naye athi, "Ababazi babaluleke kakhulu. Nidinga ifenisha."
+P5	"Odokotela babaluleke kakhulu. Nizolashwa ngubani?"
+P6	"Abalimi babaluke kakhulu. Nizokuthathaphi ukudla?"
+P7	Umfundi wezwakala ethi, "Nathi bafundi sibaluleke kakhulu."
+P8	"Nonke naba ngabafundi kuqala!" Ngakho-ke, bonke babukana, bavumelana.
+
+images:
+
+illustrations/pages/10274.png
+illustrations/pages/10274.png
+illustrations/pages/10278.png
+illustrations/pages/10276.png
+illustrations/pages/10279.png
+illustrations/pages/10277.png
+illustrations/pages/10275.png
+illustrations/pages/10280.png
+illustrations/pages/10281.png
+
+translations:
+
+Afaan Oromo (Translation)	Hojii Isaa Kamtuu Barbaachisadha?	id=20430
+Amharic (Translation)	የትኛው ስራ ይበልጣል?	id=20501
+English (Original)	Disagreement Among Occupations	id=10537
+English (Adaptation)	Which Work Is The Most Important?	id=19761
+French (Translation)	Un Désaccord Sur L’Importance De Divers Emplois	id=13159
+isiZulu (Translation)	Ukuphikisana Ngemisebenzi Eyahlukene	id=15441
+Kiswahili (Translation)	Ni Kazi Gani Iliyo Muhimu Zaidi?	id=20433
+Lusoga (Translation)	Mulimo Ki Ogusinga?	id=20397
+Ng’aturkana (Translation)	Etich Ali Ejok Noi?	id=20412
+Portuguese (Translation)	Desentendimento Entre Profissões	id=16413
+Setswana (Translation)	Ke Tiro Efe E E Botlhokwa Go Feta?	id=21162

@@ -1,8 +1,8 @@
 url:	http://africanstorybook.org/reader.php?id=8173&d=0&a=1
 id:	8173
 title:	Iliibwa
-author:	Cornelius Gulere
-artist:	Catherine Groenewald, Cathy Feek, Vusi Malindi, Mlungisi Dlamini and Wiehan de Jager
+author:	Cornelius Wambi Gulere
+artist:	Catherine Groenewald, Cathy Feek, Mlungisi Dlamini, Vusi Malindi and Wiehan de Jager
 lang:	Lusoga
 level:	First sentences
 lic:	Creative Commons: Attribution 3.0
@@ -13,14 +13,16 @@ page_text:
 
 P1	Eiliibwa! Eiliibwa! Eiliibwa liwooma!
 P2	Kale liwooma inho!Liwoomera ilala!
-P3	Ate bwolirya,  lileeta amagezi!
-P4	Eliibwa likuza abaana! Lileeta amaanhi!
-P5	Nze maama owange ampa bwa iliibwa!
-P6	Buti ndi mugimu! Ndya bwa bulamu!
-P7	Ndi na amagezi! Ndya ne empambo!
-P8	Bwoba ne ekilyo! Olyanga ne eitundwe!
-P9	Alini gha asimba! Simba bwa mpambo!
-P10	Eiliibwa bwe likula! Olyaku ne eitundwe!
+P3	Ate bwolilya,  lileeta amagezi!
+P4	Nali tiidhi, nti eiliibwa nhunhu! Aye bwolilyaku,  linhuunhuula!
+P5	Eliibwa likuza abaana! Lileeta amaani!
+P6	Ku nvuluga! Weekomba wakamala!
+P7	Nze maama owange ampa bwa iliibwa!
+P8	Buti ndi mugimu! Ndya bwa bulamu!
+P9	Ndi na amagezi! Ndya ne empambo!
+P10	Bwoba ne ekilyo! Olyanga ne eisuusa!
+P11	Alini gha asimba! Simba bwa mpambo!
+P12	Eiliibwa bwe likula! Olyaku ne eitundwe!
 
 images:
 

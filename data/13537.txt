@@ -15,12 +15,14 @@ P1	Uthisha wami lo. Igama lakhe uthisha uZanele. Ungithanda kakhulu.
 P2	Uthisha uZanele usifundisa uhlu losonhlamvu nonkamisa. Ngiyakwazi ukuphimisa izinhlamvu a,  e,  i,  o,  u.
 P3	Uthisha uZanele sewasifundisa imibala: bomvu,  luhlaza,  okwesibhakabhaka,  luhlaza,  phuzi,  nomnyama.
 P4	Ngesikhathi sokucambalala uthisha uZanele uyasilolozela. Usiculela umlolozelo.
-P5	NgoMsombuluko usixoxela izindaba ezimayelana namadoda aqavile.
-P6	NgoLwesibili usixoxela izindaba ezimayelana nabesifazane abaqavile.
-P7	NgoLwesithathu usixoxela izindaba ezimayelana nezinto zokuhamba.
-P8	NgoLwesine usixoxela izindaba ezimayelana nezokulima.
-P9	NgoLwesihlanu uthisha uZanele usitshela ukuthi sixoxele iklasi lonke ezethu izindaba.
-P10	Uthisha wethu ungcono kunabo bonke othisha umhlaba wonke! Ngifuna ukufana nothisha uZanele uma sengikhulile.
+P5	Umlolozelo uhamba kanje: Nika amehlo akho ubuthongo obumnandi,  Ulindwe ukumamatheka lapho uvuka,  Lalani zithandwa zami,  ningakhali,  Futhi ngizoniculela umlolozelo omtoti.
+P6	Uthisha uZanele wazi izindaba eziningi. Usixoxela indaba ehlukile usuku nosuku lwesonto.
+P7	NgoMsombuluko usixoxela izindaba ezimayelana namadoda aqavile.
+P8	NgoLwesibili usixoxela izindaba ezimayelana nabesifazane abaqavile.
+P9	NgoLwesithathu usixoxela izindaba ezimayelana nezinto zokuhamba.
+P10	NgoLwesine usixoxela izindaba ezimayelana nezokulima.
+P11	NgoLwesihlanu uthisha uZanele usitshela ukuthi sixoxele iklasi lonke ezethu izindaba.
+P12	Uthisha wethu ungcono kunabo bonke othisha umhlaba wonke! Ngifuna ukufana nothisha uZanele uma sengikhulile.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

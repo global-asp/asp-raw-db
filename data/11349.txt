@@ -18,11 +18,12 @@ P4	Zanele se deur klokkie lui,  dit is die posman,  met 'n brief van haar niggie
 P5	Die posman sien 'n hond wat in sirkels hardloop. Dit laat die posman glimlag.
 P6	Die hond glimlag is nou baie opgewonde. Hy hardloop na die ou man toe. Hulle gaan nou saam in die reën stap.
 P7	Die ou man en sy hond sien vir Mev. Makabela,  'n verkeersman. Sy is baie onsteld. Die ou man weet wat hy moet doen. Hy gee vir haar 'n groot glimlag.
-P8	As die kinders oor die straat stap gee Mev. Makabela vir elke kind 'n groot glimlag.
-P9	Die kinders glimlag vir al hulle familie en vriende. Die glimlagte versprei nou na almal.
-P10	In die biblioteek,  verloor Sizwe sy glimlag want mama se hulle moet nou huis toe gaan.
-P11	As hulle uitloop,  staan die hulle dorp buite en almal het 'n groot glimlag.
-P12	Die glimlagte het vir Sizwe warm en gelukkig laat voel. Dan het weer begin verander. Die donker reenerige middag was nou warm en sonnige. Die son het die grootste glimlag van al.
+P8	Sy kan nie die glimlag in hou nie,  en begin self te glimlag.
+P9	As die kinders oor die straat stap gee Mev. Makabela vir elke kind 'n groot glimlag.
+P10	Die kinders glimlag vir al hulle familie en vriende. Die glimlagte versprei nou na almal.
+P11	In die biblioteek,  verloor Sizwe sy glimlag want mama se hulle moet nou huis toe gaan.
+P12	As hulle uitloop,  staan die hulle dorp buite en almal het 'n groot glimlag.
+P13	Die glimlagte het vir Sizwe warm en gelukkig laat voel. Dan het weer begin verander. Die donker reenerige middag was nou warm en sonnige. Die son het die grootste glimlag van al.
 
 images:
 
@@ -43,5 +44,5 @@ illustrations/pages/8977.png
 translations:
 
 Afrikaans (Adaptation)	Benjamin Se Glimlag	id=19385
-English (Original)	Sizwe’S Smile	id=8978
+English (Original)	Sizwe's Smile	id=8978
 French (Translation)	Le Sourire De Sizwe	id=10853

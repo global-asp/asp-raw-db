@@ -1,0 +1,106 @@
+url:	http://africanstorybook.org/reader.php?id=21085&d=0&a=1
+id:	21085
+title:	Ingeli Isi Iswa Yayeta Liwuusi
+author:	Denis Nasangha
+artist:	Wiehan de Jager
+lang:	Lugwere
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21085.png
+desc:	Eitakali ikalu era nookaabe alina enyota. Naye onkabe yafuna amaizi?
+
+page_text:
+
+P1	Lwali lunaku lyeibugumu omukyibila.
+P2	Nonkaabe yabaile awuula amaizi okumala enaku ejeera kuu.
+P3	“Netagaku itondo lya maize, nowelitonya kuzwa kukyikola," onkabe ya kungile.
+P4	No luume lyali lukalile.
+P5	"Nga mbula, maize, naafa," onkabe ya.
+P6	"Omwiga gwizwire era mugumu. Gwaga kukweyawo," okyuli yalawire.
+P7	Naye onkabe yaali ne nyota. "Nafa owentanywe amaizi." Era yabile nanonya amwiga ejeguli.
+P8	.
+P9	Yatambwire nabita okukyibilio kyeisubi okwisaga ikalu.
+P10	Yatambwire paka owe yawulile amaizi nga gasambuka. Yabaile nyanza! Yawulilanga amayengo.
+P11	Onkabe ya nywile nkambi empanzu elya maize.
+P12	Yasanyukile ino teyawoineku amayengo nga gaiza.
+P13	Onkabe yagezerye ku okukwata eisubi ereli okumaizi naye lyamubitileku. Naye amaizi gamutwaile.
+P14	"Munyambe, Munyambe!" yayetele.
+P15	"Oyanguwe onine," onkodole namukoba, nga akwaite akasaga omumunya gwe.
+P16	.
+P17	"Njaba kutyama anu paka nga nebalilye onkodole,” onkabe nasalawo. Ajaba kumukuma paka oweyawila omukunywa.”
+P18	Olunaku lumo oweyali nga akumilile, abaisuka babili baizire okumwiga Baali nomutego.
+P19	"Walilio onkodole omweru aiza anno okunywa," omwisuka omweiza nakoba. "Tulina okumulya ekyeigulo olwati."
+P20	.
+P21	"Tenyinza okuleka abaisuka bano okwita onkodole ono om weru," onkabe nalowoza. "Naye ndi mutono, nkole tya?"
+P22	Onkodole we ya tukile nazwa okumusale naika okunywa amaizi.
+P23	.
+P24	Onkabe yabaile ne ndowoza.
+P25	Yawukiile okukyigele kya mwisuka omweiza. Onkabe namuluma ino namani.
+P26	Omumwisuka yawukire. “Nana!” omwisuka nakoba.
+P27	Onkodole ye wunyire era naguluka nazwawo olwe kwetasa.
+P28	Eyo niye ngeri onkabe ejiyebalilye mu onkodole olwo kumuyamba.
+
+images:
+
+illustrations/pages/788.png
+illustrations/pages/784.png
+illustrations/pages/785.png
+illustrations/pages/786.png
+illustrations/pages/787.png
+illustrations/pages/789.png
+illustrations/pages/790.png
+illustrations/pages/791.png
+illustrations/pages/870.png
+illustrations/pages/871.png
+illustrations/pages/872.png
+illustrations/pages/873.png
+illustrations/pages/874.png
+illustrations/pages/875.png
+illustrations/pages/876.png
+illustrations/pages/877.png
+illustrations/pages/878.png
+illustrations/pages/879.png
+illustrations/pages/880.png
+illustrations/pages/881.png
+illustrations/pages/882.png
+illustrations/pages/883.png
+illustrations/pages/884.png
+illustrations/pages/885.png
+illustrations/pages/886.png
+illustrations/pages/887.png
+illustrations/pages/904.png
+illustrations/pages/888.png
+illustrations/pages/889.png
+
+translations:
+
+Afrikaans (Translation)	Hoe Mier Vir Duif Red	id=20059
+ChiTonga (Translation)	Kanyenyene Mbokakavwuna Nziba	id=18638
+CiNyanja (Translation)	Mwamene Kanyelele Kanapulumusila Nkunda	id=18626
+English (Original)	How Ant Saved Dove	id=2076
+French (Translation)	Comment La Fourmi Sauva La Colombe.	id=9965
+Fulfulde (Translation)	No Ɗayu Faaborii Wuugaandu.	id=10028
+Hausa (Translation)	Yadda Tururuwa Ta Ceci Habjia.	id=9997
+IciBemba (Translation)	Ifyo Kanyelele Aapuswishe Inkunda	id=18583
+IciBemba (Translation)	Kokwane Ipiliselize Inkunda	id=20821
+isiXhosa (Translation)	Indlela Imbovane Eyalihlangula Ngayo Ihobe	id=7453
+isiZulu (Translation)	Wamphephisa Kanjani Utsheketshe Ujuba	id=7770
+isiZulu (Adaptation)	Utsheketshe Usindisa Ujuba	id=17359
+Kanuri (Translation)	Fudu Kanguwu Bolboloa Cǝkkaanadǝ.	id=10090
+Kiswahili (Translation)	Siafu Amwokoa Njiwa	id=8707
+Luganda (Translation)	Engeri Enkuyege Bwe Yataasa Ejjuba	id=8275
+Lugbarati (Translation)	Ogulegua Pa A’Balau Ni Ngoni Ru Ya Ri	id=12635
+Lusoga (Translation)	Nseete Ayamba Kaghemba	id=20408
+Lusoga (Translation)	Engeri Enswa Yeyaghonia  Eighemba	id=21270
+Maa (Translation)	Eneikuna Enkalaoni Pee Eitajeu Enturkuluo	id=7864
+Ng’aturkana (Translation)	Eger Lo Aiunia Imukunyo Akuuri	id=2572
+Oluwanga (Translation)	Ngala Liche Liaonia Liusiu	id=8274
+Sepedi (Translation)	Tšhošwane E Phološa Leeba	id=18000
+Sesotho (Lesotho) (Adaptation)	Kokonyana Le Leeba	id=15903
+Sesotho (South Africa) (Translation)	Kokonyana O Pholosa Leeba 	id=20031
+Setswana (Translation)	Tshoswane O Thusa Leeba	id=7814
+SiLozi (Translation)	Kokwani Mone Ipiliselize Liba	id=18565
+Siswati (Translation)	Indlela Intfutfwane Leyasindzisa Ngayo Lituba	id=17929
+Tshivenda (Translation)	Lusunzi Lu Tshidza Tshiivha	id=18275
+Xitsonga (Translation)	Ndlela Leyi Risokoti Ri Nga Ponisa Tuva	id=18876
+Zarma (Translation)	Mate Kaŋ Annoori Te Ga Kolŋay Faaba	id=10111

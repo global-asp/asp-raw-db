@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=11614&d=0&a=1
 id:	11614
 title:	Hiyubi  Ow'ogulyerye
 author:	Mubbalya Charles
-artist:	Alex Zablon
+artist:	Zablon Alex Nguku
 lang:	Lunyole
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
@@ -19,10 +19,11 @@ P5	Hiyubi gaŋuna mu mawiiwi ngatiina e Bugabule. Ni gahejaheja gafania ati omuh
 P6	Hiyubi gagenda ni goola e Bubaali n'esuubi ati anagaane enyama n' enyiye. Hunyanga eyo enjala yaali eri humuluma bugaali. Nigolire,  abaatu bali bahinyiiya ebiryo.
 P7	"Ndehire abanyiiya e Bubaali ni batagiiha ohunyiiya," geŋeegamo. "Ebiryo bitehwa ohuba ni binyiiye ŋahani." Hiyubi gasalaŋo ohugobolayo e Bugabule.
 P8	Hiyubi ni golire hu mu hiji gwe'Bubaali abaatu baali bahenire hale ohulya. Abegeni baali hu hutonera abagole ebirabo.
-P9	Hiyubi gasalirwa nyo ohutafuna e'byohulya. Gasalaŋo agoboleyo e Bugabule. Ejala yali emuluma bugali bwene ate nga adembire natasobola na huŋiita ho nyo.
-P10	"Ndehire abanyiiya e Bugabule ni batagiiha ohunyiiya," geŋeegamo. Ebiryo bitehwa ohuba ni binyiiye ŋahani. Hiyubi gasalaŋo ohugobolayo e Bugabule.
-P11	Nigaŋuliye ati ebiryo bibulaŋo gaguye gafaho olwehyo. Gaali afiriye enyama hu mihuji jombi. Ganuhayo n'abusera mu hahoopo.
-P12	Poola poola ga nyololoha gagobolayo engo n'enjala ate nanakuŋaye.
+P9	Hiyubi gaali muhodo mwene. Si gaali n'ehirabo ehy'ohuŋayo. Gendiire hulya.
+P10	Hiyubi gasalirwa nyo ohutafuna e'byohulya. Gasalaŋo agoboleyo e Bugabule. Ejala yali emuluma bugali bwene ate nga adembire natasobola na huŋiita ho nyo.
+P11	"Ndehire abanyiiya e Bugabule ni batagiiha ohunyiiya," geŋeegamo. Ebiryo bitehwa ohuba ni binyiiye ŋahani. Hiyubi gasalaŋo ohugobolayo e Bugabule.
+P12	Nigaŋuliye ati ebiryo bibulaŋo gaguye gafaho olwehyo. Gaali afiriye enyama hu mihuji jombi. Ganuhayo n'abusera mu hahoopo.
+P13	Poola poola ga nyololoha gagobolayo engo n'enjala ate nanakuŋaye.
 
 images:
 
@@ -42,7 +43,7 @@ illustrations/pages/9140.png
 
 translations:
 
-Akuapem Twi (Translation)	Kiundu Difudepɛfo No	id=18459
+0 (Translation)	Kiundu Difudepɛfo No	id=18459
 Amharic (Translation)	ገብጋባው ክንዴ	id=12003
 Asante Twi (Translation)	Adifudepɛfoɔ Kiundu	id=18279
 Dagaare (Translation)	Kiundu, Bundi-Gbogbo Soba	id=17771
@@ -62,3 +63,4 @@ Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
 Portuguese (Translation)	Kiundu Guloso	id=16439
 Sesotho (Lesotho) (Translation)	Ntate Meharo O Meharo	id=10626
 Setswana (Translation)	Megagaru Ya Ga Abele	id=14961
+Talen (Translation)	Poraong Kiundu	id=20362

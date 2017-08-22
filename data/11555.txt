@@ -15,10 +15,13 @@ P1	Kabali ne Kateera baali ba mukwano.
 P2	Kabali yalina kkapa ate  Kateera yalina akamyu.
 P3	Buli lunaku Kabali yazannyanga ne kkapa ye ate.
 P4	Kateera yawanga akamyu ke omuddo.
-P5	Obubiri nga buddugavu. Obubiri nga bwa kitaka. Obulala nga bweru.
-P6	Lwali lumu kkapa ya Kabali yazaala obwaana busatu.
-P7	Akamu kaali kasajja obubiri nga bukazi. Yafunamu sente naagulamu ebitabo n'ekkalaamu.
-P8	Naye Kabali teyafuna muguzi noomu.
+P5	Lumu akamyu ka Kateera kazaala obwaana mukaaga.
+P6	Obubiri nga buddugavu. Obubiri nga bwa kitaka. Obulala nga bweru.
+P7	Lwali lumu kkapa ya Kabali yazaala obwaana busatu.
+P8	Akamu kaali kasajja,  obubiri nga bukazi.
+P9	Akamu kaali kasajja obubiri nga bukazi. Yafunamu sente naagulamu ebitabo n'ekkalaamu.
+P10	Naye Kabali teyafuna muguzi noomu.
+P11	Abantu bokukyaalo baali tebeetaaga kkapa.
 
 images:
 

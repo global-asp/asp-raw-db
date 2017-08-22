@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=10622&d=0&a=1
 id:	10622
 title:	Katse E Bohlale
-author:	Ursula Nafula
+author:	Khothatso Ranoosi and Marion Drew
 artist:	Catherine Groenewald
 lang:	Sesotho (Lesotho)
 level:	First sentences
@@ -42,6 +42,8 @@ illustrations/pages/8875.png
 
 translations:
 
+Ateso (Translation)	Ekapa Lo Ecobee	id=20595
 Dhopadhola (Translation)	Pus Ma Ryek	id=18688
 English (Translation)	Clever Cat	id=8878
+Hausa (Nigeria) (Translation)	Mage Mai Wayo	id=21362
 Kiswahili (Original)	Paka Mwerevu	id=8877

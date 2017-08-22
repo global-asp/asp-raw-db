@@ -15,12 +15,14 @@ P1	Yo ke morutabana wa me. Leina la gagwe ke Morutabana Moipone. O nthata go men
 P2	Morutabana Moipone o re ruta medumo. Ke kgona go dira medumo a,  e,  i,  o,  u.
 P3	Morutabana Moipone o re rutile mebala e e farologaneng: Khibidu,  botala jwa legodimo,  serolwana le bontsho.
 P4	Ka nako ya go robala Morutabana Moipone o re robatsa ka pina. O re opelela pina e e monate.
-P5	Ka Mosupologo o re anegela khutswe ya banna ba bagale.
-P6	Ka Labobedi o re anegela khutswe ya basadi ba bagale.
-P7	Ka Laboraro o re anegela ka mefuta e e farologaneng ya dipalangwa.
-P8	Ka Labone o re anegela ka temo.
-P9	Mme ka Labotlhano Morutabana Moipone o re kopa gore re anege dikhutswe tsa rona mo phaposing-borutelo.
-P10	Morutabana wa rona ke wa makgonte mo lefatsheng! Fa ke gola ke batla go nna fela jaaka Morutabana Moipone.
+P5	Pina eo yone e opelwa jaana: Boroko bo bo monate fa matlho a gago Menyebo e lo emetse fa lo tsoga Robalang bana ba bantle,  lo se lele Ke tla lo opelela pina e e molotsana.
+P6	Morutabana Moipone o itse dikgang-khutswe tse di ntsi. O re anegela dikhutswe tse di farologaneng letsatsi le letsatsi.
+P7	Ka Mosupologo o re anegela khutswe ya banna ba bagale.
+P8	Ka Labobedi o re anegela khutswe ya basadi ba bagale.
+P9	Ka Laboraro o re anegela ka mefuta e e farologaneng ya dipalangwa.
+P10	Ka Labone o re anegela ka temo.
+P11	Mme ka Labotlhano Morutabana Moipone o re kopa gore re anege dikhutswe tsa rona mo phaposing-borutelo.
+P12	Morutabana wa rona ke wa makgonte mo lefatsheng! Fa ke gola ke batla go nna fela jaaka Morutabana Moipone.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -55,10 +58,12 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

@@ -1,0 +1,73 @@
+url:	http://africanstorybook.org/reader.php?id=21276&d=0&a=1
+id:	21276
+title:	Akalenga N’Omusta
+author:	Ndhibogeza Rebecca
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21276.png
+desc:	Mu mboozi eno tusoma tuti emikwaano egyindi gyirinokuba ghegyikoma.
+
+page_text:
+
+P1	wakalenga ni ghamusota
+  bamikwano.
+P2	wakalenga kakoba”idha tugye
+  tukyaalire maama wange.”
+P3	“neyanziza,”ghamusota akobye.”naani anaalabirira amaka gaife?”
+P4	“nze ndhagalabirira.”ghankembo akobye.
+P5	wakalenga
+  kata enswa mukikapu nga dhamaama ghaako.
+P6	wakalenga ni wamusota
+  bava ghaka muncococo.
+P7	Bayagaana ekikunsu eky’obudaada.wamusota
+  yainhamira.
+P8	Wakalenga yakuuma mukwanogwe
+P9	Endala yabaluma nga
+  bakaali kutuuka wa maama gha
+  wakalenga
+P10	 Banaaba era betegeka okulya.
+P11	“wamusota,nkwegayiriire
+  situka,”wakalenga bwakobye.
+P12	Wamusota yagezaaku okusituka
+  aye nga tiwakalenga.
+P13	“tisobola kusituka nga wakalenga,”wamusota bwakobye.
+P14	Wakalenga tiyawulirisa mwiine.
+P15	Your translated text
+P16	Wamusota muniivu inho.”nail
+  ndoghooza nti mukwano gwange.
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog And Snake	id=19762
+isiZulu (Translation)	Uxoxo Nonyoka	id=20718
+Kinyarwanda (Translation)	Inzoka N' Igikeri	id=20763
+Kiswahili (Translation)	Chura Na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere Ni Wamusota	id=20398
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Setswana (Translation)	Segwagwa Le Noga	id=21160

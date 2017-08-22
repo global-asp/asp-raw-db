@@ -11,7 +11,16 @@ desc:	I like to colour in with different coloured pencils.
 
 page_text:
 
-P1	.
+P1	I colour in with my pencil crayons. .
+P2	I colour in tomatoes with a red pencil. .
+P3	I colour in oranges with an orange pencil. .
+P4	I colour in the sun with a yellow pencil. .
+P5	I colour in a frog with a green pencil. .
+P6	I colour in the night sky with a blue pencil. .
+P7	I colour in flowers with a pink pencil. .
+P8	I colour in a cat with a black pencil. .
+P9	I colour in the flag of Mozambique with many colours. .
+P10	.
 
 images:
 

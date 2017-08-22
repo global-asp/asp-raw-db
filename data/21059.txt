@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21059&d=0&a=1
+id:	21059
+title:	Simba Jike Na Mbuni
+author:	Brigid Simiyu
+artist:	Brian Wambi
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21059.png
+desc:	Simba Jike anapanga kuwachukuwa watoto wa Mbuini.
+
+page_text:
+
+P1	Mbuni na Simba Jike walikuwa marafiki wakati mmoja.
+P2	Kinyume na Simba Jike, Mbuni aliwalisha wanawe vyema.
+P3	Watoto wa Simba Jike hawakupata chakula cha kutosha.
+P4	Simba Jike alitamani vifaranga wa Mbuni kuwa wake.
+P5	Mbuni alipokuwa hayupo nyumbani, Simba Jike aliwachukuwa vifaranga.
+P6	Mbuni aliporudi, aliulza, “Watoto wangu wako wapi?”
+P7	Mbuni aliwakuta vifaranga katika chumba cha Simba Jike.
+P8	Simba Jike alisema, “Vifaranga ni wangu sasa. Wachukue wana simba.”
+P9	Mbuni alijiuliza, “Nitawapata wanangu namna gani?”
+P10	Aliwaita wanyama wote kukutana.
+P11	Wanyama walifika kuhudhuria mkutano.
+P12	Tembo aliuliza Mbuni na Simba Jike kujieleza.
+P13	Wanyama wengi waliogopa kumulaumu Simba Jike.
+P14	Kindi alisema, “Watoto wanaofanana ndege ni wa Mbuni.”
+P15	Baada ya kusema hivyo, Kindi alitorokea shimoni.
+P16	Simba Jike alikasirika sana. Alirudi kwake na wana simba.
+
+images:
+
+illustrations/pages/19205.png
+illustrations/pages/19195.png
+illustrations/pages/19196.png
+illustrations/pages/19197.png
+illustrations/pages/19198.png
+illustrations/pages/19199.png
+illustrations/pages/19200.png
+illustrations/pages/19201.png
+illustrations/pages/19202.png
+illustrations/pages/19203.png
+illustrations/pages/19204.png
+illustrations/pages/19205.png
+illustrations/pages/19206.png
+illustrations/pages/19207.png
+illustrations/pages/19208.png
+illustrations/pages/19209.png
+illustrations/pages/19210.png
+
+translations:
+
+English (Translation)	Ostrich and Lioness	id=19292
+English (Adaptation)	Lioness And Ostrich	id=20870
+Kiswahili (Translation)	Mbuni Na Simba	id=19401
+Ng’aturkana (Original)	Ekales Ka Ng’Atuny	id=19211
+Ng’aturkana (Translation)	Kales Ka Ng’Atuny	id=19212
+Tigrigna (Translation)	ዋዕሮን ሰገንን	id=21173

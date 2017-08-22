@@ -11,14 +11,14 @@ desc:	Kutheni nje iihagu zinempumlo esibaca? Funda uzivele.
 
 page_text:
 
-P1	Kudala-dala,  kwakukho iqela lezilwanyana ezineempondo elagqiba kwelokuba zibe nomdliva wetheko phezulu ezintabeni. Zamema ezinye izilwanyana ezineempondo kuphela. Hayi ezinye.
-P2	Yathi ihagu yakuva ngeli theko,  yacinga,  "Heee,  andinazimpondo kanene. Ndiza kuthini bethu?"
-P3	Ngengomso,  yeza necebo. Yazenzela iimpondo,  yazincamathisele ngamafutha okuncamathisela!
-P4	Lasebenza nyhani eli cebo,  nehagu yazingomba isifuba ngokuhlakanipha xa ivunyelwa ukuba ingene kwitheko. Ingxaki yayile yokuba umcimbi lo wawukwindawo ekufuphi nelanga.
-P5	Lathi lisakuyondelelana itheko,  kumnandi nyhani kujuxuzwa,  suke aqalisa ukunyibilika amafutha. Yhoo! Nazo iimpondo zisiwa. Zothuka ezinye izilwanyana ezineempondo. "Ngubani ke ngoku lo ungenampondo? Ungene njani apha?" zabuzana.
-P6	Ikumkani yezilwanyana yangqokola isithi,  "Nqakulani loo hagu niyiphosele kude le emhlabeni."  Hayi ke,  zonke izilwanyana zithe zakuva ilizwi elibekwe yikumkani,  zenza ngehagu njengoko ziyalelwe.
-P7	Zayixhakamfula ihagu,  zayiphosa kude le ezantsi emhlabeni. Owu usizana lwehagu! Laya kuwa bhuu phantsi ngempumlo. Impumlo yaba sibaca torho paca.
-P8	Ungothuki ke xa ubona ihagu inempumlo ethe paca ukuba sibaca oku,  kuba ayizange itshintshe kusukela nga loo mini.
+P1	Kudala-dala, kwakukho iqela lezilwanyana ezineempondo elagqiba kwelokuba zibe nomdliva wetheko phezulu ezintabeni. Zamema ezinye izilwanyana ezineempondo kuphela. Hayi ezinye.
+P2	Yathi ihagu yakuva ngeli theko, yacinga, "Heee,  andinazimpondo kanene. Ndiza kuthini bethu?"
+P3	Ngengomso, yeza necebo. Yazenzela iimpondo,  yazincamathisele ngamafutha okuncamathisela!
+P4	Lasebenza nyhani eli cebo, nehagu yazingomba isifuba ngokuhlakanipha xa ivunyelwa ukuba ingene kwitheko. Ingxaki yayile yokuba umcimbi lo wawukwindawo ekufuphi nelanga.
+P5	Lathi lisakuyondelelana itheko, kumnandi nyhani kujuxuzwa, suke aqalisa ukunyibilika amafutha. Yhoo! Nazo iimpondo zisiwa. Zothuka ezinye izilwanyana ezineempondo. "Ngubani ke ngoku lo ungenampondo? Ungene njani apha?" zabuzana.
+P6	Ikumkani yezilwanyana yangqokola isithi, "Nqakulani loo hagu niyiphosele kude le emhlabeni." Hayi ke, zonke izilwanyana zithe zakuva ilizwi elibekwe yikumkani, zenza ngehagu njengoko ziyalelwe.
+P7	Zayixhakamfula ihagu, zayiphosa kude le ezantsi emhlabeni. Owu usizana lwehagu! Laya kuwa bhuu phantsi ngempumlo. Impumlo yaba sibaca torho paca.
+P8	Ungothuki ke xa ubona ihagu inempumlo ethe paca ukuba sibaca oku, kuba ayizange itshintshe kusukela nga loo mini.
 
 images:
 
@@ -45,4 +45,4 @@ Kiswahili (Translation)	Nguruwe Hawaruhusiwi	id=12653
 Ng’aturkana (Translation)	Emam Ng'ikurung'oi Achamitae	id=12628
 Oluwanga (Translation)	Tsingurwe Shitsinjisibwa Tawe	id=12970
 Portuguese (Translation)	Não São Permitidos Porcos	id=15099
-siSwati (Translation)	Tingulube Atikavunyelwa	id=13050
+Siswati (Translation)	Tingulube Atikavunyelwa	id=13050

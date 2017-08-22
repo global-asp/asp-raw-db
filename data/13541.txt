@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=13541&d=0&a=1
 id:	13541
-title:	Goat, the False King
-author:	Cornelius Gulere
+title:	Goat, The False King
+author:	Cornelius Wambi Gulere
 artist:	Marleen Visser
 lang:	English
 level:	First paragraphs
@@ -54,6 +54,7 @@ illustrations/pages/13367.png
 
 translations:
 
+English (Adaptation)	Bad King	id=21446
 French (Translation)	Le Faux Roi Bouc	id=14526
 isiZulu (Translation)	Imbuzi, Inkosi Eyayingenalo Iqiniso	id=16090
 Lusoga (Original)	Wambuzi Isabazinga Omufere	id=13540

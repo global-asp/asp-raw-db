@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=20873&d=0&a=1
+id:	20873
+title:	The Mule
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Marleen Visser
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20873.png
+desc:	A traditional story that offers an explanation for why mules cannot produce offspring. (This story was originally narrated by Mesfin Habte-Mariam. The English version was written by Elizabeth Laird.).
+
+page_text:
+
+P1	There was a young beautiful mule called Wardit.
+P2	A handsome horse said, “I must marry Wardit.”
+P3	The horse said, “Let us go together to the river.”
+P4	The horse asked Wardit to be his wife. Wardit agreed.
+P5	The horse asked Wardit, “Who are your father and mother?”
+P6	Wardit said, “My mother lives in the king’s palace.”
+P7	“My sister lives in the Church compound. Don’t you know her?”
+P8	She added, “My beautiful aunt lives with the village headman.”
+P9	Then an old donkey walked by. It was Wardit’s father.
+P10	Wardit did not greet her father or look at him.
+P11	The old donkey asked, “What is the matter, my girl?"
+P12	The horse asked Wardit, “Who is this stupid donkey?”
+P13	Wardit said, “I don’t know him.”
+P14	The horse kicked the old donkey.
+P15	The old donkey was heart-broken. He cried and died.
+P16	Because Wardit did not respect her father, she cannot have children.
+
+images:
+
+illustrations/pages/17977.png
+illustrations/pages/17968.png
+illustrations/pages/17969.png
+illustrations/pages/17970.png
+illustrations/pages/17971.png
+illustrations/pages/17972.png
+illustrations/pages/17973.png
+illustrations/pages/17974.png
+illustrations/pages/17975.png
+illustrations/pages/17976.png
+illustrations/pages/17977.png
+illustrations/pages/17978.png
+illustrations/pages/17979.png
+illustrations/pages/17980.png
+illustrations/pages/17981.png
+illustrations/pages/17982.png
+illustrations/pages/17984.png
+
+translations:
+
+Amharic (Translation)	በቅሎዋ ዋርዲት	id=17991
+Amharic (Adaptation)	በቅሎዋ ዋርዲት	id=18427
+Amharic (Translation)	ዋርዲት በቅሎዋ	id=21180
+English (Original)	Wardit, the Mule	id=17985
+Kiswahili (Translation)	Nyumbu	id=21073
+Tigrigna (Translation)	እታ በቅሊ	id=21113

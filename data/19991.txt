@@ -1,9 +1,9 @@
 url:	http://africanstorybook.org/reader.php?id=19991&d=0&a=1
 id:	19991
-title:	Mwana anoshamisa
+title:	Mwana Anoshamisa
 author:	Ephraim Mhlanga
-artist:	Meghan Judge
-lang:	English
+artist:	
+lang:	ChiShona
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19991.png
@@ -59,9 +59,10 @@ illustrations/pages/14992.png
 
 translations:
 
-Dhopadhola (Translation)	Nyathi ma nyakare	id=19993
+Dhopadhola (Translation)	Nyathi Ma Nyakare	id=19993
 English (Original)	Donkey Child	id=15028
 English (Adaptation)	Strange Baby	id=15033
+isiXhosa (Translation)	Umbhongolo, Usana Olusisimanga	id=20818
 isiZulu (Translation)	Umntwana ongajwayelekile	id=20006
 Kiswahili (Translation)	Mtoto Punda	id=15865
 Ng’aturkana (Translation)	Ikoku Sikiria	id=15574

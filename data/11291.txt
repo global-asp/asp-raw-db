@@ -12,19 +12,21 @@ desc:	uFudu ucingana nendlu yakhe
 page_text:
 
 P1	Ngelinye ilanga uFudu abe ehamba otshanini. Abehamba ecinga ecinga. Ecingela ekudeni otshanini. Wadlula uMnenke.
-P2	UMnenke wathi: "Cha,  angikaze ngiyibone,  kodwa ngizokusiza ukuyicinga!" wagibela ngaphezulu kuFudu. UFudu wahamba uMnenke ehleli ngemuva kwakhe. Bacinga bacinga,  kodwa uphawu lwendlu belungekho. Ilanga beliphezulu esibhakabhakeni.
-P3	Muva nje,  badlula uNyoni omduna. 'Ingabe kukhona okucingayo?" kubuza uNyoni omduna. "Yebo,  Nyoni omduna,  ngicingana nendlu yami. Ngabe uyibonile yini?" uNyoni omduna wathi: "Cha,  angikaze giyibone,  kodwa ngizokusiza ukuyicinga!
-P4	Walungisa izimpiko zakhe waphapha wahamba. "Kodwa uhamba kakhulu kunami," kukhononda ufudu. UNyoni omduna wabuya. "kulungile,  ngizozuba ngihlale kuwe."
-P5	UFudu waqhubeka wahamba,  eno Mnenke kanye Nyoni omduna beminyene emhlane waka Fudu. Bacinga bacinga kodwa uphawu lwendlu belungekho. Ilanga beselehlile esibhakabhakeni.
-P6	Muva nje badlula uNyoni omsikazi. "Ingabe kukhona okucingayo?' kubuza uNyoni omsikazi. "Yebo Nyoni omsikazi,  ngicingana nendlu yami. Ingabe uyibonile yini?
-P7	UNyoni omsikazi wathi: "Cha,  angikaze ngiyibone,  kodwa ngizokusiza ukuyicinga!" Wazuba ngemuva kuka Fudu,  waqhubeka uFudu enoMnenke,  uNyoni omduna kanye noNyoni omsikazi Bacinga bacinga kodwa uphawu lwendlu belungekho. Umoya waqala ukuhhusha.
-P8	Muva badlula uGundwane. Bekenza umqhele wezimbali. "Ingabe kukhona okucingayo?" kubuza uGundwane. "Yebo,  Gundwane,  Ngicingana nendlu yami. Ingabe uyibonile yini?"
-P9	UGundwane wathi: "Cha,  angikaze ngiyibone,  kodwa ngizokusiza ukuyifuna!" Wazuba ngemuva kuka Fudu. "Yima,  angeke ngikwazi ukushiya izimbali zami ngemuva." uFudu wema. UGundwane wazinweba wazinweba wathatha izimbali zakhe.
-P10	UFudu waqhubeka wahamba eno Mnenke,  uNyoni omduna,  uNyoni omsikazi kanye no Gundwane ngemuva kwakhe. Bacinga bacinga kodwa uphawu lwendlu belungekho. Umoya washanela amacembe phansi,  wabahlanganisa nezinyawo zakaFudu. UFudu wakhathala. "Nonke niyasinda," wakhokha umoya.
-P11	UMoya waba namandla. Isibhakabhaka satshintsha saba mnyama. "Hhhooo,  iphi indlu yami?" kubuza uFudu. Ukuduma kwezulu kuzwakala ezintabeni. Umbani ushayela ekudeni. Yeza imvula. "Hhooo,  iphi indlu ka Fudu?" kubuza umnenke, uNyoni omduna,  uNyoni omsikazi kanye noGundwane.
-P12	UMoya wahhusha wakhukhula. Waphephula umnenke, uNyoni omduna,  uNyoni omsikazi kanye no Gundwane,  ebasusa emhlane waka Fudu.
-P13	Bese yeza imvula. UFudu waba nokuthuka,  wazishobeza egogogweni lakhe. Lapho bekufudumala futhi kubuthebelele."Hhooo,  nayi indlu yami!"
-P14	"Hhooo,  nayi indluka-Fudu!"
+P2	"Ingabe kukhona okucingayo?" kubuza uMnenke. "Yebo,  Mnenke,  ngicingana nendlu yami. Ingabe uyibonile yini?"
+P3	UMnenke wathi: "Cha,  angikaze ngiyibone,  kodwa ngizokusiza ukuyicinga!" wagibela ngaphezulu kuFudu. UFudu wahamba uMnenke ehleli ngemuva kwakhe. Bacinga bacinga,  kodwa uphawu lwendlu belungekho. Ilanga beliphezulu esibhakabhakeni.
+P4	Muva nje,  badlula uNyoni omduna. 'Ingabe kukhona okucingayo?" kubuza uNyoni omduna. "Yebo,  Nyoni omduna,  ngicingana nendlu yami. Ngabe uyibonile yini?" uNyoni omduna wathi: "Cha,  angikaze giyibone,  kodwa ngizokusiza ukuyicinga!
+P5	UFudu ucingana nendlu yakhe.
+P6	Walungisa izimpiko zakhe waphapha wahamba. "Kodwa uhamba kakhulu kunami," kukhononda ufudu. UNyoni omduna wabuya. "kulungile,  ngizozuba ngihlale kuwe."
+P7	UFudu waqhubeka wahamba,  eno Mnenke kanye Nyoni omduna beminyene emhlane waka Fudu. Bacinga bacinga kodwa uphawu lwendlu belungekho. Ilanga beselehlile esibhakabhakeni.
+P8	Muva nje badlula uNyoni omsikazi. "Ingabe kukhona okucingayo?' kubuza uNyoni omsikazi. "Yebo Nyoni omsikazi,  ngicingana nendlu yami. Ingabe uyibonile yini?
+P9	UNyoni omsikazi wathi: "Cha,  angikaze ngiyibone,  kodwa ngizokusiza ukuyicinga!" Wazuba ngemuva kuka Fudu,  waqhubeka uFudu enoMnenke,  uNyoni omduna kanye noNyoni omsikazi Bacinga bacinga kodwa uphawu lwendlu belungekho. Umoya waqala ukuhhusha.
+P10	Muva badlula uGundwane. Bekenza umqhele wezimbali. "Ingabe kukhona okucingayo?" kubuza uGundwane. "Yebo,  Gundwane,  Ngicingana nendlu yami. Ingabe uyibonile yini?"
+P11	UGundwane wathi: "Cha,  angikaze ngiyibone,  kodwa ngizokusiza ukuyifuna!" Wazuba ngemuva kuka Fudu. "Yima,  angeke ngikwazi ukushiya izimbali zami ngemuva." uFudu wema. UGundwane wazinweba wazinweba wathatha izimbali zakhe.
+P12	UFudu waqhubeka wahamba eno Mnenke,  uNyoni omduna,  uNyoni omsikazi kanye no Gundwane ngemuva kwakhe. Bacinga bacinga kodwa uphawu lwendlu belungekho. Umoya washanela amacembe phansi,  wabahlanganisa nezinyawo zakaFudu. UFudu wakhathala. "Nonke niyasinda," wakhokha umoya.
+P13	UMoya waba namandla. Isibhakabhaka satshintsha saba mnyama. "Hhhooo,  iphi indlu yami?" kubuza uFudu. Ukuduma kwezulu kuzwakala ezintabeni. Umbani ushayela ekudeni. Yeza imvula. "Hhooo,  iphi indlu ka Fudu?" kubuza umnenke, uNyoni omduna,  uNyoni omsikazi kanye noGundwane.
+P14	UMoya wahhusha wakhukhula. Waphephula umnenke, uNyoni omduna,  uNyoni omsikazi kanye no Gundwane,  ebasusa emhlane waka Fudu.
+P15	Bese yeza imvula. UFudu waba nokuthuka,  wazishobeza egogogweni lakhe. Lapho bekufudumala futhi kubuthebelele."Hhooo,  nayi indlu yami!"
+P16	"Hhooo,  nayi indluka-Fudu!"
 
 images:
 
@@ -52,6 +54,7 @@ French (Translation)	Tortue Trouve Sa Maison	id=12866
 isiNdebele (Translation)	Ufudu Uthola Indlu Yakhe	id=13781
 isiZulu (Translation)	Tortoise Finds His House	id=11303
 Kiswahili (Translation)	Nyumba Ya Kobe	id=12692
+Lusoga (Translation)	Enkhudhu Yazuula Enhumba  Yaayo	id=21298
 Ng’aturkana (Translation)	Aanyuni Abokok Akai Keng	id=12685
 Oluwanga (Translation)	Likhutu Linyoola Inzu Yalio	id=13018
 Portuguese (Translation)	A Tartaruga Encontra a Sua Casa	id=19218

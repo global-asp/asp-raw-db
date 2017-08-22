@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=20282&d=0&a=1
+id:	20282
+title:	Imbuto
+author:	Janviere Micomyiza
+artist:	Wiehan de Jager
+lang:	Kinyarwanda
+level:	Read aloud
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20282.png
+desc:	Habayeho umukobwa wari mwiza cyane ku buryo abasore base bashakaga ko ababera umugore. Mu isambu yiwabo hameze igiti cyimbuto ziryoshye cyane. Ababyeyi be biyemeza kuzamushyingira umusore uzashobora kubasura akamara umunsi wose atariye ku mbuto zicyo giti.
+
+page_text:
+
+P1	Habayeho umuryango wari ufite igiti cy'imbuto ziryoshye cyane ku buryo abantu bose bazaga kuziryaho.Muri uwo muryango habaga umukobwa mwiza cyane.Abantu benshi batangariraga uburanga bwe,amaso ye ashashagirana,n'imyitwarire ye myiza.
+P2	Mu gihe yari amaze kuba inkumi,abagabo,abasore n'abasaza,bakaza kumurambagiza.Ababyeyi be bafata umwanzuro ko uzashobora kumara umunsi wose mu rugo atariye kuri rwa rubuto ariwe uzamutwara.
+P3	Amakuru amenyekena mu mudugudu wose.Umugabo wa mbere wahaje yari umuyobozi yari mwiza,akize,kandi ari umusore.Baramwakira bamuha no ku mbuto.Yicaye iminota mike,ariko ntiyategereje,yariye urubuto,aririkanwa.
+P4	Umushumba niwe wakurikiyeho.Yari mwiza ari umusore kandi akize.Umukobwa yaramukunze.Ariko mu gihe bamuhaga urubuto,yaruriye ako kanya,baramwirukana.
+P5	Uwakurikiyeho yari umutunzi.Yari mubi nta buranga.Wa mukobwa akifuza ko yarya urubuto akagenda.Mu gihe bamuzimaniraga,yanze kurya.Hashira umwanya,umukobwa atangira kumwingingira kurya.Ku isaha ya kane inzara iramwica birangira ariye urubuto.Nawe yarirukanywe.
+P6	Hanyuma umukuru w'umudugudu araza.yari mubi,ashaje kandi nta buranga.nta muntu wamukundaga mu mudugudu.wa mukobwa akifuza ko yarya ku rubuto akagenda.Mu gihe bamuhaga ku rubuto,yanze kururya.Yamaze umunsi wose.Nko mu masa kumi n'ebyiri,abasaba kujya mu bwihehero.Barabimwemereye.Mu gihe yagarukaga,impumuro y.imbuto yaratamye,iminwa ye yari yabaye umutuku.Yari yaririya imbuto mu bwiherero!Nawe yahise yirukanwa.
+P7	Nyuma y'iminsi haje igikomangoma,yari mwiza kandi akize.Umukobwa yaramubonya aratangara.Yamwitayeho,amusaba kutarya urubuto.We yamuhaye nkeye ugereranije n'abandi.Ariko sa sita,igikomangoma cyariya za mbuto nawe baramwirukana.Umukobwa ararira ku bwo uburakari no gutenguhwa.
+P8	Bukeye bwaho,haza umuturage usanzwe.Yari umukene n'umunebwe,ariko yari umusore bizwi ko akubagana.Yari yiyemeje gutsinda.Wa mukobwa yamuhaye imbuto nyinshi,amusaba kuzirya akagenda.Mu gihe yazihabwaga,yanze kurya.Umukobwa yumva arababaye.Sa sita zirarenga,saa munani,wa musore asaba amazi.Umukobwa asaba ko yarya ku mbuto,ariko yongeye ku bimusaba mu gihe amasaha arindwi yari ashize isaha yateganijwe igeze.Wa musore yari atsinze ikizami cy'ababyeyi be.
+P9	Umusore aricara arindira ko bamuha umukobwa.
+P10	Ababyeyi biyemeza guha umukobwa wa munebwe.Umukobwa asaba ababyeyi be kumukiza,ariko ntacyo bashoboraga kumukorera.Nkuko uwo musore yamutwaye iwe,yagendaga aririmba indirimbo nziza akoma amashyi.Abantu benshi bateranira ku nkengero z'umuhanda ngo bareba uwo musore n'inkumi.
+P11	Muri abo bantu harimo abagaragu ba cya gikomangoma.Bahamagaye wa musore bamusezeranya amafaranga n'amatungo ngo yemere areke wa mukobwa.Ntiyatindiganyije,yafashe amafaranga n'amatungo arigendera.
+P12	Abagaragu bambika wa mukobwa imyambaro myiza,bamujyana i bwami nyuma y'igihe gito 'ababyeyi ba wa mukobwa baratumirwa,mu birori by'ubukwe bya wa mukobwa wabo.
+
+images:
+
+illustrations/pages/1344.png
+illustrations/pages/1345.png
+illustrations/pages/1344.png
+illustrations/pages/1346.png
+illustrations/pages/1347.png
+illustrations/pages/1348.png
+illustrations/pages/1349.png
+illustrations/pages/1350.png
+illustrations/pages/1351.png
+illustrations/pages/1352.png
+illustrations/pages/1353.png
+illustrations/pages/1354.png
+
+translations:
+
+English (Original)	Fruit	id=2124
+French (Translation)	Les Fruits	id=10182
+Gurene (Translation)	Tiisi Wɔla	id=12666
+Kiswahili (Translation)	Matunda	id=8431
+Likpakpaanl (Translation)	Lisubil	id=18777
+Lugbarati (Translation)	Pati Efi	id=2334
+Lugbarati (Official) (Translation)	Patí Éfɨ́	id=8750
+Lumasaaba (Translation)	Bibyaano	id=3086
+Lumasaaba (Translation)	Bibyaano	id=8688
+Lunyole (Translation)	Ehibala	id=2333
+Rutooro (Translation)	Ekijuma	id=14923
+Siswati (Adaptation)	Sitselo	id=13072

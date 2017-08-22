@@ -1,0 +1,37 @@
+url:	http://africanstorybook.org/reader.php?id=21047&d=0&a=1
+id:	21047
+title:	Agatabo Kange K' Inkuru
+author:	Jean Paul Harelimana
+artist:	Catherine Groenewald
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21047.png
+desc:	Umwana aravuga ku gatabo ke kinkuru yanditse.
+
+page_text:
+
+P1	Ndeba.
+P2	Ndi umukobwa.
+P3	Mfite agatabo gashya k'inkuru.
+P4	Reba agatabo kange gashya k'inkuru.
+P5	Murumuna wange nawe yarebye agatabo kange.
+P6	Musaza wange muto nawe yarebye ako gatabo kange k'inkuru.
+P7	Akunda gusoma agatabo kange k'inkuru.
+P8	Ubu noneho ndimo gusoma agatabo kange k'inkuru.
+
+images:
+
+illustrations/pages/8606.png
+illustrations/pages/8659.png
+illustrations/pages/8664.png
+illustrations/pages/8636.png
+illustrations/pages/8662.png
+illustrations/pages/8666.png
+illustrations/pages/10546.png
+illustrations/pages/19236.png
+illustrations/pages/8636.png
+
+translations:
+
+English (Original)	My Storybook	id=19593

@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=21127&d=0&a=1
+id:	21127
+title:	Panya Na Paka
+author:	Brigid Simiyu
+artist:	Jacob Kono
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21127.png
+desc:	Panya mwenye hekima anatufunza kwamba adui zako wakijifanya kuwa marafiki zako
+
+page_text:
+
+P1	Hapo zamani, paka na panya walikuwa marafiki.
+P2	Muda ulipoendelea, panya walianza kupoteza baadhi ya jamaa zao.
+P3	Panya mzee alisema, “Paka wanatukula.”
+P4	Akina mama waliwaambia watoto wao, “Kuwa waangalifu. Msiende nje.”
+P5	Panya wote walikuwa waangalifu. Waliketi ndani ya mashimo yao.
+P6	Paka wenye njaa waliuliza, “Panya wako wapi?”
+P7	Paka waliamua kuwatembelea panya ili wapange harusi.
+P8	Walisema, “Tungependa binti yenu mmoja aolewe kwa mvulana wetu.”
+P9	Panya waliwaambia paka, “Mnadanganya. Mnataka kutula.”
+P10	Baadaye, walikubali kuwe na harusi kati ya wanao.
+P11	Paka walirudi nyumbani kwa furaha wakilamba midomo yao.
+P12	Siku ya harusi, panya walikuwa waangalifu sana.
+P13	Paka waliwasili wakiimba wimbo wa harusi.
+P14	Wimbo ulisema, “Washikeni muwale.”
+P15	Panya mzee alianza kuimba, “Kimbieni, panya, kimbieni.”
+P16	Panya mzee aliwaambia paka, “Sisi na nyinyi si marafiki.”
+
+images:
+
+illustrations/pages/18908.png
+illustrations/pages/18908.png
+illustrations/pages/18909.png
+illustrations/pages/18910.png
+illustrations/pages/18911.png
+illustrations/pages/18912.png
+illustrations/pages/18913.png
+illustrations/pages/18932.png
+illustrations/pages/18933.png
+illustrations/pages/18934.png
+illustrations/pages/18935.png
+illustrations/pages/18936.png
+illustrations/pages/18937.png
+illustrations/pages/18938.png
+illustrations/pages/18939.png
+illustrations/pages/18940.png
+illustrations/pages/18941.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurreef Hantuuta	id=18943
+Amharic (Translation)	አይጦችና ድመቶች	id=21254
+Ateso (Translation)	Imirio Keda Ikapai	id=21045
+English (Original)	Cats and Mice	id=18942
+English (Adaptation)	Mice And Cats	id=20882
+Kiswahili (Translation)	Paka Na Panya	id=19402
+Kumam (Translation)	Ipusin Kede Iyoono	id=20599
+Lunyole (Translation)	Embeba N'ekapa	id=21030
+Ng’aturkana (Translation)	Ng’Achelerwo Ka Ng’Ipakai	id=21122
+Tigrigna (Translation)	ኣንጭዋን ድሙን	id=21105

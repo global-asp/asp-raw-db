@@ -13,10 +13,11 @@ page_text:
 
 P1	Oscar ran into camp.
 P2	He heard the dog barking and looked.
-P3	'Auwwwhhhh!' Oscar fell back.
-P4	"Father,  help!"
-P5	"A big snake! There. It will bite my brother."
-P6	Oscar's father beat the snake to death.
+P3	The dog had a   s                                n                                  a                                    k                                       e    and was shaking it,   UP        and                  d                     o                         w                            n.
+P4	'Auwwwhhhh!' Oscar fell back.
+P5	"Father,  help!"
+P6	"A big snake! There. It will bite my brother."
+P7	Oscar's father beat the snake to death.
 
 images:
 

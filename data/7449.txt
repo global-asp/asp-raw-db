@@ -19,8 +19,9 @@ P5	Where is it? A a a a! Are you behind the door? No,  you are not behind the do
 P6	Where are you? Are you in the bag? No,  you are not in the bag.
 P7	Are you in the saucepan?No,  you are not in the saucepan.
 P8	Where can you be? In the cupboard?
-P9	Are you under the mat? No,  no.
-P10	In the case,  oh yes. I can see the rat in the case.
+P9	Where,  where? I can not find you.
+P10	Are you under the mat? No,  no.
+P11	In the case,  oh yes. I can see the rat in the case.
 
 images:
 
@@ -38,4 +39,4 @@ illustrations/pages/1561.png
 
 translations:
 
-Lusoga (Translation)	Ensolimo Eli Gha?	id=8172
+Lusoga (Translation)	Ensolimo Oli Igha?	id=8172

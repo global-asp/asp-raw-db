@@ -11,7 +11,7 @@ desc:	Ebei na mhani wa yena va yimele bazi lerikulu ra muhlovo wa wasi ku va rhw
 
 page_text:
 
-P1	Ko va bazi rin'we ntsena emugangeni wa ka va Ebei.    I yikulu naswona i ya muhlovo wa wasi. A yi ba huwa swinene.
+P1	Ko va bazi rin'we ntsena emugangeni wa ka va Ebei. I yikulu naswona i ya muhlovo wa wasi. A yi ba huwa swinene.
 P2	Siku rin'wana,  mhani wa Ebei u te,  "Mundzuku hi ta ya edorobeni ku ya xava yunifomo ya wena ya xikolo."
 P3	Ebei a nyanyukile swinene. A va ta famba hi bazi lerikulu ra muhlovo wa wasi. A nga etlelangi vusiku byebyo.
 P4	Ebei se a ambarile loko mhani wa yena a ta ku ta n'wi pfhuxa.
@@ -19,14 +19,14 @@ P5	Ebei na mhani wa yena va yile evuyimelatibazi. Va yimerile bazi lerikulu ra m
 P6	Vanhu van'wana va fikile evuyimelatibazi. Va vilerile hikuva bazi ri hlwerile. "Xana bazi ri hi siyile?" va vutisa.
 P7	Ebei a vilela. "A hi nga swi koti ku ya edorobeni. A ndzi nga swi koti ku kuma yunifomo ya mina," a ehleketa.
 P8	Van'wana vanhu va lan'wile kutani va tiyela emakaya. Kambe Ebei u ririle naswona a nga lavi ku ya ekaya. Mhani wa yena a n'wi khongotela a ku,  "Hi ta yima nkarhinyana wo leha."
-P9	Hi xihatla,  va twile huwa.    Va vona ritshuri emoyeni. Bazi a yi ri eku teni!
+P9	Hi xihatla, va twile huwa. Va vona ritshuri emoyeni. Bazi a yi ri eku teni!
 P10	Kambe bazi ya kona a yi nga ri ya wasi. A yi ri yikulu. Bazi a yi ri yo tshwuka naswona yitsongo. Vanhu lava a va ri yimile va langutile bazi. A va yi khandziyangi.
-P11	"Nghenani! "Nghenani!" ku huwelela muchayeri.   "Hi hlwerile swinene namuntlha," ku vula muchayeri."
+P11	"Nghenani! Nghenani!" ku huwelela muchayeri. "Hi hlwerile swinene namuntlha," ku vula muchayeri.
 P12	Ebei na mhani wa yena va vile vo sungula ku khandziya. Hi nkarhi wutsongo munhu un'wana na un'wana u nghenile ebazini ro tshwuka ritsongo.
 P13	Ebei u hlometerilr ehandle hi fasitere. U vonile vanhu vo tala evuyimelatibazi.
 P14	Van'wana vanhu vo tala a va ri ku tsutsumeni va hatlisela ku ya khandziya bazi. Kambe va hlwerile swinene. Bazi a ri tele. Bazi ro tshwuka ri sukile ri ya edorobeni.
 P15	"Xana ri kwihi bazi lerikulu ra muhlovo wa wasi?" ku vutisa mhani wa Ebei. "Ri tshovekile," ku hlamula muchayeri. "Hi le ku ri lunghiseni. Ri ta ta mundzuku," ku engetela muchayeri.
-P16	Ebei a nga ri na mhaka na muhlovo wa bazi.     A a nga ri na mhaka na ku kula ka bazi. A a tsakile hikuva bazi a ri ya edorobeni.
+P16	Ebei a nga ri na mhaka na muhlovo wa bazi. A a nga ri na mhaka na ku kula ka bazi. A a tsakile hikuva bazi a ri ya edorobeni.
 
 images:
 
@@ -55,23 +55,28 @@ ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
 CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
 English (Original)	Big Blue Bus	id=12083
 English (Adaptation)	Big Blue Bus	id=13607
+English (Adaptation)	When the (Big Blue) Bus Was Late 	id=20309
 French (Translation)	Le Grand Bus Bleu	id=13271
 IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiNdebele (Translation)	Mhlana Ibhesi Ifika Ngemva Kwesikhathi	id=20828
 isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
 isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
-isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwesibhakabhaka	id=16207
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwe Sibhakabhaka	id=16207
 isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+isiZulu (Translation)	Mzukwana Ibhasi Lifika Emva Kwesikhathi	id=20688
 Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
 Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
 Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
-Lunyole (Translation)	Ebbasi  Embala Eya  Bbulu	id=13438
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbululu	id=13438
 Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
 Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
 Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
 Portuguese (Translation)	Grande Autocarro Azul	id=16097
 Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
 Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Sesotho (South Africa) (Translation)	Ha Bese E Kgolo E Bolou E Siilwe Ke Nako	id=20835
 Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
 Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
 SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Siswati (Translation)	Ibhasi Lenkhulu Leluhlata Kwesibhakabhaka	id=20782
 Tshivenda (Translation)	Bisi Khulwane Dala	id=18286

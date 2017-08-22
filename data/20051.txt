@@ -1,0 +1,104 @@
+url:	http://africanstorybook.org/reader.php?id=20051&d=0&a=1
+id:	20051
+title:	Groot Blou Bus
+author:	Fanie Viljoen
+artist:	Mango Tree
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20051.png
+desc:	Ebei en sy ma wag vir die groot blou bus om hulle stad toe te neem. Maar die blou bus het gebreek. Hoe sal hulle in die stad kom?
+
+page_text:
+
+P1	Daar is net een bus in Ebei se dorpie. Dit is groot en blou. Dit raas baie.
+P2	Eendag sê Ebei se ma, "Môre gaan ons stad toe om jou skoolklere te koop."
+P3	Ebei is baie bly. Hulle sal met die groot blou bus ry.
+
+Daardie aand kan hy glad nie slaap nie.
+P4	Ebei is alreeds aangetrek toe sy ma hom kom wakker maak.
+P5	Ebei en sy ma stap na die bushalte. Hulle wag vir die groot blou bus.
+
+Maar die bus kom nie.
+P6	Ander mense kom wag ook by die bushalte.
+
+Hulle kla omdat die bus laat is. "Het die bus sonder ons vertrek?" vra hulle.
+P7	Ebei is bekommerd.
+
+"Ons sal nie stad toe kan gaan nie. Ek sal nie my skoolklere kry nie," dink hy.
+P8	Party mense gee moed op en gaan huis toe. Maar Ebei huil. Hy wil nie teruggaan nie. Sy ma troos hom. 
+
+"Ons sal ’n rukkie langer wag," sê sy.
+P9	Skielik hoor hulle ’n geraas. Hulle sien stof in die lug.
+
+Die bus is op pad!
+P10	Maar die bus is nie blou nie. Dit is nie groot nie. Die bus is rooi en klein.
+
+Die wagtende mense kyk na die bus. Hulle klim nie in nie.
+P11	"Klim in! Klim in!" roep die bestuurder. "Ons is vandag baie laat," sê hy.
+P12	Ebei en sy ma klim eerste in.
+
+Gou klim die ander mense ook in die klein, rooi bus.
+P13	Ebei kyk deur die venster na buite. Hy sien nog mense by die bushalte.
+P14	Selfs nog meer mense hardloop nader om die bus te haal. Maar hulle is te laat. Die bus is vol.
+
+Die rooi bus vertrek stad toe.
+P15	"Waar is die groot blou bus?" vra Ebei se ma.
+
+"Dit het gebreek," antwoord die bestuurder. "Ons maak dit reg. Dit sal môre weer kom," voeg hy by.
+P16	Ebei gee nie om watter kleur die bus is nie. Hy gee nie om hoe groot die bus is nie.
+
+Hy is net bly, want hierdie bus gaan stad toe.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	Big Blue Bus	id=13607
+English (Adaptation)	When the (Big Blue) Bus Was Late 	id=20309
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+isiNdebele (Translation)	Mhlana Ibhesi Ifika Ngemva Kwesikhathi	id=20828
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi Enkulu Ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwe Sibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi Elikhulu Eliluhlaza	id=17335
+isiZulu (Translation)	Mzukwana Ibhasi Lifika Emva Kwesikhathi	id=20688
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi Kubwa La Bluu	id=12428
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbululu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese E E Kgolo E Mmala Wa Botala Ba Lehodimo 	id=20023
+Sesotho (South Africa) (Translation)	Ha Bese E Kgolo E Bolou E Siilwe Ke Nako	id=20835
+Setswana (Translation)	Bese E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=16588
+Setswana (Translation)	Bese E E Kgolo Ya Mmala Wa Botala Jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Siswati (Translation)	Ibhasi Lenkhulu Leluhlata Kwesibhakabhaka	id=20782
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

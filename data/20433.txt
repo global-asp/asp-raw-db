@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20433&d=0&a=1
+id:	20433
+title:	Ni Kazi Gani Iliyo Muhimu Zaidi?
+author:	Brigid Simiyu
+artist:	Gill Bond and Neo
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20433.png
+desc:	Je
+
+page_text:
+
+P1	Watu hawa wanatofautiana miongoni mwao.
+P2	“Walimu ni muhimu zaidi.  Mnatuhitaji sisi kujifunza,” mawalimu anasema.
+P3	“Wajenzi ni muhimu. Mnahitaji nyumba,” mjenzi anasema.
+P4	“Seremala ni muhimu zaidi. Mnahitaji samani.”
+P5	“Madaktari ni muhimu zaidi. Mnatuhitaji ili kupona.”
+P6	“Wakulima ni muhimu zaidi. Mnatuhitaji kwa chakula.”
+P7	“Wanafunzi ni muhimu zaidi!” Mwanafunzi anasema.
+P8	“Nyote mlikuwa wanafunzi kwanza!”  Wote wanakubaliana.
+
+images:
+
+illustrations/pages/10274.png
+illustrations/pages/10274.png
+illustrations/pages/10278.png
+illustrations/pages/10276.png
+illustrations/pages/10279.png
+illustrations/pages/10277.png
+illustrations/pages/10275.png
+illustrations/pages/10280.png
+illustrations/pages/10281.png
+
+translations:
+
+Afaan Oromo (Translation)	Hojii Isaa Kamtuu Barbaachisadha?	id=20430
+Amharic (Translation)	የትኛው ስራ ይበልጣል?	id=20501
+English (Original)	Disagreement Among Occupations	id=10537
+English (Adaptation)	Which Work Is The Most Important?	id=19761
+French (Translation)	Un Désaccord Sur L’Importance De Divers Emplois	id=13159
+isiZulu (Translation)	Ukuphikisana Ngemisebenzi Eyahlukene	id=15441
+isiZulu (Translation)	Yimuphi  Umsebenzi Obaluleke Kakhulu?	id=20681
+Lusoga (Translation)	Mulimo Ki Ogusinga?	id=20397
+Ng’aturkana (Translation)	Etich Ali Ejok Noi?	id=20412
+Portuguese (Translation)	Desentendimento Entre Profissões	id=16413
+Setswana (Translation)	Ke Tiro Efe E E Botlhokwa Go Feta?	id=21162

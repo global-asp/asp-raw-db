@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=20434&d=0&a=1
+id:	20434
+title:	Chura Na Nyoka
+author:	Brigid Simiyu
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20434.png
+desc:	Kupitia hadithi hii
+
+page_text:
+
+P1	Chura na Nyoka ni marafiki.
+P2	Chura anasema, “Njoo nami tumtembelea mamangu.”
+P3	“Asante. Nani atachunga makao yetu?” Nyoka anajibu.
+P4	“Nitachunga makao yenu,” Kima anasema.
+P5	Chura anaweka mchwa katika mkoba kumpelekea mamake.
+P6	Chura na Nyoka wanaondoka asubuhi.  Wanaingia msituni.
+P7	Wanakuta genge la kindi. Nyoka anaogopa.
+P8	Chura anamlinda rafiki yake.
+P9	Wanahisi njaa sana wanapofika kwa Mamake.
+P10	Wanaoga na kujitayarisha kwa chakula.
+P11	“Tafadhali Nyoka, keti wima,” Chura anasema.
+P12	Nyoka anajaribu kuketi wima, lakini yeye si chura.
+P13	“Siwezi kuketi wima kama chura,” Nyoka anasema.
+P14	Chura hamsikilizi.
+P15	“Hunielewi. Ninaenda zangu nyumbani.”
+P16	Nyoka amekasirika. “Nilidhani Chura ni rafiki yangu.”
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog And Snake	id=19762
+isiZulu (Translation)	Uxoxo Nonyoka	id=20718
+Kinyarwanda (Translation)	Inzoka N' Igikeri	id=20763
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere Ni Wamusota	id=20398
+Lusoga (Translation)	Akalenga N’Omusta	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Setswana (Translation)	Segwagwa Le Noga	id=21160

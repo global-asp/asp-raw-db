@@ -1,0 +1,78 @@
+url:	http://africanstorybook.org/reader.php?id=20110&d=0&a=1
+id:	20110
+title:	Zɔadima
+author:	R.Y. Tongo and J. Salifu  (OLE Ghana)
+artist:	Catherine Groenewald
+lang:	Mampruli
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20110.png
+desc:	Bidbla ni u zɔadima
+
+page_text:
+
+P1	N-yuuri Danaa.
+P2	M-malla zoadim banaasi.
+P3	Ba yuya n boni Tidow, Napari, Adam ni Dokurugu.
+P4	N zoa Tidow wurila boali ŋmebu.
+P5	N zoa Napari wuri la kodugri.
+P6	N zoa Adam wurila soai soai ya.
+P7	N zoa Dakurugu wurila karinŋu.
+P8	Mani? M wurila ban boori bunsesi maa zaa.
+P9	N ŋmerila boali ni Tidow.
+P10	N dugri koom ni Napari.
+P11	N deeni soai soai ya ni Adam.
+P12	Chamna, n zoa, boa ka i bora.
+P13	Chamna n ŋme boali ni mani.
+P14	Chamna n ŋme boali ni tirima.
+P15	Chamna n dugi koom ni tirima.
+P16	Chamna n kaim ni tirima.
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Talen (Translation)	Zɔnam	id=20192
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Aṣħāb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

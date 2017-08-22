@@ -1,0 +1,91 @@
+url:	http://africanstorybook.org/reader.php?id=20923&d=0&a=1
+id:	20923
+title:	Kaze Nja Ni Mbola
+author:	Lusaka Teachers
+artist:	Elke and René Leisink
+lang:	SiLozi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20923.png
+desc:	Kaze ni nja nezilaha mbola. Mbola ifa situwa sa ndu.
+
+page_text:
+
+P1	Ye ki Kaze.
+
+Ye ki Nja.
+P2	Kaze ni Nja zi pila mwandu yenani sikwalo ni situwa.
+P3	Kaze ni Nja nezinani mbola.
+
+Mbola yene inani mibala yemifibidu, ya butala niya mbundu.
+P4	Kaze ni Nja nezilaha mbola.
+
+Kaze ayumbela mbola ku Nja.
+
+Nja yaswala.
+
+Nja niyona yayumbela mbola ku Kaze.
+
+Kaze niyena yaswala.
+P5	Cwale Kaze ayumbela mbola mwahalimu hahulu.
+
+Eshee! Eshee!
+P6	Mbola ifa situwa sa ndu.
+
+Mbola yawela fa situwa sa ndu.
+P7	Kaze ni Nja zakona kubona mbola.
+
+Kaze ni nja zapalelwa kunga mbola.
+P8	Kaze ni nja zalila.
+
+Kono Tou ataha kubona.
+P9	Tou kiye tuna.
+
+Tou yajona kubona mbola.
+
+Tou ya kona kunga mbola.
+
+Tou anga mbola fa situwa.
+
+Tou anga mbola fa situwa sa ndu.
+P10	Tou afa mbola ku Kaze ni Nja.
+
+Kaze bi Nja zamenya. Tou niyona ya menya.
+
+Kaze ni Nja ni Tou zamenya.
+P11	Kaze Nja ni Tou za bapala mbola hamoho.
+
+Kaze ayumbela mbola ku Nja. Nja yaswala.
+
+Nja yayumbela mbola ku Tou. Tou yaswala.
+
+Tou yayumbela mbola ku Kaze. Kaze yaswala.
+P12	Uyisala foo Kaze.
+
+Uyisala foo Nja.
+
+Uyisale foo Tou.
+P13	Biblionef
+
+images:
+
+illustrations/pages/18630.png
+illustrations/pages/18631.png
+illustrations/pages/18632.png
+illustrations/pages/18633.png
+illustrations/pages/18634.png
+illustrations/pages/18635.png
+illustrations/pages/18636.png
+illustrations/pages/18637.png
+illustrations/pages/18638.png
+illustrations/pages/18639.png
+illustrations/pages/18640.png
+illustrations/pages/18641.png
+illustrations/pages/18642.png
+illustrations/pages/18782.png
+
+translations:
+
+CiNyanja (Translation)	Cona Galu Ndi Mpira	id=20772
+English (Original)	Cat and Dog and the Ball	id=20148
+Kinyarwanda (Translation)	Injangwe, Imbwa N' Umupira	id=20686

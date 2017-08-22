@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=20785&d=0&a=1
+id:	20785
+title:	Ilanga Lamabeletho Likalynne 
+author:	Phephelaphi Mnguni
+artist:	Marleen Visser
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20785.png
+desc:	ULynne wenze umsenenzi omnengi ukulungisa izinto zomnyanya welanga lakhe lamabeletho
+
+page_text:
+
+P1	ULynne, ubamkhulu uKareli no-Antoni bebabuthelela izinto balungiselela ilanga likaLynne lamabeletho.
+P2	U-Antoni noLynne bazokubhaga ikhekhe. Ubamkhulu uKareli uzokufunda iresebhe.
+P3	"Asihlanganiseleni umvango lo ngesitjeni esikhulu," kutjho uLynne.
+P4	U-Antoni ubonda umvango wenza ubutjhapha obukhulu.
+P5	"Ikhekhe leli silibudisi kwanjesi," kutjho ubamkhulu uKareli.
+P6	"Abangani benu sebafikile," kutjho ubamkhulu uKareli.
+P7	U-Antoni bekacabanga bonyana isipho sokuthoma sizokuba bodisi ngombana besibonakala sisikhulu.
+P8	Bekusisipho somsamela begodu besinobudisi obuncani.
+P9	U-Antoni bekacabanga bonyana isipho esilandelako sizokuba lula ngombana besibonakala sisincani.
+P10	Bekulilitje elipendiweko begodu besinobudisi obukhulu.
+P11	Abentwana bathi khilogramu eli-1 lelitje linobudisi obulinganako nekhilogramu eli-1 leensiba.
+P12	Ikhekhe likaLynne latjha.
+P13	ULynne bekangakathabi.
+P14	Ukgari uMavis wabawa u-Antoni kobana afunisele kobana isipho sakhe besinobudisi obungangani.
+P15	U-Antoni wathi, "Sinobudisi obulingana nekhekhe elitjhileko."
+P16	Abantu boke bathi, "langelihle lamabeletho Lynne."
+
+images:
+
+illustrations/pages/18612.png
+illustrations/pages/18613.png
+illustrations/pages/18599.png
+illustrations/pages/18600.png
+illustrations/pages/18601.png
+illustrations/pages/18602.png
+illustrations/pages/18603.png
+illustrations/pages/18604.png
+illustrations/pages/18605.png
+illustrations/pages/18606.png
+illustrations/pages/18607.png
+illustrations/pages/18608.png
+illustrations/pages/18609.png
+illustrations/pages/18610.png
+illustrations/pages/18611.png
+illustrations/pages/18598.png
+illustrations/pages/18612.png
+
+translations:
+
+English (Original)	Lynne's Birthday Surprise	id=20158
+English (Adaptation)	Lynne's Birthday Surprise	id=20159
+English (Adaptation)	Lynne's Birthday Surprise (Colour-In)	id=20160
+isiZulu (Translation)	Usuku Luka Lynne Lokuzalwa 	id=20589
+Lusoga (Translation)	Amazaalibwa Ga Alyana	id=21444
+Sesotho (South Africa) (Translation)	Tshohanyetso Ya Letsatsi La Tswalo La Lynne  	id=20833
+Siswati (Translation)	Simangaliso Selusuku Lwekutalwa Kwalynne 	id=20780

@@ -1,9 +1,9 @@
 url:	http://africanstorybook.org/reader.php?id=18285&d=0&a=1
 id:	18285
 title:	Maguru U Ṋekedza Milenzhe
-author:	Maphaha Tshimangadzo Nelson Maphaha Tshimangadzo Nelson
-artist:	Wiehan de Jager Wiehan de Jager
-lang:	TshivendaTshivenda
+author:	Maphaha Tshimangadzo Nelson
+artist:	Wiehan de Jager
+lang:	Tshivenda
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/18285.png
@@ -30,7 +30,6 @@ P16	Maguru a bvela nnḓa ari,  "Pfarelo,  Ṋowa,  a hu na milenzhe yo salaho."
 
 images:
 
-illustrations/pages/2685.png
 illustrations/pages/13910.png
 illustrations/pages/13904.png
 illustrations/pages/13905.png
@@ -51,18 +50,25 @@ illustrations/pages/13919.png
 
 translations:
 
+Afrikaans (Translation)	Maguru Deel Bene Uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
 ChiTonga (Translation)	Maguru Upa Maulu	id=18649
 CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
 English (Original)	Maguru Gives Legs	id=14415
+English (Adaptation)	Animals Get Legs	id=20884
+Hausa (Nigeria) (Translation)	Dabbobi Sun Samu Kafafu	id=21315
 IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
 isiXhosa (Translation)	Umaguru Uphisa Ngemilenze	id=17576
 isiZulu (Translation)	Umaguru Uphisana Ngemilenze	id=16360
 isiZulu (Adaptation)	Umveli Unikela Ngemilenze	id=17461
 Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
 Kiswahili (Translation)	Maguru Apatiana Miguu	id=14412
+Kiswahili (Translation)	Wanyama Wapata Miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
 Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
 Sesotho (South Africa) (Translation)	Maguru O Fana Ka Maoto	id=20037
-Sesotho (South Africa) (Translation)	Maguru Deel Bene Uit	id=20083
 Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
 SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
-Xitsonga (Translation)	Maguru a Phakela Milenge	id=18870
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Xitsonga (Translation)	Maguru A Phakela Milenge	id=18870

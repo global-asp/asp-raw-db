@@ -4,21 +4,21 @@ title:	Ho Bala
 author:	Khothatso Ranoosi and Marion Drew
 artist:	Gay Galsworthy
 lang:	Sesotho (Lesotho)
-level:	First words
+level:	First sentences
 lic:	Creative Commons: Attribution-Non Commercial 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/1958.png
 desc:	In the wild at a waterhole we count the animals coming to drink. What do you think happens when the lion comes to drink?
 
 page_text:
 
-P1	Ka letsatsi le leng tlou engoe eile ea ea ho oa noa metsi.
-P2	Eaba ho ba le giraffe tse peli li eo noa metsi le tsona.
-P3	Ho ne ho ena le tse tharo tse tona le linonyana tse'ne. Kaofela hoa tsona line line linoa metsi.
-P4	Likhants'i tse hlano le likolobe tse ts'eletseng line li eo noa metsi.
-P5	Linqankane tse suping le lithlapi tse robeli line lile ka metsing.
-P6	Li Qoakha tse robong line lilo noa mestsi.
-P7	Tau e'nogoe ea kena hoea noa metsi.
-P8	Ke mang ea senatla se seholo,  aka tsoelang pele ka ho noa metsie?
+P1	Ka letsatsi le leng tlou engoe ea honoa metsi.
+P2	Eaba ho ba le lithuhlo tse peli li lo noa metsi le tsona.
+P3	Ho ne ho ena le tse tharo tse tona le linonyana tse 'ne. Kaofela hoa tsona line linoa metsi.
+P4	Likhants'i tse hlano le likolobe tse ts'eletseng line li lo noa metsi.
+P5	Linqankane tse supileng le lithlapi tse robeli, line lile ka metsing.
+P6	Li Qoakha tse robong line lilonoa metsi.
+P7	Tau e le 'ngoe ea lonoa metsi.
+P8	Ke mang ea senatla se seholo,  aka tsoelang pele ka ho noa metsi?
 
 images:
 
@@ -45,3 +45,4 @@ Lunyole (Translation)	Ohubala	id=1954
 Lusoga (Translation)	Tubala Bazira	id=1955
 Sepedi (Translation)	Go Bala	id=1956
 Setswana (Translation)	Go Bala	id=2807
+Talen (Translation)	Kaalog	id=20178

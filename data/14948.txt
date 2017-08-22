@@ -11,6 +11,15 @@ desc:	I know how to play the teacher. What can you do?
 
 page_text:
 
+P1	My teacher walks with big steps. I know how to walk like the teacher.
+P2	The teacher sings hymns in order. I know how to sing hymns like the teacher.
+P3	The teacher rings the bell for children to enter the classroom. I can ring the bell like the teacher.
+P4	The teacher reads books aloud. I can read aloud like the teacher.
+P5	The teacher writes on the board. I can write on the board like the teacher.
+P6	The teacher points to our province on a map. I know how to point to the map like the teacher.
+P7	The teacher talks to the other teachers. I know how to talk like the teacher.
+P8	The teacher cleans the classroom every day. I know how to clean the classroom like the teacher.
+P9	I can do almost everything that the teacher does. When I grow up I will be a teacher!
 
 images:
 

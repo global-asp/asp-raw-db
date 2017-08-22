@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=21194&d=0&a=1
+id:	21194
+title:	ዘይምምእዛዝ
+author:	Angish Abay
+artist:	Marion Drew
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21194.png
+desc:	ሓንቲ ደረቐኛ ሓሰማ ንሓንቲ ሓረስተይቲ ኣይምእዘዝን ኢላ ኣበየታ። ኣብ መወዳእታ ግን መዘዙ ፈሪሓ ዝትኣዘዘቶ ፈፀመት።
+
+page_text:
+
+P1	ናይ እንስሳታት ናይ ድቃስ ስዓት እዩ ነይሩ። ሓንቲ ዘይምእዝዝቲ እንስሳ ግን ኣይድቅስን ኢላ ኣበየት።
+P2	እታ ሓረስተይቲ ንሓሰማ ናብ ደንበኺ እተዊ በለታ። ንሳ እምቢ በለት።
+P3	እታ ሓረስተይቲ ንትኣማኒ ኩርማጅ ግረፋ በለቶ። ኩርማጅ እምቢ በለ።
+P4	ቁጡዕ ሓዊ ንትኣማኒ ኩርማጅ ኣየቃፅሎን በለ።
+P5	ፅሩይ ማይ ንቑጡዕ ሓዊ ኣየጥፍኦን በለ።
+P6	እታ ሓረስተይቲ ንተሓላቢት ላሕሚ ንፅሩይ ማይ ስተይዮ በለታ።
+P7	ተሓላቢት ላሕሚ  “ነቲ ማይ ክሰትዮ እየ። ፀሚኡኒ እዩ” በለት።
+P8	ፅሩይ ማይ  “ከይትሰትይኒ። ንሓዊ ከጥፍኦ እየ” በለ።
+P9	ቑጡዕ ሓዊ  “ግደፍ፤ ንትኣማኒ ኩርማጅ ከቃፅሎ እየ ” በለ።
+P10	ተኣማኒ ኩርማጅ  “በጃኻ ከይተቃፅለኒ። ንሓሰማ ክገርፋ እየ” ኢሉ በኸየ።
+P11	ሓሰማ ሓሪቓ “እሺ፣ ንደምበይ ክኣቱ እየ ” በለት።
+P12	ሓሰማ ኣብ ደምብኣ ኣትያ ደቀሰት።
+
+images:
+
+illustrations/pages/18310.png
+illustrations/pages/18306.png
+illustrations/pages/18307.png
+illustrations/pages/18308.png
+illustrations/pages/18309.png
+illustrations/pages/18310.png
+illustrations/pages/18311.png
+illustrations/pages/18312.png
+illustrations/pages/18313.png
+illustrations/pages/18314.png
+illustrations/pages/18315.png
+illustrations/pages/18316.png
+illustrations/pages/18317.png
+
+translations:
+
+English (Translation)	Pig That Wouldn't Listen	id=19470
+English (Adaptation)	Disobedience!	id=20907
+isiZulu (Original)	Ingulube Eyayingafuni Ukungena Egoqweni	id=19469
+Kiswahili (Translation)	Kutotii!	id=21149

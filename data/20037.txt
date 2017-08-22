@@ -34,14 +34,14 @@ P7	Phoofolo e nngwe le e nngwe e ile ya fuwa maoto a mane.
 Dinonyana di ile tsa fuwa maoto a mabedi nonyana ka nngwe.
 P8	Diphoofolo di ne di bonahala di sa tlwaeleha ha di na le maoto.
 
-Tse ding  tsa tantsha ka thabo. The ding di ne di na le bothata ho tsamaya ebile di wela fatshe.
+Tse ding  tsa tantsha ka thabo. Tse ding di ne di na le bothata ho tsamaya ebile di wela fatshe.
 P9	Di ne di tsamaya motseng di ikonkela batho.
 
 Diphoofolo tsohle tsa re, "Re ke ke ra hlola re hosha hape."
 P10	Phoofolo ya ho qetela moleng e ne e le lefokolodi. Maguru a botsa, "Ebe ho na le e mong ka mora hao?"
 
 "Tjhe, ke nna wa ho qetela," ha araba Lefokolodi.
-P11	Maguru o ne a nahana, "Ebang ho se e mong hape, ke tla etsa jwang ka maoto aa?”
+P11	Maguru o ne a nahana, "Ebang ho se e mong hape, ke tla etsa jwang ka maoto aa?"
 
 Maguru a fa Lefokolodi  maoto ohle a setseng.
 P12	Lefokolodi a tsamaya a thabile haholo hobane a ne a na le maoto a mangata.
@@ -82,18 +82,25 @@ illustrations/pages/13919.png
 
 translations:
 
+Afrikaans (Translation)	Maguru Deel Bene Uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
 ChiTonga (Translation)	Maguru Upa Maulu	id=18649
 CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
 English (Original)	Maguru Gives Legs	id=14415
+English (Adaptation)	Animals Get Legs	id=20884
+Hausa (Nigeria) (Translation)	Dabbobi Sun Samu Kafafu	id=21315
 IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
 isiXhosa (Translation)	Umaguru Uphisa Ngemilenze	id=17576
 isiZulu (Translation)	Umaguru Uphisana Ngemilenze	id=16360
 isiZulu (Adaptation)	Umveli Unikela Ngemilenze	id=17461
 Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
 Kiswahili (Translation)	Maguru Apatiana Miguu	id=14412
+Kiswahili (Translation)	Wanyama Wapata Miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
 Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
-Sesotho (South Africa) (Translation)	Maguru Deel Bene Uit	id=20083
 Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
 SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
 Tshivenda (Translation)	Maguru U Ṋekedza Milenzhe	id=18285
-Xitsonga (Translation)	Maguru a Phakela Milenge	id=18870
+Xitsonga (Translation)	Maguru A Phakela Milenge	id=18870

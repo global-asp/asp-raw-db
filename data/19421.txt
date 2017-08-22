@@ -1,13 +1,13 @@
 url:	http://africanstorybook.org/reader.php?id=19421&d=0&a=1
 id:	19421
 title:	Counting Cabbages
-author:	Penny Smith
+author:	Penelope Smith
 artist:	Magriet Brink
 lang:	English
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19421.png
-desc:	A maths story about counting and sharing. (This storybook was made possible by funding from the Oppenheimer Memorial Trust.)
+desc:	A maths story about counting and sharing. (This storybook was made possible by funding from the Oppenheimer Memorial Trust.).
 
 page_text:
 
@@ -19,11 +19,11 @@ P5	Soon the children have filled 20 boxes. "Good work!" exclaims Mama K. "Look, 
 P6	The next job is to write the price on each box and then help Baba K load the boxes on his truck. They must put half the boxes on one side of the truck and half on the other side,  to balance the load.
 P7	"We're almost done!" says Baba K. "Let's see,  how many more boxes we must still put on each side?"
 P8	Soon all 20 boxes are loaded onto the truck. Baba K warms up the engine and drives off to market. "If I can sell all the boxes," he thinks to himself,  "I'll have enough money to fix the pig pen and get a surprise for the children!"
-P9	Back at the farm,  Mama K and the children water plants and rake leaves. By twelve o'clock they are all tired. Mama K tells them,  "It's time for your treat. Can you guess what it I have for you today?"
+P9	Back at the farm,  Mama K and the children water plants and rake leaves. By twelve o'clock they are all tired. Mama K tells them,  "It's time for your treat. Can you guess what I have for you today?"
 P10	She goes inside to fetch their surprise. The children wait patiently for her to return while they guess what she might bring them. When she comes down the path her apron pockets are bulging!
-P11	"Let's see if you guessed right! What's in store for you today?" Mama K tips out her apron pockets and a pile of yellow apples falls onto the table. "See,  I was right!" Duksie squeals. Mama K tells the children,  "Now remember the rule. Share fair! No one to get more or less than the other!"
-P12	First the children count the apples in 2s. The count: 2,  4,  6,  8,  10,  12,  14,  16,  and 1 apple over,  equals 17 apples altogether.
-P13	Next,  they share out the apples equally. There are 2 apples left over. The children then put their apples in their bags to take home with them.
+P11	"Let's see if you guessed right! What's in store for you today?" Mama K tips out her apron pockets and a pile of apples falls onto the table. "See,  I was right!" Duksie squeals. Mama K tells the children,  "Now remember the rule. Share fair! No one to get more or less than the other!"
+P12	First the children count the apples in 2s. They count: 2,  4,  6,  8,  10,  12,  14,  16,  and 1 apple over.  Equals 17 apples altogether.
+P13	Next,  they share out the apples equally. There are 2 apples left over. The children then put their apples in their bags to take home.
 P14	"Let's cut the 2 apples to share between us," suggests Duksie. "How many parts of the apple will we each get?" asks Maya. "I know the answer!" smiles Doobie.
 P15	Just then Baba K arrives home from market. The truck is empty and Baba K is smiling. "I sold all the cabbages. Now I can fix the pig pen and buy you that soccer ball you wanted.  "Yay!" shout the children."
 
@@ -51,3 +51,4 @@ translations:
 
 English (Adaptation)	Counting Cabbages	id=19454
 isiZulu (Translation)	Siyakwazi Ukubala	id=19437
+Rufumbira (Translation)	Kubala Imboga	id=20745

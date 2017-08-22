@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=21077&d=0&a=1
+id:	21077
+title:	Ani Afuka Kubuliri?
+author:	Stellah Nakasango
+artist:	Rob Owen, Felicity Bell, Jesse Breytenbach and Melany Pietersen
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21077.png
+desc:	Omuwaala afuka kubuliri naye aba awayiriza mutoowe Anna. Lumu mama we yasula na Anna namuleka yeka kinti kyekimu nekibaawo.
+
+page_text:
+
+P1	Buzibwe neera era bukutte.
+P2	wemaala okulya geenga mu buliri ne mutoo wange Anna.
+P3	Ntya nyoo lwakuba bulikiro nfuuka kubuliri.
+P4	Buli wendoota, nzukuka nfuuse kubuliri.
+P5	Mumangu ago nva mukifo kyange nenebaka ewa Anna.
+P6	Kumakya, nzukuka nazukuka mangu ne ndeka Anna mubuliri.
+P7	Maama wabuuza ani eya fuuse kubuliri, ngamba nti Anna.
+P8	Olwadako maama yasalawo okusula ne Anna mu buliiri bwe.
+P9	Ekyembi, kinti kye kimu ekyabaawo.
+P10	Maama nakizuula nti Anna ta fuka kubuliiri.
+
+images:
+
+illustrations/pages/9392.png
+illustrations/pages/8559.png
+illustrations/pages/9844.png
+illustrations/pages/9499.png
+illustrations/pages/9500.png
+illustrations/pages/9145.png
+illustrations/pages/9502.png
+illustrations/pages/9496.png
+illustrations/pages/9486.png
+illustrations/pages/9392.png
+illustrations/pages/9488.png
+
+translations:
+
+Acholi (Translation)	Nga Ma Olayo I Ot?	id=20664
+English (Original)	Who Wet the Bed?	id=10359

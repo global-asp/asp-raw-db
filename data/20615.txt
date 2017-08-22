@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=20615&d=0&a=1
+id:	20615
+title:	Umuseza  Ukafayo Da
+author:	Robina Wanyenze
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Lumasaaba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20615.png
+desc:	Umuseza ukafay da kabika bidio belayi
+
+page_text:
+
+P1	Aba kaleko ni kale  abawo umuseza nga bamulanga bati Joel muchalo che Aya
+P2	Abaa kafayo kubika bidiao kudia mumoni nda nga  abusanga busa.
+P3	kawo chisi asigasako muchitala nda
+P4	kasoli ensi efunyenga oma
+P5	ebewo yegumunyengasa yawuza  chitala ansi
+P6	baana balwanila bidio bidabi bisigala musepichi
+P7	maayi agona ansi nga alilira bensi anawa baana bewe muludu gwilako
+P8	baaba ekala kwigindini nga alowoza beiamumoni
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

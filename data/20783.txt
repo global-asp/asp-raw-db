@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=20783&d=0&a=1
+id:	20783
+title:	Indatjana Kajojo Ede
+author:	Phephelaphi Mnguni
+artist:	Marleen Visser
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20783.png
+desc:	Ikosi yalahlekelwa liphondo layo ebelikhethekileko
+
+page_text:
+
+P1	"Nginekinga ekulu," kulila iKosi eFitjhani begodu eBanzi.
+P2	"Ngilahlekelwe liphondo lami," kutjho iKosi eFitjhani neBanzi.
+P3	"Ngizolithola iphondo lakho," kutjho uJojo. "Ngiyolifuna ngendlini kababa uRekhthengele."
+P4	UJojo nobaba uRekhthengele bafuna yoke indawo kodwana azange balithole iphondo.
+P5	"Khamba uyokuqala bonyana umma uNcantathu akanalo iphondo," kutjho ubaba uRekhthengele.
+P6	UJojo wadlula endlini yakhe ukuyokuthela amanzi amakhaza.
+P7	UJojo wavakatjhela uDudu Dayimani wambawa bonyana akhambe naye.
+P8	"Akusikho kude kodwana ngizokupaka ukudla esizokukhamba nakho," kutjho uDudu.
+P9	UDudu noJojo bajama ngaphasi kwentaba uncantathu bonyana badle bebaphumule.
+P10	Bathe lokha nebaphakathi nendawo basiya phezulu kwentaba, babona ubulwembu obumangazako besiswebu.
+P11	UDudu noJojo bafika endlini kamma uNcantathu.
+P12	"IKosi azange itjhiye iphondo layo lapha," kutjho umma uNcantathu.
+P13	Umma uNcantathu bekasazi bonyana bangalithola kuphi iphondo.
+P14	Besele kusentambama lokha nabafika endini yeKosi eFitjhani neBanzi.
+P15	Umma uNcantathu wakhomba ikosi. "Nanto iphondo lakho ehloko."
+P16	UKosi uMfitjhani neBanzi wanikela uJojo iphondo bonyana alivuthele. Bebathabe khulu.
+
+images:
+
+illustrations/pages/19917.png
+illustrations/pages/19902.png
+illustrations/pages/19903.png
+illustrations/pages/19904.png
+illustrations/pages/19905.png
+illustrations/pages/19906.png
+illustrations/pages/19907.png
+illustrations/pages/19908.png
+illustrations/pages/19909.png
+illustrations/pages/19910.png
+illustrations/pages/19911.png
+illustrations/pages/19912.png
+illustrations/pages/19913.png
+illustrations/pages/19914.png
+illustrations/pages/19915.png
+illustrations/pages/19916.png
+illustrations/pages/19917.png
+
+translations:
+
+English (Original)	Little Jojo's Long Tall Tale	id=19923
+English (Adaptation)	Little Jojo's Long Tall Tale	id=20147
+isiZulu (Translation)	Indaba Ka Jojo Omncane	id=20588
+Sesotho (South Africa) (Translation)	Pale Ya Jojo E Monyenyane E Telele Ya Maiqape	id=20830
+Siswati (Translation)	Indzaba Lendze Yajojo Lomncane 	id=20778

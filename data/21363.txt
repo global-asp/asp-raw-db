@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=21363&d=0&a=1
+id:	21363
+title:	Muna Iya Kirga Kyanwoyinmu
+author:	Aisha Muhammad
+artist:	Jesse Breytenbach and Jesse Pietersen
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21363.png
+desc:	Littafin yin kidaya
+
+page_text:
+
+P1	Kyanwa nawa ne? babu kyanwa ko guda. Ba kyanwa
+P2	Kyanwa nawa ne? Kyanwa daya ce. Bakar kyanwa na iya cin jan nama.
+P3	Kyanwa nawa ne? Kyanwa biyu ne. Fara da ruwan toka. Farar kyanwa da ruwan toka suke wasa a cikin furanni da kuma kan dabe.
+P4	Kyanwa nawa ne? Kyanwa uku. Toka-toka, madara-madara dabbare-dabbare. Suna wasa sama da kasa kan bango.
+P5	Kyanwa nawa ne? Kyanwa hudu. Kyanwa hudu abokan Paul ne.
+P6	Kyanwa nawa ne? Kyanwa biyar. Kyanwa biyar na ta wasan kai-kawo a dakin hutawa. Ina son haka
+P7	Kyanwa nawa ne? Kyanwa shida. Kyanwa shida suna iya zama tare su kalli fim
+P8	Kyanwa nawa ne? Kyanwa bakwai. Kyanwa bakwai na wasa a tsakar gida.
+P9	Kyanwa nawa ne? Kyanwa takwas. Kyanwa basa son karnuka.
+P10	'Yar kyanwa ta makale a kan bishiya! Paul ya ce "zan ceto ki".
+P11	"inna ko mu ajiye shi? saura daya tal". Kyanwa nawa ne? Inna tace kyanwa tara sun yi yawa.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/13388.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+English (Adaptation)	Can We Count Our Cats?	id=13562

@@ -18,9 +18,10 @@ P4	Aliyefuata alikuwa kiongozi wa wafugaji wanyama. Yeye pia alikuwa na sura nzu
 P5	Aliyekuwa wa tatu kufuata akawa tajiri wa ardhi. Alikuwa jeuri na mwenye sura mbaya. Msichana akaomba Mungu ale upesi aende zake. Alipoandaliwa akakataa kula. Wakati ukapita msichana naye akamwomba ale. Ilipofika saa kumi ya mchana njaa ikaanza kuumiza akala. Yeye pia akaagwa aende zake.
 P6	Halafu akaja mtemi,  mtu mlaji rushwa,  hana adabu,  mzee mwenye sura mbaya. Hakupendwa na yeyote kijijini. Msichana alitumaini angekula moja kwa moja na kwenda zake. Alipoandaliwa matunda akakataa kula. Alikaa siku nzima,  ilipofika saa kumi na mbili ya jioni aliomba haja akakubaliwa. Aliporudi,  alinukia matunda huku midomo yake rangi nyekundu! Msichana alifarijika mtemi akaagwa na kwenda zake.
 P7	Siku chache zilipita mwanamfalme,  kijana,  tajiri,  mwenye sura ya kupendeza akafika. Msichana akamtazama akapendezwa mno akamheshimu. Naye yeye akamwongoza mwanamfalme faraghani akamwomba asile. Akamwandalia uhaba wa matunda kasoro sana na kiasi walichoandaliwa wale waliomtangulia. Lakini mpaka saa za adhuhuri mwanamfalme alikuwa amekwisha kula akaagwa kwenda zake. Msichana masikini akalia machozi ya hasira na hasara.
-P8	Wazazi wake msichana walikuwa hawana budi kumkubali "yule mvivu." Msichana naye aliombaomba anusurike na jaala yake lakini wazazi hawakuweza kumsaidia. Walipokuwa njiani kwenda kwao nyumbani,  mkulima alipiga makofi akiimba wimbo mzuri kiasi kuwavutia watu wawafuate barabarani.
-P9	Miongoni mwa watu wale walikuwa watumishi wa mwanamfalme. Walimwita mkulima wakamhonga na pesa pamoja na ng'ombe akikubali kumwachia msichana. Bila ya kusita hata kwa dakika moja akakubali pesa pamoja na ng'ombe akaenda zake peke yake.
-P10	Watumishi wale walimvalisha msichana katika libasi murua mno wakampeleka mpaka jumba kubwa la mfalme moja kwa moja hadi mwanamfalme. Muda si mrefu,  wazazi wake waliitwa na arusi ikaandaliwa. Niliwaacha wakisherehekea nami nilikuja kuwahadithini nyinyi.
+P8	Siku iliyofuata akaja mkulima masikini na mvivu bali bado mbichi na mwenye sifa ya kubobea maneno ambayo yaliwafurahisha watu. Akafika akiwa na nia madhubuti kushinda. Msichana naye alimwandalia matunda mengi akamwomba ale aende zake. Alipoandaliwa akakataa kula. Msichana naye akasubiri akiumwa moyoni. Hadi saa sita ya mchana hajala,  saa nane hajala,  saa kumi mkulima aliomba maji. Msichana alimwomba Mungu ale na ilipofika saa moja ya jioni yeye alikuwa angalisali.
+P9	Wazazi wake msichana walikuwa hawana budi kumkubali "yule mvivu." Msichana naye aliombaomba anusurike na jaala yake lakini wazazi hawakuweza kumsaidia. Walipokuwa njiani kwenda kwao nyumbani,  mkulima alipiga makofi akiimba wimbo mzuri kiasi kuwavutia watu wawafuate barabarani.
+P10	Miongoni mwa watu wale walikuwa watumishi wa mwanamfalme. Walimwita mkulima wakamhonga na pesa pamoja na ng'ombe akikubali kumwachia msichana. Bila ya kusita hata kwa dakika moja akakubali pesa pamoja na ng'ombe akaenda zake peke yake.
+P11	Watumishi wale walimvalisha msichana katika libasi murua mno wakampeleka mpaka jumba kubwa la mfalme moja kwa moja hadi mwanamfalme. Muda si mrefu,  wazazi wake waliitwa na arusi ikaandaliwa. Niliwaacha wakisherehekea nami nilikuja kuwahadithini nyinyi.
 
 images:
 
@@ -42,6 +43,7 @@ translations:
 English (Original)	Fruit	id=2124
 French (Translation)	Les Fruits	id=10182
 Gurene (Translation)	Tiisi Wɔla	id=12666
+Kinyarwanda (Translation)	Imbuto	id=20282
 Likpakpaanl (Translation)	Lisubil	id=18777
 Lugbarati (Translation)	Pati Efi	id=2334
 Lugbarati (Official) (Translation)	Patí Éfɨ́	id=8750
@@ -49,4 +51,4 @@ Lumasaaba (Translation)	Bibyaano	id=3086
 Lumasaaba (Translation)	Bibyaano	id=8688
 Lunyole (Translation)	Ehibala	id=2333
 Rutooro (Translation)	Ekijuma	id=14923
-siSwati (Adaptation)	Sitselo	id=13072
+Siswati (Adaptation)	Sitselo	id=13072

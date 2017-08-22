@@ -1,0 +1,84 @@
+url:	http://africanstorybook.org/reader.php?id=21140&d=0&a=1
+id:	21140
+title:	Kimbia Sungura, Kimbia!
+author:	Brigid Simiyu
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21140.png
+desc:	Tufaa linaanguka kutoka mti aliokuwa amelala Sungura. Sungura anasikia sauti ikisema
+
+page_text:
+
+P1	Tufaa lilianguka kutoka mti aliokuwa amelala Sungura.
+P2	Sungura alisikia sauti ikisema, “Kimbia Sungura kimbia!”
+P3	Sungura alimwambia Kuku, “Kitu kilianguka nami nikasikia, ‘Kimbia Sungura kimbia!’”
+P4	Kuku alianza kukimbia aliposikia alivyosema Sungura.
+P5	Walimwambia Mbwa, “Sungura alisikia kitu kikianguka naye akakimbia.”
+P6	Mbwa alianza kukimbia pamoja na Sungura na Kuku.
+P7	Mbwa alimwambia Farasi, “Sungura alisikia kitu kikianguka naye akakimbia.”
+P8	Farasi alianza kukimbia nao.
+P9	Punda alisema, “Mbona mnakimbia?” Farasi alijibu, “Sijui.”
+P10	Punda pia alianza kukimbia nao.
+P11	Punda alimwambia Ng’ombe, “Sungura alisikia kitu kikianguka akakimbia.”
+P12	Ng’ombe alikuwa na wasiwasi. Alianza kukimbia pia.
+P13	Ng’ombe alimwambia Paka, “Sungura alisikia kitu kikianguka naye akakimbia.”
+P14	Paka alianza kukimbia na wanyama wengine.
+P15	Walimkuta mvulana. 
+
+Aliwauliza, “Kwani hamjui kilichotendeka?”
+P16	“Ni mimi niliyesema, “Kimbia Sungura kimbia!” Mvulana alicheka.
+
+images:
+
+illustrations/pages/7610.png
+illustrations/pages/7595.png
+illustrations/pages/7596.png
+illustrations/pages/7597.png
+illustrations/pages/7598.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/7601.png
+illustrations/pages/7602.png
+illustrations/pages/7603.png
+illustrations/pages/7604.png
+illustrations/pages/7605.png
+illustrations/pages/7606.png
+illustrations/pages/7607.png
+illustrations/pages/7608.png
+illustrations/pages/7609.png
+illustrations/pages/7610.png
+
+translations:
+
+Afrikaans (Translation)	Hasie Se Groot Skrik	id=10861
+Afrikaans (Translation)	Hasie Onder Die Boom	id=11221
+Afrikaans (Translation)	Hasie Onder Die Boom	id=20094
+ChiTonga (Translation)	Sulwe Mujungusi Acisamu	id=18656
+CiNyanja (Translation)	Kalulu Munsi Mwa Mutengo	id=18669
+Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
+English (Translation)	Rabbit Under the Tree	id=7734
+English (Adaptation)	Test Edit	id=16731
+English (Adaptation)	Run Rabbit Run!	id=20888
+French (Translation)	Le Lapin Sous Un Arbre	id=10154
+Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
+IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
+isiXhosa (Translation)	Umvundla Phantsi Komthi	id=17581
+isiZulu (Original)	Unogwaja Ngaphansi Kwesihlahla	id=7664
+isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
+Kiswahili (Translation)	Sungura Chini Ya Mti	id=8438
+Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
+Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lumasaaba (Translation)	Tima Ssunguda Tima	id=20999
+Lunyole (Translation)	Enduyu Ŋaasi W’Omuyembe	id=16585
+Ng’aturkana (Translation)	Apoo Na Epung’Ar!	id=21135
+Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
+Sepedi (Translation)	Mmutla Ka Tlase Ga Mohlare	id=18135
+Sesotho (South Africa) (Translation)	Mmutlanyana Tlasa Sefate	id=20049
+Setswana (Translation)	Mmutla Mo Tlase Ga Setlhare	id=15041
+SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
+Siswati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Tigrigna (Translation)	ጉየይ ማንቲለ፣ ጉየይ 	id=21188
+Tshivenda (Translation)	Muvhuḓa Fhasi Ha Muri	id=18322
+Xitsonga (Translation)	Kondlo Ehansi Ka Murhi	id=19020

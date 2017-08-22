@@ -7,21 +7,54 @@ lang:	English Chinyanja
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/7774.png
-desc:	Ndikonda...
+desc:	Ndikonda.
 
 page_text:
 
-P1	Ndimakonda masewero nthambo. I enjoy skipping.
-P2	 Ine ndili ndekha.. On my own.
-P3	Ndimakondanso masewero a nthambo ndi anzanga. I enjoy skipping with my friend too.
-P4	Ndimakonda kuwerenga nthano zabwino. I enjoy reading interesting stories.
-P5	Ndimakonda kuyenda mu dambo ndi anzanga. I enjoy walking in the field with my friends.
-P6	Ndimakonda kutsuka mbale za amai. I enjoy washing dishes for my mother.
-P7	Ndimakonda kulemba malembo akulu akulu amene sabvuta kuwerenga. I enjoy writing big letters which I can read easily.
-P8	Ndimakonda kudya zipatso zosiyana siyana. I enjoy eating different fruit.
-P9	Ndimakonda kugona pa bedi lalikulu. I enjoy sleeping on a big bed.
-P10	Ndimakonda kumvetsera ku nthano zabwino za amai. I enjoy listening to my mother's interesting stories.
-P11	Ndimakonda kucita zonse izi.  I enjoy all these things.
+P1	Ndimakonda masewero nthambo. 
+
+
+I enjoy skipping.
+P2	Ine ndili ndekha. 
+
+
+On my own.
+P3	Ndimakondanso masewero a nthambo ndi anzanga. 
+
+
+I enjoy skipping with my friend too.
+P4	Ndimakonda kuwerenga nthano zabwino. 
+
+
+I enjoy reading interesting stories.
+P5	Ndimakonda kuyenda mu dambo ndi anzanga. 
+
+
+I enjoy walking in the field with my friends.
+P6	Ndimakonda kutsuka mbale za amai. 
+
+
+I enjoy washing dishes for my mother.
+P7	Ndimakonda kulemba malembo akulu akulu amene sabvuta kuwerenga. 
+
+
+I enjoy writing big letters which I can read easily.
+P8	Ndimakonda kudya zipatso zosiyana siyana. 
+
+
+I enjoy eating different fruit.
+P9	Ndimakonda kugona pa bedi lalikulu. 
+
+
+I enjoy sleeping on a big bed.
+P10	Ndimakonda kumvetsera ku nthano zabwino za amai. 
+
+
+I enjoy listening to my mother's interesting stories.
+P11	Ndimakonda kucita zonse izi.  
+
+
+I enjoy all these things.
 
 images:
 
@@ -41,7 +74,7 @@ illustrations/pages/1502.png
 translations:
 
 English (Adaptation)	I Like	id=10430
-English (Adaptation)	I Enjoy Doing	id=15274
+English (Adaptation)	I Enjoy Doing / Ninafurahi	id=15274
 English (Translation)	Cilandikonda - I Enjoy	id=16451
 French (Translation)	Je M'amuse - I Enjoy	id=9769
 Kiswahili (Original)	Ninafurahi - I Enjoy	id=2106
@@ -53,4 +86,4 @@ Maa (Translation)	Káshípákíno	id=7869
 Ng’aturkana (Translation)	Alakarikina	id=8449
 Oluwanga (Translation)	Ndachama	id=8283
 Rutooro (Translation)	Ngonza - I Enjoy	id=9484
-Tunisian (Translation)	Yiġjibni - I Enjoy	id=15382
+Tunisian (Translation)	Yeɛjibni	id=15382

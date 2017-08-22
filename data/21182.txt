@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=21182&d=0&a=1
+id:	21182
+title:	ጭራቆች ደደቦች ናቸው
+author:	Mezemir Girma
+artist:	Natalie Propa
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21182.png
+desc:	ሙሉና ቤተሰቡ ድርቅ ስለመጣባቸው ምግብ እየፈለጉ ነው፡፡ አንድ ማሳ አግኝተው ባለቤቱ ከምርቱ  እንዲመገቡ ፈቀደላቸው፡፡ ለበሉት ምግብ ግን እጅግ ከፍተኛ ክፍያ መክፈል ይኖርባቸዋል፡፡
+
+page_text:
+
+P1	ድርቅ መጣ፡፡ የሙሉ ቤተሰብ የሚበላ ነገር አልነበረውም፡፡
+P2	አንድ ቀን ሙሉ ምግብ ፍለጋ ወደ ጫካ ይዟቸው ሄደ፡፡
+P3	የሙዝ ተክል አገኙ፤ ባለቤት ግን አልነበረውም፡፡
+P4	በድንገት አንድ ትልቅ ጭራቅ መጣቸው፡፡
+እንዲቆዩም አደረጋቸው፡፡
+P5	አንድ ቀን ጠዋትም ‹‹ወንዱን ልጃችሁን ለምግቤ እንዲሆን ቀቅሉልኝ›› አላቸው፡፡
+P6	በምሽትም ላይ ጭራቁ ‹‹ሴቷን ልጃችሁን ነገ እንድትቀቅሉልኝ›› አላቸው፡፡
+P7	ወላጆቿም ሴቷን ልጃቸውን ዛፍ ላይ ደበቋት፡፡
+P8	ጭራቁም ‹‹ነገ ባልሽን ልትቀቅይልኝ ይገባል›› አለ፡፡
+P9	ማታ ላይ ጭራቁ ሚስትዮዋን ራሷን ለምግብነት እንድታዘጋጅለት አዘዛት!
+P10	ከበላ በኋላ ጭራቁ እያንኮራፋ እዛፉ ስር ተጋደመ፡፡
+P11	ጭራቁ ሁሉንም በህይወት አያቸው፡፡ ተናደደ፡፡
+P12	ጭራቁን አታለው ከዛፉ ላይ ወረዱ፡፡
+
+images:
+
+illustrations/pages/8114.png
+illustrations/pages/8111.png
+illustrations/pages/8112.png
+illustrations/pages/8113.png
+illustrations/pages/8114.png
+illustrations/pages/8115.png
+illustrations/pages/8116.png
+illustrations/pages/8117.png
+illustrations/pages/8118.png
+illustrations/pages/8119.png
+illustrations/pages/8120.png
+illustrations/pages/8121.png
+illustrations/pages/8122.png
+
+translations:
+
+English (Translation)	Mulongo and the Ogre	id=9127
+English (Adaptation)	Ogres Are Stupid	id=20886
+French (Translation)	Mulongo Et L'ogre	id=10699
+Kiswahili (Translation)	Majitu Ni Wajinga	id=21138
+Luganda (Translation)	Bawazzike Ba Siiru	id=21060
+Lumasaaba (Original)	Mulongo Ni Wanasilikhe	id=9126
+Lumasaaba (Adaptation)	Mulongo Ni Wanasilikhe (Revised)	id=10521
+Ng’aturkana (Translation)	Ebang’Aka Ng’Ibuin	id=21132
+Tigrigna (Translation)	ሕንጉጉ ሕማቓት እዮሞ	id=21103

@@ -15,12 +15,14 @@ P1	Ha vha ndi mudededzi wanga. Dzina lawe ndi vho-Akinyi. Vha mpfuna nga maand
 P2	Vho-Akinyi vha ri funza themba na pfalandothe. Ndi nga bula pfalandothe a,  e,  i,  o,  u.
 P3	Vho-Akinyi vho ri funza mivhala heyi. Mutswuku,  lutombo,  mudala,  tadana na mutswu.
 P4	Nga tshifhinga tsha u edela vho-Akinyi vhaya ri imbela. Vha ri imbela dza u ri vhombedza.
-P5	Nga Musumbuluwo vha ri vhudza zwitori nga ha vhanna vhadivhalea.
-P6	Nga Lavhuvhili vha ri vhudza zwitori nga ha vhafumakadzi vhadivhalea.
-P7	Ngo Lavhuraru vha ri vhudza nga ha vhuendedzi.
-P8	Nga Lavhuna vha ri vhudza nga ha vhulimi.
-P9	Nga Lavhuṱanu mudededzi Akinyi vha ri humbela uri ri ambe zwitori zwashu kilasini.
-P10	Mudededzi washu Vho Akinyi ndi mudededzi a konesaho kha lifhasi lothe. Ndi tshi hula,  ndi tama u nga Vho-Akinyi.
+P5	Luimbo lwa hone lu ri: Musuku wa u kumedza uri tha mato u nwenwela ho ri lindela ri tshi vuwa. Edelani vhafunwa vho nakaho, ni sango lila Ndi do ni imbela luimbo lwa u ededza.
+P6	Vha-Akinyi vha divha zwitori zwinzhi. Vha ri vhudza zwitori zwinzhi duvha linwe na linwe.
+P7	Nga Musumbuluwo vha ri vhudza zwitori nga ha vhanna vhadivhalea.
+P8	Nga Lavhuvhili vha ri vhudza zwitori nga ha vhafumakadzi vhadivhalea.
+P9	Ngo Lavhuraru vha ri vhudza nga ha vhuendedzi.
+P10	Nga Lavhuna vha ri vhudza nga ha vhulimi.
+P11	Nga Lavhuṱanu mudededzi Akinyi vha ri humbela uri ri ambe zwitori zwashu kilasini.
+P12	Mudededzi washu Vho Akinyi ndi mudededzi a konesaho kha lifhasi lothe. Ndi tshi hula,  ndi tama u nga Vho-Akinyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -55,10 +58,12 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

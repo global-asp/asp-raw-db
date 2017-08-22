@@ -7,7 +7,7 @@ lang:	Amharic
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/17658.png
-desc:	ስለ እንስሳት ጥበብ እና ስለ ሰው ክፋት የሚተርክ ተረት፡፡ (ይህ ተረት በመጀመሪያ የተተረተው በማርያም መሐመድ ቦረና ላይ ሲሆን የእንግሊዝኛ ቅጂው የተጻፈው በኤልሳቤጥ ሊያርድ ነው፡፡)
+desc:	ስለ እንስሳት ጥበብ እና ስለ ሰው ክፋት የሚተርክ ተረት፡፡ (ይህ ተረት በመጀመሪያ የተተረተው በማርያም መሐመድ ቦረና 
 
 page_text:
 
@@ -51,4 +51,5 @@ illustrations/pages/17304.png
 translations:
 
 English (Original)	Grateful Animals	id=17657
+English (Adaptation)	Who Was Grateful?	id=21394
 Kiswahili (Translation)	Wanyama Wenye Shukurani	id=19384

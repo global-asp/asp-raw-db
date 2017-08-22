@@ -1,0 +1,42 @@
+url:	http://africanstorybook.org/reader.php?id=21046&d=0&a=1
+id:	21046
+title:	Telefoni Ya Mama
+author:	Jean Paul Harelimana and Paul
+artist:	Ingrid Schechter, Sandy Lightly and Venolin Keanan Govender
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21046.png
+desc:	Iyi ni inkuru ivuga ku mwana w umukobwa na telefoni ya mama we.
+
+page_text:
+
+P1	Nabyukaga mu gitondo kare nitegura kujya ku ishuri.
+P2	Mama byaramubabaje kuko nitegura buhoro ngo nge ku ishuri.
+P3	Nafashe ifunguro rya mu gitondo vuba vuba.
+P4	Kwishuri nahahuriye n'incuti zange.
+P5	Nafunguye agafuka ntwaramo ibitabo n'amakaye. Yooo! Nasanze mfitemo telefoni ya mama mpita nyisubiza mu gafuka.
+P6	Igihe cyo kutaha kirageze. Narebye mu gafuka kange. Yooo! Nta telefoni iri mu gafuka kange!
+P7	Natangiye kurira. Mwarmu arambaza ati "Wanjiku, ni ikihe kibazo ufite?" Sinashoboraga kuvuga. Nahise nihanagura mu maso n'ikiganza.
+P8	Hanyuma naravuze nti "Telefoni ya mama yabuze." Mwarimu yaratangaye, dutangira gushaka telefoni.
+P9	Nabyinnye nzeguruka ishuri mvuga nti "Urakoze mwarimu, urakoze mwarimu."
+P10	Nashyize telefoni ya mama mu gafuka nuko ndavuga nti "Sinzongera gukinisha telefoni ya mama ukundi!"
+
+images:
+
+illustrations/pages/14458.png
+illustrations/pages/10614.png
+illustrations/pages/2289.png
+illustrations/pages/13743.png
+illustrations/pages/13845.png
+illustrations/pages/13850.png
+illustrations/pages/13840.png
+illustrations/pages/13842.png
+illustrations/pages/14458.png
+illustrations/pages/14059.png
+illustrations/pages/14458.png
+
+translations:
+
+English (Original)	Mother's Phone 	id=15204
+Runyoro (Translation)	Esimu Y'mama	id=20646

@@ -1,0 +1,30 @@
+url:	http://africanstorybook.org/reader.php?id=20708&d=0&a=1
+id:	20708
+title:	Imikino Itandukanye
+author:	Jean Paul Harelimana
+artist:	Mlungisi Dlamini, Kathy Arbuckle and Vusi Malindi
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20708.png
+desc:	Aya mafoto aragaragaza imikino itandukanye.
+
+page_text:
+
+P1	Gusimbuka.
+P2	Kwiruka.
+P3	Gutera umupira.
+P4	Gusimbuka.
+
+images:
+
+illustrations/pages/7970.png
+illustrations/pages/1627.png
+illustrations/pages/1623.png
+illustrations/pages/1622.png
+illustrations/pages/1624.png
+
+translations:
+
+English (Original)	Different Plays	id=9735
+Lugbarati (Translation)	Avitaa Ndu Ndu Diyi	id=9758

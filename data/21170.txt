@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=21170&d=0&a=1
+id:	21170
+title:	ህፃንን ዑፍን
+author:	Angish Abay
+artist:	Emily Berg
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21170.png
+desc:	ሓደ ጉጅለ ኣዕዋፍ ሓንቲ ህፃን ክትበኪ ርኣይኣ፤ምስአን ሒዘንኣ ክበራ ድማ ወሲነን።
+
+page_text:
+
+P1	ኣዶን ኣቦን ህፃን ጓሎም ምስ ዓበይቲ ኣሕዋታ ገዲፎማ።
+P2	እቶም ኣሕዋታ ክፃወቱ ነታ ቆልዕዓ ረሲዖማ።
+P3	እታ ቆልዓ እናበኸየት ኣዕዋፍ ርኣይኣ።
+P4	ነታ ቆልዓ ብምንፃፋ ሓፍ ኣቢለን ሒዘንኣ በረራ።
+P5	ኣዲኣ ነታ ቆልዓ ኣርባዕተ ኣዕዋፍ ሒዘንኣ እንትበራ ረኣየት።
+P6	እተን ኣዕዋፍ ነታ ቆልዓ ይንከባኸብኣ ነበራ።
+P7	እተን ኣዕዋፍ ርሕቕ ምስ በላ ጭንቑራዕ ነታ ቆልዓ ውሒጣታ።
+P8	ነጢራ ነጢራ ነታ ቆልዓ ናብ ስድራ ቤታ መለሰታ።
+
+images:
+
+illustrations/pages/8485.png
+illustrations/pages/8479.png
+illustrations/pages/8482.png
+illustrations/pages/8154.png
+illustrations/pages/8156.png
+illustrations/pages/8485.png
+illustrations/pages/8484.png
+illustrations/pages/8483.png
+illustrations/pages/8486.png
+
+translations:
+
+English (Original)	Baby Snatched By Cranes	id=8487
+English (Adaptation)	Baby And Cranes	id=20910
+French (Translation)	Un Bébé Enlevé Par Des Grues	id=10144
+isiZulu (Translation)	Ingane Wahlwitha Ngi Indwa	id=11441
+Kiswahili (Translation)	Mtoto Na Korongo	id=21150
+Lámnsoʼ (Translation)	Wán Wo Vintùŋàshàʼshàʼ Vi Boŋrin 	id=21041
+Luganda (Translation)	Omwana Eya Nyakulibwa Ngaali	id=11903
+Sesotho (Lesotho) (Adaptation)	Ngoana Ea Ileng A Utsua Ke Mamokoatatsie	id=21158

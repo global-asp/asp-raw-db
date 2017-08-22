@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21180&d=0&a=1
+id:	21180
+title:	ዋርዲት በቅሎዋ
+author:	Mezemir Girma
+artist:	Marleen Visser
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21180.png
+desc:	በቅሎ ለምን ልጅ እንደማትወልድ የሚያስረዳ ተረት፡፡ (ይህን ተረት መጀመሪያ የተረኩልን መስፍን ሀብተማርያም ናቸው፡፡ ኤሊዛቤት ሊያርድ ደግሞ ወደ እንግሊዝኛ ተረጎሙት፡፡ )
+
+page_text:
+
+P1	አንዲት ዋርዲት የምትባል ቆንጆና ወጣት በቅሎ ነበረች፡፡
+P2	አንድ ሸበላ ፈረስ ‹‹ዋርዲትን ማግባት አለብኝ›› አለ››
+P3	ፈረሱ ‹‹ነይ ወንዝ እንውረድ›› አላት፡፡
+P4	ፈረሱ ዋርዲትን ለትዳር ጠየቃት፡፡ ተስማማች፡፡
+P5	ፈረሱ ዋርዲትን ‹‹እናትና አባትሽ ግን እነማን ናቸው?›› ሲል ጠየቃት፡፡
+P6	ዋርዲትም ‹‹እናቴ በቤተመንግሥት ነው የምትኖረው›› ስትል መለሰች፡፡
+P7	‹‹እህቴ ቤተክርስቲያን ነው የምትኖተው፡፡ አታውቃትም እንዴ?››
+P8	‹‹ቆንጆዋ አክስቴ የመንደሩ አለቃ ንብረት ናት›› ስትል ተናገረች፡፡
+P9	ከዚያም አንድ አሮጌ አህያ በአቅራቢቸው አለፈ፡፡ የዋርዲት አባት ነበር፡፡
+P10	ዋርዲት አባቷን ሰላም አላለችውም፡፡ አላየችውምም፡፡
+P11	አሮጌው አህያም ‹‹ምን ሆነሽ ነው ልጄ?›› ሲል ጠየቃት፡፡
+P12	ፈረሱ ዋርዲትን ‹‹ይህ ደንቆሮ አህያ ማነው?›› ሲል ጠየቃት፡፡
+P13	ዋርዲትም ‹‹አላውቀውም›› አለች፡፡
+P14	ፈረሱም አህያውን በእርግጫ መታው፡፡
+P15	አሮጌው አህያም ስሜቱ ተነካ፡፡ ጮኸና ሞተ፡፡
+P16	ዋርዲት አባቷን ስለማታከብር ልጅ መውለድ አትችልም፡፡
+
+images:
+
+illustrations/pages/17977.png
+illustrations/pages/17968.png
+illustrations/pages/17969.png
+illustrations/pages/17970.png
+illustrations/pages/17971.png
+illustrations/pages/17972.png
+illustrations/pages/17973.png
+illustrations/pages/17974.png
+illustrations/pages/17975.png
+illustrations/pages/17976.png
+illustrations/pages/17977.png
+illustrations/pages/17978.png
+illustrations/pages/17979.png
+illustrations/pages/17980.png
+illustrations/pages/17981.png
+illustrations/pages/17982.png
+illustrations/pages/17984.png
+
+translations:
+
+Amharic (Translation)	በቅሎዋ ዋርዲት	id=17991
+Amharic (Adaptation)	በቅሎዋ ዋርዲት	id=18427
+English (Original)	Wardit, the Mule	id=17985
+English (Adaptation)	The Mule	id=20873
+Kiswahili (Translation)	Nyumbu	id=21073
+Tigrigna (Translation)	እታ በቅሊ	id=21113

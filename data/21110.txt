@@ -1,0 +1,68 @@
+url:	http://africanstorybook.org/reader.php?id=21110&d=0&a=1
+id:	21110
+title:	ህበይን ዋዓግን
+author:	Angish Abay
+artist:	Brian Wambi
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21110.png
+desc:	ብዛዕባ ዕርክነትን፣ ካብ ጉንቦ መሸላ ዝተረኸበ ትርፍን ተዘንቱ መስሓቒት ነበረያነበረ።
+
+page_text:
+
+P1	ቐደም ቐደም፣ ህበይን ዋዓግን ምግቢ እናተማቐሉ ብሓደ ይነብሩ ነበሩ።
+P2	ህበይ ንዋዓግ “ብሓደ ንሕረስ እሞ ብሓደ ክንበልዕ”  በሎ።
+P3	ህበይ ንዋዓግ “ንስኻ ዃዓት እሞ ኣነ ክዘርእ”  በሎ።
+P4	ህበይ ንዋዓግ “ንስኻ ዝራእ እሞ ኣነ ክፅሂ”  በሎ።
+P5	እቲ መሸላ ምስ በፅሐ፣ ህበይ ንዋዓግ እቲ ምህርቲ ኣክቦ በሎ።
+P6	ህበይ “ንስኻ ኣክቦ እሞ ኣነ ናብ መኽዘን ክወስዶ”  በለ።
+P7	ህበይ ሰነፍ እዩ ነይሩ። ዋዓግ ሓንቲ ጉንቦ መሸላ ጥራሕ እዩ ሂብዎ።
+P8	ህበይ ነቲ ጉንቦ መሸላ ወሲዱ። ኣብ መንገዲ ሓንቲ ደርሆ ረኸበ።
+P9	እታ ደርሆ ኩሉ እቲ መሸላ በሊዓቶ። ንህበይ እንቋቕሖ ሂባቶ።
+P10	ህበይ ቖልዑ ረኺቡ። እቶም ቖልዑ ነቲ እንቋቕሖ ሰቢረሞ።
+P11	እቶም ቖልዑ ንህበይ ማንጎ ሂበሞ።
+P12	ህበይ ሕንፃይ ረኺቡ። ሕንፃይ ነቲ ማንጎ በሊዓ ክንቲት ሂባቶ።
+P13	ቃላይ ነቲ ክንቲት ወሲዱ ንህበይ ማይ ሃቦ።
+P14	ህበይ በቲ ማይ ናይ ፈሓም መፍሓምቲ ሓዊ ኣጥፍኣሉ።
+P15	እቶምፈሓም መፍሓምቲ ንህበይ ፋስ ሃብዎ።
+P16	ህበይ ሓረድቲ ከፍቲ ረኸበ። ነቲ ፋስ ድማ ሰበርዎ።
+P17	እቶም ሓረድቲ ከፍቲ ንህበይ ርእስን ጭራን ከፍቲ ሃብዎ። ህበይ ዝገበሮ ተዓዘቡ።
+P18	ህበይ “ናይ ንጉስ ብዕራይ ኣብ ጭቓ ተዋሒጡ ”   ኢሉ ኣእወየ።
+P19	ሰባት ተኣኪቦም ክሕግዙ መፁ። “ብርእሱን ብጭርኡን ሒዝኩም ስሓብዎ”  በለ ህበይ።
+P20	ህበይ “እቲ ብዕራይ ቐቲልክሞ፤ በሉ ከፍቲ ኣዋፂኩም ሃቡኒ ንንጉስ ክህቦ”  በሎም ነቶም ሰባት።
+
+images:
+
+illustrations/pages/15478.png
+illustrations/pages/15471.png
+illustrations/pages/15472.png
+illustrations/pages/15473.png
+illustrations/pages/15474.png
+illustrations/pages/15475.png
+illustrations/pages/15476.png
+illustrations/pages/15477.png
+illustrations/pages/15478.png
+illustrations/pages/15479.png
+illustrations/pages/15480.png
+illustrations/pages/15481.png
+illustrations/pages/15482.png
+illustrations/pages/15483.png
+illustrations/pages/15484.png
+illustrations/pages/15485.png
+illustrations/pages/15486.png
+illustrations/pages/15487.png
+illustrations/pages/15488.png
+illustrations/pages/15489.png
+illustrations/pages/15490.png
+
+translations:
+
+Amharic (Translation)	መብራቴና ከተማ	id=21118
+English (Translation)	Magezi And The Finger Of Millet	id=15504
+English (Adaptation)	Magezi And Kasiira	id=20875
+Kiswahili (Translation)	Magezi Na Kasiira	id=21075
+Lunyole (Translation)	Musiho Ni Malwa	id=21024
+Lusoga (Original)	Magezi Na Akafangata Ko Bulo	id=15503
+Ng’aturkana (Translation)	Magezi Ka Kasira	id=21136
+Portuguese (Translation)	Magezi E a Erva De Milheto	id=17094

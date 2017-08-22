@@ -1,0 +1,72 @@
+url:	http://africanstorybook.org/reader.php?id=20670&d=0&a=1
+id:	20670
+title:	Ensi Yaife
+author:	Cornelius Wambi Gulere
+artist:	Herminder Ohri
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20670.png
+desc:	Olugero lufa ku kutonda nsi na abantu.
+
+page_text:
+
+P1	Katonda yayenda omuntu
+  okulabirira ebitonde bye.
+P2	Wampologoma yaghologoma, “Ninze
+  Kyabazinga, nsobola okukikola.”
+P3	Wandhovu yalenkaana, “Ndi
+  munene. Ntuukaana no omulimo ogwo.”
+P4	Wabulenya yakoba, “Mmpuga
+  naalabirira ebyenhanda. Ninze omutuufu.”
+P5	Wakibbalo yaloghooza ati
+  amainho ge amooji naagamufuula omutuufu.”
+P6	Wanzu yaseka, “Nguluka
+  naabona buli kantu. Ninze asaanira.”
+P7	Katonda yakoba, “Ndidha
+  kutonda omuntu. Aidha kukola omulimo ogusingaku.”
+P8	Yatonda omusaadha no omukazi
+  ne ensusu edhilugavu edhimyensukana.
+P9	Abandi baali na mibiri myeru, amaiso ga bbululu
+  ne enviiri dha luzaabbu.
+P10	Abandi baali na nsusu dha kyenvu,
+  enviiri ndirugavu na amaiso ga
+  ndali.
+P11	Abandi baali na nsusu dha kitakataka,
+  nviiri ndirugavu amaiso mairugavu.
+P12	Wampologoma yaghologoma, “Nsobola
+  okubaita bonaboona. Ndi wa maani.”
+P13	Bawansolo abandi baloghooza
+  bati abantu baboneka ngeri era bandhaghulo.
+P14	Wakibbalo ni Waike baasekerera abantu, “Munaaghuga mutya?”
+P15	Katonda yamwenha, “Abantu
+  bali nookulabirira ebitonde byange.”
+
+images:
+
+illustrations/pages/2237.png
+illustrations/pages/2238.png
+illustrations/pages/2239.png
+illustrations/pages/2240.png
+illustrations/pages/2241.png
+illustrations/pages/2242.png
+illustrations/pages/2243.png
+illustrations/pages/2244.png
+illustrations/pages/2245.png
+illustrations/pages/2246.png
+illustrations/pages/2247.png
+illustrations/pages/2248.png
+illustrations/pages/2249.png
+illustrations/pages/2250.png
+illustrations/pages/2251.png
+illustrations/pages/2252.png
+
+translations:
+
+English (Original)	Our Wonderful World	id=2253
+English (Adaptation)	Our World	id=20491
+isiXhosa (Translation)	Ilizwe Lethu Elimangalisayo	id=7456
+Lusoga (Translation)	Ensi Yaife	id=20925
+Maa (Translation)	Enkóp Áng É Enking'asíá	id=2958
+Ng’aturkana (Translation)	Akwapit Yok Nakaili-Ilon	id=2254
+Oluwanga (Translation)	Eshialo Shiefu Shiokhuchamisia	id=2255

@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=21181&d=0&a=1
+id:	21181
+title:	ያመለጡት እንስሳት
+author:	Mezemir Girma
+artist:	Magriet Brink
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21181.png
+desc:	አራት በዕድሜ የገፉ እንስሳት ራሳቸውን ከጨቋኝ ጌቶቻቸው ነጻ ለማውጣት ተባበሩ፡፡ የእርጅና ዘመናቸውንም በሰላም ለማሳለፍ የሚችሉበትን ቦታ አገኙ፡፡
+
+page_text:
+
+P1	አንዲት ሽማግሌ ሴትዮ ዶሮችና አንድ አሮጌ አውራ ዶሮ ነበራቸው፡፡
+P2	የልጅ ልጃቸው ሊጠይቃቸው መጣ፡፡ ስለሆነም አሮጌውን አውራ ዶሯቸውን ለማረድ ወሰኑ፡፡
+P3	አሮጌው አውራ ዶሮ ወደ አንድ ትልቅ ከተማ አመለጠ፡፡
+P4	አሮጌው አውራ ዶሮ ከጌቶቿ በማምለጥ ላይ የነበረች ድመት አገኘ፡፡
+P5	አሮጌው አውራ ዶሮና ድመቷ በማምለጥ ላይ የነበረ ውሻ አገኙ፡፡
+P6	ሌላ እያመለጠ ያለ ፈረስም አገኙ፡፡
+P7	እንስሳቱ አንድ ቤት አገኙ፡፡ ውስጥም ሌቦችን አዩ!
+P8	ሌቦቹን ለማባረር እንስሳቱ ድምጻቸውን ከፍ አድርገው ዘመሩ፡፡
+P9	በቤቱ ውስጥ የነበረውን ምግብ በሉ፡፡
+P10	ሌቦቹ በኋላ ተመለሱ፡፡ እንስሶቹ አጠቋቸው፡፡
+P11	ሌቦቹ እስከመጨረሻው ጠፉ፡፡
+P12	እንስሶቹ በቤቱ ውስጥ በአንድነት በደስታ ኖሩ፡፡
+
+images:
+
+illustrations/pages/8524.png
+illustrations/pages/8517.png
+illustrations/pages/8518.png
+illustrations/pages/8519.png
+illustrations/pages/8520.png
+illustrations/pages/8521.png
+illustrations/pages/8522.png
+illustrations/pages/8523.png
+illustrations/pages/8524.png
+illustrations/pages/8525.png
+illustrations/pages/8526.png
+illustrations/pages/8527.png
+illustrations/pages/8528.png
+
+translations:
+
+Afrikaans (Translation)	Die Ou Plaashaan	id=11053
+Afrikaans (Translation)	Ou Haan	id=11359
+Afrikaans (Translation)	Ou Haan	id=11523
+English (Original)	Old Rooster	id=9545
+English (Adaptation)	Animals Run Away	id=20874
+French (Translation)	Le Vieux Coq	id=10840
+Kiswahili (Translation)	Wanyama Waliotoroka	id=21074
+Ng’aturkana (Translation)	Ng’Itieng Lu Apotu Tosiwakis	id=21137
+Portuguese (Translation)	Velho Galo	id=18863
+Tigrigna (Translation)	ዘምለጡ እንስሳት	id=21111

@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=21022&d=0&a=1
+id:	21022
+title:	ፋናና እንስሶቿ
+author:	Mezemir Girma
+artist:	Jesse Breytenbach
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21022.png
+desc:	ፋና እንስሳትን ትወዳለች፡፡ እነርሱንም በመመገብና አብራቸው በመጫወት ጊዜዋን ታሳልፋለች፡፡
+
+page_text:
+
+P1	ፋናና ቤተሰቧ ህዝብ በሚበዛባት የኢትዮጵያዋ ደብረብርሃን ከተማ ይኖራሉ፡፡ ፋና የሦስተኛ ክፍል ተማሪ ናት፡፡ ቅንና ብልህ ናት፡፡
+P2	ፋና እንስሳትን ትወዳለች፡፡ አንዲት ድመት፣ ሁለት ዶሮች፣ አንድ ፍየል እና እርግብ አሏት፡፡ ከእነዚህ የቤት እንስሳት ጋር ስትመግባቸውና ስትጫወት ታሳልፋለች፡፡
+P3	አንድ ቀን ፋና ከጓደኞቿ ጋር በትምህርት ቤት ግቢ እየተጫወተች ሳለ ልጆች እርግቦች ላይ ድንጋይ ሲወረውሩባቸው አየች፡፡ ‹‹ለምንድነው እርግቦቹን የሚጎዷቸው?›› በማለት ራሷን ጠየቀች፡፡
+P4	ጨዋታዋን አቋርጣ ድንጋይ ወደሚወረውሩት ልጆች በኩል ሮጠች፡፡ በመጀመሪያ ጓደኞቿ ም እንደተከሰተ አልገባቸውም ነበር፡፡ በኋላ ግን ተከተሏት፡፡‹‹ድንጋይ መወርወራችሁን አቁሙ›› በማለት ፋና ጮኸች፡፡
+P5	ሌሎቹ ልጆች ሮጠው ጠፉ፡፡ ፋና የተጎዱትን እርግቦች ያዘቻቸው፡፡ ክንፎቻቸው ላይ እንደቆሰሉ አየች፡፡ ሁለቱን እርግቦች ወደ ቤቷ ወስዳ ለመንከባከብ ወደነች፡፡
+P6	እርግቦቹን መገበቻቸው፡፡ ምሽትም ላይ ለቤተሰቧ ቀን ያየችውንና ያደረገችውን እንዲሁም እርግቦቹን እንዴት እንዳዳነቻቸው ነገረች፡፡
+P7	ጠዋት ፋናና ቤተሰቧ ወደ ሐኪም ቤት ሄደው ለእርግቦቹ መድሃኒት ገዙላቸው፡፡ ከጥቂት ቀናት በኋላ የእርግቦቹ ቁስል ዳነ፡፡ ፋና በጣም ተደሰተች፡፡
+P8	ፋና ሁልጊዜ ለጓደኞቿ ‹‹እኔ እንስሳትን እወዳለሁ፡፡ እንስሳት ለኛ ጠቃሚና ጓደኞቻችን ናቸው፡፡ ከጉዳት ልንጠብቃቸውና ልንንከባከባቸው ይገባናል›› በማለት ትናገራለች፡፡
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+English (Original)	Fana And Her Animals	id=21004
+English (Adaptation)	Fana And Her Animals (Colour-In)	id=21005
+English (Adaptation)	Fana Loves Animals	id=21396
+Kiswahili (Translation)	Fana Na Wanyama Wake 	id=21006

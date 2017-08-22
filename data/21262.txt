@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21262&d=0&a=1
+id:	21262
+title:	Wankoko Ni Waigongolo
+author:	Bamuwe Josephine
+artist:	Magriet Brink
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21262.png
+desc:	Wankoko ni Waigongolo baali no omukwaano ogwo kusinganwa
+
+page_text:
+
+P1	Wankoko ni Waigongolo
+  ba mukwaano
+P2	Bagya okuzaana omupiira
+P3	Wankoko neyali omugemi
+  wagoolo
+P4	Waigongolo yateeba goal Itaano
+P5	Wankoko yabuzabuzibwa
+P6	Wankoko yaalya Waigongolo
+P7	Wankoko yayaganana ni
+  maama wa Waigongolo
+P8	Nhamba Maama
+P9	Wankoko yewulira oti
+  mulwaire
+P10	Waigongolo tawooma
+P11	Wankoko yakolola Waigongolo
+  yatuuma Mukanwaake.
+P12	Waigongolo yalumuka aawo
+  Wankoko ni Wagongolo baaweesa omukwaano bombi.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+English (Adaptation)	Chicken And Millipede	id=9097
+English (Adaptation)	Duck and Blind Snake	id=10021
+English (Adaptation)	Chicken And Millipede	id=10945

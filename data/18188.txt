@@ -13,9 +13,10 @@ page_text:
 
 P1	في يوم من الأيام، كان هنالك تمساح جائع
 P2	كان يبحث عن الطعام ببطء وهدوء
-P3	!طجججج! قفز التمساح.
-P4	لم يعد التمساح جائعاً بعد ذلك بل أصبح سعيداً
-P5	إلى أن يجوع مرة أخرى
+P3	وفجأة.
+P4	!طجججج! قفز التمساح.
+P5	لم يعد التمساح جائعاً بعد ذلك بل أصبح سعيداً
+P6	إلى أن يجوع مرة أخرى
 
 images:
 
@@ -31,6 +32,8 @@ translations:
 Afrikaans (Translation)	Die Honger Krokodil	id=11063
 English (Original)	The Hungry Crocodile	id=7043
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
 Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
 Luganda (Translation)	Ggonya Omuyala.	id=9664
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252

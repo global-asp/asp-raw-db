@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21379&d=0&a=1
+id:	21379
+title:	Rooster Cheats
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21379.png
+desc:	Find out what happens when rooster lies to others.
+
+page_text:
+
+P1	Long ago, animals lived together. 
+
+They met to choose a king.
+P2	Rooster wanted to be king. 
+
+He lied that he had fire.
+P3	The animals believed Rooster. 
+
+They chose him king.
+P4	One day it rained very much. 
+
+Everything was wet and cold.
+P5	Rabbit asked, “Where do we get fire to warm ourselves?”
+P6	Monkey said, “We get it from the comb on Rooster’s head.”
+P7	The animals send Fox to collect fire from king
+ Rooster.
+P8	Fox went to take fire without waking Rooster up.
+P9	Fox put dry grass on the comb. 
+
+It did not burn.
+P10	"Wake up king Rooster! We need fire now," called Fox.
+P11	Rooster did not have fire to give to Fox.
+P12	Fox was angry. From that day, foxes eat roosters.
+
+images:
+
+illustrations/pages/14805.png
+illustrations/pages/14795.png
+illustrations/pages/14796.png
+illustrations/pages/14797.png
+illustrations/pages/14798.png
+illustrations/pages/14799.png
+illustrations/pages/14800.png
+illustrations/pages/14801.png
+illustrations/pages/14802.png
+illustrations/pages/14803.png
+illustrations/pages/14804.png
+illustrations/pages/14805.png
+illustrations/pages/14806.png
+
+translations:
+
+Dhopadhola (Translation)	Kibwe Gi Wodi Gweno	id=15739
+English (Original)	Fox and Rooster	id=14792
+Lunyole (Translation)	Wahibbwe Ni Wadwaya	id=16420

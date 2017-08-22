@@ -11,18 +11,19 @@ desc:	Mtoto anaelezea jinsi bibi alivyowahadithia kabla ya kulala.
 
 page_text:
 
-P1	Sote tulikuwa tumekusanyika katika nyumba ya bibi kuzisikiliza hadithi zake. Tulikalia ngozi ya ng'ombe karibu na moto. Bibi alianza kutusimulia hadithi yake ya mwisho usiku huo,  "Sungura na Tembo walikuwa majirani pia marafiki."
-P2	Sungura alipenda uyoga,  lakini alikuwa mvivu sana. Alizoea kuiba uyoga wa Tembo. Tembo alikuwa amepanda ndizi na malenge mwaka huo. Kwa hivyo Sungura hakupata uyoga.
-P3	Sungura alikuwa bila chakula kwa siku nyingi. Aliamua kuiba ndizi za Tembo. Tembo aligundua kwamba ndizi zake zilikuwa zikiibwa. Alimwendea Sungura na kusema,  "Kuna mtu fulani ananiibia."
-P4	Sungura aliuliza,  "Ni nani mwizi?" Tembo alianza kuimba,  "Nitamshika mwizi! Aaa! Nitamshika mwizi! Ooo!" Sungura alikuwa na wasiwasi sana.
-P5	Tembo alimwuliza Kima kumchungia shamba lake. Lakini,  Sungura hakuiba mchana wala usiku huo. Hakuiba siku iliyofuata wala usiku uliofuata. Kima alichoka kuchunga.
-P6	Siku iliyofuata,  Sungura alienda katika shamba la Tembo kuiba tena. Tembo alipoenda kukagua mimea yake,  Sungura alijificha katika matawi ya malenge.
-P7	Tembo alipoyaona matawi yakitingika,  alianza kuimba,  "Nimemshika mwizi! Aaa! Nimemshika mwizi! Ooo!" Tembo alitafuta kila sehemu lakini hakumpata mwizi.
-P8	Siku moja,  Sungura alipokuwa akila mazao ya Tembo shambani,  Tembo aliwasili. Sungura aliruka na kujificha ndani ya malenge kubwa.
-P9	Tembo aliiona ile malenge kubwa akasema,  "Ooo! Hapa kuna malenge kubwa. Itakuwa chakula changu cha mchana." Mara moja,  aliimeza ile malenge!
-P10	Sungura alijaribu kuruka nje ya malenge,  lakini hakuweza. Tembo alipohisi kitu kikiruka tumboni mwake,  alijiuliza,  "Hii ni malenge ya aina gani inayoruka tumboni mwangu?"
-P11	Tembo aliitema nje ile malenge. Kabla kuikagua,  Sungura alijitosa nje ya malenge na kutoroka. Tembo hakuwahi kumshika mwizi.
-P12	Bibi alisema,  "Na huo ndio mwisho wa hadithi." "Asante bibi," tulimjibu pamoja. Tuliviweka vikombe vyetu vya maziwa,  kisha tulienda kulala tukiwaza juu ya hadithi za bibi.
+P1	Sote tulikuwa tumekusanyika nyumbani kwa bibi kuzisikiliza hadithi zake. Tuliketi karibu na meko. 
+Bibi alianza kutusimulia, "Sungura na Tembo walikuwa majirani pia marafiki.
+P2	Sungura alipenda uyoga, lakini alikuwa mvivu sana. Alizoea kuiba uyoga wa Tembo. Tembo alikuwa amepanda ndizi na malenge mwaka huo. Kwa hivyo, Sungura hakupata uyoga.
+P3	Sungura alikosa chakula kwa siku nyingi. Aliamua kuiba ndizi za Tembo. Tembo aligundua kwamba ndizi zake zilikuwa zikiibwa. Alimwendea Sungura na kusema, "Kuna mtu fulani ananiibia."
+P4	Sungura aliuliza, "Ni nani mwizi?" Tembo alianza kuimba, "Nitamshika mwizi! Aaa! Nitamshika mwizi! Ooo!" Sungura alikuwa na wasiwasi sana.
+P5	Tembo alimwuliza Kima kumchungia shamba lake. Lakini, Sungura hakuiba mchana wala usiku huo. Hakuiba siku iliyofuata wala usiku uliofuata. Kima alichoka kuchunga.
+P6	Siku iliyofuata, Sungura alienda tena katika shamba la Tembo kuiba. Tembo alipoenda kukagua mimea yake,  Sungura alijificha katika matawi ya malenge.
+P7	Tembo alipoyaona matawi yakitingika, alianza kuimba, "Nimemshika mwizi! Aaa! Nimemshika mwizi! Ooo!" Tembo alitafuta kila sehemu lakini hakumpata mwizi.
+P8	Siku moja, Sungura alipokuwa akila mazao ya Tembo shambani, Tembo aliwasili. Sungura aliruka na kujificha ndani ya malenge moja kubwa.
+P9	Tembo aliiona ile malenge kubwa akasema, "Ooo! Hapa kuna malenge kubwa. Itakuwa chakula changu cha mchana." Aliimeza mara moja!
+P10	Sungura alijaribu kuruka nje ya malenge, lakini hakuweza. Tembo alipohisi kitu kikiruka tumboni mwake, alijiuliza, "Hii ni malenge ya aina gani inayoruka tumboni mwangu?"
+P11	Tembo aliitema nje ile malenge. Kabla kuikagua,  Sungura alijitosa nje ya malenge na kutoroka. Tembo hakuwahi kumshika mwizi."
+P12	Bibi alisema, "Na huo ndio mwisho wa hadithi." "Asante bibi," tulimjibu pamoja. Tuliviweka vikombe vyetu vya maziwa, kisha tulienda kulala tukiwaza juu ya hadithi za bibi.
 
 images:
 
@@ -42,4 +43,9 @@ illustrations/pages/18842.png
 
 translations:
 
-English (Original)	Grandmother’S Stories	id=19109
+Amharic (Translation)	አያቴ፣ ጥንቸልና ዝሆን	id=21245
+English (Original)	Grandmother's Stories	id=19109
+English (Adaptation)	Grandmother, Hare And Elephant	id=20883
+Kiswahili (Translation)	Bibi, Sungura Na Tembo	id=21129
+Lusoga (Translation)	Dhaada Omukazi,wakaima Ne Endovu	id=21334
+Tigrigna (Translation)	እናሓጎይ፣ ማንቲለን ሓርማዝን	id=21106

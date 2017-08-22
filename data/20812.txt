@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=20812&d=0&a=1
+id:	20812
+title:	Wani Kare
+author:	Muhammad Umar
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Hausa (Nigeria)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20812.png
+desc:	Wannan labari ya na kunshe da bayanin wani mutum da karensa wanda ya aminta da shi kuma ya ke biyayya a gare shi.
+
+page_text:
+
+P1	Akwai wani mutum da karensa guda daya.
+P2	Ya na san karensa matuka sosai.
+P3	Karen ya na da kwazo ana aikensa kasuwa ya sayo nama.
+P4	Ya na zuwa rijiya ya debo ruwa.
+P5	Ya na tsare duk kayan gida.
+P6	Wata rana mutumin nan ya yi wa karensa gagarumar godiya kasancewarsa amintacce.
+P7	Kare ya yi murna kuma ya ci gaba da aiki tukuru.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Translation)	Imbwa	id=20605
+Kumam (Translation)	Ogwok	id=20953
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Rufumbira (Translation)	Imbwa	id=20731
+Runyankore (Translation)	Embwa	id=20653
+Runyoro (Translation)	Embwa	id=20644
+Talen (Translation)	Baa	id=20271

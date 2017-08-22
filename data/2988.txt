@@ -22,9 +22,10 @@ P8	Gannyane gannyane dilo tša thoma go fetoga. Polelo mo baneng ya fokotšega b
 P9	Nako le nako ge ba lebelelana ba be ba lemoga gore meno a bona ke a matelele. Ba thoma le go sepela ka maoto a mane.
 P10	Ba thoma go ba dibopiwa tse mpšha,  tšeo ba sakang ba di bona motsaneng wa bona. Tše ke dibopiwa tšeo lehono batho ba di bitšago go re ke ditšhwene.
 P11	Ka nakwana ditšhwene di ile tša phela ka go thaba. Ba tlogela go kitimišana le mebutla ba ja diboko go tšwa mobung.
-P12	Fela ba be ba gopola gore e be e le batho Ba be ba fela ba lebelelana dinko tša bona tše kgolo gomme bahwe ka lesego.
-P13	Eupša ba be ba sa le rate lesego le. Ka moo,  ba be tshelela fase le godimo go laetša pefelo. Go na moo dithšwene ga sa ka tša kgona go phedišana ka baka la lesego le pefelo yeo di be di na le yona Lelapa le lengwe le lengwe le ile la itshepelela go ya go phela le le nnosi.
-P14	Ke ka moo le lehono ditšhwene ga di sa phele e le sehlopha se segolo. E fo ba sehlopha se se nnyane fela.
+P12	Ba thoma go lebala polelo. Ba apola diaparo tša bona ka gobane matsogo le maoto a bona a be khupeditšwe ke meriri e meso.
+P13	Fela ba be ba gopola gore e be e le batho Ba be ba fela ba lebelelana dinko tša bona tše kgolo gomme bahwe ka lesego.
+P14	Eupša ba be ba sa le rate lesego le. Ka moo,  ba be tshelela fase le godimo go laetša pefelo. Go na moo dithšwene ga sa ka tša kgona go phedišana ka baka la lesego le pefelo yeo di be di na le yona Lelapa le lengwe le lengwe le ile la itshepelela go ya go phela le le nnosi.
+P15	Ke ka moo le lehono ditšhwene ga di sa phele e le sehlopha se segolo. E fo ba sehlopha se se nnyane fela.
 
 images:
 
@@ -48,7 +49,7 @@ translations:
 
 English (Original)	The Baboons That Went This Way and That	id=2605
 English (Adaptation)	The Baboons That Went This Way and That	id=2609
-English (Adaptation)	Baboons	id=19986
+English (Adaptation)	They Became Baboons	id=19986
 isiZulu (Translation)	Izimfene Ezaziya Le Na Le	id=2853
 Kiswahili (Translation)	Nyani Walioenda Huku Na Huko	id=2987
 Lumasaaba (Translation)	Tsingukye Tsitsakyeendaana Eyi Ni Neeyi	id=2990

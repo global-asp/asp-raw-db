@@ -1,9 +1,9 @@
 url:	http://africanstorybook.org/reader.php?id=18301&d=0&a=1
 id:	18301
 title:	Khuhu I Fhura Goni
-author:	Ramikosi Gudani Ramikosi Gudani
-artist:	Rob Owen Rob Owen
-lang:	TshivendaTshivenda
+author:	Ramikosi Gudani
+artist:	Rob Owen
+lang:	Tshivenda
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/18301.png
@@ -22,7 +22,6 @@ P8	Goni ḽo mbo ḓi sinyuwa ḽa vhilimedza khuhu. Fhedzi a ḽi ngo i fara. N
 
 images:
 
-illustrations/pages/1295.png
 illustrations/pages/9588.png
 illustrations/pages/9587.png
 illustrations/pages/9588.png

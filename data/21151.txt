@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=21151&d=0&a=1
+id:	21151
+title:	Mamba Na Mbwa
+author:	Brigid Simiyu
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21151.png
+desc:	Mbwa anakuta mayai kando ya mto na kuyapeleka nyumbani. Je
+
+page_text:
+
+P1	Siku moja, Mbwa aliyapata mayai kando ya mto.
+P2	Mbwa aliyaweka mayai hayo kumi katika kikapu.
+P3	Mbwa aliyalinda na kuyaweka mahali kwenye joto.
+P4	Mamba alimuuliza Mbwa, “Umeyaona mayai yangu?”
+P5	Mamba aliwauliza wanyama wote ikiwa waliyaona mayai yake.
+P6	Wakati huo, mayai yaliangua moja moja.
+P7	Mbwa hakuweza kuwapa mamba wachanga chakula cha kutosha.
+P8	Siku moja, Mamba aliyasikia matumbo ya wanawe yakinguruma!
+P9	Mamba aliingia nyumbani akamcharaza Mbwa kwa mkia wake.
+P10	Mamba alimkimbiza Mbwa barabarani.
+P11	Mbwa alisimama akamwambia Mamba, “Nisamehe!”
+P12	Mamba alimsamehe. Alienda na wanawe kuogelea.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+English (Adaptation)	Crocodile And Dog	id=20911
+isiXhosa (Translation)	Unja No Xam	id=17573
+Kiswahili (Translation)	Mbwa Na Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa Na Mamba	id=18327
+Tigrigna (Translation)	ሓርገፅን ከልብን	id=21178

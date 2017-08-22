@@ -23,7 +23,7 @@ P9	Kalabushe a swika nḓuni a pfa ho tou tshete. A dzhena ngomu a vhidzelela,  
 P10	Musi hu si na phindulo a fhirela lufherani lwa phanḓa hune makhadzi vha eḓela hone. A mangala a tshi vhona muṅwe o di fukedza nga nguvho khulwane.
 P11	"Makhadzi mulandu nḓevhe dzi khulwane ṋamusi?" hu vhudzisa Kalabushe. Sinson ya fhindula i nga ngomy baini,  "Uri ndi kone u ni pfa zwavhuḓi."
 P12	Kalabushe a vhudzisa hafhu,  "Makhadzi khezwi maṱo avho a mahuluhulu ṋamusi?" Sinson ya fhindula,  "Uri ndi kone u ni vhona zwavhuḓi."
-P13	Kalabushe a vhudzisa lwa u fhedzisela,  "Khe mulomo wavho u mu huluhulu namusi?" Sinson ya fhindula,  "Uri ndi kone u ni mila zwavhuḓi."  Sinson ya fhufha ya bva nguvhoni ya mila Kalabushe.
+P13	Kalabushe a vhudzisa lwa u fhedzisela,  "Khe mulomo wavho u mu huluhulu namusi?" Sinson ya fhindula,  "Uri ndi kone u ni mila zwavhuḓi." Sinson ya fhufha ya bva nguvhoni ya mila Kalabushe.
 P14	Ngauri Kalabushe ndi muambi wa biko,  o bvela phanḓa na u amba na musi e thumbuni ya Sinson. O vhudzisa mbudziso nnzhi.
 P15	Mafheloni Sinson yo netiswa nga mbudziso dzi sa fheli dza Kalabushe ya mu pfela nnḓa.
 P16	Kalabushe na makhadzi wawe vha ponyokiswa nga vhadzulapo vha wonoyo muvhundu. U bva iḽo ḓuvha,  Kalubushe ha ngo tsha ambesa na vhathu a sa vha ḓivhiho.
@@ -55,7 +55,8 @@ Afrikaans (Translation)	Kalabushe Die Babbelkous	id=20072
 ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
 CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
 Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
-English (Translation)	Kalabushe the Talkative	id=9526
+English (Translation)	Kalabushe The Talkative	id=9526
+English (Adaptation)	Kalabushe And The Hyena	id=20915
 French (Translation)	Kalabushe, La Bavarde	id=10842
 IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
 isiNdebele (Translation)	Ufikile Okhulumela Futhi	id=13057
@@ -66,12 +67,16 @@ isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
 Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
 Kiswahili (Original)	Kalabushe, Chiriku	id=9259
 Kiswahili (Adaptation)	Chiriku	id=18417
+Kiswahili (Translation)	Kalabushe Na Fisi	id=21152
 Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
 Lunyole (Translation)	Neŋamba	id=16422
 Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Mampruli (Translation)	Azuma Yatɔa Gbalinŋu Daana	id=20387
 Portuguese (Translation)	Kalabushe a Tagarela	id=16654
 Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
 Sesotho (South Africa) (Translation)	Moitheri Ya Buang Haholo	id=20034
 Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
 SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Talen (Translation)	Kalabushe Toagaleh Daan	id=20193
+Tigrigna (Translation)	ለታይን ዝብእን 	id=21171
 Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

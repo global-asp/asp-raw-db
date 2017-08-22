@@ -2,7 +2,7 @@ url:	http://africanstorybook.org/reader.php?id=16420&d=0&a=1
 id:	16420
 title:	Wahibbwe Ni Wadwaya
 author:	Bukheye Mulongo Christopher
-artist:	Wiehan de Jager
+artist:	
 lang:	Lunyole
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
@@ -11,18 +11,18 @@ desc:	Wadwaya aduringa esolo ejindi joosi nga Wahibwe agundula.
 
 page_text:
 
-P1	Ahale ebisolo byosibyosi byamenyanga ŋalala nibiri bya muhago. Lulala byasalaŋo bibe n'oluhumbaana byangale habaha.
+P1	Ahale ebisolo byosibyosi byamenyanga ŋalala ni biri bya muhago. Lulala byasalaŋo bibe n'oluhumbano byangale habaha.
 P2	Wadwaya olw'ohwenda abe nje habaha,  gadulingire ebisolo ebindi. Gabiloma ati,  "Oluyunju olulando oluli hu mutwe gwange muliro. Mutaluŋambaho."
-P3	Ebisolo ebindi byefugirira ebi Wadwaya abiromire byasalaŋo ohumwangala ohuba nje habaha wa byo. Byasubira biiti omuliro gwa Wadwaya guŋanga gwabiyeda mu biseera eby'obuŋololohi.
-P4	Ɲaaliŋo oludaalo olu fula ya sehuha ehyalo hya nyitaala. Hiisi hitu hyadola era hyaba hiŋololohi.
+P3	Ebisolo ebindi byefugirira ebi Wadwaya gaali n'abiromire byasalaŋo ohumwangala ohuba nje habaha wa byo. Byasubira biiti omuliro gwa Wadwaya guŋanga gwabiyeda mu biseera eby'obuŋololohi.
+P4	Ɲaaliŋo oludaalo olu fula ya sehuha ehyalo hya nyitaala. Hiisi hiitu hyadoola era hyaba hiŋololohi.
 P5	Olw'o buŋololohi obwo Wanduuyu gabusa ebisolo ebindi ati,  "Hunatuse ŋeena omuliro ogu hunoote."
 P6	"Wakima nga agobolamo ati," Hunatambise omuliro ogwo'muluyunju oluli hu mutwe gwa Wadwaya. Wadwaya nje habaha weefe olwohuba n'omuliro hu mutwe gugwe.
-P7	Esolo jehirisagania niWakima nga jituma Wahibbwe ohusaha omuliro ohuŋwa eri habaha Wadwaya.
-P8	Wahibbwe gola ewa Wadwaya gamusaŋaana nali hufuluuta. Ng'asalaŋo abugule omuliro natamusungire.
-P9	Wahibbwe gasolonga obunyasi obwomu nga abuta ohupi n'oluyunju hu mutwe gwa Wadwaya. Aye obunyasi sibwaŋamba muliro.
+P7	Esolo jehirisagania ni Wakima nga jituma Wahibbwe ohusaha omuliro ohuŋwa eri habaha Wadwaya.
+P8	Wahibbwe gola ewa Wadwaya gamusaŋaana nali hufuluuta. Ng'asalaŋo abugule omuliro n'atamusungire.
+P9	Wahibbwe gasolonga obunyasi obwomu nga abuta ohupi n'oluyunju hu mutwe gwa Wadwaya. Aye obunyasi si bwaŋamba muliro.
 P10	Nga Wahibbwe ahayuhira Wadwaya ati,  "Wadwaya sisimuha!" "Hwenda omuliro ŋahani ŋano."
-P11	Aye Wadwaya sigaŋanga huŋa Wahibbwe omuliro.
-P12	Wahibbwe gasunguŋala gagamayo eri esolo jahye nga aji lomera amazima agaŋamba hu luyunju oluli hu Wadwaya. Ohuŋwa oludaalo olwo,  ŋaŋuma atya Wadwaya. Njehigima Ebibwe ni birya Edwaya nabalebe bajo.
+P11	Aye Wadwaya si gaŋanga huŋa Wahibbwe omuliro.
+P12	Wahibbwe gasunguŋala gagamayo eri esolo jahye nga aji lomera amazima agaŋamba hu luyunju oluli hu Wadwaya. Ohuŋwa oludaalo olwo,  ŋaŋuma atya Wadwaya. Njehigima Ebibbwe ni birya Edwaya n'abalebe bajo.
 
 images:
 
@@ -44,3 +44,4 @@ translations:
 
 Dhopadhola (Translation)	Kibwe Gi Wodi Gweno	id=15739
 English (Original)	Fox and Rooster	id=14792
+English (Adaptation)	Rooster Cheats	id=21379

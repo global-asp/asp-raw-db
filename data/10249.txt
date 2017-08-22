@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=10249&d=0&a=1
 id:	10249
-title:	Monkey and Crocodile
+title:	Monkey And Crocodile
 author:	Mozambican folktale
 artist:	Amir Bachir António Necas
 lang:	English
@@ -38,7 +38,7 @@ illustrations/pages/10580.png
 
 translations:
 
-English (Adaptation)	Monkey and Crocodile - Colouring Book	id=17567
+English (Adaptation)	Monkey And Crocodile - Colouring Book	id=17567
 isiXhosa (Translation)	Inkawu No Xam	id=15936
 isiXhosa (Adaptation)	Inkawu No Xam (Faka Imibala)	id=17371
 Portuguese (Adaptation)	O Macaco E O Crocodilo	id=10681

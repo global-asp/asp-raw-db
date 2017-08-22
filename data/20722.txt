@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=20722&d=0&a=1
+id:	20722
+title:	Umpisi, Unogwaja Nezindishi
+author:	Pumla Mdontswa
+artist:	
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20722.png
+desc:	Uma indishi ingazala
+
+page_text:
+
+P1	UMpisi noNogwaja babe ngabangane.
+P2	UNogwaja wayenembongolo kanye nendishana ebomvu.
+P3	Uma uNogwaja edinga indishi enkulu, wayeboleka indishi kaMpisi eluhlaza sasibhakabhaka.
+P4	UMpisi wayedinga ukuwasha izingubo zakhe kule ndishi yakhe.
+P5	UMpisi waya kuNogwaja wathi, "Ngidinga indishi yami enkulu phela manje."
+P6	Aphendule uNogwaja, "Indishi yakho inomntwana," uMpisi wazidumela zombili izindishi, wahamba.
+P7	Ngelinye ilanga, uNogwaja waboleka indishi kaMpisi futhi.
+P8	Uma uMpisi eyolanda indishi yakhe, uNogwaja wamtshela izindaba ezimbi.
+P9	"Indishi yakho ifile," kusho uNogwaja. UMpisi akazikholwanga lezi zindaba.
+P10	UMpisi wamema ezinye izilwane ezinkulu ukuba zizoyizwisa le ndaba, kutholakale iqiniso.
+P11	UNogwaja wayichaza-ke indaba, "Phela izinto eziphilayo eziphinde zizale, ziyafa futhi."
+P12	Izilwane zavumelana noNogwaja. UMpisi walahlekelwa kanjalo yindishi yakhe, ithathwe nguNogwaja.
+
+images:
+
+illustrations/pages/19188.png
+illustrations/pages/19185.png
+illustrations/pages/19186.png
+illustrations/pages/19187.png
+illustrations/pages/19188.png
+illustrations/pages/19189.png
+illustrations/pages/19190.png
+illustrations/pages/19191.png
+illustrations/pages/19192.png
+
+translations:
+
+Afaan Oromo (Translation)	Warabeesa, Illetif Gabate	id=20427
+Amharic (Translation)	ጅብ፣ ጥንቸልና ሳፋዎቻቸው	id=20481
+English (Translation)	Hyena, Hare And Their Basins	id=19194
+English (Adaptation)	Hyena, Hare And Their Basins	id=19764
+Kiswahili (Original)	Fisi, Sungura Na Karai	id=19193
+Kiswahili (Translation)	Fisi, Sungura Na  Beseni	id=20437
+Lusoga (Translation)	Wampiti, Wakayima Ni  Benseni	id=20400
+Ng’aturkana (Translation)	Ebuu, Apoo Ka Ng'atubwae	id=20416
+Setswana (Translation)	Phiri, Mmutla Le Dijana	id=21057

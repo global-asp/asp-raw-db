@@ -17,7 +17,8 @@ P3	Ke rema dikgong.
 P4	Ke fuduwa pitsa.
 P5	Ke feela mo ntlong.
 P6	Ke tlhatswa dijana.
-P7	Fa nnake ene a tshameka.
+P7	Goreng ke dira ka thata jaana.
+P8	Fa nnake ene a tshameka.
 
 images:
 
@@ -42,8 +43,7 @@ Lugbarati (Translation)	Ma Adri Gaa Ovuo Ru Ri	id=2901
 Lugbarati (Official) (Translation)	Ma Adrigaaovuoruri	id=8796
 Lumasaaba (Translation)	Waandaaye Umukyeekhe Umutoro	id=2903
 Lunyole (Translation)	Muto Yange Omudoto	id=2904
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17471
-Lunyole (Adaptation)	Muto Yange Omudoto	id=17472
+Lunyole (Translation)	 	id=21094
 Lusoga (Translation)	Lwaki Nkola Zenka?	id=2905
 Maa (Translation)	Olotí Aláshe Túrúáí	id=2897
 Ng’aturkana (Translation)	Lokaito Loochi Lokalany	id=2906

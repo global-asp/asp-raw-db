@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=21062&d=0&a=1
+id:	21062
+title:	Umva
+author:	Daniel Tuyisenge
+artist:	Jean Fullalove
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21062.png
+desc:	Umva amajwi yurusobe atandukanye yinyamsaswa.
+
+page_text:
+
+P1	Ibihore biraduhira.
+P2	Imbeba ziranwigira.
+P3	Inzoka ziravugiriza.
+P4	Imbwa ziramoka.
+P5	Ihene zirahebeba.
+P6	Inka zirabira.
+P7	Intare ziratonoma.
+P8	Ibinyamujonjogoro byo nta majwi bigira.
+P9	Impinja ziramwenyura.
+P10	Abana bo baravuga.
+
+images:
+
+illustrations/pages/3029.png
+illustrations/pages/3030.png
+illustrations/pages/3031.png
+illustrations/pages/3032.png
+illustrations/pages/3033.png
+illustrations/pages/3035.png
+illustrations/pages/3036.png
+illustrations/pages/3037.png
+illustrations/pages/3038.png
+illustrations/pages/3043.png
+illustrations/pages/3029.png
+illustrations/pages/3041.png
+
+translations:
+
+Afrikaans (Translation)	Luister	id=11144
+Afrikaans (Translation)	Luister	id=11183
+Anywak (Translation)	Wïnynyu	id=17265
+English (Original)	Listen	id=3044
+French (Translation)	Écoute	id=12679
+Oluwanga (Translation)	Rechelesia!	id=3093
+Portuguese (Translation)	Escuta	id=17033

@@ -1,13 +1,13 @@
 url:	http://africanstorybook.org/reader.php?id=19761&d=0&a=1
 id:	19761
-title:	Which Work is the Most Important?
-author:	Jane Taylor and African Storybook
-artist:	Gill Bond and Neo
+title:	Which Work Is The Most Important?
+author:	African Storybook and Jane Taylor
+artist:	Wiehan de Jager
 lang:	English
 level:	First words
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19761.png
-desc:	Are some jobs more important than others? (Also available at Level 3.)
+desc:	Are some jobs more important than others? (Also available at Level 3.).
 
 page_text:
 
@@ -34,7 +34,14 @@ illustrations/pages/10281.png
 
 translations:
 
+Afaan Oromo (Translation)	Hojii Isaa Kamtuu Barbaachisadha?	id=20430
+Amharic (Translation)	የትኛው ስራ ይበልጣል?	id=20501
 English (Original)	Disagreement Among Occupations	id=10537
 French (Translation)	Un Désaccord Sur L’Importance De Divers Emplois	id=13159
 isiZulu (Translation)	Ukuphikisana Ngemisebenzi Eyahlukene	id=15441
+isiZulu (Translation)	Yimuphi  Umsebenzi Obaluleke Kakhulu?	id=20681
+Kiswahili (Translation)	Ni Kazi Gani Iliyo Muhimu Zaidi?	id=20433
+Lusoga (Translation)	Mulimo Ki Ogusinga?	id=20397
+Ng’aturkana (Translation)	Etich Ali Ejok Noi?	id=20412
 Portuguese (Translation)	Desentendimento Entre Profissões	id=16413
+Setswana (Translation)	Ke Tiro Efe E E Botlhokwa Go Feta?	id=21162

@@ -17,11 +17,13 @@ P3	Tibɔr gbaan nan moon ntingbaan gbaan aapepel mɔmɔk. Njan aaja u nan dan na
 P4	Biwakordam aaninkpel le nan paan. U nan ŋan uja,  ki nan ye uwankpadaan le ki la puan. Amaa baa di lisubil siin u na,  le u kpaan di ŋman mala le bi cha u fii kunn.
 P5	Uja u nan paan dan na,  nan kpa kitiŋ pam. U nan mak le kaa ŋan. Upiibo gbaan nan mee ke u mu ŋmɔ aan ki fii. Ba nan di siin u na,  u nan yii kaa ŋman. N-yoonn nan jer,  le upiibo gbaan piin ki gaŋni u ke u ŋmɔ. Tikur tinaa aayoonn na,  nkon nan nyaŋ u le u ŋman. Bi nan cha u mu fii kunn.
 P6	Ki paan na,  ubɔr le nan dan. U nan mak,  ki por le kaa ŋan. Unii aa nan gee u ntingbaan gbaan ni. Upiibo gbaan nan ban ke u mu ŋmɔ aan ki fii. Ba nan tii u lisubil nan,  u nan yii kaa ŋman. U nan bi ti saa kijook. Ki joo cha tikur tiloob na,  u nan mee nsan ke u ti sonl.
-P7	Iwiin siib aa jer na,  ubɔrbo nyaan,  ki la puan aan ki ye uwankpadaan na nan dan. Upiibo gbaan nan lik u ngeen ponn ni. U nan di u buen ngbaan le ki gaŋ u ke u taa ŋmɔ lisubil gbaan. U nan di ŋisubil siib le siin u. Amaa nwiin ti saa kaasisik ni na,  ubɔrbo gbaan nan puun ŋman aa le bi cha u fii kunn. Upiibo gbaan nan piin ki bi wii liŋuul ni nsugar ponn ni.
-P8	Na wonl na,  le ukpaal uba dan. U nan ye ugiin le ki kpa ligbanyakl,  amaa u nan la puan le binib pam nan nyi u ke u ye ubɔlen kpaan la. U nan dan ni limakl ke u ga kan linyaŋ. Upiibo gbaan nan tii u ŋisubil ŋi wiir le ki tuk u ke u ŋmɔ ki li cha.
-P9	U te ni u na nan di bi bisal tii "ugbanyakldaan" gbaan. Upiibo gbaan nan gaŋ ke bi nyan u waa wuyiil ni,  amaa u te ni u na aa nan ŋman bi ŋa niba. Ukpaal gbaan aa nan joo u cha kun na,  u nan gaa nlan muan muba ki kpaar u ŋal. Binib pam le nan nyan ni nsan pu bi nan lik bibɔndim gbaan.
-P10	Ubɔrbo gbaan aatutuliib nan ŋmal binib bi nyan ni na ni. Bi nan yin ukpaal gbaan ngbaan,  ke bi ga tii u ilik ni inaa u ya ga buen cha upiibo gbaan kan. Mala mala,  le u gaa ilik ni inaa gbaan le ki siir.
-P11	Bitutuliib gbaan nan di tiwanyaan peen upiibo gbaan le ki di u buen kinakook ni ubɔrbo gbaan chee. Naa yunn le bi yin upiibo aa te ni u na le ki ŋa njim aan bi mɔn tɔb.
+P7	Bi nan cha u buen. Waa nan gir ni na,  lisubil gbaan aabaan nan bi u pu,  le u mɔgbanl nan man! U nan ti ŋman lisubil gbaan baanjira ni la! Upiibo aa geen na,  bi nan cha u mu fii kunn.
+P8	Iwiin siib aa jer na,  ubɔrbo nyaan,  ki la puan aan ki ye uwankpadaan na nan dan. Upiibo gbaan nan lik u ngeen ponn ni. U nan di u buen ngbaan le ki gaŋ u ke u taa ŋmɔ lisubil gbaan. U nan di ŋisubil siib le siin u. Amaa nwiin ti saa kaasisik ni na,  ubɔrbo gbaan nan puun ŋman aa le bi cha u fii kunn. Upiibo gbaan nan piin ki bi wii liŋuul ni nsugar ponn ni.
+P9	Na wonl na,  le ukpaal uba dan. U nan ye ugiin le ki kpa ligbanyakl,  amaa u nan la puan le binib pam nan nyi u ke u ye ubɔlen kpaan la. U nan dan ni limakl ke u ga kan linyaŋ. Upiibo gbaan nan tii u ŋisubil ŋi wiir le ki tuk u ke u ŋmɔ ki li cha.
+P10	Ba nan di siin u na,  u nan yii kaa ŋman. Upiibo gbaan nan si kii u ni wu u. Nwiin ti sa kaasisik ni ki jer,  le tikur tilee. Tikur tinaa aa gbaa na,  le ukpaal gbaan len ke bi ti u nnyun. Upiibo gbaan nan mee ke u ga ŋmɔ lisubil gbaan,  amaa u nan bee ni bi mee le tikur tilole gbaa. Ukpaal wee nan kan linyaŋ ntɔm mu upiibo aa te ni u na nan tii na.
+P11	U te ni u na nan di bi bisal tii "ugbanyakldaan" gbaan. Upiibo gbaan nan gaŋ ke bi nyan u waa wuyiil ni,  amaa u te ni u na aa nan ŋman bi ŋa niba. Ukpaal gbaan aa nan joo u cha kun na,  u nan gaa nlan muan muba ki kpaar u ŋal. Binib pam le nan nyan ni nsan pu bi nan lik bibɔndim gbaan.
+P12	Ubɔrbo gbaan aatutuliib nan ŋmal binib bi nyan ni na ni. Bi nan yin ukpaal gbaan ngbaan,  ke bi ga tii u ilik ni inaa u ya ga buen cha upiibo gbaan kan. Mala mala,  le u gaa ilik ni inaa gbaan le ki siir.
+P13	Bitutuliib gbaan nan di tiwanyaan peen upiibo gbaan le ki di u buen kinakook ni ubɔrbo gbaan chee. Naa yunn le bi yin upiibo aa te ni u na le ki ŋa njim aan bi mɔn tɔb.
 
 images:
 
@@ -43,6 +45,7 @@ translations:
 English (Original)	Fruit	id=2124
 French (Translation)	Les Fruits	id=10182
 Gurene (Translation)	Tiisi Wɔla	id=12666
+Kinyarwanda (Translation)	Imbuto	id=20282
 Kiswahili (Translation)	Matunda	id=8431
 Lugbarati (Translation)	Pati Efi	id=2334
 Lugbarati (Official) (Translation)	Patí Éfɨ́	id=8750
@@ -50,4 +53,4 @@ Lumasaaba (Translation)	Bibyaano	id=3086
 Lumasaaba (Translation)	Bibyaano	id=8688
 Lunyole (Translation)	Ehibala	id=2333
 Rutooro (Translation)	Ekijuma	id=14923
-siSwati (Adaptation)	Sitselo	id=13072
+Siswati (Adaptation)	Sitselo	id=13072

@@ -1,25 +1,25 @@
 url:	http://africanstorybook.org/reader.php?id=8402&d=0&a=1
 id:	8402
-title:	Amago Gange Ninange
+title:	Amago Gange Ni Nange
 author:	Bukheye Mulongo Christopher
 artist:	Wiehan de Jager
 lang:	Lunyole
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/8402.png
-desc:	Olugero olu ɳamba  hu hosuho
+desc:	Olugero olu ɳamba hu hosuho.
 
 page_text:
 
-P1	Ehinyaŋa hyange ninange hulengerera enyuni jange mwigulu.
-P2	Enyuni jange ninange hwagaana erihe mu musaala.
-P3	Erihe lyange ninange hugudula n'ekooli jange mu lusozi.
-P4	Ekooli jange ninange hubbota ekima mwiroba erye'ehipaapi.
-P5	Ekima yange ninange hulya amalafu n'erihe hisi ludaalo.
+P1	Ehinyaŋa hyange ni nange hulengerera enyuni jange mwigulu.
+P2	Enyuni jange ni nange hwagaana erihe mu musaala.
+P3	Erihe lyange ni nange hugudula n'ekooli jange mu lusozi.
+P4	Ekooli jange ni nange hubbota ekima mwiroba erye'hipaapi.
+P5	Ekima yange ni nange hulya amalafu n'erihe hiisi ludaalo.
 P6	Enguge yange n'ekima bitya omwami w'ehudu hiisi mungeri.
-P7	Omwami w'ehudu ninange hutiina engo n'etemu ekaana pola pola weene.
+P7	Omwami w'ehudu ni nange hutiina engo n'etemu ekaana pola pola weene.
 P8	Etemu ekaana ninange hwenda ohufuuŋa oluluusi n'ohwemba enyembo hwigobo.
-P9	Ab'amago gange boosi ninange humenyire ŋalala mu manyonyo ameene amangi.
+P9	Ab'amago gange boosi ni nange humenyire ŋalala mu manyonyo ameene amangi.
 
 images:
 
@@ -37,11 +37,11 @@ illustrations/pages/5224.png
 translations:
 
 Afrikaans (Translation)	Ek en my Groot Familie	id=11375
-English (Original)	My Family and I	id=5266
+English (Original)	My Family And I	id=5266
 French (Translation)	Ma Famille Et Moi	id=9924
 French (Translation)	Ma Famille Et Moi	id=10153
 Fulfulde (Translation)	Min E Koreeji Am	id=10003
-Hausa (Translation)	Ni Da Iyalina	id=9972
+Hausa (Niger) (Translation)	Ni Da Iyalina	id=9972
 isiZulu (Translation)	Mina Nomndeni Wami	id=7461
 isiZulu (Adaptation)	Mina Nomdeni Wami	id=13596
 Kanuri (Translation)	Wu-a Yallani-A	id=10032

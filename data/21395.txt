@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21395&d=0&a=1
+id:	21395
+title:	Monkey And Hyena
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Salim Kasamba
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21395.png
+desc:	Who will solve the dispute between Monkey and Hyena?
+
+page_text:
+
+P1	Monkey and Hyena had an argument. 
+
+They went to a judge.
+P2	The judge thought, “Monkey will eat my maize.
+Hyena my cattle!"
+P3	The judge told Monkey and Hyena to ask the
+village elders.
+P4	The elders also feared to pass judgement on
+Monkey or Hyena.
+P5	The elders told Monkey and Hyena, “The case is
+very difficult.”
+P6	They told Monkey and Hyena to ask a poor woman.
+P7	The poor woman agreed to judge their case.
+P8	She said to Hyena, “You are respected, big and a hero.”
+P9	Hyena said, “You are right. I will end this disagreement with Monkey."
+P10	The woman said, “You are smart.” 
+
+Monkey decided to stop quarrelling.
+P11	She said, “You both agreed to stop quarrelling.
+Forgive each other.”
+P12	The poor woman solved the problem. 
+
+People were surprised.
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18696.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18708.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18706.png
+illustrations/pages/18707.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	Hyena and Monkey (Colour-In)	id=20157

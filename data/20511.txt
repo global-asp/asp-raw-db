@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=20511&d=0&a=1
+id:	20511
+title:	Biri Da Fari
+author:	Christiana Ladidi Catoh and Musa Zakari Yau
+artist:	Salim Kasamba
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20511.png
+desc:	Bukatuwar zaman tare da kaunar kuma taimakon juna.
+
+page_text:
+
+P1	Damina bata sauka ba, kuma kasa ta bushe karau.
+P2	Ita wannan biranya ta bar gida don neman ruwa da abinci
+P3	Ta karade cikin duwatsu da koramai.
+P4	Sai ta zo wani wuri mai suna Tirkol.
+P5	Wannan biranyar ta yi matukar murna da zuwa wannan wuri
+P6	Ta ci abinci tayi kiba. Tayi bakin cikin rasa abokai
+P7	Saboda haka, biranya ta yi doguwar tafiya zuwa gida.
+P8	Da ganin ta, sauran birai suka cika da farin ciki.
+P9	Sabili da haka, biranya ta yi doguwar tafiya zuwa gida.
+P10	Saboda haka, biranya ta yi doguwar tafiya zuwa gida da.
+P11	Sauran birai sun so Tirkol. Suka  yadda su zauna tare.
+P12	Sai dai hankalin birorin Tirkol ya tashi.
+P13	Suka ce, "bakin birorin nan zasu cin ye abincin duka".
+P14	Sai birorin Tirkol suka kai hari kan bakin birorin.
+P15	Suka ce, "bakin birorin nan za su cin ye mana abinci".
+P16	(Suka ce) wannan gaskiya ne. Sai suka yi shawarar zama.
+
+images:
+
+illustrations/pages/18796.png
+illustrations/pages/18786.png
+illustrations/pages/18788.png
+illustrations/pages/18789.png
+illustrations/pages/18790.png
+illustrations/pages/18791.png
+illustrations/pages/18792.png
+illustrations/pages/18793.png
+illustrations/pages/18794.png
+illustrations/pages/18795.png
+illustrations/pages/18796.png
+illustrations/pages/18797.png
+illustrations/pages/18798.png
+illustrations/pages/18799.png
+illustrations/pages/18800.png
+illustrations/pages/18801.png
+illustrations/pages/18802.png
+
+translations:
+
+Afaan Oromo (Translation)	Jaldeesafi Hongee	id=20429
+Amharic (Translation)	ዝንጀሮና ድርቁ	id=20500
+English (Original)	Monkey and the Drought	id=18803
+English (Adaptation)	Monkey and the Drought	id=19767
+Hausa (Nigeria) (Translation)	Birai A Lokacin Fari	id=21366
+isiZulu (Translation)	Unkawana Nesomiso	id=20725
+Kiswahili (Translation)	Kima Na Kiangazi	id=18804
+Kiswahili (Translation)	Kima Na Kiangazi	id=20440
+Ng’aturkana (Translation)	Ekadokot Ka Akamu	id=20411

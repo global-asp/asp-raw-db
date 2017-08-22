@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=20874&d=0&a=1
+id:	20874
+title:	Animals Run Away
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Magriet Brink
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20874.png
+desc:	Four elderly animals join together to liberate themselves from their ungrateful owners
+
+page_text:
+
+P1	An old woman had chickens and an old rooster.
+P2	Her grandson visited her. She decided to kill the old rooster.
+P3	The old rooster ran away to the big city.
+P4	The old rooster met the cat running away from her boss.
+P5	The old rooster and the cat met the dog running away.
+P6	They were joined by a horse which was running away too.
+P7	The animals came to a house. They saw thieves inside!
+P8	The animals sang loudly to chase away the thieves.
+P9	They ate the food they found in the house.
+P10	The thieves returned later. The animals attacked them.
+P11	The thieves ran away forever.
+P12	The animals lived together happily in the house.
+
+images:
+
+illustrations/pages/8524.png
+illustrations/pages/8517.png
+illustrations/pages/8518.png
+illustrations/pages/8519.png
+illustrations/pages/8520.png
+illustrations/pages/8521.png
+illustrations/pages/8522.png
+illustrations/pages/8523.png
+illustrations/pages/8524.png
+illustrations/pages/8525.png
+illustrations/pages/8526.png
+illustrations/pages/8527.png
+illustrations/pages/8528.png
+
+translations:
+
+Afrikaans (Translation)	Die Ou Plaashaan	id=11053
+Afrikaans (Translation)	Ou Haan	id=11359
+Afrikaans (Translation)	Ou Haan	id=11523
+Amharic (Translation)	ያመለጡት እንስሳት	id=21181
+English (Original)	Old Rooster	id=9545
+French (Translation)	Le Vieux Coq	id=10840
+Kiswahili (Translation)	Wanyama Waliotoroka	id=21074
+Ng’aturkana (Translation)	Ng’Itieng Lu Apotu Tosiwakis	id=21137
+Portuguese (Translation)	Velho Galo	id=18863
+Tigrigna (Translation)	ዘምለጡ እንስሳት	id=21111

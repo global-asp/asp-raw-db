@@ -1,24 +1,24 @@
 url:	http://africanstorybook.org/reader.php?id=15389&d=0&a=1
 id:	15389
-title:	Ħisbèn Ħayewènèt
+title:	Ħisbēn L-Ħayewēnēt
 author:	Ramzi Hachani
 artist:	Rob Owen
 lang:	Tunisian
 level:	First words
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/15389.png
-desc:	Il-ħayewènèt il-kull ġuŧcènìn. Iħsibhum w hùme mècìn bic yucrbu il-me.
+desc:	L-Ħayewēnēt l-koll ɛoṭċēnīn. Iħsibhom w hūma mēcīn biċ yoċrbu l-me.
 
 page_text:
 
-P1	Fìl wèħid bic yucrub il-me.
-P2	Zùz zaràfèt bic yucrbu il-me.
-P3	Ċlèċe jwèmis w arbġa ġṡàfir bic yucrbu il-me kìf kìf.
-P4	Xamse ɍzèlèt w sitte ħlèlif mècìn l'il-me.
-P5	Sebġa ħmùr waħciye jèrìn l'il-me.
-P6	Ċmenye jrànèt w tisġa ħùtèt yġùmu fi'l-me.
-P7	Ṡìd wèħid yizhir. Huwwe zède yħibb yucrub. Ckùn yxàf min iṡ-ṡid?
-P8	Fìl wèħid qàġid yucrub mġa'ṡ-ṡìd.
+P1	Fīl wēħid biċ yoċrob l-me.
+P2	Zūz zarāfēt biċ yoċrbu l-me.
+P3	Ŧlēŧa jwēmis w'arbɛa ɛṣāfir biċ yoċrbu l-me kīfkīf.
+P4	Ҟamsa ɣzēlēt w sitta ħlēlif mēċīn li'l-me.
+P5	Sebɛa ħmūr waħċiya jērīn li'l-me.
+P6	Ŧmenya jrānēt w tisɛa ħūtēt yɛūmu fi'l-me.
+P7	Ṣīd wēħid yizhir. Huwwa zēda yħibb yoċrob.
+P8	Fīl wēħid qāɛid yoċrob mɛa'ṣ-ṣīd.
 
 images:
 
@@ -37,6 +37,7 @@ translations:
 Afrikaans (Translation)	Tel Die Diere	id=10448
 Afrikaans (Translation)	Tel Die Diere	id=11413
 Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Amharic (Translation)	እንሰሳትን እንቁጠር	id=21302
 Asante Twi (Translation)	Mmoa Akenkan	id=18219
 Dagaare (Translation)	Donne Sɔrebo	id=17769
 Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
@@ -47,7 +48,9 @@ Fante (Translation)	Mbowadoma Nkanee	id=18487
 French (Translation)	Compter Les Animaux	id=12654
 Ga (Translation)	Kooloi Kanemɔ	id=18287
 Gonja (Translation)	Asɔbɔaya Be Ke Karga	id=18173
+Hausa (Nigeria) (Translation)	Kidayar Dabbobi	id=20516
 Kasem (Translation)	Vara Garem	id=18208
+Kinyarwanda (Translation)	Kubara Inyamaswa	id=20220
 Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
 Lámnsoʼ (Translation)	Á Táŋ Nyám Si	id=15064
 Luganda (Translation)	Ohubala Ebisolo	id=11905
@@ -56,4 +59,5 @@ Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
 Nzema (Translation)	Nane Edianlɛ	id=18423
 Oluwanga (Translation)	Okhubala Tsisolo	id=19590
 Portuguese (Translation)	Contando Os Animais	id=16562
+Runyankore (Translation)	Okubara Ebinyamiiswa	id=21333
 Yoruba (Translation)	Kíka Àwọn Ẹranko	id=16554

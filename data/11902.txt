@@ -15,12 +15,14 @@ P1	Onu nuwe omwegesa wange. Ibaralye nuwe Akinyi. Angonza muno.
 P2	Omwegesa Akinyi ayegesa enyuguta enculeezi nenyatuzi. Nisobora kugamba enyuguta a,  e,  i,  o,  u.
 P3	Omwegesa Akinyi atwegeseze erangi eyekunanata,  kakobe,  kibabi,  kyenju ne yekwiragura.
 P4	Obwire bwokubyama omwegesa Akinyi atuzinira tubyame. Atuzinira ebiremberro ebirungi.
-P5	Balaza akatugambira embazo ezikukwataho abasaija abamaani.
-P6	Kyakabiri omwegesa Akinyi akatugambira embazo ezikwataho abakazi abamaani.
-P7	Kyakusatu,  akatugambira embazo ezikwataho emiringo yebyengenda.
-P8	Kyakana akatugambira embazo ezikukwataho kulima nokuliisa.
-P9	Kandi kyakataano,  omwegesa Akinyi akatugamba kugamba embazo ezaitu mukitebe.
-P10	Omwegesa waitu nuwe mwegesa akukirayo mwihanga lyona. Obundikura,  ningonza kuba nkomwegesa Akinyi.
+P5	Ekiremberro nikigenda kiti: Cuncubira Abwooli cuncubira,  cuncubira ngende kwiba nyoko --.
+P6	Omwegesa Akinyi amanyire embazo nyingi. Atugambira embazo zitali zimu buli kiro mu sabiiti.
+P7	Balaza akatugambira embazo ezikukwataho abasaija abamaani.
+P8	Kyakabiri omwegesa Akinyi akatugambira embazo ezikwataho abakazi abamaani.
+P9	Kyakusatu,  akatugambira embazo ezikwataho emiringo yebyengenda.
+P10	Kyakana akatugambira embazo ezikukwataho kulima nokuliisa.
+P11	Kandi kyakataano,  omwegesa Akinyi akatugamba kugamba embazo ezaitu mukitebe.
+P12	Omwegesa waitu nuwe mwegesa akukirayo mwihanga lyona. Obundikura,  ningonza kuba nkomwegesa Akinyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -55,10 +58,12 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

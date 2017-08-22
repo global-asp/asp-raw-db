@@ -11,17 +11,18 @@ desc:	Munoonie obugaiga obuli mu itaka.
 
 page_text:
 
-P1	Abantu bangi baali mu bwaavu obuliza.
+P1	Abantu bangi baali mu bwavu obuliza.
 P2	Omwami Kyemba,  abakulira,  yaabakubiriza. "Munoonie obugaiga obuli mu itaka." Aye baali bakakanhavu era tibafaayo ku bigambo bye.
-P3	Ghalowo omulenzi yebeeta Mutaka. Mutaka yagemanga obunhonhi bungi. Yabulyanga bulamba. Yalyanga n'amani n'e byenda.
-P4	Lulala,  Mutaka yagema akayemba ku muti. Akayemba bwe kaabona nga Mutaka agya ku kata mu mainho. Kaamukoba kati,  "Muna,  ndeka nkukobere ky'oyenda okumanha."
-P5	Mutaka n'okukoba ati,  "Nkobera. Mmale nkulye!"
+P3	Ghaaligho omulenzi yebeeta Mutaka. Mutaka yagemanga obunhonhi bungi. Yabulya nga bulamba. Yalyanga na amani ne byenda.
+P4	Lulala,  Mutaka yagema akayemba ku muti. Akayemba bwe kaabona nga Mutaka agya ku kata mu mainho. Kaamukoba kati,  "Muna,  ndeka nkukobere kyoyenda okumanha."
+P5	Mutaka nookukoba ati,  "Nkobera. Mmale nkulye!"
 P6	Akayemba kaayogeranga eno bwe kakyusa langi yaako. "Ndekula ngye ku muti gule memale nkukobere ebindi."
 P7	Mutaka yaalekula akayemba kaagya ku muti ogundi. Bwe kaatuukayo,  kaasekerera Mutaka. "Obugaiga buli mu nzeee!" Akayemba bwe kaayemba.
 P8	Mutaka yaabuuza,  "Oli kukoba ki?" "Munda mwange mulimu zaabu!" Akayemba bwe kairamu. "Obaire mudhega okundekula. Weefiiriiza obugaiga bungi." Akayemba bwe kaamusaaliza.
-P9	Akayemba kaania ensaabira efaanana oti zaabu. Kaagulukira ku muti ogusingaku obughanvu. Mutaka yaatandiika okutakula eitaka okwetoolooza omuti.
-P10	Yaayeta n'abandi ku kyalo,  "Mwidhe,  tutakule ebyobugaiga mu itaka."
-P11	Era akayemba kakaali kayembera mu muti nti,  "Obugaiga buli mu nzeee!"
+P9	Akayemba kaania ensaabira efaanana oti zaabu. Kaagulukira ku muti ogusingaku obughanvu. Mutaka yaatandiika okutakula eitaka okwetooloola omuti.
+P10	Yaayeta naabandi ku kyalo,  "Mwidhe,  tutakule ebyobugaiga bili mu itaka."
+P11	Na buti,  Mutaka na abataka bali kutakula itaka kunoonia zaabu ali mu itaka.
+P12	Era akayemba kakaali kayembera mu muti kati,  "Obugaiga buli mu nzeee!"
 
 images:
 
@@ -40,4 +41,4 @@ illustrations/pages/18395.png
 
 translations:
 
-English (Translation)	Look for the Gold	id=19474
+English (Translation)	Look For The Gold	id=19474

@@ -1,22 +1,22 @@
 url:	http://africanstorybook.org/reader.php?id=14088&d=0&a=1
 id:	14088
-title:	Papa's Shamba.
+title:	Mama's Garden
 author:	Judith Twala
-artist:	Jesse Breytenbach, Wiehan de Jager, Marion Drew, Catherine Groenewald, Jesse Pietersen, Silva Afonso and Vusi Malindi
+artist:	Zablon Alex Nguku, Wiehan de Jager, Steven McKimmie and Jesse Breytenbach
 lang:	English
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/14088.png
-desc:	It is a story about a shamba.
+desc:	It is a story about a garden.
 
 page_text:
 
-P1	This is Papa's shamba. It is big and beautiful. Papa plants so many crops in it.
-P2	This is a mango tree Papa has planted. The mangoes are ripe and appear juicy. They make me salivate.
-P3	Mama and I usually visit the shamba to get some maize for roasting. At times, Papa goes to sell the maize at the market place.
-P4	Papa's shamba has got big pumpkins and tomatoes. Mama is staring at one of the giant pumpkin.
-P5	This are neighbor's cows feeding on papa's sweet potato vines. Papa is so frustrated as he chases them away with my brother.
-P6	Papa has also planted sugarcane.I love hiding inside them while playing with my friends.
+P1	This is Mama's garden. It is big and beautiful. Mama plants many crops in it.
+P2	This is a mango tree Mama planted. The mangoes are ripe and look juicy. They make me salivate.
+P3	Mama and I visit Mama's garden to get maize for roasting. Sometimes, Mama goes to sell the maize at the market.
+P4	Mama's garden has big pumpkins and tomatoes. There is one giant pumpkin I like looking at.
+P5	The neighbour's cows are feeding on Mama's sweet potato vines. Mama will be so angry when she finds out.
+P6	Mama also plants sugarcane. My friends and I love to play hide and seek in the sugarcane.
 
 images:
 
@@ -30,3 +30,4 @@ illustrations/pages/9847.png
 
 translations:
 
+Runyoro (Translation)	Omusiri Gwa' Mama	id=20647

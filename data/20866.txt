@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=20866&d=0&a=1
+id:	20866
+title:	Dabbobi- Dabbobi
+author:	Auwalu Abdullahi Fagge and Taiye Fatoki
+artist:	Sandy Campbell, Wiehan de Jager and Rob Owen
+lang:	Hausa (Nigeria)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/20866.png
+desc:	Bayyana amfanin dabbobi a cikin alumma.
+
+page_text:
+
+P1	Kalli dabbobin da mu ke kiwo a gida.
+P2	Saniya ta na bamu madara.
+P3	Zomayye da maguna abokan mutane ne.
+P4	Doki ya na haniniya ya ce "ehhehhh."
+P5	A kasar Uganda ana bayar da shanu da awaki a matsayin sadaki.
+P6	Kaza ta na cewa "kuut-kuut."
+P7	Ana amfani da kare a matsayin mai tsaro a gidajen mu.
+P8	Manomi ya na kula da su sosai.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+English (Adaptation)	Look at Our Animals	id=10258
+English (Adaptation)	Animals, Animals	id=10260

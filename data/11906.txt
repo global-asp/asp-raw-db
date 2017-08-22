@@ -11,14 +11,14 @@ desc:	Wali oweneho eŋombe eyo lwiga lulala ate neŋumaho muhira.
 
 page_text:
 
-P1	Wange eweee! Eriyo eŋombe enyene endaŋi engo eyo.
+P1	Wange ew-e-e-e! Eriyo eŋombe enyene endaŋi engo eyo.
 P2	Eŋumaaho muhira era ya lwiga lulala lwoŋene. Eboneha bulaŋi bugali.
-P3	Ngeeji,  era eri n'ehida e hibba.
+P3	Ngeji,  era eri n'ehida hibba.
 P4	Nj' eŋombe ehirira erala amaani.
-P5	Omwayi w'eŋombe yino ayenda bugali. Geegesa eŋombe yino huŋulirisa ejanjaasi lirye lyoŋene.
-P6	Ehidooli ni hitiina mu esugu ohwaya,  eŋombe yino esiiba ŋayoŋene.
-P7	Eŋombe yino sooli yambaha,  kale eŋombe ejindi jiyireha yoŋene.
-P8	Abaatu,  eŋombe yino bayimanyire. Bayitya,  lwohuba yiŋanga ohusoola netambisa olwiga olulala olwo. Singa oba wageene eŋombe hy'eyo,  wahaholire hiina?
+P5	Omwayi w'eŋombe yino ayenda bugali. Geegesa eŋombe yino huŋulirisa ejanjaasi lirye iyonyene.
+P6	Ehidooli ni hitiina mwisugu ohwaya,  eŋombe yino esiiba ŋayonyene.
+P7	Eŋombe yino sooli yambaha,  kale eŋombe ejindi jiyireha yonyene.
+P8	Abaatu,  eŋombe yino abaali bayimanyire. Bayitya,  lwohuba yiŋanga ohusoola netambisa olwiga olulala olwo. Singa oba wageene eŋombe hy'eyo,  ohola hiina?
 
 images:
 
@@ -37,12 +37,14 @@ translations:
 Afaan Oromo (Translation)	Sa'aa Gaafa Tokko Qabdu	id=12959
 Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
 English (Translation)	Cow With One Horn	id=9622
+Hausa (Nigeria) (Translation)	Saniya Mai Kaho Daya	id=20865
 isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
 isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Kinyarwanda (Translation)	Inka Y' Ihembe Rimwe	id=21049
 Kiswahili (Translation)	Ng'ombe Mwenye Pembe Moja	id=15712
 Lámnsoʼ (Translation)	Nàʼ Wo Wù Kér Loŋ E Mòʼón	id=15065
 Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
 Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
 Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
 Sesotho (Lesotho) (Original)	Khomo E Bokopa	id=9621
-siSwati (Translation)	Inkhomo Leneluphondvo Lunye	id=13076
+Siswati (Translation)	Inkhomo Leneluphondvo Lunye	id=13076

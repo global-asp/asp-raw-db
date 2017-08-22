@@ -11,6 +11,15 @@ desc:	Louise tem algum trabalho a fazer para a escola. Sua mãe se oferece para 
 
 page_text:
 
+P1	Luísa: Tenho de fazer um trabalho para a escola. Mãe: Posso ajudar-te?
+P2	Luísa: O que semeamos na machamba? Mãe: Mandioca.
+P3	Luísa: O que comemos da mandioca? Mãe: Comemos a raiz e as folhas.
+P4	Luísa: O que mais semeamos na machamba? Mãe: Semeamos amendoim.
+P5	Luísa: O amendoim é raiz? Mãe: Não. É semente,  vem da flor.
+P6	Luísa: O que mais semeamos na machamba? Mãe: Semeamos milho.
+P7	Luisa: Comemos a maçaroca. Mãe: Também pilamos para ficar em farinha. Com a farinha,  fazemos xima.
+P8	Luísa: O que mais semeamos na machamba? Mãe: Semeamos feijão nhemba que é muito saudável.
+P9	Luísa: Semeamos muita coisa na machamba. Mãe: Assim temos sempre alimentos saudáveis!
 
 images:
 

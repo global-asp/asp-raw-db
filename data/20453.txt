@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=20453&d=0&a=1
+id:	20453
+title:	Ekalokan 
+author:	John  Ng'asike
+artist:	Jacob Kono
+lang:	Ng’aturkana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20453.png
+desc:	Ayei kolong ekalokan
+
+page_text:
+
+P1	Ayei kolong ekalokan, aloki ng'esi ng'itieng anariyet. Ng'irwa lukaalak ng'isuruma ng'esi tani etieng'it epei. Abu akoro tanyam ng'esi ka awi keng lokojokon. Arai ng'itieng akimuj kech nateno.
+P2	Ache taparachu, abu ng'esi tolot aroun ng'iloi keng anariyet. Ayei ekeny keng akolong'it ng'ina. Toriamu eloit keng epei irumit ekori.
+P3	Talakar lokojokon na anyung'aria ekori irumit. Kinyaka kisigaea akwara tama, "Yoe! Apwatasi ng'ide kire!" Tama ng'esi, "Kimiek eyapu ekori lo elemuana nyebukor tani eng'oolet."
+P4	"Kechum dang ebukor ng'akot, kimiek atong'ed ng'apokit tourienikin."
+P5	Dio tololoya jik wadio, toremo akwara ebala echum apokit a ekori. Tama akwara akidiak apokit sodi torem eloit tong'ed!
+P6	Topor ekori kipung'ar. Abu ekalokan torwakin ekosim dio ekori tanapa ng'esi kirigaria amoni.
+P7	Kilekiaros tani ni awatakinia ekori ng'esi kidiama ng'ikwa.
+P8	Kilek robo ekalokan topud anamoni ka ng'ajemei ang'ikwa tobong'o nawi esiliyorit. 
+
+Etereku keng ng'esi etubukori akimuj!
+
+images:
+
+illustrations/pages/25085.png
+illustrations/pages/25082.png
+illustrations/pages/25083.png
+illustrations/pages/25084.png
+illustrations/pages/25085.png
+illustrations/pages/25086.png
+illustrations/pages/25088.png
+illustrations/pages/25087.png
+illustrations/pages/25089.png
+
+translations:
+
+English (Translation)	The Hunter	id=20454
+Kinyarwanda (Adaptation)	Umuhigi	id=20475

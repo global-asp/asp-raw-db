@@ -18,6 +18,7 @@ P4	I saw chimpanzees,  baboons,  and monkeys.
 P5	I saw different birds. I saw crested cranes,  eagles,  and owls.
 P6	I laughed when I saw a big elephant with a little tail.
 P7	I saw so many different animals,  birds,  and plants.
+P8	Kibale forest is a good place to visit. I love forests! Do you?
 
 images:
 
@@ -32,4 +33,5 @@ illustrations/pages/16540.png
 
 translations:
 
+Kinyarwanda (Translation)	Nkunda Amashyamba	id=20684
 Rutooro (Original)	Ngonza Ebibira	id=16545

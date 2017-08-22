@@ -15,12 +15,14 @@ P1	Esta é a minha professora. Chama-se Professora Akinyi. Gosta muito de nós.
 P2	A Professora Akinyi ensina-nos o alfabeto. Ensina-nos as vogais. Já sei dizer as letras a,  e,  i,  o,  u.
 P3	A Professora Akinyi ensina-nos as cores. Já conheço o vermelho,  o azul,  o verde,  o amarelo e o preto.
 P4	Durante a sesta,  a Professora Akinyi canta-nos até adormecermos. Canta-nos uma canção de embalar.
-P5	À segunda,  conta-nos histórias sobre grandes homens.
-P6	À terça,  conta-nos histórias sobre grandes mulheres.
-P7	À quarta,  conta-nos histórias sobre meios de transporte.
-P8	À quinta,  conta-nos histórias sobre agricultura.
-P9	E à sexta,  a Professora Akinyi pede-nos que contemos as nossas próprias histórias.
-P10	A nossa professora é a melhor professora do mundo! Quando crescer,  quero ser como a Professora Akinyi.
+P5	A canção de embalar é assim: Dorme meu menino a estrela d'alva Já a procurei e não a vi Se ela não vier de madrugada Outra que eu souber será p'ra ti.
+P6	A Professora Akinyi conhece muitas histórias. Conta-nos uma história diferente todos os dias da semana.
+P7	À segunda,  conta-nos histórias sobre grandes homens.
+P8	À terça,  conta-nos histórias sobre grandes mulheres.
+P9	À quarta,  conta-nos histórias sobre meios de transporte.
+P10	À quinta,  conta-nos histórias sobre agricultura.
+P11	E à sexta,  a Professora Akinyi pede-nos que contemos as nossas próprias histórias.
+P12	A nossa professora é a melhor professora do mundo! Quando crescer,  quero ser como a Professora Akinyi.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -55,10 +58,12 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

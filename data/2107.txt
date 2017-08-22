@@ -12,16 +12,18 @@ desc:	The story tells of Khayanga
 page_text:
 
 P1	Khayanga lived with her parents happily until they died when she was ten years old.
-P2	Khayanga was taken in by Rosa,  a distant relative. Rosa was kind to Khayanga,  but she was old,  frail and poor.
+P2	Khayanga was taken in by Rosa,  a distant relative. Rosa was kind to Khayanga, but she was old,  frail and poor.
 P3	Khayanga often visited her parents' graves to tell them of her misery.
-P4	One day when she visited,  she received a gift. It was a very special Gourd which appeared from her parents' graves.
+P4	One day when she visited, she received a gift. It was a very special Gourd which appeared from her parents' graves.
 P5	The Gourd sang a beautiful and soothing song. Khayanga recognised the voice as that of her late mother. It went like this.
-P6	Khayanga carried her special Gourd everywhere.    With her Gourd,  Khayanga felt her parents' presence and protection.
-P7	One day,  something bad happened to her special Gourd. It broke when she was fetching water in the river.     Khayanga's heart broke as well.
-P8	Khayanga held the pieces of the broken Gourd in her small hands and sang:.
-P9	Khayanga heard her mother's voice saying to her: "Our child,  pick up the pieces that are left. Fetch water with them and wash your feet. When you finish washing,  close your eyes." Khayanga obeyed and suddenly,  the broken Gourd became whole once again.
-P10	Khayanga continued to carry her Gourd everywhere she went. Wherever she passed,  people whispered to each other,  "What type of gourd is this?" With her special Gourd,  Khayanga received everything she needed.
-P11	With the special Gourd,  Khayanga knew that her parents were watching over her. Nothing bad could happen to her.
+P6	Khayanga, ee, Khayanga! Our child the loved one! You're not alone, loved one! Have this gourd, loved one! Carry it everywhere you go, loved one! Let it console you loved one!
+P7	Khayanga carried her special Gourd everywhere. With her Gourd, Khayanga felt her parents' presence and protection.
+P8	One day,  something bad happened to her special Gourd. It broke when she was fetching water in the river. Khayanga's heart broke as well.
+P9	Khayanga held the pieces of the broken Gourd in her small hands and sang:
+P10	Father and Mother, See the gourd is broken. The gourd you gave me. What do I do, Mother and Father? Be kind and show me a sign That you are still with me.
+P11	Khayanga heard her mother's voice saying to her: "Our child,  pick up the pieces that are left. Fetch water with them and wash your feet. When you finish washing, close your eyes." Khayanga obeyed and suddenly, the broken Gourd became whole once again.
+P12	Khayanga continued to carry her Gourd everywhere she went. Wherever she passed, people whispered to each other, "What type of gourd is this?" With her special Gourd, Khayanga received everything she needed.
+P13	With the special Gourd, Khayanga knew that her parents were watching over her. Nothing bad could happen to her.
 
 images:
 
@@ -44,7 +46,7 @@ Afrikaans (Translation)	Khayanga en Haar Spesiale Pot	id=11515
 Ekegusii (Translation)	Omogano O’Khayanga Nekerandi Kiaye	id=3115
 French (Translation)	La Gourde De Khayanga	id=9957
 Fulfulde (Translation)	Kayannga E Jollooru Muuɗum	id=10009
-Hausa (Translation)	Kayanga Da Gyanɗama	id=9992
+Hausa (Niger) (Translation)	Kayanga Da Gyanɗama	id=9992
 Kanuri (Translation)	Fanda-a Budanju-A	id=10035
 Kikamba (Translation)	Ngewa Ya Kayanga Na Kĩkuu Kyake	id=2395
 Kiswahili (Translation)	Khayanga Na Kibuyu Chake	id=7280

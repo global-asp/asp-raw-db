@@ -7,20 +7,22 @@ lang:	Afrikaans
 level:	First sentences
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/11567.png
-desc:	‘n Laerskoolleerder is baie lief vir haar onderwyseres. Sy vertel vir die leser van alles wat juffrou Akinyi haar al geleer het
+desc:	‘n Laerskoolleerder is baie lief vir haar onderwyseres. Sy vertel vir die leser van alles wat Juffrou Akinyi haar al geleer het
 
 page_text:
 
-P1	Hierdie is my onderwyseres. Haar naam is juffrou Akinyi. Sy is baie lief vir my.
-P2	Juffrou Akinyi leer vir ons van die alfabet en die vokale. Ek kan die klanke a,  e,  i,  o,  u sê.
-P3	Juffrou Akinyi het ons geleer van die kleure rooi,  blou,  groen,  geel en swart.
-P4	Tydens slaaptyd sing juffrou Akinyi vir ons 'n wiegieliedjie.
-P5	Op Maandae vertel sy vir ons stories oor goeie mans.
-P6	Op Dinsdae vertel sy vir ons stories oor goeie vrouens.
-P7	Op Woensdae vertel sy vir ons stories oor verskillende vervoermiddels.
-P8	Op Donderdae vertel sy vir ons stories oor boerdery.
-P9	Op Vrydae vra juffrou Akinyi dat ons,  ons eie stories vir die klas vertel.
-P10	Ons onderwyseres is die beste juffrou in die wêreld! As ek groot is wil ek net soos juffrou Akinyi wees.
+P1	Hierdie is my onderwyseres. Haar naam is Juffrou Akinyi. Sy is baie lief vir my.
+P2	Juffrou Akinyi leer vir ons die alfabet en die vokale. Ek kan die klanke a,  e,  i,  o,  u sê.
+P3	Juffrou Akinyi het ons die kleure rooi, blou, groen, geel en swart geleer.
+P4	Tydens rustyd sing Juffrou Akinyi vir ons 'n wiegieliedjie.
+P5	Die liedjie gaan so: "Goue sluimer gee vir ons jou oë. Glimlagte wag vir jou in jou drome. Slaap sag, liefling, moenie huil nie. Ek sal vir jou 'n soete wiegieliedjie sing."
+P6	Juffrou Akinyi ken baie stories. Elke dag van die week vertel sy vir ons verskillende stories.
+P7	Op Maandae vertel sy vir ons stories oor goeie mans.
+P8	Op Dinsdae vertel sy vir ons stories oor goeie vrouens.
+P9	Op Woensdae vertel sy vir ons stories oor verskillende vervoermiddels.
+P10	Op Donderdae vertel sy vir ons stories oor boerdery.
+P11	Op Vrydae vra Juffrou Akinyi dat ons,  ons eie stories vir die klas vertel.
+P12	Ons onderwyseres is die beste juffrou in die wêreld! As ek groot is wil ek net soos Juffrou Akinyi wees.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
 Dholuo (Translation)	Japuonj Akinyi	id=9709
@@ -54,11 +57,13 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

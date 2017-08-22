@@ -1,0 +1,55 @@
+url:	http://africanstorybook.org/reader.php?id=20863&d=0&a=1
+id:	20863
+title:	Ah! Kwallon Kafa
+author:	Safiya Datti Muhammad and Taiye Fatoki
+artist:	Onesmus Kakungi
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20863.png
+desc:	Wani yaro karami kakarsa ta aike shi ya sayo matayan kayayyaki a kanti. Sai ya tafi da babban abokinsa
+
+page_text:
+
+P1	Ina san muyi wasa da abokina Chuma.
+P2	Mun shaku sosai, duk inda aka aike ni tare muke zuwa.
+P3	Wata rana, kakata ta aike ni kanti don na sayo mata gishiri da man girki. sai na tafi da Chuma.
+P4	A hanyar mu, sai muka ga abokan mu suna wasan kwallo.
+P5	"Kai! kwallon kafa!" na ce. Ni ma ina san nayi wasan.
+P6	Sai na ce wa  Chuma, "mu tambaye su ko za su barmu muyi wasan dasu. Ina son wasan kwallon kafa sosai.
+P7	Chuma ya ce, "mu fara zuwa kanti sai mu dawo muyi wasan."
+P8	Sai na ce masa, "mu fara wasan tukun!" "domin kakata ba za ta bari mu dawo ba."
+P9	Sai muka hadu da abokan mu muka yi wasa. Ni ne mai tsaron raga. Ragar an yi ta da manyan duwatsu guda biyu (2).
+P10	Na yi kokarin tsare raga ta, amma abokaina basu ci ko daya (1) ba.
+P11	Mu kayi ta wasa har sai da fili ya cika da kura.
+P12	Sai muka tafi kanti. Ashe kudin kakata ya fadi! sai na fara kuka. Chuma ya ce da karfi, "ka daina kuka. Kai ka so a yi wasa tun farko."
+P13	Mu ka dawo gida ba gishiri ba kuma man girki. Gashi duk munyi dukun-dukun tare da damuwa.
+P14	San da muka isa gida, Kaka cikin fushi ta ce kuna ina tun-tuni?
+P15	Sai ta yafe mana sakamakon fadin gaskiya da muka yi. Sannan ta gargade mu kada mu kara zuwa wasa bada izini ba.
+P16	Mu ka bai wa Agwagin mu abinci sannan muka wanke jikin mu.
+
+images:
+
+illustrations/pages/12881.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/12873.png
+illustrations/pages/12874.png
+illustrations/pages/12876.png
+illustrations/pages/12877.png
+illustrations/pages/12878.png
+illustrations/pages/12879.png
+illustrations/pages/12880.png
+illustrations/pages/12881.png
+illustrations/pages/12882.png
+illustrations/pages/12883.png
+illustrations/pages/12884.png
+illustrations/pages/12885.png
+illustrations/pages/12886.png
+illustrations/pages/12887.png
+
+translations:
+
+English (Translation)	Ah! Football!	id=12926
+Kiswahili (Original)	Ah! Mpira!	id=12925
+Ng’aturkana (Translation)	Woe! Epira!	id=13212

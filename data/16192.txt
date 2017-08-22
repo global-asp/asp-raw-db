@@ -15,12 +15,14 @@ P1	Onu niiye omusomesya wange. Eliinalye niiye omusomesya oNankoma. Antaka ino.
 P2	Omusomesya oNankoma atwegesya owalifu n'enyukuta ensiriki. Nsobola okusoma enyukuta a,  e,  i,  o,  u.
 P3	Omusomesya oNankoma atwegeselye amalangi amatukuliki,  agabululu,  agekiragala,  agakinamagi,  n'amairugazu.
 P4	Omu kiseera eky'endoolo,  omusomesya atwembera akembo tugone. Atwembera akembo aka tusununkirirya.
-P5	Olwebbalaza,  atugerera olugero olukwata oku basaiza abamaani.
-P6	Olwokubiri,  atugerera olugero olukwata oku bakali abamaani.
-P7	Olwokusatu,  atugerera olugero olukwata oku byentabula.
-P8	Olwokuna,  atugerera olugero olukwata oku byobulimi.
-P9	Olwokutaano omusomesya oNankoma atukoba swena okugera engero gya iswe eeri ekibiina.
-P10	Omusomesya wa iswe niiye omusomesya asinga obusa omu basomesya oku kyalo. Zena owenakula,  ntaka kubba ng'omusomesya oNankoma.
+P5	Akembo akasununkirirya kaaba kati: Ondoolo w'ezaabu,  okwaate amaaiso Okumwemwenyura kubakumiriire emwalamuka. Batake bange mugone,  timwakunga. Era n'abembera akembo akasununkirirya akasa.
+P6	Omusomesya Nankoma amaite engero nyingi. Atukobera engero egy'engeri buli lunaku omusaabbiiti.
+P7	Olwebbalaza,  atugerera olugero olukwata oku basaiza abamaani.
+P8	Olwokubiri,  atugerera olugero olukwata oku bakali abamaani.
+P9	Olwokusatu,  atugerera olugero olukwata oku byentabula.
+P10	Olwokuna,  atugerera olugero olukwata oku byobulimi.
+P11	Olwokutaano omusomesya oNankoma atukoba swena okugera engero gya iswe eeri ekibiina.
+P12	Omusomesya wa iswe niiye omusomesya asinga obusa omu basomesya oku kyalo. Zena owenakula,  ntaka kubba ng'omusomesya oNankoma.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -54,11 +57,13 @@ isiZulu (Translation)	Uthisha Uzanele	id=13537
 isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
 SiLozi (Translation)	Muluti Akinyi	id=18561
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

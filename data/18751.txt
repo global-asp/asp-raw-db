@@ -36,6 +36,7 @@ translations:
 
 Afrikaans (Translation)	My Juffrou	id=20086
 Akuapem Twi (Translation)	Me Kyerɛkyerɛfo	id=18465
+Amharic (Translation)	መምህሬ 	id=21236
 Asante Twi (Translation)	Me Kyerɛkyerɛfoɔ	id=18223
 ChiTonga (Translation)	Basiisi Bangu	id=18632
 CiNyanja (Translation)	Apunzisi Anga	id=18609
@@ -47,10 +48,12 @@ Ewe (Translation)	Nye Nufiala	id=18170
 Fante (Translation)	Me Kyerɛkyernyi	id=18495
 Ga (Translation)	Mitsɔɔlɔ	id=18294
 Gonja (Translation)	Mabe Eŋinipo	id=18176
+Hausa (Nigeria) (Translation)	Malamata	id=20510
 IciBemba (Translation)	Bakafundisha Bandi	id=18574
 isiXhosa (Translation)	Utitshala Wam	id=17577
 isiZulu (Translation)	Uthisha Wami	id=8075
 Kasem (Translation)	A Bereno	id=18210
+Kinyarwanda (Translation)	Mwarimu Wanjye	id=20230
 Kiswahili (Translation)	Mwalimu Wangu	id=15609
 Lunyole (Translation)	Omusomesa Wange	id=16424
 Mampruli (Translation)	N  Karimba	id=18852

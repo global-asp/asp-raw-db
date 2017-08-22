@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=20454&d=0&a=1
+id:	20454
+title:	The Hunter
+author:	John  Ng'asike
+artist:	Jacob Kono
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20454.png
+desc:	Greed can lead to losing all. A hunter learns this lesson the hard way.
+
+page_text:
+
+P1	There lived a hunter who survived by trapping wild animals. For many days he did not trap any single animal. His family began to starve. Hunting was their main source of food.
+P2	One morning he went to check his traps in the forest. He was lucky that day, one of his traps had caught a giraffe.
+P3	He got very happy when he saw the giraffe. He celebrated that his family will get food. He said, "Let me carefully get the giraffe without losing much of its blood."
+P4	"Let me cut the ankle tendons so that there is little blood."
+P5	He crept slowly, with his spear aimed at the ankle tendons. To his disappointment, he missed the target. The spear cut the trap!
+P6	The giraffe jumped and before it could get away, the hunter grabbed the tail. He was dragged away.
+P7	He was dragged through the forest. He finally let go of the tail. He was left bruised in the thorny bushes.
+P8	He struggled his way out of the thorny bush with injuries and went home miserably. 
+
+His greed and foolishness had denied him food!
+
+images:
+
+illustrations/pages/25085.png
+illustrations/pages/25082.png
+illustrations/pages/25083.png
+illustrations/pages/25084.png
+illustrations/pages/25085.png
+illustrations/pages/25086.png
+illustrations/pages/25088.png
+illustrations/pages/25087.png
+illustrations/pages/25089.png
+
+translations:
+
+Kinyarwanda (Adaptation)	Umuhigi	id=20475
+Ng’aturkana (Original)	Ekalokan 	id=20453

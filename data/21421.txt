@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=21421&d=0&a=1
+id:	21421
+title:	Salma Alikalimi
+author:	Ahmed Mardiya
+artist:	Andrews Opoku Antwi and Michelangelo Quaye Anang
+lang:	Dagbani/Dagbanli
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21421.png
+desc:	Piɣpiɣu pala Salma. Piɣpiɣu pala Salma. Piɣpiɣu pala Salma.
+
+page_text:
+
+P1	Tiŋa yuli daa booni Alikalimi. 
+
+Tiŋa bihi maa zaa daa nyɛla Alikaliminima.
+P2	Ti daa mali Salma, Bic, Gel, Marker ni ban kpalim.
+P3	Salma daa bi puɣinbila suŋa ka sokam yu o pam. Bɛ daa bɛ zaɣsi ka bɛ be ka ŋuna.
+P4	Bic daa nyɛla Salma zo gaŋa. 
+
+“N di bi zaɣsi ka n be ka Salma ka sokam yu n gba,” Bic ᴣini tiɛhi.
+P5	To amaa, Salma ŋun daa ku  biɛla suhu saɣanguni saha shɛli kam ka bi kpɛri o taba ni.
+P6	Kɔŋa ni zɔm ŋuni daa be tiŋa maa ni daa biahammi je din daa tahali ka Salma daa ku be suhu saɣanguni saha kam.
+P7	Salma daa mali la ashili suɣarili. 
+
+Bo lee daa ku nyɛ Salma daa shili?
+P8	Salma daa viɛlmi amaa ka ka inki. Ka bo n lee ku nyɛ alikalimi bukaata di yi niŋ ka dika inki din ni sabi? Alikalimi ᴣini ka tahi.
+
+images:
+
+illustrations/pages/25333.png
+illustrations/pages/25336.png
+illustrations/pages/25337.png
+illustrations/pages/25339.png
+illustrations/pages/25340.png
+illustrations/pages/25341.png
+illustrations/pages/25342.png
+illustrations/pages/25343.png
+illustrations/pages/25333.png
+
+translations:
+
+English (Translation)	Pretty Golden Pen	id=21423
+Kiswahili (Translation)	Kalamu Nzuri Ya Dhahabu	id=21445

@@ -12,15 +12,15 @@ desc:	Enduyu eba erambaaye ŋaasi wʼomuyembe
 page_text:
 
 P1	Enduyu yaali eŋenyuhire ŋaasi wo'muyembe ngʼomuyembe guŋwa hu lusaga gugwa.
-P2	Ejanjasi nga liroma ti,  "Duluma" Enduyu ya sisimuha mangu mangu nga eduluma embiro eby'amaani byene.
-P3	Ni yaali ne duluma yageene engoho nga engoho yibuusa yiiti,  "Lwahiina oduluma?" Enduyu yagaluhamo yiti,  "Simanyire. Mpuliye ehiitu nihingwa nga edowozi liloma liti,  "Duluma,  Duyu duluma!
+P2	Ejanjasi nga liroma liti,  "Duluma" Enduyu ya sisimuha mangu mangu nga eduluma embiro eby'amaani byene.
+P3	Ni yaali ne duluma yageene engoho nga engoho yibuusa yiiti,  "Lwahiina oduluma?" Enduyu yagaluhamo yiiti,  "Simanyire. Mpuliye ehiitu nihingwa nga edowozi liloma liti,  "Duluma,  Nduyu duluma!
 P4	Engoho yatya ni yaŋulira ehi nduyu yaloma nga etandiha ohuduluma.
 P5	Ni byageene embwa nga yibuusa yiiti,  "Lwahiina muli huduluma?" Engoho ngʼegobolamo yiiti,  "Simanyire puliiye ehi nduyu eromire,  ate nga yoosi semanyire. Mbo eŋuliiye ehiitu ni higwa,  ngʼejanjansi liroma liiti,  'Duluma nduyu,  duluma!'."
 P6	Embwa yeŋuunya ebi yaŋuliiye. Yatandiiha ohuduluma nʼenduyu nʼengoho.
 P7	Ni byali ni biduluma byageene embalasi ngʼebuusa embwa yiiti,  "Lwahiina muduluma?" Embwa nga yigobolamo yiiti,  "Simanyire ese puliiye ehi ngoho eromire ate yoosi semanyire. Eŋuliiye ehi nduyu eromire,  ate yoosi semanyire. Eŋuliiye hiitu nihigwa. Nga ejanjasi liroma liiti,  'Duluma nduyu,  duluma!'."
 P8	Embalasi ngʼetagiha ohuduluma ne'solo ejaali ni jiduluma.
 P9	Jagaana nasugirya. Nasugirya ng'abuusa ati,  "Lwahiina muli huduluma?" Embalasi ng'egobolamo yiiti,  "Simanyire puliiye ehi mbwa eromire,  yoosi semanyire eŋuliiye ehi engoho eromire,  yoosi etamayire,  eήuhiye ehi nduyu eromire ate nga yoosi semayire. Enduyu eŋuliiye ehiitu ni higwa. Ejanjasi nga liroma liiti,  'Duluma,  nduyu duluma!'."
-P10	Nasugiryanga yeesi atagiha ohuduluma.
+P10	Nasugirya nga yeesi atagiha ohuduluma.
 P11	Nga jagaana eŋombe. Eŋombe nga yibuusa yiiti,  "Lwahiina muli huduluma?" Nasugirya ng'agobolamo ati,  "Simanyire,  puliiye ehi mbalasi eromire,  yoosi eŋuliiye ehi mbwa eromire atenga yoosi semanyire,  eŋuliiye ehi engoho eromire,  yosi etamanyire,  eŋuliiye ehi nduyu eromire yosi etamanyire,  eŋuliiye hiitu ni higwa nga ejanjasi liromaliiti,  'Duluma,  nduyu duluma!'."
 P12	Eŋombe ng'etya yosi etagiha ohuduluma.
 P13	Ni jaduluma nga jagaana epuusi. Epuusi nga yibuusa yiiti,  "Lwahiina muli huduluma?" Eŋombe ng'egobolamo yiiti,  "Simanyire,  puliiye ehi nasugirya alomire yeesi samanyire,  aŋuliiye ehimbalasi eromire. Embalasi yosi semanyire eŋuliiye ehi mbwa eromire. Embwayosi semanyire eŋuliye ehi ngoho eromire. Engoho yosi semanyire eŋuliiye ehi nduyu eromire. Eduyu yosi semanyire eŋuliye ehiitu ni higwa,  ng'ejanjasi liroma liiti,  'Duluma,  nduyu duluma!'."
@@ -58,6 +58,7 @@ CiNyanja (Translation)	Kalulu Munsi Mwa Mutengo	id=18669
 Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
 English (Translation)	Rabbit Under the Tree	id=7734
 English (Adaptation)	Test Edit	id=16731
+English (Adaptation)	Run Rabbit Run!	id=20888
 French (Translation)	Le Lapin Sous Un Arbre	id=10154
 Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
 IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
@@ -65,13 +66,17 @@ isiXhosa (Translation)	Umvundla Phantsi Komthi	id=17581
 isiZulu (Original)	Unogwaja Ngaphansi Kwesihlahla	id=7664
 isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
 Kiswahili (Translation)	Sungura Chini Ya Mti	id=8438
+Kiswahili (Translation)	Kimbia Sungura, Kimbia!	id=21140
 Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
 Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lumasaaba (Translation)	Tima Ssunguda Tima	id=20999
+Ng’aturkana (Translation)	Apoo Na Epung’Ar!	id=21135
 Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
 Sepedi (Translation)	Mmutla Ka Tlase Ga Mohlare	id=18135
 Sesotho (South Africa) (Translation)	Mmutlanyana Tlasa Sefate	id=20049
 Setswana (Translation)	Mmutla Mo Tlase Ga Setlhare	id=15041
 SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
-siSwati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Siswati (Translation)	Nogwaja Ngaphasi Kwesihlahla	id=13776
+Tigrigna (Translation)	ጉየይ ማንቲለ፣ ጉየይ 	id=21188
 Tshivenda (Translation)	Muvhuḓa Fhasi Ha Muri	id=18322
 Xitsonga (Translation)	Kondlo Ehansi Ka Murhi	id=19020

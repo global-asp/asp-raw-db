@@ -13,6 +13,9 @@ page_text:
 
 P1	Mr Saucepan and Mr Pot were good friends. They lived happily for many years.
 P2	One day Mr Saucepan told Mr Pot to go and visit their friend Mr Plate.
+P3	Mr Pot said"I cannot walk,  am weak, if I walk I die."
+P4	Mr Saucepan convinced Mr Pot and at last he accepted to go.
+P5	On their way,  Mr Saucepan slid and fell onto Mr Pot. Mr Pot broke into pieces.
 
 images:
 
@@ -22,4 +25,5 @@ illustrations/pages/5525.png
 
 translations:
 
+Acholi (Translation)	Lurem Aryo Matek	id=21330
 isiNdebele (Translation)	Abangani Abakhulu Ababili	id=11109

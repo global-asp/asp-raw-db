@@ -18,6 +18,7 @@ P4	Nkorora ebisoro binu ebikuya,  enkerebe,  enkende nebindi bingi muno.
 P5	Nkatunga nomugisa gwakukora ebinyonyi ebitali bimu nka entuuha ebihungu na kabyasi.
 P6	Nkasemererwa muno kurora enjojo nkoota muno baituina akakira kataito.
 P7	Nkarora ebintu ebitale bimu ebsoro,  ebinyonyi nebimera.
+P8	Ekibira kya Kibale kiikaro kirungi kyo kubungamu. Ngonza ebibira!
 
 images:
 
@@ -33,3 +34,4 @@ illustrations/pages/16540.png
 translations:
 
 English (Translation)	I Love Forests	id=16578
+Kinyarwanda (Translation)	Nkunda Amashyamba	id=20684

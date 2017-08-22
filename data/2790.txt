@@ -7,7 +7,7 @@ lang:	Lusoga
 level:	First sentences
 lic:	Creative Commons: Attribution-Non Commercial 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/2790.png
-desc:	Akabendhe ka benzi no oguloore kagwawo.
+desc:	Akabendhe ka benzi no oguloole kaagwire gho.
 
 page_text:
 
@@ -17,7 +17,7 @@ P3	Omuvuzi owo oguloole yabaire ali kwogera ku isimu.
 P4	Yabaire tali kulingirira ku luguudo.
 P5	Akabendhe kaabaire kabi inho!
 P6	Ambyulensi ni Polisi ne byaidye okuyamba.
-P7	Ebimotoka ebisitula ne ebiwalula byaidye bibiri. Ekindi kyawalwire oguloole. Ekindi kyatwise akabenzi.
+P7	Ebimotoka ebisitula ne ebighalula byaidye bibiri. Ekindi kyaghalwire oguloole. Ekindi kyatwise akabenzi.
 P8	Natiire inho!
 
 images:
@@ -36,19 +36,25 @@ translations:
 
 Aringati (Translation)	Drị̃lẹ́-Ũnzí Ịsụ́ Drãdrị̃gá Ꞌi	id=6436
 Ateso (Translation)	Akangasi	id=2835
+Ateso (Translation)	Akangas	id=20626
 English (Original)	Accident	id=915
+Hausa (Nigeria) (Translation)	Hatsari	id=20757
 isiZulu (Translation)	Ingozi	id=8721
 Kakwa (Translation)	Koŋo Naro	id=9050
 Kikamba (Translation)	Mbanga	id=2787
 Luganda (Translation)	Akabenje	id=2788
+Luganda (Translation)	Akabenje	id=20739
 Lugbarati (Translation)	Drileonzi	id=2598
 Lugbarati (Official) (Translation)	Drìléònzɨ́	id=8779
+Lugwere (Translation)	Akabenjje	id=21469
+Lugwere (Translation)	Kabeenje	id=21470
 Lumasaaba (Translation)	Bunyaalifu	id=916
 Lumasaaba (Translation)	Bunyaalifu	id=8722
 Lunyole (Translation)	Ahabenje	id=2789
 Ngakarimojong (Translation)	Anang’a a Ng’Amotokae	id=8723
 Ng’aturkana (Translation)	Anang’a a Ng’Amotokae	id=2792
 Oluwanga (Translation)	Amasila	id=2791
+Rufumbira (Translation)	Impanuka	id=20632
 Sabinyi (Translation)	Wuyinto	id=2793
 Sepedi (Translation)	Kotsi	id=7853
 Setswana (Translation)	Kotsi	id=2794

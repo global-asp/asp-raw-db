@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=9097&d=0&a=1
 id:	9097
-title:	Chicken and Millipede
+title:	Chicken And Millipede
 author:	
 artist:	Magriet Brink
 lang:	English
@@ -43,4 +43,5 @@ illustrations/pages/8994.png
 translations:
 
 English (Adaptation)	Duck and Blind Snake	id=10021
-English (Adaptation)	Chicken and Millipede	id=10945
+English (Adaptation)	Chicken And Millipede	id=10945
+Lusoga (Translation)	Wankoko Ni Waigongolo	id=21262

@@ -7,7 +7,7 @@ lang:	isiZulu
 level:	Longer paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/19437.png
-desc:	Indaba emayelana ngokubala nokwabelana. (Ukuba khona kwale ndaba kube yimpulelo ngokuxhaswa ngabakwa Oppenheimer Memorial Trust.)
+desc:	Indaba emayelana ngokubala nokwabelana. (Ukuba khona kwale ndaba kube yimpulelo ngokuxhaswa ngabakwa Oppenheimer Memorial Trust.).
 
 page_text:
 
@@ -51,3 +51,4 @@ translations:
 
 English (Original)	Counting Cabbages	id=19421
 English (Adaptation)	Counting Cabbages	id=19454
+Rufumbira (Translation)	Kubala Imboga	id=20745

@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=21470&d=0&a=1
+id:	21470
+title:	Kabeenje
+author:	Ali Wagosi
+artist:	Cathy Feek
+lang:	Lugwere
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21470.png
+desc:	Omyisuka aona akamotoka no gumotoka ogwetika omukabeenje.
+
+page_text:
+
+P1	Nabwoine ogumutoka ogwetika nga guselengeta ansi woluguudo.
+P2	Akamotoka kaizire kanina enguru woluguudo.
+P3	Omuvugi wo gumotoka yali nga atumula okwisimu lye.
+P4	Yali tali kuwona omuluguudo.
+P5	Waliwo akabeenje akanene.
+P6	Emotoka eyamba abarwaire ne polisi baizile okuyamba.
+P7	Agamotoka agaginga ebifunire akabeenje gaizire. Gatwaire ogumotoka ne akamotoka.
+P8	Nanyolerwe.
+
+images:
+
+illustrations/pages/347.png
+illustrations/pages/347.png
+illustrations/pages/348.png
+illustrations/pages/349.png
+illustrations/pages/350.png
+illustrations/pages/351.png
+illustrations/pages/367.png
+illustrations/pages/353.png
+illustrations/pages/354.png
+
+translations:
+
+Aringati (Translation)	Drị̃lẹ́-Ũnzí Ịsụ́ Drãdrị̃gá Ꞌi	id=6436
+Ateso (Translation)	Akangasi	id=2835
+Ateso (Translation)	Akangas	id=20626
+English (Original)	Accident	id=915
+Hausa (Nigeria) (Translation)	Hatsari	id=20757
+isiZulu (Translation)	Ingozi	id=8721
+Kakwa (Translation)	Koŋo Naro	id=9050
+Kikamba (Translation)	Mbanga	id=2787
+Luganda (Translation)	Akabenje	id=2788
+Luganda (Translation)	Akabenje	id=20739
+Lugbarati (Translation)	Drileonzi	id=2598
+Lugbarati (Official) (Translation)	Drìléònzɨ́	id=8779
+Lugwere (Translation)	Akabenjje	id=21469
+Lumasaaba (Translation)	Bunyaalifu	id=916
+Lumasaaba (Translation)	Bunyaalifu	id=8722
+Lunyole (Translation)	Ahabenje	id=2789
+Lusoga (Translation)	Akabendhe	id=2790
+Ngakarimojong (Translation)	Anang’a a Ng’Amotokae	id=8723
+Ng’aturkana (Translation)	Anang’a a Ng’Amotokae	id=2792
+Oluwanga (Translation)	Amasila	id=2791
+Rufumbira (Translation)	Impanuka	id=20632
+Sabinyi (Translation)	Wuyinto	id=2793
+Sepedi (Translation)	Kotsi	id=7853
+Setswana (Translation)	Kotsi	id=2794

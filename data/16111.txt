@@ -21,6 +21,7 @@ P7	Sun,  Moon,  Rain and Wind listened carefully to each other.
 P8	Then Sun said,  "It is true that each of us helps the earth in our own special way." "Yes,  said Moon,  "Not one of us is better than the others." "We can work together," said Rain. Wind said,  "Then let us share the days." They all agreed."
 P9	And that is why you sometimes see the moon when the sun is shining. And sometimes you feel the wind when it is raining. Sun,  Moon,  Rain and Wind work very well together. They understand each other.
 P10	Do you like the sun,  moon,  the rain or the wind? Draw the one you like best.
+P11	We need the earth so that we can live. She gives us food and shelter,  animals and plants. All of them help us in some way. In return,  we can all do something to help our earth. What will you do to help the earth? Write it down.
 
 images:
 
@@ -38,4 +39,6 @@ illustrations/pages/16108.png
 
 translations:
 
+Lusoga (Translation)	Musana, Mwezi, Maadhi Ni Mpewo	id=21261
+Lusoga (Translation)	Omusana, Omwezi, Amaadhi Ne Empewo	id=21383
 Sesotho (Lesotho) (Original)	Letsatsi, Khoeli, Pula Le Moea	id=16109

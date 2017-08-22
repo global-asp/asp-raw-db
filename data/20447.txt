@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=20447&d=0&a=1
+id:	20447
+title:	7 የቀስተደመና ቀለማት 
+author:	Mezemir Girma
+artist:	Jesse Breytenbach
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20447.png
+desc:	ይህ ተረት ቁጥሮችንና ቀለሞችን ለልጆች ያስተዋውቃል፡፡ (ተረቱን በሁለተኛ ደረጃ በተመደቡ ተረቶች ዝርዝር ውስጥም ማግኘት ይችላሉ፡፡)
+
+page_text:
+
+P1	ቀስተደመና 7 ቀለሞች አሉት፡፡
+P2	1 ቀይ፡፡
+P3	እሱ ቀይ ሸሚዝ ለብሷል፡፡
+P4	2 ብርቱካናማ፡፡
+P5	በዚህ ሥዕል ውስጥ ምን ብርቱካናማ ነገር አለ?
+P6	3 ቢጫ፡፡
+P7	በዚህ ሥዕል ውስጥ ምን ቢጫ ነገር አለ?
+P8	4 አረንጓዴ፡፡
+P9	በዚህ ሥዕል ውስጥ ምን አረንጓዴ ነገር አለ?
+P10	5 ሰማያዊ፡፡
+P11	በዚህ ሥዕል ውስጥ ምን ሰማያዊ ነገር አለ?
+P12	6 ወይንጠጅ፡፡
+P13	በዚህ ሥዕል ውስጥ ምን ወይንጠጅ ነገር አለ?
+P14	7 ቫዮሌት
+P15	ቫዮሌት ምርጥ ቀለም ነው፡፡ እናንተስ ምን ዓይነት ቀለም ትወዳላችሁ?
+P16	የቀስተደመና 7ቱ ቀለሞች ምን ምን ናቸው?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+Chinyanja (Translation)	Mautoto Asanu Ndi Awiri Autawaleza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
+English (Translation)	Colours of a Rainbow	id=10463
+English (Adaptation)	7 Colours Of A Rainbow	id=19760
+Hausa (Nigeria) (Translation)	Launika Bakwai Na Bakan Gizo	id=20798
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+isiZulu (Translation)	Imibala Eyisikhombisa Yothingo  Lwenkosazana	id=20679
+Kikamba (Translation)	Utathi	id=15419
+Kiswahili (Original)	Rangi Za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke Ali Na Langi 7	id=20396
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
+Siswati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

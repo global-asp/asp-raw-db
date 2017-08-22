@@ -13,6 +13,9 @@ page_text:
 
 P1	Ubaba uSaucepan nobaba uPot bebabangani abakhulu begodu bebahlala bathabile iminyaka eminengi.
 P2	Ngelinye ilanga ubaba uSaucepan watjela ubaba uPot bonyana bakhambe bayokukweriyela umnganabo omunye ubaba uPlate.
+P3	Ubaba uPot wathi yena ngeze akwazi ukukhamba ngombana ubuthakathaka khulu wangakhamba uzokuhlongakala.
+P4	Ubaba uSaucepan wamrabhela ubaba uPot waze wavuma bona bakhambe.
+P5	Nabasakhamba njalo ubaba uSaucepan wakhutjhwa wawela kubaba uPot. Ubaba uPot waphuka amahlandla amanengi.
 
 images:
 
@@ -22,4 +25,5 @@ illustrations/pages/5525.png
 
 translations:
 
+Acholi (Translation)	Lurem Aryo Matek	id=21330
 English (Original)	Two Good Friends	id=5566

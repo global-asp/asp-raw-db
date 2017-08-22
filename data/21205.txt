@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=21205&d=0&a=1
+id:	21205
+title:	Umurobyi Jaaka
+author:	Daniel Tuyisenge
+artist:	Zablon Alex Nguku
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21205.png
+desc:	A description of the life of a hardworking Nile fisherman. Ibiranga umurobyi wa Nil wakoraga cyane.
+
+page_text:
+
+P1	Dore Jaka umurobyi wa Naminya.
+P2	Aroba ku ruzi rwa Nili.
+P3	Afite ubwato, urushundura rwo kuroba n`indobani.
+P4	Abyuka buri gihe mu museke kugira ngo afate umuhigo muri Nili.
+P5	Nka saa yine, ajya kugurisha ibyo yafashe ku isoko rya Jinja.
+P6	Jaaka, bigenze gute? Ni iki kibaye? Arababara.
+P7	Uyu munsi, ibintu bimeze nabi. Umuyaga wa Nili wambujije kuroba.
+P8	Ariko mfite ikizere ko ejo bizambere byiza kuko naguze indi ndobani nshya.
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka Die Visserman	id=11406
+English (Translation)	Jaaka The Fisherman	id=8491
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiXhosa (Translation)	Ujaaka Umlobi	id=13206
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

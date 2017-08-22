@@ -7,7 +7,7 @@ lang:	Afrikaans
 level:	First paragraphs
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/11249.png
-desc:	Die gevolge van die aksie omn moeder te verlaat isn hartseer saak...
+desc:	Die gevolge van die aksie omn moeder te verlaat isn hartseer saak.
 
 page_text:
 
@@ -18,11 +18,12 @@ P4	Lodipo het vir Akitela gesê dat hulle dit nie kon oorweeg nie omdat hulle ni
 P5	Lodipo was baie lief vir Akitela en het op haar wense ingegee. Hulle het begin voorberei om te trek. Die eerste vrou,  Akai,  het die gebeure met groot onsekerheid dopgehou.
 P6	Lodipo se blinde moeder het op 'n bokvel onder 'n boom gesit. Sy was onbewus van wat aan die gang was. "Hoe kan ons haar op haar eie los?" het Akai gewonder.
 P7	Lodipo en sy twee vrouens het al hulle besittings op die kamele gelaai en hulle het stillietjies vertrek sonder om eers totsiens vir die ou vrou te sê. Maar Akai het heel pad gehuil omdat sy hartseer was om haar skoonma alleen te los.
-P8	Kort nadat Lodipo en sy vrouens vertrek het,  het veediewe die dorpie aangeval.
-P9	Die diewe het die ou vrou gevra om hulle te sê waarheen haar seun gegaan het. Hulle het gesê dat hulle agter hom sal aangaan en hom sal doodmaak. Die ou vrou het hulle gesmeek om nie die eerste vrou en hulle kinders dood te maak nie.
-P10	Sy het hulle ook gevra om die ram terug te bring wat Lodipo saam hom geneem het.
-P11	Die diewe het vir Lodipo agtervolg en hom gevang net toe hy by sy nuwe woonplek wou intrek. Hulle het hom en sy jong vrou daar doodgemaak.
-P12	Die eerste vrou,  Akai,  het die ram geneem en na haar skoonmoeder se huis teruggegaan. Hulle het gelukkig daar saamgewoon.
+P8	Hulle het die ou vrou alleen in die kraal agtergelos. Sy het gehuil en hartseer vir haarself gesing.
+P9	Kort nadat Lodipo en sy vrouens vertrek het,  het veediewe die dorpie aangeval.
+P10	Die diewe het die ou vrou gevra om hulle te sê waarheen haar seun gegaan het. Hulle het gesê dat hulle agter hom sal aangaan en hom sal doodmaak. Die ou vrou het hulle gesmeek om nie die eerste vrou en hulle kinders dood te maak nie.
+P11	Sy het hulle ook gevra om die ram terug te bring wat Lodipo saam hom geneem het.
+P12	Die diewe het vir Lodipo agtervolg en hom gevang net toe hy by sy nuwe woonplek wou intrek. Hulle het hom en sy jong vrou daar doodgemaak.
+P13	Die eerste vrou,  Akai,  het die ram geneem en na haar skoonmoeder se huis teruggegaan. Hulle het gelukkig daar saamgewoon.
 
 images:
 
@@ -45,5 +46,6 @@ translations:
 English (Original)	Danger of Abandoning a Mother	id=7549
 isiXhosa (Translation)	Ingozi Yokulahla Umama	id=11462
 Kiswahili (Translation)	Lodipo Amtoroka Mama	id=15937
+Lusoga (Translation)	Ebizibu Byo Ku Leka Omuzaile	id=21382
 Ng’aturkana (Translation)	Erono Akijal Itokon	id=13313
 Sepedi (Translation)	Danger of Abandoning a Mother	id=11468

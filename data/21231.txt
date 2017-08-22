@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=21231&d=0&a=1
+id:	21231
+title:	ዝሆንን ያታለለችው ጥንቸል
+author:	ፋሲል አሠፋ (Fasil Assefa)
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21231.png
+desc:	ይህ ተረት ጥንቸልና ዝሆን በጣም ጥሩ ጓደኞች ቢሆኑም ጥንቸል የዝሆንን ቅናት ተጠቅማ እንዴት መጥፎ ተንኮል እንደሰራችበት ይተርካል፡፡
+
+page_text:
+
+P1	ጥንቸልና ዝሆን ጥሩ ጓደኛሞች ነበሩ፡፡
+P2	እንስሳዎቻቸውንም የግጦሽ መሬትና ውሀ ወዳለበት ስፍራ ወሰዷቸው፡፡
+P3	ኳስ መጫወትም በጣም ይወዱ ነበር፡፡
+P4	በጫወታውም ዝሆን ብዙ ጎል አስቆጠረ፤ በዚህ ጊዜ ጥንቸል ተከፋች፡፡
+P5	‹‹እንዴት ነው ግን እንደዚህ ጎበዝ ተጫዋች መሆን የቻልከው?›› በማለት ጥንቸል ዝሆንን ጠየቀችው ፡፡ 
+ዝሆንም ‹‹ረጃጅም እግሮቼ ናቸው ጎበዝ ያደረጉኝ›› በማለት መለሰላት፡፡ከዚያም ኳስ ጨዋታውን እንደጨረሱ ሩጫ ለመወዳደር ተነጋገሩና ሮጡ፡፡ በዚህ ጊዜ ጥንቸል ዝሆንን
+P6	ዝሆንም በተራው ተከፋ፤ ጥንቸልንም ‹‹እንዴት ነው ግን ጥሩ ሯጭ የሆንሽው?›› ብሎ ጠየቃት፡፡ ጥንቸልም ‹‹ቀጫጭን እግሮቼ ናቸው ጥሩ ሯጭ ያደረጉኝ›› ስትል መለሰች፡፡
+P7	ዝሆንም ‹‹እግሮቼን እንዳንቺ እንዴት ቀጭን ማድረግ እችላለሁ?›› ሲል ለጥንቸል ጥያቄ አቀረበ፡፡ ጥንቸልም ‹‹እንዴት እንደሆነ አሳይሃለሁ›› በማለት መለሰችለት፡፡
+P8	ከዚያም ጥንቸሏ በአካባቢው ወደሚገኝ የሚነድ እሳት ዝሆንን ወሰደችውና ‹‹በል እሳቱ ላይ ውጣና ቁም፡፡ ከዚያም እግሮችህ እንደኔ ቀጫጭን ይሆኑልሃል” ስትል ነገረችው፡፡ ዝሆንም እሳቱ ላይ ወጥቶ ቆመ፡፡ 
+P9	ዝሆኑ ‹‹ተቃጠልኩ እኮ›› በማለት ጮኸ፡፡
+P10	ጥንቸልም “እግሮችህ እንዲቀጥኑልህ ከፈለክ ብቸኛው መንገድ ይሄ ስለሆነ ቻለው” በማለት ተናገረች፡፡
+P11	ዝሆንም ህመሙ ከአቅሙ በላይ ሲብስበት ከእሳቱ በሩጫ በመውጣት በጀርባው ተንጋለለ፡፡
+P12	ከዛ ቀንም ጀምሮ ዝሆን ለብዙ ቀናት ከወደቀበት ተነስቶ በእግሩ መቆም ሳይችል ቆየ፡፡
+P13	ከብዙ ቀናት በኋላ ህመሙ ሲያገግምለት ቀስ እያለ ወደ ቤተሰቦቹ ጋር ተመለሰ፡፡
+P14	ጥንቸልም የሰራችው ስራ ትክክል እንዳልሆነና ጥፋትም እንደሆነ በመገንዘብ በጣም ተፀፀተች፡፡ በጥፋቷም አፍራ ዝሆንን ይቅርታ እንዲያደርግላት ጠየቀች፡፡
+
+images:
+
+illustrations/pages/13000.png
+illustrations/pages/13000.png
+illustrations/pages/13001.png
+illustrations/pages/13002.png
+illustrations/pages/13003.png
+illustrations/pages/13004.png
+illustrations/pages/13005.png
+illustrations/pages/13006.png
+illustrations/pages/13007.png
+illustrations/pages/13008.png
+illustrations/pages/13009.png
+illustrations/pages/13010.png
+illustrations/pages/13012.png
+illustrations/pages/13013.png
+illustrations/pages/13014.png
+
+translations:
+
+Amharic (Adaptation)	ዝሆንና ጥንቸል - ተረት ተረት	id=18755
+English (Translation)	Hare Tricks Elephant Again	id=13093
+Kinyarwanda (Translation)	Bakame Yongeye  Guhenda Ubwenge Nzovu	id=20244
+Kiswahili (Original)	Sungura Na Ndovu (Tena!)	id=13092
+Kiswahili (Translation)	Sungura Amdanganya Ndovu	id=18342
+Rukiga (Translation)	Wakame Akabeiha Warujojo	id=17012
+Setswana (Translation)	Mmutla O Tsietsa Tlou Gape	id=14958

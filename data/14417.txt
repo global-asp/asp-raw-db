@@ -11,6 +11,15 @@ desc:	Amélia acorda e pensa: Hoje é o meu primeiro dia de escola.
 
 page_text:
 
+P1	Amélia acorda e pensa:  Hoje é o meu primeiro dia de escola.
+P2	Amélia chama: Carlos,  o que é que eu tenho de fazer?Carlos: Vou-te mostrar.
+P3	Carlos: Deves lavar a cara. Amélia: Eu sei lavar a cara. E depois?
+P4	Carlos: Deves escovar os dentes. Amélia: Eu sei escovar os dentes. E depois?
+P5	Carlos: Deves comer. Amélia: Eu sei comer. E depois?
+P6	Carlos: Deves vestir o uniforme. Amélia: Eu sei vestir o uniforme. E depois?
+P7	Carlos: Deves pegar na sacola. Amélia: Eu sei pegar na sacola. E depois?
+P8	Carlos: Deves ir à escola. Amélia: Eu sei ir à escola. E depois?
+P9	Carlos: Deves entrar na sala de aulas. Amélia: Eu sei entrar na sala de aulas. E depois?
 
 images:
 

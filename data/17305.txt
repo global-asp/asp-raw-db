@@ -18,8 +18,8 @@ P4	"Futhi linginikeza amandla engiwadingayo esikoleni."
 P5	Iphalishi likababa selilungile.
 P6	Ubaba uthela ubisi ngothando.
 P7	"Alimnandi leli phalishi! Lidinga ushukela."
-P8	Uyacabanga futhi uZama,  "Ukuba beliphekwe ngumama,  ngabe limnandi."
-P9	"Baba,  ngicela ushukela."
+P8	Uyacabanga futhi uZama, "Ukuba beliphekwe ngumama, ngabe limnandi."
+P9	"Baba, ngicela ushukela."
 P10	Ubaba uthela ushukela.
 P11	"Wu! Baba! Uthele usawoti!"
 P12	"Kodwa umama uzobuya nini?"
@@ -59,6 +59,8 @@ Kalenjin (Translation)	Musar	id=15395
 Kimîîru (Translation)	Uchuru	id=15412
 Kiswahili (Translation)	Uji	id=15614
 Lunyole (Translation)	Obusera	id=13458
+Lusoga (Translation)	Buugi	id=21198
+Mampruli (Translation)	Koko	id=21224
 Oluwanga (Translation)	Obusera	id=19793
 Portuguese (Translation)	Papa	id=18854
 Sepedi (Translation)	Motepa	id=18028

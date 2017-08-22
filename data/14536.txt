@@ -11,7 +11,16 @@ desc:	Un enfant peint avec ses crayon de couleur.
 
 page_text:
 
-P1	.
+P1	Je peins avec mes crayons de couleur. .
+P2	Je peins une tomate avec un crayon de couleur rouge. .
+P3	Je peins une orange avec un crayon de couleur orange. .
+P4	Je peins le soleil avec un crayon de couleur jaune. .
+P5	Je peins une grenouille avec un crayon de couleur vert. .
+P6	Je peins le ciel avec un crayon de couleur bleu. .
+P7	Je peins des fleurs avec un crayon de couleur rose.
+P8	Je peins un chat avec un crayon de couleur noir. .
+P9	Je peins le drapeau du Mozambique avec plusieurs couleurs. .
+P10	.
 
 images:
 

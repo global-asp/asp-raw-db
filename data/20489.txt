@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=20489&d=0&a=1
+id:	20489
+title:	ሰነፉ አናንሲ
+author:	Mezemir Girma
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20489.png
+desc:	ሸረሪት ለምን እግሮቹ እንደረዘሙና እንደቀጠኑ እናንብብ፡፡ ምክንያቱ ግን ምን እንደሆነ አስባችሁት ታውቃላችሁ?
+
+page_text:
+
+P1	አናንሲ ሰነፍ ሸረሪት ነበር፡፡
+P2	ምግብ ቢወድም ማዘጋጀቱን ግን ይጠላል፡፡
+P3	አናንሲ ጥንቸል ጋ ሄዶ ‹‹አትክልት ስጪኝ›› አላት፡፡
+P4	ጥንቸልም ‹‹እሺ፣ ወጡን አማስልልኝና›› አለችው፡፡ አናንሲ ግን ስራ አይወድም ነበር፡፡
+P5	አናንሲ ‹‹እስኪ ቆየት ብዬ እመጣለሁ›› አላት፡፡
+P6	አናንሲ በእግሮቹ ዙሪያና በጥንቸሏ ድስት ዙሪያ ድር አደራባት፡፡
+P7	ምግቡ ሲበስል ይህን ድር ሳቢው፡፡
+P8	‹‹እናንተ ዝንጀሮዎች፣ እስኪ ምግብ ስጡኝ›› ሲላቸው ሸረሪቱ እነሱም መልሰው ‹‹መክተፉን ከረዳኸን እሺ›› ሲሉ መለሱለት፡፡
+P9	‹‹መጣሁ›› አለና አናንሲ ብዙ ድር አደራባቸው፡፡
+P10	‹‹አንቺ አሳማ ድንች ታበይኛለሽ?›› ‹‹ማዘጋጀቱን ካገዝከኝ ችግር የለም፡፡››
+P11	‹‹መጣሁ›› አለና አናንሲ ብዙ ድር አደራባት፡፡
+P12	እያንዳንዷ የአናንሲ እግር ከድስት ጋር ተሳሳረች ማለት ነው፡፡
+P13	አናንሲ ሁለተኛው እግሩን የሆነ ነገር ሲስበው ተሰማው፡፡ ሦስተኛውንም…
+P14	ስምንቱም እግሮቹ እየተሳቡ ነው፡፡ ‹‹እንዴ በቃ አትሳቡኝ!›› አለ አናንሲ፡፡
+P15	አናንሲን ማንም አልሰማውም፡፡ የሸረሪት ድሩ አንድ ባንድ ተበጣጠሰ፡፡
+P16	የአናንሲ እግሮች ተሳሳቡ፡፡ በዚህም ምክንያት ሁሉም ሸረሪቶች እግሮቻቸው ረዘሙ፡፡
+
+images:
+
+illustrations/pages/1069.png
+illustrations/pages/1070.png
+illustrations/pages/1071.png
+illustrations/pages/1072.png
+illustrations/pages/1073.png
+illustrations/pages/1074.png
+illustrations/pages/1075.png
+illustrations/pages/1076.png
+illustrations/pages/1069.png
+
+translations:
+
+Afaan Oromo (Translation)	Sharaariti Dadhaba	id=20428
+English (Original)	Lazy Anansi	id=1077
+English (Adaptation)	Lazy Anansi	id=19765
+French (Translation)	Anansi, La Fainéante	id=10850
+Hausa (Nigeria) (Translation)	Anansi Malalaci	id=20520
+isiZulu (Translation)	Anansi Ovilaphayo	id=11195
+isiZulu (Translation)	Ivila Elingu-Anansi	id=20724
+Kikamba (Translation)	Kitumi Kya Anansi Kwithiwa Na Maau Matheke Nyanya	id=2068
+Kiswahili (Translation)	Jinsi Anansi Alivyopata Miguu Minane Myembamba	id=2069
+Kiswahili (Translation)	Anansi Mvivu	id=20438
+Luganda (Translation)	Nabbubi Omunafu	id=2073
+Luganda (Translation)	Lwaki Nabbubi Erina Obugulu Munaana Obutono	id=8730
+Lugbarati (Translation)	E`yo Ebio Ma Pa Yin I Ovuzu Izia Izia Aro Ri	id=2070
+Lugbarati (Official) (Translation)	Ebìó Òvʉ́ó Rʉ Rɨ̀	id=8795
+Lumasaaba (Translation)	Lwashiina Wanaasi Nabubi Ali Ni Buukyele Shinaane Buunyelele	id=3012
+Lunyole (Translation)	Anansi Omunafu	id=2074
+Lusoga (Translation)	Munansi Omunafu	id=20401
+Maa (Translation)	Káínyoo Peê Éátâ Anansi Inkejék Ísíet Rónkéní	id=2729
+Ng’aturkana (Translation)	Eyakar Anansi Ng’Akejen Ngakan-Kauni Nadiim	id=2075
+Oluwanga (Translation)	Esichira Anansi Naba Norulenje Orutiti Munane	id=2071
+Portuguese (Translation)	Anansi Preguiçoso	id=16657

@@ -1,0 +1,44 @@
+url:	http://africanstorybook.org/reader.php?id=21481&d=0&a=1
+id:	21481
+title:	Amaaresi
+author:	Robinah Nasirumbi
+artist:	Microsoft Clip Art
+lang:	Lusamia
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21481.png
+desc:	Amaaresisinaa  nkareeta awuundu. Ndaha amaaresi!
+
+page_text:
+
+P1	Amaaresi kanyala kareeta efula. 
+
+Ndaha amaaresi.
+P2	Amaaresi kanyala kareeta enangongo.
+
+Ndaha amaaresi.
+P3	Amaaresi kanyala nkakisa eruuba. 
+
+Ndaha amaaresi.
+P4	Amaaresi kanyala nkakisa eniigini. 
+
+Ndaha amaaresi.
+
+images:
+
+illustrations/pages/2115.png
+illustrations/pages/2116.png
+illustrations/pages/2117.png
+illustrations/pages/2118.png
+illustrations/pages/2119.png
+
+translations:
+
+Anywak (Translation)	Pøøl	id=12630
+English (Original)	Clouds	id=2122
+English (Adaptation)	Weather	id=10261
+Luganda (Translation)	Ebire	id=6270
+Lusoga (Translation)	 Bileri	id=21273
+Ng’aturkana (Translation)	Ng'idowon	id=7036
+Setswana (Translation)	Maru	id=7892
+Somali (Translation)	Daruuraha	id=16759

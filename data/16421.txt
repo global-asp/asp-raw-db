@@ -11,22 +11,22 @@ desc:	Nja
 
 page_text:
 
-P1	Esiina lyange ndiise Hiire.
+P1	Esiina lyange ndise Hiire.
 P2	Ndi n'abameeri bange bane.
-P3	Amasiina gaawe mbaba Hiisa,  Gimbo,  Katayike koni Guloba.
+P3	Amasiina gaawe mbaba Hiisa,  Gimbo,  Katayike ko ni Guloba.
 P4	Ow'omuhago Hiisa genda ohusamba omupiira.
-P5	Owomuhago Gimbo genda ohwebbomba.
-P6	Owomuhago Katayike genda ohugudula cekweko.
-P7	Owomuhago Guloba genda ohusoma.
+P5	Ow'omuhago Gimbo genda ohwebbomba.
+P6	Ow'omuhago Katayike genda ohugudula cekweko.
+P7	Ow'omuhago Guloba genda ohusoma.
 P8	Ese,  nenda ohuhola ebiitu byoosi ebi benda ohuhola.
 P9	Samba omupiira ni Hiisa.
 P10	Ne bbomba ni Gimbo.
 P11	Ngudula cekweko ni Katayike.
-P12	Owomuhago nja! Hiina ehi wenda?
+P12	Ow'omuhago nja! Hiina ehi wenda?
 P13	Muuje,  husambe omupiira.
 P14	Muuje,  hwebbombe.
-P15	Muuje,  ogudule ni neefe cekweeko.
-P16	Muuje,  osome ni neefe!
+P15	Muuje hugudule cekweeko cekweeko.
+P16	Muuje husome.
 
 images:
 
@@ -64,6 +64,7 @@ isiXhosa (Translation)	Abahlobo	id=9880
 isiZulu (Original)	Abangane	id=8088
 Kiswahili (Translation)	Marafiki	id=16084
 Lugwere (Translation)	Bakaagwa	id=16114
+Mampruli (Translation)	Zɔadima	id=20110
 Ng’aturkana (Translation)	Ng'ipalon	id=15579
 Oluwanga (Translation)	Abetsa	id=19794
 Portuguese (Translation)	Amigos	id=16417
@@ -71,6 +72,7 @@ Sepedi (Translation)	Bagwera	id=18979
 Sesotho (South Africa) (Translation)	Metswalle	id=20027
 Setswana (Translation)	Ditsala	id=15037
 SiLozi (Translation)	Balikani	id=18620
+Talen (Translation)	Zɔnam	id=20192
 Tshivenda (Translation)	Khonani	id=18299
-Tunisian (Translation)	Ṡuħàb	id=15388
+Tunisian (Translation)	Aṣħāb	id=15388
 Xitsonga (Translation)	Vanghana	id=18879

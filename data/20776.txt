@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=20776&d=0&a=1
+id:	20776
+title:	Palisa Ulata Licalo
+author:	Lusaka Teachers
+artist:	Jesse Pietersen
+lang:	SiLozi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20776.png
+desc:	Palisa ulata licalo. Lebizo la hae litalusa 
+
+page_text:
+
+P1	Yo ki Palisa. Lebizo la hae litalusa "mapalisa" mwa Silozi.
+P2	Kakusasana Palisa ubulelisa kota ya olenji. "Kota tuwe nikupa kuli unife ma olenji amañata."
+P3	Palisa aya kwa sikolo. Mwa nzila abulela kwa bucwani, "Nikupa kuli uhuli ka butala hape usike uaoma."
+P4	Palisa afita mwala mapalisa amwa mushitu. "Mina mapalisa, ni itumela kumina kamibala yeminde-nde-nde."
+P5	Ali kwa sikolo, Palisa abulela kwa kakotana ali, "Kota tuwe uhule nimitahi yemituna kuli lunobalelanga mwa muluti wahao."
+P6	Ali kwa sikoli Palisa abulela kwa kakotana ali.
+P7	Palisa akutela kwa hae, apotela kota la olenji. 
+
+"Kota wena, kana ma olenji ya hao yabuzwize?" Palisa abuza.
+P8	"Ma olenji yasali butala", aikomokela Palisa. "Nikataha kamuso kakusasana mwendi nikatofumana ma olenji abuzwize!"
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+IciBemba (Translation)	Maluba Ali Temwa Ifilimbwa	id=20786
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Mampruli (Translation)	Suhuyini Wuri Bunbula 	id=20120
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa O Rata Dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+Talen (Translation)	Palesa Nɔŋa Tebula	id=20202
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

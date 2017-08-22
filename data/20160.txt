@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=20160&d=0&a=1
+id:	20160
+title:	Lynne's Birthday Surprise (Colour-In)
+author:	Leo Daly
+artist:	Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20160.png
+desc:	Lyn has done a lot of work getting things ready for her birthday party
+
+page_text:
+
+P1	Lynne, Oupa Karel and Anton were getting things ready for Lynne's birthday party.
+P2	Anton and Lynne are going to bake a cake. Oupa Karel reads the recipe.
+P3	"Let's mix these ingredients in the big bowl," said Lynne.
+P4	Anton stirred the ingredients and made a big mess.
+P5	"The cake feels heavy now," said Oupa Karel.
+P6	"Your friends have arrived," said Oupa Karel.
+P7	Anton thought the first present would be heavy because it was big.
+P8	It was a pillow and it weighed very little.
+P9	Anton thought the next present would be light because it was small.
+P10	It was a painted rock and it weighed a lot.
+P11	The children said that 1 kilogram of rocks weighs the same as 1 kilogram of feathers.
+P12	Lynne's cake was burnt.
+P13	Lynne was very sad.
+P14	Auntie Mavis asked Anton to guess how much her present weighed.
+P15	"It weighs the same as the cake that burned," said Anton.
+P16	Everyone said, "happy birthday, Lynne."
+
+images:
+
+illustrations/pages/18612.png
+illustrations/pages/18614.png
+illustrations/pages/18615.png
+illustrations/pages/18616.png
+illustrations/pages/18617.png
+illustrations/pages/18618.png
+illustrations/pages/18619.png
+illustrations/pages/18620.png
+illustrations/pages/18621.png
+illustrations/pages/18622.png
+illustrations/pages/18623.png
+illustrations/pages/18624.png
+illustrations/pages/18625.png
+illustrations/pages/18626.png
+illustrations/pages/18627.png
+illustrations/pages/18628.png
+illustrations/pages/18629.png
+
+translations:
+
+English (Original)	Lynne's Birthday Surprise	id=20158
+English (Adaptation)	Lynne's Birthday Surprise	id=20159
+isiNdebele (Translation)	Ilanga Lamabeletho Likalynne 	id=20785
+isiZulu (Translation)	Usuku Luka Lynne Lokuzalwa 	id=20589
+Lusoga (Translation)	Amazaalibwa Ga Alyana	id=21444
+Sesotho (South Africa) (Translation)	Tshohanyetso Ya Letsatsi La Tswalo La Lynne  	id=20833
+Siswati (Translation)	Simangaliso Selusuku Lwekutalwa Kwalynne 	id=20780

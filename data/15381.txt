@@ -1,23 +1,24 @@
 url:	http://africanstorybook.org/reader.php?id=15381&d=0&a=1
 id:	15381
-title:	Cnuwwe Qàġid Taġmil?
+title:	Ċnuwwa Qāɛed Taɛmil?
 author:	Ramzi Hachani
 artist:	Wiehan de Jager
 lang:	Tunisian
 level:	First words
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/15381.png
-desc:	Jumel qṡàr w efġàl fil-ħàżir.
+desc:	Jumel qṣār befɛāl fil-ħāđ̣er.
 
 page_text:
 
-P1	Ène qàġid nɍanni.
-P2	Hiyye qàġde tcìr.
-P3	Ène qàġid nṡaffaq.
-P4	Hiyye qàġde ttkessil.
-P5	Huwwe qàġid ynèdi.
-P6	Ène qàġid njèwib.
-P7	Hiyye qàġde tismaġ.
+P1	Ēna qāɛed nɣanni.
+P2	Hiyya qāɛda tċīr.
+P3	Ēna qāɛed nṣaffaq.
+P4	Hiyya qāɛda titkessil.
+P5	Huwwa qāɛed ynēdi.
+P6	Ēna qāɛed njēwib.
+P7	Hiyya qāɛda tismaɛ.
+P8	W'inti,  cnuwwe qāɛed taɛmil?
 
 images:
 
@@ -43,6 +44,8 @@ isiXhosa (Translation)	Wenza Ntoni?	id=15035
 isiZulu (Adaptation)	Wenzani?	id=17101
 Kiswahili (Translation)	Unafanya Nini?	id=15711
 Lunyole (Translation)	Ohola Hiina?	id=13602
+Lunyole (Translation)	Ohola Hiina?	id=21099
+Mampruli (Translation)	Bɔ Ka I Niŋna?	id=21221
 Ng’aturkana (Translation)	Nyo Isubi Iyong?	id=9778
 Portuguese (Translation)	O Que É Que Estás a Fazer?	id=19219
 Sepedi (Translation)	O Dira Eng?	id=7692

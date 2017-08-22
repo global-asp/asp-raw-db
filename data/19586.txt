@@ -11,18 +11,18 @@ desc:	Mtu huvuna anachopanda!
 
 page_text:
 
-P1	Kulikuwa na tajiri mmoja mjanja aliyeitwa Madola. Aliwaajiri wafanyikazi waliofanya kazi kwa bidii,  lakini hakuwalipa ada zao.
+P1	Kulikuwa na tajiri mmoja mjanja aliyeitwa Madola. Aliwaajiri wafanyakazi waliofanya kazi kwa bidii, lakini hakuwalipa ada zao.
 P2	Dande alikuwa na umri wa miaka 11. Alienda kwa Madola kuajiriwa ili amnunulia nyanyake dawa. Aliajiriwa kuwapeleka mifugo malishoni na kuwarudisha nyumbani kwa Madola.
-P3	Mwisho wa mwezi,  Dande alienda kulipwa mshahara wake. Madola alifanya ujanja akamwambia,  "Nenda nyumbani urudi kesho nikulipe."
-P4	Dande alifika kwa Madola mapema akitarajia kulipwa. Madola alifanya ujeuri tena akamwambia,  "Hala! Wewe ni mwanafunzi? Mbona mapema hivi? Hii ni shule?"
-P5	Madola alimpeleka Dande kando na wafanyakazi wengine. Alimwambia,  "Nitakulipa tu ukisha niletea kibuyu cha asali."
-P6	Dande alifikiria,  "Lazima nilipwe nimnunulie nyanyangu dawa." Alikimbia msituni akibeba vibuyu viwili. Alitazama mtini na allipouna mzinga,  aliviweka vibuyu karibu na mzinga akasubiri vijae.
-P7	Dande alipokuwa akiwaza jinsi ya kumwadhibu Madola,  hakumwona nyoka mdogo mweusi mwenye sumu akiingia katika kibuyu kimoja. Baadaye,  Dande aliviziba vibuyu ili asali isidondoke.
-P8	Dande alimpelekea Madola kibuyu cha asali akitarajia kulipwa. Madola alionja asali,  akamwambia,  "Niletee kibuyu kingine cha asali kama hii ndipo nikulipe." Dande alikimbia kuileta.
-P9	Dande alileta kibuyu cha pili. Alimpatia Madola akisema,  "Ndicho hiki kibuyu cha pili cha asali tamu kama ile ya kwanza. Nilipe sasa."
-P10	Madola alikipokea kibuyu lakini kwa mara nyingine,  alimwambia Dande kwa ujanja,  "Sikulipi leo. Subiri mwisho wa mwaka." Dande alimtazama Madola kwa hasira kisha akaenda nyumbani.
+P3	Mwisho wa mwezi, Dande alienda kulipwa mshahara wake. Madola alifanya ujanja akamwambia, "Nenda nyumbani urudi kesho nikulipe."
+P4	Dande alifika kwa Madola mapema akitarajia kulipwa. Madola alifanya ujeuri tena akamwambia,  "Hala! Kwani wewe ni mwanafunzi? Mbona mapema hivi? Hii ni shule?"
+P5	Madola alimpeleka Dande kando na wafanyakazi wengine. Alimwambia, "Nitakulipa tu ukisha niletea kibuyu cha asali."
+P6	Dande alifikiria, "Lazima nilipwe nimnunulie nyanyangu dawa." Alikimbia msituni akibeba vibuyu viwili. Alitazama mtini na allipouna mzinga, aliviweka vibuyu karibu na mzinga akasubiri vijae.
+P7	Dande alipokuwa akiwaza jinsi ya kumwadhibu Madola, hakumwona nyoka mdogo mweusi mwenye sumu akiingia katika kibuyu kimoja. Baadaye,  Dande aliviziba vibuyu ili asali isidondoke.
+P8	Dande alimpelekea Madola kibuyu cha asali akitarajia kulipwa. Madola alionja asali, akasema,  "Niletee kibuyu kingine cha asali kama hii ndipo nikulipe." Dande alikimbia kuileta.
+P9	Dande alileta kibuyu cha pili. Alimpatia Madola akisema, "Ndicho hiki kibuyu cha pili cha asali tamu kama ile ya kwanza. Nilipe sasa."
+P10	Madola alikipokea kibuyu lakini kwa mara nyingine,  alimwambia Dande kwa ujanja, "Sikulipi leo. Subiri mwisho wa mwaka." Dande alimtazama Madola kwa hasira kisha akaenda nyumbani.
 P11	Madola alitaka kuila ile asali haraka. Alikitia kidole ndani ya kibuyu akahisi ameumwa. Alitoka nje akilia,  "Nimeumwa! Nisaidieni jamani!" Nyoka alitoroka bila kuonwa na yeyote.
-P12	Wafanyakazi wote walitoroka wasijue kilichotendeka kwa mwajiri wao. Muda mfupi baadaye,  ambalanzi ilifika na kumpeleka Madola hospitali.
+P12	Wafanyakazi wote walitoroka wasijue kilichotendeka kwa mwajiri wao. Muda mfupi baadaye, ambalanzi ilifika na kumpeleka Madola hospitali.
 
 images:
 

@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=3152&d=0&a=1
 id:	3152
-title:	Ngenye  Imva Kwemini Eshushu Yangomgqibelo
+title:	Ngenye Imva Kwemini Eshushu Yangomgqibelo
 author:	Ntombizodwa Gxowa-Dlayedwa
 artist:	Wiehan de Jager
 lang:	isiXhosa
@@ -11,16 +11,16 @@ desc:	Ngenye imvakwemini eshushu ngoMgqibelo
 
 page_text:
 
-P1	Yayiyeyona mvakwemini eshushu kakhulu ngoMgqibelo kuDisemba. Wonke umntu wayequmbile. "Bontle noMpho noLerato phumani phandle niyokudlala!" Umama watsho kuthi. "Andinifuni endleleni yam." Sabaleka saphuma endlwini. "Masiyeni emlanjeni," watsho uLerato. "Kupholile phaya." "Kodwa utata wasixelela ukuba singaqubhi emlanjeni," watsho uBontle.
-P2	"Asiz'ukuqubha",  waphendula uLerato. "Siza kudlala nje emthunzini ecaleni kwamanzi." Kodwa ukudlala 'ulibeke' ngumsebenzi obilisayo,  nokuba uphantsi kwemithi ecaleni komlambo.
-P3	Okokuqala sakhulula izihlangu zethu. Kodwa sasiseshushu. Saza sakhulula iziketi neeblawuzi. Kodwa sasiseshushu.
-P4	Safaka iinyawo zethu emlanjeni ukuzipholisa. Saza satshizana,  ngokukhawuleza saba manzi tixi ngamanzi.
-P5	"O-o! Yizani! Masiqubheni," watsho uMpho. "Utata akasoze ayazi."  Saqubha,  saqubha,  salibala ngexesha.
-P6	Ilanga laqalisa ukuya ezantsi,  saziva sigodola. Zaziphi iimpahla zethu?
+P1	Yayiyeyona mvakwemini eshushu kakhulu ngoMgqibelo kuDisemba. Wonke umntu wayequmbile. "Bontle noMpho noLerato phumani phandle niyokudlala!" Umama watsho kuthi. "Andinifuni endleleni yam." Sabaleka saphuma endlwini. "Masiyeni emlanjeni," watsho uLerato. "Kupholile phaya." "Kodwa utata wasixelela ukuba singaqubhi emlanjeni," watsho uBontle. 
+P2	"Asiz'ukuqubha," waphendula uLerato. "Siza kudlala nje emthunzini ecaleni kwamanzi." Kodwa ukudlala 'ulibeke' ngumsebenzi obilisayo, nokuba uphantsi kwemithi ecaleni komlambo. 
+P3	Okokuqala sakhulula izihlangu zethu. Kodwa sasiseshushu. Saza sakhulula iziketi neeblawuzi. Kodwa sasiseshushu. 
+P4	Safaka iinyawo zethu emlanjeni ukuzipholisa. Saza satshizana, ngokukhawuleza saba manzi tixi ngamanzi.
+P5	"O-o! Yizani! Masiqubheni," watsho uMpho. "Utata akasoze ayazi." Saqubha, saqubha, salibala ngexesha.
+P6	Ilanga laqalisa ukuya ezantsi, saziva sigodola. Zaziphi iimpahla zethu?
 P7	Sakhangela phantsi kwemithi. Sakhangela emahlahleni. Sakhangela kwindawo yonke.
-P8	Kwakukho iimazi zeenkomo kufutshane nomlambo,  zonwabele ingca enambithekayo. UBontle wajonga phezulu,  "Jonga kulaa mazi yenkomo! Yintoni esemlonyeni yayo?" "Itya intyantyambo ebomvu," wakhwaza uMpho.
-P9	"Yiblawuzi yakho!" Saza sajonga kwenye imazi yenkomo. Ihlafuna into eblowu. "Sisiketi sam!" watsho uBontle. Saya ekhaya ngeepenti zethu,  siqhaqhazela.
-P10	Kodwa ingasukuba kwakupholile. "Yayiziimazi zenkomo," Sakhala. "Iimazi zenkomo zitye impahla zethu." Kodwa umama ngaba wasikholelwa? Ngokukhawuleza imizimba yethu yaba shushu kakhulu. Kwaye obo bushushu babungaveli elangeni.
+P8	Kwakukho iimazi zeenkomo kufutshane nomlambo,  zonwabele ingca enambithekayo. UBontle wajonga phezulu, "Jonga kulaa mazi yenkomo! Yintoni esemlonyeni yayo?" "Itya intyantyambo ebomvu," wakhwaza uMpho. 
+P9	"Yiblawuzi yakho!" Saza sajonga kwenye imazi yenkomo. Ihlafuna into eblowu. "Sisiketi sam!" watsho uBontle. Saya ekhaya ngeepenti zethu, siqhaqhazela.
+P10	Kodwa ingasukuba kwakupholile. "Yayiziimazi zenkomo," Sakhala. "Iimazi zenkomo zitye impahla zethu." Kodwa umama ngaba wasikholelwa? Ngokukhawuleza imizimba yethu yaba shushu kakhulu. Kwaye obo bushushu babungaveli elangeni. 
 
 images:
 
@@ -41,6 +41,7 @@ translations:
 Afrikaans (Translation)	'n Warm Saterdag Middag	id=11416
 Afrikaans (Translation)	'n Baie Warm Saterdag Middag	id=11525
 Afrikaans (Translation)	'n Warm Saterdag	id=20090
+Ateso (Translation)	Amukaaga Na Amwanan	id=20628
 ChiTonga (Translation)	Bumwi Buzuba Masikati Mu Nsabata	id=18650
 CiNyanja (Translation)	Cibelu Cina Cakupya Mumazulo	id=18659
 Dhopadhola (Translation)	Mukaga Moro M’Olieth	id=15766
@@ -65,6 +66,7 @@ Lunyole (Translation)	Ehy'egulo Hu Lw'omukaaga Olwaliho Ebbugumu	id=10250
 Maa (Translation)	Enkolong E Jumamosi Nairowua	id=3158
 Oluwanga (Translation)	Mwichuma Mushiteere  Shiomubasu Omululu	id=3154
 Portuguese (Translation)	Uma Tarde De Sábado E Calor	id=18864
+Rufumbira (Translation)	Uwamukaga Wizuba	id=20635
 Rutooro (Translation)	Kyamukaga Kimu Nyamusana Mukyanda	id=14938
 Sepedi (Translation)	Mokibelo Wa Go Fiša Tšhiritšhiri	id=1009
 Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=3146
@@ -72,6 +74,6 @@ Sesotho (Lesotho) (Translation)	Moqebelo Hone Ho Chesa Haholo	id=12622
 Sesotho (South Africa) (Translation)	Moqebelo O Mong O Tjhesang Haholo	id=20048
 Setswana (Translation)	Letsatsi La Lamatlhatso Le Le Mogote	id=3147
 SiLozi (Translation)	Lizazi Lenelicisa Haulu La Pelekelo	id=18737
-siSwati (Translation)	Ngelusuku Lwekushisa Kakhulu Kwelilanga Ngengcibelo Ntsambama	id=13062
-Tshivenda (Translation)	Masiari a Mugivhela U Fhisaho.	id=18319
+Siswati (Translation)	Ngelusuku Lwekushisa Kakhulu Kwelilanga Ngengcibelo Ntsambama	id=13062
+Tshivenda (Translation)	Masiari A Mugivhela U Fhisaho	id=18319
 Xitsonga (Translation)	Siku Rin’Wana Ro Hisa Ra Muqgivela Nindzhenga	id=18867

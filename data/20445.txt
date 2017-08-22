@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=20445&d=0&a=1
+id:	20445
+title:	ጦጣና አዞ
+author:	Mezemir Girma
+artist:	Abraham Muzee
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20445.png
+desc:	ይህ ተረት አንዲት ጦጣ እንዴት ራሷን በአዞ ከመበላት እንዳዳነች ይተርካል፡፡
+
+page_text:
+
+P1	ጦጢት አዞውን ሐይቅ ዳር አገኘችው፡፡
+P2	‹‹የት ነው የምትኖረው?›› ስትል ጦጢት ጠየቀችው፡፡ ‹‹ሐይቁ ውስጥ›› አላት አዞው፡
+P3	‹‹የት ነው የምትኖሪው?›› አላት አዞው፡፡  ‹‹ዛፍ ላይ›› ስትል መለሰች ጦጣዋ፡፡
+P4	‹‹መዋኘት ትችያለሽ?›› ሲል ጠየቃት አዞው፡፡
+P5	‹‹መዋኘት አልችልም››አለች ጦጢት፡፡  ‹‹አስተምርሻለኋ፡፡››
+P6	‹‹ጓደኞች አይደለን እንዴ? አትፍሪ›› አላት አዞው፡፡
+P7	‹‹ጦጢት፣ አጎቴ አሞታል፡፡ ሥጋ ይፈልጋል›› አላት አዞው፡፡
+P8	ጦጢት በጣም ፈርታለች፡፡ አዞው ይበላት ይሆን?
+P9	ጦጢት ከአዞው ለማምለጥ ፈልጋለች፡፡
+P10	ጦጢት አንድ ሐሳብ መጣላት፡፡
+P11	‹‹ለአጎትህ ልቤን እሰጥህና ትወስድለታለህ›› በማለት ለአዞው ቃል ገባችለት፡፡
+P12	‹‹ልቤ መሬቱን አልፎ ያለው ዛፍ ላይ ነው›› አለችው፡፡
+P13	‹‹ልብሽን ታመጭዋለሽ?›› ሲል ጠየቃት አዞው፡፡ ‹‹አዎን›› አለችው፡፡
+P14	አዞውም ወደ መሬቱ እየዋኘ መለሳት፡፡ ጦጢትም ወደ ዛፉ ሮጠች፡፡
+P15	‹‹ጓደኛዬ አይደለሽም፤ ዋሽተሸኛል!›› አላት አዞው፡፡
+P16	‹‹በቃ በቃ! ጓደኛማቾች አይደለንም፤ ልትበላኝ ትፈልጋለህ›› አለችው ጢጢትም መልሳ፡፡
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri Da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	Unkawu Nongwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kiswahili (Translation)	Sokwe Na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343

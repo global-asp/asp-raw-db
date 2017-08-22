@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=20042&d=0&a=1
+id:	20042
+title:	Palesa O Rata Dimela
+author:	Tseliso Masolane
+artist:	Jesse Pietersen
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20042.png
+desc:	Palesa o bua le difate
+
+page_text:
+
+P1	Enwa ke Palesa.
+
+Lebitso la hae le bolela 'palesa' ka  puo ya habo, ya  Sesotho.
+P2	Hoseng Palesa o bua le sefate sa dilamunu.
+
+"Sefate sa dilamunu, ka kopo hle, re fe dilamunu tse ngata."
+P3	Palesa o ya ka maoto sekolong.
+
+Ha a le tseleng, o re ho jwang, "Ka kopo hle jwang, hola o be motalana o se ke wa omella."
+P4	Palesa o feta dipalesa tse hlaha. "Dipalesa, ke a leboha ka mebala ya lona e kganyang."
+P5	Sekolong, Palesa o bua le sefate se senyenyane.
+
+"Sefate, ka kopo hle, hola ho be le makala a maholo hore re kgone ho balla tlasa moriti wa hao."
+P6	Palesa o bua le moedi wa difatjana tse potileng sekolo sa hae. 
+
+"Ka kopo hle, o hole o le matla mme o thibele batho ba babe hore ba se kene ka hare."
+P7	Ha Palesa a kgutlela hae ho tswa sekolong, o etela sefate sa dilamunu.
+
+"Ebe dilamunu tsa hao di se di butswitse?" ho botsa Palesa.
+P8	"Dilamunu di sa ntse di le tala." ho araba Palesa. "Ke tla o bona hosane sefate sa dilamunu. Mohlomong hosane o tla be o ntshwaretse lamunu."
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief Vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+French (Translation)	Khalai Parle Aux Plantes	id=14523
+IciBemba (Translation)	Maluba Ali Temwa Ifilimbwa	id=20786
+isiXhosa (Translation)	Upalesa Uthanda Izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai Aizungumzia Mimea	id=13544
+Mampruli (Translation)	Suhuyini Wuri Bunbula 	id=20120
+Sesotho (S.Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+SiLozi (Translation)	Palisa Ulata Licalo	id=20776
+Talen (Translation)	Palesa Nɔŋa Tebula	id=20202
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

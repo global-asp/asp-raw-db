@@ -1,0 +1,78 @@
+url:	http://africanstorybook.org/reader.php?id=20924&d=0&a=1
+id:	20924
+title:	Kaze Nja Ni Lii
+author:	Lusaka Teachers
+artist:	Elke and René Leisink
+lang:	SiLozi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20924.png
+desc:	Kaze ni Nja zizamaya mwa hae. Batobana lii.
+
+page_text:
+
+P1	Ye ki Kaze.
+
+Ye ki Nja.
+P2	Kaze ni Nja zazamaya.
+
+Kaze ni Nja zizamaya mwa hae.
+P3	Batobana lii.
+
+Lii nelizi mwabucwani.
+
+Linosi.
+P4	Kaze ni Nja zaya ku nyunywani.
+
+Babuza nyunywani, "Kana ki lii lahao?"
+P5	Nyunywani ahana ali,
+"Batili, aki lii laka, Amabuze lisikita."
+P6	Kaze ni Nja zaya ku lisikita mi babuza, "Kana ki lii la hao?"
+P7	Lusikita la hana lali,
+"batili, aki lii laka, amabuze licikwi."
+P8	Kaze ni nja zaya ku licikwi.
+
+Babuza licikwi, "Kana ki lii la hao?"
+P9	Licikwi lahana lali, "Aki lii laka." Amuyobuza lipato zepeli mwendi kilazona."
+P10	Kaze ni Nja zaya kwalipato zepeli.
+
+Zabuza, "Kana le ki lii lamina?"
+P11	Kona lipato zepeli zahana zali, "Batili aki lii laluna."
+
+Mane lii la pwaceha.
+P12	Kunani mukolozwani mwalii.
+
+Ki kana kamukolozwani.
+P13	Kana kamukolozwani kali, "Kana boma bakai? Kana bondate bakai? Kana boma nibo ndate bakai?"
+
+Kaze ni Nja zaisa mukolozwani kubomaona nibo ndatakona.
+P14	Uyisale foo Kaze.
+
+Uyisale foo Nja.
+
+Uyisale foo mukolozwani.
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiTonga (Translation)	Kkiti, Mubwa A Ji	id=20770
+CiNyanja (Translation)	Cona Galu Ndi Dzira	id=20793
+English (Original)	Cat and Dog and the Egg	id=20150

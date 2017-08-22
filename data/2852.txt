@@ -22,9 +22,10 @@ P8	Pola pola ebiitu byatagiiha ohucuuha. Abaana balomanga hatono ate basama hibb
 P9	Hiisi ludalo olu bahejanangaho babonanga baati ameeno gaawe gaali maleŋi. Era batagiiha ohugendera humagulu ane.
 P10	Bafuuha ebisolo ebinyaha ebyali ni bitabonehangaho mu hifo ehyo. Jino nj'esolo eji baatu balanga baati enguge.
 P11	Mu hamanga hatotono,  enguge jali mu sangaalo. Jalehera ohubesa enduyu j'omusoozi nga jilya amasa g'omwiroba.
-P12	Gaali gahihebulira gaati gaali baatu. Gahejanangaho hu gasuulu nga gejeha.
-P13	Aye sigasiima ohujehana. Gatumatuma olwobusungu. Mangu enguge jaali sijisobola huba ŋalala olwohujehanangaho n'obusungu. Hiisi lugo Iwa tinanga lumenya hu lwaŋo.
-P14	Ceeva enguge jimenya mu bubinja butono hatyane era sijimenya mu bibinja ebibbala nga engwanga ely'enguge.
+P12	Bebirira engeri ey'ohulomamo. Befihulamo engoye olwohuba ti amagulu n'emihono jaaliho amooya amamali.
+P13	Gaali gahihebulira gaati gaali baatu. Gahejanangaho hu gasuulu nga gejeha.
+P14	Aye sigasiima ohujehana. Gatumatuma olwobusungu. Mangu enguge jaali sijisobola huba ŋalala olwohujehanangaho n'obusungu. Hiisi lugo Iwa tinanga lumenya hu lwaŋo.
+P15	Ceeva enguge jimenya mu bubinja butono hatyane era sijimenya mu bibinja ebibbala nga engwanga ely'enguge.
 
 images:
 
@@ -48,7 +49,7 @@ translations:
 
 English (Original)	The Baboons That Went This Way and That	id=2605
 English (Adaptation)	The Baboons That Went This Way and That	id=2609
-English (Adaptation)	Baboons	id=19986
+English (Adaptation)	They Became Baboons	id=19986
 isiZulu (Translation)	Izimfene Ezaziya Le Na Le	id=2853
 Kiswahili (Translation)	Nyani Walioenda Huku Na Huko	id=2987
 Lumasaaba (Translation)	Tsingukye Tsitsakyeendaana Eyi Ni Neeyi	id=2990

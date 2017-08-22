@@ -1,17 +1,24 @@
 url:	http://africanstorybook.org/reader.php?id=8169&d=0&a=1
 id:	8169
 title:	Nsobola
-author:	Cornelius Gulere
+author:	Cornelius Wambi Gulere
 artist:	Cathy Feek
 lang:	Lusoga
 level:	First words
 lic:	Creative Commons: Attribution-Non Commercial 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/8169.png
-desc:	Ekitabo kino kilaga ebintu byetweega eno bwetukula
+desc:	Ekitabo kino kilaga ebintu byetweega eno bwetukula.
 
 page_text:
 
-P1	Nsobola okusoma.
+P1	Kutuuma.
+P2	Kubuuka.
+P3	Kukina.
+P4	Kuyoza.
+P5	Kutemya.
+P6	Kuyemba.
+P7	Kulumuka.
+P8	Nsobola no okusoma.
 
 images:
 

@@ -15,12 +15,14 @@ P1	Ba kibo muluti baka.  Libizo labona kibo Akinyi.   Banilata haulu.
 P2	Bomuluti Akinyi baluluta mukoloko walitaku neli taku zenyinyani. Nakona kubulela litaku za a,  e,  i,  o,  u.
 P3	Bomuluti Akinyi baluluta mibala ya bufubelu,  mbilu,  ngánda,  talukeke ni omunsu.
 P4	Nako yakupumula bomuluti Akinyi baluopelelanga pina yaku lulobalisa. Baluopelelanga pina yakulobalisa yabanana.
-P5	Balukandekelanga matangu abaana balindume la Mubulo.
-P6	La Bubeli balukandekelanga matangu alindume za basali.
-P7	La Bulalu balukandekelanga makande alinzila zakuzamaela zeshutanashutana.
-P8	La bune balukandekelanga za bulimi.
-P9	Nila bufaibi,  balukandekela matangu aluna mwa kilasi bomuluti Akinyi.
-P10	Bomuluti baluna kibona bocaziba mwa lifasi kaufela! Nibata kuba inge bomuluti Akinyi anikahula.
+P5	Pina yakulobalisa izamaya sina cwana: Pina ya ngollide ifa meto Lumenyo lukulibelize auzuha Amulobale balikani,  musike kulila Nikami opelela pina yakulobalisa.
+P6	Bomuluti Akinyi baziba ahulu matangu. Balutangutela nga matangu ashutana zazi ni zazi ka sunda.
+P7	Balukandekelanga matangu abaana balindume la Mubulo.
+P8	La Bubeli balukandekelanga matangu alindume za basali.
+P9	La Bulalu balukandekelanga makande alinzila zakuzamaela zeshutanashutana.
+P10	La bune balukandekelanga za bulimi.
+P11	Nila bufaibi,  balukandekela matangu aluna mwa kilasi bomuluti Akinyi.
+P12	Bomuluti baluna kibona bocaziba mwa lifasi kaufela! Nibata kuba inge bomuluti Akinyi anikahula.
 
 images:
 
@@ -38,6 +40,7 @@ illustrations/pages/9692.png
 
 translations:
 
+Afrikaans (Translation)	Juffrou Akinyi	id=10565
 Afrikaans (Translation)	Juffrou Akinyi	id=11567
 ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
 CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
@@ -55,10 +58,12 @@ isiZulu (Adaptation)	Uthisha Wami Uzanele	id=17353
 Kimîîru (Original)	Mwarimu Makena	id=9688
 Lugwere (Translation)	Musomesya Nankoma	id=16192
 Lunyole (Translation)	Musomesa Nambubi	id=16586
+Mampruli (Translation)	Tikyɛa Talata	id=20109
 Portuguese (Translation)	Professora Akinyi	id=18885
 Rutooro (Translation)	Omwegesa Akinyi	id=11902
 Sepedi (Translation)	Morutiši Akinyi	id=18029
 Sesotho (S.Africa) (Translation)	Mosuwetsana Akinyi	id=14501
 Setswana (Translation)	Morutabana Moipone	id=14092
+Talen (Translation)	Tikya Akinyi	id=20177
 Tshivenda (Translation)	Mudededzi Akinyi	id=14717
 Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

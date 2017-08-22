@@ -12,19 +12,20 @@ desc:	Kobe anaitafuta nyumba yake. Ataipata wapi?
 page_text:
 
 P1	Siku moja,  Kobe alikuwa akitembea nyasini. Alichunguza mbele na kukodolea nyasi macho akamwona Konokono.
-P2	Alijibu,  "La,  sijaiona,  lakini nitakusaidia kuitafuta!" Konokono alipanda juu ya gamba la Kobe. Kobe alimbeba Konokono mgongoni mwake. Walitafuta,  lakini hawakuiona.
-P3	Baada ya muda mfupi,  walimwona Chiriku. "Mnatafuta nini?" Chiriku aliwauliza. "Ninatafuta nyumba yangu. Umeiona?" Kobe alisema. "La,  sijaiona,  lakini nitakusaidia kuitafuta!" Chiriku akajibu.
-P4	Chiriku aliyapapatua mabawa yake na kupaa. "Unakwenda kwa kasi sana." Kobe alilalamka. Chiriku akamwambia,  "Samahani,  wacha nami pia niruke juu ya gamba lako."
-P5	Kobe aliwabeba Konokono na Chiriku juu ya gamba lake. Walitafuta bila kuona ishara ya nyumba ya Kobe.
-P6	Walipoendelea,  walimwona Bunzi. "Mnatafuta nini?" Bunzi aliwauliza. "Ninatafuta nyumba yangu. Umeiona?" Kobe alijibu.
-P7	Bunzi alisema,  "La,  sijaiona,  lakini nitakusaidia kuitafuta!" Alirukia mgongoni mwa Kobe. Kobe aliwabeba Konokono,  Chiriku na Bunzi. Walitafuta,  lakini hawakuona nyumba yoyote.
-P8	Hatua chache,  walikutana na Panya. Alikuwa akitengeneza shada zuri la maua. "Unatafuta nini?" Panya aliuliza. "Natafuta nyumba yangu. Umeiona?" Kobe alisema.
-P9	Panya alijibu,  "La,  sijaiona,  lakini nitakusaidia kuitafuta!" Aliruka mgongoni mwa Kobe. "Subiri,  siwezi kuacha maua yangu." Panya alijinyoosha,  akayakusanya maua yake huku Kobe akimsubiri.
-P10	Kobe aliendelea kutembea akiwabeba Konokono,  Chiriku,  Bunzi na Panya mgongoni mwake. Walitafuta,  lakini hawakuipata nyumba ya Kobe. Upepo uliyapeperusha maua ya Panya. Kobe alikuwa amechoka sana. Akasema,  "Ninyi ni wazito."
-P11	Upepo uliongezeka. Anga likabadilika likawa jeusi. "Ah,  iwapi nyumba yangu?" Kobe aliuliza. Punde,  radi ilinguruma milimani na umeme ukaangaza. Mara mvua ikaanza kunyesha. "Ah,  iwapi nyumba ya Kobe?" Konokono,  Chiriku,  Bunzi na Panya waliuliza.
-P12	Upepo ulizidi kuvuma na kuvuruga. Ghafla,  upepo uliwapeperusha wote kutoka mgongoni mwa Kobe.
-P13	Mvua ya mawe ikaanza kunyesha.    Kwa uoga,  Kobe alijikunja na kuingia ndani ya gamba lake. Mle ndani mlikuwa joto. "Kumbe,  hii ndiyo nyumba yangu!" Kobe aliwaza.
-P14	Konokono,  Chiriku,  Bunzi na Panya walijikusanya chini ya gamba la Kobe wakatambua,   "Ah,  hii ndiyo nyumba ya Kobe!"
+P2	"Unatafuta nini?" Konokono alimuuliza. "Ninatafuta nyumba yangu. Umeiona?"
+P3	Alijibu,  "La,  sijaiona,  lakini nitakusaidia kuitafuta!" Konokono alipanda juu ya gamba la Kobe. Kobe alimbeba Konokono mgongoni mwake. Walitafuta,  lakini hawakuiona.
+P4	Baada ya muda mfupi,  walimwona Chiriku. "Mnatafuta nini?" Chiriku aliwauliza. "Ninatafuta nyumba yangu. Umeiona?" Kobe alisema. "La,  sijaiona,  lakini nitakusaidia kuitafuta!" Chiriku akajibu.
+P5	Chiriku aliyapapatua mabawa yake na kupaa. "Unakwenda kwa kasi sana." Kobe alilalamka. Chiriku akamwambia,  "Samahani,  wacha nami pia niruke juu ya gamba lako."
+P6	Kobe aliwabeba Konokono na Chiriku juu ya gamba lake. Walitafuta bila kuona ishara ya nyumba ya Kobe.
+P7	Walipoendelea,  walimwona Bunzi. "Mnatafuta nini?" Bunzi aliwauliza. "Ninatafuta nyumba yangu. Umeiona?" Kobe alijibu.
+P8	Bunzi alisema,  "La,  sijaiona,  lakini nitakusaidia kuitafuta!" Alirukia mgongoni mwa Kobe. Kobe aliwabeba Konokono,  Chiriku na Bunzi. Walitafuta,  lakini hawakuona nyumba yoyote.
+P9	Hatua chache,  walikutana na Panya. Alikuwa akitengeneza shada zuri la maua. "Unatafuta nini?" Panya aliuliza. "Natafuta nyumba yangu. Umeiona?" Kobe alisema.
+P10	Panya alijibu,  "La,  sijaiona,  lakini nitakusaidia kuitafuta!" Aliruka mgongoni mwa Kobe. "Subiri,  siwezi kuacha maua yangu." Panya alijinyoosha,  akayakusanya maua yake huku Kobe akimsubiri.
+P11	Kobe aliendelea kutembea akiwabeba Konokono,  Chiriku,  Bunzi na Panya mgongoni mwake. Walitafuta,  lakini hawakuipata nyumba ya Kobe. Upepo uliyapeperusha maua ya Panya. Kobe alikuwa amechoka sana. Akasema,  "Ninyi ni wazito."
+P12	Upepo uliongezeka. Anga likabadilika likawa jeusi. "Ah,  iwapi nyumba yangu?" Kobe aliuliza. Punde,  radi ilinguruma milimani na umeme ukaangaza. Mara mvua ikaanza kunyesha. "Ah,  iwapi nyumba ya Kobe?" Konokono,  Chiriku,  Bunzi na Panya waliuliza.
+P13	Upepo ulizidi kuvuma na kuvuruga. Ghafla,  upepo uliwapeperusha wote kutoka mgongoni mwa Kobe.
+P14	Mvua ya mawe ikaanza kunyesha.    Kwa uoga,  Kobe alijikunja na kuingia ndani ya gamba lake. Mle ndani mlikuwa joto. "Kumbe,  hii ndiyo nyumba yangu!" Kobe aliwaza.
+P15	Konokono,  Chiriku,  Bunzi na Panya walijikusanya chini ya gamba la Kobe wakatambua,   "Ah,  hii ndiyo nyumba ya Kobe!"
 
 images:
 
@@ -52,6 +53,7 @@ French (Translation)	Tortue Trouve Sa Maison	id=12866
 isiNdebele (Translation)	Ufudu Uthola Indlu Yakhe	id=13781
 isiZulu (Translation)	Ufudu Uthola Indlu Yakhe	id=11291
 isiZulu (Translation)	Tortoise Finds His House	id=11303
+Lusoga (Translation)	Enkhudhu Yazuula Enhumba  Yaayo	id=21298
 Ng’aturkana (Translation)	Aanyuni Abokok Akai Keng	id=12685
 Oluwanga (Translation)	Likhutu Linyoola Inzu Yalio	id=13018
 Portuguese (Translation)	A Tartaruga Encontra a Sua Casa	id=19218

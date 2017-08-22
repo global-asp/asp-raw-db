@@ -1,0 +1,95 @@
+url:	http://africanstorybook.org/reader.php?id=20365&d=0&a=1
+id:	20365
+title:	Wab Bla Ninkpensi Inabugu Bla Ninkpensi
+author:	R.Y. Tongo and J. Salifu  (OLE Ghana)
+artist:	Wiehan de Jager
+lang:	Mampruli
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20365.png
+desc:	Wabgu daa marila nyɔ jima
+
+page_text:
+
+P1	Sokam mi ni wabugu marila nyo wa-ala.
+P2	Amaa saha-sha sa, wabugu nyoya daa jini ka bara.
+P3	Ba daa doɔi wabla. U daa mari ninkpensi. U daa mari boosa ntiri mooni bunkɔbri zaa.
+P4	U ninkpensi daa kyani la sankparinga ziiya. Ka u yali, "Wula ka i mari nangowa’ali."
+P5	U nini daa naan mirigi n-nyala nyamni. Wula ka i yiili nya bunpiini? U daa boosiya.
+P6	U nini daa naan mirigi n-nyala nyabiga. Bundiri bɔa ka nyabisi diri yunŋu? U daa boosiya.
+P7	Gaawu-gaawu nineera daa labusuu yoonyooma. Dolima ka ti kyanŋ moari ni. Bɛni maa i ni banŋ nyabisi ŋɔn diri bundiri shaa yunŋu.
+P8	Dizugu wabibla daa doli n-kyanŋi moari maa ni.
+P9	U daa tela moagberima n-kyanŋ n-ti zaani moa gburinŋu. N gosi koomaa puuni. Ka u goasi ka boosi ni nyabiga maa lei?
+P10	I ge-ari moa gburiŋu kugri n-daa geetiriba. Naa wabibla. I ni toi n-yalima nyabisi ŋɔn diri bundiri sheeli yunŋ? U daa boosiya.
+P11	"Vuum n-merimana kan n yali." Wabubla maa daa suniya. Vuum n-meri mana. Kugri yaliya. Wabubla daa maali n-suni.
+P12	Ka wabubla maa nyuni tinŋa.
+P13	Nini popu ni niari ka nyabiga gbaai wububla nyoya ni u jira.
+P14	Ka wabubla maa zini u gbaya zugu ka darigi, ndarigi n naan darigi.
+P15	Ka nyabiga za-asi u nyoya ba ha bu.
+P16	Ka wabubla nyoya doligi, ndoligi n maa li doligi.
+P17	Halli ka u ti lu zulla!
+P18	Wabubla nyo jin ŋa yi doligi nlabigi nyo wa-ali.
+P19	U nyoya maa daa yi wa'ani ka u nintoi ntɔasi tiwala tiwula maa ni.
+P20	Lala zugu ka wabgu zaa yi mara nyowa'ali kan suŋ ni u.
+
+images:
+
+illustrations/pages/1110.png
+illustrations/pages/1111.png
+illustrations/pages/1112.png
+illustrations/pages/1110.png
+illustrations/pages/1113.png
+illustrations/pages/1114.png
+illustrations/pages/1115.png
+illustrations/pages/1116.png
+illustrations/pages/1117.png
+illustrations/pages/1118.png
+illustrations/pages/1119.png
+illustrations/pages/1120.png
+illustrations/pages/1121.png
+illustrations/pages/1122.png
+illustrations/pages/1123.png
+illustrations/pages/1124.png
+illustrations/pages/1125.png
+illustrations/pages/1126.png
+illustrations/pages/1882.png
+illustrations/pages/1127.png
+illustrations/pages/1128.png
+
+translations:
+
+Afrikaans (Translation)	Nuuskierige Baba Olifant	id=20055
+Chinyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=2059
+ChiTonga (Translation)	Kukankamana Kwa Mwana Wa Musobvu	id=16450
+ChiTonga (Translation)	Kubuzya-Buzya Kwakana Kamuzomvu	id=18640
+CiNyanja (Translation)	Kufunsa Funsa Kwa Kamwana Ka Njovu	id=18623
+CiNyanja (Translation)	Kudabwa Kwa Mwana Wa Njobvu	id=20784
+English (Original)	Curious Baby Elephant	id=1881
+French (Translation)	Le Bébé Éléphant Est Très Curieux	id=9963
+Fulfulde (Translation)	Ɓinngel Nyiiya No Kiinyuɗo Sanne	id=10026
+Hausa (Niger) (Translation)	Jinjiri Giwa Mai Ƙwanƙwanto	id=9994
+IciBemba (Translation)	Akaana Ka Nsofu Akaleeipusha-Ipusha	id=18580
+isiXhosa (Translation)	Indlela Iindlovu Ezafumana Ngayo Imiboko Emide	id=17521
+isiZulu (Translation)	Indlovu Eyayithanda Izinto	id=8211
+isiZulu (Adaptation)	Ikhala Lendlovu	id=13547
+Kanuri (Translation)	Tada Kǝmagǝnne Laa Jauro Ndoroma	id=10044
+Kiswahili (Translation)	Mtoto Wa Tembo Mdadisi	id=7618
+Leblango (Translation)	Atïn Lyëc a Yïl	id=11848
+Leblango (Translation)	Atin Lye Came Kite Kene	id=21473
+Luganda (Translation)	Omwana Gwe Njovu Ogujagu Jagu	id=8277
+Lugbarati (Official) (Translation)	Èwámvá Òlúkùlúá Be Rɨ̀	id=8782
+Lumasaaba (Translation)	Wanatsofu Umwana Urebareba	id=8278
+Lunyole (Translation)	Esuulu Y’Enjofu	id=16584
+Lusoga (Translation)	Wandhovu Omuto Omubuulirize	id=20900
+Maa (Translation)	Olkuoo Loltome Oikilikuanisho	id=7866
+Ng’aturkana (Translation)	Itaok a Etom Nikachwaan	id=2536
+Oluwanga (Translation)	Omwana We Inzofu, Mwangu Omuchesi	id=8276
+Sepedi (Translation)	Tlowana Ya Go Rata Go Tseba	id=2409
+Sepedi (Adaptation)	Ngwana Wa Tlou Wa Go Rata Go Tseba Kudu	id=2610
+Sesotho (South Africa) (Translation)	Nko Ya Tlou	id=20024
+Setswana (Translation)	Tlowana Marata Go Itse	id=2060
+SiLozi (Translation)	Kuitalifisa Kwa Kana Ka Tou	id=18567
+Talen (Translation)	Wobil Veeh Wol Daan	id=20187
+Tshivenda (Translation)	Ṅwana Wa Nḓou Aṱoḓaho U Ḓivha.	id=18283
+Xitsonga (Translation)	Xindlopfana Xo Hlamarisa	id=18991
+Zarma (Translation)	Ce-Beeriizo Ga Sootiya Gumo	id=10108

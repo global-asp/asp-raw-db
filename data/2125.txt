@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=2125&d=0&a=1
 id:	2125
-title:	Eipuusi Lyange Lili Gha?
+title:	Eipuusi Lyange Lili Igha?
 author:	James Kidulu
 artist:	Bronwen Heath
 lang:	Lusoga
@@ -11,7 +11,7 @@ desc:	Eipuusi lyange libuze. Bambi nnhamba okulinoonhya.
 
 page_text:
 
-P1	Eipuusi lyange lili gha?
+P1	Eipuusi lyange lili igha?
 P2	Lili ghansi mu mankuliisi?
 P3	Lili ghangulu ku kabada?
 P4	Lili inhuma ghe entebe?
@@ -41,7 +41,6 @@ Aringati (Translation)	Mâ Búrãŋâ Íngõlé?	id=7529
 English (Original)	Where is my Cat?	id=1825
 isiNdebele (Translation)	Ukuphi Ukatsu Wami?	id=13058
 isiXhosa (Translation)	Iphi Ikati Yam?	id=13247
-Kinyarwanda (Translation)	Injangwe Yanjye Irihe ?	id=11491
 Kiswahili (Translation)	Wapi Paka Wangu?	id=1970
 Luganda (Translation)	Kkapa Yange Eri Wa?	id=2120
 Lugbarati (Translation)	Ma Vile Busua Ngua Ya?	id=2784
@@ -53,7 +52,7 @@ Sabinyi (Translation)	Miite Ani Pisimwani?	id=2126
 Sepedi (Translation)	Katse Yaka E Kae?	id=7478
 Setswana (Translation)	Katse Ya Me E Kae?	id=2128
 siSwati (Translation)	Liphi Likati Lami	id=11217
-Tunisian (Translation)	Wìn Qaŧŧùsi?	id=15387
+Tunisian (Translation)	Wīn Qaṭṭūsti?	id=15387
 Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=10855
 Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=11643
 Yoruba (Translation)	Níbo Ni Ológbò Mi Wà?	id=11644

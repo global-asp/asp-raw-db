@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=21112&d=0&a=1
+id:	21112
+title:	ማንቲለ በረኻን ምህርቲ ዘፍሪ ዝብኢን
+author:	Angish Abay
+artist:	Rob Owen
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21112.png
+desc:	የዕርኽቲ እዃ እንተኾኑ፣ ማንቲለ ናይ ዝብኢ ዕሽነት ተጠቒማ ኣታሊላቶ። እንተኾነ ግና ኣብ መወዳእታ ነቒሑላ።
+
+page_text:
+
+P1	ቐደም፣ ማንቲለ በረኻን ዝብኢን ብጣዕሚ ኣዕርኽቲ እዮም ነይሮም።
+P2	ማንቲለ ንዝብኢ“ብሓደ ሕርሻ ዘይንጅምር?”  በለቶ።
+P3	ማንቲለ ዕፍን ንዝራእ እሞ ማዕረ ንማቐሎ ዝብል ሓሳብ ኣቕረበት።
+P4	ማንቲለ ንዝብኢ “ኣነ ኣዕዋፍ ከባርር እየ፤ ከቢድ ስራሕ እዩ”  በለቶ።
+P5	ዝብኢ እቲ መሬት በይኑ ክሓርሶ ተሰማምዐ።
+P6	ዝብኢ ፃህያይ እንትፅሂ ማንቲለ ኮፍ አላ ትደርፍ ነበረት።
+P7	እቲ ዕፍን ምስ ሸወተ እውን ማንቲለ ኣዕዋፍ ተባርር ነበረት።
+P8	ማንቲለ “ኣነ ልዕሊ መሬት፣ ንስኻ ትሕቲ መሬት ዘሎ ንማቐል”  በልቶ።
+P9	ማንቲለ ኩሉ ዕፍን ኣኪባ፣ ወሲዳ ከዘነቶ።
+P10	ዝብኢ ኣብ ትሕቲ መሬት ሱር ጥራሕ ረኸበ።
+P11	ዝብኢ ከም ዝተታለለ ፈሊጡ ፣ ብጣዕሚ ሓረቐ።
+P12	ድንሽ ክዘርኡ ተስማዕምዑ። ዝብኢ “ኣብ ልዕሊ መሬት ዘሎ ክወስድ እየ” በለ።
+P13	ብሓደ እናደረፉ ነቲ ድንሽ ዘርእዎ።
+P14	ኣብ ምህርቲ ግዜ፣ ዝብኢ ቆፅሊ ድንሽ ጥራሕ ኣከበ።
+P15	ማንቲለ ቡዝሓት ገዘፍቲ ድንሻት ኣከበት ፤ ከዘነቶ ድማ።
+P16	ዝብኢ ሕነ ክፈዲ ከጓይያ ጀመረ። ብድሕሪኡ ዕርክነቶም ተቛረፀ።
+
+images:
+
+illustrations/pages/8138.png
+illustrations/pages/8135.png
+illustrations/pages/8136.png
+illustrations/pages/8137.png
+illustrations/pages/8138.png
+illustrations/pages/8139.png
+illustrations/pages/8140.png
+illustrations/pages/8141.png
+illustrations/pages/8142.png
+illustrations/pages/8143.png
+illustrations/pages/8144.png
+illustrations/pages/8145.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8148.png
+illustrations/pages/8149.png
+illustrations/pages/8150.png
+
+translations:
+
+Acholi (Translation)	Apwoyo Gin Ki Laluu  Gu Pitu Cam	id=20992
+Amharic (Translation)	ጥንቸል እና አያ ጅቦ እህል አመረቱ 	id=21246
+Dhopadhola (Translation)	Oculu Kodi Ondyek	id=18696
+English (Original)	Hare And Hyena	id=9796
+English (Adaptation)	Hare And Hyena Grow Crops	id=20885
+Kiswahili (Translation)	Sungura Na Fisi	id=15610
+Kiswahili (Adaptation)	Sungura Na Fisi	id=18418
+Kiswahili (Translation)	Sungura Na Fisi Wanapanda Mimea	id=21134
+Lunyole (Translation)	Wakayima Ni Namunyu Balima Ebirime	id=21023

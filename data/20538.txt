@@ -1,0 +1,66 @@
+url:	http://africanstorybook.org/reader.php?id=20538&d=0&a=1
+id:	20538
+title:	Labarin Biri Da Kada
+author:	Ali Saje
+artist:	Abraham Muzee
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20538.png
+desc:	Yadda Biri Ya Kwaci kan Sa a Hannun Kada.
+
+page_text:
+
+P1	Biri ya hadu da Kada a bakin tafki.
+P2	Biri ya tambayi Kada a ina ka keda zama? Sai kada ya ce
+P3	shima kada ya tambayi biri "kai kuma a ina kake zaune"?
+P4	“ka iya ninkaya kuwa?” Kada ya tambayi Biri
+P5	Biri ya amsa “ban iya ba”. “To zo in koya maka
+P6	Kada yace“yanzu mun zama abokai” kar ka ji tsoro na.
+P7	Kawu na ba shi da lafiya kuwa, yana bukatar cin nama.
+P8	Biri ya tsorata. Kar Kada ya cinye shi fa?
+P9	Biri ya Sai yi kokarin kubuta daga Kada.
+P10	Sai dabara ta zowa Biri.
+P11	Biri yace, “zan bayar da zuciya ta ka kai ma sa”
+P12	Biri ya ce ”amma zuciyar tawa tana tudu a kan bishiya”.
+P13	Kada yace, “za ka je ka dauko min zuciyar ta ka?” Biri
+P14	Sai Kada ya juya das hi zuwa bakin tafkin. Biri ya ruga
+P15	Kada yace,” dama karya ka ke yi!, kai ba abokina ba ne”
+P16	“Eh, mu ba abokai ba ne, so ka ke ka cinye ni dama” in
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Afaan Oromo (Original)	Qaamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamaalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	Unkawu Nongwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kiswahili (Translation)	Sokwe Na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343

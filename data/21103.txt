@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=21103&d=0&a=1
+id:	21103
+title:	ሕንጉጉ ሕማቓት እዮሞ
+author:	Angish Abay
+artist:	Natalie Propa
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21103.png
+desc:	ሓደ እዋን ድርቂ ነበረ። ኣቦይ ሃፍቱ ምስ ቤተሰቦም ምግቢ ይደልዩ ነበሩ። ሓደ ልሙዕ ደን ይረኽቡ እሞ እቲ በዓልዋና ክበልዑ ፈቐደሎም።እቲ ምግቢ ንኽበልዑ ግን ዓቢይ ፈተና ክሓልፉ ኣለዎም።
+
+page_text:
+
+P1	ድርቂ ነይሩ። ስድራ እንዳ ኣቦይ ሃፍቱ ምንም ምግቢ ኣይነበሮምን።
+P2	ሓደ መዓልቲ ምግቢ ኣለሻ ኣቦይ ሃፍቱ ንበረኻ ሒዘሞም ከዱ።
+P3	ብዓል ዋና ዘይብሉ ተኽልታት በናና ረኸቡ።
+P4	ሃንደበት ሓደ ዓቢይ ሕንጉጉ መፀ። 
+ኣብቲ ጫካ ክፀንሑ ኣዘዞም።
+P5	ሓደ መዓልቲ “ወድኹም ኣብሲልኩም ኣቕርቡለይ”  በሎም።
+P6	ምሸት ድማ እቲ ሕንጉጉ “ፅባሕ ድማ ጓልኩም ኣብሲልኩም ሃቡኒ”   በሎም።
+P7	እቶም ቤተሰብ ጓሎም ኣብ ኦም ሓቢኦማ።
+P8	እቲ ሕንጉጉ “ፅባሕ ናይ ግድን ሰብኣይኪ ኣብሲልኪ ኣቕርብለይ” በላ።
+P9	ሓደ ምሸት ፣ እቲ ሕንጉጉ ነታ ሰበይቲ ፣ በሊ ንባዕልኺ ብሰሊ በላ።
+P10	ሕንጉጉ  ምስ ፀገበ፣ ኣብ ትሕቲ ኦም ደቂሱ ምሕርናኽ ጀመረ።
+P11	እቲ ሕንጉጉ ኩሎም ብሂወት ምህላዎም ምስ ፈለጠ ብጣዕሚ ሓረቐ።
+P12	ኣዐሽየሞ ድማ ኩሎም ካብ ተሓብኡሉ ኦም ወረዱ።
+
+images:
+
+illustrations/pages/8114.png
+illustrations/pages/8111.png
+illustrations/pages/8112.png
+illustrations/pages/8113.png
+illustrations/pages/8114.png
+illustrations/pages/8115.png
+illustrations/pages/8116.png
+illustrations/pages/8117.png
+illustrations/pages/8118.png
+illustrations/pages/8119.png
+illustrations/pages/8120.png
+illustrations/pages/8121.png
+illustrations/pages/8122.png
+
+translations:
+
+Amharic (Translation)	ጭራቆች ደደቦች ናቸው	id=21182
+English (Translation)	Mulongo and the Ogre	id=9127
+English (Adaptation)	Ogres Are Stupid	id=20886
+French (Translation)	Mulongo Et L'ogre	id=10699
+Kiswahili (Translation)	Majitu Ni Wajinga	id=21138
+Luganda (Translation)	Bawazzike Ba Siiru	id=21060
+Lumasaaba (Original)	Mulongo Ni Wanasilikhe	id=9126
+Lumasaaba (Adaptation)	Mulongo Ni Wanasilikhe (Revised)	id=10521
+Ng’aturkana (Translation)	Ebang’Aka Ng’Ibuin	id=21132

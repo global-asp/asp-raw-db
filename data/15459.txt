@@ -1,6 +1,6 @@
 url:	http://africanstorybook.org/reader.php?id=15459&d=0&a=1
 id:	15459
-title:	Little Ant’S Big Plan
+title:	Little Ant's Big Plan
 author:	Candice Dingwall
 artist:	Steven McKimmie
 lang:	English
@@ -44,3 +44,5 @@ illustrations/pages/15458.png
 
 translations:
 
+isiXhosa (Translation)	Amalungiselelo Amakhulu Embovane Encinane	id=21425
+Lusoga (Translation)	Ntegeka Eya Kasimizi  Mbbedde	id=20218

@@ -1,0 +1,33 @@
+url:	http://africanstorybook.org/reader.php?id=21324&d=0&a=1
+id:	21324
+title:	Oyuyut
+author:	Maurice Lamony
+artist:	Wiehan de Jager and Catherine Groenewald
+lang:	Acholi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21324.png
+desc:	Matome ono yutu jami pa dano kii gaa. Nino moo cinge omok i gicaa pa Mmamontsho. Luwot cwiny gi cwer matek pyen jami gi oryweny ki i gaa kenyo. Ki lwongo ogwok kuc i gaa gu bino gu mako Matome woko.
+
+page_text:
+
+P1	Kare moo kenyo, ono tye oyuyut moo ma kilwongo ni Matome.
+P2	Matome otemo kwalo pac pa Mmamontsho. Cinge omoko i gicaa.
+P3	Matome olego Mmamontsho ni okonye otel cinge woko.
+P4	Luwot gu kejo matek ma gu neno ngo matye ka time. GU lwongo lagwok kuc me gar.
+P5	Lagwok kuc i gaa obino. Mmamontsho ogudu cing matome wek okat ki i gicar ne.
+P6	Ki tweyo Matome 'o i bwuc pi yutu jami.
+
+images:
+
+illustrations/pages/6905.png
+illustrations/pages/6905.png
+illustrations/pages/6783.png
+illustrations/pages/6905.png
+illustrations/pages/6829.png
+illustrations/pages/6901.png
+illustrations/pages/6905.png
+
+translations:
+
+English (Original)	Pickpocketer	id=7884

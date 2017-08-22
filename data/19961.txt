@@ -1,7 +1,7 @@
 url:	http://africanstorybook.org/reader.php?id=19961&d=0&a=1
 id:	19961
-title:	Lifudu nitye gi cal abiryo
-author:	Joseph Alfred Owino Ogot and Owino Ogot
+title:	Lifudu Nitye Gi Cal Abiryo
+author:	Owino Ogot
 artist:	Jesse Breytenbach
 lang:	Dhopadhola
 level:	First words
@@ -11,6 +11,22 @@ desc:	Me kigana ma cako fonjirok kwoŋ kwan gi cal.
 
 page_text:
 
+P1	Lifudu nitye gi cal abiryo.
+P2	Mar apena obedo ma obokere.
+P3	Opio oruko sati ma obokere.
+P4	Mar aryo obedo ma nya micungwa.
+P5	Aŋo ma nyamicungwa i cal me?
+P6	Mar adek obedo ma nyatongweno.
+P7	Aŋo ma nyatongweno i cal me?
+P8	Mar aŋwen obedo ma nyabokependi.
+P9	Aŋo ma nyabokependi i cal me?
+P10	Mar abic obedo ma nyapolopolo.
+P11	Aŋo ma nyapolopolo i cal me?
+P12	Mar aucel obedo ma nyabululu.
+P13	Aŋo ma nyabululu i cal me?
+P14	Mar abiryo obedo ma nyako.
+P15	Nyako obedo cal ma ber loyo. I maro cal mene?
+P16	A kwan raye cal abiryo ma lifudu nitye gine.
 
 images:
 
@@ -18,12 +34,21 @@ illustrations/pages/9838.png
 
 translations:
 
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Amharic (Translation)	7 የቀስተደመና ቀለማት 	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+Chinyanja (Translation)	Mautoto Asanu Ndi Awiri Autawaleza	id=20881
 English (Translation)	Colours of a Rainbow	id=10463
-English (Adaptation)	7 Colours of a Rainbow	id=19760
+English (Adaptation)	7 Colours Of A Rainbow	id=19760
+Hausa (Nigeria) (Translation)	Launika Bakwai Na Bakan Gizo	id=20798
 isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+isiZulu (Translation)	Imibala Eyisikhombisa Yothingo  Lwenkosazana	id=20679
 Kikamba (Translation)	Utathi	id=15419
 Kiswahili (Original)	Rangi Za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
 Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke Ali Na Langi 7	id=20396
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
 Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
 Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
-siSwati (Translation)	Imibala Yemushi Wenkhosatane	id=13066
+Siswati (Translation)	Imibala Yemushi Wenkhosatane	id=13066

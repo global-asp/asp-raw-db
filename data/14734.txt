@@ -15,8 +15,8 @@ P1	My friend Kiki and I love to go exploring. We know our neighbourhood well. Ev
 P2	When walking home we often cut across the big field near the old railway. Even though Kiki's father has warned us not to go there. On that day,  we noticed a tall man in a black coat was walking behind us. But at first we didn't worry.
 P3	We slowed down to look at the man. His skin was full of pimples. His lips were too small to cover his dark brown teeth. He had a deep scar across half his face. This man was following us!
 P4	We decided to stop and face the stranger. My heart beat so loudly that I thought he could hear it. I stared at him,  paying attention to his features and clothes. He did not like the fact that I was looking at him so keenly. He shouted,  "What are you looking at,  boy?"
-P5	The tall man picked me up like a piece of paper and threw me into a van parked nearby. Then he got in the front of the van. Another man who was inside the van blindfolded me and tied my hands behind my back. Then the driver drove away at the speed of an ambulance.
-P6	At that point,  we turned and ran! My friend Kiki escaped I was not fast enough. He caught me by my shirt and pulled me back roughly. The man held me so tight that I thought my ribs would crack.
+P5	At that point, we turned and ran! My friend Kiki escaped I was not fast enough. He caught me by my shirt and pulled me back roughly. The man held me so tight that I thought my ribs would crack.
+P6	The tall man picked me up like a piece of paper and threw me into a van parked nearby. Then he got in the front of the van. Another man who was inside the van blindfolded me and tied my hands behind my back. Then the driver drove away at the speed of an ambulance.
 P7	In the back of the van,  the man next to me held a wet rag over my face. The rag smelled sweet,  and made me feel very sleepy.  When I woke up I found myself sitting on the floor in a dark room with cobwebs and mice. At least I was no longer blindfolded.
 P8	The door of the dark room opened noisily,  and a man entered carrying a plate. He was the man who tied me up and put me to sleep. "Here is food for you. You better eat because you are going on a long journey," the man mumbled. He untied my hands.
 P9	When I heard the word 'journey' I decided to eat. I would need to get the strength to rescue myself. As I ate,  the man sat down and smoked a cigarette. The smoke filled the entire room.
@@ -59,14 +59,18 @@ illustrations/pages/14754.png
 translations:
 
 Dhopadhola (Translation)	Okwal Nyithindho	id=15761
+English (Adaptation)	Unlucky Day!	id=20892
 French (Translation)	Kidnappés !	id=14963
 Gikuyu (Translation)	Kidnapped	id=16201
 isiXhosa (Translation)	Bathinjiwe!	id=14880
 isiZulu (Translation)	Bathunjiwe!	id=14807
 Kiswahili (Translation)	Kutekwa Nyara!	id=15934
+Kiswahili (Translation)	Siku Ya Bahati  Mbaya!	id=21143
 Ng’aturkana (Translation)	Abunaro	id=16115
+Ng’aturkana (Translation)	Ekeny Loaronon!	id=21125
 Portuguese (Translation)	Raptados!	id=16716
 Sesotho (S.Africa) (Translation)	Kwetetswe!	id=14878
 Setswana (Translation)	Go Gapiwa Ka Dikgoka!	id=14883
+Tigrigna (Translation)	ቅርስስቲ መዓልቲ	id=21197
 Tshivenda (Translation)	U Dzhiiwa Nga Khani	id=14879
 Xitsonga (Translation)	Ku Tlhakisiwa!	id=14881

@@ -21,9 +21,10 @@ P7	Ils attrapent une grosse pierre et essayent de faire un trou dans la citrouil
 P8	"Non!" crie la citrouille. Les bergers font un bond en arrière. La citrouille commence à s'ouvrir.
 P9	Une sorcière sort de la citrouille. Elle a un bras,  un œil et une jambe. Elle est effrayante. "Ne me dérangez pas" dit la sorcière avec une grosse voix,  "je suis la maîtresse de la citrouille." La citrouille se referme.
 P10	Les bergers ont eu très peur. Ils courent chez eux pour raconter tout à leurs parents. "Oh! Nous avons de la chance!" disent les parents. "Vous ne connaissez pas la sorcière de la citrouille?" demandent les parents des bergers. "Vous devez la laisser tranquille."
-P11	Et quand l'été arriva,  la citrouille de M'dame Maneo a éclaté pour s'ouvrir. Elle était pleine de beaucoup,  beaucoup de graines.
-P12	La sorcière sortit de la citrouille. Avec son unique jambe,  elle se hissa hors de la citrouille. Avec son unique œil,  elle regarda tous les villages. Avec son unique bras elle jeta toutes les graines dans la vallée.
-P13	Les graines sont devenues de belles et grosses citrouilles dans tous les jardins de la vallée. Cet hiver- là tous les villagois ont mangé beaucoup de citrouilles. Les villageois sont allés chez M'dame Maneo. Ils ont crié "Merci " M'dame Maneo.
+P11	"L'été prochain la citrouille s'ouvrira à nouveau et la sorcière dispersera des graines de citrouille dans tous les villages. Nous aurons beaucoup,  beaucoup de citrouilles à manger," disent les parents des bergers.
+P12	Et quand l'été arriva,  la citrouille de M'dame Maneo a éclaté pour s'ouvrir. Elle était pleine de beaucoup,  beaucoup de graines.
+P13	La sorcière sortit de la citrouille. Avec son unique jambe,  elle se hissa hors de la citrouille. Avec son unique œil,  elle regarda tous les villages. Avec son unique bras elle jeta toutes les graines dans la vallée.
+P14	Les graines sont devenues de belles et grosses citrouilles dans tous les jardins de la vallée. Cet hiver- là tous les villagois ont mangé beaucoup de citrouilles. Les villageois sont allés chez M'dame Maneo. Ils ont crié "Merci " M'dame Maneo.
 
 images:
 
@@ -45,5 +46,6 @@ illustrations/pages/10670.png
 translations:
 
 English (Translation)	'm'e Maneo's Pumpkin	id=10674
+Kumam (Translation)	Esuju Ameo	id=20956
 Portuguese (Translation)	A Abóbora Do 'm'e Maneo	id=17095
 Sesotho (Lesotho) (Original)	Mokopu Oa 'm'e Maneo	id=10671

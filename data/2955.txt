@@ -11,13 +11,13 @@ desc:	This story is about the different sorts of books my family reads.
 
 page_text:
 
-P1	Muganda wange ali kusoma ekitabo ky'eisomero.
-P2	Mama wange ali kusoma Baibuli.
+P1	Muganda wange ali kusoma ekitabo kye eisomero.
+P2	Mama wange ali kusoma Bbaibbuli.
 P3	Mwaninhaze ali kusoma ekitabo ekyebyokufumba.
-P4	Baaba wange omuto ali kusoma mawulire.
-P5	Daadha ali kusoma katabo ka mawulire.
+P4	Bbaabba wange omuto ali kusoma mawulire.
+P5	Daadha ali kusoma katabo ka makobo.
 P6	Mwaninhaze omuto ali kusoma katabo ka bifaanani.
-P7	Ndi kusoma kitabo kino.
+P7	Ndi kusoma kitabo ki kino?
 P8	Ndi kumpi kusobola kusoma buli kintu!
 
 images:

@@ -2,12 +2,12 @@ url:	http://africanstorybook.org/reader.php?id=6168&d=0&a=1
 id:	6168
 title:	Sane In the Market
 author:	Alice Kapolondo
-artist:	Cathy Feek, Wiehan de Jager, Catherine Groenewald, Felicity Bell and Melany Pietersen
+artist:	Wiehan de Jager, Melany Pietersen, Felicity Bell, Cathy Feek and Catherine Groenewald
 lang:	English
 level:	First words
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/6168.png
-desc:	This a boy who went to the market for the first time
+desc:	This a boy who went to the market for the first time.
 
 page_text:
 
@@ -18,7 +18,7 @@ P4	Sane in the bus.
 P5	Sane at the market.
 P6	Ooh! Many fruits.
 P7	Sweet apples.
-P8	But where is mother mother?
+P8	But where is mother?
 P9	I went to buy a birthday present for you.
 P10	Thank you mum!
 

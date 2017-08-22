@@ -1,0 +1,26 @@
+url:	http://africanstorybook.org/reader.php?id=20561&d=0&a=1
+id:	20561
+title:	Inzu Yanjye
+author:	Janviere Micomyiza
+artist:	Wiehan de Jager, Jennifer Jacobs and Amy Uzzell
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/20561.png
+desc:	Iyi ni inzu yanjye ntuyemo
+
+page_text:
+
+P1	Ntuye mu nzu yo mu mudugudu.
+P2	Imbere mu nzu harimo injangwe.
+P3	Uyu ni umudugudu wanjye.
+
+images:
+
+illustrations/pages/2135.png
+illustrations/pages/6604.png
+illustrations/pages/8835.png
+illustrations/pages/19837.png
+
+translations:
+

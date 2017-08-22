@@ -20,10 +20,12 @@ P6	Die seun het weer begin huil. "Hee. Hee. Hee! Julle het baie moeilikheid vir 
 P7	Die bouers het aan die seun 'n bondel gras gegee vir 'n grasdak. Die seun het die bondel gras gevat en verder aangestap.
 P8	Vêrder aan op sy pad het die seun 'n beeswagter ontmoet wat vir sy bondel gras gevra het. Die beeswagter het die bondel gras aan sy koei gegee en sy het alles op geëet.
 P9	Die seun huil,  "E.E.E! Jy het baie moeilikheid vir my veroorsaak! Dit was nie my gras nie. Dit het aan die bouers behoort. Die bouers het nie die gras sonder rede vir my gegee nie. Hulle het my stok gebreek. Die stok was ook nie myne nie. Dit het aan die bessie versamelaars behoort. Hulle het dit ook nie sonder rede vir my gegee nie."
-P10	Die beeswagter het toe sy koei vir die seun gegee. Die seun het die koei gevat en verder aan gestap.
-P11	Oppad terug huis toe het die seun op 'n troue afgekom. Die bruid se familie het vir die seun gevra of hulle sy koei kan kry. Die seun het toe die koei vir hulle gegee. Hulle het die koei geslag en heeltemal opgeëet.
-P12	Die seun weer begin huil,  "Ei. Ei. Ei! Julle het baie moeilikheid vir my veroorsaak. Die koei was nie myne nie. Dit het aan 'n beeswagter behoort en hy het dit nie sonder rede vir my gegee nie. Hy het die koei vir my gegee omdat sy koei my hele bondel gras opgeëet het. Die bondel gras was nie myne nie,  maar het aan bouers behoort."
-P13	En dit is waar die gesegde vandaan kom: "What comes around goes around."
+P10	Hulle het dit vir my gegee omdat hulle die eier gebreek het. Die eier was ook nie my eier nie. Die eier het aan my ouma behoort. Ouma het die eier vir my gegee vir bruidskat.
+P11	Die beeswagter het toe sy koei vir die seun gegee. Die seun het die koei gevat en verder aan gestap.
+P12	Oppad terug huis toe het die seun op 'n troue afgekom. Die bruid se familie het vir die seun gevra of hulle sy koei kan kry. Die seun het toe die koei vir hulle gegee. Hulle het die koei geslag en heeltemal opgeëet.
+P13	Die seun weer begin huil,  "Ei. Ei. Ei! Julle het baie moeilikheid vir my veroorsaak. Die koei was nie myne nie. Dit het aan 'n beeswagter behoort en hy het dit nie sonder rede vir my gegee nie. Hy het die koei vir my gegee omdat sy koei my hele bondel gras opgeëet het. Die bondel gras was nie myne nie,  maar het aan bouers behoort."
+P14	Hulle het nie die bondel gras sonder rede vir my gegee nie. Hulle het my stok gebreek. Die stok was nie myne nie. Die bruid se familie het toe vir die seun gesê: "Ons het niks oor om jou mee te betaal nie,  maar laat ons die bruid vir jou gee."
+P15	En dit is waar die gesegde vandaan kom: "What comes around goes around."
 
 images:
 
@@ -44,12 +46,19 @@ illustrations/pages/6741.png
 
 translations:
 
-English (Translation)	An Egg for Bride Wealth	id=6790
+Amharic (Translation)	ጥሎሽ	id=21119
+English (Translation)	An Egg For Bride Wealth	id=6790
+English (Adaptation)	Bride Wealth	id=20879
 French (Translation)	Un Œuf Pour Le Prix De La Fiancée	id=10138
+Hausa (Nigeria) (Translation)	Kyautar Da Ta Zamo Silar Arziki	id=21117
+Kiswahili (Translation)	Mahari	id=21126
 Lámnsoʼ (Translation)	Wúm Ye Dzəə̀n Juu	id=15068
 Lusoga (Original)	Igi Lya Mwandu	id=6744
+Ng’aturkana (Translation)	Abeye Na Eutare	id=21120
 Portuguese (Translation)	Um Ovo Para Conseguir Uma Noiva	id=15802
+Runyankore (Translation)	Eihuri Aha Bwenjugano	id=20804
 Sepedi (Translation)	Lee La Magadi	id=10919
 Sepedi (Translation)	Lee La Magadi	id=11497
 Sepedi (Translation)	Lee La Magadi	id=11501
 Sepedi (Translation)	Lee La Magadi	id=11502
+Tigrigna (Translation)	ገዝሚ	id=21108
