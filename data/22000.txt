@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=22000&d=0&a=1
+id:	22000
+title:	Anansi mlafi
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22000.png
+desc:	Anansi mlafi anajaribu kuwadanganya marafiki zake ili wampatia kiasi kikubwa cha makuyu. Marafiki wanagundua.
+
+page_text:
+
+P1	Anansi aliwakuta kunguru wakila makuyu. 
+
+Yeye pia alitaka makuyu.
+P2	Kunguru walimpatia Anansi makuyu.
+P3	Kunguru walimwambia, "Sasa njoo uchume makuyu nasi."
+P4	Walienda kuchuma makuyu pamoja. 
+
+Lakini Anansi alichukua makuyu yote.
+P5	Anansi aliruka. 
+
+Alianguka ndani ya mto uliojaa mamba.
+P6	Anansi alisema, "Mimi ni mmoja wa jamaa zenu."
+
+Hakuliwa.
+P7	Anansi alijifanya kuwa anakunywa maji chafu kama mamba.
+P8	Mamba walimwamini Anansi. 
+
+Walimualika kukaa nao.
+P9	Anansi alisema, "Nitakaa, lakini, hebu kwanza niilete famalia yangu."
+P10	Mamba alimbeba Anansi hadi ukingo wa mto.
+P11	Anansi alitoroka. 
+
+Mamba bado anamsubiri hadi leo.
+
+images:
+
+illustrations/pages/946.png
+illustrations/pages/2078.png
+illustrations/pages/947.png
+illustrations/pages/1996.png
+illustrations/pages/2077.png
+illustrations/pages/949.png
+illustrations/pages/952.png
+illustrations/pages/951.png
+illustrations/pages/2079.png
+illustrations/pages/948.png
+illustrations/pages/953.png
+illustrations/pages/1995.png
+
+translations:
+
+English (Original)	Anansi, the Crows, and the Crocodiles	id=1946
+English (Adaptation)	Greedy Anansi	id=21309
+Kiswahili (Translation)	Anansi, Kunguru na Mamba	id=2305
+Luganda (Translation)	Anansi, Enkwale Ne Waggoonya	id=2302
+Lugbarati (Translation)	Ebio Pi, Gaagaa Pie Azini Eyio Pie	id=2306
+Lugbarati (Official) (Translation)	Èbǐo Pǐ, Gǎagǎa Pɨe Àzɨnɨ Éyío Pɨe	id=8794
+Lumasaaba (Translation)	Wanaasi, Bakikhoolo Ni Tsikweena	id=3011
+Lunyole (Translation)	Haŋambi, Nahinywamalwa Ni Wagoona	id=2307
+Maa (Translation)	Anansi, Ilkúrruki Ó Ilkinosîn	id=2734
+Ng’aturkana (Translation)	Anansi, Ng'ikuruka Ka, Ng'akinyang'a	id=2303
+Oluwanga (Translation)	Anansi, Amakhokho Nende Tsikwena	id=2304

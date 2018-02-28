@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=21526&d=0&a=1
+id:	21526
+title:	Ingabe Ukhona Ofana Nami?
+author:	Bangula Lingo Centre cc
+artist:	Jess Jardim-Wedepohl
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21526.png
+desc:	Angazi bonyana ukhona omunye ofana nami.
+
+page_text:
+
+P1	Angazi bonyana ukhona omunye ofana nami ephasinapha.
+P2	Ofana nami patsi.
+P3	Nokhuluma njengami nje.
+P4	Nonomdlwenge ofana newami nje.
+P5	Umuntu onamehlo kanye neendlebe ezifana nezami.
+P6	Nohleka njengami.
+P7	Owenza ngendlela engenza ngayo …
+P8	… nongekhe enze engikwazi ukukwenza.
+P9	Ngiqale koke nje ngifuna ofana nami.
+
+Ngakhamba ngaya ephageni ngaqala nangaphasi kwemithi.
+P10	Ngaqala ngazomba, ngaya phasi naphezulu…
+P11	… ngaqala ubuso boke.
+P12	Azange ngithole ofana nami nakancani.
+P13	Kukhona ofana nami ephasini! 
+
+Ngikhethekile, iye kuliqiniso!
+P14	Kodwana akusimi ngedwa uyayibona indaba leyo? 
+
+Nawe nguwe wedwa, ufana uwedwa!
+
+images:
+
+illustrations/pages/15344.png
+illustrations/pages/15343.png
+illustrations/pages/15344.png
+illustrations/pages/15345.png
+illustrations/pages/15346.png
+illustrations/pages/15347.png
+illustrations/pages/15348.png
+illustrations/pages/15349.png
+illustrations/pages/15361.png
+illustrations/pages/15352.png
+illustrations/pages/15355.png
+illustrations/pages/15356.png
+illustrations/pages/15358.png
+illustrations/pages/15359.png
+illustrations/pages/15360.png
+
+translations:
+
+Afrikaans (Translation)	Is Daar Nog Iemand Soos Ek?	id=21468
+Dholuo (Translation)	Be Nitie Ng'at Machal Koda?	id=15406
+English (Original)	Is There Anyone Like Me?	id=15363
+isiXhosa (Translation)	Ingaba Ukhona Omnye Ofana Nam?	id=19900
+isiZulu (Translation)	Ngabe Ukhona Yini Ofana Nami?	id=21407
+Sepedi (Translation)	Go Na Le Ya Go Swana Le Nna?	id=21527
+Sesotho (South Africa) (Translation)	Na Ho Na Le Ya Tshwanang Le Nna?	id=21644
+Setswana (Translation)	A Go Na Le Yo O Tshwanang Le Nna?	id=21528
+Siswati (Translation)	Ukhona Yini Lofanana Nami?	id=21529
+Tshivenda (Translation)	Naa Hu Na Muṅwe Ane A Nga Nṋe?	id=21530
+Xitsonga (Translation)	Xana Ku Na Un'wana Wo Fana Na Mina?	id=21531

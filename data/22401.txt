@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=22401&d=0&a=1
+id:	22401
+title:	ውሣኔ
+author:	Mezemir Girma
+artist:	Vusi Malindi
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22401.png
+desc:	በአንዲት መንደር የሚኖር አንድ ማህበረሰብ ሕይወቱን የሚቀይር ውሣኔ ያሳልፋል፡፡ እስኪ ስለዚህ ውሣኔያቸው አብረን እናንብብ፡፡
+
+page_text:
+
+P1	መንደሬ ብዙ ችግር ነበረባት። ውሃ ከቦኖ ለመቅዳት ረጅም ሰልፍ እንሰለፍ ነበር።
+P2	በሌሎች ሰዎች የሚሰጠንን ምግብ እንጠብቅ ነበር።
+P3	ሌባ ፍራቻ ቤቶቻችንን በጊዜ እንዘጋ ነበር።
+P4	ብዙ ልጆች ትምህርታቸውን ያቋርጡ ነበር።
+P5	ወጣት ሴቶች በሌሎች መንደሮች ውስጥ በሰራተኝነት ያገለግሉ ነበር።
+P6	ግማሾቹ ወንዶች ልጆች በየሰፈሩ እየዞሩ ሲውሉ፤ ሌሎቹ ደግሞ በሰው ማሳ ላይ ያገለግሉ ነበር።
+P7	ነፋስ በነፈሰ ቁጥር ቆሻሻ ወረቀት በየአጥሩና በየዛፉ ላይ ይንጠለጠል ነበር።
+P8	ሰዎችን በጥንቃቄ ጉድለት የተጣለ ብርጭቆ ይቆርጣቸው ነበር።
+P9	አንድ ቀን ውሃው ቆመና የውሃ መያዣዎቻችን ባዶ ቀሩ።
+P10	አባቴ ሰዎች በመንደር ስብሰባ ላይ እንዲገኙ ለመቀስቀስ ከቤት ቤት ዞረ።
+P11	ሰዎች ከአንድ ትልቅ ዛፍ ስር ተቀምጠው ያዳምጡ ጀመር።
+P12	አባቴ ተነስቶ ‹‹እነዚህን ችግሮቻችንን ለመፍታት በጋራ መስራት ይኖርብናል›› አለ።
+P13	ግንድ ላይ የተቀመጠው የስምንት ዓመቱ ዓመቱ ጁማ ‹‹እኔ በማጽዳት እራዳለሁ›› ሲል ተናገረ።
+P14	አንዲት ሴትዮም ‹‹ሴቶቹ ከኔ ጋር ዝሪት ላይ መሰማራት ይችላሉ›› አሉ።
+P15	ሌላ ሰውዬ ተነሳና ‹‹እኛ ወንዶቹ ጉድጓድ መቆፈር እንችላለን›› አለ።
+P16	ሁላችንም በአንድ ድምጽ ‹‹ህይወታችንን መቀየር ይኖርብናል›› በማለት ጮህን። ከዚያች ቀን ጀምረን ችግሮቻችንን ለመፍታት አብረን እንሰራ ጀመር።
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/10609.png
+illustrations/pages/10616.png
+illustrations/pages/10614.png
+illustrations/pages/10611.png
+illustrations/pages/10613.png
+illustrations/pages/10615.png
+illustrations/pages/10617.png
+illustrations/pages/10612.png
+illustrations/pages/10610.png
+illustrations/pages/10618.png
+illustrations/pages/10619.png
+illustrations/pages/10620.png
+illustrations/pages/10621.png
+illustrations/pages/10623.png
+illustrations/pages/10624.png
+illustrations/pages/10625.png
+
+translations:
+
+Arabic (Translation)	القرار	id=21813
+English (Translation)	Decision	id=13304
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344
+Ng’aturkana (Translation)	Atiakun Akiroit	id=20496

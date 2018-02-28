@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=22205&d=0&a=1
+id:	22205
+title:	Rwendo rwa Neymar kuAfrica
+author:	Lilian Chaminuka
+artist:	Benard Agasi
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22205.png
+desc:	Mufananidzo wekuuya kwemutambi wenhabvu anonzi Neymar da Silva Santos kunyika dzemuAfrica kuzoratidza unyanzvi hwekutambwa kwenhabvu.
+
+page_text:
+
+P1	Neymar paakauya mu Africa akasvikira muguta guru reNigeria. Vanhu veku Nigeria vakamukumbira kuti avaratidze unyanzvi hwekusvitsana bhora vachishandisa divi retsoka.
+P2	Achibva kuNigeria, Neymar akaenda kuGhana kunovaratidza hunyanzvi hwekusvitsana bhora vachishandisa mukati metsoka. Izvi zvakafadza vanhu veku Ghana zvikuru.
+P3	Ari munyika yeGhana, Neymar akabva akokwazve kunyika ye South Africa kunovaratidza hunyanzvi hwekumisa bhora nemberi kwetsoka.
+P4	Achibva ku South Africa, akaenda kuChad. Ku Chad Neymar akaratidza vanhu hunyanzvi hwekubata bhora nedivi retsoka.
+P5	Neymar paakasvika ku DR Congo, akandengendetsa nyika nehunyanzvi hwekumisa bhora nechidya.
+P6	Veku Uganda vakaona Neymar ku Congo vakabva vamusheedzawo kuti azoratidza hunyanzvi hwekunzvenga nekutora bhora.
+P7	Nhau idzi dzakatekeshera mudunhu re East Africa. Vanhu veku Kenya vakakumbira Neymar kuzovaratidza hunyanzvi hwekudzorera bhora nemaoko kubva kumubati webhora.
+P8	Muvhiki imwechete iyoyo, vanhu vekuTanzania vakadaidza Neymar kuti azoratidza hunyanzvi hwekusvitsana bhora nemusoro.
+P9	Achibva kuTanzania, akaenda ku Rwanda kunovaratidza kuti bhora rinosvitswa sei nepamusoro petsoka.
+P10	Abva kuRwanda, Neymar akapedzisa rwendo rwake rwemuAfrica nekuenda ku South Sudan uko akanovaratidza hunyanzvi hwekukanda bhora pasi obva arikava nemakumbo.
+
+images:
+
+illustrations/pages/9006.png
+illustrations/pages/9006.png
+illustrations/pages/9007.png
+illustrations/pages/9008.png
+illustrations/pages/9009.png
+illustrations/pages/9010.png
+illustrations/pages/9011.png
+illustrations/pages/9012.png
+illustrations/pages/9013.png
+illustrations/pages/9014.png
+illustrations/pages/9015.png
+
+translations:
+
+Afrikaans (Translation)	Neymar Se Besoek Aan Afrika	id=11548
+English (Translation)	Neymar's Visit to Africa	id=9037
+French (Translation)	La Visite De Neyman en Afrique	id=12675
+Lugbarati (Original)	Neymar Ma Emu Taa Afrika Ri	id=9029
+Portuguese (Translation)	A Visita Do Neymar a África	id=17620
+Rutooro (Translation)	Orubungo Rwa Neyma Mu Afirika	id=14937
+Tshivenda (Translation)	Neymar's U Dalela Africa	id=9981

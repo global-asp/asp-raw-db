@@ -1,0 +1,32 @@
+url:	http://africanstorybook.org/reader.php?id=22070&d=0&a=1
+id:	22070
+title:	Labarin Wata Giwa
+author:	Muhammad Tukur Bala
+artist:	Brian Wambi, Rob Owen and Catherine Groenewald
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22070.png
+desc:	Wannan labarin wata Giwa ce dake wani daji wai shi Kibale
+
+page_text:
+
+P1	Ga Giwa! Ga Giwa!
+P2	Wannan Giwar ita kadai ce a cikin dajin nan.
+P3	Wannan dajin sunan shi Kibale.
+P4	Giwar ta je shan ruwa a rafi.
+P5	Yara na wanka a rafin.
+P6	Yara sun ruga suna cewa, "Ga giwa! Ga giwa."
+
+images:
+
+illustrations/pages/16542.png
+illustrations/pages/9652.png
+illustrations/pages/9652.png
+illustrations/pages/16539.png
+illustrations/pages/9652.png
+illustrations/pages/9848.png
+illustrations/pages/25197.png
+
+translations:
+

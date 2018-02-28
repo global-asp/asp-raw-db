@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=22007&d=0&a=1
+id:	22007
+title:	Igikeri n'Inzoka
+author:	Epimaque Niyibizi
+artist:	Rob Owen
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22007.png
+desc:	Muri iyi nkuru
+
+page_text:
+
+P1	Kera igikeri n'inzoka byari inshuti magara. Byari bituranye kandi abana babyo bakiniraga hamwe.
+P2	Umunsi umwe, igikeri kibwira inzoka kiti: «Nshuti yanjye, ndashaka kujya gusura mama mu cyumweru gitaha. Mbese uzamperekeza?»
+P3	Inzoka irakibwira iti: "Byanshimisha cyane tujyanye". Igikeri kirayisubiza kiti: «Ni byiza cyane. Noneho reka twitegure urugendo rurerure.» Igikeri cyungamo kiti: «Tugomba kandi gushaka uzasigara aturebera abana mu gihe tuzaba tudahari.»
+P4	Zisaba inkende ngo izifashe kuko yagiraga imico myiza kandi ikamenya kwita ku byo ishinzwe. Inkende irabyemera.
+P5	Mu minsi mike yakurikiyeho, izi nshuti magara uko ari ebyiri zari zihuze cyane, zirimo gushyashyana zitegura urugendo. Igikeri gifata umuswa kiwushyira mu mufuka munini. Nyina yakundaga kurya umuswa cyane.
+P6	Umunsi uragera, maze izi nshuti zihaguruka mu rukerera zitangira urugendo. Ziza kugera mu ishyamba ry'inzitane. Zikimara kwinjiramo, inkima zariye karungu zirakorana kugira ngo zirwane nazo.
+P7	Inzoka yari yagize ubwoba ku buryo yahindaga umushyitsi. Yakomezaga gukubita akavugirizo, ariko inkima z'amahane menshi zikomeza gusatira.
+P8	Mu gihe inkima zari zigiye kuzisingira, igikeri gihita kigonga cyane. Inkima zahita zigira ubwoba maze zirahunga.
+P9	Izi nshuti uko ari ebyiri zageze kwa nyina wa Gikeri zishonje kandi zinaniwe. Nyina wa Gikeri aziha umusambi ngo zicareho, mu gihe agitegura amafunguro.
+P10	Ibiryo bimaze gushya, igikeri n'inzoka birakaraba maze biricara ngo birye.
+P11	Mbere y'uko bitangira kurya, igikeri kiravuga kiti: "Wowe Nzoka, ntabwo warya uryamye hasi. Byaba ari imico mibi rwose. Gerageza wicare neza, naho ubundi mama yakumva ko wamusuzuguye."
+P12	Inzoka igerageza kwicara nk'igikeri biyigoye cyane, ariko biranga birayinanira.
+P13	Ubwo igikeri na nyina byo byari byatangiye kurya.
+P14	Inzoka itakambira igikeri igira iti: "Rwose sinshobora kwicara neza pe!" Nyamara igikeri cyo nticyayumvaga.
+P15	Inzoka umujinya urayica maze ifata ikemezo cyo gusubira imuhira. Ifata inzira igenda idasezeye ku bikeri.
+P16	Mu gihe yari igeze mu nzira isubira imuhira, icura umugambi wo guha igikeri isomo kitazibagirwa!
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog And Snake	id=19762
+isiZulu (Translation)	UXoxo noNyoka	id=20718
+Kinyarwanda (Translation)	Inzoka N' Igikeri	id=20763
+Kiswahili (Translation)	Chura na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere Ni Wamusota	id=20398
+Lusoga (Translation)	Akalenga N’Omusta	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Setswana (Translation)	Segwagwa Le Noga	id=21160

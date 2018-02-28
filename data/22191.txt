@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=22191&d=0&a=1
+id:	22191
+title:	Drum
+author:	Owino Ogot
+artist:	Salim Kasamba
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22191.png
+desc:	A story about the uses of drums in Uganda among Jopadhola people. It mentions playing technique
+
+page_text:
+
+P1	The drum has always been an important musical instrument in our community. We love drums!
+
+We have drums of different sizes: big, medium-sized and small.
+P2	We play drums using beaters, or with our fingers. 
+
+We play drums for various reasons. We play drums with songs and dances, for feasts and in bad times.
+P3	Drums enrich songs and make people want to dance. Drums make ceremonies colourful.
+
+We play drums during ceremonies for marriage and child naming. We play drums when celebrating a new harvest or a twin birth.
+P4	We sound drums to announce grief and call people when death occurs.
+P5	We sound drums to call people to clean wells, clear roads, or to build a hut for a needy old person. 
+
+We sound drums to call people when cattle are stolen in our village.
+P6	We sound drums to gather people for meetings at our chief's palace.
+P7	Drums call people to go to church for prayers on Sundays, and other prayer days. 
+
+We also play drums to enrich songs when singing in churches.
+P8	The big drum sounds, "An a bul mba, an a bul mba, an a bul mba-mba-mba-mba bul."
+
+The small drums sing in their high pitches, "Tindiri, tindiri tindiri ti."
+
+Together they chorus, "Tindiri mba, tindiri mba, tindiri mba-mba-mba-mba, tindiri ti!"
+
+images:
+
+illustrations/pages/25948.png
+illustrations/pages/25947.png
+illustrations/pages/25948.png
+illustrations/pages/25949.png
+illustrations/pages/25950.png
+illustrations/pages/25951.png
+illustrations/pages/25952.png
+illustrations/pages/25953.png
+illustrations/pages/25954.png
+
+translations:
+
+Dhopadhola (Original)	Bul	id=22190

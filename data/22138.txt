@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=22138&d=0&a=1
+id:	22138
+title:	Injangwe za Sano
+author:	Aloysie Uwizeyemariya
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22138.png
+desc:	Sano afite injangwe nyinshi. Ese izo njangwe za Sano ni zingahe?
+
+page_text:
+
+P1	Sano akunda injangwe. Iwabo ahafite injangwe nyinshi.
+P2	Sano afite injangwe y'umukara. Iyi njangwe irya inyama nyinshi.
+P3	Sano afite injangwe imwe ibyibushye. Iyi njangwe yo irya byose.
+P4	Injangwe ya gatatu ikunda kurira igiti. Iyi njangwe igeze mu giti irafatwa iherayo.
+P5	Sano yuriye igiti. We n'injangwe ya gatatu baheze mu giti. Nyina wa Sano niwe ubafasha kumanuka mu giti.
+P6	Sano afite injangwe ebyiri zigira ubunebwe. Zirirwa ziryamiye hanze ku kazuba.
+P7	Sano afite injangwe eshatu zikora cyane. Zirara zifata imbeba mu gikoni.
+P8	Sano agira imbwa imwe. Iyo mbwa yitwa Simba. Simba nta nshuti igira. Ihora ibabaye
+P9	Injangwe za Sano ntizikunda Simba. Zirayirukana zikayisohora mu rugo, Simba ikigendera.
+P10	Sano ajya gushaka Simba akayigarura mu rugo. Injangwe ntibizishimisha. Ntiziba zishaka kongera kubona Simba.
+P11	Mbese Sano afite injangwe zingahe? Afite injangwe umunani.
+P12	Ese Sano afite imbwa zingahe? Afite imbwa imwe. Ubu se Simba iri hehe?
+P13	Iwanyu mufite injangwe zingahe? None se iwanyu mufite imbwa zingahe?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Aduroota Caala	id=12956
+English (Translation)	Selemeng's Cats	id=12155
+French (Translation)	Les Chats De Selemeng	id=13276
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Sepedi (Translation)	Dikatse Tša Selemeng	id=12581
+Sesotho (Lesotho) (Original)	Likatse Tsa Selemeng	id=12027

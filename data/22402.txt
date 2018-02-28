@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=22402&d=0&a=1
+id:	22402
+title:	ስሜቶች
+author:	Mezemir Girma
+artist:	Kathy Arbuckle
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22402.png
+desc:	ስለ ልዩ ልዩ ሰዎችና ነገሮች ምን እንደሚሰማን እናንብብ፡፡ ልጆች እናንተ ስለጓደኞቻችሁም ሆነ በአቅራቢያችሁ ስላሉ ነገሮች ምን ይሰማችኋል?
+
+page_text:
+
+P1	ልቤ ብዙ ነገር ይሰማዋል።
+P2	መምህሬ በተረት ክፍለጊዜ ተረት ስትነግረን ደስታ ይሰማኛል።
+P3	ከጓደኛዬ ጋር ስጫወት እርካታ ይሰማኛል።
+P4	አባቴ ባመጣሁት ውጤት ምክንያት ሲጮህብኝ እበሳጫለሁ፡፡
+P5	እናቴ ከረሜላ ስትሰጠኝ እንደተወደድኩ ይገባኛል፡፡
+
+images:
+
+illustrations/pages/1328.png
+illustrations/pages/1329.png
+illustrations/pages/1330.png
+illustrations/pages/1328.png
+illustrations/pages/1331.png
+illustrations/pages/1332.png
+
+translations:
+
+Aringati (Translation)	Cãndíru Ꞌbã Ị́jọ́ Ĩtrĩkãŋá	id=7267
+Ateso (Translation)	Epupi Ekon Etau Biai?	id=2885
+English (Original)	Feelings	id=2884
+Kikamba (Translation)	Kwĩw’A	id=2887
+Lugbarati (Translation)	Ru Etumuzu	id=2888
+Lugbarati (Official) (Translation)	Àfaamázʉ́	id=8752
+Lumasaaba (Translation)	Bibyambaso	id=8916
+Lunyole (Translation)	Weŋulira Otye?	id=2890
+Lunyole (Adaptation)	Feelings	id=13618
+Lusoga (Translation)	Mpulira	id=2891
+Maa (Translation)	Aníng	id=2886
+Ng’aturkana (Translation)	Ng’Akiiranaret Akwaan	id=2893
+Oluwanga (Translation)	Obuulili	id=2892
+Sabinyi (Translation)	Co Katinyiŋ	id=2894
+Setswana (Translation)	Maikutlo	id=2895
+Tunisian (Translation)	Iħsès	id=15155

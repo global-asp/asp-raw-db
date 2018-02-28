@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=21724&d=0&a=1
+id:	21724
+title:	Lengijabulela kukwenta
+author:	Fakazile Armooh
+artist:	Wiehan de Jager
+lang:	Siswati
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21724.png
+desc:	Kuyangijabulisa kwenta letintfo lengitibalile. Ngabe ujabulela kwentaini?
+
+page_text:
+
+P1	Kuyangijabulisa kudlala intsambo nemngani wami.
+P2	Kuyangijabulisa kubhala bonkhamisa ebhodini.
+P3	Kuyangijabulisa kufundza incwadzi lenetitfombe.
+P4	Kuyangijabulisa kudla titselo letahlukahlukene.
+P5	Kuyangijabulisa kulekelela ekhaya.
+P6	Kuyangijabulisa kulalela tindzaba lengiticocelwa ngumake wami.
+P7	Kuyangijabulisa kulala embhedeni lomkhulu.
+P8	Kuyangijabulisa kwenta letintfo. 
+
+Wena-kengabe ujatjuliswa yini?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat Ek Graag Doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+CiNyanja (Translation)	Vintu Vamene Nikonda Kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I Enjoy Doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+isiNdebele (Translation)	Ngithanda ukwenza	id=21932
+Sepedi (Translation)	Tšeo Ke Ratago Go Dira	id=18984
+Sesotho (South Africa) (Translation)	Ke rata ho etsa	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Tshivenda (Translation)	Zwine Nda Zwi Takalela	id=18986
+Xitsonga (Translation)	Ndzi Rhandza Ku Endla	id=18875

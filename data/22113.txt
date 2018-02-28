@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=22113&d=0&a=1
+id:	22113
+title:	Zawadi ya Sally
+author:	Ursula Nafula
+artist:	
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22113.png
+desc:	Sally anapatiana zawadi kwa rafiki yake mpya. (Hadithi hii ilichangiwa na Bi Gcina Mhlophe na picha zikachangiwa na Jiggs Snaddon-Wood. Kilichapishwa na shirika la Nalibali).
+
+page_text:
+
+P1	Sally alimpenda babu yake sana. 
+
+Sally angependa kuwa meneja wa benki atakapokuwa mkubwa.
+P2	Sally alipofikisha umri wa miaka minane, aliandaliwa sherehe. 
+
+Wazazi walipata ruhusa ya kuandaa sherehe hiyo kwenye hifadhi ya wanyama.
+P3	Twiga mmoja alikuwa amekufa. Sally alilia kwa huzuni.
+
+Aliwapenda twiga zaidi kuliko wanyama wengine.
+P4	Sally aliamua kumtembelea ndama wa twiga aliyekufa. Aliwaza, "Maskini yatima!"
+P5	Alimwimbia ndama yule kumfariji.
+
+Ndama alimtazama wakati wote alipokuwa akiimba.
+P6	Mwalimu wa Sally alipanga safari ya darasa nzima. 
+
+Sally na wenzake walimtembelea mtoto wa twiga.
+P7	Wenzake walimwuliza, "Anaitwaje?"
+
+Sally aliwajibu, "Anaitwa Furaha."
+P8	Walipiga picha nyingi wakiwa na Furaha.
+
+images:
+
+illustrations/pages/17355.png
+illustrations/pages/17354.png
+illustrations/pages/17355.png
+illustrations/pages/17356.png
+illustrations/pages/17357.png
+illustrations/pages/17358.png
+
+translations:
+
+Afrikaans (Adaptation)	Sisanda se Geskenk	id=22021
+English (Original)	Sisanda's Gift	id=17470
+isiNdebele (Translation)	Isipho Sikasisanda	id=19097
+isiXhosa (Adaptation)	Isipho sikaSisanda	id=22110
+isiZulu (Adaptation)	Isipho sikaSisanda	id=22109
+Kiswahili (Translation)	Zawadi ya Sisanda	id=22111
+Sepedi (Translation)	Mpho Ya Sisanda	id=19101
+Sesotho (South Africa) (Translation)	Mpho Ya Sisanda	id=19102
+Setswana (Translation)	Mpho Ya Ga Sisanda	id=19103
+siSwati (Translation)	Sipho Sasisanda	id=19104
+Tshivenda (Translation)	Tshifhiwa Tsha Sisanda	id=19105
+Xitsonga (Translation)	Nyiko Ya Sisanda	id=19106

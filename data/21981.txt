@@ -1,0 +1,67 @@
+url:	http://africanstorybook.org/reader.php?id=21981&d=0&a=1
+id:	21981
+title:	Anansi, Igitagangurirwa k'Ikinebwe
+author:	Epimaque Niyibizi
+artist:	Wiehan de Jager
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21981.png
+desc:	Impamvu ibitagangurirwa bigira amaguru maremare. (Ishobora kandi kuboneka mu nkuru zo mu kiciro cya 4 cyo gusoma).
+
+page_text:
+
+P1	Anansi ni igitagangurirwa ry'ikinebwe.
+P2	Gikunda ibiryo, ariko kigira ubunebwe bwo guteka.
+P3	Anansi yasuye urukwavu, nuko irusaba ko basangira imboga zarwo.
+P4	Urukwavu ruti: "Yego. Ngaho ba ugaragura imboga." Ariko Anansi ni ikinebwe.
+P5	Anansi iravuga iti: "Ndaza kugaruka mu mwanya."
+P6	Anansi izirika ubudodo ku kuguru kwayo, ibuzirika no ku nkono y'urukwavu.
+P7	Anansi ibwira urukwavu iti: "Nubona imboga zihiye ukurure ubu budodo."
+P8	Ibwira inkende iti: "Mbe nkende, mwareka tugasangira ibishyimbo byanyu?" Ziti: "Yego. Dufashe kwasa inkwi."
+P9	Anansi iravuga iti: "Ndaza kugaruka." Izirikaho ubundi budodo.
+P10	Ibwira ingurube y'ishyamba iti: "wareka tugasangira ibirayi byawe?" Nayo iti: "Yego. Mfasha kubiteka."
+P11	Anansi iravuga iti: "Ndaza kugaruka." Naho izirikaho ubundi budodo.
+P12	Bityo rero, ku maguru 8 yose ya Anansi, buri kaguru kari kaziritse ku nkono runaka.
+P13	Anansi yumva akaguru kayo ka 2 baragakuruye. Hakurikiraho akaguru ka 3.
+P14	Amaguru yose uko ari 8 barayakurura! Anansi itangira kuvuza induru iti: "Mureke kunkurura."
+P15	Nta n'umwe wumvaga induru ya Anansi. Bwa budodo bugenda bucika kamwe kamwe.
+P16	Nuko amaguru ya Anansi arakururuka aba maremare. Nguko uko ibitagangurirwa byatangiye kugira amaguru maremare.
+
+images:
+
+illustrations/pages/1069.png
+illustrations/pages/1070.png
+illustrations/pages/1071.png
+illustrations/pages/1072.png
+illustrations/pages/1073.png
+illustrations/pages/1074.png
+illustrations/pages/1075.png
+illustrations/pages/1076.png
+illustrations/pages/1069.png
+
+translations:
+
+Afaan Oromo (Translation)	Sharaariti Dadhaba	id=20428
+Amharic (Translation)	ሰነፉ አናንሲ	id=20489
+ChiShona (Translation)	Nyope Inonzi Anansi	id=21678
+English (Original)	Lazy Anansi	id=1077
+English (Adaptation)	Lazy Anansi	id=19765
+French (Translation)	Anansi, La Fainéante	id=10850
+Hausa (Nigeria) (Translation)	Anansi Rago ne	id=20520
+isiZulu (Translation)	Anansi Ovilaphayo	id=11195
+isiZulu (Translation)	Ivila elingu-Anansi	id=20724
+Kikamba (Translation)	Kitumi Kya Anansi Kwithiwa Na Maau Matheke Nyanya	id=2068
+Kiswahili (Translation)	Jinsi Anansi alipata miguu myembamba	id=2069
+Kiswahili (Translation)	Anansi mvivu	id=20438
+Luganda (Translation)	Nabbubi Omunafu	id=2073
+Luganda (Translation)	Lwaki Nabbubi Erina Obugulu Munaana Obutono	id=8730
+Lugbarati (Translation)	E`yo Ebio Ma Pa Yin I Ovuzu Izia Izia Aro Ri	id=2070
+Lugbarati (Official) (Translation)	Ebìó Òvʉ́ó Rʉ Rɨ̀	id=8795
+Lumasaaba (Translation)	Lwashiina Wanaasi Nabubi Ali Ni Buukyele Shinaane Buunyelele	id=3012
+Lunyole (Translation)	Anansi Omunafu	id=2074
+Lusoga (Translation)	Munansi Omunafu	id=20401
+Maa (Translation)	Káínyoo Peê Éátâ Anansi Inkejék Ísíet Rónkéní	id=2729
+Ng’aturkana (Translation)	Eyakar Anansi Ng’Akejen Ngakan-Kauni Nadiim	id=2075
+Oluwanga (Translation)	Esichira Anansi Naba Norulenje Orutiti Munane	id=2071
+Portuguese (Translation)	Anansi Preguiçoso	id=16657

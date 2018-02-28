@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=22060&d=0&a=1
+id:	22060
+title:	Sanin Damisar Bunu
+author:	Muhammad Tukur Bala
+artist:	Philip Hayab John
+lang:	Hausa (Nigeria)
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22060.png
+desc:	Bunu ya bada labarin Damisa
+
+page_text:
+
+P1	A wani gari mai suna Magarya. An yi wani mutum mai suna Bunu.
+P2	A garin Magarya, masana labarai suke bada labarai masu qayatarwa
+P3	Da aka zo kan Bunu, sai ya ce "labarina a kan Damisa ne."
+P4	Yana fadin kan labarinsa, sai kowa ya yi shuru ya kuma saurara.
+P5	Bunu ya gyara murya ya ce, "Damisa kamar Kyanwa ta ke."
+P6	Sai kowa ya ce "Lallai, haka ne".
+P7	Kuma ya ce, "Damisa na da tsawon bindi."
+P8	Sai masu saurare suka ce. "Ummm, gaskiya ne!"
+P9	Lokacin da Bunu ya fahimci ya fara birge jama'a.
+P10	Sai ya yi farat kamar qorarren mai bada labari, ya ce "Ai lokacin da muke yara, malamin mu ya kai mu bakin rafi ya nuna mana Damisa."
+P11	Ita Damisa tana da qaho biyu irin na Barewa."
+P12	Sai kowa ya kyalkyace da dariya yana yi masa ba'a.
+P13	"Bunu makaryaci ne, kuma bai san yanda Damisa take ba."
+P14	Bunu ya gane kuskuren sa sai ya ce, "Daga yau ba zan
+sake ba da labarin abinda ban sani ba.
+
+images:
+
+illustrations/pages/25188.png
+illustrations/pages/25225.png
+illustrations/pages/25224.png
+illustrations/pages/25183.png
+illustrations/pages/25181.png
+illustrations/pages/25188.png
+illustrations/pages/25224.png
+illustrations/pages/25187.png
+illustrations/pages/25181.png
+illustrations/pages/25183.png
+illustrations/pages/25196.png
+illustrations/pages/25188.png
+illustrations/pages/25181.png
+illustrations/pages/25187.png
+illustrations/pages/25183.png
+
+translations:
+
+Hausa (Nigeria) (Original)	Sanin Damisar Bunu	id=20713
+Hausa (Nigeria) (Adaptation)	Sanin Damisar Bunu	id=22178

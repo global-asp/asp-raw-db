@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=21531&d=0&a=1
+id:	21531
+title:	Xana Ku Na Un'wana Wo Fana Na Mina?
+author:	Tinyiko Hlangwani
+artist:	Jess Jardim-Wedepohl
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21531.png
+desc:	A ndzi tivi loko ku ri na mina unwana kunwana emisaveni.
+
+page_text:
+
+P1	A ndzi tivi loko ku ri na mina un'wana kun'wana emisaveni.
+P2	Loyi a fanaka na mina.
+P3	Naswona a vulavulaka ku fana na mina.
+P4	Naswona a nga na misisi ya mina yo tshombonyoka-tshombonyoka.
+P5	Munhu un'wana loyi a nga na tindleve na matihlo ya mina.
+P6	Loyi hambi ku hleka ku fanaka na ka mina.
+P7	Xana i mani a nga endlaka leswi ndzi nga swi endlaka…
+P8	… naswona loyi a nga kotiki leswi ndzi nga swi kotiki.
+P9	Ndzi lavalavile hinkwakonkwako ku kuma mina un'wana.
+
+Ndzi ye ephakeni kutani ndzi lave endzhaku ka mirhi.
+P10	Ndzi lavalave hinkwakonkwako, ehansi na le henhla…
+P11	… eka xikandza xin'wana na xin'wana.
+P12	A ndzi kumanga mina un'wana endhawini yihi kumbe yihi yin'wana.
+P13	Ko va na mina un'we ntsena emisaveni!
+
+Ndzi wo hlawuleka, yoo, i ntiyiso!
+P14	Kambe ku nga ri mina ntsena, a wu swi voni?
+
+Ko va na un'we ntsena wa wena!
+
+images:
+
+illustrations/pages/15344.png
+illustrations/pages/15343.png
+illustrations/pages/15344.png
+illustrations/pages/15345.png
+illustrations/pages/15346.png
+illustrations/pages/15347.png
+illustrations/pages/15348.png
+illustrations/pages/15349.png
+illustrations/pages/15361.png
+illustrations/pages/15352.png
+illustrations/pages/15355.png
+illustrations/pages/15356.png
+illustrations/pages/15358.png
+illustrations/pages/15359.png
+illustrations/pages/15360.png
+
+translations:
+
+Afrikaans (Translation)	Is Daar Nog Iemand Soos Ek?	id=21468
+Dholuo (Translation)	Be Nitie Ng'at Machal Koda?	id=15406
+English (Original)	Is There Anyone Like Me?	id=15363
+isiNdebele (Translation)	Ingabe Ukhona Ofana Nami?	id=21526
+isiXhosa (Translation)	Ingaba Ukhona Omnye Ofana Nam?	id=19900
+isiZulu (Translation)	Ngabe Ukhona Yini Ofana Nami?	id=21407
+Sepedi (Translation)	Go Na Le Ya Go Swana Le Nna?	id=21527
+Sesotho (South Africa) (Translation)	Na Ho Na Le Ya Tshwanang Le Nna?	id=21644
+Setswana (Translation)	A Go Na Le Yo O Tshwanang Le Nna?	id=21528
+Siswati (Translation)	Ukhona Yini Lofanana Nami?	id=21529
+Tshivenda (Translation)	Naa Hu Na Muṅwe Ane A Nga Nṋe?	id=21530

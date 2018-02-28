@@ -1,0 +1,73 @@
+url:	http://africanstorybook.org/reader.php?id=22059&d=0&a=1
+id:	22059
+title:	Mbuzi, mfalme bandia
+author:	Brigid Simiyu
+artist:	Marleen Visser
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22059.png
+desc:	Sasa unajua kwa nini mbuzi wana kiburi! Soma hadithi hii upate kujua yaliyotokea.
+
+page_text:
+
+P1	Hapo zamani, kulikuwa na mbuzi aliyeitwa Igobe.
+Igobe alikuwa mfalme wa mifugo na ndege. Aliishi maisha mazuri. 
+
+Siku moja, Igobe aliwaita mifugo wote na ndege mkutanoni.
+P2	"Rafiki zangu, nimewaita kwa sababu niliota ndoto," Igobe alisema. Mifugo wote na ndege walimsikiliza mfalme wao kwa makini.
+P3	"Niliota kuwa kulikuwa na njaa na ukosefu wa maji katika nchi yetu. Wengi wa jamaa zetu walifariki!" Mfalme alisema. 
+
+Mifugo na ndege waliposikia ndoto ile, walijawa na hofu. "Tutafanyaje?" Paka aliuliza.
+P4	Kuku na Bata walikuwa na wazo. Walisema, "Kila mmoja wetu alete chakula kiwekwe katika hifadhi ya mfalme." 
+
+Mifugo wote na ndege walikubaliana na wazo hilo.
+P5	Mfalme alitoa sharti moja. Alisema, "Yeyote atakayekosa kuleta chakula, mtamfunga mumlete kwangu."
+P6	Wakati wa mfalme Mbuzi kustaafu ulifika. Mifugo wote na ndege walikutana kumchagua mfalme mpya. Paka alichaguliwa kuwa mfalme wao mpya.
+P7	Mbuzi hakumtambua Paka kama mfalme. Alisema, "Mimi ndiye mfalme na hakuna mwingine. Siwezi kumtii mwingine yeyote."
+P8	Mifugo walipeleka chakula katika hifadhi ya mfalme wao mpya. Mbuzi hakupeleka chochote. 
+
+Ng'ombe alisema, "Mbuzi alipokuwa mfalme, tulimtii. Hataki sasa kumtii mfalme wetu mpya. Tufanyeje?"
+P9	Mifugo wote na ndege walikasirika. "Kwani anadhani yeye ni tofauti nasi?" Walinung'unika.
+P10	Mbwa alisema, "Nilimsaidia alipokuwa mfalme. Sikuwa nikilala usiku. Kila wakati nilikuwa naye, tayari kumsaidia."
+P11	Kondoo alisema, "Nilimpatia sufu yangu ili awafunike wanawe."
+P12	Nguruwe naye alisema, "Alipokuwa mfalme, aliwaambia marafiki zake kuwa mimi ni mlafi. Lakini nilitumia muda mwingi kuitunza bustani yake na kupalilia mawele na mahindi."
+P13	Kondoo aliuliza, "Eti alisema nini? Kwamba wewe ni mlafi? Alifikiri kuwa atakuwa mfalme milele?" Kondoo aliongeza kusema, "Lazima afahamu kuwa yeye si mfalme tena. Hata sijui kwa nini anafikiri kuwa yeye ni muhimu sana."
+P14	Mifugo wote walicheka na kukubaliana kwamba lazima Mbuzi apeleke chakula kwa mfalme mpya. Mfalme Paka alimwamuru Mbuzi aende kwake.
+P15	Mifugo walipoenda, walimkuta Mbuzi akistarehe. "Siendi kwa Paka. Hakuna mfalme mwingine ila mimi. Ukiwa mfalme, unasalia mflame." Mbuzi alisema kwa kiburi.
+P16	"Basi tutakufunga kwa kamba tukupeleke kwa mfalme mpya," Kondoo alisema.
+P17	Ng'ombe alimfunga Mbuzi akamvuta na kumpeleka kwa mfalme. Kondoo, Bata, Mbwa, Nguruwe na Jogoo walimshangilia Ng'ombe wakisema, "Mpeleke huyu mbuzi kaidi kwa mfalme mpya!"
+P18	Tangu wakati huo, kila mbuzi hukataa kusonga anapovutwa. Hufikiri kuwa anapelekwa kwenye mahakama ya mfalme.
+
+images:
+
+illustrations/pages/13362.png
+illustrations/pages/13351.png
+illustrations/pages/13350.png
+illustrations/pages/13352.png
+illustrations/pages/13353.png
+illustrations/pages/13362.png
+illustrations/pages/13354.png
+illustrations/pages/13363.png
+illustrations/pages/13355.png
+illustrations/pages/13357.png
+illustrations/pages/13356.png
+illustrations/pages/13358.png
+illustrations/pages/13359.png
+illustrations/pages/13360.png
+illustrations/pages/13361.png
+illustrations/pages/13364.png
+illustrations/pages/13365.png
+illustrations/pages/13366.png
+illustrations/pages/13367.png
+
+translations:
+
+Afrikaans (Translation)	Bok, die Valse Koning	id=21806
+English (Translation)	Goat, The False King	id=13541
+English (Adaptation)	Bad King	id=21446
+isiZulu (Translation)	Imbuzi, inkosi eyayingenalo iqiniso	id=16090
+Kiswahili (Translation)	Mfalme mbaya	id=21997
+Lámnsoʼ (Translation)	Fon wo bi	id=22299
+Lusoga (Original)	Wambuzi Isabazinga Omufere	id=13540
+Portuguese (Translation)	Bode, O Rei Falso	id=16652

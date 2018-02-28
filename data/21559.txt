@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=21559&d=0&a=1
+id:	21559
+title:	Istayile Sika Rafiki
+author:	Zolile Kalashe
+artist:	Audrey Anderson
+lang:	isiXhosa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21559.png
+desc:	Istayile sika Rafiki sesakhe yedwa. Kodwa xa iqela le Cool Cat lindolosa
+
+page_text:
+
+P1	Nge Cawa, u-Jimmy Zogba wafaka inqaku lempumelelo.
+P2	Ngomvulo, Iqela labasebenzi be Cool Cat liye landolosa.
+P3	"Hey, Rafiki, ziphi iinwele zakho zeqwarha?
+
+Iinwele zakho ziqhelekile, ngokungathi awukhathali."
+P4	"Hey, Rafiki, iphi itattoo yakho yenkohliso?
+
+Ulusu lwakho luyadinisa. Nawe ngokunjalo."
+P5	"Hey, Rafiki, maphi amazinyo egolide akho?
+
+Amazinyo akho ayaxengaxenga, yiyo lonto."
+P6	Ngalo olosuku, u-Rafiki wahamba ngokucothayo ukuya ekhaya.
+P7	"Makazi, ungandicheba iinwele zeqwarha?"
+
+"Andinako ukukucheba iinwele zeqwarha. Ngokwenene, andisoze ndibenaso isibindi."
+P8	"Ulusu lwam luyadinisa kakhulu, Sisi. Ungayenza itattoo yenkohliso?"
+
+"Awuyifuni enye ekhangeleka njengawe."
+P9	"Tat'omkhulu, ndiyanqwenela ukubanamazinyo egolide athile."
+
+"Amazinyo egolide, mntwana wam, awathethi nto."
+P10	Kwimpela veki elandelayo, u-Santi Ramires wafaka inqaku lempumelelo.
+P11	Ngo Mvulo, Iqela labasebenzi be Cool Cat liye landolosa.
+
+"Hey, Rafiki! Ukhangeleka kakuhle!"
+P12	U-Rafiki unyikinya amagxa. 
+
+"Ndikhangeleka njengam, esi stayile sesam."
+
+images:
+
+illustrations/pages/15555.png
+illustrations/pages/15551.png
+illustrations/pages/15553.png
+illustrations/pages/15554.png
+illustrations/pages/15555.png
+illustrations/pages/15556.png
+illustrations/pages/15557.png
+illustrations/pages/15648.png
+illustrations/pages/15649.png
+illustrations/pages/15650.png
+illustrations/pages/15651.png
+illustrations/pages/15652.png
+illustrations/pages/15653.png
+
+translations:
+
+Afrikaans (Translation)	Rafiki Se Styl	id=21557
+English (Original)	Rafiki's Style	id=15654
+isiNdebele (Translation)	Isitayela Sakarafiki	id=21558
+isiZulu (Translation)	Isitayela Sikarafiki	id=21560
+Sepedi (Translation)	Setaele Sa Rafiki	id=21408
+Sesotho (South Africa) (Translation)	Setaele Sa Rafiki	id=21646
+Setswana (Translation)	Setaele Sa Ga Rafiki	id=21578
+Siswati (Translation)	Sitayela Sarafiki	id=21579
+Tshivenda (Translation)	Tshitaela Tsha Rafiki	id=21580
+Xitsonga (Translation)	Xitayili Xa Rafiki	id=21581

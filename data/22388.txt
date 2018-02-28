@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=22388&d=0&a=1
+id:	22388
+title:	አናንሲና ጥበብ
+author:	Mezemir Girma
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22388.png
+desc:	የሰማይ አምላክ ለሸረሪቱ ለአናንሲ አንድ ገንቦ ሙሉ ጥበብ ሊሰጠው ይወስናል፡፡ ገንቦው ውስጥ ያለውን እውቀት ሁሉ አይቶ በጣም ስለተደሰተ እውቀትን ለራሱ ብቻ ለማድረግ በመፈለግ ዛፍ ላይ ሊደብቀው ፈለገ፡፡ የእድል ነገር ሆኖ ገንቦው ይወድቅና ይሰበራል፡፡
+
+page_text:
+
+P1	በድሮ ዘመን ሰዎች ምንም አያውቁም ነበር። ሰብል እንዴት እንደሚዘራ፣ ሽመናም ሆነ የአንጥረኝነት ስራ እንዴት እንደሚሰራ ምንም ሃሳብ አልነበራቸውም። በሰማይ ያለው አምላክ ግን የዓለምን ሁሉ ጥበብ ይዞ ነበር። በአንድ ገንቦም ውስጥ በጥንቃቄ  አስቀምጦት ነበር።
+P2	ከዕለታት አንድ ቀን ንያሜ ይህን የዕውቀት ገምቦ ለአናንሲ ለመስጠት ወሰነ። አናንሲ
+የሸክላውን ገንቦ ባየ ቁጥር አንድ አዲስ ነገር ያገኝ ነበር። ያስደስት ነበር!
+P3	ገብጋባው አናንሲ ‹‹ይህን ገንቦ በአንድ ትልቅ ዛፍ ጫፍ በጥንቃቄ አስቀምጠዋለሁ። ከዚያም ሁሉም የኔው ይሆንልኛል!›› ሲል አሰበ። አንድ ረጅም ክርም ገምዶ በሸክላው ገንቦ ዙሪያ አሰረ፤ ከዚያም በሆዱ ዙሪያ ጠመጠመ። ዛፉንም መውጣት ጀመረ። ገንቦው አሁንም አሁንም ጉልበት ጉልበቱን እየመታው ዛፍ መውጣቱ ከበደው።
+P4	ይህን ሁሉ ጊዜም የአናንሲ ትንሽ ልጅ ከዛፉ ስር ቆሞ እየተከታተለው ነበር። እሱም ‹‹አዝለኸው ብትወጣ አይሻልም ወይ?››አለው። 
+
+አናንሲ ጥበብ የያዘውን የሸክላ ገንቦ ከጀርባው ለማሰር ሞከረ፤ እውነትም አመቺ ነበር።
+P5	ባጭር ጊዜም ከዛፉ ጫፍ ደረሰ። እዚያም ቆም አለና ‹‹ይህ ሁሉ ዕውቀት የኔ እንዲሆን ነው የተፈለገው፤ ግን ይሄው ልጄ ከኔ የበለጠ ብልህ ሆነ!›› በማለት አሰበ። 
+አናንሲ በዚህ በጣም ተናዶ  ያንን የሸክላ ገንቦ ከዛፉ ላይ ወደ ታች ወረወረው።
+P6	መሬትም ላይ ወድቆ ፍርክስክሱ ወጣ። ጥበብም ለማንኛውም ሰው በእኩል ተዳረሰ።
+በዚህም ምክንያት ነበር ሰዎች እርሻ፣ ሽመና፣ አንጥረኝነትና ሌሎችንም ሰዎች መስራት የሚችሏቸውን ነገሮች ሁሉ የተማሩት።
+
+images:
+
+illustrations/pages/1273.png
+illustrations/pages/1274.png
+illustrations/pages/1275.png
+illustrations/pages/1276.png
+illustrations/pages/1277.png
+illustrations/pages/1278.png
+illustrations/pages/1279.png
+
+translations:
+
+Arabic (Translation)	أنانسي و الحكمة	id=21824
+Ateso (Translation)	Anansi Keda Acoa	id=20963
+Ateso (Translation)	Anansi Keda Acoa	id=21589
+Ekegusii (Translation)	Anansi N'obong'aini	id=2232
+English (Original)	Anansi and wisdom	id=1938
+Kikamba (Translation)	Ananzi Na Ũĩ	id=2233
+Kiswahili (Translation)	Anansi awapa watu hekima	id=2234
+Lugbarati (Translation)	Ibio Pi Ondoa Be	id=2230
+Lugbarati (Official) (Translation)	Èbìó Pɨ Òndʉ̀á Be	id=8775
+Lumasaaba (Translation)	Manaasi Ni Kamakhula	id=3006
+Maa (Translation)	Anansi Ó Eng'énó	id=2732
+Ng’aturkana (Translation)	Anansi Ka Aosou	id=2235
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=2256
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=8677
+Spanish (Translation)	Anansi Y La Sabiduría	id=14407

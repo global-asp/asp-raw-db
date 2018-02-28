@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=22285&d=0&a=1
+id:	22285
+title:	Shwér
+author:	Beatrice Tafon Takeh and Mbinkar Emmanuel Keelen
+artist:	Marion Drew
+lang:	Lámnsoʼ
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22285.png
+desc:	Kimfer kee kum vitaáví vé shwer.
+
+page_text:
+
+P1	Shwéri dzəm wiyi. Wú wìy ne e shaà láʼ yér.
+P2	Shwéri kér vitaáví. Wú tiìné kifá kém ké visəərí.
+P3	M jum kifá kém ji m wàa koó, a shwéri tsə́y mo é bàm.
+P4	Shwéri kfə̀n ne kiìkir. Wú lì ne kifá kém kù a koʼ sho koʼón é yuv.
+P5	Kiìkir sùm ne mo súmen. M yòʼ yén kirə́ʼ. M yòʼ kum kifá.
+P6	Kifá kém ké visəərí kí bèé lèn? A tàm bo kí tàám ne e kici.
+P7	A tàm bo kifá kém kí dzəə́ féŋ e yuv.
+P8	Shwéri kpùrín ne. M kù dzəə́ kár binkìrì.
+P9	Shwéri kárir mo tiirì, m nèn a kiy virə́ʼ. M gháy ji shwéri sà dù a dzə̀ fee a?
+P10	M yòʼ yén fo kifá kém kí dzəə̀n. M yòʼ dzəə́ yú fo shwéri kumè.
+P11	A tàm kibvəə́shí m yèn kifá kém.
+P12	Mo-óò wáa dù lèn fo laʼ fo shwer wúmóʼó sii kèʼ a wìy.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+illustrations/pages/14101.png
+
+translations:
+
+Acholi (Translation)	Yamo	id=21322
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kinyarwanda (Translation)	Umuyaga	id=20857
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo mkali	id=18345
+Sesotho (South Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=22202&d=0&a=1
+id:	22202
+title:	Mwana semuyananisi
+author:	Lilian Chaminuka
+artist:	Jacob Kono
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22202.png
+desc:	Mudunhu reTurkana
+
+page_text:
+
+P1	Amai vakaenda musango nemwana wavo. Vakaenda kunotemha michero.
+P2	Musango umu vakawana muti unemichero yakaibva.
+P3	Vakaradzika mwana akanga akotsira pasi pemuti, ivo ndokukwira mumuti.
+P4	Murume wekune rimwe dunhu akadarika nepo akaona mwana ari pasi pemuti. Murume uyu akashamiswa ndokuzvibvunza, "Amai vemwana uyu varikupi?"
+P5	Akakotama. Kurira kwakaita zvuma zvemuhuro make kwakabva kwamutsa mwana.
+P6	Akarega mwana achitamba nezvuma zvake. Mwana akasekerera achitambisa zvuma.
+P7	Amai vakatarisa pasi kuti vaone kuti mwana aisekei. Vakabva vaona paine murume wavainge vasingazive.
+P8	Vakavhunduka zvekuti vaka donhedza  nhava yavo yemuchero.
+P9	Murume akabva atarisa mudenga. Akati, "Musatye. Ndirikungotamba zvangu nemwana wenyu akanaka uyu."
+P10	Saka amai vakabva vaburuka mumuti.
+P11	Murume akabvisa chimwe chezvuma zvake akapa mwana. "Chipo chako ichi," akadaro.
+P12	"Endai kumba nemwana wenyu. Muudze murume wenyu kuti mubve mudunhu ramurikugara muende kudunhu rine runyararo. Mwana wenyu andipa runyararo," akadaro.
+
+images:
+
+illustrations/pages/14590.png
+illustrations/pages/14580.png
+illustrations/pages/14581.png
+illustrations/pages/14582.png
+illustrations/pages/14583.png
+illustrations/pages/14584.png
+illustrations/pages/14585.png
+illustrations/pages/14586.png
+illustrations/pages/14587.png
+illustrations/pages/14588.png
+illustrations/pages/14589.png
+illustrations/pages/14590.png
+illustrations/pages/14591.png
+
+translations:
+
+Amharic (Translation)	ሠላም ፈጣሪው ህፃን	id=21244
+English (Translation)	Child as a Peacemaker	id=14617
+Kiswahili (Translation)	Mtoto aliyeleta Amani	id=15861
+Maa (Translation)	Enkerai Nayaua Eseriani	id=15401
+Maa (Translation)	Enkerai Nayawua Eseriani	id=15525
+Ng’aturkana (Original)	Ikoku Nikesisilan	id=14614

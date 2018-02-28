@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=22174&d=0&a=1
+id:	22174
+title:	Amasela amabili
+author:	Jerry  Mathema
+artist:	Marion Drew
+lang:	IsiNdebele (Zimbabwe)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22174.png
+desc:	Amasela amabili ayefuna ukuntshontsha umumbu esivandeni somlimisi ngobunye ubusuku.
+
+page_text:
+
+P1	Amasela amabili ayefuna ukuntshontsha umumbu esivandeni somlimisi ngobunye ubusuku. Ayengazani lamasela.
+P2	Isela lokuqala lafika lavuna isaka lomumbu.
+P3	Elesibili langena esivandeni somlimisi latshiya ibhayisilili lalo ngaphandle.
+P4	Amasela la adibana ensimini. Bahlaba umkhosi," Ungubani wena?"
+P5	Bethuka bonke babaleka bagcwala indawo yonke.
+P6	Isela lakuqala latshiya emva isaka lomumbu.
+P7	Isela lesibili latshiya emva ibhayisikili lalo.
+P8	UMlimisi uthe efika wasebenzisa ibhayisikili ukuthwala isaka lomumbu.
+
+images:
+
+illustrations/pages/18364.png
+illustrations/pages/18363.png
+illustrations/pages/18364.png
+illustrations/pages/18365.png
+illustrations/pages/18366.png
+illustrations/pages/18367.png
+illustrations/pages/18368.png
+illustrations/pages/18369.png
+illustrations/pages/18370.png
+
+translations:
+
+Alur (Translation)	Jukwo Aryo	id=18774
+English (Original)	Two Thieves	id=18773
+Kinyarwanda (Translation)	Abajura babiri	id=21957

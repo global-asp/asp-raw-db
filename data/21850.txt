@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21850&d=0&a=1
+id:	21850
+title:	جسدي
+author:	Heba Tesheh
+artist:	Mlungisi Dlamini
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21850.png
+desc:	لكنني لااستطيع به أن أطير. استطيع به أن أهرب
+
+page_text:
+
+P1	استطيع به أن أركض.
+P2	استطيع به أن أقفز.
+P3	استطيع به أن أرقص.
+P4	استطيع به أن أسبح.
+P5	استطيع به أن أقفز.
+P6	استطيع به أن أركل.
+P7	استطيع به أن أهرب.
+P8	لكنني لااستطيع به أن أطير.
+
+images:
+
+illustrations/pages/1622.png
+illustrations/pages/1623.png
+illustrations/pages/1624.png
+illustrations/pages/1625.png
+illustrations/pages/1626.png
+illustrations/pages/1627.png
+illustrations/pages/1622.png
+illustrations/pages/1628.png
+illustrations/pages/1629.png
+
+translations:
+
+Acholi (Translation)	Kuma	id=21327
+Afaan Oromo (Translation)	Qaama Kiyya	id=12624
+Anywak (Translation)	Dëëra	id=17261
+Ateso (Translation)	Akakuwan	id=7784
+English (Original)	My Body	id=1790
+English (Adaptation)	My Body	id=9882
+isiXhosa (Translation)	Umzimba Wam	id=7685
+Kikamba (Translation)	Mwii Wakwa	id=2934
+Kiswahili (Translation)	Mwili wangu	id=12632
+Luganda (Translation)	Omubiri Gwange	id=2935
+Lugbarati (Translation)	Ma Rua	id=12643
+Lusoga (Translation)	Omubiri Gwange	id=8168
+Sepedi (Translation)	Mmele Waka	id=7854
+Setswana (Translation)	Mmele Wa Me	id=3124
+Somali (Translation)	Jirkeyga	id=12623
+Tunisian (Translation)	Bedni	id=15386
+Zande (Translation)	Kptore	id=12613

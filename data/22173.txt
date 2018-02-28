@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=22173&d=0&a=1
+id:	22173
+title:	Inkabi loBabhemi
+author:	Jerry Mathema
+artist:	Salim Kasamba
+lang:	IsiNdebele (Zimbabwe)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22173.png
+desc:	Indatshana emayelana lenkabi esebenza kanzima lobabhemi ohlakaniphileyo.
+
+page_text:
+
+P1	UMlimisi onganothanga wayelenkabi eyayingathandi ukusebenza. Inkabi le yayingafuni ukulima emasimini alomlimisi. Yayifuna ukuhlala ngekhaya idle utshani, inathe amanzi njalo iphumule.
+P2	Umlimisi wayefuye lobabhemi njalo. Ubabhemi lenkabi babengabangani. Ekutshoneni kwelanga, inkabi lobabhemi babevame ukuxoxa bobabili.'' Ngidiniwe,''kutsho inkabi. Ngisebenze kanzima ilanga lonke. Ikhuba likhulu njalo linzima. UMlimisi akangivumeli ukuphumula.
+P3	UBabhemi uyacabanga, "Inkabi ilivila. Ayithandi ukusebenza."Uyakhala ubabhemi, "Ucabanga ukuthi ikhuba linzima? Ngikholelwe, mngane wami, lilula! Ngithwale amasaka amabele emhlane namhlanje. Bekunzima ukwedlula ikhuba, ngiyethemba."
+P4	Ngelanga elilandelayo, izifuyo zombili lezi ziyadibana njalo.'' Ngibelosuku olubi namhlanje,'' Inkabi iyatsho. ''Insimu yoMlimisi wami ikhatshana njalo ibigcwele amatshe. Ngisebenze kanzima ilanga lonke. Angizange ngithole isikhathi sokuphumula.''
+P5	'' Usebenze kanzima?'' kubuza uBabhemi. "Namhlanje ngihambe ummango omude ngisiya emkambo osedolobheni. Ngiyakholwa ngisebenze kanzima kulawe.''
+P6	Ngosuku olwalandelayo, Inkabi yaphuza njalo ukuza ekhaya. Habe! Mngani wami'' ekhuluma loBabhemi. '' Namhlanje kubelusuku olubi kimi.'' Kodwa uBabhemi akathandanga futhi ukulalela Inkabi ukuthi ithini.
+P7	UBabhemi wathi, '' Uhlala nje udiniwe. UMlimisi nxa esiza, tshona phansi ubongolele uthi, ''Muu! Muu!'' UMlimisi uzacabanga ukuthi uyagula. Uzakuvumela ukuthi uphumule.'' Inkabo yalithanda lelicebo likababhemi.'' Ngiyabonga, Babhemi othandekayo, licebo elihle lelo,'' iphawula Inkabi.
+P8	Ekuseni, inkabi yalala phansi yavala amehlo ayo yabongolela yathi, Muu! Muu!
+
+UMlimisi wayikhangela inkabi wathi, ''Inkabi yami iyagula.'' Nomakanjani kumele insimu yami ilinywe. Ngubani ozangisiza? Ingxenye ubabhemi enganceda. Namhlanje uzalidonsa ikhuba.''
+P9	UMlimisi wabophela ikhuba kubabhemi, waqala ukumtshaya ngomchilo wakhe. Asambe! Phakamisa amasondo! Donsa!'' UMlimisi ekhuza ubabhemi wakhe.
+
+UBabhemi wasebenza kanzima ilanga lonke kwathi ebusuku wayesekhathele okwamagama.
+P10	UBabhemi wahamba kancane kancane esiya ekhaya. Inkabi yathi, ''Babhemi othandekayo, ngibe losuku oluhle kakhulu namhlanje. Ngidle utshani, nganatha amanzi njalo ngaphumula. Ngifuna ukuphumula futhi kusasa. Nginika elinye icebo.''
+P11	UBabhemi uyacabanga, ''Umsebenzi wenkabi unzima kulowami. Angifuni futhi ukwenza lomsebenzi kusasa,'' kusitsho ubabhemi, ''Qaphela. UMlimisi uthe, ''inkabi yami ihlala idiniwe njalo iyagula.'' Nxa ingazange ibengcono kusasa okusayo, ngizayibulala ngidle inyama yayo.
+P12	Inkabi yethuka. Yakhala yathi, ''Ngempela ukutshilo na lokho! Ngizasebenza kusasa. Ngizizwa sengingcono khathesi njalo angidinwanga!''
+
+images:
+
+illustrations/pages/15496.png
+illustrations/pages/15491.png
+illustrations/pages/15492.png
+illustrations/pages/15493.png
+illustrations/pages/15494.png
+illustrations/pages/15495.png
+illustrations/pages/15496.png
+illustrations/pages/15497.png
+illustrations/pages/15498.png
+illustrations/pages/15499.png
+illustrations/pages/15500.png
+illustrations/pages/15501.png
+illustrations/pages/15502.png
+
+translations:
+
+Amharic (Original)	በሬ እና አህያ	id=15505
+English (Adaptation)	Donkey And Ox	id=18333
+English (Adaptation)	Ox And Donkey 	id=21628
+Kiswahili (Translation)	Fahali na Punda	id=15612
+Oluwanga (Adaptation)	Isurusi Nende Isishiri	id=20346
+Portuguese (Translation)	O Boi E O Burro	id=18844

@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=21517&d=0&a=1
+id:	21517
+title:	Akusho kutsi batehluleki
+author:	Fakazile Armooh
+artist:	Wiehan de Jager
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21517.png
+desc:	Bantfu labakhubatekile banalokunyenti labangakwenta futsi banemakhono.
+
+page_text:
+
+P1	Lona nguBongi. Unguthishela wami.
+P2	Bongi usebentisa tindvuku nakahamba.
+P3	Lona nguMancoba. Ungumsakati lengimtsandza kunabo bonkhe.
+P4	Mancoba unenkinga yemehlo.
+P5	Lona nguBandile, makhelwane wami. Bandile ngumlimi.
+P6	Bandile akeva etindlebeni. Ukhuluma ngekusebentisa lulwimi lwetimphawu.
+P7	Lona nguBhiza. Ungumdlali webhola lodvumile esikolweni setfu.
+P8	Bhiza akanato tandla. Kodvwa sewufake emagoli lamanyenti ecenjini letfu.
+
+images:
+
+illustrations/pages/10424.png
+illustrations/pages/10419.png
+illustrations/pages/10418.png
+illustrations/pages/10420.png
+illustrations/pages/10421.png
+illustrations/pages/10422.png
+illustrations/pages/10424.png
+illustrations/pages/10425.png
+illustrations/pages/10426.png
+
+translations:
+
+Afrikaans (Translation)	Gestremde Mense Kán! 	id=20056
+Amharic (Translation)	አካል ጉዳተኝነት ከምንም አያግድም!	id=16458
+Ateso (Adaptation)	Mam Angwal Erai Adekk!!!	id=16212
+ChiTonga (Translation)	Bulema Takuli Kwaalilwa	id=18636
+CiNyanja (Translation)	Kulemala Sikulepela	id=18624
+English (Original)	Disability Is Not Inability	id=10416
+English (Adaptation)	Disability is Not Inability	id=12694
+English (Adaptation)	Different Abilities	id=13496
+IciBemba (Translation)	Ukulemana Teekufilwa	id=18581
+isiNdebele (Translation)	Ukukgholophala Akwenzi Umuntu Ukobana Angakghoni Ukwenza Izinto	id=11323
+isiNdebele (Translation)	Ukukhubazeka akusikho ukubhalelwa	id=21922
+isiXhosa (Translation)	Banako ukwenza izinto	id=17522
+isiZulu (Translation)	Abazona izehluleki	id=16089
+Luganda (Translation)	Obulema Si Butesobola.	id=11907
+Ng’aturkana (Translation)	Meere Ang'walu Apalagag	id=11809
+Portuguese (Translation)	A Deficiência Não É Uma Incapacidade	id=16412
+Sepedi (Translation)	Bogolofadi Ga Se Go Se Kgone	id=17996
+Sesotho (South Africa) (Translation)	Ho ba le boqhwala ha se ho hloka bokgoni	id=20025
+Setswana (Translation)	Bogole Ga Se Go Palelwa	id=14962
+Setswana (Translation)	Bogole Ga Se Go Palelwa	id=18882
+SiLozi (Translation)	Buhole Aki Kupalelwa	id=18563
+Tshivenda (Translation)	Vhuholefhali A Si U Sa Kona	id=18181
+Xitsonga (Translation)	Vutsoniwa A Hi Vutsandzeki	id=18990

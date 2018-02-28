@@ -1,0 +1,65 @@
+url:	http://africanstorybook.org/reader.php?id=21880&d=0&a=1
+id:	21880
+title:	لنعد الحيوانات
+author:	Maaouia Haj Mabrouk
+artist:	Rob Owen
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21880.png
+desc:	ثلاثة جواميس وأربعة طيور ذاهبون أيضا لشرب الماء
+
+page_text:
+
+P1	فيل واحد ذاهب لشرب الماء.
+P2	زرافتان ذاهبتان لشرب الماء.
+P3	ثلاثة جواميس وأربعة طيور ذاهبون أيضا لشرب الماء.
+P4	خمسة ظباء وستة خنازير برية يسيرون نحو الماء.
+P5	سبعة أحمرة وحشية تجري نحو الماء.
+P6	ثماني ضفادع وتسع سمكات يسبحن في الماء.
+P7	أسد واحد يزمجر. هو أيضا يريد أن يشرب. من ذا الذي يخاف من الأسد؟
+P8	فيل واحد يشرب الماء مع الأسد.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9652.png
+illustrations/pages/9647.png
+illustrations/pages/9644.png
+illustrations/pages/9646.png
+illustrations/pages/9650.png
+illustrations/pages/9645.png
+illustrations/pages/9651.png
+illustrations/pages/9648.png
+
+translations:
+
+Afrikaans (Translation)	Tel Die Diere	id=10448
+Afrikaans (Translation)	Tel Die Diere	id=11413
+Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Amharic (Translation)	እንሰሳትን እንቁጠር	id=21302
+Asante Twi (Translation)	Mmoa Akenkan	id=18219
+Dagaare (Translation)	Donne Sɔrebo	id=17769
+Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
+Dangme (Translation)	Lohwehi Kanemi	id=18297
+English (Original)	Counting Animals	id=9671
+Ewe (Translation)	Lãwo Xexlẽ	id=18179
+Fante (Translation)	Mbowadoma Nkanee	id=18487
+French (Translation)	Compter Les Animaux	id=12654
+Ga (Translation)	Kooloi Kanemɔ	id=18287
+Gonja (Translation)	Asɔbɔaya Be Ke Karga	id=18173
+Hausa (Nigeria) (Translation)	Dabbobin Daji Cikin Alkaluman Kidaya	id=20516
+Kasem (Translation)	Vara Garem	id=18208
+Kinyarwanda (Translation)	Kubara Inyamaswa	id=20220
+Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
+Lámnsoʼ (Translation)	Á táŋ nyám si	id=15064
+Luganda (Translation)	Ohubala Ebisolo	id=11905
+Lunyole (Adaptation)	Okubala Ebisolo	id=16664
+Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
+Nzema (Translation)	Nane Edianlɛ	id=18423
+Oluwanga (Translation)	Okhubala Tsisolo	id=19590
+Portuguese (Translation)	Contando Os Animais	id=16562
+Runyankore (Translation)	Okubara Ebinyamiiswa	id=21333
+Setswana (Translation)	Palo ya Diphologolo	id=22009
+Tunisian (Translation)	Ħisbēn L-Ħayewēnēt	id=15389
+Yoruba (Translation)	Kíka Àwọn Ẹranko	id=16554

@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=21874&d=0&a=1
+id:	21874
+title:	توم، بائع الموز
+author:	Maaouia Haj Mabrouk
+artist:	Atilabachew Reda
+lang:	Arabic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21874.png
+desc:	يحمل توم طبق الموز الناضج. يتجه توم إلى السوق لبيع الموز
+
+page_text:
+
+P1	يحمل توم طبق الموز الناضج.
+P2	يتجه توم إلى السوق لبيع الموز.
+P3	الناس في السوق يشترون الفاكهة.
+P4	لكن لا أحد يشتري موزات توم. إنهم يحبذون شراء الفاكهة من النساء.
+P5	يقول الناس في مجتمعنا لا يبيع الفاكهة إلا النساء ويتساءلون ما نوع هذا الرجل؟
+P6	لكن توم لا يستسلم. ها هو ينادي اشتروا موزي. اشتروا موزي الناضج اللذيذ.
+P7	أخذت امرأة حزمة الموز من على الطبق وتفحصتها بعناية.
+P8	اشترت المرأة الموز.
+P9	توافد الناس على المنضدة. يشترون موزات توم ويأكلونها.
+P10	أفرغ الطبق بسرعة. أخذ توم يحصي المال الذي ربحه.
+P11	ثم اشترى توم صابونا وسكرا وخبزا ووضع المشتريات في الطبق.
+P12	وضع توم الطبق على رأسه ورجع إلى منزله.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+English (Original)	Tom the Banana Seller	id=13627
+isiXhosa (Translation)	Utom, Umthengisi Webhanana	id=15024
+Luganda (Translation)	Tomu omutunzi w'amenvu	id=22354
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216
+siSwati (Translation)	Themba Umtsengisi Wabhanana	id=16440

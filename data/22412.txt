@@ -1,0 +1,40 @@
+url:	http://africanstorybook.org/reader.php?id=22412&d=0&a=1
+id:	22412
+title:	Kimbòŋ ke pen woo Gur
+author:	Beatrice Tafon Takeh and Mbinkar Emmanuel Keelen
+artist:	Andrews Opoku Antwi and Michelangelo Quaye Anang
+lang:	Lámnsoʼ
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22412.png
+desc:	Á yòʼ yii léŋri kishòʼ là wáʼ. (Kimfèr kìn ki dzə̀ a kí-iì fəə̀ a dzə̀ e ghan se yeʼéy ye aŋgaà yeʼéy e Ghana e 2017).
+
+page_text:
+
+P1	Yi-iì dzə̀ fó ŋgùʼ, a ntèʼ yìmòʼ dzə̀ ye apen. Apen-eè dzə̀ fó anín.
+P2	Yír sév sí-iì dzə̀ jii, Gur, yímóʼó ji Bik, yímóʼó ji Bor point, yímóʼó ji Jel, yímóʼó ji Maka e bóo lì símóʼ sí.
+P3	Gur-iì dzə̀ wánlè ŋgòn a wù dzə̀ e juŋ. Kibér ke apen e ntèʼ apen foo fey-iì koŋ fó a dzə moo wun.
+P4	Bik-iì dzə̀ ŋkar Gur. Bik nèn rə̀m jii, "A m lò a dzə moo Gur, bo m yií a yu vijuŋ ve ghaʼán ví é ntèʼ ye apen fèn."
+P5	Á bèy a Gur kù-uù rə́si dzə̀ kfə́ mendzən mendzən, a vinyo vi jivir wun. Wù nen jàmér wún fo wír ve vé-eè koŋ wune, e dù a dzə wùn mòʼón.
+P6	Bó wìr yòʼ kì é nteʼ apen, kinyo ke kí yiìn, é bo Gur wáa dzə mendzən mendzən, é vinyo vi wáa jivír wun. Vé-eè kí kév ji wù kér a kifá kidzə̀m ke dzə̀ kí yiì wù wàa yu vijuŋ.
+P7	Yii bèy, a Gur-iì kér kilìtì ke kinyò ke kù kiìn wun cáʼ cáʼ. Kilìti ke Gur kí-iì dzə̀ ka?
+P8	Fə̀m mo Gur-iì bòŋèn a dzə e juŋ bèy, wù yòʼ-oò kér meŋgvə́r me saŋ. Gur nèn tòŋ jii, "Lùŋ fó fo dzə̀ ka fo pen woo Gur, a bó wù yòʼ kér meŋgvə́r me saŋ?"
+
+images:
+
+illustrations/pages/25333.png
+illustrations/pages/25336.png
+illustrations/pages/25337.png
+illustrations/pages/25339.png
+illustrations/pages/25340.png
+illustrations/pages/25341.png
+illustrations/pages/25342.png
+illustrations/pages/25343.png
+illustrations/pages/25333.png
+
+translations:
+
+Dagbani/Dagbanli (Original)	Salma Alikalimi	id=21421
+English (Translation)	Pretty Golden Pen	id=21423
+Kiswahili (Translation)	Dhahabu, kalamu nzuri	id=21445
+Lámnsoʼ (Translation)	Kimbòŋ ke pen woo Gur	id=22313

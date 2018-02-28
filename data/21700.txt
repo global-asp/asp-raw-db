@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=21700&d=0&a=1
+id:	21700
+title:	Bulgootni Gadheedha
+author:	Mulualem  Daba
+artist:	Natalie Propa
+lang:	Afaan Oromo
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21700.png
+desc:	Mulongof maatin isaa beelaani nyaata barbaada osoo jirani akka tasa Bulgu qonna balaa qabu argatani. Bulgichis waan inni barbaadu hundaa kennanifi akka midhaan isaa nyaatani hayyamef.
+
+page_text:
+
+P1	Beeli turee. 
+
+Maatin Mulongoos waan nyaatan dhaabani beela'ani.
+P2	Gaaf tokko, Mulongoon nyaata barbaacha maati isaa garaa bosona  fuudhe deeme.
+P3	Osoo nyaata barbaadani, muuzi qonnaa abba hin qabne argatan.
+P4	Akka tasa, bulgun guddaa itti dhuufe.
+
+Akka achi turanis hayyameef.
+P5	Gaaf tokko ganama bulgichi, "Ilma kee naafqali," jedhe.
+P6	Galgaala bulgun, "Intala kee immoo bor naafqalta," jedhe.
+P7	Maatin Mulongo intala isaani mukaa irraa dhoksan.
+P8	Bulgichi, "Abba mana kee boru dirqaama naafqalu qabda," jedhe haadha mana Mulongotin.
+P9	Galgala sana bulgichi haadha mana Mulongotin akka ofqaltuu gaafate.
+P10	Bulgichi erga nyaate fiixe booda, mukaa jala ciise koorisu egale.
+P11	Bulgichi yommuu ol-ilaalu, hunduma isaani mukaa irraatti argee. 
+
+Baay'ee aree.
+P12	Bulgicha gowwomsanii mukaa irraa bu'aani.
+
+images:
+
+illustrations/pages/8114.png
+illustrations/pages/8111.png
+illustrations/pages/8112.png
+illustrations/pages/8113.png
+illustrations/pages/8114.png
+illustrations/pages/8115.png
+illustrations/pages/8116.png
+illustrations/pages/8117.png
+illustrations/pages/8118.png
+illustrations/pages/8119.png
+illustrations/pages/8120.png
+illustrations/pages/8121.png
+illustrations/pages/8122.png
+
+translations:
+
+Amharic (Translation)	ጭራቆች ደደቦች ናቸው	id=21182
+English (Translation)	Mulongo and the Ogre	id=9127
+English (Adaptation)	Ogres Are Stupid	id=20886
+English (Adaptation)	Mulongo And The Ogre	id=21549
+French (Translation)	Mulongo Et L'ogre	id=10699
+Kiswahili (Translation)	Ujinga wa Majitu	id=21138
+Luganda (Translation)	Bawazzike Ba Siiru	id=21060
+Lumasaaba (Original)	Mulongo Ni Wanasilikhe	id=9126
+Lumasaaba (Adaptation)	Mulongo Ni Wanasilikhe (Revised)	id=10521
+Ng’aturkana (Translation)	Ebang'aka Ng'ibuin	id=21132
+Tigrigna (Translation)	ሕንጉጉ ሕማቓት እዮሞ	id=21103

@@ -1,0 +1,84 @@
+url:	http://africanstorybook.org/reader.php?id=21795&d=0&a=1
+id:	21795
+title:	Wrong Advice
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Brian Wambi
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21795.png
+desc:	Two men are advised wrongly by a judge. They seek the wisdom of the elders and live happily afterwards.
+
+page_text:
+
+P1	Kombe and Juma were poor neighbours. 
+
+They did everything for themselves.
+P2	They wished they had a donkey. 
+
+He would carry their things.
+P3	Kombe said, “Let us buy a donkey together.” 
+
+They were happy.
+P4	When Kombe’s father died, Kombe became rich. 
+
+He forgot Juma.
+P5	Kombe wanted donkey meat for his dogs. 
+
+Juma needed the donkey.
+P6	The judge said, “Each of you can take half the donkey.”
+P7	Kombe killed the donkey. 
+
+Juma carried things for himself once again.
+P8	Kombe wanted to burn his hut and build a new one.
+P9	Juma said, “Mine will burn too.” 
+
+The judge agreed with Kombe.
+P10	Juma’s hut burned. 
+
+The judge said, “Kombe burned only his hut.”
+P11	Juma had no donkey, no hut. He slept under the tree.
+P12	Juma worked hard. He had a good crop of peas.
+P13	Kombe’s boys ate most of the peas from Juma’s land.
+P14	The boys said, “Ask our father to pay for your peas.”
+P15	Juma said, “I don’t want your money. I want my peas.”
+P16	The judge told Juma, “Cut the boys open. Take your peas.”
+P17	Juma refused to listen. Kombe cried, “Let the elders decide.”
+P18	The elders said, “You killed the donkey. You burned his hut.”
+P19	They said to Juma, “Killing Kombe’s sons is wrong too.”
+P20	Kombe gave Juma half of his property. 
+
+They lived happily.
+
+images:
+
+illustrations/pages/17057.png
+illustrations/pages/17050.png
+illustrations/pages/17052.png
+illustrations/pages/17053.png
+illustrations/pages/17054.png
+illustrations/pages/17055.png
+illustrations/pages/17057.png
+illustrations/pages/17058.png
+illustrations/pages/17060.png
+illustrations/pages/17061.png
+illustrations/pages/17062.png
+illustrations/pages/17063.png
+illustrations/pages/17064.png
+illustrations/pages/17066.png
+illustrations/pages/17068.png
+illustrations/pages/17069.png
+illustrations/pages/17070.png
+illustrations/pages/17071.png
+illustrations/pages/17073.png
+illustrations/pages/17074.png
+illustrations/pages/17075.png
+
+translations:
+
+English (Original)	Unwise Judge	id=17115
+Kinyarwanda (Translation)	Umucamanza Mubi	id=22143
+Kiswahili (Translation)	Hakimu asiyekuwa na busara	id=17135
+Kiswahili (Translation)	Ushauri mbaya	id=21816
+Portuguese (Translation)	Juiz Insensato	id=17118
+Portuguese (Translation)	Juiz Insensato	id=17133

@@ -1,0 +1,60 @@
+url:	http://africanstorybook.org/reader.php?id=22003&d=0&a=1
+id:	22003
+title:	Tarik na rafiki yake
+author:	Ursula Nafula
+artist:	Isaac Okwir
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22003.png
+desc:	Mchungaji anaokolewa na rafiki yake wa karibu kutoka hatarini. Some uone ilivyokuwa.
+
+page_text:
+
+P1	Tarik na familia yake waliishi mbali na mji mkuu.
+P2	Tarik alikuwa na mbwa aliyeitwa Buchi. 
+
+Walikuwa marafiki wakubwa.
+P3	Siku moja, Tarik na rafiki yake Bedilu waliwapeleka mifugo malishoni.
+P4	Bedilu alipenda wacheze, lakini Tarik alitaka kusoma.
+P5	Mwishowe, Bedilu na Tarik waliamua kucheza.
+P6	Walipokuwa wakicheza, kondoo walitoweka.  
+
+Waliwatafuta kila mahali.
+P7	Mbwa mwitu aliua kondoo wa Tarik. 
+
+Tarik aliogopa kuadhibiwa na baba yake.
+P8	Tarik aliamua kulala juu ya mti. 
+
+Buchi alilala karibu na mti huo.
+P9	Usiku, fisi walipiga kelele Tarik akaogopa.
+P10	Tarik alianguka kutoka mtini.  
+
+Alisikia kelele karibu naye.
+P11	Wakati huo, radi ilimlika anga.
+
+Tarik alimwona Buchi akiwa anamlinda!
+P12	Tarik na Buchi waliketi juu ya mti hadi asubuhi.
+
+images:
+
+illustrations/pages/25050.png
+illustrations/pages/25047.png
+illustrations/pages/25048.png
+illustrations/pages/25049.png
+illustrations/pages/25050.png
+illustrations/pages/25051.png
+illustrations/pages/25052.png
+illustrations/pages/25053.png
+illustrations/pages/25054.png
+illustrations/pages/25055.png
+illustrations/pages/25056.png
+illustrations/pages/25057.png
+illustrations/pages/25058.png
+
+translations:
+
+Amharic (Translation)	እረኛውና የልብ ጓደኛው	id=20444
+English (Original)	Shepherd And His Best Friend	id=20414
+English (Adaptation)	Tarik and his Friend	id=21397
+Kidawida (Translation)	Mwamburi na Mughenyi  wake	id=22023

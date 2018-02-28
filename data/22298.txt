@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=22298&d=0&a=1
+id:	22298
+title:	Du yeé ŋkàlaʼ ye kuʼùn
+author:	Beatrice Tafon Takeh and Mbinkar Emmanuel Keelen
+artist:	Brian Wambi
+lang:	Lámnsoʼ
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22298.png
+desc:	Wan woo lumèn du e ghan fər tàr wov fo kaŋ wo mbiy e ŋkàlaʼ.
+
+page_text:
+
+P1	Wíri-iì rùn é kirə̀ʼ fo á yii shiy mótù e věr mvə̀m la.
+P2	Nsə̀ŋ mótù nèn a jàŋ kitávín jii, "Du la e ŋkàlaʼ lèn lèn?"
+P3	Wíri nèn a nyòtìr a nəə̀ e mótù.
+P4	Vikìy ve á kér wóné nèn dzə́ʼə́m. Gháne-eè yií a dze e da.
+P5	Mo-oò dzə́ e ghaa wúndù e wìr wùn yeè lav və́ ghaŋ.
+P6	M rə̀m jii, mo m sí du e ŋkàlaʼ, bo vèr à fó laʼ a sí lo e làynin.
+P7	Wónlě wáy ve á yii yii wáy, ghán ghanén é yuví-iì dzə̀ anín.
+P8	Vé ghán ámóʼó yúnrí vifá. M yòʼoò ker mbàm seé yun kifá sho.
+P9	Nsə̀ŋ nèn lò e sàsìn e tòŋ sóŋ. Yì-iì sì ghán sé dù.
+P10	Wónlé way viyi nèn a dòmnìn a fəə fo mótù.
+P11	M dzə́r e kitú kém ki jii, "M sà wíy kfən e bam e ghàn ka á?"
+P12	Mótù-uù lum feyì fo mvəm. M lò e sə̀tí sí yém.
+P13	M kuúmé yè wor wùn fər wom woo lumèn mo á dzəə̀n fó laʼ.
+P14	Ntàm lòo dàr, mbuùné sí nèn lì mo.
+P15	M yìmèn a à háwà a shaá ne ànín, e yen a wiri fəə́kír ne, e mày.
+P16	Á bèy, m nèn tàʼ fo lav fər bàá wom dzəə̀n, e dù fo.
+
+images:
+
+illustrations/pages/15008.png
+illustrations/pages/14993.png
+illustrations/pages/14994.png
+illustrations/pages/14995.png
+illustrations/pages/14997.png
+illustrations/pages/14996.png
+illustrations/pages/14998.png
+illustrations/pages/14999.png
+illustrations/pages/15000.png
+illustrations/pages/15001.png
+illustrations/pages/15002.png
+illustrations/pages/15003.png
+illustrations/pages/15004.png
+illustrations/pages/15005.png
+illustrations/pages/15006.png
+illustrations/pages/15007.png
+illustrations/pages/15008.png
+
+translations:
+
+Arabic (Translation)	يوم تركت المنزل ذاهباً إلى المدينة	id=21879
+English (Original)	Day I Left Home for the City	id=15029
+English (Adaptation)	Going to the City	id=21398
+Kidawida (Translation)	Kwenda Muzi mbaha	id=22016
+Kiswahili (Translation)	Siku niliyokwenda Jijini	id=15032
+Kiswahili (Translation)	Kwenda Jijini	id=21999

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=22231&d=0&a=1
+id:	22231
+title:	Inda yakatswanyiwa
+author:	Lilian Chaminuka
+artist:	Magriet Brink
+lang:	ChiShona
+level:	First paragraphs
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22231.png
+desc:	Vakomana vaviri vanogamuchira kubatwa zvakanaka neinda
+
+page_text:
+
+P1	Kare kareko, kwaiva nevakomana vaviri vakarasa mombe dzavo. Vakatsvaka mombe dzavo kusvika zuva radoka.
+P2	Kunze kwasviba, vakaona chiedza pane imwe imba. Vakabvumirana kuenda kunokumbira pekurara.
+P3	Vakenda pamba iyoyo vakagugudza. Gonhi rakavhurwa vakapinda mumba. Vakomana havana kuona munhu. Asi vakanzwa izwi richivamhoresa.
+P4	Izwi rakati, "Ini ndiri inda. Vhurai poto iyo mudye kudya kurimo. Movhura hari iyo momwa mahewu arimo."
+P5	Inda yakapfeka ganda rayo ikabuda panze.
+P6	Vakomana vakadya, vakamwa vakatenda. Vakabuda mumba vakaenda havo.
+P7	Pavakabuda, vakafunga zvakashata. Vakati, "Kwete, izvi hazvina kuitika kuti tapihwa kudya nenda." Vakabvumirana kudzokera kunotswanya inda.
+P8	Vakadzokera kumba kuya vakatswanya inda. Pakare ipapo inda yakangoshaikwa, imba ikashaikwawo! Vakazongoona vave panze.
+
+images:
+
+illustrations/pages/9717.png
+illustrations/pages/9711.png
+illustrations/pages/9712.png
+illustrations/pages/9710.png
+illustrations/pages/9713.png
+illustrations/pages/9714.png
+illustrations/pages/9715.png
+illustrations/pages/9716.png
+illustrations/pages/9717.png
+
+translations:
+
+Afrikaans (Translation)	Die Luis Wat Doodgedruk Is	id=11298
+Afrikaans (Translation)	Die Platgetrapte luis	id=11397
+Afrikaans (Translation)	Vermorselde Luis	id=11521
+English (Translation)	Crushed Louse	id=9787
+French (Translation)	Le Pou Écrasé	id=10148
+isiNdebele (Translation)	Intwala Eputjukileko	id=13071
+isiXhosa (Translation)	Intwala eyatyunyuzwayo	id=16475
+isiZulu (Original)	Intwala eyachotshwa	id=9786
+Lámnsoʼ (Translation)	Shinser she á bvəʼəyin	id=15066
+Luganda (Translation)	Enffa Y’Ensekere	id=11904
+Portuguese (Translation)	O Piolho Esmagado	id=16563

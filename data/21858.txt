@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21858&d=0&a=1
+id:	21858
+title:	كتاب الطقس
+author:	Heba Tesheh
+artist:	Sandra McDougall
+lang:	Arabic
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21858.png
+desc:	كتاب الطقس. كتاب الطقس. كتاب الطقس.كتاب الطقس
+
+page_text:
+
+P1	إنه جاف.
+P2	الشمس حارة.
+P3	الرياح قوية.
+P4	إنه غائم.
+P5	إنه بارد.
+P6	إنه ماطر.
+P7	هناك رعد.
+P8	أنا أرى قوس المطر.
+
+images:
+
+illustrations/pages/1547.png
+illustrations/pages/1547.png
+illustrations/pages/1548.png
+illustrations/pages/1549.png
+illustrations/pages/1550.png
+illustrations/pages/1551.png
+illustrations/pages/1552.png
+illustrations/pages/1553.png
+illustrations/pages/1554.png
+
+translations:
+
+English (Original)	Weather Book	id=1861
+Kiswahili (Translation)	Kitabu cha hali ya hewa	id=2209
+Luganda (Translation)	Akatabo K’Obudde	id=2210
+Lugbarati (Translation)	Buku Angumile Niri	id=2720
+Lugbarati (Official) (Translation)	Búkù Àngù Mile Nɨ́ Rɨ̀	id=8762
+Lumasaaba (Translation)	Shiitabo Shishiwaamba Khu Bwiile	id=2211
+Lusoga (Translation)	Ekitabo Eky’Embeera   Ey’Obwire	id=21268
+Lusoga (Translation)	 Akatabo Ke`mbeera	id=21471
+Maa (Translation)	Impukunót Ó Oloing'áng'e	id=2415
+Nandi (Translation)	Bukit Ab Ole U Emet	id=17251
+Ng’aturkana (Translation)	Akitab Na Eboyor Akwap	id=2212
+Olukhayo (Translation)	Esitabu Sialinga	id=2213
+Oluwanga (Translation)	Eshitabu Shielihanga	id=2214
+Setswana (Translation)	Buka Ya Maemo a Bosa	id=2215
+Somali (Translation)	Ciwaan Ayaa Kama Qan	id=16763
+Spanish (Translation)	El Libro Del Clima	id=14405
+Zande (Translation)	Gu Buku Ngaga Wai Du Rago	id=17451

@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=21635&d=0&a=1
+id:	21635
+title:	Mbu msumbufu
+author:	Ursula Nafula
+artist:	Magriet Brink
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21635.png
+desc:	Sote tunajua sauti anayotoa mbu usiku. Mdudu mdogo lakini msumbufu kabisa!
+
+page_text:
+
+P1	Nilisikia, "Hodi! Hodi!"
+P2	"Ni nani, jamani?" Niliuliza huku nikisinzia.
+P3	"Ni mimi." Sauti inayokwaruza sikio ilinijibu.
+P4	"Nani ndiye 'Mimi'?" Niliuliza.
+P5	"Nilikwambia kuwa, ni-mi-mi tu." Sauti ile ile ilisema.
+P6	Niliajibu, "Mimi sijui mtu yeyote anayeitwa, 'ni-mi-mi tu.'" Nilitazama ikiwa chandarua changu kilikuwa kimenikinga vizuri.
+P7	"Jina langu ni Amosi." Sauti iliyokwaruza zaidi kuliko awali ilisema. Ilisikika ikiwa karibu sana na sikio langu.
+P8	"Amosi nani?" Niliuliza huku nikitazama ndani ya chandarua.
+P9	"Amosi Kuito." Hatimaye, sauti ilisema. Wakati huo huo niliumwa sikioni.
+P10	"Uui!" Niliruka juu na kuondoka kitandani. "Utalipia kitendo hiki!" Nilipiga kelele.
+P11	Kwa hasira, niliiasha taa kumtafuta adui wangu.
+P12	Nilitangaza vita dhidi ya Amosi Kuito msumbufu!
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+English (Original)	Annoying Mosquito	id=14893
+Setswana (Translation)	Monang O O Tshwenyang	id=14964

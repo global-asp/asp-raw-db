@@ -1,0 +1,41 @@
+url:	http://africanstorybook.org/reader.php?id=22082&d=0&a=1
+id:	22082
+title:	Mimi ni Moto!
+author:	Brigid Simiyu
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22082.png
+desc:	Moto unaeleza hadithi yake mwenyewe. Je
+
+page_text:
+
+P1	Hebu nikueleze hadithi kunihusu. 
+
+Ninaanza kama cheche ndogo.
+P2	Ninaenea kila mahali upepo unaponibeba.
+P3	Sisi ni marafiki wazuri.
+P4	Ninapika chakula chako.
+P5	Ninakupa mwangaza usiku.
+P6	Nina maarifa mengi.
+P7	Mimi ni mmoja wa familia yako.
+P8	Kuwa mwangalifu unaponialika nyumbani kwako. 
+
+Sipendi kuachwa peke yangu.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+English (Adaptation)	Fire's Story	id=9296

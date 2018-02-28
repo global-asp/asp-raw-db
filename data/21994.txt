@@ -1,0 +1,64 @@
+url:	http://africanstorybook.org/reader.php?id=21994&d=0&a=1
+id:	21994
+title:	Nyani aliyekuwa chifu
+author:	Ursula Nafula
+artist:	Isaac Okwir
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21994.png
+desc:	Wafuasi wa chifu huyu wangeyahoji masharti yake ya upuzi
+
+page_text:
+
+P1	Don alikuwa nyani mkubwa. 
+
+Alikuwa mchokozi.
+P2	Don ndiye alikuwa chifu wa nyani wengine.
+P3	Wafuasi wake walimpatia kitambaa maalum.
+P4	"Nitakivaa kichwani," Don alisema.
+P5	"Kila mmoja afuate masharti yangu. Msinihoji!" 
+Don alipiga kelele.
+P6	Wafuasi walimfuata chifu wao. 
+
+Don iliporuka, kila mmoja aliruka.
+P7	Lakini, kile kitambaa, kilimkaza sana.
+P8	Don aligusa kichwa alikoumia. 
+
+Nyani pia waligusa vichwa vyao.
+P9	"Hapa panuma," Don alisema. 
+
+Nyani pia walisema, "Hapa panauma."
+P10	Alisema, "Hii imekazika sana!" 
+
+Wao pia walisema, "Hii imekazika sana."
+P11	Don alianguka kutoka juu. 
+
+Wote walimuiga wakaanguka.
+P12	Nyani aliyekuwa chifu alikufa. 
+
+Wafuasi wake waliumia, lakini waliishi.
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldessa	id=18907
+English (Original)	Baboon Chief	id=18906
+English (Adaptation)	Baboon Chief	id=19751
+isiZulu (Translation)	Inkosi yezimfene	id=21913
+Ng’aturkana (Translation)	Ekatukon Ang'ichomin	id=20344

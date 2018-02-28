@@ -1,0 +1,79 @@
+url:	http://africanstorybook.org/reader.php?id=21995&d=0&a=1
+id:	21995
+title:	Anansi mwenye wivu
+author:	Ursula Nafula
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21995.png
+desc:	Wivu wa Anansi ulisababisha abaki maskini.
+
+page_text:
+
+P1	Anansi na Sungura walikuwa marafiki. 
+
+Anansi alionea wivu mali ya Sungura.
+P2	Anansi alimfukuza Sungura. 
+
+Akachukuwa shamba lake.
+P3	Anansi aliuza mazao yote.  
+
+Alipata pesa nyingi.
+P4	Anansi alirudi nyumbani. 
+
+Alikibeba kikapu kichwani.
+P5	Anansi alikiweka kikapu chini. 
+
+Alienda kujikinga asinyeshewe.
+P6	Muvua ilisababisha mafuriko.
+
+Anansi alijificha shimoni.
+P7	Tai alikiona kikapu.
+
+Alikifunika kwa mabawa yake.
+P8	"Kikapu hiki ni changu," Tai alisema. 
+
+"Ni changu!" Anansi alipiga kelele.
+P9	Tai alisema, "Nilipata mahindi na pesa bila
+mwenyewe."
+P10	Chifu na wazee wake walichukuwa muda kuamua nani alisema ukweli.
+P11	Hatimaye, walisema, "Tai anasema ukweli. Kikapu ni chake."
+P12	Sungura alirudi katika shamba lake.
+
+Anansi hakuwa na pesa wala marafiki.
+
+images:
+
+illustrations/pages/166.png
+illustrations/pages/157.png
+illustrations/pages/158.png
+illustrations/pages/159.png
+illustrations/pages/160.png
+illustrations/pages/161.png
+illustrations/pages/162.png
+illustrations/pages/163.png
+illustrations/pages/164.png
+illustrations/pages/166.png
+illustrations/pages/165.png
+illustrations/pages/168.png
+illustrations/pages/167.png
+
+translations:
+
+Afrikaans (Translation)	Anansi en Vulture	id=11547
+Afrikaans (Translation)	Anansi en Aasvoël	id=11557
+Ateso (Translation)	Anansi Keda Atarukot	id=20960
+English (Original)	Anansi and Vulture	id=996
+English (Adaptation)	Jealous Anansi	id=21247
+French (Translation)	Anansi Et Vautour	id=10140
+isiZulu (Translation)	Uanansi Nenqe	id=11409
+Kidawida (Translation)	Iriso ja Mbughimbughi	id=22024
+Kiswahili (Translation)	Anansi na Tai	id=1017
+Lámnsoʼ (Translation)	Taàŋgám wùn K,iluŋŋgùrúʼ kí	id=15059
+Luganda (Translation)	Anansi Ne Wampungu	id=2065
+Lugbarati (Translation)	Ibio Pi Roko Be	id=2268
+Lugbarati (Official) (Translation)	Ìbíó Pi Ròkó Be	id=8776
+Lumasaaba (Translation)	Manaasi Ni Ingosya	id=3008
+Lunyole (Translation)	Haŋambi N'esega	id=3009
+Portuguese (Translation)	Anansi E O Abutre	id=15804

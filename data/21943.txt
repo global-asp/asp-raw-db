@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=21943&d=0&a=1
+id:	21943
+title:	Itsikiri kaNamu
+author:	Phephelaphi Mnguni and Sponono  Mahlangu
+artist:	Salim Kasamba
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21943.png
+desc:	Ifene ikhamba ngetsikiri kaNamu! Abentwana bagijimisa ifene.
+
+page_text:
+
+P1	UNamu nomfowabo sebalungele ukuya esikolweni.
+P2	UNamu ukhweza umfowabo etsikirini.
+P3	Abangani babo bayabakwakwazelela nebaya esikolweni.
+P4	Lokha nabangekumbeni, kwafika ifene ngaphandle. 
+
+Ifene yakhamba ngetsikiri kaNamu.
+P5	Abentwana bagijimisa ifene.
+P6	Ifene yatjhiya itsikiri ngaphasi komuthi.
+P7	Ifene yadudela esihlengeleni sedamu. 
+
+Yakhwelela phezulu emthini.
+P8	Ifene yaphakamisa isandla yalayelisa. Abentwana nabo baphakamisa izandla bayilayelisa. 
+
+UNamu uyitholile godu itsikiri yakhe.
+
+images:
+
+illustrations/pages/13433.png
+illustrations/pages/13429.png
+illustrations/pages/13430.png
+illustrations/pages/13431.png
+illustrations/pages/13432.png
+illustrations/pages/13433.png
+illustrations/pages/13434.png
+illustrations/pages/13435.png
+illustrations/pages/13436.png
+
+translations:
+
+Afrikaans (Translation)	Namu se Fiets	id=20087
+Afrikaans (Translation)	Namu se fiets	id=22356
+English (Translation)	Namu's Bicycle	id=13922
+French (Translation)	La Bicyclette De Namukuru	id=14968
+isiXhosa (Translation)	Ibhayisekile kaNamukuru	id=14120
+isiZulu (Translation)	Ibhayisikili likaNamakuru	id=15049
+Lunyole (Adaptation)	Egaali	id=16576
+Oluwanga (Original)	Lishene Ne Ingarangarani	id=13921
+Portuguese (Translation)	A Bicicleta De Namukuru	id=17618
+Sesotho (South Africa) (Translation)	Baesekele Ya Namukuru	id=14510
+Sesotho (South Africa) (Translation)	Baesekele ya Seipati	id=20039
+Setswana (Translation)	Baesekele Ya Ga Bontle	id=21780
+Siswati (Translation)	Libhayisikili laNamu	id=21738
+Tshivenda (Translation)	Lukanyakanya Lwa Namukuru	id=14775
+Xitsonga (Translation)	Xikanyakanya Xa Masesi	id=14518

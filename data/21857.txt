@@ -1,0 +1,58 @@
+url:	http://africanstorybook.org/reader.php?id=21857&d=0&a=1
+id:	21857
+title:	تينغي و البقر
+author:	Heba Tesheh
+artist:	Ingrid Schechter
+lang:	Arabic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21857.png
+desc:	واختبؤا بين الشجيرات حتى الليل. اخبئت الجدة تينغي تحت الأوراق
+
+page_text:
+
+P1	تينغي يعيش مع جدته.
+P2	هو اعتاد أن يهتم بالبقر معها.
+P3	في أحد الأيام جاء الجنود.
+P4	وأخذوا البقر بعيدا.
+P5	هرب تينغي وجدته بعيدا واختبؤا.
+P6	واختبؤا بين الشجيرات حتى الليل.
+P7	ثم عاد الجنود.
+P8	اخبئت الجدة تينغي تحت الأوراق.
+P9	وضع أحد الجنود قدمه على يمينه ، لكنه بقي هادئا.
+P10	عندما صار المكان آمنا ، خرج تينغي و جدته.
+P11	وتسللوا إلى بيتهم ببطئ.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the Cows	id=7441
+English (Adaptation)	Tingi And The Cows - Colouring Book	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	Ubongani Neenkomo	id=13046
+isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
+isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Kinyarwanda (Translation)	Karisa N'inka	id=20255
+Luganda (Translation)	Tingi N’Ente	id=8343
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

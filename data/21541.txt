@@ -1,0 +1,69 @@
+url:	http://africanstorybook.org/reader.php?id=21541&d=0&a=1
+id:	21541
+title:	Go Tsamaya Mmogo
+author:	Peter Mekgwe
+artist:	Louwrisa Blaauw
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21541.png
+desc:	Fa re tsamaya mmogo mme tsela e le telele
+
+page_text:
+
+P1	Fa re tsamaya mmogo mme tsela e le telele, re tsamaya mmogo re opela.
+P2	Ke na le wena, o na le nna. 
+
+Go monate go tsaya leeto le lelapa.
+P3	Ke tla go thuthafatsa jaaka koko e namagadi e dira. 
+
+E thuthafatsa dikokwana ka diphuka tsa yone.
+P4	Fa pula e simolola go na, ke tla sireletsa sefatlhego sa gago jaaka hutse eno e dira.
+P5	Fa go biloga maru a a boitshegang a pula ya matlakadibe, se boife, o lelelang? Ga o nosi.
+P6	Re tsamaya mmogo e bile ga re ke re lapisiwa ke gone. 
+
+Leba fela mo tikologong! Bona bontle jo bo kana kang!
+P7	Fa o bona sengwe se se tshegisang, o mpolelele ka sone.
+P8	Fa dinao tsa gago di simolola go opa ka ntlha ya leeto le le telele, se tshwenyege, re fitlhile! 
+
+Bona, tliliniki ke e.
+P9	Rotlhe re tshwanetse go tlhatlhobiwa mometso, makgwafo le ditsebe. 
+
+O tshwanetse go nonofa fa o ntse go gola, o se ka wa koafala.
+P10	A o tshogile? Ntshware ka seatla. 
+
+Ngaka e tla tlhatlhoba kgatelelo ya gago ya madi ka go gagamatsa lebanta mo lebogong la gago.
+P11	Ba re naya molemo, ba re bolelela dilo tse re tshwanetseng go di itse, gore re itekanele. 
+
+A re boele gae jaanong.
+P12	O lapile tota, re bone dilo tse dintsi. Ke nako ya gore o robale. 
+
+Robala sentle o ikhutse.
+
+images:
+
+illustrations/pages/16426.png
+illustrations/pages/16426.png
+illustrations/pages/16427.png
+illustrations/pages/16428.png
+illustrations/pages/16429.png
+illustrations/pages/16430.png
+illustrations/pages/16431.png
+illustrations/pages/16432.png
+illustrations/pages/16433.png
+illustrations/pages/16434.png
+illustrations/pages/16435.png
+illustrations/pages/16436.png
+illustrations/pages/16437.png
+
+translations:
+
+English (Original)	Walking Together	id=16438
+isiNdebele (Translation)	Sikhamba Ndawonye	id=21542
+isiXhosa (Translation)	Ukuhamba Kunye	id=21561
+isiZulu (Translation)	Ukuhambisana	id=21563
+Sepedi (Translation)	Go Sepela Mmogo	id=21424
+Sesotho (South Africa) (Translation)	Ho Tsamaea 'moho	id=21647
+Siswati (Translation)	Sihamba Kanyekanye	id=21564
+Tshivenda (Translation)	Ri Tshi Khou Tshimbila Roṱhe	id=21566
+Xitsonga (Translation)	Ku Famba Swin'we Hi Milenge	id=21565

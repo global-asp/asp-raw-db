@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=21695&d=0&a=1
+id:	21695
+title:	Unkukhu Lo Tshongololo
+author:	Jerry Mathema
+artist:	Magriet Brink
+lang:	IsiNdebele (Zimbabwe)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21695.png
+desc:	Inkukhu le Tshongololo balobungane bokutshikilisana. Ngelinye ilanga uNkukhu uzonda edle amahabula ngokwehluleka acine esenza into yobuwula.
+
+page_text:
+
+P1	UNkukhu lo Tshongololo ngabangane boqotho.
+P2	Bayahamba bayedlala ibhola lenyawo.
+P3	UNkukhu ugcina esangweni lebhola lenyawo.
+P4	UTshongololo uhlohla amabhola amahlanu.
+P5	UNkukhu usethukuthele.
+P6	UNkukhu udla uTshongololo.
+P7	UNkukhu uhlangana lomama kaTshongololo.
+P8	"Ngisiza we mama!" esiqhinqa isililo uTshongololo.
+P9	UNkukhu usegula.
+P10	UTshongololo kahlabusi.
+P11	UNkhukhu uhlanza uTshongololo.
+P12	UTshongololo ucela enyaweni.UNkukhu loTshongololo baqala ukuba yizitha.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+English (Adaptation)	Chicken And Millipede	id=9097
+English (Adaptation)	Duck and Blind Snake	id=10021
+English (Adaptation)	Chicken And Millipede	id=10945
+Lukhonzo (Translation)	Wangoko na Wakinyanyangolho	id=22387
+Lusoga (Translation)	Wankoko ni Waigongolo	id=21262

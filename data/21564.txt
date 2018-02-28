@@ -1,0 +1,74 @@
+url:	http://africanstorybook.org/reader.php?id=21564&d=0&a=1
+id:	21564
+title:	Sihamba Kanyekanye
+author:	Bangula Lingo Centre cc
+artist:	Louwrisa Blaauw
+lang:	Siswati
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21564.png
+desc:	Uma sihamba kantsi futsi nemgwaco umudze
+
+page_text:
+
+P1	Uma sihamba kantsi futsi nemgwaco umudze, sitawuhamba kanyekanye sihlabela ingoma.
+P2	Nginawe futsi nawe unami.
+
+Luhambo lumnandzi nawuluhamba nemndeni.
+P3	Ngitakugcina ufutfumele njengesikhukhukati.
+
+Sigcina emantjwele aso afutfumele ngaphansi kwetiphiko taso.
+P4	Uma ngabe litulu liyana, ngitawufanana nesigcoko lesikahle. 
+
+Ngitawugcina buso bakho bomile.
+P5	Nangabe emafu esivunguvungu abutsana atfukutsela futsi avungutela, mani sibindzi, ukhalelani?
+Awuwedvwa.
+P6	Sihamba kanyekanye ngako-ke asiphatfwa situnge. 
+
+Buka etulu! Buka yonkhe indzawo lekutungeletile! Buka lapho besihamba khona!
+P7	Nangabe ubona intfo lenhle lejabulisako nawuyibuka, angifuni kutsi ingendlule. 
+
+Ngicela kutsi ungikhombise!
+P8	Nangabe tinyawo takho seticala kuba buhlungu ngenca yelibanga lesesilihambile, ungakhatsateki, sincobile! 
+
+Ekugcineni nangu umtfolamphilo.
+P9	Sonkhe sidzinga kuhlola imiphimbo yetfu, emaphaphu netindlebe.
+
+Cina lapho ukhula, akusiso sizatfu setinyembeti.
+P10	Awucabangi nje kutsi kuyetfusa? Bamba nasi sandla sami.
+
+Utakuhlola ihayihayi nganali libhande lasemkhonweni lelihlakaniphile.
+P11	Basinika imitsi yetfu, basitjele loko lekufanele kutsi sikwati, kusigcina sonkhe siphile. 
+
+Manje sesibuyela emuva ekhaya.
+P12	Kulungile kudzinwa, kunyenti lesikubonile. Manje sesikhatsi sakho sekulala. 
+
+Lala kahle futsi uphumule kamnandzi.
+
+images:
+
+illustrations/pages/16426.png
+illustrations/pages/16426.png
+illustrations/pages/16427.png
+illustrations/pages/16428.png
+illustrations/pages/16429.png
+illustrations/pages/16430.png
+illustrations/pages/16431.png
+illustrations/pages/16432.png
+illustrations/pages/16433.png
+illustrations/pages/16434.png
+illustrations/pages/16435.png
+illustrations/pages/16436.png
+illustrations/pages/16437.png
+
+translations:
+
+English (Original)	Walking Together	id=16438
+isiNdebele (Translation)	Sikhamba Ndawonye	id=21542
+isiXhosa (Translation)	Ukuhamba Kunye	id=21561
+isiZulu (Translation)	Ukuhambisana	id=21563
+Sepedi (Translation)	Go Sepela Mmogo	id=21424
+Sesotho (South Africa) (Translation)	Ho Tsamaea 'moho	id=21647
+Setswana (Translation)	Go Tsamaya Mmogo	id=21541
+Tshivenda (Translation)	Ri Tshi Khou Tshimbila Roṱhe	id=21566
+Xitsonga (Translation)	Ku Famba Swin'we Hi Milenge	id=21565

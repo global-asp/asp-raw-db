@@ -1,0 +1,90 @@
+url:	http://africanstorybook.org/reader.php?id=21816&d=0&a=1
+id:	21816
+title:	Ushauri mbaya
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Brian Wambi
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21816.png
+desc:	Wanaume wawili wanashauriwa vibaya na hakimu. Baadaye
+
+page_text:
+
+P1	Kombe na Juma walikuwa maskini pia jirani.
+
+Walifanya kila kitu wenyewe.
+P2	Walitamani kuwa na punda.
+
+Punda angewabebea mizigo.
+P3	Kombe akasema, "Hebu tununue punda pamoja."
+
+Walifurahia hatua hiyo.
+P4	Babake Kombe alipofariki, Kombe alitajirika.
+
+Alimsahau Juma.
+P5	Kombe alitaka nyama ya punda amlishe mbwa wake.
+
+Juma alihitaji punda.
+P6	Hakimu aliwaambia, "Kila mmoja wenu anaweza kuchukua nusu ya punda."
+P7	Kombe alimchinja punda.
+
+Juma alijibebebea vitu kwa mara nyingine.
+P8	Kombe alitaka kuteketeza chumba chake ili ajenga kipya.
+P9	Juma alisema, "Changu pia kitachomeka."
+
+Hakimu alikubaliana na Kombe.
+P10	Chumba cha Juma kiliungua.
+
+Hakimu alisema, "Kombe aliteketeza chake."
+P11	Juma hakuwa na punda wala chumba.
+
+Alilala chini ya mti.
+P12	Juma alifanya kazi kwa bidii.
+
+Alipata mazao mazuri ya mbaazi.
+P13	Wavulana wa Kombe walikula mbaazi karibu wazimalize zote.
+P14	Walimwambia Juma, "Nenda umwulize baba akulipe mbaazi zako."
+P15	Juma alisema, "Sitaki pesa zenu. Ninataka mbaazi zangu."
+P16	Hakimu alimwambia Juma, "Wakate wavulana halafu uchukue mbaazi zako."
+P17	Juma alikataa kusikiliza alivyoambiwa.
+
+Kombe alilia, "Hebu wazee waamue."
+P18	Wazee walisema, "Ulimuua punda. Ulichoma chumba chake."
+P19	Walimwambia Juma, "Kuwaua wavulana wa Kombe ni vibaya pia."
+P20	Kombe alimpatia Juma nusu ya mali yake.
+
+Wakaishi kwa furaha.
+
+images:
+
+illustrations/pages/17057.png
+illustrations/pages/17050.png
+illustrations/pages/17052.png
+illustrations/pages/17053.png
+illustrations/pages/17054.png
+illustrations/pages/17055.png
+illustrations/pages/17057.png
+illustrations/pages/17058.png
+illustrations/pages/17060.png
+illustrations/pages/17061.png
+illustrations/pages/17062.png
+illustrations/pages/17063.png
+illustrations/pages/17064.png
+illustrations/pages/17066.png
+illustrations/pages/17068.png
+illustrations/pages/17069.png
+illustrations/pages/17070.png
+illustrations/pages/17071.png
+illustrations/pages/17073.png
+illustrations/pages/17074.png
+illustrations/pages/17075.png
+
+translations:
+
+English (Original)	Unwise Judge	id=17115
+English (Adaptation)	Wrong Advice	id=21795
+Kinyarwanda (Translation)	Umucamanza Mubi	id=22143
+Kiswahili (Translation)	Hakimu asiyekuwa na busara	id=17135
+Portuguese (Translation)	Juiz Insensato	id=17118
+Portuguese (Translation)	Juiz Insensato	id=17133

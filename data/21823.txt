@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=21823&d=0&a=1
+id:	21823
+title:	الماعز و الكلب و البقرة
+author:	Heba Tesheh
+artist:	Marleen Visser
+lang:	Arabic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21823.png
+desc:	الماعز و الكلب و البقرة كانوا أصدقاء جدا. في أحد الأيام ذهبوا رحلة بسيارة أجرة
+
+page_text:
+
+P1	الماعز و الكلب و البقرة كانوا أصدقاء جدا. في أحد الأيام ذهبوا رحلة بسيارة أجرة.
+P2	عندما وصلوا إلى نهاية الرحلة ،طلب منهم السائق أجرة رحلتهما. دفعت البقرة ماعليها.
+P3	دفع الكلب زيادة ،لأنه لم يكن يعرف المبلغ المطلوب.
+P4	بينما كان السائق يعطي الكلب باقي النقود ،هربت الماعز بعيدا.
+P5	غضب السائق جدا فتركهم ورحل بسيارته دون أن يعطي الكلب باقي نقوده.
+P6	لهذا السبب يركض الكلب،حتى اليوم أمام كل سيارة ،وينظر إليها نظرة سريعة للبحث عن السائق الذي أخذ باقي النقود.
+P7	أما الماعز فقد كانت تهرب عندما تسمع صوت أي سيارة فهي تخاف أن يقبض عليها لأنها لم تدفع ما عليها من النقود.
+P8	أما البقرة فهي لاتهتم عندما تأتي أي سيارة. وتأخذ كثل وقتها بعبور الشارع لأنها تعرف أنها دفعت كل ماعليها كاملا.
+
+images:
+
+illustrations/pages/6372.png
+illustrations/pages/6371.png
+illustrations/pages/6373.png
+illustrations/pages/6374.png
+illustrations/pages/6375.png
+illustrations/pages/6376.png
+illustrations/pages/6377.png
+illustrations/pages/6378.png
+illustrations/pages/6379.png
+
+translations:
+
+Afrikaans (Translation)	Bok, Hond en Koei	id=11138
+Anii (Translation)	Nnanarɩ, asna n'ʊce	id=22329
+Dhopadhola (Translation)	Dyel, Gwok Kodi Dhyaŋ	id=16481
+English (Translation)	Colour-In Goat, Dog And Cow	id=6380
+English (Adaptation)	Goat, Dog, and Cow With Tv	id=13529
+French (Translation)	La Chèvre, Le Chien Et La Vache	id=10839
+isiNdebele (Translation)	Imbuzi, Inja Nekomo	id=7670
+isiZulu (Translation)	Imbuzi, Inja Nenkomo	id=7491
+Kikamba (Translation)	Mbui, Ngiti Na Ng'ombe	id=9686
+Kiswahili (Translation)	Mbuzi, Mbwa na Ng'ombe	id=7868
+Luganda (Translation)	Wambuzi, Wambwa Ne Wante	id=7787
+Lumasaaba (Original)	Imbusi, Imbwa Ni Ngaafu	id=6730
+Lunyole (Translation)	Embusi, Embwa N’Eŋombe	id=8397
+Maa (Translation)	Enkíné, Oldía Ó Enkíténg	id=7867
+Ng’aturkana (Translation)	Akine, Ing'ok Ka Aite	id=7014
+Oluwanga (Translation)	Imbusi, Imbwa Nende Ing’Ombe	id=8279
+Portuguese (Translation)	A Cabra, O Cachorro E a Vaca	id=16419
+Rutooro (Translation)	Embuzi, Embwa, N’Ente	id=14925
+Sesotho (Lesotho) (Adaptation)	Khomo, Pooli, Le Ntja, Le Tv	id=13553
+Setswana (Translation)	Podi, Ntšwa Le Kgomo	id=7771

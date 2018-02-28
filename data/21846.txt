@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=21846&d=0&a=1
+id:	21846
+title:	خلاي تتحدث إلى النباتات
+author:	Heba Tesheh
+artist:	Jesse Pietersen
+lang:	Arabic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21846.png
+desc:	خلاي تتحدث إلى النباتات. هذه خلاي عمرها سبع سنين معنى اسمها الشخص الجيد يدعا في لغتها لوبوكوزو
+
+page_text:
+
+P1	هذه خلاي عمرها سبع سنين معنى اسمها الشخص الجيد يدعا في لغتها لوبوكوزو.
+P2	تستيقظ خلاي كل صباح و تقول لشجرة البرتقال أرجوك يا شجرة البرتقال اكبري وأعطينا الكثير من البرتقال الطازج.
+P3	تمشي خلاي إلى المدرسة ،وفي طريقها تتحدث مع الأعشاب أرجوك أيتها الأعشاب اكبري وابقي خضراء ولاتجف.
+P4	تمر خلاي أمام الأزهار البرية أرجوك أيتها الأزهار ابقي مزهرة لأستطيع أن أضعك فوق شعري.
+P5	في المدرسة تتحدث مع الشجرة التي في منتصف المبنى أرجوكي أيتها الشجرة مدي أغصانك الكبيرة لنستطيع القراءة تحت ظلك.
+P6	تتحدث خلاي مع الشجيرات الصغيرة أرجوك اكبري وكوني قوية لتمنعي الأشخاص السيئين من الدخول.
+P7	عندما تعود خلاي إلى البيت ،تزور شجرة البرتقال ، وتسألها ألم يصبح برتقالك طازجا بعد؟
+P8	تتنهد خلاي البرتقال بقي أخضرا ثم تقول سوف أراك يا شجرة البرتقال غدا بعدها ربما سيكون لديك برتقالا طازجا لي.
+
+images:
+
+illustrations/pages/13389.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief vir Plante	id=20091
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+IciBemba (Translation)	Maluba Ali Temwa Ifilimbwa	id=20786
+isiNdebele (Translation)	UPalesa uthanda iintjalo	id=21948
+isiXhosa (Translation)	UPalesa uthanda izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai aizungumzia mimea	id=13544
+Lámnsoʼ (Translation)	Kalay súŋnen e viŋgà ví	id=22284
+Mampruli (Translation)	Suhuyini Wuri Bunbula 	id=20120
+Sesotho (South Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa o rata dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+SiLozi (Translation)	Palisa Ulata Licalo	id=20776
+Siswati (Translation)	Palesa utsandza titjalo	id=21741
+Talen (Translation)	Palesa Nɔŋa Tebula	id=20202
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=22414&d=0&a=1
+id:	22414
+title:	Kán wùn Kuúrá
+author:	Beatrice Tafon Takeh and Mbinkar Emmanuel Keelen
+artist:	Salim Kasamba
+lang:	Lámnsoʼ
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22414.png
+desc:	A dzə̀ yiì tìnén la nsaʼ Kán wùn Kuúrá.
+
+page_text:
+
+P1	Kán wùn Kuúrá-aà biʼ mbìʼ. Áwune dù e yèn loóyà.
+P2	Loóyà nèn kwàʼtì jii, "Kán lo e yi ŋgwàsáŋ wom, é kuúrá kfər nàʼ wom."
+P3	Loóya suúy e kán wùn kuúrá jii áwune du e yèn á ŋgày sé wìr seé ntèʼ.
+P4	Ŋgày sé wìr si nèn dù a fàn fo tinén nsaʼ e yì koó kán kìn Kuúrá.
+P5	Ŋgày sé wìr si yòŋ e Kán wùn Kuúra ji nsaʼ yee shoon tàv á feyì.
+P6	Áwune nèn yòŋ e Kán wùn Kuúrá jii, áwune du e yèn a wiíy woo ŋgaà kitàn.
+P7	Wiíy woo ŋgaà kitàn və̀y biímé ji wun-éè tínén a nsaʼ yev.
+P8	Wù yòŋ Kuúra e sùúy jii, "À fàŋ, a dzə̀ ntav, a wíri ghvə́m wo."
+P9	Kuúrá bínsí jii, "À suuy rú. M lo e màʼtì mbìʼ və̀n."
+P10	Wù yòŋ e kán jii, "À kér vifií é ŋàŋ fo lò a taŋnén bèn." Kán biímé.
+P11	Wù suúy jii, "Mo ven biimen ne ji kitáŋnèn ki wàá may, wìr làysìn ri jay wìr."
+P12	Á bèy wiíy woo ŋgaà kitàn və̀y nèn màyìr kinyo kìy.
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18696.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18708.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18706.png
+illustrations/pages/18707.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+Afaan Oromo (Adaptation)	Warabessaafi Qaamale	id=21771
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	Colour-In Hyena And Monkey 	id=20157
+English (Adaptation)	Monkey And Hyena	id=21395
+Kiswahili (Translation)	Kima na Fisi	id=21841
+Kiswahili (Translation)	Mzozo wa Fisi na Kima	id=22061

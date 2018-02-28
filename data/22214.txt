@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=22214&d=0&a=1
+id:	22214
+title:	Sei Ajao asina kuvigwa
+author:	Lilian Chaminuka
+artist:	Jesse Breytenbach
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22214.png
+desc:	Ajao muremwaremwa here kana kuti ishiri kana kuti imbeva?
+
+page_text:
+
+P1	Muremwaremwa anonzi Ajao aiva akarara mumba make achirwara. Paiva pasina anomubatsira.
+P2	Ajao akabva ashaika.
+P3	Vavakidzani vakati, "Ajao ashaika. Tinofanirwa kudana hama dzake dzimuvige."
+P4	Vavakidzani vakaenda kunodana shiri vachiti, "Hama yenyu yashaya."
+P5	Shiri dzakauya dzikaona Ajao. Dzakati, "Iyi mhuka haisi hama yedu."
+P6	"Isu mhuri yedu ine manhenga asi Ajao haana. Saka, haasi umwe wedu." Shiri dzakabva dzaenda.
+P7	Vavakidzani vakaunganazve vachitaurirana. Vakabvumirana, "Shiri dzataura chokwadi. Ajao haana manhenga. Saka haasi hama yadzo."
+P8	Umwe wevavakidzani akati, "Anogona kuve ari wemhuri yembeva. Anoratidzika sembeva."
+P9	Vavakidzani vakaenda kunodana mbeva vachiti, "Hama yenyu yashaya."
+P10	Mbeva dzakauya dzikaona Ajao dzikati, "Iyi mhuka haisi hama yedu."
+P11	" Mumhuri yedu tese tine miswe. Ajao haana muswe."  Mbeva dzakabva dzikaenda.
+P12	Hapana hama dza Ajao dzakawanikwa kusvikira nanhasi haasati avigwa.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+English (Translation)	Why Ajao Was Not Buried	id=16988
+Kiswahili (Translation)	Kwa nini Ajao hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

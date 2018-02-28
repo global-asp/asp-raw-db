@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=21903&d=0&a=1
+id:	21903
+title:	Rusake Na  Nyiramuhari
+author:	Epimaque Niyibizi
+artist:	Wiehan de Jager
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21903.png
+desc:	Rusake yabeshye izindi nyamaswa zose
+
+page_text:
+
+P1	Kera inyamaswa zose zarabanaga kandi zari inshuti. Umunsi umwe, ziyemeza gukora inama kugira ngo zitoremo umwami.
+P2	Rusake yifuje kuba umwami bituma ibeshya izindi nyamaswa. Irazibwira iti: "Iri sunzu ritukura riri ku mutwe wanjye ni umuriro! Ntihazagire urikoraho!"
+P3	Izindi nyamaswa zemera ko ibyo Rusake yazibwiye ari byo. Ziyemeza gutora Rusake nk'umwami wazo. Inyamaswa zizeraga ko umuriro Rusake ifite ku mutwe uzazifasha mu gihe cy'ubukonje.
+P4	Nuko umunsi umwe imvura iragwa. Iragwa ye. Irakomeza iragwa koko. Maze harakonja. Buri kintu cyose cyari gitose kandi gikonje.
+P5	Bakame ibaza izindi nyamaswa iti: "Ni hehe twakura umuriro kugira ngo twote?"
+P6	Inkende irasubiza iti: "Twakura umuriro ku isunzu rya Rusake." Inkende yungamo iti: "Rusake ni umwami wacu kubera ko afite umuriro ku mutwe."
+P7	Nuko inyamaswa zemeranya na Nkende. Zohereza Nyiramuhari kujya kuzana umuriro iwukuye ku mwami wabo Rusake.
+P8	Nyiramuhari isanga Rusake isinziriye. Nuko yiyemeza kurahura umuriro itabanje kubaza Rusake.
+P9	Nyiramuhari itora ibyatsi byumye. Yegereza ibyatsi ku isunzu riri rya Rusake. Ntihagira ikiba. Ibyatsi ntibyigeze bifata umuriro.
+P10	Nyiramuhari iriyamira iti: "Byuka Rusake mwami wacu! Dukeneye umuriro nonaha."
+P11	Nyamara Rusake ntiyabasha guha Nyiramuhari umuriro.
+P12	Nyiramuhari irarakara. Isubirayo isanga izindi nyamaswa. Izibwira ukuri kw'isunzu rya Rusake. Kuva uwo munsi, nta nyamaswa yongeye gutinya Rusake. Nuko za Nyiramuhari zitangira kujya zirya Rusake n'imiryango yazo.
+
+images:
+
+illustrations/pages/14805.png
+illustrations/pages/14795.png
+illustrations/pages/14796.png
+illustrations/pages/14797.png
+illustrations/pages/14798.png
+illustrations/pages/14799.png
+illustrations/pages/14800.png
+illustrations/pages/14801.png
+illustrations/pages/14802.png
+illustrations/pages/14803.png
+illustrations/pages/14804.png
+illustrations/pages/14805.png
+illustrations/pages/14806.png
+
+translations:
+
+English (Original)	Fox and Rooster	id=14792
+English (Adaptation)	Rooster Cheats	id=21379
+Kiswahili (Translation)	Jimbi adanganya	id=21838
+Lunyole (Translation)	Wahibbwe Ni Wadwaya	id=16420

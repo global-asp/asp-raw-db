@@ -1,0 +1,54 @@
+url:	http://africanstorybook.org/reader.php?id=22284&d=0&a=1
+id:	22284
+title:	Kalay súŋnen e viŋgà ví
+author:	Beatrice Tafon Takeh and Mbinkar Emmanuel Keelen
+artist:	Jesse Pietersen
+lang:	Lámnsoʼ
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22284.png
+desc:	Kalay dzə̀ shiwán shee wiíy
+
+page_text:
+
+P1	Və̀n dzə̀ Kalay. Wù dzə̀ viyá saàmbà. Nsàv yìr rə́ dzə̀ jii, 'wán wo juŋ.'
+P2	Kalay yìmèn, e nèn a suŋnén e kicí ke órèn ki. "Kicí ké órèn, kii wò, á kuy cércér, a fo ver órèn wo baŋèn e nín."
+P3	Kalay du fo shikur. Wù lóo dù e dzəə, wù wàa suŋnén e viŋgà ví. "Viŋgà, kii vèn, vèn kú a tèʼ a səəné səənén, lá vèn yùm."
+P4	Kalay yèn ne flǎwà. "Flǎwà, kii vèn, vèn kú a tèʼ, a fo vibuushì ve m wáa sòvtì e mǒ kitu."
+P5	Kalay súŋnen e kicí kí aáwune shikur. "Kicí, kii wò, ku fə̀ə́r tám se faŋkìn sí, é sí wáa fo kindzəə̀ndzəm ke vèr wáa yò̀ŋ ŋwaʼ e sar wo."
+P6	Kalay súŋnen e kay ye á bìyìn e kaàrí shikur sho. "Kay, kii wò, kúy e tàv, e nèn a kìŋsìn ver fo wír ve bií."
+P7	Kalay kfə́n fo laʼ, wù dù e ghàn kicí ké órèn. Wù dù wù dzə̀r jii, "Órèn à tàvkír ne à?"
+P8	Wù shwém e sùúy jii, "Órèn woo shó dzə̀ə́ e bór." Wù sháʼtí kicí ké órèn jii, "Wòsò bèr kibvəə́shí. A tàm m bvəə̀shí a wìy aà sí kér órèn wo tavkín wo dzə̀ m nyòŋ."
+
+images:
+
+illustrations/pages/13389.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief vir Plante	id=20091
+Arabic (Translation)	خلاي تتحدث إلى النباتات	id=21846
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+IciBemba (Translation)	Maluba Ali Temwa Ifilimbwa	id=20786
+isiNdebele (Translation)	UPalesa uthanda iintjalo	id=21948
+isiXhosa (Translation)	UPalesa uthanda izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai aizungumzia mimea	id=13544
+Mampruli (Translation)	Suhuyini Wuri Bunbula 	id=20120
+Sesotho (South Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa o rata dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+SiLozi (Translation)	Palisa Ulata Licalo	id=20776
+Siswati (Translation)	Palesa utsandza titjalo	id=21741
+Talen (Translation)	Palesa Nɔŋa Tebula	id=20202
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

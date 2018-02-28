@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=21685&d=0&a=1
+id:	21685
+title:	Kumhanya Kwemubatanidzwa Weafrica
+author:	Debra Chibaya
+artist:	Brian Wambi
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21685.png
+desc:	Inyaya yevakomana vaviri vakamhanya munyika dzemuAfrica vachikurudzira kubatana. Vekunedzimwe nyika vakabatana navo pakumhanya.
+
+page_text:
+
+P1	Mdogo naJuma ishamwari dzinofarira kumhanya. Vanomhanya vese zuva nezuva.
+P2	Rimwe zuva Juma akati, "Ngatimhanye tichidambura nemunyika dzemuAfrica, uyezve tichitsigira kubatana kwevanhu!" "Ngatimhanye!" akadavira nemufaro Mdogo.
+P3	Vakaronga kuti vatakure mwenje wemubatanidzwa parwendo rwavo. Vakatanga kumhanya vachibvira kuchamhembe kuCape Town.
+P4	Kubva South Africa, vakananga kumadokero emhenderekedzo yenyanza. Vakamhanya vachidambura nemuNamibia, Angola, DRC, Congo neCameroon. Vakazonozorora vave muAbuja.
+P5	Vamhanyi vekumadokero vakamhanya neshamwari idzi munyika yeNigeria. Vakaramba varivese vachitevedza rwizi rweNiger.
+P6	Dutu rejecha kuMali rakaita kuti zvivaomere zvekumhanya. Juma ndiye akanga akasimba pane vose vamhanyi. Wakavatungamira kusvika vabuda mudutu iri zvisina njodzi.
+P7	Vamhanyi vakazoshamba huruva muConakry mumhenderekedzo yenyanza yemuGuinea. Vakaronga zve kumhanya vakananga kuMorocco vachidambura nemuSenegal pamwe nemuMauritania.
+P8	KuCasablanca vamhanyi vakatamba nevamwe vechidiki pamahombekombe. Vakazosimuka vakananga kumaodzanyemba eAfrica.
+P9	Vakadambura kuAlgeria nekuLibya vakazonomira kuEgypt vachishanyira marinda emadzimambo (pyramids). Vakazonanga kumabvazuva vachitevedza rwizi rweNile vakananga kuUganda.
+P10	Vakadambura mumagwenga nemumasango emhuka. Vamwe vechidiki vakabatana navo muKampala. Boka rakazonanga kumhenderekedzo yenyanza kuKenya.
+P11	Vava pamahombekombe emuMombasa vakagara vakadya mupunga wekokonati (coconut) nehove. Juma akati "Ngatitakurei mwenje wemubatanidzwa tinange kugomo reKilimanjaro."
+P12	Munzira yekuenda kuTanzania Juma akadonha nekuti akanga aneta. Vamhanyi vose vakamira vakadzokera kunomubatsira.
+P13	Juma akatambidza Mdogo mwenje achibva amuti, "Takura tikwidze kugomo reKilimanjaro unobatidza mwenje wemubatanidzwa weAfrica."
+P14	Vanhu vakapururudzira vamhanyi vachidaidzira kuti, "Ndimi magamba edu!" Mwenje wabatidzwa pagomo reKilimanjaro vakadzoka vonanga kuchamhembe kweAfrica kwavakanga vabva.
+P15	Vakadida mudziva reMalawi, Mdogo akati kunaJuma, "Tamhanya kubva kuchamhembe kusvika kumaodzanyemba tikadzoka zve. Zvino rwendo rwava kusvika kumagumo."
+P16	Vamhanyi vemubatanidzwa vakapedzisira nekutakura mwenje kuGreat Zimbabwe. Pakava negungano guru panzvimbo iyi yakakosha. "Kwamhanyiwa!" akadaro achinyemwerera Juma.
+
+images:
+
+illustrations/pages/19868.png
+illustrations/pages/19860.png
+illustrations/pages/19861.png
+illustrations/pages/19862.png
+illustrations/pages/19863.png
+illustrations/pages/19864.png
+illustrations/pages/19865.png
+illustrations/pages/19866.png
+illustrations/pages/19867.png
+illustrations/pages/19868.png
+illustrations/pages/19869.png
+illustrations/pages/19870.png
+illustrations/pages/19871.png
+illustrations/pages/19872.png
+illustrations/pages/19873.png
+illustrations/pages/19874.png
+illustrations/pages/19875.png
+
+translations:
+
+English (Original)	Africa unity race	id=19876
+Hausa (Nigeria) (Translation)	Tseren Haxin kan Afirika	id=22063
+Kinyarwanda (Translation)	Isiganwa Rigamije Ubumwe Muri Afurika	id=20906
+Kiswahili (Translation)	Mbio kuhimiza umoja wa Afrika	id=19877
+Lukenye (Translation)	Empaka Ezamawanga Ga  Abairugavu	id=21480
+Lukenye (Translation)	Empaka Ezamawanga Ga  Abairugavu	id=21507
+Lusoga (Translation)	Okuvugania Kwa Afirika Okweyimba	id=21258

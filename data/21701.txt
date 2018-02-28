@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=21701&d=0&a=1
+id:	21701
+title:	Bineensota Mana Godaanan
+author:	Mulualem  Daba
+artist:	Magriet Brink
+lang:	Afaan Oromo
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21701.png
+desc:	Bineensota mana duloman afur mana hacuucamani jiratani irraa baqaatani bilisaan walfaana nagaafi gammachun jiratan.
+
+page_text:
+
+P1	Jartii korma handaqoofi cuucci qabdu tokkotu ture.
+P2	Mucaan mucaa ishee dubbisuf dhufe. 
+
+Isheenis handaqoo korma sana qaluufif murtesite.
+P3	Handaqoon sunis qabamu diide garaa magaalatti fiige.
+P4	Osoo fiigu, aduure duloma mana baqatutti dhufe.
+P5	Aduurrefi handaqoon kormaa sun osoo waalin fiigani, sare mana baaqatu argatan.
+P6	Osoo waliin fiigani, fardaa mana baqaatutti dhufaani waliin fiigu itti fufan.
+P7	Bineensonni kun osoo fiigani mana tokko argaan. 
+
+Manicha keessatti haattoota argani.
+P8	Bineensonni kunis hattoota arii'uf jedhaani wal-fanaa sagalee guddaadhan iyyaan.
+P9	Isaa booda, nyaata manicha keessa jiruu nyaatani.
+P10	Booda hattootni deebi'ani. 
+
+Bineensonnis waalin ta'ani hattota ari'ani.
+P11	Hattootin kunis baqaatani achi badaani.
+P12	Isaa boodas, bineensonni kun manicha keessaa gammachun walfaana jiratani.
+
+images:
+
+illustrations/pages/8524.png
+illustrations/pages/8517.png
+illustrations/pages/8518.png
+illustrations/pages/8519.png
+illustrations/pages/8520.png
+illustrations/pages/8521.png
+illustrations/pages/8522.png
+illustrations/pages/8523.png
+illustrations/pages/8524.png
+illustrations/pages/8525.png
+illustrations/pages/8526.png
+illustrations/pages/8527.png
+illustrations/pages/8528.png
+
+translations:
+
+Afrikaans (Translation)	Die Ou Plaashaan	id=11053
+Afrikaans (Translation)	Ou Haan	id=11359
+Afrikaans (Translation)	Ou Haan	id=11523
+Amharic (Translation)	ያመለጡት እንስሳት	id=21181
+English (Original)	Old Rooster	id=9545
+English (Adaptation)	Animals Run Away	id=20874
+French (Translation)	Le Vieux Coq	id=10840
+Kiswahili (Translation)	Wanyama Wanatoroka kwao	id=21074
+Lámnsoʼ (Translation)	Nyám sí léʼkirì	id=22295
+Ng’aturkana (Translation)	Ng’Itieng Lu Apotu Tosiwakis	id=21137
+Portuguese (Translation)	Velho Galo	id=18863
+Setswana (Translation)	Diphologolo di a Tshaba	id=22026
+Tigrigna (Translation)	ዘምለጡ እንስሳት	id=21111

@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=21842&d=0&a=1
+id:	21842
+title:	Ni nani atakuwa mfalme?
+author:	Ursula Nafula
+artist:	Salim Kasamba
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21842.png
+desc:	Ni nani atakuwa mfalme wa wanyama baada ya Mfalme Chui kufa?
+
+page_text:
+
+P1	Mfalme Chui aliendelea kuwa mzee.
+
+Je, atamchagua mrithi wake namna gani?
+P2	Mfalme  Chui aliwaita wanyama kwa sherehe.
+
+Atawatangazia mpango wake.
+P3	Baada ya sherehe, Mfalme Chui alizungumza.
+
+Wanyama walimsikiliza.
+P4	Alisema, "Mashindano yataamua atakayekuwa mfalme."
+P5	Atakayehesabu hadi kumi kabla ya mkuki kuanguka, atakuwa mfalme.
+P6	Tembo aliwasukuma wengine, "Mimi ni mkubwa. Ninastahili kuwa mfalme."
+P7	Tembo alihesabu hadi nne pekee.
+
+Mkuki ulianguka.
+P8	Ngiri aliwasukuma wenzake akisema, "Nina nguvu zaidi. Nitakuwa mfalme."
+P9	Ngiri alihesabu hadi sita kisha mkuki ulianguka.
+
+Aliondoka.
+P10	Wanyama walisema, "Tembo mkubwa na Ngiri wameshindwa. Nani atashinda?"
+P11	Sokwe alihesabu, "Moja! Mbili! Tatu! Nne! Tano! Sita! Saba!"
+
+Alilia.
+P12	Mfalme Chui alisema, "Sokwe, unapate nafasi moja tu."
+
+Sokwe aliondoka.
+P13	Baadhi ya wanyama walianza kuondoka.
+
+Swara Mdogo alisema, "Hebu nijaribu."
+P14	Mfalme Chui aliwakemea, "Mpeni Swara nafasi. Mwache ajaribu."
+P15	Swara alisema, "Tano na tano ni kumi."
+
+Mkuki ulianguka chini.
+P16	Mashindano yalionyesha mnyama mwerevu.
+
+Swara alikuwa malkia baada ya chui.
+
+images:
+
+illustrations/pages/25319.png
+illustrations/pages/25317.png
+illustrations/pages/25318.png
+illustrations/pages/25319.png
+illustrations/pages/25320.png
+illustrations/pages/25321.png
+illustrations/pages/25322.png
+illustrations/pages/25323.png
+illustrations/pages/25324.png
+illustrations/pages/25325.png
+illustrations/pages/25326.png
+illustrations/pages/25327.png
+illustrations/pages/25328.png
+illustrations/pages/25329.png
+illustrations/pages/25330.png
+illustrations/pages/25331.png
+illustrations/pages/25332.png
+
+translations:
+
+Dhopadhola (Original)	Ŋa Ma Nyalo Kwano Kir Iy Apar?	id=21401
+English (Translation)	Who Can Count To Ten?	id=21413
+English (Adaptation)	Who Is The Next Ruler?	id=21797
+Kiswahili (Translation)	Nani atahesabu mpaka kumi?	id=22049

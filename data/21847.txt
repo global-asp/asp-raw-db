@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=21847&d=0&a=1
+id:	21847
+title:	زاما المميز!
+author:	Heba Tesheh
+artist:	Vusi Malindi
+lang:	Arabic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21847.png
+desc:	ينام أخي الصغير متأخرا جدا. أنا استيقظ باكرا لأنني مميزة!
+
+page_text:
+
+P1	ينام أخي الصغير متأخرا جدا. أنا استيقظ باكرا لأنني مميزة!
+P2	أنا واحدة من الذين يسمحون للشمس أن تدخل.
+P3	ماما تقول لي:أنت نجمتي الصباحية.
+P4	أنا استحم وحدي ،أنا لا احتاج لمساعدة أحد.
+P5	أنا يمكنني أن أتعامل مع الماء البارد والرائحة الكريهة للصابونة الزرقاء.
+P6	ماما تذكرني:لاتنسي أسنانك ، فأجيبها أنا! مستحيل.
+P7	بعد الاستحمام ،أسلم على جدي وعمتي ،وأودعهم.
+P8	ثم ألبس بنفسي ،وأقول أنا الآن كبيرة.
+P9	أنا استطيع أن أغلق أزراري و أربط حزائي.
+P10	أنا أتأكد من أن أخي الصغير يعرف كل أخبار المدرسة.
+P11	أبذل جهدي في الصف لأقوم بالأفضل بكل شيء.
+P12	أنا أقوم بكل هذه الأفعال كل يوم. لكن أكثر الأشياء التي أحبها اللعب ثم اللعب.
+
+images:
+
+illustrations/pages/7514.png
+illustrations/pages/7513.png
+illustrations/pages/7514.png
+illustrations/pages/7517.png
+illustrations/pages/7507.png
+illustrations/pages/7515.png
+illustrations/pages/7518.png
+illustrations/pages/7516.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+illustrations/pages/7509.png
+
+translations:
+
+English (Adaptation)	Zama is Great!	id=9984
+Kiswahili (Translation)	Mimi ni mashuhuri!	id=22086

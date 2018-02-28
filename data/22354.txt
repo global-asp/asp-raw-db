@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=22354&d=0&a=1
+id:	22354
+title:	Tomu omutunzi w'amenvu
+author:	Samson  Nabbimba
+artist:	Atilabachew Reda
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22354.png
+desc:	A man goes against community norms and brings his bananas to sell at the market.
+
+page_text:
+
+P1	Tomu yetika olusaniya lw'amenvu.
+P2	Tomu agenda mu katale natunda amenvu.
+P3	Abantu mu katale bali mukugula bibala.
+P4	Naye tewali muntu nomu agula menvu ga Tomu. Abantu basinga kwagala kugula bibala kuva ku bakazi.
+P5	"Mukitundu kyaffe, abakazi bebatunda ebibala boka," abantu bwe'bagamba. "Ono omusajja wakika ki?"
+P6	Naye Tomu teyagwaamu maanyi. Yayitanga bantu, "Mugule amenvu! Mugule amenvu gange agawooma ate agengedde."
+P7	Omukazi omu kyeyava atoola ekiwagu kya'menvu okuva ku lusaniya. Neyekebejja amenvu gano nobwegendereza.
+P8	Omukazi awo nasalawo okugula amenvu.
+P9	Abantu nebeyongera okugenda kumudaala. Nebatandika okugula amenvu ga Tomu nebalya.
+P10	Amangu olusaniya nelukalira. Awo Tomu yatandika okubala sente zeyali afunye.
+P11	Era Tomu yagulamu Sabuuni, Sukaali n'omugaati. Nateeka ebintu bye ku lusaniya.
+P12	Awo Tomu neyetika olusaniya lwe kumutwe nadayo ewaka.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+Arabic (Translation)	توم، بائع الموز	id=21874
+English (Original)	Tom the Banana Seller	id=13627
+isiXhosa (Translation)	Utom, Umthengisi Webhanana	id=15024
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216
+siSwati (Translation)	Themba Umtsengisi Wabhanana	id=16440

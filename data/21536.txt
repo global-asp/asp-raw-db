@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=21536&d=0&a=1
+id:	21536
+title:	Leano Le Legolo La Tshoswane
+author:	Peter Mekgwe
+artist:	Steven McKimmie
+lang:	Setswana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21536.png
+desc:	Tshoswane e ne e rata go buisa
+
+page_text:
+
+P1	Tshoswane e ne e rata go buisa. E bile e ne e rumolwa gantsi.
+
+"Ditshoswane ga di buise. Ditshoswane di tshwanetse go ja. Ditshoswane di kokoanya dijo tsa tsone."
+P2	Tshoswane e ne e rata go buisa letsatsi lotlhe.
+P3	Ditshoswane tse dingwe di ne di tsaya dijo tse di di bonang go di bolokela mariga ka fa tlase ga mmu.
+P4	Batsadi ba yone ba e galefela, mme Tshoswanenyana ya ikotlhaya fela thata.
+P5	Ka paka ya letlhabula fa ditlhare di tlhotlhorega, ditshoswane di tshwanetse go boloka dijo ka fa tlase ga mmu.
+P6	Kgosi ya tsone e batla dijo gore e tlatse mabolokelo, ka jalo ditshoswane tsotlhe di tshwanetse go bereka thata.
+P7	Tshoswanenyana e simolola go goa ka lefelo le e neng e buisa ka lone.
+
+"Re tlhoka resetšhurente, Lefelo le batho ba jang kwa go lone. Ga twe jalo mo bukeng e ke e buisang."
+P8	Ditshoswane tsa gwantwa ka bongwe ka bongwe. Di gwantela kwa letsatsing le le phirimang.
+P9	Mme Tshoswanenyana ya re, "Bonang, ke ele!"
+P10	Ditshoswane tsa gwanta ka bongwe ka bongwe, dikokile dibeka, di tsholeditse dibanse.
+P11	Fa di boa Kgosi ya tsone ya itumetse. Mabolokelo a tletse. Di goa ka boitumelo.
+P12	Mme mama le papa ba a e tlamparela.
+P13	Nnake wa yone wa mosetsana o mo tshwara ka seatla a bo a re, "Ke a tlhaloganya jaanong. Tsela e o ratang go buisa buka ka yone, e dira gore ke batle go e leba."
+
+images:
+
+illustrations/pages/15443.png
+illustrations/pages/15444.png
+illustrations/pages/15445.png
+illustrations/pages/15446.png
+illustrations/pages/15447.png
+illustrations/pages/15448.png
+illustrations/pages/15449.png
+illustrations/pages/15450.png
+illustrations/pages/15451.png
+illustrations/pages/15452.png
+illustrations/pages/15454.png
+illustrations/pages/15455.png
+illustrations/pages/15457.png
+illustrations/pages/15458.png
+
+translations:
+
+Afrikaans (Translation)	Klein Miertjie Se Groot Plan	id=21532
+English (Original)	Little Ant's Big Plan	id=15459
+isiNdebele (Translation)	Iqhinga Lakatjhontjhwani	id=21533
+isiXhosa (Translation)	Amalungiselelo Amakhulu Embovane Encinane	id=21425
+isiZulu (Translation)	Icebo Elikhulu Likantuthwane Omncane	id=21534
+Lusoga (Translation)	Ntegeka Eya Kasimizi  Mbbedde	id=20218
+Sepedi (Translation)	Leano Le Legolo La Ngwana Tšhošane	id=21535
+Sesotho (South Africa) (Translation)	Leano Le Leholo La Bohlwanyana	id=21645
+Siswati (Translation)	Lisu Lelikhulu Lantfutfwane Lomncane	id=21537
+Tshivenda (Translation)	Maano Mahulu A Lusunzi	id=21538
+Xitsonga (Translation)	Kungu Lerikulu Ra N'warisokotinyana	id=21539

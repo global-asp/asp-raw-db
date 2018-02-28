@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=22230&d=0&a=1
+id:	22230
+title:	Nhanga raMai Maneo
+author:	Lilian Chaminuka
+artist:	Marion Drew
+lang:	ChiShona
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22230.png
+desc:	Mai Maneo vanodyara mhodzi yenhanga. Mhodzi yakakura kuita zinhanga guru. Muzhizha nhanga rinoita chishamiso kuvanhu vese vemudunhu.
+
+page_text:
+
+P1	Rimwe zuva, Mai Maneo vakadyara mhodzi yenhanga. Yakakura kuita zinhanga guru. Nhanga rakakura rikavhara nzira yekupinda mubindu.
+P2	Mai Maneo vaida kusudurudza nhanga paraive. Vakaenda kumuvakidzani wavo. "Mai Mapalesa, ndinokumbira mundibatsire kubvisa nhanga rangu pariri. Rakavhara nzira," vakadaro Mai Maneo. Madzimai maviri akasunda akasunda, asi nhanga harina kubva.
+P3	Vakaenda kuna Mai Masello. "Tinokumbira kuti mutibatsirewo kubvisa nhanga raMai Maneo munzira!" vakakumbira. Mai Masello vakauya kuzovabatsira. Madzimai matatu akasunda, akasunda asi nhanga harina kubva. "Handizivi kuti todini," vakadaro Mai Maneo.
+P4	Pakarepo pakabva pasvika kakonye kadiki mubindu raMai Maneo. Kaiva kaine nzara. Kakan'en'ena nhanga. "Mira," Nhanga rakadaro. Asi kakonye kakaenderera mberi kachin'en'ena.
+P5	"Mira! Urikunditekenyedza," nhanga rakadaro. "Handizvidi." Nhanga rakabva rakunguruka richidzika nechuru.
+P6	Nhanga rakamira rave mumunda pazasi pechuru. Vafudzi vaviri vaidarika nepo vakariwona. "Toita sei nenhanga iri?" vakabvunzana. "Ngatiridyei," vakabvumirana, "rinenge rinonaka."
+P7	Vafudzi vakatora zidombo ndokuedza kupwanya nhanga.
+P8	"Aiwa!"Nhanga rakachema. Vafudzi vakasvetuka vachidzokera shure. Nhanga rakatanga kutsemuka rega.
+P9	Munhanga makabva mabuda chimukadzi chaiva neruoko rumwe, ziso rimwe negumbo rimwe. Chaityisa. "Musandikanganise," chakadaro nezwi riri pamusoro. "Ndiri mambokadzi wemanhanga." Nhanga rakabva ravharazve.
+P10	Vafudzi vakatya zvikuru. Vakamhanya kumba kunoudza vabereki. "Inga tine rombo rakanaka!" vabereki vakadaro. "Hamuzivi mambokadzi wemanhanga?" "Inhanga rakakosha chaizvo," vabereki vavo vakavaudza. "Munofanira kurisiya rakadaro."
+P11	"Muzhizha rinotevera nhanga richavhurika rega, mambokadzi vomwaya mhodzi dzenhanga mumatunhu ese. Tinobva tava nemanhanga akawanda ekudya," vakadaro vabereki.
+P12	Mumwaka wezhizha wakatevera, nhanga raMai Maneo rakaputika rikavhurika; raiva rakazara mhodzi dzakawandisa.
+P13	Munhanga makabuda mambokadzi wemanhanga. Negumbo rake rimwechete akabuda munhanga. Neziso rake rimwechete akatarisa matunhu ese. Neruoko rwake rumwechete akamwaya mhodzi mumatunhu ese.
+P14	Mhodzi dzakakura kuita manhanga mumapindu emumatunhu ese. Mumwaka wechando vanhu vese mumatunhu vaiva nemanhanga ekudya akawanda. Vakaenda kunoona Mai Maneo. "Tinotenda Mai Maneo!" vakadanidzira.
+
+images:
+
+illustrations/pages/10657.png
+illustrations/pages/10655.png
+illustrations/pages/10656.png
+illustrations/pages/10657.png
+illustrations/pages/10658.png
+illustrations/pages/10660.png
+illustrations/pages/10661.png
+illustrations/pages/10662.png
+illustrations/pages/10663.png
+illustrations/pages/10665.png
+illustrations/pages/10667.png
+illustrations/pages/10668.png
+illustrations/pages/10669.png
+illustrations/pages/10670.png
+
+translations:
+
+English (Translation)	'm'e Maneo's Pumpkin	id=10674
+French (Translation)	La Citrouille De M'dame Maneo	id=13270
+Kumam (Translation)	Esuju Ameo	id=20956
+Portuguese (Translation)	A Abóbora Do 'm'e Maneo	id=17095
+Sesotho (Lesotho) (Original)	Mokopu Oa 'm'e Maneo	id=10671

@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=22137&d=0&a=1
+id:	22137
+title:	Nkuba na Mirabyo
+author:	Aloysie Uwizeyemariya
+artist:	Jesse Breytenbach
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22137.png
+desc:	Nkuba numuhungu we Mirabyo babanaga nabantu ku isi. Bitewe nuko Mirabyo yarangwaga nimyitwarire mibi yo kwangiza
+
+page_text:
+
+P1	Kera Nkuba na Mirabyo babanaga n'abantu ku isi.
+P2	Nkuba yari nyina wa Mirabyo.
+P3	Mirabyo yagiraga umujinya bityo agakunda gutongana.
+P4	Iyo Mirabyo yarakaraga, yazengurukaga ahantu hose atwika inzu ari nako agusha ibiti. Yagiraga urusaku ruteye ubwoba ati: "Pya-la-la-la, pya-lala-la!" Yangizaga imyaka mu mirima ndetse rimwe na rimwe akica n'abantu.
+P5	Igihe cyose Mirabyo agize iyo myitwarire, nyina yamuhamagaraga mu ijwi ryasa cyane agira ati: "Bumrambo- la-la-la, la-bum!" Yabaga ari kumubuza gukomeza kwangiza.
+P6	Nyamara Mirabyo we ntiyabaga yitaye ku byo nyina amubwira. Ahubwo yakomezaga guteza abantu ibibazo igihe cyose yabaga afite umujinya.
+P7	Byageze aho abantu bajya kumuregera umwami.
+P8	Umwami ngo abyumve, ategeka ko Nkuba n'umuhungu we Mirabyo birukanwa  mu mudugudu bari batuyemo. Umwami yarabaciye abategeka kujya gutura kure y'ingo z'abantu.
+P9	Ibyo ntacyo byamaze cyane. N'ubundi iyo Mirabyo yarakaraga ntibyamubuzaga gutwika amashyamba ati: "Pya-la-la-la, pya-la-la-la!" Ndetse hari n'ubwo ibibatsi by'umuriro byakwirakwiraga mu mirima y'abantu bikayitwika.
+P10	Bidateye kabiri, abantu basubira kuregera umwami.
+P11	Noneho, umwami ategeka Mirabyo na Nkuba kutazongera kuba ku isi ukundi. Abohereza mu kirere aho batagira ibyo bangiza.
+P12	Guhera ubwo, n'ubundi iyo Mirabyo arakaye ntibimubuza gutwika no gusenya, akubita ngo: "Pya la-la-la, pya-la-la-la!" Kandi turacyumva na nyina Nkuba amwiyama ati: "Bumrambo-la-la-la, la-bum!"
+
+images:
+
+illustrations/pages/19056.png
+illustrations/pages/19042.png
+illustrations/pages/19044.png
+illustrations/pages/19046.png
+illustrations/pages/19047.png
+illustrations/pages/19048.png
+illustrations/pages/19050.png
+illustrations/pages/19051.png
+illustrations/pages/19052.png
+illustrations/pages/19053.png
+illustrations/pages/19054.png
+illustrations/pages/19055.png
+illustrations/pages/19056.png
+
+translations:
+
+Ateso (Translation)	Eiresi Keda Okokuke	id=21042
+Dhopadhola (Original)	Mor Koth Kodi Lith Koth	id=19073
+English (Translation)	Thunder And Lightning	id=19074
+English (Adaptation)	Thunder And Her Son	id=20889
+Kiswahili (Translation)	Ngurumo na Radi	id=19092
+Kiswahili (Translation)	Ngurumo na mwanawe Radi	id=21141
+Ng’aturkana (Translation)	Agirokin Ka Lokookeng	id=21128
+Tigrigna (Translation)	ነጎዳ ምስ ወዳ 	id=21172

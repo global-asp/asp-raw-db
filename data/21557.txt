@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=21557&d=0&a=1
+id:	21557
+title:	Rafiki Se Styl
+author:	Bangula Lingo Centre cc
+artist:	Audrey Anderson
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21557.png
+desc:	Rafiki se styl is al sy eie
+
+page_text:
+
+P1	Sondag skop Jimmy Zogba die wendoel.
+P2	Maandag swaai die Koel Kat Ouens verby.
+P3	"Haai Rafiki, waar's jou zebra-haarstyl? 
+
+Jou hare is so plein, dis 'n sjeim."
+P4	"Haai Rafiki, waar's jou vals tatoe? 
+
+Jou vel is so vervelig, ag boe!"
+P5	"Haai Rafiki, waar's jou bling? 
+
+Jou tande is skeef, dis die ding!"
+P6	Daai dag loop Rafiki stadig huis toe.
+P7	"Antie, ek wil 'n zebra-haarstyl hê." 
+
+"Nee, man. Dis 'n sommer 'n lawwe haarstyl, nê."
+P8	"My vel is so vervelig, Sisi. Gee vir my 'n vals tatoe."
+
+"Nee man. Jy's oulik genoeg sonder 'n tatoe."
+P9	"Mkhulu, ek soek 'n bietjie bling."
+
+"Onthou die gesegde my kind: 'Bo blink en onder stink."
+P10	Die volgende naweek, skop Santi Ramires die wendoel.
+P11	Daai Maandag swaai die Koel Kat Ouens verby. 
+
+"Haai Rafiki, jy lyk koel!"
+P12	Rafiki grinnik 'hie-hie'. 
+
+"Ek lyk soos ek. Dis my styl die."
+
+images:
+
+illustrations/pages/15555.png
+illustrations/pages/15551.png
+illustrations/pages/15553.png
+illustrations/pages/15554.png
+illustrations/pages/15555.png
+illustrations/pages/15556.png
+illustrations/pages/15557.png
+illustrations/pages/15648.png
+illustrations/pages/15649.png
+illustrations/pages/15650.png
+illustrations/pages/15651.png
+illustrations/pages/15652.png
+illustrations/pages/15653.png
+
+translations:
+
+English (Original)	Rafiki's Style	id=15654
+isiNdebele (Translation)	Isitayela Sakarafiki	id=21558
+isiXhosa (Translation)	Istayile Sika Rafiki	id=21559
+isiZulu (Translation)	Isitayela Sikarafiki	id=21560
+Sepedi (Translation)	Setaele Sa Rafiki	id=21408
+Sesotho (South Africa) (Translation)	Setaele Sa Rafiki	id=21646
+Setswana (Translation)	Setaele Sa Ga Rafiki	id=21578
+Siswati (Translation)	Sitayela Sarafiki	id=21579
+Tshivenda (Translation)	Tshitaela Tsha Rafiki	id=21580
+Xitsonga (Translation)	Xitayili Xa Rafiki	id=21581

@@ -1,0 +1,47 @@
+url:	http://africanstorybook.org/reader.php?id=22135&d=0&a=1
+id:	22135
+title:	Jaka Umurobyi
+author:	Aloysie Uwizeyemariya
+artist:	Zablon Alex Nguku
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22135.png
+desc:	Iyi nkuru ni iyumurobyi wumunyamurava warobaga ku ruzi rwa Nili.
+
+page_text:
+
+P1	Uyu ni Jaka umurobyi w'i Naminya.
+P2	Aroba mu ruzi rwa Nili.
+P3	Afite ubwato, urushundura n'indobani.
+P4	Buri munsi azinduka ajya kuroba amafi mu ruzi rwa Nili.
+P5	Ahagana saa yine, ajya gucuruza amafi yarobye mu isoko rikuru rya Jinja.
+P6	Arababaye pe! Baramubaza bati: "Jaka wabaye iki? Wabuze amafi se?"
+P7	Ati: "Uyu munsi byangendekeye nabi. Umuhengeri ntiwigeze utuza ngo ndobe. Indobani yange nayo yarohamye."
+P8	"Ariko nizeye ko ejo bizagenda neza kuko naguze indi ndobani."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka die Visserman	id=11406
+English (Translation)	Jaaka The Fisherman	id=8491
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiXhosa (Translation)	Ujaaka Umlobi	id=13206
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Kinyarwanda (Translation)	Umurobyi Jaaka	id=21205
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

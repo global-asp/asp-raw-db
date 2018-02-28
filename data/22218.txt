@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=22218&d=0&a=1
+id:	22218
+title:	Obuugi
+author:	Samson  Nabbimba
+artist:	Catherine Groenewald
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22218.png
+desc:	Mom is away and Dad is making the morning porridge.
+
+page_text:
+
+P1	Zama yetegekera okugenda ku somero.
+P2	Taata alimukufumba buugi obunanyweebwa ku'kyenya.
+P3	"Naye Maama ya'singa okufumba obuugi obuwooma!" Zama bweyategeeza.
+P4	Obuugi bwebusinga okuwa Zama amaanyi kusomero.
+P5	Obuugi buyidde.
+P6	Era Taata yatandika okusaamu amata, no'kwagala.
+P7	"Taata, naye mubuugi buno mwetaagamu sukaali omulala," Zama bweyagamba Taata.
+P8	"Naye obuugi Maama bwafumba buwooma nyo okusinga obwa Taata," Zama bwati ye bwalowooza.
+P9	"Taata, oyinza okunyongera sukaali?" Zama nabuuza.
+P10	Awo Taata naye nayongera okuwa Zama sukaali omulala.
+P11	"Wuu! Taata! Mubuugi bwange ate otademu munnyo!"
+P12	"Taata,  Maama akomawo ddi ewaka?" Zama nabuuza.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+IciBemba (Translation)	Umusunga	id=18578
+isiNdebele (Translation)	Umdoko	id=21950
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Original)	Umdokwe	id=8026
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama upheka kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kimîîru (Translation)	Uchuru	id=15412
+Kinyarwanda (Adaptation)	Igikoma	id=22133
+Kiswahili (Translation)	Uji	id=15614
+Lámnsoʼ (Translation)	Biʼ	id=22273
+Lunyole (Translation)	Obusera	id=13458
+Lusoga (Translation)	Buugi	id=21198
+Mampruli (Translation)	Koko	id=21224
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Siswati (Translation)	Lijingi	id=21745
+Tshivenda (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997
+Yoruba (Translation)	Porridge	id=21966

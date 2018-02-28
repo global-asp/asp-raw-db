@@ -1,0 +1,62 @@
+url:	http://africanstorybook.org/reader.php?id=21696&d=0&a=1
+id:	21696
+title:	Bere, Tsuro Nemabhavha  Avo
+author:	Ester Chimhenga and Mass Tapfuma
+artist:	Salim Kasamba
+lang:	ChiShona
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21696.png
+desc:	Kana bhavha richigona kuzvara mwana
+
+page_text:
+
+P1	Bere naTsuro vaive
+  neushamwari.
+P2	Tsuro aive nedhongi nekabhavha
+  katsvuku.
+P3	Tsuro paaida bhavha
+  hombe aitokumbira raBere rine ruvara
+  rwedenga.
+P4	Bere aida kuwacha
+  mbatya mubhavha rake.
+P5	Bere akaenda kuna
+  Tsuro. “Ndiri kuda bhavha rangu,”
+  akadaro.
+P6	“Bhavha rakazvara,” akadaro Tsuro. Bere ndokutora
+  mabhavha.
+P7	Nerimwe zuva Tsuro akakumbirazve bhavha raBere.
+P8	Bere paakaenda kunotora
+  bhavha, nhau yaTsuro yaisafadza.
+P9	“Bhavha rako rakafa,” akadaro Tsuro. Bere haana kuzvitenda.
+P10	Bere akashevedza mhuka
+  huru kuti dzione chakwadi.
+P11	“Zvinhu zvipenyu zvinobereka zvinofawo,” Tsuro akatsanangura.
+P12	Mhuka dzakabvumirana naTsuro.
+  Bere akarasikirwa nebhavha rake.
+
+images:
+
+illustrations/pages/19188.png
+illustrations/pages/19185.png
+illustrations/pages/19186.png
+illustrations/pages/19187.png
+illustrations/pages/19188.png
+illustrations/pages/19189.png
+illustrations/pages/19190.png
+illustrations/pages/19191.png
+illustrations/pages/19192.png
+
+translations:
+
+Afaan Oromo (Translation)	Warabeesa, Illetif Gabate	id=20427
+Amharic (Translation)	ጅብ፣ ጥንቸልና ሳፋዎቻቸው	id=20481
+English (Translation)	Hyena, Hare and their basins	id=19194
+English (Adaptation)	Hyena, Hare and their basins	id=19764
+isiZulu (Translation)	UMpisi, uNogwaja nezindishi	id=20722
+Kiswahili (Original)	Fisi, Sungura na beseni	id=19193
+Kiswahili (Translation)	Fisi, Sungura na  Beseni	id=20437
+Lámnsoʼ (Translation)	Kuúrá, Ncà wùn à vikóŋ vév ví	id=22311
+Lusoga (Translation)	Wampiti, Wakayima Ni  Benseni	id=20400
+Ng’aturkana (Translation)	Ebuu, Apoo Ka Ng'atubwae	id=20416
+Setswana (Translation)	Phiri, Mmutla Le Dijana	id=21057

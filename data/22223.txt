@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=22223&d=0&a=1
+id:	22223
+title:	Pfumo raThabani
+author:	Lilian Chaminuka
+artist:	Rob Owen
+lang:	ChiShona
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22223.png
+desc:	Thabani anopihwa chipo nemukoma wake. Ipfumo! Zvino Thabani achagona here kushandisa pfumo rake iri?
+
+page_text:
+
+P1	Thabani aiva mukomana wechidiki aiva nemumhu mudiki. Aiva nemukoma wake aiva akasimba, akanaka ari murwi wehondo anoremekedzwa. Thabani aiona mukoma wake Qhawekazi segamba.
+P2	Mumwe musi Qhawekazi akapa Thabani chipo chepfumo. Thabani akazara nemufaro! Qhawekazi aiziva kuti Thabani aizokura kuva mukomana muhombe uye akasimba nekugwinya, achizorwawo hondo achikunda.
+P3	Nedzimwe nguva Qhawekazi aienda kunorwa hondo. Aikunda dzimwe hondo odzoka ainemibairo. Dzimwe nguva aikundwa odzoka aine maronda.
+P4	Thabani aibva aimba nziyo dzekuremekedza mukoma wake kana akunda muhondo.
+P5	Kana Qhawekazi akundwa muhondo, Thabani airapa maronda ake.
+P6	Mangwanani oga oga, Thabani aitora pfumo rake orodzera padombo. Ainyatsofarira chipo chaakapihwa nemukoma wake.
+P7	Pfumo rakanga ranyatsovezwa ragadzirirwa kushanda. Paienda Qhawekazi kuhondo, Thabani aishuvira kuendawo naye. Asi aizokumbira ruregerero achiti achiri kurodza pfumo rake.
+P8	Thabani akaenderera mberi nokurodza pfumo, chero hazvo rakanga rakarodzeka. Pfumo rakaguma raita diki nekurodzwa kusvikira raenzana nebanga. 
+
+Rimwe zuva Qhawekazi akati, "Thabani, iwe wakura nepfumo rako rarodzeka zvekuti richishanda."
+P9	"Tora pfumo rako tiende," akadaro Qhawekazi. Haana kupa Thabani nguva yekufunga.
+
+Thabani akatevera mukoma vake achiderera. Qhawekazi akazoona nguva yapera kuti pfumo raiva ratopera nekurodzwa.
+P10	Vakasvika kuhondo. Thabani aiva nekapfumo kake kapfupi achitya. Qhawekazi akaisa munin'ina wake kumashure kwake kuitira kuti amudzivirire. Pfumo raThabani raiva risisabatsire kuhondo.
+P11	Qhawekazi akakuvadzwa pakurwisana muhondo iyi. Thabani akabatsira mukoma wake kuti vaenderere mberi nehondo. Akashandisa kapfumo kake kucheka mashizha ekuvhara maronda aQhawekazi nevamwe varwi vehondo.
+P12	Vakadzoka kubva kuhondo vachifara. Qhawekazi akabatsirwa naThabani, Thabani akabatsirwawo naQhawekazi. Muvengi akakundwa!
+
+images:
+
+illustrations/pages/25018.png
+illustrations/pages/25015.png
+illustrations/pages/25016.png
+illustrations/pages/25017.png
+illustrations/pages/25018.png
+illustrations/pages/25019.png
+illustrations/pages/25020.png
+illustrations/pages/25021.png
+illustrations/pages/25022.png
+illustrations/pages/25023.png
+illustrations/pages/25024.png
+illustrations/pages/25025.png
+illustrations/pages/25026.png
+
+translations:
+
+English (Translation)	Thabani's spear	id=20331
+isiZulu (Original)	Umkhonto kaThabani	id=20330

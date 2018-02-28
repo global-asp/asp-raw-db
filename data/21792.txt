@@ -1,0 +1,76 @@
+url:	http://africanstorybook.org/reader.php?id=21792&d=0&a=1
+id:	21792
+title:	I Learnt A Lesson
+author:	African Storybook and Dorcas Wepukhulu
+artist:	Catherine Groenewald
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21792.png
+desc:	The little girl is curious as she watches her grandma preparing to ripen bananas.
+
+page_text:
+
+P1	Grandma loved me. 
+
+She told me many secrets except one.
+P2	“What is the basket and leaves for?” 
+
+Grandma said, “For magic.”
+P3	I wanted to watch. 
+
+But grandma sent me to do something else.
+P4	“Where are they?” 
+
+“They are in my magic place,” grandma said.
+P5	Grandma sent me to her room. 
+
+I smelled ripening bananas.
+P6	I had discovered grandma’s magic place. 
+
+I had seen the ripening bananas.
+P7	I ate one. 
+
+It was the sweetest banana I had ever tasted.
+P8	I took four bananas. 
+
+I hid them under my dress.
+P9	On market day, grandma took foodstuffs to sell. 
+
+I was ashamed.
+P10	When I was called later, I knew why. 
+
+I never stole again.
+
+images:
+
+illustrations/pages/1360.png
+illustrations/pages/1361.png
+illustrations/pages/1360.png
+illustrations/pages/1362.png
+illustrations/pages/1363.png
+illustrations/pages/1364.png
+illustrations/pages/1366.png
+illustrations/pages/1368.png
+illustrations/pages/1369.png
+illustrations/pages/1370.png
+illustrations/pages/1371.png
+
+translations:
+
+Arabic (Translation)	موز جدتي	id=21873
+Ekegusii (Translation)	Amatoke A’Baba	id=2371
+English (Original)	Grandma's Bananas	id=2094
+French (Translation)	Les Bananes De Grand-Mère	id=9956
+Fulfulde (Translation)	Bananaaje Maamiyo Debbo	id=10008
+Hausa (Niger) (Translation)	Ayabar Kaka	id=9974
+Kanuri (Translation)	Ayawa Kakaye	id=10034
+Kikamba (Translation)	Maiũ Ma Sũsũ	id=2367
+Kiswahili (Translation)	Ndizi za Bibi	id=15942
+Kiswahili (Translation)	Nilipata Funzo	id=21836
+Lugbarati (Translation)	Dede Ma A’Bua	id=2368
+Lugbarati (Official) (Translation)	Dede Vile A’Bua Ri	id=8749
+Lumasaaba (Translation)	Kamarofu Ka Kuukhu	id=3095
+Maa (Translation)	Ilmaisurîn Le Kokoô	id=2742
+Oluwanga (Translation)	Amaremwa Ka Kukhu	id=2370
+Zarma (Translation)	Ay Kaayi Banaaney	id=10099

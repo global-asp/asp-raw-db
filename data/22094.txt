@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=22094&d=0&a=1
+id:	22094
+title:	Wankima alya omukira gwe
+author:	Samson  Nabbimba
+artist:	Horácio José Cossa
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22094.png
+desc:	That rabbit is at it again! This version with black-and-white illustrations can be used for colouring in.
+
+page_text:
+
+P1	Awo olwatuuka nga Wakayima yefunirayo mukwano gwe eyali ayitibwa Wankima.
+P2	Olunaku  olumu Wakayima y'agamba mune nti, "Leka twetambulireko twenonyeze ekyokurya." Wankima naye teyagaana era nakiriza, naye nga ako kaali katego kebaali bamuteze.
+P3	Tebaalwa nga batuuka mumusiri gwa'kasooli nga batandika kweriira.
+P4	Naye Wakayima eyali omugezigezi y'ali amaze okuteesa ne bananyini musiri bakwaate Wankima ono alagibwe nga bweyali omusirusiru.
+P5	Baali bakyaali awo, Wakayima natandika okulekaana enyo nti, "Ababbi! Ababbi! Kasooli wamwe yenna awedewo!"   Awo Wakayima yabuukabubusi nga yedukira nga agenda.
+P6	Amangu ago bananyini musiri gwa kasooli batuuka era baasanga Wankima agezaako kuduka agende. Naye ate y'alina omukira muwanvu nyo nga gumulemesa okuduka.
+P7	Awo bananyini musiri nabo baatandika okumugoba, nga bwebalekaana nti, "Yimirira! Yimirira! Twakurabye, yegwe Wankima."
+P8	Awo nebamukwaata nebatandika okumukuba emigo.
+P9	Olw'obulumi obungi era Wankima nabagamba nti, "Nabade nemukwano gwange Wakayima. Yeyampise okuja."
+P10	Naye bananyini musiri nebamutemako omukira gwe  era nebamugamba nti, "Genda ogambe mukwano gwo nti tukutemyeeko omukira gwo!"
+P11	Olwaava awo ngabagenda munyumba ya Wakayima ngabatandika kufumba mukira gwa Wankima basobole okugulya. Awo Wakayima nayita Wankima naye aje alye kukyemisana.
+P12	Nga bamaze okulya Wakayima nabuuza Wankima oba dala kyalidde akitegede. Wankima omusiru naye nadamu nti, "Neda, simanyi."
+P13	Awo Wakayima namugamba nti yali alidde mukira gwe era olwamala okwogera naduka nagenda. Era okuva olwo buli omu nafuuka mulabe wamune!
+
+images:
+
+illustrations/pages/8012.png
+illustrations/pages/17167.png
+illustrations/pages/17169.png
+illustrations/pages/17170.png
+illustrations/pages/17171.png
+illustrations/pages/17172.png
+illustrations/pages/17173.png
+illustrations/pages/17174.png
+illustrations/pages/17175.png
+illustrations/pages/17176.png
+illustrations/pages/17177.png
+illustrations/pages/17178.png
+illustrations/pages/17179.png
+illustrations/pages/17180.png
+
+translations:
+
+English (Original)	Monkey Eats His Own Tail	id=16574
+English (Adaptation)	Monkey Eats His Own Tail - Colouring Book	id=17168
+isiXhosa (Translation)	Inkawu Itya Umsila Wayo	id=7882
+isiXhosa (Adaptation)	Inkawu Itya Umsila Wayo (Faka Imibala)	id=17535
+Luganda (Translation)	Wankima alya omukira gwe	id=22093
+Ng’aturkana (Translation)	Ekadokot Lo Anyami Ekosim Keng.	id=10560
+Portuguese (Translation)	O Macaco Que Comeu a Sua Própria Cauda	id=8166

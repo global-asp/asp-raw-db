@@ -1,0 +1,70 @@
+url:	http://africanstorybook.org/reader.php?id=21580&d=0&a=1
+id:	21580
+title:	Tshitaela Tsha Rafiki
+author:	Tshifhiwa Gangazhe
+artist:	Audrey Anderson
+lang:	Tshivenda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21580.png
+desc:	Rafiki a imisa na mahaḓa. 
+
+page_text:
+
+P1	Jimmy Zogba o kora tshikoro tsha u wina kha mutambo wa Swondaha.
+P2	Nga Musumbuluwo, vha Cool Cat Crew vha fhira vha tshi khou tshimbila vho ḓikukumusa.
+P3	"Heyi, Rafiki, mavhudzi aṋu a no nga a mbiḓi a ngafhi?
+
+Mavhudzi aṋu o tou ralo ha ngo vhuya a shanduka, ni tou nga a ni na ndavha."
+P4	"Heyi, Rafiki, thathuu yaṋu ya kholekhole i ngafhi?
+
+Lukanda lwaṋu lu khou bora nga maanḓa. Na inwi ni a bora."
+P5	"Heyi, Rafiki, mavhaivhai aṋu a kha maṋo a ngafhi? Hu tou vha uri maṋo aṋu a khou tseka."
+P6	Heḽo ḓuvha, Rafiki o ya hayani a tshi khou tshimbila nga u ongolowa.
+P7	"Makhadzi, vha nga ngera mavhudzi a no nga a mbiḓi?"
+
+"Ndi nga si ni gere mavhudzi a no nga a mbiḓi.
+
+Zwavhuḓivhuḓi, ndi nga si vhuye nda zwi thoma."
+P8	"Lukanda lwanga lu khou bora nga maanḓa, Sisi. Ni nga kona u nnyita thathuu ya kholekhole?"
+
+"A ni ṱoḓi thathuu uri ni vhe inwi muṋe."
+P9	"Makhulu, ndi tama ndi tshi nga ndi na mavhaimavhai kha maṋo."
+
+"Ṅwananga, mavhaivhai kha maṋo ha ambi tshithu na tshithihi."
+P10	Santi Ramires a kora tshikoro tsha u wina nga mafhelo a vhege a tevhelaho.
+P11	Nga Musumbuluwo vha Cool Cat Crew vha fhira vha tshi khou tshimbila vho ḓikukumusa.
+
+"Heyi, Rafiki! Ni vhonala no naka nga maanḓa!"
+P12	Rafiki a imisa na mahaḓa. 
+
+"Ndi zwine nda vha zwone. Hetshi ndi tshitaela tshanga."
+
+images:
+
+illustrations/pages/15555.png
+illustrations/pages/15551.png
+illustrations/pages/15553.png
+illustrations/pages/15554.png
+illustrations/pages/15555.png
+illustrations/pages/15556.png
+illustrations/pages/15557.png
+illustrations/pages/15648.png
+illustrations/pages/15649.png
+illustrations/pages/15650.png
+illustrations/pages/15651.png
+illustrations/pages/15652.png
+illustrations/pages/15653.png
+
+translations:
+
+Afrikaans (Translation)	Rafiki Se Styl	id=21557
+English (Original)	Rafiki's Style	id=15654
+isiNdebele (Translation)	Isitayela Sakarafiki	id=21558
+isiXhosa (Translation)	Istayile Sika Rafiki	id=21559
+isiZulu (Translation)	Isitayela Sikarafiki	id=21560
+Sepedi (Translation)	Setaele Sa Rafiki	id=21408
+Sesotho (South Africa) (Translation)	Setaele Sa Rafiki	id=21646
+Setswana (Translation)	Setaele Sa Ga Rafiki	id=21578
+Siswati (Translation)	Sitayela Sarafiki	id=21579
+Xitsonga (Translation)	Xitayili Xa Rafiki	id=21581

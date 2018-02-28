@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=22026&d=0&a=1
+id:	22026
+title:	Diphologolo di a Tshaba
+author:	Batsile Lelliott
+artist:	Magriet Brink
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22026.png
+desc:	Diphologolo tse nne tsa bogodi di a phuthega go ikgolola mo beng jwa tsone ba basenang tebogo
+
+page_text:
+
+P1	Mosadi mogolo o ne ana le dikoko le mokoko o mogolo.
+P2	Ngwana wa ngwana wa gagwe a mo etela. O ne a batla go mmolaela mokoko.
+P3	Mokoko o mogolo wa tshabela kwa toropo kgolo.
+P4	Mokoko wa kopana le katse e nneng e tshaba go tswa mong wa yone.
+P5	Mokoko le katse tsa kopana le ntsa e nneng e tshaba le yone.
+P6	Di ne tsa kopana le pitse e nneng e tshaba le yone.
+P7	Diphologolo di ne tsa goroga fa lapeng. Di ne di a bona magodu mo ntlong!
+P8	Diphologolo di ne di a opelela kwa godimo go tshosa magodu.
+P9	Di ne di a ja dijo tse di mo ntlong.
+P10	Magodu a ne a bowa moragonyana. Diphologolo tsa bolotsa ntwa.
+P11	Magodu a siela ruri.
+P12	Diphologolo di ne tsa nna mo ntlong ka kagiso.
+
+images:
+
+illustrations/pages/8524.png
+illustrations/pages/8517.png
+illustrations/pages/8518.png
+illustrations/pages/8519.png
+illustrations/pages/8520.png
+illustrations/pages/8521.png
+illustrations/pages/8522.png
+illustrations/pages/8523.png
+illustrations/pages/8524.png
+illustrations/pages/8525.png
+illustrations/pages/8526.png
+illustrations/pages/8527.png
+illustrations/pages/8528.png
+
+translations:
+
+Afaan Oromo (Translation)	Bineensota Mana Godaanan	id=21701
+Afrikaans (Translation)	Die Ou Plaashaan	id=11053
+Afrikaans (Translation)	Ou Haan	id=11359
+Afrikaans (Translation)	Ou Haan	id=11523
+Amharic (Translation)	ያመለጡት እንስሳት	id=21181
+English (Original)	Old Rooster	id=9545
+English (Adaptation)	Animals Run Away	id=20874
+French (Translation)	Le Vieux Coq	id=10840
+Kiswahili (Translation)	Wanyama Wanatoroka kwao	id=21074
+Lámnsoʼ (Translation)	Nyám sí léʼkirì	id=22295
+Ng’aturkana (Translation)	Ng’Itieng Lu Apotu Tosiwakis	id=21137
+Portuguese (Translation)	Velho Galo	id=18863
+Tigrigna (Translation)	ዘምለጡ እንስሳት	id=21111

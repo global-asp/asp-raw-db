@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=21648&d=0&a=1
+id:	21648
+title:	Gangee
+author:	Mulualem  Daba
+artist:	Marleen Visser
+lang:	Afaan Oromo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21648.png
+desc:	Oduu durii sabaaba gangeen maseena tate haftee kan ibsu.
+
+page_text:
+
+P1	Bara durii, Gangee bareduu Wardit jedhamtuu jirti ture.
+P2	Fardi bareda tokko, "Warditiin dirqaama fuudhun qaba," jedhe.
+P3	Fardichis Warditin, "Koottu lagaa buuna," jedhe.
+P4	Achuman warditiin haadha mana isaa akka tatuuf gaafate. Isheenis tole jetteni.
+P5	Fardichi, "Haatiif abba kee eenyudha?" jedhe warditin gaafate.
+P6	Warditis, "Haati koo mana mooti keessa jiraati."
+P7	"Hinbeektuni obboleetin koo mana waaqeffana keessa jirati."
+P8	"Adaadan koo immoo mana namicha naanno keenya bulchu keessa jiraati," jetten.
+P9	Yommuu kana dubbatu, Harren dulomaa tokko darbaa ture. Harrichi abba Wardit ture.
+P10	Warditis abbaa ishee hinlalle nagaas hingaafane.
+P11	Abbaan ishee garuu, "Maali nagaadha intala koo?" jedhee.
+P12	Fardichis, "Enyuudha harreen gadibadii kun?" jedhe Warditin gaafate.
+P13	Warditis, "Anoo isaa hin beeku," jette.
+P14	Fardichis harricha, abbaa Wardit, dhiite.
+P15	Harrichi baay'ee gadde osoo boo'u duu'e.
+P16	Warditis waan abbaa ishee hin kabajneef, masena tatee haftee.
+
+images:
+
+illustrations/pages/17977.png
+illustrations/pages/17968.png
+illustrations/pages/17969.png
+illustrations/pages/17970.png
+illustrations/pages/17971.png
+illustrations/pages/17972.png
+illustrations/pages/17973.png
+illustrations/pages/17974.png
+illustrations/pages/17975.png
+illustrations/pages/17976.png
+illustrations/pages/17977.png
+illustrations/pages/17978.png
+illustrations/pages/17979.png
+illustrations/pages/17980.png
+illustrations/pages/17981.png
+illustrations/pages/17982.png
+illustrations/pages/17984.png
+
+translations:
+
+Amharic (Translation)	በቅሎዋ ዋርዲት	id=17991
+Amharic (Adaptation)	በቅሎዋ ዋርዲት	id=18427
+Amharic (Translation)	ዋርዲት በቅሎዋ	id=21180
+English (Original)	Wardit, the Mule	id=17985
+English (Adaptation)	The Mule	id=20873
+Kiswahili (Translation)	Nyumbu	id=21073
+Tigrigna (Translation)	እታ በቅሊ	id=21113

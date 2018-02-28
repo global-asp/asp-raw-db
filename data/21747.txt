@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21747&d=0&a=1
+id:	21747
+title:	Ndama wa Parna
+author:	Ursula Nafula
+artist:	Jacob Kono
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21747.png
+desc:	Wakati mvulana mdogo anachunga ngombe wa familia yao
+
+page_text:
+
+P1	Parna alikuwa mvulana mwembamba mrefu. Alikuwa katika darasa la tatu. 
+
+Alipenda kuvaa koti refu la rangi nyeusi. Alipewa koti hilo na Mjombake, Teteyo.
+P2	Wakati wa likizo, Parna aliwachunga ng'ombe wa wazazi wake.
+P3	Siku moja, Parna alikuwa akiwachunga ng'ombe. Ghafla, mvua ilianza kunyesha.
+P4	Wakati huo huo, Cheusi, ng'ombe aliyekuwa kipenzi cha babake, alizaa. 
+
+Ndama aliyezaliwa alipendeza. Alikuwa mzuri kuliko ndama wote ambao Parna aliwahi kuwaona.
+P5	Parna alifurahi kuwahudumia Cheusi na ndama wake. Aliwasahau ng'ombe wale wengine.
+P6	Aliwaza, "Babangu aliahidi kunipa ndama ikiwa atakuwa wa kike."
+P7	Alipokuwa akiwaza hivyo, alisikia mkono ukimvuta juu kwa nguvu. 
+
+Parna alimwona Mjomba Teteyo. Alikumbuka na kuuliza, "Mjomba, ng'ombe wako wapi?"
+P8	Mjomba Teteyo alimjibu, "Mamako aliwapata ng'ombe wote zizini ila wewe na Cheusi. Aliingiwa na wasiwasi akanituma nije nikuchukue."
+P9	Mjomba Teteyo akasema, "Nitambeba ndama huyu. Kisha wewe na Cheusi mnifuate nyuma."
+
+Parna alielezea kwa msisimko jinsi Cheusi alivyozaa ndama aliye mzuri zaidi ya wote.
+P10	Watu wote walifurahi walipoona kwamba Parna, Cheusi na ndama walikuwa salama.
+P11	Parna akamwuliza babake, "Je, utanipa ndama huyu kama ulivyoahidi?"
+P12	"Ndiyo, mwanangu, ndama huyu ni wako. Ahadi ni deni."
+
+images:
+
+illustrations/pages/25507.png
+illustrations/pages/25498.png
+illustrations/pages/25499.png
+illustrations/pages/25500.png
+illustrations/pages/25501.png
+illustrations/pages/25502.png
+illustrations/pages/25503.png
+illustrations/pages/25504.png
+illustrations/pages/25505.png
+illustrations/pages/25506.png
+illustrations/pages/25507.png
+illustrations/pages/25508.png
+illustrations/pages/25509.png
+
+translations:
+
+English (Original)	Parna's Calf	id=21744

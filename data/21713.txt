@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21713&d=0&a=1
+id:	21713
+title:	Tortoise And Rabbit
+author:	African Storybook and Ursula Nafula
+artist:	Padmanabha
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21713.png
+desc:	Tortoise and Hare have work to do. Will they work together?
+
+page_text:
+
+P1	Long time ago, Tortoise and Rabbit ran a race.
+P2	It was a long race.
+
+Tortoise won, slow and steady.
+P3	Tortoise and Rabbit remained friends.
+P4	King Lion decided to send them to a neighbouring king.
+P5	Tortoise and Rabbit set out together.
+P6	King Lion watched them go.
+P7	The road they used was full of stones and thorns.
+P8	Rabbit carried Tortoise over thorns.
+P9	When they reached the river, Tortoise carried Rabbit across.
+P10	Tortoise swam very fast. 
+
+Rabbit held on his back.
+P11	Tortoise and Rabbit met with the neighbouring king.
+P12	On the way home, they were even better friends!
+
+images:
+
+illustrations/pages/2036.png
+illustrations/pages/2037.png
+illustrations/pages/2039.png
+illustrations/pages/2040.png
+illustrations/pages/2042.png
+illustrations/pages/2043.png
+illustrations/pages/2044.png
+illustrations/pages/2045.png
+illustrations/pages/2050.png
+illustrations/pages/2051.png
+illustrations/pages/2052.png
+illustrations/pages/2054.png
+illustrations/pages/2056.png
+
+translations:
+
+English (Original)	Hare and Tortoise (Again!)	id=2058
+English (Adaptation)	Tortoise And Rabbit	id=21320
+isiXhosa (Translation)	Ngumvundla Nofudo (Kwakhona!)	id=3084
+Kiswahili (Translation)	Sungura Na Kobe (Tena!)	id=3083
+Kiswahili (Translation)	Kobe na Sungura	id=22004

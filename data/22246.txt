@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=22246&d=0&a=1
+id:	22246
+title:	Murume asina kurongeka
+author:	Fiona Farisai Masinga and Fiona Masinga
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22246.png
+desc:	Murume asina kurongeka akatadza kuchengeta zvokudya zvakanaka
+
+page_text:
+
+P1	Paivapo neumwe murume ainzi Joel aigara mumusha weAya.
+P2	Haana kufunga zvekuchengeta zvokudya kuitira remangwana,  aingopfachura.
+P3	Mudura makanga muri gwenga.
+P4	Chibage chakanga chiri mumunda, chakaoma nezuva.
+P5	Kwakava nemhepo inesimba yakasimudza denga redura.
+P6	Panguva yekudya vana vakaita mahwekwe pazvokudya zvishoma zvakanga zvasara muchikari.
+P7	Nokuda kwekupererwa kuti vachapei vana mune ramangwana, amai vakachema.
+P8	Baba vakagara muderere remba, vachifunga nezvemazuva aitevera.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Uganda) (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

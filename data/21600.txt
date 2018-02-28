@@ -1,0 +1,53 @@
+url:	http://africanstorybook.org/reader.php?id=21600&d=0&a=1
+id:	21600
+title:	Inyaryenge Bakame
+author:	Jean Paul Harelimana
+artist:	Abraham Muzee
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21600.png
+desc:	Bakame ikomeje ubucakura. Soma wumve uko ikomeje kubeshya izindi nyamaswa.
+
+page_text:
+
+P1	Bakame yahuye n'Inzovu yikoreye akabya k'ubuki.
+P2	Inzovu yahetse Bakame ku mugongo wayo. Bakame yariye ubuki bwa Nzovu.
+P3	Basanze Imbogo mu mugezi irimo kunywa amazi.
+P4	Bakame yashatse kumenya ufite imbaraga nyinshi hagati y'Inzovu n'imbogo.
+P5	Sungura iribwira iti, "Nzi uburyo ndamenya ukuri".
+P6	Bakame yaziritse Inzovu umugozi mu nda ku ruhande rumwe.
+P7	Irongera izirika Inzovu umugozi mu nda kurundi ruhande.
+P8	Bakame ijya kwihisha mu giti iravuga iti, "Ngaho umwe nakurure undi"
+P9	Imbogo n'Inzovu birakurura. Inzovu ukurura Imbogo.
+P10	Inzovu ikurura Inzovu. Habura n'umwe utsinda.
+P11	Bakame ikeba umugozi ahegereye Imbogo. Inzovu ihita igwa hasi.
+P12	Bakame ikomera amashyi Imbogo iti,"Ni wowe utsinze!Ni wowe ufite imbaraga!"
+
+images:
+
+illustrations/pages/17187.png
+illustrations/pages/17185.png
+illustrations/pages/17186.png
+illustrations/pages/17188.png
+illustrations/pages/17189.png
+illustrations/pages/17191.png
+illustrations/pages/17192.png
+illustrations/pages/17193.png
+illustrations/pages/17194.png
+illustrations/pages/17195.png
+illustrations/pages/17196.png
+illustrations/pages/17199.png
+illustrations/pages/17201.png
+
+translations:
+
+Amharic (Translation)	ብልጣብልጧ ጥንቸል	id=21304
+Dhopadhola (Translation)	Oculu Ja Ryeko	id=19482
+English (Original)	Hare the Trickster	id=17453
+English (Adaptation)	Colour-In Hare The Trickster	id=18217
+English (Adaptation)	Trickster Hare	id=20917
+Kiswahili (Translation)	Sungura Mjanja	id=17533
+Kiswahili (Translation)	Ujanja wa Sungura	id=21154
+Maa (Translation)	Enkitejo	id=18989
+Tigrigna (Translation)	መታለሊ ማንቲለ	id=21183

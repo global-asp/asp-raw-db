@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=22324&d=0&a=1
+id:	22324
+title:	Musa da kyanwa
+author:	Zainab Muhd Kazaure
+artist:	Tawanda Mhandu
+lang:	Hausa (Nigeria)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22324.png
+desc:	Labarin Musa da Mage
+
+page_text:
+
+P1	Musa yaro ne mai kokari, sai dai fitinanne ne. Yana zaune da mahaifanshi a kauyen kagadama.
+P2	Musa yaro ne mai zaluntar yara 'yan uwanshi. Wani lokaci ma har dabbobi ma in ya gani ko a gida ko hanya sai ya basu wahala.
+P3	Rannan akan hanyar sa ta dawowa daga makaranta, sai ya tsinto kyanwa. Yana ganin ta sai ya sa hannu ya dauke ta, ya kai ta gidan su.
+P4	Baban shi yace, kai musa? Ka mayar da kyanwar nan inda ka dauko ta, ka daina bata wahala.
+P5	Musa bai ji maganar baban shi ba sai ya kulle kyanwar a akurki.
+P6	Wata rana yana kwance a daki da daddare, sai ya ga kyanwar nan ta zama katuwa, ta nufo shi da bakin ta a bude, hakoranta zako-zako za ta hadiye shi.
+P7	Ta fara daga kafafun sa, suka shige cikin bakin ta gaba daya, sai musa ya farka daga bacci ashe Mafarki yake!
+P8	Gari na waye wa, musa ya mayar da ita inda ya dauko ta, daga nan yayi alkawarin gyara halayen sa.
+
+images:
+
+illustrations/pages/26349.png
+illustrations/pages/26346.png
+illustrations/pages/26347.png
+illustrations/pages/26348.png
+illustrations/pages/26349.png
+illustrations/pages/26350.png
+illustrations/pages/26351.png
+illustrations/pages/26352.png
+illustrations/pages/26353.png
+
+translations:
+
+English (Translation)	Musa and the cat	id=22325
+Kiswahili (Translation)	Musa na paka	id=22352

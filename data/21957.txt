@@ -1,0 +1,39 @@
+url:	http://africanstorybook.org/reader.php?id=21957&d=0&a=1
+id:	21957
+title:	Abajura babiri
+author:	Epimaque Niyibizi
+artist:	Marion Drew
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21957.png
+desc:	Inkuru yabajura babiri bashatse kwiba ibigori mu murima wumuhinzi.
+
+page_text:
+
+P1	Ijoro rimwe, abajura babiri bashatse kwiba ibigori mu murima w'umuhinzi. Abo bajura ntabwo bari baziranye.
+P2	Umujura wa mbere yaraje, maze aca ibigori byuzuye umufuka.
+P3	Umujura wa kabiri na we yinjiye mu murima w'ibigori, asiga igare rye ku ruhande.
+P4	Abo bajura babiri bagonganira mu murima w'ibigori. Bombi bavuza induru, bati: "Wowe uri nde?"
+P5	Bombi bagira ubwoba maze biruka bagana mu byerekezo bitandukanye.
+P6	Umujura wa mbere asiga umufuka wuzuye ibigori.
+P7	Umujura wa kabiri asiga igare rye.
+P8	Nyir'umurima aje, afata rya gare aripakiraho wa mufuka w'ibigori arigendera.
+
+images:
+
+illustrations/pages/18364.png
+illustrations/pages/18363.png
+illustrations/pages/18364.png
+illustrations/pages/18365.png
+illustrations/pages/18366.png
+illustrations/pages/18367.png
+illustrations/pages/18368.png
+illustrations/pages/18369.png
+illustrations/pages/18370.png
+
+translations:
+
+Alur (Translation)	Jukwo Aryo	id=18774
+English (Original)	Two Thieves	id=18773
+IsiNdebele (Zimbabwe) (Translation)	Amasela amabili	id=22174

@@ -1,0 +1,63 @@
+url:	http://africanstorybook.org/reader.php?id=21533&d=0&a=1
+id:	21533
+title:	Iqhinga Lakatjhontjhwani
+author:	Bangula Lingo Centre cc
+artist:	Steven McKimmie
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21533.png
+desc:	UTjhontjhwani omncani uthanda khulu ukufunda. Ubefunda ilanga loke
+
+page_text:
+
+P1	UTjhontjhwani omncani uthanda khulu ukufunda. Ngamalanga bebahlala barhuga uTjhontjhwani.
+
+"Abotjhontjhwani abafundi. Abotjhontjhwani kufanele bondle. Abotjhontjhwani babuthelela ukudla abakufunako."
+P2	UTjhontjhwani omNcani ubefunda ilanga loke, afunde, afunde ilanga belitjhinge.
+P3	Abanye abotjhontjhwani babuthelele ukudla abakutholako bese bakubulungela ubusika ngaphasi komhlabathi.
+P4	Unina noyise kaTjhontjhwani omNcani bese ibahlanganisa ihloko indaba le. UTjhontjhwani azange imphathe kuhle indaba le.
+P5	Ngesikhathi sesiruthwana lokha amakari nakathoma ukuwela phasi, abotjhontjhwani kufanele babuthelelele ukudla ngaphasi komhlabathi.
+P6	INdlovukazi ifuna ukudla kuzale esitorweni, ngalokho boke abojhontjhwani kufanele basebenze.
+P7	UTjhontjhwani omNcani wathoma ukurhuwelela ngalokhu afunda ngakho.
+
+"Irestjurente yinto esiyidingako, indawo lapha abantu badlela khona. Itjho njalo incwadi engiyifundako."
+P8	Abotjhontjhwani bathoma ukukhamba ngamunye ngamunye. Bakhamba nje baya lapha ilanga litjhinga ngakhona.
+P9	UTjhontjhwani omNcani wathi, "Naku okhunye!"
+P10	Abotjhontjhwani bakhamba ngamunye ngamunye baphethe ibhega, baphethe ibhansi.
+P11	Lokha nababuyako bathole iNdlovukazi ithabe khulu. Iintoro bezizele swi. Bathaba khulu.
+P12	Unina noyise wabotjhontjhwani wagona abantwana babo.
+P13	Umntwana wakwabo omntazana walotjhisa uTjhontjhwani omNcani
+
+"Njeke ngiyazwisisa. Ngendlela uthanda ukufunda incwadi ngakhona, kungenza bona ngifune ukuqalaqala nami."
+
+images:
+
+illustrations/pages/15443.png
+illustrations/pages/15444.png
+illustrations/pages/15445.png
+illustrations/pages/15446.png
+illustrations/pages/15447.png
+illustrations/pages/15448.png
+illustrations/pages/15449.png
+illustrations/pages/15450.png
+illustrations/pages/15451.png
+illustrations/pages/15452.png
+illustrations/pages/15454.png
+illustrations/pages/15455.png
+illustrations/pages/15457.png
+illustrations/pages/15458.png
+
+translations:
+
+Afrikaans (Translation)	Klein Miertjie Se Groot Plan	id=21532
+English (Original)	Little Ant's Big Plan	id=15459
+isiXhosa (Translation)	Amalungiselelo Amakhulu Embovane Encinane	id=21425
+isiZulu (Translation)	Icebo Elikhulu Likantuthwane Omncane	id=21534
+Lusoga (Translation)	Ntegeka Eya Kasimizi  Mbbedde	id=20218
+Sepedi (Translation)	Leano Le Legolo La Ngwana Tšhošane	id=21535
+Sesotho (South Africa) (Translation)	Leano Le Leholo La Bohlwanyana	id=21645
+Setswana (Translation)	Leano Le Legolo La Tshoswane	id=21536
+Siswati (Translation)	Lisu Lelikhulu Lantfutfwane Lomncane	id=21537
+Tshivenda (Translation)	Maano Mahulu A Lusunzi	id=21538
+Xitsonga (Translation)	Kungu Lerikulu Ra N'warisokotinyana	id=21539

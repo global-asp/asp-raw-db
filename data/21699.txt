@@ -1,0 +1,77 @@
+url:	http://africanstorybook.org/reader.php?id=21699&d=0&a=1
+id:	21699
+title:	Luka Bineensoota
+author:	Mulualem  Daba
+artist:	Wiehan de Jager
+lang:	Afaan Oromo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21699.png
+desc:	Waaqayoo bineensoota hundaaf akka nama akka deemanif luka keenefi.
+
+page_text:
+
+P1	Bara durii, bineensooni luka hinqaban ture.
+P2	Waaqayo namootaf qofaa luka keenna.
+P3	Waaqayo bineensoota hundaaf luka keennuuf murtese.
+P4	Bineensooni deemufi fiiguf luka isaan barbaachisa.
+P5	Lafaa irraa lo'uuf itti ulfaata.
+P6	Bineensootni yeroo adda adda gara mana waaqayoo foqoqani deemu.
+P7	Waaqayoos bineensotafi sinbirootaf luka kenne.
+P8	Bineensooni gar tokko yommuu shubisaan, kan haafan immoo in kufan.
+P9	"Lammaffa hinfoqooqnu!" jedhani.
+P10	Dhuma irraati kan haafe mil-kumee ture.
+P11	Waaqayoos lukaa hafee hundumaa kennef.
+P12	Mil-kumeenis, "Hunda isaani caala saffisan nan deema," jedhe gammachuun.
+P13	Mil-kumee booda bofni gara mana waaqayoo deeme, "Maalo lukaa naafkenni," jedhe kadhaate.
+P14	Bofti, "Ani deemu hindanda'uu," jedhe.
+P15	Waaqayoos luka keenufif jedhe barbaade dhabe.
+P16	Bara sana kaase hangaa ammatti boofti lukti nafkeenama jedhe eega jira.
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+Afrikaans (Translation)	Maguru Deel Bene Uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+Dhopadhola (Translation)	Ogwange Jo Nwaŋo Tyendi Gin	id=21239
+English (Original)	Maguru Gives Legs	id=14415
+Hausa (Nigeria) (Translation)	Madugu ya raba Qafafu	id=21315
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+Igbo (Translation)	Chiokike na-enye ụkwụ!	id=22122
+isiNdebele (Translation)	UMaguru unikela imilenze	id=21940
+isiXhosa (Translation)	UMaguru uphisa ngemilenze	id=17576
+isiZulu (Adaptation)	UMveli unikela ngemilenze	id=17461
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Kiswahili (Translation)	Maguru apatiana miguu	id=14412
+Kiswahili (Translation)	Wanyama wapata miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
+Sepedi (Translation)	Maguru O Abela Diphoofolo Maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru o fana ka maoto	id=20037
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Siswati (Translation)	Mveli unikela ngemilente	id=21735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Tshivenda (Translation)	Maguru U Ṋekedza Milenzhe	id=18285
+Xitsonga (Translation)	Maguru A Phakela Milenge	id=18870

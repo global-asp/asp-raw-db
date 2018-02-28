@@ -1,0 +1,35 @@
+url:	http://africanstorybook.org/reader.php?id=21973&d=0&a=1
+id:	21973
+title:	ninyenda okuba omugabe
+author:	Katusiime Gift
+artist:	Thea Nicole de Klerk
+lang:	Rukiga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21973.png
+desc:	Nikikwata aha mutu ori kutekateka aha kuba omugabe noku arayetwaze.
+
+page_text:
+
+P1	ori kutwazagye kandi oyine obushoborozi
+P2	namarangi marungi nkamapapa ge kikoko
+P3	nagiraho ekihuro
+P4	kabire ndenda kureba
+P5	amapapa gari kwerera omumwanya
+P6	ninyenda ngu nkwereka abandi oku' abagabe baratura
+P7	ninyenda kuba omugabe
+
+images:
+
+illustrations/pages/16780.png
+illustrations/pages/17351.png
+illustrations/pages/17336.png
+illustrations/pages/19249.png
+illustrations/pages/8805.png
+illustrations/pages/8806.png
+illustrations/pages/17341.png
+illustrations/pages/17724.png
+
+translations:
+
+English (Original)	i plan to be a king	id=21967

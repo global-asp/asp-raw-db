@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=22228&d=0&a=1
+id:	22228
+title:	Mbuya naTsuro
+author:	Lilian Chaminuka
+artist:	Rob Owen
+lang:	ChiShona
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22228.png
+desc:	Iyi inyaya inoitika pakati pevamwe mbuya pavanoshanyira mwanasikana wavo mhiri kwerwizi.
+
+page_text:
+
+P1	Kare kare kwaiva nevamwe mbuya vaiva nehunyanzvi hwekurima.
+
+Mwanasikana wavo akaroorwa nemurume aigara mhiri kwerwizi.
+P2	Mbuya vakarongedza mupfarinya, nyemba nemadhumbe mutswanda yavo. Vaishanyira mwanasikana wavo nemukwasha wavo.
+P3	Vayambuka rwizi, vakanzwa izwi ravasingazivi richiti, "Gadzika pasi tswanda iyo!"
+
+Mbuya vakabvunza, "Ndiwe ani?"
+P4	Izwi rakapindura, "Ndini mambo wesango. Ndinokonzera kuti vanhu varware nemudumbu nedzihwa. Ndinoita kuti vapindwe nechando vachibvunda."
+
+Nekutya, mbuya vakakanda tswanda yavo pasi vakamhanya.
+P5	Pavakasvika kumukwasha wavo, vakamuudza nezve izwi iri rakavavhundutsa.
+
+Mukuwasha wavo akati, "Pamunouyazve kuzoshanya, mutore imbwa yenyu muise mutswanda yenyu huru."
+P6	Kwapfuura vhiki, mbuya vakatora zitswanda ravo vachienda kunoshanyira mwana wavo nemukwasha wavo.
+
+Vayambuka rwizi, vakanzwa izwi riya richiti, "Gadzika pasi tswanda yako! Ndini mambo wesango. Ndinokonzera vanhu kuti varware nemudumbu nedzihwa. Ndinoita kuti vapindwe nechando vachibvunda!"
+P7	Vakagadzika tswanda yavo pasi, vachibva vabva ipapo ndokumira nechekure vachiona kuti chii chaizoitika. 
+
+Pane mhuka yakabva yabuda kubva pasi pezambuko. Kaingova katsuro kadiki!
+
+Nekukurumidza, tsuro yakabvisa muvharo wetswanda.
+P8	Iyoo! Yakabuda imbwa yaiva yakatsamwa! Ndipo pakaperera tsuro.
+
+images:
+
+illustrations/pages/25389.png
+illustrations/pages/25385.png
+illustrations/pages/25386.png
+illustrations/pages/25387.png
+illustrations/pages/25388.png
+illustrations/pages/25389.png
+illustrations/pages/25390.png
+illustrations/pages/25391.png
+illustrations/pages/25392.png
+
+translations:
+
+English (Translation)	Old Woman And Hare	id=21501
+Kinyarwanda (Original)	Umukecuru Na Bakame	id=21500

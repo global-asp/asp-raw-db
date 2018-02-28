@@ -1,0 +1,48 @@
+url:	http://africanstorybook.org/reader.php?id=22305&d=0&a=1
+id:	22305
+title:	Rə́mé du kiŋgàn é ntèʼ
+author:	Beatrice Tafon Takeh and Mbinkar Emmanuel Keelen
+artist:	Wiehan de Jager
+lang:	Lámnsoʼ
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22305.png
+desc:	Wàn kì dzə́ e kwaʼ
+
+page_text:
+
+P1	Yír yémé dzə̀ Kobole. A m dzə́ e ntèʼ a yì dzə̀ e dórín.
+P2	Mò-oò ghán bóŋri à frur, e nèn lò e yèn kifá kímóʼ kí ke m yò-oò yiì ne e yèn.
+P3	Nsə̀ŋ sí-iì dzə̀ é yúv, a sí dzə̀ nshòm si nshòm si.
+P4	M nèn màʼày afrur vìy àdzə̀m e shèr kileʼ ji m du, e fèr a e wíri fó láʼ.
+P5	Wíri-iì tíynin fo ndzə leey kér gháʼ.
+P6	M shéʼ, e súúy jii, "Fèn dzə̀ kóy ndzə̀y a wú kér e yuv." Neno suúy jii, "Àáyà, m kwaʼ kém ji wìr cuurì a dzə̀ a pen fo yuv."
+P7	Wír ámóʼó wàa biímé ji m suuy a rú. Aámóʼó kwàʼtì kév ji suuy a Neno rú. Vèr nèn kèʼ mbìʼ.
+P8	Wìr wùmòʼ a wù wíy fó ntèʼ yìmòʼ kwaʼda nèn yòŋ jii, "Wìr wo wù yòŋèn kinyo kee réŋ kí fo vèn yòʼ dzə̀."
+P9	Vèr nèn yòŋ kitávín jii, "A dzə̀ ji vèr yòʼ yòŋ réŋ, à nèn naàrì ver kifá kee shó."
+P10	Wìr wo wiyìn və̀y nèn yòŋ jii, "Dzə̀ rə́m. Vèn yòʼ-oò yiì ne e yèn rə́m a?"
+P11	Vèr nèn dzə̀r e wìr wo wiyìn və̀y jii, "Rə́mé dzə̀ ka?"
+P12	Neno dzə́r jii, "Sí kér ver a? A dzə vèr lèm fen à?" Bó vèr yòʼ fə̀m-eè lo keèrí binèr si bìʼ fo wìr və̀y-iì ŋeemen ne e lày.
+
+images:
+
+illustrations/pages/10970.png
+illustrations/pages/10965.png
+illustrations/pages/10966.png
+illustrations/pages/10967.png
+illustrations/pages/10969.png
+illustrations/pages/10970.png
+illustrations/pages/10971.png
+illustrations/pages/10973.png
+illustrations/pages/10975.png
+illustrations/pages/10976.png
+illustrations/pages/10977.png
+illustrations/pages/10979.png
+illustrations/pages/10980.png
+
+translations:
+
+English (Translation)	Rainbow Visits The Village	id=11142
+French (Translation)	Un Arc-En-Ciel De Passage Au Village	id=13774
+Kiswahili (Original)	Siku tuliyouona upinde	id=11139
+Portuguese (Translation)	O Arco-Íris Visita a Aldeia	id=18857

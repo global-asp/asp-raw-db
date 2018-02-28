@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=22221&d=0&a=1
+id:	22221
+title:	Mhuka ine zviviri
+author:	Lilian Chaminuka
+artist:	Jesse Breytenbach
+lang:	ChiShona
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22221.png
+desc:	Mhuri yekwa Izinzawu yakasangana nemhuka isina kumboonekwa.
+
+page_text:
+
+P1	Mhuri yekwa Izinzawu yaiva mhuri  inofara. Vanasikana vaviri vakadzidziswa kubika nekurima namai vavo. Vanakomana vaviri vakadzidziswawo kuvhima nababa vavo.
+P2	Pakudya kwemanheru nguva dzose, munhu wese aitaura zvaaiva aswera achiita zuva rese.
+P3	Baba vaiwanzoudza vana kuti vasaende pakatikati pesango. Vaiudza mhuri yavo kuti musango maiva nemhuka isati yamboonekwa yaigaramo. "Mhuka iyi yakakura sevaviri vedu takasanganiswa"
+P4	Mumwe musi vasikana vaitamba kurwizi. Pakare ipapo, kuseri kwemuti kwakabuda mhuka isati yamboonekwa! Mhuka iyi yaive nemaziso maviri, nzeve mbiri, maoko maviri nemakumbo maviri.
+P5	Vasikana vakavhunduka, ndokubva vamhanya kunoudza hanzvadzi dzavo zvavaiva vaona. Asi vakomana havana kuzvibvuma, vakati, "Vasikana ava vanopenga!"
+P6	Asi pakupedzisira vakomana vakaita shungu ndokutevera vasikana kurwizi kuti vazvionere vega mhuka iyi.
+P7	Vakatsvaga pese  asi havana chavakaona. Vaingoona huswa hwakareba nemiti.
+
+Asi pakare ipapo vakabva vanzwa ruzha, ndokubva vatarisa kudenga.
+P8	Pamusoro pemuti vakaona mhuka isati yamboonekwa. Mhuka iyi yaiva nemaoko maviri, makumbo maviri, netsoka mbiri. Mhuka iyi yaiva yakasiyana naivo pakusikwa nekuti ivo vaiva neruoko rumwe chete, gumbo rimwe chete ne tsoka imwe chete.
+P9	Vana vakatya ndokutizira kumba kunoudza vabereki vavo. Mhuri yese yakaenda kurwizi kunoona mhuka iyi.
+P10	"Musandikuvadze!" mhuka yakadaro, yakavanda kuseri kwemuti. Parizvino mhuri yaiva ichiona gumbo rimwe, ruoko rumwe, tsoka imwe neziso rimwe remhuka iyi.
+P11	"Ndakangofanana nemi," mhuka yakadaro. "Takangosiyana nekuti ini ndine makumbo maviri, maoko maviri, maziso maviri, nzeve mbiri netsoka mbiri."
+P12	Saka mhuri yekwa Izinzawu ndipo payakaziva kuti yaisava mhuka yavaitya, asi munhu akangosiyana navo pakusikwa kwake.
+
+images:
+
+illustrations/pages/19458.png
+illustrations/pages/19455.png
+illustrations/pages/19456.png
+illustrations/pages/19457.png
+illustrations/pages/19458.png
+illustrations/pages/19459.png
+illustrations/pages/19460.png
+illustrations/pages/19461.png
+illustrations/pages/19462.png
+illustrations/pages/19463.png
+illustrations/pages/19464.png
+illustrations/pages/19465.png
+illustrations/pages/19466.png
+
+translations:
+
+English (Original)	Creature With Two	id=19467
+isiZulu (Translation)	Izinzawu	id=19468
+Kiswahili (Translation)	Kiumbe cha ajabu	id=20022

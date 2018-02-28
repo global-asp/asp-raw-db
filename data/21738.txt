@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=21738&d=0&a=1
+id:	21738
+title:	Libhayisikili laNamu
+author:	Fakazile Armooh
+artist:	Salim Kasamba
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21738.png
+desc:	Ingobiyane yabonakala seyigibele libhayisikili laNamu ihamba nalo.
+
+page_text:
+
+P1	BoNamu nemnakabo sebalungele kuya esikolweni.
+P2	Namu ugibelisa umnakabo ebhayisikilini nabaya esikolweni.
+P3	Bangani babo bayabajabulela uma bafika esikolweni begibeliseni.
+P4	Ngalesikhatsi baseklasini, kwafika ingobiyane ngaphandle. Ingobiyane yabonakala seyigibele libhayisikili laNamu ihamba nalo.
+P5	Bantfwana besikolo bayicoshisa ingobiyane.
+P6	Ingobiyane ishiya libhayisikili ngaphasi kwesihlahla.
+P7	Yesuka lapho yahlamba ibalekela esichingini lesasisemkhatsini welichibi lelikhulu. Yagibe layaya etulu esihlahleni.
+P8	Ingobiyane iphakamisa sandla sayo ivalelisa! Bantfwana nabobaphakamisa tabo tandla bayavalelisa. Namu ujabulile ngobe ulitfolile libhayisikili lakhe.
+
+images:
+
+illustrations/pages/13433.png
+illustrations/pages/13429.png
+illustrations/pages/13430.png
+illustrations/pages/13431.png
+illustrations/pages/13432.png
+illustrations/pages/13433.png
+illustrations/pages/13434.png
+illustrations/pages/13435.png
+illustrations/pages/13436.png
+
+translations:
+
+Afrikaans (Translation)	Namu se Fiets	id=20087
+Afrikaans (Translation)	Namu se fiets	id=22356
+English (Translation)	Namu's Bicycle	id=13922
+French (Translation)	La Bicyclette De Namukuru	id=14968
+isiNdebele (Translation)	Itsikiri kaNamu	id=21943
+isiXhosa (Translation)	Ibhayisekile kaNamukuru	id=14120
+isiZulu (Translation)	Ibhayisikili likaNamakuru	id=15049
+Lunyole (Adaptation)	Egaali	id=16576
+Oluwanga (Original)	Lishene Ne Ingarangarani	id=13921
+Portuguese (Translation)	A Bicicleta De Namukuru	id=17618
+Sesotho (South Africa) (Translation)	Baesekele Ya Namukuru	id=14510
+Sesotho (South Africa) (Translation)	Baesekele ya Seipati	id=20039
+Setswana (Translation)	Baesekele Ya Ga Bontle	id=21780
+Tshivenda (Translation)	Lukanyakanya Lwa Namukuru	id=14775
+Xitsonga (Translation)	Xikanyakanya Xa Masesi	id=14518

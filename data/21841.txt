@@ -1,0 +1,59 @@
+url:	http://africanstorybook.org/reader.php?id=21841&d=0&a=1
+id:	21841
+title:	Kima na Fisi
+author:	Ursula Nafula
+artist:	Salim Kasamba
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21841.png
+desc:	Ni nani atasuluhisha ugomvi kati ya Kima na Fisi?
+
+page_text:
+
+P1	Kima na Fisi waligombana.
+
+Walitaka ushauri wa jaji.
+P2	Jaji aliwaza, "Kima atakula mahindi yangu. Fisi atakula mifugo wangu!"
+P3	Mwishowe, Jaji aliwaambia, "Tafuteni ushauri wa wazee wa kijiji."
+P4	Wazee pia waliogopa. 
+
+Hawakuamua kesi kati ya Kima na Fisi.
+P5	Wazee waliwaambia Kima na Fisi, "Kesi hii ni ngumu sana."
+P6	Wazee walisema, "Tafuteni ushauri kutoka kwa mwanamke maskini."
+P7	Mwanamke maskini alikubali kuamua kesi yao.
+
+"Sina mali ya kupoteza."
+P8	Alimwambia Fisi, "Unaheshimiwa, ni mkubwa na ni shujaa. Acha ugomvi."
+P9	Fisi alijibu, "Umesema ukweli. Nitakomesha huu ugomvi. Sitaki aibu."
+P10	Mwanamke alimwambia Kima, "Wewe ni mwerevu. Acha ugomvi."
+ 
+Kima alikubali.
+P11	Aliwaambia, "Mmekubali kukomesha ugomvi. Ni vyema kusameheana."
+P12	Mwanamke maskini alisuluhisha tatizo lao.
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18696.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18708.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18706.png
+illustrations/pages/18707.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+Afaan Oromo (Adaptation)	Warabessaafi Qaamale	id=21771
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	Colour-In Hyena And Monkey 	id=20157
+English (Adaptation)	Monkey And Hyena	id=21395
+Kiswahili (Translation)	Mzozo wa Fisi na Kima	id=22061
+Lámnsoʼ (Translation)	Kán wùn Kuúrá	id=22414

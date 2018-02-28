@@ -1,0 +1,86 @@
+url:	http://africanstorybook.org/reader.php?id=22053&d=0&a=1
+id:	22053
+title:	Babbar Shuxiyar Mota
+author:	Lawali Kaura and Muhammad Tukur Bala
+artist:	Mango Tree
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22053.png
+desc:	Tanko da Mahaifiyarsa suna jiran babbar shuxiyar Mota ta kai su gari.
+
+page_text:
+
+P1	Babbar mota xaya ce tak a qauyen su Tanko. Babba ce, kuma shuxiya. Tana da qara sosai.
+P2	Gobe za mu je gari, inji mahaifiyar Tanko. "Za mu sayo kayan makarantarka."
+P3	Tanko ya yi murna sosai. Za su yi tafiya a babbar shudiyar mota. Bai yi barci ba wannan daren.
+P4	Yayin da mahaifiyarsa ta je tada shi, 
+Tanko ya riga ya shirya.
+P5	Tanko da mahaifiyarsa sun je inda motar ke tsayawa. Sun jira babbar shuxiyar mota, amma motar ba ta zo ba.
+P6	Wasu mutane sun isa wurin tsayawar mota. Sun yi koke saboda motar ta makara. "Ina motar?" Suka tambaya.
+P7	Tanko ya damu. "Ba mu da damar zuwa gari," ya yi tunani. Ba zai samu kayan makaranta ba.
+P8	Wasu mutane suka haqura, suka koma gida. Tanko ya yi kuka, "Bai son ya koma gida." Za mu jira kaxan in ji mahaifiyarsa.
+P9	Nan take sai suka ji qara. Suka ga qura na tashi a sama. Motar tana zuwa!
+P10	Amma motar ba shuxiya ba ce, ba ta da girma. Ita ja ce, kuma qarama. Mutane ba sa son shiga wannan motar.
+P11	"A shiga! A shiga!" Direba ya daka tsawa. "Yau mun makara sosai,"  ya  gaya masu.
+P12	Tanko da mahaifiyarsa suka fara shiga. Nan da nan kowa ya shiga cikin babbar  jar mota.
+P13	Tanko ya duba ta taga, sai ya ga mutane da yawa a tashar motar.
+P14	Mutane da yawa suna gudu don su samu motar. Amma sun makara. Jar motar ta cika. Ta tafi zuwa gari.
+P15	"Ina  babbar shuxiyar motar?" Mahaifiyar Tanko ta tambaya. "Ta lalace," inji direba. Muna gyaranta. Za ta zo gobe.
+P16	Tanko bai damu da launin motar ba. Kuma bai damu da girmanta ba. Wannan motar za ta je gari.
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot Blou Bus	id=20051
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big Blue Bus	id=12083
+English (Adaptation)	When the big blue bus was late	id=20309
+French (Translation)	Le Grand Bus Bleu	id=13271
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+Igbo (Translation)	Ugbọala bọsụ ojii ukwu	id=22156
+isiNdebele (Translation)	Mhlana ibhesi ifika ngemva kwesikhathi	id=20828
+isiNdebele (Translation)	Ibhesi ekulu ehlaza sasibhakabhaka	id=21919
+isiXhosa (Translation)	Ibhasi Enkulu Emzuba	id=16549
+isiXhosa (Translation)	Ibhasi enkulu ezuba	id=17502
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwe Sibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi elikhulu eliluhlaza	id=17335
+isiZulu (Translation)	Mzukwana ibhasi lifika emva kwesikhathi	id=20688
+Kinyarwanda (Translation)	Bisi Nini Y'ubururu	id=17456
+Kiswahili (Translation)	Basi kubwa la bluu	id=12428
+Lámnsoʼ (Translation)	Mótù wo faŋèn wo wù kiʼ blùu	id=22272
+Luganda (Translation)	Baasi Ennene  Eya Bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbululu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Sepedi (Translation)	Pese Ye Kgolo Ye Talalerata	id=17993
+Sesotho (South Africa) (Translation)	Bese ya mmala wa botala ba lehodimo	id=20023
+Sesotho (South Africa) (Translation)	Ha bese e kgolo e bolou e siilwe ke nako	id=20835
+Setswana (Translation)	Bese e Kgolo ya Mmala wa Botala jwa Legodimo	id=17644
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Siswati (Translation)	Ibhasi lenkhulu leluhlata kwesibhakabhaka	id=20782
+Siswati (Translation)	Ibhasi lenkhulu leluhlata sasibhakabhaka	id=21512
+Tshivenda (Translation)	Bisi Khulwane Dala	id=18286
+Xitsonga (Translation)	Bazi Lerikulu Ra Muhlovo Wa Wasi	id=18988

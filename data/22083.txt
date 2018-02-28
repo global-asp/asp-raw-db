@@ -1,0 +1,61 @@
+url:	http://africanstorybook.org/reader.php?id=22083&d=0&a=1
+id:	22083
+title:	Panya
+author:	Brigid Simiyu
+artist:	Zablon Alex Nguku
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22083.png
+desc:	Panya wa kichakani anamtembelea panya wa nyumbani kisha anaona maisha bora anayoishi mle ndani. Lakini ulafi wa panya wa nyumbani unamzidi. Panya wa kichakani anajifunza kuthamini nyumbani kwake.
+
+page_text:
+
+P1	Hapo zamani za kale, palikuwa na panya wawili. 
+
+Mmoja aliishi kichakani.
+P2	Panya yule mwingine aliishi nyumbani.
+P3	Panya aliyeishi nyumbani alimwambia aliyeishi kichakani, "Unakula na kulala vibaya. Sisi tunalala na kula vizuri."
+P4	"Njoo ututembelee siku moja ujionee." Panya aliyeishi nyumbani alisema. "Niko tayari kuja usiku wa leo." Panya aliyeishi kichakani alijibu.
+P5	Wakati huo, mwenye nyumba alikuwa amekasirika sana. Alisema, "Hawa panya wanaokula chakula changu wataona!" 
+
+Aliweka mtego wa sukari.
+P6	Panya wale wawili waliingia mle nyumbani kula vinono.  
+
+Walicheka, "Chuchuchichicheche!"
+P7	Walipoufikia mtego, panya aliyeishi nyumbani alisema, "Hebu nionje hii sukari. Leo utajua vitamu tunavyokula hapa."
+P8	Lakini hata kabla ya panya kuonja sukari, mtego uliteguka, pa! Panya alishikwa shingoni. Macho yake yalivimba kama mbilingani.
+P9	Panya aliyeishi kichakani alitazama tu kwa mshangao. 
+
+Alisema, "Rafiki yangu, ni vitamu gani ulivyokula vilivyoyafanya macho yako kuvimba?"
+P10	Lakini, panya aliyeishi nyumbani hakuweza kumjibu.
+P11	Panya aliyeishi kichakani aliondoka pale akisema, "Haa! Sitaweza kuvifurahia hivi vitamu anavyovisifu."
+P12	Heri nyumbani kwako kubaya kuliko kwa jirani kuzuri.
+
+images:
+
+illustrations/pages/7506.png
+illustrations/pages/7496.png
+illustrations/pages/7497.png
+illustrations/pages/7498.png
+illustrations/pages/7499.png
+illustrations/pages/7500.png
+illustrations/pages/7501.png
+illustrations/pages/7502.png
+illustrations/pages/7503.png
+illustrations/pages/7504.png
+illustrations/pages/7505.png
+illustrations/pages/7505.png
+illustrations/pages/7506.png
+
+translations:
+
+Afrikaans (Translation)	Die Rot	id=11325
+English (Translation)	The Rat	id=7769
+English (Adaptation)	The Big Rats	id=13612
+Kiswahili (Translation)	Panya	id=8439
+Likpakpaanl (Translation)	Lisayikl	id=18782
+Lunyole (Translation)	Embeba	id=13611
+Portuguese (Translation)	A Ratazana	id=18858
+Portuguese (Translation)	A Ratazana	id=18890
+Rutooro (Translation)	Embeba	id=14941

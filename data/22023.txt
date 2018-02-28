@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=22023&d=0&a=1
+id:	22023
+title:	Mwamburi na Mughenyi  wake
+author:	Lucy Nyathira
+artist:	Isaac Okwir
+lang:	Kidawida
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22023.png
+desc:	Mlisha mutini okirwa kufuma ndengonyi ni mughenyi wake. Lola seji ghekoghe.
+
+page_text:
+
+P1	Mwamburi na kichuku chake weka wikikaiya kula na muzi mubaha.
+P2	Ikoshi ya Mwamburi yadawangwa Mzozo. Mwamburi na Mzozo wedekundanana ndighi.
+P3	Ituku jimu ja kufulwa nguwo, Mwamburi na Mwakio
+wedenda kulisha mifugho.
+P4	Mwakio wedekunda kusarigha lakini Mwamburi wedekunda kushoma.
+P5	Kutuwa kwaro, Mwakio na Mwamburi wechesarigha.
+P6	Iji wekowikisarigha ng'ondi rawo rikalaghaya. 
+Wana wa womi awa wikarilola.
+P7	Kipwau chedebwagha ng'ondi ra Mwamburi. 
+Mwamburi udeubuwa kukabwa ni ndee.
+P8	Mwamburi udeamua kulala mudinyi.  
+
+Mzozo udelala kavuyeri.
+P9	Kioghadi, mbisi redeboka nandighi. 
+
+Mwamburi ukaingilwa ni wowa.
+P10	Mwamburi ukawuduka kufuma mudinyi.  
+
+Ukasikira ndoghoi kavueri na omoni.
+P11	Mwengere ghukafumira aighu. Mwamburi odewona Mzozo ghukimlindiya usekejighwa.
+P12	Mzozo ghudekira Mwamburi. Mwamburi na Mzozo widekaiya mudinyi mpaka ndoe kuela.
+
+images:
+
+illustrations/pages/25050.png
+illustrations/pages/25047.png
+illustrations/pages/25048.png
+illustrations/pages/25049.png
+illustrations/pages/25050.png
+illustrations/pages/25051.png
+illustrations/pages/25052.png
+illustrations/pages/25053.png
+illustrations/pages/25054.png
+illustrations/pages/25055.png
+illustrations/pages/25056.png
+illustrations/pages/25057.png
+illustrations/pages/25058.png
+
+translations:
+
+Amharic (Translation)	እረኛውና የልብ ጓደኛው	id=20444
+English (Original)	Shepherd And His Best Friend	id=20414
+English (Adaptation)	Tarik and his Friend	id=21397
+Kiswahili (Translation)	Tarik na rafiki yake	id=22003

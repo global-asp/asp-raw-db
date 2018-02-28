@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=22084&d=0&a=1
+id:	22084
+title:	Chui na Swara
+author:	Brigid Simiyu
+artist:	Isaac Okwir
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22084.png
+desc:	Chui na Swara walikula kiapo kuwa marafiki. Lakini urafiki wao haukuwa na matumaini kutoka mwanzo.
+
+page_text:
+
+P1	Mara nyingi, Chui alitaka kumshika Swara.
+P2	Swara naye alikuwa akitoroka kila alipomwona Chui.
+P3	Siku moja, Chui alimwambia Swara, "Ningependa tuwe marafiki. Unachokula, mimi sili. Hakuna sababu ya kuwa maadui."
+P4	Swara alikubali. Chui akasema, "Tule kiapo cha kutufanya marafiki. Atakayeasi, mtoto wake atakufa."
+P5	Walikula kiapo cha kuwafanya marafiki. 
+
+Usiku, Swara alilala chini ya mti na Chui akalala juu ya mti katikati ya matawi.
+P6	Baada ya muda, Swara alinona na Chui alikonda.
+P7	Chui alitamani kumla Swara aliyenona. Akasema, "Sina haja na kiapo. Sina hata mtoto!"
+P8	Chui alimrukia Swara akajaribu kumshika. 
+
+Lakini, hakuweza. Alinaswa kwenye matawi.
+P9	Swara alishtuka sana. Aliruka juu akaanza kulia, "Bee! Bee!"
+P10	Chui akamsihi, "Rafiki yangu, nisaidie. Tulikubaliana kuwa atakayevunja kiapo chetu, atampoteza mtoto wake."
+P11	Swara alimjibu, "Inaonekana kuwa wazazi wako ndio waliokula kiapo. Sasa wewe ndiwe utakayekufa."
+
+images:
+
+illustrations/pages/17309.png
+illustrations/pages/17306.png
+illustrations/pages/17307.png
+illustrations/pages/17309.png
+illustrations/pages/17310.png
+illustrations/pages/17311.png
+illustrations/pages/17312.png
+illustrations/pages/17313.png
+illustrations/pages/17314.png
+illustrations/pages/17315.png
+illustrations/pages/17316.png
+illustrations/pages/17317.png
+
+translations:
+
+Amharic (Translation)	ነብርና ሚዳቋ	id=17660
+English (Original)	Leopard and Antelope	id=17659
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=22072

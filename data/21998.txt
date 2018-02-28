@@ -1,0 +1,43 @@
+url:	http://africanstorybook.org/reader.php?id=21998&d=0&a=1
+id:	21998
+title:	Fana anawapenda wanyama
+author:	Ursula Nafula
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21998.png
+desc:	Fana anakaa na wanyama kwa muda mrefu
+
+page_text:
+
+P1	Fana na familia yake wanaishi katika mji wenye shughuli nyingi.
+P2	Fana ana paka, kuku wawili, mbuzi na njiwa.
+P3	Siku moja Fana aliwaona watoto wakiwarushia njiwa mawe.
+P4	Fana alikimbia akisema, "Acheni kutupa mawe."
+P5	Fana aliwachukua wale njiwa akawapeleka nyumbani.
+P6	Aliwalisha. 
+
+Aliwaambia wazazi vile alivyowaokoa.
+P7	Fana na wazazi wake waliwapeleka njiwa kutibiwa.
+P8	Fana huwaambia wenzake, "Wanyama ni marafiki zetu. Tunawalinda."
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana And Her Animals	id=21004
+English (Adaptation)	Colour-In Fana And Her Animals 	id=21005
+English (Adaptation)	Fana Loves Animals	id=21396
+Kiswahili (Translation)	Fana na wanyama wake	id=21006

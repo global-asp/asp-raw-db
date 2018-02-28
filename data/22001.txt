@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=22001&d=0&a=1
+id:	22001
+title:	Dunia yetu
+author:	Ursula Nafula
+artist:	Herminder Ohri
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22001.png
+desc:	Hadithi kuhusu kuumbwa kwa dunia na watu.
+
+page_text:
+
+P1	Mungu alitaka mtu wa kuilinda dunia.
+P2	Simba alijitolea, "Mimi ni mfalme. Ninaweza kufanya kazi hiyo."
+P3	Tembo alisema kwa sauti, "Mimi ni mkubwa. Ninafaa kufanya kazi hiyo."
+P4	Papa alifikiri, "Meno yangu ni makali. Ninafaa kuilinda dunia."
+P5	Tai alicheka, "Ninaruka na kuona kila kitu. Ninafaa."
+P6	Mungu alisema, "Nitawaumba watu wafanye kazi hii."
+P7	Mungu aliwaumba wanaume na wanawake wenye ngozi nyeusi.
+P8	Wengine pia walikuwa maji ya kunde.
+P9	Bali wangine walikuwa na ngozi ya manjano.
+P10	Nao wengine wakawa na ngozi ya waridi.
+P11	Papa aliwachekelea watu, "Wataogelea namna gani?"
+P12	Mungu alitabasamu, "Watajifunza."
+
+images:
+
+illustrations/pages/2237.png
+illustrations/pages/2238.png
+illustrations/pages/2239.png
+illustrations/pages/2240.png
+illustrations/pages/2242.png
+illustrations/pages/2243.png
+illustrations/pages/2244.png
+illustrations/pages/2245.png
+illustrations/pages/2248.png
+illustrations/pages/2247.png
+illustrations/pages/2246.png
+illustrations/pages/2251.png
+illustrations/pages/2252.png
+
+translations:
+
+English (Original)	Our Wonderful World	id=2253
+English (Adaptation)	Our World	id=21712
+isiXhosa (Translation)	Ilizwe Lethu Elimangalisayo	id=7456
+Lusoga (Translation)	Ensi Yaife	id=20670
+Lusoga (Translation)	Ensi Yaife	id=20925
+Maa (Translation)	Enkóp Áng É Enking'asíá	id=2958
+Ng’aturkana (Translation)	Akwapit Yok Nakaili-Ilon	id=2254
+Oluwanga (Translation)	Eshialo Shiefu Shiokhuchamisia	id=2255

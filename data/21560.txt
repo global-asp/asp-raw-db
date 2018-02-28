@@ -1,0 +1,68 @@
+url:	http://africanstorybook.org/reader.php?id=21560&d=0&a=1
+id:	21560
+title:	Isitayela Sikarafiki
+author:	Robert Mchunu
+artist:	Audrey Anderson
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21560.png
+desc:	Isitayela sikaRafiki ngesakhe yedwa. Kodwa uma ehlangana neqembu leCool Cat
+
+page_text:
+
+P1	NgeSonto, uJimmy Zogba washaya igoli iqembu lakhe elanqoba ngalo.
+P2	NgoMsombuluko, iCool Cat Crew yayihambela phezulu.
+P3	"Rafiki, unazo nje wena izinwele ezigundiswe okwedube?
+
+Izinwele zakho zithule nje, kungathi awunandaba nazo."
+P4	"Rafiki, uphi umdwebo wakho wasesikhunjeni ophucukayo?
+
+Unesikhumba esibi kabi phela wena. Futhi umubi."
+P5	"Rafiki, unalo nje izinyo elikhazimulayo? Phela wena unezingovolo."
+P6	Ngalolo suku, uRafiki wagoduka ehamba kancane.
+P7	"Anti, ngingakwazi ukugunda izinwele zami zibe njengedube?"
+
+"Ngeke ngikugunde nje mina njengedube. Empeleni nje, angeke ngize ngilokothe mina."
+P8	"Sisi, nginesikhumba esibi mina. Ungakwazi ukungidweba umdwebo ophucukayo emzimbeni?"
+
+"Cha, Rafiki, wena awuwudingi umdwebo ofana nalawo."
+P9	"Uyazi Mkhulu, ngifisa sengathi ngabe nginezinyo elikhazimulayo."
+
+"Mzukulu, ubukhazikhazi abusho lutho."
+P10	Ngempelasonto elandelayo, uSanti Ramires washaya igoli iqembu lakhe elanqoba ngalo.
+P11	NgoMsombuluko, iCool Cat Crew yayihambela phezulu.
+
+"Sawubona Rafiki! Ubukeka umuhle!"
+P12	URafiki wavele wangakunaka nje lokho. 
+
+"Ngiyilokho engiyikho, lesi yisitayela sami."
+
+images:
+
+illustrations/pages/15555.png
+illustrations/pages/15551.png
+illustrations/pages/15553.png
+illustrations/pages/15554.png
+illustrations/pages/15555.png
+illustrations/pages/15556.png
+illustrations/pages/15557.png
+illustrations/pages/15648.png
+illustrations/pages/15649.png
+illustrations/pages/15650.png
+illustrations/pages/15651.png
+illustrations/pages/15652.png
+illustrations/pages/15653.png
+
+translations:
+
+Afrikaans (Translation)	Rafiki Se Styl	id=21557
+English (Original)	Rafiki's Style	id=15654
+isiNdebele (Translation)	Isitayela Sakarafiki	id=21558
+isiXhosa (Translation)	Istayile Sika Rafiki	id=21559
+Sepedi (Translation)	Setaele Sa Rafiki	id=21408
+Sesotho (South Africa) (Translation)	Setaele Sa Rafiki	id=21646
+Setswana (Translation)	Setaele Sa Ga Rafiki	id=21578
+Siswati (Translation)	Sitayela Sarafiki	id=21579
+Tshivenda (Translation)	Tshitaela Tsha Rafiki	id=21580
+Xitsonga (Translation)	Xitayili Xa Rafiki	id=21581

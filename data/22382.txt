@@ -1,0 +1,50 @@
+url:	http://africanstorybook.org/reader.php?id=22382&d=0&a=1
+id:	22382
+title:	Timonjero akiba
+author:	Cornelius Wambi Gulere and Jenipher  Kabugho
+artist:	Melany Pietersen, Michael Omadi and Selina Masego Morulane
+lang:	Lukhonzo
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22382.png
+desc:	Olhughano luhambangene okwa muyisiki oyukiba esyombulho nikwa aghule esyopipi.
+
+page_text:
+
+P1	Habya omuyisiki oyo
+  wabya akahulwamo Timonjeru.
+P2	Timonjero abya anzire
+  esyopipi nikwa abya isa’withe esyombulho esyerikolesya erighulha ne’nguma.
+P3	Mwiba esyombulho amaghula
+  esyopipi. Mwabisama akasirya.
+P4	Timonjero mwowa mwaliwabo
+  akabulya,” ndindi oyuwathwalire esyombulho esyo tubikire?”
+P5	Timonjero mubaha mwaliwabo
+  oyukathabukana. Mwathibitha
+  amalwaho.
+P6	Mwasangana ekisoro ekithiwene.
+  Mukyabugha kithi, “ Ngendi kulya”.
+P7	Timonjero mubaha. Mwasambira
+  omwabwathu amalwa ahali ekisoro ekithiwene.
+P8	Nyinya mwabulya,"busana
+  naki mughukiba?" Timonjero mwabugha ati, "nyighanyire".
+P9	Timonjero mwaghanyirwa. Mwayasatha
+  nabanywani buwe.
+
+images:
+
+illustrations/pages/15125.png
+illustrations/pages/15121.png
+illustrations/pages/8589.png
+illustrations/pages/15125.png
+illustrations/pages/15120.png
+illustrations/pages/15123.png
+illustrations/pages/15019.png
+illustrations/pages/15123.png
+illustrations/pages/15122.png
+illustrations/pages/15130.png
+
+translations:
+
+English (Original)	Timonjero Steals	id=15177
+Lusoga (Translation)	Nabirye Aiba	id=21278

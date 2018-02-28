@@ -1,0 +1,38 @@
+url:	http://africanstorybook.org/reader.php?id=21638&d=0&a=1
+id:	21638
+title:	Ingwenya Ilindele Iingqondo
+author:	Northern Cape Teacher's Workshop 2016
+artist:	Tawanda Mhandu
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21638.png
+desc:	Kutheni iingwenya zisaqumbele abantu nanamhlanje?
+
+page_text:
+
+P1	Kwakukho ingwenya eyayithanda ukuhlala elunxwemeni lomlambo nabantwana bayo.
+P2	Le ngwenya yafundisa abantwana bayo ukuba bangathembi umntu kuba unengqondo.
+P3	Ngenye imini iye yawela indoda ethile.
+P4	Ithe isawela yadibana nengwenya embindini womlambo, yamhlasela.
+P5	Ithe xa iza kumbulala yacinga umyalelo eyawunikwa ngutata wayo, ukuba umntu yinto enengqondo.
+P6	Indoda yathembisa ingwenya ukuba uzakuyiphathela iingqondo yaza yamkhulula, yahlala ethembeni.
+P7	Uzibona iingwenya zisahlala ecaleni komlambo nje, zisalindele iingqondo ezazizithenjisiwe.
+P8	Zisaqumbile nanamhlanje iingwenya kuba zazithenjiswe ngeengqondo kodwa zange zazifumana.
+
+images:
+
+illustrations/pages/25465.png
+illustrations/pages/25460.png
+illustrations/pages/25462.png
+illustrations/pages/25461.png
+illustrations/pages/25463.png
+illustrations/pages/25464.png
+illustrations/pages/25467.png
+illustrations/pages/25465.png
+illustrations/pages/25466.png
+
+translations:
+
+English (Translation)	Crocodile Waits For Brains 	id=21643
+Kiswahili (Translation)	Mamba anasubiri bongo	id=22087

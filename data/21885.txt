@@ -1,0 +1,46 @@
+url:	http://africanstorybook.org/reader.php?id=21885&d=0&a=1
+id:	21885
+title:	العقاب
+author:	Heba Tesheh
+artist:	Melany Pietersen
+lang:	Arabic
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21885.png
+desc:	أخي رهيم كان طماعا، تذوق كل الفواكه &#1548; وأكل الكثير منها
+
+page_text:
+
+P1	في أحد الأيام حصلت ماما على الكثير من الفواكه.
+P2	سألناها متى يمكننا أن نأخذ القليل منها. أجابت سنأكل الفواكه في المساء.
+P3	أخي رهيم كان طماعا، تذوق كل الفواكه ، وأكل الكثير منها.
+P4	صرخ أخي الصغير انظرماذا فعل رهيم! أما أنا فقلت رهيم غير محترم وأناني.
+P5	غضبت ماما من رهيم.
+P6	ونحن أيضا غضبنا من رهيم ولكنه لم يعتذر.
+P7	سأل أخي الصغير ألن تعاقبي رهيم؟
+P8	حذرت ماما رهيم فقالت عليك أن تعتذر حالا.
+P9	بدأ رهيم بالشعور بالمرض.
+P10	همس رهيم معدتي تؤلموني.
+P11	عرفت ماما ماذا حصل إن الفواكه عاقبت رهيم!
+P12	أخيرا اعتذر رهيم فقال لنا لن أكون طماعا بعد اليوم.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+English (Adaptation)	Punishment	id=11989
+Kiswahili (Original)	Adhabu	id=8074

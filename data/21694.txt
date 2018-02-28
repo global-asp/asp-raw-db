@@ -1,0 +1,51 @@
+url:	http://africanstorybook.org/reader.php?id=21694&d=0&a=1
+id:	21694
+title:	Gomwe Waka Wana Tjini Tjimilo Tjakakondama
+author:	Joyce Mthombeni
+artist:	Marlene Visser 
+lang:	TjiKalanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21694.png
+desc:	Usingolabukila ngina mungwa usabhuzwisisa ukaziba tjino tikala.
+
+page_text:
+
+P1	Gomwe naSindi banohaka mari.
+P2	Banothama dzindilo dzonotengesa kumakete.
+P3	Gomwe unobona ngwa inotikala kumakete.
+P4	Sindi na Fuku ndibo banogwa.
+P5	"Letja nkhwinya wangu!" Gomwe emimila epamha eloba Fuku nelukombo.
+P6	Fuku newha zwogwadza, ebeluma Gomwe mutjimilo kwazo.
+P7	Tjimilo tjitje tjapemuka tjegwadza kwazosa.
+P8	Gomwe unatjimilo tjakakondama nentha yolabukila gwa esingazibe tjinotikala.
+
+images:
+
+illustrations/pages/13136.png
+illustrations/pages/13129.png
+illustrations/pages/13130.png
+illustrations/pages/13131.png
+illustrations/pages/13132.png
+illustrations/pages/13133.png
+illustrations/pages/13134.png
+illustrations/pages/13135.png
+illustrations/pages/13136.png
+
+translations:
+
+Afaan Oromo (Translation)	Funyaan Qocaa	id=20426
+Amharic (Translation)	የኤሊ አፍንጫ ለምን ተጣመመ?	id=20480
+English (Translation)	How Tortoise's Nose Became Crooked	id=13137
+English (Adaptation)	Colour-in How Tortoise got a crooked nose	id=19763
+French (Translation)	Le Nez Crochu De Tortue	id=13769
+Hausa (Nigeria) (Translation)	Yadda Kunkuru Ya Samu Karkataccen Hanci	id=20518
+Hausa (Nigeria) (Translation)	Yadda Kunkuru Ya Samu Karkataccen Hanci	id=21367
+isiZulu (Translation)	Ufudu Wathola Kanjani Ikhala Elitshekile	id=20721
+Kinyarwanda (Adaptation)	Uko Akanyamasyo Kagize Izuru Ribwataraye	id=20250
+Kiswahili (Translation)	Jinsi Kobe alivyopata pua kombo	id=20436
+Lusoga (Translation)	Wankudu Ne Ennhindo Engudule	id=20399
+Ng’aturkana (Translation)	Eger Lo Ang'walia Ekume Abokok	id=20418
+Portuguese (Translation)	Foi Assim Que O Nariz Da Tartaruga Ficou Torto	id=16560
+Setswana (Translation)	Goreng Khudu A Nale Nko E E Sokameng	id=21163
+Yoruba (Original)	Bí Imú Ìjàpá Ṣe Rí Kọ́ńbó	id=13128

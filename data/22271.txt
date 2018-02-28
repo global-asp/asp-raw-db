@@ -1,0 +1,83 @@
+url:	http://africanstorybook.org/reader.php?id=22271&d=0&a=1
+id:	22271
+title:	Ŋkar si
+author:	Beatrice Tafon Takeh and Mbinkar Emmanuel Keelen
+artist:	Catherine Groenewald
+lang:	Lámnsoʼ
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22271.png
+desc:	Kimfèr ke kùm wán woo lumèn wùn à ŋkar sə́ sí
+
+page_text:
+
+P1	Yír yémé dzə̀ Simo.
+P2	M kér ŋkàr sikweè.
+P3	Yír sév sí dzə̀ Zizo, Lele, Sisa wùn à Ayanda.
+P4	Ŋkàr yèm yee Zizo yii koŋ a te bòr.
+P5	Ŋkàr yèm yee Lele yii koŋ a laʼ ndzə́v.
+P6	Ŋkàr yèm yee Sisa yii koŋ kilaaylaáyín.
+P7	Ŋkàr yèm yee Ayanda yii koŋ a yòŋ ŋwàʼ.
+P8	Kém jika? M yii koŋ a yiì a dzə̀ vifá ve áwune yii yii.
+P9	M lo, m wàa te bor vèr Zizo.
+P10	M lo, m wàa laʼ ndzə́v vèr Lele.
+P11	M lo, m wàa yii kilaaylaáyín ver Sisa.
+P12	Ŋkar yèm wìyi, a yii koŋ ké a dzə̀ ka?
+P13	Wìyì, é vèsən wáa te bor.
+P14	Wìyì, é vèsən wáa laʼ ndzə́v.
+P15	Wìyì, é vèsən yii kilaaylaáyín.
+P16	Wìyì, é vèsən wáa yòŋ ŋwàʼ.
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Afrikaans (Translation)	Vriende	id=11412
+ChiShona (Translation)	Shamwari	id=22215
+ChiTonga (Translation)	Beenzuma	id=18629
+CiNyanja (Translation)	Anzanga	id=18663
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiNdebele (Translation)	Abangani	id=21926
+IsiNdebele (Zimbabwe) (Translation)	Abangane	id=21682
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kiswahili (Translation)	Marafiki	id=16084
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Mampruli (Translation)	Zɔadima	id=20110
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Siswati (Translation)	Bangani	id=21520
+Talen (Translation)	Zɔnam	id=20192
+Tshivenda (Translation)	Khonani	id=18299
+Tunisian (Translation)	Aṣħāb	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

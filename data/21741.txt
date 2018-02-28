@@ -1,0 +1,56 @@
+url:	http://africanstorybook.org/reader.php?id=21741&d=0&a=1
+id:	21741
+title:	Palesa utsandza titjalo
+author:	Fakazile Armooh
+artist:	Jesse Pietersen
+lang:	Siswati
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21741.png
+desc:	Palesa ukhulumisa tihlahla
+
+page_text:
+
+P1	Lona nguPalesa. Ligama lakhe lichaza kutsi 'uyimbali' ngelulwimi lwakhe lweSetswana.
+P2	Ekuseni Palesa ucoca nesihlahla semawolintji. "Sihlahla semawolintji, sicela usiphe emawolintji lamanyenti."
+P3	Palesa uya esikolweni. Endleleni ucoca netjani, "Tjani, sicela uhlale uluhlata usisite ungashi."
+P4	Palesa ekuhambeni kwakhe ubona timbali tasendle. "Timbali, siyabonga ngemibala yenu lechakatile."
+P5	Esikolweni, Palesa ukhuluma nesihlahla lesincane. "Sihlahla, sicela ukhule ube nemagala lamakhulu kute sikwati kuhlala ngaphasi kwemtfunti wakho."
+P6	Palesa ukhuluma nemtsangala lotungelete sikolo sabo. “Sicela uhlale ucinile, uvimbele tigebengu tingangeni ngaphakatsi kwesikolo setfu."
+P7	Ngalesikhatsi Palesa abuyela emuva ekhaya, wavakashela sihlahla semawolintji. "Ngabe emawolintji akho savutsiwe yini?" kubuta Palesa.
+P8	"Hawu kantsi! Lamawolintji aseluhlata," kukhala Palesa. "Ngitakubona kusasa," kusho Palesa. 
+
+"Mhlawumbe kusasa utawube sewunawo emawolintji lavutsiwe lotangipha wona!"
+
+images:
+
+illustrations/pages/13385.png
+illustrations/pages/13382.png
+illustrations/pages/13383.png
+illustrations/pages/13384.png
+illustrations/pages/13385.png
+illustrations/pages/13386.png
+illustrations/pages/13387.png
+illustrations/pages/13388.png
+illustrations/pages/13389.png
+
+translations:
+
+Afrikaans (Translation)	Palesa is Lief vir Plante	id=20091
+Arabic (Translation)	خلاي تتحدث إلى النباتات	id=21846
+English (Translation)	Khalai Talks to Plants	id=13545
+English (Adaptation)	Palesa Loves Plants	id=15271
+IciBemba (Translation)	Maluba Ali Temwa Ifilimbwa	id=20786
+isiNdebele (Translation)	UPalesa uthanda iintjalo	id=21948
+isiXhosa (Translation)	UPalesa uthanda izityalo	id=14122
+isiZulu (Translation)	Ukhalai Ukhuluma Nezitshalo	id=15050
+Kiswahili (Original)	Khalai aizungumzia mimea	id=13544
+Lámnsoʼ (Translation)	Kalay súŋnen e viŋgà ví	id=22284
+Mampruli (Translation)	Suhuyini Wuri Bunbula 	id=20120
+Sesotho (South Africa) (Translation)	Khalai O Bua Le Dimela	id=14444
+Sesotho (South Africa) (Translation)	Palesa o rata dimela	id=20042
+Setswana (Translation)	Molemo O Bua Le Dijalo	id=13977
+SiLozi (Translation)	Palisa Ulata Licalo	id=20776
+Talen (Translation)	Palesa Nɔŋa Tebula	id=20202
+Tshivenda (Translation)	Khalai U Amba Na Zwitavhiwa	id=14716
+Xitsonga (Translation)	Wavhidi a Vulavula Na Swimilana	id=14520

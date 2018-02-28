@@ -1,0 +1,45 @@
+url:	http://africanstorybook.org/reader.php?id=22072&d=0&a=1
+id:	22072
+title:	Damisa da Barewa
+author:	Hamza Usman and Muhammad Tijjani Ibrahim
+artist:	Isaac Okwir
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22072.png
+desc:	Damisa da Barewa sun yi rantsuwar zama abokai. Amma ba a je koina ba abotar ta wargaje.(Wannan labari ne da Magabi Enyew Gessesse ya qirqiro
+
+page_text:
+
+P1	Damisa koda yaushe tana qoqarin kama Barewa.
+P2	Barewa kullum na kuvuta daga tarkon Damisa.
+P3	Wata rana, Damisa ta kira Barewa, ''Zo mu zama abokai. Abun da kike ci, ni  bana ci. Babu dalilin yin gaba.''
+P4	Barewa ta amince. Sai Damisa ta ce, ''Mu yi rantsuwa don zama abokai. Idan xayanmu ya sava alqawari zai mutu.''
+P5	Suka yi rantsuwa ta zama abokai. Barewa ta kwanta qarqashin bishiya, Damisa kuma a kan rassan bishiya.
+P6	Jim kaxan Barewa ta yi qiba, Damisa kuwa ta rame.
+P7	Damisa ta yi kwaxayin cinye Barewa. Don sava rantsuwa da  tunanin  bata da xa.
+P8	Damisa ta yi tsalle domin kama Barewa. Sai ta maqale a tsakanin rassa biyu.
+P9	Barewa ta tsorata. Ta buga tsalle tana kuka, ''Veh! Veh!''
+P10	Damisa ta yi roqon cewa, ''Qawata, taimaka mini. Mun yi rantsuwa kan duk wanda ya karya alqawari zai rasa xa.''
+P11	Barewa ta amsa, ''Iyayenki ne suka yi rantsuwa.'' Yanzu matsalar ki ce.
+
+images:
+
+illustrations/pages/17309.png
+illustrations/pages/17306.png
+illustrations/pages/17307.png
+illustrations/pages/17309.png
+illustrations/pages/17310.png
+illustrations/pages/17311.png
+illustrations/pages/17312.png
+illustrations/pages/17313.png
+illustrations/pages/17314.png
+illustrations/pages/17315.png
+illustrations/pages/17316.png
+illustrations/pages/17317.png
+
+translations:
+
+Amharic (Translation)	ነብርና ሚዳቋ	id=17660
+English (Original)	Leopard and Antelope	id=17659
+Kiswahili (Translation)	Chui na Swara	id=22084

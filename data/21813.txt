@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=21813&d=0&a=1
+id:	21813
+title:	القرار
+author:	Heba Tesheh
+artist:	Vusi Malindi
+lang:	Arabic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21813.png
+desc:	صرخنا جميعا يجب علينا تغير حياتنا من اليوم سنعمل معا لحل مشاكلنا
+
+page_text:
+
+P1	كان لقريتي العديد من المشاكل. فنحن نقف صفا طويلا لنجلب الماء من صنبورواحد.
+P2	و ننتظر المعونات من الأخرين.
+P3	و نقفل أبواب منازلنا باكرا خوفا من اللصوص.
+P4	ترك العديد من الأطفال المدرسة.
+P5	والفتيات الصغيرات يعملن خادمات في القرى الأخرى.
+P6	يتسكع الصبية الصغار في جميع أنحاء القرية ، بينما يعمل الأخرون في مزارع الناس.
+P7	عندما تهب الرياح تعلق مخلفات الأوراق على الأشجار والأسوار.
+P8	يجرح الناس بالزجاج المكسورالمهمل.
+P9	وفي أحد الأيام جف الصنبور،وأصبحت أوعيتنا فارغة.
+P10	دار أبي من منزل إلى منزل، ليدعوهم لاجتماع القرية.
+P11	اجتمع الناس تحت الشجرة الكبيرة و استمعوا.
+P12	وقف أبي و قال نحن بحاجة لأن نعمل معا لحل المشكلة.
+P13	صرخ جوما الطفل ذو الثماني سنوات أنا استطيع أن أساعد بالتنظيف.
+P14	قالت امرأة النساء يستطعن الإنضمام إلي لزراعة المحصيل الغذائية.
+P15	وقف رجل آخر و قال الرجال سيحفرون بئرا.
+P16	صرخنا جميعا يجب علينا تغير حياتنا من اليوم سنعمل معا لحل مشاكلنا.
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/10609.png
+illustrations/pages/10616.png
+illustrations/pages/10614.png
+illustrations/pages/10611.png
+illustrations/pages/10613.png
+illustrations/pages/10615.png
+illustrations/pages/10617.png
+illustrations/pages/10612.png
+illustrations/pages/10610.png
+illustrations/pages/10618.png
+illustrations/pages/10619.png
+illustrations/pages/10620.png
+illustrations/pages/10621.png
+illustrations/pages/10623.png
+illustrations/pages/10624.png
+illustrations/pages/10625.png
+
+translations:
+
+Amharic (Translation)	ውሣኔ	id=22401
+English (Translation)	Decision	id=13304
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344
+Ng’aturkana (Translation)	Atiakun Akiroit	id=20496

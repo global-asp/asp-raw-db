@@ -1,0 +1,74 @@
+url:	http://africanstorybook.org/reader.php?id=22025&d=0&a=1
+id:	22025
+title:	Wawuda mkandee
+author:	Martha Mkanyika
+artist:	Benjamin Mitchley
+lang:	Kidawida
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22025.png
+desc:	Wawuda na ndee wakaie na sere imbiri ndee uselowue mka mzima.
+
+page_text:
+
+P1	Wawuda na ndee wedotesiana mae wendafwa.
+P2	Ituku jimu, Wawuda ndee worecha na mka uwangwaghwa Anita.
+P3	Wawuda ndee orekunda Wawuda umdikie Anita sa mae.
+P4	Wawuda ndioboiloghe.
+  
+Ondawona branget wa mae ukapata sere.
+P5	Ndee Wawuda ukaenda chaghunyi. 
+
+Wawuda na Anita ndeweboiloghe.
+P6	Sarimu Anita wakaba Wawuda. 
+
+Sena ndemnekagha vindo.
+P7	Anita omuchunua wulinyi. 
+
+Branget wa mae ukarashuka.
+P8	Wawuda ukawusa uja branget na vindo. 
+
+Nao ukalasa iseghe.
+P9	Warekaiagha mudinyi ukimuboria mae.
+P10	Muka umu ukamusikiria Wawuda ukibora.
+P11	Uja muka ukamumanya uo ni mujighe wa muruna.
+P12	Wawuda ukaendanya na muruna ndee. 
+
+Ukaja ukalala nicha.
+P13	Ndee Wawuda wendawuya ukamusowa Wawuda.
+P14	"Kaiya na muruna ndeyo seji kukunde," ndee ukamuzera.
+P15	Anita na Wawuda wikazoya kukundana.
+P16	Anita ukawidekia.
+  
+Wawuda ukamanya uwuyagha muzinyi kafwani.
+
+images:
+
+illustrations/pages/1682.png
+illustrations/pages/1675.png
+illustrations/pages/1676.png
+illustrations/pages/1677.png
+illustrations/pages/1678.png
+illustrations/pages/1679.png
+illustrations/pages/1680.png
+illustrations/pages/1681.png
+illustrations/pages/1674.png
+illustrations/pages/1682.png
+illustrations/pages/1683.png
+illustrations/pages/1685.png
+illustrations/pages/1686.png
+illustrations/pages/2483.png
+illustrations/pages/1688.png
+illustrations/pages/1690.png
+illustrations/pages/1691.png
+
+translations:
+
+Afrikaans (Translation)	Simbegwire	id=11167
+Amharic (Translation)	ሲምበግዊሬ	id=22403
+Arabic (Translation)	سمبقواير	id=21835
+English (Original)	Simbegwire	id=7068
+English (Adaptation)	Simbi's new Mother	id=21374
+Kiswahili (Translation)	Simbi ampata mama mpya	id=22002
+Lámnsoʼ (Translation)	Yìy à Simbi wo fiy	id=22413
+Lunyole (Translation)	Sibahwana	id=7164

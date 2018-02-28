@@ -1,0 +1,92 @@
+url:	http://africanstorybook.org/reader.php?id=22074&d=0&a=1
+id:	22074
+title:	Kande Sarkin Surutu
+author:	Binta Usaini Umar
+artist:	Jesse Breytenbach
+lang:	Hausa (Nigeria)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/22074.png
+desc:	Kande yarinya ce mai son jamaa da son labari
+
+page_text:
+
+P1	A wani lokaci mai tsawo, an yi wata yarinya mai suna Kande. Kande yarinya ce mai surutun tsiya. Duk da cewa mahaifiyarta tana kwavarta a kan hakan, amma Kande ta yi kunnen uwar shegu.
+P2	Gwaggon Kande tana zaune ne a wani kwari kusa da qauyen su Kande. Wata rana sai ta faxi rashin lafiya kuma babu mai jinyarta.
+P3	Mahaifiyar Kande ta yi dare wurin abinci, sai ta kira Kande ta ba ta kai wa Goggonta.
+P4	Tana cikin tafiya, sai ta ci karo da Shanshani, ba ta san Kura ce ta rikixe ba.
+P5	Sai Shanshani ya ce ma ta, "Me ne ne a cikin wannan  akushin?" Sai Kande ta ka da baki ta ce, "Nama ne da qwai da madara."
+P6	Kande ta ci gaba da cewa, "Zan kai wa Gwaggona wannan abincin ne, saboda ba ta da lafiya." Sai Shanshani ya fara tanxar baki yana lashe-lashe  saboda qanshi naman dake cikin akushin Kande.
+P7	Saboda haka, sai Shanshani ya ruga a guje ya shiga gidan Gwaggon Kande.
+P8	Yana zuwa ya haxiye ta, kuma ya xauki bargonta ya kwanta ya lulluva.
+P9	Da Kande ta iso sai ta ji gidan ya yi tsit, sai ta fara kira "Gwaggo, Gwaggo, kina ina?"
+P10	Kande ba ta ji muryar Gwaggonta ba. Sai ta shiga xakin da take kwance, cikin mamaki sai ta gamutum a kwance ya lulluva da qaton vargo.
+P11	Kande ta ce, "Gwaggo ya ya kunnuwanki yau suka qara girma?"
+
+Shanshani ya amsa daga cikin bargo, "Domin  inji ki sosai."
+P12	Kande ta sake cewa, "Gwaggo ya ya na ga idanun ki sun yi girma yau?
+
+Shanshani ya amsa daga cikin bargo, "Domin in gan ki sosai."
+P13	Kande  a qarshe ta ce, "Gwaggo,  ya ya yau na ga bakinki ya zama qato?" 
+
+Shanshani ya amsa, "Don na cinye ki." Sai ya yi tsalle daga cikin bargon ya haxiye Kande.
+P14	Kande ta ci gaba da surutu a cikin Shanshani kuma tana yin tambayoyi iri-iri.
+P15	A qarshe, Shanshani  ya gaji da surutun Kande da tambayoyinta sai ya amayar da ita da Gwaggonta.
+P16	Mutanen qauyen suka rugo, kuma suka kuvutar da Kande da Gwggonta. 
+
+Tun daga wannan ranar, Kande ta daina surutu a wurin mutanen da ba ta sani ba.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe die Babbelkous	id=20072
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe The Talkative	id=9526
+English (Adaptation)	Kalabushe And The Hyena	id=20915
+French (Translation)	Kalabushe, La Bavarde	id=10842
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	UKalabutjhe okhulumela futhi	id=21935
+isiXhosa (Translation)	UNandipha intombazana elincoko	id=17578
+isiZulu (Translation)	Ukalabushe Intombazanyana Ekhuluma Kakhulu	id=10130
+isiZulu (Translation)	Intombazane eyayikuthanda ukukhuluma	id=12168
+isiZulu (Adaptation)	Uzama Intombazanyana Ekhuluma Kakhulu	id=13600
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Kiswahili (Translation)	Kalabushe na Fisi	id=21152
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Mampruli (Translation)	Azuma Yatɔa Gbalinŋu Daana	id=20387
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše Wa Go Bolela Kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri ya buang haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Siswati (Translation)	Intfombatana letsandza kukhuluma	id=21731
+Talen (Translation)	Kalabushe Toagaleh Daan	id=20193
+Tigrigna (Translation)	ለታይን ዝብእን 	id=21171
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

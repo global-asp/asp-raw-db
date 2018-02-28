@@ -1,0 +1,49 @@
+url:	http://africanstorybook.org/reader.php?id=21913&d=0&a=1
+id:	21913
+title:	Inkosi yezimfene
+author:	Zimbili Dlamini
+artist:	Isaac Okwir
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21913.png
+desc:	Lendaba imayelana nenkosi eyayingalalelwa abalandeli bayo. Kodwa ekugcineni bagcina sebeyilingisela kukona konke.
+
+page_text:
+
+P1	Emandulo kwakukhona imfene enkulu, eyayilandelwa umhlambi wezimfene,ingundlovu kayiphikiswa!
+P2	Kulomhlambi zazikhona ezinye imfene ezinkulu kodwa zazingaqondi ukuba kumele zilalele umthetho kabani.
+P3	Ezinye izimfene zathi,"Kumele ube nomehluko nkosi, udinga uphawu ukuze sibe nesiqiniseko sokuthi nguwe ze silandele kahle umyalelo wakho."
+P4	"Kulungile ngizofaka umnqwazo ekhanda,lokho okusho ukuthi kuzomele nilandele yonke imiyalelo yami." kusho inkosi uMfene,zonke izimfene zavuma.
+P5	Enye imfene enkulu yamfaka umnqwazo lowo ekhanda. Inkosi uMfene wathi,"kusukela namuhla nizolalela umthetho wami. Nizokwenza konke engikushoyo ngenhlonipho."
+P6	Ngokunjalo,kwakuthi uma inkosi igxuma zigxume zonke izimfene,uma inkosi ihlala phansi nazo zihlale, uma imemeza nazo zimemeze.
+P7	Ngokuhamba kwezinsuku waqina umnqwazo ekhanda lenkosi uMfene.
+P8	Ngolunye usuku inkosi yahlala phansi yabambela ekhanda yathi,"Lomnqwazo uyangilimaza."
+P9	Zonke izimfene zahlala phansi,zabeka izandla ekhanda zathi,"Lomnqwazo uyangilimaza."
+P10	Inkosi yathi, "Ngiqinisile."Nazo zathi,"Ngiqinisile." Inkosi yathi,"Buyangibulala lobuhlungu."Nazo zathi, "Buyangibulala lobuhlungu."
+P11	Kusenjalo inkosi yawa phansi. Nazo zayilingisela inkosi zawa phansi. Yazabalaza nazo zazabalaza.
+P12	Nakuba zazilimele kabi ezinye izimfene kodwa inkosi yafela khona lapho.
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldessa	id=18907
+English (Original)	Baboon Chief	id=18906
+English (Adaptation)	Baboon Chief	id=19751
+Kiswahili (Translation)	Nyani aliyekuwa chifu	id=21994
+Ng’aturkana (Translation)	Ekatukon Ang'ichomin	id=20344

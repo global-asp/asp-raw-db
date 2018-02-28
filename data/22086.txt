@@ -1,0 +1,52 @@
+url:	http://africanstorybook.org/reader.php?id=22086&d=0&a=1
+id:	22086
+title:	Mimi ni mashuhuri!
+author:	Brigid Simiyu
+artist:	Vusi Malindi
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/22086.png
+desc:	Ni vizuri tutambue uzuri wetu sisi wenyewe.
+
+page_text:
+
+P1	Ndungu yangu mdogo anachelewa kuamka. 
+
+Mimi huamka mapema kwani, mimi ni mashuhuri!
+P2	Mimi ndiye hufungua dirisha asubuhi.
+P3	Mama huniambia, "Wewe ni nyota yangu ya asubuhi."
+P4	Ninajiosha mwenyewe wala sihitaji usaidizi wowote.
+P5	Sijali kuoga kwa maji baridi wala kutumia sabuni inayonuka.
+P6	Mama akinikumbusha kupiga mswaki, ninamjibu, "Siwezi kusahau."
+P7	Baada ya kuoga, huwaamkua babu na shangazi. 
+
+Kisha ninawatakia siku njema.
+P8	Huvaa nguo mwenyewe. "Nimekuwa mkubwa sasa." Humwambia mama.
+P9	Ninaweza kufunga vifungo vyangu na kukaza kamba za viatu vyangu.
+P10	Humhimiza ndugu yangu twende shule.
+P11	Hufanya bidii kwa kila njia nikiwa darasani.
+P12	Mimi hufanya mambo haya vizuri kila siku. 
+
+Ninachopenda zaidi ni kucheza!
+
+images:
+
+illustrations/pages/7514.png
+illustrations/pages/7513.png
+illustrations/pages/7514.png
+illustrations/pages/7517.png
+illustrations/pages/7507.png
+illustrations/pages/7515.png
+illustrations/pages/7518.png
+illustrations/pages/7516.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+illustrations/pages/7509.png
+
+translations:
+
+Arabic (Translation)	زاما المميز!	id=21847
+English (Adaptation)	Zama is Great!	id=9984

@@ -1,0 +1,57 @@
+url:	http://africanstorybook.org/reader.php?id=21743&d=0&a=1
+id:	21743
+title:	Pendo yinkhomo yakitsi
+author:	Fakazile Armooh
+artist:	Rob Owen
+lang:	Siswati
+level:	First words
+lic:	Creative Commons: Attribution 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/21743.png
+desc:	Indzaba lephatselene nekhomo leyayitsandvwa ngumndeni wayo.
+
+page_text:
+
+P1	Lona nguNdalo.
+P2	Ndalo utsandza kufundza tincwadzi.
+P3	Lona nguPendo.
+P4	Pendo utsandza kudla tibhidvo.
+P5	Ndalo welusa Pendo nakabuya esikolweni.
+P6	Umnatsisa nemanti lahlantekile.
+P7	Uyatsandvwa sibili Pendo. Nababe upha Pendo kudla kwakhe.
+P8	Usenga Pendo onkhe emalanga.
+P9	Pendo ukhicita lubisi lolunyenti.
+P10	Ekhaya sitsengisa lubisi
+P11	Ndalo unatsal ubisi lolusha tinsuku tonkhe.
+P12	Mmmm! "Siyabonga Pendo!"
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/11992.png
+illustrations/pages/7944.png
+illustrations/pages/11993.png
+illustrations/pages/7939.png
+illustrations/pages/11994.png
+illustrations/pages/7938.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+illustrations/pages/7941.png
+illustrations/pages/7943.png
+illustrations/pages/11997.png
+illustrations/pages/7945.png
+
+translations:
+
+Afrikaans (Translation)	Pendo, Ons Koei 	id=20092
+English (Adaptation)	Pendo Our Cow	id=11991
+English (Adaptation)	Ndalo and Pendo – The best of friends	id=20299
+Hausa (Nigeria) (Translation)	Saniyar Mu Pendo	id=20507
+isiNdebele (Translation)	UNdalo noPendo – Abangani bamambala	id=20823
+isiNdebele (Translation)	UPendo ikomo yekhethu	id=21949
+isiZulu (Translation)	UBonga noNondlini wakwabo – Abangani abakhulu	id=20685
+Kinyarwanda (Translation)	Inka yacu Rukundo	id=22158
+Kiswahili (Original)	Ng'ombe wetu Pendo	id=8056
+Sesotho (South Africa) (Translation)	Kgomo eso Pendo	id=20043
+Sesotho (South Africa) (Translation)	Ndalo le Pendo – Metswalle ya sebele!	id=20834
+Siswati (Translation)	Thabo naJamludi	id=20775
+Talen (Translation)	Te Naoh Pendo	id=20201

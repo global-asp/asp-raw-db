@@ -1,0 +1,88 @@
+url:	http://africanstorybook.org/reader.php?id=21817&d=0&a=1
+id:	21817
+title:	Asiyesikia la mkuu
+author:	Ursula Nafula
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/21817.png
+desc:	Ni nini hutendeka kwa yule asiyesikiliza mawaidha ya busara?
+
+page_text:
+
+P1	Lego alikuwa nyoka mkubwa. Aliishi katika kijiji cha Sinyare.
+P2	Apiyo, Ajoh na Atieno walienda kutafuta kuni.
+
+Bibi aliwaonya kuhusu Lego.
+P3	Wote watatu walitayarisha chakula.
+
+"Itakuwa siku ndefu," walisema.
+P4	"Hebu tuwe kimya. Lego huishi karibu hapa." Apiyo aliwakumbusha wegine.
+P5	Atieno alitaka meno ya Lego. 
+
+Apiyo alimwambia, "Kumbuka onyo la bibi."
+P6	"Ninataka meno ya Lego ya dhahabu." Ajoh hakujali.
+P7	Lego hakuyapata meno yake ya dhahabu.
+
+Alisubiri kumuadhibu mwizi.
+P8	"Hsssss!" Wasichana walisikia sauti.
+
+Lego alikuwa tayari kumuuma aliyeiba.
+P9	Lego aliwapatia mtihani wa kuimba. "Aliyeiba, hataweza kuimba vizuri."
+P10	Apiyo na Atieno walipita mtihani. Waliimba vyema.
+P11	Ajoh hakuweza kuimba vizuri.
+
+Lego alijua mwizi alikuwa nani.
+P12	Lego alimmeza Ajoh! 
+
+"Heri angenisikiza." Bibi alisema.
+
+images:
+
+illustrations/pages/10763.png
+illustrations/pages/10763.png
+illustrations/pages/10765.png
+illustrations/pages/10766.png
+illustrations/pages/10767.png
+illustrations/pages/10769.png
+illustrations/pages/10770.png
+illustrations/pages/10771.png
+illustrations/pages/10772.png
+illustrations/pages/10773.png
+illustrations/pages/10774.png
+illustrations/pages/10775.png
+illustrations/pages/10776.png
+
+translations:
+
+Afrikaans (Translation)	Woud van Slange	id=20057
+ChiTonga (Translation)	Cisaka Canzoka	id=18645
+CiNyanja (Translation)	Sanga La Njoka	id=18662
+Dhopadhola (Translation)	Lul Thwol	id=15738
+English (Original)	Forest Of Snakes	id=13265
+English (Adaptation)	The Evil Forest	id=14414
+English (Adaptation)	Girl who did not listen	id=21789
+French (Translation)	La Forêt Des Serpents	id=13772
+IciBemba (Translation)	Insoka Isha Mumpanga	id=18682
+Igbo (Translation)	Ọhịa agwọagwọ	id=22155
+isiNdebele (Translation)	Ihlathi leenyoka	id=21923
+isiXhosa (Translation)	Ihlathi leenyoka	id=17524
+isiXhosa (Adaptation)	Intombazana eyayinenkani	id=22430
+isiZulu (Translation)	Inyoka yehlathi, uMagilogilo	id=16094
+Kinyarwanda (Translation)	Ishyamba Ribamo Inzoka	id=17460
+Kiswahili (Translation)	Msitu wa nyoka	id=13309
+Lusoga (Translation)	Abaguuna Abasaatu No Ogusoota  Mu Kibira	id=21280
+Ng’aturkana (Translation)	Amoni  Ang’Imunio	id=13310
+Ng’aturkana (Adaptation)	Amoni Na Aya Ng'imunio	id=20357
+Olunyala (Translation)	Esichakha Esya Chinjukha	id=13266
+Oluwanga (Translation)	Omutsuru Kwe Tsinzukha	id=13311
+Portuguese (Translation)	A Floresta De Cobras	id=16581
+Sepedi (Translation)	Lešoka La Dinoga	id=18996
+Sesotho (South Africa) (Translation)	Moru wa dinoha	id=20026
+Setswana (Translation)	Sekgwa Sa Dinoga	id=14954
+Setswana (Translation)	Naga Ya Dinoga	id=15462
+SiLozi (Translation)	Linoha Zamwa Mushitu	id=18708
+Siswati (Translation)	Mambakati, inyoka yelihlatsi	id=21519
+Tshivenda (Translation)	Ḓaka Ḽa Dziṋowa	id=18296
+Xitsonga (Translation)	Xihlahla Xa Tinyoka	id=18880
