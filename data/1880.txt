@@ -1,11 +1,11 @@
-url:	http://africanstorybook.org/reader.php?id=1880&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=1880&d=0&a=1
 id:	1880
-title:	Nozibele and the Three Hairs
+title:	Nozibele and the three hairs
 author:	Tessa Welch
 artist:	Wiehan de Jager
 lang:	English
 level:	Longer paragraphs
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/1880.png
 desc:	Three girls are gathering wood on a hot day. They decide to go swimming and by the time they are finished its late and they must rush home. On the way Nozibele realises that she has left her beads behind and she goes back on her own. Her journey takes a dramatic turn from there on.
 
@@ -44,22 +44,28 @@ illustrations/pages/1210.png
 
 translations:
 
+Afrikaans (Translation)	Nozibele en die Drie Hare	id=21811
+Amharic (Translation)	ኖዚቤሌና ሦስቱ ጸጉሮች	id=22405
+Arabic (Translation)	نوزيبال والشعرات الثلاث	id=21829
 Aringati (Translation)	Ãlíríkí Ꞌi Ãzíla Drị̃ꞌbị́ Na Kî	id=7532
 Ekegusii (Translation)	Nozibele N’Echitukia Isato	id=3165
 English (Translation)	Anna and the Three Hairs	id=7903
-isiXhosa (Translation)	Unozibele Namanwele Amathathu	id=6711
-isiZulu (Translation)	Unozibele Kanye Nezinwele Ezintathu	id=3896
+isiXhosa (Translation)	UNozibele namanwele amathathu	id=6711
+isiZulu (Translation)	UNozibele nezinwele ezintathu	id=3896
 Kikamba (Translation)	Nonzimbele Na Nzwĩĩ Itatũ	id=3164
-Kiswahili (Translation)	Nozibele Na Nywele Tatu	id=3159
+Kiswahili (Translation)	Nozibele na Nywele Tatu	id=3159
 Luganda (Translation)	Nakku N’Enviiri Essatu	id=3167
+Luganda (Translation)	Olunako olwokya	id=23327
 Lugbarati (Translation)	Candiru Pi Dri`bi Ifi Na `diyi Be	id=3894
 Lugbarati (Official) (Translation)	Candiru Pi Dri'biifi Na ‘Diyi Be	id=8799
 Lumasaaba (Translation)	Namutosi Ni Butsuune Butaru	id=3892
 Lunyole (Translation)	Nanjoosi N’Efiiri Edatu	id=3890
+Lusoga (Translation)	Anna n'enviiri esatu	id=29463
+Lusoga (Translation)	Okuwerera   enku	id=30665
 Maa (Translation)	Nozibele Ó Ilpápít Okúni	id=3163
 Oluwanga (Translation)	Prisca Nende Obushinga Butaru	id=3162
 Oluwanga (Adaptation)	Prisca Nende Obushinga Butaru	id=19596
-Sepedi (Translation)	Nozibele Le Meriri E Meraro	id=3169
+Sepedi (Translation)	Nozibele le meriri e meraro	id=3169
 Sesotho (Lesotho) (Translation)	Ts'oanelo Le Ntja Ea Nkoapo.	id=6710
 Sesotho (Lesotho) (Translation)	Nozibele Le Qobo Tse Tharo	id=10368
-Setswana (Translation)	Nozibele Le Meriri E Meraro	id=3168
+Setswana (Translation)	Nozibele le meriri e meraro	id=3168

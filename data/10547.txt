@@ -1,11 +1,11 @@
-url:	http://africanstorybook.org/reader.php?id=10547&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=10547&d=0&a=1
 id:	10547
-title:	I Like to Read
+title:	I like to read
 author:	Letta Machoga
 artist:	Wiehan de Jager
 lang:	English
 level:	First words
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/10547.png
 desc:	This is a story about a little boy who loves to read stories. He loves it so much so that he wants to share a story with his family.
 
@@ -34,7 +34,8 @@ illustrations/pages/7922.png
 
 translations:
 
-Afrikaans (Translation)	Ek Hou Van Lees	id=20062
+0 (Translation)	Kusoma	id=24250
+Afrikaans (Translation)	Ek hou van lees	id=20062
 Akuapem Twi (Translation)	Mepɛ Akenkan	id=18461
 Amharic (Translation)	ማንበብ እወዳለሁ	id=13125
 Amharic (Translation)	ማንበብ እወዳለሁ	id=13318
@@ -46,39 +47,55 @@ CiNyanja (Translation)	Ndikonda Kuwerenga	id=20769
 Dagaare (Translation)	N Nɔŋɛɛ Kannoo	id=17773
 Dagbani/Dagbanli (Translation)	M  Bɔri Ni N-Karim	id=18152
 Dangme (Translation)	I Suɔ  Ma Kane Ni	id=18300
+Dhopadhola (Translation)	Amaro Kisoma	id=23211
 English (Translation)	I Love to Read	id=12413
 English (Translation)	Nenda Ohusoma	id=13498
 English (Adaptation)	I Love Reading	id=13499
+English (Adaptation)	(Colour-in) I like to read	id=32162
 Ewe (Translation)	Melɔ̃a Nuxexlẽ	id=18167
 Fante (Translation)	Mepɛ Akenkan	id=18491
 French (Translation)	J’Aime Lire	id=13156
 Ga (Translation)	Misumɔ Ni Makane Nii	id=18293
 Gonja (Translation)	Mee Sha  Nɛ M Baa Kraŋ	id=18175
 Hadiya (Translation)	Qaanana'ima Ittomo	id=18428
-Hausa (Nigeria) (Translation)	Ina San Karatu	id=20521
+Hausa (Nigeria) (Translation)	Ina Son yin Karatu	id=20521
 IciBemba (Translation)	Nalitemwa Ukubelenga	id=18572
-isiNdebele (Translation)	Ngithanda Ukufunda	id=13812
-isiXhosa (Translation)	Ndiyathanda Ukufunda	id=14933
-isiZulu (Translation)	Ngiyathanda Ukufunda	id=13322
+isiNdebele (Translation)	Ngithanda ukufunda	id=13812
+isiNdebele (Translation)	Ngithanda ukufunda	id=21933
+isiXhosa (Translation)	Ndiyathanda ukufunda	id=14933
+isiZulu (Translation)	Ngiyathanda ukufunda	id=13322
+Kamuku (Translation)	Mokorage 'iza̱za̱bi	id=25429
 Kasem (Translation)	A Lage Se a Ga	id=18209
 Kinyarwanda (Translation)	Nkunda  Gusoma	id=20325
+Kinyarwanda (Translation)	Nkunda Gusoma	id=21516
+Kinyarwanda (Translation)	Gusoma	id=31692
+Kinyarwanda (Translation)	Nkunda gusoma	id=32159
 Kiswahili (Translation)	Ninapenda Kusoma	id=8476
 Kiswahili (Adaptation)	Ninapenda Kusoma	id=19357
+Luganda (Translation)	Nja gala nyo okusooma	id=23086
+Luganda (Translation)	Njagala nyo okusoma	id=23310
+Luganda (Translation)	Njagala nyo okusoma	id=23702
 Lumasaaba (Translation)	Ssengana Khu Soma	id=20661
+Lusoga (Translation)	Nnendha okusoma	id=24862
+Lusoga (Translation)	Nnhendha  inho okusoma	id=25423
+Lusoga (Translation)	Nhenda okusoma	id=30160
 Mampruli (Translation)	M Boori Ni N Karim	id=18850
 Mampruli (Translation)	N Bori N Karim	id=20366
 Nzema (Translation)	Me Kulo Kɛ Me Kenga	id=18426
 Oluwanga (Translation)	Ndachama Okhusoma	id=19591
 Portuguese (Translation)	Eu Gosto De Ler	id=16568
-Sepedi (Original)	Ke Rata Go Bala	id=8037
-Sesotho (South Africa) (Translation)	Ke Rata Ho Bala	id=20033
-Setswana (Translation)	Ke Rata Go Buisa	id=16752
-Setswana (Translation)	Ke Rata Go Buisa	id=17654
+Rukiga (Translation)	Ndakunda kushoma	id=23343
+Runyankore (Translation)	Ninkunda okushoma	id=23071
+Runyankore (Translation)	Nikunda kushoma	id=23540
+Sepedi (Original)	Ke rata go bala	id=8037
+Sesotho (South Africa) (Translation)	Ke rata ho bala	id=20033
+Setswana (Translation)	Ke rata go buisa	id=17654
 SiLozi (Translation)	Nalata Kubala	id=18621
 SiLozi (Translation)	Ndayanda Kubala	id=20768
-Siswati (Adaptation)	Kumnandzi Kufundza	id=13818
+Siswati (Adaptation)	Kumnandzi kufundza	id=13818
+Siswati (Translation)	Ngiyakutsandza kufundza	id=21725
 Somali (Translation)	Waxaan Jeclahay In Aan Aqriyo!	id=17263
 Talen (Translation)	Man Nɔŋ Kaalug	id=20175
 Tigrigna (Translation)	ምንባብ ይፈቱ እየ	id=18334
-Tshivenda (Translation)	Ndi Funa U Vhala	id=18276
-Xitsonga (Translation)	Ndzi Rhandza Ku Hlaya	id=18874
+Tshivenḓa (Translation)	Ndi funa u vhala	id=18276
+Xitsonga (Translation)	Ndzi rhandza ku hlaya	id=18874

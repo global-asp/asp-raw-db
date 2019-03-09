@@ -1,6 +1,6 @@
-url:	http://africanstorybook.org/reader.php?id=1790&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=1790&d=0&a=1
 id:	1790
-title:	My Body
+title:	My body
 author:	Clare Verbeek
 artist:	Mlungisi Dlamini
 lang:	English
@@ -37,15 +37,17 @@ translations:
 Acholi (Translation)	Kuma	id=21327
 Afaan Oromo (Translation)	Qaama Kiyya	id=12624
 Anywak (Translation)	Dëëra	id=17261
+Arabic (Translation)	جسدي	id=21850
 Ateso (Translation)	Akakuwan	id=7784
 English (Adaptation)	My Body	id=9882
-isiXhosa (Translation)	Umzimba Wam	id=7685
+isiXhosa (Translation)	Umzimba wam	id=7685
 Kikamba (Translation)	Mwii Wakwa	id=2934
-Kiswahili (Translation)	Mwili Wangu	id=12632
+Kiswahili (Translation)	Mwili wangu	id=12632
 Luganda (Translation)	Omubiri Gwange	id=2935
 Lugbarati (Translation)	Ma Rua	id=12643
 Lusoga (Translation)	Omubiri Gwange	id=8168
-Sepedi (Translation)	Mmele Waka	id=7854
+Runyankore (Translation)	Omubiri Gwangye	id=23250
+Sepedi (Translation)	Mmele waka	id=7854
 Setswana (Translation)	Mmele Wa Me	id=3124
 Somali (Translation)	Jirkeyga	id=12623
 Tunisian (Translation)	Bedni	id=15386

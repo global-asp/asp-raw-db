@@ -1,11 +1,11 @@
-url:	http://africanstorybook.org/reader.php?id=7441&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=7441&d=0&a=1
 id:	7441
-title:	Tingi and the Cows
+title:	Tingi and the cows
 author:	Ingrid Schechter
 artist:	Ingrid Schechter
 lang:	English
 level:	First sentences
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/7441.png
 desc:	Grandmother saves Tingis life.
 
@@ -40,17 +40,24 @@ illustrations/pages/7592.png
 
 translations:
 
+Arabic (Translation)	تينغي و البقر	id=21857
 ChiShona (Translation)	Tingi Ne Mombe	id=13246
 Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
 Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
-English (Adaptation)	Tingi And The Cows - Colouring Book	id=17405
+English (Adaptation)	(Colour-in) Tingi and the cows	id=17405
 French (Translation)	Tingi Et Les Vaches	id=12867
-isiNdebele (Translation)	Ubongani Neenkomo	id=13046
-isiXhosa (Translation)	Utingi Kunye Neenkomo	id=13200
-isiXhosa (Adaptation)	Utingi Kunye Neenkomo (Faka Imibala)	id=17552
+isiNdebele (Translation)	UBongani neenkomo	id=13046
+isiXhosa (Translation)	UTingi kunye neenkomo	id=13200
+isiXhosa (Adaptation)	UTingi kunye neenkomo (Faka imibala)	id=17552
 isiZulu (Translation)	Utingi	id=15385
 Kinyarwanda (Translation)	Karisa N'inka	id=20255
 Luganda (Translation)	Tingi N’Ente	id=8343
+Luganda (Translation)	Tingi n'ente	id=23967
+Luganda (Translation)	Tingi n'ente	id=24464
+Luganda (Translation)	Tingi ne entte	id=24480
+Lusoga (Translation)	Dingidingi  n'ente	id=25187
+Lusoga (Translation)	Tingi ne ente	id=30378
+Lusoga (Translation)	Tingi n'ente	id=30490
 Portuguese (Translation)	Tingi E Os Bois	id=7442
 Portuguese (Translation)	Tingi E As Vacas	id=18891
 Rutooro (Translation)	Tingi N’Ente	id=14921

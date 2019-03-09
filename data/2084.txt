@@ -1,11 +1,11 @@
-url:	http://africanstorybook.org/reader.php?id=2084&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=2084&d=0&a=1
 id:	2084
 title:	Hen and Eagle
 author:	Ann Nduku
 artist:	Wiehan de Jager
 lang:	English
 level:	First paragraphs
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/2084.png
 desc:	At one time
 
@@ -38,6 +38,7 @@ illustrations/pages/1810.png
 
 translations:
 
+Arabic (Translation)	الدجاجة والنسر	id=21855
 Aringati (Translation)	Áũ Kí Yúkú Be	id=9707
 Ekegusii (Translation)	Engoko Ne’Kebaki	id=2362
 Kakwa (Translation)	Sukuri Seku Yugu	id=9062
@@ -47,5 +48,6 @@ Lugbarati (Translation)	A’U Pi Yuku Be	id=2366
 Lugbarati (Official) (Translation)	A’Ú Pi Yúkú Be	id=8792
 Lumasaaba (Translation)	Ingokho Ni Ikhosi	id=3110
 Lunyole (Translation)	Engoho Ni Haŋungu	id=2365
+Lusoga (Translation)	Empiso ya Waikoli	id=27665
 Portuguese (Translation)	A Galinha E a Águia	id=16566
 Rutooro (Translation)	Enkoko N’Ekihungu	id=14926

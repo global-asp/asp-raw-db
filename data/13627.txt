@@ -1,6 +1,6 @@
-url:	http://africanstorybook.org/reader.php?id=13627&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=13627&d=0&a=1
 id:	13627
-title:	Tom the Banana Seller
+title:	Tom the banana seller
 author:	Humphreys Odunga
 artist:	Atilabachew Reda
 lang:	English
@@ -42,8 +42,10 @@ illustrations/pages/13470.png
 
 translations:
 
-French (Translation)	Tom, Le Vendeur De Bananes	id=14530
-isiXhosa (Translation)	Utom, Umthengisi Webhanana	id=15024
+0 (Translation)	Themba umtsengisi wabhanana	id=16440
+Arabic (Translation)	توم، بائع الموز	id=21874
+isiXhosa (Translation)	UTom, umthengisi webhanana	id=15024
+Luganda (Translation)	Tomu omutunzi w'amenvu	id=22354
 Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Lusoga (Translation)	Toomu omutunzi gha amenvu	id=27462
 Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216
-siSwati (Translation)	Themba Umtsengisi Wabhanana	id=16440

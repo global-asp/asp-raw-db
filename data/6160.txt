@@ -1,11 +1,11 @@
-url:	http://africanstorybook.org/reader.php?id=6160&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=6160&d=0&a=1
 id:	6160
-title:	Why Hippos Have No Hair
+title:	Why Hippos have no hair
 author:	Basilio Gimo
 artist:	Carol Liddiment
 lang:	English
 level:	First paragraphs
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/6160.png
 desc:	In this Nyungwe folktale
 
@@ -34,18 +34,18 @@ illustrations/pages/6170.png
 
 translations:
 
-Afrikaans (Translation)	Hoekom Seekoei Geen Hare Het Nie	id=10917
-Afrikaans (Translation)	Hoekom Seekoeie Nie Hare Het Nie	id=10921
-Afrikaans (Translation)	Hoekom Seekoeie Nie Hare Het Nie	id=11275
-Afrikaans (Translation)	Hoe Het Die Seekoei Sy Hare Verloor	id=11570
+Afrikaans (Translation)	Hoekom Seekoeie nie Hare het nie	id=11275
 Alur (Translation)	The Lembe Muketho Rau Yuk Wiye Ope	id=12638
+Arabic (Translation)	لماذا لاتملك أفراس النهرشعرا	id=21849
 Ateso (Translation)	Inyobo Eyinakit Imiriai Emameete Kede Ka Ajul?	id=6729
 Chinyungwe (Translation)	Sulo Adayanya Uxamwali Na Moto	id=9574
 Ciyawo (Adaptation)	Digongo-Ci Ndomondo Sidi Syangadi  Manyunya	id=15809
 Ciyawo (Translation)	Digongo-Ci Ndomondo	id=19045
-isiXhosa (Translation)	Kutheni Iimvubu Zingenaboya Nje	id=10128
-isiZulu (Translation)	Kungani Umvubu Engena Zinwele?	id=11190
-Kiswahili (Translation)	Kwa Nini Viboko Hawana Manyoya	id=15938
+Elomwe (Translation)	Nthowa Taani Achomoco Ahiraayano Mapururu?	id=31632
+isiXhosa (Translation)	Kutheni iimvubu zingenaboya nje	id=10128
+isiXhosa (Adaptation)	Batsha uboya bukaMvubu!	id=22424
+isiZulu (Translation)	Kungani uMvubu engenaboya?	id=11190
+Kiswahili (Translation)	Kwa nini viboko hawana manyoya	id=15938
 Luganda (Translation)	Lwaki Envubu Tezirina Bwoya	id=8303
 Lugbarati (Official) (Translation)	Ròbí Yɨ Mà 'bɨ́ko Yo À'dɨ E'yósɨ̀à Rɨ̀	id=8791
 Lumasaaba (Translation)	Lwasiina Tsifubu Tsitamba Bubwoya	id=8304
@@ -54,7 +54,7 @@ Ma'di (Translation)	Ra Robi Olujo Biako Rii Adu?	id=13285
 Maa (Translation)	Kainyoo Pee Meata Olmakau Ilpapit	id=7880
 Ng’aturkana (Translation)	Nyonte Emakar Epir Ng’Itim	id=8447
 Oluwanga (Translation)	Eshichira Ifubu Niibula Amoya	id=8300
-Portuguese (Translation)	Por Que É Que Os Hipopótamos Não Têm Cabelo	id=9678
+Portuguese (Translation)	O Coelho Faz Amizade Com o Fogo	id=31631
 Rutooro (Translation)	Habwaki Ensere Tizigira Bwoya?	id=14922
 Setswana (Translation)	Goreng Bokubu Ba Sena Moriri	id=7830
 siSwati (Translation)	Kungani Imvubu Ingena Tinwele	id=13051

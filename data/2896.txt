@@ -1,6 +1,6 @@
-url:	http://africanstorybook.org/reader.php?id=2896&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=2896&d=0&a=1
 id:	2896
-title:	Lazy Little Brother
+title:	Lazy little brother
 author:	Clare Verbeek
 artist:	Mlungisi Dlamini
 lang:	English
@@ -33,8 +33,9 @@ illustrations/pages/987.png
 
 translations:
 
+Arabic (Translation)	الأخ الصغير الكسول	id=21852
 Aringati (Translation)	Álụ́ma Ꞌbã Ádrị́pị Ĩmbíráŋá Ũvú Rĩ	id=7239
-isiXhosa (Translation)	Umnakwethu Omncinci Olivila	id=13160
+isiXhosa (Translation)	Umnakwethu omncinci olivila	id=13160
 Kikamba (Translation)	Kamwanayia Kaanu	id=2898
 Lubukusu (Translation)	Wandayase Omukara	id=2899
 Luganda (Translation)	Muto Wange Munafu	id=2900
@@ -44,9 +45,13 @@ Lumasaaba (Translation)	Waandaaye Umukyeekhe Umutoro	id=2903
 Lunyole (Translation)	Muto Yange Omudoto	id=2904
 Lunyole (Translation)	 	id=21094
 Lusoga (Translation)	Lwaki Nkola Zenka?	id=2905
+Lusoga (Translation)	Muke ghange omugayavu	id=26974
+Lusoga (Translation)	Lwaki nkola zenka?	id=27240
 Maa (Translation)	Olotí Aláshe Túrúáí	id=2897
 Ng’aturkana (Translation)	Lokaito Loochi Lokalany	id=2906
+Olukabarasi (Translation)	Mbotswa Omutiti	id=31908
 Oluwanga (Translation)	Akhasiani Akhatofu	id=2907
+Runyankore (Translation)	MUTTO WANGYE OMUNAFU	id=23542
 Sabinyi (Translation)	Yeya Lekwa Nyee Puren	id=2908
 Setswana (Translation)	Nnake Yo O Botswa	id=2909
 Somali (Translation)	Walal Yar Oo Caajislow Ah	id=17264

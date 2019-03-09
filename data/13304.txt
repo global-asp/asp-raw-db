@@ -1,4 +1,4 @@
-url:	http://africanstorybook.org/reader.php?id=13304&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=13304&d=0&a=1
 id:	13304
 title:	Decision
 author:	Ursula Nafula
@@ -50,6 +50,9 @@ illustrations/pages/10625.png
 
 translations:
 
+Amharic (Translation)	ውሣኔ	id=22401
+Arabic (Translation)	القرار	id=21813
 Kiswahili (Original)	Uamuzi	id=13303
 Kiswahili (Adaptation)	Umoja	id=18344
+Lusoga (Translation)	okusalagho	id=25741
 Ng’aturkana (Translation)	Atiakun Akiroit	id=20496

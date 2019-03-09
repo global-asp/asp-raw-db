@@ -1,13 +1,13 @@
-url:	http://africanstorybook.org/reader.php?id=15029&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=15029&d=0&a=1
 id:	15029
-title:	Day I Left Home for the City
+title:	Day I left home for the city
 author:	Lesley Koyi
 artist:	Brian Wambi
 lang:	English
 level:	First paragraphs
 lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/15029.png
-desc:	A boy leaves home for his uncle’s home in the big city. He wonders whether he will ever return to his village again.
+desc:	A boy leaves home for his uncles home in the big city. He wonders whether he will ever return to his village again.
 
 page_text:
 
@@ -50,5 +50,12 @@ illustrations/pages/15008.png
 
 translations:
 
-English (Adaptation)	Going To The Big City	id=21398
-Kiswahili (Translation)	Siku Niliyokwenda Jijini	id=15032
+Arabic (Translation)	يوم تركت المنزل ذاهباً إلى المدينة	id=21879
+English (Adaptation)	Going to the city	id=21398
+isiXhosa (Translation)	Ndiya esixekweni	id=23144
+Kidawida (Translation)	Kwenda Muzi mbaha	id=22016
+Kiswahili (Translation)	Siku niliyokwenda Jijini	id=15032
+Kiswahili (Translation)	Kwenda Jijini	id=21999
+Lámnsoʼ (Translation)	Du yeé ŋkàlaʼ ye kuʼùn	id=22298
+Lusoga (Translation)	Okuja mu'kibuga	id=25258
+Lusoga (Translation)	Okuja mukibuga	id=26113

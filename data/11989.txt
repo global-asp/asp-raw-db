@@ -1,28 +1,28 @@
-url:	http://africanstorybook.org/reader.php?id=11989&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=11989&d=0&a=1
 id:	11989
 title:	Punishment
 author:	Adelheid Marie Bwire
 artist:	Melany Pietersen
 lang:	English
 level:	First sentences
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/11989.png
 desc:	What is the punishment for a greedy boy who ate too much fruit?
 
 page_text:
 
-P1	One day,  mama bought different fruits.
-P2	"When can we have some fruit?" we asked.   "We will eat the fruit tonight," said mama.
-P3	My brother Rahim is greedy. He tasted all the fruit. He ate a lot of it.
-P4	"Look at what Rahim did!" shouted my little brother. "Rahim is naughty and selfish," I said.
+P1	One day, mama bought different fruits.
+P2	"When can we have some fruit?" we asked. @@"We will eat the fruit tonight," said mama.
+P3	My brother Rahim is greedy. @@He tasted all the fruit. He ate a lot of it.
+P4	"Look at what Rahim did!" shouted my little brother. @@"Rahim is naughty and selfish," I said.
 P5	Mama was angry with Rahim.
-P6	We were also angry with Rahim. But Rahim was not sorry.
+P6	We were also angry with Rahim. @@But Rahim was not sorry.
 P7	"Are you going to punish Rahim?" asked little brother.
-P8	"Rahim,  you will be sorry soon," warned mama.
+P8	"Rahim, you will be sorry soon," warned mama.
 P9	Rahim started feeling unwell.
 P10	"My stomach is painful," whispered Rahim.
-P11	Mama knew why Rahim was sick. "The fruit is punishing Rahim," she thought.
-P12	Later,  Rahim said sorry to us. "I will never be so greedy again," he promised. We believed him.
+P11	Mama knew why Rahim was sick. @@"The fruit is punishing Rahim," she thought.
+P12	Later, Rahim said sorry to us. "I will never be so greedy again," he promised. @@We believed him.
 
 images:
 
@@ -42,4 +42,6 @@ illustrations/pages/8036.png
 
 translations:
 
+Arabic (Translation)	العقاب	id=21885
 Kiswahili (Original)	Adhabu	id=8074
+Lusoga (Translation)	Ekibonerezo	id=26316

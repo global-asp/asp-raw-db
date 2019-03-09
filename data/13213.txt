@@ -1,4 +1,4 @@
-url:	http://africanstorybook.org/reader.php?id=13213&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=13213&d=0&a=1
 id:	13213
 title:	Magozwe
 author:	Lesley Koyi
@@ -52,6 +52,7 @@ translations:
 
 0 (Translation)	Magozwe	id=18463
 Afrikaans (Translation)	Magozwe	id=20078
+Arabic (Translation)	ماقزوي	id=21870
 Asante Twi (Translation)	Magozwe	id=18280
 ChiTonga (Translation)	Magozwe	id=18653
 CiNyanja (Translation)	Magozwe	id=18671
@@ -64,18 +65,22 @@ French (Translation)	Magozwe	id=13768
 Ga (Translation)	Ankamafio	id=18337
 Gonja (Translation)	Magozwe	id=18215
 IciBemba (Translation)	Magozwe	id=18676
-isiXhosa (Translation)	Umagozwe	id=14127
-isiZulu (Translation)	Mhlaba Ngiyakuhlonipha	id=15051
+isiNdebele (Translation)	UMagozwe	id=21939
+isiXhosa (Translation)	UMagozwe	id=14127
+isiZulu (Translation)	Mhlaba ngiyakuhlonipha	id=15051
 Kasem (Translation)	Magozwe	id=18229
+Kinyarwanda (Translation)	Magorwa	id=23628
 Kiswahili (Translation)	Magozwe	id=13214
 Kiswahili (Adaptation)	Magozwe	id=18330
-Kiswahili (Adaptation)	Magozwe	id=19360
+Kiswahili (Adaptation)	Magozwe apata makao mapya	id=19360
 Mampruli (Translation)	Magozwe	id=19322
 Nzema (Translation)	Magozwe	id=18429
 Portuguese (Translation)	Magozwe	id=17034
 Sepedi (Translation)	Magozwe	id=18159
-Sesotho (S.Africa) (Translation)	Magozwe	id=14512
+Sesotho (South Africa) (Translation)	Magozwe	id=14512
 Setswana (Translation)	Magozwe	id=14888
 SiLozi (Translation)	Magozwe	id=18742
-Tshivenda (Translation)	Magozwe	id=14794
+Siswati (Translation)	Wonkhe umuntfu uneliphupho	id=21759
+Talen (Translation)	Magozwe	id=20130
+Tshivenḓa (Translation)	Magozwe	id=14794
 Xitsonga (Translation)	Mahewu	id=14524

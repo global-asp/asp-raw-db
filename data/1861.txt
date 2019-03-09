@@ -1,6 +1,6 @@
-url:	http://africanstorybook.org/reader.php?id=1861&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=1861&d=0&a=1
 id:	1861
-title:	Weather Book
+title:	Weather book
 author:	Clare Verbeek
 artist:	Sandra McDougall
 lang:	English
@@ -34,16 +34,20 @@ illustrations/pages/1554.png
 
 translations:
 
-Kiswahili (Translation)	Kitabu Cha Hali Ya Hewa	id=2209
+Arabic (Translation)	كتاب الطقس	id=21858
+Kiswahili (Translation)	Kitabu cha hali ya hewa	id=2209
 Luganda (Translation)	Akatabo K’Obudde	id=2210
 Lugbarati (Translation)	Buku Angumile Niri	id=2720
 Lugbarati (Official) (Translation)	Búkù Àngù Mile Nɨ́ Rɨ̀	id=8762
 Lumasaaba (Translation)	Shiitabo Shishiwaamba Khu Bwiile	id=2211
 Lusoga (Translation)	Ekitabo Eky’Embeera   Ey’Obwire	id=21268
 Lusoga (Translation)	 Akatabo Ke`mbeera	id=21471
+Lusoga (Translation)	Akatabo ak'obwire	id=25156
+Lusoga (Translation)	akatabo k'obwiire	id=28616
 Maa (Translation)	Impukunót Ó Oloing'áng'e	id=2415
 Nandi (Translation)	Bukit Ab Ole U Emet	id=17251
 Ng’aturkana (Translation)	Akitab Na Eboyor Akwap	id=2212
+Olukabarasi (Translation)	Eshitabu Shielihanga	id=31903
 Olukhayo (Translation)	Esitabu Sialinga	id=2213
 Oluwanga (Translation)	Eshitabu Shielihanga	id=2214
 Setswana (Translation)	Buka Ya Maemo a Bosa	id=2215

@@ -1,6 +1,6 @@
-url:	http://africanstorybook.org/reader.php?id=1794&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=1794&d=0&a=1
 id:	1794
-title:	School Clothes
+title:	School clothes
 author:	Clare Verbeek
 artist:	Mlungisi Dlamini
 lang:	English
@@ -34,13 +34,16 @@ illustrations/pages/954.png
 
 translations:
 
+Amharic (Translation)	የትምህርት ቤት ልብሶች	id=22363
 Anywak (Translation)	Abïïk Øt-Göör	id=12633
+Arabic (Translation)	ملابس المدرسة	id=21822
 Aringati (Translation)	Ujaku Ꞌbã Bõngó Sụ̃kụ́lụ̃ Drị̂ Kî	id=7526
 Kikamba (Translation)	Ngua Sya Sukulu	id=2973
-Kiswahili (Translation)	Sare Za Shule	id=2974
+Kiswahili (Translation)	Sare za shule	id=2974
 Lugbarati (Translation)	Bongo Sukulu Ni Diyi	id=12641
 Lunyole (Translation)	Engoye J’Esomero	id=2975
 Lusoga (Translation)	Byambalo Bya Isomero	id=2976
+Lusoga (Translation)	Engoye dh'eisomero	id=26320
 Maa (Translation)	Inkiláni E Sukúul	id=2972
 Ng’aturkana (Translation)	Ng’Iworui a Esukul	id=2977
 Oluwanga (Translation)	Tsingubo Tsiomwisomero	id=2978

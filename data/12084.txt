@@ -1,6 +1,6 @@
-url:	http://africanstorybook.org/reader.php?id=12084&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=12084&d=0&a=1
 id:	12084
-title:	Holidays With Grandmother
+title:	Holidays with grandmother
 author:	Violet Otieno
 artist:	Catherine Groenewald
 lang:	English
@@ -11,26 +11,26 @@ desc:	Two children are excited as they prepare to visit their grandmother in her
 
 page_text:
 
-P1	Odongo and Apiyo lived in the city with their father. They looked forward to the holidays. Not only because school was closed,  but because they went to visit their grandmother. She lived in a fishing village near a large lake.
-P2	Odongo and Apiyo were excited because it was time to visit their grandmother again.   They packed their bags and got ready for their long journey the next day. They could not sleep and talked about the holiday the whole night.
-P3	Early the next morning,  they left for the village in their father's car. They drove past mountains,  wild animals,  and tea plantations. They counted cars and sang songs.
-P4	After a while,  the children were tired and fell asleep.
-P5	Father woke up Odongo and Apiyo as they arrived in the village. They found Nyar-Kanyada,  their grandmother,  resting on a mat under a tree. Nyar-Kanyada is a Luo name. It means "daughter of the people of Kanyada."  She was a strong and beautiful woman.
-P6	Nyar-Kanyada welcomed them into the house. She danced around the room singing with joy.   Her grandchildren were excited to give her the presents they brought from the city. "First open my gift," said Odongo. "No,  my gift first!" said Apiyo.
-P7	After she opened the presents,  Nyar-Kanyada blessed her grandchildren in a traditional way.
+P1	Odongo and Apiyo lived in the city with their father. They looked forward to the holidays. Not only because school was closed, but because they went to visit their grandmother. She lived in a fishing village near a large lake.
+P2	Odongo and Apiyo were excited because it was time to visit their grandmother again. They packed their bags and got ready for their long journey the next day. They could not sleep and talked about the holiday the whole night.
+P3	Early the next morning, they left for the village in their father's car. They drove past mountains, wild animals, and tea plantations. They counted cars and sang songs.
+P4	After a while, the children were tired and fell asleep.
+P5	Father woke up Odongo and Apiyo as they arrived in the village. They found Nyar-Kanyada, their grandmother, resting on a mat under a tree. In thier language, Nyar-Kanyada means "daughter of the people of Kanyada." She was a strong and beautiful woman.
+P6	Nyar-Kanyada welcomed them into the house. She danced around the room singing with joy. Her grandchildren were excited to give her the presents they brought from the city. "First open my gift," said Odongo. "No, my gift first!" said Apiyo.
+P7	After she opened the presents, Nyar-Kanyada blessed her grandchildren in a traditional way.
 P8	Then Odongo and Apiyo went outside. They chased butterflies and birds.
 P9	They climbed trees and splashed in the water of the lake.
-P10	When it was dark they returned to the house for dinner. Before they could finish eating,  they were falling asleep!
-P11	The next day,  the children's father drove back to the city leaving them with Nyar-Kanyada.
+P10	When it was dark they returned to the house for dinner. Before they could finish eating, they were falling asleep!
+P11	The next day, the children's father drove back to the city leaving them with Nyar-Kanyada.
 P12	Odongo and Apiyo helped their grandmother with household chores. They fetched water and firewood. They collected eggs from the chickens and picked vegetables from the garden.
 P13	Nyar-Kanyada taught her grandchildren to make soft ugali to eat with stew. She showed them how to make coconut rice to eat with roast fish.
-P14	One morning,  Odongo took his grandmother's cows to graze. They ran onto a neighbour's farm.   The farmer was angry with Odongo. He threatened to keep the cows for eating his crops. After that day,  the boy made sure that the cows did not get into trouble again.
-P15	On another day,  the children went to the market place with Nyar-Kanyada. She had a stall selling vegetables,  sugar and soap.   Apiyo liked to tell customers the price of items. Odongo would pack the items that customers bought.
+P14	One morning, Odongo took his grandmother's cows to graze. They ran onto a neighbour's farm. The farmer was angry with Odongo. He threatened to keep the cows for eating his crops. After that day, the boy made sure that the cows did not get into trouble again.
+P15	On another day, the children went to the market place with Nyar-Kanyada. She had a stall selling vegetables, sugar and soap. Apiyo liked to tell customers the price of items. Odongo would pack the items that customers bought.
 P16	At the end of the day they drank chai tea together. They helped grandmother to count the money she earned.
 P17	But too soon the holidays were over. The children had to go back to the city. Nyar-Kanyada gave Odongo a cap and Apiyo a sweater. She packed food for their journey.
-P18	When their father came to fetch them,  they did not want to leave. The children begged Nyar-Kanyada to go with them to the city. She smiled and said,  "I am too old for the city. I will be waiting for you to visit me again."
-P19	Odongo and Apiyo both hugged her tightly,  and said goodbye.
-P20	When Odongo and Apiyo went back to school they told their friends about life in the village.   Some children felt that life in the city was good. Others felt that the village was better. But most of all,  everyone agreed that Odongo and Apiyo had a wonderful grandmother!
+P18	When their father came to fetch them,  they did not want to leave. The children begged Nyar-Kanyada to go with them to the city. She smiled and said, "I am too old for the city. I will be waiting for you to visit me again."
+P19	Odongo and Apiyo both hugged her tightly, and said goodbye.
+P20	When Odongo and Apiyo went back to school they told their friends about life in the village.   Some children felt that life in the city was good. Others felt that the village was better. But most of all, everyone agreed that Odongo and Apiyo had a wonderful grandmother!
 
 images:
 
@@ -58,27 +58,33 @@ illustrations/pages/11676.png
 
 translations:
 
-Afrikaans (Translation)	Vakansies By Ouma	id=20074
+Afrikaans (Translation)	Vakansies by ouma	id=20074
+Arabic (Translation)	في عطلة مع الجدة	id=21862
 Asante Twi (Translation)	Mondli Ne Mbali Kɔsra Wɔn Nanabaa	id=18281
 ChiTonga (Translation)	Mupumuno Abankaaka	id=18644
 CiNyanja (Translation)	Cuti Kwa Ambuya	id=18665
 Dhopadhola (Translation)	Ywomirok  Bothi  Adhadha	id=15758
-English (Adaptation)	Mondli and Mbali Visit Grandmother	id=13636
-English (Adaptation)	Visiting Grandmother	id=21448
+English (Adaptation)	Mondli and Mbali visit grandmother	id=13636
+English (Adaptation)	Visiting grandmother	id=21448
 IciBemba (Translation)	Cuuti Kuli Banakulu	id=18684
-isiXhosa (Translation)	Ulilitha Noluniko Batyelela Umakhulu Wabo	id=17528
-isiZulu (Translation)	Umondli Nombali Bavakashela Ugogo Wabo	id=18756
-Kiswahili (Translation)	Likizo Kwa Nyanya	id=12670
+isiNdebele (Translation)	Amalanga wokuphumula nogogo	id=21930
+isiXhosa (Translation)	ULilitha noLuniko batyelela umakhulu wabo	id=17528
+isiZulu (Translation)	UMondli noMbali bavakashela ugogo wabo	id=18756
+Kinyarwanda (Translation)	Abana Mu Biruhuko Kwa Nyirakuru	id=22139
+Kiswahili (Translation)	Likizo kwa Bibi	id=12670
+Kiswahili (Translation)	Kumtembelea Bibi	id=21815
+Lámnsoʼ (Translation)	Meemè yee wùn à yaàyá	id=22306
 Lunyole (Translation)	Ohuŋumulira Ewa Nguhwa	id=13480
 Lunyole (Adaptation)	Ohuŋuumulira Ewa Nguhwa	id=16613
+Lusoga (Translation)	Ekiwuumulo ni dhaadha omukazi	id=26197
+Lusoga (Translation)	Okucaalira dhaadha omukazi	id=26225
 Ng’aturkana (Translation)	Akilakin Ata Egolitoe Esukul	id=12765
 Oluwanga (Translation)	Amaulukho Wa Kukhu	id=12924
-Sepedi (Translation)	Re Etela Koko	id=12888
-Sepedi (Translation)	Maikhutšong  Le Koko	id=18166
-Sesotho (South Africa) (Translation)	Matsatsi a Phomolo Le Nkgono 	id=20030
-Setswana (Translation)	Morwesi Le Pule Ba Etela Nkoko	id=16725
-Setswana (Translation)	Morwesi Le Pule Ba Etela Nkoko	id=17649
+Sepedi (Translation)	Re etela koko	id=12888
+Sesotho (South Africa) (Translation)	Matsatsi a phomolo le nkgono	id=20030
+Setswana (Translation)	Morwesi le Pule ba etela nkoko	id=17649
 SiLozi (Translation)	Kwapumulo Ni Bokuku	id=18715
+Siswati (Translation)	Ngesikhatsi semaholide nagogo	id=21722
 Talen (Translation)	Mondli Ne Mbali N Kaa Ba Makpeem	id=20128
-Tshivenda (Translation)	Holodeyi Na Makhulu	id=18305
-Xitsonga (Translation)	Ku Endzela Kokwana Wa Xisati Hi Tiholideyi	id=19018
+Tshivenḓa (Translation)	Holodeyi na makhulu	id=18305
+Xitsonga (Translation)	Ku endzela kokwana wa xisati hi tiholideyi	id=19018

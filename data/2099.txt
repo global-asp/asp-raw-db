@@ -1,13 +1,13 @@
-url:	http://africanstorybook.org/reader.php?id=2099&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=2099&d=0&a=1
 id:	2099
-title:	The Honeyguide's  Revenge
+title:	The Honeyguide's revenge
 author:	Zulu folktale
 artist:	Wiehan de Jager
 lang:	English
 level:	Read aloud
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/2099.png
-desc:	A young hunter follows a honey-guide bird to a bees’ hive full of ripe honey. Instead of rewarding the bird with a share of the honey
+desc:	A young hunter follows a honey-guide bird to a bees hive full of ripe honey. Instead of rewarding the bird with a share of the honey
 
 page_text:
 
@@ -42,8 +42,8 @@ illustrations/pages/1865.png
 translations:
 
 English (Translation)	The Honeyguide's Revenge	id=7904
-isiZulu (Translation)	Ukuziphindiselela Kwengede	id=2345
-Kiswahili (Translation)	Kisasi Cha Asali-Ndege	id=2344
+isiZulu (Translation)	Ukuziphindiselela kweNgede	id=2345
+Kiswahili (Translation)	Ndege-Asali alipiza kisasi	id=2344
 Lugbarati (Translation)	Aria Anyu Ma Angu E`dapi Ri Ni Arioti Ofezuri	id=2346
 Lumasaaba (Translation)	Intsilihaasa Iy’Omwoolesi We Bubuukhi	id=3111
 Lunyole (Translation)	Omulagiriri W'aŋali Omudungere N’Omwegalulo Gugwe	id=7241

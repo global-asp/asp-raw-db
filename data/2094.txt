@@ -1,6 +1,6 @@
-url:	http://africanstorybook.org/reader.php?id=2094&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=2094&d=0&a=1
 id:	2094
-title:	Grandma's Bananas
+title:	Grandma's bananas
 author:	Ursula Nafula
 artist:	Catherine Groenewald
 lang:	English
@@ -11,16 +11,16 @@ desc:	The little girl is curious as she watches her grandma preparing to ripen b
 
 page_text:
 
-P1	Grandma's garden was wonderful. It was full of sorghum,  millet,  and cassava. But best of all were the bananas. Although Grandma had many grandchildren,  I secretly knew that I was her favourite. She invited me often to her house. She also told me little secrets. But there was one secret she did not share with me. Where she ripened bananas.
-P2	One day I saw a big straw basket placed in the sun outside Grandma's house. When I asked what it was for,  the only answer I got was,  "It's my magic basket." Next to the basket,  there were several banana leaves that Grandma turned from time to time. I was curious. "What are the leaves for,  Grandma?" I asked. The only answer I got was,  "They are my magic leaves."
-P3	It was so interesting watching Grandma,  the bananas,  the banana leaves and the big straw basket. But Grandma sent me off to my mother on an errand. "Grandma,  please,  let me watch as you prepare." "Don't be stubborn,  child,  do as you are told," she insisted. I took off running.
-P4	When I returned,  Grandma was sitting outside but with neither the basket nor the bananas. "Grandma,  where is the basket,  where are all the bananas,  and where" But the only answer I got was,  "They are in my magic place." It was so disappointing!
-P5	Two days later,  Grandma sent me to fetch her walking stick from her bedroom. As soon as I opened the door,  I was welcomed by the strong smell of ripening bananas. In the inner room was grandma's big magic straw basket. It was well hidden by an old blanket. I lifted it and sniffed that glorious smell.
-P6	Grandma's voice startled me when she called,  "What are you doing? Hurry up and bring me the stick." I hurried out with her walking stick. "What are you smiling about?" Grandma asked. Her question made me realise that I was still smiling at the discovery of her magic place.
-P7	The following day when grandma came to visit my mother,  I rushed to her house to check the bananas once more. There was a bunch of very ripe ones. I picked one and hid it in my dress. After covering the basket again,  I went behind the house and quickly ate the banana. It was the sweetest banana I had ever tasted.
-P8	The following day,  when grandma was in the garden picking vegetables,  I sneaked in and peered at the bananas. Nearly all were ripe. I couldn't help taking a bunch of four. As I tiptoed towards the door,  I heard grandma coughing outside. I just managed to hide the bananas under my dress and walked past her.
+P1	Grandma's garden was wonderful. It was full of sorghum, millet, and cassava. But best of all were the bananas. Although Grandma had many grandchildren, I secretly knew that I was her favourite. She invited me often to her house. She also told me little secrets. But there was one secret she did not share with me. Where she ripened bananas.
+P2	One day I saw a big straw basket placed in the sun outside Grandma's house. When I asked what it was for, the only answer I got was, "It's my magic basket." Next to the basket, there were several banana leaves that Grandma turned from time to time. I was curious. "What are the leaves for, Grandma?" I asked. The only answer I got was, "They are my magic leaves."
+P3	It was so interesting watching Grandma, the bananas, the banana leaves and the big straw basket. But Grandma sent me off to my mother on an errand. "Grandma, please, let me watch as you prepare." "Don't be stubborn, child, do as you are told," she insisted. I took off running.
+P4	When I returned, Grandma was sitting outside but with neither the basket nor the bananas. "Grandma,  where is the basket, where are all the bananas, and where..." But the only answer I got was, "They are in my magic place." It was so disappointing!
+P5	Two days later, Grandma sent me to fetch her walking stick from her bedroom. As soon as I opened the door, I was welcomed by the strong smell of ripening bananas. In the inner room was grandma's big magic straw basket. It was well hidden by an old blanket. I lifted it and sniffed that glorious smell.
+P6	Grandma's voice startled me when she called, "What are you doing? Hurry up and bring me the stick." I hurried out with her walking stick. "What are you smiling about?" Grandma asked. Her question made me realise that I was still smiling at the discovery of her magic place.
+P7	The following day when Grandma came to visit my mother, I rushed to her house to check the bananas once more. There was a bunch of very ripe ones. I picked one and hid it in my dress. After covering the basket again, I went behind the house and quickly ate the banana. It was the sweetest banana I had ever tasted.
+P8	The following day, when Grandma was in the garden picking vegetables, I sneaked in and peered at the bananas. Nearly all were ripe. I couldn't help taking a bunch of four. As I tiptoed towards the door, I heard Grandma coughing outside. I just managed to hide the bananas under my dress and walked past her.
 P9	The following day was market day. Grandma woke up early. She always took ripe bananas and cassava to sell at the market. I did not hurry to visit her that day. But I could not avoid her for long.
-P10	Later that evening I was called by my mother and father,  and Grandma. I knew why. That night as I lay down to sleep,  I knew I could never steal again. Not from grandma,  not from my parents,  and certainly not from anyone else.
+P10	Later that evening I was called by my mother and father, and Grandma. I knew why. That night as I lay down to sleep, I knew I could never steal again. Not from grandma, not from my parents, and certainly not from anyone else.
 
 images:
 
@@ -38,16 +38,22 @@ illustrations/pages/1371.png
 
 translations:
 
+Arabic (Translation)	موز جدتي	id=21873
 Ekegusii (Translation)	Amatoke A’Baba	id=2371
+English (Adaptation)	I learnt a lesson	id=21792
 French (Translation)	Les Bananes De Grand-Mère	id=9956
 Fulfulde (Translation)	Bananaaje Maamiyo Debbo	id=10008
 Hausa (Niger) (Translation)	Ayabar Kaka	id=9974
 Kanuri (Translation)	Ayawa Kakaye	id=10034
 Kikamba (Translation)	Maiũ Ma Sũsũ	id=2367
-Kiswahili (Translation)	Ndizi Za Bibi	id=15942
+Kiswahili (Translation)	Ndizi za Bibi	id=15942
+Kiswahili (Translation)	Nilipata Funzo	id=21836
+Luganda (Translation)	Nayiga Essomo	id=24164
 Lugbarati (Translation)	Dede Ma A’Bua	id=2368
 Lugbarati (Official) (Translation)	Dede Vile A’Bua Ri	id=8749
 Lumasaaba (Translation)	Kamarofu Ka Kuukhu	id=3095
+Lusoga (Translation)	Nayega eisomo	id=25235
+Lusoga (Translation)	Nayega eisomo	id=29322
 Maa (Translation)	Ilmaisurîn Le Kokoô	id=2742
 Oluwanga (Translation)	Amaremwa Ka Kukhu	id=2370
 Zarma (Translation)	Ay Kaayi Banaaney	id=10099

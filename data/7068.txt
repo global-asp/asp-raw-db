@@ -1,11 +1,11 @@
-url:	http://africanstorybook.org/reader.php?id=7068&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=7068&d=0&a=1
 id:	7068
 title:	Simbegwire
 author:	Rukia Nantale
 artist:	Benjamin Mitchley
 lang:	English
 level:	Read aloud
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/7068.png
 desc:	After Simbegwires mother died
 
@@ -51,5 +51,11 @@ illustrations/pages/1691.png
 translations:
 
 Afrikaans (Translation)	Simbegwire	id=11167
-English (Adaptation)	Simbi Gets A New Mother	id=21374
+Amharic (Translation)	ሲምበግዊሬ	id=22403
+Arabic (Translation)	سمبقواير	id=21835
+English (Adaptation)	Simbi's new mother	id=21374
+Kidawida (Translation)	Wawuda mkandee	id=22025
+Kiswahili (Translation)	Simbi ampata mama mpya	id=22002
+Lámnsoʼ (Translation)	Yìy à Simbi wo fiy	id=22413
 Lunyole (Translation)	Sibahwana	id=7164
+Lusoga (Translation)	Maama wa'Simba omuyaaka	id=25443

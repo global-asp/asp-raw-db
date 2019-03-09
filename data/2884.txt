@@ -1,4 +1,4 @@
-url:	http://africanstorybook.org/reader.php?id=2884&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=2884&d=0&a=1
 id:	2884
 title:	Feelings
 author:	Clare Verbeek
@@ -28,6 +28,7 @@ illustrations/pages/1332.png
 
 translations:
 
+Amharic (Translation)	ስሜቶች	id=22402
 Aringati (Translation)	Cãndíru Ꞌbã Ị́jọ́ Ĩtrĩkãŋá	id=7267
 Ateso (Translation)	Epupi Ekon Etau Biai?	id=2885
 Kikamba (Translation)	Kwĩw’A	id=2887

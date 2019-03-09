@@ -1,13 +1,13 @@
-url:	http://africanstorybook.org/reader.php?id=7043&d=0&a=1
+url:	https://africanstorybook.org/reader.php?id=7043&d=0&a=1
 id:	7043
-title:	The Hungry Crocodile
+title:	The hungry crocodile
 author:	Christian G.
 artist:	Wiehan de Jager
 lang:	English
 level:	First sentences
-lic:	Creative Commons: Attribution 3.0
+lic:	Creative Commons: Attribution 4.0
 thumb:	http://africanstorybook.org/illustrations/covers/7043.png
-desc:	The hungry crocodile creeps through the water...
+desc:	The hungry crocodile creeps through the water.
 
 page_text:
 
@@ -34,9 +34,11 @@ Arabic (Translation)	التمساح الجائع	id=18188
 French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
 Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
 Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
-Kiswahili (Translation)	Mamba Mwenye Njaa	id=12602
+Kiswahili (Translation)	Mamba aliyekuwa na njaa	id=12602
 Luganda (Translation)	Ggonya Omuyala.	id=9664
+Lusoga (Translation)	Goina  omuyala	id=27065
 Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
 Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
 Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
 Portuguese (Translation)	O Crocodilo Faminto	id=18889
+Runyankore (Translation)	Gonya eyabile eyine ejanla	id=23538
