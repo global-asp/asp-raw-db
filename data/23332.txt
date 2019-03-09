@@ -1,0 +1,61 @@
+url:	https://africanstorybook.org/reader.php?id=23332&d=0&a=1
+id:	23332
+title:	Ebizike bisiru
+author:	Lule Eriah
+artist:	Natalie Propa
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23332.png
+desc:	Waliwo enjala Mulongo nefamileye ne batandika okunonya emmere.
+
+page_text:
+
+P1	Waliwo enjala  fulula biswa  Mulongon ne famile ye tebalina mere
+P2	Lwali lumu  yabatwala mukibira  okunonya ekyokulya
+P3	Basanga olusuku lwa  matoke naye nga teluliko nyini lwo
+P4	Oluvanyuma  ezike eddene lyatuka  
+
+Nelibaleka nebabere wo
+P5	Amakya agamu nelimugamba  nti afumbe mutabani we
+P6	olwegulo  ezike nera nelimugamba  fumba muwala  wo enkya
+P7	Abazadde  nebakweka mula wabwe muti
+P8	Enkeera neligamba omukazi  enkya nfumbira bawo
+P9	olwegulo olwo nelimugamba  yefumbe
+P10	Nga limaze okulya  lyebaka nelifulutira wansi womuti
+P11	Ezike lyabalaba  nga balamu 
+
+Nelinyiga
+P12	Bali tega  akakodiyo  nebaka wansi  okuva kumuti
+
+images:
+
+illustrations/pages/8114.png
+illustrations/pages/8111.png
+illustrations/pages/8112.png
+illustrations/pages/8113.png
+illustrations/pages/8114.png
+illustrations/pages/8115.png
+illustrations/pages/8116.png
+illustrations/pages/8117.png
+illustrations/pages/8118.png
+illustrations/pages/8119.png
+illustrations/pages/8120.png
+illustrations/pages/8121.png
+illustrations/pages/8122.png
+
+translations:
+
+Amharic (Translation)	ጭራቆች ደደቦች ናቸው	id=21182
+English (Translation)	Mulongo and the Ogre	id=9127
+English (Adaptation)	Ogres are stupid	id=20886
+English (Adaptation)	Mulongo And The Ogre	id=21549
+French (Translation)	Mulongo Et L'ogre	id=10699
+Kiswahili (Translation)	Ujinga wa Majitu	id=21138
+Luganda (Translation)	Bawazzike Ba Siiru	id=21060
+Lumasaaba (Original)	Mulongo Ni Wanasilikhe	id=9126
+Lumasaaba (Adaptation)	Mulongo Ni Wanasilikhe (Revised)	id=10521
+Lusoga (Translation)	Ebimenke Bitumbaavu	id=26986
+Lusoga (Translation)	Ebimenke Bitumbavu	id=29021
+Ng’aturkana (Translation)	Ebang'aka Ng'ibuin	id=21132
+Tigrigna (Translation)	ሕንጉጉ ሕማቓት እዮሞ	id=21103

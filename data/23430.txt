@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=23430&d=0&a=1
+id:	23430
+title:	Happy dogs
+author:	Mary  Kleinenberg
+artist:	Funda  Nenja
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23430.png
+desc:	Bongiwe takes her dog to classes to learn how to care for her pet.
+
+page_text:
+
+P1	My name is Bongiwe. I live in a town called Mpophomeni in KwaZulu-Natal.
+P2	I have a small dog called Scruffy.
+P3	After school on Fridays, Scruffy and I go to Funda Nenja classes with lots of other children and their dogs.
+P4	Funda Nenja means learning with the dog in isiZulu.
+P5	Funda Nenja teaches us how to care for our dogs in a kind and gentle way.
+P6	Funda Nenja teaches the dogs how to jump over logs and run through tunnels.
+P7	Scruffy and the other dogs enjoy their happy times together.
+P8	I love Scruffy and Scruffy loves me.
+
+images:
+
+illustrations/pages/27067.png
+illustrations/pages/27068.png
+illustrations/pages/27070.png
+illustrations/pages/27073.png
+illustrations/pages/27074.png
+illustrations/pages/27075.png
+illustrations/pages/27076.png
+illustrations/pages/27077.png
+illustrations/pages/27078.png
+
+translations:
+
+Luganda (Translation)	Embwa ensanyufu	id=23558
+Lusoga (Translation)	Embwa  ensanhufu	id=26602

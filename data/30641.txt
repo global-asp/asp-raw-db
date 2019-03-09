@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=30641&d=0&a=1
+id:	30641
+title:	Musoke
+author:	Rebecca Ndhibogeza
+artist:	Benjamin Mitchley, Michael Nakuwa, Wiehan de Jager, Marleen Visser and Jesse Breytenbach
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30641.png
+desc:	Omwana ayogera ku nhumbaye efaanana oti musoke.
+
+page_text:
+
+P1	Nnenda musoke.
+P2	Nnenda langi dhoonadhoona edhagaanibwa ku musoke.
+P3	Singa nali n'enhumba nga efaanana ni musoke.
+P4	Yandibaire n'akasulya nga ka kasaayi.
+P5	Yandibaire n'amadinisa ga bbululu.
+P6	Enhumba eyo yandibaire nga nsiige ya langi ya kyenvu  ku luya.
+P7	Yandibaire n'ebisenge bya kakobe maadhimaadhi  mu nda.
+P8	Yandibaore n'ebimuli bya kyenvu.
+P9	Ekitanda kyandibaire kya  langi ya kakobe.
+P10	Enimiro yandibaire ya kiragala mwereere.
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/6260.png
+illustrations/pages/7961.png
+illustrations/pages/6239.png
+illustrations/pages/6260.png
+illustrations/pages/2483.png
+illustrations/pages/5673.png
+illustrations/pages/2550.png
+illustrations/pages/9847.png
+
+translations:
+
+English (Original)	The Rainbow	id=10179

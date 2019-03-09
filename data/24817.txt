@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=24817&d=0&a=1
+id:	24817
+title:	La Danse
+author:	Heidi  Schubert
+artist:	Catherine Groenewald
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24817.png
+desc:	Un poème au sujet dune fille qui aime
+  danser. Son professeur trouve cela irritant
+
+page_text:
+
+P1	Je danse quand je suis heureuse, je danse quand je suis triste, je danse quand je suis seule, je danse quand je suis fâchée.
+P2	Mon professeur dit: « Asseyez-vous! Ne
+  dansez pas toute la journée. »
+P3	Mais ma mère dit: « La danse vous
+  rend en bonne santé, la danse vous fait grandir. Un jour, vous serez une
+  danseuse et vous les surprendrez tous! »
+P4	Et je dis: « Un jour, je danserai et
+  les gens paieront juste pour me voir sauter et virevolter. ‘Sa danse est
+  tellement bonne,’ ils diront. »
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Luganda (Translation)	Okuzina	id=22960
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lumasaaba (Translation)	Kuchina	id=20932
+Lusoga (Translation)	Okukina	id=24942
+Portuguese (Translation)	Dançando	id=12173
+Rufumbira (Translation)	Kubyina	id=22758
+Rukiga (Translation)	okuzina	id=22981
+Setswana (Translation)	Mokibo	id=2695

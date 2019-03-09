@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=24923&d=0&a=1
+id:	24923
+title:	Ngobi ni Mpaata
+author:	Joseph  Mukwaya and Kyambogo  University
+artist:	Franz Phooko
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24923.png
+desc:	Aboomukwano babiri nga buli omu ali nakasolo akendhawulo. Owundi ali ni puusi
+
+page_text:
+
+P1	Ngobi ni Mpaata ba mukwano.
+P2	Ngobi ali ni puusi. Mpaata yaaba n'akamyu.
+P3	Ngobi azaanha ni puusi ye buliidho.
+P4	Mpaata aliisa akamyu ke mirundi ebiri olunaku.
+P5	Akamyu ka Mpaata kaazaala obumyu mukaaga. Obumyu obubiri bwali bwirugavu. Obubiri bwali bwa kisiitaka. Obubiri bwaba bweru.
+P6	Puusi ya Ngobi yazaala obupuusi busatu. Akapusi akandi kaali kasaadha. Obupuusi obubiri bwali bukazi.
+P7	Mpaata yatundaku obumyu buna. Sente dheyafunamu yadhigulamu bitabo na kalamu byeyeetaaga ku isomero.
+P8	Ngobi tiyatundaku waire kapuusi kalala. Abataka ku kyalo tibaayendanga puusi.
+
+images:
+
+illustrations/pages/9585.png
+illustrations/pages/9576.png
+illustrations/pages/9577.png
+illustrations/pages/9578.png
+illustrations/pages/9579.png
+illustrations/pages/9580.png
+illustrations/pages/9581.png
+illustrations/pages/9582.png
+illustrations/pages/9583.png
+
+translations:
+
+English (Adaptation)	Kabali and Kateera	id=11584
+Luganda (Original)	Kabali Ne Kateera	id=11555

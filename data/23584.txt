@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=23584&d=0&a=1
+id:	23584
+title:	Ne njangu zingaha?
+author:	Rhoda Nakawooza
+artist:	Jesse Breytenbach
+lang:	Rutooro
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23584.png
+desc:	Okubala ekitabu kutandikila aha busa mpaka aha mwenda.
+
+page_text:
+
+P1	Ne njangu zingaha? Tihaluho enjangu yoona.
+P2	Ne njangu zingaha? Ne njangu emwe.
+P3	Ne njangu zingaha? Ne njangu ibiri.
+P4	Ne njangu zingaha? Ne njangu isatu.
+P5	Ne njangu zingaha? Ne njangu ina.
+P6	Ne njangu zingaha? Ne njangu itano.
+P7	Ne njangu zingaha? Ne njangu mukaga.
+P8	Ne njangu zingaha? Ne njangu musanju.
+P9	Ne njangu zingaha? Ne njangu munana.
+P10	Niki kino ekitukulola? Akajangu akateito kalemile omumuti!"Ninjakukutasya."
+P11	Mama, tukalolele rundi?Kamu konka.Ne njangu zingaha?"Ne njangu mwenda!"
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Dhopadhola (Translation)	kwano pus	id=23214
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala Puusi	id=24824
+Lusoga (Translation)	Okubala puusi	id=27336
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555

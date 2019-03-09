@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=23366&d=0&a=1
+id:	23366
+title:	Ekitoi lo ainera
+author:	Abraham Malinga
+artist:	Abraham Muzee
+lang:	Ateso
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23366.png
+desc:	Apega ekitoi ne ejai Kiki anu itunga aitub ikito.
+
+page_text:
+
+P1	Adope aparan aiboei Kiki kwap ekitoi itururue keda awomisio
+P2	Opupuni nesi eporoto ebunit okawu ke. Ibelokini nesi awanyun ekitoi engikit nesi. Obu lo osomar awai ekuriana noi keda awumokinet na pol adoketait
+P3	Ogewuni ekitoi aimonyo. Itimokini Kiki ekitoi osodi nesi aigit nyobo amonya ekitoi lo ainera. Osodi ekitoi abongokin nesi ebe atubete kesi itunga noi.
+P4	Itimokini Kiki ekitoi osodi nesi achamanar ebe abeit nesi aidar ikito keda ikes ipajan kere.
+P5	Ipaperikinos Kiki keda ekitoi. Obu Kiki keda ekitoi iyalamikinos arawun ipaper.
+P6	Itodikini Kiki ake beru keda ike duwe ekitoi lo apedorit ener. Orawunos kesi kera ipapero. Osawa lo amamer aswam, Kiki keda eke ekal lu abunenenete aiboi ke ener keda ekitoi lo apedorit ener.
+P7	iputakisi eragi aputosia nu ejasi awaragat na.
+
+images:
+
+illustrations/pages/15232.png
+illustrations/pages/15237.png
+illustrations/pages/15238.png
+illustrations/pages/15241.png
+illustrations/pages/15242.png
+illustrations/pages/15243.png
+illustrations/pages/15244.png
+
+translations:
+
+English (Original)	Talking Tree	id=15409
+Luganda (Translation)	OMUTTI OGWOGERA	id=24011
+Lusoga (Translation)	omuti ogwogera	id=24238
+Runyankore (Translation)	omuti ogukugamba	id=24236

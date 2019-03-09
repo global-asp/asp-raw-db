@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=28634&d=0&a=1
+id:	28634
+title:	Okumu  ni ente ye
+author:	Kyambogo  University and Robert Kirunda
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28634.png
+desc:	 Okumu yali ni ente nga bajeeta najoka. Nga asobora okugiriisa bu kaloti era nga agitwala ku nsiko okujaaya buli lunaku. Nakoka yali nte nnamu inho era nga emugha amata.
+
+page_text:
+
+P1	Agho  olwatuuka, ghabaawo  omulenzi nga  ni  okumu.
+P2	Okumu  yali  ni  ente  nga  bagyeta  najoka.  Nga  agiriisa  bu  kaloti.
+P3	Okumu  nga  asobola  okujitwala  ku  nsiko okujaaya  buli  lunaku.
+P4	Najoka  yali  nte  namu  bukalamu  era  nga  emugha  amata.
+
+images:
+
+illustrations/pages/7939.png
+illustrations/pages/7934.png
+illustrations/pages/7945.png
+illustrations/pages/7936.png
+illustrations/pages/11997.png
+
+translations:
+
+English (Original)	Okumu and his cow	id=24644

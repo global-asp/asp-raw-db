@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=26517&d=0&a=1
+id:	26517
+title:	Omuluvu
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Melany Pietersen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26517.png
+desc:	Kibonerezo ki ekyomulenzi omuluvu eyalya ebibala ebingi?
+
+page_text:
+
+P1	Dadha  yaleta  ebibala  okuva  mukatale.
+P2	Byabonheka  nga  bighoma.
+P3	Mugandaghange  Ivaibi  yali  gha  muluvu.
+P4	Nanhi  akubye  ebibala?
+P5	Dadha  yanhiga  yaalekana.
+P6	Tusubiire  ivaibi.
+P7	Twakobera  daadha.
+P8	Daadha  yamubuza  era  yaikiriza.
+P9	Ekyairirira,  Ivaibi  tiyaghulira  bulungi.
+P10	Yalumuka  yagya  mumugwana.
+P11	Ivaibi  yagema    kunda  ye.
+P12	Dadhd  yabuza,"Ki  kyoyeze  munebiya  ya  Ivaibi?"
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Dhopadhola (Translation)	Woro	id=18692
+English (Translation)	Greed	id=13327
+Lusoga (Translation)	Obuluvu	id=30572

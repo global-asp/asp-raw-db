@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=25391&d=0&a=1
+id:	25391
+title:	Wanume ni Kate Kaluusi
+author:	Alice Gonza and Kyambogo  University
+artist:	Rob Owen and Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25391.png
+desc:	Abaana boona oona basainhe beege okulabirira ensolo edhaghaka.
+
+page_text:
+
+P1	Wanume mulenzi muto. Ava mu maka omuli ente, Kate Kaluusi
+P2	Wanume aba ni maama we ne ente evaamu amata.
+P3	Wanume ayendha ente eno.
+P4	Buli lukyeire, maama wa Wanume akama ente.
+P5	Wanume anhwa amata ga bbongo.
+P6	Wanume atwala ente okujaaya.
+P7	Wanume agha ente amaadhi okunhwa.
+P8	Maama wa Wanume afumba kaamusinke.
+P9	Wanume awomerwa emere ni kaamusinke.
+P10	Wanume asamba omupiira ni baine nga amaze okunhwa amata.
+P11	Wanume asoma ekitabo kye omuli ebighandiiko ku nte yaibwe.
+P12	Wanume asiibula ente nga aja okutenduka.
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/7934.png
+illustrations/pages/7937.png
+illustrations/pages/7936.png
+illustrations/pages/7940.png
+illustrations/pages/7942.png
+illustrations/pages/7939.png
+illustrations/pages/7938.png
+illustrations/pages/8557.png
+illustrations/pages/7928.png
+illustrations/pages/7926.png
+illustrations/pages/7944.png
+illustrations/pages/7939.png
+
+translations:
+
+Amharic (Translation)	ጆጆና ላሚቷ	id=18457
+English (Original)	Jojo and Cow	id=8717
+Lunyole (Translation)	Jojo   N’Eŋombe	id=10016
+Sepedi (Translation)	Jojo Le Kgomo	id=10131

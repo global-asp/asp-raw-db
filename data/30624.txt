@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=30624&d=0&a=1
+id:	30624
+title:	Ebifaananie  eby'obulabe
+author:	Julius Bamwagala and Kyambogo  University
+artist:	Wiehan de Jager and N/A
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30624.png
+desc:	Ebifaananie ebireeta obulabe ku bantu ni kubintu ebyendhawulo.
+
+page_text:
+
+P1	Amagha.
+P2	omuliro
+P3	Omusota.
+P4	Ekereta
+P5	Ekipanga
+P6	Empiso
+P7	Emundu
+P8	Obutwa.
+
+images:
+
+illustrations/pages/5976.png
+illustrations/pages/9739.png
+illustrations/pages/6121.png
+illustrations/pages/5921.png
+illustrations/pages/9740.png
+illustrations/pages/9741.png
+illustrations/pages/9742.png
+illustrations/pages/9745.png
+illustrations/pages/9744.png
+
+translations:
+
+English (Original)	Dangerous Objects	id=9747
+Lusoga (Translation)	Bifaananie bya kabiibi	id=27230

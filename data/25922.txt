@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=25922&d=0&a=1
+id:	25922
+title:	Okubala  puusi
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25922.png
+desc:	Okubala ebiitabo
+
+page_text:
+
+P1	puusi  imeka?  ghazira  puusi.
+P2	Puusi  imeka?  puusi  ndala. Epuusi  endirugavu  erya  mamba.
+P3	Puusi  imeka? 2  puusi  ibiri.  Puusi  endheru  n'edhekikyangakyanga  puusi  endheru  n'eyekikyangakyanga  dhizanira  mu  bimuli.
+P4	Puusi  imeka?  3Puusi  isatu.  Ey'ekikyangakyanga,eyamata  n'eyobudolodondo.Dhizanira  kubimante.
+P5	Puusi  imeka?  4Puusi  inha.Puusi  inha  mikwano  gya  Paulo.
+P6	Puusi  imeka?  5 puusi  itanu.  Puusi  itanu  dhizanhira  mwidiro.
+P7	Puusi   imeka?  6  Puusi  mukaga.  Puusi  mukaga  dhityama  ghalala  dhabona  filimu.
+P8	Puusi  imeka.  7  Puusi  musanvu.  Puusi  musanvu  dhizanhira  muluya.
+P9	Puusi  imeka  8   puusi  munhanha.Puusi  munhanha  tidenda  mbwa.
+P10	Kino  ki  kyetubona?  AKa  puusi  akato  kalalire  mu  muti!   "nda  kutasa!"paulo  yakoba.
+P11	"Maama"  tusobola  omukuma?  mulundi  mulala."  Puusi  imeka?  9 Puusi  omwenda  nhingi.  Maama  yakoba.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Amharic (Translation)	ድመቶችን እንቁጠር	id=13124
+Arabic (Translation)	عدد القطط	id=19919
+English (Adaptation)	Counting cats	id=12693
+isiXhosa (Translation)	Bala iikati	id=15023
+Lunyole (Translation)	Ohubala Epuusi	id=13559
+Portuguese (Translation)	Contar Gatos	id=16196
+Runyankore (Translation)	okubaara enjaangu	id=23241
+Tunisian (Translation)	Ħasbēn L-Qṭāṭes	id=15384

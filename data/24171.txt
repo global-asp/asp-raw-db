@@ -1,0 +1,62 @@
+url:	https://africanstorybook.org/reader.php?id=24171&d=0&a=1
+id:	24171
+title:	Zama omusemba
+author:	Auhe  Tjaveondja
+artist:	Vusi Malindi
+lang:	Otjiherero
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24171.png
+desc:	Otjihambarere tjii tjimunu kutja otja tjima turongo ovanatje
+
+page_text:
+
+P1	Okatena kandje kerara olata.
+
+Ami mbipenduka rukuru, mena rokutja ami omusemba!
+P2	Ami ngumbijandjera omutenya.
+P3	"Ove okanyose kandje komuhuka omunene," Mama utjanao.
+P4	Mbirikoha omuni eyuva arihe, hihepa ombatero.
+P5	Hina kuwari kutja omeva omatarazu, po oheva ondjo omburau yokukoha ozomband.
+P6	Mama undji zemburukisa, "Ozembi omayo woye."
+
+Ami etja, "Kako tjiri, kami ko!"
+P7	Tjimbazu nokurikoha, mbikorisa tate munene na tandaa.
+
+Mbivezerira po eyuva ewa.
+P8	Kuzambo erihukike omuni.
+
+"Ami omunene nai, mama," Etja nao.
+P9	Menene okupata ozombandi zandje omuni no kukuta ozondjatate zandje.
+P10	Mbitara nawa kutja okatena kandje maketjiua ombuze kuzira kosikore.
+P11	Metuwo romerihongero mbikondja pumejenene momuano auhe.
+P12	Mbitjita ovina oviwa mbi eyuva arihe.
+
+Posija tjimbasuvera kutjita tjinene, okunyanda no kunyanda.
+
+images:
+
+illustrations/pages/7514.png
+illustrations/pages/7513.png
+illustrations/pages/7514.png
+illustrations/pages/7517.png
+illustrations/pages/7507.png
+illustrations/pages/7515.png
+illustrations/pages/7518.png
+illustrations/pages/7516.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+illustrations/pages/7509.png
+
+translations:
+
+Arabic (Translation)	زاما المميز!	id=21847
+English (Adaptation)	Zama is great!	id=9984
+Khoekhoegowab (Translation)	Zamab ge a kai	id=24656
+Kiswahili (Translation)	Mimi ni mashuhuri!	id=22086
+Lusoga (Translation)	Juma wa Maani!	id=25917
+Lusoga (Translation)	Mbwali mubitirivu	id=25945
+Oshikwanyama (Translation)	Zama omunandjungu	id=24129
+Oshindonga (Translation)	Zama omwa nawa	id=23885

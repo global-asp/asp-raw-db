@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=24424&d=0&a=1
+id:	24424
+title:	Elijah nyantahurira
+author:	Evelyn Birungi
+artist:	Rob Owen and Catherine Groenewald
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24424.png
+desc:	Ekyiganaro aha mwana owabaire atakuhurura.
+
+page_text:
+
+P1	Hakaba hariho omwaana Elijah otarikuhurira ebibabaire bamugambira.
+P2	Ezoobarimwe akaba ayaine nyina nibagyenda bashsnga emiyembe eyezire atyo yatemba omukiti kyemiyembe yatandika yacwa
+P3	Nyina kuyarebire yahika, mingi yamugira bagyende, kwonkawe yayanga
+P4	Mama we yamutsinga rero kuyaherize yashitama yarya emiyembe ekicuncu kaija kyamushangaho kyamurya.
+
+images:
+
+illustrations/pages/7934.png
+illustrations/pages/10803.png
+illustrations/pages/13489.png
+illustrations/pages/1812.png
+illustrations/pages/9628.png
+
+translations:
+
+Runyankore (Translation)	Elijah the one who wouldn't listen	id=24429

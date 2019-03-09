@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=24418&d=0&a=1
+id:	24418
+title:	We are the same
+author:	Uganda Christian University and allen ahurira
+artist:	Catherine Groenewald, Wiehan de Jager, Emily Berg and Mlungisi Dlamini
+lang:	Runyankore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24418.png
+desc:	Kakyo aine amashemererwa kushanga nashishaana na munywaniwe Nankya nobubarabe bakurunga omu myanya etakushishana omuri Uganda.
+
+page_text:
+
+P1	Kakyo nomwishiiki ari kurunga omuri Eastern Uganda.
+P2	Erizooba yafuuna omuywani owubakweeta Nankya.
+P3	Nankya naruuga Masaka omuri Central Uganda.
+P4	Bakashaaga boona bakukunda okuzaana.
+P5	boona abaishikyi nibakunda okwibiira.
+P6	Kakyo akeeta Nankya omuka owaabo kuzaana kandi kyaba ekyaburiizoba.
+P7	Baguuma nibazaana hamwe burizooba.
+P8	Baguuma nibibiira buri muheeru gwe esande.
+P9	Kandi okuywaana kwabo kwagumaho okuhitsya obu bakuziire.
+
+images:
+
+illustrations/pages/8661.png
+illustrations/pages/8630.png
+illustrations/pages/19458.png
+illustrations/pages/1096.png
+illustrations/pages/1624.png
+illustrations/pages/1004.png
+illustrations/pages/19459.png
+illustrations/pages/8482.png
+illustrations/pages/9848.png
+illustrations/pages/19177.png
+
+translations:
+
+English (Original)	We Are The Same	id=22870
+Lusoga (Translation)	Tuli kirala	id=29825

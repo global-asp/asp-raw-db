@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=24942&d=0&a=1
+id:	24942
+title:	Okukina
+author:	Joseph  Mukwaya
+artist:	Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24942.png
+desc:	Ekitontome ku mughala anhumirwa okukina. Omusomesa we yamwetamwa aye maama we amwizaamu amaani.
+
+page_text:
+
+P1	Nkina nga ndi musanhufu, nkina nga nnakughaire, nkina nga ndi zenka, nkina nga nnhiize.
+P2	Omusomesa wange akoba, "Tyama nga tigheeneenhia! Tomala lunaku lwona lwona ng'okina bukine."
+P3	Aye maama wange akoba, "Okukina kukukuuma ng'oli mulamu, kukuleeya, Luliba olwo ghaaba mukini, obeewuunise boonaboona!"
+P4	Era nkoba, "Luliba olwo naakina era abantu balisasula okumbona nga needhaga." Baidha kukoba bati, "Akina bulungi inho."
+P5	Gaagano amakina genkina.
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+French (Translation)	La Danse	id=24817
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Luganda (Translation)	Okuzina	id=22960
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lumasaaba (Translation)	Kuchina	id=20932
+Portuguese (Translation)	Dançando	id=12173
+Rufumbira (Translation)	Kubyina	id=22758
+Rukiga (Translation)	okuzina	id=22981
+Setswana (Translation)	Mokibo	id=2695

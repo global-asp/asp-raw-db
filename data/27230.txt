@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=27230&d=0&a=1
+id:	27230
+title:	Bifaananie bya kabiibi
+author:	Paul Wambi
+artist:	Wiehan de Jager and N/A
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27230.png
+desc:	Bino bifaanani bilaga bulabelabe.
+
+page_text:
+
+P1	Magha
+P2	Muliro.
+P3	Musota.
+P4	Kereta.
+P5	Ekipanga.
+P6	Mpiso.
+P7	Mundu.
+P8	Buthwa.
+
+images:
+
+illustrations/pages/5976.png
+illustrations/pages/9739.png
+illustrations/pages/6121.png
+illustrations/pages/5921.png
+illustrations/pages/9740.png
+illustrations/pages/9741.png
+illustrations/pages/9742.png
+illustrations/pages/9745.png
+illustrations/pages/9744.png
+
+translations:
+
+English (Original)	Dangerous Objects	id=9747
+Lusoga (Translation)	Ebifaananie  eby'obulabe	id=30624

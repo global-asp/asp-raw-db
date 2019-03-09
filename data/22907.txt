@@ -1,0 +1,75 @@
+url:	https://africanstorybook.org/reader.php?id=22907&d=0&a=1
+id:	22907
+title:	Kate ali mwigulu
+author:	Flavia Kunihira and Uganda Christian University
+artist:	Rodney  Kawaayi
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22907.png
+desc:	Kate akaba tali kulungi.Kusemezebwa obwongo. Omusaho nikwo agambire. Nogire kiki ekyabeire ho?
+
+page_text:
+
+P1	Kate aine ekintu mu mutwe gwe.
+Nibeija kukihamu baata?
+P2	Niki mujwashya
+Niki musasa.
+Niki mulemeeza
+P3	Takusobora kulya.Takusobora kunywa.
+Tasemireirwe nkwoku aikeire asemerirwe.
+P4	Caali  omukazi waitu nobusasi bwomutwe.
+Omusaho amukebile omutwe gwe.
+P5	Omusaho narora ekizimba mu mutwe gwe kandi nagamba,''Halimu ekiziba mu bwongo.''
+P6	''Twina kukihamu mu bwongo saaha zino.Twina kukihamu hati.'' omusaho agambire.
+P7	Balete akataabo.
+P8	Batekaniiza obuwembe bwo kumusemeza.
+P9	Niba mutela enkinzo.
+P10	Kate bamusara omutwe.
+P11	Obwongo babwihamu.
+P12	Ekiziba ba ki salamu.
+P13	Obwongo ba bugaramu mu kahanga.
+Hati basoona omutwe hamu.
+P14	Kate nahurra buli kintu ki ba kukola?
+Nangwa!Ta kwetegereza.Mu saaha ebiri ne neina!
+P15	Hati yagaruka mu bwomezi.
+P16	Saahazinu ali kurungi.Nkwo'omwana eya ka zaalwa.
+P17	Itwena tusemereirwe habwa munyani weitu Kate abaineho iguulu.
+
+images:
+
+illustrations/pages/26149.png
+illustrations/pages/26517.png
+illustrations/pages/26518.png
+illustrations/pages/26519.png
+illustrations/pages/26520.png
+illustrations/pages/26521.png
+illustrations/pages/26522.png
+illustrations/pages/26523.png
+illustrations/pages/26524.png
+illustrations/pages/26525.png
+illustrations/pages/26526.png
+illustrations/pages/26527.png
+illustrations/pages/26528.png
+illustrations/pages/26529.png
+illustrations/pages/26530.png
+illustrations/pages/26531.png
+illustrations/pages/26532.png
+illustrations/pages/26533.png
+
+translations:
+
+English (Translation)	Kate is in heaven	id=22256
+English (Adaptation)	(Colour-in) Kate is in heaven	id=22559
+Kiswahili (Translation)	Kate yuko mbinguni	id=22468
+Luganda (Original)	Kasalina ali mu Ggulu	id=22255
+Luganda (Translation)	Kate ali mu Gulu	id=22878
+Luganda (Translation)	kate alimugulu	id=23040
+Lugwere (Translation)	O'Kate Alimwigulu	id=22903
+Lusoga (Translation)	Kasalina ali mwighulu	id=22694
+Lusoga (Translation)	Kasalina ali mwigulu	id=23806
+Lusoga (Translation)	Kasalina ali mwigulu	id=28564
+Rukiga (Translation)	kate ali omwigulu	id=22911
+Runyankore (Translation)	Kate ari Omwiguru	id=22879
+Runyankore (Translation)	Kate ari omwiguru	id=23039
+Rutooro (Translation)	Kate ali mwuguru	id=22906

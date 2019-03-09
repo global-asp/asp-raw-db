@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=24573&d=0&a=1
+id:	24573
+title:	Mothers love
+author:	Lubogo James
+artist:	Rob Owen, Benjamin Mitchley and Catherine Groenewald
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24573.png
+desc:	There is no anyone on this planet earth can show you love apart from your mother.
+
+page_text:
+
+P1	She carries me for 9 months.
+P2	Wakes me up to go for studies.
+P3	Makes me to know how to dig.
+P4	Counsels me when i have gone wrong.
+P5	Takes me for evening walk.
+P6	Allows me choose whatever i desire.
+P7	Makes sure that i cover myself in the bed every night.
+P8	I give respect to all mothers who shows that love.
+
+images:
+
+illustrations/pages/1685.png
+illustrations/pages/15011.png
+illustrations/pages/25347.png
+illustrations/pages/19455.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9497.png
+illustrations/pages/9501.png
+illustrations/pages/1690.png
+
+translations:
+
+Lusoga (Translation)	Omukwano gwa maama	id=29419

@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=25698&d=0&a=1
+id:	25698
+title:	silimu aita nabalungi
+author:	Kyambogo  University and kiirya zephania
+artist:	Brian Wambi, Kenneth Boyowa Okitikpi, Melany Pietersen, Wendy Morison and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25698.png
+desc:	John omulenzi omulugi yafa siliimu olwobweenzi.
+
+page_text:
+
+P1	jonh yali omulenzi asinga bulungi ate amaniikwa ku kyaalo.
+P2	y'egomba buli mughala mu kyaalo ate bamweendha ihno
+P3	ya gya kwiilwaaliro era bakamuteema nti alina akawuka ka sirimu.
+P4	john y'elalikirira olw'obulamu bwe ate kibumba yamukola nga mulungi
+P5	okwiirira kwa john kwamuletera okuloghoza ku nkomerero y'obolamu bwe.
+P6	mukisera kitono obulungi bwa john byaatwaalibwa olw'obulwaiile
+P7	munaaku ntono,john yafa era yazikiibwa na b'enhumba ye bonka
+
+images:
+
+illustrations/pages/8903.png
+illustrations/pages/27125.png
+illustrations/pages/10613.png
+illustrations/pages/8035.png
+illustrations/pages/13837.png
+illustrations/pages/13102.png
+illustrations/pages/19114.png
+illustrations/pages/4508.png
+
+translations:
+
+English (Original)	AIDS kills even the handsome	id=24646
+Lusoga (Translation)	Mukenembya aita n'Abalungi	id=25071
+Lusoga (Translation)	Kaniaza aita na abalangaadhu	id=25431

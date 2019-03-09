@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=24284&d=0&a=1
+id:	24284
+title:	Empungu y'obwengye
+author:	KANGABE EDNA and Uganda Christian University
+artist:	Melany Pietersen, Graham Paterson, Katrien Coetzer and Rob Owen
+lang:	Rukiga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24284.png
+desc:	Empungu yobwengye ekaza kuronda amaizi.
+
+page_text:
+
+P1	Empungu ekaba eine eiriho, yatambura orugyendo rureingwa erikuronda amaizi, konka tiyagabona.
+P2	Yasharamu kuguruka ngu egaruke omukiti ahuyabiire netuura. Kikagitwarira obweire buringwa ahabw'okugira ngu ekaba eteine manyi.
+P3	Kuyabire neguruka, yareeba amaizi omunyuungu omumbuga y'omuntu.
+P4	Amaizi gakaba garimakye, gari ahansi omunyuungu. Omunwa gw'empungu gukaba gutakahika amaizi. Ekatandika kuronda oku eranywe ag'amaizi.
+P5	Ekasharamu yaronda otubaare. Yanaga akabaare kamwe omu'maizi omunyungu, otweizi tukye twayatika.
+P6	Empungu yayashama yatunywa.
+P7	Yaronda agandi mabaare aguyagumire nerekyera omu'maizi, obwe erikuganywa kuhisya obu yahagiire.
+
+images:
+
+illustrations/pages/9592.png
+illustrations/pages/9223.png
+illustrations/pages/9216.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/8599.png
+illustrations/pages/9036.png
+illustrations/pages/9026.png
+
+translations:
+
+English (Original)	A Wise Crow	id=10198
+Kinyarwanda (Translation)	Igisiga K'igihanga	id=20860
+Lusoga (Translation)	 	id=21281
+Runyankore (Translation)	Empungu yamagyezi	id=23372

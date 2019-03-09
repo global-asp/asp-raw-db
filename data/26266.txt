@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=26266&d=0&a=1
+id:	26266
+title:	Maino kika ki?
+author:	Abdul Maged Mbago and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26266.png
+desc:	Ebisolo ebindi biri ni amaino amoogi agokulumisa. Edhindi dhiri namaino matereevu agokunaanisa. Edhindi dhiziramu maino. Ate ighe?
+
+page_text:
+
+P1	Engoina eri n'amaino amoogi.
+P2	Empologoma eri n'amaino amoogi.
+P3	Dhi saaka, ebyanhandha dhiri n'amaino amoogi einho!
+P4	Ente eri n'amaino amagumu ag'okunaana.
+P5	Ekiinhonhi kizira maino. Kirya kitya?
+P6	Empube eri n'amaino agemberi amaleeyi.
+P7	Nalinga n'amaino ag'emberi.
+P8	Amaino gange ag'emberi gaagwa!
+
+images:
+
+illustrations/pages/9634.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9626.png
+illustrations/pages/9630.png
+illustrations/pages/9631.png
+illustrations/pages/9634.png
+illustrations/pages/9632.png
+illustrations/pages/9633.png
+
+translations:
+
+Afrikaans (Translation)	Tande	id=10594
+Aringati (Translation)	Sí Éséle Íngóní Rĩ?	id=9643
+English (Translation)	What type of teeth?	id=9653
+isiNdebele (Translation)	Unamazinyo amangakhi?	id=13052
+isiZulu (Translation)	What Type of Teeth?	id=11562
+Kakwa (Original)	Kala Lo Gbo’Da Adidinyo?	id=9625
+Kinyarwanda (Translation)	Ni Ubuhe Bwoko Bw’Amenyo?	id=17469
+Kiswahili (Translation)	Meno aina gani?	id=12621
+Lugbarati (Official) (Translation)	Sí Má Éséle Ngó Lé Rɨ 'ɨ?	id=9649
+Lunyole (Translation)	Meeno Gangeri Hi?	id=16649
+Ng’aturkana (Translation)	Ng'ikiel Lu Ikote Ai?	id=12649
+Oluwanga (Translation)	Ameno Mbia Shi?	id=12963
+Portuguese (Translation)	Que Tipo De Dentes?	id=19220
+Rutooro (Translation)	Miringoki Eyamaino?	id=14945

@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=28943&d=0&a=1
+id:	28943
+title:	Ekibonherezo
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Melany Pietersen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28943.png
+desc:	Kibonherezo ki ekigheebwa omwana oghomululu alya ebiibala byonhabyonha natalekeragho bainhe?
+
+page_text:
+
+P1	Olunaku  lulala,  maama  yaleeta  ebibala,  enhanhansi,  amenvu,  emithungwa,  emiyembe,  n'amapeera.  Yaabighanika  ku  kabada  ghaigulu.
+P2	Twabuuza  maama  tuti,  "Ife   tunaalyali  ebibala?".  Maama  yaatukoba  ati,  "twidha  kulya  olwaleero."
+P3	Muganda ghange  Kairu  wa muluvu  inho. Aja  bw'aluma  buli  ku  kibala.  Ebisinga  n'eyabiriire.
+P4	Bwe yamala  okubirya  me yaaja  okuzaanha.
+P5	Muto  ghange  oghundi  yakoba  ati,  "Dhala  bonha  Kairu  kyakoze!"  Kairu  timuntu  mulungi  ate  alinha  omuluvu.
+P6	Maama  yaanhigaa  inho  olw'ekikolwa kya Kairu.
+P7	Era  tweena  twanhiigira  Kairu.  Aye  nga  Kairu  iye  tafaayo.
+P8	Muto  ghange  yaabuza  maama  ati,  "Kairu  toja  kumukangaivula?"
+P9	"Kairu,  ali no  okutwetondera  mangu  inho."
+P10	Buti  Kairu  taghulira  bulungi.
+P11	Kairu  ayogera  mukaama  ati,  "amabundha  gali  kunnhuma  inho."
+P12	Maama  yali  akitegeire  ira  ati  endha  eja  kumuluma.  Buti  ebibala  biri  kubonereza  Kairu!
+P13	Oluvainhuma,  Kairu  yatusaba  tumusonighe. Yaakoba  ati, "tikairayo  kuba  gha  muluvu  mulundi  gundi."  Niife  twamusonigha."
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiNdebele (Translation)	Isijeziso sakaThemba	id=13803
+isiZulu (Adaptation)	Umhobholo	id=13326
+isiZulu (Translation)	Isijeziso	id=15341
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Lusoga (Translation)	Okusalirwa  omusango	id=30634
+Oluwanga (Translation)	Eshinyasio	id=19592
+Portuguese (Translation)	Castigo	id=18855
+Siswati (Translation)	Sijeziso saBobo	id=13868

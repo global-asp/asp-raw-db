@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=25339&d=0&a=1
+id:	25339
+title:	Omukulu W'eirike
+author:	Kyambogo  University and Mpala Paul
+artist:	Isaac Okwir
+lang:	Lulamoogi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25339.png
+desc:	Singuli abaabira okumukulu babwirye entegeka gyembiibbi
+
+page_text:
+
+P1	Omunywi yaali nsude munene. Yaali mutulugunyi.
+P2	Lyabbaire ikulu lya malike.
+P3	Abamwabiraku bamughaire olugoye olwenjawulo.
+P4	''Ngiza kwambala luno okumutwe gwange,''Omunywi nakoba
+P5	''Buli muntu ayabire okunkola gyange. Timwambuulya!'' Omunywi na kaabuka.
+P6	Buti, abagoberezi be bamwabiireku. Omunywi obwatuuma, ni gyituuma.
+P7	Aye enkoofiira okumutwe gwa Munywi yaali enyweire.
+P8	Yekwaite okumutwe aghaigulu. Ensude ni gyekwata okumitwe.
+P9	''Kino kiruma,'' Omunywi yakobere,'' gyaibbiirye.
+P10	''Kino kinyweire inho!'' kino kinyweire inho,'' gyaibbiirye.
+P11	Omunywi yagwire aghansi, ghaigulu ghekimante. Gyona gyona gyamwibbiire.
+P12	Omukulu gh'ensude yafiire. Abagoberezi be kyabalumire, aye babbairegho.
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldeessaa	id=18907
+English (Original)	Baboon chief	id=18906
+English (Adaptation)	Baboon chief	id=19751
+isiZulu (Translation)	Inkosi yezimfene	id=21913
+Kiswahili (Translation)	Nyani aliyekuwa chifu	id=21994
+Lusoga (Translation)	Omukulu gha amalike	id=25125
+Ng’aturkana (Translation)	Ekatukon Ang'ichomin	id=20344
+Oluwanga (Translation)	Lishene eliali omwami	id=22820

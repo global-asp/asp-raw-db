@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=23895&d=0&a=1
+id:	23895
+title:	Amazzi
+author:	MICHAEL KISEKKA
+artist:	Wiehan de Jager, Melany Pietersen, Rob Owen, Vusi Malindi, Jesse Pietersen, Silva Afonso, Renate van Rensburg and Salim Kasamba
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23895.png
+desc:	Amazzi ago ga bulamu nnyo nnyo nnyo nnyo.
+
+page_text:
+
+P1	Amazzi malungi
+P2	Tunnya amazzi.
+P3	Ebisolo binya amazzi.
+P4	Ebimela bikoseza amazzi okukula.
+P5	Gonya zizula mu mazzi.
+P6	Tuwugila mu mazzi.
+P7	Tunaba engalo zaffe nw amazzi.
+P8	Tuyoza engoye zaffe ne amazzi.
+P9	Amazzi bulamu.
+
+images:
+
+illustrations/pages/15335.png
+illustrations/pages/13653.png
+illustrations/pages/10609.png
+illustrations/pages/9648.png
+illustrations/pages/13388.png
+illustrations/pages/17150.png
+illustrations/pages/924.png
+illustrations/pages/13819.png
+illustrations/pages/9485.png
+illustrations/pages/13415.png
+
+translations:
+
+Ateso (Translation)	Akipi	id=23251
+Ateso (Translation)	Akiipi	id=24577
+English (Translation)	Water	id=18966
+Lusoga (Translation)	Amaadhi	id=21264
+Lusoga (Translation)	Amaadhi	id=21277
+Oluwanga (Original)	Amatsi Nobulamu	id=18865

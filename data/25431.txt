@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=25431&d=0&a=1
+id:	25431
+title:	Kaniaza aita na abalangaadhu
+author:	Enocha Tasingika and Kyambogo  University
+artist:	Brian Wambi, Kenneth Boyowa Okitikpi, Melany Pietersen, Wendy Morison and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25431.png
+desc:	Yokaana omusulube omulangaadhu alikufa Kaniaza lwa kwegadanga.
+
+page_text:
+
+P1	Yokaana yali omusulube asinga kuboneka bukalamu era omumanhifu ku kyalo.
+P2	Nga yegomba buli muguna ku kyalo era nga boona bamwenda.
+P3	Yaja mu supaatala baamukoba bati ali na akawuuka ka kiniazo.
+P4	Yokaana yatya olwo obulamu bwe era yeesaasiraku olwe emboneka ye enkalamu.
+P5	Obunhigirivu bwa Yokaana bwa muloghoosezanga enkomerero eyo obulamu bwe.
+P6	Ekiseera kyatuuka, obulwaire bwatwala obulungi bwa Yokaana yaacaayibwa.
+P7	Mu myaka mitono, Yokaana yaafa era yaaziikibwa abe ndhu ye.
+
+images:
+
+illustrations/pages/8903.png
+illustrations/pages/27125.png
+illustrations/pages/10613.png
+illustrations/pages/8035.png
+illustrations/pages/13837.png
+illustrations/pages/13102.png
+illustrations/pages/19114.png
+illustrations/pages/4508.png
+
+translations:
+
+English (Original)	AIDS kills even the handsome	id=24646
+Lusoga (Translation)	Mukenembya aita n'Abalungi	id=25071
+Lusoga (Translation)	silimu aita nabalungi	id=25698

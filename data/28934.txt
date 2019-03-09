@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=28934&d=0&a=1
+id:	28934
+title:	Wambwa  ni  Wakibe bayaghukana
+author:	Kyambogo  University and Robert Kirunda
+artist:	Rob Owen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28934.png
+desc:	Wambwa ni Wakibe baakoleranga isemaka.
+
+page_text:
+
+P1	Wambwa ni Wakibe baali bakozi ba isemaka. Baamuyigiranga buli lwa kyeire.
+P2	Baamukumiranga oluuya lwe obwire.
+P3	Buli igulo, isemaka yalyanga emamba enungi ensavu.  Aye Wambwa ni Wakibe yabaghanga magumba gonka.
+P4	Lwali lulala, Wakibe ni Wambwa baakoba, "tuli nookudheemera empisa embi edha isemaka.
+P5	Aye olw'ekitiisa n'okutya, Wambwa yasalagho okusigala ghaka. Wakibe yaalumuka yaabulagho.
+P6	Amangu ago, isemaka yaakizuula nga Wakibe agiire. "Wakibe wange omuyiizi omuvumu ali gha?" yaabuuza Wambwa. Wambwa yaamukobera emboozi yonayoona.
+P7	Okuva ni kw'olwo Wakibe tairanga. Ayiiga iye mwene era yaalya emamba yaaba ayiize.
+P8	Aye Wambwa ni leero ekaalya magumba.
+
+images:
+
+illustrations/pages/25374.png
+illustrations/pages/25372.png
+illustrations/pages/25375.png
+illustrations/pages/25373.png
+illustrations/pages/25374.png
+illustrations/pages/25378.png
+illustrations/pages/25377.png
+illustrations/pages/25379.png
+illustrations/pages/25380.png
+
+translations:
+
+English (Translation)	Dog and Jackal	id=21479
+Kinyarwanda (Original)	Imbwa Na Nyiramuhari	id=21478

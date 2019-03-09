@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=30564&d=0&a=1
+id:	30564
+title:	Ente  eyeiyiga  eirala
+author:	Kyambogo  University and Paul Wambi
+artist:	Marion Drew
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30564.png
+desc:	Obonangaku ente eyeiyiga eirala nga eziraku mukira?
+
+page_text:
+
+P1	Heeee! Tulina  ente  enhungi  eka.
+P2	Erina  eiyiga iralal lyonka, nga  eziraku  mukira.
+P3	Nnene  inho, ate  yaaba n'enta  embede.
+P4	Erina  amaanhi.
+P5	Omwayi  ayenda  inho   ente  ye  eyo.
+P6	Nga  ente  edhindi   dhiri  kwayibwa, eno  yo  erya yonka.
+P7	Ente  eno  eyenda  inho okulwana. Ente   edhindi  dhigireka yonka.
+P8	Bwoyaganana  n'ente  oti  neeyo, okolaki?
+
+images:
+
+illustrations/pages/9612.png
+illustrations/pages/9613.png
+illustrations/pages/9614.png
+illustrations/pages/9615.png
+illustrations/pages/9616.png
+illustrations/pages/9617.png
+illustrations/pages/9618.png
+illustrations/pages/9619.png
+illustrations/pages/9620.png
+
+translations:
+
+Afaan Oromo (Translation)	Sa'a Gaafa Tokko Qabdu	id=12959
+Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
+English (Translation)	Cow with one horn	id=9622
+Hausa (Nigeria) (Translation)	Saniya mai ƙaho Ɗaya	id=20865
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Kinyarwanda (Translation)	Inka y'ihembe rimwe	id=21049
+Kiswahili (Translation)	Ng'ombe aliye na pembe moja	id=15712
+Lámnsoʼ (Translation)	Nàʼ wo wù kér loŋ e mòʼón	id=15065
+Luganda (Translation)	Ente eyina ejjembe elimu	id=23312
+Lunyole (Translation)	Eŋombe Ey'olwiga Lulala	id=11906
+Lusoga (Translation)	Ente eya eiyiga eirala	id=24980
+Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
+Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
+Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
+Sesotho (Lesotho) (Original)	Khomo E Bokopa	id=9621
+Siswati (Translation)	Inkhomo leneluphondvo lunye	id=13076

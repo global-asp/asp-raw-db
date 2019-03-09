@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=25052&d=0&a=1
+id:	25052
+title:	Abayiizi  ab'ebinhonhi
+author:	Kyambogo  University and Richard  Seege
+artist:	Emily Berg, Magriet Brink, Marion Drew, Marleen Visser, Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25052.png
+desc:	Luno olufumo lugema ku basulube abasatu nomuguna omulala abebalama ekibiina ni baja mukuyiiga obunhonhi mu kibira.
+
+page_text:
+
+P1	Agho  olwatuuka,  ghaaliyo  abasulube basatu n'omuguna  mulala abaaviiranga  ku  kyalo ekirala ekyetebwa Namwendwa.
+P2	Baali  nga basomera  ku  isomero erya pulaimaale e Ndiwansi.
+P3	Nga  bali  kuja  ku isomero, baawuliranga ebinhonhi  nga  byemba.
+P4	Lwali  lulala, abasulube  abasatu n'omuguna  baasalawo  okwebalama  eisomero  baaja mu kuyiiga bunhonhi.
+P5	Ebinhonhi  byainhama okwemba biti, mundeta mubi; Tiri mubi x4.
+P6	Ndi  mulungi aye ghe mundeta  omubi  era ndha kuba  mubi  kunkomerero. Agho abaana  bano baagema ekinhonhi  ekyo era bairayo  nakyo  eka.
+P7	Bwe baatuuka  eka, baakisalaku omutwe era  baakirya.
+P8	Olunaku olwairirira,  boonaboona baalwala  kubanga emamba yaakyo  yali  nga  erimu  obutwa.
+
+images:
+
+illustrations/pages/9193.png
+illustrations/pages/7961.png
+illustrations/pages/9192.png
+illustrations/pages/9594.png
+illustrations/pages/6731.png
+illustrations/pages/7572.png
+illustrations/pages/8549.png
+illustrations/pages/8555.png
+illustrations/pages/8162.png
+
+translations:
+
+Dhopadhola (Translation)	Judwaar Winyo	id=20596
+English (Original)	Bird Hunters	id=9934
+English (Adaptation)	Bird Hunters	id=23936
+Hausa (Nigeria) (Translation)	Mafarauta Tsuntsu	id=21359
+Luganda (Translation)	Abayizzi B'ebinyonyi	id=17006

@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=25912&d=0&a=1
+id:	25912
+title:	Aziiza Doli
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	Natalie Propa
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25912.png
+desc:	Ono omwana anhumirwa inho okulingilira doli. Doli we ni mukagwawe omusanhufu.
+
+page_text:
+
+P1	Ono ni Aziiza.Aziiza ni doli ghange.
+P2	Nhenda inho Aziiza kuba mugagwa ghange musanhufu.
+P3	Mpuna munco nanaaba mumaiso.Aghoni nanonia azizi.
+P4	Ngamuboine musunsula enviri.
+P5	Bwendya ekyenco ndisa ni aziiza
+P6	Bwendya switi mpaku eyindi Aziiza.
+P7	Aye aziiza talya switi we.Neghunia lwaki!
+P8	Ntambula mu luya lwonalwona nga nnonda ebimuli.
+P9	Mpa Aziiza ebimuli byange.Aye tankoba ati,"ghebale."
+P10	Nnaaza namunhiriza nga maama ghange akaali ku nnaaza.
+P11	Nnambaza aziiza engoye emyufu lwakuba ndenda inho.
+P12	Bwenja okulambala,nambaza aziiza mumbali mwange.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the Doll	id=9748
+French (Translation)	Azizi La Poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Kinyarwanda (Translation)	Igipupe cyitwa Azizi	id=21065
+Lámnsoʼ (Translation)	Dòrbebí wóo Azizi	id=16448
+Luganda (Translation)	Dole Azizi	id=23330
+Lugwere (Translation)	Odole Omulyabwita	id=16112
+Lusoga (Translation)	Aziizi	id=25454
+Runyankore (Translation)	Azizi dole	id=24419

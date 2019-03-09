@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=27462&d=0&a=1
+id:	27462
+title:	Toomu omutunzi gha amenvu
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	Atilabachew Reda
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27462.png
+desc:	Omusaadha amenha obulombolombo bwe ekiketezo kye bwe yaleeta amatooke okutana mu katale.
+
+page_text:
+
+P1	Toomu atwala tule eya amenvu.
+P2	Toomu aja mu katale okutana amenvu.
+P3	Abantu mu katale bali kugula bibala.
+P4	Eziira ali kugula menvu ga Toomu. Banhumirwa kugula bwa bibala okuva ku bakazi.
+P5	"Mu kiketezo kyaife, bakazi bonka naabatana ebibala," abantu bwe bakoba. "Musaadha nabaki ono?" Abantu bwe beebuza.
+P6	Ayenga Toomu tabivaaku. Ayetereza ati,"Munguleku amenvu! Mugule amenvu gange agaghula obughoomi!"
+P7	Omukazi mulala asitula ekiwogo kya amenvu okuva ku tule. Yeekaania omenvu ago.
+P8	Omukazi ono agula amenvu.
+P9	Abantu abandi baidha ku mudaala. Bagula amenvu ga Toomu era baagaalya.
+P10	Mu kaseera katono, tule nga mye. Toomu yaabaalamu empiya dhe yafuunamu.
+P11	Aghoni Toomu yaagula saabbuni, sukali, no omugaati. Bino yaabita ku tule ye.
+P12	Toomu yeetengerera tule ku mutwe gwe yaira yo eka.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+0 (Translation)	Themba umtsengisi wabhanana	id=16440
+Arabic (Translation)	توم، بائع الموز	id=21874
+English (Original)	Tom the banana seller	id=13627
+isiXhosa (Translation)	UTom, umthengisi webhanana	id=15024
+Luganda (Translation)	Tomu omutunzi w'amenvu	id=22354
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216

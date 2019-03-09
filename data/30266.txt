@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=30266&d=0&a=1
+id:	30266
+title:	Itikërë
+author:	Kutafsiri Biblia Mara
+artist:	Marleen Visser
+lang:	Ikisimbëtë
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30266.png
+desc:	Charming illustrations accompany the names of some familiar animals.
+
+page_text:
+
+P1	Ësëësë
+P2	Embaata
+P3	Eng'ombe
+P4	Itikërë
+P5	Embebha
+P6	Inyaamu
+P7	Ring'öndi
+P8	Ëmböri
+P9	Ëmbëëshë
+P10	Ikishuushu
+
+images:
+
+illustrations/pages/26642.png
+illustrations/pages/26643.png
+illustrations/pages/26644.png
+illustrations/pages/26645.png
+illustrations/pages/26642.png
+illustrations/pages/26647.png
+illustrations/pages/26648.png
+illustrations/pages/26649.png
+illustrations/pages/26687.png
+illustrations/pages/26652.png
+illustrations/pages/26651.png
+illustrations/pages/26647.png
+
+translations:
+
+CiNyanja (Translation)	Bulu	id=22723
+Cinyungwe (Translation)	Bulu	id=22725
+Cisena (Translation)	Buru	id=22726
+Echiziinza (Translation)	Ensíkili	id=30271
+Echuwabo (Translation)	Buru	id=22727
+Elomwe (Translation)	Puuru	id=22728
+Emakhuwa (Translation)	Puuru	id=22729
+English (Original)	Donkey	id=22679
+Kiswahili (Translation)	Punda	id=29688
+Lusoga (Translation)	Mbbalasi	id=25786
+Lusoga (Translation)	Embalaasi	id=30576
+Olunyaneka (Translation)	Ocimbulu	id=22730
+Portuguese (Translation)	Burro	id=22724

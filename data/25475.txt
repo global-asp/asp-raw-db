@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=25475&d=0&a=1
+id:	25475
+title:	Taliika ni mukagwa we
+author:	Cornelius Mugulusi
+artist:	Isaac Okwir
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25475.png
+desc:	Omwaayi omuto aghonezebwa okugwa mu bulwa ni mukagwa we. Ikaanhya kino bwe kyaali.
+
+page_text:
+
+P1	Taliika n'abomumaka ge baaviiranga ghala okuva mu kibuga.
+P2	Taliika yali ne embwa ye nga ni Bukya.
+Taliika ni Bukya nga ba mukago inho.
+P3	Lwali lwa mukaga,Taliika ni Baidhu batwaala ebisolo okulya ku nsiko.
+P4	Baidu nga ayenda kuzanha ayenga Taliika ayenda kusoma.
+P5	Kunkomerero, Baidhu ni Taliika baira mu kwezaanira.
+P6	Nga bali mukuzaanha,entaama dhaibwe dhabulagho.
+Bombi bainhama okudhinonia.
+P7	Omusege gwali gwise entaama dha Taliika.
+Taliika yaatya ekubonerezebwa ise.
+P8	Taliika n'okusalagho okulambaala ku muti.
+Baidhu yena yaalambaala kumpimpi.
+P9	Nga buzibye, Empiti dhayasiikanira ghaigulu.
+Taliika yaatya inho.
+P10	Taliika yaghanuka ku muti yagwa ekigwo.
+Yaghulirira kerere eno kumpi inho.
+P11	Eigulu bwe lyamyansa, Taliika yaalengera Baidhu nga ali kumughonhya empiti.
+P12	Baidhu yoghonia Taliika.
+Taliika ni Baidhu basigala mu muti okutuka munco.
+
+images:
+
+illustrations/pages/25050.png
+illustrations/pages/25047.png
+illustrations/pages/25048.png
+illustrations/pages/25049.png
+illustrations/pages/25050.png
+illustrations/pages/25051.png
+illustrations/pages/25052.png
+illustrations/pages/25053.png
+illustrations/pages/25054.png
+illustrations/pages/25055.png
+illustrations/pages/25056.png
+illustrations/pages/25057.png
+illustrations/pages/25058.png
+
+translations:
+
+Amharic (Translation)	እረኛውና የልብ ጓደኛው	id=20444
+English (Original)	Shepherd and his best friend	id=20414
+English (Adaptation)	Tarik and his friend	id=21397
+Kidawida (Translation)	Mwamburi na Mughenyi  wake	id=22023
+Kiswahili (Translation)	Tarik na rafiki yake	id=22003

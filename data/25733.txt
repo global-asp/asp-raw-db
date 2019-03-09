@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=25733&d=0&a=1
+id:	25733
+title:	Ensiri enhiiza
+author:	Edison Kasajja
+artist:	Magriet Brink
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25733.png
+desc:	Twenha twenha twidhi kereere ensiri yekuba nga bwe lugaana obwiire. Kawuka katono kati aye kinhununsi kiba!
+
+page_text:
+
+P1	koona! koona!
+P2	"Anni aligho?" nbuuza mu ndoolo.
+P3	"Ninze,"eiroboozi eridhwira likuba.
+P4	"Ani 'nze'?"Mbuuza.
+P5	"Nkokobye,ni,o-n-l m-e,"eiroboozi lyena elyo likoba.
+P6	"Tidhi muntu yenayena ayetebwa,'o-n-l-y m-e',"Ndhiramu.Nhekenhenia okwetoloza obuliri bwange akatimba kensiri.
+P7	"Kale,eriinha lyange nize Amos."Eroboozi lidhwiira inho     okusiingako mukusooka.Erikumpinho ni kutu yange.
+P8	"Amos ani?"Mbuuza nga bwenigalinga ghansi gha katimba kange akensiri.
+P9	"Nsiri,"eiroboozi mukukomenkereza likoba.Nmulira okulumibwa ku kutu yange.
+P10	"Ooo!" Ntuuma ghaigulu era ntandiika okunhonia."Oidha kusasulira kinho!"Ndheekana.
+P11	Mubusungughavu,Nva mubuliri era nazikiza ekitangaala.
+P12	Ndigulagho olutabaalo ku nsiri eniiza!
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+English (Original)	Annoying mosquito	id=14893
+Kiswahili (Translation)	Mbu msumbufu	id=21635
+Luganda (Translation)	Wansili Anyiiza	id=22989
+Lusoga (Translation)	Ensiri enhiiza	id=25729
+Setswana (Translation)	Monang O O Tshwenyang	id=14964

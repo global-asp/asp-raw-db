@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=26036&d=0&a=1
+id:	26036
+title:	Akatabo kange akebifanaanie
+author:	Charles Eramaga and Kyambogo  University
+artist:	Alice Toich, Wiehan de Jager, N/A and Joseph Ejoyi
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26036.png
+desc:	Akatabo kano kalimu ebigambo ebyangu ne befanaanie.
+
+page_text:
+
+P1	Ekalaamu ya bwino.
+P2	Ekikompe.
+P3	Emeeza.
+P4	Eikonhero.
+P5	Ekibya
+P6	Empasa.
+P7	Ekitabo.
+P8	Akambe.
+P9	Omupiira.
+
+images:
+
+illustrations/pages/7915.png
+illustrations/pages/9759.png
+illustrations/pages/6083.png
+illustrations/pages/5777.png
+illustrations/pages/6118.png
+illustrations/pages/6122.png
+illustrations/pages/9760.png
+illustrations/pages/6089.png
+illustrations/pages/6082.png
+illustrations/pages/9162.png
+
+translations:
+
+English (Original)	My Picture Reading Book	id=9761

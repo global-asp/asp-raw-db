@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=22681&d=0&a=1
+id:	22681
+title:	Where Is...?
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22681.png
+desc:	Help two friends find the hidden animals.
+
+page_text:
+
+P1	Where is the ant?
+P2	Where is the snail?
+P3	Where is the mouse?
+P4	Where is the bird?
+P5	Where is the lizard?
+P6	Where is the cat?
+P7	Where is the chicken?
+P8	Where is the dog?
+P9	Where is the pig?
+P10	Where is the goat?
+
+images:
+
+illustrations/pages/26677.png
+illustrations/pages/26675.png
+illustrations/pages/26676.png
+illustrations/pages/26677.png
+illustrations/pages/26678.png
+illustrations/pages/26679.png
+illustrations/pages/26680.png
+illustrations/pages/26681.png
+illustrations/pages/26682.png
+illustrations/pages/26683.png
+illustrations/pages/26684.png
+illustrations/pages/26686.png
+
+translations:
+
+CiNyanja (Translation)	Alikuti?	id=22853
+Cinyungwe (Translation)	Bziri Kuponi?	id=22854
+Cisena (Translation)	Iri Kupi?	id=22855
+Echiziinza (Translation)	Chiiselekile Nkáhi?	id=31281
+Echuwabo (Translation)	Oli Uvi?	id=22856
+Elomwe (Translation)	Ori Woowi?	id=22857
+Emakhuwa (Translation)	Eri Vaavi?	id=22748
+Ikisimbëtë (Translation)	Ököbhöörya	id=30269
+Kiswahili (Translation)	Kuuliza	id=30268
+Lusoga (Translation)	kiligha...?	id=25866
+Olunyaneka (Translation)	Ikahipi?	id=22858
+Portuguese (Translation)	Onde Está?	id=22852
+Runyankore (Translation)	Elinkahi?	id=24329

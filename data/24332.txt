@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=24332&d=0&a=1
+id:	24332
+title:	Omuwala eyali abuuka
+author:	Tendo Ronah
+artist:	Ingrid Schechter and Amir Bachir António Necas
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24332.png
+desc:	Luno olugero lwabawala nabalenzi abamanyi ki kyebali.
+
+page_text:
+
+P1	Nusha yali muwala muto eyali talina kyatasobola kukola.
+P2	Naye bweyaweza emyaaka kumineebiri,yamanta nti asobola okubuuka mubanga
+P3	Yabuuka nga nagenda kusomero lweyakereewanga.
+P4	Yabuukanga nagenda newajjajjaawe ku nkomekerezo ya sabiiti
+P5	Yabuukanga nagenda mukatale kubanga kyalinga kwanguwa.
+P6	Yabuukanga amayanja nagenga mu kanisa
+P7	Yabuukanga amabali gemigga nalaba abantu nga benyweegera
+P8	Yabuukanga nagenda ku mitti gyebinazzi
+P9	Abantu bamusasulanga okukanika amabaati gaabwe.
+P10	Mikwanogye gyona gyamwebuuzangako bweyalinga akikola
+P11	olina okulowooza enyo, era olina okuba nga oyangalanyo okukikola
+P12	Kulunaku olumu yasanga omulenzi nga naye asobola okubuuka
+P13	Nebatandika okutambula bombi
+P14	Balabika bewewasana nebazaala nabaana munkomekerezo.
+
+images:
+
+illustrations/pages/25141.png
+illustrations/pages/25140.png
+illustrations/pages/25141.png
+illustrations/pages/25142.png
+illustrations/pages/25144.png
+illustrations/pages/25146.png
+illustrations/pages/25147.png
+illustrations/pages/25148.png
+illustrations/pages/25171.png
+illustrations/pages/25172.png
+illustrations/pages/25178.png
+illustrations/pages/25174.png
+illustrations/pages/25176.png
+illustrations/pages/25179.png
+illustrations/pages/25149.png
+
+translations:
+
+English (Original)	(Colour-in) The Girl Who Could Fly	id=20502
+Luganda (Translation)	Omuwala eyasobolanga okubuuka wagulu - B/W	id=22095
+Lusoga (Translation)	Omughala eyali aghanga okuguluka	id=24986

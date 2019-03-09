@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=23000&d=0&a=1
+id:	23000
+title:	Jadit ma Jaswa
+author:	Catherine  Amia
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Alur
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23000.png
+desc:	Jadit moku ma jaswa obedo gwoku ngo cham maber
+
+page_text:
+
+P1	Ikare moku, obedo jadit moku manyinge obedo Joel Ipacu mi Aya.
+P2	Ebed eparu ngo pilembe mi kanu cham mi anyim, re ebed enyotha anyotha.
+P3	Piny moko upe zo mudong iodu cham.
+P4	Anywagi mi podhu zo uthwo.
+P5	Yamu matek uleku wii odu cham chen.
+P6	Awiya uchaku ka laro nyithi cham mudong i supiriya.
+P7	Mer uvutu tatro nang eywagu cham mukende mi miko ni awiya.
+P8	Wego obedo itheot nang eparu pi anyim.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+ChiShona (Translation)	Murume asina kurongeka	id=22246
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Translation)	Umugabo Utita Kukintu	id=23429
+Kinyarwanda (Uganda) (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lugbarati (Translation)	Agupi a'dikoruri	id=23433
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Lusoga (Translation)	Omusaadha atafaayo	id=24851
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

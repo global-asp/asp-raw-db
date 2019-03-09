@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=26074&d=0&a=1
+id:	26074
+title:	Engaito empyaka
+author:	Charles Eramaga and Kyambogo  University
+artist:	Cathy Feek
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/26074.png
+desc:	Dhikusooka aja mu kibuga ni mwanina era mwanina ya mugulira engaito empyaka.
+
+page_text:
+
+P1	Dhikusooka aja mu kibuga ni mwanina.
+P2	Mwanina alikulinga kungoye  empyaka mu idhuuka nga Dhikusooka yewumbye.
+P3	Dhikusooka abona ekintu kyasinga kwenda.
+P4	Engaito edhiri ku tundhibwa.
+P5	Dhoona dhoona yadhegezaamu.
+P6	Mwanina ya mugulira engaito da mupiira.
+P7	Lwaki baali inho mu bwangu okwirayo eka?
+P8	Ekyo omukisa yatuuka mu kisaghe mu kiseera! Ayambala engaito empyaka.
+
+images:
+
+illustrations/pages/1638.png
+illustrations/pages/1639.png
+illustrations/pages/1640.png
+illustrations/pages/1641.png
+illustrations/pages/1642.png
+illustrations/pages/1643.png
+illustrations/pages/1644.png
+illustrations/pages/1645.png
+illustrations/pages/1638.png
+
+translations:
+
+Ateso (Translation)	Amuka Nuka Itetiak	id=2960
+Ekegusii (Translation)	Ebikoroto Ebiyia	id=2961
+English (Original)	New Shoes	id=1793
+Kikamba (Translation)	Siatu Niu	id=2962
+Kinyarwanda (Translation)	Inkweto Nshyashya	id=23759
+Leblango (Translation)	Warö a Nyen	id=11678
+Luganda (Translation)	Engatto Empya	id=2963
+Lugbarati (Translation)	Jijima O`di Ri	id=2966
+Lumasaaba (Translation)	Tsingaato Tsiimbya	id=2965
+Lunyole (Translation)	Engaito Epyaha	id=2981
+Maa (Translation)	Inamúka Ng'éjúkó	id=2959
+Ng’aturkana (Translation)	Ng’Amuk Nakiteat	id=2967
+Olukhayo (Translation)	Ebilaro Biyaha	id=2968
+Oluwanga (Translation)	Efilaro Efiyiakha	id=2969
+Sabinyi (Translation)	Kweyock Cee Leelac	id=2970
+Setswana (Translation)	Ditlhako Tse Dintšhwa	id=2971

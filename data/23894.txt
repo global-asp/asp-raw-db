@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=23894&d=0&a=1
+id:	23894
+title:	Omwana wa Kumbana
+author:	MICHAEL KISEKKA
+artist:	Razaque Lázaro Quive
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23894.png
+desc:	Olugero lwa aba vubuka naye nga si lwa baana bato.
+
+page_text:
+
+P1	Waliyo omuvubka omuto nga bamuyita Kumbana.
+P2	We  yali nga ayinna emyaka abirimwetano, yagwa mu mukwano no muwala gwe  bayita nga Zangane.
+P3	Bali bonna okumala emyaka essatu naye nga omussaja teyayina ssente zimala okuwasa omukyala.
+P4	Olunaku lummu omukyala yesanga nnya alina oluboto lwakuba teyakosa kapiira.
+P5	Awo akawala akato nekazalibwa ne bakatuma Kheri.
+P6	Naye Kumbana yali akyasoma nga ate Zangane yalina omulimu  ewala mu kibuga kati ekyo nga kibaletela okubela nga beyawula.
+P7	Nga waise akabanga,Zangane yafuna omusajja omulala eyajja nga okusula naye ne kawala  ke omuto.
+P8	Kumbana yamenyeka omutima, ela nakaba nnyo lwakuba yali ayawukanye ne muwala we.
+P9	Obudde bwetolola ela ne Kumbana nafuna omukazi omulala. Nebabela bona naye tebayina yo baana boona.
+P10	Kheri yali tayagala tata we omupya. Ela teyali musanyufu lwakuba yali amukuba.
+P11	Weyali ayina emyaka kuminebiri, mama we yasala wo amuzeyo abele ne tata we omutuffu.
+P12	Awo Kumbana ne Kheri bali basanyufu nela.
+
+images:
+
+illustrations/pages/9722.png
+illustrations/pages/17591.png
+illustrations/pages/17584.png
+illustrations/pages/17587.png
+illustrations/pages/17583.png
+illustrations/pages/17588.png
+illustrations/pages/17593.png
+illustrations/pages/17589.png
+illustrations/pages/17586.png
+illustrations/pages/17585.png
+illustrations/pages/17590.png
+illustrations/pages/17594.png
+illustrations/pages/17592.png
+
+translations:
+
+Ateso (Translation)	(Ekala-toma) Ikoku ka Kumbana	id=24289
+English (Original)	Kumbana's child	id=9766
+English (Adaptation)	(Colour-in) Kumbana's child	id=17595
+isiZulu (Translation)	Ingane kaKumbana	id=15357
+Luganda (Translation)	Omwana wa Kumbana	id=23080
+Lumasaaba (Translation)	Umwana wa Kumbana	id=24064
+Lusoga (Translation)	Omwana wa Mukose	id=24959
+Portuguese (Translation)	A Filha De Kumbana	id=10554
+Rukiga (Translation)	Omwana wa Kumbana	id=24109
+Runyankore (Translation)	Omwana wa Kumbana	id=23075
+Runyankore (Translation)	(Siga elanji) Omwana wa Kumbana	id=23227
+Runyankore (Translation)	(siga erangi) omwana wa Kumbana	id=23736
+Runyankore (Translation)	(Siga elanji) Omwana wa Kumbana	id=24526

@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=26229&d=0&a=1
+id:	26229
+title:	Ekifaananie  eky'ekitabo  kyange
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Karen Lilje, Catherine Groenewald, Alice Toich, Katrien Coetzer, Wiehan de Jager and Marleen Visser
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26229.png
+desc:	Ekitaba ekyebibono ebyangu nebifaananie.
+
+page_text:
+
+P1	Omughala.
+P2	Ekinhonhi.
+P3	Empologoma.
+P4	Epuusi.
+
+images:
+
+illustrations/pages/8072.png
+illustrations/pages/9567.png
+illustrations/pages/9223.png
+illustrations/pages/9515.png
+illustrations/pages/8866.png
+
+translations:
+
+Afaan Oromo (Translation)	Kitaaba Suuraa	id=17466
+Anywak (Translation)	Buuk Mar Ngiiye	id=18155
+Arabic (Translation)	قصتي المصورة	id=18189
+English (Original)	My Picture Book	id=9737
+English (Adaptation)	My Picture Book	id=10117
+Hausa (Nigeria) (Translation)	Mu Koyi Hausa	id=21007
+Hyam (Northern Nigeria) (Translation)	Kyaam Hyamma̱ (Learn Hyam Language)	id=20506
+Lugbarati (Translation)	Buku Mavile Eda Ni Ri	id=9757
+Lusoga (Translation)	Bbaabba Nomwanawe	id=30979

@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=30126&d=0&a=1
+id:	30126
+title:	Sami embwa yange eyo omuzaanho
+author:	Juliet Namugaya and Kyambogo  University
+artist:	Wiehan de Jager, Ursula Nafula and Heslia Schon
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30126.png
+desc:	Sami ayenda inho okuzaana ate mutumbbaavu. Mbwa yange era ngyenda inho.
+
+page_text:
+
+P1	Eriina lye embwa yange ni Sami.
+P2	Sami ayenda einho omuzaanho.
+P3	Azaana ne enkoko era na abaana.
+P4	Ebiseera ebisinga Sami ayenda okuzaana ni nze.
+P5	Aye Sami aba mukambwe inho ebiseera ebindi.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/14036.png
+illustrations/pages/14035.png
+illustrations/pages/2384.png
+illustrations/pages/14036.png
+illustrations/pages/1209.png
+
+translations:
+
+English (Original)	Sami My Playful dog	id=24593

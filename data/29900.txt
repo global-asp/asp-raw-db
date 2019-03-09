@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=29900&d=0&a=1
+id:	29900
+title:	Empube
+author:	Kyambogo  University and joseph mukwaya
+artist:	Stephanie Simpson
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29900.png
+desc:	Omusaadha akolera bwito munhumbaye. Empube dhendha bwito ono. Dhiteekateeka okwumwiba. Kinaasoboka?
+
+page_text:
+
+P1	Ghaaliyo omusaadha eyantundanga bwito gweyakoleranga mu nhumba.
+P2	Mu nhumba mwaliu empube. Empube enhingi!
+P3	Empube dhaalingiriranga bwito dhaakoba, "Bito oyo tumufunie tutya?"
+P4	Empube dhaagezaaku okusonseka eminhwa mu nthupa aye obutuli obwenthupa bwali butono.
+P5	Dhaagezaaku okugunaghuna ku nthupa aye bwito ga tayuyika.
+P6	Empube dhaakola olwekobaano okwogeraku kizibu kino. Oluvainhuma empube ndhala yaakoba, "Tute emikira gyaife mu nthupa tumale tugikombe."
+P7	Era ekyo kyedhaakola. Dhaata emikira mu nthupa, era gyakombagana. Empube dhaakikola okutuusa bwedhaamalamu bwito.
+P8	Mwene nhumba yayagaana nga bwitowe yena yeena aweirewo!
+P9	Eyo neeyali enkomerero.
+
+images:
+
+illustrations/pages/10465.png
+illustrations/pages/10464.png
+illustrations/pages/10465.png
+illustrations/pages/10466.png
+illustrations/pages/10467.png
+illustrations/pages/10468.png
+illustrations/pages/10469.png
+illustrations/pages/10470.png
+illustrations/pages/10471.png
+illustrations/pages/10472.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=28182
+Ciyawo (Translation)	Makoswe!	id=19002
+English (Translation)	Rats!	id=10474
+Portuguese (Original)	Ratos!	id=10461
+Portuguese (Translation)	“Ratos!”	id=19003

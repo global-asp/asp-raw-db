@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=23703&d=0&a=1
+id:	23703
+title:	Wakame omu mbaga
+author:	Stella  Kobulegyeya and Uganda Christian University
+artist:	Hélder de Paz Alexandre
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23703.png
+desc:	Ogu omugane ogukututebeza ekikubaho wazaomumbaga okasinda
+
+page_text:
+
+P1	Ezobarimwe enyamishwa zikachwamu kukora embaga bitu eketari yaburyomwe. emba
+P2	wakame akana' yetebekanisiza omukoro. bitu yashanga ngu embaga eketari yaburyomwe. ekerye' nyamishwa ezine amahembe
+P3	Hariho wakame ahiyagire yatunga amahembe. nabwanyima yaga teka ahamutwe haza yaza omumbaga
+P4	wakame akarya, yanywa, zazina omumbaga
+P5	Ekyokikamurusya  nabyanyima yagwa ahansi omumushana. Bitu wakame kuyabire abyamire amahembe gariga ahamutwe.
+P6	Nabwanyima enyamishwa za shanga ngu  aka'tari ekika kyenyamwishwa ekibabirenibenda. bakanyurira amatu ga wakame mpaka obugabire mahango
+P7	nabwanyima biruka. niye'nshonga ahabwenki obume bwine amatu mahango!
+
+images:
+
+illustrations/pages/10187.png
+illustrations/pages/17429.png
+illustrations/pages/17427.png
+illustrations/pages/17428.png
+illustrations/pages/17430.png
+illustrations/pages/17431.png
+illustrations/pages/17432.png
+illustrations/pages/17426.png
+
+translations:
+
+Acholi (Translation)	ayom chero yi myeel	id=24106
+Ateso (Translation)	Elosi ipoo opucit	id=24079
+English (Original)	Rabbit goes to a party	id=10110
+English (Adaptation)	(Colour-in) Rabbit goes to a party	id=17433
+isiXhosa (Translation)	Umvundla uya ethekweni	id=13089
+Luganda (Translation)	Akamyuu kagenda ku kabaaga	id=23415
+Lusamia (Translation)	Ahaduyu hacha humuholo	id=23252
+Lusoga (Translation)	Wakamyu aja ku mbaga	id=24901
+Portuguese (Translation)	O Coelho Vai a Festa	id=10243
+Rukiga (Translation)	wakame yaza ahambaga	id=23648
+Sesotho (South Africa) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090
+Xitswa (Translation)	N'wa Vundlani Aya a Mubuzweni	id=10244

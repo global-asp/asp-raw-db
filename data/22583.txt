@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=22583&d=0&a=1
+id:	22583
+title:	Ndiyayazi imibala
+author:	Cynthia Nomhle Ngxukuma
+artist:	Jesse Breytenbach
+lang:	isiXhosa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22583.png
+desc:	Ndiyayazi imibala. Ndiyayazi imibala. Ndiyayazi imibala.
+
+page_text:
+
+P1	Bomvu
+P2	Tyheli / Mthubi
+P3	Luhlaza
+P4	Orenji
+P5	Luhlaza
+P6	Mfusa
+
+images:
+
+illustrations/pages/9853.png
+illustrations/pages/9839.png
+illustrations/pages/9843.png
+illustrations/pages/9849.png
+illustrations/pages/9841.png
+illustrations/pages/9846.png
+illustrations/pages/9854.png
+
+translations:
+
+English (Adaptation)	I know colours	id=10473
+Lusoga (Translation)	Ndidi langi	id=27152
+Lusoga (Translation)	Ndidhi amaina ga langi	id=27343

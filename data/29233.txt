@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=29233&d=0&a=1
+id:	29233
+title:	Akawuuka ndawulira
+author:	Kyambogo  University and Mpala Paul
+artist:	Cathy Feek
+lang:	Lulamoogi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/29233.png
+desc:	Luno olufumo lukwatagana ku kawuuka ndawulira ekyekakola era engeri gyekacuukamu omungeri egindi.
+
+page_text:
+
+P1	Ebiwuuka bya biikire amaji okumakoola.
+P2	Twabiriisyanga amakoola gentuntunu.
+P3	Byakulire ni bigeiza ni bisavughala.
+P4	Ebisiisa byezimbireku ebinyumba.
+P5	Omunda omubinyumba, ebiwuuka byamerere amaghagha amatomato.
+P6	Abantu abandi bataka oluse lwebiwuuka ebyo olw'omugaso.
+P7	Omu China bakuuma enkumi gy'ebika by'ebiwuuka.
+P8	Bakola engoye gya siriki nga bakozesya ebinyumba byabyo.
+
+images:
+
+illustrations/pages/1666.png
+illustrations/pages/1667.png
+illustrations/pages/1668.png
+illustrations/pages/1666.png
+illustrations/pages/1669.png
+illustrations/pages/1670.png
+illustrations/pages/1671.png
+illustrations/pages/1672.png
+illustrations/pages/1673.png
+
+translations:
+
+English (Original)	Silkworm	id=1795
+Lugbarati (Translation)	O’Bu Aku’Dukuru Ri	id=12642
+Lusoga (Translation)	Kaseenhawuuzi	id=25646

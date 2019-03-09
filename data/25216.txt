@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=25216&d=0&a=1
+id:	25216
+title:	Obulamu obw'omuguna
+author:	David  Bamukangwiire
+artist:	Melany Pietersen, Wiehan de Jager, Vusi Malindi and Kathy Arbuckle
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25216.png
+desc:	Omuguna ayamba maama we emirimo jo munhumba
+
+page_text:
+
+P1	Abaguna bakola emirimo ghaka nga abaisuka batyaime butyame.
+P2	Baja amaadhi, bagherera enku nga abaisuka balikuzaanha mupiira
+P3	Bafumba emere emala abantu boonaboona ghaka, banaaza ebintu n'okwiwula.
+P4	Beeya oluya, booza engoye era bafuba inho okubona nga ghaka ghayondo.
+P5	Baja ni bamaama baibwe mu nnimiro okubayambaku okulima.
+P6	Ebiseera ebindi abaguna babalobera okuja ku isomero.
+
+images:
+
+illustrations/pages/7518.png
+illustrations/pages/1307.png
+illustrations/pages/1197.png
+illustrations/pages/10766.png
+illustrations/pages/9485.png
+illustrations/pages/19455.png
+illustrations/pages/8025.png
+
+translations:
+
+English (Original)	The life of a girl	id=24387
+Rukiga (Translation)	Oburamu bwo'mwischi	id=24399

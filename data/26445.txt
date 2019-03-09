@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=26445&d=0&a=1
+id:	26445
+title:	Akabwa akato
+author:	Kyambogo  University and Richard  Seege
+artist:	Heslia Schon
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26445.png
+desc:	Olufumo lwa wa kabwa nakapuusi nga buzaanha nomupiira.
+
+page_text:
+
+P1	Lwali  lulala nga  akabwa kazaana  n'omupiira.
+P2	Kaabona akapuusi. Kaakoba, "Muna, kapuusi nsobola  okuzaanha ku niiwe?" Akapuusi kairamu, "Ndha kuzaanha ku niiwe. Nsobola okuzaanha ku  n'akapiira  ko?"
+P3	"Iyi osobola," Akabwa kairamu. "Omupiira  gwa kasaayi. Ndha  kukasamba kaidhe  yooli weena  okasambe kaidhe  yendi."
+P4	Agho  ab'omukwano  ababiri  baatandiika  okuzaanha. Akabwa kaakoba, "Nnhumirwa inho  okuzaanha niiwe. Kyoka  oli gha  mukwano  mulungi.
+P5	Omupiira  ogwa  kasaayi  gwaja gwakoona ekimante. Akapuusi kaatandiika  okulira. "Tuzira  kapiira  ka  kuzaanhisa."
+P6	"Nnendha inho  okuzaanhisa omupiira ogwa kasaayi," Akapuusi kaakoba.  Akapuusi kaatandiika  olulira obutalekera.
+P7	"Ndha  kufuna akapiira," Akabwa  kaakoba era  kaanhiina  ekimante.
+P8	Amangu  ago  yaira n'akapiira. Akapuusi  kaali  kasanhufu  inho  kuba  akapiira  kaali  nga  kabonaike. Agho ab'omukwano baazaanha! baazaanha!.
+P9	Akabwa  kaakoba, "Ndha  tuje  mu ndhu  yange  tuboneku akatabo ak'ebifaananie." Mukatabo  ak'ebifaananie, baabona  nga  akapuusi kali  kuzaanha  n'akabwa  omupiira!
+
+images:
+
+illustrations/pages/2376.png
+illustrations/pages/2377.png
+illustrations/pages/2378.png
+illustrations/pages/2379.png
+illustrations/pages/2380.png
+illustrations/pages/2381.png
+illustrations/pages/2382.png
+illustrations/pages/2383.png
+illustrations/pages/2384.png
+illustrations/pages/2385.png
+
+translations:
+
+English (Original)	Little Dog	id=2387
+isiZulu (Translation)	Inja encane	id=7305

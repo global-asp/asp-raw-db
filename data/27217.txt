@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=27217&d=0&a=1
+id:	27217
+title:	Olunaaku lwaife ku ikumiro lye ebisolo
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	Melany Pietersen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27217.png
+desc:	Amaka ganogano goonagoona gaba no olunaku olwendawulo ku ikumiro lye bisoro.
+
+page_text:
+
+P1	Leero tuli kuja ku ikumiro lya bisolo.
+P2	Tuli kujiira mu motoka ya balambuuzi.
+P3	Tuli kulengera ebisolo mu ikumiro lyabyo.
+P4	Bona ekinene! Ekiyovu!
+Bona ekikambwe! Ekighologoma!
+P5	Bona ekinhoni kya pinki.
+P6	Bona! bbalafu.
+Bona! swiiti.
+P7	Bona! ekifangata kya bbaluni.
+P8	Maama onaatugulira bbaluuni?.
+P9	Twetegekera okwira yo ghaka.
+P10	Tuboine ebisolo ne ebyamasanhu bingi olwaleero.
+P11	Baana imwe tusagambe. Tuli basanhufu waire bakooghu!
+P12	Singa buli lunaku lubanga luno! Twandikuze mangungu!
+
+images:
+
+illustrations/pages/13745.png
+illustrations/pages/13743.png
+illustrations/pages/13744.png
+illustrations/pages/13745.png
+illustrations/pages/13746.png
+illustrations/pages/13749.png
+illustrations/pages/13747.png
+illustrations/pages/13748.png
+illustrations/pages/13752.png
+illustrations/pages/13753.png
+illustrations/pages/13754.png
+illustrations/pages/13750.png
+illustrations/pages/13751.png
+
+translations:
+
+English (Adaptation)	Our day at the zoo	id=14186
+IsiNdebele (Zimbabwe) (Translation)	Ilanga Lethu Ezoo	id=21675

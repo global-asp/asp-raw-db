@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=28127&d=0&a=1
+id:	28127
+title:	Ebimuli
+author:	Abdul Maged Mbago and Kyambogo  University
+artist:	Jonathan Field, Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28127.png
+desc:	Emboozi egema ku bimuli mu kitundu kyaife.
+
+page_text:
+
+P1	Lwali lulala,yabaayo omughala ku kyalo Busolwe nga bamweta Namagunga.
+P2	Yayenda inho ebimuli. Lwali lulala yaaja okunhona amaadhi ku mwiga Nakwiga.
+P3	Mulugendho lwe,Yayagaana ebimuli yabyenda inho,yewunia! yakoba.
+P4	Bwe yaira yakoba maama we ateketeke ebimuli mu maka gaibwe kuba.
+P5	Mu kanhisa twaganaayo ebimuli.
+P6	Ku biteteeyi byaife kwona kubaaku ebimuli.
+P7	Ku ngaito dhaife kwona ku baaku ebimuli
+P8	Twena twena twenda ebimuli.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/9500.png
+illustrations/pages/6577.png
+illustrations/pages/9003.png
+illustrations/pages/9000.png
+illustrations/pages/9457.png
+illustrations/pages/6723.png
+illustrations/pages/6700.png
+illustrations/pages/7987.png
+
+translations:
+
+Dholuo (Translation)	Mafua	id=15197
+English (Original)	Flowers	id=9702
+Ma'di (Translation)	Ofu	id=16755

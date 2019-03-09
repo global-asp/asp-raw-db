@@ -1,0 +1,66 @@
+url:	https://africanstorybook.org/reader.php?id=23070&d=0&a=1
+id:	23070
+title:	Muwaala wange omulungi
+author:	Sabra Mulungi
+artist:	Brian Wambi
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23070.png
+desc:	Akasuuwa ka Natabo kasinga okwagala kamenyese
+
+page_text:
+
+P1	Ono ye Natabo. Ela alina aboluganda abaleenzi mukaga.
+P2	Bazaade be ne bamuwa aka suwa aka tono. Ela aka gaala.
+P3	Olunaku lumu bagandabe aba lenzi ne bamenya akasuwa.
+P4	Natabo talaba ka suwa ke. Natandika okukaaba no kukaaba.
+P5	Natabo na dukka wo. Na linya omutti omu wanvu.
+P6	Bazaddebe ne bamusanga. "Bambi kawansi," ne babuzza.
+P7	Ba gandabe abalenzi ne bayimba, "bambi ka wansi"
+P8	Natabo na yeya oluyimba lwabwe.
+P9	Kati mukwano gwa Natabo naja. "Bambi ka wansi," na yimba.
+P10	Mukwano gwa Natabo nayimba paka bwaaka okuuva mu mutti.
+P11	Abe mikwano ne batambuula okuuda ewakka boona.
+P12	Bulyomu na jagguza Natabo okudda ewaaka. Natabo nafuuna aka suwa akapya.
+
+images:
+
+illustrations/pages/18758.png
+illustrations/pages/18757.png
+illustrations/pages/18758.png
+illustrations/pages/18759.png
+illustrations/pages/18760.png
+illustrations/pages/18761.png
+illustrations/pages/18762.png
+illustrations/pages/18763.png
+illustrations/pages/18764.png
+illustrations/pages/18765.png
+illustrations/pages/18766.png
+illustrations/pages/18767.png
+illustrations/pages/18768.png
+
+translations:
+
+Afaan Oromo (Translation)	Jaallatamtu Intalaa	id=20419
+Amharic (Translation)	ተወዳጇ ልጅ	id=20446
+Dhopadhola (Translation)	Nyacok Gi Ayiga	id=20631
+English (Original)	Beloved daughter	id=18769
+English (Adaptation)	Beloved daughter	id=19752
+Hausa (Nigeria) (Translation)	'Yar da a Ke Ƙauna	id=20799
+isiXhosa (Translation)	Intombi yam eyintanda	id=22799
+isiZulu (Translation)	Wohe, ngebhodwe lami!	id=20717
+Kinyarwanda (Translation)	Umukobwa wakundwaga cyane	id=22147
+Kiswahili (Translation)	Binti mpendwa	id=20431
+Kumam (Translation)	Atin Nyako Ame Komaro 	id=20606
+Lámnsoʼ (Translation)	Wán wo á koŋen e ŋaŋ	id=22294
+Luganda (Translation)	Omwana Omwagalwa	id=18770
+Luganda (Translation)	Omuwala Ayagalwa Ennyo.	id=19598
+Lumasaaba (Translation)	Umukaana Uganiwa Nabi	id=20928
+Lusoga (Translation)	Omughala Omwende	id=21340
+Lusoga (Translation)	omughaala omweendhe	id=27837
+Lusoga (Translation)	Omughala  ayendebwa einho	id=30658
+Ng’aturkana (Translation)	Ikoku Na Aminae Lokojokon	id=20390
+Rufumbira (Translation)	Umukobwa Ukunzwe	id=20930
+Runyankore (Translation)	omwishiki wangye owunkunda	id=24324
+Setswana (Translation)	Morwadi Yo O Rategang	id=21157

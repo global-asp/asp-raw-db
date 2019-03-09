@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=23490&d=0&a=1
+id:	23490
+title:	Okubala Kappa
+author:	Nalwoga Sandra
+artist:	Jesse Breytenbach
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23490.png
+desc:	Ekitabo kyo kubala kappa
+
+page_text:
+
+P1	Kappa ziri meka? 0 tewali kappa
+P2	kappa ziri meka? 1 kappa eri emu.
+P3	Kappa ziri meka? 2 kappa ziri bbiri
+P4	Kappa ziri meka. 3 kappa eri satu
+P5	Kappa ziri meka? 4 kappa ziri nya.
+P6	Kappa ziri meka? 5 kappa ziri tano
+P7	Kappa ziri meka? 6 kappa ziri mukaga
+P8	kappa ziri meka? 7 kappa ziri musanvu
+P9	Kappa ziri meka? 8 kappa ziri munaana
+P10	Kino kiki kyetulaba?  Omwana wa kappa alalidde muti! "ngenda ku tasa!"
+P11	"Maama, bambi tukasigaze? kekasembayo." Kappa ziri meka? kappa ziri mwenda.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Dhopadhola (Translation)	kwano pus	id=23214
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala Puusi	id=24824
+Lusoga (Translation)	Okubala puusi	id=27336
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584

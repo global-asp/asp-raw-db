@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=29276&d=0&a=1
+id:	29276
+title:	Mukwano gwange, mulabe wange
+author:	Rebecca Ndhibogeza
+artist:	Thulani Mhlanga
+lang:	Lusoga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29276.png
+desc:	Taabu akola emikwano nomusaadha atagha bantu kitiibwa. Aye ebintu bisobola okucuuka byatereera?
+
+page_text:
+
+P1	Webutuuka, mu kyalo ekya Ndalike, yaliyo omulenzi omutomuto ati eyaviiranga ghalala ni bazairebe.
+P2	Omulenzi ono yaghanga bazairebe ekitiibwa n'abantu abandi ku kyalo. Amainage baali bamweta Taabu Malobo.
+P3	Enaku edh'olwebbalaza dhiri n'eby'okukola bingi mu kyalo nga abaana beetegeka okuja kwisomero oluvainhuma olw'olunaku olusembayo mu wiiki.
+P4	Supaaka nga buli kiseera alwana,kutiisatiisa abandi n'okwebuzaabuza kwisomero.. Yali mulenzi mubi eyagingiriranga nga aba mu bikunsu eby'abantu ababi. Mpolampola n'obwegendereza, supaaka ono yasigula Taabu. Taabu yali tayenda kuboneka nga ti mugholu yainhama okwebisa obubi nga Supaaka.
+P5	Taabu yafuuka mulenzi mubi inho yatandiika n'obutagha bazairebe kitiibawa n'abantu ab'okukyalo beyali agha. Yafuuka munhwi wa mwenge nga n'okwerabirira tasobola.
+P6	Taabu yafuuka mwonoonefu yafuna n'obulwaire obw'obukaba. Yafuuka mutono inho nga supaaka akoba ati bya kusaaga era nga tayenda abe mukwanogwe. Abazaire ba Taabu baamwizaamu amaani aje mu ka supaatala akaali okumpi afune obwidhandabi. Oluvainhuma olw'okufuna obulezi, yaaba bukalamu.
+P7	Taabu yalingirira obulamubwe. Yakizuula nti yafuna omukwano omulabe. Yainhama okusoma kwisomero yeetondera bazairebe n'abasomesa.
+P8	Supaaka yali mwainamivu olw'eneeyisa ya Taabu. Aye yali muswavu olw'empisade yaasalagho okudhicuusa yafuuka omuntu omukalamu.
+
+images:
+
+illustrations/pages/25536.png
+illustrations/pages/25535.png
+illustrations/pages/25536.png
+illustrations/pages/25537.png
+illustrations/pages/25538.png
+illustrations/pages/25539.png
+illustrations/pages/25540.png
+illustrations/pages/25541.png
+illustrations/pages/25542.png
+
+translations:
+
+English (Translation)	My friend, my enemy	id=21786
+Kiswahili (Translation)	Rafiki yangu, Adui  yangu	id=22078
+Lusoga (Translation)	Mukagwa wange, muzigu wange	id=27588
+Lusoga (Translation)	Mukagwa wange, mu labe wange	id=28252
+Rutooro (Translation)	Munywaani wange, muraabe wange	id=24397
+Sepedi (Original)	Mogwera mmolayi wa ka	id=21785

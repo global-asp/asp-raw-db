@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=29685&d=0&a=1
+id:	29685
+title:	Omukazi   mu  kathungwa
+author:	Julius Bamwagala and Kyambogo  University
+artist:	Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29685.png
+desc:	Omwana yeegomba erangi ya kathungwa.
+
+page_text:
+
+P1	Bbbaabba  wange yantwala  mu  kibuga mu kamotoka  kaife  aka  bululu. Twasooka  twayemerera  ku  nkulungo  ey'oluguudo  okulindaku  langi  eyakasaayi  okufuuka  eya  kira
+P2	Naabona  omukazi  ku  luuyi  olw'oluguudo. Yali  nga  avaire ekiteeteeyi  ekiboneka  obulungi  ekya  kassyi.
+P3	Yali  n'omusipi omunene  oigwa  kasaayi  munkede ye.
+P4	Mu  ngalo dhe, nga  agemye  akasawo  akamesamesa  aka  kathungwa.
+P5	Yali  nga  avaire  engaito edha  kakondo nga  dha  kathungwa edhi masamasa.
+P6	Yaayemerera yaagema  ku  nviiri  dhe  endeeyiriri, edhaali  nga  dhisibiibwa ghagati n'akooma.
+P7	Bweyataamu  akooma  mu  nviiri  ensaghon ye  yaagwa  ghansi.  "Ooo  yaghulira  bubi  inho  olwensagho  ye.
+P8	Omughala  yaakutama  okulonda  akasagho  ke  akoomungalo.
+P9	Nabona  obuuma  obwakathungwa  obwo mumatu  bweyali  asiimula  enfunfu  ku  kasagho  ke.
+P10	Amataala  gacuuka  gaafuuka  ga kiragala.  Twavuga  emotoka  twavaagho,  aye  nasigala  nga  nkaalinga  einhuma.
+P11	"Olikulingirira  ki?"  Bbaabba  ghange  yambuuza.
+P12	"Ku mughala  ayambaire  kathungwa." Namwiramu.  Naloghoozanga  ku  kala  ya  kathungwa  olunaku  lwonalwona.
+
+images:
+
+illustrations/pages/9474.png
+illustrations/pages/9465.png
+illustrations/pages/9466.png
+illustrations/pages/9469.png
+illustrations/pages/9470.png
+illustrations/pages/9939.png
+illustrations/pages/9940.png
+illustrations/pages/9474.png
+illustrations/pages/9942.png
+illustrations/pages/9475.png
+illustrations/pages/9476.png
+illustrations/pages/9477.png
+illustrations/pages/9478.png
+
+translations:
+
+English (Translation)	The lady in orange	id=18892
+Kiswahili (Original)	Rangi ya chungwa	id=10202
+Portuguese (Translation)	A Senhora Em Cor-De-Laranja	id=18893

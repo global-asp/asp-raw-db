@@ -1,0 +1,62 @@
+url:	https://africanstorybook.org/reader.php?id=24900&d=0&a=1
+id:	24900
+title:	Amasanhu n'obwerarikirivu
+author:	Kyambogo  University
+artist:	Rijuta Ghate
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24900.png
+desc:	Empandika evumbula okughulira ebiretera abantu okutabulwa
+
+page_text:
+
+P1	lwaki omwana alikulira.
+P2	Ndoowoza alindala.
+P3	Lwaaki omulenzi munhakughavu.
+P4	Ndowoza alikusubwa baaba ghe.
+P5	Lwaki omughala musanhufu?
+P6	Alinha ekiteteyi ekiiyaka.
+P7	Lwaki omusadha omukaire alikuseka?
+P8	Yasomye ekisanhusa ekirungi.
+P9	Lwaki  omukazi alikumwenha?
+P10	Abaana be balikusoma  mukasirise.
+P11	Omukazi ono alikughulira ki?
+P12	Ndoghoza aghulira  nsoni.
+
+images:
+
+illustrations/pages/1901.png
+illustrations/pages/1892.png
+illustrations/pages/1893.png
+illustrations/pages/1894.png
+illustrations/pages/1895.png
+illustrations/pages/1896.png
+illustrations/pages/1897.png
+illustrations/pages/1898.png
+illustrations/pages/1899.png
+illustrations/pages/1900.png
+illustrations/pages/1901.png
+illustrations/pages/1902.png
+illustrations/pages/1903.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...! Hartseer en Gelukkig	id=11478
+Amharic (Translation)	ደስ ያላችሁና የከፋችሁ አሁኑኑ … ንገሩኝ!	id=13126
+English (Original)	Happy and Sad	id=1904
+French (Translation)	Raconte-Moi … Maintenant ! Heureux Et Triste	id=10686
+isiNdebele (Translation)	Tjela mina … nje! Ithabo kanye nokudana	id=13056
+isiXhosa (Translation)	Ndixelele...ngoku! Wonwabile kwaye uqumbile	id=2825
+isiZulu (Translation)	Ukujabula nokuphatheka kabi	id=2822
+Kikamba (Translation)	Ndavye Oyu ... Utanu Na Kimako	id=2497
+Kiswahili (Translation)	Nieleze, Furaha na Huzuni	id=2823
+Kiswahili (Adaptation)	Furaha na Huzuni	id=16199
+Maa (Translation)	Tólikíoki Tenákatá ... Enchipái Ó Enkisinánuo	id=2826
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona! Elakara Nabo Kiyalolong’I	id=2827
+Ng’aturkana (Adaptation)	Elakara Nabo Kiyalolong'l	id=16202
+Oluwanga (Translation)	Mbolera Bulano...obusangafu Nende Eshibeera!	id=2496
+Portuguese (Translation)	Feliz E Triste	id=18887
+Rutooro (Translation)	Ngamgira...hati! Kusemererwa No Kubihirwa	id=14920
+Sepedi (Translation)	Mpotše … Gona Bjale! Lethabo Le Manyami	id=2824
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Thabo Le Hokoata	id=11551

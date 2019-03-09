@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=29061&d=0&a=1
+id:	29061
+title:	Akatabo kange
+author:	Kyambogo  University and sheba Magabi
+artist:	Catherine Groenewald
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29061.png
+desc:	Omwaana omuto nga ainhonola ekili mu katabo ke akalungi.
+
+page_text:
+
+P1	Nnhingirira bambi.
+P2	Ndi mughala.
+P3	Ndi na katabo kange akayaaka.
+P4	Lengera  akatabo kange akayaaka.
+P5	Muganda ghange yeeyaziike akatabo kange.
+P6	Ni muganda ghange omulenzi yeena akeeyaziike.
+P7	Ate buli muntu ayenda okusoma akatabo kange.
+P8	Buti  kankasome akatabo kange nkamaleku.
+
+images:
+
+illustrations/pages/8606.png
+illustrations/pages/8659.png
+illustrations/pages/8664.png
+illustrations/pages/8636.png
+illustrations/pages/8662.png
+illustrations/pages/8666.png
+illustrations/pages/10546.png
+illustrations/pages/19236.png
+illustrations/pages/8636.png
+
+translations:
+
+English (Original)	My Storybook	id=19593
+Kinyarwanda (Translation)	Agatabo Kange K' Inkuru	id=21047
+Luganda (Translation)	akatabo kange	id=24484
+Lusoga (Translation)	Akatabo kange  ak'enfumo	id=26240

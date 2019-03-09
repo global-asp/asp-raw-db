@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=27343&d=0&a=1
+id:	27343
+title:	Ndidhi amaina ga langi
+author:	Kyambogo  University and William Balyegisagha
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27343.png
+desc:	Kyenvu
+
+page_text:
+
+P1	Kasaayi.
+P2	Kyenvu.
+P3	Bbululu.
+P4	Kasaayidaaki.
+P5	Kathungwa.
+P6	Kaghembaghemba.
+
+images:
+
+illustrations/pages/9853.png
+illustrations/pages/9839.png
+illustrations/pages/9843.png
+illustrations/pages/9849.png
+illustrations/pages/9841.png
+illustrations/pages/9846.png
+illustrations/pages/9854.png
+
+translations:
+
+English (Adaptation)	I know colours	id=10473
+isiXhosa (Translation)	Ndiyayazi imibala	id=22583
+Lusoga (Translation)	Ndidi langi	id=27152

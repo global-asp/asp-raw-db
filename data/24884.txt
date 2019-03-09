@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=24884&d=0&a=1
+id:	24884
+title:	Wampiti  omulwaire
+author:	Kyambogo  University and Richard  Seege
+artist:	Razaque Lázaro Quive
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24884.png
+desc:	Wakamyu aja okucaaliraku mukwano gwe Wampiti.
+
+page_text:
+
+P1	Agho  olwatuuka, eira einho, ghaaliyo  akaseera  ake endhala. Wampiti ow'amagezi  yeefuula okuba  omulwaire nga  tasobala na  kufuluma.
+P2	Ba Wansolo ni ba Wansolo  beesomba mu  maka  ge okumugumya. Aye  kuboonaboona  ezira  yafuluma!
+P3	Mu malya  eg'eky'emisana, Wakamyu yaatuuka. Yeena  yaaghulira  nga  atekeirwa okukyalira ku  Wampiti.
+P4	Yajiira  irala  kumpi n'empuku ya Wampiti.aye  yeekanga, era  yaabona  ebigere eby'ensolo  edhindi  nga  dhi ngiire, aye  nga  ezira kudho  efulwime.
+P5	Era yaasigala  ku luya era yaayasikanira  ghaigulu, "Muli mutya eyo?
+Muli balamu, mikwano gyange  emirungi? Muli kwiraku  engulu?"
+P6	Wampiti yairamu  ati, "Tiweralikirira, mukwano  gwange. Ngira obeeku  ghano  ninze!"
+P7	"Oo, Tiri mwetegefu  kwingira omwo. Bwenebwene, nzira  biseera saawa dhino, ate oli naabagenhi kyodo..." 
+"Mbe, mbe, Wakamyu, buli kintu kiri bulungi. Muno  muzira muntu yeenayeena. Ti kirungi kuba ghano nga ndi mulwaire ate nga ndi  zenka."
+P8	"Olikulimba! Ndi  kubona ebigere ebya ba Wansolo  ebindi  ebingiire  nga  bikaali  kufuluma."
+P9	Wampiti yaasirikirira, Wakamyu yaamusiibula ati, "tunairangamu,"mukwano gwange, Ndhuuba nti ndha kucaaliraku olundi."
+P10	Wakamyu yaalumukiraku irala okuva mu kifo ekyo.
+
+images:
+
+illustrations/pages/8362.png
+illustrations/pages/17423.png
+illustrations/pages/17416.png
+illustrations/pages/17415.png
+illustrations/pages/17418.png
+illustrations/pages/17425.png
+illustrations/pages/17422.png
+illustrations/pages/17421.png
+illustrations/pages/17417.png
+illustrations/pages/17419.png
+
+translations:
+
+English (Original)	The sick hyena	id=8393
+English (Adaptation)	(Colour-in) The Sick Hyena	id=17424
+Lulamoogi (Translation)	Owampiti omulwaire	id=26647
+Portuguese (Translation)	A Hiena Doentia	id=8394
+Xitswa (Translation)	A Yingwe Ya Ki Ti B'abzisa	id=8466

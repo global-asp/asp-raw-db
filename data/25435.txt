@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=25435&d=0&a=1
+id:	25435
+title:	Amaizi ga Nomvula
+author:	Henry Musana
+artist:	Marleen Visser
+lang:	Lukenye
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25435.png
+desc:	Nomvula ataka okuzanya -naye ekisooka kisuu innu
+
+page_text:
+
+P1	"Mbe Nomvula, tozanya naimaizi. Kitisya inno!" "Naye kisu, Mama! nebona nga nsaine okwekuba mu maizi gano. Ntaka okuba nga newolyokoka."
+P2	"No, Nomvula. Tozanya na maizi. Amaizi matono." "naye kisu, Mama, ndi enyotta. Netagire  okunywa ku maizi amawolokoki."
+P3	Amaizi gali kutonya. Wali kya kubawo amaizi ganji. Awo tika nsobola okuzanya - singa kiba kisu.
+P4	oligirire ku iva eryomusiiko. Biri kukula era biri kyongera okuba ebye kiragala. Bona! ebaweri ne bakete bi kutekaku na maizi.
+P5	Gamalire okutonya. Olwo tusobola okuzanya! Bona engeri eyekibona okunyirira nga gamalire okutonya. Owaigulu wa waboneka era wabululu. Emisale ne eisubi bye kiragala, era ne bibala byona biri kutekaku.
+P6	Oo mbe! Amaizi ate gairire! Tuli kyaba kuzanya ndi?
+P7	Oo mbe, nze! Ndikwaba okuzanya, oba nga gatonya! Oo nga kisa inno okuzanya mu maizi. Chapu! chapu chapu!
+P8	Nomvula, totaka okuwulisisya, mwana wange. iza kumpi, kankale era nsusulye enziri jange. Chapu chapu chapu!
+
+images:
+
+illustrations/pages/7964.png
+illustrations/pages/7958.png
+illustrations/pages/7959.png
+illustrations/pages/7960.png
+illustrations/pages/7961.png
+illustrations/pages/7962.png
+illustrations/pages/7963.png
+illustrations/pages/7964.png
+illustrations/pages/7965.png
+
+translations:
+
+English (Translation)	Rain for Nomvula	id=9830
+Lusoga (Translation)	Namuvula aja mu maadhi	id=25434

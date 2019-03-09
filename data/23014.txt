@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=23014&d=0&a=1
+id:	23014
+title:	Omuwala omuto
+author:	Nakazzi Maria
+artist:	Padmanabha, Sarah Bouwer and Wiehan de Jager
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23014.png
+desc:	Omuwala omuto yatumibwa eli jaaja we omusaja nasisinkana ebisolo mumasekati ge kibila.
+
+page_text:
+
+P1	Omuwala omuto yatumibwa baszade be eli jaaja we eli abela emitala we kibila yekenyini yeyagenda nesanyu.
+P2	weyatuka kumpi me kibila yasisinkana ne mbuzi etayinabuvunanizibwa nemugamba nti agende nobuvunanizibwa lwakubanga waliwo  olukiko lwe ebisolo mu kibila.
+P3	we yatuuka mumakati ge kibila, yasanga ebisolo bungi kumpi nolugudo naduka naduka nga wawogana.
+P4	weyafuluma ekibila yasanga ebinyonyi bingi nga biwogana. Omuwala omuto yaduka nga wogana nyo.Jaaja we omusaja yamuwulila.
+P5	Jaaja we omusaja yayogela ne mukyala we nti oyo ye muzukulu wabwe. Yagenda okumulaba mangu ne embwa ye namusnaga nga akoye.
+P6	webatuka ewaka yayingila nabuza abana abalala nalya emele. weyamala okulya nanyumwa ku ebya bade wo.
+P7	weyamala okunyumwa ebyabade wo no ku bulilwa obuta yita mu kibila nga tali namuntu mulala yagenda asanyuse okuzanya nabana abalala.
+P8	Teyadamu kuyita mukibila ngatali namuntu yena.
+
+images:
+
+illustrations/pages/19826.png
+illustrations/pages/19826.png
+illustrations/pages/13351.png
+illustrations/pages/10233.png
+illustrations/pages/292.png
+illustrations/pages/17295.png
+illustrations/pages/13930.png
+illustrations/pages/14062.png
+illustrations/pages/2039.png
+
+translations:
+
+Ateso (Translation)	Ipese yen didi	id=23130
+Dhopadhola (Translation)	Nyako Ma Thin	id=20970
+Dhopadhola (Translation)	Nyako ma thin	id=23365
+English (Original)	A Little  Girl	id=20550
+Hausa (Nigeria) (Translation)	Wata Ƙaramar Yarinya	id=20759
+Kinyarwanda (Uganda) (Translation)	Umukobwa Muto	id=20962
+Luganda (Translation)	Omuwala Omuto	id=20946
+Luganda (Translation)	Omuwala Omutto	id=22876
+Luganda (Translation)	omuwala omuto	id=23009
+Luganda (Translation)	Omuwala omuto	id=24653
+Lumasaaba (Translation)	Umukhana umutini	id=23821
+Lusoga (Translation)	Omuwala omuto	id=23837
+Lusoga (Translation)	Omughala omutono	id=30328
+Lusoga (Translation)	mughala muto	id=30993
+Rukiga (Translation)	omuhara muto	id=22892
+Rukiga (Translation)	Omuhara muto	id=23341
+Rukiga (Translation)	Omuhara muto	id=24287
+Runyankore (Translation)	Omwishiki Muto	id=24063
+Runyoro (Translation)	Akaisiki Akato	id=20642

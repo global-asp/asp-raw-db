@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=25901&d=0&a=1
+id:	25901
+title:	Omughala gwebeeta Noola
+author:	Charles Eramaga and Kyambogo  University
+artist:	Melany Pietersen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25901.png
+desc:	Noola ayenda inho doli era aba mweralalikirivu. Lwali lulala bwe yalowooza ati doli ghe
+
+page_text:
+
+P1	Omughala bamweta Noola. Doli ghe yamutuuma Sheila.
+P2	Noola ayenda inho doli. Noola azaanha ni Sheila buli lunaku. Asula ni doli ghe buli bwire.
+P3	Lwali lulala, Noola yali tali kubona doli ghe. Yanhonia buli ghantu nga tabona Sheila. Noola yeralikirira inho.
+P4	Noola yali tategaire ati maama ghe  yali atwoire Sheila okumunaaza. Yaghanika doli kuliya  okukala.
+P5	"Tilikubona doli ghange," Noola yalira. "Oteralikira," maama ghe yamukoba.
+P6	Eigulo elyo, maama Noola yamugha doli. Doli yali alikunhirira. Sheila yaboneka oti muyaaka.
+P7	Noola yali musanhufu inho. Yabuka buuka. Yakina era nga bwaseka.
+P8	Era yeyanza maama ghe.
+
+images:
+
+illustrations/pages/9482.png
+illustrations/pages/9482.png
+illustrations/pages/9483.png
+illustrations/pages/9481.png
+illustrations/pages/9485.png
+illustrations/pages/9489.png
+illustrations/pages/9486.png
+illustrations/pages/9487.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Translation)	Girl Called Norah	id=9797
+English (Adaptation)	This is Norah	id=16120
+French (Translation)	La Fille Du Nom De Norah	id=10762
+Luganda (Original)	Omuwala Norah	id=9795
+Luganda (Translation)	Omuwala Ayitibwa Noorah	id=24051
+Rutooro (Translation)	omwisiki owubakweta Nora	id=22917

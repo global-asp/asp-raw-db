@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=26623&d=0&a=1
+id:	26623
+title:	Ensi yaife
+author:	Julius Bamwagala and Kyambogo  University
+artist:	Herminder Ohri
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26623.png
+desc:	Olufumo olugema ku kutondebwa okwensi nabantu.
+
+page_text:
+
+P1	Katonda  yayenda  omuntu  anaalabirira  ensi.
+P2	Wampologoma  yaaghaayo. Ninze  kyabazinga, nsobola  okugukola."
+P3	Wandovu  yaalekaana, ndi  mubba. Ninze  ntuukaana  okuba.
+P4	Eby'enhandha  ebiri n'amainho  byalowooza  biti  bisobola  okuba.
+P5	Waikoli  yaaseka, "Mbuluka  naatuuka  buli  ghantu. Nsobola"
+P6	Katonda  yaakoba, Nda  kutonda  omuntu  anaakola  guno  omulimo."
+P7	Katonda  yaatonda  omukazi  n'omusaadh  mu  langi  eya  kiragala.
+P8	Abandi  mu  langi  yaakisitaka.
+P9	Abandi  mu  langi  ya kathungwa.
+P10	Abandi mulangi  ya pinki.
+P11	Eby'enhandha  byaseka  inho  abantu, "Baidha  kusobola  batya  okuwuga?"
+P12	Katonda  yeesekamu, "baidha kwega.
+
+images:
+
+illustrations/pages/2237.png
+illustrations/pages/2238.png
+illustrations/pages/2239.png
+illustrations/pages/2240.png
+illustrations/pages/2242.png
+illustrations/pages/2243.png
+illustrations/pages/2244.png
+illustrations/pages/2245.png
+illustrations/pages/2248.png
+illustrations/pages/2247.png
+illustrations/pages/2246.png
+illustrations/pages/2251.png
+illustrations/pages/2252.png
+
+translations:
+
+English (Original)	Our wonderful world	id=2253
+English (Adaptation)	Our world	id=21712
+isiXhosa (Translation)	Ilizwe lethu elimangalisayo	id=7456
+Kiswahili (Translation)	Dunia yetu	id=22001
+Lusoga (Translation)	Ensi Yaife	id=20670
+Lusoga (Translation)	Ensi Yaife	id=20925
+Maa (Translation)	Enkóp Áng É Enking'asíá	id=2958
+Ng’aturkana (Translation)	Akwapit Yok Nakaili-Ilon	id=2254
+Oluwanga (Translation)	Eshialo Shiefu Shiokhuchamisia	id=2255

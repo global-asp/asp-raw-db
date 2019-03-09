@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=28902&d=0&a=1
+id:	28902
+title:	Maliya mugayaavu
+author:	Kyambogo  University and Robert Buyinza
+artist:	Steven McKimmie, Venolin Keanan Govender, Vusi Malindi and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28902.png
+desc:	Maliya mugayavu. Ava mu maka magaiga. Tasoobola kufumba. Asituuka nga ebiseera biigire. Ku isomero
+
+page_text:
+
+P1	Maliya mugayaavu.
+P2	Ava mu maka magaiga.
+P3	Tasoobola kufumba mmere.
+P4	Aja kikereze ki isomero.
+P5	Azira mikwano era tafa ku bandi.
+P6	Bbaabba we amwenda inho.
+P7	Atendhuka mu kibina.
+P8	Tagha basomesa be kitibwa.
+P9	Atambula mpola okuva mu kibina kuba yali mugayaavu.
+
+images:
+
+illustrations/pages/1003.png
+illustrations/pages/14856.png
+illustrations/pages/16780.png
+illustrations/pages/6188.png
+illustrations/pages/13754.png
+illustrations/pages/13388.png
+illustrations/pages/19457.png
+illustrations/pages/13841.png
+illustrations/pages/13824.png
+illustrations/pages/7508.png
+
+translations:
+
+English (Original)	Mary is lazy	id=24700

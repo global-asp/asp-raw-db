@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=24458&d=0&a=1
+id:	24458
+title:	imbwa
+author:	Gloria Njeri
+artist:	Catherine Groenewald, Jean Fullalove, Sandy Campbell, Ursula Nafula and Wiehan de Jager
+lang:	Lumasaaba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24458.png
+desc:	Lugero luchina lwama kumuseza uwaaba ni imbwa yeewe iyaba eziyigina ni ipulize esali.
+
+page_text:
+
+P1	Abawoo umeza ni imbwa yeewe edwena
+P2	Aba agaana imbwa yeewenaabi.
+P3	Aba ekola nabi nga exa ni mukatale kugula eenyama
+P4	Kudaaya meezi kwama mu luuzie
+P5	Kulinda buli chintu eengo
+P6	Lunaku ludwela umuseeza asiima imbwa yeewe  mugenli yiziyigina lwe kuba ewuliza.
+P7	Imbwa ya sanyuka naabi yiyongera ni kukola ni gaamani.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/1393.png
+illustrations/pages/5926.png
+illustrations/pages/3033.png
+illustrations/pages/2494.png
+illustrations/pages/2492.png
+illustrations/pages/1757.png
+illustrations/pages/2490.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=23845
+Ateso (Translation)	EKINGOK	id=23079
+Ateso (Translation)	Ekingok	id=24088
+Dhopadhola (Translation)	Guwoki	id=24293
+English (Translation)	A Dog	id=7792
+Hausa (Nigeria) (Translation)	Wani Kare	id=20812
+Hausa (Nigeria) (Translation)	Wani Kare	id=20856
+Kinyarwanda (Translation)	Imbwa	id=20280
+Kinyarwanda (Uganda) (Translation)	Imbwa	id=20605
+Kiswahili (Translation)	Mbwa	id=23851
+Kumam (Translation)	Ogwok	id=20953
+Leblango (Translation)	Gwok	id=23956
+Luganda (Original)	Embwa	id=7299
+Luganda (Translation)	Embwaa	id=21078
+Luganda (Translation)	Embwa	id=23958
+Luganda (Translation)	Embwa	id=24012
+Luganda (Translation)	EMBWA	id=24029
+Luganda (Translation)	Embwa	id=24349
+Luganda (Translation)	EMBWA	id=24405
+Luganda (Translation)	Embwa	id=24559
+Lugwere (Translation)	Embwaa	id=24306
+Lumasaaba (Translation)	Imbwa	id=20955
+Lumasaaba (Translation)	Imbwa	id=21002
+Lusoga (Translation)	Embwa	id=22645
+Lusoga (Translation)	Embwa	id=24003
+Lusoga (Translation)	embwa	id=24005
+Lusoga (Translation)	wambwa	id=25811
+Rufumbira (Translation)	Imbwa	id=20731
+Rukiga (Translation)	ebwa	id=23742
+Rukiga (Translation)	EMBWA	id=23968
+Rukiga (Translation)	Embwa	id=24407
+Runyankore (Translation)	Embwa	id=20653
+Runyankore (Translation)	embwa	id=23356
+Runyankore (Translation)	Embwa	id=23840
+Runyankore (Translation)	Embwa	id=24214
+Runyankore (Translation)	Embwa	id=24239
+Runyankore (Translation)	Embwa	id=24254
+Runyankore (Translation)	Embwa	id=24352
+Runyoro (Translation)	Embwa	id=20644
+Rutooro (Translation)	Embwa	id=24299
+Talen (Translation)	Baa	id=20271

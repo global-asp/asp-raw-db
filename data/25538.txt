@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=25538&d=0&a=1
+id:	25538
+title:	Adyebo asima mage
+author:	Ibrahim  Isabirye and Kyambogo  University
+artist:	Katelyn Mostert
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25538.png
+desc:	Adyebo ayega omugaso gwe ikolela ghalala.
+
+page_text:
+
+P1	Adyebo ali ndhala. Ayendha kulya mage.
+P2	Abona ekiswa ekinene. Ekirimu amage amangi.
+P3	Adyebo asima mage.
+P4	Ekiswa kikalangufu inho. kitwala ekiseera kighanvu okutuuka ku mage.
+P5	Adyebo ali ndhala saawa eno.
+P6	Bainhe abandhi baidha. Nga boona bali ndhala.
+P7	Ba simira ghalala.
+P8	Mubwangu baatuuka ku mage.
+P9	Buli mulala ali naagamumala.
+P10	Ensambo eyekisoga: Omuntu tasobola kusima kiswa yenka. Eky'okwega: Eikolera ghalala nengeri enhungi eyo kwanganga ebizibu.
+
+images:
+
+illustrations/pages/12584.png
+illustrations/pages/12591.png
+illustrations/pages/12592.png
+illustrations/pages/12593.png
+illustrations/pages/12594.png
+illustrations/pages/12595.png
+illustrations/pages/12596.png
+illustrations/pages/12605.png
+illustrations/pages/12606.png
+illustrations/pages/12599.png
+illustrations/pages/12607.png
+
+translations:
+
+English (Original)	Aardvark Digs for Ants	id=11604

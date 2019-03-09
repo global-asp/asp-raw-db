@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=24289&d=0&a=1
+id:	24289
+title:	(Ekala-toma) Ikoku ka Kumbana
+author:	faith omiat
+artist:	Razaque Lázaro Quive
+lang:	Ateso
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24289.png
+desc:	Estory loo idwe lu apolok nere lu idwe lu didik.
+
+page_text:
+
+P1	Kolo ajei etune la abakei Kumbana
+P2	Aria ikaru 25, apotu kipaperikines keda apese na abakai Zangane.
+P3	Eyalama mase kesi adaun ikaru iuni, konye amamete keda isiringe lu adolitos amanyia ngesi.
+P4	Adope eparan abu ngesi kojenu ebe epotiei ngesi, narai mam kesi etosomatos amopira na aelo.
+P5	Aponi ounai ikoku ipese, oponi komaikinai ngesi Kheri.
+P6	Konye awoko Kumbana asiome, kede asomei Zangane obuga loo alwana, arai kesi aiboi okitakina.
+P7	Etubur apak, abu Zangane odum eche epai. Abu ngesi obuu eboi keda ngesi kede ikoku da.
+P8	Abu Kumbana kokabak. Abu komony noi nara atiakak ngesi keda akooki.
+P9	Etubur epak, abu Kumbana kodum icie apai. Kopoto kibokinos nepepe, konye mam kopotu odumutu idwe.
+P10	Kopana Kheri mam amina papa ke lu tetet. Mam kesi eyalama, kede ebugai kesi.
+P11	Doo na arai ngesi ikaru 12, abu totoke ijuga ngesi nei ajai papa ke.
+P12	Abu Kumbana kede Kheri kere iyalame ki nus bobo.
+
+images:
+
+illustrations/pages/9722.png
+illustrations/pages/17591.png
+illustrations/pages/17584.png
+illustrations/pages/17587.png
+illustrations/pages/17583.png
+illustrations/pages/17588.png
+illustrations/pages/17593.png
+illustrations/pages/17589.png
+illustrations/pages/17586.png
+illustrations/pages/17585.png
+illustrations/pages/17590.png
+illustrations/pages/17594.png
+illustrations/pages/17592.png
+
+translations:
+
+English (Original)	Kumbana's child	id=9766
+English (Adaptation)	(Colour-in) Kumbana's child	id=17595
+isiZulu (Translation)	Ingane kaKumbana	id=15357
+Luganda (Translation)	Omwana wa Kumbana	id=23080
+Luganda (Translation)	Omwana wa Kumbana	id=23894
+Lumasaaba (Translation)	Umwana wa Kumbana	id=24064
+Lusoga (Translation)	Omwana wa Mukose	id=24959
+Portuguese (Translation)	A Filha De Kumbana	id=10554
+Rukiga (Translation)	Omwana wa Kumbana	id=24109
+Runyankore (Translation)	Omwana wa Kumbana	id=23075
+Runyankore (Translation)	(Siga elanji) Omwana wa Kumbana	id=23227
+Runyankore (Translation)	(siga erangi) omwana wa Kumbana	id=23736
+Runyankore (Translation)	(Siga elanji) Omwana wa Kumbana	id=24526

@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=27265&d=0&a=1
+id:	27265
+title:	Misonho dha nviiri
+author:	Abdul Maged Mbago and Kyambogo  University
+artist:	Bronwen Heath
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/27265.png
+desc:	Olufumo luno lugema ku misonho dha nviiri.
+
+page_text:
+
+P1	Suubi ali ne nviiri nnhimpi.
+P2	Naigaga ali  ne nviiri mpanvu.
+P3	Mutesi ali ne nviiri mpanvu okuwulaku Naigaga.
+P4	Nabirye ali ne nviiri nsibe.
+P5	Isabirye ali ne kirevu.
+P6	Babirye ali  ne nviiri nsunsule.
+P7	Nsadhu ali ne nviiri nkomole.
+P8	Aye Waiswa bamumweire mpaata.
+
+images:
+
+illustrations/pages/1745.png
+illustrations/pages/1211.png
+illustrations/pages/1212.png
+illustrations/pages/1213.png
+illustrations/pages/1214.png
+illustrations/pages/1215.png
+illustrations/pages/1216.png
+illustrations/pages/1217.png
+illustrations/pages/1218.png
+
+translations:
+
+Afrikaans (Translation)	Hare	id=11318
+Amharic (Translation)	የፀጉር ምርጫዎቻችን	id=21177
+Arabic (Translation)	الشعر	id=21851
+Aringati (Translation)	Ĩzĩnũwélẽ Drị̃ꞌbị́	id=8359
+Ateso (Translation)	Itima	id=3079
+English (Original)	Hair	id=1746
+English (Adaptation)	Different People  With Different Hair	id=12686
+Kikamba (Translation)	Nzwĩĩ	id=1963
+Luganda (Translation)	Enviri	id=1962
+Luganda (Translation)	Enviiri	id=9339
+Lugbarati (Translation)	Dri'bi	id=2809
+Lumasaaba (Translation)	Litsuune	id=1964
+Lunyole (Translation)	Efiiri	id=3073
+Lusoga (Translation)	Nviiri	id=2810
+Lusoga (Translation)	Enviiri	id=26673
+Lusoga (Translation)	Omwoleso gwe enviiri	id=28866
+Maa (Translation)	Ilpápít	id=2743
+Ng’aturkana (Translation)	Ng’Itim	id=2812
+Oluwanga (Translation)	Liswi	id=3075
+Sabinyi (Translation)	Puteek	id=3076
+Setswana (Translation)	Moriri	id=3081
+Tshivenda (Translation)	Mavhudzi	id=5965

@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=25191&d=0&a=1
+id:	25191
+title:	Omusaadha aghona Mpologoma
+author:	Kyambogo  University and isabirye  ibrahim
+artist:	Hélder de Paz Alexandre
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25191.png
+desc:	Etukobera engeri omusaadha yeyawunhunsukamu okufa ku kakuuku.
+
+page_text:
+
+P1	Lwali lulala, omusaadha yaaba alikutambula mu nsiko. Akaseera mpa ghe kaaga, yaayagaanana n'empologoma.
+P2	Empologoma yali erikuwumulira mu isubi erimpi.
+P3	Okwagaanana kwaibwe kwali kwa kibwatukira inho nti omusadha tiyategeera kyakukola mukaseera ako. Yavulubana okutya.
+P4	Okusoka, e mpologoma yoona yeewuunia, era yaatya mu ku. Aye mwali mu okululuma okwaghansi mu mabundha gaayo, olw'okuba yali nga eri ndhala.
+P5	Omusadha mukaseera mpa ghekaaga yeyagaana ghaigulu kumuti omuleeyiriri. Yatandiika okuleekaanira Empologoma.
+P6	Empologoma yalambala ghansi gh'omuti, nga erindirira emere yaayo. Ebiseera bwebyabita, Empologoma yatenduka oba yeefuula okuba.
+P7	Mukaseera katono omusadha yatendhuka. Kabiri yazuukuka. Oluvainhuma yawongerera irara era yaatendhuka endoolo.
+P8	Aye kabiri yaagwa ku Mpologoma eyari etendwike mubutanwa!
+P9	Bombi bazuukuka nga bawunze era nga batiire. e Mpologoma y'erabira emere yaayo yaalumuka kutasa bulamu bwaayo.
+P10	Omusadha yeena yatandiika kulumuka nga bwaanonereza e mpologoma. Oluvainhuma yaategera ati yali alikulumuka nga anonereza e Mpologoma.
+P11	Awo yakyuka yeemulula. Tiyalibwa na Mpologoma.
+
+images:
+
+illustrations/pages/8180.png
+illustrations/pages/17382.png
+illustrations/pages/17383.png
+illustrations/pages/17385.png
+illustrations/pages/17384.png
+illustrations/pages/17391.png
+illustrations/pages/17388.png
+illustrations/pages/17387.png
+illustrations/pages/17390.png
+illustrations/pages/17389.png
+illustrations/pages/17386.png
+illustrations/pages/17393.png
+
+translations:
+
+English (Original)	Man and Lion	id=8205
+English (Adaptation)	(Colour-in) Man and Lion	id=17392
+English (Adaptation)	Manu and the Lion	id=18332
+Kiswahili (Translation)	Mtu na Simba	id=12689
+Luganda (Translation)	Omusajja N'empologoma	id=10708
+Lusoga (Translation)	Kambe ni zaakayo omuzizigavu	id=25188
+Lusoga (Translation)	Omusaadha n'empologoma	id=30423
+Portuguese (Translation)	O Homem E O Leão	id=8207
+Rufumbira (Translation)	Umugabo n'Intare	id=22760
+Xitswa (Translation)	A Wanuna Ni Nghonyamu	id=8729

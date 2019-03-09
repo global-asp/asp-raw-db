@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=23555&d=0&a=1
+id:	23555
+title:	Kapa nizingahi
+author:	Esther Tusiime
+artist:	Jesse Breytenbach
+lang:	Runyoro
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23555.png
+desc:	Bara ebitabo kuruga ahari busha kuhika ahari mwenda.
+
+page_text:
+
+P1	Kapa nizingahi? Busha kapa
+P2	Kapa nizingahi? emu  kapa
+P3	Kapa nizingahi?Ibiri kapa
+P4	Kapa nizingahi?Isaatu kapa
+P5	Kapa nizingahi?Ina kapa
+P6	Kapa nizingahi?Itanu kapa
+P7	Kapa nizingahi?mukaga kapa
+P8	kapa nizingahi?mushashu kapa
+P9	kapa nizingahi?munana kapa
+P10	Eki nitureba akana kakapa kagyire kuruga omumuti
+P11	Mama,twiikale nako?Kamu konka"Bujango mwenda
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Dhopadhola (Translation)	kwano pus	id=23214
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala Puusi	id=24824
+Lusoga (Translation)	Okubala puusi	id=27336
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Rutooro (Translation)	Ne njangu zingaha?	id=23584

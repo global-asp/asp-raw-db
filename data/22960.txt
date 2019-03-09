@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=22960&d=0&a=1
+id:	22960
+title:	Okuzina
+author:	Florence  Nakacwa
+artist:	Catherine Groenewald
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22960.png
+desc:	Ekitontome ekikwata kumuwala ayagala enyo okuzina
+
+page_text:
+
+P1	Nzina nga ndimisanyufu,  Nzina
+  nga ndi munakuwavu,  nzina ngandinzeka, nzina ngandi munyiivu.
+P2	Omusomesa wange angamba,"Tula
+  wamu! Tozina lunaku lwona."
+P3	Naye maama wange agamba, "Nti okuzina kunfuula omulamu, okuzina kunfuula omuwanvu, olunaku olumu olifuka omuzinyi, Ob'ewunyiise bonna."
+P4	Nze nengamba,"Lunaku lumu njakuzina abantu basasule okundaba nga mbibya. "Bajagamba nti azina bulungi."
+P5	!
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+French (Translation)	La Danse	id=24817
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lumasaaba (Translation)	Kuchina	id=20932
+Lusoga (Translation)	Okukina	id=24942
+Portuguese (Translation)	Dançando	id=12173
+Rufumbira (Translation)	Kubyina	id=22758
+Rukiga (Translation)	okuzina	id=22981
+Setswana (Translation)	Mokibo	id=2695

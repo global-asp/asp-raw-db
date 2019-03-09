@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=23875&d=0&a=1
+id:	23875
+title:	mere pa ondyek kodi ochulu
+author:	ochieng innocent
+artist:	Rob Owen
+lang:	Dhopadhola
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23875.png
+desc:	Woki kungi kigana pa jadwong Aesop 
+
+page_text:
+
+P1	ondyek kodi ochulu nwango jo mere to joyere nike weyi wa furi rabwo kanyacheli.
+P2	to jo tiyo gi meni indelo.
+P3	kisi kajo chowo tich ochulu gi ondyek ido jo tuko kanyacheli.
+P4	to ido ruman ondye omaro ryemo ochulu. ochulu nwago tera ngwecho.
+P5	to di cheli ochulu penjo, "kineni imere paran irengo imaro ryeman?"
+P6	to ochulu penjo nike, kineni ikimere para irengo wa tiyo to watuko kanyacheli.
+P7	mere meno thano ma donga donga mere nin chil gi chil.
+
+images:
+
+illustrations/pages/8136.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8135.png
+illustrations/pages/8150.png
+illustrations/pages/8138.png
+illustrations/pages/8136.png
+illustrations/pages/8141.png
+
+translations:
+
+English (Original)	Friendship Between Hyena and Hare	id=10563
+Kinyarwanda (Uganda) (Translation)	Ubushuti hagati ya bakame n' impyisi	id=23932
+Luganda (Translation)	Omukwano Gwa Wakayima Ne Wampisi.	id=12912
+Lusoga (Translation)	Ab'emikwano  Wampiti ni Wakayima	id=25062
+Ma'di (Translation)	Ito ti moi To	id=24258
+Runyankore (Translation)	Omukago Ahagati ya Wakame nne Empisi	id=23934

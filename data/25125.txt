@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=25125&d=0&a=1
+id:	25125
+title:	Omukulu gha amalike
+author:	Kyambogo  University and Victor  Muwanguzi
+artist:	Isaac Okwir
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25125.png
+desc:	Wobanga abagoberezi bomukulu babuuza ebibuuso ebyekisiru
+
+page_text:
+
+P1	Kyagaba kyali kirike kibede.Yali nga atisatisa.
+P2	Yali mukulu gha malike.
+P3	Abagoberezi be bamuwa olugoye nga lwandawulo.
+P4	"Ngyakwambala luno ku mutwe,"Kyagaba ne yakoba.
+P5	"Buli muntu goberera amateeka gange.Ti mumbuuza nze!"Yawoingana.
+P6	Kale, abagoberezi bamugondera. Kyagaba bweyabuka mwibanga, bulyomu yabuka.
+P7	Aye akagoye kyagaba keyesiba kumutwe, kaali kamutipye.
+P8	Yagema ku mabwa ag'okumutwe. Amalike gagema ku mitwe gyabyo.
+P9	"Kino kiruma,"Kyagaba ne yakoba."Kino kiruma," bona bairamu kyene ekyo.
+P10	"kino kinhwevu!" kino kinhwevu," era baibira.
+P11	Kyagaba yagwa ghansi,okuva ghangulu. Boonera bamwibira bakikora.
+P12	Omukulu gha amalike y'afa. Abagoberezi be banolwa inho, aye basigarawo.
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldeessaa	id=18907
+English (Original)	Baboon chief	id=18906
+English (Adaptation)	Baboon chief	id=19751
+isiZulu (Translation)	Inkosi yezimfene	id=21913
+Kiswahili (Translation)	Nyani aliyekuwa chifu	id=21994
+Lulamoogi (Translation)	Omukulu W'eirike	id=25339
+Ng’aturkana (Translation)	Ekatukon Ang'ichomin	id=20344
+Oluwanga (Translation)	Lishene eliali omwami	id=22820

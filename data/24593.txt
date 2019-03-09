@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=24593&d=0&a=1
+id:	24593
+title:	Sami My Playful dog
+author:	Simon Bukenya
+artist:	Wiehan de Jager, Ursula Nafula and Heslia Schon
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24593.png
+desc:	 Sami is so playful and naughty. He is my dog and i love him.
+
+page_text:
+
+P1	My dog's name is Sami
+P2	Sami is a very playful dog.
+P3	He plays with chicken and even children
+P4	Most of the times Sami wants to play with me.
+P5	Sami is however so tough sometimes
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/14036.png
+illustrations/pages/14035.png
+illustrations/pages/2384.png
+illustrations/pages/14036.png
+illustrations/pages/1209.png
+
+translations:
+
+Lusoga (Translation)	Sami embwa yange eyo omuzaanho	id=30126

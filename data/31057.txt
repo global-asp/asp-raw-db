@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=31057&d=0&a=1
+id:	31057
+title:	Eikere linonia awokusula
+author:	Esther Kyazike and Siniini Bataamye
+artist:	Hélder de Paz Alexandre
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/31057.png
+desc:	Buli kitonde kiri nighektuukanira okuba.
+
+page_text:
+
+P1	Eikere lyanonia aghali amaadhi nga bwekisoboka.
+P2	Amaadhi geyasooka okufuna gaali masu inho inho!
+P3	Okwokya kwabitirira inho era lyabuuka kunsgha.
+P4	Lyanonia ensugha eyalimu amaadhi amainhogovu era lyangira omwo.
+
+images:
+
+illustrations/pages/7821.png
+illustrations/pages/7819.png
+illustrations/pages/7074.png
+illustrations/pages/7076.png
+illustrations/pages/7075.png
+
+translations:
+
+Amharic (Translation)	ውኃ ፍለጋ	id=14538
+English (Original)	Looking for Water	id=7667
+Luganda (Translation)	Okunoonya Amazzi	id=7671
+Lusoga (Translation)	Okunoonia amaadhi	id=26423
+Runyoro (Translation)	Kuseera Amaizi	id=20648
+Zande (Translation)	Gera Tipa Ime	id=17450

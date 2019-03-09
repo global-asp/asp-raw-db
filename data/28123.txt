@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=28123&d=0&a=1
+id:	28123
+title:	Lwaki ekyagi kye bitabo kyazimbibwa
+author:	Edison Kasajja and Kyambogo  University
+artist:	Marleen Visser, Magriet Brink, Karlien de Villiers, Marike le Roux, Jano Strydom, Rob Owen, Jesse Breytenbach and Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28123.png
+desc:	Olufumo luno lwinhonhola amakulu gekyagi kwisomero lyaife.
+
+page_text:
+
+P1	Ekityamo n'emeeza.
+P2	Obutabo bungi obw'abato n'abakulu.
+P3	Ebifaananie ebisiige ku kimaante.
+P4	Ebireri ebyeeru ne bya bbululu mu kasulya.
+P5	Abato n'abakulu baja mu kyagi kye bitabo.
+P6	Bakagwa bange n'inze tujja mu kyaagi ky'ebitabo mu kiwomulo.
+P7	Tusoma ekitabo kino kulunaku olwe ndhawulo.
+P8	Maama wange yeewola akatabo akebifaananie okuva mukyagi ky'ebitabo.
+P9	Ekifo kyange.
+P10	Ekifo kyo.
+P11	Ekifo kya bonaboona.
+P12	Nhumirwa ekyaagi kye bitabo inho namaanhi.
+
+images:
+
+illustrations/pages/7960.png
+illustrations/pages/8548.png
+illustrations/pages/8856.png
+illustrations/pages/9652.png
+illustrations/pages/9850.png
+illustrations/pages/8947.png
+illustrations/pages/9855.png
+illustrations/pages/8850.png
+illustrations/pages/8854.png
+illustrations/pages/8851.png
+illustrations/pages/8855.png
+illustrations/pages/8858.png
+illustrations/pages/8856.png
+
+translations:
+
+English (Original)	Why the Library Was Built?	id=9966
+Kiswahili (Translation)	Kwanini makitaba ilijengwa?	id=24473

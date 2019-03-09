@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=27954&d=0&a=1
+id:	27954
+title:	amainho
+author:	Kyambogo  University and kiirya zephania
+artist:	Kathy Arbuckle
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/27954.png
+desc:	Ensolo edheendhaghulo dhilina ebika ebyendhaghulo abya mainho.
+
+page_text:
+
+P1	engoinha elinha amainho amanhene.
+P2	empologoma yoona erina amainho amanene.
+P3	entee elina amainho amagumu.
+P4	ebinhoni bilinha amainho.
+P5	empuube dhilina amainho amanhenhe ag'omumaiso.
+P6	ekyeenhandha kilina amainho amasongoovu.
+P7	nali nhina amainho mangi.
+P8	aye butti,amainho gange timangi.
+
+images:
+
+illustrations/pages/1701.png
+illustrations/pages/1701.png
+illustrations/pages/1702.png
+illustrations/pages/1703.png
+illustrations/pages/1704.png
+illustrations/pages/1705.png
+illustrations/pages/1706.png
+illustrations/pages/1707.png
+illustrations/pages/1708.png
+
+translations:
+
+English (Original)	Teeth	id=2131
+Kikamba (Translation)	Mayo	id=2132
+Kiswahili (Translation)	Meno	id=10152
+Kiswahili (Adaptation)	Meno	id=19359
+Luganda (Translation)	Amannyo	id=2206
+Lugbarati (Translation)	Si	id=2708
+Lugbarati (Official) (Translation)	Sí	id=8770
+Lunyole (Translation)	Ameeno	id=2207
+Lusoga (Translation)	Amaino	id=25967
+Ng’aturkana (Adaptation)	Ng'ikiel	id=16485
+Setswana (Translation)	Meno	id=2208

@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=24443&d=0&a=1
+id:	24443
+title:	Muzeeyi we Koleo
+author:	Tendo Ronah
+artist:	Wiehan de Jager and PHELLOW MMBUNI
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24443.png
+desc:	Akagero kano kali kuboluganda bomuzeeyi agenda mukibuga omulundi ogusooka.
+
+page_text:
+
+P1	Muzeeyi we Koleo yakagenda Mukibuga
+P2	Mukyaalawe naye yakagenda mukibuga
+P3	Mutabaani womukyaala wa Koleo naye yakagenda Mukibuga
+P4	kizibwe wa mutabaani wa mukyaala wamuzeeyi we koleo yakagenda mukibuga
+P5	Embwa ya kizibwe wa mutabaani wa mukyaala wamuzeyi we koleo yakagenda mukibuga
+
+images:
+
+illustrations/pages/13990.png
+illustrations/pages/13990.png
+illustrations/pages/13992.png
+illustrations/pages/13988.png
+illustrations/pages/13989.png
+illustrations/pages/13993.png
+
+translations:
+
+English (Original)	The Old Man of Koleo	id=13938
+Luganda (Translation)	omuzeeyi ghe koleo	id=28605
+Lusoga (Translation)	Muzeeyi gha  koleo	id=30106

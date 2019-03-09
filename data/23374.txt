@@ -1,0 +1,65 @@
+url:	https://africanstorybook.org/reader.php?id=23374&d=0&a=1
+id:	23374
+title:	Akabenje
+author:	Sharon Miriam Katana
+artist:	Cathy Feek
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/23374.png
+desc:	Omulenzi alaba emmotoka entono ne lukulana nga zikola kabenje.
+
+page_text:
+
+P1	Nalabye lukulana nga ekirira.
+P2	Emotoka yabadde eyambuka ku lugudo
+P3	Omugoba wa lukulana yabadde ayogera ku ssimu ye.
+P4	Yabadde tatunudde ku luguudo.
+P5	Waguddewo akabenje.
+P6	Ambyulensi  ne poliisi byazze okuyamba.
+P7	Ebimotoka bbbiri ebiwalula byazze. Ne biwalula emmotoka ne lukululana.
+P8	Nekkanze  nnyo.
+
+images:
+
+illustrations/pages/347.png
+illustrations/pages/347.png
+illustrations/pages/348.png
+illustrations/pages/349.png
+illustrations/pages/350.png
+illustrations/pages/351.png
+illustrations/pages/367.png
+illustrations/pages/353.png
+illustrations/pages/354.png
+
+translations:
+
+Aringati (Translation)	Drị̃lẹ́-Ũnzí Ịsụ́ Drãdrị̃gá Ꞌi	id=6436
+Ateso (Translation)	Akangasi	id=2835
+Ateso (Translation)	Akangas	id=20626
+English (Original)	Accident	id=915
+Hausa (Nigeria) (Translation)	Hatsari	id=20757
+isiZulu (Translation)	Ingozi	id=8721
+Kakwa (Translation)	Koŋo Naro	id=9050
+Kikamba (Translation)	Mbanga	id=2787
+Kinyarwanda (Translation)	ishyano	id=23978
+Luganda (Translation)	Akabenje	id=2788
+Luganda (Translation)	Akabenje	id=20739
+Lugbarati (Translation)	Drileonzi	id=2598
+Lugbarati (Official) (Translation)	Drìléònzɨ́	id=8779
+Lugwere (Translation)	Akabenjje	id=21469
+Lugwere (Translation)	Kabeenje	id=21470
+Lumasaaba (Translation)	Bunyaalifu	id=916
+Lumasaaba (Translation)	Bunyaalifu	id=8722
+Lunyole (Translation)	Ahabenje	id=2789
+Lusoga (Translation)	Akabendhe	id=2790
+Lusoga (Translation)	Akabendhe	id=25285
+Ngakarimojong (Translation)	Anang’a a Ng’Amotokae	id=8723
+Ng’aturkana (Translation)	Anang’a a Ng’Amotokae	id=2792
+Oluwanga (Translation)	Amasila	id=2791
+Rufumbira (Translation)	Impanuka	id=20632
+Runyankore (Translation)	Butaandu	id=23339
+Runyankore (Translation)	Butaandu	id=23360
+Sabinyi (Translation)	Wuyinto	id=2793
+Sepedi (Translation)	Kotsi	id=7853
+Setswana (Translation)	Kotsi	id=2794

@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=28284&d=0&a=1
+id:	28284
+title:	Vaayu, Kiwunga
+author:	Alice Gonza and Kyambogo  University
+artist:	Rijuta Ghate
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28284.png
+desc:	Elufumo luno lwinhonhola kiwunga kyasobola okukola nokutukosa.
+
+page_text:
+
+P1	Mmala okunaaba amaadhi amasu. Omubiri gwange gwinhogoga. Kiva kuki? Vaayu, kiwunga!
+P2	Amata mukikopo kyange masu inho. Aye gatuuse okunhwebwa. Nani akikola? Vaayu, kiwunga!
+P3	Emigigi egy'omumadirisa gyewuuba gyankuba mumaiso. Naani akikola? Vaayu, kiwunga.
+P4	Akakuba kamyansa. Ebireri ebirugavu bitambula. Naani akikola? Vaayu, kiwunga.
+P5	Ensaga n'amakoola biyuuga. Ebimuli bigwa. Naani eyabikoze? Vaayu, kiwunga.
+P6	Tuli kuzaanhira ghalaku okuva kunhumba. ndikuwunhiza emere maama yaali kufumba. Naani akikola? Vaayu, Kiwunga.
+P7	Egiraasi kudirisa, egwa yaamenheka. Ekirungi tyabairewo. Naani eya gyimenie? Ni Vaayu, kiwunga.
+P8	Akaleetu kafuuwa. Tuleini engira. Tirikugibona, aye mpulira ekiwuuma. Naani akikola? Vaayu, kiwunga.
+P9	Taboneka. Tawulirwa. Akola nga tayogeire kibono kyona kyona. Naani ono? Ni kiwunga.
+
+images:
+
+illustrations/pages/2442.png
+illustrations/pages/2443.png
+illustrations/pages/2444.png
+illustrations/pages/2445.png
+illustrations/pages/2448.png
+illustrations/pages/2449.png
+illustrations/pages/2450.png
+illustrations/pages/2451.png
+illustrations/pages/2452.png
+illustrations/pages/2453.png
+illustrations/pages/2455.png
+
+translations:
+
+English (Original)	Vayu, the wind	id=2454
+isiNdebele (Translation)	Vayu ummoya	id=13069
+isiXhosa (Translation)	UVayu umoya	id=2456
+Kiswahili (Translation)	Vayu, upepo	id=2611
+Ng’aturkana (Adaptation)	Vayu, Ekuwam	id=13288

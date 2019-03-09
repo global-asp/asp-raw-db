@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=23974&d=0&a=1
+id:	23974
+title:	Enjojo ne Ebikere
+author:	Elizabeth  Basemera
+artist:	Amir Bachir António Necas
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23974.png
+desc:	Tutwina kubihiza obuhangwa. Ebya enjojo ne ebikere.
+
+page_text:
+
+P1	Ira muno omikama wamukibira akaba ali Ntale.
+P2	Akatuma ebisorobye kutanga etoko eyeka neruga mukayanja akataita akakaba kali mule baitu batasobale kutanga etoko.
+P3	enjojo yayeheyo kutanga entoko. enjojo bagisin kukora nka omulinzi.
+P4	Ekiro etoko obuyatandikire enjojo yatandika kwita. Ekiro ekyayongireho nukwo yakazire.
+P5	Hanyuma ya wiki kurabaho, Omukama Ntale akasemererwa habwokuba enjojo ekaba etanga etoko.
+P6	Hanyuma yomwezi kurabaho bakarora ebihuka bingi mu famu yaba.
+P7	Omukama Ntale yagamba enjojo kwita ebikere kwija kulwa ebihuka.
+P8	Enjojo ekatuntura muno habwokuba ebikere byona akaba abisere. Yagamba "nganyira, nganyira ebikere byona nkabita.
+P9	Omukama Ntale yagamba Njojo nkakugamba kutanga etoko hatali kwita ebikere. Enjojo bagiteka munkomo.
+P10	Omukama yagambira ebisoro byona kuko eki ekyabagambire.
+
+images:
+
+illustrations/pages/8197.png
+illustrations/pages/17445.png
+illustrations/pages/17446.png
+illustrations/pages/17434.png
+illustrations/pages/17438.png
+illustrations/pages/17439.png
+illustrations/pages/17442.png
+illustrations/pages/17441.png
+illustrations/pages/17436.png
+illustrations/pages/17437.png
+illustrations/pages/17445.png
+
+translations:
+
+English (Original)	The Elephant and the Frogs	id=8204
+English (Adaptation)	(Colour-in) The Elephant and the Frogs	id=17443
+isiXhosa (Translation)	UNdlovu namasele	id=13376
+Kiswahili (Translation)	Ndovu na Vyura	id=9480
+Lumasaaba (Translation)	Inzofu ni bikyele	id=24118
+Lusoga (Translation)	Endhovu n'ebikere	id=24861
+Portuguese (Translation)	O Elefante E As Rãs	id=8238
+Xitswa (Translation)	N'wa Ndlovu Ni Makheli	id=9883

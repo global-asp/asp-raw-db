@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=28866&d=0&a=1
+id:	28866
+title:	Omwoleso gwe enviiri
+author:	Kyambogo  University and kiirya zephania
+artist:	Bronwen Heath
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/28866.png
+desc:	Kuno kuyolesa kwa nsiba ya nviiri mu kyalo kyange.
+
+page_text:
+
+P1	Babirye ali ne enviiri nnhimpi oti kaweke.
+P2	Nakato ali ne enviiri empanvu oti muguwa.
+P3	Nambi ali ne enviiri ennange oti dha kalogoyi.
+P4	Birungi ali ne enviiri ensibe oti bukuubo.
+P5	Musa ali ne ekirevu oti kya mbuzi nnume.
+P6	Nakato asunswire enviiri dhe oti mupiira.
+P7	Kato asaze ku nviiri dhe oti bimuli bisalire.
+P8	Kapere amweeire ku mutwe enviiri dhe dhonadhoona.
+
+images:
+
+illustrations/pages/1745.png
+illustrations/pages/1211.png
+illustrations/pages/1212.png
+illustrations/pages/1213.png
+illustrations/pages/1214.png
+illustrations/pages/1215.png
+illustrations/pages/1216.png
+illustrations/pages/1217.png
+illustrations/pages/1218.png
+
+translations:
+
+Afrikaans (Translation)	Hare	id=11318
+Amharic (Translation)	የፀጉር ምርጫዎቻችን	id=21177
+Arabic (Translation)	الشعر	id=21851
+Aringati (Translation)	Ĩzĩnũwélẽ Drị̃ꞌbị́	id=8359
+Ateso (Translation)	Itima	id=3079
+English (Original)	Hair	id=1746
+English (Adaptation)	Different People  With Different Hair	id=12686
+Kikamba (Translation)	Nzwĩĩ	id=1963
+Luganda (Translation)	Enviri	id=1962
+Luganda (Translation)	Enviiri	id=9339
+Lugbarati (Translation)	Dri'bi	id=2809
+Lumasaaba (Translation)	Litsuune	id=1964
+Lunyole (Translation)	Efiiri	id=3073
+Lusoga (Translation)	Nviiri	id=2810
+Lusoga (Translation)	Enviiri	id=26673
+Lusoga (Translation)	Misonho dha nviiri	id=27265
+Maa (Translation)	Ilpápít	id=2743
+Ng’aturkana (Translation)	Ng’Itim	id=2812
+Oluwanga (Translation)	Liswi	id=3075
+Sabinyi (Translation)	Puteek	id=3076
+Setswana (Translation)	Moriri	id=3081
+Tshivenda (Translation)	Mavhudzi	id=5965

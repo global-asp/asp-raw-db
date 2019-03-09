@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=26090&d=0&a=1
+id:	26090
+title:	Eitaka erizira bantu bakaire
+author:	Charles Eramaga and Kyambogo  University
+artist:	Little Zebra Books and Laura Libertore
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26090.png
+desc:	Mu bughangwa kamaala
+
+page_text:
+
+P1	Lulala kyatuka wo ku kyalo nga eikukubira lya bavubuka lya salawo okwita abantu abakaire ati balekere okukola eirogo.
+P2	Aye omuvubuka mulala ya lumusa wo bbaabba ghe ya  mukweka mu idhungu.
+P3	Bwe yali amaze okukikola, ekibinda kya bavubuka kyatandika okwita abakaire.
+P4	Awo mu kaseera ako omusota gwaidha ku kyalo nga guva mu idhungu. Omusota gwaingira mu mabunda go omwana omuto.
+P5	Omusota gwasigala nga gufulumya ngayo omutwe gwagwo mukanhwa ko omwana.
+P6	Abazaire bo omwana na abantu abandi bagezaku buli kisoboka okumalawo obuzibu. Aye ba bona nga okwita omusota kitegeeza nti no mwana aitibwa.
+P7	Awo niini omuvubuka eyali akwese bbaabba ghe yaja ya mukobera buli kintu ekibairewo. Era omuzeeyi yamukoba ati,"Ekyo ne kikasinzoyo bwangu ku kola ku."
+P8	Omuzeeyi yakoba mutabe,"Ja ononie e Ikere era olitaawo okumpi no omusota. Oidha ku bona nga omusota guvaayo mu mabunda go omwana okwidha ogema e Ikere. Omuvubuka ya kola ekyo mu bwangu lata ghe kye yamukoba. Era omusota gwavaayo gwatandiika okubinga e Ikere.
+
+images:
+
+illustrations/pages/6802.png
+illustrations/pages/6792.png
+illustrations/pages/6793.png
+illustrations/pages/6794.png
+illustrations/pages/6795.png
+illustrations/pages/6796.png
+illustrations/pages/6797.png
+illustrations/pages/6798.png
+illustrations/pages/6800.png
+
+translations:
+
+Chinyungwe (Original)	Maswaka Yadapha Nkhalamba Zentsene	id=7224
+English (Translation)	Land of No Old People	id=7225
+Runyoro (Translation)	Ensi etari'yabantu abakuru	id=23629

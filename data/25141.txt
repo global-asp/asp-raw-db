@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=25141&d=0&a=1
+id:	25141
+title:	Mughalikwa oweighali
+author:	Alice Gonza and Kyambogo  University
+artist:	Jacob Kono
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25141.png
+desc:	Omukazi oweighali afuba okulemesa mughalikwawe aye ankomenkereza nga ali kugonza bulamu bwa boona boona.
+
+page_text:
+
+P1	Ghaliiyo abeighali babiri. Baali basula mu kasisira kalala ni iba ibwe.
+P2	Baamala ekiseera kiwanvu nga tibazaala. Oluvainhuma, mukyala mukula yatoola amabunda. Yazaalira mukiseera nga iba azirawo.
+P3	Omukazi owokubiri yawulira bubi ku Nakaweere no omwana. yatandhiika okuloghooza ku ngeri eyokwita mughalikwawe yeirize omwami.
+P4	Ebiseera ebyo, abantu baali tibafumba mmere. Nga balya mbisi.
+P5	Omukazi owokubiri yaakoba, "Nda kufumba emere muwe obutwa". "Yali aikiriza nti emere enfumbe esobola okwita omuntu."
+P6	Yafumbira mughalikwawe emere okumala enaku ningi. Mukifo ekyokufa, omukazi yanhiriranga bunhirire olwa emere enfumbe.
+P7	Omwami bweyaira, yayagaana omwana, ni mukaziwe omubelye nga aboneka bulungi era nga ni emere enfumbe.
+P8	Ekintu ekyokufumba emmere kyeghunisa inho omwami era yaabuuza, "Naani eyakwegesa okufumba!" Omukazi omuto yakuba iba akaama, "Ndi kufumba mpe mughalikwa ghange obutwa."
+P9	"Mpulira eighali kuba ali no omwana ate nga nze nzira. Ndoghooza nti oidha kuminga."
+P10	Omusaadha yaniiga era yaamulabula, "Lekera agho okuloghooza obubi."
+P11	Omwami yayeta bakazibe yaabatabagania.
+P12	Bombi baasalawo okufumba emere kuba yababonesanga bulungi. Eyo nengeri emere yeyatandiikibwamu okufumbibwa.
+
+images:
+
+illustrations/pages/25521.png
+illustrations/pages/25510.png
+illustrations/pages/25511.png
+illustrations/pages/25512.png
+illustrations/pages/25513.png
+illustrations/pages/25514.png
+illustrations/pages/25515.png
+illustrations/pages/25516.png
+illustrations/pages/25517.png
+illustrations/pages/25518.png
+illustrations/pages/25519.png
+illustrations/pages/25520.png
+illustrations/pages/25521.png
+
+translations:
+
+English (Original)	Jealous co-wife	id=21749
+Kiswahili (Translation)	Mke-mwenza mwenye wivu	id=22079
+Ng’aturkana (Translation)	Aberu Nakading'an	id=21751
+Oluwanga (Translation)	Mwalikhwa weshikhalikhali	id=22765

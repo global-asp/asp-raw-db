@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=25818&d=0&a=1
+id:	25818
+title:	Olufumo  olw'omuliro
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25818.png
+desc:	Omulilo gweyogerera olufumo lwagwo. (luno luva mumutendera ogusooka mubitabo ebyenfumo kumayengo gano agomutimbagano ogwetebwa
+
+page_text:
+
+P1	Leka nkukobere olufumo lwange. Ntandiika  nga  okubbubbuka okutono.
+P2	Nnumukira  munsiko  empegho bwentwala.
+P3	Tuli  baamukwano  nze  ni iwe.
+P4	Nkufumbira emere.
+P5	Nkumuliikirira  obwire.
+P6	Ndi  n'obukodyo  kamaala.
+P7	Ndi  kitundu  ku kumakaago.
+P8	Aye  ba mwegendereza  bwonsangaaza   mu makaago.   tyenda  kungayaalirira.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166

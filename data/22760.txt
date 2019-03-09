@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=22760&d=0&a=1
+id:	22760
+title:	Umugabo n'Intare
+author:	Julius  Bazanyamaso
+artist:	Hélder de Paz Alexandre
+lang:	Rufumbira
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22760.png
+desc:	Uko umuntu yakize urupfu. Ntabwo yariwe nIntare.
+
+page_text:
+
+P1	Umunsi umwe umuntu yari agendagenda mu ishyamba nuko ahita ahura n'Intare.
+P2	Intare yari irimo iruhukiye mubyatsi bigufi.
+P3	Guhura kwabo kwali gutunguranye chane kuburyo umuntu yabuze icyo akora. Yari afite ubwoba bwinshi.
+P4	Intare nayo yabanje gutungurwa, nayo ifitemo ubwoba. Mugifu chayo humvikanagamo urusaku rutoruto. Kuberako yari ishonje.
+P5	Nuko umuntu yisanga mugiti mukanya bwanya. Atangira kuvugiriza induru intare.
+P6	Intare iryama munsi y'igiti, itegereje ibilyo byayo. Uko igihe chagendaga ninako Intare yagendaga isinzira changwa isa n'isinzira.
+P7	Hashize igihe gito umuntu arasinzira. Nuko arongera arakanguka. Nuko agezeho asinzirira kimwe.
+P8	Nuko amanuka mugiti agwa ku Ntare yari isinziriye!
+P9	Bose (umuntu n'intare) bahagurutseho bafite ubwoba. Intare yibagiwe ibilyo byayo ihungisha amagara.
+P10	Umuntu nawe yirutse agana mucerekezo kimwe n'Intare. Nuko aza kubona ko  yirukaga inyuma y'Intare.
+P11	Nuko ahindura icerekezo arakira. Ntabwo yariwe n'Intare.
+
+images:
+
+illustrations/pages/8180.png
+illustrations/pages/8180.png
+illustrations/pages/8181.png
+illustrations/pages/8182.png
+illustrations/pages/8184.png
+illustrations/pages/8188.png
+illustrations/pages/8189.png
+illustrations/pages/8190.png
+illustrations/pages/8191.png
+illustrations/pages/8192.png
+illustrations/pages/8193.png
+illustrations/pages/8194.png
+
+translations:
+
+English (Original)	Man and Lion	id=8205
+English (Adaptation)	(Colour-in) Man and Lion	id=17392
+English (Adaptation)	Manu and the Lion	id=18332
+Kiswahili (Translation)	Mtu na Simba	id=12689
+Luganda (Translation)	Omusajja N'empologoma	id=10708
+Lusoga (Translation)	Kambe ni zaakayo omuzizigavu	id=25188
+Lusoga (Translation)	Omusaadha aghona Mpologoma	id=25191
+Lusoga (Translation)	Omusaadha n'empologoma	id=30423
+Portuguese (Translation)	O Homem E O Leão	id=8207
+Xitswa (Translation)	A Wanuna Ni Nghonyamu	id=8729

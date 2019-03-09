@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=24655&d=0&a=1
+id:	24655
+title:	Xamarina ǃgôas
+author:	Mattheus  Goraseb
+artist:	Rob Owen
+lang:	Khoekhoegowab
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24655.png
+desc:	Hoara xamarin ge a ǁgâsa. ǁGaman karao
+
+page_text:
+
+P1	ǀGui ǂkhoab ge ǁgama garu.
+P2	ǀGam ǃgaroǃnai kha ge ǁgama garu.
+P3	ǃNona ǃgarogomagu tsî haka anin on ge ǁgama garu.
+P4	Koro ǃkhaupirin tsî ǃnani dirigu on ge ǁgama garu.
+P5	Hû ǃgoren ge ǁgama garu.
+P6	ǁKhaisa ǁgôadi tsî khoese ǁaun on ra tsâ.
+P7	ǁGâ ra xammi on ra ā ǂgao.  Hame nē xamma ra ǃao.
+P8	ǀGui ǂkhoab ge xammi ǀkha ra ǀhûbe ā.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9652.png
+illustrations/pages/9647.png
+illustrations/pages/9644.png
+illustrations/pages/9646.png
+illustrations/pages/9650.png
+illustrations/pages/9645.png
+illustrations/pages/9651.png
+illustrations/pages/9648.png
+
+translations:
+
+Afrikaans (Translation)	Tel Die Diere	id=10448
+Afrikaans (Translation)	Tel Die Diere	id=11413
+Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Amharic (Translation)	እንሰሳትን እንቁጠር	id=21302
+Arabic (Translation)	لنعد الحيوانات	id=21880
+Asante Twi (Translation)	Mmoa Akenkan	id=18219
+Dagaare (Translation)	Donne Sɔrebo	id=17769
+Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
+Dangme (Translation)	Lohwehi Kanemi	id=18297
+English (Original)	Counting animals	id=9671
+Ewe (Translation)	Lãwo Xexlẽ	id=18179
+Fante (Translation)	Mbowadoma Nkanee	id=18487
+French (Translation)	Compter Les Animaux	id=12654
+Ga (Translation)	Kooloi Kanemɔ	id=18287
+Gonja (Translation)	Asɔbɔaya Be Ke Karga	id=18173
+Hausa (Nigeria) (Translation)	Dabbobin Daji Cikin Alƙaluman Ƙidaya	id=20516
+Kasem (Translation)	Vara Garem	id=18208
+Kinyarwanda (Translation)	Kubara Inyamaswa	id=20220
+Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
+Lámnsoʼ (Translation)	Á táŋ nyám si	id=15064
+Luganda (Translation)	Ohubala Ebisolo	id=11905
+Lunyole (Adaptation)	Okubala Ebisolo	id=16664
+Lusoga (Translation)	Okubala Ebisolo	id=22712
+Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
+Nzema (Translation)	Nane Edianlɛ	id=18423
+Oluwanga (Translation)	Okhubala Tsisolo	id=19590
+Oshikwanyama (Translation)	Oku valula oinamwenyo	id=24127
+Oshindonga (Translation)	Okuyalula iinamwenyo	id=23883
+Otjiherero (Translation)	Okuvara ovinamunjo	id=24169
+Portuguese (Translation)	Contando Os Animais	id=16562
+Runyankore (Translation)	Okubara Ebinyamiiswa	id=21333
+Setswana (Translation)	Palo ya Diphologolo	id=22009
+Tunisian (Translation)	Ħisbēn L-Ħayewēnēt	id=15389
+Yoruba (Translation)	Kíka Àwọn Ẹranko	id=16554

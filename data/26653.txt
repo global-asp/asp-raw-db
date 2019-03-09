@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=26653&d=0&a=1
+id:	26653
+title:	Nteekateeka  okuba  Kyabazinga
+author:	Kyambogo  University and Richard  Seege
+artist:	Thea Nicole de Klerk
+lang:	Lusoga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26653.png
+desc:	Olufumo luno lugema ku muntu alikuloota okuba Kyabazinga era nobulamu obunairirira nga afuuse kyabazinga.
+
+page_text:
+
+P1	Mukitiibwa  ni  mubuyinza
+P2	Mulangi  enhingi  oti mooya  ga  nnhonhi  muzinge
+P3	Nsitula ekifaganda eky'ebimuli
+P4	Ndha  kwenda  inho  okubona
+P5	Nga  amooya  ageewuuba  mu  kawewo akekimpoghooze.
+P6	Nteekateeka okulaga  engeri  Kyabazinga ow'ekitiibwa byabaamu.
+P7	Nteekateeka  okuba  Kyabazinga
+
+images:
+
+illustrations/pages/16780.png
+illustrations/pages/17351.png
+illustrations/pages/17336.png
+illustrations/pages/19249.png
+illustrations/pages/8805.png
+illustrations/pages/8806.png
+illustrations/pages/17341.png
+illustrations/pages/17724.png
+
+translations:
+
+English (Original)	I plan to be a king	id=21967
+Rukiga (Translation)	Ninyenda okuba omugabe	id=21973

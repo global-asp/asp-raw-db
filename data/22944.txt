@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=22944&d=0&a=1
+id:	22944
+title:	Ebinazzi Birungi
+author:	Florence  Nakacwa
+artist:	Rob Owen
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22944.png
+desc:	Okuva ewomukulu Kawooya nga tusomesa kumitti gyebinazzi.
+
+page_text:
+
+P1	Kankubuliire ku mitti gy'ebinazzi.
+P2	Gunno omuti guberawo
+  ng'abuli kimu kikaze.
+P3	Ekisikirize ekiva kumutti
+  gw’ebinazzi kibera kikakamu.
+P4	Tulya ebibala okuva
+  kumitti gwebinazzi.
+P5	Tukozesa ebikola by’ebinazzi
+  okubika enyumba zaffe.
+P6	Tukola enjeyo n’emikeeka
+  okuva mubikoola by’ebinazzi.
+P7	Tukozesa ensigo z’emitti
+  gy’ebinazzi nga mafuuta.
+P8	Okilabye lwaki emitti
+  gy’ebinazzi jamugaso?
+
+images:
+
+illustrations/pages/9607.png
+illustrations/pages/9604.png
+illustrations/pages/9605.png
+illustrations/pages/9606.png
+illustrations/pages/9607.png
+illustrations/pages/9608.png
+illustrations/pages/9609.png
+illustrations/pages/9610.png
+illustrations/pages/9611.png
+
+translations:
+
+English (Translation)	Palm tree	id=13626
+Kiswahili (Translation)	Umuhimu wa Mtende	id=15864
+Kiswahili (Adaptation)	Mtende	id=19363
+Kiswahili (Adaptation)	Mtende	id=19364
+Lusoga (Translation)	Omuti gwo omunaazi	id=25629
+Lusoga (Translation)	Omuti omunaazi	id=26766
+Ng’aturkana (Original)	Eking’Ol	id=13625
+TjiKalanga (Translation)	Nti Wemalala	id=21681

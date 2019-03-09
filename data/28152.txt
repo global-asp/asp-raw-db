@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=28152&d=0&a=1
+id:	28152
+title:	Mukyala Luba mutunzi  wa kyalaani
+author:	Rebecca Ndhibogeza
+artist:	Alice Toich, Catherine Groenewald, Jano Strydom, Marleen Visser, Silva Afonso, Vusi Malindi and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28152.png
+desc:	Emboozi eno etukobera ku mutunzi atunga engoye enhungi ku kyalo.
+
+page_text:
+
+P1	Omukazi ono ni Mukyala Luba. Aviira ku kyalo Kakuuto.
+P2	Ali ni ekyalaani ekitunga engoye. Akikozesa okutunga engoye mu misono egy'endhawulo.
+P3	Atunga engoye edhe endhawulo.
+P4	Atunga eyunifoomu edh'amasomero edha gule ni endheru edha abaghala ni abalenzi.
+P5	Akola yunifoomu dha bblulu ni langi edhindi.
+P6	Atunga ovolo edh'abafumbi.
+P7	Omwamighe amuyamba okupima n'okusalamu emitendera.
+P8	Atunga engoye edha buliidho edh'okutambulamu.
+P9	Atunga obugoye obw'aghaigulu, ebirinda n'empale edh'emigulu emimpi.
+P10	Atunga n'engoye edh'abagole.
+
+images:
+
+illustrations/pages/10330.png
+illustrations/pages/15714.png
+illustrations/pages/14466.png
+illustrations/pages/14699.png
+illustrations/pages/11676.png
+illustrations/pages/15728.png
+illustrations/pages/15727.png
+illustrations/pages/14052.png
+illustrations/pages/8945.png
+illustrations/pages/926.png
+illustrations/pages/9071.png
+
+translations:
+
+English (Original)	Mrs Rubandama the tailor	id=16193
+Lusoga (Translation)	Mukyala lubandi omutunzi ghengoye	id=27131

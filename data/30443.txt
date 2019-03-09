@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=30443&d=0&a=1
+id:	30443
+title:	Abantu n'emirimo gyeibwe
+author:	Antony Kisambira and Kyambogo  University
+artist:	Wiehan de Jager, Jesse Pietersen, Jonathan Field, Jesse Breytenbach and Vusi Malindi
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30443.png
+desc:	Olufumo olumpimpi olwandhulira abaana abantu abali mukitundhu.
+
+page_text:
+
+P1	onho nimusomesa Lucia.
+P2	onho ni musomesa Rakeli, alini abaana.
+P3	Abaana beendhe inho musomesa Rakeli.
+P4	onho mulimi.
+P5	Alikusimba nsigo.
+P6	onho musawo.
+P7	Aidhandhaba bantu balwaire.
+P8	Onho mubulizi. ebiseera ebindhi abulira abantu.
+
+images:
+
+illustrations/pages/10419.png
+illustrations/pages/8516.png
+illustrations/pages/9354.png
+illustrations/pages/9372.png
+illustrations/pages/8999.png
+illustrations/pages/9005.png
+illustrations/pages/10277.png
+illustrations/pages/9079.png
+illustrations/pages/1192.png
+
+translations:
+
+English (Original)	Abandu Nende Emirimo Chiabwe / People and Their Work	id=14093

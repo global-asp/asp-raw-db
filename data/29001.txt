@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=29001&d=0&a=1
+id:	29001
+title:	Kiseera kya lughuumula
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Catherine Groenewald, Wiehan de Jager, Sue Kramer, Kathy Arbuckle and Rijuta Ghate
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29001.png
+desc:	Olufumo luno luyogera ku kiseera kya lughuumula ne ngeri ye kyeyagazaamu abaghuumuze.
+
+page_text:
+
+P1	Kiba  kiseera  kya kuzaanha.
+P2	Kiseera  kya kughuumula  na kukozesa  bwongo.
+P3	Kiseera  kya kusoma  nfumo  na kughulirisa  laadiyo.
+P4	Kiseera  kya kukyalira  mikwano  jaife  na abenganda  dhaife.
+P5	Kiseera  kya kuja  ku  mbalama, kulyaka  ku bulamu.
+P6	Kiseera  kya bubaga  bwa  mazalibwa.
+P7	Kiseera  kya  kutyama  mu bimuli  ghaka  nga  tweyagala.
+P8	Hah! kiseera  ki  ekinhuma  nga  kino?
+P9	Ani  atayenda  kiseera kya lughuumula?
+
+images:
+
+illustrations/pages/1203.png
+illustrations/pages/1715.png
+illustrations/pages/6000.png
+illustrations/pages/6089.png
+illustrations/pages/925.png
+illustrations/pages/1195.png
+illustrations/pages/940.png
+illustrations/pages/320.png
+illustrations/pages/2444.png
+
+translations:
+
+Luganda (Original)	Ekiseera Ky'oluwumula	id=7788

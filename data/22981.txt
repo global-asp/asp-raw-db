@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=22981&d=0&a=1
+id:	22981
+title:	okuzina
+author:	Racheal Akena
+artist:	Catherine Groenewald
+lang:	Rukiga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22981.png
+desc:	A kwivuga neya muhara nakunda okuzina. Omusomesa ni bi mutma konka mama wokumuhara imem.
+
+page_text:
+
+P1	Okuzina Omukushemelerwa hamwe nomunaku
+P2	Omushomesya akagira gu" ninzina izoba dyona kandi tikilamushemeza".
+P3	Mama akangambila gu" okuzina kolaletela omubili kuba gye, kandi ndaba molingwa."
+P4	Izoba Limwe dya zina kandi abantu badylija kushashula kundeba ndikuzina, ndi nokuguruka.
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+French (Translation)	La Danse	id=24817
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Luganda (Translation)	Okuzina	id=22960
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lumasaaba (Translation)	Kuchina	id=20932
+Lusoga (Translation)	Okukina	id=24942
+Portuguese (Translation)	Dançando	id=12173
+Rufumbira (Translation)	Kubyina	id=22758
+Setswana (Translation)	Mokibo	id=2695

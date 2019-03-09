@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=24654&d=0&a=1
+id:	24654
+title:	Twiga
+author:	Tumanye Clinton
+artist:	Gay Galsworthy, Amir Bachir António Necas and Rob Owen
+lang:	Swahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24654.png
+desc:	Hadithi zote kuhusu jinsi shingo ya twiga likawa muda mrefu.
+
+page_text:
+
+P1	Tafadhali tafadhali Tafadhali! Nitawaambia wazazi wangu nini? Tiga na tembo waliishi kuishi pamoja katika msitu wa mianzi kama marafiki wazuri. Wote wawili walizaa watoto wao.
+P2	Msitu wa Bamboo ulikuwa nyumba ya wanyama wote wa mwitu na wote waliishi kwa amani. Wanyama wote walitumia kula katika misitu ya kijani ya mianzi.
+P3	Twiga kidogo na tembo ndogo ilipitia kina msitu kutafuta chakula. Chakula chao kilichopendezwa kilikuwa asali
+P4	Siku moja wakati wa msitu, tembo ndogo iliangalia mbinguni na kuona wingu nyeupe. Alidhani ilikuwa ni asali na akaanza kupiga. Alimwomba rafiki yake jinsi ya kupata hiyo.
+P5	Baada ya muda, kidogo hupata suluhisho. Alimwambia rafiki yake kupanda juu ya mti ili afikie asali hiyo. Twiga mdogo alikubali.
+P6	Baada ya twiga kidogo ilipanda juu ya mti, hakuweza kufika mbinguni. Kwa hiyo tembo kidogo, aliamua kupanda mti mwingine ili apate kuvuta masikio kidogo ya twiga.
+P7	Baada ya mapambano hayo yote, twiga kidogo iligundua kwamba shingo yake ilikuwa ya muda mrefu kuliko kawaida. Kisha akaanza kulia kwa msaada, tafadhali! Tafadhali! Msaada.
+P8	Uhusiano wao ulikoma huko na kila mtu aliamua kuchukua njia yake mwenyewe ndani ya msitu. Ndiyo maana twiga ina shingo ndefu hadi sasa.
+P9	Mwisho.
+
+images:
+
+illustrations/pages/9647.png
+illustrations/pages/9647.png
+illustrations/pages/9651.png
+illustrations/pages/8196.png
+illustrations/pages/8196.png
+illustrations/pages/8198.png
+illustrations/pages/2244.png
+illustrations/pages/2238.png
+illustrations/pages/2240.png
+illustrations/pages/1316.png
+
+translations:
+
+English (Original)	The Giraffe	id=13982
+Lusoga (Translation)	Entwiga	id=27766

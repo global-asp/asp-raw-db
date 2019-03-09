@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24387&d=0&a=1
+id:	24387
+title:	The life of a girl
+author:	DAPHINE NATUKWASA
+artist:	Melany Pietersen, Wiehan de Jager, Vusi Malindi and Kathy Arbuckle
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24387.png
+desc:	The girl helps the mother on house chores
+
+page_text:
+
+P1	Girls do the work at home while boys are sited
+P2	They fetch water,fetch firewood while boys are playing football
+P3	They cook food for the whole family,wash utensils and serve food.
+P4	They sweep the compound,wash clothes and make sure the home is clean.
+P5	They help go to gardens to help the mothers on digging.
+P6	Sometimes girls are denied going to school.
+
+images:
+
+illustrations/pages/7518.png
+illustrations/pages/1307.png
+illustrations/pages/1197.png
+illustrations/pages/10766.png
+illustrations/pages/9485.png
+illustrations/pages/19455.png
+illustrations/pages/8025.png
+
+translations:
+
+Lusoga (Translation)	Obulamu obw'omuguna	id=25216
+Rukiga (Translation)	Oburamu bwo'mwischi	id=24399

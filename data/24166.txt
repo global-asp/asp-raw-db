@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=24166&d=0&a=1
+id:	24166
+title:	Otjihambarere tja Muriro
+author:	Auhe  Tjaveondja
+artist:	Rob Owen
+lang:	Otjiherero
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24166.png
+desc:	Omuriro mauhungire otjihambarere tjayo omuni.
+
+page_text:
+
+P1	Indjo mbiku zerekarere ohunga naami. Mbiuta otja ombande.
+P2	Mbitupuka akuhe ombepo tjije ndji tora.
+P3	Ouete omapanga omaua, ami naove.
+P4	Mbizika ovikurja vyoje.
+P5	Mbijeta ondjerera kongurova yoje.
+P6	Mbitjita ovihimise ovingi.
+P7	Ami umwe uomuhoko woye.
+P8	Pizija tjjevera tji uendji nanga po jenu. Ami hivanga okuiziua erike.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881

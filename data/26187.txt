@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=26187&d=0&a=1
+id:	26187
+title:	Isimu lya Maama
+author:	Ibrahim  Isabirye and Kyambogo  University
+artist:	Ingrid Schechter, Sandy Lightly and Venolin Keanan Govender
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26187.png
+desc:	Eno ne embozi egema ku mughala ne isimu lya maama we.
+
+page_text:
+
+P1	Nazukuka mangu ino okwetegekera e isomero.
+P2	Maama yali muniivu. Nali mugayaavu mu kuvaala.
+P3	Nalya enkyenkyo kyange mangu mangu.
+P4	Nayagana mikwano gyange ku isomero.
+P5	Naigula ekisawo kyange ekye isomero. Maamanze! Nkali ne Isimu lya maama! Naliiza mu kisawo.
+P6	Kiseera kya kuja ka. Nalinga mu kisawo kyange ekye isomero. Maamanze! E isimu lya maama lyali lizira mu kisawo kyange.
+P7	Natandiika okulira. Omusomesa yabuuza, "Buzibu ki?" Tyasobola kwo gera. Neebwika mu maiso ne mikono gyange.
+P8	Oluvainhuma, nakoba, "E isimu lya maama libuze." Omusomesa yeewuunia. Twa tandiika okunoonia e isimu.
+P9	Nakinhira mu kibiina. "Weebale weebale omusomesa!"
+P10	Nata e isimu lya maama mu Kisawo kyange ekye isomero. Naakoba, "Tikairamu kuzanisa isimu lya maama."
+
+images:
+
+illustrations/pages/14458.png
+illustrations/pages/10614.png
+illustrations/pages/2289.png
+illustrations/pages/13743.png
+illustrations/pages/13845.png
+illustrations/pages/13850.png
+illustrations/pages/13840.png
+illustrations/pages/13842.png
+illustrations/pages/14458.png
+illustrations/pages/14059.png
+illustrations/pages/14458.png
+
+translations:
+
+English (Original)	Mother's phone	id=15204
+Kinyarwanda (Translation)	Telefoni Ya Mama	id=21046
+Runyoro (Translation)	Esimu Y'mama	id=20646

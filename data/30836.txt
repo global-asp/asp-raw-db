@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=30836&d=0&a=1
+id:	30836
+title:	Namukwaya
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Wiehan de Jager
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30836.png
+desc:	Olugero lwomusaadha eyatiisa mukazi ghe okumwita olwokuzaala abaana abaghala.
+
+page_text:
+
+P1	Eira  einho  ku kyalo  Idoome  ghaaliwo  omusaadha  gwebaali  beeta  kasaadha  nga  mukazi  ghe  ni  Namukwaya. Baali  n'abaana  mukaaga  nga  boona boona  baghala.
+P2	Namukwaya  bweyali amabunda  ag'omusanvu, kasaadha  yaamulabula  ati  nika mutanda  naazaala  omwana  nga  mughala   eidha  kumubona.
+P3	Ekiseera  ekyokuzaala  bwekyatuuka, Namukwaya  yaaja  okuzaala. Yaabuuza  oba  omwana  anaaba  mulenzi  oba  mughala.
+P4	Omwana  yali  mulenzi  na  mughala  nga  balongo.
+P5	Agho Namukwaya  yaaleka  omwana  oghundi  eyali  omughala  ogh'omuzaalisa  yaaja n'omulenzi.
+P6	Omwana  omulenzi  yakula  nga  musaadha  muleeyi, n'omughala  yaakula  nga  mulungi.
+P7	Abaana bombi  baali  nga  baagayaga   era  nga  balungi   inho.
+P8	Lwali  lulala  omulenzi  nga  ali  kwaya  ente  yaayagaana  omughala  omulungi  yakoba  ati  oyo  gwaja  okubayiza.
+P9	Aye  bweyamukoba  okumubayiza  omughala  yaamwembera  akembo ati, "Kadiidi  nga  olimba kadiidi. Baatuzaala  babiri kadiidi.
+P10	Omulenzi  kadiidi  yaasoberwa nga  tali  kumanha  kyakukola.
+P11	Ekyamweghuunhisa  ni  maama  ghe  Namukwaya  kumukoba  ati,  "oyo  omughala  kyalikukoba   kituufu."
+P12	Kadiidi  bweyakoberaku  bbaabba  ghe,  Bbaabba ghe  yaabona  nga  yakola  ensobi  era  yaakoba  mukazighe  Namukwaya  baje  banone  omughala  Nambi  eghomuzaalisa.
+P13	Nambi  bweyatuuka  ghaka Bbaabba ghe  yaayeta  abataka  ab'ekyalo  baasala  ente, embuzi, n'enkoko  baakola  omukolo  ogwekinhansi  omunhenh  einho.
+P14	Ghaabitagho  entangama   ntono  eti  Nambi  yaafumbirwa  mutabanhe  w'omugaiga  kukyalo  era  baakola  omukolo  mubitirivu  kyatogota  nga ti  kisandikire.
+
+images:
+
+illustrations/pages/5807.png
+illustrations/pages/5806.png
+illustrations/pages/5807.png
+illustrations/pages/5808.png
+illustrations/pages/5809.png
+illustrations/pages/5810.png
+illustrations/pages/5812.png
+illustrations/pages/5813.png
+illustrations/pages/5814.png
+illustrations/pages/5815.png
+illustrations/pages/5817.png
+illustrations/pages/5818.png
+illustrations/pages/5820.png
+illustrations/pages/5822.png
+illustrations/pages/5824.png
+
+translations:
+
+Afrikaans (Translation)	Namukhaywa	id=11367
+English (Original)	Namukhaywa	id=5859
+French (Translation)	Namukhaywa	id=9961
+Fulfulde (Translation)	Namukhaywa	id=10024
+Hausa (Niger) (Translation)	Namukhaywa	id=9991
+Kanuri (Translation)	Fanna	id=10041
+Kiswahili (Translation)	Namukhaywa	id=7874
+Luganda (Translation)	Namukwaya	id=8312
+Lugbarati (Official) (Translation)	Àyákáká	id=8788
+Lumasaaba (Translation)	Mukhaye	id=8305
+Lunyole (Translation)	Namwima	id=8404
+Maa (Translation)	Namukhaywa	id=7875
+Ng’aturkana (Translation)	Namukhaywa	id=8457
+Setswana (Translation)	Dineo	id=7800
+Siswati (Translation)	Namukhaywa	id=13078
+Zarma (Translation)	Namukayya	id=10106

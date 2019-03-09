@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=24010&d=0&a=1
+id:	24010
+title:	empungu ne enkoko
+author:	fatuma naleba
+artist:	Mango Tree, Silva Afonso, Marleen Visser and Melany Pietersen
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24010.png
+desc:	Olugero lunyoyola rwaaki enkoko ebera na abantu ate rwaaki empungu elaya abaana be enkko.
+
+page_text:
+
+P1	olutuka empungu ne enkoko jali miwakono nfenfe mu bisera ebyobwetavu beyamba
+P2	ba zaaya bona,ba zaaya ne emisolo ga nfudu
+P3	baali balina ente endiga embuzi ne nengomiya nga nyinji baali bazilund mu bisubi nga we ba zaanya
+P4	olunaku lumu enkoko  ya  gends  neyewola ejirita ewa empungu
+P5	enkoko yamawa abaana bayo naye yelabila ejirita mu kitffo ekilungi
+P6	empungu ya ja okumchi ejirita ya, ga enkoko ate ji funa
+enkoko ya noya ne noya empungu na yiga netaki oku kalya aboona be koona
+P7	enkoko ya duka yo li omulawe ne genda ne bera na abantu perka na kati enkoko bera abantu ate empungu elaya abaana be enkoko
+
+images:
+
+illustrations/pages/13574.png
+illustrations/pages/13571.png
+illustrations/pages/13685.png
+illustrations/pages/13357.png
+illustrations/pages/13692.png
+illustrations/pages/13572.png
+illustrations/pages/13581.png
+illustrations/pages/13574.png
+
+translations:
+
+Acholi (Translation)	winyu ki gweno	id=24116
+English (Original)	Eagle and the Hen	id=13756
+Kinyarwanda (Uganda) (Translation)	igisiga n'inkoko	id=24060
+Lusoga (Translation)	Eikoli n'enkoko	id=26773

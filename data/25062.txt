@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=25062&d=0&a=1
+id:	25062
+title:	Ab'emikwano  Wampiti ni Wakayima
+author:	Kyambogo  University and Richard  Seege
+artist:	Rob Owen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25062.png
+desc:	Olufumo luno lutusomesa embeera edha bendagana.
+
+page_text:
+
+P1	Wakayima ni  Wampiti baali  bamukwano. Baasalawo  okulima embooli.
+P2	Bombiriri  baakola inho  munhimiro eyo.
+P3	Nga  bwebamala  okukola, bazaanira ghalala.
+P4	Aye nga  akaseera kabiseewo, Wampiti  yabinga  Wakayima! Wakayima nga  ayinza  okulumuka...!
+P5	Lwali lulala, Wakayima yaabuuza, "Bwoba  nga oli mukwano   gwange, lwaki ominganga otyo?
+P6	Agho  Wakayima  yaabuuza, "Aye  bwoba  nga  toli mukwano  gwange, lwaki tukolera aghalala era ni tuzaanira aghalala?"
+P7	Omukwano  n'gwo ogusigala  nga mukwano.
+
+images:
+
+illustrations/pages/8136.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8135.png
+illustrations/pages/8150.png
+illustrations/pages/8138.png
+illustrations/pages/8136.png
+illustrations/pages/8141.png
+
+translations:
+
+Dhopadhola (Translation)	mere pa ondyek kodi ochulu	id=23875
+English (Original)	Friendship Between Hyena and Hare	id=10563
+Kinyarwanda (Uganda) (Translation)	Ubushuti hagati ya bakame n' impyisi	id=23932
+Luganda (Translation)	Omukwano Gwa Wakayima Ne Wampisi.	id=12912
+Ma'di (Translation)	Ito ti moi To	id=24258
+Runyankore (Translation)	Omukago Ahagati ya Wakame nne Empisi	id=23934

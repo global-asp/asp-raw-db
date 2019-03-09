@@ -1,0 +1,67 @@
+url:	https://africanstorybook.org/reader.php?id=22911&d=0&a=1
+id:	22911
+title:	kate ali omwigulu
+author:	Akankwasa Jacky
+artist:	Rodney  Kawaayi
+lang:	Rukiga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22911.png
+desc:	Kate Namatovu yali bubi. Awulira obukoowu ne enyike. Yandikoze atye? 
+
+page_text:
+
+P1	Kate aine ekintu omumutwe. Nibaza kukyihamu bata.
+P2	Nikyimurisya. Nikyimusasa. Nikyimuletela yalemela.
+P3	Takalya.takanywa.tayine mashemererwa nka bulijo
+P4	Bambe.omukazi! omutwe nigumushasha.omushaho yagukyebera.
+P5	Omushawo yalebba ekizimba omumutwe.yamugambira ngu oyine ekizimba omubwogo.
+P6	Twine okukihamu omu mutwe hati. Twine okukihamu  hati! Omushaho nikwoyagizire.
+P7	Balete akagari.
+P8	Bateeleza obugirita.
+P9	Bamutela ebikato.
+P10	Bakashala omutwe gwa Kate.
+P11	Bakihamu obwongo.
+P12	Bashalamu ekizimba
+P13	Bagaluzamu obwongo omu kahanga. Babazira omutwe hamwe.
+P14	Kate nahurira byoona bibakukola? Ingaha! Kate ali omwigulu. Tayine kyakuhurira. Takalya. Taka tekateka. Eshaha abiiri nina.
+P15	Yahimbuka.
+P16	Hati aligye nka omwana owaruga kuzawra.
+P17	Twena tushemerirwe orwa Kate, owarozaho iguru.
+
+images:
+
+illustrations/pages/26149.png
+illustrations/pages/26134.png
+illustrations/pages/26135.png
+illustrations/pages/26136.png
+illustrations/pages/26137.png
+illustrations/pages/26138.png
+illustrations/pages/26139.png
+illustrations/pages/26140.png
+illustrations/pages/26141.png
+illustrations/pages/26142.png
+illustrations/pages/26143.png
+illustrations/pages/26144.png
+illustrations/pages/26145.png
+illustrations/pages/26146.png
+illustrations/pages/26147.png
+illustrations/pages/26148.png
+illustrations/pages/26149.png
+
+translations:
+
+English (Translation)	Kate is in heaven	id=22256
+English (Adaptation)	(Colour-in) Kate is in heaven	id=22559
+Kiswahili (Translation)	Kate yuko mbinguni	id=22468
+Luganda (Original)	Kasalina ali mu Ggulu	id=22255
+Luganda (Translation)	Kate ali mu Gulu	id=22878
+Luganda (Translation)	kate alimugulu	id=23040
+Lugwere (Translation)	O'Kate Alimwigulu	id=22903
+Lusoga (Translation)	Kasalina ali mwighulu	id=22694
+Lusoga (Translation)	Kasalina ali mwigulu	id=23806
+Lusoga (Translation)	Kasalina ali mwigulu	id=28564
+Runyankore (Translation)	Kate ari Omwiguru	id=22879
+Runyankore (Translation)	Kate ari omwiguru	id=23039
+Rutooro (Translation)	Kate ali mwuguru	id=22906
+Rutooro (Translation)	Kate ali mwigulu	id=22907

@@ -1,0 +1,77 @@
+url:	https://africanstorybook.org/reader.php?id=23806&d=0&a=1
+id:	23806
+title:	Kasalina ali mwigulu
+author:	Rebecca Masabe
+artist:	Rodney  Kawaayi
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23806.png
+desc:	Kasalina Namatovu ti yali bulungi. “Kumulongosa bwongo” ekyo omusawo kyeyakoba. Olowoza ki ekyatuka ku kasalina?
+
+page_text:
+
+P1	Kasalina alina oguntu mu mutwe gwe.
+  Baja kukitola mu batya?
+P2	Gumukoya
+  Gumuluma
+  Gwamuzitogheleza
+P3	Tasobola kulya. Tasobola kunwa.
+  Takali musanufu nga bweyalinga.
+P4	Bambi. Mukazi waitu! Omutwe gumuluma inho.
+P5	Omusawo abona a kizimba mu mutwe gwe yakoba
+  ati “ mulimu ekizimba mu bwongo bwo.”
+P6	“Tulina okitola mubwongo bwo buti. Tulina okitutolamu
+  buti!” omusawo atyo bwakoba.
+P7	Baleta akagali akabalwaile.
+P8	Bateleza obwambe bwebasalisa.
+P9	Bamukuba empiso.
+P10	Ba baaga omutwe gwa Kasalina ba gwigula.
+P11	Batolamu obwongo.
+P12	Basamu ekizimba.
+P13	Baizamu obwongo mu kaghanga.
+  Bamala batunga omutwe bagu gaita buyaka.
+P14	Aye Kasalina awulila bye balikola ghaile?
+  Mbe Kasalina alimwigulu. Taghulila.talya.
+  tanwa. Okumala esawa 24!
+P15	Yamala yailibwa!
+P16	Buti alibulungi. Alinga omwana eyakazalibwa.
+P17	Twenatwena tusanhukilaku mukwano ghaife
+  Kasalina, eya jaku mwigulu.
+
+images:
+
+illustrations/pages/26149.png
+illustrations/pages/26134.png
+illustrations/pages/26135.png
+illustrations/pages/26136.png
+illustrations/pages/26137.png
+illustrations/pages/26138.png
+illustrations/pages/26139.png
+illustrations/pages/26140.png
+illustrations/pages/26141.png
+illustrations/pages/26142.png
+illustrations/pages/26143.png
+illustrations/pages/26144.png
+illustrations/pages/26145.png
+illustrations/pages/26146.png
+illustrations/pages/26147.png
+illustrations/pages/26148.png
+illustrations/pages/26149.png
+
+translations:
+
+English (Translation)	Kate is in heaven	id=22256
+English (Adaptation)	(Colour-in) Kate is in heaven	id=22559
+Kiswahili (Translation)	Kate yuko mbinguni	id=22468
+Luganda (Original)	Kasalina ali mu Ggulu	id=22255
+Luganda (Translation)	Kate ali mu Gulu	id=22878
+Luganda (Translation)	kate alimugulu	id=23040
+Lugwere (Translation)	O'Kate Alimwigulu	id=22903
+Lusoga (Translation)	Kasalina ali mwighulu	id=22694
+Lusoga (Translation)	Kasalina ali mwigulu	id=28564
+Rukiga (Translation)	kate ali omwigulu	id=22911
+Runyankore (Translation)	Kate ari Omwiguru	id=22879
+Runyankore (Translation)	Kate ari omwiguru	id=23039
+Rutooro (Translation)	Kate ali mwuguru	id=22906
+Rutooro (Translation)	Kate ali mwigulu	id=22907

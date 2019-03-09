@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=26204&d=0&a=1
+id:	26204
+title:	Nakiranda ku isomero
+author:	Charles Eramaga and Kyambogo  University
+artist:	Genevieve Terblanche, Wiehan de Jager, Vusi Malindi and Karlien de Villiers
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26204.png
+desc:	Olufumo luno olunhuma lusikiriza era luwaga abazaire era na abana abasubira okutandiika eisomero.
+
+page_text:
+
+P1	Olwe Bbalaza olwabita, Nakiranda ya tandiika eisomero.
+P2	Ya ingira mu kibiina ekiyaaka era yayagaana emikwano emiyaaka.
+P3	Nakiranda ayenda inho ebifanaanie.
+P4	Bafuluma kuliya okwo ngera okwega.
+P5	Bayega amaloboozi ge nhuguta.
+P6	Bawumulamu oluvainhuma lwo ku soma ku. Nakiranda alambamu kumpi na musomesa.
+P7	Baja okulambuula nga basoma.
+P8	Nakiranda asoma ni maama ghe eka.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9364.png
+illustrations/pages/9372.png
+illustrations/pages/9377.png
+illustrations/pages/9354.png
+illustrations/pages/9367.png
+illustrations/pages/9375.png
+illustrations/pages/8854.png
+
+translations:
+
+English (Original)	Nakitto at School	id=9550
+French (Translation)	Nakitto À L'école.	id=9955
+Fulfulde (Translation)	Faati No Janngirde	id=10004
+Hausa (Niger) (Translation)	Nakitto A Makaranta	id=9973
+Kanuri (Translation)	Fusam Lokkolnin	id=10033
+Lusoga (Translation)	Nakiranda aja kutandiika ku isomero	id=27640
+Zarma (Translation)	Nakitto Furo Lokkol	id=10095

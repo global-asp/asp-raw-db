@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=25880&d=0&a=1
+id:	25880
+title:	Esoghera
+author:	Kyambogo  University and sheba Magabi
+artist:	Ethan Alberts, Wiehan de Jager, Rob Owen and Mango Tree
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25880.png
+desc:	Olugero lwogeera ku ngeri esoghera bweri ya bulabe.
+
+page_text:
+
+P1	esoghera biwuuka.
+P2	esoghera dheda okuba mubifo ebinaga.
+P3	Mu migwaana, mu biina  bye bikaba ni kumere
+P4	Esoghera dhiva mu bifo ebinaga paka mu maka gaife..
+P5	dhigwa ku mere yaife era dha ginagaghaza.
+P6	ole gha lya emere enaga, munda mu muluma.
+P7	Esoghera dha bulabe.
+
+images:
+
+illustrations/pages/5294.png
+illustrations/pages/5294.png
+illustrations/pages/5299.png
+illustrations/pages/5302.png
+illustrations/pages/13574.png
+illustrations/pages/5526.png
+illustrations/pages/13371.png
+illustrations/pages/5294.png
+
+translations:
+
+English (Adaptation)	Flies	id=13639
+isiZulu (Translation)	Impukane	id=7492
+Lunyole (Translation)	Esoŋera	id=12909
+Mampruli (Translation)	Zuaa	id=20168
+Ng’aturkana (Translation)	Ng'ichuch	id=20494
+Talen (Translation)	Zu'o		id=20174
+Xitsonga (Translation)	Nhongana	id=14381

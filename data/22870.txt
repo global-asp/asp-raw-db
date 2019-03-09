@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=22870&d=0&a=1
+id:	22870
+title:	We Are The Same
+author:	Edna Mawata
+artist:	Catherine Groenewald, Wiehan de Jager, Emily Berg and Mlungisi Dlamini
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22870.png
+desc:	Kakyo is excited to find out that she has a lot in common with her new friend Nankya and yet they come from different parts of Uganda.
+
+page_text:
+
+P1	Kakyo is a girl from Bududa in Eastern Uganda.
+P2	Today at school she made a new friend called Nankya.
+P3	Nankya is from Masaka in Central Uganda.
+P4	They realized they both like to play.
+P5	Both girls also like swimming.
+P6	Kakyo invited Nankya to her home to play and it became a daily routine.
+P7	They played together everyday.
+P8	They swam every weekend.
+P9	And their friendship lasted until they were older.
+
+images:
+
+illustrations/pages/8661.png
+illustrations/pages/8630.png
+illustrations/pages/19458.png
+illustrations/pages/1096.png
+illustrations/pages/1624.png
+illustrations/pages/1004.png
+illustrations/pages/19459.png
+illustrations/pages/8482.png
+illustrations/pages/9848.png
+illustrations/pages/19177.png
+
+translations:
+
+Lusoga (Translation)	Tuli kirala	id=29825
+Runyankore (Translation)	We are the same	id=24418

@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=26489&d=0&a=1
+id:	26489
+title:	Omwana eyalira
+author:	Kyambogo  University and Robert Kirunda
+artist:	Wiehan de Jager
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26489.png
+desc:	Olufumo olutali lwa bibono nga lugema kukulabirira akaana.
+
+page_text:
+
+P1	Omwana ali kubuliri nga ali kumoga.
+P2	Omwana atandiise okulirira ku kitanda kye.
+P3	Agho maama we yamutoolayo mubuliri yatandika okumugha ekyo kunwa mu nthupa. Aye era ali kuja mumaiso nokulira.
+P4	Maama we amutaire mu baafu aliku munaaza maadhi eno bwalira.
+P5	Maama we yamwizaayo mubuliri bwe. Aligezaku okumubuudabuuda alekere okulira. Aye adhemye okusirika.
+P6	Yamutoolayo mu buliriri ya muta kwibega asirike.Aligezaku okumukungutirira kwibega lye.
+P7	Ya mwizaayo kukitanda kye amutendhuse aye akaalira.
+P8	Nga ghabisegho akaseera omwana endoola dhamutoola gho. Maama we afunie ku mirembe era asoboire okumulabirira bukalamu inho. Ayemereire mwidhinisa ali mulabirira.
+
+images:
+
+illustrations/pages/10483.png
+illustrations/pages/10477.png
+illustrations/pages/10478.png
+illustrations/pages/10479.png
+illustrations/pages/10480.png
+illustrations/pages/10481.png
+illustrations/pages/10482.png
+illustrations/pages/10483.png
+illustrations/pages/10484.png
+
+translations:
+
+English (Original)	Baby who cried	id=10529
+Kiswahili (Adaptation)	What is wrong? / Kuna shida gani?	id=14814
+Lunyole (Translation)	Omwaana Agalira	id=13703
+Setswana (Translation)	Lesea Le Le Lelang	id=19856

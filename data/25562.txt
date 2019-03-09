@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=25562&d=0&a=1
+id:	25562
+title:	Pendo ente yaife
+author:	David  Bamukangwiire and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25562.png
+desc:	Olufumo olugema ku nte eyagonzebwanga einho.
+
+page_text:
+
+P1	Ono ni Ntalo.
+P2	Ntalo ayenda okusoma ebitabo.
+P3	Ono ni Pendo.
+P4	Pendo ayenda okulya kaloti.
+P5	Ntalo ayaya Pendo nga aize okuva ku isomero.
+P6	Agha Pendo amaadhi amayondho.
+P7	Bbaabba agha Pendo ebiduumaduuma.
+P8	Akama Pendo buliidho.
+P9	Pendo avaamu amata mangi.
+P10	Bbaabba atunda amata agava mu Pendo.
+P11	Ntalo anhwa amata amayondho buliidho.
+P12	Avulubana, "weekaza Pendo!"
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/11992.png
+illustrations/pages/7944.png
+illustrations/pages/11993.png
+illustrations/pages/7939.png
+illustrations/pages/11994.png
+illustrations/pages/7938.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+illustrations/pages/7941.png
+illustrations/pages/7943.png
+illustrations/pages/11997.png
+illustrations/pages/7945.png
+
+translations:
+
+Afrikaans (Translation)	Pendo, ons koei	id=20092
+English (Adaptation)	Pendo our cow	id=11991
+English (Adaptation)	Ndalo and Pendo – The best of friends	id=20299
+Hausa (Nigeria) (Translation)	Saniyar Mu Pendo	id=20507
+isiNdebele (Translation)	UNdalo noPendo – Abangani bamambala	id=20823
+isiNdebele (Translation)	UPendo ikomo yekhethu	id=21949
+isiZulu (Translation)	UBonga noNondlini wakwabo – Abangani abakhulu	id=20685
+Kinyarwanda (Translation)	Inka yacu Rukundo	id=22158
+Kiswahili (Original)	Ng'ombe wetu Pendo	id=8056
+Kiswahili (Translation)	Ndalo na Pendo – Marafiki wakubwa	id=22750
+Sesotho (South Africa) (Translation)	Kgomo eso Pendo	id=20043
+Sesotho (South Africa) (Translation)	Ndalo le Pendo – Metswalle ya sebele!	id=20834
+Siswati (Translation)	Thabo naJamludi	id=20775
+Siswati (Translation)	Pendo yinkhomo yakitsi	id=21743
+Talen (Translation)	Te Naoh Pendo	id=20201

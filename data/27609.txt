@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=27609&d=0&a=1
+id:	27609
+title:	Epusi dha kelementi
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27609.png
+desc:	Kelementi ali ni pusi kamaala. Ali ni pusi ghonaghona imeka?
+
+page_text:
+
+P1	kelementi ayenda inho pusi. Munhumbaye mulimu pusi kamaala.
+P2	Kelementi ali ni pusi endirugavu ndala. Pusi eno elya inho emmamba.
+P3	Ali ni pusi ndala embede. Eno elya buli kivaayo.
+P4	Pusi eyo okusatu,erumukira ku muti. Pusi eno eraliira ku muti.
+P5	Kelementi aniina omuti. Alaliira ku muti ni pusi eyokusatu. Maamawe alino okubayamba okwiika.
+P6	Kelementi ali ni pusidhe ibiri engayavu. Dheyanika mukasana bulidho.
+P7	Kelementi ali ni pusidhe isaatu edhikola einho. Dhigema empube mwi ifumbiro obwire.
+P8	Kelementi ali ne embwaye ndala. Erinalye ni kuluma. kuluma azira mikwano. Bweyakoba.
+P9	Epusi dha Kelementi nga tidhenda kuluma. Dhaamubinga mundhu. kuluma yaalumuka.
+P10	Kelementi ayaagana kuluma yamwiza eka. Pusi tinsanhufu.Tidhenda kwiramu kubona kuluma naire.
+P11	Kelementi ali ni pusi imeka? Ali na munaana.
+P12	Kelementi ali ne embwa imeka? Ali na ndala. Kuluma aligha buti?
+P13	Oli ni pusi imeka eka? Oli ni embwa imeka eka?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027

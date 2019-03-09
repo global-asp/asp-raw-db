@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=27170&d=0&a=1
+id:	27170
+title:	Fumintirizaamu
+author:	Rebecca Ndhibogeza
+artist:	Wiehan de Jager, Catherine Groenewald, Jano Strydom, Alice Toich, Rob Owen, Razaque Lázaro Quive and Jesse Breytenbach
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27170.png
+desc:	Emboozi eno egema ku kufumintiriza okulankulania obukugu mu baana.
+
+page_text:
+
+P1	Fumintirizaamu olunaku. Lwe ghali n'akamoolo ku nsalosalo dh'enhamdha Nalibaale.
+P2	Fumintirizaamu olunaku. Buli muntu nga asoma ate nga n'ebitabo birigho bulu mu lulimi.
+P3	Nfumintirizaamu lunaku. Lwendizaala omwana wange ogh'olubaryeberye.
+P4	Fumintirizaamu olunaku. Abantu mu nsi yoonayoona bwe baba mu mirembe nga baanhinaibwe ni baganda baibwe.
+P5	Fumintirizaamu olunaku. Lwe natambulira ku maadhi.
+P6	Fumintirizaamu olunaku. Mughalagho nga afuuse pulezidenti.
+P7	Fumintirizaamu olunaku. Nga bali kumpi ku kuta mu magombe kayiri woira engulu.
+P8	Fumintirizaamu olunaku.Abantu lwe balimera amawawa okubuuka batuuke ewa katonda mwigulu.
+P9	Nfumintirizaamu olunaku. Ensi yoonayoona weriba nga ewembeibwa ni kapeti.
+
+images:
+
+illustrations/pages/9847.png
+illustrations/pages/8629.png
+illustrations/pages/9066.png
+illustrations/pages/9722.png
+illustrations/pages/8945.png
+illustrations/pages/9652.png
+illustrations/pages/9069.png
+illustrations/pages/9627.png
+illustrations/pages/9592.png
+illustrations/pages/5648.png
+
+translations:
+
+English (Original)	Imagine	id=9902
+Lulamoogi (Translation)	Ologhoozye	id=26501
+Lusoga (Translation)	Lowoozaamu ku	id=27174

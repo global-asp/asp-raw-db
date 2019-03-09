@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=27751&d=0&a=1
+id:	27751
+title:	Wambuzi  akina
+author:	Kyambogo  University and Paul Wambi
+artist:	José Nhambo
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27751.png
+desc:	Wambuzi yayagaana Wamusege mu kibira. Olowooza kiki ekyairirira?
+
+page_text:
+
+P1	Lwali  lulala, yaaja  mu  nsiko, yeetoololamu  nga  musanhufu. Aye  yaabula!
+P2	Mu  butali  bugenderevu, yaayagaanana  ni  Wamusege!  Wamusege  yaidha  yaali,  yaamukoba, "endala  eri  kunhuma."
+P3	Wambuzi  yaakoba, "mwami  Wamusege, ndidi  oyenda  kundya. Aye  nnenda  ofe  nga  oli  musanhufu!"
+P4	Wamusege  yaabuuza  Wambuzi, "otegeezaaki? Kufa bulungi? Ntya?"
+P5	Wambuzi  yairamu, "ndina   okufa, aye  ndikwenda  nfe  nga nkina!"
+P6	Wamusege  yaagema  enhanga  ye. Yaatyama  ghansi  yaatandiika  okugikuba.
+P7	Wambuzi  yaatandiika  okukina, ghaire  yali  nga  yeeralikiriire.
+P8	Agho  okumpi, ghaaliwo  embwa. Dhaidha okubona  ekiriwo.
+P9	Wamusege  yali  nga  atya  embwa. Agho  yaacuuka  era  yaalumukawo!
+P10	Wambuzi  yaasigala  nga  akakina, kubanga  yali  nga  awonhie  omusege!
+
+images:
+
+illustrations/pages/8395.png
+illustrations/pages/8380.png
+illustrations/pages/8381.png
+illustrations/pages/8383.png
+illustrations/pages/8385.png
+illustrations/pages/8387.png
+illustrations/pages/8388.png
+illustrations/pages/8389.png
+illustrations/pages/8390.png
+illustrations/pages/8391.png
+illustrations/pages/8395.png
+
+translations:
+
+Afrikaans (Translation)	Die Dansende Boerbok	id=11243
+English (Original)	The dancing goat	id=8392
+Lumasaaba (Translation)	Imbusi Ishina	id=11899
+Ng’aturkana (Translation)	Akine Nakedong'an	id=18072
+Portuguese (Translation)	A Dança Do Cabrito	id=8471
+Portuguese (Translation)	A Cabra Dançarina	id=18888
+Siswati (Translation)	Imbuti ledansako	id=14808

@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=23429&d=0&a=1
+id:	23429
+title:	Umugabo Utita Kukintu
+author:	Mutabazi  William Evans
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23429.png
+desc:	Umugabo Ututa kukintu yananiwe kubika imyaka
+
+page_text:
+
+P1	cyera habayeho umugabo witwa Joel mumudugudu wa Aya
+P2	Nti yigeze yita kukubika imyaka yokuzabatunga mubihe biri imbere
+P3	Ntakintu yasaguye mu kigega
+P4	Ibigori byarahonze kandi biruma
+P5	Inkubi y'umuyaga yasenye igisenge ki kigega
+P6	Abana be badwaniraga ubukukumba byasigaraga mu masafuriya
+P7	Mama wabo yaricaraga akarira yibaza icyo azagaburira abanabe undi munsi
+P8	Papa wabo nawe yicaye hasi y,urubaraza atekereza kubihe biri imbere.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+Alur (Translation)	Jadit ma Jaswa	id=23000
+ChiShona (Translation)	Murume asina kurongeka	id=22246
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Uganda) (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lugbarati (Translation)	Agupi a'dikoruri	id=23433
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Lusoga (Translation)	Omusaadha atafaayo	id=24851
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

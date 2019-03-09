@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=24901&d=0&a=1
+id:	24901
+title:	Wakamyu aja ku mbaga
+author:	Kyambogo  University and Richard  Seege
+artist:	Hélder de Paz Alexandre
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24901.png
+desc:	Olufumo luno lugema ku bibaawo ngogiira ku mbaga waatamirirayo. Oba bwe kiri?
+
+page_text:
+
+P1	Agho  olwatuuka, Ba Wansolo baasalawo okukolawooku akabaga. Aye ti kaali ka boonaboona. Kaali ka  ba Wansolo abaali n'amayiga bonka.
+P2	Wakamyu yali ali kwetegeka  okuja ku  kabaga. Aye yakizuula ati  akabaga ti kaali ka boonaboona. Kaali ka ba Wansolo abaali n'amayiga bonka.
+P3	Wakamyu yaaja aghantu yaafuna amayiga. Yaagata ku mutwe gwe era yaaja ku kabaga.
+P4	Ku  kabaga, Wakamyu yalya, yaanhwa n'amakina yaakina.
+P5	Kino kya  mikooya  inho  era  yaagwa agho mukasana. Aye  mu kaseera  akatono ako Wakamyu yali  nga  alikutenduka, amayiga gaagwa!
+P6	Agho ba Wansolo boonaboona  baakizuula  bati Wakamyu ti yali kwabo bebayenda. Agho baasika amatu ge okutuusa bwe gaageedha ni  gageedha.
+P7	Agho baalukuka. Eyo  n'ensonga  lwaki amatu ga  Wakamyu mabbedhe.
+
+images:
+
+illustrations/pages/10187.png
+illustrations/pages/17429.png
+illustrations/pages/17427.png
+illustrations/pages/17428.png
+illustrations/pages/17430.png
+illustrations/pages/17431.png
+illustrations/pages/17432.png
+illustrations/pages/17426.png
+
+translations:
+
+Acholi (Translation)	ayom chero yi myeel	id=24106
+Ateso (Translation)	Elosi ipoo opucit	id=24079
+English (Original)	Rabbit goes to a party	id=10110
+English (Adaptation)	(Colour-in) Rabbit goes to a party	id=17433
+isiXhosa (Translation)	Umvundla uya ethekweni	id=13089
+Luganda (Translation)	Akamyuu kagenda ku kabaaga	id=23415
+Lusamia (Translation)	Ahaduyu hacha humuholo	id=23252
+Portuguese (Translation)	O Coelho Vai a Festa	id=10243
+Rukiga (Translation)	wakame yaza ahambaga	id=23648
+Runyankore (Translation)	Wakame omu mbaga	id=23703
+Sesotho (South Africa) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090
+Xitswa (Translation)	N'wa Vundlani Aya a Mubuzweni	id=10244

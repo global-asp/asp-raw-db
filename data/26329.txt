@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=26329&d=0&a=1
+id:	26329
+title:	Omugaso gw'emiti
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Kathy Arbuckle, Wiehan de Jager, Catherine Groenewald, Rob Owen, Vusi Malindi and Maya Marshak
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26329.png
+desc:	Olughayo luli ku mugaso gwo omuti mu bulamu bwaife obwbulidho.
+
+page_text:
+
+P1	Ndi muti ate ndi mugonzi gho.
+P2	Ndi muti ate nkugha obulamu.
+P3	Ninze akugha enhumba.
+P4	Ninze akugha ekisikirize.
+P5	Ninze akugha emere.
+P6	Ninze akugha ebibaadhe.
+P7	Ninze akugha byosoma.
+P8	Ninze akugha omuliro.
+P9	Ninze omugonzi gho.
+
+images:
+
+illustrations/pages/9605.png
+illustrations/pages/9690.png
+illustrations/pages/9815.png
+illustrations/pages/1595.png
+illustrations/pages/9606.png
+illustrations/pages/6785.png
+illustrations/pages/10402.png
+illustrations/pages/10394.png
+illustrations/pages/6069.png
+illustrations/pages/9690.png
+
+translations:
+
+English (Original)	The Tree	id=13087
+isiZulu (Translation)	Isihlahla	id=13662

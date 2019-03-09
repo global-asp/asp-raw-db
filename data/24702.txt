@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=24702&d=0&a=1
+id:	24702
+title:	Buttons
+author:	African Storybook
+artist:	African Storybook, Natalie Propa and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24702.png
+desc:	All about buttons. Different colours and button qualities. (This storybook was originally created and published independently for African Storybook Community Publishing).
+
+page_text:
+
+P1	All of my buttons are circles.
+P2	Some of my buttons are green.
+P3	All of my buttons are small.
+P4	Some of my buttons are yellow.
+P5	All of my buttons are nice.
+P6	Some of my buttons are red.
+P7	All of my buttons are shiny.
+P8	Some of my buttons are blue.
+P9	All of my buttons are good.
+P10	I like all my buttons.
+
+images:
+
+illustrations/pages/27210.png
+illustrations/pages/1200.png
+illustrations/pages/27206.png
+illustrations/pages/874.png
+illustrations/pages/27209.png
+illustrations/pages/27201.png
+illustrations/pages/27208.png
+illustrations/pages/10065.png
+illustrations/pages/27207.png
+illustrations/pages/27210.png
+illustrations/pages/27205.png
+
+translations:
+
+English (Original)	Buttons	id=18810
+English (Adaptation)	Buttons	id=24701
+Lusoga (Translation)	Amapensa	id=27614

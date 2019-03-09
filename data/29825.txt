@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=29825&d=0&a=1
+id:	29825
+title:	Tuli kirala
+author:	Antony Kisambira and Kyambogo  University
+artist:	Catherine Groenewald, Wiehan de Jager, Emily Berg and Mlungisi Dlamini
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29825.png
+desc:	Kkyo musagalufu okwagana nga ali nabingi ni mukagwa we omuyaaka Nankya ate nga era bava mubitundhu byandhawulo ebya Yuganda.
+
+page_text:
+
+P1	Kakyo mugunha okuva e Bududa mu bu vandhuba bwa Yuganda.
+P2	Olwaleero kwisomero akozeyo mukagwa we omuyaaka gwebeta Nankya.
+P3	Nankya ava mu Masaka mukyawagati kya Yuganda.
+P4	Bakizuula bombi nga bendhainho okuzaana.
+P5	Abaguna bombi bendhainho okwewuuga.
+P6	Kakyo yayaniriza Nankya eghaibwe okuzaana era kyafuuka kyabuliidho.
+P7	Bazaanira ghalala bulilunaku.
+P8	Bewuuga nga buli lwankomerero yasasira.
+P9	Era obukwendha bweibwe bwawangaala paka bukaire.
+
+images:
+
+illustrations/pages/8661.png
+illustrations/pages/8630.png
+illustrations/pages/19458.png
+illustrations/pages/1096.png
+illustrations/pages/1624.png
+illustrations/pages/1004.png
+illustrations/pages/19459.png
+illustrations/pages/8482.png
+illustrations/pages/9848.png
+illustrations/pages/19177.png
+
+translations:
+
+English (Original)	We Are The Same	id=22870
+Runyankore (Translation)	We are the same	id=24418

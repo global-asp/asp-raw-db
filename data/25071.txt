@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=25071&d=0&a=1
+id:	25071
+title:	Mukenembya aita n'Abalungi
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	Brian Wambi, Kenneth Boyowa Okitikpi, Melany Pietersen, Wendy Morison and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25071.png
+desc:	Yowana omulenzi nhololo afa mukenembya olwobwenzibwe.
+
+page_text:
+
+P1	Yowana yali mulenzi asinga bulungi era omumanhifu einho kukyalo.
+P2	Yali nga aganza buli muguna kukyalo era nga boona bamuganza.
+P3	Yaaja mwirwaliro era bamukobera bati alin'obulwaire bwa mukenembya.
+P4	Yowana mukwewalikirira obulamubwe yeidhusa lwaki yatondebwa nga mulungi.
+P5	okweinhamira kwa Yowana kwamuleteranga okudhuuba kunkomerero y'obulamubwe.
+P6	Oluvainhuma, Obulungi bwe bwabulagho n'obulwaire era nga tibakamwenda.
+P7	Mumyaka mitono, Yowana yafa era yaziikiibwa bwabangandadhe bonka.
+
+images:
+
+illustrations/pages/8903.png
+illustrations/pages/27125.png
+illustrations/pages/10613.png
+illustrations/pages/8035.png
+illustrations/pages/13837.png
+illustrations/pages/13102.png
+illustrations/pages/19114.png
+illustrations/pages/4508.png
+
+translations:
+
+English (Original)	AIDS kills even the handsome	id=24646
+Lusoga (Translation)	Kaniaza aita na abalangaadhu	id=25431
+Lusoga (Translation)	silimu aita nabalungi	id=25698

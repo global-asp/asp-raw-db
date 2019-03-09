@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=26377&d=0&a=1
+id:	26377
+title:	Obuzito  n'obugheghere
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Kathy Arbuckle
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/26377.png
+desc:	Mulugero luno tukobebwa okukola kuki ekizito nekigheghere.
+
+page_text:
+
+P1	Ki  ekizito?  Nkoko  oba  mooya?
+P2	Ki  ekigheghere?  Bimuli  aba  duuma?
+P3	Mwana  ki  omuzito?
+P4	Nanhi  omuzito  ndhovu  oba  baaba?
+P5	Ki  ekizito?  E  kilo  eyamabale?
+P6	oba  gulamu  yasuminti?
+P7	Ki  ekizito?  Kilo  yasukali?
+P8	oba  kilo  yamoya?
+
+images:
+
+illustrations/pages/1579.png
+illustrations/pages/1579.png
+illustrations/pages/1580.png
+illustrations/pages/1581.png
+illustrations/pages/1583.png
+illustrations/pages/1584.png
+illustrations/pages/1585.png
+illustrations/pages/1586.png
+illustrations/pages/1587.png
+
+translations:
+
+English (Translation)	Heavy and Light	id=18438
+isiZulu (Original)	Okusindayo nokulula	id=1878
+Rukiga (Translation)	OBULEMEZI N' OKU OKWANGUHA	id=24023

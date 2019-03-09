@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=24123&d=0&a=1
+id:	24123
+title:	Ehokololo lomundilo
+author:	Nelly  Ndafyaalako
+artist:	Rob Owen
+lang:	Oshikwanyama
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24123.png
+desc:	Ehokololo lomundilo: Omundilo ta u li tange.
+
+page_text:
+
+P1	Onda hala ndi ku lombwele ehokololo lange. Ohandi di ashike mokahandje kanini.
+P2	Ohandi tandavele ngeenge nda pepwa komhepo.
+P3	Fyee naave ookaume vopofingo.
+P4	Ohandi ku telekele oikulya yoye.
+P5	Ohandi ku minikile ngeenge kwa toka.
+P6	Ohandi dulu okulonga oilonga ihapu.
+P7	Onda ninga po ndambuleni.
+P8	Lungama nee ngeenge wa eta nge meumbo leni, shaashi nghihole oku li kalela.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166

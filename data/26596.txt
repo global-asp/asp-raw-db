@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=26596&d=0&a=1
+id:	26596
+title:	Singa nali
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	Alice Toich, Catherine Groenewald, Cathy Feek, Jano Strydom, Karen Lilje, Marleen Visser, Natalie Propa, Rebecca Riley, Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26596.png
+desc:	Embozi eno egema kukulambura na abaana ku ebyo byebayinza okukola singa baali ekyo.
+
+page_text:
+
+P1	Singa nali mukuluwa iterekero lya mpiya, ngoli ngabiranga buli muntu empiya.
+P2	Singa naali kyabula, ngoli ntwalira busa abantu.
+P3	Singa nali muyiizi, ngoli mpiga bisolo ebyo byonka ebiziraku buviiri.
+P4	Singa nali mpube, ngoli ngedha naabinga epusi.
+P5	Singa nali mwana, ngoli ndirira bintu bya mpiya kamaala.
+P6	Singa nali pusi, ngoli ndya bwa mpube ngedhu.
+P7	Singa nali nkoko,ngoli mbikiira abantu magi ga zaabu.
+P8	Singa nali musabirizi, ngoli tiganha binusu.
+P9	Singa nali musawo, ngoli nkubabwa bantu mpi!
+P10	Singa nali musabisa, ngoli ntwalanga abantu boonabona mwi igulu.
+P11	Singa nali nsiri, ngoli nnhambaala mu katimba ka nsiri.
+
+images:
+
+illustrations/pages/9711.png
+illustrations/pages/8943.png
+illustrations/pages/1639.png
+illustrations/pages/7349.png
+illustrations/pages/9634.png
+illustrations/pages/9359.png
+illustrations/pages/9122.png
+illustrations/pages/8983.png
+illustrations/pages/8650.png
+illustrations/pages/9070.png
+illustrations/pages/2669.png
+illustrations/pages/1011.png
+
+translations:
+
+English (Original)	If I were	id=10120
+isiZulu (Translation)	Ukuba Bengi…….	id=13082
+Lhukonzo (Translation)	Kungabya……	id=22380

@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=27766&d=0&a=1
+id:	27766
+title:	Entwiga
+author:	Kyambogo  University and Paul Wambi
+artist:	Gay Galsworthy, Amir Bachir António Necas and Rob Owen
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27766.png
+desc:	Olufumo lugema ku ngeri yenkoto yentwiga bwe yaleegha mu.
+
+page_text:
+
+P1	"Nnhamba!" Abazaire  bange  nja  kubakoba ki?  Wantwiga  ni  Wandhovu  baali  nga  baviira  ghalala mu  kibira  nga  era  baamukwano. Boonaboona  baazaala  abaana  baibwe.
+P2	Ekibira kino  gaali  maka  ga bawansolo  boonaboona  ab'omunsiko era nga  bali  mu  mirembe. Nga  ba wansolo  boonaboona  baliira  mu  kibira  ekyo.
+P3	Obwana bwa Wantwiga  ni Wandhovu  nga  bwo  bujiira  iralala  munda  mu   kibira okunoonia  emere. Nga  emere esinga  ku bughoomera  gwali  muzinga  gwa  ndhuki.
+P4	Lulala  nga  bali  mu  kibira, akaana  ka  Wandhovu  kaalinga  ghaigulu  kaabona nga  ekireri  ekyeru. Kaalowooza  kati  muzinga n'amalusu  gaatandiika okukatoonha. Kaabuuza  mukwano  gwako  engeri  y'okugufunamu  bagulye.
+P5	Nga  akaseera, kaafuna  engeri. Kaakoba mukwano  gwako  okuniina  ghaigulu omuti okufuna  omuzinga  ogwo. Akaana  ka  Wantwiga  kaikiriza.
+P6	Nga  kamaze  okuniina  ghaigulu  ku  muti, yalemererwa  okutuuka ku  bireri. N'olwekyo, akaana  ka  Wandovu  kaasalagho okuniina  omuti  ogundi kasoboler  okusika  amatu  ag'akaana  ka  Wantwiga.
+P7	Mukulwanagana  okwo, akaana  ka Wantwiga  kaakizuula  kati  enkoto  yaako  ereeye okusingaku  bwe  banga. Kaatandiika  okusaba  obuyambi, mu nnhambe!, mu  nnhambe!.
+P8	Omukwano  gwaibwe  gwakoma  agho  era  buli  muntu  yaasalagho ageme  ngira ye munda  mukibira. Eyo  n'ensonga  lwaki Wantwiga  ali  n'enkoto  empavu  okutuusa  n'olwaleero.
+P9	Ku  nkomerero....!
+
+images:
+
+illustrations/pages/9647.png
+illustrations/pages/9647.png
+illustrations/pages/9651.png
+illustrations/pages/8196.png
+illustrations/pages/8196.png
+illustrations/pages/8198.png
+illustrations/pages/2244.png
+illustrations/pages/2238.png
+illustrations/pages/2240.png
+illustrations/pages/1316.png
+
+translations:
+
+English (Original)	The Giraffe	id=13982
+Swahili (Translation)	Twiga	id=24654

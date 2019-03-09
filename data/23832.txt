@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=23832&d=0&a=1
+id:	23832
+title:	(Siiga mu katabo)Omukazi owo mululu
+author:	Uganda Christian University and Vivian Nantambi
+artist:	Abraham Muzee
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23832.png
+desc:	Siiga mu katabo. Enjala weba ekuluma
+
+page_text:
+
+P1	Edda ennyo, waliyo omusajja gwe bali bayita Kato. Yali abeera mu kibuga Kabuusu. Yali abeera n'embwa ye mukayumba akatono.
+P2	Olunaku olumu Kato yalwala nnyo. Teyayina wakumuyamba. Bweyadda engulu, yasalawo awase omukyala eyali abeera okumpi awo.
+P3	Yayita abako n'emikwano okuberawo kumbaga. Kato yali musanyufu nyo kuba yali alowooza nti afunye omuyambi.
+P4	Ebintu bingi bya leetebwa omugole ne bba. Ebiselo byo bulo, emikeka, amenvu, ebinyebwa, n'ebilabo ebilala ebya maka.
+P5	Omukolo gwe embaga gwagwa ela abagenyi nebadda ewabwe. Kato ne yetegeka okutandika obulamu obupya wamu ne mukyala we n' embwa ye.
+P6	Olunaku olwaddako, Kato yawa mukyala we amenvu, naye n'agaana okugalya.
+P7	Kato lwe yagenda okuyiga, omukyala nalya amenvu gonna.
+P8	Kato yakomawo okuva okuyigga nga enjjala emuluma. yasaba amenvu. Mukyala we namugamba nti embwa yagalidde gonna.
+P9	Olunaku olwadilila, Kato yagenda mukisibo. Bwe yadda eka, yasanga mukyalawe nga alidde enyama. Yali tawaddeeko embwa yadde.
+P10	olunaku olulala, Kato yakyalila mukwano gwe ela weyadda, omukyala yali alidde ebinyebwa. Ekiselo kyali kikalu. Kato yanyiigira mukyala we omupya.
+P11	Kato nalowoza, "waliwo ekizibu ekili ku mukazi ono." yasalawo akozese eddogo. Ya teeka amaata mu nsuwa eyalimu eddogo, nagiteeka wansi wekitandda, nagenda okuyiga.
+P12	Omukazi yalaba ensuwa, eyali ejjudde amata. Yagikwata nagiteeka kumumwa omulundi gumu. Yanwa amata gonna nga embwa emutunulidde.
+P13	Ekyenaku, ensuwa yalemera ku mumwa. yagezaako okugijako nga biwalattaka. Yalekana, nabuukabuuka naye ensuwa yaganilako. Embwa yali ebilaba byoona.
+P14	Awo embwa n'egenda okuzuula Kato. Embwa yaboggola, ne'boggola, ne buukabuuka. Kato nakizula nti waliwo ekikyamu eka.
+P15	Badduka b'abiri okudda eka. Kato y'ewunnya okusanga ensuwa nga ekwatidde ku mumwa gwa mukyalawe.
+P16	Kato yakwata ku tama lya mukyalawe ensuwa negwa omulunddi gumu. Omukyala yaswala nyo. Yasalawo addeyo ekka eli bakaddebe.
+
+images:
+
+illustrations/pages/19142.png
+illustrations/pages/19130.png
+illustrations/pages/19131.png
+illustrations/pages/19132.png
+illustrations/pages/19133.png
+illustrations/pages/19134.png
+illustrations/pages/19135.png
+illustrations/pages/19136.png
+illustrations/pages/19137.png
+illustrations/pages/19138.png
+illustrations/pages/19139.png
+illustrations/pages/19140.png
+illustrations/pages/19141.png
+illustrations/pages/19142.png
+illustrations/pages/19143.png
+illustrations/pages/19144.png
+illustrations/pages/19145.png
+
+translations:
+
+English (Translation)	Greedy woman	id=19149
+English (Adaptation)	(Colour-in) Greedy woman	id=19150
+Kiswahili (Translation)	Mwanamke mlafi	id=22068
+Luganda (Original)	Omukazi owomululu	id=19148
+Luganda (Translation)	omukyala owomululu omunji	id=24487
+Lumasaaba (Translation)	Umuhasi Wekumulungo	id=23664
+Lusoga (Translation)	Omukazi omuluvu	id=24883
+Lusoga (Translation)	Omukazi omuluvu	id=26353
+Oluwanga (Translation)	Omukhasi omuworu	id=22766
+Rukiga (Translation)	Omukazi owomululu	id=23757
+Runyoro (Translation)	Abakazi Abomururu	id=23625

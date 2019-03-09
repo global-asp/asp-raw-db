@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=25328&d=0&a=1
+id:	25328
+title:	Kasaayi
+author:	David  Bamukangwiire and Kyambogo  University
+artist:	Sue Kramer
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/25328.png
+desc:	Obughanvu ne nfaanana eye bintu bya kasaayi ebya buliidho.
+
+page_text:
+
+P1	Maama alikwidhuza akalobo.
+P2	Abongire ali kuzaanhisa akamotoka aka kasaayi.
+P3	Deewo ali kuzaanhisa ebimuli bya kasaayi.
+P4	Awute avaire omudhoozi gwa kasaayi.
+P5	Endhuba eya kasaayi eri ghaigulu gha dhaadha omusaadha.
+P6	Akapikipiki kali gha muti.
+P7	Omunha ogwa kasaayi guli ku mubiri gwa Babalwa.
+P8	Yingini eya kasaayi ey'omuliro eri aghali omuliro.
+P9	ono ni shibba avaire omudhoozi gwa kasaayi.
+P10	Ali kugezaaku okuvaala engaito dha kasaayi.
+P11	Tidhimutuuka!
+
+images:
+
+illustrations/pages/1761.png
+illustrations/pages/1762.png
+illustrations/pages/1763.png
+illustrations/pages/1764.png
+illustrations/pages/1765.png
+illustrations/pages/1766.png
+illustrations/pages/1767.png
+illustrations/pages/1768.png
+illustrations/pages/1769.png
+illustrations/pages/1770.png
+illustrations/pages/1771.png
+illustrations/pages/1772.png
+
+translations:
+
+English (Original)	Red	id=2188
+isiXhosa (Translation)	Umbala obomvu	id=2750
+Kikamba (Translation)	Langi Mutune	id=2751
+Lugbarati (Translation)	Afa Eka ‘Diyi	id=10476
+Maa (Translation)	Enadó	id=2983
+Ng’aturkana (Translation)	Niareng’An	id=2752

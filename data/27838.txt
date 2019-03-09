@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=27838&d=0&a=1
+id:	27838
+title:	Omwibi we mmere naani
+author:	Kyambogo  University and Robert Buyinza
+artist:	Catherine Groenewald, Wiehan de Jager, Saulsville, Rijuta Ghate and Bronwen Heath
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27838.png
+desc:	Omuntu yaiba emere muntamu buli omu yegaana.
+
+page_text:
+
+P1	Maama yafumba emere muntamu.Yagisibiriza mwifumbiro okusoobola okwagaana ni bakasitoma be mu katale
+P2	Naana ni baganda be babiri baira okuva ntuuse kwisomero.Naana yali gha kya kuna,Anodi gha nasale ni junior.
+P3	Junior yalira olwe ndhala aye Naana yamukoba tulinde maama ayiire mu katale.Junior yeibiriza yaingira mwifumbiro yalya emere.
+P4	Maama bwe yaira,Yasanhuka okubono abaana be ghaka.Yaigulawo efumbiro agabe emere.Yayagaana mutyere mwerere mwifubiro.
+P5	Yayeeta abaana boona boona mwifumbiro yababuuza ku mmere. Junior neya sooka okwegaana aye nga saati ye etonieku supu
+P6	Maama yagaba emmere eyasigaalawo era yakangavula Junior nga amwima ekyemisana.Yamukoba ati toirangamu.
+
+images:
+
+illustrations/pages/8872.png
+illustrations/pages/1652.png
+illustrations/pages/19247.png
+illustrations/pages/7928.png
+illustrations/pages/1799.png
+illustrations/pages/1894.png
+illustrations/pages/13371.png
+
+translations:
+
+English (Original)	Who stole the Food	id=22659
+Lulamoogi (Translation)	Yaani eyaibbire emere	id=26934

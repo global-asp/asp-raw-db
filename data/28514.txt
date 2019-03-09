@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=28514&d=0&a=1
+id:	28514
+title:	Okwewuuga
+author:	Alice Gonza and Kyambogo  University
+artist:	Alice Inzikuru
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28514.png
+desc:	Wamusota ayega okwewuga aye katono adimire. Ekyomukisa Wankudu aidhi ekyokukola.
+
+page_text:
+
+P1	Eira einho, ghaaliyo abemikwano babiri, Wankudu ni Wamusota.
+P2	Lulala Wankudu yakoba Wamusota, "tuje twewuge." "Kale, aye tiidhi kuwuga," yairamu. "Nda kukwegeresa," Wamnkudu yairamu.
+P3	Baaja mw'iwugiro. "Naana anasooka okugwa mumaadhi?" Wankudu yabuuza. "Ighe, nkwetegereze," Omusota gwakoba.
+P4	Wankudu yainjira mw'iwugiro. Wamusota yali ku madaala yetegereza.
+P5	Oluvainhuma, Wamusota yagwa mu maadhi nga Wankudu bwamugha ebiragiro.
+P6	Wankudu ni Wamusota Beewugira mu maadhi amatontono.
+P7	Baalera ku maadhi.
+P8	Baali bakalera, Wankudu yainhama okwewuga ng'aira einhuma. Wamusota bweyagezaaku okwegeresa Wankudu yaatandiika okudimira.
+P9	Ono bweyabona nga Wamusota tali kuboneka, Wankudu yeyuna mu maadhi eifo yaawonia obulamu bwa Wamusota.
+P10	Wankudu bweyafuluma mu maadhi yaagalamiriza Wamusota asobole okumunuunamu amaadhi geyali amize.
+P11	Wankudu yata omunhwagwe ku gwa Wamusota yaamunuunamu amadhi.
+
+images:
+
+illustrations/pages/9175.png
+illustrations/pages/9175.png
+illustrations/pages/9176.png
+illustrations/pages/9177.png
+illustrations/pages/9178.png
+illustrations/pages/9179.png
+illustrations/pages/9180.png
+illustrations/pages/9181.png
+illustrations/pages/9187.png
+illustrations/pages/9182.png
+illustrations/pages/9183.png
+illustrations/pages/9184.png
+
+translations:
+
+Afrikaans (Translation)	Skilpad Tot Die Redding!	id=11252
+Afrikaans (Translation)	Swem	id=11299
+Afrikaans (Translation)	Swem	id=11331
+English (Translation)	Swimming	id=9190
+French (Translation)	Allons Nager	id=10936
+isiNdebele (Translation)	Ukududa	id=13780
+Lugbarati (Original)	Yii Wezu	id=9189
+Lusoga (Translation)	Okwewuga	id=26352
+Ng’aturkana (Translation)	Akilulumare	id=20495
+Rutooro (Translation)	Kuziha	id=14942
+Setswana (Translation)	Thuma	id=11482

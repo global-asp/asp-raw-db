@@ -1,0 +1,66 @@
+url:	https://africanstorybook.org/reader.php?id=22957&d=0&a=1
+id:	22957
+title:	Gonya ne Wambwa
+author:	Ruth Nakabuuka
+artist:	Rob Owen
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22957.png
+desc:	Wambwa yasanga amaji ku lubalama lwe Nyanja
+
+page_text:
+
+P1	Olunaku lumu, Wambwa yasanga amajji ku nnyanja.
+P2	 Nateka
+  amajji kumi munsawo.
+P3	Wambwa yalabirila amajji era negakuma nga
+  gabuguma.
+P4	Gonya yabuza Wambwa nti, "olabyeko ku majji
+  gange?"
+P5	Gonya yabuzza ensolo zonna kunsonga ya majji
+  ge.
+P6	Kumbe, amajji gali galulwa limu ku limu.
+P7	Wambwa yali tesobola kuwa gonya ento mere
+  emala.
+P8	Olunaku lumu, gonya yawulila embuto za gonya
+  ento ngazegulunga!
+P9	kyeyava ayayingira munyumba ya wambwa munda
+  nakuba wambwa nomukira gwe.
+P10	Gonya yagoba Wambwa paka wansi mulugudo.
+P11	Wambwa kyeyava ayimilira nagamba Gonya nti,
+  “nsonyiwa!”
+P12	Gonya bambi yamusonyiwa era nagenda nawugga na
+  baanabe.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+English (Adaptation)	Crocodile and Dog	id=20911
+isiXhosa (Translation)	UNja noXam	id=17573
+Kinyarwanda (Translation)	Ingona n'Imbwa	id=23353
+Kinyarwanda (Adaptation)	Ingona n'Imbwa	id=24310
+Kiswahili (Translation)	Mbwa na mayai ya Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa na mayai ya Mamba	id=18327
+Kiswahili (Translation)	Mamba na Mbwa	id=21151
+Luganda (Translation)	Wambwa nne Ggoonya	id=24579
+Lusoga (Translation)	Wambwa ni Wangoina	id=25309
+Tigrigna (Translation)	ሓርገፅን ከልብን	id=21178

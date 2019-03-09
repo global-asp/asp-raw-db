@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24918&d=0&a=1
+id:	24918
+title:	Endhu  ensagaalufu
+author:	Kyambogo  University and Richard  Seege
+artist:	Karlien de Villiers, Marike le Roux, Sarah Bouwer, Ursula Nafula, Vusi Malindi and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24918.png
+desc:	Endhu ekolera aghalala
+
+page_text:
+
+P1	Abaana bazuuka munco  inho era buli mulala yaayambaku mwine nga beetegekera okuja ku isomero obutakeeregha.
+P2	Era batambulira ghalala nga  baja  ku isomero nga bwe kiba  ekirungi  okuyambagana ghe baba nga bafunie obuzibu munjira. Kirungi okutambulira aghalala.
+P3	Bazaanhira ghalala ku saawa dho kugholaku era baakola emikwano egigasa.
+P4	Bwe baira ghaka, bayambaku abazaire baibwe  emirimo egya ghaka okugimala amangu.
+P5	Balya  eky'eigulo kyaibwe nga bamaze okukisabira  nga  endhu. Boogera n'abazaire  baibwe ku by'ensoma era  n'abasomemesa bye babasomeisa.
+P6	Tibeerabira kusaba, kubanga endhu etasabira  ghalala, teba ghalala
+
+images:
+
+illustrations/pages/11451.png
+illustrations/pages/13819.png
+illustrations/pages/7512.png
+illustrations/pages/9192.png
+illustrations/pages/14037.png
+illustrations/pages/13930.png
+illustrations/pages/8853.png
+
+translations:
+
+English (Original)	A happy family	id=24219
+Runyankore (Translation)	Ekyika kisemerirwe	id=24286

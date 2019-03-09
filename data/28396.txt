@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=28396&d=0&a=1
+id:	28396
+title:	Embeera yo obwire
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Microsoft Clip Art, Jesse Breytenbach, Wiehan de Jager, Rijuta Ghate and Vusi Malindi
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28396.png
+desc:	Kino kigema ku mbeere ya bwire. Kale mumpilize.
+
+page_text:
+
+P1	Ebireri kamanhiso ka maadhi agatoonha.
+P2	Leero lwokya inho. lwaki?
+P3	Ebireri bisobola okubwika endhuba. Nnhendha ebireri inho.
+P4	Aye gali kutoonha kuluya?"omusomesa yabuuza namunene."
+P5	Kwa mpewo?
+P6	Nkobera ekisinga wo ku embeera.
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9850.png
+illustrations/pages/6337.png
+illustrations/pages/2118.png
+illustrations/pages/1920.png
+illustrations/pages/2449.png
+illustrations/pages/9372.png
+
+translations:
+
+Anywak (Translation)	Pøøl	id=12630
+English (Original)	Clouds	id=2122
+English (Adaptation)	Weather	id=10261
+Luganda (Translation)	Ebire	id=6270
+Lusamia (Translation)	Amaaresi	id=21481
+Ng’aturkana (Translation)	Ng'idowon	id=7036
+Setswana (Translation)	Maru	id=7892
+Somali (Translation)	Daruuraha	id=16759

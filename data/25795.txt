@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=25795&d=0&a=1
+id:	25795
+title:	Omughala ow'amazima
+author:	Joseph  Mukwaya and Kyambogo  University
+artist:	Jacob Kono
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25795.png
+desc:	Olufumo luno lwegesa ku mugaso ogwokwogera amazima.
+
+page_text:
+
+P1	Agho olwatuuka, ghaabaagho omughala omulungi. Lwali olwo, endhala yaamuluma inho.
+Yaalowooza engeri y'okufuna ekyokulya.
+P2	Yaayagaana omusaadha eyamubuuza, "Omughala omuto oli otya? Kiki ekikunakughaiza?" Omughala yaamwiramu, "Endhala endi bubi."
+P3	Omusaadha yaasaasira omughala. Yaakoba omughala ati ku muliraano eriyo embaga era aje aibeyo emere. Omughala yali taibangaku.
+P4	Omughala yaasituka mangu yaaja mu maka agaali n'embaga.
+P5	Bweyali anaatera okutuuka, yeerabira engeri yebaamulagirira okwiba. Yaayemba nga airaganamu ati:
+Ndhidye kwiba mmere, e-m-e-re,
+Ndi kutambula mpola, mpo-la.
+P6	Abantu baawulira olwemba lw'omughala nga akaali ghala okutuusa bweyatuuka mu maka.
+P7	Abantu beewuunia ebigambo mu lwembo era baamubuuza, "Oviira gha? Oyenda ki? Lwaki oli kwemba?"
+P8	Omughala yaabakobera engeri endhala yeyali eri kumuluma, baamugha emere.
+
+Oluvainhuma, baamukobera bati okwiba kubi.
+
+images:
+
+illustrations/pages/25044.png
+illustrations/pages/25038.png
+illustrations/pages/25039.png
+illustrations/pages/25040.png
+illustrations/pages/25041.png
+illustrations/pages/25042.png
+illustrations/pages/25043.png
+illustrations/pages/25044.png
+illustrations/pages/25045.png
+
+translations:
+
+English (Translation)	Honest girl	id=20373
+Kinyarwanda (Translation)	Umukobwa W' Inyangamugayo	id=20378
+Ng’aturkana (Original)	Apese Nape Ayeni Akoko	id=20371

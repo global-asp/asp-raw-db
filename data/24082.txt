@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=24082&d=0&a=1
+id:	24082
+title:	Lee me Uganda
+author:	Monica Aceng
+artist:	Rob Owen
+lang:	Acholi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24082.png
+desc:	Kom lee me Uganda
+
+page_text:
+
+P1	Gin tye rii.Ngut gi boco.Gin gicamo pot yadi ki iwi yadi maboco.Rii obedo kala mene?
+P2	Man eni lyec.Ma lacoo tye ki tunge.It gi boco.Lyeci gin tye ki tung maboco.Gin tiyo ki tungi me kwanyo cam ki iwi yadi maboco.Lyeci gin camo lum ki pot yadi.Lyec obedo kala mene?
+P3	Man nyang.En bedo in nam ki kulu matino.Yibe bor.En doge lac dok lakke bit.En camo rec ki lee mukene.Lyec obedo kala mene?
+P4	Man odyek.Dit dok lakke bit.Ma lacoo tye ki yer.Yer tye kwene ikom odyek
+P5	Man owelo.En tye lanyut me Uganda.Tyene boco dok tye ki gi wiye.Owelo obedo kala mene?
+P6	Man obedo jobbi.Gin camo lum ki bene gi bedo i nget kulu.Ngo ma jobbi tye kede ma dongo i wiye?
+P7	Magi obedo lagwar.Komgi ocero ma tar-col.Lee mene ma ingeyo ma cal ki lagwar?
+P8	Magi obedo lee mapatpat.Min raa ki lutino ne.Raa bene tye ki tunge.Ikwano raa adi i cal gi?Lee mukene obedo agura.Gin camo lum.Agura tye kala ma nining?
+P9	Kit lee ango ma ineno gi?Gin bedo kwene?Mene ma iromo camo ne?
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9647.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9631.png
+illustrations/pages/9644.png
+illustrations/pages/9650.png
+illustrations/pages/9646.png
+illustrations/pages/9645.png
+
+translations:
+
+English (Original)	Animals of Uganda	id=9988
+Kumam (Translation)	Leini Me Yuganda	id=20898
+Lusoga (Translation)	Ensolo Dha Uganda	id=20391
+Lusoga (Translation)	Ebisolo bya Yuganda	id=29357

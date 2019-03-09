@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=24273&d=0&a=1
+id:	24273
+title:	Baibi babiri
+author:	Yasiri  Kasango
+artist:	Marion Drew
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24273.png
+desc:	Baibi babiri bayende okwiiba duuma munimiiro yomulimi obwile bulalaa.
+
+page_text:
+
+P1	Abaibi babiri bayenda okwiiba duuma munimiro. Bali tibaidigani.
+P2	Omwiibi eyasooka yaida yakuunguula esaawo yaduuma.
+P3	Omwiibi owokubiri yayingila munimiro yomulimi, yaleka akaagali kuliya.
+P4	Abaibi boombi bayaganana munimiro yaduuma.
+P5	Boombi batya baluumuka mugira daandaawolo.
+P6	Omwibi eyasooka yaaleka esaawo yaduuma.
+P7	Omwibi owokubiri  yaaleka akaagali.
+P8	Omulimi weyayida  yakoozesa akagaali okusituula esaawo yaduuma.
+
+images:
+
+illustrations/pages/18364.png
+illustrations/pages/18363.png
+illustrations/pages/18364.png
+illustrations/pages/18365.png
+illustrations/pages/18366.png
+illustrations/pages/18367.png
+illustrations/pages/18368.png
+illustrations/pages/18369.png
+illustrations/pages/18370.png
+
+translations:
+
+Alur (Translation)	Jukwo Aryo	id=18774
+English (Original)	Two thieves	id=18773
+IsiNdebele (Zimbabwe) (Translation)	Amasela amabili	id=22174
+Kinyarwanda (Translation)	Abajura babiri	id=21957

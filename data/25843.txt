@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=25843&d=0&a=1
+id:	25843
+title:	Ebigere,emikono no mutwe!
+author:	Kyambogo  University and Robert Buyinza
+artist:	Brian Wambi, Kathy Arbuckle, Sarah Bouwer, Selina Masego Morulane, Silva Afonso, Vusi Malindi, Vusumuzi Malindi and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25843.png
+desc:	Okuvumbula endowooza eitaanu ni misigha gyo mubiri no bwongo.
+
+page_text:
+
+P1	Nkozesa ebigere okulumuka,okutuuma,no kusamba.
+P2	Nkozesa emikono okulya,okukola,no kughanhika.
+P3	Aye omutwe gwamugaso inho okusinga ebigere oba emikono.
+P4	Omutwe gulina amaiso.Gubona na maiso
+P5	Omutwe kulina enhindo.Mpunhiza na nhindo dhange.
+P6	Omutwe gulina amatu.mpulira na matu gange.
+P7	Omutwe gulina olulimi.Ndegaku omunhu ne biwoma
+P8	Omutwe gulina omunwa.Twogera na munwa.
+P9	Omutwe gulabirira omubiri gwona gwona!
+
+images:
+
+illustrations/pages/13338.png
+illustrations/pages/14908.png
+illustrations/pages/9353.png
+illustrations/pages/1714.png
+illustrations/pages/14998.png
+illustrations/pages/15128.png
+illustrations/pages/16533.png
+illustrations/pages/1500.png
+illustrations/pages/10976.png
+illustrations/pages/16534.png
+
+translations:
+
+English (Adaptation)	Feet, hands and head!	id=16631
+Lunyole (Original)	Omutwe Gwange	id=16630

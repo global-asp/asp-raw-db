@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=24566&d=0&a=1
+id:	24566
+title:	The little playful children
+author:	Martha Asiimwe
+artist:	Catherine Groenewald, Venolin Keanan Govender and Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24566.png
+desc:	These little children have grown up together in the same homestead and love playing.
+
+page_text:
+
+P1	They play hide and seek under the same mango tree.
+P2	They go swimming in a nearby river.
+P3	On a bright sunny morning, they wake up to play football in an orchard.
+P4	When they go back home, they also show their parents what they are playing.
+P5	After a while, they start going to school and always pay attention in class
+P6	Even when at school, they always play together.
+
+images:
+
+illustrations/pages/1421.png
+illustrations/pages/9858.png
+illustrations/pages/9848.png
+illustrations/pages/12877.png
+illustrations/pages/19463.png
+illustrations/pages/13841.png
+illustrations/pages/14062.png
+
+translations:
+

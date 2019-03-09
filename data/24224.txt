@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24224&d=0&a=1
+id:	24224
+title:	Mama wanje nimulunji
+author:	Nyangoma Peninah
+artist:	Rob Owen
+lang:	Runyankore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24224.png
+desc:	Mama nakunda abanabe kandi nayenda bagume bashemereirwe. Aine omwami mulunji. Najenda nabaana be omukatale kandi abareberera batakabyamire.
+
+page_text:
+
+P1	Mama wangye nibamweta Edith kandi nanyegyesa emicwe mirunji.
+P2	Nanyegyesa okuba omuyonjo nokuba omwisikyi atebekine.
+P3	Mama nanshaba okushaba Ruhanga ntakabyamile ahabwokuba Ruhanga ni tata.
+P4	Nangira ndalegye deelu anshweka omukitanda.
+P5	Mama waitu nakunda muto waangye. Namutwala aishomero bulizooba.
+P6	Twena nitukunda mama munonga kandi nimulunji.
+
+images:
+
+illustrations/pages/9493.png
+illustrations/pages/9492.png
+illustrations/pages/9497.png
+illustrations/pages/9496.png
+illustrations/pages/9501.png
+illustrations/pages/11450.png
+illustrations/pages/11662.png
+
+translations:
+
+English (Original)	My Beautiful Mother	id=24220
+Lusoga (Translation)	Maama wange omulungi	id=24922

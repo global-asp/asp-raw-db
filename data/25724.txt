@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=25724&d=0&a=1
+id:	25724
+title:	Emotoka ya Nabirye
+author:	Kyambogo  University and Victor  Muwanguzi
+artist:	Marion Drew
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25724.png
+desc:	Nabirye ni maama ghe balikulinda motoka ebatwale ewaka. Nabirye yabona abantu bonabona abendawulo abasanhusa ne ebintu nga bwe balinda. Aye emotoka yaibwe endha?
+
+page_text:
+
+P1	Amaina gange ni nze Nabirye. Tulikulinda motoka ni maama ghange.
+P2	Ghano nhemereire muline. Maama ghange  anhembera  akemba. "Indha mwami motoka tobona? Tuli kulinda, Nabirye ni nze!"
+P3	Omukazi andhiraine ali kutwala enkoko dhe waka. Dhi gya ku biikira amagi alye.
+P4	Bano abasaadha bali kwira okuva kumulimo. Bamwenera. Nabawulira nga bemba, "olyo otya Nabirye, tiwewarikirira. Emotoka  endha mubwengu."
+P5	Omukazi atambula  mangu. Omukazi anhirira. Engaito dhe ti nhungi? Baja "Dhagyanga bwedhikona bwa atambula.
+P6	Ono omusaadha alikutunda ebyo okunwa ebinhogoga. Nendha inho ebyo okunwa ebinhogoga. Binhogoga inho ate biwoma. Obyendha?
+P7	Bona yo! Ghaliyo abakazi abalikutwala ebyeigulo waka ku mitwe gyaibwe. Ti bagezi?
+P8	Oyo omukazi enviri dhe nkole. Alikuja ku kyakala
+P9	Nze nkoye mperano. Mama ghange anta mu nsawo ye we mpumulira. Ayemba enhembo, "bambi mwami motoka, tolwawo, namaadhi alinze ku mu lyango gwaife.
+P10	Ghaliyo mukwano gwange Lwamusayi. Yena ali ku wumula. Tujakwira mangu.
+P11	Ghangulu  eyo ebinhonhi biri kubuluka birayo waka. Birinho okwirayo nga bukali kuziba.
+P12	Ono omukazi alina ebirengedera ku matu. Ndhowoza abiguze olwalero mu kibuga. Wenakula  ndha kwegulira ebirengedera ku matu ni maama ghange.
+P13	Maama ghange akoye mperanho. Mwembere akemba, "Bambi mwami motoka, to jakwindha, tu ku lindhirire, nze ni maama."
+P14	Lindha ku nsobola okuwulira emotoka! Yinho eindha!
+P15	Emotoka yaife embede eyekisayisayi yinho. Eidye okutwala nze ni maama ghange ewaka. Ndhi mu sanhufu inho!
+P16	Ale, balamuse!
+
+images:
+
+illustrations/pages/7576.png
+illustrations/pages/7560.png
+illustrations/pages/7562.png
+illustrations/pages/7563.png
+illustrations/pages/7564.png
+illustrations/pages/7565.png
+illustrations/pages/7566.png
+illustrations/pages/7571.png
+illustrations/pages/7568.png
+illustrations/pages/7569.png
+illustrations/pages/7570.png
+illustrations/pages/7572.png
+illustrations/pages/7573.png
+illustrations/pages/7574.png
+illustrations/pages/7575.png
+illustrations/pages/7576.png
+illustrations/pages/7577.png
+
+translations:
+
+Afrikaans (Translation)	Nanu Se Taxi	id=11245
+English (Original)	Nanu's taxi	id=7590
+English (Translation)	Nanu Se Taxi	id=13413
+French (Translation)	Le Taxi-Brousse De Nanu	id=12665
+Kiswahili (Translation)	Teksi ya Nanu	id=8713
+Portuguese (Translation)	O Táxi Da Nanu	id=17619

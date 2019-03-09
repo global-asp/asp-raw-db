@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=30145&d=0&a=1
+id:	30145
+title:	Obukodyo mu mupiira
+author:	Juliet Namugaya and Kyambogo  University
+artist:	Joseph Ejoyi
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30145.png
+desc:	Yozefu atwegeresa engeri eyokusamba nobukodyo obwomupiira.
+
+page_text:
+
+P1	Eira einho, ghaliyo omulenzi nga bamweta Yozefu eyayendhanga inho okusamba omupiira. Yali asambisa emigulu gyombiriri.
+P2	Yozefu akozesa omutwe azaanhisa omupiira.
+P3	Olwisi akozesa ekifuba.
+P4	Lulala yabisa omupiira ku baaka nga akozesa olugandha.
+P5	Omupiira bweguva mw'banga, aguwungisa kisambi.
+P6	Asamba bulungi omupiira ng'akozesa ekigere.
+P7	Awungira omupiira ku kegere.
+P8	Olundhi yagusamba nga akozesa ku kigere ku ngulu.
+P9	Tiyateeba ku omukuumiwe goolo yagugema.
+P10	Omukuumiwe goolo yeena yagukubisa engalo yaagwizaayo.
+
+images:
+
+illustrations/pages/9162.png
+illustrations/pages/9163.png
+illustrations/pages/9164.png
+illustrations/pages/9165.png
+illustrations/pages/9166.png
+illustrations/pages/9167.png
+illustrations/pages/9168.png
+illustrations/pages/9169.png
+illustrations/pages/9170.png
+illustrations/pages/9172.png
+illustrations/pages/9173.png
+
+translations:
+
+English (Translation)	Soccer Skills	id=9174
+Lugbarati (Original)	Ondua Mupira Avizuri	id=9171

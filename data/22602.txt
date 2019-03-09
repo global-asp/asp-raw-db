@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=22602&d=0&a=1
+id:	22602
+title:	Persistent man
+author:	African Storybook
+artist:	Magriet Brink
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22602.png
+desc:	This story teaches us that if people persist they will be rewarded. (Adapted from Little Zebra Books The 
+
+page_text:
+
+P1	He is not expecting visitors.
+
+"Hello, we have come to visit you!" they announce.
+
+"Welcome!" he replies.
+P2	The man rushes to his neighbour.
+
+He calls, "Friends are visiting and I do not have any food. Please lend me three loaves of bread."
+P3	The neighbour responds, "Do not bother me. The door is shut, and we are all in bed. I cannot give you anything."
+P4	But the first man continues to knock on his neighbour's door. 
+
+He keeps knocking. He keeps asking. 
+
+Eventually, the door opens.
+P5	And so, the man was able to return to his friends with bread.
+
+images:
+
+illustrations/pages/26580.png
+illustrations/pages/26579.png
+illustrations/pages/26580.png
+illustrations/pages/26581.png
+illustrations/pages/26582.png
+illustrations/pages/26583.png
+
+translations:
+
+Chinyungwe (Translation)	Xamwali Wakubwera Usiku	id=19122
+Cisena (Translation)	Xamwali Anabwera na Masiku	id=22641
+Echiziinza (Translation)	Omuzenyi Ayaahikile Itúumbi	id=24637
+English (Original)	The Friend at Night	id=15750
+Lusoga (Translation)	Ow'omukwano  mu  bwire	id=29793
+Portuguese (Translation)	O Amigo Que Vem à Noite	id=22640
+Rukiga (Translation)	omusheija arikugumisriza	id=23753

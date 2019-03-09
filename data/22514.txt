@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=22514&d=0&a=1
+id:	22514
+title:	O Bọ Isorọ Ewo Je Ajao Esho
+author:	Peter Omoko
+artist:	Jesse Breytenbach
+lang:	Urhobo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22514.png
+desc:	Ajao ghinẹ adjan gbanẹ erawovwin? Osia na tota kpahẹ adjan o jẹ ivwioni evwo.
+
+page_text:
+
+P1	Ajao, adjan ọvo, riẹn ọ ehwa muọga. A mrẹ ohwo vwẹro tee.
+P2	Ajao ko ghwuru.
+P3	Ihwo egodo ke tare, "Ajao ghwu re. E we se ihwo rọyen ayen re rhi sho."
+P4	Ihwo egodo kayen ra re sẹ emephran tanẹ, "Omoni avwan ghwuru ọ."
+P5	Emephran itetiyen mrẹrẹ nẹ Ajao. Kayen tare, "Eravwen nana diẹ omoni avwanree."
+P6	"Ihwo orua avwanre vwẹ iphoron bọti Ajao vwo rii. Ọna djen phia nẹ ọ diẹ ohwo avwanree." Ephran na ki kpo ri.
+P7	Ihow egodo kayen jiroro kugbe. Ayen rhọvwere, "Ephran na tuyota. Ajao vwẹ iphoroon. Ọna djen phia nẹ ọyen diẹ ohwo orua rayeen."
+P8	Ọvo kọ tare, "Ọ mọsi diẹ ohwo orua rẹ erawovwin. Ọ họhẹ ayen."
+P9	Ihwo egodo na kayen ra re sẹ erawovwin tanẹ, "Omoni avwan ghwuru ọ."
+P10	Erawovwin itetiyen mrẹrẹ nẹ Ajao. Kayen tare, "Eravwen nana diẹ omoni avwanree."
+P11	"Ihwo orua avwanre vwẹ esẹ diẹkẹvuọvo Ajao vwẹ esẹẹ." Eravwovwin ki kpo ri.
+P12	A be mrẹ Ihwo efa  eriẹn Ajaoo kọyen sorọ a be mrohwo shoo.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+ChiShona (Translation)	Sei Ajao asina kuvigwa	id=22214
+English (Translation)	Why Ajao was not buried	id=16988
+Ga (Translation)	Nɔ Hewɔ ni Anaaa Afũ Ajao	id=25743
+Kiswahili (Translation)	Kwa nini Ajao hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Tiv (Translation)	Inima Saa Sha Tar: I ii Un Ga	id=23858
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

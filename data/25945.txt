@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=25945&d=0&a=1
+id:	25945
+title:	Mbwali mubitirivu
+author:	Kyambogo  University and Victor Muwanguz
+artist:	Vusi Malindi
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25945.png
+desc:	Emboozi eno edhuba eti engeri bwe twiza einhuma abaana
+
+page_text:
+
+P1	Mu ganda ghanga alwa gho okulambala. Nsituka mangu, kuba nga ndhi mubitirivu!
+P2	Nze aye yanhika mu kasana.
+P3	"Oli kyankyo kyange ekyo omunyenye," kateme ne yakoba.
+P4	Nali newulira bulirunaku, tye taga buyambi.
+P5	Ti fayo ku maadhi againhogoga, oba ku saabuni ayoza engoye.
+P6	Kateme andhidhusa, "tiwerabira linho lyo." Ndhiramu, "mbe, ti nze!"
+P7	Ghe mara okwo oza, nhamusa dhaadha ni senga. Mbendeza olunaku olulungi.
+P8	Gho neyambaza mwene. "ndhi munene kati, Kateme," nakoba.
+P9	Nsobola okwingala gho amapesa gange ne engaito dhange okudhisiba.
+P10	Nfayo inho okubona nga muganda ghange ategera buli ekiba ku insomero.
+P11	Mu kibina nkola bulungi buli mu ngeri.
+P12	Nkola ebintu bino byona byona buli lunaku. Aye kintu kyensinga kwendha, no okuzaaha no oku zaanha.
+
+images:
+
+illustrations/pages/7514.png
+illustrations/pages/7513.png
+illustrations/pages/7514.png
+illustrations/pages/7517.png
+illustrations/pages/7507.png
+illustrations/pages/7515.png
+illustrations/pages/7518.png
+illustrations/pages/7516.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+illustrations/pages/7509.png
+
+translations:
+
+Arabic (Translation)	زاما المميز!	id=21847
+English (Adaptation)	Zama is great!	id=9984
+Khoekhoegowab (Translation)	Zamab ge a kai	id=24656
+Kiswahili (Translation)	Mimi ni mashuhuri!	id=22086
+Lusoga (Translation)	Juma wa Maani!	id=25917
+Oshikwanyama (Translation)	Zama omunandjungu	id=24129
+Oshindonga (Translation)	Zama omwa nawa	id=23885
+Otjiherero (Translation)	Zama omusemba	id=24171

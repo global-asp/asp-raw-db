@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=24519&d=0&a=1
+id:	24519
+title:	Baby falls into the River Nile
+author:	Tendo Ronah
+artist:	Jesse Breytenbach, Manyeka Arts Trust and Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24519.png
+desc:	Sandra was walking next to the River Nile holding her baby. She slipped and her baby fell into the river. Was she able to rescue the baby?
+
+page_text:
+
+P1	Sandra was walking next to the River Nile with her baby.
+P2	She slipped and fell into the river!
+P3	She was very frightened when she could not see her baby.
+P4	She shouted for help to rescue her baby because she could not swim.
+P5	Unfortunately no one came to her rescue and she lost her baby for good.
+
+images:
+
+illustrations/pages/15112.png
+illustrations/pages/5853.png
+illustrations/pages/2422.png
+illustrations/pages/1134.png
+illustrations/pages/19012.png
+illustrations/pages/9392.png
+
+translations:
+
+Lusoga (Translation)	Eibudhe ligwa mu mwiga kiira	id=26164

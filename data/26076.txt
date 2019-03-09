@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=26076&d=0&a=1
+id:	26076
+title:	Ekikere kyasunire kitya olususu lwakyo
+author:	Kyambogo  University and Mpala Paul
+artist:	Rob Owen
+lang:	Lulamoogi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26076.png
+desc:	Omukugu ono ainyonyola lwaki ebikere birina emigongo emifuduki era bisobola okubba aghabula maizi.
+
+page_text:
+
+P1	Ogamufudu ekikere yabbaire akooghere okubba omumaizi.
+P2	''Wegenderezye,'' ofudu nakoba.''omubiri gwo gwiza kukala.''
+P3	Aye ogamufudu yazwire okumulamwa. Yaloghoozerye kuzwawo.
+P4	Nikiringa linga.
+P5	Kyayagiirye olukaaniavu olwa langi ya nakassoma okumbali kwa maizi.
+P6	Okaaniavu yatandiikire okucuuka mu pinki! Ogamufudu yatuumire naazwagho.
+P7	Tete yabweine ompiti ng'ali kukuma omusyo.
+P8	Omusyo gwayakire paka gya Gamufudu. Yatiiremu.
+P9	Omusyo gwa yokyerye omubiri gwe. Yatuumire kyeyuma, paka mu maizi.
+P10	Aye omubiri gwe gwali gumalire okwizula ebibuubuuto.
+P11	Ogamufudu yaagiirye amaka omwibbaale.Olususu lwe nga lukalu era nga lugumu.
+P12	Buti obulenga bwonka niibwo obulina olususu olugondi era bubba mu maizi.
+
+images:
+
+illustrations/pages/13417.png
+illustrations/pages/13415.png
+illustrations/pages/13416.png
+illustrations/pages/13417.png
+illustrations/pages/13418.png
+illustrations/pages/13419.png
+illustrations/pages/13421.png
+illustrations/pages/13422.png
+illustrations/pages/13423.png
+illustrations/pages/13424.png
+illustrations/pages/13425.png
+illustrations/pages/13426.png
+illustrations/pages/13427.png
+
+translations:
+
+Afaan Oromo (Translation)	Gogaa Fattee	id=20424
+Amharic (Translation)	የእንቁራሪት ቆዳ	id=20492
+English (Original)	Mod the toad	id=13546
+English (Adaptation)	How the toad got its skin	id=19766
+isiZulu (Translation)	USele, iselesele	id=20669
+Kiswahili (Translation)	Jinsi chura alivyopata ngozi yake	id=20439
+Lusoga (Translation)	Engeri eikere yerifuna oluwu	id=26026
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
+Portuguese (Translation)	Mod, a Sapa	id=17037

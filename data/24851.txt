@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=24851&d=0&a=1
+id:	24851
+title:	Omusaadha atafaayo
+author:	Charles Eramaga and Kyambogo  University
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24851.png
+desc:	Amaka agomusaadha atafaayo galumwa endhala.
+
+page_text:
+
+P1	Eira einho, waliiyo omasaadha ye baayetanga Yoweri mu kyalo Kabukye.
+P2	Omusaadha ono ti yafangayo kweterekera mmere ya biseera bya mu maiso, yoona yoona yagyonoona.
+P3	Mu kyagi ti mwasigala ghaire.
+P4	Ebisimbe bya duuma byaniara era byakala.
+P5	Kikunta ow'amaani yaagingula ku kyagi akasulya.
+P6	Abaana baalwanira obumere obutonioli obwaali bulekeibwa mu buseepiki.
+P7	Maama w'abaana yaagwa ku itaka nga abbologa tiyeebuuza, "kyennaaliisa abaana olunaku olwiraku kinavaagha."
+P8	Bbaabba w'abaana atyama ku balaza nga alowooza ebyomumaiso.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+Alur (Translation)	Jadit ma Jaswa	id=23000
+ChiShona (Translation)	Murume asina kurongeka	id=22246
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Translation)	Umugabo Utita Kukintu	id=23429
+Kinyarwanda (Uganda) (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lugbarati (Translation)	Agupi a'dikoruri	id=23433
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

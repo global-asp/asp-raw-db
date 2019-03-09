@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24625&d=0&a=1
+id:	24625
+title:	An African mother
+author:	Akankwasa Jacky
+artist:	Catherine Groenewald, Idowu Abayomi Oluwasegun, Jesse Breytenbach, Rob Owen, Ursula Nafula and Zablon Alex Nguku
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24625.png
+desc:	This story is about a day of an African mother. This shows you how much she does in just one day.
+
+page_text:
+
+P1	She wakes up very early in the morning before the sunrise.
+P2	She  goes to fetch water for the elders to use when they wake up.
+P3	She goes to the garden so she can be early to prepare breakfast.
+P4	Then she takes the goats out to graze.
+P5	She leaves them there and comes home to prepare supper for the family.
+P6	Later in the evening, she fetches the goats and then serves supper.
+
+images:
+
+illustrations/pages/9493.png
+illustrations/pages/26425.png
+illustrations/pages/25363.png
+illustrations/pages/10655.png
+illustrations/pages/14039.png
+illustrations/pages/1013.png
+illustrations/pages/8826.png
+
+translations:
+
+Lusoga (Translation)	Maama omufirika	id=25041
+Lusoga (Translation)	Maama  omu Firika	id=30573

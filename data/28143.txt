@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=28143&d=0&a=1
+id:	28143
+title:	Anasookayo
+author:	David  Bamukangwiire and Muzamiru Bamukangwiire
+artist:	Vusi Malindi, Catherine Groenewald and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28143.png
+desc:	Luno olufumo lugema ku baana abato abanhumirwa Cesooko. Omutendesi waibwe ali nokwewunhia kungi ku kikunsu kyaibwe.
+
+page_text:
+
+P1	Ngonja inho cesooko, ate ighe?
+P2	Maaliki alikusoma cesooko, gheena onhumirwa?
+P3	Tuje mu kisaaghe.
+P4	Maaliki ono omuzaanhi ghaife asinga.
+P5	Olumaliira lw'omuzaanho, omutendesi atukoba ati, "Ndi n'ekiidha okubewuunhi
+P6	Aye akoba ati, "Ndidha kukibakobera enco."
+P7	Olunaku olwairirira, boonaboona baidha ku kisaaghe.
+"Twenatwena tubigonza."
+P8	"Maaliki ali n'eby'okukozesa ebiyaaka n'emipiira ebitumala twenatwena!"
+
+images:
+
+illustrations/pages/7978.png
+illustrations/pages/11676.png
+illustrations/pages/7977.png
+illustrations/pages/7978.png
+illustrations/pages/7980.png
+illustrations/pages/7982.png
+illustrations/pages/7983.png
+illustrations/pages/13435.png
+illustrations/pages/7985.png
+
+translations:
+
+Afrikaans (Translation)	Sokker Wedstryd	id=11307
+Afrikaans (Translation)	Sokker Wedstryd	id=11403
+English (Translation)	Soccer Game	id=9825
+English (Adaptation)	Soccer Game is  Good	id=13524
+English (Translation)	Chiefs Versus Aces	id=21412
+French (Translation)	Une Partie De Football	id=13277
+isiXhosa (Adaptation)	Indebe yomhlaba: I-Chiefs ne-Aces	id=9826
+isiZulu (Translation)	Sithanda ibhola lezinyawo	id=13325
+Luganda (Translation)	Okuzannya Akapiira	id=8425
+Lunyole (Translation)	Omupiira	id=13523
+Lusoga (Translation)	Sooka kyesooko	id=27423
+Sepedi (Original)	Re bapala bolo	id=8038
+Sesotho (South Africa) (Translation)	Re Bapala Bolo	id=9831

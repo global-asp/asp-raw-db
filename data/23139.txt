@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=23139&d=0&a=1
+id:	23139
+title:	Busua la'ta
+author:	Siyasa Jimmy
+artist:	Jesse Breytenbach
+lang:	Lugbarati
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23139.png
+desc:	Buku lata ni-i
+
+page_text:
+
+P1	Busua si? Busua toko
+P2	Busua si? Busua alu
+P3	Busua si? Busua iri
+P4	Busua si? Busua na
+P5	Busua si? Busua su
+P6	Busua si? Busua towi
+P7	Busua si? Busua azia
+P8	Busua si? Busua aziri
+P9	Busua si? Busua aro
+P10	Ama'a ne di'i adu? Busua mva ari pati si!" Ma mi eto' ra!"
+P11	" Mama we, ama eco eri-i ma tambara? azini alu toko." Busua si? Busua oromi
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Dhopadhola (Translation)	kwano pus	id=23214
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala Puusi	id=24824
+Lusoga (Translation)	Okubala puusi	id=27336
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584

@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=30583&d=0&a=1
+id:	30583
+title:	Emiti Miruungi
+author:	Ibrahim  Isabirye and Kyambogo  University
+artist:	Wiehan de Jager, Neo and José Nhambo
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30583.png
+desc:	Emigaso gyemiti eri abantu
+
+page_text:
+
+P1	Emiti gitugha emere eyebika ebyendhawulo okugeza mwogo n' emboli.
+P2	Emiti kyabulambuzi era gitugha obugaiga nga ife abanaansi.
+P3	Emiti gitugha ebibala. Okugeza, emiyembe, obutundha, emithungwa ni feene.
+P4	Emiti tugifunamu obulezi obwendhawulo okuza nga obukaala, eibombo, lubirizi
+P5	Emiti gituyamba ku mu kukola amaadhi agagwa naadala amadi agagwa.
+P6	Emiti gituwa ekyenzenze ate era tugizimbisa amayumba.
+P7	Emiti gibandhwamu ebintu   nga entebe, ebitandha, emeeza n'ebindhi kamaala.
+P8	Emiti gyamugaso inho tugyendha era gitusanhusa.
+
+images:
+
+illustrations/pages/10226.png
+illustrations/pages/19709.png
+illustrations/pages/16539.png
+illustrations/pages/1500.png
+illustrations/pages/1072.png
+illustrations/pages/8395.png
+illustrations/pages/14747.png
+illustrations/pages/10279.png
+illustrations/pages/10763.png
+
+translations:
+
+Luganda (Original)	EMITI EMILUNGI	id=24629

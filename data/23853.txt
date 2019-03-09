@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=23853&d=0&a=1
+id:	23853
+title:	Ruvarashe anofarira vayenzi
+author:	Blessing Nemadziva
+artist:	African Storybook, Rasheedat Sadiq and Wiehan de Jager
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23853.png
+desc:	Ruvarashe musikana akangwara. Anofarira vayenzi uye anogona kuvatandadza.
+
+page_text:
+
+P1	"Tisvikewo!" 
+Pamukova panogogodzwa zvine ruzha.
+P2	Ruvarashe anonzwa kufara zvikuru.
+
+"Ndiyani?" anobvunza.
+
+"Amai, kunze kune vayenzi!"
+P3	"Zvakanaka," amai vake vanodavira. "Vanofanira kunge vari Mai Mutasa. Vavhurire vapinde."
+P4	Ruvarashe anovhura mukova achinyemwerera. "Titambire amai, pindai zvenyu. Amai vangu vachava nemi zvino-zvino."
+Mai Mutasa vanonzwa kufara kwazvo.
+P5	"Ndikutsvagirei chekunwa here?" Ruvarashe anobvunza.
+"Rega kuzvinetsa zvako Ruvarashe, parizvino ndakakwana," Mai Mutasa vanodavira.
+P6	"Maswera sei, Mai Mutasa," mai vaRuvarashe vanobvunza. "Ndineurombo kukugadzikai mega kwenguva refu."
+"Kwete shamwari, Ruvarashe anditandadza kwazvo."
+P7	Amai vaRuvarashe vanonyemwerera. 
+"Chokwadi, Ruvarashe anogona kutandadza vayeni samare. Anondifadza chose," mai vaRuvarashe vanopindura.
+
+images:
+
+illustrations/pages/26908.png
+illustrations/pages/27079.png
+illustrations/pages/27080.png
+illustrations/pages/27081.png
+illustrations/pages/27082.png
+illustrations/pages/27083.png
+illustrations/pages/27084.png
+illustrations/pages/27085.png
+illustrations/pages/27086.png
+
+translations:
+
+Ateso (Translation)	Emina Alake ipejok	id=23219
+English (Original)	Alake loves Visitors	id=23165
+English (Adaptation)	Alake loves visitors	id=23465
+Lusoga (Translation)	Alake ayenda abageni	id=23192
+Rukiga (Translation)	ALEKE NAKUNDA ABAGYENYI	id=23492
+Runyankore (Translation)	Alake nakuunda abagyenyi	id=23991

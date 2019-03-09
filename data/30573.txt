@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=30573&d=0&a=1
+id:	30573
+title:	Maama  omu Firika
+author:	Kyambogo  University and Paul Wambi
+artist:	Catherine Groenewald, Idowu Abayomi Oluwasegun, Jesse Breytenbach, Rob Owen, Ursula Nafula and Zablon Alex Nguku
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30573.png
+desc:	Olufumo luno lugema ku mukazi omufirika.
+
+page_text:
+
+P1	Asituka  mu  nco  inho  nga  n'endhuba  ekaali  kuvaayo.
+P2	Yaaja  okunona  amaadhi og'okukozesa  ghaka  nga  dhaadha  we  asitwike.
+P3	Aja  mu  nhimiro  era  yaatera  okutegeka  eky'enco  mu  bwangu.
+P4	Yaatwala  embuzi  ku  nsiko.
+P5	Ava  ghaka  nga  amaze  okutegeka  eky'eigulo.
+P6	Nga  esaawa  dhijiireku olw'eigulo, aja  yaanonayo  embuzi  era  yaiwula.
+
+images:
+
+illustrations/pages/9493.png
+illustrations/pages/26425.png
+illustrations/pages/25363.png
+illustrations/pages/10655.png
+illustrations/pages/14039.png
+illustrations/pages/1013.png
+illustrations/pages/8826.png
+
+translations:
+
+English (Original)	An African mother	id=24625
+Lusoga (Translation)	Maama omufirika	id=25041

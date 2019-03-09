@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=28182&d=0&a=1
+id:	28182
+title:	Rats!
+author:	
+artist:	Stephanie Simpson
+lang:	
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28182.png
+desc:	.
+
+page_text:
+
+P1	Ghaligho  omusaadha  eyatunda  bwito  gweyakolera  ghaka  ghe.
+P2	Munhumba  eyo  mwalimu  empube. Nhingi  inho!
+P3	Buli  lunaku  empube  dhalinganga  ku  bwito  dhakoba, "Tusobola  tutya  okufunha  bwito  oyo?"
+P4	Empube  dhagezaku  okuta  eminwa  dhadho  mu  nthupa. Aye  ebifo  mu  nthupa  byali  bitono  inho.
+P5	Empube  dhagezaku  okunhinha  kungulu  ku  nthupa. Aye  nga  obwito  tibuyuyika.
+P6	Empube  dhali  n'olukungano  okwogera  kunsonga  eyo.  Nkabisewo  ekiseraq,  "Tute  emikira  dhaife  mu  nthupa.  Agho  tusobole  okukomba  obwito  ku  mikiira  dhaife.
+P7	Ekyo  nhikyene  empube  kye  dhakola. Dhata  emikiira  dhadho  mu  nthupa, era  dhakomba  bwito  kubuli  mukiira  gwayiinhayo.  Empube  dhakola  diiti  paka  bwedhakomba  mu  bwito  yenhayenha.
+P8	Omusadha  o'womunhumba  yabonha  nga  bwito  we  yenhayenha  aweiremu!
+P9	Era  eyo  nheyali  enkomerero  ya  kyo.
+
+images:
+
+illustrations/pages/10465.png
+illustrations/pages/10464.png
+illustrations/pages/10465.png
+illustrations/pages/10466.png
+illustrations/pages/10467.png
+illustrations/pages/10468.png
+illustrations/pages/10469.png
+illustrations/pages/10470.png
+illustrations/pages/10471.png
+illustrations/pages/10472.png
+
+translations:
+
+Ciyawo (Translation)	Makoswe!	id=19002
+English (Translation)	Rats!	id=10474
+Lusoga (Translation)	Empube	id=29900
+Portuguese (Original)	Ratos!	id=10461
+Portuguese (Translation)	“Ratos!”	id=19003

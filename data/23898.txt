@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=23898&d=0&a=1
+id:	23898
+title:	Zuma ne Zahara
+author:	MICHAEL KISEKKA
+artist:	Axium A
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23898.png
+desc:	Zuma yali nga ayagala okuwasa Zahara.
+
+page_text:
+
+P1	Mqanduli kifo kilungi kumpi ne Mthatha ela kilina ebizimbe. Mulimu striiti nyingi ela tulina ebiffo bingi okugenda mu Mthatha.
+P2	Zuma ayina omutwe omunene nakalevu akawanvu. Ayinna amasso amanene. Zuma simulungi, mukadde. Ela womutunula mumasso olaba mutemu.
+P3	Zuma yali ayagala kusaba Zahara okumuwasa, naye yali tamanyi engeli yo kwogela naye. Nasalawo okugenda mu nyumba ya Zahara ayogela naye.
+P4	Zuma yasaba Zahara okumuwasa. Zahara nagamba  nti sisobola kukuwasa kubanga olimukadde nnyo ate alinayo omussaja we  gwe bamuyita Amaza gwe nja okuwasa.
+P5	Zuma yagenda ewo musawo omuganda okufuna edagala elina musobozesa Zahara okumuwasa. Omusawo omuganda namugamba nti ayagala Zahara ne Amaza kuba bajja kwewasa. Ela sisobola kukikola.
+P6	Zuma teyafuna dagala ela yali anyinze  nnyo nga musunguwavu nnyo lwakuba yali ayagala nnyo Zahara.
+P7	Zahara teyawasa Zuma. Ela tali kikola.
+
+images:
+
+illustrations/pages/18076.png
+illustrations/pages/18077.png
+illustrations/pages/18079.png
+illustrations/pages/18078.png
+illustrations/pages/18076.png
+illustrations/pages/18082.png
+illustrations/pages/18080.png
+illustrations/pages/18081.png
+
+translations:
+
+English (Original)	Zuma and Zahara	id=15963
+Lusoga (Translation)	Zuluma ni Zahara	id=27435

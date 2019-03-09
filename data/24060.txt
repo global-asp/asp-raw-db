@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=24060&d=0&a=1
+id:	24060
+title:	igisiga n'inkoko
+author:	sandra asiimwe
+artist:	Mango Tree, Silva Afonso, Marleen Visser and Melany Pietersen
+lang:	Kinyarwanda (Uganda)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24060.png
+desc:	Lyi nkuru isobanura impamuu inkoko zibana nabantu ni mpamuu ibisiga birya inkoko.
+
+page_text:
+
+P1	Habayeho, igisiga ninkoko inshuti nyanshuti. Barafatanya ga muhihe bakeneranye.
+P2	Barakinanye. Bakinye nizidi nyamanswa nk'akanyamasyo.
+P3	Baribafite inka, intama, ihene n'ingamiya. Bororaga hamwe mu kibaya barimo gukina.
+P4	Ununsii umwe inkoko yagite gutira urwembe igisiga kogosha abana be. Igisiga cyahaye inkoko urwembe kitabajije.
+P5	inkoko yogoshe bana bayo neza. Gusa yibagiwe kubika neza urwembe
+P6	Igihe igisiga cyaye gufuta urwembe rwanyo, inkoko yararubuze. inkoko yaharuye mubusa. Igisiga cyararakaye gitangira kurya imishwi.
+P7	Inkoko yirukankiye ubuzima bwayo maze igya kubana nabantu. kugyeza nubu inkoko zibana nabantu kandi ibisiga birya imishwi.
+
+images:
+
+illustrations/pages/13574.png
+illustrations/pages/13571.png
+illustrations/pages/13685.png
+illustrations/pages/13357.png
+illustrations/pages/13692.png
+illustrations/pages/13572.png
+illustrations/pages/13581.png
+illustrations/pages/13574.png
+
+translations:
+
+Acholi (Translation)	winyu ki gweno	id=24116
+English (Original)	Eagle and the Hen	id=13756
+Luganda (Translation)	empungu ne enkoko	id=24010
+Lusoga (Translation)	Eikoli n'enkoko	id=26773

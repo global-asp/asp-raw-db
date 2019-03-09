@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=24459&d=0&a=1
+id:	24459
+title:	Omuzaano gwo kucumba
+author:	Christine Karamagi
+artist:	Reginaldo Vicente Manhice
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24459.png
+desc:	Wakame yayeta munywani we nkende kuzaana beitu ebintu tibyamaliira kurungi.
+
+page_text:
+
+P1	Omubiro byaira muno, Wakame na'Nkende bakaba banywani. Kiro kimu, mu bwire bwe enjara, Wakame akeeta Nkende kuzaana nawe.
+P2	Wakame yagamba, "leka tuzaane ebyo kwecumba!" Nkende yakaguza, "Ekyo ntukikora tuta?"
+P3	Wakame yamugarukamu, "Twiina kubanza kuhemba omuuro."
+P4	Wakame yayeyongerayo, "Ntwijuza ensoha na'maizi, ntigiteka ha muro."
+P5	"Ninyija kubanza kutahamu. Obunda teera omuhiha gw'ensoha, ogwiheho. Nturukemu." Nkende yaikiriza.
+P6	Wakame yataaha mu'nsoha
+P7	Amaizi  obugatandikire kutagata, Wakame yakonkona, Nkende yaihaho omuhiha.
+P8	Omurundi gwa Nkende obugwahikire, Wakame yateeka ekibaale ekikooto ha muhiha gw'ensoha kandi yagwikaaraho.
+P9	Amaizi obugatandikire kucamuka, Nkende akakonkona beitu Wakame tiyayihaho omuhiha.
+P10	Nkenda akafa, Wakame yalya munywani we nfenanfe!
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/17555.png
+illustrations/pages/17553.png
+illustrations/pages/17557.png
+illustrations/pages/17561.png
+illustrations/pages/17554.png
+illustrations/pages/17562.png
+illustrations/pages/17556.png
+illustrations/pages/17560.png
+illustrations/pages/17559.png
+illustrations/pages/17558.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25371
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The cooking game	id=6993
+English (Adaptation)	(Colour-in) The Cooking Game	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo wokuphekana (Faka imibala)	id=17564
+Lusoga (Translation)	Omuzaanho ogw'okwefumba	id=24982
+Lusoga (Translation)	Omuzaanho omufumbe	id=29602
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

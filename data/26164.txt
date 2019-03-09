@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=26164&d=0&a=1
+id:	26164
+title:	Eibudhe ligwa mu mwiga kiira
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Jesse Breytenbach, Manyeka Arts Trust and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26164.png
+desc:	Sandura yali atambula kumbali kwomwiga kiiranga omwana ghe. Yatyelera omwana ghe yagwa mu mwiga kiira. Aye yaghanga oku okununura omwana ghe?
+
+page_text:
+
+P1	sandura yali atambulira ku mbali kwa omwiga kiira ni omwana ghe.
+P2	Yatyerera yagwa mu mwiga
+P3	Yatya inho bwe yali nga tabona mwana ghe.
+P4	Ya woigana asobole okufuna obuyambi kuba yali taghanga kuwuga
+P5	Ekyomuteghana ezira yaidha ku munhunhula era yafilwa omwana ghe.
+
+images:
+
+illustrations/pages/15112.png
+illustrations/pages/5853.png
+illustrations/pages/2422.png
+illustrations/pages/1134.png
+illustrations/pages/19012.png
+illustrations/pages/9392.png
+
+translations:
+
+English (Original)	Baby falls into the River Nile	id=24519

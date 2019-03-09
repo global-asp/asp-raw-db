@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=27435&d=0&a=1
+id:	27435
+title:	Zuluma ni Zahara
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Axium A
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27435.png
+desc:	Zuluma ayenda kubayiza Zahara. Kale mubone katemba ono.
+
+page_text:
+
+P1	Maganduli kifo kikalamu okumpi ni Mutaata era kiri ne ebizimbe bigonoka omboneku. Eriyo enguudo nningi era eliyo ebifo bingi eby'okuja mu kukyakala e Mutaata.
+P2	Zuluma ali no ogutwe ne ensaya mpanvu. Ali na agaiso, ti mulungi, ate mukaire. Bwolinga ku Zuluma obona omwisi.
+P3	Zuluma ayendha kusaba Zahara amubayize, aye taidhi ngeri ya kumukoba. Asalawo kuja mu nhumba ya Zahara ayogere naye.
+P4	Zuluma asaba Zahara amubayire. Zahara akoba, "Mbe nze tiidha kukubayira kuba oli mukaire inho ate nnina mukenkedhe wange ayetebwa Amaza. Ndidha kumufumbirwa."
+P5	Zuluma aja ku musawuzi afune akalezi akanaaleetera Zahara okumufumbirwa. 
+Omusawuzi akoba, "Nnhendha Zahara ni Amaza gwendibayiza. Kale tisobola kukola ekyo."
+P6	Zuluma tafuna bulezi era anholwa no okunhiiga kuba agonza Zahara kufabufe.
+P7	Zahara tiyafumbirwa Zuluma. Era talimufumbirwa.
+
+images:
+
+illustrations/pages/18076.png
+illustrations/pages/18077.png
+illustrations/pages/18079.png
+illustrations/pages/18078.png
+illustrations/pages/18076.png
+illustrations/pages/18082.png
+illustrations/pages/18080.png
+illustrations/pages/18081.png
+
+translations:
+
+English (Original)	Zuma and Zahara	id=15963
+Luganda (Translation)	Zuma ne Zahara	id=23898

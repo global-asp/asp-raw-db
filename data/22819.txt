@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=22819&d=0&a=1
+id:	22819
+title:	Ishima nende Ifisi
+author:	Emily  Barasa
+artist:	Salim Kasamba
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22819.png
+desc:	Abakofu babolera Ishima nende Ifisi
+
+page_text:
+
+P1	Ishima nende Ifisi basolana.
+Benya amachero okhurula khumukhalachi owefina.
+P2	Omukhalachi napara, "Lishene lilalia amatumwa. Ifisi ilalia efiayo fianje."
+P3	Okhumalirikha omukhalachi nababolera, "Khaabe amachero khubakofu."
+P4	Abakofu bosi baria. Shibahana amachero tawe.
+P5	Abakofu babolera Ishima nende Ifisi, "Omuse kuno nomutinyu."
+P6	Abakofu babola, "Khaabe amachero okhurula khumukhasi omutakha."
+P7	Omukhasi omutakha nakhalaka omuse. "Euma emiandu echiokhukosia."
+P8	Nabolera Ifisi, "Waribwa mbu oli omukhongo, lekha obusolo."
+P9	Ifisi niibola, "Obolere abwene. Shindenya tsisoni tawe."
+P10	Nabolera Ishima, "Oli omuchesi lekha obusolo." Ishima niifuchirira.
+P11	Omukhasi nababolera, "Mufuchirire okhulekha obusolo. Nobulayi mulekhanire."
+P12	Omukhasi omutakha namala emilekano chiabo.
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18696.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18708.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18706.png
+illustrations/pages/18707.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+Afaan Oromo (Adaptation)	Waraabessaafi Qamale	id=21771
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	(Colour-in) Hyena and Monkey	id=20157
+English (Adaptation)	Monkey and Hyena	id=21395
+Kiswahili (Translation)	Kima na Fisi	id=21841
+Kiswahili (Translation)	Mzozo wa Fisi na Kima	id=22061
+Lámnsoʼ (Translation)	Kán wùn Kuúrá	id=22414
+Luganda (Translation)	Enkima ne Empisi	id=23422
+Luganda (Translation)	Wakibe ne Wankima	id=23510
+Lusoga (Translation)	Wampiti ni Wankembo	id=24897
+Rufumbira (Translation)	Igisamagwe ni Inkende	id=23440
+Runyankore (Translation)	Empisi ne Ekyende	id=24280
+Tiv (Translation)	Dwem man Bagu	id=23878

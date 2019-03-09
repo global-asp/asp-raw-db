@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=27986&d=0&a=1
+id:	27986
+title:	Abandi babuuza
+author:	Charles Eramaga and Kyambogo  University
+artist:	Caroline Lentupuru
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27986.png
+desc:	Abaana babuuzibwa bingi ebibagemaku nebibetolweire.
+
+page_text:
+
+P1	Abaana abandi babuuza,"Biki ebyo omunaana?" Miti munaana! Biki ebyo omunaana?
+P2	Abaana abandi babuuza,"Biki ebyo omunaana?" Miti munaana! Biki ebyo omunaana?
+P3	Binhonhi munaana!Biki ebyo omunaana?Miti munaana? Ente munaana! Biki ebyo omunaana?
+P4	Ente munaana! Biki ebyo omunaana?
+P5	Bino byona byona babigha amaina okusinzira ku kala. Obwo amwana asooka alinoba ekala oba amaina eg'embuzi oba ente omunaana.
+P6	Embuzi dhino omunaana da kala ki? Abaana abandi bairamu,"Embuzi omunaana endheru."
+P7	Bakamuusi kakunsu akairirira akasembayo butono munsi ya Kenya. Akakunsu kaghangalira kulubalama lw'enhandha Baringo mu isaza lya Baringo. Tibabuuka mitwalo etanu.
+P8	Abantu bano bayi, batono eranga babolebwa munsi ya Kenya. Amazima kamuusi liina lya ba Masai eritegeza abantu abalengera mu maiso. Bacuusibwa ni bakyepe bayetebwa"Njemps"
+P9	Okusinsira ku mpisa deibwe, bakamuusi abokubiri betololera ku bwayi na miti.Ebisolo nemere, emiti n'eisubi bya nsolo. Kale abaana babandhulira kala n'omughendo ogwebintu.
+
+images:
+
+illustrations/pages/2425.png
+illustrations/pages/2428.png
+illustrations/pages/2545.png
+illustrations/pages/2426.png
+illustrations/pages/2427.png
+illustrations/pages/2430.png
+
+translations:
+
+English (Original)	Lekeek Isiet! Eight Trees	id=2547
+Lusoga (Translation)	Abandi babuuza	id=24849

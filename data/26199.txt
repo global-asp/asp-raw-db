@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=26199&d=0&a=1
+id:	26199
+title:	Dhaadha ghange omukazi
+author:	Charles Eramaga and Kyambogo  University
+artist:	Ingrid Schechter
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26199.png
+desc:	Omulenzi acaalira dhaadha ghe omukazi era yaafuna eisanhu.
+
+page_text:
+
+P1	Dhaadha omukazi anamusa.
+P2	Twalumuka okuja okubona ku Nte da dhaadha omukazi.
+P3	Twagonzania naye bulungi.
+P4	Namala namulumukaku.
+P5	Dhaadha omukazi yakowa inho.
+
+images:
+
+illustrations/pages/7579.png
+illustrations/pages/7583.png
+illustrations/pages/7587.png
+illustrations/pages/7579.png
+illustrations/pages/7592.png
+illustrations/pages/7580.png
+
+translations:
+
+English (Original)	My grandma	id=7652
+Luganda (Translation)	Jjajja Wange.	id=7668
+Luganda (Translation)	Jajja Wange Omukyala.	id=9667
+Lusoga (Translation)	Dhaadha ghange	id=28966

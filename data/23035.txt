@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=23035&d=0&a=1
+id:	23035
+title:	Kuku amfanyia Tai hila
+author:	Ursula  Nafula
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23035.png
+desc:	Kuku anamfanyia Tai hila mbaya sana. Isome hadithi upata kufahamu namna ilivyokuwa.
+
+page_text:
+
+P1	Hapo zamani, Kuku na Tai walikuwa marafiki. Siku moja, Tai alimkuta Kuku akiwa anapumzika chini ya mti. Alikuwa amesimamia mguu mmoja pekee.
+P2	Tai alimwuliza Kuku, "Mguu wako mwingine uko wapi?"
+P3	Kuku alimweleza Tai, "Mwenye duka aliukata na badala yake akanipatia vitu hivi."
+P4	Tai alimwuliza Kuku ikiwa yeye pia angeweza kufanya  hivyo. Vilevile alitaka mfuko uliojaa vitu. Kuku alikubali.
+P5	Tai alimwendea mwenye duka akitaka aukate mguu wake mmoja na badala yake ampatie vitu vitamu. Mwenye duka alikubali akafanya hivyo.
+P6	Tai aliruka ruka kwa mguu mmoja akielekea nyumbani. Hata hivyo, alivifurahia vitu alivopewa na mwenye duka.
+P7	Tai alipofika nyumbani, alimkuta Kuku akiwa na miguu yake miwili.
+P8	Tai alikasirika sana akaanza kumfukuza Kuku. Lakini hakuweza kumshika. Hiyo ndiyo sababu Tai huwashambulia vifaranga wa Kuku kila mara. Anapomshika mmoja, yeye humla.
+
+images:
+
+illustrations/pages/9588.png
+illustrations/pages/9587.png
+illustrations/pages/9588.png
+illustrations/pages/9589.png
+illustrations/pages/9590.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/9593.png
+illustrations/pages/9594.png
+
+translations:
+
+Afrikaans (Translation)	Hen Kul vir Arend	id=16344
+ChiTonga (Translation)	Nkuku  Yamucenga  Sikwaze	id=18646
+CiNyanja (Translation)	Nkuku yamupita kunzelu Nkwazi	id=18664
+English (Translation)	Hen tricks Eagle	id=10544
+IciBemba (Translation)	Inkoko Yacenjesha Kapumpe	id=18683
+isiNdebele (Translation)	Isikhukhukazi sakhohlisa ikhozi	id=21929
+isiXhosa (Translation)	USikhukukazi uqhatha uKhozi	id=17526
+isiZulu (Translation)	USikhukhukazi uqiliga uKhozi	id=16359
+isiZulu (Translation)	Uskhukhukazi Ukhohlisa Ukhozi	id=16547
+Lunyole (Original)	Engoho N’Ekongoja	id=10543
+Lusoga (Translation)	Wankoko aghubania Wakibwala	id=27051
+Sepedi (Translation)	Kgogo e hlalefetša Ntšhu	id=18169
+Sesotho (South Africa) (Translation)	Kgoho o jalletsa Ntsu	id=20029
+Setswana (Translation)	Koko O Tsietsa Lenong	id=17647
+SiLozi (Translation)	Kuhu Ipuma Mbande	id=18719
+Siswati (Translation)	Sikhukhukati ukhohlisa Lukhoti	id=21954
+Tshivenda (Translation)	Khuhu I Fhura Goni	id=18301
+Xitsonga (Translation)	Huku Yi Xenga Koti	id=18877

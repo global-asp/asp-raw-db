@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=26813&d=0&a=1
+id:	26813
+title:	Ekyalo  kyange
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Wiehan de Jager, Mario Kart, Laura Libertore, Vusi Malindi and Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26813.png
+desc:	Abasomi abato basoma ebigema ku kyalo mu uganda.
+
+page_text:
+
+P1	Nviira  mukyalo e Uganda ekyetebwa  Kighangala.  Kyalo kirungi  inho.
+P2	Abaana  mu kyalo benda  okuja  ku  isomero. Twenda  abasomesa  baife.
+P3	Kwisomero   twenda okusoma. Twenda okubala namba. 1, 2, 3,  4, 5,!
+P4	Twenda  okuzaanha ni  mikwano  gyaife.
+P5	Twenda  okulya  amatooke  mu  kyalo kyaife.
+P6	twenda  okubinga  e  mbiidhi.
+P7	Twenda  okuzaanha  ni  mikwano  gyaife.
+
+images:
+
+illustrations/pages/1659.png
+illustrations/pages/9690.png
+illustrations/pages/9353.png
+illustrations/pages/9372.png
+illustrations/pages/7970.png
+illustrations/pages/2471.png
+illustrations/pages/6811.png
+illustrations/pages/8602.png
+
+translations:
+
+Amharic (Translation)	የኔ መንደር	id=14539
+Dhopadhola (Translation)	Piny Paran	id=18752
+English (Original)	My Village	id=9949
+Lusoga (Translation)	Akaalo kange	id=30752

@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=28605&d=0&a=1
+id:	28605
+title:	omuzeeyi ghe koleo
+author:	Kyambogo  University and kiirya zephania
+artist:	Wiehan de Jager and PHELLOW MMBUNI
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28605.png
+desc:	Akagero kanho kali kubolugandha abomuzeeyi alikugya mukibuga omulundhi ogusooka.
+
+page_text:
+
+P1	muzeeyi ghe koleo yakagya mukibuga.
+P2	mukazi ghe yeenha yakagya mukibuga.
+P3	mutabanhi gha mukazi gha koleo yenha yakagya mukibuga.
+P4	mugandha gha mutabanhi gha mukazi gha muzeeyi koleo yakagya mukibuga.
+P5	embwa ya mugandha gha mutabanhi gha muka muzeeyi koleo yakagya mukibuga.
+
+images:
+
+illustrations/pages/13990.png
+illustrations/pages/13990.png
+illustrations/pages/13992.png
+illustrations/pages/13988.png
+illustrations/pages/13989.png
+illustrations/pages/13993.png
+
+translations:
+
+English (Original)	The Old Man of Koleo	id=13938
+Luganda (Translation)	Muzeeyi we Koleo	id=24443
+Lusoga (Translation)	Muzeeyi gha  koleo	id=30106

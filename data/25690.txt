@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=25690&d=0&a=1
+id:	25690
+title:	Ibiri
+author:	Joseph  Mukwaya and Kyambogo  University
+artist:	Richard MacIntosh
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/25690.png
+desc:	Sentensi enhangu ku bintu ebibiri ebikolaganira aghalala nga amakono
+
+page_text:
+
+P1	Makono abiri gagema.
+P2	Abigere bibiri bisamba.
+P3	Maiso abiri gabona
+P4	Amatu abiri gawulira.
+P5	Amakono abiri ag'omuntu omugonzi gakunhwegera!
+P6	Ate amakono abiri amagonzi ganhwegera.
+
+images:
+
+illustrations/pages/3062.png
+illustrations/pages/3061.png
+illustrations/pages/3063.png
+illustrations/pages/3064.png
+illustrations/pages/3065.png
+illustrations/pages/3066.png
+illustrations/pages/3067.png
+illustrations/pages/3068.png
+illustrations/pages/3069.png
+illustrations/pages/3070.png
+illustrations/pages/3071.png
+
+translations:
+
+Arabic (Translation)	اثنان	id=19920
+English (Original)	Two	id=3072
+Gikuyu (Translation)	Igĩrĩ	id=9676
+Kiswahili (Translation)	Mbili	id=3101
+Ng’aturkana (Translation)	Ng'arei	id=9543

@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=23881&d=0&a=1
+id:	23881
+title:	Okahokololo komulilo
+author:	Hamukoto  Efraim
+artist:	Rob Owen
+lang:	Oshindonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23881.png
+desc:	Omulilo tagu popi ehokololo lyago gwene.
+
+page_text:
+
+P1	Andiya ndiku lombwele ehokololo lyandje mwene. Ohe tameke ongo handja oshona.
+P2	Ngele ompepo tai thalelendje ohematuka ta ndeendele nookondo.
+P3	Tse na ngoye ookume aawana.
+P4	Oheteleke oondja dhoye.
+P5	Oheminikile uusiku woye.
+P6	Ondina uupitilo oundji.
+P7	Ngame ondili oshilyo shezimo lyoye.
+P8	Ashike kotokelendje ngele owiithanandje kaayeni. Kandihole okuthigwapo ngaye awike.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166

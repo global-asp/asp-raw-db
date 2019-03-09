@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=23302&d=0&a=1
+id:	23302
+title:	Nyang ki Gunya
+author:	Catherine Aculu
+artist:	Abraham Muzee
+lang:	Acholi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23302.png
+desc:	Sitore me Gunya maryek mo okwero ka bedo dek me Nyang.
+
+page_text:
+
+P1	I kare mo, Nyang obedo cok inget nam ma dit kun tye ka oyo ceng. Gunya obino inget pii man ci joni g'omote.
+P2	Gunya openyo Nyang ka ma en kwo iye. "An akwo i nam." Gunya obedo ki ngeng. Omedo ki penyo Nyang ni, "Kwo I pii obedo nining?"
+P3	Nyang ogamo ni, "Kwo ne mit. In kono i kwo kwene?" Gunya ogamo ni, "An akwo i wii yat. Acamo nyig yat ki pote." Ci Gunya dok openyo Nyang ni in kono icamo ngo?"
+P4	Nyang ogamo ni, "An acamo ringo."I caa man onongo Nyang dong tye ka tamo kit yo ango me mako Gunya woko. Omede bene ki penyo Gunya ni,"Itewro Kwang?"
+P5	Gunya onamo ni,"Aa, pe an tama pe i kwang." Nyang oweke ni," Bin apwonyi kera gi kwang."
+P6	Nyang obwolo Gunya kun waco ni,"Pe ilwora. Bin ibed  I dye ngenya."Gunya ocito obedo i dye Nyang ocako kwang ki Gunya i pii.
+P7	Ikare ma dong g'oo i dye nam Nyang openyo Gunya ni," Iwinyo nining ka itye i dye nam kit man. Inongo mit ku?" Gunya ogamo ni,"Mit dok tye ka yomo iya bene."
+P8	Nyang oomo yweyo matut ci owaco ki Gunya ni,"nera tye ma kome lit matek. Peya wanongo yat mo ma cango two ne ni."
+P9	Gunya odoko lwo ma kome myel ni kaba kaba. Ocako ka tamo kit yo ango ma en eromo loyokwede ki i cing Nyang
+P10	Tam mo obino iwii Gunya. Owaco ki Gunya nip," e i par. Abimiyo oduno na ki neru. Ringo gunya bicango neru woko."
+P11	Lok ma oyomo cwiny Nyang. Ci openyo ni, Ada! itwero mino adaunu ni ki nera?" Gunya ogamo ni,"Ee, wan kwedi wan lurem!
+P12	Igeye cutcut Gunya owaco ki lareme ni,"Tima kica. Wiya owil adunu na odong woko i wii yat ka ma an akwo iye.Wdok kong cen wek acit agam."
+P13	Nyang kon ongeng manok ka dok openyo ni,"Ada? Ibi gamo adunu ni ki i wii yat?" Gunya ogamo ni, Ee, Wabicitowan kwedi ka neno neru."
+P14	Nyang oyee ci okwang odok cen idog nam ka ma g' nonge iye. Tek joni oo i dog nam ni tap Gunya opye ki idye Nyang
+P15	Cut ci wa iwii yat malo, ki kunu aye dong Gunya owaco ki lareme ni,"wanen nino mukene. Apwoyo tera ka limo pii nam!"
+P16	cwing Nyang okwyee. ki owako,"Man obwola? i bi dok kany ki adunu ni?" Gunya bene owako ni," An atwero ka bedo i di geyi pi an abero ki aduna!"
+
+images:
+
+illustrations/pages/19154.png
+illustrations/pages/19021.png
+illustrations/pages/19151.png
+illustrations/pages/19152.png
+illustrations/pages/19153.png
+illustrations/pages/19154.png
+illustrations/pages/19155.png
+illustrations/pages/19156.png
+illustrations/pages/19157.png
+illustrations/pages/19158.png
+illustrations/pages/19159.png
+illustrations/pages/19160.png
+illustrations/pages/19161.png
+illustrations/pages/19162.png
+illustrations/pages/19163.png
+illustrations/pages/19164.png
+illustrations/pages/19165.png
+
+translations:
+
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	(Colour-in) Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kinyarwanda (Adaptation)	Maguge n'Ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kiswahili (Translation)	Ape na  Mamba	id=24043
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Gonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Tiv (Translation)	Ikya man Ambe	id=23886

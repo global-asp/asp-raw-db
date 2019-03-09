@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=31015&d=0&a=1
+id:	31015
+title:	Ebibala
+author:	sheba Magabi
+artist:	Wiehan de Jager and Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/31015.png
+desc:	Ekibala kirungi inho mwife. Abantu
+
+page_text:
+
+P1	Ebibala, ebibala, ebibala.
+P2	Ebibala bighooma inho okubilya.
+P3	Abantu balya ebibala eby'endawulo.
+P4	Omuntu asobola okulya emiyembe, owundi yalya enaanansi.
+P5	Twena tunhumirwa okulya emithungwa.
+P6	Abaana benda inho amapeera.
+P7	Ebinhoni bilya nsaali.
+P8	Oooh, ooh! ebibala birungi ku bulamu. Abantu, ebisolo n'ebinhoni byenda ebibala inho.
+
+images:
+
+illustrations/pages/6198.png
+illustrations/pages/6212.png
+illustrations/pages/6198.png
+illustrations/pages/6223.png
+illustrations/pages/6218.png
+illustrations/pages/6205.png
+illustrations/pages/6212.png
+illustrations/pages/6204.png
+illustrations/pages/6205.png
+
+translations:
+
+English (Original)	Fruits	id=6369

@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=24361&d=0&a=1
+id:	24361
+title:	Obulabe bwo kusulilila maama
+author:	Jonathan Ddamulira
+artist:	
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24361.png
+desc:	Olugelo lwendowoza enyikivu olukwata ku maaka agabela mu nsenyu enkalu ya Turkana eli mumambuka gwo bukika obwa dyo mu Kenya.
+
+page_text:
+
+P1	Waliwo omwami gwebayitanga Lodipo. Yabeelanga ne bakyalabe ababili, Akai ne Akitela.
+P2	Mukyala wa Lodipo asooka, Akai, yeyeka eyali ayambako maama we eyali omuzibe
+P3	Olunaku lumu, mukyala wa Lodipo omuto,Akitela, yagamba, "tuvewo tugende mu kitundu kye dembe." Ekyalo kyebabelangako kyalumbibwanga abanyazi b'ente. Akitela yawulilanga atalina bukuumi.
+P4	Lodipo yagamba Akitela nti maama we yali tayagala kusenguka. Akitela yalemelako nti basenguke, baleke ne maama wa Lodipo omuzibe. "Bwetutava wano nja kudila abazadde bange," Akitala yakaabila Lodipo.
+P5	Lodipo yayagalanga nyo Akitela namwemaliza. Betegekela okusenguka. Omukyala asooka, Akai, yatunulila ebyali bigenda mumaaso noku buzabuzibwa.
+P6	Maama wa Lodipo omuzibe yatuula ku diiba lye embuzi wansiwo omutti. Yali tamanyi ku kigenda mumaaso. "Tumuleka tutya kululwe?" Akai yewunya.
+P7	Lodipo ne bakyalabe batiika ebintu byabwe ku ng'amya biili. Bagenda mubu silikilivu nga nomukyala omukadde tebamugambye nti welaba. Akai yali akaaba kubanga yali munaku eyo okuleka nazalawe kululwe.
+P8	Omukyala omukadde yakaaba nayimba luno oluyimba lwe naku nga ayiita mutabaniwe.  Yewunya eyandi mulabilide. Yewunya eyandi mujje mukasana akwokya.
+P9	Lodipo nebakyalabe webali bakasenguka, abanyazi baluumba ekitundu.
+P10	Abanyazi babuuza omukyala omukade okubabulila mutabaniwe jyeyalaze. "Tugenda mugobelela tumutee," bamugamba. Yegayilila, "Temutaa omukyala asooka nabaanabe." Yabasaba bakomyewo endiga ye, Lodipo jyeyali atute naye.
+P11	Abaajasi bagobelela Lodipo. Nga akyeteleza mu kitundu ekipya, mamugwako. Bamutaa ne mukyalawe omuto.
+P12	Omukya asooka, Akai, yadayo n'endiga. Baabela bwombi mu sanyu.
+
+images:
+
+illustrations/pages/6931.png
+illustrations/pages/6927.png
+illustrations/pages/6928.png
+illustrations/pages/6929.png
+illustrations/pages/6930.png
+illustrations/pages/6934.png
+illustrations/pages/6931.png
+illustrations/pages/6932.png
+illustrations/pages/6933.png
+illustrations/pages/6935.png
+illustrations/pages/6937.png
+illustrations/pages/6938.png
+
+translations:
+
+Afrikaans (Translation)	Die Gevaar Van Verwerping	id=11249
+English (Original)	Danger of abandoning a mother	id=7549
+isiXhosa (Translation)	Ingozi yokulahla umama	id=11462
+Kiswahili (Translation)	Lodipo amtoroka mama	id=15937
+Lusoga (Translation)	Akabendhe akokusuulirira maama	id=25388
+Ng’aturkana (Translation)	Erono akijal itokon	id=13313
+Sepedi (Translation)	Danger of abandoning a mother	id=11468

@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=31044&d=0&a=1
+id:	31044
+title:	ebidandhaali n'amandha
+author:	Antony Kisambira and Kyambogo  University
+artist:	Chidren of Paleng and Children of Paleng
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/31044.png
+desc:	Ebidhandhaali amandha byeidha ku mwiiga. Buli mutu tiyayendha kusala.
+
+page_text:
+
+P1	waaliwo ebidhandhaali n'akandha katono. bali bagya mukyaalo.
+P2	baatuuka kumwiiga gwebayendha okusala. bayagaana nga mughaanvu nga gutambula mubwangu.
+P3	batandhika okughakana mungeri eyo'kusala. ebidhandhaali byakoba,'sooka osala.''
+P4	bawghakana okutuusa ebidhanddaali bwebyasala.
+P5	eryandha bwelyasala, lyaagwa mumaadhi,''pshhhhhhh!'' ebidhandhaali byaseka okutuusa bwebyeyawuzaamu.
+
+images:
+
+illustrations/pages/15907.png
+illustrations/pages/15907.png
+illustrations/pages/15908.png
+illustrations/pages/15910.png
+illustrations/pages/15912.png
+illustrations/pages/15913.png
+
+translations:
+
+English (Translation)	Bean and Coal	id=15969
+Lusoga (Translation)	Wakidandaali ni Walyanda	id=30063
+Sesotho (Lesotho) (Original)	Naoa Le Leshala	id=15915

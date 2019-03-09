@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=25788&d=0&a=1
+id:	25788
+title:	Ekitono ni ekinene
+author:	David  Bamukangwiire and Kyambogo  University
+artist:	Vian Oelofsen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/25788.png
+desc:	Soma ebigema ku bintu ebighanga okuba ebinene oba ebitono.
+
+page_text:
+
+P1	Enkoofiira enene. Enkoofiira entono.
+P2	Emikono eminene. Emikono emitono.
+P3	Embuzi entono. Embuzi enene.
+P4	Ekitabo ekinene. Ekitabo ekitono.
+P5	Akamwenhu akanene. Akamwenhu akatono.
+P6	Enkomenkerezo.
+P7	Enkomenkerezo.
+
+images:
+
+illustrations/pages/3048.png
+illustrations/pages/3057.png
+illustrations/pages/3049.png
+illustrations/pages/3050.png
+illustrations/pages/3051.png
+illustrations/pages/3052.png
+illustrations/pages/3053.png
+illustrations/pages/3054.png
+illustrations/pages/3055.png
+illustrations/pages/3048.png
+illustrations/pages/3056.png
+illustrations/pages/3059.png
+
+translations:
+
+English (Original)	Little and Big	id=3060
+English (Adaptation)	Small and Big	id=13556
+Kiswahili (Translation)	Kubwa na Ndogo	id=15939
+Lunyole (Translation)	Ehitono N'ehibbala	id=13555
+Maa (Translation)	Enkití Ó Esápuk	id=3090
+Ng’aturkana (Translation)	Niichi Ka Niapolon	id=3091
+Oluwanga (Translation)	Akhatiiti Nende Okukhoongo	id=3092
+Somali (Translation)	Waxyar Iyo Waxweeyn	id=17259
+Zande (Translation)	Umba Na Bakere	id=16762

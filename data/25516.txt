@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=25516&d=0&a=1
+id:	25516
+title:	Amaadhi agagwa
+author:	David  Bamukangwiire and Kyambogo  University
+artist:	Marleen Visser
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25516.png
+desc:	Abaana boonaboona bendha okuzaanhira mu maadhi!
+
+page_text:
+
+P1	Nhendha amaadhi.
+P2	Nnhumirwa okuzaanhisa amaadhi.
+P3	Amaadhi gali kugwa.
+P4	Amaadhi agagwa gatugha amaadhi.
+P5	Nnhumirwa okuzaanhira kuliya.
+P6	Aye amaadhi gali kutoonha.
+P7	Nhumirwa okuzaanhira kuliya mu maadhi.
+P8	Enviiri dhange mbolu olw'okuzaanhira mu maadhi. Bbaabba ansiba enviiri.
+
+images:
+
+illustrations/pages/7964.png
+illustrations/pages/7958.png
+illustrations/pages/7959.png
+illustrations/pages/7960.png
+illustrations/pages/7961.png
+illustrations/pages/7962.png
+illustrations/pages/7963.png
+illustrations/pages/7964.png
+illustrations/pages/7965.png
+
+translations:
+
+Afrikaans (Translation)	Reën	id=11184
+English (Translation)	Rain	id=9828
+isiXhosa (Adaptation)	Imvula	id=9829
+Sepedi (Original)	Pula	id=8039

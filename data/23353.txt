@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=23353&d=0&a=1
+id:	23353
+title:	Ingona n'Imbwa
+author:	Mutabazi  William Evans
+artist:	Rob Owen
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23353.png
+desc:	Imbwa yasanze amagi yingona mu kibaya cyinyinja irayatwara
+
+page_text:
+
+P1	Umunsi umwe,Imbwa yasanze amagi ku nyanja
+P2	Nuko ifata amagi icumi iyashyira mu mufuka wayo irayajyana.
+P3	Ayo magi irayajyana,irayamenya iyarindira mu bushyuhe.
+P4	Ingona iza kubaza Imbwa iti, "waba wamboneye kumagi yange?".
+P5	Uko niko  iyi Ngona yabajije nizindi nyamanswa zose.
+P6	Muri icyo gihe,yamagi yarimo guturaga rimwe kurindi.
+P7	Imbwa inanirwa guha ibidyo bihagije ubwana bw'ingona bwa turazwe.
+P8	umunsi umwe, Ingona iza kwunva guhinda kuva mu nda z'ubwana bwayo
+P9	Nuko yinjira munzu y'imbwa iyikubitisha umurizo
+P10	Ingona irangije irayirukankana zimanuka mu muhanda
+P11	Hanyuma Imbwa igeze aho irahagarara ibwiri Ingona iti, "mbabarira"
+P12	Ingona irayibabara maze ihita ijya kwoga n'ubwana bwayo
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+English (Adaptation)	Crocodile and Dog	id=20911
+isiXhosa (Translation)	UNja noXam	id=17573
+Kinyarwanda (Adaptation)	Ingona n'Imbwa	id=24310
+Kiswahili (Translation)	Mbwa na mayai ya Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa na mayai ya Mamba	id=18327
+Kiswahili (Translation)	Mamba na Mbwa	id=21151
+Luganda (Translation)	Gonya ne Wambwa	id=22957
+Luganda (Translation)	Wambwa nne Ggoonya	id=24579
+Lusoga (Translation)	Wambwa ni Wangoina	id=25309
+Tigrigna (Translation)	ሓርገፅን ከልብን	id=21178

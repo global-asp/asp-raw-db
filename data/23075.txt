@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=23075&d=0&a=1
+id:	23075
+title:	Omwana wa Kumbana
+author:	Evelyn Birungi
+artist:	Razaque Lázaro Quive
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23075.png
+desc:	Ekyiganiro kyaba abanyeeto
+
+page_text:
+
+P1	Kaale hakaba hariyo omushaija muuto owu bakweta Kumbana
+P2	Kuyabere aine emyaka abiri n'e tano, akakundwana n'omweishiki owu babeire ni beta Zangane.
+P3	Bakaguma hamwe emyaka eshatu konka akaba ateine sente zo'ku mushwerwa.
+P4	Eizoba rumwe omwesheiki ya yeshanga aine omwana omu kibondo ahabwokuba bakaba batakukozesa akapila.
+P5	Bakazala omwana w'omwesheiki bamweta Kheri.
+P6	Konka Kumbana akaba akiri omu mushomo kandi Zangane akaba aine omurimo omu ka towni hare, kyabalemesa okutura hamwe.
+P7	Obweire kubwa genzire, Zangane ake funira omushaija mussya. Akeija kutula nawe nana omweisheiki we.
+P8	Kumbana akashasha. Akarira yarira ahabwokuba baka mweima omuhara we.
+P9	Obwere bukagyenda na Kumbana ya ffuna omukundanwa musya. Bakatula hamwe konka bakabula ruzaro.
+P10	Hati Keri akaba atakukunda ishe omusya. Akaba atiine mashemererwa ahabwokuba ishe omussya akaba amutera
+P11	Kuyashikere emyaka ikumi nibiri, nyoko yashara mu ngu amusindike owe ishe weiye.
+P12	Thero Kumbana na Kheri bagaluka mu amashemererwa.
+
+images:
+
+illustrations/pages/9722.png
+illustrations/pages/17591.png
+illustrations/pages/17584.png
+illustrations/pages/17587.png
+illustrations/pages/17583.png
+illustrations/pages/17588.png
+illustrations/pages/17593.png
+illustrations/pages/17589.png
+illustrations/pages/17586.png
+illustrations/pages/17585.png
+illustrations/pages/17590.png
+illustrations/pages/17594.png
+illustrations/pages/17592.png
+
+translations:
+
+Ateso (Translation)	(Ekala-toma) Ikoku ka Kumbana	id=24289
+English (Original)	Kumbana's child	id=9766
+English (Adaptation)	(Colour-in) Kumbana's child	id=17595
+isiZulu (Translation)	Ingane kaKumbana	id=15357
+Luganda (Translation)	Omwana wa Kumbana	id=23080
+Luganda (Translation)	Omwana wa Kumbana	id=23894
+Lumasaaba (Translation)	Umwana wa Kumbana	id=24064
+Lusoga (Translation)	Omwana wa Mukose	id=24959
+Portuguese (Translation)	A Filha De Kumbana	id=10554
+Rukiga (Translation)	Omwana wa Kumbana	id=24109
+Runyankore (Translation)	(Siga elanji) Omwana wa Kumbana	id=23227
+Runyankore (Translation)	(siga erangi) omwana wa Kumbana	id=23736
+Runyankore (Translation)	(Siga elanji) Omwana wa Kumbana	id=24526

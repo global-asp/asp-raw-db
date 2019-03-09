@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=26180&d=0&a=1
+id:	26180
+title:	Olugendo  lwa maako mu zuu
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Catherine Groenewald, Jesse Breytenbach, Mlungisi Dlamini, Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26180.png
+desc:	Maako akyala ku mu zuu
+
+page_text:
+
+P1	Maako ava eka okwolera zuu ni mukenkedhe ghe Mariya.
+P2	Mu lugendho lwaibwe, Mariya ni maako baagula ebyokulya.
+P3	Mariya yalumwa omutwe era yatandiika okulira.
+P4	Maako yanonia akalwariro okumpi afune ku bulezi
+P5	Tiyayagaana yo musawo oba omwidhandhabi
+P6	Baali bolekeire okwogera ku naabantu ku byobulamu.
+P7	Maako ya woigana afune ku buyambi era abantu bayeta omusawo.
+P8	Maako yagha Mariya eidhagala okuva yo'musawo era yamwiza yo eka.
+P9	Era tiyaja kubona bisolo, kuba mukenkedhe ghe yali alwaire.
+
+images:
+
+illustrations/pages/13745.png
+illustrations/pages/9635.png
+illustrations/pages/11997.png
+illustrations/pages/19819.png
+illustrations/pages/1623.png
+illustrations/pages/10546.png
+illustrations/pages/11453.png
+illustrations/pages/10277.png
+illustrations/pages/25359.png
+illustrations/pages/9079.png
+
+translations:
+
+English (Original)	Mark's trip to the zoo	id=23220

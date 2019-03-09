@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=27614&d=0&a=1
+id:	27614
+title:	Amapensa
+author:	John Kasiti and Kyambogo  University
+artist:	Natalie Propa and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27614.png
+desc:	Ebifa ku mapensa gonagona. Langi yandhawulo. Nenkula yandhaghulo.
+
+page_text:
+
+P1	Amapensa gange gonanagoa gakyetoloze.
+P2	Amapensa gange agandi gakiragala.
+P3	Amapensa gange gonagona matono.
+P4	Amapensa agandi gakyenvu.
+P5	Amapensa gange gonagona malungi.
+P6	Amapensa gange agandi gakasaayi.
+P7	Amapensa gane gonagona gamasamasa.
+P8	Amapensa agandi ga bulu.
+P9	Amapensa gange gonagona malungi
+P10	Nenda amapensa gangonagana.
+
+images:
+
+illustrations/pages/18806.png
+illustrations/pages/1200.png
+illustrations/pages/6663.png
+illustrations/pages/874.png
+illustrations/pages/5555.png
+illustrations/pages/27201.png
+illustrations/pages/5552.png
+illustrations/pages/10065.png
+illustrations/pages/5547.png
+illustrations/pages/18813.png
+illustrations/pages/18806.png
+
+translations:
+
+English (Original)	Buttons	id=18810
+English (Adaptation)	Buttons	id=24701
+English (Adaptation)	Buttons	id=24702

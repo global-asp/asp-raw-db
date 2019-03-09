@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=23908&d=0&a=1
+id:	23908
+title:	Amara na wanyama
+author:	John Musene
+artist:	Sarah Bouwer
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23908.png
+desc:	Hadithi hii inahusu mschana moja alio mpenda umbwa wake sana mpaka aweza kifanya lolote kumlindah.
+
+page_text:
+
+P1	Amara alikuwa mschana wamiyaka mitisaa. Alisoma chuo cha Kerema. Alipenda misomo mbali mbali zilizomo kingereza, sayansi na pia masomo ya kijamii. Alitaka kuwa mwanasheria wakati yeye kukua. Amara aliwapenda wanyama sana.
+P2	Amara ali ishi na mama yake Margy. Margy alikuwa mukulima mwenye bidi. Baba wake Amara ali iaga dunia Amara akiwa na mwiaka mitano.
+P3	Ambapo Amara akuwa shuleni, alishinda na Mbisa, mbuzi. Alimuwosha na kumulisha pia.
+P4	Amara alikuwa na kipenzi chake, Simba. Mama yake Amara akupenda umbwa sana, ingapo alimuwacha Amara amuweke Simba. Wakati wowote Simba alimusumbuwa, alipiga kelele "nenda kabla nikupige teke." Amara aliuzunika kwa hili.
+P5	Juma mosi moja, walikuwa na wageni kutoka kikundi cha wanawake. Amara alikuwa mwenye fura kuwa marafiki wamam yake walikuja na watoto wao. Wange cheza mpira.
+P6	Mama yake alikipika chakula kikundi kilicho penda. Amara alikumbushwa na mama yake kunfunga Simba. Alibweka kwa wageni.
+P7	Amara hakunfunza Simba vizuri. Wageni walishanga kumuona mbwa kwenye chumba. Mama yake Oto aliuliza, "mbona mwakubali umbwa kwenye nyumba?" Mama yake Amara alimuita apeleke Simba inje.
+P8	Amara hakumskia mama yake kwamana walikuwa kwenye mijezo
+P9	Ambapo Amara akuwa shuleni, alishinda na Mbisa, mbuzi. Alimuwosha na kumulisha pia.
+P10	Baadaye, mama yake Amara alimuomba msamaha kwakuwa kikatili kwa Simba. Amara alikuwa mwenye furaha kwa kuwa mama yake alimukubali umbwa mara ya mwisho. Amara akiwa shuleni mama yake umlisha Simba. Marafiki wa mama wake Amara wame jifunza kuwa wazuri kwenye umbwa wao.
+
+images:
+
+illustrations/pages/14042.png
+illustrations/pages/14037.png
+illustrations/pages/14113.png
+illustrations/pages/14040.png
+illustrations/pages/14039.png
+illustrations/pages/14062.png
+illustrations/pages/13930.png
+illustrations/pages/14055.png
+illustrations/pages/14042.png
+illustrations/pages/13697.png
+
+translations:
+
+Dhopadhola (Translation)	Amara Kodi Ogwange	id=20820
+English (Original)	Amara and animals	id=14479
+Luganda (Translation)	Amara Nne’Bisolo	id=21482
+Luganda (Translation)	Amara n'ebisolo	id=23839
+Lusoga (Translation)	Amara ni Simba	id=21256
+Runyankore (Translation)	Amara N'anenyamaishwa	id=20640

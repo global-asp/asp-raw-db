@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=24420&d=0&a=1
+id:	24420
+title:	Obugangaazi
+author:	Uganda Christian University and Vivienne  Kabarungi
+artist:	Marion Drew
+lang:	Runyankore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24420.png
+desc:	Empunu etakuhurira yayanga kuhurira omuhingi.
+
+page_text:
+
+P1	Obwiire obu enyamwaisha ziine kubyama bukahika. Emwe yayanga.
+P2	Omuhingi akagambira empunu ngu etaahe mu omu kiju. Yayanga.
+P3	Omuhingi yagambira omunyafu ngu gumuteere. Omunyafu gwayanga.
+P4	Omuriro gwayanga kwosya omunyafu ahabwobutahurira.
+P5	Omugyegyene gwayangira omuhingi ku gwayanga kuraza omuriro.
+P6	Omuhingi yagambira amate  ge ente ngu ganywe omugyegyene.
+P7	Amate ge nte gagira ngu, "Ninza kunywa omugyegyene. Nyine eiriho."
+P8	Omugyegyene gwarira, gwagira ngu, "Otannywa. Ninza kuraza omuriro."
+P9	Omuriro gwayomba nigugira ngu, "Tokuza kundaaza. Ninza kwosya omunyafu."
+P10	Omunyafu gwarira ngu,"Otanyosya. Ninza kutera empunu."
+P11	Empunu yanyiga. "Ninza kuzamu omu kiju."
+P12	Empunu yaza omu kijju kye yayetebekanisa kutaha omu kitanda.
+
+images:
+
+illustrations/pages/18310.png
+illustrations/pages/18306.png
+illustrations/pages/18307.png
+illustrations/pages/18308.png
+illustrations/pages/18309.png
+illustrations/pages/18310.png
+illustrations/pages/18311.png
+illustrations/pages/18312.png
+illustrations/pages/18313.png
+illustrations/pages/18314.png
+illustrations/pages/18315.png
+illustrations/pages/18316.png
+illustrations/pages/18317.png
+
+translations:
+
+ChiShona (Translation)	Nguruve yakaramba kuteerera	id=22236
+English (Translation)	Pig that wouldn't listen	id=19470
+English (Adaptation)	Disobedience!	id=20907
+isiZulu (Original)	Ingulube eyayingafuni ukungena egoqweni	id=19469
+Kiswahili (Translation)	Kutotii!	id=21149
+Lusoga (Translation)	Obudheemu	id=25206
+Runyankore (Translation)	Obutahura	id=24035
+Tigrigna (Translation)	ዘይምምእዛዝ	id=21194

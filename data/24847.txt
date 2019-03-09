@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=24847&d=0&a=1
+id:	24847
+title:	Njaaku mu ikuumiro lya bisolo bya munsiko
+author:	Kyambogo  University and Maritha Nakiranda
+artist:	Rob Owen and Melany Pietersen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24847.png
+desc:	Olufumo luno lugema ku ngeri omuntu yeyamalamu olunaku mu kifo omukuumibwa ensolo dhomunsiko.
+
+page_text:
+
+P1	Leero njiire mu kifo omukuumibwa ebisolo by'omunsiko.
+P2	Mbwoine bingi. Mbwoine empologoma.
+P3	Mbwoine endhovu.
+P4	Mbwoine engoina.
+P5	Mbwoine entwiga.
+P6	Mbwoine entulege kamaala.
+P7	Mbwoine n'ente.
+P8	Binsanwisa inho. Lata naatuvuze yaatwizaayo eka.
+
+images:
+
+illustrations/pages/13745.png
+illustrations/pages/13749.png
+illustrations/pages/9628.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9647.png
+illustrations/pages/9650.png
+illustrations/pages/9630.png
+illustrations/pages/13751.png
+
+translations:
+
+English (Original)	My trip to the zoo	id=9968
+Sepedi (Adaptation)	Leeto La Ka La Go Ya Lešokeng La Diphoofolo	id=10132

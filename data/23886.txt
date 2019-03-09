@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=23886&d=0&a=1
+id:	23886
+title:	Ikya man Ambe
+author:	Terkule Aorabee
+artist:	Abraham Muzee
+lang:	Tiv
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23886.png
+desc:	Ka pe Ikya war iyol na sha ikyev i Ambe je ne. (Rwamabera ngun ka u hii hii.).
+
+page_text:
+
+P1	Ikya zua vea Ambe shin kpe ber.
+P2	"We ya wou ka hana?" Ikya pine Ambe. Ambe kaa er,"Ka shin ber."
+P3	Ambe pine Ikya wen er,"We u wou ka hana?" Ikya kaa a na er,"Ka sha kon."
+P4	"U fa u oon uwe?" Ambe pine Ikya nahan.
+P5	Ikya kaa er un fa uwe ga. Ambe kaa er,"Me faityo u tesen we."
+P6	Ambe kaa er, "De cian ga, u ngu ikyar yam."
+P7	Ambe kaa a Ikya er,"Ikya, angbian u terem ngu dedoo da. A soo u yan inyam."
+P8	Mchiem gba Ikya iyol. Ambe una ya un ga?
+P9	Ikya soo u yevese undun Ambe.
+P10	Ikya zua a mhen.
+P11	Ikya tondo zwa a Ambe er,"Me na u ishima yam za na un."
+P12	"Kpa ishima yam gema ngi sha kon, sha tar." Ikya kaa a Ambe nahan.
+P13	"U za too ishima you u va a min ga?" Ikya lumun.
+P14	Ambe oo hide yem a Ikya sha tar. Ikya man tsuwe gba sha kon.
+P15	"U wa aie. U ngu ikyarem ga," Ambe kaa a Ikya nahan.
+P16	Ikya gema kaa a Ambe er,"We kpa u ngu ikyarem ga. U soo u wuan mo yan."
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	(Colour-in) Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kinyarwanda (Adaptation)	Maguge n'Ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kiswahili (Translation)	Ape na  Mamba	id=24043
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Gonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124

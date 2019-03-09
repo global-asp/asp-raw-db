@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=23782&d=0&a=1
+id:	23782
+title:	Ombona!
+author:	Tracy  Ntono
+artist:	Tracy  Ntono and Catherine Groenewald
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23782.png
+desc:	Ntono mwambazi. Ayondha engoye edhiboneka obulungi. Abantu bangi benda ebitemagana!
+
+page_text:
+
+P1	Ntono avaire oti ndhuba!
+P2	Leero avaire oti kisiriiza!
+P3	Ntono avaire oti bileri!
+P4	Leero avaire oti ki?
+P5	Ovaire oti kigogo?
+P6	"Mwana wange Ntono oli kamuli!"
+P7	"Ntono, ovaire ki ekyo leero?"
+P8	Obona! Buli muntu ayenda kuba oti ni Ntono!
+
+images:
+
+illustrations/pages/27019.png
+illustrations/pages/27015.png
+illustrations/pages/27016.png
+illustrations/pages/27017.png
+illustrations/pages/27018.png
+illustrations/pages/27020.png
+illustrations/pages/27019.png
+illustrations/pages/1362.png
+
+translations:
+

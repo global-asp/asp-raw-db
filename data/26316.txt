@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=26316&d=0&a=1
+id:	26316
+title:	Ekibonerezo
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Melany Pietersen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26316.png
+desc:	Kibonerezo ki ekigheebwa omulenzi eyalya ebibala ebingi? SINIINI BATAAMYE OMUVUNUZI.
+
+page_text:
+
+P1	Lwali lulala, maama yaagula  ebibala  eby'endhawulo  kamaala.
+P2	"Li lwetunaafuna kubibala?" Twabuuza.
+"Twidha kubirya obwire bwaleero," maama  yakoba.
+P3	Muganda wange Bulayimu muluvu.
+Yaloza kubuli  kibala. Yalya ebisinga  bungi.
+P4	"Bona  Bulayimu  kyeyakoze!" Muganda ghe yaakoba.
+"Buylayimu tafaayo ate mwimi," Nakobye.
+P5	Maama  yali n'obusungu  ku luuyi lwa Bulayimu.
+P6	Twena twali baniivu  ku  luuyi  lwa  Bulayimu.
+Aye  Bulayimu  yali  nga  tiyenenhia.
+P7	"Olikuja  kubonereza  Bulayimu?" omutoyaabuuza.
+P8	"Bulayimu, bwoneenenhia  amangu, oidha  kusonighibwa," Maama we amulabula.
+P9	Bulayimu  yaatandiika  obutawulira  bukalamu.
+P10	"Munda  muli  kunuma  inho,"Bulayimu yaakuba  akaama akaana  akato.
+P11	Maama  yategeera  lwaki  Bulayimu  mulwaire.
+"Ebibala  byali  biri kumubonereza," Yalowooza.
+P12	Oluvanhuma, Bulayimu yaasaba ekisonhigho. "Tikairayo kuba  muluvu," Yasubiza.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+Kiswahili (Original)	Adhabu	id=8074

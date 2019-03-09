@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=24162&d=0&a=1
+id:	24162
+title:	Abaana abato banyumirwa kuzana emizano
+author:	Byakutaga Samantha and Uganda Christian University
+artist:	Sue Kramer, Wiehan de Jager, Mlungisi Dlamini, Catherine Groenewald and Rob Owen
+lang:	Runyoro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24162.png
+desc:	Abaana abato banyumirwa kuzaana emizaano eyemilingo nyingi kusigikira hamyaka yaabu. Soma orugero runu orolemu emizaano eyokukirayo kugonza muno oyoleke abanywani baawe.
+
+page_text:
+
+P1	Aboojo bato bagonza kuzana omupiira.
+P2	Nyowe nkira muno kugonza kuguruka omuguha.
+P3	Anna na Samu bagonza muno kuzaana nenkoko kandi nibaziliisa no kuziliisa.
+P4	Haroho aboojo abanyumirwa kuzaana nkweserekiire.
+P5	Salimu agonza kwiruka.
+P6	Abaisiki bagonza kuziha.
+P7	Elisa agonza kuguruka nkeekikere.
+P8	Abaisiki bamu bend kuzaana naamaizi.
+P9	Neria agonza kuzaana ha myesuuso eyekuserengeta.
+P10	Abaana abandi bagonza kuzaana emizaano eyokweteraniza ha mbaga.
+P11	Keziah na Dona bagonza kuzaana ne'bidole ebyebyaahi.
+P12	Kandi iwe? Onyumirwa kuzaana emizaano oba kwaha?
+
+images:
+
+illustrations/pages/13379.png
+illustrations/pages/13254.png
+illustrations/pages/1627.png
+illustrations/pages/11668.png
+illustrations/pages/9858.png
+illustrations/pages/1623.png
+illustrations/pages/9848.png
+illustrations/pages/1624.png
+illustrations/pages/1421.png
+illustrations/pages/942.png
+illustrations/pages/6516.png
+illustrations/pages/1768.png
+illustrations/pages/1770.png
+
+translations:
+
+Amharic (Translation)	ህፃናት መጫወት ይወዳሉ	id=21175
+English (Original)	Children Like to Play	id=7259
+English (Adaptation)	Children  enjoy  playing	id=13610
+Luganda (Translation)	Abaana Baagala Okuzannya	id=7457
+Luganda (Translation)	Abana bagala nyoo okuzanya	id=24266
+Lunyole (Translation)	Abaana Benda Ohugudula	id=13609
+Lusoga (Translation)	Abaana benda okuzaanha	id=24912

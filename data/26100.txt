@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=26100&d=0&a=1
+id:	26100
+title:	Omukazi omukaire mu nthupa
+author:	Kyambogo  University and Robert Buyinza
+artist:	Abraham Muzee
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26100.png
+desc:	Omukazi omukaire omuluvu akoye 0kuba mu nthupa. Lwali lulala
+
+page_text:
+
+P1	Yaliyo omukazi omukaire nga aba mu nthupa.Aye nga yemulugunia buli kiseera.
+P2	Lwali lulala fina yabita ghaka ghe yamubona nga munhakughavu.
+P3	Fina yayemerera yamubuuza,"Kizibu ki? Lwaki olimunhakughavu?"
+P4	"Nkoye okuba mu nthupa,"omukaire yairamu.
+P5	Fina yamukoba,"yemerera,kuba mu ngalo emirundi ebiri,cuuka emirundi esatu."
+P6	Nga amaaze okukola kyebamukobye,omukazi omukaire yesanga mu kayumba katono.
+P7	Nga ghabisegho enaku ntono fina yaira okubona omukazi nga era timusanhufu.
+P8	Fina yamubuuza,"Ki ki? Lwaki olimunaakughavu?"
+P9	"Akayumba katono inho."Tikyenda, "Omukaire yairamu.
+P10	Fina yamukoba, "yemerera,kuba mu ngalo emirundi ebiri,cuuka emirundi esatu."
+P11	Nga amaaze okukola kye bamukobye,omukazi omukaire yesanga mu guyumba guba.
+P12	Fina yaira okubona omukazi omukaire.Yamwagana timusanhufu ate anhize inho.
+P13	Fina yamubuuza,Omukaire ki?"Omukaire yairamu,"Enhumba nzibirivu ate nnhaga."
+P14	Fina yamukoba,yemerera,kuba mu ngalo,cuuka emirundi esatu."
+P15	Fina yamubuuza,"Omukaire ki? Omukaire yairamu,"Enhumba yali nzibirivu ate nkyafu."
+P16	Omukazi omukaire tabona mikisa gyafunie.Yamaliriza nga ali mu nthupa.
+
+images:
+
+illustrations/pages/25248.png
+illustrations/pages/25233.png
+illustrations/pages/25234.png
+illustrations/pages/25235.png
+illustrations/pages/25236.png
+illustrations/pages/25237.png
+illustrations/pages/25238.png
+illustrations/pages/25239.png
+illustrations/pages/25240.png
+illustrations/pages/25241.png
+illustrations/pages/25242.png
+illustrations/pages/25243.png
+illustrations/pages/25244.png
+illustrations/pages/25245.png
+illustrations/pages/25246.png
+illustrations/pages/25247.png
+illustrations/pages/25248.png
+
+translations:
+
+English (Translation)	Old woman in a bottle	id=20853
+Kinyarwanda (Translation)	Umukecuru mu icupa	id=20861
+Lusoga (Translation)	Omukaire mu thupa	id=26481
+Setswana (Original)	Mosadimogolo Wa Lebotlolo	id=20850

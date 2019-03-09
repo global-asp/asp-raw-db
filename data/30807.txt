@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=30807&d=0&a=1
+id:	30807
+title:	Emirembe
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Steven McKimmie, Wiehan de Jager, Monge Tlaka, Jonathan Field, Emily Berg, Jano Strydom and Catherine Groenewald
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30807.png
+desc:	Emirembe nekyo kyewewulira okusobola okutuuka ku ekyo kyoyenda kuba kikuta mu eisuubi.
+
+page_text:
+
+P1	Emirembe kintu kyamugaso inho mu bulamu bwaife obwabulidho.
+P2	Buli azira mirembe  tategeka oba takola kintu kituufu.
+P3	Bwoba ozira mirembe, ofirwa eisubi eiramu era owulira nga buli kyokola tikiva mu muganhulo.
+P4	Emirembe ni emizi egyeisubu eiramu,obukombe ni enkulankulana eyoluberara.
+P5	Amaka agalina emirembe maigumivu nti ezira ki gasuula oba okwawula abaamu.
+P6	Emikwano egirina emirembe gigonzania ni omukwano ogwairala era bawangaala nga bazira kibatabula.
+P7	Ensi elina emirembe teba na ntalo era abanansi kyebenda bata amanhi gaibwe ghalala bakifuna.
+P8	Embendeza emirembe mwena mwena.
+
+images:
+
+illustrations/pages/8945.png
+illustrations/pages/7987.png
+illustrations/pages/8999.png
+illustrations/pages/13838.png
+illustrations/pages/18929.png
+illustrations/pages/6006.png
+illustrations/pages/8479.png
+illustrations/pages/13388.png
+illustrations/pages/10611.png
+
+translations:
+
+English (Translation)	Peace	id=21332
+Kinyarwanda (Original)	Amahoro	id=21331

@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=25223&d=0&a=1
+id:	25223
+title:	Wangoina alindirira bwongo
+author:	Joseph  Mukwaya and Kyambogo  University
+artist:	Tawanda Mhandu
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25223.png
+desc:	Ensonga lwaki engoina nkambwe eri abantu. (Olufumo luno lwafumibwa mu musomo gwa abasomesa ogwali Kimberly
+
+page_text:
+
+P1	Agho olwatuuka, nga ghaabaayo Wangoina eyabanga ku mwiga na abaana be.
+P2	Wangoina yaayegesa abaana be obuteesiga bantu. Esonga yali eti abantu bali n'obwongo.
+P3	Lwali olwo, ghaabaagho omusaadha eyasala omwiga ogwo.
+P4	Omusaadha yaayagaana Wangoina ghagati mu mwiga era Wangoina yaamugema.
+P5	Wangoina bwe yali ali kumpi kumwita, Wangoina yaidhukira ebigambo bya ise.
+P6	Omusaadha yaasuubiiza Wangoina ati aidha kumuleetera obwongo bw'omuntu.
+P7	Wangoina n'abaanabe bakaalindirira ku mmandi kwomwiga okufuna obwongo obwo.
+P8	Okutuusa buti engoina dhikaali nnhiivu kuba tidhifunanga bwongo muntu bwe yadhisuubiza.
+
+images:
+
+illustrations/pages/25465.png
+illustrations/pages/25460.png
+illustrations/pages/25462.png
+illustrations/pages/25461.png
+illustrations/pages/25463.png
+illustrations/pages/25464.png
+illustrations/pages/25467.png
+illustrations/pages/25465.png
+illustrations/pages/25466.png
+
+translations:
+
+English (Translation)	Crocodile waits for brains	id=21643
+isiXhosa (Original)	Ingwenya ilindele iingqondo	id=21638
+Kiswahili (Translation)	Mamba anasubiri bongo	id=22087
+Oluwanga (Translation)	Ikwena ilindanga obwongo	id=22825

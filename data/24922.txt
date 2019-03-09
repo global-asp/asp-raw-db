@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24922&d=0&a=1
+id:	24922
+title:	Maama wange omulungi
+author:	Alice Gonza and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24922.png
+desc:	Olufumo lulo lugemagana ku maama agonza abaanabe era ayenda okubasanhusa. Aja nabaanabe mu kiya era yabalabirira nga bakaali kutenduka.
+
+page_text:
+
+P1	Maamawange ni Edisa bandegeresa okwebisa obulungi.
+P2	Bandegeresa okuba omuyondho n'okutegeka ebintu byange obukalamu.
+P3	Bankoba okusaba nga nkaali kutenduka kuba Katonda ni lata ghange.
+P4	Awooni Maama yannendeza okusula obukalamu era yambwika.
+P5	Maama ayenda ni mwaninaze. Amutwaala ku isomero buliidho.
+P6	Antwaala mu kiya. Tumwenda inho kuba mulungi.
+
+images:
+
+illustrations/pages/9493.png
+illustrations/pages/9492.png
+illustrations/pages/9497.png
+illustrations/pages/9496.png
+illustrations/pages/9501.png
+illustrations/pages/11450.png
+illustrations/pages/9495.png
+
+translations:
+
+English (Original)	My Beautiful Mother	id=24220
+Runyankore (Translation)	Mama wanje nimulunji	id=24224

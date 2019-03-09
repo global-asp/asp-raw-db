@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=23648&d=0&a=1
+id:	23648
+title:	wakame yaza ahambaga
+author:	Janet Ainembabazi and Uganda Christian University
+artist:	Hélder de Paz Alexandre
+lang:	Rukiga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23648.png
+desc:	Ogu mugane nigu gamba ekikubaho waza aha mbaga okaywa amarwa maingi.
+
+page_text:
+
+P1	Obwa kale kale, enyamishwa nzikasharamu kukora embaga. Konka ekaba ery'eye biryamishwa ebyiine amahembe.
+P2	Wakame ekaba neyetebekanisiza embaga konka yashanga embaga ekaba etari yaburyomwe. Ekaba eri 'ye nyamwishwa ebyabiire byiine amahembe.
+P3	Wakame yasharamu kugyenda ahantu ebooneyo amahembe. Kuyahelize yagatekaho yaza omumbaga.
+P4	Wakame kuyahikire omumbaga, yarya, yarya, yanywa hamwe yazina.
+P5	Konka kuyahelize, yaruha yagwa omumushana. Kuyabiire ebyami, gamahembe galagala.
+P6	Ebinyamishwa byakimanya ngu wakame ekaba etari omwe aharibo. leero bakulula amatu ngayo mpaka ngabire malingwa munonga.
+P7	Kubaherize, bayiruka. Ekyo nikyo kyiku'ku shobololela ahabwaki wakame eyiine amatu malingwa.
+
+images:
+
+illustrations/pages/10187.png
+illustrations/pages/17429.png
+illustrations/pages/17427.png
+illustrations/pages/17428.png
+illustrations/pages/17430.png
+illustrations/pages/17431.png
+illustrations/pages/17432.png
+illustrations/pages/17426.png
+
+translations:
+
+Acholi (Translation)	ayom chero yi myeel	id=24106
+Ateso (Translation)	Elosi ipoo opucit	id=24079
+English (Original)	Rabbit goes to a party	id=10110
+English (Adaptation)	(Colour-in) Rabbit goes to a party	id=17433
+isiXhosa (Translation)	Umvundla uya ethekweni	id=13089
+Luganda (Translation)	Akamyuu kagenda ku kabaaga	id=23415
+Lusamia (Translation)	Ahaduyu hacha humuholo	id=23252
+Lusoga (Translation)	Wakamyu aja ku mbaga	id=24901
+Portuguese (Translation)	O Coelho Vai a Festa	id=10243
+Runyankore (Translation)	Wakame omu mbaga	id=23703
+Sesotho (South Africa) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090
+Xitswa (Translation)	N'wa Vundlani Aya a Mubuzweni	id=10244

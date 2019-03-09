@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=29213&d=0&a=1
+id:	29213
+title:	Omwisuka ghange omutomuto
+author:	Kyambogo  University and Mpala Paul
+artist:	Mlungisi Dlamini, Melany Pietersen, Catherine Groenewald and Genevieve Terblanche
+lang:	Lulamoogi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29213.png
+desc:	Olufumo lumpi era lufunzye lukwatagana mwisuka Maka James.
+
+page_text:
+
+P1	Omwisuka ghange omutomuto niiye Oyowaana James.
+P2	Ataka amatooke ga kyenvu n'amapaapaali.
+P3	Obwamala okulya ekyamakeezi, ayaba nazaanya n'omukwano gwe.
+
+images:
+
+illustrations/pages/8967.png
+illustrations/pages/8977.png
+illustrations/pages/8029.png
+illustrations/pages/8608.png
+
+translations:
+
+English (Original)	My Baby Boy	id=9668
+English (Adaptation)	My Baby Boy.	id=10142
+Lusoga (Translation)	Omwana ghange omulenzi	id=26440

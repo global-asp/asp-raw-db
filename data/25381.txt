@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=25381&d=0&a=1
+id:	25381
+title:	Olugendo lw'e Zanzibari
+author:	Kyambogo  University and Victor  Muwanguzi
+artist:	Wiehan de Jager, Jemma Kahn, Rijuta Ghate, Catherine Groenewald and Laura Libertore
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25381.png
+desc:	Omwana eyaja mu lugendo lw e Zanzibari yaalambuula ebintu ebyobutonde ebyendhawulo.
+
+page_text:
+
+P1	Bw'otambulira mu Zanzibar, obona ki? 
+Maduuka agatunda switi, ku nguudo entono.
+P2	Bwe ghewugira mu Zanzibar, obana ki? 
+Kaudha, Godyombo, Kyagaba, ni Mutesi.
+P3	Bwe bakuvugira e Zanzibar obona ki? 
+Bisolo mu nsiko, nga bikubonera mu mbali.
+P4	Bw'okinira mu Zanzibar, obona ki? 
+Baswayiri, Bangereeza na Abawalabbu, nga boonaboona bali kukina.
+P5	Bw'onhwera mu Zanzibari, obona ki? 
+Omubisi ni amadhaani amawoomu.
+P6	Ebyo bya bulambuzi mu Zanzibari. 
+Oyenda okwirayo?
+
+images:
+
+illustrations/pages/1846.png
+illustrations/pages/6598.png
+illustrations/pages/924.png
+illustrations/pages/6810.png
+illustrations/pages/6766.png
+illustrations/pages/2444.png
+illustrations/pages/7123.png
+
+translations:
+
+English (Original)	A Trip to Zanzibar	id=7263
+English (Adaptation)	My First  Trip to  Kampala	id=10164
+Kinyarwanda (Uganda) (Translation)	Urugyendo Muri Zanzibar	id=20607
+Luganda (Translation)	Olugendo Lwange olwasoka E Kampala	id=24456
+Lusoga (Translation)	Entambula yange ebuzanziba	id=25380

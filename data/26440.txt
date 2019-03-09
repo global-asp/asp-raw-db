@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=26440&d=0&a=1
+id:	26440
+title:	Omwana ghange omulenzi
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Mlungisi Dlamini, Melany Pietersen, Catherine Groenewald and Genevieve Terblanche
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26440.png
+desc:	Olufumo luno lumpi era lufunze
+
+page_text:
+
+P1	Omwana ghange omulenzi ni Gubi.
+P2	Ayenda inho amenvu era ni apo.
+P3	Bwaba nga amaze okulya ekye enco, aja yazaanha ni mukwano gwe.
+
+images:
+
+illustrations/pages/8967.png
+illustrations/pages/8977.png
+illustrations/pages/8029.png
+illustrations/pages/8608.png
+
+translations:
+
+English (Original)	My Baby Boy	id=9668
+English (Adaptation)	My Baby Boy.	id=10142
+Lulamoogi (Translation)	Omwisuka ghange omutomuto	id=29213

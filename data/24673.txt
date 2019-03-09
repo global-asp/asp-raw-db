@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=24673&d=0&a=1
+id:	24673
+title:	The beauty of a mother
+author:	Odama Brenda Awate
+artist:	Rob Owen and Benjamin Mitchley
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24673.png
+desc:	A mother is natures biggest gift to a child.
+
+page_text:
+
+P1	Mum is always there when we need her,she takes us to school every day.
+P2	She takes us  to the market with her to buy vegetables,potatoes and yams.
+P3	Mother is so good,she buys me and my brothers shoes and boots.
+P4	When i fall sick,mother is always there to take good care of me.
+P5	That is why i love my mama very much.
+
+images:
+
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9496.png
+illustrations/pages/1690.png
+
+translations:
+
+Lusoga (Translation)	Obulungi bwa maama	id=30696

@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=28880&d=0&a=1
+id:	28880
+title:	Mwaninaze Omuto
+author:	Kyambogo  University and peter kyawera
+artist:	Silva Afonso
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28880.png
+desc:	Omulenzi nga yetebwa Kiriibwa
+
+page_text:
+
+P1	Eriinha lyange ninze Kiriibwa ndini muke ghange ni Modondo.
+P2	Mudondo nga sanhuka inho,buli lweruba nga lunaku lwaku kuja kwisomero.
+P3	Omusomesa ghaibwe mukyala Eresi, nga abakobera obugero n'okubasomera obugero obwabasanhusanga buli lunaku.
+P4	Mukyala Eresi nga abagha abaana o butatabo obwengero baja nabwo basomera eka.
+P5	Muke ghange abamumegerevu olw'okwendha okuja kwisomero.
+
+images:
+
+illustrations/pages/13824.png
+illustrations/pages/13822.png
+illustrations/pages/13824.png
+illustrations/pages/13840.png
+illustrations/pages/13844.png
+illustrations/pages/13819.png
+
+translations:
+
+English (Original)	My Little Sister	id=19830

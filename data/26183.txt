@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=26183&d=0&a=1
+id:	26183
+title:	Okwiba
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Jemma Kahn, Wiehan de Jager, Catherine Groenewald and Kathy Arbuckle
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26183.png
+desc:	Okwiba kubi. Kale mbalabula imwe abendha ebyobwerere!
+
+page_text:
+
+P1	Ogusaadha gu tenhwa gwali Eibulanku. Gwa tera nga okwiba ebisolo bya abantu
+P2	Lulala guja gwiba embuzi ku kyalo ekiriraine. Gwasa emamba gwaa tereka.
+P3	Enkeera munkyo,abantu baazuula nga kato neyaiba embuzi. Baamuyiga.
+P4	Bwe batuuka mu maka ga tenhwa baamwagana nga ayokya mmamba.
+
+images:
+
+illustrations/pages/6244.png
+illustrations/pages/1340.png
+illustrations/pages/6239.png
+illustrations/pages/6006.png
+illustrations/pages/1591.png
+
+translations:
+
+English (Original)	Stealing	id=6389
+Luganda (Translation)	Okubba.	id=9665

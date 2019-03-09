@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=28252&d=0&a=1
+id:	28252
+title:	Mukagwa wange, mu labe wange
+author:	Kyambogo  University and Robert Buyinza
+artist:	Thulani Mhlanga
+lang:	Lusoga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28252.png
+desc:	Mutyaba akola omukwano na bantu abatagha bitibwa. Kino kicuusa ebintu kulwo bulungi?
+
+page_text:
+
+P1	Lwali lulala,mu kyalo mpalampa,ne yali omulenzi omuto nga aba na bazaire be.
+P2	Omulenzi ono nga agha abazaire be ekitibwa na bantu boona boona ku kyalo.Amaina ge nga ni mutyaba
+P3	OLunaku olwebalaza luba lwakwetala kuba abaana baaba bali  kwirayo kwisomero. Lwali lulala,nga aja kwisomero,Mutyaba yayagaanana no mulenzi Supa.Bawayaamu era bafuka ba mikwano.
+P4	Supa yali mulwani,aboniabonia baine kwisomero.Yali muntu mubi owe mize nebibidha ebibi.Mpolampola ate nga yetegereza Supa yasikiriza mutyaba.Mutyaba tiyayenda kubonebwa nga omughombefu yatandiika okwebisa nga supa.
+P5	Mutyaba yafuuka wa mpisa mbi eri abazaire na bantu abandi.Yafuuka lujuju atasoboola kwe yamba.
+P6	Mutyaba yafuuka eyo atyo yafuna obulwaire bwo bukaba.Yafuuka mutono era Supa yasaga nti tayenda abe mukagwa ghe. Abazaire ba mutyaba bamukubiriza aja afune obwindhandhabi.Bwamaala okufuna obwindhandhabi yaba bulungi.
+P7	Mutyaba yaidhukira obulamu bwe.Yamanha nti yali ne mikwano mibi.Yatandiika okukola kwisomero yasaaba okusonighibwa eri abazaire na basomesa.
+P8	Supa yali mwenhamivu olwe bikolwa bya mutyaba ebirungi.Aye yekyagha olwe mpisa dhe yacuuka yafuuka omuntu omulungi.
+
+images:
+
+illustrations/pages/25536.png
+illustrations/pages/25535.png
+illustrations/pages/25536.png
+illustrations/pages/25537.png
+illustrations/pages/25538.png
+illustrations/pages/25539.png
+illustrations/pages/25540.png
+illustrations/pages/25541.png
+illustrations/pages/25542.png
+
+translations:
+
+English (Translation)	My friend, my enemy	id=21786
+Kiswahili (Translation)	Rafiki yangu, Adui  yangu	id=22078
+Lusoga (Translation)	Mukagwa wange, muzigu wange	id=27588
+Lusoga (Translation)	Mukwano gwange, mulabe wange	id=29276
+Rutooro (Translation)	Munywaani wange, muraabe wange	id=24397
+Sepedi (Original)	Mogwera mmolayi wa ka	id=21785

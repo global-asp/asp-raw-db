@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=27677&d=0&a=1
+id:	27677
+title:	Dhaahda wange Omukazi
+author:	Ibrahim  Isabirye and Kyambogo  University
+artist:	Catherine Groenewald and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27677.png
+desc:	Mutekwa okwendha ba dhaadha baimwe kubanga bewunhisa.
+
+page_text:
+
+P1	Ntera okuja ku mukyalo okukyalira ku dhaadha wange omukazi.
+P2	Atera okutwegeresa nga enfumo ni bagandha bange.
+P3	Atwegeresa okulikiriza ebisolo no okukola ku faamu.
+P4	Atutwala mu katale.
+P5	Era andhegeresa okukina.
+P6	Nnhenda inho dhaadha  wange omukazi.
+
+images:
+
+illustrations/pages/5997.png
+illustrations/pages/18819.png
+illustrations/pages/18819.png
+illustrations/pages/14041.png
+illustrations/pages/11671.png
+illustrations/pages/1094.png
+illustrations/pages/1095.png
+
+translations:
+
+English (Original)	My grandmother	id=24444

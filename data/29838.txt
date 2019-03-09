@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=29838&d=0&a=1
+id:	29838
+title:	Empologoma n'Omusaadha
+author:	Juliet Namugaya
+artist:	Marleen Visser and Rob Owen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29838.png
+desc:	Ghaliwo empologoma eyaidhanga okulya amagumba nemmere ewomusaadha eyabanga kumpi nekibira. Omusaadha yayeta omuyiizi okugiita.
+
+page_text:
+
+P1	Lulala,omusaadha yali afumba emmamba empologoma yaidha okulya amagumba n'emmere.
+P2	Nga emaze okulya byonabyona,yaava mu nhumba yaaja mu kibira.
+P3	Kunco,yaira nga omusaadha atyaime kumpi n'omuliro era yagigha amagumba n'emmere.
+P4	Empologoma bwe yaira, omusaadha yayeta omuyiizi agiite,yaidha n'eifumo.
+P5	Omuyiizi bweya ginoonhia,yagwa ghansi olw'entisa y'empologoma.
+P6	Olwamala omusaadha yayeta abayiizi abandhi babiri,empologoma bwe yabona eifumo ghe bagitereka okumpi n'engira,yairayo.
+P7	Epologoma yairayo nga eghuluguma era tiyaira gha musaadha.
+
+images:
+
+illustrations/pages/7343.png
+illustrations/pages/7341.png
+illustrations/pages/7340.png
+illustrations/pages/7343.png
+illustrations/pages/7347.png
+illustrations/pages/7344.png
+illustrations/pages/7349.png
+illustrations/pages/9628.png
+
+translations:
+
+English (Original)	The lion and the man	id=21409

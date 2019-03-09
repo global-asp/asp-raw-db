@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=25803&d=0&a=1
+id:	25803
+title:	Walumbe akyalira Luuka
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	SIL International
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25803.png
+desc:	Luuka akola atya nga Walumbe aidha okumukyalira?
+
+page_text:
+
+P1	Yaliyo omusaadha nga bamweta Luuka ku kyalo Muguluka.
+P2	Lwali lulala,walumbe yaidha okumukyalira.
+P3	Luuka yezinduka nga aboine omugeni.
+P4	"Omulundigwo gwidhie okubona ku Katondawo,"Atyo Walumbe bweyakoba."Aye tyetegeike"Atyo luuka bweyalira.Walumbe yekalangula ati guno gwali no omulundi gwa Luuka.
+P5	Luuka yaighulira Walumbe ekighulo ekinhuvu einho.
+P6	Nga amaze okulya,Walumbe yagwa mundolo.Luuka yatolawo olukalalalwe olwa amaina yaghandiika eriinalye mukusembayo.
+P7	Walumbe bweyasituka,yali musanhufu ne engeri Luuka yeyamusangazamu.No olwe ensonga eyo yaasalawo atandiike na amaina agali einhuma ku lukalala.
+P8	Ekyembi,Luuka yali nga aghandiise eriinalye mukusembayo ku lukalala olwo.
+
+images:
+
+illustrations/pages/17282.png
+illustrations/pages/17285.png
+illustrations/pages/17286.png
+illustrations/pages/17288.png
+illustrations/pages/17283.png
+illustrations/pages/17284.png
+illustrations/pages/17281.png
+illustrations/pages/17280.png
+illustrations/pages/17287.png
+
+translations:
+
+English (Original)	The Visit of Death	id=13632
+English (Adaptation)	Death visits Hupapa	id=17197
+Lumasaaba (Translation)	Kumutambo Kwekhufa Kucheniya Hupapa	id=20737

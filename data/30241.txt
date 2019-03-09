@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=30241&d=0&a=1
+id:	30241
+title:	Okutuuma
+author:	Juliet Namugaya and Kyambogo  University
+artist:	Marion Drew
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30241.png
+desc:	Lumo lufumo lwa kifaananie kiteghunisa ekiri mu ngeri yo omwana. Kigemagana ku muguna eyayagaana ekinhonhi nga atuuma.
+
+page_text:
+
+P1	Aagunha kaghuuba omugugha ghansi ghe ebigere byaako.
+P2	Kaghuuba mangumangu bwekatuuma ghano ni ghale.
+P3	Mukutuuma bwekeidhalya katuu ka kumuti oguliku ekinonhi.Ekinonhi kyaghuuma
+P4	Akagunha katandhiika okutuuma bwekegeresa ekinonhi nga katuumira ghaigulu.
+P5	Kamala kaghuumuzaamu aye nga tikaidhi kati ekinonhi kisungughaire.
+P6	Kaatoolera buyaaka,olwoni ekinonhi ekisungughavu kyaakutula omugugha gwako.
+P7	Kasungughala kaghoghoola era nga bwekevuma obutairamu kuyeyereza.
+
+images:
+
+illustrations/pages/7536.png
+illustrations/pages/7537.png
+illustrations/pages/7538.png
+illustrations/pages/7539.png
+illustrations/pages/7540.png
+illustrations/pages/7541.png
+illustrations/pages/7542.png
+illustrations/pages/7543.png
+
+translations:
+
+English (Original)	Skipping	id=7546
+English (Adaptation)	Skipping	id=10118

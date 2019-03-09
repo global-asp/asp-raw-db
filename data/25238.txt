@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=25238&d=0&a=1
+id:	25238
+title:	Wankudu ni wa kaduuyu
+author:	Enocha Tasingika
+artist:	Padmanabha
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25238.png
+desc:	Enkudu nakamyu bali nomulimo ogwokukola. Banaakolera aghalala?
+
+page_text:
+
+P1	Eira eino,  Wakaduuyu, Wankudu ni Wakayima baaja mu kusiindhanwa.
+P2	Ensolo edinndi dhaali mu kwerolera
+P3	Akaduuyu baakasinga. Ghaire nga Wankudu yasinga tiyedundeeza.
+P4	Wankudu ni wa kaduuyu b'asigala bakenkede.
+P5	Mwenemu Empologoma yaatuma Wankudu ni wa Kaduuyu okucaaliraku endha.
+P6	Wankudu ni wa Kaduuyu ba toolera nga kyabazinga Wampologoma bwe yalagira.
+P7	Wampologoma ya kuumirira Wankudu ni wa kaduuyu okukangaaluka.
+P8	Engira ye baakozesa nga yaidhula mabaale na magha.
+P9	Wankudu ni wa kaduuyu batambula-batambula.Bawumulamuuku era begeyaamu.
+P10	Baasala amagezi okuyambagana.
+P11	Wakaduuyu yaabeka Wankudu okusomoka amaghya.
+P12	Bwebaatuuka ku mwiga, Wankudu yeena ya beeka wa Kaduuyu okusomoka.
+P13	Wankudu yayangugha inho nga wa kaduuyu amweriipye ku mugongo.
+P14	Wankudu ni wa Kaduuyu bayogera ni kyabazinga wa eyo ebya kyabazinga ghaibwe
+P15	Mangu ago baira Eka. Wankudu ni wa Kaduuyu, baali bakenkede inho.
+
+images:
+
+illustrations/pages/2036.png
+illustrations/pages/2037.png
+illustrations/pages/2038.png
+illustrations/pages/2039.png
+illustrations/pages/2040.png
+illustrations/pages/2042.png
+illustrations/pages/2043.png
+illustrations/pages/2044.png
+illustrations/pages/2045.png
+illustrations/pages/2046.png
+illustrations/pages/2048.png
+illustrations/pages/2050.png
+illustrations/pages/2051.png
+illustrations/pages/2052.png
+illustrations/pages/2054.png
+illustrations/pages/2056.png
+
+translations:
+
+English (Original)	Hare and Tortoise (Again!)	id=2058
+English (Adaptation)	Tortoise And Rabbit	id=21320
+English (Adaptation)	Tortoise and Rabbit	id=21713
+isiXhosa (Translation)	NguMvundla noFudo (Kwakhona!)	id=3084
+Kiswahili (Translation)	Sungura na Kobe (Tena!)	id=3083
+Kiswahili (Translation)	Kobe na Sungura	id=22004

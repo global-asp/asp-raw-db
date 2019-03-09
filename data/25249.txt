@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=25249&d=0&a=1
+id:	25249
+title:	Ebisolo,Ebisolo
+author:	Kyambogo  University and Mpala Paul
+artist:	Sandy Campbell, Wiehan de Jager and Rob Owen
+lang:	Lulamoogi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25249.png
+desc:	Osansaannhie emigaso gyebisolo omubitundu byaisu.
+
+page_text:
+
+P1	Olingirire ebisolo byaisu ebyetwaya eika.
+P2	Ente etugha amata
+P3	Enduuyu n'epuusi bya mukwano inho n'abantu.
+P4	Embalaasi ekoba, ''Ei...''
+P5	Ente n'embuli bigheebwayo nga omwandu omu Uganda.
+P6	Enkoko gyikoba, ''kookolyoko.''
+P7	Embwa gyitugha obukuumi omumaka gaisu.
+P8	Omwayi abirabirira inho.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+English (Adaptation)	Look at Our Animals	id=10258
+English (Adaptation)	Animals, Animals	id=10260
+Hausa (Nigeria) (Translation)	Dabbobi - Dabbobi	id=20866
+Lusoga (Translation)	Bona ensolo dhaife	id=28408

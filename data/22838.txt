@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=22838&d=0&a=1
+id:	22838
+title:	Isishiri nende Isurusi
+author:	Peter Mandu
+artist:	Salim Kasamba
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22838.png
+desc:	Omulima yali nende Isurusi ingofu nende Isishiri.
+
+page_text:
+
+P1	Omulima yali nende Isurusi ingofu.
+P2	Khandi yali nende Isishiri.
+
+Isurusi nende Isishiri bali abetsa.
+P3	Nibwakhera, Isurusi yabolera Isishiri, "Nyangayino
+enchonyire muno."
+P4	Inyanga yalondakho, Isurusi yeerotsakana khandi, "Lero sheuluushirekho ta."
+P5	Isishiri yakalusia, "Emilimo chianje chibeere emisiro okhushira echichio."
+P6	Nebusherenge, khandi Isurusi yabola, "Lero ibere inyanga imbi khwisie."
+P7	Isishiri yakalusia, "Omulima nakalukha, omulilire, "Moo! Moo!"
+P8	Isurusi yalilira omuruchi, "Moo! Moo!"
+Omuruchi yachilekha auluushe.
+P9	Omulima yaboha Isishiri khumbako.
+
+Isishiri yalima khulwa Isurusi.
+P10	Isishiri yakhola emirimo inyanga yosi.
+
+Nebwirirenge yali ichonyere muno.
+P11	Isishiri yabola, "Omulima alakhusinza. Ochonyanga lwangu khandi olwala."
+P12	Isurusi yakalusia Isishiri, "Mutsuli ndalakhola 
+emilimo chianje."
+
+images:
+
+illustrations/pages/15496.png
+illustrations/pages/15491.png
+illustrations/pages/15492.png
+illustrations/pages/15493.png
+illustrations/pages/15494.png
+illustrations/pages/15495.png
+illustrations/pages/15496.png
+illustrations/pages/15497.png
+illustrations/pages/15498.png
+illustrations/pages/15499.png
+illustrations/pages/15500.png
+illustrations/pages/15501.png
+illustrations/pages/15502.png
+
+translations:
+
+Kiswahili (Translation)	Punda na Fahali	id=18399

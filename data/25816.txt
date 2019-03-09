@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=25816&d=0&a=1
+id:	25816
+title:	Wandogoyi
+author:	David  Bamukangwiire and Kyambogo  University
+artist:	Marleen Visser
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25816.png
+desc:	Olufumo olwobughangwa olwinhonhola lwaki ensebeyi tidhizaala baana.
+
+page_text:
+
+P1	Ghaaliyo wandogoyi omutoto omukazi omulungi einho nga bamweta waditi.
+P2	Wambalaasi omusaadha omulungi yaakoba,"Nteekwa okukubayiza Waditi."
+P3	Wambalaasi yaakoba,"Tuje tutyo ku mwiga."
+P4	Wambalaasi yaakoba waditi abe mukazi ghe. Waditi yaikiriza.
+P5	Wambalaasi yabuuza Waditi "Ani bbaabbawo ni maamawo?"
+P6	Waditi yakoba, "Maama ghange aba mu lubiri lwa kyabazinga."
+P7	"Mwanhinaze aba ku luya lwa kanisa. Tomwidi?"
+P8	Era yaakoba, "Songa ghange omulungi aba ni omukulu ow'ekyalo."
+P9	Awo Wandogoyi omukaire yabitawo. Niyali bbaabba gha waditi.
+P10	Waditi tiyalamusa bbaabbaaghe ghaire okumulingaku.
+P11	Wambalaasi enkaire yaabuuza, "Kiki, omughala?"
+P12	Wambalaasi yaabuza waditi,"Wandogoyi ki omusiru ono?"
+P13	Waditi yaakoba, "Timwidi."
+P14	Wambalaasi yaasamba Wandogoyo omukaire.
+P15	Wandogoyi omukaire yaamenheka omutima. Yaalira yaafa.
+P16	Olw'okuba waditi tiyagha ise kitiisa, tasobola kuba na baana.
+
+images:
+
+illustrations/pages/17977.png
+illustrations/pages/17968.png
+illustrations/pages/17969.png
+illustrations/pages/17970.png
+illustrations/pages/17971.png
+illustrations/pages/17972.png
+illustrations/pages/17973.png
+illustrations/pages/17974.png
+illustrations/pages/17975.png
+illustrations/pages/17976.png
+illustrations/pages/17977.png
+illustrations/pages/17978.png
+illustrations/pages/17979.png
+illustrations/pages/17980.png
+illustrations/pages/17981.png
+illustrations/pages/17982.png
+illustrations/pages/17984.png
+
+translations:
+
+Afaan Oromo (Translation)	Gangee	id=21648
+Amharic (Translation)	በቅሎዋ ዋርዲት	id=17991
+Amharic (Adaptation)	በቅሎዋ ዋርዲት	id=18427
+Amharic (Translation)	ዋርዲት በቅሎዋ	id=21180
+English (Original)	Wardit, the mule	id=17985
+English (Adaptation)	The mule	id=20873
+Kiswahili (Translation)	Nyumbu	id=21073
+Tigrigna (Translation)	እታ በቅሊ	id=21113

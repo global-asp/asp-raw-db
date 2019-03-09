@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=27006&d=0&a=1
+id:	27006
+title:	Omukazi omukaire era ni Wakayima
+author:	John Kasiti and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27006.png
+desc:	Olufumo luno lugema ku byatuuka ku mukazi omukaire bweyaja okucalira mughalaghe kubutuuma mwiga.
+
+page_text:
+
+P1	Eira inho ghaliwo omukazi omukaire eyali nga mulimi mulungi.
+
+Mughalaghe yali yafumbirwa omusaadha eyali aghangalira ebutuuma mwiga.
+P2	Omukazi omukaire yata muwogo, ebidhandhaali ne biira mukaibo. Yali alikubitwalira mughalaghe n'omuko.
+P3	Bwali amaze okusomoka omwiga, eiroboozi eigeni lya yasiikana,"Ta ghansi akaibo ko!"
+P4	Eiroboozi lyairamu,"Ni nze kyabazinga ghe kibira. Ndwaza abantu omusudha ni munda. Mbatengeza era badhugumira."
+
+Olwentiisa, omukazi omukaire yasuula akaibo era yalumuka.
+P5	Bweyatuuka ebuko, yaghayiira ku mukoirume ghe ku eiroboozi erimutisiisa.
+
+Omuko yamukoba," Olundi lwonaidha okutucalira, toola ogwibo ogunene era oteemu embwa yo."
+P6	Nga ghabisewo ewiki, omukazi omukaire yatoola ogwibo ogunene nga aja okucalira mughalaghe n'omuko.
+
+Bwamaala okusala omwiga, eiroboozi erala eryo lyakoba,"Ta ghansi ekiibo! Ni nze kyabazinga ghe kibira. Ndwaza abantu omusuudha ni munda. Mbatengeeza era badhugumira!"
+P7	Yata ghansi ekiibo,yeyuuna okulingezayo okubona kiki ekituseewo.
+P8	Embwa enkambwe yatuuma mu kiibo nga Wakayima aidye okusandhukula ku atwale ebirimu.
+
+Awo ghe nabalekeranga nga embwa eise Wakiyima.
+
+images:
+
+illustrations/pages/25389.png
+illustrations/pages/25385.png
+illustrations/pages/25386.png
+illustrations/pages/25387.png
+illustrations/pages/25388.png
+illustrations/pages/25389.png
+illustrations/pages/25390.png
+illustrations/pages/25391.png
+illustrations/pages/25392.png
+
+translations:
+
+ChiShona (Translation)	Mbuya naTsuro	id=22228
+English (Translation)	Old woman and Hare	id=21501
+Kinyarwanda (Original)	Umukecuru Na Bakame	id=21500

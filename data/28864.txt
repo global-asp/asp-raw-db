@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=28864&d=0&a=1
+id:	28864
+title:	Damba omusuubuzi
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28864.png
+desc:	Olufumo luno lugema ku musuubuzi omututumufu akoolera aghalala naabomunhumba ye mu katawuni ka Gayaza.
+
+page_text:
+
+P1	Ku  kyalo  kyaife  kuliku  omusaadha  owe liina  Damba.
+P2	Damba  yali  n'eiduuka  einene  inho  mu  katawuni    ka  Gayaza.
+P3	Mu iduuka  lya  Damba  mulimu  bbando,  sukaali,  ebizigo,  omutyeere,  ebidhandhaali,  ne ebintu ebindi  bingi.
+P4	Damba  ali no  omukazi  n'abaana  basatu.  Boona  bakola  ino  naamaani  mu  iduuka.
+P5	Mu kiseera  eky'olughuumula,  abaana  bayambaku  abazaire  baibwe  okukola  mu iduuka  nga  bagheereza  abaguzi.
+P6	Damba  ali ne  ebitabo  mwa ghandiika  dhatunze  buli  lunaku.
+P7	Damba  ni  mukazi ghe  bali ne  enhumba  enhungi  n'emotoka.
+P8	Baaya  embuzi,  ente,  enkoko,  n'obuduyu.  Obulamu  bwaibwe  bweyagaza.
+P9	Damba  ni  mukazi  ghe  bafuna  sente  edhibamala  okulabirira  abaana  baibwe  n'okubatwaala  mu  masomero  amalungi.
+
+images:
+
+illustrations/pages/10795.png
+illustrations/pages/10795.png
+illustrations/pages/10796.png
+illustrations/pages/10797.png
+illustrations/pages/10798.png
+illustrations/pages/10799.png
+illustrations/pages/10801.png
+illustrations/pages/10804.png
+illustrations/pages/10805.png
+illustrations/pages/10803.png
+
+translations:
+
+English (Translation)	Dembe the Shopkeeper	id=11466
+Luganda (Original)	Dembe Omusuubuzi	id=11444
+Lusoga (Translation)	Dembe omusuubuzi	id=28464

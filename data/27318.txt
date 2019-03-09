@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=27318&d=0&a=1
+id:	27318
+title:	Eghaimwe eriyo ki?
+author:	Abdul Magid Mbago and Kyambogo  University
+artist:	Mlungisi Dlamini, Danica Strydom, Catherine Groenewald, Wiehan de Jager, Carol Liddiment and Salim Kasamba
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27318.png
+desc:	Olufumo luno lwegeresa ku bintu ebyagaanibwa mu maka ate lulaga nti obenganda ba muganhulo inho eri banaibwe.
+
+page_text:
+
+P1	Eghaife eriyo endhu yetusulamu. Bbaabba n'eyagizimba.
+P2	Ghaliyo ente edhitugha amata.
+P3	Eghaife eriyo emiti edhireeta amaadhi agagwa. Dhitugha ebinsense.
+P4	Eghaife ghaliyo ebibala. Maama ni eyabirima mu nnimiro.
+P5	Eghaife eriyo ebimuli ebisanhusa amaiso.
+P6	Eghaife eriyo ensawo maama gy'agema.
+P7	Nze ndi n'ekiteeteeyi baaba ni eyakigula.
+P8	Suuna ali ni esaati. Dhaadha ni eyagigula.
+P9	Muto ghaife ali ni engaito. Songa ni eyadhugula.
+P10	Byonabyona birungi inho.
+
+images:
+
+illustrations/pages/6006.png
+illustrations/pages/5307.png
+illustrations/pages/5814.png
+illustrations/pages/6098.png
+illustrations/pages/6073.png
+illustrations/pages/6143.png
+illustrations/pages/6123.png
+illustrations/pages/5935.png
+illustrations/pages/5941.png
+illustrations/pages/961.png
+illustrations/pages/15501.png
+
+translations:
+
+Luganda (Original)	Ewammwe Waliyo Ki?	id=6174

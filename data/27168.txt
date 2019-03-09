@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=27168&d=0&a=1
+id:	27168
+title:	Kyenvu
+author:	Ibrahim  Isabirye and Kyambogo  University
+artist:	Sue Kramer
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/27168.png
+desc:	Sentensi edhiri ne ebifananhie ebya kyenvu mu bintu bya buliidho.
+
+page_text:
+
+P1	Ekiwoiwolo ekya kyenvu ku mucanga.
+P2	Engoma eya pulasitiika eri munhumba.
+P3	Embalasi ya kyenvu ku luguudo.
+P4	Eroole ya kyenvu mu kibuga.
+P5	Eibuga lya kyenvu kwi itaaka.
+P6	Ebimuli bya kyenvu mu kalobo.
+P7	Gaali muuka ya kyenvu mu luguudo.
+P8	Ekiserengeto ekya kyenvu mu ikungaanio ly'emotoka.
+P9	Enhumba ya kyenvu mu ikoona.
+P10	Afirika eya kyenvu ku mutwe.
+P11	Era gha twena twena ghe tuviira? Mu Afirika.
+
+images:
+
+illustrations/pages/934.png
+illustrations/pages/935.png
+illustrations/pages/936.png
+illustrations/pages/937.png
+illustrations/pages/938.png
+illustrations/pages/939.png
+illustrations/pages/940.png
+illustrations/pages/941.png
+illustrations/pages/942.png
+illustrations/pages/943.png
+illustrations/pages/1259.png
+illustrations/pages/945.png
+
+translations:
+
+English (Original)	Yellow	id=1258
+isiXhosa (Translation)	Umbala omthubi	id=2350
+Kikamba (Translation)	Langi Wa Ilaa Ya Muuti	id=3000
+Luganda (Translation)	KYENVU	id=23650
+Lugbarati (Translation)	A’Ugbe A’Ugbea	id=12646
+Lunyole (Translation)	Namagi	id=21101
+Maa (Translation)	Éísikítoi	id=3001
+Ng’aturkana (Translation)	Anyang’Aanut	id=2351
+Oluwanga (Translation)	Eshiengu	id=2352

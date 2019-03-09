@@ -1,0 +1,67 @@
+url:	https://africanstorybook.org/reader.php?id=22468&d=0&a=1
+id:	22468
+title:	Kate yuko mbinguni
+author:	Ursula Nafula
+artist:	Rodney  Kawaayi
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22468.png
+desc:	Kate Namatovu ni mgonjwa. 
+
+page_text:
+
+P1	Kate ana kitu kichwani mwake. Je, watakiondoaje?
+P2	Kinafanya Kate achoke. Kinamuumiza. Kinamfanya ajihisi mzito.
+P3	Hawezi kula. Hawezi kunywa. Hacheki kama hapo awali.
+P4	Jamani, maskini mwanamke huyu! Kichwa kinamuuma. Daktari anapiga kichwa chake picha kutumia mawimbi ya sauti.
+P5	Daktari anauona uvime kichwani mwake. Anasema, "Kuna uvimbe kwenye ubongo wako."
+P6	"Lazima tuuondoe huu uvimbe mara moja. Lazima tuuondoe sasa hivi!" Daktari anasema.
+P7	Wanaileta machela.
+P8	Wanatayarisha vifaa vya upasuaji.
+P9	Wanamdunga sindano.
+P10	Wanakata na kukifungua kichwa cha Kate.
+P11	Wanautoa ubongo.
+P12	Wanakata na kuundoa ule uvimbe.
+P13	Wanaurudisha ubongo kwenye fuvu. Kisha wanashona na kukifunga kichwa tena.
+P14	Je, Kate anahisi chochote wanachofanya? La! Kate yuko mbinguni. Hahisi. Hali. Hanywi. Kwa saa 24!
+P15	Halafu, Kate anapata uhai!
+P16	Sasa anahisi vizuri. Yuko kama mtoto mchanga.
+P17	Sote tunamfurahia rafiki yetu Kate aliyepata kuonja mbinguni.
+
+images:
+
+illustrations/pages/26149.png
+illustrations/pages/26134.png
+illustrations/pages/26135.png
+illustrations/pages/26136.png
+illustrations/pages/26137.png
+illustrations/pages/26138.png
+illustrations/pages/26139.png
+illustrations/pages/26140.png
+illustrations/pages/26141.png
+illustrations/pages/26142.png
+illustrations/pages/26143.png
+illustrations/pages/26144.png
+illustrations/pages/26145.png
+illustrations/pages/26146.png
+illustrations/pages/26147.png
+illustrations/pages/26148.png
+illustrations/pages/26149.png
+
+translations:
+
+English (Translation)	Kate is in heaven	id=22256
+English (Adaptation)	(Colour-in) Kate is in heaven	id=22559
+Luganda (Original)	Kasalina ali mu Ggulu	id=22255
+Luganda (Translation)	Kate ali mu Gulu	id=22878
+Luganda (Translation)	kate alimugulu	id=23040
+Lugwere (Translation)	O'Kate Alimwigulu	id=22903
+Lusoga (Translation)	Kasalina ali mwighulu	id=22694
+Lusoga (Translation)	Kasalina ali mwigulu	id=23806
+Lusoga (Translation)	Kasalina ali mwigulu	id=28564
+Rukiga (Translation)	kate ali omwigulu	id=22911
+Runyankore (Translation)	Kate ari Omwiguru	id=22879
+Runyankore (Translation)	Kate ari omwiguru	id=23039
+Rutooro (Translation)	Kate ali mwuguru	id=22906
+Rutooro (Translation)	Kate ali mwigulu	id=22907

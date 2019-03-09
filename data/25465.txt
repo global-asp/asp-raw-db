@@ -1,0 +1,25 @@
+url:	https://africanstorybook.org/reader.php?id=25465&d=0&a=1
+id:	25465
+title:	Omwana ali kulira
+author:	Enocha Tasingika and Kyambogo  University
+artist:	
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25465.png
+desc:	Omwana omwende eyalekebwa yenka mu guzikiiza yalira olwo okutya. Aye lwaki yatya?
+
+page_text:
+
+P1	Maama owo omwana yamuleka ghaka yaaja mu katale.
+P2	Bwe yaja yalwayo era yamalayo kuuku entangama.
+P3	Omwana yecaagha yainhama okulira paka maama we bwe yaira.
+
+images:
+
+illustrations/pages/14974.png
+illustrations/pages/14977.png
+
+translations:
+
+English (Original)	baby crying	id=24518

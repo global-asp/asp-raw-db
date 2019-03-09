@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=27065&d=0&a=1
+id:	27065
+title:	Goina  omuyala
+author:	Kyambogo  University and Sheba  Mugabi
+artist:	Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27065.png
+desc:	Olufumo lugema ku Goina eyali omuyala inho.
+
+page_text:
+
+P1	Ghaligho Goina nga muyala inho
+P2	Buli kiseera yasooba nga kapolakapola okwagala ekyokulya.
+P3	Noluvainhuma.
+P4	poo! Goina yaysama!
+P5	Oluvainhuma lwe'kyo Goina yali aigwiite era nga musangaavu
+P6	paka lwairamu okuba omuyala.
+
+images:
+
+illustrations/pages/5948.png
+illustrations/pages/5948.png
+illustrations/pages/5949.png
+illustrations/pages/5950.png
+illustrations/pages/5947.png
+illustrations/pages/5951.png
+
+translations:
+
+Afrikaans (Translation)	Die Honger Krokodil	id=11063
+Arabic (Translation)	التمساح الجائع	id=18188
+English (Original)	The hungry crocodile	id=7043
+French (Translation)	Le Crocodile Qui Avait Très Faim	id=10940
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=20582
+Kinyarwanda (Translation)	Ingona Yari Ishonje	id=21204
+Kiswahili (Translation)	Mamba aliyekuwa na njaa	id=12602
+Luganda (Translation)	Ggonya Omuyala.	id=9664
+Nandi (Translation)	Makasta Ne Amei Rubet	id=17252
+Ng’aturkana (Translation)	Akinyang Na Anyamit Akoro	id=12708
+Oluwanga (Translation)	Ikwena Yali Ne Inzala	id=13016
+Portuguese (Translation)	O Crocodilo Faminto	id=18889
+Runyankore (Translation)	Gonya eyabile eyine ejanla	id=23538

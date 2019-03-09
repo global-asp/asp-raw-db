@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=22820&d=0&a=1
+id:	22820
+title:	Lishene eliali omwami
+author:	Christine  Wanzetse
+artist:	Isaac Okwir
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22820.png
+desc:	Don liali Lishene likhongo. Liali lirasi.
+
+page_text:
+
+P1	Don liali Lishene likhongo.
+
+Liali lirasi.
+P2	Don liali omwami wamashene kandi.
+P3	Abalondereri balio bamuheresia eshitambaya.
+P4	"Ndalafwala khumurwe," Don nilibola.
+P5	"Buli omundu alonde amalako kanje. Mulareba tawe." Don lyakhupa oluyoka.
+P6	Bosi balonda khumwami wabu. Don olwayaruka buli mulala yaruka.
+P7	Halali eshitambaya shilia shiatira omurwe obutinyu.
+P8	Don yatira omurwe wayaumia. 
+
+Amashene kandi kosi nikatira emirwe chiabu.
+P9	"Hano hanzuna," Don yabola.
+ 
+Amashene kosi nikabola, "Hano hanzuna."
+P10	Yabola, "Shino shindirire muno!"
+
+Bosi nibabola, "Shino shindirire muno."
+P11	Don yakwa okhurula hekulu. 
+
+Bosi bamulonda nibakwa.
+P12	Omwami Don, yafwa. 
+
+Abalondereri balio basalila halali shibafwa tawe.
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldeessaa	id=18907
+English (Original)	Baboon chief	id=18906
+English (Adaptation)	Baboon chief	id=19751
+isiZulu (Translation)	Inkosi yezimfene	id=21913
+Kiswahili (Translation)	Nyani aliyekuwa chifu	id=21994
+Lulamoogi (Translation)	Omukulu W'eirike	id=25339
+Lusoga (Translation)	Omukulu gha amalike	id=25125
+Ng’aturkana (Translation)	Ekatukon Ang'ichomin	id=20344

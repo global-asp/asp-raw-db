@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=22857&d=0&a=1
+id:	22857
+title:	Ori Woowi?
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Elomwe
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22857.png
+desc:	Help two friends find the hidden animals.
+
+page_text:
+
+P1	Eri woowi eneneele?
+P2	Eri woowi ekhoropa?
+P3	Ori woowi muchoro?
+P4	Eri woowi epalame?
+P5	Ori woowi naawirica?
+P6	Ori woowi paakha?
+P7	Ori woowi mwanakhu?
+P8	Ori woowi mwanapwa?
+P9	Eri woowi ekupa?
+P10	Eri woowi epuri?
+
+images:
+
+illustrations/pages/26677.png
+illustrations/pages/26675.png
+illustrations/pages/26676.png
+illustrations/pages/26677.png
+illustrations/pages/26678.png
+illustrations/pages/26679.png
+illustrations/pages/26680.png
+illustrations/pages/26681.png
+illustrations/pages/26682.png
+illustrations/pages/26683.png
+illustrations/pages/26684.png
+illustrations/pages/26686.png
+
+translations:
+
+CiNyanja (Translation)	Alikuti?	id=22853
+Cinyungwe (Translation)	Bziri Kuponi?	id=22854
+Cisena (Translation)	Iri Kupi?	id=22855
+Echiziinza (Translation)	Chiiselekile Nkáhi?	id=31281
+Echuwabo (Translation)	Oli Uvi?	id=22856
+Emakhuwa (Translation)	Eri Vaavi?	id=22748
+English (Original)	Where Is...?	id=22681
+Ikisimbëtë (Translation)	Ököbhöörya	id=30269
+Kiswahili (Translation)	Kuuliza	id=30268
+Lusoga (Translation)	kiligha...?	id=25866
+Olunyaneka (Translation)	Ikahipi?	id=22858
+Portuguese (Translation)	Onde Está?	id=22852
+Runyankore (Translation)	Elinkahi?	id=24329

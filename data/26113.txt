@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=26113&d=0&a=1
+id:	26113
+title:	Okuja mukibuga
+author:	Kyambogo  University and Robert Kirunda
+artist:	Brian Wambi
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26113.png
+desc:	Omulenzi alikukyalira Ddaadda mwanina maama we mu kibuga ekinene omukuzi gwe ogusooka!
+
+page_text:
+
+P1	Sitenseni ya bbaasi mu kibuga kyange waaliwo enkuyandha eya abantu
+P2	Wololo wa bbaasi yaleekanha, "kuja mukibuga! tusimbula buti!"
+P3	Abantu besindiika inho okutuuka ku bbaasi.
+P4	Abakazi nabaana baatyama.
+Olugendho lwali lughanvu.
+P5	Natwamira gha dhinisa, okumpi no musaadha.
+P6	Naadhuuba, ndhi kuja mu kibuga, aye ndese amaka.
+P7	Ghaliiwo abatembeyi bangi inho nga batanha ebya maguzi
+P8	Abasaabaaze baguula ebintu.
+Nze twali na mpiiya kugula kintu kyona kyona.
+P9	Ekyembi, omuvuuzi wa bbaasi yafuugha engombe.
+P10	Abatembeyi basindikagana nga bafuluma e bbaasi.
+P11	"Oba nnhaira yo li eka?" neebuuza nze mwene.
+P12	Mundha mu bbaasi mwali mwooca.
+P13	Nadhuuba muku maama ni muganda ghange bendese eka.
+P14	Endoolo dhamaala dhandhiba wo mpola mpola.
+P15	Ekiseera kighanvu bwekyabitawo, nnaira engule.
+Abantu baali nga bagiire.
+P16	Ekiseera kyali kituuse okunoonhia enumba ya ddaadda mwaniina maama.
+
+images:
+
+illustrations/pages/15008.png
+illustrations/pages/14993.png
+illustrations/pages/14994.png
+illustrations/pages/14995.png
+illustrations/pages/14997.png
+illustrations/pages/14996.png
+illustrations/pages/14998.png
+illustrations/pages/14999.png
+illustrations/pages/15000.png
+illustrations/pages/15001.png
+illustrations/pages/15002.png
+illustrations/pages/15003.png
+illustrations/pages/15004.png
+illustrations/pages/15005.png
+illustrations/pages/15006.png
+illustrations/pages/15007.png
+illustrations/pages/15008.png
+
+translations:
+
+Arabic (Translation)	يوم تركت المنزل ذاهباً إلى المدينة	id=21879
+English (Original)	Day I left home for the city	id=15029
+English (Adaptation)	Going to the city	id=21398
+isiXhosa (Translation)	Ndiya esixekweni	id=23144
+Kidawida (Translation)	Kwenda Muzi mbaha	id=22016
+Kiswahili (Translation)	Siku niliyokwenda Jijini	id=15032
+Kiswahili (Translation)	Kwenda Jijini	id=21999
+Lámnsoʼ (Translation)	Du yeé ŋkàlaʼ ye kuʼùn	id=22298
+Lusoga (Translation)	Okujja mu kibuga	id=25258

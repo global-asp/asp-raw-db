@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=24580&d=0&a=1
+id:	24580
+title:	Losing my mother
+author:	Lubogo James
+artist:	Melany Pietersen and Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24580.png
+desc:	When my mother died
+
+page_text:
+
+P1	She carried me for nine months.
+P2	She taught me how to dig.
+P3	She counselled me whenever i went wrong.
+P4	We always had evening walks together.
+P5	She made sure that I covered myself every night.
+P6	She allowed me to choose whatever I wanted.
+P7	I will never forget her love in my life.
+
+images:
+
+illustrations/pages/17356.png
+illustrations/pages/15011.png
+illustrations/pages/14113.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9501.png
+illustrations/pages/9497.png
+illustrations/pages/9488.png
+
+translations:
+
+Lusoga (Translation)	Okufiirwa maama ghange	id=29799

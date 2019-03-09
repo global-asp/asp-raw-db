@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=24827&d=0&a=1
+id:	24827
+title:	Obuguya
+author:	Charles Eramaga and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24827.png
+desc:	Omughala aguya dhaadha ghe. Bwamala okulya emere. Dhaadha ghe ategeera atya amazima?
+
+page_text:
+
+P1	Abaana batyaime nga bagabulwa emere nga baja okulima.
+P2	Abaana bagemye embago. Baja kulima.
+P3	Abaana ni dhaadha ghaibwe babeikereire embago. Omughala owundi iye airayo.
+P4	Omughala aiwula emere  yagilya ku bainhe yenka nga bazirawo.
+P5	Dhaadha gh'abaana afumbawo emere eyindi.
+P6	Dhaadha gh'abaana asandhukula ku mmere.
+P7	Dhaadha abuuza aliire emere era abaana beegaana boonaboona.
+P8	Dhaadha ghaibwe yasiba akaguwa kumwiga bakabiteku olwo azuule aliire emere.
+P9	Omughala alina akateteeyi ka kathungwa neeyasooka okutambuliraku yaasala.
+P10	Omulenzi n'omughala owa kateteeyi ka kilagala bawakana abe eireku.
+P11	Omughala mu kiteteeyi kya kilagala yairaku era entiisa yaamugema yaagwamu.
+P12	Omughala omulimba agwa mu maadhi era alemererwa okutambulira ku kaguwa.
+P13	Dhaadha omukazi n'omulenzi, bainhulula omughala mu mwiga.
+
+images:
+
+illustrations/pages/13378.png
+illustrations/pages/13368.png
+illustrations/pages/13369.png
+illustrations/pages/13370.png
+illustrations/pages/13371.png
+illustrations/pages/13372.png
+illustrations/pages/13373.png
+illustrations/pages/13374.png
+illustrations/pages/13375.png
+illustrations/pages/13377.png
+illustrations/pages/13378.png
+illustrations/pages/13379.png
+illustrations/pages/13380.png
+illustrations/pages/13381.png
+
+translations:
+
+English (Original)	Guilty conscience?	id=13542
+English (Adaptation)	Guilty Conscience (Song In English)	id=16573
+Kumam (Translation)	Lewic	id=20604
+Luganda (Translation)	Gumusinze(oluyimba mu Luganda)	id=23658
+Lunyole (Adaptation)	Ohuswaluuha	id=16575

@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=26240&d=0&a=1
+id:	26240
+title:	Akatabo kange  ak'enfumo
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Catherine Groenewald
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26240.png
+desc:	Omwana ainhonhola akatabo ke akenfumo. SINIINI BATAAMYE OMUVUNUZI.
+
+page_text:
+
+P1	Nningirira.
+P2	Ndi mughala.
+P3	Ndina akatabo kange  ak'enfumo akayaaka.
+P4	Bonaku  akatabo  kange  ak'enfumo  akayaaka.
+P5	Muganda  wange  yatwala  akatabo kange  ak'enfumo.
+P6	Mwanhinaze  omuto yatwala  akatabo  kange ak'enfumo  yeena.
+P7	Ayenda okusoma  akatabo kange  ak'enfumo.
+P8	Buti, ndikusoma akatabo kange.
+
+images:
+
+illustrations/pages/8606.png
+illustrations/pages/8659.png
+illustrations/pages/8664.png
+illustrations/pages/8636.png
+illustrations/pages/8662.png
+illustrations/pages/8666.png
+illustrations/pages/10546.png
+illustrations/pages/19236.png
+illustrations/pages/8636.png
+
+translations:
+
+English (Original)	My Storybook	id=19593
+Kinyarwanda (Translation)	Agatabo Kange K' Inkuru	id=21047
+Luganda (Translation)	akatabo kange	id=24484
+Lusoga (Translation)	Akatabo kange	id=29061

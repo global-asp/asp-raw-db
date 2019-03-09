@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24219&d=0&a=1
+id:	24219
+title:	A happy family
+author:	Nasirumbi Lynn
+artist:	Karlien de Villiers, Marike le Roux, Sarah Bouwer, Ursula Nafula, Vusi Malindi and Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24219.png
+desc:	A family that works together
+
+page_text:
+
+P1	The children wake up early and help each other to get prepared for school so that they are not late.
+P2	They then walk together to school as it is better to help one another in case one gets injured on the way. It is nice to walk together.
+P3	They play together at break time and make new friends who are good.
+P4	When they return home, they help their parents with house chores to finish quickly.
+P5	They eat their dinner after they have prayed for the meal as a family. They talk to their parents about school and what the teacher taught.
+P6	They do not forget to pray, because a family that prays together, stays together.
+
+images:
+
+illustrations/pages/11451.png
+illustrations/pages/13819.png
+illustrations/pages/7512.png
+illustrations/pages/9192.png
+illustrations/pages/14037.png
+illustrations/pages/13930.png
+illustrations/pages/8853.png
+
+translations:
+
+Lusoga (Translation)	Endhu  ensagaalufu	id=24918
+Runyankore (Translation)	Ekyika kisemerirwe	id=24286

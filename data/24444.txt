@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=24444&d=0&a=1
+id:	24444
+title:	My grandmother
+author:	Odama Brenda Awate
+artist:	Catherine Groenewald and Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24444.png
+desc:	You should love your grandmothers because they are amazing.
+
+page_text:
+
+P1	I always go to the village to visit my grandmother.
+P2	She always tell us stories with my siblings.
+P3	she makes us feed the animals and work on the farm.
+P4	she takes us to the market with her.
+P5	she also teaches me how to dance.
+P6	i love my grandmother so much.
+
+images:
+
+illustrations/pages/5997.png
+illustrations/pages/18819.png
+illustrations/pages/18819.png
+illustrations/pages/14041.png
+illustrations/pages/11671.png
+illustrations/pages/1094.png
+illustrations/pages/1095.png
+
+translations:
+
+Lusoga (Translation)	Dhaahda wange Omukazi	id=27677

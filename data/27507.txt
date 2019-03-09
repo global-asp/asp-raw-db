@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=27507&d=0&a=1
+id:	27507
+title:	Okusimba n' Okukungula
+author:	John Kasiti and Kyambogo  University
+artist:	Jonathan Field
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27507.png
+desc:	Maama ni bbaabba bali kusimba nnimiro. Abaaghaka boonaboona beenhigira mu kusimba nokukungula.
+
+page_text:
+
+P1	Maama ghange yasimba. Yasimba enimiro dhoonadhoona. Yasimba akalimiro ake empindi.
+P2	Bbaabba ghange yasimba. Yasimba akalimiro. Yasimba akalimiro ake mbooli.
+P3	Maama ghange yadhuba. Yadhuba mu bulimiro obwe beeyi.
+P4	Bbaabba ghange yafukirira. Yafukirira enimiro dhombiriri.
+P5	Nzeena nakola. Nakola naabazaire bange mu bulimiro obwe beeyi.
+P6	Akalimiro ake empande kaavamu ekiibo kye mpande. 
+Akalimiro ake bimuli kavaamu ekiibo kye bimuli.
+P7	Maama ghange yasimba. Yaasimba enimiro edhindi. Yaasimba enimiro enene eye empande ne eye mbooli.
+P8	Bbaabba ghange yaasimba. Yaasimba enimiro eyindi eye bimuli enene.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/8998.png
+illustrations/pages/8999.png
+illustrations/pages/9000.png
+illustrations/pages/9001.png
+illustrations/pages/9002.png
+illustrations/pages/9003.png
+illustrations/pages/9004.png
+illustrations/pages/9005.png
+
+translations:
+
+Afrikaans (Translation)	My Ma Maak Tuin	id=11280
+Afrikaans (Adaptation)	Die Tuin	id=20359
+English (Translation)	My mother planted	id=9034
+French (Translation)	Ma Mère a Fait Des Plantations	id=12660
+isiZulu (Translation)	Umama Watshala	id=11520
+isiZulu (Translation)	Umama Wami Utshalile	id=12914
+Kiswahili (Translation)	Mamangu alipanda	id=12652
+Lusoga (Original)	Maama Wange Yalima	id=9031
+Lusoga (Adaptation)	My mother planted	id=9040
+Ng’aturkana (Translation)	Itokang Etakini	id=12650
+Oluwanga (Translation)	Mama Wanje Yaraka	id=13015
+Portuguese (Translation)	A Minha Mãe Plantou	id=17615
+Sepedi (Translation)	Mma waka o bjadile	id=11080
+Sepedi (Translation)	Mma waka o bjadile	id=11083

@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=25741&d=0&a=1
+id:	25741
+title:	okusalagho
+author:	Kyambogo  University and sheba Magabi
+artist:	Vusi Malindi
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25741.png
+desc:	Abantu abe kyalo basalagho oku cuusa obulamu byaibwe.
+
+page_text:
+
+P1	ekyalo kyange kyali n'ebizibu bingi. Twa simba nga olugololilo olughavu okunona amaadi okuva ku tapu.
+P2	Twa lindiriranga emere  etugherebwa abandi.
+P3	Twaigaranga amanhumba gaife olwa baibi.
+P4	Abaana bangi baava mu masomero.
+P5	Abaghala abato bakolanga nga emperekeze mu byalo ebindi.
+P6	Abalenzi abato bazunga nga ku kyalo nga abandi bakola ku nhimiro dha bantu.
+P7	Ki kunta bwe yakunta, ebipapula bwa gulukira ku miti ne bisito.
+P8	Abantu basalibwanga ebigilaasi eby' asulibanga mu budyagalavu
+P9	lwali lulala, tapu ya kaliira nga ebidomola baife bikaya.
+P10	Bbaaba ghange yatambula nhumba ku nhumba oku koba abantu okuja mu lukiko olwe kyalo.
+P11	abantu b' ekungania wansi gho muti omunene baghulirisa.
+P12	Bbaaba ghange ya yemerera yalonsa, "Twetaga oku kolera ghalala okumala gho ebizibu byaife."
+P13	Juma  oghe  myaka omunaana, atyaime ku kiti yalekaana,  "nsobola okuyamba no kunhiriza."
+P14	Omukazi mulala y'akoba, "ababakazi basobola oku n'egaita ku okulima emere."
+P15	Omusaadha  owundi ya yemerera yakoba, "Abasaadha ba eidha  kusima ebidiba."
+P16	Twena twena twalekanira ghalala, "Tutekwa kucuusa obulamu bwaife." Okuva olwo twakolera ghalala okumalagho ebizibu byaife.
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/10609.png
+illustrations/pages/10616.png
+illustrations/pages/10614.png
+illustrations/pages/10611.png
+illustrations/pages/10613.png
+illustrations/pages/10615.png
+illustrations/pages/10617.png
+illustrations/pages/10612.png
+illustrations/pages/10610.png
+illustrations/pages/10618.png
+illustrations/pages/10619.png
+illustrations/pages/10620.png
+illustrations/pages/10621.png
+illustrations/pages/10623.png
+illustrations/pages/10624.png
+illustrations/pages/10625.png
+
+translations:
+
+Amharic (Translation)	ውሣኔ	id=22401
+Arabic (Translation)	القرار	id=21813
+English (Translation)	Decision	id=13304
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344
+Ng’aturkana (Translation)	Atiakun Akiroit	id=20496

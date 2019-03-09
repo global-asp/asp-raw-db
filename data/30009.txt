@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=30009&d=0&a=1
+id:	30009
+title:	Enhimiro ya maama
+author:	Kyambogo  University and Victoria Kateme
+artist:	Zablon Alex Nguku, Wiehan de Jager, Steven McKimmie and Jesse Breytenbach
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30009.png
+desc:	Eno mboozi egema ku nhimiro ya maama. Nolwekyo muginhumirwe.
+
+page_text:
+
+P1	Eno nhimiro ya maama. Nnene era nnungi. maama asimbamu ebirime bingi.
+P2	Guno muti gwa muyembe mama gwe yasimba. Emiyembe myenvu ate minhulugufu. Gindeetera amairu.
+P3	Nze ni maama twaja munhimiroye okufuna ku duuma ow'okwokya. Ebiseera ebindi maama aja mu katale yaatunda duuma.
+P4	Enhimiro ya maama erimu  amaliibwa amanene n'enhaanha. Waliwo oguliibwa ogubba gwenhumirwa okulingirira.
+P5	Ente da balirwana dhiri kulya amakaba g'embooli da maama.Maama aida ku nhiiga inho bwanakitegeera.
+P6	Maama era yasimba ebikaadho.Nze ni mukwano gwange twenda inho okuzaana kyekweko mu bikaadho.
+
+images:
+
+illustrations/pages/13696.png
+illustrations/pages/13694.png
+illustrations/pages/13388.png
+illustrations/pages/13695.png
+illustrations/pages/10655.png
+illustrations/pages/11670.png
+illustrations/pages/9847.png
+
+translations:
+
+English (Original)	Mama's Garden	id=14088
+Lusoga (Translation)	Enhimiro ya maama	id=30076
+Runyoro (Translation)	Omusiri Gwa' Mama	id=20647

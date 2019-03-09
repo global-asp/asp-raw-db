@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=28959&d=0&a=1
+id:	28959
+title:	Nze ndhidhi Okwegeresa Omusomesa!
+author:	Kyambogo  University and peter kyawera
+artist:	Silva Afonso
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28959.png
+desc:	Nze ndhidhi okudhingisa omusomesa. Okikola otya?
+
+page_text:
+
+P1	Nva inhuma nga mbonana bwatambula
+P2	Omusomesa ghange atambula nga asuula enta ndeeyi. Zeena nsobola okutambula nga ye.
+P3	Nsobola okwemerera emberi gha abaana nga omusomesa ghange bwa yemerera.
+P4	Omusomesa ayemba mu maloboozi amasenenkerevu. Nze ndhidhi okwemba ng'omusomesa bwayemba.
+P5	Zena mpuuba emikono nga omusomesa bwaghuuba
+P6	Ndhidhi okukuba akade nga omusomesa ghange bwakuba
+P7	Zeena nsoma nga omusomesa ghange bwasoma
+P8	Omusomesa asoma ebitabo nga tughulira.Zeena nsobola okusoma einho ng'omusomesa.
+P9	Aghoni omusomesa aghandiika kulubagho.Osobola okughandiika nga bwaghandiika?
+P10	Omusomesa aghandiika kulubagho. Nsobola okughandiika nga omusomesa bwaghandiika ku lubagho.
+P11	Omusomesa akuba emaapu kulubagho.
+P12	Omusomesa asonka kukitundu mwetuva ku maapu. Zeena nsobola okusonkakulubagho ng'omusomesa.
+P13	Omusomesa afuluma mukibiina. Zeena nsobola okutambula nga omusomesa bwatambula
+P14	Agh'o musomesa ayogera n'a basomesa abandi. Ndhidhi engeri omusomesa jayogemu ni basomesa baine.
+P15	Obwo omusomesa angira mukibiina yayemerera emberi. Ha Ekyo zeena nkisobola okukikola.
+P16	OMusomesa alongoosa ekibiina buli lunaku. Ndhidhi okulongoosaekibiina nga omusomesa.
+P17	agho naja kuluya nga mbeese ensagho.
+P18	Kumpi buli kintu nsobola okukikola nga omusomesa bwakola. Nze bwendikula, ndiba musomesa!
+P19	bikomye agho
+
+images:
+
+illustrations/pages/13846.png
+illustrations/pages/13847.png
+illustrations/pages/13848.png
+illustrations/pages/13849.png
+illustrations/pages/13850.png
+illustrations/pages/13851.png
+illustrations/pages/13852.png
+illustrations/pages/13853.png
+illustrations/pages/13854.png
+illustrations/pages/13855.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+English (Translation)	I Know How to Play the Teacher!	id=14948
+Portuguese (Original)	Eu Sei Fazer Como O Professor!	id=14894

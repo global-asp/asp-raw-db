@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=23200&d=0&a=1
+id:	23200
+title:	Omulenzi Owomululu
+author:	Mukalazi Peter
+artist:	Bronwen Heath, Eden Daniels, Marleen Visser and Wiehan de Jager
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23200.png
+desc:	Olunaku lumu abalenzi basatu okuva mu kyalo MUgulu bagenda okuyigga. Bakozesa mbwa okubayamba. Webali batambula nebasanga enkofu bbiri. Nebazigoba mpaka webazitta. Essawa byezatuka ezokudda ewaka
+
+page_text:
+
+P1	olunaku lumu abalenzi basatu okuva mu kyalo Mugulu bagenda okuyigga nembwa.
+P2	webali batambula,nebasanga enkofu bbiri.bazigoba mpaka webazitta
+P3	bwebatuka okudda ewaka bayagala ogabana ebinyonyi omulenzi omu nadduka
+P4	bali  abalenzi ababili bamugoba ne bamujjako ebinnyonyi.
+
+images:
+
+illustrations/pages/5815.png
+illustrations/pages/6377.png
+illustrations/pages/296.png
+illustrations/pages/4466.png
+illustrations/pages/1717.png
+
+translations:
+
+Acholi (Translation)	Awobi Ma Lagem	id=21317
+Alur (Translation)	UDA PA AWOBI MAJANGIRI	id=23306
+Ateso (Translation)	Esapat Lo Eisinye.	id=7651
+Ateso (Translation)	Esapat Lo Eisinge	id=20967
+English (Original)	A Greedy Boy	id=6388
+French (Translation)	un garcon gourmand	id=23322
+Hausa (Nigeria) (Translation)	Yaro Mai Sonkai	id=20788
+Kinyarwanda (Uganda) (Translation)	Umuhungu Arya Ibirenze	id=20612
+Luganda (Translation)	Omulenzi Owomululu	id=20969
+Luganda (Translation)	Omulenzi wo mululu	id=23007
+Luganda (Translation)	omulenzi owomululu	id=23161
+Luganda (Translation)	Omulenzi owomululu	id=23163
+Luganda (Translation)	Omulenzi omukodo	id=23294
+Luganda (Translation)	Omulenzi Owomululu	id=24431
+Luganda (Translation)	omulenzi owomululu	id=24598
+Lugbarati (Translation)	Agupia Mva Anyamboloruri	id=23431
+Lusoga (Translation)	Omulenzi owa omululu	id=23005
+Lusoga (Translation)	Omulenzi omuluvu	id=24910
+Lusoga (Translation)	Omulenzi Ogh'omulya kubi	id=25147
+Lusoga (Translation)	Omulenzi Ogh'o mughudu	id=25148
+Lusoga (Translation)	Omulenzi owomuwudhu	id=26163
+Lusoga (Translation)	Omwisuka omwimi	id=29142
+Rufumbira (Translation)	Umuhungu w'umururumba	id=22759
+Runyankore (Translation)	Omojo womururu	id=23084
+Runyankore (Translation)	Omutsigazi aine omururu	id=23669
+Runyankore (Translation)	Omwana'womururu	id=24036
+Sepedi (Translation)	Mosimane wa megabaru	id=7481

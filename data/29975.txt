@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=29975&d=0&a=1
+id:	29975
+title:	Uso
+author:	Kutafsiri Biblia Mara
+artist:	Sue  Beattie
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29975.png
+desc:	Jifunza sehemu za uso kwa matumizi ya michoro mbalimbali.
+
+page_text:
+
+P1	Macho
+P2	Sikio
+P3	Mdomo
+P4	Pua
+P5	Kidevu
+P6	Meeno
+P7	Ulimi
+P8	Mashavu
+P9	Kope
+P10	Nywele
+
+images:
+
+illustrations/pages/26803.png
+illustrations/pages/26807.png
+illustrations/pages/26808.png
+illustrations/pages/26802.png
+illustrations/pages/26800.png
+illustrations/pages/26801.png
+illustrations/pages/26755.png
+illustrations/pages/26810.png
+illustrations/pages/26809.png
+illustrations/pages/26804.png
+illustrations/pages/26806.png
+
+translations:
+
+Echiziinza (Translation)	Obúso	id=25010
+Echiziinza (Translation)	Obúso	id=30270
+English (Original)	Face	id=23135
+Ikisimbëtë (Translation)	Ubhusyö	id=30267
+Lusoga (Translation)	Mumaiso	id=30326
+Lusoga (Translation)	Mu Maiso	id=30345
+Lusoga (Translation)	Mu maiso	id=30407
+Lusoga (Translation)	Mu  maiso	id=30574

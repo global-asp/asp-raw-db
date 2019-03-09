@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=31280&d=0&a=1
+id:	31280
+title:	Esaala yo Omukáma Múungu
+author:	Kutafsiri Biblia Mara
+artist:	
+lang:	Echiziinza
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/31280.png
+desc:	In this book
+
+page_text:
+
+P1	Isiichwe ogwo ali omwiigulu,
+P2	Izíina lyáawe likuzibwe.
+P3	Obukáma bwaawe bwiíze.
+P4	Okweenda kwáawe kuhikiílizwe, omuunsi nkokwo omwiigulu.
+P5	Otuhe leélo ebyookulya byéetu bya buli chilo.
+P6	Otuganyile ebiheno byéetu,
+P7	nkokwo néechwe tuganyila abalikutuhénela.
+P8	Otatutwaala omu kuleengesibwa,
+P9	náho otuchuúngule no óogwo Omuzilwa.
+P10	Habwo kuba, obukáma, obuzizi ni ikuzo byoona ne ebyaáwe, kuhicha obucha no obuchiile.
+Amina!
+P11	Matayo 6:9-13
+
+images:
+
+illustrations/pages/16273.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Chinyungwe (Translation)	Baba Wathu	id=18980
+Elomwe (Translation)	Nivekelo Na Apwiya	id=18982
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=18983
+English (Original)	The Lord's Prayer	id=16246
+Imeetto (Translation)	Niswali	id=18993
+Lingala (Translation)	Tata na Biso	id=22493
+Lusoga (Translation)	Esaala  ya  Katonda	id=27752
+Portuguese (Translation)	Pai Nosso”	id=18981

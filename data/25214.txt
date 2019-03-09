@@ -1,0 +1,62 @@
+url:	https://africanstorybook.org/reader.php?id=25214&d=0&a=1
+id:	25214
+title:	Isabirye ow'eitima
+author:	Alice Gonza and Kyambogo  University
+artist:	Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25214.png
+desc:	Isabirye mwavu
+
+page_text:
+
+P1	Isabirye ni Wakaduuyu baagonzaganianga. Nabirye nga alumwa olw'obugaiga.
+P2	Isabirye yatwaala eisamba lya wakaduuyu. Yabinga wakaduuyu.
+P3	Isabirye yaatunda ebirime byonabyona. Yaafuna empiiya mbitirivu.
+P4	Isabirye yagolola eka ne ekiibokye ku mutwe.
+P5	Isabirye yaisa ekiibo ghansi. Yaaja okweigama amaadhi.
+P6	Amaadhi gaali mangi gaavaamu amataba, Isabirye yeekweka mu kiina.
+P7	Ensega yaabona ekiibo yaakibwikaku na amaghagha.
+P8	"Ekiibo kino kyange," Ensega bwe yakoba. 
+"Kyange!" Isabirye yaawowoigana.
+P9	"Ndagainemu esente  ni duuma  nga ti bibwike byaku." Ensega yaakoba.
+P10	Omukulu owe ekyalo na abakaire baalwa okusalawo naani omutuufu.
+P11	Oluvainhuma, baakoba, "Ensega ntuufu. Ekiibo kyayo."
+P12	Wakaduuyu yairayo mu isamba. Isabirye yali azira sente ghaire mikwano.
+
+images:
+
+illustrations/pages/166.png
+illustrations/pages/157.png
+illustrations/pages/158.png
+illustrations/pages/159.png
+illustrations/pages/160.png
+illustrations/pages/161.png
+illustrations/pages/162.png
+illustrations/pages/163.png
+illustrations/pages/164.png
+illustrations/pages/166.png
+illustrations/pages/165.png
+illustrations/pages/168.png
+illustrations/pages/167.png
+
+translations:
+
+Afrikaans (Translation)	Anansi en Vulture	id=11547
+Afrikaans (Translation)	Anansi en Aasvoël	id=11557
+Ateso (Translation)	Anansi Keda Atarukot	id=20960
+English (Original)	Anansi and Vulture	id=996
+English (Adaptation)	Jealous Anansi	id=21247
+French (Translation)	Anansi Et Vautour	id=10140
+isiZulu (Translation)	Uanansi Nenqe	id=11409
+Kidawida (Translation)	Iriso ja Mbughimbughi	id=22024
+Kiswahili (Translation)	Anansi na Tai	id=1017
+Kiswahili (Translation)	Anansi mwenye wivu	id=21995
+Lámnsoʼ (Translation)	Taàŋgám wùn K,iluŋŋgùrúʼ kí	id=15059
+Luganda (Translation)	Anansi Ne Wampungu	id=2065
+Lugbarati (Translation)	Ibio Pi Roko Be	id=2268
+Lugbarati (Official) (Translation)	Ìbíó Pi Ròkó Be	id=8776
+Lumasaaba (Translation)	Manaasi Ni Ingosya	id=3008
+Lunyole (Translation)	Haŋambi N'esega	id=3009
+Portuguese (Translation)	Anansi E O Abutre	id=15804

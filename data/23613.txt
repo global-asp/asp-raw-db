@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=23613&d=0&a=1
+id:	23613
+title:	Nitubasa Kubara Ezaangu Zitu
+author:	Babirye Diana
+artist:	Jesse Breytenbach and Jesse Pietersen
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23613.png
+desc:	Kubara ekitaabo okuriga ahari busha kuhistya ahari mwenda.
+
+page_text:
+
+P1	Ne nzaangu zingahi? tihariho nzaangu.
+P2	Ne nzaangu zingahi? Enzaangu emwe. Enzaangu eri kwiragura nerya enyama.
+P3	Ne enzangu zingahi? Enzangu ibiri. Enzangu ziri kwera neza gule.
+P4	Ne nzaangu zingahi? Ne nzaangu ishatu. Gule,kurimu na ezamabara. Nizizanira aha bisika zikuza ahaiguru na ahansi.
+P5	Ne nzaangu zingahi? enzaangu ina. enzaangu ina ninywani za Paul.
+P6	Ne nzaangu zingahi? Enzaangu itano. Enzaangu itano nizizanira omu muryango munonga. Ninkyi nkunda.
+P7	Ne nzaangu zingahi? Enzaangu mukaaga.Enzaangu mukaaga nizi shitama hamwe zireeba filimu.
+P8	Ne nzaangu zingahi? Enzaangu mushanju.Enzaangu mushanju nizi zanira omu mbuga.
+P9	Ne nzaangu zingahi enzaangu munana. Enzaangu ni zanga embwa.
+P10	Akana ke nzaangu kakwatire omu muti! "ninza kukuyamba" Paul nikwo yagizire.
+P11	"Maama, nitubaasa kumubika? omurundi gumwe." Ne nzaangu zingahi? enzaangu mwenda ninyi ngyi. Maama akangaba.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/13388.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+English (Adaptation)	Can We Count Our Cats?	id=13562
+Hausa (Nigeria) (Translation)	Muna Iya Kirga Kyanwoyinmu	id=21363
+Lusoga (Translation)	Tusobola  okubala obupuusi?	id=25825

@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=25002&d=0&a=1
+id:	25002
+title:	Wankembo,ni muk'omuyiizi
+author:	Kyambogo  University and Peter  Kyawera
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25002.png
+desc:	Siiga lanji mubifaanani. Abaana bonaboona
+
+page_text:
+
+P1	Waaligho wankembo ng'a ba kibira eky'e miwa ng'a siiba mubweinamivu. Anti nga buli mwana gw'a zaala, afa.
+P2	Obulumi obw'o kufiilwa abaana bwaletera Wankembo okutuumira tuumira kunsaga dh'e miti, kuno ni kule, eno bwa wowoola ati; ''kawu! kawu!''
+P3	Wankembo nga asiiba mumaziga buli okakyeire. Nga yeinamira inho buli lwabona ba wankembo baine, n'a baana baibwe.
+P4	Wankembo ng'a tyama kusaga dh'e miti nga mughotokerevu. Enaku bwedhabita, yatulika yalira inho era nho.
+P5	Kuluno yazaala kabiri. Yaasagho atwaale omwana ono kunjira nga yendha abuntu ababise, babone omwana, bamwisuuse era bamufugheku obwibuka.
+P6	Wankembo yaninuka okuva kulusaga lw'o muti yata omwana we ku njira. Mukaseera ako, omuyiizi yali ng'a li kwira eka. Yaabona akaana kenkembo nga kalambaire kumbali kw'enjira.
+P7	Omuyiizi kyeyakola nga abeedha kakembo, atwaala mu nhumba ye. Omuyiizi bweyatuuka ekaawe, batabane be bonsatuuli bayenda okugemaku kukakembo kano.
+P8	Abalenzi bano batandiika okukazanisa nga bwebemba bati, ''Kasuule ghaigulu! kasuule ghansi! kansuulire! kasuule ole!'' Akakembo baakesuulagnira mumuzaanho.
+P9	Ghagati mukuzaanhisa akakembo, maama wako yali nga yekwese kumuti. Nga alingirire abaisuka bwebali kukazaanisa. Yatandiika okweralikilira at kabiri nono yena ajakufa ng'a ababaana bange abandi.
+P10	Agho muk'o muyiizi yaidha, aja okuna nga abaana bali kuzaanisa akakembo kano. Yakoba abaana ati, ''Imwe mwegenereze! Mukaleete ghano. Muyinza n'o kasuula ghansi!''
+P11	Kale omukyala yagema akakembo kano mumikono gye era yakagha enkabi
+P12	Aghoni muk'o muyiizi yaisi ghansi akakembo. Maama ghaako yaidha yabeedhagho omwana ghayo. Yabulira mukira. Okuva n'o lwo, abaana ba wankembo baalekera okufa baba balamu.
+
+images:
+
+illustrations/pages/9057.png
+illustrations/pages/9042.png
+illustrations/pages/9043.png
+illustrations/pages/9044.png
+illustrations/pages/9045.png
+illustrations/pages/9046.png
+illustrations/pages/9047.png
+illustrations/pages/9048.png
+illustrations/pages/9054.png
+illustrations/pages/9058.png
+illustrations/pages/9059.png
+illustrations/pages/9057.png
+illustrations/pages/9060.png
+
+translations:
+
+Dhopadhola (Translation)	Oŋer Gi Cipa Jadwar	id=15764
+English (Original)	(Colour-in) Monkey and the hunter's wife	id=9051
+English (Adaptation)	Monkey's Visit to the Hunter's Home	id=10273
+English (Adaptation)	Monkey's child	id=16342
+French (Translation)	Maman Singe Et La Femme Du Chasseur	id=10183
+Gurene (Translation)	~Maaŋa La Tu’Usa Pↄga	id=12668
+isiZulu (Translation)	Umfene Nonkosikazi Womzingeli	id=10950
+Kinyarwanda (Translation)	Inkende N'umugore W'umuhigi	id=11481
+Kiswahili (Translation)	Mwana wa Tumbili (Colour-in)	id=10166
+Kiswahili (Translation)	Mtoto wa Kima (Colour -In)	id=12915
+Kiswahili (Adaptation)	Mwana wa Tumbili	id=16340
+Kiswahili (Adaptation)	Mtoto wa Kima	id=16341
+Lhukonzo (Translation)	Engende ne muka muhighi	id=24392
+Lunyole (Translation)	Ekima N’Omuhasi W’Omuŋiimi	id=11908
+Lusoga (Translation)	Wankembo  ni muka  Muyiizi	id=24860
+Oluwanga (Translation)	Omwana Wa Lishene	id=12958
+Rufumbira (Translation)	Umugore wumuhigi N'ikyende	id=23379
+Setswana (Translation)	Tshwene Le Mosadi Wa Motsomi	id=11155
+Setswana (Translation)	Tshwene Le Mosadi Wa Motsumi	id=14946

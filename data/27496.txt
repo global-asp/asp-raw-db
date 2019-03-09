@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=27496&d=0&a=1
+id:	27496
+title:	Akatabo ake bibono
+author:	John Kasiti and Kyambogo  University
+artist:	Karen Lilje, Wiehan de Jager, N/A and Catherine Groenewald
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27496.png
+desc:	Akatabo kano kalimu ebibono ebighange ne bifanaanie.
+
+page_text:
+
+P1	Maiso gange.
+P2	Kibbonge kya nte.
+P3	Kiteteeyi kya kyenvu.
+P4	Tooki ya manda.
+P5	Thupa ya maadhi.
+P6	Sigiri ya bululu.
+P7	Bendera ya kyeru.
+P8	Kyagi kya maido.
+
+images:
+
+illustrations/pages/8071.png
+illustrations/pages/5823.png
+illustrations/pages/9749.png
+illustrations/pages/5937.png
+illustrations/pages/9750.png
+illustrations/pages/5576.png
+illustrations/pages/9753.png
+illustrations/pages/9751.png
+illustrations/pages/9752.png
+
+translations:
+
+English (Original)	My Vocabulary Book	id=9756

@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=27155&d=0&a=1
+id:	27155
+title:	Epuusi Empyaka
+author:	Ibrahim  Isabirye and Kyambogo  University
+artist:	Marleen Visser
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27155.png
+desc:	Apuya yayendha epuusi. Amaka goonagoona gayeendha epuusi. Oluvainhuma baafuna epuusi entuufu.
+
+page_text:
+
+P1	Apuya yayeendha epuusi.
+P2	Amaka ga Apuya gaaja okukyalira obupuusi.
+P3	Apuya yayeendha epuusi eno. Yali nnene inho yaali.
+P4	Jimy yayeendha akaanha ka puusi. Kaali katono ino yaali.
+P5	Maama yayeendha akaana ka puusi kano. Kaali kangu yangu yaali.
+P6	Buli muntu yayendha akaana ka puusi kano.
+P7	Baatwala akaana ka puusi kano.
+P8	Buli muntu musanhufu n'aka puusi kano akayaaka.
+
+images:
+
+illustrations/pages/9557.png
+illustrations/pages/9554.png
+illustrations/pages/9555.png
+illustrations/pages/9556.png
+illustrations/pages/9557.png
+illustrations/pages/9558.png
+illustrations/pages/9559.png
+illustrations/pages/9560.png
+illustrations/pages/9561.png
+
+translations:
+
+English (Translation)	New pussy cat	id=13631
+Luganda (Original)	Pussi Empya	id=13630
+Lulamoogi (Translation)	Okapa omuyaaka	id=29192

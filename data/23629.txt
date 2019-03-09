@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=23629&d=0&a=1
+id:	23629
+title:	Ensi etari'yabantu abakuru
+author:	Innocent Vuga and Uganda Christian University
+artist:	Little Zebra Books and Laura Libertore
+lang:	Runyoro
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23629.png
+desc:	Omunganda eziingi
+
+page_text:
+
+P1	Kiro kimu kikabaho omukyaaro nti abaana eminyeto bakachwamu kwita abakaikuru boona nikwo bakangire aho kukora ebyamasani.
+P2	Baitu, omu haminyeto enu, akairuka na taata we yamusereka omu'rwomeere.
+P3	Obuyamazire okukora eki, eminyeto enu yatandika okwita abantu boona abaali omumyaka yo'bukaikururu.
+P4	Obwire obwo, enjoka ekaija omu'kyaro kinu kuruga omu rwomeere. Enjoka enu ekagenda omunda yo'omwana omuto.
+P5	Enjoka enu, ekaikara nechumita omutwe gwaayo omumunwa gwo'mwana onu.
+P6	Abazaire bo'mwana na'bantu boona abandi bakagezaho okwejuna ekizibu kinu, baitu bakirora nti; okwita enjoka enu, baitiramuga no'mwana omuto.
+P7	Obwo, omunyeeto omu oli ayabaire aserekere taata we akagenda yamugambira buli kimu ekyabaireho. Taata we akagamba ati "Ekyo nikyo kikyasingire okuroreera omunsi enu."
+P8	Omusaija omukuru onu akagamba, "Seera ekikere kandi okiteke haihi nenjoka. Ogya kurora enjoka neruga omunda yo'mwana neija kukwata ekikere. Omwoojo onu nikyo yakozere. Enjoka ekaruga omunda yatandika kwirukya ekikere. Omwana bakamujuna okuffa."
+
+images:
+
+illustrations/pages/6802.png
+illustrations/pages/6792.png
+illustrations/pages/6793.png
+illustrations/pages/6794.png
+illustrations/pages/6795.png
+illustrations/pages/6796.png
+illustrations/pages/6797.png
+illustrations/pages/6798.png
+illustrations/pages/6800.png
+
+translations:
+
+Chinyungwe (Original)	Maswaka Yadapha Nkhalamba Zentsene	id=7224
+English (Translation)	Land of No Old People	id=7225
+Lusoga (Translation)	Eitaka erizira bantu bakaire	id=26090

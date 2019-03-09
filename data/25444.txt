@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=25444&d=0&a=1
+id:	25444
+title:	Bante ni Baabula
+author:	David  Bamukangwiire and Kyambogo  University
+artist:	Sorit Gupto
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25444.png
+desc:	Bante ayenda okuzaanha aye tayenda sabbuuni nokweyondha. Obwire bulala yaloota ekilooto ekigema ku buwuuka. Ekilootokye kiida kucuusa obulamu bwe endowooza ye ku kweyondha.
+
+page_text:
+
+P1	Bante ayenda okuzaanhisa ebiwoiwolo.
+P2	Era n'ebinhonhi.
+P3	Ayenda inho okuzaanhisa amaato ag'ebipapula.
+P4	Era ayenda inho n'okukola enhumba edh'omucanga.
+P5	Bante bwaja eka, maama ghe amukoba yeyondhe. Aye aloba.
+P6	"Tyenda saabbuni" bwalira.
+P7	Obwire bulala, yaloota ekilooto.  Obuwuuka nga buli ku nhumbaye, bwe bbumu!
+P8	Bante obuwuuka bwamulumusa. Yaalumuka okwewonia eno bwalira, "YambaYamba!"
+P9	Amangu ago, Baabula yaidha. Yaakoba, "Bante, totya, Ja olumbe obuwuuka!"
+P10	Amaje ga baabula gabinga obuwuuka bwaja.
+P11	Enaku dhino, Bante ayendha okukozesa saabbuni, era asenhia n'okweyondha ye.
+
+images:
+
+illustrations/pages/607.png
+illustrations/pages/607.png
+illustrations/pages/612.png
+illustrations/pages/608.png
+illustrations/pages/610.png
+illustrations/pages/609.png
+illustrations/pages/611.png
+illustrations/pages/613.png
+illustrations/pages/614.png
+illustrations/pages/911.png
+illustrations/pages/910.png
+illustrations/pages/912.png
+
+translations:
+
+English (Original)	Bunty and Bubbly	id=913
+isiXhosa (Translation)	UMinti noGwebu	id=3129
+Kiswahili (Translation)	Banti na Sabuni	id=2830
+Lugbarati (Translation)	Bunty Yi Bubbly Be	id=2828
+Lugbarati (Official) (Translation)	Bàdàrʉ́ Pi Bʉ́nɨ̀ Be	id=8756
+Lusoga (Translation)	Babirye ni sabbuni	id=30412

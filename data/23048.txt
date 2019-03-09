@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=23048&d=0&a=1
+id:	23048
+title:	Omuhaara wangye Polina
+author:	Juliana Ankunda
+artist:	Vusi Malindi
+lang:	Runyankore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23048.png
+desc:	Ekyigano ekyi nikyishoborera omwishikyi gubaakweta Polina arikukunda kuhurikyiza nokugana ebigano. Ekyi kyikamureetera kukunda omushoomesa we na nyina.
+
+page_text:
+
+P1	Ogu ni muhaara wangye Polina.
+P2	No'mwishikyi murungyi.
+P3	Nakunda ku tebya ebyigano.
+P4	Nimutebeeza ebyigano.
+P5	Polina nawe natebeeza bagyenzi beeye ebyigano.
+P6	Orunaaku rumwe Polina akatebya ekyigano kirungyi.
+P7	Ekyigano kika kyri aha kuteeka.
+P8	Omushoomesa we akamuheereza omugati boona bashemererwa.
+
+images:
+
+illustrations/pages/7511.png
+illustrations/pages/7511.png
+illustrations/pages/7517.png
+illustrations/pages/7510.png
+illustrations/pages/7511.png
+illustrations/pages/7509.png
+illustrations/pages/7510.png
+illustrations/pages/7516.png
+illustrations/pages/7515.png
+
+translations:
+
+English (Original)	My Daughter Polar	id=7773
+Lusoga (Translation)	mughala wange polar	id=26380
+Lusoga (Translation)	Mughala wange Polar	id=26421

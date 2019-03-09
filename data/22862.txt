@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=22862&d=0&a=1
+id:	22862
+title:	Makauniyar yarinya
+author:	Nathaniel  Bivan
+artist:	Kenneth Boyowa Okitikpi
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22862.png
+desc:	Laɓari ne akan wata makauniyar yarinya da ke son tafiya a lambu ko wace rana.
+
+page_text:
+
+P1	Ƙauna an haife ta ba ta gani. Ba ta taba ganin Iyayenta ba, ko kuma 'yan uwanta. Amma ta san fuskokinsu domin tana taɓawa.
+P2	Wata rana, Ƙauna ta je lambu. Ta na son ta shaƙi ƙanshin fure. Tana kuma son taɓa su.
+P3	Ƙauna tana sha'awar ta ga furanni ko da sau ɗaya ne. Ta faɗa a cikin ranta, "Furanni suna da kyau."
+P4	Kullum, Ƙauna takan je lambu. Ta gane duka hanyoyin lambun. Yau, ta ɗaga kanta ta kalli sama.
+P5	Ba shiri kawai sai ga tsawa da walƙiya. 
+
+"Bari in yi hanzari in koma gida," Ƙauna ta yi tunani.
+P6	Ruwan Sama ƴa fara zuba. Ƙauna ta faɗi a ƙasa, kanta ƴa bugu da dutse.
+P7	Da Ƙauna ta buɗe idanunta, ta kalli mutane sun kewaƴe ta. "Me ƴa faru?" ta tambaƴa.
+P8	Babanta ƴa ce. "Ƙin faɗi kin ɓuge kanki ne."
+
+"Mun gode Allah kina lafiƴa," mamanta ta faɗa.
+P9	"Baba, Mama?" Ƙauna ta kuma kiran sunan 'yan uwanta. "Don Allah a samo mini fure."
+
+Mamaki ƴa kama sauran 'yan uwanta.
+P10	Da 'ƴar uwan ta ta dawo da fure, Ƙauna ta riƙeshi a hankali. "Fure na da ban sha'awa," ta ce.
+P11	Ýan uwanta suka kalli juna. 
+
+"Ƙauna, ƴanzu kina iya ganin furen?"
+P12	Ƙauna ta yi murmushi, ta ce, "Dukan ku kuna da kyawun gani, kamar furen nan."
+
+images:
+
+illustrations/pages/26775.png
+illustrations/pages/26773.png
+illustrations/pages/26774.png
+illustrations/pages/26775.png
+illustrations/pages/26776.png
+illustrations/pages/26777.png
+illustrations/pages/26778.png
+illustrations/pages/26779.png
+illustrations/pages/26780.png
+illustrations/pages/26781.png
+illustrations/pages/26782.png
+illustrations/pages/26783.png
+illustrations/pages/26784.png
+
+translations:
+
+English (Translation)	Flower blind	id=23142
+isiXhosa (Translation)	Intyatyambo engaboniyo	id=24228
+Lusoga (Translation)	Obutabona kimuli	id=23277
+Runyankore (Translation)	Ekyimuli Kyihumire	id=24068

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=22758&d=0&a=1
+id:	22758
+title:	Kubyina
+author:	Julius  Bazanyamaso
+artist:	Catherine Groenewald
+lang:	Rufumbira
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22758.png
+desc:	Iki nigisigo chumukobwa wakundaga kubyina. Ibi ariko bikarakaza mwarimu we
+
+page_text:
+
+P1	Mbyina iyo nishimye, mbyina iyo mbabaye, mbyina ndi njyenyine, mbyina iyo ndakaye.
+P2	Mwarimu wanjye ati, "Ichara utuze ntubyine umunsi wose!"
+P3	Ariko mama wanjye akavuga ati, "Kubyina nibyiza kubuzima. Kubyina byongera uburebure, umunsi umwe uzaba umubyinnyi!"
+P4	Nanjye nti, "Umunsi umwe nzabyina abantu bishyurire kureba uko nsimbuka n'uko nikaraga, maze bagire bati, abyina neza chane."
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+French (Translation)	La Danse	id=24817
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Luganda (Translation)	Okuzina	id=22960
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lumasaaba (Translation)	Kuchina	id=20932
+Lusoga (Translation)	Okukina	id=24942
+Portuguese (Translation)	Dançando	id=12173
+Rukiga (Translation)	okuzina	id=22981
+Setswana (Translation)	Mokibo	id=2695

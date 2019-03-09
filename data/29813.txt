@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=29813&d=0&a=1
+id:	29813
+title:	Embwa yange
+author:	Antony Kisambira and Kyambogo  University
+artist:	Sue Kramer, Wiehan de Jager, Marleen Visser, Magriet Brink, Leo Daly and Christopher Bukheye Mulongo
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29813.png
+desc:	Kinho kigemereirala ku nkolagana ghagati wanze ne mbwa yange. Ngonzainho embwa yange kulwebintu byekoze mu bulamu bwange nga
+
+page_text:
+
+P1	Mukeghange omuto yeena ayendha embwa ihno.
+P2	Embwa enho nnhugi inho.
+P3	Ghaire mumbeera yayo eyokuzaana, yamazima ndhikirivu era ngonzi.
+P4	Buli lwandhira ghaka nga nva mumirimo edholunaku olughanvu, ndhogera nayo.
+P5	Ngonza inho embwa yange.
+
+images:
+
+illustrations/pages/5927.png
+illustrations/pages/14042.png
+illustrations/pages/13993.png
+illustrations/pages/2626.png
+illustrations/pages/12024.png
+illustrations/pages/17141.png
+
+translations:
+
+English (Original)	My dog	id=24013

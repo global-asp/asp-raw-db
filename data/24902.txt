@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=24902&d=0&a=1
+id:	24902
+title:	Omuliro
+author:	Daudi Waidhuuba-Isendabaguzi and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24902.png
+desc:	Olufumo luno lwafumwa era lwaghandiikibwa abasomesa abeisomero eryetebwa Mugulu Integrated Primary School mu Igoloza erye Busolwe
+
+page_text:
+
+P1	Bona omuliro!
+P2	Omuliro guyokya.
+P3	Omuliro gufumba.
+P4	Omuliro gugha obusu.
+P5	Omuliro gugha obutangaavu
+P6	Bona omuliro!
+P7	Omuliro gwa kitalo.
+P8	Omuliro guli n'obukumu
+
+images:
+
+illustrations/pages/8560.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8557.png
+illustrations/pages/8558.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Arabic (Translation)	النار	id=18190
+Dhopadhola (Translation)	Mac	id=19481
+English (Translation)	Fire	id=8565
+Lunyole (Original)	Omuliro	id=8564
+Samburu (Translation)	Nkima	id=17257
+Somali (Translation)	Dab	id=17256
+Zande (Translation)	Wee	id=17255

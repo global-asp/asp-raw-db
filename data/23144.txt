@@ -1,0 +1,65 @@
+url:	https://africanstorybook.org/reader.php?id=23144&d=0&a=1
+id:	23144
+title:	Ndiya esixekweni
+author:	Nomathamsanqa  Dyasi
+artist:	Brian Wambi
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23144.png
+desc:	Le nkwenkwana iya kwamalume wayo ohlala esixekweni.
+
+page_text:
+
+P1	Indawo apho kusima khona iibhasi kwidolophu yam yayizele iqhuqhuma ngabantu.
+P2	Omnye wabancedisi babaqhubi bebhasi wakhwaza esithi, "Kuyahanjwa ngoku, siya esixekweni!"
+P3	Abantu batyhalana apho befuna ukungena ebhasini.
+P4	Oomama ababenabantwana bahlala phantsi. Uhambo lwaluzaba lude.
+P5	Ndahlala ngase festileni, ecaleni komnye utata.
+P6	Ndandicinga ndisithi, "Ndiya esixekweni ngoku, ndizakulikhumbula ikhaya."
+P7	Ibhasi yayizele ngabantu abathengisa izimuncu-muncu.
+P8	Abanye babakhweli bathenga ezozimuncu-muncu. Mna ndandingenayo ne peni yokuthenga.
+P9	Ngesaquphe, umqhubi wabetha ixilongo. 
+
+Kwakulixehsa lokuba ibhasi induluke ukuya esixekweni.
+P10	Abathengisi batyhala-tyhalana apho ukuphuma ebhasini.
+P11	"Ngabe ndizakubuya nini na bethu?" Ndazibuza.
+P12	Kwakutshisa kakhulu ngaphakathi ebhasini. Ndazivalela amehlo wam.
+P13	Ndaye ndacinga ngomama nobhutana wam endandibashiye ekhaya.
+P14	Emva kwethuba elide, ndazumeka apho ndalala.
+P15	Emva kweyure eziliqela, ndaye ndaphaphama. 
+
+Phantse wonke umntu owayesebhasini sele emkile.
+P16	Kwakusokulixesha ngoku lokuba ndihambe ndiyokufuna umzi kamalume wam.
+
+images:
+
+illustrations/pages/15008.png
+illustrations/pages/14993.png
+illustrations/pages/14994.png
+illustrations/pages/14995.png
+illustrations/pages/14997.png
+illustrations/pages/14996.png
+illustrations/pages/14998.png
+illustrations/pages/14999.png
+illustrations/pages/15000.png
+illustrations/pages/15001.png
+illustrations/pages/15002.png
+illustrations/pages/15003.png
+illustrations/pages/15004.png
+illustrations/pages/15005.png
+illustrations/pages/15006.png
+illustrations/pages/15007.png
+illustrations/pages/15008.png
+
+translations:
+
+Arabic (Translation)	يوم تركت المنزل ذاهباً إلى المدينة	id=21879
+English (Original)	Day I left home for the city	id=15029
+English (Adaptation)	Going to the city	id=21398
+Kidawida (Translation)	Kwenda Muzi mbaha	id=22016
+Kiswahili (Translation)	Siku niliyokwenda Jijini	id=15032
+Kiswahili (Translation)	Kwenda Jijini	id=21999
+Lámnsoʼ (Translation)	Du yeé ŋkàlaʼ ye kuʼùn	id=22298
+Lusoga (Translation)	Okujja mu kibuga	id=25258
+Lusoga (Translation)	Okuja mukibuga	id=26113

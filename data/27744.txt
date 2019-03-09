@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=27744&d=0&a=1
+id:	27744
+title:	Enkola  ya Shafiki
+author:	Julius Bamwagala and Kyambogo  University
+artist:	Audrey Anderson
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27744.png
+desc:	Enkola ya Shafiki yiye yenka
+
+page_text:
+
+P1	Ku  lunaku  lwa  sabbiiti, Jamusi  yateeba  egoolo.
+P2	Ku  lwe  bbalaza, ghaabaagho  eikukubira  ery'abantu.
+P3	"Shafiki, nviiri  dho  edifaanana  n'entwiga  dhirigha? Enviiri  dho  ndakanirivu  inho,  olyoti tidhifaaku."
+P4	Shafiki, Tatyu  yo  erigha? olususu  lwo  tiruli  kunhuma."
+P5	Shafiki, nga  olusaya lwo lwise? Amaino  go  gali kubitira  bwawo."
+P6	Olunaku  olwo, Shafiki  yairayo  eka  mpolampola.
+P7	Jowani,  nsobola  okufunaku  enviiri  edhiri  oti  dha  ntwiga?" "Salaku  ku  ntwiga  yo  ofune. Ekyo  tikisoboka."
+P8	"Olususu  lwange  tiruli  kuboneka  bulungi, Jukiet. Osobola  okulukubaku  tatyu?"
+"Tigheetaaga  kufaanana  muntu  wundi."
+P9	"Nabirye, Nsubira  nga  zeena  nsobola  okubaaku  n'amatama, kuba  nderegebwa  inho.
+P10	Wiiki  ey'okubiri, Yozefu yaakuba  goolo.
+P11	Olwe bbalaza, eikukuubira  lyabita. Shafiki! Nga  oli  kuboneka  bulungi!"
+P12	Shafiki  yaasanhuka. "Buti  nefaanana; eno  enkola  yange.
+
+images:
+
+illustrations/pages/15555.png
+illustrations/pages/15551.png
+illustrations/pages/15553.png
+illustrations/pages/15554.png
+illustrations/pages/15555.png
+illustrations/pages/15556.png
+illustrations/pages/15557.png
+illustrations/pages/15648.png
+illustrations/pages/15649.png
+illustrations/pages/15650.png
+illustrations/pages/15651.png
+illustrations/pages/15652.png
+illustrations/pages/15653.png
+
+translations:
+
+Afrikaans (Translation)	Rafiki Se Styl	id=21557
+English (Original)	Rafiki's style	id=15654
+isiNdebele (Translation)	Isitayela sakaRafiki	id=21558
+isiXhosa (Translation)	Istayile sika Rafiki	id=21559
+isiZulu (Translation)	Isitayela sikaRafiki	id=21560
+Sepedi (Translation)	Setaele sa Rafiki	id=21408
+Sesotho (South Africa) (Translation)	Setaele sa Rafiki	id=21646
+Setswana (Translation)	Setaele sa ga Rafiki	id=21578
+Siswati (Translation)	Sitayela saRafiki	id=21579
+Tshivenda (Translation)	Tshitaela Tsha Rafiki	id=21580
+Xitsonga (Translation)	Xitayili Xa Rafiki	id=21581

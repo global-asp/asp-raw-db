@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=26021&d=0&a=1
+id:	26021
+title:	Ira einhuma, puusi
+author:	Edison Kasajja and Kyambogo  University
+artist:	Karen Lilje
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26021.png
+desc:	Pusi enkalabakalaba egwa mubuzibu nga ekiseera ku lambaala kikaali.
+
+page_text:
+
+P1	Ira einhuma, puusi! Zaanha ninze.
+P2	Tyama mu kiibo kyo. Sigala ghano ghena!
+P3	Ira einhuma,puusi! Oluuyi olwo luleeyi.
+P4	Ira einhuma,pusi! toja kuluya.
+P5	Ira einhuma, pusi! Ekyo tiikikyo.
+P6	Ira einhuma,puusi! ofunieyo ki?
+P7	Ira einhuma,puusi!Oyo timukagwawo!
+P8	Munha,puusi! Oyize?
+P9	Sigala mu kiibo kyo. Saawa enho yakutendhuka.
+P10	Puusi?
+
+images:
+
+illustrations/pages/8059.png
+illustrations/pages/9122.png
+illustrations/pages/9121.png
+illustrations/pages/9123.png
+illustrations/pages/9124.png
+illustrations/pages/8061.png
+illustrations/pages/8062.png
+illustrations/pages/8063.png
+illustrations/pages/8064.png
+illustrations/pages/8065.png
+illustrations/pages/8066.png
+illustrations/pages/8067.png
+illustrations/pages/8068.png
+
+translations:
+
+Afrikaans (Translation)	Kom Terug, Kat	id=11171
+Amharic (Translation)	ተመለሽ ድመቴ	id=11781
+English (Translation)	Come Back, Cat	id=9125
+French (Translation)	Reviens, Chat!	id=12655
+Lámnsoʼ (Translation)	Shisi, Kii Wò, Kfə́n É Bàm	id=15063
+Yoruba (Translation)	Padà Wá, Olóńgbò	id=11209

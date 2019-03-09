@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=24484&d=0&a=1
+id:	24484
+title:	akatabo kange
+author:	ivor sempa
+artist:	Catherine Groenewald
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24484.png
+desc:	Omwana omuto nga anyonyola akatabo ke akalungi.
+
+page_text:
+
+P1	ntunulila bambi
+P2	ndi muwanla
+P3	nina akatabo kange akapya
+P4	lengela akatabo kange
+P5	muganda wange omuwala yatute akatabo kange
+P6	ne muganda wange omulenzi naye yakatute
+P7	naye ayagala okusoma akatabo kange
+P8	kati nsoma katabo kange
+
+images:
+
+illustrations/pages/8606.png
+illustrations/pages/8659.png
+illustrations/pages/8664.png
+illustrations/pages/8636.png
+illustrations/pages/8662.png
+illustrations/pages/8666.png
+illustrations/pages/10546.png
+illustrations/pages/19236.png
+illustrations/pages/8636.png
+
+translations:
+
+English (Original)	My Storybook	id=19593
+Kinyarwanda (Translation)	Agatabo Kange K' Inkuru	id=21047
+Lusoga (Translation)	Akatabo kange  ak'enfumo	id=26240
+Lusoga (Translation)	Akatabo kange	id=29061

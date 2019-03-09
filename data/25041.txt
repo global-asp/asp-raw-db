@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=25041&d=0&a=1
+id:	25041
+title:	Maama omufirika
+author:	Cornelius Mugulusi
+artist:	Catherine Groenewald, Idowu Abayomi Oluwasegun, Jesse Breytenbach, Rob Owen, Ursula Nafula and Zablon Alex Nguku
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25041.png
+desc:	Olufumo luno lugema ku lunaku lwa maama omufirika. Kino kikulaga ebyo byakola mulunaku olulala lwonka.
+
+page_text:
+
+P1	Asituka munco inho nga endhuba ekaali kuvaayo
+P2	Aja yaleta amaadhi ag'abakulu okunaaba nga basitwike.
+P3	Aja muniimiro mangu yavaayo nga bukaali okufumba ekyenco.
+P4	Atwala Embuzi okulya kunsiko.
+P5	Adhirekayo yaira eka okutegekera amaakage ekyeigulo.
+P6	Eigulo einho,atolayo embuzi era yaghula ekyeigulo.
+
+images:
+
+illustrations/pages/9493.png
+illustrations/pages/26425.png
+illustrations/pages/25363.png
+illustrations/pages/10655.png
+illustrations/pages/14039.png
+illustrations/pages/1013.png
+illustrations/pages/8826.png
+
+translations:
+
+English (Original)	An African mother	id=24625
+Lusoga (Translation)	Maama  omu Firika	id=30573

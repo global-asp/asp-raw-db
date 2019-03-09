@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=28265&d=0&a=1
+id:	28265
+title:	Ani eyanhaala  ku  buliri?
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Rob Owen, Felicity Bell, Jesse Breytenbach and Melany Pietersen
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28265.png
+desc:	Omughala anhaala ku buliri buli lukyeire aye awaayiriza muke we omuto Anna. Kale
+
+page_text:
+
+P1	Obwire  bwize  kabiri  era  enzikiiza  eizeemu.
+P2	Bwemala  okulya nja  kubuliri ni  muke  ghange  Anna
+P3	Ntya  buli  kiseera  kuba  buli  lunaku  nnhaala  ku  buliri.
+P4	Buli  lwe  ndoota, nsitukiramu  gheene  agho  nga  nnhaire.
+P5	Mangu  ago  nkyusa  ekifo  naasula  ewa Anna  aghakalu  nga ate  wasu.
+P6	Munco, nsituka  mangu naaleka  Anna  mubuliri.
+P7	Maama  bwabuuza  ani  anhaire  ku  buliri,  ndhiramu  inho   nti  ni  Anna.
+P8	Kale  olwairirira  maama  yasalagho  okusula  ni Anna  mu  buliri.
+P9	eky'akabi, kirala  ekyo  kyenakola era  nga  ghazira  wundi gha  ku  vunaana.
+P10	Olumalirira  maama  yakitegeera   nti  Anna tanhaala  ku buliri   aye  ni  nze.
+
+images:
+
+illustrations/pages/9392.png
+illustrations/pages/8559.png
+illustrations/pages/9844.png
+illustrations/pages/9499.png
+illustrations/pages/9500.png
+illustrations/pages/9145.png
+illustrations/pages/9502.png
+illustrations/pages/9496.png
+illustrations/pages/9486.png
+illustrations/pages/9392.png
+illustrations/pages/9488.png
+
+translations:
+
+Acholi (Translation)	Nga Ma Olayo I Ot?	id=20664
+English (Original)	Who Wet the Bed?	id=10359
+Luganda (Translation)	Ani Afuka Kubuliri?	id=21077

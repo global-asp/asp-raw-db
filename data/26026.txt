@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=26026&d=0&a=1
+id:	26026
+title:	Engeri eikere yerifuna oluwu
+author:	Kyambogo  University and Robert Buyinza
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26026.png
+desc:	Ekyafaayo kino kitunhonhola lwaki ebikere birina emigongo mikakanavu era nga biyinza no butaaba mu maadhi.
+
+page_text:
+
+P1	Ikere mode kyali kikoye okuba mu maadhi.
+P2	"Wegendhereze,"taayi yakoba."Oluwu luja kukala."
+P3	Aye Mode yali muzibu.Yabukawo.
+P4	Yalinga linga.
+P5	Yayagaana kakya kumpi nga alikudooka amaadhi.
+P6	Kakya yacuuka pinki! Mode yatumagho.
+P7	Niini yabona empiti ngetandiika omuliro.
+P8	Omuliro gwabuna Mode.Yeghenhenka.
+P9	Omuliro gwa yokya oluwu.Yabuukira einhuma,ku kintu.
+P10	Aye oluwu lwe lwali ludwire biwundu
+P11	Mode yafuna amaka mwibaale.Oluwu lwe oluyaaka lwakala nebigufulu gufulu.
+P12	Buti lulenga lwonka no lulina oluwu olugheghevu ate luba kumpi na maadhi.
+
+images:
+
+illustrations/pages/13417.png
+illustrations/pages/13415.png
+illustrations/pages/13416.png
+illustrations/pages/13417.png
+illustrations/pages/13418.png
+illustrations/pages/13419.png
+illustrations/pages/13421.png
+illustrations/pages/13422.png
+illustrations/pages/13423.png
+illustrations/pages/13424.png
+illustrations/pages/13425.png
+illustrations/pages/13426.png
+illustrations/pages/13427.png
+
+translations:
+
+Afaan Oromo (Translation)	Gogaa Fattee	id=20424
+Amharic (Translation)	የእንቁራሪት ቆዳ	id=20492
+English (Original)	Mod the toad	id=13546
+English (Adaptation)	How the toad got its skin	id=19766
+isiZulu (Translation)	USele, iselesele	id=20669
+Kiswahili (Translation)	Jinsi chura alivyopata ngozi yake	id=20439
+Lulamoogi (Translation)	Ekikere kyasunire kitya olususu lwakyo	id=26076
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
+Portuguese (Translation)	Mod, a Sapa	id=17037

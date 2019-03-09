@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=29706&d=0&a=1
+id:	29706
+title:	Ebinhonhi ebyaghaka
+author:	Antony Kisambira and Kyambogo  University
+artist:	Wiehan de Jager and N/A
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29706.png
+desc:	Ebifanaani namainha agebinhonhi nga bwegetebwa nabantu mubitundhu.
+
+page_text:
+
+P1	Embata
+P2	Ekoko
+P3	Enkofu.
+P4	Sekooko.
+
+images:
+
+illustrations/pages/292.png
+illustrations/pages/9730.png
+illustrations/pages/5651.png
+illustrations/pages/9731.png
+illustrations/pages/9732.png
+
+translations:
+
+English (Original)	Domestic Birds	id=9733

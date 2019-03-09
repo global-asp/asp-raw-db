@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=24258&d=0&a=1
+id:	24258
+title:	Ito ti moi To
+author:	Sarah  Juru and Uganda Christian University
+artist:	Rob Owen
+lang:	Ma'di
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24258.png
+desc:	Ti moi to rosi okenen ama de owaser ta rozi.
+
+page_text:
+
+P1	Ito ti moi rosi bari ori kaita sale amuu aga.
+P2	ai rere rosi cuwi ri i ongu kaki ebu ide rere ogpko si.
+P3	Jo, ikoki ta soda ra kaki aga alu.
+P4	Lakini,sa zi ba si, moi ka its's ni dro pi.
+P5	odu zisi ito ozi moi ni ijo nyi ma rozi ina nyi ma dro piadu nsi?
+P6	ba kata so nyi tro sa alu?
+P7	Rozi dru madi gba rozi rii.
+
+images:
+
+illustrations/pages/8136.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8135.png
+illustrations/pages/8150.png
+illustrations/pages/8138.png
+illustrations/pages/8136.png
+illustrations/pages/8141.png
+
+translations:
+
+Dhopadhola (Translation)	mere pa ondyek kodi ochulu	id=23875
+English (Original)	Friendship Between Hyena and Hare	id=10563
+Kinyarwanda (Uganda) (Translation)	Ubushuti hagati ya bakame n' impyisi	id=23932
+Luganda (Translation)	Omukwano Gwa Wakayima Ne Wampisi.	id=12912
+Lusoga (Translation)	Ab'emikwano  Wampiti ni Wakayima	id=25062
+Runyankore (Translation)	Omukago Ahagati ya Wakame nne Empisi	id=23934

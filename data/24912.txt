@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=24912&d=0&a=1
+id:	24912
+title:	Abaana benda okuzaanha
+author:	Kyambogo  University and Maritha Nakiranda
+artist:	Sue Kramer, Wiehan de Jager, Mlungisi Dlamini, Angie & Upesh, Eden Daniels, Felicity Bell and Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24912.png
+desc:	Abaana banhumirwa okuzaanha emizaanho egyendhawulo okusinziira ku myaka gyaibwe. Soma olufumo luno obonemu gyosinga kwenda ogizaanhe ni baino.
+
+page_text:
+
+P1	Abaana abato benda okuzaanha n'ebyokuzaanhisa.
+P2	Nnenda okutuuma omuguwa, n'okwesuuba.
+P3	Kooni ayenda kyekweko.
+P4	Abalenzi abandi bazaanha omupiira ogw'ebigere.
+P5	Samwiri ayenda okulumuka.
+P6	Abaghala abandhi bazaanha omupiira ogw'okubaka.
+P7	Eresi ayenda okutuuma ng'oti kikere.
+P8	Abaghala bazaanhisa amaadhi.
+P9	Neeri ayenda gogolo.
+P10	Abaanha benda okwezaanhinkiriza eby'embaga.
+P11	Naaki ni Maali benda okuzaana ni dole.
+P12	Ate ighe?
+
+images:
+
+illustrations/pages/6099.png
+illustrations/pages/2027.png
+illustrations/pages/1627.png
+illustrations/pages/6949.png
+illustrations/pages/4465.png
+illustrations/pages/1623.png
+illustrations/pages/4467.png
+illustrations/pages/1624.png
+illustrations/pages/1421.png
+illustrations/pages/942.png
+illustrations/pages/6516.png
+illustrations/pages/1768.png
+illustrations/pages/1770.png
+
+translations:
+
+Amharic (Translation)	ህፃናት መጫወት ይወዳሉ	id=21175
+English (Original)	Children Like to Play	id=7259
+English (Adaptation)	Children  enjoy  playing	id=13610
+Luganda (Translation)	Abaana Baagala Okuzannya	id=7457
+Luganda (Translation)	Abana bagala nyoo okuzanya	id=24266
+Lunyole (Translation)	Abaana Benda Ohugudula	id=13609
+Runyoro (Translation)	Abaana abato banyumirwa kuzana emizano	id=24162

@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24220&d=0&a=1
+id:	24220
+title:	My Beautiful Mother
+author:	Nyangoma Peninah
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24220.png
+desc:	This is a story about a mother who loves her children and wants to keep them happy. She goes with her children to the market and also watches over them before sleeping.
+
+page_text:
+
+P1	My mother is called Edith and she teaches me how to behave well.
+P2	She also teaches me how to keep clean and organized because am a girl.
+P3	Mother asks me to pray to God before i sleep because God is my father.
+P4	She then wishes me a good night and tucks me in my bed.
+P5	Our mother also loves my brother. She takes him to school everyday.
+P6	She also takes me to the market. We love her so much because she is good.
+
+images:
+
+illustrations/pages/9493.png
+illustrations/pages/9492.png
+illustrations/pages/9497.png
+illustrations/pages/9496.png
+illustrations/pages/9501.png
+illustrations/pages/11450.png
+illustrations/pages/9495.png
+
+translations:
+
+Lusoga (Translation)	Maama wange omulungi	id=24922
+Runyankore (Translation)	Mama wanje nimulunji	id=24224

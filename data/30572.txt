@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=30572&d=0&a=1
+id:	30572
+title:	Obuluvu
+author:	Kyambogo  University and Paul Wambi
+artist:	Melany Pietersen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30572.png
+desc:	Kibonerezo ki ekisaanira omulenzi owomuluvu eyalya ebibala ebingi.
+
+page_text:
+
+P1	Dhaadha  yagula  ebibala  mu  katale.
+P2	Nga  biboneka  nga  biwooma  inho.
+P3	Mwanu.hina Vasiti   yali gha  muluvu
+P4	Anaani aliire  ebibala?
+P5	Dhaadha  yaaniiga  inho  era  yaalekaana.
+P6	Tusuubiriza  mu  Vasiti.
+P7	Twakobera  dhaadha.
+P8	Dhaadha  yaamubuuza  era  yaasaba  ekisonhiwo.
+P9	Eby'embi, Vasiti yatandiika  obutawulira  bukalamu.
+P10	Yaalumukira  mu  tooyi.
+P11	Vasiti yaagemerera  enda  ye.
+P12	Dhaadha  yaamubuuza, "Oyega  ki  okuva  ku Vasiti?"
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Dhopadhola (Translation)	Woro	id=18692
+English (Translation)	Greed	id=13327
+Lusoga (Translation)	Omuluvu	id=26517

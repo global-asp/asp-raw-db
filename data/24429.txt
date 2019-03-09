@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=24429&d=0&a=1
+id:	24429
+title:	Elijah the one who wouldn't listen
+author:	Evelyn Birungi and Uganda Christian University
+artist:	Rob Owen and Catherine Groenewald
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24429.png
+desc:	This is a story on a child who never listened.
+
+page_text:
+
+P1	This was a child Elijah who never used to listen to whatever he was told.
+P2	One day he was with his mother and they we're going somewhere, the boy saw a mango tree which he climbed and started to pick mangoes.
+P3	When the mother saw he had collected a lot she told him what he had collected was enough but he refused.
+P4	Then the mother left him so when he was eating his mangoes the lion came and ate him
+
+images:
+
+illustrations/pages/7934.png
+illustrations/pages/10803.png
+illustrations/pages/13489.png
+illustrations/pages/1812.png
+illustrations/pages/9628.png
+
+translations:
+
+Runyankore (Original)	Elijah nyantahurira	id=24424

@@ -1,0 +1,73 @@
+url:	https://africanstorybook.org/reader.php?id=23174&d=0&a=1
+id:	23174
+title:	Amabara y'umukororombya
+author:	Jean Paul Harelimana
+artist:	Jesse Breytenbach
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23174.png
+desc:	Iyi nkuru irimo urutonde rw amabara agize umukororombya hamwe nibintu ushobora kubona aho uri hose bifite ayo mabara.
+
+page_text:
+
+P1	Umukororombya ufite amabara arindwi.
+P2	Ibara rya mbere ni umutuku.
+P3	Kagabo yambaye ishati y'umutuku.
+P4	Ibara rya kabiri ni oranje (risa n'icunga rihishije).
+P5	Iri ni ibara rya oranje. Ni iki kindi ubona gisa n'icunga rihishije?
+P6	Ibara rya gatatu ni umuhondo.
+P7	Umuhondo w'igi usa n'umuhondo. Ni iki kindi ubona gifite ibara ry'umuhondo?
+P8	Ibara rya kane ni icyatsi.
+P9	Urutoki rwacu rufite ibara ry'icyatsi.
+P10	Ibara rya gatanu ni ubururu bukeye.
+P11	Ikirere gifite ibara ry'ubururu bukeye.
+P12	Ibara rya gatandatu ni ubururu bwijimye (indigo).
+P13	Izi nkeri zifite ibara ry'ubururu bwijimye cyangwa indigo.
+P14	Ibara rya karindwi ni idoma (violet).
+P15	Ikanzu yange ifite ibara ry'idoma. Nkunda idoma. Wowe ukunda irihe bara?
+P16	None se waba uzi amabara arindwi agize umukororombya?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Amharic (Translation)	7 የቀስተደመና ቀለሞች	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+Chinyanja (Translation)	Mautoto Asanu Ndi Awiri Autawaleza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
+English (Translation)	Colours of a rainbow	id=10463
+English (Adaptation)	Seven colours in a rainbow	id=19760
+Hausa (Nigeria) (Translation)	Launi Bakwai na Bakan-gizo	id=20798
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=19954
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=20679
+Kikamba (Translation)	Utathi	id=15419
+Kiswahili (Original)	Rangi za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke Ali Na Langi 7	id=20396
+Lusoga (Translation)	Lanji da Musoke	id=27929
+Lusoga (Translation)	Langi  edhiri  ku musoke	id=30604
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Sepedi (Translation)	Mebela ye mesupa ya molalatladi	id=19980
+Siswati (Translation)	Imibala yemushi wenkhosatane	id=13066

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=30262&d=0&a=1
+id:	30262
+title:	Oghanga kukola ki?
+author:	Kyambogo  University and Maritha Nakiranda
+artist:	Amir Bachir António Necas
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30262.png
+desc:	Eriyo aidhi kyaghanga okukola mu biseera ebyakabi?
+
+page_text:
+
+P1	Oghanga kukola ki? Nguli oba wenka mu nsi?
+P2	Oghanga kukola ki? Nguli lyoaire olowooza oti ibaale oja okubona nga bwenebwene ngoina?
+P3	Okola ki? Engoina bwekuganha okutyama ku mugongo gwayo.
+P4	Okola ki? Engoina bwekutiisatiisa okukulya?
+P5	Oghanga kukola ki? Nguli okakibwa okusigala ghangulu mu muti okumala enaku kamaala?
+P6	Okola ki? Nguli oba nga toidhi kifo mu kyene engoina mweyekwese mu maadhi?
+P7	Okola ki? Nguli engeri yonka eyokuja eka olina kusala mwiga?
+P8	Okola otya? Nguli otuuka ghagati me waabona engoiina ibiri enene nga dhirikukubinga?
+
+images:
+
+illustrations/pages/10579.png
+illustrations/pages/10572.png
+illustrations/pages/10576.png
+illustrations/pages/10578.png
+illustrations/pages/10583.png
+illustrations/pages/10586.png
+illustrations/pages/10571.png
+illustrations/pages/10573.png
+illustrations/pages/10574.png
+
+translations:
+
+English (Original)	What Would You Do?	id=12969
+Lulamoogi (Translation)	Ghandi kolere ki?	id=28781

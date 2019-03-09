@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=24473&d=0&a=1
+id:	24473
+title:	Kwanini makitaba ilijengwa?
+author:	JENNIFER PRISCILLA APIO and Priscilla Jey
+artist:	Marleen Visser, Magriet Brink, Karlien de Villiers, Marike le Roux, Jano Strydom, Rob Owen, Jesse Breytenbach and Catherine Groenewald
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24473.png
+desc:	Hii story inaelezea umuhimu wa makitaba shuleni kwetu.
+
+page_text:
+
+P1	viti na meza.
+P2	vitabu vingi kwa ajili ya watoto na wakubwa.
+P3	ukutani kuna picha zilizonakishiwa.
+P4	mawingu meupe na bluu kwenye dali.
+P5	watoto kwa wakubwa huenda makitaba.
+P6	marafiki zangu na mm hua tunaenda makitaba kipindi  cha likizo.
+P7	Tunasoma hiki kitabu siku yetu tulivu.
+P8	Mama aliazima kitabu cha picha makitaba.
+P9	sehemu yangu.
+P10	sehemu yako.
+P11	sehemu yenu.
+P12	nafurahia sana makitaba!
+
+images:
+
+illustrations/pages/7960.png
+illustrations/pages/8548.png
+illustrations/pages/8856.png
+illustrations/pages/9652.png
+illustrations/pages/9850.png
+illustrations/pages/8947.png
+illustrations/pages/9855.png
+illustrations/pages/8850.png
+illustrations/pages/8854.png
+illustrations/pages/8851.png
+illustrations/pages/8855.png
+illustrations/pages/8858.png
+illustrations/pages/8856.png
+
+translations:
+
+English (Original)	Why the Library Was Built?	id=9966
+Lusoga (Translation)	Lwaki ekyagi kye bitabo kyazimbibwa	id=28123

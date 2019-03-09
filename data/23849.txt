@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=23849&d=0&a=1
+id:	23849
+title:	Ni uwuhe murimo mwiza kuruta iyindi?
+author:	Jean Paul Harelimana
+artist:	Wiehan de Jager
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23849.png
+desc:	Ni uwuhe murimo mwiza kuruta iyindi? Ese hari akazi keza cyane kuruta iyindi?
+
+page_text:
+
+P1	Aba bantu ntibabivugaho rumwe.
+P2	Umwarimu yaravuze ati: "Abarimu nibo bafite akamaro cyane. Baratwigisha."
+P3	Umwubatsi na we ati: "Abubatsi nibo bafite akamaro cyane. Mukeneye amazu."
+P4	Umubaji ati: "Ababaji nibo bafite akamaro cyane. Mukenera ibikoresho."
+P5	"Abaganga nibo bafite akamaro cyane. Muradukenera ngo mumererwe neza."
+P6	"Abahinzi nibo bafite akamaro cyane. Muradukenera ngo tubahe ibyo kurya."
+P7	Umunyeshuri aravuga ati: "Abanyeshuri nibo bafite akamaro cyane!"
+P8	"Kubera ko mwese mwabanje kuba abanyeshuri!" Nuko buri wese ahita yemera.
+
+images:
+
+illustrations/pages/10274.png
+illustrations/pages/10274.png
+illustrations/pages/10278.png
+illustrations/pages/10276.png
+illustrations/pages/10279.png
+illustrations/pages/10277.png
+illustrations/pages/10275.png
+illustrations/pages/10280.png
+illustrations/pages/10281.png
+
+translations:
+
+Afaan Oromo (Translation)	Hojii Isa Kamtu Barbaachisaadha?	id=20430
+Amharic (Translation)	የትኛው ስራ ይበልጣል?	id=20501
+English (Original)	Disagreement among occupations	id=10537
+English (Adaptation)	Which work is the most important?	id=19761
+French (Translation)	Un Désaccord Sur L’Importance De Divers Emplois	id=13159
+isiZulu (Translation)	Ukuphikisana ngemisebenzi eyahlukene	id=15441
+isiZulu (Translation)	Yimuphi umsebenzi obaluleke kakhulu?	id=20681
+Kiswahili (Translation)	Ni kazi gani iliyo muhimu zaidi?	id=20433
+Kiswahili (Translation)	Kazi gani muhimu zaidi?	id=22067
+Lusoga (Translation)	Mulimo ki Ogusinga?	id=20397
+Lusoga (Translation)	Mulimo ki oguwula?	id=26901
+Ng’aturkana (Translation)	Etich Ali Ejok Noi?	id=20412
+Oluwanga (Translation)	Mulimo shina okwoluyali okhushira?	id=22763
+Portuguese (Translation)	Desentendimento Entre Profissões	id=16413
+Setswana (Translation)	Ke Tiro Efe E E Botlhokwa Go Feta?	id=21162

@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=23730&d=0&a=1
+id:	23730
+title:	Okubaara Enjangu
+author:	penelope  nankunda
+artist:	Jesse Breytenbach
+lang:	Runyankore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23730.png
+desc:	Ekitabo kyokubara kuruga ahari Emwe
+
+page_text:
+
+P1	Enjangu nizingahi?
+Tihariho njangu.
+P2	Enjangu nizingahi?
+Enjangu Emwe.
+P3	Enjangu nizingahi?
+Enjangu Ibiri.
+P4	Enjangu nizingahi?
+Enjangu Ishatu.
+P5	Enjangu nizingahi?
+Enjangu Ina.
+P6	Enjangu nizingahi?
+Enjangu Itaano.
+P7	Enjangu nizingahi?
+Enjangu Mukaaga.
+P8	Enjangu nizingahi?
+Enjangu Mushanju.
+P9	Enjangu nizingahi?
+Enjangu Munaana.
+P10	Ekyi ekyiturikureeba nikyi
+Akaana kenjangu karemerwa omumuti
+Kanyijenkujune
+P11	mama tugume nako? kwongyeraho emwe yonka.Enjangu nizingahi? Enjangu mwenda.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Dhopadhola (Translation)	kwano pus	id=23214
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala Puusi	id=24824
+Lusoga (Translation)	Okubala puusi	id=27336
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584

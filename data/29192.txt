@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=29192&d=0&a=1
+id:	29192
+title:	Okapa omuyaaka
+author:	Kyambogo  University and Mpala Paul
+artist:	Marleen Visser
+lang:	Lulamoogi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29192.png
+desc:	Obabirye yatakire okapa. Abomumaka bonabona batakire okapa. Paka bayagiirye okapa omutuufu.
+
+page_text:
+
+P1	Obabirye yatakire okapa.
+P2	Amaka ga babirye gayabire okucaalira ekapa.
+P3	Obabirye yatakire eno epuusi. Yabbaire munene inho kuye.
+P4	Opaul yatakire okapa ono omutomuto. Yaali mutono inho kwiye.
+P5	Omaama yatakire kaano akatokato. Kabbaire kangu inho kwiye.
+P6	Buli muntu yatakire kapa ono omutomuto.
+P7	Batwaire okapa omutomuto.
+P8	Buli muntu musanyuki n'ekapa empyaka.
+
+images:
+
+illustrations/pages/9557.png
+illustrations/pages/9554.png
+illustrations/pages/9555.png
+illustrations/pages/9556.png
+illustrations/pages/9557.png
+illustrations/pages/9558.png
+illustrations/pages/9559.png
+illustrations/pages/9560.png
+illustrations/pages/9561.png
+
+translations:
+
+English (Translation)	New pussy cat	id=13631
+Luganda (Original)	Pussi Empya	id=13630
+Lusoga (Translation)	Epuusi Empyaka	id=27155

@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=24011&d=0&a=1
+id:	24011
+title:	OMUTTI OGWOGERA
+author:	Aggrey Timothy
+artist:	Abraham Muzee
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24011.png
+desc:	Omutti ogwogera gwemulugunya eli Kiki olwokwononona kwabantu.
+
+page_text:
+
+P1	Lunaku lumu, Kiki yatuula wansi womutti nga atanuza nanku no obwelarikirivu
+P2	awo nawulira eddoboozi nga liva e'mabega we. nakyusa omuttwe, nalaba omutti nga gumwenya. Nabuuka nga agyudde okutya no'kwewunya.
+P3	Awo omutti negutandika onkaaba. Kiki neyelarikilira, nabuuza omutti lwaki gukaaba. "Lwaki okaaba muti gwe ogwogera?" omutti negumudamu,"lwakuba abantu batusanyawo.
+P4	Kiki nawulira ennaku eli omutti ela nagusubiza okugukuma nebo'luganda ba gwo
+P5	Kiki no'mutti ogwogera nebafuka ba'mikwano. Kiki no'mutti bali basanyufu okufuuka ab'emikwano.
+P6	Kiki nayanjula mukaazi we na'baana eli omutti. Bona nebafuuka ba'mikwano. Mubudde bwe obwe'dembe Kiki nabamakage bamaala obudde nga bogera nomutti.
+P7	Ssiga ebifanaanyi mu lugeero
+
+images:
+
+illustrations/pages/15232.png
+illustrations/pages/15237.png
+illustrations/pages/15238.png
+illustrations/pages/15241.png
+illustrations/pages/15242.png
+illustrations/pages/15243.png
+illustrations/pages/15244.png
+
+translations:
+
+Ateso (Translation)	Ekitoi lo ainera	id=23366
+English (Original)	Talking Tree	id=15409
+Lusoga (Translation)	omuti ogwogera	id=24238
+Runyankore (Translation)	omuti ogukugamba	id=24236

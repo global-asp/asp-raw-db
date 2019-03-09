@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=26202&d=0&a=1
+id:	26202
+title:	Inhe masimu
+author:	Enocha Tasingika and Kyambogo  University
+artist:	Marion Drew
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26202.png
+desc:	Inhe masimu muzaanhi! Osobola okufumimtiriza ku kyo okuba na amasimu ataanu
+
+page_text:
+
+P1	Bamweta inhe masimu. mwekalilise!
+P2	Ali na amasimu ataanu. Bwa asituka kunco, ayandha amasimu ge ku menza.
+P3	Erya kyenvu lya kwogera na ba ghaka.
+P4	Eryeru lya kwogera na bantu ba kumulimo.
+P5	Erya kasaayi lya kwogera na abo abamubandha.
+P6	Erya pinki lya kwogera na bakagwa be.
+P7	Erya nakasooma lya kwogera naabo abali ku mwenda.
+P8	Inhe masimu ayenda abantu okuba abasanhufu. Tayenda kulwana.
+P9	Aleka abaana okubona tolofaina kwi iduuka lye.
+P10	Acaalira abagogomu na abakaire mu maka gaibwe.
+P11	Bwaba ali kubita, abantu bamukeeyanira, ''inhe masimu!, ''inhe masimu!''
+P12	Awo awulira bukalamu era yaakoba, ''ninze inhe masimu. Wano, mubone amasimu gange!'' Ono ni inhe masimu na amasimuge ataanu.
+
+images:
+
+illustrations/pages/10053.png
+illustrations/pages/10048.png
+illustrations/pages/10049.png
+illustrations/pages/10050.png
+illustrations/pages/10051.png
+illustrations/pages/10052.png
+illustrations/pages/10053.png
+illustrations/pages/10054.png
+illustrations/pages/10055.png
+illustrations/pages/10056.png
+illustrations/pages/10057.png
+illustrations/pages/10058.png
+illustrations/pages/10059.png
+
+translations:
+
+Dhopadhola (Translation)	Nya Simu	id=15765
+English (Translation)	Ms Phone	id=14420
+French (Translation)	Mme Téléphone !	id=14969
+Kinyarwanda (Translation)	Nyiramaterefone	id=17468
+Kiswahili (Original)	Bi Simu	id=14419
+Portuguese (Translation)	Menina Telefone	id=17046
+Setswana (Translation)	Mma Mogala	id=14939

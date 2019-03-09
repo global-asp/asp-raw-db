@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=25927&d=0&a=1
+id:	25927
+title:	Okubala
+author:	Kyambogo  University and Paul Wambi
+artist:	Gay Galsworthy
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/25927.png
+desc:	Mu nsiko ku kidiba tubala ebisolo ebiidha okunwa. Ologhooza kiki ekibagho nga empologoma eidye okunwa?
+
+page_text:
+
+P1	Endhovu ndala yaja okunwa amaadhi.
+P2	Entulege ibiri dhaagya okunwa amaadhi.
+P3	Eriyo embogo isatu n'binhonhi bina.Byonabyoona biri kuja kunwa maadhi.
+P4	Empongo itaanu n'ebisolo eby'omunsiko mukaaga biri kugya kunwa maadhi.
+P5	Enhenga musanvu n'ebyeike munaana biri mu maadhi.
+P6	Entwiga mwenda dhiri kuja maadhi.
+P7	Empologoma ndala yaidha okunwa amaadhi.
+P8	Ani omuvumu ekimala okweyongera okunwa?.
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Aringati (Translation)	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ	id=6985
+Ateso (Translation)	Aimar	id=9655
+English (Original)	Counting	id=1784
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Luganda (Translation)	Okubala Ebisolo	id=23497
+Luganda (Translation)	Okubala Ensolo	id=23771
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lugbarati (Official) (Translation)	La'ta	id=23449
+Lugbarati (Official) (Translation)	Kàlàfé Làzà	id=8753
+Lunyole (Translation)	Ohubala	id=1954
+Lusoga (Translation)	Tubala Bazira	id=1955
+Sepedi (Translation)	Go bala	id=1956
+Sesotho (Lesotho) (Translation)	Ho bala	id=1958
+Setswana (Translation)	Go bala	id=2807
+Talen (Translation)	Kaalog	id=20178

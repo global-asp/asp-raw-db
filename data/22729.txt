@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=22729&d=0&a=1
+id:	22729
+title:	Puuru
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Emakhuwa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22729.png
+desc:	Charming illustrations accompany the names of some familiar animals.
+
+page_text:
+
+P1	Mwalapwa
+P2	Nrattha
+P3	Enyompe
+P4	Puuru
+P5	Nikhule
+P6	Kwaato
+P7	Epwittipwitthi
+P8	Epuri
+P9	Ekuluwe
+P10	Mwalyakhu
+
+images:
+
+illustrations/pages/26642.png
+illustrations/pages/26643.png
+illustrations/pages/26644.png
+illustrations/pages/26645.png
+illustrations/pages/26642.png
+illustrations/pages/26647.png
+illustrations/pages/26648.png
+illustrations/pages/26649.png
+illustrations/pages/26687.png
+illustrations/pages/26652.png
+illustrations/pages/26651.png
+illustrations/pages/26647.png
+
+translations:
+
+CiNyanja (Translation)	Bulu	id=22723
+Cinyungwe (Translation)	Bulu	id=22725
+Cisena (Translation)	Buru	id=22726
+Echiziinza (Translation)	Ensíkili	id=30271
+Echuwabo (Translation)	Buru	id=22727
+Elomwe (Translation)	Puuru	id=22728
+English (Original)	Donkey	id=22679
+Ikisimbëtë (Translation)	Itikërë	id=30266
+Kiswahili (Translation)	Punda	id=29688
+Lusoga (Translation)	Mbbalasi	id=25786
+Lusoga (Translation)	Embalaasi	id=30576
+Olunyaneka (Translation)	Ocimbulu	id=22730
+Portuguese (Translation)	Burro	id=22724

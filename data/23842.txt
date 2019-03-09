@@ -1,0 +1,73 @@
+url:	https://africanstorybook.org/reader.php?id=23842&d=0&a=1
+id:	23842
+title:	embuzi, embwa n'ente
+author:	josephine namuddu
+artist:	Marleen Visser
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23842.png
+desc:	Embuzi
+
+page_text:
+
+P1	embuzi, embwa n'ente baali ba mikwano nyo. lunaku lumu bagenda ku lugendo mu taxi.
+P2	baatuka ku nkomelelo y'olugendo lwabwe. deleva nabasaba okusasula ebisale byabwe. ente n'esasula ebyayo.
+P3	embwa yasasula eziyisemu, kubanga yali talina sentse ntufu
+P4	deleva yali anatela okuwa embwa balanci we, ekyewunyisa, embuzi n'eduuka nga tesasude.
+P5	Deleva yanyiga nyo navuga nga tadiza wambwa balanci we.
+P6	Eno y'esonga lwaki neleelo, embwa ziduka eli emotoka okulaba ekilimunda. enonya deleva ayina balanci wayo.
+P7	embuzi ziduka okuva eli edobozi ly'emotoka. etya bajajisiba lwobutasasula sente zayo.
+P8	ente tetataganyizibwa  na motoka. ente etwala obudde bwayo okusala olugudo. ekimanyi yasasula sente zayo bulambilila
+
+images:
+
+illustrations/pages/6372.png
+illustrations/pages/6371.png
+illustrations/pages/6373.png
+illustrations/pages/6374.png
+illustrations/pages/6375.png
+illustrations/pages/6376.png
+illustrations/pages/6377.png
+illustrations/pages/6378.png
+illustrations/pages/6379.png
+
+translations:
+
+Afrikaans (Translation)	Bok, Hond en Koei	id=11138
+Arabic (Translation)	الماعز و الكلب و البقرة	id=21823
+Dhopadhola (Translation)	Dyel, Gwok Kodi Dhyaŋ	id=16481
+English (Translation)	(Colour-in) Goat, Dog and Cow	id=6380
+English (Adaptation)	Goat, Dog, and Cow with TV	id=13529
+French (Translation)	La Chèvre, Le Chien Et La Vache	id=10839
+isiNdebele (Translation)	Imbuzi, inja nekomo	id=7670
+isiZulu (Translation)	Imbuzi, Inja Nenkomo	id=7491
+Kikamba (Translation)	Mbui, Ngiti Na Ng'ombe	id=9686
+Kiswahili (Translation)	Mbuzi, Mbwa na Ng'ombe	id=7868
+Kiswahili (Translation)	Goat, Dog na Cow	id=23699
+Luganda (Translation)	Wambuzi, Wambwa Ne Wante	id=7787
+Luganda (Translation)	wambuzi, wambwa ne wante	id=22910
+Luganda (Translation)	Wambuzi,Wambwa nne Wante	id=23253
+Luganda (Translation)	embuzi,embwa ne nte	id=23434
+Luganda (Translation)	(langii-munda) Mbuuzi, Mbwaa ne Ntee	id=24225
+Lumasaaba (Original)	Imbusi, Imbwa Ni Ngaafu	id=6730
+Lumasaaba (Translation)	(illangi-mugatii) imbusi,imbwa ni inkafu	id=24351
+Lunyole (Translation)	Embusi, Embwa N’Eŋombe	id=8397
+Lusoga (Translation)	Embuzi, Embwa ne Nte	id=22715
+Lusoga (Translation)	Embuzi, Embwa ne Ente	id=24402
+Maa (Translation)	Enkíné, Oldía Ó Enkíténg	id=7867
+Ng’aturkana (Translation)	Akine, Ing'ok Ka Aite	id=7014
+Oluwanga (Translation)	Imbusi, Imbwa Nende Ing’Ombe	id=8279
+Portuguese (Translation)	A Cabra, O Cachorro E a Vaca	id=16419
+Rufumbira (Translation)	Ihene, Imbwa Ninka	id=24105
+Rukiga (Translation)	Embuzi, Embwa ne Ente	id=24138
+Runyankore (Translation)	(Siga elanji) Embuzi,Embwa nana Ente	id=22970
+Runyankore (Translation)	Embuzi, Embwa, ne Ente	id=23011
+Runyankore (Translation)	ebuzi ebwa nana ente	id=23081
+Runyankore (Translation)	(siga eranji) Embuzi,Embwa  n'Ente	id=23735
+Runyankore (Translation)	Embuzi,Embwa, N'ente	id=24080
+Runyankore (Translation)	(Elangi-omu) Embuzi, Embwa nana Ente	id=24395
+Runyankore (Translation)	(siga elanji) Embuzi, Embwa n'ente	id=24520
+Rutooro (Translation)	Embuzi, Embwa, N’Ente	id=14925
+Sesotho (Lesotho) (Adaptation)	Khomo, Pooli, Le Ntja, Le Tv	id=13553
+Setswana (Translation)	Podi, Ntšwa Le Kgomo	id=7771

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=27028&d=0&a=1
+id:	27028
+title:	Wankoko  mpanga  ni  wakayima
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Duane Arthur
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27028.png
+desc:	Ba mwegendereza ekiyinza okwiririra nga osagiire ku muntu.
+
+page_text:
+
+P1	Lwali  lulala,  ghaliwo  wankoko  mpanga  ni  wakayima.  Bali  bamukwano  balungi.
+P2	Bwire  bulala,  Wakayima  yakyalira  Wankoko  mpanga  n'abomumakage. Baghomerwa  ekyegulo  ghalala.
+P3	Ekisera  ekyo  kutenduka,  Wankoko  mpanga  n'abomumakage  mangu  inho  batenduka. Wakayima  yali  tabona  mitwe  gyabwe.
+P4	Wankoko  mpanga  n'abomumakage  batenduka  bulungi.  Wakayima  tiyasobola  kutenduka  bwirwe  bwonabwona.
+P5	Kunkyo,  Wakayima  yayenda  okutegera  ekyama  kya  wankoko."Mutagha  emitwe  gyaimwe  obwire?"  yabuza.
+P6	Wankoko  mpanga  yasalagha  okusagira  ku  Wakayima.  Yakoba, "Ebiseera  ebyo  okutenduka,  tutemaku  emitwe  gyaife.  Nga  tuzira  mitwe  tutenduka  bulungi  inho.
+P7	"Awo  nhi  kunkyo,  twaizaku  emitwe  gyaife,"  Wankoko  mpanga  yainhonhola.
+P8	Wakayima  yagya  ghaka  yakoba  abomumakage  ekyama  kya  Wankoko  mpanga.  Abo  mumaka  ga  Wakayima   basaalagho  okigezesaku  bene  nabene
+
+images:
+
+illustrations/pages/12453.png
+illustrations/pages/12438.png
+illustrations/pages/12440.png
+illustrations/pages/12443.png
+illustrations/pages/12449.png
+illustrations/pages/12453.png
+illustrations/pages/12454.png
+illustrations/pages/12455.png
+illustrations/pages/12456.png
+
+translations:
+
+English (Original)	Rooster and Hare	id=12464
+French (Translation)	Coq Et Lièvre	id=13275
+Kiswahili (Translation)	Jimbi na Sungura	id=12609
+Ng’aturkana (Translation)	Ekokoroit Ka Apoo	id=13211
+Portuguese (Translation)	O Galo E a Lebre	id=18859

@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=23187&d=0&a=1
+id:	23187
+title:	Water is life
+author:	Sharon Miriam Katana
+artist:	Catherine Groenewald, Ketan Raut, Marleen Visser, Reginaldo Vicente Manhice, Rijuta Ghate and Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23187.png
+desc:	Water is life. Water has a lot of importance.
+
+page_text:
+
+P1	Water has a lot of importance.
+P2	Water helps us to bath.
+P3	Water helps us to wash.
+P4	Children play with water.
+P5	Water helps us to cook and drink.
+P6	Some swim in it.
+P7	All animals love water.
+P8	But ponds are dangerous, we deserve to stay away from them.
+
+images:
+
+illustrations/pages/6342.png
+illustrations/pages/6215.png
+illustrations/pages/6577.png
+illustrations/pages/6452.png
+illustrations/pages/2443.png
+illustrations/pages/6683.png
+illustrations/pages/6632.png
+illustrations/pages/26608.png
+illustrations/pages/2252.png
+
+translations:
+
+Luganda (Original)	Amazzi Bw'ebulamu	id=6724
+Luganda (Adaptation)	Amazzi Bw'ebulamu	id=22638
+Lusoga (Translation)	Amaadhi n' obulamu	id=28824

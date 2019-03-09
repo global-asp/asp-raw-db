@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=27500&d=0&a=1
+id:	27500
+title:	Omunhazi
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Wiehan de Jager and Catherine Groenewald
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27500.png
+desc:	Mutome yagemanga abantu munsawo muTuleeni. Lulala omukono gwe gwalobera musawo ya Mmamotosi. Abaasabaze baali banhiivu inho olwebikolwa ebyo kuba obusawo bwaibwe bwababulangaku inho mu Tuleeni omwo. Abakuumi ba Tuleeni baayetebwa Matome yagemebwa yaigalilwa.
+
+page_text:
+
+P1	Lwali lulala waabawo omunhazi gwebayetanga Mamote
+P2	Mamote yagezaaku okwiba akasawo ka Mamontosi aye omukono gwalobera munsawo.
+P3	Mamote yakoba Mamontosi okumuyamba amusike omukono munsawoye.
+P4	Abasaabaze baali banhiivu bwebaboona ebyaliiwo. Bayeeta omkuumi wa Tuleeni.
+P5	Omukuumi gha Tuleeni yaidha. Mamotiso yagema ku mukon gwa matome okugutoola munsawo yegwali gulobeire.
+P6	Matome baamusiba lwakugema munsawo.
+
+images:
+
+illustrations/pages/6905.png
+illustrations/pages/6905.png
+illustrations/pages/6783.png
+illustrations/pages/6905.png
+illustrations/pages/6829.png
+illustrations/pages/6901.png
+illustrations/pages/6905.png
+
+translations:
+
+Acholi (Translation)	Oyuyut	id=21324
+English (Original)	Pickpocketer	id=7884

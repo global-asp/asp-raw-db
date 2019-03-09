@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=23729&d=0&a=1
+id:	23729
+title:	AYOM KI NYANG
+author:	Tony Rangan
+artist:	Abraham Muzee
+lang:	Acholi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23729.png
+desc:	Ododo lok ikom Ayom ma ryak muloyo weng ma kilaro ki dog nyang maryek ma onongo mito mwodo ne.
+
+page_text:
+
+P1	Chengu moh, Nyang ubedo chok ki nam icheng. Ayom ubino kangere kiyaga gumote.
+P2	Ayom upenyu gang a nyang. Nyang ugamo  "Abedo i nam" Nyang uyomo i Ayom ki gameh. Ayom upenyo kidojo.  "Kwo i nam bedo nining? beh?"
+P3	Nyang ugamo, "Kwo i nam beh.  Ibedo kwene?"  Ayom ugamo, "Abedo iwi yat.  Achamo labolo, muyeme ki pot yat.  Ichamo ngo"
+P4	Nyang ugamo, "Achamo riyu" Nyang no tika tamo yo me mako ki chamo ayom. Upenyo Ayom  "Iromo kwang"
+P5	Ayom ugamo, "Matwala, pangeyo kwang" Nyang uwagu ni "weka fonyi kit ma kwang."  Ayom ugamo "Pamiru ngeyo kit ma kwang"
+P6	Nyang ubolo Ayom  "Wa dogo lurem. Pey lwo an. Bin, ibed i ngeya."  Ayom ubedo i nge Nyang muchago kwang.
+P7	Ma gu oh i dye nam, Nyang upenyo Ayom, Imaro bedo I nam, itye nining? itye maber"  Ayom ugamo ni  "Pe rach gire, atye maber, iya yom"
+P8	Nyang uwago bot Ayom  "Kom nera lit. Peh wah no yat me konye"
+P9	Ayom no lwo tutwal, kome uchago yenge. No tika tamo yo me lwi ki wang Nyang.
+P10	Ayom utamo. Uwago bot Nyang, "Pey pa. Abi miyu chwinya bot neri. Riyu pah Ayom romo konye."
+P11	Chwiny Nyang udogo yom "Iromo miyu chwinyi bot nera?" Ayom ugamo ni "Aromo doh. Wan lurem"
+P12	Ma fud cha ma dwong fud po karo. Ayom uwagu ni  "Oh, wiya uwil ikom chwinya, awego iwi yat. Wa chet ka gamo neh"
+P13	Nyang upenyo  "Lok adah? Ibi kelo chwinyi ki iwi yat?"  Ayom ugamo  "abi kelo doh, beh abi chero kedi ka neno neri"
+P14	Nyang uye kiyaga ukwango wanga u oh i dog nam. Ma gu oh iwi ngom, Ayom upye ki inge Nyang.
+P15	Ma dong Ayom u oh iwi yat, Ayom udango ni  "Afoyo me nyuta nam, Nyang, iromo chero dong"
+P16	Nyang ukejo kiyaga uwajo ni  "Ibola? itye ka binu ki chwinyi? Ayom ugamo ni  "No aromo bedo ingeyi pi yen no atye ki chwinya"
+
+images:
+
+illustrations/pages/19154.png
+illustrations/pages/19021.png
+illustrations/pages/19151.png
+illustrations/pages/19152.png
+illustrations/pages/19153.png
+illustrations/pages/19154.png
+illustrations/pages/19155.png
+illustrations/pages/19156.png
+illustrations/pages/19157.png
+illustrations/pages/19158.png
+illustrations/pages/19159.png
+illustrations/pages/19160.png
+illustrations/pages/19161.png
+illustrations/pages/19162.png
+illustrations/pages/19163.png
+illustrations/pages/19164.png
+illustrations/pages/19165.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	(Colour-in) Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kinyarwanda (Adaptation)	Maguge n'Ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kiswahili (Translation)	Ape na  Mamba	id=24043
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Gonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Tiv (Translation)	Ikya man Ambe	id=23886

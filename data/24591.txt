@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=24591&d=0&a=1
+id:	24591
+title:	Ente mukwano gwange
+author:	GLORIA KIRABO
+artist:	Felicity Bell and Marleen Visser
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24591.png
+desc:	Akatabo kano kogera ku mugaso gwente eri omuntu.
+
+page_text:
+
+P1	maama nte nte,  nkwagala gwe nte
+P2	Egulo wampadde amatta
+P3	Kitange agula enyama buli lwamukaaga
+P4	Maama alina ensawo enungi, nange nina engatto enungi
+
+images:
+
+illustrations/pages/6379.png
+illustrations/pages/6373.png
+illustrations/pages/6376.png
+illustrations/pages/6105.png
+
+translations:
+
+Acholi (Translation)	diang tye larema	id=23089
+Afrikaans (Translation)	'n Koei is my Vriend	id=7698
+Ateso (Translation)	Apaperoka Nges Akiteng	id=20625
+Dhopadhola (Translation)	Dhyaŋ Mere Mawan	id=20948
+English (Original)	A Cow is my Friend	id=6383
+Hausa (Nigeria) (Translation)	Saniya Kawata Ce	id=20801
+Kinyarwanda (Translation)	Inka Ni Incuti Yange	id=20256
+Kinyarwanda (Translation)	Inka Ninshuti Yange	id=20611
+Kiswahili (Translation)	Ng'ombe ni rafiki Yangu	id=24042
+Kumam (Translation)	Dyang Obedo Nya Wota	id=20949
+Luganda (Translation)	Ente mukwano gwange	id=23062
+Luganda (Translation)	Ente mukwano gwange	id=24031
+Luganda (Translation)	wante mukwano gwange	id=24594
+Lugbarati (Official) (Translation)	ti ni ma agi ii	id=23091
+Lumasaaba (Translation)	Ikafu Umsale Woese	id=20951
+Lusoga (Translation)	Ente Mukwano Gwange	id=21392
+Lusoga (Translation)	Ente Mukwano Gwange	id=22621
+Lusoga (Translation)	Ente mukagwa wange	id=25231
+Lusoga (Translation)	ghantee mukwaano gwaange	id=25705
+Lusoga (Translation)	Wante ni   mukwano  gwange	id=29637
+Lusoga (Translation)	Wante  ni  mukwano  gwange	id=30605
+Mampruli (Translation)	Nzɔa Nyɛ Naafu	id=20112
+Runyankore (Translation)	Ente Ninywani Yangye	id=20652
+Runyankore (Translation)	Ente nimunywani wanje	id=22969
+Runyankore (Translation)	Ente Ninywani Yange	id=23417
+Runyankore (Translation)	ente nimunywani wanje	id=23994
+Runyankore (Translation)	Ente nimunywani Wangye	id=24212
+Swahili (Translation)	Ng'ombe ni Rariki Yangu	id=24767
+Talen (Translation)	Nauh Aa Man Zɔ	id=20199

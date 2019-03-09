@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=23415&d=0&a=1
+id:	23415
+title:	Akamyuu kagenda ku kabaaga
+author:	Atwiine Priscilla
+artist:	Hélder de Paz Alexandre
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23415.png
+desc:	Kano akagelo ka kwatta kuki ekitukako wooba ogenza ku kabaaga noo ottamiila. Oba kyekyo?
+
+page_text:
+
+P1	Olwatuuka, Ensolo nezissalawo okola akabaga.
+Naye tekaali ka zzoonna.Kaali ka nsolo ezzirina amayembe zzoka.
+P2	Akamyu kaali ketegekera akabaga. Naye kaakizuula nti akabaga tekaali kabulyomu. kaali kabiisolo ebilina amayembe.
+P3	Akamyu kagenda ewantu nekafuna yo amayembe.Ne kagateeka kumutwe gwaako nekagenda kukabaga.
+P4	Kukabaga akamyu kaalya ne kaanywa ne kabiibya.
+P5	Kino kyakaletera okukoowa ne kaggwa wansi mumusana.Naye bwekaali nga kakyebasse,amayembe gaagwa!
+P6	Awo nebisolo byonna  byakizuula nti akamyu tekali kika kyensolo kye bayagala. Nolwekyo zasiika amatu paka lwe ggagejja ne gagejja.
+P7	Awo nezzidukawo. Eyo yensoonga lwaaki Akamyu kalina Amatu amannene.
+
+images:
+
+illustrations/pages/10187.png
+illustrations/pages/17429.png
+illustrations/pages/17427.png
+illustrations/pages/17428.png
+illustrations/pages/17430.png
+illustrations/pages/17431.png
+illustrations/pages/17432.png
+illustrations/pages/17426.png
+
+translations:
+
+Acholi (Translation)	ayom chero yi myeel	id=24106
+Ateso (Translation)	Elosi ipoo opucit	id=24079
+English (Original)	Rabbit goes to a party	id=10110
+English (Adaptation)	(Colour-in) Rabbit goes to a party	id=17433
+isiXhosa (Translation)	Umvundla uya ethekweni	id=13089
+Lusamia (Translation)	Ahaduyu hacha humuholo	id=23252
+Lusoga (Translation)	Wakamyu aja ku mbaga	id=24901
+Portuguese (Translation)	O Coelho Vai a Festa	id=10243
+Rukiga (Translation)	wakame yaza ahambaga	id=23648
+Runyankore (Translation)	Wakame omu mbaga	id=23703
+Sesotho (South Africa) (Translation)	Moutiwanyane O Ya Tsamaya Boithabisong	id=13090
+Xitswa (Translation)	N'wa Vundlani Aya a Mubuzweni	id=10244

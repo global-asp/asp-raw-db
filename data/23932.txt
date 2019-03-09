@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=23932&d=0&a=1
+id:	23932
+title:	Ubushuti hagati ya bakame n' impyisi
+author:	Rodah Kabanyana Gakusi and Uganda Christian University
+artist:	Rob Owen
+lang:	Kinyarwanda (Uganda)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23932.png
+desc:	Bakame n impyisi bitwijyisha akamaro kubushuti.
+
+page_text:
+
+P1	Bakame ni'mpyisi bari inshuti. igihe cyimwe bahitamo guhinga ibijumba bombi
+P2	Bakora ubudahwema mumurima wabo.
+P3	Nyuma yakazi,bakame ni'mpyisi bakinaga bombi
+P4	Ariko igihe kimwe mpyisi yirukansa bakame.Bakame nawe arirukanga
+P5	Umunsi umwe,bakame abaza mpyisi,"niba urinshuti, kuki unyirukansa?"
+P6	Hanyuma bakame arabaza ati"niba utarinshuti yangye,kuki dukora tukanakina twembi?"
+P7	Inshuti niwa muntu uguma arinshti
+
+images:
+
+illustrations/pages/8136.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8135.png
+illustrations/pages/8150.png
+illustrations/pages/8138.png
+illustrations/pages/8136.png
+illustrations/pages/8141.png
+
+translations:
+
+Dhopadhola (Translation)	mere pa ondyek kodi ochulu	id=23875
+English (Original)	Friendship Between Hyena and Hare	id=10563
+Luganda (Translation)	Omukwano Gwa Wakayima Ne Wampisi.	id=12912
+Lusoga (Translation)	Ab'emikwano  Wampiti ni Wakayima	id=25062
+Ma'di (Translation)	Ito ti moi To	id=24258
+Runyankore (Translation)	Omukago Ahagati ya Wakame nne Empisi	id=23934

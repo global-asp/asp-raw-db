@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=30227&d=0&a=1
+id:	30227
+title:	Okudhunha
+author:	Juliet Namugaya and Kyambogo  University
+artist:	Jean Fullalove, Karlien de Villiers, Marike le Roux, Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30227.png
+desc:	Ekikete kiri ku kudhunha abaana no okubakuza ne eisanhu
+
+page_text:
+
+P1	Nga kikalamu inho
+P2	Okubeedha akaana akaghere.
+P3	Ekitiisa kya maama
+P4	Okubabonha ne eisanhu
+
+images:
+
+illustrations/pages/932.png
+illustrations/pages/3043.png
+illustrations/pages/8854.png
+illustrations/pages/9493.png
+illustrations/pages/14062.png
+
+translations:
+
+English (Original)	Support	id=21968

@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=29357&d=0&a=1
+id:	29357
+title:	Ebisolo bya Yuganda
+author:	Antony Kisambira and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29357.png
+desc:	Kigema kubisolo bya Yuganda
+
+page_text:
+
+P1	Dhinho ne ntwiiga. Dhiri ne nkoto npaavu. Dhilya bikoola kumiti emighanvu. Langi ki edhentwiiga?
+P2	enho Ndhovu. Ensaadha dhiba ne nso endheru. Ebighaito binene.Edhovu dhiba nomukoba omughanvu. Dhikozesa ekoba dhinho okufuna amakoola kumiti emireyiriri. Edhovu dhilya eisubi n'amakoola. Langi ki eye Ndhovu.
+P3	Enho Ngoinha. Eba mumiiga ni mu nhandha. Eri nomukira omuleyiriri. Eri nomunhwa omunene era n'amainho ameru nga mangi. elya ngege nebisolo ebindhi. Langi ki eye Ngoinha.
+P4	Enho mpologoma. Eri n'amainho amanene nga moogi. Ekitiisa ekye Mpologoma enho kiriwa.
+P5	Enho jaali.Kabonero ka Yuganda. Eri nebigere bighanvu ne ngule.Langi ki edha jaali.
+P6	Dhinho Mbogo dha mumaadhi. Dhilya eisubi  era dhaba mumiiga ni mu nhandha. Kiiki embogo edhomumaadhi kyedhiri nakyo ekikula kumitwe.
+P7	Binho bisolo byebeeta Etulege. Dhiri nho bukulubuze obwirugavu nho'bweeru. Nsolo ki edhindhi dhoidhi edhifanaana etulege.
+P8	Ghano ghaliwo ebika bibiri ebyebisolo. Embwa edhomunsiko ekanzi dhonha dhiri namatu.Dhiri imeka dhosobola okubala mu bifanaani.
+P9	Bika ki ebyebisolo byolikubona? Bibaawa? Biriwa byosobola okulya.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9647.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9631.png
+illustrations/pages/9644.png
+illustrations/pages/9650.png
+illustrations/pages/9646.png
+illustrations/pages/9645.png
+
+translations:
+
+Acholi (Translation)	Lee me Uganda	id=24082
+English (Original)	Animals of Uganda	id=9988
+Kumam (Translation)	Leini Me Yuganda	id=20898
+Lusoga (Translation)	Ensolo Dha Uganda	id=20391

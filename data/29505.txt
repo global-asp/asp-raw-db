@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=29505&d=0&a=1
+id:	29505
+title:	Ebisolo tibisoola
+author:	Antony Kisambira and Kyambogo  University
+artist:	Rob Owen and Brian Wambi
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29505.png
+desc:	Obwa Kyabazinga obwebisolo bwidwire bisolo bya ndhawulo.
+
+page_text:
+
+P1	Mu limu endhovu esinga mu bunene mu dhonadhoona.
+P2	Mulimu Mwami Wakayiima omugezi mu dhonadhoona.
+P3	Ni Wankembo atwalibwa nga omugayaavu, ataayendhanga kugya mu nimiro.
+P4	Mwabaamu Mwami Ghakikere ayabanga mu bwina nga mwe yeekukumye.
+P5	Ni Ghampologoma eyali Kyabazinga mu nsiko.
+P6	Boonaboona baakolera ghalala ghaka ni mu nsiko.
+P7	Baali bendagana oti kirevu na mpaata.
+
+images:
+
+illustrations/pages/13575.png
+illustrations/pages/18836.png
+illustrations/pages/18835.png
+illustrations/pages/18834.png
+illustrations/pages/13415.png
+illustrations/pages/9628.png
+illustrations/pages/13688.png
+
+translations:
+
+English (Original)	Animals of the jungle	id=24674

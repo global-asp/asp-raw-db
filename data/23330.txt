@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=23330&d=0&a=1
+id:	23330
+title:	Dole Azizi
+author:	Lule Eriah
+artist:	Natalie Propa
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23330.png
+desc:	Omwana anyumilwa nyo okufa kun dole ye era nayo eba nsanyufu.
+
+page_text:
+
+P1	Ono ye Azizi  dole yange
+P2	Njagala nnyo  Azizi kubanga amwenyeza
+P3	Bwenzukuka  naba amaaso awo nenonya Azizi
+P4	Bwemuzula  nemusanilila enviiri
+P5	Bwendya ekyenkya  na Azizi mulisako
+P6	Bwendya kubu switi muwako kamu
+P7	Naye ye talya wuwe  nenewunya lwaki!
+P8	Ntambulatambula  mulugya nga bwenonda obumuli
+P9	Nemuwa ekimuli naye natangambako nti webale
+P10	Nongasa Azizi  nga mama wange tanaba kunaza
+P11	Nemwambaza ebimyufu kubanga  njagala nyo kala emyufu
+P12	Bwenebaka  nebaka  naye kumpi awo
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the Doll	id=9748
+French (Translation)	Azizi La Poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Kinyarwanda (Translation)	Igipupe cyitwa Azizi	id=21065
+Lámnsoʼ (Translation)	Dòrbebí wóo Azizi	id=16448
+Lugwere (Translation)	Odole Omulyabwita	id=16112
+Lusoga (Translation)	Aziizi	id=25454
+Lusoga (Translation)	Aziiza Doli	id=25912
+Runyankore (Translation)	Azizi dole	id=24419

@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=27423&d=0&a=1
+id:	27423
+title:	Sooka kyesooko
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Vusi Malindi, Catherine Groenewald and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27423.png
+desc:	Luno olufumo lugema ku bantu abato abanhumirwa okuzaanha sooka. Omutendesi waibwe ali nokweghuunhya kungi ku kikunsu kyaibwe.
+
+page_text:
+
+P1	Nnhenda inho sooka, ate ighe?
+P2	Maliki ali kutusomesa sooka, onhumirwa weena?
+P3	Tuje mu kisaaghe.
+P4	Maliki no omuzaanhi waife asinga.
+P5	Oluvainhuma lw'omuzaanho, omutendesi atukoba ati, "Ndi n'ekinaabeghunhisa."
+P6	Aye abakoba ati, "Ndidha kukibakobera enco."
+P7	Olunaku olwairirira, boonaboona baidha ku kisaawe. "Twenatwena tubyenda."
+P8	"Maliki ali neebyokukozesa ebiyaaka ebitumala tweenatweena n'emipiira!"
+
+images:
+
+illustrations/pages/7978.png
+illustrations/pages/11676.png
+illustrations/pages/7977.png
+illustrations/pages/7978.png
+illustrations/pages/7980.png
+illustrations/pages/7982.png
+illustrations/pages/7983.png
+illustrations/pages/13435.png
+illustrations/pages/7985.png
+
+translations:
+
+Afrikaans (Translation)	Sokker Wedstryd	id=11307
+Afrikaans (Translation)	Sokker Wedstryd	id=11403
+English (Translation)	Soccer Game	id=9825
+English (Adaptation)	Soccer Game is  Good	id=13524
+English (Translation)	Chiefs Versus Aces	id=21412
+French (Translation)	Une Partie De Football	id=13277
+isiXhosa (Adaptation)	Indebe yomhlaba: I-Chiefs ne-Aces	id=9826
+isiZulu (Translation)	Sithanda ibhola lezinyawo	id=13325
+Luganda (Translation)	Okuzannya Akapiira	id=8425
+Lunyole (Translation)	Omupiira	id=13523
+Lusoga (Translation)	Anasookayo	id=28143
+Sepedi (Original)	Re bapala bolo	id=8038
+Sesotho (South Africa) (Translation)	Re Bapala Bolo	id=9831

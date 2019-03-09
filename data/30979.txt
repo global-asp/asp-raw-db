@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=30979&d=0&a=1
+id:	30979
+title:	Bbaabba Nomwanawe
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Wiehan de Jager, Karen Lilje, Catherine Groenewald, Katrien Coetzer and Marleen Visser
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30979.png
+desc:	Batyaime muntebe ayenda ayege ebfaananie.
+
+page_text:
+
+P1	Omughala alikutambula
+P2	Akanhonhi kalibbuluuka.
+P3	Embwa ento ento eyemereire.
+P4	Epuusi eyaime wansi ghe'ntebe
+
+images:
+
+illustrations/pages/8072.png
+illustrations/pages/9567.png
+illustrations/pages/9223.png
+illustrations/pages/5926.png
+illustrations/pages/8866.png
+
+translations:
+
+Afaan Oromo (Translation)	Kitaaba Suuraa	id=17466
+Anywak (Translation)	Buuk Mar Ngiiye	id=18155
+Arabic (Translation)	قصتي المصورة	id=18189
+English (Original)	My Picture Book	id=9737
+English (Adaptation)	My Picture Book	id=10117
+Hausa (Nigeria) (Translation)	Mu Koyi Hausa	id=21007
+Hyam (Northern Nigeria) (Translation)	Kyaam Hyamma̱ (Learn Hyam Language)	id=20506
+Lugbarati (Translation)	Buku Mavile Eda Ni Ri	id=9757
+Lusoga (Translation)	Ekifaananie  eky'ekitabo  kyange	id=26229

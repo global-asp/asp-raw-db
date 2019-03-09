@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=24167&d=0&a=1
+id:	24167
+title:	Endogoyi ne ente elima
+author:	Nagimesi Arthur
+artist:	Salim Kasamba
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24167.png
+desc:	Olugero lwe ente elima enkozi ne endogoyi.
+
+page_text:
+
+P1	omulimi yalina ente elima
+P2	yalina ne ndogoyi. ente elima ne ndogoyi zali zamikwano
+P3	olwegulo, ente elima yagamba endogoyi, "nkooye nnyo leero"
+P4	ente elima yagamba endogoyi, "sinaba kuwuumula ko leero"
+P5	endogoyi yadamu, "nakoze nnyo okusinga"
+P6	olunaku olwadako, ente elima yagamba, "leero lubade lunaku lubi"
+P7	endogoyi negamba,"omulimi bwanajja, gamba, 'moo' ajakuleeka owumulemu
+P8	enkeela, ente elima, yakaaba, 'moo' omulimi nagileka ewumulemu
+P9	omulimi natwala endogoyi okulima
+P10	endogoyi yakola nnyo olunaku lwona. yakoma wo ewaka nga ekooye
+P11	endogoyi negamba, "omulimi agambye agenda kutta afune ennyama
+P12	ente negamba, njakukola enkya. kati mpulila bulungi
+P13	olugero lwe ente elima enkozi ne endogoyi engezi
+P14	olugero lwe ente elima ne ndogoyi
+
+images:
+
+illustrations/pages/15496.png
+illustrations/pages/15491.png
+illustrations/pages/15492.png
+illustrations/pages/15493.png
+illustrations/pages/15494.png
+illustrations/pages/15495.png
+illustrations/pages/15496.png
+illustrations/pages/15497.png
+illustrations/pages/15498.png
+illustrations/pages/15499.png
+illustrations/pages/15500.png
+illustrations/pages/15501.png
+illustrations/pages/15502.png
+
+translations:
+
+Afaan Oromo (Translation)	Sangaa fi Harree	id=24813
+Amharic (Original)	በሬ እና አህያ	id=15505
+English (Adaptation)	Donkey and Ox	id=18333
+English (Adaptation)	Ox and Donkey	id=21628
+IsiNdebele (Zimbabwe) (Translation)	Inkabi loBabhemi	id=22173
+Kiswahili (Translation)	Fahali na Punda	id=15612
+Lusoga (Translation)	Endogoyi  nente  eriima	id=27063
+Oluwanga (Adaptation)	Isurusi Nende Isishiri	id=20346
+Portuguese (Translation)	O Boi E O Burro	id=18844

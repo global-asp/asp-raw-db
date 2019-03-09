@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=23728&d=0&a=1
+id:	23728
+title:	Wazzike ne Gonya
+author:	Raymond Muwanguzi
+artist:	Abraham Muzee
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23728.png
+desc:	Olugeero mu langyi. Olugeero nga wazike akagezi kya wonna Gonya kagezi ekyayagadde okumuliisa.
+
+page_text:
+
+P1	Gonya yali ayota akasana ku lubalama lwe'nyanja. Wazzike bweyali ayita n'amubuuzako.
+P2	Wazzike yabuuza gonya gyabeera Gonya n'amuddamu nti mu nyanja. Wazzike kyamwewunyisa kwekumubuuza nti obulamu bwo'mumazzzi butya? Bweyagaza?
+P3	Gonya yamuddamu nti bulungi. Ye ggwe obeera wa? Ko wazzike nti nze mbeera mu miti, ndya bikoola n'ebibala. Ggwe olya ki?
+P4	Nze ndya nnyama. Wabula gonya yali alowoza ngeri gyanakwata wazzike amulye. Kwekumubuuza nti omanyi okuwuga?
+P5	Ko wazzike nti nedda simanyi kuwuga. Gonya n'amugamba nti kankuyigirize. ko wazzike nti nedda saagala.
+P6	Gonya yamugamba nti tuli bamukwano, totya. tula ku mugongo gwange. wazzike yatuula gonya natandika okuwuga.
+P7	Bwebatuuka wakati mu nyanja gonya n'abuuza wazzike owulira otya okubeera ku mazzi? ko wazzike nti nyumirwa, ndi musanyufu.
+P8	Gonya yagamba wazzike nti kojja wange mulwadde nnyo naye tukyanonya ddagala elinamuwonya.
+P9	Wazzike yatya nnyo n'okukankana nga bwanonya engeri y'okudduka ku gonya.
+P10	Wazzike nafuna ekilowoozo. yagamba gonya totya, kojja wo njamuwa omutiima gwange. nyama ya wazzike esobola ku muwona.
+P11	Gonya yasanyuka n'amubuuza nti ddagala osobola okuwa kojja wange omutima gwo? ko wazzike nti yye, tuli bamukwano.
+P12	wayitawo akaseera katono wazzike n'agamba gonya nti ononsonyiwa mukwano naye omutima gwange nagwerabidde mu muti. tuddeyo ngunone.
+P13	Gonya namubuuza nti okakasa omutima onaguleeta okuva mu muit? ko wazzike nti yye, nga na kugenda naawe okulaba kojja wo.
+P14	Gonya yakkiriza n'addayo ku lukalu. olwatuuka ku lukalu wazzike n'abuuka okuva ku mugongo gwa gonya.
+P15	Yasinziira ku muti nagamba gonya nti munange webale nnyo kunambuuza nyanja. weraba!
+P16	Gonya yayogeza busungu nti wannimbye? Omutima oguleeta, Oba nedda? Wazzike yaddamu nti ssinga sibadde na mutima gwange ssandisobodde kutuula ku mugongo gwo.
+
+images:
+
+illustrations/pages/19154.png
+illustrations/pages/19021.png
+illustrations/pages/19151.png
+illustrations/pages/19152.png
+illustrations/pages/19153.png
+illustrations/pages/19154.png
+illustrations/pages/19155.png
+illustrations/pages/19156.png
+illustrations/pages/19157.png
+illustrations/pages/19158.png
+illustrations/pages/19159.png
+illustrations/pages/19160.png
+illustrations/pages/19161.png
+illustrations/pages/19162.png
+illustrations/pages/19163.png
+illustrations/pages/19164.png
+illustrations/pages/19165.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	(Colour-in) Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kinyarwanda (Adaptation)	Maguge n'Ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kiswahili (Translation)	Ape na  Mamba	id=24043
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Tiv (Translation)	Ikya man Ambe	id=23886

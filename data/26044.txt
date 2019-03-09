@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=26044&d=0&a=1
+id:	26044
+title:	Maama acuuka
+author:	Kyambogo  University and Robert Buyinza
+artist:	Catherine Groenewald, Jesse Breytenbach, Mango Tree, Rob Owen, Silva Afonso and Vusi Malindi
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26044.png
+desc:	Engeri omuntu bwakula nacuuka mumubiri mubuli ngeri yonayona.
+
+page_text:
+
+P1	Maama bweyali akaali muto, twacaalira bakagwabe.
+P2	Yantwala mu kiya okugula eiva.
+P3	Nga atwala muganda wange mu kibuga.
+P4	Yangulira amaina ag'ebimera.
+P5	Maama bweyakula, omugongogwe gwegoda.
+P6	Yasigalanga eka inho era yaayogeranga n'abaana ba muliraanwa.
+P7	Yalwalanga inho.
+P8	Yatanbulanga mu bukaluubirivu.
+P9	Baidhukulube baaja okumucaaluraku mu kiwuumulo.
+P10	Bamuliraanwa baamuleeteranga amata okuva kwiduuka.
+P11	Maama bweyali akaali muto, yali n'amaani.
+P12	Aye buti, maama mukaire, azira maani.
+
+images:
+
+illustrations/pages/1326.png
+illustrations/pages/9473.png
+illustrations/pages/14034.png
+illustrations/pages/11450.png
+illustrations/pages/13694.png
+illustrations/pages/14031.png
+illustrations/pages/14698.png
+illustrations/pages/9392.png
+illustrations/pages/6001.png
+illustrations/pages/11675.png
+illustrations/pages/7943.png
+illustrations/pages/9941.png
+illustrations/pages/1366.png
+
+translations:
+
+English (Original)	Mother changes	id=14836
+Kiswahili (Translation)	Mama abadilika	id=16766
+Lusoga (Translation)	Maama acuuka	id=26128
+Lusoga (Translation)	Maama Acuuka cuuka	id=26155

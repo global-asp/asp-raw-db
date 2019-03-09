@@ -1,0 +1,71 @@
+url:	https://africanstorybook.org/reader.php?id=30665&d=0&a=1
+id:	30665
+title:	Okuwerera   enku
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Wiehan de Jager
+lang:	Lusoga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30665.png
+desc:	Abaghala basatu baaja okuwerera enku mukasana. Baasalagho baaja okwewuga aye ebiseera byabajaaku me baayangugha okwira ghaka nga babugwitana.
+
+page_text:
+
+P1	Era  einho, abaghala  baajanga okugherera  enku   olweigulo.
+P2	Abaghala  basatu  baaja  okugherera  enku  aye  nga  akasana  kangi  inho  baasalagho  baje  beewugeku.
+P3	Baaja  opkola  bati  nga  obwire  bujiire  olwo  baayangugha  okwirayo  eka.
+P4	Baali  bali  kumpi  kutuuka  omughala  owundi  yaaja  okugema  munkoto  ati  nga  yeerabiireyo  ekinere  kye. Yaakoba  baine  bamwizeeyo.
+P5	Abaghala  abandi  baadheema  okumwizaayo  era   yeerayo  yenka  aye  obwire  bwamuzibiraku  eyo  enjira  yaamubulaku.
+P6	Bweyalinga  ati  emberi  nga ekitangaala  kiri  mu kayumba,  Yaajayo  yaakonkona.
+P7	Ekyamweghuunhisa  n'okwagaana  wambwa  nga  aigwiregho  olwigi  era  yaamubuuza  ati, "olikunoonhia  ki?  Omughala   yaamwiramu  ati  enjira,   "n'embuzeeku"
+P8	Wambwa  yaamukoba  ati  nfumbira  aye  omughala  yamukoba  ati nze  tifumbirwangaku  wambwa.
+P9	Ekyo bwekyagha  wambwa  yamukoba  ati, "ndhalira  obuliri"
+P10	Buli  lunaku  yali  ali  n'okwalira  wambwa  obuliri  n'okumufumbira.
+P11	Nga  wambwa yankavaawo ati,  omughala  yafuna  enviiri  isatu,  olundi  yaaluta  ghansiiaghobuliri, olundi kulwigi  olundi   mukyayiro,  meni    yaalumuka  paka ghaka.
+P12	Wambwa   bweyaira  yaayeta  ati, "mughala  iwe. mughala iwe. Mughala  wooo?
+P13	Wambwa  yaakizuula  nti omughala  amusaliire  amagezi.  rea  yaataaku   embiro okuja   kukyalo  ekyomughala  aye  yayagaana  nga  bamulindhiriire  n'emiigo.
+
+images:
+
+illustrations/pages/1196.png
+illustrations/pages/1197.png
+illustrations/pages/1198.png
+illustrations/pages/1196.png
+illustrations/pages/1199.png
+illustrations/pages/1200.png
+illustrations/pages/1201.png
+illustrations/pages/1202.png
+illustrations/pages/1203.png
+illustrations/pages/1204.png
+illustrations/pages/1207.png
+illustrations/pages/1208.png
+illustrations/pages/1209.png
+illustrations/pages/1210.png
+
+translations:
+
+Afrikaans (Translation)	Nozibele en die Drie Hare	id=21811
+Amharic (Translation)	ኖዚቤሌና ሦስቱ ጸጉሮች	id=22405
+Arabic (Translation)	نوزيبال والشعرات الثلاث	id=21829
+Aringati (Translation)	Ãlíríkí Ꞌi Ãzíla Drị̃ꞌbị́ Na Kî	id=7532
+Ekegusii (Translation)	Nozibele N’Echitukia Isato	id=3165
+English (Original)	Nozibele and the three hairs	id=1880
+English (Translation)	Anna and the Three Hairs	id=7903
+isiXhosa (Translation)	UNozibele namanwele amathathu	id=6711
+isiZulu (Translation)	UNozibele nezinwele ezintathu	id=3896
+Kikamba (Translation)	Nonzimbele Na Nzwĩĩ Itatũ	id=3164
+Kiswahili (Translation)	Nozibele na Nywele Tatu	id=3159
+Luganda (Translation)	Nakku N’Enviiri Essatu	id=3167
+Luganda (Translation)	Olunako olwokya	id=23327
+Lugbarati (Translation)	Candiru Pi Dri`bi Ifi Na `diyi Be	id=3894
+Lugbarati (Official) (Translation)	Candiru Pi Dri'biifi Na ‘Diyi Be	id=8799
+Lumasaaba (Translation)	Namutosi Ni Butsuune Butaru	id=3892
+Lunyole (Translation)	Nanjoosi N’Efiiri Edatu	id=3890
+Lusoga (Translation)	Anna n'enviiri esatu	id=29463
+Maa (Translation)	Nozibele Ó Ilpápít Okúni	id=3163
+Oluwanga (Translation)	Prisca Nende Obushinga Butaru	id=3162
+Oluwanga (Adaptation)	Prisca Nende Obushinga Butaru	id=19596
+Sepedi (Translation)	Nozibele le meriri e meraro	id=3169
+Sesotho (Lesotho) (Translation)	Ts'oanelo Le Ntja Ea Nkoapo.	id=6710
+Sesotho (Lesotho) (Translation)	Nozibele Le Qobo Tse Tharo	id=10368
+Setswana (Translation)	Nozibele le meriri e meraro	id=3168

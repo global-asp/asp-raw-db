@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=27089&d=0&a=1
+id:	27089
+title:	Mpanga okukikola
+author:	Juliet Namugaya and Kyambogo  University
+artist:	Silva Afonso
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27089.png
+desc:	Luno nolunaku lwa Nangobi olusooka okuja ku isomero.
+
+page_text:
+
+P1	Nangobi asituka ya ghulirisa,"leero n'olunaku lwange olusooka okuja ku isomero."
+P2	"kati, nteekwa kukola ki?" Nangobi abuuza. "Ndha kukobera,Kati amwiiramu.
+P3	Kati yaakoba Nangobi okunaaba mu maiso ge. Nangobi akoba ati,"Mpanga okunaaba mu maiso gange. Bwe mala?
+P4	Kati yakoba Nangobi okusenhya amaino ge. Nangobi yakoba ati,"Mpanga okusenhia amaino gange. Bwe mala?"
+P5	Kati yakoba Nangobi mbu alina okulya. Nangobi yaamukoba ati,''Ndidhi okulya. Bwemmala?
+P6	Kati yakoba Nangobi okwambala indhifomu ye. Nangobi yakoba ati,''Mpanga okwambala indhifomu.Bwemala?
+P7	Kati yakoba Nangobi okubeedha endyanga ye.Nangobi yamukoba ati,''Mpanga okubeedha endyanga yange.Bwemala?
+P8	Buti yaamukoba ati,''Oteekwa okuja ku isomero. ''Nangobi yaamukoba ati,''mpanga okuja ku isomero. Bwemmala?
+P9	Buti yaamukoba ati,''Oteekwa okwingira mu kibiina. ''Nangobi yamwiramu ati,''Mpanga okwingira mu kibiina. Bwemmala?"
+P10	Nangobi yaigira mu kibiina okusoma.
+
+images:
+
+illustrations/pages/13814.png
+illustrations/pages/13815.png
+illustrations/pages/13816.png
+illustrations/pages/13819.png
+illustrations/pages/13817.png
+illustrations/pages/13820.png
+illustrations/pages/13821.png
+illustrations/pages/13822.png
+illustrations/pages/13823.png
+illustrations/pages/13824.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+English (Translation)	I Can Do This!	id=14534
+French (Translation)	Je Peux Le Faire!	id=14537
+Kiswahili (Translation)	Naweza kufanya hili!	id=23747
+Lusoga (Translation)	Nsobola   okukola  kino?	id=27786
+Portuguese (Original)	Eu Sei Fazer Isso!	id=14417

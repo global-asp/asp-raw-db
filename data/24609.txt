@@ -1,0 +1,61 @@
+url:	https://africanstorybook.org/reader.php?id=24609&d=0&a=1
+id:	24609
+title:	Enfuddu yafuna etya enyiindo engongobavu
+author:	Isaac  Mutebi
+artist:	Marlene Visser 
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24609.png
+desc:	Wanfuddu ne kamujje baali bagala sente kwekusalawo okukola amasowaani agokutunda mukatale gyebasanga egeege eryalumako enfuddu ennyido nefuuka yakikugu. Kuno kulabula nti topapanga kwenyigira mubuvuyo ojja kufuna obuzibu.
+
+page_text:
+
+P1	Wanfuddu ne kamujje baali bagala sente
+P2	Nebakola esowaani ez'okutunda mu katale
+P3	Bwebaali mukatale wanfuddu nalaba abalwana
+P4	Kamujje n'egeege bebaali balwana
+P5	Wanfuddu kwekulekaana, "vva kumukwano gwange!"
+P6	Egeege kwekuluma wanfuddu ennyindo
+P7	Ennyindo gyebalumako kati emuluma
+P8	Yensonga lwaki wanfuddu alina ennyido engongobavu
+
+images:
+
+illustrations/pages/13136.png
+illustrations/pages/13129.png
+illustrations/pages/13130.png
+illustrations/pages/13131.png
+illustrations/pages/13132.png
+illustrations/pages/13133.png
+illustrations/pages/13134.png
+illustrations/pages/13135.png
+illustrations/pages/13136.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=24434
+Afaan Oromo (Translation)	Funyaan Qocaa	id=20426
+Anii (Adaptation)	Abʊŋajakpa agɩŋʊnʊ gɩsɔɖɔkakoɖo	id=24788
+English (Translation)	How Tortoise's nose became crooked	id=13137
+English (Adaptation)	(Colour-in) How Tortoise got a crooked nose	id=19763
+French (Translation)	Le Nez Crochu De Tortue	id=13769
+Hausa (Nigeria) (Translation)	Yadda Kunkuru ya samu karkataccen hanci	id=20518
+Hausa (Nigeria) (Translation)	Yadda Kunkuru Ya Samu Karkataccen Hanci	id=21367
+isiZulu (Translation)	UFudu wathola kanjani ikhala elitshekile	id=20721
+Kinyarwanda (Adaptation)	Uko Akanyamasyo Kagize Izuru Ribwataraye	id=20250
+Kinyarwanda (Translation)	uko izuru ry'akanyamasyo ryavunitse	id=24006
+Kiswahili (Translation)	Jinsi Kobe alivyopata pua kombo	id=20436
+Luganda (Translation)	Nga Enfuddu bya funa ennyindo ekyuse	id=23890
+Luganda (Translation)	Engeri enfuddu gyeyafuna enyindo eyagulukira	id=24319
+Lusoga (Translation)	Wankudu Ne Ennhindo Engudule	id=20399
+Lusoga (Translation)	Engeri Wankudu gyeyafunamu enhindo enfunefune	id=24454
+Ng’aturkana (Translation)	Eger Lo Ang'walia Ekume Abokok	id=20418
+Portuguese (Translation)	Foi Assim Que O Nariz Da Tartaruga Ficou Torto	id=16560
+Rutooro (Translation)	Habwaki enyindo Ya'Kanyamankogoto eramaire	id=23159
+Setswana (Translation)	Goreng Khudu A Nale Nko E E Sokameng	id=21163
+TjiKalanga (Translation)	Gomwe Waka Wana Tjini Tjimilo Tjakakondama	id=21694
+Yoruba (Original)	Bí Imú Ìjàpá Ṣe Rí Kọ́ńbó	id=13128

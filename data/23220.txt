@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=23220&d=0&a=1
+id:	23220
+title:	Mark's trip to the zoo
+author:	Musika Emmanuel
+artist:	Catherine Groenewald, Jesse Breytenbach, Mlungisi Dlamini, Rob Owen and Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23220.png
+desc:	Mark goes to the zoo
+
+page_text:
+
+P1	Mark leaves home to go the zoo with his friend Mary.
+P2	On their way, Mary and Mark buy eats.
+P3	Mary develops a bad headache  and she starts crying.
+P4	Mark looks for a near by clinic to get medicine.
+P5	He finds there is no doctor or nurse.
+P6	They had gone to talk to the people about living a healthy life.
+P7	Mark shouted for help and people called the doctor.
+P8	Mark gave Mary the doctor's medicine and took her back home.
+P9	So he did not get to see the animals, because his friend was sick.
+
+images:
+
+illustrations/pages/13745.png
+illustrations/pages/9635.png
+illustrations/pages/11997.png
+illustrations/pages/19819.png
+illustrations/pages/1623.png
+illustrations/pages/10546.png
+illustrations/pages/11453.png
+illustrations/pages/10277.png
+illustrations/pages/25359.png
+illustrations/pages/9079.png
+
+translations:
+
+Lusoga (Translation)	Olugendo  lwa maako mu zuu	id=26180

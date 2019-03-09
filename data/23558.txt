@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=23558&d=0&a=1
+id:	23558
+title:	Embwa ensanyufu
+author:	Nalwoga Sandra
+artist:	Funda  Nenja
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23558.png
+desc:	Bongiwe atwaala embwa ye mu kibiina okuyiga engeri gye balabirilamu ekisolo kye ekye waka.
+
+page_text:
+
+P1	Amanya gange nze Bongiwe. Mbera mu kibugga kyebayita Mpophomeni mu KwaZulu-Natal.
+P2	Nina akabwa bakayita Scruffy.
+P3	Wenva ku somero buli lwakutaano, Scruffy nange tugenda mu bibiina bya Funda Nenja na baana abalala ne mbwa zabwe.
+P4	Funda Nenja kitegeza ku soma ne embwa mu luzulu
+P5	Funda Nenja etusomesa engeli yo kulabililamu embwa zaffe mungeli enungi ela eyobukakamu
+P6	Funda Nenja esomesa embwa engeli yo kubuka ebiti ne okudukila mumiwatwa
+P7	Scruffy ne mbwa endala zinyumirwa wamu ebisela byazo ebyesanyu
+P8	njagala nnyo Scruffy ela naye anjagala
+
+images:
+
+illustrations/pages/27067.png
+illustrations/pages/27068.png
+illustrations/pages/27070.png
+illustrations/pages/27073.png
+illustrations/pages/27074.png
+illustrations/pages/27075.png
+illustrations/pages/27076.png
+illustrations/pages/27077.png
+illustrations/pages/27078.png
+
+translations:
+
+English (Original)	Happy dogs	id=23430
+Lusoga (Translation)	Embwa  ensanhufu	id=26602

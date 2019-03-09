@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=24600&d=0&a=1
+id:	24600
+title:	Omwojo arikukunda okusheka
+author:	Uganda Christian University and Vivienne  Kabarungi
+artist:	Wiehan de Jager, Catherine Groenewald, Rijuta Ghate, Mlungisi Dlamini, Manyeka Arts Trust, Jesse Breytenbach and Kathy Arbuckle
+lang:	Runyankore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24600.png
+desc:	Omufumu nayiba omwojo arikukunda okusheka.
+
+page_text:
+
+P1	Hakahariyo omwojo.
+P2	Akanakunda okusheka.
+P3	Akanasheka munonga ne ebiyonyi bika nibye merera kureeba ekyabaho.
+P4	Eizooba rimwe akatambura wenka omu kibira.
+P5	Akatwarwa omufumu.
+P6	Omufumu akataine amashemererwa.
+P7	Akaba naguma nahurira omwojo nasheka kandi akanayenda ho ahamashemererwa ge
+P8	Omwojo akesaasibwa kuheza obwiire bukye.
+P9	Obwiire kubwarabireeho, yaijuka ekigaaniizo eki mama weye yamugambire.
+P10	Yatandika kusheka.
+P11	Omufumu yanyiga konka kuyahurire ekigaaniizo,
+P12	nawe yasheka.
+P13	Yatwara omwojo omuka.
+P14	Omwojo arikukunda kusheka akaretera omufumu amashemererwa.
+
+images:
+
+illustrations/pages/1455.png
+illustrations/pages/11997.png
+illustrations/pages/1624.png
+illustrations/pages/8984.png
+illustrations/pages/8001.png
+illustrations/pages/4657.png
+illustrations/pages/1289.png
+illustrations/pages/1281.png
+illustrations/pages/1894.png
+illustrations/pages/1332.png
+illustrations/pages/6604.png
+illustrations/pages/1075.png
+illustrations/pages/1288.png
+illustrations/pages/320.png
+illustrations/pages/8819.png
+
+translations:
+
+English (Original)	The boy who liked to laugh	id=24532

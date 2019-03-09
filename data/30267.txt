@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=30267&d=0&a=1
+id:	30267
+title:	Ubhusyö
+author:	Kutafsiri Biblia Mara
+artist:	Sue  Beattie
+lang:	Ikisimbëtë
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30267.png
+desc:	Learn the parts of the face
+
+page_text:
+
+P1	Amaiso
+P2	Ökutwë
+P3	Umunywa
+P4	Rinyëërö
+P5	Ekereesa
+P6	Amaino
+P7	Örörëmë
+P8	Semboto
+P9	Ibhighiki
+P10	Situukya
+
+images:
+
+illustrations/pages/26803.png
+illustrations/pages/26807.png
+illustrations/pages/26808.png
+illustrations/pages/26802.png
+illustrations/pages/26800.png
+illustrations/pages/26801.png
+illustrations/pages/26755.png
+illustrations/pages/26810.png
+illustrations/pages/26809.png
+illustrations/pages/26804.png
+illustrations/pages/26806.png
+
+translations:
+
+Echiziinza (Translation)	Obúso	id=25010
+Echiziinza (Translation)	Obúso	id=30270
+English (Original)	Face	id=23135
+Kiswahili (Translation)	Uso	id=29975
+Lusoga (Translation)	Mumaiso	id=30326
+Lusoga (Translation)	Mu Maiso	id=30345
+Lusoga (Translation)	Mu maiso	id=30407
+Lusoga (Translation)	Mu  maiso	id=30574

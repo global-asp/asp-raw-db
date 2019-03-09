@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=25481&d=0&a=1
+id:	25481
+title:	Akabuzi kange
+author:	David  Bamukangwiire and Kyambogo  University
+artist:	Marleen Visser
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25481.png
+desc:	Embuzi eyeikooti. Omusaadha yali ne enkoko ne embuzi. Nga aye embuzi eno eri ne ikooti.
+
+page_text:
+
+P1	olikuja gha kabuzi kange?
+P2	Ndi kuja mu kiya kugula kooti mpyaka.
+P3	"Eikooti ly'embuzi?" Enkoko yaabuuza.
+P4	"Embuzi esobola okuba ne ikooti?" Omusaadha yaabuuza.
+P5	Buli muntu aidha kusekerera embuzi ey'eikooti!
+P6	Aye akabuzi kange kendha ikooti lyaako empyaka. Mbuzi weeraba.
+
+images:
+
+illustrations/pages/10567.png
+illustrations/pages/6378.png
+illustrations/pages/10567.png
+illustrations/pages/15308.png
+illustrations/pages/15233.png
+illustrations/pages/15302.png
+illustrations/pages/13531.png
+
+translations:
+
+Dholuo (Translation)	Diel Matin	id=15042
+English (Original)	My little goat	id=9885
+Luganda (Translation)	Akabuuzi kange akaato	id=23076

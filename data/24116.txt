@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=24116&d=0&a=1
+id:	24116
+title:	winyu ki gweno
+author:	okot samuel
+artist:	Mango Tree, Silva Afonso, Marleen Visser and Melany Pietersen
+lang:	Acholi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24116.png
+desc:	Kyoch eni wajo wa pingo gweno bedo ki dano dak pingo winyu kyamo lutti gweno konenogi ka gitye katuku.
+
+page_text:
+
+P1	ninu moni. winyu ki gweno nogityee lurem maber
+P2	nogituku kichelu. nogituku ki le mukene kyalo olik.
+P3	nogityee ki dyangi madwong, dyeel, romo ki lee mukene.
+nogimaro tuku ka' cheelu idibaa.
+P4	nin achel gweno ogamo lyedi pa winyu ka lyello yeewi lutino ne. winyu pokwero kamino ne ire
+P5	gweno olyero yee lutino ne maber. ento wiyeee owil kadwoko lyeedi ka winyu
+P6	ma winyu obino kagamo lyedi ne, gweno norwenyo lyedi ni dong. otemo yenyo ne kaka weny ento nopitwere. winyu otany ki daa ki okyako kachamo lutino pa gweno.
+P7	gweno ongwegyo pi kwo ne ki ochako kabedo ikin dano kikume. pakaa kyawani gweno bedo ki dano ki winyu kyamo lutino pa gweno.
+
+images:
+
+illustrations/pages/13574.png
+illustrations/pages/13571.png
+illustrations/pages/13685.png
+illustrations/pages/13357.png
+illustrations/pages/13692.png
+illustrations/pages/13572.png
+illustrations/pages/13581.png
+illustrations/pages/13574.png
+
+translations:
+
+English (Original)	Eagle and the Hen	id=13756
+Kinyarwanda (Uganda) (Translation)	igisiga n'inkoko	id=24060
+Luganda (Translation)	empungu ne enkoko	id=24010
+Lusoga (Translation)	Eikoli n'enkoko	id=26773

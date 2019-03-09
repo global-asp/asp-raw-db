@@ -1,0 +1,92 @@
+url:	https://africanstorybook.org/reader.php?id=25704&d=0&a=1
+id:	25704
+title:	Kantono n'empiti
+author:	Joseph  Mukwaya and Kyambogo  University
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25704.png
+desc:	Kantono mughala mulungi ate ayenda inho okuzuula byataidhi
+
+page_text:
+
+P1	Yaliyo omughala ng'eriinalye ni Kantono. Yayogeranga inho.
+P2	Lwali olwo, songaawe yaalwala.
+P3	Eigulo eryo, Kantono yatwalira songaawe emere.
+P4	Kantono yayagaana Wampiti  eyali yeefwire omuntu.
+P5	Kantono yaamukoba, "Ndi kutwala mmamba, magi n'amata."
+P6	Wampiti yeekomba ensaya bwalowooza ku mmamba.
+P7	Wampiti yalumuka yaasooka Kantono okutuuka ku nhumba ya songaawe.
+P8	Bweyatuukayo, yamira songa wa Kantono. Yaamala yeebwika bbulangitiye.
+P9	Kantono yatuuka yaayeta, "Songa, oli gha?"
+P10	Kantono yaabona omuntu eyeebwise mu bbulangiti enene.
+P11	Kantono yaabuza, "Songa, lwaki amatuugo manene inho olwaleero?"
+P12	"Songa, lwaki amaisogo manene inho?"
+P13	"Songa lwaki omunwagwo munene?"
+
+Wampiti yaamumira!
+P14	Ni bweyali mu nda, Kantono yeeyongera okubuuza Wampiti ebibuuzo.
+P15	Wampiti yeetamwa ebibuuzo bya Kantono. Yaamusesema.
+P16	Abataka baidha baayamba Kantono ni Songaawe.
+
+images:
+
+illustrations/pages/9449.png
+illustrations/pages/9393.png
+illustrations/pages/9392.png
+illustrations/pages/9394.png
+illustrations/pages/9395.png
+illustrations/pages/9448.png
+illustrations/pages/9449.png
+illustrations/pages/9450.png
+illustrations/pages/9445.png
+illustrations/pages/9447.png
+illustrations/pages/9446.png
+illustrations/pages/9451.png
+illustrations/pages/9452.png
+illustrations/pages/9453.png
+illustrations/pages/9522.png
+illustrations/pages/9523.png
+illustrations/pages/9455.png
+
+translations:
+
+Afrikaans (Translation)	Kalabushe Die Spraaksame Meisie	id=11393
+Afrikaans (Translation)	Kalabushe die babbelkous	id=20072
+Anii (Adaptation)	Kaliifatu ŋkǝmprǝyar	id=24785
+ChiTonga (Translation)	Kalabushe Mukanazi	id=18647
+CiNyanja (Translation)	Kalabushe Musikana Wokambisisa	id=18666
+Dhopadhola (Translation)	Nyakawululu Ja Cut Wac	id=15760
+English (Translation)	Kalabushe the talkative	id=9526
+English (Adaptation)	Kalabushe and the hyena	id=20915
+French (Translation)	Kalabushe, La Bavarde	id=10842
+Hausa (Nigeria) (Translation)	Kande Sarkin Surutu	id=22074
+IciBemba (Translation)	Kalabushe Umukashana Uwaleelandisha Saana	id=18685
+isiNdebele (Translation)	UKalabutjhe okhulumela futhi	id=21935
+isiXhosa (Translation)	UNandipha intombazana elincoko	id=17578
+isiZulu (Translation)	UKalabushe intombazanyana ekhuluma kakhulu	id=10130
+isiZulu (Translation)	Intombazane eyayikuthanda ukukhuluma	id=12168
+isiZulu (Adaptation)	UZama intombazanyana ekhuluma kakhulu	id=13600
+Khoekhoegowab (Translation)	ǃHoaxa Kalabushes xa	id=24227
+Kinyarwanda (Translation)	Kabanyana, Gacuma K’Amagambo	id=17465
+Kiswahili (Original)	Kalabushe, Chiriku	id=9259
+Kiswahili (Adaptation)	Chiriku	id=18417
+Kiswahili (Translation)	Kalabushe na Fisi	id=21152
+Lugwere (Translation)	Kadondi Omutumulitumuli	id=16191
+Lunyole (Translation)	Neŋamba	id=16422
+Lusamia (Translation)	Kalabushe Mulomi Lomi	id=9670
+Mampruli (Translation)	Azuma Yatɔa Gbalinŋu Daana	id=20387
+Oshikwanyama (Translation)	Kalabushe weendjovo dihapu	id=24125
+Oshindonga (Translation)	Omupopyagani Kalabushe	id=23882
+Otjiherero (Translation)	Kalabushe omuhungire uatjinene	id=24168
+Portuguese (Translation)	Kalabushe a Tagarela	id=16654
+Sepedi (Translation)	Kalabuše wa go bolela kudu	id=18164
+Sesotho (South Africa) (Translation)	Moitheri ya buang haholo	id=20034
+Setswana (Translation)	Katlego, Mosetsana Yo O Buang Thata	id=15044
+SiLozi (Translation)	Kalabushe Mukanazi	id=18726
+Siswati (Translation)	Intfombatana letsandza kukhuluma	id=21731
+Talen (Translation)	Kalabushe Toagaleh Daan	id=20193
+Tigrigna (Translation)	ለታይን ዝብእን 	id=21171
+Tshivenda (Translation)	Kalabushe  Muambi Wa Biko	id=18193
+Xitsonga (Translation)	Khalabushe Wo Vulavula Ngopfu	id=18873

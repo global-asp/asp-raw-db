@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=23967&d=0&a=1
+id:	23967
+title:	Tingi n'ente
+author:	Ssenfuma James
+artist:	Ingrid Schechter
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23967.png
+desc:	Muluno olugelo Jjajja mukyala awonya obulamu bwa Tingi.
+
+page_text:
+
+P1	Tingi yabeeranga nga ne Jjajja we omukyala.
+P2	Yalabirira nga nte naye.
+P3	Olunaku lumu abasirikale bajja.
+P4	Nebatwaala ente.
+P5	Tingi ne Jjajja omukyala badduka.
+P6	Bekweeka mu nsiko mpaka kiro.
+P7	Awo abasirikale nebakomawo.
+P8	Jjajja mukyala yakweeka Tingi wansi webikoola.
+P9	Omu kubasirikale yateeka ekigere kuye, naye nasirika.
+P10	Embeera nga eteredde, Tingi ne Jjajja we omukyala bavaayo.
+P11	Nebavuura nebadda ewaka mangu nga basirise.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/17394.png
+illustrations/pages/17395.png
+illustrations/pages/17396.png
+illustrations/pages/17398.png
+illustrations/pages/17399.png
+illustrations/pages/17401.png
+illustrations/pages/17402.png
+illustrations/pages/17397.png
+illustrations/pages/17404.png
+illustrations/pages/17403.png
+illustrations/pages/17400.png
+
+translations:
+
+Arabic (Translation)	تينغي و البقر	id=21857
+ChiShona (Translation)	Tingi Ne Mombe	id=13246
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the cows	id=7441
+English (Adaptation)	(Colour-in) Tingi and the cows	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	UBongani neenkomo	id=13046
+isiXhosa (Translation)	UTingi kunye neenkomo	id=13200
+isiXhosa (Adaptation)	UTingi kunye neenkomo (Faka imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Kinyarwanda (Translation)	Karisa N'inka	id=20255
+Luganda (Translation)	Tingi N’Ente	id=8343
+Luganda (Translation)	Tingi n'ente	id=24464
+Luganda (Translation)	Tingi ne entte	id=24480
+Lusoga (Translation)	Dingidingi  n'ente	id=25187
+Lusoga (Translation)	Tingi ne ente	id=30378
+Lusoga (Translation)	Tingi n'ente	id=30490
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi N’Ente	id=14921
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

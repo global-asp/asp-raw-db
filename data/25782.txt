@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=25782&d=0&a=1
+id:	25782
+title:	Tuzaana kwega
+author:	Enocha Tasingika and Kyambogo  University
+artist:	Wiehan de Jager, Catherine Groenewald, N/A, Felicity Bell and Vusi Malindi
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25782.png
+desc:	E bibono ebyangu ne ebifaananie ebikozesebwa mu mizaanho.
+
+page_text:
+
+P1	Omupiira.
+P2	Omugugha.
+P3	Akafulaano.
+P4	Goolo yo omupiira ogwe emikono.
+P5	Goolo yo omupiira ogwe ebigere.
+P6	Ekyesuubo kye ekipimo.
+P7	Ekyesuubo kyo omulala.
+
+images:
+
+illustrations/pages/6037.png
+illustrations/pages/8622.png
+illustrations/pages/6038.png
+illustrations/pages/1735.png
+illustrations/pages/9762.png
+illustrations/pages/9763.png
+illustrations/pages/9764.png
+illustrations/pages/6104.png
+
+translations:
+
+English (Original)	We Play to Learn	id=9765
+Luganda (Translation)	Tuzannya oku- yiga	id=23423

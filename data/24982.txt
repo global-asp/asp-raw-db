@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=24982&d=0&a=1
+id:	24982
+title:	Omuzaanho ogw'okwefumba
+author:	Kyambogo  University and Maritha Nakiranda
+artist:	Reginaldo Vicente Manhice
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24982.png
+desc:	Wakamyu ayeta mwine Wankembo aidhe bazaanhe aye yebiweera tibiba bikalamu inho!
+
+page_text:
+
+P1	Awo olwatuuka, nga Wakamyu ni Wankembo baba baamukwano. Lulala mubiseera ebyendhala nga Wakamyu ayeta Wankembo aidhe amukyalireku bazaanhe batyo.
+P2	Wakamyu yakoba ati, "Tuzaanhe eby'okufumbagana!" Wankembo yaamubuuza ati, 'Ekyo tukikola tutya?"
+P3	Wakamyu n'okumwiramu ati, "Okusookera irala, tulin'okukuma omuliro."
+P4	Wakamyu yeeyongera yaakoba ati, "Twidha kwidhuza amaadhi mu nsugha memale tujite ku ziiko."
+P5	"Ninze anaasooka okuniinha mu nsugha. Bwe nkonkona ku kisandikira, nga ighe obwikula ensugha nga nze nvaamu." Atyo Wakamyu bwe yainhonhola. 
+Wankembo yaganha.
+P6	Agho Wakamyu yaaniinha mu nsugha, nga n'omuberyeberye.
+P7	Amaadhi bwe gaatoolera okusuugha, Wakamyu yaakonkona era Wankembo yaatoolaku ekisandikira.
+P8	Wankembo bweyaniina mu nsugha, Wakamyu yaata ogubaale ogunene ku kisandikira era yaagutyamanaku!
+P9	Amaadhi bwegaatoolera okutogota, Wankembo yaakonkona, aye Wakamyu tiyatoolaku kisandikira.
+P10	Wankembo yafa, era Wakamyu yalya mukagwa we nfiirabulago.
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/6681.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/6684.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/6689.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25371
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The cooking game	id=6993
+English (Adaptation)	(Colour-in) The Cooking Game	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo wokuphekana (Faka imibala)	id=17564
+Lusoga (Translation)	Omuzaanho omufumbe	id=29602
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Rutooro (Translation)	Omuzaano gwo kucumba	id=24459
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=23698&d=0&a=1
+id:	23698
+title:	Joy yaza kushoma
+author:	Amanya Andrew Travis and Uganda Christian University
+artist:	Vusi Malindi
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23698.png
+desc:	Ekitabo eki nikyereka nkoku Joy yayetebekanise kuzakushoma.
+
+page_text:
+
+P1	Joy akazana ezobaryona
+P2	nyinawe yamugiraa ngu ayozye emwendaye
+P3	yaronda akakuba ka mino
+P4	nyinawe yamutera amizi omu bafu
+P5	ya simura amishogye
+P6	nabwanyima yaza kubyama
+P7	omukasheshe ya kuta amino gye
+P8	nyina yamuyamba kubyama
+P9	kuyamazire ya siba enkitizye
+P10	nabwanyima Joy yaza ihishomero
+P11	Joy ari omukibina
+
+images:
+
+illustrations/pages/7516.png
+illustrations/pages/7516.png
+illustrations/pages/7517.png
+illustrations/pages/7514.png
+illustrations/pages/7518.png
+illustrations/pages/7515.png
+illustrations/pages/7513.png
+illustrations/pages/7507.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+
+translations:
+
+Amharic (Translation)	ሚሚ ወደ ትምህርት ቤት ሄደች	id=21233
+English (Original)	Joy Goes to School.	id=7660
+Luganda (Translation)	Joy Agenda Ku Somero	id=9053
+Luganda (Translation)	Joy Agenda Ku Somero	id=9056
+Lusoga (Translation)	Joyi aja ku isomero	id=26537
+Lusoga (Translation)	Sanyu mwana musomi era aja kwisomero	id=30763
+Lusoga (Translation)	Joy agya kwisomero	id=30941

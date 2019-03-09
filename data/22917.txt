@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=22917&d=0&a=1
+id:	22917
+title:	omwisiki owubakweta Nora
+author:	Tracy  Kababiito
+artist:	Melany Pietersen
+lang:	Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22917.png
+desc:	Norah nagonza dolle ye kandi natinna nti kirokimu dolle ye neburra.
+
+page_text:
+
+P1	onu omwisiki nibamweta Norah. Dolle ye nibajyeta Selah
+P2	Norah nagonza munno dolle ye. Norah nazanna na Selah buli kiiro. Naraara na dolle ye buli kiiro.
+P3	Dimu, Norah akabba atakuroora dolle ye. Akaseera buli haamu,beitu atakuroora Selah. Norah akeralikira munno.
+P4	Norah akaaba atakimanyiire ngu nyinna akatwaala Selah kumwojya. Akanikka dolle aheeru kwooma
+P5	"Tinkurrora dolleh yange,"Norah akaara. "Oterarikiira,"nyinna yagamba.
+P6	Rwebajyo orru,nnyinna Norah dolleh akajiiha Nora. Dolleh ekabba neyerra munno. Selah akabba nasana dolleh enshyaka.
+P7	Norah akasemererwa munno. Akagurukka heiguru na hansi. Akazina. Akasekeera heiguru.
+P8	Akasiima nyinna.
+
+images:
+
+illustrations/pages/9482.png
+illustrations/pages/9482.png
+illustrations/pages/9483.png
+illustrations/pages/9481.png
+illustrations/pages/9485.png
+illustrations/pages/9489.png
+illustrations/pages/9486.png
+illustrations/pages/9487.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Translation)	Girl Called Norah	id=9797
+English (Adaptation)	This is Norah	id=16120
+French (Translation)	La Fille Du Nom De Norah	id=10762
+Luganda (Original)	Omuwala Norah	id=9795
+Luganda (Translation)	Omuwala Ayitibwa Noorah	id=24051
+Lusoga (Translation)	Omughala gwebeeta Noola	id=25901

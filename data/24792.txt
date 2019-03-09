@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=24792&d=0&a=1
+id:	24792
+title:	FAMILIA
+author:	Keziah Badi
+artist:	Keziah Badi
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24792.png
+desc:	Familia hii ina baba
+
+page_text:
+
+P1	Baba
+P2	mtoto
+P3	Mama na mtoto
+P4	Dada na kaka
+P5	Mama, kaka na dada
+
+images:
+
+illustrations/pages/27243.png
+illustrations/pages/27246.png
+illustrations/pages/27248.png
+illustrations/pages/27245.png
+illustrations/pages/27247.png
+illustrations/pages/27243.png
+
+translations:
+

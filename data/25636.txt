@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=25636&d=0&a=1
+id:	25636
+title:	Engoma
+author:	Charles Eramaga and Kyambogo  University
+artist:	Salim Kasamba
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25636.png
+desc:	Emboozi egama ku migaso gye engoma mu Uganda okusinga mu Bajapadhola. Eyogera ku bukodyo byo kuzaanha
+
+page_text:
+
+P1	Engoma ebaire ku vaira kivuuga kya kinhumo mu kitundu kyaife. Twenda inho Engoma!
+
+Tuli ne Engoma nga dha bigero bya ndhawulo: eneene, edhaghagati awo no butono.
+P2	Tukuba Engoma nga tukozesa eminholo, oba engalo.
+
+Tukuba Engoma kulwe ensonga edhendhawulo. Tukuba Engoma nga kuliku enembo na makiina, ku binhumo era ni mu biseera ebyo kunholwa.
+P3	Engoma enhumisa enhembo era eretera abantu ekinhiginhigi okwenda oku kina. Engoma dhiretera emikolo okufanaana obukalamu.
+
+Tukuba Engoma ku mikolo gyo okwandhula era no otuuma abaana amaina. Tukuba Engoma ku kubinhumo byo ku kungula ebirime oba abalongo nga bazaalibwa.
+P4	Tukuba Engoma okusansania amawulire era no kubikira abantu nga ghaliyo afiire.
+P5	Tukuba Engoma nga tukunga abantu okugogola ebidhiba, okutereeza engira oba okuzimba enhumba dhaabo abali mu bwetaavu.
+
+Tukuba Engoma okutegeeza abantu nga ghaliyo Ente dhebaibye ku kyalo kyaife nga tukozesa envuuga  yamukidi.
+P6	Tukuba Engoma okukuga abantu okwidha mu lwekobaano mu lubiri.
+P7	Engoma dheeta abantu okuja mu masinzizo okwebaza omutonzi ku lunaku lwasasira ni ku naku edindi.
+
+Tukuba Engoma era okunhumisa enhembo mu masinzizo.
+P8	Engoma enene evuuga,"Agulumba, ngulumba ngulumba, mba, mba, mba, mba."
+
+Enduumi dhembera mu bumiro bwaghangulu inho, "Tindiri, tindiri, tindiri ti."
+
+Awo ni dhoona dhoona dhairamu,"Tindiri-mba, tindiri-mba, tindiri-mba, mba-mba-mba-mba, tindiri ti!
+
+images:
+
+illustrations/pages/25948.png
+illustrations/pages/25947.png
+illustrations/pages/25948.png
+illustrations/pages/25949.png
+illustrations/pages/25950.png
+illustrations/pages/25951.png
+illustrations/pages/25952.png
+illustrations/pages/25953.png
+illustrations/pages/25954.png
+
+translations:
+
+Dhopadhola (Original)	Bul	id=22190
+English (Translation)	Drum	id=22191
+Kiswahili (Translation)	Ngoma	id=22531

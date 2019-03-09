@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=25729&d=0&a=1
+id:	25729
+title:	Ensiri enhiiza
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	Magriet Brink
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25729.png
+desc:	Twenatwena twidhi kerere ensiri yedhikola nga dhiri kuzingaana obwiire. Akaghuka ako katonioli aye kiri kinene!
+
+page_text:
+
+P1	Konkona! konkona!
+P2	''Ani ali omwo?''mbuza mundolololo.
+P3	''Ninze,'' yairamu mu iroboozi eighaghavu.
+P4	"Nani,'nze'?"Ndikubuuza.
+P5	'' Nkukobeire,nti n-i-n-z-e z-e-n-ka,''mu iroboozi irala elyo.
+P6	''Tidhi oyo ayetebwa,'n-i-n-z-e-z-e-n-ka,''Ndiramu.Nkebera akatimba kange akensiri oba kakunikize bukalamu.
+P7	''Kale,eriina lyange ninze Amos."Eiroboozi nga lirenkana okusingawo.Lilikumpi inho ne emotoka yange.
+P8	"Amosi ki?"Mbuza eno bwe ninga mukatimba.
+P9	"Amos nsiri,"eiroboozi lyairamu. Mpulira ekinhuma kukutu yange.
+P10	"ki-kino"Ntuma ghaigulu ntandiika okunonia."Kino oidha kukisasulira!"Ndekaana.
+P11	Mubusungu,Nva muburiri nataaku ekibona.
+P12	Ndikulangirira olutalo ku Amosi nsiri.
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+English (Original)	Annoying mosquito	id=14893
+Kiswahili (Translation)	Mbu msumbufu	id=21635
+Luganda (Translation)	Wansili Anyiiza	id=22989
+Lusoga (Translation)	Ensiri enhiiza	id=25733
+Setswana (Translation)	Monang O O Tshwenyang	id=14964

@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=25309&d=0&a=1
+id:	25309
+title:	Wambwa ni Wangoina
+author:	Kyambogo  University and Robert Buyinza
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25309.png
+desc:	Wambwa yayagaana amagi kumbali kwomwiga
+
+page_text:
+
+P1	Wambwa yayagaana amagi kumpi nomwiga,"kisolo ki ekirese amagi ghano?"
+P2	Yata amagi mu nsawo ye.
+P3	Wambwa yatwala amagi ghaka.Yagata kumpi na muliro.
+P4	Wangoina yabuuza wambwa,"obwaine ku amagi gange?"Wambwa yakoba,"busa."
+P5	Wangoina yabuuza buli kisolo,"mubwoine ku amagi gange?"
+P6	Amagi gayalulwa kalala ku kalala.
+P7	Wambwa yagha wangoina omuto emere ntono.
+P8	Wangoina yawulira ba wangoina abato balira.
+P9	Wangoina yakuba Wambwa no mukira.Wambwa yalumukagho.
+P10	Wangoina yabinga Wambwa.
+P11	Wambwa yalira,"nsonhigha.Tyategera nga amagi gago
+P12	Wangoina yasasira Wambwa. Yaaja okuwuga na baana.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+English (Adaptation)	Crocodile and Dog	id=20911
+isiXhosa (Translation)	UNja noXam	id=17573
+Kinyarwanda (Translation)	Ingona n'Imbwa	id=23353
+Kinyarwanda (Adaptation)	Ingona n'Imbwa	id=24310
+Kiswahili (Translation)	Mbwa na mayai ya Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa na mayai ya Mamba	id=18327
+Kiswahili (Translation)	Mamba na Mbwa	id=21151
+Luganda (Translation)	Gonya ne Wambwa	id=22957
+Luganda (Translation)	Wambwa nne Ggoonya	id=24579
+Tigrigna (Translation)	ሓርገፅን ከልብን	id=21178

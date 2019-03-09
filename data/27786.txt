@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=27786&d=0&a=1
+id:	27786
+title:	Nsobola   okukola  kino?
+author:	Kyambogo  University and Paul Wambi
+artist:	Silva Afonso
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27786.png
+desc:	Nolunaku lwa Maliya olusooka okuja kwisomero. Olowooza aidha kukola ki nga nolunaku lwe olusooka.
+
+page_text:
+
+P1	Maliya yasituka  munco  yaalowoozaamu, "Leero n'olunaku  lwange  olusooka  okuja  kwisomero."
+P2	Maliya  yaatandiika  okweralikiriramuuku.
+P3	"Waiswa, ndina  kukola  ki?" Maliya  yaabuuza. "Ndha  kukukobera," Waiswa yaamwiramu.
+P4	Maliya  yaalindiriraku mwine  aidhe   amukobere  ekiiraku.
+P5	Waiswa yaamukoba  okunhaaba mumaiso. Maliya  yaakoba, "nsobola  okunhaaba ate  ekindi?"
+P6	Maliya  yaalindirira  mwine  amukobere  ekiiraku.
+P7	Waiswa  yaamukoba  okusenhia  amainho ge, "nsobola  okusenhia  ate  ekindi?
+P8	Yaamala  okusenhia  yaalindirira  mwine  amukobere  ekiiraku.
+P9	Waiswa  yaakoba  Maliya  ati  atekeirwa  okulya. Maliya yaakoba, "Ndidi okulya ate ekindi?
+P10	Era  yaalya  nga  alindirira  ekiiraku.
+P11	Waiswa  yaamukoba  okuvaala  yunifoomuye, "nsobola  okuvaala. Ate  ekindi?
+P12	Yaabaagho  nga  alindirira  kiiraku.
+P13	Waiswa yaamukoba okugema  ensawo  ye baje  kwisomero. Maliya yaakoba, "nsobola  okugigema ate  ekindi?
+P14	Agho yaasigala  nga  alindirira  ekiiraku.
+P15	Waiswa  yaamukoba, "oteekeerwa  okuja  kwisomero." Maliya  yaamukoba, "nsobola  okuja  kwisomero ate  ekindi?
+P16	Yaasigala  nga  alindirira  kiiraku.
+P17	Waiswa  yaamukoba, "oteekeirwa  okuja  mu kibiina." Maliya yaamwiramu, "nsobola  okuja   mu  kibiina  ate  ekindi?
+P18	Olowooza  kiki   ekyairirira?
+
+images:
+
+illustrations/pages/13814.png
+illustrations/pages/13815.png
+illustrations/pages/13816.png
+illustrations/pages/13819.png
+illustrations/pages/13817.png
+illustrations/pages/13820.png
+illustrations/pages/13821.png
+illustrations/pages/13822.png
+illustrations/pages/13823.png
+illustrations/pages/13824.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+English (Translation)	I Can Do This!	id=14534
+French (Translation)	Je Peux Le Faire!	id=14537
+Kiswahili (Translation)	Naweza kufanya hili!	id=23747
+Lusoga (Translation)	Mpanga okukikola	id=27089
+Portuguese (Original)	Eu Sei Fazer Isso!	id=14417

@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=23650&d=0&a=1
+id:	23650
+title:	KYENVU
+author:	Prisca Anan and Uganda Christian University
+artist:	Sue Kramer
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/23650.png
+desc:	Ebigambo nebiffanani ebya kyenvu mubudde bwa bulinjjo.
+
+page_text:
+
+P1	Ekiwojjolo ekya kyenvu kiri ku musenyu.
+P2	Pippa eya kyenvu eri mu nyumba
+P3	Ndongoyi eya kyenvu eri ku luguudo.
+P4	Ekimmotoka kya kyenvu kiri mu kibuga.
+P5	Bbakuli eya kyenvu eri ku ttaka.
+P6	Ebimuli bya kyenvu biri mu baaketi.
+P7	Akatandaalo kka kyenvu kaali mu luguudo.
+P8	Ekyensuubo ekya kyenvu kiri mu paaka.
+P9	Ennyumba eya kyenvu eri mu koona.
+P10	Afirika eya kyenvu eri ku mutwe gwa nge.
+P11	Ate gwe obeela wa? Mu Afirika.
+
+images:
+
+illustrations/pages/934.png
+illustrations/pages/935.png
+illustrations/pages/936.png
+illustrations/pages/937.png
+illustrations/pages/938.png
+illustrations/pages/939.png
+illustrations/pages/940.png
+illustrations/pages/941.png
+illustrations/pages/942.png
+illustrations/pages/943.png
+illustrations/pages/1259.png
+illustrations/pages/945.png
+
+translations:
+
+English (Original)	Yellow	id=1258
+isiXhosa (Translation)	Umbala omthubi	id=2350
+Kikamba (Translation)	Langi Wa Ilaa Ya Muuti	id=3000
+Lugbarati (Translation)	A’Ugbe A’Ugbea	id=12646
+Lunyole (Translation)	Namagi	id=21101
+Lusoga (Translation)	Kyenvu	id=27168
+Maa (Translation)	Éísikítoi	id=3001
+Ng’aturkana (Translation)	Anyang’Aanut	id=2351
+Oluwanga (Translation)	Eshiengu	id=2352

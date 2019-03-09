@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=30330&d=0&a=1
+id:	30330
+title:	Ab'emikwano  abasatu
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Jesse Breytenbach and Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30330.png
+desc:	Olufumo luno lugemagana ku basaadha abasatu abemikwano einho.
+
+page_text:
+
+P1	Ab'emikwano  abasatu
+P2	Ku  kyalo  matyama,  kwaliku  ab'emikwano   basatu  Yakobo,  Yokaana,ni  Petero.
+P3	Lulala  bbaabba  wa  Petero  yaalwala  omutima.
+P4	Baamutwala  mu  basawo  ab'ekinansi.
+P5	Omusawo  ow'ekinansi  yaakoba  Petero  ati, "Mufumbe  omutima  ogw'omuntu bbaabba wo  agulye  mubisi.
+P6	Agho bbaabba  gha  Petero yaamukoba afune mukwano  gwe amulimbe  amutoolemu  omutima.
+P7	Era  Petero  yaakikola.
+P8	Agho  oluvainhuma, Yokaana  bweyategeera  nga  Petero  naise  Yakobo, yaamucaagha  inho  era  omukwano  gwaibwe  gwafa.
+
+images:
+
+illustrations/pages/8643.png
+illustrations/pages/19775.png
+illustrations/pages/17114.png
+illustrations/pages/11458.png
+illustrations/pages/9085.png
+illustrations/pages/16780.png
+illustrations/pages/19769.png
+illustrations/pages/19777.png
+illustrations/pages/10624.png
+
+translations:
+
+Lusoga (Original)	Abemikwanho  Abasatu	id=29842

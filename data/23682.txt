@@ -1,0 +1,61 @@
+url:	https://africanstorybook.org/reader.php?id=23682&d=0&a=1
+id:	23682
+title:	Singe et crocodile
+author:	ken snow
+artist:	Abraham Muzee
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23682.png
+desc:	couleur dans le livre de contes. Un conte sur le singe le plus intelligent sauvé dêtre mangé par le crocodile le plus intelligent.
+
+page_text:
+
+P1	Crocodile a répondu, "je mange de la
+  viande." elle pensait déjà à attraper Ape et à la manger. elle a demandé
+  à singe, "pouvez-vous nager?"
+P2	Ape a répondu: "Non, non, je ne sais
+  pas nager." crocodile a dit, "laissez-moi vous apprendre à
+  nager." Ape a répondu, "Non, je ne suis pas intéressé
+P3	Puis Ape a eu une idée. Elle a dit au
+  crocodile, "Ne vous inquiétez pas, je donnerai mon coeur
+  pour votre oncle." La viande de singe le guérira. "
+P4	Crocodile a été impressionné. elle a dit: «Vraiment, serais-tu prêt à donner ton cœur à
+  mon oncle? ape a répondu, "oui bien sûr, nous sommes amis!"
+
+images:
+
+illustrations/pages/19154.png
+illustrations/pages/19153.png
+illustrations/pages/19154.png
+illustrations/pages/19159.png
+illustrations/pages/19160.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	(Colour-in) Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kinyarwanda (Adaptation)	Maguge n'Ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kiswahili (Translation)	Ape na  Mamba	id=24043
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Gonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Tiv (Translation)	Ikya man Ambe	id=23886

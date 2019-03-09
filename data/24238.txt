@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=24238&d=0&a=1
+id:	24238
+title:	omuti ogwogera
+author:	Nagimesi Arthur
+artist:	Abraham Muzee
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24238.png
+desc:	Omuti ogwogera gwemuluguniza ewa Kiki olwabantu abaditema.
+
+page_text:
+
+P1	lunaku lulala kiki yatyama wansi w'omuti nga muniivu era nga mwelalikilivu
+P2	Aba akaali awo yawulila eidoboozi nga liva inuma we. yakyusa omutwe gwe yayagaana omuti nga guli kumumweneza. yatuuma mu kutya ni mu kwewuunya.
+P3	Memale omuti gwa tandiika okulila. Kiki yelalikilila era yabuuza omuti lwaki guli kulila. "lwaki oli kulila muti iwe ogwogera? omuti gwa mwira mu. "kubanga abantu batwita nga batutema.
+P4	Kiki yasasira omuti era yagusuubiza ogukuuma n'abekika kyaggwo okuva eri abalabe bagwo.
+P5	Kiki n'omuti ogwogera bafuuka bamikwano. era kiki n'omuti ogwogera basanuka okuba nti bamikwaano.
+P6	kiki ya yandulira omuti ogwogera mukazi we n'abaana be. bafuuka bamikwano ino. mu biseera bye idembe Kiki n'amaakage bamaalanga obwire nga bawaya n'omuti ogwogwera
+P7	Siiga ebifaanani mu lugero
+
+images:
+
+illustrations/pages/15232.png
+illustrations/pages/15237.png
+illustrations/pages/15238.png
+illustrations/pages/15241.png
+illustrations/pages/15242.png
+illustrations/pages/15243.png
+illustrations/pages/15244.png
+
+translations:
+
+Ateso (Translation)	Ekitoi lo ainera	id=23366
+English (Original)	Talking Tree	id=15409
+Luganda (Translation)	OMUTTI OGWOGERA	id=24011
+Runyankore (Translation)	omuti ogukugamba	id=24236

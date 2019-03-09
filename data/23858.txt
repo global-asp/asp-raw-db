@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=23858&d=0&a=1
+id:	23858
+title:	Inima Saa Sha Tar: I ii Un Ga
+author:	Terkule Aorabee
+artist:	Jesse Breytenbach
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23858.png
+desc:	Inima Gbenda
+
+page_text:
+
+P1	Inima Gbenda yav uange ken iyough na. Or mom lu u nengen sha a na ga.
+P2	Tso Inima Gbenda kpe ken iyough.
+P3	Mbawandor a na kaa er,"Inima Gbenda Kpe. Se za or anterev nav ve va ii un."
+P4	Mbawandor a na za kaa mbainyon er,"Ango wen saa ku."
+P5	Mbainyon va. mba nengen yo lu Inima Gbenda. "Kwagh ne ngu ngo vea vese ga."
+P6	"Tsombor wase cii se mba a ingyur. Inima Gbenda ngu a min ga." Mbainyon man yem kera.
+P7	Mba wandor er mhen. Ve rumun a mbainyon. "Inima Gbenda ngu a ingyur ga, ka nongo ve ga."
+P8	Orgen ken a ve kaa er, "Un a lu ngo vea mbaihyev. A bee ve."
+P9	Mbawandor za yila mbaihyev kaa a ve er, "Mon ken tsombor wen kpe."
+P10	Mbaihyev mba va nengen yo lu Inima Gbenda. Ve kaa er, "Nyam ne ka nongo wase ga."
+P11	"Hanmo wase nan ngu a tsa. Inima Gbenda ngu a tsa ga." Mbaihyev kpa yem kera.
+P12	I dzua a tsombor u Inima Gbenda ga. Inima  man saa sha tar. I ii un ga.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+ChiShona (Translation)	Sei Ajao asina kuvigwa	id=22214
+English (Translation)	Why Ajao was not buried	id=16988
+Ga (Translation)	Nɔ Hewɔ ni Anaaa Afũ Ajao	id=25743
+Kiswahili (Translation)	Kwa nini Ajao hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Urhobo (Translation)	O Bọ Isorọ Ewo Je Ajao Esho	id=22514
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

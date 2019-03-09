@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=25010&d=0&a=1
+id:	25010
+title:	Obúso
+author:	Samson Zablon
+artist:	Sue  Beattie
+lang:	Echiziinza
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25010.png
+desc:	Oyeyege obúso bwo omuuntu nkookwo abanywaani baawe balikumenyesa omuchitabo éechi.
+
+page_text:
+
+P1	améeso
+P2	amátwi
+P3	omunwa
+P4	olunyiindo
+P5	echilezu
+P6	améeno
+P7	olulími
+P8	amatama
+P9	olugóhe
+P10	isóke
+
+images:
+
+illustrations/pages/26803.png
+illustrations/pages/26807.png
+illustrations/pages/26808.png
+illustrations/pages/26802.png
+illustrations/pages/26800.png
+illustrations/pages/26801.png
+illustrations/pages/26755.png
+illustrations/pages/26810.png
+illustrations/pages/26809.png
+illustrations/pages/26804.png
+illustrations/pages/26806.png
+
+translations:
+
+Echiziinza (Translation)	Obúso	id=30270
+English (Original)	Face	id=23135
+Ikisimbëtë (Translation)	Ubhusyö	id=30267
+Kiswahili (Translation)	Uso	id=29975
+Lusoga (Translation)	Mumaiso	id=30326
+Lusoga (Translation)	Mu Maiso	id=30345
+Lusoga (Translation)	Mu maiso	id=30407
+Lusoga (Translation)	Mu  maiso	id=30574

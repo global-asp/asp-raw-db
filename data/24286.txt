@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24286&d=0&a=1
+id:	24286
+title:	Ekyika kisemerirwe
+author:	DAPHINE NATUKWASA
+artist:	Vusi Malindi, Wiehan de Jager, Ursula Nafula, Sarah Bouwer, Marike le Roux, Monge Tlaka and Karlien de Villiers
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24286.png
+desc:	Ekyika ekiri kukora hamwe
+
+page_text:
+
+P1	Abaana nibimuka kale kuyabagana okwetereza kuza ahisomero kwenda batakyerererwa.
+P2	Nibatabura hamwe kuza aha ishomero kweda bayabagane kuhakugira owafuna obuvune omumuhada rwabo bakutabura.
+P3	Nibazana hamwe ahakire kokuhumura ho obwe bakukora emikago emirungi.
+P4	Kumwagaruke omuka,muyabe abazire emirimo ya ahaka kweda bamare kale.
+P5	Mubaze musabe rero mubone kurya ebokurya ika ekika kandi mugabire abazire ebwa ahisomero nebwa abasomesa babasomesa.
+P6	Mutebwa kusaba ika ekyika,ahakuba ekyika ekikusaba hamwe, nikiguma hamwe.
+
+images:
+
+illustrations/pages/11451.png
+illustrations/pages/13819.png
+illustrations/pages/7512.png
+illustrations/pages/9192.png
+illustrations/pages/14037.png
+illustrations/pages/13930.png
+illustrations/pages/8853.png
+
+translations:
+
+English (Original)	A happy family	id=24219
+Lusoga (Translation)	Endhu  ensagaalufu	id=24918

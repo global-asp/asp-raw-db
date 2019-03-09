@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=29454&d=0&a=1
+id:	29454
+title:	Empewo
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Marion Drew
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29454.png
+desc:	Olufumo olugemagana ku maanhi agempewo.
+
+page_text:
+
+P1	Empewo eweigana. Ereekaana okuswika ghaka ghaife.
+P2	Empewo y'amaanhi. Esika ka kaiti kange okuva mu mukono gwange.
+P3	Naalumukira kaiti yange. Empewo yaanemeseza okukagema.
+P4	Empewo yaafuuka yaamaanhi inho. Yaafuumuula kaiki yange ghaigulu n'okusingawo.
+P5	Empewo ey'amanhi yanziba n'amaiso nga ezira kyembona, nga ezira kyengemaku.
+P6	Kaiti yange erigha? oba eghagaime mu muti.
+P7	Ndoghooza ekagulukira mwibbanga.
+P8	Empewo yaikaikana. Nkaanoonia.
+P9	Wendekera okunoonia naalingirira ghansi.Kaiti yange yajiire gha?
+P10	Tirikubona kaiti yange ghonaghona.Tiwulira nampewo naire
+P11	Ndoghooza enkyo nhajibona.
+P12	Buti, nteekwa okuja e ghaka nga empewo ekali kwiramu ku bwatuka.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+illustrations/pages/14101.png
+
+translations:
+
+Acholi (Translation)	Yamo	id=21322
+English (Adaptation)	Wind	id=15055
+English (Adaptation)	Salemka'an spends her day with wind	id=24754
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kinyarwanda (Translation)	Umuyaga	id=20857
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo mkali	id=18345
+Lámnsoʼ (Translation)	Shwér	id=22285
+Lusoga (Translation)	Kikunta	id=25773
+Sesotho (South Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Tshivenda (Translation)	Muya	id=14684
+Xitsonga (Translation)	Moya	id=14513

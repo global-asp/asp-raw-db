@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=29015&d=0&a=1
+id:	29015
+title:	Abaisuka ababiri abayala
+author:	Julius Bamwagala and Kyambogo  University
+artist:	Bronwen Heath
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/29015.png
+desc:	Luno lufumo lwa kubala. Balamu obone keeki imeka Kizito ni Musa dhe baatwala ni dhe baalekawo.
+
+page_text:
+
+P1	Musa ni Kizito n'abaisuka ababiri abayala.
+P2	Dhaadha akola bu keeki ikumi. Abutereka ku sowaani.
+P3	Musa atwalaku keeki ndala. Kizito yaatwalaku keeki ibiri.
+P4	Musa atwalaku keeki ina. Kizito yaatwalaku keeki ibiri.
+P5	Musa yalya keeki imeka? Kizito yalya keeki imeka? Dhaadha asigazaawo keeki?
+
+images:
+
+illustrations/pages/1717.png
+illustrations/pages/1717.png
+illustrations/pages/1718.png
+illustrations/pages/1719.png
+illustrations/pages/1720.png
+illustrations/pages/1799.png
+
+translations:
+
+Aringati (Translation)	Ãbị́rị́ Ndẽ Anzị Ị̃rị̃ Kí Rá	id=7528
+Ateso (Translation)	Isap Iyarei Lu Eyarit Etengei	id=2999
+English (Original)	Two hungry boys	id=1800
+Lubukusu (Translation)	Basoleli Babili Be Njala	id=2399
+Luganda (Translation)	Abalenzi Ababiri Abayala	id=2400
+Lugbarati (Translation)	Anzi Iri Abiri Ni Nde Ra `diyi	id=2719
+Lugbarati (Official) (Translation)	Anzɨ Ìrì Àbírí Nɨ́ Fulé Káyɨ̀ 'dɨ̀yɨ	id=8800
+Lumasaaba (Translation)	Basooleli Babili Be Ntsala	id=2401
+Lunyole (Translation)	Abaseere Babiri Abayala	id=2402
+Lusoga (Translation)	Abaisuka ababiri abayala	id=26108

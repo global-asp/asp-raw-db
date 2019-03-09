@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=23168&d=0&a=1
+id:	23168
+title:	okhubala amapusi
+author:	Wabwire trevor
+artist:	Jesse Breytenbach
+lang:	Lusamia
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23168.png
+desc:	Okhubala amapusi
+
+page_text:
+
+P1	Amapusi kangha?  yiwuma amapusi
+P2	Amapus khangha epusi lala
+P3	Ampusi khangha? amapusi kabiili
+P4	Amapusi khanga? Amapusi kadatu
+P5	Amapusi Khanga? Amapusi Kanee
+P6	Amapusi khanga? Amapusi katanu
+P7	Amapusi khanga? Ampusi mukaaga
+P8	Amapusi khanga? amapusi musaanvu
+P9	Amapusi khanga? amapusi munaana
+P10	Sina sino si khubono? aha pusi ha doto hawandire mu musala
+P11	"Mamakhunyala omudongya? Ehabi lalalyongane" Amapusi khanga? Amapusi mwenda
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Dhopadhola (Translation)	kwano pus	id=23214
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusoga (Translation)	Okubala Puusi	id=24824
+Lusoga (Translation)	Okubala puusi	id=27336
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584

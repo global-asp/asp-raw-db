@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=26980&d=0&a=1
+id:	26980
+title:	Mwami Suuta Omulambazi
+author:	Juliet Namugaya
+artist:	Graham Paterson
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26980.png
+desc:	Mwami Suuta ali kunoonhia ekifo ekyokulamballamu ekirungi.
+
+page_text:
+
+P1	Lwali lulala,Mwami Suuta yakyaala.Yakoba: mpulira endoolo! Nhendha olusaga olukalamu lw'okulambala ku.
+P2	Ndimukalamu inho mu kunhinha.Ndhidi okwesuuba. Aye ngonza inho okulambala,kikalamu inho.
+P3	Olusaga luno lukalamu! Ndhuuba ndha kulambala kuno. N'ighe? Tokibona nga kidhuubo kikalamu inho?
+P4	Wo busa,Mwami Suuta! Entwiga eri kuliira gho! aidha kudhuuba ati oli kyamisana era atandiike okulya ebitole by'enviiri dho!
+P5	Luno olusaga lukalamu inho! Ndhuuba ndha kulambala ghano.Ate ighe? Tobona nga ekyo kidhuubo kikalamu inho?
+P6	Eeh mbe,Mwami Suuta! Ghale ghaliwo endhu y'endhuki! Toidha kulambala nga endhuki dhiri buli wantu!
+P7	Olusaga luno lukalamu inho! Ndhuuba ndha kulambala ghano.Ate ighe?Tobona nga ekyo kidhuubo kikalamu?
+P8	Wo mbe,Mwami Suuta, omusota gugule ghale! Tilusaga! Bambi omusota omukaire.Ogukanze inho.
+P9	Olusaga luno lukalamu inho!Ndhuuba nti ndha kulambala ghano.Ate ighe? Tobona nga ekyo kidhuubo kikalamu?
+P10	Wo mbe, Mwami Suuta! Agho ghaliwo ekinooni ekiri kulekaana! Toidha kulambala ni kereere eyo mu mpewo.
+P11	Gezaaku oniinhe ku lusaga olundhi,Mwami Suuta! Bonabona bakoba. Era olusaga lwo n'lwali olutuufu okulambala ku.
+P12	Ekinooni n'omusota,entwiga nabuli ndhuki byali bisagambu inho okuba ni Mwami Suuta kumuti gwabyo.
+
+images:
+
+illustrations/pages/9017.png
+illustrations/pages/9018.png
+illustrations/pages/9019.png
+illustrations/pages/9020.png
+illustrations/pages/9021.png
+illustrations/pages/9022.png
+illustrations/pages/9023.png
+illustrations/pages/9024.png
+illustrations/pages/9025.png
+illustrations/pages/8091.png
+illustrations/pages/9026.png
+illustrations/pages/8099.png
+illustrations/pages/9030.png
+
+translations:
+
+Afrikaans (Translation)	Slaperige Mnr. Luiheid	id=11518
+English (Original)	Sleepy Mr. Sloth	id=9039
+French (Translation)	M. Paresseux Est Fatigué	id=10856
+isiNdebele (Translation)	Mnu. Mbhobo ophethwe buthongo	id=13053

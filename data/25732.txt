@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=25732&d=0&a=1
+id:	25732
+title:	Kitamirike mu katale
+author:	Joseph  Mukwaya and Kyambogo  University
+artist:	Catherine Groenewald, Cathy Feek, Felicity Bell, Melany Pietersen and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25732.png
+desc:	Omulenzi ono aja mu katale omulundigwe ogusooka.
+
+page_text:
+
+P1	Kitamirike ali ghaka.
+P2	Akabaga k'amazaalibwa ga Kitamirike.
+P3	Kitamirike ali ku siteegi ya bbaasi.
+P4	Kitamirike ali mu bbaasi.
+P5	Kitamirike ali mu katale.
+P6	Eeh! Ebibala ebingi.
+P7	Emiyembe egiwooma.
+P8	Aye maama ali gha?
+P9	Njiire kukugulira kirabo kya mazaalibwago.
+P10	Webale inho Maama!
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/6105.png
+illustrations/pages/6061.png
+illustrations/pages/1639.png
+illustrations/pages/6034.png
+illustrations/pages/8572.png
+illustrations/pages/1659.png
+illustrations/pages/6056.png
+illustrations/pages/8576.png
+illustrations/pages/6105.png
+illustrations/pages/6089.png
+
+translations:
+
+English (Original)	Sane in the market	id=6168
+English (Adaptation)	Sherry In the Market	id=13527
+Lunyole (Translation)	Sherry Muhutale	id=13525

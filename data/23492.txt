@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=23492&d=0&a=1
+id:	23492
+title:	ALEKE NAKUNDA ABAGYENYI
+author:	Kwikiriza  Grace
+artist:	Rasheedat Sadiq
+lang:	Rukiga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23492.png
+desc:	Aleke no muhala alikushemelelerwa munonga abagyenyi.
+
+page_text:
+
+P1	Kodi kodi! haliho olikuteeza aharwiji lwomumeisho
+P2	Aleke ashemeleirwe munonga. "Nooha Oliho?" yayomba. "Maama...twine omugyenyi!"
+P3	"Kale," nyina yamugalukamu. "Ogwe ni muka Hassan na omwana we. Beigulile aharwigi"
+P4	Alake yayigula aharwigi na akamwenyo.
+"Kulikayo nyabo, akatebe nkako. Maama naza kukuhikaho omukaanya kakye.
+Muka Hassan yashemelelerwa Alake obwe alikutandika kuzana
+P5	" Toola ahamaizi nyaabo, heine ekindi ekinkakuletela?" Alake yaabuza.
+"Tinyine shonga Alake, webale." Muka Hassan Yagalukamu.
+P6	"Eizooba lirungi muka Hassan," Maama Alake yagamba alikutaaha omu diilo. "Nsasila okukulindisa obwile bulingwa." 
+"Tikineshonga, Alake yatulebelela gye."
+P7	Nyina wa Alake yashemelerwa. "Yeego," yagalukamu. "Alake nomutayayisa mulungi.
+
+images:
+
+illustrations/pages/26908.png
+illustrations/pages/26901.png
+illustrations/pages/26902.png
+illustrations/pages/26903.png
+illustrations/pages/26904.png
+illustrations/pages/26905.png
+illustrations/pages/26906.png
+illustrations/pages/26907.png
+
+translations:
+
+Ateso (Translation)	Emina Alake ipejok	id=23219
+ChiShona (Translation)	Ruvarashe anofarira vayenzi	id=23853
+English (Original)	Alake loves Visitors	id=23165
+English (Adaptation)	Alake loves visitors	id=23465
+Lusoga (Translation)	Alake ayenda abageni	id=23192
+Runyankore (Translation)	Alake nakuunda abagyenyi	id=23991

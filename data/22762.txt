@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=22762&d=0&a=1
+id:	22762
+title:	Bakame yongera gushuka  Nzovu
+author:	Julius  Bazanyamaso
+artist:	Wiehan de Jager
+lang:	Rufumbira
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22762.png
+desc:	Muri iyi nkuru turamenya uko Bakame yiruka chane nuko yabeshyabeshye Nzovu yifashishije agakino kabi chane.
+
+page_text:
+
+P1	Nzovu na Bakame byari nshuti magara.
+P2	Baje kubona urwuri n'amazi by'inyamaswa byabo.
+P3	Bakundaga gukina umupira w'amaguru.
+P4	Nzovu asinda ibitego byinshi kurusha Bakame. Ntibyashimisha Bakame.
+P5	Nuko Bakame abaza Nzovu ati, "Niki kikugira umukinnyi mwiza?" "Amaguru manini yanjye."
+P6	Bakame  na Nzovu barushanywe mu kwiruka. Bakame aratsinda.
+P7	Nzovu yabajije Bakame ati, "N'iki kikugira umwirutsi wihuta chane?" "Utuguru duto twanjye."
+P8	Nzovu arabaza ati, "Ni gute nshobora kubona utuguru duto?"
+P9	Bakame aravuga ati, "Hagarara mumuriro."  Nzovu yarabikoze. Aratabaza agira ati, ''Ndimondashya!''
+P10	Bakame  abwira Nzovu ati, "Ubu ni bwo buryo bwonyine  amaguru yawe ashobora guhindukamo mato."
+P11	Nzovu yavuye mumuriro aryama hasi.
+P12	Mu gihe cy'iminsi myinshi, Nzovu ntabwo yashoboraga guhagarara.
+P13	Amaze gusa n'ukize, asubira imuhira mumulyango wabo.
+P14	Kame yarashavuye. Asaba Nzovu imbabazi.
+
+images:
+
+illustrations/pages/13000.png
+illustrations/pages/13000.png
+illustrations/pages/13001.png
+illustrations/pages/13002.png
+illustrations/pages/13003.png
+illustrations/pages/13004.png
+illustrations/pages/13005.png
+illustrations/pages/13006.png
+illustrations/pages/13007.png
+illustrations/pages/13008.png
+illustrations/pages/13009.png
+illustrations/pages/13010.png
+illustrations/pages/13012.png
+illustrations/pages/13013.png
+illustrations/pages/13014.png
+
+translations:
+
+Amharic (Translation)	ዝሆንን ያታለለችው ጥንቸል	id=21231
+English (Translation)	Hare tricks Elephant, again	id=13093
+Kinyarwanda (Translation)	Bakame Yongeye  Guhenda Ubwenge Nzovu	id=20244
+Kiswahili (Original)	Sungura na Tembo (Tena!)	id=13092
+Kiswahili (Translation)	Sungura amdanganya Tembo	id=18342
+Lusoga (Translation)	Wakayima  asendasenda  wandhovu,  ate	id=26435
+Rukiga (Translation)	Wakame Akabeiha Warujojo	id=17012
+Setswana (Translation)	Mmutla O Tsietsa Tlou Gape	id=14958

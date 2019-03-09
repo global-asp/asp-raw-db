@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=23449&d=0&a=1
+id:	23449
+title:	La'ta
+author:	Siyasa Jimmy
+artist:	Gay Galsworthy
+lang:	Lugbarati (Official)
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/23449.png
+desc:	Ala anyapa azi ovu emupiyi mvupi abu mileni ki. Mini egasi kami ka muyi mvu
+
+page_text:
+
+P1	ewa alu di'yi mu ovu yi mvu.
+P2	Ondere iri muki 'yi mvu
+P3	Odru  iki na azini aria iki su. Iki dria mu 'yi mvu
+P4	Ndiria iki towi azini ezoo iki azia, iki dria mu 'yi mvu ria.
+P5	Odrukudru aziri azini e'bi aro iki 'yi ma alia
+P6	Anyafa rua be korikori aro di'yi ki mu 'yi mvu
+P7	Kami alu di'yi emu 'yi mvu
+P8	A'di ma asi mba muzu drile 'yi mvu zu ni?
+
+images:
+
+illustrations/pages/1315.png
+illustrations/pages/1783.png
+illustrations/pages/1316.png
+illustrations/pages/1317.png
+illustrations/pages/1318.png
+illustrations/pages/1319.png
+illustrations/pages/1320.png
+illustrations/pages/1321.png
+illustrations/pages/1322.png
+
+translations:
+
+Aringati (Translation)	Ãlẽjó Ꞌbã Ãko Lãjó Rĩ	id=6985
+Ateso (Translation)	Aimar	id=9655
+English (Original)	Counting	id=1784
+isiZulu (Translation)	Ukubala	id=8748
+Kakwa (Translation)	Kenda Na Torodi	id=9052
+Luganda (Translation)	Okubala Ebisolo	id=23497
+Luganda (Translation)	Okubala Ensolo	id=23771
+Lugbarati (Translation)	Kalafe Laza	id=2599
+Lugbarati (Official) (Translation)	Kàlàfé Làzà	id=8753
+Lunyole (Translation)	Ohubala	id=1954
+Lusoga (Translation)	Tubala Bazira	id=1955
+Lusoga (Translation)	Okubala	id=25927
+Sepedi (Translation)	Go bala	id=1956
+Sesotho (Lesotho) (Translation)	Ho bala	id=1958
+Setswana (Translation)	Go bala	id=2807
+Talen (Translation)	Kaalog	id=20178

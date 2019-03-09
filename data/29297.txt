@@ -1,0 +1,83 @@
+url:	https://africanstorybook.org/reader.php?id=29297&d=0&a=1
+id:	29297
+title:	Nguge ni Wangoina
+author:	Antony Kisambira and Kyambogo  University
+artist:	Abraham Muzee
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29297.png
+desc:	Kiri ku ngeri Nguge yeyeeteesamu obutaliibwa Wangoina.
+
+page_text:
+
+P1	Nguge yayagaana Wangoina ku nhandha.
+P2	''Oba gha?'' Nguge yeebuuza. 
+
+''Mu nhanda,'' Wangoina yairamu.
+P3	''Oba gha? Wangoina abuuza. 
+
+''Mu miti,'' Nguge yairamu.
+P4	''Osobola okwewuga?'' Wangoinha abuuza.
+P5	''Ti sobola kwewuga,''Nguge akoba. 
+''Nsobola okusomesa.'' Wangoina yairamu
+P6	''Tuli bakagwa. Toba na kutya,'' Wangoinha akoba.
+P7	''Nguge, dhaadha muke owa maama mulwaire. Ayendha mamba,'' Wangoina akoba.
+P8	Nguge atiire inho. Wangoina anaamulya?
+P9	Nguge ayenda kubula ku Wangoina.
+P10	Nguge ali kuloghooza.
+P11	''Nd'ha kukuwa omutima gwanga kululwe,'' Nguge asubiza.
+P12	''Omutima gwange guli mu muti ku bukalu,'' Nguge akoba.
+P13	''Oidha kunona omutima gwo?'' Wangoina abuuza. ''Iyi,'' Nguge akoba.
+P14	Wangoina yewuuga okwira yo ku bukalu. Nguge alumukira ku muti.
+P15	''Toli mukagwa ghange. Wannhimbye!'' Wangoina akoba.
+P16	''Tituli bakagwa. Oyendha kundya!'' Nguge akoba.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	(Colour-in) Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende N'ingona	id=20223
+Kinyarwanda (Adaptation)	Maguge n'Ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kiswahili (Translation)	Ape na  Mamba	id=24043
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Gonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Tiv (Translation)	Ikya man Ambe	id=23886

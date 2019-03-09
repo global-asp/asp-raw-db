@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=23241&d=0&a=1
+id:	23241
+title:	okubaara enjaangu
+author:	Rhoda Nakawooza
+artist:	Jesse Breytenbach
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23241.png
+desc:	Kubaara ekitabo kutandikira aha noti kuhitsya aha mwenda.
+
+page_text:
+
+P1	Ne enzaangu zingahi? tiharuho enzaangu.
+P2	Ne nzaangu zingahi?  Ne nzaangu emwe. Enzaangu eri kwiragura nerya enyama.
+P3	Ne enzaangu zingahi? Ne nzaangu ebiri. Enzaangu eziri kwera nana eziri kweramu. Enzaangu eziri kwera nana eziri kweramu ni  zizanira omu bimuri.
+P4	Ne nzaangu zingahi? Ne enzaangu ishatu. Enzaangu eziri kweramu, nana ezi tonatonire. Nizizanira aha kisika ziri kuzana ahiguru nahansi.
+P5	Ne enzaangu zingahi? Ne enzaangu ina. Enzaangu ina ninyani za Paul.
+P6	Ne enzaangu zingahi? Ne enzaangu itano. Enzaangu itano ni zizanira omu ibanga.
+P7	Ne enzaangu zingahi? Ne enzaangu mukaga. Enzaangu mukaga ni zi shutama hamwe zireeba filimu.
+P8	Ne enzaangu zingahi? Ne enzaangu mushanju. Enzaangu mushanju ni zi zanira omu mbuga.
+P9	Ne enzaangu zingahi ne enzaangu munana. Enzaangu munana tiziri kwenda embwa.
+P10	Niki eki turi kureeba? Akaana ke enzaangu kakwatira omu muti. "Ninza kukuyamba!" Paul akagamba.
+P11	"Maama, tugumeho nayo? kale emwe yonka."Ne enzaangu zingahi? Enzaangu mwenda ni nyinji. maama akagamba.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Amharic (Translation)	ድመቶችን እንቁጠር	id=13124
+Arabic (Translation)	عدد القطط	id=19919
+English (Adaptation)	Counting cats	id=12693
+isiXhosa (Translation)	Bala iikati	id=15023
+Lunyole (Translation)	Ohubala Epuusi	id=13559
+Lusoga (Translation)	Okubala  puusi	id=25922
+Portuguese (Translation)	Contar Gatos	id=16196
+Tunisian (Translation)	Ħasbēn L-Qṭāṭes	id=15384

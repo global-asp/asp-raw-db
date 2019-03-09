@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=22996&d=0&a=1
+id:	22996
+title:	Body
+author:	Little Zebra Books
+artist:	Sue  Beattie
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22996.png
+desc:	Learn the parts of the body with the help of some whimsically illustrated friends.
+
+page_text:
+
+P1	Feet
+P2	Legs
+P3	Knees
+P4	Waist
+P5	Belly
+P6	Chest
+P7	Hands
+P8	Arms
+P9	Elbows
+P10	Head
+
+images:
+
+illustrations/pages/26739.png
+illustrations/pages/26749.png
+illustrations/pages/26744.png
+illustrations/pages/26741.png
+illustrations/pages/26747.png
+illustrations/pages/26740.png
+illustrations/pages/26748.png
+illustrations/pages/26742.png
+illustrations/pages/26745.png
+illustrations/pages/26746.png
+illustrations/pages/26743.png
+
+translations:
+
+Echiziinza (Translation)	Omubili	id=31283
+Ikisimbëtë (Translation)	Ömöbhërë	id=31284
+Kiswahili (Translation)	Mwili	id=31282
+Lusoga (Translation)	Omubiri	id=26061
+Swahili (Translation)	Mwili	id=24770

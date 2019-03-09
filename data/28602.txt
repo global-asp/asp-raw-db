@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=28602&d=0&a=1
+id:	28602
+title:	Abagonzania ababiri
+author:	Antony Kisambira and Kyambogo  University
+artist:	Wiehan de Jager and Jemma Kahn
+lang:	Lusoga
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28602.png
+desc:	Abagonzania ababiri. Nnendha muwomerwe olughayo luno.
+
+page_text:
+
+P1	Mwami seepiki ni Mwami nsuwa baali bakagwa balungi inho.Baali mwisanhu okumala emyeeka miingi.
+P2	Lwaali lunaku lulala, Mwami Seepiki yaakoba Mwami Nsuwa bagye bakyalireku mukagwa waibwa Mwami Sowaanhi.
+P3	Mwami Nsuwa yaakoba"Tisobola kutambula, ndhi munafu,bwantambula nfa.''
+P4	Mwami Seepiki yalimbalimba Mwami Nsuwa era kunkomerero yaikiriza okuja.
+P5	Mukuja, Mwami Seepiki yatyereera era yaagwa ku Mwami Nsuwa era yaameneka bukutukutu.
+
+images:
+
+illustrations/pages/5514.png
+illustrations/pages/5514.png
+illustrations/pages/5525.png
+
+translations:
+
+Acholi (Translation)	Lurem Aryo Matek	id=21330
+English (Original)	Two Good Friends	id=5566
+isiNdebele (Translation)	Abangani Abakhulu Ababili	id=11109

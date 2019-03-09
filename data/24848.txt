@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=24848&d=0&a=1
+id:	24848
+title:	Abemikwano abasatu
+author:	Charles Eramaga and Kyambogo  University
+artist:	Marleen Visser
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24848.png
+desc:	Ebingi nebitono bigha singa okwesonigha ku bawo.
+
+page_text:
+
+P1	Embuzi,embwa n'ente dhe pakira mu motoka okuja mulugendo.
+P2	Ab'emikwano  batuuka okuvaamu baayemereza motoka. Omuvuzi yaabasaba sente.
+P3	Wambuzi, Wante ni Wambwa baasasula empiiya nningi kudhija mu lugendo.
+P4	Abemikwano abasatu baasaba balansi nga  omuvuzi abawa ontonioli.
+P5	Wa nte,wambwa batandiika okubinga emotoka. Wambwa bwamweta ati iwe,iwe,iwe.
+P6	Wambwa yayongeramu emisinde bwabukira kwidinisa nga agezaku omwemereza.
+P7	Omuvuzi yayongeramu endiima. Supidi enhingi yaletera abemikwano okulaluka.
+P8	Wante kyamuletera okusala olugudo era yakola akabendhe.
+
+images:
+
+illustrations/pages/6372.png
+illustrations/pages/6372.png
+illustrations/pages/6373.png
+illustrations/pages/6374.png
+illustrations/pages/6375.png
+illustrations/pages/6376.png
+illustrations/pages/6377.png
+illustrations/pages/6378.png
+illustrations/pages/6379.png
+
+translations:
+
+Amharic (Translation)	ፍየል፣ ዉሻና ላም	id=22365
+English (Original)	Goat, Dog And Cow	id=9878
+Lusoga (Translation)	Embuzi, Embwa  ni  Ente	id=30285
+Spanish (Translation)	La cabra, el perro y la vaca	id=24803

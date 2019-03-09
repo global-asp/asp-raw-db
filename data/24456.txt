@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=24456&d=0&a=1
+id:	24456
+title:	Olugendo Lwange olwasoka E Kampala
+author:	joel gasta
+artist:	Catherine Groenewald and Wiehan de Jager
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24456.png
+desc:	Omwana ayagenda kulugendo E Kampala nga alambula ebintu ebyenjawulo.
+
+page_text:
+
+P1	Wotambula mu Kampala, kiki kyo laba? Amaduka agatunda engoye, ku ngudo eziliko enzigota.
+P2	Wonabira e Nakivuubo, kiki kyo laba? Akatale ko Owino, parka ya taxi, abana bwebazanyira, petro stationi, arcade ya mukwano.
+P3	Wovuga mu Kampala, kiki kyolaba? Ebizimbe ebiwanvu, emotoka nyinji ezenjwawulo.
+P4	Enimi mu Kampala, kiki kyowulila? Oluganda, Oluswahili Olungereza, Olunyankole, zona zogelwa.
+P5	Ekyenkya e Kampala, Kki kyo laba? Menvu, kyai mukalu, kyai wa mata, no busera.
+P6	Olugendo e Kampala, oyagala oku dayo?
+
+images:
+
+illustrations/pages/9466.png
+illustrations/pages/9470.png
+illustrations/pages/8630.png
+illustrations/pages/9477.png
+illustrations/pages/10048.png
+illustrations/pages/9844.png
+illustrations/pages/10085.png
+
+translations:
+
+English (Original)	A Trip to Zanzibar	id=7263
+English (Adaptation)	My First  Trip to  Kampala	id=10164
+Kinyarwanda (Uganda) (Translation)	Urugyendo Muri Zanzibar	id=20607
+Lusoga (Translation)	Entambula yange ebuzanziba	id=25380
+Lusoga (Translation)	Olugendo lw'e Zanzibari	id=25381

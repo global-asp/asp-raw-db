@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=23135&d=0&a=1
+id:	23135
+title:	Face
+author:	Little Zebra Books
+artist:	Sue  Beattie
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23135.png
+desc:	Learn the parts of the face
+
+page_text:
+
+P1	Eyes
+P2	Ears
+P3	Mouth
+P4	Nose
+P5	Chin
+P6	Teeth
+P7	Tongue
+P8	Cheeks
+P9	Eyebrows
+P10	Hair
+
+images:
+
+illustrations/pages/26803.png
+illustrations/pages/26807.png
+illustrations/pages/26808.png
+illustrations/pages/26802.png
+illustrations/pages/26800.png
+illustrations/pages/26801.png
+illustrations/pages/26755.png
+illustrations/pages/26810.png
+illustrations/pages/26809.png
+illustrations/pages/26804.png
+illustrations/pages/26806.png
+
+translations:
+
+Echiziinza (Translation)	Obúso	id=25010
+Echiziinza (Translation)	Obúso	id=30270
+Ikisimbëtë (Translation)	Ubhusyö	id=30267
+Kiswahili (Translation)	Uso	id=29975
+Lusoga (Translation)	Mumaiso	id=30326
+Lusoga (Translation)	Mu Maiso	id=30345
+Lusoga (Translation)	Mu maiso	id=30407
+Lusoga (Translation)	Mu  maiso	id=30574

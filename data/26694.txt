@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=26694&d=0&a=1
+id:	26694
+title:	Ntaamu langi
+author:	Kyambogo  University and Paul Wambi
+artist:	Silva Afonso
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26694.png
+desc:	Nnhendha kusiiga langi eyendhawulo ku kalaamu.
+
+page_text:
+
+P1	Ndi kumyula n'ebimyula.
+P2	Nsiiga kalaamu dhange n'ebimyula.
+P3	Nsiiga saati n'ekalaamu ya kiragala.
+P4	Nsiiga enhaanha ni kalaamu eyakasaayi.
+P5	Nsiiga engoye n'erangi kamaala.
+P6	Nsiigamu edha kathungwa n'ekalaamu eya kathungwa.
+P7	Nsiiga manviiri n'ekalaamu ya kyenvu.
+P8	Nsiigira mukasana n'ekalaamu ya kyenvu.
+P9	Nsiiga waikere n'ekalaamu ya kyenvu omudhuluufu..
+P10	Nsiiga olulenga n'ekalaamu eya kiragala.
+P11	Nsiiga nhumba n'ekalaamu ya kiragala, n'endhirugavu.
+P12	Nsiiga obwire ghaigulu n'ekalaamu eya bbululu.
+P13	Nsiiga bimuli n'ekalaamu eya kasaayi.
+P14	Nsiiga ebimuli n'ekalaamu eya pinki.
+P15	Nsiiga ekiibo n'ekalaamu eya kiragala.
+P16	Nsiiga epuusi n'ekalaamu endhirugavu.
+P17	Nsiiga ngaito n'ekalaamu ya kyenvu.
+P18	Nsiiga bendera ya mozambikwe ni langi kamaala.
+P19	Nsiiga langi nga nkozesa kalaamu ya matamata.
+P20	Nsiiga omupiira n'ekalaamu eya kasaayi.
+P21	Nsiiga langi nga nkozesa kalaamu yakisandhasandha.
+
+images:
+
+illustrations/pages/13669.png
+illustrations/pages/13670.png
+illustrations/pages/13671.png
+illustrations/pages/13672.png
+illustrations/pages/13673.png
+illustrations/pages/13674.png
+illustrations/pages/13675.png
+illustrations/pages/13676.png
+illustrations/pages/13677.png
+illustrations/pages/13678.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Ciyawo (Adaptation)	Wune Ngupeta	id=15772
+English (Translation)	I Colour In	id=14514
+French (Translation)	Je Peins	id=14536
+Portuguese (Original)	Eu Pinto	id=14012

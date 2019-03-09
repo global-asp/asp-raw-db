@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=23422&d=0&a=1
+id:	23422
+title:	Enkima ne Empisi
+author:	Simon Bukenya
+artist:	Salim Kasamba
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23422.png
+desc:	Ani anagonjoola obutakaanya wakati wEnkima ne Empisi?
+
+page_text:
+
+P1	Enkima ne Empisi baalina obutakaanya. Baagenda ewomulamuzi.
+P2	Omulamuzi yalowooza,"Enkima eja kulya kasooli wange. Empisi ente zange.
+P3	Omulamuzi naagamba Enkima ne Empisi okubuuza ku bakulu bekyalo.
+P4	Abakulu nabo baatya okulamula Enkima ne Empisi
+P5	Abakulu baagamba Enkima ne Empisi nti, "Omusango muzibu nyo."
+P6	Nebagamba Enkima ne Episi okubuuza omukazi omwaavu.
+P7	Omukazi omwaavu yakiliza okulamula omusango gwaabwe.
+P8	Yagamba Empisi, "Oliwakitiibwa, munene ate omuzira."
+P9	Empisi negamba, "Olimutuufu. Nja kukomya obutakaanya buno."
+P10	"Enkima, olimugezi nyo okuyomba,"nayogera. Enkima nekiriza!
+P11	Omukazi nagamba, "mwena mukiliza okulekela awo okuyomba. Musonyiwagane."
+P12	Omukazi omwaavu yagonjoola ekizibu.
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18696.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18708.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18706.png
+illustrations/pages/18707.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+Afaan Oromo (Adaptation)	Waraabessaafi Qamale	id=21771
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	(Colour-in) Hyena and Monkey	id=20157
+English (Adaptation)	Monkey and Hyena	id=21395
+Kiswahili (Translation)	Kima na Fisi	id=21841
+Kiswahili (Translation)	Mzozo wa Fisi na Kima	id=22061
+Lámnsoʼ (Translation)	Kán wùn Kuúrá	id=22414
+Luganda (Translation)	Wakibe ne Wankima	id=23510
+Lusoga (Translation)	Wampiti ni Wankembo	id=24897
+Oluwanga (Translation)	Ishima nende Ifisi	id=22819
+Rufumbira (Translation)	Igisamagwe ni Inkende	id=23440
+Runyankore (Translation)	Empisi ne Ekyende	id=24280
+Tiv (Translation)	Dwem man Bagu	id=23878

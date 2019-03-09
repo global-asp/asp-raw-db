@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=29799&d=0&a=1
+id:	29799
+title:	Okufiirwa maama ghange
+author:	Antony Kisambira and Kyambogo  University
+artist:	Melany Pietersen and Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29799.png
+desc:	Maama ghange bweyafa
+
+page_text:
+
+P1	Yansitula okumala emyezi mwendha.
+P2	Yandhegesa okulima.
+P3	Yambulirira buli bwenakyaamanga.
+P4	Buli igulo twatambulangamuku naye.
+P5	Yagezangakuinho okumbwiika buli bwiire.
+P6	Yandhikiriza okusalawo bulikyenayendhanga.
+P7	Tilyerabira kugonzakwe mubulamu bwange.
+
+images:
+
+illustrations/pages/17356.png
+illustrations/pages/15011.png
+illustrations/pages/14113.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9501.png
+illustrations/pages/9497.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Original)	Losing my mother	id=24580

@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=26766&d=0&a=1
+id:	26766
+title:	Omuti omunaazi
+author:	Kyambogo  University and Robert Kirunda
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26766.png
+desc:	Omuntu omukulu owe tulukana yatusomesa ku makulu ge emiti egye eminaazi.
+
+page_text:
+
+P1	leka mbakobere ku omunaazi
+P2	Guno omuti nga bulikimu kikalu.
+P3	Ekiwolereze kyo omuti omunaazi guba bulikasera nga mwinhogovu.
+P4	Tu lya ekibala okuva ku muti.
+P5	Tu kozese amakulu go omnaazi okusereka endhu daife.
+P6	Tu kozesa ensigo edho omuti omnaazi nga amafuta.
+P7	Tu kozesa ensigo edho omunaazi nga amafuuta.
+P8	Omukaire okuva e turkana atwegeresa emigaso egye emiti e minaazi.
+
+images:
+
+illustrations/pages/9607.png
+illustrations/pages/9604.png
+illustrations/pages/9605.png
+illustrations/pages/9606.png
+illustrations/pages/9607.png
+illustrations/pages/9608.png
+illustrations/pages/9609.png
+illustrations/pages/9610.png
+illustrations/pages/9611.png
+
+translations:
+
+English (Translation)	Palm tree	id=13626
+Kiswahili (Translation)	Umuhimu wa Mtende	id=15864
+Kiswahili (Adaptation)	Mtende	id=19363
+Kiswahili (Adaptation)	Mtende	id=19364
+Luganda (Adaptation)	Ebinazzi Birungi	id=22944
+Lusoga (Translation)	Omuti gwo omunaazi	id=25629
+Ng’aturkana (Original)	Eking’Ol	id=13625
+TjiKalanga (Translation)	Nti Wemalala	id=21681

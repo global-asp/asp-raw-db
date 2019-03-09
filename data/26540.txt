@@ -1,0 +1,84 @@
+url:	https://africanstorybook.org/reader.php?id=26540&d=0&a=1
+id:	26540
+title:	Omupiira gwange ogwa kasaayi
+author:	Enocha Tasingika and Kyambogo  University
+artist:	Marion Drew
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26540.png
+desc:	Omupiira gwa kasaayi omubba guja mu lugendo.
+
+page_text:
+
+P1	Mupiira.
+P2	Omupiira gwange.
+P3	Omupiira gwange ogwa kasaayi.
+P4	Omupiira gwange omubba ogwa kasaayi.
+P5	Nsambba.
+P6	Nsambba omupiira gwange.
+P7	Nsambba omupiira gwange ogwa kasaayi.
+P8	Nsambba inho omupiira gwange ogwa kasaayi.
+P9	Gha?
+P10	Omupiira gwange guli gha?
+P11	Omupiira gwange guligha buti?
+P12	Omupiira gwange ogwa kasaayi guligha buti?
+P13	Guli ghaigulu.
+P14	Gwe ruupiise ghaigulu.
+P15	Gwe ruupiise mu ibbanga.
+P16	Guli ghigulu mu ibbanga. Guli ku mwezi. Gu giire!
+
+images:
+
+illustrations/pages/10779.png
+illustrations/pages/10777.png
+illustrations/pages/10778.png
+illustrations/pages/10779.png
+illustrations/pages/10780.png
+illustrations/pages/10781.png
+illustrations/pages/10782.png
+illustrations/pages/10783.png
+illustrations/pages/10784.png
+illustrations/pages/10785.png
+illustrations/pages/10786.png
+illustrations/pages/10787.png
+illustrations/pages/10788.png
+illustrations/pages/10789.png
+illustrations/pages/10790.png
+illustrations/pages/10792.png
+illustrations/pages/10793.png
+
+translations:
+
+Afrikaans (Translation)	My rooi bal	id=20085
+Amharic (Translation)	የኔ ትልቁ ኳስ	id=16454
+Amharic (Translation)	ቀይዋ ኳሴ	id=16463
+ChiTonga (Translation)	Bbola Yangu Iisubila	id=18628
+CiNyanja (Translation)	Bola Yanga Yofuwila	id=18608
+Ciyawo (Translation)	Mpila Wangu Wecejewu	id=15157
+Ciyawo (Translation)	Mpila Wangu Wecejewu	id=15159
+Ciyawo (Translation)	Mpila Wangu Wecejewu	id=15160
+Dholuo (Translation)	Mpira Na Marakwar	id=15201
+Egyptian (Translation)	كورتي الحمرا	id=21866
+Egyptian (Latin) (Translation)	Korti el Ħämrä	id=21864
+Ekegusii (Translation)	Omopir' One	id=15094
+English (Translation)	My red ball	id=13308
+Fante (Adaptation)	Mo Bɔɔl Kɔkɔɔ No	id=18815
+Gikuyu (Translation)	Mu͂bi͂ra Wakwa Mu͂nene Mu͂tune	id=15607
+IciBemba (Translation)	Umupila Wandi Uwakashika	id=18573
+isiNdebele (Translation)	Ibholo yami ebovu	id=21941
+isiXhosa (Translation)	Ibhola yam ebomvu	id=14121
+isiZulu (Translation)	Ibhola lami elibomvu	id=13536
+Kiswahili (Translation)	Mpira wangu Mwekundu	id=16088
+Lunyole (Translation)	Omupiira Gwange Omulando	id=13701
+Portuguese (Translation)	A Minha Bola Vermelha	id=17616
+Sepedi (Translation)	Kgwele ya ka ye hubedu	id=18003
+Sesotho (Lesotho) (Original)	Bolo eaka e khubelu	id=13307
+Sesotho (South Africa) (Translation)	Bolo ya ka e kgubedu	id=14511
+Setswana (Translation)	Kgwele ya me e e khibidu	id=13975
+SiLozi (Translation)	Mbola Yaka Yefubelu	id=18557
+Siswati (Translation)	Libhola lami lelibovu	id=21736
+Tshivenda (Translation)	Bola Yanga Tswuku	id=14774
+Tunisian (Translation)	Kùrti Il-Ħamra	id=15151
+Xitsonga (Translation)	Bolo Ya Mina Yo Tshuka	id=14519
+Yoruba (Translation)	Bóòlù Mi Tí Ó Púpa	id=14966

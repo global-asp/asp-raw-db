@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=29733&d=0&a=1
+id:	29733
+title:	Okubingagana
+author:	Julius Bamwagala and Kyambogo  University
+artist:	Masika Grace and Sara Saunders
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29733.png
+desc:	Epusi eyenda okugema empube. Aye omuntu owundi ayenda kugema pusi ani anagema ani.
+
+page_text:
+
+P1	Agho olwatuka ghaliiwo epusi nenpube. epusi yabinga empube empube yegisa mwibale.
+P2	Epusi yanonia empube aye epusi yabona embwa. embwa yabinga epusi. epusi yegisa munsiko.
+P3	Embwa yanonia pusi aye embwa yabona empologoma enene.empologoma yabinga embwa. embwa yalumukira munsiko.
+P4	Empologoma yanonia embwa. Aye empologoma yabona endovu enene enkambwe.Empologoma yalumukira mu nsiko.
+P5	Akagero kakomye agho
+
+images:
+
+illustrations/pages/11680.png
+illustrations/pages/11681.png
+illustrations/pages/11680.png
+illustrations/pages/11682.png
+illustrations/pages/11683.png
+
+translations:
+
+English (Original)	The Chase	id=11684

@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=24269&d=0&a=1
+id:	24269
+title:	Maria apese nne semero
+author:	oseku john
+artist:	Rob Owen, Silva Afonso, Vusi Malindi, José Jochicala, Salim Kasamba and Silva Afonso and Vusi Malindi
+lang:	Ateso
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24269.png
+desc:	Erai estore nna apese nebakai maria nne liling osomai nnoi.
+
+page_text:
+
+P1	Ekwekyunene maria tapruchu aiswag ikelai, onapakini euniform, omatari echayi keda alositte osomero.
+P2	Kosomero, empyeyi maria akilasi keda ike papero. oputari aike bawo olayi.
+P3	Akilasi ah maria nna. ake mwalimu ngesi Mrs Marion. elayette epokesho ngesi emina maria nnoi.
+P4	Maria nges akilasi monitor. Nges eyagunnene etabon anyoun ko offisi nne jasi iduwe aishom.
+P5	Erai esawa nna aimat echayi. Maria keda ike papero enjasi oisawe ebulyaitte emupira. Ejok abulya gin akuan ituet.
+P6	Erai kwani esawa ni nyamat. Maria keda ike paperi opotu obongosi ore. Ore Maria egaranikini akewuryat eboro nwo togo.
+P7	Ko ore, Maria keda ike itunga eboyette oh diro onyamette inyamat edautu ailip keda akes mojong
+P8	Emina Maria aitila etogo keda ailot asanin nwa lunch. Emina Maria atte esomai keda amanin awanyun ebe elai efibiro keda ebe emamette inchuch.
+P9	Maria keda onakye kke etinyamette akes aituk keda inyamat nwe peritos. Esomaitte kes nnu emamei imbore esomaite kesi
+P10	Erai kwani kware, gin tuwan epasit osuti bala ekotosi kesi ajjo. Maria keda onaki ejasi agola kes oyapyeitte ajjo.
+
+images:
+
+illustrations/pages/14034.png
+illustrations/pages/13815.png
+illustrations/pages/14058.png
+illustrations/pages/14021.png
+illustrations/pages/14017.png
+illustrations/pages/14062.png
+illustrations/pages/13855.png
+illustrations/pages/13927.png
+illustrations/pages/14043.png
+illustrations/pages/14037.png
+illustrations/pages/10444.png
+
+translations:
+
+English (Original)	Mary a School Girl	id=14166
+Luganda (Translation)	Maria akawala ke somero	id=23284
+Lusoga (Translation)	Maliya omughala omusomi	id=25940
+Ng’aturkana (Adaptation)	Ikoku Na Esukul	id=18137

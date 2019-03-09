@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=27942&d=0&a=1
+id:	27942
+title:	Niye  yabona  Embiidhi  ye
+author:	Kyambogo  University and Robert Kirunda
+artist:	Marion Drew
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27942.png
+desc:	Embiidhi ya Niye yamufaaku mu kabendhe. Kiki ekyeiraku?
+
+page_text:
+
+P1	Niye  yavuga  embiidhi  ye  ku  kagaali.
+P2	Yabanda  eibaale  mu  luguudho.  Embiidi  yaagwa ghansi. Yaalira  eti,  "Hooeeee, hooooeeee!"
+P3	Tito yajaagaana. Yaakoba  ati,  "iweeee,  embiidhi  eno  yaanhi?
+P4	Tito  yaagibinga  okutuusa  bwe  yagigema.
+P5	Yatwala  embiidhi  ye  kyabazinga.  Kyabazinga yaamukoba  ajaaye.
+P6	Niye  yali  ali kubitagho. yawulira  embiidhi  nga  eri kulira   eti,  Hmmmm,hmmmmm,hmmmm!"
+P7	Yaajaayo. Yali  musanhufu  okubona embiidhi  ye.
+P8	Niye  yaakoba  embiidhi  ye ati, "idha!  idha  tuje  eka. tituja  kwiramu   kuvuga  gaali."
+
+images:
+
+illustrations/pages/15918.png
+illustrations/pages/15916.png
+illustrations/pages/15917.png
+illustrations/pages/15918.png
+illustrations/pages/15920.png
+illustrations/pages/15919.png
+illustrations/pages/15921.png
+illustrations/pages/15923.png
+illustrations/pages/15924.png
+
+translations:
+
+English (Translation)	Neo finds her pig	id=15972
+Lusoga (Translation)	Naira ayagaana embiidhiye	id=28279
+Sesotho (Lesotho) (Original)	Neo A Fumana Fariki Ea Hae	id=15970

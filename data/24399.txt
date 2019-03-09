@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24399&d=0&a=1
+id:	24399
+title:	Oburamu bwo'mwischi
+author:	Akankwasa Jacky
+artist:	Melany Pietersen, Wiehan de Jager, Vusi Malindi and Kathy Arbuckle
+lang:	Rukiga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24399.png
+desc:	Omwishchi nayamba nyinna emirimu yomuka
+
+page_text:
+
+P1	Abischi nibakora emirimo omuka  aboshjo bo baschitami.
+P2	Nibataha' amizzi, nibasyaba enku aboshjo bakushamba omupira.
+P3	Nibatekkera amaka gona,bayozya ebintu nanokugabura ebyokurya.
+P4	Nibayiyerera aheru, bwozya emyenda nanokureba  omuka nihatukura.
+P5	Nibaza'omundimiro okuyamba banyinambo okuhinga.
+P6	Abischchi abamwe nibabazibira okushoma.
+
+images:
+
+illustrations/pages/7518.png
+illustrations/pages/1307.png
+illustrations/pages/1197.png
+illustrations/pages/10766.png
+illustrations/pages/9485.png
+illustrations/pages/19455.png
+illustrations/pages/8025.png
+
+translations:
+
+English (Original)	The life of a girl	id=24387
+Lusoga (Translation)	Obulamu obw'omuguna	id=25216

@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=24051&d=0&a=1
+id:	24051
+title:	Omuwala Ayitibwa Noorah
+author:	Achileos  Kijjambu and Uganda Christian University
+artist:	Melany Pietersen
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24051.png
+desc:	Noorah ayagala dole ye
+
+page_text:
+
+P1	Ono ye muwala ayitibwa Noorah ate selah lyelinya lya dole ye
+P2	Noorah ayagala nyo dole ye. Noorah azzanya ne dole ye Bulirunaku. Noorah yebaka ne dole ye bulikiilo.
+P3	Olunaku lumu, Noorah yali talaba dole ye. Yanonya buliwamu, naye nga talaba Selah. Noorah yali mwelalikirivu.
+P4	Noorah teyakimanya nti mamawe yali atute selah kwozebwa.yayanikadole ebweru ekale.
+P5	"Silaba dole yange,"Noorah yakaba."tewelalikirila,"maama nayogela.
+P6	Akawungezi ako,maama  wa Noorah yawa Noorah dole ye.Dole yali etukula.Selah yali atunula nga dole empya
+P7	Noorah yali musanyufu nyoo.Nabukabukaa.Nazinaa.Nasekela wagulu nyoo.
+P8	Neyabaza maama we.
+
+images:
+
+illustrations/pages/9482.png
+illustrations/pages/9482.png
+illustrations/pages/9483.png
+illustrations/pages/9481.png
+illustrations/pages/9485.png
+illustrations/pages/9489.png
+illustrations/pages/9486.png
+illustrations/pages/9487.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Translation)	Girl Called Norah	id=9797
+English (Adaptation)	This is Norah	id=16120
+French (Translation)	La Fille Du Nom De Norah	id=10762
+Luganda (Original)	Omuwala Norah	id=9795
+Lusoga (Translation)	Omughala gwebeeta Noola	id=25901
+Rutooro (Translation)	omwisiki owubakweta Nora	id=22917

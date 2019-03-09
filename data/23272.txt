@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=23272&d=0&a=1
+id:	23272
+title:	Fana na na matungo ge
+author:	musiimenta Racheal
+artist:	Jesse Breytenbach
+lang:	Runyankore
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23272.png
+desc:	Fana loves animals. She spends time with them
+
+page_text:
+
+P1	Fana hamwe na eka ye nibatura omuri Debre Birhan, ekyibuga kyijjabirile omuri ethiopia. Fana aine omutima murungi kandi nomugyezi.
+P2	Fana nakunda amatungo. Aine kappa, enkoko eibiri, embuzi hamwe nekyinyonyi. Namara obwire na matugo aga, nagalisya, kandi nazana nago.
+P3	Eizooba rimwe, Fana akaba nazanira omwihema na banyani be,kuyarebire abaana nibarekyera amabare aha kyinyonyi, yababuza ati, "ahabwakyi nababonabonesa ekyinyonyi?" akebuza.
+P4	Akareka okuzana rero yiruka ahabaana ababire ni barekyera amabare.
+
+Ahakubaza banuani be tibaretegyerize ekyabire nikyigyenda omumisho, baheza bamukurata." murekyeraho okurekyera amaabare," Fana akayoba.
+P5	Fana akakwata ebinyamishwa bibiri ebyahutara. yareba obuhuta ahamapaapa gabyo. Yasharamu kubitwara omuka kubileberera.
+P6	Akabirisa. omwihagwe yagambire eka ye ekyiyarebire na nekyiyakozire eizooba edyo, nanokuyakyirize ebinyonyi ebyo.
+P7	Omukasheshe Fana na neka ye bagyenda omwirwariro bafunayo omubazi gwe binyonyi.
+
+Ahanyima yebiro bikye, obuhuta bwebinyonyi bwakyira. Fana akashemererwa munonga.
+P8	Fana burijo nagambira banuani be," ninkunda anyamishwa. Eyamishwa nezo'omugasho aharitwe kandi nizinuani zaitu. Ntwine kuzirinda kandi tukazireberera.
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25273.png
+illustrations/pages/25274.png
+illustrations/pages/25275.png
+illustrations/pages/25276.png
+illustrations/pages/25277.png
+illustrations/pages/25278.png
+illustrations/pages/25279.png
+illustrations/pages/25280.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana and her animals	id=21004
+English (Adaptation)	(Colour-in) Fana and her animals	id=21005
+English (Adaptation)	Fana loves animals	id=21396
+Kanuri (Translation)	Kurram-a Dabbawanzǝ-a	id=24765
+Kinyarwanda (Translation)	Fana n'amatungo ye	id=23923
+Kiswahili (Translation)	Fana na wanyama wake	id=21006
+Kiswahili (Translation)	Fana anawapenda wanyama	id=21998
+Luganda (Translation)	Fana n'ebisolo bye	id=23599
+Lugbarati (Translation)	Fana azini i ma anyapa be	id=24531
+Lulamoogi (Translation)	Mbasalaki ataka inho ebisolo	id=24828
+Lusoga (Translation)	Faanana  n'ebisolobye	id=25086
+Rukiga (Translation)	Fana arakunda e'nyamishwa	id=24413
+Rukiga (Translation)	Fana ne bisholo byeye	id=24592
+Runyankore (Translation)	Fana nakunda ebyikoko	id=23245
+Runyankore (Translation)	Fana n'enyamwishwaze	id=24024
+Runyankore (Translation)	Fana ne nyamishwa ze	id=24112
+Runyankore (Translation)	Fana Nakunda Ebinyamwisha	id=24622

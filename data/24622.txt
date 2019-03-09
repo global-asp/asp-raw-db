@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=24622&d=0&a=1
+id:	24622
+title:	Fana Nakunda Ebinyamwisha
+author:	Mark Byamugisha
+artist:	Jesse Breytenbach
+lang:	Runyankore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24622.png
+desc:	Fana nachira kuba nebinyamwishwa
+
+page_text:
+
+P1	Ab’ekka ya Fana n’ebatura
+  omu tawuni.
+P2	Fana ayine kappa, enkoko ebiri, embuzzi emwe n’akanyonyi kamwe.
+P3	Hati, Fana akareeba abaana
+  abandi abakunaga amabaare omubunyonyi
+P4	Fana aka yiruka ah’obwana bwa buli.
+  Yayomba nti balekyelaho
+  kunaga amabaare.
+P5	Fana akatwala obunyonyi bubiri omuka weye deero
+  y’abureberwa.
+P6	Obunyonyi y’aburiisa kandi
+  y’agambira ab’eeka yeeye kw’abuyambire.
+P7	Fana n’abazeirebe bakatwala obunyonyi ow’omushawo.
+P8	Fana y’agambira abanwayibe ngu “Ebinyamwishwa n’abanwanyi beitu. Twiine ku zireberwa gye.”
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana and her animals	id=21004
+English (Adaptation)	(Colour-in) Fana and her animals	id=21005
+English (Adaptation)	Fana loves animals	id=21396
+Kanuri (Translation)	Kurram-a Dabbawanzǝ-a	id=24765
+Kinyarwanda (Translation)	Fana n'amatungo ye	id=23923
+Kiswahili (Translation)	Fana na wanyama wake	id=21006
+Kiswahili (Translation)	Fana anawapenda wanyama	id=21998
+Luganda (Translation)	Fana n'ebisolo bye	id=23599
+Lugbarati (Translation)	Fana azini i ma anyapa be	id=24531
+Lulamoogi (Translation)	Mbasalaki ataka inho ebisolo	id=24828
+Lusoga (Translation)	Faanana  n'ebisolobye	id=25086
+Rukiga (Translation)	Fana arakunda e'nyamishwa	id=24413
+Rukiga (Translation)	Fana ne bisholo byeye	id=24592
+Runyankore (Translation)	Fana nakunda ebyikoko	id=23245
+Runyankore (Translation)	Fana na na matungo ge	id=23272
+Runyankore (Translation)	Fana n'enyamwishwaze	id=24024
+Runyankore (Translation)	Fana ne nyamishwa ze	id=24112

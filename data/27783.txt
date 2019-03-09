@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=27783&d=0&a=1
+id:	27783
+title:	Abaibi  ab'amenvu
+author:	Kyambogo  University and Paul Wambi
+artist:	Catherine Groenewald, Rijuta Ghate, Sean Whitehead, Wiehan de Jager, Benjamin Mitchley, Melany Pietersen, Magriet Brink, Karlien de Villiers, Marike le Roux, Vusi Malindi and Rob Owen
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27783.png
+desc:	Abalenzi bana baiba emiyembe okumpi neisomero nga bamaze okweiba kwisomero.
+
+page_text:
+
+P1	Eira  einho, yaliyo  abaana  ab'omukwano  bana omuli; Jowero, Yona,  Yobu ni  Yakobbo.
+P2	Baali  nga  basomera  kwisomero  ery'e Busoolwe pulaimaale.
+P3	Abalenzi  baajanga  kwisomero  nga  tibanhweire  caayi.
+P4	Baali  nga  bawongera  mu  kibiina  olw'endhala.
+P5	Lwali  lulala, baasalawo  okuja  mu  buduuka  obwali  okumpi nga babweta  gampe okunoonie  eky'okulya.
+P6	Nga  bamaze  okubita  mu  buduuka, baabona  ekiwogo  ekibba  mu  bbookisi ku bbalaza.
+P7	Abalenzi  bano beekuba  akaama buli  muntu hahahaaaaa!. Endhala  eri  kutulumanga aye!, Yona yaakoba.
+P8	Boonaboona  baalumukira  ku  bbalaza. Baasigulaku  eminhwe okuva  mu  bbookisi, beemwena  era  baatandiika  okulya. Oidhi  kye  beerabira okukola?
+P9	Nga  bali  kulya, mwene  menvu  yaidha  mu  bwangu. "Naani  abaghaire  amenvu  gange?" omusaadha  yaababuuza.
+P10	Bwe baawulira  eiroboozi  bati  pu!, baalumuka  emisinde  era  beekweka  aghantu. Buli  muntu  yaakoba  mwine  ati mutaseka, mutakolola era mutogera.
+P11	Mwene  menvu yaakuba  enduulu, wulululululu, abaibi babano!.
+P12	Abalenzi  baabagema, baatwalibwa  kwisomero, baayeta  abazaire  baibwe, abasomesa, n'abaana  okutwaliza  aghalala.
+P13	Abalenzi  baagheebwa   ekibonerezo. Buli  mulenzi  yaakubibwa  endigo  ikumi  ikumi  era baalayira  obutairamu  kwiba.
+
+images:
+
+illustrations/pages/4445.png
+illustrations/pages/4514.png
+illustrations/pages/9354.png
+illustrations/pages/8860.png
+illustrations/pages/9192.png
+illustrations/pages/9193.png
+illustrations/pages/1613.png
+illustrations/pages/9495.png
+illustrations/pages/1919.png
+illustrations/pages/8552.png
+illustrations/pages/6590.png
+illustrations/pages/8035.png
+illustrations/pages/8858.png
+illustrations/pages/6734.png
+
+translations:
+
+English (Original)	The Mango Thieves	id=7459
+English (Adaptation)	The Banana Thieves	id=9881
+Kakwa (Translation)	Kola Ti A’Bugo	id=21341
+Luganda (Translation)	abbabi b'amenvu	id=24229
+Lunyole (Translation)	Abeebi B'emiyembe	id=10019

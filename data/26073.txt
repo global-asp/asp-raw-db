@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=26073&d=0&a=1
+id:	26073
+title:	Ono ninze
+author:	Julius Bamwagala and Kyambogo  University
+artist:	Kathy Arbuckle
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/26073.png
+desc:	Soma ebingemaku: Kiki kyendi. Kiki kyengonza era kiki kye mpanga okukola. Ate kabiri ighe?
+
+page_text:
+
+P1	Kino n'ekifaananie kyange.
+P2	Ndhi n'emyaka mukaaga edh'obukulu.
+P3	Kini n'ekifaananie eky'abomumaka gaife.
+P4	Emere jensinga okugonza Byanhandha ni muwogo ebisiike.
+P5	Nsobola okukuba omukono gwange.
+P6	Ndi n'emyaka mukaaga edh'obukulu.
+P7	Eisimu lyange liri 033-3426587.
+
+images:
+
+illustrations/pages/1709.png
+illustrations/pages/1710.png
+illustrations/pages/1711.png
+illustrations/pages/1797.png
+illustrations/pages/1713.png
+illustrations/pages/1714.png
+illustrations/pages/1715.png
+illustrations/pages/1716.png
+
+translations:
+
+Afaan Oromo (Translation)	Kuni Ana	id=12232
+Ateso (Adaptation)	Enngo Naa.	id=10557
+English (Original)	This is me	id=1798
+Kikamba (Translation)	Uyu Ni Nye	id=2216
+Luganda (Translation)	Ono Ye Nze	id=2217
+Lugbarati (Translation)	‘Di Ma I	id=2718
+Lugbarati (Official) (Translation)	‘Dì Má Ɨ́	id=8763
+Lunyole (Translation)	Ono Ndiise	id=2218
+Setswana (Translation)	Ke nna o	id=2219

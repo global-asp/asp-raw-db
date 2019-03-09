@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=26384&d=0&a=1
+id:	26384
+title:	Matyansi Omuluvu
+author:	Enocha Tasingika
+artist:	Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26384.png
+desc:	Mayansi omuluvu agezaaku okubuzaabuza bakagwa be okumuwa ebighula ku mugabo gwe ogwe emitiini aye baine bakitereera.
+
+page_text:
+
+P1	Matyansi ayagaana ente dhiri kulya mitiini. Yeena ya yenda ku mi tiini.
+P2	Ente dhi gha Matyansi emitiini.
+P3	Me ente dha koba,''Buti idha otoole emitiini ni ife.''
+P4	Baaja okulonda emitiini. Aye Matyansi yatwala emitiini.
+P5	Matyansi ya buuka. Ya gwa mu mwiga ogwidwire engoina.
+P6	Matyansi ya koba, ''Ndi gha kiika kyaimwe eyabula.'' Tiyaliibwa.
+P7	Matyansi ye ghaayo okulya amaadhi ga kisiitaka, nga engoina.
+P8	Engoina dha gana Matyansi. Dha musangaaza okuba nadho.
+P9	Matyansi ya koba,''Ndha kubaagho. ka nnone abendhu yange.''
+P10	Engoina ya beeka Matyansi paka ku kibalama kyo omwiga.
+P11	Matyansi yaalumuka. Engoina eka muteegerera.
+
+images:
+
+illustrations/pages/946.png
+illustrations/pages/2078.png
+illustrations/pages/947.png
+illustrations/pages/1996.png
+illustrations/pages/2077.png
+illustrations/pages/949.png
+illustrations/pages/952.png
+illustrations/pages/951.png
+illustrations/pages/2079.png
+illustrations/pages/948.png
+illustrations/pages/953.png
+illustrations/pages/1995.png
+
+translations:
+
+English (Original)	Anansi, the Crows, and the Crocodiles	id=1946
+English (Adaptation)	Greedy Anansi	id=21309
+Kiswahili (Translation)	Anansi, Kunguru na Mamba	id=2305
+Kiswahili (Translation)	Anansi mlafi	id=22000
+Luganda (Translation)	Anansi, Enkwale Ne Waggoonya	id=2302
+Lugbarati (Translation)	Ebio Pi, Gaagaa Pie Azini Eyio Pie	id=2306
+Lugbarati (Official) (Translation)	Èbǐo Pǐ, Gǎagǎa Pɨe Àzɨnɨ Éyío Pɨe	id=8794
+Lumasaaba (Translation)	Wanaasi, Bakikhoolo Ni Tsikweena	id=3011
+Lunyole (Translation)	Haŋambi, Nahinywamalwa Ni Wagoona	id=2307
+Maa (Translation)	Anansi, Ilkúrruki Ó Ilkinosîn	id=2734
+Ng’aturkana (Translation)	Anansi, Ng'ikuruka Ka, Ng'akinyang'a	id=2303
+Oluwanga (Translation)	Anansi, Amakhokho Nende Tsikwena	id=2304

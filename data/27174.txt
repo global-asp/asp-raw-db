@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=27174&d=0&a=1
+id:	27174
+title:	Lowoozaamu ku
+author:	Kyambogo  University and Siniini Bataamye
+artist:	Wiehan de Jager, Catherine Groenewald, Jano Strydom, Alice Toich, Rob Owen, Razaque Lázaro Quive and Jesse Breytenbach
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27174.png
+desc:	Olufumo luno lugema ku bukugu obwendowooza mu baana.
+
+page_text:
+
+P1	Lowoozaamu ku  olunaku  lulala  singa  tubaaku  n'akabaga  ku  lubalama  lw'enhandha  Nalubaale?
+P2	Lowoozaamu ku  olunaku singa  buli  muntu asobola  okusoma era  nga  n'ebitabo  birigho ebya buli  lulimi?
+P3	Lowoozaamu ku olunaku lwendizaala omwana  wange  asooka.
+P4	Lowoozaamu ku  olunaku singa  abantu  boonaboona  baba mu  mirembe nga baganda  baibwe  ni  banhinaibwe.
+P5	Olowoozaamu  olunaku  nga  nninza okutambulira  ku  maadhi.
+P6	Lowoozaamuuku olunaku singa mughala wo  okufuuka  omukulembeze ow'eighanga.
+P7	alowoozaamu  ku  olunaku  singa  oli kumpi  kuteebwa  mu  magombe era  ghaira  mu  bulamu.
+P8	Lowoozaamu ku  olunaku  singa buli  muntu  afuna  amaghagha ni  baguluka okutuuka  y'omutonzi.
+P9	Lowoozaamu  ku  olunaku  singa ensi yoonayoona  ebwikiibwaku kapeti.
+
+images:
+
+illustrations/pages/9847.png
+illustrations/pages/8629.png
+illustrations/pages/9066.png
+illustrations/pages/9722.png
+illustrations/pages/8945.png
+illustrations/pages/9652.png
+illustrations/pages/9069.png
+illustrations/pages/9627.png
+illustrations/pages/9592.png
+illustrations/pages/5648.png
+
+translations:
+
+English (Original)	Imagine	id=9902
+Lulamoogi (Translation)	Ologhoozye	id=26501
+Lusoga (Translation)	Fumintirizaamu	id=27170

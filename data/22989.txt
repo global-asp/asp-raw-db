@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=22989&d=0&a=1
+id:	22989
+title:	Wansili Anyiiza
+author:	Lule Eriah
+artist:	Magriet Brink
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22989.png
+desc:	Ffena tumanyi akalobozi ensili kekola ngeyita mukilo
+
+page_text:
+
+P1	okukonkona!  okukonkona!
+P2	"  Ani oyo?" nabuza nkyalimu otulo
+P3	"  Yenze,"  mu kaloboozi  akasendekelevu
+P4	"Ani  nze?"  nembuza.
+P5	" nkugambye  nti nze  nzeka," edoboozi  lyelimu lyadamu
+P6	" Simanyi  muntu gwe bayita, nze  nzeka," Nadamu.  Nenkebeera nga nakatimba kange akensili  kafundikile bulungi kukitanda kyange
+P7	" Kale, elinya lyange nze  Wansi." eddoboozi  ngakakamu nnyo  nokusinga mukusoka.Kumpi nno kuttu kwange
+P8	"Wansi  ani? Nabuuza nga  bwentunula  wansi wakatimba
+P9	"Wansi  sili,"eddobozi oluvanyuma lya yogera. Nawulila okulumwa ku kuttu kwange
+P10	"Ayaa!" nabukayo  nentandika okugyinonya." Oja kisasulila!" bwenalekana
+P11	Mubusungu, nafuluma mubikunta ne ntekako etala.
+P12	Nenangilila  olutalo  ku Wansili!
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+English (Original)	Annoying mosquito	id=14893
+Kiswahili (Translation)	Mbu msumbufu	id=21635
+Lusoga (Translation)	Ensiri enhiiza	id=25729
+Lusoga (Translation)	Ensiri enhiiza	id=25733
+Setswana (Translation)	Monang O O Tshwenyang	id=14964

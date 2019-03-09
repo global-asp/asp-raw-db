@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=26244&d=0&a=1
+id:	26244
+title:	Noonia zaabbu
+author:	Charles Eramaga and Kyambogo  University
+artist:	Vusi Malindi
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26244.png
+desc:	Noonia ebyobukombe byoyenda byona byona byoyenda mu itaka.
+
+page_text:
+
+P1	Abantu kamaala mu kyalo kino baali baghangalire mu bwavu.
+P2	Omukungu Kiyimba na bakulembeze abandi baabalabula, "Mu noonie obukombe mu itaka." Aye ti bafaayo era ti bawuliriza bigambo.
+P3	Akalenzi akato kebeta Mutaka kaali ku kyalo kuno. Mutaka yavuunianga ebinhonhi kamaala. Yali abiryanga byona byona. Tiyasuulanga mani na byenda.
+P4	Lwali lulala Mutaka yagema Eighemba ku muti. Eighemba bwelya bona Mutaka nga aligemye, lya lira,"Mukwano, ndeka era nkukobere kyosanire okutegeera."
+P5	Mutaka yakoba,"Nkobera. Ti dhakulya!"
+P6	Eighemba lya yogera nga bwericuusa langi yalyo okuva mu kicangacanga oku ira mu Nakasooma. "Leka nje ku muti gule era nnhongere okukobera ebindi kamaala."
+P7	Mutaka oyo yaleka e Ighemba lya bulukira ku muti. Bwe lyatuuka eyo, lya sekerera Mutaka. "Obukombe buli munze!" Eighemba lyayeta.
+P8	Mutaka yakoba,"Olikobaki?" "Munda munze zaabbu!" Eighemba lyairamu. "Obaire musiru inho okundekula. Osubiibwa obukombe kyodho," Eighemba lya saaliza Mutaka.
+P9	Eighemba lyania ensabira edhifanaana oti zaabbu. Lyabbuluka okuja ku muti omuleyi. Mutaka yatandiika okutakula ghansi mu muti.
+P10	Mutaka ya kunga abana kyalo,"Mwide tuje, tutandiike okunonia ebyo bukombe mu itaka."
+P11	Paka no lwaleero, Mutaka era na bekyalo bakaatakula itaka nga banoonia zaabbu.
+P12	Eighemba lisigala ly'embera ku muti,"Obukombe, buli munze!"
+
+images:
+
+illustrations/pages/18386.png
+illustrations/pages/18385.png
+illustrations/pages/18386.png
+illustrations/pages/18387.png
+illustrations/pages/18388.png
+illustrations/pages/18389.png
+illustrations/pages/18390.png
+illustrations/pages/18391.png
+illustrations/pages/18392.png
+illustrations/pages/18393.png
+illustrations/pages/18394.png
+illustrations/pages/18395.png
+
+translations:
+
+English (Translation)	Look for the gold	id=19474
+Lusoga (Original)	Okunoonia Zaabu	id=19473
+Lusoga (Translation)	Munoonhie Zaabbu	id=26340

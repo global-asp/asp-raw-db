@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=25971&d=0&a=1
+id:	25971
+title:	Amaka gagula ebintu
+author:	Kyambogo  University and Robert Buyinza
+artist:	Atilabachew Reda, Catherine Groenewald, Rijuta Ghate, Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25971.png
+desc:	Amaka gaaja gagula ebintu ku lunaku lwe mbaga.
+
+page_text:
+
+P1	Lwali lulala amaka gaja mu katale okugula ebintu bya mbaga.
+P2	Baali abantu bataanu. Maama, Bbaabba, Omwisuka omuguna n'omukozi.
+P3	Omwisuka ghaibwe Yokaana n'omukozi, Maliza, beetwika ebiibo.
+P4	Bbaabba yali aginze Joy mwanhinaze omuto ate maama yali agemye nsawoye.
+P5	Bwebaatuuka mu kiya, baagula ebintu kamaala.
+P6	Baagula ebintu nga eiva, ebibala, emamba, amatooke n'e4bindi kamaala.
+P7	Joy omuto yatandiika okulirira buli kintu, switi, doli,buli kintu.
+P8	Bbaabbaa yamugulira omupiira omunene era yaaba musanhufu.
+P9	Yokaana yeena yayenda omupiira era baamugulira.
+P10	Boona baagulira omukozi ekiteeteeyi ekirungi era yaaba musanhufu.
+P11	Buli mutu yaja eka nga musanhufu.
+
+images:
+
+illustrations/pages/13461.png
+illustrations/pages/9495.png
+illustrations/pages/14978.png
+illustrations/pages/6056.png
+illustrations/pages/10482.png
+illustrations/pages/14025.png
+illustrations/pages/1453.png
+illustrations/pages/10482.png
+illustrations/pages/15656.png
+illustrations/pages/12942.png
+illustrations/pages/1897.png
+illustrations/pages/9493.png
+
+translations:
+
+English (Original)	Family shopping	id=24538
+Lusoga (Translation)	Okugula  ebintu	id=26281

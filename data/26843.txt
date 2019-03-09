@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=26843&d=0&a=1
+id:	26843
+title:	Ngonza bugonze
+author:	Kyambogo  University and Robert Kirunda
+artist:	Tracy  Ntono and Saulsville
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26843.png
+desc:	Omwana ono mukalamu inho. Agonza ki? Kutyama? Kuzaanha? Kulya? Oba Kosoma?
+
+page_text:
+
+P1	Ngonza okuja kwisomero.
+P2	Ngonza okugherera enku.
+P3	Ngonza okufumba omupunga.
+P4	Nhenda kulya buti.
+P5	Ngonza kuzaanha kasonko.
+P6	Nhenda okutenduka ku lupaali.
+P7	Nhenda kuloodha kikoiko.
+P8	Nhenda okwepena.
+
+images:
+
+illustrations/pages/27015.png
+illustrations/pages/10278.png
+illustrations/pages/15110.png
+illustrations/pages/16232.png
+illustrations/pages/13372.png
+illustrations/pages/27017.png
+illustrations/pages/27016.png
+illustrations/pages/27020.png
+illustrations/pages/27019.png
+
+translations:
+
+Lusoga (Original)	Nnhenda Bwende	id=23456
+Lusoga (Translation)	Ngonza bugonze	id=28126

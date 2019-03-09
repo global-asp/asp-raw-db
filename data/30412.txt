@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=30412&d=0&a=1
+id:	30412
+title:	Babirye ni sabbuni
+author:	Cornelius Mugulusi and Kyambogo  University
+artist:	Sorit Gupto
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30412.png
+desc:	Babirye ayenda okuzaanha aye tayenda sabbuni era tayenda kunhaaba. Obwire bulala aba nekirooto ekigema ku bughuka. Ayinza okucuusaamu endowozaye eyokwenhiriza?
+
+page_text:
+
+P1	Babirye ayenda okuzaanha n'ebighoigolo.
+P2	Era ni ebinhonhi.
+P3	Ayenda okuzaanha ni ebyaato.
+P4	Ayenda era okukola obubungo bw'enfufu.
+P5	Babirye buli lwa airayo eka,maama weamukoba anhaabe. Aye Adheema.
+P6	"Tyenda sabbuni!" akemuka.
+P7	Obwire bulala,afuna ekirooto. Obughuka bumwetoroire,era buli kumwidhira.
+P8	Obughuka buli kubinga Babirye. Babirye alumuka bwa akemuka,"munhambe."
+P9	Amangu Ago, Sabbuni avaayo. "Babirye,leeka kutya,."Muje mubageme!" Yalagira
+P10	Amaje mungeri ya amayengo gabingagho obughuuka.
+P11	Enaaku dhino,Babirye ayenda  okukozesa sabbuni,asenhia era yenhiriza.
+
+images:
+
+illustrations/pages/607.png
+illustrations/pages/607.png
+illustrations/pages/612.png
+illustrations/pages/608.png
+illustrations/pages/610.png
+illustrations/pages/609.png
+illustrations/pages/611.png
+illustrations/pages/613.png
+illustrations/pages/614.png
+illustrations/pages/911.png
+illustrations/pages/910.png
+illustrations/pages/912.png
+
+translations:
+
+English (Original)	Bunty and Bubbly	id=913
+isiXhosa (Translation)	UMinti noGwebu	id=3129
+Kiswahili (Translation)	Banti na Sabuni	id=2830
+Lugbarati (Translation)	Bunty Yi Bubbly Be	id=2828
+Lugbarati (Official) (Translation)	Bàdàrʉ́ Pi Bʉ́nɨ̀ Be	id=8756
+Lusoga (Translation)	Bante ni Baabula	id=25444

@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=24412&d=0&a=1
+id:	24412
+title:	Lule and Kitty the Cat
+author:	Flavia Kunihira
+artist:	Catherine Groenewald, Karen Lilje, Kenneth Boyowa Okitikpi and Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24412.png
+desc:	It is a story about a boy who loves his pet so much that he steals milk for it. His mother chases the cat away.
+
+page_text:
+
+P1	Lule has a cat. It is called Kitty.
+P2	He loves the cat so much. He is always stroking it. Peter his friend joins them too.
+P3	Kitty loves drinking milk.
+P4	Lule steals milk for Kitty. His mother is unhappy about it.
+P5	She chases Kitty away. Lule starts crying.
+
+images:
+
+illustrations/pages/8864.png
+illustrations/pages/9122.png
+illustrations/pages/9577.png
+illustrations/pages/18600.png
+illustrations/pages/1534.png
+illustrations/pages/27126.png
+
+translations:
+
+Lusoga (Translation)	Kyagaba ni Kateme e puusi	id=28269

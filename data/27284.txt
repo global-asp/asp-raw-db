@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=27284&d=0&a=1
+id:	27284
+title:	Obuyondho bulungi
+author:	Abdul Maged Mbago
+artist:	Sue Kramer, Wiehan de Jager, Sandy Lightly, Catherine Groenewald and Vusi Malindi
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27284.png
+desc:	Obuyondho kintu kikulu inho era buli muntu ateekwa okuba omuyondho mu buli kintu kyonakyona ekigemagana nobulamu bwe. Obuyondho butuyamba okweghala endwaire.
+
+page_text:
+
+P1	Okunaaba buyondho. Naaba omubiri gwo obe muyondho.
+P2	Okwoza buyondho. Yoza engoyedho obe muyondho.
+P3	Okusenhia buyondho. Senhia amainogo obe muyondho.
+P4	Okweya buyondho. Yeya oluya, jokooni, n'ekisenge. Tigherabira kwala buliri.
+P5	Okufumba buyondho. Fumba emamba eye bulungi.
+P6	Naaza ebibala nga okaali kubirya.
+P7	Fumba amaadhi ag'okunhwa. Gate mu nsuwa oba mu kadomola. Gasandikireku.
+P8	Simba ebimui mu luyalwo luboneke bukalamu.
+
+images:
+
+illustrations/pages/1762.png
+illustrations/pages/7515.png
+illustrations/pages/6452.png
+illustrations/pages/7518.png
+illustrations/pages/7517.png
+illustrations/pages/1652.png
+illustrations/pages/6661.png
+illustrations/pages/1420.png
+illustrations/pages/940.png
+
+translations:
+
+Luganda (Original)	Obuyonjo Bulungi	id=7802
+Lunyole (Translation)	Obuŋoono Bulaŋi	id=13700

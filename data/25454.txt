@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=25454&d=0&a=1
+id:	25454
+title:	Aziizi
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Natalie Propa
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25454.png
+desc:	Omwana ono ayenda ino okufa ku doli we. Era doli Aziizi ni mukwano gwe amusanhusa.
+
+page_text:
+
+P1	Aziizi ono. Aziizi doli wange.
+P2	Nnhenda inho Aziizi kuba musanhufu.
+P3	Bwe nsituka nnaaba mu maiso. Me naanoonhya  Aziizi.
+P4	Bwembona Aziizi mmusunsula enviiri.
+P5	Bwe ndya ekyenco ndhiisa ni Aziizi.
+P6	Bwendya  amenvu  ndiisaaku  eirara Aziizi.
+P7	Aye Aziizi talya lyenvu lye.  Neebuuza lwaaki?
+P8	Ntambula kuluya bwe nnonda ebimuli.
+P9	Mpa Aziizi ekimuli.   Aye takoba ati,  "gheebale."
+P10	Nnaaza Aziizi namutukuza nga maama  akaali kuunaaza.
+P11	Nvaaza Aziizi ebya kasaayi kuba nnhenda  ino langi eyo.
+P12	Bwe nja okutenduka, nta aziizi kumpi ni ghendi.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the Doll	id=9748
+French (Translation)	Azizi La Poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+Kimîîru (Translation)	Doli Azizi	id=9776
+Kinyarwanda (Translation)	Igipupe cyitwa Azizi	id=21065
+Lámnsoʼ (Translation)	Dòrbebí wóo Azizi	id=16448
+Luganda (Translation)	Dole Azizi	id=23330
+Lugwere (Translation)	Odole Omulyabwita	id=16112
+Lusoga (Translation)	Aziiza Doli	id=25912
+Runyankore (Translation)	Azizi dole	id=24419

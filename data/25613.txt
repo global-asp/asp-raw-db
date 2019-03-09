@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=25613&d=0&a=1
+id:	25613
+title:	Katonda Agonza
+author:	John Kasiti and Kyambogo  University
+artist:	Zablon Alex Nguku, Wiehan de Jager and Magriet Brink
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25613.png
+desc:	Buli kyoyenda okukola koba oti Katonda bwa yenda.
+
+page_text:
+
+P1	Lwali lulala Yona yagya mukatale. Yayaganana ni mwine bwebaghaya.
+P2	Mwine yabuuza: Ogyagha Yona? Nja mukatale.
+P3	Ngya kugula  Ndogoyi. Mwine yamukoba ati, kuba oti olwokugonza kwa Katonda.
+P4	Busa! indine empiya Endogoyi dhiriyo mukatale.
+P5	Mu katale empiya badhibye. Haaa! Tikagula Ndogoyi mukatale.
+P6	Yona yeidhusa obutakoba ati olwokugonza kwa Katonda.
+
+images:
+
+illustrations/pages/17978.png
+illustrations/pages/17053.png
+illustrations/pages/9712.png
+illustrations/pages/15500.png
+illustrations/pages/17979.png
+illustrations/pages/8129.png
+illustrations/pages/1883.png
+
+translations:
+
+English (Original)	God Willing	id=21352
+Hausa (Nigeria) (Translation)	Yardar Allah	id=21380

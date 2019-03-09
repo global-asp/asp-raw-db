@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=22711&d=0&a=1
+id:	22711
+title:	Toidha Kundeka
+author:	Cornelius Wambi Gulere
+artist:	Little Zebra Books and Rachel Geer
+lang:	Lusoga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22711.png
+desc:	Wandhovu ayenda kusala mwiga. Aye mu kaato kano akatono kati
+
+page_text:
+
+P1	Saala ayenda kusaza bantu mwiga. Aye akaato ke nga katono!
+P2	Abantu bana baamweyuna. Batya okugiira ku kaato ke. Aye batya ne ekindi.
+P3	Abaali na amagaali beeyuna. Abandi ne emigugu beeyuna.
+P4	Akaato kaidhula. Amaadhi gaidhula. Omwiga gwaidhula.
+P5	Embwa ne empala, eirike na kamyu. Byoona byenda kusala mwigha.
+P6	Mwidhe mwanguye! Omwiga gwesaze. Akaato kaidhula.
+P7	O munage Wandhovu. Weena sembera. Oli wange mwawufu. Tiikuleke idha tusale.
+P8	Wuuwii! Wandhovu bona kyakoze. Saala taasale mwiga leero.
+P9	Akaato keedimya. Tweena twaghuga. Wandhovu yaaghunga.
+P10	Saala yakoba, "Aye Wandhovu, akaato nga katono! Bweene tunaasala?"
+P11	"Otegeera kyenkoba. Obunene kya ikabyo. Aye olundi kya isanhu!" Saala yairamu.
+P12	Saala, tokoba otyo. Wandhovu naatughoniiza. Tubaire ba kudimira.
+P13	Wandhovu kiki kyakoze? Waire mukwano gwange atya, tija kumusaza mwiga lundi.
+
+images:
+
+illustrations/pages/16290.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+English (Original)	Sara's Canoe	id=16261
+Portuguese (Translation)	“a Canoa Da Sara”	id=19001

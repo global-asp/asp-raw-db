@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=27152&d=0&a=1
+id:	27152
+title:	Ndidi langi
+author:	Rebecca Ndhibogeza
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27152.png
+desc:	Emboozi eziraku bibono eraga langi edhendawulo nga: eyakasaayi
+
+page_text:
+
+P1	Langi eno ya kasaayi.
+P2	Langi eno ya kyenvu.
+P3	Langi eno ya bbululu.
+P4	Langi eno ya kakyungwa.
+P5	Langi eno ya kiragala.
+P6	Langi eno ya kakobe.
+
+images:
+
+illustrations/pages/9853.png
+illustrations/pages/9839.png
+illustrations/pages/9843.png
+illustrations/pages/9849.png
+illustrations/pages/9841.png
+illustrations/pages/9846.png
+illustrations/pages/9854.png
+
+translations:
+
+English (Adaptation)	I know colours	id=10473
+isiXhosa (Translation)	Ndiyayazi imibala	id=22583
+Lusoga (Translation)	Ndidhi amaina ga langi	id=27343

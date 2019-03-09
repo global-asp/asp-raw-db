@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=31258&d=0&a=1
+id:	31258
+title:	Okapa omugezi
+author:	Mpala Paul
+artist:	Catherine Groenewald
+lang:	Lulamoogi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/31258.png
+desc:	Omukulu Mawata ali nokapa omugezi ogwebeeta Anisha.
+
+page_text:
+
+P1	Okukyalo kyange, kuliku omukulu Mawata. Omukulu omawata ali nokapa ogwebeeta Anisha.
+P2	Omukulu omawata obwayaba okukola, aleka olwigi nga lwigule.
+P3	Anisha atyama omu mulyango ku lingirira nyumba.
+P4	Abomuliraana abembwa olwiza okumpi, Anisha abagudyagho.
+P5	Ombwa apyata naazwagho.
+P6	Omuliraanwa obwakubba okoodi okulwigi, Anisha abba mwetegefu okukwadula.
+P7	Owomuliraanwa acuuka era napyatagho.
+P8	Anisha olulumwa enzala, aigalagho olwigi.
+P9	Anisha naalya emere ye.
+P10	Nga amalire, Anisha atuumira okumufaliso na gona, "aaaa! aaaa! aaaa!"
+P11	Omukulu omawata olwira, Anisha yejumuula neisanyu era namwanyiriza eika.
+P12	Omukulu omawata no anisha batyama aghansi, era buli omu nasoma amawulire.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Ateso (Translation)	Ekapa Lo Ecobee	id=20595
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever cat	id=8878
+Hausa (Nigeria) (Translation)	Kyanwa Mai Wayo	id=21362
+Kiswahili (Original)	Paka mwerevu	id=8877
+Lusoga (Translation)	Puusi engezi	id=25303
+Lusoga (Translation)	Puusi endhabuufu	id=29847
+Sesotho (Lesotho) (Translation)	Katse E Bohlale	id=10622

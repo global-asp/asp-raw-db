@@ -1,0 +1,77 @@
+url:	https://africanstorybook.org/reader.php?id=25906&d=0&a=1
+id:	25906
+title:	Okughabulwa okucaamu
+author:	Abdul Maged Mbago and Kyambogo  University
+artist:	Brian Wambi
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25906.png
+desc:	Abasaadha babairi baghabulwa mu bucaamu omulamuzi. Banoonia okumanha okuva eri abakulu ku kyalo era oluvainhuma baba basanhufu.
+
+page_text:
+
+P1	Baakola buli kintu kulwaibwe.
+P2	Baaduuba okuba n'endogoyi.
+Yandibeese ebintu byaibwe.
+P3	Kombe yakoba, "Tugule endogoyi."
+Basanhufu.
+P4	Bbaabba gha kombe bweyafa, Kombe yafuuka mukombe.
+Yerabira Idhuma
+P5	Kombe yayenda emamba y'endogoyi okugha embwadhe.
+Idhuma yayenda Ndogoyi.
+P6	Omulamuzi yaakoba, "Buli mulala kwimwe atwaleku olwawu lwayo."
+P7	Kombe yaita endogoyi.
+Idhuma yeetwika ebintubye kabiri.
+P8	Kombe yayenda kwoca nhumbaye azimbe eyindi.
+P9	Idhuma yakoba, "Eyange yoona eidha kuya."
+Omulamuzi yaikirz ekyaa ni kombe.
+P10	Enhumba ya Idhuma yaya.
+Omulamuzi yaakoba, "Kombe yayoca nhumbaye yonka."
+P11	Idhuma yabulwa enhumba, ghaire ndogoyi. Yaasula ghansi gh'omuti.
+P12	Idhuma yaakola inho. Yali ni empande enungi.
+P13	Batabane ba kombe baalya empande dha Idhuma.
+P14	Abalenzi baakoba, "Koba bbaabba ghaife akusasule."
+P15	Idhuma yaakoba, Tyenda sentedho. Nnhenda mpande dhange."
+P16	Omulamuzi yaakoba Idhuma, "Salamu batabanebo. Otwale empandedho."
+P17	Idhuma yaaloba. Kombe yaalira. "Abakaire basalewo."
+P18	Abakaire baakoba, "Waita endogoyi. Wayoca enumbaye."
+P19	Baakoba Idhuma, "Okwita mutabane gha kombe kyona kibi."
+P20	Kombe yaagha Idhuma ekitundu eky'ebintubye.
+Baasigala basanhufu.
+
+images:
+
+illustrations/pages/17057.png
+illustrations/pages/17050.png
+illustrations/pages/17052.png
+illustrations/pages/17053.png
+illustrations/pages/17054.png
+illustrations/pages/17055.png
+illustrations/pages/17057.png
+illustrations/pages/17058.png
+illustrations/pages/17060.png
+illustrations/pages/17061.png
+illustrations/pages/17062.png
+illustrations/pages/17063.png
+illustrations/pages/17064.png
+illustrations/pages/17066.png
+illustrations/pages/17068.png
+illustrations/pages/17069.png
+illustrations/pages/17070.png
+illustrations/pages/17071.png
+illustrations/pages/17073.png
+illustrations/pages/17074.png
+illustrations/pages/17075.png
+
+translations:
+
+Afaan Oromo (Translation)	Abbaa Seeraa Abbiidhoo	id=24805
+English (Original)	Unwise judge	id=17115
+English (Adaptation)	Wrong advice	id=21795
+French (Translation)	Mauvais conseil	id=23335
+Kinyarwanda (Translation)	Umucamanza Mubi	id=22143
+Kiswahili (Translation)	Hakimu asiyekuwa na busara	id=17135
+Kiswahili (Translation)	Ushauri mbaya	id=21816
+Portuguese (Translation)	Juiz Insensato	id=17118
+Portuguese (Translation)	Juiz Insensato	id=17133

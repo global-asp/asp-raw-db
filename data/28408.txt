@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=28408&d=0&a=1
+id:	28408
+title:	Bona ensolo dhaife
+author:	Alice Gonza and Kyambogo  University
+artist:	Sandy Campbell, Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/28408.png
+desc:	Yega amaloboozi agebisolo ebyendhawulo ebikuumibwa mubifo ebyendhawulo. Maloboozi ki ge bifulumya.
+
+page_text:
+
+P1	Bona ebisolo ebikuumibwa waka.
+P2	Ente etugha mata.
+P3	Obuduuyo n'epuusi bigemagana n'abantu.
+P4	Embalaasi ekoba, "Neeyi"
+P5	Mu Uganda, Ente n'embuzi biweebwa abazaire abomughala nga aja kufumbirwa nga akasiimo.
+P6	Enkoko ekokolyoka.
+P7	Embwa nedhikuuma ghaka.
+P8	Omulimi adhirabirira inho.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+English (Adaptation)	Look at Our Animals	id=10258
+English (Adaptation)	Animals, Animals	id=10260
+Hausa (Nigeria) (Translation)	Dabbobi - Dabbobi	id=20866
+Lulamoogi (Translation)	Ebisolo,Ebisolo	id=25249

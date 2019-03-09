@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=25825&d=0&a=1
+id:	25825
+title:	Tusobola  okubala obupuusi?
+author:	Kyambogo  University and Richard  Seege
+artist:	Jesse Breytenbach and Jesse Pietersen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25825.png
+desc:	Kubala bitabo
+
+page_text:
+
+P1	Obupuusi  buli  bumeka? Ghazira naire kapuusi. Busa  naire.
+P2	Obupuusi  buli  bumeka? Kalala. Akapuusi  akairugavu  kasobola  okulya  emamba  ey'akasaayi.
+P3	Obupuusi  buli  bumeka? Bubiri. Akeeru na  kakisitaka. Akeeru  na  kakisitaka buzaanira  ku bimuli  ni  kuvalanda.
+P4	Obupuusi  buli  bumeka? Busatu  bwonka. Akaakisitaka, akaamatamata na k,ebibyamyamyamya. Buzaanira  ghaigulu  ni  ghansi ni ku  bimante.
+P5	Obupuusi  buli  bumeka? Buli  buna. Obupuusi bwonabwona  bwa  mukwano  ni  Pawulo.
+P6	Obupuusi  buli  bumeka? Butaanu. Bwonabwona  bwenda  okuzaanira mu  lubaya  inho. Nkyenda  inho.
+P7	Obupuusi  buli  bumeka? Mukaaga. Bwonabwona  butyama  ghalala  era  bwabona  emizaanho  ku telefaina.
+P8	Obupuusi  buli  bumeka? Musanvu. Bwonabwona  bwenda okuzaanira  ku  luya inho.
+P9	Obupuusi  buli  bumeka? Munaana. Obupuusi  obwo tibwenda kubonesa  ku mbwa  naire.
+P10	Akalala  kaalalira  ku muti! "Ndha kukayamba!" Pawulo neyakoba.
+P11	"Maama, tumukuume? Mulundi mulala gwonka." Obupuusi buli  bumeka? Obupuusi  omwenda bungi  inho. Maama neyakoba.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/13388.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+English (Adaptation)	Can We Count Our Cats?	id=13562
+Hausa (Nigeria) (Translation)	Muna Iya Kirga Kyanwoyinmu	id=21363
+Runyankore (Translation)	Nitubasa Kubara Ezaangu Zitu	id=23613

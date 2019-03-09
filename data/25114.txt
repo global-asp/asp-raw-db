@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=25114&d=0&a=1
+id:	25114
+title:	Ngobi omuvubi
+author:	Alice Gonza and Kyambogo  University
+artist:	Zablon Alex Nguku
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25114.png
+desc:	Eninhonhola oyo obulamu obwo omusaadha akola einho ate nga avubira ku Nile.
+
+page_text:
+
+P1	Ono ni Ngobi omuvubi avaa e Namiinha.
+P2	Avubira ku mwiga Kiyira.
+P3	Ali ne elyato, ekitimba ne eirobo.
+P4	Awuuna pwipwipwipwi okuja okuvuba empuuta.
+P5	Ku saawa inha edh'okunco, aba ali kubitundira  mu kiya kya Idhindha.
+P6	Ngobi nga munakughavu inho. Kiki ekyabairewo? Byamusaze?
+P7	"Leero embeera mbi. Kikunta owokumwiiga tiyanganie kuvuba. Empuuta ndala yeemulwiire neirobo.
+P8	"Aye ndi n'eisuubi nti enco lwidha kuba lulungi, kuba nja kugula eirobo eiyaaka."
+
+images:
+
+illustrations/pages/8128.png
+illustrations/pages/8126.png
+illustrations/pages/8127.png
+illustrations/pages/8128.png
+illustrations/pages/8129.png
+illustrations/pages/8130.png
+illustrations/pages/8131.png
+illustrations/pages/8132.png
+illustrations/pages/8133.png
+
+translations:
+
+Afrikaans (Translation)	Jaaka die Visserman	id=11406
+English (Translation)	Jaaka the fisherman	id=8491
+French (Translation)	Jaaka Le Pêcheur	id=12681
+isiXhosa (Translation)	UJaaka umlobi	id=13206
+isiZulu (Translation)	U Jaaka Umdobi	id=11500
+Kinyarwanda (Translation)	Umurobyi Jaaka	id=21205
+Kinyarwanda (Translation)	Jaka Umurobyi	id=22135
+Luganda (Adaptation)	Jaaka Omuvubi	id=10151
+Lusoga (Original)	Jaaka Omuvubi	id=8490
+Lusoga (Translation)	Jaaka omuvuubi	id=29101
+Portuguese (Translation)	Jaaka O Pescador	id=16569
+Runyankore (Translation)	Jaaka Omuvubi	id=11677
+Rutooro (Translation)	Jaaka Omusohi	id=14919

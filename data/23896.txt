@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=23896&d=0&a=1
+id:	23896
+title:	Akasoolo kange
+author:	MICHAEL KISEKKA
+artist:	Sonia Dearling and Marleen Visser
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23896.png
+desc:	Lunno lwolaba lwe olugero lwa kasoolo kange.
+
+page_text:
+
+P1	Akasolo kange bakayita Koko. Kaliungi ela kamukwano.
+P2	Nze nemuganda wange omulenzi twagala nnyo okuzanya ne Koko. Mama ayagala nnyo okutulaba nga tuzanya ne Koko.
+P3	Koko azanya nnyo. Ayagala nnyo okuzanya ne baganda be abwala abatoo nga mama yebase.Njagala nnyo okulaba Koko nga azanya ne baganda be abawala.
+P4	Nze nemikwano jange twagala nnyo okulaba Koko nga azanya nobuwojolo. Koko atufula bizee mubiseera byafee ebyeddembe.
+P5	Buliomu ayagala Koko. Muganda wange Tom yagulila Koko ekirabo. Nali musanyuffu nnyo.
+P6	Koko muyonjo buli kasera. Nnyumira okumusitula ate naye akyagala.
+
+images:
+
+illustrations/pages/13441.png
+illustrations/pages/9563.png
+illustrations/pages/13446.png
+illustrations/pages/13439.png
+illustrations/pages/13444.png
+illustrations/pages/13445.png
+illustrations/pages/13441.png
+
+translations:
+
+English (Original)	My Pet	id=14279
+English (Adaptation)	My cat Koko	id=17165
+Luganda (Translation)	akasolo kange kembela nako buliwamu	id=24485
+Lusoga (Translation)	Puusi yange yenkikidha nayo ghaka	id=25737

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=23372&d=0&a=1
+id:	23372
+title:	Empungu yamagyezi
+author:	Emmanuel  Buryo
+artist:	Melany Pietersen, Graham Paterson, Katrien Coetzer and Rob Owen
+lang:	Runyankore
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23372.png
+desc:	Empungu ekagira eruhu ryamani yagyenda orugyendo rureigwa neronda amaizi kwonka gabura.
+
+page_text:
+
+P1	Empungu ekagira erihu yangyenda omwanya mureigwa neronda amaizi kwonka gabura.
+P2	Kugabuzire, yasharamu okuguruka ekarika omu muti gwayo oguyabeire neturamu. Kikagitwarira obwire bureigwa ahabwokuba eketeine maani
+P3	Kuyabeire negarukayo, yareba amaizi omunyungu yomuntu omu mbunga.
+P4	Amaizi gakaba gari ahansi munonga omunyungu omunwa gwa empungu gukaba gutakugahikagye. Ekashara amagyezi kutunga amaizi ago
+P5	Ekatunga a magyezi gokugatunga. Ekatunga amabare, yarekuraho rimwe ryatera omumeizi omunyungu gagurika.
+P6	Empungu ekataho omunwa gwayo yakuma nenywa amatondo gameizi.
+P7	Ekakwata eibaare erindi yarurekure nkeryokubanza. Ekaguma nekora etyo mpaka ehweire eruho.
+
+images:
+
+illustrations/pages/9592.png
+illustrations/pages/9223.png
+illustrations/pages/9216.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/8599.png
+illustrations/pages/9036.png
+illustrations/pages/9026.png
+
+translations:
+
+English (Original)	A Wise Crow	id=10198
+Kinyarwanda (Translation)	Igisiga K'igihanga	id=20860
+Lusoga (Translation)	 	id=21281
+Rukiga (Translation)	Empungu y'obwengye	id=24284

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=26501&d=0&a=1
+id:	26501
+title:	Ologhoozye
+author:	Kyambogo  University and Mpala Paul
+artist:	Wiehan de Jager, Catherine Groenewald, Jano Strydom, Alice Toich, Rob Owen, Razaque Lázaro Quive and Jesse Breytenbach
+lang:	Lulamoogi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26501.png
+desc:	Olufumo luno lukwatagana na kukulankulania ndoghoozya yobukodyo mu baana.
+
+page_text:
+
+P1	Ologhoozye olunaku. Olwetwiza kubba n'epikiniki okulubalama lwe nyanza ya nalubaale.
+P2	Ologhoozye olunaku. Nga buli muntu asobola okusoma era nga ghaligho ebitabo mu buli lulimi.
+P3	Ologhoozye olunaku. Olwendi byala omwana ghange asooka.
+P4	Ologhoozye olunaku. Ng'abantu boabona omunsi bali mu mirembe ng'aboluganda.
+P5	Ologhoozye oluaku. Nga nsobola okutambulira okumaizi.
+P6	Ologhoozye olunaku. Nga omughalawo asuukire mukulembezye ghensi.
+P7	Ologhoozye oluaku. Nga batera okukuta omumagombe tete n'olama!
+P8	Ologhoozye olunaku. N'abantu bamerere amaghagha okuguluka, era okutuuka okibbumba egyali.
+P9	Ologhoozye olunaku. Nga okwitakali kwonakwona kwizwire kapeti omunsi yonayona.
+
+images:
+
+illustrations/pages/9847.png
+illustrations/pages/8629.png
+illustrations/pages/9066.png
+illustrations/pages/9722.png
+illustrations/pages/8945.png
+illustrations/pages/9652.png
+illustrations/pages/9069.png
+illustrations/pages/9627.png
+illustrations/pages/9592.png
+illustrations/pages/5648.png
+
+translations:
+
+English (Original)	Imagine	id=9902
+Lusoga (Translation)	Fumintirizaamu	id=27170
+Lusoga (Translation)	Lowoozaamu ku	id=27174

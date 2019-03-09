@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=30194&d=0&a=1
+id:	30194
+title:	Ekinhonhi Ekigonzebwa
+author:	Juliet Namugaya
+artist:	Wiehan de Jager, Ursula Nafula, Rob Owen and Marleen Visser
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30194.png
+desc:	Ekinhonhi ekigonzewa kyemba obwembo obusenhenkerevu.
+
+page_text:
+
+P1	Kitayaaya mwibbanga na amaghagha aga langi enkalamu,nga kilungi!
+P2	Kikalamu inho okukibona nga kiriira ghalala ne nkoko.
+P3	Abaana babinhonhereza nga bibbuluka mwibbanga.
+P4	Kinhoonha inho okubona ebinhonhi nga bilwaana.
+P5	Ebinhonhi bifuna ekiseera bya bbuluka mwibbanga.
+P6	Biboneka bukalamu nga bibbuluka ghaigulu gha oguyandha.
+P7	Ebinhonhi bibalaagavu inho bwe biguluka mwibbanga.
+
+images:
+
+illustrations/pages/1118.png
+illustrations/pages/13685.png
+illustrations/pages/14037.png
+illustrations/pages/13652.png
+illustrations/pages/9594.png
+illustrations/pages/302.png
+illustrations/pages/296.png
+illustrations/pages/612.png
+
+translations:
+
+English (Original)	The lovely  Bird	id=24590

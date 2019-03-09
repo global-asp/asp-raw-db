@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=24487&d=0&a=1
+id:	24487
+title:	omukyala owomululu omunji
+author:	ivor sempa
+artist:	Abraham Muzee
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24487.png
+desc:	Bwo banga enjala ekukluma kisinga ko okwogela amazima mukiffo kyokuba.
+
+page_text:
+
+P1	eda bwaliyo omwami gwe bayita kato yasula munyumba e kabusu mukibuga nga abela ne mbwa ye mukayumba akatono
+P2	olunaku lumu kato yali mulwadde nga tayina ayamba bweyawona yasala wo awase omukyala eya li abela kumpi naye
+P3	yayita abako na bemikwano okuja kumbaga kato yasanyuka nyo ku yali affunye omubezi
+P4	ebintu bingi bye baletela abagole omukyala no  omwami nga mulimu ebiselo bya obusela emikeka amatooke ebinyebwa ebilala ebye waka
+P5	embaga bweyagwa abagenyi ne bagenda kato yali mwetegefu okutandika bujja obulamu ne mukyala we ne mbwa
+P6	olunaku olwaddako kato yagabula mukaziwe amatooke na gana okulya
+P7	kato bweyagenda okuyiga omukazi yalaya amatooke gona
+P8	kato bweyadda okuva okuyiga ya li muyala nyo kayava abuza amatooke mukyala we namugamba embwa yagalidde
+P9	olunaku olwadda ko kato yagenda ku kilalo kye agenda okudda nga mukazi we yalidde enyama yona nga tawadde na mbwa akili
+P10	olunaku olula kato yagenda ko okukyalila mukwano gwe nako mawo nga omukazi yalidde ebinyebwa nga ekiselo temuli wadde kato yanyiga nya ne mukyala we omupya
+P11	kato yalowoza waliwo ekikyamu no omukazi kyava asalawo okuteka amaata munsuwa ya bajjaja na ga teka wansi wobulili ela nadda ya okuyiga
+P12	omukyala kyava alaba akaleku nga gajuude amata bwatyo kyava aga teka ku mumwa nga embwa emulaba
+P13	wabula akaleku kakwatila kumumwa nageza ko okukaja ko ngw butelele kyava awogana nga bwabukabuka akaleku nekagana nga embwa emulaba
+P14	embwa keva eduka okuyita kato ebwa bweyamula kwekubuka buka kato na zula nti ewaka waliyo obuzibu
+P15	kyebava bakuka bombi kato yewunya nyo okusanga omukyalawe na kaleku kumumwa kyava amutunulila ne yewunya
+P16	kato kyava akwata kutama lya mukyala we akaleku ne kagwa ela omukazi na swala nyo nasalawo edeyo ewabazadde be
+
+images:
+
+illustrations/pages/19126.png
+illustrations/pages/19113.png
+illustrations/pages/19114.png
+illustrations/pages/19115.png
+illustrations/pages/19116.png
+illustrations/pages/19117.png
+illustrations/pages/19118.png
+illustrations/pages/19119.png
+illustrations/pages/19120.png
+illustrations/pages/19121.png
+illustrations/pages/19123.png
+illustrations/pages/19124.png
+illustrations/pages/19125.png
+illustrations/pages/19126.png
+illustrations/pages/19127.png
+illustrations/pages/19128.png
+illustrations/pages/19129.png
+
+translations:
+
+English (Translation)	Greedy woman	id=19149
+English (Adaptation)	(Colour-in) Greedy woman	id=19150
+Kiswahili (Translation)	Mwanamke mlafi	id=22068
+Luganda (Original)	Omukazi owomululu	id=19148
+Luganda (Translation)	(Siiga mu katabo)Omukazi owo mululu	id=23832
+Lumasaaba (Translation)	Umuhasi Wekumulungo	id=23664
+Lusoga (Translation)	Omukazi omuluvu	id=24883
+Lusoga (Translation)	Omukazi omuluvu	id=26353
+Oluwanga (Translation)	Omukhasi omuworu	id=22766
+Rukiga (Translation)	Omukazi owomululu	id=23757
+Runyoro (Translation)	Abakazi Abomururu	id=23625

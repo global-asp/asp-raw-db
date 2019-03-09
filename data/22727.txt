@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=22727&d=0&a=1
+id:	22727
+title:	Buru
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Echuwabo
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22727.png
+desc:	Charming illustrations accompany the names of some familiar animals.
+
+page_text:
+
+P1	Mwanabwa
+P2	Nibatta
+P3	N'gombe
+P4	Buru
+P5	N'cilu
+P6	Paaka
+P7	Nibila
+P8	M'buzi
+P9	Guluwe
+P10	Mwanaku
+
+images:
+
+illustrations/pages/26642.png
+illustrations/pages/26643.png
+illustrations/pages/26644.png
+illustrations/pages/26645.png
+illustrations/pages/26642.png
+illustrations/pages/26647.png
+illustrations/pages/26648.png
+illustrations/pages/26649.png
+illustrations/pages/26687.png
+illustrations/pages/26652.png
+illustrations/pages/26651.png
+illustrations/pages/26647.png
+
+translations:
+
+CiNyanja (Translation)	Bulu	id=22723
+Cinyungwe (Translation)	Bulu	id=22725
+Cisena (Translation)	Buru	id=22726
+Echiziinza (Translation)	Ensíkili	id=30271
+Elomwe (Translation)	Puuru	id=22728
+Emakhuwa (Translation)	Puuru	id=22729
+English (Original)	Donkey	id=22679
+Ikisimbëtë (Translation)	Itikërë	id=30266
+Kiswahili (Translation)	Punda	id=29688
+Lusoga (Translation)	Mbbalasi	id=25786
+Lusoga (Translation)	Embalaasi	id=30576
+Olunyaneka (Translation)	Ocimbulu	id=22730
+Portuguese (Translation)	Burro	id=22724

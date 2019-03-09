@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=26308&d=0&a=1
+id:	26308
+title:	Mpanga ni baidhu
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Stephanie Simpson, Hélder de Paz Alexandre, Magriet Brink and Emily Berg
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26308.png
+desc:	Ensonga dhigema ku baidhu ni mpanga. Mpanga yali mukowu wa kulisa baidhu.
+
+page_text:
+
+P1	Eira, Mpanga ni Baidhu bali ba mukwano.
+P2	Bano baali ku kyalo kirala.
+P3	Mpanga yali mulimi wa duuma. Baidhu yali yeyendheza omulimo ogwo. Mu maka ga Mpanga nga tiwakeruka mmere.
+P4	Abaana be baali tibaidhi ndhala bweli oba okulumwa endhala.
+P5	Ewa baidhu, endhala yali tewa yo. kino kyaletera Baidhu okusabiriza sabiriza duuma okuva ewa Mpanga.
+P6	Tikyasanhuza mpanda kulisa maka ga Baidhu. mwami Mpanda yafuna amagezi ati wofisi y'obulimi yabisa amateeka.
+P7	Gati dhuma yenka gwa babe balye ti bbando. kino kyali kizibu eri Baidhu.
+P8	Okuva olwo, okutuusa buti Baidhu takasobola kulya duuma.
+
+images:
+
+illustrations/pages/10466.png
+illustrations/pages/10469.png
+illustrations/pages/9800.png
+illustrations/pages/8545.png
+illustrations/pages/10468.png
+illustrations/pages/7076.png
+illustrations/pages/10470.png
+illustrations/pages/8539.png
+illustrations/pages/8152.png
+
+translations:
+
+English (Original)	Rat and Frog	id=10638
+Luganda (Translation)	Wammese Ne Wakikere	id=16989

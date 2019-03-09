@@ -1,0 +1,67 @@
+url:	https://africanstorybook.org/reader.php?id=29322&d=0&a=1
+id:	29322
+title:	Nayega eisomo
+author:	Kyambogo  University and Sheba  Mugabi
+artist:	Catherine Groenewald
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29322.png
+desc:	Omughala omuto eyali ayenda einho okumanha nga era yekalirisa dhaadha ghe nga ayengeka amenvu.
+
+page_text:
+
+P1	Dhaadha ghange yangonza inho. Yakoberanga ebyama bing aye yaleka yo kirala.
+P2	"ekibo n'ebikaba  byaki?  
+Dhaadha yandiramu ati,"Byakufuusa."
+P3	Nali nhenda kubona.
+aye  dhaadha yatuma nje  nkole ekintu ekindi.
+P4	"Birigha?"
+"Bire bye ghafusiza,"Dhaadha bw'eyankoba.
+P5	Dhaadha yantuma mu kisenge kye.
+Naghuniriza amenvu agenze
+P6	Nali nzuire ekifo dhaadha ghafusiza
+Nali mboine amenvu agenze.
+P7	Nalyaku irala.nelyenvu eridudula ly'enali ndoghozizaku bukyangambagho.
+P8	Natwala amenvu agandi ana.
+nagakweka munda mu kiteteeyi.
+P9	ku lunaku olwa katale, dhaadha yatwala ebirime mu katale okubitana.
+naswala
+P10	Bweyandeta eiraku,namana lwaki andese.
+Tiragamu kuiba omukuzi gundi.
+
+images:
+
+illustrations/pages/1360.png
+illustrations/pages/1361.png
+illustrations/pages/1360.png
+illustrations/pages/1362.png
+illustrations/pages/1363.png
+illustrations/pages/1364.png
+illustrations/pages/1366.png
+illustrations/pages/1368.png
+illustrations/pages/1369.png
+illustrations/pages/1370.png
+illustrations/pages/1371.png
+
+translations:
+
+Arabic (Translation)	موز جدتي	id=21873
+Ekegusii (Translation)	Amatoke A’Baba	id=2371
+English (Original)	Grandma's bananas	id=2094
+English (Adaptation)	I learnt a lesson	id=21792
+French (Translation)	Les Bananes De Grand-Mère	id=9956
+Fulfulde (Translation)	Bananaaje Maamiyo Debbo	id=10008
+Hausa (Niger) (Translation)	Ayabar Kaka	id=9974
+Kanuri (Translation)	Ayawa Kakaye	id=10034
+Kikamba (Translation)	Maiũ Ma Sũsũ	id=2367
+Kiswahili (Translation)	Ndizi za Bibi	id=15942
+Kiswahili (Translation)	Nilipata Funzo	id=21836
+Luganda (Translation)	Nayiga Essomo	id=24164
+Lugbarati (Translation)	Dede Ma A’Bua	id=2368
+Lugbarati (Official) (Translation)	Dede Vile A’Bua Ri	id=8749
+Lumasaaba (Translation)	Kamarofu Ka Kuukhu	id=3095
+Lusoga (Translation)	Nayega eisomo	id=25235
+Maa (Translation)	Ilmaisurîn Le Kokoô	id=2742
+Oluwanga (Translation)	Amaremwa Ka Kukhu	id=2370
+Zarma (Translation)	Ay Kaayi Banaaney	id=10099

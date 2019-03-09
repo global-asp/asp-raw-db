@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=25245&d=0&a=1
+id:	25245
+title:	Ensugha eyafa
+author:	David  Bamukangwiire and Kyambogo  University
+artist:	Emily Berg
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25245.png
+desc:	Byantaka yali nakasugha akatono. Yeegomba ensugha enene. Yaalikozeeki? Yakozesa omutwegwe yaafuna kyeyayenda.
+
+page_text:
+
+P1	Byantaka yali n'ente n'akasugha akatono ak'amaadhi.
+P2	yaaja yeyazikwa ensugha enene egha muliraanwaghe.
+P3	Byantaka yata akasugha akatono mu nnene eya muliraanwaghe.
+P4	Yatwala ensugha dhombi egha muliranwa.
+P5	"Ensughayo yazaala" Byantaka bweyakoba muliraanwaghe.
+P6	Byantaka yaja era yairamu okweyazikwa ensugha.
+P7	Tiyagiizaayo. Muliranwa yaidha okubuuza.
+P8	Byantaka yakoba ati "Yafa. Mbaire ndhikwidha kukukobera.'
+P9	Muliraanwa yawoigana,"Tiwulizangaku ku nsugha efa!"
+P10	Byantaka yairamu, "Mukagwa ghange, buli kintu kizaala kifa"
+P11	Muliraanwa yaja mu kooti okughaabira Byantaka.
+P12	Omulamuzi yaakoba ati,"Buli kintu ekigheera ekizaala kiteekwa okifa.
+P13	Byantaka yafuna ensugha enene aye muliraanwaghe yaaviiramu agho.
+
+images:
+
+illustrations/pages/14436.png
+illustrations/pages/14435.png
+illustrations/pages/14436.png
+illustrations/pages/13193.png
+illustrations/pages/13194.png
+illustrations/pages/14440.png
+illustrations/pages/14437.png
+illustrations/pages/14447.png
+illustrations/pages/14446.png
+illustrations/pages/14448.png
+illustrations/pages/14450.png
+illustrations/pages/14449.png
+illustrations/pages/14451.png
+illustrations/pages/14452.png
+
+translations:
+
+English (Translation)	Byantaka and the dead pot	id=14497
+English (Adaptation)	The pot that died	id=20893
+Hausa (Nigeria) (Translation)	Dambu Kashe Mai Zari	id=22056
+Kinyarwanda (Translation)	Ntampaka n'Intango Ipfuye	id=22144
+Kiswahili (Translation)	Chungu kilichokufa	id=21148
+Kiswahili (Translation)	Biantaka na chungu kilichokufa	id=21610
+Lusoga (Original)	Byantaka ne Entamu Eyafa	id=14482
+Ng’aturkana (Translation)	Agulu Na Atoani	id=21121
+Oluwanga (Translation)	Inyungu yafwa	id=22823
+Runyoro (Translation)	Ensoha Eyafire	id=20993
+Tigrigna (Translation)	እታ ዝሞተት ዕትሮ	id=21195

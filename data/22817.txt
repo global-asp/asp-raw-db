@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=22817&d=0&a=1
+id:	22817
+title:	Esie no Muliro
+author:	Christine  Wanzetse
+artist:	Rob Owen
+lang:	Oluwanga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22817.png
+desc:	Omuliro kwabola ulukano lwayo. Esie no Muliro.
+
+page_text:
+
+P1	Lekha ekhubolere imbakha yanje.
+
+Enjakanga shinga tsintsesere.
+P2	Enzitsanga ewo omuyeka kumbirira.
+P3	Efwe khuli abetsa.
+P4	Endekhaanga eshiokhulia.
+P5	Ekhuweresinjia obulafu mushiro.
+P6	Endi nende obuchesi obunji.
+P7	Endi mulala owoluyia lulwo.
+P8	Obe meso niunanga ewuwo. Shindachama okhulekhwa sienyene tawe.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166

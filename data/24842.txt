@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=24842&d=0&a=1
+id:	24842
+title:	Nnendha ebibira
+author:	Alice Gonza and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24842.png
+desc:	Mu kibira ekye Kibale twagaana mu ebinhonhi
+
+page_text:
+
+P1	Nnendha ebibira.
+P2	E saasira eyabita naja mu kibira ekye Kibale.
+P3	Nabona emiti mingi. Nabona omutiini, omuvule, omunaazi n'omukooge.
+P4	Nabona amalike, enkobe, n'enkembo.
+P5	Nabona ebinhonhi ebyendhawulo. Nabona ngaali, empungu, n'ebiwigulu.
+P6	Naseka bwenabona endovu enene ng'eri na kakira akatono.
+P7	Nabona ebisolo, ebinhonhi, n'ebirime ebyendhawulo
+P8	Ekibira ekye Kibale kirungi okucaalira. Nnendha ebibira. Ate ighe?
+
+images:
+
+illustrations/pages/16540.png
+illustrations/pages/16577.png
+illustrations/pages/16539.png
+illustrations/pages/16544.png
+illustrations/pages/16541.png
+illustrations/pages/16543.png
+illustrations/pages/16542.png
+illustrations/pages/16540.png
+
+translations:
+
+English (Translation)	I love forests	id=16578
+Kinyarwanda (Translation)	Nkunda Amashyamba	id=20684
+Rutooro (Original)	Ngonza Ebibira	id=16545

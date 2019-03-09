@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=29847&d=0&a=1
+id:	29847
+title:	Puusi endhabuufu
+author:	Kyambogo  University and Sheba  Mugabi
+artist:	Catherine Groenewald
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29847.png
+desc:	Mwami Kiio ali ni puusi endhabuufu yebeeta Safi.
+
+page_text:
+
+P1	mukyalo kyange, ghaligho Mwami kiio.mwami kiio ali ni puusi yebeeta Safi.
+P2	mwami kiio bwaaja okupakasa,aleka olwigi nga lwigule.
+P3	safi atyama mu mulyango okukuuma enhumba.
+P4	embwa yamulilwana ghe bweidha okumpi, safi agikanga.
+P5	Embwa elumuka gho.
+P6	milirwana bw'akonkona kulwigi, Safi mw'etefutefu okukwadhula.
+P7	Mulilwana acuuka era yalumuka
+P8	safi bwaba endhala, aigalagho olwigi.
+P9	safi alya emere ye.
+P10	Oluvanhuma, Safi abukira mu ntebe,"tulya! tulya!tulya!"
+P11	Mwami kiio bwaira, Safi y'edhumuula mu sanhu era ya 
+musangaza ghaka
+P12	Mwami kiio ni Safi batyama wansi, era basoma amaghulire.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Ateso (Translation)	Ekapa Lo Ecobee	id=20595
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever cat	id=8878
+Hausa (Nigeria) (Translation)	Kyanwa Mai Wayo	id=21362
+Kiswahili (Original)	Paka mwerevu	id=8877
+Lulamoogi (Translation)	Okapa omugezi	id=31258
+Lusoga (Translation)	Puusi engezi	id=25303
+Sesotho (Lesotho) (Translation)	Katse E Bohlale	id=10622

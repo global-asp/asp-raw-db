@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=27752&d=0&a=1
+id:	27752
+title:	Esaala  ya  Katonda
+author:	Kyambogo  University and Paul Wambi
+artist:	
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27752.png
+desc:	Mu katabo kano
+
+page_text:
+
+P1	Iseife  ali  mwigulu.
+P2	Eriinha  lyo  ligheebwe  ekitiisa.
+P3	Obwa kyabazinga bwo  bwidhe.
+P4	Byoyenda  bikolebwe mu nsi nga bwe  bikolebwa  mwigulu.
+P5	Tuwe  emere  yaife  eya  buli  lunaku.
+P6	Otusonhighe ebisobyo  byaife,
+P7	Nga  twena bwe tusonigha  abatusobyaku.
+P8	Totutwala  mukulebwa.
+P9	Aye  tuzawule  mu  bubi.
+P10	Obwa  kyabazinga  n'obuyinza n'ekitiisa  bibyo  ebyandha  n'ebyandha. Amiina.
+P11	Matayo 6:9-13
+
+images:
+
+illustrations/pages/16273.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Chinyungwe (Translation)	Baba Wathu	id=18980
+Echiziinza (Translation)	Esaala yo Omukáma Múungu	id=31280
+Elomwe (Translation)	Nivekelo Na Apwiya	id=18982
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=18983
+English (Original)	The Lord's Prayer	id=16246
+Imeetto (Translation)	Niswali	id=18993
+Lingala (Translation)	Tata na Biso	id=22493
+Portuguese (Translation)	Pai Nosso”	id=18981

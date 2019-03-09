@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=24596&d=0&a=1
+id:	24596
+title:	I love my father
+author:	Namusisi Vicky Kirabo
+artist:	Brian Wambi, Ursula Nafula and Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24596.png
+desc:	My father is my best friend at home
+
+page_text:
+
+P1	He takes me and my brother to school every morning.
+P2	My father helps me with my home work when I come back from school.
+P3	He settles conflicts between me and my siblings at home.
+P4	He always participates during the community meetings.
+P5	I love to go fishing with my father and brother as I watch others swim.
+P6	Me and my brother feed the hens when our father goes to graze.
+
+images:
+
+illustrations/pages/10081.png
+illustrations/pages/11657.png
+illustrations/pages/13663.png
+illustrations/pages/18760.png
+illustrations/pages/10620.png
+illustrations/pages/13667.png
+illustrations/pages/14035.png
+illustrations/pages/13925.png
+
+translations:
+
+Lusoga (Translation)	Ngonza Bbaabba ghange	id=25823

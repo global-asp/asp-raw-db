@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=28452&d=0&a=1
+id:	28452
+title:	Ekirabo kya dhaadha omukazi
+author:	Alice Gonza
+artist:	Sibongile Mnkandla
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28452.png
+desc:	Maama abeeraku Nangobi okukola ekiraba kya dhaadhawe ekyendhawulo.
+
+page_text:
+
+P1	Dhaadha alikwidha okukyala. Buli lwaidha aleetera Nangobi Amaidho n'ebibala ebyomunsiko oba ebibala ebindi.
+P2	Ekitabo kyandikoze, aye aidhi okusoma? Singa aja mu kiya, asobola okufunayo ekintu ekirungi? "Tumukolere ensawo," Nangobi amwena. "Ensawo engumu eya bululu."
+P3	Maama afuna ebikozesebwa byeyagula kw'idhuuka. Abyandhala ghansi yainhama okubisala. Asokera kundhuyi ibiri emba ate nga ngazi.
+P4	Aira ku butontono ekntu kisobole okuvaamu. Nangobi abizingira ghalala. Abiringirira ng'eno maama bwairamu okubizinga.
+P5	Ekyaghansi akisalamu obugoye obuleeyi bubiri. Buno n'obunaagumya ensawo. Nangobi abuzingamu ng'eno maama bwazinga obundi.
+P6	Asala oabighero bina nga bigazi ate nga bireeyi. Ebibiti biidha kutungibwa byombi bikole akasipi kalala. Kino kiidha kugumya ensawo.
+P7	Maama afulumya ekyalaani. Atunga ensawo ya dhaadha. Agigha Nangobi, amwena yaakoba, "Maama weebale, olw'ensawo ya dhaadha."
+
+images:
+
+illustrations/pages/25487.png
+illustrations/pages/25488.png
+illustrations/pages/25495.png
+illustrations/pages/25490.png
+illustrations/pages/25491.png
+illustrations/pages/25492.png
+illustrations/pages/25493.png
+illustrations/pages/25494.png
+
+translations:
+
+English (Original)	A Present For Grandma	id=21728
+Sesotho (Zimbabwe) (Translation)	Mpho Ea Nkuku	id=21729

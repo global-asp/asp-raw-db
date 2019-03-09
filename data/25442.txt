@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=25442&d=0&a=1
+id:	25442
+title:	Musa ni puusi
+author:	Kyambogo  University and Robert Kirunda
+artist:	Tawanda Mhandu
+lang:	Lusoga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25442.png
+desc:	Musa talabirira puusi yeyalonda nga ava ku isomero. Aye musa ali ne ekilooto ekigema ku puusi egicuusacuusa empisa dhe embi.
+
+page_text:
+
+P1	Musa aba ni bazaire be mu kyalo ekye Kagadama, mu Nigeria, mulenzi mugezi inho, aye gha kyeedhu.
+P2	Musa gha kifuba. Akubakuba mikagwa gye.
+Akubakuba ne ebisolo buli lwabyagaana.
+P3	Lwali lulala bwe yali aira eka, yaaboona puusi.
+yaagibbeedha yaaja nayo eka.
+P4	Bbaaba we bwe yamubona, yaakoba, "Musa lekera agho okubonhyabonhya puusi eyo! 
+Giizeeyo yeghagitooleire."
+P5	Musa yadheema okwizaayo puusi era yagiigaliza mu kiyumba eky'akatimba.
+P6	Bwe yatenduka mu kisenge obwire obwo, Musa yaloota. Musa yabona nga puusi nga egeedha era nga esembera yaali. Nga eyasaime, naamainho amasongovu.
+P7	Puusi nga etandiika okumira ebigere bye. Yaalya ekikutu okutuuka ku bivuubye. Yasiituka.
+P8	Olunaku olwairaku, Musa yaizaayo puusi yeyagitoolera. 
+Okuva niku olwo, yaasubiza okuba omulenzi omukalamu.
+
+images:
+
+illustrations/pages/26349.png
+illustrations/pages/26346.png
+illustrations/pages/26347.png
+illustrations/pages/26348.png
+illustrations/pages/26349.png
+illustrations/pages/26350.png
+illustrations/pages/26351.png
+illustrations/pages/26352.png
+illustrations/pages/26353.png
+
+translations:
+
+English (Translation)	Musa and the cat	id=22325
+Hausa (Nigeria) (Original)	Musa da kyanwa	id=22324
+Kiswahili (Translation)	Musa na paka	id=22352

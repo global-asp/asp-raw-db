@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=22531&d=0&a=1
+id:	22531
+title:	Ngoma
+author:	Ursula  Nafula
+artist:	Salim Kasamba
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22531.png
+desc:	Hadithi kuhusu matumizi ya ngoma katika jamii baadhi ya jamii za Afrika Mashariki. Inataja ujuzi wa kucheza
+
+page_text:
+
+P1	Ngoma imekuwa ala muhimu ya muziki katika jamii mbalimbali. Tunazipenda ngoma!
+
+Tuna ngoma zenye vimo tofauti: kubwa, wastani na ndogo.
+P2	Tunazicheza ngoma kwa kutumia kijiti, au kwa kutumia vidole vyetu.
+
+Tunazicheza kwa sababu tofauti. Tunazicheza  kwa nyimbo na densi, wakati wa sherehe na wakati wa majonzi.
+P3	Ngoma huongeza ladha kwenye nyimbo na kuwafanya watu watake kucheza. Ngoma hufanya sherehe kuwa maridadi.
+
+Tunazicheza wakati wa harusi na tunapompatia mtoto jina. Tunacheza kusherehekea mavuno au kuzaliwa kwa mapacha.
+P4	Ngoma hulia kutangaza majonzi na kuwaita watu kunapotokea kifo.
+P5	Ngoma hulia kuwaita watu kusafisha kisima, barabara, au kumjengea mtu mkongwe nyumba.
+
+Ngoma huwaita watu ng'ombe wetu wanapokuwa wameibwa.
+P6	Ngoma hulia kuwaita watu wakutane kwa chifu wetu.
+P7	Ngoma huwaita watu kwenda kanisani kwa maombi siku ya Jumapili, na kwenye siku zingine za maombi.
+
+Pia, ngoma huchezwa kutia ladha wimbo unapoimbwa kanisani.
+P8	Ngoma kubwa husikika, "An a bul mba, an a bul mba, an a bul mba-mba-mba-mba bul." Nayo ndogo hutoa sauti ya juu, "Tindiri, tindiri tindiri ti."
+
+Pamoja zote huitikia, "Tindiri mba, tindiri mba, tindiri mba-mba-mba-mba, tindiri ti!"
+
+images:
+
+illustrations/pages/25948.png
+illustrations/pages/25947.png
+illustrations/pages/25948.png
+illustrations/pages/25949.png
+illustrations/pages/25950.png
+illustrations/pages/25951.png
+illustrations/pages/25952.png
+illustrations/pages/25953.png
+illustrations/pages/25954.png
+
+translations:
+
+Dhopadhola (Original)	Bul	id=22190
+English (Translation)	Drum	id=22191
+Lusoga (Translation)	Engoma	id=25636

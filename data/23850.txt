@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=23850&d=0&a=1
+id:	23850
+title:	Amapfa n'Inkende
+author:	Jean Paul Harelimana
+artist:	Salim Kasamba
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23850.png
+desc:	Twese twajya tubana mu mahoro turamutse twemeye gusangirira hamwe.
+
+page_text:
+
+P1	Imvura yarabuze, maze ubutaka buruma.
+P2	Iyi nkende yavuye mu rugo ijya gushaka amazi n'ibyo kurya.
+P3	Yazamutse imisozi, imanuka ibibaya.
+P4	Yaje kugera mu gace kitwa Bwiza.
+P5	Inkende yishimiye cyane aho hantu.
+P6	Yariye imbuto maze irabyibuha. Ariko ikumbura incuti zayo.
+P7	Inkende yafashe urugendo isubira imuhira.
+P8	Izindi nkende zishimiye cyane kongera kubona mugenzi wazo agarutse.
+P9	Zarayibajije ziti:  "Aho hantu hari imbuto ni hehe?"
+P10	Inkende irazibwira iti: "Nzahabajyana."
+P11	Izindi nkende nazo zakunze mu Bwiza. Zafashe umwanzuro wo kuhaguma burundu.
+P12	Gusa inkende kavukire zo mu Bwiza zagize impungenge.
+P13	Zaravuze ziti: "Izi nkende zindi zaje zizatumarira imbuto."
+P14	Inkende kavukire zo mu Bwiza zateye inkende nshyashya.
+P15	Inkende nkuru irazibaza iti: "Kuki turwana? Ibiryo dufite byaduhaza twese!"
+P16	Ibyo byari ukuri. Nuko inkende zose ziyemeza kubana mu mahoro.
+
+images:
+
+illustrations/pages/18796.png
+illustrations/pages/18786.png
+illustrations/pages/18788.png
+illustrations/pages/18789.png
+illustrations/pages/18790.png
+illustrations/pages/18791.png
+illustrations/pages/18792.png
+illustrations/pages/18793.png
+illustrations/pages/18794.png
+illustrations/pages/18795.png
+illustrations/pages/18796.png
+illustrations/pages/18797.png
+illustrations/pages/18798.png
+illustrations/pages/18799.png
+illustrations/pages/18800.png
+illustrations/pages/18801.png
+illustrations/pages/18802.png
+
+translations:
+
+Afaan Oromo (Translation)	Jaldeesafi Hongee	id=20429
+Amharic (Translation)	ዝንጀሮና ድርቁ	id=20500
+English (Original)	Monkey and the Drought	id=18803
+English (Adaptation)	Monkey and the Drought	id=19767
+Hausa (Nigeria) (Translation)	Biri da Fari	id=20511
+Hausa (Nigeria) (Translation)	Birai a Lokacin Fari	id=21366
+IsiNdebele (Zimbabwe) (Translation)	Unkawu Ngomnyaka Wendlala 	id=21689
+isiZulu (Translation)	UNkawana nesomiso	id=20725
+Kiswahili (Translation)	Kima na kiangazi	id=18804
+Kiswahili (Translation)	Kima na kiangazi kibaya	id=20440
+Lusoga (Translation)	Wankembo mu Kyeya	id=22500
+Ng’aturkana (Translation)	Ekadokot Ka Akamu	id=20411

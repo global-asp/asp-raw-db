@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=28801&d=0&a=1
+id:	28801
+title:	Abantu mu maka  n' okwega
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Marleen Visser, Karlien de Villiers, Marike le Roux, Rob Owen, Jesse Pietersen, Silva Afonso, Vusi Malindi and José Jochicala
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28801.png
+desc:	Nsobola okwogera ku bika bya bantu bemba nabo ghaka era na buli mulimo omuntu gwakola ghaka.
+
+page_text:
+
+P1	Eriinha  lyange  ninze  Kote.
+P2	Maama  wange  mmuyambaku  okukola  emirimo.
+P3	Ono  mugandawange  ni  Loviisa. 
+Ayendha  inho  ebibala.
+P4	Loviisa  ayambaku  maama  okusiimula  enhumba  n'okwoza  engoye.
+P5	Mukulu  wange  ni  Posiyano.  Posiyano  alabirira  ebisolo  nga  aviire  ku isomero, yabigha  eby'okulya  na amaadhi.
+P6	Ono  ni  maama  ghaife.  Atugabula  emere  twalya  twaghomerwa  inho!
+P7	Onho  ni  bbaabba  waife.  Atusomera  enfumo  edhiri  mu lulimi  lwaife  olusoga. Ninze  zeena  nnhendha  inho okusoma  enfumo.  Ighe  oyendha  okwega  enfumo?
+
+images:
+
+illustrations/pages/13370.png
+illustrations/pages/11992.png
+illustrations/pages/13370.png
+illustrations/pages/13388.png
+illustrations/pages/7958.png
+illustrations/pages/11995.png
+illustrations/pages/13368.png
+illustrations/pages/8861.png
+
+translations:
+
+Luganda (Original)	Abantu B'omumaka Ge Waffe.	id=13615

@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=24700&d=0&a=1
+id:	24700
+title:	Mary is lazy
+author:	nasasira bridget
+artist:	Steven McKimmie, Venolin Keanan Govender, Vusi Malindi and Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24700.png
+desc:	Mary is lazy. She comes from a rich family. She can not even cook food. She wakes up very late to go to school. Mary sleeps in class because she is lazy. Mary does not respect her teachers. She does not understand what her teachers teach her. She walks slowly out of her classrooms. Marys father loves her so much. She has no friends.
+
+page_text:
+
+P1	Mary is lazy.
+P2	She comes from a rich family.
+P3	She cannot even cook food.
+P4	She wakes up late to go to school.
+P5	She has no friends and does not mind people.
+P6	Her father loves her a lot.
+P7	She sleeps in class.
+P8	She does not respect her teachers.
+P9	She walks out of her classroom slowly because she is lazy.
+
+images:
+
+illustrations/pages/1003.png
+illustrations/pages/14856.png
+illustrations/pages/16780.png
+illustrations/pages/6188.png
+illustrations/pages/13754.png
+illustrations/pages/13388.png
+illustrations/pages/19457.png
+illustrations/pages/13841.png
+illustrations/pages/13824.png
+illustrations/pages/7508.png
+
+translations:
+
+Lusoga (Translation)	Maliya mugayaavu	id=28902

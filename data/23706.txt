@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=23706&d=0&a=1
+id:	23706
+title:	ABAKURU
+author:	Stella  Kobulegyeya and Uganda Christian University
+artist:	Salim Kasamba
+lang:	Runyankore
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23706.png
+desc:	AKAKATABO NIKAGAMBA AHA BAKURU ABINE OMURURU GYENYAMA!
+
+page_text:
+
+P1	Izoba rimwe, hakabahariho omushija, omukazi na'bana babo.
+
+Nyina wa'bana akana teka emere birizoba. akana bihurira emere agiteka aha meza nabwanyima balya
+P2	Ishebo akana baganisa enyama. akagambira mukuru wabo ati,"nkuzire kurya enyama. enyama eyawe  ngigi. linda obanze wakura."
+P3	Nabyanyima agambira ondizho ati,"nkuzire kurye'nyama.eyawengigi. linda obanze okure
+
+Burikachweka kenyama kakeyongera kukyendera. eki kikanikikorwa ahabana boona. Omwana omuto akatunga akachweka akache munonga
+P4	Ishebo akabika enyama empango bitu zikaziri ezeye nano'mukaziwe. bitu abana bakahunama nikwokurya emere yabo
+P5	Bwanyima ye mwakamwingi abana bakakura abazire bahwa amani haza abana bareberera nyina wabo nan'ishe
+P6	Ezobarimwe barikurya, omwana omukuru akihura enyama nkaburizho.buti akahereza' ishe akachweka kenyama akakye  nanyina'bo
+P7	Yagira'ati," mukarya eyanyu, hati nakeirekitu. tukuzire ekikumare."
+
+
+Akihurira banyanya be enyama'nyingi
+P8	Ishebo yijuka ekiyabire akora abana bakiri baato. nyinabo n'ishebo bikirizana ngu kikakitikire. bakashba okusasirwa. Abana baraganisa nkoku batarikora enshobi'egi nabana baabo
+
+images:
+
+illustrations/pages/13927.png
+illustrations/pages/13924.png
+illustrations/pages/13925.png
+illustrations/pages/13926.png
+illustrations/pages/13927.png
+illustrations/pages/13928.png
+illustrations/pages/13929.png
+illustrations/pages/13930.png
+illustrations/pages/13931.png
+
+translations:
+
+English (Translation)	Elders	id=13934
+isiZulu (Translation)	Amakhehla nezalukazi	id=16091
+Kinyarwanda (Translation)	Abakuru	id=17459
+Luganda (Translation)	Abakadde	id=23758
+Lugbarati (Original)	Mba-Za	id=13933
+Lusoga (Translation)	Abakaire	id=25178

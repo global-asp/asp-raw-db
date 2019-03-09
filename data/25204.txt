@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=25204&d=0&a=1
+id:	25204
+title:	Omuzaanho  ogw'okulya  enkaakale
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Zito Jorge Ngovene
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25204.png
+desc:	Mumuzaanho guno mukwano gwaife Kadhuuyu yaghangulwa!
+
+page_text:
+
+P1	Eira  einho,  kadhuuyu   ni musota  baali  ba  mukwano.
+P2	lwali  lulala batandiika  okuwaya.  Aye  Kadhuuyu yali  mugezi  inho  okusinga  musota,  era  musota  yali  mukiidhi!
+P3	Kale baali  bali kwe buuzaamu naanhi  asinga kulya nkaakale.
+Musota yaakoba, "leka  tukigezeeku.  Ndha kukughangula na kukulingirira oti bwa ki."
+P4	Omusota n'akadhuuyu byeinama okugalingagana. okulya enkaakale.  Beeyongera okikola  emikuzi  kamaala.
+P5	Musota yaakoogha. Yaava  mu mubiri  luwu lwonka  nolwasigala  nga lulingira  kadhuuyu.
+P6	Kadhuuyu yeyongera okulingirira oluwu lwa musota   okumala  entangama ey'obusaawa obuweraku.
+P7	Kadhuuyu  yadhuubanga ati naakasinga bugezi   mu bisolo, aye  olunaku  olwo, obugezi  bwe  bwakoma.  Era eyo  n'ensonga  lwaki leero  kadhuuyu atenduka mamoga.
+
+images:
+
+illustrations/pages/8671.png
+illustrations/pages/17409.png
+illustrations/pages/17407.png
+illustrations/pages/17408.png
+illustrations/pages/17413.png
+illustrations/pages/17412.png
+illustrations/pages/17411.png
+illustrations/pages/17410.png
+
+translations:
+
+English (Original)	The staring game	id=8554
+English (Adaptation)	(Colour-in) The Staring Game	id=17414
+Portuguese (Translation)	O Jogo De Olhar Sem Piscar	id=8694

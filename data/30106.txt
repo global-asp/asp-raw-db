@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=30106&d=0&a=1
+id:	30106
+title:	Muzeeyi gha  koleo
+author:	Kyambogo  University and Sheba  Mugabi
+artist:	Wiehan de Jager and PHELLOW MMBUNI
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30106.png
+desc:	Akafumo kano kagema kuboluganda bo muzeeyi aja mutaghuni omulundi ogusoka.
+
+page_text:
+
+P1	Muzeeyi gha koleo yankaja mutaghuni.
+P2	mukazi ghe yena yakaja mutaghuni
+P3	mutabani gha mukazi gha koleo yena yankaja mutaghuni
+P4	omwaana gha songa gha mutabani gha mukazi gha 
+muzeeyi gha Koleo yankaja mutaghuni.
+P5	Embwa yo mwaana gha songa gha mutabani gha mukazi gha muzeeyi gha koleo yankaja mutaghuni.
+
+images:
+
+illustrations/pages/13990.png
+illustrations/pages/13990.png
+illustrations/pages/13992.png
+illustrations/pages/13988.png
+illustrations/pages/13989.png
+illustrations/pages/13993.png
+
+translations:
+
+English (Original)	The Old Man of Koleo	id=13938
+Luganda (Translation)	Muzeeyi we Koleo	id=24443
+Luganda (Translation)	omuzeeyi ghe koleo	id=28605

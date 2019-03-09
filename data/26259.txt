@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=26259&d=0&a=1
+id:	26259
+title:	Omuliro  gwizeemu
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26259.png
+desc:	Tufuuna emirimo mingi inho egyomuliro
+
+page_text:
+
+P1	Mbona  omuliro  kayiri.
+P2	Omuliro  gulikwaka  inho.
+P3	Omuliro  gusobola   okufumba emamba n'eiva eisoga.
+P4	Omuliro  gusobola okunsuuya.
+P5	Ekitangaaze  eky'omuliro  ekya kacungwa kimuliikirira munzikiiza.
+P6	Omuliro  gubbubbuka gwa pumpuguka.
+P7	Omuliro gwamaanhi era  gusobola  okuba ogw'akabende.
+P8	Tulin'okuba  abeegendereza  nga  tukuma  omuliro n'okuguzaanhisa.
+
+images:
+
+illustrations/pages/6121.png
+illustrations/pages/1298.png
+illustrations/pages/8560.png
+illustrations/pages/8557.png
+illustrations/pages/17333.png
+illustrations/pages/8558.png
+illustrations/pages/6121.png
+illustrations/pages/8556.png
+illustrations/pages/1298.png
+
+translations:
+
+English (Original)	Fire Again!	id=19933
+Kinyarwanda (Translation)	Umuriro Nanone	id=21050
+Luganda (Translation)	Omuliro Naate	id=21265

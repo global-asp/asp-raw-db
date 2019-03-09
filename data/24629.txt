@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=24629&d=0&a=1
+id:	24629
+title:	EMITI EMILUNGI
+author:	NAKANJAKO DAPHINE
+artist:	Wiehan de Jager, Neo and José Nhambo
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24629.png
+desc:	Emigaaso gyemiti eri abantu
+
+page_text:
+
+P1	emiti  gituwa emere  eyebika ebyenjawulo okugeza muwogo
+P2	emiti kyabulambuzi era gituwa obugaga nga ffe bannansi
+P3	emiti gituwa ebibala okugeza,emiyembe,obutunda,emichungwa,ffene,amanvu.
+P4	emiti tugifunamu eddagala elyenjawulo okugeza ssere,embombo,omululuza
+P5	emiti gituyambako mu kukola enkuba nadala ebffo e
+P6	emiti gituwa ekisikirize ate era tugizimbisa enju
+P7	emiti tugibagyamu ebintu ebyenjawulo okugeza entebe,ebitanda,emeza,nebilala
+P8	emiti gyamugaso nyo tujagala,era jitusanyusa
+
+images:
+
+illustrations/pages/10226.png
+illustrations/pages/19709.png
+illustrations/pages/16539.png
+illustrations/pages/1500.png
+illustrations/pages/1072.png
+illustrations/pages/8395.png
+illustrations/pages/14747.png
+illustrations/pages/10279.png
+illustrations/pages/10763.png
+
+translations:
+
+Lusoga (Translation)	Emiti Miruungi	id=30583

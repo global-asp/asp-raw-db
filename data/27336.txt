@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=27336&d=0&a=1
+id:	27336
+title:	Okubala puusi
+author:	Kyambogo  University and kiirya zephania
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27336.png
+desc:	Okubaala okuva ku kyeerere okutuuka ku mwenda.
+
+page_text:
+
+P1	Puusi mye kyeerere.
+P2	puusi dhiri emeeka? eri ndhala.
+P3	Puusi ibiri dhibirabubire.
+P4	Puusi isatu dhisaatulabusaatuule.
+P5	Puusi ina dhinhaanabunhaane.
+P6	Puusi itaanu dhitaanabutaane.
+P7	Puusi mukaaga dhikagabukage.
+P8	Puusi musanvu dhisaba masavu.
+P9	Puusi munaana dhinaanabunaane.
+P10	Puusi eyomwenda eyenda bwende.
+P11	Puusi eyeikumi ekuumabukuume.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Dhopadhola (Translation)	kwano pus	id=23214
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala Puusi	id=24824
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584

@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=26421&d=0&a=1
+id:	26421
+title:	Mughala wange Polar
+author:	Edison Kasajja and Kyambogo  University
+artist:	Vusi Malindi
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26421.png
+desc:	Olughayo luno lulaga omughala ayetebwa Polar eyayandanga okuwulirisa nkughaya enfuumo. Kino kya muleetera okugoozebwa omusomesa ni mukaire we.
+
+page_text:
+
+P1	Ono ni mughala wange Polar.
+P2	Mughala mukalamu.
+P3	Ayeenda okufuma enfuumo
+P4	Mukobera enfuumo.
+P5	Polar yenna aghayira bakagwa be enfuumo.
+P6	Lulala polar yaghaya olufuumo olulungi einho.
+P7	Olufuumo lwa li lugema kukufuumba.
+P8	Omusomesa we mugha keeki era bonaboona basanhuka.
+
+images:
+
+illustrations/pages/7511.png
+illustrations/pages/7511.png
+illustrations/pages/7517.png
+illustrations/pages/7510.png
+illustrations/pages/7511.png
+illustrations/pages/7509.png
+illustrations/pages/7510.png
+illustrations/pages/7516.png
+illustrations/pages/7515.png
+
+translations:
+
+English (Original)	My Daughter Polar	id=7773
+Lusoga (Translation)	mughala wange polar	id=26380
+Runyankore (Translation)	Omuhaara wangye Polina	id=23048

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=28781&d=0&a=1
+id:	28781
+title:	Ghandi kolere ki?
+author:	Kyambogo  University and Mpala Paul
+artist:	Amir Bachir António Necas
+lang:	Lulamoogi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28781.png
+desc:	Eriyo amaite ekyokukola ngali omumbeera embiibbi?
+
+page_text:
+
+P1	Okolagh'oki? Ng'oli wenka omunsi?
+P2	Okolagh'oki? Nga ekyologhoozya lwali lusozi amazima nga ngoina?
+P3	Okolagh'oki? Nga ongoina ali kukuzugaku okumugongo gwayo?
+P4	Okolagh'oki? Nga ongoina ali kukutiisyatiisya okukulya?
+P5	Okolagh'oki? Nga bali kukaka okubba aghaigulu ghomusaale okumala enaku?
+P6	Okolagh'oki? Nga tiwamanyire luuyi lwa maizi ongoina olweyekwekere ku?
+P7	Okolagh'oki? Nga enzira yonka ekwiryayo eika y'okusala mwiga?
+P8	Okolagh'oki? Nga olimu ghakati, n'obona engweina emba ibiri nga gyiri kukwizira?
+
+images:
+
+illustrations/pages/10579.png
+illustrations/pages/10572.png
+illustrations/pages/10576.png
+illustrations/pages/10578.png
+illustrations/pages/10583.png
+illustrations/pages/10586.png
+illustrations/pages/10571.png
+illustrations/pages/10573.png
+illustrations/pages/10574.png
+
+translations:
+
+English (Original)	What Would You Do?	id=12969
+Lusoga (Translation)	Oghanga kukola ki?	id=30262

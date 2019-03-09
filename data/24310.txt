@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=24310&d=0&a=1
+id:	24310
+title:	Ingona n'Imbwa
+author:	Magnus Intwali
+artist:	Rob Owen
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24310.png
+desc:	Imbwa yasanze amagi ku nkombe yumugezi. Irayatwara iyajyana iwabo. Ese ingona izakora iki nibimenya?
+
+page_text:
+
+P1	Umunsi umwe, Imbwa yasanze amagi icumi ku mugezi.
+P2	Nuko imbwa ishyira ya magi icumi mu ruhago rwayo.
+P3	Nuko imbwa itwara ya magi, iyashyira ahantu hashyushye.
+P4	Ingona ishakisha ya magi, igera no ku mbwa iyibaza niba ntayo yabonye, imbwa irahakana.
+P5	Ingona ibaza inyamaswa zose, zikayibwira ko zitabonye ayo magi.
+P6	Igihe kigeze, utwana tw'ingona tuva muri ya magi.
+P7	Imbwa, birayinanira kubonera utwo twana tw'ingona ibyo kurya bihagije.
+P8	Umunsi umwe, ingona inyuze hafi y'aho imbwa yari ituye, yumwa utwana twayo turira dutaka twishwe n'inzara.
+P9	Ingona ihita yinjira mu nzu ikubita imbwa umurizo, Imbwa ihita isohoka iriruka.
+P10	Ingona iyirukaho  bimanuka umuhanda wose!
+P11	Zirakomeza ziriruka, ariko Imbwa igezaho irananirwa, irahagarara, ibwira Ingona iti:" Mbabarira!"
+P12	Ingona ibonye ubwoba imbwa ifite, irayibabarira ariko iyisaba kutazongera gutwara ibitari ibyayo. Ingona ifata utwana twayo itujyana mu mugezi.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Dog and Crocodile	id=18290
+English (Adaptation)	Crocodile and Dog	id=20911
+isiXhosa (Translation)	UNja noXam	id=17573
+Kinyarwanda (Translation)	Ingona n'Imbwa	id=23353
+Kiswahili (Translation)	Mbwa na mayai ya Mamba	id=17596
+Kiswahili (Adaptation)	Mbwa na mayai ya Mamba	id=18327
+Kiswahili (Translation)	Mamba na Mbwa	id=21151
+Luganda (Translation)	Gonya ne Wambwa	id=22957
+Luganda (Translation)	Wambwa nne Ggoonya	id=24579
+Lusoga (Translation)	Wambwa ni Wangoina	id=25309
+Tigrigna (Translation)	ሓርገፅን ከልብን	id=21178

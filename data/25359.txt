@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=25359&d=0&a=1
+id:	25359
+title:	Nalubanga
+author:	Ibrahim  Isabirye and Kyambogo  University
+artist:	Benjamin Mitchley, Magriet Brink, Marleen Visser and Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25359.png
+desc:	Omughala omuto eyazalibwa mu kaalo ake Ndifakulya
+
+page_text:
+
+P1	Nalugaga yali omughala omuto omugezi eyazaalibwa mumaka agaabaana abana.
+P2	Neeyali omughala yenka mu balenzi abasatu.
+P3	Yali wakisa eri buli muntu mu kyalo era yali amanhikwa lwekyo.
+P4	Olunaku lulala, ekyalo kyali kizingibwa ku n'abaibi abente.
+P5	Ow'emyaka eikumi n'etaanu Nalubaga, yali asitwike.
+P6	Ya kuba enduulu ghaigulu bwe ya bona abaibi.
+P7	Ekyalo kyonakyona kyasituka nga kiwulire endhuulu.
+P8	yali mugezi inho okukuba omulala kubaibi abente.
+P9	Yamulemesa okulumuka.
+P10	Nalubanga yasaakibwa olw'obugezi bwe n'ekisa kye.
+
+images:
+
+illustrations/pages/7963.png
+illustrations/pages/12939.png
+illustrations/pages/19017.png
+illustrations/pages/8223.png
+illustrations/pages/19349.png
+illustrations/pages/9499.png
+illustrations/pages/9494.png
+illustrations/pages/10625.png
+illustrations/pages/8526.png
+illustrations/pages/6590.png
+illustrations/pages/10619.png
+
+translations:
+
+English (Original)	Aniy'amanya the brave girl	id=24300

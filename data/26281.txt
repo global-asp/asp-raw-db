@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=26281&d=0&a=1
+id:	26281
+title:	Okugula  ebintu
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Atilabachew Reda, Catherine Groenewald, Rijuta Ghate, Rob Owen and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26281.png
+desc:	Abaaghalala baagya okugula ebintu bya sekuukulu.
+
+page_text:
+
+P1	Olunaku  lulala  abantu   baagya  mukatale  okugula  ebintu bya sekuukulu.
+P2	Baali  bantu  bataanu. Maama, bbaabba, omughala n'omukozi.
+P3	Omwana  ghaibwe  John n'omukozi, mercy, baagema  ebiibo.
+P4	Bbaabba yali  agemye  Joy, akaghala akato ni maama  nga  agemye ensagho ye.
+P5	Bwebaatuuka  mu katale, baagula  ebintu  bingi.
+P6	Baagula  ebintu  nga eiva   eisoga, ebibala, emamba, amatooke n'ebindi.
+P7	Ka  Joy  katandiika  okulirira  buli  kintu, amenvu, biidoli, buli kintu.
+P8	Bbaabba  yaakagulira  ki  doli ekinene era  yaaba  musanhufu.
+P9	John  yeena yaasaba  omupiira  era  baagumugulira.
+P10	Baagulira  n'omukozi  ekiteeteeyi  ekirungi era  yaaba  musanhufu inho.
+P11	Buli  muntu  yairayo  eka  nga  musanhufu  inho.
+
+images:
+
+illustrations/pages/13461.png
+illustrations/pages/9495.png
+illustrations/pages/14978.png
+illustrations/pages/6056.png
+illustrations/pages/10482.png
+illustrations/pages/14025.png
+illustrations/pages/1453.png
+illustrations/pages/10482.png
+illustrations/pages/15656.png
+illustrations/pages/12942.png
+illustrations/pages/1897.png
+illustrations/pages/9493.png
+
+translations:
+
+English (Original)	Family shopping	id=24538
+Lusoga (Translation)	Amaka gagula ebintu	id=25971

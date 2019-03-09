@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=30105&d=0&a=1
+id:	30105
+title:	Ekimuli kye eirogo
+author:	Juliet Namugaya
+artist:	Ben Terarc
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30105.png
+desc:	Mukyalo ekye eyo eghla yaliyo enimiro nga mulimu ebimuli ebyeirogo ebyakozesebwanga mu ebyo bye baayendanga byonabyona. Lwali lulala
+
+page_text:
+
+P1	Lulala ebaayo ebaayo ekimuli ekyaleghererera oti muti
+P2	Ebiwusu bye ekimuli byali binene inho.
+Babikozesanga okukola amaato.
+P3	...ne ebiteteeyi.
+P4	Ne endhu...
+Paka lunaku lulala, nga ebiwusu byona byona busa.
+Baaniiga.
+P5	Omuntu yaidha na amagezi ago kukola ebimuli kamaala.
+P6	Empambo! Olwo nhi, baakola omusiri gwe ebimuli.
+
+images:
+
+illustrations/pages/26846.png
+illustrations/pages/26841.png
+illustrations/pages/26842.png
+illustrations/pages/26843.png
+illustrations/pages/26844.png
+illustrations/pages/26845.png
+illustrations/pages/26846.png
+
+translations:
+
+English (Original)	The Magic Flower	id=23150

@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=24646&d=0&a=1
+id:	24646
+title:	AIDS kills even the handsome
+author:	Alison Abel
+artist:	Brian Wambi, Kenneth Boyowa Okitikpi, Melany Pietersen, Wendy Morison and Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24646.png
+desc:	John a handsome boy dies of AIDS because of his sexual immorality.
+
+page_text:
+
+P1	John was the most handsome and popular boy in the village.
+P2	He admired every girl in the village and they loved him too.
+P3	He went to the hospital and was told that he had contracted the HIV virus.
+P4	John worried for his life and was sorry that God had made him handsome.
+P5	John's depression often made him think about the end of his life.
+P6	With time, John's beauty was taken by the sickness and nobody wanted him.
+P7	A few years later, John died and was buried by only his family.
+
+images:
+
+illustrations/pages/8903.png
+illustrations/pages/27125.png
+illustrations/pages/10613.png
+illustrations/pages/8035.png
+illustrations/pages/13837.png
+illustrations/pages/13102.png
+illustrations/pages/19114.png
+illustrations/pages/4508.png
+
+translations:
+
+Lusoga (Translation)	Mukenembya aita n'Abalungi	id=25071
+Lusoga (Translation)	Kaniaza aita na abalangaadhu	id=25431
+Lusoga (Translation)	silimu aita nabalungi	id=25698

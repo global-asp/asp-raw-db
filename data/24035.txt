@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=24035&d=0&a=1
+id:	24035
+title:	Obutahura
+author:	Timothy Nahurira
+artist:	Marion Drew
+lang:	Runyankore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24035.png
+desc:	Egi empunu yomweshungo teri kuhurikiriza omuhingi.
+
+page_text:
+
+P1	Bukaba buli obwire bwe binyamishwa kubyama. 
+Emwe aharibyo tera hurikirize
+P2	Omuhingi akashaba empunu ngu etahe omu kiju kyayo. Konka akanga kutaha mu
+P3	Omuhingi akashaba ekihuzo kye kiyabire nayesiga ngu kitere empunu.
+P4	Omuriro nya buriro nabwo bukanga kwosya ekihuzo ahabwo butahurira
+P5	Amaizi garikwera nago gakanga ku hurikiriza omuhingi kuraza omuriro
+P6	Omuhingi akashaba ente yamate kunywa amaizi garikwera.
+P7	Ente yamate ekajira, "Ninza kunywa amaizi. Nyine eliho."
+P8	Amaizi galikwera gakara, "Otanywa ninza kulaza omuriro."
+P9	Omuriro nagwa gukara guti, "Ngaha otakikora. Leka nyosye ekihuzo."
+P10	Ekihuzo nakyo kyarira kiti, "Nakweshengereza ota nyosya. Leka ntere Empunu
+P11	Empunu ekanyiga eti," Leka ntahe omu kiju kyangye."
+P12	Empunu ekaza omu kiju yaye tebekanisa kubyama
+
+images:
+
+illustrations/pages/18310.png
+illustrations/pages/18306.png
+illustrations/pages/18307.png
+illustrations/pages/18308.png
+illustrations/pages/18309.png
+illustrations/pages/18310.png
+illustrations/pages/18311.png
+illustrations/pages/18312.png
+illustrations/pages/18313.png
+illustrations/pages/18314.png
+illustrations/pages/18315.png
+illustrations/pages/18316.png
+illustrations/pages/18317.png
+
+translations:
+
+ChiShona (Translation)	Nguruve yakaramba kuteerera	id=22236
+English (Translation)	Pig that wouldn't listen	id=19470
+English (Adaptation)	Disobedience!	id=20907
+isiZulu (Original)	Ingulube eyayingafuni ukungena egoqweni	id=19469
+Kiswahili (Translation)	Kutotii!	id=21149
+Lusoga (Translation)	Obudheemu	id=25206
+Runyankore (Translation)	Obugangaazi	id=24420
+Tigrigna (Translation)	ዘይምምእዛዝ	id=21194

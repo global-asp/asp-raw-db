@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=24485&d=0&a=1
+id:	24485
+title:	akasolo kange kembela nako buliwamu
+author:	ivor sempa
+artist:	Sonia Dearling and Marleen Visser
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24485.png
+desc:	Olugero lukwatagana ku kasolo kange kembela nako.
+
+page_text:
+
+P1	akasolo kange bakayita koko ka balagavu ate kalungi
+P2	muganda wange omulenzi nange twagala okuzannya ne koko nga mama bwatulaba
+P3	koko azanya nyo ayagala okuzanya nabe buto bwe  nga mamayebase wabula atee nze nga mulaba
+P4	mikwano no jange nange twagala okulaba koko nga azannya ne biwojolo. atee byebitukuma nga tetuli bizee
+P5	buli omu ayagala koko muganda wange tom yagulidde koko ekilabo nensanyuka
+P6	koko muyonjo nyo atee njagala okumusitula naye akyagala
+
+images:
+
+illustrations/pages/13441.png
+illustrations/pages/9563.png
+illustrations/pages/13446.png
+illustrations/pages/13439.png
+illustrations/pages/13444.png
+illustrations/pages/13445.png
+illustrations/pages/13441.png
+
+translations:
+
+English (Original)	My Pet	id=14279
+English (Adaptation)	My cat Koko	id=17165
+Luganda (Translation)	Akasoolo kange	id=23896
+Lusoga (Translation)	Puusi yange yenkikidha nayo ghaka	id=25737

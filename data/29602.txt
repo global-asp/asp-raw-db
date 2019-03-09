@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=29602&d=0&a=1
+id:	29602
+title:	Omuzaanho omufumbe
+author:	Antony Kisambira and Kyambogo  University
+artist:	Reginaldo Vicente Manhice
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/29602.png
+desc:	Ndhuuyu yayanhiriza mukagwa ghe Nkembo okuzaanha aye ebintu tibyatambula bulungi.
+
+page_text:
+
+P1	Agho olwatuuka, Ndhuuyu ni Nkembo baali bakagwa. Lunaku lulala, mu kiseera ekye'ndhala, Ndhuuyu yayanhiriza Nkembo okuzaanha.
+P2	Ndhuuyu yaakoba, ''Leka tuzaanhe okwefumba beenenabeene!'' Nkembo yaabuuza, ''Ekyo tusobola tutya okukikola?''
+P3	Ndhuuyu yaabuuza, ''Okusooka tuli n'okukola omuliro.''
+P4	Ndhuuyu yeyongera, ''Twidhuze esuwa amaadhi,nnhi era tugite kumuliro.
+P5	''Nze ndha kusookamu.Bwenkuba kukisembo ekye'nsuwa, oidha ku giigula. Mala nfulumemu.''Ndhuuyu ainhongola. Nkembo aikirizagania.
+P6	Era, Ndhuuyu yasooka mu nsuwa.
+P7	Amaadhi bwegatandhiika okubuguumirira, Ndhuuyu yakonkonha nnhi Nkembo yaigula ekisembo.
+P8	Bwekyaali nga Nkembo nairaku, Ndhuuyu yaata eibaale einhenhe kukisembo ekye'nsuwa era nga no'kutyaamaku ngo'kwo kwo'taire
+P9	Amaadhi bwegataandhiika okutogota, Nkembo yakonkonha, aye Ndhuuyu tiyaigulawo kisembo.
+P10	Nkembo yafa, nnhi Ndhuuyu yaalya mukagwa ghe asinga.
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/17555.png
+illustrations/pages/17553.png
+illustrations/pages/17557.png
+illustrations/pages/17561.png
+illustrations/pages/17554.png
+illustrations/pages/17562.png
+illustrations/pages/17556.png
+illustrations/pages/17560.png
+illustrations/pages/17559.png
+illustrations/pages/17558.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25371
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The cooking game	id=6993
+English (Adaptation)	(Colour-in) The Cooking Game	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo wokuphekana (Faka imibala)	id=17564
+Lusoga (Translation)	Omuzaanho ogw'okwefumba	id=24982
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Rutooro (Translation)	Omuzaano gwo kucumba	id=24459
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=23747&d=0&a=1
+id:	23747
+title:	Naweza kufanya hili!
+author:	HANNINGTON  OWERE
+artist:	Silva Afonso
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23747.png
+desc:	Ni siku ya kwanza ya Amelia ya shule. Je
+
+page_text:
+
+P1	Amelia anamka na anadhani, "Leo ni siku yangu ya kwanza ya shule."
+P2	"Carlos, ninafanya nini?" Amelia anauliza. "Nitakwambia," Carlos anajibu.
+P3	Carlos anamwambia Amelia kuosha uso wake. Amelia anasema, "Ninaweza kuosha uso wangu. Na kisha?"
+P4	Carlos anamwambia Amelia kupiga meno yake. Amelia anasema, "Ninaweza kupiga meno yangu na kisha?"
+P5	Carlos amwambia Amelia kwamba lazima ale. Amelia anasema, "Ninajua jinsi ya kula, na kisha?"
+P6	Carlos anamwambia Amelia kuvaa sare yake. Amelia anasema, "Ninaweza kuvaa sare yangu. Na kisha?"
+P7	Carlos anamwambia Amelia kuchukua mfuko wake. Amelia anasema, "Ninaweza kuchukua mfuko wangu na kisha?"
+P8	Carlos anasema, "Lazima uende shuleni." Amelia anasema, "Ninaweza kwenda shule, na kisha?"
+P9	Carlos anasema, "Lazima uingie darasani." Amelia anajibu, "Ninaweza kuingia darasa na kisha?"
+
+images:
+
+illustrations/pages/13814.png
+illustrations/pages/13815.png
+illustrations/pages/13816.png
+illustrations/pages/13819.png
+illustrations/pages/13817.png
+illustrations/pages/13820.png
+illustrations/pages/13821.png
+illustrations/pages/13822.png
+illustrations/pages/13823.png
+illustrations/pages/13824.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+English (Translation)	I Can Do This!	id=14534
+French (Translation)	Je Peux Le Faire!	id=14537
+Lusoga (Translation)	Mpanga okukikola	id=27089
+Lusoga (Translation)	Nsobola   okukola  kino?	id=27786
+Portuguese (Original)	Eu Sei Fazer Isso!	id=14417

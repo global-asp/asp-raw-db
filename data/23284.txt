@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=23284&d=0&a=1
+id:	23284
+title:	Maria akawala ke somero
+author:	Lule Eriah
+artist:	Rob Owen, Silva Afonso, Vusi Malindi, José Jochicala, Salim Kasamba and Silva Afonso and Vusi Malindi
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23284.png
+desc:	Akagero kano kali kumuwala Maria
+
+page_text:
+
+P1	Maria  akeera nasenya amanyo  kumakya nayambala yinifomu nalya nekyenkya  nagenda kusomero
+P2	Ku somero Maria ayela  ekibiina nemikwano gye nalongosa ne ntebe
+P3	Kino kye kibina  kya Maria  omusomesa we  ye mukyala Marion  mukyala mulungi  era Maria amwagala nyo
+P4	Maria yakulira  ekibiina aleeta ebitabo okuva mu yafiisi nabiwa bayizi banne okusoma
+P5	budde bwakuwumula Maria nemikwano gye bali mukisawe bazanya mupiira kuba kilungi  okuzannya
+P6	Budde bwa malya gakyamisana Maria nemikwano gye badayo waka  ewaka Maria ayamba ku bazaddebe ku mirimu gya waka
+P7	Ewaka Maria nabewabwe batula  kumeza nebalya  emmere  oluvanyuma lwe ssala ya jjaja weomukazi
+P8	Maria ayagala nnyo okulongosa ennyumba  nokwoza ebintu oluvanyuma lwe ekyemisana Maria afumba nnyo okulaba nge kiyungu ekinyirila  okugogoba  obuwuka
+P9	Maria ne muto we bawa ensolo zabwe  emmere eba esigadde wo era bakikola  mbudde bwabwe obwedembe
+P10	Kati buzibye  buli omu akoye era otulo tumuluma Maria ne muto we bali mukisenge kyabwe bagenda kwebaka
+
+images:
+
+illustrations/pages/14034.png
+illustrations/pages/13815.png
+illustrations/pages/14058.png
+illustrations/pages/14021.png
+illustrations/pages/14017.png
+illustrations/pages/14062.png
+illustrations/pages/13855.png
+illustrations/pages/13927.png
+illustrations/pages/14043.png
+illustrations/pages/14037.png
+illustrations/pages/10444.png
+
+translations:
+
+Ateso (Translation)	Maria apese nne semero	id=24269
+English (Original)	Mary a School Girl	id=14166
+Lusoga (Translation)	Maliya omughala omusomi	id=25940
+Ng’aturkana (Adaptation)	Ikoku Na Esukul	id=18137

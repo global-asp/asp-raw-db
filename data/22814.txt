@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=22814&d=0&a=1
+id:	22814
+title:	Abetsa babiri abatiti
+author:	Emily  Barasa
+artist:	Jesse Pietersen
+lang:	Oluwanga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22814.png
+desc:	Khaale
+
+page_text:
+
+P1	Khaale, khwali nende eshimeme shieimbusi nende omwana wa Ingwe. Bali abetsa.
+P2	Inyanga ndala batsia okhubaya mushikuri.
+P3	Bakalukha ingo nibwirire.
+P4	Eshimeme shiabolera nyina, "Embukanane nende omwitsa omulayi. Ali nende amapalapala amalayi. Esangalire muno. Ndalaba ninaye mutsuli."
+P5	Nyina eshimeme yakalusia, "Esangalire okalushe omulamu. Oyo shinomwitsa wefu tawe, shindalakhufuchirira obe ninaye tawe."
+P6	Efise efio omwana we Ingwe nabolera nyina, "Embere nende omwitsa omulayi. Yachama okhubaya. Esangalire. Ndalaba ninaye mutsuli."
+P7	Nyina namukalusia, "Aah, mwanawanje! Esho neshimeme eshilayi. Okhubera shina nolamulia? Noba ninaye mutsuli, omwire omulie. Olaria tawe."
+P8	Inyanga yalondakho, omwana we Ingwe yatsia mushirechere shiabo eshimeme.
+P9	Shiyalola eshimeme tawe. Shiali shifisire munzu mwa nyinamwana.
+P10	Ingwe niilanga, "Khutsie mushikuri khubaye."
+P11	Eshimeme shiakalusia, "Shikhuli abetsa tawe. Shinditsa nyangaino tawe. Emuulire mama wanje. Omwana omulayi auliranga nyina."
+P12	Omwana we Ingwe yaberera nakalukha ewanyina.
+
+images:
+
+illustrations/pages/18402.png
+illustrations/pages/18401.png
+illustrations/pages/18402.png
+illustrations/pages/18403.png
+illustrations/pages/18404.png
+illustrations/pages/18405.png
+illustrations/pages/18406.png
+illustrations/pages/18407.png
+illustrations/pages/18408.png
+illustrations/pages/18409.png
+illustrations/pages/18410.png
+illustrations/pages/18411.png
+illustrations/pages/18412.png
+
+translations:
+
+English (Original)	Two little friends	id=18420
+Hausa (Nigeria) (Translation)	Abotar Ɗan Taure da Ɗan Damisa	id=22054
+Kinyarwanda (Translation)	Inshuti ebyiri ntoya	id=26152
+Kiswahili (Translation)	Marafiki wawili wadogo	id=19404
+Lámnsoʼ (Translation)	Ŋkar see mewón sibaà	id=22309
+Lusoga (Translation)	Ab'omukenkede ababiri  abatonyoli	id=27269
+Ng’aturkana (Translation)	Ng’Ipalon Ng’Iarei Lochamam	id=18421

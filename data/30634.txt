@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=30634&d=0&a=1
+id:	30634
+title:	Okusalirwa  omusango
+author:	Isaac Mapiti and Kyambogo  University
+artist:	Melany Pietersen
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30634.png
+desc:	Kibonhiobonhio ki ekigwana omwana owomuluvu?
+
+page_text:
+
+P1	Lulala  maama yaleeta  ennhaanhaansi, amenvu, emithungwa, n'ebindi  kamaala.
+P2	Twamubuuza tuti,   "ife  ti  tuulyeku?"  Yaatukoba   ati twidha  kubilya  leero.
+P3	Muke  ghange  mulyalya  wa  muluvu  inho. yalumaluma  kubuli  kirala  ku  bibala  ebyo.
+P4	Olwabirya  ati  pa  nga  yeejiira  kwezaanhira.
+P5	Muke  ghange  omuto  yankoba  ati, "aye  bona  mulyalya  nga  ti  muntu  mukalamu."
+P6	Maama  yanhiigira  inho  mulyalya.
+P7	Twena  era  twanhiigira  mulyalya  aye  nga  mwene  talikwefiirayo.
+P8	Muke ghange  yabuuza  maama ati,  "toidha  kumubonereza?"
+P9	Maama yaamukoba  ati, "Muylyalya, oteekwa  okutwemenera."
+P10	Aye  mulyalya  taghulira  bukalamu.
+P11	Mulyalya  yayogera  mpola  inho  ati, "munda   muli  kunnhuma."
+P12	Maama  yali   yamanhie  ira  nti  munda  mwidha  kumuluma.
+P13	Mulyalya  yamala yaatusaba  okumusonhigha  era  yaatukoba  ati   takairayo.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+French (Translation)	Punition	id=13274
+isiNdebele (Translation)	Isijeziso sakaThemba	id=13803
+isiZulu (Adaptation)	Umhobholo	id=13326
+isiZulu (Translation)	Isijeziso	id=15341
+Luganda (Adaptation)	Ekibonerezo	id=13286
+Lusoga (Translation)	Ekibonherezo	id=28943
+Oluwanga (Translation)	Eshinyasio	id=19592
+Portuguese (Translation)	Castigo	id=18855
+Siswati (Translation)	Sijeziso saBobo	id=13868

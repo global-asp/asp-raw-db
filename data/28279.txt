@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=28279&d=0&a=1
+id:	28279
+title:	Naira ayagaana embiidhiye
+author:	Rebecca Ndhibogeza
+artist:	Marion Drew
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28279.png
+desc:	Naira afiirwa embiidhiye mu kabendhe. Kiki ekituukagho oluvainhuma olwekyo?
+
+page_text:
+
+P1	Naira atwala embiidhiye ya givuga ku igaalilye.
+P2	Yeekontola kwibaale mu ngira. Embiidhi egwa ghansi. Erira. Embiidhi yaakoba,"ooooeeeeee,ooooeeeee!"
+P3	Kyotya ajagaana. Yakoba,"eeeee!, eno embiidhi yaani?"
+P4	Kyotya agibinga, paka bweyagigema.
+P5	Yagema embiidhi eno yaagitwala ewa isentebe ogh'aigombolola. Isentebe ogh'aigombolola amukoba agirabirire.
+P6	Naira abitagho ku kagira. Awulira nga embiidhi erira,"mmm,mmm,mmmm!"
+P7	Naira aingirayo. Musanhufu okubona embiidhiye.
+P8	Naira akoba embiidhiye,"Idha,tuje eka. Tituja kuvuga igaala kayiri."
+
+images:
+
+illustrations/pages/15918.png
+illustrations/pages/15916.png
+illustrations/pages/15917.png
+illustrations/pages/15918.png
+illustrations/pages/15920.png
+illustrations/pages/15919.png
+illustrations/pages/15921.png
+illustrations/pages/15923.png
+illustrations/pages/15924.png
+
+translations:
+
+English (Translation)	Neo finds her pig	id=15972
+Lusoga (Translation)	Niye  yabona  Embiidhi  ye	id=27942
+Sesotho (Lesotho) (Original)	Neo A Fumana Fariki Ea Hae	id=15970

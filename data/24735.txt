@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=24735&d=0&a=1
+id:	24735
+title:	አበበች ሴቷ አሽከርካሪ
+author:	Mezemir Girma
+artist:	Yirgalem  Birhanu
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24735.png
+desc:	ይህ ተረት በማህበረሰብ ውስጥ የተወሰኑ ስራዎች ለአንድ ፆታ ብቻ መሆን አለባቸው የሚለውን የተለመደ አመለካከት የሚፈታተን ነው፡፡
+
+page_text:
+
+P1	ባጃጅ ለመጓጓዣነት የምታገለግል አነስተኛ ባለ ሶስት ጎማ ተሽከርካሪ ናት፡፡
+P2	በማህበረሰባችን አሽከርካሪነት ወንዶች የሚበዙበት የስራ ዘርፍ ነው፡፡ ብዙ ጊዜ ሴቶች አይሳተፉበትም፡፡
+P3	ከእለታት አንድ ቀን አበበች የመንጃ ፈቃድ ለመማር ገንዘብ ከቤተሰቦቿ ጠየቀች፡፡
+
+ቤተሰቦቿም "ይሄማ ለሴት ልጅ ጥሩ አይደለም ሰውስ ምን ይላል?" አሏት፡፡
+P4	እሷ ግን "ሰው የሚሰራውን ሁሉ እንደማንኛውም ሰው የመስራት አቅም አለኝ" አለች፡፡ አሳመነቻቸው፡፡
+P5	ስልጠናውንም በሚገባ ተከታትላ አጠናቀቀች፡፡ ቤተሰቦቿም ምን እናርግላት ብለው ተማከሩ፡፡
+P6	ከዚያም ባጃጅ ሊገዙላት ወሰኑ፡፡ አበበችም በደብረ ብርሃን ጎዳናዎች ላይ ባጃጅ መንዳት ጀመረች፡፡
+P7	ከእለታት በአንድ ቀን አንድ ግሩም ሃሳብ ወደአዕምሮዋ መጣላት፡፡ ከባጃጇ ጀርባ ላይ ስልክ ቁጥሯ የታተመበት ትልቅ ማስታወቂያ ለጠፈች፡፡
+P8	ማስታወቂያው እንዲህ ይላል፡- "ነፍሰ ጡር ሴቶችን፣ አራስ እናቶችን፣ እና ህጻናትን በነፃ እናደርሳለን"፡፡ 
+
+ከዚያም የሚወልዱ ሴቶችና ልጃቸውን ያመመባቸው እናቶች ወደ አበበች ይደውላሉ፡፡
+P9	በባጃጇ እየሰራች ገንዘብ አፈራች፡፡ በጎ ስራዋን መስራትም ቀጠለች፡፡ በቂ ገቢ የሌላቸው ድሃዎችንም በነፃ ማገልገል ያዘች፡፡
+P10	በዚህ ስራዋም አበበች በገንዘብ የማይታመን እርካታን አገኘች፡፡ ትላልቅ ሰዎችም መረቋት፡፡ በህጻናት እና በወላጆች ዘንድም በጣም ተወዳጅ ሰው ሆነች፡፡
+
+አበበች ‹‹መልካም መስራት ለራስ ነው›› ትላለች፡፡
+
+images:
+
+illustrations/pages/27145.png
+illustrations/pages/27153.png
+illustrations/pages/27152.png
+illustrations/pages/27154.png
+illustrations/pages/27155.png
+illustrations/pages/27149.png
+illustrations/pages/27145.png
+illustrations/pages/27148.png
+illustrations/pages/27150.png
+illustrations/pages/27151.png
+
+translations:
+
+English (Original)	Abebech, the female bajaj driver	id=23862
+Kiswahili (Translation)	Abby, dereva wa tuktuk wa kike	id=24752
+Lusoga (Translation)	Abbigairi omuvuzi gha bbajaaji	id=26613
+Lusoga (Translation)	Ebebech, omuvuzi oghepikipiki omugunha	id=29205
+Tigrigna (Translation)	ኣበበች ጓል ኣንስተይቲ  ዘዋሪት ባጃጅ	id=25986

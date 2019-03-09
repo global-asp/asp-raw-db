@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=30941&d=0&a=1
+id:	30941
+title:	Joy agya kwisomero
+author:	John Kasiti and Kyambogo  University
+artist:	Vusi Malindi
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30941.png
+desc:	Joy alikuja kwisomero
+
+page_text:
+
+P1	Joy azaanha olunaku lwonalwoona
+P2	Maama we amukoba okunaaba
+P3	Alonda gho omwesenhezo.
+P4	Maama we ata amaadhi mu kyogero
+P5	Yesimuula mu maiso.
+P6	Agya ye baine okulambala.
+P7	Yesenia munco
+P8	Maama we amwambaza
+P9	Yesiba obukoba bwe ngaito
+P10	Joy agya kwisomero
+P11	Joy ali mukibiina.
+
+images:
+
+illustrations/pages/7516.png
+illustrations/pages/7516.png
+illustrations/pages/7517.png
+illustrations/pages/7514.png
+illustrations/pages/7518.png
+illustrations/pages/7515.png
+illustrations/pages/7513.png
+illustrations/pages/7507.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+
+translations:
+
+Amharic (Translation)	ሚሚ ወደ ትምህርት ቤት ሄደች	id=21233
+English (Original)	Joy Goes to School.	id=7660
+Luganda (Translation)	Joy Agenda Ku Somero	id=9053
+Luganda (Translation)	Joy Agenda Ku Somero	id=9056
+Lusoga (Translation)	Joyi aja ku isomero	id=26537
+Lusoga (Translation)	Sanyu mwana musomi era aja kwisomero	id=30763
+Runyankore (Translation)	Joy yaza kushoma	id=23698

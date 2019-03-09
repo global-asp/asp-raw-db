@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=23934&d=0&a=1
+id:	23934
+title:	Omukago Ahagati ya Wakame nne Empisi
+author:	Cynthia Mary Rukundo and Uganda Christian University
+artist:	Rob Owen
+lang:	Runyankore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23934.png
+desc:	Kuruga omu rugyero Wakame na nempiisi nibitwegyesa ebintu ebiri omumu kaago gwabanywani.
+
+page_text:
+
+P1	wakame na nempiisi bakaba bari abanywani.Basharamu kuhinga ebitakuri hamwe.
+P2	baakakora munoonga ahamusiiri ogu.
+P3	kubabiire bahezza kuhinga,wakame,na nempiisi bakaba bazana hamwe.
+P4	obumwe empiisi ekaba eyirusya wakame.wakame akaba ayiruka agyenda.
+P5	izooba rimwe,wakame akabuza empisi waba orimunywani wangye ahabwenkiyi nonyirusya
+P6	wakame akabuuza twabatutari abanywani, ahabwenki nitukoora hamwe tukagaruka tukazana hamwe.
+P7	omwanywani nomuntu arikuguma ari omunywani.
+
+images:
+
+illustrations/pages/8136.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8135.png
+illustrations/pages/8150.png
+illustrations/pages/8138.png
+illustrations/pages/8136.png
+illustrations/pages/8141.png
+
+translations:
+
+Dhopadhola (Translation)	mere pa ondyek kodi ochulu	id=23875
+English (Original)	Friendship Between Hyena and Hare	id=10563
+Kinyarwanda (Uganda) (Translation)	Ubushuti hagati ya bakame n' impyisi	id=23932
+Luganda (Translation)	Omukwano Gwa Wakayima Ne Wampisi.	id=12912
+Lusoga (Translation)	Ab'emikwano  Wampiti ni Wakayima	id=25062
+Ma'di (Translation)	Ito ti moi To	id=24258

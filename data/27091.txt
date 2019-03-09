@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=27091&d=0&a=1
+id:	27091
+title:	Omughala eya guluka
+author:	Edison Kasajja and Kyambogo  University
+artist:	Ingrid Schechter and Amir Bachir António Necas
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27091.png
+desc:	Olufumo lwa baghala
+
+page_text:
+
+P1	Nusha kaali kaghala akataali kakalamu mu kintu kyonakyona.
+P2	Aye bweyaghaza emyaaka ikumi nebiri yeyagaana nga asobola oku guluka.
+P3	Yaguluka yaaja kw'isomero bweyali akereighe.
+P4	Yagulukanga kunkomerero ya wiiki yaaja ewa dhaada we.
+P5	Yaguluka yaaja mukiya kuba kyali kyangu inho.
+P6	Yaguluka aytuuma issemayandha paka kwisiinzizo
+P7	Yaguluka yaaja ku nhandha yaabona abantu nga bali kukobagana kunsaya.
+P8	Yaguluka yaanoga ebinaazi okuva ku miti.
+P9	Abantu baamusasula oku yamba okutaaku obusulya.
+P10	Bakagwa be bonaboona ba mubuuza bweya kikola.
+P11	"Olina enho namaani," yakoba, "era olina okuba bweenhebweenhe nga oyeenda okukikola."
+P12	Olunaku lulala yayagaana omwisuka eyali nga yeena asobola okuguluka.
+P13	Batandhiika kugiira ghala.
+P14	Bayinza okuba nga bafumbirwagana era bafuna abaana mukukomenkereza.
+
+images:
+
+illustrations/pages/25227.png
+illustrations/pages/25170.png
+illustrations/pages/25227.png
+illustrations/pages/25062.png
+illustrations/pages/25065.png
+illustrations/pages/25066.png
+illustrations/pages/25067.png
+illustrations/pages/25068.png
+illustrations/pages/25069.png
+illustrations/pages/25167.png
+illustrations/pages/25071.png
+illustrations/pages/25168.png
+illustrations/pages/25073.png
+illustrations/pages/25074.png
+illustrations/pages/25150.png
+
+translations:
+
+English (Original)	The Girl Who Could Fly	id=20814
+Luganda (Translation)	Omuwala eyasobolanga okubuuka wagulu	id=22010

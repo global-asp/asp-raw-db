@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=25760&d=0&a=1
+id:	25760
+title:	Mukagwa gwe ntabona
+author:	Kyambogo  University and Robert Kirunda
+artist:	Benjamin Mitchley, Catherine Groenewald, Rijuta Ghate and Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25760.png
+desc:	Bamukenkede babiri bakulira mu kyalo ghalala okuva mubuto bwaibwe. Owundi ava mu isomero ate nowundi aja yenka yabuula ku ku mukenkede we.
+
+page_text:
+
+P1	Buli bwenasitunga  kunco nayangughanga okulya ekyenco.
+P2	Nayambalanga bulawuzi yange eya bululu nalumukanga okuva  mundhu okunonhiaku mukenkede wange muthon.i
+P3	Wenabona muthoni,  twerabiranga ebintu ebindi.
+P4	Muthoni ninze nga  tuzaana kyekweko. Nga nekweka einhuma womuti omunene, nga muthoni aira inhuma wa nhumba edheisubi.
+P5	Muthoni ninze twaja mukyalo twembiriri. Twaja okuwerera enku. Twaja kw'isomero twembiriri.
+P6	Twesubiiza twidha kusoma inho tufune embaluwa.
+P7	Aye lwali lulala, Muthoni tiyaidha kw'isomero. Nayemerera ku mulyango ogwe kibiina kyaife nga mmulinda aidhe. Aye tiyaidha.
+P8	Bwenairayo eka olunaku olwo, Nakoberaku maama ebya mukagwa wange muthoni.
+P9	Naja n'emisomo jange mumaiso,aye nafiirwa inho muthoni.
+P10	Buli bwenajanga kw'isomero, Nanoonhianga muthoni buli wantu woona woona.
+P11	Buti ndi mukazi, aye mukenkede wange yambulaku.
+
+images:
+
+illustrations/pages/8658.png
+illustrations/pages/2444.png
+illustrations/pages/2450.png
+illustrations/pages/2452.png
+illustrations/pages/1191.png
+illustrations/pages/1514.png
+illustrations/pages/1517.png
+illustrations/pages/2481.png
+illustrations/pages/8666.png
+illustrations/pages/8641.png
+illustrations/pages/1812.png
+
+translations:
+
+English (Original)	The friend I miss	id=2278
+Kiswahili (Translation)	Rafiki ninayemkosa	id=9527

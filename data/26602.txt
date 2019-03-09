@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=26602&d=0&a=1
+id:	26602
+title:	Embwa  ensanhufu
+author:	Kyambogo  University and Richard  Seege
+artist:	Funda  Nenja
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26602.png
+desc:	Nambi atwala embwa ye mu kibiina okusoma engeri engeri yokulabiriramu kaana kaayo.
+
+page_text:
+
+P1	Eriina  eryange  ninze  Nambi. Mba  mukibuga  eky'e Idhindha e Nakanhonhi.
+P2	Ndi nakabwa kange akeetebwa popi.
+P3	Nga  okusoma  kuwaire olunaku  olw'okutaanu, Popi  ninze twirayo  mu  kibiina  n'abaana kamaala    n'embwa dhaibwe.
+P4	Waiswa yaatandiika  okutusomesa.
+P5	Waiswa  yatusomesa engeri y'okulabiriramu  embwa  dhaife  mu  ngeri  enkalamu  era  ey'obuvunanizibwa.
+P6	Waiswa  yasomesa  embwa  engeri  y'okubuukamu  ebikonge n'okubita  mu  midumo.
+P7	Popi  n'embwa  edhindi dhi  nhumirwa  ebiseera  byadho  eby'eidhembe.
+P8	Nnendha inho  popi  ate ni  popi  enendha inho.
+
+images:
+
+illustrations/pages/27067.png
+illustrations/pages/27068.png
+illustrations/pages/27070.png
+illustrations/pages/27073.png
+illustrations/pages/27074.png
+illustrations/pages/27075.png
+illustrations/pages/27076.png
+illustrations/pages/27077.png
+illustrations/pages/27078.png
+
+translations:
+
+English (Original)	Happy dogs	id=23430
+Luganda (Translation)	Embwa ensanyufu	id=23558

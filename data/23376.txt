@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=23376&d=0&a=1
+id:	23376
+title:	Oruganikyo orukusekesa
+author:	Timothy Tyron Bananuka
+artist:	Khothatso Ranoosi
+lang:	Runyoro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23376.png
+desc:	Rora ebisoro na bantu abatalibabulikkiroo mu ru orutali orwabulikiro.
+
+page_text:
+
+P1	Khotso a vuga endogoyi. Edogoyi yaaye ekuirsgura omubiri.khotso ne ndogoyi ye balya hamu
+P2	Omukaikuru Thabo akuchumba.Akuchumba mu nsusoha ekuiragura.Omukaikuru Thabo ne njango ye balya hamu
+P3	entte ya Neo eri ya green nkebinyansi.Entte eyemera ha kigere kya Neo.Anaga hansi akatasa aka mata
+P4	Ntate Phakane aine ndogoyi ekuiragura.Endogoyi yaaye eina amani maingi.Endogoyi esika plouh yonka
+P5	Thabang avuga e motoka yaaye.Agenda nebwa yaaye.Embwa ya Thabang epama mu motoka.
+P6	Endogoyi ya blue, entte ya green, endogoyi ekuiragura nee njango yo mukaikuru byoona bi kagya mu motoka ya Thabang.Boona batandika kuzina.Nooha aine eeiraka erikusinga
+
+images:
+
+illustrations/pages/12087.png
+illustrations/pages/12086.png
+illustrations/pages/12085.png
+illustrations/pages/12087.png
+illustrations/pages/12088.png
+illustrations/pages/12089.png
+illustrations/pages/12090.png
+
+translations:
+
+English (Translation)	Funny story	id=13306
+English (Translation)	Funny story	id=18748
+isiXhosa (Translation)	Ibali elihlekisayo	id=14959
+Lusoga (Translation)	Emboozi esanhusa	id=25859
+Sesotho (Lesotho) (Original)	Pale E Qabolang	id=13305
+Xitsonga (Translation)	Xitori Xo Hlekisa	id=14385
+Xitsonga (Translation)	Xitori Xo Hlekisa	id=18747

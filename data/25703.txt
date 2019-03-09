@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=25703&d=0&a=1
+id:	25703
+title:	Oli kukola ki?
+author:	Joseph  Mukwaya and Kyambogo  University
+artist:	Marion Drew and Wiehan de Jager
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25703.png
+desc:	Sentensi edhindi enhimpi edhiraga edhiraga enkozesa yebigambo byebikolwa ebya buti ebyangu.
+
+page_text:
+
+P1	Ndi kwemba.
+P2	Ndi kukuba jambo.
+P3	Ndi kukuba mu ngalo.
+P4	Ali kwandhuluza mikono.
+P5	Ali kweta muntu.
+P6	Ndi kwiramu.
+P7	Ali kuwulirisa.
+P8	Oli kukola ki?
+P9	Ndi kuwuga.
+P10	Ndi kutuuma muguwa.
+
+images:
+
+illustrations/pages/7131.png
+illustrations/pages/7127.png
+illustrations/pages/6641.png
+illustrations/pages/7122.png
+illustrations/pages/6578.png
+illustrations/pages/7116.png
+illustrations/pages/7123.png
+illustrations/pages/6644.png
+illustrations/pages/6632.png
+illustrations/pages/7536.png
+
+translations:
+
+Afaan Oromo (Translation)	Maal Hojjechaa Jirta?	id=13709
+Afrikaans (Translation)	Wat Maak Jy?	id=11093
+Afrikaans (Translation)	Wat Doen Jy?	id=11543
+Amharic (Translation)	ምን እየሠራህ ነው?	id=22389
+Arabic (Translation)	ماذا تفعل؟	id=21825
+English (Original)	What are you doing?	id=7292
+English (Translation)	What are you doing?	id=7718
+English (Translation)	What Are You Doing?	id=7721
+isiXhosa (Translation)	Wenza ntoni?	id=15035
+isiZulu (Adaptation)	Wenzani?	id=17101
+Kiswahili (Translation)	Unafanya Nini?	id=15711
+Lunyole (Translation)	Ohola Hiina?	id=13602
+Lunyole (Translation)	Ohola Hiina?	id=21099
+Lusoga (Translation)	Oli kukola ki?	id=26291
+Mampruli (Translation)	Bɔ Ka I Niŋna?	id=21221
+Ng’aturkana (Translation)	Nyo Isubi Iyong?	id=9778
+Portuguese (Translation)	O Que É Que Estás a Fazer?	id=19219
+Sepedi (Translation)	O Dira Eng?	id=7692
+Tunisian (Translation)	Ċnuwwa Qāɛed Taɛmil?	id=15381

@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=27063&d=0&a=1
+id:	27063
+title:	Endogoyi  nente  eriima
+author:	Emmanuel  Kunya  and Kyambogo  University
+artist:	Salim Kasamba
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/27063.png
+desc:	Olufumo olwente eriima enkozi einho nendogoyi engezi.
+
+page_text:
+
+P1	Omulimi  yali  n'ente  eriima  enkulu.
+P2	Era  yali  n'endogoyi.  Ente  eriima  n'endogoyi  bali  bamukwano.
+P3	Eigulo,  ente  eriima  yakoba  endogoyi, "nkoye  inho  olwalero."
+P4	Ente  eriima  yakoba  endogoyi, "Tighumwireku  lero."
+P5	Endogoyi   yairamu,  "nkoze  okusinga."
+P6	Olunaku  olwairaku,  ente  eriima  yakoba, "lero  lubaire  lunaku  lubi."
+P7	Endogoyi  yaakoba,  "Omulimi  bwanaira,  'moora!'  Aidha  kukuleka."
+P8	Enkyo eryairaku, ente eriima yaliira,'Yamoola!'  Omulimi muleke aghumure.
+P9	Omulimi  yaatwala  endogoyi  okulima.
+P10	Endogoyi  yakola  inho  olunhaku  lwonhalwona.  Yalinkoghu  inho  beyaira
+P11	Endogoyi  yakoba,  "Omulimi  akobye  agya  kwita  afune  emamba.
+P12	Ente  eriima  yakoba, "Ndakola  idho. mpulira  bulungi  kati"
+
+images:
+
+illustrations/pages/15496.png
+illustrations/pages/15491.png
+illustrations/pages/15492.png
+illustrations/pages/15493.png
+illustrations/pages/15494.png
+illustrations/pages/15495.png
+illustrations/pages/15496.png
+illustrations/pages/15497.png
+illustrations/pages/15498.png
+illustrations/pages/15499.png
+illustrations/pages/15500.png
+illustrations/pages/15501.png
+illustrations/pages/15502.png
+
+translations:
+
+Afaan Oromo (Translation)	Sangaa fi Harree	id=24813
+Amharic (Original)	በሬ እና አህያ	id=15505
+English (Adaptation)	Donkey and Ox	id=18333
+English (Adaptation)	Ox and Donkey	id=21628
+English (Adaptation)	Endogoyi ne ente elima	id=24167
+IsiNdebele (Zimbabwe) (Translation)	Inkabi loBabhemi	id=22173
+Kiswahili (Translation)	Fahali na Punda	id=15612
+Oluwanga (Adaptation)	Isurusi Nende Isishiri	id=20346
+Portuguese (Translation)	O Boi E O Burro	id=18844

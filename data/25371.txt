@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=25371&d=0&a=1
+id:	25371
+title:	(Colour-in) The Cooking Game
+author:	
+artist:	Reginaldo Vicente Manhice
+lang:	
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25371.png
+desc:	.
+
+page_text:
+
+P1	Lulala, Wakaduuyu ni Wakembo baali bamukwano. Kwali kwndhala, Wakaduuyu yayaniriza Wankembo bazaanhe.
+P2	"Tuzaanhe omuzaanho ogwo okwefumba." Wakaduuyu yakoba. "Ekyo tunaakikola tutya?" Wankembo yabuuza.
+P3	"Tulina okusooka okukuma omuliro." Wakaduuyu yairamu.
+P4	"Twidhuze amaadhi mukasugha, tukate ku muliro." Wakaduuyu yamukoba.
+P5	"Ninze ndhida okusookamu. Bwenkoona ku kisandikira ekya akasugha, okisandukula. Meeni nfulumemu. Wankembo yaikiriza.
+P6	Wakaduuyu yesoiga akasugha.
+P7	Amaadhi bwegainhama okusuugha, Wakaduuyu yakoona ku, Wankembo yasandukulaku.
+P8	Akagobo ka Wankembo bwekaatuuka,  Wakaduuyo yata eibaale einene kukisandikiza ekya akasugha era yeena yaatyamaku.
+P9	Amaadhi bwegaatoolera okutogota, Wankembo yakoona ku kisandikiza aye Wakaduuyu ti yasandukula.
+P10	Wankembo yafa, Wakaduuyu yaalya mukwanogwe.
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/17555.png
+illustrations/pages/17553.png
+illustrations/pages/17557.png
+illustrations/pages/17561.png
+illustrations/pages/17554.png
+illustrations/pages/17562.png
+illustrations/pages/17556.png
+illustrations/pages/17560.png
+illustrations/pages/17559.png
+illustrations/pages/17558.png
+
+translations:
+
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The cooking game	id=6993
+English (Adaptation)	(Colour-in) The Cooking Game	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo wokuphekana (Faka imibala)	id=17564
+Lusoga (Translation)	Omuzaanho ogw'okwefumba	id=24982
+Lusoga (Translation)	Omuzaanho omufumbe	id=29602
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Rutooro (Translation)	Omuzaano gwo kucumba	id=24459
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

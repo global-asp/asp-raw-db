@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=25209&d=0&a=1
+id:	25209
+title:	Emizaanho ej'endhawulo
+author:	David  Bamukangwiire
+artist:	Mlungisi Dlamini, Kathy Arbuckle and Vusi Malindi
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25209.png
+desc:	Ebifaananie ebiraga engeri eyokuzanhamu eyendhawolo.
+
+page_text:
+
+P1	Okwedhalya.
+P2	okulumuka.
+P3	Okusamba omupiira.
+P4	Okutuuma.
+
+images:
+
+illustrations/pages/7970.png
+illustrations/pages/1627.png
+illustrations/pages/1623.png
+illustrations/pages/1622.png
+illustrations/pages/1624.png
+
+translations:
+
+English (Original)	Different Plays	id=9735
+Kinyarwanda (Translation)	Imikino Itandukanye	id=20708
+Lugbarati (Translation)	Avitaa Ndu Ndu Diyi	id=9758
+Lusoga (Translation)	Emizaanho gy'edhawulo	id=25162

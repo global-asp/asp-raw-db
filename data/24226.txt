@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=24226&d=0&a=1
+id:	24226
+title:	ǀAes ra (ǁî-) aitsama ǁgam
+author:	Mattheus  Goraseb
+artist:	Rob Owen
+lang:	Khoekhoegowab
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24226.png
+desc:	ǀAes ra (ǁî-) aitsama ǁgam. Nē tsē ta ge ra ǁgamba du ti ǂhôasa. Naniros ase ta gege tsoatsoas.
+
+page_text:
+
+P1	Nē tsē ta ge ra ǁgamba du ti ǂhôasa.  Naniros ase ta gege tsoatsoas.
+P2	ǃhausase ta ge gere urima ǂoab xa ta gere saruheo.
+P3	Sam ge amase ǃgâi gurisama.  Tīta tsî sa hâma.
+P4	Ti ta ge sa ǂûna ra sâi.
+P5	Ti ta ge sa tsuxuba ra ǃnâǃnâ
+P6	ǂȂuna ǀawede ta ge ûhâ.
+P7	Sa ǀoakhoen di khoexakhoe ta ge.
+P8	Xawe ǁkhau tets karao, ǂgōsen te.  ǀGuri ǁnaxuhesa ta ge a ǂharasa.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+English (Adaptation)	Fire's story	id=9296
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166

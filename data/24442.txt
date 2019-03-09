@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=24442&d=0&a=1
+id:	24442
+title:	Omuyala Jackal nemizabbibu ejikaawa
+author:	Tendo Ronah
+artist:	Benjamin Mitchley
+lang:	Luganda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24442.png
+desc:	Omuyala Jackal yasanga ekisaaganda kyemizabbibu emyengevu nga jilengejja ku ttabi. Naye anafuna emizabbibu gino?
+
+page_text:
+
+P1	Lwali lumu,waliwo omuyala Jackal.Yali atambula munsiko nga anoonya emere.
+P2	Nasanga ebimera.Yabitunuulila nalengera emizabbibu nga jilengenjja ku ttabi.
+P3	Nasooka nalwowozaamu nga bwejilabika okuwooma era nasooka adakko emabega alabenga bwagenda okulinya atuuke wagulu ddala
+P4	Emizabbibu jyaali wagugulu nyo era Jackal nagwa nga tanaba nakukwata yadde ku ttabi
+P5	Jackal yayimuka naddayo weyatantandikira nadduka natuukira ddala waggulu nyo naye era nagwa nyo
+P6	Yageezaako nyo ngaddigana naye era yali tatuuka mizabbibu gino,yagwanga bugwi nayongera kufuna biwundu mumugongo
+P7	Munkomekerezo,yabwesonyiwa natambula nagenda
+P8	Yasooka nayimilila natunula emabega kumizabbibu enjala neyongerera ddala okumuluma nokusinga bweyali emulumye,naye neyegamba nti emizabbibu jikaawa nga yegumya
+
+images:
+
+illustrations/pages/1775.png
+illustrations/pages/1776.png
+illustrations/pages/1775.png
+illustrations/pages/1777.png
+illustrations/pages/1778.png
+illustrations/pages/1779.png
+illustrations/pages/1780.png
+illustrations/pages/1781.png
+illustrations/pages/1782.png
+
+translations:
+
+Afrikaans (Translation)	Honger Jakkals En Die Suur Druiwe	id=11162
+Dhopadhola (Translation)	Kibwe Gi Mukumer	id=19480
+English (Original)	Hungry Jackal and the sour grapes	id=2104
+French (Translation)	Le Chacal Affamé Et Les Raisins Acidulés	id=12658
+isiXhosa (Translation)	UDyakalashe neediliya ezimuncu	id=2527
+Kikamba (Translation)	Mbiwa Yeew'aa Nzaa Na Mba	id=9682
+Kinyarwanda (Translation)	Imbwebwe Ishonje N'imizabibu Ibishye	id=17464
+Kiswahili (Translation)	Mbweha na zabibu chachu	id=7865
+Luganda (Translation)	Emmondo Erumwa Enjala N’Ensaali Ezikaawa	id=8356
+Lugbarati (Official) (Translation)	Òbólókó Àbírí Nɨ́ Ndě Rá Rɨ̀ Pɨ Cǔcǔ Be.	id=8784
+Lumasaaba (Translation)	Sisyutse Sye’Tsala Ni Kamatsangwali Kamalulu	id=8282
+Lunyole (Translation)	Ehibbwe Ehiyala N'amapeera Agajujuma	id=8399
+Lusoga (Translation)	Walube Omuyala Ne Miziru Emika	id=20902
+Ng’aturkana (Translation)	Epeot Lo Anyamit Akoro Ka Ng’Apedur Nakaabarak	id=8448
+Oluwanga (Translation)	Lisimba Lieinzala	id=8280
+Sesotho (Lesotho) (Translation)	Phokojoe E Lapileng Le Morara O Bolila	id=15904

@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=28966&d=0&a=1
+id:	28966
+title:	Dhaadha ghange
+author:	Kyambogo  University and kiirya zephania
+artist:	Ingrid Schechter
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/28966.png
+desc:	Omulenzi yakyaalira dhaadha ghe era bazaanha mu.
+
+page_text:
+
+P1	Dhaadha nnhamusaaku!
+P2	Ntwaala tubone ente ya dhaadha.
+P3	namwaaganha.
+P4	nhalumuka okuva ghaali.
+P5	Dhaadha akooye inho.
+
+images:
+
+illustrations/pages/7579.png
+illustrations/pages/7583.png
+illustrations/pages/7587.png
+illustrations/pages/7579.png
+illustrations/pages/7592.png
+illustrations/pages/7580.png
+
+translations:
+
+English (Original)	My grandma	id=7652
+Luganda (Translation)	Jjajja Wange.	id=7668
+Luganda (Translation)	Jajja Wange Omukyala.	id=9667
+Lusoga (Translation)	Dhaadha ghange omukazi	id=26199

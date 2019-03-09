@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=23214&d=0&a=1
+id:	23214
+title:	kwano pus
+author:	Esther Tusiime
+artist:	Jesse Breytenbach
+lang:	Dhopadhola
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23214.png
+desc:	Buk pa kwano
+
+page_text:
+
+P1	Pus adi? 0 pus pee
+P2	Pus adi? 1 pus achiel
+P3	Pus adi? 2 pus ariyo
+P4	Pus adi? 3 pus adek
+P5	Pus adi? 4 pus angwen
+P6	Pus adi? 5 pus abich
+P7	Pus adi? 6 pus awuchiel
+P8	Pus adi? 7 pus abiryo
+P9	Pus adi? 8 pus aboro
+P10	meno ango ma waneno? Pusi omoko i tiyendi yath!" Ala konyin!"
+P11	"Mama, wa kani go? wamedi achiel. "Pus adi?" Pusi abungwen
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala Puusi	id=24824
+Lusoga (Translation)	Okubala puusi	id=27336
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584

@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=24637&d=0&a=1
+id:	24637
+title:	Omuzenyi Ayaahikile Itúumbi
+author:	Kutafsiri Biblia Mara
+artist:	Magriet Brink
+lang:	Echiziinza
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24637.png
+desc:	A timeless parable of Jesus set in the context of modern Africa.
+
+page_text:
+
+P1	Echilo chimo, Yeézu akaba naamusaba Múungu ahaantu bunaanka. No obuchilo yaamazile, oómo wa abaheémba boómwe yaámugaambila, "Íiwe Mukáma, otweégese akazeendele ha kumusaba Múungu, nkokwo Yohana Omubatiza yabeégesize abaheémba boómwe."
+
+Yeézu yaábagaambila, "Obuchilo mulaaba nimumusaba Múungu, mugaámbe múti, 'Isíichwe, owo omwiigulu, izíina lyáawe likuzibwe. Obukáma bwáawe bwiíze.  Otuhe buli bucha ebyookulya byéetu. Otuganyile ebiheno byéetu, nkokwo néechwe tuganyila abalikutuhénela. Otatutwaala omu kuleengesibwa, náho otuchuúngule no óogwo Omuzilwa.' "
+P2	Áaho Yeézu yaábagaambila, "Tugaámbe oómo omuliímwe ayina omunywáani yaamuzaho omwiitúumbi, yaámugaambila, 'Íiwe munywáani! Niinsaba ontiizého emikáate isatu, habwo kuba, munywáani waanze abele ali omuluzéendo, yaahikila owéetu, na tinyina echookulya cho kumúha.'
+P3	"Náho, óogwo munywaaniwe yaámusubiza, 'Otaákunyagalaza! Leeba naáchiingile olwíizi! Iinye na abaana baanze twaályaamile ahachitabo na tiínkuhicha kwiimuka no kukuha echiintu choóna chóona.'
+P4	"Niimbagaambila, nóobu biláaba omuuntu óogwo takwiimuka no kumúha muzeenzíwe omukaate habwo kuba weényini ni munywáani woómwe, naayimuka no kumúha buli chiintu éecho alikweenda habwo kuba munywaaniwe talalekile kumusaba.
+P5	"Nikwo, neenye niimbagaambila, musábe, na mulyaáhabwa, Mutaábuuze, na mulyaábigwaho, muchiinguze, na mulyaáchiingulilwa. Habwo kuba, buli muuntu óogwo alikusaba, aheébwa. Na buli muuntu óogwo ataábuuza, abigwaho. Na buli muuntu óogwo achiinguza, achiingulilwa."
+
+images:
+
+illustrations/pages/26580.png
+illustrations/pages/26579.png
+illustrations/pages/26580.png
+illustrations/pages/26581.png
+illustrations/pages/26582.png
+illustrations/pages/26583.png
+
+translations:
+
+Chinyungwe (Translation)	Xamwali Wakubwera Usiku	id=19122
+Cisena (Translation)	Xamwali Anabwera na Masiku	id=22641
+English (Original)	The Friend at Night	id=15750
+English (Adaptation)	Persistent man	id=22602
+Lusoga (Translation)	Ow'omukwano  mu  bwire	id=29793
+Portuguese (Translation)	O Amigo Que Vem à Noite	id=22640
+Rukiga (Translation)	omusheija arikugumisriza	id=23753

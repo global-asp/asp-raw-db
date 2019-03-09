@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=22919&d=0&a=1
+id:	22919
+title:	Okuchumba
+author:	Ivy Nteyera
+artist:	Kathy Arbuckle
+lang:	Rutooro
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	https://africanstorybook.org/illustrations/covers/22919.png
+desc:	Ninyambaho okuchumba ebikora byokulya. Haliho ekikora kimu ekintayenda okuchumba.
+
+page_text:
+
+P1	Mpaata ebitakuli.
+P2	Ninsara cabbeggi.
+P3	Nimparagata carroti.
+P4	Ninyogya ebihimba.
+P5	Ninsara amagita g'ebinyobwa.
+P6	Ninsara ebikoora.
+P7	Maama nasara obutunguru.
+P8	Obutunguru bundiza amaizi obumbusara.
+
+images:
+
+illustrations/pages/1307.png
+illustrations/pages/1307.png
+illustrations/pages/1308.png
+illustrations/pages/1309.png
+illustrations/pages/1310.png
+illustrations/pages/1311.png
+illustrations/pages/1312.png
+illustrations/pages/1313.png
+illustrations/pages/1314.png
+
+translations:
+
+Afrikaans (Translation)	Kook	id=7691
+Aringati (Translation)	Aꞌdíŋá	id=8358
+Ateso (Translation)	Aipo	id=2849
+Ateso (Translation)	Aipo	id=7669
+Dhopadhola (Translation)	Tedo	id=19484
+English (Original)	Cooking	id=2795
+isiZulu (Translation)	Ukupheka	id=8744
+Lugbarati (Translation)	Nyaka A`diza	id=2799
+Lugbarati (Official) (Translation)	Nyaká A’Dɨ́zà	id=8754
+Lumasaaba (Translation)	Khuuteekha	id=8745
+Lunyole (Translation)	Ohunyiiya	id=2802
+Lusoga (Translation)	Okufumba	id=8746
+Sabinyi (Translation)	Kaayosyeet	id=2805
+Sesotho (Lesotho) (Translation)	Phehang	id=19966
+Setswana (Translation)	Go Apaya	id=2806

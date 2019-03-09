@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=30592&d=0&a=1
+id:	30592
+title:	Maama wange angonza
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Rob Owen
+lang:	Lusoga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/30592.png
+desc:	Olufumo luno lugema ku mukwano gwa maama wange eri nze omwana omulala. Anendha inho era ninze mmwendha.
+
+page_text:
+
+P1	Maama wange ninze twendha okuja mu itanilo.
+P2	Maama ayendha katonda era yankubiriza okusaba bali lunaku nga nsitwike.
+P3	Maama wange ayendha ni owoluganda. Atukyalira buli nkomerero ya sasira.
+P4	Maama ayendha okuja ninze mu itanhilo.
+P5	Obwire,Maama wange atera okubwiika mu bulili nga nkali kutenduka.
+
+images:
+
+illustrations/pages/9492.png
+illustrations/pages/9497.png
+illustrations/pages/9496.png
+illustrations/pages/9493.png
+illustrations/pages/9495.png
+illustrations/pages/9501.png
+
+translations:
+
+English (Original)	My mother	id=24441

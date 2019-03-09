@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=22638&d=0&a=1
+id:	22638
+title:	Amazzi Bw'ebulamu
+author:	Martha Nansamba
+artist:	Catherine Groenewald, Ketan Raut, Marleen Visser, Reginaldo Vicente Manhice, Rijuta Ghate and Wiehan de Jager
+lang:	Luganda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/22638.png
+desc:	Amazzi bwebulamu. Amazzi galina emigaso mingi.
+
+page_text:
+
+P1	Amazzi galina emigaso mingi.
+P2	Amazzi gatuyamba okunaaba.
+P3	Amazzi gatuyamba okwooza.
+P4	Abaana abato bazanyisa amazzi.
+P5	Amazzi gatuyamba okufumba n'okunywa.
+P6	Abamu bagawugiramu.
+P7	Ebisolo byona byagala nnyo amazzi.
+P8	Naye ebidiba by'abulabe, tusaanye tubyewale!
+
+images:
+
+illustrations/pages/6342.png
+illustrations/pages/6215.png
+illustrations/pages/6577.png
+illustrations/pages/6452.png
+illustrations/pages/2443.png
+illustrations/pages/6683.png
+illustrations/pages/6632.png
+illustrations/pages/26608.png
+illustrations/pages/2252.png
+
+translations:
+
+English (Translation)	Water is life	id=23187
+Luganda (Original)	Amazzi Bw'ebulamu	id=6724
+Lusoga (Translation)	Amaadhi n' obulamu	id=28824

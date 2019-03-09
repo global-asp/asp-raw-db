@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=26314&d=0&a=1
+id:	26314
+title:	Asikari  n'omusota
+author:	Francis  Bananwa and Kyambogo  University
+artist:	Photos by Candi Miller, Phillemon Nqeni, Actor: Kqece, Kqece and Aice and Candy Miller
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26314.png
+desc:	Embozi entontona enhona eyekinakyalo eri omusomi omuto.
+
+page_text:
+
+P1	Asikari alumukira mu nkambi.
+P2	yawulira embwa dhibwoigoka yamagamaga.
+P3	embwa yali nkambwa inho nga etengeasa omukira oti enhakulya.
+P4	Yabwoigola,asikali yagwa wansi.
+P5	Bbabba,nnhamba!
+P6	omusota omubba! awo. gwidha kuluma muke wange.
+P7	Bbabba wa asikari yakuba omusota okutusa bwe gwaafa.
+
+images:
+
+illustrations/pages/17275.png
+illustrations/pages/18198.png
+illustrations/pages/17269.png
+illustrations/pages/17270.png
+illustrations/pages/17277.png
+illustrations/pages/17278.png
+illustrations/pages/17272.png
+
+translations:
+
+English (Original)	Oscar and the Snake	id=17004

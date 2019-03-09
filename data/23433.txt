@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=23433&d=0&a=1
+id:	23433
+title:	Agupi a'dikoruri
+author:	GUMA DEOGRATIOUS
+artist:	Catherine Groenewald, Vusi Malindi, Wiehan de Jager, Mango Tree, Ursula Nafula and Onesmus Kakungi
+lang:	Lugbarati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/23433.png
+desc:	Agupi azini adikoru tu ri te nyaka ta mba kilili kuye
+
+page_text:
+
+P1	Saa  azini alu agupi azini rube Joel a'aa Aya village.
+P2	Agu nde e'gani eyo nyakata mbaza madria ewu dria  si ku,e'ri nyaka ezaza.
+P3	Afazi iku pi eroa ni yo
+P4	Kaka pati amvuria nyuki woro azini kweeki te.
+P5	Akuku  du  ero  e'dini nyakata mbazuri madri te.
+P6	Anziki ei ari nyaka were ikupi sufuria di madria
+P7	Ayia laa i  vaa kpampkala owuria nyaka anzini  dimu nya  saa vuleri si ri madria.
+P8	Ata ri jo  ma barazaa  eyo ega ewu  dria ri madria.
+
+images:
+
+illustrations/pages/315.png
+illustrations/pages/315.png
+illustrations/pages/10977.png
+illustrations/pages/12242.png
+illustrations/pages/12245.png
+illustrations/pages/10615.png
+illustrations/pages/11669.png
+illustrations/pages/12885.png
+illustrations/pages/11452.png
+
+translations:
+
+Acholi (Translation)	Lacoo Ma Caa	id=20666
+Alur (Translation)	Jadit ma Jaswa	id=23000
+ChiShona (Translation)	Murume asina kurongeka	id=22246
+English (Translation)	A Careless Man	id=12968
+Hausa (Nigeria) (Translation)	Mutum Maras Kula	id=20761
+Hausa (Nigeria) (Translation)	Mutum Mai Sakaci	id=20849
+Kinyarwanda (Translation)	Umugabo Utita Kukintu	id=23429
+Kinyarwanda (Uganda) (Translation)	Umugabo Wigisambo	id=20616
+Luganda (Translation)	Omusajja Atefirayo	id=20947
+Lumasaaba (Translation)	Umuseza  Ukafayo Da	id=20615
+Lumasaaba (Translation)	Umusetsa Uhafayo Ta	id=20630
+Lusoga (Translation)	Omusaadha Omulagaadhavu	id=20926
+Lusoga (Translation)	Omusaadha atafaayo	id=24851
+Runyankore (Translation)	Omushaija  Atarikweferayo	id=20641

@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=25210&d=0&a=1
+id:	25210
+title:	Kyennhumirwa okukola
+author:	Joseph  Mukwaya and Kyambogo  University
+artist:	Wiehan de Jager
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25210.png
+desc:	Kiki kyonhumirwa kukola? Abantu abendhawulo banhumirwa okukola ebintu ebyaghukana.
+
+page_text:
+
+P1	Nnhumirwa okutuuma omuguwa ni mukwano gwange.
+P2	Nnhumirwa okughandiika enhuguta 5 ku lubaawo.
+P3	Nnhumirwa okusoma ebitabo ebirimu ebifaananie.
+P4	Nnhumirwa okulya ebibala ebyendhaghulo.
+P5	Nnhumirwa okuyambaku maama mu ifumbiro.
+P6	Nnhumirwa okuwulirisa enfumo maama dhankobera.
+P7	Nnhumirwa okulambaala ku buliri obunene.
+P8	Nnhumirwa okukola ebintu bingi. 
+Iwe onhumirwa kukola ki?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+English (Translation)	Ndikonda	id=7774
+English (Adaptation)	I like	id=10430
+English (Adaptation)	I enjoy doing / Ninafurahi	id=15274
+English (Translation)	Cilandikonda - I Enjoy	id=16451
+French (Translation)	Je M'amuse - I Enjoy	id=9769
+Kiswahili (Original)	Ninafurahi / I Enjoy	id=2106
+Luganda (Translation)	Nyumirwa	id=8284
+Lugbarati (Official) (Translation)	Álèàvásɨ̀	id=8785
+Lumasaaba (Translation)	Niwulila Bulayi	id=8285
+Lunyole (Translation)	Ese nyumirwa	id=8400
+Lusoga (Translation)	Nnhumirwa  okuzaanha	id=28517
+Maa (Translation)	Káshípákíno	id=7869
+Ng’aturkana (Translation)	Alakarikina	id=8449
+Oluwanga (Translation)	Ndachama	id=8283
+Rutooro (Translation)	Ngonza - I Enjoy	id=9484
+Tunisian (Translation)	Yeɛjibni	id=15382

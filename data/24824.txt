@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=24824&d=0&a=1
+id:	24824
+title:	Okubala Puusi
+author:	Kyambogo  University and Peter Kisakye
+artist:	Jesse Breytenbach
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24824.png
+desc:	Puusi dhino kamaala. Oja kubala kuva ku ziiro kutuuka ku mwenda.
+
+page_text:
+
+P1	Puusi dhiri imeka? 0 Ziiro.
+P2	Puusi dhiri imeka? 1 Eri puusi ndala.
+P3	Puusi dhiri imeka? 2 Dhiri ibiri.
+P4	Puusi dhiri imeka? 3 Dhiri isatu.
+P5	Puusi dhiri imeka? 4 Inha.
+P6	Puusi dhiri imeka? 5 Dhiri puusi itaanu.
+P7	Puusi dhiri imeka? 6 Puusi mukaaga.
+P8	Puusi imeka? 7 Puusi musanvu.
+P9	Puusi imeka? 8 Puusi munaana.
+P10	kiki kye tubona? Akaana ka  puusi kaghagamiire ku muti! '' Kankuyambe.''
+P11	''Maama, tumulabirire?" 
+"Mukuzi guno gwonka." 
+"Puusi dhiri imeka?" 
+"Dhiri mwenda."
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Dhopadhola (Translation)	kwano pus	id=23214
+English (Adaptation)	Counting cats	id=12156
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala puusi	id=27336
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584

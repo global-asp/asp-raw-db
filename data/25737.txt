@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=25737&d=0&a=1
+id:	25737
+title:	Puusi yange yenkikidha nayo ghaka
+author:	Enocha Tasingika and Kyambogo  University
+artist:	Marleen Visser
+lang:	Lusoga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/25737.png
+desc:	Olufumo luno lugemagana ku Puusi yange eye ghaka.
+
+page_text:
+
+P1	Akasolo kange ake ghaka Puusi. Eyetebwa Kalembe. Ngonzi ate eboneka bukalamu.
+P2	Muke ghange Tomasi ni nze twendha inho okwedhaga ni Kalembe. Maama ghange ayenda inho otulingirira nga twedhaga ni Kalembe.
+P3	Kalembe wakisundhe inho.Kalembe ayenda inho okwedhaga ni muganda ghe omuto nga inhina atendwike. Nnenda okulingirira Kalembe nga ye dhaga ni mugandaghe.
+P4	Twena twena twenda okulingirira Kalembe nga yeedhaga ne e Bighoigholo. Kalembe tatuleka mu kighuubaalo mu biseera dyaife ebyo okuwuumula.
+P5	Buli muntu mu maka gaife agonza inho Kalembe. Muganda ghange yamugulira ekirabo. Kino kyampa eisanhu kamaala.
+P6	Kalembe asiiba muyondho ate nga munhirivu. Mpulira milaala buli lwembona ku Kalembe. Angonza inho zeena.
+
+images:
+
+illustrations/pages/13441.png
+illustrations/pages/17164.png
+illustrations/pages/13446.png
+illustrations/pages/13439.png
+illustrations/pages/13444.png
+illustrations/pages/13445.png
+illustrations/pages/17166.png
+
+translations:
+
+English (Original)	My Pet	id=14279
+English (Adaptation)	My cat Koko	id=17165
+Luganda (Translation)	Akasoolo kange	id=23896
+Luganda (Translation)	akasolo kange kembela nako buliwamu	id=24485

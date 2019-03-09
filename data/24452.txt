@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=24452&d=0&a=1
+id:	24452
+title:	Essomero Lyo Mukibira
+author:	joel gasta
+artist:	Ketan Raut
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/24452.png
+desc:	Ensolo zo mukibila zagenda mubwangu musomero epya ne sanyu elinji. Olowoza kiki ekyadako?
+
+page_text:
+
+P1	Awo olwatuka! Walingawo ekibira ekya limu ekizikiza ekyinji.
+P2	Kyali kibira kinene nga kilimu ekizikiza. Mwalinga mu emmiti minji na kakubo akatono. Ebisolo ne binyonyi bingi bya belanga omwo.
+P3	Olunaku lwakya ensolo zona zakungana. "Mwawulide?" Tota, Kasuku yabuza. "iye," Hirni, Engabi yadamu. "Ekki?" Darpok, Akamyu nekabuza. "Tulina esomero mukibira," Zhoola Enkima nemudamu. Mota Enjovu neyewunya, "hmph?" Lamboo, Entulege negamba, "Oh, kilungi!" Dheema, Ekovu ne li gamba, "twanguye, tugende!"
+P4	Tota, kasuku nabuka emaso. Zhoola, enkyima nebuka okuva kumuti okuda kumula bwetyo. Poorakha, timba ne yekulula mangu. "Wano!" Tota nalekana. "Ani asobola okusoma?" Kyesulise, ndowoza, "Zhoola nagamba nga weyewubira kutabi lyomuti. Poorakha nagamba, "Hisssss. Tewali asobola kusoma."
+P5	Oluvanyuma mikwno jjabwe nejebegatako. Lamboo natunula wagulu wo mutti. "Twewali aliwo wano," nagamba. Zhoola nadamu, "Tewali aliwo wano." Tota nateesa, "Tu nonye bulungi!" Pilloo, bear ento negamba, "Nsanze ekisenge!"
+P6	"Nasanga ekysubo", Dheema nalangira. "Bloka ki zino?" Darpok yayagala amanye. "Kiki kino?" Zhoola kye yabuza. Poorakha yanyonyola, "Nkiwa, eno kalamu."
+P7	Moto ne Lamboo ne basanga kilasi. Nebayita abalala, "Mulabe, kiki kino?" Bulyomu yajja nensawo. Nebatandika okulekana, "Musomesa! Musemesa! Omusomesa waffe aliwa? Tewali ayali amanyi.
+P8	Awo ne bawulila edobozi edene. Bawulila edobozi edene. Ne bawulila edobozi edene. Poorakha ne yelalikirira. Dheema ya tya. Tota yekweka emabega wa boardi. Lamboo ne Zhoola bali babuzabuzidwa.
+P9	Ani ono? "HUP!" Zhoola enkyima negamba. Tewali yayogera. Bona ne batunulila omusomesa. Nga we bamutunulila wagulu ne wansi bulungi. Awo ne betunulila.
+P10	Omusomesa bwe ya kuka okuwandika ku black boardi. "Mukongoje," Zhoola nagamba. "Mubuke! Tota naye nagamba. Thump, thump, thump duka Mota. "Muduke, muduke, muduke, muduke emisinde," Dheema na lagana. "Bhagoooo," bona baleka. Omusomesa weya kyuka. Tewali yali mu kilaasi.
+
+images:
+
+illustrations/pages/1905.png
+illustrations/pages/1906.png
+illustrations/pages/1907.png
+illustrations/pages/1908.png
+illustrations/pages/1909.png
+illustrations/pages/1910.png
+illustrations/pages/1911.png
+illustrations/pages/1912.png
+illustrations/pages/1913.png
+illustrations/pages/1916.png
+illustrations/pages/1914.png
+
+translations:
+
+English (Original)	The jungle school	id=9549
+isiXhosa (Translation)	Isikolo sasehlathini	id=7279
+isiZulu (Translation)	Isikole esisehlathini	id=3182
+isiZulu (Translation)	Isikole esisehlathini	id=17134
+Lusoga (Translation)	Eisomero  lyo  mu kibira	id=29173
+Sepedi (Translation)	Sekolo sa sethokgweng	id=2985
+Sesotho (Lesotho) (Translation)	Sekolo Sa Murung	id=1915

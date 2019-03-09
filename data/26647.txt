@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=26647&d=0&a=1
+id:	26647
+title:	Owampiti omulwaire
+author:	Kyambogo  University and Mpala Paul
+artist:	Razaque Lázaro Quive
+lang:	Lulamoogi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	https://africanstorybook.org/illustrations/covers/26647.png
+desc:	Onduuyu ayaba okucaaliraku omukwano gwe ompiti.
+
+page_text:
+
+P1	Lwabbaire lumo, ebiseera byenyuma, ghaaliyo ebiseera by'enzala. Ompiti omus'einho yefiire ng'omulwaire inho nga tasobola nakufuluma ghanza.
+P2	Ebisolo bingi bya yabire okumucaalira omumak'age okumukakasya. Aye ghabula eyafulumiremu!
+P3	Emisana emis'eiho, onduuyu yatuukire. Naloghoozya yeena okucaalira ompiti.
+P4	Kyegamu yaabire paka mu mpuku ya mpiti. Aye tete nayemerera, era abona olwebe lw'ebisolo nga gyingiramu, era nighabula efuluma.
+P5	Agho yemereire aghanza era nakaabukiramu, ''Muli mutya? Muli kusa, mikwano gyange? Muli kunsuna kusa?"
+P6	Ompiti yairiremu, "Tigherariikirira, mukwano gwange. Oingire ompeeku ebyomukwano!"
+P7	"Eeee, tinekakasya nga nangira. Omubutuufu, mbula kiseera buti, era oli n'abagei bangi...." "Mbe, mbe, nduuyu, buli kintu kiri miraala. Muno mubula muntu. Ebula kisa nze okubba ghano nga ndi mulwaire era nga ndi zenka.
+P8	"Oli kulimba! ndi kubona ebigere bye bisolo ebingiire aye nga bikaali kufuluma."
+P9	Ompiti yaabire mpola era onduuyu nakoba, "Obasugirye, mukwao gwange, ndoghoozya ngyiza kukucaalira olunaku olundi."
+P10	Era onduuyu yapyatiire ghala inho okuzwa omukifo ekyo!
+
+images:
+
+illustrations/pages/8362.png
+illustrations/pages/8362.png
+illustrations/pages/8363.png
+illustrations/pages/8364.png
+illustrations/pages/8365.png
+illustrations/pages/8369.png
+illustrations/pages/8373.png
+illustrations/pages/8374.png
+illustrations/pages/8378.png
+illustrations/pages/8379.png
+
+translations:
+
+English (Original)	The sick hyena	id=8393
+English (Adaptation)	(Colour-in) The Sick Hyena	id=17424
+Lusoga (Translation)	Wampiti  omulwaire	id=24884
+Portuguese (Translation)	A Hiena Doentia	id=8394
+Xitswa (Translation)	A Yingwe Ya Ki Ti B'abzisa	id=8466
