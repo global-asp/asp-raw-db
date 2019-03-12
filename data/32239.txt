@@ -1,0 +1,73 @@
+url:	https://africanstorybook.org/reader.php?id=32239&d=0&a=1
+id:	32239
+title:	Mohlokomedi le lefelo la gagwe la tlhokomelo
+author:	Dikeledi Queen Shai
+artist:	Magriet Brink
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32239.png
+desc:	Kanegelo ye e bolela ka diphoofotšwana tša go hloka batswadi tšeo di hlakodišitšwego tša išwa lefelong la go hlokomela diphoofolo. Diphoofotšwana tše di hlokomelwa ke motho wa go ikgetha gammogo le sehlopha sa gagwe sa bathuši.
+
+page_text:
+
+P1	Ye ke kanegelo ya Mohlokomedi le lefelo la gagwe la go hlokomela diphoofolo tša go hloka batswadi.
+P2	Kgweding ya go feta, mošomo o be o tloga o tšhaba diatla mo lefelong la tlhokomelo. @@Phoofotšwana ya mathomo ya go fihla lefelong la tlhokomelo e be e le Nomsa yoo a bego a na le ngwaga o tee.@@Nomsa o be a otile ebile a tletše manyami.
+P3	Go se go ye kae, Nomsa a kokotlela. A thoma go raloka le diphoofolo tše dingwe.
+P4	Ka letšatši le lengwe kgweding yona yeo, go ile gwa fihla helikoptara gomme ya kotama moo lefelong la tlhokomelo.
+P5	Ka gare ga helikoptara go be go na le tlou ye nnyane yeo e phuthetšwego ka lepai. Leina la yona ke Ndiwa.
+P6	Ndiwa o be a na le matšatši a mahlano a belegwe. Mohlokomedi o fepa Ndiwa ka lepotlelo.
+P7	Bošegong bjo bongwe ba ile ba tsošwa ke go fihla ga thutlwa yeo leina la yona e lego Ambia.
+P8	Ambia o be a na le dikgwedi tše hlano a belegwe. O be a lebelelega a se na maatla morago ga leeto le letelele.
+P9	Ka lebaka la molala wa gagwe wo motelele, Mohlokomedi o ile a swanelwa ke go namela mohlare gore a kgone go fepa Ambia ka lepotlelo.
+P10	Ditšhuana tša mafelelo tša go fihla kgweding yeo e be e le ditawana tše tharo tša go swarwa ke tlala. Maina a tšona ke Kopi, Kepi le Keji.
+P11	Mohlokomedi le bathuši ba gagwe ba rata diphoofolo ka moka, le tšeo di se nago maitshwaro.
+P12	Bašomi ba šoma ka thata mo lefelong la tlhokomelo. @@Tshepo ya bona ke go re ka letšatši le lengwe ditšhuana tše tša diphoofolo di tla kgona go itlhokomela. @@Diphoofotšwana tše di tla kgona go boela nageng fao di swanetšego go dula gona.
+
+images:
+
+illustrations/pages/12997.png
+illustrations/pages/12979.png
+illustrations/pages/12982.png
+illustrations/pages/12983.png
+illustrations/pages/12984.png
+illustrations/pages/12985.png
+illustrations/pages/12986.png
+illustrations/pages/12989.png
+illustrations/pages/12990.png
+illustrations/pages/12991.png
+illustrations/pages/12997.png
+illustrations/pages/12995.png
+illustrations/pages/12998.png
+
+translations:
+
+Afrikaans (Translation)	Die wildwagter en sy spesiale reservaat	id=20075
+ChiShona (Translation)	Muchengeti wekireshi yemhuka	id=31789
+Ekegusii (Translation)	Omotugi n'enasari yaye	id=31834
+English (Original)	Keeper and his nursery	id=13025
+English (Adaptation)	Keeper and his special nursery	id=13640
+English (Adaptation)	Our Animals	id=21896
+French (Translation)	Keeper Et Son Orphelinat Spécial	id=13770
+isiNdebele (Translation)	UMgcini nendawo yakhe ekhethekileko	id=21936
+isiZulu (Translation)	Umgcinizilwane nezilwane zakhe	id=31984
+Khoekhoegowab (Adaptation)	Mûǂamaob tsî ǃûiǃgâs xa	id=32138
+Kikamba (Translation)	Mwii wa nyamũ na kyũũ kyake	id=32165
+Kiswahili (Translation)	Mlinzi na chekechea yake	id=13026
+Lingala (Translation)	Mobateli na basali nabisika ya bokengeli	id=31816
+Lubukusu (Translation)	Omubayi nende liitaala lyewe	id=31859
+Lugwere (Translation)	Omulisya N’Ekiraalokye Ekyenjawulo	id=16194
+Lulamoogi (Translation)	Ebisolo byaisu	id=29007
+Lunyole (Translation)	Omuhuumi N’Olusito Olukugu	id=16423
+Lusoga (Translation)	Mukuza ne Ikuumiro Lye	id=22713
+Mampruli (Translation)	Keeper Ni U Wubsigu Yiri	id=20166
+Oluwanga (Translation)	Omuruchi neshiayo shie Tsisolo namulekhwa	id=31801
+Oshikwanyama (Translation)	Keeper noshikunino shaye	id=24131
+Oshindonga (Translation)	Omutonateli nokapangelo ke	id=23893
+Otjiherero (Translation)	Keeper no matjeverero wovinamuinjo	id=24173
+Rukwangali (Translation)	Mutekuli nohambo zendi	id=31491
+Sesotho (South Africa) (Translation)	Mohlokomedi wa bookelo ba diphoofolo	id=32050
+Setswana (Translation)	Motlhokomedi le serapa sa gagwe	id=31824
+Siswati (Translation)	Umlindzi siciwi setilwane nekunakekela	id=21732
+Talen (Translation)	Daan Ne O Bunbule An Be A Kɔ	id=20197
+Tshivenḓa (Translation)	Vho-Londani na vhulondaphukha havho	id=32093

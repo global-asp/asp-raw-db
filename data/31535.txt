@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=31535&d=0&a=1
+id:	31535
+title:	Mbuzi, Mbwaya na Ng'ombe
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31535.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	Mbuzi, mbwaya na ng'ombe bzikhana uxamwali bwawo bukulu. @@Ntsiku ibodzi, ibzo bzidapangana kuti bzikazunge na xapa.
+P2	Pomwe bzidafika kumala kwa ulendobo, nyakutambira kobiri adakumbira kuti apereke. @@Ng'ombe idacosa mbali yace.
+P3	Mbwaya idacosa kobiri yakupitira, thangwe ikhalibe cinji.
+P4	Pomwe nyakutambira kobiri ule akhanyang'ana cinji kuti apase mbwaya, mbuzi idabula icithamanga iribe kupereka kobiri.
+P5	Nyakufambisa ngolo adakhala wakukalipa kwene-kwene. @@Iye adacoka alibe kupereka cinji kuna mbwaya.
+P6	Ndipo na lero, mbwaya ingabva kuunga ngolo, imbathamangira kumweko kuti iwone penu ni umweyo adasiyizana naye cinji.
+P7	Mbuzi, ingabva kuunga kwa ngolo, imbabula mwakuthamanga. @@Iyo ina mantha na kumangidwa thangwe ya mangawa.
+P8	Ng'ombe iribe thupo na ngolo ingakhala irikubwera. @@Iyo imbayambuka mumseu mwakuderekha thangwe idapereka kale mbali yace.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu ndi Ng'ombe	id=31549
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

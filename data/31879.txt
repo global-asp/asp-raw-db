@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=31879&d=0&a=1
+id:	31879
+title:	Ukugula kukaNgonyama
+author:	Sebolelo  Mokapela
+artist:	Claudio Molina
+lang:	isiXhosa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31879.png
+desc:	A traditional Cinyungwe animal folktale from Mozambique.
+
+page_text:
+
+P1	Ngaminazana ithile, zonke izilwanyana zasendle zadibana ukuze zikhethe ikumkani. Kuloo ndibano ke zakhetha uNgonyama ukuba abeyikumkani yazo zonke izilwanyana.
+P2	Kwangoko, kwakuloo ntlanganiso zayibeka ingonyama njengekumkani yezilwanyana. Kwakuloo ntlanganiso kwabhiyozelwa ukukhethwa kweKumkani uNgonyama. Kwabakho umdliva wetheko elathabatha iveki yonke, zilapho zonke izilwanyana. Zatya, zasela, zacula zadanisa.
+P3	Ukuphela kombhiyozo, zonke izilwanyana zachithakala zigoduka. Yaba sisiqhelo ke ukuba izilwanyana zimana ukuza kubulisa kuNgonyama, ikumkani yazo.
+P4	Omnye weendwendwe ezeza kubulisa uKumkani uNgonyama yaba nguNgcuka. UNgcuka wafika ikumkani ilele ebhedini igula. @@Waphendula uNgonyama ngelithi, "Ndiyagula sisifo esinganyangekiyo."
+P5	Kodwa uNgcuka wathi, "Aa Kumkani! Musa ukukhathazeka ngenxa yesi sifo. Umvundla uyalazi iyeza laso."
+P6	Wakuthetha oku ukuze uMvundla ubesengxakini xa ungakwazanga ukumnyanga uNgonyama. Wavuya ke uNgonyama waze wathumela uNgcuka ukuba ahambe aye kubiza uMvundla aze kumnyanga.
+P7	Eneneni ke nanko uNgcuka ebaleka esiya kubiza uMvundla wafika wathi, "Masihambe siye kwaKumkani ugula kakhulu. Undithumele ukuba ndikubize."@@Waphakama ke noMvundla wahamba esiya kusabela kwaKumkani, akufika wathi, "Aa! Kumkani. Ndilapha kuba ndivile ukuba iKumkani iyandidinga. Ndingowakho Kumkani wam."
+P8	Uphendule uNgonyama ngelithi, "Ndonwabe gqitha ufikile Mvundla wam. Ndikubizile Mvundla kuba ubomi bam busesichengeni. Ndinesifo esinganyangekiyo. Kodwa ke uNgcuka uye wandihlebela ukuba uMvundla unalo iyeza lesi sifo sam."
+P9	Waphendula uMvundla ngelithi, "Aa Kumkani! Unyanisile, ndiyakwazi ukusinyanga esi sifo. Kodwa ke kunzima kakhulu ukulifumana iyeza."@@Waphendula uNgonyama esithi, "Ungabinaxhala wena Mvundla ngokufumaneka nzima kweyeza. Intaka ebhabhayo yeyona ifumaneka lula. Sondel' apha ke usichazele ngeli yeza."
+P10	Waphendula uMvundla esithi, "Aa Kumkani! Xa ndisithi kunzima ukulifumana iyeza andithethi ukuba likude. Ukuze uphile ngokukhawuleza, kufuneka wenze iyeza lokuthambisa ngentliziyo yengcuka."
+P11	Akukuva oko wangcangcazela lixhala uNgcuka, kuba yayikwanguye ochazele uNgonyama ukuba uMvundla unalo iyeza lesi sifo. Wayengazi kukwazi ke ngoko ukuphikisana noko kwakuthethwa nguMvundla malunga neyeza.
+P12	Ngoko ke uNgcuka wabaleka waya kude, akazange aphinde amndwendwele uNgonyama.@@Phela phela ngantsomi!
+
+images:
+
+illustrations/pages/10217.png
+illustrations/pages/27431.png
+illustrations/pages/27432.png
+illustrations/pages/27433.png
+illustrations/pages/27434.png
+illustrations/pages/27435.png
+illustrations/pages/27436.png
+illustrations/pages/27437.png
+illustrations/pages/27438.png
+illustrations/pages/27439.png
+illustrations/pages/27440.png
+illustrations/pages/27441.png
+illustrations/pages/27442.png
+
+translations:
+
+Afrikaans (Translation)	Leeu word siek	id=31880
+Cinyungwe (Translation)	Pamatenda ya Mphondolo	id=31882
+English (Adaptation)	Lion is Sick	id=10242
+English (Adaptation)	Lion gets sick	id=31702
+Portuguese (Original)	O Leão Fica Doente	id=10231

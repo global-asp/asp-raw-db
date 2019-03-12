@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=31693&d=0&a=1
+id:	31693
+title:	Bagiriwe Inama Mbi
+author:	Jean Paul Harelimana
+artist:	Brian Wambi
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31693.png
+desc:	Abagabo babiri bagiriwe inama mbi. Bashatse inararibonye
+
+page_text:
+
+P1	Kabano na Juru bari abaturanyi babakene.@@Ntacyo batari barakoze mu buzima.
+P2	Bifuzaga kugira indogobe.@@Yagombaga kuzajya ibatwaza imitwaro yabo.
+P3	Kabano yaravuze ati: "Reka dufatanye kugura indogobe."@@Byarabashimishije.
+P4	Se wa Kabano amaze gupfa, Kabano yabaye umukire yibagirwa Juru baruhanye.
+P5	Kabano yifuzaga indogobe ngo ayibagire imbwa ze. @Juru nawe yarayikundaga.
+P6	Umucamanza yaravuze ati: "Buri wese arafata igice kimwe k' indogobe."
+P7	Kabano yishe indogobe.@@Juru yatwaye igice gisigaye i muhira.
+P8	Kabano yifuje gutwika inzu ye akubaka indi nshyashya.
+P9	Juru aravuga ati: "Iyo nzu izatwika iyange." Umucamanza ntiyabyitaho cyane.
+P10	Inzu ya Juru yarahiye. Umucamanza ati: "Kabano yatwitse iye gusa.
+P11	Juru yasigaye ntandogobe afite ntan'inzu agira. Yaraye munsi y' igiti.
+P12	Juru yarakoze cyane yeza amashaza menshi.
+P13	Abahungu ba Kabano bariye amashaza hafi no kuyamara mu murima wa Juru.
+P14	Abahungu baravuga bati: "Ubwire Papa yishyure amashaza yawe."
+P15	Juru arabasubiza ati: "Sinshaka amafaranga yanyu, ndashaka amashaza yange.
+P16	Umucamanza abwira Juru ati: "Satura aba bahungu ubakuremo amashaza yawe!"
+P17	Juru ntiyabyitaho. Kabano ati: "Reka abakuru bafate umwanzuro ukwiye!"
+P18	Abasaza b'inararibonye baravuga bati: "Wishe indogobe, utwika n'inzu ye!"
+P19	Babwira Juru bati: "Kwica abana ba Kabano nabyo ni bibi."
+P20	Kabano yahaye Juru kimwe cya kabiri cy'umutungo we.  Babana bishimye.
+
+images:
+
+illustrations/pages/17057.png
+illustrations/pages/17050.png
+illustrations/pages/17052.png
+illustrations/pages/17053.png
+illustrations/pages/17054.png
+illustrations/pages/17055.png
+illustrations/pages/17057.png
+illustrations/pages/17058.png
+illustrations/pages/17060.png
+illustrations/pages/17061.png
+illustrations/pages/17062.png
+illustrations/pages/17063.png
+illustrations/pages/17064.png
+illustrations/pages/17066.png
+illustrations/pages/17068.png
+illustrations/pages/17069.png
+illustrations/pages/17070.png
+illustrations/pages/17071.png
+illustrations/pages/17073.png
+illustrations/pages/17074.png
+illustrations/pages/17075.png
+
+translations:
+
+Afaan Oromo (Translation)	Abbaa Seeraa Abbiidhoo	id=24805
+English (Original)	Unwise judge	id=17115
+English (Adaptation)	Wrong advice	id=21795
+French (Translation)	Mauvais conseil	id=23335
+Kinyarwanda (Translation)	Umucamanza Mubi	id=22143
+Kiswahili (Translation)	Hakimu asiyekuwa na busara	id=17135
+Kiswahili (Translation)	Ushauri mbaya	id=21816
+Lusoga (Translation)	Okughabulwa okucaamu	id=25906
+Portuguese (Translation)	Juiz Insensato	id=17118
+Portuguese (Translation)	Juiz Insensato	id=17133

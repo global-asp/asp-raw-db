@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=31702&d=0&a=1
+id:	31702
+title:	Lion gets sick
+author:	Little Zebra Books
+artist:	Claudio Molina
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31702.png
+desc:	A traditional animal folktale from Mozambique.
+
+page_text:
+
+P1	One day, all the wild animals got together to choose a king. They saw that it would be good to choose Lion to be the king of all the animals.
+P2	At that meeting, they crowned Lion the king of the animals. As part of the ceremony, they had a big party that lasted a week. All of the animals attended until the ceremony until the end. @@They ate, they drank, they sang and they danced.
+P3	When the ceremony was over, they all dispersed, returning to their own homes. It was the custom for every animal to go and greet Lion because he was their king.
+P4	One visitor who came to greet King Lion was Hyena. When Hyena arrived at Lion's house, he found the king sick in bed. Lion told him, "I'm sick with an incurable illness."
+P5	But Hyena said, "O Great King, don't be sad because of this illness. Hare knows the cure for this illness."
+P6	The reason Hyena said this was because he wanted to get Hare in trouble in the eyes of Lion when he was unable to heal him. So Lion cheered up and sent Hyena right away to call Hare and heal him.
+P7	And so Hyena ran to call Hare and said, "Let's go to the King, because he is very sick. He sent me to call you." @@And Hare got up and went and arrived before the eyes of the King saying, "I have come, O King! I heard that the king has need of me. And so I have come, Great King."
+P8	Lion answered, "I am exceedingly happy to see you close to me, my Hare. I myself have called you, Hare, because my life is hanging by a thread. I have an incurable illness. But Hyena whispered to me that Hare has the cure for this illness of mine."
+P9	And Hare replied, "You are correct, O King. I am able to heal this illness. But the medicine is very difficult to get." @@Lion replied, "Don't you worry, Hare, about this medicine being difficult to find. The bird that flies is the one that is caught. Come on now, tell us about this medicine!"
+P10	And Hare replied, "O my King, when I say that the medicine is hard to find I don't mean that it is far away. For you to be healed at once, you must make an ointment from the heart of a hyena."
+P11	When he heard that, Hyena started trembling all over because he was the very one who had told Lion that Hare knew the medicine for that illness. It was useless to try to contradict Hare regarding the medicine that he had spoken of.
+P12	So Hyena ran away and never again went to visit Lion.
+
+images:
+
+illustrations/pages/10217.png
+illustrations/pages/27431.png
+illustrations/pages/27432.png
+illustrations/pages/27433.png
+illustrations/pages/27434.png
+illustrations/pages/27435.png
+illustrations/pages/27436.png
+illustrations/pages/27437.png
+illustrations/pages/27438.png
+illustrations/pages/27439.png
+illustrations/pages/27440.png
+illustrations/pages/27441.png
+illustrations/pages/27442.png
+
+translations:
+
+Afrikaans (Translation)	Leeu word siek	id=31880
+Cinyungwe (Translation)	Pamatenda ya Mphondolo	id=31882
+English (Adaptation)	Lion is Sick	id=10242
+isiXhosa (Translation)	Ukugula kukaNgonyama	id=31879
+Portuguese (Original)	O Leão Fica Doente	id=10231

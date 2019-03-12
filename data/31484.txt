@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=31484&d=0&a=1
+id:	31484
+title:	Esanseko lyoMundiro
+author:	Djaupyu  Siteketa
+artist:	Rob Owen
+lang:	Rukwangali
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31484.png
+desc:	Mundiro tagu sanseke esanseko lyago. (Eli erunduruko koNtambo 1 zobuke zomasanseko pepanunongodi zetumburo 
+
+page_text:
+
+P1	Ninka ni kutantere esanseko lyange. Ame kwa varekere ngohanzegona.
+P2	Ame kwatwere unene apa zina kupeperange mpepo.
+P3	Ose vakaume wovanene, nove name.
+P4	Ame kutereka nondya doge.
+P5	Ame kukutemesera momasiku goge.
+P6	Ame kwa kara noyineya yoyinzi.
+P7	Ame gumwe gekoro lyoge.
+P8	Nye nomena apa ono kuzigidange kembo lyoge. Kapi na hara kusigange nyamelike.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166

@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=32112&d=0&a=1
+id:	32112
+title:	Ibipesu
+author:	Jean Paul Harelimana
+artist:	African Storybook, Natalie Propa and Wiehan de Jager
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32112.png
+desc:	Ibyo wamenya ku bipesu
+
+page_text:
+
+P1	Ibipesu byange byose ni uruziga.
+P2	Bimwe mu bipesu byange ni icyatsi.
+P3	Ibipesu byange byose ni bito.
+P4	Bimwe mu bipesu byange ni umuhondo.
+P5	Ibipesu byange byose ni byiza.
+P6	Bimwe mu bipesu byange ni umutuku.
+P7	Ibipesu byange byose birarabagirana.
+P8	Bimwe mu bipesu byange ni ubururu.
+P9	Ibipesu byange byose ni byiza.
+P10	Nkunda ibipesu byange byose.
+
+images:
+
+illustrations/pages/27210.png
+illustrations/pages/1200.png
+illustrations/pages/27206.png
+illustrations/pages/874.png
+illustrations/pages/27209.png
+illustrations/pages/27201.png
+illustrations/pages/27208.png
+illustrations/pages/10065.png
+illustrations/pages/27207.png
+illustrations/pages/27210.png
+illustrations/pages/27205.png
+
+translations:
+
+English (Original)	Buttons	id=18810
+English (Adaptation)	Buttons	id=24701
+English (Adaptation)	Buttons	id=24702
+Kiswahili (Translation)	Vifungo	id=31407
+Kiswahili (Adaptation)	Vifungo tofauti	id=31409
+Lusoga (Translation)	Amapensa	id=27614

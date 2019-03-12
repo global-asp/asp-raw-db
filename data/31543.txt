@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=31543&d=0&a=1
+id:	31543
+title:	Munthu Wakudala Wakusaya Ndzeru
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	Cinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31543.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 12:15-23, 30-31@@Jezu adati: "Khalani na cheru! Khalani wakudziwa letu kuti muleke kukhala na m'tima loko-loko wakufuna bzizinji, nakuti moyo wa munthu ulibe basa na kuwanda kwa bzinthu bzace." @@Na tenepo Iye adawauza mfananizo wakuti:
+P2	M'munda mwa munthu winango wakudala mudacoka bzakudya bzizinji. @@Ndipo iye adakumbuka mumtima mwace kuti: "Kodi nin'dzacita ciyani? Ndiribe kwakuikha phoso langu."
+P3	Ndipo iye adati: "Ndadziwa tsapano bzomwe nditi ndicite. Nin'dzapfudza magwangwa yangu ndipo ndicimanga yanango makulu, ndicidzakoya m'mwemo phosolo na bzinthu bzangu bzinango."
+P4	"Ndipo ndin'dzalewa ndekha kuti: 'Iwepo una bzinthu bzizinji, bzidakoyedwa kwa magole mazinji. Puma, dyaya, mwaya ndipo kondwa.'"
+P5	Mulungu adamuuza kuti: "Nandi wakusaya ndzeruwe! Usiku buno-letu moyo wako unimala. Tsono mbani an'sala na bzinthu bzomwe udakoyabzi?"
+P6	Tenepayu ndibzo bzimbacitika kuna ule omwe ambabzikoyera cuma, tsono kuna Mulungu ni wakudala lini umweyo.
+P7	Patsogolo pace Jezu adauza ateweri wace kuti: "Ndipopo Ine ndirikukuuzani kuti: Lekani kukhala na thupo na moyo wanu,
+P8	kuti mun'dzadya ciyani napo kukhala na thupo na thupi lanu kuti mun'dzabvala ciyani."
+P9	"Nakuti dziko la wakusaya kupemba ndiro limbathamangira m'mbuyo mwa bzinthu bzimwebzi. Tsono Baba an'dziwa kuti imwepo mumbabzifuna. Tsono, nyang'anani umambo bwa Mulungu, ndipo bzinthu bzimwebzi bzin'dzathimiziridwa kuna imwe."
+
+images:
+
+illustrations/pages/27268.png
+illustrations/pages/27266.png
+illustrations/pages/27267.png
+illustrations/pages/27269.png
+illustrations/pages/27268.png
+illustrations/pages/27270.png
+illustrations/pages/27271.png
+illustrations/pages/27279.png
+illustrations/pages/27278.png
+illustrations/pages/27275.png
+
+translations:
+
+Cisena (Translation)	M'pfumi Wakusowa Ndzeru	id=31548
+English (Translation)	The Rich Fool	id=31542
+Olunyaneka (Translation)	Omuhona Ondamba	id=31544
+Portuguese (Original)	O Rico Sem Juizo	id=31434

@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31524&d=0&a=1
+id:	31524
+title:	A-Citagamulo na a-Kalunga
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Ciyawo
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31524.png
+desc:	A Mozambican folktale about how Chameleon outwits his rival
+
+page_text:
+
+P1	Wapadi wusiku wumo, a-Citagamulo na a-Kalunga valanganaga kuwutuka vawone vacawine.
+P2	A-Kalunga vajiticisye ni vatite, "M'mwe vankwenda kwa panandi-panandi. Ntande kwenda nalu lukongolo-lu ni njime. Pele ntandile sooni ni lwine lukongolo-lu. M'mwe ngajakwika. Cinan'nece kwetadice n'nope! Ngamusimana."
+P3	Vayiladice yinyama yejinji ya yadiji mbesi.
+P4	A-Citagamulo na a-Kalunga vatandite kuwutuka.
+P5	A-Citagamulo vagulwice ni vatemi muncila mwa a-Kalunga.
+P6	A-Kalunga pavawutukaga, yinyama yasekaga ni yakwataga yinankutenda dilama dyejinji, ntande a-Citagamulo vadiji muncila wa a-Kalunga.
+P7	A-Kalunga pakupikana dilama, vajimi ni vatemi. @@A-Citagamulo vatite, "Ngatama pacanya pawune! Wune nayice katasi."
+P8	A-Kalunga vasimonjile ni vatandite kuwutuka sooni.
+P9	Pavayice kumbesi, yinyama ni yakwataga n'nyala ni yagumilaga pakwawona a-Citagamulo adi civela muncila. A-Kalunga vapikene ni vaganisisye kuti a-Citagamulo vayice!
+P10	Pavayice pambesi, a-Citagamulo ni vatite, "M'mwe ngatama pacanya pawune! Wune nyice malo gandanda!"
+P11	A-Kalunga nganajima kwele. Vele vatisile. Sano a-Citagamulo vasigele pakupocela wini. A-Kalunga valusile.
+
+images:
+
+illustrations/pages/27261.png
+illustrations/pages/27251.png
+illustrations/pages/27252.png
+illustrations/pages/27253.png
+illustrations/pages/27254.png
+illustrations/pages/27255.png
+illustrations/pages/27256.png
+illustrations/pages/27258.png
+illustrations/pages/27259.png
+illustrations/pages/27261.png
+illustrations/pages/27262.png
+illustrations/pages/27263.png
+
+translations:
+
+Cinyungwe (Translation)	Dwidwi na Sulo	id=31518
+Elomwe (Translation)	Namanriya Opaka Wawe Mapokha nNamarokolo	id=31522
+Emakhuwa (Translation)	Ovaanyihana wa Namanriya  ni Namarokolo	id=31523
+English (Original)	Chameleon Races Rabbit	id=31355
+Portuguese (Translation)	O Camaleão e o Coelho	id=31510

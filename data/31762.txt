@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=31762&d=0&a=1
+id:	31762
+title:	Kiti na Imbwa neShavishavi
+author:	Lilian Chaminuka
+artist:	Elke and René Leisink
+lang:	ChiShona
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31762.png
+desc:	Kiti na Imbwa vanotarisa kunze nepahwindo. Vanotarisa nepahwindo
+
+page_text:
+
+P1	Uyu ndiKiti.@@Uyu ndi Imbwa.
+P2	Kiti na Imbwa vanotarisa nepahwindo.@@Vanotarisa nepahwindo.
+P3	Kiti na Imbwa vanobva vaona shavishavi!
+P4	Kiti na Imbwa vanoda kubata shavishavi.@@Kiti na Imbwa vanotevera shavishavi.@@Vanotevera shavishavi vachimhanya.
+P5	Kiti na Imbwa vanomhanya vachitevera shavishavi. Vanofamba vachitevera shavishavi asi shavishavi rinobhururuka richimhanyisa. Shavishavi rinomhanyisa zvekuti Kiti na Imbwa vanotadza kuribata nekuti havafambisi.
+P6	Kiti na Imbwa vanotora bhasikoro votevera. Vanotevera shavishavi.@@Asi shavishavi rinomhanyisa. Shavishavi rinobhururuka richimhanyisa. Kiti na Imbwa vanotadza kuribata nekuti havamhanyisi.
+P7	Kiti na Imbwa vanotora motokari. Vanotevera shavishavi nemotokari.@@Asi shavishavi rinomhanyisa. Shavishavi rinobhururuka richimhanyisa. Kiti naImbwa vanotadza kuribata nekuti havamhanyisi.
+P8	Kiti na Imbwa vanotevera shavishavi nechikepe. Vanoyerera pamusoro pemvura vachitevera shavishavi.@@Asi shavishavi rinomhanyisa. Shavishavi rinobhururuka richimhanyisisa. Kiti na Imbwa vanotadza kuribata nekuti havamhanyisi.
+P9	Kiti na Imbwa vanotevera shavishavi ne ndege. Vanobhururuka vachitevera shavishavi as vanotadza kuribata. Shavishavi ririkumhanyisa. Ivo havamhanyisi.
+P10	Kiti na Imbwa vanomira. Vanomira vogara pasi. Vanogara pasi pemuti.@@Vanogara pasi pezimuti.@@Asi...
+P11	Vanoona shavishavi rimwe mumuti.@@Vanoona mashavishavi maviri mumuti.@@Vanoona mashavishavi matatu mumuti.
+P12	Vanoona zana remashavishavi!
+P13	Chisarai Kiti.@@Chisarai Imbwa.@@Chisarai mashavishavi.
+
+images:
+
+illustrations/pages/25582.png
+illustrations/pages/25584.png
+illustrations/pages/25585.png
+illustrations/pages/25586.png
+illustrations/pages/25587.png
+illustrations/pages/25588.png
+illustrations/pages/25589.png
+illustrations/pages/25590.png
+illustrations/pages/25591.png
+illustrations/pages/25592.png
+illustrations/pages/25593.png
+illustrations/pages/25594.png
+illustrations/pages/25595.png
+illustrations/pages/25596.png
+illustrations/pages/18782.png
+
+translations:
+
+Ekegusii (Translation)	Ekebusi, Esese amo ne'ekegwankwa	id=31838
+English (Original)	Cat and Dog and the butterfly	id=21980
+isiZulu (Translation)	Ikati, inja novemvane	id=31811
+Kikamba (Translation)	Mbaka na Ngitĩ na kĩmbalutya	id=32167
+Lingala (Translation)	Niawu na mbwua na kipekapeka	id=31815
+Lubukusu (Translation)	Eepuusi nende Eembwa nende siipuruupuru	id=31748
+Oluwanga (Translation)	Ipusi nende Imbwa nende imburukuru	id=31758
+Oluwanga (Translation)	Ipusi nende Imbwa nende Imburukuru	id=31796
+Sepedi (Translation)	Katse le Mpša ka morago ga Serurubele	id=32063
+Sesotho (South Africa) (Translation)	Katse le Ntja le serurubele	id=31797
+Setswana (Translation)	Katse le Ntšwa le serurubele	id=31773
+Tshivenḓa (Translation)	Tshimange na Mmbwa na tshisusu	id=31841

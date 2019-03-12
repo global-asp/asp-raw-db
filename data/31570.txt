@@ -1,0 +1,84 @@
+url:	https://africanstorybook.org/reader.php?id=31570&d=0&a=1
+id:	31570
+title:	Shimbilinga ta havaleke omaulu
+author:	Nelly  Ndafyaalako
+artist:	Wiehan de Jager
+lang:	Oshikwanyama
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31570.png
+desc:	Shimbilinga okwa tokola a pe oinamwenyo aishe omaulu opo i dule okweenda ngaashi ovanhu.
+
+page_text:
+
+P1	Nale nale oinamwenyo aishe ka kwa li i na omaulu. @@Aishe okwa li ashike hai li pweda.
+P2	Ovanhu ovo ashike kwa li ve na omaulu, ve a pewa kuShimbilinga.
+P3	Efiku limwe Shimbilinga okwa tokola oku pa oinamwenyo omaulu. Okwa li a hala i kale tai ende ngaashi ovanhu. @@Okwe i ifana keumbo laye opo e i lombwele.
+P4	"Otashi kala shiwa unene nge twa pewa omaulu," oinamwenyo osho ya ti.@@Ta i imbi nokuhela kehafo.
+P5	Oinamwenyo oya ti oku lipweda okudjuu, ko ohaku ehama.
+P6	Eshi efiku lokutambula omaulu la fika, oinamwenyo ihapu oya ya keumbo laShimbilinga.@@Eenduli, eenghoshi, eendjaba, oundiba, eengadu noudila ova twa omukweyo.
+P7	Oshinamwenyo keshe osha pewa omaulu ane.@@Oudila ova pewa avali.
+P8	Opa li ehafo linene eshi oinamwenyo ya mona omaulu.@@Imwe oya li tai dana kehafo. Imwe okwali ta i pundauka shaashi ina i ika okweenda.
+P9	Oku dja opo oinamwenyo oya ka ulikila ovanhu omaulu ayo. "Ita tu lipweda vali!"
+P10	Mbalangadja oye a li waxuuninwa. Shimbilinga okwe mu pula ta ti, "Konima yoye oku na vali umwe?"@@"Aaye, aame nda xuuninwa Tatekulu." Mbalangadja ta nyamukula.
+P11	"Nge oye wa xuuninwa, omaulu aeshe aa ohandi a ningi ngahelipi?" Shimbilinga osho e li popila.@@Okwa tokola a yandje omaulu aeshe aa a xupa po kuMbalangadja.
+P12	Mbalangadja okwa li a hafa unene. "Paife ohandi endelele ndi dule vakwetu shaashi ondi na omaulu mahapu." Osho a enda te li popile.
+P13	Eshi Mbalangadja a ya, eyoka ola ya keumbo laShimbilinga. "Naame kwafelenge omaulu Tatekulu," osho la indila Shimbilinga.
+P14	"Ame nghi na po nee vali omaulu apa. Owali peni?" Madume ta pula.@@"Onda kofelela Tatekulu," eyoka ta li nyamukula.
+P15	Shimbilinga ta i momalimba aye a ka tale nge ta mono mo sha.@@I na hanga mo sha.
+P16	"Ka mu na vali omaulu omu," Shimbilinga ta lombwele eyoka. Eyoka ta li li pweda nenyeme lauka keumbo.@@Oku dja opo, eyoka iha li kofa vali tali pwile po. Ola hala olo lininge lotete momukweyo woku ka tambula omaulu.
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+Afaan Oromo (Translation)	Luka Bineensootaa	id=21699
+Afrikaans (Translation)	Maguru deel bene uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+Dhopadhola (Translation)	Ogwange Jo Nwaŋo Tyendi Gin	id=21239
+English (Original)	Maguru gives legs	id=14415
+Fulfulde Mbororoore (Translation)	Taalol: Maaguru Hokkii Koyɗe	id=32056
+Hausa (Nigeria) (Translation)	Madugu ya raba ƙafafu	id=21315
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+Igbo (Translation)	Chiokike na-enye ụkwụ!	id=22122
+isiNdebele (Translation)	UMaguru unikela imilenze	id=21940
+isiXhosa (Translation)	UMaguru uphisa ngemilenze	id=17576
+isiZulu (Adaptation)	UMveli unikela ngemilenze	id=17461
+Khoekhoegowab (Translation)	Magurub ge ǀnūga ra mā	id=31765
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Kiswahili (Translation)	Maguru apatiana miguu	id=14412
+Kiswahili (Translation)	Wanyama wapata miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
+Lusoga (Translation)	Magulu Agha Ebigere	id=26554
+Oshindonga (Translation)	Maguru ta gandja omagulu	id=31506
+Otjiherero (Translation)	Maguru ujandja omarama	id=31515
+Rukwangali (Translation)	Maguru ana gava maguru	id=31493
+Sepedi (Translation)	Maguru o abela diphoofolo maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru o fana ka maoto	id=20037
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Siswati (Translation)	Mveli unikela ngemilente	id=21735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Tshivenḓa (Translation)	Maguru u ṋekedza milenzhe	id=18285
+Xitsonga (Translation)	Maguru a phakela milenge	id=18870

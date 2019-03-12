@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=32096&d=0&a=1
+id:	32096
+title:	Cirgu e Lelwa
+author:	Salaamatu Yaakubu
+artist:	Isaac Okwir
+lang:	Fulfulde Mbororoore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32096.png
+desc:	Cirgu e lelwa kunake ngam waɗugo soobaaku. Ammaa soobaaku ɗum neeɓaayi
+
+page_text:
+
+P1	Koo ndeye cirgu e yiɗi nanngugo lelwa.
+P2	Koo ndeye lelwa e sobtoo cirgu.
+P3	Nyalaande feere, cirgu noddi lelwa, "Sey coobootiren. Ko nyaamaymi min, an a nyaamataaɗum. Naaʼ en haɓidooɓe."
+P4	Lelwa yerdake. Cirgu sey wiʼi, "En kunoo en soobiraaɓe. To gooto men yewii alkawal, ɓinngel muʼum maayay."
+P5	Ɗi kunii, ɗi coobira. Jemma, lelwa waaloo ley lekki, cirgu boo e dow lekki kin.
+P6	Yeeso seɗɗa, lelwa tekki. Cirgu boo laafi.
+P7	Cirgu nanii suuno nyaamugo lelwa tekkunga. Cirgu wiʼi, "Mi faalaaki alkawal ngam mi walaa ɓinngel."
+P8	Cirgu diwi jippi ngam nanngugo lelwa. Sey cirgu ɗaggi hakkunde lice leɗɗe.
+P9	Lelwa boo hultori. Nga diwi e nga woya, "Ɓey! Ɓey!"
+P10	Cirgu torake wiʼii, "Soobaajo am, wallitam. En kunake gewuɗo alkawal fuu sooyay ɓiyum."
+P11	Lelwa notii, "Hakkilaayi, danyooɓe maaɗa kunii, naaʼ an! An anndi."
+
+images:
+
+illustrations/pages/17309.png
+illustrations/pages/17306.png
+illustrations/pages/17307.png
+illustrations/pages/17309.png
+illustrations/pages/17310.png
+illustrations/pages/17311.png
+illustrations/pages/17312.png
+illustrations/pages/17313.png
+illustrations/pages/17314.png
+illustrations/pages/17315.png
+illustrations/pages/17316.png
+illustrations/pages/17317.png
+
+translations:
+
+Amharic (Translation)	ነብርና ሚዳቋ	id=17660
+English (Original)	Leopard and Antelope	id=17659
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=22072
+Kiswahili (Translation)	Chui na Swara	id=22084

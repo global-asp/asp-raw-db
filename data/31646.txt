@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=31646&d=0&a=1
+id:	31646
+title:	A-Nema akusuma wusi
+author:	Little Zebra Books
+artist:	Mirjam  Gyger
+lang:	Ciyawo
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31646.png
+desc:	Follow Nema through the market as she tries to buy some thread.
+
+page_text:
+
+P1	Ava ni a-Nema. @A-Nema akutota.@A-Nema akutota saya.
+P2	A-Nema akutota ni wusi. @Wumasile wusi.@A-Nema akusaka kusuma wusi. @Akusaka mbiya pakusuma yicindu. @Kwapi vele kwacasipate mbiya?
+P3	A-Nema akucilola citela cimo. @Citela-co cidi pakuvandika. @Citela-co cana yisogosi.@Yisogosi-yo gadi mapapaya. @Mapapaya gadi ga kunong'a.
+P4	A-Nema akwete lupici. @A-Nema akupopola mapapaya.
+P5	A-Nema vayice kunsika. @Vele vayice kunsika ni mapapaya. @Vele akusaka kusumisya mapapaya.
+P6	Vayice valume vamo. @Valume-wo akusuma dipapaya dimo. @Vele akwaapa mbiya a-Nema. @A-Nema akusumisya mapapaya gejinji.@Mbiya sila, vapele a-Nema. @A-Nema mbiya sila, akwawula kusuma wusi.
+P7	Kunsika kula, vele agaweni magombo.@Vele nganasuma magombo gala.
+P8	Kunsika kula, sooni akusiwona mbwetecela. @Vele nganasuma mbwetecela sila.
+P9	Kunsika kula, sooni akujiwona sepa.@Vele nganasuma sepa jila.
+P10	Kunsika kula, sooni akujiwona buledi.@Vele nganasuma buledi.
+P11	A-Nema akwaawona valume vane.@Valume vala adi akusumisya wusi.@A-Nema akusuma wusi wula.
+P12	A-Nema akwete wusi. @A-Nema adi akusengwa. @Vele pele camadisye kutota saya jila ni wusi wula.
+
+images:
+
+illustrations/pages/27365.png
+illustrations/pages/27351.png
+illustrations/pages/27352.png
+illustrations/pages/27354.png
+illustrations/pages/27343.png
+illustrations/pages/27356.png
+illustrations/pages/27357.png
+illustrations/pages/27360.png
+illustrations/pages/27361.png
+illustrations/pages/27363.png
+illustrations/pages/27364.png
+illustrations/pages/27365.png
+illustrations/pages/27366.png
+
+translations:
+
+CiNyanja (Translation)	Nema Agula Ulusi	id=31643
+Cinyungwe (Translation)	Nema Wagula Usalu	id=31642
+Elomwe (Translation)	Nema Oothuma Osola	id=31644
+Emakhuwa (Translation)	Neema Onthuma Nliinya	id=31645
+English (Original)	Nema Buys Thread	id=31612
+Portuguese (Translation)	A Nema Compra a Linha	id=31641

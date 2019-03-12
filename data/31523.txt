@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31523&d=0&a=1
+id:	31523
+title:	Ovaanyihana wa Namanriya  ni Namarokolo
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Emakhuwa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31523.png
+desc:	A Mozambican folktale about how Chameleon outwits his rival
+
+page_text:
+
+P1	Nihiku nimosa, Namanriya ni Namarokolo, yaahivaanyihana otthimakasa wiira emoone aarowa oxintta.
+P2	Namarokolo aahaakhulela khohimya wiira: "Nyuwo muneetta vakhaani-vakhani, muhimyaka wiira: 'Miyo keetta ni nla, ni nla kinoophiya, miyo karowa ni nla, ni nla nikina nkimphiya.' Kinimoohiyana ottai-wene, khamunrowa okiphwanya."
+P3	Saahilattuliwa inama sinci-ene, sikhala okhomoni.
+P4	Namanriya ni Namarokolo yaahipacerya otthimakasa.
+P5	Namanriya aahitupha oitthukwelela vamwiilani wa Namarokolo.
+P6	Namarokolo vaatthimakasawe, inama sootheene saanitheya soopaka ikuphi, sinyakulaka vanci-ene, mwaha wa Namanriya aari vamwiilani wa Namarokolo.
+P7	Namarokolo vaaiwawe onyakuliwa, aaheemela khokilaathi. Namanriya aahihimya wiira: "Muhikikalaathele, miyo kiphin'ye khalayi."
+P8	Namarokolo aahitikinihiwa, khotthikela-tho otthimakasa.
+P9	Ohalaka vakhaani ophiya okhomoni, inama saanoopa ikuphi, ikhuwelaka vaamoonalyaya Namanriya nlelo oriene vamwiilani. Namarokolo vaiwalyawe aanyiherya wiira Namanriya aahiphiya.
+P10	Vaaphiyalyawe okhomoni, Namanriya aahiira: "Muhikikalaathele. Miyo kiphin'ye khalayi va."
+P11	Nto Namarokolo khatthunne weemela-vo. Owo aahitthyawa, nave Namanriya aahihala wiira otthuveliwe. Namarokolo aahiyeleela.
+
+images:
+
+illustrations/pages/27261.png
+illustrations/pages/27251.png
+illustrations/pages/27252.png
+illustrations/pages/27253.png
+illustrations/pages/27254.png
+illustrations/pages/27255.png
+illustrations/pages/27256.png
+illustrations/pages/27258.png
+illustrations/pages/27259.png
+illustrations/pages/27261.png
+illustrations/pages/27262.png
+illustrations/pages/27263.png
+
+translations:
+
+Cinyungwe (Translation)	Dwidwi na Sulo	id=31518
+Ciyawo (Translation)	A-Citagamulo na a-Kalunga	id=31524
+Elomwe (Translation)	Namanriya Opaka Wawe Mapokha nNamarokolo	id=31522
+English (Original)	Chameleon Races Rabbit	id=31355
+Portuguese (Translation)	O Camaleão e o Coelho	id=31510

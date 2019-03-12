@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=31498&d=0&a=1
+id:	31498
+title:	Goat, Dog and Cow
+author:	Fabian Wakholi
+artist:	Marleen Visser
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31498.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	Goat, Dog and Cow were great friends.@@One day they went on a journey in a taxi.
+P2	They reached the end of their journey.@@The driver asked them to pay their fares.@@Cow paid her fare.
+P3	Dog paid extra, because he did not have the correct money.
+P4	The driver was about to give Dog his change.@@Suddenly Goat ran away without paying.
+P5	The driver was very annoyed.@@He drove away without giving Dog his change.
+P6	That is why, even today, Dog runs towards a car to peep inside.@@He is looking for the driver who owes him change.
+P7	Goat runs away from the sound of a car.@@She is afraid she will be arrested for not paying her fare.
+P8	Cow is not bothered by cars.@@Cow takes her time crossing the road.@@She knows she paid her fare in full.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu ndi Ng'ombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

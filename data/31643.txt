@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=31643&d=0&a=1
+id:	31643
+title:	Nema Agula Ulusi
+author:	Little Zebra Books
+artist:	Mirjam  Gyger
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31643.png
+desc:	Follow Nema through the market as she tries to buy some thread.
+
+page_text:
+
+P1	Uyu ndi Nema. @Nema akusoka. @Nema akusoka ndiloko.
+P2	Nema, asoka ndi ulusi. @Ulusi watha. Nema@akufuna kukagula wina ulusi. @Akufuna ndalama zokagulila. @Kodi iye azipeza kuti ndalama?
+P3	Nema aona ntengo. @Ntengo uli pafupi.@Muntengo muli zipatso. @Zipatso zake ndi mapapaya. @Papaya ndilotsekemela.
+P4	Nema ali ndi ntokoso. @Nema agwetsa mapapaya.
+P5	Nema afika kunsika. @Iye afika kunsika ndi mapapaya. @Iye afuna kugulitsa mapapaya.
+P6	Onani abambo. @Abambo agula papaya limodzi. @Iwo apeleka ndalama kwa Nema.@Nema agulitsa mapapaya ambili. @Nema alandila ndalama. @Iye akagula ulusi.
+P7	Kunsika, aona nthoci. @Iye sagula nthoci.
+P8	Kunsika aona matimati. @Iye sagula matimati.
+P9	Kunsika aona sefa. @Iye sagula sefa.
+P10	Kunsika aona buledi. @Iye sagula buledi.
+P11	Nema aona abambo. @Abambo akugulitsa ulusi. @Nema agula ulusi.
+P12	Nema ali ndi ulusi. @Nema ali osangalala.@Iye amaliza kusoka ndiloko ndi ulusi.
+
+images:
+
+illustrations/pages/27365.png
+illustrations/pages/27351.png
+illustrations/pages/27352.png
+illustrations/pages/27354.png
+illustrations/pages/27343.png
+illustrations/pages/27356.png
+illustrations/pages/27357.png
+illustrations/pages/27360.png
+illustrations/pages/27361.png
+illustrations/pages/27363.png
+illustrations/pages/27364.png
+illustrations/pages/27365.png
+illustrations/pages/27366.png
+
+translations:
+
+Cinyungwe (Translation)	Nema Wagula Usalu	id=31642
+Ciyawo (Translation)	A-Nema akusuma wusi	id=31646
+Elomwe (Translation)	Nema Oothuma Osola	id=31644
+Emakhuwa (Translation)	Neema Onthuma Nliinya	id=31645
+English (Original)	Nema Buys Thread	id=31612
+Portuguese (Translation)	A Nema Compra a Linha	id=31641

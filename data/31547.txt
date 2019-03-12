@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=31547&d=0&a=1
+id:	31547
+title:	Rafiki ya Atieno
+author:	Ursula  Nafula
+artist:	Idowu Abayomi Oluwasegun
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31547.png
+desc:	Msichana mmoja ampata rafiki wa ajabu na anafurahia maisha kwa njia ya kipekee.
+
+page_text:
+
+P1	Kuliishi msichana mdogo katika kijiji kimoja karibu na ziwa.@@Aliitwa Atieno.
+P2	Babake Atieno alikuwa mvuvi mashuhuri. Alikuwa na mtumbwi wake wa kuvua samaki.@@Atieno alifurahi kwenda kuvua samaki na babake.
+P3	Atieno aliwatazama wavulana wakicheza mpira wa miguu.@@"Hebu nicheze nanyi," aliwashihi siku moja.@@Wavulana wale walimcheka, "Nenda ukacheze kidalipo na wasichana wenzako."
+P4	Wasichana nao walimwambia Atieno, "Miguu yako ni mirefu mno." Atieno alihuzunika.@@Atieno alianza kulichezea jua kila asubuhi.@@Jua likawa rafiki yake.
+P5	Siku moja, jua halikuchomoza. Jogoo hawakuwika, ndege hawakuimba na watoto hawakwenda shuleni. Hata babake hakwenda kuvua samaki.@@Atieno alihuzunika. "Wapi rafiki yangu jua? Kwa nini leo kuna giza?"
+P6	Atieno alienda kuwaambia watoto wengine namna alivyohuzunika. Lakini, walimcheka, "Labda jua limefariki. Au pengine limekutoroka."@@Atieno aliwajibu, "Jua ni rafiki yangu. Haliwezi kufa."
+P7	Atieno alihuzunika sana hata akakimbia kwenda nyumbani. Aliugonga mpira wa kakake kwa makosa nao ulikigonga kibuyu cha mafuta.
+P8	Atieno aliwaza, "Nitaucheza mpira huu hadi rafiki yangu jua litakaporudi."@@Aliuchukua mpira na kukimbia nao nje.
+P9	Atieno alipofika nje, aliuweka mpira chini akawaza, "Ninaweza kucheza kama wao wanavyocheza."@@Aliugonga mpira kwa nguvu ukaruka juu angani.
+P10	Kila mmoja akitazama juu, mpira ulitokomea kwenye mawingu mazito.@@Kulikuwa na kimya kikubwa.
+P11	Ghafla, mawingu yaliyokuwa mazito yalipungua na jua likatokezea. Kijiji hicho kikawa hai tena.@@Kila mmoja akajitayarisha kufanya kazi aliyozoea kufanya.
+P12	Atieno hakuweza kuamini kwamba alikuwa amelirejesha jua kijijini. Lakini zaidi ya yote, jua lilikuwa limerudi maishani mwake.@@Aliwaeleza watoto, "Jua ni rafiki yangu na limerudi."
+
+images:
+
+illustrations/pages/26422.png
+illustrations/pages/26422.png
+illustrations/pages/26423.png
+illustrations/pages/26424.png
+illustrations/pages/26425.png
+illustrations/pages/26426.png
+illustrations/pages/26427.png
+illustrations/pages/26428.png
+illustrations/pages/26429.png
+illustrations/pages/26430.png
+illustrations/pages/26431.png
+illustrations/pages/26432.png
+illustrations/pages/26433.png
+
+translations:
+
+English (Translation)	Aku the Sun Maker	id=22552
+English (Adaptation)	Atieno's friend	id=23686
+Ga (Original)	Aku Hulu Feelɔ lɛ	id=22507
+Kinyarwanda (Translation)	Inshuti ya Keza	id=26181
+Kiswahili (Translation)	Aku, rafikiye Jua	id=22560
+Luganda (Translation)	Mukwano gwa Atieno	id=24272
+Lusoga (Translation)	Mukwano gwa Kampi	id=28058

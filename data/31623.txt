@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=31623&d=0&a=1
+id:	31623
+title:	Omukuvi
+author:	Joaquim  Kambindangolo
+artist:	Tamsin  Hinrichsen
+lang:	Olunyaneka
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31623.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 8:5-15@@Sesu wati:@@Omukuvi umwe wakatuka okukakuva.
+P2	Pokukuva, ombuto imwe yatokela kontele yonjila ailyatailwapo novantu, oviila vyopeulu aviilipo.
+P3	Ombuto onkwavo yatokela kombanda yomamanya, eci yamena, aikukuta ceeci pehena ocituto.
+P4	Ombuto onkwavo yatokela momakete, mokwakulila kumwe, omakete aakaumbako kombuto oyo.
+P5	Ombuto onkwavo, yatokela mohi ongwa, aikulu, aiyele ngwe ike ayeta ocita.@@Mokwecipopya oco akalavanja ati: "Ou una omakutwi atehelele!"
+P6	Apulwa novalongwa vae okuti: "Ontengelepopya paci ina?"@@Sesu evekumbulula ati: "Onwe mwaavelwa okunoñgonoka omaelema ouhamba waHuku, mwaina ovakwavo onontengelepopya vala, oco okuti vatala ngwe kavepemono, vatehela ngwe kavakungunyeka."
+P7	"Eci cilekesa ontengelepopya ei oceeci: Ombuto ondaka yaHuku."
+P8	"Yokwatokele kontele yonjila ilekesa vokwiitehela. Pehimbwe lihehehi elyapu liya alivepolo ondaka komitima vyavo, oco vahatavele navayovoke."
+P9	"Ombuto yatokela pomamanya ilekesa ava vatehela ondaka, pokwiiva veitambula nehambu mwaina vetupu omii. Pehimbwe limwe vatavela, eci peya okulolwa metavelo avayapukamo."
+P10	"Ombuto yatokela pokati komakete ovovana vaiva ondaka, mwaina mokweenda kwonontiki, omasukalalo omalumono nomalyalya omwenyo uno; ovinyango vyavo kaviyele, ceeci vyaumbwako."
+P11	"Ombuto ina yokwatokela peheke ewa ilekesa, vana vaiva ondaka nomutima omuwa wavyuluka. Cina vaiva ondaka veikwata nokupamekela, ngwe vaima ovinyango."
+
+images:
+
+illustrations/pages/27344.png
+illustrations/pages/16267.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16270.png
+illustrations/pages/16271.png
+illustrations/pages/16289.png
+illustrations/pages/16286.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16287.png
+illustrations/pages/16285.png
+
+translations:
+
+Cinyungwe (Translation)	Mulimi na Mbeu Yace	id=31625
+Cisena (Translation)	Nyakuwaza Mbeu	id=31624
+Ciyawo (Translation)	Citagu Ca Mundu Jwa Kumisa Mbeju	id=19040
+Elomwe (Translation)	Mulipa Oomisa	id=31622
+English (Original)	The Sower	id=16245
+Ikisimbëtë (Translation)	Ëkërëngyö ikya Imbusiro	id=24797
+Portuguese (Translation)	“a Parábola Do Semeador”	id=19041

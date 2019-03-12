@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31594&d=0&a=1
+id:	31594
+title:	Ngalawa ya Sara
+author:	Manuel Gripa Kandodo
+artist:	Rachel  Greer
+lang:	CiNyanja
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31594.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	Sara ali ndi ngalawa imodzi.@@Ngalawa yake ndi yaikulu.@@Ngalawa ili mphepete mwa ntsinje.
+P2	Azimai ali pantsinje. Mai m'modzi ali ndi beseni, m'beseni muli zipatso. Mai wina watenga mbuzi imodzi. Mai winanso watenga mbuzi ziwili. @@Iwo afunsa Sara: "Tingafike bwanji tsidya ilo?"@@Sara anena: "Lowani m'ngalawa yanga!"
+P3	Potsatila, afika azibambo. Bambo m'modzi watenga nsomba. Wina ali ndi njinga. Winanso watenga kathumba momwe muli ntedza.
+P4	Bambo wina watenga timathumba tiwili momwe muli ntedza. @@Iwo afunsa Sara: "Tingafike bwanji tsidya ilo?"@@Sara anena: "Lowani m'ngalawa yanga!"
+P5	Nyama zina, zifika ku ntsinje. @@Izo zifunsa Sara: "Tingafike bwanji tsidya ilo?"@@Sara anena: "Lowani m'ngalawa yanga!"
+P6	Nyama zilowa m'ngalawa. @Galu alowa m'ngalawa. @Paka alowa m'ngalawa. @Nyani alowa m'ngalawa. @Kalulu alowa m'ngalawa.@Kamba alowa m'ngalawa. @Gwape alowa m'ngalawa.
+P7	Njobvu ifika pantsinje. Iyo ifunsa: "Ndingacite bwanji kuti ndifike tsidya ilo?" @@Sara anena: "Lowani m'ngalawa yanga!" @@Njobvu ilowa m'ngalawa. Madzi adzadza m'ngalawa.
+P8	Ngalawa ndiyaing'ono kwambili. Malo ndiocepa.
+P9	Sara anena: "Iiiiiii! Yembekezani m'nthawi pang'ono. Coyamba ndidzanyamula azimai."
+P10	"Kaciwili, ndidzatenga azibambo."
+P11	"Pomaliza ndidzatenga nyama."
+P12	Njobvu inena: "Iiiiiii! Ine ndioloka pansi!"
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

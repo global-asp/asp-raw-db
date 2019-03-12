@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=31988&d=0&a=1
+id:	31988
+title:	Where is Lulu?
+author:	Mohale  Mashigo
+artist:	Clyde  Beech and Nkosingiphile  Mazibuko
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31988.png
+desc:	Lulus mom is looking for her everywhere! Can you find Lulu? (This storybook was created at a Book Dash event in Cape Town in April 2018.).
+
+page_text:
+
+P1	"Oh, no!"
+P2	"Lulu, it is time to go," calls Ma.
+P3	Where is Lulu?@@Is she under the sofa?
+P4	Is she behind the curtain?
+P5	Where is Lulu?@@Is she next to the stove?
+P6	Is she in the cupboard?
+P7	"Lulu, it is time to go! Where are you?" calls Ma.
+P8	"There you are!" says Ma.@@"I do not want to gooo!"
+P9	"We have to go," says Ma.@@"But I really like this one!"
+P10	"I really like this one!"
+P11	"And this one!"
+P12	"And this one!"@@"And that one!"
+P13	"See, you return books and borrow more," says Ma.@@"YAY!"
+P14	Where is Lulu now?
+
+images:
+
+illustrations/pages/27795.png
+illustrations/pages/27796.png
+illustrations/pages/27797.png
+illustrations/pages/27798.png
+illustrations/pages/27799.png
+illustrations/pages/27800.png
+illustrations/pages/27801.png
+illustrations/pages/27802.png
+illustrations/pages/27803.png
+illustrations/pages/27804.png
+illustrations/pages/27805.png
+illustrations/pages/27806.png
+illustrations/pages/27807.png
+illustrations/pages/27808.png
+illustrations/pages/27809.png
+illustrations/pages/27810.png
+illustrations/pages/27811.png
+
+translations:
+
+English (Adaptation)	What Lulu wanted	id=32041
+Kiswahili (Translation)	Lulu yuko wapi?	id=31998

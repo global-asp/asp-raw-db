@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=31764&d=0&a=1
+id:	31764
+title:	/Gui//nâ Gomas xa
+author:	Mattheus  Goraseb
+artist:	Marion Drew
+lang:	Khoekhoegowab
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31764.png
+desc:	/Gui//nâ tsî garuǂare goma-e ǀnaits ge mû hâ i?
+
+page_text:
+
+P1	Hahaa! Ama îxa goma-i ge ǁgâus ai hâ.
+P2	|Guiǁnâb ǀguib â-i tsî !garuǂare.
+P3	Kai hâ, ǁkhom karab ǀkha.
+P4	ǀGai hâ goma-i ge.
+P5	!Ûi-aob ge nē gomasa, ǂoaǂamsase ge ǀnam i.
+P6	Nau goman kara !û, o ra ǀguri !ûma.
+P7	!Khamaos ge, naun xa ra !aohe.
+P8	Nēti ī goma-ets ga mû, o tare-ets nî dī?
+
+images:
+
+illustrations/pages/9612.png
+illustrations/pages/9613.png
+illustrations/pages/9614.png
+illustrations/pages/9615.png
+illustrations/pages/9616.png
+illustrations/pages/9617.png
+illustrations/pages/9618.png
+illustrations/pages/9619.png
+illustrations/pages/9620.png
+
+translations:
+
+Afaan Oromo (Translation)	Sa'a Gaafa Tokko Qabdu	id=12959
+Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
+English (Translation)	Cow with one horn	id=9622
+Hausa (Nigeria) (Translation)	Saniya mai ƙaho Ɗaya	id=20865
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
+isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
+Kinyarwanda (Translation)	Inka y'ihembe rimwe	id=21049
+Kiswahili (Translation)	Ng'ombe aliye na pembe moja	id=15712
+Lámnsoʼ (Translation)	Nàʼ wo wù kér loŋ e mòʼón	id=15065
+Luganda (Translation)	Ente eyina ejjembe elimu	id=23312
+Lunyole (Translation)	Eŋombe Ey'olwiga Lulala	id=11906
+Lusoga (Translation)	Ente eya eiyiga eirala	id=24980
+Lusoga (Translation)	Ente  eyeiyiga  eirala	id=30564
+Moro (Translation)	Dia rerto đel đonto	id=32106
+Moro (Translation)	Dia Rerṯo Đǝl nenda Đonto	id=32249
+Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
+Oshikwanyama (Translation)	Ongobe yoluvinga limwe	id=31569
+Oshindonga (Translation)	Ongombe yolwinga lumwe	id=31505
+Otjiherero (Translation)	Ongombe jonja imwe	id=31514
+Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
+Rukwangali (Translation)	Ngombe zoRuvinga Rumwe	id=31486
+Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
+Sesotho (Lesotho) (Original)	Khomo E Bokopa	id=9621
+Siswati (Translation)	Inkhomo leneluphondvo lunye	id=13076

@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=31644&d=0&a=1
+id:	31644
+title:	Nema Oothuma Osola
+author:	Little Zebra Books
+artist:	Mirjam  Gyger
+lang:	Elomwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31644.png
+desc:	Follow Nema through the market as she tries to buy some thread.
+
+page_text:
+
+P1	Ola ti Nema.@Nema onamusona.@Nema onasona esaaya.
+P2	Nema onasona ni osalo.@Osalo woomala.@Nema onachuna othuma osalo.@Onachuna ikhorowa wi athume ichu.@Ikhorowa sene onaya ophwanya woowi?
+P3	Nema onoona mwiri.@Mwiri ori vakhiviru.@Mwiri wookhalano sawiima.@Sawiima sene mapapaya.@Mpapaya osiva.
+P4	Nema ookhalano ekopo.@Nema onnathomola ni ococa mapapaya.
+P5	Nema oophiya omusika.@Yoowo oophiya omusika akunshe mapapaya.@Yoowo onachuna otumiha mapapaya.
+P6	Oomoona muchu mmoha.@Muchu oothuma mpapaya.@Yoowo oomunnya ikhorowa Nema.@Nema onnatumiha mapapaya mancipale.@Nema onaya othuma osalo ni ikhorowa.
+P7	Omusika weiwo ahoona enka.@Yoowo haathumme enka.
+P8	Omusika weiwo ohoona tho isuwaari.@Yoowo haathumme isuwaari.
+P9	Omusika weiwo ahoona ethokwa.@Yoowo haathumme ethokwa.
+P10	Omusika weiwo aahoona iphaawu.@Yoowo haathumme iphaawu.
+P11	Nema aamoona muchu mmoha.@Muchu aatumiha osalo.@Nema aathuma osalo.
+P12	Nema ookhalano osalo.@Nema oohakalala.@Yoowo onamaliha osona esaaya ni osalo.
+
+images:
+
+illustrations/pages/27365.png
+illustrations/pages/27351.png
+illustrations/pages/27352.png
+illustrations/pages/27354.png
+illustrations/pages/27343.png
+illustrations/pages/27356.png
+illustrations/pages/27357.png
+illustrations/pages/27360.png
+illustrations/pages/27361.png
+illustrations/pages/27363.png
+illustrations/pages/27364.png
+illustrations/pages/27365.png
+illustrations/pages/27366.png
+
+translations:
+
+CiNyanja (Translation)	Nema Agula Ulusi	id=31643
+Cinyungwe (Translation)	Nema Wagula Usalu	id=31642
+Ciyawo (Translation)	A-Nema akusuma wusi	id=31646
+Emakhuwa (Translation)	Neema Onthuma Nliinya	id=31645
+English (Original)	Nema Buys Thread	id=31612
+Portuguese (Translation)	A Nema Compra a Linha	id=31641

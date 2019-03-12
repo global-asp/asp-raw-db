@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32206&d=0&a=1
+id:	32206
+title:	O lugar da minha felicidade
+author:	Rafael Ernesto Samuel
+artist:	Summayya  Muamba
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32206.png
+desc:	Esta estória partilha as valiosas idéias de uma menina sobre como jovens e idosos podem trazer felicidades uns aos outros. (Ela foi criada num programa de férias administrado pelos serviços psicológicos da comunidade de Sophiatown em Joanesburgo
+
+page_text:
+
+P1	Esta estória fala de mim e  de uma casa muito antiga.
+P2	É uma grande infra-estrutura em Bertrams, Joanesburgo.@@As paredes são coloridas, e a casa é limpa e silenciosa por dentro. Vivem nela pessoas idosas.@@Um dia, a minha mãe levou-nos para lá.
+P3	Esta antiga casa é o meu lugar de felicidade!@@Quando vejo os idosos, eu sinto-me feliz e aposto em ajudá-los.
+P4	Um dia, fui lavar os seus cabelos.
+P5	Também os servi comida.@@Alguns idosos assustavam-me, mesmo assim sentia-me feliz estando com eles.
+P6	Estava lá uma idosa que sempre andava triste. Ela não precisava de apoio de ninguém. De repente, ela podia ralhar.
+P7	Estava lá uma outra idosa, que ao assegurar a sua mão, ela não queria que a deixasse. As suas mãos eram macias e carinhosas.@@Ela chamava-se Aisha, nome da minha irmã.
+P8	Os idosos deixam me feliz. Eles têm estórias antigas que nunca as conhecerei.
+
+images:
+
+illustrations/pages/27702.png
+illustrations/pages/27701.png
+illustrations/pages/27702.png
+illustrations/pages/27703.png
+illustrations/pages/27704.png
+illustrations/pages/27705.png
+illustrations/pages/27706.png
+illustrations/pages/27700.png
+illustrations/pages/27707.png
+
+translations:
+
+English (Original)	My happy place	id=31939
+isiZulu (Translation)	Indawo enginikeza intokozo	id=32236
+Kiswahili (Translation)	Fashi ya furah	id=32199
+Kiswahili (Translation)	Pahali pangu pa furaha	id=32202
+Lingala (Translation)	Esika ya esengo	id=32188

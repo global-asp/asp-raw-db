@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32066&d=0&a=1
+id:	32066
+title:	Diaparo tša ka tša sekolo
+author:	Dikeledi Queen Shai and Thelma Tshesane
+artist:	Mlungisi Dlamini
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32066.png
+desc:	Kanegelong ye
+
+page_text:
+
+P1	Roko ya sesi wa ka ke ye kgolo go nna!
+P2	Jesi ya buti wa ka le yona ke ye kgolo kudu go nna!
+P3	Mokotla wa ka ke wo mogolo.@@Efela ga se wo mogolo kudu.
+P4	Lepanta le la kgale ke le lennyane kudu go nna.
+P5	Wo ke mongatse wa mpopi wa ka.
+P6	Dikausu tša ka di a ntekana.@@Efela ga ke rate mmala wa tšona.
+P7	Tše ke dieta tša ka tše diswa.
+P8	Di ntekana gabotse.
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+Ekegusii (Translation)	Chianga chiane chiesukuru	id=31837
+English (Original)	My school clothes	id=31708
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Kikamba (Translation)	Ngũa syakwa sya sukulu	id=32168
+Lingala (Translation)	Bilamba na ngai ya kelasi	id=31795
+Lubukusu (Translation)	Chiingubo chaange cheesisomelo	id=31746
+Oluwanga (Translation)	Etsingubo tsianje etsiamumasomero	id=31729
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827
+Tshivenḓa (Translation)	Zwiambaro zwanga zwa tshikolo	id=32026

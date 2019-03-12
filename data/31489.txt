@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=31489&d=0&a=1
+id:	31489
+title:	Zama Ependa!
+author:	Djaupyu  Siteketa
+artist:	Vusi Malindi
+lang:	Rukwangali
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31489.png
+desc:	Esanseko eli kuna kutanta asi nampili to rongo vanona
+
+page_text:
+
+P1	Mumbyoge gona gomumati kuna hulilire kurara.@@Ame kulihova kupinduka, morwa ame ependa!
+P2	Ame nyame ani zoto kezuva.
+P3	"Ove ntunguru zange," ana kuuyunga Ma.
+P4	Ame kulikuhwa nkenye ezuva, kapi ani pumbwa ekwafo.
+P5	Kapi na kara noudigu womema gomatenda, ndi mfewa zosinauguru ezi atu kuhwisa yikoverero.
+P6	Ma ta diworokesange asi, "Wa ha divara mazego goge."@@Ame kumu limburura asi, "Narumwesi, ntudi kapisi nyame!"
+P7	Konyima zelikuho, ame kulikunda noMama noNanegona.@@Nokuva harera ezuva lyewa.
+P8	Makura tani dwara nyamwange.@@"Amen a kuru nye ngesi, Ma," yimo ana va tantere.
+P9	Ame kuvhura kupata nombandi nokumanga nonkaku dange.
+P10	Na yi diva nawanawa asi mumbyange gomumati ga diva nombudi nadinye do sure.
+P11	Monkondwarongero ame nkenye kurugana papa na hulira.
+P12	Ame kurugana yininke nayinye nkenye ezuva.@@Nye sininke na hara unene, sokudana nokudanauka!
+
+images:
+
+illustrations/pages/7514.png
+illustrations/pages/7513.png
+illustrations/pages/7514.png
+illustrations/pages/7517.png
+illustrations/pages/7507.png
+illustrations/pages/7515.png
+illustrations/pages/7518.png
+illustrations/pages/7516.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+illustrations/pages/7509.png
+
+translations:
+
+Arabic (Translation)	زاما المميز!	id=21847
+English (Adaptation)	Zama is great!	id=9984
+Khoekhoegowab (Translation)	Zamab ge a kai	id=24656
+Kiswahili (Translation)	Dama ni mashuhuri!	id=22086
+Lusoga (Translation)	Juma wa Maani!	id=25917
+Lusoga (Translation)	Mbwali mubitirivu	id=25945
+Oshikwanyama (Translation)	Zama omunandjungu	id=24129
+Oshindonga (Translation)	Zama omwa nawa	id=23885
+Otjiherero (Translation)	Zama omusemba	id=24171

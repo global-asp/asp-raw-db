@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=31885&d=0&a=1
+id:	31885
+title:	Xamwali Anabwera na Masiku
+author:	Programa  Prodelise
+artist:	Magriet Brink and Leo Daly
+lang:	Cisena
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31885.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 11:1-10@@Ntsiku inango, Yezu akhaphembera pa mbuto ibodzi. Pidamala iye, nyakupfundza wace m'bodzi ampanga kuti: "Mbuya, tipfundzisenimbo kuphembera, ninga pidacita Juwau Bhatixta apfundzisa anyakupfundza ace."
+P2	Na tenepo, Yezu aapanga tenepa: "Mungafuna kuphembera, phemberani tenepa:@@Baba: Dzina yanu mbikhale na mbiri. Umambo wanu mbudze kuna ife. Tipaseni cakudya cathu ntsiku na ntsiku. Tilekerereni madawi athu, ninga ifembo@tisalekerera onsene ale anatidawisira. Lekani kutisiya mbatigwa n'kudawa."
+P3	Pakumala, Yezu aapanga kuti: @@Lang'anani, ngakhala m'bodzi wanu ayenda ku nyumba kwa xamwali wace pa chiti-chiti ya masiku, mbam'phemba kuti:
+P4	"Xamwali! Ndibwerekembo mikate mitatu, thangwi ndafikirwa na xamwali wanga m'bodzi, apo ine nkhabe cinthu ca kumpasa."
+P5	Mphapo ndiye tani xamwali wace mbantawira n'kati mwa nyumba mbalonga kuti: "Leka kundinyangula! Nsuwo wamala kufungwa pontho ine na ananga tiri kugona. Na tenepo, nkhabe kwanisa kuti ine ndilamuke, toera ndikupase cinthu!"
+P6	Ine ndisakupangani kuti, munthu uyu angakhonda kulamuka toera kumpasa nkate thangwi ndi xamwali wace, mbwenye na thangwi ya kun'nyangula kunacita xamwali wace, anati alamuke mbampasa pyonsene pinafuna iye.
+P7	Na thangwi ya ipyo, ndisakupangani kuti: Phembani, munapaswa; sakani, munapigumana; pontho gogodzani, munafungulirwa.
+P8	Thangwi onsene anaphemba, anapaswa; anasaka, anapigumana; pontho ule anagogodza nsuwo, anafungulirwa.
+
+images:
+
+illustrations/pages/27427.png
+illustrations/pages/27457.png
+illustrations/pages/27428.png
+illustrations/pages/26580.png
+illustrations/pages/26579.png
+illustrations/pages/26581.png
+illustrations/pages/26582.png
+illustrations/pages/27429.png
+illustrations/pages/15753.png
+illustrations/pages/27430.png
+
+translations:
+
+English (Original)	Friend at Night	id=31689
+Portuguese (Translation)	O Amigo Que Vem à Noite	id=31884

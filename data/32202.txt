@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32202&d=0&a=1
+id:	32202
+title:	Pahali pangu pa furaha
+author:	African Storybook
+artist:	Summayya  Muamba
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32202.png
+desc:	Hadithi inasimulia ambavyo msichana mmoja anavyoonyesha namna vijana kwa wazee wanavyoweza kusaidiana kuleta furaha maishani mwao. (Iliandikwa wakati wa likizo kwenye mradi unaosimamiwa na Jamii ya Sophiatown jijini Johanesburg
+
+page_text:
+
+P1	Hadithi hii inanihusu mimi na Makao ya Watu Wazee.
+P2	Makao hayo ni jumba kubwa lililoko mtaani Bertrams, Johannesburg.@@Nyuta zake ni za rangi rangi. Ni jumba safi lakini ndani kuna kimya. Watu wanaoishi humo ni wakongwe mno.@@Siku moja mamangu alitutembeza huko.
+P3	Makao haya ya Watu Wazee ni pahali pangu pa furaha!@@Ninafurahi niwaonapo watu wazee na kuweza kuwasaidia.
+P4	Siku moja nilitembelea pahali hapo na kuziosha nywele za baadhi ya wale wazee.
+P5	Pia, niliwaandalia chakula.@@Baadhi ya wazee wale waliogofya, hata hivyo, nilifurahia kuwa pale.
+P6	Kulikuwa na bi kizee mmoja ambaye hakutaka kusaidiwa na yeyote. @@Alianza kupiga mayowe.
+P7	Vilevile, kulikuwa na bi kizee mwingine aliyenikatalia nilipomshika. Mikono yake ilikuwa laini na joto.@@Aliitwa Aisha, kama dadangu.
+P8	Watu wazee hunifurahisha. @@Wana hadithi za kale ambazo sitawahi kujua.
+
+images:
+
+illustrations/pages/27702.png
+illustrations/pages/27701.png
+illustrations/pages/27702.png
+illustrations/pages/27703.png
+illustrations/pages/27704.png
+illustrations/pages/27705.png
+illustrations/pages/27706.png
+illustrations/pages/27700.png
+illustrations/pages/27707.png
+
+translations:
+
+English (Original)	My happy place	id=31939
+isiZulu (Translation)	Indawo enginikeza intokozo	id=32236
+Kiswahili (Translation)	Fashi ya furah	id=32199
+Lingala (Translation)	Esika ya esengo	id=32188
+Portuguese (Translation)	O lugar da minha felicidade	id=32206

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=31699&d=0&a=1
+id:	31699
+title:	Nkazi Wakuferwa na Mamuna  na Nyakutonga Mise
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	Cisena
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31699.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 18:1-8@@Yezu alonga nsanje ubodzi toera kuapfundzisa kuti asafunika aphembere ntsiku zonsene, mbakhonda kuneta. Iye alonga tenepa: @@Ku nzinda ubodzi akhalipo nyakutonga miseru m'bodzi, akakhonda kugopa Mulungu pontho mbakhonda kulemedza munthu.
+P2	Mu nzinda ubodzi-bodzi akhalipombo nkazi m'bodzi wakuferwa na mamuna wace, akhansaka ntsiku zonsene, mbakham'phemba tenepa: "Ndiphedzenimbo kunditongera nseru wanga na ule anandizonda."
+P3	Iye akhala n'dzidzi ukulu ene mbakakhonda kum'phedza.
+P4	Mbwenye ntsiku ibodzi iye alonga ekha ene kuti: "Ndimo mwene, ine nkhabe gopa Mulungu pontho nkhabe kulemedza munthu. Mbwenye ndinati ndim'phedze nkazi uyu kuntongera nseru wace, thangwi iye nkhabe puma na kundinyangula. Pontho, ine ndingakhonda kum'phedza, iye nkhabe kudza kandisiya mu ntendere."
+P5	Na tenepo, Mbuya alonga tenepa: "Bveserani pidalonga nyakutonga miseru wa kuipa. Mulungu nkhabe kutonga mwakulumgama mbumba yace inaphemba kuphebza masiku na masikati? Kodi Iye anadembuka na kuaphedza?"
+P6	"Ine ndisakupangani kuti Iye anati atonge mbumba yace mwakulungama pontho na mwansanga. Kodi Mwana wa munthu angabwerera, anati agumane cikhulupiro pa dziko ino?"
+
+images:
+
+illustrations/pages/27415.png
+illustrations/pages/27417.png
+illustrations/pages/27418.png
+illustrations/pages/27419.png
+illustrations/pages/27415.png
+illustrations/pages/27420.png
+illustrations/pages/27421.png
+illustrations/pages/27422.png
+
+translations:
+
+Cinyungwe (Translation)	Mtongi na Mantsiwa	id=31698
+Elomwe (Translation)	Naamukhwele ni Mulipa Oothoriha	id=31696
+English (Original)	The Persistent Widow	id=31660
+Olunyaneka (Translation)	Omuhepe Nomukoyesi  Wompela	id=31700
+Portuguese (Translation)	A Viúva e o Juiz	id=31695

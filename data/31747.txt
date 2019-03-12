@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=31747&d=0&a=1
+id:	31747
+title:	Chiipuusi cha Selemeng
+author:	Raphael Wanyonyi
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Lubukusu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31747.png
+desc:	Selemeng alinende chiipuusi chiingali. Chiipuusi chiinga nicho Selemeng alinenacho?
+
+page_text:
+
+P1	Selemeng aasiima chiipuusi. Chiipuusi chiingali chili aango wewe.
+P2	Selemeng alinende eepuusi eendala eemali. Eepuusi iino elichaanga chiinyama chiingali.
+P3	Selemeng alinende eepuusi eendala eenefu. Eepuusi iino elichaanga buli siindu.
+P4	Eepuusi yekhaataru, yaatima yanina khuumusaala.
+P5	Selemeng aanina khuumusaala. Kaanda khuumusaala nende eepuusi yekhaataru. Maayi wa Selemeng akhoyela khuubayeta khuukhwikha khuumusaala.
+P6	Selemeng alinende chiipuusi chiibili chiingara. Chiikoneelesia khuumumu eenyanga eemuufu.
+P7	Selemeng alinende chiipuusi chitaru chekukwiinyaoo. Chiaamba chiimbeba aasilo mujikooni.
+P8	Selemeng alinende eembwa endala. Bakilanga baali Lirafi. Lirafi saalikho nebaasaale taawe. Alii wee siisa.
+P9	Chiipuusi cha Selemeng seechasiimakhoo Lirafi taawe. Chiimutimania khukhwaama muunju. Lirafi elukhila ataayi.
+P10	Selemeng anyoola Lirafi naamukalusya eengo. Chiipusi sechilii nende buusangafu taawe. Sechenya khuubona Lirafi luundi taawe.
+P11	Selemeng alinende chiipuusi chiinga? Alinende chiipuusi munaane.
+P12	Selemeng alinende chiimbwa chiinga? Alinende eembwa eendala. Lirafi aliwaae nono?
+P13	Ewewe olinende chiipuusi chiinga eengo? Olinende chiimbwa chiinga eengo?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+isiZulu (Translation)	Amakati kaZamo	id=31799
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lusoga (Translation)	Epusi dha kelementi	id=27609
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

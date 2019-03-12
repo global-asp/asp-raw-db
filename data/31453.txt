@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=31453&d=0&a=1
+id:	31453
+title:	Mwiili
+author:	Little Zebra Books
+artist:	Sue  Beattie
+lang:	Elomwe
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31453.png
+desc:	Learn the parts of the body with the help of some whimsically illustrated friends.
+
+page_text:
+
+P1	Manaani
+P2	Meco
+P3	Makutha
+P4	Eyuunu
+P5	Erukulu
+P6	Echirima
+P7	Matata
+P8	Miyoono
+P9	Ikookhwino
+P10	Muru
+
+images:
+
+illustrations/pages/26739.png
+illustrations/pages/26749.png
+illustrations/pages/26744.png
+illustrations/pages/26741.png
+illustrations/pages/26747.png
+illustrations/pages/26740.png
+illustrations/pages/26748.png
+illustrations/pages/26742.png
+illustrations/pages/26745.png
+illustrations/pages/26746.png
+illustrations/pages/26743.png
+
+translations:
+
+CiNyanja (Translation)	Thupi	id=31438
+Cinyungwe (Translation)	Thupi	id=31440
+Cisena (Translation)	Manungo	id=31442
+Echuwabo (Translation)	Maningo	id=31451
+Emakhuwa (Translation)	Erutthu	id=31455
+English (Original)	Body	id=22996
+French (Translation)	Le corps	id=32198
+Ikisimbëtë (Translation)	Ömöbhërë	id=31354
+Kiswahili (Translation)	Sehemu za mwili	id=24770
+Kiswahili (Translation)	Mwili	id=31282
+Lusoga (Translation)	Omubiri	id=26061
+Olunyaneka (Translation)	Olutu	id=31457
+Portuguese (Translation)	Corpo	id=31436

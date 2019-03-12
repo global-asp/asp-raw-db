@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=32164&d=0&a=1
+id:	32164
+title:	Mbaka sya Selemeng'e
+author:	Anna Kula
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Kikamba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32164.png
+desc:	Selemenge ena mbaka mbingĩ. Selemenge ena mbaka syana ata?
+
+page_text:
+
+P1	Selemeng'e nĩwendete mbaka. Nyũmba kwake kwĩ mbaka mbingĩ.
+P2	Selemeng'e ena mbaka ĩmwe nziũ. Mbaka ĩĩ nĩĩsaa nyama mbingĩ.
+P3	Selemeng'e ena mbaka ĩmwe nou. Mbaka ĩĩ ĩĩsaa kĩla kĩndũ.
+P4	Mbaka yakatatũ nĩsembea kũlĩsa mũtĩ. Mbaka ĩĩ nĩ kwamĩaa mũtĩnĩ.
+P5	Selemeng'e nũlĩsaa mũtĩnĩ. Nũkwamaa vamwe na mbaka namba itatũ. Inyaa Selemeng'e nonginya amatetheesye kũtheea kuma mũtini ũsu.
+P6	Selemeng'e e mbaka ilĩ ndulu. Sikomaa nza siyota sua mũthenya mũima
+P7	Selemeng'e e mbaka itatũ nthangaau. Nikwataa mbĩa ikonĩ ũtukũ.
+P8	Selemeng'e e ngitĩ ĩmwe. Syĩtwa yayo nĩ Lilavi. Lilavi nde anyanyae. Ethĩawa amakĩte.
+P9	Mbaka sya Selemeng'e syĩyendete Lilavi. Nimũkũaa  nyũmba. Lilavi nũsembaa akai.
+P10	Selemeng'e amanthaa Lilavi na ayĩ mũete mũsyĩ. Mbaka siyĩwaa mũyo. Ityendaa kwona Lilavi ĩngĩ.
+P11	Selemeng'e e mbaka syĩana ata?  E mbaka nyanya.
+P12	Selemeng'e e ngitĩ syĩana ata? E ngitĩ ĩmwe. Lilavi eva yu?
+P13	Wĩna mbaka syĩana mũsyĩ? Wĩna ngitĩ syĩana mũsyĩ?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+isiZulu (Translation)	Amakati kaZamo	id=31799
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Epusi dha kelementi	id=27609
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

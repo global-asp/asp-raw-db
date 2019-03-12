@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=31552&d=0&a=1
+id:	31552
+title:	Mbusi, mbwa ni ng'ombe
+author:	Assane  Tuaibo
+artist:	Marleen Visser
+lang:	Ciyawo
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31552.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	Mbusi, mbwa ni ng'ombe wadiji wuganja.@@Disiku dine, vapite kukwendajenda m'motoka.
+P2	Pavayice kumbesi wulendo, vakwendesya motoka vavendaga kudipa mbiya. @@Ng'ombe jadipile wupande wawo wa mbiya.
+P3	Mbwa jadipile n'nope ntande jakwete mbiya syangacenga.
+P4	Vakwendesya motoka pavajaga kupeleka cenje kwa mbwa, mbusi jatyosile wakuwutuka digongo nganajidipa.
+P5	Vakwendesya motoka vadiji vasakadice. Vele vatyosile anankwendesya motoka ni nganabucisya cenje a-Nambwa.
+P6	Ni digongo kutandila kwa wewula wusiku wula mpaka lelo, mbwa pakujiwona motoka ni kuwutucila kuja kudingula m'motoka mula yikave kwasimana vakwendesya vanganivaapa cenje vala.
+P7	Mbusi jikutilaga pakupikana kutongola kwa motoka. Vele akwete woga wa kwatava ntande jidi nganajidipa mbiya sya motoka.
+P8	Ng'ombe jangajisepuk motoka jinankwika. Ng'ombe jikombokanya munsewo mwakudisiwucisya ntande jadipile wupande wawo.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu ndi Ng'ombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

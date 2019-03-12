@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32168&d=0&a=1
+id:	32168
+title:	Ngũa syakwa sya sukulu
+author:	Anna Kula
+artist:	Mlungisi Dlamini
+lang:	Kikamba
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32168.png
+desc:	Ĩĩ nĩ ngewa ya kana kakwela ngũa nene mũno kwa ko
+
+page_text:
+
+P1	Ĩlinda ya mwĩtuia nĩ ĩnene mũno kwakwa.
+P2	Tishati ya mwanaia nĩ nene mũno kwakwa.
+P3	Mũvuko wakwa nĩ mũnene.@@Ĩndĩ ti mũnene mũno!
+P4	Mũsivi ũũ mũkũũ nĩ mũnini mũno kwakwa.
+P5	Ĩĩ nĩ ngovia ya ndoli yakwa.
+P6	Sokisi syakwa niimbanĩe.@@Ĩndĩ nĩ sya langi ĩtaĩle!
+P7	Ii nĩ syatũ syakwa nzeũ.
+P8	Niimbanĩe nesa.
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+Ekegusii (Translation)	Chianga chiane chiesukuru	id=31837
+English (Original)	My school clothes	id=31708
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Lingala (Translation)	Bilamba na ngai ya kelasi	id=31795
+Lubukusu (Translation)	Chiingubo chaange cheesisomelo	id=31746
+Oluwanga (Translation)	Etsingubo tsianje etsiamumasomero	id=31729
+Sepedi (Translation)	Diaparo tša ka tša sekolo	id=32066
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827
+Tshivenḓa (Translation)	Zwiambaro zwanga zwa tshikolo	id=32026

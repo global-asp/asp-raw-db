@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31605&d=0&a=1
+id:	31605
+title:	Ekalawa ya Saara
+author:	Little Zebra Books
+artist:	Rachel  Greer
+lang:	Emakhuwa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31605.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	Saaraookhalana ekalawa yuulupale.@@Eyo eri okhopela wa muro.
+P2	Athiyana akina yaahirwa omuro. Muthiyana mmosa aakunxe ekamela yaari mihokorokho. Mukina aamukunxe mulyakhu. Mukina aakunxe epuri. Mukina-tho aakunxe ipuri piili. Awo yaahimukoha Saara wiira: "Hiyo nilapuwele sayi ekhopela ekina ya muro?"@@Saara aahiwaakhula wiira: "Mukele mukalawani mwaka!"
+P3	Vahipinse, yaahirwa alopwana. Mmosa aakunxe ihopa, mukina aari ni paaxikoro, mukina aamukunxe nakhuwo musaakhoni.
+P4	Mukina aamukunxe nakhuwo isaakho piili. Awo yaahimukoha Saara wiira: "Hiyo nilapuwele sayi ekhopela ekina ya muro?" @@Saara aahiwaakhula wiira: "Mukele mukalawani mwaka!"
+P5	Axinama akina yaahirwa omuro weiwo. Axinam'awo yaahimukoha Saara wiira: "Hiyo nilapuwele sayi ekhopela ekina ya muro?"@@Saara aahiwaakhula wiira: "Mukele mukalawani mwaka!"
+P6	Axinama yaakenle mukalawani taala: mwalapwa, kwaatu, khole, namarokolo, khapa ni naahe.
+P7	Vano, etthepo yaahirwa omuro weiwo. Eyo yaahikoha wiira: "Miyo kilapuwele sayi ekhopela ekina ya muro?"@@Saara aahaakhula wiira: "Mukele mukalawani mwaka!"@@Etthepo yaahikelamo mukalawani, nto mukalawani mwaahisareyamo maasi.
+P8	Ekalawa yooyeva, khokhanlemo opuro.
+P9	Saara aahihimya wiira: "Mukilipelele vakhaani! Kimpacerya waakuxa athiyana ala."
+P10	"Vahoolo waya, kirweeke kaakuxeke alopwana."
+P11	Saara aahihimya-tho wiira: "Ekwaha yokiserya kinrwa okuxa inama."
+P12	Nto etthepo yaahiira: "Eeyii, miyo kinrowa mweentto."
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

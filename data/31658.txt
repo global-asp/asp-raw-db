@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31658&d=0&a=1
+id:	31658
+title:	Omona Ompese
+author:	Joaquim  Kambindangolo
+artist:	Magriet Brink and Leo Daly
+lang:	Olunyaneka
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31658.png
+desc:	A story about a rebellious son
+
+page_text:
+
+P1	Luka 15:11-32@@Kwakalele omulume umwe anko una ovana vevali.
+P2	Ngwe omututu waco apopila he yavo ati: "Tate, mpe pehepano ocintimbu cepingo lyange."@@Nanyo he pahe, atepulila ouhona wae ovana vae vevali.
+P3	Konyima yaco ngwe apahapiti onontiki ononyingi, omona omututu waco aongiya ovipuka aviho anko enavyo, aende kocilongo cokokule.
+P4	Ngwe oko ngaako apeselela ouhona wae ouho apelwe, nokukala nokulinga ovipengi.
+P5	Eci amana aciho anko enaco, mocilongo oco amuya onjala onene, ongo ahimbika okukonja nesuko.
+P6	Ngwe aende kuumwe womocilongo oco, ongo oo emutumu komapya ae okukalisa ovingulu.
+P7	Oko, wahandele okulya ovinjengele, okulya kwovingulu ngwe nawike anko umupavyo. Pahe asokolola okuti: "Ocinyingi covalingilili vatate valya okulya avekuta, ngwe ame kuno oco njinkya nonjala!"
+P8	"Manjikatuka okwenda kutate ankemupopila okuti: Tate, napengesila Huku noove. Ame hihivilwa vali okutumbulwa ngomona wove, ntekule vala ngaumwe omulingilili wove."
+P9	Pahe akatuka okwenda keumbo lyatate yae.
+P10	Omona eci anko elikokule he yae wemumonena kokule, emweetela onkenda. Pahe ahateka okelivasa nae, emuumbakana nokumuhipa ombusinyu.@@Ngwe omona apopila he ati: "Tate, napengesila Huku noove. Ame hihivilwa vali okutumbulwa ngomona wove."
+P11	Ongo he apopila ovaumbili vae ati: "Kanyaukei etei omuvalo ukahi nawa, muvalekei. Muhukikei onela komunwe nononkaku konompai. Etei tupu ondumetane yanina, iipaei tulye ocipito. Ceeci omona wange ou wankile wapinduka; wavombele wavasiwa." @@Avahimbika okulinga ocipito.
+P12	Omona wae omukulu waco anko ulikepya. Eci akondoka okuhika popepi yeumbo, aivi ociimbo novantu vanyana. Pahe aihana wike povalingilili emupulu eci ciivalela meumbo. Ongo emukumbulula okuti: "Ondenge yove weya, pahe tate yove watuma okumwipaela ondumetane yanina ceeci wakondoka nekongoko."
+P13	Pahe omona oo omukulu waco anumana unene, ahahande okunyingila meumbo. Ngwe tate yae alupuka okumukengelela okuti oco anyingile meumbo. Ongo akumbulula tate yae ati: "Tala, tate omanima omanyingi njikulingila napamwe naanyene ocitumino cove."
+P14	"Ame napamwe tate wampele ocinkombo njilinge ocipito nomapanga ange! Ngwe omona wove oo, wokwanyinukuta ouhona wove nomakunga, wakondoka wemukamena ondumetane yanina!"
+P15	Ongo he ati: "Mona wange, ove apeho una ame, aciho njinaco ocove. Mwaina ontwe anko casukisa okulinga ocipito cokulyata mocanja, ceeci ondenge yove anko wankile wapinduka wavombele wavasiwa."
+
+images:
+
+illustrations/pages/27414.png
+illustrations/pages/27388.png
+illustrations/pages/27389.png
+illustrations/pages/27390.png
+illustrations/pages/27391.png
+illustrations/pages/27392.png
+illustrations/pages/27393.png
+illustrations/pages/27400.png
+illustrations/pages/27407.png
+illustrations/pages/27394.png
+illustrations/pages/27395.png
+illustrations/pages/27396.png
+illustrations/pages/27397.png
+illustrations/pages/27403.png
+illustrations/pages/27404.png
+illustrations/pages/27398.png
+illustrations/pages/27399.png
+
+translations:
+
+Cinyungwe (Translation)	Mwana Wakutaika	id=31653
+Cisena (Translation)	Mwana Wakutaika	id=31654
+Elomwe (Translation)	Mwaana Oohuwela	id=31657
+Emakhuwa (Translation)	Mwaana Oorimeela	id=31661
+English (Original)	The Lost Son	id=31640
+Portuguese (Adaptation)	O Filho Perdido	id=31652

@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31601&d=0&a=1
+id:	31601
+title:	Sara se kano
+author:	Anita  Van Zyl
+artist:	Rachel  Greer
+lang:	Afrikaans
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31601.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	Sara het 'n kano. @@Haar kano is groot. @@Die kano is by die rivier.
+P2	Party vroue kom na die rivier toe. Een vrou het 'n mandjie vrugte. 'n Ander vrou het 'n hoender. Nog 'n vrou het 'n bok. 'n Ander vrou het twee bokke. Hulle vra vir Sara: "Hoe kan ons die rivier oorsteek?"@@Sara sê: "Klim in my kano!"
+P3	Dan daag daar 'n paar mans op. Een man het 'n vis. 'n Ander man het 'n fiets. Nog een het 'n sak rys.
+P4	'n Ander man het twee sakke rys. Hulle vra vir Sara: "Hoe kan ons die rivier oorsteek?"@@Sara antwoord: "Klim in my kano!"
+P5	Party diere kom na die rivier toe. Hulle vra vir Sara: "Hoe kan ons die rivier oorsteek?" @@Sara sê: "Klim in my kano!"
+P6	Die diere klim in die kano. @Die hond klim in die kano. @Die kat klim in die kano. @Die bobbejaan klim in die kano. @Die haas klim in die kano. @Die skilpad klim in die kano. @Die bok klim in die kano.
+P7	Olifant kom na die rivier toe. Hy vra: "Hoe kan ek die rivier oortseek?"@@Sara sê: "Klim in my kano!"@@Olifant klim in die kano. Die kano word vol water. Die kano slaan om.
+P8	Die kano is te klein! Daar is nie meer plek nie.
+P9	Sara sê: "Wag 'n bietjie. Ek sal eers die vroue oorvat."
+P10	Sara sê: "Dan sal ek die mans oorvat."
+P11	Sara sê: "Die diere sal ek laaste oorvat."
+P12	Olifant sê: "Toemaar, ek sal stap!"
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

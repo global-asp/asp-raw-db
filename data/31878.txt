@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=31878&d=0&a=1
+id:	31878
+title:	My Mom
+author:	Merville  Mabula
+artist:	Merville  Mabula
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31878.png
+desc:	A story written by a caring and thoughtful boy to celebrate his mother. (This story was created at a holiday programme run by Sophiatown Community Psychological Services in Johannesburg
+
+page_text:
+
+P1	This is me.
+P2	I live with my mom, brother and sister.
+P3	My mom likes to cook.
+P4	Sometimes my mom visits her friends.
+P5	When she is away, I clean the house and wash the dishes.
+P6	When it is night time, my mom tells us to pray.
+P7	When it is my birthday, my mom brings me something.
+P8	I love my mom.
+
+images:
+
+illustrations/pages/27543.png
+illustrations/pages/27544.png
+illustrations/pages/27545.png
+illustrations/pages/27546.png
+illustrations/pages/27547.png
+illustrations/pages/27548.png
+illustrations/pages/27549.png
+illustrations/pages/27550.png
+illustrations/pages/27543.png
+
+translations:
+
+isiZulu (Translation)	Umama wami othandekayo	id=32235
+Kiswahili (Translation)	Mama wangu	id=32195
+Kiswahili (Translation)	Mama yangu	id=32200
+Lingala (Translation)	Maman na ngai	id=32186
+Portuguese (Translation)	A minha mãe	id=32205

@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31746&d=0&a=1
+id:	31746
+title:	Chiingubo chaange cheesisomelo
+author:	Raphael Wanyonyi
+artist:	Mlungisi Dlamini
+lang:	Lubukusu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31746.png
+desc:	Muulugano luuno oomwana keepima chiingubo chiimbofu
+
+page_text:
+
+P1	Liirinda lioomukoko waange liibofu khwiise!
+P2	Kumuchoosi kwa yaaya waange kwoosi kuubofu khwiise.
+P3	Siikapo siaange siibofu. Seesili siibofu luukali taawe!
+P4	Kumushiipi kumukoofu kuno kuumutiti khwiise.
+P5	Eiino ekofia yo siifwanani sioomwana waange.
+P6	Chiisokisi chaange chiinjola buulayi. Neekakhalimbo eerangi yacho eembi!
+P7	Eebino biiraro biaange biiyakha.
+P8	Biinjola buulayi po.
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+Ekegusii (Translation)	Chianga chiane chiesukuru	id=31837
+English (Original)	My school clothes	id=31708
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Kikamba (Translation)	Ngũa syakwa sya sukulu	id=32168
+Lingala (Translation)	Bilamba na ngai ya kelasi	id=31795
+Oluwanga (Translation)	Etsingubo tsianje etsiamumasomero	id=31729
+Sepedi (Translation)	Diaparo tša ka tša sekolo	id=32066
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827
+Tshivenḓa (Translation)	Zwiambaro zwanga zwa tshikolo	id=32026

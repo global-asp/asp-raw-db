@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=31642&d=0&a=1
+id:	31642
+title:	Nema Wagula Usalu
+author:	Little Zebra Books
+artist:	Mirjam  Gyger
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31642.png
+desc:	Follow Nema through the market as she tries to buy some thread.
+
+page_text:
+
+P1	Uyu ni Nema.@Nema wasona.@Nema wasona saya.
+P2	Nema wasona na usalu.@Bwamala usalu.@Nema anifuna kugula usalu.@Anifuna kobiri kuti akagulire.@Kuponi iye an'dzakwanisa kobiri?
+P3	Nema wawona muti.@Muti akhali pafupi.@Muti una bzisapo.@Bzisapo ni papaya.@Papaya ni zakukoma.
+P4	Nema ana muti.@Nema wacosa papaya.@Nema walokota papaya.
+P5	Nema wafika pam'sika.@Iye wafika pam'sika na papaya.@Iye anifuna kugulisa papaya.
+P6	Wona mwamuna.@Mwamuna wagula papaya ibodzi.@Iye wapasa kobiri kuna Nema.@Nema wagulisa papaya zizinji.@Iye an'kagula usalu na kobiriyo.
+P7	Pam'sika iye wawona mafigu.@Iye wagula lini mafigu.
+P8	Pam'sika iye wawona matomati.@Iye wagula lini matomati.
+P9	Pam'sika iye wawona sefa.@Iye wagula lini sefa.
+P10	Pam'sika wawona pau.@Iye wagula lini pau.
+P11	Nema wawona mwamuna.@Mwamuna akhagulisa usalu.@Nema wagula usalu.
+P12	Nema ana usalu.@Nema adakomedwa.@Iye an'kamalisa kusona saya na usalu.
+
+images:
+
+illustrations/pages/27365.png
+illustrations/pages/27351.png
+illustrations/pages/27352.png
+illustrations/pages/27354.png
+illustrations/pages/27343.png
+illustrations/pages/27356.png
+illustrations/pages/27357.png
+illustrations/pages/27360.png
+illustrations/pages/27361.png
+illustrations/pages/27363.png
+illustrations/pages/27364.png
+illustrations/pages/27365.png
+illustrations/pages/27366.png
+
+translations:
+
+CiNyanja (Translation)	Nema Agula Ulusi	id=31643
+Ciyawo (Translation)	A-Nema akusuma wusi	id=31646
+Elomwe (Translation)	Nema Oothuma Osola	id=31644
+Emakhuwa (Translation)	Neema Onthuma Nliinya	id=31645
+English (Original)	Nema Buys Thread	id=31612
+Portuguese (Translation)	A Nema Compra a Linha	id=31641

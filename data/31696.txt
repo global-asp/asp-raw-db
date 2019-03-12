@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=31696&d=0&a=1
+id:	31696
+title:	Naamukhwele ni Mulipa Oothoriha
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	Elomwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31696.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luuka 18:1-8@@Yeesu aaloca niphwanapwaniho aaleelihaka wi onaphwanela omvekela Muluku moohihiyererya: @@Epooma emoha aakhalamo mulipa oothoriha ahaamoova Muluku nari omucicimiha muchu.
+P2	Mu epooma yeeyo tho aakhalamo naamukhwele aarino mulacu awe. Ikwaha sincipale aanaya wa mulipa oothoriha yoole wi athorihe mulacu awe aareiyeno ni mwiicani awe, wi amwaakihe.
+P3	Nto mulipa oothoriha yoole hamphwacha.
+P4	Vawi aanamuukhula, mulipa oothoriha yoole, aaloca ariki: "Nnaamwi kihimoovaka Muluku nari omucicimiha muchu, kinamuyawo kathorihe mulacu awe wi ahikuukhule."
+P5	Yeesu aahi: "Moowiriyana echu enreiye mulipa oothoriha oonanara murima. Muluku tho onamuweerela yawookololowa yaawo ari oothanliwaawe, anamwiichana othana ni ohiyu. Onamulekela waakhula?"
+P6	"Chiri kinnooleelaani wi onamuwaakiha ni wookolola ichu mwamvayi. Nto, aakookaka mwaana a muchu, onamphwanyavo nroromelo veelaponi ya vathi?"
+
+images:
+
+illustrations/pages/27415.png
+illustrations/pages/27417.png
+illustrations/pages/27418.png
+illustrations/pages/27419.png
+illustrations/pages/27415.png
+illustrations/pages/27420.png
+illustrations/pages/27421.png
+illustrations/pages/27422.png
+
+translations:
+
+Cinyungwe (Translation)	Mtongi na Mantsiwa	id=31698
+Cisena (Translation)	Nkazi Wakuferwa na Mamuna  na Nyakutonga Mise	id=31699
+English (Original)	The Persistent Widow	id=31660
+Olunyaneka (Translation)	Omuhepe Nomukoyesi  Wompela	id=31700
+Portuguese (Translation)	A Viúva e o Juiz	id=31695

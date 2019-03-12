@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=31751&d=0&a=1
+id:	31751
+title:	Kuverenga kiti
+author:	Lilian Chaminuka
+artist:	Jesse Breytenbach
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31751.png
+desc:	Bhuku rokuverenga
+
+page_text:
+
+P1	Pane kiti ngani?@@Hapana kiti.
+P2	Pane kiti ngani?@@1 kiti imwe.
+P3	Pane kiti ngani?@@2 kiti mbiri.
+P4	Pane kiti ngani?@@3 kiti nhatu.
+P5	Pane kiti ngani?@@4 kiti ina.
+P6	Pane kiti ngani?@@5 kiti shanu.
+P7	Pane kiti ngani?@@6 kiti nhanhatu.
+P8	Pane kiti ngani?@@7 kiti nomwe.
+P9	Pane kiti ngani?@@8 kiti sere.
+P10	Chii chatiri kouna icho?@@Kakiti, karambira mumuti! @@"Ndichakununura!"
+P11	"Amai, ndinokumbira tiichengete iyi chete!"@@Pava ne kiti ngani?@@9 pfumbamwe.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Afrikaans (Translation)	Tel die katte	id=31791
+Dhopadhola (Translation)	kwano pus	id=23214
+Ekegusii (Translation)	Kobara ebibusi	id=31755
+English (Adaptation)	Counting cats	id=12156
+isiZulu (Translation)	Ukubala amakati	id=31790
+Kikamba (Translation)	Kũtala mbaka	id=31753
+Kiswahili (Translation)	Kuhesabu paka	id=32196
+Lingala (Translation)	Ba niawu bazali boni?	id=31794
+Lubukusu (Translation)	Khuubala Chipuusi	id=31858
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala puusi	id=27336
+Oluwanga (Translation)	Okhubala Tsipusi	id=31769
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584
+Sepedi (Translation)	Go bala dikatse	id=32065
+Sesotho (South Africa) (Translation)	Re  bala dikatse, lefela ho fihla ho robong	id=31793
+Tshivenḓa (Translation)	U vhala zwimange	id=31792

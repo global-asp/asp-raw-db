@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32014&d=0&a=1
+id:	32014
+title:	Dabbaaji Wuro
+author:	Jibrilla  Eggi
+artist:	Rob Owen, Sandy Campbell and Wiehan de Jager
+lang:	Fulfulde Mbororoore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32014.png
+desc:	Ko nagge
+
+page_text:
+
+P1	Ndaaree dabbaaji ɗi min ndurata.
+P2	Nagge e hokkamin kosam.
+P3	Bojel e kuleeru ɗum soobiray bee yimɓe.
+P4	Puccu e hija e waɗa, "Ihhihihihi."
+P5	Leydi Uganda ɓe kokkay naʼi e beʼi ngam sadaaki.
+P6	Gerogal e kot-kota e waɗa, "Kuut-kuut."
+P7	Ɓoosaaru e ayna gure amin.
+P8	Marɗo dabbaaji e hakkilanaɗi boɗɗum.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+English (Adaptation)	Look at Our Animals	id=10258
+English (Adaptation)	Animals, Animals	id=10260
+Hausa (Nigeria) (Translation)	Dabbobi - Dabbobi	id=20866
+Lulamoogi (Translation)	Ebisolo,Ebisolo	id=25249
+Lusoga (Translation)	Bona ensolo dhaife	id=28408

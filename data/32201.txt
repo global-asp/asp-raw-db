@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32201&d=0&a=1
+id:	32201
+title:	Mchezo wa Chesi na majukumu ya familia
+author:	African Storybook
+artist:	Jamie  Luketa
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32201.png
+desc:	Hadithi iliyoandikwa na mvulana ambayo inaonyesha jinsi majukumu ya familia yanavyofanana na vipande tofauti vya mchezo wa chesi. (Iliandikwa wakati wa likizo kwenye mradi unaosimamiwa na Jamii ya Sophiatown jijini Johanesburg
+
+page_text:
+
+P1	Kuna mvulana anayeitwa Rodney. Anaishi na familia yake. @@Mamake ni Jemima na babake ni Mike. Dada zake ni Suzy na Lola.@@Rodney ni kitinda mimba.
+P2	Rodney anapenda kucheza mchezo wa chesi.@@Anaupenda sana hata anapokuwa akicheza, haongei.
+P3	Siku moja, Rodney alipokuwa shuleni akicheza chesi, aligundua kwamba mchezo huo ungelinganishwa na familia yake.
+P4	Mike ni Mfalme.@@Jemima ni Malkia, ndiyo sababu ana nguvu.@@Suzy na Lola ni majamadari na maaskofu.@@Rodney ni kitunda kwa sababu ni mdogo kwa wote.
+P5	Baada ya kugundua hivyo, Rodney alikwenda nyumbani mbio kuwaelezea familia yake.
+P6	Mwanzoni, wote walimcheka. Lakini, baadaye walielewa.@@Rodney aliwaelezea majukumu yao na kwa nini yeye alikuwa kitunda.
+P7	Rodney alimwambia mamake kuwa yeye ni malkia, na kwamba babake ni mfalme.@@Dada zake ni majamadari na maaskofu.
+P8	Rodney ni kitunda kwa sababu anapenda kutalii!@@Angechagua kuwa chochote alichotaka, hata kama angejinyima vitu fulani.
+
+images:
+
+illustrations/pages/27824.png
+illustrations/pages/27825.png
+illustrations/pages/27826.png
+illustrations/pages/27827.png
+illustrations/pages/27828.png
+illustrations/pages/27829.png
+illustrations/pages/27830.png
+illustrations/pages/27831.png
+illustrations/pages/27824.png
+
+translations:
+
+English (Original)	Chess and family roles	id=32045
+isiZulu (Translation)	Umdlalo weChess	id=32233
+Kiswahili (Translation)	Chess ya famille	id=32197
+Lingala (Translation)	Chess na tina ya Libota	id=32232
+Portuguese (Translation)	O jogo de xadrez e os papéis da família	id=32208

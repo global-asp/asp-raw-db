@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=31532&d=0&a=1
+id:	31532
+title:	O Cabrito, o Cão e a Vaca
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31532.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	O cabrito, o cão e a vaca eram bons amigos. @@Um dia, saíram juntos para um passeio de chapa.
+P2	Quando chegaram ao destino, o motorista pediu que pagassem. @@A vaca pagou a sua parte.
+P3	O cão deu dinheiro a mais, porque não tinha troco.
+P4	Quando o motorista ia dar o troco ao cão, o cabrito saiu a correr sem pagar.
+P5	O motorista ficou muito zangado. Acabou saindo sem dar o troco ao cão.
+P6	É por isso que, até hoje, o cão corre em direção aos carros e olha para dentro para encontrar o motorista que lhe deve o troco.
+P7	O cabrito sai correndo quando ouve o barulho de um carro. Ele tem medo de ser preso por não ter pago o motorista do chapa.
+P8	E a vaca não se incomoda quando um carro está a vir. A vaca atravessa a estrada com toda a sua calma porque sabe que pagou a sua parte.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu ndi Ng'ombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125

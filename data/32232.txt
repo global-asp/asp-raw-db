@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32232&d=0&a=1
+id:	32232
+title:	Chess na tina ya Libota
+author:	Theresa  Nyemba
+artist:	Jamie  Luketa
+lang:	Lingala
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32232.png
+desc:	Lisapo ya muana ya mobali ya muke oyo azali na libota na ye oyo bazali kotiela ye miso na lisano oyo ya chess alingaka kosakana pe libota na ye bazali kosepela na yango.
+
+page_text:
+
+P1	Ezalaki na muana mobali na kombo Rodney. Avandaka na libota na ye.@@Maman na Papa na ye kombo Jamima na Mike. Bandeko na ye ya basi Suzy na Lola.@@Rodney azali muana ya suka.
+P2	Rodney alingika kosakana chess.@@Alingaka mingi kosakana chess, alingaka koloba te.
+P3	Mokolo moko, tango Rodney azalaki na kelasi akosukana chess, akanisi te masano oyo ekoki kosala pona libota na ngai.
+P4	Mike azali Nkumu.@@Jamima azali mwasi ya Nkumu, yango azali makasi.@@Suzy na Lola bazali na bokangemi makasi pe yabo ngangu Nzambe.@@Rodney azali pawn po azali elenge.
+P5	Sima ya kokanisa bongo, Rodney akimi bango na ndako koyebisa na libota naye.
+P6	Basekiye liboso kasi na sima bayoki ye. @@Rodney ayebisi bango tina na ndenge azali pawn.
+P7	Rodney ayebisi maman na ye azali mwasi ya Nkumu, pe papa na ye azali Nkumu. @@Bandeko na ye ya basi bazali na bokangami makasi pe ye bo nganga Nzambe.
+P8	Rodney azali pawn po alingi liseki!@@Akoki kokoma eloko alingi, ata soki alingi komibonza.
+
+images:
+
+illustrations/pages/27824.png
+illustrations/pages/27825.png
+illustrations/pages/27826.png
+illustrations/pages/27827.png
+illustrations/pages/27828.png
+illustrations/pages/27829.png
+illustrations/pages/27830.png
+illustrations/pages/27831.png
+illustrations/pages/27824.png
+
+translations:
+
+English (Original)	Chess and family roles	id=32045
+isiZulu (Translation)	Umdlalo weChess	id=32233
+Kiswahili (Translation)	Chess ya famille	id=32197
+Kiswahili (Translation)	Mchezo wa Chesi na majukumu ya familia	id=32201
+Portuguese (Translation)	O jogo de xadrez e os papéis da família	id=32208

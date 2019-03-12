@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=31857&d=0&a=1
+id:	31857
+title:	Batho ba ba lebetseng
+author:	Lesego Moilwa
+artist:	Edwin  Irabor
+lang:	Setswana
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31857.png
+desc:	Motse mongwe o mo mathateng
+
+page_text:
+
+P1	Gatwe e rile... go ne go le motse mongwe o bidiwa Izagodo. Batho botlhe ba motse o, e ne e le basha. Go se na le fa e le monnamogolo kgotsa mosadimogolo  mo motseng o.
+P2	Basimane le basetsana ba motse wa Izagodo ba ne ba bina ebile ba ijesa monate. Ba ne ba ja seo ba se batlang mme ba nwa  sengwe le sengwe seo se ba tseisang sedidi. Ba ne ba ja monate bosigo le motshegare.@@Ba simolola go lebala go itirela.
+P3	Gape ba ne ba simolola le go lebala ditiragalo tsa letsatsi le le fetileng.@@Basimane le basetsana ba Izagodo e ne ya re go tsoga ka letsatsi le lengwe, ba fitlhela dijo tsotlhe di fedile. Ke fa go sena le fa e le thothinyana ya mofeine. Didiriswa tsotlhe tsa mmino ke fa dirobegile.
+P4	Go ne go sa tlhole go le mmino o ba ka o binelang mme le bona ba ne ba ka sa bine ka gore ba ne ba bolailwe ke tlala ba le bokoa. Ba ne ba leba kwa kgosing ya motse e leng kgosi Oza mme ya re go goroga ba lela.
+P5	Ba ne ba lela thata. @@Kgosi e ne ya tswa mo ntlong ya gagwe ya mmu le bojang e  e kgolo ya kgalema ya re "emisang ka dilelo baagi ba Izagodo ke a lo kopa tswee tswee, kana re ka tlhokofala nako nngwe le nngwe go tloga ga jaana. A re somareleng maatla a rona re kgone go tshela."
+P6	Batho ba ne ba goeletsa ba re "o kgosi ya rona!  o tshwanetse go re sireletsa!" Kgosi ya didmala, ya tsaa nako ya yona. Ya re morago ya ema ka dinao ya re "nna ga ke sa tlhole ke le kgosi ya lona. Ke a lo sia ke a go batla golo gongwe kwa go leng kagiso. Lo tla sala lo tlhopa kgosi e nngwe".
+P7	Kgosi ya boela mo ntlung ya gagwe, ya phuta diporogwana tsa yona, ya gata kosene.@Batho ba ne ba akabetse ba sa itse gore ke mang a tla palamang setulo sa bogosi. Ba ne ba lela thata.
+P8	Lentswe le le nnye le le phepa la goeletsa la re "ke tla nna kgosi ya lona" Ke fa botlhe ba leba kwa morago go senka mong wa lentswe le. Ba ne ba lebana  ba leba matlhakore otlhe mme ba se bone mong wa lentswe.
+P9	Ba ne ba bona dikgakgamatso, mosimane o mmotlana a itlhagisa ka go tsamaela faale mme a re "go ntse jalo ke tla nna kgosi. Nka le thusa. Fela le tshwanetse go tshepisa fa lo tla emisa go ja monate bosigo le motshegare. Lo tshwanetse go sala ditaelo tsa me morago".
+P10	Morafe o ne o amilwe ke bogatlamelamasisi jwa mosimanyana o mme ba tshepisa go mo sala morago. O ne a ba fudusetsa kwa polaseng ya mabono. Ba ne ba na le dijo ba kgona go ikhutsa. O ne a ba ruta  le go gakolola ditsela tsa go lema.
+P11	Ka ketapele ya mosimanyana morafe wa Izagodo o ne wa simolola go dira ka thata go tlala seatla. Dijo le dino tsa bona tsa ata. Ba tlala ka boitumelo, ba simolola go ijesa monate mme ba sa lebale go dira.
+P12	Bontsi ba nako fa go le maitsiboa, mosimanyana o ne a kukuna a tswa ka motse go ya kwa go monnamogolo mongwe yo o botlhale. O ne a dula le ene ka fa tlase ga lesedi la ngwedi a mo anegela dinaane tsa banna le basadi ba bagaka ba o ba kileng ba rarabolola mathata a merafe ya bona. E ne ya re morago ga nako mosimanyana a rutega a matlafala mme a fetoga go nna monna yo o botlhale.
+
+images:
+
+illustrations/pages/27234.png
+illustrations/pages/27230.png
+illustrations/pages/27231.png
+illustrations/pages/27232.png
+illustrations/pages/27233.png
+illustrations/pages/27234.png
+illustrations/pages/27235.png
+illustrations/pages/27236.png
+illustrations/pages/27237.png
+illustrations/pages/27238.png
+illustrations/pages/27239.png
+illustrations/pages/27240.png
+illustrations/pages/27241.png
+
+translations:
+
+English (Original)	People who forgot	id=24732
+Kinyarwanda (Translation)	Abaturage bibagiwe	id=26184
+Kiswahili (Translation)	Watu waliosahau	id=24746
+Lusoga (Translation)	Abantu abeerabira	id=27410
+Pidgin English (Nigeria) (Translation)	People wey forget	id=24733

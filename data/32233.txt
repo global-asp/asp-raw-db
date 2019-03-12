@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32233&d=0&a=1
+id:	32233
+title:	Umdlalo weChess
+author:	Zanele Zuma
+artist:	Jamie  Luketa
+lang:	isiZulu
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32233.png
+desc:	Le ndaba ibhalwe ngumfana onobuhlakani obukhulu. Endabeni yakhe ufanisa iqhaza elibanjwa yilelo nalelo lungu lomndeni nomdlalo we chess. (Le ndaba yabhalwa ngesikhathi sohlelo lwamaholide olwalugqugquzelwe iSophiatown Commnunity Services eGoli
+
+page_text:
+
+P1	Kwakukhona umfana igama lakhe kunguRodney. URodney wayehlala nomndeni wakhe. @@Umama wakhe kwakunguJamima kanti ubaba wakhe kwakunguMike. Wayenodadewabo ababili uSuzy noLola. @@URodney wayenguthunjana.
+P2	Lo mfana wayethanda kakhulu ukudlala ichess. @@Wayeyithanda kangangokuba wayethula tu! angakhulumi uma eseyidlala.
+P3	Kuthe ngelinye ilanga ezidlalela lo mdlalo  nabangane bakhe esikoleni, wathola ukuthi ungacishe ufane ncimishi nokwenzeka emndenini wakhe.
+P4	Ubaba wakhe uMike yiNkosi kanti umama wakhe uJamima yiNdlovukazi enamandla. @@Bese kuthi uSuzy abe yiKnight, uLola yena abe yiBishop.@@URodney-ke yena uyi pawn ngoba nguyena omncane.
+P5	Wathi angathola lokho waqaqa ngejubane eqonde ekhaya eyobaxoxela ngalokhu.
+P6	Baqala ngokumhleka kodwa ekugcineni bayiqondisisa lento ayishoyo. @@URodney waqala wachaza ngeqhaza elibanjwa yilowo nalowo nangokuthi kungani yena eyipawn.
+P7	Watshela umama wakhe ukuthi uyindlovukazi nokuthi ubaba wakhe uyinkosi. @@Udadewabo omdala uyiknight kanti omncane uyibishop.
+P8	URodney wayezibona eyipawn ngoba uyayithanda impilo yangaphandle! @@Angaba noma yini ayifunayo noma kungathiwa akadele okuthile.
+
+images:
+
+illustrations/pages/27824.png
+illustrations/pages/27825.png
+illustrations/pages/27826.png
+illustrations/pages/27827.png
+illustrations/pages/27828.png
+illustrations/pages/27829.png
+illustrations/pages/27830.png
+illustrations/pages/27831.png
+illustrations/pages/27824.png
+
+translations:
+
+English (Original)	Chess and family roles	id=32045
+Kiswahili (Translation)	Chess ya famille	id=32197
+Kiswahili (Translation)	Mchezo wa Chesi na majukumu ya familia	id=32201
+Lingala (Translation)	Chess na tina ya Libota	id=32232
+Portuguese (Translation)	O jogo de xadrez e os papéis da família	id=32208

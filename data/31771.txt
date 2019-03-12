@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=31771&d=0&a=1
+id:	31771
+title:	Dikatse tsa ga Selemeng
+author:	Lorato Trok
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31771.png
+desc:	Selemeng o na le dikatse tse dintsi. Selemeng o na le dikatse tse kae?
+
+page_text:
+
+P1	Selemeng o rata dikatse. Go na le dikatse tse dintsi kwa ntlong ya gagwe.
+P2	Selemeng o na le katse e ntsho e le nngwe. Katse e, e ja nama e ntsi.
+P3	Selemeng o na le katse e le nngwe e e nonneng. Katse e, e ja sengwe le sengwe.
+P4	Katse ya boraro, e tabogela kwa godimo ga setlhare. Katse e, e palelwa ke go fologa mo setlhareng.
+P5	Selemeng o palama setlhare. O palelwa ke go fologa le katse ya boraro. Mmaagwe Selemeng o tshwanetse go ba thusa go fologa.
+P6	Selemeng o na le dikatse tse pedi tse di botswa. Di rapama kwa ntle mo letsatsing motshegare otlhe.
+P7	Selemeng o na le dikatse tse tharo tse di matlhagatlhaga. Di tshwara dikatse mo boapeelong bosigo.
+P8	Selemeng o na le ntšwa e le nngwe. Leina la yone ke Lirafi. Lirafi ga a na ditsala. O tlhoafetse.
+P9	Dikatse tsa ga Selemeng ga di rate Lirafi. Di mo kobela kwa ntle. Lirafi o a tshaba.
+P10	Selemeng o bona Lirafi mme o mo tlisa gae. Dikatse ga di a itumela. Ga di batle go bona Lirafi gape.
+P11	Selemeng o na le dikatse tse kae? O na le dikatse tse robedi.
+P12	Selemeng o na le dintšwa tse kae? O na le ntšwa e le nngwe. Lirafi o kae jaanong?
+P13	O na le dikatse tse kae kwa gae? O na le dintšwa tse kae kwa gae?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+isiZulu (Translation)	Amakati kaZamo	id=31799
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Epusi dha kelementi	id=27609
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

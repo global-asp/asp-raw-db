@@ -1,0 +1,65 @@
+url:	https://africanstorybook.org/reader.php?id=32158&d=0&a=1
+id:	32158
+title:	Amabara
+author:	Jean Paul Harelimana
+artist:	Rijuta Ghate
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32158.png
+desc:	Turibaza impamvu ibintu byose bifite amabara atandukanye.
+
+page_text:
+
+P1	Kuki ikirere ari ubururu?
+P2	Ntigihora ari ubururu, si byo?
+P3	Kuki ibibabi ari icyatsi?
+P4	Byose siko biba ari icyatsi, siko bimeze?
+P5	Kuki imineke ari umuhondo?
+P6	Ihishije iba ari umuhondo. Idahishije ari icyatsi.
+P7	Kuki imitaka ari umukara?
+P8	Imitaka yose siko aba ari umukara.
+P9	Kuki amaraso ari umutuku?
+P10	Hari ubutare mu maraso, nibwo butuma aba umutuku.
+P11	Kuki umunyu ari umweru?
+P12	Nange sinzi impamvu!
+
+images:
+
+illustrations/pages/1926.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+English (Original)	Colours	id=1927
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+isiNdebele (Translation)	Ngitjela nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele...ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kinyarwanda (Translation)	Amabara	id=20918
+Kiswahili (Translation)	Nitajie majina ya rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Lusoga (Translation)	Langi	id=24975
+Lusoga (Translation)	Langi	id=30914
+Maa (Translation)	Tólikíoki Tenákatá - Imúain	id=2818
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sepedi (Translation)	Mpotše...gona bjale! Mebala	id=1936
+Sesotho (Lesotho) (Translation)	Njoetse Hona Joale … Mebala	id=11549
+Setswana (Translation)	Mpotse Mo ... Mebala E Farologaneng!	id=11164

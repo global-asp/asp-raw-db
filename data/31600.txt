@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31600&d=0&a=1
+id:	31600
+title:	Iphenyane likaCwengile
+author:	Sebolelo  Mokapela
+artist:	Rachel  Greer
+lang:	isiXhosa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31600.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	UCwengile unephenyane. @@Likhulu iphenyane lakhe. @@Eli phenyane lingasemlanjeni.
+P2	Abanye oomama beza emlanjeni. Omnye umama uphethe ingobozi yeziqhamo. Omnye uphethe inkukhu. Omnye unebhokhwe. Omnye umama uneebhokhwe ezimbini. "Singafikelela njani kweliya cala lomlambo?" babuza kuCwengile.@@"Khwelani kweli phenyane lam!" utsho uCwengile.
+P3	Kusenjalo, kufika abanye ootata. Omnye utata uphethe intlanzi. Omnye unebhayisekile. Omnye unengxowa yombona.
+P4	Omnye utata uneengxowa ezimbini zombona. "Singafikelela njani kweliya cala lomlambo?" babuza kuCwengile. @@UCwengile uphendula ngelithi, "Khwelani kweli phenyane lam!"
+P5	Kuza ezinye izilwanyana apha emlanjeni. "Singawela njani kulo mlambo?" zibuza kuCwengile.@@"Khwelani kweli phenyane lam!" utsho uCwengile.
+P6	Ziyakhwela izilwanyana ephenyaneni. @Ikhwela ephenyaneni inja. @Ikhwele ikati. @Ikhwele imfene.@Ukhwele umvundla. @Lukhwele ufudo. @Likhwele nebhadi ephenyaneni.
+P7	Kufika indlovu emlanjeni. Ibuze, "Ndizakufikelela njani kweliya cala lomlambo?"@@"Khwela apha kweli phenyane lam!" utsho uCwengile.@@Indlovu ikhwela ephenyaneni. Nalo iphenyane ligcwala ngamanzi. Bhulukuqu! Liphethuke iphenyane.
+P8	Lincinci kakhulu iphenyane! Akusekho ndawo.
+P9	Uthi uCwengile, "Khanime kancinci. Ndizakuqala ndiweze oomama."
+P10	"Okwesibini, ndiweze ootata," utsho uCwengile.
+P11	"Ndizakugqibela ngezilwanyana," atsho uCwengile.
+P12	"Mna ndizakuziwelela!" utsho uNdlovu.
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

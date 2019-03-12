@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=31799&d=0&a=1
+id:	31799
+title:	Amakati kaZamo
+author:	Pumla Mdontswa
+artist:	Marleen Visser and Wiehan de Jager
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31799.png
+desc:	UZamo unamakati amaningi. Ake sibone ukuthi unamakati amangaki.
+
+page_text:
+
+P1	UZamo uyawathanda amakati.
+P2	UZamo unekati elilodwa elimnyama. @@Leli kati lidla inyama eningi.
+P3	Aphinde abe nelinye elikhuluphele. @@Leli lona, lidla yonke into.
+P4	Elesithathu lona, ligibele esihlahleni.  @@Manje seligaxele esihlahleni.
+P5	Nanguya uZamo ecaca esihlahleni. Naye uyagaxela kanye nekati lesithathu. @@Manje umama kaZamo kufanele abasize, abehlise esihlahleni.
+P6	UZamo unamanye amakati amabili avilaphayo. @@Alibala ukulala elangeni usuku lonke.
+P7	UZamo unamakati amathathu akhuthele. @Ebusuku, abamba amagundane ekhishini.
+P8	UZamo unenja eyodwa. Igama layo nguPapi. @@UPapi akanamngani. Uhlala edabukile nje.
+P9	Amakati kaZamo awamthandi uPapi. Ayamxosha endlini, aphume abaleke.
+P10	UZamo uyamcinga uPapi, amthole, abuye naye ekhaya. @@Amakati awakujabuleli lokhu. Awafuni nakumbona uPapi.
+P11	Ngabe uZamo unamakati amangaki? @@Wabale sibone.
+P12	Unezinja ezingaki uZamo? Unenja eyodwa. @@Uphi uPapi manje?
+P13	Wena unamakati amangaki ekhaya kini? @@Izinja zona, unezingaki?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Epusi dha kelementi	id=27609
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

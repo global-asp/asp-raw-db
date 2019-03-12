@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32235&d=0&a=1
+id:	32235
+title:	Umama wami othandekayo
+author:	Zanele Zuma
+artist:	Merville  Mabula
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32235.png
+desc:	Le ndaba ibhalwe umfana onesineke futhi othanda umama wakhe. (Le ndaba ibhalwe ngesikhathi sohlelo lwamaholide olwalugqugquzelwe iSophiatown Community Psychological Services eGoli
+
+page_text:
+
+P1	Yimina lo.
+P2	Ngihlala nomama, umfowethu nodadewethu.
+P3	Umama uthanda ukupheka.
+P4	Ngesinye isikhathi umama uvakashela abangane bakhe.
+P5	Uma engekho, ngihlanza indlu futhi ngigeza  nezitsha.
+P6	Ngaphambi kokuthi siyolala, umama uthi asithandaze.
+P7	Uma kulusuku lwami lokuzalwa, ungipha izipho.
+P8	Ngimthanda kakhulu umama wami.
+
+images:
+
+illustrations/pages/27543.png
+illustrations/pages/27544.png
+illustrations/pages/27545.png
+illustrations/pages/27546.png
+illustrations/pages/27547.png
+illustrations/pages/27548.png
+illustrations/pages/27549.png
+illustrations/pages/27550.png
+illustrations/pages/27543.png
+
+translations:
+
+English (Original)	My Mom	id=31878
+Kiswahili (Translation)	Mama wangu	id=32195
+Kiswahili (Translation)	Mama yangu	id=32200
+Lingala (Translation)	Maman na ngai	id=32186
+Portuguese (Translation)	A minha mãe	id=32205

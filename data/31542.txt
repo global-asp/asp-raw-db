@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=31542&d=0&a=1
+id:	31542
+title:	The Rich Fool
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31542.png
+desc:	A parable of Jesus from Luke chapter 12. NET Bible® copyright ©1996-2006 by Biblical Studies Press.
+
+page_text:
+
+P1	Luke 12:15-23, 30-31@@Jesus said to the crowd, "Watch out and guard yourself from all types of greed, because one's life does not consist in the abundance of his possessions."@@He then told them a parable:
+P2	The land of a certain rich man produced an abundant crop, so he thought to himself, "What should I do, for I have nowhere to store my crops?"
+P3	Then he said, "I will do this: I will tear down my barns and build bigger ones, and there I will store all my grain and my goods."
+P4	"And I will say to myself, 'You have plenty of goods stored up for many years; relax, eat, drink, celebrate!'"
+P5	But God said to him, "You fool! This very night your life will be demanded back from you, but who will get what you have prepared for yourself?"
+P6	So it is with the one who stores up riches for himself, but is not rich toward God.
+P7	Then Jesus said to his disciples, "Therefore I tell you, do not worry about your life, what you will eat,
+P8	or about your body, what you will wear. For there is more to life than food, and more to the body than clothing."
+P9	"For all the nations of the world pursue these things, and your Father knows that you need them. Instead, pursue his kingdom, and these things will be given to you as well."
+
+images:
+
+illustrations/pages/27268.png
+illustrations/pages/27266.png
+illustrations/pages/27267.png
+illustrations/pages/27269.png
+illustrations/pages/27268.png
+illustrations/pages/27270.png
+illustrations/pages/27271.png
+illustrations/pages/27279.png
+illustrations/pages/27278.png
+illustrations/pages/27275.png
+
+translations:
+
+Cinyungwe (Translation)	Munthu Wakudala Wakusaya Ndzeru	id=31543
+Cisena (Translation)	M'pfumi Wakusowa Ndzeru	id=31548
+Olunyaneka (Translation)	Omuhona Ondamba	id=31544
+Portuguese (Original)	O Rico Sem Juizo	id=31434

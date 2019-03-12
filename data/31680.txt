@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=31680&d=0&a=1
+id:	31680
+title:	ǁGauǃnâ-aos Akinyis xa
+author:	Mattheus  Goraseb
+artist:	Vusi Malindi
+lang:	Khoekhoegowab
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31680.png
+desc:	Nēs ge ǃnubu ǃgupu ǂhôaros
+
+page_text:
+
+P1	A, ǁîs ge ti ǁgauǃnâ-aosa.  ǁȊs ge Akinyis ti ǀōn â.  ǁȊs ge sida hoada ǀnam hâ.
+P2	Akinyis ge xoamûsaoguba ra ǁkhāǁkhā da. ǁȊs ge ǀōmûde ra ǁkhāǁkhā da. Tita ge nē xoamûdi, as,es,ib,os tsî us tsîna a ǂan.
+P3	Akinyis ge ǀûga, īsiga ra ǁkhāǁkhā da.  Tita ge ǀawa, ǂhoa, ǃam, ǃhuni tsî ǂnūga a ǂan.
+P4	Soas kara ǂnû, os ge ra ǁae ǁomǁom da.  ǁȊs ge ra ǁnaeb ǀkha ō, ō da.
+P5	ǁOmǁom tsanaros ge nēsa:  @"ǂKhai ra mûrora-e îxase ǀnom re, @ǂkhai ra mûro, ǀnom rase ǃgami, @ǃgâise ǁom re ǀgôaro, @ǀnom ra mûra ge ǂkhais nî ǁaeba ǃâu hâ."
+P6	Akinyis ge ǂgui ǀgarubede a ǂan. Mâ tsēs hoasas ge ǀnî ǀgaruesa ra ǁgamba da, wekhe korobe.
+P7	Mantax is ge ǂaiǀkhā ǀhowesen xa ra ǁgamba da.
+P8	Denstax is ge aboxadi xa ra ǁgamba da.
+P9	Wunstax is ge xûn ra ǃnaohe ǀgaus xa ra ǃhoa.
+P10	Donertax is ge ǂgarib xa ra gowaǀî da.
+P11	Fraitax ida ge mâ-i hoa-e ǁî-i di ǀgarubesa ra ǁgam.
+P12	Sida di ǁgauǃnâ-aos ge ǃhūbaib ǃnâ nauhâ ǁgauǃnâ-aona ǁgoeǂam hâ.  Kai ta kara, o ta ge tita Akinyis khami ra ī ǂgao.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25336
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Bakafundisha Ba Akinyi	id=18586
+isiNdebele (Translation)	UTitjhere Nkosi	id=13043
+isiXhosa (Translation)	UTitshalakazi uNwabisa	id=14116
+isiZulu (Translation)	Uthisha uZanele	id=13537
+Kimîîru (Original)	Mwarimu Makena	id=9688
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Lusoga (Translation)	Musomesa Akinyi	id=27260
+Mampruli (Translation)	Tikyɛa Talata	id=20109
+Oshikwanyama (Translation)	Omuhongi Akinyi	id=24128
+Oshindonga (Translation)	Omulongi Akinyi	id=23884
+Otjiherero (Translation)	Jevrou Akinyi	id=24170
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rukwangali (Translation)	Murongi Akinyi	id=31488
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (South Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Siswati (Translation)	Thishela Nkosi	id=21746
+Talen (Translation)	Tikya Akinyi	id=20177
+Tshivenḓa (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

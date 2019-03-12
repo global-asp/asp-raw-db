@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=31768&d=0&a=1
+id:	31768
+title:	ǃKhoeni ge axab xa
+author:	Mattheus  Goraseb
+artist:	Megan  Barry
+lang:	Khoekhoegowab
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31768.png
+desc:	Nē ǂhôas ge khoe-i kara omairis ai dāsā
+
+page_text:
+
+P1	Gemob tsî Nelsonni hâkha ge ge khoe-ǃgâgu ī.
+P2	Gemob ge tsēkorobe ge re skolǃgû, xawe Nelsonni ge ge dī tama hâ i.
+P3	ǁîkha dadab ge kai-ǃās ǃnâ gere sîsen.@@ǁGûs ge ǃhanab ǃnâ gere sîsen.
+P4	ǀGui tsēb ge ǁgûba mari-e tāb ai ge ǀuru.@@Nelsonni ge nē marisa ge ū.
+P5	ǁGûb ge nēs xa kaise ge ǁaixa.
+P6	Ob ge Nelsonna ge ǃlkhoebē.@@Tsîb ge ge ǃgû, tsî ge ǃgû, hoaraga tsēsa.
+P7	Hoaraga ǃoesab ge hais ǃnaka ge ǂnû.
+P8	ǃGâsab, Gemob ge ge hōǂnôa bi tsî ge ǁaru-ū bi.
+P9	"Tare-ets go ǃnariba marisa?" tib ge ǁgûba ge dî bi.
+P10	"Tare-ets ge ǃkhoeniba?" tis ge ǁgûsa ge dî bi.
+P11	"Kaise ta go ǃhausen," ti mî tsîb ge marisa ge mā-oa.
+P12	On ge ǁnamǂgā bi tsî ge ǁkhoaxase hâǁare.
+
+images:
+
+illustrations/pages/26358.png
+illustrations/pages/26133.png
+illustrations/pages/26359.png
+illustrations/pages/26357.png
+illustrations/pages/26360.png
+illustrations/pages/26361.png
+illustrations/pages/26362.png
+illustrations/pages/26358.png
+illustrations/pages/26363.png
+illustrations/pages/26364.png
+illustrations/pages/26365.png
+illustrations/pages/26366.png
+illustrations/pages/26379.png
+
+translations:
+
+English (Original)	The boy who ran away	id=22357
+Luganda (Translation)	Omuvubuka eyaduka n'agenda	id=22473
+Lusoga (Translation)	Omulenzi eyalumuka wo	id=25877
+Oshikwanyama (Translation)	Okaana ka fadukapo	id=31574
+Oshindonga (Translation)	Okamati haka fadhu kapo	id=31509
+Otjiherero (Translation)	Omuzandu Nga tupuka	id=31520
+Rukwangali (Translation)	Mumati ogu ga tjwayukire	id=31588

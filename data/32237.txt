@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=32237&d=0&a=1
+id:	32237
+title:	Ingqwele yebhola
+author:	Zanele Zuma
+artist:	David J M
+lang:	isiZulu
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32237.png
+desc:	Isipho esingandele bani lo mfana asiphiwa nguyise yisona esenza agcine eseyingqwele yebhola. (Le ndaba yabhalwa ngesikhathi sohlelo lwamaholide olwalugqugquzelwe iSophiatown Community Psychology Service eGoli
+
+page_text:
+
+P1	Eminyakeni eyinkulungwane eyadlula kwakukhona usaziwayo webhola owayenesipho esifana nomlingo wokudlala ibhola. @@Ngesikhathi eqala ukuvelela lo saziwayo, abantu abaningi babelwa bezama ukufana naye.
+P2	Ngesikhathi kudlalwa umqhudelwano wokuqala webhola lomhlaba wayengasekho lo saziwayo futhi akekho owayazi ukuthi washonaphi nomlingo wakhe.@@Kwedlula iminyaka eminingi. Waze waphinde wabonakala lo mlingo ngoba sekuzelwe enye ingqwele yebhola.
+P3	Kungekudala kakhulu kwavela umfana owayebizwa ngokuthi uDavid. Wayephuma emndenini ohluphekayo.
+P4	Ngaphambi kokuthi uyise kaDavid ashone, wadlulisela isipho sokudlala ibhola esasifana nomlingo kundodana wakhe. @@Waqale wangawaqonda umfana amandla alesi sipho.
+P5	Wayesemncane ngesikhathi eqala ukudlala ibhola. @@Udavid wayengakaze aye esikoleni kodwa isipho ayenaso sasimenza anqobe yonke imidlalo ayeyidlala nabangane bakhe.
+P6	Wagcina esetholile ukuthi wayengenza imali eningi ngokudlala ibhola futhi asize umndeni wakhe. @@Wayenokuvula isitolo avulele umama wakhe futhi akhokhele nomfowabo nodadewabo esikoleni.
+P7	UDavid waba ngumdlali ovelele kunabo bonke abake baba khona. @@Abantu babeze bathi akazalwanga kulo mhlaba!
+P8	Waba yingqwele yebhola engasoze yakhohlakala.
+
+images:
+
+illustrations/pages/27832.png
+illustrations/pages/27833.png
+illustrations/pages/27834.png
+illustrations/pages/27835.png
+illustrations/pages/27836.png
+illustrations/pages/27837.png
+illustrations/pages/27838.png
+illustrations/pages/27839.png
+illustrations/pages/27832.png
+
+translations:
+
+English (Original)	Soccer star	id=32046
+Kiswahili (Translation)	Nyota wa Soka	id=32068
+Lingala (Translation)	Mobeti ya ndembo	id=32181
+Portuguese (Translation)	A Estrela do futebol	id=32209

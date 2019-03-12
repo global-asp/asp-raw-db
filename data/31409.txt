@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=31409&d=0&a=1
+id:	31409
+title:	Vifungo tofauti
+author:	Ursula  Nafula
+artist:	African Storybook, Natalie Propa and Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31409.png
+desc:	Hadithi hii inahusu vifungo tofauti vyenye rangi tofauti.
+
+page_text:
+
+P1	Nina vifungo rangi tofauti.
+P2	Nina vifungo kijani kibichi.
+P3	Nina vifungo vidogo.
+P4	Nina vifungo vya rangi ya manjano.
+P5	Vifungo vyangu ni maridadi.
+P6	Nina vifungo vya rangi nyekundu.
+P7	Nina vifungo vingi.
+P8	Nina vifungo vya bluu.
+P9	Vifungo vyangu vinapendeza.
+P10	Nimevipanga vifungo vyangu vizuri.
+
+images:
+
+illustrations/pages/27210.png
+illustrations/pages/1200.png
+illustrations/pages/27206.png
+illustrations/pages/874.png
+illustrations/pages/27209.png
+illustrations/pages/27201.png
+illustrations/pages/27208.png
+illustrations/pages/10065.png
+illustrations/pages/27207.png
+illustrations/pages/27210.png
+illustrations/pages/27205.png
+
+translations:
+
+English (Original)	Buttons	id=18810
+English (Adaptation)	Buttons	id=24701
+English (Adaptation)	Buttons	id=24702
+Kinyarwanda (Translation)	Ibipesu	id=32112
+Kiswahili (Translation)	Vifungo	id=31407
+Lusoga (Translation)	Amapensa	id=27614

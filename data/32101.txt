@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=32101&d=0&a=1
+id:	32101
+title:	Rənldo, Ŋina na Dia
+author:	Apalo Mana
+artist:	Marleen Visser
+lang:	Moro
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32101.png
+desc:	Rapa rəɽəcin raft̠o naɳmađ t̠agsiđa orn lega lat̠fa ŋen ŋat̠ođo ŋicia.
+
+page_text:
+
+P1	Rənldo, Ŋina na Dia laɽo rapa rontoto.@Lomanəŋ lafaɽo nəŋmađ t̠agsiđa.
+P2	Lanəŋolu larmat̠o alo yaŋmađ.@Sowag naŋətel ta lat̠fa.@Dia ratfo.
+P3	Ŋina ŋatfo ëriala yoñia ŋen ŋant̠a gero geferta iriala ŋope.
+P4	Sowag yonata yancia Ŋina irriala yətađno.@Rənldo naŋopəđe rero renacia sowag irriala.
+P5	Sowag yato yacia nano perr nəŋopiđe arabia ŋerta gənacia Ŋina eriala ematəŋ.
+P6	Na tia iliga ilda ŋina ŋalaliñtia arabia nano ŋaninia sowag is gəbowña nano irriala.
+P7	Rənldo ralaliña nda reno ŋel ŋarabia rađiña alo ŋen ŋanto riđ aŋandini.
+P8	Dia rero ređia arabia.@Dia rama liga lola ano nda rogeđa eđađ.@Ŋen ŋanta raləŋeto ta rapëgəđo
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu ndi Ng'ombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=32234&d=0&a=1
+id:	32234
+title:	OLwesibili benjabulo
+author:	Zanele Zuma
+artist:	Aisha  Muamba
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32234.png
+desc:	Le ncwadi isikhumbuza ukuthi kufanele sizazi futhi sizihloniphe izinto ezibalulekile ezimpilweni zethu. (Le ndaba yabhalwa ngesikhathi sohlelo lwamaholide olwalugqugquzelwe iSophiatown Community Psychological Services eGoli
+
+page_text:
+
+P1	Kwakukhona intombazane igama layo kwakunguLinda. Wayehlala nodadewabo ababili, umfowabo kanye nomama wakhe. @@Wayeyintombazane ejabule futhi ekhuthele kakhulu.
+P2	Umngane wakhe omkhulu kwakunguStacy. @@Babethembana noStacy futhi benezimfihlo zabo bobabili.
+P3	Njalo ngoLwesibili babeya ebhayisikobho ngoba babenikezwa uphophukhoni wamahhala.
+P4	Emva kwebhayisikobho, babehlala epaki balalele umculo bese bezitika ngo-ayisikhilimu.
+P5	ULwesibili lolu kwakungusuku lukaLinda olumnandi. @@Ukubuka ibhayisikobho emnandi nokudla uphophukhoni wamahhala.
+P6	Emva kwalokho kube umculo ababewulalela noStacy epaki nokuzitika ngo-ayisikhilimu.
+P7	Izikhathi ezimnandi azihlali zikhona. @@Kufanele ufunde ukuzithakasela futhi uzazise.
+P8	Kanjalo nabantu ohlanganyela nabo kulobo bumnandi.
+
+images:
+
+illustrations/pages/27698.png
+illustrations/pages/27693.png
+illustrations/pages/27694.png
+illustrations/pages/27695.png
+illustrations/pages/27697.png
+illustrations/pages/27696.png
+illustrations/pages/27692.png
+illustrations/pages/27698.png
+illustrations/pages/27699.png
+
+translations:
+
+English (Original)	Happy Tuesdays	id=31985
+Kiswahili (Translation)	Jumanne zenye furaha	id=31999
+Lingala (Translation)	Mokolo ya mibale ya esengo	id=32190
+Portuguese (Translation)	As Terças-feiras Felizes	id=32207

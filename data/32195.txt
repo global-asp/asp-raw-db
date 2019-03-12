@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32195&d=0&a=1
+id:	32195
+title:	Mama wangu
+author:	Theresa  Nyemba
+artist:	Merville  Mabula
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32195.png
+desc:	Iyi adisi bana ajika yo kwa mutoto mwana ume dju ya kufrahisha mama wake. (Iyi adisi baliyadjika yo jiku ya kupumushika ya watoto mu Sophiatown Community Psychological Services mu Johannesburg
+
+page_text:
+
+P1	Iye ne meye.
+P2	Niko na shidwa na mama wangu, mwana ume na mwana muke.
+P3	Mama anapenda kupika.
+P4	Samoya mama anapenda kwangariya ba rafiki yake.
+P5	Kama anako pa nuemba, miye niko nakolopa munuemba na kosampisha masani.
+P6	Kama tunafika bushiku, mama wangu eko na sema tu wombe.
+P7	Kama inafika sa yango yakuzarikwa, ana ni leta macadeaux..
+P8	Me na pendaka mama wangu sana.
+
+images:
+
+illustrations/pages/27543.png
+illustrations/pages/27544.png
+illustrations/pages/27545.png
+illustrations/pages/27546.png
+illustrations/pages/27547.png
+illustrations/pages/27548.png
+illustrations/pages/27549.png
+illustrations/pages/27550.png
+illustrations/pages/27543.png
+
+translations:
+
+English (Original)	My Mom	id=31878
+isiZulu (Translation)	Umama wami othandekayo	id=32235
+Kiswahili (Translation)	Mama yangu	id=32200
+Lingala (Translation)	Maman na ngai	id=32186
+Portuguese (Translation)	A minha mãe	id=32205

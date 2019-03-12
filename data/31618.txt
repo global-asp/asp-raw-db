@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=31618&d=0&a=1
+id:	31618
+title:	Ejuva, Omueze, Ombura no Mbepo
+author:	Auhe  Tjaveondja
+artist:	Children of Paleng
+lang:	Otjiherero
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31618.png
+desc:	Ejuva
+
+page_text:
+
+P1	Ozombura ozengi ndakapita Ejuva, Omueze, Ombura no Mbepo kavi zuvazana.
+P2	Oumba vari pokutja Ejuva ari vanga okunjoza ozoiri ozengi. Omueze auvanga okujera ongurova aihe. Ombura aivanga okuroka ejuva arihe nu, ombepo aivanga okuzinga ejuva arihe. Kave vanga okujandja zana oruveze.
+P3	Ejuva rimue avehama ombongarero. Ejuva ra pura Omueze, "Ove unguraje mbivivatera ouje?" Omueze uatja, "Mbijera ongurova kutja ovinamuindjo vijeve."
+P4	Omueze aupura Ombura, "Ove unguraje mbivivatera ouje?" Ombura jazira kutja, "Ami mbijandja omeja kouje, kutja omiti no mahozu jehape nawa. Mbjijandja omeja kovipuka kutja, avi hatu ondjota."
+P5	Ombura aipura Ombepo, "Ove unguraje mbivivatera ouje?" Ombepo aiziri kutja, "Mbikomba ouje ondova. Mbihinda ombura kozohuki azehe."
+P6	Ombepo aipura Ejuva, "Ove unguraje mbivivatera ouje?" Ejuva razira kutja, "Ami mbijandja ondjerera no kuizamo ombepera kutja ovipuka no miti vihupe nawa."
+P7	Ejuva, Omueze, Ombura no mbepo avi puratenaza nawa.
+P8	Ejuva aritja, "Omambo atuhe tuvatera ouje momihunga peke peke." Omueze autja, "Kapene ngeri omusemba pomukua." Ombura aitja, "Ouete okungura pamue." Ombepo aitja, "Ngatuhane zene omajuva." Amapanga ajezuva sana.
+P9	Ejuva, Omueze, Ombura no mbepo omapanga omawa. Oputuza okumuna omueze mutenja. Nozo iri tjiva ombepo ngunda kuroko.
+P10	Ove uasuvera Ejuva, Omueze, Ombura po mbepo? Tuperendera itji tjiua suvera.
+P11	Tuhepa ouje okuhupa. Ouje utupa ovikurija, ovinamuindjo no miti. Avihe vituvatera momuhingo umwe, po omukuao. Okutja atuhe tuzo okutjita otjina tjimatjivatere ehi retu. Tutjangera itji tjimo tjitire ehi retu.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sesotho (Lesotho) (Original)	Letsatsi, Khoeli, Pula le Moea	id=16109

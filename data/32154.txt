@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=32154&d=0&a=1
+id:	32154
+title:	Injangwe y' Inyagendye n' Imbwa y'Injiji
+author:	Jean Paul Harelimana
+artist:	Salim Kasamba
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32154.png
+desc:	Ese Injangwe yaba ari inyaryenge kurusha Imbwa?
+
+page_text:
+
+P1	Kera habayeho Injangwe y'inyarye ndetse n' Imbwa y'injiji.@@Injangwe y'inyaryenge yabaga mu uryango ukize cyane, naho Imbwa yo yirirwaga ihunahuna ishakisha ibyo kurya mu muhanda.
+P2	Imbwa n'umujinga mwinshi yabajije injangwe iti: "Bishoboka bite ko umuryango ukize nkuriya wemera ko uba mu nzu yabo?"
+P3	Injangwe y'iyaryenge yarasubije iti: "Mbana n'abantu kuberako ndi itungo kandi iyo nitumye ndacukura nkabika. ikindi kandi nsaba ibyo kurya mvuga nti, Myaaa!"
+P4	Imbwa yarabajije iti: "Ese nange nkoze nk'ibyo ukora banyemerera kubana na bo?"@@Injangwe yarasubije iti: "Ni byo, Kora ibyo nakubwiye bazakwakira. Bazaguha ibiryo."
+P5	Imbwa yaravuze iti: "Noneho, uyu munsi sinza kukubabaza."@@Injangwe y'inyaryenge ivuga isimbagurika iti: "Yooo! Umbonye uyu munsi, ntaho nzongera guhurira nawe."
+P6	Imbwa igendeye ku nama z'injangwe, yatangiye kumoka ihagaze imbere y' umuryango w' inzu.
+P7	Ba nyirinzu babyumvise afata inkoni arayirukankana.@@Imbwa yirukanse isakuza iti: "Injangwe yanshutse. Aho nzayibonera hose nzayirya ntakabuza."
+P8	Umunsi umwe Injangwe irimo gukinira mu rugo, imbwa yahise iyifata iravuga iti: "Ubushize warambeshye. Warambwiye ngo mokere imbere y'umuryango w' inzu, ba nyirinzu barankbita. Ubu ngiye kukurya."
+P9	Injangwe y'inyaryenge yabwiye imbwa iti: "Umva, ndabizi urandya, ariko nyihanganire nkine agakino gato nkuko nemerera imbeba gukina mbere y'uko nyirya."
+P10	Imbwa yarayibajije iti: "None se imbeba ikina ite?"@@Injangwe irayisubiza iti: "Narayirekaga ikagenda gato, nkayisaba kubara ikageza kuri gatatu, mugihe irangije kubara ngahita ngifata."
+P11	Imbwa mu bwenge buke bwayo yarekuye injangwe iragenda, iyisaba kubara ikageza kuri gatatu.@@Injangwe y'inyaryenge yahise icika, yurira igiti.@@Imbwa yarayisaye iti: "Manuka muri icyo giti, ubare ugeze kuri gatatu.
+P12	Injangwe y'inyaryenge yaravuze iti: "Umva, ntabwo wongera kumbona. Si ndi igicucu."@@Nushaka ubare ku ijana, ku gihumbi cyangwa kuri miriyoni, ntabwo wongera kumbona ukundi.
+
+images:
+
+illustrations/pages/25483.png
+illustrations/pages/25473.png
+illustrations/pages/25474.png
+illustrations/pages/25475.png
+illustrations/pages/25476.png
+illustrations/pages/25477.png
+illustrations/pages/25478.png
+illustrations/pages/25479.png
+illustrations/pages/25480.png
+illustrations/pages/25481.png
+illustrations/pages/25482.png
+illustrations/pages/25483.png
+illustrations/pages/25484.png
+
+translations:
+
+English (Translation)	Clever cat and foolish dog	id=21708
+Kiswahili (Translation)	Paka mwerevu na Mbwa mjinga	id=22065
+Luganda (Translation)	Cappa engezzi ne'mbwa ensilu	id=24095
+Lusoga (Translation)	Epuusi engezi n'mbwa  ensiru	id=25571
+Tigrigna (Original)	ጐራሕ  ድሙን   ዓሻ  ከልብን	id=21705

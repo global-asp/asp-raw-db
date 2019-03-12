@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=31700&d=0&a=1
+id:	31700
+title:	Omuhepe Nomukoyesi  Wompela
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	Olunyaneka
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31700.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 18:1-8@@Sesu wevehipululila ontengelepopya imwe oco evelongese okuti vena yokulikwambela apeho nokwahaheveya. Ongo ati:@@Mepundaumbo limwe mwakalele omukoyesi umwe wompela anko wehena woma naHuku nokwehena ontilo nomuntu nawike.
+P2	Ngwe mepundaumbo olyo tupu mwali omuhepe umwe anko utainja apeho omukoyesi wompela nokumwiita okuti: "Nkwateseko okukoyesa ompela yange nonjale yange."
+P3	Aanye ehimbwehimbwe okukwatesako omuhepe.
+P4	Ngwe ontiki imwe elipopila ati: "Nampila nahatili owoma Huku nokwehena ontilo nomuntu nawike. Mwaina njina yokukwatesako omuhepe ou okukoyesa ompela yae ceeci kayekepo okumpikitisa, anko himukwatesako kamanjeke njifimepo."
+P5	Pahe Tatekulu ati: "Tehelei capopya ongangala omukoyesi wompela. Ngokuti Huku kamakalinga eci cavyuka kocikumba cae cikalavanja kwee, ocitenya nocintiki pokucihukulula? Okuti masete okucikwatesako?"
+P6	"Ame njimutolela okuti makalingila liwaliwa ociwa kocikumba cae. Okuti hamwe Omona womuntu cina makakondoko ukavasa ekolelo pano pohi?"
+
+images:
+
+illustrations/pages/27415.png
+illustrations/pages/27417.png
+illustrations/pages/27418.png
+illustrations/pages/27419.png
+illustrations/pages/27415.png
+illustrations/pages/27420.png
+illustrations/pages/27421.png
+illustrations/pages/27422.png
+
+translations:
+
+Cinyungwe (Translation)	Mtongi na Mantsiwa	id=31698
+Cisena (Translation)	Nkazi Wakuferwa na Mamuna  na Nyakutonga Mise	id=31699
+Elomwe (Translation)	Naamukhwele ni Mulipa Oothoriha	id=31696
+English (Original)	The Persistent Widow	id=31660
+Portuguese (Translation)	A Viúva e o Juiz	id=31695

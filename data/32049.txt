@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=32049&d=0&a=1
+id:	32049
+title:	Losing my mother
+author:	African Storybook and Musika Emmanuel
+artist:	Melany Pietersen and Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32049.png
+desc:	When my mother died
+
+page_text:
+
+P1	She carried me for nine months.
+P2	She made sure that I grew up healthy and strong.
+P3	She put me to bed every night.
+P4	She made sure that I woke up early every morning.
+P5	She took me shopping at the market.
+P6	And allowed me to choose my own shoes and clothes.
+P7	She counselled me whenever I went wrong.
+P8	I will never forget her love in my life.
+
+images:
+
+illustrations/pages/17356.png
+illustrations/pages/26035.png
+illustrations/pages/26039.png
+illustrations/pages/9501.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9492.png
+illustrations/pages/26037.png
+
+translations:
+
+English (Original)	Losing my mother	id=24580
+Kinyarwanda (Translation)	Nabuze Mama Wange	id=32146
+Lusoga (Translation)	Okufiirwa maama ghange	id=29799

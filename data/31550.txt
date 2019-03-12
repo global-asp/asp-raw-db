@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=31550&d=0&a=1
+id:	31550
+title:	Epuri, Mwalapwa ni Emope
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Elomwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31550.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	Epuri, Mwalapwa ni Emope yaapaka onthwamene aya. Nihiku nimoha, yaaheeca mukwaha aya mukhaaroni.
+P2	Yaaphiyalaaya yaayaayawo, mulipa aweeciha aahaaveka ikhorowa wi elive mukwaha aya.@@Emope yooliva.
+P3	Mwalapwa aaliva moopwapwiha, ntakhara haarino saakhweleya.
+P4	Mulipa aweeciha arehereryaka ikhorowa, wi amucikiherye Mwalapwa, Epuri yaachawa ehilinve echu.
+P5	Mulipa aweeciha aananariwa, apwaha ahimunnya Mwalapwa ikhorowa sawe aahanleiyeno.
+P6	Vanthowa nenla ophiyerya olelo Mwalapwa oona ekhaaro onniikara awehaka mpuwa wi amoone mulipa aweeciha aahanleno ikhorowa sawe.
+P7	Epuri ennachawa yiiwaru oruma wa ekhaaro enoova wi enaphariwa vawi hiyaalinve.
+P8	Emope henuukhuwaru yoona ekhaaro erwaaka, eneeca okhwela waya muramphani, ntakhara yoosuwela wi yooliva mwawaakwana.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu ndi Ng'ombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

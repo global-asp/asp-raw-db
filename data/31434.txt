@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=31434&d=0&a=1
+id:	31434
+title:	O Rico Sem Juizo
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31434.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Lucas 12:15-23, 30-31@@Jesus disse a todos: "Tenham cuidado! Evitem todo tipo de avareza, pois a vida de um homem não depende das coisas que ele tem, mesmo que seja muito rico."@@E então lhes contou esta parábola:
+P2	As terras de certo homem rico tinham produzido uma colheita muito boa.@@Então ele pensou: "Eu não tenho lugar para guardar a minha colheita. O que vou fazer?"
+P3	Então disse: "Já sei o que vou fazer! Vou demolir os meus celeiros e construir outros maiores. Assim poderei guardar toda a minha colheita e todos os meus bens!"
+P4	"Daí poderei dizer a mim mesmo: 'Homem, você já tem muitas coisas boas guardadas para muitos anos. Portanto descanse, coma, beba e se divirta!'"
+P5	Deus, porém, lhe disse: "Tolo! Esta noite a sua alma lhe será tirada. Com quem ficarão todas as coisas que você guardou?"
+P6	A mesma coisa acontecerá para aqueles que acumulam tesouros para si mesmos, mas que não são ricos para com Deus.
+P7	Depois disso Jesus disse aos seus discípulos: "Por isso eu lhes digo: Não se preocupem com a vida de vocês e com o que vão comer;
+P8	nem com o corpo de vocês e com o que vão vestir. Pois a vida é mais importante do que comida e o corpo é mais importante do que roupas."
+P9	"As pessoas do mundo é que estão sempre procurando essas coisas. Mas o Pai de vocês sabe que precisam delas. Mas, antes de tudo, ponham em primeiro lugar em suas vidas o reino de Deus e ele lhes dará aquelas outras coisas."
+
+images:
+
+illustrations/pages/27268.png
+illustrations/pages/27266.png
+illustrations/pages/27267.png
+illustrations/pages/27269.png
+illustrations/pages/27268.png
+illustrations/pages/27270.png
+illustrations/pages/27271.png
+illustrations/pages/27279.png
+illustrations/pages/27278.png
+illustrations/pages/27275.png
+
+translations:
+
+Cinyungwe (Translation)	Munthu Wakudala Wakusaya Ndzeru	id=31543
+Cisena (Translation)	M'pfumi Wakusowa Ndzeru	id=31548
+English (Translation)	The Rich Fool	id=31542
+Olunyaneka (Translation)	Omuhona Ondamba	id=31544

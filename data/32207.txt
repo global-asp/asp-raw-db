@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=32207&d=0&a=1
+id:	32207
+title:	As Terças-feiras Felizes
+author:	Rafael Ernesto Samuel
+artist:	Aisha  Muamba
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32207.png
+desc:	Este livro de estórias lembra-nos que devemos reconhecer e valorizar o que é importante na vida. (Esta estória foi criada num programa de férias administrado pelos serviços psicológicos da comunidade de Sophiatown em Joanesburgo
+
+page_text:
+
+P1	Era uma vez, havia uma menina chamada Linda. Ela vivia com as suas duas irmãs, o irmão e a sua mãe.@@Ela era uma menina muito feliz e activa.
+P2	A sua melhor amiga chamava-se Epifânia. @@Elas se confiavam bastante e partilhavam os seus segredos.
+P3	Todas as Terças-feiras, a Linda e a sua amiga Epifânia iam ao cinema porque lá ofereciam pipocas de borla.
+P4	Depois de assistirem filme, elas iam ao parque escutar música.@@Divertiam tomando sorvetes.
+P5	Este foi o dia feliz da Linda.@@Assistindo um bom filme com pipocas de borla.
+P6	Em seguida, escutar música, tomando sorvete com a sua amiga Epifânia no parque.
+P7	Os momentos da felicidade não duram para sempre.@@Aprenda a valorizar os momentos da sua felicidade...
+P8	...E estima as pessoas com quem partilha esses momentos.
+
+images:
+
+illustrations/pages/27698.png
+illustrations/pages/27693.png
+illustrations/pages/27694.png
+illustrations/pages/27695.png
+illustrations/pages/27697.png
+illustrations/pages/27696.png
+illustrations/pages/27692.png
+illustrations/pages/27698.png
+illustrations/pages/27699.png
+
+translations:
+
+English (Original)	Happy Tuesdays	id=31985
+isiZulu (Translation)	OLwesibili benjabulo	id=32234
+Kiswahili (Translation)	Jumanne zenye furaha	id=31999
+Lingala (Translation)	Mokolo ya mibale ya esengo	id=32190

@@ -1,0 +1,67 @@
+url:	https://africanstorybook.org/reader.php?id=31761&d=0&a=1
+id:	31761
+title:	Idiki
+author:	Lilian Chaminuka
+artist:	Sandy Lightly
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/31761.png
+desc:	Lebo akura zvekuti haachakwani mbatya dzake dzese. Achaitei nadzo?
+
+page_text:
+
+P1	"Amai," akadanidzira Lebo. "Huyai muone. Mbatya dzese idzi dzava diki!" @@"Rega ndione," Amai vakamupindura.
+P2	"Honai siketi yangu. Yave diki," akadaro Lebo. @@"Hongu, yavediki. Nomsa anogona kuipfeka," vakadaro Amai.
+P3	"Honai majinhi (jeans) angu. Ave madiki," akadaro Lebo. @@"Hongu ava madiki. Nomsa anogona kumapfeka," vakadaro Amai.
+P4	"Honai  T-shirt yangu. Yave diki," akadarozve Lebo. @@"Hongu, yave diki. Nomsa anogona kuipfeka zve," vakadaro Amai.
+P5	"Honai juzi rangu," akadaro Lebo. @@"Hongu, rave diki. Nomsa anogona kuripfeka," vakadaro Amai.
+P6	"Honai  raincoat yangu. Yave diki," akadarozve Lebo. @@"Hongu, yave diki. Nomsa anogona kuipfeka," vakadaro Amai.
+P7	"Honai  masokisi angu. Ave madiki," akadarozve Lebo. @@"Hongu, ave madiki. Nomsa anogona kuapfeka," vakadaro Amai.
+P8	"Honai  shangu dzangu. dzave diki," akadarozve Lebo. @@"Hongu, dzave diki. Nomsa anogona kudzipfeka," vakadaro Amai.
+P9	"Wava nembatya dzakawanda," Lebo akaudza Nomsa. @@"Kwete handina," Nomsa akapindura. "Mbatya idzi ihombe kwandiri!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te Klein	id=11428
+English (Original)	Too small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane izimpahla zami	id=2504
+Khoekhoegowab (Translation)	Kaise ǂkhari	id=31763
+Kiswahili (Translation)	Ndogo sana, Kubwa sana	id=7877
+Luganda (Translation)	Ntono Nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Bibombi Naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21093
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21100
+Lusoga (Translation)	Ntonioli	id=20904
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Oshikwanyama (Translation)	Oikutu inini	id=31568
+Oshindonga (Translation)	Okashona unene	id=31504
+Otjiherero (Translation)	Okatiti tjinene	id=31513
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rukwangali (Translation)	Musesugona	id=31482
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ga Di Ntekane	id=2509
+Sesotho (Lesotho) (Translation)	Ha Li Ntekane	id=2512
+Sesotho (South Africa) (Translation)	E nyanyane haholo	id=32211
+Setswana (Translation)	E nnye thata	id=31775
+Tshivenḓa (Translation)	Zwo ṱukufhalesa	id=31831

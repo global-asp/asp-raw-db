@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=31622&d=0&a=1
+id:	31622
+title:	Mulipa Oomisa
+author:	Little Zebra Books
+artist:	Tamsin  Hinrichsen
+lang:	Elomwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31622.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luuka 8:5-15@@Yeesu aahi:@@Mulopwana mmoha aamisa mmiso awe.
+P2	Amisaka, mmoha waamorela vakhiviru wa mphiro, onyikaliwa ipalame irwa ethupavo.
+P3	Mmiso mukina waamorela vamalukuni, nsuwa naavihalaaya waahuuma ntakhara hiwaanaanavo.
+P4	Mmiso mukina waamorenle vamiiwani, winnuwaka waaninnuwa vamoha ni miiwa inyoka.
+P5	Mmiso mukina waamorenle echaya yaphaama, winnuwa wiimiha sawiima sincipale.@@Aalonceiye yeela, Yeesu aakhuwela: "Ori ni maaru, iiwe!"
+P6	Oohuserya awe yaamukoha eriki: "Tisheeni nnataphulelaaya niphwanaphwaniho nla?"@@Yeesu aahi: "Wa nyuwo, moovahiwa osuwela soovitheya sa omwene wa Muluku."
+P7	"Echu nnataphulelaaya niphwanaphwaniho nla tiila: Mmiso, ti masu a Muluku."
+P8	"Yoowo waamorenle mukhice wa ephiro, ti achu yaawo aniiwa masu, onnarwa Musaserya aviihamo masu, yaawo yaaliwe mwa yaawo wi ehiroromele wi evulushiwe."
+P9	"Mmiso waamorenle vamalukuni, ti achu yaawo aniiwa masu yaakhela ni ohakalala. Vawi hanakhalano mitataari elukuluku yavakhaani annaroromela, yaphiya yaweeha annahiya."
+P10	"Waamorenle vamiiwani, ti achu yaawo aniiwa, nto va nthowa na muhakhu ni soochunachuna sa mwiili, annahuruweleya enyokeya ehiwerya wiimiha sawiima."
+P11	"Mmiso waamorenle echaya yaphaama, ti achu yaawo aniiwa masu ni murima waphaama enakhapelela ophiyerya yiimale sawiima saphaama."
+
+images:
+
+illustrations/pages/27344.png
+illustrations/pages/16267.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16270.png
+illustrations/pages/16271.png
+illustrations/pages/16289.png
+illustrations/pages/16286.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16287.png
+illustrations/pages/16285.png
+
+translations:
+
+Cinyungwe (Translation)	Mulimi na Mbeu Yace	id=31625
+Cisena (Translation)	Nyakuwaza Mbeu	id=31624
+Ciyawo (Translation)	Citagu Ca Mundu Jwa Kumisa Mbeju	id=19040
+English (Original)	The Sower	id=16245
+Ikisimbëtë (Translation)	Ëkërëngyö ikya Imbusiro	id=24797
+Olunyaneka (Translation)	Omukuvi	id=31623
+Portuguese (Translation)	“a Parábola Do Semeador”	id=19041

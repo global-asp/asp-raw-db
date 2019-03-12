@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=32054&d=0&a=1
+id:	32054
+title:	Nanngooɓe Colli
+author:	Kulsumi Iisa
+artist:	Emily Berg, Magriet Brink, Marion Drew, Marleen Visser, Rob Owen and Wiehan de Jager
+lang:	Fulfulde Mbororoore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32054.png
+desc:	Ɗum habaru dow ɓiɓɓe aluɓe janngirde ngam nasta laynde nannga colli.
+
+page_text:
+
+P1	Ko saali e woodi ɓiɓɓe famarɓe, worɓe tato e debbo gooto.  Innde wuro maɓɓe Nakiwiga.
+P2	Ɓe fuu e ɓe njannga.
+P3	Dow laawol yahugo janngirde maɓɓe ɓe nani bojji colli.
+P4	Nyalaande feere ɓiɓɓe worɓe tato e debbo goʼooto e dow laawol, ɓe ngaɗi dabare alugo janngirde, ɓe nasta laynde ngam nanngugo colli.
+P5	Sonndu feere fuɗɗi yimugo:@@"On mbiʼi mi halli, @ammaa mi hallaa.@On mbiʼi mi halli, @ammaa mi hallaa."
+P6	Ndu ɓeydi wiʼugo, "Mi hallaa. Ammaa to on tokkii wiʼugo e mi halli, ragaree on ngiʼay e mi halli." Ɓiɓɓe nanngi sonndu ndun, kootidi wuro.
+P7	Nde ɓe njottii wuro ɓe kirsi ɓe nyaamindu.
+P8	Nde weeti ɓe fuu ɓe maayi, ngam kusel sonndu ndun woodi tooke.
+
+images:
+
+illustrations/pages/9193.png
+illustrations/pages/7961.png
+illustrations/pages/9192.png
+illustrations/pages/9594.png
+illustrations/pages/6731.png
+illustrations/pages/7572.png
+illustrations/pages/8549.png
+illustrations/pages/8555.png
+illustrations/pages/8162.png
+
+translations:
+
+Dhopadhola (Translation)	Judwaar Winyo	id=20596
+English (Original)	Bird Hunters	id=9934
+English (Adaptation)	Bird Hunters	id=23936
+Hausa (Nigeria) (Translation)	Mafarauta Tsuntsu	id=21359
+Luganda (Translation)	Abayizzi B'ebinyonyi	id=17006
+Lusoga (Translation)	Abayiizi  ab'ebinhonhi	id=25052

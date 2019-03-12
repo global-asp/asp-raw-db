@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=32125&d=0&a=1
+id:	32125
+title:	Rǝldo, Ŋina na Dia
+author:	Apalo Mana
+artist:	Marleen Visser
+lang:	Moro
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32125.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	Rǝldo, Ŋina na Dia lafo laɽo rappa kañ. @@Lomanǝŋ lënŋulu labǝɽo rela laborṯo ṯaksia.
+P2	Ŋen lënŋulu ɽrǝmaṯo ekal is lǝweṯa, maje igi gǝlëldǝñia ṯaksia nǝŋǝlëiṯi lǝpǝɽǝđia algrus esen. @@Dia nǝŋǝpǝɽǝđe algrus yilëɽǝŋu.
+P3	Ŋina nǝŋǝpǝɽǝđe algrus ywaña, ŋenŋanṯa ŋënŋu ŋafo ŋero ŋǝlerṯa is yeɽɛwađaṯo.
+P4	Maje igi gǝlëldǝñia ṯaksia ṯaŋonaṯo ṯa guɽǝbiṯia Ŋina algrus isi yiṯëđǝnu. @@Orn, Rǝldo nǝŋobǝđe taltal rero rǝpǝɽǝđia.
+P5	Maje igi gǝlëldǝñia ṯaksia nǝŋǝciṯi nano.@ @Na gënŋu nǝŋǝtuđi ṯaksia nǝŋǝɽe gero guɽǝbiṯia ŋina algrus is yiṯëđǝnu.
+P6	Nǝṯia đǝge, điñiđi mǝldin, Ŋina ŋalëldǝñia irabiya. @@Ŋënŋu ŋëninia maje igi gǝlëldǝñia Arabiya ŋonaṯama algrus nano yilëɽǝŋu.
+P7	Rǝldo ralëldǝñǝṯia ŋwal ŋarabiya. @@Rënŋu rëđiñia ṯa riđi arëndǝni ŋenŋanṯa rero rǝpǝɽǝđia.
+P8	Dia raber rǝbǝɽǝca irabiyano. @@Dia rakǝlǝđia rađano rǝbǝrlda aten. @@Rënŋu ralǝŋeṯa rapǝđo algrus yilëɽǝŋu.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu ndi Ng'ombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

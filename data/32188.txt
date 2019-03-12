@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32188&d=0&a=1
+id:	32188
+title:	Esika ya esengo
+author:	Theresa  Nyemba
+artist:	Summayya  Muamba
+lang:	Lingala
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32188.png
+desc:	Likanisi oyo epesalemi na elenge mwasi oyo akosunga babange. (Likanisi esalamaki na bopemi ya bana na Sophiatown Community Psychological Services na Johannesburg
+
+page_text:
+
+P1	Oyo esali likanisi na ngai, po etali ndako babange.
+P2	Ezali ndako ya monene na Bertrams, Johannesburg. Lopango bapakoli langi, pe ezali kitoko pe kimia na kati. Bato oyo bafandi kuna bazali penza mikolo. Maman na ngai amemaki biso mokolo moko.
+P3	Ndako oyo ya babange ezali esika na ngai ya esengo! Nazalaka na esengo soki namoni babange pe kosalisa bango.
+P4	Mokolo moko nakei kuna pe nasukoli ndambo ya babange suki na bango.
+P5	Pe napesi bango bilei. Ndambo ya babange basalaki kobanga, kasi nakosepela kozala wana.
+P6	Ezalaki na moko ya babange azalaki na kanda pe azalaki kolinga te bato basalisa ye. Abandi konganga.
+P7	Ezalaki na mobange mosusu ya mwasi, nasimbaki ye na loboko pe alingaki ngai na kende te. Loboko na ye ezalaki moto. Azalaki na kombo moko na ndeko na ngai, Aisha.
+P8	Babange bapesaki ngai esengo. Bazali na makambo eleka oyo tokoki koyeba te.
+
+images:
+
+illustrations/pages/27702.png
+illustrations/pages/27701.png
+illustrations/pages/27702.png
+illustrations/pages/27703.png
+illustrations/pages/27704.png
+illustrations/pages/27705.png
+illustrations/pages/27706.png
+illustrations/pages/27700.png
+illustrations/pages/27707.png
+
+translations:
+
+English (Original)	My happy place	id=31939
+isiZulu (Translation)	Indawo enginikeza intokozo	id=32236
+Kiswahili (Translation)	Fashi ya furah	id=32199
+Kiswahili (Translation)	Pahali pangu pa furaha	id=32202
+Portuguese (Translation)	O lugar da minha felicidade	id=32206

@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31729&d=0&a=1
+id:	31729
+title:	Etsingubo tsianje etsiamumasomero
+author:	Peter Wanga
+artist:	Mlungisi Dlamini
+lang:	Oluwanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31729.png
+desc:	Mushitabu shino
+
+page_text:
+
+P1	Lirinda eliomukhana wefu nelirambi khwesie!
+P2	Omuchosi kwomusiani wefu nomubambalifu khwesie.
+P3	Iloloti yanje neikhongo. Habula sineikhoongo sana tawe!
+P4	Omushipi omukofu kuno nomutiti khwesie.
+P5	Ikofia ino niyeshifwanani shiomwana wanje.
+P6	Tsisoksi tsianje tsibera obulayi. Lakini ikala yatsio neimbi.
+P7	Fino nefilaro fianje efiyaakha.
+P8	Fimbera obulayi po.
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+Ekegusii (Translation)	Chianga chiane chiesukuru	id=31837
+English (Original)	My school clothes	id=31708
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Kikamba (Translation)	Ngũa syakwa sya sukulu	id=32168
+Lingala (Translation)	Bilamba na ngai ya kelasi	id=31795
+Lubukusu (Translation)	Chiingubo chaange cheesisomelo	id=31746
+Sepedi (Translation)	Diaparo tša ka tša sekolo	id=32066
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827
+Tshivenḓa (Translation)	Zwiambaro zwanga zwa tshikolo	id=32026

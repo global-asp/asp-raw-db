@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=31838&d=0&a=1
+id:	31838
+title:	Ekebusi, Esese amo ne'ekegwankwa
+author:	Gladys Nyachieo
+artist:	Elke and René Leisink
+lang:	Ekegusii
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31838.png
+desc:	Ekebusi amo nesese nigo bikorigereria korwa etirisa. Bikorigerei korwa etirisa
+
+page_text:
+
+P1	Eke ne'ekebusi.@@Eye ne'sese.
+P2	Ekebusi nesese bikorigereria korwa etirisa.@@Bikorigereria korwa etirisa.
+P3	Nari erio Ekebusi nesese bikorora ekegwankwa!@@Ekegwankwa ekio nigo keresitigamu.
+P4	Ekebusi nesese nigo bitagete kobuata ekegwankwa.@@Ekebusi nesese biabwatirie ekegwankwa.@@Biabwatirie ekegwankwa.
+P5	Ekebusi nesese bikobwatia ekegwankwa namagoro. Bigotara magega ya ekegwankwa.@@Korende ekegwankwa nigo kere bwango. Ekegwankwa nigo kere bwango, esese neekebusi nigo bigotara ng'ora. Nigo bire ng'ora mono.
+P6	Ekebusi nesese bikobwatia ekegwankwa neenyange. Bikogendia magega yekegwankwa.@@Korende ekegwankwa nigo kere bwango. Ekegwankwa nigo kere bwango mono, ekebusi nesese nigo bire ng'ora. Nigo bire ng'ora mono.
+P7	Ekebusi nesese bikobwatia ekegwankwa negari. Bikogendi magega yeekegwankwa.@@Korende ekegwankwa nigo kere bwango. Ekegwankwa nigo kere bwango mono, Ekebusi Nesese nigo bire ng'ora. Nigo bire ng'ora mono.
+P8	Ekebusi nesese bikobwati ekegwankwa nobwato. Nigo bigoterema magega yekegwankwa.@@Ekegwankwa nigo kere bwango. Ekegwankwa nigo kere bwango mono, ekebusi nesese nigo bire ng'ora. Nigo bire ng'ora mono.
+P9	Ekebusi nesese nigo bikobwatia ekegwankwa nendege. Bikoiruruka magega yeekegwankwa.@@Korende ekegwankwa nigo kere bwango. Ekegwankwa nigo kere bwango mono, ekebusi nesese nigo bire ng'ora. Nigo bire ng'ora mono.
+P10	Ekero ekio ekebusi nesese biatenena. Biatenena  nagoikaransa. Biakaransa inse yomote.@@Biakaransa inse yomote omonene.@@Ekero ekio...
+P11	Biarora ekegwankwa ekemo omote igoro.@@Biarora ebigwankwa bibere omote igoro.@@Biarora ebigwankwa bitato omote igoro.
+P12	Biarorire ebigwankwa emia eyemo!
+P13	Kwaeri Ekebusi.@@ Kwaeri Esese.@@ Kwaeri ebigwankwa.
+P14	.
+
+images:
+
+illustrations/pages/25582.png
+illustrations/pages/25584.png
+illustrations/pages/25585.png
+illustrations/pages/25586.png
+illustrations/pages/25587.png
+illustrations/pages/25588.png
+illustrations/pages/25589.png
+illustrations/pages/25590.png
+illustrations/pages/25591.png
+illustrations/pages/25592.png
+illustrations/pages/25593.png
+illustrations/pages/25594.png
+illustrations/pages/25595.png
+illustrations/pages/25596.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiShona (Translation)	Kiti na Imbwa neShavishavi	id=31762
+English (Original)	Cat and Dog and the butterfly	id=21980
+isiZulu (Translation)	Ikati, inja novemvane	id=31811
+Kikamba (Translation)	Mbaka na Ngitĩ na kĩmbalutya	id=32167
+Lingala (Translation)	Niawu na mbwua na kipekapeka	id=31815
+Lubukusu (Translation)	Eepuusi nende Eembwa nende siipuruupuru	id=31748
+Oluwanga (Translation)	Ipusi nende Imbwa nende imburukuru	id=31758
+Oluwanga (Translation)	Ipusi nende Imbwa nende Imburukuru	id=31796
+Sepedi (Translation)	Katse le Mpša ka morago ga Serurubele	id=32063
+Sesotho (South Africa) (Translation)	Katse le Ntja le serurubele	id=31797
+Setswana (Translation)	Katse le Ntšwa le serurubele	id=31773
+Tshivenḓa (Translation)	Tshimange na Mmbwa na tshisusu	id=31841

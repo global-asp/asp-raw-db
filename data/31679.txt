@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31679&d=0&a=1
+id:	31679
+title:	Sara Lɛlɛ lɛ
+author:	Ezekiel Johnson
+artist:	Rachel  Greer
+lang:	Ga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31679.png
+desc:	Sara miiwa mɛi kɛ kooloi ni amɛfo faa lɛ yɛ elɛlɛ lɛ mli
+
+page_text:
+
+P1	Sara yɛ lɛlɛ.@Elɛlɛ lɛ da.@Ema faa lɛ naa.
+P2	Yei komɛi ba faa lɛ naa. Mᴐ kome hiɛ gagba ni aduawai yɛ mli.@Yoo kroko hu hiɛ wuᴐ. Mᴐ kroko hu hiɛ too abotia. Ni Mᴐ kroko hu hiɛ abotiai enyᴐ. @@Amɛ bi Sara akɛ, "Te wᴐbaafee tɛŋŋ wᴐyashɛ faa lɛ sɛɛ?"@Sara kɛɛ, "Nyɛ botea milɛlɛ lɛ mli!"
+P3	No mli nᴐŋŋ ni hii komɛi hu bashɛ shi. Hii lɛ ateŋ mᴐ kome hiɛ loo. Mᴐ kome hu hiɛ okᴐᴐkpe. Mᴐ kroko hu hiɛ abele kɛ kotoku.
+P4	Nuu kroko hu hiɛ abele kɛ kotokui enyᴐ. @Amɛ bi Sara akɛ, "Te wᴐbaafee tɛŋŋ ni wᴐyashɛ faa lɛ sɛɛ?"@Sara here nᴐ ekɛɛ, "Nyɛ botea milɛlɛ lɛ mli!"
+P5	Kooloi komɛi ba faa lɛ naa. @Amɛ bi Sara akɛ, "Te wᴐbaafee tɛŋŋ wᴐbaafo faa lɛ?"@Sara kɛɛ, "Nyɛ botea milɛlɛ lɛ mli!"
+P6	Kooloi lɛ bote lɛlɛ lɛ mli.@Gbee lɛ bote lɛlɛ lɛ mli. @Alᴐŋte lɛ bote lɛlɛ lɛ mli. @Aduŋ lɛ bote lɛlɛ lɛ mli. @Kpɛŋkpɛ̃lɛ̃ lɛ bote lɛlɛ lɛ mli. @Gosaŋe lɛ bote lɛlɛ lɛ mli.@Baayelᴐ lɛ bote lɛlɛ lɛ mli.
+P7	Shwuᴐ hu bashɛ faa lɛ naa. @Ebi akɛ, "Te mafee tɛŋŋ ni mashɛ faa lɛ sɛɛ?" @@Sara kɛɛ, "Botemᴐ milɛlɛ lɛ mli!" @@Shwuᴐ lɛ bote lɛlɛ lɛ mli. Lɛlɛ lɛ yi kɛ nu.
+P8	Lɛlɛ lɛ yɛ bibioo tsᴐ. Gbɛ faa yɛ mli nakai.
+P9	Sara kɛɛ, "Nyɛ mɛa! Klɛŋklɛŋ lɛ, mi kɛ yei lɛ baaya."
+P10	Sara kɛɛ, "No sɛɛ lɛ, mawo hii lɛ kɛya."
+P11	Sara kɛɛ, "Naagbee kwraa lɛ, mawo kooloi lɛ."
+P12	Shwuᴐ lɛ kɛɛ, "Mi lɛ manyiɛ moŋ kɛkɛ!"
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

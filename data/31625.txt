@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=31625&d=0&a=1
+id:	31625
+title:	Mulimi na Mbeu Yace
+author:	Little Zebra Books
+artist:	Tamsin  Hinrichsen
+lang:	Cinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31625.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 8:5-15@@Jezu adalewa m'fananizo adati: @@Mulimi adayenda kukabzala.
+P2	Pomwe iye akhabzala, mbeu inango idagwera m'phepete mwa njira. Idapondedwa, ndipo mbalame za kudzulu zidaidya.
+P3	Ndipo mbeu inango idagwera paminyala, pomwe idamera miti yace idauma thangwe lakusaya m'nyontho.
+P4	Inango idagwera pakati pa minga, idamera icikula pabodzi na mingayo tsono idatutumuka.
+P5	Tsono inango idagwera pandovolo. Idakula icibala bzisapo bzizinji, ibodzi na ibodzi ikhana dzana.@@Atamala kulewa bzimwebzi, adakuwa aciti: "Ule ana makutu yakubva, abve!"
+P6	Ndipo ateweri wace adamubvundza bzomwe ukhalewa m'fananizo ule.  @@Jezu adati: "Imwepo mudapasidwa kudziwa bzakubisika bza Umambo bwa Mulungu. Tsono kuna anango nimbalewa na mifananizo, kuti 'Ambanyang'anisa, tsono ambawona lini. Ndipo ambabva tsono ambabvesesa lini.'"
+P7	"Kuthumbudzula kwace ni uku: Mbeu ni Fala la Mulungu."
+P8	"Ire yomwe idagwera munjira ni wanthu omwe ambabva fala, tsono Dyabu ambabwera acicosa fala mumitima mwawo, kuti asaye kukhulupirira aleke kupulumusidwa."
+P9	"Ndipo ire yomwe idagwera paminyala ni wanthu omwe ambabvuma fala na mpfatso akalibva, tsono alibe muzi. Ambakhulupirira panthawe ing'ono-ng'ono, tsono akagumana na mphicha ambasiya."
+P10	"Ire yomwe idagwera pakati paminga ni wanthu omwe ambabva, tsono pakutewera njira zawo ambadza tutumuka thangwe ra kusaya mpata na cuma napombo bzakufuna bzamoyo uno. Ndipo iwo ambadzakhwima lini."
+P11	"Tsono ire yomwe idagwera pamataka ya ndovolo ni wanthu omwe ana mtima wabwino na wacifundo, ambabva mafala aciyakoya ndipo ambabala bzisapo na kulimbika."
+
+images:
+
+illustrations/pages/27344.png
+illustrations/pages/16267.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16270.png
+illustrations/pages/16271.png
+illustrations/pages/16289.png
+illustrations/pages/16286.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16287.png
+illustrations/pages/16285.png
+
+translations:
+
+Cisena (Translation)	Nyakuwaza Mbeu	id=31624
+Ciyawo (Translation)	Citagu Ca Mundu Jwa Kumisa Mbeju	id=19040
+Elomwe (Translation)	Mulipa Oomisa	id=31622
+English (Original)	The Sower	id=16245
+Ikisimbëtë (Translation)	Ëkërëngyö ikya Imbusiro	id=24797
+Olunyaneka (Translation)	Omukuvi	id=31623
+Portuguese (Translation)	“a Parábola Do Semeador”	id=19041

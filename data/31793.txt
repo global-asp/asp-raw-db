@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=31793&d=0&a=1
+id:	31793
+title:	Re  bala dikatse, lefela ho fihla ho robong
+author:	Thelma Tshesane
+artist:	Jesse Breytenbach
+lang:	Sesotho (South Africa)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31793.png
+desc:	E thusa bana ho bala dikatse ho tloha ho nnoto ho fihlela ho robong.
+
+page_text:
+
+P1	Ke dikatse tse kae?@@ 0 nnoto.
+P2	Ke dikatse tse kae?@@1 Katse e le nngwe.
+P3	Ke dikatse tse kae?@@2  Dikatse tse pedi.
+P4	Ke dikatse tse kae?@@3 Dikatse tse tharo.
+P5	Ke dikatse tse kae?@@4 Dikatse tse nne.
+P6	Ke dikatse tse kae?@@5 Dikatse tse hlano.
+P7	Ke dikatse tse kae?@@6 Dikatse tse tsheletseng.
+P8	Ke dikatse tse kae?@@7 Dikatse tse supileng.
+P9	Ke dikatse tse kae?@@8 Dikatse tse robedi.
+P10	Re bonang? @@Ledinyane le tshwasehehile sefateng! @@@"Ke tla ho pholosa!"
+P11	"Mme, re ka e rua hape? @@ Ke dikatse tse kae?@@9 Dikatse tse robong.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Afrikaans (Translation)	Tel die katte	id=31791
+ChiShona (Translation)	Kuverenga kiti	id=31751
+Dhopadhola (Translation)	kwano pus	id=23214
+Ekegusii (Translation)	Kobara ebibusi	id=31755
+English (Adaptation)	Counting cats	id=12156
+isiZulu (Translation)	Ukubala amakati	id=31790
+Kikamba (Translation)	Kũtala mbaka	id=31753
+Kiswahili (Translation)	Kuhesabu paka	id=32196
+Lingala (Translation)	Ba niawu bazali boni?	id=31794
+Lubukusu (Translation)	Khuubala Chipuusi	id=31858
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala puusi	id=27336
+Oluwanga (Translation)	Okhubala Tsipusi	id=31769
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584
+Sepedi (Translation)	Go bala dikatse	id=32065
+Tshivenḓa (Translation)	U vhala zwimange	id=31792

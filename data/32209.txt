@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=32209&d=0&a=1
+id:	32209
+title:	A Estrela do futebol
+author:	Rafael Ernesto Samuel
+artist:	David J M
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32209.png
+desc:	Um precioso presente proveniente do seu pai ajuda um menino a se tornar uma estrela de futebol. (Esta estória foi criada num programa de férias administrado pelos serviços psicológicos da comunidade de Sophiatown em Joanesburgo
+
+page_text:
+
+P1	A um milhão de anos atrás, uma gema de futebol foi formada. @@Quando ela foi descoberta, as pessoas lutaram pela posse desta joia poderosa.
+P2	Durante a primeira Guerra mundial de futebol a gema desapareceu. Ninguém sabia o que havia acontecido com ela.@@Passaram muitos anos. A gema apenas viria a ser encontrada caso uma valiosa estrela de futebol viesse a nascer.
+P3	À poucos dias, surge um rapaz de nome Davide. Ele vinha de uma família pobre.
+P4	Antes do pai de Davide morrer, ele deu uma gema de futebol ao seu filho.@@Em princípio, o rapaz não tinha noção do poder da jóia.
+P5	Ele desperta a sua gema no futebol na fase de adolescência. @@Davide nunca tinha ido a escola. Mas com a sua gema poderosa, ele ganhava todos os jogos contra os seus amigos.
+P6	Ele descobriu que através de futebol, podia fazer dinheiro para a família.@@Abriu uma loja para a sua mãe e colocou os seus irmãos na escola.
+P7	O Davide tornou o melhor jogador professional de futebol jamais visto. @@Até as pessoas diziam que ele era do outro mundo!
+P8	Davide, a inesquecível estrela do futebol!
+
+images:
+
+illustrations/pages/27832.png
+illustrations/pages/27833.png
+illustrations/pages/27834.png
+illustrations/pages/27835.png
+illustrations/pages/27836.png
+illustrations/pages/27837.png
+illustrations/pages/27838.png
+illustrations/pages/27839.png
+illustrations/pages/27832.png
+
+translations:
+
+English (Original)	Soccer star	id=32046
+isiZulu (Translation)	Ingqwele yebhola	id=32237
+Kiswahili (Translation)	Nyota wa Soka	id=32068
+Lingala (Translation)	Mobeti ya ndembo	id=32181

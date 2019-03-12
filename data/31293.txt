@@ -1,0 +1,74 @@
+url:	https://africanstorybook.org/reader.php?id=31293&d=0&a=1
+id:	31293
+title:	Asiimwe's special mat
+author:	Julius  Alinda
+artist:	Catherine Groenewald
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31293.png
+desc:	The story is about Asiimwe and how her mat protects her.
+
+page_text:
+
+P1	This is Asiimwe when she was still young.@@Her mother used to make her sleep on a mat.
+P2	The mat was very well decorated.
+P3	Asiimwe's home environment was bad.
+P4	Even if it was bad the mat protected her.
+P5	Asiimwe learnt of the location of the community well and her grandmother's home.
+P6	One day she headed for her grandmother's home and got lost.
+P7	She sat down, fell asleep and started dreaming.
+P8	She dreamt of her grandmother.
+P9	When she woke up, a bird guided her home.
+P10	Her mother was very happy to see her and welcomed her home.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6003.png
+illustrations/pages/6006.png
+
+translations:
+
+Afrikaans (Translation)	Abike se dag	id=21977
+English (Original)	Akai's special mat	id=6008
+English (Adaptation)	Abike's day	id=21453
+English (Adaptation)	Asiimwe's special mat	id=31307
+French (Translation)	La Natte Spéciale D'Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Niger) (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+isiNdebele (Translation)	Ilanga lakaKhabo	id=21461
+isiZulu (Translation)	Usuku lukaZinhle	id=21458
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kiswahili (Translation)	Mkeka wa Akai	id=7860
+Kiswahili (Translation)	Siku ya Betina	id=23105
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Olunaku lwa Takia	id=25684
+Lusoga (Translation)	Omukeeka gwa Akaali	id=26254
+Lusoga (Translation)	Olunaku lw'Abike	id=27566
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Runyoro-Rutooro (Translation)	Omukeeka gwa Asiimwe ogwembaganiza	id=31306
+Runyoro-Rutooro (Translation)	Omukeeka gwa Asiimwe ogwembaganiza	id=31308
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Sesotho (South Africa) (Translation)	Letsatsi la Atlehang	id=21466
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+Siswati (Translation)	Imadi yaThembi lebalulekile	id=13073
+Siswati (Translation)	Lilanga la-Abike	id=21455
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

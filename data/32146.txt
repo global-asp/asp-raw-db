@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=32146&d=0&a=1
+id:	32146
+title:	Nabuze Mama Wange
+author:	Jean Paul Harelimana
+artist:	Melany Pietersen and Rob Owen
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32146.png
+desc:	Ubwo mama wange yapfaga
+
+page_text:
+
+P1	Yantwise amezi ikenda.
+P2	Yakoze ibishoboka byose nkura mfite ubuzima bwiza n'imbaraga.
+P3	Buri joro, yarandyamishaga.
+P4	Buri gitondo, yazaga kureba ko nabyutse.
+P5	Twajyanaga mu isoko guhaha.
+P6	Yaranyemereraga ngahitamo inkweto nshaka.
+P7	Igihe nabaga nakosheje, yangiraga inama.
+P8	Mu buzima bwange, sinzibagirwa urukundo mama yankundaga.
+
+images:
+
+illustrations/pages/17356.png
+illustrations/pages/26035.png
+illustrations/pages/26039.png
+illustrations/pages/9501.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9492.png
+illustrations/pages/26037.png
+
+translations:
+
+English (Original)	Losing my mother	id=24580
+English (Adaptation)	Losing my mother	id=32049
+Lusoga (Translation)	Okufiirwa maama ghange	id=29799

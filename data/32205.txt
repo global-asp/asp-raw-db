@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32205&d=0&a=1
+id:	32205
+title:	A minha mãe
+author:	Rafael Ernesto Samuel
+artist:	Merville  Mabula
+lang:	Portuguese
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32205.png
+desc:	Sta estória foi escrita por um rapaz carinhoso e pensativo em honra à sua mãe. (Ela foi criada num programa de férias administrado pelos serviços psicológicos da comunidade de Sophiatown em Joanesburgo
+
+page_text:
+
+P1	Este sou eu.
+P2	Vivo com a minha mãe e os meus irmãos.
+P3	A minha mãe gosta de cozinhar.
+P4	Às vezes, a minha mãe visita as suas amigas.
+P5	Quando ela estiver fora de casa, eu limpo a casa e lavo louça.
+P6	À noite, a minha mãe diz nos para orar.
+P7	No meu aniversário, a minha mãe dá-me presente.
+P8	Eu amo a minha mãe.
+
+images:
+
+illustrations/pages/27543.png
+illustrations/pages/27544.png
+illustrations/pages/27545.png
+illustrations/pages/27546.png
+illustrations/pages/27547.png
+illustrations/pages/27548.png
+illustrations/pages/27549.png
+illustrations/pages/27550.png
+illustrations/pages/27543.png
+
+translations:
+
+English (Original)	My Mom	id=31878
+isiZulu (Translation)	Umama wami othandekayo	id=32235
+Kiswahili (Translation)	Mama wangu	id=32195
+Kiswahili (Translation)	Mama yangu	id=32200
+Lingala (Translation)	Maman na ngai	id=32186

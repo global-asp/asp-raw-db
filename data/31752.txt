@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=31752&d=0&a=1
+id:	31752
+title:	Tsipusi tsia Selemeng
+author:	Peter Wanga
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Oluwanga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31752.png
+desc:	Selemeng ali nende tsipusi tsinyinji. Selemeng ali nende tsipusi tsinga?
+
+page_text:
+
+P1	Selemeng yachama tsipusi. Tsipusi netsinyinji mungo mwaye.
+P2	Selemeng ali nende ipusi imali. Ipusi eyo ilitsanga inyama inyinji.
+P3	Selemeng ali nende ipusi ikhomefu. Ipusi eyo ilitsanga buli eshindu.
+P4	Ipusi yakhataru, inina omusala tsimbiro. Ipusi ino iyanda khumusala.
+P5	Selemeng anina omusala. Yesi ayaanda khumusala shinga ipusi yakhataru. Mama wa Selemeng akhoya khubakhonya bakushe.
+P6	Selemeng ali nende tsipusi tsibiri tsindofu. tsingonanga erwanyi khuliuba inyanga yosi.
+P7	Selemeng ali nende tsipusi tsitaru tsilali nobutofu tawe. Tsitira tsimbeba mushiro muchikoni.
+P8	Selemeng ali nende imbwa ndala. Ilangwa mbu Lirafi. Lirafi abula omwitsa. Yeberere.
+P9	Tsipusi tsia Selemeng shitsiachama Lirafi tawe. Tsimulonda khurula munzu. Lirafi yerukha.
+P10	Selemeng anyola Lirafi naikalusia muungo. Tsipusi shitsisangasibwa tawe. Shitsienya okhulola Lirafi tawe.
+P11	Selemeng ali nende tsipusi tsinga? Ali nende tsipusi munane.
+P12	Selemeng ali  nende tsimbwa tsinga? Ali nende imbwa ndala. Lirafi ali ena isaa ino?
+P13	Oli nende tsipusi tsinga ewenyu? Oli nende tsimbwa tsinga ewenyu?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+isiZulu (Translation)	Amakati kaZamo	id=31799
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Epusi dha kelementi	id=27609
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

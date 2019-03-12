@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=32048&d=0&a=1
+id:	32048
+title:	My mother
+author:	African Storybook and Tiffany Katabarwa
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32048.png
+desc:	A story about my mothers love for me as her only child. She loves me so much and I love her too.
+
+page_text:
+
+P1	I was my mother's only child.
+P2	My mother made sure that I went to school.
+P3	My mother likes to take me to the market.
+P4	My mother and I enjoy shopping together.
+P5	My mother loves God.@@She encourages me to pray every morning.
+P6	My mother loves me very much.
+P7	My mother loves my cousin, too. @@He comes to visit every weekend.
+P8	At night, my mother always tucks me into bed before I sleep.
+
+images:
+
+illustrations/pages/9492.png
+illustrations/pages/26039.png
+illustrations/pages/25965.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9496.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9501.png
+
+translations:
+
+English (Original)	My mother	id=24441
+Lusoga (Translation)	Maama wange angonza	id=30592

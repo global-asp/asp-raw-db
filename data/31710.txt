@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=31710&d=0&a=1
+id:	31710
+title:	Mtumbwi wa Sarai
+author:	Ursula  Nafula
+artist:	Rachel  Greer
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31710.png
+desc:	Sarai anawasaidia watu na wanyama kuvuka mto kwa kutumia mtumbwi wake
+
+page_text:
+
+P1	Sarai ana mtumbwi.@Mtumbwi wake ni mkubwa.@Mtumbwi huo uko kando ya mto.
+P2	Baadhi ya wanawake wanafika mtoni. Mwanamke mmoja ana uteo wa matunda. Mwingine ana kuku. Mwingine ana mbuzi mmoja. Wa mwisho ana mbuzi wawili.@@Wanamwuliza Sarai, "Tutavukaje mto?"@@Sarai anasema, "Ingieni mtumbwi wangu!"
+P3	Kisha, wanaume wanafika. Mmoja ana samaki. Mwingine ana baiskeli. Mwingine ana gunia la mahindi.
+P4	Mwanamume mwingine ana magunia mawili ya mahindi. @@Wanamwuliza Sarai, "Tutavukaje mto?"@@Sarai anawajibu, "Ingieni mtumbwi wangu!"
+P5	Wanyama pia wanakuja. Wanamwuliza Sarai, "Tutavukaje mto?"@@Sarai anasema, "Ingieni mtumbwi wangu!"
+P6	Wanyama wanaingia mtumbwini.@@Mbwa anaingia mtumbwini.@Paka anaingia mtumbwini.@Tumbili anaingia mtumbwini.@Sungura anaingia mtumbwini.@Kasa anaingia mtumbwini.@Swara anaingia mtumbwini.
+P7	Tembo anawasili kando ya mto. Anauliza, "Nitavukaje mto?"@@Sarai anasema, "Ingia mtumbwi wangu!"@@Tembo anaingia mtumbwini. Mtumbwi unafurika maji.
+P8	Salaala!@@Mtumbwi umepinduka!
+P9	Mtumbwi huu ni mdogo sana. Hauna nafasi ya kuwatosha wote.
+P10	Sarai anasema, "Hebu! Kwanza, nitawavukisha wanawake."
+P11	"Kisha niwavukishe wanaume," Sarai anasema tena.
+P12	"Hatimaye, nitawavukisha wanyama," Sarai anakamilisha maelezo yake.
+P13	Tembo anasema, "Heri nitembee tu!"
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

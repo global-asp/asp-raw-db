@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32208&d=0&a=1
+id:	32208
+title:	O jogo de xadrez e os papéis da família
+author:	Rafael Ernesto Samuel
+artist:	Jamie  Luketa
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32208.png
+desc:	Esta é uma estória de um menino pensativo que nos mostra a semelhança dos papéis da família com os das peças de jogo de xadrez. (Ela foi criada num programa de férias administrado pelos serviços psicológicos da comunidade de Sophiatown em Joanesburgo
+
+page_text:
+
+P1	Existe um menino chamado Rodriguês. Ele vive com a sua família. @@A sua mãe chama-se Jamila e o seu pai chama-se Miguel. As suas irmãs chamam-se Suzana e Lola.@@Rodriguês é a última sorte.
+P2	O Rodriguês gosta de jogar xadrez. @@Ele gosta de xadrez de tal maneira que quando estiver a jogar não conversa com niguém.
+P3	Um dia, o Rodriguês jogava xadrez na escola e descobriu que ele podia traduzir o jogo em papéis da sua família.
+P4	Miguel, o rei.@@Jamila, a rainha, pois ela detinha o poder.@@Suzana e Lola, cavaleiros e bispos.@@O Rodriguês, o peão por ser o mais novo.
+P5	Depois deste pensamento, o Rodriguês correu para casa afim de informar a sua família.
+P6	Ter ouvido o pensamento do Rodriguês, a família riu e tempo depois, ela percebeu.@@Rodriguês explicou os papéis da família e a razão de ele ser o peão.
+P7	Rodriguês disse a mãe que ela era a rainha e o seu pai, o rei.@@As suas irmãs ocupavam os papéis de cavaleiros e bispos.
+P8	Rodriguês é o peão porque ele gosta de aventura! @@Ele podia se tornar tudo que ele quisesse, mesmo que fosse para criar sacrifícios.
+
+images:
+
+illustrations/pages/27824.png
+illustrations/pages/27825.png
+illustrations/pages/27826.png
+illustrations/pages/27827.png
+illustrations/pages/27828.png
+illustrations/pages/27829.png
+illustrations/pages/27830.png
+illustrations/pages/27831.png
+illustrations/pages/27824.png
+
+translations:
+
+English (Original)	Chess and family roles	id=32045
+isiZulu (Translation)	Umdlalo weChess	id=32233
+Kiswahili (Translation)	Chess ya famille	id=32197
+Kiswahili (Translation)	Mchezo wa Chesi na majukumu ya familia	id=32201
+Lingala (Translation)	Chess na tina ya Libota	id=32232

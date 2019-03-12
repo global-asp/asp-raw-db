@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=32068&d=0&a=1
+id:	32068
+title:	Nyota wa Soka
+author:	Ursula  Nafula
+artist:	David J Maguruka
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32068.png
+desc:	Zawadi ya thamani kutoka kwa baba inamsaidia mwanawe kuwa nyota wa soka. (Hadithi hii iliandikwa wakati wa mpango wa likizo unaondeshwa na Jamii ya Sophiatown
+
+page_text:
+
+P1	Miaka milioni moja iliyopita, kito cha soka kiliundwa.@@Kilipogunduliwa, watu walipigana kukimiliki kito hicho chenye nguvu.
+P2	Wakati wa vita vya soka vya kwanza vya dunia kito hicho kilipotea. Hakuna aliyeelewa.@@Muda ulipita. Kito hicho cha soka kilipatikana tu alipozaliwa nyota maarufu zaidi wa soka.
+P3	Si kitambo sana, kulikuwa na mvulana aliyeitwa Daudi. Alitoka katika familia maskini.
+P4	Kabla babake Daudi kufariki, alimpatia mwanawe kito hicho cha soka.@@Mwanzoni, Daudi hakujua nguvu za kito hicho.
+P5	Daudi alikuwa bado kijana alipokitumia kito hicho kucheza soka.@@Hakuwa ameanza kwenda shuleni. Lakini, kwa nguvu za kito hicho, Daudi alishinda kila mechi aliyocheza na marafiki zake.
+P6	Daudi alitambua kuwa angeipatia familia yake fedha kwa kucheza soka.@@Angemfungulia mamake duka, na kuwapeleka kakake na dadake shule.
+P7	Daudi alijitokeza kuwa mchezaji wa soka maarufu zaidi aliyewahi kuonekana.@@Hata ilisemekana kwamba alitoka ulimwengu tofauti!
+P8	Daudi ni nyota wa soka ambaye hatasahaulika kamwe!
+
+images:
+
+illustrations/pages/27832.png
+illustrations/pages/27833.png
+illustrations/pages/27834.png
+illustrations/pages/27835.png
+illustrations/pages/27836.png
+illustrations/pages/27837.png
+illustrations/pages/27838.png
+illustrations/pages/27839.png
+illustrations/pages/27832.png
+
+translations:
+
+English (Original)	Soccer star	id=32046
+isiZulu (Translation)	Ingqwele yebhola	id=32237
+Lingala (Translation)	Mobeti ya ndembo	id=32181
+Portuguese (Translation)	A Estrela do futebol	id=32209

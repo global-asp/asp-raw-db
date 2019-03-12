@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=31549&d=0&a=1
+id:	31549
+title:	Mbuzi, Galu ndi Ng'ombe
+author:	Little Zebra Books and Manuel Gripa Kandodo
+artist:	Marleen Visser
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31549.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	Mbuzi, galu ndi ng'ombe anali abwenzi. @@Tsiku lina, anocoka kupita kokayenda pagalimoto.
+P2	Atafika malo otsika, oyendetsa galimoto anawauza kuti alipile. @@Ng'ombe, inapeleka ndalama zake.
+P3	Galu anapeleka ndalama, koma sanalandile cinji.
+P4	Pamene oyendetsa galimoto amafuna kupeleka cinji kwa galu, mbuzi inathawa osalipila.
+P5	Oyendetsa galimoto, anakalipa kwambili. @@Anayamba kuyendetsa galimoto, osapeleka cinji kwa galu.
+P6	Pacifukwa ici, mpaka lelo, galu amathamangila galimoto, ili yonse, cifukwa adakayang'ana oyendetsa galimoto emwe sanamupatse cinji cake.
+P7	Mbuzi, imathawa ikanva kulila kwa galimoto. @@Cifukwa imacita mantha, kuopa kumangidwa cifukwa siinalipile oyendetsa galimoto.
+P8	Ng'ombe yokha ilibe mantha, ikaona galimoto, cifukwa ilibe ngongole, inalipila mbali yake.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

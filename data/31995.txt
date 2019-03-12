@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31995&d=0&a=1
+id:	31995
+title:	Time
+author:	Mimi Werna
+artist:	Joe  Werna
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31995.png
+desc:	This story shows the wisdom in time management.
+
+page_text:
+
+P1	Time is a parcel.
+P2	In this parcel of time, you find more parcels.
+P3	A parcel is a day.@@A day is 86,400 seconds.
+P4	You must unwrap time and use it well.@@Learn new things.
+P5	Eat.@Play.@Rest.@Dream.@Think.
+P6	Plant a tree, a forest grows. @@Solve a problem.
+P7	When your money grows,@save some, @spend some, @share some.
+P8	If you fail, start again.@@Time wraps gifts as days.
+P9	Monday and Tuesday.@Wednesday and Thursday.@Friday and Saturday, even Sunday.
+P10	These are special friends.@@Enjoy their friendship.
+P11	When the clock says tick tock remember my words.
+P12	Time is a peculiar parcel, a unique gift.@@Use it well.
+
+images:
+
+illustrations/pages/27812.png
+illustrations/pages/27812.png
+illustrations/pages/27813.png
+illustrations/pages/27814.png
+illustrations/pages/27815.png
+illustrations/pages/27816.png
+illustrations/pages/27817.png
+illustrations/pages/27818.png
+illustrations/pages/27819.png
+illustrations/pages/27820.png
+illustrations/pages/27821.png
+illustrations/pages/27822.png
+illustrations/pages/27823.png
+
+translations:
+
+Kinyarwanda (Translation)	Igihe	id=32115
+Kiswahili (Translation)	Wakati	id=32008
+Tiv (Translation)	Shie	id=31996

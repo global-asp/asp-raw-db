@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=31939&d=0&a=1
+id:	31939
+title:	My happy place
+author:	Summayya  Muamba
+artist:	Summayya  Muamba
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31939.png
+desc:	This story shares the caring insights of a girl about how young and old people can bring happiness to one another. (This story was created at a holiday programme run by Sophiatown Community Psychological Services in Johannesburg
+
+page_text:
+
+P1	This is story is about me, and an Old Age Home.
+P2	It is a big building in Bertrams, Johannesburg.@@The walls are colourful, and it is clean and quiet inside. The people that live there are very old. @@My mother took us there one day.
+P3	This Old Age Home is my happy place! @@I become happy whenever I see old people and can help them.
+P4	One day I went there and I washed some of the old people's hair.
+P5	I also served them food.@@Some of the old people were scary, but it still made me happy to be there.
+P6	There was this old angry lady who didn't want anybody to help her. She would start shouting.
+P7	There was another old lady, I held her hands and she didn't want to let go. Her hands were soft and warm. @@She had the same name as my sister, Aisha.
+P8	Old people make me happy. They have stories of past times which I will never know.
+
+images:
+
+illustrations/pages/27702.png
+illustrations/pages/27701.png
+illustrations/pages/27702.png
+illustrations/pages/27703.png
+illustrations/pages/27704.png
+illustrations/pages/27705.png
+illustrations/pages/27706.png
+illustrations/pages/27700.png
+illustrations/pages/27707.png
+
+translations:
+
+isiZulu (Translation)	Indawo enginikeza intokozo	id=32236
+Kiswahili (Translation)	Fashi ya furah	id=32199
+Kiswahili (Translation)	Pahali pangu pa furaha	id=32202
+Lingala (Translation)	Esika ya esengo	id=32188
+Portuguese (Translation)	O lugar da minha felicidade	id=32206

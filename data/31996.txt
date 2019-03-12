@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31996&d=0&a=1
+id:	31996
+title:	Shie
+author:	Mimi Werna
+artist:	Joe  Werna
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31996.png
+desc:	Kwagh-hir u shie man kwagh fan u eren tom a min tsembele.
+
+page_text:
+
+P1	Shie ka ikyagh imôm.
+P2	Ken ikyagh i shie ne, u zuwa a akagh a  kiriki.
+P3	Iyange imôm ka ikyagh. @@Sagh ikyagh ne vough vough.
+P4	Ertom a shie.@@Hen akaa a he.
+P5	Ya kwagh, numbe, mem, er mhen.
+P6	Lôô ikyon, ikô i mende.@@Sôr mbamzeiyol kua ugbaiyol.
+P7	Inyaregh ki a vese yô, vihi kpuôô, koso, kar vea mbagenev.
+P8	Aluer wea gba yô, mough.@@Shie kange akagh agen ka ayange.
+P9	Hiitom man Tomahar.@@Tomatar man Tomanyiin.@@Tomataan man Sati, kua Lahadi.
+P10	Ayange ne ka ahuraior a dedoo.@@Biishi a ve kôôsôô.
+P11	Alu u ungwa agogo gbidye imemegh yô, umbur kwaghôron wam.
+P12	Shie ka iyua i kiriki ga,@@Er tom a min tsembele.
+
+images:
+
+illustrations/pages/27812.png
+illustrations/pages/27812.png
+illustrations/pages/27813.png
+illustrations/pages/27814.png
+illustrations/pages/27815.png
+illustrations/pages/27816.png
+illustrations/pages/27817.png
+illustrations/pages/27818.png
+illustrations/pages/27819.png
+illustrations/pages/27820.png
+illustrations/pages/27821.png
+illustrations/pages/27822.png
+illustrations/pages/27823.png
+
+translations:
+
+English (Original)	Time	id=31995
+Kinyarwanda (Translation)	Igihe	id=32115
+Kiswahili (Translation)	Wakati	id=32008

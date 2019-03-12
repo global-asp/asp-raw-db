@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31592&d=0&a=1
+id:	31592
+title:	Mwadiya wa Sara
+author:	Little Zebra Books
+artist:	Rachel  Greer
+lang:	Cinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31592.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	Sara ana mwadiya.@@Mwadiyayo ngukulu.@@Mwadiyayo ali mugombe.
+P2	Akazi abwera kugombe. M'kazi m'bodzi ana citundu cina bzisapo. M'kazi munango ana nkhuku. M'kazi munango ana mbuzi. M'kazi munango ana mbuzi ziwiri. @@Iwo akumbira Sara: "Tingayambuketani m'kulo?" @@Sara ati: "Pitani mwadiya mwangu!"
+P3	Ndipo amuna abwera. Mamuna m'bodzi ana ntsomba. Munango ana njinga. Munango ana sakha ya cimanga.
+P4	Mamuna munango ana sakha ziwiri za cimanga. @@Iwo akumbira Sara: "Tingayambuketani m'kulo?"@@Sara ati: "Pitani mwadiya mwangu!"
+P5	Bzirombo bzabwera kugombe. Ibzo bzakumbira Sara: "Tingayambuketani m'kulo?"@@Sara ati: "Pitani mwadiya mwangu!"
+P6	Bzirombo bzapita mwadiya. @Mbwaya yapita mwadiya. @Mphaka yapita mwadiya.@Pusi apita mwadiya. @Sulo apita mwadiya. @Kamba apita mwadiya. @Nyasa apita mwadiya.
+P7	Ndzou yabwera kugombe. Mwadiyayo ali mugombe. Iyo yakumbira Sara: "Ningayambuketani m'kulo?"@@Sara ati: "Pita mwadiya mwangu!"@@Ndzou yapita mwadiya. Mwadiya wadzala.
+P8	Mwadiya ngung'ono. Ulibe mbuto.
+P9	Sara ati: "Iiiiiiii! Niyamba kutenga akazi."
+P10	"Kaciwiri nin'tenga amuna."
+P11	"Nimalizira kutenga bzirombo!"
+P12	Ndzou yati: "Iiiiiii. Ine nifamba!"
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

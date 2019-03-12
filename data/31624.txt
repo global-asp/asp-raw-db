@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=31624&d=0&a=1
+id:	31624
+title:	Nyakuwaza Mbeu
+author:	Programa  Prodelise
+artist:	Tamsin  Hinrichsen
+lang:	Cisena
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31624.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 8:5-15@@Yesu alonga:@@Mamuna m'bodzi abuluka mbayenda kawaza mbeu.
+P2	Mukhawaza iye, mbeu zinango zagwera pa njira mbizipondiwa na anthu, pontho mbizidyiwa na mbalame za kudzulu.
+P3	Mbeu zinango zagwera pa mataka akhali na myala mizinji. Pidatoma izo kumera, zauma na kusowa ntota.
+P4	Mbeu inango yagwera pakati pa minga. Minga yakula pabodzi na mbeu, iyo mbicimwana kufantsa.
+P5	Mbwenye mbeu inango yagwera pa mataka adidi, mudakula iyo, yabala misapu dzana pa mbeu ibodzi.@@Pontho, pakumala kulonga pinthu penepi, Yezu alonga kuti: "Ana makutu akubva, mbabve!"
+P6	Anyakupfundza am'bvundzisa kuti akhafuna kulonganji na nsanje unowu.@@Na tenepo, Yezu alonga kuti "Kuna imwe, mwapaswa mwayi wa kudziwa pyakubisala pya Umambo wa Mulungu, mbwenye kuna anthu anango pyonsene asapangwa na misanje, toera aone, mbakhonda onesesa, pontho abve, mbakhonda bvesesa."
+P7	"Nsanje uyu usalongera ipi: Mbeu ndi fala ya Mulungu."
+P8	"Mbeu idagwera pa njira isalongera ale anabva fala. Mbwenye angamala, asabwera Dimonyo pontho mbabulusa fala m'mitima mwawo, toera akhonde kutawira pontho acimwane kupulumuswa."
+P9	"Mbeu idagwa pa mataka a myala mizinji, isalongera ale anatambira fala na kukomerwa, mbwenye nkhabe michici. Iwo asatawira fala pa n'dzidzi ung'ono basi, mbwenye angaleserwa, asasiya cikhulupiro cawo."
+P10	"Mbeu idagwa pa minga, isalongera ale anabva fala ya Mulungu, mbwenye na thangwi ya makhaliro a dziko ino, na mpfuma, pontho na udidi wa padziko, iwo asalaswa pontho misapu yace nkhabe kutokota."
+P11	"Mbwenye mbeu ire idagwa pa mataka adidi, isalongera ale ana mitima yadidi pontho yakunyindirika. Iwo angabva fala ya Mulungu, asaikoya, pontho, na thangwi ya kuwangisira, asabala misapu."
+
+images:
+
+illustrations/pages/27344.png
+illustrations/pages/16267.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16270.png
+illustrations/pages/16271.png
+illustrations/pages/16289.png
+illustrations/pages/16286.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16287.png
+illustrations/pages/16285.png
+
+translations:
+
+Cinyungwe (Translation)	Mulimi na Mbeu Yace	id=31625
+Ciyawo (Translation)	Citagu Ca Mundu Jwa Kumisa Mbeju	id=19040
+Elomwe (Translation)	Mulipa Oomisa	id=31622
+English (Original)	The Sower	id=16245
+Ikisimbëtë (Translation)	Ëkërëngyö ikya Imbusiro	id=24797
+Olunyaneka (Translation)	Omukuvi	id=31623
+Portuguese (Translation)	“a Parábola Do Semeador”	id=19041

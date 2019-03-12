@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=32167&d=0&a=1
+id:	32167
+title:	Mbaka na Ngitĩ na kĩmbalutya
+author:	Anna Kula
+artist:	Elke and René Leisink
+lang:	Kikamba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32167.png
+desc:	Mbaka na Ngitĩ masisyilye ndĩlĩsyana
+
+page_text:
+
+P1	Ĩĩ nĩ Mbaka.@@Ĩĩ nĩ Ngitĩ.
+P2	Mbaka na Ngitĩ masisyilye ndĩlĩsyana.@@Masisyilye ndĩlĩsyana.
+P3	Na ĩndĩ Mbaka na Ngitĩ nĩ moona kĩmbalutya.@@Kĩmbalutya kĩu nĩ kĩtune.
+P4	Mbaka na Ngitĩ nĩ makwenda kũkwata kĩmbalutya.@@Mbaka na Ngitĩ nĩ matĩĩa kĩmbalutya.@@Nĩ matĩĩa kĩmbalutya.
+P5	Mbaka na Ngitĩ nĩ matĩĩa kĩmbalutya na maaũ. Matĩĩe kĩmbalutya na maaũ. @@Ĩndĩ kĩmbalutya nĩkĩkalatĩte mũno ĩndĩ Mbaka na Ngitĩ methi kavola. Methi kavola mũno.
+P6	Mbaka na Ngitĩ matĩĩe kĩmbalutya na kĩsululu. Mesosea kĩsululu masembany'e na kĩmbalutya.@@Ĩndĩ kĩmbalutya nĩkĩkalatĩte mũno ĩndĩ Mbaka na Ngitĩ methi kavola. Methi kavola mũno.
+P7	Mbaka na Ngitĩ matĩĩe kĩmbalutya na nglĩ. Matwaĩte ngali masembany'e na kĩmbalutya.@@Ĩndĩ kĩmbalutya nĩkĩkalatĩte mũno ĩndĩ Mbaka na Ngitĩ methi kavola. Onayu methi kavola mũno.
+P8	Mbaka na Ngitĩ matĩĩe kĩmbalutya na ĩtalũ. Malelete kĩwunĩ masembany'e na kĩmbalutya.@@Ĩndĩ kĩmbalutya nĩkĩkalatĩte mũno vyũ ĩndĩ Mbaka na Ngitĩ methi kavola. Methi kavola mũno vyũ.
+P9	Mbaka na Ngitĩ matĩĩe kĩmbalutya na ndeke. Molũkĩte masembany'e na kĩmbalutya.@@Ĩndĩ kĩmbalutya nĩkĩkalatĩte mũno vyũ ĩndĩ Mbaka na Ngitĩ methi kavola. Onayu methi kavola mũno vyũ.
+P10	Yu Mbaka na Ngitĩ nĩmongama. Nĩmongama na mekala nthĩ. Mekala nthĩ uungu wa mũtĩ.@@Mekala nthĩ uungu wa mũtĩ mũnene.@@Ĩndĩ yu…
+P11	Nĩmoona kĩmbalutya kĩmwe mũtĩnĩ.@@Nĩmoona syĩmbalutya ĩlĩ mũtĩnĩ.@@Nĩmoona syĩmbalutya itatũ mũtĩnĩ.
+P12	Nĩmoona syĩmbalutya ĩana mũtĩnĩ.
+P13	Tiwa na ũseo Mbaka.@@Tiwa na ũseo Ngitĩ.@@Tiwai na ũseo syĩmbalutya.
+
+images:
+
+illustrations/pages/25582.png
+illustrations/pages/25584.png
+illustrations/pages/25585.png
+illustrations/pages/25586.png
+illustrations/pages/25587.png
+illustrations/pages/25588.png
+illustrations/pages/25589.png
+illustrations/pages/25590.png
+illustrations/pages/25591.png
+illustrations/pages/25592.png
+illustrations/pages/25593.png
+illustrations/pages/25594.png
+illustrations/pages/25595.png
+illustrations/pages/25596.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiShona (Translation)	Kiti na Imbwa neShavishavi	id=31762
+Ekegusii (Translation)	Ekebusi, Esese amo ne'ekegwankwa	id=31838
+English (Original)	Cat and Dog and the butterfly	id=21980
+isiZulu (Translation)	Ikati, inja novemvane	id=31811
+Lingala (Translation)	Niawu na mbwua na kipekapeka	id=31815
+Lubukusu (Translation)	Eepuusi nende Eembwa nende siipuruupuru	id=31748
+Oluwanga (Translation)	Ipusi nende Imbwa nende imburukuru	id=31758
+Oluwanga (Translation)	Ipusi nende Imbwa nende Imburukuru	id=31796
+Sepedi (Translation)	Katse le Mpša ka morago ga Serurubele	id=32063
+Sesotho (South Africa) (Translation)	Katse le Ntja le serurubele	id=31797
+Setswana (Translation)	Katse le Ntšwa le serurubele	id=31773
+Tshivenḓa (Translation)	Tshimange na Mmbwa na tshisusu	id=31841

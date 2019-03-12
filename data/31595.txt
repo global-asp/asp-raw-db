@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31595&d=0&a=1
+id:	31595
+title:	Mwaaceya a Saara
+author:	Estevâo Campama
+artist:	Rachel  Greer
+lang:	Elomwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31595.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	Saara ookhalano mwaaceya awe.@@Mwaaceya ene mutokotoko.@@Yoowo ori okhopela wa muhice.
+P2	Athiyana akina yaaphiya omuro. Muthiyana mmoha aakhalano epasiya awe orimo sawiima. Mukina aarino mwalakhu. Mukina aarino epuri. Mukina tho aarino ipuri piili. Yaawo yaamukoha saara eriki: "Hiyo nnii niwerye hayi ophiya okhopela wa muhice?"@@Saara aahaakhula: "Nvolowe mmwaaceyani mwaka!"
+P3	Ohoolo waya yaaphiya alopwana akina. Mulopwana mmoha aarino ihopa. Mukina aarino ecinka. Mukina aarino esaakhwi ya nakhuwo.
+P4	Mukina tho aarino isaakhwi piili sa nakhuwo. Yaawo yaamukoha Saara: "Hiyo nnii niwerye hayi ophiya okhopela wa muhice?"@@Saara aahaakhula: "Nvolowe mmwaaceyani mwaka!"
+P5	Ashinama akina yaaphiya omuro weiwe. Yaawo yaamukoha Saara: "Hiyo nnii niwerye hayi ophiya okhopela wa muhice?"@@Saara aahaakhula: "Nvolowe mmwaaceyani mwaka!"
+P6	Ashinama yaavolowa mmwaaceyani. @Mwalaphwa aavolowa mmwaaceyani. @Paakha aavolowa mmwaaceyani. @Khole aavolowa mmwaaceyani. @Namarokolo aavolowa mmwaaceyani. @Khapa aavolowa mmwaaceyani. @Naahe aavolowa mmwaaceyani.
+P7	Echepo yaaphiya omuro. Yeeyo yaakoha eriki: "Miyo kinii kiwerye hayi ophiya okhopela wa muhice?"@@Saara aahaakhula ariki: "Ovolowe mmwaaceyani mwaka!"@@Echepo yaavolowa mmwaaceyani. Mmwaaceyani yaasareyamo maahi.
+P8	Mwaaceya ayeva. Ohikhalamo mpuro wawaakhwana.
+P9	Saara aahi: "Mukiwehererye vakhaani! Miyo kinaakusha pahi athiyana."
+P10	"Vanawiili kaakushe tho alopwana."
+P11	"Vookuchula kinaya waakusha ashinama."
+P12	Echepo yaahi: "Miyo kinayawo ni meco!"
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

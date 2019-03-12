@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=31698&d=0&a=1
+id:	31698
+title:	Mtongi na Mantsiwa
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31698.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 18:1-8@@Jezu adauza mfananizo ateweri wace kuti ambapembe nthawe zentse, ndipo aleke kuneta:@@Mumzinda winango mukhana mtongi m'bodzi. Iye akhagopa lini Mulungu. Ndipo akhalibe basa na wanthu.
+P2	Mumzindamo mukhana mantsiwa omwe akhabwera ntsiku zentse acimbadzamukumbira kuti: "Ndiyeruzenimbo pakudzatongiwa mulandu wangu ine-pano na nyamadulanthaka wangu."
+P3	Ndipo mtongi ule akhalamba kumutawira kamangu.
+P4	Tsono iye ntsiku inango adadzakumbuka yekha kuti: "Mkaziyi ali kundinesa kwene-kwene, lekani ndimuyeruze mulandu waceyu kuti aleke kubwera-bwera pomwe kudzandinesa."
+P5	Jezu adalewa kuti: "Bvesesani bwino bzomwe walewa mtongi wakuipa mtimayu. Kodi Mulungu angadzalekembo kucita cirungamo kuna wanthu wace omwe ambamupemba usiku na masikati? Kodi iye angadzacedwe kuwathandiza?"
+P6	"Ndiri kukuuzani kuti an'dzawayeruza na kam'kulumize. Tsono, kodi Mwana wa Munthu akadzabwera, an'dzagumana wanthu ana cikhulupiriro pantsi pano?"
+
+images:
+
+illustrations/pages/27415.png
+illustrations/pages/27417.png
+illustrations/pages/27418.png
+illustrations/pages/27419.png
+illustrations/pages/27415.png
+illustrations/pages/27420.png
+illustrations/pages/27421.png
+illustrations/pages/27422.png
+
+translations:
+
+Cisena (Translation)	Nkazi Wakuferwa na Mamuna  na Nyakutonga Mise	id=31699
+Elomwe (Translation)	Naamukhwele ni Mulipa Oothoriha	id=31696
+English (Original)	The Persistent Widow	id=31660
+Olunyaneka (Translation)	Omuhepe Nomukoyesi  Wompela	id=31700
+Portuguese (Translation)	A Viúva e o Juiz	id=31695

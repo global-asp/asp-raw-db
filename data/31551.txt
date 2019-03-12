@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=31551&d=0&a=1
+id:	31551
+title:	Epuri, Mwalapwa ni Enyompe
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Emakhuwa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31551.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	Epuri, Mwalapwa ni Enyompe yaahipakana onthamwene. Nihiku nimosa, yaaheetta mukwaha awela mukaaroni.
+P2	Vaaphiyal'aya waarowaaya, mulipa-oweettiha aahaavekela musurukhu woolivela mukwahaaya. @@Enyompe yaahiliva.
+P3	Mwalapwa aahiliva ovikaniha esisapo, okhala wiira khaarina musurukhu waaphaveliwa.
+P4	Mulipa-ooweettiha ophavelaka omuttikiherya Mwalapwa musurukhu awe waahanle, okathi yoowo epuri yaahitthyawa ehilinve.
+P5	Mulipa-ooweettiha aahinanariwa, onarowa ohimuttikihenrye Mwalapwa musurukhu awe waahanle.
+P6	Tivo, mpakha olelo va, Mwalapwa oniiraawe oona ekaaro onoomola othurumelaka muhina wiira oone akhala wiira onoomphwanya mulipa-ooweettiha, yoole ahaamuttikihenrye musurukhu awe waahanle.
+P7	Epuri yiiwaka-ru oruma w'ekaaro ennitthyawa. Enoova otthukiwa mwaha woohiliva musurukhu w'ekwah'aya.
+P8	Enyompe yoona ekaaro erwaaka khenuukhuwa, eneetta sintthun'aya muramphani, okhala wiira yoosuwela wiira yooliva musurukhu woomalela wa mukwaha.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu ndi Ng'ombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+English (Original)	Goat, Dog and Cow	id=31498
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

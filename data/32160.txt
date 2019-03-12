@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=32160&d=0&a=1
+id:	32160
+title:	Akarabo Katabona
+author:	Jean Paul Harelimana
+artist:	Kenneth Boyowa Okitikpi
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32160.png
+desc:	Iyi ni inkuru y umukobwa wabonye ibyishimo ubwo yatemberaga mu busitani.
+
+page_text:
+
+P1	Gikundiro yavutse afite ubumuga bwo kutabona.@@Amaso ye ntiyari yarigeze abona ababyeyi be, basaza be na barumuna be. Yari azi amasura yabo abakozeho.
+P2	Umunsi umwe, Gikundiro yari ari gutembera mu busitani.@@Yakundaga impumuro z'indabo.@@Yakundaga gukorakora indabo.
+P3	Gikundiro yifuzaga kubona izo ndabo, nibura inshuro imwe gusa. @@Yibwiye mu mutima ati: "Ni iz'igikundiro"
+P4	Buri munsi, Gikundiro yagendagendaga mu busitani. Yari azi inzira imujyana.@@Uyu munsi, yubuye umutwe areba mu kirere.
+P5	Ako kanya, yumvise inkuba n' umurabyo. Gikundiro yaratekereje ati: "Reka nsubire mu rugo bwangu."
+P6	Imvura yatangiye kugwa.@@Gikundiro yaranyereye abura uburinganire yikubita hasi.@@Yakubise umutwe ku ibuye.
+P7	Gikundiro akangutse, yasanze abantu benshi bamuzengurutse, araba ati: "Habaye iki?"
+P8	Se aramubwira ati: "Waguye, ukubita umutwe ku ibuye."@@Mama we aravuga ati: "Shima Imana kuba ukiri muzima."
+P9	Gikundiro yarahamagaye ati: "Papa, Mama?". Yahamagaye basaza be na barumuna be ati: "Ni mumpe akarabo"@@Buri wese yaratangaye.
+P10	Murumuna we yamuzaniye akarabo.@@Gikundiro yakiriye akarabo yitonze aravuga ati: "Mbega akarabo keza!"
+P11	Abo mu muryango we bararebanye, mama we aramubaza ati: "Gikundiro, ubasha kubona ako karabo?"
+P12	Gikundiro yakomeje gukina n'akarabo mu biganza bye, aramwenyura ati: "Mwese muri beza cyane nk'aka karabo."
+
+images:
+
+illustrations/pages/26775.png
+illustrations/pages/26773.png
+illustrations/pages/26774.png
+illustrations/pages/26775.png
+illustrations/pages/26776.png
+illustrations/pages/26777.png
+illustrations/pages/26778.png
+illustrations/pages/26779.png
+illustrations/pages/26780.png
+illustrations/pages/26781.png
+illustrations/pages/26782.png
+illustrations/pages/26783.png
+illustrations/pages/26784.png
+
+translations:
+
+English (Translation)	Flower blind	id=23142
+Fulfulde Mbororoore (Translation)	Bumɗo Giɗɗo Pinndi	id=32097
+Hausa (Nigeria) (Original)	Makauniyar yarinya	id=22862
+isiXhosa (Translation)	Intyatyambo engaboniyo	id=24228
+Runyankore (Translation)	Ekyimuli Kyihumire	id=24068

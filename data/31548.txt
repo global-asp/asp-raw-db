@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=31548&d=0&a=1
+id:	31548
+title:	M'pfumi Wakusowa Ndzeru
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	Cisena
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31548.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 12:15-23, 30-31@@Yezu alonga kuna onsene kuti: "Citani mphole! Calirani pyonsene pinatipasa kuumirwa, thangwi moyo wa munthu huli pa pinthu pina iye tayu, maseze mbadakhala pyace m'pfumi."@@Na tenepo, iye aapanga nsanje uyu:
+P2	Minda ya mamuna m'bodzi m'pfumi ikhadabuluka phoso izinji yadidi.@@Na tenepo, iye anyerezera tenepa: "Ine nkhabe mbuto yakukwanisa kukoya phoso yanga yonsene. Ndinacita tani?"
+P3	Na tenepo, alonga kuti: "Cincino ndisapidziwa pinafuna kucita ine! Ndinafudza pyete pyanga, mbandimanga pinango pikulu. Tenepa, ndinakwanisa kukoya phoso yanga yonsene, pontho na pinthu pyanga pyonsene!"
+P4	"Ndingamala, ndinalonga ndekha ene kuti: 'Mamunawe, iwe una pyakudya pizinji m'pyete mwako. Cincino puma. Dya, mwa pyako, pontho tsandzaya pyako!'"
+P5	Mbwenye Mulungu ampanga tenepa: "Dzemwa! Masiku ano iwe unati ufe. Mbani anafuna kusala na pinthu pyonsene pidakoya iwe?"
+P6	Pibodzi-bodzi pinati picitike kuna ale anakoya mpfuma zawo, kukoyera iwo ene, mbwenye mbakhonda kukhala apfumi kuna Mulungu.
+P7	Pakumala penepi, Yezu alonga kuna anyakupfundza ace kuti: "Na thangwi eneyo, ine ndisakupangani tenepa: Lekani kunentseka na makhaliro anu pontho na pire pinafuna kudya imwe,
+P8	peno na manungo anu, peno na pinafuna kubvala imwe. Thangwi moyo ndi cikulu kakamwe kupiringana cakudya, pontho manungo ndi cikulu kakamwe kupiringana nguwo."
+P9	"Anthu a dziko ndiwo anasaka pinthu penepi, n'dzidzi onsene. Mbwenye Baba wanu asadziwa pire pinafuna imwe. Mbwenye imwe, ikhani pa mbuto yakutoma, umambo wa Mulungu pa makhaliro anu, pontho iye anakupasani pinthu pinango."
+
+images:
+
+illustrations/pages/27268.png
+illustrations/pages/27266.png
+illustrations/pages/27267.png
+illustrations/pages/27269.png
+illustrations/pages/27268.png
+illustrations/pages/27270.png
+illustrations/pages/27271.png
+illustrations/pages/27279.png
+illustrations/pages/27278.png
+illustrations/pages/27275.png
+
+translations:
+
+Cinyungwe (Translation)	Munthu Wakudala Wakusaya Ndzeru	id=31543
+English (Translation)	The Rich Fool	id=31542
+Olunyaneka (Translation)	Omuhona Ondamba	id=31544
+Portuguese (Original)	O Rico Sem Juizo	id=31434

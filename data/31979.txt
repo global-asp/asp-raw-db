@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=31979&d=0&a=1
+id:	31979
+title:	Un Mininu Golozu!
+author:	Learn  Kabuverdianu
+artist:	Melany Pietersen
+lang:	Kabuverdianu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31979.png
+desc:	Kal ki é kastigu pa un mininu golozu ki kume txeu fruta sukundidu?
+
+page_text:
+
+P1	Avó kunpra txeu fruta na merkadu.  El kunpra ananas, pera, masan, mangi.
+P2	Tudu kes fruta sta ta parse sábi.
+P3	Má nha irmon é golozu. El kume tudu kes fruta el sô.
+P4	Nha irmon pikinoti pergunta, Kenha ki kume tudu kes fruta?
+P5	Avó fika xatiadu i el pergunta: kenha ki kume tudu kes fruta?
+P6	Nu atxa ki foi nos irmon.
+P7	Nha irmon fla nos avó kuzê ki nu staba ta pensa.
+P8	Avó pergunta nha irmon más grandi, si el kume tudu kes fruta i el fla sin.
+P9	Dirapenti, nha irmon kumesa ta xinti un poku stranhu.
+P10	El kóre pa kaza-banhu.
+P11	El sta ta xinti dór di bariga.
+P12	Avó pergunta-l, "ki lison ki bu prende oji?"
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Dhopadhola (Translation)	Woro	id=18692
+English (Translation)	Greed	id=13327
+Lusoga (Translation)	Omuluvu	id=26517
+Lusoga (Translation)	Obuluvu	id=30572

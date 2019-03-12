@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32186&d=0&a=1
+id:	32186
+title:	Maman na ngai
+author:	Theresa  Nyemba
+artist:	Merville  Mabula
+lang:	Lingala
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32186.png
+desc:	Likanisi oyo ekomamaki na mwana mobali oyo akosepelisa maman na ye. (Likanisi oyo esalemaki na bopemi ya bana na Sophiatown Community Psychological Services n Johannesburg
+
+page_text:
+
+P1	Oyo ezali ngai
+P2	Navandaka na maman na ngai, ndeko na ngai ya mobali na mwasi.
+P3	Maman na ngai alingaka kolamba.
+P4	Mbala mingi maman na ngai alingaka kotala baninga na ye.
+P5	Tango azali libanda, na bongisaka ndako pe nasukoli basani.
+P6	Tango ekomi butu, maman na ngai ayebisaka biso tosambela.
+P7	Tango ya mbotama na ngai, maman ayelaka ngai biloko.
+P8	Nalingaka maman na ngai.
+
+images:
+
+illustrations/pages/27543.png
+illustrations/pages/27544.png
+illustrations/pages/27545.png
+illustrations/pages/27546.png
+illustrations/pages/27547.png
+illustrations/pages/27548.png
+illustrations/pages/27549.png
+illustrations/pages/27550.png
+illustrations/pages/27543.png
+
+translations:
+
+English (Original)	My Mom	id=31878
+isiZulu (Translation)	Umama wami othandekayo	id=32235
+Kiswahili (Translation)	Mama wangu	id=32195
+Kiswahili (Translation)	Mama yangu	id=32200
+Portuguese (Translation)	A minha mãe	id=32205

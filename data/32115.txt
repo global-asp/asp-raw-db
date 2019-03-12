@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32115&d=0&a=1
+id:	32115
+title:	Igihe
+author:	Jean Paul Harelimana
+artist:	Joe  Werna
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32115.png
+desc:	Aka gakuru karatubwira ubwenge mu micungire yigihe.
+
+page_text:
+
+P1	Igihe ni umurima.
+P2	Muri uyu murima w'igihe, ubonamo utundi turima twinshi.
+P3	Umurima ni Umunsi.@@Umunsi ni amasegonda 86.400.
+P4	Ugomba gutangira igihe ukagikoresha neza. Iga ibindi bintu bishya.
+P5	Rya.@Kina.@Ruhuka.@Rota.@Tekereza.
+P6	Tera igiti, ishyamba rizakura. Kemura ikibazo.
+P7	Niba ubonye amafaranga, zigama amwe, ukoreshe andi, asigaye uyafashishe abatishoboye.
+P8	Niba bikunaniye, ntucike intege, ongera utangire. Uzabishobora uko iminsi ihita indi ikaza.
+P9	Kuwa Mbere no Kuwa Kabiri. Kuwa Gatatu no Kuwa Kane. Kuwa Gatanu no Kuwa Gatandatu, ndetse no Kucyumweru.
+P10	Hari inshuti zidasanzwe. Ishimire ubucuti.
+P11	Niba wumvise urushinge rw'isaha, uge w'ibuka ibyo nakubwiye.
+P12	Igihe ni Umurima mwiza, ni  Impano idasanzwe. Gikoreshe neza.
+
+images:
+
+illustrations/pages/27812.png
+illustrations/pages/27812.png
+illustrations/pages/27813.png
+illustrations/pages/27814.png
+illustrations/pages/27815.png
+illustrations/pages/27816.png
+illustrations/pages/27817.png
+illustrations/pages/27818.png
+illustrations/pages/27819.png
+illustrations/pages/27820.png
+illustrations/pages/27821.png
+illustrations/pages/27822.png
+illustrations/pages/27823.png
+
+translations:
+
+English (Original)	Time	id=31995
+Kiswahili (Translation)	Wakati	id=32008
+Tiv (Translation)	Shie	id=31996

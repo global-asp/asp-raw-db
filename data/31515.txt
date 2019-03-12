@@ -1,0 +1,84 @@
+url:	https://africanstorybook.org/reader.php?id=31515&d=0&a=1
+id:	31515
+title:	Maguru ujandja omarama
+author:	Auhe  Tjaveondja
+artist:	Wiehan de Jager
+lang:	Otjiherero
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31515.png
+desc:	Maguru uandja omarama ovinamuinjo kutja vikaondje tjimuna ovandu.
+
+page_text:
+
+P1	Ozombura ozonguru ndakapita, ovipuka kavina vijari nomarama. @@Avi kunguzuka.
+P2	Ovandu ombari nomarama, Maguru onga jandja omarama.
+P3	Eyuva rimwe, Maguru wamuna kutja majandja omarama kovipuka. Avanga kutja vikaondje. @@Eye wevi raera nao.
+P4	Ovipuka avitja, "Marire otjina otjiua tjitwakara nomarama." @@Aveimbura no kupunda mondjoroka.
+P5	Ovipuka avitja oko kuzeu okukunguzuka. @@Avemunu omihamo.
+P6	Eyeva tjireja, Ovipuka ovingi vijaja koja Maguru. @@Ongamero, Ongejama, Ondjou, Okapi, Okorongotela nou Zera wakurama moruteto.
+P7	Otjipuka atjihe tjapeua omarama yane. @@Ouzera uapeua omarama yevari.
+P8	Pakara nombangu okuza nokupeua omarama.@@Tjiva vari nondjorokanu tjiva avi uirepehi.
+P9	Vaja okukajarisira ovandu.@@Ovipuka avitja, "Katuna okukunguzuka  rukwao."
+P10	Omusenina moruteto jari engororo. Maguru apura,  "Penomundu uarue kongotwe joje po?" @@Engororo aziri, "Kako, owami omusenina."
+P11	Maguru eripura, "Eye omusenina. Metjitivi nomara ngujahupu?" @@Maguru ajandja omarama kengororo ngujaseauapo.
+P12	Engororo rari nondjoroka. Atja, "Mesepo ovakuetu."
+P13	Engororo tji raja, Onjoka aija poja Maguru. Aitja ku Maguru, "Arikana ndjipao omarama."
+P14	Maguru atja, "Mbajandja omarama ajehe ove waripi?" @@Onjoka aiziri, "Mbarara ezembwa."
+P15	Maguru atara kutja pena omarama pehi. @@Eje kena wemunu.
+P16	Maguru atja konjoka, "Ndjisira kapena omarama janda." Onjoka jakunguzuka okujaruka konganda nokuhina omarama.@@Okuza kejuvando, onjoka kairara rukwao tjinene. Undja okurira omutenga moruteto ko marama.
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+Afaan Oromo (Translation)	Luka Bineensootaa	id=21699
+Afrikaans (Translation)	Maguru deel bene uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+Dhopadhola (Translation)	Ogwange Jo Nwaŋo Tyendi Gin	id=21239
+English (Original)	Maguru gives legs	id=14415
+Fulfulde Mbororoore (Translation)	Taalol: Maaguru Hokkii Koyɗe	id=32056
+Hausa (Nigeria) (Translation)	Madugu ya raba ƙafafu	id=21315
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+Igbo (Translation)	Chiokike na-enye ụkwụ!	id=22122
+isiNdebele (Translation)	UMaguru unikela imilenze	id=21940
+isiXhosa (Translation)	UMaguru uphisa ngemilenze	id=17576
+isiZulu (Adaptation)	UMveli unikela ngemilenze	id=17461
+Khoekhoegowab (Translation)	Magurub ge ǀnūga ra mā	id=31765
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Kiswahili (Translation)	Maguru apatiana miguu	id=14412
+Kiswahili (Translation)	Wanyama wapata miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
+Lusoga (Translation)	Magulu Agha Ebigere	id=26554
+Oshikwanyama (Translation)	Shimbilinga ta havaleke omaulu	id=31570
+Oshindonga (Translation)	Maguru ta gandja omagulu	id=31506
+Rukwangali (Translation)	Maguru ana gava maguru	id=31493
+Sepedi (Translation)	Maguru o abela diphoofolo maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru o fana ka maoto	id=20037
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Siswati (Translation)	Mveli unikela ngemilente	id=21735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Tshivenḓa (Translation)	Maguru u ṋekedza milenzhe	id=18285
+Xitsonga (Translation)	Maguru a phakela milenge	id=18870

@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31510&d=0&a=1
+id:	31510
+title:	O Camaleão e o Coelho
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31510.png
+desc:	A Mozambican folktale about how Chameleon outwits his rival
+
+page_text:
+
+P1	Era uma vez um Camaleão e um Coelho. Apostaram uma corrida para ver quem seria o campeão.
+P2	O Coelho aceitou e disse: "Você anda muito devagar! Começa com esta perna, pára e depois começa de novo com a outra. Você nunca vai chegar. Vou deixar-lhe atrás, muito longe de mim. Nem me vai ver."
+P3	Convidaram muitos animais que se juntaram na meta.
+P4	O Camaleão e o Coelho começaram a correr.
+P5	O Camaleão saltou e empoleirou-se na cauda do Coelho.
+P6	O Coelho corria, os animais riam e batiam palmas. Faziam muito barulho por causa do Camaleão que estava agarrado à cauda do Coelho.
+P7	O Coelho ao ouvir tanto barulho parou e sentou. @@O Camaleão disse: "Não te sentes em cima de mim! Eu cheguei a muito tempo."
+P8	O Coelho assustou-se e de novo, começou a correr.
+P9	Ao chegar na meta, os animais batiam palmas, gritando ao ver o Camaleão ainda na cauda. O Coelho ouviu e pensou que o Camaleão tinha chegado.
+P10	Quando o Coelho chegou na meta, o Camaleão disse: "Não te sentes em cima de mim. Eu cheguei em primeiro lugar."
+P11	O Coelho não se demorou. Fugiu, e o Camaleão ficou a receber o prémio. O Coelho perdeu.
+
+images:
+
+illustrations/pages/27261.png
+illustrations/pages/27251.png
+illustrations/pages/27252.png
+illustrations/pages/27253.png
+illustrations/pages/27254.png
+illustrations/pages/27255.png
+illustrations/pages/27256.png
+illustrations/pages/27258.png
+illustrations/pages/27259.png
+illustrations/pages/27261.png
+illustrations/pages/27262.png
+illustrations/pages/27263.png
+
+translations:
+
+Cinyungwe (Translation)	Dwidwi na Sulo	id=31518
+Ciyawo (Translation)	A-Citagamulo na a-Kalunga	id=31524
+Elomwe (Translation)	Namanriya Opaka Wawe Mapokha nNamarokolo	id=31522
+Emakhuwa (Translation)	Ovaanyihana wa Namanriya  ni Namarokolo	id=31523
+English (Original)	Chameleon Races Rabbit	id=31355

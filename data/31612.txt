@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=31612&d=0&a=1
+id:	31612
+title:	Nema Buys Thread
+author:	Little Zebra Books
+artist:	Mirjam  Gyger
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31612.png
+desc:	Follow Nema through the market as she tries to buy some thread.
+
+page_text:
+
+P1	This is Nema. @Nema is sewing. @Nema is sewing a skirt.
+P2	Nema is sewing with thread. @The thread runs out. @Nema needs to buy more thread. @She needs money for shopping. @Where will she get some money?
+P3	Nema sees a tree. @The tree is nearby. @The tree has fruit. @The fruits are papayas.@Papayas are delicious.
+P4	Nema has a stick. @Nema gets the papayas.
+P5	Nema arrives at the market. @She arrives at the market with the papayas. @She wants to sell the papayas.
+P6	Look at the man. @The man buys a papaya. @He gives money to Nema. @Nema sells lots of papayas. @She is going to buy thread with the money.
+P7	In the market she sees bananas. @She doesn't buy bananas.
+P8	In the market she sees tomatoes. @She doesn't buy tomatoes.
+P9	In the market she sees a sieve. @She doesn't buy the sieve.
+P10	In the market she sees bread. @She doesn't buy bread.
+P11	Then Nema sees a man. @The man is selling thread. @Nema buys thread.
+P12	Nema has thread! @Nema is so happy. @She will finish sewing her skirt with the thread.
+
+images:
+
+illustrations/pages/27365.png
+illustrations/pages/27351.png
+illustrations/pages/27352.png
+illustrations/pages/27354.png
+illustrations/pages/27343.png
+illustrations/pages/27356.png
+illustrations/pages/27357.png
+illustrations/pages/27360.png
+illustrations/pages/27361.png
+illustrations/pages/27363.png
+illustrations/pages/27364.png
+illustrations/pages/27365.png
+illustrations/pages/27366.png
+
+translations:
+
+CiNyanja (Translation)	Nema Agula Ulusi	id=31643
+Cinyungwe (Translation)	Nema Wagula Usalu	id=31642
+Ciyawo (Translation)	A-Nema akusuma wusi	id=31646
+Elomwe (Translation)	Nema Oothuma Osola	id=31644
+Emakhuwa (Translation)	Neema Onthuma Nliinya	id=31645
+Portuguese (Translation)	A Nema Compra a Linha	id=31641

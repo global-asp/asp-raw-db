@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32026&d=0&a=1
+id:	32026
+title:	Zwiambaro zwanga zwa tshikolo
+author:	Ndivhuho Mutsila
+artist:	Mlungisi Dlamini
+lang:	Tshivenḓa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32026.png
+desc:	Tshiṱorini itshi ṅwana u edzisa zwiambaro zwi re zwihulusa khae
+
+page_text:
+
+P1	Rokho ya mukomana wanga ndi khulwanesa kha nṋe!
+P2	Dzhesi ya khaladzi anga ndi khulwanesa kha nṋe.
+P3	Bege ndi khulwane. @@Fhedzi a si khulwanesa!
+P4	Iyi bannda ya kale ndi ṱhukhusa kha nṋe.
+P5	Hoyu ndi muṅadzi wa mupopi wanga.
+P6	Saizi ya sogisi dzanga ndi yone. @@Fhedzi muvhala a si wone!
+P7	Zwienda zwanga zwiswa khezwi.
+P8	Zwi tou nndingana kwakwakwa!
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+Ekegusii (Translation)	Chianga chiane chiesukuru	id=31837
+English (Original)	My school clothes	id=31708
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Kikamba (Translation)	Ngũa syakwa sya sukulu	id=32168
+Lingala (Translation)	Bilamba na ngai ya kelasi	id=31795
+Lubukusu (Translation)	Chiingubo chaange cheesisomelo	id=31746
+Oluwanga (Translation)	Etsingubo tsianje etsiamumasomero	id=31729
+Sepedi (Translation)	Diaparo tša ka tša sekolo	id=32066
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827

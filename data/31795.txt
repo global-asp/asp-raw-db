@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31795&d=0&a=1
+id:	31795
+title:	Bilamba na ngai ya kelasi
+author:	Dorine Kamin
+artist:	Mlungisi Dlamini
+lang:	Lingala
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31795.png
+desc:	Ezali na muana ya moke na kombo ya Sophie azali komeka mbilamba ya kelasi nkasi mosusu ezali muke
+
+page_text:
+
+P1	Yaya na nga ya muasi robe naye ezali munene mpo na ngai!
+P2	Ndeko na ngai ya mobali tricot naye mpe ezali munene makasi mpo na nga.
+P3	Sakosi na nga ezali munene. Nkasi munene mingi te.
+P4	Mukaba na ngai oyo ezali ya kala, ekomi muke.
+P5	Ekoti yamutu ezali ya ngai.
+P6	Ba soseti na ngai ekoki nga malamu, nkasi langi nango ezali kitoko te.
+P7	Oyo ezali ba sapatu na ngai ya sika.
+P8	Bilamba ekoki nga malamu mingi.
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+Ekegusii (Translation)	Chianga chiane chiesukuru	id=31837
+English (Original)	My school clothes	id=31708
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Kikamba (Translation)	Ngũa syakwa sya sukulu	id=32168
+Lubukusu (Translation)	Chiingubo chaange cheesisomelo	id=31746
+Oluwanga (Translation)	Etsingubo tsianje etsiamumasomero	id=31729
+Sepedi (Translation)	Diaparo tša ka tša sekolo	id=32066
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827
+Tshivenḓa (Translation)	Zwiambaro zwanga zwa tshikolo	id=32026

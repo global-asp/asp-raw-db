@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=31999&d=0&a=1
+id:	31999
+title:	Jumanne zenye furaha
+author:	African Storybook
+artist:	Aisha  Muamba
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31999.png
+desc:	Kitabu hiki kinatukumbusha kutambua na kuenzi vitu vilivyo muhimu maishani. (Hadithi hii iliandikwa kwenye mpango maalum wa likizo katika mtaa wa Sophiatown jijini Johannesburg mwezi Julai 2018.).
+
+page_text:
+
+P1	Kulikuwa na msichana aliyeitwa Linda. Aliishi na dada zake wawili, kaka na mama.@@Alikuwa msichana mwenye furaha na mchangamfu.
+P2	Linda alikuwa na rafiki yake wa karibu aliyeitwa Stacy.@@Linda na Stacy waliaminiana na kufichuliana siri wakati wote.
+P3	Kila Jumanne, Linda na Stacy walipenda kwenda kuona sinema.@@Walivutiwa na bisi ya bure waliyoandaliwa huko.
+P4	Baada ya kutazama sinema, walikuwa wakienda uwanjani kusikiliza muziki.@@Pia, walikuwa wakifurahia kula aiskrimu.
+P5	Kwa hivyo, Jumanne ilikuwa siku ya furaha kwa Linda.@@Kwanza, yeye na Stacy walitazama sinema na kuandaliwa bisi ya bure.
+P6	Kisha yeye na Stacy walisikiliza muziki na kula aiskrimu uwanjani.
+P7	Lakini, lililo na mwanzo, vilevile lina mwisho!@@Jifunze kuthamini wakati unapofurahi...
+P8	...na watu unaoshiriki nao furaha hiyo.
+
+images:
+
+illustrations/pages/27698.png
+illustrations/pages/27693.png
+illustrations/pages/27694.png
+illustrations/pages/27695.png
+illustrations/pages/27697.png
+illustrations/pages/27696.png
+illustrations/pages/27692.png
+illustrations/pages/27698.png
+illustrations/pages/27699.png
+
+translations:
+
+English (Original)	Happy Tuesdays	id=31985
+isiZulu (Translation)	OLwesibili benjabulo	id=32234
+Lingala (Translation)	Mokolo ya mibale ya esengo	id=32190
+Portuguese (Translation)	As Terças-feiras Felizes	id=32207

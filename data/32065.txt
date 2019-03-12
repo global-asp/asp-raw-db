@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=32065&d=0&a=1
+id:	32065
+title:	Go bala dikatse
+author:	Dikeledi Queen Shai and Thelma Tshesane
+artist:	Jesse Breytenbach
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32065.png
+desc:	Pukwana ye e bolela ka go bala go tloga go lefeela go ya go senyane.
+
+page_text:
+
+P1	Na go na le dikatse tše kae mo?@ @Dikatse ke 0, lefeela.
+P2	Na go na le dikatse tše kae?@ @Katse e 1, tee.
+P3	Na go na le dikatse tše kae?@ @Ke dikatse tše 2, pedi.
+P4	Na go na le dikatse tše kae?@ @Go na le dikatse tše 3, tharo.
+P5	Na go na le dikatse tše kae?@ @Ke dikatse tše 4, nne.
+P6	Na go na le dikatse tše kae?@ @Ke dikatse tše 5, hlano.
+P7	Na go na le dikatse tše kae?@ @Ke dikatse tše 6, tshela.
+P8	Na go na le dikatse tše kae?@ @Ke dikatse tše 7, šupa.
+P9	Na go na le dikatse tše kae?@ @Go na le dikatse tše 8, seswai.
+P10	Na go direga eng mo?@@Katsana e palelwa ke go fologa mohlare.@@"O se ke wa šutha ke tla go thuša!"
+P11	"Mma, a re e hlokomele. Re e fe thušo yeo e e hlokago."@ @Na dikatse ke tše kae?@ @Ke dikatse tše 9, senyane.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Afrikaans (Translation)	Tel die katte	id=31791
+ChiShona (Translation)	Kuverenga kiti	id=31751
+Dhopadhola (Translation)	kwano pus	id=23214
+Ekegusii (Translation)	Kobara ebibusi	id=31755
+English (Adaptation)	Counting cats	id=12156
+isiZulu (Translation)	Ukubala amakati	id=31790
+Kikamba (Translation)	Kũtala mbaka	id=31753
+Kiswahili (Translation)	Kuhesabu paka	id=32196
+Lingala (Translation)	Ba niawu bazali boni?	id=31794
+Lubukusu (Translation)	Khuubala Chipuusi	id=31858
+Luganda (Translation)	Okubala Kappa	id=23490
+Luganda (Translation)	okubala kappa	id=23688
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala puusi	id=27336
+Oluwanga (Translation)	Okhubala Tsipusi	id=31769
+Runyankore (Translation)	Okubaara Enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584
+Sesotho (South Africa) (Translation)	Re  bala dikatse, lefela ho fihla ho robong	id=31793
+Tshivenḓa (Translation)	U vhala zwimange	id=31792

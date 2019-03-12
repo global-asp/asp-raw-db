@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32197&d=0&a=1
+id:	32197
+title:	Chess ya famille
+author:	Theresa  Nyemba
+artist:	Jamie  Luketa
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32197.png
+desc:	Iyi my shawiri bana ajikayo kwa mutoto mwana ume eko na djeza chess.(Iyi mashawiri ilikuya mu saya batoto beko ku na Sophiatown Community Psychological Sercives in Johannesburg
+
+page_text:
+
+P1	Irikuwa mutoto muana ume mudjina ya Rodney, eko ekala mu famille. Mama yake na baba yake madjina yabo Jamima na Mike. Banduku yake bana muke Suzy na Lola. Rodney eko mutoto ya mwisho.
+P2	Rodney anapenda kushesa chess. Anapenda mingi kushesa chess, ashipendake kusema.
+P3	Shiku moya, sa Rodney alikuwa mu masomo kushesa chess, anakumbuka musheso yake anenda kuyelesa mu famille.
+P4	Mike eko mulopwe. Jamima eko bibi ya mulopwe eko ngufu sana. Suzy na Lola bana shesaka na nkondo na mutumishe ya mungu. Rodney eko mutoto kiloko.
+P5	Anakubuka, Rodney anakimbiya ku nuemba mbiyo.
+P6	Bote mana mucheka. Sa moya. Rodney anabayelesa ye ana vile eko mutoto ya mwisho.
+P7	Rodney anasema kwa mama yake eko bibi wa mulopwe, baba yake eko mulopwe na ba nduku yake bana muke beko na shesa na nkondo ye eko mutumishe ya mungu.
+P8	Rodney anapenda kishesa sana. Sansa anapenda, kudjipelaka.
+
+images:
+
+illustrations/pages/27824.png
+illustrations/pages/27825.png
+illustrations/pages/27826.png
+illustrations/pages/27827.png
+illustrations/pages/27828.png
+illustrations/pages/27829.png
+illustrations/pages/27830.png
+illustrations/pages/27831.png
+illustrations/pages/27824.png
+
+translations:
+
+English (Original)	Chess and family roles	id=32045
+isiZulu (Translation)	Umdlalo weChess	id=32233
+Kiswahili (Translation)	Mchezo wa Chesi na majukumu ya familia	id=32201
+Lingala (Translation)	Chess na tina ya Libota	id=32232
+Portuguese (Translation)	O jogo de xadrez e os papéis da família	id=32208

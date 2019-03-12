@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=31888&d=0&a=1
+id:	31888
+title:	Tate Yetu
+author:	Joaquim  Kambindangolo
+artist:	Marleen Visser
+lang:	Olunyaneka
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31888.png
+desc:	Uma oração de Jesus em Mateus
+
+page_text:
+
+P1	Tate yetu uli keulu.
+P2	Aveho vaimbuke okuti enyina lyove likola.
+P3	Ouhamba wove wiye kwontwe.
+P4	Eci wahanda cilingwe, pohi ngeeci cilingwa keulu.
+P5	Twaavele hono okulya kwonontiki ambuho.
+P6	Tweevele okuleva kwetu,
+P7	ngeeci twevela, ava vetuleva.
+P8	Meyonjo wehetuyeke tutoke,
+P9	mwaina tuhukulule pocivi.
+P10	Ceeci ouhamba nononkono nehiliviko ovyove apeho. Amee.
+P11	Mateu 6:9-13
+
+images:
+
+illustrations/pages/27330.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Chinyungwe (Translation)	Baba Wathu	id=18980
+Cisena (Translation)	Baba Wathu	id=31887
+Elomwe (Translation)	Nivekelo Na Apwiya	id=18982
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=18983
+English (Original)	The Lord's Prayer	id=16246
+Ikisimbëtë (Translation)	Amasabhi agha Omonene	id=24809
+Imeetto (Translation)	Niswali	id=18993
+Lingala (Translation)	Tata na Biso	id=22493
+Lusoga (Translation)	Esaala  ya  Katonda	id=27752
+Portuguese (Translation)	Pai Nosso”	id=18981

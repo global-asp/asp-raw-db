@@ -1,0 +1,74 @@
+url:	https://africanstorybook.org/reader.php?id=31306&d=0&a=1
+id:	31306
+title:	Omukeeka gwa Asiimwe ogwembaganiza
+author:	Julius  Alinda
+artist:	Catherine Groenewald
+lang:	Runyoro-Rutooro
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31306.png
+desc:	Orugamkyo runu rukutwolekya nkooku omukeegwe gwamukoonyeire omu bizibu.
+
+page_text:
+
+P1	Ogwo nuwe Asiimwe akyaki muto. @@Nyina yamubyamuyaga ha mukeeka.
+P2	Omukeeka gwali guhunzirwe kurungi.
+P3	Owaabu Asiimwe haali habi.
+P4	Nobu haraaba habaire habi, omukeeka gukamulinda.
+P5	Asiimwe akamanya ha iziba n'omwa mukaaka.
+P6	Kiro kimu, akagenda mwa mukaaka yaburrayo.
+P7	Akaikarra yakwijagirara, yatamddika kuroota.
+P8	Akaroota omukeekagwe na mukaaka.
+P9	Obuyaimukire akanyonyi kakamwoleka omu handa yataacha.
+P10	Maama akasemererwa.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6003.png
+illustrations/pages/6006.png
+
+translations:
+
+Afrikaans (Translation)	Abike se dag	id=21977
+English (Original)	Akai's special mat	id=6008
+English (Adaptation)	Abike's day	id=21453
+English (Adaptation)	Asiimwe's special mat	id=31293
+English (Adaptation)	Asiimwe's special mat	id=31307
+French (Translation)	La Natte Spéciale D'Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Niger) (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+isiNdebele (Translation)	Ilanga lakaKhabo	id=21461
+isiZulu (Translation)	Usuku lukaZinhle	id=21458
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kiswahili (Translation)	Mkeka wa Akai	id=7860
+Kiswahili (Translation)	Siku ya Betina	id=23105
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusamba Lwa Kakayi Lwaburaawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Olunaku lwa Takia	id=25684
+Lusoga (Translation)	Omukeeka gwa Akaali	id=26254
+Lusoga (Translation)	Olunaku lw'Abike	id=27566
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Runyoro-Rutooro (Translation)	Omukeeka gwa Asiimwe ogwembaganiza	id=31308
+Sepedi (Translation)	Mmetse Wa Akai Wa Bohlokwa	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Sesotho (South Africa) (Translation)	Letsatsi la Atlehang	id=21466
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+Siswati (Translation)	Imadi yaThembi lebalulekile	id=13073
+Siswati (Translation)	Lilanga la-Abike	id=21455
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

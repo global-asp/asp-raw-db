@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=31650&d=0&a=1
+id:	31650
+title:	የሳራ ጀልባ
+author:	Mezemir Girma
+artist:	Rachel  Greer
+lang:	Amharic
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31650.png
+desc:	ሳራ ሰዎችንና እንስሳትን በጀልባዋ ወንዙን እያሻገረች ነው፡፡ ዝኆንም ግን ለመሳፈር ፈልጓል!
+
+page_text:
+
+P1	ሳራ ጀልባ አላት፡፡ @@ጀልባዋ ትልቅ ነው፡፡ @@ወንዝ ዳር ይገኛል፡፡
+P2	የተወሰኑ ሴቶች ወደ ወንዙ ይመጣሉ፡፡ አንዷ ሴትዮ በሳፋ ፍራፍሬ ይዛለች፡፡ ሌላኛዋ ዶሮ ታቅፋለች፡፡ ሌላኛዋ አንዲት ፍየል አለቻት፡፡ ሌላኛዋ ደግሞ ሁለት ፍየሎች ይዛለች፡፡ @@@ሳራን ‹‹ወንዙን እንዴት መሻገር እንችላለን?›› በማለት ጠየቋት፡፡ @ሳራም ‹‹ኑ ጀልባዬ ላይ ተሳፈሩ!›› አለቻቸው፡፡
+P3	ከዚያም የተወሰኑ ወንዶች መጡ፡፡ አንዱ ዓሣ ይዟል፡፡ ሌላኛው ብስክሌት አለችው፡፡ ሌላኛውም አንድ ጭነት በቆሎ አለው፡፡
+P4	ሌላ ሰውዬ ሁለት ጭነት በቆሎ አለው፡፡ @ሳራንም ‹‹ወንዙን እንዴት መሻገር እንችላለን?›› በማለት ጠየቋት፡፡ @@@ሳራም ‹‹ኑ ጀልባዬ ላይ ተሳፈሩ!›› አለቻቸው፡፡
+P5	የተወሰኑ እንስሳት ወደ ወንዙ መጡ፡፡ ሳራንም ‹‹ወንዙን እንዴት መሻገር እንችላለን?›› በማለት ጠየቋት፡፡ @ሳራም ‹‹ኑ ጀልባዬ ላይ ተሳፈሩ!›› አለቻቸው፡፡
+P6	እንስሳቱ ጀልባዋ ላይ ተሳፈሩ፡፡ @ዉሻ ጀልባዋ ላይ ተሳፈረች፡፡ @ድመት ጀልባዋ ላይ ተሳፈረች፡፡ @ዝንጀሮ ጀልባዋ ላይ ተሳፈረች፡፡ @ጥንቸል ጀልባዋ ላይ ተሳፈረች፡፡@ ኤሊ ጀልባዋ ላይ ተሳፈረች፡፡ @ሚዳቋም ጀልባዋ ላይ ተሳፈረች፡፡
+P7	ዝኆን ወንዙ ጋ ደረሰ፡፡ ሳራንም ‹‹ወንዙን እንዴት መሻገር እችላለሁ?›› በማለት ጠየቃት፡፡ @ሳራም ‹‹ና ጀልባዬ ላይ ተሳፈር!›› አለችው፡፡@ዝኆኑ ጀልባዋ ላይ ወጣ፡፡ ጀልባዋም በውኃ ተሞላች፡፡
+P8	...
+P9	ጀልባዋ ትንሽ ነች፡፡ በቂ ቦታ የላትም፡፡
+P10	ሳራም ‹‹ጠብቁ፣ መጀመሪያ ሴቶቹን እወስዳለሁ!›› አለች፡፡
+P11	‹‹ቀጥሎ፣ ወንዶቹን እወስዳለሁ!›› አለች ሳራ፡፡
+P12	‹‹በመጨረሻ እንስሶቹን እወስዳለሁ›› አለች ሳራ፡፡
+P13	ዝኆኑም ‹‹በቃ እኔ በእግሬ ልሂድ!›› አለ፡፡
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya A-Sara	id=19000
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A canoa da Sara	id=19001

@@ -1,0 +1,84 @@
+url:	https://africanstorybook.org/reader.php?id=31493&d=0&a=1
+id:	31493
+title:	Maguru ana gava maguru
+author:	Djaupyu  Siteketa
+artist:	Wiehan de Jager
+lang:	Rukwangali
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31493.png
+desc:	Maguru ana tokora kugava maguru koyikorama nayine yipo nayo yi gende nawanawa ngwendi vantu.
+
+page_text:
+
+P1	Pwanare nare, yikorama kapi yakere nomaguru.@ @Ayo nayinye kwa hwire kukokava.
+P2	Vantu velike va kere nomaguru, aga Maguru gava pere navenye.
+P3	Ezuva limwe, Maguru kwatokwere kugava maguru kwankenye sikorama. Age kwayi harere yi gende.@@Eyi yiyo gava tanterere.
+P4	Yikorama kwa tente asi, "Tayi kara nawa mokugwana maguru."@ @Ayo kwa dimbire nokudana.
+P5	Yikorama kwa tente asi kwa kere udigu mokukokava.@ @Ayo ngayi zuvhu kukora.
+P6	Apa lyasikiremo ezuva, yikorama yoyinzi kwa zire kembo lyaMaguru.@ @Nombahe, vanyime, vanzonvhu, vandimba, vangandu no yidira kwasi keme momukweyo.
+P7	Nkenye sikorama kwasi pere maguru gane.@ @Yidira ayo kwayi pere nkenye simwe maguru gavali.
+P8	Yininke nayinye kwali sintire konyima zapa ya gwene maguru.@ @Yimwe kwa dene koruhafo. Ano yimwe kwa guvire.
+P9	Ayo kwa zire yika likide vantu.@ @Yikorama kwa tente asi, "Na rumwesi ngatu kokava hena."
+P10	Simwe sa kere kouhura momukweyo egongorokani. Maguru kwali pulire asi, "Nye kweli gumwe konyima zoge ndi?"@ @Egongorokani kwa limbwilire asi, "Hawe, ame nyame gokuhulilira ko."
+P11	Maguru kwa gazarere, "Alyo yilyo lyokuhulilira. Yinke nani karuganesa komaguru nagenye gana hupuko?"@ @Maguru yipo gapere Egongorokani maguru nagenye aga ga hupireko.
+P12	Egongorokani kwa hefe sili unene. Alyo kwatente asi, "Ame tani genderere kupitakana navenye."
+P13	Konyima zapa Egongorokani lya zire, Ezoka tali wiza kembo lyaMagurua. Tali tantere Maguru asi, "Na kanderere name pengeko maguru gamwe."
+P14	Maguru kwa tente asi, "Nagava maguru nagenye. Ove kupi ko kara?"@ @Ezoka kwa limbwilire asi, "Ame kwa rarerere."
+P15	Maguru kwa zire aka tare asi walye kwa hupire maguru.@ @Kapi gaka gwene komaguru gamwe.
+P16	Maguru kwa tanterere Ezoka asi, "Gusirangepo. Kwato maguru gana lihupuko." Makura Ezoka kwa tengwire kembo lyahana kugwana maguru.@ @Kutunda ezuva olyo, Ezoka kapi ali rara hena unene. Alyo kwa ndindira asi yipo likare lyokuhova momukweyo mokuka gwana maguru.
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+Afaan Oromo (Translation)	Luka Bineensootaa	id=21699
+Afrikaans (Translation)	Maguru deel bene uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+Dhopadhola (Translation)	Ogwange Jo Nwaŋo Tyendi Gin	id=21239
+English (Original)	Maguru gives legs	id=14415
+Fulfulde Mbororoore (Translation)	Taalol: Maaguru Hokkii Koyɗe	id=32056
+Hausa (Nigeria) (Translation)	Madugu ya raba ƙafafu	id=21315
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+Igbo (Translation)	Chiokike na-enye ụkwụ!	id=22122
+isiNdebele (Translation)	UMaguru unikela imilenze	id=21940
+isiXhosa (Translation)	UMaguru uphisa ngemilenze	id=17576
+isiZulu (Adaptation)	UMveli unikela ngemilenze	id=17461
+Khoekhoegowab (Translation)	Magurub ge ǀnūga ra mā	id=31765
+Kinyarwanda (Translation)	Maguru Atanga Amaguru	id=17467
+Kiswahili (Translation)	Maguru apatiana miguu	id=14412
+Kiswahili (Translation)	Wanyama wapata miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
+Lusoga (Translation)	Magulu Agha Ebigere	id=26554
+Oshikwanyama (Translation)	Shimbilinga ta havaleke omaulu	id=31570
+Oshindonga (Translation)	Maguru ta gandja omagulu	id=31506
+Otjiherero (Translation)	Maguru ujandja omarama	id=31515
+Sepedi (Translation)	Maguru o abela diphoofolo maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru o fana ka maoto	id=20037
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Siswati (Translation)	Mveli unikela ngemilente	id=21735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Tshivenḓa (Translation)	Maguru u ṋekedza milenzhe	id=18285
+Xitsonga (Translation)	Maguru a phakela milenge	id=18870

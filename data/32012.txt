@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32012&d=0&a=1
+id:	32012
+title:	Pé, mô, i kabésa!
+author:	Learn  Kabuverdianu
+artist:	Brian Wambi, Kathy Arbuckle, Sarah Bouwer, Selina Masego Morulane, Silva Afonso, Vusi Malindi, Vusumuzi Malindi and Wiehan de Jager
+lang:	Kabuverdianu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32012.png
+desc:	Prende sobri kes sinku sentidu i maravilha di nos korpu.
+
+page_text:
+
+P1	N ta uza nha pé pa kóre, salta, i xuta.
+P2	N ta uza nha mô pa kume, trabadja, i brasa nha família.
+P3	Má más inportanti ki mô i pé é kabésa.
+P4	Na kabésa ten odjus. N pode odja ku nha odjus.
+P5	Na kabésa tanbê ten narís. N ta txera kuzas sábi ku nha narís.
+P6	Na Kabésa tanbê ten orédjas. N pode obi ku nha orédjas.
+P7	Na kabésa tanbê ten língua. N pode xinti gostu di kumida.
+P8	Na kabésa tanbê ten bóka. N ta pâpia ku nha bóka.
+P9	Kabésa ta kontrola korpu interu!
+
+images:
+
+illustrations/pages/13338.png
+illustrations/pages/14908.png
+illustrations/pages/9353.png
+illustrations/pages/1714.png
+illustrations/pages/14998.png
+illustrations/pages/15128.png
+illustrations/pages/16533.png
+illustrations/pages/1500.png
+illustrations/pages/10976.png
+illustrations/pages/16534.png
+
+translations:
+
+English (Adaptation)	Feet, hands and head!	id=16631
+Lunyole (Original)	Omutwe Gwange	id=16630
+Lusoga (Translation)	Ebigere,emikono no mutwe!	id=25843

@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=31301&d=0&a=1
+id:	31301
+title:	Ninafurahi kufanya hivi
+author:	African Storybook
+artist:	Wiehan de Jager
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31301.png
+desc:	Sentensi fupi kuhusu vitendo ambavyo mtoto anafurahi kufanya.
+
+page_text:
+
+P1	Ninafurahi kuruka na rafiki yangu.
+P2	Ninafurahi kuandika herufi ubaoni.
+P3	Ninafurahi kusoma vitabu vya picha.
+P4	Ninafurahi kula matunda.
+P5	Ninafurahi kusaidia kazi nyumbani.
+P6	Ninafurahi mama akinisimulia hadithi.
+P7	Ninafurahi kulala kwenye kitanda kikubwa.
+P8	Ninafurahi kufanya vitu hivi.@@Wewe unafurahi kufanya nini?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat ek graag doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+CiNyanja (Translation)	Vintu Vamene Nikonda Kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I enjoy doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+isiNdebele (Translation)	Ngithanda ukwenza	id=21932
+Lusoga (Translation)	Nhumirwa okukola	id=25982
+Sepedi (Translation)	Tšeo ke ratago go dira	id=18984
+Sesotho (South Africa) (Translation)	Ke rata ho etsa	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Siswati (Translation)	Lengijabulela kukwenta	id=21724
+Tshivenḓa (Translation)	Zwine nda zwi takalela	id=18986
+Xitsonga (Translation)	Ndzi rhandza ku endla	id=18875

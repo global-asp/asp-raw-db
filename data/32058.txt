@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32058&d=0&a=1
+id:	32058
+title:	Ali ɗon Lima Kuleeji
+author:	Abdullaahi Aadamu Bappa
+artist:	Jesse Breytenbach and Jesse Pietersen
+lang:	Fulfulde Mbororoore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32058.png
+desc:	Ɗum deftere limngal. Sey limen diga 0 yahugo 9.
+
+page_text:
+
+P1	Kuleeji noye? 0 Kuleeji zero.@@Kuleeji ngalaa.
+P2	Kuleeji noye? 1 Kuleeru wooru. @@Kuleeru ɓaleeru e nyaama kusel bodeyel.
+P3	Kuleeji noye? 2 Kuleeji ɗiɗi. @@Kuleeru raneeru e kuleeru furdu. Kuleeji ɗiɗi e pija haade@  looɗe.
+P4	Kuleeji noye? 3 Kuleeji tati feere-feereeji. @@Kuleeji e pija e ɗi ƴeenga e ɗi njippoo.
+P5	Kuleeji noye? 4 Kuleeji nayi. @@Kuleeji nayi ɗi soobiraaji Ali.
+P6	Kuleeji noye? 5 Kuleeji jowi. @@Kuleeji jowi e pija nder suudu. Mi yiɗiɗum.
+P7	Kuleeji noye? 6 Kuleeji joweegoʼo. @@Kuleeji joweegoʼo e ɗi njooɗodo ɗi ndaara tele.
+P8	Kuleeji noye? 7 Kuleeji joweeɗiɗi. @@Kuleeji joweeɗiɗi e pija nder saare.
+P9	Kuleeji noye? 8 Kuleeji joweetati. @@Kuleeji ngiiɗa ɓoosaaji.
+P10	Kuleyel ɗaggii dow lekki! Ali wiʼi, "Mi hisnete!"
+P11	Ali wiʼi, "Inna, koo en njogotongel? Kanngel tan ɓeydeten." @@Kuleeji noye? 9!  Inna wiʼi, "Kuleeji joweenayi maa ɗuuɗaniiʼen.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/13388.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+English (Adaptation)	Can We Count Our Cats?	id=13562
+Hausa (Nigeria) (Translation)	Muna Iya Kirga Kyanwoyinmu	id=21363
+Lusoga (Translation)	Tusobola  okubala obupuusi?	id=25825
+Runyankore (Translation)	Nitubasa Kubara Ezaangu Zitu	id=23613
+Tiv (Translation)	Se Faityô u Ôron Ukpatema Aseva?	id=32029

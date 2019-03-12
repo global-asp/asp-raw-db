@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31837&d=0&a=1
+id:	31837
+title:	Chianga chiane chiesukuru
+author:	Gladys Nyachieo
+artist:	Mlungisi Dlamini
+lang:	Ekegusii
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31837.png
+desc:	Ase omogano oyo omwana nigo akoerengia chianaga chinge
+
+page_text:
+
+P1	Eganchu ya moiseke ominto nigo ere enene asende.
+P2	Eswenta ya momura ominto neero nigo ere enene.
+P3	Omobuko one noro nigo ore omonene.@@Korende tori monene mono.
+P4	Omochibi oyo omogotu nigo ore omoke asende.
+P5	Eye ne'ekobia ye edoli yane.
+P6	Chisogisi chiane nigo ching'isaine.@@Koreinde erangi eng'ao!
+P7	Ebi ne'ebirato biane ebiyia.
+P8	Nigo bing'isaine buya.
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+English (Original)	My school clothes	id=31708
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Kikamba (Translation)	Ngũa syakwa sya sukulu	id=32168
+Lingala (Translation)	Bilamba na ngai ya kelasi	id=31795
+Lubukusu (Translation)	Chiingubo chaange cheesisomelo	id=31746
+Oluwanga (Translation)	Etsingubo tsianje etsiamumasomero	id=31729
+Sepedi (Translation)	Diaparo tša ka tša sekolo	id=32066
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827
+Tshivenḓa (Translation)	Zwiambaro zwanga zwa tshikolo	id=32026

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32236&d=0&a=1
+id:	32236
+title:	Indawo enginikeza intokozo
+author:	Zanele Zuma
+artist:	Summayya  Muamba
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32236.png
+desc:	This story shares the caring insights of a girl about how young and old people can bring happiness to one another. (This story was created at a holiday programme run by Sophiatown Community Psychological Services in Johannesburg
+
+page_text:
+
+P1	Ngizonixoxela ngami neKhaya labadala.
+P2	Lesi isakhiwo esikhulu esiseBertrams, eGoli. @@Izindonga zakhona zimbalabala, zihlanzekile futhi uma ungena ngaphakathi kuthule cwaka. Abantu abahlala lapha bedala kakhulu.@@Ngelinye ilanga savakashela kule ndawo nomama.
+P3	Leli Khaya labadala ngilithanda kakhulu!@@Njalo uma ngibona abantu abadala ngiyajabula futhi ngiyakwazi ukubasiza.
+P4	Ngelinye ilanga ngafika khona ngabageza izinwele abanye.
+P5	Ngaphinde ngabapha ukudla.@@Nakuba abanye babo babengethusa, kodwa kwakungijabulisa ukuba nabo.
+P6	Kwakukhona ugogo owayenolaka futhi engafuni nakancane ukusizwa. Wayevele athethe nje.
+P7	Kwakukhona omunye engambamba izandla wangabe esafuna ukungidedela. Izandla zakhe zazithambile futhi zifudumele.@@Wayenegama elifana nelikadadewethu, u-Aisha.
+P8	Ngibathanda kakhulu abantu abadala.  Basixoxela izindaba zakudala futhi engingeke ngizazi.
+
+images:
+
+illustrations/pages/27702.png
+illustrations/pages/27701.png
+illustrations/pages/27702.png
+illustrations/pages/27703.png
+illustrations/pages/27704.png
+illustrations/pages/27705.png
+illustrations/pages/27706.png
+illustrations/pages/27700.png
+illustrations/pages/27707.png
+
+translations:
+
+English (Original)	My happy place	id=31939
+Kiswahili (Translation)	Fashi ya furah	id=32199
+Kiswahili (Translation)	Pahali pangu pa furaha	id=32202
+Lingala (Translation)	Esika ya esengo	id=32188
+Portuguese (Translation)	O lugar da minha felicidade	id=32206

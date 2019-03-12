@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=31509&d=0&a=1
+id:	31509
+title:	Okamati haka fadhu kapo
+author:	Hamukoto  Efraim
+artist:	Megan  Barry
+lang:	Oshindonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31509.png
+desc:	Oka hokololo hano ota ka kwa ndjangele no maiuvo goomo family ngele omuntu gumwe aningi oshiima shapuka.
+
+page_text:
+
+P1	Gemo na Nelson oya li aamwayinamati.
+P2	Gemo okwali hai kosikola esiku kehe, ihe Nelson ka kwali ha yi.
+P3	Tate gwao okwali halongo mondoolopa. @@Meme gwawo okwali halongo moshikunino.
+P4	Esiku limwe tate gwe okwali athigi iimaliwa poshitafula. @@Nelson okwe yi kuthapo.
+P5	Tate gwe okwali ageya noonkondo.
+P6	Na Nelson okwa fadhukapo. @@Okweende no kweende esiku awuhe.
+P7	Okwa kuutumba kohi yomuti uusiku alihe.
+P8	Omumwainamati Gemo okwe mwaadha kohi yomuti, no kwe mu kuthapo ee temufala kegumbo.
+P9	"Omolwashike wayakapo po iimaliwa?" tate gwe tapula.
+P10	"Omolwashike wafadhukapo?" meme gwe ta pula.
+P11	"Ombili, ombili," osho Nelson ati, no kwa galula iimaliwa.
+P12	Oye mu papatele no ya li yanyanyukwa natango.
+
+images:
+
+illustrations/pages/26358.png
+illustrations/pages/26133.png
+illustrations/pages/26359.png
+illustrations/pages/26357.png
+illustrations/pages/26360.png
+illustrations/pages/26361.png
+illustrations/pages/26362.png
+illustrations/pages/26358.png
+illustrations/pages/26363.png
+illustrations/pages/26364.png
+illustrations/pages/26365.png
+illustrations/pages/26366.png
+illustrations/pages/26379.png
+
+translations:
+
+English (Original)	The boy who ran away	id=22357
+Khoekhoegowab (Translation)	ǃKhoeni ge axab xa	id=31768
+Luganda (Translation)	Omuvubuka eyaduka n'agenda	id=22473
+Lusoga (Translation)	Omulenzi eyalumuka wo	id=25877
+Oshikwanyama (Translation)	Okaana ka fadukapo	id=31574
+Otjiherero (Translation)	Omuzandu Nga tupuka	id=31520
+Rukwangali (Translation)	Mumati ogu ga tjwayukire	id=31588

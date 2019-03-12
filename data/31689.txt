@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=31689&d=0&a=1
+id:	31689
+title:	Friend at Night
+author:	Little Zebra Books
+artist:	Magriet Brink and Leo Daly
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31689.png
+desc:	A parable of Jesus
+
+page_text:
+
+P1	Luke 11:1-10@@Now Jesus was praying in a certain place. When he stopped, one of his disciples said to him, "Lord, teach us to pray, just as John taught his disciples."
+P2	So he said to them, "When you pray, say:@@Father, may your name be honored; may your kingdom come. Give us each day our daily bread, and forgive us our sins, for we also forgive everyone who sins against us. And do not lead us into temptation."
+P3	Then he said to them—@@Suppose one of you has a friend, and you go to him at midnight and say to him,
+P4	"Friend, lend me three loaves of bread, because a friend of mine has stopped here while on a journey, and I have nothing to set before him."
+P5	Then he will reply from inside, "Do not bother me. The door is already shut, and my children and I are in bed. I cannot get up and give you anything."
+P6	I tell you, even though the man inside will not get up and give him anything because he is his friend, yet because of the first man's sheer persistence he will get up and give him whatever he needs.
+P7	So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened for you.
+P8	For everyone who asks receives, and the one who seeks finds, and to the one who knocks, the door will be opened.
+
+images:
+
+illustrations/pages/27427.png
+illustrations/pages/27457.png
+illustrations/pages/27428.png
+illustrations/pages/26580.png
+illustrations/pages/26579.png
+illustrations/pages/26581.png
+illustrations/pages/26582.png
+illustrations/pages/27429.png
+illustrations/pages/15753.png
+illustrations/pages/27430.png
+
+translations:
+
+Cisena (Translation)	Xamwali Anabwera na Masiku	id=31885
+Portuguese (Translation)	O Amigo Que Vem à Noite	id=31884

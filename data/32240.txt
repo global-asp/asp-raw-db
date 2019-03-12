@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=32240&d=0&a=1
+id:	32240
+title:	Musa na Se
+author:	Jean Paul Harelimana
+artist:	Benjamin Mitchley
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32240.png
+desc:	Se wa Musa yahoraga yasinze. Ijoro rimwe
+
+page_text:
+
+P1	Musa yabanaga na Se witwaga Senzoga.
+P2	Buri munsi, Senzoga yajyaga kunywa inzoga.
+P3	Senzoga yatahaga yasinze. Yaratakaga atabaza abantu ngo bamukize impyisi.
+P4	Abantu bazaga birukanka ariko ntibabone impyisi.
+P5	Ibi, Senzoga yabikoze kenshi, bahagera bakabura impyisi.
+P6	Urusaku rwa Senzoga rwaknguraga umuhngu we, Musa, buri munsi.
+P7	Ijoro rimwe, impyisi yateze Senzoga igira ngo imurye.
+P8	Senzoga yaratatse cyane abantu baravuga bati: "Tumaze kukurambirwa."
+P9	Musa yategereje Se ntiyambona.
+P10	Musayaribwiye ati: "Byanze bikunze, Data ari mu byago."
+P11	Musa yirukankiye hanze.
+P12	Musa yarahamagaye ati:"Data! Data! Impyisi yaririmo gukurura akaguri ka Se.
+P13	Kuva uwo munsi, Senzoga yarihannye. Yatangiye kucira umwana we imigani.
+
+images:
+
+illustrations/pages/8233.png
+illustrations/pages/8221.png
+illustrations/pages/8222.png
+illustrations/pages/8223.png
+illustrations/pages/8224.png
+illustrations/pages/8225.png
+illustrations/pages/8226.png
+illustrations/pages/8227.png
+illustrations/pages/8228.png
+illustrations/pages/8229.png
+illustrations/pages/8230.png
+illustrations/pages/8231.png
+illustrations/pages/8232.png
+illustrations/pages/8234.png
+
+translations:
+
+Amharic (Translation)	አባቱን የታደገው ጥላሁን	id=12738
+English (Original)	Musau saves his father	id=2140
+English (Adaptation)	Musau and his father	id=18326
+Kinyarwanda (Translation)	Mukiza Yatabaye Se	id=20709
+Kinyarwanda (Translation)	Mukiza Yatabaye Se	id=20730
+Lámnsoʼ (Translation)	Musau bóyír tàr wov	id=22304
+Luganda (Translation)	Kabali Ataasa Kitaawe	id=6426
+Lugbarati (Translation)	Amagu Pa Ima Ati	id=2522
+Lumasaaba (Translation)	Musalu Awonesa Paapawe	id=3077
+Lunyole (Translation)	Musa Ataasa Semwana	id=2523
+Lusoga (Translation)	Musana  ni  ise	id=25448
+Lusoga (Translation)	Musa ni laata we	id=26381

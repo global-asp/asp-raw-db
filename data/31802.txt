@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=31802&d=0&a=1
+id:	31802
+title:	Selemenge na niawu
+author:	Theresa  Nyemba
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31802.png
+desc:	Selemenge azali na ba niawu ebele. Selemenge azali na ba niawu boni?
+
+page_text:
+
+P1	Selemenge alingaka niawu. Ba niawu bazali ebele na ndako.
+P2	Selemenge azali na niawu moko ya moyindo. Niawu oyo aliaka biloko ebele.
+P3	Selemenge azali na niawu moko ya monene. Niawu oyo aliaka biloko nioso.
+P4	Niawu ya misato, akimi na nzete. Niawu akangemi likolo ya nzete.
+P5	Selemenge amati na nzete, akangemi na nzete na niawu. @@Maman ya Selemenge aye kosalisa bango bakita.
+P6	Selemenge azali na ba niawu mibale ya bolembu, balali libanda na moyi mokolo mobimba.
+P7	Selemenge azali na ba niawu misato na mosala. Bakangi punku na kikuku na butu.
+P8	Selemenge azali na mbwua moko. Kombo na ye Lirafi. Lirafi azali na moninga te. Ye alobi.
+P9	Selemenge ba niawu na yo balingi Lirafi te. Babengani ye libanda ya ndako. Lirafi akimi mosika.
+P10	Selemenge amoni Lirafi pe amemi ye na ndako. Ba niawu basepeli te. Balingi komona Lirafi lisusu te.
+P11	Selemenge azali na ba niawu boni? Azali na bango muambe.
+P12	Selemenge azali na ba mbwua boni? Azali na mbwua moko. Lirafi azali wapi sikoyo?
+P13	Ozali na ba niawu boni na ndako? Ozali na ba mbwua boni na ndako?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+isiZulu (Translation)	Amakati kaZamo	id=31799
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Epusi dha kelementi	id=27609
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

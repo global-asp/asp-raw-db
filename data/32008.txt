@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32008&d=0&a=1
+id:	32008
+title:	Wakati
+author:	Ursula  Nafula
+artist:	Joe  Werna
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32008.png
+desc:	Hadithi hii inaonyesha jinsi hekima inamsaidia mtu kutumia wakati kwa njia ya manufaa.
+
+page_text:
+
+P1	Wakati ni zawadi iliyofungwa kama kifurushi.
+P2	Katika kifurushi hiki, vifurushi vingine vingi vinapatikana.
+P3	Mfano wa kifurushi kimoja cha wakati, ni siku.@@Siku ina sekunde 86,400.
+P4	Ni lazima uufungue wakati na kuutumia vyema.@@Tumia wakati ulio nao kujifunza mambo mapya.
+P5	Kula.@Cheza.@Pumzika.@Kuwa na maono.@Waza.
+P6	Ukipanda mti, msitu utakua.@@Tatua tatizo.
+P7	Fedha zako zinapokuwa nyingi,@hifadhi zingine,@tumia zingine,@gawa zingine.
+P8	Unaposhindwa, anza tena.@@Zawadi ya wakati imo katika kila siku.
+P9	Jumatatu na Jumanne.@@Jumatano na Alhamisi.@@Ijumaa na Jumamosi, hata Jumapili.
+P10	Hizi siku ni kama marafiki maalum.@@Furahia urafiki wa kila siku.
+P11	Saa inaposema tik tok, yakumbuke maneno yangu.
+P12	Wakati ni kifurushi na ni zawadi ya kipekee.@@Itumie vyema.
+
+images:
+
+illustrations/pages/27812.png
+illustrations/pages/27812.png
+illustrations/pages/27813.png
+illustrations/pages/27814.png
+illustrations/pages/27815.png
+illustrations/pages/27816.png
+illustrations/pages/27817.png
+illustrations/pages/27818.png
+illustrations/pages/27819.png
+illustrations/pages/27820.png
+illustrations/pages/27821.png
+illustrations/pages/27822.png
+illustrations/pages/27823.png
+
+translations:
+
+English (Original)	Time	id=31995
+Kinyarwanda (Translation)	Igihe	id=32115
+Tiv (Translation)	Shie	id=31996

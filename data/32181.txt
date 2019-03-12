@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=32181&d=0&a=1
+id:	32181
+title:	Mobeti ya ndembo
+author:	Theresa  Nyemba
+artist:	David J M
+lang:	Lingala
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32181.png
+desc:	Mwana mobali azali motuya kitoko ya papa akosunga ye po te akoma minzoto ya bala. (Likanisi oyo esalamaki na bopemi ya bana na Sophiatown Community Psychological Services na Johannesburg
+
+page_text:
+
+P1	Mbula mokama, mobeti ya ndembo gem azalaki koyekola. Tango azalaki komona mbala ya liboso, na bato koyamba makasi palatable.
+P2	Na tango ya bale ya yambo bitumba na mokili gem abungaka. Moto moko te ayebaki nini ekomelaki ye. Mbula ebele elekaka. Mobeti bale gem amonanaka bonene tango mobeti ndembo abotamaka.
+P3	Mikolo mingi te, ezalaki na mwana moko ya mobali na kombo David. Awutaki na libota ya bobola.
+P4	Liboso papa ya David akufa, apesaki mobeti ndembo gem mwana naye.  Mwana ya liboso ya mobali ayebaki te makasi ya palatable.
+P5	Azalaki mwana moke tango liboso gem azuiki ye abeta bale. David atikali kokende kelasi te. Kasi na gem mobola, azalaki kogagne tango nioso masano azalaki kobeta na baninga.
+P6	Aye kokanisa te akoki kosala bongo pona libota naye soki akomi kobeta bale. Akofungola magasin pona maman naye, pe kotinda leki na ye ya mobali na ya mwasi na kelasi.
+P7	David ayebani lokola mobeti ya ndembo ya solo pe bato bamoni. Ezalaki  po azalaki na liloba mosusu.
+P8	Minzoto bale bakotikala kobosana ye te.
+
+images:
+
+illustrations/pages/27832.png
+illustrations/pages/27833.png
+illustrations/pages/27834.png
+illustrations/pages/27835.png
+illustrations/pages/27836.png
+illustrations/pages/27837.png
+illustrations/pages/27838.png
+illustrations/pages/27839.png
+illustrations/pages/27832.png
+
+translations:
+
+English (Original)	Soccer star	id=32046
+isiZulu (Translation)	Ingqwele yebhola	id=32237
+Kiswahili (Translation)	Nyota wa Soka	id=32068
+Portuguese (Translation)	A Estrela do futebol	id=32209

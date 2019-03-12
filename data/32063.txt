@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=32063&d=0&a=1
+id:	32063
+title:	Katse le Mpša ka morago ga Serurubele
+author:	Dikeledi Queen Shai and Thelma Tshesane
+artist:	Elke and René Leisink
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32063.png
+desc:	Katse le Mpša ba lebeletše serurubele ka lefasetere. Ba duma go swara serurubele.
+
+page_text:
+
+P1	Yo ke Katse.@@Yo ke Mpša.
+P2	Katse le Mpša ba lebeletše ka lefasetere.@@Ba lebeletše ka lefasetere.
+P3	Katse le Mpša ba bona serurubele!@@Serurubele ke se se pinki.
+P4	Katse le Mpša ba nyaka go swara serurubele.@@Katse le Mpša ba šala serurubele morago.@@Ba šetše serurubele morago.
+P5	Katse le Mpša ba šetše serurubele morago ka maoto. Ba sepela ka morago ga serurubele.@@Efela serurubele se fofa ka lebelo. Serurubele se fofa ka lebelo mola Katse le Mpša ba nanya. Ba nanya kudu.
+P6	Katse le Mpša ba šetše serurubele morago ka dithuthuthu. Ba otlela ka morago ga serurubele. @@Efela serurubele se fofa ka lebelo. Serurubele se fofa ka lebelo kudu mola Katse le Mpša ba nanya. Ba nanya kudu.
+P7	Katse le Mpša ba šetše serurubele morago ka koloi. Ba otlela ka morago ga serurubele.@@Efela serurubele se fofa ka lebelo. Serurubele se sa fofa ka lebelo kudu mola Katse le Mpša ba nanya. Ba sa nanya kudu.
+P8	Katse le Mpša ba šetše serurubele morago ka sekepe. Ba sesa ka morago ga serurubele.@@Efela serurubele se fofa ka lebelo. Serurubele se fofa ka lebelo le legolo mola Katse le Mpša ba nanya. Ba sa nanya kudu.
+P9	Katse le Mpša ba šetše serurubele morago ka sefofane. Ba fofa ka morago ga serurubele.@@Efela serurubele se fofa ka lebelo. Serurubele se sa fofa ka lebelo le legolo kudu mola Katse le Mpša ba nanya. Ba sa nanya kudu go feta.
+P10	Katse le Mpša ba a ema. Ba rile go ema, ba dula fase. Ba dutše ka tlase ga mohlare. @@Ba dutše ka tlase ga mohlare wo mogoolo.@@Efela bjale…
+P11	Ba bona serurubele se tee mohlareng.@@Ba bona dirurubele tše pedi mohlareng.@@Ba bona dirurubele tše tharo mohlareng.@@Ba bona dirurubele tše nne mohlareng.@@Ba bona dirurubele tše hlano mohlareng.
+P12	Ba bona dirurubele tše lekgolo!
+P13	Šala gabotse Katse.@@Šala gabotse Mpša.@@Šalang gabotse dirurubele!
+
+images:
+
+illustrations/pages/25582.png
+illustrations/pages/25584.png
+illustrations/pages/25585.png
+illustrations/pages/25586.png
+illustrations/pages/25587.png
+illustrations/pages/25588.png
+illustrations/pages/25589.png
+illustrations/pages/25590.png
+illustrations/pages/25591.png
+illustrations/pages/25592.png
+illustrations/pages/25593.png
+illustrations/pages/25594.png
+illustrations/pages/25595.png
+illustrations/pages/25596.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiShona (Translation)	Kiti na Imbwa neShavishavi	id=31762
+Ekegusii (Translation)	Ekebusi, Esese amo ne'ekegwankwa	id=31838
+English (Original)	Cat and Dog and the butterfly	id=21980
+isiZulu (Translation)	Ikati, inja novemvane	id=31811
+Kikamba (Translation)	Mbaka na Ngitĩ na kĩmbalutya	id=32167
+Lingala (Translation)	Niawu na mbwua na kipekapeka	id=31815
+Lubukusu (Translation)	Eepuusi nende Eembwa nende siipuruupuru	id=31748
+Oluwanga (Translation)	Ipusi nende Imbwa nende imburukuru	id=31758
+Oluwanga (Translation)	Ipusi nende Imbwa nende Imburukuru	id=31796
+Sesotho (South Africa) (Translation)	Katse le Ntja le serurubele	id=31797
+Setswana (Translation)	Katse le Ntšwa le serurubele	id=31773
+Tshivenḓa (Translation)	Tshimange na Mmbwa na tshisusu	id=31841

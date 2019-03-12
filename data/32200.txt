@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32200&d=0&a=1
+id:	32200
+title:	Mama yangu
+author:	African Storybook
+artist:	Merville  Mabula
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32200.png
+desc:	Hadithi iliyoandikwa na mvulana kumsherehekea mamake. (Iliandikwa wakati wa likizo kwenye mradi unaosimamiwa na Jamii ya Sophiatown jijini Johanesburg
+
+page_text:
+
+P1	Huyu ni mimi.
+P2	Ninaishi na mama, kaka na dada yangu.
+P3	Mama yangu anapenda kupika.
+P4	Wakati mwingine, mama yangu huwatembelea marafiki zake.
+P5	Anapokuwa huko, mimi husafisha nyumba na kuosha sahani.
+P6	Usiku, mama yangu hutwambia tusali.
+P7	Siku yangu ya kuzaliwa ifikapo, mama yangu huniletea zawadi.
+P8	Ninampenda mama yangu.
+
+images:
+
+illustrations/pages/27543.png
+illustrations/pages/27544.png
+illustrations/pages/27545.png
+illustrations/pages/27546.png
+illustrations/pages/27547.png
+illustrations/pages/27548.png
+illustrations/pages/27549.png
+illustrations/pages/27550.png
+illustrations/pages/27543.png
+
+translations:
+
+English (Original)	My Mom	id=31878
+isiZulu (Translation)	Umama wami othandekayo	id=32235
+Kiswahili (Translation)	Mama wangu	id=32195
+Lingala (Translation)	Maman na ngai	id=32186
+Portuguese (Translation)	A minha mãe	id=32205

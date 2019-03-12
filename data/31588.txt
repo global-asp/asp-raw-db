@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=31588&d=0&a=1
+id:	31588
+title:	Mumati ogu ga tjwayukire
+author:	Djaupyu  Siteketa
+artist:	Megan  Barry
+lang:	Rukwangali
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31588.png
+desc:	Esanseko eli kuna hamene komalizuvho gemekoro lyomuntu ogu ana rugana yininke yoyidona.
+
+page_text:
+
+P1	Gemo na Nelson kwa kere vantu namumbyendi wovagara.
+P2	Gemo ngazi kosure nkenye ezuva, nye Nelson kapi nga zi.
+P3	Guhyawo ngazi koyirugana modoropa.@@Ano zinyawo nga rugana mosikunino.
+P4	Ezuva limwe guhyawo kwa sigire yimaliwa positafura.@@Nelson kwa gusire yimaliwa oyo!
+P5	Guhyawo kwa handukire sili unene.
+P6	Dogoro Nelson kwa tjwayukire.@@Age kwa gendere nokugenda ezuva mudima.
+P7	Age kwa hingilire monda zositji masiku mudima.
+P8	Mukurwendi Gemo kwaka mu gwene monda zositji, makura tamu twara kembo.
+P9	"Morwasinke ono va kere yimaliwa?" guhwe tamu pura.
+P10	"Morwasinke ono tjwayukire?" zina tamu pura.
+P11	"Nakanderere, gusireninge po," yimo ga tente Nelson, kumwe nokutengwida yimaliwa.
+P12	Tavali dingire mawoko moruhafo rorunene.
+
+images:
+
+illustrations/pages/26358.png
+illustrations/pages/26133.png
+illustrations/pages/26359.png
+illustrations/pages/26357.png
+illustrations/pages/26360.png
+illustrations/pages/26361.png
+illustrations/pages/26362.png
+illustrations/pages/26358.png
+illustrations/pages/26363.png
+illustrations/pages/26364.png
+illustrations/pages/26365.png
+illustrations/pages/26366.png
+illustrations/pages/26379.png
+
+translations:
+
+English (Original)	The boy who ran away	id=22357
+Khoekhoegowab (Translation)	ǃKhoeni ge axab xa	id=31768
+Luganda (Translation)	Omuvubuka eyaduka n'agenda	id=22473
+Lusoga (Translation)	Omulenzi eyalumuka wo	id=25877
+Oshikwanyama (Translation)	Okaana ka fadukapo	id=31574
+Oshindonga (Translation)	Okamati haka fadhu kapo	id=31509
+Otjiherero (Translation)	Omuzandu Nga tupuka	id=31520

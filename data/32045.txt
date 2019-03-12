@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32045&d=0&a=1
+id:	32045
+title:	Chess and family roles
+author:	Jamie  Luketa
+artist:	Jamie  Luketa
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32045.png
+desc:	This story by a thoughtful boy offers us a way of seeing family roles as similar to the roles of the pieces in a chess game. (This story was created at a holiday programme run by Sophiatown Community Psychological Services in Johannesburg
+
+page_text:
+
+P1	There is a boy named Rodney. He lives with his family. @@His mother and father are Jamima and Mike. His sisters are Suzy and Lola. @@Rodney is the last born child.
+P2	Rodney loves playing chess. @@He loves it so much that whenever he plays chess, he does not talk.
+P3	One day, when Rodney was at school playing chess, he realised that the game could be about his family.
+P4	Mike is the King. @@Jamima is the queen, which is why she has power. @@Suzy and Lola are the knights and bishops. @@Rodney is the pawn because he is younger.
+P5	After realising this, Rodney ran home to tell his family.
+P6	They all laughed at him at first. But later they understood. @@Rodney explained their roles and why he is a pawn.
+P7	Rodney told his mom that she is the queen, and his father a king. @@His sisters are knights and bishops.
+P8	Rodney is a pawn because he likes adventure! @@He can become anything he wants, even if he has to make some sacrifices.
+
+images:
+
+illustrations/pages/27824.png
+illustrations/pages/27825.png
+illustrations/pages/27826.png
+illustrations/pages/27827.png
+illustrations/pages/27828.png
+illustrations/pages/27829.png
+illustrations/pages/27830.png
+illustrations/pages/27831.png
+illustrations/pages/27824.png
+
+translations:
+
+isiZulu (Translation)	Umdlalo weChess	id=32233
+Kiswahili (Translation)	Chess ya famille	id=32197
+Kiswahili (Translation)	Mchezo wa Chesi na majukumu ya familia	id=32201
+Lingala (Translation)	Chess na tina ya Libota	id=32232
+Portuguese (Translation)	O jogo de xadrez e os papéis da família	id=32208

@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=31574&d=0&a=1
+id:	31574
+title:	Okaana ka fadukapo
+author:	Nelly  Ndafyaalako
+artist:	Megan  Barry
+lang:	Oshikwanyama
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31574.png
+desc:	Okahokololo aka ota ka popi kombinga yekwatafano lomeumbo nge pe na umwe a ninga sha shapuka.
+
+page_text:
+
+P1	Eino naNelson ova li ovamwainamati.
+P2	Eino oha i kofikola keshe efiku, manga Nelson e li meumbo.
+P3	Xe okwa li ha ka longa kodoolopa.@ @Ina okwali ha ka longa mepya.
+P4	Fiku limwe xe okwa fiya oimaliwa poshitaafula.@ @Nelson ye ote i kufa po osho.
+P5	Xe okwa li a handuka nayi.
+P6	Nelson okwa faduka po eshi a mona xe a handuka.@ @Nghee a uhala ta ende.
+P7	Fiku olo okwa lele mekolo lomuti.
+P8	Mumwaina Eino omo e mu hanga mekolo lomuti omo ndele te mu twala keumbo.
+P9	"Oimaliwa owe i vakela po shike?" Xe ta pula.
+P10	"Owa fadukila po shike?" Ina ta pula.
+P11	"Ombili unene, ita ndi shi ningi vali." Nelson osho tati, ye ta alula oimaliwa ei kwa li a kufa po.
+P12	Xe naina ove mu diminapo ndele tava kala nombili.
+
+images:
+
+illustrations/pages/26358.png
+illustrations/pages/26133.png
+illustrations/pages/26359.png
+illustrations/pages/26357.png
+illustrations/pages/26360.png
+illustrations/pages/26361.png
+illustrations/pages/26362.png
+illustrations/pages/26358.png
+illustrations/pages/26363.png
+illustrations/pages/26364.png
+illustrations/pages/26365.png
+illustrations/pages/26366.png
+illustrations/pages/26379.png
+
+translations:
+
+English (Original)	The boy who ran away	id=22357
+Khoekhoegowab (Translation)	ǃKhoeni ge axab xa	id=31768
+Luganda (Translation)	Omuvubuka eyaduka n'agenda	id=22473
+Lusoga (Translation)	Omulenzi eyalumuka wo	id=25877
+Oshindonga (Translation)	Okamati haka fadhu kapo	id=31509
+Otjiherero (Translation)	Omuzandu Nga tupuka	id=31520
+Rukwangali (Translation)	Mumati ogu ga tjwayukire	id=31588

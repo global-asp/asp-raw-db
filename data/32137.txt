@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=32137&d=0&a=1
+id:	32137
+title:	Inama z' Umubyeyi
+author:	Jean Paul Harelimana
+artist:	Adonay  Gebru
+lang:	Kinyarwanda
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32137.png
+desc:	Ni iki utekereza ku nama za Papa wa Karori?
+
+page_text:
+
+P1	Mu mudugudu umwe, hariho umwana w' umuhungu witwaga Karori.@@Ntiyakundaga kwiga cyangwa gusoma avuye ku ishuri. Yari umunyeshuri w' umunebwe kandi yitwaraga nabi.
+P2	Karori yibye amafaranga ya mama we ajya kugura bombo. Nubwo mama we yariyahishe amafaranga, yashakashatse hose aza kuyabona.
+P3	Hashize iminsi mike, Karori yahagaritse kujya mu ishuri, akiriwa hanze y'ishuri yikinira umupira, ku mugoroba agatahana n'abandi bavuye mu ishuri.
+P4	Mama wa Karori yaravuze ati: "Urabona ko muri iyi minsi umwana wacu ari kwitwara nabi, ndakeka ko atakijya no ku ishuri. Mu minsi yashize yanyibye amafaranga."@@Papa wa Karori yatekereje uko bashobora guhindura imico ya Karori.
+P5	Yabwiye umugore we ati: "Ubutaha, uzahishe amafaranga mu gitabo, amafaranga yawe ntacyo azaba kuko adakunda gusoma ibitabo."
+P6	Umunsi wakurikiyeho, Karori yashatse amafaranga ya mama we. Yashakashatse hosearaheba.@@Yafashe umwanzuro wo kujya ku isoko riri hafi aho gushaka amafaranga.
+P7	Papa we yitegereje Karori agenda aramubwira ati: "Mwana wange, nzi impamvu ugiye ku isoko. Subira mu rugo ushakire amafaranga mu bitabo."
+P8	Karori byaramucanze, ariko arihangana ajya gushakira mu bitabo.@@Yabonye amafaranga mama we yari yahishemo.
+P9	Umunsi wakurikiyeho, yongeye kureba mu bitabo, ariko asanga ntakintu gihishwemo abaza Papa we ati: "Ko nta mafaranga nasanze mu bitabo?"
+P10	Papa we yaramwenyuye nuko aramusubiza ati: "Muhungu wange, urashaka kubona amafaranga menshi yo kugura bombo?"@@Karori aramusibiza ati: "Yego, ndayashaka."
+P11	Papa we aramubwira ati: "Ntega amatwi witonze. Soma ibitabo byawe kandi uge ku ishuri, uzabona ibihembo kubera kwiga ushyizeho umwete, kandi ntugacike intege."@@Karori aramusubiza ati: "Papa, nawe urabizi ko gusoma ari akazi katoroshye. Ibitabo bintesha umutwe."
+P12	Papa we yamaze akanya acecetse, atekereza uko yatera umwana we umwete wo kwiga nuko abwira Karori ati: "Reka dutangire gusomera hamwe. Nzagufasha kubona ubukungu kubera gusoma ibitabo."
+
+images:
+
+illustrations/pages/27719.png
+illustrations/pages/27708.png
+illustrations/pages/27709.png
+illustrations/pages/27710.png
+illustrations/pages/27711.png
+illustrations/pages/27712.png
+illustrations/pages/27713.png
+illustrations/pages/27714.png
+illustrations/pages/27715.png
+illustrations/pages/27716.png
+illustrations/pages/27717.png
+illustrations/pages/27718.png
+illustrations/pages/27719.png
+
+translations:
+
+English (Original)	A father's lesson	id=31944
+Kiswahili (Translation)	Mvumilivu hula mbivu	id=32070

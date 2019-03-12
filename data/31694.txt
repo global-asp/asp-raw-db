@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=31694&d=0&a=1
+id:	31694
+title:	Injangwe, Imbwa n' Igi
+author:	Jean Paul Harelimana
+artist:	Elke and René Leisink
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31694.png
+desc:	Injangwe n
+
+page_text:
+
+P1	Iyi ni injangwe.@@Iyi ni imbwa.
+P2	Ijangwe n' imbwa byaratembereye.@@Byatembereye mu udugudu w'iwabo.
+P3	Hanyuma byabonye igi ryari mu byatsi. Igi ryari ryonyine.
+P4	Injangwe n'imbwa byagiye kureba inyoni birayibaza biti: "iri gi ni iryawe?"
+P5	Inyoni irasubiza iti: "Si iryange." Mubaze igihunyira ahari ryaba ari iryacyo.
+P6	Injangwe n' imbwa bisanga igihunyira birakibaza biti: "Iri gi ni iryawe?"
+P7	Igihunyira kiravuga kiti: "Oya, iryo gi si iryange." Mubaze igishuhe byashoboka ko ari iryacyo.
+P8	Injangwe n' imbwa bijya kureba igishuhe. Bibaza igishuhe biti: Iri gi ni iryawe?"
+P9	Igishuhe kirasubiza kiti: "Oya si iryange. Mubaze ziriya mbata ebyiri, byashoboka ko ari iryazo.
+P10	Injangwe n' imbwa bijya kureba imbata ebyiri birazibaza biti: "Iri gi ni iryanyu"
+P11	Imbata zirasubiza ziti: "Oya, si iryacu." Igi ryahise rimeneka.
+P12	Mu igi harimo akana k'umuserebanya. Agaserebanya gato.
+P13	Ako gaserebanya gato karavuga kati: "Mama arihe? Papa arihe? Mama na Papa bange bari he? Injange n' imbwa bigarura akana k'umuserebanya ku babyeyi bako.
+P14	Urabeho Njangwe. Urabeho Mbwa! Urabeho nawe mwana w' umuserebanya!"
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiTonga (Translation)	Kkiti, Mubwa A Ji	id=20770
+CiNyanja (Translation)	Cona Galu Ndi Dzira	id=20793
+English (Original)	Cat and Dog and the Egg	id=20150
+Lulamoogi (Translation)	Opuusi n'ombwa n'eigi	id=25360
+Lusoga (Translation)	Puusi embwa neigi	id=26358
+SiLozi (Translation)	Kaze Nja Ni Lii	id=20924

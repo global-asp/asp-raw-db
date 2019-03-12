@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=31811&d=0&a=1
+id:	31811
+title:	Ikati, inja novemvane
+author:	Pumla Mdontswa
+artist:	Elke and René Leisink
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31811.png
+desc:	Ikati nenja zilunguza efasiteleni. Zabheka zabhekisisa
+
+page_text:
+
+P1	Leli yikati, nguKitty.@@Le yinja, nguBobby.
+P2	Ikati nenja zilunguza efasiteleni.@@Zabheka zabhekisisa.
+P3	Ikati nenja zibona uvemvane!@@Uvemvane lunombala obomvana.
+P4	Manje lezi zilwane sezifuna ukubamba uvemvane.@@Naziya zilandela uvemvane.@@Naziya!
+P5	Ikati nenja zilandela uvemvane ngezinyawo. Ziyacathama emva kovemvane.@@Inselele ilapha-ke, uvemvane luyashesha. Lushesha kakhulu, kanti ikati nenja ziyanwabuzela. Zinwabuzela kakhulu.
+P6	Ikati nenja sezilandela uvemvane ngesithuthuthu manje. Naziya zilandela uvemvane.@@Uyadlala wena ngovemvane. Lunejubane kakhulu, kanti ikati nenja ziyanwabuzela. Zinwabuzela kakhulu.
+P7	Zishintshe manje izilwane. Sezilandela uvemvane ngemoto. Naziya zilandela uvemvane.@@Uyothi wabonani ngovemvane! Lushesha ngempela kunakuqala. Ikati nenja ziyanwabuzela. Zinwabuzela kakhulu.
+P8	Lashintsha icebo lezilwane. Sezilandela uvemvane ngesikebhe. Naziya zintanta zigijimela uvemvane.@@Uvemvane luyashesha. Uvemvane lunejubane ukwedlula, kanti ikati nenja ziyanwabuzela. Zisanwabuzela ukwedlula.
+P9	Manje ikati nenja sezilandela uvemvane ngendiza. Naziya zindiza emva kovemvane.@@Uvemvane luyashesha. Uvemvane lushesha ukwedlula bonke, kanti ikati nenja ziyanwabuzela. Zisanwabuzela ukwedlula.
+P10	Khimilili! Kuma ikati nenja. Zama, zahlala phansi. Zahlala ngaphansi kwesihlahla.@@Zahlala ngaphansi kwesihlahla esikhulu.@@Khona lapho...
+P11	Zibona uvemvane olulodwa esihlahleni.@@Zibona izimvemvane ezimbili esihlahleni.@@Zibona izimvemvane ezintathu esihlahleni.
+P12	Khona manjalo, maye! Ifu lezimvemvane!
+P13	Usale kahle Kitty.@@Usale kahle Bobby.@@Nisale kahle zivemvane.
+
+images:
+
+illustrations/pages/25582.png
+illustrations/pages/25584.png
+illustrations/pages/25585.png
+illustrations/pages/25586.png
+illustrations/pages/25587.png
+illustrations/pages/25588.png
+illustrations/pages/25589.png
+illustrations/pages/25590.png
+illustrations/pages/25591.png
+illustrations/pages/25592.png
+illustrations/pages/25593.png
+illustrations/pages/25594.png
+illustrations/pages/25595.png
+illustrations/pages/25596.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiShona (Translation)	Kiti na Imbwa neShavishavi	id=31762
+Ekegusii (Translation)	Ekebusi, Esese amo ne'ekegwankwa	id=31838
+English (Original)	Cat and Dog and the butterfly	id=21980
+Kikamba (Translation)	Mbaka na Ngitĩ na kĩmbalutya	id=32167
+Lingala (Translation)	Niawu na mbwua na kipekapeka	id=31815
+Lubukusu (Translation)	Eepuusi nende Eembwa nende siipuruupuru	id=31748
+Oluwanga (Translation)	Ipusi nende Imbwa nende imburukuru	id=31758
+Oluwanga (Translation)	Ipusi nende Imbwa nende Imburukuru	id=31796
+Sepedi (Translation)	Katse le Mpša ka morago ga Serurubele	id=32063
+Sesotho (South Africa) (Translation)	Katse le Ntja le serurubele	id=31797
+Setswana (Translation)	Katse le Ntšwa le serurubele	id=31773
+Tshivenḓa (Translation)	Tshimange na Mmbwa na tshisusu	id=31841

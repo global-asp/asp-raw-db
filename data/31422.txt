@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=31422&d=0&a=1
+id:	31422
+title:	Ukhozi nesi Khukhukazi
+author:	Andiswa Magwentshu
+artist:	Mango Tree, Silva Afonso, Marleen Visser and Melany Pietersen
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31422.png
+desc:	Eli Bali linika incazelo yokuba kungani izikhukhukazi zihlala nabantu lona ukhozi lusitya iinkukhu.
+
+page_text:
+
+P1	Ngeminazana ithile, Ukhozi nesikhukhukazi babengabahlobo abakhulu. Babencedana kumaxesha kaxakeka.
+P2	Babedlala bobabini. Bedlala nezinye izilwanyane ezifana nofudo.
+P3	Babenomkhambi wee nkomo, iigusha,  iibhokhwe nee nkamela. Babe sidla ndawonye emathafeni bedlala.
+P4	Ngaminazana ithile isikhukhukazi sayoboleka ireyiza bleyidi kuKhozi khona ukuze sichebe abantwana baso. Ukhozi lwanikeza nge reyiza bleyidi ngaphandle kwamathandabuzo.
+P5	Isikhukhukazi sacheba abantwana baso ngocoselelo. Kodwa salibala uku gcina ireyiza khuselekileyo.
+P6	Xa uKhozi lufika luzolanda ireyiza, Isikhukhukazi asayifumana. Sakhangele yonke indawo kodwa sabuya nelize. Ukhozi lwacaphuka laqala ukutya iinkukhu zesikhukhukazi.
+P7	Isikhukhukazi sabaleka sisindisa ubomi baso sayo hlala nabantu. Ukufihlela namhlanje isikhukhukazi sihlala nabantu lona ukhozi lutya iinkukhu.
+
+images:
+
+illustrations/pages/13574.png
+illustrations/pages/13571.png
+illustrations/pages/13685.png
+illustrations/pages/13357.png
+illustrations/pages/13692.png
+illustrations/pages/13572.png
+illustrations/pages/13581.png
+illustrations/pages/13574.png
+
+translations:
+
+English (Original)	Eagle and the Hen	id=13756
+Kinyarwanda (Uganda) (Translation)	Igisiga n'inkoko	id=24060
+Luganda (Translation)	empungu ne enkoko	id=24010
+Lusoga (Translation)	Eikoli n'enkoko	id=26773

@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=31653&d=0&a=1
+id:	31653
+title:	Mwana Wakutaika
+author:	Little Zebra Books
+artist:	Magriet Brink and Leo Daly
+lang:	Cinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31653.png
+desc:	A story about a rebellious son
+
+page_text:
+
+P1	Luka 15:11-32@@Munthu m'bodzi akhana wanace awiri.
+P2	Ndipo m'ng'ono adauza babace kuti: "Baba! Ndipaseni utaka bwangu." @@Ndipo iye adawagawira utakabo.
+P3	Pomwe zidapita ntsiku zing'ono-ng'ono, mwana m'ng'ono ule adalongedza bzinthu bzacebzo aciyenda kudziko la kutali.
+P4	Ndipo adakamala kumwaza utaka bwacebo bwentse na makhalidwe yace yakhali yapezi-pezi.
+P5	Pomwe iye adamala kumwaza utaka bwacebo, kudziko limwero kudawoneka njala ikulu kwene-kwene. Na tenepo, iye adayamba kubonera na thangwe ra kusaya cakudya.
+P6	Ndipo iye adakumbira basa kuna munthu m'bodzi wa mudziko limwerire. Ndipo munthuyo adamutuma kuti ayende kumunda kwace ambakamunyire nkhumba.
+P7	Iye akhafuna kudyambo gaga omwe zikhadya nkhumbazo, tsono pakhalibe munthu omwe akhamupasa cinthu. Na tenepo, iye adakumbuka kuti: "Kodi babangu ana anyabasa angasi omwe ambadya acikhala pomwe na phoso? Tsono ine-pano ndirikufa na njala kuno!"
+P8	"Na tenepo, ndin'dzayenda kuna babangu ndicikamuuza kuti: Baba! Ine-pano ndaphonyera Mulungu wa kudzulu na imwepombo. Ndiribe kuthemera kuti mundicemere pomwe mwananu tsapano. Ndiyeseni ninga anyabasa wanuwa."
+P9	Ndipo iye adaphata njira aciyenda kuna babaceyo.
+P10	Pomwe iye akhabwera, babaceyo adamuwona na kutali acimubvera ntsisi. Ndipo iye adathamanga acimukolombexa mkhosi, acimumpsompsona.@@Pamwepo mwanayo adalewa kuti: "Baba! Ine-pano ndaphonyera Mulungu wa kudzulu na imwepombo. Ndiribe kuthemera kuti mundicemere pomwe mwananu."
+P11	Tsono babaceyo adauza anyagirinya wace kuti: "Bweresani bzakubvala bzabwino mumubvazike na kamkulumize! Mubvazikeni pomwe mphete kucala na xango kumwendo. Ndipo phatani kamkono kakunenepaka muphe tidye tikondwere. Nakuti mwananguyu akhadafa, tsono iye wamuka pomwe. Akhadataika tsono iye wawoneka." Ndipo iwo adayamba kukondwera.
+P12	Tsono mwanace mkulu akhali kumunda. Pomwe iye akhabwera, adafika pafupi na pamui adabva nyimbo na wanthu alikubzina. Ndipo iye adacemera nyagirinya m'bodzi acim'bvundza kuti cikhali ciyani cikhacitika. Ndipo nyagirinyayo adamutawira kuti: "Ni m'bale wako wabwerera! Ndipo babako wapha kamkono kakunenepa kale thangwe iye wabwera na moyo."
+P13	Mwana mkuluyo adakalipa ndipo adalamba kupita. Ndipo babaceyo adabula acimupepesa. Tsono iye adam'tawira babaceyo aciti: "Ine-pano ndiri kutumikirani pano magole mazinji kwene-kwene. Ndipo ndikanati kukuphonyerani mitemo yanu."
+P14	"Imwepo mukanati kundipherambo mbuzi ibodzi yokha kuti ndidyembo na axamwali wangu. Tsono lero mwananuyu wabwera, omwe adamala kudzonga utaka bwanu bwentse na maputa, ndipo imwepo mwamuphera kamkono kakunenepa!"
+P15	Ndipo babaceyo adamutawira kuti: "Mwanangu. Iwepo na ine tiri pano pabodzi ntsiku zentse. Ndipo bzinthu bzangu bzentse ni bzako. Tsono, ndawona kuti bzikhali bwino kuti ife-pano tikondwere. Thangwe m'bale wakoyu akhadafa ndipo wamuka pomwe, akhadataika ndipo wawoneka."
+
+images:
+
+illustrations/pages/27414.png
+illustrations/pages/27388.png
+illustrations/pages/27389.png
+illustrations/pages/27390.png
+illustrations/pages/27391.png
+illustrations/pages/27392.png
+illustrations/pages/27393.png
+illustrations/pages/27400.png
+illustrations/pages/27407.png
+illustrations/pages/27394.png
+illustrations/pages/27395.png
+illustrations/pages/27396.png
+illustrations/pages/27397.png
+illustrations/pages/27403.png
+illustrations/pages/27404.png
+illustrations/pages/27398.png
+illustrations/pages/27399.png
+
+translations:
+
+Cisena (Translation)	Mwana Wakutaika	id=31654
+Elomwe (Translation)	Mwaana Oohuwela	id=31657
+Emakhuwa (Translation)	Mwaana Oorimeela	id=31661
+English (Original)	The Lost Son	id=31640
+Olunyaneka (Translation)	Omona Ompese	id=31658
+Portuguese (Adaptation)	O Filho Perdido	id=31652

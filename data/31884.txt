@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=31884&d=0&a=1
+id:	31884
+title:	O Amigo Que Vem à Noite
+author:	Little Zebra Books
+artist:	Magriet Brink and Leo Daly
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31884.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Lucas 11:1-10@@Numa ocasião, Jesus estava orando em certo lugar. Quando terminou, um de seus discípulos lhe disse: "Senhor, ensine-nos a orar, assim como João ensinou aos seus discípulos."
+P2	Então Jesus lhes disse: "Quando vocês orarem, digam:@@Pai: Que todos reconheçam que o seu nome é santo. Que venha o seu reino. Dê-nos todos os dias o alimento de que precisamos. Perdoe-nos os nossos pecados, assim como nós também perdoamos aos que nos fazem o mal. Não nos deixe cair em tentação."
+P3	Depois Jesus lhes disse:@@—Suponha que você tivesse um amigo e que, numa ocasião, à meia-noite, você fosse até a casa dele e dissesse:
+P4	"Amigo! Eu preciso que me empreste três pães, pois um amigo meu acabou de chegar de viagem e não tenho nada para lhe oferecer."
+P5	E suponham que ele responda lá de dentro desta maneira: "Não me aborreça! A porta está trancada e tanto eu como meus filhos já estamos deitados. Não vou levantar agora para lhe dar nada!"
+P6	Eu lhes digo que, mesmo que ele não se levante para lhe dar alguma coisa por ser seu amigo, ele se levantará e lhe dará tudo de que você precisa, por causa da sua insistência.
+P7	Por isso eu lhes digo: Peçam e lhes será dado; procurem e vocês acharão; batam e a porta lhes será aberta.
+P8	Pois todo aquele que pede, recebe; todo aquele que procura, acha; e a porta se abre a todo aquele que bate.
+
+images:
+
+illustrations/pages/27427.png
+illustrations/pages/27457.png
+illustrations/pages/27428.png
+illustrations/pages/26580.png
+illustrations/pages/26579.png
+illustrations/pages/26581.png
+illustrations/pages/26582.png
+illustrations/pages/27429.png
+illustrations/pages/15753.png
+illustrations/pages/27430.png
+
+translations:
+
+Cisena (Translation)	Xamwali Anabwera na Masiku	id=31885
+English (Original)	Friend at Night	id=31689

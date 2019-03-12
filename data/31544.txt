@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=31544&d=0&a=1
+id:	31544
+title:	Omuhona Ondamba
+author:	Joaquim  Kambindangolo
+artist:	Brianna  Alexander
+lang:	Olunyaneka
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31544.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 12:15-23, 30-31@@Sesu wevepopila aveho ati: "Liyungei! Kalei calunga kocipululu aciho, ceeci omwenyo womuntu kauli mounene wouhona wae enao."@@Pahe evehipululila ontengelepopya ei:
+P2	Kwali omulume umwe omuhona anko una omapya ayelele unene.@@Ngwe elisoko wati: "Ame njitupu apa njipaka eteyo lyange. Njilinga ñgeni?"
+P3	Pahe ati: "Aa mankalinga ngeeci! Mankahanyuna omalimba ange, ankatunga omalimba omakwavo omanene. Ngooco nkapaka nawa eteyo lyange nomalumono ange aeho."
+P4	"Pahe ngooco nkeliti: 'Mulume una ovipuka ovinyingi welipakela omanima omanyingi. Pahe pululukwa, lyaa, nwaa, hambukwa.'"
+P5	Mwaina Huku emuti: "Ndamba ove! Mokapolwa omwenyo wove mocintiki cohono umwe. Iya pahe eci wavyukisa, macikasala nalye?"
+P6	Ongooco macikamoneka kuna ulipakela mwe omalumono, ngwe kuHuku hamuhonako.
+P7	Sesu kovalongwa vae ati: "Njimupopila okuti: Mwahalingei ociho nokukala kwenyi,
+P8	cokuti matulici hamwe nociho nomalutu enyi, okuti matuvaleci."
+P9	"Ceeci vokwahanoñgonokele Huku mouye auho, ovo vena ociho novipuka ovyo, mwaina Tate yenyi wii okuti mwecisukila. Tainjei nkele ouhamba wae, ngwe ovipuka ovyo aviho mukeviyawisilwako."
+
+images:
+
+illustrations/pages/27268.png
+illustrations/pages/27266.png
+illustrations/pages/27267.png
+illustrations/pages/27269.png
+illustrations/pages/27268.png
+illustrations/pages/27270.png
+illustrations/pages/27271.png
+illustrations/pages/27279.png
+illustrations/pages/27278.png
+illustrations/pages/27275.png
+
+translations:
+
+Cinyungwe (Translation)	Munthu Wakudala Wakusaya Ndzeru	id=31543
+Cisena (Translation)	M'pfumi Wakusowa Ndzeru	id=31548
+English (Translation)	The Rich Fool	id=31542
+Portuguese (Original)	O Rico Sem Juizo	id=31434

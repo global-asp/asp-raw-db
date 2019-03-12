@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=31754&d=0&a=1
+id:	31754
+title:	Kiti dza Selemeng
+author:	Lilian Chaminuka
+artist:	Marleen Visser and Wiehan de Jager
+lang:	ChiShona
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31754.png
+desc:	Selemeng ane kiti dzakawanda. Selemeng ane kiti ngani?
+
+page_text:
+
+P1	Selemeng anofarira kiti. Kumba kwavo kune kiti dzakawanda.
+P2	Selemeng ane imwe kiti nhema. Kiti iyi inodya nyama yakawanda.
+P3	Selemeng ane imwe kiti yakakora. Kiti iyi inodya zvese zvese. Haisaruri chekudya.
+P4	Kiti yechitatu inomhanyira mumuti. Kiti iyi inobva yarambira mumuti.
+P5	Selemeng anokwira mumumuti. Anobva atadza kuburuka pamwe nekiti yake.@Amai va Selemeng vanomubatsira kuburuka nekiti yake.
+P6	Selemeng ane kiti mbiri dzineusimbe. Kiti idzi dzinoswera dzakarara pamushana zuva rose.
+P7	Selemeng ane kiti nhatu dzinoshanda. Dzinobata makonzo mumba yokubikira husiku.
+P8	Selemeng ane imbwa imwe chete. Zita rayo ndi Lirafi. Lirafi imbwa isina shamwari. Inogara yakasuwa.
+P9	Kiti dza Selemeng hadzifariri Lirafi. Dzinomudzingira kunze kwemba. Lirafi anobva atiza.
+P10	Selemeng anonotsvaga Lirafi omudzosa mumba. Kiti dzinotsamwa nekuti hadzifariri kuona Lirafi.
+P11	Selemeng ane kiti ngani? Ane kiti sere.
+P12	Selemeng ane imbwa ngani? Ane imbwa imwe chete.@Lirafi arikupi izvozvi?
+P13	Iwe une kiti ngani? Une imbwa ngani?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+isiZulu (Translation)	Amakati kaZamo	id=31799
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Epusi dha kelementi	id=27609
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

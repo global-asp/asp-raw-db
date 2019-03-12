@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31522&d=0&a=1
+id:	31522
+title:	Namanriya Opaka Wawe Mapokha nNamarokolo
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Elomwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31522.png
+desc:	A Mozambican folktale about how Chameleon outwits his rival
+
+page_text:
+
+P1	Yaari yaari, Namanriya nNamarokolo yaapaka mapokha, oochimaka wi emoone anii apacerye ophiya okhomoni.
+P2	Namarokolo aheemererya aloca ariki: "Nyu weeca wanyu muni: 'Keeca ninla ninla kinamphiya keeca ninla ninla nkinaphiya.' Kinaya woohiyaani ociiwene himunii mukoone tho."
+P3	Yaawompwa ashinama ancipale ekhala okhomoni.
+P4	Namanriya nNamarokolo yaapacerya ochimaka.
+P5	Namanriya aacupha aimakelela vamwiilani wa Namarokolo.
+P6	Namarokolo achimakaka ashinama oothene yaanatheya yoopaka makhuphi enyakulaka vatokotoko emutheyaka Namanriya ari waamwiila wa Namarokolo.
+P7	Namarokolo iiweiye niwoowo aheemela akirathi, Namanriya aahi, "Ohikikiraathele. Miyo kiphin'ye khalayi."
+P8	Namarokolo aatuthuwa, avinya tho anachimaka awenthe niwoowo naatepasha.
+P9	Ahaawelaka ophiya okhomoni, ashinama yaanoopa makuphi enyakulaka, yaamoonaaya Namanriya ari waamwiila, Namarokolo aanyiherya wi Namanriya@orimphiya.
+P10	Arikimphiyaru okhomoni chiri, Namanriya aahi: "Ohikikiraathele kiphin'ye khalayi."
+P11	Namarokolo heemenle aacakanela, Namanriya ahala aakhela yoochuwela, Namarokolo ayeleela.
+
+images:
+
+illustrations/pages/27261.png
+illustrations/pages/27251.png
+illustrations/pages/27252.png
+illustrations/pages/27253.png
+illustrations/pages/27254.png
+illustrations/pages/27255.png
+illustrations/pages/27256.png
+illustrations/pages/27258.png
+illustrations/pages/27259.png
+illustrations/pages/27261.png
+illustrations/pages/27262.png
+illustrations/pages/27263.png
+
+translations:
+
+Cinyungwe (Translation)	Dwidwi na Sulo	id=31518
+Ciyawo (Translation)	A-Citagamulo na a-Kalunga	id=31524
+Emakhuwa (Translation)	Ovaanyihana wa Namanriya  ni Namarokolo	id=31523
+English (Original)	Chameleon Races Rabbit	id=31355
+Portuguese (Translation)	O Camaleão e o Coelho	id=31510

@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=31456&d=0&a=1
+id:	31456
+title:	Ocipala
+author:	Joaquim  Kambindangolo
+artist:	Sue  Beattie
+lang:	Olunyaneka
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31456.png
+desc:	Learn the parts of the face
+
+page_text:
+
+P1	Omaiho
+P2	Omakutwi
+P3	Omulungu
+P4	Omayulu
+P5	Ociyeli
+P6	Omayo
+P7	Elaka
+P8	Omatama
+P9	Ovihokopyo
+P10	Onohuki
+
+images:
+
+illustrations/pages/26803.png
+illustrations/pages/26807.png
+illustrations/pages/26808.png
+illustrations/pages/26802.png
+illustrations/pages/26800.png
+illustrations/pages/26801.png
+illustrations/pages/26755.png
+illustrations/pages/26810.png
+illustrations/pages/26809.png
+illustrations/pages/26804.png
+illustrations/pages/26806.png
+
+translations:
+
+CiNyanja (Translation)	Nkhope	id=31437
+Cinyungwe (Translation)	Nkhope	id=31439
+Cisena (Translation)	Nkhope	id=31441
+Echiziinza (Translation)	Obúso	id=25010
+Echiziinza (Translation)	Obúso	id=30270
+Echuwabo (Translation)	Kove	id=31443
+Elomwe (Translation)	Ethoni	id=31452
+Emakhuwa (Translation)	Owiitho	id=31454
+English (Original)	Face	id=23135
+Ikisimbëtë (Translation)	Ubhusyö	id=30267
+Kiswahili (Translation)	Uso	id=29975
+Lusoga (Translation)	Mumaiso	id=30326
+Lusoga (Translation)	Mu Maiso	id=30345
+Lusoga (Translation)	Mu maiso	id=30407
+Lusoga (Translation)	Mu  maiso	id=30574
+Portuguese (Translation)	Cara	id=31435

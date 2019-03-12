@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=31903&d=0&a=1
+id:	31903
+title:	Eshitabu Shielihanga
+author:	Achesa Makhambala
+artist:	Sandra McDougall
+lang:	Olukabarasi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/31903.png
+desc:	Explore different types of weather and how we feel about the weather.
+
+page_text:
+
+P1	Kuumile
+P2	Omubasu kululile
+P3	Omuyeka kulahutsanga
+P4	Amaleesi kestulile
+P5	Kunyilile
+P6	Ifula ilakwitsanga
+P7	Likulu lilakukumanga
+P8	Ndalolanga olulindi
+
+images:
+
+illustrations/pages/1547.png
+illustrations/pages/1547.png
+illustrations/pages/1548.png
+illustrations/pages/1549.png
+illustrations/pages/1550.png
+illustrations/pages/1551.png
+illustrations/pages/1552.png
+illustrations/pages/1553.png
+illustrations/pages/1554.png
+
+translations:
+
+Arabic (Translation)	كتاب الطقس	id=21858
+English (Original)	Weather book	id=1861
+Kiswahili (Translation)	Kitabu cha hali ya hewa	id=2209
+Luganda (Translation)	Akatabo K’Obudde	id=2210
+Lugbarati (Translation)	Buku Angumile Niri	id=2720
+Lugbarati (Official) (Translation)	Búkù Àngù Mile Nɨ́ Rɨ̀	id=8762
+Lumasaaba (Translation)	Shiitabo Shishiwaamba Khu Bwiile	id=2211
+Lusoga (Translation)	Ekitabo Eky’Embeera   Ey’Obwire	id=21268
+Lusoga (Translation)	 Akatabo Ke`mbeera	id=21471
+Lusoga (Translation)	Akatabo ak'obwire	id=25156
+Lusoga (Translation)	akatabo k'obwiire	id=28616
+Maa (Translation)	Impukunót Ó Oloing'áng'e	id=2415
+Nandi (Translation)	Bukit Ab Ole U Emet	id=17251
+Ng’aturkana (Translation)	Akitab Na Eboyor Akwap	id=2212
+Olukhayo (Translation)	Esitabu Sialinga	id=2213
+Oluwanga (Translation)	Eshitabu Shielihanga	id=2214
+Setswana (Translation)	Buka Ya Maemo a Bosa	id=2215
+Somali (Translation)	Ciwaan Ayaa Kama Qan	id=16763
+Spanish (Translation)	El Libro Del Clima	id=14405
+Zande (Translation)	Gu Buku Ngaga Wai Du Rago	id=17451

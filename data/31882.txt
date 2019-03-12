@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=31882&d=0&a=1
+id:	31882
+title:	Pamatenda ya Mphondolo
+author:	Little Zebra Books
+artist:	Claudio Molina
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31882.png
+desc:	A traditional animal folktale from Mozambique.
+
+page_text:
+
+P1	Ntsiku ibodzi, bzirombo bza m'tengo@bzidakonkhana kuti bzisankhule mambo@wabzene. Ndiye pale, bzatakonkhana bzidawona kuti bzikhali bwino kusankhula Mphondolo kuti ikhale mambo wa bzirombo bzentse.
+P2	Cadidi, pakati pamkonkhanoyu bzidaidzoza Mphondolo kuti ikhale mambo wa bzirombo bzentse. Tsono, pamsinda wa cisankho ca Mambo Mphondolo, padawoneka cikondweso cikulu cakuti padapita m'dzinga upulumira ipo bzirombo bzentse bzatamala cisankho, bzikhadya bzicimwa bziciimba ndipo bzicibzina.
+P3	Pomwe udamala msindayo, bzentse bzidamwazana bziciyenda m'midzi mwabzene. Apa bzirombo bzentse ninga mwa ciremekezo bzikhambayenda kukamusa Mphondolo pakuti ikhali mambo wabzene.
+P4	Padadzawoneka ulendo bubodzi pomwe Thika adakamusa Mambo Mphondolo. Watafika Thika pamui paMphondolo adagumana mamboyo ali kuduwala, acim'musa magonero. Ndipo Mphondolo idatawira iciti: "Ine ndiri kuduwala matenda yomwe yanilapika lini."
+P5	Tsono Thika adati: "Imwe Mtumbe, lekani kudodoma nayo matendaya pakuti Sulo ambayadziwa mankhwala yace matendaya."
+P6	Pakulewa tenepa, cifundo cace cikhali cakuipisa Sulo pamaso paMphondolo pomwe angadatazire kuilapa Mphondolo. Pakuti Mphondolo ikhana xungu idatuma Thika m'bodzi-bodziyo kuti akacemere Sulo kuti adzamulape.
+P7	Cadidi Thika adathamanga kukacemera Sulo acimuuza kuti: "Tiyende kuna Mtumbe ali kuduwala kwene-kwene, ndipopa andituma kuti ndidzakucemere." @@Ndipo Sulo adamuka aciyenda, acifika pamaso pa mambo aciti: "Ndabwera Mtumbe! Ndabva kuti mambo muli kundifuna. Tsono ndiri pano, Mtumbe."
+P8	Mphondolo idati: "Ndakondwa pakulu na kukuwona Sulo pafupi na ine. Ndakucemera ndine Sulo thangwe rakuti moyo wangu uli rini pambuto pawene. Ndina matenda yomwe yan'bva lini kulapidwa. Tsono Thika wandibebesa kulewa kuti Sulo aniyadziwa mankhwala ya matenda ndinayoya."
+P9	Ndipo Sulo adatawira aciti: "N'cadidi Mtumbe, ine ndingakwanise kupoza matendaya. Tsono mphingo yace njakunesa kuti ndiiphate."@@Mphondolo idatawira iciti: "Iwe Sulo, leka kukhala na thupo thangwe ra kunesa kwa mphingoyo. Mbalame yakumbuluka imbaphatiwa, apa tiuze mphingo yaceyo!"
+P10	Ndipo Sulo adatawira kuti: "Mtumbe, ine pakulewa kuti mphingo njakunesa sikuti iri kutali nee. Kuti Mtumbe mucire, bzin'funika mankhwala mabodzi, mphingo yace icikhala yakusanganiza na mtima wa thikayu."
+P11	Ipo adabva tenepo, Thika adatoma kutetemera nakuti iye caiye thikayo ndiye adauza Mphondolo kuti Sulo ndiye an'dziwa mankhwala ya matendayo. Ndipopo pakhalibe ndzeru yakuti angamugaze Sulo, pamphingo yace ndiyo adalewa.
+P12	Tsono Thika adamalizira kuthawa ndipo iye cipo alibe kudzagumana pomwe na Mphondolo.
+
+images:
+
+illustrations/pages/10217.png
+illustrations/pages/27431.png
+illustrations/pages/27432.png
+illustrations/pages/27433.png
+illustrations/pages/27434.png
+illustrations/pages/27435.png
+illustrations/pages/27436.png
+illustrations/pages/27437.png
+illustrations/pages/27438.png
+illustrations/pages/27439.png
+illustrations/pages/27440.png
+illustrations/pages/27441.png
+illustrations/pages/27442.png
+
+translations:
+
+Afrikaans (Translation)	Leeu word siek	id=31880
+English (Adaptation)	Lion is Sick	id=10242
+English (Adaptation)	Lion gets sick	id=31702
+isiXhosa (Translation)	Ukugula kukaNgonyama	id=31879
+Portuguese (Original)	O Leão Fica Doente	id=10231

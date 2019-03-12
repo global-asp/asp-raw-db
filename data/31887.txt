@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=31887&d=0&a=1
+id:	31887
+title:	Baba Wathu
+author:	Programa  Prodelise
+artist:	Marleen Visser
+lang:	Cisena
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31887.png
+desc:	Uma oração de Jesus em Mateus
+
+page_text:
+
+P1	Baba wathu muli kudzulu.
+P2	Dzina yanu mbikhale na mbiri.
+P3	Umambo wanu mbudze kuna ife.
+P4	Pinafuna imwe mbapicitwe, pantsi pano ninga kudzulu.
+P5	Tipaseni cakudya cathu ntsiku na ntsiku.
+P6	Tilekerereni madawi athu
+P7	ninga ifembo tinalekerera andzathu madawi awo.
+P8	Lekani kutisiya mbatigwa n'kudawa,
+P9	mbwenye tipulumuseni mwa kuipa.
+P10	Thangwi umambo ndi wanu, na mphambvu, na mbiri yakukhaliratu. Ameni.
+P11	Mateu 6:9-13
+
+images:
+
+illustrations/pages/27330.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Chinyungwe (Translation)	Baba Wathu	id=18980
+Elomwe (Translation)	Nivekelo Na Apwiya	id=18982
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=18983
+English (Original)	The Lord's Prayer	id=16246
+Ikisimbëtë (Translation)	Amasabhi agha Omonene	id=24809
+Imeetto (Translation)	Niswali	id=18993
+Lingala (Translation)	Tata na Biso	id=22493
+Lusoga (Translation)	Esaala  ya  Katonda	id=27752
+Olunyaneka (Translation)	Tate Yetu	id=31888
+Portuguese (Translation)	Pai Nosso”	id=18981

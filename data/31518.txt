@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=31518&d=0&a=1
+id:	31518
+title:	Dwidwi na Sulo
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31518.png
+desc:	A Mozambican folktale about how Chameleon outwits his rival
+
+page_text:
+
+P1	Ikhalipo ntsiku ibodzi, Dwidwi na Sulo adapangana kuti akhathamange kuti mbani angadafika kamangu.
+P2	Sulo adabvuma aciti: "Iwepo umbafamba pang'ono! Uniyamba kufamba na mwendo uyu, uniima ndipo uniyamba na unangoyo. Iwepo un'dzafika cipo! Nin'kusiya kutali m'mbuyo. Un'dzandiphata lini!"
+P3	Adacemera bzirombo bzizinji ndipo bzidakhala pa kuyamba.
+P4	Dwidwi na Sulo adayamba kuthamanga.
+P5	Dwidwi adamoga aciphata m'cira wa Sulo.
+P6	Sulo akhathamanga, bzirombo bzikhaseka, bzicimenya m'manja. Bzikhakuwa thangwe bzikhawona Dwidwi kum'cira kwa Sulo.
+P7	Sulo pakubva kukuwa, adaima acikhala. Dwidwi adati: "Iwe leka kundikhalira padzaulu pangu! Ine ndafika kale-kale!"
+P8	Sulo adadzidzimuka aciyamba kuthamanga pomwe.
+P9	Pakufika pakumalizira bzirombo bzikhamenya m'manja. Bzikhakuwa pakuwona Dwidwi pam'cira basi. Sulo adabva acikumbuka kuti Dwidwi afika kale.
+P10	Pakufika kwa kumalizira, Dwidwi adati: "Leka kundikhalira padzaulu pangu. Ine ndayamba kufika."
+P11	Sulo alibe kuima pamwepo. Iye adathawa. Sulo adaluza. Dwidwi adakhala kuti atambire mabaibai.
+
+images:
+
+illustrations/pages/27261.png
+illustrations/pages/27251.png
+illustrations/pages/27252.png
+illustrations/pages/27253.png
+illustrations/pages/27254.png
+illustrations/pages/27255.png
+illustrations/pages/27256.png
+illustrations/pages/27258.png
+illustrations/pages/27259.png
+illustrations/pages/27261.png
+illustrations/pages/27262.png
+illustrations/pages/27263.png
+
+translations:
+
+Ciyawo (Translation)	A-Citagamulo na a-Kalunga	id=31524
+Elomwe (Translation)	Namanriya Opaka Wawe Mapokha nNamarokolo	id=31522
+Emakhuwa (Translation)	Ovaanyihana wa Namanriya  ni Namarokolo	id=31523
+English (Original)	Chameleon Races Rabbit	id=31355
+Portuguese (Translation)	O Camaleão e o Coelho	id=31510

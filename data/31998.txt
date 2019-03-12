@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=31998&d=0&a=1
+id:	31998
+title:	Lulu yuko wapi?
+author:	African Storybook
+artist:	Clyde  Beech and Nkosingiphile  Mazibuko
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/31998.png
+desc:	Mamake Lulu anamtafuta kila mahali! Je
+
+page_text:
+
+P1	"Ah, la!"
+P2	"Lulu, wakati wa kwenda umefika," Mama anaita.
+P3	Lulu yuko wapi?@@Je, yuko chini ya sofa?
+P4	Je, yuko nyuma ya pazia?
+P5	Lulu yuko wapi?@@Je, yuko karibu na jiko?
+P6	Je, yuko katika kabati?
+P7	"Lulu, wakati wa kwenda umefika! Uko wapi?" Mama anaita.
+P8	"Wewe ndiye huyu sasa!" Mama anasema.@@"Sitaki kwendaaa!"
+P9	"Ni lazima twende," Mama anasema.@@"Lakini, ninapenda hiki!"
+P10	"Hebu twende sasa."
+P11	"Lakini..."
+P12	"Ninapenda hiki kweli!"
+P13	"Na hiki pia!"
+P14	"Na hiki vilevile!"@@"Hata na hiki!"
+P15	"Tazama, unarejesha vitabu na kuomba vingine zaidi," Mama anasema.@@"YEE!"
+P16	Lulu yuko wapi sasa?
+
+images:
+
+illustrations/pages/27795.png
+illustrations/pages/27796.png
+illustrations/pages/27797.png
+illustrations/pages/27798.png
+illustrations/pages/27799.png
+illustrations/pages/27800.png
+illustrations/pages/27801.png
+illustrations/pages/27802.png
+illustrations/pages/27803.png
+illustrations/pages/27804.png
+illustrations/pages/27805.png
+illustrations/pages/27806.png
+illustrations/pages/27807.png
+illustrations/pages/27808.png
+illustrations/pages/27809.png
+illustrations/pages/27810.png
+illustrations/pages/27811.png
+
+translations:
+
+English (Original)	Where is Lulu?	id=31988
+English (Adaptation)	What Lulu wanted	id=32041
