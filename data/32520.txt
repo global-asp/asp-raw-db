@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=32520&d=0&a=1
+id:	32520
+title:	Big-head Ant and lazy Pigeon
+author:	African Storybook
+artist:	Joe  Werna
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32520.png
+desc:	Those who work hard can be kings. Those who sing well can persuade kings.
+
+page_text:
+
+P1	Big-head Ant was a good farmer.@@He lived in the ground with his family.
+P2	They worked very hard on their farm.@@Ant's family lived well.
+P3	Pigeon was Ant's neighbour. @@Pigeon lived in a tree with her family.
+P4	Pigeon and her family did not farm.@@They rested all day.
+P5	Pigeon and her family were very good singers.
+P6	"Share your food?" Pigeon asked Ant.@@"No! Go and farm!" replied Ant.
+P7	Pigeon flew down and began to sing, "Ant is king!"
+P8	"Ant is king! Ant is king! Ant is king!"@@Ant loved this song.
+P9	After they ate, Pigeon and her family flew up to their tree.
+P10	The next day, Pigeon mocked Ant. @@"Do kings have big heads?" she laughed.
+P11	"You are ungrateful and lazy!" complained Ant.
+P12	"I am sorry!" said Pigeon, and began to sing, "Ant is king!"
+
+images:
+
+illustrations/pages/28294.png
+illustrations/pages/28296.png
+illustrations/pages/28297.png
+illustrations/pages/28298.png
+illustrations/pages/28301.png
+illustrations/pages/28302.png
+illustrations/pages/28303.png
+illustrations/pages/28304.png
+illustrations/pages/28309.png
+illustrations/pages/28305.png
+illustrations/pages/28307.png
+illustrations/pages/28308.png
+illustrations/pages/28306.png
+
+translations:
+
+French (Translation)	Fourmi Grosse-tête et Pigeon Paresseux	id=33334
+isiZulu (Translation)	Intuthwane enekhanda elikhulu nejuba	id=32909
+Kiswahili (Translation)	Siafu na Njiwa mvivu	id=33291
+Tiv (Translation)	Kon-Iyôn man Atii	id=32498

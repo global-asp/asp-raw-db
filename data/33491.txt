@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33491&d=0&a=1
+id:	33491
+title:	Umama wami uyasthala
+author:	zodwa ngobe
+artist:	Jonathan Field
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33491.png
+desc:	Umama no baba basthala engadini. Umndeni usebenza ndawonye ukusthala emasimini.
+
+page_text:
+
+P1	Umama wasthala.Wasthala ingadi encane.Wasthala ingadi encane yama boontjies.
+P2	Ubaba wastjala.Wa sthala ingadi encane.Ingadi encane yama blomu.
+P3	Mama wahlakula kuzozo zombili izingadi.
+P4	Baba wanisela zombili izingadi
+P5	Mina nabazali bam sasebenza ndawonye engadin encane.Mina nabo dadewethu sesivunile izimbali nama boontjies.
+P6	ingadi encane yama boontjies ikhiqhize ama saka amaningi wama bootjies.Ingadi encane yama blomu ikhiqhize ama saka amaningi wezi mbali.
+P7	Umama wa sthala.Usthale ingadi enkulu.Usthale ingadi enkulu yama boontjies.
+P8	ubaba utshalile.Usthale ingadi enkulu.Usthale ingadi enkulu yezimbali.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/8998.png
+illustrations/pages/8999.png
+illustrations/pages/9000.png
+illustrations/pages/9001.png
+illustrations/pages/9002.png
+illustrations/pages/9003.png
+illustrations/pages/9004.png
+illustrations/pages/9005.png
+
+translations:
+
+Afrikaans (Translation)	My Ma Maak Tuin	id=11280
+English (Translation)	My mother planted	id=9034
+French (Translation)	Ma Mère a Fait Des Plantations	id=12660
+isiZulu (Translation)	Umama Wami Utshalile	id=12914
+Kiswahili (Translation)	Mamangu alipanda	id=12652
+Lusoga (Original)	Maama Wange Yalima	id=9031
+Lusoga (Adaptation)	My mother planted	id=9040
+Lusoga (Translation)	Okusimba n' Okukungula	id=27507
+Ng’aturkana (Translation)	Itokang Etakini	id=12650
+Oluwanga (Translation)	Mama Wanje Yaraka	id=13015
+Portuguese (Translation)	A Minha Mãe Plantou	id=17615
+Sepedi (Translation)	Mma waka o bjadile	id=11080

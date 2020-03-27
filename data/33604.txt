@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=33604&d=0&a=1
+id:	33604
+title:	سگ و گربه و تخم
+author:	behzad ayubi
+artist:	Elke and René Leisink
+lang:	Persian (Afghanistan)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33604.png
+desc:	سگ و گربه بهترین دوست همدیگر اند. آنها تخمی را سرسبزه می بینند. آنها با آن تخم چکار میکنند؟
+
+page_text:
+
+P1	این گربه است @@این سگ است
+P2	سگ و گربه به گردش می روند@@آنها در روستای شان می گردند
+P3	ناگهان تخمی را می بینند@@تخم سر سبزه ها قرار دارد@@تخم سر سبزه ها تنهاست@@تخم تک و تنهاست
+P4	سگ و گربه رفته رفته پیش یک گنجشک میروند@@آنها از گنجشک می پرسند: آیا این تخم توست؟
+P5	لیکن گنجشک می گوید: نه, این تخم من نیست. از بوم کور بپرس. شاید که تخم او باشد
+P6	سگ و گربه گشته گشته پیش بوم کور میروند@@آنها از بوم کور میپرسند: آیا این تخم توست؟
+P7	لیکن بوم کور پاسخ میدهد: نه, این تخم من نیست. از غاز بپرس@شاید تخم او باشد
+P8	سگ و گربه رفته رفته پیش غاز میروند@@آنها از غاز می پرسند: این تخم توست؟
+P9	لیکن غاز می گوید: نه, این تخم من نیست@از آن دو مرغابی بپرس. شاید تخم آنها باشد
+P10	سگ و گربه گشته گشته پیش آن دو مرغابی می روند@@از آن دو مرغابی می پرسند: آیا این تخم شماست؟
+P11	لیکن دو مرغابی میگویند: نه, این تخم ما نیست@@در آن هنگام تخم می شکند
+P12	چلپاسه ی درون آن تخم می باشد@@یک چوچه ی چلپاسه
+P13	چوچه ی چلپاسه می گوید: مادرم کجاست؟ پدرم کجاست؟ @پدر و مادرم کجاستند؟ @@سگ و گربه چوچه ی چلپاسه را پیش پدر و مادرش می برند
+P14	بامان خدا سگک! بامان خدا گربه گک! بامان خدا چلپاسه گک
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiTonga (Translation)	Kaaze, Mubwa AJi	id=20770
+CiNyanja (Translation)	Cona, Galu na zila	id=20793
+English (Original)	Cat and Dog and the Egg	id=20150
+Kinyarwanda (Translation)	Injangwe, Imbwa n' Igi	id=31694
+Kiswahili (Translation)	Paka na Mbwa na Yai	id=33216
+Lulamoogi (Translation)	Opuusi n'ombwa n'eigi	id=25360
+Lusoga (Translation)	Puusi embwa neigi	id=26358
+Ng’aturkana (Translation)	Ipaka, Nying'ok ka Abeye	id=33424
+SiLozi (Translation)	Kaze, Nja  ni Lii	id=20924

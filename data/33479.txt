@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=33479&d=0&a=1
+id:	33479
+title:	P'aka a Charo
+author:	Titus  Kazungu
+artist:	Marleen Visser and Wiehan de Jager
+lang:	KiGiryama
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33479.png
+desc:	Charo ana paka anji. Vidze
+
+page_text:
+
+P1	Charo anahendza p'aka. @@Ko nyumbani kwakwe kuna p'aka anji.
+P2	Charo ana p'aka mwiru. @@P'aka yuyu anarya nyama nyinji zhomu.
+P3	Charo ana p'aka wa kitumbotumbo. @@P'aka yuyu anarya kila kit'u.
+P4	P'aka wa hahu, anakwera dzulu za muhi. @@P'aka yuyu anashindwa kuthima.
+P5	Charo anakwera dzulu za muhi. Anakwama kuko na p'aka wa hahu. @@Mameye Charo ana aviza kuthima kula ko dzulu za muhi.
+P6	Charo ana p'aka airi akaha. @@P'aka aa manaoha dzuwa siku yosi.
+P7	Charo ana p'aka ahahu mario mana chadi. @@P'aka aa managwira panya jikoni kila usiku.
+P8	Charo ana k'uro mumwenga. K'uro yuyu anaifwa Ndokolani. @@Ndokolani k'ana asena. K'ana raha bule.
+P9	P'aka a Charo k'amamwendzi Ndokolani. @@Manamuinga kula ko nyumbani. @@Ndokolani anavura malo.
+P10	Charo anamupata Ndokolani na kumudzya mudzini. @@P'aka osi kamana raha. @@K'amendzi kumona Ndokolani kaheri.
+P11	Yuno Charo ana p'aka angahi? @@Ana p'aka anane.
+P12	Yuno Charo ana k'uro angahi? @@Ana k'uro mumwenga. @@Yuno Ndokolani a hiko vino?
+P13	We una p'aka angahi ko mudzini kwenu? @@Una k'uro angahi ko mudzini kwenu?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiNambya (Translation)	Tungowe twa Selemeng	id=32898
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+ChiTonga (Translation)	Bakaaze ba Selemengi	id=33107
+CiNyanja (Translation)	Ma cona a Selemeng	id=33170
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+IciBemba (Translation)	Baapuushi bakwa Selemeng	id=33292
+isiZulu (Translation)	Amakati kaZamo	id=31799
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Puusi dha Kelementi	id=27609
+Ng’aturkana (Translation)	Ng'ipakae Selina	id=33432
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Pokomo (Translation)	Mpaka jwa Subo	id=33504
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

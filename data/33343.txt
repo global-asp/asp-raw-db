@@ -1,0 +1,25 @@
+url:	https://africanstorybook.org/reader.php?id=33343&d=0&a=1
+id:	33343
+title:	This is Tuesday book
+author:	Renaldo Liberty
+artist:	
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33343.png
+desc:	Todays story in the world of love And happiness
+
+page_text:
+
+P1	This is some text without a picture
+P2	Drawings
+
+images:
+
+illustrations/pages/7597.png
+illustrations/pages/.png
+illustrations/pages/34810300.png
+illustrations/pages/7601.png
+
+translations:
+

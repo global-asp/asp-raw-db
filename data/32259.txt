@@ -1,0 +1,67 @@
+url:	https://africanstorybook.org/reader.php?id=32259&d=0&a=1
+id:	32259
+title:	Gerogal bee Kaatoota
+author:	Ibraahim Baabayo and Muhammed Muktaar
+artist:	Magriet Brink
+lang:	Fulfulde Mbororoore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32259.png
+desc:	E woodi soobaaku hakkunde gerogal bee kaatoota
+
+page_text:
+
+P1	Gerogal bee kaatoota soobiriino.
+P2	Gerogal bee kaatoota njahii fijugo bol.
+P3	Gerogal reenata.
+P4	Sey kaatoota nastini tati!
+P5	Ɓernde gerogal metti.
+P6	Gerogal moɗii kaatoota.
+P7	Sey gerogal fotti e inna kaatoota.
+P8	Kaatoota woyi nder reedu gerogal wiʼi, "Inna, wallitam! Gerogal moɗiiyam!"
+P9	Kaatoota welaa, nga walaa ndakam, sey gerogal nyawi.
+P10	Gerogal fuɗɗi ɗojjugo.
+P11	Gerogal ɗojji haa tuuti kaatoota.
+P12	Jooni, gerogal bee kaatoota wanyindirii.
+
+images:
+
+illustrations/pages/8983.png
+illustrations/pages/8983.png
+illustrations/pages/8989.png
+illustrations/pages/8995.png
+illustrations/pages/8986.png
+illustrations/pages/8984.png
+illustrations/pages/8985.png
+illustrations/pages/8987.png
+illustrations/pages/8991.png
+illustrations/pages/8990.png
+illustrations/pages/8993.png
+illustrations/pages/8992.png
+illustrations/pages/8994.png
+
+translations:
+
+Anii (Adaptation)	Acɩrɩ na ncaŋgɩlɩpapa	id=24784
+ChiTonga (Translation)	Nkuku a Jongola	id=20796
+Chrambo (Translation)	Miŋguo pugu Ŋìe	id=32344
+Dhopadhola (Translation)	Gweno Gi Ogongolo	id=15734
+English (Adaptation)	Chicken and Millipede	id=21843
+English (Adaptation)	(Colour-in) Chicken and Millipede	id=32151
+French (Translation)	Poule et Mille-pattes	id=33694
+IciBemba (Translation)	Inkoko Na Ciyongoli	id=18681
+isiNdebele (Translation)	Isikhukhukazi noSongololo	id=21920
+isiZulu (Translation)	UNkuku noShongololo (Level 1)	id=15102
+Kῖmῖῖrũ  (Translation)	Ngũkũ na Mũguongora	id=32822
+Kiswahili (Translation)	Kuku na Jongoo	id=15608
+Kiswahili (Translation)	Hasira ya Kuku	id=18289
+Lámnsoʼ (Translation)	Ŋgvəv wùn Ngom – Ŋkèʼ Mbìy	id=15061
+Lugwere (Translation)	Nkoko N’Ogongolo	id=16113
+Lunyole (Translation)	Engoho Ni Waga	id=16583
+Lusoga (Translation)	Wankoko ni waigongolo	id=25463
+Ng’aturkana (Translation)	Akukut ka Akamurimuria	id=33408
+Olukabarasi (Translation)	Ingokho nende Likongolo	id=31953
+Oluwanga (Translation)	Ingokho Nende Likongolo	id=19589
+Portuguese (Translation)	O Frango E O Gongolo	id=16098
+Thimbukushu (Translation)	Shushwa naDighongoro	id=32247
+Yoruba (Translation)	Adìyẹ Àti Ọ̀ọ̀kùn	id=16553

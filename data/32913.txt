@@ -1,0 +1,72 @@
+url:	https://africanstorybook.org/reader.php?id=32913&d=0&a=1
+id:	32913
+title:	Keletšo ya maaka
+author:	Makalane  Mokgetla
+artist:	Brian Wambi
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32913.png
+desc:	Keletšo ya maaka. Lefa le na le go lwantšha bana.
+
+page_text:
+
+P1	Kombe le Juma e be e le baagišani ba go diila.@@Ba be ba itirela dilo ka moka ka bobona.
+P2	Ba be ba duma go ba le pokolo ye e lego ya bona.@@Gore e ba rwalele dilo.
+P3	Ge tatagoKombe a hlokofala, Kombe a ba mojalefa.@@A lebala ka Juma.
+P4	Ge tate wa Kombe a hlokofala, Kombe a ba mojalefa.@@A lebala Juma.
+P5	Kombe a kganyogela dimpša tša gagwe nama ya pokolo.@@Juma a kganyogela pokolo go dira mošomo.
+P6	Moahlodi a re, "Yo mongwe le yo mongwe a ka tšea seripa sa pokolo."
+P7	Kombe a bolaya pokolo.@@Juma a rwala dilo ka boyena gape.
+P8	Kombe o be a nyaka go tšhuma ntlo ya gagwe a age ye mphsa.
+P9	Juma a re, "Le nna ya ka e tlo swa."@@Moahlodi a dumelelana le Kombe.
+P10	Ntlo ya Juma ya swa.@@Moahlodi a re, "Kombe o tšhumile ntlo ya gagwe fela."
+P11	Juma a hloka pokolo le ntlo.@@A robala ka fase ga mohlare.
+P12	Juma a šoma boima.@@O be a na le temo ya dinawa tše botse.
+P13	Bašemane ba Kombe ba ja bontši bja dinawa go tšwa tšhemong ya Juma.
+P14	Bašemane ba re, "Botša tate a lefele dinawa tša gago."
+P15	Juma a re, "Ga re nyake tšhelete ya gago. Ke nyaka dinawa tša ka."
+P16	Moahlodi a botša Juma a re, "Sega bašemane ka bogare o ntšhe dinawa tša gago."
+P17	Juma a gana go theeletša. Kombe a lla, "E re ba bagolo ba ahlole."
+P18	Ba bagolo ba botša Kombe ba re, "O bolaile pokolo. O tšhumile ntlo."
+P19	Ba botša Juma ba re, "Le go bolaya bašemane ba Kombe go fošagetše."
+P20	Kombe a fa Juma seripa sa lefa la gagwe.@@Ba phela ka lethabo.
+
+images:
+
+illustrations/pages/17057.png
+illustrations/pages/17050.png
+illustrations/pages/17052.png
+illustrations/pages/17053.png
+illustrations/pages/17054.png
+illustrations/pages/17055.png
+illustrations/pages/17057.png
+illustrations/pages/17058.png
+illustrations/pages/17060.png
+illustrations/pages/17061.png
+illustrations/pages/17062.png
+illustrations/pages/17063.png
+illustrations/pages/17064.png
+illustrations/pages/17066.png
+illustrations/pages/17068.png
+illustrations/pages/17069.png
+illustrations/pages/17070.png
+illustrations/pages/17071.png
+illustrations/pages/17073.png
+illustrations/pages/17074.png
+illustrations/pages/17075.png
+
+translations:
+
+Afaan Oromo (Translation)	Abbaa Seeraa Abbiidhoo	id=24805
+English (Original)	Unwise judge	id=17115
+English (Adaptation)	Wrong advice	id=21795
+French (Translation)	Mauvais conseil	id=23335
+Kinyarwanda (Translation)	Umucamanza mubi	id=22143
+Kinyarwanda (Translation)	Bagiriwe Inama Mbi	id=31693
+Kiswahili (Translation)	Hakimu asiyekuwa na busara	id=17135
+Kiswahili (Translation)	Ushauri mbaya	id=21816
+Lusoga (Translation)	Okughabulwa okucaamu	id=25906
+Otjiherero (Translation)	Okuyandja ondunge ombukise	id=33303
+Portuguese (Translation)	Juiz Insensato	id=17118
+Portuguese (Translation)	Juiz Insensato	id=17133

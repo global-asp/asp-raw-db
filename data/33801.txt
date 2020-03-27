@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33801&d=0&a=1
+id:	33801
+title:	Sehlwela
+author:	Maria Vaz and Nthabiseng  Tsatsi
+artist:	Linda  Liphondo and Sbusiso  Boikanyo
+lang:	Sesotho (South Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33801.png
+desc:	Ha Ramaqheka a kwetela batswadi ba Kopano. Kopano o ikemisetsa ho ba fumana. (Pale le ditshwantsho di qapuwe ke bana thupellong ya matsatsi a phomolo a Phupu 2019 mme e tsamaiswa ke ba African Storybook laboraring ya Pimville
+
+page_text:
+
+P1	Kgale kgale ho ne ho e na le ngwanana ya bitswang Kopano.@@Batswadi ba Kopano ba ne ba le bohlale e le borasaense. Ba ne ba sebetsa porojekeng ya lekunutu e kgolo laborathoring ya bona.
+P2	Rasaense ya kgopo ya bitswang Ngaka Ramaqheka o ne a batla ho tseba lekunutu la porojeke ena.@@Bosiu bo bong Ngaka Ramaqheka a romela Dan Rabolotsana ho ya kwetela batswadi ba Kopano.
+P3	Dan a ba fumana batswadi ba Kopano, a leka ho tshwara Kopano. Kopano o ne a le monyenyane a le lebelo, a phonyoha menwaneng ya hae. @@Kopano a matha ka lebelo le kang la lehadima.
+P4	Ha a kgaotsa ho matha, a iphumana a le morung o difate di bolelele boo a sokang a bo bona.@@Ha a ntse a shebile hodimo moo difate di fellang,a kgotjwa a wa.
+P5	A wela hodima se seng sa difate ka hlooho mme a theteha.  @@Ha a phaphama, a iphumana a le ka phapusing e nang le thelebishene e kgolo.
+P6	"Dumela Kopano," ho bua monna ya thelebisheneng.@@"Ke sehlwela se sebeletsang Botle Lefatsheng. Ho tloha kajeno, o se o le sehlwela le wena."@@Ho tloha tsating leo, Kopano a ba le sebete jwaloka phiri.
+P7	Kopano a tswa sefateng ka monyako o neng o le kutung ya sefate.@@A phakisa a ya moo Ngaka Ramaqheka a dulang, mme a mo phephetsa ka tlhodisano ya matla.@@Ba lwana matsatsi a mabedi mme Kopano a hlola!
+P8	Ha batswadi ba hae ba se ba kgutletse hae, Kopano a kgutlela sefateng ho ya batla monna ya neng a mmone thelebeshineng.@@A se fumana sefate empa ho ne ho se na monyako. @@Yaba o dula fatshe o lebella hodimo difateng.
+
+images:
+
+illustrations/pages/85940140.png
+illustrations/pages/85940136.png
+illustrations/pages/85940137.png
+illustrations/pages/85940138.png
+illustrations/pages/85940139.png
+illustrations/pages/85940140.png
+illustrations/pages/85940141.png
+illustrations/pages/85940142.png
+
+translations:
+
+English (Original)	Secret agent	id=33732
+French (Translation)	Agent secret	id=33848
+isiZulu (Translation)	Usozimfihlo	id=33783
+Kiswahili (Translation)	Ajenti wa Siri	id=33835
+Lingala (Translation)	Bato ya kobombama	id=33814

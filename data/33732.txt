@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33732&d=0&a=1
+id:	33732
+title:	Secret agent
+author:	Linda  Liphondo
+artist:	Sbusiso  Boikanyo and Linda  Liphondo
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33732.png
+desc:	When Dr Devious kidnaps Kays parents
+
+page_text:
+
+P1	Once upon a time, there was a girl named Kay. @@Kay's parents were brilliant scientists. They were working on a top secret project in their laboratory.
+P2	An evil scientist called Dr Devious wanted to know the secret of the secret project. @@One dark night, Dr Devious sent her accomplice Dan Diabolical to kidnap Kay's parents.
+P3	Dan got the parents. He almost got Kay, but she was small and fast. She managed to slip through his fingers. @@Kay ran like a lightening bolt.
+P4	When she stopped running, Kay found herself in a dark forest surrounded by trees.@@As she looked up to see the sky, Kay tripped and fell!
+P5	She fell down, down, down, and bumped her head.@@When Kay woke up, she was in a nice room with a big TV.
+P6	"Hello Kay," said the man on the TV. @@"I am a secret agent for World Good! You are our newest secret agent!" @@With those words, Kay grew as brave as a wolf.
+P7	Agent Kay left the tree through a  door in the trunk. @@She ran to where Dr Devious lived and dared her to a duel. @@They fought for two days, until Kay was victorious!
+P8	After her parents returned home, Kay went to the tree to find the man on TV.@@She found the tree, but there was no door.@@Kay sat down and looked up into the trees.
+
+images:
+
+illustrations/pages/85940140.png
+illustrations/pages/85940136.png
+illustrations/pages/85940137.png
+illustrations/pages/85940138.png
+illustrations/pages/85940139.png
+illustrations/pages/85940140.png
+illustrations/pages/85940141.png
+illustrations/pages/85940142.png
+
+translations:
+
+French (Translation)	Agent secret	id=33848
+isiZulu (Translation)	Usozimfihlo	id=33783
+Kiswahili (Translation)	Ajenti wa Siri	id=33835
+Lingala (Translation)	Bato ya kobombama	id=33814
+Sesotho (South Africa) (Translation)	Sehlwela	id=33801

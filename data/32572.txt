@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=32572&d=0&a=1
+id:	32572
+title:	Feelings
+author:	Clare Verbeek
+artist:	Kathy Arbuckle
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32572.png
+desc:	Explore how we feel about different things and people.
+
+page_text:
+
+P1	My heart feels a lot of things.
+P2	I feel happy when my granny tells us stories in the evening.
+P3	I feel silly when I play with my friend.
+P4	I feel bad when my dad says he does not have money.
+P5	I feel loved when my mom gives me a hug.
+
+images:
+
+illustrations/pages/28597.png
+illustrations/pages/28598.png
+illustrations/pages/28599.png
+illustrations/pages/28600.png
+illustrations/pages/28601.png
+illustrations/pages/28602.png
+
+translations:
+
+isiZulu (Translation)	Imizwa	id=32701
+Kinyarwanda (Translation)	Amarangamutima	id=32573

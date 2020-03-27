@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=33812&d=0&a=1
+id:	33812
+title:	Eloko moko te ekokikokoma
+author:	Theresa  Nyemba
+artist:	Suzette  T
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33812.png
+desc:	Mokomi lisapo oyo azali elenge oyo akomituna po etali libota naye. (Lisapo esalemaki na sanza ya motoba na mobu tuku mibale na zomi libwa na tango ya bopemi
+
+page_text:
+
+P1	Maman na ngai azalaki kosolola na ebengeli.
+P2	Bongo ayoki sango ya liwa ya koko na ngai ya mwasi akufi.@@Azalakii kolella makasi.
+P3	Ngai pe nayokaki penza, penza, penza, penza, penza mawa.@@Biso nionso tobandaki kolela.@@Koko na biso azalaki malamu na biso, koleka batu nionso.
+P4	Ba koko na ye nionso bayaki mokolo bazalaki kokunda ye.@@Tobandaki kosambela. Eloko moko ekomela biso te na libota oyo etikali.
+
+images:
+
+illustrations/pages/91400163.png
+illustrations/pages/91400161.png
+illustrations/pages/91400162.png
+illustrations/pages/91400163.png
+illustrations/pages/91400164.png
+
+translations:
+
+English (Original)	Nothing must happen	id=33742
+French (Translation)	Rien ne doit se produire	id=33756
+isiZulu (Translation)	Sengathi kungenzeke lutho olubi	id=33781
+Kiswahili (Translation)	Lazima kusitokee tena	id=33755
+Sesotho (South Africa) (Translation)	Ho se etsahale letho	id=33797

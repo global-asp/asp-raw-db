@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33784&d=0&a=1
+id:	33784
+title:	Ibhola liyimpilo yabo
+author:	Zanele Zuma
+artist:	Pimville Library Soccer
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33784.png
+desc:	Ibhola liyimpilo yazo zonke izingane ezidlalela leli qembu. (Indaba nemifanekiso kuqanjwe engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	UBling wayelithanda kakhulu ibhola.@@Uma ekhuluma ngalo, wayethi, "Ibhola impilo yami."
+P2	Wayengomunye wabadlali abavelele ababeqeqeshwa uTshepo.@@UTshepo wayelikhonzile iqembu lakhe.@@Abadlali abaningi bafisa ukulidlalela.
+P3	Babezodlala umdlalo obalulekile.@@Iqembu lalizilolonga zonke izinsuku.@@Bonke babezimisele ngalo mdlalo omkhulu!
+P4	Umqeqeshi weqembu ababezodlala nalo wayeyindoda enomona.@@Wayenomona ngempumelelo kaTshepo.
+P5	Lo mqeqeshi waya enkundleni ngosuku olwandulela umdlalo.@@Wafike wambela khona into enobungozi.@@Wambela khona umuthi!
+P6	UBling wadlala kahle kakhulu kuqala umdlalo.@@Wathi eseyolifaka ezintini.@@Wakhubeka!
+P7	Wakhahlela umoya, maqede wawa!@@"Bling?" kumemeza abalandeli.@@"Bling?" kuncenga uTshepo.
+P8	"Akukho okuyongiwisa!" kusho uBling ngaphakathi.@@"Ibhola impilo yami."@@Wavuka, waqhubeka wadlala kwaze kwaphela umdlalo.
+
+images:
+
+illustrations/pages/85940126.png
+illustrations/pages/85940122.png
+illustrations/pages/85940123.png
+illustrations/pages/85940124.png
+illustrations/pages/85940125.png
+illustrations/pages/85940126.png
+illustrations/pages/85940127.png
+illustrations/pages/85940128.png
+
+translations:
+
+English (Original)	Soccer is life	id=33730
+French (Translation)	Le foot c'est la vie	id=33846
+Kῖmῖῖrũ  (Translation)	Mũbira ni ũturõ	id=33863
+Kiswahili (Translation)	Soka ni maisha	id=33758
+Lingala (Translation)	Bomoi ya ndembo	id=33815
+Sesotho (South Africa) (Translation)	Bophelo ba papadi ya bolo ya maoto	id=33802

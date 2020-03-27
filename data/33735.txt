@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33735&d=0&a=1
+id:	33735
+title:	Everyone goes to Malawi
+author:	Jacquiline  K
+artist:	Jacquiline  K
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33735.png
+desc:	Will anyone stay behind with the young writer of this story? (Story and illustrations created at a June 2019 holiday workshop
+
+page_text:
+
+P1	We used to stay with my Grandma and mom.
+P2	My cousins, Christina, Thandi, Junior and Aunty lived with us.
+P3	My Grandma would teach us games. @@It was a good time.
+P4	Then, Junior went to Malawi, and Grandma went to Malawi.
+P5	And Aunty and Christina went to Malawi.
+P6	And then Thandi went to Malawi.
+P7	It was really sad.@@No one would stay with us.
+P8	But it is not so bad, because my mother is still here with me.
+
+images:
+
+illustrations/pages/91400121.png
+illustrations/pages/91400117.png
+illustrations/pages/91400118.png
+illustrations/pages/91400119.png
+illustrations/pages/91400120.png
+illustrations/pages/91400121.png
+illustrations/pages/91400122.png
+illustrations/pages/91400123.png
+illustrations/pages/91400124.png
+
+translations:
+
+French (Translation)	Tout le monde va au Malawi	id=33843
+isiZulu (Translation)	Bonke baya eMalawi	id=33774
+Kiswahili (Translation)	Kila mmoja anakwenda Malawi	id=33757
+Lingala (Translation)	Batu nionso bakokende Malawi	id=33805
+Sesotho (South Africa) (Translation)	Batho bohle ba ya Malawi	id=33790

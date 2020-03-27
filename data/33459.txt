@@ -1,24 +1,24 @@
-url:	https://africanstorybook.org/reader.php?id=32249&d=0&a=1
-id:	32249
-title:	Dia Rerṯo Đǝl nenda Đonto
-author:	Apalo  Mana
+url:	https://africanstorybook.org/reader.php?id=33459&d=0&a=1
+id:	33459
+title:	Kgomo ya lenaka le tee
+author:	Dikeledi Queen Shai
 artist:	Marion Drew
-lang:	Moro
+lang:	Sepedi
 level:	First words
 lic:	Creative Commons: Attribution 4.0
-thumb:	http://africanstorybook.org/illustrations/covers/32249.png
-desc:	Have you ever seen a cow with only one horn and no tail?
+thumb:	http://africanstorybook.org/illustrations/covers/33459.png
+desc:	Na o kile wa bona kgomo ya go ba le lenaka le tee
 
 page_text:
 
-P1	Wëi! @@Sëcu dia rëni egeɽa rǝŋǝra.
-P2	Dia rerṯo đǝl nenda đonto, na rero lǝper.
-P3	Dia rađǝwo, na rama ara.
-P4	Dia ronḏǝṯo kañ.
-P5	Ummia igi gǝsia gëbwa diara kañ.
-P6	Nda iria yesa ŋaña, dia irri ṯarǝso ronto.
-P7	Dia rađowa lorba. @@Iria isi yiṯënu yaɽaŋa alǝsen ǝrtođ.
-P8	Agiđi ndǝ agǝfiđu rarno irri, agiđi ŋiđiṯau?
+P1	Heeeee! Kgomo ye botse ke yela kua gae.
+P2	E na le lenaka le tee ebile ga e na mosela.
+P3	E nonne, e na le mpa ye kgolo.
+P4	Ke kgomo ye maatla.
+P5	Modiši o rata kgomo ye kudu.
+P6	Ge dikgomo tše dingwe di fula, yona e ja e le noši.
+P7	Kgomo ye e lwa kudu. Dikgomo tše dingwe di e tlogela e le noši.
+P8	Ge o ka kopana le kgomo ya mohuta wo, o ka dira eng?
 
 images:
 
@@ -52,6 +52,7 @@ Luganda (Translation)	Ente eyina ejjembe elimu	id=23312
 Lunyole (Translation)	Eŋombe Ey'olwiga Lulala	id=11906
 Lusoga (Translation)	Ente  eyeiyiga  eirala	id=30564
 Moro (Translation)	Dia rerto đel đonto	id=32106
+Moro (Translation)	Dia Rerṯo Đǝl nenda Đonto	id=32249
 Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
 Oshikwanyama (Translation)	Ongobe yoluvinga limwe	id=31569
 Oshindonga (Translation)	Ongombe yolwinga lumwe	id=31505
@@ -59,7 +60,6 @@ Otjiherero (Translation)	Ongombe jonja imwe	id=31514
 Portuguese (Translation)	Vaca Com Um Só Chifre	id=16408
 Rukwangali (Translation)	Ngombe zoRuvinga Rumwe	id=31486
 Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
-Sepedi (Translation)	Kgomo ya lenaka le tee	id=33459
 Sesotho (Lesotho) (Original)	Khomo e bokopa	id=9621
 Sesotho (South Africa) (Translation)	Kgomo ya naka le le leng	id=33510
 Setswana (Translation)	Kgomo ya lenaka le le lengwe	id=32887

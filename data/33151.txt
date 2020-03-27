@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33151&d=0&a=1
+id:	33151
+title:	Un cadeau pour mamie
+author:	Zanne Viljoen
+artist:	Sibongile Mnkandla
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33151.png
+desc:	Maman aide Thabo à fabriquer un cadeau très spécial pour sa grand-mère.
+
+page_text:
+
+P1	Mamie vient rendre visite.  Et elle apporte toujours des noix arachides et des fruits, ou parfois du maïs et un melon.
+P2	Un livre serait génial, mais mamie, sait lire ?@@S'il allait au centre commercial, trouverait-il quelque chose de chouette ? @@"Faisons-lui un sac ", dit Thabo en souriant. "Un grand sac solide en denim bleu."
+P3	Maman sort le tissu qu'ils ont acheté au magasin. Elle étale le motif et commence à couper. @@Tout d'abord, elle coupe deux pièces qui sont grands et larges.
+P4	Puis deux plus petits pour donner une forme au sac. @@Thabo les plie avec les deux grands côtés. Il regarde maman reprendre le modèle.
+P5	Elle découpe le fond en deux longs morceaux. C'est ce qui rendra le sac vraiment solide. @@Thabo les plie pendant que maman reprend le modèle.
+P6	Elle découpe quatre sangles larges et longues. @@Deux seront cousus ensemble pour former une sangle. Cela donnera au sac deux fois plus de force.
+P7	Puis maman sort sa machine à coudre. @@Elle réunit toutes les pièces pour faire le sac de mamie. @@Elle le donne à Thabo qui sourit et dit : "Merci maman, pour le sac bleu de mamie !"
+
+images:
+
+illustrations/pages/25487.png
+illustrations/pages/25488.png
+illustrations/pages/25495.png
+illustrations/pages/25490.png
+illustrations/pages/25491.png
+illustrations/pages/25492.png
+illustrations/pages/25493.png
+illustrations/pages/25494.png
+
+translations:
+
+ChiNambya (Translation)	Chipo chamegulu	id=32895
+English (Original)	A Present For Grandma	id=21728
+Lusoga (Translation)	Ekirabo kya dhaadha omukazi	id=28452
+Sepedi (Translation)	Mpho ya Koko	id=33342
+Sesotho (Zimbabwe) (Translation)	Mpho Ea Nkuku	id=21729

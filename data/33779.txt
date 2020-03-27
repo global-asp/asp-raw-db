@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33779&d=0&a=1
+id:	33779
+title:	Izinja zami ezinhle
+author:	Zanele Zuma
+artist:	Priscilla  K
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33779.png
+desc:	Lo mbhali uxoxa ngezinja zakhe ezimbili ayezithanda kakhulu. (Indaba nemifanekiso kwaqanjwa engqungqutheleni yomhlangano wokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Umama wangitholela imidlwane emibili.@@Yayimihle kakhulu!
+P2	Ngayiqamba ngathi uRoyalty noBlackie.
+P3	URoyalty wayensundu efana nendlovukazi.@@UBlackie wayemuhle emnyama enoboya obude.
+P4	Ngangihamba nabo zonke izinsuku uma ngibuya esikoleni.
+P5	Ngesinye isikhathi ngangibageza. @@URoyalty wayebaleka uma begeza.
+P6	Ekhaya sahamba sayohlala emafulethini.@@Abavumanga ukuthi sihlale nezinja.
+P7	Kwadingeka ukuthi oRoyalty noBlackie sibashiye nabazala bami.@@Ngelinye ilanga ngabavakashela.
+P8	Ngathola ukuthi uBlackie sewalahleka. URoyalty wayeyedwa enesizungu.@@Yaba buhlungu inhliziyo yami.
+
+images:
+
+illustrations/pages/91400152.png
+illustrations/pages/91400151.png
+illustrations/pages/91400152.png
+illustrations/pages/91400153.png
+illustrations/pages/91400154.png
+illustrations/pages/91400155.png
+illustrations/pages/91400156.png
+
+translations:
+
+English (Original)	My lovely dogs	id=33740
+French (Translation)	Mes beaux chiens	id=33857
+Gikuyu (Translation)	Ngui ciakwa igĩrĩ nyendete	id=33861
+Kiswahili (Translation)	Mbwa wangu wa kupdendeza	id=33841
+Lingala (Translation)	Ba bwa na ngai nalingaka	id=33810
+Sesotho (South Africa) (Translation)	Ntja tsa ka tse ratehang	id=33795

@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=32346&d=0&a=1
+id:	32346
+title:	Luwo's House
+author:	Little Zebra Books
+artist:	Jacob  Matthess
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32346.png
+desc:	Luwo sneaks out of church to go home. But finding his house isnt as easy as he thought.
+
+page_text:
+
+P1	Luwo went to church with his mother. @@She was holding his hand on the path.
+P2	Inside the church there were many people gathered. @@They were singing.
+P3	Luwo left the church. @@His mother didn't see him.
+P4	Luwo stood in the path. @@He looked down the path, and thought, "Where is my house?"
+P5	So, he followed the path. He saw a big house. @@"No, that's not our house. Our house is small."
+P6	Luwo walked a bit more. He saw a house on stilts. @@"No, that's not our house. Our house is not on stilts."
+P7	He kept on walking. He saw a small house of straw. @@"No, that's not our house. Our house has mud walls."
+P8	Luwo went farther. He saw a small house with a tree outside. @@"No, that's not our house. Our house has two trees outside."
+P9	At last Luwo saw his mother coming toward him. Luwo ran to her. @@His mother said, "Let's go home!"
+P10	Which house is Luwo's house?
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Nyumba ya Luwo	id=33827
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+French (Translation)	La maison de Luwo	id=33378
+Portuguese (Translation)	A Casa de Luwo	id=32379

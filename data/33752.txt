@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=33752&d=0&a=1
+id:	33752
+title:	Ntšwa ya me, Heidi
+author:	Refilwe  Ramagoshi
+artist:	Tebogo Boikanyo Matshana
+lang:	Setswana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33752.png
+desc:	Ga o ise o bone ntšwa e e botlhale e e tshwanang le Heidi!
+
+page_text:
+
+P1	Ga o ise o bone ntšwa e e botlhale e e tshwanang le Heidi. @@E ithaya e re ke motho.
+P2	Fa ke tlhapa meno, le yone e batla ke e tlhapisa meno.
+P3	Fa ke bogetsa thelebišene, le yone o fitlhele e ntse e tsamaisa matlho e kete e tlhaloganya tiragalo nngwe le nngwe.
+P4	E ne e le maitsebowa fa re ne re bogetse tsa metshameko mo thelebišeneng ka letsatsi lengwe. @@Go ne ga kokota tsala ya me ya bogologolo Mmapule.
+P5	Re ne ra itumelelana, ra atlana ga nna monate.@@Mmapula a se ke a dumedisa Heidi. E ne e tlwaetse go dumedisiwa ka letsogo. @@Nna ka lebala go itsise Mmapula Heidi, ntekwane e befetswe mo go maswe.
+P6	E rile pele nka raya Mmapula ka re setulo ke se, Mmapula a bo a setse a ipeile mo setulong sa ga Heidi.@@Ya gana ona matlakala ao! @@Ya se ke ya emela ke bua.
+P7	E ne e tlwaetse go dumedisiwa ka letsogo.@@Ya tlolela mo diropeng tsa Mmapula ka ponyo ya leitlho, ya mmogola e mo lebile ka mo matlhong e batla go mo natlola molomo!@@Mmapula o ne a gakanegile!
+P8	Ka akanya ka bonako, ka tlosa Heidi ka bonako mo diropeng tsa gagwe!@@Go simolola motsing oo, Mmapula a se ke a tlhola a le baya kwa ga me.
+
+images:
+
+illustrations/pages/91400170.png
+illustrations/pages/91400165.png
+illustrations/pages/91400166.png
+illustrations/pages/91400167.png
+illustrations/pages/91400173.png
+illustrations/pages/91400174.png
+illustrations/pages/91400170.png
+illustrations/pages/91400171.png
+illustrations/pages/91400172.png
+
+translations:
+
+English (Adaptation)	Heidi, my dog	id=33745

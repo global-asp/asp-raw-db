@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33793&d=0&a=1
+id:	33793
+title:	Ke rata…
+author:	Maria Vaz
+artist:	Patience  M
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33793.png
+desc:	Pale ena e ka ha mongodi ya motjha dilemong ya ratwang ke bohle. Pale le ditshwantsho di qapuwe ke mokgatlo wa Sophiatown Community Psychological Services
+
+page_text:
+
+P1	Ke rata ho bapala bolo ya maoto.@@Ke rata ho bapala papadi ena le Thando, Nhlanhla le Ben.
+P2	Mme wa ka ke enwa.@@Ke rata mme wa ka.@ @O a nqabola.
+P3	Ke rata Modimo hobane ke mmopi wa ka.
+P4	Ke rata sekolo hobane matitjhere a nthuta tseo ke lokelang ho di tseba.
+P5	Ke rata le ho bapala le dintja hobane ho a thabisa.
+P6	Ke rata matsatsi a tswalo hobane ke rata ho keteka.
+P7	Le nna ke a ithata hobane…
+P8	… hobane ke a ithata!
+
+images:
+
+illustrations/pages/91400141.png
+illustrations/pages/91400138.png
+illustrations/pages/91400140.png
+illustrations/pages/91400141.png
+illustrations/pages/91400142.png
+illustrations/pages/91400139.png
+illustrations/pages/91400143.png
+illustrations/pages/91400144.png
+illustrations/pages/91400145.png
+
+translations:
+
+English (Original)	I love	id=33738
+French (Translation)	J'aime	id=33855
+Gikuyu (Translation)	Nĩ nyendete	id=33859
+isiZulu (Translation)	Engikuthandayo	id=33777
+Kiswahili (Translation)	Ninapenda	id=33839
+Lingala (Translation)	Na lingi	id=33808

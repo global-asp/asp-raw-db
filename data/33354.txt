@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=33354&d=0&a=1
+id:	33354
+title:	(Paka rangi) Fana na wanyama wake
+author:	Ursula  Nafula
+artist:	Jesse Breytenbach
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33354.png
+desc:	Fana anawapenda wanyama. Anakuwa nao kwa muda mrefu akiwalisha na kucheza nao.
+
+page_text:
+
+P1	Fana na familia yake wanaishi katika mji wa Debre Birhan nchini Ethiopia. Fana ni mwanafunzi wa darasa la tatu. Ana roho nzuri na mwenye hekima.
+P2	Fana anawapenda wanyama. Ana paka mmoja, kuku wawili, mbuzi na njiwa. Anakuwa nao kwa muda mrefu akiwalisha na kucheza nao.
+P3	Siku moja, Fana na wenzake walikuwa wakicheza uwanjani shuleni. Fana aliwaona watoto wakiwarushia njiwa mawe. @@Alijiuliza, "Mbona wanawaumiza njiwa?"
+P4	Aliacha kucheza akakimbia kuelekea mahali watoto wale walikokuwa. @@Mwanzoni, wenzake hawakuelewa kilichokuwa kikitendeka. Walimfuata. Fana aliwakemea wale watoto, "Acheni kurusha mawe."
+P5	Wale watoto watukutu walitoroka. @@Fana aliwashika njiwa waliojeruhiwa. Aliona majeraha kwenye mbawa zao. Aliamua kuwapeleka nyumbani kuwalinda.
+P6	Fana aliwalisha njiwa. Jioni aliisimulia familia yake alichokiona na kufanya siku ile na jinsi alivyowaokoa njiwa.
+P7	Asubuhi, Fana na wazazi wake welienda katika kliniki kupata dawa za kuwaponya njiwa. @@Baada ya siku chache, njiwa walipona majeraha yao. Fana alifurahi sana.
+P8	Kila mara, Fana aliwaambia marafiki zake, "Ninawapenda wanyama. Wanyama wana manufaa kwetu na ni marafiki zetu. Lazima tuwalinde na kuwahifadhi."
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25273.png
+illustrations/pages/25274.png
+illustrations/pages/25275.png
+illustrations/pages/25276.png
+illustrations/pages/25277.png
+illustrations/pages/25278.png
+illustrations/pages/25279.png
+illustrations/pages/25280.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana and her animals	id=21004
+English (Adaptation)	(Colour-in) Fana and her animals	id=21005
+English (Adaptation)	Fana loves animals	id=21396
+Kanuri (Translation)	Kurram-a Dabbawanzǝ-a	id=24765
+Kinyarwanda (Translation)	Furaha n'amatungo ye	id=23923
+Kiswahili (Translation)	Fana na wanyama wake	id=21006
+Kiswahili (Translation)	Fana anawapenda wanyama	id=21998
+Luganda (Translation)	Fana n'ebisolo bye	id=23599
+Lugbarati (Translation)	Fana azini i ma anyapa be	id=24531
+Lulamoogi (Translation)	Mbasalaki ataka inho ebisolo	id=24828
+Lusoga (Translation)	Faanana  n'ebisolobye	id=25086
+Rukiga (Translation)	Fana arakunda e'nyamishwa	id=24413
+Rukiga (Translation)	Fana ne bisholo byeye	id=24592
+Rumanyo (Translation)	Fana na vimuna vyendi	id=33289
+Runyankore (Translation)	Fana nakunda ebyikoko	id=23245
+Runyankore (Translation)	Fana ne nyamishwa ze	id=24112
+Sepedi (Translation)	Fana o rata diphoofolo	id=32906
+Sepedi (Translation)	(Colour-in) Fana o rata diphoofolo	id=33310

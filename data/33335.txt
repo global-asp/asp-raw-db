@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=33335&d=0&a=1
+id:	33335
+title:	Moustique gênant
+author:	Zanne Viljoen
+artist:	Magriet Brink
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33335.png
+desc:	Nous connaissons tous le bruit que fait le moustique lorsquil bourdonne la nuit. Quel insecte minuscule
+
+page_text:
+
+P1	Toc, toc, toc !
+P2	"Qui est là ?" je demande, endormi.
+P3	"C'est moi", dit une voix stridente.
+P4	"Qui est "moi" ?" je demande.
+P5	"Je te l'ai dit, c'est s-e-u-l-e-m-e-n-t  m-o-i ", dit la même voix.
+P6	"Je ne connais personne qui s'appelle "s-e-u-l-e-m-e-n-t m-o-i", répondis-je. Je vérifie que ma moustiquaire est rentrée autour de mon lit.
+P7	"Je m'appelle Umous." La voix sonne plus aiguë qu'avant. Elle est très près de mon oreille.
+P8	"Umous qui ?" je demande en regardant sous la moustiquaire.
+P9	"Umous Tique", dit enfin la voix. Je sens une piqûre à l'oreille.
+P10	"Aïe !" Je saute et je commence à chercher. "Tu vas payer pour ça !" Je crie.
+P11	En colère, je me lève du lit et j'allume la lumière.
+P12	Je déclare la guerre à ce pénible Umous Tique !
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+English (Original)	Annoying mosquito	id=14893
+Kiswahili (Translation)	Mbu msumbufu	id=21635
+Luganda (Translation)	Wansili anyiiza	id=22989
+Lusoga (Translation)	Ensiri enhiiza	id=25729
+Setswana (Translation)	Monang O O Tshwenyang	id=14964

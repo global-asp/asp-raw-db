@@ -1,0 +1,61 @@
+url:	https://africanstorybook.org/reader.php?id=32637&d=0&a=1
+id:	32637
+title:	Ngifunde isifundo
+author:	Joyce Mthombeni
+artist:	Catherine Groenewald
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32637.png
+desc:	Intombazanyana inentshisakalo njengoba ibona ugogo wayo elungisa obhanana abavuthiwe.
+
+page_text:
+
+P1	Ugogo uyangithanda. @@Ungitshele zonke izimfihlo, ngaphandle kweyodwa.
+P2	"Ngowani ubhasikidi namacembe na?" @@Ugogo wathi, "Ngowomlingo."
+P3	Ngifuna ukubona. Kodwa ugogo ungithuma ukwenza okunye.
+P4	"Uphi?" @@"Usendaweni yami yemilingo,"  kusho ugogo.
+P5	Ugogo ungithuma egumbini lakhe. @@Ngihogela obhanana abavuthiwe.
+P6	Ngiyitholile indawo kagogo yemilingo. @@Ngibone obhanana abavuthiwe.
+P7	Ngadla elilodwa. @@Lalinoshukela ukudlula bonke obhanana engike ngabadla.
+P8	Ngathatha obhanana abane. @@Ngabafihla ngaphansi kwengubo yami.
+P9	Ngosuka lwemakethe, ugogo uthatha ukudla ayokudayisa. @@Ngaba namahloni.
+P10	Uma engibiza ntambama ngangazi ukuthi kungani. @Angiphindanga ngatshontsha.
+
+images:
+
+illustrations/pages/1360.png
+illustrations/pages/1361.png
+illustrations/pages/1360.png
+illustrations/pages/1362.png
+illustrations/pages/1363.png
+illustrations/pages/1364.png
+illustrations/pages/1366.png
+illustrations/pages/1368.png
+illustrations/pages/1369.png
+illustrations/pages/1370.png
+illustrations/pages/1371.png
+
+translations:
+
+Arabic (Translation)	موز جدتي	id=21873
+Ekegusii (Translation)	Amatoke A’Baba	id=2371
+English (Original)	Grandma's bananas	id=2094
+English (Adaptation)	I learnt a lesson	id=21792
+English (Adaptation)	(Colour-in) Grandma's bananas	id=32548
+French (Translation)	Les Bananes De Grand-Mère	id=9956
+Fulfulde (Translation)	Bananaaje Maamiyo Debbo	id=10008
+Hausa (Niger) (Translation)	Ayabar Kaka	id=9974
+Kanuri (Translation)	Ayawa Kakaye	id=10034
+Kikamba (Translation)	Maiũ Ma Sũsũ	id=2367
+Kinyarwanda (Translation)	Imineke ya nyogokuru	id=32576
+Kiswahili (Translation)	Ndizi za Bibi	id=15942
+Kiswahili (Translation)	Nilipata Funzo	id=21836
+Luganda (Translation)	Nayiga essomo	id=24164
+Lugbarati (Translation)	Dede Ma A’Bua	id=2368
+Lugbarati (Official) (Translation)	Dede Vile A’Bua Ri	id=8749
+Lumasaaba (Translation)	Kamarofu ka Kuukhu	id=3095
+Lusoga (Translation)	Nayega eisomo	id=29322
+Maa (Translation)	Ilmaisurîn Le Kokoô	id=2742
+Oluwanga (Translation)	Amaremwa Ka Kukhu	id=2370
+Zarma (Translation)	Ay Kaayi Banaaney	id=10099

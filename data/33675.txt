@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33675&d=0&a=1
+id:	33675
+title:	Cikondweso Kudzulu
+author:	Little Zebra Books
+artist:	Laura Liberatore
+lang:	Cinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33675.png
+desc:	Pig wants to go to the party
+
+page_text:
+
+P1	Kale-kale, bzirombo bzentse bzomwe bzina manyanga bzidapangana kuti bzicite cikondweso. Cikondweso cimweci cikhafunika kuti cikacitikire kudzulu, ndipo pamwepo pakhafunika bzirombo bza manyanga bzokha-bzokha basi.
+P2	Ndipo nkhumba idasirirambo, na tenepo idakumbuka kuti: "Ine-pano ndiribe manyanga, ndinicita tani?"
+P3	Ndipo idakumbuka kuti itenge phula kuti inyatike manyanga mumsolo, ndipo idanyatika manyangayo.
+P4	Bvuto likhali kuti cikondweso cire cidacitikira padzuwa. Pomwe cikondwesoco cikhali pakati, phula lire lidayamba kusungunuka ndipo manyanga yale yadayamba kugwa pantsi.
+P5	Ndipo bzirombo bzentse bzidadabwa bzicimbati: "Kodi mbanimbo omweyu alibe manyangayu? Wabwereranyi kuno?"
+P6	Na tenepo, mkulu wa bzirombo bzire adatonga kuti: "Phatani nkhumba muithuse pantsi."@@Na tenepo, bzirombo bzire pakubva mafala yamweyo, cadidi bzidaiphata nkhumba ire bziciithusa pantsi pano.
+P7	Tsoka lace, nkhumba pakugwa, idagwa na mulomo. Ndipopa mulomo wa nkhumba udapunduka napo na lero.
+P8	Bzirombo bzire pomwe bzidathusa nkhumba ire bzidapitiriza kudya cikondweso cire.
+P9	Lekani kudabwa kuwona mulomo wa nkhumba kucinyuka thangwe idapunduka kucokera pantsiku imweire.
+
+images:
+
+illustrations/pages/85590282.png
+illustrations/pages/85590283.png
+illustrations/pages/85590284.png
+illustrations/pages/85590285.png
+illustrations/pages/85590286.png
+illustrations/pages/85590287.png
+illustrations/pages/85590288.png
+illustrations/pages/85590289.png
+illustrations/pages/85590290.png
+illustrations/pages/85590291.png
+illustrations/pages/85590292.png
+
+translations:
+
+Elomwe (Translation)	Efesta ya Ashinama a Manyaka	id=33672
+Emakhuwa (Translation)	Niira na Axinama Ookhala Manyaka	id=33673
+English (Original)	No Pigs Allowed	id=33146
+Imeetto (Translation)	Isikuhuulu Yooculu	id=33674
+Portuguese (Translation)	A Festa Nos Céus	id=33667

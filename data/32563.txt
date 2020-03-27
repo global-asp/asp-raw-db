@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=32563&d=0&a=1
+id:	32563
+title:	Mukamurenzi Umusitari w'umupira w'amaguru
+author:	Patrick  Munyurangabo
+artist:	Eden Daniels
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32563.png
+desc:	Andiswa yitegereje abahungu bakina umupira wamaguru
+
+page_text:
+
+P1	Andiswa yitegereje abahungu bakinaga umupira w'amaguru. Yumvaga ashaka gukina na bo. Yabajije rero umutoza niba yakwitozanya na bo.
+P2	Umutoza yifashe mu mayunguyungu aravuga ati: "Kuri iri shuri, aba abahungu bonyine ni bo bemerewe gukina umupira w'amaguru."
+P3	Abahungu na bo bati: "Genda ukine umupira w'intoki; ni wo w'abakobwa. Naho umupira w'amaguru ukaba uw'abahungu. @@Andiswa byaramubabaje cyane.
+P4	Bukeye bwaho, ishuri ryakinnye umukino ukomeye Umutoza agira ikibazo gikomeye kuko umukinnyi we w'imena yari arwaye adashobora gukina.
+P5	Andiswa yinginze umutoza amusaba kumureka agakina. @@Umutoza yayobewe uko abyifatamo. Niko gufata icyemezo cyo kwemerera Andiswa gukinira ikipe.
+P6	Umukino ntiwari woroshye. Igice cya mberecy'umukino cyarangiye ntawutsinze igitego.
+P7	Mu gice cya kabiri cy'umukino Andiswa yabonye umupira yiruka cyane agana izamu. Yateye ishoti rikomeye aba atsinze igitego.
+P8	Imbaga y'abantu yiterera mu birere kubera ibyishimo. @@Kuva uwo munsi, abakobwa bemererwa gukina umupira w'amaguru ku ishuri.
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/4460.png
+illustrations/pages/4461.png
+illustrations/pages/4462.png
+illustrations/pages/4463.png
+illustrations/pages/4464.png
+illustrations/pages/4465.png
+illustrations/pages/4466.png
+illustrations/pages/4467.png
+
+translations:
+
+Amharic (Translation)	አዲሴ - የእግር ኳስ ኮከቧ	id=12962
+Arabic (Translation)	أنديسوا نجمة كرة القدم	id=21859
+English (Original)	Andiswa soccer star	id=5283
+English (Adaptation)	(Colour-in) Andiswa soccer star	id=32518
+Hausa (Nigeria) (Translation)	Delu Ƙwararriyar 'Yarwasan Kwallon Ƙafa	id=20760
+Hausa (Nigeria) (Translation)	Delu Qwararriyar 'yar  wasar Qwallon qafa	id=22076
+Lhukonzo (Translation)	Andiswa omusathi owomupira	id=22378
+Lusoga (Translation)	Andiswa Omuzaanhi Owo  Mupiira	id=21371
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=16757
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Tigrigna (Translation)	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ	id=18977
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

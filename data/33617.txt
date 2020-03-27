@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33617&d=0&a=1
+id:	33617
+title:	Une journée de chance pour Akadeli
+author:	Zanne Viljoen
+artist:	Rob Owen
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33617.png
+desc:	Quatre filles sortent cueillir des fruits sauvages. Quand trois jouent un sale tour à lautre
+
+page_text:
+
+P1	Un jour Akadeli, Lucy, Acharait et Mary sont allées cueillir des fruits sauvages.@@Elles se sont tenues la main pour traverser le grand fleuve.
+P2	Les filles ont trouvé un arbre plein de fruits mûrs.@@Elles ont décidé de cueillir les fruits les yeux fermés.
+P3	Lucy, Acharait et Marie ne se sont pas fermés les yeux.@@Seul Akadeli a fermé les siens.
+P4	Quand elles ont ouvert les yeux, seul Akadeli avait cueilli des fruits verts.
+P5	Lucy, Acharait et Mary se moquaient d'Akadeli. Elles sont rentrées chez elles.@@Akadeli a jeté les fruits verts. Elle a commencé à en cueillir des mûrs.
+P6	Bientôt, Akadeli a rempli son panier de fruits mûrs.@@Elle est partie seule, traversant le grand fleuve.
+P7	A mi-chemin de la rivière, les fruits d'Akadeli sont tombés dans l'eau.@@Elle était en colère et s'est mise à pleurer.
+P8	Akadeli a vu un gros poisson et l'a attrapé.
+P9	Pendant qu'Akadeli rentrait chez elle, un faucon a arraché le poisson et il s'est envolé avec.
+P10	Le faucon a laissé tomber une plume de sa queue.@@Akadeli a pris la plume et a continué à marcher jusqu'à sa maison.
+P11	Elle est tombée sur un mariage traditionnel. Les danseurs portaient de l'herbe sur la tête au lieu de plumes, comme le veut la tradition.@@Ils lui ont pris sa plume et lui ont donné un gros taureau !
+P12	Akadeli est arrivée chez elle avec son taureau. Ses parents et sa famille étaient si heureux. Lucy, Acharait et Marie auraient souhaité ne pas avoir menti à Akadeli.@@C'était une journée de chance pour Akadeli !
+
+images:
+
+illustrations/pages/19016.png
+illustrations/pages/19004.png
+illustrations/pages/19005.png
+illustrations/pages/19007.png
+illustrations/pages/19009.png
+illustrations/pages/19010.png
+illustrations/pages/19011.png
+illustrations/pages/19012.png
+illustrations/pages/19013.png
+illustrations/pages/19014.png
+illustrations/pages/19015.png
+illustrations/pages/19016.png
+illustrations/pages/19017.png
+
+translations:
+
+English (Translation)	Akadeli's Lucky Day	id=19095
+Kiswahili (Original)	Akadeli abahatika	id=19094
+Lusoga (Translation)	Olunaku lwakideli olwenkabi	id=29248
+Ng’aturkana (Translation)	Akwar ekeny Akadeli	id=33393

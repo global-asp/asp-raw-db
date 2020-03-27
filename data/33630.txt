@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=33630&d=0&a=1
+id:	33630
+title:	Le jeu culinaire
+author:	Zanne Viljoen
+artist:	Reginaldo Vicente Manhice
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33630.png
+desc:	Lapin invite son ami Singe à jouer
+
+page_text:
+
+P1	Il était une fois où Lapin et Singe étaient amis. Un jour, en période de grande famine, Lapin a invité Singe à jouer.
+P2	Lapin a dit : "Jouons à nous faire la cuisine !" Singe a demandé, "Comment peut-on faire ça ?"
+P3	Lapin a répondu : "D'abord, nous devons faire un feu."
+P4	Lapin a continué : "Nous remplissons un pot d'eau, puis nous le mettons sur le feu."
+P5	"Je vais entrer en premier. Quand je frappe sur le couvercle du pot, tu l'ouvres. Alors je sortirai," Lapin a expliqué. Monkey était d'accord.
+P6	Alors, Lapin est entré dans le pot en premier.
+P7	Quand l'eau a commencé à se réchauffer, Lapin a frappé et Singe a ouvert le couvercle.
+P8	Quand c'était le tour de Singe, Lapin a mis une grosse pierre sur le couvercle du pot et s'est assis dessus aussi !
+P9	Quand l'eau a commencé à bouillir, Singe a frappé, mais Lapin n'a pas ouvert le couvercle.
+P10	Le Singe est mort, et Lapin a mangé son meilleur ami !
+
+images:
+
+illustrations/pages/7260.png
+illustrations/pages/6690.png
+illustrations/pages/6681.png
+illustrations/pages/6682.png
+illustrations/pages/6683.png
+illustrations/pages/6684.png
+illustrations/pages/6685.png
+illustrations/pages/6686.png
+illustrations/pages/6687.png
+illustrations/pages/6688.png
+illustrations/pages/6689.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25371
+Ateso (Translation)	Abolia Naka Opooi	id=10675
+Changana (Translation)	A Mpfundla Ni Havu	id=7756
+Cicopi (Translation)	Invunja Ni Khau	id=7755
+English (Original)	The cooking game	id=6993
+English (Adaptation)	(Colour-in) The Cooking Game	id=17563
+Gitonga (Translation)	Gihulo Ni Ndzogo	id=7757
+isiXhosa (Translation)	Umdlalo wokuphekana	id=13528
+isiXhosa (Adaptation)	Umdlalo wokuphekana (Faka imibala)	id=17564
+Lusoga (Translation)	Omuzaanho ogw'okwefumba	id=24982
+Lusoga (Translation)	Omuzaanho omufumbe	id=29602
+Portuguese (Translation)	O Jogo Da Cozinha	id=7753
+Xitswa (Translation)	N'wavhundlani Na N'wahawu	id=7754

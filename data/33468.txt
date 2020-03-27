@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33468&d=0&a=1
+id:	33468
+title:	Ehandukilo
+author:	Nelly  Ndafyaalako
+artist:	Melany Pietersen
+lang:	Oshikwanyama
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33468.png
+desc:	Ehandukilo li li ngahelipi mbela ta li dulu oku pewa okaana kafuka aka kalya oiimati ihapu unene?
+
+page_text:
+
+P1	Efiku limwe, Meme okwa landa oiimati yomaludi a yooloka.
+P2	"Oiimati otai liwa efimbo peni?" osho twa pula Meme.@@"Otai liwa konguloshi," Meme tati.
+P3	Omukulu wange Rahim okwa fuka.@@Oiimati aishe okwe i lola. Ihapu okwe i lya po.
+P4	"Tala eshi Rahim a ninga!" okandenge kange osho ka ingida.@@Ame handi nyamukula, "Rahim iha lombwelwa yee okuna efukutu."
+P5	Meme okwa li a handukila Rahim.
+P6	Nafye otwa li twa handukila Rahim.@@Ashike Rahim ka li e wete e na epuko lasha.
+P7	"Rahim ota pewa ngoo ehandukilo?" okandenge kange taka pula.
+P8	"Rahim, oto lipe ombedi paife," Meme osho e mu kunghilila.
+P9	Rahim okwa hovela e he udite nawa.
+P10	"Oha ndi vele medimo," Rahim ta nongofola.
+P11	Meme oku shii eshi tashi vele Rahim.@@"Oiimati oyo ta i feta Rahim ngaho," osho eli popila.
+P12	Konima yefimbo Rahim okwe tu pa ombili. "Oufukedi onde u tula po," osho a udaneka.@@Otwa mona kutya okwe li pa ombedi shili.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	(Paka rangi) Adhabu	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402

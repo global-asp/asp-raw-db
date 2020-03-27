@@ -1,0 +1,80 @@
+url:	https://africanstorybook.org/reader.php?id=33493&d=0&a=1
+id:	33493
+title:	Onderwyser Akinyi
+author:	Themblihle Sibanyoni
+artist:	Vusi Malindi
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33493.png
+desc:	N Kort en maklike storie van n wonderlik onderwyser en wat sy leer ons.
+
+page_text:
+
+P1	Hier is my onderwyseres.@@Haar naam is mev Akinyi.@@Sy is baie lief vir ons.
+P2	Onderwyseress Akinyi leer ons die alfabeties.@@Sy leer ons die vokale.@@Ek kan die letters  a, e, i, o, u op se.
+P3	Onderwyseress Akinyi leer ons kleure.@@Ek ken rooi, blou, groen, geel en swart.
+P4	Gedurende die slaaptyd sing die onderwyser Akinyi ons om te slaap.@@Sy sing 'n lullaby vir ons.
+P5	Die wiegeliedjie gaan so:@@Goue sluimer gee jou oë.@Glimlag wag op jou as jy opstaan.@@Slaap soet liefling, moenie huil nie.@En ek sal jou 'n lieflike lullaby sing.
+P6	Onderwyser Akinyi ken baie verhale.@@Sy vertel elke dag van die week 'n ander storie.
+P7	Maandag vertel sy ons stories oor groot mans.
+P8	Dinsdag vertel sy vir ons stories oor wonderlike vroue.
+P9	Woensdag vertel sy ons stories oor vervoermiddels.
+P10	Donderdag vertel sy vir ons stories oor die boerdery.
+P11	En op Vrydag vertel ons ons eie stories vir die klas.
+P12	Ons onderwyser is die beste onderwyser ter wêreld!@@As ek ouer word, wil ek soos die onderwyser Akinyi wees.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25336
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+ChiTonga (Translation)	Bayi Ba Akinyi	id=18642
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Bakafundisha Ba Akinyi	id=18586
+isiNdebele (Translation)	UTitjhere Nkosi	id=13043
+isiXhosa (Translation)	UTitshalakazi uNwabisa	id=14116
+isiZulu (Translation)	Uthisha uZanele	id=13537
+Kῖmῖῖrũ  (Translation)	Mwarimũ Makena	id=32849
+Khoekhoegowab (Translation)	ǁGauǃnâ-aos Akinyis xa	id=31680
+Kiswahili (Translation)	Mwalimu Akinyi	id=33172
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Lusoga (Translation)	Musomesa Akinyi	id=27260
+Mampruli (Translation)	Tikyɛa Talata	id=20109
+Oshikwanyama (Translation)	Omuhongi Akinyi	id=24128
+Oshindonga (Translation)	Omulongi Akinyi	id=23884
+Otjiherero (Translation)	Jevrou Akinyi	id=24170
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rukwangali (Translation)	Murongi Akinyi	id=31488
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (South Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Siswati (Translation)	Thishela Nkosi	id=21746
+Talen (Translation)	Tikya Akinyi	id=20177
+Tshivenḓa (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

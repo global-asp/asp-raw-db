@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33777&d=0&a=1
+id:	33777
+title:	Engikuthandayo
+author:	Zanele Zuma
+artist:	Patience  M
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33777.png
+desc:	Lo mbhali osemncane uxoxa ngezinto azithandayo nabantu abathandayo. (Indaba nemifanekiso kwaqanjwa engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Ngithanda ukudlala ibhola.@@Ngithanda ukudlala ibhola noThando, uNhlanhla noBen.
+P2	Ngithanda umama wami. @@Ungenza ngihlale ngihleka.
+P3	Ngithanda uNkulunkulu, ngoba nguyena owangidala.
+P4	Ngithanda isikole, ngoba othisha bangifundisa konke okufanele ngikwazi.
+P5	Ngithanda nokudlala nezinja, ngoba kuyangithokozisa.
+P6	Ngithanda imigubho yezinsuku zokuzalwa, ngoba ngiyathanda ukujabula.
+P7	Nami futhi ngiyazithanda ngoba…
+P8	…ngoba ngiyazithanda!
+
+images:
+
+illustrations/pages/91400141.png
+illustrations/pages/91400138.png
+illustrations/pages/91400140.png
+illustrations/pages/91400141.png
+illustrations/pages/91400142.png
+illustrations/pages/91400139.png
+illustrations/pages/91400143.png
+illustrations/pages/91400144.png
+illustrations/pages/91400145.png
+
+translations:
+
+English (Original)	I love	id=33738
+French (Translation)	J'aime	id=33855
+Gikuyu (Translation)	Nĩ nyendete	id=33859
+Kiswahili (Translation)	Ninapenda	id=33839
+Lingala (Translation)	Na lingi	id=33808
+Sesotho (South Africa) (Translation)	Ke rata…	id=33793

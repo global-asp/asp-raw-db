@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=33184&d=0&a=1
+id:	33184
+title:	Provérbios do Povo Nyungwe
+author:	Little Zebra Books
+artist:	Max  Okoto
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33184.png
+desc:	Sabedoria tradicional de Tete
+
+page_text:
+
+P1	Para matar um macaco‐cão, é preciso ter olhos secos.
+P2	Cão que ladra não morde.
+P3	Quando os hipopótamos lutam é a relva que sofre.
+P4	O pintinho suja o ninho porque vê a mãe fazendo isso.
+P5	Porque dizes que aí há elefante quando estás nas minhas costas?
+P6	O nascimento do sapo e da rã são iguais.
+P7	Uma unha não consegue matar uma pulga.
+P8	O leão que não tem carne come relva.
+P9	A pequena cabra na parte de trás do rebanho é aquela que é atingida pela vara.
+P10	Tens medo do escuro quando não há hienas.
+P11	O camaleão morre de vergonha.
+P12	Para ver os olhos de caracol, tem que esperar.
+P13	Ria da tartaruga, mas é ele que tem água.
+P14	É visita que mata a cobra.
+P15	Hiena que uiva nos campos não come milhete.
+P16	Leão devorador de homens não sai á noite.
+
+images:
+
+illustrations/pages/28152.png
+illustrations/pages/28156.png
+illustrations/pages/28154.png
+illustrations/pages/28159.png
+illustrations/pages/28153.png
+illustrations/pages/28155.png
+illustrations/pages/28167.png
+illustrations/pages/28157.png
+illustrations/pages/28163.png
+illustrations/pages/28158.png
+illustrations/pages/28161.png
+illustrations/pages/28152.png
+illustrations/pages/28164.png
+illustrations/pages/28166.png
+illustrations/pages/28165.png
+illustrations/pages/28160.png
+illustrations/pages/28162.png
+
+translations:
+
+Cinyungwe (Original)	Mimwani ya Anyungwe	id=32362
+English (Translation)	Proverbs of the Nyungwe People	id=33183

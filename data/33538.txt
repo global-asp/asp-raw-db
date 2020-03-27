@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33538&d=0&a=1
+id:	33538
+title:	A Minha Família
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33538.png
+desc:	Conheça Maria e sua família neste livro divertido.
+
+page_text:
+
+P1	Eu sou Maria.
+P2	A minha mãe
+P3	O bebê
+P4	O meu pai
+P5	O meu irmão
+P6	A minha irmã
+P7	A minha avó
+P8	O meu avô
+P9	O meu tio
+P10	A minha tia
+P11	A minha família
+
+images:
+
+illustrations/pages/85590188.png
+illustrations/pages/85590178.png
+illustrations/pages/85590179.png
+illustrations/pages/85590180.png
+illustrations/pages/85590181.png
+illustrations/pages/85590182.png
+illustrations/pages/85590183.png
+illustrations/pages/85590184.png
+illustrations/pages/85590185.png
+illustrations/pages/85590186.png
+illustrations/pages/85590187.png
+illustrations/pages/85590188.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Banja la Maria	id=33828
+Cinyungwe (Translation)	Wadzindza wa Mboyi	id=33829
+Echuwabo (Translation)	Ana Amudhi a Mariya	id=33830
+English (Original)	Maria's Family	id=33152
+isiXhosa (Translation)	Usapho luka Thembi	id=33539
+Kiswahili (Translation)	Familia ya Maria	id=33659

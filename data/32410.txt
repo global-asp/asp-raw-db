@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32410&d=0&a=1
+id:	32410
+title:	Nusha in the sky
+author:	African Storybook
+artist:	Amir Bachir António Necas and Ingrid Schechter
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32410.png
+desc:	This is a story about a girl called Nusha
+
+page_text:
+
+P1	Nusha thought that she wasn't very good at anything.
+P2	But one day, Nusha found out that she could fly.
+P3	She flew up trees to pick coconuts.
+P4	She flew to school when she was late.
+P5	She flew along the beach on Saturdays.
+P6	She flew to her grandma's house on Sundays.
+P7	She flew to the market because it was quicker.
+P8	Everyone asked her how she did it.
+P9	But Nusha didn't know how she did it.@@She just did.
+P10	One day she met a boy who could fly too.
+P11	They started to go out together.
+P12	Maybe one day they got married, and had children.
+
+images:
+
+illustrations/pages/25227.png
+illustrations/pages/25170.png
+illustrations/pages/25227.png
+illustrations/pages/25069.png
+illustrations/pages/25062.png
+illustrations/pages/25068.png
+illustrations/pages/25065.png
+illustrations/pages/25066.png
+illustrations/pages/25071.png
+illustrations/pages/25067.png
+illustrations/pages/25073.png
+illustrations/pages/25074.png
+illustrations/pages/25150.png
+
+translations:
+
+English (Original)	The Girl Who Could Fly	id=20814
+Luganda (Translation)	Omuwala eyasobolanga okubuuka wagulu	id=22010
+Lusoga (Translation)	Omughala eya guluka	id=27091

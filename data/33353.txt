@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=33353&d=0&a=1
+id:	33353
+title:	(Paka rangi) Mzozo wa Fisi na Kima
+author:	Ursula  Nafula
+artist:	Salim Kasamba
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33353.png
+desc:	Ni nani atasuluhisha mzozo kati ya Fisi na Kima? Chanzo cha hadithi hii ni Ethiopia.
+
+page_text:
+
+P1	Hapo zamani za kale, kulikuwa na Fisi na Kima. Walikuwa na mzozo kati yao. Walienda kwa hakimu ili awasaidie kuusuluhisha.
+P2	Baada ya hakimu kusikiliza kesi yao, aliogopa kuamua. Aliwaza, "Nikimlaumu Fisi, atawala mifugo wangu. Nikimlaumu Kima, atayala mahindi yangu yote! Nifanyeje?"
+P3	Hakimu alitafakari juu ya kesi hiyo kisha akasema, "Naona vigumu kuiamua kesi hii peke yangu. Ipelekeni kwa wazee wa kijiji."@@Fisi na Kima walienda kwa wazee wa kijiji.
+P4	Waliwaeleza wazee wa kijiji kuhusu mzozo wao.  @@Baadaa ya kuwasikiliza, wazee wa kijiji vilevile waliogopa kuiamua kesi ile.
+P5	Wazee wa kijiji walijua wakimuunga Kima mkono, Fisi atawala mifugo wao. Na wakimuunga Fisi mkono, Kima atayala mahindi yao.  @@Wazee wa kijiji walimwambia Fisi na Kima kuwa kesi yao ilikuwa ngumu sana kuiamua.
+P6	Wazee walimkumbuka mwanamke mmoja fukara aliyeishi hapo kijijini. Yeye hangepoteza chochote kwa kuwa hakuwa na mifugo wala mahindi.@@Mmoja wao aliwaambia, "Mwanamke fukara ataweza kutoa uamuzi bila woga." Kisha wakawaambia Fisi na Kima kwenda kwake.
+P7	Walipowasili kwa mwanamke yule fukara walisema, "Tuamulie mzozo wetu." Mwanamke fukara alikubali lakini, akataka kuongea na kila mmoja peke yake.
+P8	Mwanamke fukara alimwita Fisi kwanza akamwambia, "Wewe unaheshimika, ni mnyama mkubwa tena ni shujaa. Unawezaje kugombana na mnyama mdogo tena mjinga kama Kima?"
+P9	Mwanamke akaendelea kumwambia Fisi, "Watu wakisikia mzozo huu, watakudharau sana. Wacha kuzozana na Kima." @@Fisi alikubali, "Unavyosema ni kweli. Nitaiacha kesi hii."
+P10	Mwanamke fukara akamwita Kima akamwambia, "Wewe ni mwerevu na mrembo. Mbona unabishana na mnyama huyu mchafu, mwenye harufu mbaya anayekula vilivyooza. Watu watakufikiriaje wakisikia unazozana na huyu kiumbe mwenye sura mbaya?"@@Kima alikubali, "Unavyosema ni kweli. Nitaiacha kesi hii."
+P11	Baadaye, mwanamke fukara aliwaita wote akasema, "Kwa kuwa nyote mlikubali kuacha ugomvi kati yenu, ni lazima msameheane."
+P12	Kima na Fisi walisameheana wakasuluhisha mzozo wao.  @@Watu kijijini waliposikia walishangaa. Mwanamke fukara aliwezaje kutatua shida iliyowashinda hakimu na wazee wa kijiji?
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18709.png
+illustrations/pages/18721.png
+illustrations/pages/18722.png
+illustrations/pages/18723.png
+illustrations/pages/18713.png
+illustrations/pages/18714.png
+illustrations/pages/18724.png
+illustrations/pages/18716.png
+illustrations/pages/18725.png
+illustrations/pages/18718.png
+illustrations/pages/18719.png
+illustrations/pages/18720.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+Afaan Oromo (Adaptation)	Waraabessaafi Qamale	id=21771
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	(Colour-in) Hyena and Monkey	id=20157
+English (Adaptation)	Monkey and Hyena	id=21395
+French (Translation)	Hyène et Singe	id=33456
+Kanuri (Translation)	Bultu-a Dagǝl-a	id=32283
+Kiswahili (Translation)	Kima na Fisi	id=21841
+Kiswahili (Translation)	Mzozo wa Fisi na Kima	id=22061
+Lámnsoʼ (Translation)	Kán wùn Kuúrá	id=22414
+Luganda (Translation)	Wankima ne Wampisi	id=23422
+Luganda (Translation)	Wakibe ne Wankima	id=23510
+Lusoga (Translation)	(Colour-in) Wampiti ni Wankembo	id=24897
+Lusoga (Translation)	Wampiti ni Wankembo	id=33653
+Ng’aturkana (Translation)	Ebulong'or ka Ekadokot	id=33416
+Oluwanga (Translation)	Ishima nende Ifisi	id=22819
+Rufumbira (Translation)	Igisamagwe ni Inkende	id=23440
+Runyankore (Translation)	Empisi ne Ekyende	id=24280
+Tiv (Translation)	Dwem man Bagu	id=23878

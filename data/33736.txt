@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33736&d=0&a=1
+id:	33736
+title:	A garden in Congo
+author:	Christelle  X
+artist:	Christelle  X
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33736.png
+desc:	About the house and garden that this young writer had to leave behind when she left her home in the Congo. (Story and illustrations created at a June 2019 holiday workshop
+
+page_text:
+
+P1	This house is in Congo. @@I like this house.
+P2	We had our own bathroom.@@We had our own toilet.
+P3	We had a garden. @@I was planting my own garden.
+P4	My mother told me, "My mother taught me to plant. Now I am teaching you."
+P5	I planted tomatoes and spinach. @@I did it alone.
+P6	I would take tomatoes to my mother.@@She would say, "Thank you."
+P7	We left that house in Congo.
+P8	We have no garden here in South Africa.
+
+images:
+
+illustrations/pages/91400127.png
+illustrations/pages/91400125.png
+illustrations/pages/91400126.png
+illustrations/pages/91400127.png
+illustrations/pages/91400128.png
+illustrations/pages/91400129.png
+illustrations/pages/91400130.png
+illustrations/pages/91400131.png
+
+translations:
+
+French (Translation)	Jardin au Congo	id=33850
+French (Translation)	Un jardin au Congo	id=33866
+isiZulu (Translation)	Ingadi esayishiya eCongo	id=33775
+Kiswahili (Translation)	Bustani yetu kule Kongo	id=33837
+Lingala (Translation)	Bilanga na Congo	id=33806
+Sesotho (South Africa) (Translation)	Tshimo e Congo	id=33791

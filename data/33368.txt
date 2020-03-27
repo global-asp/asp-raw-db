@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=33368&d=0&a=1
+id:	33368
+title:	L'homme qui a construit sa propre maison
+author:	Zanne Viljoen
+artist:	African Storybook and Wiehan de Jager
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33368.png
+desc:	Une histoire dun homme qui a construit de belles maisons pour les villageois tandis quil dormait toujours dans une mauvaise cabane.
+
+page_text:
+
+P1	Il y avait un grand constructeur dans le village de Kabubbu.
+P2	Il a construit beaucoup de maisons dans le village.
+P3	Mais il dormait dans une mauvaise cabane.
+P4	Les gens s'interrogeaient tous les jours sur cette cabane. @"Ne vous inquiétez pas, j'ai un plan", répondait toujours le constructeur.
+P5	Il a économisé son argent et a acheté des briques.
+P6	Alors il a acheté du sable, du ciment, des feuilles de fer et des clous.
+P7	Peu à peu, il s'est construit une grande et belle maison.
+P8	Ses amis se sont réjouis de voir cette nouvelle maison.
+P9	Il s'est préparé pour une fête et a invité tout le monde. Ils mangeaient et buvaient.
+P10	Puis ils dansaient.
+P11	Le constructeur a reçu de nombreux cadeaux pour sa nouvelle maison.
+P12	Maintenant, le constructeur du village de Kabubbu dort dans une bonne maison.
+
+images:
+
+illustrations/pages/10284.png
+illustrations/pages/10276.png
+illustrations/pages/17056.png
+illustrations/pages/17038.png
+illustrations/pages/10281.png
+illustrations/pages/17049.png
+illustrations/pages/17051.png
+illustrations/pages/17036.png
+illustrations/pages/17079.png
+illustrations/pages/17076.png
+illustrations/pages/13905.png
+illustrations/pages/10279.png
+illustrations/pages/17081.png
+
+translations:
+
+English (Original)	Man who built his own house	id=9985
+Lusoga (Translation)	Omusaadha yazimba endhu ye	id=26099

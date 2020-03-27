@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=33420&d=0&a=1
+id:	33420
+title:	Edukit ipaka kang
+author:	Ekeno  Achuka
+artist:	Bronwen Heath and Ingrid Schechter
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33420.png
+desc:	Nyani ipaka kang? Eyei kop ekitanda a? Emam
+
+page_text:
+
+P1	Nyani ipaka kang?
+P2	Nyani ipaka kang?@@Eyei dir kop ekitanda?@@Emam, epudorit nikalapatan akai.
+P3	Nyani ipaka kang?@@Eyei kidiama akabati a?@@Emam, eyei kop achelif.
+P4	Nyani ipaka kang?@@Eyei dir yaaye ekicholong aa?@@Emam, eyei nikalapatan a amana.
+P5	Nyani ipaka kang?@@Eyei dir diyete echap aa?@@Emam, eporoporoe anikalapatan edirisha.
+P6	Nyani ipaka kang?@@Eyei dir tooma aturee aa?@@Emam, eyei tooma abokis.
+P7	Nyani ipaka kang?@@Eyei dir nikalapatan a amana?@@Emam, eyei yaaye nakaten.
+P8	Nyani ipaka kang?@@Nyeen kane!@@Edukit alotooma akabati naka!
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+English (Original)	My cat is hiding	id=32340
+KiGiryama (Translation)	P'aka wangu anadzifitsa	id=33478

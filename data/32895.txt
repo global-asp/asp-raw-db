@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=32895&d=0&a=1
+id:	32895
+title:	Chipo chamegulu
+author:	Doreen  Matengu and Virginia  Gwaba
+artist:	Sibongile Mnkandla
+lang:	ChiNambya
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32895.png
+desc:	Amai banobhancha Thabo kululamisa chipo chibhodo chamegulu babe.
+
+page_text:
+
+P1	Amegulu bamuzha kuno vakaja. Nokudalo banosobuzila Thabo mandongo nemichelo yeshango, zumanga ne lemoni umwenshaji. @@Thabo umuda kupa amegulu babe chinhu chibhodo neebo.
+P2	lwhalo ingaba ibhodo, Koga amegulu bangatubula kubala?@@Ngana wabenda kuchintolo walowana chinhu chibuya.@@"lzha tilulamise chikwama," Thabo wakaleba emwemweteka. "Chikwama chikulwana chonkwakwa wejini."
+P3	Mai banobhisa uncheka wabakabatenga kunchintolo. Wakawala chisakulo akatanga kucheka.@@Potanga mabhazo mabili makulwana mpambi.
+P4	Kojota mabili matukutuku kupa bumba.@@Thabo wakapeta pamwempela namabhazo mabili.
+P5	Bano cheka kusi zwifwapi zwibili zwilefu. Yezwi ndizo zwichasimisa chikwama. @@Thabo wakapeta kojoba amai betola chisakulo akale. Baka cheka zwifwapi zuna zulefu mpabi.
+P6	Zubili zuchafumilwa pamwempela kululamisa chisakulo. @@Yechi chichapa chikwama isimba lilophamijwa lubili.
+P7	Feno amai banobhisa unshina wofhuma. @@Unoshanganisa zwifwapi zose kululamisa chikwama chamegulu. @@Unopa Thabo unomwemweta eti, "Taboka mai chikwama chonkwakwa chamegulu!"
+
+images:
+
+illustrations/pages/25487.png
+illustrations/pages/25488.png
+illustrations/pages/25495.png
+illustrations/pages/25490.png
+illustrations/pages/25491.png
+illustrations/pages/25492.png
+illustrations/pages/25493.png
+illustrations/pages/25494.png
+
+translations:
+
+English (Original)	A Present For Grandma	id=21728
+French (Translation)	Un cadeau pour mamie	id=33151
+Lusoga (Translation)	Ekirabo kya dhaadha omukazi	id=28452
+Sepedi (Translation)	Mpho ya Koko	id=33342
+Sesotho (Zimbabwe) (Translation)	Mpho Ea Nkuku	id=21729

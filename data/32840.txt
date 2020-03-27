@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=32840&d=0&a=1
+id:	32840
+title:	Zuba, Mwezi, Mvula na Mpepo
+author:	Bether Mwale-Moyo and Moffat Moyo
+artist:	Children of Paleng
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32840.png
+desc:	Mukangano wa Zuba
+
+page_text:
+
+P1	Kale kale, Zuba, Mwezi, Mvula na Mpepo banali kuyambana.
+P2	Vuto inali loti Zuba anali kufuna kuwala ntawi zonse. Mwezi anali kufuna kuwala masiku onse. Mvula anali kufuna kuloka masiku onse. Ndiponso Mpepo anali kufuna kukunta ntawi zonse.
+P3	Zuba, Mwezi, Mvula na Mpepo anagwilizana kuti akambilane. Zuba anafunsa Mwezi nati, "Kodi umagwila ncito yotani kutandizila ziko?" Mwezi anati, "Ine nimawala usiku kuti nyama zizipeza cakudya."
+P4	Mwezi anafunsa Mvula nati, "Kodi umagwila ncito yotani kutandizila ziko?" Mvula anati, "Ine nimapasa ziko manzi kuti mitengo na maluwa azikula. Ndipo nimapasa nyama manzi akumwa."
+P5	Mvula anafunsa Mpepo nati, "Kodi umagwila ncito yotani kutandizila ziko?" Mpepo anati, "Ine nimapyanga ziko. Ndiponso nimbwembwesa mvula pa ziko lonse."
+P6	Mpepo anafunsa Zuba nati, "Kodi umagwila ncito yotani kutandizila ziko?" Zuba anati, "Ine nipasa ziko kuwala ndiponso nifundisa ziko kuti nyama ndi mitengo zinkale ndi moyo."
+P7	Zuba, Mwezi, Mvula na Mpepo anamvelela kuli wina ndi mzace mwacidwi.
+P8	Zuba anati, "Taonani kuti ise tonse titandiza ziko munjila zatu zosiyanasiyana." "Inde" anati Mwezi, "Kulibe wina mwa ise wamene apambana munzake." "Tifunika kusebenzela pamozi," anati Mvula. Mpepo anati, "Nicabwino kuti tigabane masiku."
+P9	Ichi ndiye cifukwa camene ntawi zina timaona mwezi pamene kuli zuba. Ndipo timamva mpepo pamene kuli mvula. Zuba, mwezi, mvula na mpepo zimagwilizana nosebenzela pamodzi.
+P10	Kodi ukonda zuba, mwezi, mvula kapena mpepo? Lemba camene ukonda.
+P11	Zuba, mwezi, mvula na mpepo zigwila ncito pamozi kutandiza ziko. Kodi iwe umagwila ncito yotani kutandizila ziko?
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sepedi (Translation)	Letšatši, Ngwedi, Pula le Moya	id=32458
+Sesotho (Lesotho) (Original)	Letsatsi, Khoeli, Pula le Moea	id=16109
+Sesotho (South Africa) (Translation)	Letsatsi, Kgwedi, Pula le Moya	id=32437
+Siswati (Translation)	Lilanga, Inyanga, Imvula neMoya	id=32444

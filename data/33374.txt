@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33374&d=0&a=1
+id:	33374
+title:	Kotlo
+author:	Maria Vaz
+artist:	Melany Pietersen
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33374.png
+desc:	Kotlo ya moshanyana ya meharo
+
+page_text:
+
+P1	Ka tsatsi le leng, mme o ile a reka ditholwana tsa mefutafuta.
+P2	"Re tla ja ditholwana tsena neng?" ra botsa mme.@@"Re tla ditholwana  mantsiboya kajeno," ke mme eo.
+P3	Moenaka Rahim o meharo.@@A latswa ditholwana kaofela. A ja tse ngata haholo.
+P4	"Rahim o sele, mme o inahanela a le mong," ke nna eo.@@"Bona seo a se entseng!"
+P5	Mme o ne halefetse Rahim haholo.
+P6	Kaofela ha rona re ne re halefetse Rahim, empa yena o ne a sa bonahale a itshola.
+P7	"A na o tla fa Rahim kotlo?" ho botsa moenaka e monyenyane Athil.
+P8	"Rahim! O tlilo swaba ke ya o bolella," ke mme eo.
+P9	Rahim a ikutlwa e ka o a kula.
+P10	"Ke tshwerwe ke mala," Rahim a sebela kgaitsedi yae.
+P11	Mme o ne a tseba hobaneng Rahim a kula.@@"Ditholwana di fa Rahim kotlo," ho nahana mme.
+P12	Rahim o ile a kopa tshwarelo ho rona mme a tshepisa hore a keke a hlola a e ba meharo jwalo hape.@@Re ile ra mokgolwa, mme ra mo tshwarela.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	(Paka rangi) Adhabu	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Siswati (Translation)	Sijeziso	id=33402

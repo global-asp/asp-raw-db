@@ -1,0 +1,82 @@
+url:	https://africanstorybook.org/reader.php?id=32956&d=0&a=1
+id:	32956
+title:	Imfene neNgwenya
+author:	Sthembiso Makamo and Zinhle Mkhwanazi
+artist:	Abraham Muzee
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32956.png
+desc:	Mayelana nekutsi imfene yatisindzisa njani ekudliweni yingwenya.
+
+page_text:
+
+P1	Imfene yahlangana nengwenya dvutane nelichibi.
+P2	"Uhlalaphi?" kubuta imfene. @@"Echibini," kusho ingwenya.
+P3	"Wena uhlalaphi?" kubuta ingwenya. @@"Etihlahleni," kusho imfene.
+P4	"Uyakwati yini kubhukusha?" kubuta ingwenya.
+P5	"Angikwati kubhukusha," kusho imfene. @@"Ngingakufundzisa," kusho ingwenya.
+P6	"Sibangani. Ungangesabi," kusho ingwenya.
+P7	"Malume uyagula udzinga inyama," kusho ingwenya.
+P8	Imfene yesaba kakhulu. Ingabe ingwenya itoyidla?
+P9	Imfene yafuna kuphunyula engwenyeni.
+P10	Imfene yaba nembono.
+P11	"Ngitokunika inhlitiyo yami ngenca yakhe," kwetsembisa imfene.
+P12	"Inhlitiyo yami isesihlahleni emhlabeni," kusho imfene.
+P13	"Utokwati yini kulandza inhlitiyo yakho?" kubuta ingwenya. @@"Yebo," kusho imfene.
+P14	Ingwenya yabhukusha yabuyela emuva emhlabeni. @@Imfene yagcuma yagibela etihlahleni.
+P15	"Awusiye umngani wami. Ucambe emanga!" kusho ingwenya.
+P16	"Asisibo bangani. Ufuna kungidla!" kusho imfene.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	(Colour-in) Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+isiZulu (Translation)	(Colour-in) UNkawu noNgwenya	id=33305
+isiZulu (Translation)	Imfene ne ngwenya	id=33482
+Kanuri (Translation)	Dagǝl Bulongu-a Karam–a	id=32286
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende n'ingona	id=20223
+Kinyarwanda (Adaptation)	Inkende n'ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Waggoonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Thimbukushu (Translation)	Shoko naNgandu	id=31528
+Tiv (Translation)	Ikya man Ambe	id=23886

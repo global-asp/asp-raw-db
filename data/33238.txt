@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=33238&d=0&a=1
+id:	33238
+title:	Quem É o Meu Próximo?
+author:	Little Zebra Books
+artist:	Tamsin  Hinrichsen
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33238.png
+desc:	A parábola do bom samaritano
+
+page_text:
+
+P1	Lucas 10:25-37@@Numa ocasião, um professor da lei se levantou e tentou colocar Jesus à prova, dizendo: "Mestre, o que devo fazer para conseguir a vida eterna?"@@Jesus lhe disse: "O que está escrito na lei? Como você@interpreta o que está escrito nela?"
+P2	Ele respondeu: "Ame ao Senhor seu Deus de todo o seu coração, de toda a sua alma, de toda a sua força e de todo o seu entendimento. E também: ame ao seu próximo assim como você ama a si mesmo."
+P3	Jesus então lhe disse: "Você respondeu corretamente. Faça isso e viverá." @@Mas, querendo se justificar, ele disse a Jesus: "E quem é o meu próximo?"@@Jesus respondeu:
+P4	Certo homem ia de Jerusalém para Jericó quando foi assaltado por ladrões. Eles lhe tiraram a roupa, bateram nele e depois foram embora deixando o homem quase morto.
+P5	Por acaso um sacerdote estava passando por aquele caminho e, quando viu o homem, atravessou para o outro lado da estrada.
+P6	Da mesma forma, um levita também passou por ali e, quando o viu, também atravessou para o outro lado da estrada.
+P7	Um samaritano, porém, que também estava viajando por aquele mesmo caminho, teve pena do homem quando o viu.
+P8	Chegou perto dele e fez curativos em suas feridas, colocando azeite e vinho nelas. Depois disso, colocou o homem em seu jumento e o levou a uma hospedaria e cuidou dele.
+P9	No dia seguinte, o samaritano deu duas moedas de prata ao dono da hospedaria e lhe disse: "Tome conta dele. Se por acaso gastar mais do que isto, pagarei o restante quando voltar."
+P10	Jesus perguntou: "Quem destes três você acha que foi o próximo do homem assaltado pelos ladrões?"@@O professor da lei então respondeu: "Aquele que socorreu o homem."@@Jesus lhe disse: "Vá e faça a mesma coisa."
+
+images:
+
+illustrations/pages/27518.png
+illustrations/pages/27459.png
+illustrations/pages/27458.png
+illustrations/pages/27518.png
+illustrations/pages/27462.png
+illustrations/pages/27463.png
+illustrations/pages/27464.png
+illustrations/pages/27465.png
+illustrations/pages/27466.png
+illustrations/pages/27467.png
+illustrations/pages/27468.png
+
+translations:
+
+Cinyungwe (Translation)	Mwandzangu Mbani?	id=33239
+Elomwe (Translation)	Musamariya a Ikharari	id=33240
+Emakhuwa (Translation)	Musamariya Ooreera Murima	id=33241
+English (Original)	Who Is My Neighbour?	id=16284
+Imeetto (Translation)	Nkhunanaka Tipani?	id=33242
+Lulamoogi (Translation)	Omulirwana ghange niiye ani?	id=31933
+Olunyaneka (Translation)	Ou Twelikalela Nae Popepi Olye?	id=31870

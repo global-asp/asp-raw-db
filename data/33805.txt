@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33805&d=0&a=1
+id:	33805
+title:	Batu nionso bakokende Malawi
+author:	Theresa  Nyemba
+artist:	Jacquiline  K
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33805.png
+desc:	Moto nioso akoki kovanda sima na elenge mokomi buku na lisapo oyo? (Lisapo oyo esalemaki na sanza ya motoba na mobu tuku mibale na zomi na libwa na tango ya bopemi na lisalisi ya Sophiatown Community Psychological Services
+
+page_text:
+
+P1	Tozalaka na bomesano ya kovanda na koko na ngai ya mwasi na mama na ngai.
+P2	Mwana ya mama leki, Christina, Thandi na Junior na mama leki na ngai bavandaka na biso.
+P3	Koko na ngai ya mwasi azalaki kolakisa biso masano.@@Ezalaki penza kitoko.
+P4	Sika Junior akendeki Malawi na koko na biso ya mwasi pe akendeki Malawi.
+P5	Pe mama leki na Christina pe bakendeki Malawi.
+P6	Pe na Thandi pe akendeki Malawi.
+P7	Ezalaki penza mawa.@@Ata moko te atikalaki na biso.
+P8	Kasi ezali mabe te, po mama na ngai azali awa na ngai.
+
+images:
+
+illustrations/pages/91400121.png
+illustrations/pages/91400117.png
+illustrations/pages/91400118.png
+illustrations/pages/91400119.png
+illustrations/pages/91400120.png
+illustrations/pages/91400121.png
+illustrations/pages/91400122.png
+illustrations/pages/91400123.png
+illustrations/pages/91400124.png
+
+translations:
+
+English (Original)	Everyone goes to Malawi	id=33735
+French (Translation)	Tout le monde va au Malawi	id=33843
+isiZulu (Translation)	Bonke baya eMalawi	id=33774
+Kiswahili (Translation)	Kila mmoja anakwenda Malawi	id=33757
+Sesotho (South Africa) (Translation)	Batho bohle ba ya Malawi	id=33790

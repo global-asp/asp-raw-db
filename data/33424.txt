@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=33424&d=0&a=1
+id:	33424
+title:	Ipaka, Nying'ok ka Abeye
+author:	Philip  Eyen
+artist:	Elke and René Leisink
+lang:	Ng’aturkana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33424.png
+desc:	Ipaka ka Ingok arai ngipalon luminan. Kingolikis abeyee alonyia. Nyo esubakineta kech?
+
+page_text:
+
+P1	Ipaka en.@@Ing'ok en.
+P2	Elose Ipaka ka Ing'ok.@@Elose anadakar kech.
+P3	King'olisi abeye.@@Ayei abeye alonyiaa.@@Ayei abeye bon alonyiaa.@@Ayei abeye bon.
+P4	Toloto Ipaka ka Ing'ok nia ikeny.@@King'ita ikeny, "Erai abeye na akonia?"
+P5	Tama Ikeny,"Mere abeye na akang. King'ita tula kerai akeng'."
+P6	Toloto Ipaka ka Ing'ok nia tula.@@King'ita tula, "Erai Abeye na akonia?"
+P7	Tama tula,"Mere Abeye na akang'. King'ita agulgul kerai akeng'."
+P8	Toloto Ipaka ka Ing'ok nia agulgul.@@King'ita agulgul, "Erai abeye na akonia?"
+P9	Tama agulgul, "Mere, abeye na akang'. King'ita ng'abatae narei. Kerai ng'akech."
+P10	Toloto Ipaka ka Ing'ok nia ng'abatae anarei.@@King'ita ng'abatae narei, "Arai na abeye kusia?"
+P11	Tamasi ng'abatae narei, "Mere, abeye na akosi."@@Anierumor tobwang' abeye.
+P12	Eyei ayele toma abeye.@@Ikoku iyole.
+P13	Tama ikoku iyole, "Nyani itokang? Nyani apakang?@Nyalu apakang ka itokang?"@@Ipaka ka Ing'ok yaut ikoku iyole lokauriak keng'.
+P14	Ejok noi Ipaka.@ @Ejok noi Ing'ok. @@ Ejok noi ikoku iyole.
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiTonga (Translation)	Kaaze, Mubwa AJi	id=20770
+CiNyanja (Translation)	Cona, Galu na zila	id=20793
+English (Original)	Cat and Dog and the Egg	id=20150
+Kinyarwanda (Translation)	Injangwe, Imbwa n' Igi	id=31694
+Kiswahili (Translation)	Paka na Mbwa na Yai	id=33216
+Lulamoogi (Translation)	Opuusi n'ombwa n'eigi	id=25360
+Lusoga (Translation)	Puusi embwa neigi	id=26358
+Persian (Afghanistan) (Translation)	سگ و گربه و تخم	id=33604
+SiLozi (Translation)	Kaze, Nja  ni Lii	id=20924

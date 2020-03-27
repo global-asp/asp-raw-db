@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33776&d=0&a=1
+id:	33776
+title:	Sidlala umacashelana
+author:	Zanele Zuma
+artist:	Mary  Z
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33776.png
+desc:	Ubumnandi bokufunwa ungatholakali uma nidlala umacashelana. (Indaba nemifanekiso kwaqanjwa engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	"Masidlale umacashelana," kwasho ubhuti wami.
+P2	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12…@@…92, 93, 94, 95, 96, 100!
+P3	Ubhuti wami wayeza ezongifuna.@@Ngangicashe ngemva kwekhethini.
+P4	Wangifuna yonke indawo.
+P5	Wangena ekameleni engangicashe kulona.
+P6	Ngangithule nginganyakazi.@@Ngangicabanga ukuthi, "Uzongithola."
+P7	Emva kwalokho waphuma.
+P8	Ngagijima ngaphumela ngaphandle.@@Ngamemeza ngathi, "Awuzange ungithole!'
+
+images:
+
+illustrations/pages/91400133.png
+illustrations/pages/91400137.png
+illustrations/pages/91400133.png
+illustrations/pages/91400134.png
+illustrations/pages/91400135.png
+illustrations/pages/91400136.png
+illustrations/pages/91400132.png
+
+translations:
+
+English (Original)	Hide and Seek	id=33737
+French (Translation)	Cache - Cache	id=33851
+Kiswahili (Translation)	Kucheza Kidalipo	id=33838
+Lingala (Translation)	Kobatama pe komona	id=33807
+Sesotho (South Africa) (Translation)	Boleke maipatile	id=33792

@@ -1,24 +1,24 @@
-url:	https://africanstorybook.org/reader.php?id=32249&d=0&a=1
-id:	32249
-title:	Dia Rerṯo Đǝl nenda Đonto
-author:	Apalo  Mana
+url:	https://africanstorybook.org/reader.php?id=32887&d=0&a=1
+id:	32887
+title:	Kgomo ya lenaka le le lengwe
+author:	Refilwe Morongwa Ramagoshi
 artist:	Marion Drew
-lang:	Moro
+lang:	Setswana
 level:	First words
 lic:	Creative Commons: Attribution 4.0
-thumb:	http://africanstorybook.org/illustrations/covers/32249.png
-desc:	Have you ever seen a cow with only one horn and no tail?
+thumb:	http://africanstorybook.org/illustrations/covers/32887.png
+desc:	Kgomo ya lenaka le le lengwe ee ratang ntwa.
 
 page_text:
 
-P1	Wëi! @@Sëcu dia rëni egeɽa rǝŋǝra.
-P2	Dia rerṯo đǝl nenda đonto, na rero lǝper.
-P3	Dia rađǝwo, na rama ara.
-P4	Dia ronḏǝṯo kañ.
-P5	Ummia igi gǝsia gëbwa diara kañ.
-P6	Nda iria yesa ŋaña, dia irri ṯarǝso ronto.
-P7	Dia rađowa lorba. @@Iria isi yiṯënu yaɽaŋa alǝsen ǝrtođ.
-P8	Agiđi ndǝ agǝfiđu rarno irri, agiđi ŋiđiṯau?
+P1	Heeeee! Go na le kgomo e ntle kwa gae.
+P2	E na le lenaka le le lengwe fela, mme ga e na mogatla.
+P3	E nonne, gape e na le mpa e kgolo.
+P4	Ke kgomo e e maatla.
+P5	Badisa ba rata kgomo e thata.
+P6	Fa dikgomo tse dingwe di fula kgomo e yona, e fula e le nosi.
+P7	Kgomo e, e rata ntwa. Dikgomo tse dingwe di e tlogela e le nosi.
+P8	Fa o ka rakana le kgomo e e ntseng jaana, o ka dira eng?
 
 images:
 
@@ -52,6 +52,7 @@ Luganda (Translation)	Ente eyina ejjembe elimu	id=23312
 Lunyole (Translation)	Eŋombe Ey'olwiga Lulala	id=11906
 Lusoga (Translation)	Ente  eyeiyiga  eirala	id=30564
 Moro (Translation)	Dia rerto đel đonto	id=32106
+Moro (Translation)	Dia Rerṯo Đǝl nenda Đonto	id=32249
 Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
 Oshikwanyama (Translation)	Ongobe yoluvinga limwe	id=31569
 Oshindonga (Translation)	Ongombe yolwinga lumwe	id=31505
@@ -62,5 +63,4 @@ Rutooro (Translation)	Ente Eyi Ihembe Limu	id=14918
 Sepedi (Translation)	Kgomo ya lenaka le tee	id=33459
 Sesotho (Lesotho) (Original)	Khomo e bokopa	id=9621
 Sesotho (South Africa) (Translation)	Kgomo ya naka le le leng	id=33510
-Setswana (Translation)	Kgomo ya lenaka le le lengwe	id=32887
 Siswati (Translation)	Inkhomo leneluphondvo lunye	id=13076

@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=33613&d=0&a=1
+id:	33613
+title:	Une mauvaise conscience ?
+author:	Zanne Viljoen
+artist:	Rob Owen
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33613.png
+desc:	Une fille ment à sa grand-mère après avoir pris de la nourriture. Comment la grand-mère découvre-t-elle la vérité ?
+
+page_text:
+
+P1	Il était une fois une vieille femme qui vivait avec ses trois petits-enfants.
+P2	Tous les matins, ils allaient travailler dans les champs.@@Un jour, une des filles a dit : "Grand-mère, je ne me sens pas bien aujourd'hui."
+P3	Alors, la vieille femme a renvoyé l'enfant chez elle.
+P4	Quand la fille est rentrée, elle a vu qu'il y avait de la viande dans la cocotte.@@Elle a mangé toute la viande et s'est endormie.
+P5	La vieille femme et ses deux enfants étaient fatigués et affamés à leur retour du champ.@@Grand-mère préparait du manioc pour le souper, à manger avec la viande qu'elle avait cuisinée ce matin-là.
+P6	Elle a ouvert les cocottes pour servir ses petits-enfants.@@Quand elle a ouvert la cocotte avec la viande, elle était vide !
+P7	"Qui a mangé la viande ?" a demandé Grand-mère, fronçant les sourcils.@@Mais les trois petits-enfants ont secoué la tête. "Pas moi", chacun a dit.
+P8	Leur grand-mère a attaché une corde à travers la rivière.@@Elle a dit à chacun d'eux de marcher sur la corde pendant qu'ils chantaient une chanson.
+P9	"Celui qui a mangé la viande tombera dans la rivière et apprendra à dire la vérité," a prévenu Grand-mère.@@La première petite-fille a traversé rapidement la rivière en chantant la chanson.
+P10	La chanson se déroulait ainsi : "Nimbe esia ulire inyama. Mukoye khalira engwe mu nyanza. Engwe mu ndaliro engwe munyanza. Mukoye khalira engwe mu nyanza."
+P11	Les deux autres petits-enfants ont commencé à se disputer.@@La fille a dit au garçon : "À toi de traverser." Le garçon a répondu : "Non, c'est à toi !"
+P12	La petite-fille qui a mangé la viande avait peur et tremblait.@@Alors qu'elle s'avançait pour marcher sur la corde, elle a glissé et est tombée dans la rivière.
+P13	"Au secours ! Au secours ! a crié la fille.@@Grand-mère a dit aux deux autres : "Elle est coupable, mais nous devons l'aider."
+P14	Ensemble, ils ont fait sortir la fille effrayée de la rivière.@@Depuis ce jour, les petits-enfants de la vieille dame ont toujours dit la vérité.
+
+images:
+
+illustrations/pages/13378.png
+illustrations/pages/13368.png
+illustrations/pages/13369.png
+illustrations/pages/13370.png
+illustrations/pages/13371.png
+illustrations/pages/13372.png
+illustrations/pages/13373.png
+illustrations/pages/13374.png
+illustrations/pages/13375.png
+illustrations/pages/13377.png
+illustrations/pages/13378.png
+illustrations/pages/13379.png
+illustrations/pages/13380.png
+illustrations/pages/13381.png
+
+translations:
+
+English (Original)	Guilty conscience?	id=13542
+English (Adaptation)	Guilty Conscience (Song In English)	id=16573
+Kumam (Translation)	Lewic	id=20604
+Luganda (Translation)	Gumusinze (Oluyimba mu Luganda)	id=23658
+Lunyole (Adaptation)	Ohuswaluuha	id=16575
+Lusoga (Translation)	Obuguya	id=24827

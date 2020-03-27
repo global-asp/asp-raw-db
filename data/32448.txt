@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=32448&d=0&a=1
+id:	32448
+title:	The disease in my body
+author:	Ursula  Nafula
+artist:	Felicity Bell
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32448.png
+desc:	Naomi lives with a terrible disease and must take good care of herself to keep well and strong. Her Grandma makes sure that Naomi has the healthy food and medicine she needs to live a normal life.
+
+page_text:
+
+P1	My name is Naomi. I'm young and full of hope.@@I have a disease that hides in my body.
+P2	This disease won't jump from my body and enter yours.@@So, come stand next to me.@@Come, hold my hand.
+P3	Come, share lunch with me.@@Come, sit down next to me.
+P4	I have lived with this disease since I was born.@@This disease is like a crocodile. It eats everything in my body. @@When I'm weak, I become sick and miss school.
+P5	I fight this disease in two ways. @@I take my medicine every day at the same time.
+P6	I also eat vegetables and fruit.@@When my body is strong, the disease becomes weak and I can play.
+P7	My Grandma takes me to the clinic at the right time. @@I get special treatment which makes the disease weak.
+P8	My Grandma is my strength.@@She cares for me to keep me strong.@@She teaches me how to prepare nutritious foods.
+P9	If I continue to take my medicine and eat well, I'll be strong and healthy. @@I want to go to school and learn to read.@@I want to be a doctor so I can treat people with this horrible disease.
+P10	Until the cure is found, I will learn to live with this disease.@@I will do everything to make this disease weak and live a happy life.
+P11	This disease doesn't stop my Grandma, my aunts, my uncles and friends from loving me.
+P12	Questions:@1. What is the name of the girl in the story?@2. What does she have in her body?@3. What animal does she compare it to?@4. How long has she lived with it?@5. What does the girl do to keep well and strong?@6. Which people love the girl?@7. What do you think the girl is suffering from?@8. What do you call it in your home language?
+
+images:
+
+illustrations/pages/6105.png
+illustrations/pages/6093.png
+illustrations/pages/6094.png
+illustrations/pages/6092.png
+illustrations/pages/6095.png
+illustrations/pages/6097.png
+illustrations/pages/6099.png
+illustrations/pages/6139.png
+illustrations/pages/6102.png
+illustrations/pages/6103.png
+illustrations/pages/6104.png
+illustrations/pages/6105.png
+
+translations:
+
+Afrikaans (Translation)	Die krokodil in my lyf	id=11362
+ChiTonga (Translation)	Ciwena Mumubili Wangu	id=32880
+CiNyanja (Translation)	Ng'wena Muthupi Mwanga	id=33165
+Dhopadhola (Translation)	Ngoona ideli parani	id=33123
+English (Original)	Crocodile in my body	id=6111
+French (Translation)	Un Crocodile Dans Mon Corps	id=10146
+IciBemba (Translation)	Ing'wena Mumubili Wandi	id=33206
+Kiswahili (Translation)	Mamba aliye mwilini mwangu	id=15746
+Luganda (Translation)	Ggonya mu mubiri gwange	id=23236
+Lusoga (Translation)	Wangoina mu mubiri gwange	id=24865
+Portuguese (Translation)	Um Crocodilo No Meu Corpo	id=16410

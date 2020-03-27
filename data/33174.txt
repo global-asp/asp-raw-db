@@ -1,0 +1,93 @@
+url:	https://africanstorybook.org/reader.php?id=33174&d=0&a=1
+id:	33174
+title:	Vamos comer!
+author:	Little Zebra Books
+artist:	Sue  Beattie
+lang:	Portuguese
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33174.png
+desc:	Aprenda os nomes dos alimentos comuns neste livro.
+
+page_text:
+
+P1	As pimentas
+P2	O repolho
+P3	A abóbora
+P4	As ervilhas
+P5	O pêssego
+P6	As bananas
+P7	Os morangos
+P8	A melancia
+P9	Os maracujás
+P10	Os feijões-verdes
+P11	O pimento verde
+P12	O quiabo
+P13	A alface
+P14	O milho
+P15	A beringela
+P16	O tomate
+P17	A cenoura
+P18	O ananás
+P19	As papaias
+P20	O abacate
+P21	A manga
+P22	A maçã
+P23	As goiabas
+P24	As batatas doces
+P25	O gengibre
+P26	O alho
+P27	As cebolas
+P28	As batatas
+P29	As laranjas
+P30	Os limões
+P31	A beterraba
+P32	A tangerina
+P33	As cerejas
+P34	As uvas
+
+images:
+
+illustrations/pages/28182.png
+illustrations/pages/28112.png
+illustrations/pages/28131.png
+illustrations/pages/28109.png
+illustrations/pages/28114.png
+illustrations/pages/28115.png
+illustrations/pages/28135.png
+illustrations/pages/28106.png
+illustrations/pages/28101.png
+illustrations/pages/28116.png
+illustrations/pages/28124.png
+illustrations/pages/28134.png
+illustrations/pages/28119.png
+illustrations/pages/28193.png
+illustrations/pages/28128.png
+illustrations/pages/28137.png
+illustrations/pages/28103.png
+illustrations/pages/28130.png
+illustrations/pages/28111.png
+illustrations/pages/28117.png
+illustrations/pages/28136.png
+illustrations/pages/28120.png
+illustrations/pages/28138.png
+illustrations/pages/28123.png
+illustrations/pages/28105.png
+illustrations/pages/28126.png
+illustrations/pages/28192.png
+illustrations/pages/28108.png
+illustrations/pages/28110.png
+illustrations/pages/28118.png
+illustrations/pages/28122.png
+illustrations/pages/28107.png
+illustrations/pages/28104.png
+illustrations/pages/28129.png
+illustrations/pages/28125.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Tiyeni tidye!	id=33824
+Cinyungwe (Translation)	Tidyeni!	id=33825
+English (Original)	Fruits and Vegetables	id=32358
+English (Adaptation)	One fruit, two fruits	id=32403
+Kiswahili (Translation)	Tunda moja, matunda mawili	id=32597

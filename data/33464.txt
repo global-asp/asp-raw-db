@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=33464&d=0&a=1
+id:	33464
+title:	Imbusi, Imbwa ni Ingaafu
+author:	Fabian Wakholi
+artist:	Marleen Visser
+lang:	Lumasaaba
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33464.png
+desc:	Imbusi
+
+page_text:
+
+P1	Imbusi, Imbwa ni Ingaafu baaba basaale naabi. @@Shifukhu shitweela baakyendakho. Batsiila mu imotokha itakisi.
+P2	Ne ni boola isi batsya, kondakita waabasaba kamapeesa. @@Ingaafu yaasasula.
+P3	Imbwa nayo yaasasula kakaafuurisawo.
+P4	Ne Imbusi yaafulumukha tsiindimo, yaakorawo nga akhusasula taa!
+P5	Umutimisi we motokha wahaambibwa lirima. @@Waafuka busa waatsya, nga akhusasula Imbwa kamapeesa kaayo taa.
+P6	Shino shaayamilamo Imbwa nga yaboone imotokha niibira, ikitimisa.@@Yeenya khuubona nga umufuki we motokha uulimo akikobosela kamapeesa kaayo.
+P7	Ne Imbusi nga yaaboone imotokha, niyo yaandaba tsiindimo.@@Yambaasa iri banakihaamba bakibohe khulwe likobi.
+P8	Ingaafu niyo siyilukha imotokha taa. @@Nashiryo imotokha yangaba ili aambi, Ingaafu niyo ikyeenda mbola busa, sifayo taa. @@Yaamanya iri yaasasula likoobi khaale.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu na Ngombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Imeetto (Translation)	Ipuri, Mwalapwa, ni Imope	id=33187
+Kanuri (Translation)	Kanyi-a Kǝri-a Fe-a	id=32374
+Kinyarwanda (Translation)	Ihene, Imbwa, n'Inka	id=32575
+Kiswahili (Translation)	Mbuzi, Mbwa na Ng'ombe	id=33533
+Luganda (Translation)	Wambuzi, Wambwa ne Wante	id=33531
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=33670&d=0&a=1
+id:	33670
+title:	My first story
+author:	Eric GT
+artist:	Eric GT and Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33670.png
+desc:	My first story! I dont know how this app works
+
+page_text:
+
+P1	Meep
+P2	Beep
+
+images:
+
+illustrations/pages/7986.png
+illustrations/pages/24920100.png
+illustrations/pages/24920101.png
+
+translations:
+

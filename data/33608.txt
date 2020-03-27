@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33608&d=0&a=1
+id:	33608
+title:	Elabo Yakoddile Okala Anddimuwa
+author:	Little Zebra Books
+artist:	Laura Liberatore
+lang:	Echuwabo
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33608.png
+desc:	This folktale from the Nyungwe people of Mozambique reminds us of the importance of having older people in our communities.
+
+page_text:
+
+P1	Yahipadduwa mudhidhi mwina wi nikuru na azombwe ahilamulela wapamo anddimwa etene a m'muruddani wila awene attiye okwiri.
+P2	Muzombwe m'modha bamuttawiya vina banvita babe.
+P3	M'malele esiwene, nikuru na azombwe baroma wapamo anddimuwa etene.
+P4	M'bwenyi dhawene, nowa elofiya m'muruddani vina bivolowa mbani mwa mwana. Nona, musolroya wabudduwele otakulu wa mulomo wa mwanaya.
+P5	Ababe ahitagiya malre etene wila ahibwilricemo mbwenyi kawodhile,
+P6	mbwenyi anziwa wi agapa nowaya anompa vina mwanaya.
+P7	Muzombwe wanvitile babe wahidhowa bamwaddela dhotedhene dhapadduwile m'muruddani. @@Munddimuwa bamwakula, "Ejo kaiye elobo yowopiya. Enowodheya! Kamuttiddeni nanciddwe mumwike osongolro wa mwanaya."
+P8	Nona, muzombwe badhowa basoriya malre ninga mwamwaddele babe. Vina nowa edha, ewona nanciddwe elobudduwa!
+P9	Mwana olovuneya m'makattamiyoni mwaye.
+
+images:
+
+illustrations/pages/85590239.png
+illustrations/pages/85590249.png
+illustrations/pages/85590239.png
+illustrations/pages/85590250.png
+illustrations/pages/85590241.png
+illustrations/pages/85590242.png
+illustrations/pages/85590243.png
+illustrations/pages/85590244.png
+illustrations/pages/85590246.png
+illustrations/pages/85590247.png
+illustrations/pages/85590248.png
+
+translations:
+
+Afrikaans (Translation)	Die land sonder ou mense	id=33633
+Cinyungwe (Translation)	Maswaka Yadapha Nkhalamba Zentsene	id=33607
+English (Original)	The Land of No Old People	id=33145
+isiXhosa (Translation)	ILizwe elingenaMaxhego naMaxhegwazana	id=33634
+Portuguese (Translation)	A Terra Sem Pessoas Velhas	id=33592

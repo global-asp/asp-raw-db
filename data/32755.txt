@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32755&d=0&a=1
+id:	32755
+title:	Kubili
+author:	Daphney Sibanyoni
+artist:	Richard MacIntosh
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32755.png
+desc:	Imisho elula ngezinto ezihamba ngamabhanqa noma ngakubili izandla
+
+page_text:
+
+P1	Izandla ezimbili zokubamba
+P2	Izinyawo ezimbili zokukhahlela
+P3	Amehlo amancane wokubheka
+P4	Izendlebe ezincane zokuzwa
+P5	Izingalo ezimbili ezithandekayo zokusingatha
+P6	Nezingalo ezimbili ezithandekayo zokugona
+
+images:
+
+illustrations/pages/3062.png
+illustrations/pages/28311.png
+illustrations/pages/28312.png
+illustrations/pages/28313.png
+illustrations/pages/28314.png
+illustrations/pages/28315.png
+illustrations/pages/28316.png
+illustrations/pages/28317.png
+illustrations/pages/28318.png
+illustrations/pages/28319.png
+illustrations/pages/28377.png
+
+translations:
+
+Arabic (Translation)	اثنان	id=19920
+English (Original)	Two	id=3072
+English (Adaptation)	(Colour-in) Two	id=32478
+French (Translation)	(À colorier) Deux	id=33411
+Gikuyu (Translation)	Igĩrĩ	id=9676
+isiXhosa (Translation)	Ezimbini	id=32724
+isiZulu (Translation)	Imibala emibili	id=32737
+Kinyarwanda (Translation)	Kabiri	id=32613
+Kiswahili (Translation)	Mbili	id=3101
+Ng’aturkana (Translation)	Ng'arei	id=9543
+Yoruba (Translation)	Méjì (Ìwé-Ìtàn tí ẹ lé fi àwọ̀ sí)	id=33117

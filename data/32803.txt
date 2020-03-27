@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32803&d=0&a=1
+id:	32803
+title:	M Soo Akô
+author:	Terkule Aorabee
+artist:	Rob Owen
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32803.png
+desc:	Akô a tseghan doo
+
+page_text:
+
+P1	M soo akô.
+P2	Kasua u a kar la m za ken ikyô I Kibale.
+P3	M nenge a ikon kpishi. M nenge a Tur, Gbaaye, Ivile man Haa.
+P4	M nenge a ijombo, ikya man ibagu.
+P5	M nenge a inyon kposo kposo. M nenge a ukaaki, uigyuve man avungu.
+P6	M nande ahan zum u m nenge a zege nortar a antsa u kpeghee yô.
+P7	M nenge a anyamev man inyon kua imendenev atô kposo kposo je.
+P8	Ikyô i Kibale ka ijiir i dedoo. Ior ka ve shi zan u za nengen. M soo akô. We di ye?
+
+images:
+
+illustrations/pages/16540.png
+illustrations/pages/16577.png
+illustrations/pages/16539.png
+illustrations/pages/16544.png
+illustrations/pages/16541.png
+illustrations/pages/16543.png
+illustrations/pages/16542.png
+illustrations/pages/16540.png
+
+translations:
+
+English (Translation)	I love forests	id=16578
+French (Translation)	J'adore les forêts	id=33800
+Jenjo (Translation)	In yi da be ka mana	id=33577
+Kinyarwanda (Translation)	Nkunda amashyamba	id=20684
+Lusoga (Translation)	Nnendha ebibira	id=24842
+Rutooro (Original)	Ngonza Ebibira	id=16545

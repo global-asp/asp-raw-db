@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=33504&d=0&a=1
+id:	33504
+title:	Mpaka jwa Subo
+author:	Granton  Idyema
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Pokomo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33504.png
+desc:	Subo ana mpaka wenji. Ayu Subo ana mpaka wenga?
+
+page_text:
+
+P1	Subo katsaka mpaka. @@Kuna mpaka wenji humu nyumbani mwakwe.
+P2	Subo ana mpaka mmodza mweusi. @@Huyu mpaka anadya nyama nyinji.
+P3	Subo ana mpaka munono mmodza. @@Huyu mpaka anadya kila kintu.
+P4	Huyu mpaka jwahahu, anaḍarama akipfaa muhini.
+P5	Subo kapfaa dzuu ya muhi. Kat̯uruma huko dzu jeje na huyu mpaka jwa hahu. @@Iḅid̯i mamajwe Subo awasaiḍie kusuka.
+P6	Subo ana mpaka wawii ambao ni malafa. @@Wanat̯ambaara dzuani nsiku nzima.
+P7	Subo ana mpaka wahahu wewo nahiḍu. @@Wanagija mpanya dzikoni nanasiku.
+P8	Subo ana chunghe mmodza. Hiḍi saridye ni Lirafi. @@Lirafi nkaḅamu hat̯a mmodza.
+P9	Hawa mpaka wa Subo wamut̯ukia Lirafi. Wanamfukuza nzee ya hii nyumba. @@Lirafi naye anaḍarama akayawa.
+P10	Subo anamulacha Lirafi nakumugalicha nyumbani. @@Hawa mpaka ntawakutsekezwa. Ntawakutsaka kumuona Lirafi kawii.
+P11	Ayu Subo ana mpaka wengaa? @@Ana mpaka wanane.
+P12	Ayu Subo ana chughe nyengaa? @@Ana chughe mmodza. @@Ayu Lirafi kakuu sasa?
+P13	Una mpaka wengaa ako nyumbani? @@Una chughe nyengaa ako nyumbani?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiNambya (Translation)	Tungowe twa Selemeng	id=32898
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+ChiTonga (Translation)	Bakaaze ba Selemengi	id=33107
+CiNyanja (Translation)	Ma cona a Selemeng	id=33170
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+IciBemba (Translation)	Baapuushi bakwa Selemeng	id=33292
+isiZulu (Translation)	Amakati kaZamo	id=31799
+KiGiryama (Translation)	P'aka a Charo	id=33479
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Puusi dha Kelementi	id=27609
+Ng’aturkana (Translation)	Ng'ipakae Selina	id=33432
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33463&d=0&a=1
+id:	33463
+title:	Kotlo ya Maja
+author:	Dikeledi Queen Shai
+artist:	Melany Pietersen
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33463.png
+desc:	Na kotlo ya mošemane wa sejato yoo a jelego dienywa tše ntši ke eng?
+
+page_text:
+
+P1	Ka letšatši le lengwe, mma o ile a reka dienywa tša go fapafapana.
+P2	"Na re ka ja dienywa neng?" ra botšiša.@@"Re tla ja dienywa bošegong bja lehono," mma a realo.
+P3	Buti wa ka Maja ke sejato.@@O  lomile dienywa tše ka moka e le ge a re o kwa tatso ya tšona. O jele bontši bja tšona.
+P4	"Bona gore Maja o dirile eng!" gwa realo buti wa ka yo monnyane ka go bolelela godimo.@@"Maja o a seleka ebile ga a naganele batho ba bangwe," ka realo.
+P5	Mma o be a befeletše Maja.
+P6	Le rena re be re kgopišitšwe ke Maja.@@Efela Maja yena o be a se na boitsholo.
+P7	"Na o ilo otla Maja?" buti yo monnyane a botšiša.
+P8	"Maja, o tla itshola go se go ye kae," mma a mo lemoša.
+P9	Maja a thoma go se ikwe gabotse.
+P10	"Mala a ka a bohloko," Maja a bolela ka go sebaseba.
+P11	Mma o be a tseba go re ke ka lebaka la eng Maja a be a lwala.@@ "Dienywa di otla Maja," a nagana bjalo.
+P12	Ka morago, Maja a kgopela tshwarelo mo go rena. "Nka se sa ba sejato gape," a tshepiša bjalo.@@Re ile ra mo tshepa.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	(Paka rangi) Adhabu	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402

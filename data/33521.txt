@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=33521&d=0&a=1
+id:	33521
+title:	Moswinki wa Keke
+author:	Maria Vaz
+artist:	Marion Drew
+lang:	Sesotho (South Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33521.png
+desc:	Keke o bapala moswinking wa hae oo a o ratang. O tshaba hore ho tla ya hodimo a fihlelle kgweding.
+
+page_text:
+
+P1	Keke o ne a dutse moswinking wa hae oo a o ratang haholo. @@E ne e le moswinki o monate ho feta e meng sekolong sa hae.
+P2	Keke o ne a isa moswinki pele le morao butle. Ha a ntse a o tsamaisa jwalo, moswinki wa qala ho phakisa, mme a iphumana a se a le hodimodimo.
+P3	Keke o ne a se a le hodimo haholo, a sheba fatshe mme a re, a hweletsa. @@"Shebang ke hodimo ha ka kang."
+P4	O ne a thabile ho ba hodimo jwalo, a kgona ho bona motsana ohle. @@Keke o ne a le hodimo jwaloka dinonyana tse neng di fofa ka hodima masimo a koro.
+P5	Kamora nakwana, Keke o ne a se a batla ho theoha, empa moswinki o ne o sa batle ho ema. @@"Jo! jo! jo!" a hweletsa. "Ha ke kgone ho emisa moswinki ona."
+P6	Moswinki wa nna wa ya pele le morao, hodimo le tlase. @@Keke o ne a tshohile. "Ekaba moswinki ona o tla nkisa kae? Nka nna ka fihla kgweding. Ke tlamehile ho theoha," a rialo a lla.
+P7	Yaba Keke o tlohela moswinki mme a wela fasthe.
+P8	"Jo nna!" Bana ba bang ba hweletsa. @@"Keke o wetse fatshe, mme o lemetse hlooho." "Itjhu! itjhu!" a lla.
+P9	Bana ba bang ba ne ba tshwenyehile haholo. @@Keke o ne a sa tsebe hore a etseng. "Hiii! hiii! Hiii!" a lla.
+P10	Bana ba boneng ha Keke a wa ba ya bitsa mosuwetsana. "Mofumahatsana Mpho tloho kapele!" ba hweletsa. @@"Keke o wele moswinking mme o lemetse hloohong."
+P11	Mosuwetsana Mpho a mathela moswinking, a kuka Keke mme a mo suna hlooho. @@Keke a bososela. "Ke ikutlwa ke le betere jwale, nke ke ka pheta ke bapalla moswinking ona hape, ha ke sa batla ho ya kgweding."
+P12	"Nakong e tlang, ke tla palama le wena moswinking Keke," ho rialo mosuwetsana Mpho. "Rea tla ya kgweding mmoho."
+
+images:
+
+illustrations/pages/9324.png
+illustrations/pages/9319.png
+illustrations/pages/9320.png
+illustrations/pages/9321.png
+illustrations/pages/9322.png
+illustrations/pages/9323.png
+illustrations/pages/9324.png
+illustrations/pages/9325.png
+illustrations/pages/9326.png
+illustrations/pages/9327.png
+illustrations/pages/9328.png
+illustrations/pages/9329.png
+illustrations/pages/9330.png
+
+translations:
+
+Afrikaans (Adaptation)	Keke se Swaai	id=10535
+English (Translation)	Keke's swing	id=9792
+French (Translation)	La Balançoire De Kéké	id=10844
+Lusoga (Translation)	Ekyesuubo  kya Kateme	id=31480
+Portuguese (Translation)	O Baloiço Da Keke	id=16655
+Rutooro (Translation)	Omwesuuso Gwa Keke	id=10553
+Sesotho (Lesotho) (Original)	Senkokomaile Sa Keke	id=9790

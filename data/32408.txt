@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=32408&d=0&a=1
+id:	32408
+title:	Soccer skills
+author:	African Storybook
+artist:	Joseph Ejoyi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32408.png
+desc:	Joseph teaches us ball control and soccer terms
+
+page_text:
+
+P1	Once upon a time, there lived a boy called Joseph.@@Joseph liked football. @@He could kick the ball using either of his feet.
+P2	Joseph plays the ball using his head.
+P3	Joseph controls the ball using his chest.
+P4	Joseph dribbles the ball using the outside of his foot.
+P5	Joseph controls the ball using his thigh.
+P6	He dribbles the ball using the inside of his foot.
+P7	He traps the ball using his instep.
+P8	Joseph volleys the ball using his instep.
+P9	The keeper stops the ball using his hands.
+P10	Joseph does not score!
+
+images:
+
+illustrations/pages/9162.png
+illustrations/pages/9163.png
+illustrations/pages/9164.png
+illustrations/pages/9165.png
+illustrations/pages/9166.png
+illustrations/pages/9167.png
+illustrations/pages/9168.png
+illustrations/pages/9169.png
+illustrations/pages/9170.png
+illustrations/pages/9173.png
+illustrations/pages/9172.png
+
+translations:
+
+Lugbarati (Original)	Ondua Mupira Avizuri	id=9171
+Lusoga (Translation)	Obukodyo mu mupiira	id=30145

@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=33189&d=0&a=1
+id:	33189
+title:	Neema Nothuma Nluuci
+author:	Little Zebra Books
+artist:	Mirjam  Gyger
+lang:	Imeetto
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33189.png
+desc:	Follow Nema through the market as she goes to buy some thread.
+
+page_text:
+
+P1	Ula phi Neema.@@Neema naattoottha.@@Neema nottoottha isaaya.
+P2	Neema nottoottha ni nluuci.@@Nanso nluuci nno nihomala. Vano Neema nophavela uthuma nluuci.@@Nophavela ncurukhu woothumela nluuci. Vano uyo nokoophwanya vayi ncurukhu?
+P3	Neema noona mwiri.@@Mwiri uyo uri wakhiviru. Mwiri uyo uhaana mihokorokho.@@Mihokorokho nnyo ari mapaphayi.@@Mapaphayi ayo ari oociva.
+P4	Neema haana nthale.@@Neema naatonnya ni naattottela mapaphayi.
+P5	Neema hophiya upacari.@@Uyo hophiya upacari ni mapaphayi.@@Uyo nopheela uthumiha mapaphayi.
+P6	Mmoone nlopwana. Nlopwana uyo naathuma nipaphayi nimoca. Uyo naanvaha Neema ncurukhu.@@Neema notumiha mapaphayi menci. Uyo norwa uthuma nluuci ni ncurukhu.
+P7	Upacari uyo noona inika.@@Uyo khanthuma inika nnyo.
+P8	Upacari uyo noona ilimawu.@@Uyo khanthuma ilimawu nnyo.
+P9	Upacari uyo noona icekeceeke.@@Uyo khanthuma icekeceeke iyo.
+P10	Upacari uyo noona iphaawu.@@Uyo khanthuma iphaawu.
+P11	Neema nomoona nlopwana.@@Nlopwana uyo nothumiha nluuci.@@Neema nothuma nluuci.
+P12	Neema haana nluuci. Neema ri ootteeliya.@@Uyo nokoomaliha uttottha isaaya ni nluuci.
+
+images:
+
+illustrations/pages/27365.png
+illustrations/pages/27351.png
+illustrations/pages/27352.png
+illustrations/pages/27354.png
+illustrations/pages/27343.png
+illustrations/pages/27356.png
+illustrations/pages/27357.png
+illustrations/pages/27360.png
+illustrations/pages/27361.png
+illustrations/pages/27363.png
+illustrations/pages/27364.png
+illustrations/pages/27365.png
+illustrations/pages/27366.png
+
+translations:
+
+CiNyanja (Translation)	Nema Agula Ulusi	id=31643
+Cinyungwe (Translation)	Nema Wagula Usalu	id=31642
+Ciyawo (Translation)	A-Nema akusuma wusi	id=31646
+Elomwe (Translation)	Nema Oothuma Osola	id=31644
+Emakhuwa (Translation)	Neema Onthuma Nliinya	id=31645
+English (Original)	Nema buys thread	id=31612
+Kiswahili (Translation)	Neema ananunua uzi	id=32600
+Portuguese (Translation)	A Nema Compra a Linha	id=31641

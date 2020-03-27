@@ -1,0 +1,28 @@
+url:	https://africanstorybook.org/reader.php?id=32571&d=0&a=1
+id:	32571
+title:	TROETELDIERE
+author:	Auriel Gertze
+artist:	Wiehan de Jager and Ursula Nafula
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32571.png
+desc:	Troetediere is baie spesiaal en moet goed versorg word.
+
+page_text:
+
+P1	Dit is 'n hond. Hy eet hondekos. Hy drink water.
+P2	Dit is 'n kat. Hy eet vis. Hy drink melk.
+P3	Dit is 'n voel. Hy eet sade. Hy drink water.
+P4	Dit is 'n haas.Hy eet plante. Hy drink water.
+
+images:
+
+illustrations/pages/14039.png
+illustrations/pages/2494.png
+illustrations/pages/9577.png
+illustrations/pages/295.png
+illustrations/pages/7595.png
+
+translations:
+

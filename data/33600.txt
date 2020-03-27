@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=33600&d=0&a=1
+id:	33600
+title:	My Imagination
+author:	Mimi Werna
+artist:	Joe  Werna
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33600.png
+desc:	The power of imagination! What can you imagine?
+
+page_text:
+
+P1	My imagination is like a key that opens every door!
+P2	In my imagination, my umbrella has two handles so I can hold it with my sister.
+P3	In my imagination, there are superhero bees.
+P4	Super bees, who fly around in water just as easily...
+P5	...as they can fly in the air!
+P6	In my imagination, flowers grow in boots and sing.
+P7	In my imagination, every child has ice cream for supper...
+P8	...and then falls asleep as flowers sing to a purple moon.
+
+images:
+
+illustrations/pages/28909.png
+illustrations/pages/28911.png
+illustrations/pages/28912.png
+illustrations/pages/28914.png
+illustrations/pages/28913.png
+illustrations/pages/28908.png
+illustrations/pages/28917.png
+illustrations/pages/28918.png
+illustrations/pages/28916.png
+
+translations:
+
+Kiswahili (Translation)	Katika mawazo yangu	id=33609

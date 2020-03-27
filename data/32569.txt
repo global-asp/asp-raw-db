@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=32569&d=0&a=1
+id:	32569
+title:	Ikemezo k'ingirakamaro
+author:	Patrick  Munyurangabo
+artist:	Vusi Malindi
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32569.png
+desc:	Umudugudu wacu wari ufite ibibazo byinshi. Dada azenguruka ingo zose akangurira abaturage kwitabira inama yumudugudu yafashe ibyemezo byo kwikemurira ibibazo.
+
+page_text:
+
+P1	Umudugudu wacu wari ufite ibibazo byinshi. Twatoraga umurongo muremure dutegereje kuvoma kuri robine imwe twari dufite.
+P2	Twari twaramenyereye ibiryo duhawe n'abagiraneza.
+P3	Twafungaga amazu yacu hakiri kare kubera abajura.
+P4	Abana benshi bari barataye ishuri.
+P5	Abakobwa bakoraga akazi ko mu rugo mu yindi midugudu.
+P6	Abahungu b'ingimbi birirwaga bazerera, cyangwa bagakora mu mirima ya rubanda.
+P7	Iyo umuyaga yahuhaga, imyanda y'ibipapuro yanyanyagiraga hirya no hino mu mashami y'ibiti no mu nzitiro.
+P8	Ibimene by'ibirahure byapfaga kujugunywa hirya no hino  byakomeretsaga abantu.
+P9	Umunsi umwe rero, reka robine yacu izakame n'ibigega bishiremo amazi.
+P10	Ubwo Dada yarahagurutse. Azenguruka ingo zose, akangurira abaturage kwitabira inama y'umudugudu.
+P11	Ubwo abaturage bose bateranira munsi y'igiti k'inganzamarumbu bamutega amatwi.
+P12	Data yarahagurutse aravuga ati: "Tugomba gukorera hamwe tugakemura ibibazo byacu."
+P13	Umwana w'imyaka umunani witwa Juma yiyicariye mu giti avuga aranguruye ijwi ati: "Nshobora kubafasha gukora isuku."
+P14	Umugore umwe aravuga ati: "Abagore dushobora kwishyira hamwe tugahinga ibyo kurya."
+P15	Undi mugabo arahaguruka aravuga ati: "Abagabo tuzafukura iriba."
+P16	Twese twavugiye icyarimwe tuti: "Tugomba guhindura ubuzima bwacu." Kuva uwo munsi, twakoreye hamwe duskemura ibibazo byacu.
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/10609.png
+illustrations/pages/10616.png
+illustrations/pages/10614.png
+illustrations/pages/10611.png
+illustrations/pages/10613.png
+illustrations/pages/10615.png
+illustrations/pages/10617.png
+illustrations/pages/10612.png
+illustrations/pages/10610.png
+illustrations/pages/10618.png
+illustrations/pages/10619.png
+illustrations/pages/10620.png
+illustrations/pages/10621.png
+illustrations/pages/10623.png
+illustrations/pages/10624.png
+illustrations/pages/10625.png
+
+translations:
+
+Amharic (Translation)	ውሣኔ	id=22401
+Arabic (Translation)	القرار	id=21813
+English (Translation)	Decision	id=13304
+English (Adaptation)	(Colour-in) Decision	id=32497
+Kῖmῖῖrũ  (Translation)	Kũgiita ĩgamba	id=32827
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344
+Kiswahili (Adaptation)	(Paka rangi) Uamuzi	id=33359
+Lusoga (Translation)	Okusalagho	id=25741
+Ng’aturkana (Translation)	Atiakun Akiroit	id=20496
+Tiv (Translation)	Ijogh-zwa	id=32801

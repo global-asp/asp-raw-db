@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33792&d=0&a=1
+id:	33792
+title:	Boleke maipatile
+author:	Maria Vaz
+artist:	Mary  Z
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33792.png
+desc:	Thabo ya tlholo ha o sa fumanwa ha ho bapalwa boleke maipatile. Pale le ditshwantsho di qapuwe ke mokgatlo wa Sophiatown Community Psychological Services
+
+page_text:
+
+P1	Aubuti wa ka o ne a tla a tlilo mpatla.
+P2	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12…@@…92, 93, 94, 95, 96, 100!
+P3	Ke ne ke ipatile kamora kgaretene.
+P4	O ile a mpatla hohle ho potoloha ntlo, empa a se ke a mphumana.
+P5	A kena ka kamoreng eo ke neng ke ipatile ka ho yona.
+P6	Ke ne ke thotse tu! Mme ke sa sisinyehe.@@Ke ile  ke nahana, "O tlilo mphumana."
+P7	Empa ha a ka ba a mpona, yaba o tswela kantle.
+P8	Ka tswa ke matha! Ka hweletsa ka re, "Ha o a mphumana!"@@"Kahoo ke hlotse!"
+
+images:
+
+illustrations/pages/91400133.png
+illustrations/pages/91400137.png
+illustrations/pages/91400133.png
+illustrations/pages/91400134.png
+illustrations/pages/91400135.png
+illustrations/pages/91400136.png
+illustrations/pages/91400132.png
+
+translations:
+
+English (Original)	Hide and Seek	id=33737
+French (Translation)	Cache - Cache	id=33851
+isiZulu (Translation)	Sidlala umacashelana	id=33776
+Kiswahili (Translation)	Kucheza Kidalipo	id=33838
+Lingala (Translation)	Kobatama pe komona	id=33807

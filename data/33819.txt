@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=33819&d=0&a=1
+id:	33819
+title:	Caméléon fait la course contre Lapin
+author:	Zanne Viljoen
+artist:	Gavin  Thomson
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33819.png
+desc:	Un conte traditionnel Lomwe du nord du Mozambique.  Comment Caméléon surpasse son rival
+
+page_text:
+
+P1	Un jour, Caméléon a lancé un défi à Lapin pour voir qui était le plus rapide.
+P2	Lapin a accepté et a dit : "Tu es si lent ! Tu commences avec un pied, puis tu t'arrêtes et tu commences avec l'autre."@@Il s'est vanté, "Je vais te laisser loin derrière moi. Tu ne m'attraperas jamais !"
+P3	Ils ont invité tous les animaux à venir voir la course.
+P4	Caméléon et Lapin se sont alignés au départ et ont attendu le signal.
+P5	Au moment où la course a commencé, Caméléon a sauté sur la queue de Lapin.
+P6	Les animaux ont beaucoup rigolé.@@Lapin n'a pas remarqué que Caméléon était sur sa queue.
+P7	En entendant un bruit, Lapin a glissé pour s'arrêter. Caméléon a sauté de la queue de Lapin.@@"Hé, regarde où tu vas ! Il était temps que tu arrives", a crié Caméléon à Lapin.
+P8	Lapin était stupéfait. Il s'est remis à courir.@@Il ne savait pas que Caméléon avait encore une fois sauté sur sa queue.
+P9	Alors que Lapin s'approchait de la ligne d'arrivée, les animaux ont vu que Caméléon était toujours sur la queue de Lapin. Ils ont applaudi et ri.@@Lapin a entendu le bruit et a pensé que Caméléon était déjà arrivé devant lui.
+P10	Quand ils sont arrivés à la ligne d'arrivée, Caméléon a sauté de la queue de Lapin.@@"Ne me marche pas dessus ! Je suis arrivé le premier !" Caméléon a engueulé Lapin.
+P11	Lapin est parti en furie.@@Caméléon est resté pour recevoir le prix, et Lapin a perdu.
+
+images:
+
+illustrations/pages/28203.png
+illustrations/pages/28195.png
+illustrations/pages/28196.png
+illustrations/pages/28197.png
+illustrations/pages/28198.png
+illustrations/pages/28199.png
+illustrations/pages/28200.png
+illustrations/pages/27258.png
+illustrations/pages/27259.png
+illustrations/pages/28203.png
+illustrations/pages/28204.png
+illustrations/pages/28205.png
+
+translations:
+
+Afrikaans (Translation)	Verkleurmannetjie Jaag Haas	id=32269
+Cinyungwe (Translation)	Dwidwi na Sulo	id=31518
+Ciyawo (Translation)	A-Citagamulo na a-Kalunga	id=31524
+Elomwe (Translation)	Namanriya Opaka Wawe Mapokha nNamarokolo	id=31522
+Emakhuwa (Translation)	Ovaanyihana wa Namanriya  ni Namarokolo	id=31523
+English (Original)	Chameleon Races Rabbit	id=31355
+Portuguese (Translation)	O Camaleão e o Coelho	id=31510

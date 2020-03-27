@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=32354&d=0&a=1
+id:	32354
+title:	Jesus Feeds the Multitude
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32354.png
+desc:	A miracle of Jesus from Matthew 14 in which he solves a big problem using something very small.
+
+page_text:
+
+P1	Jesus' disciples said to him, "Send the crowds away so they can buy food."
+P2	"You give them something to eat," Jesus said.
+P3	They said, "We have only five loaves and two fish."
+P4	"Bring them here to me," Jesus replied.
+P5	Jesus gave thanks and the disciples gave the food to the crowds.
+P6	Everyone ate and was satisfied. Those who ate were more than five thousand.
+
+images:
+
+illustrations/pages/28063.png
+illustrations/pages/28069.png
+illustrations/pages/28068.png
+illustrations/pages/28067.png
+illustrations/pages/28066.png
+illustrations/pages/28070.png
+illustrations/pages/28062.png
+illustrations/pages/28064.png
+
+translations:
+

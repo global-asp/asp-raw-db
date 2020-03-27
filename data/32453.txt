@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=32453&d=0&a=1
+id:	32453
+title:	(Colour-in) What are you doing?
+author:	Ingrid Schechter
+artist:	Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32453.png
+desc:	Short sentences using simple present tense verbs.
+
+page_text:
+
+P1	I am singing.
+P2	She is waving.
+P3	I am clapping.
+P4	She is stretching.
+P5	He is calling.
+P6	I am answering.
+P7	She is listening.
+P8	What are you doing?
+
+images:
+
+illustrations/pages/17138.png
+illustrations/pages/28260.png
+illustrations/pages/28261.png
+illustrations/pages/28262.png
+illustrations/pages/28263.png
+illustrations/pages/28264.png
+illustrations/pages/28265.png
+illustrations/pages/28266.png
+illustrations/pages/28267.png
+
+translations:
+
+Afaan Oromo (Translation)	Maal Hojjechaa Jirta?	id=13709
+Afrikaans (Translation)	Wat Doen Jy?	id=11543
+Amharic (Translation)	ምን እየሠራህ ነው?	id=22389
+Arabic (Translation)	ماذا تفعل؟	id=21825
+English (Original)	What are you doing?	id=7292
+English (Translation)	What are you doing?	id=7718
+English (Translation)	What Are You Doing?	id=7721
+isiXhosa (Translation)	Wenza ntoni?	id=15035
+isiZulu (Adaptation)	Wenzani?	id=17101
+Kinyarwanda (Translation)	Uri gukora iki?	id=32617
+Kiswahili (Translation)	Unafanya Nini?	id=15711
+Lunyole (Translation)	Ohola Hiina?	id=13602
+Lunyole (Translation)	Ohola Hiina?	id=21099
+Lusoga (Translation)	Oli kukola ki?	id=25703
+Lusoga (Translation)	Oli kukola ki?	id=26291
+Mampruli (Translation)	Bɔ Ka I Niŋna?	id=21221
+Ng’aturkana (Translation)	Nyo Isubi Iyong?	id=9778
+Portuguese (Translation)	O Que É Que Estás a Fazer?	id=19219
+Sepedi (Translation)	O dira eng?	id=7692
+Tunisian (Translation)	Ċnuwwa Qāɛed Taɛmil?	id=15381

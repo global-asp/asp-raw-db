@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=33754&d=0&a=1
+id:	33754
+title:	Havilah's first book
+author:	Havilah Kpamkwase Werna and Mimi Werna
+artist:	Havilah Kpamkwase Werna
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33754.png
+desc:	Havilah drew all the illustrations and coloured them by herself. Daddy only helped with the horses legs
+
+page_text:
+
+P1	I live in a house.@@It shelters us from the rain, wind and sun.
+P2	We have cups in our house.@@We use them to drink water, tea, juice and smoothies.
+P3	We have flowers in our garden.@@They are pretty and smell nice too.
+P4	My brother and I ride our bicycles.@@ We have fun doing this.
+P5	If I had a horse, I would ride it to my castle.
+P6	I love my cat!@@I feed it cat food.
+P7	If I had a tortoise, I would feed it lettuce.
+P8	I see trucks on the road near my house.@@Trucks carry different things around.
+P9	I am a super hero.@@I have rainbow powers! @@I love bright rainbow colours!
+P10	I can enter a submarine.@@I can see water animals.
+P11	I can change shape. @@I can move easily.@@I can enter a mouse's home to visit.
+P12	Superheroes like to eat cake at parties. @@Cakes are sweet!
+
+images:
+
+illustrations/pages/28919.png
+illustrations/pages/28920.png
+illustrations/pages/28921.png
+illustrations/pages/28922.png
+illustrations/pages/28925.png
+illustrations/pages/28919.png
+illustrations/pages/28927.png
+illustrations/pages/28930.png
+illustrations/pages/28924.png
+illustrations/pages/28926.png
+illustrations/pages/28929.png
+illustrations/pages/28928.png
+illustrations/pages/28923.png
+
+translations:
+
+English (Original)	Things around me	id=32933

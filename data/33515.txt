@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33515&d=0&a=1
+id:	33515
+title:	Neo o fumana fariki ya hae
+author:	Maria Vaz
+artist:	Marion Drew
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33515.png
+desc:	Neo o lahlehetswe ke fariki ya hae ka phoso. Ekaba ho etsahetseng kamora moo?
+
+page_text:
+
+P1	Neo o palame baesekele le fariki ya hae.
+P2	A thula lejwe tseleng, fariki ya wela kwana, ya lla ya re, "Hoooi! hoooi!"
+P3	Tsotang a bona fariki ya Neo e ntse e solla, yaba o a ipotsa o re, "Ebe fariki ee ke ya mang?"
+P4	A e lelekisa a ba a e tshwara.
+P5	A nka fariki a e isa moreneng. Morena a mmolella hore  a e boloke.
+P6	Neo a utlwa sello, "Hmmm, hmmm, hmmm!"
+P7	A potela a ya sheba kamora ntlo, a thaba haholo ha a bona fariki ya hae.
+P8	Neo a bua le fariki ya hae a re, "Ha re ye, re ke ke ra hlola re palama baesekele hape."
+
+images:
+
+illustrations/pages/15918.png
+illustrations/pages/15916.png
+illustrations/pages/15917.png
+illustrations/pages/15918.png
+illustrations/pages/15920.png
+illustrations/pages/15919.png
+illustrations/pages/15921.png
+illustrations/pages/15923.png
+illustrations/pages/15924.png
+
+translations:
+
+English (Translation)	Neo finds her pig	id=15972
+Lusoga (Translation)	Niye  yabona  Embiidhi  ye	id=27942
+Lusoga (Translation)	Naira ayagaana embiidhiye	id=28279
+Sesotho (Lesotho) (Original)	Neo a fumana fariki ea hae	id=15970

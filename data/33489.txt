@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=33489&d=0&a=1
+id:	33489
+title:	okunsundu
+author:	Olga Nompumelelo
+artist:	Sue Kramer
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/33489.png
+desc:	Lencwadi iqukethe izincazelo zemisho neezithombe zansuku zonke ezinsundu.
+
+page_text:
+
+P1	ukuqhekeka kwesigodo esinsundu.
+P2	Ibhubesi elipendwe ngokunsundu.
+P3	isinkwa esinsundu esithambile.
+P4	Amakhekhe  aconsisa amathe ansundu.
+P5	amaguzu amadala ansundu
+P6	inyathi ecwebezelayo ensundu.
+P7	isigqoko esinsundu sensonto.
+P8	inja ebushelelezi ensundu.
+P9	udaka oluncolile olunsundu.
+P10	isikhumba esimanzi esinsundu.
+P11	Futhi yini lokhu?U buso obuhlanzekile esibukweni esincolile.
+
+images:
+
+illustrations/pages/2617.png
+illustrations/pages/2618.png
+illustrations/pages/2619.png
+illustrations/pages/2620.png
+illustrations/pages/2621.png
+illustrations/pages/2622.png
+illustrations/pages/2624.png
+illustrations/pages/2625.png
+illustrations/pages/2626.png
+illustrations/pages/2627.png
+illustrations/pages/2628.png
+illustrations/pages/2629.png
+
+translations:
+
+English (Original)	Brown	id=2631
+isiXhosa (Translation)	Umbala omdaka	id=7255
+Kiswahili (Translation)	Kahawia	id=2632
+Lugbarati (Translation)	Okalakukala	id=7240
+Lugbarati (Official) (Translation)	Òkàlàkʉ̀kàlà	id=8757
+Lusoga (Translation)	Kitakataka	id=26215
+Lusoga (Translation)	kitakataka	id=28501
+Maa (Translation)	Múgíé	id=2767
+Ng’aturkana (Translation)	Niong'or	id=2746
+Ng’aturkana (Translation)	Eng’Or	id=8740
+Oluwanga (Translation)	Olukusi	id=8739

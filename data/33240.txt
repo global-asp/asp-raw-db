@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=33240&d=0&a=1
+id:	33240
+title:	Musamariya a Ikharari
+author:	Little Zebra Books
+artist:	Tamsin  Hinrichsen
+lang:	Elomwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33240.png
+desc:	A parábola do bom samaritano
+
+page_text:
+
+P1	Luuka 10:25-37@@Muhusiha a malamulo aamukoha Yeesu: "Kinakhwela okumi owo woohimala Muluku onavaheiye. Keere esheeni?"@@Yeesu aamwaakhula: "Malamulo a Muluku aniihayi?"
+P2	Muhusiha yoole aahi: "Omukhweleke Muluku ni murima woothene. Onamukhwela mukhwaa ntoko yoowe mwaneene."
+P3	Yeesu aaheemererya.@@Muhusiha aamukoha Yeesu: "Mukhwaaka taani?" Tiwi vaiye iseera aphaama.@@Yeesu aamuhusiha mwaha ola:
+P4	Mulopwana mmoha aakhuma oYerusalemu ayaaka oYeeriko. Ahaaphwanya anawiiye mphironi emphara mulopwana yoole. Emmana, emwaakha ichu sawe soothene, emphoreiha. Uuwela mukhice wa mphiro aakhala ntoko ookhweene. Anawiiye yaale, echawa.
+P5	Aavira vaavale mulipa a mukucho. Amoona yoole nto heemenleru.
+P6	Aavira muLeevi ola tho heemenle.
+P7	Aavira tho mulopwana a oSamariya. Musamariya yoole haavekela. Amphwanya mulopwana yoole aphoren'yesha.
+P8	Amoriwano ikharari eemela. Akumiha murece mmurupani mwawe. Arapiha makhwaca awe. Amuteesherya vapuuruni vawe. Musamariya yoole aaphiyano onipuroni na aleco. Aveka omuhayiha weiwe.
+P9	Amuliva mwaneene a empa yeele. Musamariya aahi: "Muneeraanyu mumvahe voopwaha ikhorowa iha, kaakookaka, kinamoolivaani."
+P10	Yeesu aamukoha: "Taani mwa yaale araru aari mukhwaawe oophoreihiwa ole?"@@Muhusiha aahaakhula: "Yoole aamoriwe ikhakari eemela arapiha makhwaca awe. Yoole aakokhonre amuhela murece."@@Yeesu aahi: "Weyo ohaakhula phaama. Hawe waweerele hiihaa achu akina. Weereno ntoko muSamariya."
+
+images:
+
+illustrations/pages/27518.png
+illustrations/pages/27459.png
+illustrations/pages/27458.png
+illustrations/pages/27518.png
+illustrations/pages/27462.png
+illustrations/pages/27463.png
+illustrations/pages/27464.png
+illustrations/pages/27465.png
+illustrations/pages/27466.png
+illustrations/pages/27467.png
+illustrations/pages/27468.png
+
+translations:
+
+Cinyungwe (Translation)	Mwandzangu Mbani?	id=33239
+Emakhuwa (Translation)	Musamariya Ooreera Murima	id=33241
+English (Original)	Who Is My Neighbour?	id=16284
+Imeetto (Translation)	Nkhunanaka Tipani?	id=33242
+Lulamoogi (Translation)	Omulirwana ghange niiye ani?	id=31933
+Olunyaneka (Translation)	Ou Twelikalela Nae Popepi Olye?	id=31870
+Portuguese (Translation)	Quem É o Meu Próximo?	id=33238

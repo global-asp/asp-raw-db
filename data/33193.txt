@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33193&d=0&a=1
+id:	33193
+title:	Xamwali Wakubwera Usiku
+author:	Little Zebra Books
+artist:	Magriet Brink and Leo Daly
+lang:	Cinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33193.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 11:1-10@@Ntsiku inango Jezu akhapemba pambuto ibodzi. Pomwe adamala kupembako, mteweri wace m'bodzi adamuuza kuti: "Mbuya, tipfundzisenimbo kupemba, ninga momwe Juwau akhapfundzisira ateweri wace."@@Ndipo iye adawauza kuti:
+P2	"Mukapemba mbalewani kuti: Baba, dzina lanu likhale na mbiri. Umambo bwanu bubwere. Tipaseni cakudya cathu ca ntsiku zentse. Mutirekerere bzakuipa bzathu, ninga ifembo tinirekerera wale omwe ambatiphonyera. Ndipo lekani kutisiyira kuti tipumpsidwe."
+P3	Ndipo Jezu adawauza kuti—@@Mbani wa imwepo omwe acikhala na xamwali wace acidzamugugudzira pakati pa usiku acimuuza kuti:
+P4	"Ndikukumbirembo pau. Nakuti ndatambira mulendo ndipo ndiribe cakumupasa."
+P5	Ndipo xamwali waceyo acimutawira ali m'nyumba kuti: "Leka kundinesa! Nakuti ine ndafunga kale msuwo. Ine na wana wangu tagona kale. Na tenepo, ine-pano ningamuke lini kuti ndidzakupase cinthu."
+P6	Tsono dziwani kuti napo akasaya kumuka kuti amupase nakuti ni xamwali wace, iye an'dzalamuka basi thangwe la kumunesa nthawe imweire. Ndipo iye an'dzamupasa bzentse bzomwe iye an'funa.
+P7	Na tenepo, ndinikuuzani kuti kumbirani, ndipo mun'dzapasidwa. Nyang'anani, ndipo mun'dzabziwona. Gugudzani, ndipo mun'dzakufunguliridwa.
+P8	Nakuti munthu wentse omwe an'kumbira ambapasidwa. Na ule omwe ambanyang'ana ambabziwona. Na ulembo omwe ambagugudza ambafunguliridwa.
+
+images:
+
+illustrations/pages/27427.png
+illustrations/pages/27457.png
+illustrations/pages/27428.png
+illustrations/pages/26580.png
+illustrations/pages/26579.png
+illustrations/pages/26581.png
+illustrations/pages/26582.png
+illustrations/pages/27429.png
+illustrations/pages/15753.png
+illustrations/pages/27430.png
+
+translations:
+
+Cisena (Translation)	Xamwali Anabwera na Masiku	id=31885
+English (Original)	Friend at Night	id=31689
+Imeetto (Translation)	Mpwana Owuukhumelela Pufya	id=33192
+Portuguese (Translation)	O Amigo Que Vem à Noite	id=31884

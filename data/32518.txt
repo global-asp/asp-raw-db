@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=32518&d=0&a=1
+id:	32518
+title:	(Colour-in) Andiswa soccer star
+author:	Ingrid Schechter
+artist:	Eden Daniels
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32518.png
+desc:	Andiswa really wants to play soccer with the school team
+
+page_text:
+
+P1	Andiswa watched the boys play soccer. She wished that she could join them. She asked the coach if she could practise with them.
+P2	The coach put his hands on his hips. "At this school,  only boys are allowed to play soccer," he said.
+P3	The boys told her to go and play netball. They said that netball is for girls and soccer is for boys. @@Andiswa was upset.
+P4	The next day, the school had a big soccer match. The coach was worried because his best player was sick and could not play.
+P5	Andiswa begged the coach, "Please, let me play." @@The coach was not sure what to do. Then he decided that Andiswa could join the team.
+P6	The game was tough. Nobody had scored a goal by half time.
+P7	During the second half of the match, Andiswa got the ball. She moved very fast towards the goal post. @@Andiswa kicked the ball hard and scored a goal.
+P8	The crowd went wild with joy. @@Since that day, girls were also allowed to play soccer at the school.
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/28431.png
+illustrations/pages/28432.png
+illustrations/pages/28433.png
+illustrations/pages/28434.png
+illustrations/pages/28430.png
+illustrations/pages/28435.png
+illustrations/pages/28436.png
+illustrations/pages/28437.png
+
+translations:
+
+Amharic (Translation)	አዲሴ - የእግር ኳስ ኮከቧ	id=12962
+Arabic (Translation)	أنديسوا نجمة كرة القدم	id=21859
+English (Original)	Andiswa soccer star	id=5283
+Hausa (Nigeria) (Translation)	Delu Ƙwararriyar 'Yarwasan Kwallon Ƙafa	id=20760
+Hausa (Nigeria) (Translation)	Delu Qwararriyar 'yar  wasar Qwallon qafa	id=22076
+Kinyarwanda (Translation)	Mukamurenzi Umusitari w'umupira w'amaguru	id=32563
+Lhukonzo (Translation)	Andiswa omusathi owomupira	id=22378
+Lusoga (Translation)	Andiswa Omuzaanhi Owo  Mupiira	id=21371
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=16757
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Tigrigna (Translation)	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ	id=18977
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

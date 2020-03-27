@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33775&d=0&a=1
+id:	33775
+title:	Ingadi esayishiya eCongo
+author:	Zanele Zuma
+artist:	Christelle  X
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33775.png
+desc:	Lo mbhali osemncane uxoxa ngendlu nengadi abakushiya ekhaya kubo eCongo. (Indaba nemifanekiso kwaqanjwa engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Lendlu iseCongo.@@Ngiyithanda kakhulu.
+P2	Sasinendlu encane okungeyethu.@	@Sinendlu yethu yokugeza.
+P3	Sasinengadi.@ @Ngangizitshalela mina mathupha engadini.
+P4	Umama wayethi, "Ngikufundisa ukutshala ngoba nomama wami wangifundisa."
+P5	Ngangitshala utamatisi nesipinashi. @@Ngitshala mina mathupha.
+P6	Nganginikeza umama utamatisi bese ethi, "Ngiyabonga."
+P7	Sayishiya leyo ndlu.
+P8	Asinayo ingadi lapha eNingizimu Afrika.
+
+images:
+
+illustrations/pages/91400127.png
+illustrations/pages/91400125.png
+illustrations/pages/91400126.png
+illustrations/pages/91400127.png
+illustrations/pages/91400128.png
+illustrations/pages/91400129.png
+illustrations/pages/91400130.png
+illustrations/pages/91400131.png
+
+translations:
+
+English (Original)	A garden in Congo	id=33736
+French (Translation)	Jardin au Congo	id=33850
+French (Translation)	Un jardin au Congo	id=33866
+Kiswahili (Translation)	Bustani yetu kule Kongo	id=33837
+Lingala (Translation)	Bilanga na Congo	id=33806
+Sesotho (South Africa) (Translation)	Tshimo e Congo	id=33791

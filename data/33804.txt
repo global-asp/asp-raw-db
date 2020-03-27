@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33804&d=0&a=1
+id:	33804
+title:	Bwa ya Dennis
+author:	Theresa  Nyemba
+artist:	Merdi  K
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33804.png
+desc:	Bwa ya sika ya Dennis asubeli baniinga na ye na sapatu! (Lisapo oyo esalemaki na sanza ya motoba ya mobu tuku mibale na zomi na libwa na tango ya bopemi
+
+page_text:
+
+P1	Moninga na ngai Dennis abengi ngai.@@"Yaka omona bwa na ngai ya sika," elobi Dennis.
+P2	Mbwa azalaki na mbuma ya moyindo pe mutu monene.@@Ebangisaki ngai!@@Nazalaki kobanga te azwua ngai.
+P3	Tomemi bwa ya sika kokende, kotambola Dennis na ngai.
+P4	Bwa azalaki koningisa mokili.
+P5	Azalaki kobaye!
+P6	Asubeli ngai!@@Na sapato!@@Yuuuk!
+P7	Dennis azwui eteni ya likasa pe apangusi masuba.
+P8	Namoni te Dennis azalaki moninga malamu po na ngai.
+
+images:
+
+illustrations/pages/85940115.png
+illustrations/pages/85940114.png
+illustrations/pages/85940115.png
+illustrations/pages/85940116.png
+illustrations/pages/85940117.png
+illustrations/pages/85940118.png
+illustrations/pages/85940119.png
+illustrations/pages/85940120.png
+illustrations/pages/85940121.png
+
+translations:
+
+English (Original)	Dennis's dog	id=33721
+French (Translation)	Le chien de Dennis	id=33727
+Gikuyu (Translation)	Ngui ya Dennis	id=33860
+isiZulu (Translation)	Inja kaDennis	id=33773
+Kiswahili (Translation)	Mbwa wa Dennis	id=33726
+Sesotho (South Africa) (Translation)	Ntja ya Dennis	id=33789

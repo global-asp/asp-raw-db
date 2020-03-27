@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=32307&d=0&a=1
+id:	32307
+title:	Umugabo w'igisambo
+author:	Jean Paul Harelimana
+artist:	Alex Zablon
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32307.png
+desc:	Hari umugabo witwaga Nzitunga wagiraga inda nini. Inda ye yaje kumukoza isoni mu ruhame bituma afata umwanzuro wo kutongera kurangwa ninda nini.
+
+page_text:
+
+P1	Kera mu mudugudu w' Ubumwe hari hatuye umugabo witwaga Nzitunga. Nzitunga yakundaga kurya cyane. Yakundaga kurya inyama.
+P2	Umunsi umwe, umuyobozi w'umudugudu yatumiye abaturage mu bukwe bw'umuhungu we.
+P3	Nzitunga yumvise abantu bavuga iby'ubundi bukwe buzabera hafi y'iwabo mu mudugudu w'Indatwa. Nzitunga yariyumviriye ati: "Ubukwe bubiri ku munsi umwe!"
+P4	Nzitunga yaribwiye ati: "Ngomba kujya muri ubu bukwe bwombi nta kabuza. Nzabanza mu bukwe buzabera mu mudugudu w' Indatwa hanyuma ngaruke mu mudugudu w'Ubumwe."
+P5	Nzitunga yarazindutse mu gitondo kare ajya mu mudugudu w'Indatwa ahageze asanga baracyategura ibyo guteka, maze aravuga ati: "Reka nsubire mu Bumwe, mu Ndatwa ndahagaruka nyuma."
+P6	Nzitunga yerekeje mu mudugudu w'Ubumwe yizeye ko asanga inyama zamaze gushya. Yari ashonje cyane. Ahageze, yasanze abantu baho nabo bagitegura ibyo guteka.
+P7	Yaratekereje ati: "Igihe navaga mu Ndatwa bari batangiye guteka, bivuze ko ubu ibyo kurya byatunganye. Nzitunga yahise yerekeza mu Ndatwa ahagera ashonje.
+P8	Nzitunga yarahageze asanga abantu bamaze kurya abatumirwa barimo guha impano umukwe n'umugeni. Nzitunga nta mpano yari afite, yishakiraga ibiryo.
+P9	Nzitunga yaciwe intege no kubura ibyo kurya. Yafashe umwanzuro wo kugaruka mu mudugudu w' Ubumwe. Yari ashonje cyane kandi agenda buhoro buhoro kubera umunaniro.
+P10	Ageze mu Bumwe, yasanze abantu bari kuririmba no kubyina. Ibyo kurya byose bari babimaze kare.
+P11	Nzitunga yacitse intege yikubita hasi ata ubwenge yumvise ko ntacyo kurya gihari. Yabuze inyama muri ubwo bukwe bwombi. Abari mu bukwe bamuramije igikoma mu gakombe gatoya. Nzitunga yabasobanuriye uko byamugendekeye kugeza yituye hasi.
+P12	Abari aho bose bamuhaye inkwenene. Baramugaye cyane kubera inda nini ye yamutamaje. Nzitunga yasubiye i muhira ashonje cyane kandi afite isoni nyinshi. Kuva ubwo Nzitunga ntiyongeye kurangwa n'inda nini.
+
+images:
+
+illustrations/pages/9128.png
+illustrations/pages/9128.png
+illustrations/pages/9129.png
+illustrations/pages/9130.png
+illustrations/pages/9131.png
+illustrations/pages/9132.png
+illustrations/pages/9134.png
+illustrations/pages/9135.png
+illustrations/pages/9136.png
+illustrations/pages/9137.png
+illustrations/pages/9138.png
+illustrations/pages/9139.png
+illustrations/pages/9140.png
+
+translations:
+
+0 (Translation)	Kiundu Difudepɛfo No	id=18459
+Acholi (Translation)	Lawany Kiundu	id=23960
+Amharic (Translation)	ገብጋባው ክንዴ	id=12003
+Asante Twi (Translation)	Adifudepɛfoɔ Kiundu	id=18279
+Dagaare (Translation)	Kiundu, Bundi-Gbogbo Soba	id=17771
+Dagbani/Dagbanli (Translation)	Kiundu Biɛmlana	id=18150
+Dangme (Translation)	Kiundu Komdodomitsɛ	id=18340
+Dhopadhola (Translation)	Otoyo Jaworo	id=15757
+English (Original)	Greedy Kiundu	id=9133
+English (Adaptation)	Greedy  Mairu	id=10264
+Ewe (Translation)	Kiundu Ɖokuitɔdila	id=18180
+Fante (Translation)	Kiundu Onyibernyi	id=18489
+Ga (Translation)	Saki Hiɛjoolɔ	id=18291
+Gonja (Translation)	Kiundu Kajɛ Wura	id=18212
+Kasem (Translation)	Kiundu Na Ye Wochanyeno	id=18225
+Lunyole (Translation)	Hiyubi  Ow'ogulyerye	id=11614
+Lusoga (Translation)	Kiyungu Ow'omululu	id=24818
+Mampruli (Translation)	Kiundu Beemdaana	id=19320
+Ng’aturkana (Translation)	Kiundu Lokarorokanan	id=9771
+Nzema (Translation)	Kiundu, Aleɛ Kpole Ne	id=18424
+Portuguese (Translation)	Kiundu Guloso	id=16439
+Rufumbira (Translation)	Kiundu w' Umururumba	id=22761
+Sesotho (Lesotho) (Translation)	Ntate Meharo O Meharo	id=10626
+Sesotho (South Africa) (Translation)	Kiundu ya meharo	id=33525
+Setswana (Translation)	Megagaru Ya Ga Abele	id=14961
+Talen (Translation)	Poraong Kiundu	id=20362

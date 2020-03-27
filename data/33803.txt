@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33803&d=0&a=1
+id:	33803
+title:	Ba niama oyo tomoni
+author:	Theresa  Nyemba
+artist:	Penuel  K
+lang:	Lingala
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33803.png
+desc:	Mobembo na libota na ngai pona kokende kotala ba niama. (Lisapo na bandakisa oyo ezalamaki na sanza ya motoba na mobu tuku mibale na zomi na libwa na tango ya bopemi
+
+page_text:
+
+P1	Oyo ezali libota na ngai.@@Noko na ngai, mwana ya mama leki na ngai, mama na ngai, bandeko na ngai mibale ya basi, (oyo tango inso balataka ndenge moko), nkana na ngai ya mobali, pe ngai!
+P2	Oyo libota na ngai na mutuka ya monene pona kokende kotala ba niama.@@Ezalaki mama leki na ngai, mama na ngai, nkana na ngai ya mobali, bandeko na ngai mibale ya basi (oyo mbala inso balataka ndenge moko), na ngai!
+P3	Tomoni ba niama na kati ya motuka monene oyo ememaki biso.
+P4	Tomonaki dikala.
+P5	Tomonaki mboloko.
+P6	Tomonaki ntambwe.
+P7	Tomonaki lisusu nzoko.@@Bongo tosekaki, tosekaki makasi nzoko, pamba te...
+P8	...nzoko yango apumbwaki likolo ya nzete!
+
+images:
+
+illustrations/pages/85940108.png
+illustrations/pages/85940106.png
+illustrations/pages/85940107.png
+illustrations/pages/85940108.png
+illustrations/pages/85940109.png
+illustrations/pages/85940110.png
+illustrations/pages/85940111.png
+illustrations/pages/85940112.png
+illustrations/pages/85940113.png
+
+translations:
+
+English (Original)	Animals we saw	id=33720
+French (Translation)	Des animaux que nous avons vus	id=33844
+isiZulu (Translation)	Izilwane esazibona	id=33772
+Kiswahili (Translation)	Wanyama tulioona	id=33725
+Lulogoli  (Translation)	Zinyama zia kwarora	id=33728
+Sesotho (South Africa) (Translation)	Diphoofolo tseo re di boneng	id=33788

@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=32907&d=0&a=1
+id:	32907
+title:	Lo ke losika lwa ga Mara
+author:	Lesedi  Magano
+artist:	Zito Jorge Ngovene
+lang:	Setswana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32907.png
+desc:	Losika lwa ga Mara lo ntse jaana. O nna le Mmaagwe
+
+page_text:
+
+P1	Yo ke Mara.
+P2	Lo ke losika lwa ga Mara.
+P3	Yo ke mogoloaagwe Mara.@@Mogolwaagwe o tshameka kgwele ya dinao.
+P4	Yo ke kgaitsadiaagwe Mara.@@Kgaitsadie o robetse.
+P5	This is Mara's mother.@@Her mother is cooking food.
+P6	Yo ke rraagwe Mara.@@O aga ntlo.
+P7	Yo ke nkokwaage Mara.@@O ntse ka fa tlase ga setlhare.
+
+images:
+
+illustrations/pages/28024.png
+illustrations/pages/28018.png
+illustrations/pages/28024.png
+illustrations/pages/28019.png
+illustrations/pages/28020.png
+illustrations/pages/28021.png
+illustrations/pages/28022.png
+illustrations/pages/28023.png
+
+translations:
+
+English (Adaptation)	This is Mara's family	id=32409
+Sepedi (Translation)	Le ke lapa la boMara	id=32884

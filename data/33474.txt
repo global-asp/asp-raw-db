@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33474&d=0&a=1
+id:	33474
+title:	Edewuro
+author:	Kapanga  Hesron
+artist:	Melany Pietersen
+lang:	Rukwangali
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33474.png
+desc:	Edewuro musinke no pa ogu mumati gomakurulya anamana kulya enyango lyenzi.
+
+page_text:
+
+P1	Ezuva limwe onane kwarende enyango lyokulisiga-siga.
+P2	"Ruveze musinke natu lya eli enyango?" Tatupura.@@Natulilya masiku, "Yimo valimbwilire onane."
+P3	Mukurwange Rahim age makurulya.@@Age kwa makerere enyango nalinye. Kumwe nokulya enyango lyenzi.
+P4	"Tareni eyi arugana Rahim!'' Yimo gazigilire mumbyange gomunona gomumati.@@"Rahim utwini ntani udumbe," tani mutantere.
+P5	Onane kwamuhandukilire Rahim.
+P6	Nose hena kwamuhandukilire Rahim.@@Mara age Rahim kapi galizuvhire yoyidona.
+P7	Kapi nomukamutengeka Rahim? Tapura mumbya gomunona gomumati.
+P8	"Rahim, ntaantani okalivere," yimo vamurondwere Onane.
+P9	Makura Rahim age yipo gaverekere kuvera.
+P10	Rahim Tawowota asi, "Mezimo lyange kunakukora."
+P11	Onane vayidivire asi morwasinke ana kuverera Rahim.@@"Enyango kuna kumudewura Rahim," yimo vagazarere onane.
+P12	Konyima, Rahim tatupe mbili. "Kapi ngani kara hena makurulya," taligana.@@Twapulire nonkango dendi.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	(Paka rangi) Adhabu	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402

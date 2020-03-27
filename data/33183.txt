@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=33183&d=0&a=1
+id:	33183
+title:	Proverbs of the Nyungwe People
+author:	Little Zebra Books
+artist:	Max  Okoto
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33183.png
+desc:	Traditional wisdom from the Nyungwe people of Mozambique
+
+page_text:
+
+P1	To kill a baboon, you must have dry eyes.
+P2	The dog that barks doesn't bite.
+P3	When hippos fight, it's the grass that suffers.
+P4	The chick dirties the nest because that's what she sees her mother do.
+P5	Don't say that there's an elephant there when you're up on my shoulders.
+P6	A frog and a toad are both born the same way.
+P7	A single fingernail cannot kill a flea.
+P8	The lion that doesn't have meat eats grass.
+P9	It's the little goat in the back of the flock that gets the stick.
+P10	You're afraid of the dark when there are not even hyenas.
+P11	The chameleon dies of shame.
+P12	To see the eyes of a snail you must wait.
+P13	Laugh at the turtle, but he's the one that has water.
+P14	It's the visitor that kills the snake.
+P15	The hyena that howls in the fields does not eat millet.
+P16	The man-eating lion does not go out at night.
+
+images:
+
+illustrations/pages/28152.png
+illustrations/pages/28156.png
+illustrations/pages/28154.png
+illustrations/pages/28159.png
+illustrations/pages/28153.png
+illustrations/pages/28155.png
+illustrations/pages/28167.png
+illustrations/pages/28157.png
+illustrations/pages/28163.png
+illustrations/pages/28158.png
+illustrations/pages/28161.png
+illustrations/pages/28152.png
+illustrations/pages/28164.png
+illustrations/pages/28166.png
+illustrations/pages/28165.png
+illustrations/pages/28160.png
+illustrations/pages/28162.png
+
+translations:
+
+Cinyungwe (Original)	Mimwani ya Anyungwe	id=32362
+Portuguese (Translation)	Provérbios do Povo Nyungwe	id=33184

@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33146&d=0&a=1
+id:	33146
+title:	No Pigs Allowed
+author:	Basilio Gimo
+artist:	Laura Liberatore
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33146.png
+desc:	Pig wants to go to the party
+
+page_text:
+
+P1	Years ago, a group of horned animals decided to have a big party high up in the mountains. @@They only invited other animals with horns. No one else.
+P2	When the pig heard about the party, he thought, "I don't have any horns. What am I going to do?"
+P3	The next day, he had an idea. He'd stick some horns to his head with wax!
+P4	It worked, and the pig felt very clever when he was allowed into the party. @@The problem was that the party was taking place close to the sun. @@When the party started heating up, the wax began to melt, and his horns fell off.
+P5	The horned animals were shocked. "Who's that one with no horns? Why did he come here?" they asked.
+P6	The king of the horned animals commanded, "Grab that pig and throw him down to earth." @@So all the animals, when they heard the king's words, did just that.
+P7	They grabbed the pig and threw him down to earth.@@Poor pig! When he fell, he landed on his nose. And his nose was flattened into a snout.
+P8	Their job done, all the other animals returned to the party. @@They ate and danced all night. And the king was happy.
+P9	The pig's flat snout has been that way ever since.
+
+images:
+
+illustrations/pages/85590282.png
+illustrations/pages/85590283.png
+illustrations/pages/85590284.png
+illustrations/pages/85590285.png
+illustrations/pages/85590286.png
+illustrations/pages/85590287.png
+illustrations/pages/85590288.png
+illustrations/pages/85590289.png
+illustrations/pages/85590290.png
+illustrations/pages/85590291.png
+illustrations/pages/85590292.png
+
+translations:
+
+Cinyungwe (Translation)	Cikondweso Kudzulu	id=33675
+Elomwe (Translation)	Efesta ya Ashinama a Manyaka	id=33672
+Emakhuwa (Translation)	Niira na Axinama Ookhala Manyaka	id=33673
+Imeetto (Translation)	Isikuhuulu Yooculu	id=33674
+Portuguese (Translation)	A Festa Nos Céus	id=33667

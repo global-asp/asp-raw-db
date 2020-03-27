@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=33745&d=0&a=1
+id:	33745
+title:	Heidi, my dog
+author:	Refilwe  Ramagoshi
+artist:	Tebogo Boikanyo Matshana
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33745.png
+desc:	Have you ever met such a dog as this one?
+
+page_text:
+
+P1	You have never met such a clever dog as Heidi. @@She thinks that she is a human.
+P2	When I brush my teeth, she also wants me to brush her teeth.
+P3	When I am watching television, she moves her eyes. @@It is as if she understands everything on the screen.
+P4	One night, we were watching a soccer match.@ @There was a knock on the door. @@It was my friend, Mmapula.
+P5	It was good to see her. We greeted each other in excitement.@@But, Mmapula didn't greet Heidi. @@I forgot to introduce them!
+P6	Heidi was used to being greeted by someone shaking her paw.@@She was very annoyed.@@We went to sit. But before I could offer Mmapula a chair, she sat down on Heidi's chair!
+P7	The dog could not take this nonsense. But she did not give me a chance to speak. @@In a blink of an eye, Heidi had jumped on Mmapula's lap. @@She barked at Mmapula, staring her in the eyes.
+P8	Heidi was fierce! Mmapula was in a dilemma.@@I acted quickly, and removed Heidi from her lap.@@But from that day, Mmapula never again set foot in my house.
+
+images:
+
+illustrations/pages/91400170.png
+illustrations/pages/91400165.png
+illustrations/pages/91400166.png
+illustrations/pages/91400167.png
+illustrations/pages/91400173.png
+illustrations/pages/91400174.png
+illustrations/pages/91400170.png
+illustrations/pages/91400171.png
+illustrations/pages/91400172.png
+
+translations:
+
+Setswana (Translation)	Ntšwa ya me, Heidi	id=33752

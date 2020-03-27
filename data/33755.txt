@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=33755&d=0&a=1
+id:	33755
+title:	Lazima kusitokee tena
+author:	Brigid Simiyu
+artist:	Suzette  T
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33755.png
+desc:	Mwandishi huyu mchanga anahofia familia yake. (Hadithi na picha zilitayarishwa katika warsha ya likizo ya Juni 2019
+
+page_text:
+
+P1	Mama yangu alikuwa akizungumza kwa simu.
+P2	Alisikia kwamba bibi yangu alikuwa amefariki.@@Mama alikuwa akilia sana.
+P3	Nilihuzunika sana, sana, sana.@@Sote tulianza kulia.@@Bibi alitupenda tulipokuwa hatuna mwingine yeyote aliyetupenda.
+P4	Watoto wake wote walikusanyika kumzika.@@Tulianza kusali. Lazima kusitokee tena jambo baya kwa mwingine wa familia yetu.
+
+images:
+
+illustrations/pages/91400163.png
+illustrations/pages/91400161.png
+illustrations/pages/91400162.png
+illustrations/pages/91400163.png
+illustrations/pages/91400164.png
+
+translations:
+
+English (Original)	Nothing must happen	id=33742
+French (Translation)	Rien ne doit se produire	id=33756
+isiZulu (Translation)	Sengathi kungenzeke lutho olubi	id=33781
+Lingala (Translation)	Eloko moko te ekokikokoma	id=33812
+Sesotho (South Africa) (Translation)	Ho se etsahale letho	id=33797

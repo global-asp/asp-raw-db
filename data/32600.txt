@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=32600&d=0&a=1
+id:	32600
+title:	Neema ananunua uzi
+author:	Ursula  Nafula
+artist:	Mirjam  Gyger
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32600.png
+desc:	Mfuate Neema anapokwenda sokoni kununua uzi.
+
+page_text:
+
+P1	Huyu ni Neema.@@Neema anashona.@@Neema anashona sketi.
+P2	Neema anatumia uzi kushona.@@Uzi umekwisha. Neema anahitaji kununua uzi zaidi.@@Neema anahitaji pesa za kununua uzi. Je, atazipata pesa hizo wapi?
+P3	Neema anaona mti karibu.@@Mti huo una matunda mabivu.@@Matunda hayo ni mapapai.
+P4	Neema anatafuta kijiti.@@Anatumia kijiti hicho kuangusha mapapai.
+P5	Neema anawasili sokoni.@@Neema amebeba mapapai kwenye uteo.@@Anataka kuuza mapapai hayo.
+P6	Mwanamume ananunua papai. Anampatia Neema pesa.@@Neema anauza mapapai mengi. Pesa atakazopata atatumia kununua uzi.
+P7	Anaona ndizi sokoni.@@Lakini, hanunui ndizi.
+P8	Anaona nyanya sokoni.@@Lakini, hanunui nyanya.
+P9	Anaona kichujio sokoni.@@Lakini, hanunui kichujio.
+P10	Anaona mkate sokoni.@@Lakini, hanunui mkate.
+P11	Kisha Neema anamwona mwanamume.@@Mwanamume huyo anauza uzi.@@Neema ananunua uzi.
+P12	Neema amepata uzi aliotaka! Amefurahi sana.@@Atamaliza kushona sketi yake kutumia uzi huo.
+
+images:
+
+illustrations/pages/27365.png
+illustrations/pages/27351.png
+illustrations/pages/27352.png
+illustrations/pages/27354.png
+illustrations/pages/27343.png
+illustrations/pages/27356.png
+illustrations/pages/27357.png
+illustrations/pages/27360.png
+illustrations/pages/27361.png
+illustrations/pages/27363.png
+illustrations/pages/27364.png
+illustrations/pages/27365.png
+illustrations/pages/27366.png
+
+translations:
+
+CiNyanja (Translation)	Nema Agula Ulusi	id=31643
+Cinyungwe (Translation)	Nema Wagula Usalu	id=31642
+Ciyawo (Translation)	A-Nema akusuma wusi	id=31646
+Elomwe (Translation)	Nema Oothuma Osola	id=31644
+Emakhuwa (Translation)	Neema Onthuma Nliinya	id=31645
+English (Original)	Nema buys thread	id=31612
+Imeetto (Translation)	Neema Nothuma Nluuci	id=33189
+Portuguese (Translation)	A Nema Compra a Linha	id=31641

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33758&d=0&a=1
+id:	33758
+title:	Soka ni maisha
+author:	Brigid Simiyu
+artist:	Pimville Library Soccer
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33758.png
+desc:	Kwa watoto kwenye timu hii
+
+page_text:
+
+P1	Bling alikuwa na hamu ya soka.@@Alipozungumzia juu ya mchezo huo, mara nyingi alisema, "Soka ni maisha."
+P2	Bling alikuwa mmoja wa wachezaji bora wa Kocha Sepo.@@Kocha huyo alijivunia timu yake. Wachezaji wengi walitaka kujiunga naye.
+P3	Mechi muhimu ilikuwa inaandaliwa.@@Timu ilifanya mazoezi kila siku.@@Kila mmoja alifurahi na kusisimuka kwa sababu ya mechi hiyo kubwa!
+P4	Kocha kutoka timu pinzani alikuwa mtu mwenye wivu.@@Alimwonea Kocha Sepo wivu sana kwa sababu ya mafanikio yake.
+P5	Kocha huyo mwenye wivu alikwenda uwanjani usiku kabla ya mechi.@@Alipanda kitu hatari.@@Alipanda uchawi!
+P6	Bling alianza mechi vyema sana.@@Alikuwa tayari kuingiza bao.
+P7	Aliukosa mpira, akaanguka chini!@@"Bling?" umati wa watu ulipiga kelele.@@"Bling?" Kocha Sepo alimsihi.
+P8	"Hakuna kitakachonizuia!" Bling alijiambia.@@"Soka ni maisha."@@Akainuka, na kucheza hadi mwisho.
+
+images:
+
+illustrations/pages/85940126.png
+illustrations/pages/85940122.png
+illustrations/pages/85940123.png
+illustrations/pages/85940124.png
+illustrations/pages/85940125.png
+illustrations/pages/85940126.png
+illustrations/pages/85940127.png
+illustrations/pages/85940128.png
+
+translations:
+
+English (Original)	Soccer is life	id=33730
+French (Translation)	Le foot c'est la vie	id=33846
+isiZulu (Translation)	Ibhola liyimpilo yabo	id=33784
+Kῖmῖῖrũ  (Translation)	Mũbira ni ũturõ	id=33863
+Lingala (Translation)	Bomoi ya ndembo	id=33815
+Sesotho (South Africa) (Translation)	Bophelo ba papadi ya bolo ya maoto	id=33802

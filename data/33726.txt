@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33726&d=0&a=1
+id:	33726
+title:	Mbwa wa Dennis
+author:	Brigid Simiyu
+artist:	Merdi  K
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33726.png
+desc:	Mbwa mpya wa Dennis anakikojolea kiatu cha rafiki yake. (Hadithi na picha zilitayarishwa katika warsha ya likizo ya Juni 2019
+
+page_text:
+
+P1	Rafiki yangu Dennis aliniita.@@@"Njoo umwone mbwa wangu mpya," Dennis alisema.
+P2	Mbwa alikuwa na madoa meusi na kichwa kikubwa.@@Alinitisha!@@Nilihofia kwamba angeniuma.
+P3	Mimi na Dennis, tulimpeleka mbwa huyo mpya matembezi.
+P4	Mbwa aliutikisa mkia wake.
+P5	Alibweka!
+P6	Kisha alinikojolea!@@Alikikojolea kiatu changu!@@Piu!
+P7	Dennis aliichukua karatasi na kufuta mkojo.
+P8	Nilihisi kwamba Dennis alikuwa rafiki mzuri kwangu.
+
+images:
+
+illustrations/pages/85940115.png
+illustrations/pages/85940114.png
+illustrations/pages/85940115.png
+illustrations/pages/85940116.png
+illustrations/pages/85940117.png
+illustrations/pages/85940118.png
+illustrations/pages/85940119.png
+illustrations/pages/85940120.png
+illustrations/pages/85940121.png
+
+translations:
+
+English (Original)	Dennis's dog	id=33721
+French (Translation)	Le chien de Dennis	id=33727
+Gikuyu (Translation)	Ngui ya Dennis	id=33860
+isiZulu (Translation)	Inja kaDennis	id=33773
+Lingala (Translation)	Bwa ya Dennis	id=33804
+Sesotho (South Africa) (Translation)	Ntja ya Dennis	id=33789

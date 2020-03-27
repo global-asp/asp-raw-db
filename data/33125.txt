@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=33125&d=0&a=1
+id:	33125
+title:	Ológbò Kíkà
+author:	Eniìtàn  Àrágbayé
+artist:	Jesse Breytenbach
+lang:	Yoruba
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33125.png
+desc:	Ìwé nípa èèkà kíkà
+
+page_text:
+
+P1	Ológbò mélòó?@@0 ológbò òdo.
+P2	Ológbò mélòó?@@1 ológbò kan.
+P3	Ológbò mélòó?@@2 ológbò méjì.
+P4	Ológbò mélòó?@@3 ológbò mẹ́ta.
+P5	Ológbò mélòó?@@4 ológbò mẹ́rin.
+P6	Ológbò mélòó?@@5 ológbò márùn-ún.
+P7	Ológbò mélòó?@@6 ológbò mẹ́fà.
+P8	Ológbò mélòó? @@7 ológbò méje.
+P9	Ológbò mélòó?@@8 ológbò mẹ́jọ.
+P10	Kí rè?@@Ọmọ ológbò tó wa ní igi!@@"Mo máa dá ẹ nídè!"
+P11	"Màmá, ṣé a lè tọ́jú rẹ? Ológbò kan sí!"@@Ológbò mélòó?@@9 ológbò mẹ́sàn-án
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/12020.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+Afrikaans (Translation)	Tel die katte	id=31791
+ChiShona (Translation)	Kuverenga kiti	id=31751
+Dhopadhola (Translation)	kwano pus	id=23214
+Ekegusii (Translation)	Kobara ebibusi	id=31755
+English (Adaptation)	Counting cats	id=12156
+isiZulu (Translation)	Ukubala amakati	id=31790
+Kikamba (Translation)	Kũtala mbaka	id=31753
+Kiswahili (Translation)	Kuhesabu paka	id=32196
+Lingala (Translation)	Ba niawu bazali boni?	id=31794
+Lubukusu (Translation)	Khuubala Chipuusi	id=31858
+Luganda (Translation)	Okubala kkapa	id=23490
+Lugbarati (Translation)	Busua la'ta	id=23139
+Lusamia (Translation)	okhubala amapusi	id=23168
+Lusoga (Translation)	Okubala puusi	id=27336
+Oluwanga (Translation)	Okhubala Tsipusi	id=31769
+Runyankore (Translation)	Okubaara enjangu	id=23730
+Runyoro (Translation)	Kapa nizingahi	id=23555
+Rutooro (Translation)	Ne njangu zingaha?	id=23584
+Sepedi (Translation)	Go bala dikatse	id=32065
+Sesotho (South Africa) (Translation)	Re bala dikatse, lefeela ho fihlela ho robong	id=31793
+Tshivenḓa (Translation)	U vhala zwimange	id=31792

@@ -1,0 +1,62 @@
+url:	https://africanstorybook.org/reader.php?id=33116&d=0&a=1
+id:	33116
+title:	Bí Ìjàpá Ṣé Ní Imú Wíwọ́
+author:	Eniìtàn  Àrágbayé
+artist:	Marlene Visser 
+lang:	Yoruba
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33116.png
+desc:	Má ṣé kíákíá láti jà. Ìjà ní àdádé. (Ìwé ìtàn tí ẹ lè fí àwọ̀ sí).
+
+page_text:
+
+P1	Ìjàpá àti Ọ̀kẹ́rẹ́ nílò owó.
+P2	Wọ́n ṣé àwo láti ta ní ọjà.
+P3	Ìjàpá rí ìjà ní ọjà.
+P4	Ọ̀kẹ́rẹ́ àti Ẹ̀lírí ń jà.
+P5	"Fi ọ̀rẹ́ mi lẹ̀!" Ìjàpá kígbe.
+P6	Ẹ̀lírí gé Ìjàpá jẹ nímú.
+P7	Imú rẹ kán, o tún dun.
+P8	Ìjàpá ní imú wíwọ́ torí pé o ṣé kíákíá láti jà.
+
+images:
+
+illustrations/pages/13136.png
+illustrations/pages/13129.png
+illustrations/pages/13130.png
+illustrations/pages/13131.png
+illustrations/pages/13132.png
+illustrations/pages/13133.png
+illustrations/pages/13134.png
+illustrations/pages/13135.png
+illustrations/pages/13136.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=24434
+Afaan Oromo (Translation)	Funyaan Qocaa	id=20426
+Amharic (Translation)	የኤሊ አፍንጫ ለምን እንደተጣመመ	id=31649
+English (Translation)	How Tortoise's nose became crooked	id=13137
+English (Adaptation)	(Colour-in) How Tortoise got a crooked nose	id=19763
+French (Translation)	Le Nez Crochu De Tortue	id=13769
+Hausa (Nigeria) (Translation)	Yadda Kunkuru ya samu karkataccen hanci	id=20518
+Hausa (Nigeria) (Translation)	Yadda Kunkuru Ya Samu Karkataccen Hanci	id=21367
+isiZulu (Translation)	UFudu wathola kanjani ikhala elitshekile	id=20721
+Kanuri (Translation)	Futu kǝnza kutukareaye dungogtǝnadǝ	id=32373
+Kinyarwanda (Adaptation)	Uko akanyamasyo kagize izuru ribwataraye	id=20250
+Kiswahili (Translation)	(Paka rangi) Jinsi Kobe alivyopata pua kombo	id=20436
+Luganda (Translation)	Nga Enfuddu bya funa ennyindo ekyuse	id=23890
+Luganda (Translation)	Engeri enfuddu gyeyafuna enyindo eyagulukira	id=24319
+Luganda (Translation)	Enfuddu yafuna etya enyiindo engongobavu	id=24609
+Lusoga (Translation)	Wankudu Ne Ennhindo Engudule	id=20399
+Lusoga (Translation)	Engeri Wankudu gyeyafunamu enhindo enfunefune	id=24454
+Ng’aturkana (Translation)	Eger Lo Ang'walia Ekume Abokok	id=20418
+Portuguese (Translation)	Foi Assim Que O Nariz Da Tartaruga Ficou Torto	id=16560
+Rutooro (Translation)	Habwaki enyindo Ya'Kanyamankogoto eramaire	id=23159
+Setswana (Translation)	Goreng Khudu A Nale Nko E E Sokameng	id=21163
+TjiKalanga (Translation)	Gomwe Waka Wana Tjini Tjimilo Tjakakondama	id=21694
+Yoruba (Original)	Bí Imú Ìjàpá Ṣe Rí Kọ́ńbó	id=13128

@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=32612&d=0&a=1
+id:	32612
+title:	Tomasi umucuruzi w'imineke
+author:	Patrick  Munyurangabo
+artist:	Atilabachew Reda
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32612.png
+desc:	Tomasi agiye ku isoko kugurisha imineke. Kubera ko bidasanzwe muri ako gace ko abagabo bacuruza imbuto mu isoko
+
+page_text:
+
+P1	Tomasi yikoreye agataro k'imineke.
+P2	Tomasi agiye ku isoko kugurisha imineke.
+P3	Abantu  bari kugura imbuto mu isoko.
+P4	Ariko  nta n'umwe uri kugura imineke ya Tomasi. Bakunda kwigurira  imputo z'abagore.
+P5	Abantu bakavuga bati: "Mu gace k'iwacu, abagore bonyine ni bo bacuruza imbuto." Bakabazanya bati: "Uyu ni mugabo ki?"
+P6	Ariko Tomasi ntava ku izima. Ahamagara agira ati: "Nimugure imineke yange! Ni myiza kandi irahiye!"
+P7	Umugore umwe afata iseri ry'imineke ku gataro ka Tomasi. Arayitegereza yitonze.
+P8	Nuko uwo mugore arayigura.
+P9	Abandi bantu benshi baza aho Tomasi yari atanditse imineke. Bagura imineke ye baranayirya.
+P10	Bidatinze agataro kaba karashize. Tomasi abara amafaranga yakoreye.
+P11	Noneho Tomasi agura isabune, isukari n'umugati. Maze ashyira ibintu kugataro ke.
+P12	Tomasi yikorera agataro ataha yishimye.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/13459.png
+illustrations/pages/13460.png
+illustrations/pages/13461.png
+illustrations/pages/13462.png
+illustrations/pages/13463.png
+illustrations/pages/13464.png
+illustrations/pages/13465.png
+illustrations/pages/13466.png
+illustrations/pages/13467.png
+illustrations/pages/13468.png
+illustrations/pages/13469.png
+illustrations/pages/13470.png
+
+translations:
+
+0 (Translation)	Themba umtsengisi wabhanana	id=16440
+Arabic (Translation)	توم، بائع الموز	id=21874
+English (Original)	Tom the banana seller	id=13627
+English (Adaptation)	(Colour-in) Tom the banana seller	id=32486
+isiXhosa (Translation)	UTom, umthengisi webhanana	id=15024
+Luganda (Translation)	Tomu omutunzi w'amenvu	id=22354
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Lusoga (Translation)	Toomu omutunzi gha amenvu	id=27462
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216

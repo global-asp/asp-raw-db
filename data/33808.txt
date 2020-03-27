@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33808&d=0&a=1
+id:	33808
+title:	Na lingi
+author:	Theresa  Nyemba
+artist:	Patience  M
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33808.png
+desc:	Po etali moto nioso pe eloko nionso alingi mokomi buku oyo elenge. (Lisapo oyo esalemaki na sanza ya motoba na mobu tuku mibale na zomi na libwa na tango ya bopemi
+
+page_text:
+
+P1	Nalingaka kosakana ndembo.@@Nalingaka kosakana ndembo na Thando, Nhlanhla na Ben.
+P2	Nalingaka mama na ngai.@@Ye asekisaka ngai.
+P3	Nalingaka Nzambe, po Nzambe akela ngai.
+P4	Nalingaka kelasi, po balakisi balakisaka ngai nini nakoki koyeba.
+P5	Nalingaka pe kosakana na ba bwa, po azalaka malamu.
+P6	Nalingaka mokolo na botamaki, po nalingaka kosepela.
+P7	Pe namilingaka ngai moko po…
+P8	… po … nayebi!
+
+images:
+
+illustrations/pages/91400141.png
+illustrations/pages/91400138.png
+illustrations/pages/91400140.png
+illustrations/pages/91400141.png
+illustrations/pages/91400142.png
+illustrations/pages/91400139.png
+illustrations/pages/91400143.png
+illustrations/pages/91400144.png
+illustrations/pages/91400145.png
+
+translations:
+
+English (Original)	I love	id=33738
+French (Translation)	J'aime	id=33855
+Gikuyu (Translation)	Nĩ nyendete	id=33859
+isiZulu (Translation)	Engikuthandayo	id=33777
+Kiswahili (Translation)	Ninapenda	id=33839
+Sesotho (South Africa) (Translation)	Ke rata…	id=33793

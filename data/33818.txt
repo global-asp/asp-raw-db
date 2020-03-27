@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=33818&d=0&a=1
+id:	33818
+title:	Hyène et Tortue
+author:	Zanne Viljoen
+artist:	Salim Kasamba
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33818.png
+desc:	Comment Tortue a obtenu une carapace dure
+
+page_text:
+
+P1	Il y a longtemps, il y avait une hyène très gourmande.
+P2	Il y avait aussi une tortue.  Hyène et Tortue étaient amies.
+P3	Hyène a dit à Tortue, "Cherchons du miel."
+P4	Hyène a couru vite.  Tortue a suivi lentement.  Elle avait peur.
+P5	Elles ont traversé une rivière.  Elle ont été trempées.
+P6	Puis elles ont vu une ruche d'abeilles.  Hyène a couru vers la ruche.
+P7	Hyène a ordonné Tortue: "Grimpe dans l'arbre et récupère la ruche.
+P8	Tortue est montée lentement.  Hyène se fâchait!  Elle a engueulé Tortue.
+P9	Tortue a touché la ruche.  Les abeilles bourdonnaient dans l'air.
+P10	Tortue est tombée! La ruche est tombée sur elle.  Hyène a léché le miel.
+P11	Les abeilles ont piqué Hyène. Elle s'est enfuie. Les abeilles l'ont suivie.
+P12	Hyène a couru dans la rivière.  Les abeilles la suivaient toujours.
+P13	La ruche et le miel ont séché sur le dos de Tortue.
+P14	Tortue a obtenu une carapace pour se protéger. Elle s'est rentrée.
+P15	Les piqûres ont causé des tâches sur le corps de Hyène.
+P16	Et depuis ce jour, Tortue et Hyène ne sont plus amies.
+
+images:
+
+illustrations/pages/13398.png
+illustrations/pages/13395.png
+illustrations/pages/13397.png
+illustrations/pages/13398.png
+illustrations/pages/13400.png
+illustrations/pages/13401.png
+illustrations/pages/13403.png
+illustrations/pages/13405.png
+illustrations/pages/13406.png
+illustrations/pages/13407.png
+illustrations/pages/13408.png
+illustrations/pages/13409.png
+illustrations/pages/13410.png
+illustrations/pages/13411.png
+illustrations/pages/13412.png
+illustrations/pages/13414.png
+
+translations:
+
+Dinka (Translation)	Aŋui kek Arou	id=32289
+English (Original)	Hyena and Tortoise	id=13548
+English (Adaptation)	Hyena and Tortoise	id=18439
+Kinyarwanda (Translation)	Impyisi n' Akanyamasyo	id=31365
+Kiswahili (Translation)	Fisi na Kobe	id=15613
+Lámnsoʼ (Translation)	Kuúrá wùn Kibóŋaàrí kí	id=22307
+Lugwere (Translation)	Mpiti N’Ofudu	id=16711
+Lusoga (Translation)	Wampiti ni Wankudu	id=25916
+Lusoga (Translation)	Wankudu ni Wampiti	id=26196
+Moro (Translation)	Ŋwëlia na Ođǝɽal	id=32075
+Otuho (Translation)	Ebou iko Etobok	id=32086
+Portuguese (Translation)	A Hiena E a Tartaruga	id=16653
+Rukiga (Translation)	Muha na Akanyankogote	id=23298

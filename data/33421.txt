@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=33421&d=0&a=1
+id:	33421
+title:	Itaok aite e Ekaale
+author:	Maximilla  Lama
+artist:	Jacob Kono
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33421.png
+desc:	Edia losorokit iyoki ngaatuk adakar kece na edounere itaok nikebusen.
+
+page_text:
+
+P1	Arai Ekaale edia lo awoi nabo adiim. Ayei akilas na ng'auni. @@Amina anapit ekot lokirion lokooyen lo ainakini amaekeng lo anyaritae Eyanae.
+P2	Ng'irwa lu agolitere eskul, eyoki Ekaale ng'aatuk a ng'ikauriak keng.
+P3	Akwaar apei, iyoki Ekaale nga'aatuk, abu akiru totep.
+P4	Na atepa akiru, abu aite namina apa keng, nabe Nakirion, touri.@@Arai itaok ng'ini nikebusen noi nipe nying'olikina Ekaale kaace.
+P5	Alakarikina Ekaale akiyok Nakirion ka itaok keng kimuriakis tani ng'aatuk nace.
+P6	Abu kitam, "Abala apakang kainakini itaok kerau niberu."
+P7	Ani eroko itami, abu akan nakagongon kiria ng'esi kidiama.@@Aking'olikinet Ekaale amaekeng Eyanae abu kitama, "Amae, nyanu ng'aatuk?"
+P8	Tatachak amaekeng Eyanae, "Abu itiokon taanyu ng'aatuk daang ananok, amam Nakirion ka iyong.@Abulit itiokon sodi katomeu ayong aanyun iyong."
+P9	Alakarikina Ekaale alimokin amaeken eger lo auria Nakirion itaok nikebusen. @@Tama amaeken Eyanae, "Adaki ayong itaok kuwopuut iyong ka Nakirion."
+P10	Alakara ng'itunga daang aking'olikin Ekaale, Nakirion ka itaok ejokak.
+P11	Kingit Ekaale apakeng, "Ichamuni iyong atolema ayong itaok loger lokolong ibala?"
+P12	"Ee, lokokang, ikon daang. Alimunet erai alimunet."
+
+images:
+
+illustrations/pages/25507.png
+illustrations/pages/25498.png
+illustrations/pages/25499.png
+illustrations/pages/25500.png
+illustrations/pages/25501.png
+illustrations/pages/25502.png
+illustrations/pages/25503.png
+illustrations/pages/25504.png
+illustrations/pages/25505.png
+illustrations/pages/25506.png
+illustrations/pages/25507.png
+illustrations/pages/25508.png
+illustrations/pages/25509.png
+
+translations:
+
+English (Original)	Parna's calf	id=21744
+Kiswahili (Translation)	Ndama wa Parna	id=21747
+Lusoga (Translation)	Akanhana  ka  Parna	id=26945

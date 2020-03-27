@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=32575&d=0&a=1
+id:	32575
+title:	Ihene, Imbwa, n'Inka
+author:	Patrick  Munyurangabo
+artist:	Marleen Visser
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32575.png
+desc:	Ihene
+
+page_text:
+
+P1	Ihene, Imbwa, n'Inka bari inshuti magara. @@Umunsi umwe bagiye ku rugendo mu itagisi.
+P2	Basoje urugendo rwabo, umushoferi yabasabye kwishyura. @@Inka yatanze amafaranga yuzuye.
+P3	Imbwa yatanzearenzehokubera koitari ifite avunje.
+P4	Umushoferiagiye kugarurira Imbwa ako kanya Ihene yarirutse igenda idatanze amafaranga y'urugendo.
+P5	Umushoferi yararakaye. @@Yahise agenda atagaruriye Imbwa.
+P6	Iyi niyo mpanvu, kugeza nubu, Imbwa yirukanka isanga imodoka.Iba ishaka  kurebamo umushoferi wagiye atayigaruriye.
+P7	Ihene iyo yumvise  imodoka ihinda iriruka.@@Itinya ko bayifata kubera ko itatanze amafaranga y'urugendo.
+P8	Inka yo ntacyo yikanga iyo imodoka ije. @@Inka yambuka umuhanda yitonze kubera ko izi ko yatanze amafaranga y'urugendo.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu na Ngombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Imeetto (Translation)	Ipuri, Mwalapwa, ni Imope	id=33187
+Kanuri (Translation)	Kanyi-a Kǝri-a Fe-a	id=32374
+Kiswahili (Translation)	Mbuzi, Mbwa na Ng'ombe	id=33533
+Luganda (Translation)	Wambuzi, Wambwa ne Wante	id=33531
+Lumasaaba (Translation)	Imbusi, Imbwa ni Ingaafu	id=33464
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

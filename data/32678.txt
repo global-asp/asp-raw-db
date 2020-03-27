@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=32678&d=0&a=1
+id:	32678
+title:	Je Peins
+author:	BAME MENKAMLA
+artist:	Silva Afonso
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32678.png
+desc:	Un enfant peint avec ses crayons de couleur.
+
+page_text:
+
+P1	Je peins avec mes crayons de couleur. .
+P2	Je peins une tomate avec un crayon de couleur rouge. .
+P3	Je peins une orange avec un crayon de couleur orange. .
+P4	Je peins le soleil avec un crayon de couleur jaune. .
+P5	Je peins une grenouille avec un crayon de couleur verte .
+P6	Je peins le ciel avec un crayon de couleur bleu. .
+P7	Je peins des fleurs avec un crayon de couleur rose.
+P8	Je peins un chat avec un crayon de couleur noir. .
+P9	Je peins le drapeau du Tchad avec trois couleurs: Bleue-Jaune-Rouge.
+P10	.
+
+images:
+
+illustrations/pages/13669.png
+illustrations/pages/13670.png
+illustrations/pages/13671.png
+illustrations/pages/13672.png
+illustrations/pages/13673.png
+illustrations/pages/13674.png
+illustrations/pages/13675.png
+illustrations/pages/13676.png
+illustrations/pages/13677.png
+illustrations/pages/13678.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Ciyawo (Adaptation)	Wune Ngupeta	id=15772
+English (Translation)	I Colour In	id=14514
+French (Translation)	Je Peins	id=14536
+Lusoga (Translation)	Ntaamu langi	id=26694
+Portuguese (Original)	Eu Pinto	id=14012

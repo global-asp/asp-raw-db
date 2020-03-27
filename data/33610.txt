@@ -1,0 +1,65 @@
+url:	https://africanstorybook.org/reader.php?id=33610&d=0&a=1
+id:	33610
+title:	La femme gourmande
+author:	Zanne Viljoen
+artist:	Abraham Muzee
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33610.png
+desc:	Livre dhistoires à colorier. Si on a faim
+
+page_text:
+
+P1	Il y a longtemps, il y avait un homme appelé Kato. Il vivait à Kabuusu dans une petite maison avec son chien.
+P2	Un jour, Kato est tombé très malade. Il n'avait personne pour l'aider. Quand il s'est guéri, il a décidé d'épouser une femme qui vivait tout près.
+P3	Kato a invité sa famille et ses amis à assister à la cérémonie de mariage. Il était très heureux parce qu'il pensait qu'il avait trouvé quelqu'un pour l'aider.
+P4	Beaucoup de choses ont été apportées pour la mariée et son époux. Il y avait des paniers de mil, des nattes, des bananes, des arachides et d'autres cadeaux pour la maison.
+P5	La cérémonie de mariage s'était terminée et tous les visiteurs sont repartis chez eux. Kato était prêt à commencer une nouvelle vie avec sa femme et son chien.
+P6	Le lendemain, Kato a servi une banane sucrée à sa femme, mais elle a refusé de manger.
+P7	Quand Kato est sorti pour aller à la chasse, la femme a mangé toutes les bananes sucrées.
+P8	Kato est revenu de la chasse et il avait faim. Il a demandé des bananes sucrées. Sa femme a dit que le chien les avait toutes mangées !
+P9	Le lendemain, Kato est allé à sa ferme. Quand il est rentré à la maison, il a découvert que sa femme avait mangé toute la viande. Elle ne l'a même pas partagée avec le chien.
+P10	Un autre jour, Kato est allé voir son ami et quand il est revenu, sa femme avait mangé toutes les arachides. Le panier était complètement vide. Kato était ennuyé par sa nouvelle femme.
+P11	Kato a pensé, "Quelque chose ne va pas avec cette femme." Il a décidé de faire de la magie. Il a mis du lait dans un pot magique, a mis le pot sous le lit et est parti à la chasse.
+P12	La femme a vu la marmite, et qu'elle était plein de lait. Aussitôt, elle l'a prise et elle a bu tout le lait pendant que le chien la regardait.
+P13	Malheureusement, la marmite s'est collée à sa bouche. Elle a essayé de l'enlever mais sans succès. Elle criait et sautait de haut en bas. Mais la marmite est restée coincée. Le chien regardait tout ça.
+P14	Puis le chien est parti à la recherche de Kato. Le chien aboyait et aboyait, et sautait de haut en bas. Kato s'est rendu compte que quelque chose n'allait pas à la maison.
+P15	Ils sont rentrés ensemble. Kato a été très surpris de trouver sa femme avec une marmite collée à sa bouche. Il l'a regardée en se demandant ce qu'il pouvait faire.
+P16	Kato a touché la joue de sa femme et la marmite est tombée aussitôt. Cette femme avait si hontenqu'elle a décidé de retourner chez ses parents.
+
+images:
+
+illustrations/pages/19142.png
+illustrations/pages/19130.png
+illustrations/pages/19131.png
+illustrations/pages/19132.png
+illustrations/pages/19133.png
+illustrations/pages/19134.png
+illustrations/pages/19135.png
+illustrations/pages/19136.png
+illustrations/pages/19137.png
+illustrations/pages/19138.png
+illustrations/pages/19139.png
+illustrations/pages/19140.png
+illustrations/pages/19141.png
+illustrations/pages/19142.png
+illustrations/pages/19143.png
+illustrations/pages/19144.png
+illustrations/pages/19145.png
+
+translations:
+
+English (Translation)	Greedy woman	id=19149
+English (Adaptation)	(Colour-in) Greedy woman	id=19150
+Kanuri (Translation)	Kamu kǝnama	id=32284
+Kiswahili (Translation)	Mwanamke mlafi	id=22068
+Luganda (Original)	Omukazi owomululu	id=19148
+Luganda (Translation)	(Siiga mu katabo)Omukazi owo mululu	id=23832
+Luganda (Translation)	omukyala owomululu omunji	id=24487
+Lusoga (Translation)	Omukazi omuluvu	id=24883
+Lusoga (Translation)	Omukazi omuluvu	id=26353
+Oluwanga (Translation)	Omukhasi omuworu	id=22766
+Rukiga (Translation)	Omukazi owomululu	id=23757
+Runyoro (Translation)	Abakazi Abomururu	id=23625
+Yoruba (Translation)	Obìnrin Ọ̀kánjúà	id=32971

@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=32905&d=0&a=1
+id:	32905
+title:	Kotsi ya go šiiša
+author:	Madishego  Mahlatjie and Nelisiwe  Masengi
+artist:	Rob Owen
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32905.png
+desc:	Bana ba ile ba tšhoša ke kotsi ya difatanaga tseleng.
+
+page_text:
+
+P1	Ka letšatši le lengwe nna le sesi wa ka, re be re sepela kgauswi le tsela.
+P2	Lori ye kgolo e be e theogela fase ga mmoto.
+P3	Sefatanaga se be se kitima ka lebelo mmotong.
+P4	Mootledi o be a bolela ka sellatheka.@@O be a sa lebelela tsela.
+P5	Lori e ile ya thula sefatanaga.
+P6	Ambulense le maphodisa ba ile ba tlo thuša.
+P7	Go tlile dilori tše pedi tša go goga difatanaga. @@Ye nngwe e ile ya goga lori, ye nngwe ya goga sefatanaga.
+P8	Re bone tiragalo ka moka.@@Re be re tšhogile.
+
+images:
+
+illustrations/pages/9638.png
+illustrations/pages/9635.png
+illustrations/pages/9636.png
+illustrations/pages/9637.png
+illustrations/pages/9641.png
+illustrations/pages/9639.png
+illustrations/pages/9640.png
+illustrations/pages/9638.png
+illustrations/pages/9642.png
+
+translations:
+
+Afrikaans (Translation)	'n Ernstige Ongeluk	id=11396
+English (Original)	Serious accident	id=9672
+French (Translation)	Un Grave Accident	id=10851
+Fulfulde Mbororoore (Translation)	Dumpootirol Mootaaji	id=31978
+isiNdebele (Translation)	Ingozi ethusako	id=13063
+isiXhosa (Translation)	Ingozi embi	id=13203
+Kinyarwanda (Translation)	Impanuka ikomeye	id=32867
+Kinyarwanda (Translation)	Impanuka ikomeye	id=32868
+Kiswahili (Translation)	Ajali mbaya	id=10555
+Lámnsoʼ (Translation)	Kinshùʼùm ke tavín kí	id=22117
+Lusoga (Translation)	Akabendhe akataloodheka	id=26022
+Portuguese (Translation)	Acidente Grave	id=18868
+Rutooro (Translation)	Butandwa Eyakabi	id=14909
+Setswana (Translation)	Kotsi E E Maswe	id=14882

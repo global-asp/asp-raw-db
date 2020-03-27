@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=33416&d=0&a=1
+id:	33416
+title:	Ebulong'or ka Ekadokot
+author:	Meckline  Ewoi
+artist:	Salim Kasamba
+lang:	Ng’aturkana
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33416.png
+desc:	Ngae etieki ekurkur Ebualongor ka Ekadokot?
+
+page_text:
+
+P1	Kolong ang'orot ayei Ebulong'or ka Ekadokot. @@Ebulong'or ka Ekadokot ayakatar Ekurkur. Toloto lokatiakan torumoreta ekurkur kec.
+P2	Arumoret ekatiakan apupokin ekes kec, abu toem atiakun ekes kec. @@Abu kitamak, "Ani kerira ayong Ebulong'or emunyari ng'atuk kang. Ani nabo kerira ayong Ekadokot emunyari epeipe kang daang! Nakaneni, nyanu na asubakini ayong?"
+P3	Abu ekatiakan kitamak alongisat, dio atamar, "Egogong ekes lo ayong atiakun alopei. Kapesi lokasukou lu adakar."
+P4	Apotu tolimokis ng'ikasukou adakar kidiami ekurkur kec. @@Arumoret ang'ikasukou adakar apupokin ekes kec, apot kec dae toema atiakun.
+P5	Ani kemino kec lowae lo Ekadokot, epedori Ebulongo'r amunyar ng'atuk kec. Ani nabo kemino kec lowae lo Ebulong'or, epedori Ekadokot amunyar epeipe kec. Apotu ng'ikasukou adakar tolimokis Ebulong'or ka Ekadokot atamar egogong ekes kec.
+P6	Atipei, apotu ng'ikasukou adakar kitamut aberu nakebotonit alotaun. Amamakar ng'es ibore ni eciakari, erai ng'atuk kori epeipe.
+P7	Tonang'ut kec nadakar aberu anakebotonit ka aking'it ng'esi nak kec atiakunet. Abu ng'esi tocham. @@Abu tolimok kec kiyana ka ng'esi ang'alosa, epei ka epei.
+P8	Eking'aren abu aberu na kebotonit tanyara Ebulong'or tolimok, "Kikeritae iyong, etiang'it loapolon ka ekaruon. Ikokini iyong ichalasi ka ikadokot nici en ai?"
+P9	Tolimok aberu nakebotonit Ebulong'or tama, "Kiirasi ng'itunga kidiami ekurkur lo, kimenyarete iyong. Kimiek eburas ka Ekadokot."
+P10	Abu aberu na kebotonit tolimok Ekadokot tama, "Ijok iyong nabo ibus. Nyo icalatar iyong ka etiang'it lo ecap, tobos, lo enyami ebose? Nyo itamakinete ng'itung'a na irareta atamar icalasi iyong ka etiang'it loborok?" @@Along'isat abu Ekadokot tama, "Itiemokinit iyong! Achakari ayong ekes lo."
+P11	Arumoret kang'una, abu aberu na kebotonit tanyara keci tolimok, "Icamakinosi esi acakar ekes lo. Nakaneni, torimakinos."
+P12	Apotu ng'itieng daang kilipakinos arimatoi ka atiakun ekurkur kec. @@Na eirareta ngitun'ga alotaun kidiama ekoi lo, apotu kiumokis. Abu aberu nakebotonit totieku ekurkur lo epiyori ekatiakan ka ng'ikasukou adakar atiakun.
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18696.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18708.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18706.png
+illustrations/pages/18707.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+Afaan Oromo (Adaptation)	Waraabessaafi Qamale	id=21771
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	(Colour-in) Hyena and Monkey	id=20157
+English (Adaptation)	Monkey and Hyena	id=21395
+French (Translation)	Hyène et Singe	id=33456
+Kanuri (Translation)	Bultu-a Dagǝl-a	id=32283
+Kiswahili (Translation)	Kima na Fisi	id=21841
+Kiswahili (Translation)	Mzozo wa Fisi na Kima	id=22061
+Kiswahili (Adaptation)	(Paka rangi) Mzozo wa Fisi na Kima	id=33353
+Lámnsoʼ (Translation)	Kán wùn Kuúrá	id=22414
+Luganda (Translation)	Wankima ne Wampisi	id=23422
+Luganda (Translation)	Wakibe ne Wankima	id=23510
+Lusoga (Translation)	(Colour-in) Wampiti ni Wankembo	id=24897
+Lusoga (Translation)	Wampiti ni Wankembo	id=33653
+Oluwanga (Translation)	Ishima nende Ifisi	id=22819
+Rufumbira (Translation)	Igisamagwe ni Inkende	id=23440
+Runyankore (Translation)	Empisi ne Ekyende	id=24280
+Tiv (Translation)	Dwem man Bagu	id=23878

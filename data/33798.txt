@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33798&d=0&a=1
+id:	33798
+title:	Sefate sa kgotso
+author:	Maria Vaz
+artist:	Mpumelelo  Mlangeni, Tshiamo  Msimanga and Tumi  Mofokane
+lang:	Sesotho (South Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33798.png
+desc:	Bohle re hloka sebaka seo ho sona re ka fumanang kgotso. (Pale e ngotswe ke bana thupellong e neng e tsamaiswa ke African Story book laeboraring ya Pimville Soweto ka matsatsi a phomolo a Phupu 2019).
+
+page_text:
+
+P1	Ho ne ho ena le ngwanana ya bitswang Ayanda. @@E ne e le yena ngwana feela a le mong habo.@@Batswadi ba hae ba ne ba batla ho arohana.
+P2	Ayanda a nka qeto ya ho baleha lapeng labo.@@A balehela morung hobane ho ne se nqenngwe moo a neng a ka yang teng.
+P3	Morung moo, Ayanda a lelekiswa ke phiri. A matha a palama hodima sefate.@@Phiri ya leka ho mo loma empa a palamela hodimodimo sefateng.
+P4	Ha a le hodimodimo sefateng, Ayanda a bona letsatsi le letle.@@A ikutlwa a rata letsatsi leo, yaba o se a dula morung moo.
+P5	Ayanda a palama sefate letsatsi le leng le le leng ho ya qoqa le letsatsi.@@Letsatsi la eba leloko la lapa la hae.
+P6	Tsatsi le leng Ayanda a bona monna a shebile hodimo sefateng.@@Monna enwa e ne e le ntatae. @@Ayanda a theoha sefateng. Ntatae a hlalosa hore hobaneng a le moo.
+P7	Ntatae a re, "Pele o hlaha nna le mmao re ne re kopanela mona. Ke sebaka se ikgethileng."@@"Jwale ke palama sefate sena ho phaphatha kgotso ha nna le mmao re qabana." Ho rialo ntata Ayanda.
+P8	Kamora nakwana, mmaya Ayanda a tla morung.@@O ne a tlilo phaphatha kgotso pakeng tsa hae le ntata Ayanda.@@Sena e ne e le sefate sa  bona sa kgotso.
+
+images:
+
+illustrations/pages/85940129.png
+illustrations/pages/85940129.png
+illustrations/pages/85940130.png
+illustrations/pages/85940131.png
+illustrations/pages/85940132.png
+illustrations/pages/85940133.png
+illustrations/pages/85940134.png
+illustrations/pages/85940135.png
+
+translations:
+
+English (Original)	The peace tree	id=33731
+French (Translation)	L'arbre de la paix	id=33847
+isiZulu (Translation)	Isihlahla sokuthula	id=33782
+Kiswahili (Translation)	Mti wenye amani	id=33759
+Lingala (Translation)	Nzete ya kimia	id=33813

@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=32906&d=0&a=1
+id:	32906
+title:	Fana o rata diphoofolo
+author:	Connie  Makgabo
+artist:	Jesse Breytenbach
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32906.png
+desc:	Fana o rata diphoofolo gomme o phološa maeba a mabedi.
+
+page_text:
+
+P1	Fana le ba lapa la gabo ba dula toropong ya sephethephethe.
+P2	Fana o na le katse, dikgogo tše pedi, pudi le leeba.
+P3	Tšatši le lengwe, Fana o ile a bona bana ba foša maeba ka maswika.
+P4	Fana a kitimela go bana bale.@@A goeletša, "Emišang ka go foša maswika."
+P5	Fana a tšea maeba a mabedi a a iša gae go a hlokomela.
+P6	A a fepa gomme a botša ba lapa la gabo ka mo a phološitšego maeba ale.
+P7	Fana le ba gabo ba iša maeba kliniking.
+P8	Fana o botša bagwera ba gagwe, "Diphoofolo ke bagwera ba rena. Re a di šireletša."
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana and her animals	id=21004
+English (Adaptation)	(Colour-in) Fana and her animals	id=21005
+English (Adaptation)	Fana loves animals	id=21396
+Kanuri (Translation)	Kurram-a Dabbawanzǝ-a	id=24765
+Kinyarwanda (Translation)	Furaha n'amatungo ye	id=23923
+Kiswahili (Translation)	Fana na wanyama wake	id=21006
+Kiswahili (Translation)	Fana anawapenda wanyama	id=21998
+Kiswahili (Adaptation)	(Paka rangi) Fana na wanyama wake	id=33354
+Luganda (Translation)	Fana n'ebisolo bye	id=23599
+Lugbarati (Translation)	Fana azini i ma anyapa be	id=24531
+Lulamoogi (Translation)	Mbasalaki ataka inho ebisolo	id=24828
+Lusoga (Translation)	Faanana  n'ebisolobye	id=25086
+Rukiga (Translation)	Fana arakunda e'nyamishwa	id=24413
+Rukiga (Translation)	Fana ne bisholo byeye	id=24592
+Rumanyo (Translation)	Fana na vimuna vyendi	id=33289
+Runyankore (Translation)	Fana nakunda ebyikoko	id=23245
+Runyankore (Translation)	Fana ne nyamishwa ze	id=24112
+Sepedi (Translation)	(Colour-in) Fana o rata diphoofolo	id=33310

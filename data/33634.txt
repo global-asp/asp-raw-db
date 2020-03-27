@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33634&d=0&a=1
+id:	33634
+title:	ILizwe elingenaMaxhego naMaxhegwazana
+author:	Little Zebra Books
+artist:	Laura Liberatore
+lang:	isiXhosa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33634.png
+desc:	This folktale from the Nyungwe people of Mozambique reminds us of the importance of having older people in our communities.
+
+page_text:
+
+P1	Kwenye ilali kwenzeka ukuba abantu abatsha balapho abayimigewu bagqibe kwelokuba bawabulale onke amaxhego namaxhegwazana ukwenzela ukuba kuphele ukuthakatha.
+P2	Kodwa omnye waba bantu batsha, wabaleka notata wakhe waya kumfihla kude esiqithini.
+P3	Wathi emva kokuba emfihlile utata wakhe, yaqalisa le migewu ukuwabulala amaxhego namaxhegwazana.
+P4	Kodwa kwathi kusenjalo kwee gqi inyoka kule lali isuka ngasesiqithini yaze yangena esiswini somntwana omncinci.
+P5	Yayimana ukuthi gqi iveza loo ntloko yayo emlonyeni walo mntwana.
+P6	Abazali balo mntwana kunye nabanye abantu apha elalini bazama konke abanako bezama ukusombulula le ngxaki kodwa babona ukuba ukuba bayayibulala le nyoka nomntwana naye uza kufa. Baza kuthini bethu!
+P7	Bonke babezama le baphinde bazame leya, kodwa kungalungi tu. Waze laa mfana wayehambe waya kufihla utata wakhe, waya kuye wafika wamxelela yonke into eyenzekayo.
+P8	Eli xhego lathi, "Uyabona ke le into yeyona yayikhe yalula kakhulu ukuyisombulula apha emhlabeni. Hamba uye kufuna ixoxo uze ulibophelele kwindawo ekufutshane nenyoka le. Uzawubona! Inyoka iza kuphuma esiswini somntwana iye kubamba ixoxo."
+P9	Hayi ke lo mfana wahamba wafika wenza njengoko eyalelwe lixhego. Nyhani ke nantso iphuma inyoka esiswini somntwana yaze yaqalisa ukusukela ixoxo. Wabe uyasindiswa ke ekufeni umntwana ngolo hlobo.
+
+images:
+
+illustrations/pages/85590239.png
+illustrations/pages/85590249.png
+illustrations/pages/85590239.png
+illustrations/pages/85590250.png
+illustrations/pages/85590241.png
+illustrations/pages/85590242.png
+illustrations/pages/85590243.png
+illustrations/pages/85590244.png
+illustrations/pages/85590246.png
+illustrations/pages/85590247.png
+illustrations/pages/85590248.png
+
+translations:
+
+Afrikaans (Translation)	Die land sonder ou mense	id=33633
+Cinyungwe (Translation)	Maswaka Yadapha Nkhalamba Zentsene	id=33607
+Echuwabo (Translation)	Elabo Yakoddile Okala Anddimuwa	id=33608
+English (Original)	The Land of No Old People	id=33145
+Portuguese (Translation)	A Terra Sem Pessoas Velhas	id=33592

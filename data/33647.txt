@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33647&d=0&a=1
+id:	33647
+title:	Deux voleurs
+author:	Zanne Viljoen
+artist:	Marion Drew
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33647.png
+desc:	Deux voleurs voulaient voler du maïs dans le jardin dun fermier un soir.
+
+page_text:
+
+P1	Deux voleurs voulaient voler du maïs dans le jardin d'un fermier un soir.@@L'un ne savait pas ce que l'autre pensait faire.
+P2	Le premier voleur est venu et a pris un sac de maïs.
+P3	Le deuxième voleur est entré dans le jardin du fermier, laissant son vélo dehors.
+P4	Les deux voleurs se sont cognés l'un contre l'autre dans le champ de maïs. Ils ont tous les deux crié : "Qui es-tu ?"
+P5	Ils ont tous les deux eu peur et se sont enfuis dans des directions opposées.
+P6	Le premier voleur a laissé derrière lui son sac de maïs.
+P7	Le deuxième voleur a laissé son vélo sur place.
+P8	Quand le fermier est arrivé, il a utilisé la bicyclette pour porter le sac de maïs.
+
+images:
+
+illustrations/pages/18364.png
+illustrations/pages/18363.png
+illustrations/pages/18364.png
+illustrations/pages/18365.png
+illustrations/pages/18366.png
+illustrations/pages/18367.png
+illustrations/pages/18368.png
+illustrations/pages/18369.png
+illustrations/pages/18370.png
+
+translations:
+
+Alur (Translation)	Jukwo Aryo	id=18774
+English (Original)	Two thieves	id=18773
+IsiNdebele (Zimbabwe) (Translation)	Amasela amabili	id=22174
+Kinyarwanda (Translation)	Abajura babiri	id=21957
+Kirundi (Translation)	Abasuma babiri	id=32928
+Lusoga (Translation)	Baibi babiri	id=24273

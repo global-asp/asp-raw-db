@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33198&d=0&a=1
+id:	33198
+title:	Mere parani ma akeng swa
+author:	Andrew Oketch
+artist:	Benjamin Mitchley, Catherine Groenewald, Rijuta Ghate and Wiehan de Jager
+lang:	Dhopadhola
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33198.png
+desc:	Obedo nyithintho aryo ma mere swaa judongo kanyachiel ikyalo ma Iyolwa. Achielo towameno kisoma to maani medere kisoma sano keng mere pere swaa.
+
+page_text:
+
+P1	Kisi odikini kachiewi aredo swa chamo mudikini
+P2	kacho chiemo aruko nanga parani manyabululu awoki iyot takatho rango mere paran Anyango.
+P3	Kanuango Anyango, wiwani willi gikisi gimoro gyie.
+P4	Anyango kodan wachako tuko tuko ma pondo, apondo yungetti olwa maduongi ka Anyango pondo yusimba.
+P5	ido ani ganyango wamaro katho ijuomi, wadimo yeni kanyachieli kendo ido wamaro katho isomero kanyachieli.
+P6	Wayeere ni wakitho kisoma gimeni swa nuangoni wajujie wachowo kisoma tirukowani digiri.
+P7	too obedo ndiri achieli ma Anyango kubinno isomero, achungere idhioti na atemo ye kurugo to dhelo no Anyango kubinno.
+P8	Munyo adoki pecho ndeleno awachoye ri mama wacho pa Anyango.
+P9	Kada beni fodo a medere kisoma tosano chunyani fodi keng Anyango.
+P10	Kisi kakatho isomero fodi aranga ranga Anyango kisi kamoro gyie.
+P11	same nyo a thiki a dhako maduong tosano fodi chunyani yenyo aka keng Anyango.
+
+images:
+
+illustrations/pages/8658.png
+illustrations/pages/2444.png
+illustrations/pages/2450.png
+illustrations/pages/2452.png
+illustrations/pages/1191.png
+illustrations/pages/1514.png
+illustrations/pages/1517.png
+illustrations/pages/2481.png
+illustrations/pages/8666.png
+illustrations/pages/8641.png
+illustrations/pages/1812.png
+
+translations:
+
+English (Original)	The friend I miss	id=2278
+Kiswahili (Translation)	Rafiki ninayemkosa	id=9527
+Lusoga (Translation)	Mukagwa gwe ntabona	id=25760

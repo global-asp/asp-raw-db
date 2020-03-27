@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33145&d=0&a=1
+id:	33145
+title:	The Land of No Old People
+author:	Cleofas  Samo
+artist:	Laura Liberatore
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33145.png
+desc:	This grim folktale from the Nyungwe people of Mozambique reminds us of the importance of having older people in our communities.
+
+page_text:
+
+P1	Once upon a time, it happened in a village that a gang of young people decided to kill all the old people. @@They wanted to stop the old people doing magic.
+P2	But one of the youths ran off with his father and hid him in the desert.
+P3	After he had done this, the gang began killing the old people.
+P4	Not long after, a snake came into the village from the desert.@@The snake entered into the stomach of a small child. It kept poking its head out of the child's mouth.
+P5	The parents of the child and all the other people tried everything to solve this problem.
+P6	But they saw that if they killed the snake it would also kill the child. Everyone kept trying different things.
+P7	Then, the young man who had hidden his father went and told him everything that had happened. @@And the old man replied, "That's the easiest thing in the world to take care of!"
+P8	The old man said, "Go find a toad and tie it up near the snake. The snake will come out of the child's stomach to catch the toad."@@The young man did just what his father said. The snake came out and started to chase the toad.
+P9	And the child was saved from death.
+
+images:
+
+illustrations/pages/85590239.png
+illustrations/pages/85590249.png
+illustrations/pages/85590239.png
+illustrations/pages/85590250.png
+illustrations/pages/85590241.png
+illustrations/pages/85590242.png
+illustrations/pages/85590243.png
+illustrations/pages/85590244.png
+illustrations/pages/85590246.png
+illustrations/pages/85590247.png
+illustrations/pages/85590248.png
+
+translations:
+
+Afrikaans (Translation)	Die land sonder ou mense	id=33633
+Cinyungwe (Translation)	Maswaka Yadapha Nkhalamba Zentsene	id=33607
+Echuwabo (Translation)	Elabo Yakoddile Okala Anddimuwa	id=33608
+isiXhosa (Translation)	ILizwe elingenaMaxhego naMaxhegwazana	id=33634
+Portuguese (Translation)	A Terra Sem Pessoas Velhas	id=33592

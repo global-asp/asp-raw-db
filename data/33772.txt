@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33772&d=0&a=1
+id:	33772
+title:	Izilwane esazibona
+author:	Zanele Zuma
+artist:	Penuel  K
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33772.png
+desc:	Uhambo lomndeni uyobona izilwane. (Indaba nemifanekiso kwaqanjwa engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Lona ngumndeni wami.@@Umalume, umzala, umama nodadewethu ababili (abahlale befanisene), umfowethu, nami!
+P2	Lona ngumndeni wami ugibele ibhasi uyobona izilwane.@@Kwakunomalumekazi, umama, umfowethu, odadewethu ababili (abahlale befanisene), nami!
+P3	Sasibuka izilwane sisebhasini.
+P4	Sabona indlulamithi.
+P5	Sabona inyamazane impunzi.
+P6	Sabona ibhubesikazi.
+P7	Sabona indlovu.@@Sahleka kakhulu uma sibona indlovu ngoba…
+P8	...le ndlovu yavele yazikhulula esihlahleni phambi kwethu!
+
+images:
+
+illustrations/pages/85940108.png
+illustrations/pages/85940106.png
+illustrations/pages/85940107.png
+illustrations/pages/85940108.png
+illustrations/pages/85940109.png
+illustrations/pages/85940110.png
+illustrations/pages/85940111.png
+illustrations/pages/85940112.png
+illustrations/pages/85940113.png
+
+translations:
+
+English (Original)	Animals we saw	id=33720
+French (Translation)	Des animaux que nous avons vus	id=33844
+Kiswahili (Translation)	Wanyama tulioona	id=33725
+Lingala (Translation)	Ba niama oyo tomoni	id=33803
+Lulogoli  (Translation)	Zinyama zia kwarora	id=33728
+Sesotho (South Africa) (Translation)	Diphoofolo tseo re di boneng	id=33788

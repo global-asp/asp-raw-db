@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33454&d=0&a=1
+id:	33454
+title:	Une fille honnête
+author:	Zanne Viljoen
+artist:	Jacob Kono
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33454.png
+desc:	Cette histoire nous enseigne limportance de dire la vérité.
+
+page_text:
+
+P1	Il vivait une belle fille. Un jour, elle avait très faim. Elle a pensé à des moyens d'obtenir quelque chose à manger.
+P2	Elle a rencontré un homme qui lui a demandé : "Comment vas-tu, jeune fille ? Qu'est-ce qui te rend triste ?" @La fille a répondu : "J'ai faim."
+P3	L'homme était triste. Il lui a dit qu'il y avait un festin dans le quartier et qu'elle devrait aller voler de la nourriture. Elle n'avait jamais volé auparavant.
+P4	La jeune fille s'est levée rapidement et est allée à la maison qui célébrait le festin.
+P5	Quand elle est arrivée, elle a oublié les instructions comment voler. Elle chantait: Je suis venue voler la nourriture, nour-ri-tu-re. Je marche lentement, len-te-ment.
+P6	Les gens ont entendu la chanson de la jeune fille de loin jusqu'à ce qu'elle entre dans la propriété familiale.
+P7	Les gens ont été étonnés par la chanson et lui ont demandé : "D'où viens-tu ? Qu'est-ce que tu veux ? Pourquoi tu chantes ?"
+P8	La fille leur a dit à quel point elle avait faim et ils lui ont donné à manger.@@Plus tard, on lui a dit que voler, ce n'est pas bon !
+
+images:
+
+illustrations/pages/25044.png
+illustrations/pages/25038.png
+illustrations/pages/25039.png
+illustrations/pages/25040.png
+illustrations/pages/25041.png
+illustrations/pages/25042.png
+illustrations/pages/25043.png
+illustrations/pages/25044.png
+illustrations/pages/25045.png
+
+translations:
+
+English (Translation)	Honest girl	id=20373
+Kinyarwanda (Translation)	Umukobwa w' umunyakuri	id=20378
+Lusoga (Translation)	Omughala ow'amazima	id=25795
+Ng’aturkana (Original)	Apese Nape Ayeni Akoko	id=20371

@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=32716&d=0&a=1
+id:	32716
+title:	Tuge koga
+author:	Jean-François Rubanda
+artist:	Alice Inzikuru
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32716.png
+desc:	Inzoka yigaga koga ariko birayinanira ishaka kurohama. Amahirwe yayo akanyamasyo kari hafi aho karayitabara.
+
+page_text:
+
+P1	Habayeho inzoka n'akanyamasyo bikaba inshuti cyane.
+P2	Umunsi umwe akanyamasyo kabwira inzoka kati: "Tuge koga." Inzoka iragasubiza iti: "Ndabyemeye ariko sinzi koga." Akanyamasyo kati: "Ndakwigisha."
+P3	Nuko biragenda no ku kiyaga. Bihageze akanyamasyo kabaza inzoka kati: "Ni nde ubanza mu mazi?" Inzoka iragasubiza iti: "Ni wowe, nge ndakurebera."
+P4	Akanyamasyo kajya mu mazi. Inzoka ikomeza kurebera ku nkombe.
+P5	Hashize umwanya, inzoka na yo ijya mu mazi akanyamasyo na ko kayiha amabwiriza.
+P6	Inzona n'akanyamasyo bitangira byogera mu mazi magufi y'ikiyaga.
+P7	Bitangira gusatira amazi magari.
+P8	Uko byitaruraga inkombe, akanyamasyo gatangira koga ngarama. Inzoka igize ngo irakigana birayinanira itangira kurohama.
+P9	Akanyamasyo kageze aho karabukwa ko inzoka yazimiye. Kihutira kureba uko kakiza ubuzima bwayo.
+P10	Akanyamasyo karoga kayikuramo. Kayigejeje imusozi karayikanda kugira ngo iruke amazi yari yanyoye.
+P11	Kayikorera n'ubundi butabazi amazi yose yari yanyoye irayaruka.
+
+images:
+
+illustrations/pages/9175.png
+illustrations/pages/9175.png
+illustrations/pages/9176.png
+illustrations/pages/9177.png
+illustrations/pages/9178.png
+illustrations/pages/9179.png
+illustrations/pages/9180.png
+illustrations/pages/9181.png
+illustrations/pages/9187.png
+illustrations/pages/9182.png
+illustrations/pages/9183.png
+illustrations/pages/9184.png
+
+translations:
+
+Afrikaans (Translation)	Swem	id=11331
+English (Translation)	Swimming	id=9190
+French (Translation)	Allons Nager	id=10936
+isiNdebele (Translation)	Ukududa	id=13780
+Lugbarati (Original)	Yii Wezu	id=9189
+Lusoga (Translation)	Okwewuga	id=26352
+Lusoga (Translation)	Okwewuuga	id=28514
+Ng’aturkana (Translation)	Akilulumare	id=20495
+Rutooro (Translation)	Kuziha	id=14942
+Setswana (Translation)	Thuma	id=11482

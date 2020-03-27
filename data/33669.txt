@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=33669&d=0&a=1
+id:	33669
+title:	Múmoni
+author:	Ursula  Nafula
+artist:	Sue  Beattie
+lang:	Lubukusu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33669.png
+desc:	Iyika kamasiina ke bibindu binyolekhana mumoni mwoo.
+
+page_text:
+
+P1	Chíimoni
+P2	Kamaru
+P3	Kumunwa
+P4	Kámoolu
+P5	Siilefu
+P6	Kámeeno
+P7	Lúúlimi
+P8	Chíisaya
+P9	Bíísike
+P10	Líichuune
+
+images:
+
+illustrations/pages/26803.png
+illustrations/pages/26807.png
+illustrations/pages/26808.png
+illustrations/pages/26802.png
+illustrations/pages/26800.png
+illustrations/pages/26801.png
+illustrations/pages/26755.png
+illustrations/pages/26810.png
+illustrations/pages/26809.png
+illustrations/pages/26804.png
+illustrations/pages/26806.png
+
+translations:
+
+Afrikaans (Translation)	Gesig	id=32140
+Anii (Adaptation)	Gayɛ	id=32694
+Cinyanja (Mozambique) (Translation)	Nkope	id=31437
+Cinyungwe (Translation)	Nkhope	id=31439
+Cisena (Translation)	Nkhope	id=31441
+Echiziinza (Translation)	Obúso	id=25010
+Echiziinza (Translation)	Obúso	id=30270
+Echuwabo (Translation)	Kove	id=31443
+Elomwe (Translation)	Ethoni	id=31452
+Emakhuwa (Translation)	Owiitho	id=31454
+English (Original)	Face	id=23135
+French (Adaptation)	Le visage	id=32695
+Ikisimbëtë (Translation)	Ubhusyö	id=30267
+Imeetto (Translation)	Ikhove	id=33176
+isiXhosa (Translation)	Ubuso	id=33178
+Kiswahili (Translation)	Uso	id=29975
+Lusoga (Translation)	Mumaiso	id=30326
+Lusoga (Translation)	Mu maiso	id=30407
+Olunyaneka (Translation)	Ocipala	id=31456
+Portuguese (Translation)	Cara	id=31435

@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=33533&d=0&a=1
+id:	33533
+title:	Mbuzi, Mbwa na Ng'ombe
+author:	Brigid Simiyu
+artist:	Marleen Visser
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33533.png
+desc:	Mbuzi
+
+page_text:
+
+P1	Mbuzi, Mbwa na Ng'ombe walikuwa marafiki wakubwa. @@Siku moja walisafiri kwa teksi.
+P2	Walifika mwisho wa safari yao.@@Dereva aliwauliza walipe nauli zao. @@Ng'ombe akalipa.
+P3	Mbwa hakuwa na kiasi kamili cha pesa, akalipa zaidi kidogo.
+P4	Dereva alikuwa anajitayarisha kumrudishia Mbwa baki ya pesa zake.@@Wakati huo, Mbuzi alitoroka bila kulipa chochote.
+P5	Dereva akakasirika sana. @@Akaondosha gari bila kumrudishia Mbwa baki ya pesa zake.
+P6	Hiyo ndiyo sababu, siku zote, Mbwa hulikimbilia gari. @@Nia yake ni kumpata dereva amrudishie baki ya pesa zake.
+P7	Mbuzi, anapousikia mlio wa gari, hutoroka. @@Yeye huogopa kushikwa kwa kukosa kulipa nauli.
+P8	Ng'ombe huwa hashughuliki gari linapokuja. @@Yeye huchukua muda kuvuka barabara.@@ Anajua kwamba alilipa nauli yake kamili!
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu na Ngombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Imeetto (Translation)	Ipuri, Mwalapwa, ni Imope	id=33187
+Kanuri (Translation)	Kanyi-a Kǝri-a Fe-a	id=32374
+Kinyarwanda (Translation)	Ihene, Imbwa, n'Inka	id=32575
+Luganda (Translation)	Wambuzi, Wambwa ne Wante	id=33531
+Lumasaaba (Translation)	Imbusi, Imbwa ni Ingaafu	id=33464
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

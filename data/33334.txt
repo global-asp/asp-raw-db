@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33334&d=0&a=1
+id:	33334
+title:	Fourmi Grosse-tête et Pigeon Paresseux
+author:	Zanne Viljoen
+artist:	Joe  Werna
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33334.png
+desc:	Ceux qui travaillent dur peuvent être des rois.  Ceux qui chantent bien peuvent persuader les rois.
+
+page_text:
+
+P1	Fourmi Grosse-tête était un bon fermier. Il vivait au sol avec sa famille.
+P2	Ils travaillaient très dur dans la ferme. @@Sa famille vivait bien.
+P3	Pigeon était le voisin de Fourmi.@@La famille Pigeon vivait dans un arbre.
+P4	Pigeon et sa famille ne cultivaient pas.@@Ils se reposaient tout le temps.
+P5	Pigeon et sa famille étaient de très bons chanteurs.
+P6	"Vous partagez votre nourriture?" a demandé Pigeon.@"Non!  Va travailler!
+P7	Le pigeon est descendu et s'est mis à chanter : "La fourmi est roi !"
+P8	"Fourmi est roi ! Fourmi est roi !"@@Fourmi adorait cette chanson.
+P9	Après avoir mangé, Pigeon et sa famille sont rentrés à leur arbre.
+P10	Le lendemain, Pigeon se moquait de Fourmi.@@"Tu as une grosse tête?"
+P11	"Tu es ingrat et paresseux !" se plaignait Fourmi.
+P12	"Je suis désolé !" dit Pigeon et s'est mis à chanter, "Fourmi est roi !"
+
+images:
+
+illustrations/pages/28294.png
+illustrations/pages/28296.png
+illustrations/pages/28297.png
+illustrations/pages/28298.png
+illustrations/pages/28301.png
+illustrations/pages/28302.png
+illustrations/pages/28303.png
+illustrations/pages/28304.png
+illustrations/pages/28309.png
+illustrations/pages/28305.png
+illustrations/pages/28307.png
+illustrations/pages/28308.png
+illustrations/pages/28306.png
+
+translations:
+
+English (Adaptation)	Big-head Ant and lazy Pigeon	id=32520
+isiZulu (Translation)	Intuthwane enekhanda elikhulu nejuba	id=32909
+Kiswahili (Translation)	Siafu na Njiwa mvivu	id=33291
+Tiv (Translation)	Kon-Iyôn man Atii	id=32498

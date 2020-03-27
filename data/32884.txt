@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=32884&d=0&a=1
+id:	32884
+title:	Le ke lapa la boMara
+author:	Make  Phala
+artist:	Zito Jorge Ngovene
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32884.png
+desc:	Lapa la boMara leo le nago le tate
+
+page_text:
+
+P1	Yo ke Mara.
+P2	Le ke lapa la boMara.
+P3	Yo ke kgaetšedi wa Mara. @@Yena o raloka kgwele ya maoto.
+P4	Yo ke mogolo wa Mara. @@Yena o robetše.
+P5	Yo ke mme wa Mara. @@Mme wa gagwe o apea dijo.
+P6	Yo ke tate wa Mara. @@Yena o aga ntlo.
+P7	Yo ke koko wa Mara. @@Yena o dutše ka fase ga mohlare.
+
+images:
+
+illustrations/pages/28024.png
+illustrations/pages/28018.png
+illustrations/pages/28024.png
+illustrations/pages/28019.png
+illustrations/pages/28020.png
+illustrations/pages/28021.png
+illustrations/pages/28022.png
+illustrations/pages/28023.png
+
+translations:
+
+English (Adaptation)	This is Mara's family	id=32409
+Setswana (Translation)	Lo ke losika lwa ga Mara	id=32907

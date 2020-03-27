@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=33609&d=0&a=1
+id:	33609
+title:	Katika mawazo yangu
+author:	Ursula  Nafula
+artist:	Joe  Werna
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33609.png
+desc:	Uwezo wa mawazo! Unaweza kuwaza juu ya nini?
+
+page_text:
+
+P1	Mawazo yangu ni kama ufunguo unaofungua kila mlango!
+P2	Katika mawazo yangu, mwavuli wangu una mipini miwili ili niweze kuushikilia na dada yangu.
+P3	Katika mawazo yangu, kuna nyuki shujaa.
+P4	Nyuki shujaa, wanaoruka majini kwa urahisi...
+P5	... kama wanavyoruka angani!
+P6	Katika mawazo yangu, naona maua humea katika viatu na kuimba.
+P7	Katika mawazo yangu, kila mtoto hula aiskrimu wakati wa chakula cha jioni...
+P8	...na kisha hulala maua yanapouimbia mwezi wa rangi ya kizambarau.
+
+images:
+
+illustrations/pages/28909.png
+illustrations/pages/28911.png
+illustrations/pages/28912.png
+illustrations/pages/28914.png
+illustrations/pages/28913.png
+illustrations/pages/28908.png
+illustrations/pages/28917.png
+illustrations/pages/28918.png
+illustrations/pages/28916.png
+
+translations:
+
+English (Adaptation)	My Imagination	id=33600

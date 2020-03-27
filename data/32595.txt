@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=32595&d=0&a=1
+id:	32595
+title:	Nywele
+author:	Ursula  Nafula
+artist:	Bronwen Heath
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32595.png
+desc:	Tazama jinsi watu tofauti wanavyozichana na kuzirembesha nywele zao.
+
+page_text:
+
+P1	Terry ana nywele fupi.
+P2	Anna ana nywele ndefu.
+P3	Kate ana nywele ndefu zaidi.
+P4	Dama amesuka nywele zake.
+P5	Baba ana ndevu.
+P6	Sara amechana nywele zake.
+P7	Toni amekata nywele zake.
+P8	Tim amenyoa nywele zake.
+
+images:
+
+illustrations/pages/28604.png
+illustrations/pages/28605.png
+illustrations/pages/28606.png
+illustrations/pages/28607.png
+illustrations/pages/28608.png
+illustrations/pages/28609.png
+illustrations/pages/28610.png
+illustrations/pages/28611.png
+illustrations/pages/28612.png
+
+translations:
+
+English (Original)	Hair	id=32577
+Kinyarwanda (Translation)	Umusatsi	id=32578
+Luganda (Translation)	Enviiri	id=33529

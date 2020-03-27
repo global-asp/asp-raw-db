@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33577&d=0&a=1
+id:	33577
+title:	In yi da be ka mana
+author:	Solomon  Douglas
+artist:	Rob Owen
+lang:	Jenjo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33577.png
+desc:	Mana ni di pa nyhili ni taman baka ni na.
+
+page_text:
+
+P1	In yi da ka mana!
+P2	Vi na pekana, ngta Kwanka mako.
+P3	In ba e kayan inyaning. In ba e ka vi, ka feyan, kance, Nzing-nzing, be e ka yu.
+P4	In ba e gwa yang yan, be e ka.
+P5	In ba e nywi yan, be e nyi-nyi, be zaa tan sa le.
+P6	Nmamma yan sa na nbaka so a ka kanyiwa chuani.
+P7	In ba ning binhu yan, in ba nywhi yan, be ha, be nkiliyoba, be ywaming. Be faa.
+P8	Kwanka mako ni di pa nyhili ni taman baka ni na. A kwala yan! Ma yidi pide?
+
+images:
+
+illustrations/pages/16540.png
+illustrations/pages/16577.png
+illustrations/pages/16539.png
+illustrations/pages/16544.png
+illustrations/pages/16541.png
+illustrations/pages/16543.png
+illustrations/pages/16542.png
+illustrations/pages/16540.png
+
+translations:
+
+English (Translation)	I love forests	id=16578
+French (Translation)	J'adore les forêts	id=33800
+Kinyarwanda (Translation)	Nkunda amashyamba	id=20684
+Lusoga (Translation)	Nnendha ebibira	id=24842
+Rutooro (Original)	Ngonza Ebibira	id=16545
+Tiv (Translation)	M Soo Akô	id=32803

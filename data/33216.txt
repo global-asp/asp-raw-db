@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=33216&d=0&a=1
+id:	33216
+title:	Paka na Mbwa na Yai
+author:	Ursula  Nafula
+artist:	Elke and René Leisink
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33216.png
+desc:	Paka na Mbwa ni marafiki. Wanaona yai kwenye nyasi. Je
+
+page_text:
+
+P1	Huyu ni Paka.@@Huyu ni Mbwa.
+P2	Paka na Mbwa wanatembea.@@Wanatembea kijijini kwao.
+P3	Kisha wanaliona yai.@@Yai liko nyasini.@@Yai liko peke yake nyasini.@@Yai liko peke yake.
+P4	Paka na Mbwa wanamwendea ndege.@@Wanamwuliza, "Yai hili ni lako?"
+P5	Lakini ndege anasema, "La, hilo si yai langu. Mwulize bundi. Labda yai ni lake."
+P6	Paka na Mbwa wanamwendea bundi.@@Wanamwuliza, "Yai hili ni lako?"
+P7	Lakini bundi anasema, "La, hilo si yai langu. Mwulize bata bukini. Labda yai ni lake."
+P8	Paka na Mbwa wanamwendea bata bukini.@@Wanamwuliza, "Yai hili ni lako?"
+P9	Lakini bata bukini anasema, "La, hilo si yai langu. Waulize wale bata wawili. Labda yai ni lao."
+P10	Paka na Mbwa wanawaendea wale bata wawili.@@Wanawauliza, "Yai hili ni lenu?"
+P11	Lakini wale bata wawili wanasema, "La, hilo si yai letu."@@Halafu, yai linavunjika.
+P12	Wanamwona mjusi kwenye yai.@@Mjusi mtoto.
+P13	Mjusi mtoto anasema, "Mama yangu yuko wapi? Baba yangu yuko wapi? Wapi baba na mama yangu?"@@Paka na Mbwa wanampeleka mjusi mtoto kwa baba na mama yake.
+P14	Kwaheri Paka.@@Kwaheri Mbwa.@@Kwaheri Mjusi mtoto.
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiTonga (Translation)	Kaaze, Mubwa AJi	id=20770
+CiNyanja (Translation)	Cona, Galu na zila	id=20793
+English (Original)	Cat and Dog and the Egg	id=20150
+Kinyarwanda (Translation)	Injangwe, Imbwa n' Igi	id=31694
+Lulamoogi (Translation)	Opuusi n'ombwa n'eigi	id=25360
+Lusoga (Translation)	Puusi embwa neigi	id=26358
+Ng’aturkana (Translation)	Ipaka, Nying'ok ka Abeye	id=33424
+Persian (Afghanistan) (Translation)	سگ و گربه و تخم	id=33604
+SiLozi (Translation)	Kaze, Nja  ni Lii	id=20924

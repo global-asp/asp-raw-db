@@ -1,0 +1,66 @@
+url:	https://africanstorybook.org/reader.php?id=33508&d=0&a=1
+id:	33508
+title:	Bana ba kerese
+author:	Maria Vaz
+artist:	Wiehan de Jager
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33508.png
+desc:	Ho ne ho ena le lelapa le neng le ena e bana ba ikokobeditseng haholo. Bothata e ne e le hore ba ne ba entswe ka kerese mme kahoo ba ne ba sa tlameha ho ya kantle letsatsing. Empa emong wa bana bana o ne a lakatsa ho bona lefatshe motsheare.
+
+page_text:
+
+P1	Kgalekgale ho ne ho ena le lelapa le neng le dula le thabile.
+P2	Bana ba lapa lena ba ne ba sa rate ho lwana. Ba ne ba ikokobeditse, mme ba ne ba thusa batswadi ba bona ka mosebetsi wa ka tlung le wa masimong.
+P3	Ba ne ba etsa mesebetsi ya bona bosiu feela.
+P4	Feela ba ne ba sa dumellwa ho atamela mollo…
+P5	hobane ba ne ba entswe ka kerese.
+P6	Empa e mong wa bashanyana o ne a lakatsa ho tswela kantle letsatsing.
+P7	Tsatsi le leng takatso ya hae ya ho tswela kantle ya eba matla hoo baenae ba ileng ba mo kgalema hore a se etse seo hobane o tla qhibidiha.
+P8	Empa ha a ka a mamela, mme o ile a qhibidiha ke letsatsi le neng le tjhesa haholo.
+P9	Bana ba kerese ba lla ha ba bona ngwana habo bona a qhibidiha.
+P10	Kamora sena, ba rera ho nka kerese e qhibidihileng ho bopa nonyana ka yona.
+P11	Ha ba qeta ba nka nonyana ba e beha thabeng e hodimodimo.
+P12	Eitse ha letsatsi le ntse le phahama nonyana ya fofa, ya bina mahlaseding a letsatsi la hoseng.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die kerswaskinders	id=11550
+Arabic (Translation)	أطفال الشمع	id=21881
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of wax	id=2181
+English (Adaptation)	(Colour-in) Children of wax	id=32503
+isiXhosa (Translation)	Abantwana bekhandlela	id=2500
+isiZulu (Translation)	Abantwana abenziwe ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kinyarwanda (Translation)	Abana b'ibishashara	id=32630
+Kiswahili (Translation)	Watoto walioumbwa kwa nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Luganda (Translation)	Abaana b'ebisasalala	id=22947
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Lusoga (Translation)	Abaana abaatondebwa munvumbo	id=26692
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana be iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana ba entsoeng ka kerese	id=10366
+Setswana (Translation)	Bana ba kerese	id=2519

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33361&d=0&a=1
+id:	33361
+title:	Bailando
+author:	Heidi  Schubert
+artist:	Catherine Groenewald
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33361.png
+desc:	Un poema de una chica a la que le encanta bailar. Su maestra encuentra esto irritante
+
+page_text:
+
+P1	Bailo cuando estoy feliz, @Bailo cuando estoy triste, @Bailo cuando estoy sola, @Bailo cuando estoy enojada.
+P2	Mi docente dice: "¡Siéntate quieto! No bailes todo el día."
+P3	Pero mi madre dice: "Bailar te hace saludable, bailar te hace alta, un día serás bailarina, ¡y sorpréndelos a todos!"
+P4	Y yo digo: "Un día bailaré y la gente pagará solo para verme saltar y girar. 'Su baile es TAN bueno,' dirán."
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+French (Translation)	La Danse	id=24817
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Luganda (Translation)	Okuzina	id=22960
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lusoga (Translation)	Okukina	id=24942
+Portuguese (Translation)	Dançando	id=12173
+Rufumbira (Translation)	Kubyina	id=22758
+Rukiga (Translation)	okuzina	id=22981
+Setswana (Translation)	Mokibo	id=2695

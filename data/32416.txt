@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=32416&d=0&a=1
+id:	32416
+title:	Busy busy sun
+author:	Mimi Werna
+artist:	Joe  Werna
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32416.png
+desc:	This story is about the sun as seen through the eyes of a school boy from dawn to dusk.
+
+page_text:
+
+P1	The sun rises in the morning, by the east side.@@I hear the cock crow at dawn.
+P2	The sun moves over Terfa's compound before the morning meal.@@I smell the aroma of bier and akpupa following the sun to my window.
+P3	The sun goes behind a tree at school during lunchtime. @@Then it arrives in a puddle in the middle of the playground.
+P4	The sun stands above my head. My shadow stands beside me. @@I play the shadow game with my friends.
+P5	My shadow grows bigger, then smaller. We run after it.@@My shadow grows longer, then shorter. We run after it.
+P6	I stand, my friends stand. We see our shadows sway. @@We grow tired and return to class. After school, we go home.
+P7	The sun yawns. @@I see the sun sink slowly in the west. I see my shadow on a wall. @@It is time to go to bed.
+P8	The sun goes down behind the clouds.@@I lay down in my bed, and dream of the sun traveling afar.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyangeduen man Iyangemiren	id=32465

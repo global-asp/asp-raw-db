@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33539&d=0&a=1
+id:	33539
+title:	Usapho luka Thembi
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33539.png
+desc:	Meet Maria and her family in this easy reader.
+
+page_text:
+
+P1	Ndingu Thembi.
+P2	Lo ngumama wam.
+P3	Olu lusana.
+P4	Lo ngutata wam.
+P5	Lo ngumtakwethu.
+P6	Lo ngudade wethu.
+P7	Lo ngumakhulu wam.
+P8	Lo ngutato'mkhulu wam.
+P9	Lo ngumalume wam.
+P10	Lo ngumakazi wam.
+P11	Olu lusapho lwam.
+
+images:
+
+illustrations/pages/85590188.png
+illustrations/pages/85590178.png
+illustrations/pages/85590179.png
+illustrations/pages/85590180.png
+illustrations/pages/85590181.png
+illustrations/pages/85590182.png
+illustrations/pages/85590183.png
+illustrations/pages/85590184.png
+illustrations/pages/85590185.png
+illustrations/pages/85590186.png
+illustrations/pages/85590187.png
+illustrations/pages/85590188.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Banja la Maria	id=33828
+Cinyungwe (Translation)	Wadzindza wa Mboyi	id=33829
+Echuwabo (Translation)	Ana Amudhi a Mariya	id=33830
+English (Original)	Maria's Family	id=33152
+Kiswahili (Translation)	Familia ya Maria	id=33659
+Portuguese (Translation)	A Minha Família	id=33538

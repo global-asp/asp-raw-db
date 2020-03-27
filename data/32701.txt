@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=32701&d=0&a=1
+id:	32701
+title:	Imizwa
+author:	Doris Dingiso
+artist:	Kathy Arbuckle
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32701.png
+desc:	Sizizwa kanjani ngezinto ezithile nabantu.
+
+page_text:
+
+P1	Inhliziyo yami izwa izinto eziningi.
+P2	Ngizizwa ngijabulile uma ugogo esixoxela izindaba kusihlwa.
+P3	Ngizizwa ngithokozile uma ngidlala nomngani wami.
+P4	Ngizizwa ngiphatheka kabi uma ubaba ethi akanayo imali.
+P5	Ngizizwa ngithandwa uma umama wami enganga.
+
+images:
+
+illustrations/pages/28597.png
+illustrations/pages/28598.png
+illustrations/pages/28599.png
+illustrations/pages/28600.png
+illustrations/pages/28601.png
+illustrations/pages/28602.png
+
+translations:
+
+English (Original)	Feelings	id=32572
+Kinyarwanda (Translation)	Amarangamutima	id=32573

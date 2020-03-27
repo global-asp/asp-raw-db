@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=32874&d=0&a=1
+id:	32874
+title:	Ifyakufwala Fyandi Ifyakusukulu
+author:	Eunice  Mukonde-Mulenga and Mwanza Nakawala
+artist:	Mlungisi Dlamini
+lang:	IciBemba
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32874.png
+desc:	Ilyashi ili lileelanda pa mwana uuleesha mufyakufwala fyakusukulu. Fimo fyakula. Fimo fyacepa
+
+page_text:
+
+P1	Ilaya lyakwa nkashi yandi lilanseela.
+P2	Sweeta yakwa ndume wandi nayo ikulu taininga.
+P3	Icoola candi cikulu leelo tecikulu saana.
+P4	Uyu mushipi wakale ulampata.
+P5	Ici, ciisote cacilubi candi.
+P6	Insokoshi shandi shilaninga lelo ilangi talilingile.
+P7	Ishi ninsapato shandi ishipya.
+P8	Shaninga bwino saana.
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiNambya (Translation)	Zwimbalo zwangu zwechikolo	id=32628
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+CiNyanja (Translation)	Zovala Zanga Zakusukulu	id=33167
+Ekegusii (Translation)	Chianga chiane chiesukuru	id=31837
+English (Original)	My school clothes	id=31708
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Kῖmῖῖrũ  (Translation)	Nguo ciakwa cia cukuru	id=32843
+Kikamba (Translation)	Ngũa syakwa sya sukulu	id=32168
+Kinyarwanda (Translation)	Imyenda y'ishuri	id=32611
+Kiswahili (Translation)	Nguo zangu za shule	id=33250
+Lingala (Translation)	Bilamba na ngai ya kelasi	id=31795
+Lubukusu (Translation)	Chiingubo chaange cheesisomelo	id=31746
+Oluwanga (Translation)	Etsingubo tsianje etsiamumasomero	id=31729
+Pokomo (Translation)	Mavwazi yangu ya sukuli	id=33503
+Sepedi (Translation)	Diaparo tša ka tša sekolo	id=32066
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827
+Tshivenḓa (Translation)	Zwiambaro zwanga zwa tshikolo	id=32026

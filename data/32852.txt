@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=32852&d=0&a=1
+id:	32852
+title:	Ntano ya Nyemba
+author:	Bether Mwale-Moyo and Moffat Moyo
+artist:	Nina  Orange
+lang:	CiNyanja
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32852.png
+desc:	Ntano yamapikica yomwe inenelela umoyo wa nyemba: kushanga
+
+page_text:
+
+P1	Munzanga ananipasa nyemba zomwe anakolola mumunda wake.
+P2	Nishanga nyemba mudothi.
+P3	Nyemba yayamba kuphukila mu dothi.
+P4	M'mela pokula upita kumwamba kuzuba. Mizu zimela kungena mudothi.
+P5	M'mela utuluka pamwamba pa nthaka.
+P6	M'mela uyamba kukula,
+P7	Na kukula.
+P8	Nishanganso zina nyemba.
+P9	Nyemba zikula,
+P10	Na kukula.
+P11	Nyemba zamela makoko.
+P12	Nyemba zakula kupita kumwamba, na kumwamba kukwela cipupa.
+P13	Nikolola makoko akayuma.
+P14	Nicosa nyemba mu makoko.
+P15	Niphika nyemba, kuphikila pamodzi na anyezi ni ma spaici ena.
+P16	Izi nyemba zapya kuti tidye.
+
+images:
+
+illustrations/pages/28342.png
+illustrations/pages/28338.png
+illustrations/pages/28279.png
+illustrations/pages/28280.png
+illustrations/pages/28281.png
+illustrations/pages/28282.png
+illustrations/pages/28283.png
+illustrations/pages/28339.png
+illustrations/pages/28285.png
+illustrations/pages/28286.png
+illustrations/pages/28287.png
+illustrations/pages/28288.png
+illustrations/pages/28289.png
+illustrations/pages/28340.png
+illustrations/pages/28277.png
+illustrations/pages/28292.png
+illustrations/pages/28293.png
+
+translations:
+
+ChiTonga (Translation)	Buumi bwa Nyabo	id=32854
+ChiTonga (Translation)	Buumi bwa Nyabo	id=32875
+English (Original)	Life story of beans	id=32460
+IciBemba (Translation)	Ubuumi bwa Cilemba	id=32869
+Kῖmῖῖrũ  (Translation)	Rũgono rwa ũtũũro bwa mũng'aũ	id=32817
+Kiswahili (Translation)	Maisha ya maharagwe	id=32596

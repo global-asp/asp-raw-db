@@ -1,0 +1,62 @@
+url:	https://africanstorybook.org/reader.php?id=33028&d=0&a=1
+id:	33028
+title:	Tintfo lengititsandzako
+author:	Gugu  Makhubela and Michelle Longwe
+artist:	Wiehan de Jager
+lang:	Siswati
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33028.png
+desc:	Lena indzaba lefanele bantfwana labancane lemayelana nentfombatane kanye netintfo letitsandzako.
+
+page_text:
+
+P1	Mine ngitsandza ingcatfu.
+P2	Ngitsandza kudlala ingcatfu.
+P3	Ngitsandza kudlala ingcatfu nemngani wami.
+P4	Ngitsandza kufundza incwadzi yami.
+P5	Ngitsandza kudlala nebangani bami engadzini yetimbali.
+P6	Ngiyatsandza kubona emagwebu nangigeza titja.
+P7	Ngitsandza kubhala ebhodini.
+P8	Ngitsandza kudla titselo ngobe tinemsoco.
+P9	Ngitsandza kulala embhedzeni wami lomkhulu.
+P10	Ngiyatsandza kulalela make wami nakacoca indzaba ngetilwane.
+P11	Leti tintfo lengititsandzako!
+
+images:
+
+illustrations/pages/1492.png
+illustrations/pages/1493.png
+illustrations/pages/1494.png
+illustrations/pages/1495.png
+illustrations/pages/1496.png
+illustrations/pages/1497.png
+illustrations/pages/1498.png
+illustrations/pages/1499.png
+illustrations/pages/1500.png
+illustrations/pages/1501.png
+illustrations/pages/1492.png
+illustrations/pages/1502.png
+
+translations:
+
+Alur (Translation)	Amaro	id=33122
+English (Translation)	Ndikonda	id=7774
+English (Adaptation)	I like	id=10430
+English (Adaptation)	I enjoy doing / Ninafurahi	id=15274
+English (Translation)	Cilandikonda - I Enjoy	id=16451
+French (Translation)	Je M'amuse - I Enjoy	id=9769
+French (Adaptation)	Je M'amuse.	id=32682
+French (Translation)	J'aime ...	id=33413
+Kiswahili (Original)	Ninafurahi / I Enjoy	id=2106
+Luganda (Translation)	Nyumirwa	id=8284
+Lugbarati (Official) (Translation)	Álèàvásɨ̀	id=8785
+Lumasaaba (Translation)	Nikhoya	id=8285
+Lunyole (Translation)	Ese nyumirwa	id=8400
+Lusoga (Translation)	Kyennhumirwa okukola	id=25210
+Lusoga (Translation)	Nnhumirwa  okuzaanha	id=28517
+Maa (Translation)	Káshípákíno	id=7869
+Ng’aturkana (Translation)	Alakarikina	id=8449
+Oluwanga (Translation)	Ndachama	id=8283
+Rutooro (Translation)	I Enjoy - Ngonza	id=9484
+Tunisian (Translation)	Yeɛjibni	id=15382

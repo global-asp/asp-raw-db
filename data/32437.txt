@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=32437&d=0&a=1
+id:	32437
+title:	Letsatsi, Kgwedi, Pula le Moya
+author:	Maria Vaz
+artist:	Children of Paleng
+lang:	Sesotho (South Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32437.png
+desc:	Letsatsi
+
+page_text:
+
+P1	Kgale kgale Letsatsi, Kgwedi, Pula le Moya di ne di lwantshana.
+P2	Kgang ya bona e ne e le hore Letsatsi le ne le batla ho tjhaba ka nako tsohle. Kgwedi e batla ho kganya ka nako tsohle, Pula e batla ho na ka nako tsohle, le moya o batla ho foka ka nako tsohle. Di ne di sa batle ho fana sebaka.
+P3	Yaba ba rera ho ba le sebaka sa ho tla bua ka tshebedisano mmoho.
+P4	Kopanong ya bona, Letsatsi la botsa Kgwedi. "Ke eng e molemo eo o tla thusa lefatshe ka yona?" Kgwedi ya araba ya re, "Ke kgantshetsa diphoofolo tse hlaha hore di tsome dijo tse di tla dija."
+P5	Kgwedi le yona ya botsa Pula ya re, "Na molemo wa hao ke ofe ho thusa lefatshe?" Pula ya re, "Ke fa lefatshe metsi hore dimela tsohle di hole hantle, hape ke fa diphoofolo metsi hore di nwe."
+P6	Pula yona ya botsa Moya hore molemo wa ona ke ofe lefatsheng. Moya wa araba ka hore, "Ke fiela lefatshe hore le hlweke, hape ke thusa Pula ho hasa metsi hohle lefatsheng ka bophara ba lona."
+P7	Moya le ona wa botsa Letsatsi wa re, "Na wena molemo wa hao ke eng lefatsheng?" Ke neha lefatshe kganya le mofuthu hore diphoofolo le dimela di phele ha monate."
+P8	Yaba Letsatsi, Kgwedi, Pula le Moya di a utlwana hore di molemo kaofela ka ho fapana.
+P9	Yaba Letsatsi le re, "Ke nnete hore e mong le e mong o na le molemo oo a thusng lefatshe ka ona." Kgwedi ya re, "Ee, ha ho ya betere ho feta e mong hara rona." Pula yona ya re, "Re tla sebetsa mmoho." Yaba Moya o re, "Ha re arolelaneng matsatsi." Kaofela ba dumellana.
+P10	Ke ka hona o bonang ka dinako tse ding, Kgwedi e ntse e le teng motsheare Letsatsi le tjhabile. Ka  nako tse ding o utlwa Moya o foka le ha Pula e ntse e na? Letsatsi, Kgwedi, Pula le Moya di sebetsa hantle ka kutlwano.
+P11	Wena o ratang, letsatsi, kgwedi, pula kapa moya ho feta tse ding? Taka eo o e ratang ho feta tse ding.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+CiNyanja (Translation)	Zuba, Mwezi, Mvula na Mpepo	id=32840
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sepedi (Translation)	Letšatši, Ngwedi, Pula le Moya	id=32458
+Sesotho (Lesotho) (Original)	Letsatsi, Khoeli, Pula le Moea	id=16109
+Siswati (Translation)	Lilanga, Inyanga, Imvula neMoya	id=32444

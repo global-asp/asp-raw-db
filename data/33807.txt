@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33807&d=0&a=1
+id:	33807
+title:	Kobatama pe komona
+author:	Theresa  Nyemba
+artist:	Mary  Z
+lang:	Lingala
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33807.png
+desc:	Esengo ya kobatama na komona ezali kitoko
+
+page_text:
+
+P1	Nkana na ngai ya mobali azalaki koluka ngai.
+P2	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12…@@…92, 93, 94, 95, 96, 100!
+P3	Nabombamaki na sima ya elamba ya ezibeli ya ndako.
+P4	Alukaki ngai na ndaku mobimba.
+P5	Ayaki kokota na esika oyo na bombamaki.
+P6	Nazalaki koningana te.@@Nakanisaki, "Ye alingaki amona ngai."
+P7	Sima, na yango abimaki.
+P8	Nakimaki bangu.@@Na ngangi, "Omoni ngai te!"
+
+images:
+
+illustrations/pages/91400133.png
+illustrations/pages/91400137.png
+illustrations/pages/91400133.png
+illustrations/pages/91400134.png
+illustrations/pages/91400135.png
+illustrations/pages/91400136.png
+illustrations/pages/91400132.png
+
+translations:
+
+English (Original)	Hide and Seek	id=33737
+French (Translation)	Cache - Cache	id=33851
+isiZulu (Translation)	Sidlala umacashelana	id=33776
+Kiswahili (Translation)	Kucheza Kidalipo	id=33838
+Sesotho (South Africa) (Translation)	Boleke maipatile	id=33792

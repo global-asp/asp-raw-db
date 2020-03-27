@@ -1,0 +1,74 @@
+url:	https://africanstorybook.org/reader.php?id=33401&d=0&a=1
+id:	33401
+title:	Kulalela umtimba wami
+author:	Mduduzi Benjie Shongwe
+artist:	Angie and  Upesh
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33401.png
+desc:	Wake wakulalela yini loko umtimba wakho lokutjela kona?
+
+page_text:
+
+P1	Lamuhla angiyi esikolweni. Liholidi!
+P2	Lamuhla ngeke ngiyibukele i-TV, njengobe gesi ungekho.
+P3	Yini lengitoyenta?@@Lamuhla ngitolalela umtimba wami!
+P4	Kwekucala, kufanele ngithule dvu! Kute ngikwati kulalela umtimba wami.
+P5	Nako-ke, nyalo sengingakwati kuva nangabe ngiphefumula.@@Ngiyaphefumula ngidvonsa umoya ngiphindze ngiwukhiphe, ngiyawudvonsa ngiphindze ngiwukhiphe.
+P6	Futsi ngingaphefumulela etulu. Sssssssssssss!@@Bese ngiphefumulela phansi. Mmmmmmm.
+P7	Nyalo sengingayiva inhlitiyo yami nayishaya!@@Doodom, doodoom. Dooo doom.
+P8	Ngingakhona yini kwenta inhlitiyo yami kutsi ishaye ngekushesha nobe ibe nemsindvo?@@Yebo, ngekutsi ngizube ngiye etulu naphansi tikhatsi letingemashumi lamabili.
+P9	Buka-ke nyalo, inhlitiyo yami seyishaya ngekushesha.
+P10	Nangibeka iminwe yami esihlakaleni, ngitokwati kuva kushaya kwenhlitiyo yami!
+P11	Ngingakwati kutiva nangabe ngihleka.@@Haha, haha, haaah, haaa!
+P12	Ngingakwati kutiva nangabe ngikhala.@@Hhiiiiii, hhiiiiii!
+P13	Ngingakwati kutiva nangabe ngishaya tandla.@@Klap, klap, klap.
+P14	Ngingasiva sisu sami nasenta umsindvo lomkhulu!@@Guddu, guddu, guddu.
+P15	Sisu sami sitsi, "Ngiphe kudla!"
+P16	Likhala lami liva liphunga lelimnandzi lemakhekhe labhakwa ngumake edladleni.@@Futsi nyalo sengifuna kuva imihlatsi yami nangabe seyihlafuna lawo makhekhe!
+
+images:
+
+illustrations/pages/2008.png
+illustrations/pages/2009.png
+illustrations/pages/2010.png
+illustrations/pages/2011.png
+illustrations/pages/2012.png
+illustrations/pages/2013.png
+illustrations/pages/2014.png
+illustrations/pages/2016.png
+illustrations/pages/2017.png
+illustrations/pages/2018.png
+illustrations/pages/2019.png
+illustrations/pages/2020.png
+illustrations/pages/2021.png
+illustrations/pages/2022.png
+illustrations/pages/2023.png
+illustrations/pages/2024.png
+illustrations/pages/2025.png
+
+translations:
+
+English (Original)	Listen to my body	id=13202
+English (Adaptation)	Listen to my Body	id=13558
+isiXhosa (Translation)	Mamela kumzimba wam	id=2933
+isiXhosa (Translation)	Mamela umzimba wam	id=14960
+isiZulu (Translation)	Lalela umzimba wami	id=2910
+Khoekhoegowab (Translation)	Ti sorosa ǃgâs xa	id=24662
+Kinyarwanda (Translation)	Umva umubiri wange	id=23762
+Kiswahili (Translation)	Nausikiliza mwili wangu	id=15713
+Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
+Luganda (Translation)	Wuliliza omubiri gwange	id=23237
+Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
+Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
+Lusoga (Translation)	wulirisa omubiri gwange	id=30352
+Maa (Translation)	Ainining Osesen Lai	id=2927
+Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
+Oshikwanyama (Translation)	Handi pwilikine olutu lange eshi tali ti	id=24134
+Oshindonga (Translation)	Pulakena kolutu lwandje	id=23899
+Otjiherero (Translation)	Puratene ko rutu randje	id=24174
+Rukwangali (Translation)	Purakena korutu rwange	id=31492
+Sepedi (Translation)	Theeletša mmele wa ka	id=33462
+Sesotho (Lesotho) (Translation)	Mamela mmele oaka	id=2031
+Sesotho (South Africa) (Translation)	Mamela mmele wa ka	id=33373

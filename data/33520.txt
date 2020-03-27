@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=33520&d=0&a=1
+id:	33520
+title:	Phoso ya Mojalefa
+author:	Maria Vaz
+artist:	Marion Drew
+lang:	Sesotho (South Africa)
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33520.png
+desc:	Mme wa Mojalefa o mo kopa hore a ye lebenkeleng. Ha a ntse a le tseleng ho etsala ntho e mpe
+
+page_text:
+
+P1	Mme o kopa Mojalefa hore a ye lebenkeleng. "E ya lebenkeleng la ntate Ramosebetsi o ilo reka nama ya kgoho eo re tla e ja bosiung bona."
+P2	Yaba o mo fa R50. Mojalefa a e kenya ka mokotlaneng wa borikgwe ba hae.
+P3	Tseleng a fapohela ha mme Malekau, a feta tshimong ya ntate Pitso, a ya ha mme Mampho ya neng a ntse a hlatswa diphahlo tsa hae lebaleng.
+P4	Ho ya ha ntate Ramosebetsi e ne ele tsela e telele haholo. Mojalefa o ne a tsamaya butle haholo. @@A kenya letsoho hara motlana wa hae, mme R50 e ne e ntse e le teng ka mokotlaneng.
+P5	Empa ho ne ho na le ho hong ka mokotlaneng wa hae. E ne e le pompong. Mojalefa a re, "Mmm, pompong ena e tla nthusa ho tsamaya tsela ena e telele." @@A akgela pompong ka lehanong, "Mmm, pompong ena e monate."
+P6	A phakisa a fihla lebenkeleng la ntate Ramosebetsi a nka nama ya kgoho ho ya e patalla.
+P7	Eitse ha a kenya letsoho ka mokotlaneng, a fumana R50 e seyo. @@A sheba ka mokotlaneng o mong R50 ya re, "O mpeile kae?"
+P8	Mojalefa a ferekana haholo, a tswa ka lebenkeleng a matha. O ne a sa tsebe hore a etse jwang. @@A tlameha hore a kgutlele hae a sa tshwara kgoho, a tseba feela hore mmae o tlo halefa.
+P9	A kgutlela hae a tsamaya butle, a shebile fatshe, a bona mme Mampho. O ne a ntse a hlatswa diphahlo tsa hae.
+P10	Mme Mampho a mmotsa a re, "Hobaneng o shebahala o hloname tjee Mojalefa?" @@"Ke lahlehetswe ke tjhelete eo mme a neng a nthomme ka yona, mme ke a tseba hore mme o tlo halefa." @@"Ha o ka shebisisa hantle, ke a kgolwa hore o ka e fumana," ke mme Mampho eo.
+P11	Mojalefa a tsamayatsamaya hape. A shebasheba jwanng, yaba o bona pampitshana e mmala o pinki. Eitse ha a e shebisisa a fumana e le yona R50 eo a neng  a ntse a e batla.
+P12	A e thonaka yaba o a hweletsa o re, "Mme Mampho, ke e fumane!" @@A matha a kgutlela lebenkeleng la ntate Ramosebetsi. O ne a thabile haholo, a reka  kgoho eo mmae a neng a mo romme yona. @@Ha o ne o le Mojalefa o ne o tla ikutlwang jwang ka ho lahla tjhelete, ebe o boela o a e fumana?
+
+images:
+
+illustrations/pages/19394.png
+illustrations/pages/19388.png
+illustrations/pages/19389.png
+illustrations/pages/19390.png
+illustrations/pages/19391.png
+illustrations/pages/19392.png
+illustrations/pages/19393.png
+illustrations/pages/19394.png
+illustrations/pages/19395.png
+illustrations/pages/19396.png
+illustrations/pages/19397.png
+illustrations/pages/19398.png
+illustrations/pages/19399.png
+
+translations:
+
+English (Translation)	Mojalefa's mistake	id=19472
+Sesotho (Lesotho) (Original)	Phoso ea Mojalefa	id=19471

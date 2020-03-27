@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=33531&d=0&a=1
+id:	33531
+title:	Wambuzi, Wambwa ne Wante
+author:	Martha Nansamba
+artist:	Marleen Visser
+lang:	Luganda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33531.png
+desc:	Wambuzi
+
+page_text:
+
+P1	Wambuzi, Wambwa ne Wante baali ba mukwano nnyo. @@Olumu baagenda ku lugendo mu takisi.
+P2	Bwe baatuuka gye balaga, omugoba w'emmotoka naabasaba basasule ssente. @@Wante yasasula ezize.
+P3	Wambwa yasasula ezisinga ku ze yali alina okusasula, kubanga teyalina muwendo gwa ssente gwennyini.
+P4	Omugoba w'emmotoka yali anaatera okuddiza Wambwa ssente ze. @@Naye Wambuzi n'atandika okudduka ate nga tasasudde.
+P5	Omugoba yanyiiga nnyo.@@Era n'agenda nga taddizza Wambwa ssente ze.
+P6	Ky'ova olaba n'okutuusa leero, Wambwa adduka okulingiza mu mmotoka. @@Alabe omugoba omuvuzi w'emmotoka alina ssente ze.
+P7	Ate ye Wambuzi bw'awulira emmotoka ejja.@@Adduka kubanga atya nti bayinza okumukwata olw'obutasasula.
+P8	Wante ye tafaayo oba emmotoka ne bw'eba ejja. @@Asala ekkubo nga yeetwala anti akimanyi nti yasasula n'amalayo.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu na Ngombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Imeetto (Translation)	Ipuri, Mwalapwa, ni Imope	id=33187
+Kanuri (Translation)	Kanyi-a Kǝri-a Fe-a	id=32374
+Kinyarwanda (Translation)	Ihene, Imbwa, n'Inka	id=32575
+Kiswahili (Translation)	Mbuzi, Mbwa na Ng'ombe	id=33533
+Lumasaaba (Translation)	Imbusi, Imbwa ni Ingaafu	id=33464
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33800&d=0&a=1
+id:	33800
+title:	J'adore les forêts
+author:	Zanne Viljoen
+artist:	Rob Owen
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33800.png
+desc:	Dans la forêt de Kibale
+
+page_text:
+
+P1	J'adore les forêts !
+P2	La semaine dernière je suis allée à la forêt de Kibale.
+P3	J'ai vu beaucoup d'arbres.  J'ai vu des figuiers, des mvules, des palmiers et des ébènes.
+P4	J'ai vu des chimpanzés, des babouins et des singes.
+P5	J'ai vu plusieurs sortes d'oiseaux.  J'ai vu des grues huppées, des aigles et des hiboux.
+P6	J'ai rigolé quand j'ai vu un grand éléphant avec une queue très petite !
+P7	J'ai vu tant d'animaux, d'oiseaux et de plantes différents.
+P8	La forêt de Kibale est un bon endroit à visiter. J'adore les forêts ! Tu les aimes ?
+
+images:
+
+illustrations/pages/16540.png
+illustrations/pages/16577.png
+illustrations/pages/16539.png
+illustrations/pages/16544.png
+illustrations/pages/16541.png
+illustrations/pages/16543.png
+illustrations/pages/16542.png
+illustrations/pages/16540.png
+
+translations:
+
+English (Translation)	I love forests	id=16578
+Jenjo (Translation)	In yi da be ka mana	id=33577
+Kinyarwanda (Translation)	Nkunda amashyamba	id=20684
+Lusoga (Translation)	Nnendha ebibira	id=24842
+Rutooro (Original)	Ngonza Ebibira	id=16545
+Tiv (Translation)	M Soo Akô	id=32803

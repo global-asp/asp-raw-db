@@ -1,24 +1,24 @@
-url:	https://africanstorybook.org/reader.php?id=32249&d=0&a=1
-id:	32249
-title:	Dia Rerṯo Đǝl nenda Đonto
-author:	Apalo  Mana
+url:	https://africanstorybook.org/reader.php?id=32281&d=0&a=1
+id:	32281
+title:	Wɛŋ kek tuŋ tok
+author:	Melbourne Dinka School
 artist:	Marion Drew
-lang:	Moro
+lang:	Dinka
 level:	First words
 lic:	Creative Commons: Attribution 4.0
-thumb:	http://africanstorybook.org/illustrations/covers/32249.png
-desc:	Have you ever seen a cow with only one horn and no tail?
+thumb:	http://africanstorybook.org/illustrations/covers/32281.png
+desc:	Have you ever seen a cow with one horn and no tail?
 
 page_text:
 
-P1	Wëi! @@Sëcu dia rëni egeɽa rǝŋǝra.
-P2	Dia rerṯo đǝl nenda đonto, na rero lǝper.
-P3	Dia rađǝwo, na rama ara.
-P4	Dia ronḏǝṯo kañ.
-P5	Ummia igi gǝsia gëbwa diara kañ.
-P6	Nda iria yesa ŋaña, dia irri ṯarǝso ronto.
-P7	Dia rađowa lorba. @@Iria isi yiṯënu yaɽaŋa alǝsen ǝrtođ.
-P8	Agiđi ndǝ agǝfiđu rarno irri, agiđi ŋiđiṯau?
+P1	Ɣeeeeǃ Ɣok ee laŋ wɛŋ adhëŋ apɛidit baai.
+P2	Yen ee leŋ tuŋ tok ëpath ku ee cin yɔ̈l.
+P3	Yen acuai ku lɜ yäc dit.
+P4	Yen ee wɛŋ ril apɛdit.
+P5	Raan biok anhiar wɛŋ kënë apɛidit.
+P6	Nawen ke ɣok kɔ̈k anyuäth wal, ke wɛŋ kënë anyuäth rot.
+P7	Wɛŋ kënë ee thɔ̈r, ke ye ɣok kɔk nyaŋ thin rot.
+P8	Tä ram yïn kek wɛŋ cit kënë, ke yïn loi ŋö?
 
 images:
 
@@ -38,7 +38,6 @@ Afaan Oromo (Translation)	Sa'a Gaafa Tokko Qabdu	id=12959
 ChiTonga (Translation)	Ng'ombe ila lwija lomwe	id=32862
 CiNyanja (Translation)	Ng'ombe ya Nsengo Imozi	id=32857
 Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
-Dinka (Translation)	Wɛŋ kek tuŋ tok	id=32281
 English (Translation)	Cow with one horn	id=9622
 Hausa (Nigeria) (Translation)	Saniya mai ƙaho Ɗaya	id=20865
 IciBemba (Translation)	Ing'ombe yeesengo limo	id=32853
@@ -52,6 +51,7 @@ Luganda (Translation)	Ente eyina ejjembe elimu	id=23312
 Lunyole (Translation)	Eŋombe Ey'olwiga Lulala	id=11906
 Lusoga (Translation)	Ente  eyeiyiga  eirala	id=30564
 Moro (Translation)	Dia rerto đel đonto	id=32106
+Moro (Translation)	Dia Rerṯo Đǝl nenda Đonto	id=32249
 Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
 Oshikwanyama (Translation)	Ongobe yoluvinga limwe	id=31569
 Oshindonga (Translation)	Ongombe yolwinga lumwe	id=31505

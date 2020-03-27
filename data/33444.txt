@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=33444&d=0&a=1
+id:	33444
+title:	L'enfant comme artisan de paix
+author:	Zanne Viljoen
+artist:	Jacob Kono
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33444.png
+desc:	Dans une partie sauvage du Turkana
+
+page_text:
+
+P1	Une femme et son bébé sont allés dans la forêt. Elle est allée ramasser des fruits.
+P2	Dans la forêt, elle a trouvé un arbre avec des fruits mûrs.
+P3	Elle a déposé son bébé endormi et a grimpé dans l'arbre.
+P4	Un membre d'une autre tribu est passé. Il a vu le bébé. Il a été surpris. Il se demandait : "Où est la mère ?"
+P5	Il s'est baissé. Le bruit des chaînes sur son cou a réveillé le bébé.
+P6	Il a laissé le bébé jouer avec ses chaînes. Le bébé riait en jouant.
+P7	La femme a regardé en bas pour voir pourquoi le bébé riait. Elle a vu l'étranger.
+P8	Elle avait tellement peur qu'elle a fait tomber son sac de fruits.
+P9	L'homme a levé les yeux. Il a dit : "N'aie pas peur. Je joue simplement avec ton beau bébé."
+P10	Alors la femme est descendue de l'arbre.
+P11	L'étranger a enlevé une de ses chaînes. Il l'a donné au bébé. "Voici un cadeau pour toi", il a dit.
+P12	"Rentre chez toi avec ton bébé. Dites à votre mari de déménager dans un village plus paisible. Votre bébé m'a donné la paix," a dit l'étranger.
+
+images:
+
+illustrations/pages/14590.png
+illustrations/pages/14580.png
+illustrations/pages/14581.png
+illustrations/pages/14582.png
+illustrations/pages/14583.png
+illustrations/pages/14584.png
+illustrations/pages/14585.png
+illustrations/pages/14586.png
+illustrations/pages/14587.png
+illustrations/pages/14588.png
+illustrations/pages/14589.png
+illustrations/pages/14590.png
+illustrations/pages/14591.png
+
+translations:
+
+Amharic (Translation)	ሠላም ፈጣሪው ህፃን	id=21244
+ChiShona (Translation)	Mwana semuyananisi	id=22202
+English (Translation)	Child as a peacemaker	id=14617
+Kiswahili (Translation)	Mtoto aliyeleta Amani	id=15861
+Lusamia (Translation)	Omuwana nga hola emerembe	id=23058
+Lusoga (Translation)	Omwana w'emirembe	id=24991
+Maa (Translation)	Enkerai Nayaua Eseriani	id=15401
+Maa (Translation)	Enkerai Nayawua Eseriani	id=15525
+Ng’aturkana (Original)	Ikoku nikesisilan	id=14614

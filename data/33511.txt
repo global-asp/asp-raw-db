@@ -1,0 +1,61 @@
+url:	https://africanstorybook.org/reader.php?id=33511&d=0&a=1
+id:	33511
+title:	Podi, Ntja le kgomo e nang le thelebishene
+author:	Maria Vaz
+artist:	Marleen Visser
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33511.png
+desc:	Diphoofolo tse tharo di ya toropong ho ya reka ho hong. E ka ba ke eng tse di ileng ho e reka?
+
+page_text:
+
+P1	Kgomo, Podi le Ntja ba ya toropong ka tekisi ho ya reka.
+P2	Kgomo a reka thelebishene.
+P3	Podi a reka kobo.
+P4	Ntja o ne a batla ho reka dieta tse ntjha, empa  o ne a se na tjhelete e lekaneng.
+P5	Metswalle ena e meraro ya kgutlela hae ka tekesi.
+P6	Na o bone Kgomo a eme naheng a sa etse letho? @@Ke hobane o ntse a nahana ka thelebishene ya hae.
+P7	Na o bone Podi a balehela dikoloi? @@Ke hobane o kgathatsehile hore kobo ya hae e ka utsuwa.
+P8	Na o bone Ntja a lelekisa dikoloi? @@O batla ho ya toropong hobane jwale o na le tjhelete e lekaneng ho ithekela dieta.
+
+images:
+
+illustrations/pages/13531.png
+illustrations/pages/6371.png
+illustrations/pages/10566.png
+illustrations/pages/10567.png
+illustrations/pages/13530.png
+illustrations/pages/13531.png
+illustrations/pages/10568.png
+illustrations/pages/6378.png
+illustrations/pages/6377.png
+
+translations:
+
+Afrikaans (Translation)	Bok, Hond en Koei	id=11138
+Anii (Adaptation)	Nnanarɩ,asna nʼʊce	id=32700
+Arabic (Translation)	الماعز و الكلب و البقرة	id=21823
+Dhopadhola (Translation)	Dyel, Gwok Kodi Dhyaŋ	id=16481
+English (Translation)	(Colour-in) Goat, Dog and Cow	id=6380
+English (Adaptation)	Goat, Dog, and Cow with TV	id=13529
+French (Translation)	La Chèvre, Le Chien Et La Vache	id=10839
+isiNdebele (Translation)	Imbuzi, inja nekomo	id=7670
+Kikamba (Translation)	Mbui, Ngiti Na Ng'ombe	id=9686
+Kinyarwanda (Translation)	Ihene, Imbwa n'Inka	id=31363
+Kiswahili (Translation)	(Paka rangi) Mbuzi, Mbwa na Ng'ombe	id=7868
+Luganda (Translation)	(Colour-in) Wambuzi, Wambwa ne Wante	id=7787
+Lumasaaba (Original)	(Colour-in) Imbusi, Imbwa ni Ingaafu	id=6730
+Lunyole (Translation)	Embusi, Embwa N’Eŋombe	id=8397
+Lusoga (Translation)	Embuzi, Embwa ne Nte	id=22715
+Maa (Translation)	Enkíné, Oldía Ó Enkíténg	id=7867
+Ng’aturkana (Translation)	Akine, Ing'ok Ka Aite	id=7014
+Oluwanga (Translation)	Imbusi, Imbwa Nende Ing’Ombe	id=8279
+Portuguese (Translation)	A Cabra, O Cachorro E a Vaca	id=16419
+Rufumbira (Translation)	Ihene, Imbwa Ninka	id=24105
+Rukiga (Translation)	Embuzi, Embwa ne Ente	id=24138
+Runyankore (Translation)	Embuzi, Embwa, ne Ente	id=23011
+Rutooro (Translation)	Embuzi, Embwa, N’Ente	id=14925
+Sesotho (Lesotho) (Adaptation)	Khomo, Pooli, le Ntja, le TV	id=13553
+Setswana (Translation)	Podi, Ntšwa Le Kgomo	id=7771

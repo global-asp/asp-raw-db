@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=32928&d=0&a=1
+id:	32928
+title:	Abasuma babiri
+author:	Yves Nininahazwe
+artist:	Marion Drew
+lang:	Kirundi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32928.png
+desc:	Inkuru yabasuma babiri bagomvye kwiba ibigori mu murima wumurimyi.
+
+page_text:
+
+P1	Ijoro rimwe, abasuma babiri bagomvye kwiba ibigori mu murima w'umurimyi. Abo basuma ntabwo bari bazinanye.
+P2	Umusuma wambere yaraje yiba ibigori vyuzuye umufuko.
+P3	Umusuma wa kabiri nawe araza, asiga ikinga ryiwe impande y'umurima.
+P4	Abo basuma bompi bagongana imigongo. Umwe wese arasimba ati: Uri nde?
+P5	N'ubwoba n'akantu, batunrwa n'ayo bameze.
+P6	Mu guhunga, umusuma wa mbere asiga umufuko wuzuye ibigori.
+P7	Umusuma wa kabiri asiga ikinga ryiwe.
+P8	Nyene umurima aje, afata wa mufuko w'ibigori awuremeka kuri rya kinga, arigendera.
+
+images:
+
+illustrations/pages/18364.png
+illustrations/pages/18363.png
+illustrations/pages/18364.png
+illustrations/pages/18365.png
+illustrations/pages/18366.png
+illustrations/pages/18367.png
+illustrations/pages/18368.png
+illustrations/pages/18369.png
+illustrations/pages/18370.png
+
+translations:
+
+Alur (Translation)	Jukwo Aryo	id=18774
+English (Original)	Two thieves	id=18773
+French (Translation)	Deux voleurs	id=33647
+IsiNdebele (Zimbabwe) (Translation)	Amasela amabili	id=22174
+Kinyarwanda (Translation)	Abajura babiri	id=21957
+Lusoga (Translation)	Baibi babiri	id=24273

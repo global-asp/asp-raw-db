@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=32680&d=0&a=1
+id:	32680
+title:	Kamy et Yamy
+author:	BAME MENKAMLA
+artist:	Franz Phooko
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32680.png
+desc:	Deux amis avaient chacun deux animaux différents. Lun avait un chat
+
+page_text:
+
+P1	Kamy et Yamy sont amis.
+P2	Kamy a un chat. Yamy,  un lapin.
+P3	Kamy joue avec son chat tous les jours.
+P4	Yamy nourrit son lapin deux fois par jour.
+P5	Le lapin de Yamy a eu six lapereaux: deux noirs,  deux marrons et deux blancs.
+P6	La chatte de Kamy elle a eu trois chattons. Un male et deux femelles.
+P7	Yamy a vendu quatre lapereaux. Avec l'argent qu'il a gagné,  il a acheté des livres et des crayons pour l'école.
+P8	Kamy lui n'a vendu aucun chat. Les habitants du village n'en voulaient pas.
+
+images:
+
+illustrations/pages/9585.png
+illustrations/pages/9576.png
+illustrations/pages/9577.png
+illustrations/pages/9578.png
+illustrations/pages/9579.png
+illustrations/pages/9580.png
+illustrations/pages/9581.png
+illustrations/pages/9582.png
+illustrations/pages/9583.png
+
+translations:
+
+French (Translation)	Kabali Et Kateera	id=13775
+isiZulu (Translation)	UKabali noKateera	id=15353
+Ng’aturkana (Translation)	Kabali ka Kateera	id=11810

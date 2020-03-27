@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=32578&d=0&a=1
+id:	32578
+title:	Umusatsi
+author:	Patrick  Munyurangabo
+artist:	Bronwen Heath
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32578.png
+desc:	Abantu bafite imisatsi itandukanye. Hari abafite migufi
+
+page_text:
+
+P1	Kazuba afite umusatsi mugufi.
+P2	Kaneza afite umusatsi muremure.
+P3	Kasine afite umusatsi muremure kurusha bose.
+P4	Mutesi yaryamishije umusatsi we.
+P5	Shema afite ubwanwa.
+P6	Kariza yasokoje umusatsi we.
+P7	Tabaro yakase umusatsi we.
+P8	Gakuba yogoshe umusatsi we.
+
+images:
+
+illustrations/pages/28604.png
+illustrations/pages/28605.png
+illustrations/pages/28606.png
+illustrations/pages/28607.png
+illustrations/pages/28608.png
+illustrations/pages/28609.png
+illustrations/pages/28610.png
+illustrations/pages/28611.png
+illustrations/pages/28612.png
+
+translations:
+
+English (Original)	Hair	id=32577
+Kiswahili (Translation)	Nywele	id=32595
+Luganda (Translation)	Enviiri	id=33529

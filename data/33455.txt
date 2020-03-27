@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=33455&d=0&a=1
+id:	33455
+title:	Emma va à l'école
+author:	Zanne Viljoen
+artist:	Silva Afonso
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33455.png
+desc:	Emma va à lécole aujourdhui.  Que va-t-elle faire le premier jour à lécole?
+
+page_text:
+
+P1	Elle réfléchit.
+P2	Emma se réveille : Je vais à l'école aujourd'hui. A l'école, on joue à la poupée ? A l'école, on va faire la fête ?
+P3	Elle se prépare.
+P4	Emma mange du riz.  Elle est prête quand sa maman l'appelle: "Emma, allons à l'école."@Emma porte sa poupée, son crayon et son cahier dans son sac.
+P5	Emma entre dans la salle de classe.  La maîtresse dit: "Assieds-toi ici, Emma." La maîtresse montre où chaque fille et chaque garçon vont s'asseoir.
+P6	Emma regarde dans la salle et pense: Où se cachent les poupées?  Comment allons-nous jouer? Pourquoi devons-nous rester assis?
+P7	La maîtresse écrit sur le tableau.  Elle dit : J'ai écrit le mot "Bonjour". Disons tous bonjour à l'autre.   Faisons un câlin à nos camarades de classe. C'était très amusant !
+P8	La maîtresse dit: "Maintenant vous allez tous écrire le mot 'Bonjour' dans vos cahiers.  Emma pense: "C'est très difficile.  Je ne sais pas écrire."  Emma se  met à pleurer.
+P9	La maîtresse voit qu'Emma pleure.  Puis elle écrit dans le cahier d'Emma: "Ceci est ton prénom, Emma.  Veux-tu écrire ton prénom?" Emma dit oui.  "Prends ton crayon et écris 'Emma'.  Après, essaie d'écrire 'Bonjour'."
+P10	Emma est contente.  Elle sait déjà écrire: 'Bonjour Emma'. @Quand c'est la récré, Emma prend sa poupée. Amélie dit : Tu as une belle poupée. Quel est ton nom ?
+P11	Emma sourit.  Elle prend un bâton et dit : Je vais te montrer !   Emma écrit son nom sur le sol.
+
+images:
+
+illustrations/pages/13836.png
+illustrations/pages/13837.png
+illustrations/pages/13836.png
+illustrations/pages/13839.png
+illustrations/pages/13840.png
+illustrations/pages/13841.png
+illustrations/pages/13842.png
+illustrations/pages/13843.png
+illustrations/pages/13844.png
+illustrations/pages/13845.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Ciyawo (Adaptation)	Ema Akwawula Kucikola	id=15768
+Portuguese (Original)	Ema Vai À Escola	id=14643

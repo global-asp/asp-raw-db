@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=33756&d=0&a=1
+id:	33756
+title:	Rien ne doit se produire
+author:	Caroline  Oyugi
+artist:	Suzette  T
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33756.png
+desc:	La jeune écrivaine de cette histoire sinquiète pour sa famille. (Histoire et illustrations créées lors dun atelier de vacances en Juin 2019
+
+page_text:
+
+P1	Ma mère parlait au téléphone.
+P2	Elle a entendu que ma grand-mère était morte.@@ @Elle pleurait tellement.
+P3	Je me sentais si, si, si, si, si, triste.@@Nous avons tous commencé à pleurer.@@Grand-mère était gentille envers nous, quand personne d'autre n'était bon pour nous.
+P4	Tous ses enfants sont venus pour la mettre au-dessous du sable. @@Nous avons commencé à prier. @@Rien ne doit arriver au reste de notre famille.
+
+images:
+
+illustrations/pages/91400163.png
+illustrations/pages/91400161.png
+illustrations/pages/91400162.png
+illustrations/pages/91400163.png
+illustrations/pages/91400164.png
+
+translations:
+
+English (Original)	Nothing must happen	id=33742
+isiZulu (Translation)	Sengathi kungenzeke lutho olubi	id=33781
+Kiswahili (Translation)	Lazima kusitokee tena	id=33755
+Lingala (Translation)	Eloko moko te ekokikokoma	id=33812
+Sesotho (South Africa) (Translation)	Ho se etsahale letho	id=33797

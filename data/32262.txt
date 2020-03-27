@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=32262&d=0&a=1
+id:	32262
+title:	Ndhovu noMangovovo
+author:	Gerhalda Ndumba
+artist:	Amir Bachir António Necas
+lang:	Thimbukushu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32262.png
+desc:	Ngepi sho tupire kupatitha makurikanyeno ghoyikara.
+
+page_text:
+
+P1	Pa kare kare fumu ghomuthitu kwa karire Nyime.
+P2	Gha tumine yiyama yendi yi porerithe muyoyo oghu watundire mudikorokoro dyodimbiru mumuthitu. @Yino mbadi ya tombokire.
+P3	Ndhovu gha kudjamberire mu ku tundithapo muyoyo ghuya. Ndhovu gha kara mukungi.
+P4	Pa katji ko ghuthiku muyoyo watangire Ndhovu gha tangire kupagha Mangovovo. Gha yirughanine karo diyuwa dyo kurandako.
+P5	Yivike yo ngandji yapitire po, fumu Nyime gha hafire yoyishi Ndhovu gha konine kushayekitha po muyoyo ghuya.
+P6	Kaghonda  kofotji kapitire po, gha monine yimbumburu yoyingi thikuma pa ma farama ghawo.
+P7	Fumu Nyime gha tumine Ndhovu gha kethe Mangovovo nagha dye yimbumburu.
+P8	Ndhovu ghayapire thikuma yoyishi mangovovo @ghomahe ne ha mana kupagha. Gha ghamba eshi, Dishesha, dishesha, Na ma na ku gha pagha.
+P9	Fumu Nyime gha ghamba eshi: Ndhovu, Ame ne kwa kutumine eshi ghu ka shayekithe po muyoyo, mbadi eshi ghu kapaghe mangovovo. Ndhovu ha muturire mudorongo myaka dho dhingi!
+P10	Fumu gha tongwera yiyama yoyihe ya kurughanange yoyi hana yitumu ngenyu.
+
+images:
+
+illustrations/pages/8197.png
+illustrations/pages/17445.png
+illustrations/pages/17446.png
+illustrations/pages/17434.png
+illustrations/pages/17438.png
+illustrations/pages/17439.png
+illustrations/pages/17442.png
+illustrations/pages/17441.png
+illustrations/pages/17436.png
+illustrations/pages/17437.png
+illustrations/pages/17445.png
+
+translations:
+
+English (Original)	The Elephant and the Frogs	id=8204
+English (Adaptation)	(Colour-in) The Elephant and the Frogs	id=17443
+isiXhosa (Translation)	UNdlovu namasele	id=13376
+Kiswahili (Translation)	Ndovu na Vyura	id=9480
+Lusoga (Translation)	Endhovu n'ebikere	id=24861
+Portuguese (Translation)	O Elefante E As Rãs	id=8238
+Rutooro (Translation)	Enjojo ne Ebikere	id=23974
+Xitswa (Translation)	N'wa Ndlovu Ni Makheli	id=9883

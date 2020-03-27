@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=33019&d=0&a=1
+id:	33019
+title:	Ikosi Yeemfene
+author:	SophyMasimula  FikileLekhuleni
+artist:	Isaac Okwir
+lang:	isiNdebele
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33019.png
+desc:	Kube abalandeli basola imiyalo yekosi engakalungi
+
+page_text:
+
+P1	uMadumo khabe ayifene ekulu etlhorisa ezinye iinlwane.
+P2	Gade ayikosi yeemfene.
+P3	Abalandeli bakhe bamupha itjhila elikhethekileko.
+P4	"Ngizolembatha ehloko," kutjho uMadomu.
+P5	"Noke landelani imiyalo yami. Ningangisoli!" kurhuwelela uMadomu.
+P6	Abalandeli bebalandela ikosi yabo. Nakeqako nabo bebeqa.
+P7	Kodwana itjhila egade alibophe ehloko lalimminyile.
+P8	Wabamba ihloko yakhe ebuhlungu. Iimfene nazo zamba zazo.
+P9	"Lokhu kuyalimaza," kutjho uMadomu. "Lokhu kuyalimaza," bamlingisela.
+P10	"Ingiminya khulu!" "Ingiminya khulu," bamlingisela.
+P11	UMadomu wawela ngale kweliwa. Boke bamlingisela.
+P12	Ikosi yafa. Abalandeli bayo balimala, kodwana baphila.
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldeessaa	id=18907
+English (Original)	Baboon chief	id=18906
+English (Adaptation)	Baboon chief	id=19751
+isiZulu (Translation)	Inkosi yezimfene	id=21913
+Kiswahili (Translation)	Nyani aliyekuwa chifu	id=21994
+Lulamoogi (Translation)	Omukulu W'eirike	id=25339
+Lusoga (Translation)	Omukulu gha amalike	id=25125
+Ng’aturkana (Translation)	Ekatukon Ang'ichomin	id=20344
+Oluwanga (Translation)	Lishene eliali omwami	id=22820

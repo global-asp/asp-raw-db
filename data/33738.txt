@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33738&d=0&a=1
+id:	33738
+title:	I love
+author:	Patience  M
+artist:	Patience  M
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33738.png
+desc:	About everything and everyone that is loved by this young writer. (Story and illustrations created at a June 2019 holiday workshop
+
+page_text:
+
+P1	I love to play soccer. @@I love to play soccer with Thando, Nhlanhla and Ben.
+P2	This is my mum.@@I love my mum. @@She makes me laugh.
+P3	I love God, because God created me.
+P4	I love school, because the teachers teach me what I need to know.
+P5	I love to play with dogs, because it is fun.
+P6	I love birthdays, because I like to celebrate.
+P7	And I love myself because …
+P8	… because … I do!
+
+images:
+
+illustrations/pages/91400141.png
+illustrations/pages/91400138.png
+illustrations/pages/91400140.png
+illustrations/pages/91400141.png
+illustrations/pages/91400142.png
+illustrations/pages/91400139.png
+illustrations/pages/91400143.png
+illustrations/pages/91400144.png
+illustrations/pages/91400145.png
+
+translations:
+
+French (Translation)	J'aime	id=33855
+Gikuyu (Translation)	Nĩ nyendete	id=33859
+isiZulu (Translation)	Engikuthandayo	id=33777
+Kiswahili (Translation)	Ninapenda	id=33839
+Lingala (Translation)	Na lingi	id=33808
+Sesotho (South Africa) (Translation)	Ke rata…	id=33793

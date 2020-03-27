@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33541&d=0&a=1
+id:	33541
+title:	//Kharab
+author:	Mattheus  Goraseb
+artist:	Melany Pietersen
+lang:	Khoekhoegowab
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33541.png
+desc:	Mâ /gaub ! nâ-í ≠ûna axa-i hîa ! hana ≠ûna ≠û//hâ hâ-e a //kharahe //kha?
+
+page_text:
+
+P1	/Gui tsēs ge mamasa !kharaga !nâgu !hana ≠ûna ge //ama hâ i. @@"Hamo da kha //khawa !hana ≠ûna a tsâ //kha?" ti da ge dî
+P2	Os ge, "nē!oe da nî ≠û," ti ge mî. @@Ti, !gârob, Rahimi ge a ≠ûna.
+P3	//Îb ge hoa !hana ≠ûna gere tsâtsâ tsî kaise ge ≠û.@@"Oo, kō re taresab go dī !khaisa!", tib ge !gâsaroba ge !au!gâ bi.
+P4	Rahimi ge //orexa, //î//âsen hâ khoe !nôa ba, tib go.
+P5	Mamas ge ge //aixa-ū bi.@@Sida on ge ge //aixa-ū bi.
+P6	Xaweb ge Rahima !hausens tsîna ge ī tama hâ i.
+P7	"//Khara du ra Rahima?" tib ge !gâsaroba ge dî.
+P8	Os ge //gûsa ge !nawemû!nâ bi, "nēsits ge nî sa dīsāsa ≠an!gâ" timi.
+P9	Rahimi ge ge /hawitsâsen tsoatsoa.
+P10	"Tsûa!nā ta ra", tib ge ra duwu.@@//Gûs ge nē tsûa!nāba ge ≠an!gâ í.
+P11	//Nāxas ge gere ≠âi, "nē ≠ûn ge nē axaba ra ≠nau ti.@@/Ams aib ge Rahima //îb /hawisa ge a ≠an!gâ, "//khawa ta ge nēti ≠ûnadīsen tide" timi.
+P12	O da ge ge ≠gom bi.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	(Paka rangi) Adhabu	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402

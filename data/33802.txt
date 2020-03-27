@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33802&d=0&a=1
+id:	33802
+title:	Bophelo ba papadi ya bolo ya maoto
+author:	Maria Vaz and Nthabiseng  Tsatsi
+artist:	Pimville Library Soccer
+lang:	Sesotho (South Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33802.png
+desc:	Bolo ya maoto ke bophelo baneng ba sehlopha sena sa bolo. (Pale le ditshwantsho di qapuwe ke bana thupellong ya matsatsi a phomolo a Phupu 2019 mme e tsamaiswa ke ba African Storybook laboraring ya Pimville Soweto).
+
+page_text:
+
+P1	Bling o ne a rata papadi ya bolo ya maoto ka pelo ya hae yohle.@@Hangata ha a ne a bua ka papadi ena, o ne a re, "Bolo ya maoto ke bophelo."
+P2	Bling e ne e le se seng sa dibapadi tse hlwahlwa tsa mokwetlisi Tshepo.@@Mokwetlisi Tshepo o ne a kgotsofetse ka sehlopha sa hae.@@Dibapadi tse ngata di ne di batla ho ba sehlopheng sena.
+P3	Papadi ya bohlokwa e ne e tlo ba palwa haufinyana.@@Sehlopha se ile sa ikwetlisa letsatsi le leng le le leng.@@Bohle ba ne ba thabetse papadi ena e kgolo e tlang.
+P4	Mokwetlisi wa sehlopha seo ba neng ba tla bapala le sona o ne a le lefufa haholo.@@O ne a ena le mona ka katleho ya mokwetlisi Tshepo.
+P5	Bosiu pele ho papadi, mokwetlisi ya lefufa a ya lebaleng la dipapadi.@@A kokotela ntho e kotsi moo.@@A tshela le moriana.
+P6	Bling a bapala hantle haholo qalong ya papadi.@@O ne a ilo  hlaba ntlha.@@Yaba o a kgotjwa.
+P7	A fosa ntlha yaba o wela fatshe!@@"Bling?" batho a hweletsa.@@"Bling?" le  Mokwetlisi Tshepo  a hweletsa.
+P8	"Ha ho se tla nkema ka pele" Bling a ipolella.@@"Bolo ya maoto ke bophelo."@@A ema mme a bapala ho fihlela  papadi e fela.
+
+images:
+
+illustrations/pages/85940126.png
+illustrations/pages/85940122.png
+illustrations/pages/85940123.png
+illustrations/pages/85940124.png
+illustrations/pages/85940125.png
+illustrations/pages/85940126.png
+illustrations/pages/85940127.png
+illustrations/pages/85940128.png
+
+translations:
+
+English (Original)	Soccer is life	id=33730
+French (Translation)	Le foot c'est la vie	id=33846
+isiZulu (Translation)	Ibhola liyimpilo yabo	id=33784
+Kῖmῖῖrũ  (Translation)	Mũbira ni ũturõ	id=33863
+Kiswahili (Translation)	Soka ni maisha	id=33758
+Lingala (Translation)	Bomoi ya ndembo	id=33815

@@ -1,24 +1,24 @@
-url:	https://africanstorybook.org/reader.php?id=32249&d=0&a=1
-id:	32249
-title:	Dia Rerṯo Đǝl nenda Đonto
-author:	Apalo  Mana
+url:	https://africanstorybook.org/reader.php?id=32853&d=0&a=1
+id:	32853
+title:	Ing'ombe yeesengo limo
+author:	Eunice  Mukonde-Mulenga
 artist:	Marion Drew
-lang:	Moro
+lang:	IciBemba
 level:	First words
 lic:	Creative Commons: Attribution 4.0
-thumb:	http://africanstorybook.org/illustrations/covers/32249.png
-desc:	Have you ever seen a cow with only one horn and no tail?
+thumb:	http://africanstorybook.org/illustrations/covers/32853.png
+desc:	Walitala aumonapo ingombe iyeesengo limo ukwabuloomucila.
 
 page_text:
 
-P1	Wëi! @@Sëcu dia rëni egeɽa rǝŋǝra.
-P2	Dia rerṯo đǝl nenda đonto, na rero lǝper.
-P3	Dia rađǝwo, na rama ara.
-P4	Dia ronḏǝṯo kañ.
-P5	Ummia igi gǝsia gëbwa diara kañ.
-P6	Nda iria yesa ŋaña, dia irri ṯarǝso ronto.
-P7	Dia rađowa lorba. @@Iria isi yiṯënu yaɽaŋa alǝsen ǝrtođ.
-P8	Agiđi ndǝ agǝfiđu rarno irri, agiđi ŋiđiṯau?
+P1	Iyee! Ala pang'anda palibeeng'ombe iyayemba.
+P2	Yakwata fye isengo limo ukwabuloomucila.
+P3	Yaliina nolufumo ulukulu.
+P4	Ning'ombe yamaka saana.
+P5	Kacema eyo aatemwishapo pang'ombe shoonse.
+P6	Ing'ombe shibiye nga shilelya umulemfwe, iyi yena ilya yeka.
+P7	Ing'ombe iyi yaalubuli. Ishibiye shilaitaluka.
+P8	Ngawali kumenye ing'ombe yamusangooyu kuti wacita shani?
 
 images:
 
@@ -41,7 +41,6 @@ Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
 Dinka (Translation)	Wɛŋ kek tuŋ tok	id=32281
 English (Translation)	Cow with one horn	id=9622
 Hausa (Nigeria) (Translation)	Saniya mai ƙaho Ɗaya	id=20865
-IciBemba (Translation)	Ing'ombe yeesengo limo	id=32853
 isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11230
 isiZulu (Translation)	Inkomo Enephondo Elilodwa	id=11232
 Khoekhoegowab (Translation)	/Gui//nâ Gomas xa	id=31764
@@ -52,6 +51,7 @@ Luganda (Translation)	Ente eyina ejjembe elimu	id=23312
 Lunyole (Translation)	Eŋombe Ey'olwiga Lulala	id=11906
 Lusoga (Translation)	Ente  eyeiyiga  eirala	id=30564
 Moro (Translation)	Dia rerto đel đonto	id=32106
+Moro (Translation)	Dia Rerṯo Đǝl nenda Đonto	id=32249
 Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
 Oshikwanyama (Translation)	Ongobe yoluvinga limwe	id=31569
 Oshindonga (Translation)	Ongombe yolwinga lumwe	id=31505

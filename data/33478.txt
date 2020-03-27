@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=33478&d=0&a=1
+id:	33478
+title:	P'aka wangu anadzifitsa
+author:	Titus  Kazungu
+artist:	Bronwen Heath and Ingrid Schechter
+lang:	KiGiryama
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33478.png
+desc:	Chuo cha kiwango cha 2 cha chuo cha ngano kiifwacho
+
+page_text:
+
+P1	A hiko ye p'aka wangu? @@Simona ye p'aka wangu. @@Dzamumala kila hat'u ela simona bule.
+P2	P'aka wangu a hiko?@@ Vidze a muvunguni?@@H'aah'a, anenda nze ya chumba.
+P3	P'aka wangu a hiko?@@Vidze a dzulu za kabati? @@H'aah'a, a ho ts'ini ya kabati.
+P4	P'aka wangu a hiko?@@Vidze a ho nyuma ya kochi?@@H'aah'a, a ho muhalani.
+P5	P'aka wangu a hiko?@@Vidze a hehi na dzalani?@@@H'aah'a, anathuluka na dhirishani.
+P6	P'aka wangu a hiko?@@Vidze a mo  kikahanani? @@H'aah'a, a mo bokisini.
+P7	P'aka wangu a hiko?@@Vidze a ko muhalani?@@H'aah'a, a nyuma ya pazia.
+P8	P'aka wangu a hiko?@@Thiyu hano.@@Adzadzifitsa mumu kabatini.
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+English (Original)	My cat is hiding	id=32340
+Ng’aturkana (Translation)	Edukit ipaka kang	id=33420

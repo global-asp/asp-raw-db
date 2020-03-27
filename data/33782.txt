@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33782&d=0&a=1
+id:	33782
+title:	Isihlahla sokuthula
+author:	Zanele Zuma
+artist:	Tshiamo  Msimanga, Tumi  Mofokane and Mpumelelo  Mlangeni
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33782.png
+desc:	Sonke siyayidinga indawo esizizwa sinokuthula uma sikuyona. (Indaba nemifanekiso kuqanjwe engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Kwakukhona intombazane igama layo kwakungu-Ayanda. @@Kwakunguyena yedwa ingane ekhaya kubo.@@Abazali bakhe babefuna isehlukaniso.
+P2	U-Ayanda wakhetha ukubaleka ekhaya.@@Wabalekela ehlathini ngoba wayengazi ukuthi angayaphi.
+P3	Impisi yamxosha u-Ayanda, wagibela esihlahleni.@@Impisi yazama ukumluma wagibela phezulu esihlahleni.
+P4	Esephezulu wabona ilanga lilihle liqhakazile.@@Walithanda kakhulu, wase ekhetha ukuhlala lapha ehlathini.
+P5	Zonke izinsuku wayegibela esihlahleni axoxe nelanga.@@Ilanga lase liphenduke umndeni wakhe.
+P6	Ngelinye ilanga wabona indoda ngaphansi kwesihlahla.@@Le ndoda kwakungubaba wakhe.@@U-Ayanda wehla esihlahleni. Ubaba wakhe wachaza ukuthi kungani wayeze lapha.
+P7	Wathi, "Kudala ungakazalwa, mina nomama wakho sasihlangana kule ndawo. Ibaluleke kakhulu kithina."@@"Manje ngigibela kulesi sihlahla uma ngifuna ukuthula lapho sixabana nomama wakho," kusho ubaba ka-Ayanda.
+P8	Emva kwesikhashana, umama ka-Ayanda naye wafika ehlathini.@@Wayezoxolisa kubaba ka-Ayanda.@@Lesi kwakuyisihlahla sabo sokuthula.
+
+images:
+
+illustrations/pages/85940129.png
+illustrations/pages/85940129.png
+illustrations/pages/85940130.png
+illustrations/pages/85940131.png
+illustrations/pages/85940132.png
+illustrations/pages/85940133.png
+illustrations/pages/85940134.png
+illustrations/pages/85940135.png
+
+translations:
+
+English (Original)	The peace tree	id=33731
+French (Translation)	L'arbre de la paix	id=33847
+Kiswahili (Translation)	Mti wenye amani	id=33759
+Lingala (Translation)	Nzete ya kimia	id=33813
+Sesotho (South Africa) (Translation)	Sefate sa kgotso	id=33798

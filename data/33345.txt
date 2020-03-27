@@ -1,0 +1,62 @@
+url:	https://africanstorybook.org/reader.php?id=33345&d=0&a=1
+id:	33345
+title:	Mokoro wa Sara
+author:	Connie  Makgabo
+artist:	Rachel  Greer
+lang:	Sepedi
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33345.png
+desc:	Sara o thuša batho le diphoofolo go sela noka ka mokoro wa gagwe
+
+page_text:
+
+P1	Sara o na le mokoro. @Mokoro wa gagwe ke wo mogolo.@O mo hleng ga noka.
+P2	Basadi ba bangwe ba ile ba tla nokeng. Mosadi yo mongwe o swere sekotlelo sa dienywa. Yo mongwe mosadi o swere kgogo. Yo mongwe mosadi o swere pudi. Yo mongwe mosadi o swere dipudi tše pedi. @@"Na re tla fihla bjang mošola wa noka?" Ba botšiša Sara.@@Sara a re, "Namelang mokoro wa ka!"
+P3	Bjale, gwa fihla banna ba bangwe. Monna yo mongwe o swere hlapi. Yo mongwe monna o swere paesekela. Yo mongwe monna o swere lesaka la bupi.
+P4	Monna yo mongwe o swere disaka tše pedi tša bupi. Ba botšiša Sara ba re, "Na re tla fihla bjang mošola wa noka?"@@Sara a araba a re, "Namelang mokoro wa ka!"
+P5	Diphoofolo tše dingwe tša tla nokeng. "Na re tla fihla bjang mošola wa noka?" Tša botšiša Sara. @@Sara a re, "Namelang mokoro wa ka!"
+P6	Diphoofolo tša namela mokoro.@Mpša ya namela mokoro.@Katse ya namela mokoro.@Kgabo ya namela mokoro.@Mmutla wa namela mokoro.@Khudu ya namela mokoro.@Phuthi ya namela mokoro.
+P7	Tlou ya fihla nokeng. Ya botšiša ya re, "Na ke tla fihla bjang mošola wa noka?"@@Sara a re, "Namela mokoro wa ka!"@@Tlou ya namela mokoro. Mokoro wa tlala ka meetse.
+P8	Batho le diphoofolo ba ile ba fologela ka meetseng.
+P9	Mokoro ke wo monnyane. Re ka se lekane.
+P10	Sara a re, "Emang! Ke tla thoma ka go nametša basadi."
+P11	"Morago, ka nametša banna." A realo Sara.
+P12	Mafelelong, ke tla nametša diphoofolo." Sara a realo.
+P13	Tlou ya re, "Nna ke tla sepela!"
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya Asara	id=33186
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+Imeetto (Translation)	Ikalawa ya Saara	id=33188
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kinyarwanda (Translation)	Ubwato bwa Sara	id=32306
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A Canoa da Sara	id=33185
+Sola (Translation)	Sɑrɑ kuninɔi	id=33598

@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=33778&d=0&a=1
+id:	33778
+title:	UJosias uya esitolo
+author:	Zanele Zuma
+artist:	Josias  M
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33778.png
+desc:	Akuve kumnandi ukuphuza isiphuzo esibandayo esimnandi uma ilanga lishisa. (Indaba nemifanekiso kwaqanjwa engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Kukhona isitolo esincane eduze kwasekhaya.
+P2	Umnikazi waso yindoda ezacile enezwi elincane.
+P3	Ngiqonda efilijini.@@Ngithatha isiphuzo esibandayo iKingsley yestrobheli.
+P4	Ngiyasikhokhela nginikeza le ndoda ezacile imali.
+P5	Ngivula iKingsley yami yestrobheli, ngiphuze.
+P6	IKingsley yestrobheli ebandayo imnandi!
+
+images:
+
+illustrations/pages/91400148.png
+illustrations/pages/91400146.png
+illustrations/pages/91400147.png
+illustrations/pages/91400148.png
+illustrations/pages/91400149.png
+illustrations/pages/91400150.png
+
+translations:
+
+English (Original)	Josias goes shopping	id=33739
+French (Translation)	Josias fait les courses	id=33856
+Kiswahili (Translation)	Josia ananunua kinywaji	id=33840
+Lingala (Translation)	Josias akei kosomba biloko	id=33809
+Sesotho (South Africa) (Translation)	Kopano o ya mabenkeleng	id=33794

@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=33456&d=0&a=1
+id:	33456
+title:	Hyène et Singe
+author:	Zanne Viljoen
+artist:	Salim Kasamba
+lang:	French
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33456.png
+desc:	Qui résoudra le désaccord entre Hyène et Singe (une version de cette histoire a été recueillie de Bale et racontée à lorigine par Mohammed Kuyu en Oromo. Une version anglaise a été écrite par Elizabeth Laird.).
+
+page_text:
+
+P1	Il était une fois une hyène et un singe.@@La hyène et le singe se sont disputés.  Ils sont allés chez un juge pour régler leurs désaccords.
+P2	Après avoir écouté leur cause, le juge a eu peur de rendre un jugement.@@Il s'est dit : "Si je condamne la hyène, elle mangera tout mon bétail. Et si je condamne le singe, il mangera tout mon maïs ! Alors, que dois-je faire ?"
+P3	Le juge a réfléchi un moment et a dit : "L'affaire est trop difficile pour moi de juger seul. Tu devrais aller voir les anciens du village."@@Alors la hyène et le singe sont allés voir les anciens.
+P4	Ils ont parlé aux anciens de leur désaccord.@@Après avoir écouté leur cas, les anciens avaient aussi peur de porter jugement.
+P5	S'ils soutenaient le singe, la hyène pourrait manger leur bétail. S'ils soutenaient la hyène, le singe pourrait manger leur maïs. Les anciens ont dit à Hyène et Singe que leur cas était très difficile.
+P6	Soudain, les anciens se sont souvenus d'une pauvre femme dans la ville. Elle n'avait rien à perdre, ni bétail ni maïs.@@"Elle peut passer le jugement sans crainte", se disaient les anciens les uns aux autres. Ils ont dit aux deux animaux d'aller la voir.
+P7	Ils sont arrivés chez la pauvre femme et lui ont demandé de les juger. Elle a accepté.@@Mais elle leur a dit de lui parler séparément, un par un.
+P8	D'abord la pauvre femme a appelé Hyène et a dit : "Tu es respectée, un grand animal, et un héros. Comment as-tu pu te disputer avec ce petit singe misérable ?"
+P9	La pauvre femme a dit à Hyène : "Si les gens entendaient parler de ce désaccord, ils te mépriseraient. Arrête la querelle avec Singe."@@"Bien sûr que tu as raison," dit Hyène. "Je laisse tomber cette affaire. Je vais mettre fin à la dispute."
+P10	Alors la pauvre femme a appelé Singe et elle a dit : "Tu es intelligent et beau. Pourquoi tu te disputes avec cet animal sale et puant qui mange des choses pourries ? Que penseront les gens de vous quand ils entendront parler de la dispute que tu as eue avec cette créature moche ?"@@Au bout d'un moment, Singe dit : "Tu as raison ! je laisse tomber cette affaire."
+P11	Après cela, la pauvre femme les a appelés tous les deux et leur a dit : "Vous avez tous les deux accepté d'abandonner cette affaire. Alors, vous devriez vous pardonner."
+P12	Les deux animaux se sont excusés et ont réglé leur dispute.@@Quand les gens de la ville ont entendu cette histoire, ils ont été surpris. La pauvre femme a résolu le problème que le juge et les anciens n'ont pas réussi à résoudre.
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18696.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18708.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18706.png
+illustrations/pages/18707.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+Afaan Oromo (Adaptation)	Waraabessaafi Qamale	id=21771
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	(Colour-in) Hyena and Monkey	id=20157
+English (Adaptation)	Monkey and Hyena	id=21395
+Kanuri (Translation)	Bultu-a Dagǝl-a	id=32283
+Kiswahili (Translation)	Kima na Fisi	id=21841
+Kiswahili (Translation)	Mzozo wa Fisi na Kima	id=22061
+Kiswahili (Adaptation)	(Paka rangi) Mzozo wa Fisi na Kima	id=33353
+Lámnsoʼ (Translation)	Kán wùn Kuúrá	id=22414
+Luganda (Translation)	Wankima ne Wampisi	id=23422
+Luganda (Translation)	Wakibe ne Wankima	id=23510
+Lusoga (Translation)	(Colour-in) Wampiti ni Wankembo	id=24897
+Lusoga (Translation)	Wampiti ni Wankembo	id=33653
+Ng’aturkana (Translation)	Ebulong'or ka Ekadokot	id=33416
+Oluwanga (Translation)	Ishima nende Ifisi	id=22819
+Rufumbira (Translation)	Igisamagwe ni Inkende	id=23440
+Runyankore (Translation)	Empisi ne Ekyende	id=24280
+Tiv (Translation)	Dwem man Bagu	id=23878

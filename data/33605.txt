@@ -1,0 +1,73 @@
+url:	https://africanstorybook.org/reader.php?id=33605&d=0&a=1
+id:	33605
+title:	سگ و گربه و کرم ها
+author:	behzad ayubi
+artist:	Elke and René Leisink
+lang:	Persian (Afghanistan)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33605.png
+desc:	سگ و گربه گردش می روند. آنها علامتی را بروی یک درخت می بینند. آنها بعدش چکار میکنند؟
+
+page_text:
+
+P1	این گربه است @@این سگ است
+P2	گربه و سگ درواز را باز میکنند. آنها دروازه خانه شان را باز میکنند@@سگ و گربه از خانه شان بیرون می برایند
+P3	سگ و گربه به گردش میروند@@آنها سرسبزه ها می گردند. آنها دربین درختان می گردند@آنها از میان بته ها می گذرند@@سپس می ایستند
+P4	سگ و گربه به علامت نگاه میکنند. آنها علامت را روی درخت می بینند@@سگ و گربه به علامت نگاه میکنند. آنها به کلمات روی علامت نگاه میکنند
+P5	سگ و گربه نوشته را میخوانند@@@آنها علامت را میخوانند, ،متوجه ژاکت باشید.،
+P6	گربه میگوید: ژاکت چیست؟@@سگ می گوید: ژاکت یک نوع لباس است
+P7	سگ و گربه هیچ ژاکتی را نمی بینند
+P8	آنها می خندند@@آنها سر علامت می خندند@@آنها سر علامت بی معنی می خندند
+P9	لیکن ناگهان کلمات روی علامت تغییر میکنند
+P10	سگ و گربه می خوانند@@آنها علامت را می خوانند
+P11	متوجه انگور باشید
+P12	گربه می گوید: انگور چیست؟ @@سگ می گوید: انگور یک نوع میوه است
+P13	سگ و گربه هیچ انگوری را نمی بینند
+P14	آنها می خندند@@آنها سر علامت می خندند@@آنها سر علامت بی معنی می خندند
+P15	سگ و گربه به علامت نگاه میکنند. آنها گرم ها را روی آن می بییند که به شکل حرف های مختلف درامده اند! @@سگ و گربه کرم ها را می گیرند. آنها کرم ها را گرفته و دور می اندازند
+P16	سگ و گربه می خوانند@@آنها علامت را می خوانند که نوشته است: متوجه میمون باشید
+P17	گربه می پرسد: میمون چیست؟ سگ می گوید: شادی های بزرگ میمون می گویند
+P18	سگ و گربه میمون را می بینند. سگ و گربه به میمون اشاره می کنند @@میمون بزرگ است. میمون خیلی بزرگ است@@گربه می گوید: هله فرار! سگ می گوید: هله فرار!
+P19	سگ و گربه فرار میکنند. آنها فرار میکنند@@سگ و گربه پس بسوی خانه فرار می کنند@@سگ و گربه دروازه خانه را بسته می کنند
+P20	آنها دروازه خانه شان را بسته می کنند
+P21	بامان خدا گربه گک@@بامان خدا سگک@ @بامان خدا میمون@@بامان خدا کرم ها
+
+images:
+
+illustrations/pages/25645.png
+illustrations/pages/25646.png
+illustrations/pages/25641.png
+illustrations/pages/25642.png
+illustrations/pages/25643.png
+illustrations/pages/25650.png
+illustrations/pages/25651.png
+illustrations/pages/25652.png
+illustrations/pages/25653.png
+illustrations/pages/25654.png
+illustrations/pages/25655.png
+illustrations/pages/25656.png
+illustrations/pages/25657.png
+illustrations/pages/25658.png
+illustrations/pages/25659.png
+illustrations/pages/25660.png
+illustrations/pages/25661.png
+illustrations/pages/25662.png
+illustrations/pages/25663.png
+illustrations/pages/25664.png
+illustrations/pages/25665.png
+illustrations/pages/25666.png
+illustrations/pages/18782.png
+
+translations:
+
+English (Original)	Cat and Dog and the worms	id=21993
+Khoekhoegowab (Translation)	ǀHôas, Arib tsî ǂunin tsîn xa	id=24667
+Lusoga (Translation)	Wakapuusi, Wambwa n'Obuwuuka	id=28141
+Oshikwanyama (Translation)	Ngato, Shikonda nOshuungu	id=24159
+Oshindonga (Translation)	Okambishi nombwa nEloolo	id=23907
+Otjiherero (Translation)	Okambihi no Mbuua no mativa	id=24217
+Rukwangali (Translation)	Mbisi noMbwa nomaginyo	id=31497
+Sepedi (Translation)	Katse le Mpša le Diboko	id=33458
+Sesotho (South Africa) (Translation)	Ntja, Katse le manyowa	id=33371
+Siswati (Translation)	Kati Nenja kanye nemisundvu	id=33396

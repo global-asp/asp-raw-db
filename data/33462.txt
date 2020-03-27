@@ -1,0 +1,74 @@
+url:	https://africanstorybook.org/reader.php?id=33462&d=0&a=1
+id:	33462
+title:	Theeletša mmele wa ka
+author:	Dikeledi Queen Shai
+artist:	Angie and  Upesh
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33462.png
+desc:	Na o kile o theeletša seo mmele wa gago o go botšago sona?
+
+page_text:
+
+P1	Lehono ga ke ye sekolong. Ke letšatši la maikhutšo!
+P2	Lehono ga ke ilo bogela thelebišene. Ga go na mohlagase.
+P3	Na ke ilo dira eng?@@Lehono ke ilo theeletša mmele wa ka!
+P4	Sa mathomo, ke swanetše go homola. Gore ke kgone go theeletša mmele wa ka.
+P5	Ee, bjale ke kgona go kwa le ge ke hema.@@Ke gogela moya ka gare le ka ntle, ka gare le ka ntle.
+P6	Nka kgona go hemela godimo. Ssssssssssssss!@@Le tlase. Mmmmmmm!
+P7	Bjale ke kgona go kwa pelo ya ka ge e betha!@@Doodom, doodoom, dooo dooom!
+P8	Na nka kgona go dira pelo ya ka gore e bethe ka lebelo, goba e bethele godimo?@@Ee, ka go tabogela godimo le fase ga masomepedi.
+P9	O a bona bjale, pelo ya ka e betha ka lebelo.
+P10	Ge ke bea menwana ya ka godimo ga lenakaila, ke kgona go kwa morethetho wa ka!
+P11	Ke kgona go ikwa ge ke sega.@@Haha, haha, haaah, haaa!
+P12	Ke kgona go ikwa ge ke lla.@@Hihihihihi!
+P13	Ke kgona go ikwa ge ke betha matsogo.@@Pšha, pšha, pšha!
+P14	Ke kgona go kwa mala a ka ge a menagana!@@Guddu! guddu, guddu!
+P15	Mala a ka a re, "Mphe dijo!"
+P16	Nko ya ka e kgona go dupelela monkgo wa dikhekhe tšeo mma a di pakago ka moraleng wa gagwe!@@Bjale ke nyaka go kwa mehlagare ya ka e sohla dikhekhe tšeo!
+
+images:
+
+illustrations/pages/2008.png
+illustrations/pages/2009.png
+illustrations/pages/2010.png
+illustrations/pages/2011.png
+illustrations/pages/2012.png
+illustrations/pages/2013.png
+illustrations/pages/2014.png
+illustrations/pages/2016.png
+illustrations/pages/2017.png
+illustrations/pages/2018.png
+illustrations/pages/2019.png
+illustrations/pages/2020.png
+illustrations/pages/2021.png
+illustrations/pages/2022.png
+illustrations/pages/2023.png
+illustrations/pages/2024.png
+illustrations/pages/2025.png
+
+translations:
+
+English (Original)	Listen to my body	id=13202
+English (Adaptation)	Listen to my Body	id=13558
+isiXhosa (Translation)	Mamela kumzimba wam	id=2933
+isiXhosa (Translation)	Mamela umzimba wam	id=14960
+isiZulu (Translation)	Lalela umzimba wami	id=2910
+Khoekhoegowab (Translation)	Ti sorosa ǃgâs xa	id=24662
+Kinyarwanda (Translation)	Umva umubiri wange	id=23762
+Kiswahili (Translation)	Nausikiliza mwili wangu	id=15713
+Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
+Luganda (Translation)	Wuliliza omubiri gwange	id=23237
+Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
+Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
+Lusoga (Translation)	wulirisa omubiri gwange	id=30352
+Maa (Translation)	Ainining Osesen Lai	id=2927
+Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
+Oshikwanyama (Translation)	Handi pwilikine olutu lange eshi tali ti	id=24134
+Oshindonga (Translation)	Pulakena kolutu lwandje	id=23899
+Otjiherero (Translation)	Puratene ko rutu randje	id=24174
+Rukwangali (Translation)	Purakena korutu rwange	id=31492
+Sesotho (Lesotho) (Translation)	Mamela mmele oaka	id=2031
+Sesotho (South Africa) (Translation)	Mamela mmele wa ka	id=33373
+Siswati (Translation)	Kulalela umtimba wami	id=33401

@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33773&d=0&a=1
+id:	33773
+title:	Inja kaDennis
+author:	Zanele Zuma
+artist:	Merdi  K
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33773.png
+desc:	Inja kaDennis entsha yashushuzela ebhuzini lomngane wakhe! (Indaba nemifanekiso kwaqanjwa engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Ngibizwe umngane wami wakwamakhelwane.@@"Woza uzobona inja yami," kusho uDennis.
+P2	Inja yayinamabala amnyama nekhanda elikhulu.@@Yangisabisa!@@Ngakhathazeka ngicabanga ukuthi izongiluma.
+P3	SinoDennis sayithatha inja sazulazula nayo.
+P4	Yayihamba itshikizisa umsila.
+P5	Yakhonkotha!
+P6	Yathi isuka yayingishushuzela!@@Phakathi ebhuzini lami!@@Hawu!
+P7	UDennis wathatha ithishu wasula umshushuzo.
+P8	Ngabona ukuthi uDennis ungumngane wami weqiniso.
+
+images:
+
+illustrations/pages/85940115.png
+illustrations/pages/85940114.png
+illustrations/pages/85940115.png
+illustrations/pages/85940116.png
+illustrations/pages/85940117.png
+illustrations/pages/85940118.png
+illustrations/pages/85940119.png
+illustrations/pages/85940120.png
+illustrations/pages/85940121.png
+
+translations:
+
+English (Original)	Dennis's dog	id=33721
+French (Translation)	Le chien de Dennis	id=33727
+Gikuyu (Translation)	Ngui ya Dennis	id=33860
+Kiswahili (Translation)	Mbwa wa Dennis	id=33726
+Lingala (Translation)	Bwa ya Dennis	id=33804
+Sesotho (South Africa) (Translation)	Ntja ya Dennis	id=33789

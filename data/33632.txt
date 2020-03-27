@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=33632&d=0&a=1
+id:	33632
+title:	Les vieux
+author:	Zanne Viljoen
+artist:	Salim Kasamba
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33632.png
+desc:	Les vieux sont trop gourmands pour la viande !
+
+page_text:
+
+P1	Il était une fois un mari et une femme avec leurs enfants.@@La mère préparait la nourriture pour la famille chaque jour. Elle apportait le repas à table pour qu'ils le mangent.
+P2	Le père divisait la viande. Il disait à l'aînée : "Je suis assez grand pour la viande. Voici la tienne. Attends d'être plus âgée."
+P3	Puis il disait au prochain enfant : "Je suis assez grand pour manger la viande. Voici la tienne. Attends d'être plus âgé."@@Chaque petite portion est devenue encore plus petite.  C'était comme ça pour tous les enfants. Le plus jeune enfant a reçu un tout, tout petit morceau de viande.
+P4	Le père gardait les gros morceaux de viande pour lui et sa femme. Les enfants ne disaient rien et mangeaient leur nourriture.
+P5	Les années se sont écoulées et les enfants ont grandi. Les parents ont vieilli. Ils sont devenus faibles. Les enfants s'occupaient de leur mère et de leur père.
+P6	Un jour, à l'heure du repas, l'aînée a servi la viande, comme d'habitude. Mais cette fois, elle n'a donné qu'un tout petit morceau à son père et un tout petit morceau à sa mère.
+P7	Elle a dit à ses parents : " Vous avez mangé votre viande, maintenant c'est notre tour. Nous sommes assez grands." @@Elle servait la plus grande partie de la viande à ses frères et sœurs.
+P8	Le père se souvenait de ce qu'il avait fait quand ses enfants étaient jeunes. La mère et le père étaient d'accord que ce n'était pas la bonne chose à faire.@@Ils ont demandé pardon. Les enfants ont promis qu'ils ne répéteraient pas cette erreur avec leurs propres enfants.
+
+images:
+
+illustrations/pages/13927.png
+illustrations/pages/13924.png
+illustrations/pages/13925.png
+illustrations/pages/13926.png
+illustrations/pages/13927.png
+illustrations/pages/13928.png
+illustrations/pages/13929.png
+illustrations/pages/13930.png
+illustrations/pages/13931.png
+
+translations:
+
+English (Translation)	Elders	id=13934
+isiZulu (Translation)	Amakhehla nezalukazi	id=16091
+Kinyarwanda (Translation)	Abakuru	id=17459
+Luganda (Translation)	Abakadde	id=23758
+Lugbarati (Original)	Mba-Za	id=13933
+Lusoga (Translation)	Abakaire	id=25178
+Runyankore (Translation)	Abakuru	id=23706

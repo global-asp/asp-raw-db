@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=32650&d=0&a=1
+id:	32650
+title:	Ukangalaleli
+author:	Lulama Mabuza
+artist:	Marion Drew
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32650.png
+desc:	Lengulube enenkani ayifuni ukulalela umlimi.
+
+page_text:
+
+P1	Bekuyisikhathi sezilwane sokulala. Esinye sezilwane azange silalela.
+P2	Umlimi wacela uPiggy  ukuthi aye egoqweni lakhe. Yena wala.
+P3	Umlimi wacela u Trusty Whip ukuthi ashaye U Piggy. Yena wala.
+P4	u Fiery Fire wala ukushisa u Trusty Whip ngokungalaleli.
+P5	U Clear Water akalalelanga umlimi ngokungacimi u Fiery  Fire.
+P6	Umlimi wacela uMilky Moo ukuthi aphuze u Clear Water.
+P7	UMilky Moo wathi, "Ngizophuza lamanzi. Ngomile."
+P8	uClear water wakhala, "Ungangiphuzi. Ngizocima Umlilo."
+P9	U Fiery Fire wamemeza, "Cha angeke. Ngizomshisa u Trusty Whip."
+P10	UTrusty Whip wakhala, "Ngicela ungangishisi. Ngizomshaya u Piggy."
+P11	UPiggy wacasuka. "Ngizongena egoqweni."
+P12	UPiggy wangena egoqweni lakhe futhi bekakulungele ukulala.
+
+images:
+
+illustrations/pages/18310.png
+illustrations/pages/18306.png
+illustrations/pages/18307.png
+illustrations/pages/18308.png
+illustrations/pages/18309.png
+illustrations/pages/18310.png
+illustrations/pages/18311.png
+illustrations/pages/18312.png
+illustrations/pages/18313.png
+illustrations/pages/18314.png
+illustrations/pages/18315.png
+illustrations/pages/18316.png
+illustrations/pages/18317.png
+
+translations:
+
+ChiShona (Translation)	Nguruve yakaramba kuteerera	id=22236
+English (Translation)	Pig that wouldn't listen	id=19470
+English (Adaptation)	Disobedience!	id=20907
+isiZulu (Original)	Ingulube eyayingafuni ukungena egoqweni	id=19469
+Kiswahili (Translation)	Kutotii!	id=21149
+Lusoga (Translation)	Obudheemu	id=25206
+Runyankore (Translation)	Obugangaazi	id=24420
+Tigrigna (Translation)	ዘይምምእዛዝ	id=21194

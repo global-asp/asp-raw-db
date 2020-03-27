@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33740&d=0&a=1
+id:	33740
+title:	My lovely dogs
+author:	Priscilla  K
+artist:	Priscilla  K
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33740.png
+desc:	About two beloved dogs. (Story and illustrations created at a June 2019 holiday workshop
+
+page_text:
+
+P1	My mom got me two puppies.@@They were so cute!
+P2	I decided to name them Royalty and Blackie.
+P3	Royalty was brown and like a queen. @@Blackie was a lovely black dog with long hair.
+P4	I used to walk them everyday when I came from school.
+P5	Sometimes I would bath them by myself. @@Royalty would always run away!
+P6	Then, we moved and went to a flat. @@They didn't allow dogs there.
+P7	We left Blackie and Royalty with my cousins.@@One morning, I decided to visit my dogs.
+P8	I found that Blackie was lost, and Royalty was lonely. @@ I felt very bad in my heart.
+
+images:
+
+illustrations/pages/91400152.png
+illustrations/pages/91400151.png
+illustrations/pages/91400152.png
+illustrations/pages/91400153.png
+illustrations/pages/91400154.png
+illustrations/pages/91400155.png
+illustrations/pages/91400156.png
+
+translations:
+
+French (Translation)	Mes beaux chiens	id=33857
+Gikuyu (Translation)	Ngui ciakwa igĩrĩ nyendete	id=33861
+isiZulu (Translation)	Izinja zami ezinhle	id=33779
+Kiswahili (Translation)	Mbwa wangu wa kupdendeza	id=33841
+Lingala (Translation)	Ba bwa na ngai nalingaka	id=33810
+Sesotho (South Africa) (Translation)	Ntja tsa ka tse ratehang	id=33795

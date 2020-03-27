@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=32947&d=0&a=1
+id:	32947
+title:	Umqasa wenzela indlovu amaqhinga,godu
+author:	Busisiwe Nombuso and Slindile Immaculate Mtsweni
+artist:	Wiehan de Jager
+lang:	isiNdebele
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32947.png
+desc:	Endatjaneni le sifunda bona kubayini umqasa ugijima khulu begodu kuzenjani bona wenzele indlovu iqhinga ngehlaya elibuhlungu.
+
+page_text:
+
+P1	Indlovu nomqasa bebabangani abalungileko.
+P2	Batholele iinlwana zabo amanzi notjani.
+P3	Bebathanda ukudlala ibholo erarhwako.
+P4	Indlovu yabetha amagondelo adluleleko.@@Umqasa azange uthabe.
+P5	"Yini ekwenza bona wazi ukudlala ibholo?" kubuza umqasa."Milenze emikhulu."
+P6	Umqasa nendlovu bareyisisa.Kwathumba umqasa.
+P7	Yini ekwenza bona ukwazi ukugijima kangaka?,kubuza indlovu,"Milenze yami"
+P8	"Ngingayithola njani imilenze ematsikana?",kubuza indlovu."Ngizokukhombisa"
+P9	"Jama emlilweni",kutjho umqasa.Indlovu yajama,yalila,"Ngiyatjha!"
+P10	"Ngiyoyodwa indlela yokwenza imilenze yakho ibematsikana", kwatjho umqasa.
+P11	Indlovu yatjhida emlilweni. Yalala phasi.
+P12	Kwadlula amalanga amanengi, indlovu ingakgoni ukujama.
+P13	Yathi bona ibencono, yakhamba yaya ekhaya emndenini wayo.
+P14	Umqasa wazisola khulu. Wabawa indlovu bona iwulibalele.
+
+images:
+
+illustrations/pages/13000.png
+illustrations/pages/13000.png
+illustrations/pages/13001.png
+illustrations/pages/13002.png
+illustrations/pages/13003.png
+illustrations/pages/13004.png
+illustrations/pages/13005.png
+illustrations/pages/13006.png
+illustrations/pages/13007.png
+illustrations/pages/13008.png
+illustrations/pages/13009.png
+illustrations/pages/13010.png
+illustrations/pages/13012.png
+illustrations/pages/13013.png
+illustrations/pages/13014.png
+
+translations:
+
+Amharic (Translation)	ዝሆንን ያታለለችው ጥንቸል	id=21231
+English (Translation)	Hare tricks Elephant, again	id=13093
+Kinyarwanda (Translation)	Bakame yongeye guhenda ubwenge Nzovu	id=20244
+Kiswahili (Original)	Sungura na Tembo (Tena!)	id=13092
+Kiswahili (Translation)	Sungura amdanganya Tembo	id=18342
+Lusoga (Translation)	Wakaduuyu airamu okutendera Wandhovu	id=26435
+Rukiga (Translation)	Wakame Akabeiha Warujojo	id=17012
+Setswana (Translation)	Mmutla O Tsietsa Tlou Gape	id=14958

@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=32362&d=0&a=1
+id:	32362
+title:	Mimwani ya Anyungwe
+author:	Little Zebra Books
+artist:	Max  Okoto
+lang:	Cinyungwe
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32362.png
+desc:	Proverbs of the Nyungwe People
+
+page_text:
+
+P1	Kupha kolo nkhuuma m'maso.
+P2	Mbwaya ikakhuta imbaluma lini.
+P3	Pamenya mbvuu mausva ndiyo yambabonera.
+P4	Katiya kunyera m'thanga nkhuwona mamace.
+P5	Leka kulewa kuti ndzou iyo ukali paphewa.
+P6	Kubala kwa cule na kwa tsesi nkhubodzi.
+P7	Ncala ibodzi imbapha lini ntswawa.
+P8	Mphondolo ingasaya nyama imbakadya mauswa.
+P9	Kambuzi kam'mambuyo ndiko kambabonera na michamu.
+P10	Mun'gopa m'dima ulibe thika.
+P11	Gondwa adafa na manyazi.
+P12	Kuwona maso ya nkhono nkhuderekhera.
+P13	Wanyoza kamba ndiye ana madzi.
+P14	Mulendo ndiye adapha nyoka.
+P15	Thika walira kumunda anidya lini mapira.
+P16	Mphondolo yakudya munthu imbafamba lini usiku.
+
+images:
+
+illustrations/pages/28152.png
+illustrations/pages/28156.png
+illustrations/pages/28154.png
+illustrations/pages/28159.png
+illustrations/pages/28153.png
+illustrations/pages/28155.png
+illustrations/pages/28167.png
+illustrations/pages/28157.png
+illustrations/pages/28163.png
+illustrations/pages/28158.png
+illustrations/pages/28161.png
+illustrations/pages/28152.png
+illustrations/pages/28164.png
+illustrations/pages/28166.png
+illustrations/pages/28165.png
+illustrations/pages/28160.png
+illustrations/pages/28162.png
+
+translations:
+
+English (Translation)	Proverbs of the Nyungwe People	id=33183
+Portuguese (Translation)	Provérbios do Povo Nyungwe	id=33184

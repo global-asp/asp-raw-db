@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=33108&d=0&a=1
+id:	33108
+title:	Ara Zama anitok!
+author:	Abraham  Arkadio
+artist:	Vusi Malindi
+lang:	Otuho
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33108.png
+desc:	Iramak eyaba ana jio (jyo) jio esiŋio dwo bu aduri bebe bebe
+
+page_text:
+
+P1	Ojoto ilaŋ olo odiha to ihalu.@@Ahenyu ni berien (beryen), nyo ara ni anitok.
+P2	Nani ania ana aŋatak to oloŋ itwa.
+P3	"Iyye elelef hoŋ oto motie", ajio hoŋong.
+P4	Ellillayo ni ahwan hoŋ oŋitek dang, abeŋ ni awak obo alwahio.
+P5	Abeŋ ni egigilo naari huno ilihi to, kuyya bwo ve asebun enegara ene illillayo to aboŋojin.
+P6	Iramak iyaŋ nani inyak, "hegworo alaa hoi" @@Etarraŋ ni, "obeŋ tuŋ, abaŋara nani!"
+P7	Ihalu ililiayo, efony ni ohonyi iko eyanyi. @@Eyihi ni isi oloŋ ono oyyu.
+P8	To nya, etiyyafak ni ahwan hoŋ.@@Ajio ni. "iyaŋ, abolo ni ihwania".
+P9	Aremik ni ihianana etahonyita boŋo hoŋ iko efitana hamuha hoŋ.
+P10	Ahode hode, etamijak adi ni ilaŋ assayo huno Asukul daŋ.
+P11	Itwa ittiyeni, ehan adi ni igalihinieri tene ekotia daŋ.
+P12	Ehanio ni asaŋ huno oyiji to hunia oŋitek daŋ.@@Ati, ariŋ ana awak ni bebe, inyi abala bwo abala!
+
+images:
+
+illustrations/pages/7514.png
+illustrations/pages/7513.png
+illustrations/pages/7514.png
+illustrations/pages/7517.png
+illustrations/pages/7507.png
+illustrations/pages/7515.png
+illustrations/pages/7518.png
+illustrations/pages/7516.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+illustrations/pages/7509.png
+
+translations:
+
+Arabic (Translation)	زاما المميز!	id=21847
+ChiTonga (Translation)	Zama Mukali	id=32865
+CiNyanja (Translation)	Zama Niwopambana	id=32846
+English (Adaptation)	Zama is great!	id=9984
+English (Adaptation)	(Colour-in) Zama is great!	id=32519
+French (Translation)	Zama est formidable!	id=33692
+IciBemba (Translation)	Zama Umwana Musuma!	id=32844
+Khoekhoegowab (Translation)	Zamab ge a kai	id=24656
+Kinyarwanda (Translation)	Mutesi Intangarugero	id=32623
+Kiswahili (Translation)	Dama ni mashuhuri!	id=22086
+Lusoga (Translation)	Juma wa Maani!	id=25917
+Lusoga (Translation)	Mbwali mubitirivu	id=25945
+Oshikwanyama (Translation)	Zama omunandjungu	id=24129
+Oshindonga (Translation)	Zama omwa nawa	id=23885
+Otjiherero (Translation)	Zama omusemba	id=24171
+Rukwangali (Translation)	Zama Ependa!	id=31489
+Sepedi (Translation)	Maleka ke sekgwari!	id=32457
+Sesotho (South Africa) (Translation)	Zama o etsa hantle	id=32411
+Siswati (Translation)	Zama ungumcemane!	id=32443

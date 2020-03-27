@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=33512&d=0&a=1
+id:	33512
+title:	Lerato, Thabo le kgomo
+author:	Maria Vaz
+artist:	Marion Drew
+lang:	Sesotho (South Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33512.png
+desc:	Thabo le Lerato ba ne ba leka ho suthisa kgomo e manganga e neng e dutse pela sediba sa metsi sa motsaneng wa habo bona.
+
+page_text:
+
+P1	Motsaneng o mong ho ne o ena le mohlankana ya bitswang Thabo.
+P2	Thabo e ne e le motswalle wa Lerato, mme matlo a habo bona a ne a bapile e le baahisane.
+P3	Ka tsatsi le leng, ba ya sedibeng sa motsaneng wa habo bona.
+P4	Ha ba fihla sedibeng, ba bona kgomo e bothile haufi le sediba. @@Ba dula fatshe ba rera ho ya bapala le yona.
+P5	Thabo a qala a etsisa modumo wa kgomo ha e lla a re, "Muu, muu, muu," ka lentswe le phefa.
+P6	A tswella pele ho etsa modumo oo ho fihlela kgomo e hetla e ba sheba. @@Hanghang Lerato a shatjwa ke letswalo, mme Thabo a elellwa hore o tshohile.
+P7	Yaba o re ho Lerato, "Ha re ilo otla kgomo ena, e tla baleha ebe re kgona ho fumana metsi." @@Lerato a re, "Ke a tshaba Thabo," a rialo a thothomela.
+P8	Thabo ya eba yena ya qalang ho tshosa kgomo, mme Lerato a mo latela ka morao a tsamaya butle. Ba leka ho otla kgomo, empa ya se ke ya sisinyeha.
+P9	Thabo a re ho Lerato, "Wena sala mona, nna ke tla ya lata metsi." Lerato a dumela.
+P10	Thabo a kga metsi a a tshela nkgong ya pele.
+P11	Eitse ha a kga nkgo ya bobedi, kgomo ya raoha, ya mo hlaba ka lenaka ya mmeha molaleng wa yona.
+P12	Thabo a hweletsa a re, "Joo, joo, joo!" Lerato a keketeha ha bona sena.
+P13	Kgomo yona ke ha e ntse e re feela, "Muu, muu, muu!"
+P14	Ha a qetile ho tsheha, Lerato a mathela hae ho ya bolella mmaThabo hore Thabo o hlajuwe kgomo. @@A fumana mmaThabo a ntse a fiela lebala kantle.
+P15	"Mme, mme, matha, kgomo e hlabile Thabo ka lenaka!" Lerato o bolella mmaThabo a hemela hodimo.
+P16	Mme mmaThabo a lahlela lefielo fatshe, yaba o potlakela ho ya thusa Thabo. @@Na o nahana hore ho ile ha etsahalang kamora moo?
+
+images:
+
+illustrations/pages/9373.png
+illustrations/pages/9371.png
+illustrations/pages/9370.png
+illustrations/pages/9374.png
+illustrations/pages/9373.png
+illustrations/pages/9378.png
+illustrations/pages/9376.png
+illustrations/pages/9380.png
+illustrations/pages/9381.png
+illustrations/pages/9385.png
+illustrations/pages/9384.png
+illustrations/pages/9387.png
+illustrations/pages/9388.png
+illustrations/pages/9389.png
+illustrations/pages/9390.png
+illustrations/pages/9391.png
+
+translations:
+
+English (Translation)	Lerato, Thabo and Cow	id=15905
+Kiswahili (Translation)	Leah, Roba na Ng'ombe	id=22080
+Lusoga (Translation)	Lule, Bwonso ni Wante	id=27650
+Sesotho (Lesotho) (Original)	Lerato, Thabo Le Khomo	id=9399

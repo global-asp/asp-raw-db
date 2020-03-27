@@ -1,0 +1,61 @@
+url:	https://africanstorybook.org/reader.php?id=33185&d=0&a=1
+id:	33185
+title:	A Canoa da Sara
+author:	Little Zebra Books
+artist:	Rachel  Greer
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33185.png
+desc:	A Sara tem uma canoa. Ela ajuda seus amigos a atravessar o rio.
+
+page_text:
+
+P1	A Sara tem uma canoa.@A canoa é grande.@A canoa está na margem do rio.
+P2	Umas mulheres aparecem no rio. Uma mulher tem uma bacia de frutas. Outra tem uma galinha. Outra tem um cabrito. E outra ainda tem dois cabritos. @@Elas perguntam à Sara: "Como é que nós podemos chegar à outra margem do rio?"@@A Sara responde: "Entrem na minha canoa!"
+P3	Depois, uns homens chegam. Um homem tem peixe. Outro tem uma bicicleta. Outro tem un saco de milho.
+P4	E um outro ainda tem dois sacos de milho. Eles perguntam à Sara: "Como é que nós podemos chegar à outra margem do rio?"@@A Sara responde: "Entrem na minha canoa!"
+P5	Uns animais aparecem no rio. Eles perguntam à Sara: "Como é que nós podemos chegar à outra margem do rio?"@@A Sara responde: "Entrem na minha canoa!"
+P6	Os animais entram na canoa. @O cão entra na canoa. @O gato entra na canoa. @O macaco entra na canoa. @O coelho entra na canoa. @O cágado entra na canoa. @A gazela entra na canoa.
+P7	O elefante aparece no rio. Ele pergunta: "Como é que eu posso chegar à outra margem do rio?"@@A Sara responde: "Entra na minha canoa!"@@O elefante entra na canoa. A canoa fica cheia de água.
+P8	A canoa é pequena. Não há espaço suficiente.
+P9	A Sara diz: "Esperem um minuto! Primeiro, eu levarei as mulheres."
+P10	A Sara diz: "Segundo, eu levarei os homens."
+P11	A Sara Diz: "No fim, eu levarei os animais."
+P12	O elefante diz: "Ei, eu irei a pé!"
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya Asara	id=33186
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+Imeetto (Translation)	Ikalawa ya Saara	id=33188
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kinyarwanda (Translation)	Ubwato bwa Sara	id=32306
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Sepedi (Translation)	Mokoro wa Sara	id=33345
+Sola (Translation)	Sɑrɑ kuninɔi	id=33598

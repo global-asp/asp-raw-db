@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=33372&d=0&a=1
+id:	33372
+title:	Dipotso tsa Karabo
+author:	Maria Vaz
+artist:	Rob Owen
+lang:	Sesotho (South Africa)
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33372.png
+desc:	Batswadi ba Karabo ba ne ba mo kgothalletsa ho botsa dipotso. Ho botsa dipotso hwa hae ha etsa hore a tsebe ka bohlokwa ba ho hlatswa matsoho pele a ja.
+
+page_text:
+
+P1	Karabo o ne a rata ho botsa dipotso hobane batswadi ba hae ba ne ba dula ba mmollela hore ha o le ngwana ya sa botseng dipotso, o tla hola o be mme kapa ntate wa sethotho.
+P2	Ka tsatsi le leng Karabo a botsa titjhere a re, "Hobaneng hobaneng ha batswadi ba dula ba re bollela hore ba hlatswe matsoho le ha a shebahala a hlwekile."@@Baithuti ba bang ba fumana potso ena e le molemo hobane ba ne ba sa rate ho bolellwa hore ba hlatswe matsoho jwaloka Karabo.
+P3	Mosuwetsana a re ho Karabo, "Ke potso e ntle eo, le ha matshoho a boheha a hlwekile, a ka jara dikokwanahloko." @@A hlalosa hore, "Dikokwanahloko di a kudisa le hore ha re kgone ho di bona ka mahlo a rona a feela, mme ho hlokeha motjhini o hodisang o bitswang maekerosekoupu ho di bona."
+P4	Mosuwetsana a ntsha maekorosekoupu ka khabotong mme a re, "Maekerosekoupu ke motjhini o sebediswang ho bona dintho tse nyenyane haholo tse sa bonahaleng ha bobebe ka mahlo a rona a feela."@@Mosuwetsana a ngwapangwapa letsoho la Karabo ka thutswana mme a le phumulela kgalaseng ya maekorosekoupu.
+P5	Ha a qeta a beha kgalase ena hodima maekorosekoupu mme ba sheba ka sebohi.@@Ba bona hore le ha matsoho a Karabo a ne a boheha a hlwekile, a ne jere dikokwanahloko.
+P6	Yaba titjhere o hlalosa a re, "Re potapotilwe ke dikokwanahloko hohle, dinthong tseo re di thetsang ka mona ka phaposing, lebaleng la dipapadi le hae." @@Mosuwetsana a ba bolella hore dikokwanahloko tsena di ka ba kudisa haholo.
+P7	A tswelapele  a re ho bona, "Hore re bolaye dikokwanahloko tsena, re lokela ho hlatswa matsoho a rona ka metsi a hlwekileng, haholoholo pele re ja. Hape ho bohlokwa ho hlatswa matsoho ha re kula hore re se ke ra fetisetsa dikokwanahloko bathong ba bang.
+P8	Eitse ha Karabo a etswa sekolong a fumana ntatae a etsa sesebediswa se kgahlang. "Ntate e bitswang ntho eo o e etsang?" ho botsa Karabo. @@"E bitswa palama o itlhatswe," ho bolela ntatae. "O e sebedisa ho hlatswa matsoho ha o tswa ntlwaneng le pele o ja."
+P9	Karabo o ne a maketse mme a bolella ntatae hore titjhere ya bona o ba bolelletse ka sebediswa sena. A botsa ntatae hore se sebediswa jwang. @@Ntatae a tsheha a re, "Atamela ke tle ke o bontshe moradi."
+P10	"O qala ka ho palamela hodima patsi ena," ho rialo ntate.
+P11	"Ha o palama, nkgo ya metsi e tla sekama mme e tshollele metsi matsohong a hao. Hopola hore o lokela ho sebedisa sesepa."
+P12	Karabo o ne a thabile mme a re, "Ke ne ke tla tseba tsena tsohle jwang ha ke ne ke sa botse dipotso? Ke nnte hore dipotso di eketsa tsebo."
+
+images:
+
+illustrations/pages/25965.png
+illustrations/pages/25964.png
+illustrations/pages/25965.png
+illustrations/pages/25966.png
+illustrations/pages/25967.png
+illustrations/pages/25968.png
+illustrations/pages/25969.png
+illustrations/pages/25970.png
+illustrations/pages/25971.png
+illustrations/pages/25972.png
+illustrations/pages/25973.png
+illustrations/pages/25974.png
+illustrations/pages/25975.png
+
+translations:
+
+English (Translation)	Kariza's questions	id=22197
+Khoekhoegowab (Translation)	Kariza's dîdi	id=33530
+Kinyarwanda (Original)	Kariza akunda kubaza	id=22196
+Kiswahili (Translation)	Maswali aliyouliza Kariza	id=22582
+Oshikwanyama (Translation)	Omapulo aKariza	id=33469
+Oshindonga (Translation)	Omapulo gaKariza	id=33471
+Otjiherero (Translation)	Omapuriro ja Kariza	id=33467
+Rukwangali (Translation)	Epuro lya Kazira	id=33475
+Sepedi (Translation)	Dipotšišo tša Kariza	id=33461
+Siswati (Translation)	Imibuto yaKariza	id=33400

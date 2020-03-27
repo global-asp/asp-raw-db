@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33815&d=0&a=1
+id:	33815
+title:	Bomoi ya ndembo
+author:	Theresa  Nyemba
+artist:	Pimville Library Soccer
+lang:	Lingala
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33815.png
+desc:	Pona na bana oyo babetaka ndembo
+
+page_text:
+
+P1	Bling azalaki mwana oyo alula ndembo makasi penza.@@Tango azali koloba pona lisano, alobaka boye, "Ndembo ezali bomoyi!"
+P2	Bling azalaki moko ya babetii ndembo ya molakisi Tsepo.@@Molakisi oyo azalaki na esengo mingi na lingomba naye ya ndembo.@@Babeti mingi balingaka kokota bazala basani ya solo.
+P3	Lisano moko epesemelaki na mikolo mizali koya.@@Lingomba oyo ya ndembo bamilengelaka mikolo nionso.@@Batu nionso bazalaki na elikya te lingomba na bango elingaki kolonga na lisano oyo!
+P4	Molakisi ya lingomba mosusu azalaki moto ya zuwa.@@Azalaki na zuwa pona lokumu ya moninga naye molakisi Tsepo.
+P5	Molakisi ya zuwa oyo, akei na butu esika ya masano liboso ya bokutani.@@Aloni eloko moko ya mabe.@@Aloni nkisi!
+P6	Bling abandaki kobeta makasi na ebandeli ya masano.@@Azalaki kokende bango atia mongete.@@Sima na yango abeti libaku.
+P7	Ye abungisi mongete na sima ya kokweya makelekele!@@Bato bangangi makasi, "Bling?"@@Molakisi Tsepo, "Bling?"
+P8	"Eloko moko te ekopekisa ngai na beta," Bling amilobeli.@@"Ndembo ezali bomoyi."@@Atelemi pe abeti tii na suka.
+
+images:
+
+illustrations/pages/85940126.png
+illustrations/pages/85940122.png
+illustrations/pages/85940123.png
+illustrations/pages/85940124.png
+illustrations/pages/85940125.png
+illustrations/pages/85940126.png
+illustrations/pages/85940127.png
+illustrations/pages/85940128.png
+
+translations:
+
+English (Original)	Soccer is life	id=33730
+French (Translation)	Le foot c'est la vie	id=33846
+isiZulu (Translation)	Ibhola liyimpilo yabo	id=33784
+Kῖmῖῖrũ  (Translation)	Mũbira ni ũturõ	id=33863
+Kiswahili (Translation)	Soka ni maisha	id=33758
+Sesotho (South Africa) (Translation)	Bophelo ba papadi ya bolo ya maoto	id=33802

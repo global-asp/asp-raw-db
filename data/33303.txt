@@ -1,0 +1,72 @@
+url:	https://africanstorybook.org/reader.php?id=33303&d=0&a=1
+id:	33303
+title:	Okuyandja ondunge ombukise
+author:	Else Stanley
+artist:	Brian Wambi
+lang:	Otjiherero
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33303.png
+desc:	Two men twice accept the advice of a bad judge. It is only when they eventually consult the elders
+
+page_text:
+
+P1	Kombe na Juma vari ovararanganda ovasiona. Aveungura ovina avihe oveni.
+P2	Avezeri kutja andaku vari no Kasino. Atja kevevatera okuturika ovina viao.
+P3	Kombe watja indjo turande okasino pamwe.
+P4	Ihe ja Kombe tja ta, Kombe warumata outumbe uaIhe. Azembi Juma.
+P5	Kombe wavangere onyama jo kasino kozombwa ze.@Nu posia Juma avanga okasino.
+P6	Omupangure watja, "auhe wenu ngakambure ohinga jo kasino."
+P7	Kombe wazepa okasino.@Juma eritoorere ovina kuye omwini rukwao.
+P8	Kombe wari amavanga okundjosa okaruuona ke nu matunge karue.
+P9	Juma watja, "Yandje maipi wina." Omupangure waikumwa na Kombe.
+P10	Okaruwona ka Juma kapi. Omupangure watja, "Kombe wanyosa okaruwona ke."
+P11	Juma kaari no kasino, kaari no karuwona, arara kehi jo muti.
+P12	Juma waungura oukukutu. Wari no vikokotwa no makunde.
+P13	Ovazandona va Kombe varia omakunde omengi okuza motjikunino tja Juma.
+P14	Ovazandona vatja ku Juma "hungira kuna tate masute omakunde woye."
+P15	Posia Juma watja, "ami hino kuvanga ovimariva vienu mevanga omakunde wandje
+P16	Omupangure watja ku Juma, "konda ovazandona upaturure unane omakunde woye."
+P17	Juma wapanda okupuratena. Kombe wariri "atja ovanene ngaverire mbuvatje.
+P18	Ovandu imbo ovanene varaere Kombe, ove wazepa okasino, nu wanyosa okaruwona
+P19	Nu ovanene vatja "okuzepa ovazandona va Kombe onavi wina"
+P20	Kombe wayandja ohinga wowini we ku Juma.@Nu owo avehe vahupa nawa mohange.
+
+images:
+
+illustrations/pages/17057.png
+illustrations/pages/17050.png
+illustrations/pages/17052.png
+illustrations/pages/17053.png
+illustrations/pages/17054.png
+illustrations/pages/17055.png
+illustrations/pages/17057.png
+illustrations/pages/17058.png
+illustrations/pages/17060.png
+illustrations/pages/17061.png
+illustrations/pages/17062.png
+illustrations/pages/17063.png
+illustrations/pages/17064.png
+illustrations/pages/17066.png
+illustrations/pages/17068.png
+illustrations/pages/17069.png
+illustrations/pages/17070.png
+illustrations/pages/17071.png
+illustrations/pages/17073.png
+illustrations/pages/17074.png
+illustrations/pages/17075.png
+
+translations:
+
+Afaan Oromo (Translation)	Abbaa Seeraa Abbiidhoo	id=24805
+English (Original)	Unwise judge	id=17115
+English (Adaptation)	Wrong advice	id=21795
+French (Translation)	Mauvais conseil	id=23335
+Kinyarwanda (Translation)	Umucamanza mubi	id=22143
+Kinyarwanda (Translation)	Bagiriwe Inama Mbi	id=31693
+Kiswahili (Translation)	Hakimu asiyekuwa na busara	id=17135
+Kiswahili (Translation)	Ushauri mbaya	id=21816
+Lusoga (Translation)	Okughabulwa okucaamu	id=25906
+Portuguese (Translation)	Juiz Insensato	id=17118
+Portuguese (Translation)	Juiz Insensato	id=17133
+Sepedi (Translation)	Keletšo ya maaka	id=32913

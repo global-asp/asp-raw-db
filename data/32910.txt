@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=32910&d=0&a=1
+id:	32910
+title:	Izilwane ziyabaleka
+author:	Wonder  Dlamini
+artist:	Magriet Brink
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32910.png
+desc:	Izilwane zingaba abangane noma zingafani.
+
+page_text:
+
+P1	Ugogo wayenezinkukhu neqhude elidala.
+P2	Umzukulu wakhe wamvakashela.@@Wanquma ukulibulala leli qhude elidala.
+P3	Iqhude elidala labalekela edolobheni elikhulu.
+P4	Iqhude elidala lahlangana nekati libalekela umphathi walo.
+P5	Iqhude elidala nekati bahlangana nenja ibaleka nayo.
+P6	Bahlangana nehhashi elalibaleka nalo.
+P7	Izilwane zafika endlini ethize.@@Zabona izigebengu ngaphakathi.
+P8	Izilwane zacula kakhulu ukuxosha izigebengu.
+P9	Zadla ukudla ezikuthole ngaphakathi endlini.
+P10	Izigebengu zabuya emuva kwesikhathi. @@Zahlaselwa izilwane.
+P11	Izigebengu zabaleka unomphela.
+P12	Izilwane zahlala ngokujabula kulendlu.
+
+images:
+
+illustrations/pages/8524.png
+illustrations/pages/8517.png
+illustrations/pages/8518.png
+illustrations/pages/8519.png
+illustrations/pages/8520.png
+illustrations/pages/8521.png
+illustrations/pages/8522.png
+illustrations/pages/8523.png
+illustrations/pages/8524.png
+illustrations/pages/8525.png
+illustrations/pages/8526.png
+illustrations/pages/8527.png
+illustrations/pages/8528.png
+
+translations:
+
+Afrikaans (Translation)	Die ou plaashaan	id=11053
+Amharic (Translation)	ያመለጡት እንስሳት	id=21181
+English (Original)	Old rooster	id=9545
+English (Adaptation)	Animals run away	id=20874
+French (Translation)	Le Vieux Coq	id=10840
+French (Translation)	Les animaux s'enfuient	id=33337
+Kiswahili (Translation)	Wanyama Wanatoroka kwao	id=21074
+Lámnsoʼ (Translation)	Nyám sí léʼkirì	id=22295
+Lulamoogi (Translation)	Ebisolo okwemulula	id=24821
+Lusoga (Translation)	Ebisolo birumuka	id=25351
+Lusoga (Translation)	Obukulu ti bumanhi	id=29160
+Ng’aturkana (Translation)	Ng’Itieng Lu Apotu Tosiwakis	id=21137
+Portuguese (Translation)	Velho Galo	id=18863
+Setswana (Translation)	Diphologolo di a Tshaba	id=22026
+Thimbukushu (Translation)	Ngondovoro ghokukurupara	id=32248
+Tigrigna (Translation)	ዘምለጡ እንስሳት	id=21111

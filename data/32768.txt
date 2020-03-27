@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=32768&d=0&a=1
+id:	32768
+title:	Pale ya Mollo
+author:	Boitumelo  Molefe
+artist:	Rob Owen
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32768.png
+desc:	Mollo o re botsa pale ka wona
+
+page_text:
+
+P1	E re ke o bolelle pale ya ka. Ke qadile ke le tlhasenyana e nyenyane.
+P2	Ke tswa taolong ha moya o mphehla.
+P3	Nna le wena re metswalle ya nnete.
+P4	Ke o phehehela dijo tsa hao.
+P5	Bosiu ke a o kgantshetsa.
+P6	Ke na le maqheka a mangata.
+P7	Ke karolo ya lelapa la hao.
+P8	Empa hlokomela! Ha o mmema lapeng la hao, ha ke batle ho siuwa ke le mong.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+ChiNambya (Translation)	Lungano lomomoto	id=32900
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166
+Rukwangali (Translation)	Esanseko lyoMundiro	id=31484
+Sepedi (Translation)	Kanegelo ya Mollo	id=33460
+Siswati (Translation)	Indzaba yeMlilo	id=33399

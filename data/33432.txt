@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=33432&d=0&a=1
+id:	33432
+title:	Ng'ipakae Selina
+author:	James  Emase
+artist:	Marleen Visser and Wiehan de Jager
+lang:	Ng’aturkana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33432.png
+desc:	Eyakar Selina nyipakae lukalak. Ngiai ngipakai Selina?
+
+page_text:
+
+P1	Emina Selina ng'ipakai. Elalak ng'ipakae alokai keng.
+P2	Eyakar Selina ipaka ipei nikirion. Imujana ipaka een akiring nakaalan.
+P3	Eyakar Selina ipaka ipei nikatuman. Imujana ipaka een ibore daang'.
+P4	Ipaka nia ng'uuni todokaa lokitoe. Tokedokin lokitoe.
+P5	Todokaa Selina lokitoe. Tokedokinos ka ipaka nia ng' uuni lokitoe. King'arak totokeng Selina kechi adokun alokitoe.
+P6	Eyakar Selina ng'ipakae ng'iarei lupalag. Eperete anakolong akwaar daang'.
+P7	Eyakar Selina ng'ipakae ng'uuni  lukeberak. Irumete  ng'irunyei nakware alokeno.
+P8	Eyakar Selina ing'ok ipei. Enyaritae Eng'olekume. Eng'olekume epae. Eng'oit.
+P9	Nyeminasi ng'ipakae Selina Eng'olekume. Iritanarete ng'esi alokai. Kipung'ar Eng'olekume.
+P10	Tasaka Selina Eng'olekume yau nawi. Apotu Ng'ipakae nyielakaros. Nechamito aking'olikin Eng'olekume nabo.
+P11	Ng'iai ng'ipakae eyakar Ereng'? Eyakar ng'ipakae ng'inan kauni.
+P12	Ng'iai ng'ing'okuo eyakar Selina? Eyakar ing'ok ipei. Aluwai eyei Eng'olekume tokona?
+P13	Ng'iai ng'ipakae iyakar iyong' anawi? Ng'iai ng'ing'okuo iyakar iyong anawi?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiNambya (Translation)	Tungowe twa Selemeng	id=32898
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+ChiTonga (Translation)	Bakaaze ba Selemengi	id=33107
+CiNyanja (Translation)	Ma cona a Selemeng	id=33170
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+IciBemba (Translation)	Baapuushi bakwa Selemeng	id=33292
+isiZulu (Translation)	Amakati kaZamo	id=31799
+KiGiryama (Translation)	P'aka a Charo	id=33479
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Puusi dha Kelementi	id=27609
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Pokomo (Translation)	Mpaka jwa Subo	id=33504
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

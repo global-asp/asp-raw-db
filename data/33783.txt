@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33783&d=0&a=1
+id:	33783
+title:	Usozimfihlo
+author:	Zanele Zuma
+artist:	Sbusiso  Boikanyo and Linda  Liphondo
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33783.png
+desc:	Emva kokuthunjwa kwabazali bakaKay uDr Devious
+
+page_text:
+
+P1	Kwakukhona intombazane igama layo kunguKay.@@Abazali bakhe babengososayensi abavelele. Babematasa nomsebenzi owawuyimfihlo enkulu esikhungweni sabo sezesayensi.
+P2	Esinye isikhohlakali sikasosayensi esasibizwa ngoDr Devious sasifuna ukuthola imfihlo yalo msebenzi ababewenza.@@Ngobunye ubusuku uDr Devious wathumela uzakwabo uDan Diabolical ukuthi azothumba abazali bakaKay.
+P3	UDan wababamba abazali. Wacishe wamthola uKay kodwa waphunyuka ngoba wayemncane futhi egijima kakhulu. @@UKay wagijima njengonyazi.
+P4	Lapho ama khona wabona esesehlathini. Izihlahla zazizinde kakhulu futhi wayengakaze azibone ezinje.@@Wabheka phezulu ethi uzama ukubona lapho zigcina khona, wakhubeka wawa!
+P5	Waginqika, waginqika, waginqika.@@Wathi lapho ephaphama wazibona esendlini eneTV enkulu.
+P6	"Sawubona Kay," kusho indoda ekuTV. @@Ngisebenza ngezimfihlo zomhlaba! Manje nguwena osuyisisebenzi sezimfihlo zomhlaba esisha!"@@UKay ezwa lawo magama, wazizwa eba nesibindi esikhulu.
+P7	Usozimfihlo uKay washiya isihlahla esephuma ngomnyango owawusesiqwini saso isihlahla.@@Wagijima waze wayofika lapho kwakuhlala khona uDr Devious wafike wamcela inselelo.@@Balwa izinsuku ezimbili, uKay wagcina eyinqobile lempi!
+P8	Sebebuyele ekhaya abazali bakhe, uKay wabuyela esihlahleni leso ukuyofuna indoda eyayikuTV.@@Wasithola isihlahla, kodwa sasingenawo umnyango.@@Wahlala phansi wabheka phezulu ezihlahleni.
+
+images:
+
+illustrations/pages/85940140.png
+illustrations/pages/85940136.png
+illustrations/pages/85940137.png
+illustrations/pages/85940138.png
+illustrations/pages/85940139.png
+illustrations/pages/85940140.png
+illustrations/pages/85940141.png
+illustrations/pages/85940142.png
+
+translations:
+
+English (Original)	Secret agent	id=33732
+French (Translation)	Agent secret	id=33848
+Kiswahili (Translation)	Ajenti wa Siri	id=33835
+Lingala (Translation)	Bato ya kobombama	id=33814
+Sesotho (South Africa) (Translation)	Sehlwela	id=33801

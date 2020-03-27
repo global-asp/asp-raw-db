@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=32560&d=0&a=1
+id:	32560
+title:	Semuntu n'akabindi kuzuye Ubwenge
+author:	Patrick  Munyurangabo
+artist:	Wiehan de Jager
+lang:	Kinyarwanda
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32560.png
+desc:	Kera
+
+page_text:
+
+P1	Kera, kera cyane nta kintu na kimwe abantu bari bazi. Ntibari bazi guhinga, ntibari bazi kuboha imyenda, emwe ntibari bazi no gucura.@@Ariko Imana Rerema mu ijuru ikaba yari ifite ubwenge bwose bw'isi. Ikaba yari ibubitse mu kabindi.
+P2	Umunsi umwe, Rurema yiyemeza guha Semuntu ka kabindi kuzuye ubwenge. @@Buri gihe iyo Semuntu yarebaga muri ka kabindi yamenyaga ikintu gishya. Ibyo bikamushimisha cyane. Mu kutanyurwa no gushaka kwikubira kwe, Semuntu aribwira ati: "Ngiye guhisha aka kabindi mu bushorishori bw'igiti kirekire cyane. Bityo kazabe akange genyine. Ubwo aboha akagozi karekare, akazengurutsa ka kabindi, akizirika mu nda."
+P3	Yatangiye kurira igiti. Ariko byari bigoye kuko ka kabindi cyagendaga kimwikubita ku mavi.
+P4	Uko yakoraga ibyo, agahungu ke karamwitegerezaga gahagaze munsi y'igiti. Ni ko kumubaza kati: "Ese ntibyari kukorohera kurushaho iyo wizirika ako kabindi ku mugongo?" @@Semuntu yaziritse ka kabindi kuzuye ubwenge ku mugongo, maze koko biramworohera cyane kugatwara.
+P5	Mu gihe gito aba ageze mu bushorishori bwa cya giti. Ariko ubwo arahagarara aratekereza ati: "Ni nge wakagombye kuba mfite ubwenge bwose, none umuhungu wange ni umunyabwenge kundusha!" @@Semuntu byaramurakaje cyane ku buryo yarekuye ka kabindi kikitura munsi y'igiti.
+P6	Akabindi kituye hasi karajanjagurika. Ubwenge bwarimo buboneraho gukwirakwira mu bantu bose. @@Nguko uko abantu bamenye guhinga, kuboha imyenda, gucura n'ibindi byose bazi gukora ubungubu.
+
+images:
+
+illustrations/pages/1273.png
+illustrations/pages/1274.png
+illustrations/pages/1275.png
+illustrations/pages/1276.png
+illustrations/pages/1277.png
+illustrations/pages/1278.png
+illustrations/pages/1279.png
+
+translations:
+
+Amharic (Translation)	አናንሲና ጥበብ	id=22388
+Arabic (Translation)	أنانسي و الحكمة	id=21824
+Ateso (Translation)	Anansi Keda Acoa	id=20963
+Ateso (Translation)	Anansi Keda Acoa	id=21589
+Ekegusii (Translation)	Anansi N'obong'aini	id=2232
+English (Original)	Anansi and wisdom	id=1938
+English (Adaptation)	(Colour-in) Anansi and wisdom	id=32524
+French (Translation)	Anansi et la sagesse	id=33410
+Kikamba (Translation)	Ananzi Na Ũĩ	id=2233
+Kiswahili (Translation)	Anansi awapa watu hekima	id=2234
+Lugbarati (Translation)	Ibio Pi Ondoa Be	id=2230
+Lugbarati (Official) (Translation)	Èbìó Pɨ Òndʉ̀á Be	id=8775
+Lumasaaba (Translation)	Manaasi Ni Kamakhula	id=3006
+Lusoga (Translation)	Nambumbi kalimagezi	id=24920
+Maa (Translation)	Anansi Ó Eng'énó	id=2732
+Ng’aturkana (Translation)	Anansi Ka Aosou	id=2235
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=2256
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=8677
+Spanish (Translation)	Anansi Y La Sabiduría	id=14407

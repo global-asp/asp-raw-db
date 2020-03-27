@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=33797&d=0&a=1
+id:	33797
+title:	Ho se etsahale letho
+author:	Maria Vaz
+artist:	Suzette  T
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33797.png
+desc:	Mongodi wa pale ena o tshwenyehile ka lelapa la hae. (Pale le ditshwantsho di qapuwe thupellong ya matsatsi a phomolo a Phupjane 2019 ke Sophiatown Community Psychological Services
+
+page_text:
+
+P1	Mme wa ka o ne a bua mohaleng.
+P2	O ne a bolellwa hore nkgono o hlokahetse.@@O ne a lla haholo.
+P3	Ke ile ka utlwa bohloko bo boholo.@@Ra qalella holla le rona. @@Nkgono o ne a lokile haholo ho feta batho ba bang bohle.
+P4	Bana ba hae bohle ba ile ba tlo mmoloka santeng.@@Re ile ra qala ho rapela hore ho se etsahale letho le lebe ho ba leloko lohle la rona.
+
+images:
+
+illustrations/pages/91400163.png
+illustrations/pages/91400161.png
+illustrations/pages/91400162.png
+illustrations/pages/91400163.png
+illustrations/pages/91400164.png
+
+translations:
+
+English (Original)	Nothing must happen	id=33742
+French (Translation)	Rien ne doit se produire	id=33756
+isiZulu (Translation)	Sengathi kungenzeke lutho olubi	id=33781
+Kiswahili (Translation)	Lazima kusitokee tena	id=33755
+Lingala (Translation)	Eloko moko te ekokikokoma	id=33812

@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=33780&d=0&a=1
+id:	33780
+title:	Abazali bami
+author:	Zanele Zuma
+artist:	Gloria  M 
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33780.png
+desc:	Kuba nzima uma abazali bakho sebehlala ngokwehlukana. (Indaba nemifanekiso kwaqanjwa engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Ubaba uhlala eYeoville.
+P2	Mina ngihlala eBertrams nomama nosisi bami ababili.
+P3	Ubaba ngimbona kuphela uma ezovakasha ngosuku lwami lokuzalwa.
+P4	Ngiyafisa azohlala nathi.@@Angazi ukuthi kungani singahlali sonke ndawonye.
+
+images:
+
+illustrations/pages/91400160.png
+illustrations/pages/91400157.png
+illustrations/pages/91400158.png
+illustrations/pages/91400159.png
+illustrations/pages/91400160.png
+
+translations:
+
+English (Original)	My parents	id=33741
+French (Translation)	Mes parents	id=33858
+Gikuyu (Translation)	Aciari akwa	id=33862
+Kiswahili (Translation)	Wazazi wangu	id=33842
+Lingala (Translation)	Baboti na ngai	id=33811
+Sesotho (South Africa) (Translation)	Batswadi ba ka	id=33796

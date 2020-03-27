@@ -1,0 +1,82 @@
+url:	https://africanstorybook.org/reader.php?id=33305&d=0&a=1
+id:	33305
+title:	(Colour-in) UNkawu noNgwenya
+author:	Pumla Mdontswa
+artist:	Abraham Muzee
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33305.png
+desc:	UNkawu wasinda kanjani emlonyeni kaNgwenya.
+
+page_text:
+
+P1	UNkawu uhlangana noNgwenya ngasechibini.
+P2	UNkawu ubuza uNgwenya, "Ngabe uhlalaphi?"@@Aphendule uNgwenya, "Echibini."
+P3	UNgwenya ke naye bese ebuza uNkawu.@@Aphendule uNkawu, "Ngihlala ezihlahleni."
+P4	Aqhubeke uNgwenya, "Uyakwazi ukubhukuda?"
+P5	"Cha, angikwazi." UNgwenya-ke bese ethi, "Ngizokufundisa."
+P6	Aqhubeke uNgwenya, "Ungesabi, singabangane."
+P7	Khona lapho uNgwenya athi kuNkawu, "Umalume wami uyagula, udinga inyama."
+P8	UNkawu useyasaba ngempela manje. Ngabe uNgwenya uzomudla?
+P9	UNkawu ufuna ukubalekela uNgwenya manje.
+P10	Hmm! Usenesu.
+P11	UNkawu bese ethembisa uNgwenya, "Ngizokunika inhliziyo yami, uphe umalume wakho."
+P12	"Kodwa-ke, mngane wami, inhliziyo yami isemhlabeni, esihlahleni," kuchaza uNkawu.
+P13	"Ungayilanda inhliziyo yakho lapho?" kubuza uNgwenya.@@Avumele phezulu uNkawu, "Yebo, yebo."
+P14	Nanguya uNgwenya ebhukuda eya emhlabeni. Nanguya noNkawu egijimela ezihlahleni.
+P15	UNgwenya wezwakala esethi, "Awuyena umngane wami. Uqambe amanga!"
+P16	Waphendula uNkawu esihlahleni, "Vele, asibona abangane! Ucabanga ukuthi angiboni ukuthi ufuna ukungidla ungishwabadele!"
+
+images:
+
+illustrations/pages/19154.png
+illustrations/pages/19021.png
+illustrations/pages/19151.png
+illustrations/pages/19152.png
+illustrations/pages/19153.png
+illustrations/pages/19154.png
+illustrations/pages/19155.png
+illustrations/pages/19156.png
+illustrations/pages/19157.png
+illustrations/pages/19158.png
+illustrations/pages/19159.png
+illustrations/pages/19160.png
+illustrations/pages/19161.png
+illustrations/pages/19162.png
+illustrations/pages/19163.png
+illustrations/pages/19164.png
+illustrations/pages/19165.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	(Colour-in) Ape and Crocodile	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+isiZulu (Translation)	Imfene ne ngwenya	id=33482
+Kanuri (Translation)	Dagǝl Bulongu-a Karam–a	id=32286
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende n'ingona	id=20223
+Kinyarwanda (Adaptation)	Inkende n'ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Waggoonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Siswati (Translation)	Imfene neNgwenya	id=32956
+Thimbukushu (Translation)	Shoko naNgandu	id=31528
+Tiv (Translation)	Ikya man Ambe	id=23886

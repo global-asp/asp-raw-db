@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=33214&d=0&a=1
+id:	33214
+title:	Citagu Ca Mundu Jwa Kumisa Mbeju
+author:	Little Zebra Books
+artist:	Tamsin  Hinrichsen
+lang:	Ciyawo
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33214.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 8:5-15@@Mundu jwine vapite kukumisa mbeju.
+P2	Pavadiji nkumisa yila‑yila, mbeju sine syagwidile mwitala, ni syadivatikwe ni vandu ni kudikwa ni yijuni.
+P3	Mbeju sine syagwidile petaka dya maganga, syamesile nambo syanyasile digongo dya kusova cinyesi.
+P4	Mbeju sine syagwidile pamawukutu ga miva. Mawukutu‑go pagakusile, ganyolwesye mbeju sila.
+P5	Mbeju sine syagwidile petaka dya cajila, syamesile ni kusogola, disace didi dyose dyakwete songolo dicila."@@Yesu pavamasile kuveceta yeleyi, vavecete sooni mwakwesya malove acitiji, "Jwampaka ambikane, apikane!"
+P6	Vakudijiganya va Yesu vambuusisye jwalakwe‑jo gopolela kwakwe kwa citagu‑ci. Yesu vaajanjile kuti, "N'nungu am'manyisye m'mwanya yicindu yakusisika ya mu Wucimwene wakwe. Nambo kwa vane‑va agambile kuyipikana kupitila mwitagu‑pe, kuti, Atamosi alole nambo akalolecesya cenene. 'Atamosi apikane nambo ngapikanicisya cenene.'"
+P7	"Aku ni kugopolela kwakwe kwa citagu‑ci. Mbeju‑syo sidi malove ga N'nungu."
+P8	"Mbeju sya syagwidile mwitala sila sidi mpela vandu vakunapikana malove ga N'nungu. Nambo Cetani akunayika ni kutyosya malove gala m'mitima mwawo, kogopela kuti vanya‑wo civakulupidile N'nungu ni kulupuka."
+P9	"Mbeju sya syagwidile petaka dya palwala adi vandu vakupikana malove ga N'nungu, ni akunagapocela mwa kukondwa, nambo malove‑go gangamelela miciga jakwe. Vanya‑wo mwa ndavi ja panandi akunakulupidila, mwakuti pandavi jakudinjikwa akunajasa ntima."
+P10	"Mbeju sya syagwidile pamawukutu sila, adi vandu vakunapikana malove ga N'nungu, nambo pawujo pakwe akunakayicila pakuti akunayinonyelaga yipanje ni yakunonyelesya ya wumi awuno. Ni yikunayalepekasyaga malove ga N'nungu. Sooni yisogosi yawo yikunava yangakomala ndavi jose‑pe."
+P11	"Nambo mbeju sya syagwidile petaka dya cajila sila, adi vandu vakugapikana malove ga N'nungu ni kugasunga m'mitima jawo. Vanya‑wo akunadimbicila mpaka kusogola yisogosi."
+
+images:
+
+illustrations/pages/27344.png
+illustrations/pages/16267.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16270.png
+illustrations/pages/16271.png
+illustrations/pages/16289.png
+illustrations/pages/16286.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16287.png
+illustrations/pages/16285.png
+
+translations:
+
+Cinyungwe (Translation)	Mulimi na Mbeu Yace	id=31625
+Cisena (Translation)	Nyakuwaza Mbeu	id=31624
+Elomwe (Translation)	Mulipa Oomisa	id=31622
+English (Original)	The Sower	id=16245
+Ikisimbëtë (Translation)	Ëkërëngyö ikya Imbusiro	id=24797
+Imeetto (Translation)	Mayowaala	id=33213
+Olunyaneka (Translation)	Omukuvi	id=31623
+Portuguese (Translation)	O Semeador	id=33212

@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33810&d=0&a=1
+id:	33810
+title:	Ba bwa na ngai nalingaka
+author:	Theresa  Nyemba
+artist:	Priscilla  K
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33810.png
+desc:	Po etali ba bwa mibale nalingaka. (Lisapo esalemaki na sanza ya motoba ya mobu tuku mibale na zomi na libwa na tango ya bopemi
+
+page_text:
+
+P1	Mama na ngai amemeli ngai ba bwa mibale ya kitoko.
+P2	Nasepeli kopesa bango kombo ya Royalty na Blackie.
+P3	Royalty azalaki na langi ya kaki pe azalaki mokonzi ya mwasi.@@Blackie azalaki bwa nalingi ya moyindo na suki milayi.
+P4	Nazalaki kotambola na bango mikolo nionso soki nawuti kelasi.
+P5	Mbala mosusu nakosukola bango ngai moko. @@Royalty akolinga kokima mosika!
+P6	Pe na sima tolongwaki wana pe tokei na ndako mosusu.@@Pe kuna balingaka ba bwa te.
+P7	Bongo totikaki Blackie na Royalty epai ya mwana ya mama leki na ngai.@@Mokolo moko na ntongo, nakanaki kokende kotala ba bwa.
+P8	Nakuti Blackie abungaki. Royalty azalaki ye moko.@@Nayokaki mabe na motema na ngai.
+
+images:
+
+illustrations/pages/91400152.png
+illustrations/pages/91400151.png
+illustrations/pages/91400152.png
+illustrations/pages/91400153.png
+illustrations/pages/91400154.png
+illustrations/pages/91400155.png
+illustrations/pages/91400156.png
+
+translations:
+
+English (Original)	My lovely dogs	id=33740
+French (Translation)	Mes beaux chiens	id=33857
+Gikuyu (Translation)	Ngui ciakwa igĩrĩ nyendete	id=33861
+isiZulu (Translation)	Izinja zami ezinhle	id=33779
+Kiswahili (Translation)	Mbwa wangu wa kupdendeza	id=33841
+Sesotho (South Africa) (Translation)	Ntja tsa ka tse ratehang	id=33795

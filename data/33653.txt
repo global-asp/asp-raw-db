@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=33653&d=0&a=1
+id:	33653
+title:	Wampiti ni Wankembo
+author:	Moses Wambi
+artist:	Salim Kasamba
+lang:	Lusoga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33653.png
+desc:	Lwali lulala yaabaayo Wampiti ni Wankembo. Wampiti ni Wankembo baaba nokutakana. Baaja yomulamuzi okubalamula.
+
+page_text:
+
+P1	Lwali lulala yaabaayo Wampiti ni Wankembo. @@Wampiti ni Wankembo baaba n'okutakana. Baaja y'omulamuzi okubalamula.
+P2	Omulamuzi ng'amaze okubawuliriza, yaatya okusala omusango gwaibwe. @@Yeefumintiriza, "Bwenaasinza Wampiti omusango, aidha kulya ente dhange dhoonadhoona adhimalegho. Ate bwenasalira Wankembo omusango, aidha kulya duuma wange! Buti, nkole entya?"
+P3	Omulamuzi yaamala entangama ng'akaloghoozamuuku, male yaakoba, "Omusango guno muzibu inho nze tighanga kugulamula zenka, muteekwa kuja eri abataka ab'ekyalo."
+P4	Baakobera abataka endhawukana dhaibwe.@@Abataka nga bamaze okuwuliriza omusango gwaibwe, boona baatya okubalamula.
+P5	Nga bwebaghagira Wankembo, Wampiti ng'aghanga okulya ente dhaibwe. Bwebaghagira Wampiti, nga Wankembo aghanga okulya duuma waibwe. @@Abataka baakobera Wampiti ni Wankembo bati omusango gwaibwe gwali mukalangufu.
+P6	Mangu ago, abataka baidhukira omukazi omughafu mulala eyali aba mu tawuni ng'azira kyaghanga kufiirwa, waire nte naire duuma.@@"Aghanga okusala omusango ng'aziramu nakutya kwonakwona," abataka bekobagana beene na beene. Baakoba ensolo edho dhombi kuja okumunona.
+P7	Baatuuka ku ndhu y'omukazi omughafu, baamukoba okubalamula. Yaikiriza.@@Aye, yaabakoba, boogere naye mulala muala mu biseera eby'endhawulo.
+P8	Okusooka, omukazi omughafu yayeta Wampiti yaamukoba, "Iwe oli wakitiisa, ensolo embede era omuzira. Oghanga otya okusoola n'akasolo kano akatono era akanhoomwa, ka Wankembo?"
+P9	Omukazi omughafu yaakoba Wampiti, "Singa abantu baghulira kundhawukana dhaimwe dhino, baaghanga okukutyoboola iwe. Lekera kusoola ni Wankembo."@@"Wewaagho, oli mutuufu." Atyo Wampiti bweyakoba, "Ndha kuleka omusango. Nkomye okutakana."
+P10	Omukazi yaayeta Wankembo yaamukoba, "Oli muyondo inho era wamughendo. Ekisolo ekighunha obubi ekirya ebintu ebivundu? Abantu banaghulira batya era banaakulowoozaaku ki bwebaghulira endhawukana dhaimwe n'ekitonde ekigalangatanu kityo?"@@Olumaliira, Wankembo yaakoba, "Oli mutuufu, ndha kuleka omusango guno, ngughandukemu."
+P11	Olwamala ebyo, omukazi omughafu yaayeta bawansolo bombi, yaabakoba, "Mwenamwena mwaikiriiza okughanduka mu musango guno. Kale musonighagane."
+P12	Ensolo dhombi dhasabagana ekisonigho, era dhamalagho endhawukana dhaadho. @@Abantu ab'omukibuga bwebaghulira ku lufumo luno, beeghunhinkirira. Omukazi omughafu yalamula ensonga edhali dhiremye Omulamuzi n'abataka okugondhoola.
+
+images:
+
+illustrations/pages/18699.png
+illustrations/pages/18696.png
+illustrations/pages/18697.png
+illustrations/pages/18698.png
+illustrations/pages/18699.png
+illustrations/pages/18708.png
+illustrations/pages/18701.png
+illustrations/pages/18702.png
+illustrations/pages/18703.png
+illustrations/pages/18704.png
+illustrations/pages/18705.png
+illustrations/pages/18706.png
+illustrations/pages/18707.png
+
+translations:
+
+Afaan Oromo (Original)	Warabessaafi Qaamale	id=20154
+Afaan Oromo (Adaptation)	Waraabessaafi Qamale	id=21771
+English (Translation)	Hyena and Monkey	id=20155
+English (Adaptation)	(Colour-in) Hyena and Monkey	id=20157
+English (Adaptation)	Monkey and Hyena	id=21395
+French (Translation)	Hyène et Singe	id=33456
+Kanuri (Translation)	Bultu-a Dagǝl-a	id=32283
+Kiswahili (Translation)	Kima na Fisi	id=21841
+Kiswahili (Translation)	Mzozo wa Fisi na Kima	id=22061
+Kiswahili (Adaptation)	(Paka rangi) Mzozo wa Fisi na Kima	id=33353
+Lámnsoʼ (Translation)	Kán wùn Kuúrá	id=22414
+Luganda (Translation)	Wankima ne Wampisi	id=23422
+Luganda (Translation)	Wakibe ne Wankima	id=23510
+Lusoga (Translation)	(Colour-in) Wampiti ni Wankembo	id=24897
+Ng’aturkana (Translation)	Ebulong'or ka Ekadokot	id=33416
+Oluwanga (Translation)	Ishima nende Ifisi	id=22819
+Rufumbira (Translation)	Igisamagwe ni Inkende	id=23440
+Runyankore (Translation)	Empisi ne Ekyende	id=24280
+Tiv (Translation)	Dwem man Bagu	id=23878

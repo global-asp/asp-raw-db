@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=33739&d=0&a=1
+id:	33739
+title:	Josias goes shopping
+author:	Josias  M
+artist:	Josias  M
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33739.png
+desc:	The simple joy of drinking a cold
+
+page_text:
+
+P1	There is a small shop near my house.
+P2	The shop owner is a thin man with a little voice.
+P3	It is hot outside.@@I go to the fridge.@@I get a strawberry Kingsley.
+P4	I give the thin man my money.
+P5	Then, I open my strawberry Kingsley and drink.
+P6	That cold Kingsley tastes so sweet!
+
+images:
+
+illustrations/pages/91400148.png
+illustrations/pages/91400146.png
+illustrations/pages/91400147.png
+illustrations/pages/91400148.png
+illustrations/pages/91400149.png
+illustrations/pages/91400150.png
+
+translations:
+
+French (Translation)	Josias fait les courses	id=33856
+isiZulu (Translation)	UJosias uya esitolo	id=33778
+Kiswahili (Translation)	Josia ananunua kinywaji	id=33840
+Lingala (Translation)	Josias akei kosomba biloko	id=33809
+Sesotho (South Africa) (Translation)	Kopano o ya mabenkeleng	id=33794

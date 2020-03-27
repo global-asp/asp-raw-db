@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=33423&d=0&a=1
+id:	33423
+title:	Euji
+author:	Esther  Akuru
+artist:	Catherine Groenewald
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33423.png
+desc:	Emam itoo na ipoe apa euji loataparach. Emam itoo na ipoe apa euji loataparach.
+
+page_text:
+
+P1	Esubakina Zama alosere losukul.
+P2	Ipoe apakeng euji loataparach.
+P3	"Ipoene itoo euji loajokon!" elimunit Zama.
+P4	Einanakini euji Zama ng'ikiling'a lu esukul.
+P5	Akono euji.
+P6	Ebukokinit apakeng ng'akile a aminatoi.
+P7	"Apa, ebit ayong esaki euji lo esukari lokaalan," elimunit Zama.
+P8	"Iduang'it euji loa itoo lo ipoe apa," kitam Zama.
+P9	"Apa, kiyatakinai esukari echie?" king'it Zama.
+P10	Nak apakeng Zama esukari echie.
+P11	"Wu! Apa! Iwaak iyong amakat louji lokang!"
+P12	"Apa, ori eminio itoo nawi?" king'it Zama.
+
+images:
+
+illustrations/pages/13256.png
+illustrations/pages/7923.png
+illustrations/pages/7924.png
+illustrations/pages/7925.png
+illustrations/pages/13254.png
+illustrations/pages/13255.png
+illustrations/pages/13256.png
+illustrations/pages/13257.png
+illustrations/pages/13259.png
+illustrations/pages/13258.png
+illustrations/pages/13260.png
+illustrations/pages/13261.png
+illustrations/pages/13262.png
+
+translations:
+
+Afaan Oromo (Translation)	Marqaa	id=17447
+Afrikaans (Translation)	Pap	id=20093
+Amharic (Translation)	ገንፎ	id=16455
+ChiTonga (Translation)	Ceele	id=18634
+CiNyanja (Translation)	Pala	id=18587
+English (Translation)	Porridge	id=13263
+English (Adaptation)	Milk is Good	id=13471
+French (Translation)	Le Porridge	id=13771
+French (Translation)	Le Quaker	id=33385
+IciBemba (Translation)	Umusunga	id=18578
+isiNdebele (Translation)	Umdoko	id=21950
+isiXhosa (Translation)	Isidudu	id=14947
+isiZulu (Translation)	Iphalishi	id=14910
+isiZulu (Adaptation)	Umama upheka kamnandi	id=17305
+Kalenjin (Translation)	Musar	id=15395
+Kῖmῖῖrũ  (Translation)	Ũchũrũ	id=32851
+Kinyarwanda (Adaptation)	Igikoma	id=22133
+Kiswahili (Translation)	Uji	id=15614
+Lámnsoʼ (Translation)	Biʼ	id=22273
+Luganda (Translation)	Obuugi	id=22218
+Lunyole (Translation)	Obusera	id=13458
+Lusoga (Translation)	Buugi	id=21198
+Mampruli (Translation)	Koko	id=21224
+Oluwanga (Translation)	Obusera	id=19793
+Portuguese (Translation)	Papa	id=18854
+Sepedi (Translation)	Motepa	id=18028
+Sesotho (South Africa) (Translation)	Motoho	id=20044
+Setswana (Translation)	Motogo	id=15040
+SiLozi (Translation)	Palica	id=18560
+Siswati (Translation)	Lijingi	id=21745
+Tshivenḓa (Translation)	Mukapu	id=18321
+Tunisian (Translation)	Ġṡìde	id=15152
+Xitsonga (Translation)	Mukapu	id=18997
+Yoruba (Translation)	Porridge	id=21966

@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33725&d=0&a=1
+id:	33725
+title:	Wanyama tulioona
+author:	Brigid Simiyu
+artist:	Penuel  K
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33725.png
+desc:	Safari ya familia kwenda kuwaona wanyama. (Hadithi na picha zilitayarishwa katika warsha ya likizo ya Juni 2019
+
+page_text:
+
+P1	Hii ni familia yangu.@@Mjomba wangu, binamu yangu, mama yangu, dada zangu wawili (ambao huvaa sawa), kaka yangu, na mimi!
+P2	Hii ni familia yangu ikiwa katika basi kwenda kuowaona wanyama.@@Kulikuwa na shangazi yangu, mama yangu, kaka yangu, dada zangu wawili (ambao huvaa sawa), na mimi!
+P3	Tuliwaona wanyama kutoka kwenye basi.
+P4	Tulimwona twiga.
+P5	Tulimwona swala pala.
+P6	Tulimwona simba jike.
+P7	Tulimwona tembo.@@Tulimcheka tembo sana, kwa sababu…
+P8	... tembo huyo aliunyea mti!
+
+images:
+
+illustrations/pages/85940108.png
+illustrations/pages/85940106.png
+illustrations/pages/85940107.png
+illustrations/pages/85940108.png
+illustrations/pages/85940109.png
+illustrations/pages/85940110.png
+illustrations/pages/85940111.png
+illustrations/pages/85940112.png
+illustrations/pages/85940113.png
+
+translations:
+
+English (Original)	Animals we saw	id=33720
+French (Translation)	Des animaux que nous avons vus	id=33844
+isiZulu (Translation)	Izilwane esazibona	id=33772
+Lingala (Translation)	Ba niama oyo tomoni	id=33803
+Lulogoli  (Translation)	Zinyama zia kwarora	id=33728
+Sesotho (South Africa) (Translation)	Diphoofolo tseo re di boneng	id=33788

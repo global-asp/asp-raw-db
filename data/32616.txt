@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=32616&d=0&a=1
+id:	32616
+title:	Igitabo k'iteganyagihe
+author:	Patrick  Munyurangabo
+artist:	Sandra McDougall
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32616.png
+desc:	Izuba riracana. Hari inkuba. Hari ibicu.
+
+page_text:
+
+P1	Harumagaye.
+P2	Izuba riracana.
+P3	Hari umuyaga.
+P4	Hari ibicu.
+P5	Harakonje.
+P6	Imvura yaguye.
+P7	Hari inkuba.
+P8	Ndabona umukororombya.
+
+images:
+
+illustrations/pages/28720.png
+illustrations/pages/28721.png
+illustrations/pages/28722.png
+illustrations/pages/28723.png
+illustrations/pages/28724.png
+illustrations/pages/28725.png
+illustrations/pages/28726.png
+illustrations/pages/28727.png
+illustrations/pages/28728.png
+
+translations:
+
+English (Original)	Weather book	id=32614

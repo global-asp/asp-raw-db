@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33789&d=0&a=1
+id:	33789
+title:	Ntja ya Dennis
+author:	Maria Vaz
+artist:	Merdi  K
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33789.png
+desc:	Ntja ya Dennis e ntjha e rotela seeta sa motswalle wa hae! Dennis o na le ntja e ntjha
+
+page_text:
+
+P1	Dennis motswalle wa ka, eo ebileng e leng moahisane a mpitsa.@@"Tlo kwano o tlo bona ntja ya ka e ntjha," ho rialo Dennis.
+P2	Ntja ena e ne e ena le hlooho e kgolo le matheba a matsho.@@E ile ya ntshosa!@@Ke ne ke tshohile, ke nahana hore e tla ntoma.
+P3	Nna le Dennis re ile ra nka ntjha ra otlolla maoto le yona.
+P4	Ntja e ile ya tsoka mohatla.
+P5	Ya bohola!
+P6	Yaba e rotela seeta sa ka.@@Hodima seeta sa ka! @@Oho ka nnete!
+P7	Dennis a ntsha thishu a phumula moroto seeteng.
+P8	Ke ile ka bona  hore Dennis ke motswalle wa ka ya lokileng.
+
+images:
+
+illustrations/pages/85940115.png
+illustrations/pages/85940114.png
+illustrations/pages/85940115.png
+illustrations/pages/85940116.png
+illustrations/pages/85940117.png
+illustrations/pages/85940118.png
+illustrations/pages/85940119.png
+illustrations/pages/85940120.png
+illustrations/pages/85940121.png
+
+translations:
+
+English (Original)	Dennis's dog	id=33721
+French (Translation)	Le chien de Dennis	id=33727
+Gikuyu (Translation)	Ngui ya Dennis	id=33860
+isiZulu (Translation)	Inja kaDennis	id=33773
+Kiswahili (Translation)	Mbwa wa Dennis	id=33726
+Lingala (Translation)	Bwa ya Dennis	id=33804

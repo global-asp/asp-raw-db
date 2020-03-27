@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33721&d=0&a=1
+id:	33721
+title:	Dennis's dog
+author:	Merdi  K
+artist:	Merdi  K
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33721.png
+desc:	Denniss new dog is not well behaved! (Story and illustrations created at a June 2019 holiday workshop
+
+page_text:
+
+P1	My friend Dennis from next door called me. @@"Come and see my new dog," said Dennis.
+P2	The dog had black spots and a big head. @@It frightened me! @@I felt worried that it would bite me.
+P3	We took the new dog for a walk, Dennis and me.
+P4	The dog wagged its tail.
+P5	It barked!
+P6	Then it peed on me! @@On my boot! @@Yuuuk!
+P7	Dennis took a tissue and wiped off the pee.
+P8	I felt that Dennis was a good friend to me.
+
+images:
+
+illustrations/pages/85940115.png
+illustrations/pages/85940114.png
+illustrations/pages/85940115.png
+illustrations/pages/85940116.png
+illustrations/pages/85940117.png
+illustrations/pages/85940118.png
+illustrations/pages/85940119.png
+illustrations/pages/85940120.png
+illustrations/pages/85940121.png
+
+translations:
+
+French (Translation)	Le chien de Dennis	id=33727
+Gikuyu (Translation)	Ngui ya Dennis	id=33860
+isiZulu (Translation)	Inja kaDennis	id=33773
+Kiswahili (Translation)	Mbwa wa Dennis	id=33726
+Lingala (Translation)	Bwa ya Dennis	id=33804
+Sesotho (South Africa) (Translation)	Ntja ya Dennis	id=33789

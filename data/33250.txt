@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=33250&d=0&a=1
+id:	33250
+title:	Nguo zangu za shule
+author:	Ursula  Nafula
+artist:	Mlungisi Dlamini
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33250.png
+desc:	Katika hadithi hii
+
+page_text:
+
+P1	Nguo ya dada yangu ni kubwa sana kwangu!
+P2	Sweta ya kaka yangu pia ni kubwa sana kwangu.
+P3	Mkoba wangu ni mkubwa.@@Lakini, si mkubwa sana!
+P4	Mshipi huu ni mdogo mno kwangu.
+P5	Kofia hii ni ya mwanasesere wangu.
+P6	Soksi zangu zinanitosha vizuri.@@Lakini, ni rangi mbaya!
+P7	Hivi ni vyatu vyangu vipya.
+P8	Vinanitosha vizuri.
+
+images:
+
+illustrations/pages/27445.png
+illustrations/pages/27449.png
+illustrations/pages/27450.png
+illustrations/pages/27451.png
+illustrations/pages/27452.png
+illustrations/pages/27446.png
+illustrations/pages/27444.png
+illustrations/pages/27447.png
+illustrations/pages/27445.png
+
+translations:
+
+ChiNambya (Translation)	Zwimbalo zwangu zwechikolo	id=32628
+ChiShona (Translation)	Hembe dzangu dzechikoro	id=32171
+CiNyanja (Translation)	Zovala Zanga Zakusukulu	id=33167
+Ekegusii (Translation)	Chianga chiane chiesukuru	id=31837
+English (Original)	My school clothes	id=31708
+IciBemba (Translation)	Ifyakufwala Fyandi Ifyakusukulu	id=32874
+isiZulu (Translation)	Izingubo zami zesikole	id=31806
+Kῖmῖῖrũ  (Translation)	Nguo ciakwa cia cukuru	id=32843
+Kikamba (Translation)	Ngũa syakwa sya sukulu	id=32168
+Kinyarwanda (Translation)	Imyenda y'ishuri	id=32611
+Lingala (Translation)	Bilamba na ngai ya kelasi	id=31795
+Lubukusu (Translation)	Chiingubo chaange cheesisomelo	id=31746
+Oluwanga (Translation)	Etsingubo tsianje etsiamumasomero	id=31729
+Pokomo (Translation)	Mavwazi yangu ya sukuli	id=33503
+Sepedi (Translation)	Diaparo tša ka tša sekolo	id=32066
+Sesotho (South Africa) (Translation)	Diaparo tsa ka tsa sekolo	id=31820
+Setswana (Translation)	Diaparo tsa me tsa sekolo	id=31827
+Tshivenḓa (Translation)	Zwiambaro zwanga zwa tshikolo	id=32026

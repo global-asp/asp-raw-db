@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=33379&d=0&a=1
+id:	33379
+title:	Leeto la ka la go ya lešokeng la diphoofolo
+author:	Connie  Makgabo
+artist:	Rob Owen and Melany Pietersen
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33379.png
+desc:	Kanegelo ye e hlaloša ka moo letšatši la go ya lešokeng la diphoofolo le bilego ka gona.
+
+page_text:
+
+P1	Lehono ke be ke ile lešokeng la diphoofolo.
+P2	Ke bone diphoofolo tše dintši. Ke bone tau.
+P3	Ke bone tlou.
+P4	Ke bone kwena.
+P5	Ke bone dithutlwa.
+P6	Ke bone dipitsi tše dintši.
+P7	Gape ke bone le kgomo.
+P8	Go be go le bose kudu. Tate o ile a re iša gae ka sefatanaga.
+
+images:
+
+illustrations/pages/13745.png
+illustrations/pages/13749.png
+illustrations/pages/9628.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9647.png
+illustrations/pages/9650.png
+illustrations/pages/9630.png
+illustrations/pages/13751.png
+
+translations:
+
+English (Original)	My trip to the zoo	id=9968
+Lusoga (Translation)	Njaaku mu ikuumiro lya bisolo bya munsiko	id=24847

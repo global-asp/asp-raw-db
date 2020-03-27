@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33592&d=0&a=1
+id:	33592
+title:	A Terra Sem Pessoas Velhas
+author:	Little Zebra Books
+artist:	Laura Liberatore
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33592.png
+desc:	Este conto popular do povo Nyungwe de Moçambique nos lembra a importância de ter os mais velhos em nossas comunidades.
+
+page_text:
+
+P1	Uma vez numa cidade um bando de jovens decidiu matar todas as pessoas de idade para que eles parassem de fazer magia.
+P2	Mas um dos jovens fugiu com o seu pai e escondeu-o no deserto.
+P3	Depois de ter feito isso, o bando começou a matar as pessoas velhas.
+P4	Mas de seguida, veio uma cobra do deserto para a aldeia e entrou no estômago duma criança pequena. @@A cobra punha continuamente a sua cabeça para fora da boca da criança.
+P5	E o pai da criança e todas as outras pessoas tentaram de tudo para resolver este problema.
+P6	Mas viram que, se matassem a cobra também matariam a criança. Toda a gente continuou a tentar coisas diferentes.
+P7	Então o jovem que tinha escondido o seu pai foi ter com ele e disse-lhe tudo o que tinha acontecido. @@E o velho disse: "Essa é a coisa mais fácil do mundo de se fazer."
+P8	O velho disse: "Encontra um sapo e amarra-o perto da cobra. Verás que a cobra sairá do estômago da criança para apanhar o sapo."@@E o jovem fez exatamente o que o velho disse. E a cobra saiu e começou a perseguir o sapo.
+P9	E a criança foi salva da morte certa.
+
+images:
+
+illustrations/pages/85590239.png
+illustrations/pages/85590249.png
+illustrations/pages/85590239.png
+illustrations/pages/85590250.png
+illustrations/pages/85590241.png
+illustrations/pages/85590242.png
+illustrations/pages/85590243.png
+illustrations/pages/85590244.png
+illustrations/pages/85590246.png
+illustrations/pages/85590247.png
+illustrations/pages/85590248.png
+
+translations:
+
+Afrikaans (Translation)	Die land sonder ou mense	id=33633
+Cinyungwe (Translation)	Maswaka Yadapha Nkhalamba Zentsene	id=33607
+Echuwabo (Translation)	Elabo Yakoddile Okala Anddimuwa	id=33608
+English (Original)	The Land of No Old People	id=33145
+isiXhosa (Translation)	ILizwe elingenaMaxhego naMaxhegwazana	id=33634

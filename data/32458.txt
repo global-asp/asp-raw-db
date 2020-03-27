@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=32458&d=0&a=1
+id:	32458
+title:	Letšatši, Ngwedi, Pula le Moya
+author:	Dikeledi Queen Shai
+artist:	Children of Paleng
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32458.png
+desc:	Letšatši
+
+page_text:
+
+P1	Kgale, kgale, Letšatši, Ngwedi, Pula le Moya ba be ba elwa.
+P2	Bothata e be e le gore Letšatši le be le nyaka go hlaba mosegare ka moka. Ngwedi wona o be o nyaka go benyabenya letšatši le lengwe le le lengwe. Pula yona e be e nyaka go na letšatši le lengwe le le lengwe mola Moya wona o be o kganyoga go foka letšatši le lengwe le le lengwe. Ba be ba sa nyake go fana sebaka.
+P3	Ba ile ba tšea sephetho sa go re ba dule fase mmogo gomme ba rerišane ka bothata bjo. Letšatši le ile la botšiša Ngwedi la re, "Ke eng seo o se dirago seo se thušago lefase?" Ngwedi wa araba, "Ke bonegela diphoofolo bošego gore di kgone go tsoma."
+P4	Ngwedi wa botšiša Pula, "Ke eng seo o se dirago seo se thušago lefase?" Pula ya araba, "Ke thuša lefase ka go le fa meetse gore mehlare le dimela di gole gabotse. Ke fa diphoofolo meetse gore di nwe."
+P5	Pula ya botšiša Moya ya re, "Ke eng seo o se dirago seo se thušago lefase?" Moya wa araba ka go re, "Nna ke swiela lefase la šala le hlwekile. Ke phatlalatša pula le lefase le ka moka."
+P6	Moya wa botšiša Letšatši, "Ke eng seo o se dirago seo se thušago lefase?" Letšatši la araba la re, "Ke fa lefase seetša le borutho gore diphoofolo le dimela di kgone go phela."
+P7	Letšatši, Ngwedi, Pula le Moya ba ile ba theeletšana ka šedi.
+P8	Letšatši la re, "Ke nnete go re yo mongwe le yo mongwe wa rena o thuša lefase ka tsela ya gagwe ya go ikgetha." "Ee, Ngwedi wa realo, "Ga go na yoo a lego yo mokaone go phala ba bangwe." "Re ka šoma mmogo," gwa realo Pula. Moya wona wa re, "Bjale a re abelaneng matšatši." Ba ile ba dumelelana ka kgopolo yeo ka moka.
+P9	Ke ka lebaka leo o bonago ngwedi ka dinako tše dingwe ge letšatši le hlabile. Gape ka dinako tše dingwe o kwa go foka moya ge pula e ena. Letšatši, Ngwedi, Pula le Moya ba šoma gabotse mmogo. Ba a kwešišana.
+P10	Na o rata letšatši, ngwedi, pula le moya? Dira kgetho ya gago ka go thala seswantšho sa seo o se ratago magareng ga tšona.
+P11	Re hloka lefase gore re phele mo go lona. Lefase le re fa dijo, madulo, diphoofolo le dimela. Ka moka ga tšona di re thuša ka tsela ye e itšego. Le rena ka moka re ka dira se sengwe go thuša lefase la rena. Na o ka dira eng go thuša lefase? Ngwala seo o ka thušago lefase ka sona fase.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+CiNyanja (Translation)	Zuba, Mwezi, Mvula na Mpepo	id=32840
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sesotho (Lesotho) (Original)	Letsatsi, Khoeli, Pula le Moea	id=16109
+Sesotho (South Africa) (Translation)	Letsatsi, Kgwedi, Pula le Moya	id=32437
+Siswati (Translation)	Lilanga, Inyanga, Imvula neMoya	id=32444

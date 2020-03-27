@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33466&d=0&a=1
+id:	33466
+title:	Ombererero
+author:	Auhe  Tjaveondja
+artist:	Melany Pietersen
+lang:	Otjiherero
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33466.png
+desc:	Ombererero komuzandona ngarija ovihape ovingi
+
+page_text:
+
+P1	Ejuva rimue, mama uaranda ovihape pekeke.
+P2	"Maturi rune ovihape?" tuapura.@@"Maturi ngurova," ina atja.
+P3	Omutena uandje Rahim una omutima omunene.@@Eje aroro ovihape avihe. Nu ari ovingi noho.
+P4	"Tara Rahim tjatjiti!" okatene kandje ake hingire.@@Rahim una omutima omunene nu omuhahu," ami etje.
+P5	Mama uari uapindike kuna Rahim.
+P6	Ete tuari tuapindike kuna Rahim noho.@@Posija Rahim karaiza ondjoziro.
+P7	"Mojandja ombererero ku Rahim?" okatena kandja ake pura.
+P8	"Rahim ningira ondjoziro," ina atja.
+P9	Rahim ua uta okuvera.
+P10	"Pehuri randje mape ihamua," Rahim ahokora.
+P11	Ina atjiua kutja onguae tjavere.@@"Ovihape mavi jandje ombererero ku Rahim," eje eripura.
+P12	Kombunda, Rahim uaningira ondjoziro kuete. "Ami hina kurija no mutima omunene rukuao," uatupa embo reje.@@Tuna ongamburiro muje.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	(Paka rangi) Adhabu	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402

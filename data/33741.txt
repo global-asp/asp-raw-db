@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=33741&d=0&a=1
+id:	33741
+title:	My parents
+author:	Gloria  M
+artist:	Gloria  M 
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33741.png
+desc:	It can be very difficult when your parents are not together anymore. (Story and illustrations created at a June 2019 holiday workshop
+
+page_text:
+
+P1	Daddy lives in Yeoville.
+P2	I live in Bertrams, with my mummy and two sisters.
+P3	I see daddy when he comes to visit for my birthday.
+P4	I would like him to live with us.@@I don't know why we don't live together.
+
+images:
+
+illustrations/pages/91400160.png
+illustrations/pages/91400157.png
+illustrations/pages/91400158.png
+illustrations/pages/91400159.png
+illustrations/pages/91400160.png
+
+translations:
+
+French (Translation)	Mes parents	id=33858
+Gikuyu (Translation)	Aciari akwa	id=33862
+isiZulu (Translation)	Abazali bami	id=33780
+Kiswahili (Translation)	Wazazi wangu	id=33842
+Lingala (Translation)	Baboti na ngai	id=33811
+Sesotho (South Africa) (Translation)	Batswadi ba ka	id=33796

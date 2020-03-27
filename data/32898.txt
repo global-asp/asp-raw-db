@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=32898&d=0&a=1
+id:	32898
+title:	Tungowe twa Selemeng
+author:	Doreen  Matengu and Virginia  Gwaba
+artist:	Marleen Visser and Wiehan de Jager
+lang:	ChiNambya
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32898.png
+desc:	Selemeng unatungowe tunji. Tungana tungowe twa Selemeng?
+
+page_text:
+
+P1	Unotushantila kasa Selemeng tungowe. Mungumba iye tunji kasa.
+P2	Selemeng unaka ngowe katema. @@Yaka kangowe kanolya inyama inji.
+P3	Pakati potungowe kamwe kalokola, kelya zose.
+P4	Kangowe kechitatu, kanolabukila munti. @@Kova kekonwa kubheluka.
+P5	Selemeng unotanha bo eda kubhuluja kangowe kechitatu, naye akava abhatwa munti. @@Amayi ba Selemeng bakabhancha kubadeluja munti.
+P6	Selemeng unatungowe tubili tusinotubula kuta chinu, tunowha tulilele muzhuba izhuba lose.
+P7	Selemeng unatungowe tutatu tulochenjela. @@Tunobhancha kubhata mabeba busiku.
+P8	Selemeng una nembwa imwempela. @@Inowhi Lirafi, ayina bakwayina, ilonyema.
+P9	Tungowe twa Selemeng atuto shantila Lirafi. @@Tuno tatamila Lirafi mumba etiko tizha.
+P10	Selemeng unokwenda epyanga Lirafi etukombuza kusha. @@Tungowe tusiko nyema. Atudi kubona Lirafi kabili.
+P11	Tungana tungowe twa Selemeng? @@Una tungowe tushanu tuna tutatu.
+P12	Ingana imbwa ja Selemeng? @@Una nembwa imwempela. Ukokupi Lirafi feno?
+P13	Tungana tungowe twawuna nato kusha kwenu? @@Ingana imbwa jawuna najo kusha kwenu?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+ChiTonga (Translation)	Bakaaze ba Selemengi	id=33107
+CiNyanja (Translation)	Ma cona a Selemeng	id=33170
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+IciBemba (Translation)	Baapuushi bakwa Selemeng	id=33292
+isiZulu (Translation)	Amakati kaZamo	id=31799
+KiGiryama (Translation)	P'aka a Charo	id=33479
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Translation)	Injangwe za Sano	id=22138
+Kiswahili (Translation)	Paka wa Selemeng	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chiipuusi cha Selemeng	id=31747
+Lusoga (Translation)	Puusi dha Kelementi	id=27609
+Ng’aturkana (Translation)	Ng'ipakae Selina	id=33432
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Pokomo (Translation)	Mpaka jwa Subo	id=33504
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

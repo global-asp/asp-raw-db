@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33378&d=0&a=1
+id:	33378
+title:	La maison de Luwo
+author:	Zanne Viljoen
+artist:	Jacob  Matthess
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33378.png
+desc:	Luwo sort en cachette de léglise pour rentrer chez lui
+
+page_text:
+
+P1	Luwo est allé à l'église avec sa mère.@@Sur le chemin elle lui tenait la main.
+P2	À l'intérieur de l'église il y avait beaucoup de gens rassemblés.@@Ils chantaient.
+P3	Luwo a quitté l'église.@@Sa mère ne l'a pas vu.
+P4	Luwo se trouvait sur le chemin.@@Il a regardé le long du chemin et s'est dit : "Où est ma maison ?"
+P5	Alors, il a suivi le chemin. Il a vu une grande maison.@@"Non, ce n'est pas notre maison. Notre maison est petite."
+P6	Luwo continuait à marcher un peu plus. Il a vu une maison sur pilotis.@@"Non, ce n'est pas notre maison. Notre maison n'est pas sur pilotis."
+P7	Il continuait à marcher. Il a vu une petite maison de paille.@@"Non, ce n'est pas notre maison. Notre maison a des murs de boue."
+P8	Luwo est allé plus loin. Il a vu une petite maison avec un arbre dehors.@@"Non, ce n'est pas notre maison. Notre maison a deux arbres dehors."
+P9	Luwo a enfin vu sa mère venir vers lui. Luwo a couru vers elle.@@Sa mère a dit : "Rentrons à la maison !"
+P10	Quelle est la maison de Luwo ?
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Nyumba ya Luwo	id=33827
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+English (Original)	Luwo's House	id=32346
+Portuguese (Translation)	A Casa de Luwo	id=32379

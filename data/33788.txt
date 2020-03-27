@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33788&d=0&a=1
+id:	33788
+title:	Diphoofolo tseo re di boneng
+author:	Maria Vaz
+artist:	Penuel  K
+lang:	Sesotho (South Africa)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33788.png
+desc:	Balelapa ba nka leeto la ho ya serapeng sa diphoofolo. (Pale le ditshwantsho di qapuwe ke mokgatlo wa Sophiatown Community Psychological Services
+
+page_text:
+
+P1	Lena ke lelapa leso.@@Malome, motswala, mme, dikgaitsedi tsa ka tse pedi tse ratang ho apara ka ho  tshwana, moenaka le nna!
+P2	Ke lelapa leso lena ka beseng re leetong ho ya serapeng sa diphoofolo.@@Ho ne ho ena le mmangwane, mme, moenaka le dikgaitsedi tsa ka tse pedi tse ratang ho apara ka ho tshwana, le nna!
+P3	Re bone diphoofolo re ntse re le ka beseng.
+P4	Ra bone thutlo.
+P5	Ra bone tshepe.
+P6	Re bone  tau e tshehadi.
+P7	Ra bone tlou.@@Re ile ra tsheha tlou haholo  hobane…
+P8	...e ile ya ithusetsa sefateng!
+
+images:
+
+illustrations/pages/85940108.png
+illustrations/pages/85940106.png
+illustrations/pages/85940107.png
+illustrations/pages/85940108.png
+illustrations/pages/85940109.png
+illustrations/pages/85940110.png
+illustrations/pages/85940111.png
+illustrations/pages/85940112.png
+illustrations/pages/85940113.png
+
+translations:
+
+English (Original)	Animals we saw	id=33720
+French (Translation)	Des animaux que nous avons vus	id=33844
+isiZulu (Translation)	Izilwane esazibona	id=33772
+Kiswahili (Translation)	Wanyama tulioona	id=33725
+Lingala (Translation)	Ba niama oyo tomoni	id=33803
+Lulogoli  (Translation)	Zinyama zia kwarora	id=33728

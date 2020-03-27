@@ -1,0 +1,94 @@
+url:	https://africanstorybook.org/reader.php?id=33480&d=0&a=1
+id:	33480
+title:	Kundhariza basi
+author:	Titus  Kazungu
+artist:	Mango Tree
+lang:	KiGiryama
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33480.png
+desc:	Kwa inoni mabasi kagathuwa wakathiwe? Hasa kala ni wakathi wa kwenda tauni.
+
+page_text:
+
+P1	Sami a thayari kwenda tauni madzach'a ga rero.@@Mameye anatseka, "Ro basi rindafika saa tahu kamili za madzach'a."@@Sami adzarauka zhomu, adzafika masaa mairi mapema!
+P2	Sami na mameye mafika kituo cha basi saa mbiri na dakika mirongo mine na ts'ano za madzach'a.
+P3	At'u angine nao makudza ho kituo cha basi kabila ya saa t'ahu za madzach'a.@@Baada ya nusu saa mere machere manandhariza.
+P4	Sami were ana wasiwasi. Wakala anaaza kukala hangine ro basi ridzanongeka.@@"Hangine k'afundakwenda ko tauni vivi rero.  Hangine sindapata nguo mbisha za sikuli."
+P5	Irihofika saa t'ahu na dakika mirongo mine za madzach'a, at'u angine makikata thamaa. Makikwacha kuuya midzini kwao.@@Sami waandza kurira. Mameye akimwamba, "Richa fundharize vichache."
+P6	Vichache, zhenye makisikira mururumo.@@Basi rikudzani!
+P7	Basi rafika saa ne kamili za madzach'a.
+P8	"Ngirani! Ngirani!" Dhereva anaiha. "Fudzachelewa zhomu rero!"
+P9	At'u machangira kwenye basi na kukelesi vihini.@@Basi rinauka kituoni were ni saa ne na dakika kumi za madzach'a.
+P10	Mameye Sami wauza, "Rino basi ra mutsana rinambola saa nyingahi?" @@Ye dhereva akimudzigidzya akiamba, "Ro basi ra rangi ya buluu rinambola tauni saa nane na nusu za mutsana."
+P11	Sami anaaza, "Fundafika tauni saa ts'ano kamili za madzach'a." @@Vidhe fundakala na mudha wani ko tauni kabila ya ro basi kuuya?" Sami anangalala.
+P12	Maswali zaidhi:@1. Yuno Sami wakala thayari wakathi wani kuuka @    ho madzach'a?@2. Yuno Sami na mameye mandhariza basi kwa @     mwidha wani?@3. Ro basi rachelewa kwa dakika nyingahi?@4. Ro basi rahala dakika nyingahi kufika ko tauni?@5. Sami na mameye mandafika mudzini saa @      nyingahi kala ro basi ra buluu rindambola kwa @      wakathiwe?
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot blou bus	id=20051
+Afrikaans (Translation)	Toe die groot, blou bus laat was	id=31531
+Anii (Adaptation)	Bɔɔsʊ buruu abʊmbɔnɔ	id=24786
+ChiShona (Translation)	Bhazi Hombe reBhuruu	id=23148
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+CiNyanja (Translation)	Kuyembekeza basi	id=33168
+English (Original)	Big blue bus	id=12083
+English (Adaptation)	When the big blue bus was late	id=20309
+English (Adaptation)	Waiting for the bus	id=32482
+French (Translation)	Le Grand Bus Bleu	id=13271
+Fulfulde Mbororoore (Translation)	Moota Njahoowa Luumo	id=32057
+Hausa (Nigeria) (Translation)	Babbar shuɗiyar mota	id=22053
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+IciBemba (Translation)	Ukuloleela Saca	id=33210
+Igbo (Translation)	Ugbọala bọsụ ojii ukwu	id=22156
+isiNdebele (Translation)	Mhlana ibhesi ifika ngemva kwesikhathi	id=20828
+isiNdebele (Translation)	Ibhesi ekulu ehlaza sasibhakabhaka	id=21919
+isiXhosa (Translation)	Ibhasi enkulu emzuba	id=16549
+isiXhosa (Translation)	Ibhasi enkulu ezuba	id=17502
+isiXhosa (Translation)	Mhla ubhazabhaza webhasi ebhulowu akafika	id=31416
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwe Sibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi elikhulu eliluhlaza	id=17335
+isiZulu (Translation)	Mzukwana ibhasi lifika emva kwesikhathi	id=20688
+Kinyarwanda (Translation)	Bisi nini y'ubururu	id=17456
+Kiswahili (Translation)	Basi kubwa la bluu	id=12428
+Kiswahili (Translation)	Wakati basi kubwa la bluu lilipochelewa	id=22637
+Kiswahili (Translation)	Kulisubiri basi	id=33230
+Lámnsoʼ (Translation)	Mótù wo faŋèn wo wù kiʼ blùu	id=22272
+Luganda (Translation)	Baasi ennene eya bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbululu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Lusoga (Translation)	Bbaasi ya bbululu embbede	id=25573
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Pokomo (Translation)	Kuiinda hi basi	id=33505
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Rukwangali (Translation)	Apa Besa zonene zosineguru zahulilire	id=33333
+Sepedi (Translation)	Pese ye kgolo ye talalerata	id=17993
+Sepedi (Translation)	Pese ye kgolo e šaletše	id=31537
+Sesotho (South Africa) (Translation)	Bese ya mmala wa botala ba lehodimo	id=20023
+Sesotho (South Africa) (Translation)	Ha bese e kgolo e bolou e siilwe ke nako	id=20835
+Setswana (Translation)	Bese e Kgolo ya Mmala wa Botala jwa Legodimo	id=17644
+Setswana (Translation)	Fa bese e kgolo e e talaloapi e le thari	id=31412
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Siswati (Translation)	Ibhasi lenkhulu leluhlata kwesibhakabhaka	id=20782
+Siswati (Translation)	Ibhasi lenkhulu leluhlata sasibhakabhaka	id=21512
+Tshivenḓa (Translation)	Bisi khulwane dala	id=18286
+Tshivenḓa (Translation)	Musi we bisi khulukhulu ya lutombo ya lenga	id=31541
+Xitsonga (Translation)	Bazi lerikulu ra muhlovo wa wasi	id=18988
+Xitsonga (Translation)	Ku hlwela ka bazi lerikulu ra wasi	id=31449

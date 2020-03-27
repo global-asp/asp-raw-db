@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=33348&d=0&a=1
+id:	33348
+title:	Gobaneng Ajao a sa bolokwa
+author:	Connie  Makgabo
+artist:	Jesse Breytenbach
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33348.png
+desc:	Na Ajao wa mankgagane ke nonyana goba le legotlo?
+
+page_text:
+
+P1	Ajao, wa mankgagane o robetše ka ntlong o lwala kudu. Go be go se na yo a mo hlokomelago.
+P2	Bjale, Ajao a hlokofala.
+P3	Baagišane ba gagwe ba re, "Ajao o hwile. Re swanetše go bitša meloko ya gabo ba tlo mmoloka."
+P4	Baagišane ba yo bitša dinonyana ba re, "Yo mongwe wa meloko yeno o hwile."
+P5	Dinonyana tša tla tša humana gore ke Ajao. Tša re, "Nonyana ye ga se ya leloko la gaborena."
+P6	"Ka moka ba leloko la rena ba na le mafofa fela Ajao ga a na ona. Ka gona ga se yo mongwe wa rena." Dinonyana tša tloga.
+P7	Baagišane ba neelana mabaka. Ba kwana, "Dinonyana di nepile. Ajao ga a na mafofa. Ka go realo, ga se wa leloko la tšona."
+P8	Yo mongwe wa bona a re: "O swanetše go ba wa leloko la magotlo. O lebega bjalo ka ona."
+P9	Baagišane ba bitša magotlo ba re, "Yo mongwe wa leloko la gabo lena o hwile."
+P10	Magotlo a fihlile gomme a hwetša gore ke Ajao. A re, "Phoofolo ye ga se ya leloko la rena."
+P11	"Yo mongwe le yo mongwe lelokong la rena o na le mosela." Magotlo a boela morago.
+P12	Ga se gwa hwetšwa leloko la Ajao gomme a dula a sa bolokwa.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+ChiShona (Translation)	Sei Ajao asina kuvigwa	id=22214
+English (Translation)	Why Ajao was not buried	id=16988
+Ga (Translation)	Nɔ Hewɔ ni Anaaa Afũ Ajao	id=25743
+Kiswahili (Translation)	Kwa nini Ajao hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Tiv (Translation)	Inima Saa Sha Tar: I ii Un Ga	id=23858
+Urhobo (Translation)	O Bọ Isorọ Ewo Je Ajao Esho	id=22514
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=33410&d=0&a=1
+id:	33410
+title:	Anansi et la sagesse
+author:	Zanne Viljoen
+artist:	Wiehan de Jager
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33410.png
+desc:	Le dieu du ciel décide de donner à Anansi laraignée un pot de sagesse. Il est tellement content par tout ce quil apprend en y regardant quil veut cacher le pot dans un arbre pour pouvoir le garder pour lui tout seul. Malheureusement pour lui (mais heureusement pour les gens du monde)
+
+page_text:
+
+P1	Il y a longtemps, les gens ne savaient rien. Ils ne savaient pas comment cultiver, ni comment tisser, ni comment fabriquer des outils en fer.@@Le dieu Nyame dans le ciel avait toute la sagesse du monde. Il la gardait en sécurité dans un pot d'argile.
+P2	Un jour, Nyame décida qu'il donnerait le pot de sagesse à Anansi.@@Chaque fois qu'Anansi regardait dans le pot d'argile, il apprenait quelque chose de nouveau. C'était tellement captivant !
+P3	Anansi le gourmand pensa : " Je garderai le pot en sécurité au sommet d'un grand arbre. Alors je peux l'avoir pour moi tout seul !" Il a filé un long fil, l'a enroulé autour du pot d'argile et l'a attaché à son ventre.@@Il a commencé à grimper à l'arbre. Mais c'était dur de grimper à l'arbre avec le pot qui le frappait aux genoux tout le temps.
+P4	Pendant tout ce temps, le jeune fils d'Anansi se tenait debout au pied de l'arbre en train de regarder. Il a dit : "Ne serait-il pas plus facile de grimper si tu attachais le pot à ton dos ?"@@Anansi a essayé d'attacher le pot d'argile plein de sagesse à son dos, et c'était vraiment beaucoup plus facile.
+P5	En un rien de temps, il atteignit le sommet de l'arbre. Mais il s'est arrêté et s'est dit : "Je suis censé être celui qui a toute la sagesse, et ici mon fils était plus intelligent que moi !"@@Anansi était tellement en colère à ce sujet qu'il a jeté le pot d'argile hors de l'arbre.
+P6	Il s'est brisé en morceaux sur le sol. La sagesse était libre pour tout le monde de la partager.@@Et c'est ainsi que les gens ont appris à cultiver, à tisser, à fabriquer des outils en fer, et toutes les autres choses que les gens savent faire.
+
+images:
+
+illustrations/pages/1273.png
+illustrations/pages/1274.png
+illustrations/pages/1275.png
+illustrations/pages/1276.png
+illustrations/pages/1277.png
+illustrations/pages/1278.png
+illustrations/pages/1279.png
+
+translations:
+
+Amharic (Translation)	አናንሲና ጥበብ	id=22388
+Arabic (Translation)	أنانسي و الحكمة	id=21824
+Ateso (Translation)	Anansi Keda Acoa	id=20963
+Ateso (Translation)	Anansi Keda Acoa	id=21589
+Ekegusii (Translation)	Anansi N'obong'aini	id=2232
+English (Original)	Anansi and wisdom	id=1938
+English (Adaptation)	(Colour-in) Anansi and wisdom	id=32524
+Kikamba (Translation)	Ananzi Na Ũĩ	id=2233
+Kinyarwanda (Translation)	Semuntu n'akabindi kuzuye Ubwenge	id=32560
+Kiswahili (Translation)	Anansi awapa watu hekima	id=2234
+Lugbarati (Translation)	Ibio Pi Ondoa Be	id=2230
+Lugbarati (Official) (Translation)	Èbìó Pɨ Òndʉ̀á Be	id=8775
+Lumasaaba (Translation)	Manaasi Ni Kamakhula	id=3006
+Lusoga (Translation)	Nambumbi kalimagezi	id=24920
+Maa (Translation)	Anansi Ó Eng'énó	id=2732
+Ng’aturkana (Translation)	Anansi Ka Aosou	id=2235
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=2256
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=8677
+Spanish (Translation)	Anansi Y La Sabiduría	id=14407

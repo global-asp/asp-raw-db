@@ -1,0 +1,65 @@
+url:	https://africanstorybook.org/reader.php?id=32503&d=0&a=1
+id:	32503
+title:	(Colour-in) Children of wax
+author:	Ingrid Schechter
+artist:	Wiehan de Jager
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32503.png
+desc:	Once there was a family with three very obedient children. The problem was that they were made of wax.
+
+page_text:
+
+P1	Once upon a time, there lived a happy family.
+P2	The children never fought with each other. They helped their parents at home and in the fields.
+P3	But they were not allowed to go near a fire.
+P4	They had to do all their work during the night. @Because they were made of wax!
+P5	But one of the boys longed to go out in the sunlight.
+P6	One day the longing was too strong. His brother and sister warned him.
+P7	But it was too late! He melted in the hot sun.
+P8	The wax children cried to see their brother melting away.
+P9	But they made a plan. They shaped the lump of melted wax into a bird.
+P10	They took their bird brother up to a high mountain.
+P11	And as the sun rose, he flew away, singing in the morning light.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/28399.png
+illustrations/pages/28400.png
+illustrations/pages/28401.png
+illustrations/pages/28402.png
+illustrations/pages/28403.png
+illustrations/pages/28404.png
+illustrations/pages/28405.png
+illustrations/pages/28406.png
+illustrations/pages/28407.png
+illustrations/pages/28408.png
+illustrations/pages/28398.png
+
+translations:
+
+Afrikaans (Translation)	Die kerswaskinders	id=11550
+Arabic (Translation)	أطفال الشمع	id=21881
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of wax	id=2181
+isiXhosa (Translation)	Abantwana bekhandlela	id=2500
+isiZulu (Translation)	Abantwana abenziwe ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kinyarwanda (Translation)	Abana b'ibishashara	id=32630
+Kiswahili (Translation)	Watoto walioumbwa kwa nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Luganda (Translation)	Abaana b'ebisasalala	id=22947
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Lusoga (Translation)	Abaana abaatondebwa munvumbo	id=26692
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana be iula	id=2516
+Sesotho (Lesotho) (Translation)	Bana ba entsoeng ka kerese	id=10366
+Sesotho (South Africa) (Translation)	Bana ba kerese	id=33508
+Setswana (Translation)	Bana ba kerese	id=2519

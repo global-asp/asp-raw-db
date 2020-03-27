@@ -1,0 +1,85 @@
+url:	https://africanstorybook.org/reader.php?id=33430&d=0&a=1
+id:	33430
+title:	Maguru donne des pattes
+author:	Zanne Viljoen
+artist:	Wiehan de Jager
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33430.png
+desc:	Maguru décide de donner des pattes à tous les animaux pour quils puissent se promener comme les gens.
+
+page_text:
+
+P1	Il y a longtemps, les animaux n'avaient pas de pattes.  Ils ont tous traîné par terre.
+P2	Seuls les gens avaient des jambes, parce que Maguru donnait des jambes aux gens.
+P3	Un jour, Maguru  a décidé de donner des pattes à tous les animaux.@Il s'est promené dans le village et l'a annoncé sur un haut-parleur.@Il voulait que tous les animaux marchent comme les gens.
+P4	Les animaux étaient très heureux quand ils ont appris qu'on allait leur donner des pattes.@Tous les animaux voulaient des pattes pour pouvoir marcher et courir.@Ils chantaient, agitaient les queues et battaient des ailes.
+P5	Les animaux se sont rassemblés et ont parlé de la difficulté qu'il y avait toujours à se déplacer. @Le sol leur griffait l'estomac.  Les pattes les aidaient à se tenir droit et à voir loin, comme les gens.
+P6	Quand le jour est arrivé, beaucoup d'animaux ont rampé jusqu'à la maison de Maguru pour récupérer leurs pattes.@Girafes, lions, éléphants, lapins, crocodiles et oiseaux faisaient la queue en attendant d'avoir leurs pattes.
+P7	Chaque animal a reçu quatre pattes.@@Les oiseaux ont reçu deux pattes chacun.
+P8	Les animaux étaient différents avec leurs pattes.@Certains ont dansé de joie.@Pour d'autres, il était difficile au début de marcher.  Ils se sont tombés.
+P9	Les animaux se promenaient dans le village et se vantaient de leurs jambes.@@Ils ont dit : "Nous ne ramperons plus jamais."
+P10	Le dernier animal dans la file d'attente était Mille-pattes.  @@Maguru lui a demandé : "Y a-t-il quelqu'un derrière toi ?"@@"Non, je suis le dernier," a répondu Mille-pattes.
+P11	Maguru se dit alors : "Que vais-je faire du reste des pattes s'il n'y a personne d'autre dans la queue ?"@@Alors, Maguru a donné toutes les pattes restantes à Mille-pattes.
+P12	Mille-pattes est parti, très content, parce qu'il avait maintenant beaucoup de pattes.@@"Je serai capable d'aller plus vite que n'importe qui d'autre," pensait-il.
+P13	Juste au moment où Mille-pattes était parti, Serpent est arrivé chez Maguru.@@"Maguru, s'il te plaît, donne-moi des pattes," il a supplié.
+P14	"J'ai déjà distribué toutes les jambes.  Où étais-tu ?" a demandé Maguru.@@"J'ai trop dormi," répondit Serpent.
+P15	Maguru a cherché d'autres jambes dans sa maison, mais il n'en a pas trouvé.
+P16	Maguru est sorti et a dit, "Désolé, Serpent, il n'y a plus de jambes."@@Serpent a dû rentrer à la maison sans pattes.@@À partir de ce jour, Serpent dort très peu.  Il attend toujours la prochaine occasion d'avoir des pattes.
+
+images:
+
+illustrations/pages/13910.png
+illustrations/pages/13904.png
+illustrations/pages/13905.png
+illustrations/pages/13906.png
+illustrations/pages/13907.png
+illustrations/pages/13908.png
+illustrations/pages/13909.png
+illustrations/pages/13910.png
+illustrations/pages/13911.png
+illustrations/pages/13912.png
+illustrations/pages/13913.png
+illustrations/pages/13914.png
+illustrations/pages/13915.png
+illustrations/pages/13916.png
+illustrations/pages/13917.png
+illustrations/pages/13918.png
+illustrations/pages/13919.png
+
+translations:
+
+Afaan Oromo (Translation)	Luka Bineensootaa	id=21699
+Afrikaans (Translation)	Maguru deel bene uit	id=20083
+Amharic (Translation)	እንስሳቱ እግር ተሰጣቸው	id=21164
+ChiTonga (Translation)	Maguru Upa Maulu	id=18649
+CiNyanja (Translation)	Maguru Apasa Mendo	id=18668
+Dhopadhola (Translation)	Ogwange Jo Nwaŋo Tyendi Gin	id=21239
+English (Original)	Maguru gives legs	id=14415
+Fulfulde Mbororoore (Translation)	Taalol: Maaguru Hokkii Koyɗe	id=32056
+Hausa (Nigeria) (Translation)	Madugu ya raba ƙafafu	id=21315
+IciBemba (Translation)	Maguru Apeela Amoolu	id=18691
+Igbo (Translation)	Chiokike na-enye ụkwụ!	id=22122
+isiNdebele (Translation)	UMaguru unikela imilenze	id=21940
+isiXhosa (Translation)	UMaguru uphisa ngemilenze	id=17576
+isiZulu (Adaptation)	UMveli unikela ngemilenze	id=17461
+Khoekhoegowab (Translation)	Magurub ge ǀnūga ra mā	id=31765
+Kinyarwanda (Translation)	Maguru atanga amaguru	id=17467
+Kiswahili (Translation)	Maguru apatiana miguu	id=14412
+Kiswahili (Translation)	Wanyama wapata miguu	id=21130
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21035
+Lunyole (Translation)	Esolo Jifuna Amagulu	id=21098
+Lusoga (Translation)	Wamagulu agaba amagulu	id=26554
+Oshikwanyama (Translation)	Shimbilinga ta havaleke omaulu	id=31570
+Oshindonga (Translation)	Maguru ta gandja omagulu	id=31506
+Otjiherero (Translation)	Maguru ujandja omarama	id=31515
+Rukwangali (Translation)	Maguru ana gava maguru	id=31493
+Sepedi (Translation)	Maguru o abela diphoofolo maoto	id=19043
+Sesotho (South Africa) (Translation)	Maguru o fana ka maoto	id=20037
+Setswana (Translation)	Montshiwa O Abelana Ka Maoto	id=14929
+SiLozi (Translation)	Maguru Ufa Mautu Ahae	id=18735
+Siswati (Translation)	Mveli unikela ngemilente	id=21735
+Tigrigna (Translation)	ንእንሳት እግሪ ተዋሃቦም	id=21104
+Tshivenḓa (Translation)	Maguru u ṋekedza milenzhe	id=18285
+Xitsonga (Translation)	Maguru a phakela milenge	id=18870

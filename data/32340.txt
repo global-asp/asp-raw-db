@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=32340&d=0&a=1
+id:	32340
+title:	My cat is hiding
+author:	Ingrid Schechter
+artist:	Bronwen Heath and Ingrid Schechter
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32340.png
+desc:	A full-colour Level 2 version of the storybook 
+
+page_text:
+
+P1	Where is my cat?@@I can't find my cat.@@I can't find my cat anywhere.
+P2	Where is my cat?@@Is he under the bed?@@No, he's running out the room.
+P3	Where is my cat?@@Is he on top of the cupboard?@@No, he's on the bottom shelf.
+P4	Where is my cat?@@Is he behind the couch?@@No, he's outside in the yard.
+P5	Where is my cat?@@Is he next to the bin?@@No, he's jumping out the window.
+P6	Where is my cat?@@Is he in the basket?@@No, he's in the box.
+P7	Where is my cat?@@Is he outside in the yard?@@No, he's behind the curtain.
+P8	Where is my cat?@@Here he is!@@He is hiding in this cupboard!
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+KiGiryama (Translation)	P'aka wangu anadzifitsa	id=33478
+Ng’aturkana (Translation)	Edukit ipaka kang	id=33420

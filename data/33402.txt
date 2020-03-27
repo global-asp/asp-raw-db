@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33402&d=0&a=1
+id:	33402
+title:	Sijeziso
+author:	Mduduzi Benjie Shongwe
+artist:	Melany Pietersen
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33402.png
+desc:	Siyini sijeziso lesatfolwa ngumfana losimiti lowadla kakhulu titselo?
+
+page_text:
+
+P1	Ngalelinye lilanga, make watsenga titselo letehlukehlukene.
+P2	"Sitotidla nini titselo?" sabuta.@@Make watsi, "Sitotidla namuhla ebusuku."
+P3	Umnaketfu Rahim usimiti.@@Wanambitsa tonkhe titselo. Watidla kakhulu.
+P4	"Buka kutsi Rahim wenteni!" kumemeta umnaketfu lomncane.@@"Rahim akeva futsi uligovu," kusho mine.
+P5	Make wamtfukutselela kakhulu Rahim.
+P6	Natsi futsi samtfukutselela Rahim.@@Kodwa Rahim akazange atisole.
+P7	"Utomjezisa yini Rahim?" kubuta umnaketfu lomncane.
+P8	"Rahim, utawutisola masinyane," kucwayisa make.
+P9	Rahim wacala kungativa kahle.
+P10	"Sisu sami sibuhlungu," kuhleba Rahim.
+P11	Make bekati kutsi yini lena leyenta Rahim agule.@@"Letitselo tiyamjezisa Rahim," wacabanga.
+P12	Ngekuhamba kwesikhatsi, Rahim wacolisa kitsi. Wetsembisa watsi, "Ngeke ngiphindze ngibe simiti."@@Samkholwa.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	(Paka rangi) Adhabu	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (South Africa) (Translation)	Kotlo	id=33374

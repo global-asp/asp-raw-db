@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=32720&d=0&a=1
+id:	32720
+title:	Diphoofolo, diphoofolo
+author:	Hellen Mapetla
+artist:	Rob Owen, Sandy Campbell and Wiehan de Jager
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32720.png
+desc:	Ha re shebisane tshebediso ya diphoofolo.
+
+page_text:
+
+P1	Bona Diphoofolo tseo renang letsona motseng.
+P2	Re hama kgomo hore re fumane lebese.
+P3	bo mutlanyana le dikatse di utlwana lebatho
+P4	Pere e etsa modumo," neeeei ".
+P5	Ho sebediswa dikgomo ledipudi ho nyala Mosadi lefatsheng la Uganda.
+P6	Kgoho e yetsa modumo," ko ko ko".
+P7	Ntja e sebediswa ho hlokomela malapa
+P8	Rapolasi o hlokomela diphoofolo kaofela.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+English (Adaptation)	Look at Our Animals	id=10258
+English (Adaptation)	Animals, Animals	id=10260
+French (Translation)	Les animaux, Les animaux	id=33449
+Fulfulde Mbororoore (Translation)	Dabbaaji Wuro	id=32014
+Hausa (Nigeria) (Translation)	Dabbobi - Dabbobi	id=20866
+Lulamoogi (Translation)	Ebisolo,Ebisolo	id=25249
+Lusoga (Translation)	Bona ensolo dhaife	id=28408

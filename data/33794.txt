@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=33794&d=0&a=1
+id:	33794
+title:	Kopano o ya mabenkeleng
+author:	Maria Vaz
+artist:	Josias  M
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33794.png
+desc:	Pale ena e ka ha thabo ya ho nwa senwamaphodi se batang
+
+page_text:
+
+P1	Haufi le heso ho na le lebenkele le lenyenyane.
+P2	Monga lebenkele ke monna ya mosesanyane ya lentswe le phefa.
+P3	Ha ke fihla lebenkeleng la hae, ke ya sehatsetsing.@ @Ka ntsha senwamaphodi se entsweng ka morurubele.
+P4	Ka patala monna ya mosesanyane tjhelete ya senwamaphodi.
+P5	Ebe ke a bula senwamaphodi sa ka sa morurubele, ebe ke a nwa.
+P6	Senwamaphodi sena sa morurubele  se latsweha ha monate ha kakang!
+
+images:
+
+illustrations/pages/91400148.png
+illustrations/pages/91400146.png
+illustrations/pages/91400147.png
+illustrations/pages/91400148.png
+illustrations/pages/91400149.png
+illustrations/pages/91400150.png
+
+translations:
+
+English (Original)	Josias goes shopping	id=33739
+French (Translation)	Josias fait les courses	id=33856
+isiZulu (Translation)	UJosias uya esitolo	id=33778
+Kiswahili (Translation)	Josia ananunua kinywaji	id=33840
+Lingala (Translation)	Josias akei kosomba biloko	id=33809

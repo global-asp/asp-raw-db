@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33814&d=0&a=1
+id:	33814
+title:	Bato ya kobombama
+author:	Theresa  Nyemba
+artist:	Sbusiso  Boikanyo and Linda  Liphondo
+lang:	Lingala
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33814.png
+desc:	Tango Monganga Devious ayibaki baboti ya Kay
+
+page_text:
+
+P1	Ezalaki mokolo moko elenge mwasi na kombo ya Kay.@@Baboti ya Kay bazalaki kongenge lokola banganga mayele. Bazalaki losala mosala na likolo ya kobombama na laboratware.
+P2	Banganga mayele bandoki babengaki monganga Devious po balingaki koyeba mosala ya kobombama.@@Mokolo moko na molili na butu, monganga Devious atindi bato basanganaka na mabe Dan ndoki po ayiba baboti ya Kay.
+P3	Dan azwaki baboti, mbala inso ye azuaki Kay. Kasi ye azalaki moke pe bangu. Ye amekaki kobima na kati ya misapi naye.@@Kay akimi lokola kake.
+P4	Tango ye atikaki kokima, Kay akomi na kati ya zamba. Ba nzete ezalaki molayi atikali komona bango te.@@Ye atomboli miso likolo pona amona songe ya nzete pe akweyi.
+P5	Kay akweyi na kati ya nzete pe abambami na moto. Sima ye abaluki, abaluki, pe abaluki.@@Tango alamuki, ye azalaki na kati ya lobulu na televizio ya monene.
+P6	"Mbote Kay," mobali alobi na televizio. "Nazali moto ya kobombama pona malamu ya mokili!@@Na maloba wana, Kay akolaki lokola bwa ya zamba.
+P7	Kay alongwe na nzete pe akiti na etape.@@Ye akimi epai ya monganga Devious avandaka pe komeka ye bitmba.@@Babundi bitumba mikolo mibale, pe Kay alongi!
+P8	Na sima baboti naye basanganaki na ndako, Kay akeyi na nzete po na koluka moto ya televizio.@@Ye amoni nzete, kasi ezalaki na ezibeli te.@@Kay avandi na nse pe atallaki likolo ya nzete.
+
+images:
+
+illustrations/pages/85940140.png
+illustrations/pages/85940136.png
+illustrations/pages/85940137.png
+illustrations/pages/85940138.png
+illustrations/pages/85940139.png
+illustrations/pages/85940140.png
+illustrations/pages/85940141.png
+illustrations/pages/85940142.png
+
+translations:
+
+English (Original)	Secret agent	id=33732
+French (Translation)	Agent secret	id=33848
+isiZulu (Translation)	Usozimfihlo	id=33783
+Kiswahili (Translation)	Ajenti wa Siri	id=33835
+Sesotho (South Africa) (Translation)	Sehlwela	id=33801

@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=32374&d=0&a=1
+id:	32374
+title:	Kanyi-a Kǝri-a Fe-a
+author:	Mohammed Alhaji Modu
+artist:	Marleen Visser
+lang:	Kanuri
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32374.png
+desc:	Three friends go on a journey in a taxi. When it comes time to pay
+
+page_text:
+
+P1	Kanyi-a Kǝri-a Fe-a sandi zauro sawa linta. @@Yin laa takshin bǝlaroro caluwo.
+P2	Datǝram bǝlaronzabero najaanya. @@Matomaye sandiro kungu matobe kuduwuro ciworo. @@Fe kunguna matobe alujiwo.
+P3	Kǝri sutkowu kaino, sawawun nanzǝn adudu kalkaldǝ babero.
+P4	Matomaye kǝriro badalnzǝ cinlan. @@Sadǝn, kanyiye kunguna aduzǝnyiro kaso gowo.
+P5	Matoma zauro gǝrawono karǝgǝnzǝ kuttua.@@Matonzǝ gǝrzǝ lewono, badal kǝribe cinyiro.
+P6	Adǝro, kǝri suro matobe lottǝyinnaro kadujindǝ ku yayero. @@Matoma kungunaro zǝgaidǝga mataro.
+P7	Kanyiye kowo matobero sǝgashin. @@Ritǝ wande shiga kungunadǝ alutǝgǝro satanyiro.
+P8	Fe matowason lambinzǝ bawo. @@Fe hangalnzǝn sǝretsǝ lai / kalo farjin. @@Kungunanzǝ kamilro aluzǝnaro nozǝna.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+CiNyanja (Translation)	Mbuzi, Galu na Ngombe	id=31549
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Imeetto (Translation)	Ipuri, Mwalapwa, ni Imope	id=33187
+Kinyarwanda (Translation)	Ihene, Imbwa, n'Inka	id=32575
+Kiswahili (Translation)	Mbuzi, Mbwa na Ng'ombe	id=33533
+Luganda (Translation)	Wambuzi, Wambwa ne Wante	id=33531
+Lumasaaba (Translation)	Imbusi, Imbwa ni Ingaafu	id=33464
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532

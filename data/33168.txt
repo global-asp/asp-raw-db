@@ -1,0 +1,94 @@
+url:	https://africanstorybook.org/reader.php?id=33168&d=0&a=1
+id:	33168
+title:	Kuyembekeza basi
+author:	Bether Mwale-Moyo and Moffat Moyo
+artist:	Mango Tree
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33168.png
+desc:	Kodi cifukwa ninji mabasi siyasatira ntawi. Ici cimacitika kwambili ngati nintawi yopita kumuzinda.
+
+page_text:
+
+P1	Sam akonzeka kupita kumuzinda m'mawa muno.@@"Basi izafika na 9 koloko," amai ake anena ali kumwemweta.@@Kukali ma ola awili kuti 9 koloko ikwane.
+P2	Sam na amai ake afika ku citeshi na 8:45 koloko.
+P3	Antu ena ambili anabwela kuciteshi ntawi pafupifupi na 9 koloko.@@Papita mpindi makumi atatu, antu akali kuyembekeza.
+P4	Sam wada nkawa. "Kapena basi yaonongeka," aganiza.@@"Mwina sitizakwanisa kupita kumuzinda lelo. Mwina sinizagula unifomu yanga yasopano."
+P5	Pomwe ntawi itakawanira 9.45 koloko, antu ena anabwelela kumanyumba kwao.@@Sam anayamba kulila. "Tizapitilizako kuyembekeza," amai ake anati.
+P6	Mwazizizi, anamva congo.@@Basi ili kuza!
+P7	Basi yafika pa citeshi na 10 koloko.
+P8	"Lowani! Lowani!" anena oyendesa basi. "Tacedwa kwambili, lelo."
+P9	Antu alowa mubasi nankala pamipando.@@Basi yayambapo pa ntawi ya 10.10 koloko.
+P10	"Izayambapo ntawi bwanji basi yobwelela mumazulo muno?" amai ake Sam afunsa.@@"Basi yobiliwira izayambapo kucoka kumuzinda ndi nthawi ya 2.30 koloko," ayanka oyendesa basi.
+P11	Sam aganiza, "Tizafika kumuzinda na 11 koloko."@@"Tizakala Ntawi yaitali bwanji tikalibe kubwelela na basi?" waganizira Sam.
+P12	Mafunso pa nthano iyi:@@1.	Kodi Sam anakonzeka ntawi bwanji m'mawa?@2.	Kodi Sam ndi amai ake anayembekeza ntawi yitali bwanji kuti basi ifike?@3.	Kodi basi inacedwa na mpindi zingati?@4.	Kodi basi itenga mpindi zingati kufika kumuzinda?@5.	Kodi ngati basi yacoka kumuzinda pantawi yake, Sam na amai ake azafika ntawi bwanji kumunzi?
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot blou bus	id=20051
+Afrikaans (Translation)	Toe die groot, blou bus laat was	id=31531
+Anii (Adaptation)	Bɔɔsʊ buruu abʊmbɔnɔ	id=24786
+ChiShona (Translation)	Bhazi Hombe reBhuruu	id=23148
+ChiTonga (Translation)	Ibbasi Lyangu Lipati Lya Bbulu	id=18635
+CiNyanja (Translation)	Basi Ikulu Yobilibila	id=18614
+English (Original)	Big blue bus	id=12083
+English (Adaptation)	When the big blue bus was late	id=20309
+English (Adaptation)	Waiting for the bus	id=32482
+French (Translation)	Le Grand Bus Bleu	id=13271
+Fulfulde Mbororoore (Translation)	Moota Njahoowa Luumo	id=32057
+Hausa (Nigeria) (Translation)	Babbar shuɗiyar mota	id=22053
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+IciBemba (Translation)	Ukuloleela Saca	id=33210
+Igbo (Translation)	Ugbọala bọsụ ojii ukwu	id=22156
+isiNdebele (Translation)	Mhlana ibhesi ifika ngemva kwesikhathi	id=20828
+isiNdebele (Translation)	Ibhesi ekulu ehlaza sasibhakabhaka	id=21919
+isiXhosa (Translation)	Ibhasi enkulu emzuba	id=16549
+isiXhosa (Translation)	Ibhasi enkulu ezuba	id=17502
+isiXhosa (Translation)	Mhla ubhazabhaza webhasi ebhulowu akafika	id=31416
+isiZulu (Translation)	Ibhasi Enkulu Eluhlaza Okwe Sibhakabhaka	id=16207
+isiZulu (Adaptation)	Ibhasi elikhulu eliluhlaza	id=17335
+isiZulu (Translation)	Mzukwana ibhasi lifika emva kwesikhathi	id=20688
+KiGiryama (Translation)	Kundhariza basi	id=33480
+Kinyarwanda (Translation)	Bisi nini y'ubururu	id=17456
+Kiswahili (Translation)	Basi kubwa la bluu	id=12428
+Kiswahili (Translation)	Wakati basi kubwa la bluu lilipochelewa	id=22637
+Kiswahili (Translation)	Kulisubiri basi	id=33230
+Lámnsoʼ (Translation)	Mótù wo faŋèn wo wù kiʼ blùu	id=22272
+Luganda (Translation)	Baasi ennene eya bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbululu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Lusoga (Translation)	Bbaasi ya bbululu embbede	id=25573
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Pokomo (Translation)	Kuiinda hi basi	id=33505
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Rukwangali (Translation)	Apa Besa zonene zosineguru zahulilire	id=33333
+Sepedi (Translation)	Pese ye kgolo ye talalerata	id=17993
+Sepedi (Translation)	Pese ye kgolo e šaletše	id=31537
+Sesotho (South Africa) (Translation)	Bese ya mmala wa botala ba lehodimo	id=20023
+Sesotho (South Africa) (Translation)	Ha bese e kgolo e bolou e siilwe ke nako	id=20835
+Setswana (Translation)	Bese e Kgolo ya Mmala wa Botala jwa Legodimo	id=17644
+Setswana (Translation)	Fa bese e kgolo e e talaloapi e le thari	id=31412
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Siswati (Translation)	Ibhasi lenkhulu leluhlata kwesibhakabhaka	id=20782
+Siswati (Translation)	Ibhasi lenkhulu leluhlata sasibhakabhaka	id=21512
+Tshivenḓa (Translation)	Bisi khulwane dala	id=18286
+Tshivenḓa (Translation)	Musi we bisi khulukhulu ya lutombo ya lenga	id=31541
+Xitsonga (Translation)	Bazi lerikulu ra muhlovo wa wasi	id=18988
+Xitsonga (Translation)	Ku hlwela ka bazi lerikulu ra wasi	id=31449

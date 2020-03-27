@@ -1,24 +1,24 @@
-url:	https://africanstorybook.org/reader.php?id=32249&d=0&a=1
-id:	32249
-title:	Dia Rerṯo Đǝl nenda Đonto
-author:	Apalo  Mana
+url:	https://africanstorybook.org/reader.php?id=32857&d=0&a=1
+id:	32857
+title:	Ng'ombe ya Nsengo Imozi
+author:	Bether Mwale-Moyo and Moffat Moyo
 artist:	Marion Drew
-lang:	Moro
+lang:	CiNyanja
 level:	First words
 lic:	Creative Commons: Attribution 4.0
-thumb:	http://africanstorybook.org/illustrations/covers/32249.png
-desc:	Have you ever seen a cow with only one horn and no tail?
+thumb:	http://africanstorybook.org/illustrations/covers/32857.png
+desc:	Ntano ya Ngombe ya Nsengo Imozi Ndiponso Ilibe Mucila.
 
 page_text:
 
-P1	Wëi! @@Sëcu dia rëni egeɽa rǝŋǝra.
-P2	Dia rerṯo đǝl nenda đonto, na rero lǝper.
-P3	Dia rađǝwo, na rama ara.
-P4	Dia ronḏǝṯo kañ.
-P5	Ummia igi gǝsia gëbwa diara kañ.
-P6	Nda iria yesa ŋaña, dia irri ṯarǝso ronto.
-P7	Dia rađowa lorba. @@Iria isi yiṯënu yaɽaŋa alǝsen ǝrtođ.
-P8	Agiđi ndǝ agǝfiđu rarno irri, agiđi ŋiđiṯau?
+P1	Eh eh eh kuli ng'ombe yabwino kunyumba.
+P2	Ng'ombe iyi ili na nsengo imozi cabe, ndiponso ilibe mucila.
+P3	Iyi ng'ombe niyonenepa ndipo ili namimba ikulu.
+P4	Ng'ombe iyi niyamphamvu kwambili.
+P5	Mbusa akondesesa ng'ombe iyi.
+P6	Ngati ng'ombe zina zikudya, ng'ombe iyi ikudya payeka.
+P7	Ng'ombe iyi imamenya zinzake. Zonse zinzake ziisiya yeka.
+P8	Kuti ukumane na ng'ombe yotele, ungacite cani?
 
 images:
 
@@ -36,7 +36,6 @@ translations:
 
 Afaan Oromo (Translation)	Sa'a Gaafa Tokko Qabdu	id=12959
 ChiTonga (Translation)	Ng'ombe ila lwija lomwe	id=32862
-CiNyanja (Translation)	Ng'ombe ya Nsengo Imozi	id=32857
 Dhopadhola (Translation)	Dhyaŋ Ma Ja Tunge Acel	id=19478
 Dinka (Translation)	Wɛŋ kek tuŋ tok	id=32281
 English (Translation)	Cow with one horn	id=9622
@@ -52,6 +51,7 @@ Luganda (Translation)	Ente eyina ejjembe elimu	id=23312
 Lunyole (Translation)	Eŋombe Ey'olwiga Lulala	id=11906
 Lusoga (Translation)	Ente  eyeiyiga  eirala	id=30564
 Moro (Translation)	Dia rerto đel đonto	id=32106
+Moro (Translation)	Dia Rerṯo Đǝl nenda Đonto	id=32249
 Ng’aturkana (Translation)	Aite Na Ayakar Amwara Apei	id=12950
 Oshikwanyama (Translation)	Ongobe yoluvinga limwe	id=31569
 Oshindonga (Translation)	Ongombe yolwinga lumwe	id=31505

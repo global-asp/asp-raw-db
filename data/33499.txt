@@ -1,0 +1,61 @@
+url:	https://africanstorybook.org/reader.php?id=33499&d=0&a=1
+id:	33499
+title:	Mpaka na Chughe na kipfepfeyo
+author:	Granton  Idyema
+artist:	Elke and René Leisink
+lang:	Pokomo
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33499.png
+desc:	Mpaka na Chughe wayowa nzee yeḍi dyarisha. Wayowa nzee yeḍi dyarisha
+
+page_text:
+
+P1	Huyu ni Mpaka. @@Huyu ni Chughe.
+P2	Mpaka na Chughe wayowa nzee yeḍi dyarisha.@ @Wayowa nzee yeḍi dyarisha.
+P3	Huyu Mpaka na Chughe waona kipfepfeyo!@ @Hikipfepfeyo cha ranji ya kitweo.
+P4	Mpaka na Chughe wanatsaka kukigija hikipfepfeyo.@@Mpaka na Chughe wakiuḅa hikipfepfeyo.@@Wakiuḅa hikipfepfeyo.
+P5	Mpaka na Chughe wakiuḅa hikipfepfeyo na maguu. Wakiuḅa hikipfepfeyo. @@Ela hikipfepfeyo kikichiya mbio. Hikipfepfeyo kinambio muno hali Mpaka na Chughe niwampowempowe. Niwampowempowe muno.
+P6	Mpaka na Chughe wakiuḅa hikipfeopfeyo na basikili. Wapfiika kukiuḅa hikipfepfeyo. @@Ela hikipfepfeyo kiwa na mbio. Hikipfepfeyo kiwa na mbio muno, hali  Mpaka na Chughe niwampowempowe. Niwampowempowe muno.
+P7	Mpaka na Chughe wakiuḅa hikpfepfeyo na gari. Wavuruma kukiuḅa hikipfepfeyo. @@Ela hikifepfeyo kiwa na mbio. Hikipfepfeyo baḍo kinambio muno, huyu Mpaka na Chughe niwampowempowe. Amale niwampowempowe muno.
+P8	Mpaka na Chughe wakiuḅa hikipfepfeyo na ḅoti. Watsuunya kukiuḅa hikipfepfeyo. @@Ela hikipfeopfeyo kiwa na mbio muno. Hikiipfepfeyo kiwa na mbio za adyaḅu, huyu Mpaka na Chughe wampowempowe. Ḅaḍo wewa mpowempowe adyaḅu.
+P9	Mpaka na Chughe wakiuḅa hikipfepfeyo na baluna. Waguuka kukiuḅa hikipfepfeyo. @@Ela kipfepfeyo kiwa na mbio. Hikipfepfeyo ḅaḍo kina mbio nyinji muno za maadyaḅuni, hali Mpaka na Chughe wewa mpowempowe. Wewa mpowempowe viwi muno.
+P10	Mpaka na Chughe wasumama. Wasumama na wakaa chihako. Wakaa nsii ya muhi.@@Wakaa chihako nsii ya muhi mkuu.@@Lakini baaḍaye…
+P11	Waona kipfepfeyo kimodza muhini.@@Waona vipfepfeyo viwii muhini.@@Waona vipfepfeyo vihahu muhini.
+P12	Waona vipfepfeyo gana!
+P13	Kaa naghea Mpaka.@@Kaa naghea Chughe.@@Kaa naghea vipfepfeyo.
+
+images:
+
+illustrations/pages/25582.png
+illustrations/pages/25584.png
+illustrations/pages/25585.png
+illustrations/pages/25586.png
+illustrations/pages/25587.png
+illustrations/pages/25588.png
+illustrations/pages/25589.png
+illustrations/pages/25590.png
+illustrations/pages/25591.png
+illustrations/pages/25592.png
+illustrations/pages/25593.png
+illustrations/pages/25594.png
+illustrations/pages/25595.png
+illustrations/pages/25596.png
+illustrations/pages/18782.png
+
+translations:
+
+ChiShona (Translation)	Kiti na Imbwa neShavishavi	id=31762
+Ekegusii (Translation)	Ekebusi, Esese amo ne'ekegwankwa	id=31838
+English (Original)	Cat and Dog and the butterfly	id=21980
+isiZulu (Translation)	Ikati, inja novemvane	id=31811
+Kikamba (Translation)	Mbaka na Ngitĩ na kĩmbalutya	id=32167
+Lingala (Translation)	Niawu na mbwua na kipekapeka	id=31815
+Lubukusu (Translation)	Eepuusi nende Eembwa nende siipuruupuru	id=31748
+Oluwanga (Translation)	Ipusi nende Imbwa nende imburukuru	id=31758
+Oluwanga (Translation)	Ipusi nende Imbwa nende Imburukuru	id=31796
+Persian (Afghanistan) (Translation)	سگ و گربه و پروانه	id=33602
+Sepedi (Translation)	Katse le Mpša ka morago ga Serurubele	id=32063
+Sesotho (South Africa) (Translation)	Katse le Ntja le serurubele	id=31797
+Setswana (Translation)	Katse le Ntšwa le serurubele	id=31773
+Tshivenḓa (Translation)	Tshimange na Mmbwa na tshisusu	id=31841

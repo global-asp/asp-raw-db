@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=33239&d=0&a=1
+id:	33239
+title:	Mwandzangu Mbani?
+author:	Little Zebra Books
+artist:	Tamsin  Hinrichsen
+lang:	Cinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33239.png
+desc:	A parábola do bom samaritano
+
+page_text:
+
+P1	Luka 10:25-37@@Ndipo ntsiku ibodzi, munthu winango omwe akhali mpfundzisi wa Mtemo adamuka kuti ayezere Jezu, ndipo adam'bvundza kuti: "Misiri! Kodi ningacite tani kuti ndidzakhale na moyo?"@@Pamwepo, Jezu adamutawira aciti: "Kodi muMtemo mudanembedwa ciyani? Umbaubva tani?"
+P2	Ndipo iye adatawira aciti: "Funa Mbuya Mulungu wako na m'tima wako wentse, moyo wako wentse, mphambvu zako zentse, na ndzeru zako zentse. Ndipo funambo mwandzako ninga momwe umbabzifunira iwe wekha."
+P3	Pamwepo, Jezu adamuuza kuti: "Mwatawira bwino. Cita bzimwebzo, ndipo mun'dzakhala na moyo."@@Tsono na kufuna kuwonesa ninga wakulungama, iye adabvundza Jezu kuti: "Kodi mwanzanguyo mbani?"@@Ndipo Jezu adamutawira kuti:
+P4	Pakhana munthu m'bodzi omwe akhabuluka kucokera kuJerusalema acimbayenda kuJeriko. Ndipo iye adaphatidwa na akambowa. Iwo adam'khundula bzakubvala acim'menya, ndipo adacoka acimusiya atafumphira.
+P5	Tsono nyantsembe winango akhandobzipitirambo na njira, pomwe adamuwona, iye adamutsembera.
+P6	Tenepoyombo, muLevi m'bodzi adapitambo na pamwepa acimuwona, ndipo adamutsemberambo.
+P7	Tsono m'Samaliya m'bodzi, omwe akhali paulendo, pomwe adafika pakhana iyepo acimuwona, adamubvera ntsisi.
+P8	Ndipo adafendera kuna iye, acimutsuka bzironda na mafuta na vinyu acimanga bzirondabzo. Pomwe adamala, adam'pakiza pabulu. Ndipo adayenda naye kunyumba ya alendo acikamukhongobza bwino.
+P9	Mangwana yandzace, adacosa kobiri ziwiri za ndzayaya acipasa yakutambira alendo, acimuuza kuti: "Ndikhongobzerembo munthuyu. Ndipo bzentse bzomwe imwe mun'dzonga, nin'dzakulipirani pakubwerera."
+P10	Jezu adabvundza: "Kodi pa atatuwa, mun'kumbuka kuti mwandzace wa ule omwe adaphatidwa na akambowa nguponi?"@@Ndipo mpfundzisi ule wa Mtemo adatawira aciti: "Mwandzace ngule omwe adamubvera ntsisi."@@Ndipo Jezu adamuuza kuti: "Ndokoni mukacitembo bzibodzi-bodzi."
+
+images:
+
+illustrations/pages/27518.png
+illustrations/pages/27459.png
+illustrations/pages/27458.png
+illustrations/pages/27518.png
+illustrations/pages/27462.png
+illustrations/pages/27463.png
+illustrations/pages/27464.png
+illustrations/pages/27465.png
+illustrations/pages/27466.png
+illustrations/pages/27467.png
+illustrations/pages/27468.png
+
+translations:
+
+Elomwe (Translation)	Musamariya a Ikharari	id=33240
+Emakhuwa (Translation)	Musamariya Ooreera Murima	id=33241
+English (Original)	Who Is My Neighbour?	id=16284
+Imeetto (Translation)	Nkhunanaka Tipani?	id=33242
+Lulamoogi (Translation)	Omulirwana ghange niiye ani?	id=31933
+Olunyaneka (Translation)	Ou Twelikalela Nae Popepi Olye?	id=31870
+Portuguese (Translation)	Quem É o Meu Próximo?	id=33238

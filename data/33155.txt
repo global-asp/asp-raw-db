@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=33155&d=0&a=1
+id:	33155
+title:	La leçon d'un père
+author:	Zanne Viljoen
+artist:	Adonay  Gebru
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33155.png
+desc:	Que penses-tu du conseil du père dAbula ? (Cette histoire a été créée lors dun atelier de développement à la bibliothèque Ras Abebe à Debre Birhan en mai 2018).
+
+page_text:
+
+P1	Dans un village, il y avait un jeune garçon qui s'appelait Abula. @@Il n'aimait pas lire ni même ouvrir un livre. Il était un élève paresseux. Il s'est mal comporté.
+P2	Abula a volé l'argent de sa mère pour acheter des bonbons. Même quand elle a caché son argent, il l'a trouvé et l'a empoché.@@Après avoir mangé tous ses bonbons, Abula jouait avec ses amis.
+P3	Au bout d'un moment, Abula a cessé d'aller à l'école. Il est resté dehors à jouer toute la journée, ne rentrant à la maison que le soir. @@La mère d'Abula s'en est rendue compte et s'est inquiétée.
+P4	"Notre fils ne se comporte pas bien. Il ne va pas plus à l'école, je crois. Il me vole aussi de l'argent ", dit la mère d'Abula.@@Son père a réfléchi à la meilleure façon de changer le comportement d'Abula.
+P5	Il a dit à sa femme : "La prochaine fois, cache l'argent dans les pages d'un livre. Il n'ouvre jamais un livre, donc l'argent sera en toute sécurité."
+P6	Le lendemain, Abula a cherché l'argent de sa mère. Il a fouillé partout mais il n'a rien trouvé. @@Il a décidé d'aller au marché le plus proche pour trouver de l'argent.
+P7	Son père a vu où Abula allait. @@"Mon fils, je sais pourquoi tu vas au marché. Maintenant, retourne à l'intérieur et regarde dans les livres pour trouver de l'argent".
+P8	Abula était intrigué, mais il est allé chercher dans les livres. @@Il a trouvé l'argent que sa mère avait caché.
+P9	Le lendemain, il a regardé de nouveau dans les livres. Mais il n'y avait rien de caché. @@Il est allé voir son père pour lui demander pourquoi il n'y avait pas d'argent dans les livres.
+P10	Son père a souri et a répondu : "Mon fils, veux-tu avoir assez d'argent pour acheter des bonbons ?" @@Abula a répondu : "Bien sûr, mon père."
+P11	Son père lui a dit : "Écoute-moi bien. Lis tes livres et assiste à tes cours. Tu trouveras des récompenses dans les livres. N'abandonne pas." @@"Mais papa, la lecture est une activité difficile. Les livres sont ennuyeux !" a répondu Abula.
+P12	Pendant un moment, le père d'Abula est resté silencieux. Il a réfléchi à la meilleure façon d'encourager son fils. @@Alors il a dit à Abula : "Lisons ensemble. Je t'aiderai à trouver la richesse dans les livres."
+
+images:
+
+illustrations/pages/27719.png
+illustrations/pages/27708.png
+illustrations/pages/27709.png
+illustrations/pages/27710.png
+illustrations/pages/27711.png
+illustrations/pages/27712.png
+illustrations/pages/27713.png
+illustrations/pages/27714.png
+illustrations/pages/27715.png
+illustrations/pages/27716.png
+illustrations/pages/27717.png
+illustrations/pages/27718.png
+illustrations/pages/27719.png
+
+translations:
+
+English (Original)	A father's lesson	id=31944
+Kinyarwanda (Translation)	Inama z' umubyeyi	id=32137
+Kiswahili (Translation)	Mvumilivu hula mbivu	id=32070
+Ng’aturkana (Translation)	Ng'akitatamet ka'Apa	id=33390
+Wolaita (Translation)	Awa Timirtiya	id=32315

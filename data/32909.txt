@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=32909&d=0&a=1
+id:	32909
+title:	Intuthwane enekhanda elikhulu nejuba
+author:	Lizzy  Mathonsi
+artist:	Joe  Werna
+lang:	isiZulu
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32909.png
+desc:	Indaba ekhuluma ngezilwane ezimbili
+
+page_text:
+
+P1	Intuthwane enekhanda elikhulu yayingumlimi omuhle.@@Yayihlala emhlabathini nomdeni wayo.
+P2	Babesebenza kanzima kakhulu epulazini labo.@@Umndeni wenthuthwane wawuhleli kahle.
+P3	Ijuba laliwumakhelwane wentuthwane. @@Ijuba lalihlala esihlahleni nomndeni walo.
+P4	Ijuba nomndeni walo babengalimi.@@Babephumula usuku lonke.
+P5	Ijuba nomndeni walo babengabaculi abahle kakhulu.
+P6	"Sihlephulele ukudla kwakho," ijuba licela intuthwane.@@"Cha! Hamba uyolima!" kuphendula intuthwane.
+P7	Ijuba landizela phansi laqala ukucula, "Intuthwane yinkosi!"
+P8	"Intuthwane yinkosi! Intuthwane yinkosi!"@@Intuthwane yalithanda leliculo.
+P9	Emuva kokudla, ijuba kanye nomndeni walo bandizela phezu kwesihlahla sabo.
+P10	Ngosuku olulandelayo, ijuba lagcona intuthwane.@@"Ingabe amakhosi anamakhanda amakhulu?" ehleka.
+P11	"Awubongi futhi uyivila!" kukhononda intuthwane.
+P12	"Ngiyaxolisa," kusho ijuba, futhi laqala ukucula. "Inthuthwane iyinkosi!"
+
+images:
+
+illustrations/pages/28294.png
+illustrations/pages/28296.png
+illustrations/pages/28297.png
+illustrations/pages/28298.png
+illustrations/pages/28301.png
+illustrations/pages/28302.png
+illustrations/pages/28303.png
+illustrations/pages/28304.png
+illustrations/pages/28309.png
+illustrations/pages/28305.png
+illustrations/pages/28307.png
+illustrations/pages/28308.png
+illustrations/pages/28306.png
+
+translations:
+
+English (Adaptation)	Big-head Ant and lazy Pigeon	id=32520
+French (Translation)	Fourmi Grosse-tête et Pigeon Paresseux	id=33334
+Kiswahili (Translation)	Siafu na Njiwa mvivu	id=33291
+Tiv (Translation)	Kon-Iyôn man Atii	id=32498

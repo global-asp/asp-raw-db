@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33192&d=0&a=1
+id:	33192
+title:	Mpwana Owuukhumelela Pufya
+author:	Little Zebra Books
+artist:	Magriet Brink and Leo Daly
+lang:	Imeetto
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33192.png
+desc:	A parable of Jesus
+
+page_text:
+
+P1	Luka 11:1-10@@Nihuku nimoca Yesu ahorwa nipuro uvekela; namalihileene, mwiitthuci mmoca ahomwiirela: Pwiya, uniitthucihe mananna oovekela, toko Yohani weetthucihilyawe eetthuci awe.@@Ule aheerelaca:
+P2	Woovekela vaa, mwiireke:@@Paapa, ncina ninyu nittakattifihiye; umwene enyu uwe. Nnivahe ilelo yolya ehu yo khula nihuku. Nnilevelele coottheka cihu, toko cinaalevelelehu annitthekela; ni nhinihiye nittehiyaka.
+P3	Yesu aheerela tho:@@Tipani wa nyu rina mpwanaawe, nomwaavya uhiyu iriyari ni amwiirelaka: Mpwana, ukaasimihe mikatthe miraru kontha hoowa nletto aka uwaani, ni akirina itthu yommaha.
+P4	Mpwana, ukaasimihe mikatthe miraru kontha hoowa nletto aka uwaani, ni akirina itthu yommaha.
+P5	Ni mpwanaawe ule naamwakhula nari mpaani eeraka: Uhikinyakule. Nkhora kihotthyaa, mi na asaana aka nihorupa. Akinlamuliya wunwa wiira kuuvahe.
+P6	Kinoohimeryani wiira, pooti uhunwa nlattu wookhala mpwanaawe, nanso aahala wunwela wiira hinnyakule, mpaka unvaha cothene caaphavelawe.
+P7	Phimaana, mi kinawuhimeryani wiira: Nlepeleke, nnaavahiya; mwaavyeke, nnaaphwanya; mwaatteke nkhora ni nnaahuleliya.
+P8	Maana ule nolepela nawaakhela, ule naavya naaphwanya ni ule naatta nkhora naahuleliya.
+
+images:
+
+illustrations/pages/27427.png
+illustrations/pages/27457.png
+illustrations/pages/27428.png
+illustrations/pages/26580.png
+illustrations/pages/26579.png
+illustrations/pages/26581.png
+illustrations/pages/26582.png
+illustrations/pages/27429.png
+illustrations/pages/15753.png
+illustrations/pages/27430.png
+
+translations:
+
+Cinyungwe (Translation)	Xamwali Wakubwera Usiku	id=33193
+Cisena (Translation)	Xamwali Anabwera na Masiku	id=31885
+English (Original)	Friend at Night	id=31689
+Portuguese (Translation)	O Amigo Que Vem à Noite	id=31884

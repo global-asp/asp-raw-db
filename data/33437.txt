@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=33437&d=0&a=1
+id:	33437
+title:	Le rat
+author:	Zanne Viljoen
+artist:	Zablon Alex Nguku
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33437.png
+desc:	Rat-de-brousse visite Rat-de-maison pour voir quelle vie merveilleuse il a à lintérieur. Mais lavarice de Rat-de-maison lemporte sur lui
+
+page_text:
+
+P1	Il était une fois deux rats. Un rat vivait dans la brousse.
+P2	L'autre vivait dans une maison.
+P3	Un jour, le rat qui vivait dans la maison a dit au rat qui vivait dans la brousse, "Tu manges mal, dors mal, et il pleut sur toi."
+P4	"Nous dormons dans les maisons du chef. Nous mangeons différents types de nourriture. Viens me rendre visite et tu verras," dit Rat-de-maison. "Je viendrai ce soir même".
+P5	Entre-temps, le propriétaire de la maison était furieux. "Ces rats qui mangent ma nourriture, ils verront !" Cette fois, il a tendu un piège avec du sucre.
+P6	Les rats sont venus manger les friandises dans la maison. Ils sont venus en rigolant, "Chuchuchichicheche !"
+P7	Quand ils sont arrivés au piège, Rat-de-maison a dit : "Laisse-moi goûter ce sucre. Tu vois les friandises qu'on mange ici."
+P8	Mais avant que Rat-de-maison pouvait prendre le sucre, le piège s'est refermé, PAH ! Le piège a attrapé sa tête, et ses yeux ont gonflé comme des aubergines.
+P9	Rat-de-brousse a juste regardé, stupéfait. Il a demandé : "Eh Heee ! Mon ami, quelles sucreries as-tu mangées qui ont fait gonfler autant tes yeux ?"
+P10	Mais Rat-de-maison n'a pas pu répondre.
+P11	Rat-de-brousse a quitté la maison en disant : "Haa ! Je n'arriverai pas à arranger ces friandises que tu vantes."
+P12	Ta pire maison est meilleure que celle de ton voisin.
+
+images:
+
+illustrations/pages/7506.png
+illustrations/pages/7496.png
+illustrations/pages/7497.png
+illustrations/pages/7498.png
+illustrations/pages/7499.png
+illustrations/pages/7500.png
+illustrations/pages/7501.png
+illustrations/pages/7502.png
+illustrations/pages/7503.png
+illustrations/pages/7504.png
+illustrations/pages/7505.png
+illustrations/pages/7505.png
+illustrations/pages/7506.png
+
+translations:
+
+Afrikaans (Translation)	Die rot	id=11325
+English (Translation)	The rat	id=7769
+English (Adaptation)	The Big Rats	id=13612
+Kiswahili (Translation)	Panya	id=8439
+Kiswahili (Translation)	Panya	id=22083
+Likpakpaanl (Translation)	Lisayikl	id=18782
+Lunyole (Translation)	Embeba	id=13611
+Lusoga (Translation)	Wampube omubba	id=26510
+Portuguese (Translation)	A Ratazana	id=18858
+Portuguese (Translation)	A Ratazana	id=18890
+Rutooro (Translation)	Embeba	id=14941

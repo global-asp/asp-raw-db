@@ -1,0 +1,81 @@
+url:	https://africanstorybook.org/reader.php?id=32318&d=0&a=1
+id:	32318
+title:	Bakafundisha Bandi
+author:	Joseph Mwansa
+artist:	Jesse Pietersen
+lang:	IciBemba (school)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32318.png
+desc:	Aka kakashana kalitemwa bakafundisha bakakwe
+
+page_text:
+
+P1	Nalitemwa bakafundisha bandi.
+P2	Balishiba ukufunda bwino. Baacikuuku kabili@  abamutekatima.
+P3	Baliluka umushishi bwino-bwino.
+P4	Balibika mu mushishi ubulungu ubwamakaala.
+P5	Ubulungu bwabo bwakatapa-katapa, ubwabuuta, ubwakashika@  na ubwamutuntula.
+P6	‘Maayo, teeti munduke umushishi nga@  uwabakafundisha bandi?
+P7	Nga nakulilako nkabika ubulungu mu mushishi@  wandi.
+P8	Nga nakula nkabafye nga bakafundisha bandi!
+
+images:
+
+illustrations/pages/8513.png
+illustrations/pages/8509.png
+illustrations/pages/8510.png
+illustrations/pages/8511.png
+illustrations/pages/8512.png
+illustrations/pages/8513.png
+illustrations/pages/8514.png
+illustrations/pages/8515.png
+illustrations/pages/8516.png
+
+translations:
+
+Afrikaans (Translation)	My juffrou	id=20086
+Akuapem Twi (Translation)	Me Kyerɛkyerɛfo	id=18465
+Amharic (Translation)	መምህሬ	id=21236
+Asante Twi (Translation)	Me Kyerɛkyerɛfoɔ	id=18223
+ChiTonga (Translation)	Basiisi Bangu	id=18632
+Chitumbuka (Translation)	Ŵasambizi Ŵane	id=32256
+CiNyanja (Translation)	Apunzisi Anga	id=18609
+Dagaare (Translation)	N Karema	id=17777
+Dagbani/Dagbanli (Translation)	N Karim Ba	id=18153
+Dangme (Translation)	Ye Tsɔɔlɔ	id=18303
+Dhopadhola (Translation)	Jafonji Paran	id=18751
+English (Original)	My teacher	id=8507
+Ewe (Translation)	Nye Nufiala	id=18170
+Fante (Translation)	Me Kyerɛkyernyi	id=18495
+French (Translation)	Ma maîtresse	id=33448
+Fulfulde Mbororoore (Translation)	Jannginoowo yam	id=32015
+Ga (Translation)	Mitsɔɔlɔ	id=18294
+Gonja (Translation)	Mabe Eŋinipo	id=18176
+Hausa (Nigeria) (Translation)	Malamata	id=20510
+IciBemba (Translation)	Bakafundisha Bandi	id=18574
+Igbo (Translation)	Onye nkuzi m	id=22154
+isiNdebele (Translation)	Utitjhere wami	id=21942
+isiXhosa (Translation)	Utitshala wam	id=17577
+isiZulu (Translation)	Uthisha wami	id=8075
+isiZulu (Translation)	Uthisha wami	id=32635
+Kasem (Translation)	A Bereno	id=18210
+Kinyarwanda (Translation)	Mwarimu wanjye	id=20230
+Kinyarwanda (Translation)	Mwarimu wange	id=31711
+Kiswahili (Translation)	Mwalimu wangu	id=15609
+Lunyole (Translation)	Omusomesa Wange	id=16424
+Lusoga (Translation)	omusomesa ghange	id=25595
+Mampruli (Translation)	N  Karimba	id=18852
+Nzema (Translation)	Me Kilehilevolɛ Ne	id=18432
+Oluwanga (Translation)	Omusomesia Wanje	id=19796
+Portuguese (Translation)	A Minha Professora	id=17617
+Runyankore (Translation)	Omushomesa wangye	id=23074
+Sepedi (Translation)	Morutiši wa ka	id=18025
+Sesotho (South Africa) (Translation)	Mosuwetsana wa ka	id=20038
+Setswana (Translation)	Morutabana wa me	id=16753
+Setswana (Translation)	Morutabana Wa Me	id=17655
+SiLozi (Translation)	Bomuluti Baka	id=18558
+Siswati (Translation)	Thishela wami	id=21737
+Tshivenḓa (Translation)	Mudededzi wanga	id=18987
+Tunisian (Translation)	Muġallimti	id=15153
+Xitsonga (Translation)	Mudyondzisi wa mina	id=18998

@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=32912&d=0&a=1
+id:	32912
+title:	Go apea
+author:	Sewela  Malatji
+artist:	Kathy Arbuckle
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32912.png
+desc:	Ke kanegelo ya go apea. Merogo ya go fapafapana.
+
+page_text:
+
+P1	Ke ebola ditapola.
+P2	Ke kgabelela khabetšhe.
+P3	Ke khorotša kherote.
+P4	Ke hlatswa dinawa.
+P5	Ke segelela lephotse.
+P6	Ke kgabelela sepinetšhe.
+P7	Mma o kgabelela eiye.
+P8	Eiye e dira gore ke lle ge e kgabelelwa.
+
+images:
+
+illustrations/pages/28588.png
+illustrations/pages/28589.png
+illustrations/pages/28590.png
+illustrations/pages/28591.png
+illustrations/pages/28592.png
+illustrations/pages/28593.png
+illustrations/pages/28594.png
+illustrations/pages/28595.png
+illustrations/pages/28596.png
+
+translations:
+
+English (Original)	Cooking	id=32565
+French (Translation)	Faire la cuisine	id=33623
+Kinyarwanda (Translation)	Guteka	id=32566
+Kiswahili (Translation)	Kupika	id=33120

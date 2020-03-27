@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=32498&d=0&a=1
+id:	32498
+title:	Kon-Iyôn man Atii
+author:	Terkule Aorabee
+artist:	Joe  Werna
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32498.png
+desc:	Hwev doo ga. Doo u lun a iwuese hen mba wasen we.
+
+page_text:
+
+P1	Kon-Iyôn lu or-sule u dedoo. @@A maa ya na man wuna u kwaghyan shin nya.
+P2	A mar ônov kpishi. @@Ve cii ve eren tom taveraa. @@Ve lu a kwaghyan kpishi.
+P3	Atii wan ndor vea Kon-Iyôn. @@A wa iya sha kon. @@Lu a kwase man mbayev uhar.
+P4	Atii wa hwev kpishi. Un man tsombor na cii ve zamber a zamber. Ve gema ve fa imo gberen kpishi.
+P5	Iyange igen wura nôô kpishi. Kon-Iyôn due a iyiav nav tsen.@@Atii kua tsombor na va u va zamber.
+P6	Kon-Iyôn kaa a atii er, "Me nau kwaghyan wam ga. U wa hwev gande. Yem za kaha sule."@@Atii gba mi zamber.
+P7	Atii vea tsombor na cii tôô icam, "Iyôn u ngu Tor! Iyôn u ngu Tor! Iyôn u ngu Tor!"
+P8	Kwagh la doo Kon-Iyôn. A na Atii Kwaghyan Kpishi. @@Atii mba ye kwaghyan yô, ve purugh ve za tema sha kon.
+P9	Atii gba gberen imo hiin Kon-Iyôn, "Man tor lu tyough gbenee? Man tor lu tyough gbenee? Man tor lu tyough gbenee?"
+P10	Kpen nan kpa ijen num ve. Mbatii shi va tôô icam, "Iyôn u ngu Tor! Iyôn u ngu Tor! Iyôn u ngu Tor!"
+P11	Kon-Iyôn nyume ve kwaghyan. Kon-Iyôn kaa er," Ne mba a inja ga! Ne lan kwagh yum!" @@Kpa Atii zamber, "Se vaa afanyô."
+P12	Kon-Iyôn zungwe ve mhôônum, na ve kwaghyan. Ve purugh ve hide sha kon.@@Hanmô shie ka ve waan icam ve wuese Kon-Iyôn.
+
+images:
+
+illustrations/pages/28294.png
+illustrations/pages/28296.png
+illustrations/pages/28297.png
+illustrations/pages/28298.png
+illustrations/pages/28301.png
+illustrations/pages/28302.png
+illustrations/pages/28303.png
+illustrations/pages/28304.png
+illustrations/pages/28305.png
+illustrations/pages/28307.png
+illustrations/pages/28306.png
+illustrations/pages/28308.png
+illustrations/pages/28309.png
+
+translations:
+
+English (Adaptation)	Big-head Ant and lazy Pigeon	id=32520
+French (Translation)	Fourmi Grosse-tête et Pigeon Paresseux	id=33334
+isiZulu (Translation)	Intuthwane enekhanda elikhulu nejuba	id=32909
+Kiswahili (Translation)	Siafu na Njiwa mvivu	id=33291

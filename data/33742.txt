@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=33742&d=0&a=1
+id:	33742
+title:	Nothing must happen
+author:	Suzette  T
+artist:	Suzette  T
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33742.png
+desc:	The young writer of this story is worried about her family. (Story and illustrations created at a June 2019 holiday workshop
+
+page_text:
+
+P1	My mother was talking on the phone.
+P2	She heard that my grandmother was dead. @@She was crying so much.
+P3	I was feeling so, so, so, sad. @@We all started crying. @@Grandmother was good to us, when no one else was good to us.
+P4	All her children came to put her under the sand. @@We started to pray. @@Nothing must happen to the rest of our family.
+
+images:
+
+illustrations/pages/91400163.png
+illustrations/pages/91400161.png
+illustrations/pages/91400162.png
+illustrations/pages/91400163.png
+illustrations/pages/91400164.png
+
+translations:
+
+French (Translation)	Rien ne doit se produire	id=33756
+isiZulu (Translation)	Sengathi kungenzeke lutho olubi	id=33781
+Kiswahili (Translation)	Lazima kusitokee tena	id=33755
+Lingala (Translation)	Eloko moko te ekokikokoma	id=33812
+Sesotho (South Africa) (Translation)	Ho se etsahale letho	id=33797

@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33607&d=0&a=1
+id:	33607
+title:	Maswaka Yadapha Nkhalamba Zentsene
+author:	Little Zebra Books
+artist:	Laura Liberatore
+lang:	Cinyungwe
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33607.png
+desc:	This folktale from the Nyungwe people of Mozambique reminds us of the importance of having older people in our communities.
+
+page_text:
+
+P1	Bzidawoneka pamui ubodzi, thimu la maswaka lidapangana kupha nkhalamba zentsene kuti ufiti bumale.
+P2	Tsono m'bodzi wawo adathawisa nkhalamba ibodzi yomwe ikhali babace acikaibisa m'thengo.
+P3	Pomwe adamala bzimwebzo ndipo angayamba kupha tsapano nkhalamba zentsene zinango zire.
+P4	Tsono khale-khale idabwera nyoka m'muimo icicokera m'thengo, icikapita m'mimba mwa mwana m'bodzi. Ikakhala-khala ikhambacosa msolo kunja na pamulomo pamwanayo.
+P5	Ndipo abereki wa mwanayo na wanthumbo winango akhatangwanika nabzo bzimwebzo kwene-kwene, nakuti iwo akhawona kuti tikapha nyokai, tiniphambo mwanai pomwe.
+P6	Ndipo wentse adandokhala wakutangwanika.
+P7	Na tenepo tswaka lire lidakumbuka kukafotokozerambo malengwa yale nkhalamba yace yomwe akhadabisa ire.@@Ndipo nkhalamba ire idati: "Bzimwebi bzribe kunesa na pang'onopo. Iwepo ndoko ukatenge cule ukamumangirire pafupi na pana nyokapo, mun'kawona kuti nyokayo in'kasololoka m'mimba mwa mwanamo icikameza culeyo."
+P8	Cadidi tswaka lire lidakacita ninga momwe lidauzidwiramo na nkhalamba ire. Ndipo nyoka ire idasololokadi iciyenda kukameza cule ule.
+P9	Na tenepo mwana ule adapulumuka paimfa.
+
+images:
+
+illustrations/pages/85590239.png
+illustrations/pages/85590249.png
+illustrations/pages/85590239.png
+illustrations/pages/85590250.png
+illustrations/pages/85590241.png
+illustrations/pages/85590242.png
+illustrations/pages/85590243.png
+illustrations/pages/85590244.png
+illustrations/pages/85590246.png
+illustrations/pages/85590247.png
+illustrations/pages/85590248.png
+
+translations:
+
+Afrikaans (Translation)	Die land sonder ou mense	id=33633
+Echuwabo (Translation)	Elabo Yakoddile Okala Anddimuwa	id=33608
+English (Original)	The Land of No Old People	id=33145
+isiXhosa (Translation)	ILizwe elingenaMaxhego naMaxhegwazana	id=33634
+Portuguese (Translation)	A Terra Sem Pessoas Velhas	id=33592

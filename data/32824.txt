@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=32824&d=0&a=1
+id:	32824
+title:	Nthĩnje
+author:	Tarsilla  Thuranira
+artist:	Melany Pietersen
+lang:	Kῖmῖῖrũ 
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32824.png
+desc:	Nĩmbi nthĩnje ya mwĩjĩ ũmũkoroku ũria warĩre matunda jamaingĩ?
+
+page_text:
+
+P1	Ntũkũ ĩmwe, ntĩĩ nĩ agũrire matunda mĩthemba ĩmĩngĩ.
+P2	"Nĩĩrĩ tũkaaria matunda?"@@"Tũkaria matunda narua ũgoro," ntĩĩ arauga.
+P3	Mũtanocia Kaburu nĩ ũmũkoroku. @@Acemere matunda jonthe. Nĩarĩĩte matunda jamaingĩ mono.
+P4	"Tega ũrĩa Kaburu athithĩtie!" Mũtanocia ũrĩa mũnini aragondoka. @@"Kaburu nĩ mũremi na mũciendi," ndirauga.
+P5	Ntĩĩ arathũra nĩ Kaburu.
+P6	Kinya twĩ tũrathũra nĩ Kaburu. @@Ĩndĩ Kaburu atairira.
+P7	"Ũkaa Kaburu nthĩnje?" mũtanocia ũrĩa mũnini aroria.
+P8	"Kaburu, ũkairira rua," ntĩĩ aramwĩra.
+P9	Kaburu arambĩria kwigua bũbũĩ.
+P10	"Kĩu gĩakwa kĩrĩ na mũrimo," Kaburu araria na kĩoya.
+P11	Ntĩĩ naijĩ gĩtũmi kĩa mbajua ya Kaburu.@@"Nĩ matunda jakumwaa nthĩnje," arathũgania.
+P12	Nyumene, Kaburu arairira kĩrĩ twi. "Ntĩkorokoroka kairῖ," aracĩĩtĩa. @@Natwĩ tũramwĩtĩkia.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	(Paka rangi) Adhabu	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402

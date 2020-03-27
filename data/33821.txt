@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=33821&d=0&a=1
+id:	33821
+title:	Comment le crapaud a acquis sa peau
+author:	Zanne Viljoen
+artist:	Rob Owen
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33821.png
+desc:	Ce conte explique pourquoi les crapauds ont le dos bosselé et peuvent vivre loin de leau.
+
+page_text:
+
+P1	Kodi le crapaud était fatigué de vivre dans l'eau.
+P2	"Fais attention", dit la tortue. "Ta peau va se dessécher."
+P3	Mais Kodi était curieux.  Il est parti en sautillant.
+P4	Il a regardé tout autour de lui.
+P5	Il a rencontré un caméléon violet à côté d'une flaque d'eau.
+P6	Le caméléon a commencé à devenir rose ! Kodi a sauté loin de là.
+P7	Puis il a vu une hyène allumer un feu.
+P8	Le feu a enveloppé Kodi. Il avait peur.
+P9	Le feu a brûlé sa peau. Il a sauté en arrière, dans la flaque.
+P10	Mais sa peau était déjà pleine d'ampoules.
+P11	Kodi a trouvé une maison sous un rocher. Sa peau était sèche et rugueuse.
+P12	Seules les grenouilles ont une peau lisse et vivent près de l'eau.
+
+images:
+
+illustrations/pages/13417.png
+illustrations/pages/13415.png
+illustrations/pages/13416.png
+illustrations/pages/13417.png
+illustrations/pages/13418.png
+illustrations/pages/13419.png
+illustrations/pages/13421.png
+illustrations/pages/13422.png
+illustrations/pages/13423.png
+illustrations/pages/13424.png
+illustrations/pages/13425.png
+illustrations/pages/13426.png
+illustrations/pages/13427.png
+
+translations:
+
+Afaan Oromo (Translation)	Gogaa Fattee	id=20424
+Amharic (Translation)	የእንቁራሪት ቆዳ	id=20492
+English (Original)	Mod the toad	id=13546
+English (Adaptation)	How the toad got its skin	id=19766
+isiZulu (Translation)	USele, iselesele	id=20669
+Kiswahili (Translation)	Jinsi chura alivyopata ngozi yake	id=20439
+Lulamoogi (Translation)	Ekikere kyasunire kitya olususu lwakyo	id=26076
+Lusoga (Translation)	Engeri eikere yerifuna oluwu	id=26026
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
+Portuguese (Translation)	Mod, a Sapa	id=17037

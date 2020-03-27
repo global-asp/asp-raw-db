@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=32444&d=0&a=1
+id:	32444
+title:	Lilanga, Inyanga, Imvula neMoya
+author:	Mduduzi Benjie Shongwe
+artist:	Children of Paleng
+lang:	Siswati
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32444.png
+desc:	Lilanga
+
+page_text:
+
+P1	Endvulo, Lilanga, Inyanga, Imvula neMoya bekulwa.
+P2	Inkinga beyikutsi Lilanga belifuna kubalela lilanga lonkhe. Inyanga beyifuna kukhanyisa kukhanya kwayo onkhe malanga.@@Imvula beyifuna kuna onkhe malanga, neMoya bewufuna kuhhusha onkhe malanga. Kute labefuna kunika lomunye litfuba.
+P3	Bancuma kutsi bahlale phansi bakhulume ngaloku. Lilanga labuta Inyanga, "Yini wena loyentako kute usite umhlaba?" @@Inyanga yaphendvula, "Ngiyakhanyisa ebusuku kute tilwane titokwati kutingela."
+P4	Inyanga yabuta Imvula, "Yini wena loyentako kute usite umhlaba?" Imvula yaphendvula, "Nginika umhlaba emanti kute tihlahla netitjalo titokhula kahle. Nginika emanti tilwane kute tinatse."
+P5	Imvula yabuta Umoya, "Yini wena loyentako kute usite umhlaba?" Umoya waphendvula, "Ngishanyela umhlaba uhlobe. Ngisakata imvula kuwo wonkhe umhlaba."
+P6	Umoya wabuta Lilanga, "Yini wena loyentako kute usite umhlaba?" Lilanga laphendvula, "Nginika umhlaba kukhanya  nekufutfumala, kute tilwane netitjalo titokwati kuphila."
+P7	Lilanga, Inyanga, Imvula neMoya balalela ngekucophelela ngesikhatsi lomunye akhuluma.
+P8	Lilanga lase litsi, "Liciniso kutsi ngamunye wetfu usita umhlaba ngendlela letsite lekhetsekile." "Yebo, kwasho Inyanga, "Kute emkhatsini wetfu loncono kunalomunye." @@"Singasebenta ndzawonye," kwasho Imvula. Umoya watsi, "Khona-ke asehlukaniselane amalanga." Bonkhe bavumelana.
+P9	Kungako ngalesinye sikhatsi uye ubone inyanga ngesikhatsi lilanga libalele. Futsi ngalesinye sikhatsi uve kunemoya ngesikhatsi lina. Lilanga, Inyanga, Imvula neMoya kusebenta kahle kakhulu kundzawonye. Kuyevana.
+P10	Ingabe uyalitsandza lilanga, inyanga, imvula noma umoya? Dweba loko lokutsandza kakhulu.
+P11	Sidzinga umhlaba kute siphile. Usinika kudla kanye nekukhosela, tilwane kanye netitjalo. Konkhe kuyasisita ngandlela tsite. Ngalokufanako, sonkhe singenta lokutsite kute sisite umhlaba wetfu. Yini longayenta kute usite umhlaba? Kubhale phansi.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+CiNyanja (Translation)	Zuba, Mwezi, Mvula na Mpepo	id=32840
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sepedi (Translation)	Letšatši, Ngwedi, Pula le Moya	id=32458
+Sesotho (Lesotho) (Original)	Letsatsi, Khoeli, Pula le Moea	id=16109
+Sesotho (South Africa) (Translation)	Letsatsi, Kgwedi, Pula le Moya	id=32437

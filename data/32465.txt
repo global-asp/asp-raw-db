@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=32465&d=0&a=1
+id:	32465
+title:	Iyangeduen man Iyangemiren
+author:	Mimi Werna
+artist:	Joe  Werna
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32465.png
+desc:	Iyangeduen man iyangemiren ken ashie a wanye makaranta u genen.
+
+page_text:
+
+P1	Iyange due sha ka la.@@Sha shei i m ungwa ikegh a tongo sha mdue u iyange la.
+P2	Iyange zende kaa ki tembe u Terfa e ilu yolun kwagh u yan u pepe la.@@Ihuma e bier man akpukpa dondo iyange due ken windou, m ka m ungwa ihuma.
+P3	Iyange yem da tile ki jime u ankon u alu sha makeranta la, sha shien u ka I ya kwagh u yan u atitan la.@@Shi azende a da tile sha ato u angbyio i a lu ape e numben la  ji
+P4	Iyange tilem sha ityo. Jijingi yam kpa tile doun.@@Mo man azendi am nyo u zedan ajijingi aese.
+P5	Jijingi wam gbanger, hingi icuku. Se zenda di tso.@@Jijingi lihie, hide damn har. Se zenda de tso.
+P6	Mo man azende am tile kpa jijingi yese tenger.@@Man se volun yo, se nyor ken classi. Se ber se yem ki ya.
+P7	Iyange ta. Myam kor iyange. Me nenge e iyange mire yo.@@Shi m nenge a jijingi yam sha kpekpe. Man shie kuma u da yaven nya.
+P8	Iyange da yav ken abeen.@@M yaven sha gambe you, tso mnyam cie mo sha iyangeduen man iyangemiren.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+English (Original)	Busy busy sun	id=32416
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464

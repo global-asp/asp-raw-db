@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=33414&d=0&a=1
+id:	33414
+title:	Où est mon chat ?
+author:	Zanne Viljoen
+artist:	Bronwen Heath
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/33414.png
+desc:	Mon chat a disparu.  Je ne le vois nulle part.  Où est-il ?
+
+page_text:
+
+P1	Où est mon chat ?
+P2	Est-il peut-être sous le lit ?
+P3	Est-il peut-être au-dessus de l'armoire ?
+P4	Est-il peut-être derrière le fauteuil ?
+P5	Est-il peut-être dans la poubelle ?
+P6	Est-il peut-être dans le panier ?
+P7	Est-il peut-être sorti ?
+P8	Le voilà !
+
+images:
+
+illustrations/pages/1565.png
+illustrations/pages/1565.png
+illustrations/pages/1822.png
+illustrations/pages/1566.png
+illustrations/pages/1567.png
+illustrations/pages/1568.png
+illustrations/pages/1569.png
+illustrations/pages/1570.png
+illustrations/pages/1823.png
+
+translations:
+
+Kinyarwanda (Adaptation)	Ipusi yange irihe? Where is my cat?	id=15839

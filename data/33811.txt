@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=33811&d=0&a=1
+id:	33811
+title:	Baboti na ngai
+author:	Theresa  Nyemba
+artist:	Gloria  M
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33811.png
+desc:	Ekoki kozala mpasi tango baboti nayo bazali lisusu te elongo. (Lisapo oyo esalemaki na sanza ya motoba na mobu tuku mibale na zomi na libwa na tango ya bopemi
+
+page_text:
+
+P1	Papa avandaka na Yeoville.
+P2	Navandaka na Bertrams, na maman na ngai na bandeko mibale ya basi.
+P3	Namonaka papa tango ayaka kotala ngai mokolo ya mbotama.
+P4	Nasepelaka komona naye azala na biso.@@Nayebi te pona nini tovandaka esika moko te.
+
+images:
+
+illustrations/pages/91400160.png
+illustrations/pages/91400157.png
+illustrations/pages/91400158.png
+illustrations/pages/91400159.png
+illustrations/pages/91400160.png
+
+translations:
+
+English (Original)	My parents	id=33741
+French (Translation)	Mes parents	id=33858
+Gikuyu (Translation)	Aciari akwa	id=33862
+isiZulu (Translation)	Abazali bami	id=33780
+Kiswahili (Translation)	Wazazi wangu	id=33842
+Sesotho (South Africa) (Translation)	Batswadi ba ka	id=33796

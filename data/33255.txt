@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=33255&d=0&a=1
+id:	33255
+title:	Waar is Lulu?
+author:	Elna  Van der Merwe
+artist:	Clyde  Beech and Nkosingiphile  Mazibuko
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33255.png
+desc:	Waar is Lulu en hoekom kruip sy weg? (Met die hulp van die Book Dash-deelnemers in Kaapstad op 14 April 2018.).
+
+page_text:
+
+P1	"O nee!"
+P2	"Lulu, ons moet nou gaan!" roep Mamma.
+P3	Waar is Lulu?@@Is sy onder die bank?
+P4	Is sy agter die gordyn?
+P5	Waar is Lulu?@@Is sy langs die stoof?
+P6	Is sy in die kas?
+P7	"Lulu, kom nou! Waar's jy?" roep Mamma weer.
+P8	"Dáár's jy!"@@"Ek wil nie gaan nieee!"
+P9	"Ons móét gaan," sê Mamma.@@"Maar ek hou régtig van dié een!"
+P10	"Ek hou régtig van dié een!"
+P11	"En dié een."
+P12	"En dié een."@@"En dié een."
+P13	"Sien jy? Mens bring jou boeke terug en dan neem jy nog uit."@@"JEI!"
+P14	Waar is Lulu nou?
+
+images:
+
+illustrations/pages/27795.png
+illustrations/pages/27796.png
+illustrations/pages/27797.png
+illustrations/pages/27798.png
+illustrations/pages/27799.png
+illustrations/pages/27800.png
+illustrations/pages/27801.png
+illustrations/pages/27802.png
+illustrations/pages/27803.png
+illustrations/pages/27804.png
+illustrations/pages/27805.png
+illustrations/pages/27806.png
+illustrations/pages/27807.png
+illustrations/pages/27808.png
+illustrations/pages/27809.png
+illustrations/pages/27810.png
+illustrations/pages/27811.png
+
+translations:
+
+English (Original)	Where is Lulu?	id=31988
+English (Adaptation)	What Lulu wanted	id=32041
+Kiswahili (Translation)	Lulu yuko wapi?	id=31998
+Sepedi (Translation)	Lulu o kae?	id=33254

@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=32827&d=0&a=1
+id:	32827
+title:	Kũgiita ĩgamba
+author:	Tarsilla  Thuranira
+artist:	Vusi Malindi
+lang:	Kῖmῖῖrũ 
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32827.png
+desc:	Antũ ba ntũũra kũgiita igamba kũgarura motũũro jao.
+
+page_text:
+
+P1	Ntũũra yakwa yaarĩ na mathĩĩna jamaingĩ. Twekaga mũcitarĩ jũmũraja gũtaa rũũjĩ gacumene kamwe.
+P2	Twetagĩĩra irio biria biejani ni bangĩ.
+P3	Twaingaga nyomba cĩetũ thaa irio nĩuntũ bwa gũkĩra amba.
+P4	Aana babaingĩ baratiga gwĩta cukuru.
+P5	Twaarĩ twaritaga ngũgĩ cia nyomba ntũũrene ingĩ.
+P6	Tũijĩ twathiurũkaga ntũũrene antũ bangĩ bakĩritaga ngũgĩ miundene ya antũ.
+P7	Ruuo rwaurutana, marataci jarĩa jategi jagacuura mĩtĩne na ndwegone.
+P8	Antũ batemangagwa nĩ cuuba inkũũ irĩa ciatei oouu.
+P9	Ntũkũ ĩmwe, mĩberethi ĩrawa rũũjĩ na ikiiri biraa biitheri.
+P10	Baaba areta nyomba ĩmwe na ĩngĩ akĩuragia antũ ntũũrene beeje mũcemanione.
+P11	Antũ baroothũrana ruungu rwa gĩtina kĩa mũtĩ jũmũnene na barathikĩra.
+P12	Baaba ararũngama na arauga, "Tũrienda tũrite ngũgĩ tũgwatanĩrĩte nĩkenda tuthiria thĩĩna cĩetũ."
+P13	Koome wa ũkũrũ bwa miaka ĩnaana, akari nthĩ mũgogone aragandũka arauga, "Ũũni ng'atetheeria na kũtheria."
+P14	Mwekũrũ ũmwe arauga, "Ekũrũ no bagwatane nani tũkũrie irio."
+P15	Mũkũrũ ũngĩ ararungama arauga, "Arũme bakenja kĩthima."
+P16	Twinthe tũragandũka na kajũ kamwe, "No mwanka tũgarure ũtũũro bwetũ." @@Kuuma ntũkũ ĩuu tũrarita ngũgĩ tũgwatanĩrĩte kenda tũthiria mathĩĩna jetũ.
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/10609.png
+illustrations/pages/10616.png
+illustrations/pages/10614.png
+illustrations/pages/10611.png
+illustrations/pages/10613.png
+illustrations/pages/10615.png
+illustrations/pages/10617.png
+illustrations/pages/10612.png
+illustrations/pages/10610.png
+illustrations/pages/10618.png
+illustrations/pages/10619.png
+illustrations/pages/10620.png
+illustrations/pages/10621.png
+illustrations/pages/10623.png
+illustrations/pages/10624.png
+illustrations/pages/10625.png
+
+translations:
+
+Amharic (Translation)	ውሣኔ	id=22401
+Arabic (Translation)	القرار	id=21813
+English (Translation)	Decision	id=13304
+English (Adaptation)	(Colour-in) Decision	id=32497
+Kinyarwanda (Translation)	Ikemezo k'ingirakamaro	id=32569
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344
+Kiswahili (Adaptation)	(Paka rangi) Uamuzi	id=33359
+Lusoga (Translation)	Okusalagho	id=25741
+Ng’aturkana (Translation)	Atiakun Akiroit	id=20496
+Tiv (Translation)	Ijogh-zwa	id=32801

@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33633&d=0&a=1
+id:	33633
+title:	Die land sonder ou mense
+author:	Little Zebra Books
+artist:	Laura Liberatore
+lang:	Afrikaans
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33633.png
+desc:	This folktale from the Nyungwe people of Mozambique reminds us of the importance of having older people in our communities.
+
+page_text:
+
+P1	Lank gelede het 'n bende jong mense in 'n dorpie besluit om al die ou mense dood te maak, sodat hulle nie meer hul toorkunsies kon doen nie.
+P2	Maar een van die jong mense het saam met sy pa gevlug en hom in die woestyn gaan wegsteek.
+P3	Nadat hy dit gedoen het, het die bende die ou mense begin doodmaak.
+P4	Maar net toe kom daar 'n slang uit die woestyn na die dorpie aangeseil en kruip in 'n klein kind se maag weg.@@Die slang hou aan om sy kop by die kind se mond uit te steek.
+P5	Die ouers van die kind, en al die ander mense probeer alles om die probleem op te los, maar hulle weet as hulle die slang doodmaak, sal die kind ook doodgaan.
+P6	Almal probeer iets anders doen.
+P7	Toe gaan die jong man wat sy pa weggesteek het na hom toe en vertel hom alles wat gebeur het.
+P8	En die ou man sê: "Dis die maklikste ding in die wêreld om op te los. Gaan haal 'n padda en maak dit naby die slang vas. Julle sal sien dat die slang uit die kind se maag sal klim om die padda te vang."
+P9	Die jong man doen toe wat die ou man sê. En die slang klim uit om die padda te vang. En so is die kind van die dood gered.
+
+images:
+
+illustrations/pages/85590239.png
+illustrations/pages/85590249.png
+illustrations/pages/85590239.png
+illustrations/pages/85590250.png
+illustrations/pages/85590241.png
+illustrations/pages/85590242.png
+illustrations/pages/85590243.png
+illustrations/pages/85590244.png
+illustrations/pages/85590246.png
+illustrations/pages/85590247.png
+illustrations/pages/85590248.png
+
+translations:
+
+Cinyungwe (Translation)	Maswaka Yadapha Nkhalamba Zentsene	id=33607
+Echuwabo (Translation)	Elabo Yakoddile Okala Anddimuwa	id=33608
+English (Original)	The Land of No Old People	id=33145
+isiXhosa (Translation)	ILizwe elingenaMaxhego naMaxhegwazana	id=33634
+Portuguese (Translation)	A Terra Sem Pessoas Velhas	id=33592

@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=32289&d=0&a=1
+id:	32289
+title:	Aŋui kek Arou
+author:	Melbourne  Dinka School
+artist:	Salim Kasamba
+lang:	Dinka
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32289.png
+desc:	How the tortoise got a hard shell
+
+page_text:
+
+P1	Wääthɛɛr leŋ Aŋui tiɛl
+P2	Yen ëya ee leŋ Arou.@@Aŋui kek Arou aake mäth.
+P3	Aci Aŋui lɛ̈k Arou, "Lok wïcku miok ciɛc."
+P4	Aŋui aci kat apɛi.@@Ku lɔk Arou buɔth cok amaath.@@Yen ë ci rioc.
+P5	Wën cï kek war tem.@@Kek aci tiap.
+P6	Wën tiŋ kek athien ciɛc.@@Go Aŋui riŋ tënë athien.
+P7	Aci Aŋui lɛk Arou, "Lör nhial ku ben athien ciɛc la bɛi."
+P8	Arou aci lɔ nhial amaath.@@Go Aŋui puɔ̈u riääk.@@Ku loi kɛɛu tënë Arou.
+P9	Arou aci athien ciɛc gɔɔt.@@Ciɛc aci thiei yomic.
+P10	Arou aci löny.@Go athien ciɛc löny ye guop.@Aŋui aci miok ë ciɛc nyian.
+P11	Ciɛc aca Aŋui kac.@@Yen aci kat.@@Go ciɛc buɔth cok.
+P12	Aŋui aci riŋ wïïr.@@Go ciɛc ŋot ke buɔth cok.
+P13	Go athien ciɛc ku miok aci ril Arou kɔ̈u.
+P14	Arou leŋ kɔ̈u a kuet yen rot tiit.@@Ku ler baai.
+P15	Këc ciɛc aci Aŋui yiɛk guop kït.
+P16	Arou kek Aŋui akëc ben mäth.
+
+images:
+
+illustrations/pages/13398.png
+illustrations/pages/13395.png
+illustrations/pages/13397.png
+illustrations/pages/13398.png
+illustrations/pages/13400.png
+illustrations/pages/13401.png
+illustrations/pages/13403.png
+illustrations/pages/13405.png
+illustrations/pages/13406.png
+illustrations/pages/13407.png
+illustrations/pages/13408.png
+illustrations/pages/13409.png
+illustrations/pages/13410.png
+illustrations/pages/13411.png
+illustrations/pages/13412.png
+illustrations/pages/13414.png
+
+translations:
+
+English (Original)	Hyena and Tortoise	id=13548
+English (Adaptation)	Hyena and Tortoise	id=18439
+French (Translation)	Hyène et Tortue	id=33818
+Kinyarwanda (Translation)	Impyisi n' Akanyamasyo	id=31365
+Kiswahili (Translation)	Fisi na Kobe	id=15613
+Lámnsoʼ (Translation)	Kuúrá wùn Kibóŋaàrí kí	id=22307
+Lugwere (Translation)	Mpiti N’Ofudu	id=16711
+Lusoga (Translation)	Wampiti ni Wankudu	id=25916
+Lusoga (Translation)	Wankudu ni Wampiti	id=26196
+Moro (Translation)	Ŋwëlia na Ođǝɽal	id=32075
+Otuho (Translation)	Ebou iko Etobok	id=32086
+Portuguese (Translation)	A Hiena E a Tartaruga	id=16653
+Rukiga (Translation)	Muha na Akanyankogote	id=23298

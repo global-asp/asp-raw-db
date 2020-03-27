@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33358&d=0&a=1
+id:	33358
+title:	(Paka rangi) Adhabu
+author:	Ursula  Nafula
+artist:	Melany Pietersen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33358.png
+desc:	Ni adhabu gani anayopata kijana mchoyo aliyekula matunda mengi kupita kiasi?
+
+page_text:
+
+P1	Siku moja mamangu alinunua matunda aina tofauti.
+P2	Tulijiuliza, "Mama atatugawia matunda wakati gani?"
+P3	Baadaye, kakangu, Rahim, alijificha na kuyala matunda yote!
+P4	Tulisema kwa hasira, "Rahim ni mtukutu tena ni mchoyo. Lazima aadhibiwe."
+P5	Mama aligundua kuwa matunda yote yalikuwa yameliwa. Alikasirika sana.
+P6	Tulimtazama Rahim kwa ukali.
+P7	Nilimwuliza mama, "Je, utamwadhibu Rahim?"
+P8	Baadaye, Rahim alipata adhabu asiyoitarajia.
+P9	Hakuweza kutulia!
+P10	Mama alipomwuliza alijibu kwa sauti ya chini,  "Naumwa na tumbo."
+P11	Hiyo ilikuwa adhabu mbaya kuliko kama Rahim angechapwa na mama.
+P12	Alipopata nafuu, Rahim alituomba msamaha. Aliahidi kuwa hataiba tena.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/28409.png
+illustrations/pages/28410.png
+illustrations/pages/28411.png
+illustrations/pages/28420.png
+illustrations/pages/28419.png
+illustrations/pages/28418.png
+illustrations/pages/28417.png
+illustrations/pages/28416.png
+illustrations/pages/28415.png
+illustrations/pages/28421.png
+illustrations/pages/28413.png
+illustrations/pages/28412.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	(Colour-in) Punishment	id=32505
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402

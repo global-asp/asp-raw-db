@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=32320&d=0&a=1
+id:	32320
+title:	Isihlahla esihambayo
+author:	Cynthia Nxele
+artist:	Sean  Hart
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32320.png
+desc:	Isihlahla esihambayo - a bilingual comic strip story about a tree that wanted to see the world.
+
+page_text:
+
+P1	Hmm Hum Hmm... @@Hmmm Hum Hmmm...
+P2	Hmm hum hmmm...
+P3	Yini indaba?
+P4	Yini indaba? Nginesithukuthezi! Ngikhathele ilendawo angikwazi ukuya ndawo! @Ngifisa ukuvakashela amazwe akude. Kodwa angikwazi ngilana nje!
+P5	Ngifisa ukubona izindawo eziningi ngelinye ilanga. @@iKongo, iJamayikha, iAlaska, iPhalastina...
+P6	Kulungile ke ngizokusa noma ikuphi la ofisa ukuya khona. @@Ngempela? Sizohamba nini?
+P7	Uqaphele izimpande zami. @@Ziyazwela.
+P8	Qaphela! Ungangiwisi. @Qaphela!
+P9	Bahamba ngosuku olulandelayo.
+
+images:
+
+illustrations/pages/28005.png
+illustrations/pages/28003.png
+illustrations/pages/28005.png
+illustrations/pages/28006.png
+illustrations/pages/28007.png
+illustrations/pages/28008.png
+illustrations/pages/28009.png
+illustrations/pages/28010.png
+illustrations/pages/28011.png
+illustrations/pages/28012.png
+illustrations/pages/28015.png
+illustrations/pages/28016.png
+illustrations/pages/28001.png
+illustrations/pages/28002.png
+
+translations:
+
+Kiswahili (Translation)	Mti uliosafiri	id=32598

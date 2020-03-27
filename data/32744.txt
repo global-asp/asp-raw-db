@@ -1,0 +1,80 @@
+url:	https://africanstorybook.org/reader.php?id=32744&d=0&a=1
+id:	32744
+title:	Irya mukuru
+author:	Epimaque Niyibizi and Jean Paul Harelimana
+artist:	Rob Owen
+lang:	Kinyarwanda
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32744.png
+desc:	Byagendekeye bite umwana wasuzuguye inama zingirakamaro?
+
+page_text:
+
+P1	Rumiranzovu yari inzoka nini. Yari ituye mu ishyamba rya Rwinzoka.
+P2	Kawera, Keza na Kariza bagiye gutashya. Nyina ababwira ibya Rumiranzovu.
+P3	Bose uko ari batatu bategura ibyo kurya. Urugendo rwari rurerure.
+P4	Kariza arababwira ati: "Duceceke Rumiranzovu ituye hano hafi."
+P5	Keza aravuga ati: "Ndashaka amenyo ya zahabu."
+P6	Keza arongera ati: "Ndashaka gutwara amenyo ya zahabu ya Rumiranzovu."
+P7	Rumiranzovu ije ibura amenyo yayo ishaka guhana uwayibye.
+P8	Abakobwa bumva ijwi rya Rumiranzovu.  Yari  yiteguye kurya uwayibye.
+P9	Rumiranzovu yabahaye ikizamini cyo kuririmba. Yashakaga kumenya  uwayibye.
+P10	Kariza na Kawera batsinda ikizamini. Baririmbye neza cyane.
+P11	Keza ntiyashobora kuririmba neza.  Rumiranzovu ihita imenya uwayibye.
+P12	Rumiranzovu imira Keza. Abahigi bari hafi aho baraza barayica. Bakiza Keza.
+
+images:
+
+illustrations/pages/10763.png
+illustrations/pages/10763.png
+illustrations/pages/10765.png
+illustrations/pages/10766.png
+illustrations/pages/10767.png
+illustrations/pages/10769.png
+illustrations/pages/10770.png
+illustrations/pages/10771.png
+illustrations/pages/10772.png
+illustrations/pages/10773.png
+illustrations/pages/10774.png
+illustrations/pages/10775.png
+
+translations:
+
+Afrikaans (Translation)	Woud van slange	id=20057
+ChiTonga (Translation)	Cisaka Canzoka	id=18645
+CiNyanja (Translation)	Sanga La Njoka	id=18662
+Dhopadhola (Translation)	Lul Thwol	id=15738
+English (Original)	Forest of snakes	id=13265
+English (Adaptation)	The evil forest	id=14414
+English (Adaptation)	Girl who did not listen	id=21789
+French (Translation)	La Forêt Des Serpents	id=13772
+IciBemba (Translation)	Insoka Isha Mumpanga	id=18682
+Igbo (Translation)	Ọhịa agwọagwọ	id=22155
+isiNdebele (Translation)	Ihlathi leenyoka	id=21923
+isiXhosa (Translation)	Ihlathi leenyoka	id=17524
+isiXhosa (Adaptation)	Intombazana eyayinenkani	id=22430
+isiZulu (Translation)	Inyoka yehlathi, uMagilogilo	id=16094
+Kinyarwanda (Translation)	Ishyamba ribamo inzoka	id=17460
+Kinyarwanda (Translation)	Irya mukuru	id=31712
+Kinyarwanda (Adaptation)	Ishyamba ribamo inzoka	id=32714
+Kiswahili (Translation)	Msitu wenye nyoka	id=13309
+Kiswahili (Translation)	Asiyesikia la mkuu	id=21817
+Luganda (Translation)	Omuwala owe mputtu	id=23787
+Lusoga (Translation)	Abaguuna Abasaatu No Ogusoota  Mu Kibira	id=21280
+Lusoga (Translation)	Ekibira kye'Misota	id=22703
+Ng’aturkana (Translation)	Amoni  Ang’Imunio	id=13310
+Ng’aturkana (Adaptation)	Amoni Na Aya Ng'imunio	id=20357
+Olunyala (Translation)	Esichakha Esya Chinjukha	id=13266
+Oluwanga (Translation)	Omutsuru Kwe Tsinzukha	id=13311
+Oluwanga (Translation)	Nandahulira	id=22822
+Portuguese (Translation)	A Floresta De Cobras	id=16581
+Runyankore (Translation)	Ekyishaka kye nzyoka	id=24699
+Sepedi (Translation)	Lešoka la dinoga	id=18996
+Sesotho (South Africa) (Translation)	Moru wa dinoha	id=20026
+Setswana (Translation)	Sekgwa sa dinoga	id=14954
+Setswana (Translation)	Naga Ya Dinoga	id=15462
+SiLozi (Translation)	Linoha Zamwa Mushitu	id=18708
+Siswati (Translation)	Mambakati, inyoka yelihlatsi	id=21519
+Tshivenḓa (Translation)	Ḓaka ḽa dziṋowa	id=18296
+Xitsonga (Translation)	Xihlahla xa tinyoka	id=18880

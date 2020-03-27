@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=33254&d=0&a=1
+id:	33254
+title:	Lulu o kae?
+author:	Mpho  Masipa
+artist:	Clyde  Beech and Nkosingiphile  Mazibuko
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33254.png
+desc:	Lulu o kae le gona ke ka lebaka la eng a utile?
+
+page_text:
+
+P1	"Aowaowa!"
+P2	"Lulu! Ke nako ya go sepela," a realo Mma.
+P3	Lulu o kae? @@O ka tlase ga sofa?
+P4	O ka morago ga garteine?
+P5	Lulu o kae?@@O kgauswi le setofo?
+P6	O ka khapoteng?
+P7	"Lulu! Ke nako ya go sepela. O mo kae?" a realo Mma.
+P8	"Agaa, o mo!"@@"Ga ke nyake go sepeeela!"
+P9	"Re swanetše go sepela," a realo Mma.@@"Efela ke tloga ke rata se!"
+P10	"Ke tloga ke rata se!"
+P11	"Le se."
+P12	"Le se."@@"Le se."
+P13	"Wa bona? O buša dipuku wa kgopela tše dingwe."@@"Iyee!"
+P14	Lulu o kae bjale?
+
+images:
+
+illustrations/pages/27795.png
+illustrations/pages/27796.png
+illustrations/pages/27797.png
+illustrations/pages/27798.png
+illustrations/pages/27799.png
+illustrations/pages/27800.png
+illustrations/pages/27801.png
+illustrations/pages/27802.png
+illustrations/pages/27803.png
+illustrations/pages/27804.png
+illustrations/pages/27805.png
+illustrations/pages/27806.png
+illustrations/pages/27807.png
+illustrations/pages/27808.png
+illustrations/pages/27809.png
+illustrations/pages/27810.png
+illustrations/pages/27811.png
+
+translations:
+
+Afrikaans (Translation)	Waar is Lulu?	id=33255
+English (Original)	Where is Lulu?	id=31988
+English (Adaptation)	What Lulu wanted	id=32041
+Kiswahili (Translation)	Lulu yuko wapi?	id=31998

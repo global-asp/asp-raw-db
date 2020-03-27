@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=33235&d=0&a=1
+id:	33235
+title:	Baba Wathu
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Cinyungwe
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33235.png
+desc:	Uma oração de Jesus em Mateus
+
+page_text:
+
+P1	Baba wathu muli kudzulu!
+P2	Dzina lanu liremekezedwe.
+P3	Umambo bwanu bubwere.
+P4	Kufuna kwanu kucitike padziko la pantsi pano ninga momwe bzimbacitika kudzulu.
+P5	Tipaseni lero cakudya cathu ca ntsiku ino.
+P6	Tirekerereni bzakuphonya bzathu,
+P7	ninga momwe ife timbalekererambo omwe ambatiphonyera.
+P8	Ndipo lekani kutisiya ticigwa mukuyezedwa,
+P9	tsono mutipulumuse kwa bzakuipa.
+P10	Thangwe bwanu ni umambo, mphambvu na mbiri kwakuyenda na kuyenda. Ameni.
+P11	Mateu 6:9-13
+
+images:
+
+illustrations/pages/27330.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Cisena (Translation)	Baba Wathu	id=31887
+Elomwe (Translation)	Nivekelo na Apwiya	id=33236
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=33237
+English (Original)	The Lord's Prayer	id=16246
+Ikisimbëtë (Translation)	Amasabhi agha Omonene	id=24809
+Lingala (Translation)	Tata na Biso	id=22493
+Lusoga (Translation)	Esaala  ya  Katonda	id=27752
+Olunyaneka (Translation)	Tate Yetu	id=31888
+Portuguese (Translation)	Pai Nosso	id=33234

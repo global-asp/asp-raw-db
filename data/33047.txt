@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33047&d=0&a=1
+id:	33047
+title:	I like
+author:	Busisiwe Nombuso
+artist:	Wiehan de Jager
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33047.png
+desc:	The story is about the things that Lulu likes.
+
+page_text:
+
+P1	hello my name is Lulu I like skipping  rope.
+P2	Because it helps me to exercise my body
+P3	I like to share my things.
+P4	I like to read a book.
+P5	I like to have friends.
+P6	I like to wash dishes.
+P7	I like to write.
+P8	I like to eat fruits.
+P9	I like to sleep enough.
+P10	I like the songs my mom sing for me.
+
+images:
+
+illustrations/pages/1492.png
+illustrations/pages/1493.png
+illustrations/pages/1494.png
+illustrations/pages/1495.png
+illustrations/pages/1496.png
+illustrations/pages/1497.png
+illustrations/pages/1498.png
+illustrations/pages/1499.png
+illustrations/pages/1500.png
+illustrations/pages/1501.png
+illustrations/pages/1492.png
+
+translations:
+

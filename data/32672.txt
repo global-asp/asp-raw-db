@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=32672&d=0&a=1
+id:	32672
+title:	Imbali engaboni
+author:	Thulisile Dhlamini
+artist:	Kenneth Boyowa Okitikpi
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32672.png
+desc:	Indaba yentombazanyana eyimpumputhe ethola injabulo ngokuzihambela engadini.
+
+page_text:
+
+P1	UChat wazalwa eyimpumputhe.@@Ubengekaze ababone abazali bakhe, abafowabo kanye nodadewabo ngamehlo. Ubesazi ubuso babo uma ebathinta.
+P2	Ngolunye usuku, uChat wayezihambela engadini.@@Wayelithanda iphunga lezimbali. Wayethanda nokuthinta amagcembe ezimbali.
+P3	UChat wayefisa ukuzibona izimbali noma kukanye nje. "Zinhle kakhulu," ezisholo nje.
+P4	UChat wayezihambela engadini nsuku zonke. Wayeyazi indlela yengadi. @@Namuhla uphakamisela ikhanda  lakhe esibhakabhakeni.
+P5	Esithubeni nje, wezwa ukuduma kwezulu kanye nombani.@@"Angisheshe ngibuyele ekhaya," washo ezicabangela.
+P6	Yaqala imvula yana.@@UChat washelela, walahla ukuzimelela wawa.@@Washaya ngekhanda etsheni.
+P7	Wathi evuka kwakugcwele abantu phambi kwakhe. "Kwenzakaleni?" ebuza.
+P8	"Uwile washaya ngekhanda phansi," kusho ubaba wakhe.@@"Ngiyabonga Nkosi uphilile," kusho umama wakhe.
+P9	"Mama, baba?" kubuza uChat. @@Wabiza amagama odadewabo kanye nabafowabo. "Ngicela ningitholele imbali."@@Bonke babemangele.
+P10	Udadewabo wabuya nayo imbali. UChat wayibamba ngothando. "Yaze yayinhle," esisho.
+P11	Umndeni wakhe wabukana wodwa.@@"Chat, uyayibona lembali?" kubuza umama wakhe.
+P12	UChat wadlala ngayo imbali esandleni sakhe. @@"Nibahle nonke, nifana nalembali," washo emamatheka.
+
+images:
+
+illustrations/pages/26775.png
+illustrations/pages/26773.png
+illustrations/pages/26774.png
+illustrations/pages/26775.png
+illustrations/pages/26776.png
+illustrations/pages/26777.png
+illustrations/pages/26778.png
+illustrations/pages/26779.png
+illustrations/pages/26780.png
+illustrations/pages/26781.png
+illustrations/pages/26782.png
+illustrations/pages/26783.png
+illustrations/pages/26784.png
+
+translations:
+
+English (Translation)	Flower blind	id=23142
+Fulfulde Mbororoore (Translation)	Bumɗo Giɗɗo Pinndi	id=32097
+Hausa (Nigeria) (Original)	Makauniyar yarinya	id=22862
+isiXhosa (Translation)	Intyatyambo engaboniyo	id=24228
+Kinyarwanda (Translation)	Umukobwa utashoboraga kubona indabo	id=32160
+Lusoga (Translation)	Obutabona kimuli	id=23277
+Runyankore (Translation)	Ekyimuli Kyihumire	id=24068

@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33399&d=0&a=1
+id:	33399
+title:	Indzaba yeMlilo
+author:	Mduduzi Benjie Shongwe
+artist:	Rob Owen
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33399.png
+desc:	UMlilo ucoca indzaba yawo. (Loku kutfutfukiswa kwencwadzindzaba yeLibanga 1 kulewebhusayithi lebitwa ngekutsi 
+
+page_text:
+
+P1	Asenginicocele indzaba yami. @@Ngicale ngibe lilangabi lencane.
+P2	Angilawuleki nangabe kuhhusha umoya.
+P3	Mine nawe sibangani labahle.
+P4	Ngipheka kudla kwakho.
+P5	Ngiyakukhanyisela ebusuku.
+P6	Nginemacebo lamanyenti.
+P7	Ngiyincenye yemndeni wakho.
+P8	Kepha caphela nangabe ungimema kutsi ngibe semtini wakho. @@Angitsandzi kushiywa ngedvwana.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+ChiNambya (Translation)	Lungano lomomoto	id=32900
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166
+Rukwangali (Translation)	Esanseko lyoMundiro	id=31484
+Sepedi (Translation)	Kanegelo ya Mollo	id=33460
+Sesotho (South Africa) (Translation)	Pale ya Mollo	id=32768

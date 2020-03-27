@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33720&d=0&a=1
+id:	33720
+title:	Animals we saw
+author:	Penuel  K
+artist:	Penuel  K
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33720.png
+desc:	About a family trip to see animals. (Story and illustrations created at a June 2019 holiday workshop
+
+page_text:
+
+P1	This is my family. @@My uncle, my cousin, my mother, my two sisters (who always dress the same), my brother, and me!
+P2	This is my family on the bus going to see animals. @@On the bus was my aunty, my mother, my brother, my two sisters (who always dress the same), and me!
+P3	We saw animals from the bus.
+P4	We saw a giraffe.
+P5	We saw a springbok.
+P6	We saw a lion.
+P7	We saw an elephant.@@We laughed and laughed at the elephant, because...
+P8	...that elephant pooped in a tree!
+
+images:
+
+illustrations/pages/85940108.png
+illustrations/pages/85940106.png
+illustrations/pages/85940107.png
+illustrations/pages/85940108.png
+illustrations/pages/85940109.png
+illustrations/pages/85940110.png
+illustrations/pages/85940111.png
+illustrations/pages/85940112.png
+illustrations/pages/85940113.png
+
+translations:
+
+French (Translation)	Des animaux que nous avons vus	id=33844
+isiZulu (Translation)	Izilwane esazibona	id=33772
+Kiswahili (Translation)	Wanyama tulioona	id=33725
+Lingala (Translation)	Ba niama oyo tomoni	id=33803
+Lulogoli  (Translation)	Zinyama zia kwarora	id=33728
+Sesotho (South Africa) (Translation)	Diphoofolo tseo re di boneng	id=33788

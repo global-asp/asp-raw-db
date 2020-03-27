@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33774&d=0&a=1
+id:	33774
+title:	Bonke baya eMalawi
+author:	Zanele Zuma
+artist:	Jacquiline  K
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33774.png
+desc:	Ngabe kukhona ozosala nombhali wale ncwadi osemncane? (Indaba nemifanekiso kwaqanjwa engqungqutheleni yokufundisana eyayigqugquzelwe abasebenzi bezengqondo baseSophiatown eGoli ngamaholide kaJuni 2019).
+
+page_text:
+
+P1	Sasihlala nogogo nomama.
+P2	Abazala bami oChristina, uThandi, uJunior nomalumekazi babehlala nathi.
+P3	Ugogo wayesifundisa imidlalo.@@Kwakumnandi kakhulu.
+P4	UJunior nogogo bahamba bayohlala eMalawi.
+P5	Umalumekazi noChristina nabo bahamba bayohlala eMalawi.
+P6	Kwalandela uThandi naye wayohlala eMalawi.
+P7	Kwakudabukisa kakhulu lokhu.@@Akekho owazosala nathi.
+P8	Kodwa akukubi kakhulu, ngoba umama ngisahlala naye lapha.
+
+images:
+
+illustrations/pages/91400121.png
+illustrations/pages/91400117.png
+illustrations/pages/91400118.png
+illustrations/pages/91400119.png
+illustrations/pages/91400120.png
+illustrations/pages/91400121.png
+illustrations/pages/91400122.png
+illustrations/pages/91400123.png
+illustrations/pages/91400124.png
+
+translations:
+
+English (Original)	Everyone goes to Malawi	id=33735
+French (Translation)	Tout le monde va au Malawi	id=33843
+Kiswahili (Translation)	Kila mmoja anakwenda Malawi	id=33757
+Lingala (Translation)	Batu nionso bakokende Malawi	id=33805
+Sesotho (South Africa) (Translation)	Batho bohle ba ya Malawi	id=33790

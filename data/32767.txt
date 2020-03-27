@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=32767&d=0&a=1
+id:	32767
+title:	Alake o rata baeti
+author:	Lucia Ntulanyane
+artist:	Rasheedat Sadiq and Wiehan de Jager
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32767.png
+desc:	Alake ke ngwanana ya ratehang ya ratang ho etelwa ebile o tseba ho etsa hore baeti ba ikutlwe ba amohelehile.
+
+page_text:
+
+P1	Kokoko, kokoko!@@Ho utlwahala modumo monyakong wa ka Pele.
+P2	Alake o thabile haholo.@@"Ke mang ya kokotang?" o a botsa.@@"Mme, re na le moeti!"
+P3	"Holokile," ho araba mmae. @@"E ka nna ya eba ke Mofumahadi Hassan. Ke kopa o mmulele."
+P4	Alake o bula monyako ka pososelo. @@"Ke a o amohela mme, ke kopa o kene. Mme waka o sa le ka kamoreng, ke tla mmitsa."@@Mofumahadi Hassan o a bososela le yena.
+P5	"Na nka o tlisetsa sa honwa?" ho botsa Alake.@@"Ee! ebile ke nyoruwe haholo," ho araba Mofumahadi Hassan.
+P6	"Dumela, Mofumahadi Hassan," ho bua mme wa Alake. "Tshwarelo ka ho o emisa sebakanyana."@@"Tjhe! se tshwenyehe, motswalle, Alake o ntse a ontlhokometse."
+P7	Mme wa Alake a bososela.@@"Ee! Alake ke kgosatsana e hlwahlwa e tsebang ho amohela baeti," MmaAlake o bolella Mofumahadi Hassan.
+
+images:
+
+illustrations/pages/26908.png
+illustrations/pages/27079.png
+illustrations/pages/27080.png
+illustrations/pages/27081.png
+illustrations/pages/27082.png
+illustrations/pages/27083.png
+illustrations/pages/27084.png
+illustrations/pages/27085.png
+illustrations/pages/27086.png
+
+translations:
+
+Ateso (Translation)	Emina Alake ipejok	id=23219
+ChiShona (Translation)	Ruvarashe anofarira vayenzi	id=23853
+English (Original)	Alake loves Visitors	id=23165
+English (Adaptation)	Alake loves visitors	id=23465
+Lusoga (Translation)	Alake ayenda abageni	id=23192
+Rukiga (Translation)	ALEKE NAKUNDA ABAGYENYI	id=23492
+Runyankore (Translation)	Alake nakuunda abagyenyi	id=23991

@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33737&d=0&a=1
+id:	33737
+title:	Hide and Seek
+author:	Mary  Z
+artist:	Mary  Z
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33737.png
+desc:	The delight of not being found when youre playing the game
+
+page_text:
+
+P1	"Let's play Hide and Seek," said my brother to me.
+P2	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12…@@…92, 93, 94, 95, 96, 100!
+P3	My brother was coming.@ @I was hiding behind the curtain.
+P4	He looked for me all over the house.
+P5	He came into the room where I was hiding.
+P6	I was very still. @@I was thinking, "He will find me."
+P7	Then, he went outside!
+P8	I ran out.@@I shouted, "You didn't find me!"
+
+images:
+
+illustrations/pages/91400133.png
+illustrations/pages/91400137.png
+illustrations/pages/91400133.png
+illustrations/pages/91400134.png
+illustrations/pages/91400135.png
+illustrations/pages/91400136.png
+illustrations/pages/91400132.png
+
+translations:
+
+French (Translation)	Cache - Cache	id=33851
+isiZulu (Translation)	Sidlala umacashelana	id=33776
+Kiswahili (Translation)	Kucheza Kidalipo	id=33838
+Lingala (Translation)	Kobatama pe komona	id=33807
+Sesotho (South Africa) (Translation)	Boleke maipatile	id=33792

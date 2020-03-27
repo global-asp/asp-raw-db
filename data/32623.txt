@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=32623&d=0&a=1
+id:	32623
+title:	Mutesi Intangarugero
+author:	Patrick  Munyurangabo
+artist:	Vusi Malindi
+lang:	Kinyarwanda
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32623.png
+desc:	Mutesi ni umukobwa wintangarugero mu rugo iwabo ndetse no ku ishuri aho yiga ahorana umurava.
+
+page_text:
+
+P1	Murumuna wange aryama atinze cyane. Mbyuka kare, kubera ko ndi umunyamurava!
+P2	Ni ngewe ufungura imiryango y'inzu bwa mbere.
+P3	Mama arambwira ati: "Uri inyenyeri y'igitondo."
+P4	Ndiyoza, nta bufasha na buke nkenera.
+P5	Nshobora kwihanganira amazi akonje n'isabune y'ubururu yo kumesa.
+P6	Mama anyibutsa koza amenyo buri gitondo @@Nkamusubiza nti: "Sinshobora kubyibagirwa!"
+P7	Nyuma yo koga, nsuhuza sogokuru na masenge, nkanabifuriza umunsi mwiza.
+P8	Hanyuma nkiyambika, nkabwira mama nti: "Ndi munini, narakuze ubu."
+P9	Nshobora gufunga ibipesu nkanafunga inkweto zange.
+P10	Nkora uko nshoboye ngo musaza wange muto amenye amakuru yose yo ku ishuri.
+P11	Mu ishuri mparanira kuba intangarugero muri byose.
+P12	Nkora ibi bintu byiza byose buri munsi. @@Sinjya ntezuka gukora ibyiza. Ariko ikintu nkunda cyane ni ugukina.
+
+images:
+
+illustrations/pages/7514.png
+illustrations/pages/7513.png
+illustrations/pages/7514.png
+illustrations/pages/7517.png
+illustrations/pages/7507.png
+illustrations/pages/7515.png
+illustrations/pages/7518.png
+illustrations/pages/7516.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+illustrations/pages/7509.png
+
+translations:
+
+Arabic (Translation)	زاما المميز!	id=21847
+ChiTonga (Translation)	Zama Mukali	id=32865
+CiNyanja (Translation)	Zama Niwopambana	id=32846
+English (Adaptation)	Zama is great!	id=9984
+English (Adaptation)	(Colour-in) Zama is great!	id=32519
+French (Translation)	Zama est formidable!	id=33692
+IciBemba (Translation)	Zama Umwana Musuma!	id=32844
+Khoekhoegowab (Translation)	Zamab ge a kai	id=24656
+Kiswahili (Translation)	Dama ni mashuhuri!	id=22086
+Lusoga (Translation)	Juma wa Maani!	id=25917
+Lusoga (Translation)	Mbwali mubitirivu	id=25945
+Oshikwanyama (Translation)	Zama omunandjungu	id=24129
+Oshindonga (Translation)	Zama omwa nawa	id=23885
+Otjiherero (Translation)	Zama omusemba	id=24171
+Otuho (Translation)	Ara Zama anitok!	id=33108
+Rukwangali (Translation)	Zama Ependa!	id=31489
+Sepedi (Translation)	Maleka ke sekgwari!	id=32457
+Sesotho (South Africa) (Translation)	Zama o etsa hantle	id=32411
+Siswati (Translation)	Zama ungumcemane!	id=32443

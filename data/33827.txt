@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=33827&d=0&a=1
+id:	33827
+title:	Nyumba ya Luwo
+author:	Little Zebra Books
+artist:	Jacob  Matthess
+lang:	Cinyanja (Mozambique)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33827.png
+desc:	Onde fica a casa de Luwo? Um Livro de Zebra Pequena.
+
+page_text:
+
+P1	Luwo anapita ku tchalitchi ndi mayi ake. @@Iye anali atagwidwa dzanja mu njira.
+P2	Mkati mwa tchalitchi munali anthu ambiri omwe anasonkhana. @@Iwo anali kuyimba.
+P3	Luwo anachoka m'tchalitchi.@@Ndipo mayi ake sadamuone iye.
+P4	Luwo anaima panjira.@@Iye anayang'ana pansi nadzifunsa kuti, "Kodi nyumba yathu ili kuti?"
+P5	Kotero iye ankatsatira njira.@@Iye adaona nyumba yaikulu, ndipo iye anati, "Ayi, sinyumba yathu, nyumba yathu ndi yaing'ono."
+P6	Luwo anayenda pang'ono. Iye anaona nyumba pa nsanja. @@Iye anati, "Ayi, iyo sinyumba yathu. Nyumba yathu siili pa nsanja."
+P7	Iye adapitiliza kuyenda. Iye anaona nyumba ya udzu. @@Ndipo iye anati, "Ayi, iyo sinyumba yathu. Nyumba yathu ili ndi makoma amatope."
+P8	Luwo anapita patsogolo. Anaona nyumba yaing'ono ndi mtengo wa mango kunja.@@Ndipo iye anati, "Ayi, sinyumba yathu. Nyumba yathu ili ndi mitengo iwiri ya mango panja."
+P9	Pamapeto pake Luwo anaona mayi ake akubwera kwa iye. Luwo anathamangira kwa mayi ake. @@Ndipo mayi ake anati, "Tiye kunyumba kwathu!"
+P10	Kodi nyumba ya Luwo ndi iti?
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+English (Original)	Luwo's House	id=32346
+French (Translation)	La maison de Luwo	id=33378
+Portuguese (Translation)	A Casa de Luwo	id=32379

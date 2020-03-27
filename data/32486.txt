@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=32486&d=0&a=1
+id:	32486
+title:	(Colour-in) Tom the banana seller
+author:	Ingrid Schechter
+artist:	Atilabachew Reda
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32486.png
+desc:	A man goes against community norms and brings his bananas to sell at the market.
+
+page_text:
+
+P1	Tom carries a tray of ripe bananas.
+P2	Tom goes to the market to sell bananas.
+P3	People at the market are buying fruit.
+P4	But no one is buying Tom's bananas. They prefer to buy fruit from women.
+P5	"In our community,  only women sell fruit," people say. "What kind of a man is this?" people ask.
+P6	But Tom does not give up. He calls,  "Buy my bananas! Buy my sweet ripe bananas!"
+P7	One woman picks up a bunch of bananas from the tray. She looks at the bananas carefully.
+P8	The woman buys the bananas.
+P9	More people come to the stall. They buy Tom's bananas and eat them.
+P10	Soon,  the tray is empty. Tom counts the money he earned.
+P11	Then Tom buys soap,  sugar,  and bread. He puts the things in his tray.
+P12	Tom balances the tray on his head and goes home.
+
+images:
+
+illustrations/pages/13460.png
+illustrations/pages/28343.png
+illustrations/pages/28364.png
+illustrations/pages/28345.png
+illustrations/pages/28346.png
+illustrations/pages/28347.png
+illustrations/pages/28348.png
+illustrations/pages/28349.png
+illustrations/pages/28350.png
+illustrations/pages/28351.png
+illustrations/pages/28352.png
+illustrations/pages/28353.png
+illustrations/pages/28354.png
+
+translations:
+
+0 (Translation)	Themba umtsengisi wabhanana	id=16440
+Arabic (Translation)	توم، بائع الموز	id=21874
+English (Original)	Tom the banana seller	id=13627
+isiXhosa (Translation)	UTom, umthengisi webhanana	id=15024
+Kinyarwanda (Translation)	Tomasi umucuruzi w'imineke	id=32612
+Luganda (Translation)	Tomu omutunzi w'amenvu	id=22354
+Lunyole (Translation)	Tom Omutundi W'amalafu	id=13702
+Lusoga (Translation)	Toomu omutunzi gha amenvu	id=27462
+Portuguese (Translation)	Tom, O Vendedor De Bananas	id=19216

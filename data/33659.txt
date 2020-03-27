@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33659&d=0&a=1
+id:	33659
+title:	Familia ya Maria
+author:	Ursula  Nafula
+artist:	Leo Daly and Magriet Brink
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33659.png
+desc:	Kutana na Maria na familia yake katika hadithi hii rahisi.
+
+page_text:
+
+P1	Huyu ni Maria.
+P2	Huyu ni mama yake.
+P3	Huyu ni mtoto wao.
+P4	Huyu ni baba yake.
+P5	Huyu ni kaka yake.
+P6	Huyu ni dada yake.
+P7	Huyu ni bibi yake.
+P8	Huyu ni babu yake.
+P9	Huyu ni mjomba wake.
+P10	Huyu ni shangazi yake.
+P11	Hii ni familia ya Maria.
+
+images:
+
+illustrations/pages/85590188.png
+illustrations/pages/85590178.png
+illustrations/pages/85590179.png
+illustrations/pages/85590180.png
+illustrations/pages/85590181.png
+illustrations/pages/85590182.png
+illustrations/pages/85590183.png
+illustrations/pages/85590184.png
+illustrations/pages/85590185.png
+illustrations/pages/85590186.png
+illustrations/pages/85590187.png
+illustrations/pages/85590188.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Banja la Maria	id=33828
+Cinyungwe (Translation)	Wadzindza wa Mboyi	id=33829
+Echuwabo (Translation)	Ana Amudhi a Mariya	id=33830
+English (Original)	Maria's Family	id=33152
+isiXhosa (Translation)	Usapho luka Thembi	id=33539
+Portuguese (Translation)	A Minha Família	id=33538

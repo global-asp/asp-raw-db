@@ -1,0 +1,93 @@
+url:	https://africanstorybook.org/reader.php?id=33825&d=0&a=1
+id:	33825
+title:	Tidyeni!
+author:	Little Zebra Books
+artist:	Sue  Beattie
+lang:	Cinyungwe
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33825.png
+desc:	Aprenda os nomes dos alimentos comuns neste livro.
+
+page_text:
+
+P1	Mphiripiri
+P2	Rapodyo
+P3	Kabenjere
+P4	Erevidya
+P5	Pesegu
+P6	Mafigu
+P7	Murangu
+P8	Bvembe
+P9	Marakujaa
+P10	Mikowe
+P11	Pimenta
+P12	Therere
+P13	Alufasi
+P14	Cimanga
+P15	Birinjera
+P16	Tomati
+P17	Senora
+P18	Nanazi
+P19	Papaya
+P20	Pera
+P21	Manga
+P22	Masaa
+P23	Magoyava
+P24	Bambaira
+P25	Gengibre
+P26	Yadyo
+P27	Ntsabola
+P28	Mbatata
+P29	Malalanja
+P30	Ndimu
+P31	Beteraba
+P32	Tanjerina
+P33	Nthudza
+P34	Uva
+
+images:
+
+illustrations/pages/28182.png
+illustrations/pages/28112.png
+illustrations/pages/28131.png
+illustrations/pages/28109.png
+illustrations/pages/28114.png
+illustrations/pages/28115.png
+illustrations/pages/28135.png
+illustrations/pages/28106.png
+illustrations/pages/28101.png
+illustrations/pages/28116.png
+illustrations/pages/28124.png
+illustrations/pages/28134.png
+illustrations/pages/28119.png
+illustrations/pages/28193.png
+illustrations/pages/28128.png
+illustrations/pages/28137.png
+illustrations/pages/28103.png
+illustrations/pages/28130.png
+illustrations/pages/28111.png
+illustrations/pages/28117.png
+illustrations/pages/28136.png
+illustrations/pages/28120.png
+illustrations/pages/28138.png
+illustrations/pages/28123.png
+illustrations/pages/28105.png
+illustrations/pages/28126.png
+illustrations/pages/28192.png
+illustrations/pages/28108.png
+illustrations/pages/28110.png
+illustrations/pages/28118.png
+illustrations/pages/28122.png
+illustrations/pages/28107.png
+illustrations/pages/28104.png
+illustrations/pages/28129.png
+illustrations/pages/28125.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Tiyeni tidye!	id=33824
+English (Original)	Fruits and Vegetables	id=32358
+English (Adaptation)	One fruit, two fruits	id=32403
+Kiswahili (Translation)	Tunda moja, matunda mawili	id=32597
+Portuguese (Translation)	Vamos comer!	id=33174

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33506&d=0&a=1
+id:	33506
+title:	Ayu mpaka jwangu kaakuu?
+author:	Granton  Idyema
+artist:	Bronwen Heath
+lang:	Pokomo
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/33506.png
+desc:	Huyu mpaka jwangu kaara. Udzamuona huyu mpaka jwangu bfade fonse?
+
+page_text:
+
+P1	Ayu mpaka jwangu kaa kuu?
+P2	Ambu kaa nsii ya hiki ntanda?
+P3	Ambu kaa dzuu ya hiḍi kabat̯i?
+P4	Ambu kaa nyuma ya hi kiti?
+P5	Ambu kaa hiḍanda ya hiḍi simo dya ntaka?
+P6	Ambu kaa kuzimu ya hiki kapfu?
+P7	Ambu kaa nze ya hi nyumba?
+P8	Huyu hapfa!
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+ChiNambya (Translation)	Kayipi kangowe kangu?	id=32629
+English (Original)	Where is my cat?	id=32620
+Kinyarwanda (Translation)	Ipusi yange iri hehe?	id=32621
+Kiswahili (Translation)	Wapi paka wangu?	id=32636
+Yoruba (Translation)	Níbo ní ológbò mi wà?	id=33126

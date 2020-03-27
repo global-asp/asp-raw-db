@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33460&d=0&a=1
+id:	33460
+title:	Kanegelo ya Mollo
+author:	Dikeledi Queen Shai
+artist:	Rob Owen
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33460.png
+desc:	Mollo o anega ka ditaba tša wona. (Kanegelo ye e fetošitšwe go tšwa go pukukanegelo ya Legato la 1 mo go website yona ye
+
+page_text:
+
+P1	E re ke go anegele ka nna. Ke thoma ke le hlase ye nnyane.
+P2	Ke kitima bjale ka phoofolo ge ke rwalwa ke moya.
+P3	Re bakgotse ba ba botse nna le wena.
+P4	Ke go apeela dijo.
+P5	Ke seetša sa gago leswiswing.
+P6	Ke na le mathaithai a mantši.
+P7	Ke karolo ya lapa la gago.
+P8	Efela o hlokomele ge o ntaletša ka gae ga geno. Ga ke rate go tlogelwa ke nnoši.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+ChiNambya (Translation)	Lungano lomomoto	id=32900
+English (Adaptation)	Fire's story	id=9296
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166
+Rukwangali (Translation)	Esanseko lyoMundiro	id=31484
+Sesotho (South Africa) (Translation)	Pale ya Mollo	id=32768
+Siswati (Translation)	Indzaba yeMlilo	id=33399

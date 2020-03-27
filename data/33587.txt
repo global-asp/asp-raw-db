@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=33587&d=0&a=1
+id:	33587
+title:	What Are They Doing?
+author:	Little Zebra Books
+artist:	N D Mazin
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33587.png
+desc:	A first words book about children playing.
+
+page_text:
+
+P1	Driving
+P2	Throwing and catching
+P3	Rolling
+P4	Running and chasing
+P5	Spinning
+P6	Jumping and twirling
+P7	Kicking
+P8	Playing and watching
+P9	Carrying
+P10	Dancing
+
+images:
+
+illustrations/pages/85590141.png
+illustrations/pages/85590151.png
+illustrations/pages/85590154.png
+illustrations/pages/85590147.png
+illustrations/pages/85590153.png
+illustrations/pages/85590155.png
+illustrations/pages/85590144.png
+illustrations/pages/85590157.png
+illustrations/pages/85590152.png
+illustrations/pages/85590159.png
+illustrations/pages/85590158.png
+illustrations/pages/85590138.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Akutani?	id=33831
+Cinyungwe (Translation)	Alikucita ciyani?	id=33832
+Kiswahili (Translation)	Je, Wanafanya Nini?	id=33606
+Portuguese (Translation)	O Que Estão Fazendo?	id=33593

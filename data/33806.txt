@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33806&d=0&a=1
+id:	33806
+title:	Bilanga na Congo
+author:	Theresa  Nyemba
+artist:	Christelle  X
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33806.png
+desc:	Po etali ndako na bilanga mokomi buku elenge oyo akomi tango nalongwaki Congo. (Lisapo oyo esalemaki na sanza ya motoba na mobu tuku mubale na zomii na libwa na tango ya bopemi
+
+page_text:
+
+P1	Ndako oyo ezali na Congo.@@Nalingi ndako yango.
+P2	Tozalaki na ba zongo ya biso moko.@@Tozalaki na esika ya kosukola ya biso moko.
+P3	Tozalakii na bilanga.@@Nazalaki kolona ngai moko na bilanga.
+P4	Mama na ngai alobi, "Mama na ngai alakisaki ngai, nazali kotangisa yo."
+P5	Nalonaki tomato na ndunda ya epiinard, ngai moko.
+P6	Nakomemela mama na ngai tomato nde ye akoloba, "Botondi."
+P7	Tolongwaki na ndako yango.
+P8	Awa na Africa ya Sudi tozali na bilanga te.
+
+images:
+
+illustrations/pages/91400127.png
+illustrations/pages/91400125.png
+illustrations/pages/91400126.png
+illustrations/pages/91400127.png
+illustrations/pages/91400128.png
+illustrations/pages/91400129.png
+illustrations/pages/91400130.png
+illustrations/pages/91400131.png
+
+translations:
+
+English (Original)	A garden in Congo	id=33736
+French (Translation)	Jardin au Congo	id=33850
+French (Translation)	Un jardin au Congo	id=33866
+isiZulu (Translation)	Ingadi esayishiya eCongo	id=33775
+Kiswahili (Translation)	Bustani yetu kule Kongo	id=33837
+Sesotho (South Africa) (Translation)	Tshimo e Congo	id=33791

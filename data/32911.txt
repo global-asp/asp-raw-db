@@ -1,0 +1,68 @@
+url:	https://africanstorybook.org/reader.php?id=32911&d=0&a=1
+id:	32911
+title:	Segwagwa le noga
+author:	Lizzy  Marema
+artist:	Rob Owen
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32911.png
+desc:	Ga re swane eupša re swanetše go kwišišana.
+
+page_text:
+
+P1	Segwagwa le noga ke bagwera.
+P2	Segwagwa sa re, "A re ye go etela mma."
+P3	Gwa realo noga. @@"Ke mang yo a tlogo hlokomela magae a rena?"
+P4	"Ke tla hlokomela magae a lena," gwa realo tšhwene.
+P5	Segwagwa sa tšhela ditšhošwane tše tšhweu ka lesakaneng go yo fa mmagwe.
+P6	Segwagwa le noga tša tloga e sa le mesong. Tša leba sekgweng.
+P7	Tša gahlana le sehlopha sa dihlong. @@Noga e tšhogile.
+P8	Segwagwa se šireletša mogwera wa sona.
+P9	Di swerwe ke tlala ge di fihla ntlong ya mmago segwagwa.
+P10	Tša hlapa diatla go itokišetša go ja.
+P11	Noga ya leka go dula gabotse, fela ga se yona swgwagwa.
+P12	Ga ke kgone go dula gabotse bjalo ka segwagwa, gwa realo noga.
+P13	"Ga ke kgone go dula bjale ka segwagwa," gwa realo noga.
+P14	Segwagwa sa se theeletše.
+P15	"Ga o nkwešiše. Nna ke ya gae."
+P16	Noga e befetšwe. "Ke be ke nagana gore segwagwa ke mogwera."
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog and Snake	id=19762
+isiZulu (Translation)	UXoxo noNyoka	id=20718
+Kῖmῖῖrũ  (Translation)	Kῖũra na Njoka	id=32816
+Kinyarwanda (Translation)	Inzoka n' Igikeri	id=20763
+Kinyarwanda (Translation)	Igikeri n'inzoka	id=22007
+Kiswahili (Translation)	Chura na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere ni Wamusota	id=20398
+Lusoga (Translation)	Omukwano gwa Wakalenga ni Wamusota	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Oluwanga (Translation)	Lishere nende Inzukha	id=22755
+Rutooro (Translation)	Kikere na Njoka	id=23231
+Setswana (Translation)	Segwagwa Le Noga	id=21160

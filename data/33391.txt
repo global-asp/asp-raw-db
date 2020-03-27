@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33391&d=0&a=1
+id:	33391
+title:	Le cabri qui danse
+author:	Zanne Viljoen
+artist:	José Nhambo
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33391.png
+desc:	Un cabri rencontre un loup dans la forêt. Que se passe-t-il ensuite ?
+
+page_text:
+
+P1	Un jour, un cabri est sorti dans la forêt et s'est promené joyeusement. Mais après il s'est perdu !
+P2	Soudain, il a rencontré un loup ! Le loup s'est approché de lui et lui a dit : "J'ai très faim."
+P3	Le cabri a répondu : "Monsieur le Loup, je sais que vous voulez me manger. Mais j'aimerais mourir heureux !"
+P4	Le loup a demandé au cabri : "Que voulez-vous dire ? Mourir heureux ? Comment ?"
+P5	Le cabri a répondu : "Si je dois mourir, j'aimerais mourir en dansant !"
+P6	Alors le loup a pris sa guitare. Il s'est assis et s'est mis à jouer.
+P7	Le cabri a commencé à danser, mais il était encore un peu anxieux.
+P8	Il y avait des chiens tout près. Ils sont venus voir ce qui se passait.
+P9	Le loup avait peur des chiens. Alors, il s'est enfui !
+P10	Le cabri continuait à danser, parce que maintenant il était sauvé du loup !
+
+images:
+
+illustrations/pages/8395.png
+illustrations/pages/8380.png
+illustrations/pages/8381.png
+illustrations/pages/8383.png
+illustrations/pages/8385.png
+illustrations/pages/8387.png
+illustrations/pages/8388.png
+illustrations/pages/8389.png
+illustrations/pages/8390.png
+illustrations/pages/8391.png
+illustrations/pages/8395.png
+
+translations:
+
+Afrikaans (Translation)	Die dansende boerbok	id=11243
+English (Original)	The dancing goat	id=8392
+Lumasaaba (Translation)	Imbusi Ishina	id=11899
+Lusoga (Translation)	Wambuzi  akina	id=27751
+Ng’aturkana (Translation)	Akine Nakedong'an	id=18072
+Portuguese (Translation)	A Dança Do Cabrito	id=8471
+Portuguese (Translation)	A Cabra Dançarina	id=18888
+Siswati (Translation)	Imbuti ledansako	id=14808

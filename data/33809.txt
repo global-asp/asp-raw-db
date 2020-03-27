@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=33809&d=0&a=1
+id:	33809
+title:	Josias akei kosomba biloko
+author:	Theresa  Nyemba
+artist:	Josias  M
+lang:	Lingala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33809.png
+desc:	Esengo ya komela masanga ya sukali ya malili na mokolo ya mulungwe. (Lisapo oyo esalemaki na sanza ya motoba ya mobu tuku mibale na zomi na libwa na tango ya bopemi
+
+page_text:
+
+P1	Ezali na esika moko pebeni na ndako na biso.
+P2	Nkolo na yango azali mobali ya kokonda na mongongo ya muke.
+P3	Nakei na frigo.@@Nakei kozwa masanga ya sukali ya malili strawberry Kingsley.
+P4	Napesi mobali ya kokonda bongo na ngai.
+P5	Then, I open my strawberry Kingsley and drink.
+P6	Masanga ya sukali ya malili ezali penza kitoko.
+
+images:
+
+illustrations/pages/91400148.png
+illustrations/pages/91400146.png
+illustrations/pages/91400147.png
+illustrations/pages/91400148.png
+illustrations/pages/91400149.png
+illustrations/pages/91400150.png
+
+translations:
+
+English (Original)	Josias goes shopping	id=33739
+French (Translation)	Josias fait les courses	id=33856
+isiZulu (Translation)	UJosias uya esitolo	id=33778
+Kiswahili (Translation)	Josia ananunua kinywaji	id=33840
+Sesotho (South Africa) (Translation)	Kopano o ya mabenkeleng	id=33794

@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=33411&d=0&a=1
+id:	33411
+title:	(À colorier) Deux
+author:	Zanne Viljoen
+artist:	Richard MacIntosh
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/33411.png
+desc:	Phrases simples sur des choses en paires ou à deux - mains
+
+page_text:
+
+P1	Deux petites mains pour tenir.
+P2	Deux petits pieds pour botter.
+P3	Deux petits yeux pour voir.
+P4	Deux petites oreilles pour écouter.
+P5	Et deux bras tendres pour se faire un CÂLIN !
+P6	Oui, et deux bras tendres pour se faire un CÂLIN !
+
+images:
+
+illustrations/pages/3062.png
+illustrations/pages/28311.png
+illustrations/pages/28312.png
+illustrations/pages/28313.png
+illustrations/pages/28314.png
+illustrations/pages/28315.png
+illustrations/pages/28316.png
+illustrations/pages/28317.png
+illustrations/pages/28318.png
+illustrations/pages/28319.png
+illustrations/pages/28377.png
+
+translations:
+
+Arabic (Translation)	اثنان	id=19920
+English (Original)	Two	id=3072
+English (Adaptation)	(Colour-in) Two	id=32478
+Gikuyu (Translation)	Igĩrĩ	id=9676
+isiXhosa (Translation)	Ezimbini	id=32724
+isiZulu (Translation)	Imibala emibili	id=32737
+isiZulu (Translation)	Kubili	id=32755
+Kinyarwanda (Translation)	Kabiri	id=32613
+Kiswahili (Translation)	Mbili	id=3101
+Ng’aturkana (Translation)	Ng'arei	id=9543
+Yoruba (Translation)	Méjì (Ìwé-Ìtàn tí ẹ lé fi àwọ̀ sí)	id=33117

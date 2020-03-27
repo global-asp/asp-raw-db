@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33791&d=0&a=1
+id:	33791
+title:	Tshimo e Congo
+author:	Maria Vaz
+artist:	Christelle  X
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33791.png
+desc:	Pale ena e ka ha ntlo le tshimo eo mongodi enwa ya motjha dilemong a ile a tlameha ho e siya ha habo Congo. (Pale le ditshwantsho di qapuwe ke mokgatlo wa Sophiatown Community Psychological Services
+
+page_text:
+
+P1	Ntlo yeso e naheng ya Congo. @@Ke e rata haholo.
+P2	Re ne re ena le ntlwana ya rona. @@Re ne re ena le kamore ya rona  ho tola.
+P3	Re ne re ena le tshimo.@@Ke ne jala tsimong eo ke iketseditseng yona.
+P4	Mme are ho nna, "Mme wa ka o nthutile ho jala, mme jwale le nna ke ruta wena."
+P5	Ke ile ka jala ditamati le moroho. @@Ke entse mosebetsi ona ke le mong.
+P6	Ke ne ke isetsa mme ditamati mme yena a re, "Ke a leboha."
+P7	Re ile ra falla ntlong eo.
+P8	Ha re na tshimo mona Afrika Borwa.
+
+images:
+
+illustrations/pages/91400127.png
+illustrations/pages/91400125.png
+illustrations/pages/91400126.png
+illustrations/pages/91400127.png
+illustrations/pages/91400128.png
+illustrations/pages/91400129.png
+illustrations/pages/91400130.png
+illustrations/pages/91400131.png
+
+translations:
+
+English (Original)	A garden in Congo	id=33736
+French (Translation)	Jardin au Congo	id=33850
+French (Translation)	Un jardin au Congo	id=33866
+isiZulu (Translation)	Ingadi esayishiya eCongo	id=33775
+Kiswahili (Translation)	Bustani yetu kule Kongo	id=33837
+Lingala (Translation)	Bilanga na Congo	id=33806

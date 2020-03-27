@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=33144&d=0&a=1
+id:	33144
+title:	Everyone is Different
+author:	Little Zebra Books
+artist:	N D Mazin
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33144.png
+desc:	Learn some basic descriptive words about people with this easy reader book.
+
+page_text:
+
+P1	Man
+P2	Woman
+P3	Slow
+P4	Fast
+P5	Tall
+P6	Short
+P7	Thin
+P8	Fat
+P9	Young
+P10	Old
+
+images:
+
+illustrations/pages/85590127.png
+illustrations/pages/85590130.png
+illustrations/pages/85590136.png
+illustrations/pages/85590133.png
+illustrations/pages/85590128.png
+illustrations/pages/85590134.png
+illustrations/pages/85590132.png
+illustrations/pages/85590135.png
+illustrations/pages/85590129.png
+illustrations/pages/85590137.png
+illustrations/pages/85590131.png
+illustrations/pages/85590127.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Tonse ndife osiyana	id=33823
+Cinyungwe (Translation)	Wentse mbakusiyana	id=33822
+Kiswahili (Translation)	Kila Mmoja ni Tofauti	id=33660
+Portuguese (Translation)	Somos Todos Diferentes	id=33540

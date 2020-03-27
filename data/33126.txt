@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33126&d=0&a=1
+id:	33126
+title:	Níbo ní ológbò mi wà?
+author:	Eniìtàn  Àrágbayé
+artist:	Bronwen Heath
+lang:	Yoruba
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/33126.png
+desc:	Ológbò mi ti pòórá. Ṣé o rí ológbò mi níbikan?
+
+page_text:
+
+P1	Níbo ní ológbò mi wà?
+P2	Ṣé o wà lábẹ́ ibùsùn?
+P3	Ṣé o wà lórí kọ́bọ́ọ̀dù?
+P4	Ṣé o wà lẹ́hìn àga ìrọ̀gbọ̀kú?
+P5	Ṣé o wà lẹ́gbẹ̀ẹ́ abọ́o pàntí?
+P6	Ṣé o wà nínú agbọ̀n?
+P7	Ṣé o wà níwájú ilé?
+P8	Ibí ló wà!
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+ChiNambya (Translation)	Kayipi kangowe kangu?	id=32629
+English (Original)	Where is my cat?	id=32620
+Kinyarwanda (Translation)	Ipusi yange iri hehe?	id=32621
+Kiswahili (Translation)	Wapi paka wangu?	id=32636
+Pokomo (Translation)	Ayu mpaka jwangu kaakuu?	id=33506

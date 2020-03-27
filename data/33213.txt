@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=33213&d=0&a=1
+id:	33213
+title:	Mayowaala
+author:	Little Zebra Books
+artist:	Tamsin  Hinrichsen
+lang:	Imeetto
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33213.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 8:5-15@@Yesu ahaahimyacera nna nlikanihero nna eeraka:@@Mayowaala ahorwaa umwaca ipyo awe.
+P2	Amwacakoono, ipyo ikina yahomorela nceresere iphiro ni yahonyakelaciya, ni yaholyaaca asaanuni.
+P3	Ipyo ikina yahomorela wamakhorokoconi ni umelawaya yahooma, nlattu wo makhorokoco.
+P4	Ikina iyo yahomorela wamiiwani, ni yahonnuwa wamoca ni miiwa nnye, mpaka umiiriya.
+P5	Ikina iyo yahomorela nipuro niri itthaya yomaana; ni umela waya yaheema wo khula ipyo mihokorokho iminya.@@Wuulumaca wawe commo, ahokhuwela eeraka: Ule rina manyaru owiiwa, eeweke.
+P6	Eetthuci awe yahonkoha, yiiraka: Nlikaniheroni nenna?@@Yesu ahaakhula eeraka: Nyu nhovahiya ucuwela isiiri coomwene wa Nluku, nanso akina anhimyaceriya ni malikanihero, wiira awehakoono ahoone, ni yiiwakoono ahiiweehe.
+P7	Ila phi itthu inhimyaya nlikanihero: Ipyo iyo, niri nuulumo na Nluku.
+P8	Ile yaamorenle nceresere iphiro, pha ale aneewa. Wahoolo naawa sotwani ukumiha wanrimani waya nuulumo niiwilyaya nno, wiira ahikupali yoopwaaka.
+P9	Ile imorenle wamakhorokoconi, pha ale aneewa nuulumo, yaakhelaka wootteeliya, nanso ukhala wiira khaarina mitithari, ankupali ukati vakaani, ni waphiyaka ukati woottehattehiya, anaahiya.
+P10	Ile imorenle wamiiwani pha ale yiiwile nuulumo na Nluku, nanso yeettaka intthunaaya, ahomiriya ni misankiho, ni mihakhu, ni ucivaciviya wo mwiirutthuni. Vano mihokorokho caya nnyo khacinttokottha.
+P11	Ipyo imorenle nipuro niri itthaya yomaana, pha ale yiiwile nuulumo na Nluku asunkaka ni nrima wooreera ni womaana ni anawiima nhokorokho nuukhalela nthiti.
+
+images:
+
+illustrations/pages/27344.png
+illustrations/pages/16267.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16270.png
+illustrations/pages/16271.png
+illustrations/pages/16289.png
+illustrations/pages/16286.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16287.png
+illustrations/pages/16285.png
+
+translations:
+
+Cinyungwe (Translation)	Mulimi na Mbeu Yace	id=31625
+Cisena (Translation)	Nyakuwaza Mbeu	id=31624
+Ciyawo (Translation)	Citagu Ca Mundu Jwa Kumisa Mbeju	id=33214
+Elomwe (Translation)	Mulipa Oomisa	id=31622
+English (Original)	The Sower	id=16245
+Ikisimbëtë (Translation)	Ëkërëngyö ikya Imbusiro	id=24797
+Olunyaneka (Translation)	Omukuvi	id=31623
+Portuguese (Translation)	O Semeador	id=33212

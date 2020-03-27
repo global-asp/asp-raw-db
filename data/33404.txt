@@ -1,0 +1,68 @@
+url:	https://africanstorybook.org/reader.php?id=33404&d=0&a=1
+id:	33404
+title:	Tincane kakhulu
+author:	Mduduzi Benjie Shongwe
+artist:	Sandy Lightly
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/33404.png
+desc:	Tonkhe timphahla taLebo setimshiyile futsi nyalo setincane kakhulu kuye. Yini latoyenta ngato?
+
+page_text:
+
+P1	"Make," kumemeta Lebo. "Wota utewubuka. Letimphahla setincane kakhulu kimi!"@@Make utsi, "Ake ngibone."
+P2	"Buka siketi sami. Sesincane kakhulu," kusho Lebo. @@"Yebo, sesincane," kusho Make. "Ungasinika Nomsa lesiketi sakho."
+P3	"Buka libhuluko lami. Selincane kakhulu," kusho Lebo. @@"Yebo, selincane," kusho Make. "Ungalinika Nomsa lelibhuluko lakho."
+P4	"Buka sikipa sami. Sesincane kakhulu," kusho Lebo. @@"Yebo, sesincane," kusho Make. "Ungasinika Nomsa lesikipa sakho."
+P5	Buka lijezi lami. Selincane kakhulu," kusho Lebo. @@"Yebo, selincane," kusho Make. "Ungalinika Nomsa lelijezi lakho."
+P6	"Buka lijazi lami lemvula. Selincane kakhulu," kusho Lebo. @@"Yebo, selincane," kusho Make. "Ungalinika Nomsa lelijazi lakho lemvula."
+P7	"Buka amasokisi ami. Semancane kakhulu," kusho Lebo. @@"Yebo, semancane," kusho Make. "Ungawanika Nomsa lamasokisi akho."
+P8	"Buka ticatfulo tami. Setincane kakhulu," kusho Lebo. @@"Yebo, setincane," kusho Make. "Ungatinika Nomsa leticatfulo takho."
+P9	"Nyalo sewunetimphahla letinyenti," kusho Lebo. @@"Hhayi anginato," kusho Nomsa. "Tonkhe letimphahla tinkhulu kakhulu kimi!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te klein	id=11428
+ChiNambya (Translation)	Katukutuku kasa	id=32899
+ChiShona (Translation)	Idiki	id=31761
+English (Original)	Too small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane izimpahla zami	id=2504
+Khoekhoegowab (Translation)	Kaise ǂkhari	id=31763
+Kiswahili (Translation)	Ndogo sana, Kubwa sana	id=7877
+Luganda (Translation)	Ntono nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Biboombi naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21093
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21100
+Lusoga (Translation)	Ntonioli	id=20904
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Oshikwanyama (Translation)	Oikutu inini	id=31568
+Oshindonga (Translation)	Okashona unene	id=31504
+Otjiherero (Translation)	Okatiti tjinene	id=31513
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rukwangali (Translation)	Musesugona	id=31482
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ke tše nnyane	id=2509
+Sesotho (South Africa) (Translation)	E nyanyane haholo	id=32211
+Setswana (Translation)	E nnye thata	id=31775
+Tshivenḓa (Translation)	Zwo ṱukufhalesa	id=31831

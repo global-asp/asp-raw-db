@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33342&d=0&a=1
+id:	33342
+title:	Mpho ya Koko
+author:	Connie  Makgabo
+artist:	Sibongile Mnkandla
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33342.png
+desc:	Mma o thuša Thabo ka go direla koko mpho ye e kgethegilego.
+
+page_text:
+
+P1	Koko o tla go eta. Ka mehla o tlela Thabo dimake le dienywa tša nageng goba mafela le legapu. @@Thabo o nyaka go fa koko se sengwe se se kgethegilego.
+P2	Puku e be e ka ba mpho ya go ratega, na koko o tseba go bala?@ @Ge a ka ya mabenkeleng, a ka hwetša se sengwe se se botse?@ @"A re mo direleng mokotla," gwa realo Thabo ka myemyelo. Mokotla wo mogolo wa go dirwa ka lešela la pokate le letalalerata.
+P3	Mma o ntšha lešela leo ba le rekilego lebenkeleng. A phurulla paterone gomme a thoma go le sega.@ @Sa mathomo, mahlakore a mabedi a bohlokwa ke a magolo ebile a bulegile.
+P4	Gomme a mabedi a mannyane ke a go re neela sebopego.@ @Thabo a phutha mahlakore a magolo mmogo. A lebelela ge Mma a tšea paterone gape.
+P5	A sega bofase bja yona ka diripa tše pedi. Se ke sona seo se tlo go dira gore mokotla o tie.@ @Thabo a di mena ge Mma a tšea paterone gape.
+P6	A sega marala a mane a matelele a makoto. @ @A mabedi a tla rokelelwa mmogo go dira lerala le tee. Se se tla dira gore mokotla o tie ka go fetiša.
+P7	Bjalo Mma a ntšha motšhene wa go roka.@ @A kgomaganya diripa ka moka go direla Koko mokotla. @ @A e neela Thabo yo ka myemyelo a rego: "Ke a leboga Mma, ka mokotla wa Koko wo motalalerata!"
+
+images:
+
+illustrations/pages/25487.png
+illustrations/pages/25488.png
+illustrations/pages/25495.png
+illustrations/pages/25490.png
+illustrations/pages/25491.png
+illustrations/pages/25492.png
+illustrations/pages/25493.png
+illustrations/pages/25494.png
+
+translations:
+
+ChiNambya (Translation)	Chipo chamegulu	id=32895
+English (Original)	A Present For Grandma	id=21728
+French (Translation)	Un cadeau pour mamie	id=33151
+Lusoga (Translation)	Ekirabo kya dhaadha omukazi	id=28452
+Sesotho (Zimbabwe) (Translation)	Mpho Ea Nkuku	id=21729

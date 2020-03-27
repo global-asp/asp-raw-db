@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=33603&d=0&a=1
+id:	33603
+title:	سگ و گربه و توپ
+author:	behzad ayubi
+artist:	Elke and René Leisink
+lang:	Persian (Afghanistan)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33603.png
+desc:	سگ و گربه دوستان قدیمی اند که با توپ بازی کردن وقت خوشی را سپری میکنند
+
+page_text:
+
+P1	این گربه است @@این سگ است
+P2	سگ و گربه در یک خانه زندگی میکنند@@خانه ی درواز دار @@خانه ی سقف دار
+P3	سگ و گربه یک توپ دارند@@توپ رنگ های سرخ و سبز و آبی دارد
+P4	سگ و گربه با توپ بازی میکنند@@گربه توپ را بسوی سگ پرتاب میکند@@سگ توپ را می قاپد @@سگ توپ را بسوی گربه پرتاب میکند@@گربه توپ را می قاپد
+P5	سپس گربه توپ را خیلی بلند پرتاب میکند @@اوهو! اوهو!
+P6	توپ سر بام می رود@@توپ سر بام خانه می رود
+P7	سگ و گربه توپ را دیده می توانند@@سگ و گربه توپ را پایین آورده نمی توانند
+P8	سگ و گربه گریه میکنند. پسانتر فیل از پهلوی شان می گذرد
+P9	فیل بزرگ است @@فیل توپ را دیده میتواند@@فیل قدش به توپ سربام می رسد@@فیل توپ را از سر بام خانه میگیرد
+P10	فیل توپ را به سگ و گربه می دهد@@سگ و گربه لبخند می زنند. فیل هم لبخند می زند@@سگ و گربه و فیل یکجا لبخند می زنند
+P11	سگ و گربه و فیل یکجا با توپ بازی میکنند @@گربه توپ را بسوی سگ پرتاب می کند. سگ توپ را می قاپد@@سگ توپ را بسوی فیل پرتاب میکند. فیل توپ را می قاپد@@فیل توپ را بسوی گربه پرتاب می کند. گربه توپ را می قاپد
+P12	بامان خدا گربه گگ! بامان خدا سگک! بامان خدا فیلک!
+P13	سگ و گربه دوستان قدیمی اند که با توپ بازی وقت خوشی را سپزی میکنند
+
+images:
+
+illustrations/pages/18630.png
+illustrations/pages/18631.png
+illustrations/pages/18632.png
+illustrations/pages/18633.png
+illustrations/pages/18634.png
+illustrations/pages/18635.png
+illustrations/pages/18636.png
+illustrations/pages/18637.png
+illustrations/pages/18638.png
+illustrations/pages/18639.png
+illustrations/pages/18640.png
+illustrations/pages/18641.png
+illustrations/pages/18642.png
+illustrations/pages/18782.png
+
+translations:
+
+CiNyanja (Translation)	Cona, Galu na mpila	id=20772
+English (Original)	Cat and Dog and the Ball	id=20148
+Kinyarwanda (Translation)	Injangwe, Imbwa n'Umupira	id=20686
+Luganda (Translation)	Wakkapa ne Wambwa n'omupiira	id=23268
+Lusoga (Translation)	Epuusi, Embwa n'omupiira	id=25003
+SiLozi (Translation)	Kaze Nja Nimbola	id=20923

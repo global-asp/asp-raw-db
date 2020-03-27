@@ -1,0 +1,85 @@
+url:	https://africanstorybook.org/reader.php?id=33340&d=0&a=1
+id:	33340
+title:	Keza n'akarago ke
+author:	Jean-François Rubanda
+artist:	Catherine Groenewald
+lang:	Kinyarwanda
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33340.png
+desc:	Uyu mwana wumukobwa Keza yakuranye akarago kadasanzwe. Ako karago kamurindaga ibibi byose. Binyuze mu kanyoni
+
+page_text:
+
+P1	Igihe Keza yari akiri muto, nyina yamuryamishaga ku karago keza cyane. Nyirasenge wa Keza yari yaramuboheye ako karago kadasanzwe mu busuna.
+P2	Ako karago kari keza cyane gatatse amabara menshi. Kari gatandukanye n'ibindi birago byose byabaga muri iyo nzu babagamo.
+P3	Inzu babagamo yari ikikijwe n'ubutayu: hahoraga hashyushye kandi huzuye amabuye n'umucanga. Habaga kandi inzoka nyinshi n'ibitagangurirwa.
+P4	Ariko nta na rimwe Keza yigeze agira ikibazo cyo kuba yarumwa n'inzoka cyangwa se ibitagangurirwa. Nyina yaravugaga ati: "Karago keza ndindira Keza ibibi byose!" Koko bikaba nk'uko abivuze.
+P5	Keza yari afite ubwenge butangaje. Yari azi aho iriba ritari rirerire riherereye, ari naryo ryari ryegereye cyane urugo rwabo.
+P6	Yari azi kandi aho nyirakuru yari atuye. Yakundaga gusura kenshi nyirakuru akamuha amata.
+P7	Umunsi umwe amahirwe ntiyamusekeye: Yari agiye gusura nyirakuru ariko ntiyagerayo. Yazimiriye mu misozi yanyuragamo agiye kwa nyirakuru. Keza atangira kugira ubwoba.
+P8	Yicara munsi y'igiti ahebera urwaje. Hashize akanya kubera umunaniro arasinzira hanyuma aza kurota.
+P9	Dore inzozi yarose: Yari aryamye kuri ka karago ke kadasanzwe. Umukecuru wasaga na nyirakuru yari amuri hafi. Uwo mukecuru aramusekera hanyuma amuha igikombe cy'amata. Mu gihe yari agiye kwakira icyo gikombe ahita akanguka.
+P10	Keza abumbura amaso buhorobuhoro, agiye kubona abona akanyoni kari hejuru ye mu ishami ry'igiti.
+P11	Keza arahaguruka, akanyoni na ko kamujya imbere kamwereka inzira. Keza aragakurikira.
+P12	Keza n'akanyoni baza kugera mu mayira abiri biramuyobera. Ka kanyoni kamuha agace k'agasambi gasa na ka karago ke kadasanzwe.
+P13	Agitoragura agace k'ako gasambi ahita abona aho ibirenge bisa n'ibya nyina byakandagiye. Mu kanya abona rya riba ritari rirerire bajyaga bavomaho. Abona inzira imusubiza iwabo.
+P14	Umuryango we ukimubona urishima cyane umukoreshereza umunsi mukuru. Babaga ihene bishimira ko umwana wabo agarutse amahoro.
+P15	Keza yicara kuri ka karago ke kadasanzwe hamwe n'intongo nini yavuye kuri ya hene babaze bishimira ukugaruka kwe.
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/5845.png
+illustrations/pages/5846.png
+illustrations/pages/5847.png
+illustrations/pages/5848.png
+illustrations/pages/5996.png
+illustrations/pages/5997.png
+illustrations/pages/5999.png
+illustrations/pages/6000.png
+illustrations/pages/6001.png
+illustrations/pages/6002.png
+illustrations/pages/6003.png
+illustrations/pages/6004.png
+illustrations/pages/6005.png
+illustrations/pages/6006.png
+illustrations/pages/6007.png
+
+translations:
+
+Afrikaans (Translation)	Abike se dag	id=21977
+English (Original)	Akai's special mat	id=6008
+English (Adaptation)	Abike's day	id=21453
+English (Adaptation)	Asiimwe's special mat	id=31293
+English (Adaptation)	Asiimwe's special mat	id=31307
+French (Translation)	La Natte Spéciale D'Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+Hausa (Niger) (Translation)	Tabarmar Ta Masumman Ta Akai	id=9978
+isiNdebele (Translation)	Ilanga lakaKhabo	id=21461
+isiZulu (Translation)	Usuku lukaZinhle	id=21458
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kiswahili (Translation)	Mkeka wa Akai	id=7860
+Kiswahili (Translation)	Siku ya Betina	id=23105
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusaamba lwa Kakayi lwa buraawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Olunaku lwa Takia	id=25684
+Lusoga (Translation)	Omukeeka gwa Akaali	id=26254
+Lusoga (Translation)	Olunaku lw'Abike	id=27566
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Runyoro-Rutooro (Translation)	Omukeeka gwa Asiimwe ogwembaganiza	id=31306
+Runyoro-Rutooro (Translation)	Omukeeka gwa Asiimwe ogwembaganiza	id=31308
+Sepedi (Translation)	Legogo la Akai leo le kgethegilego	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Sesotho (South Africa) (Translation)	Letsatsi la Atlehang	id=21466
+Setswana (Translation)	Moseme Wa Ga Akai  O O Kgethegileng	id=7772
+Siswati (Translation)	Imadi yaThembi lebalulekile	id=13073
+Siswati (Translation)	Lilanga la-Abike	id=21455
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

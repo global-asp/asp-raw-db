@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=32725&d=0&a=1
+id:	32725
+title:	Umzimba wami
+author:	Emmah  Gumede
+artist:	Mlungisi Dlamini
+lang:	isiZulu
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32725.png
+desc:	Ngenza izinto eziningi ngamalunga womzimba wami.
+
+page_text:
+
+P1	Niginga gijima ngazo.
+P2	Nginga gxuma ngazo.
+P3	Nginga dansa ngazo.
+P4	Ngingabhukuda ngazo.
+P5	Ngingeqa ngazo.
+P6	Ngingakhahlela ngazo.
+P7	Ngingagxuma ngazo.
+P8	Kodwa angikwazi ukundiza ngazo.
+
+images:
+
+illustrations/pages/28703.png
+illustrations/pages/28704.png
+illustrations/pages/28705.png
+illustrations/pages/28706.png
+illustrations/pages/28707.png
+illustrations/pages/28708.png
+illustrations/pages/28709.png
+illustrations/pages/28710.png
+illustrations/pages/28711.png
+
+translations:
+
+English (Original)	My body	id=32608
+Kinyarwanda (Translation)	Umubiri wange	id=32609

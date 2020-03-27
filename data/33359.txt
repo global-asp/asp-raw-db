@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=33359&d=0&a=1
+id:	33359
+title:	(Paka rangi) Uamuzi
+author:	Ursula  Nafula
+artist:	Vusi Malindi
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33359.png
+desc:	Watu wa mtaa mmoja wanaamua kubadilisha maisha yao.
+
+page_text:
+
+P1	Mtaa wetu ulikuwa na matatizo mengi. @@Tulisimama kwenye foleni tukisubiri kuchota maji kutoka mfereji mmoja.
+P2	Tulisubiri kupokea chakula cha msaada. @@Hatukuwafahamu wahisani wetu.
+P3	Usalama ulizorota kila uchao. @@Tulilazimika kufunga nyumba zetu mapema kwa ajili ya wizi.
+P4	Baadhi ya watoto waliacha shule. @@Wazazi wao hawakuweza kuwalipia karo.
+P5	Wasichana wadogo walifanya kazi za nyumbani pale mtaani.
+P6	Wavulana wadogo walirandaranda ovyo.@@Wengine waliwafanyia watu kazi mashambani.
+P7	Upepo ulivuma na kuzipeperusha karatasi chafu. @@Ziliangikwa mitini na uani na kuyachafua mazingira.
+P8	Vipande vya chupa vilitupwa ovyo ovyo njiani. @@Watu walijeruhiwa walipokatwa navyo.
+P9	Siku moja, mfereji wa maji ulikauka na mitungi yetu ikawa tupu. @@Tulijiuliza, "Sasa tutayapata maji wapi?"
+P10	Babangu alitembea kutoka nyumba hadi nyumba. @@Aliwatangazia watu kuhudhuria mkutano wa mtaa.
+P11	Watu walikusanyika chini ya mti ule ule ambako tulipokea chakula cha msaada. @@Baadhi waliuliza, "Kuna nini leo?"
+P12	Babangu alisimama katikati yao akasema, "Lazima tuyabadilishe maisha ya mtaa wetu."
+P13	Juma, aliyekuwa amepanda juu ya mti, alisema kwa sauti, "Naweza kusafisha uwanja wa nyumba zetu."
+P14	Mwanamke mmoja wa makamo, alisema, "Sisi wanawake tutaungana pamoja tupande mbegu ili tupate chakula."
+P15	Mwanamume mwingine alisimama akasema,  "Wanaume nao watachimba kisima cha maji."
+P16	Sote tulisema kwa sauti moja, "Lazima tubadilishe maisha yetu." @@Hivyo ndivyo, tulianza kufanya kazi pamoja kuyabadilisha maisha yetu.
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/28381.png
+illustrations/pages/28382.png
+illustrations/pages/28383.png
+illustrations/pages/28384.png
+illustrations/pages/28385.png
+illustrations/pages/28386.png
+illustrations/pages/28388.png
+illustrations/pages/28390.png
+illustrations/pages/28391.png
+illustrations/pages/28392.png
+illustrations/pages/28393.png
+illustrations/pages/28394.png
+illustrations/pages/28395.png
+illustrations/pages/28396.png
+illustrations/pages/28397.png
+illustrations/pages/28380.png
+
+translations:
+
+Amharic (Translation)	ውሣኔ	id=22401
+Arabic (Translation)	القرار	id=21813
+English (Translation)	Decision	id=13304
+English (Adaptation)	(Colour-in) Decision	id=32497
+Kῖmῖῖrũ  (Translation)	Kũgiita ĩgamba	id=32827
+Kinyarwanda (Translation)	Ikemezo k'ingirakamaro	id=32569
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344
+Lusoga (Translation)	Okusalagho	id=25741
+Ng’aturkana (Translation)	Atiakun Akiroit	id=20496
+Tiv (Translation)	Ijogh-zwa	id=32801

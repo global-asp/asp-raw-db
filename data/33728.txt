@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33728&d=0&a=1
+id:	33728
+title:	Zinyama zia kwarora
+author:	Sharon  Mataga
+artist:	Penuel  K
+lang:	Lulogoli 
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33728.png
+desc:	Vandu va mmba vazia kurora zinyama. (Imbaka nende manyinge garombwa mweri gwa siita 2019 murisoma ria Sophiatown Community Psychological Services
+
+page_text:
+
+P1	Yava ni vandu vange.@@Muramwa, mwana wa muramwa, mama wange, vakana vange vaviri (vivika zinguvu ziafyanana), muyayi wiitu, nende inze!
+P2	Yava ni vandu vange vave mumodoga vaziiza kurora zinyama.@ @Kwarimu nende mkana wanga mama, mama wange, muyayi witu, vakana vitu vaviri, (vuri inyinga vivika zinguvu zifyanani), nende inze!
+P3	Kwarora zinyama zinyinge kove mumodoga.
+P4	Kwarora itwiga.
+P5	Kwarora kinywere.
+P6	Kwarora isimba.
+P7	Kwarora enzogu.@@Kwaseka ma nikoseka rwa kwarora enzogu eyo, chigira…
+P8	...enzogu eyoo yania kumusaara!
+
+images:
+
+illustrations/pages/85940108.png
+illustrations/pages/85940106.png
+illustrations/pages/85940107.png
+illustrations/pages/85940108.png
+illustrations/pages/85940109.png
+illustrations/pages/85940110.png
+illustrations/pages/85940111.png
+illustrations/pages/85940112.png
+illustrations/pages/85940113.png
+
+translations:
+
+English (Original)	Animals we saw	id=33720
+French (Translation)	Des animaux que nous avons vus	id=33844
+isiZulu (Translation)	Izilwane esazibona	id=33772
+Kiswahili (Translation)	Wanyama tulioona	id=33725
+Lingala (Translation)	Ba niama oyo tomoni	id=33803
+Sesotho (South Africa) (Translation)	Diphoofolo tseo re di boneng	id=33788

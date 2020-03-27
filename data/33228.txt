@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33228&d=0&a=1
+id:	33228
+title:	Anaankhwele ni Hukhumu
+author:	Little Zebra Books
+artist:	Brianna  Alexander
+lang:	Imeetto
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33228.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Luka 18:1-8@@Nkwaha mmoca Yesu ahaattonkela eetthuci awe nlikanihero nimoca, aathoonyiheraka ifayita yoovekela woohitomwa ukati wothene, eeraka:@@Isittatti imoca ahaawo hukhumu mmoca ahaamoova Nluku, ni khaariwo tho ntthu aanlemelihaawe.
+P2	Ciicammo yeeyo isittatti iyo ahaawo naankhwele mmoca aarweesa unkasarela hukhumu ule, eeraka: Nkuulumele wosariya nlattu aka, kontha kihookoseriya.
+P3	Ule ahokhala mahuku menci akhottaka.
+P4	Nanso wahoolo ahoopuwela veekhaawe eeraka: Mi akimmova Nluku, ni khaawo ntthu nonlemelihaaka. Nanso cinkeettelela aya ala athiyana ala, kinawoolumela nlattu aya uyo, wiira ahikinyoonyihe.
+P5	Vano Apwiya yaheera: Mwiiwe yuulumacilyaawe hukhumu oohiloka uyo. Nluku khanhala waavaha isariya ale yaathanlilyaawe, anonlapela uhiyu ni uthana hata yoonaka upica waakhuliya?
+P6	Kinoohimeryani wiira naahala woolumela wosariya nlattu aya uyo woohipica. Kaahiki wanhalaawe uwa Mwanawe Pinatamu, naahala waaphwanya atthu owaamini vathi va?
+
+images:
+
+illustrations/pages/27415.png
+illustrations/pages/27417.png
+illustrations/pages/27418.png
+illustrations/pages/27419.png
+illustrations/pages/27415.png
+illustrations/pages/27420.png
+illustrations/pages/27421.png
+illustrations/pages/27422.png
+
+translations:
+
+Cinyungwe (Translation)	Mtongi na Mantsiwa	id=31698
+Cisena (Translation)	Nkazi Wakuferwa na Mamuna  na Nyakutonga Mise	id=31699
+Elomwe (Translation)	Naamukhwele ni Mulipa Oothoriha	id=31696
+English (Original)	The Persistent Widow	id=31660
+Olunyaneka (Translation)	Omuhepe Nomukoyesi  Wompela	id=31700
+Portuguese (Translation)	A Viúva e o Juiz	id=31695

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=32629&d=0&a=1
+id:	32629
+title:	Kayipi kangowe kangu?
+author:	Alfa  Bubi and Alphonce  Chishemu
+artist:	Bronwen Heath
+lang:	ChiNambya
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/32629.png
+desc:	Kangowe kangu kabwandila. Mungandibonela iko?
+
+page_text:
+
+P1	Kayipi kangowe kangu?
+P2	Kayimo mudako lyombheda na?
+P3	Kayipo pezhulu pekabati na?
+P4	Kayipo kushule kwe chibhula na?
+P5	Kayipo kumbali kwegabha lyamalala na?
+P6	Kayimo muchizuma na?
+P7	Kayipo pazhe pengumba na?
+P8	Haka yopano!
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+English (Original)	Where is my cat?	id=32620
+Kinyarwanda (Translation)	Ipusi yange iri hehe?	id=32621
+Kiswahili (Translation)	Wapi paka wangu?	id=32636
+Pokomo (Translation)	Ayu mpaka jwangu kaakuu?	id=33506
+Yoruba (Translation)	Níbo ní ológbò mi wà?	id=33126

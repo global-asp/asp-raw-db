@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=33451&d=0&a=1
+id:	33451
+title:	Des lettres
+author:	Zanne Viljoen
+artist:	Cathy Feek
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/33451.png
+desc:	Cette histoire sagit dune petite fille qui est malade et ne peut pas aller à lécole.  Les lettres sont une forme importante de communication pendant quelle est malade.
+
+page_text:
+
+P1	La semaine dernière j'ai reçu beaucoup de lettres.
+P2	Lundi, mon médecin a écrit une lettre à ma maîtresse.
+P3	"Thabisile est malade.  Elle doit rester chez elle."
+P4	Mardi j'ai reçu une lettre de la classe.
+P5	"Guéris vite, Thabisile !"
+P6	Mercredi j'ai reçu une lettre de ma meilleure copine.
+P7	"Je t'ai dessiné cette image.  Bisous, Dudu."
+P8	Jeudi, ma mère m'a envoyé une lettre.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Amharic (Translation)	ደብዳቤዎች	id=33870
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+Kikamba (Translation)	Valua	id=2007
+Kinyarwanda (Translation)	Amabaruwa	id=20338
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Lusoga (Translation)	Embaluwa emponiiza	id=29000
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

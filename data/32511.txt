@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=32511&d=0&a=1
+id:	32511
+title:	Musical instruments
+author:	African Storybook
+artist:	Salim Kasamba
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32511.png
+desc:	A story about the roles of the different musical instruments in the Jopadhola culture.
+
+page_text:
+
+P1	Bul and Fumbo.@Teke and Tongoli.@Milege, Sos and Gwara.
+P2	Tongoli has many strings. @@Tongoli sings high and sings low.
+P3	Fumbo sings loud and clear.@@Fumbo makes people dance at all times.
+P4	Dancers tie Milege around their ankles.@@Her melody is loud and sharp.
+P5	Bul is made of skin stretched over hollow cylinders. @@He announces events.
+P6	Gwara is loud and attracts attention.
+P7	Sos always sings with Bul, Fumbo, Teke, Tongoli, Milege and Gwara.
+P8	They all chose Bul as their King.@@Bul is in every Jopadhola home.
+P9	Questions:@1. Name the instruments mentioned in the story.
+P10	2.  How do you call them in your home language?
+P11	3. Where have you seen these instruments being used?
+P12	4. How are they called in English?@5. Do you play any musical instrument?
+
+images:
+
+illustrations/pages/25963.png
+illustrations/pages/25955.png
+illustrations/pages/25956.png
+illustrations/pages/25957.png
+illustrations/pages/25958.png
+illustrations/pages/25959.png
+illustrations/pages/25960.png
+illustrations/pages/25961.png
+illustrations/pages/25963.png
+
+translations:
+
+Dhopadhola (Original)	Jo ndijo ma wer	id=22193
+English (Translation)	Skillful musicians	id=22194
+Kiswahili (Translation)	Wanamuziki stadi	id=22533

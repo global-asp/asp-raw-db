@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=33212&d=0&a=1
+id:	33212
+title:	O Semeador
+author:	Little Zebra Books
+artist:	Tamsin  Hinrichsen
+lang:	Portuguese
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33212.png
+desc:	A parábola contado por Jesus em Lucas 8: 5-15. ©️1999 Bible League Intl. Versão Fácil de Ler.
+
+page_text:
+
+P1	Lucas 8:5-15@@Jesus contou esta parábola—@@Certo homem saiu para semear.
+P2	Enquanto semeava, uma parte das sementes caiu pelo caminho e foi pisada pelas pessoas e comida pelas aves do céu.
+P3	Outra parte caiu num terreno onde havia muitas pedras e, quando começou a brotar, secou por falta de humidade.
+P4	Outra parte das sementes caiu entre espinhos. Os espinhos cresceram junto com as plantas e as sufocaram.
+P5	Uma outra parte ainda caiu em terra boa e, ao crescer, produziu cem vezes mais grãos do que foi semeado.@@E, depois de dizer estas coisas, Jesus exclamou: "Aquele que pode me ouvir, ouça!"
+P6	Os discípulos perguntaram-lhe o que ele queria dizer com aquela parábola. Jesus então disse: "A vocês é dado o privilégio de conhecer os segredos do reino de Deus, mas a todas as outras pessoas tudo é dito por meio de parábolas, para que 'olhem e não enxerguem, ouçam e não compreendam.'"
+P7	"O que a parábola quer dizer é o seguinte: A semente é a mensagem de Deus."
+P8	"As sementes que caíram pelo caminho representam aqueles que ouvem a mensagem. Mas em seguida vem o Diabo e tira a mensagem de seus corações, para que não acreditem e nem sejam salvos."
+P9	"As sementes que caíram sobre o terreno onde havia muitas pedras representam aqueles que recebem a mensagem com grande alegria, mas que não têm raiz. Eles acreditam por uns tempos mas, quando são postos à prova, abandonam a fé."
+P10	"As sementes que caíram entre os espinhos representam os que ouvem a mensagem mas, por causa das preocupações, das riquezas e dos prazeres da vida, são sufocados e o seu fruto nunca amadurece."
+P11	"Aquelas sementes, porém, que caíram em terreno bom representam os que têm corações bons e honestos. Quando eles ouvem a mensagem, a retêm e, pela sua persistência, produzem frutos."
+
+images:
+
+illustrations/pages/27344.png
+illustrations/pages/16267.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16270.png
+illustrations/pages/16271.png
+illustrations/pages/16289.png
+illustrations/pages/16286.png
+illustrations/pages/16269.png
+illustrations/pages/16268.png
+illustrations/pages/16287.png
+illustrations/pages/16285.png
+
+translations:
+
+Cinyungwe (Translation)	Mulimi na Mbeu Yace	id=31625
+Cisena (Translation)	Nyakuwaza Mbeu	id=31624
+Ciyawo (Translation)	Citagu Ca Mundu Jwa Kumisa Mbeju	id=33214
+Elomwe (Translation)	Mulipa Oomisa	id=31622
+English (Original)	The Sower	id=16245
+Ikisimbëtë (Translation)	Ëkërëngyö ikya Imbusiro	id=24797
+Imeetto (Translation)	Mayowaala	id=33213
+Olunyaneka (Translation)	Omukuvi	id=31623

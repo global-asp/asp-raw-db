@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33790&d=0&a=1
+id:	33790
+title:	Batho bohle ba ya Malawi
+author:	Maria Vaz
+artist:	Jacquiline  K
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33790.png
+desc:	Na ho na le motho ya tla sala le mongodi enwa ya motjha wa pale ena? (Pale le ditshwantsho di qapuwe ke mokgatlo wa Sophiatown Community Psychological Services
+
+page_text:
+
+P1	Re ne re dula le nkgono le mme.
+P2	Bomotswala, Katleho, Thandi, Junior le mmangwane ba ne ba dula le rona.
+P3	Nkgono o ne a re ruta dipapadi.@@Ho ne ho le monate haholo.
+P4	Yaba Junior le nkgono ba ya Malawi.
+P5	Mmangwane le Thandi le bona ba ya Malawi.
+P6	Katleho le yena a ba latela a ya Malawi.
+P7	Ho ne ho le bohloko haholo.@@Ho ne ho se motho ya salang le rona.
+P8	Empa ha ho bohloko hakaalo, hobane mme wa ka o ntse a ena  le nna.
+
+images:
+
+illustrations/pages/91400121.png
+illustrations/pages/91400117.png
+illustrations/pages/91400118.png
+illustrations/pages/91400119.png
+illustrations/pages/91400120.png
+illustrations/pages/91400121.png
+illustrations/pages/91400122.png
+illustrations/pages/91400123.png
+illustrations/pages/91400124.png
+
+translations:
+
+English (Original)	Everyone goes to Malawi	id=33735
+French (Translation)	Tout le monde va au Malawi	id=33843
+isiZulu (Translation)	Bonke baya eMalawi	id=33774
+Kiswahili (Translation)	Kila mmoja anakwenda Malawi	id=33757
+Lingala (Translation)	Batu nionso bakokende Malawi	id=33805

@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=33509&d=0&a=1
+id:	33509
+title:	Katse e bohlale
+author:	Maria Vaz
+artist:	Catherine Groenewald
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33509.png
+desc:	Ntate Noko o na le katse e mo thusang ho lebella ntlo ya hae. Noko le katse ya hae ke metswalle e meholo.
+
+page_text:
+
+P1	Motseng wa heso ho na le monna ya bitswang ntate Noko, mme o na le katse e bitswang Safi.
+P2	Ha a ya mosebetsing o siya lemati le butswe.
+P3	Safi o dula monyako ho lebella ntlo.
+P4	Ha ntja ya moahisane e atamela, Safi o a e tshosa.
+P5	Ntja e a baleha.
+P6	Ha moahisane a kokota monyako, Safi o itokisetsa ho mo ngwapa.
+P7	Moahisane o a retoloha a balehe.
+P8	Ha Safi a lapile, o kwala lemati.
+P9	A je dijo tsa hae.
+P10	Kamora moo, o tlolela hodima soufa a robale.
+P11	Ha ntate Noko a kgutla mosebetsing Safi o a ikotlolla, mme a mo amohele ka thabo.
+P12	Ntate Noko le Safi ba dula fatshe mme ba bale dikoranta.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Ateso (Translation)	Ekapa Lo Ecobee	id=20595
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever cat	id=8878
+Fulfulde Mbororoore (Translation)	Kuleeru Aadamu	id=32055
+Hausa (Nigeria) (Translation)	Kyanwa Mai Wayo	id=21362
+Kiswahili (Original)	Paka mwerevu	id=8877
+Lulamoogi (Translation)	Okapa omugezi	id=31258
+Lusoga (Translation)	Puusi engezi	id=25303
+Lusoga (Translation)	Puusi endhabuufu	id=29847
+Sesotho (Lesotho) (Translation)	Katse e bohlale	id=10622

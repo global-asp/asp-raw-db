@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=32460&d=0&a=1
+id:	32460
+title:	Life story of beans
+author:	African Storybook
+artist:	Nina  Orange
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32460.png
+desc:	A photo story with one sentence per page
+
+page_text:
+
+P1	My friend gave me beans from her garden.
+P2	I plant a bean in the soil.
+P3	The bean germinates in the soil.
+P4	The seedling grows up to the sun.@@The root grows down.
+P5	The seedling sprouts above the soil.
+P6	The seedling grows,
+P7	and grows.
+P8	I plant more beans.
+P9	The plants grow,
+P10	and grow.
+P11	The plants produce bean pods.
+P12	The plants grow up, up, over my wall!
+P13	I pick the bean pods when they are dry.
+P14	I collect the beans from the pods.
+P15	I cook the beans with red onion and herbs.
+P16	These beans are ready to eat.
+
+images:
+
+illustrations/pages/28342.png
+illustrations/pages/28338.png
+illustrations/pages/28279.png
+illustrations/pages/28280.png
+illustrations/pages/28281.png
+illustrations/pages/28282.png
+illustrations/pages/28283.png
+illustrations/pages/28339.png
+illustrations/pages/28285.png
+illustrations/pages/28286.png
+illustrations/pages/28287.png
+illustrations/pages/28288.png
+illustrations/pages/28289.png
+illustrations/pages/28340.png
+illustrations/pages/28277.png
+illustrations/pages/28292.png
+illustrations/pages/28293.png
+
+translations:
+
+ChiTonga (Translation)	Buumi bwa Nyabo	id=32854
+ChiTonga (Translation)	Buumi bwa Nyabo	id=32875
+CiNyanja (Translation)	Ntano ya Nyemba	id=32852
+IciBemba (Translation)	Ubuumi bwa Cilemba	id=32869
+Kῖmῖῖrũ  (Translation)	Rũgono rwa ũtũũro bwa mũng'aũ	id=32817
+Kiswahili (Translation)	Maisha ya maharagwe	id=32596

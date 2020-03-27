@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=32497&d=0&a=1
+id:	32497
+title:	(Colour-in) Decision
+author:	Ingrid Schechter
+artist:	Vusi Malindi
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/32497.png
+desc:	A village community makes a decision to change their lives.
+
+page_text:
+
+P1	My village had many problems. We made a long line to fetch water from one tap.
+P2	We waited for food donated by others.
+P3	We locked our houses early because of thieves.
+P4	Many children dropped out of school.
+P5	Young girls worked as maids in other villages.
+P6	Young boys roamed around the village while others worked on people's farms.
+P7	When the wind blew,  waste paper hung on trees and fences.
+P8	People were cut by broken glass that was thrown carelessly.
+P9	Then one day,  the tap dried up and our containers were empty.
+P10	My father walked from house to house asking people to attend a village meeting.
+P11	People gathered under a big tree and listened.
+P12	My father stood up and said,  "We need to work together to solve our problems."
+P13	Eight-year-old Juma,  sitting on a tree trunk shouted,  "I can help with cleaning up."
+P14	One woman said,  "The women can join me to grow food."
+P15	Another man stood up and said,  "The men will dig a well."
+P16	We all shouted with one voice,  "We must change our lives." From that day we worked together to solve our problems.
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/28381.png
+illustrations/pages/28382.png
+illustrations/pages/28383.png
+illustrations/pages/28384.png
+illustrations/pages/28385.png
+illustrations/pages/28386.png
+illustrations/pages/28388.png
+illustrations/pages/28390.png
+illustrations/pages/28391.png
+illustrations/pages/28392.png
+illustrations/pages/28393.png
+illustrations/pages/28394.png
+illustrations/pages/28395.png
+illustrations/pages/28396.png
+illustrations/pages/28397.png
+illustrations/pages/28380.png
+
+translations:
+
+Amharic (Translation)	ውሣኔ	id=22401
+Arabic (Translation)	القرار	id=21813
+English (Translation)	Decision	id=13304
+Kῖmῖῖrũ  (Translation)	Kũgiita ĩgamba	id=32827
+Kinyarwanda (Translation)	Ikemezo k'ingirakamaro	id=32569
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344
+Kiswahili (Adaptation)	(Paka rangi) Uamuzi	id=33359
+Lusoga (Translation)	Okusalagho	id=25741
+Ng’aturkana (Translation)	Atiakun Akiroit	id=20496
+Tiv (Translation)	Ijogh-zwa	id=32801
