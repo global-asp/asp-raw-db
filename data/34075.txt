@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34075&d=0&a=1
+id:	34075
+title:	Yatima
+author:	Ursula  Nafula
+artist:	Saajida Patel
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34075.png
+desc:	Afifah ni mtoto wa kifaru mweupe ambaye mama yake aliuawa na majangili.
+
+page_text:
+
+P1	Afifah ni mtoto wa kifaru mweupe.@@Walinzi wa wanyama pori walimuokoa kutoka kichakani.
+P2	Mama yake aliuawa na majangili.@@Walinzi wa wanyama pori walimpeleka Afifah mahali pa usalama.
+P3	Afifah aliumia moyoni.@@Pia aliogopa kwamba majangili watarudi kuchukua pembe yake.
+P4	Polepole, Afifah alipata marafiki.@@Alijisikia salama na akacheza matopeni.@@Alikunywa maziwa yenye lishe.
+P5	Siku moja Afifah alimwuliza rafiki yake Amina, "Kwa nini wanataka pembe zetu?"@@Amina akamjibu, "Wanaamini kuwa pembe zetu ni za kimiujiza!"
+P6	"Lakini pembe zetu sio za kimiujiza!" Afifah alilia.@@"Hapana, bila shaka, sivyo. Pembe ni sawa na nywele na kucha," Amina alisema.
+P7	Afifah na Amina ni wa mwisho wa aina yao.@@Vifaru weupe wamekaribia kutoweka.@@Karibu wote wametoweka kutoka ulimwenguni.
+P8	Tunaweza kuwaokoa vifaru weupe na wanyama wengine wanaoelekea kutoweka.@@Je, unaweza kufanya nini?@@Pata kujua zaidi!
+
+images:
+
+illustrations/pages/72390100.png
+illustrations/pages/35920501.png
+illustrations/pages/35920502.png
+illustrations/pages/35920503.png
+illustrations/pages/35920504.png
+illustrations/pages/35920505.png
+illustrations/pages/35920506.png
+illustrations/pages/35920507.png
+illustrations/pages/35920508.png
+
+translations:
+
+English (Original)	An Orphan	id=33933
+English (Adaptation)	An Orphan	id=33962

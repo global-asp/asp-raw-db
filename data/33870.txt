@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=33870&d=0&a=1
+id:	33870
+title:	ደብዳቤዎች
+author:	Mezemir Girma
+artist:	Cathy Feek
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/33870.png
+desc:	ይህ ታሪክ ታማ ከትምህርት ቤት ለመቅረት ስለተገደደች አንዲት ትንሽ ልጅ የሚተርክ ነው፡፡ ልጅቱ ከትምህርት ቤት ርቃ በነበረችበት ጊዜ ደብዳቤ አስፈላጊ የመግባቢያ ዘዴ ሆኖ ያገለግላል፡፡
+
+page_text:
+
+P1	ባለፈው ሳምንት ብዙ ደብዳቤዎች ደርሰውኛል፡፡
+P2	ሰኞ ሐኪሜ ለአስተማሪዬ ደብዳቤ ጻፈ ፡፡
+P3	ታቢሲሌ ታመመች። እሷ ቤት መቆየት አለባት።
+P4	ማክሰኞ ከክፍሌ ደብዳቤ መጣልኝ፡፡
+P5	ታቢሲሌ፣ በቶሌ እንድትድኚ እመኛለሁ!
+P6	ረቡዕ ከቅርብ ጓደኛዬ ደብዳቤ መጣልኝ፡፡
+P7	እኔ ይህንን ስዕል ሳልኩልህ፡፡ ከሚወድህ ዱዱ፡፡
+P8	ሐሙስ ዕለት ከእናቴ ደብዳቤ ደረሰኝ፡፡
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+French (Translation)	Des lettres	id=33451
+Kikamba (Translation)	Valua	id=2007
+Kinyarwanda (Translation)	Amabaruwa	id=20338
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

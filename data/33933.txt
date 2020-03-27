@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=33933&d=0&a=1
+id:	33933
+title:	An Orphan
+author:	Saajida Patel
+artist:	Saajida Patel
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33933.png
+desc:	Afeefah is a baby white rhino
+
+page_text:
+
+P1	Afeefah is a white rhino who was rescued by rangers in the African bush.
+P2	Her mum was killed by poachers. The rangers took her to a place of safety.
+P3	She was heartbroken. Afeefah was afraid that the poachers would come back to take her horn.
+P4	Eventually Afeefah made friends. She felt safe and played in the mud. She drank milk in the sanctuary.
+P5	One day Afeefah asked her friend Aaminah, "What do they use our horns for?" Aaminah replied, "they think our horns are magical. "
+P6	Afeefah and Aaminah are the last of their kind. They are nearly extinct.
+P7	We need to help save the rhino. What are you going to do?
+
+images:
+
+illustrations/pages/72390100.png
+illustrations/pages/72390101.png
+illustrations/pages/72390102.png
+illustrations/pages/72390103.png
+illustrations/pages/72390104.png
+illustrations/pages/72390105.png
+illustrations/pages/72390107.png
+illustrations/pages/72390108.png
+
+translations:
+
+English (Adaptation)	An Orphan	id=33962
+Kiswahili (Translation)	Yatima	id=34075

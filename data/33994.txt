@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=33994&d=0&a=1
+id:	33994
+title:	Test apostrophe
+author:	Bob Roberts
+artist:	Bob Roberts
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33994.png
+desc:	Test aposrophe and extended e. Test test
+
+page_text:
+
+P1	Page 1 test @èêęë
+P2	Page 3
+
+images:
+
+illustrations/pages/55760100.png
+illustrations/pages/.png
+illustrations/pages/.png
+
+translations:
+

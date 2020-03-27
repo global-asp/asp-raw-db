@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34032&d=0&a=1
+id:	34032
+title:	La Pluie
+author:	Zanne Viljoen
+artist:	Marleen Visser
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34032.png
+desc:	Tous les enfants adorent jouer avec leau!
+
+page_text:
+
+P1	J'adore l'eau.
+P2	J'aime bien jouer avec l'eau.
+P3	Il pleut.
+P4	La pluie nous donne l'eau.
+P5	J'aime bien jouer dehors.
+P6	Mais il pleut.
+P7	J'aime bien jouer dehors sous la pluie.
+P8	Mes cheveux sont mouillés à cause de la pluie. Mon père me coiffe.
+
+images:
+
+illustrations/pages/7964.png
+illustrations/pages/7958.png
+illustrations/pages/7959.png
+illustrations/pages/7960.png
+illustrations/pages/7961.png
+illustrations/pages/7962.png
+illustrations/pages/7963.png
+illustrations/pages/7964.png
+illustrations/pages/7965.png
+
+translations:
+
+English (Translation)	Rain	id=9828
+isiXhosa (Adaptation)	Imvula	id=9829
+Olukabarasi (Translation)	Yifula	id=31921
+Sepedi (Original)	Pula	id=8039

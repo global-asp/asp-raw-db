@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=34079&d=0&a=1
+id:	34079
+title:	Piga hatua uoshe!
+author:	African Storybook
+artist:	Rob Owen
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34079.png
+desc:	Kuna viini vingi tusivyoweza kuona kwa macho. Vinaambukiza magonjwa. Kuosha mikono kwa maji na sabuni
+
+page_text:
+
+P1	Mama, Baba na Lina wanaongea kuhusu kukaa katika hali nzuri ya kiafya.
+P2	Lina aliuliza shuleni, "Kwa nini tuioshe mikono yetu?"
+P3	Mwalimu alisema, "Mikono yetu ina viini, lakini hamwezi kuviona."
+P4	"Viini ni viumbe vidogo sana. Tunahitaji darubini kuviona."
+P5	Lina alitazama kwenye darubini.@@Aliviona viini vilivyotoka mkono wake.
+P6	"Virusi na bakteria ni viini.@@Viini vinaweza kutuambukiza ugonjwa."
+P7	"Kuosha mikono kunaweza kuzuia virusi na bakteria kuenea," Mwalimu anasema.
+P8	Baba anatengeneza kifaa cha kuosha mikona bila mfereji.
+P9	Lina anauliza, "Kifaa hiki kinatumikaje?"
+P10	"Kipande cha mbao kinainamisha mtungi kisha maji yanamwagika nje."
+P11	"Osha kwa sabuni na maji. Polepole, hesabu hadi 20 unapoosha."
+P12	"Baba, wewe mwerevu! Sasa, unaweza kuwasalimu watu kutumia kiwiko chako?"
+
+images:
+
+illustrations/pages/25965.png
+illustrations/pages/25964.png
+illustrations/pages/25965.png
+illustrations/pages/25966.png
+illustrations/pages/25967.png
+illustrations/pages/25968.png
+illustrations/pages/25969.png
+illustrations/pages/25970.png
+illustrations/pages/25971.png
+illustrations/pages/25972.png
+illustrations/pages/25973.png
+illustrations/pages/25974.png
+illustrations/pages/25975.png
+
+translations:
+
+English (Translation)	Kariza's questions	id=22197
+English (Translation)	Step and wash!	id=34080
+Khoekhoegowab (Translation)	Kariza's dîdi	id=33530
+Kinyarwanda (Original)	Kariza akunda kubaza	id=22196
+Kiswahili (Translation)	Maswali aliyouliza Kariza	id=22582
+Oshikwanyama (Translation)	Omapulo aKariza	id=33469
+Oshindonga (Translation)	Omapulo gaKariza	id=33471
+Otjiherero (Translation)	Omapuriro ja Kariza	id=33467
+Rukwangali (Translation)	Epuro lya Kazira	id=33475
+Sepedi (Translation)	Dipotšišo tša Kariza	id=33461
+Sesotho (South Africa) (Translation)	Dipotso tsa Karabo	id=33372
+Siswati (Translation)	Imibuto yaKariza	id=33400

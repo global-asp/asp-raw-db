@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=33995&d=0&a=1
+id:	33995
+title:	New test apostrophe
+author:	Bob Roberts
+artist:	Catherine Groenewald
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33995.png
+desc:	Another test of apostrophe with 3 pages test test
+
+page_text:
+
+P1	Page 1, no apostrophe@@Page 2 has an apostrophe, page 3 does not
+P2	This is page 3 of original book@@Page 3@@Page 3
+
+images:
+
+illustrations/pages/314.png
+illustrations/pages/.png
+illustrations/pages/.png
+
+translations:
+

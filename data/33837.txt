@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33837&d=0&a=1
+id:	33837
+title:	Bustani yetu kule Kongo
+author:	Brigid Simiyu
+artist:	Christelle  X
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33837.png
+desc:	Kuhusu nyumba na bustani ambayo mwandishi huyu mchanga alilazimika kuacha wakati aliondoka nyumbani kwake Kongo. (Hadithi na picha ilitayarishwa katika warsha ya likizo ya Juni 2019
+
+page_text:
+
+P1	Nyumba hii iko Kongo.@@Ninaipenda nyumba hii.
+P2	Tulikuwa na choo chetu binafsi.@@Tulikuwa na bafu letu binafsi.
+P3	Tulikuwa na bustani.@@Nilipanda kwenye bustani yangu mwenyewe.
+P4	Mama yangu aliniambia, "Nilifunzwa na mama yangu kupanda. Nami ninakufunza wewe."
+P5	Nilipanda nyanya na mchicha. @@Nilifanya hivyo peke yangu.
+P6	Ningempelekea mama nyanya.@@ Naye angesema, "Asante."
+P7	Tuliiacha nyumba hiyo huko Kongo.
+P8	Hatuna bustani hapa Afrika Kusini.
+
+images:
+
+illustrations/pages/91400127.png
+illustrations/pages/91400125.png
+illustrations/pages/91400126.png
+illustrations/pages/91400127.png
+illustrations/pages/91400128.png
+illustrations/pages/91400129.png
+illustrations/pages/91400130.png
+illustrations/pages/91400131.png
+
+translations:
+
+English (Original)	A garden in Congo	id=33736
+French (Translation)	Jardin au Congo	id=33850
+French (Translation)	Un jardin au Congo	id=33866
+isiZulu (Translation)	Ingadi esayishiya eCongo	id=33775
+Lingala (Translation)	Bilanga na Congo	id=33806
+Sesotho (South Africa) (Translation)	Tshimo e Congo	id=33791

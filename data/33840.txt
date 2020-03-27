@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=33840&d=0&a=1
+id:	33840
+title:	Josia ananunua kinywaji
+author:	Brigid Simiyu
+artist:	Josias  M
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33840.png
+desc:	Furaha ya kunywa kinywaji tamu baridi siku ya joto. (Hadithi na picha ilitayarishwa katika warsha ya likizo ya Juni 2019
+
+page_text:
+
+P1	Kuna duka ndogo karibu na nyumba yangu.
+P2	Mmiliki wa duka hilo ni mwanamume mwembamba mwenye sauti ndogo.
+P3	Nje kuna joto.@@Ninakwenda kwenye friji.@@Ninapata kinywaji cha stroberi.
+P4	Ninampatia mwanamume huyo mwembamba pesa zangu.
+P5	Kisha, ninafungua kinywaji changu cha stroberi na kuanza kunywa.
+P6	Kinywaji hicho baridi cha stroberi kina ladha tamu sana!
+
+images:
+
+illustrations/pages/91400148.png
+illustrations/pages/91400146.png
+illustrations/pages/91400147.png
+illustrations/pages/91400148.png
+illustrations/pages/91400149.png
+illustrations/pages/91400150.png
+
+translations:
+
+English (Original)	Josias goes shopping	id=33739
+French (Translation)	Josias fait les courses	id=33856
+isiZulu (Translation)	UJosias uya esitolo	id=33778
+Lingala (Translation)	Josias akei kosomba biloko	id=33809
+Sesotho (South Africa) (Translation)	Kopano o ya mabenkeleng	id=33794

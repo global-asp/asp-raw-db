@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=34031&d=0&a=1
+id:	34031
+title:	Testing App Apple
+author:	Thoko Rasodi
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34031.png
+desc:	I love food 
+
+page_text:
+
+P1	Can’t wait for food
+P2	I won’t eat
+
+images:
+
+illustrations/pages/7597.png
+illustrations/pages/7605.png
+illustrations/pages/7602.png
+
+translations:
+

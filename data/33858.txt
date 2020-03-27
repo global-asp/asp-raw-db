@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=33858&d=0&a=1
+id:	33858
+title:	Mes parents
+author:	Caroline  Oyugi
+artist:	Gloria  M 
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33858.png
+desc:	Il peut être très difficile quand vos parents ne vivent plus ensemble. (Histoire et illustrations créées en 2019
+
+page_text:
+
+P1	Papa habite à Yeoville.
+P2	J'habite à Bertrams, avec ma maman et deux soeurs.
+P3	Je vois papa quand il nous rend visite pendant mon anniversaire.
+P4	J'aimerais qu'il habite avec nous.@@Je ne sais pas pourquoi nous ne vivons pas ensemble.
+
+images:
+
+illustrations/pages/91400160.png
+illustrations/pages/91400157.png
+illustrations/pages/91400158.png
+illustrations/pages/91400159.png
+illustrations/pages/91400160.png
+
+translations:
+
+English (Original)	My parents	id=33741
+Gikuyu (Translation)	Aciari akwa	id=33862
+isiZulu (Translation)	Abazali bami	id=33780
+Kiswahili (Translation)	Wazazi wangu	id=33842
+Lingala (Translation)	Baboti na ngai	id=33811
+Sesotho (South Africa) (Translation)	Batswadi ba ka	id=33796

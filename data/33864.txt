@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=33864&d=0&a=1
+id:	33864
+title:	Une question de Karabo
+author:	Zanne Viljoen
+artist:	Natalie Edwards
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33864.png
+desc:	La petite Karabo observe tous les adultes dans sa famille et se demande: 
+
+page_text:
+
+P1	Ma soeur Kifue poursuit des coqs qui chantent.  Que dois-je faire ? Qu'est-ce que j'en sais ?
+P2	Mon frère Kathleho a un ballon à jeter.  Que dois-je faire ? Qu'est-ce que j'en sais ?
+P3	Mon cousin plante des graines en ligne. Que dois-je faire ? Qu'est-ce que j'en sais ?
+P4	Ma cousine Kamohelo se penche sur sa houe.  Que dois-je faire ? Qu'est-ce que j'en sais ?
+P5	Ma tante Keromang a une robe à coudre. Que dois-je faire ? Qu'est-ce que j'en sais ?
+P6	Mon oncle Khotso garde des troupeaux de bétail qui meuglent. Que dois-je faire ? Qu'est-ce que j'en sais ?
+P7	Maman fait sécher le blé quand le vent ne souffle pas. Que dois-je faire ? Qu'est-ce que j'en sais ?
+P8	Papa monte à cheval sur les montagnes dans la pluie. Que dois-je faire ? Qu'est-ce que j'en sais ?
+P9	L'âne lent de grand-père fait des va-et-vient. Que dois-je faire ? Qu'est-ce que j'en sais ?
+P10	Grand-mère chante des chansons jusqu'à ce que le feu s'éteigne. Que dois-je faire ? Qu'est-ce que j'en sais ?
+P11	Tu sais comment dire oui. Tu sais dire non. C'est ce que tu fais ! C'est ce que tu sais !
+P12	Tout le monde rit quand on fait un spectacle. Ton travail est de jouer. Ton travail est de grandir.
+
+images:
+
+illustrations/pages/15375.png
+illustrations/pages/15365.png
+illustrations/pages/15366.png
+illustrations/pages/15367.png
+illustrations/pages/15368.png
+illustrations/pages/15369.png
+illustrations/pages/15370.png
+illustrations/pages/15371.png
+illustrations/pages/15372.png
+illustrations/pages/15373.png
+illustrations/pages/15374.png
+illustrations/pages/15375.png
+illustrations/pages/15376.png
+
+translations:
+
+English (Original)	Karabo's question	id=15377
+Kabuverdianu (Translation)	Pergunta di Tiagu!	id=32072

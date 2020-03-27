@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33846&d=0&a=1
+id:	33846
+title:	Le foot c'est la vie
+author:	Caroline  Oyugi
+artist:	Pimville Library Soccer
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33846.png
+desc:	Pour les enfants dans cette équipe
+
+page_text:
+
+P1	Bling était passionné du football.@@Quand il parle du jeu, il disait souvent, "Le foot, c'est la vie."
+P2	Bling était l'un des meilleurs joueurs  de l'entraîneur Sepo.@@Le coach était heureux de son équipe. Beaucoup de joueurs voulaient joindre l'équipe.
+P3	Un match important venait.@@L'équipe pratiquait chaque jour. @@Tout le monde était excité du grand jeu!
+P4	Le coach de l'équipe opposante était un homme jaloux.@@Il était très jaloux du succès de l'entraîneur Sepo.
+P5	Le coach jaloux est allé au terrain le soir avant le match.@@Il a planté quelque chose dangereuse.@@Il a planté 'umuthi'!
+P6	Bling a eu un début chaud dans le match.@@Il allait marquer.
+P7	Il a raté le tir, et il est tombé!@@"Bling?" a crié la foule.@@"Bling?" a plaidé l'entraîneur Sepo.
+P8	"Rien ne me découragera!" Bling s'est dit. @@"Le foot, c'est la vie."@@Il s'est levé et a joué jusqu'à la fin.
+
+images:
+
+illustrations/pages/85940126.png
+illustrations/pages/85940122.png
+illustrations/pages/85940123.png
+illustrations/pages/85940124.png
+illustrations/pages/85940125.png
+illustrations/pages/85940126.png
+illustrations/pages/85940127.png
+illustrations/pages/85940128.png
+
+translations:
+
+English (Original)	Soccer is life	id=33730
+isiZulu (Translation)	Ibhola liyimpilo yabo	id=33784
+Kῖmῖῖrũ  (Translation)	Mũbira ni ũturõ	id=33863
+Kiswahili (Translation)	Soka ni maisha	id=33758
+Lingala (Translation)	Bomoi ya ndembo	id=33815
+Sesotho (South Africa) (Translation)	Bophelo ba papadi ya bolo ya maoto	id=33802

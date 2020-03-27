@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33848&d=0&a=1
+id:	33848
+title:	Agent secret
+author:	Caroline  Oyugi
+artist:	Sbusiso  Boikanyo and Linda  Liphondo
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33848.png
+desc:	Quand le Dr Devious kidnappe les parents de Kay
+
+page_text:
+
+P1	Il était une fois une fille s'appelait Kay.@@Les parents de Kay étaient des brillants scientifiques. Ils travaillaient sur un projet top secret dans leur laboratoire.
+P2	Un scientifique Dan Diabolique appelé le Dr Devious voulait connaître le secret du projet secret.@@Une nuit noire, le Dr Devious a envoyé son complice Dan le Diabolique pour enlever les parents de Kay.
+P3	Dan a capturé les parents. Il a presque capturé Kay, mais elle était petite et rapide. Elle a réussi à glisser entre ses doigts.@@Kay a couru comme un éclair.
+P4	Quand elle a arrêté de courir, elle s'est retrouvée dans la forêt. @@Elle a levé les yeux pour voir le sommet des arbres, et a trébuché!
+P5	Kay est tombée contre un arbre, puis elle a roulé et roulé et roulé.@@Quand elle s'est réveillée, elle était dans une salle où il y avait une grande télévision.
+P6	"Bonjour Kay," a déclaré l'homme à la télévision.  @@"Je suis un agent secret pour le Bien du Monde! Tu es notre nouvelle agente secrète!"@@Avec ces mots, Kay est devenue aussi courageuse qu'un loup.
+P7	L'agente Kay est sortie de l'arbre par une porte dans le tronc d'arbre.@@Elle a couru là où le Dr Devious vivait et l'a défiée de se battre en duel.@@Ils se sont battus pendant deux jours, et Kay a gagné!
+P8	Après que ses parents sont rentrés à la maison, Kay est allée à l'arbre pour retrouver l'homme à la télévision.@@Elle a trouvé l'arbre, mais il n'y avait pas de porte.@Kay s'est assise et elle a levé les yeux vers les arbres.
+
+images:
+
+illustrations/pages/85940140.png
+illustrations/pages/85940136.png
+illustrations/pages/85940137.png
+illustrations/pages/85940138.png
+illustrations/pages/85940139.png
+illustrations/pages/85940140.png
+illustrations/pages/85940141.png
+illustrations/pages/85940142.png
+
+translations:
+
+English (Original)	Secret agent	id=33732
+isiZulu (Translation)	Usozimfihlo	id=33783
+Kiswahili (Translation)	Ajenti wa Siri	id=33835
+Lingala (Translation)	Bato ya kobombama	id=33814
+Sesotho (South Africa) (Translation)	Sehlwela	id=33801

@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=33888&d=0&a=1
+id:	33888
+title:	እርግማን ወይስ ምርቃን?
+author:	Kebede Yimer
+artist:	Marleen Visser, Natalie Propa, Silva Afonso and Vusi Malindi
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33888.png
+desc:	ሰዎች በራሳቸው አቅም ስለማይሠሩት  ነገር ፈጣሪያቸውን ይማጠናሉ ወይ  ያማርራሉ፡፡ ዝናቡ ምርቃን ነበር ወይስ እርግማን?
+
+page_text:
+
+P1	ለብዙ ወራት፣ ሰማይ ደረቅ ሆነ፡፡  ታዋቂው ዝናብ አምጪ ሎሞንጊን ለአማልእክቱ ተናገረ፡፡  ሰዎች ከሱ መኖሪያ ቤት አካባቢ ተሰብስበው፣  የተስፋውን መልእክት በጭንቀት መጠባበቅ ጀመሩ።
+P2	ዝናብ አምጪው ሲመጣ፣ ፈጣሪ ለሰዎቹ ቶሎ ዝናብ ሊሰጣቸው እንደሆነ  አረጋገጠ፡፡ እህላቸውን መዝራት ይችላሉ፡፡
+P3	እኛ ዝናቡን ስንጠባበቅ ልጆች ውጭ ላይ ይጫወቱ ነበር፡፡ ከዚያ ቀን በኋላ፣ በሩቅ ምስራቅ በኩል ትላልቅ ነጫጭ ደመናዎችን አየን። እነሱ የዝናብ ደመናዎች እንደሆኑም አውቅኩ።
+P4	ዝናብ አምጭው ምን እንደሚል ሕዝቡ ገና እያሰላሰለ ነበር፡፡ እማዬ  ጮክ ብላ "እዛ ጋ! ደመናዎቹ አሁን እየጠቆሩ ነው፡፡ ወደ ውስጥ ግቡ" አለች፡፡
+P5	ዝናቡ እየተንዠቀዠቀ ወረደ፡፡
+P6	ዝናቡን ስንጠብቅ ቆየን! መጀመሪያ ተደሰትን፡፡ ዝናቡ ግን አላባራ አለ፡፡
+P7	በሁሉም ቦታ ውሃ ነበር፡፡ መደራችንን ከዋናው ሰፈር የሚያገናኘው ድልድይ በጎርፍ ተወስዷል፡፡
+P8	ቤቶች በጎርፍ ተወሰዱ፡፡  ምን ነበር በረከቱ፣ ለእኛ  ጥፋት ሆኖብናል፡፡
+P9	ሁሉም ሰው ለመዝራት ተዘጋጅቶ ነበር፡፡  አሁን ግን   መዝራት አልቻለም፡፡  የመንደሬ ሰዎች  ዝናብ ሲመኙ ነበር፡፡ አሁን ግን አይፈልጉትም፡፡ የምንሻገርበት ድልድይ የለም፡፡ ብዙ ሰዎች ቤት የላቸውም፡፡
+P10	እናም፣ ሌላም ችግር ገጥሞናል! አዞዎች በሁሉም ቦታ ሲዋኙ አየን፡፡  ይህ ነገር ፈጽሞ ተከሥቶ አያውቅም፡፡ ግራ ገባን፡፡
+P11	ሁሉም ሱቆች ከወንዙ ማዶ ስለነበሩ ወደ ሱቅ መሄድ አልቻልንም፡፡ ትምህርት ቤቶችም ከወንዙ ማዶ ስለነበሩ ሕጻናት ወደ ትምህርት ቤት መሄድ አልቻሉም፡፡
+P12	በረከት ምን መሆን ነበረበት፣ ለእኛ እርግማን ሆነብን፡፡ ዝናብ አምጪው ሎሞንጊንም እንደኛው ተበሳጭቷል፡፡ ብቸኛው ደስተኛ  ከ8 ድመቶቹ ጋር ካፑስ ነበር፡፡
+
+images:
+
+illustrations/pages/10980.png
+illustrations/pages/10625.png
+illustrations/pages/10619.png
+illustrations/pages/12877.png
+illustrations/pages/12885.png
+illustrations/pages/14604.png
+illustrations/pages/7964.png
+illustrations/pages/10075.png
+illustrations/pages/16430.png
+illustrations/pages/14605.png
+illustrations/pages/10581.png
+illustrations/pages/7963.png
+illustrations/pages/12024.png
+
+translations:
+
+English (Original)	A Curse or a Blessing?	id=13317
+French (Translation)	Malédiction ou bénédiction ?	id=33445
+Hausa (Nigeria) (Translation)	Alheri Ko Annoba?	id=20852
+Hausa (Nigeria) (Translation)	Gyara ko Ɓarna	id=21082
+Kanuri (Translation)	Karto ra Barga?	id=32371
+Kinyarwanda (Uganda) (Translation)	Umucheno Changa Umugisha?	id=20942
+Kumam (Translation)	Ilam Amotoko Winyo	id=20808
+Lusoga (Translation)	Amaadhi Kikolimo oba Mukisa?	id=22661
+Runyankore (Translation)	Omucheeno Oba Omugyisha	id=20650

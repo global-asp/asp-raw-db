@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=34023&d=0&a=1
+id:	34023
+title:	Testing app
+author:	S S
+artist:	Wiehan de Jager, Rob Owen and Magriet Brink
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34023.png
+desc:	Testing App.  Cant . Wontnstorymaker
+
+page_text:
+
+P1	I am testing the application. I can't seem to 'publish' my stories.
+P2	'application update'. Can't publish.  'apostrophe'
+P3	Can't. Won't. 'n...
+
+images:
+
+illustrations/pages/26091.png
+illustrations/pages/7605.png
+illustrations/pages/7599.png
+illustrations/pages/8524.png
+
+translations:
+

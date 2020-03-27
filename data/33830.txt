@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33830&d=0&a=1
+id:	33830
+title:	Ana Amudhi a Mariya
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Echuwabo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33830.png
+desc:	Um Livro de Zebra Pequena sobre a família.
+
+page_text:
+
+P1	Ddincemelriwa Mariya.
+P2	Oddu ddi mamayaga.
+P3	Oddu ddi mwana mung'ono.
+P4	Oddu ddi babi waga.
+P5	Oddu ddi m'balaga.
+P6	Oddu ddi murogoraga.
+P7	Oddu ddi bibi waga wa mwiyana.
+P8	Oddu ddi bibi waga wa mulobwana.
+P9	Oddu ddi titiwaga.
+P10	Oddu ddi titiyaga.
+P11	Aba ba ana amudhi aga.
+
+images:
+
+illustrations/pages/85590188.png
+illustrations/pages/85590178.png
+illustrations/pages/85590179.png
+illustrations/pages/85590180.png
+illustrations/pages/85590181.png
+illustrations/pages/85590182.png
+illustrations/pages/85590183.png
+illustrations/pages/85590184.png
+illustrations/pages/85590185.png
+illustrations/pages/85590186.png
+illustrations/pages/85590187.png
+illustrations/pages/85590188.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Banja la Maria	id=33828
+Cinyungwe (Translation)	Wadzindza wa Mboyi	id=33829
+English (Original)	Maria's Family	id=33152
+isiXhosa (Translation)	Usapho luka Thembi	id=33539
+Kiswahili (Translation)	Familia ya Maria	id=33659
+Portuguese (Translation)	A Minha Família	id=33538

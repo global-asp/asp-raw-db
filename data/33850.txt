@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33850&d=0&a=1
+id:	33850
+title:	Jardin au Congo
+author:	Caroline  Oyugi
+artist:	Christelle  X
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33850.png
+desc:	À propos de la maison et du jardin que cette jeune écrivaine a dû abandonner quand elle a quitté sa maison au Congo. (Histoire et illustrations créées lors dun atelier de vacances en Juin 2019
+
+page_text:
+
+P1	Cette maison est au Congo.@@J'aime cette maison.
+P2	Nous avions notre propre salle de bains.@@Nous avions notre propre toilette.
+P3	Nous avions un jardin.@@Je plantais mon propre jardin.
+P4	Ma mère m'a dit, "Ma mère m'a appris à planter et, je t'apprends."
+P5	J'ai planté des tomates et des épinards. @@Je l'ai fait toute seule.
+P6	J'emmenais des tomates à ma mère.@@ Elle disait, "Merci."
+P7	Nous avons quitté cette maison est au Congo.
+P8	Nous n'avons pas de jardin ici en Afrique du Sud.
+
+images:
+
+illustrations/pages/91400127.png
+illustrations/pages/91400125.png
+illustrations/pages/91400126.png
+illustrations/pages/91400127.png
+illustrations/pages/91400128.png
+illustrations/pages/91400129.png
+illustrations/pages/91400130.png
+illustrations/pages/91400131.png
+
+translations:
+
+English (Original)	A garden in Congo	id=33736
+French (Translation)	Un jardin au Congo	id=33866
+isiZulu (Translation)	Ingadi esayishiya eCongo	id=33775
+Kiswahili (Translation)	Bustani yetu kule Kongo	id=33837
+Lingala (Translation)	Bilanga na Congo	id=33806
+Sesotho (South Africa) (Translation)	Tshimo e Congo	id=33791

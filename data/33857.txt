@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33857&d=0&a=1
+id:	33857
+title:	Mes beaux chiens
+author:	Caroline  Oyugi
+artist:	Priscilla  K
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33857.png
+desc:	A propos de deux chiens bien-aimés. (Histoire et les illustrations ont été créées lors dun atelier de vacances au mois de juin 2019
+
+page_text:
+
+P1	Ma mère m'a donné deux chiots.@@Ils étaient mignons!
+P2	J'ai décidé de les nommer Royauté et Blackie.
+P3	Royauté était brune et elle était comme une reine.@@Blackie était un beau chien noir avec des cheveux longs.
+P4	J'avais l'habitude de les promener chaque jour quand je revenais de l'école.
+P5	Quelquefois, je les fais prendre du bain, moi-même.@@Royauté s'enfuirait!
+P6	Puis, nous avons déménagé dans un appartement.@@Là, les chiens étaient interdits.
+P7	Ainsi, nous avons laissés Blackie et Royauté avec mes cousins.@@Un matin, j'ai décidé de rendre visite à mes chiens.
+P8	J'ai découvert que Blackie était perdu. Donc, Royauté se sentait seule.@@Je me suis senti très mal dans mon cœur.
+
+images:
+
+illustrations/pages/91400152.png
+illustrations/pages/91400151.png
+illustrations/pages/91400152.png
+illustrations/pages/91400153.png
+illustrations/pages/91400154.png
+illustrations/pages/91400155.png
+illustrations/pages/91400156.png
+
+translations:
+
+English (Original)	My lovely dogs	id=33740
+Gikuyu (Translation)	Ngui ciakwa igĩrĩ nyendete	id=33861
+isiZulu (Translation)	Izinja zami ezinhle	id=33779
+Kiswahili (Translation)	Mbwa wangu wa kupdendeza	id=33841
+Lingala (Translation)	Ba bwa na ngai nalingaka	id=33810
+Sesotho (South Africa) (Translation)	Ntja tsa ka tse ratehang	id=33795

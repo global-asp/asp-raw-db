@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33835&d=0&a=1
+id:	33835
+title:	Ajenti wa Siri
+author:	Brigid Simiyu
+artist:	Linda  Liphondo and Sbusiso  Boikanyo
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33835.png
+desc:	Wakati Daktari Mpotovu anawateka nyara wazazi wa Kate
+
+page_text:
+
+P1	Hapo zamani, kulikuwa na msichana aliyeitwa Kate.@@Wazazi wa Kate walikuwa wanasayansi werevu. Walikuwa wakifanya kazi kwenye mradi wa juu wa siri katika maabara yao.
+P2	Mwanasayansi mwovu kwa jina Daktari Mpotovu, alitaka kujua siri hasa ya mradi huo wa siri.@@Usiku mmoja, Daktari Mpotovu alimtuma mshiriki wake aliyeitwa Dan Mharibifu kuwateka nyara wazazi wa Kate.
+P3	Dan aliwashika wazazi. Karibu pia ampate Kate. Lakini, kwa vile Kate alikuwa mdogo na mwepesi wa mbio, aliweza kutoweke.@@Kate alikimbia kama umeme.
+P4	Kate alijikuta katika msitu mweusi uliozungukwa na miti.@@Alipotazama juu, aliteleza na kuanguka!
+P5	Alianguka chini, chini, chini, na kugonga kichwa chake.@@Kate alipoamka, alikuwa katika chumba kizuri  kilichokuwa na Runinga kubwa.
+P6	"Hujambo Kate," mtu aliyekuwa kwenye Runinga alisema. @@"Mimi ni ajenti wa siri wa Dunia Nzuri! Wewe sasa ni ajenti wetu mpya wa siri! "@@Maneno hayo yalimfanya Kate kuwa jasiri kama mbwa mwitu.
+P7	Ajenti Kate aliuacha mti kupitia mlango wa ndani kwenye shina.@@Alikimbia hadi mahali Daktari Mpotovu aliishi na kumtaka wapigane vita vya watu wawili.@@Walipigana kwa siku mbili, hadi Kate akawa mshindi!
+P8	Baada ya wazazi wake kurudi nyumbani, Kate alikwenda kumtafuta yule mtu aliyekuwa kwenye Runinga.@@Aliupata mti, lakini hapakuwa na mlango.@@Kate alikaa chini ya mti na kuwaza.
+
+images:
+
+illustrations/pages/85940140.png
+illustrations/pages/85940136.png
+illustrations/pages/85940137.png
+illustrations/pages/85940138.png
+illustrations/pages/85940139.png
+illustrations/pages/85940140.png
+illustrations/pages/85940141.png
+illustrations/pages/85940142.png
+
+translations:
+
+English (Original)	Secret agent	id=33732
+French (Translation)	Agent secret	id=33848
+isiZulu (Translation)	Usozimfihlo	id=33783
+Lingala (Translation)	Bato ya kobombama	id=33814
+Sesotho (South Africa) (Translation)	Sehlwela	id=33801

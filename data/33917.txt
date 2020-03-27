@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=33917&d=0&a=1
+id:	33917
+title:	Izicathulo
+author:	Dudu  Shabane
+artist:	Siphatisiwe Ndlovu
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33917.png
+desc:	Intombazanyana ixoxa ngezinhlobo-nhlobo zezicathulo
+
+page_text:
+
+P1	Ziningi izinhlobo zezicathulo.
+P2	Kunalezi ezigqokwa uma ilanga lishisa ezithi 'phaqa-phaqa'.
+P3	Kunalezi ezigqokwa omama uma beya ebumnandini, ezithi 'qhwa-qhwa'.
+P4	Kube nezabantwana besikole ezithi 'foko-foko' uma behamba ngazo.
+P5	Ezobaba abazigqoka uma beya emsebenzini zona zithi 'nyefu-nyefu'.
+P6	Mina, engizithanda kakhulu ilezi engizigqoka uma ngisendlini ngibuka umabonakude. @@Zona ke zintofontofo. Zijabulisa inyawo zami.
+P7	Zihlanzeke okwedlula ezikamfowethu zasemasimini, ezigcwele udaka.
+P8	Futhi zinhle kunezika dadewethu ezinuka phu, agijima ngazo. @@Ezami ngezokugqoka uma ngiphumule nje ngingacabangi lutho.
+
+images:
+
+illustrations/pages/58900500.png
+illustrations/pages/58900501.png
+illustrations/pages/58900502.png
+illustrations/pages/58900503.png
+illustrations/pages/58900504.png
+illustrations/pages/58900505.png
+illustrations/pages/58900506.png
+illustrations/pages/58900507.png
+illustrations/pages/58900508.png
+
+translations:
+
+English (Original)	Shoes	id=33914

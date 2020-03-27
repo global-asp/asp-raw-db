@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=33919&d=0&a=1
+id:	33919
+title:	Test
+author:	Test Test
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33919.png
+desc:	Test test test test test test test test test
+
+page_text:
+
+P1	Page 2
+P2	* +h ķķb J
+P3	Page 5
+
+images:
+
+illustrations/pages/7599.png
+illustrations/pages/.png
+illustrations/pages/.png
+illustrations/pages/.png
+
+translations:
+

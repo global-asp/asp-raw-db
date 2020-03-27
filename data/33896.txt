@@ -1,0 +1,94 @@
+url:	https://africanstorybook.org/reader.php?id=33896&d=0&a=1
+id:	33896
+title:	Matunda na Mboga
+author:	Ursula  Nafula
+artist:	Sue  Beattie
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33896.png
+desc:	Jifunze majina ya matunda na mboga katika kitabu hiki rahisi.
+
+page_text:
+
+P1	Pilipili
+P2	Kabeji
+P3	Malenge
+P4	Mbaazi
+P5	Pichi
+P6	Ndizi
+P7	Stroberi
+P8	Tikitimaji
+P9	Passioni
+P10	Maharage ya Kijani
+P11	Pilipili Hoho
+P12	Bamia
+P13	Mboga ya Saladi
+P14	Mahindi
+P15	Mbilingani
+P16	Nyanya
+P17	Karoti
+P18	Nanasi
+P19	Papai
+P20	Parachichi
+P21	Embe
+P22	Tofaa
+P23	Mapera
+P24	Viazi Vitamu
+P25	Tangawizi
+P26	Kitunguu Saumu
+P27	Vitunguu
+P28	Viazi
+P29	Machungwa
+P30	Limau
+P31	Radishi
+P32	Chenza
+P33	Cheri
+P34	Zabibu
+
+images:
+
+illustrations/pages/28182.png
+illustrations/pages/28112.png
+illustrations/pages/28131.png
+illustrations/pages/28109.png
+illustrations/pages/28114.png
+illustrations/pages/28115.png
+illustrations/pages/28135.png
+illustrations/pages/28106.png
+illustrations/pages/28101.png
+illustrations/pages/28116.png
+illustrations/pages/28124.png
+illustrations/pages/28134.png
+illustrations/pages/28119.png
+illustrations/pages/28193.png
+illustrations/pages/28128.png
+illustrations/pages/28137.png
+illustrations/pages/28103.png
+illustrations/pages/28130.png
+illustrations/pages/28111.png
+illustrations/pages/28117.png
+illustrations/pages/28136.png
+illustrations/pages/28120.png
+illustrations/pages/28138.png
+illustrations/pages/28123.png
+illustrations/pages/28105.png
+illustrations/pages/28126.png
+illustrations/pages/28192.png
+illustrations/pages/28108.png
+illustrations/pages/28110.png
+illustrations/pages/28118.png
+illustrations/pages/28122.png
+illustrations/pages/28107.png
+illustrations/pages/28104.png
+illustrations/pages/28129.png
+illustrations/pages/28125.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Tiyeni tidye!	id=33824
+Cinyungwe (Translation)	Tidyeni!	id=33825
+English (Original)	Fruits and Vegetables	id=32358
+English (Adaptation)	One fruit, two fruits	id=32403
+Kiswahili (Translation)	Tunda moja, matunda mawili	id=32597
+Portuguese (Translation)	Vamos comer!	id=33174

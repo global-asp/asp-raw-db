@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=33878&d=0&a=1
+id:	33878
+title:	ዛማ ጎበዝ ነች
+author:	Mezemir Girma
+artist:	Vusi Malindi
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33878.png
+desc:	ይህ ተረት ሕፃናትን እንደምንገስጻቸው ሁሉ የዕለት ከዕለት መልካም ተግባሮቻቸውን ማበረታታት እንዳለብን ያስገነዝባል፡፡
+
+page_text:
+
+P1	ታናሽ ወንድሜ ከእንቅልፉ ለመነሳት ይዘገያል።@@እኔ ጎበዝ ስለሆንኩ ቀደም ብዬ እነቃለሁ!
+P2	ፀሐይዋን ወደ ቤት የማስገባት እኔ ነኝ፡፡
+P3	‹‹የንጋት ኮከቤ ነሽ›› ትለኛለች እማማ፡፡
+P4	በየቀኑ ራሴን በራሴ እታጠባለሁ፣ የማንንም እገዛ አልፈልግም፡፡
+P5	በቀዝቃዛ ውሃ ወይም ልብስ በሚታጠብበት በሰማያዊው ሳሙና ብታጠብ ግድ የለኝም፡፡
+P6	እማማ ‹‹ጥርሶችሽን አትርሺ›› ስትል ታስታውሰኛለች፡፡@@እኔም ‹‹በጭራሽ፣ አልረሳም!›› በማለት እመልሳለሁ፡፡
+P7	ከታጠበኩ በኋላ አያቴ እና አክስቴን ሰላም እላለሁ፡፡@@መልካም ቀንን እመኝላቸዋለሁ፡፡
+P8	ከዚያ ልብሴን እለብሳለሁ፡፡@@‹‹አሁን ትልቅ ነኝ፣ እማማ›› እላለሁ፡፡
+P9	አዝራሮቼን መቆለፍና ጫማዬን ማሰር እችላለሁ፡፡
+P10	የትምህርት ቤት መረጃ ሁሉ ለወንድሜ እንደደረሰው አረጋግጣለሁ፡፡
+P11	በክፍል ውስጥ የተቻለኝን ሁሉ አደርጋለሁ፡፡
+P12	በየቀኑ እነዚህን ሁሉ ጥሩ ነገሮች አደርጋለሁ፡፡@በጣም የምወደው ነገር ግን አብዝቼ መጫወት ነው!
+
+images:
+
+illustrations/pages/7514.png
+illustrations/pages/7513.png
+illustrations/pages/7514.png
+illustrations/pages/7517.png
+illustrations/pages/7507.png
+illustrations/pages/7515.png
+illustrations/pages/7518.png
+illustrations/pages/7516.png
+illustrations/pages/7511.png
+illustrations/pages/7508.png
+illustrations/pages/7512.png
+illustrations/pages/7510.png
+illustrations/pages/7509.png
+
+translations:
+
+Arabic (Translation)	زاما المميز!	id=21847
+ChiTonga (Translation)	Zama Mukali	id=32865
+CiNyanja (Translation)	Zama Niwopambana	id=32846
+English (Adaptation)	Zama is great!	id=9984
+English (Adaptation)	(Colour-in) Zama is great!	id=32519
+French (Translation)	Zama est formidable!	id=33692
+IciBemba (Translation)	Zama Umwana Musuma!	id=32844
+Khoekhoegowab (Translation)	Zamab ge a kai	id=24656
+Kinyarwanda (Translation)	Mutesi Intangarugero	id=32623
+Kiswahili (Translation)	Dama ni mashuhuri!	id=22086
+Lusoga (Translation)	Juma wa Maani!	id=25917
+Lusoga (Translation)	Mbwali mubitirivu	id=25945
+Oshikwanyama (Translation)	Zama omunandjungu	id=24129
+Oshindonga (Translation)	Zama omwa nawa	id=23885
+Otjiherero (Translation)	Zama omusemba	id=24171
+Otuho (Translation)	Ara Zama anitok!	id=33108
+Rukwangali (Translation)	Zama Ependa!	id=31489
+Sepedi (Translation)	Maleka ke sekgwari!	id=32457
+Sesotho (South Africa) (Translation)	Zama o etsa hantle	id=32411
+Siswati (Translation)	Zama ungumcemane!	id=32443

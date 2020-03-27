@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=33914&d=0&a=1
+id:	33914
+title:	Shoes
+author:	Siphatisiwe Ndlovu
+artist:	Siphatisiwe Ndlovu
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33914.png
+desc:	People wear different types of shoes for different activities. Find out about my favourite shoes! (This storybook was created on the Maker App at a workshop in Durban (February 2020)
+
+page_text:
+
+P1	There are shoes for all occasions.
+P2	Shoes when the sun shines go 'flip-flop'.
+P3	Shoes for ladies going to a party go 'clip-clop'.
+P4	Shoes for girls and boys going to school go 'tough-turf'.
+P5	Shoes for daddies going to work go 'shift-shaft'.
+P6	My favourite shoes are those I wear at home. Those go 'fush-fush'.@@They are soft. They hug my feet.
+P7	They are cleaner than my brother's muddy gumboots.
+P8	They are prettier than my sister's smelly running shoes.@@My shoes are for when you are relaxed, with no cares in the world.
+
+images:
+
+illustrations/pages/58900500.png
+illustrations/pages/58900501.png
+illustrations/pages/58900502.png
+illustrations/pages/58900503.png
+illustrations/pages/58900504.png
+illustrations/pages/58900505.png
+illustrations/pages/58900506.png
+illustrations/pages/58900507.png
+illustrations/pages/58900508.png
+
+translations:
+
+isiZulu (Translation)	Izicathulo	id=33917

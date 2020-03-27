@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33847&d=0&a=1
+id:	33847
+title:	L'arbre de la paix
+author:	Caroline  Oyugi
+artist:	Tshiamo  Msimanga, Tumi  Mofokane and Mpumelelo  Mlangeni
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33847.png
+desc:	Nous avons tous besoin dun lieu où nous pouvons trouver la paix. (Lhistoire créée par les enfants pendant un atelier de vacances au mois de Juillet 2019
+
+page_text:
+
+P1	Il y avait une fille qui s'appelle Ayanda. @@Elle était l'enfant unique de ses parents.@@Sa mère et son père voulaient se séparer.
+P2	Donc, Ayanda a décidé de fuir la maison.@@Elle est allée dans la forêt car elle ne savait pas où d'autre aller.
+P3	Elle a été poursuivie par un loup, ainsi elle a grimpé à un arbre.@@Le loup a essayé de la mordre alors, elle a grimpé plus haut.
+P4	Au sommet de l'arbre, elle a vu le beau soleil.@@Elle est tombée amoureuse du soleil et elle a décidé de rester dans la forêt.
+P5	Ayanda grimpait à l'arbre tous les jours pour parler au soleil.@@Le soleil est devenu sa famille.
+P6	Un jour, Ayanda a vu un homme regarder haut dans l'arbre. Cet homme était son père.@@Ayanda est descendue de l'arbre. Son père lui a expliqué pourquoi il était là.
+P7	Il a dit, "Bien avant ta naissance, ta mère et moi nous rencontrions ici. C'est un endroit spécial."@@"Ces jours, je grimpe à cet arbre pour avoir la paix quand ta mère et moi avons une dispute," son père a dit.
+P8	Après un moment, la mère d'Ayanda est aussi venue dans la forêt.@@Elle est venue se réconcilier avec le père d'Ayanda.@@C'était leur arbre de la paix.
+
+images:
+
+illustrations/pages/85940129.png
+illustrations/pages/85940129.png
+illustrations/pages/85940130.png
+illustrations/pages/85940131.png
+illustrations/pages/85940132.png
+illustrations/pages/85940133.png
+illustrations/pages/85940134.png
+illustrations/pages/85940135.png
+
+translations:
+
+English (Original)	The peace tree	id=33731
+isiZulu (Translation)	Isihlahla sokuthula	id=33782
+Kiswahili (Translation)	Mti wenye amani	id=33759
+Lingala (Translation)	Nzete ya kimia	id=33813
+Sesotho (South Africa) (Translation)	Sefate sa kgotso	id=33798

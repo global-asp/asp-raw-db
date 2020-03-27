@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33853&d=0&a=1
+id:	33853
+title:	ጅቦች ለምን ያነክሳሉ?
+author:	Mezemir Girma
+artist:	Adonay  Gebru
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33853.png
+desc:	ይህ ተረት ጅቦች እንግዳ የሆነ የአረማመድ ዘይቤ ሊኖራቸው እንደቻለ ምክንያቱን ያቀርባል፡፡ (ታሪኩ በደብረ ብርሃን በሚገኘው በራስ አበበ አረጋይ ቤተመጻሕፍት በ2018 እ.ኤ.አ የተጻፈ ነው፡፡)
+
+page_text:
+
+P1	ከበርካታ ዓመታት በፊት ጅቦች ተርበው ነበር፡፡ በድርቅ ምክንያት በተከሰተ ረሃብ ሳቢያ ፍየሎች፣ በጎችና ላሞች ሳይቀሩ ወደ ሌሎች ቦታዎች ተሰደው ነበር፡፡ ጅቦች ምንም የሚበሉት ነገር አልነበራቸውም፡፡
+P2	ከጅቦቹ አንዱ ‹‹በኛ ባህል ማናቸውንም የሚሰደድ ነገር እንበላለን፡፡ ተመልከቱ፤ እነዚህ ደመናዎች እየሄዱ ነው፡፡›› ጅቡ ደመናዎቹ ወደ ሌሎች ቦታዎች እየተሰደዱ መስሎታል፡፡ ‹‹እንብላቸው›› አለ፡፡
+P3	ወዲያውኑ ሁሉም ጅቦች ወደ ሰማይ አንጋጠው ደመናዎቹን ሲንቀሳቀሱ አዩዋቸው፡፡  @አንዱ ወጣት ጅብ ‹‹ደመናዎቹን እንዴት እንደርስባቸዋለን? ከመሬት በጣም ሩቅ ናቸው›› ሲል ጠየቀ፡፡
+P4	ከሁሉም ጅቦች ዕድሜ-ጠገብ የሆነው ‹‹ከሁላችንም ጠንካራ የሆነው ጅብ ከታች ይቁምና ሌሎቻችን አንዳችን በሌላችን ጀርባ ላይ እንደራረብ፡፡ አንዳችን በሌላችን ጀርባ ላይ ወጥተን ደመናዎቹ ላይ እንደርሳለን›› አለ፡፡
+P5	ተስማምተው አንዳቸው በሌላቸው ጀርባ ላይ መውጣት ጀመሩ፡፡ @በአፍታ ጊዜ ውስጥ ከጠንካራው ጅብ በስተቀር መሬት ላይ የቀረ ጅብ አልነበረም፡፡
+P6	የመጨረሻው ጅብ ከወጣ በኋላ መሬት ላይ ያለው ጅብ ሌሎቹ መብላት የጀመሩ መሰለው፡፡ ‹‹ከምትበሉት ምግብ ለምን ትንሽ አትሰጡኝም?›› ሲል ጠየቀ፡፡
+P7	ይሁን እንጂ ጅቦቹ ደመናው ላይ አልደረሱም፡፡@ምንም ምግብ ስላላገኙ መሬት ላይ ተሸክሟቸው ለቆመው ጠንካራ ጅብ የሚሰጡት ምንም ነገር አልነበራቸውም፡፡
+P8	ጠንካራው ጅብ መታገስ ስላቃተው ወደ ግራ ተንቀሳቀሰ፡፡ ሌሎቹ ሁሉም ወደ ግራ ወደቁ፡፡ @በዚህም ምክንያት እስከ ዛሬ ድረስ ሁሉም ጅቦች የግራ እግራቸው ያነክሳል፡፡
+
+images:
+
+illustrations/pages/27762.png
+illustrations/pages/27758.png
+illustrations/pages/27759.png
+illustrations/pages/27760.png
+illustrations/pages/27761.png
+illustrations/pages/27762.png
+illustrations/pages/27763.png
+illustrations/pages/27764.png
+illustrations/pages/27765.png
+
+translations:
+
+Afaan Oromo (Translation)	Waraabesootnii maaliif okkolan?	id=31950
+English (Original)	Why hyenas limp	id=31949
+Kinyarwanda (Translation)	Impamvu impyisi zigenda zicumbagira	id=32114
+Sepedi (Translation)	Gobaneng diphiri di hlotša	id=33349

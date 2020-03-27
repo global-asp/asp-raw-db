@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=33868&d=0&a=1
+id:	33868
+title:	Abebech, la conductrice de bajaj
+author:	Zanne Viljoen
+artist:	Yirgalem  Birhanu
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33868.png
+desc:	Cest une histoire qui remet en question la notion commune qui veut que dans la société
+
+page_text:
+
+P1	Un bajaj est un véhicule à trois roues.@@Il est utilisé en ville pour se déplacer rapidement d'un endroit à l'autre.
+P2	Dans notre communauté, conduire est une activité dominée par les hommes.@@Les femmes n'y participent généralement pas.
+P3	Un jour, Abebech a demandé à ses parents de lui donner de l'argent pour prendre des leçons de conduite.@@Ses parents lui ont dit : "Ce travail n'est pas bon pour les filles. Que diraient les gens ?"
+P4	Neansmoins, Abebech a dit:  "Je peux faire tout ce que font les autres".  Elle les a convaincus.@@Ses parents lui ont permis de prendre des lecons de conduite.
+P5	Abebech a bien fini l'entrainement.@@Ses parents ont discute ce qu'il faut faire ensuite.
+P6	Ils etaient d'accord de lui acheter un bajaj pour elle.@@Alors,  Abebech a commence a conduire un bajaj sur les routes.
+P7	Un jour, Abebech avait une idee geniale.@@Elle a affiche sur son bajaj son numero de telephone.
+P8	Le texte disait: "Je transporte gratuitement les femmes enceintes, les mères qui n'ont pas encore accouché et les enfants.@@Les mères dont les enfants sont tombés malades l'appelaient.
+P9	Abebech a gagne de l'argent en transportant les gens.  Elle continuait a donner des services gratuites aux gens sans argent.
+P10	Abebech etait tres contente avec son travail.  Les vieux l'ont benie.  Tout le monde parlait sans cesse de son travail.@@Abebech leur a dit: "Faire de bonnes choses, c'est profitable.
+
+images:
+
+illustrations/pages/27145.png
+illustrations/pages/27153.png
+illustrations/pages/27152.png
+illustrations/pages/27154.png
+illustrations/pages/27155.png
+illustrations/pages/27149.png
+illustrations/pages/27145.png
+illustrations/pages/27148.png
+illustrations/pages/27150.png
+illustrations/pages/27151.png
+
+translations:
+
+Amharic (Translation)	አበበች ሴቷ አሽከርካሪ	id=24735
+English (Original)	Abebech, the female bajaj driver	id=23862
+Kinyarwanda (Translation)	Keza, umukobwa utwara akamodoka gato	id=32871
+Kiswahili (Translation)	Abby, dereva wa kike wa tuktuk	id=24752
+Lusoga (Translation)	Abbigairi omuvuzi gha bbajaaji	id=26613
+Lusoga (Translation)	Ebebech, omuvuzi oghepikipiki omugunha	id=29205
+Tigrigna (Translation)	ኣበበች ጓል ኣንስተይቲ  ዘዋሪት ባጃጅ	id=25986

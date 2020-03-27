@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=34001&d=0&a=1
+id:	34001
+title:	Fumbini Primary school
+author:	Clara Munga
+artist:	Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34001.png
+desc:	A story about a boy going to a new school.
+
+page_text:
+
+P1	Monday morning dada took me to a new school.
+P2	I saw teachers' work desks. They weren't new.
+
+images:
+
+illustrations/pages/7966.png
+illustrations/pages/7976.png
+illustrations/pages/.png
+
+translations:
+

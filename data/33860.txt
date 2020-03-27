@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33860&d=0&a=1
+id:	33860
+title:	Ngui ya Dennis
+author:	Anne  Kamau and Mary  Kimaru
+artist:	Merdi  K
+lang:	Gikuyu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33860.png
+desc:	Ngui njerῦ ya Dennis ya thugumῖra iratῦ cia mῦratawe. (Rugano na mbica ciathondekirwo mwaka wa ngiri igῖrῖ na ikῦmi na kenda
+
+page_text:
+
+P1	Mũrata wakwa Dennis ũrῖa tũriganῖtie akῖjῖta.@@"Ũka wone ngui yakwa njerũ," Dennis akiuga.
+P2	Ngui yarῖ na maroro mairũ na mũtwe mũnene.@@Ĩkῖmakia!@@Ngῖigua guoya taῖngῖnũma.
+P3	Tũgῖthiῖ gũceria ngui, niῖ na Dennis.
+P4	Ngui ῖkῖinia mũting'oe.
+P5	Ĩgῖkũha!
+P6	Ĩgῖthugamῖra iratũ ciakwa!@@Hiiii!
+P7	Dennis akῖoya gathangũ akῖhura mathugamo ma ngui.
+P8	O hau ngῖmenya Dennis nῖ mῦrata mwega.
+
+images:
+
+illustrations/pages/85940115.png
+illustrations/pages/85940114.png
+illustrations/pages/85940115.png
+illustrations/pages/85940116.png
+illustrations/pages/85940117.png
+illustrations/pages/85940118.png
+illustrations/pages/85940119.png
+illustrations/pages/85940120.png
+illustrations/pages/85940121.png
+
+translations:
+
+English (Original)	Dennis's dog	id=33721
+French (Translation)	Le chien de Dennis	id=33727
+isiZulu (Translation)	Inja kaDennis	id=33773
+Kiswahili (Translation)	Mbwa wa Dennis	id=33726
+Lingala (Translation)	Bwa ya Dennis	id=33804
+Sesotho (South Africa) (Translation)	Ntja ya Dennis	id=33789

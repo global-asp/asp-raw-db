@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=33842&d=0&a=1
+id:	33842
+title:	Wazazi wangu
+author:	Brigid Simiyu
+artist:	Gloria  M 
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33842.png
+desc:	Inaweza kuwa ngumu sana wazazi wako wasipokuwa pamoja tena. (Hadithi na picha ilitayarishwa katika warsha ya likizo ya Juni 2019
+
+page_text:
+
+P1	Baba anaishi Yovel.
+P2	Mimi ninaishi Betrams na mama na dada zangu wawili.
+P3	Ninamwona baba anapokuja siku ya sherehe ya kuzaliwa kwangu.
+P4	Ningependa aishi nasi.@@Sijui kwa nini hatuishi pamoja.
+
+images:
+
+illustrations/pages/91400160.png
+illustrations/pages/91400157.png
+illustrations/pages/91400158.png
+illustrations/pages/91400159.png
+illustrations/pages/91400160.png
+
+translations:
+
+English (Original)	My parents	id=33741
+French (Translation)	Mes parents	id=33858
+Gikuyu (Translation)	Aciari akwa	id=33862
+isiZulu (Translation)	Abazali bami	id=33780
+Lingala (Translation)	Baboti na ngai	id=33811
+Sesotho (South Africa) (Translation)	Batswadi ba ka	id=33796

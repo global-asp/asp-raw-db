@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=33856&d=0&a=1
+id:	33856
+title:	Josias fait les courses
+author:	Caroline  Oyugi
+artist:	Josias  M
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33856.png
+desc:	La joie de prendre une boisson fraîche et sucrée quand il fait chaud. (Lhistoire et les illustrations ont été créées lors dun atelier de vacances au mois de juin 2019
+
+page_text:
+
+P1	Il y a une petite boutique près de chez moi.
+P2	Le propriétaire est un homme mince avec une petite  voix.
+P3	Je vais au réfrigérateur. Je prends une boisson fraîche à la fraise.
+P4	Je donne mon argent à cet homme mince.
+P5	Cette boisson Kingsley à la fraise a un goût si doux!
+P6	La fraise a un goût si doux!
+
+images:
+
+illustrations/pages/91400148.png
+illustrations/pages/91400146.png
+illustrations/pages/91400147.png
+illustrations/pages/91400148.png
+illustrations/pages/91400149.png
+illustrations/pages/91400150.png
+
+translations:
+
+English (Original)	Josias goes shopping	id=33739
+isiZulu (Translation)	UJosias uya esitolo	id=33778
+Kiswahili (Translation)	Josia ananunua kinywaji	id=33840
+Lingala (Translation)	Josias akei kosomba biloko	id=33809
+Sesotho (South Africa) (Translation)	Kopano o ya mabenkeleng	id=33794

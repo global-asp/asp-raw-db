@@ -1,0 +1,28 @@
+url:	https://africanstorybook.org/reader.php?id=33930&d=0&a=1
+id:	33930
+title:	My Best Day
+author:	Beatrice Mathu
+artist:	
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33930.png
+desc:	A day i will never forget. My most memorable experience.
+
+page_text:
+
+P1	Today is friday.
+P2	today is valentines
+P3	we will to town
+P4	we will have lunch together
+
+images:
+
+illustrations/pages/13905.png
+illustrations/pages/.png
+illustrations/pages/9840.png
+illustrations/pages/9636.png
+illustrations/pages/13257.png
+
+translations:
+

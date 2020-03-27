@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=33841&d=0&a=1
+id:	33841
+title:	Mbwa wangu wa kupdendeza
+author:	Brigid Simiyu
+artist:	Priscilla  K
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33841.png
+desc:	Hadithi inahusu mbwa wawili wapendwa. (Hadithi na picha ilitayarishwa katika warsha ya likizo ya Juni 2019
+
+page_text:
+
+P1	Mama yangu alinipatia watoto wa mbwa wawili.@@Walikuwa maridadi sana!
+P2	Niliamua kuwaita Kifalme na Jeusi.
+P3	Kifalme alikuwa wa rangi ya kahawia, na, alikuwa kama malkia.@@Jeusi alikuwa mbwa mweusi maridadi mwenye manyoya marefu.
+P4	Nilizoea kuwatembeza kila siku baada ya kutoka shuleni.
+P5	Wakati mwingine niliwaosha peke yangu. @@Kifalme alipenda kutoroka!
+P6	Halafu, tulihama na kwenda kwenye ghorofa.@@Mbwa hawakuruhusiwa huko.
+P7	Tuliwaachia binamu zangu Jeusi na Kifalme.@@Asubuhi moja, niliamua kuwatembelea mbwa wangu.
+P8	Nilipata kuwa Jeusi alikuwa amepotea na Kifalme alikuwa mpweke.@@Nilihisi vibaya sana moyoni mwangu.
+
+images:
+
+illustrations/pages/91400152.png
+illustrations/pages/91400151.png
+illustrations/pages/91400152.png
+illustrations/pages/91400153.png
+illustrations/pages/91400154.png
+illustrations/pages/91400155.png
+illustrations/pages/91400156.png
+
+translations:
+
+English (Original)	My lovely dogs	id=33740
+French (Translation)	Mes beaux chiens	id=33857
+Gikuyu (Translation)	Ngui ciakwa igĩrĩ nyendete	id=33861
+isiZulu (Translation)	Izinja zami ezinhle	id=33779
+Lingala (Translation)	Ba bwa na ngai nalingaka	id=33810
+Sesotho (South Africa) (Translation)	Ntja tsa ka tse ratehang	id=33795

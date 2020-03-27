@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33843&d=0&a=1
+id:	33843
+title:	Tout le monde va au Malawi
+author:	Caroline  Oyugi
+artist:	Jacquiline  K
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33843.png
+desc:	Est-ce quil y a quelquun qui va rester avec la jeune écrivaine de cette histoire? (Lhistoire et les illustrations créées lors dun atelier de vacances au mois de juin 2019
+
+page_text:
+
+P1	Nous vivions avec ma grand-mère et ma mère.
+P2	Mes cousins, Christina, Thandi, Junior et aussi Ma tante, vivaient avec nous.
+P3	Ma grand-mère nous apprenait des jeux. @@C'était très sympa!
+P4	Un jour, Junior est allé au Malawi et grand-mère est allée au Malawi.
+P5	Ma tante et Christina aussi, sont allées au Malawi.
+P6	Enfin, Thandi aussi, est parti pour le Malawi.
+P7	C'était vraiment triste.@@Personne ne pouvait rester avec nous.
+P8	Mais, ce n'est pas si grave, car ma mère est toujours ici avec moi.
+
+images:
+
+illustrations/pages/91400121.png
+illustrations/pages/91400117.png
+illustrations/pages/91400118.png
+illustrations/pages/91400119.png
+illustrations/pages/91400120.png
+illustrations/pages/91400121.png
+illustrations/pages/91400122.png
+illustrations/pages/91400123.png
+illustrations/pages/91400124.png
+
+translations:
+
+English (Original)	Everyone goes to Malawi	id=33735
+isiZulu (Translation)	Bonke baya eMalawi	id=33774
+Kiswahili (Translation)	Kila mmoja anakwenda Malawi	id=33757
+Lingala (Translation)	Batu nionso bakokende Malawi	id=33805
+Sesotho (South Africa) (Translation)	Batho bohle ba ya Malawi	id=33790

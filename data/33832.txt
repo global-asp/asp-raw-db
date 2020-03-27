@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=33832&d=0&a=1
+id:	33832
+title:	Alikucita ciyani?
+author:	Little Zebra Books
+artist:	N D Mazin
+lang:	Cinyungwe
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33832.png
+desc:	Um Livro de Zebra Pequena sobre crianças ativas.
+
+page_text:
+
+P1	Alikufambisa.
+P2	Alikuthusa bola.@Alikuyakha bola.
+P3	Alikugunkhulisa.
+P4	Alikuthamanga.@Alikumuthamangisa.
+P5	Alikumbvengeresa.
+P6	Alikungweredza cingwe.@Alikumoga.
+P7	Alikumenya nthamba bola.
+P8	Alikuwona.@Alikubzina ntsolo.
+P9	Alikusendza m'golo.
+P10	Alikubzina nyimbo.
+
+images:
+
+illustrations/pages/85590141.png
+illustrations/pages/85590151.png
+illustrations/pages/85590154.png
+illustrations/pages/85590147.png
+illustrations/pages/85590153.png
+illustrations/pages/85590155.png
+illustrations/pages/85590144.png
+illustrations/pages/85590157.png
+illustrations/pages/85590152.png
+illustrations/pages/85590159.png
+illustrations/pages/85590158.png
+illustrations/pages/85590138.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Akutani?	id=33831
+English (Adaptation)	What Are They Doing?	id=33587
+Kiswahili (Translation)	Je, Wanafanya Nini?	id=33606
+Portuguese (Translation)	O Que Estão Fazendo?	id=33593

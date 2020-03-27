@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33859&d=0&a=1
+id:	33859
+title:	Nĩ nyendete
+author:	Elizabeth  Mboche and George  Maina
+artist:	Patience  M
+lang:	Gikuyu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33859.png
+desc:	Nĩ ũndũ owothe na mũndũ wothe atĩ nĩendetwo nĩ mwandĩki mwĩthĩ. (Rũgano na cionereria ciathondekirwo mweri wa gatandatũ mwaka wa ngiri igĩrĩ na ikumi na kenda hĩndĩ ya mathomo ma rũtha
+
+page_text:
+
+P1	Nĩ nyendete gũthaka mũbira.@@Nyendete gũthaka mũbira na Theuri, Njeru na Ben.
+P2	Nĩ nyendete mami wakwa.@@Nĩ atumaga theke.
+P3	Nĩ nyendete Ngai, tondũ nĩanyũmbire.
+P4	Nĩ nyendete thukuru, tondũ arimũ mathomithagia ũrĩa njagĩrĩirwo nĩ kumenya.
+P5	Nĩ nyendete gũthaka na magui, tondũ nĩ mwago.
+P6	Nĩ nyendete mĩthenya ya gũciarwo, tondũ nĩngũngũagĩra.
+P7	Na ndĩ nyendete tondũ…
+P8	…tondũ…nĩ njĩkaga!
+
+images:
+
+illustrations/pages/91400141.png
+illustrations/pages/91400138.png
+illustrations/pages/91400140.png
+illustrations/pages/91400141.png
+illustrations/pages/91400142.png
+illustrations/pages/91400139.png
+illustrations/pages/91400143.png
+illustrations/pages/91400144.png
+illustrations/pages/91400145.png
+
+translations:
+
+English (Original)	I love	id=33738
+French (Translation)	J'aime	id=33855
+isiZulu (Translation)	Engikuthandayo	id=33777
+Kiswahili (Translation)	Ninapenda	id=33839
+Lingala (Translation)	Na lingi	id=33808
+Sesotho (South Africa) (Translation)	Ke rata…	id=33793

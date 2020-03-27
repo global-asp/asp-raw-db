@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=33863&d=0&a=1
+id:	33863
+title:	Mũbira ni ũturõ
+author:	Mutuma  Gacheri
+artist:	Pimville Library Soccer
+lang:	Kῖmῖῖrũ 
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33863.png
+desc:	Kĩrĩ twãnã twa gikundi kiã mũcetho jwa mῦbira ni ũturõ. (Ngono na mbicha ithithitue ni ãna ngwatanirone rũthene rwã mweri jwa julaĩ 2019
+
+page_text:
+
+P1	Bling nêndete mũbira jwa mãguru.@@Akiarĩria mũcetho, aũgaga, "Mũbira nĩ ũturo."
+P2	Bling arĩ mũcethi ũria mwêga mõnõ wã mũritani Sepo.@@Mũritani nĩagwiragũa nĩ gĩkundi kĩawe.@@Acêthĩ bãbãingi ĩbêndaga kũgwatana nãbõ.
+P3	Mũcetho jwã gitũmi ĩjwabãngi kwĩja.@@Gĩkũndi gĩa ãcethi ikiaibangãnagia ntũkũ cĩonthe.@@Mũntũ wõnthe nakenaĩra mũcetho jũũ jũmũnene!
+P4	Mũritani wã gĩkundi kĩu kĩngĩ nãri mũntũ wã rũkũnũ.@@Nãri nã rũkũnũ mõnõ kĩri kũmbana kwã mũritani Sepo.
+P5	Mũritani wã rũkũnũ nêtĩrê kĩenine ũtuku mbêrê yã mũcetho.@@Arãnda gĩntũ gĩkithuku.@@Arãnda ũrogi!
+P6	Bling nãciũmirĩe mwãmbirĩo jwã mũcetho.@@Etĩtê kũingirĩa.
+P7	Aãtiã, rĩũ ãgwã!@@"Bling?" kĩrindi kĩraugirĩa.@@"Bling?" Mũritani Sepo ãrãmwerenca.
+P8	"Utikĩo gikangitarĩa!" Bling ãrãciera.@@"Mũbira ni ũturõ."@@Arõkira nã ãrãcetha mwãnka mũthia.
+
+images:
+
+illustrations/pages/85940126.png
+illustrations/pages/85940122.png
+illustrations/pages/85940123.png
+illustrations/pages/85940124.png
+illustrations/pages/85940125.png
+illustrations/pages/85940126.png
+illustrations/pages/85940127.png
+illustrations/pages/85940128.png
+
+translations:
+
+English (Original)	Soccer is life	id=33730
+French (Translation)	Le foot c'est la vie	id=33846
+isiZulu (Translation)	Ibhola liyimpilo yabo	id=33784
+Kiswahili (Translation)	Soka ni maisha	id=33758
+Lingala (Translation)	Bomoi ya ndembo	id=33815
+Sesotho (South Africa) (Translation)	Bophelo ba papadi ya bolo ya maoto	id=33802

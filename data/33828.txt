@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33828&d=0&a=1
+id:	33828
+title:	Banja la Maria
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Cinyanja (Mozambique)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33828.png
+desc:	Um Livro de Zebra Pequena sobre a família.
+
+page_text:
+
+P1	Ndine Maria.
+P2	Awa ndi mayi anga.
+P3	Uyu ndiye mwana wa kwathu.
+P4	Awa ndi bambo anga.
+P5	Uyu ndi m'chimwene wanga.
+P6	Uyu ndi m'chemwali wanga.
+P7	Awa ndi agogo anga aakazi.
+P8	Awa ndi agogo anga aamuna.
+P9	Awa ndi amalume anga.
+P10	Awa ndi azakhali anga.
+P11	Banja lathu!
+
+images:
+
+illustrations/pages/85590188.png
+illustrations/pages/85590178.png
+illustrations/pages/85590179.png
+illustrations/pages/85590180.png
+illustrations/pages/85590181.png
+illustrations/pages/85590182.png
+illustrations/pages/85590183.png
+illustrations/pages/85590184.png
+illustrations/pages/85590185.png
+illustrations/pages/85590186.png
+illustrations/pages/85590187.png
+illustrations/pages/85590188.png
+
+translations:
+
+Cinyungwe (Translation)	Wadzindza wa Mboyi	id=33829
+Echuwabo (Translation)	Ana Amudhi a Mariya	id=33830
+English (Original)	Maria's Family	id=33152
+isiXhosa (Translation)	Usapho luka Thembi	id=33539
+Kiswahili (Translation)	Familia ya Maria	id=33659
+Portuguese (Translation)	A Minha Família	id=33538

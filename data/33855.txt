@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=33855&d=0&a=1
+id:	33855
+title:	J'aime
+author:	Caroline  Oyugi
+artist:	Patience  M
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33855.png
+desc:	A propos de tout et de tout le monde qui est aimé par cette jeune écrivaine. (Lhistoire et les illustrations créées lors dun atelier de vacances au mois de juin 2019
+
+page_text:
+
+P1	J'aime jouer au foot.@@J'aime jouer au foot avec Tando, Patrice et Ben.
+P2	J'aime ma mère.@@Elle me fait rire.
+P3	J'aime Dieu car Dieu m'a créée.
+P4	J'aime bien l'école parce que les enseignants m'apprennent ce que je dois savoir.
+P5	J'aime aussi jouer avec les chiens, parce que c'est amusant.
+P6	J'adore les anniversaires car j'aime fêter.
+P7	Enfin, je m'aime parce que...
+P8	... parce que … je m'aime.
+
+images:
+
+illustrations/pages/91400141.png
+illustrations/pages/91400138.png
+illustrations/pages/91400140.png
+illustrations/pages/91400141.png
+illustrations/pages/91400142.png
+illustrations/pages/91400139.png
+illustrations/pages/91400143.png
+illustrations/pages/91400144.png
+illustrations/pages/91400145.png
+
+translations:
+
+English (Original)	I love	id=33738
+Gikuyu (Translation)	Nĩ nyendete	id=33859
+isiZulu (Translation)	Engikuthandayo	id=33777
+Kiswahili (Translation)	Ninapenda	id=33839
+Lingala (Translation)	Na lingi	id=33808
+Sesotho (South Africa) (Translation)	Ke rata…	id=33793

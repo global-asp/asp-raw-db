@@ -1,0 +1,73 @@
+url:	https://africanstorybook.org/reader.php?id=34033&d=0&a=1
+id:	34033
+title:	Les couleurs d'un arc-en-ciel
+author:	Zanne Viljoen
+artist:	Jesse Breytenbach
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34033.png
+desc:	Cette histoire parle des couleurs dun arc-en-ciel et des choses quon pourrait voir dans la vie quotidienne qui partagent ces couleurs.
+
+page_text:
+
+P1	Un arc-en-ciel a sept couleurs.
+P2	La première couleur est rouge.
+P3	Kewyu porte une chemise rouge.
+P4	La deuxième couleur, c'est orange.
+P5	Voici une orange.  Quoi d'autre peux-tu voir qui a une couleur orange?
+P6	La troisième couleur est jaune.
+P7	Le jaune d'un œuf est jaune! Que peux-tu voir d'autre qui est jaune?
+P8	La quatrième couleur est verte.
+P9	Notre potager de bananes est vert.
+P10	La cinquième couleur est bleue.
+P11	Le ciel est bleu.
+P12	La sixième couleur est indigo.
+P13	Ces baies sont de couleur indigo.
+P14	La septième couleur est la couleur violette.
+P15	Ma robe est violette.  C'est ma couleur préférée. Et ta couleur favorite ?
+P16	Connais-tu les sept couleurs de l'arc-en-ciel?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Amharic (Translation)	7 የቀስተደመና ቀለሞች	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+CiNyanja (Translation)	Mautoto asanu ndi awili a uta wa leza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
+English (Translation)	Colours of a rainbow	id=10463
+English (Adaptation)	Seven colours in a rainbow	id=19760
+Fulfulde Mbororoore (Translation)	Noone Timbotimbola	id=32258
+Hausa (Nigeria) (Translation)	Launi Bakwai na Bakan-gizo	id=20798
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=20679
+Kabuverdianu (Translation)	Séti Kor di Arkuíris	id=32032
+Kikamba (Translation)	Utathi	id=15419
+Kinyarwanda (Translation)	Amabara y'umukororombya	id=23174
+Kiswahili (Original)	Rangi za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke ali na langi 7	id=20396
+Lusoga (Translation)	Langi edhiri ku musoke	id=30604
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Siswati (Translation)	Imibala yemushi wenkhosatane	id=13066

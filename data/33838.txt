@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33838&d=0&a=1
+id:	33838
+title:	Kucheza Kidalipo
+author:	Brigid Simiyu
+artist:	Mary  Z
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33838.png
+desc:	Furaha ya kutopatikana unapocheza mchezo waKidalipo. (Hadithi na picha ilitayarishwa katika warsha ya likizo ya Juni 2019
+
+page_text:
+
+P1	"Njoo tucheze Kidalipo," kaka yangu aliniambia.
+P2	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12…@@…92, 93, 94, 95, 96, 100!
+P3	Kaka yangu alikuja kunitafuta.@@Nilikuwa nimejificha nyuma ya pazia.
+P4	Alinitafuta nyumba nzima.
+P5	Aliingia ndani ya chumba nilimokuwa nimejificha.
+P6	Nilitulia kabisa.@@Nilikuwa nikiwaza, "Atanipata."
+P7	Halafu, alitoka nje!
+P8	Nilikimbia nje.@@Nikapiga kelele, "Hukunipata!"
+
+images:
+
+illustrations/pages/91400133.png
+illustrations/pages/91400137.png
+illustrations/pages/91400133.png
+illustrations/pages/91400134.png
+illustrations/pages/91400135.png
+illustrations/pages/91400136.png
+illustrations/pages/91400132.png
+
+translations:
+
+English (Original)	Hide and Seek	id=33737
+French (Translation)	Cache - Cache	id=33851
+isiZulu (Translation)	Sidlala umacashelana	id=33776
+Lingala (Translation)	Kobatama pe komona	id=33807
+Sesotho (South Africa) (Translation)	Boleke maipatile	id=33792

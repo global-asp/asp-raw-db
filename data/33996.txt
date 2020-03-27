@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=33996&d=0&a=1
+id:	33996
+title:	Extended characters vowels test
+author:	African Storybook
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33996.png
+desc:	This storybook shows some extended characters (Samsung galaxy keyboard) for vowels
+
+page_text:
+
+P1	ıíîïıįī @(None of these is correct diacritic for Kikuyu)
+P2	Üųûúűūů
+P3	Òóôõöøőœ
+P4	àáâãäąăāæå
+P5	éèëēêəĕěęė
+
+images:
+
+illustrations/pages/1499.png
+illustrations/pages/.png
+illustrations/pages/.png
+illustrations/pages/.png
+illustrations/pages/.png
+illustrations/pages/.png
+
+translations:
+

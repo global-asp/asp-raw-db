@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=33829&d=0&a=1
+id:	33829
+title:	Wadzindza wa Mboyi
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Cinyungwe
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33829.png
+desc:	Um Livro de Zebra Pequena sobre a família.
+
+page_text:
+
+P1	Ndine Mboyi.
+P2	Awa ni mai wangu.
+P3	Iri ni tsece.
+P4	Awa ni baba wangu.
+P5	Uyu ni m'bale wangu wacimuna.
+P6	Uyu ni m'bale wangu wacikazi.
+P7	Awa ni yavu wangu wacikazi.
+P8	Awa ni yavu wangu wacimuna.
+P9	Awa ni tiyu wangu.
+P10	Awa ni tiya wangu.
+P11	Awa ni wadzindza wangu.
+
+images:
+
+illustrations/pages/85590188.png
+illustrations/pages/85590178.png
+illustrations/pages/85590179.png
+illustrations/pages/85590180.png
+illustrations/pages/85590181.png
+illustrations/pages/85590182.png
+illustrations/pages/85590183.png
+illustrations/pages/85590184.png
+illustrations/pages/85590185.png
+illustrations/pages/85590186.png
+illustrations/pages/85590187.png
+illustrations/pages/85590188.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Banja la Maria	id=33828
+Echuwabo (Translation)	Ana Amudhi a Mariya	id=33830
+English (Original)	Maria's Family	id=33152
+isiXhosa (Translation)	Usapho luka Thembi	id=33539
+Kiswahili (Translation)	Familia ya Maria	id=33659
+Portuguese (Translation)	A Minha Família	id=33538

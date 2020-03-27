@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=33851&d=0&a=1
+id:	33851
+title:	Cache - Cache
+author:	Caroline  Oyugi
+artist:	Mary  Z
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/33851.png
+desc:	Le plaisir de ne pas être trouvé quand vous jouez au  jeu deCache-Cache. (Histoire et illustrations créées lors dun atelier de vacances en Juin 2019
+
+page_text:
+
+P1	"Jouons à Cache-Cache," m'a dit frère.
+P2	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 …@@…92, 93, 94, 95, 96, 100!
+P3	Mon frère venait me retrouver.@@Je me cachais derrière le rideau.
+P4	Il m'a cherché partout dans la maison.
+P5	Il est venu dans la chambre où je me cachais.
+P6	Je suis resté très immobile.@@Je pensais, "Il va me trouver."
+P7	Puis, il est allé à l'extérieur.
+P8	Je suis sorti en courant.@@J'ai crié, "Tu ne m'as pas trouvé!"
+
+images:
+
+illustrations/pages/91400133.png
+illustrations/pages/91400137.png
+illustrations/pages/91400133.png
+illustrations/pages/91400134.png
+illustrations/pages/91400135.png
+illustrations/pages/91400136.png
+illustrations/pages/91400132.png
+
+translations:
+
+English (Original)	Hide and Seek	id=33737
+isiZulu (Translation)	Sidlala umacashelana	id=33776
+Kiswahili (Translation)	Kucheza Kidalipo	id=33838
+Lingala (Translation)	Kobatama pe komona	id=33807
+Sesotho (South Africa) (Translation)	Boleke maipatile	id=33792

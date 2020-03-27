@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=34030&d=0&a=1
+id:	34030
+title:	Methali za jamii ya Nyungwe
+author:	Ursula  Nafula
+artist:	Max  Okoto
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34030.png
+desc:	Mithali za watu wa jamii ya Nyungwe
+
+page_text:
+
+P1	Kumuua nyani, lazima uwe na macho makavu.
+P2	Mbwa anayebweka, haumi.
+P3	Wakati viboko wanapigana, ni nyasi ndizo huteseka.
+P4	Kifaranga huchafua kiota kwa sababu hivyo ndivyo anaona mamake akifanya.
+P5	Usiseme kwamba kuna tembo unapokuwa pale juu ya mabega yangu.
+P6	Chura wote huzaliwa kwa njia ile ile.
+P7	Kidole kimoja hakiwezi kuua chawa.
+P8	Simba asiyekuwa na nyama, hula nyasi.
+P9	Ni mbuzi mdogo aliye nyuma ya kundi ndiye hupatwa na fimbo.
+P10	Unaogopa giza wakati ambapo hata fisi hawapo.
+P11	Kinyonga hufa kwa ajili ya aibu.
+P12	Ili uweze kuyaona macho ya konokono, lazima usubiri.
+P13	Mchekelee tu kasa, lakini ni yeye ndiye ana maji.
+P14	Mgeni ndiye humuua nyoka.
+P15	Fisi anayelilia mashambani hali wimbi.
+P16	Simba anayekula binadamu haendi nje usiku.
+
+images:
+
+illustrations/pages/28152.png
+illustrations/pages/28156.png
+illustrations/pages/28154.png
+illustrations/pages/28159.png
+illustrations/pages/28153.png
+illustrations/pages/28155.png
+illustrations/pages/28167.png
+illustrations/pages/28157.png
+illustrations/pages/28163.png
+illustrations/pages/28158.png
+illustrations/pages/28161.png
+illustrations/pages/28152.png
+illustrations/pages/28164.png
+illustrations/pages/28166.png
+illustrations/pages/28165.png
+illustrations/pages/28160.png
+illustrations/pages/28162.png
+
+translations:
+
+Cinyungwe (Original)	Mimwani ya Anyungwe	id=32362
+English (Translation)	Proverbs of the Nyungwe People	id=33183
+French (Adaptation)	Des proverbes du peuple nyungwe	id=34117
+Portuguese (Translation)	Provérbios do Povo Nyungwe	id=33184
