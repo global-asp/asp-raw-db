@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=37107&d=0&a=1
+id:	37107
+title:	Ku valanga Afrika-Dzonga
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Chantel  Botha
+lang:	Xitsonga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37107.png
+desc:	Xi dyondzisa hi swifundzakulu swa 9 swa Afrika-Dzonga na madorobakulu ma swona. (Buku leya ntsheketo yi tshuriwile xidzi eka Maker App
+
+page_text:
+
+P1	Cheyeza na Nkateko va famba ku ya valanga Afrika-Dzonga.@@Riendzo ra vona ri sungula eKhimbhini, eKapa-N'walungu.@@EKhimbhini u ta kuma godi leri vuriwaka Big Hole!
+P2	Vhuum! Vhuuum! Cheyeza na Nkateko va languta va hundza, se va kongoma eKapa-Vupeladyambu.@@Cheyeza na Nkateko va kha tidiriva ta juzi emapurasini.
+P3	Vhuum! Vhuuum! Nkateko a hundza, se kongoma eBhisho, eKapa-Vuxa.@@Vanghana lavambirhi va tiphina eElephant Park!
+P4	Vhuum! Vhuuum! se va kongoma eFree State.@@Kona va navela swiluva swa tirhozi leswi balekeke eBloemfontein.
+P5	Se va le Mahikeng eN'walungu-Vupeladyambu.@@Xitimela xi hunguta rivilo ku hlangana na Rina, mhelembe ya le Ntangeni wa Swiharhi.@@Kutani vanghana va hina va tsutsumela ePolokwane, eLimpopo.
+P6	Chuku! Chuku! Se va le ku hlweleni. Xitimela a xi yimi eJoni, eGauteng.@@Va ri exitimeleni va vona mimovha na vanhu edorobeni ra nsuku.
+P7	Chuku! Chuku! Va hundza, se va kongoma Emalahleni, eMpumalanga.@@Va endzela feme yikulu ya malahla ku kuma mafurha mo chela eka xitimela xa vona.
+P8	Cheyeza na Nkateko va hetelela riendzo ra vona ra xitimela ePietermaritzburg, eKwaZulu-Natal.@@Va avelana na vanghana va vona tibanana to tsokombela, va bula hi ku valanga tiko.@@Xana wa tsundzuka swifundzakulu na madorobakulu ya swona?
+
+images:
+
+illustrations/pages/93740287.png
+illustrations/pages/93740280.png
+illustrations/pages/93740282.png
+illustrations/pages/93740284.png
+illustrations/pages/93740281.png
+illustrations/pages/93740283.png
+illustrations/pages/93740285.png
+illustrations/pages/93740286.png
+illustrations/pages/93740287.png
+
+translations:
+
+Afrikaans (Translation)	Avonture deur Suid-Afrika	id=34707
+English (Original)	Adventure around South Africa	id=34655
+Setswana (Translation)	Loeto go ralala Aforika Borwa	id=34714
+Tshivenḓa (Translation)	Lwendo lu takadzaho lwa u mona Afurika Tshipe	id=37027

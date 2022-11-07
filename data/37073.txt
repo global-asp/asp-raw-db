@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=37073&d=0&a=1
+id:	37073
+title:	Village life
+author:	Tsegaye Lemma
+artist:	Wiehan de Jager, Vusi Malindi and Catherine Groenewald
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37073.png
+desc:	This story is about a brave and lazy farmers.
+
+page_text:
+
+P1	እንኳን ደህና መጣችሁ!
+P2	እንኳን ደህና ቆያችሁ።
+P3	ጉዞ ጥሩ ነበር ?
+P4	እግዚአብሔር ይመስገን ጥሩ ነበር ።
+P5	በሰላም ስለመጡ ደስ ብሎናል ።
+P6	እናመሰግናለን ።
+
+images:
+
+illustrations/pages/7977.png
+illustrations/pages/1495.png
+illustrations/pages/7978.png
+illustrations/pages/7986.png
+illustrations/pages/8601.png
+illustrations/pages/7985.png
+illustrations/pages/7604.png
+
+translations:
+

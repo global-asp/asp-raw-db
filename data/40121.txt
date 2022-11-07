@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=40121&d=0&a=1
+id:	40121
+title:	The Longest Legs
+author:	Zoey Ruley
+artist:	Catherine Groenewald
+lang:	0
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40121.png
+desc:	This is a really short book. Its called the longest legs
+
+page_text:
+
+P1	Once a boy named Nick rode his bike. His legs were so long. He had a huge bike
+P2	Nick tried to get off his bike but he got stuck.
+
+images:
+
+illustrations/pages/311.png
+illustrations/pages/318.png
+illustrations/pages/314.png
+
+translations:
+

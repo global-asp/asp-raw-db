@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34202&d=0&a=1
+id:	34202
+title:	Ariana anataka kutembelea Kenya
+author:	Kez Badi
+artist:	Brian Wambi, Catherine Groenewald, Isaac Okwir, Jesse Breytenbach, Rob Owen and Salim Kasamba
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34202.png
+desc:	Ariana Wangari alizaliwa Amerika. Mama yake amemwambia hadithi nyingi kuhusu Kenya. Sasa Ariana anataka kuja Kenya.
+
+page_text:
+
+P1	Ariana yuko Amerika. @@Anataka kutembelea Kenya.
+P2	Barabarani, ataona kondoo.@@Ataona bodaboda na tuktuk.
+P3	Ataona jamaa zake wa Kenya.
+P4	Jamaa zake watafanya sherehe kubwa.@@Ariana atasherehekea na kufurahi nao.
+P5	Ariana atacheza na watoto wengine.
+P6	Akienda sokoni, ataona vitu vingi tofauti vikiuzwa.@@Atawaona watu waliovalia mavazi tofuati.
+P7	Atakula matunda mengi sana.@@Atakula machungwa, ndizi na mananasi.
+P8	Ariana atajaribu kupanda miti mrefu.@@Hajawahi kufanya hivyo akiwa Amerika.
+P9	Atayaona mashamba yenye mimea tofauti.@@Wakenya wengi ni wakulima.
+P10	Atatembelea mbuga za wanyama.@@Atawaona wanyama wa porini kama simba, ndovu, twiga na punda milia.
+P11	Ataona wanyama wa kufugwa kama kuku, paka, mbuzi na njiwa.@@Amerika, anafuga paka mmoja na mbwa mmoja.
+P12	Atashuhudia harusi kijijini.@@Atawaona watu wakiimba na kucheza ngoma za kitamaduni.
+P13	Ataitembelea pwani ya Kenya.@@Ataogelea katika bahari ya Hindi.
+P14	Jumapili, Ariana atajiunga na jamaa zake kwenda kanisani.
+P15	Ariana atafurahia sana kuitembelea Kenya.
+
+images:
+
+illustrations/pages/9850.png
+illustrations/pages/9850.png
+illustrations/pages/25049.png
+illustrations/pages/18757.png
+illustrations/pages/18768.png
+illustrations/pages/9845.png
+illustrations/pages/7976.png
+illustrations/pages/9842.png
+illustrations/pages/18762.png
+illustrations/pages/25811.png
+illustrations/pages/9651.png
+illustrations/pages/25266.png
+illustrations/pages/25949.png
+illustrations/pages/9848.png
+illustrations/pages/25953.png
+illustrations/pages/9853.png
+
+translations:
+
+English (Translation)	Ariana wants to visit Kenya	id=34291
+German (Translation)	Ariana sie möchte nach Kenia	id=34712

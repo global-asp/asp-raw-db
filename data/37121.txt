@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=37121&d=0&a=1
+id:	37121
+title:	Bovha, mbyana ya mina
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Tebogo Boikanyo Matshana
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37121.png
+desc:	U tshama u hlangana na mbyana yo fana na leyi?
+
+page_text:
+
+P1	A wu se tshama u hlangana na mbyana yo tlhariha yo fana na Bovha?@@Yi ehleketa leswaku na yona i munhu.
+P2	Loko ndzi hlamba meno, na yona yi lava ndzi yi hlambisa meno.
+P3	Loko ndzi vona thelevhixini, na yona yi fambisa mahlo.@@Wonge yi twisisa hinkwaswo leswi humelelaka eka thelevhixini.
+P4	Madyambu man'wana, a hi ri ku voneni ka bolo.@@Ivi ku gongondziwa enyangweni.@@A ku ri munghana wa mina Masesi.
+P5	A swi tsakisa ku n'wi vona. Hi pfuxelana hi tsakile.@@Kambe Masesi a nga xewetangi Bovha.@@A ndzi rivarile ku va tivisa!
+P6	Bovha a yi toloverile ku xewetiwa hi qhavula emin'waleni.@@A yi khunguvanyekile.@@Hi ya tshama ehansi. Kambe ndzi nga si nyika Masesi xotshama, Masesi a tshama exitulwini xa Bovha!
+P7	Bovha yi tsandzeka ku tikhoma. A yi ndzi nyikangi na nkarhi wo vulavula.@@Hi ku copeta ka tihlo, yi fika yi tshama ehenhla ka milenge ya Masesi.@@Yi sungula ku n'wi vukula, yi n'wi langutile ematihlweni.
+P8	Bovha a yi leva! Masesi a nga tivi ku ri u ta endla yini.@@Hi xihatla ndzi fika ndzi susa Bovha ehenhla ka Masesi.@@Kusuka siku rero, Masesi a nga ha tangi ekaya.
+
+images:
+
+illustrations/pages/91400170.png
+illustrations/pages/91400165.png
+illustrations/pages/91400166.png
+illustrations/pages/91400167.png
+illustrations/pages/91400173.png
+illustrations/pages/91400174.png
+illustrations/pages/91400170.png
+illustrations/pages/91400171.png
+illustrations/pages/91400172.png
+
+translations:
+
+English (Adaptation)	Heidi, my dog	id=33745
+Setswana (Translation)	Ntšwa ya me, Heidi	id=33752
+Spanish (Translation)	Mi perro Simón	id=36479
+Tshivenḓa (Translation)	Mmbwa yanga, Heidi	id=37297

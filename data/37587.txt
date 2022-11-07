@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=37587&d=0&a=1
+id:	37587
+title:	Rangi za Msingi
+author:	Mama Ndege
+artist:	Ubongo
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37587.png
+desc:	Jifunze kutambua rangi za msingi. Rangi za msingi ni rangi ambazo zikichanganywa zinatoa rangi nyingine tofauti.
+
+page_text:
+
+P1	Waridi na pilipili ni nyekundu.
+P2	Nyekundu inapendeza.
+P3	Ndizi na jua ni rangi ya njano.
+P4	Njano inang'aa.
+P5	Anga na bahari ni rangi ya bluu.
+P6	Bluu inatulia.
+P7	Ukichanganya nyekundu na rangi ya njano, utapata rangi ya chungwa.
+P8	Ukichanganya rangi za bluu na njano, utapata rangi ya kijani.
+P9	Ukichanganya nyekundu na rangi ya bluu, utapata rangi ya zambarau.
+P10	Nyekundu, rangi ya njano na rangi ya bluu ni rangi za msingi.
+
+images:
+
+illustrations/pages/99600457.png
+illustrations/pages/99600467.png
+illustrations/pages/99600458.png
+illustrations/pages/99600460.png
+illustrations/pages/99600459.png
+illustrations/pages/99600462.png
+illustrations/pages/99600461.png
+illustrations/pages/99600463.png
+illustrations/pages/99600464.png
+illustrations/pages/99600465.png
+illustrations/pages/99600466.png
+
+translations:
+

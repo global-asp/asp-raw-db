@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=34753&d=0&a=1
+id:	34753
+title:	¡Imagina!
+author:	Aprende Leyendo
+artist:	Alice Toich, Catherine Groenewald, Jano Strydom, Jesse Breytenbach, Razaque Lázaro Quive, Rob Owen and Wiehan de Jager
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34753.png
+desc:	Una historia sobre el desarrollo de las habilidades de imaginación en los niños.
+
+page_text:
+
+P1	Imagina un mundo en donde todos podamos hacer un picnic a orillas de una laguna, con nuestra familia y amigos.
+P2	Imagina un mundo donde todas las personas sepan leer y haya libros en todos los idiomas.
+P3	Imagina el día en que des a luz a tu primer bebe o seas papá por primera vez.
+P4	Imagina un mundo en donde todas las personas vivamos en paz como hermanos y hermanas.
+P5	Imagina un mundo donde puedes caminar sobre el agua.
+P6	Imagina un mundo donde tus hijos o los míos puedan ser presidentes.
+P7	Imagina un mundo donde estés a punto de ser enterrado y luego ¡Vuelas a la vida!
+P8	Imagina un mundo donde las personas tienen alas para volar, y con estas pueden llegar a donde está su creador.
+P9	Imagina un mundo en donde todo el suelo del mundo este cubierto con una alfombra verde.
+
+images:
+
+illustrations/pages/9847.png
+illustrations/pages/8629.png
+illustrations/pages/9066.png
+illustrations/pages/9722.png
+illustrations/pages/8945.png
+illustrations/pages/9652.png
+illustrations/pages/9069.png
+illustrations/pages/9627.png
+illustrations/pages/9592.png
+illustrations/pages/5648.png
+
+translations:
+
+English (Original)	Imagine	id=9902
+Lulamoogi (Translation)	Ologhoozye	id=26501
+Lusoga (Translation)	Fumintirizaamu	id=27170

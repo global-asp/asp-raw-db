@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=36397&d=0&a=1
+id:	36397
+title:	¡Cuídate en la playa!
+author:	Aprende Leyendo
+artist:	
+lang:	Spanish
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36397.png
+desc:	Hay corrientes peligrosas en algunas playas. Se llaman corrientes de resaca y pueden alejar a una persona de la playa muy rápido. Por esto debes nadar en una playa que tiene salvavidas y nadar dentro de la zona delimitada. (Esta historia fue escrita y publicada por el National Sea Rescue Institute (NSRI)
+
+page_text:
+
+P1	Cuando vayas a la playa, averigua cuál tiene salvavidas. @@Siempre trata de visitar las playas cuyos salvavidas están cuidando a los nadadores. @@Los salvavidas en guardia pondrán banderas amarillas y rojas para mostrarte dónde es seguro nadar.
+P2	Mucha gente no puede ver las corriente de resaca en el mar. @@Las corrientes de resaca son como rápidos ríos que pueden arrastrar incluso a los mejores nadadores lejos de la playa. @@Es por esto que es mejor nadar dentro del área designada por las banderas de los salvavidas.
+P3	Si te arrastra una corriente de resaca, intenta no entrar en pánico. @@Trata de nadar hacia la izquierda o la derecha del flujo de la corriente. @@No intentes nadar contra la corriente. Esto hará que te asustes y te canses más.
+P4	Para estar seguro cuando visitas la playa, siempre debes escuchar a los salvavidas. @@Y trata de asegurarte que siempre estés entre las banderas rojas y amarillas en la playa. Las banderas te muestran dónde las corrientes son seguras.
+
+images:
+
+illustrations/pages/18470601.png
+illustrations/pages/18470602.png
+illustrations/pages/18470603.png
+illustrations/pages/18470604.png
+illustrations/pages/18470605.png
+
+translations:
+
+English (Original)	Stay safe at the beach!	id=34549

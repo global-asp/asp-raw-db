@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=34105&d=0&a=1
+id:	34105
+title:	J'aime faire
+author:	Stefanie Zaske
+artist:	Wiehan de Jager
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34105.png
+desc:	Des phrases simples qui parlent de ce quune petite fille aime faire.
+
+page_text:
+
+P1	J'aime sauter à la corde avec mon amie.
+P2	J'aime écrire des lettres sur le tableau.
+P3	J'aime lire des livres illustrés.
+P4	J'aime manger des fruits.
+P5	J'aime aider à la maison.
+P6	J'aime écouter les histoires de ma maman.
+P7	J'aime dormir sur un grand lit.
+P8	J'aime beaucoup faire ces choses.@@Et toi, qu'est-ce que tu aimes faire ?
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+illustrations/pages/1498.png
+illustrations/pages/1492.png
+illustrations/pages/1501.png
+illustrations/pages/1502.png
+
+translations:
+
+Afrikaans (Translation)	Wat ek graag doen	id=20061
+ChiTonga (Translation)	Ndakkomana Kucita	id=18630
+CiNyanja (Translation)	Vintu vamene nikonda kucita	id=18589
+Dhopadhola (Translation)	Amaro Timo	id=15759
+English (Original)	I enjoy doing	id=15575
+IciBemba (Translation)	Nalitemwa Ukucita Ifintu	id=18570
+isiNdebele (Translation)	Ngithanda ukwenza	id=21932
+Kiswahili (Translation)	Ninafurahi kufanya hivi	id=31301
+Lusoga (Translation)	Nhumirwa okukola	id=25982
+Sepedi (Translation)	Tšeo ke ratago go dira	id=18984
+Sesotho (South Africa) (Translation)	Ke rata ho etsa	id=20032
+SiLozi (Translation)	Natabela Kuyeza	id=18622
+Siswati (Translation)	Lengijabulela kukwenta	id=21724
+Tshivenḓa (Translation)	Zwine nda zwi takalela	id=18986
+Xitsonga (Translation)	Ndzi rhandza ku endla	id=18875

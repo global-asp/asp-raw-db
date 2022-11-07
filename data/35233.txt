@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=35233&d=0&a=1
+id:	35233
+title:	Isikhwama esikhulumako
+author:	Sponono  Mahlangu
+artist:	Wiehan de Jager
+lang:	isiNdebele
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35233.png
+desc:	Abantazana abathathu bahlangana nezimuzumu elenza sengathi lifuna ukusizwa ngeenkuni.
+
+page_text:
+
+P1	Kade kwakukhona izimuzimu elisikazi. Ngelinye ilanga lokha nalikhambako litjhinga eduze kwelitsha, lahlangana nabantazana abancani abathathu.@@Izimuzimu labuza abentazana lathi, "Ngubani kini othandwa khulu babelethi bobabili?"
+P2	Omunye wabantazana wathi umma ungithanda khulu." Omunye wathi, "Mina ubaba ungithanda khulu." @@Kodwana wokugcina wathi, "Mina ngithandwa babelethi bami bobabili."
+P3	Izimuzimu labawa umntazana othandwa babelethi bobabili ukobana alisize ukuthwala iinkuni. @@Yeke umntazana walandela izimuzimu.
+P4	Bakhamba ibangana elide. Umntazana wabuza izimuzimu wathi, "Ziphi iinkuni zakho?" @@Izimuzimu laphendula lathi, "Ziseduze kwemithi nasiya ephambili!"
+P5	Nabafika eenkunini, umntazana wabuza godu wathi, "Ziphi iinkuni zakho?" @@Izimuzimu laphendula lathi, "Silapha sesiyafika kwanjesi!"
+P6	Bahlangana nendoda endleleni nabakhambako. Labuza izimuzimu lathi, "Ngubani ibizo lomntwana wakho?" @@Izimuzimu laphendula lathi, "Ubizwa ngokuthiwa sikhwama esikhulumako."
+P7	Umntazana wathoma wavuma ingoma.@@Wavuma, "Mina angibizwa ngesikhwama esikhulumako. Ibizo lami nginguKaamungei! Bababe! Umma wami engimthandako. Bababe! Ubaba wami engimthandako! Bababe! Irhabha lami  engisela ngalo ibisi!"
+P8	Indoda nayizwa umntazana avuma, yamthatha yabaleka naye yambuyisela ebabelethini bakhe.@@Cosu cosu iyaphela!
+
+images:
+
+illustrations/pages/1461.png
+illustrations/pages/1461.png
+illustrations/pages/1462.png
+illustrations/pages/1463.png
+illustrations/pages/1465.png
+illustrations/pages/1466.png
+illustrations/pages/1467.png
+illustrations/pages/1468.png
+illustrations/pages/1469.png
+
+translations:
+
+Afrikaans (Translation)	Die pratende sak	id=11204
+Ekegusii (Translation)	Omoguko ogokwana	id=2528
+English (Original)	The talking bag	id=2112
+Kikamba (Translation)	Muvuko Unenaa	id=2529
+Kiswahili (Translation)	Mkoba uzungumzao	id=2530
+Lugbarati (Translation)	Okporua Eyo Nzepi Ri	id=2531
+Lugbarati (Official) (Translation)	Òkpóróá E'yó Nzépɨ  Ɨ̀ndɨ̀ Rɨ̀	id=8764
+Lusoga (Translation)	Ensawo eyogera	id=27124
+Maa (Translation)	Olbéné Oiró	id=2986
+Ng’aturkana (Translation)	Abusek Na Irworo	id=2532
+Oluwanga (Translation)	Iloloti Ilomalomanga	id=2533
+Siswati (Translation)	Sikhwama lesikhulumako	id=34473
+Tshivenḓa (Translation)	Mukhwama wo no amba	id=34252
+Xitsonga (Translation)	Nkwama wo vulavula	id=34326

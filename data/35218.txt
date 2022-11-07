@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=35218&d=0&a=1
+id:	35218
+title:	Who can help us?
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35218.png
+desc:	A story of a South African family during lockdown.
+
+page_text:
+
+P1	What will school be like today?@@I can't wait to see my friends!@@How will we make up the lessons we missed?
+P2	When lockdown started, I was afraid.@@Mum couldn't go to work.@@There wasn't enough money to buy food.
+P3	Mum and Dad were arguing too much!@@And you and I were fighting a lot, too.
+P4	Mr. Khumalo was very sick. I was afraid Dad would get sick, too.@@We prayed for them and God helped them.@@And then God provided us with food!
+P5	Lord Jesus,@Please help our family.@@Please be with all our friends and help them, too.@@Thank you for loving us and hearing our prayers. Amen.
+P6	"God is our strong refuge; he is truly our helper in times of trouble."@@Psalm 46:1
+
+images:
+
+illustrations/pages/93740443.png
+illustrations/pages/93740449.png
+illustrations/pages/93740443.png
+illustrations/pages/93740442.png
+illustrations/pages/93740446.png
+illustrations/pages/93740450.png
+illustrations/pages/93740445.png
+
+translations:
+
+isiXhosa (Translation)	Singancedwa ngubani?	id=35286
+Portuguese (Translation)	Quem nos pode ajudar?	id=36441
+Spanish (Translation)	¿Quién nos puede ayudar?	id=36407

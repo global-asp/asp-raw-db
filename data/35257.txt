@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=35257&d=0&a=1
+id:	35257
+title:	Mbava mbili
+author:	Tshidzanani T. Malaba
+artist:	Marion Drew
+lang:	TjiKalanga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35257.png
+desc:	Mbava mbili dzakadzihaka khwiba tjimanga munda wenlimi gumwe busiku.
+
+page_text:
+
+P1	Mbava mbili dzakadzihaka khwiba tjimanga muminda yenlimi gumwe busiku. Dzakabe dzisingazibane idzedzi mbava.
+P2	Mbava yekutanga yakaswika ikavuna tjimanga ikatjilonga musaka.
+P3	Mbava yebubili yakangina muminda yenlimi ikasiya bhasikili  layo kuhhe.
+P4	Mbava idzedzi dzakahangana muminda. Bakakuwa bose beti, "Ndiwe yani?"
+P5	Bakatotomoka, bekatihha. Umwe ekayenda ngeno umwe ekayenda yeno.
+P6	Mbava yekutanga yakasiya saka letjimanga.
+P7	Mbava yebubili ikasiya bhasikili layo.
+P8	Nlimi wakati ehha ekahingisa bhasikili ekasenga saka letjimanga.
+
+images:
+
+illustrations/pages/18364.png
+illustrations/pages/18363.png
+illustrations/pages/18364.png
+illustrations/pages/18365.png
+illustrations/pages/18366.png
+illustrations/pages/18367.png
+illustrations/pages/18368.png
+illustrations/pages/18369.png
+illustrations/pages/18370.png
+
+translations:
+
+Alur (Translation)	Jukwo Aryo	id=18774
+English (Original)	Two thieves	id=18773
+French (Translation)	Deux voleurs	id=33647
+IsiNdebele (Zimbabwe) (Translation)	Amasela amabili	id=22174
+Kinyarwanda (Translation)	Abajura babiri	id=21957
+Kirundi (Translation)	Abasuma babiri	id=32928

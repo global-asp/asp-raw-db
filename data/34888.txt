@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=34888&d=0&a=1
+id:	34888
+title:	Kethir kethir mchi
+author:	Anita David Mazila and Hawwa Birmah Dauda
+artist:	Joe  Werna
+lang:	Bura
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34888.png
+desc:	Thahir gni atha kra mchi nathi zir makaranta du dufa ka avir.
+
+page_text:
+
+P1	Pci ana thlata dՁdupa tubwa raghi.@@I ana nggata tuwar fugwum sakari kula-kula bing.
+P2	Pci ni ata tՁra ata kՁra kutakir kՁga Terfa akwabu sakar sum susimar dՁdupa.@@Atar didiwur mbwarma ni tՁng ja shurՁr bier ka@akpupa ni ana tsa ra.
+P3	Pci ana tՁra abwahila nfwa, gaagha sakar sum susimar tapchi.@@Ka tsa titila ata vi njinjabu akwa vi hughuri gyeli ni.
+P4	Pci thlathata amta ata kՁri. Shangwuri tsuwa thlathlata ahyimbli.@@I ana gyelir shangwur kՁga pazhiyerima!.
+P5	Shangwur ka kela, kuma zir rakka kuma ta ka hwi ya kwa nuni.@@Shangwur na sabul kuma a di sabul wa ta ka hwi ya kwa nuni.
+P6	I thlata, pajirna thlatha ya wuthi shangwuri. Ya yiri yanka lukwa class.@@Makaratar ku kuri, ya livi.
+P7	Yin wuti chini tsakwa takwa thira. E wuti shagwuri atha liya.@@Saka heni ksi.
+P8	Chini thira azir dhamma.@@E pippi atha kra da nkirna, e wuthum chi aka lungu.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Amharic (Translation)	ባተሌ ባተሌዋ ፀሐይ	id=39465
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Ebira (Translation)	Ukoro Ukoro  ὀyi	id=34840
+English (Original)	Busy Busy Sun	id=32416
+French (Translation)	Le soleil occupé, très occupé	id=35178
+Hausa (Nigeria) (Translation)	Zirga Zirgan rana	id=34897
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Ikwerre (Translation)	Nhebe Ne Me'he	id=34833
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyange I Memen Ga	id=36793
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

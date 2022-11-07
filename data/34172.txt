@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=34172&d=0&a=1
+id:	34172
+title:	Jesus e as crianças
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34172.png
+desc:	Uma história sobre Jesus do evangelho de Marcos 10: 13‑16. © 1999 Bible League Intl. Versão Fácil de Ler. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Alguns trouxeram algumas crianças para que Jesus as abençoasse.
+P2	Os discípulos os repreenderam.
+P3	Jesus ficou indignado.
+P4	Jesus disse: "Deixem que as crianças venham até a mim."
+P5	"Quem não receber o reino de Deus assim como uma criança o faz, nunca entrará nele."
+P6	E pegando as crianças no colo, colocava as suas mãos sobre elas e as abençoava.
+
+images:
+
+illustrations/pages/85590160.png
+illustrations/pages/85590161.png
+illustrations/pages/85590163.png
+illustrations/pages/85590164.png
+illustrations/pages/85590165.png
+illustrations/pages/85590166.png
+illustrations/pages/85590167.png
+illustrations/pages/85590162.png
+
+translations:
+
+Cinyungwe (Translation)	Jezu na wana	id=34171
+English (Original)	Jesus and the Children	id=33149

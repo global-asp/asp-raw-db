@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=34173&d=0&a=1
+id:	34173
+title:	Jezu na Zakeu
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Cinyungwe
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34173.png
+desc:	Uma história sobre Jesus do evangelho de Lucas 19: 1-10. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Zakeu akhafuna kuwona Jezu, tsono akhana msinkhu ung'ono.
+P2	Adathamanga kutsogolo ndipo adakwira mumkuyu.
+P3	Jezu adanyang'ana m'dzulu ndipo adati: "Zakeu, buluka kamkulumize."
+P4	Zakeu adabuluka mwakamkulumize.
+P5	Zakeu adatambira Jezu kunyumba kwace.
+P6	Zakeu adauza kuti: "Bzangu bzentse nin'pereka pakati‐na‐kati kuna wakusauka!"@@Ndipo Jezu adamuuza kuti: "Lero panyumba pano pafika cipulumuso!"
+
+images:
+
+illustrations/pages/85590171.png
+illustrations/pages/85590169.png
+illustrations/pages/85590170.png
+illustrations/pages/85590171.png
+illustrations/pages/85590172.png
+illustrations/pages/85590173.png
+illustrations/pages/85590174.png
+illustrations/pages/85590168.png
+
+translations:
+
+English (Original)	Jesus and Zacchaeus	id=33150
+Portuguese (Translation)	Jesus e Zaqueu	id=34174

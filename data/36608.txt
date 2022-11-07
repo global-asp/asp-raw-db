@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=36608&d=0&a=1
+id:	36608
+title:	Voete, hande en my kop!
+author:	Meryke Barkley
+artist:	Brian Wambi, Kathy Arbuckle, Sarah Bouwer, Selina Masego Morulane, Silva Afonso, Vusi Malindi, Vusumuzi Malindi and Wiehan de Jager
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36608.png
+desc:	Verken die vyf sintuie en die wonder van ons liggaam en brein.
+
+page_text:
+
+P1	Ek gebruik my voete om te hardloop, te spring en te skop.
+P2	Ek gebruik my hand om mee te eet, te werk en te teken.
+P3	Maar my kop is belangriker as my voete en my hande.
+P4	My oë is deel van my gesig.   Ek sien met my oë.
+P5	My neus is ook deel van my gesig.   Ek ruik met my neus.
+P6	Ek het twee ore wat ek gebruik om mee te luister.
+P7	Binne-in my mond is my tong.  Dit help my om te proe.
+P8	My mond is deel van my gesig.
+P9	My kop help my hele lyfie!
+
+images:
+
+illustrations/pages/13338.png
+illustrations/pages/14908.png
+illustrations/pages/9353.png
+illustrations/pages/1714.png
+illustrations/pages/14998.png
+illustrations/pages/15128.png
+illustrations/pages/16533.png
+illustrations/pages/1500.png
+illustrations/pages/10976.png
+illustrations/pages/16534.png
+
+translations:
+
+English (Adaptation)	Feet, hands and head!	id=16631
+French (Translation)	Pieds, mains et tête !	id=34567
+Kabuverdianu (Translation)	Pé, mô, i kabésa!	id=32012
+Lusoga (Translation)	Ebigere,emikono no mutwe!	id=25843
+Pidgin English (Nigeria) (Translation)	Leg, hand and head	id=37826
+Spanish (Translation)	¡Pies, manos y cabeza	id=34713

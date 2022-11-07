@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=36374&d=0&a=1
+id:	36374
+title:	Mi familia y yo
+author:	Aprende Leyendo
+artist:	Wiehan de Jager
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36374.png
+desc:	¡Una historia de las aventuras de un pequeño niño y una familia muy inusual!
+
+page_text:
+
+P1	Mi dinosaurio y yo miramos los pájaros en el cielo.
+P2	Mis pájaros y yo nos encontramos con el chimpancé en el árbol.
+P3	Mi chimpancé y yo jugamos con las jirafas en la colina.
+P4	Mis jirafas y yo hacemos bolas de lodo con el mono.
+P5	Mi mono y yo comemos bananos con el gorila todos los días.
+P6	Mi gorila y mi mono le tienen miedo a mi tortuga.
+P7	Mi tortuga y y nos devolvemos a la casa muy lento con la serpiente.
+P8	Mi serpiente y yo amamos sisear y cantar canciones por el lago.
+P9	¡Mi familia entera y yo vivimos muy felices juntos!
+
+images:
+
+illustrations/pages/5216.png
+illustrations/pages/5217.png
+illustrations/pages/5218.png
+illustrations/pages/5219.png
+illustrations/pages/5232.png
+illustrations/pages/5221.png
+illustrations/pages/5220.png
+illustrations/pages/5222.png
+illustrations/pages/5223.png
+illustrations/pages/5224.png
+
+translations:
+
+Afrikaans (Translation)	Ek en my groot familie	id=11375
+Anii (Adaptation)	Amʊ n'ambasoro	id=36556
+English (Original)	My family and I	id=5266
+French (Translation)	Ma Famille Et Moi	id=9924
+Fulfulde (Translation)	Min E Koreeji Am	id=10003
+isiNdebele (Translation)	Mina nomndeni wami	id=35224
+isiZulu (Adaptation)	Mina nomdeni wami	id=13596
+Kanuri (Translation)	Wu-a Yallani-A	id=10032
+Kinyarwanda (Translation)	Tubana mu byishimo	id=22148
+Kiswahili (Translation)	Mimi na familia yangu	id=7871
+Luganda (Translation)	Nze N’Abenŋanda Zange	id=8295
+Lugbarati (Official) (Translation)	Má 'ɨ́ Àzɨ́nɨ Àkú Àma Vɨ́lé Rɨ̀	id=8787
+Lumasaaba (Translation)	Be mungo mwase ni samwene	id=8296
+Lunyole (Translation)	Amago Gange Ni Nange	id=8402
+Lusoga (Translation)	Amaka Gange Ni Nze	id=5267
+Maa (Translation)	Olmáréí Láí O Nánu	id=7872
+Ng’aturkana (Translation)	Awi Kang Ka Ayong	id=8450
+Oluwanga (Translation)	Oluyia Lwanje Nende Esie	id=8294
+Portuguese (Translation)	A Minha Família E Eu	id=17614
+Rutooro (Translation)	Eka  Yange  N’Anyowe	id=15219
+Sepedi (Translation)	Nna le balapa la gešo	id=10818
+Setswana (Translation)	Nna le ba lelapa la me	id=7775
+Siswati (Translation)	Mine nemndeni wami	id=34461
+Tshivenḓa (Translation)	Nṋe na muṱa wa hashu	id=34312
+Xitsonga (Translation)	Mina na ndyangu wa mina	id=34236
+Zarma (Translation)	Ay Nda Ay Almiyaalo	id=10096

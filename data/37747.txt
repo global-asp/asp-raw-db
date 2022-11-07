@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=37747&d=0&a=1
+id:	37747
+title:	Dyambu, N'weti, Mpfula na Moya
+author:	Arnold Mushwana and Bongani  Maluleke
+artist:	Children of Paleng
+lang:	Xitsonga
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37747.png
+desc:	Dyambu
+
+page_text:
+
+P1	Khale ka khaleni, Dyambu, N'weti, Mpfula na Moya a swi lwa.
+P2	Xivangelo a ku ri leswaku dyambu ri lava ku vangama siku hinkwaro.@@N'weti wu lava ku voninga rivoni ra wona siku na siku.@@Mpfula yi lava ku na siku na siku, na Moya wu lava ku hunga siku na siku.@@A swi lavi ku nyikana nkarhi.
+P3	Swi twananile ku tshama swin'we swi vulavula hi mhaka leyi.@@Dyambu ri vutisa N'weti, "Xana u endla yini leswi pfunaka misava?"@@N'weti wu hlamula, "Ndza vangama nivusiku leswaku swiharhi swi kota ku hlota."
+P4	N'weti wu vutisa Mpfula, "Xana u endla yini leswi pfunaka misava?"@@Mpfula yi hlamula, "Ndzi nyika misava mati leswaku mirhi, na swimilana swi kula kahle. Ndzi nyika mati leswaku swiharhi swi ta nwa."
+P5	Mpfula yi vutisile Moya, "Xana u endla yini leswi pfunaka misava?"@@Moya wu hlamurile, "Ndzi kukula misava yi basa. Ndzi hangalasa mpfula misava hinkwayo."
+P6	Moya wu vutisile Dyambu, "U endla yini leswi pfunaka misava?"@@Dyambu ri hlamula, "Ndzi nyika misava rivoni na ku kufumela, leswaku swiharhi na swimilana swi ta hanya."
+P7	Dyambu, N'weti na Moya swi yingiselanile hi vukheta.
+P8	Dyambu ri vurile leswaku, "I ntiyiso leswaku un'wana na un'wana wa hina u pfuna misava hi ndlela yo hlawuleka."@@"Ina," ku vula N'weti, "Ku hava na un'we wa hina a antswaka eka van'wana."@@"Hi nga tirhisana," ku vula Mpfula.@@Moya wu vula leswaku, "Loko swi ri tano a hi avelaneni masiku." Hinkwavo va twanana.
+P9	Hikokwalaho mikarhi yin'wana u vona n'weti lokodyambu ri vangamile.@@Mikarhi yin'wana ku hunga moya loko ku ri karhi ku na mpfula.@@Dyambu, N'weti, Mpfula na Moya swi tirha kahle swin'we. Swa twisisana.
+P10	Xana u rhandza dyambu, n'weti, mpfula kumbe moya?@@Dirowa xifaniso xa lexi u xi tsakelaka ngopfu.
+P11	Hi la misava leswaku hi kota ku hanya. Yi hi nyika swakudya na ndhawu yo tshama, swiharhi na swimilana.@@Hinkwaswo swa hi pfuna hi ndlela yin'wana. Hi ku tlherisela, hinkwerhu hi nga endla swin'wana ku pfuna misaveni ya hina.@@U nga endla yini ku pfuna misava? Tsala hansi.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+Afrikaans (Translation)	Son, Maan, Reën en Wind	id=37763
+Chichewa (Translation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=34965
+Chinkhonde (Translation)	Suba, Mwesi, Fula ni Mbelo	id=35000
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula, Amuwo	id=37407
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula a Muwo	id=37720
+Chitonga (Malawi) (Translation)	Lumwi, Mwezi, Vuwa ndi Mphepu	id=35025
+CiNyanja (Translation)	Zuba, Mwezi, Mvula na Mpepo	id=32840
+CiNyanja (Adaptation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=37722
+Citumbuka (Translation)	Zuŵa, Mwezi, Vula na Mphepo	id=35051
+Ciyawo (Malawi) (Translation)	Lyuŵa, Mwesi, Ula ni Mbepo	id=35075
+Ellomwe (Malawi) (Translation)	Nndduwa, Mweri, Murimu na Ephevo	id=35107
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Kasuba, Mweshi, Mmfula, na Mwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+IciBemba (Adaptation)	Akasuba, Umweshi, Imfula Noomwela	id=37723
+isiXhosa (Translation)	ULanga, uNyanga, uMvula noMoya	id=37848
+isiZulu (Translation)	ULanga, uNyanga, uMvula noMoya bayaxoxa	id=37712
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sepedi (Translation)	Letšatši, Ngwedi, Pula le Moya	id=32458
+Sesotho (Lesotho) (Adaptation)	Letsatsi, Khoeli, Pula le Moea	id=34939
+Sesotho (South Africa) (Translation)	Letsatsi, Kgwedi, Pula le Moya	id=32437
+Siswati (Translation)	Lilanga, Inyanga, Imvula neMoya	id=32444
+Tshivenḓa (Translation)	Ḓuvha, Ṅwedzi, Mvula na Muya	id=37855

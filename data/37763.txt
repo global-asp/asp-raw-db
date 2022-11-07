@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=37763&d=0&a=1
+id:	37763
+title:	Son, Maan, Reën en Wind
+author:	Fanie Viljoen and Magdaleen  Du Toit
+artist:	Children of Paleng
+lang:	Afrikaans
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37763.png
+desc:	Son
+
+page_text:
+
+P1	Lank, lank gelede het Son, Maan, Reën en Wind met mekaar baklei.
+P2	Die probleem was dat Son die hele dag wou skyn.@@Maan wou haar lig elke dag laat skyn.@@Reën wou elke dag reën, en Wind wou elke dag waai.@@Hulle wou nie vir mekaar 'n kans gee nie.
+P3	Toe besluit hulle om saam te gaan sit en oor die saak te praat.@@Son vra vir Maan: "Wat doen jy om die aarde te help?"@@Maan antwoord: "Ek skyn in die nag sodat die diere kan jag."
+P4	Maan vra vir Reën: "Wat doen jy om die aarde te help?"@@Reën antwoord: "Ek gee vir die aarde water sodat die bome en plante goed kan groei. Ek gee vir die diere water om te drink."
+P5	Reën vra vir Wind: "Wat doen jy om die aarde te help?"@@Wind antwoord: "Ek vee die aarde skoon. Ek versprei die reën oor die hele aarde."
+P6	Wind vra vir Son: "Wat doen jy om die aarde te help?"@@Son antwoord: "Ek gee lig en warmte aan die aarde sodat die diere en plante kan lewe."
+P7	Son, Maan, Reën en Wind luister goed na mekaar.
+P8	Toe sê Son: "Dit is waar dat elkeen van ons die aarde op 'n spesiale manier help."@@"Ja," sê Maan. "Nie een van ons is beter as die ander nie."@@"Ons kan saamwerk," sê Reën.@@Wind sê: "Kom ons deel dan die dae tussen ons." Almal stem saam.
+P9	En dit is waarom 'n mens soms die maan sien wanneer die son skyn.@@En soms voel 'n mens die wind wanneer dit reën.@@Son, Maan, Reën en Wind werk baie goed saam. Hulle verstaan mekaar.
+P10	Hou jy van die son, die maan, die reën of die wind?@@Teken die een waarvan jy die meeste hou.
+P11	Ons het die aarde nodig sodat ons kan leef. Sy gee vir ons kos en skuiling, diere en plante.@@Alles help ons op die een of ander manier.@@Op ons beurt kan ons almal iets doen om ons aarde te help.@@Wat kan jy doen om die aarde te help?@Skryf dit neer.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+Chichewa (Translation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=34965
+Chinkhonde (Translation)	Suba, Mwesi, Fula ni Mbelo	id=35000
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula, Amuwo	id=37407
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula a Muwo	id=37720
+Chitonga (Malawi) (Translation)	Lumwi, Mwezi, Vuwa ndi Mphepu	id=35025
+CiNyanja (Translation)	Zuba, Mwezi, Mvula na Mpepo	id=32840
+CiNyanja (Adaptation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=37722
+Citumbuka (Translation)	Zuŵa, Mwezi, Vula na Mphepo	id=35051
+Ciyawo (Malawi) (Translation)	Lyuŵa, Mwesi, Ula ni Mbepo	id=35075
+Ellomwe (Malawi) (Translation)	Nndduwa, Mweri, Murimu na Ephevo	id=35107
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Kasuba, Mweshi, Mmfula, na Mwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+IciBemba (Adaptation)	Akasuba, Umweshi, Imfula Noomwela	id=37723
+isiXhosa (Translation)	ULanga, uNyanga, uMvula noMoya	id=37848
+isiZulu (Translation)	ULanga, uNyanga, uMvula noMoya bayaxoxa	id=37712
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sepedi (Translation)	Letšatši, Ngwedi, Pula le Moya	id=32458
+Sesotho (Lesotho) (Adaptation)	Letsatsi, Khoeli, Pula le Moea	id=34939
+Sesotho (South Africa) (Translation)	Letsatsi, Kgwedi, Pula le Moya	id=32437
+Siswati (Translation)	Lilanga, Inyanga, Imvula neMoya	id=32444
+Tshivenḓa (Translation)	Ḓuvha, Ṅwedzi, Mvula na Muya	id=37855
+Xitsonga (Translation)	Dyambu, N'weti, Mpfula na Moya	id=37747

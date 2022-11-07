@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=34305&d=0&a=1
+id:	34305
+title:	Ndi nga mini Ajao a songo vhulungwa?
+author:	Ndivhuho Mutsila
+artist:	Jesse Breytenbach
+lang:	Tshivenḓa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34305.png
+desc:	Ajao ndi mulemalema kana mbevha? Ndi nga mini Ajao a songo vhulungwa?
+
+page_text:
+
+P1	Ajao, mulemalema, o eḓela nḓuni yawe ngauri u khou lwala. Ha na muongi.
+P2	Ajao a mbo ḓi lovha.
+P3	Vhahura vha ri, "Ajao o lovha. Ri tea u vhidza mashaka awe vha ḓe vha mu vhulunge."
+P4	Vhahura vha bva vha ya u vhudza zwiṋoni vha ri, "Shaka ḽaṋu ḽo lovha."
+P5	Zwiṋoni zwa mbo swika zwa wana uri mufu ndi Ajao. Zwa ri, "Hei phukha a si muṅwe washu."
+P6	"Mashaka ashu oṱhe a na mabesu na mithenga fhedzi Ajao ha na. Zwino a si shaka ḽashu." @@Zwiṋoni zwa mbo ḓi huma.
+P7	Vhahura vha eletshedzana. @@Vha tendelana, "Zwiṋoni zwi khou amba ngoho. Ajao ha na mabesu na mithenga. Zwino a si shaka ḽazwo."
+P8	Muṅwe wavho a ri, "A nga vha e shaka ḽa mbevha. U fana nadzo."
+P9	Vhahura vha ṱuwa vha ya vha amba na mbevha vha ri, "Shaka ḽaṋu ḽo lovha."
+P10	Mbevha dza mbo swika dza wana uri mufu ndi Ajao. Dza ri, "Hei phukha a si muṅwe washu."
+P11	"Mashaka ashu oṱhe a na mitshila. Ajao ha na." @@Mbevha dza mbo ḓi huma.
+P12	Zwo konḓa u wana mashaka a Ajo lwe a fhedza a songo vhungiwa.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+ChiShona (Translation)	Sei Ajao asina kuvigwa	id=22214
+English (Translation)	Why Ajao was not buried	id=16988
+French (Adaptation)	Pourquoi Ajao n'a pas été enterré	id=39918
+Ga (Translation)	Nɔ Hewɔ ni Anaaa Afũ Ajao	id=25743
+isiNdebele (Translation)	Kubayini u-Ajao angakhange abulungwe	id=35214
+Kiswahili (Translation)	Kwa nini Ajao hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Sepedi (Translation)	Gobaneng Ajao a sa bolokwa	id=33348
+Siswati (Translation)	Kungani Ajao angazange angcwatjwe	id=34455
+Tiv (Translation)	Inima Saa Sha Tar: I ii Un Ga	id=23858
+Urhobo (Translation)	O Bọ Isorọ Ewo Je Ajao Esho	id=22514
+Xitsonga (Translation)	Hikokwalaho ka yini Andzani  a nga lahliwi	id=34197
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34168&d=0&a=1
+id:	34168
+title:	Os Convidados da Festa
+author:	Little Zebra Books
+artist:	Alzette  Prins
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34168.png
+desc:	Um ensinamento de Jesus em Lucas 14: 1
+
+page_text:
+
+P1	Num sábado, Jesus foi comer na casa de certo líder dos fariseus. Quando Jesus reparou que os convidados estavam escolhendo os lugares de honra à mesa, ele contou esta parábola:@—Quando alguém o convidar para uma festa de casamento, não ocupe o lugar de honra à mesa.
+P2	Pois alguém mais importante do que você pode também ter sido convidado. Então a pessoa que convidou os dois se aproximará de você e dirá: "Dê o@seu lugar a este homem." Você, então, envergonhado, terá que ocupar o lugar de menos importância.
+P3	Mas, quando você for convidado, vá e tome o lugar de menor importância. Dessa forma, quando chegar a pessoa que o convidou, dirá: "Aproxime-se mais, meu amigo."
+P4	Então você será honrado diante de todos os que estão à mesa com você. Pois todo aquele que exaltar a si mesmo, será humilhado; e o que se humilhar, será exaltado.
+P5	Jesus disse também para aquele que o tinha convidado:@—Quando você der um almoço ou um jantar, não convide somente os seus amigos, os seus irmãos, os seus familiares ou os seus vizinhos ricos, para que não aconteça que eles também o convidem e, dessa forma, você seja recompensado.
+P6	Porém, quando você der uma festa, convide os pobres, os inválidos, os aleijados e os cegos.
+P7	Isso será uma bênção para você, pois eles não têm nada com que retribuir, e você será recompensado na ressurreição dos justos.
+
+images:
+
+illustrations/pages/28092.png
+illustrations/pages/28097.png
+illustrations/pages/28100.png
+illustrations/pages/28099.png
+illustrations/pages/28096.png
+illustrations/pages/28095.png
+illustrations/pages/28093.png
+illustrations/pages/28094.png
+illustrations/pages/28098.png
+
+translations:
+
+Cinyungwe (Translation)	Wakucemeredwa pacikondweso	id=34170
+Elomwe (Translation)	Oowopeliwa Efesta	id=34169
+Emakhuwa (Translation)	Atthu Oolattuliwa Vaniirani	id=34167

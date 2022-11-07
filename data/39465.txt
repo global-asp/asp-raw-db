@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=39465&d=0&a=1
+id:	39465
+title:	ባተሌ ባተሌዋ ፀሐይ
+author:	Mezemir Girma
+artist:	Joe  Werna
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39465.png
+desc:	ይህ ታሪክ ፀሐይ በአንድ ታዳጊ ልጅ ዓይን ከጠዋት ጀምሮ እስከ ምሽት ድረስ የምትታይበትን መንገድ ይተርካል።
+
+page_text:
+
+P1	ፀሐይ በጠዋት ትወጣለች፤ በምስራቅ በኩል፡፡@@ጎህ ሲቀድ ዶሮ ሲጮህ እሰማለሁ።
+P2	ፀሐይ ወደ መስኮቴ ስትመጣ የቢርና የአኩፓ ጠረን ይጠራኛል።
+P3	በምሳ ሰዓት ፀሐይ በትምህርት ቤታችን ከዛፍ ጀርባ ትሄዳለች።@@ከዚያም በመጫወቻ ስፍራው መካከል ካለው ገንዳ ውስጥ ትደርሳለች፡፡
+P4	ፀሐይ ከጭንቅላቴ በላይ ትቆማለች። ጥላዬም ከጎኔ ይቆማል።@@ከጓደኞቼ ጋር የጥላ ጨዋታ እጫወታለሁ።
+P5	የእኔ ጥላ ረጅም ይሆናል፤ ከዚያም ትንሽ ይሆናል፡፡ ተከትለነው እንሮጣለን፡፡@@የእኔ ጥላ ረጅም ይሆናል፤ ከዚያም ትንሽ ይሆናል፡፡ ተከትለነው እንሮጣለን፡፡
+P6	እኔ እቆማለሁ፤ ጓደኞቼ ይቆማሉ፡፡ ጥላዎቻችን ሲወዛወዙ እናያለን።@@ሲደክመን ወደ ክፍል እንመለሳለን። ከትምህርት በኋላ ወደ ቤት እንሄዳለን፡፡
+P7	ፀሐይ ታዛጋለች።@@ፀሐይ በስተምዕራብ በቀስታ ስትጠልቅ አያታለሁ። ጥላዬን ግድግዳ ላይ አየዋለሁ።@@የመኝታ ሰዓት እየደረሰ ነው፡፡
+P8	ፀሐይ ከደመናው ጀርባ ትጠልቃለች።@@አልጋዬ ላይ ተኝቼ ፀሐይ ሩቅ ስትጓዝ በህልሜ አያለሁ።
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Bura (Translation)	Kethir kethir mchi	id=34888
+Ebira (Translation)	Ukoro Ukoro  ὀyi	id=34840
+English (Original)	Busy Busy Sun	id=32416
+French (Translation)	Le soleil occupé, très occupé	id=35178
+Hausa (Nigeria) (Translation)	Zirga Zirgan rana	id=34897
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Ikwerre (Translation)	Nhebe Ne Me'he	id=34833
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyange I Memen Ga	id=36793
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=34470&d=0&a=1
+id:	34470
+title:	Umnaketfu lomncane lovilaphako
+author:	Mduduzi Benjie Shongwe
+artist:	Mlungisi Dlamini
+lang:	Siswati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/34470.png
+desc:	Umnakabo lomdzala watfukutselela umfowabo lomncane labecitsa sikhatsi sakhe sonkhe adlala ngesikhatsi umnakabo lomdzala enta wonkhe umsebenti wasendlini.
+
+page_text:
+
+P1	Ngivuka ngibase umlilo.
+P2	Ngibilisa emanti.
+P3	Ngikabha tinkhuni.
+P4	Ngibondza libhodo.
+P5	Ngishanyela phasi.
+P6	Ngiwasha tindishi.
+P7	Kungani ngisebenta kamatima kangaka?
+P8	Ngesikhatsi umnaketfu alibele kudlala!
+
+images:
+
+illustrations/pages/28613.png
+illustrations/pages/28614.png
+illustrations/pages/28615.png
+illustrations/pages/28616.png
+illustrations/pages/28617.png
+illustrations/pages/28618.png
+illustrations/pages/28619.png
+illustrations/pages/28620.png
+
+translations:
+
+English (Original)	Lazy little brother	id=32582
+French (Adaptation)	Petit Frère Paresseux	id=34106
+isiNdebele (Translation)	Umnakwethu omncani ovilaphako	id=35230
+Kinyarwanda (Translation)	Umwana w'umunyamurava	id=32583
+Tshivenḓa (Translation)	Murathu wa mubva	id=34249
+Xitsonga (Translation)	Ndzisana ya jaha yo loloha	id=34323

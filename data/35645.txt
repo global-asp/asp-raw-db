@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=35645&d=0&a=1
+id:	35645
+title:	Letter 'S' makes more
+author:	Mimi Werna
+artist:	Joe  Werna
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35645.png
+desc:	Adding letters to words forms plurals and changes things. Lets find out more about what Letters does to words.
+
+page_text:
+
+P1	Letter 's' builds words.@@Letter 's' makes more.
+P2	You can add an 's' to a word to have more.@@ Adding 's'  makes more things.
+P3	Adding 's' to a word forms a plural. @@Removing 's' from a word forms a singular.
+P4	Even though letter 's' builds words there are some words that change the rules.
+P5	If a word ends in ch, sh, s, ss, x or z then use 'es.'
+P6	If a word ends in 'y,' swap the 'y' with an 'i' before adding 'es.'
+P7	But if there is a vowel before the 'y' add 's.'@@ Letter 's' changes things.
+P8	Adding 's' means more than one. @@For everything add 's' unless the rules change.
+
+images:
+
+illustrations/pages/69642101.png
+illustrations/pages/69642102.png
+illustrations/pages/69642103.png
+illustrations/pages/69642104.png
+illustrations/pages/69642105.png
+illustrations/pages/69642106.png
+illustrations/pages/69642107.png
+illustrations/pages/69642108.png
+illustrations/pages/69642109.png
+
+translations:
+

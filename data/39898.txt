@@ -1,0 +1,87 @@
+url:	https://africanstorybook.org/reader.php?id=39898&d=0&a=1
+id:	39898
+title:	Le chat et le chien dessinent
+author:	Anne  Pizard and Joseph  Fabiano
+artist:	Elke and René Leisink
+lang:	French
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39898.png
+desc:	Le chat et le chien sont amis. Ils aiment faire toutes sortes de choses ensemble.
+
+page_text:
+
+P1	Voici le chat.@@Voici le chien.
+P2	Le chat et le chien veulent dessiner.@@Le chat et le chien veulent colorier.@@Le chat et le chien veulent faire des dessins.@@Le chien commence.@@Il prend un crayon et il prend du papier. @@Le papier est carré.
+P3	D'abord le chien dessine un ovale.@@L'ovale est le corps du chat.@@C'est facile !
+P4	Ensuite il dessine deux triangles au-dessus de l'ovale. @@Les deux triangles sont les oreilles du chat et il dessine un triangle noir dans l'ovale.@@Le triangle noir est le nez du chat et il trace une ligne au-dessus du nez.
+P5	Maintenant, il dessine les yeux et les sourcils du chat.@@Les yeux sont deux points.@@Les sourcils sont deux lignes.@@C'est facile !
+P6	Ensuite il dessine la bouche du chat.@@La bouche est une ligne. Elle est comme la lettre « w ».@@Il dessine les poils du Chat.@@Trois poils à gauche et trois poils à droite.@Ce sont les moustaches du chat.
+P7	Le dessin est presque fini.@@Il dessine les bras et les jambes du chat.@Les bras et les jambes sont des lignes et il dessine les doigts de pied du chat.@@Les doigts de pied sont des cercles et il dessine la queue du chat.@@La queue est une longue ligne.
+P8	Enfin, il trace quelques traits sur le corps du chat et il colorie le corps en orange.@@Le dessin est fini.@Il est magnifique !
+P9	C'est au tour du chat.@@Il prend un crayon et il prend du papier.@@Le papier est un rectangle.
+P10	D'abord le chat dessine un ovale.@@L'ovale est le corps du chien.@@C'est joli !
+P11	Ensuite il dessine deux formes noires au-dessus de l'ovale.@Les deux formes noires sont les oreilles du chien et il dessine un rond noir dans l'ovale.@@Le rond noir est le nez du chien et il trace une ligne au-dessus du nez.
+P12	Maintenant, il dessine les yeux et les sourcils du chien. @@Les yeux sont deux points. @@Les sourcils sont deux lignes. @@Parfait !
+P13	Ensuite il dessine la bouche du chien.@La bouche est une ligne.@La bouche a la forme d'un « w » et il dessine quelques points autour de la bouche du chien. @Trois à gauche et trois à droite.
+P14	Le dessin est presque fini.@@Il dessine les bras et les jambes du chien.@Les bras et les jambes sont des lignes et il dessine les doigts de pied du chien.
+P15	Les doigts de pied sont des cercles.@@Il dessine la queue du chien.@@La queue est comme une fleur.Pour finir il trace quelques cercles noirs sur le corps du chien et il colorie le corps en jaune.@@Le dessin est fini.@Il est fantastique !
+P16	Au revoir, le chat ! @Au revoir, le dessin du chat !@@Au revoir, le chien !@Au revoir, le dessin du chien !
+
+images:
+
+illustrations/pages/18659.png
+illustrations/pages/18660.png
+illustrations/pages/18661.png
+illustrations/pages/18662.png
+illustrations/pages/18663.png
+illustrations/pages/18664.png
+illustrations/pages/18665.png
+illustrations/pages/18666.png
+illustrations/pages/18667.png
+illustrations/pages/18668.png
+illustrations/pages/18669.png
+illustrations/pages/18670.png
+illustrations/pages/18671.png
+illustrations/pages/18672.png
+illustrations/pages/18673.png
+illustrations/pages/18674.png
+illustrations/pages/18675.png
+illustrations/pages/18782.png
+
+translations:
+
+Afrikaans (Translation)	Kat en Hond teken en kleur in	id=37756
+Chichewa (Translation)	Mphaka ndi Galu ajambula ndi kupenta	id=34952
+Chinkhonde (Translation)	Upusi ni Nimbwa bojambula nu chekena	id=34986
+ChiShona (Translation)	Kiti na Imbwa vanogadzira mifananidzo yavo	id=31757
+Chitonga (Malawi) (Translation)	Mbuyawu ndi Galu ajambuwa ndi kupenta	id=35013
+CiNyanja (Translation)	Cona na Galu ajambule na kupenta	id=20797
+Citumbuka (Translation)	Cona na Ncheŵe ŵakujambula na kupenta	id=35038
+Ciyawo (Malawi) (Translation)	Ce Come ni Mbwa akwambula ni kusalalisya	id=35062
+Ekegusii (Translation)	Ekebusi amo ne'Esese amo nogoaka Erangi	id=31839
+Ellomwe (Malawi) (Translation)	Mwanamanga na Mwanapwa ajambula nu kongoliha	id=35096
+English (Original)	Cat and Dog draw and colour	id=20205
+isiXhosa (Translation)	UKati noNja bayazoba baze bafake umbala	id=37840
+isiZulu (Translation)	Ikati nenja ziyadweba futhi ziyahlobisa	id=31814
+Khoekhoegowab (Translation)	ǀHôas tsî Arib hâra di /no//nab	id=24664
+Kikamba (Translation)	Mbaka na Ngitĩ syĩkulula na kũvaka langi	id=32166
+Kinyarwanda (Translation)	Ibishushanyo by'injangwe n'imbwa	id=20232
+Lingala (Translation)	Niawu na mbwua bakosala langi	id=31818
+Lubukusu (Translation)	Eepuusi neembwa chiichora neechibakha eerangi	id=31850
+Luganda (Translation)	Wakappa ne Wambwa bakuba ne langi	id=24210
+Lusoga (Translation)	Puusi Na Wambwa Bakuba Na Kusiiga	id=21209
+Oluwanga (Translation)	Ipusi nende Imbwa tsichora nokhubakha irangi	id=31813
+Oshikwanyama (Translation)	Ngato naShikonda tava faneke nokumbapeka	id=24142
+Oshindonga (Translation)	Okambishi nombwa taya thaneke nokumbapeka	id=23900
+Otjiherero (Translation)	Ombuua no kambihi mave perende nokuhua	id=24175
+Portugues (Translation)	Gato e Cão desenham e pintam	id=37081
+Rukwangali (Translation)	Mbisi noMbwa kwa kufaneka nokutura maruvara	id=31495
+Runyankore (Translation)	Kaapa ne Mbwa niziteera ebishani zibisiiga	id=24198
+Sepedi (Translation)	Katse le Mpša ba a thala le go khalara	id=32060
+Sesotho (Lesotho) (Translation)	Katse le Ntja ba toroea hape ba kenya mebala	id=36339
+Sesotho (South Africa) (Translation)	Katse le Ntja ba a taka ba tlotsa  ka mebala	id=31808
+Setswana (Translation)	Katse le Ntšwa ba taka le go penta	id=31772
+Siswati (Translation)	Kati Nenja bayadvweba bese bafaka umbala	id=33398
+Tshivenḓa (Translation)	U ola na U khaḽara ha Tshimange na Mmbwa	id=31848
+Xitsonga (Translation)	Ximanga na Mbyana swa dirowa na ku khalara	id=37743

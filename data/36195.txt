@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=36195&d=0&a=1
+id:	36195
+title:	Berkunjung ke Kebun Binatang
+author:	Vianinda Sari
+artist:	Rob Owen and Melany Pietersen
+lang:	Bahasa Indonesia
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36195.png
+desc:	Ini adalah cerita tentang sebuah hari yang dihabiskan di kebun binatang.
+
+page_text:
+
+P1	Hari ini aku pergi ke kebun binatang.
+P2	Aku melihat banyak binatang. Aku melihat seekor singa.
+P3	Aku melihat seekor gajah.
+P4	Aku melihat seekor buaya.
+P5	Aku melihat jerapah.
+P6	Aku melihat banyak zebra.
+P7	Bahkan aku melihat seekor sapi.
+P8	Menyenangkan sekali, tapi lalu Bapak mengajak kami pulang.
+
+images:
+
+illustrations/pages/13745.png
+illustrations/pages/13749.png
+illustrations/pages/9628.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9647.png
+illustrations/pages/9650.png
+illustrations/pages/9630.png
+illustrations/pages/13751.png
+
+translations:
+
+English (Original)	My trip to the zoo	id=9968
+Lusoga (Translation)	Mu ikuumiro lye bisolo	id=24847
+Sepedi (Translation)	Leeto la ka la go ya lešokeng la diphoofolo	id=33379

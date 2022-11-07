@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=35816&d=0&a=1
+id:	35816
+title:	Pattern Buku
+author:	Enocent Mbazuma
+artist:	
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35816.png
+desc:	Children to learn about patterns found naturally.
+
+page_text:
+
+P1	Ndimakonda kutsuka mano.
+P2	Ndimakonda kusewera mpira.
+P3	Ndimakonda mazira.
+P4	Ndimakonda Kulumpha
+P5	Ndimakonda nsomba
+P6	Ndiyendetsa galimoto.
+P7	Ndimakonda jaketi.
+P8	Ndimakonda poto.
+
+images:
+
+illustrations/pages/86741301.png
+illustrations/pages/86741302.png
+illustrations/pages/86741303.png
+illustrations/pages/86741304.png
+illustrations/pages/86741305.png
+illustrations/pages/86741306.png
+illustrations/pages/86741307.png
+illustrations/pages/86741308.png
+illustrations/pages/86741309.png
+
+translations:
+

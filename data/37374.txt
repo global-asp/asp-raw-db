@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=37374&d=0&a=1
+id:	37374
+title:	Likunga nawa
+author:	Johannes Ndumba
+artist:	Ubongo
+lang:	Rukwangali
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37374.png
+desc:	buke ezi kuronga vanona va likunge nawa no ku kara asi vana kanguka
+
+page_text:
+
+P1	Kwata mukurona ndi kaume goge kokuwoko nsene to taguruka sitaura.
+P2	Tara komaruha nagenye komeho zokutaguruka.Tara korulyo, tara korumoho ntani korulyo hena tani no taguruka.
+P3	Wa ha duka ndi odanene mositaura. Kuvhura ga kumbwande matuwa.
+P4	Kapisi kuuyunga novantu wadira kudiva. Vantu ava wadira kudiva kuvhura ku kara siponga.
+P5	wa ha kara nowoma wokunyoka nsene muntu wadira kudiva a ku pura orugane yuma.
+P6	Yihwamekeso kapisi yidaneso, nye yiruganeso.
+P7	Kapisi kudanauka nayo, kuvhura o pye.
+P8	Kapisi kudanauka nonombere, yikakonde, ntani noyininke youtwe kuvhura o liremeke.
+P9	Nkenye apa rara mesire yipo oli kunge nyamoge konomwe nokomauvera gamwe  ngwendi malaria.
+P10	Nsene kwa ku lizuvha asi tovere zende kosipangero to ka gwana uhaku wokuvyukilira.
+P11	Nsene kapi wayidiva kuzoga, kara ono vangara mo kuza momukuro, yidiva ndi mefuta.
+P12	Lironga kuzoga, morwa kudanena momema uwawa.
+P13	Kapisi ku kara pepi noyikasama.
+P14	Yikorama ngwendi mazoka kuvhura ku kara uhungu.
+P15	Yikasama yimwe kuvhura ku kara siponga.
+P16	Nkenye apa kara ono kotoka ntai oli kunge nawa.
+
+images:
+
+illustrations/pages/99600130.png
+illustrations/pages/99600131.png
+illustrations/pages/99600132.png
+illustrations/pages/99600133.png
+illustrations/pages/99600134.png
+illustrations/pages/99600135.png
+illustrations/pages/99600137.png
+illustrations/pages/99600138.png
+illustrations/pages/99600139.png
+illustrations/pages/99600141.png
+illustrations/pages/99600150.png
+illustrations/pages/99600142.png
+illustrations/pages/99600143.png
+illustrations/pages/99600144.png
+illustrations/pages/99600145.png
+illustrations/pages/99600146.png
+illustrations/pages/99600149.png
+illustrations/pages/99600148.png
+
+translations:
+
+English (Original)	Stay safe	id=37208
+Kiswahili (Translation)	Kuwa Salama	id=37595

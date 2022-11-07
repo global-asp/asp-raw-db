@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=35214&d=0&a=1
+id:	35214
+title:	Kubayini u-Ajao angakhange abulungwe
+author:	Sponono  Mahlangu
+artist:	Jesse Breytenbach
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35214.png
+desc:	Ingabe u-Ajao ungumaphelaphelana inyoni namkha ikhondlo?
+
+page_text:
+
+P1	U-Ajao, umaphelaphelana, ulele ngendlini yakhe ugula khulu. @@Akekho umuntu obekaya ukuyomhlola.
+P2	Ngemva kwalokho u-Ajao wafa.
+P3	Abomakhelwana bathi, "U-Ajao ufile. Kufanele sibize iinini zakhe ukobana zize zizombulunga."
+P4	Abomakhelwana bakhamba bayokubiza iinyoni bathi, "Isinini senu sifile."
+P5	Iinyoni zeza zathola bona ngu-Ajao. Zathi, "Isilwana lesi asisiyo ingcenye yomndeni wethu."
+P6	"Zoke iinini zethu zinamasiba kodwana u-Ajao yena akanawo. Ngalokho kutjho bona akasi ngewethu." @@Iinyoni zaphapha zakhamba.
+P7	Abomakhelana babonisana. @@Bavumelana, "Iinyoni ziqinisile. U-Ajao akanawo amasiba. Ngalokho kutjho khona bona akasiso isinini sazo."
+P8	Munye wabo wathi, "Kufanele abe yingcenye yomndeni wamakhondlo. Ufana nawo."
+P9	Abomakhelwana bakhamba babiza amakhondlo bathi, "Omunye welunga lomndeni wenu ufile."
+P10	Amakhondlo afika  athola bona ngu-Ajao. Athi, "Isilwana lesi asisiyo ingcenye yomndeni wethu."
+P11	Elinye nelinye ilunga lomndeni wethu linomsila. U-Ajao akanawo umsila." @@Amakhondlo asuka akhamba.
+P12	Azikho iinini zaka-Ajao ezatholakalako begodu wahlala angakabulungwa njalo.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+ChiShona (Translation)	Sei Ajao asina kuvigwa	id=22214
+English (Translation)	Why Ajao was not buried	id=16988
+French (Adaptation)	Pourquoi Ajao n'a pas été enterré	id=39918
+Ga (Translation)	Nɔ Hewɔ ni Anaaa Afũ Ajao	id=25743
+Kiswahili (Translation)	Kwa nini Ajao hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Sepedi (Translation)	Gobaneng Ajao a sa bolokwa	id=33348
+Siswati (Translation)	Kungani Ajao angazange angcwatjwe	id=34455
+Tiv (Translation)	Inima Saa Sha Tar: I ii Un Ga	id=23858
+Tshivenḓa (Translation)	Ndi nga mini Ajao a songo vhulungwa?	id=34305
+Urhobo (Translation)	O Bọ Isorọ Ewo Je Ajao Esho	id=22514
+Xitsonga (Translation)	Hikokwalaho ka yini Andzani  a nga lahliwi	id=34197
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

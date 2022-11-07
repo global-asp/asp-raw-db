@@ -1,0 +1,87 @@
+url:	https://africanstorybook.org/reader.php?id=35013&d=0&a=1
+id:	35013
+title:	Mbuyawu ndi Galu ajambuwa ndi kupenta
+author:	Pilirani  Kamanga and Winfred  Mkochi
+artist:	Elke and René Leisink
+lang:	Chitonga (Malawi)
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35013.png
+desc:	Mbuyawu ndi Galu ŵe pa ubwezi. Mbakunozya ndipu ŵakondwa kuchitiya vinthu vevosi limoza.
+
+page_text:
+
+P1	Uyu ndi Mbuyawu.@@Uyu ndi Galu.
+P2	Mbuyawu ndi Galu ŵapenja kujambuwa. @@Mbuyawu ndi Galu ŵapenja kupenta.@@Mbuyawu ndi Galu ŵapenja Kujambuwa chithuthuzi.@@Galu ndiyu wangwamba.@@Wanguto pensulu ndi pepala. Pepela laki ndakulingana mbali zosi.
+P3	Chakwamba Galu wajambuwa chinthu chakuzungunya nge zila.@@Chakuzungunya nge zila ndi liŵavu laku mbuyawu.@@Bama! Ntchipusu!
+P4	Sonu wangujambuwa matilayangu ngaŵi pachanya paku chakuzungunya nge zila.@@Ma tilayangu ngaŵi ndingu makutu ngaku mbuyawu ndipu wangujambuwaso tilayangu ifipa mukati mwachakuzungunya nge zila chiya.@@Tilayangu ifipa ndiyu mphunu yaku mbuyawu ndipu wangujambuwa kamuzeli pachanya pamphunu.
+P5	Sonu wangujambuwa masu ndi vikopi vaku mbuyawu.@@Masu nditimadonthu tiŵi.@@Vikopi nditimizeli tiŵi.@@Bama! Ntchipusu.
+P6	Sonu wangujambuwa mulomu waku mbuyawu.@@Kamuzeli ndiku mulomu.@@Kaoneka nge chilembu cha 'w' ndipu wangujambuwa weya waku mbuyawu.@@Weya utatu kumazye ndi weya so utatu kumalyi.
+P7	Chakujambuwa sonu chaja kamanavi kumala.@@Wangujambuwa janja ndi malundi ngaku mbuyawu.@@Manja ndi malundi nthimizeli. Wangujambuwa vikumbu vakumalundi vaku mbuyawu.@@Vikumbu vakumalundi ndi vo vakuzungunya ndipu sonu wangujambuwa muchila waku mbuyawu.@@Muchila ngutali.
+P8	Paumalilu wangujambuwa timizeli pa luŵavu laku mbuyawu ndipu wangulipenta mtundu wa olenji.@@Chakujambuwa chamala.@@Awa! Ntchakutowa.
+P9	Sonu ndi nyengu yaku mbuyawu.@@Wanguto pensulu ndi pepala.@@Pepala nda lekitangu.
+P10	Chakwamba mbuyawu wangujambuwa chakuzungunya nge zila.@@Chakuzungunya nge zila ndilu liŵavu laku galu.@@Bama! Ichi ntchamampha.
+P11	Sonu wangujambuwa tinthu tifipa pachanya pa chakuzungunya nge zila.@@Tinthu tifipa nditu makutu ngaku Galu ndipu wangujambuwa chakuzungunya mukati mwaku chakuzungunya nge zila chiya.@@Chakuzungunya chifipa ndichu mphunu zaku Galu ndipu wangujambuwa timizeli pachanya pa mphunu.
+P12	Sonu wangujambuwa masu ndi vikopi vaku galu.@@Masu ndingu timadonthu tiŵi.@@Vikopi ndivu timizeli tiŵi.
+P13	Sonu wangujambuwa ko kaoneka nge chilembu cha 'w' ndipu wangujambuwa timadonthu kuzunguliya mulomu waku Galu.@@Titatu kumazye ndi titatu kumalyi.
+P14	Chakujambuwa chaja kamanavi kumala.@@Wangujambuwa manja ndi malundi ngaku Galu. @@Manja ndi malundi ndi timizeli ndipu wangujambuwa vikumbu vakumalundi vaku Galu.@@Vikumbu vakumalundi ndi vo vakuzunguliya ndipu wangujambuwa muchila waku Galu.@@Muchila uwoneka nge maluŵa.
+P15	Paumalilu wangujambuwa tinthu takuzungunya paliwavu laku Galu ndipu wangulipenta mtundu wantcheti liŵavu laku Galu. @@Chakujambuwa chamala.@@Awa, Ntchamampha!
+P16	Ndaluta mbuyawu.@@Ndaluta chithuthuzi chaku mbuyawu.@@Ndaluta Galu.@@Ndaluta chithuthuzi chaku Galu.
+
+images:
+
+illustrations/pages/18659.png
+illustrations/pages/18660.png
+illustrations/pages/18661.png
+illustrations/pages/18662.png
+illustrations/pages/18663.png
+illustrations/pages/18664.png
+illustrations/pages/18665.png
+illustrations/pages/18666.png
+illustrations/pages/18667.png
+illustrations/pages/18668.png
+illustrations/pages/18669.png
+illustrations/pages/18670.png
+illustrations/pages/18671.png
+illustrations/pages/18672.png
+illustrations/pages/18673.png
+illustrations/pages/18674.png
+illustrations/pages/18675.png
+illustrations/pages/18782.png
+
+translations:
+
+Afrikaans (Translation)	Kat en Hond teken en kleur in	id=37756
+Chichewa (Translation)	Mphaka ndi Galu ajambula ndi kupenta	id=34952
+Chinkhonde (Translation)	Upusi ni Nimbwa bojambula nu chekena	id=34986
+ChiShona (Translation)	Kiti na Imbwa vanogadzira mifananidzo yavo	id=31757
+CiNyanja (Translation)	Cona na Galu ajambule na kupenta	id=20797
+Citumbuka (Translation)	Cona na Ncheŵe ŵakujambula na kupenta	id=35038
+Ciyawo (Malawi) (Translation)	Ce Come ni Mbwa akwambula ni kusalalisya	id=35062
+Ekegusii (Translation)	Ekebusi amo ne'Esese amo nogoaka Erangi	id=31839
+Ellomwe (Malawi) (Translation)	Mwanamanga na Mwanapwa ajambula nu kongoliha	id=35096
+English (Original)	Cat and Dog draw and colour	id=20205
+French (Adaptation)	Le chat et le chien dessinent	id=39898
+isiXhosa (Translation)	UKati noNja bayazoba baze bafake umbala	id=37840
+isiZulu (Translation)	Ikati nenja ziyadweba futhi ziyahlobisa	id=31814
+Khoekhoegowab (Translation)	ǀHôas tsî Arib hâra di /no//nab	id=24664
+Kikamba (Translation)	Mbaka na Ngitĩ syĩkulula na kũvaka langi	id=32166
+Kinyarwanda (Translation)	Ibishushanyo by'injangwe n'imbwa	id=20232
+Lingala (Translation)	Niawu na mbwua bakosala langi	id=31818
+Lubukusu (Translation)	Eepuusi neembwa chiichora neechibakha eerangi	id=31850
+Luganda (Translation)	Wakappa ne Wambwa bakuba ne langi	id=24210
+Lusoga (Translation)	Puusi Na Wambwa Bakuba Na Kusiiga	id=21209
+Oluwanga (Translation)	Ipusi nende Imbwa tsichora nokhubakha irangi	id=31813
+Oshikwanyama (Translation)	Ngato naShikonda tava faneke nokumbapeka	id=24142
+Oshindonga (Translation)	Okambishi nombwa taya thaneke nokumbapeka	id=23900
+Otjiherero (Translation)	Ombuua no kambihi mave perende nokuhua	id=24175
+Portugues (Translation)	Gato e Cão desenham e pintam	id=37081
+Rukwangali (Translation)	Mbisi noMbwa kwa kufaneka nokutura maruvara	id=31495
+Runyankore (Translation)	Kaapa ne Mbwa niziteera ebishani zibisiiga	id=24198
+Sepedi (Translation)	Katse le Mpša ba a thala le go khalara	id=32060
+Sesotho (Lesotho) (Translation)	Katse le Ntja ba toroea hape ba kenya mebala	id=36339
+Sesotho (South Africa) (Translation)	Katse le Ntja ba a taka ba tlotsa  ka mebala	id=31808
+Setswana (Translation)	Katse le Ntšwa ba taka le go penta	id=31772
+Siswati (Translation)	Kati Nenja bayadvweba bese bafaka umbala	id=33398
+Tshivenḓa (Translation)	U ola na U khaḽara ha Tshimange na Mmbwa	id=31848
+Xitsonga (Translation)	Ximanga na Mbyana swa dirowa na ku khalara	id=37743

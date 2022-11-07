@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=37595&d=0&a=1
+id:	37595
+title:	Kuwa Salama
+author:	Ubongo
+artist:	Ubongo
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37595.png
+desc:	Jifunze kuhusu usalama wako wakati wa kuvuka barabara
+
+page_text:
+
+P1	Shika mkono wa mtu mzima au rafiki ukiwa unavuka barabara.
+P2	Angalia vizuri pande zote kabla ya kuvuka barabara. @@Angalia kulia, angalia kushoto, angalia tena kulia  kabla ya kuvuka.
+P3	Usikimbie au kucheza barabarani. @@Unaweza kugongwa na gari.
+P4	Siyo lazima kuongea na watu ambao huwafahamu. @@Usiogope kukataa.
+P5	Usiogope kukataa maombi yoyote ya mtu ambaye humfahamu.
+P6	Vibiriti, vibiriti vya petroli na mishumaa ni vifaa vya watu wazima, siyo vya kuchezea.
+P7	Usivichezee, vinaweza kukuunguza.
+P8	Usicheze na visu, mikasi au vitu vingine vikali. @@Vinaweza kukukata!
+P9	Lala ndani ya chandarua ili kujilinda na mbu na magonjwa makali kama malaria.
+P10	Kama unahisi una homa na unajisikia kuumwa, nenda hospitali ukapime ili upate dawa sahihi.
+P11	Usisogelee maji yenye kina kirefu, mito, maziwa na bahari...
+P12	...kama huwezi kuogelea.
+P13	Jifunze kuogelea kwa sababu kucheza kwenye maji kunafurahisha kweli.
+P14	Usiwasogelee wanyama wakali.
+P15	Nyoka wanaweza kuwa na sumu.
+P16	Simba, vifaru na nyati wanaweza kukushambulia na kukuumiza.
+P17	Kuwa makini ili usiumie.
+
+images:
+
+illustrations/pages/99600130.png
+illustrations/pages/99600131.png
+illustrations/pages/99600132.png
+illustrations/pages/99600133.png
+illustrations/pages/99600134.png
+illustrations/pages/99600135.png
+illustrations/pages/99600137.png
+illustrations/pages/99600138.png
+illustrations/pages/99600139.png
+illustrations/pages/99600141.png
+illustrations/pages/99600150.png
+illustrations/pages/99600142.png
+illustrations/pages/99600143.png
+illustrations/pages/99600144.png
+illustrations/pages/99600145.png
+illustrations/pages/99600146.png
+illustrations/pages/99600149.png
+illustrations/pages/99600148.png
+
+translations:
+
+English (Original)	Stay safe	id=37208
+Rukwangali (Translation)	Likunga nawa	id=37374

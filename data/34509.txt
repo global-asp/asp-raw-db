@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34509&d=0&a=1
+id:	34509
+title:	Sopo ya ga Nkoko
+author:	Glanice Masilo
+artist:	Glanice Masilo
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34509.png
+desc:	Nkoko Maphika o nna a le mongwe. Mme o tsofetse.
+
+page_text:
+
+P1	A o kile wa utlwa ka ga Motsana o o bidiwang Nkaneng. Go ne go nna Nkoko a nna a le mongwe.
+P2	Mo Motsaneng o. Go ne go nna ba lelapa la ga Dumetsang. Mme le Rre Dumetsang ba na le bana ba batlhano.
+P3	Bana ba basimane maina a bona ele Segale le Bonolo. Basetsana bone ele Lebogang, Malebo le Mametsa.
+P4	Nkoko Maphika o ne a godile thata. Mme a sena bana. O ne a nna a le mongwe.
+P5	Ba ga lelapa la Dumetsang. Ba ne ba rata go etela Nkoko Maphika. Go mo thusa. Ba ne ba mo rata thata.
+P6	Nkoko Maphika one a aga a ba apeela sopo ee monate. Sopo ya Dinawa le Merogo.
+P7	Fa ba lelapa ba goroga kwa ga Nkoko Maphika. Basimane ba ne ba ya go gelela Nkoko metsi.
+P8	Mme, botlhe ba ne ba nna ka fa tlase ga setlhare. Ba ja sopo e emanate ya ga Nkoko ka dikgaragane.
+
+images:
+
+illustrations/pages/31520200.png
+illustrations/pages/31520201.png
+illustrations/pages/31520202.png
+illustrations/pages/31520203.png
+illustrations/pages/31520204.png
+illustrations/pages/31520205.png
+illustrations/pages/31520206.png
+illustrations/pages/31520207.png
+illustrations/pages/31520208.png
+
+translations:
+
+English (Original)	Gogo Mampingas' soup	id=33942
+isiZulu (Translation)	Isobho likagogo uMampinga	id=34698

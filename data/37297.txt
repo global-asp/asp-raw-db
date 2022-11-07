@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=37297&d=0&a=1
+id:	37297
+title:	Mmbwa yanga, Heidi
+author:	Doris  Manyamalala and Tshedza  Tlhako
+artist:	Tebogo Boikanyo Matshana
+lang:	Tshivenḓa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37297.png
+desc:	Naa no no vhuya na ṱangana na mmbwa yo no fana na yeneyi?
+
+page_text:
+
+P1	A ni athu vhuya na ṱangana na mmbwa yo thanyaho u fana na Heidi.@@I vhona unga ndi muthu.
+P2	Musi ndi tshi hwaya maṋo, na yone i ṱoḓa ndi tshi i hwaya maṋo.
+P3	Musi ndo ṱalela thelevishini, na yone i tevhela nga maṱo.@@Zwa tou nga i pfesesa zwine zwa khou itea kha tshikirini.
+P4	Vhuṅwe vhusiku, ro vha ri tshi khou ṱalela mutambo wa bola.@@Hu na muthu we a khokhonya munangoni.@@Ho vha hu khonani yanga Mmapula.
+P5	Ndo takalela u mu vhona. Ro lumelisana ro takala vhukuma.@@Fhedzi, Mmapula ho ngo lumelisa Heidi.@@Na nṋe ndo hangwa u vha ḓivhadza!
+P6	Heidi o vha o ḓowela uri musi muthu a tshi mu lumelisa, u fara khwanḓa yawe nga tshanḓa.@@Yo vha yo sinyuwa vhukuma.@@Ro vha ri tshi khou ya u dzula fhasi. Fhedzi ndi sa athu fha Mmapula tshidulo, o vha o no dzula tshiduloni tsha Heidi!
+P7	Mmbwa a yo ngo kona u ṱanganedza maloto eneo. A yo ngo nṋea na tshibuli tsha u amba. @@Nga u bonya ha iṱo, Heidi yo vha yo no fhufha ya dzula nṱha ha Mmapula.@@Ya mu huvha yo mu zwondolola maṱoni.
+P8	Heidi yo vha i na vhuhali! Mmapula o vha o hanganea.@@Nda ima nga u ṱavhanya, nda i bvisa tshirumbini tshawe.@@U bva nga ḽeneḽo ḓuvha, Mmapula ho ngo tsha dovha a lu vhea ha hashu.
+
+images:
+
+illustrations/pages/91400170.png
+illustrations/pages/91400165.png
+illustrations/pages/91400166.png
+illustrations/pages/91400167.png
+illustrations/pages/91400173.png
+illustrations/pages/91400174.png
+illustrations/pages/91400170.png
+illustrations/pages/91400171.png
+illustrations/pages/91400172.png
+
+translations:
+
+English (Adaptation)	Heidi, my dog	id=33745
+Setswana (Translation)	Ntšwa ya me, Heidi	id=33752
+Spanish (Translation)	Mi perro Simón	id=36479
+Xitsonga (Translation)	Bovha, mbyana ya mina	id=37121

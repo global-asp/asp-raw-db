@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=37055&d=0&a=1
+id:	37055
+title:	Tatekulu okwa li ta vele
+author:	Hamukoto Efraim
+artist:	Leo Daly and Magriet Brink
+lang:	Oshikwanyama
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37055.png
+desc:	Tala nghee okakandona kashona oshoyo ovakwanedimo vako nhumbi ta va lumbu nomukifi wocorona.
+
+page_text:
+
+P1	Oha ndi djala alushe okamaska ngeenge andi dimo meumbo.@@Okamaska oha ka ame nenge. Osho yoo vakwetu.
+P2	Oha ndikosho omake ange nofewa osho yoo nomeva omanga inandi ndjamo meumbo. @@Naaashi ha ndi alukile meumbo, oha ndilikosho.
+P3	Eshi handi popifa ookaume kange, ohatu pumafana poungolo!
+P4	Tatekulu wange okwa li tavele. Okwa ya koshipangelo. @@Tate oha denge ongodi keshe efiku akundane kombinga yaTatekulu.
+P5	Tatekulu okwali ena oukolele ye okuli nawa kolutu omanga ina kwatwa kouvela. @@Okwa kala nawa.
+P6	Ye, omu mwameme mati okwa tameka okukolola.@@"Omuninho wange owa dinda," osho apopya.
+P7	"Kololela pokangolo koye!" mumwameme wameme osho ati.@@"Ndjala okamaska. Kaleka oshinanho! Kala mombete yoye!" osho emulombwela.
+P8	osho, omu mwameme mati akala mombete nokulesha.
+
+images:
+
+illustrations/pages/93740490.png
+illustrations/pages/93740490.png
+illustrations/pages/93740486.png
+illustrations/pages/93740487.png
+illustrations/pages/93740482.png
+illustrations/pages/93740489.png
+illustrations/pages/93740480.png
+illustrations/pages/93740481.png
+illustrations/pages/93740485.png
+
+translations:
+
+Afrikaans (Translation)	Oupa was siek	id=35795
+Babanki (Translation)	Tì̀ʼ ə tìʼ ə yes ə nkwaʼa	id=36981
+English (Original)	Granddad is Sick	id=35249
+English (Adaptation)	Grandfather was ill	id=35251
+Kom (Translation)	Bò bò wom ti nà ko'i-à	id=40143
+Otuho (Translation)	Oŋuaî nyia hohonyi hoŋ	id=35464
+TjiKalanga (Translation)	Batategulu bakabegwala	id=35266

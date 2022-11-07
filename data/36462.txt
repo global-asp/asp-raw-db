@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=36462&d=0&a=1
+id:	36462
+title:	Lluvia
+author:	Aprende Leyendo
+artist:	
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36462.png
+desc:	Las diferentes consecuencias de la lluvia ¿Hay un balance?
+
+page_text:
+
+P1	La lluvia ayuda a las plantas a crecer.
+P2	La lluvia hace a los animales felices.
+P3	La lluvia nos da suficiente agua para nadar.
+P4	La lluvia es buena.
+P5	Pero, a veces.
+P6	La lluvia causa inundaciones.
+P7	La lluvia causa accidentes.
+P8	La lluvia causa deslizamientos.
+P9	¿Cómo  podemos vivir con la lluvia?
+
+images:
+
+illustrations/pages/26777.png
+illustrations/pages/25810.png
+illustrations/pages/25566.png
+illustrations/pages/9848.png
+illustrations/pages/8519.png
+illustrations/pages/.png
+illustrations/pages/25567.png
+illustrations/pages/9640.png
+illustrations/pages/25053.png
+illustrations/pages/26777.png
+
+translations:
+
+English (Original)	Rain	id=33671

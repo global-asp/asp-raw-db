@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=35230&d=0&a=1
+id:	35230
+title:	Umnakwethu omncani ovilaphako
+author:	Sponono  Mahlangu
+artist:	Mlungisi Dlamini
+lang:	isiNdebele
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/35230.png
+desc:	Umnakwabo omkhulu usilingeka khulu nakabona umnakwabo omncani ahlalele ukudlala lokha umnakwabo omkhulu nakenza yoke imisebenzi yangendlini.
+
+page_text:
+
+P1	Ngiyavuka ngibase umlilo.
+P2	Ngibilisa amanzi.
+P3	Ngikapa iinkuni.
+P4	Ngirura ipoto.
+P5	Ngithanyela phasi.
+P6	Ngihlanza izitja.
+P7	Kubayini ngisebenze kangaka?
+P8	Lokha umnakwethu yena nakazidlalelako!
+
+images:
+
+illustrations/pages/28613.png
+illustrations/pages/28614.png
+illustrations/pages/28615.png
+illustrations/pages/28616.png
+illustrations/pages/28617.png
+illustrations/pages/28618.png
+illustrations/pages/28619.png
+illustrations/pages/28620.png
+
+translations:
+
+English (Original)	Lazy little brother	id=32582
+French (Adaptation)	Petit Frère Paresseux	id=34106
+Kinyarwanda (Translation)	Umwana w'umunyamurava	id=32583
+Siswati (Translation)	Umnaketfu lomncane lovilaphako	id=34470
+Tshivenḓa (Translation)	Murathu wa mubva	id=34249
+Xitsonga (Translation)	Ndzisana ya jaha yo loloha	id=34323

@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=36306&d=0&a=1
+id:	36306
+title:	Cocinando
+author:	Aprende Leyendo
+artist:	Kathy Arbuckle
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/36306.png
+desc:	Estoy ayudando a preparar algunos vegetales para a comida. Hay un vegetal que no me gusta preparar.
+
+page_text:
+
+P1	Yo pelo las papas.
+P2	Yo corto el repollo.
+P3	Yo rallo las zanahorias.
+P4	Yo lavo los fríjoles.
+P5	Yo corto la calabaza.
+P6	Yo corto la espinaca.
+P7	Mi mamá corta las cebollas.
+P8	Las cebollas me hacen llorar cuando las corto.
+
+images:
+
+illustrations/pages/28588.png
+illustrations/pages/28589.png
+illustrations/pages/28590.png
+illustrations/pages/28591.png
+illustrations/pages/28592.png
+illustrations/pages/28593.png
+illustrations/pages/28594.png
+illustrations/pages/28595.png
+illustrations/pages/28596.png
+
+translations:
+
+Amharic (Translation)	ምግብ እናብስል	id=37754
+English (Original)	Cooking	id=32565
+French (Translation)	Faire la cuisine	id=33623
+isiNdebele (Translation)	Ukupheka	id=35226
+Kinyarwanda (Translation)	Guteka	id=32566
+Kiswahili (Translation)	Kupika	id=33120
+Sepedi (Translation)	Go apea	id=32912
+Siswati (Translation)	Kupheka	id=34463
+Tshivenḓa (Translation)	U bika	id=34314
+Xitsonga (Translation)	Ku sweka	id=34238

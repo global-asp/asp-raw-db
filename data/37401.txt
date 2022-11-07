@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=37401&d=0&a=1
+id:	37401
+title:	Muskietejag
+author:	Meryke Barkley
+artist:	Magriet Brink
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37401.png
+desc:	Muskietejag
+
+page_text:
+
+P1	Klop, klop!
+P2	"Wie's daar?" vra ek deur die slaap.
+P3	"Dis ek!" sê 'n skril stemmetjie.
+P4	"Wie is 'ek'?" vra ek.
+P5	"Ek het jou mos gesê, dis n-e-t ek," sê dieselfde stem.
+P6	"Ek ken niemand met die naam 'n-e-t e-k' nie," antwoord ek.@Ek maak seker dat my muskietenet mooi om my bed is.
+P7	"Wel, my naam is Mus." Die stem klink nog meer skril as van te vore.  Dit is ook baie naby my oor...
+P8	"Mus wie?" vra ek terwyl ek onder die net kyk.
+P9	"Mus Kiet!" sê die stem uiteindelik.  Ek voel 'n steek op my oor.
+P10	"Eina!" Ek spring op en begin soek.   "Hiervoor sal jy betaal!" skree ek.
+P11	Woedend klim ek uit my bed uit en gaan sit die lig aan.
+P12	Hiermee verklaar ek oorlog teen Mus Kiet!
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+English (Original)	Annoying mosquito	id=14893
+English (Adaptation)	Annoying mosquito	id=36072
+French (Translation)	Moustique gênant	id=33335
+Kiswahili (Translation)	Mbu msumbufu	id=21635
+Luganda (Translation)	Wansili anyiiza	id=22989
+Lusoga (Translation)	Ensiri enhiiza	id=25729
+Setswana (Translation)	Monang o o tshwenyang	id=14964
+Spanish (Translation)	Mosquito molesto	id=35728
+Tshivenḓa (Translation)	Lunyunyu lu sinyusaho	id=37289
+Xitsonga (Translation)	Nsuna yo dzindela	id=37110

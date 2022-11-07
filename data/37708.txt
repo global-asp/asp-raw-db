@@ -1,0 +1,76 @@
+url:	https://africanstorybook.org/reader.php?id=37708&d=0&a=1
+id:	37708
+title:	Acona a Selemeng
+author:	Bether Mwale-Moyo and Moffat Moyo
+artist:	Marleen Visser and Wiehan de Jager
+lang:	CiNyanja
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37708.png
+desc:	Selemeng ali na macona ambili. Kodi Selemeng ali na acona angati?
+
+page_text:
+
+P1	Selemeng amakonda acona. @@Pali acona ambiri pakhomo pawo.
+P2	Selemeng ali ndi cona m'modzi wakuda. @@Cona ameneyu amadya kwambiri.
+P3	Selemeng ali ndi cona m'modzi wonenepa. @@Cona ameneyu amadya cinthu ciliconse.
+P4	Cona wacitatu, wakwera mu mtengo. @@Cona uyu waphata mu mtengo.
+P5	Selemeng wakwera mu mtengo. Nayenso waphata pamodzi ndi cona wacitatu. @@Amake Selemeng afunika kuwathandiza kutsika mu mtengo.
+P6	Selemeng ali ndi acona awiri aulesi. @@Iwo amakonda kugona padzuwa tsiku lonse.
+P7	Selemeng ali ndi acona atatu otakataka. @@Iwo amagwira makoswe usiku wonse m'khichini.
+P8	Selemeng ali ndi galu m'modzi. Dzina la galu uyu ndi Lirafi. @@Lirafi alibe anzake. Iye ndi wosakondwa.
+P9	Acona samakonda Lirafi. @@Amamuthamangitsira panja panyumba. @@Lirafi amathawa.
+P10	Selemeng wapeza Lirafi ndipo akumubwerertsa kunyumba. Acona sanakondwere. @@Safuna kuonanso Lirafi
+P11	Kodi Selemeng ali ndi acona angati? @@Iye ali ndi acona asanu ndi atatu.
+P12	Kodi Selemeng ali ndi agalu angati? Iye ali ndi galu m'modzi cabe. @@Kodi Lirafi alikuti tsopano?
+P13	Kodi muli na acona angati pakomo panu? @@Muli ndi galu zingati pakomo panu?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+Anii (Adaptation)	Sulemaanʊ abʊnyaʊ	id=39796
+ChiNambya (Translation)	Tungowe twa Selemeng	id=32898
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+ChiTonga (Translation)	Bakaaze ba Selemengi	id=33107
+ChiTonga (Adaptation)	Bakaaze ba Selemengi	id=37707
+CiNyanja (Translation)	Ma cona a Selemeng	id=33170
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+IciBemba (Translation)	Baapuushi bakwa Selemeng	id=33292
+IciBemba (Adaptation)	Baapuushi bakwa Mpundu	id=37709
+isiZulu (Translation)	Amakati kaZamo	id=31799
+KiGiryama (Translation)	P'aka a Charo	id=33479
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Adaptation)	Injangwe za Sano	id=35870
+Kiswahili (Translation)	Paka wa Sigei	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chipuusi cha Silali	id=31747
+Lusoga (Translation)	Puusi dha Kelementi	id=27609
+Ng’aturkana (Translation)	Ng'ipakae Selina	id=33432
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Pidgin English (Nigeria) (Translation)	Selemeng cats dem	id=37824
+Pokomo (Translation)	Mpaka jwa Subo	id=33504
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Siswati (Translation)	Emakati a-Bakhona	id=37594
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

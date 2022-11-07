@@ -1,0 +1,77 @@
+url:	https://africanstorybook.org/reader.php?id=34968&d=0&a=1
+id:	34968
+title:	Zazing'ono kwambiri
+author:	Ausward  Siwinda and Peter  Msaka
+artist:	Sandy Lightly
+lang:	Chichewa
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/34968.png
+desc:	Lebo wakula
+
+page_text:
+
+P1	"Amayi," ayitana Lebo. @@"Tabwerani muone. Zovalazi zikundithina!" Mayi amuyankha, "Ndione."
+P2	"Tawonani siketi yanga. Ndi yaying'ono kwambiri," atero Lebo. @@"Eya, ndi yaying'ono," atero mayi "Nomsa atha kutenga ikhale yake."
+P3	"Tawonani jinzi yanga. Ndi yaying'ono kwambiri," atero Lebo. @@"Eya, ndi yaying'ono." Atero mayi. "Nomsa atha kutenga ikhale yake."
+P4	"Tawonani tisheti yanga. Ndi yayin'gono kwambiri," Atero Lebo. @@"Eya, ndi yaying'ono." Mayi atero.  "Nomsa atha kutenga ikhale yake."
+P5	"Tawonani juzi yanga. Ndi yaying'ono kwambiri," atero Lebo. @@"Eya, ndi yaying'ono," mayi atero. "Nomsa atha kutenga ikhale yake."
+P6	"Tawonani lenikhoti yanga. Ndi yaying'ono kwambiri," atero Lebo. @@"Eya, ndi yaying'ono," atero mayi. "Nomsa atha kutenga ikhale yake."
+P7	Tawonani masokosi anga. Ndi ang'ono kwambiri." Atero Lebo. @@"Eya, ndi ang'ono." Atero mayi. "Nomsa atha kutenga akhale ake."
+P8	"Tawonani nsapato zanga. Ndi zazing'ono kwambiri." Atero Lebo. @@"Eya, ndi zazing'ono." Atero mayi. "Nomsa atha kutenga zikhale zake."
+P9	"Tsopano uli ndi zovala zambiri," atero Lebo. @@"Oooo! ayi," atero Nomsa. "Zovalazi ndi zazikulu kwambiri kwa ine!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te klein	id=11428
+Anii (Adaptation)	Leela 'ayɔkɔkaraka	id=39893
+ChiNambya (Translation)	Katukutuku kasa	id=32899
+Chinkhonde (Translation)	Kanandi fiyo	id=35004
+ChiShona (Translation)	Idiki	id=31761
+Chitonga (Malawi) (Translation)	Ntchimana ukongwa	id=35028
+Citumbuka (Translation)	Vicoko comene	id=35054
+Ciyawo (Malawi) (Translation)	Unandi mnope	id=35078
+Ellomwe (Malawi) (Translation)	Eng'onong'ono	id=35110
+English (Original)	Too small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane izimpahla zami	id=2504
+Khoekhoegowab (Translation)	Kaise ǂkhari	id=31763
+Kiswahili (Translation)	Ndogo sana, Kubwa sana	id=7877
+Luganda (Translation)	Ntono nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Biboombi naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21093
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21100
+Lusoga (Translation)	Ntonioli	id=20904
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Oshikwanyama (Translation)	Oikutu inini	id=31568
+Oshindonga (Translation)	Okashona unene	id=31504
+Otjiherero (Translation)	Okatiti tjinene	id=31513
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rukwangali (Translation)	Musesugona	id=31482
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ke tše nnyane	id=2509
+Sesotho (Lesotho) (Translation)	Li nyane haholo	id=36355
+Sesotho (South Africa) (Translation)	E nyanyane haholo	id=32211
+Setswana (Translation)	E nnye thata	id=31775
+Siswati (Translation)	Tincane kakhulu	id=33404
+Tshivenḓa (Translation)	Zwo ṱukufhalesa	id=31831
+Xitsonga (Translation)	I switsongo ngopfu	id=37748

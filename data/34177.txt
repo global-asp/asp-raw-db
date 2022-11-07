@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=34177&d=0&a=1
+id:	34177
+title:	Jezu adadyesa mthithi
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34177.png
+desc:	Uma história sobre Jesus do evangelho de Mateus 14: 13-21. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Wakupfundzira wa Jezu adamuuza kuti: "Auzeni wanthuwa ayende m'mii kuti akagule cakudya."
+P2	Jezu adawatawira kuti: "Iwo bzin'funika lini kuti ayende. Apaseni imwepo cakudya."
+P3	Iwo adam'tawira kuti: "Bzomwe tinabzo pano ni pau zixanu na ntsomba ziwiri basi."
+P4	Ndipo Iye adati: "Ndibweresereni kuno."
+P5	Jezu adatenda Mulungu. Ndipo wakupfundzira wace adapasa cakudyaco kuna mthithi.
+P6	Wentse adadya acikhuta. Omwe adadya adaposa bzulu bzixanu.
+
+images:
+
+illustrations/pages/28063.png
+illustrations/pages/28069.png
+illustrations/pages/28068.png
+illustrations/pages/28067.png
+illustrations/pages/28066.png
+illustrations/pages/28070.png
+illustrations/pages/28062.png
+illustrations/pages/28064.png
+
+translations:
+
+English (Original)	Jesus Feeds the Multitude	id=32354
+Portuguese (Translation)	Jesus alimenta a multidão	id=34178

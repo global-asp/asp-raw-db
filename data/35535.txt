@@ -1,0 +1,89 @@
+url:	https://africanstorybook.org/reader.php?id=35535&d=0&a=1
+id:	35535
+title:	El mono y el cocodrilo
+author:	Aprende  Leyendo
+artist:	Abraham Muzee
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35535.png
+desc:	La historia cuenta como el mono se salva de ser comido por el cocodrilo. (También disponible en el Nivel 3).
+
+page_text:
+
+P1	El mono conoce a al cocodrilo en el lago.
+P2	"¿Dónde vives?" pregunta el mono. @@"En el lago" responde el cocodrilo.
+P3	"¿Dónde vives?" pregunta Cocodrilo. @@"En los árboles," responde Mono.
+P4	"¿Sabes nadar?" pregunta el cocodrilo.
+P5	"No sé nadar" dice el mono. @@"Te puedo enseñar."
+P6	"Somos amigos. No temas" dice el cocodrilo.
+P7	"Mono, mi tío está enfermo. Necesita carne," dice el cocodrilo.
+P8	El mono tiene mucho miedo. @@¿Va a ser comido por Cocodrilo?
+P9	El mono quiere escapar del cocodrilo.
+P10	El mono tiene una idea.
+P11	"Te voy a dar mi corazón para él" promete el mono.
+P12	"Mi corazón está en un árbol en la orilla" dice el mono.
+P13	"¿Irás a buscar tu corazón?" pregunta el cocodrilo. @@"Sí" dice el mono.
+P14	El cocodrilo nada de vuelta a la tierra. @@Y el mono corre a los árboles.
+P15	"No eres mi amigo. ¡Mentiste!" dice el cocodrilo.
+P16	"No somos amigos. ¡Quieres comerme!" dice el mono.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+Chichewa (Translation)	Nyani ndi Ng'ona	id=34530
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile (Colour-in)	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+French (Translation)	Singe et Crocodile	id=34555
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+Hausa (Nigeria) (Adaptation)	Ape and Crocodile	id=36137
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+isiZulu (Translation)	UNkawu noNgwenya (Colour-in)	id=33305
+Kanuri (Translation)	Dagǝl Bulongu-a Karam–a	id=32286
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende n'ingona	id=20223
+Kinyarwanda (Adaptation)	Inkende n'ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Waggoonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Otuho (Translation)	Amôlôŋ iko Eenyiaŋ	id=39278
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Siswati (Translation)	Imfene neNgwenya	id=32956
+Thimbukushu (Translation)	Shoko naNgandu	id=31528
+Tiv (Translation)	Ikya man Ambe	id=23886
+TjiKalanga (Translation)	Gudo naNgwena	id=35274
+Tunisian (Translation)	L-qerd wet-temsæħ	id=36688
+Xitsonga (Translation)	Mfenhe na Ngwenya	id=34336

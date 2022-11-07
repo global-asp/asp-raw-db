@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=35211&d=0&a=1
+id:	35211
+title:	Isilwana esinakubili
+author:	Sponono  Mahlangu
+artist:	Jesse Breytenbach
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35211.png
+desc:	Umndeni wezinzawu uhlangana nesilwana esirarako.
+
+page_text:
+
+P1	Umndeni wezinzawu bekumndeni ohlala uthabile. @@Abentazana ababili bafunda ukupheka nokwenza itoni nonina. Abesana bebaphuma noyise bayokuzuma.
+P2	Ngawo woke amalanga ngesikhathi sedina, bebakhuluma ngokuthi benze ini mhlokho.
+P3	Esikhathini esinengi ubaba bekayelelisa abentwana bona bangangeni phakathi ehlathini. @@Wacocela umndeni ngesilwana esirarako ebesihlala ehlathini. "Isilwana lesi silingana nathi sobabili nasihlangeneko!"
+P4	Ngelinye ilanga abentazana bebadlalela emlanjeni. Msinya nje, ngemva komuthi, babona kujame isilwana esirarako! @@Isilwana lesi sinamehlo amabili, iindlebe ezimbili, imikhono emibili, nemilenze emibili.
+P5	Bebathuthumela bathukile, bagijima msinya bayokutjela abafowabo ngalokho abakubonileko. @@Kodwana abafowabo akhange babakholwe, bamane bathi, "Nizindlhadlha nina!"
+P6	Kwamuva, abesana nabo bafuna ukuyozibonela. @@Balandela abentazana nabaya ngemlanjeni ukuyozibonela ngokwabo isilwana esirarako.
+P7	Bafuna bafuna kodwana bazibonela utjani obude kanye nemithi.@@Msinyazana nje, bezwa itjhada, baqala phezulu.
+P8	Lapha emthini bekujinka isilwana esirarako ebangakhange basibone nakanye.  @@Sinemikhono emibili, izandla ezimbili, imilenze emibili neenyawo ezimbili. Kunokobana sibe nalokho okukhamba ngakunye, njengabo.
+P9	Abentwana bathukwa bagijimela ekhaya ukuyokubiza ababelethi babo. Msinyazana nje umndeni woke besele usemlanjeni uzokubona isilwana lesi esirarako.
+P10	"Ningangilimazi!" kutjho isilwana esirarako, lokha nasibhaqa ngemuva komuthi. @@Njenganje umndeni sewukghona ukubona inyawo elilodwa, umlenze owodwa, isandla esisodwa nelihlo elilodwa lesilwana esirarako.
+P11	"Ngifana nani," kuraga isilwana esirarako. "Umehluko okhona kukobana ngenziwa ngezinto ezikhamba ngazimbili kikho koke."
+P12	Yeke, le yindlela umndeni wezinzawu owathola ngayo bona bekungasiso isilwana esirarako abangasisaba. @@Bekungomunye nje umhlobo waso.
+
+images:
+
+illustrations/pages/19458.png
+illustrations/pages/19455.png
+illustrations/pages/19456.png
+illustrations/pages/19457.png
+illustrations/pages/19458.png
+illustrations/pages/19459.png
+illustrations/pages/19460.png
+illustrations/pages/19461.png
+illustrations/pages/19462.png
+illustrations/pages/19463.png
+illustrations/pages/19464.png
+illustrations/pages/19465.png
+illustrations/pages/19466.png
+
+translations:
+
+ChiShona (Translation)	Mhuka ine zviviri	id=22221
+English (Original)	Creature with two	id=19467
+English (Adaptation)	Picture story 1	id=37238
+isiZulu (Translation)	Izinzawu	id=19468
+Kiswahili (Translation)	Kiumbe cha ajabu	id=20022
+Lusoga (Translation)	Ekitonde  ekyendhaghulo	id=27427
+Sepedi (Translation)	Sebopiwa sa a mabedi	id=33344
+Siswati (Translation)	Silwane lesinakubili	id=34417
+Tshivenḓa (Translation)	Tshipuka  tsha zwivhili	id=34302
+Xitsonga (Translation)	Xinghunghumana	id=34195

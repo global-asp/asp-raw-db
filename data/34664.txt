@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=34664&d=0&a=1
+id:	34664
+title:	Fama aime les animaux
+author:	Diapalante    and Mouhamed  Cisse
+artist:	Jesse Breytenbach
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34664.png
+desc:	Fama passe beaucoup de temps avec les animaux
+
+page_text:
+
+P1	Fama et sa famille vivent dans une ville très animée.
+P2	Fama a un chat, deux poules, une chèvre et un pigeon.
+P3	Un jour, Fama a vu des enfants entrain de jeter des pierres aux pigeons.
+P4	Fama a couru vers les enfants. @@Elle a crié "Arrêtez de jeter des pierres"
+P5	Fama a emmené les deux pigeons à la maison pour prendre soin d'eux.
+P6	Elle a raconté à sa famille comment elle les a sauvés.
+P7	Fama et ses parents ont emmené les pigeons à la clinique.
+P8	Fama dit à ses amis, "les animaux sont nos amis. Nous devons les protéger."
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana and her animals	id=21004
+English (Adaptation)	Fana and her animals (Colour-in)	id=21005
+English (Adaptation)	Fana loves animals	id=21396
+isiNdebele (Translation)	UFana neenlwana zakhe	id=35238
+Kanuri (Translation)	Kurram-a Dabbawanzǝ-a	id=24765
+Kinyarwanda (Translation)	Furaha n'amatungo ye	id=23923
+Kiswahili (Translation)	Fana na wanyama wake	id=21006
+Kiswahili (Translation)	Fana anawapenda wanyama	id=21998
+Kiswahili (Adaptation)	Fana na wanyama wake (Paka rangi)	id=33354
+Luganda (Translation)	Fana n'ebisolo bye	id=23599
+Lugbarati (Translation)	Fana azini i ma anyapa be	id=24531
+Lulamoogi (Translation)	Mbasalaki ataka inho ebisolo	id=24828
+Lusoga (Translation)	Faanana  n'ebisolobye	id=25086
+Portugues (Translation)	Fana e os seus animais	id=40216
+Rukiga (Translation)	Fana arakunda e'nyamishwa	id=24413
+Rukiga (Translation)	Fana ne bisholo byeye	id=24592
+Rukiga (Translation)	Fana arakunda enyamaishwa	id=34735
+Runyankore (Translation)	Fana nakunda ebyikoko	id=23245
+Runyankore (Translation)	Fana ne nyamishwa ze	id=24112
+Sepedi (Translation)	Fana o rata diphoofolo	id=32906
+Sepedi (Translation)	Fana o rata diphoofolo (Colour-in)	id=33310
+Siswati (Translation)	Fana netilwane takhe	id=34478
+Spanish (Translation)	Fana ama los animales	id=36359
+Tiv (Translation)	Fana soo aninyamev	id=40198
+Tshivenḓa (Translation)	Fana na zwifuwo zwawe	id=34258
+Xitsonga (Translation)	Halima na swifuwo swa yena	id=34332

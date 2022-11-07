@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=36416&d=0&a=1
+id:	36416
+title:	¡Super Mami y Super Super!
+author:	Aprende Leyendo
+artist:	Marion Drew
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36416.png
+desc:	La historia explora los diferentes roles que una mamá tiene y la importancia del apoyo del papá.
+
+page_text:
+
+P1	Mamá tiene una tienda. @@Ella cuida la tienda, a sus clientes, a sus proveedores y a su familia. @@Ella dice que ella ¡extraña a nuestro papá cuando él está de viaje!
+P2	Su teléfono siempre está sonando. @@Los clientes llaman a preguntar por precios y para hacer sus órdenes. @@Ellos llaman para hacerle seguimiento y a quejarse de sus órdenes.
+P3	Muchas veces pasamos las tardes en la tienda. @@Le contamos de nuestro día en el colegio. @@Pero nuestras conversaciones siempre son interrumpidas por los clientes ansiosos por tener su atención.
+P4	Nos divertimos con los niños que vienen a la tienda. @@Muchas veces, mi mamá tiene ser un árbitro en nuestros juegos mientras intenta ayuda a los clientes. @@¡Creo que ella tiene super poderes!
+P5	Cuando hacemos mucho ruido, mi mamá dice: "¡Ahora hagan silencio y vayan a ver televisión!"@@Pero siempre dice: "¡Solo por 30 minutos, mientras descansamos!"
+P6	Si no tenemos tareas, a veces mi mamá le pide ayuda a mi hermana. @@No siempre estoy listo para ayudar. @@Pero lo hago porque sé que ella trabaja muy duro.
+P7	Durante el ocaso, mientras nos regresamos a la casa, hablamos de nuestro día. @@Tenemos que apurarnos para poder mantener el paso con ella, pero nosotros amamos caminar con nuestra mamá.
+P8	Ella se asegura que hagamos nuestra tarea y que tengamos tiempo para jugar. @@Ella se asegura que comamos nuestros vegetales y fruta, y que comamos agua. @@Cuando estamos enfermos, ella nos cuida.
+P9	En las noches, mi mamá sigue trabajando en la casa. @@Siempre hay trabajo de la tienda.@@¡A veces se queda dormida en la mesa!
+P10	Mi papá se asegura que mi mamá tenga tiempo para relajarse y ayuda con la casa. @@¡Eres una Super Mamá! dice papá.@@¡Y tú eres mi Super Super! sonrie mamá.
+
+images:
+
+illustrations/pages/10050.png
+illustrations/pages/10051.png
+illustrations/pages/10052.png
+illustrations/pages/10054.png
+illustrations/pages/10055.png
+illustrations/pages/10056.png
+illustrations/pages/10059.png
+illustrations/pages/10058.png
+illustrations/pages/10057.png
+illustrations/pages/10049.png
+illustrations/pages/10053.png
+
+translations:
+
+English (Original)	Super Mummy and Super Super!	id=32921

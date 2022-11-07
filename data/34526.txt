@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34526&d=0&a=1
+id:	34526
+title:	Izinhlobo Zezicathulo
+author:	Siphatisiwe Patricia Ndlovu
+artist:	Patricia  Ndlovu
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34526.png
+desc:	Izinhlobo-nhlobo zezicathulo
+
+page_text:
+
+P1	Ziningi izinhlobo zezicathulo.
+P2	Kunalezi ezigqokwa uma ilanga lishisa ezithi 'phaqa-phaqa'.
+P3	Kunalezi ezigqokwa omama uma besebumnandini, ezithi 'qhwa-qhwa'.
+P4	Kube nezabantwana besikole ezithi 'foko-foko'.
+P5	Ezobaba abazigqoka uma besemsebenzini zona zithi 'nyefu-nyefu'.
+P6	Ezami engizithanda kakhulu zithule futhi zihlanzekile.@@Azifani nezikamfowethu zasemasimini, ezinomsindo nodaka!
+P7	Ezami engizithanda kakhulu zinhle kunezikadadewethu ezinuka phu, agijima ngazo.@@Ezami engizithanda kakhulu ngezokugqoka uma ngiziphumulele nje ngingacabangi lutho.
+P8	Ngizigqoka uma ngisendlini.@@Zona ke zintofo-ntofo.@@Zijabulisa inyawo zami ngobuntofo-ntofo bazo.
+
+images:
+
+illustrations/pages/93740175.png
+illustrations/pages/93740170.png
+illustrations/pages/93740171.png
+illustrations/pages/93740172.png
+illustrations/pages/93740173.png
+illustrations/pages/93740174.png
+illustrations/pages/93740176.png
+illustrations/pages/93740177.png
+illustrations/pages/93740175.png
+
+translations:
+
+English (Original)	Types of shoes	id=34359
+Sepedi (Translation)	Mehuta ya dieta	id=34401

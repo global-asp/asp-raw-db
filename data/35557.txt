@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=35557&d=0&a=1
+id:	35557
+title:	Se Er Nen Nena?
+author:	Terkule Aorabee
+artist:	Sue  Beattie
+lang:	Tiv
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35557.png
+desc:	Shien u koronavairus ne doo u mbayev vea er nena ve vea wara?
+
+page_text:
+
+P1	Soo nen ayol kpa lu nen paleaghaa. @@De ze ikyua a or ga.
+P2	Yesem shin tehe ken inyu-we. @@De samber a jems ga.
+P3	Palegh ior aluer doou iyol ga yô.
+P4	Chahur ka i wua koronavairus. @@ Ôôn ave fele fele.
+P5	Ôô ave ou i kuma sekônd ikyundu nahan.
+P6	Sughun ior sha anu-aveegh. @@Sugh sha ahôr-angahar. @@Er a er wegh kpaa.
+P7	Hua fesmask u tsembelee hanmô yange.@@ Cir zwa man ahenga cii.
+P8	De ne Koronavairus ian u samber ga.
+
+images:
+
+illustrations/pages/93740453.png
+illustrations/pages/93740426.png
+illustrations/pages/93740454.png
+illustrations/pages/93740439.png
+illustrations/pages/93740437.png
+illustrations/pages/93740435.png
+illustrations/pages/93740430.png
+illustrations/pages/93740455.png
+illustrations/pages/93740456.png
+
+translations:
+
+Afrikaans (Translation)	Kinders wat omgee	id=35281
+CiNyungwe (Translation)	Wana wakubzipereka	id=35282
+English (Original)	Kids Who Care	id=35213
+English (Adaptation)	What can we do?	id=35254
+English (Adaptation)	Kids Who Care (Sing-Along)	id=35275
+isiXhosa (Translation)	Abantwana abakhathalayo	id=35284
+Kiswahili (Translation)	Tunaweza kufanya nini?	id=35278
+Ng’aturkana (Translation)	Inyo esubakinio?	id=35700
+Otuho (Translation)	Ehan ꞌtadî hôhôî aŋaî?	id=35497
+Portuguese (Translation)	Crianças que se importam	id=35283
+Tiv (Translation)	Mbayev mba tsev-tsev	id=35559
+TjiKalanga (Translation)	Tingatatjini?	id=35259

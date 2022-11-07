@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=36377&d=0&a=1
+id:	36377
+title:	El hombre que construyó su propia casa
+author:	Aprende Leyendo
+artist:	African Storybook and Wiehan de Jager
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36377.png
+desc:	Esta es la historia de un hombre que construye buenas casas para la gente de su pueblo
+
+page_text:
+
+P1	Había un gran constructor en el pueblo de Condoto.
+P2	Él construyó muchas de las casas en el pueblo.
+P3	Pero él estaba durmiendo en una mala casa.
+P4	La gente le preguntaba por su casa todos los días. @"No se preocupen, tengo un plan", respondía el constructor todos los días.
+P5	Ahorro su dinero y se compró ladrillos.
+P6	Luego compro arena, cemento, hojas de hierro y clavos.
+P7	Poco a poco se fue construyendo una gran y hermosa casa.
+P8	Sus amigos se alegraron al ver su nueva casa.
+P9	Se preparó para una fiesta e invito a todo el mundo. Ellos comieron y tomaron.
+P10	Luego bailaron.
+P11	El constructor recibió muchos regalos para su nueva casa.
+P12	Ahora, el constructor del pueblo de Condoto duerme en una buena casa.
+
+images:
+
+illustrations/pages/10284.png
+illustrations/pages/10276.png
+illustrations/pages/17056.png
+illustrations/pages/17038.png
+illustrations/pages/10281.png
+illustrations/pages/17049.png
+illustrations/pages/17051.png
+illustrations/pages/17036.png
+illustrations/pages/17079.png
+illustrations/pages/17076.png
+illustrations/pages/13905.png
+illustrations/pages/10279.png
+illustrations/pages/17081.png
+
+translations:
+
+English (Original)	Man who built his own house	id=9985
+French (Translation)	L'homme qui a construit sa propre maison	id=33368
+Lusoga (Translation)	Omusaadha yazimba endhu ye	id=26099

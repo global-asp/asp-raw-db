@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=37295&d=0&a=1
+id:	37295
+title:	Makhulu, Muvhuḓa na Nḓou
+author:	Doris  Manyamalala and Tshedza  Tlhako
+artist:	Marleen Visser
+lang:	Tshivenḓa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37295.png
+desc:	Ṅwana u ṱalutshedza nḓila ye makhulu wawe vha vha vha tshi vha anetshela ngayo dzingano musi vha sa athu eḓela.
+
+page_text:
+
+P1	Makhulu vho thoma nga uri, "Muvhuḓa na Nḓou vho vha vhe vhahura vha dovha vha vha dzikhonani."
+P2	Muvhuḓa o vha a tshi funa ngowa, fhedzi o vha a tshi bvafha u ṱavha.
+P3	Ho vha hu si na ngowa.@@Muvhuḓa a mbo ḓi thoma u tswa miomva ya Nḓou.
+P4	Nḓou a imba a ri, "Mbava ndi ḓo i wana!"@@Muvhuḓa a tshuwa.
+P5	Ṱhoho o vha a tshi linda bulasi, fhedzi muvhuḓa ha ngo tswa.
+P6	Nḓou a ya u sedza.@@Muvhuḓa o vha o dzumbama vhukati ha mafhuri na muroho wa thanga.
+P7	Nḓou a sedza hoṱhe-hoṱhe, fhedzi mbava a si i wane.
+P8	Ḽiṅwe ḓuvha muvhuḓa o dzumbama ngomu ha fhuri ḽihulwane a kona u ponyoka.
+P9	Nḓou a vhona fhuri ḽihulwane a mbo ḓi ḽi mila.
+P10	Fhuri ḽo vha ḽi tshi khou kunguluwa ngomu thumbuni ya Nḓou.
+P11	Nḓou a ṱanza ḽia fhuri.@@Muvhuḓa a shavha.
+P12	Makhulu vha ri, "Ndi u fa ha lungano."
+
+images:
+
+illustrations/pages/18842.png
+illustrations/pages/18819.png
+illustrations/pages/18831.png
+illustrations/pages/18832.png
+illustrations/pages/18833.png
+illustrations/pages/18834.png
+illustrations/pages/18835.png
+illustrations/pages/18836.png
+illustrations/pages/18837.png
+illustrations/pages/18839.png
+illustrations/pages/18840.png
+illustrations/pages/18841.png
+illustrations/pages/18842.png
+
+translations:
+
+Afaan Oromo (Translation)	Akkoo, Illeetiifi Arba	id=21667
+Amharic (Translation)	አያቴ፣ ጥንቸልና ዝሆን	id=21245
+English (Original)	Grandmother's stories	id=19109
+English (Adaptation)	Grandmother, Hare and Elephant	id=20883
+Kiswahili (Translation)	Bibi atusimulia hadithi	id=19110
+Kiswahili (Translation)	Bibi, Sungura na Tembo	id=21129
+Lusoga (Translation)	Dhaada Omukazi, Wakaima ne Endovu	id=21334
+Tigrigna (Translation)	እናሓጎይ፣ ማንቲለን ሓርማዝን	id=21106
+Xitsonga (Translation)	Kokwanaxisati, N'wampfundla na N'wandlopfu	id=37119

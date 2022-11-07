@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=35228&d=0&a=1
+id:	35228
+title:	Ukatsu ohlakaniphileko
+author:	Sponono  Mahlangu
+artist:	Catherine Groenewald
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35228.png
+desc:	UNomzana uKio unokatsu ohlakaniphileko ibizo lakhe nguSafi.
+
+page_text:
+
+P1	Ethresteni engihlala kilo kuhlala uNomzana uKio. @@UNomzana uKio unokatsu ibizo lakhe nguSafi.
+P2	Lokha uNomzana Kio nakaya emsebenzini, utjhiya umnyango uvuliwe.
+P3	USafi uhlala ngemnyango agade indlu.
+P4	Inja kamakhelwana nayitjhidelako, uSafi uyayisabisa ibaleke.
+P5	Inja iyabaleka.
+P6	Umakhelwana nakakokoda emnyango, uSafi uzilungiselela ukumnghwara.
+P7	Umakhelwana uyajika abaleke.
+P8	USafi nakalambileko, uvala umnyango.
+P9	Usafi udla ukudla kwakhe.
+P10	Nakaqedako, uSafi weqela esofeni alale, "Phurr! Phurr! Phurr!"
+P11	UNomzana Kio nakabuyako, uSafi uyazilula  amthabele amdidibeze bese uyamamukela ekhaya.
+P12	UNomzana Kio banoSafi bahlala phasi, omunye nomunye wabo ufunda iphephandaba.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Ateso (Translation)	Ekapa Lo Ecobee	id=20595
+ChiNdau (Translation)	Chimangowe chakangwara	id=35196
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever cat	id=8878
+Fulfulde Mbororoore (Translation)	Kuleeru Aadamu	id=32055
+Hausa (Nigeria) (Translation)	Kyanwa Mai Wayo	id=21362
+Kiswahili (Original)	Paka mwerevu	id=8877
+Lulamoogi (Translation)	Okapa omugezi	id=31258
+Lusoga (Translation)	Puusi engezi	id=25303
+Sesotho (Lesotho) (Translation)	Katse e bohlale	id=10622
+Sesotho (South Africa) (Translation)	Katse e bohlale	id=33509
+Siswati (Translation)	Likati lelihlakaniphile	id=34465
+Tshivenḓa (Translation)	Tshimange tsho ṱalifhaho	id=34247
+Xitsonga (Translation)	Ximanga xa vutlhari	id=34321

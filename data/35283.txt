@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=35283&d=0&a=1
+id:	35283
+title:	Crianças que se importam
+author:	Little Zebra Books
+artist:	Sue  Beattie
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35283.png
+desc:	Como mostrar que se importa durante uma pandemia? Estas crianças demonstram.
+
+page_text:
+
+P1	Dois amigos lavando as mãos.
+P2	Dois amigos observando os dois metros de distância.
+P3	Uma menina tapando tosse com o braço.
+P4	Dois rapazes dão cotovelo a saudar.
+P5	Dois amigos usam màscaras a visitar amiga em casa.
+P6	A doente fica em casa, sempre segura.
+
+images:
+
+illustrations/pages/93740453.png
+illustrations/pages/93740435.png
+illustrations/pages/93740426.png
+illustrations/pages/93740454.png
+illustrations/pages/93740430.png
+illustrations/pages/93740455.png
+illustrations/pages/93740439.png
+illustrations/pages/93740456.png
+
+translations:
+
+Afrikaans (Translation)	Kinders wat omgee	id=35281
+CiNyungwe (Translation)	Wana wakubzipereka	id=35282
+English (Original)	Kids Who Care	id=35213
+English (Adaptation)	What can we do?	id=35254
+English (Adaptation)	Kids Who Care (Sing-Along)	id=35275
+isiXhosa (Translation)	Abantwana abakhathalayo	id=35284
+Kiswahili (Translation)	Tunaweza kufanya nini?	id=35278
+Ng’aturkana (Translation)	Inyo esubakinio?	id=35700
+Otuho (Translation)	Ehan ꞌtadî hôhôî aŋaî?	id=35497
+Tiv (Translation)	Se Er Nen Nena?	id=35557
+Tiv (Translation)	Mbayev mba tsev-tsev	id=35559
+TjiKalanga (Translation)	Tingatatjini?	id=35259

@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=34175&d=0&a=1
+id:	34175
+title:	Jezu an'famba padzulu pa madzi
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34175.png
+desc:	Uma história sobre Jesus do evangelho de Mateus 14: 22-33. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Jezu adayenda kuna iwo, alikufamba padzulu pa@madzi. Wakupfundzira wace adakhala na mantha.
+P2	Jezu adawauza kuti: "Khazikani m'tima! Ndine. Lekani mantha!"
+P3	Iye adatawira kuti: "Bwera." Pamwepo Pedru adacoka m'bote.
+P4	Tsono adabva mantha, ndipo adayamba kumira.
+P5	Pedru adakuwa: "Ndipulumuseni, Mbuya!"
+P6	Jezu adapfuthula boko acim'phata. Ndipo adati: "Thangwe ranyi iwepo wapenula?"
+P7	Pomwe adapakira m'bote condzi cidamala. Wakupfundzira wace adam'pemba aciti: "Cadidi‐retu Imwe ndimwe Mwana wa Mulungu."
+
+images:
+
+illustrations/pages/28183.png
+illustrations/pages/28184.png
+illustrations/pages/28073.png
+illustrations/pages/28074.png
+illustrations/pages/28185.png
+illustrations/pages/28076.png
+illustrations/pages/28077.png
+illustrations/pages/28078.png
+illustrations/pages/28082.png
+
+translations:
+
+English (Original)	Jesus Walks on Water	id=32355
+Portuguese (Translation)	Jesus anda sobre a água	id=34176

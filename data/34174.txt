@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=34174&d=0&a=1
+id:	34174
+title:	Jesus e Zaqueu
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34174.png
+desc:	Uma história sobre Jesus do evangelho de Lucas 19: 1-10. © 1999 Bible League Intl. Versão Fácil de Ler. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Zaqueu queria ver Jesus, mas ele era muito baixo.
+P2	Ele correu à frente e subiu em uma árvore.
+P3	Jesus olhou para cima e disse: "Zaqueu, desça."
+P4	Zaqueu desceu depressa.
+P5	Zaqueu recebeu Jesus na sua casa.
+P6	Zaqueu disse: "Eu darei metade de tudo o que tenho aos pobres!"@@Então Jesus disse: "Hoje a salvação entrou nesta casa."
+
+images:
+
+illustrations/pages/85590171.png
+illustrations/pages/85590169.png
+illustrations/pages/85590170.png
+illustrations/pages/85590171.png
+illustrations/pages/85590172.png
+illustrations/pages/85590173.png
+illustrations/pages/85590174.png
+illustrations/pages/85590168.png
+
+translations:
+
+Cinyungwe (Translation)	Jezu na Zakeu	id=34173
+English (Original)	Jesus and Zacchaeus	id=33150

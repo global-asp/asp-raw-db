@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=37405&d=0&a=1
+id:	37405
+title:	Oscar die Haai
+author:	Meryke Barkley
+artist:	Ethan Alberts
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/37405.png
+desc:	Oscar kan nie lekker sien nie. Hy sukkel om vis te vang.
+
+page_text:
+
+P1	Oscar het probleme met sy oë.@Hy kan glad nie die visse sien nie.
+P2	Maar, hy wil nie wortels eet nie.@Glad nie!
+P3	Sarel Seeperd sê gereeld vir Oscar: "Oscar, jy moet jou wortels eet!"
+P4	Maar Oscar hou glad nie van wortels se smaak nie!
+P5	"Die wortels sal jou help om beter te kan sien," sê Sarel.
+P6	Oscar gaan dokter. Hy en Sarel wag vir die dokter.
+P7	"'n Bril sal jou beslis help om beter te kan sien," sê die dokter.
+P8	Maar Oscar wil ook nie 'n bril dra nie!
+P9	Nou kan Oscar die visse sien en nou eet hy graag wortels saam met sy vis.
+
+images:
+
+illustrations/pages/5292.png
+illustrations/pages/5293.png
+illustrations/pages/5294.png
+illustrations/pages/5295.png
+illustrations/pages/5296.png
+illustrations/pages/5297.png
+illustrations/pages/5298.png
+illustrations/pages/5299.png
+illustrations/pages/5300.png
+illustrations/pages/5301.png
+
+translations:
+
+English (Original)	Oscar the Shark	id=5303
+isiZulu (Translation)	UMazinyo ushaka	id=6713
+isiZulu (Translation)	Umazinyo Ushaka	id=7490
+Lusoga (Translation)	Osika Omusabbulenya	id=21372

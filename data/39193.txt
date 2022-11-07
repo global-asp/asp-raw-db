@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=39193&d=0&a=1
+id:	39193
+title:	Ekwa! Modumo wa Sepedi 2
+author:	Diana  Tebeila
+artist:	Diana  Tebeila
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39193.png
+desc:	Puku ye e ka ga go bopa lefoko ka go šomiša lentšu le bopilwego ka modumo wa tlhaka-tee ya go tšwa dialfabeteng tša Sepedi. Ka go lemoga modumo wa lentšu
+
+page_text:
+
+P1	Tate o a aga.@@Buti o a ema.
+P2	O iša selo.@@Ye ke oli.
+P3	O epa mobu.@@Bana ba a bina.
+P4	Ke dula fase.@@Mma o fepa lesea.
+P5	Buti o a gama.@@Ke hema moya.
+P6	Ye ke jase.@@Ke kobo ya koko.
+P7	O loma ke noga.@@Mae a bose.
+P8	Ke bona noga.@@Pula e a na.
+P9	Koko o roka roko.@@Sesi o a sega.
+P10	Ke jase e tala.@@Lee le wele.
+P11	Yo ke buti wa ka.@@Ye ke šaka.
+
+images:
+
+illustrations/pages/6012001035.png
+illustrations/pages/6012001024.png
+illustrations/pages/6012001025.png
+illustrations/pages/6012001026.png
+illustrations/pages/6012001027.png
+illustrations/pages/6012001028.png
+illustrations/pages/6012001029.png
+illustrations/pages/6012001030.png
+illustrations/pages/6012001031.png
+illustrations/pages/6012001032.png
+illustrations/pages/6012001033.png
+illustrations/pages/6012001034.png
+illustrations/pages/6012001035.png
+
+translations:
+
+Sepedi (Original)	Ekwa! Modumo wa Sepedi 1	id=38830

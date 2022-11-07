@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=34234&d=0&a=1
+id:	34234
+title:	Kulani u rhandza vayeni
+author:	Arnold Mushwana
+artist:	African Storybook, Rasheedat Sadiq and Wiehan de Jager
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34234.png
+desc:	Kulani i ntombhi loyi a rhandzaka vayeni. Wa swi kota ku endla leswaku vayeni va twa va amukelekile.
+
+page_text:
+
+P1	Gogogo, gogogo!@@I mpfumawulo wa ku gongondziwa ka rivanti.
+P2	"I mani?" ku vutisa Kulani. @@"Manana, hi na muendzi!"
+P3	"Hi swona," ku hlamula mana wa yena. @@"Ku fanele ku ri Mnn Cawuke. N'wi pfulele rivanti."
+P4	Kulani a pfula rivanti hi ku n'wayitela. "Mi amukeriwile manana, nghenani. Manana u ta va na n'wina hi nkarhi lowu nga hetiki mbilu."@  @Mnn Cawuke a n'wayitela na yena.
+P5	"Ndzi nga mi nyika swo nwa ke?" ku vutisa Kulani.@  @"Ndzi khensile. A ndzi lavi swo nwa," ku hlamula Mnn Cawuke.
+P6	"Xewani Mnn Cawuke," ku vula mana wa Kulani. "Ndzi khomeleni ku mi yimisa."@@"A ku na xiphiqo munghana, Kulani a ndzi khome kahle."
+P7	Mana wa Kulani a n'wayitela.@@"Ina, Kulani wa swi kota ku khoma vayeni. Ndza tinyungubyisa hi yena," ku vula Mnn Cawuke.
+
+images:
+
+illustrations/pages/26908.png
+illustrations/pages/27079.png
+illustrations/pages/27080.png
+illustrations/pages/27081.png
+illustrations/pages/27082.png
+illustrations/pages/27083.png
+illustrations/pages/27084.png
+illustrations/pages/27085.png
+illustrations/pages/27086.png
+
+translations:
+
+Ateso (Translation)	Emina Alake ipejok	id=23219
+ChiNambya (Translation)	Sekani unoda bezi	id=39994
+ChiShona (Translation)	Ruvarashe anofarira vayenzi	id=23853
+ChiShona (Translation)	Sharnice anoda vaenzi	id=35135
+English (Original)	Alake loves Visitors	id=23165
+English (Adaptation)	Alake loves visitors	id=23465
+isiNdebele (Translation)	U-Alake uthanda iimvakatjhi	id=35220
+Lusoga (Translation)	Alake ayenda abageni	id=23192
+Rukiga (Translation)	ALEKE NAKUNDA ABAGYENYI	id=23492
+Runyankore (Translation)	Alake nakuunda abagyenyi	id=23991
+Sesotho (South Africa) (Translation)	Alake o rata baeti	id=32767
+Siswati (Translation)	Alake utsandza tivakashi	id=34460
+Tshivenḓa (Translation)	Aḽilali ha funi zwone vhaeni	id=34310

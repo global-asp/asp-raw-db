@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=35243&d=0&a=1
+id:	35243
+title:	UKatsu noNja neqanda
+author:	Sponono  Mahlangu
+artist:	Elke and René Leisink
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35243.png
+desc:	UKatsu neNja babangani. Babona iqanda etjanini. Bazokwenza ini ngalo?
+
+page_text:
+
+P1	Lo nguKatsu.@@Lo nguNja.
+P2	UKatsu noNja bayakhamba.@@Baya ethresteni labo.
+P3	Babona iqanda.@@Iqanda lisetjanini.@@Iqanda lilodwa etjanini.@@Iqanda lizihlalele lilodwa.
+P4	UKatsu noNja bayakhamba baya enyonini.@@Bafika babuza inyoni, "Ingabe liqanda lakho leli?"
+P5	Kodwana inyoni yaphendula yathi, "Awa, akusilo iqanda lami lelo. @@Buzani isikhova. Mhlamunye liqanda laso."
+P6	UKatsu noNja baya esikhoveni.@@Bafika babuza isikhova, "Ingabe akusilo iqanda lakho leli?"
+P7	Isikhova saphendula sathi, "Awa, akusilo iqanda lami lelo. @@Buzani irhansi. Mhlamunye liqanda lalo."
+P8	UKatsu noNja baya erhansini.@@Bafika babuza irhansi, "Ingabe akusilo iqanda lakho leli?"
+P9	Irhansi laphendula lathi, "Awa, akusilo iqanda lami leli. @@Buzani amadada amabili naka. Mhlamunye liqanda lawo."
+P10	UKatsu noNja baya emadadeni amabili.@@Bafika babuza amadada amabili, "Ingabe akusilo iqanda lenu leli?"
+P11	Kodwana amadada amabili aphendula athi, "Awa, akusilo iqanda lethu lelo. @@Ngemuva kwalokho iqanda laphuka.
+P12	Kunesibhadwa ngaphakathi kweqanda.@@Umntwana wesibhadwa.
+P13	Umntwana wesibhadwa uthi, "Uphi umma? Uphi ubaba? Uphi umma nobaba?" @@UKatsu noNja bathatha umntwana wesibhadwa bamusa kunina noyise.
+P14	Sala kuhle Katsu.@@Sala kuhle Nja.@@Sala kuhle mntwana wesibhadwa.
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+Anii (Adaptation)	Ganyaʊ, asna na nsǝla	id=36552
+Babanki (Translation)	Bùshi nə̀ Bʉ nə̀ əwum	id=35119
+ChiTonga (Translation)	Kaaze, Mubwa AJi	id=20770
+CiNyanja (Translation)	Cona, Galu na zila	id=20793
+English (Original)	Cat and Dog and the egg	id=20150
+French (Adaptation)	Le chat, le chien et l'œuf	id=34873
+Kinyarwanda (Translation)	Injangwe, Imbwa n' Igi	id=31694
+Kiswahili (Translation)	Paka na Mbwa na Yai	id=33216
+Lulamoogi (Translation)	Opuusi n'ombwa n'eigi	id=25360
+Lusoga (Translation)	Puusi, Embwa neigi	id=26358
+Ng’aturkana (Translation)	Ipaka, Nying'ok ka Abeye	id=33424
+Persian (Afghanistan) (Translation)	سگ و گربه و تخم	id=33604
+SiLozi (Translation)	Kaze, Nja  ni Lii	id=20924
+Siswati (Translation)	Likati nenja kanye nelicandza	id=34485
+Tiv (Translation)	Kpatema vea Iwa man Iji	id=34797

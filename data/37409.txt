@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=37409&d=0&a=1
+id:	37409
+title:	Dembe se winkel
+author:	Meryke Barkley
+artist:	Zablon Alex Nguku
+lang:	Afrikaans
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37409.png
+desc:	Leer meer oor Dembe se winkel en sy familie.
+
+page_text:
+
+P1	In die dorp is daar 'n winkeleienaar met die naam Dembe.
+P2	Dembe het n groot winkel.
+P3	Die winkel verkoop meel, suiker, rys, boontjies en nog vele meer.
+P4	Dembe en sy vrou het drie kinders.  As dit vakansie is help sy kinders in die winkel.
+P5	Dembe tel elke dag wat hulle verdien het.
+P6	Dembe skryf dan in sy boek hoeveel geld hulle elke dag verdien het.  Hy skryf ook wat hy vir die winkel aangekoop het.
+P7	Dembe verdien genoeg geld vir 'n huis en 'n motor
+P8	Hulle het ook koeie, hoenders en hase.
+P9	Die familie het 'n goeie lewe.  Eendag, as die kinders groot is, sal hulle die baas van die winkel wees.   Maar, hulle moet eers klaar maak met skool.
+
+images:
+
+illustrations/pages/10795.png
+illustrations/pages/10795.png
+illustrations/pages/10796.png
+illustrations/pages/10797.png
+illustrations/pages/10798.png
+illustrations/pages/10799.png
+illustrations/pages/10801.png
+illustrations/pages/10804.png
+illustrations/pages/10805.png
+illustrations/pages/10803.png
+
+translations:
+
+English (Translation)	Dembe the Shopkeeper	id=11466
+Luganda (Original)	Dembe Omusuubuzi	id=11444
+Lusoga (Translation)	Dembe omusuubuzi	id=28464

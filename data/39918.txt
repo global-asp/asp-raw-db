@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=39918&d=0&a=1
+id:	39918
+title:	Pourquoi Ajao n'a pas été enterré
+author:	Michel  Pizard
+artist:	Jesse Breytenbach
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39918.png
+desc:	Ajao
+
+page_text:
+
+P1	Ajao, la chauve-souris, est très malade. @@Il n'y a personne pour s'occuper de lui.
+P2	Et maintenant Ajao est mort.
+P3	Les voisins disent : « Ajao est mort. Nous devons appeler sa famille pour qu'ils viennent l'enterrer. »
+P4	Les voisins vont chercher les oiseaux et leur disent : « Un de vos parents est mort. »
+P5	Les oiseaux viennent et voient que c'est Ajao. @@Ils disent : « Cet animal ne fait pas partie de notre famille.
+P6	Tous ceux de notre famille ont des plumes. @@Mais Ajao n'en a pas. Donc il n'est pas des nôtres. » Les oiseaux s'en vont.
+P7	Les voisins réfléchissent et se mettent d'accord. « Les oiseaux ont raison. Ajao n'a pas de plumes. Donc il ne fait pas partie de leur famille. »
+P8	L'un d'eux dit : « Il doit faire partie de la famille des rats. Il leur ressemble. »
+P9	Les voisins vont chercher les rats et leur disent : « Un de vos parents est mort. »
+P10	Les rats viennent et voient que c'est Ajao. Ils disent : « Cet animal ne fait pas partie de notre famille.
+P11	Tous ceux de notre famille ont une queue. Ajao n'a pas de queue. » Les rats s'en vont.
+P12	Aucun parent n'a été trouvé pour Ajao et c'est pour ça qu'il n'a pas été enterré.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+ChiShona (Translation)	Sei Ajao asina kuvigwa	id=22214
+English (Translation)	Why Ajao was not buried	id=16988
+Ga (Translation)	Nɔ Hewɔ ni Anaaa Afũ Ajao	id=25743
+isiNdebele (Translation)	Kubayini u-Ajao angakhange abulungwe	id=35214
+Kiswahili (Translation)	Kwa nini Ajao hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Sepedi (Translation)	Gobaneng Ajao a sa bolokwa	id=33348
+Siswati (Translation)	Kungani Ajao angazange angcwatjwe	id=34455
+Tiv (Translation)	Inima Saa Sha Tar: I ii Un Ga	id=23858
+Tshivenḓa (Translation)	Ndi nga mini Ajao a songo vhulungwa?	id=34305
+Urhobo (Translation)	O Bọ Isorọ Ewo Je Ajao Esho	id=22514
+Xitsonga (Translation)	Hikokwalaho ka yini Andzani  a nga lahliwi	id=34197
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=35225&d=0&a=1
+id:	35225
+title:	Itoni ese-Congo
+author:	Sponono  Mahlangu
+artist:	Christelle  X
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35225.png
+desc:	Imayelana nendlu netoni umtloli wakhe omncani okwafuneka bona ayitjhiye ngemva kwalokha nakaya ekhabo e-Congo. (Indatjana neenthombe zibunjwe kusifundobandulo samaholideyi kaMgwengweni 2019
+
+page_text:
+
+P1	Indlu le ise-Congo.@@Ngiyayithanda indlu le.
+P2	Sinendlwana yethu yokuhlambela.@@Sinendlwana yethu yangasese.
+P3	Sinetoni.@@Bengitjala etonini engeyami.
+P4	Umma ungitjelile, "Umma ungifundise ukutjala. Njenganje mina sengifundisa wena."
+P5	Ngitjale amatamati nesipinatjhi.@@Koke ngikwenze ngingedwa.
+P6	Ngizakuthatha amatamati ngiyowapha umma.@@Uzakuthi, "Ngiyathokoza."
+P7	Asinayo itoni lapha eSewula Afrika.
+P8	Satjhiya indlu leyo e-Congo.
+
+images:
+
+illustrations/pages/91400127.png
+illustrations/pages/91400125.png
+illustrations/pages/91400126.png
+illustrations/pages/91400127.png
+illustrations/pages/91400128.png
+illustrations/pages/91400129.png
+illustrations/pages/91400130.png
+illustrations/pages/91400131.png
+
+translations:
+
+Afrikaans (Translation)	'n Tuin in die Kongo	id=35792
+Amharic (Translation)	በኮንጎ ያለ የአትክልት ስፍራ	id=37713
+English (Original)	A garden in Congo	id=33736
+French (Translation)	Jardin au Congo	id=33850
+isiZulu (Translation)	Ingadi esayishiya eCongo	id=33775
+Kiswahili (Translation)	Bustani iliyokuwa Kongo	id=33837
+Lingala (Translation)	Bilanga na Congo	id=33806
+Sesotho (South Africa) (Translation)	Tshimo e Congo	id=33791
+Siswati (Translation)	Ingadze leseCongo	id=34462
+Spanish (Translation)	Un Jardín en el Congo	id=35534
+Tshivenḓa (Translation)	Ngade i re Congo	id=34313
+Xitsonga (Translation)	Xirhapa xa le Giyani	id=34237

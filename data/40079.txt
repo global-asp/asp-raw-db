@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=40079&d=0&a=1
+id:	40079
+title:	Uma lição de pai
+author:	Rui Fernandes
+artist:	Adonay  Gebru
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40079.png
+desc:	Que pensa do conselho do pai de Abula?
+(Esta história foi escrita numa oficina de desenvolvimento de histórias na biblioteca Ras Abebe em Debre Birhan em maio de 2018).
+
+page_text:
+
+P1	Numa aldeia havia um menino chamado Abula.@Ele não gostava de ler. Nem sequer abria um livro. Era um aluno preguiçoso. Portava-se mal.
+P2	Abula roubava o dinheiro da mãe para comprar guloseimas. Mesmo quando a mãe escondia o dinheiro, Abula encontrava-o e tirava-o.
+P3	A certa altura, Abula deixou de ir à escola. Ficava todo o dia a brincar na rua e só voltava para casa ao final do dia.
+P4	"O nosso filho não está a portar-se bem. Penso que não está a ir à escola. Também me anda a roubar dinheiro," disse a mãe de Abula.
+P5	O pai disse para a sua mulher, "Para a próxima, esconde o dinheiro nas páginas de um livro. Ele nunca abre um livro. Por isso, o dinheiro fica seguro aí."
+P6	No dia seguinte, Abula procurou o dinheiro da mãe. Procurou por todo o lado mas não encontrou nada.@Decidiu ir ao mercado mais próximo procurar dinheiro.
+P7	O pai viu onde o filho ia.@"Meu filho, sei que vais ao mercado. Volta para trás e procura dinheiro nos livros," disse ele.
+P8	Abula ficou intrigado mas voltou para trás e procurou nos livros.@Encontrou o dinheiro que a mãe tinha escondido.
+P9	No dia seguinte, procurou novamente nos livros. Mas não havia lá nada escondido.@Foi ter com o pai para perguntar por que não havia dinheiro nos livros.
+P10	O pai sorriu e perguntou, "Meu filho, queres ganhar dinheiro suficiente para comprar muitos doces?"@Abula respondeu, "Claro, pai."
+P11	O pai disse, "Ouve-me com atenção. Lê os teus livros e vai às tuas aulas. Encontrarás recompensas nos livros. Não desistas."@"Mas, pai, ler é uma atividade difícil. Os livros são enfadonhos!", respondeu Abula.
+P12	O pai de Abula ficou calado durante algum tempo. Estava a pensar como podia ajudar o filho.@Depois, disse a Abula, "Vamos ler juntos. Vou ensinar-te a encontrar riqueza nos livros."
+
+images:
+
+illustrations/pages/27719.png
+illustrations/pages/27708.png
+illustrations/pages/27709.png
+illustrations/pages/27710.png
+illustrations/pages/27711.png
+illustrations/pages/27712.png
+illustrations/pages/27713.png
+illustrations/pages/27714.png
+illustrations/pages/27715.png
+illustrations/pages/27716.png
+illustrations/pages/27717.png
+illustrations/pages/27718.png
+illustrations/pages/27719.png
+
+translations:
+
+Amharic (Translation)	የአባት ምክር	id=33952
+Babanki (Translation)	Jì a tìʼ wàyn ə tyiftə wàyn fa tsu	id=36934
+ChiNdau (Translation)	Mukororo ongwadzwa ndibaba.	id=37932
+English (Original)	A father's lesson	id=31944
+French (Translation)	La leçon d'un père	id=33155
+isiNdebele (Translation)	Isifundo sakababa	id=35239
+Kinyarwanda (Translation)	Inama z' umubyeyi	id=32137
+Kiswahili (Translation)	Mvumilivu hula mbivu	id=32070
+Kom (Translation)	Iye'i i bò wàyn	id=40129
+Ng’aturkana (Translation)	Ng'akitatamet ka'Apa	id=33390
+Oshikwanyama (Translation)	Oshihongwa sha Tate	id=37060
+Otuho (Translation)	Ettiyeni ônô mônyê	id=36300
+Setswana (Translation)	Thuto ya ga rre	id=34763
+Siswati (Translation)	Sifundvo sababe	id=34479
+Spanish (Translation)	Una lección de Papá	id=36421
+Tiv (Translation)	Ayom a Wan a Ter	id=36790
+Tshivenḓa (Translation)	Ngundo i bvaho kha khotsi	id=34259
+Wolaita (Translation)	Awa Timirtiya	id=32315
+Xitsonga (Translation)	Dyondzo ya tatana	id=34333

@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=35558&d=0&a=1
+id:	35558
+title:	Zam Iyol
+author:	Terkule Aorabee
+artist:	Marleen Visser
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35558.png
+desc:	U er nena zum u shima i lu zan we iyol shien u angev mbu koronavairus ne?
+
+page_text:
+
+P1	Ve cir imakeranta, se yem kan uyaav asev.
+P2	Se kera faityô u numben a mbayev mbagenev ga.
+P3	Sarem nengen a ahuraior am je!
+P4	Sarem zan makeranta kpaa!
+P5	Angbian u ngôm ngu uange sha iyoughci.@@ Za ngôm iyol kpishi.
+P6	Hanmô kwagh yô za mbamaren av iyol.
+P7	Ishima nyian hanmô or a mciem ma angev mbun.
+P8	Hanmô or yô ka u ôron kwagh u Koronavairus!@@ Mtôm mer ma a bee.
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740449.png
+illustrations/pages/93740447.png
+illustrations/pages/93740452.png
+illustrations/pages/93740451.png
+illustrations/pages/93740446.png
+illustrations/pages/93740442.png
+illustrations/pages/93740444.png
+illustrations/pages/93740440.png
+
+translations:
+
+Afrikaans (Translation)	Ek voel bekommerd	id=35796
+English (Original)	I Feel Alone	id=35221
+English (Adaptation)	I feel worried	id=35252
+isiXhosa (Translation)	Ndiziva ndindedwa	id=35285
+Kiswahili (Translation)	Nina wasiwasi	id=35279
+Otuho (Translation)	Abotihino nî	id=35492
+Spanish (Translation)	Me siento preocupado	id=36331
+TjiKalanga (Translation)	Andizogadzikana	id=35258
+TjiKalanga (Translation)	Ndozwiwha ndili ndoga	id=35260

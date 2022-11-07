@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34186&d=0&a=1
+id:	34186
+title:	Epucepuche Yoorimeela ni Ekhorowa Yoorimeela
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Elomwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34186.png
+desc:	Duas parábolas contado por Jesus em Lucas
+
+page_text:
+
+P1	Yeesu aaloca niphwanaphwaniho nla:@—Mmoha a nyuwo akhalano ipucepuche nsana, emoha erimeela, akhweya hahiya iye makhumi mathanu naamasheshe ni ipuceputhe thanu nasheshe wi aavye ele erimenle ophiyerya aphwannye?
+P2	Aphwanya, onnakapaca ahakalalaka.
+P3	Aphiya owannyawe, onnawiichana asinthamwene awe ni awaacamana aloca, ariki: "Muhakalale ni miyo, koophwanya epucepuche aka yaarimenle!"
+P4	Hiihaa kinnooleelaani emohamoha tho wi onarwa okhala ohakalala wirimu vanthowa na mulipa oocheka mmoha orukununwe murima waapwaha achu makhumi mathanu namasheshe ni achu athanu nasheshe awookololowa ahinakhwela orukunuwa murima.
+P5	Akhweya naanyiherye wi muthiyana mmoha aarino ikhorowa khumi sa eparata, erimeela emoha.
+P6	Hapariha muthuko, avela mpa mwawe aavyaka mwawiichaalela ophiyerya aphwannye?
+P7	Aphwanya, onnawiichana asinthamwene ni awaacamanano aloca ariki: "Muhakalale ni miyo, koophwanya ekhorowa yaarimenle!"
+P8	Emohamoha tho miyo kinnoooleelani: "Onakhala ohakalala vamiithoni va ankeelo a Muluku vanthowa na mulipa oocheka orukununwe murima."
+
+images:
+
+illustrations/pages/28089.png
+illustrations/pages/28085.png
+illustrations/pages/28088.png
+illustrations/pages/28194.png
+illustrations/pages/28089.png
+illustrations/pages/28083.png
+illustrations/pages/28084.png
+illustrations/pages/28086.png
+illustrations/pages/28090.png
+illustrations/pages/28091.png
+
+translations:
+
+Cinyungwe (Translation)	Bira wakutaika na kobiri yakutaika	id=34185
+Emakhuwa (Translation)	Epwittipwitthi Yoomeela Musurukhu Woorimeela	id=34187
+Portuguese (Translation)	A ovelha perdida e a moeda perdida	id=34184

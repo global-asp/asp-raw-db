@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=35794&d=0&a=1
+id:	35794
+title:	Eet al die kleure!
+author:	Magdaleen  Du Toit
+artist:	Pixabay  Website
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35794.png
+desc:	Vrugte en groente is goed vir ons
+
+page_text:
+
+P1	Het jy geweet: as jy vrugte eet, dan eet jy kleure?
+P2	Watter kleur is 'n appel?@@Eet al die soorte appels.@@Eet groen, rooi, geel en pienk appels!
+P3	Watter kleur is 'n klapper?@@Eet elke soort klapper.@@Eet vars klapper en gedroogde klapper.
+P4	Watter vrugte is oranje?@@Wanneer is 'n lemoen groen?
+P5	'n Waatlemoen is pienk.@@Pienk vrugte is my gunsteling!@@'n Mens eet kleure wanneer jy vrugte eet.
+P6	'n Avokado is 'n vrug met net een groot saad of pit.@@Watter kleur eet jy wanneer jy 'n avokado eet?
+P7	Watter kleure is hierdie soetrissies?@@Alle soorte rissies is vrugte.@@Vrugte verskil van groente.
+P8	Vrugte groei uit blomme aan plante.@@Vrugte het sade.@@Watter vrugte eet jy die graagste?
+
+images:
+
+illustrations/pages/91400224.png
+illustrations/pages/91400221.png
+illustrations/pages/91400220.png
+illustrations/pages/91400229.png
+illustrations/pages/91400231.png
+illustrations/pages/91400227.png
+illustrations/pages/91400223.png
+illustrations/pages/91400235.png
+illustrations/pages/91400219.png
+
+translations:
+
+Amharic (Translation)	ሁሉንም ቀለማት ብሉ!	id=36592
+English (Original)	Eat That Colour	id=32500
+English (Adaptation)	Eat all colours!	id=34288
+Spanish (Translation)	¡A comer todos los colores!	id=36372
+Tshivenḓa (Translation)	Iḽani mivhala yoṱhe!	id=37292
+Xitsonga (Translation)	Dyana mihlovo hinkwayo	id=37117

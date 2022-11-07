@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=34567&d=0&a=1
+id:	34567
+title:	Pieds, mains et tête !
+author:	Diapalante    and Mouhamed  Cisse
+artist:	Brian Wambi, Kathy Arbuckle, Sarah Bouwer, Selina Masego Morulane, Silva Afonso, Vusi Malindi, Vusumuzi Malindi and Wiehan de Jager
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34567.png
+desc:	Découvrir les cinq organes de sens et le merveille du corps humain et du cerveau.
+
+page_text:
+
+P1	J'utilise mes pieds pour courrir, sauter et donner un coup
+P2	J'utilise mes mains pour manger, travailler et pour embrasser.
+P3	Mais la tête est plus importante que les pieds ou les mains.
+P4	La tête a des yeux. Je vois avec mes yeux.
+P5	La tête a le nez. Je sens avec mon nez.
+P6	La tête a les oreilles. J'entends avec mes oreilles.
+P7	La tête a la langue. Je peux goûter sucré et salé.
+P8	La tête a la bouche. Je parle avec ma bouche.
+P9	La tête contrôle tout le corps!
+
+images:
+
+illustrations/pages/13338.png
+illustrations/pages/14908.png
+illustrations/pages/9353.png
+illustrations/pages/1714.png
+illustrations/pages/14998.png
+illustrations/pages/15128.png
+illustrations/pages/16533.png
+illustrations/pages/1500.png
+illustrations/pages/10976.png
+illustrations/pages/16534.png
+
+translations:
+
+Afrikaans (Translation)	Voete, hande en my kop!	id=36608
+English (Adaptation)	Feet, hands and head!	id=16631
+Kabuverdianu (Translation)	Pé, mô, i kabésa!	id=32012
+Lusoga (Translation)	Ebigere,emikono no mutwe!	id=25843
+Pidgin English (Nigeria) (Translation)	Leg, hand and head	id=37826
+Spanish (Translation)	¡Pies, manos y cabeza	id=34713

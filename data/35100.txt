@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=35100&d=0&a=1
+id:	35100
+title:	Mwaha wa munllo
+author:	Elias  Mangulama and Syned  Mthatiwa
+artist:	Rob Owen
+lang:	Ellomwe (Malawi)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35100.png
+desc:	Munllo wallota mwahiwa. (Envenyera mu nibukuni na miyaha levulo wani yowombella nochemiwa 
+
+page_text:
+
+P1	Vano kullelleni mwahaka. @@Kinambelle vang'onovang'ono.
+P2	Kinnazungullilla  muru mvo kakusiwemi niphevo.
+P3	Weyaano na miyano niri va emwanamaye.
+P4	Kikhuruwa yochawo.
+P5	Kinawaliha ohiwu wayo.
+P6	Kokhalla ni mtheko ddinchichi.
+P7	Kiri mmodda wa nibanja ninu.
+P8	Nave muwe otthamallettha mwakitthana uwaninyu. @@Ngipalla okihiya mekha.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Afrikaans (Translation)	Vuur se storie	id=37759
+Chichewa (Translation)	Nkhani ya moto	id=34958
+ChiNambya (Translation)	Lungano lomomoto	id=32900
+Chinkhonde (Translation)	Akapango ka moto	id=34991
+Chitonga (Malawi) (Translation)	Nthanu ya Motu	id=35018
+Citumbuka (Translation)	Nkhani ya moto	id=35044
+Ciyawo (Malawi) (Translation)	Ngani ja moto	id=35067
+English (Adaptation)	Fire's story	id=9296
+isiXhosa (Translation)	Ibali loMlilo	id=37844
+isiZulu (Translation)	Indaba exoxwa nguMlilo	id=37718
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166
+Rukwangali (Translation)	Esanseko lyoMundiro	id=31484
+Sepedi (Translation)	Kanegelo ya Mollo	id=33460
+Sesotho (Lesotho) (Translation)	Pale ea Mollo	id=36344
+Sesotho (South Africa) (Translation)	Pale ya Mollo	id=32768
+Siswati (Translation)	Indzaba yeMlilo	id=33399
+Tshivenḓa (Translation)	Mafhungo  a mulilo	id=34297
+Xitsonga (Translation)	Xitori xa ndzilo	id=34165

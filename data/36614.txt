@@ -1,0 +1,83 @@
+url:	https://africanstorybook.org/reader.php?id=36614&d=0&a=1
+id:	36614
+title:	Ek luister na my lyfie
+author:	Meryke Barkley
+artist:	Angie and  Upesh
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36614.png
+desc:	Het jy al ooit geluister na wat jou lyfie sê?
+
+page_text:
+
+P1	Vandag gaan ek nie skool toe nie.   @Dis vakansie!
+P2	Vandag gaan ek nie televisie kyk nie!
+P3	Mmm... Maar wat gaan ek vandag doen?   @@Vandag gaan ek na my lyfie luister!
+P4	As ek baie stil is, sal ek kan hoor wat my lyfie vir my sê.
+P5	Ja, nou kan ek my asemhaling hoor!  @@In en uit, in en uit.
+P6	Ek kan my asem uitblaas.  @Pheeeeeew!  @En dan sagter. @Pheeeeeew!
+P7	Nou kan ek my hart hoor klop.  @@Doodom, doodom, doodom.
+P8	Ek wonder of ek my hart vinniger en harder kan laat klop? @@Ja, as ek twintig keer op en af spring!
+P9	Kyk! @@My hart klop nou baie vinniger!
+P10	Ek kan my pols voel as ek my vingers op my gewrig sit!!
+P11	Ek kan myself hoor lag. @@Haha, haha, haah, haaa!
+P12	Ek kan myself hoor huil. @@Boohoooo hoooo!
+P13	Ek kan myself hoor hande klap.@@Klap, klap, klap.
+P14	Ek kan my magie hoor grom.@@Grommmm, grommmm, grommmm.
+P15	My magie sê "Gee vir my kos!"
+P16	Mmm... Mamma bak 'n koek in die kombuis. Ek kan dit met my neusie ruik.@@Nou wil ek graag hoor hoe my mondjie lekker aan daardie koek kou!
+
+images:
+
+illustrations/pages/2008.png
+illustrations/pages/2009.png
+illustrations/pages/2010.png
+illustrations/pages/2011.png
+illustrations/pages/2012.png
+illustrations/pages/2013.png
+illustrations/pages/2014.png
+illustrations/pages/2016.png
+illustrations/pages/2017.png
+illustrations/pages/2018.png
+illustrations/pages/2019.png
+illustrations/pages/2020.png
+illustrations/pages/2021.png
+illustrations/pages/2022.png
+illustrations/pages/2023.png
+illustrations/pages/2024.png
+illustrations/pages/2025.png
+
+translations:
+
+Chichewa (Translation)	Kumvetsera thupi langa	id=34962
+Chinkhonde (Translation)	Pilikisha ifyo umbili wangu guyoba	id=34997
+Chitonga (Malawi) (Translation)	Kuvwisiliya liŵavu langu	id=35022
+Citumbuka (Translation)	Kupulikizga thupi lane	id=35048
+Ciyawo (Malawi) (Translation)	Mpikane yacikuti cilu cangu	id=35071
+Ellomwe (Malawi) (Translation)	Wiwellella mwillaka	id=35104
+English (Original)	Listen to my body	id=13202
+English (Adaptation)	Listen to my Body	id=13558
+isiXhosa (Translation)	Mamela umzimba wam	id=14960
+isiZulu (Translation)	Lalela umzimba wami	id=2910
+Khoekhoegowab (Translation)	Ti sorosa ǃgâs xa	id=24662
+Kinyarwanda (Translation)	Umva umubiri wange	id=23762
+Kiswahili (Translation)	Nausikiliza mwili wangu	id=15713
+Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
+Luganda (Translation)	Wuliliza omubiri gwange	id=23237
+Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
+Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
+Lusoga (Translation)	wulirisa omubiri gwange	id=30352
+Maa (Translation)	Ainining Osesen Lai	id=2927
+Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
+Oshikwanyama (Translation)	Handi pwilikine olutu lange eshi tali ti	id=24134
+Oshindonga (Translation)	Pulakena kolutu lwandje	id=23899
+Otjiherero (Translation)	Puratene ko rutu randje	id=24174
+Rukwangali (Translation)	Purakena korutu rwange	id=31492
+Sepedi (Translation)	Theeletša mmele wa ka	id=33462
+Sesotho (Lesotho) (Translation)	Mamela 'mele oa ka	id=36350
+Sesotho (South Africa) (Translation)	Mamela mmele wa ka	id=33373
+Siswati (Translation)	Kulalela umtimba wami	id=33401
+Spanish (Translation)	Escuchando mi cuerpo	id=34754
+Tshivenḓa (Translation)	Muvhili wanga u amba	id=34298
+Xitsonga (Translation)	Yingisela miri wa mina	id=34166

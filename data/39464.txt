@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=39464&d=0&a=1
+id:	39464
+title:	ቦቢ ወደቀ
+author:	Mezemir Girma
+artist:	Martin  Letsoalo
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39464.png
+desc:	ቦቢ ጥንቸል ሲያባርር ትልቅ ጉድጓድ ውስጥ ወደቀ። ይህ ቀላል ታሪክ በአጫጭር ዓረፍተ ነገሮች የተዋቀረ ነው። ይህ መጽሐፍ እ.ኤ. አ. በ2022 የአፍሪካ የተረት መጽሐፍ መርሐግብር፣ ብሪቲሽ ካውንስል (ደቡብ አፍሪካ) እና የመሠረታዊ ትምህርት ክፍልን ያካተተ የትብብር ፕሮጀክት አካል ሆኖ ተዘጋጀ ነው፡፡
+
+page_text:
+
+P1	ይህ የኔ ውሻ ነው። ስሙ ቦቢ ነው።@@አዳኝ ውሻ ነው።
+P2	ቦቢ ትናንሽ እንስሳትን ማደን ይወዳል.@@በረዥም ሣር ውስጥ መጫወትም ይወዳል።
+P3	አንድ ቅዳሜ ቦቢ ለአደን ብቻውን ወጣ።@@አንዲት ጥንቸል በድንጋይ ላይ አየ፡፡@@ቦቢ መጎምዠት ጀመረ።
+P4	ጥንቸሏ ቦቢ ሲመለከታት አየችው።@@ጥንቸሏ በጣም በፍጥነት ሸሸች።
+P5	ቦቢ ጥንቸሏን ተከትሎ ሮጠ።@@ጥንቸሏን ስለመብላት ብቻ ያስብ ጀመር፡፡@@ከፊት ለፊቱ የነበረውን ትልቅ ጉድጓድ አላየውም፡፡
+P6	ቦቢ ወደ ጥልቁ ጉድጓድ ወደቀ።@@ጥንቸሏ በቀዳዳው ዙሪያ ደጋግማ ትሮጥ ጀመር፡፡
+P7	እንደ እድል ሆኖ፣ ሁለት ልጆች ቦቢን ሲጮህ ሰሙት፣ "ዉፍ! ዋፍ! ሱፍ!"@@እሱን ለመርዳትም ወደ ትልቁ ጉድጓድ ሮጡ።
+P8	"በጣም ከባድ ነው!" አሉ ልጆቹ!@@ቢሆንም ግን ቦቢን ከጉድጓዱ ውስጥ ማውጣት ቻሉ።@@ቦኒ በጣም ደስተኛ ሆነ!
+
+images:
+
+illustrations/pages/6012001056.png
+illustrations/pages/6012001056.png
+illustrations/pages/6012001057.png
+illustrations/pages/6012001058.png
+illustrations/pages/6012001059.png
+illustrations/pages/6012001060.png
+illustrations/pages/6012001061.png
+illustrations/pages/6012001062.png
+illustrations/pages/6012001063.png
+
+translations:
+
+English (Original)	Bobby Falls	id=38843
+Sepedi (Translation)	Bobby e a wela	id=39333

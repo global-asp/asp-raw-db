@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=34797&d=0&a=1
+id:	34797
+title:	Kpatema vea Iwa man Iji
+author:	Terkule Aorabee
+artist:	Elke and René Leisink
+lang:	Tiv
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34797.png
+desc:	Kpatema vea Iwa nenge a iji i kwagh. Fa kwagh u vea er a min ga.
+
+page_text:
+
+P1	Ka Kpatema je ne.@@Ka Iwa je ne.
+P2	Kpatema vea Iwa mba zenden.@@Mba zenden ken wan-gar ve u kiriki.
+P3	Ve nenge a iji.@@Iji ne ngi ken toho.@@Iji ne ngi mtswen ken toho.@@Iji ne ngi i mtswen je!
+P4	Kpatema vea Iwa za hen  nyon.@@Ve pine nyon la er, "Iji ne ka i you shinii?"
+P5	Kpa nyon la kaa er, "Ei, iji la ka i yam ga. Pine nen Ivungu. Alagh ga tsô a lu iji na."
+P6	Kpatema vea Iwa za hen Ivungu.@@Ve pine Ivungu er, "Iji ne ka i you shinii?"
+P7	Kpa Ivungu kaa er, "Ei, iji la ka i yam ga. Pine nen  Ikpande. Alagh ga tsô a lu iji na."
+P8	Kpatema vea Iwa za hen Ikpande.@@Ve pine Ikpande er, "Iji ne ka i you shinii?"
+P9	Ikpande kaa er, "Ei, iji la ka i yam ga. Pine nen ikyeghdam i ihar la. Alagh ga tsô a lu iji ve."
+P10	Kpatema vea Iwa za hen ikyeghdam i ihar la.@@Ve pine ikyeghdam i ihar la er, "Iji ne ka i yen shinii?"
+P11	Kpa ikyeghdam i ihar la kaa er, "Ei, iji la ka i yase ga."@@Tsô iji la hembe.
+P12	Wan u Avange ngu ken iji la.@@An wan-vange.
+P13	Wan-vange  ngu pinen er, "Ngôm ngu hana? @Terem ngu hana?"@@Ngôm man terem mba hana?@@Kpatema vea Iwa za a wan-vange hen ngô na man ter na.
+P14	Lu dedoo Kpatema.@@Lu dedoo Iwa.@@Lu dedoo wan-vange.
+
+images:
+
+illustrations/pages/18643.png
+illustrations/pages/18644.png
+illustrations/pages/18645.png
+illustrations/pages/18646.png
+illustrations/pages/18647.png
+illustrations/pages/18648.png
+illustrations/pages/18649.png
+illustrations/pages/18650.png
+illustrations/pages/18651.png
+illustrations/pages/18652.png
+illustrations/pages/18653.png
+illustrations/pages/18654.png
+illustrations/pages/18655.png
+illustrations/pages/18656.png
+illustrations/pages/18657.png
+illustrations/pages/18782.png
+
+translations:
+
+Anii (Adaptation)	Ganyaʊ, asna na nsǝla	id=36552
+Babanki (Translation)	Bùshi nə̀ Bʉ nə̀ əwum	id=35119
+ChiTonga (Translation)	Kaaze, Mubwa AJi	id=20770
+CiNyanja (Translation)	Cona, Galu na zila	id=20793
+English (Original)	Cat and Dog and the egg	id=20150
+French (Adaptation)	Le chat, le chien et l'œuf	id=34873
+isiNdebele (Translation)	UKatsu noNja neqanda	id=35243
+Kinyarwanda (Translation)	Injangwe, Imbwa n' Igi	id=31694
+Kiswahili (Translation)	Paka na Mbwa na Yai	id=33216
+Lulamoogi (Translation)	Opuusi n'ombwa n'eigi	id=25360
+Lusoga (Translation)	Puusi, Embwa neigi	id=26358
+Ng’aturkana (Translation)	Ipaka, Nying'ok ka Abeye	id=33424
+Persian (Afghanistan) (Translation)	سگ و گربه و تخم	id=33604
+SiLozi (Translation)	Kaze, Nja  ni Lii	id=20924
+Siswati (Translation)	Likati nenja kanye nelicandza	id=34485

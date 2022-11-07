@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=34811&d=0&a=1
+id:	34811
+title:	Ológbò mi ṣa pamó
+author:	Omolola  Oladipupo and Yetunde  Daniel
+artist:	Bronwen Heath and Ingrid Schechter
+lang:	Yoruba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34811.png
+desc:	Ìwé Itàǹ onírúrú àwò ìplele kejì Ológbò mi dà? Tó dára fún ìbéèrè àti ìdáhùn
+
+page_text:
+
+P1	Ológbò mi dà?@@Mi o ri ológbò mi.@@Mi o ri ológbò mi níbi kankan.
+P2	Ológbò mi dà?@  @Sé ó wa lábé ibùsùn ni?@  @Rárá, o nsáré jade ninu ìyará.
+P3	Ológbò mi dà?@  @Sé ó wa lórí àpótí ikonkansi?@  @Rárá, ó wa ni abé pepe.
+P4	Ológbò mi dà?@  @Se o wa lèhín àga?@  @Rara, o wa nita lágbàlá.
+P5	Ológbò mi dà?@  @Se o wa legbe agbòn ìkólèsí?@  @Rara, o fò jade lati ojú fèrèsé.
+P6	Ológbò mi dà?@  @Se o wa ninu apèrè?@  @Rara, o wa ninu àpótí.
+P7	Ológbò mi dà?@  @Se o wa nita lágbàlá ni?@  @Rara, o wa léhìn aso ìkélé.
+P8	Ológbò mi dà?@  @Ológbò mi ree.@  @Ó sá pamó sínú àpótí ikonkansi!
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+Afemai (Translation)	Ólogbó mę la khé	id=34891
+English (Original)	My cat is hiding	id=32340
+Hausa (Nigeria) (Translation)	Mage na ya na  boye	id=35206
+Igala (Translation)	órbala mi márja	id=34834
+Igbo (Translation)	Pusi m na ezo-ezo	id=34828
+KiGiryama (Translation)	P'aka wangu anadzifitsa	id=33478
+Ng’aturkana (Translation)	Edukit ipaka kang	id=33420
+Nupe (Translation)	Dângi mi'a so	id=34858
+Pidgin English (Nigeria) (Translation)	My cat de hide	id=37822
+Urhobo (Translation)	Onogbo mẹ sioma nu	id=35201
+Yoruba (Translation)	Ológbò mi ṣa pamó	id=34895

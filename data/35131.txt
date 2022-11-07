@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=35131&d=0&a=1
+id:	35131
+title:	Ek kan
+author:	Yone du Plessis
+artist:	Mlungisi Dlamini
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/35131.png
+desc:	Daar is baie dinge wat ek met my lyf kan doen
+
+page_text:
+
+P1	Ek kan hardloop.
+P2	Ek kan spring.
+P3	Ek kan dans.
+P4	Ek kan swem.
+P5	Ek kan touspring.
+P6	Ek kan skop.
+P7	Ek kan speel.
+P8	Ek kan net nie vlieg nie.
+
+images:
+
+illustrations/pages/28703.png
+illustrations/pages/28704.png
+illustrations/pages/28705.png
+illustrations/pages/28706.png
+illustrations/pages/28707.png
+illustrations/pages/28708.png
+illustrations/pages/28709.png
+illustrations/pages/28710.png
+illustrations/pages/28711.png
+
+translations:
+
+Afrikaans (Translation)	My lyfie	id=36609
+English (Original)	My body	id=32608
+French (Adaptation)	Mon corps	id=34107
+isiZulu (Translation)	Umzimba wami	id=32725
+Kinyarwanda (Translation)	Umubiri wange	id=32609

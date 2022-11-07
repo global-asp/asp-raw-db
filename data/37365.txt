@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=37365&d=0&a=1
+id:	37365
+title:	Picture story 16
+author:	Name Of Writer
+artist:	Rob Owen
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37365.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/13417.png
+illustrations/pages/13415.png
+illustrations/pages/13417.png
+illustrations/pages/13419.png
+illustrations/pages/13421.png
+illustrations/pages/13422.png
+illustrations/pages/13423.png
+illustrations/pages/13424.png
+illustrations/pages/13416.png
+
+translations:
+
+Afaan Oromo (Translation)	Gogaa Fattee	id=20424
+Amharic (Translation)	የእንቁራሪት ቆዳ	id=20492
+Anii (Adaptation)	Ɖaa ga sara naa ŋkoruma n ɖa ma	id=36566
+English (Original)	Mod the toad	id=13546
+English (Adaptation)	How the toad got its skin	id=19766
+French (Translation)	Comment le crapaud a acquis sa peau	id=33821
+isiZulu (Translation)	USele, iselesele	id=20669
+Kiswahili (Translation)	Jinsi chura alivyopata ngozi yake	id=20439
+Lulamoogi (Translation)	Ekikere kyasunire kitya olususu lwakyo	id=26076
+Lusoga (Translation)	Engeri eikere yerifuna oluwu	id=26026
+Ng’aturkana (Translation)	Eger Lo Aanyunia Ikidodok Elowu Long'arab	id=20410
+Portuguese (Translation)	Mod, a Sapa	id=17037

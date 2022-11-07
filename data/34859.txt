@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34859&d=0&a=1
+id:	34859
+title:	Nᾱἠpᾱ bệ Ὲlớgỉ
+author:	Fatima Ladan Yusuf and Mohammed Nma Baba
+artist:	Isaac Okwir
+lang:	Nupe
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34859.png
+desc:	Nᾱἠpᾱ bệ Ὲlớgỉ lᾱ kửtỉ ebo ᾱ zhệ eyᾱ. Leopard and Antelope take an oath to be friends. But their friendship is doomed from the start. (This story was originally narrated by Magabi Enyew Gessesse. The English version was written by Elizabeth Laird.).
+
+page_text:
+
+P1	Kᾱmỉndớndo Nᾱἠpᾱ'a jhin'ửn fệ wᾱ gᾱn wᾱn Ὲlớgỉ.
+P2	Ὲlớgỉ mᾱ gᾱ jhiun fe la bίcί.
+P3	Bệ efoệ'nί Nᾱἠpᾱ ci bệ'a Ὲlớgỉ yi, "Bệ ilịzhe eya dozhi, ebona, mi nyan'egi ena wo'enya'e gi nᾱ, wun ludan ᾱde ena la yi'ᾱ na dozhi vo nᾱ."
+P4	Elogi ci'a yadᾱ jin Nanpᾱ ci gan, "Ibe ilᾱ kutiylᾱ gan iya zhe eyᾱ, zᾱna ma gᾱ bi'ᾱ kuti gbintu na, egi'u gᾱ tsu."
+P5	Aci'ᾱ kuti lᾱ gan anyᾱ zhe eyᾱ. Na eye be shin na. @@Elogi leleci eshin cigban'o Nanpᾱ ci le ta gwᾱlᾱgi zhi'o.
+P6	Elogi ci fe lᾱ gbo. @@Nanpᾱ ma fe wᾱwᾱyᾱ.
+P7	Nanpᾱ ci fe de kodari na wungᾱ Elogi wangi na. @@Unci fe gan dan yangban'u bo, "Mijin damuwᾱ be kuti na yi lᾱ na nyᾱ. Dama mi de egi ndo'a!"
+P8	Nanpᾱ ce fu cin cigban'o na wunga. @@Elogi wᾱngi na, amᾱ kᾱfi wan tun kin na wunce kpele ta gwᾱlᾱgi cigban'o.
+P9	Elogi de le Nanpᾱ ye'a kpele wunfe wᾱdo, wunce fu nakin, wunci cᾱ egi nyinma, "Beh! Beh!"
+P10	Nanpᾱ fe yᾱ Elogi yin tangwᾱ. "Eyᾱ, bo mi, wapᾱ gan yi'ᾱ kuti lᾱ gan zai gᾱ kuti gbintu mini yibo na, egi'u ga tsu."
+P11	Elogi fey u ezhe gan, "Me leye gan yanmanci we zhi gᾱ lᾱ kuti wunci'o. Wun ludan, wagᾱ wa gbᾱta'u gbᾱta'u gbᾱta'u gbᾱni'o."
+
+images:
+
+illustrations/pages/17309.png
+illustrations/pages/17306.png
+illustrations/pages/17307.png
+illustrations/pages/17309.png
+illustrations/pages/17310.png
+illustrations/pages/17311.png
+illustrations/pages/17312.png
+illustrations/pages/17313.png
+illustrations/pages/17314.png
+illustrations/pages/17315.png
+illustrations/pages/17316.png
+illustrations/pages/17317.png
+
+translations:
+
+Amharic (Translation)	ነብርና ሚዳቋ	id=17660
+Asante Twi (Translation)	Etwie ne Adowa	id=34863
+English (Original)	Leopard and Antelope	id=17659
+Fulfulde (Adaptation)	Cirgu e Lelwa	id=40200
+Fulfulde Mbororoore (Translation)	Cirgu e Lelwa	id=32096
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=22072
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=34819
+Kiswahili (Translation)	Chui na Swara	id=22084
+Urhobo (Translation)	Ẹdjẹnẹkpo v' Akora	id=35199
+Yoruba (Translation)	Amọtékun áti Adááko	id=34894

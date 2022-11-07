@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=35657&d=0&a=1
+id:	35657
+title:	Yifa ya Nawe
+author:	Gerhalda Ndumba
+artist:	Melany Pietersen and Rob Owen
+lang:	Thimbukushu
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35657.png
+desc:	When my mother died
+
+page_text:
+
+P1	Nakarire mudira tughonda kwoko notune
+P2	Aye gha kuturiremo eshi nikure  mughundjewa ndjewa no natanarire.
+P3	Kehe runguro nga nirangekanga  paghudidi.
+P4	Nga kondjanga kehe mathiku thiku eshi nipinduke no ruvedhe.
+P5	Ghanitwarire kuthitanda tukaghure.
+P6	Gha nitawedhire nitorore makuha no yitere yange.
+P7	Nga nighororanga kehepano ngeshi nakwira.
+P8	Mbadi mbo nivurama ruhakitho rwendi   muyipara yange.
+
+images:
+
+illustrations/pages/17356.png
+illustrations/pages/26035.png
+illustrations/pages/26039.png
+illustrations/pages/9501.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9492.png
+illustrations/pages/26037.png
+
+translations:
+
+English (Original)	Losing my mother	id=24580
+English (Adaptation)	Losing my mother	id=32049
+Kinyarwanda (Translation)	Nabuze mama	id=32146
+Lusoga (Translation)	Okufiirwa maama ghange	id=29799

@@ -1,0 +1,77 @@
+url:	https://africanstorybook.org/reader.php?id=35004&d=0&a=1
+id:	35004
+title:	Kanandi fiyo
+author:	Jane  Mulenga and Mary  Ng'ambi
+artist:	Sandy Lightly
+lang:	Chinkhonde
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/35004.png
+desc:	Lebo akulile imyenda yake yosa yitomufwana kangi nosi finandi fiyo ku mwake. Akwisapofibombelaci?
+
+page_text:
+
+P1	"Mama," Lebo ikukolela. "Isa ukete. Imyenda iyi minandi fiyo kumwangu." @@"Saga nkhete," mama oyoba.
+P2	"Keta isiketi yangu. Yinandi fiyo," Lebo oyoba. @@"Momumo, yinandi mama oyowa. "Nomsa ankhega isiketi yako."
+P3	"Keta imyenda yangu ya jini. Minandi fiyo," Lebo oyoba. @@"Momumo, finandi naloli," mama oyoba. "Nomsa ankhega myenda yako ya jini."
+P4	"Keta tisheti yangu. Yinandi fiyo," Lebo oyoba. @@"Momumo yinandi," mama oyoba. "Nomsa ankhega tisheti yako."
+P5	Keta juzi yangu. Yinandi fiyo," Lebo oyoba. @@"Momumo yinandi," mama oyoba. "Nomsa ankhega juzi yako."
+P6	Keta ikhoti yangu yavula. Yinandi fiyo," Lebo oyoba. @@"Momumo yinandi," mama oyoba. "Nomsa ankhega khoti yako yavula."
+P7	Keta masokosi gangu. Ganandi fiyo," Lebo oyoba. @@"Momumo ganandi," mama oyoba. "Nomsa ankhega masokosi gako."
+P8	Keta sapato shangu. Sinandi fiyo," Lebo oyoba. @@"Momumo sinandi," mama oyoba. "Nomsa ankhega sapato shako."
+P9	"Nosi uli ni myenda mingi naloli," Lebo oyoba. @@"We haga, "Nomsa oyoba, "Myenda iyi yosa minywamu kumwangu!"
+
+images:
+
+illustrations/pages/2282.png
+illustrations/pages/2283.png
+illustrations/pages/2284.png
+illustrations/pages/2285.png
+illustrations/pages/2286.png
+illustrations/pages/2287.png
+illustrations/pages/2288.png
+illustrations/pages/2289.png
+illustrations/pages/2290.png
+illustrations/pages/2291.png
+
+translations:
+
+Afrikaans (Translation)	Te klein	id=11428
+Anii (Adaptation)	Leela 'ayɔkɔkaraka	id=39893
+Chichewa (Translation)	Zazing'ono kwambiri	id=34968
+ChiNambya (Translation)	Katukutuku kasa	id=32899
+ChiShona (Translation)	Idiki	id=31761
+Chitonga (Malawi) (Translation)	Ntchimana ukongwa	id=35028
+Citumbuka (Translation)	Vicoko comene	id=35054
+Ciyawo (Malawi) (Translation)	Unandi mnope	id=35078
+Ellomwe (Malawi) (Translation)	Eng'onong'ono	id=35110
+English (Original)	Too small	id=2269
+French (Translation)	Trop Petits	id=10942
+isiNdebele (Translation)	Zincani khulu	id=13042
+isiXhosa (Translation)	Zincinci	id=2508
+isiZulu (Translation)	Zincane izimpahla zami	id=2504
+Khoekhoegowab (Translation)	Kaise ǂkhari	id=31763
+Kiswahili (Translation)	Ndogo sana, Kubwa sana	id=7877
+Luganda (Translation)	Ntono nnyo	id=8708
+Lugbarati (Official) (Translation)	Gǎtʉ̀	id=8790
+Lumasaaba (Translation)	Biboombi naabi	id=8709
+Lunyole (Translation)	Too Small	id=8398
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21093
+Lunyole (Translation)	Engoye Eji Nyiga 	id=21100
+Lusoga (Translation)	Ntonioli	id=20904
+Maa (Translation)	Éíkití Olêng	id=7879
+Ng’aturkana (Translation)	Edit Noi	id=8446
+Oluwanga (Translation)	Eshititi Muno	id=8297
+Oshikwanyama (Translation)	Oikutu inini	id=31568
+Oshindonga (Translation)	Okashona unene	id=31504
+Otjiherero (Translation)	Okatiti tjinene	id=31513
+Portuguese (Translation)	Muito Pequeno	id=19217
+Rukwangali (Translation)	Musesugona	id=31482
+Rutooro (Translation)	Kataito	id=14944
+Sepedi (Translation)	Ke tše nnyane	id=2509
+Sesotho (Lesotho) (Translation)	Li nyane haholo	id=36355
+Sesotho (South Africa) (Translation)	E nyanyane haholo	id=32211
+Setswana (Translation)	E nnye thata	id=31775
+Siswati (Translation)	Tincane kakhulu	id=33404
+Tshivenḓa (Translation)	Zwo ṱukufhalesa	id=31831
+Xitsonga (Translation)	I switsongo ngopfu	id=37748

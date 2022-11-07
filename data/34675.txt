@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34675&d=0&a=1
+id:	34675
+title:	Ngwana Monang
+author:	Peter Lebuso Boase and Yolanda Buqwini
+artist:	Peter Lebuso Boase
+lang:	Setswana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34675.png
+desc:	Ngwana Monang tlogetswe a le nosi mme a tswela kwa ntle. O ne a ithaya a re batho ba a mo rata fa ba batla go mmolaya.
+
+page_text:
+
+P1	Bogologolo tala diphologolo tsotlhe di ne di bua. @@Mme Monang le Ngwana Monang ba ne ba nna mo ntlong.
+P2	Mme Monang o ne a tlhola a tlogela Ngwana Monang mo ntlong fa ene a ya go batla dijo ntlong.
+P3	Ka letsatsi lengwe, Ngwana Monang a re, "Nte ke ye kwa ntle ke ye go bona gore go diragala eng."
+P4	Mme Monang a boa mme a fitlhela ntlo e le lolea.
+P5	A fitlhela ngwana a se yo. @@A tsielega, a tshoga, a tlhakana tlhogo mme a loga leano la go ya go mmatla.
+P6	Mme pele Mme Monang a fofela kwa ntle go ya go mmatla, Ngwana Monang a fitlha fa gae a fofa.@@A re, "Mme! Mme! Ke ne ke ile kwa ntle mme ke bone batho ba bantsi mme ba ne ba intumeletse fa ke feta."
+P7	"A o a re ba go itumeletse!"  @@"Eya Mme, ba ne ba nkopela legofi ka dinako tsotlhe fa ke feta."
+P8	"Nnyaa ngwanaka! Batho ga ba utlwane le menang. Ba ne ba batla go go bolaya. @@Fa e le motho o mo tshabele setlhareng sa mmitlwa."
+
+images:
+
+illustrations/pages/93740269.png
+illustrations/pages/93740267.png
+illustrations/pages/93740268.png
+illustrations/pages/93740269.png
+illustrations/pages/93740270.png
+illustrations/pages/93740271.png
+illustrations/pages/93740275.png
+illustrations/pages/93740273.png
+illustrations/pages/93740274.png
+
+translations:
+
+English (Original)	Baby Mosquito	id=34542
+French (Translation)	Le Bébé Moustique	id=40171
+Pidgin English (Nigeria) (Translation)	Mosquito Pikin	id=37837
+Spanish (Translation)	Bebé Mosquito	id=36419

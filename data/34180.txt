@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=34180&d=0&a=1
+id:	34180
+title:	Apwiya ti Mukukhula Aka
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Emakhuwa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34180.png
+desc:	Uma oração da biblia em Salmo 23. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Apwiya ti mukukhula aka; khiivo enrowa okithowaka.
+P2	Awo annikihoola mapuro ari munyepu.
+P3	Annikihoola mapuro ari maasi oowuuraamela.
+P4	Awo annivaha ikuru okumi aka. Mwaha wa nsina naya annikihoola iphiro sa exariya.
+P5	Hata miyo kiviraka mapuro oowoopiha okhwa,
+P6	nkinoova etthu yootakhala, okhala wiira nyuwo muri ni miyo.
+P7	Owerya wanyu ni ekopo anyu sinnikikurunuxa murima.
+P8	Nyuwo munnikilokiherya yoolya ohoolo wa awanani aka.
+P9	Munnikittikitthela makhura mmuru, nave aasareya mukahini mwaka enayeeheya.
+P10	Veekeekhayi sooreera ni oreera murima sinookihoola mahiku ootheene a ekumi aka.
+P11	Nave kinookhala mpaani mwa Apwiya mahiku manci-ene.
+
+images:
+
+illustrations/pages/28055.png
+illustrations/pages/28055.png
+illustrations/pages/28052.png
+illustrations/pages/28058.png
+illustrations/pages/28049.png
+illustrations/pages/28051.png
+illustrations/pages/28053.png
+illustrations/pages/28057.png
+illustrations/pages/28056.png
+illustrations/pages/28054.png
+illustrations/pages/28059.png
+illustrations/pages/28060.png
+
+translations:
+
+Elomwe (Translation)	Apwiya ti Mukukhula Aka	id=34179
+English (Original)	The Lord is My Shepherd	id=32352
+Portuguese (Translation)	O Senhor é o meu pastor	id=34181

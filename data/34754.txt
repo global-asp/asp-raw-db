@@ -1,0 +1,83 @@
+url:	https://africanstorybook.org/reader.php?id=34754&d=0&a=1
+id:	34754
+title:	Escuchando mi cuerpo
+author:	Aprende Leyendo
+artist:	Angie and  Upesh
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34754.png
+desc:	¿Alguna vez has escuchado lo que tu cuerpo te dice?
+
+page_text:
+
+P1	Hoy no tengo que ir al colegio.@@¡Empezaron las vacaciones!
+P2	Hoy no voy a ver televisión.@@No hay electricidad de todos modos.
+P3	¿Qué voy a hacer?@@¡Hoy voy a escuchar a mi cuerpo!
+P4	Primero, tengo que estar muy callado.@@Para que pueda escuchar mi propio cuerpo.
+P5	Sí, ahora puedo escuchar mi respiración.@@Inhalo y Exhalo.
+P6	Y puedo hacer que mi aliento sea más ruidoso.  ¡Sssssssssssss!@@Y más suave Mmmmmmm.
+P7	¡Ahora puedo escuchar los latidos de mi corazón!@@Doodom, doodoom, dooo dooom.
+P8	¿Puedo hacer que mi corazón vaya más rápido o más fuerte?@@Sí, saltando arriba y abajo veinte veces.
+P9	Ahora escucha, mi corazón late más rápido.
+P10	Si pongo mis dedos en mi muñeca, entonces ¡Puedo sentir mi pulso!
+P11	Me oigo reír.@@¡Ja ja ja ja ja ja ja!
+P12	Me oigo llorar.@@¡Bua bua bua!
+P13	Puedo escucharme aplaudir.@@Clap, clap, clap.
+P14	¡Puedo escuchar el ruido de mi estómago!@@¡Grrrrrrr Brrrrrrr!
+P15	Mi estómago dice: "¡Aliméntame!"
+P16	Mi nariz puede oler pasteles horneados en la cocina de mi madre.@@¡Y ahora quiero escuchar mis mandíbulas masticando esos pasteles!
+
+images:
+
+illustrations/pages/2008.png
+illustrations/pages/2009.png
+illustrations/pages/2010.png
+illustrations/pages/2011.png
+illustrations/pages/2012.png
+illustrations/pages/2013.png
+illustrations/pages/2014.png
+illustrations/pages/2016.png
+illustrations/pages/2017.png
+illustrations/pages/2018.png
+illustrations/pages/2019.png
+illustrations/pages/2020.png
+illustrations/pages/2021.png
+illustrations/pages/2022.png
+illustrations/pages/2023.png
+illustrations/pages/2024.png
+illustrations/pages/2025.png
+
+translations:
+
+Afrikaans (Translation)	Ek luister na my lyfie	id=36614
+Chichewa (Translation)	Kumvetsera thupi langa	id=34962
+Chinkhonde (Translation)	Pilikisha ifyo umbili wangu guyoba	id=34997
+Chitonga (Malawi) (Translation)	Kuvwisiliya liŵavu langu	id=35022
+Citumbuka (Translation)	Kupulikizga thupi lane	id=35048
+Ciyawo (Malawi) (Translation)	Mpikane yacikuti cilu cangu	id=35071
+Ellomwe (Malawi) (Translation)	Wiwellella mwillaka	id=35104
+English (Original)	Listen to my body	id=13202
+English (Adaptation)	Listen to my Body	id=13558
+isiXhosa (Translation)	Mamela umzimba wam	id=14960
+isiZulu (Translation)	Lalela umzimba wami	id=2910
+Khoekhoegowab (Translation)	Ti sorosa ǃgâs xa	id=24662
+Kinyarwanda (Translation)	Umva umubiri wange	id=23762
+Kiswahili (Translation)	Nausikiliza mwili wangu	id=15713
+Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
+Luganda (Translation)	Wuliliza omubiri gwange	id=23237
+Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
+Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
+Lusoga (Translation)	wulirisa omubiri gwange	id=30352
+Maa (Translation)	Ainining Osesen Lai	id=2927
+Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
+Oshikwanyama (Translation)	Handi pwilikine olutu lange eshi tali ti	id=24134
+Oshindonga (Translation)	Pulakena kolutu lwandje	id=23899
+Otjiherero (Translation)	Puratene ko rutu randje	id=24174
+Rukwangali (Translation)	Purakena korutu rwange	id=31492
+Sepedi (Translation)	Theeletša mmele wa ka	id=33462
+Sesotho (Lesotho) (Translation)	Mamela 'mele oa ka	id=36350
+Sesotho (South Africa) (Translation)	Mamela mmele wa ka	id=33373
+Siswati (Translation)	Kulalela umtimba wami	id=33401
+Tshivenḓa (Translation)	Muvhili wanga u amba	id=34298
+Xitsonga (Translation)	Yingisela miri wa mina	id=34166

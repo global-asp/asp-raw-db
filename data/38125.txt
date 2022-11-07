@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=38125&d=0&a=1
+id:	38125
+title:	My storybook
+author:	Lps Peacock
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38125.png
+desc:	A little girl is learning to read she will pick a book called chicken
+
+page_text:
+
+P1	I want to read a book. What should I read?
+P2	"I Am a crazy chick!" said the chick. "Eeek" said the bunny
+P3	Uh oh
+P4	Wow oh no scary chick
+P5	Aaaaaaah eeek said all the animals
+P6	But the cow was very wise so he told them it was ok
+P7	That was a great book I hope you learned to read
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/1496.png
+illustrations/pages/7597.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/7601.png
+illustrations/pages/7605.png
+illustrations/pages/1496.png
+
+translations:
+

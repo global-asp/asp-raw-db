@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=35741&d=0&a=1
+id:	35741
+title:	¡Oh! Fútbol!
+author:	Aprende Leyendo
+artist:	Onesmus Kakungi
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35741.png
+desc:	Un niño es enviado por su abuela a comprar algunos productos en la tienda. Él se va con su mejor amigo y termina jugando fútbol con otros niños. ¿Traerá lo que le enviaron a comprar?
+
+page_text:
+
+P1	Me gusta jugar con mi amigo Mario.
+P2	Somo buenos amigos. Cuando cualquiera de nosotros es enviado a algún lado, siempre vamos juntos.
+P3	Un día, mi abuela me envió a la tienda a comprar sal y aceite de cocina. Fui con Mario.
+P4	En el camino, vimos a nuestro amigos jugando fútbol.
+P5	¡Oh! ¡fútbol! dije. Yo también quería jugar.
+P6	Le dije a Mario: "Vamos a preguntarles si podemos jugar con ellos. Me gusta mucho jugar fútbol."
+P7	Mario respondió: "Vamos primero a la tienda, y luego venimos a jugar".
+P8	Pero yo respondí: "¡Juguemos primero! Mi abuela no nos permitirá regresar."
+P9	Fuimos con nuestros amigos a jugar. Yo era el portero. Los postes del arco estaban hechos con dos piedras grandes.
+P10	Trabajé duro para atrapar el balón. Mis amigos no fueron capaces de marcar ningún gol.
+P11	Jugamos hasta que el campo se llenó de arena.
+P12	Después fuimos a la tienda. ¡El dinero de la abuela había desaparecido! Comencé a llorar. Mario gritó: "Deja de llorar. Tu querías jugar primero".
+P13	Volvimos a casa sin sal ni aceite de cocina. Estábamos muy sucios y preocupados.
+P14	La abuela estaba molesta cuando llegamos a la casa. La primera pregunta que nos hizo fue: "¿Dónde estuvieron todo este tiempo?"
+P15	Tuvimos que decirle la verdad. Ella nos perdonó pero nos advirtió: "Nunca más vayan a jugar sin permiso".
+P16	Fuimos a darle de comer a los patos. Después, nos limpiamos.
+
+images:
+
+illustrations/pages/12881.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/12873.png
+illustrations/pages/12874.png
+illustrations/pages/12876.png
+illustrations/pages/12877.png
+illustrations/pages/12878.png
+illustrations/pages/12879.png
+illustrations/pages/12880.png
+illustrations/pages/12881.png
+illustrations/pages/12882.png
+illustrations/pages/12883.png
+illustrations/pages/12884.png
+illustrations/pages/12885.png
+illustrations/pages/12886.png
+illustrations/pages/12887.png
+
+translations:
+
+ChiNambya (Translation)	Ah! Unzano webhola!	id=39995
+English (Translation)	Ah! Football!	id=12926
+Fulfulde Mbororoore (Translation)	Fijirde Bol!	id=32095
+Hausa (Nigeria) (Translation)	Kai! Wasan Ƙwallo!	id=20863
+Kiswahili (Original)	Ah! Mpira!	id=12925
+Lusoga (Translation)	Aah! Omupiira!	id=20672
+Ng’aturkana (Translation)	Woe! Epira!	id=13212
+Otuho (Translation)	Ah! Akura!	id=39044

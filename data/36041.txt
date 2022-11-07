@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=36041&d=0&a=1
+id:	36041
+title:	Let's make lemon juice
+author:	African Storybook and Nomsa  Mdlalose
+artist:	Niloufer  Wadia
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36041.png
+desc:	The story introduces the idea of fractions with a recipe for making lemon juice (lemonade). This storybook was inspired byLets make lime juice
+
+page_text:
+
+P1	Here is a jug of lemon juice.@@It is cold and sweet.@@There are 8 of us. @How can we share the juice so that each one gets the same amount?
+P2	We can measure 8 equal parts on the jug.@@We can use a piece of string to measure.@@Cut the string to the same length as the height of the juice in the jug.
+P3	Fold the string into 8 equal parts.@@Mark the equal parts on the jug.@@Then we are ready to pour 8 equal amounts of juice.
+P4	We share the lemon juice.@@When it is finished, we want to drink more!@@How do you make lemon juice?
+P5	Lemon juice@@water – 7 cups@sugar – 2 cups@juice from lemons – 1 cup@@You will need to squeeze about 7 ripe lemons.@@Use a big jug or 2 litre bottle to mix ingredients.
+P6	Method@@1. Mix sugar and lemon juice with 2 cups of cold water. @2. Stir the jug, or shake the bottle, until sugar is dissolved.@3. Mix in 5 cups of cold water.
+P7	Here is another way to write the recipe:@@1/10 juice of lemon@2/10 sugar@7/10 water@@The pure lemon juice is one part of the total amount of juice. @@How many parts is the total amount?
+P8	The picture shows half a lemon.@@How many parts in half a lemon?@@How many parts in a whole lemon?@@Each part is a fraction of the whole lemon.
+
+images:
+
+illustrations/pages/93740612.png
+illustrations/pages/93740612.png
+illustrations/pages/93740613.png
+illustrations/pages/93740614.png
+illustrations/pages/93740615.png
+illustrations/pages/93740697.png
+illustrations/pages/93740616.png
+illustrations/pages/93740617.png
+illustrations/pages/93740618.png
+
+translations:
+
+isiZulu (Original)	Asenze ujusi kalamula	id=36039
+Spanish (Translation)	Hagamos limonada.	id=36468

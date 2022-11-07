@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=35199&d=0&a=1
+id:	35199
+title:	Ẹdjẹnẹkpo v' Akora
+author:	Eruotor Grace
+artist:	Isaac Okwir
+lang:	Urhobo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35199.png
+desc:	Leopard and Antelope take an oath to be friends. But their friendship is doomed from the start. (This story was originally narrated by Magabi Enyew Gessesse. The English version was written by Elizabeth Laird.).
+
+page_text:
+
+P1	Ẹdjẹnẹkpo guọnẹ akora@  mhẹ tobọ
+P2	Akora kọjẹ kẹ Ẹdjẹnẹkpo
+P3	Ẹdẹvo vwo te, Ẹdjẹnẹkpo ko se akora, yarhe rere em’ ugbeya.@  Mẹvwẹ riobo whọria aa. Mẹvwo@  wẹ kasa di’ ọvhreghrẹ ẹ
+P4	Akora da rhọvwe phiho,Ẹjẹnẹkpo kọtare nẹ, gbe@  ja ri’ọvwọ rugbeyan kugbe. Kowhokowho r’ ọfa ọvwọ na, ọmọ@  rọye ko gwẹ
+P5	Kaye rhiọvwọ rugbeyan kugbe. Aso vwo te,Akora da pherẹ otọ r’urhe.@  Ẹdjẹnẹkpo da pherẹ agho r’urhe@  obenu
+P6	Akora kọre rhuoma,@  ẹdjẹnẹkpo da dọn.
+P7	Ẹdjẹnẹkpo kọ guọnẹ akora wheria. Kọtare nẹ, ọye@  gbe brudu emu vuọvo oo, ifọkiridie,ọye@  vw’ọmọ vuọvo oo
+P8	Ẹdjẹnẹkpo ko vwo wotọ rọ se vwo@  mhẹ akora, ẹkẹvuọvo, aghọ rẹ urhe na@  da nyọrẹ ẹdjẹnẹkpo
+P9	Akora ko guegue ri, ode kperi nẹ Bẹh!  Bẹh!
+P10	Ẹdjẹnẹkpo kọ rhoma rẹ akora, nẹ@  ọchọye uko. Ọnẹ ọgba karo@  phihọ ọvwọ rugbeya raye rere.
+P11	Akora kọ kpahe vwọkẹ ne, ộke-ộvo esẹ rọye eye rie ọvwọ yena@  kugbe ekpuyovwi roma rọye.
+
+images:
+
+illustrations/pages/17309.png
+illustrations/pages/17306.png
+illustrations/pages/17307.png
+illustrations/pages/17309.png
+illustrations/pages/17310.png
+illustrations/pages/17311.png
+illustrations/pages/17312.png
+illustrations/pages/17313.png
+illustrations/pages/17314.png
+illustrations/pages/17315.png
+illustrations/pages/17316.png
+illustrations/pages/17317.png
+
+translations:
+
+Amharic (Translation)	ነብርና ሚዳቋ	id=17660
+Asante Twi (Translation)	Etwie ne Adowa	id=34863
+English (Original)	Leopard and Antelope	id=17659
+Fulfulde (Adaptation)	Cirgu e Lelwa	id=40200
+Fulfulde Mbororoore (Translation)	Cirgu e Lelwa	id=32096
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=22072
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=34819
+Kiswahili (Translation)	Chui na Swara	id=22084
+Nupe (Translation)	Nᾱἠpᾱ bệ Ὲlớgỉ	id=34859
+Yoruba (Translation)	Amọtékun áti Adááko	id=34894

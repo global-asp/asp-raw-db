@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=36363&d=0&a=1
+id:	36363
+title:	Kanyi kunani?
+author:	Tshidzanani T. Malaba
+artist:	Ignatius T. Mabasa
+lang:	TjiKalanga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36363.png
+desc:	Ongu lungano gifupi ngunotjidza mwana usakakulila kanyi kuti azibe zwinowanika kanyi.
+
+page_text:
+
+P1	Kanyi kuna hali. Hali dzinobhikigwa kene tjengetegwa vula kene mahewu kene busukwa.
+P2	Kanyi kobhikwa tjinkwa nemasimbe. Tjinkwa tjakhona tjoyi tjikundamoyo.
+P3	Kanyi komela whatjulo. Whatjulo dzozipa senyama.
+P4	Kanyi kolimiwa manongo. Manongo anokhwiwa kuti abe bukhwilo.
+P5	Kanyi kokaminwa nkaka wen'ombe. Nkaka unalubomba unozipa nehadza.
+P6	Kanyi kowulusiwa zwidlo zwipalalanyiwa nemayenge. Zwidlo zokhwiwa kuti zwibebgwisa.
+P7	Kanyi kunamiti minjinji inozwala bana banotjelamisa. Miti inonga mitungulu.
+P8	Kanyi kunazila dzemakumbo. Zila dzkanyi dzoyenda kumatshime, kudanga, kugwizi kene kubabakidzani.
+P9	Kanyi kunan'umba dzakapfuligwa nebuhwa. Pfulila kobviwa hhalila denga kuti vula isinile.
+
+images:
+
+illustrations/pages/30390100.png
+illustrations/pages/30390101.png
+illustrations/pages/30390102.png
+illustrations/pages/30390103.png
+illustrations/pages/30390104.png
+illustrations/pages/30390105.png
+illustrations/pages/30390106.png
+illustrations/pages/30390107.png
+illustrations/pages/30390108.png
+illustrations/pages/30390109.png
+
+translations:
+
+ChiShona (Original)	Kumusha kunei?	id=33969

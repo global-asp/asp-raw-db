@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=39996&d=0&a=1
+id:	39996
+title:	Bakani chidoli
+author:	Milton  Nyathi
+artist:	Natalie Propa
+lang:	ChiNambya
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39996.png
+desc:	Mwana yoyu unoshantilwa pakuzana nechidoli chiche. Chidoli chiche chinogala chili unkwaina uwe unalushanto.
+
+page_text:
+
+P1	Yoyu ndi Bakani. Bakani chi doli changu.
+P2	Ndoda Bakani nokuti unogala ekamwemwetela.
+P3	Ndava mukumuka kuseni ndoshamba kumesho. @@Ndapeja ndopota Bakani.
+P4	Ndikongwana Bakani ndokamula masusu awe.
+P5	Pandinolya kulya kokuseni, ndondyisa nebo Bakani.
+P6	Pandinolya zwiwiti, ndotola chimwempela ndipe Bakani.
+P7	Asi Bakani atosolya chiwiti changu. Unosondichenamisa imi.
+P8	Ndosokwenda pazhe ndinunga maluba.
+P9	Ndotola limwempela iluba kova ndipa Bakani, asi apana paanoti, "Taboka."
+P10	Ndosowaja kushambisa Bakani mai bangu besanu bandishambisa.
+P11	Ndombajika Bakani zwimbalo zwolubala lushaba nokuti ndoluda kasa lubala lushaba.
+P12	Kana ndilala, ndolajika Bakani kumbali kwangu.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Anii (Adaptation)	Asim, amabeebi	id=36517
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the doll	id=9748
+French (Translation)	Azizi la poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+isiNdebele (Translation)	Unompopi uThando	id=35241
+isiZulu (Translation)	U-Azizi unoNodoli	id=34909
+Kῖmῖῖrũ  (Translation)	Doli Azizi	id=32847
+Kinyarwanda (Translation)	Igipupe cyitwa Azizi	id=21065
+Lámnsoʼ (Translation)	Dòrbebí wóo Azizi	id=16448
+Luganda (Translation)	Dole Azizi	id=23330
+Lugwere (Translation)	Odole Omulyabwita	id=16112
+Lusoga (Translation)	Aziizi	id=25454
+Portuguese (Translation)	Azizi o boneco	id=35799
+Siswati (Translation)	Umdoli longu Azizi	id=34483
+Spanish (Translation)	El muñeco Azizi	id=35320
+Xitsonga (Translation)	Azizi wa ximpopi	id=34337

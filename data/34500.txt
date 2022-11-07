@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34500&d=0&a=1
+id:	34500
+title:	Nkgonne o a lwala
+author:	Lerato Tsotetsi
+artist:	Lerato Tsotetsi
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34500.png
+desc:	Kgang e
+
+page_text:
+
+P1	Leina la nkgonne ke Resego. O mogolo mo go nna ka dingwaga dile tharo.
+P2	Resego o nthusa go apara diaparo tsa sekolo mo mosong. O tsamaya le nna go ya sekolong ka letsatsi le letsatsi.
+P3	Mme gompieno, nkgonne ga a ikutlwe monate.@Resego o a lwala!@Ke ile go dira jang?
+P4	Mo tseleng go ya sekolong ke ne ka kopana le Tumi mme ra tsamaya mmogo. Se se ne sa dira gore ke ikutlwe botokanyana.
+P5	Kwa sekolong, morutabana o ne a nkopelela pina.@Se, se ne sa dira gore ke itumele.
+P6	Ka nako ya go tshameka, Boipelo o tshameka le nna.@@Se, se dira gore ke ikutlwe ke itumetse tota.
+P7	Ke nako ya go ya gae.@Ke nneile le letsatsi le le monate.
+P8	Go tla intumedisa thata fa ke tlotlela nkgonne ka letsatsi lame.
+
+images:
+
+illustrations/pages/66640100.png
+illustrations/pages/66640101.png
+illustrations/pages/66640102.png
+illustrations/pages/66640103.png
+illustrations/pages/66640104.png
+illustrations/pages/66640105.png
+illustrations/pages/66640106.png
+illustrations/pages/66640107.png
+illustrations/pages/66640108.png
+
+translations:
+
+English (Original)	My big sister	id=33931
+isiZulu (Translation)	Usisi wami omdala	id=34700

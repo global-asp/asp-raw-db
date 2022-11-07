@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=34181&d=0&a=1
+id:	34181
+title:	O Senhor é o meu pastor
+author:	Diego  Santos
+artist:	Marleen Visser
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34181.png
+desc:	Salmo 23 Bíblia Livre ©2017 Diego Santos
+
+page_text:
+
+P1	O Senhor é o meu pastor; nada me faltará.
+P2	Ele me faz deitar em pastos verdes.
+P3	Me leva a águas quietas.
+P4	Ele restaura minha alma. Me guia pelos caminhos da justiça por seu nome.
+P5	Ainda que eu venha a andar pelo vale da sombra da morte,
+P6	não temerei mal algum, porque tu estás comigo.
+P7	Tua vara e teu cajado me consolam.
+P8	Tu preparas uma mesa diante de mim à vista de meus adversários.
+P9	Unges a minha cabeça com azeite, meu cálice transborda.
+P10	Certamente o bem e a bondade me seguirão todos os dias de minha vida.
+P11	E habitarei na casa do Senhor por muitos e muitos dias.
+
+images:
+
+illustrations/pages/28055.png
+illustrations/pages/28055.png
+illustrations/pages/28052.png
+illustrations/pages/28058.png
+illustrations/pages/28049.png
+illustrations/pages/28051.png
+illustrations/pages/28053.png
+illustrations/pages/28057.png
+illustrations/pages/28056.png
+illustrations/pages/28054.png
+illustrations/pages/28059.png
+illustrations/pages/28060.png
+
+translations:
+
+Elomwe (Translation)	Apwiya ti Mukukhula Aka	id=34179
+Emakhuwa (Translation)	Apwiya ti Mukukhula Aka	id=34180
+English (Original)	The Lord is My Shepherd	id=32352

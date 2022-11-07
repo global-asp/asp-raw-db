@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34734&d=0&a=1
+id:	34734
+title:	Embuzi, Embwa hamwe Nente
+author:	Olivia Mugabirwe
+artist:	Marleen Visser
+lang:	Rukiga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34734.png
+desc:	Abanywani bashatu bakaza aharugyendo omumotoka. Obwire bwokushashura bwahika harabaho ebizibu.
+
+page_text:
+
+P1	Embuzi, embwa hamwe nente bakaba bari abanywani. Eizooba rimwe bakaza aharugyendo omumotoka
+P2	Bakahika ahamuheru rworugyendo rwabo. Omuvugi wemotoka yabashaba kushashura. Ente ekashashura ezayo.
+P3	Embwa ekashashura ezirengire ahabwokuba ekaba etaine esente zihanisize
+P4	Omuvugi wemotoka akaba ari haihi kugaruriza embwa esente zihanisize. Ahonaaho Embuzi ekairuka etashashwire
+P5	Omuvugi wemotoka akakwatwa ekiniga. Yavuga yagyenda atagarurire embwa esente zayo
+P6	Nikyo nerizooba, Embwa eriruka hamotoka kureeba omunda. Eraronda omuvugi wemotoka otaragishashwire.
+P7	Embuzi erahunga yahurira okuhuuma kwemotoka. Eratiina nga baraza kugikwata ahabwobutashashura.
+P8	Ente terafa ahamotoka. Eretware yaba erashara oruguuto. Eramanya ngu ekashashura ezayo zahwayo.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+Anii (Adaptation)	Nnanarɩ, asna nʼʊce	id=34344
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Imeetto (Translation)	Ipuri, Mwalapwa, ni Imope	id=33187
+Kanuri (Translation)	Kanyi-a Kǝri-a Fe-a	id=32374
+Kinyarwanda (Translation)	Ihene, Imbwa, n'Inka	id=32575
+Kiswahili (Translation)	Mbuzi, Mbwa na Ng'ombe	id=33533
+Luganda (Translation)	Wambuzi, Wambwa ne Wante	id=33531
+Lumasaaba (Translation)	Imbusi, Imbwa ni Ingaafu	id=33464
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532
+Xingoni (Translation)	Mbui, ngimbwa ni ng'ombe	id=34374

@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=34103&d=0&a=1
+id:	34103
+title:	Alʊkɔ
+author:	Stefanie Zaske
+artist:	Marleen Visser
+lang:	Anii
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34103.png
+desc:	Kîɖe ma alʊkɔ ɩɖǝn na kɩfoto. Ʊ yɔ bayɩɖa aa ?
+
+page_text:
+
+P1	asna
+P2	kpakpafɩʊ
+P3	ana
+P4	gakɔŋkɔŋɔ́
+P5	ʊfulǝ
+P6	ganyaʊ
+P7	arama
+P8	ʊce
+P9	ʊkuruci
+P10	acɩrɩ
+P11	Mʊ nʊ gǝŋ ?
+P12	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :
+P13	www.revue-gugu.org@@+229 66 66 11 11@Téléphone et WhatsApp
+P14	L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+P15	Kîɖe ma alʊkɔ ɩɖǝn na kɩfoto. Ɩ yɔ bayɩɖa aa ?
+
+images:
+
+illustrations/pages/26642.png
+illustrations/pages/26643.png
+illustrations/pages/26644.png
+illustrations/pages/26645.png
+illustrations/pages/26642.png
+illustrations/pages/26647.png
+illustrations/pages/26648.png
+illustrations/pages/26649.png
+illustrations/pages/26687.png
+illustrations/pages/26652.png
+illustrations/pages/26651.png
+illustrations/pages/26647.png
+
+translations:
+
+Afrikaans (Translation)	Plaasdiere	id=32275
+Afrikaans (Translation)	Op die plaas	id=37394
+CiNyanja (Translation)	Bulu	id=22723
+Cinyungwe (Translation)	Bulu	id=22725
+Cisena (Translation)	Buru	id=22726
+Echiziinza (Translation)	Ensíkili	id=30271
+Echuwabo (Translation)	Buru	id=22727
+Elomwe (Translation)	Puuru	id=22728
+Emakhuwa (Translation)	Puuru	id=22729
+English (Original)	Farm animals	id=22679
+French (Adaptation)	Les animaux domestiques	id=34101
+Ikisimbëtë (Translation)	Itikërë	id=30266
+Kiswahili (Translation)	Wanyama	id=29688
+Lusoga (Translation)	Mbbalasi	id=25786
+Lusoga (Translation)	Mbalaasi	id=30576
+Olunyaneka (Translation)	Ocimbulu	id=22730
+Portuguese (Translation)	Animais Domésticos	id=22724
+Spanish (Translation)	Animales de granja	id=36373

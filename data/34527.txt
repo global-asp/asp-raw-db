@@ -1,0 +1,66 @@
+url:	https://africanstorybook.org/reader.php?id=34527&d=0&a=1
+id:	34527
+title:	Buka tilwane
+author:	Mduduzi Benjie Shongwe
+artist:	Sandy Campbell
+lang:	Siswati
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/34527.png
+desc:	Tfola imisindvo leyentiwa tilwane tasepulazini letehlukene. Ngumuphi umsindvo lowentiwa ngumfuyi?
+
+page_text:
+
+P1	Buka tilwane.
+P2	Inkhomo itsi, "Moo."
+P3	Imbuti itsi, "Mee, mee."
+P4	Lihhashi litsi, "Hhiiii."
+P5	Ingulube itsi, "Hhontjii."
+P6	Inkhukhu itsi, "Kuku kuku."
+P7	Inja itsi, "Hhawu hhawu."
+P8	Umfuyi utsi, "Shhh!"
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/1750.png
+illustrations/pages/1751.png
+illustrations/pages/1752.png
+illustrations/pages/1753.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+Amharic (Translation)	እንስሳቱን ተመልከቱ	id=21234
+Arabic (Translation)	اُنْظُرْ إِلَى الحَيَوَانَاتِ	id=20369
+Ateso (Translation)	Ongolia Ityiang Lu	id=9209
+English (Original)	Look at the animals	id=1221
+English (Adaptation)	Domestic animals	id=9680
+English (Adaptation)	Animals and their noises	id=10257
+English (Adaptation)	Look at the animals (Colour-in)	id=32149
+Hausa (Nigeria) (Translation)	Kalli Dabbobin	id=21368
+isiNdebele (Translation)	Qala iinlwana	id=35223
+isiXhosa (Translation)	Izilwanyana zasekhaya	id=2539
+isiZulu (Translation)	Izilwane zasepulazini	id=2540
+Kinyarwanda (Translation)	Itegereze izi nyamaswa	id=20732
+Kinyarwanda (Uganda) (Translation)	Reba izo Nyamanswa	id=23761
+Kiswahili (Translation)	Watazame Wanyama	id=9479
+Kiswahili (Adaptation)	Wanyama wa kufugwa	id=9681
+Kiswahili (Adaptation)	Manyati na wanyama wake	id=16742
+Luganda (Translation)	Ebisolo by'awaka	id=24714
+Lugbarati (Translation)	Mi Ne Nga Anyapa 'diyi	id=12648
+Lukhonzo (Translation)	Ebisoro ne miranga' ya bwo	id=23078
+Lunyole (Translation)	Bona Esolo	id=11618
+Lunyole (Adaptation)	Boon Ebisolo	id=16737
+Lunyole (Translation)	Bona Ebisolo	id=21097
+Lusoga (Translation)	Ebisolo bya Ghaka	id=24825
+Lusoga (Translation)	Wulirisa ensolo	id=24978
+Lusoga (Translation)	Ebisolo ni kereere yaabyo	id=29632
+Sepedi (Translation)	Diphoofolo tša ka gae	id=2544
+Sesotho (South Africa) (Translation)	Bona diphoofolo	id=33524
+Thimbukushu (Translation)	Yiyama nomughuma wayo	id=32267
+Tshivenḓa (Translation)	Lavhelesani zwifuwo	id=34311
+Xitsonga (Translation)	Vona swifuwo	id=34235

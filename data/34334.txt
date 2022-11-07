@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=34334&d=0&a=1
+id:	34334
+title:	Mihlovo ya nkwangulatilo
+author:	Given J Hlongwani
+artist:	Jesse Breytenbach
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34334.png
+desc:	Ntsheketo lowu wu longoloxa mihlovo ya nkwangulatilo na swilo leswi u nga swi vonaka eka vutomi bya masiku hinkwawo leswi nga namihlovo leyi fanaka.
+
+page_text:
+
+P1	Nkwangulatilo wu na mihlovo ya nkombo.
+P2	Mihlovo wo sungula i wo tshwuka.
+P3	Rhumani u ambarile hembhe yo tshwuka.
+P4	Mihlovo wa vumbirhi i wa xitshopi.
+P5	Leri i lamula. @@Xana i ncini lexi u xi vonaka lexi muhlovo wa xona wu nga wa xitshopi?
+P6	Muhlovo wa vunharhu i wa xitshopana.
+P7	Tsutsu wa tandza i wa xitshopana. @@Xana i ncini lexi u xi vonaka lexi muhlovo wa xona wu nga wa xitshopana?
+P8	Muhlovo wa vumune i rihlaza.
+P9	Xirhapa xa mabanana i xa rihlaza.
+P10	Muhlovo wa vuntlhanu i wa wasi.
+P11	Matilo i ma wasi.
+P12	Muhlovo wa vutsevu i wa indigo.
+P13	Tirubeyila leti i ta muhlovo wa indigo.
+P14	Muhlovo wa nkombo i wa vhayolete.
+P15	Rhoko ya mina i ya vhayolete. Vhayolete i muhlovo lowu ndzi wu rhandzaka! @@Xana hi wihi muhlovo lowu i wu rhandzaka?
+P16	Xana wa yi tiva mihlovo ya nkombo ya nkwangulatilo?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Afrikaans (Translation)	Kleure van die reënboog	id=37087
+Amharic (Translation)	7 የቀስተደመና ቀለሞች	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+CiNyanja (Translation)	Mautoto asanu ndi awili a uta wa leza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
+English (Translation)	Colours of a rainbow	id=10463
+English (Adaptation)	Seven colours in a rainbow	id=19760
+English (Adaptation)	Colours of a rainbow (English/French)	id=37751
+French (Translation)	Les couleurs d'un arc-en-ciel	id=34033
+Fulfulde Mbororoore (Translation)	Noone Timbotimbola	id=32258
+Hausa (Nigeria) (Translation)	Launi Bakwai na Bakan-gizo	id=20798
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=20679
+Kabuverdianu (Translation)	Séti Kor di Arkuíris	id=32032
+Kikamba (Translation)	Utathi	id=15419
+Kinyarwanda (Translation)	Amabara y'umukororombya	id=23174
+Kiswahili (Original)	Rangi za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke ali na langi 7	id=20396
+Lusoga (Translation)	Langi edhiri ku musoke	id=30604
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Siswati (Translation)	Imibala yemushi wenkhosatane	id=13066
+Spanish (Translation)	Los Colores del Arcoíris	id=36305
+Tshivenḓa (Translation)	Mivhala ya musengavhadzimu	id=34260

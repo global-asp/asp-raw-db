@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=34101&d=0&a=1
+id:	34101
+title:	Les animaux domestiques
+author:	Stefanie Zaske
+artist:	Marleen Visser
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34101.png
+desc:	Quelques beaux dessins accompagnent les noms de quelques animaux bien connus.
+
+page_text:
+
+P1	le chien
+P2	le canard
+P3	la vache
+P4	l'âne
+P5	la souris
+P6	le chat
+P7	le mouton
+P8	la chèvre
+P9	le cochon
+P10	la poule
+
+images:
+
+illustrations/pages/26642.png
+illustrations/pages/26643.png
+illustrations/pages/26644.png
+illustrations/pages/26645.png
+illustrations/pages/26642.png
+illustrations/pages/26647.png
+illustrations/pages/26648.png
+illustrations/pages/26649.png
+illustrations/pages/26687.png
+illustrations/pages/26652.png
+illustrations/pages/26651.png
+illustrations/pages/26647.png
+
+translations:
+
+Afrikaans (Translation)	Plaasdiere	id=32275
+Afrikaans (Translation)	Op die plaas	id=37394
+Anii (Adaptation)	Alʊkɔ	id=34103
+CiNyanja (Translation)	Bulu	id=22723
+Cinyungwe (Translation)	Bulu	id=22725
+Cisena (Translation)	Buru	id=22726
+Echiziinza (Translation)	Ensíkili	id=30271
+Echuwabo (Translation)	Buru	id=22727
+Elomwe (Translation)	Puuru	id=22728
+Emakhuwa (Translation)	Puuru	id=22729
+English (Original)	Farm animals	id=22679
+Ikisimbëtë (Translation)	Itikërë	id=30266
+Kiswahili (Translation)	Wanyama	id=29688
+Lusoga (Translation)	Mbbalasi	id=25786
+Lusoga (Translation)	Mbalaasi	id=30576
+Olunyaneka (Translation)	Ocimbulu	id=22730
+Portuguese (Translation)	Animais Domésticos	id=22724
+Spanish (Translation)	Animales de granja	id=36373

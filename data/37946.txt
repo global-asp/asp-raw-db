@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=37946&d=0&a=1
+id:	37946
+title:	Chitsanzo, dilaiva wamkazi
+author:	Peter  Msaka
+artist:	Yirgalem  Birhanu
+lang:	ChiChewa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37946.png
+desc:	Nkhani iyi ikutsutsana ndi zikhulupiliro zakuti ntchito zina ndi zoyenera amuna kapena akazi okha.
+
+page_text:
+
+P1	Njingalimoto ndi galimoto ya matayala atatu.@@Imagwiritsidwa ntchito mtawuni kuti anthu ayende mwachangu kupita malo osiyanasiyana.
+P2	Mdera lathu, kuyendetsa galimoto ndi ntchito ya amuna.@@Akazi sagwira ntchito imeneyi.
+P3	Tsiku lina, Abebech anapempha makolo ake kuti amupatse ndalama zokaphunzirira kuyendetsa galimoto.@@Makolo ake anati, "Ntchito imeneyi siyabwino kwa atsikana. Anthu aziti chiyani?"
+P4	Komabe, Abebech anati, "Ndili ndi kuthekera kochita chilichonse chimene anthu ena angathe." Anakwanitsa kuwanyengerera makolo ake.@@Makolo ake anavomera kuti akayambe kuphunzira kuyendetsa galimoto.
+P5	Abebech anamaliza ndi kukhonza maphunziro aja.@@Makolo ake anakambirana zoti achite kutsatira maphunziro ake.
+P6	Pamapeto pake, anagwirizana zomugulira njingalimoto.@@Kotero, Abebech anayamba kuyendetsa njingalimoto m'misewu ya mumzinda wa Debre Birhan.
+P7	Tsiku lina Abebech anaganiza mwakuya.@@Anamata uthenga ndi nambala yake ya foni kumbuyo kwa njingalimoto yake.
+P8	Uthengawo unati, "Ndimanyamula ulele amayi oyembekezera, amayi amene abereka kumene, komanso ana ang'ono."@@Amayi onse amene ana awo adwala amamuimbira Abebech.
+P9	Abebech anapanga ndalama zambiri ponyamula anthu.@@Anapitiliza kunyamula ulele anthu amene analibe ndalama.
+P10	Abebech anali okondwa kwambiri ndi ntchito yake. Anthu okalamba anamudalitsa. Aliyense amakamba za iye nthawi zonse.@@Abebech anawauza kuti, "Kuchita zabwino kumadalitsa."
+
+images:
+
+illustrations/pages/27145.png
+illustrations/pages/27153.png
+illustrations/pages/27152.png
+illustrations/pages/27154.png
+illustrations/pages/27155.png
+illustrations/pages/27149.png
+illustrations/pages/27145.png
+illustrations/pages/27148.png
+illustrations/pages/27150.png
+illustrations/pages/27151.png
+
+translations:
+
+Afaan Oromo (Translation)	Abbebbech, Dubaree Baajaajii Konkolaachistu	id=35503
+Amharic (Translation)	አበበች ሴቷ አሽከርካሪ	id=24735
+English (Original)	Abebech, the female bajaj driver	id=23862
+French (Translation)	Abebech, la conductrice de bajaj	id=33868
+Kinyarwanda (Translation)	Keza, umukobwa utwara akamodoka gato	id=32871
+Kiswahili (Translation)	Abby, dereva wa kike wa tuktuk	id=24752
+Lusoga (Translation)	Abbigairi omuvuzi gha bbajaaji	id=26613
+Lusoga (Translation)	Ebebech, omuvuzi oghepikipiki omugunha	id=29205
+Tigrigna (Translation)	ኣበበች ጓል ኣንስተይቲ  ዘዋሪት ባጃጅ	id=25986

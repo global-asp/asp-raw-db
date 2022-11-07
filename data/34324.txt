@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=34324&d=0&a=1
+id:	34324
+title:	Xana wena u endla yini?
+author:	Given J Hlongwani
+artist:	Wiehan de Jager
+lang:	Xitsonga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34324.png
+desc:	Swivulwa swo koma leswi tirhisaka maendli ya nkarhi wa sweswi yo olova.
+
+page_text:
+
+P1	Ndzi le ku yimbeleleni.
+P2	U le ku tatayiseni.
+P3	Ndzi le ku beni ka mavoko.
+P4	U le ku pfuleni ka mavoko.
+P5	U le ku huweleleni.
+P6	Ndzi le ku hlamuleni.
+P7	U le ku yingiseleni.
+P8	Xana wena u endla yini?
+
+images:
+
+illustrations/pages/17138.png
+illustrations/pages/7127.png
+illustrations/pages/6641.png
+illustrations/pages/7122.png
+illustrations/pages/6578.png
+illustrations/pages/7116.png
+illustrations/pages/7123.png
+illustrations/pages/6644.png
+
+translations:
+
+Afaan Oromo (Translation)	Maal Hojjechaa Jirta?	id=13709
+Afrikaans (Translation)	Wat doen jy?	id=11543
+Amharic (Translation)	ምን እየሠራህ ነው?	id=22389
+Arabic (Translation)	ماذا تفعل؟	id=21825
+English (Original)	What are you doing?	id=7292
+English (Translation)	What are you doing?	id=7718
+English (Translation)	What Are You Doing?	id=7721
+English (Adaptation)	What are you doing? (Colour-in)	id=32453
+isiNdebele (Translation)	Wenzani?	id=35231
+isiXhosa (Translation)	Wenza ntoni?	id=15035
+isiZulu (Adaptation)	Wenzani?	id=17101
+Kinyarwanda (Translation)	Uri gukora iki?	id=32617
+Kiswahili (Translation)	Unafanya Nini?	id=15711
+Lunyole (Translation)	Ohola Hiina?	id=13602
+Lunyole (Translation)	Ohola Hiina?	id=21099
+Lusoga (Translation)	Oli kukola ki?	id=25703
+Mampruli (Translation)	Bɔ Ka I Niŋna?	id=21221
+Ng’aturkana (Translation)	Nyo Isubi Iyong?	id=9778
+Portuguese (Translation)	O Que É Que Estás a Fazer?	id=19219
+Sepedi (Translation)	O dira eng?	id=7692
+Siswati (Translation)	Yini loyentako?	id=34471
+Tshivenḓa (Translation)	Ni khou ita mini?	id=34250
+Tunisian (Translation)	Fæċ taɛmel?	id=15381

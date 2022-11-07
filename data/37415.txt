@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=37415&d=0&a=1
+id:	37415
+title:	Andiswa  sibbola mukali
+author:	Nchimunya Kanyemba
+artist:	Eden Daniels
+lang:	ChiTonga
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/37415.png
+desc:	Andiswa
+  wakali kuyandisha kuti abewababo basibola yamaulu muchikolo pele bayi babbola
+  bakalikumwambila kuti bola lya maulu njabasankwa biyo ino Andiswa nakaba a
+  ciindi kuti aume bola lyamaulu wakatondezya kuti mukali.
+
+page_text:
+
+P1	Andiswa@  wakali kuebelele Ibalombwa kabasobana ibbola na mupila loonse wakali@  kulombozya kuti na inga wabasangana, bumwi buzuba wakalomba bayi ba bbola@  kuti asangana basibola kutengwa baume antomwe
+P2	Bakalijata@  akasolo bayi babbola akumwambila kuti imusobano wampila ngwabasankwa biyo ano@  achikolo
+P3	Bamasankwa@  bakamwimbila kuti aunke kukuma bola yamanza kuleka bbola lyamaulu itegwa@  njabasankwa.@  @@  Akookambo@  kamunyemya Andiswa
+P4	Ibuzuba@  bwakatobela ackolo kwali imusobano mupati,ino bayi babbola balityompedwe@  akaambo kakuti Imulombwana ngubalikushoma wakalichisinwe abobo tanakali@  kukonzya kuuma bbola
+P5	Andiswa@  waka balombesesha bayi kuti ba munjizye mumusobano ino bayi tibakazyi@  chakuchita pele bakumuzumizya kuti aume.
+P6	Imusobano@  wakauma kunyina bakanywisinde pee nichamana chibela chakusanguna
+P7	Ino@  muchibela chabili ichamusobano Andiswa wakaibweza bbola wakatiyana kuya@  kuchipanda nachigolo,wakauma bola mane mundangala
+P8	Yoonse@  mbunga yakuebelela yasotoka mujulu mulukomano @  Kuzwa@  buzuba obo bana basimbi muchikolo bakazuminisingwa kuuma bbola yakumaulu.
+
+images:
+
+illustrations/pages/4459.png
+illustrations/pages/4460.png
+illustrations/pages/4461.png
+illustrations/pages/4462.png
+illustrations/pages/4463.png
+illustrations/pages/4464.png
+illustrations/pages/4465.png
+illustrations/pages/4466.png
+illustrations/pages/4467.png
+
+translations:
+
+Amharic (Translation)	አዲሴ - የእግር ኳስ ኮከቧ	id=12962
+Arabic (Translation)	أنديسوا نجمة كرة القدم	id=21859
+ChiNambya (Translation)	Shantani unzani webhola iyamakumbo	id=39998
+English (Original)	Andiswa soccer star	id=5283
+English (Adaptation)	Andiswa soccer star (Colour-in)	id=32518
+Hausa (Nigeria) (Translation)	Delu Ƙwararriyar 'Yarwasan Kwallon Ƙafa	id=20760
+Hausa (Nigeria) (Translation)	Delu Qwararriyar 'yar  wasar Qwallon qafa	id=22076
+IciBemba (Translation)	Andiswa  kateya wamupila wakumakasa	id=37383
+Kinyarwanda (Translation)	Mukamurenzi umusitari w'umupira w'amaguru	id=32563
+Lhukonzo (Translation)	Andiswa omusathi owomupira	id=22378
+Lusoga (Translation)	Andiswa Muzaanhi wa Mupiira	id=21371
+Otuho (Translation)	Imôlî agalîk ta abala kura-hêjû.	id=39041
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=16757
+Somali (Translation)	Amina Xidiga Kubada Cagta	id=17254
+Tigrigna (Translation)	ትርሓስ - ኾኸብ ተፃዋቲት እግሪ ኩዕሶ	id=18977
+Zande (Translation)	Andiswa Nga Bangi Kandi Rogo Gu Rigbuu Nga Kerekuru	id=16758

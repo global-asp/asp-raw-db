@@ -1,0 +1,91 @@
+url:	https://africanstorybook.org/reader.php?id=35027&d=0&a=1
+id:	35027
+title:	Asambizi Anyakinyi
+author:	Pilirani  Kamanga and Winfred  Mkochi
+artist:	Vusi Malindi
+lang:	Chitonga (Malawi)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35027.png
+desc:	Nthanu iyi ikamba za musambizi munyaki wamasangu ndi sambilu lo watitipasa.
+
+page_text:
+
+P1	Yaŵa mbasambizi ŵangu.@@Zina lawu mbaAnyakinyi.@@Atitiyanja ukongwa.
+P2	Asambizi Anyakinyi atitisambiza malembu.@@Atitisambiza mavawelu.@@Ndiziŵa malembu nge a, e, i, o, u.
+P3	Asambizi Anyakinyi atitisambiza makalala.@@Ndiziŵa chiyera, chabulu, chagilini, chantcheti, ndi chifipa.
+P4	Panyengu yakugone, Asambizi Anyakinyi atitimbiya sumu kuti tigoni.@@Atitimbiya sumu zakutipembeleza.
+P5	Sumu zaki atumba viyo:@@Lululu, mwana waliya@Lululu, waliya anyina@@Gona mwana, leka kuliya@Ndikumbiyengi kasumu kakunozya.
+P6	Asambizi Anyakinyi aziŵa nthanu zinandi.@@Zuŵa lelosi atitinene nthanu yifya.
+P7	Pa Mandi, atitinene nthanu za anthulumi akutchuka.
+P8	Pachiŵi, atitinene nthanu za anyinafwi akutchuka.
+P9	Pa Chitatu, atitinene nthanu za mitundu ya mendelu.
+P10	Pa Chinayi, atitikambiya nthanu za ulimi.
+P11	Pa Chinkhodi, nasi taŵana tikambiya kilasi losi nthanu zidu ndi zidu.
+P12	Palivi so wakuphala asambizi ŵidu pachalu chosi chapasi!@@Asani ndakuwa, ndikhumba ndizije musambizi nge Asambizi Anyakinyi.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25336
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+Afrikaans (Translation)	Onderwyser Akinyi	id=33493
+Chichewa (Translation)	Aphunzitsi a Akinyi	id=34967
+Chinkhonde (Translation)	M'manyisi Akinyi	id=35002
+ChiTonga (Translation)	Bayi ba Akinyi	id=18642
+ChiTonga (Adaptation)	Bayi ba Akinyi	id=37970
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+CiNyanja (Adaptation)	Aphunzitsi a Akinyi	id=37730
+Citumbuka (Translation)	Ŵasambizgi ŵa Akinyi	id=35052
+Ciyawo (Malawi) (Translation)	Akinyi ceTicala	id=35077
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+Ellomwe (Malawi) (Translation)	Akinyi muhuddihi	id=35109
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+French (Adaptation)	La Maîtresse Saratou!	id=38767
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Kafundisha Mbewe	id=18586
+IciBemba (Adaptation)	Bakafundisha ba Akanyi	id=37732
+isiNdebele (Translation)	UTitjhere Nkosi	id=13043
+isiXhosa (Translation)	UTitshalakazi uNwabisa	id=14116
+isiZulu (Translation)	Uthisha uZanele	id=13537
+Kῖmῖῖrũ  (Translation)	Mwarimũ Makena	id=32849
+Khoekhoegowab (Translation)	ǁGauǃnâ-aos Akinyis xa	id=31680
+Kiswahili (Translation)	Mwalimu Akinyi	id=33172
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Lusoga (Translation)	Musomesa Akinyi	id=27260
+Mampruli (Translation)	Tikyɛa Talata	id=20109
+Oshikwanyama (Translation)	Omuhongi Akinyi	id=24128
+Oshindonga (Translation)	Omulongi Akinyi	id=23884
+Otjiherero (Translation)	Jevrou Akinyi	id=24170
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rukwangali (Translation)	Murongi Akinyi	id=31488
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (Lesotho) (Translation)	Mosuoetsana Lineo	id=36354
+Sesotho (South Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Siswati (Translation)	Thishela Nkosi	id=21746
+Talen (Translation)	Tikya Akinyi	id=20177
+Tshivenḓa (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

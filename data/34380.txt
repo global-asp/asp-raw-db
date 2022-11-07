@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=34380&d=0&a=1
+id:	34380
+title:	Comment vais-je voyager ?
+author:	Zanne Viljoen
+artist:	Catherine Groenewald, Jesse Breytenbach, Louwrisa Blaauw, Mango Tree, Marion Drew, Natalie Propa, Rob Owen, Sue Kramer, Vusi Malindi and Wiehan de Jager
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34380.png
+desc:	Un enfant veut voyager et se demande quel est le meilleur moyen de voyager.
+
+page_text:
+
+P1	Il y a plusieurs façons de voyager.  Lequel devrais-je choisir ?
+P2	Devrais-je prendre l'avion ?
+P3	Les avions volent très haut. J'ai peur de voyager en avion !
+P4	Peut-être devrais-je prendre un hélicoptère ?
+P5	Mais les hélicoptères et les avions, c'est la même chose !
+P6	Peut-être je dois prendre le train ?
+P7	Mais la gare est très loin.
+P8	Ou peut-être je dois prendre le bus ?
+P9	Notre village a seulement un bus !
+P10	Peut-être je vais prendre un camion pour voyager.
+P11	Mais on utilise les camions pour transporter des marchandises lourdes.
+P12	Devrais-je utiliser un vélo pour voyager ?
+P13	Mais est-ce que mon père me donnera son vélo ?
+P14	Peut-être je vais essayer de prendre un bateau ?
+P15	Mais je ne fais pas très confiance aux bateaux !
+P16	Aah ! Je sais ce que je vais faire ! J'utiliserai un tracteur pour voyager.
+
+images:
+
+illustrations/pages/10408.png
+illustrations/pages/7576.png
+illustrations/pages/8959.png
+illustrations/pages/9850.png
+illustrations/pages/6755.png
+illustrations/pages/9642.png
+illustrations/pages/9689.png
+illustrations/pages/9635.png
+illustrations/pages/11461.png
+illustrations/pages/11457.png
+illustrations/pages/938.png
+illustrations/pages/10616.png
+illustrations/pages/6031.png
+illustrations/pages/944.png
+illustrations/pages/10076.png
+illustrations/pages/10078.png
+illustrations/pages/10408.png
+
+translations:
+
+Afrikaans (Translation)	Waarmee sal ek reis?	id=37089
+English (Translation)	What shall I use to travel?	id=11843
+isiZulu (Adaptation)	Ngizohamba ngani?	id=21562
+Lhukonzo (Translation)	Ngendikolesya'kyi omwangenda?	id=22381
+Lusoga (Translation)	Kiki Kyemba Nkozesa?	id=21296

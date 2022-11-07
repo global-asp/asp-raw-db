@@ -1,0 +1,28 @@
+url:	https://africanstorybook.org/reader.php?id=38223&d=0&a=1
+id:	38223
+title:	Super Mario
+author:	Sebastian Bradbury
+artist:	Sebastian Bradbury and Jacob Kono
+lang:	None
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38223.png
+desc:	So good nowone can resist this book! Theres no problem with my book
+
+page_text:
+
+P1	Super Mario throws a great party
+P2	Then bowser tried to kill all the people.
+P3	Luckily super Mario came before bowser killed them all with his shell
+P4	THE END!
+
+images:
+
+illustrations/pages/91240101.png
+illustrations/pages/91240102.png
+illustrations/pages/91240103.png
+illustrations/pages/25083.png
+illustrations/pages/91240104.png
+
+translations:
+

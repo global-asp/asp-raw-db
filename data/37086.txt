@@ -1,0 +1,113 @@
+url:	https://africanstorybook.org/reader.php?id=37086&d=0&a=1
+id:	37086
+title:	Kom ons tel die diere.
+author:	Meryke Barkley
+artist:	Rob Owen
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37086.png
+desc:	Die diere is dors.  Wie is by die watergat?
+
+page_text:
+
+P1	Een olifant gaan water drink.
+P2	Twee kameelperde gaan ook water drink.
+P3	Drie buffels en vier voëls wil ook water drink.
+P4	Vyf bokke en ses vlakvarke is oppad na die water toe.
+P5	Sewe sebras hardloop na die water toe.
+P6	Ag paddas en nege visse swem in die water.
+P7	Een leeu brul.  Hy wil ook water drink.  Wie is bang vir die leeu?
+P8	Een olifant drink water saam met die leeu.
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9652.png
+illustrations/pages/9647.png
+illustrations/pages/9644.png
+illustrations/pages/9646.png
+illustrations/pages/9650.png
+illustrations/pages/9645.png
+illustrations/pages/9651.png
+illustrations/pages/9648.png
+
+translations:
+
+Afrikaans (Translation)	Tel die diere	id=11413
+Akuapem Twi (Translation)	Mmoa Akenkan	id=18434
+Amharic (Translation)	እንሰሳትን እንቁጠር	id=21302
+Anii (Adaptation)	Tʊ̂r ma ɩbɔrɩ !	id=34917
+Arabic (Translation)	لنعد الحيوانات	id=21880
+Asante Twi (Translation)	Mmoa Akenkan	id=18219
+Chichewa (Translation)	Kuwerenga nyama	id=34954
+Chinkhonde (Translation)	Kubelenga finyamana	id=34988
+ChiShona (Translation)	Kuverenga mhuka	id=31786
+ChiTonga (Translation)	Kubala Banyama	id=32861
+ChiTonga (Adaptation)	Kubala Banyama	id=37622
+Chitonga (Malawi) (Translation)	Kuŵelenga nyama	id=35014
+CiNyanja (Translation)	Kuwelenga Nyama	id=32842
+CiNyanja (Adaptation)	Kuwerengera Nyama	id=37623
+Citumbuka (Translation)	Kuŵerenga nyama	id=35041
+Ciyawo (Malawi) (Translation)	Kuŵalanga yinyama	id=35064
+Dagaare (Translation)	Donne Sɔrebo	id=17769
+Dagbani/Dagbanli (Translation)	Binkɔbri Kalibu	id=18158
+Dangme (Translation)	Lohwehi Kanemi	id=18297
+Dinka (Translation)	Kuen laai	id=39430
+Ekegusii (Translation)	Kobara chinyang'au chiorosana	id=31723
+Ellomwe (Malawi) (Translation)	Welengiha enama	id=35097
+English (Original)	Counting animals	id=9671
+English (Adaptation)	Counting animals (Colour-in)	id=32454
+English (Adaptation)	Water for all	id=34284
+Ewe (Translation)	Lãwo Xexlẽ	id=18179
+Fante (Translation)	Mbowadoma Nkanee	id=18487
+French (Translation)	Compter Les Animaux	id=12654
+French (Adaptation)	Compter Les Animaux	id=32664
+French (Translation)	Comptons les animaux !	id=33820
+French (Adaptation)	Compter Les Animaux	id=35330
+Fulfulde Mbororoore (Translation)	Limugo Dabbaaji Ladde	id=32052
+Gonja (Translation)	Asɔbɔaya Be Ke Karga	id=18173
+Hausa (Nigeria) (Translation)	Dabbobin Daji Cikin Alƙaluman Ƙidaya	id=20516
+IciBemba (Translation)	Ukupenda Inama	id=32859
+IciBemba (Adaptation)	Ukupenda inama	id=37624
+isiXhosa (Translation)	Ukubala izilwanyana	id=37841
+isiZulu (Translation)	Ukubala izilwane	id=32161
+Kasem (Translation)	Vara Garem	id=18208
+Kῖmῖῖrũ  (Translation)	Gũtara nyomoo	id=32811
+Khoekhoegowab (Translation)	Xamarina ǃgôas	id=24655
+KiGiryama (Translation)	Kuthala anyama	id=33477
+Kikamba (Translation)	Kũtala Nyamũ	id=31722
+Kinyarwanda (Translation)	Kubara inyamaswa	id=20220
+Kiswahili (Translation)	Kuwahesabu Wanyama	id=17534
+Lámnsoʼ (Translation)	Á táŋ nyám si	id=15064
+Lingala (Translation)	Tanga bibwele	id=31812
+Lubukusu (Translation)	Khuubala Chisang'ii	id=31714
+Luganda (Translation)	Ohubala Ebisolo	id=11905
+Lunyole (Adaptation)	Okubala Ebisolo	id=16664
+Lusoga (Translation)	Okubala Ebisolo	id=22712
+Mampruli (Translation)	Bunkɔbri Kaaligu	id=18848
+Ng’aturkana (Translation)	Akimar ng'itieng	id=33412
+Nzema (Translation)	Nane Edianlɛ	id=18423
+Oluwanga (Translation)	Okhubala Tsisolo	id=19590
+Oluwanga (Translation)	Okhubala Tsisolo	id=31715
+Oshikwanyama (Translation)	Oku valula oinamwenyo	id=24127
+Oshindonga (Translation)	Okuyalula iinamwenyo	id=23883
+Otetela (Translation)	Ade wanyama	id=32546
+Otjiherero (Translation)	Okuvara ovinamunjo	id=24169
+Pokomo (Translation)	Kut̯ala binensa	id=33500
+Portuguese (Translation)	Contando Os Animais	id=16562
+Rukwangali (Translation)	Yikoramavaruro	id=31487
+Runyankore (Translation)	Okubara Ebinyamiiswa	id=21333
+Runyoro-Rutooro (Translation)	Kubara ebisoro	id=34843
+Sepedi (Translation)	Go bala diphoofolo	id=32064
+Sesotho (Lesotho) (Translation)	Re bala liphoofolo	id=36341
+Sesotho (South Africa) (Translation)	Re bala diphoofolo	id=31817
+Setswana (Translation)	Palo ya diphologolo	id=22009
+Setswana (Translation)	Go bala diphologolo	id=31776
+Siswati (Translation)	Kubala tilwane	id=32442
+Tiv (Translation)	Ingyegh ki anyamev	id=32027
+TjiKalanga (Translation)	Bala mhuka	id=35269
+Tshivenḓa (Translation)	U vhala phukha	id=31843
+Tunisian (Translation)	Eħseb qaddæċ men ħayæwæn	id=15389
+Xitsonga (Translation)	Ku hlayela swiharhi	id=37744
+Yoruba (Translation)	Kíka Àwọn Ẹranko	id=16554

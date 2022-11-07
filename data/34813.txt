@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34813&d=0&a=1
+id:	34813
+title:	Ilé Luwo
+author:	Esther  Chibuzor and Meweabi  Raji
+artist:	Jacob  Matthess
+lang:	Yoruba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34813.png
+desc:	Luwo yó jáde nílé ìjósiǹ lati lo sílé. Sùgbón kò rorùn lati dálé mò gégé bó se ròo.
+
+page_text:
+
+P1	Luwo lo sílé ìjósiǹ pèlú iyá re.@  @Ìyá re di owó re mú lójú ònà.
+P2	Nínú ilé ìjósiǹ, awon èrò púpó péjò.@  @Won nkorin.
+P3	Luwo fi ilé ìjósiǹ sílè.@  @Ìyá re ko ri.
+P4	Luwo dúró sójú ònà.@  @Ó wo òjú ònà, ó ronú, "Ilé mi da?"
+P5	Ó gba ojú óná naa. Ó rí ilé ńlá kan.@  @"Rárá o, ilé wá kó nìyí. Ilé wa kéré."
+P6	Luwo rìn síwájú díè si. Ó ri ilé lórí òpó.@  @"Rárá o, ilé wá kó nìyí, ilé wa kò sí lórí òpó."
+P7	Ó si ǹtesíwájú. Ó rí ilé kékeré tí a fi koríko Alámò kó.@  @"Rárá o, ilé wá kó nìyí. Ilé wa ní ogìri Alámò."
+P8	Luwo rìn jìnnà. Ó rí ilé kékeré tí igi wa níwáju re.@  @"Rárá o, ilé wá kó nìyí. Igi méjì ló wà níwájú ilé wa."
+P9	Nígbàtóyá Luwo ri ìyá re tó nbò wá sódò re. Luwo sáré sii.@  @Iya re wípé, "Jé ká lo sílé!"
+P10	Ewo ni ilé Luwo?
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Asante Twi (Translation)	Luwo Fie	id=34864
+Bura (Translation)	KՁ ga  Luwo	id=34890
+Cinyanja (Mozambique) (Translation)	Nyumba ya Luwo	id=33827
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+English (Original)	Luwo's House	id=32346
+French (Translation)	La maison de Luwo	id=33378
+Hausa (Nigeria) (Translation)	Gidan Luwo	id=34820
+Igala (Translation)	Unyi Luwo's	id=34835
+Nupe (Translation)	Emi Luwo	id=34860
+Portuguese (Translation)	A Casa de Luwo	id=32379
+Urhobo (Translation)	Uwevwi ri Luwo	id=35204
+Yoruba(Ijesha) (Translation)	Ule Luwo	id=34862

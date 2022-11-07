@@ -1,0 +1,108 @@
+url:	https://africanstorybook.org/reader.php?id=37949&d=0&a=1
+id:	37949
+title:	Chibasi chabuluu
+author:	Peter  Msaka
+artist:	Mango Tree
+lang:	ChiChewa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37949.png
+desc:	Limbani ndi mayi ake akudikira basi yayikulu ya mtundu wabuluu kuti iwatenge kupita ku tawuni.
+
+page_text:
+
+P1	M'mudzi wa Limbani mumadutsa basi imodzi yokha. Inali yayikulu ya mtundu wa buluu. @@Inali ya phokoso kwambiri.
+P2	"Mawa tipita ku tawuni," anatero amayi a Limbani. @@"Tikagula yunifolomu yako."
+P3	Limbani anasangalala kwambiri. Adzakwera basi yayikulu yabuluu. @@Usiku umenewo Limbani sanagone.
+P4	Amayi ake atabwera kudzamudzutsa, Limbani anali atavala kale.
+P5	Limbani ndi amayi ake anayenda kupita kokwerera basi. Anayidikira basi yayikulu yabuluu ija. @@Koma basi siinafike.
+P6	Anthu ena anafika pokwerera basi. Anadandaula chifukwa basi inachedwa. @@"Basi ifika nthawi yanji?" anafunsa motero.
+P7	Limbani anadandaula. "Sitipita ku tawuni," anaganiza choncho. @@"Sindikhala ndi yunifolomu yatsopano."
+P8	Anthu ena anatopa kudikira ndikubwerera kunyumba kwawo. @@Limbani analira. Samafuna kubwerera kunyumba. "Tidikirabe," anatero mayi ake.
+P9	Mwadzidzidzi, anamva phokoso. Anawona fumbi m'mwamba. @@Basi ija imabwera!
+P10	Koma siinali basi yabuluu. Siinalinso basi yayikulu. Inali basi yofiira komanso yaying'ono.@@Anthu sanafune kukwera basi imeneyi.
+P11	"Kwerani! Kwerani! Tachedwa kwambiri lero," anakuwa woyendetsa basi.
+P12	Limbani ndi mayi ake anali oyamba kukwera. @@Kenako ena onse anakwera basi yofiira yaying'ono ija.
+P13	Limbani anawona kunja kudzera pa zenera. @@Anawona anthu ambiri pokwerera basi paja.
+P14	Anthu ena ambirinso anathamangira basi ija. Koma anachedwa kwambiri. @@Basi yofiira ija inali itadzadza. Inanyamuka kupita ku tawuni.
+P15	"Basi yabuluu yaikulu ija ili kuti?" anafunsa amayi a Limbani. @@"Yawonongeka. Tikuikonza. Ibwera mawa," anayankha woyendetsa basi uja.
+P16	Limbani sanasamale za mtundu wa basi. Sanasamale za kukula kwa basi. @@Basiyi imapita ku tawuni!
+
+images:
+
+illustrations/pages/11446.png
+illustrations/pages/11446.png
+illustrations/pages/11447.png
+illustrations/pages/11448.png
+illustrations/pages/11449.png
+illustrations/pages/11450.png
+illustrations/pages/11451.png
+illustrations/pages/11452.png
+illustrations/pages/11453.png
+illustrations/pages/11454.png
+illustrations/pages/11455.png
+illustrations/pages/11456.png
+illustrations/pages/11457.png
+illustrations/pages/11458.png
+illustrations/pages/11459.png
+illustrations/pages/11460.png
+illustrations/pages/11461.png
+
+translations:
+
+Afrikaans (Translation)	Groot blou bus	id=20051
+Afrikaans (Translation)	Toe die groot, blou bus laat was	id=31531
+Amharic (Translation)	ትልቁ ሰማያዊ አውቶቡስ በዘገየ ጊዜ	id=37859
+Anii (Adaptation)	Bɔɔsʊ buruu abʊmbɔnɔ	id=24786
+ChiShona (Translation)	Bhazi Hombe reBhuruu	id=23148
+ChiTonga (Translation)	Ibbasi lyangu lipati lya bbulu	id=18635
+ChiTonga (Adaptation)	Bbaasi Lipati Lyabbuluu	id=37615
+CiNyanja (Translation)	Basi ikulu yobilibila	id=18614
+CiNyanja (Translation)	Kuyembekeza basi	id=33168
+CiNyanja (Adaptation)	Basi yaikulu yobiriwira	id=37616
+English (Original)	Big blue bus	id=12083
+English (Adaptation)	When the big blue bus was late	id=20309
+English (Adaptation)	Waiting for the bus	id=32482
+French (Translation)	Le Grand Bus Bleu	id=13271
+Fulfulde Mbororoore (Translation)	Moota Njahoowa Luumo	id=32057
+Hausa (Nigeria) (Translation)	Babbar shuɗiyar mota	id=22053
+IciBemba (Translation)	Saaca  Iikulu Iyabuluu	id=18579
+IciBemba (Translation)	Ukuloleela Saca	id=33210
+IciBemba (Adaptation)	Saaca  Iikulu Iyabuluu	id=37617
+Igbo (Translation)	Ugbọala bọsụ ojii ukwu	id=22156
+isiNdebele (Translation)	Mhlana ibhesi ifika ngemva kwesikhathi	id=20828
+isiNdebele (Translation)	Ibhesi ekulu ehlaza sasibhakabhaka	id=21919
+isiXhosa (Translation)	Ibhasi enkulu emzuba	id=16549
+isiXhosa (Translation)	Ibhasi enkulu ezuba	id=17502
+isiXhosa (Translation)	Mhla ubhazabhaza webhasi ebhulowu akafika	id=31416
+isiZulu (Adaptation)	Ibhasi elikhulu eliluhlaza	id=17335
+isiZulu (Translation)	Mzukwana ibhasi lifika emva kwesikhathi	id=20688
+KiGiryama (Translation)	Kundhariza basi	id=33480
+Kinyarwanda (Translation)	Bisi	id=17456
+Kiswahili (Translation)	Basi kubwa la bluu	id=12428
+Kiswahili (Translation)	Wakati basi kubwa la bluu lilipochelewa	id=22637
+Kiswahili (Translation)	Kulisubiri basi	id=33230
+Lámnsoʼ (Translation)	Mótù wo faŋèn wo wù kiʼ blùu	id=22272
+Luganda (Translation)	Baasi ennene eya bululu	id=13122
+Lunyole (Translation)	Ebbasi  Embala Eya  Bbululu	id=13438
+Lunyole (Translation)	Ebbasi Embala Eya Bbulu	id=13608
+Lusoga (Translation)	Bbaasi ya bbululu embbede	id=25573
+Ng’aturkana (Translation)	Amotoka Napus Naapolon	id=12730
+Oluwanga (Translation)	Omutoka Omukali Kwe Lilesi	id=12934
+Pokomo (Translation)	Kuiinda hi basi	id=33505
+Portuguese (Translation)	Grande Autocarro Azul	id=16097
+Rukwangali (Translation)	Apa Besa zonene zosineguru zahulilire	id=33333
+Russian (Translation)	Большой голубой автобус	id=35652
+Sepedi (Translation)	Pese ye kgolo ye talalerata	id=17993
+Sepedi (Translation)	Pese ye kgolo e šaletše	id=31537
+Sesotho (South Africa) (Translation)	Bese ya mmala wa botala ba lehodimo	id=20023
+Sesotho (South Africa) (Translation)	Ha bese e kgolo e bolou e siilwe ke nako	id=20835
+Setswana (Translation)	Bese e kgolo ya mmala wa botala jwa legodimo	id=17644
+Setswana (Translation)	Fa bese e kgolo e e talaloapi e le thari	id=31412
+SiLozi (Translation)	Mbasi Yaka Yamubala Wa Mbilu	id=18562
+Siswati (Translation)	Ibhasi lenkhulu leluhlata kwesibhakabhaka	id=20782
+Siswati (Translation)	Ibhasi lenkhulu leluhlata sasibhakabhaka	id=21512
+Tshivenḓa (Translation)	Bisi khulwane ya lutombo	id=18286
+Tshivenḓa (Translation)	Musi we bisi khulukhulu ya lutombo ya lenga	id=31541
+Xitsonga (Translation)	Bazi lerikulu ra muhlovo wa wasi	id=18988
+Xitsonga (Translation)	Ku hlwela ka bazi lerikulu ra wasi	id=31449

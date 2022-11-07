@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=35799&d=0&a=1
+id:	35799
+title:	Azizi o boneco
+author:	Jose Luiz Correa
+artist:	Natalie Propa
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35799.png
+desc:	A menina adora cuidar do seu boneco. Ele é seu amigo e está sempre feliz.
+
+page_text:
+
+P1	Este é o Azizi. Azizi é o meu boneco.
+P2	Eu gosto do Azizi, porque ele está sempre sorrindo.
+P3	Assim que acordo, lavo o rosto. E rapidinho procuro pelo Azizi.
+P4	Assim que encontro o Azizi, penteio seu cabelo.
+P5	Quando tomo meu café da manhã, divido um pouco com o Azizi.
+P6	Quando como doces, também dou um doce para o Azizi.
+P7	Mas Azizi nunca come o doce que dou para ele. Não sei porquê!
+P8	Saio a caminhar pelo condomínio e pego algumas flores.
+P9	Dou uma flor para o Azizi. Mas ele nunca diz "Obrigado".
+P10	Dou banho no Azizi, antes que minha mãe me dê banho.
+P11	Visto o Azizi de vermelho, porque eu adoro a cor vermelha.
+P12	Quando vou dormir, Azizi deita ao meu lado.
+
+images:
+
+illustrations/pages/9361.png
+illustrations/pages/9355.png
+illustrations/pages/9356.png
+illustrations/pages/9357.png
+illustrations/pages/9358.png
+illustrations/pages/9359.png
+illustrations/pages/9361.png
+illustrations/pages/9360.png
+illustrations/pages/9362.png
+illustrations/pages/9363.png
+illustrations/pages/9365.png
+illustrations/pages/9366.png
+illustrations/pages/9368.png
+
+translations:
+
+Anii (Adaptation)	Asim, amabeebi	id=36517
+ChiNambya (Translation)	Bakani chidoli	id=39996
+Dholuo (Translation)	Doli Na Manyinge Azizi	id=9775
+Dhopadhola (Translation)	Azizi Dole Paran	id=15733
+Ekegusii (Translation)	Etoi Ekorokwa Azizi	id=9746
+English (Original)	Azizi the doll	id=9748
+French (Translation)	Azizi la poupée	id=10143
+Gikuyu (Translation)	Azizi Dolli Yakwa	id=9777
+isiNdebele (Translation)	Unompopi uThando	id=35241
+isiZulu (Translation)	U-Azizi unoNodoli	id=34909
+Kῖmῖῖrũ  (Translation)	Doli Azizi	id=32847
+Kinyarwanda (Translation)	Igipupe cyitwa Azizi	id=21065
+Lámnsoʼ (Translation)	Dòrbebí wóo Azizi	id=16448
+Luganda (Translation)	Dole Azizi	id=23330
+Lugwere (Translation)	Odole Omulyabwita	id=16112
+Lusoga (Translation)	Aziizi	id=25454
+Siswati (Translation)	Umdoli longu Azizi	id=34483
+Spanish (Translation)	El muñeco Azizi	id=35320
+Xitsonga (Translation)	Azizi wa ximpopi	id=34337

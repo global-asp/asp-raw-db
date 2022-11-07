@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=36469&d=0&a=1
+id:	36469
+title:	Se amable.
+author:	Aprende Leyendo
+artist:	Jesse Breytenbach, Kenneth Boyowa Okitikpi, Vusi Malindi and Salim Kasamba
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36469.png
+desc:	Esta es la historia que muestra que es bueno ayudar a la gente 
+
+page_text:
+
+P1	Tania y su esposo son educados, honran a dios y son respetuosos. Un día cuando están viajando a Cartagena de vacaciones, se encuentran con una niña llorando, y le preguntaron qué era el problema.
+P2	Ella les dijo que era huérfana y que su tío la saco de la casa. La pareja decidió llevarla a su casa y pagarle el colegio. La niña fue admitida a la universidad y después se graduó como piloto.
+P3	Cuando Tania se jubiló y su esposo murió, la niña huérfana le construyó una casa a Tania. También construyó un orfanato y un colegio para huérfanos para asegurarse que ellos también fueran al colegio.
+P4	Ella construyó el orfanato porque no quería que ellos atravesaran lo mismo que ella atravesó cuando era pequeña.
+P5	Porque ella quería que todo los niños tuvieran la oportunidad de ir al colegio y poder cumplir sus sueños, como ella.
+
+images:
+
+illustrations/pages/25265.png
+illustrations/pages/26777.png
+illustrations/pages/9850.png
+illustrations/pages/7977.png
+illustrations/pages/25564.png
+illustrations/pages/9853.png
+
+translations:
+
+English (Original)	Be Kind	id=35618

@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=34842&d=0&a=1
+id:	34842
+title:	Molaetsa wa lehukubu
+author:	Tshepiso Mogaswa
+artist:	Tshepiso  Mogaswa
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34842.png
+desc:	A o nagana gore bolehukubu ba siametse go romela melaetsa?
+
+page_text:
+
+P1	Gatwe e tsile bogologolo ga bo go le magosi a mabedi.@@Go na le kgosi ya kwa Borwa le ya kwa Bokone.
+P2	Magosi a a ne a dirisa phakalane go romelana melaetsa.
+P3	Ka letsatsi lengwe, kgosi ya kwa Bokone e ne ya romela molaetsa kwa kgosing ya kwa Borwa.
+P4	Lehukubu o ne a tsaya molaetsa mme a ya kwa go balelapa la gagwe. @@Ba ne ba buisa molaetsa o mmogo.
+P5	Kgosi ya kwa Bokone e ne e bega ntwa kgatlhanong le kgosi ya kwa Borwa. @@Balelapa la ga lehukubu ba buisanela kgang e mme ba tsaya tshwetso ya go fetola molaetsa.
+P6	Lehukubu o ne a fofa le go isa molaetsa o montšha kwa kgosing ya Borwa.
+P7	Molaetsa o montšha ware: A go rene kagiso fa gare ga rona.@@Kgosi a nyenya, mme a kwala molaetsa o tshwanang a o busetsa kwa kgosing ya Bokone.
+P8	Go fitlha tsatsing le a na, magosi a na le kagiso. @@Ga go na ope yo o itseng gore lehukubu o itse go buisa.
+
+images:
+
+illustrations/pages/93740223.png
+illustrations/pages/93740217.png
+illustrations/pages/93740218.png
+illustrations/pages/93740219.png
+illustrations/pages/93740220.png
+illustrations/pages/93740221.png
+
+translations:
+
+English (Original)	Raven's message	id=34414

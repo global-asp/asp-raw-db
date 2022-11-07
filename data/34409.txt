@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=34409&d=0&a=1
+id:	34409
+title:	Protéger notre environnement
+author:	Zanne Viljoen
+artist:	Rob Owen
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34409.png
+desc:	Une histoire qui montre comment les animaux et les humains peuvent vivre en harmonie.
+
+page_text:
+
+P1	Un jour, Roi Lion a convoqué tous les animaux à une grande réunion. Il voulait discuter comment ils pourraient protéger leur environnement.
+P2	Il y avait beaucoup d'animaux qui sont arrivés et le roi Lion leur a dit de se calmer.
+P3	Quand tout le monde était réuni, Lion a dit : "Mon peuple, écoutez bien."
+P4	"Nos ennemis coupent nos arbres et brûlent tous les arbustes. Qu'allons-nous faire ?"
+P5	"Garçons et filles, hommes et femmes, ils ruinent tous notre environnement. Comment @pouvons-nous @les empêcher de détruire @nos maisons ?"
+P6	Tous les animaux étaient tristes et inquiets.
+P7	Ils ont voté pour Éléphant, Buffle, Rhinocéros, et Aigle pour trouver une solution à ce problème.
+P8	Alors ces animaux ont décidé d'arrêter les humains qui coupaient leurs arbres.
+P9	Ils ont donc arrêté les brûleurs de charbon et les draineurs de marais. Ils ont arrêté les brûleurs de brousse, et même certains agriculteurs.
+P10	Ils les ont emmenés à une réunion avec les autres animaux.
+P11	Là, les animaux ont conclu un accord de paix avec les humains.
+P12	Une partie de la terre serait destinée aux animaux, et l'autre aux humains. À partir de ce jour, les animaux ne se soucient plus des actions des hommes.
+
+images:
+
+illustrations/pages/17162.png
+illustrations/pages/17152.png
+illustrations/pages/17153.png
+illustrations/pages/17154.png
+illustrations/pages/17155.png
+illustrations/pages/17156.png
+illustrations/pages/17157.png
+illustrations/pages/17158.png
+illustrations/pages/17159.png
+illustrations/pages/17160.png
+illustrations/pages/17161.png
+illustrations/pages/17162.png
+illustrations/pages/18414.png
+
+translations:
+
+English (Original)	Protect our environment	id=18413
+Jenjo (Translation)	Ba sining Si pa kulu vaba	id=33584
+Lugbarati (Translation)	Angu Ma Ta Mbaza	id=18416
+Lusoga (Translation)	Tukuume  obutonde  bwaife	id=27335
+Tiv (Translation)	Kura nen se Mkôngom	id=32802

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=36667&d=0&a=1
+id:	36667
+title:	Fire on the mountain
+author:	Tony Lelliott
+artist:	Abu  Shawca, Bernhard  Du Pont, Carolina  Odman, Christopher  Griner, Fynbos  Guy and Pule  KaJanolintshi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36667.png
+desc:	Fires happen every year on the mountain at Cape Town. Fires can kill the trees and animals which live there.
+
+page_text:
+
+P1	Have you been to Cape Town? @@This is a view of Cape Town from up on the mountain.
+P2	There are mountains around the city of Cape Town. @@Trees and plants live on the mountains.
+P3	Do you see the fire starting on the mountain? @@It starts with a tree and spreads through the trees.
+P4	Once the fire starts it is very difficult to stop, and can spread quickly.
+P5	The raging fire burns the grass. @@The fire licks at the tree roots and the smoke blows between their leaves.
+P6	After the fire has gone out, the land looks dry and burnt. @@Nothing looks alive.
+P7	But when the rains come, green leaves will spring up from the burnt grass and trees. @@There is life after all!
+P8	Fires can be very dangerous if they spread out of control. @@Always extinguish a fire if you light one.
+
+images:
+
+illustrations/pages/27956.png
+illustrations/pages/27948.png
+illustrations/pages/27957.png
+illustrations/pages/27960.png
+illustrations/pages/27959.png
+illustrations/pages/27961.png
+illustrations/pages/27954.png
+illustrations/pages/27958.png
+illustrations/pages/8667001319.png
+
+translations:
+
+English (Original)	Fire on the mountain	id=32179
+English (Adaptation)	Fire on the mountain	id=36111

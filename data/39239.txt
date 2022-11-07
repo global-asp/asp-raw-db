@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=39239&d=0&a=1
+id:	39239
+title:	Tandza ra mina
+author:	Tintswalo  Baloyi
+artist:	Tintswalo  Baloyi
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39239.png
+desc:	Xi vulavula hi huku leyi lavaka ku tshikela tandza kambe a yi swi tivi leswaku yi ta tshikelela kwihi laha ri nga ta va ri hlayisekile ku kondza yi tlhotlhorha.
+
+page_text:
+
+P1	Xana ndzi nga tshikela tandza ra mina kwihi?@@Ndzi nga tshikela ensinyeni?@@Ko! Ko! Ko! Ri ta wa ri fayeka.
+P2	Xana ndzi nga tshikela tandza ra mina kwihi?@@Ndzi nga tshikela elwangwini?@@Ko! Ko! Ko! Ri ta wa ri fayeka.
+P3	Xana ndzi nga tshikela tandza ra mina kwihi?@@Ndzi nga tshikela exirhapeni?@@Ko! Ko! Ko! Ri ta tsakama loko va cheleta.
+P4	Xana ndzi nga tshikela tandza ra mina kwihi?@@Ndzi nga tshikela exidan'wanini xa mati?@@Ko! Ko! Ko! Ri ta bola.
+P5	Xana ndzi nga tshikela tandza ra mina kwihi?@@Ndzi nga tshikela kwala rivaleni?@@Ko! Ko! Ko! Va ta ri teka vadya.
+P6	Ndzi kayakayile swi ringene.@@Ndzi vona xisaka lexi lulamisiweke.@@Ndzi ta tshikelela kona mandza ya mina. Ma ta hlayiseka.
+P7	Ndzhawu leyi yi hlayisekile.@@Ndzi ta fukamela mandza ya mina ku kondza ya tlhotlhorha.
+P8	Ndzi na swi kukwana swo tala swo saseka.@@Ndzi tsakile swinene.@@Ndzi swi hlayela masiku hinkwawo.
+
+images:
+
+illustrations/pages/6012001013.png
+illustrations/pages/6012001008.png
+illustrations/pages/6012001009.png
+illustrations/pages/6012001010.png
+illustrations/pages/6012001011.png
+illustrations/pages/6012001012.png
+illustrations/pages/6012001014.png
+illustrations/pages/6012001014.png
+illustrations/pages/6012001015.png
+
+translations:
+
+English (Original)	My Egg	id=38825

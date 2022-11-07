@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=36540&d=0&a=1
+id:	36540
+title:	HEUREUX MARDIS
+author:	Lucile  Athia
+artist:	Aisha  Muamba
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36540.png
+desc:	Cette histoire nous invite à savoir reconnaître et apprécier les bonnes choses de la vie.
+
+page_text:
+
+P1	Linda est une fille heureuse et active.@@Elle vit avec ses deux sœurs, son frère et sa mère.
+P2	Sa meilleure amie s'appelle Stacy. Ensemble elles se sentent en confiance et partagent tous leurs secrets.
+P3	Tous les mardis, Linda et Stacy vont au cinéma parce qu'il y a du popcorn gratuit.
+P4	Après le film, elles vont au parc et écoutent de la musique.@@Elles s'achètent une glace. Elles aiment beaucoup les glaces.
+P5	C'est un jour heureux pour Linda. Regarder un bon film, avec du popcorn gratuit.
+P6	Ensuite musique et glace au parc avec Stacy.
+P7	Les moments heureux ne durent pas toujours. Apprends à profiter de tes moments heureux…
+P8	… et des personnes avec qui tu les partages !
+
+images:
+
+illustrations/pages/27698.png
+illustrations/pages/27693.png
+illustrations/pages/27694.png
+illustrations/pages/27695.png
+illustrations/pages/27697.png
+illustrations/pages/27696.png
+illustrations/pages/27692.png
+illustrations/pages/27698.png
+illustrations/pages/27699.png
+
+translations:
+
+English (Original)	Happy Tuesdays	id=31985
+isiZulu (Translation)	OLwesibili benjabulo	id=32234
+Kiswahili (Translation)	Jumanne zenye furaha	id=31999
+Lingala (Translation)	Mokolo ya mibale ya esengo	id=32190
+Portuguese (Translation)	As Terças-feiras Felizes	id=32207

@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=36947&d=0&a=1
+id:	36947
+title:	My english Class
+author:	Tudor Ilade
+artist:	Tudor Ilade
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36947.png
+desc:	A book that is about an english class. It has the purpose to teach as many young students as possible.
+
+page_text:
+
+P1	I saw a lion!
+P2	I saw a farm!
+
+images:
+
+illustrations/pages/93741226.png
+illustrations/pages/93741224.png
+illustrations/pages/93741227.png
+
+translations:
+

@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=34087&d=0&a=1
+id:	34087
+title:	Watoto Wanapenda Kucheza
+author:	Keziah Badi
+artist:	Catherine Groenewald, Mlungisi Dlamini, Rob Owen, Sue Kramer and Wiehan de Jager
+lang:	Kiswahili
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34087.png
+desc:	Watoto wanafurahi kucheza michezo tofauti kulingana na umri wao. Soma hadithi hii uitambue michezo unayopenda kushiriki na marafiki. Children enjoy playing different games according to age. Read the story and find your favourite games and share with friends.
+
+page_text:
+
+P1	Watoto wanapenda kucheza mpira wa miguu.@@Children like playing football.
+P2	Mimi ninapenda kuruka kamba.@@I like skipping rope.
+P3	Wengine huchezea maji.@@Some play with water.
+P4	Farah na Juma wanapenda kukimbia.@@Farah and Juma like running.
+P5	Emy anapenda kuruka.@@Emy likes to jump.
+P6	Wengine wanapenda kuogelea.@@Some like swimming.
+P7	Zara na Izzo hucheza na kuku wakiwalisha chakula.@@Zara and Izzo like playing with hens as they feed them.
+P8	Watoto wengine wanapenda kucheza michezo ya harusi.@@Some children like to play wedding games.
+P9	Nina na Malaika wanapenda kucheza na doli.@@Nina and Malaika like to play with dolls.
+P10	Je, wewe? Unapenda kucheza?@@What about you? Do you like playing?
+
+images:
+
+illustrations/pages/13379.png
+illustrations/pages/13254.png
+illustrations/pages/1627.png
+illustrations/pages/1421.png
+illustrations/pages/19860.png
+illustrations/pages/1624.png
+illustrations/pages/9848.png
+illustrations/pages/11668.png
+illustrations/pages/6516.png
+illustrations/pages/1768.png
+illustrations/pages/1770.png
+
+translations:
+
+Amharic (Translation)	ህፃናት መጫወት ይወዳሉ	id=21175
+English (Original)	Children Like to Play	id=7259
+English (Adaptation)	Children  enjoy  playing	id=13610
+English (Adaptation)	Children	id=34088
+Luganda (Translation)	Abana bagala nyoo okuzanya	id=24266
+Lunyole (Translation)	Abaana Benda Ohugudula	id=13609
+Runyoro (Translation)	Abaana abato banyumirwa kuzana emizano	id=24162
+Spanish (Translation)	A los niños les gusta jugar	id=36472

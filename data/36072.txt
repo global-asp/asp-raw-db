@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=36072&d=0&a=1
+id:	36072
+title:	Annoying mosquito
+author:	Doma DEDF
+artist:	Magriet Brink
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36072.png
+desc:	We all know the sound the mosquito makes as it buzzes in the night. Such a tiny insect but such a big pest!
+
+page_text:
+
+P1	Knock! Knock!
+P2	"Who is there?" I ask sleepily.
+P3	"It is me," a shrill voice says.
+P4	"Who is 'me'?" I ask.
+P5	"I told you,  it is o-n-l-y m-e," the same voice says.
+P6	"I don't know anyone called,  'o-n-l-y m-e'," I reply. I check that my mosquito net is tucked in around my bed.
+P7	"Well,  my name is Amos." The voice sounds more shrill than before. It is very close to my ear.
+P8	"Amos who?" I ask as I look under the net.
+P9	"Amos Quito," the voice finally says. I feel a bite on my ear.
+P10	"Ouch!" I jump up and begin to search. "You will pay for this!" I shout.
+P11	Angrily,  I get out of bed and switch on the light.
+P12	I declare war on the annoying Amos Quito!
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+Afrikaans (Translation)	Muskietejag	id=37401
+English (Original)	Annoying mosquito	id=14893
+French (Translation)	Moustique gênant	id=33335
+Kiswahili (Translation)	Mbu msumbufu	id=21635
+Luganda (Translation)	Wansili anyiiza	id=22989
+Lusoga (Translation)	Ensiri enhiiza	id=25729
+Setswana (Translation)	Monang o o tshwenyang	id=14964
+Spanish (Translation)	Mosquito molesto	id=35728
+Tshivenḓa (Translation)	Lunyunyu lu sinyusaho	id=37289
+Xitsonga (Translation)	Nsuna yo dzindela	id=37110

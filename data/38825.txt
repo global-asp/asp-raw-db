@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=38825&d=0&a=1
+id:	38825
+title:	My Egg
+author:	Tintswalo  Baloyi
+artist:	Tintswalo  Bellah
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38825.png
+desc:	This story is about a hen looking for the safest place to lay her eggs. The story words include repeated questions
+
+page_text:
+
+P1	Where can I lay my egg? Can I lay it in a tree?@@Cluck! Cluck! Cluck! It will fall and break!
+P2	Where can I lay my egg? Can I lay it on the roof?@@Cluck! Cluck! Cluck! It will fall and break!
+P3	Where can I lay my egg? Can I lay it in the garden?@@Cluck! Cluck! Cluck!  It will get wet when they water the plants!
+P4	Where can I lay my egg? Can I lay it in the pool?@@Cluck! Cluck! Cluck! It will rot!
+P5	Where can I lay my egg? Can I lay it in the yard?@@Cluck! Cluck! Cluck! They will take it and eat it!
+P6	I have been looking for a place to lay my eggs. I am tired.@@I see a nest there. I will lay all my eggs in it!
+P7	This place is safe.@@I will nurse the eggs right here until they  hatch!
+P8	Now, I have six beautiful chicks.@@I am very happy.@@I count them every day!
+
+images:
+
+illustrations/pages/6012001013.png
+illustrations/pages/6012001008.png
+illustrations/pages/6012001009.png
+illustrations/pages/6012001010.png
+illustrations/pages/6012001011.png
+illustrations/pages/6012001012.png
+illustrations/pages/6012001014.png
+illustrations/pages/6012001014.png
+illustrations/pages/6012001015.png
+
+translations:
+
+Xitsonga (Translation)	Tandza ra mina	id=39239

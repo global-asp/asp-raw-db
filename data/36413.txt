@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=36413&d=0&a=1
+id:	36413
+title:	Luisa y su mamá en el mercado
+author:	Aprende Leyendo
+artist:	Silva Afonso
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36413.png
+desc:	Luisa y su mamá quieren preparar una comida saludable. Van al mercado a comprar lo que necesitan ¿Qué necesitaran comprar para cocinar?
+
+page_text:
+
+P1	Luisa y su mamá van al mercado. "Mamá ¿puedes comprar dulces?" dijo Luisa. "Compraremos lo necesario para hacer una buena comida, una comida saludable," respondió su mamá.
+P2	"¿Solo compraremos comida saludable?" dijo Luisa. "Exacto. Primero compraremos harina para hacer arepas" dijo la mamá. "Yo sé. La arepa nos da fuerza y energía," dijo ella
+P3	Compraron la harina. Luisa vio nueces. "Mamá, hay nueces ¿Vamos a comprar nueces?" preguntó. "Sí" respondió la mamá: "Las nueces ayudan a nuestros huesos y músculos."
+P4	Compraron las nueces. Luisa ve una tortilla: "Mamá ¿las tortillas son buenas?" "Sí, pero ahora tenemos que comprar espinaca para la comida," dijo Mamá.
+P5	Luisa encuentra la espinaca y se la muestra a su mamá. Su mamá explica: "La espinaca nos ayuda a defender nuestros cuerpos de resfriados y otras enfermedades."
+P6	"¿Es por eso que hacemos torta de espinaca seguido?" pregunta Luisa. "¡Sí! necesitamos más comida para protegernos de enfermedades como tomate y zanahoria," dijo la mamá.
+P7	"¿Para nuestros huesos y músculos solo comemos nueces?" preguntó Luisa. "También compraremos pollo," dijo su mamá. Mientras tanto, Luisa vio batatas. Ella ama las batatas.
+P8	"Mamá ¿comprarás batatas? preguntó Luisa. "¡Mi profesora dice que son muy saludables!". Mamá sonrié: "Es cierto. Te dan energía y vitaminas, y son ricas. Compremoslas!"
+P9	
+
+images:
+
+illustrations/pages/14025.png
+illustrations/pages/14026.png
+illustrations/pages/14027.png
+illustrations/pages/14028.png
+illustrations/pages/14029.png
+illustrations/pages/14030.png
+illustrations/pages/14031.png
+illustrations/pages/14032.png
+illustrations/pages/14033.png
+illustrations/pages/14034.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+English (Translation)	Luisa and Her Mother at the Market	id=14935
+Lusoga (Translation)	Loovinsa ni Maamawe baja mu Katale	id=31669
+Portuguese (Original)	A Luísa E a Mãe No Mercado	id=14899

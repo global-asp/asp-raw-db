@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=36408&d=0&a=1
+id:	36408
+title:	El gato astuto y el perro bobo
+author:	Aprende Leyendo
+artist:	Salim Kasamba
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36408.png
+desc:	¿Es más inteligente el gato que el perro?
+
+page_text:
+
+P1	Hace mucho tiempo, había un gato inteligente y un perro bobo. @@El gato vivía bien en la casa de una familia rica. El perro bobo estaba famélico en la calle.
+P2	"¿Cómo es que esta familia tan rica te permite vivir en su casa?" le preguntó bravo el perro bobo al gato inteligente.
+P3	El gato inteligente le respondió: "He vivido con esta gente porque soy organizado y limpió mi desorden. Pido comida diciendo, miau".
+P4	"Y si yo hago lo mismo ¿me permitirían vivir en una casa?" preguntó el perro. @@El gato respondió: "Sí, has lo que te dije y ellos te dejaran vivir en la casa. Te darán comida".
+P5	El perro bobo dijo: "No te lastimaré hoy". @@"Esta vez casi me atrapa. No quiero encontrármelo nuevamente" dijo el gato yéndose saltando.
+P6	Siguiendo el consejo del gato, el perro bobo ladró duro en la puerta de la casa.
+P7	Los dueños de la casa le pegaron con un palo. @@"El gato me engaño. Me lo voy a comer cuando lo vea" gritó el perro bobo.
+P8	Mientras el gato estaba jugando afuera de su casa, el perro lo atrapó. @@El dijo: "La última vez me engañaste. Me dijiste que les ladrara en la puerta de su casa. Los dueños me pegaron. Ahora te voy a comer".
+P9	" Mira perro, me puedes comer, pero déjame jugar primero. Así como cuando yo le permito jugar a la rata antes de comérmela" respondió el gato inteligente.
+P10	El perro preguntó: "¿Cómo juega la rata?"@@El gato respondió: "Yo la voy dejando ir poco a poco y le digo que vaya contando hasta tres, mientras la rata está contanto la atrapo"
+P11	El perro bobo liberó al gato y le dijo que contara hasta tres. @@El gato inteligente contó hasta tres y se subió a un árbol. @@"Bájate de ese árbol y cuenta hasta tres" dijo el perro.
+P12	El gato inteligente respondió: "Escucha perro, tu nunca me vas a atrapar nuevamente. Yo no soy bobo. Puedes contar hasta cien, mil o un millón, pero nunca me volverás a atrapar!"
+
+images:
+
+illustrations/pages/25483.png
+illustrations/pages/25473.png
+illustrations/pages/25474.png
+illustrations/pages/25475.png
+illustrations/pages/25476.png
+illustrations/pages/25477.png
+illustrations/pages/25478.png
+illustrations/pages/25479.png
+illustrations/pages/25480.png
+illustrations/pages/25481.png
+illustrations/pages/25482.png
+illustrations/pages/25483.png
+illustrations/pages/25484.png
+
+translations:
+
+English (Translation)	Clever cat and foolish dog	id=21708
+Kinyarwanda (Translation)	Injangwe y'inyaryenge n'imbwa y'injiji	id=32154
+Kiswahili (Translation)	Paka mwerevu na Mbwa mjinga	id=22065
+Luganda (Translation)	Wakkapa omugezi ne Wambwa omusiru	id=24095
+Lusoga (Translation)	Pusi omugezi ni Wambwa omudagadu	id=25571
+Tigrigna (Original)	ጐራሕ  ድሙን   ዓሻ  ከልብን	id=21705

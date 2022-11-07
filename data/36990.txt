@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=36990&d=0&a=1
+id:	36990
+title:	Bushi ə ghom ye?
+author:	Celestine  Tabong
+artist:	Bronwen Heath
+lang:	Babanki
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/36990.png
+desc:	Bushi ə ghom ə le li. Wìʼ ə be yen li a kəshi?
+
+page_text:
+
+P1	Bushi ə ghom ye?
+P2	Ghə be diʼ a chukwen?
+P3	Ghə diʼi a kwi kəfo a və baʼa kaŋ tsu mu?
+P4	Ghə be diʼ a bam ə kəkɨ kəshəʼtəkə?
+P5	Ghə boʼsə a kəshi a və maʼa fo tsu mu?
+P6	Ghə be diʼ a ti nkyè?
+P7	Ghə be diʼ a kəbəŋ?
+P8	Ghə ghèn!
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+Anii (Adaptation)	Ŋka na aŋganyaʊ ga ɖa ?	id=39164
+ChiNambya (Translation)	Kayipi kangowe kangu?	id=32629
+English (Original)	Where is my cat?	id=32620
+English (Adaptation)	Where is my cat? (With activities)	id=37008
+French (Adaptation)	Où est mon chat?	id=39165
+Kinyarwanda (Translation)	Ipusi yange iri hehe?	id=32621
+Kiswahili (Translation)	Wapi paka wangu?	id=32636
+Kom (Translation)	Bès ɨ̀ yem bà?	id=40155
+Oshikwanyama (Translation)	Okambishi kange oke lipeni?	id=37047
+Pokomo (Translation)	Ayu mpaka jwangu kaakuu?	id=33506
+Yoruba (Translation)	Níbo ní ológbò mi wà?	id=33126

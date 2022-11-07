@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=34117&d=0&a=1
+id:	34117
+title:	Des proverbes du peuple Nyungwe
+author:	Stefanie Zaske
+artist:	Max  Okoto
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34117.png
+desc:	Des sagesses traditionnelles du peuple Nyungwe de Mozambique
+
+page_text:
+
+P1	Pour tuer un babouin, il faut avoir les yeux secs.
+P2	Le chien qui aboie ne mord pas.
+P3	Quand les hippopotames se battent, c'est l'herbe qui souffre.
+P4	Le poussin salit son nid, car il voit sa maman le faire.
+P5	Ne dis pas que tu voies un éléphant si tu es sur mes épaules.
+P6	La grenouille et le crapaud sont tous les deux nés de la même manière.
+P7	Un seul ongle ne peut pas tuer une puce.
+P8	Le lion qui n'a pas de viande mange de l'herbe.
+P9	C'est la petite chèvre à la fin du troupeau qui reçoit les coups de bâton.
+P10	Tu as peur du noir même s'il n'y a pas de hyènes.
+P11	La honte fait mourir le caméléon.
+P12	Pour voir les yeux d'un escargot, il faut savoir attendre.
+P13	Tu peux rire de la tortue, mais c'est elle qui a de l'eau.
+P14	C'est le visiteur qui tue le serpent.
+P15	L'hyène qui crie dans les champs ne mange pas le mil.
+P16	Le lion qui mange les hommes ne sort pas la nuit.
+
+images:
+
+illustrations/pages/28152.png
+illustrations/pages/28156.png
+illustrations/pages/28154.png
+illustrations/pages/28159.png
+illustrations/pages/28153.png
+illustrations/pages/28155.png
+illustrations/pages/28167.png
+illustrations/pages/28157.png
+illustrations/pages/28163.png
+illustrations/pages/28158.png
+illustrations/pages/28161.png
+illustrations/pages/28152.png
+illustrations/pages/28164.png
+illustrations/pages/28166.png
+illustrations/pages/28165.png
+illustrations/pages/28160.png
+illustrations/pages/28162.png
+
+translations:
+
+Cinyungwe (Original)	Mimwani ya Anyungwe	id=32362
+English (Translation)	Proverbs of the Nyungwe People	id=33183
+Kiswahili (Translation)	Methali za jamii ya Nyungwe	id=34030
+Pidgin English (Nigeria) (Translation)	Proverb wey com from Nyungwe pipo land	id=36283
+Portuguese (Translation)	Provérbios do Povo Nyungwe	id=33184

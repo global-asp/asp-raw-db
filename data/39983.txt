@@ -1,0 +1,77 @@
+url:	https://africanstorybook.org/reader.php?id=39983&d=0&a=1
+id:	39983
+title:	O dia da Abike
+author:	Cristina da Costa
+artist:	Catherine Groenewald
+lang:	Portuguese
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39983.png
+desc:	Esta história sobre matemática explora a multiplicação
+
+page_text:
+
+P1	A Abike estava deitada na sua esteira. Estava a ouvir a sua mãe a contar-lhe uma das suas histórias favoritas.@  @A história era sobre as mulheres da sua aldeia que são conhecidas por fazerem belas esteiras e cestos.@  @O presente mais precioso da Abike era a esteira para dormir que a sua avó fez para o seu 10º aniversário.
+P2	Quando a Abike se levantou, a sua mãe quis arrumar a esteira. @@"Ainda não mamã! Vamos observar as cores e as formas juntas", disse a Abike. @  @ A Abike disse as cores das filas, de cima para baixo, "Rosa, rosa, verde, verde, azul, azul, rosa, rosa, verde, verde". @  @Consegues ver quando muda o padrão na esteira?
+P3	A Abike estendeu a esteira. A maioria das formas eram rectangulares, com alguns quadrados também. "Conheço uma forma rápida de calcular quantas formas existem no total", disse a Abike.@@"Não se conta cada forma, apenas se conta o número de formas numa fila". @  @Sabes como é que a Abike conta as formas?@@Quantas formas há no total?
+P4	A Abike tinha outra esteira mais pequena onde se costumava sentar no chão lá fora.  @@Esta esteira só tinha rectângulos. @@Quantos rectângulos é que a Abike cobre com o seu corpo? @@Quantos rectângulos não estão cobertos?@@Consegues usar a forma rápida da Abike para determinar quantos rectângulos a esteira tem no total?
+P5	Uma manhã, a Abike foi visitar a avó. No poço, viu as mulheres a irem buscar água em baldes que levavam na cabeça.@@Ela começou a pensar quantos litros de água teria cada balde. @@O que tu achas?
+P6	A Abike foi a casa da avó. "Que bela surpresa Abike! Olha este cesto novo que eu fiz. Gostas?" - perguntou a avó.@@"Gosto das cores, mas as formas são demasiado afiadas e pontiagudas", respondeu a Abike.@  @Como copiarias o padrão do cesto?@ @As formas são como um quadrado ou um rectângulo ou outra forma?
+P7	No caminho para casa, a Abike perdeu-se. Ela não tinha a certeza onde estava, por isso sentou-se debaixo de uma árvore para descansar.@@Abike olhou para cima, olhando fixamente para as folhas a dançar nos ramos. Havia padrões de luz e sombra à sua volta. @@Logo ela caiu num sono  profundo.
+P8	Quando acordou, teve medo. Queria estar em casa com a sua mãe, a descansar na sua esteira. @@Então, um pequeno pássaro azul pousou na árvore. "Olá, não te preocupes, eu posso ajudar-te a chegar a casa. Segue-me", chilreou. @@A Abike ficou surpreendida ao ouvir um pássaro a falar.
+P9	A Abike seguiu facilmente o pássaro pelo caminho até chegar a uma bifurcação. O caminho dividia-se em duas direcções diferentes, uma para a esquerda e outra para a direita. Qual o caminho que ela deveria seguir?@  @A Abike olhou para cima. Seria possível? O pássaro tinha um pedaço da sua esteira no bico! @  @Voou sobre o caminho do lado direito e deixou cair o pedaço da esteira. Depois o pássaro voou para longe.
+P10	Abike seguiu o caminho ao longo da colina.@  @Ela ouviu as gargalhadas e os cânticos das pessoas da sua aldeia. @@A Abike estava feliz por estar em casa e em segurança.
+P11	A mãe da Abike estendeu a esteira e deu-lhe uma tigela de comida para comer.@@A Abike começou a contar os quadrados só para se certificar de que ainda estavam todos lá.@@Enquanto contava, ela teve a certeza de ter visto um pedaço da esteira que tinha sido retirado e colocado de novo.@  @Portanto, ela não estava a sonhar! Afinal, o pequeno pássaro azul era real!
+
+images:
+
+illustrations/pages/6007.png
+illustrations/pages/25359.png
+illustrations/pages/25360.png
+illustrations/pages/25361.png
+illustrations/pages/25362.png
+illustrations/pages/25363.png
+illustrations/pages/25364.png
+illustrations/pages/25365.png
+illustrations/pages/25366.png
+illustrations/pages/25367.png
+illustrations/pages/25368.png
+illustrations/pages/25369.png
+
+translations:
+
+Afrikaans (Translation)	Abike se dag	id=21977
+Amharic (Translation)	የአካይ ልዩ ምንጣፍ	id=37724
+ChiChewa (Translation)	Tsiku la Abike	id=37947
+English (Original)	Akai's special mat	id=6008
+English (Adaptation)	Abike's day	id=21453
+English (Adaptation)	Asiimwe's special mat	id=31293
+English (Adaptation)	Asiimwe's special mat	id=31307
+French (Translation)	La Natte Spéciale D'Akai	id=9301
+French (Translation)	Akai Et Sa Natte Spéciale	id=10137
+Fulfulde (Translation)	Daago Nyeenyungo  Ngo Rakiya	id=10013
+isiNdebele (Translation)	Ilanga lakaKhabo	id=21461
+isiZulu (Translation)	Usuku lukaZinhle	id=21458
+Kanuri (Translation)	Buji Masamanne Nanaye	id=10040
+Kinyarwanda (Translation)	Keza n'akarago ke	id=33340
+Kiswahili (Translation)	Mkeka wa Akai	id=7860
+Kiswahili (Translation)	Siku ya Betina	id=23105
+Lámnsoʼ (Translation)	Ghám Akai Ye Tayíné	id=15057
+Luganda (Translation)	Omukeeka Gwa Nakaayi Ogwenjawulo	id=8273
+Lugbarati (Official) (Translation)	Atako Vɨ́lé Àfa Gèrì E'daápɨ Rɨ̀	id=8781
+Lumasaaba (Translation)	Lusaamba lwa Kakayi lwa buraawa	id=8272
+Lunyole (Translation)	Omukeeka Gwa Akai Omutoongole	id=8396
+Lusoga (Translation)	Olunaku lwa Takia	id=25684
+Lusoga (Translation)	Omukeeka gwa Akaali	id=26254
+Maa (Translation)	Esos E Naserian	id=7858
+Ng’aturkana (Translation)	Akapet Nabekot Na Akai	id=7038
+Oluwanga (Translation)	Liyambo Lia Akai	id=8271
+Portuguese (Translation)	O Tapete Especial De Akai	id=16096
+Runyoro-Rutooro (Translation)	Omukeeka gw'Asiimwe ogw'embaganiza	id=31306
+Sepedi (Translation)	Legogo la Akai leo le kgethegilego	id=7493
+Sepedi (Translation)	Moseme O Itsheng Wa Akai	id=10697
+Sesotho (South Africa) (Translation)	Letsatsi la Atlehang	id=21466
+Setswana (Translation)	Moseme wa ga Akai o o kgethegileng	id=7772
+Siswati (Translation)	Imadi yaThembi lebalulekile	id=13073
+Siswati (Translation)	Lilanga la-Abike	id=21455
+Zarma (Translation)	Akay Tangaraa Kaŋ Ga Maamaacandi	id=10104

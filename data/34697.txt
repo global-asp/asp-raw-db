@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34697&d=0&a=1
+id:	34697
+title:	Isigubhu sikaMagezi
+author:	Thulile Gumede
+artist:	Simangaliso Sibiya, Hlekane Paulinah Baloyi and Hlekane Paulina Baloyi
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34697.png
+desc:	UMagezi wayedlala isigubhu sakhe kuthuleke cwaka.
+
+page_text:
+
+P1	UMagezi wayeqala asishaye kancane isigubhu sakhe esinombala omnyama nomhlophe.
+P2	Abantwana babeqoqana, bacule behambisana nesigubhu.
+P3	Bacula, "Ikasi Masingatani i nkata mani? I nkata mfana kuloni."
+P4	Omama bayadansa bazungeze ngenxa yesigubhu sikaMagezi.
+P5	Obaba baginqike emhlabathini, baye phansi naphezulu, benanela isigubhu sikaMagezi.
+P6	Omama banyakazise izinqe futhi balilizele. Wonke umuntu uyasithanda isigubhu sikaMagezi.
+P7	UMdungwazi agingqe amehlo akhe enze nemidanso ehlekisayo.
+P8	Obaba bashaya amakhwela futhi benqekuzise namakhanda behambisana nesigumbhu sikaMagezi.
+
+images:
+
+illustrations/pages/77960300.png
+illustrations/pages/77960301.png
+illustrations/pages/77960302.png
+illustrations/pages/77960303.png
+illustrations/pages/77960304.png
+illustrations/pages/77960305.png
+illustrations/pages/77960306.png
+illustrations/pages/77960307.png
+illustrations/pages/77960308.png
+
+translations:
+
+English (Original)	Magezi's drum	id=33937
+Xitsonga (Translation)	Xigubu xa Magezi	id=34678

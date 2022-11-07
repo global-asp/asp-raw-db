@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34707&d=0&a=1
+id:	34707
+title:	Avonture deur Suid-Afrika
+author:	Yolanda Buqwini
+artist:	Chantel  Botha
+lang:	Afrikaans
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34707.png
+desc:	n Dogter wat deur Suid-Afrika reis om die land se provinsies te leer ken.
+
+page_text:
+
+P1	Chanri en Boipelo gaan op 'n avontuur deur Suid-Afrika. @@Hulle begin in Kimberley, Noord-Kaap. @@In  Kimberley ontdek hulle die Groot Gat.
+P2	Tjoeke paf, toet-toet, reis hulle na Kaapstad in die Wes-Kaap.  @@Chanri en Boipelo pluk heerlike druiwe op die plaas.
+P3	Tjoeke paf, toet-toet, oppad na Bhisho in die Oos-Kaap.  @@Die twee maats het baie pret in die Olifantspark.
+P4	Tjoeke paf, toet-toet, ry hulle deur die Vrysaat. @@Die  twee maats bewonder Bloemfontein se pragtige rose.
+P5	Oppad na Mahikeng, in die Noordwes, ontmoet hulle  vir Rina, die renoster.@@Die maats is haastig oppad na Polokwane, Limpopo.
+P6	Toet-toet!  Hulle is laat. Die  trein stop nie in Johannesburg, Gauteng nie.@@Hulle sien net baie motors en mense in die besige stad.
+P7	Tjoeke paf, toet-toet reis  hulle na Emalahleni, Mpumalanga. @@Hulle besoek die steenkool fabriek, wat  brandstof voorsien vir hulle  trein.
+P8	Chanri and Boipelo se  avontuur eindig in Pietermaritzburg, KwaZulu-Natal.@@Hulle deel stroopsoet piesangs met hulle maats en  gesels oor hulle avontuur deur Suid-Afrika. @@Kan jy al die provinsies met hul hoofstede noem?
+
+images:
+
+illustrations/pages/93740287.png
+illustrations/pages/93740280.png
+illustrations/pages/93740282.png
+illustrations/pages/93740284.png
+illustrations/pages/93740281.png
+illustrations/pages/93740283.png
+illustrations/pages/93740285.png
+illustrations/pages/93740286.png
+illustrations/pages/93740287.png
+
+translations:
+
+English (Original)	Adventure around South Africa	id=34655
+Setswana (Translation)	Loeto go ralala Aforika Borwa	id=34714
+Tshivenḓa (Translation)	Lwendo lu takadzaho lwa u mona Afurika Tshipe	id=37027
+Xitsonga (Translation)	Ku valanga Afrika-Dzonga	id=37107

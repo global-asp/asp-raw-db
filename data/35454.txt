@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=35454&d=0&a=1
+id:	35454
+title:	Zano Hombe Rekasvosve
+author:	Patience  Maganga and Precious  Gumbo
+artist:	Steven McKimmie
+lang:	ChiShona
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35454.png
+desc:	This is a story about a little ant with a big plan
+
+page_text:
+
+P1	Kasvosve kaifarira kuverenga. Kasvosve kaigara kachisekwa nevamwe. "Masvosve haaverengi. Masvosve anofanira kudya. Masvosve anounganidza chikafu chaanozoda."
+P2	Kasvosve kaigara verenga mazuva ese, aiverenga kusvika zuva rapera.
+P3	Mamwe masvosve aiwunganidza chikafu ocherera pasi kuitira muchando.
+P4	Amai nababa vake vakatsamwa zvikuru, uye kasvosve kakabatikana zvikuru.
+P5	Panguva miti paino adonhedza mashizha, masvosve anofanirwa kuchengeta chikafu pasi.
+P6	Mambokadzi anoda kuzodza matura, naizvozvo masvosve anofanirwa kuramba achishanda.
+P7	Kasvosve anotanga kudeedzera pamusoro penzvimbo yaakaverenga nezvayo. "Nzvimbo yokudyira ndiyo yatinoda, kunoenda vanhu vachinodya. Zvinotaurwa kudaro mumabhuku andinoverenga."
+P8	Masvosve anotanga kufamba rimwe ne rimwe. Anofamba akananga kunovirira zuva.
+P9	Kasvosve kanobva kati, "Heyiii, imwe iyo!"
+P10	Masvosve anotanga kafumba rimwe ne rimwe, akabata bhega nemabhanzi.
+P11	Pavanodzoka Mambokadzi anofara zvikuru. Matura azara. Vanopembera zvikuru.
+P12	Kasvosve kanombundikirwa na amai nababa vake.
+P13	Hanzvadzi yake inomubata ruoko, "Ndinofunga ndakunzwisisa zvino. Nzira yuanofarira kuverenga mabhuku inondiita ndidewo kumatarisa."
+
+images:
+
+illustrations/pages/15443.png
+illustrations/pages/15444.png
+illustrations/pages/15445.png
+illustrations/pages/15446.png
+illustrations/pages/15447.png
+illustrations/pages/15448.png
+illustrations/pages/15449.png
+illustrations/pages/15450.png
+illustrations/pages/15451.png
+illustrations/pages/15452.png
+illustrations/pages/15454.png
+illustrations/pages/15455.png
+illustrations/pages/15457.png
+illustrations/pages/15458.png
+
+translations:
+
+Afrikaans (Translation)	Klein Miertjie se groot plan	id=21532
+English (Original)	Little Ant's big plan	id=15459
+isiNdebele (Translation)	Iqhinga lakaTjhontjhwani	id=21533
+isiXhosa (Translation)	Amalungiselelo amakhulu eMbovane Encinane	id=21425
+isiZulu (Translation)	Icebo elikhulu likaNtuthwane Omncane	id=21534
+Kabuverdianu (Translation)	Planus di un Furminginha	id=31994
+Lusoga (Translation)	Ntegeka eya Kasimizi Mbbedde	id=20218
+Sepedi (Translation)	Leano le legolo la Ngwana Tšhošane	id=21535
+Sesotho (South Africa) (Translation)	Leano le leholo la Bohlwanyana	id=21645
+Setswana (Translation)	Leano le legolo la Tshoswane	id=21536
+Siswati (Translation)	Lisu lelikhulu laNtfutfwane Lomncane	id=21537
+Tshivenḓa (Translation)	Maano Mahulu A Lusunzi	id=21538
+Xitsonga (Translation)	Kungu Lerikulu Ra N'warisokotinyana	id=21539

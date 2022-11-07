@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=39333&d=0&a=1
+id:	39333
+title:	Bobby e a wela
+author:	Salome  Ledwaba
+artist:	Martin  Letsoalo
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39333.png
+desc:	Bobby e kitimiša mmutla gomme ya wela ka moleteng o mogolo.
+
+Puku ye ya padišo e hlamilwe ka 2022 bjalo ka ka karolo ya project ya tšhomišano go akaretša Puku ya padišo ya Afrika
+
+page_text:
+
+P1	Ye ke mpša ya ka. Leina la yona ke Bobby.@@Ke mpša ya go tsoma.
+P2	Bobby e rata go tsoma diphoofolo tše nnyane.@@E rata gape le go bapala bjeanyeng bjo botelele.
+P3	Ka Mokibelo o mongwe, Bobby e ile ya sepela e nnoši go yo tsoma.@ @E ile ya bona mmutla o kotame godimo ga leswika.@@Ya thoma go rothiša mare.
+P4	Mmutla o ile wa bona Bobby o e lebeletše. @@Wa tšhaba ka lebelo.
+P5	Bobby ya kitimiša mmutla.@@E be e naganne fela ka go ja mmutla.@@E be e  sa bone molete o mogolo ka pele.
+P6	Bobby ya wela ka moleteng o mogolo. @@Mmutla wa tšwela pele ka go tšhaba.
+P7	Bašemane ba babedi ba kwa Bobby e goba, "Hawu! Hawu! Hawu!"@@Ba kitimela moleteng o mogolo go e thuša.
+P8	"E boima!" bašemane ba lla.@@Ba ile ba kgona go ntšha Bobby ka moleteng.@@E be e thabile kudu.
+
+images:
+
+illustrations/pages/6012001056.png
+illustrations/pages/6012001056.png
+illustrations/pages/6012001057.png
+illustrations/pages/6012001058.png
+illustrations/pages/6012001059.png
+illustrations/pages/6012001060.png
+illustrations/pages/6012001061.png
+illustrations/pages/6012001062.png
+illustrations/pages/6012001063.png
+
+translations:
+
+Amharic (Translation)	ቦቢ ወደቀ	id=39464
+English (Original)	Bobby Falls	id=38843

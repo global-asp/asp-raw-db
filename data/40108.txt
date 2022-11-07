@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=40108&d=0&a=1
+id:	40108
+title:	The Scardy Animals
+author:	Brentlee Newkirk
+artist:	Wiehan de Jager
+lang:	0
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40108.png
+desc:	This Animals Are Scared When It Comes To Themselfs
+
+page_text:
+
+P1	There was a bunny who was scared of a chicken
+P2	There was a dog who was scared of bunny and chicken
+P3	There was a horse who was scared of dog and bunny and chicken
+P4	There was a donkey who was scared of horse and dog and bunny and chicken
+P5	There was a cow who was scared of donkey and horse and dog and bunny and chicken
+
+images:
+
+illustrations/pages/7605.png
+illustrations/pages/7597.png
+illustrations/pages/7599.png
+illustrations/pages/7601.png
+illustrations/pages/7603.png
+illustrations/pages/7605.png
+
+translations:
+

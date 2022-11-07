@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=35285&d=0&a=1
+id:	35285
+title:	Ndiziva ndindedwa
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35285.png
+desc:	How do you cope with feeling alone during lockdown?
+
+page_text:
+
+P1	Ndidiniwe kukuhlala endlini imini yonke.@@Ndiyazikhumbula izihlobo zam.@@Ngumnqweno wam ukuba singaphuma phandle sidlale.
+P2	Inye into endiyivayo yile ntsholongwane yeCorona!@@Ndinqwenela ukuba ihambe!
+P3	Masidlale ngezinto zethu zokudlala.@@Umama uthi ukuba sihlala endlini, uThixo uzokusinceda asikhusele.
+P4	Umnumzana Khumalo uyagula.@@Kuye kwafuneka ukuba aye esibhedlele.@@Masimthandazele ngoku.
+P5	Nkosi Yesu, nceda uphilise uMnumzana Khumalo.@@Sikhusele kulentsholongwane yeCorona.@@Enkosi ngokubanathi xa siziva sisodwa sisoyika. Amen.
+P6	"Nokuba ndihamba emfuleni wethunzi lokufa, Andiyi koyika bubi, ngokuba ùnam wena."@@IiNdumiso 23:4@@(Bible in isiXhosa 1859/1975 © BSSA 1975)
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740452.png
+illustrations/pages/93740440.png
+illustrations/pages/93740447.png
+illustrations/pages/93740451.png
+illustrations/pages/93740444.png
+illustrations/pages/93740445.png
+
+translations:
+
+Afrikaans (Translation)	Ek voel bekommerd	id=35796
+English (Original)	I Feel Alone	id=35221
+English (Adaptation)	I feel worried	id=35252
+Kiswahili (Translation)	Nina wasiwasi	id=35279
+Otuho (Translation)	Abotihino nî	id=35492
+Spanish (Translation)	Me siento preocupado	id=36331
+Tiv (Translation)	Zam Iyol	id=35558
+TjiKalanga (Translation)	Andizogadzikana	id=35258
+TjiKalanga (Translation)	Ndozwiwha ndili ndoga	id=35260

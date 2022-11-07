@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=39821&d=0&a=1
+id:	39821
+title:	Galeema
+author:	Galeema Lillah
+artist:	Wiehan de Jager and Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39821.png
+desc:	This story is about a dog that is big and it only has 2 pages
+
+page_text:
+
+P1	This is a dog
+P2	This is a big dog
+
+images:
+
+illustrations/pages/7597.png
+illustrations/pages/7966.png
+illustrations/pages/1499.png
+
+translations:
+

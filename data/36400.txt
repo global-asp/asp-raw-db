@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=36400&d=0&a=1
+id:	36400
+title:	Esperando a bebé
+author:	Aprende Leyendo
+artist:	Catherine Groenewald
+lang:	Spanish
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36400.png
+desc:	Una historia de matemáticas. La mamá de Tati ha ido al hospital a tener su bebé. Las matemáticas desarrolladas en esta historia se concentran en las medidas: en la longitud de metros y centímetros y en el tiempo en los días
+
+page_text:
+
+P1	¡Hoy es el gran día! Después de nueve meses de espera, la mamá de Tati está yendo al hospital para tener a su bebé. Ella regresará en tres días. @@¿Puedes leer el día de la semana en el calendario?@@¿Qué fecha será cuando la mamá de Tati regresa a la casa?
+P2	¡ Adios tesoro! dijo la mamá de Tati. "Por favor ayuda a tu papá. ¡Yo regresaré muy pronto con una gran sorpresa para todos!"@@El bebé ha crecido tanto dentro de la barriga de su mamá que Tati no puede poner sus brazos alrededor de ella como antes.
+P3	El taxi está pitando. Es hora de que su mamá se vaya. Tati comienza a llorar, pero su papá la carga en sus hombros. @@Ella ama estar así tan arriba y lejos del piso ¡Ahora ella es al menos una cabeza más grande que su padre!@@Si el papá de Tati mide 1.6 metros o 160 centímetros ¿Qué tan lejos esta Tati del piso ahora?
+P4	Pronto Tati esta triste de nuevo y comienza a llorar. Esta es la primera vez en su vida que ella y su mamá han pasado la noche separadas.@@El papá de Tati la para en la silla frente a él. Le limpia sus lágrimas y la reconforta con palabras amables.
+P5	Tati se siente valiente nuevamente, parada sobre la silla. "¡Yo tengo 6 años! ¡Soy una niña grande!" le dice.@@Cuando ella se para derecha sobre la silla, así, Tati es de la misma altura de su papá. ¿Recuerdas qué tan alto es él?@@¿Qué tan alta crees que es Tati cuando esta en el piso y no en la silla?
+P6	Ahora Tati solo debe esperar por tres días, de miércoles a domingo, pero para ella se siente como años. Tati intenta entender cuántas horas debe esperar. @@Ella sabe que en un día hay 24 horas, entonces ella se dice a sí misma: "24 + 24 + 24 es ___ ".@@¿Tú sabes cuál es la respuesta?
+P7	"Papá", dice Tati. "¡Yo pensé que yo era tu bebé! Así es como tu me llamas ¿Qué pasará ahora?¿Dejaré de ser tu bebé?"@@"Tú siempre serás nuestra primogénita especial, Tati" le dijo su padre
+P8	Papá respondió muchas preguntas acerca del bebé. Luego le dijo que tenía una idea. "¿Por qué no le escribes una carta a mamá? Le puedes contar cuánto la extrañas y hacerle más preguntas acerca del bebé".@@"Amaría hacer eso papá ¿Me podrías ayudar por favor?"
+P9	Después del almuerzo, el papá de Tati la ayuda a escribir una carta a su mamá.@@Lee la carta de Tati: @@Querida Mamá, @@¡Te amo y te extraño!@@Papá dice que regresarás a la casa el sábado. No puedo esperar a verte y al nuevo bebé. Tengo tantas preguntas. @@¿Es nuestro bebé un niño o una niña? ¿Se parecerá a mí? ¿Cuándo comenzara a caminar y hablar nuestro bebé?@@Con mucho amor, @Tati, tu bebé grande.
+P10	Al terminar de escribir la carta, Tati comienza a soñar despierta.@@"Tal vez hay dos bebés" piensa Tati. "Gemelos, como algunos de mis amigos". Tati piensa en Mariana y Brenda, gemelas que son exactamente iguales.@@"¿Cómo serían nuestro gemelos?" su mente comienza a divagar.
+P11	El gran día ha llegado y Tati está muy emocionada. Ha esperado por 3 día (o 72 horas), pero se siente como si hubieran pasado muchos meses desde que su mamá fue al hospital. @@Ellos han esperado 9 meses a que el bebé crezca dentro de la barriga de su mamá. Tati cuenta para atrás: "Abril a marzo es un mes, a febrero son dos meses..."@@Cuenta hacia atrás para saber cuando comenzó a crecer el bebé dentro de la barriga de mamá.
+P12	Tati siente a sus papás en la puerta de su casa. Tati se queda muy callada. Ella quiere sorprenderlos. @@Pero Tati se llevará una sorpresa mucho más grande ¡Su mamá ha regresado con gemelos! ¡Tati tiene una hermana y un hermano!
+
+images:
+
+illustrations/pages/1503.png
+illustrations/pages/25347.png
+illustrations/pages/25348.png
+illustrations/pages/25349.png
+illustrations/pages/25350.png
+illustrations/pages/25351.png
+illustrations/pages/25352.png
+illustrations/pages/25353.png
+illustrations/pages/25354.png
+illustrations/pages/25371.png
+illustrations/pages/25356.png
+illustrations/pages/25357.png
+illustrations/pages/25358.png
+
+translations:
+
+Afrikaans (Translation)	Brief aan ma	id=11350
+English (Original)	Letter to mum	id=2134
+English (Adaptation)	Waiting for baby	id=21452
+isiNdebele (Translation)	Silindele umntwana	id=21463
+isiZulu (Translation)	Incwadi Kamama	id=11513
+isiZulu (Translation)	Silindele umntwana wethu	id=21459
+Kiswahili (Translation)	Barua kwa Mama	id=2526
+Kiswahili (Translation)	Kumsubiri mtoto	id=23149
+Lulamoogi (Translation)	Embalugha ya mughange	id=31275
+Lusoga (Translation)	Ebbaluwa ya'maama	id=26223
+Naro (Translation)	Tcgãyas Áís Koe Ko Síí Sa	id=16457
+Sesotho (South Africa) (Translation)	Ho lebeletswe lesea	id=21467
+Siswati (Translation)	Kulindza  kutalwa kwemntfwana	id=21465

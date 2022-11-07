@@ -1,0 +1,62 @@
+url:	https://africanstorybook.org/reader.php?id=35235&d=0&a=1
+id:	35235
+title:	Iteksi kaNanu
+author:	Sponono  Mahlangu
+artist:	Marion Drew
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35235.png
+desc:	UNanu banonina balinde iteksi ukobana ibase ekhaya. UNanu ubona yoke imihlobo yabantu nezinto ezikarisako nabasalindileko. Afeke! Uthi iteksi yabo iseza?
+
+page_text:
+
+P1	Lotjha! Ibizo lami nginguNanu. @@Sinomma silindele iteksi. Siya ekhaya.
+P2	Ngijame lapha emjejeni. Umma uvuma ingoma. @@"Iza Baba uTeksi awuboni na? Mina noNanu sikulindile!"
+P3	Udade oseqadi kwami usa iinkukhu zakhe ekhaya. @@Zizombekelela amaqanda ukobana adle.
+P4	Amadoda la abuya emsebenzini. Ayamomotheka. Ngiwezwa ayavuma.@@"Nanu wekosi, ungatshwenyeki. Iteksi iza ngebelo sizokukhwela."
+P5	Udade uyadlula. Ungudade omuhle. Akasimahle amanyathelo wakhe? @@Nakakhambako nje ayalila athi, "Tliki, tliki, tliki, tliki, tliki, tliki."
+P6	Indoda le ithengisa iinamaneyidi. @@Ngithanda iinamaneyidi. Zimakhaza khulu begodu zinetjhukela. Uyazithanda?
+P7	Qala! Kunabodade abadla ukudla kwabo kwantambama safuthi. @@Uyabona bahlakaniphile?
+P8	Udade loya wenza iinhluthu. @@Uzozikhupha nabangani bakhe ntambama.
+P9	Sengidiniwe kwanjesi. Umma ungibhebhula emhlana ukuze ngiphumule. @@Uvuma ingoma yakhe ethi, "Siyakubawa Baba uTeksi, ungaladelwa, ugogo usilinde eyegeni."
+P10	Nanguya umngani wami uTumi. Naye uphumulile. @@Msinyazana sizabe sesifikile ekhaya.
+P11	Phezulu naziya iinyoni ziyaphapha ziya emakhaya wazo. @@Kufanele zifike ekhaya ngaphambi kobana kurhwalale.
+P12	Udade lo unamacici amahle. Ngicabanga bona uwathenge edorobheni namhlanjesi. @@Nangikhulako ngizokuthengela mina nomma amacici amanengi.
+P13	Umma sekathoma ukudinwa kwanjesi. @@Ngimvumela ingoma, "Siyakubawa Baba uTeksi, akhese ufike, mina nomma sikulindile."
+P14	Lalela! Ngizwa umdumo weteksi! @@Nasiya iyeza!
+P15	Le ngiyo iteksi yethu ebovu ekulu. @@Izokuthatha mina nomma isise ekhaya. Ngithabe khulu!
+P16	Salakuhle!
+
+images:
+
+illustrations/pages/7576.png
+illustrations/pages/7560.png
+illustrations/pages/7562.png
+illustrations/pages/7563.png
+illustrations/pages/7564.png
+illustrations/pages/7565.png
+illustrations/pages/7566.png
+illustrations/pages/7571.png
+illustrations/pages/7568.png
+illustrations/pages/7569.png
+illustrations/pages/7570.png
+illustrations/pages/7572.png
+illustrations/pages/7573.png
+illustrations/pages/7574.png
+illustrations/pages/7575.png
+illustrations/pages/7576.png
+illustrations/pages/7577.png
+
+translations:
+
+Afrikaans (Translation)	Nanu se taxi	id=11245
+Anii (Adaptation)	Nuura na bɔɔsʊ ajala	id=39178
+English (Original)	Nanu's taxi	id=7590
+French (Translation)	Le Taxi-Brousse De Nanu	id=12665
+Kiswahili (Translation)	Teksi ya Nanu	id=8713
+Lusoga (Translation)	Emotoka ya Nabirye	id=25724
+Portuguese (Translation)	O Táxi Da Nanu	id=17619
+Siswati (Translation)	Ithekisi yaNanu	id=34475
+Tshivenḓa (Translation)	Thekhisi ya Funi	id=34254
+Xitsonga (Translation)	Thekisi ra Ehleketani	id=34328

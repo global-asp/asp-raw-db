@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=36135&d=0&a=1
+id:	36135
+title:	Dabbobi - Dabbobi
+author:	Doma DEDF
+artist:	Rob Owen, Sandy Campbell and Wiehan de Jager
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36135.png
+desc:	Bayyana amfanin dabbobi a cikin alumma.
+
+page_text:
+
+P1	Kalli dabbobin da mu ke kiwo a gida.
+P2	Saniya tana bamu madara.
+P3	Zomayye da mage abokan mutane ne.
+P4	Doki yana haniniya ya ce, "Ehhehhh."
+P5	A ƙasar Uganda ana bayar da shanu da awaki a matsayin sadaki.
+P6	Kaza tana cewa, "Kuut-ƙuut."
+P7	Ana amfani da kare a matsayin mai tsaro a gidajen mu.
+P8	Manomi yana kula da dukkan dabbobi sosai.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+ChiNambya (Translation)	Imhuka, imhuka	id=39997
+English (Adaptation)	Look at Our Animals	id=10258
+English (Adaptation)	Animals, Animals	id=10260
+French (Translation)	Les animaux, Les animaux	id=33449
+Fulfulde Mbororoore (Translation)	Dabbaaji Wuro	id=32014
+Hausa (Nigeria) (Translation)	Dabbobi - Dabbobi	id=20866
+Lulamoogi (Translation)	Ebisolo,Ebisolo	id=25249
+Lusoga (Translation)	Bona ensolo dhaife	id=28408
+Sesotho (South Africa) (Translation)	Diphoofolo, diphoofolo	id=32720

@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=36692&d=0&a=1
+id:	36692
+title:	ASB Testing - Shiluva's Book
+author:	Shiluva Hlungwani
+artist:	Kenneth Boyowa Okitikpi, Isaac Okwir and Brian Wambi
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36692.png
+desc:	This is a dummy book for testing purposes...
+
+page_text:
+
+P1	WELCOME TO MY BOOK!
+P2	SECOND PAGE@@This is all the important content that goes into the second page of the book.
+
+images:
+
+illustrations/pages/18762.png
+illustrations/pages/25812.png
+illustrations/pages/27123.png
+
+translations:
+

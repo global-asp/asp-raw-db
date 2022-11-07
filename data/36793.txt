@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=36793&d=0&a=1
+id:	36793
+title:	Iyange I Memen Ga
+author:	Terkule Aorabee
+artist:	Joe  Werna
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36793.png
+desc:	Wanye makeranta ugen ver ishima tôv anza a iyange
+
+page_text:
+
+P1	Iyange ka i due pepe, ken imbusutar-i-imese. @@@M ungwa nomikyegh tôngu sha use.
+P2	Iyange kar sha ya u Terfa shien u kwaghyan u pepe.@@@M ungwa ihuma i ibyer man akpukpa sha windoo wam.
+P3	Iyange kôndo yer ken ahu a kon shien u kwaghyan u atetan. @@Tsô i va tile hen tyungu mnger u hen atô u agirigi u inumbe.
+P4	Iyange tile sha ityough yagh jighjigh. Azenke wam man tile vea mo. @@M gba numben inumbe I azenke vea mbakov wam.
+P5	Azenke (jijingi) wam ka a kehe, shi a ndahar. Ka se cir sha na. @@Azenke wam ka a naregh, shi a nyula. Ka se cir sha na.
+P6	M tile, mbakov wam kpa tile. Se nenge azenke asev gba daasse. Se vôr a inumbe nahan se hide ken kelase. Ka a due makeranta yô, se yem ken ya.
+P7	Iyange aver. @@M nenge Iyange i gba milen kulekule ken imbusutar-i-yan.@@M nenge a azenke wam sha kpekpe. @@Kuma u za yaven hegen.
+P8	Iyange mile ken abeen. @@M yav nya sha gambe, mnyam gba cier mo er iyange yem zende ica nahan.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Amharic (Translation)	ባተሌ ባተሌዋ ፀሐይ	id=39465
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Bura (Translation)	Kethir kethir mchi	id=34888
+Ebira (Translation)	Ukoro Ukoro  ὀyi	id=34840
+English (Original)	Busy Busy Sun	id=32416
+French (Translation)	Le soleil occupé, très occupé	id=35178
+Hausa (Nigeria) (Translation)	Zirga Zirgan rana	id=34897
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Ikwerre (Translation)	Nhebe Ne Me'he	id=34833
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

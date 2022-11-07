@@ -1,0 +1,73 @@
+url:	https://africanstorybook.org/reader.php?id=34876&d=0&a=1
+id:	34876
+title:	Le chat et le chien - Le chat est jaune
+author:	Stefanie Zaske
+artist:	Elke and René Leisink
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34876.png
+desc:	Qui frappe à la porte ? Cest le chat. Il est jaune. Un chat jaune ?
+
+page_text:
+
+P1	Voici le chien.
+P2	Le chien est dans sa maison.@@Le chien est assis dans sa maison.@@Quelqu'un frappe à la porte.
+P3	Le chien ouvre la porte.@@Le chien voit quelqu'un de jaune !
+P4	Le chien demande : « Qui es-tu ? »@@C'est le chat. @@Le chat est jaune.
+P5	La tête du chat est jaune.@@Les poils du chat sont jaunes.
+P6	Les bras du chat sont jaunes.@@Les mains du chat sont jaunes.
+P7	La bouche du chat est jaune. Le nez du chat est jaune.@@Les oreilles du chat sont jaunes. Les yeux du chat sont jaunes.
+P8	Le chien demande :@« Pourquoi est-ce que tu es jaune ? »@@Le chat répond : « Je ne sais pas. »
+P9	Le chien demande : @« Où étais tu ? »@@Le chat répond : « J'étais à l'école. »
+P10	Le chien demande : @« À quelle école ? »@@Le chat répond : « J'étais à l'école du village. »
+P11	Le chien demande : @« Quand est-ce que tu étais à l'école ? »@@Le chat répond : « J'étais à l'école ce matin. »
+P12	Le chien demande : @« Qu'est-ce que tu as fait à l'école ? »@@Le chat répond : « J'ai dormi. »
+P13	Le chien demande : @« Tu as dormi à l'école ? Où est-ce que tu as@dormi ? »@@Le chat répond : « J'ai dormi  derrière l'école. »
+P14	Le chien réfléchit et il écrit. Il écrit quelque chose sur un papier.@Qui : le chat@Où : derrière l'école@Quelle école : l'école du village@Quand : ce matin@Quoi : dormir@Pourquoi : ?
+P15	Ensuite le chat dit : « Je n'étais pas seul à l'école. Il y avait quelqu'un d'autre. »
+P16	Le chien demande : @« Qui d'autre était à @l'école ? »@@Le chat répond : @« L'éléphant était à l'école. »
+P17	Le chien demande : @« Qu'est-ce que l'éléphant a fait ? »@@Le chat répond : @« L'éléphant a fait de la peinture. »
+P18	Le chien demande : @« Qu'est-ce que l'éléphant a peint ? »@@Le chat répond : @« L'éléphant a peint l'école. »
+P19	Le chien demande : @« Comment est-ce que l'éléphant a peint@l'école ? »@@Le chat répond : @« L'éléphant a peint l'école avec un grand pinceau... »
+P20	Le chat ne dit rien. Le chat réfléchit. @@Ensuite il dit : @« Maintenant je sais pourquoi je suis jaune ! »
+P21	Le chat et le chien vont à l'école.@@L'éléphant est en train de peindre l'école en jaune.
+P22	L'éléphant a tout peint.@@L'éléphant a peint non seulement l'école, mais aussi le chat !
+P23	Au revoir, le chat jaune.@@Au revoir, le chien.@@Au revoir, l'éléphant.
+
+images:
+
+illustrations/pages/25638.png
+illustrations/pages/25615.png
+illustrations/pages/25616.png
+illustrations/pages/25617.png
+illustrations/pages/25618.png
+illustrations/pages/25619.png
+illustrations/pages/25620.png
+illustrations/pages/25621.png
+illustrations/pages/25622.png
+illustrations/pages/25623.png
+illustrations/pages/25624.png
+illustrations/pages/25625.png
+illustrations/pages/25626.png
+illustrations/pages/25627.png
+illustrations/pages/25628.png
+illustrations/pages/25629.png
+illustrations/pages/25630.png
+illustrations/pages/25631.png
+illustrations/pages/25632.png
+illustrations/pages/25633.png
+illustrations/pages/25634.png
+illustrations/pages/25635.png
+illustrations/pages/25636.png
+illustrations/pages/25637.png
+illustrations/pages/18782.png
+
+translations:
+
+Anii (Adaptation)	Ganyaʊ n'asna - Ganyaʊ bʊciŋcintoyar	id=39177
+English (Original)	Cat and Dog: Cat is yellow	id=21992
+Lusoga (Translation)	Puusi ni Embwa: Epuusi ya kyenvu	id=26939
+Tiv (Translation)	Kpatema vea Iwa: Kpatema ngu agbedaang	id=34794
+Tshivenḓa (Translation)	Tshimange na Mmbwa: Tshimange u ṱaḓa	id=37290
+Xitsonga (Translation)	Ximanga na Mbyana: Ximanga i xa xitshopana	id=37111

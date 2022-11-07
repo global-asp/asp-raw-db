@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=36329&d=0&a=1
+id:	36329
+title:	¿Podemos contar nuestros gatos?
+author:	Aprende Leyendo
+artist:	Jesse Breytenbach and Jesse Pietersen
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36329.png
+desc:	Un libro para aprender a contar de cero a nueve.
+
+page_text:
+
+P1	¿Cuántos gatos hay?@0 Cero gatos.@¡No hay ningún gato!
+P2	¿Cuántos gatos hay?@1 Un gato. @Un gato negro está comiendo carne.
+P3	¿Cuántos gatos hay?@Hay 2 dos gatos. @Un gato blanco y uno gris están durmiendo.
+P4	¿Cuántos gatos hay?@3 Tres gatos.@Tres gatos están jugando en la cocina.
+P5	¿Cuántos gatos hay?@4 Cuatro gatos.@Cuatro gatos son amigos de Pablo.
+P6	¿Cuántos gatos hay?@5 Cinco gatos.@Cinco gatos persiguen a un perro.
+P7	¿Cuántos gatos hay?@6 Seis gatos.@Seis gatos están esperando al perro.
+P8	¿Cuántos gatos hay?@7 Siete gatos.@Siete gatos juegan en el recinto.
+P9	¿Cuántos gatos hay?@8 Ocho gatos.@¡Ocho gatos y un perro!
+P10	¡Un gatito está atrapado en el árbol!@"¡Yo te rescataré!", dice Pablo.
+P11	"¿Nos lo podemos quedar?"@¿Cuántos gatos hay?@9 Nueve gatos.@"¡Son muchos gatos!", dice la mamá.
+
+images:
+
+illustrations/pages/12024.png
+illustrations/pages/13388.png
+illustrations/pages/12006.png
+illustrations/pages/12018.png
+illustrations/pages/12019.png
+illustrations/pages/12414.png
+illustrations/pages/12021.png
+illustrations/pages/12025.png
+illustrations/pages/12026.png
+illustrations/pages/12024.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+
+translations:
+
+English (Adaptation)	Can We Count Our Cats?	id=13562
+Fulfulde Mbororoore (Translation)	A Waawi Limugo Kuleeji?	id=32058
+Hausa (Nigeria) (Translation)	Muna Iya Kirga Kyanwoyinmu	id=21363
+Lusoga (Translation)	Tusobola  okubala obupuusi?	id=25825
+Runyankore (Translation)	Nitubasa kubara ezaangu zitu	id=23613
+Tiv (Translation)	Se Faityô u Ôron Ukpatema Aseva?	id=32029

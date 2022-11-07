@@ -1,0 +1,69 @@
+url:	https://africanstorybook.org/reader.php?id=34193&d=0&a=1
+id:	34193
+title:	Zawadi a sungula xikolo
+author:	Arnold Mushwana
+artist:	Jacob Kono
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34193.png
+desc:	Ku sungula xikolo i goza rikulu swinene eka vutomi bya nwana.
+
+page_text:
+
+P1	Zawadi a ri nhwana wa ntlhanu wa malembe. A tshama na ndyangu wa yena.@@Muti wa ka vona a wu tshamile kusuhi na nhova leyi a yi ri na swiharhi.
+P2	Zawadi a ri n'wana wo yingisa swinene.@@A hlayisa tinyimpfu na timbuti.
+P3	Zawadi a rhandza ku yingisela swinyanyana loko swi yimbelela loko yena a karhi a hlayisa swifuwo.@@Loko swinyanyana swi rila, u nghenisa marito ma yena ku fambelana na ku rila ka swinyanyana.
+P4	Zawadi a ri lontsongo ku va a ya exikolweni. Vatswari va yena a va pfumelela ntsena vana lavakulu, Tabu na Yakobo ku ya exikolweni. @@Xikolo xi le ka 10 wa tikhilomitara ku suka ekaya.
+P5	Tabu na Yakobo va ya exikolweni na vana van'wana nimixo va vuya nimadyambu.@@A va longa swakudya.
+P6	Zawadi a vutisa mana wa yena, "Ndzi ta ya rini exikolweni?"@@Mana wa yena a hlamula, "U ta ya ku nga ri khale n'wananga."
+P7	Siku rin'wana ku fikile movha wu ri na hosi na vavasati vambirhi.@@Hosi a tiyisisa leswaku vana va ya exikolweni hi malembe ya yena.
+P8	Vanhu a va kholwa leswaku loko n'wana a kala a kota ku lehisa voko ra yena ku hundza ehenhla ka nhloko ku ya khoma ndleve, swi vula leswaku swa fanela leswaku a sungula xikolo.
+P9	Hosi a vutisa, "U na malembe mangani?" @@Zawadi a hlamula a ku, "Ndzi na ntlhanu wa malembe."
+P10	Un'wana wa vavasati a teka voko ra xinene ra Zawadi a ri veka ehenhla ka nhloko.@@Zawadi a khoma ndleve ya yena ya ximatsi.
+P11	Zawadi u ta ya exikolweni xo hambana na xa Tabu na Yakobo.
+P12	Zawadi a tsakile swinene.@@A ehleketa, "Ndzi ta hlaya no tsala ku fana na Tabu na Yakobo."
+
+images:
+
+illustrations/pages/25447.png
+illustrations/pages/25447.png
+illustrations/pages/25448.png
+illustrations/pages/25449.png
+illustrations/pages/25450.png
+illustrations/pages/25451.png
+illustrations/pages/25452.png
+illustrations/pages/25453.png
+illustrations/pages/25454.png
+illustrations/pages/25455.png
+illustrations/pages/25456.png
+illustrations/pages/25457.png
+illustrations/pages/25458.png
+
+translations:
+
+Afrikaans (Translation)	Tamara begin skoolgaan	id=37764
+Chichewa (Translation)	Tamara ayamba sukulu	id=34966
+ChiNambya (Translation)	Tamara wakatangisa chikolo	id=32896
+Chinkhonde (Translation)	Tamala andile sukulu	id=35001
+Chitonga (Malawi) (Translation)	Tamala watamba sukulu	id=35026
+Citumbuka (Translation)	Tamara wayambenge sukulu	id=35055
+Ciyawo (Malawi) (Translation)	Tamala ŵatandite sukulu	id=35076
+Ellomwe (Malawi) (Translation)	Tamara ohambella esukulu	id=35108
+English (Original)	Tamara starts school	id=21588
+French (Translation)	Tamara commence à l'école	id=35180
+isiXhosa (Translation)	UTamara uqala isikolo	id=37849
+isiZulu (Translation)	UTamara ungena esikoleni	id=37714
+Khoekhoegowab (Translation)	Tamaras	id=31854
+Kiswahili (Translation)	Tamara aanza kwenda shule	id=21631
+Lámnsoʼ (Translation)	Tamara kéʼ a du' fo shikur	id=22301
+Lusoga (Translation)	Tamara atandiika okusoma	id=25582
+Oshikwanyama (Translation)	Kandeshi ta hovele ofikola	id=31573
+Oshindonga (Translation)	Tamara atameka osikola	id=31508
+Otjiherero (Translation)	Tamara Ua utu osikire	id=31517
+Rukwangali (Translation)	Tamara ta vareke sure	id=31587
+Sepedi (Translation)	Tamara o thoma go ya sekolong	id=33465
+Sesotho (Lesotho) (Translation)	Lerato o qala sekolo	id=36353
+Sesotho (South Africa) (Translation)	Thamara o qala sekolo	id=33377
+Siswati (Translation)	Tamara ucala kuya esikolweni	id=33403
+Tshivenḓa (Translation)	Tamara u thoma tshikolo	id=34300

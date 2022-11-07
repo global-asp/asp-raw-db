@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=36020&d=0&a=1
+id:	36020
+title:	Crocodile in my body
+author:	Doma DEDF
+artist:	Felicity Bell
+lang:	English
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36020.png
+desc:	Ntombi lives with a terrible disease and must take extra care of herself to keep well and strong. Her Gogo makes sure that Ntombi has the healthy food and medicine she needs to live a normal life.
+
+page_text:
+
+P1	Your adapted text
+P2	Your adapted text
+P3	Your adapted text@  My crocodile, Horrible Jatau,@  has been with me since I was born. He likes eating all the soldiers in my@  body that fight germs and stop me from getting sick. When he eats too many of@  my soldiers, I get very sick. Then I cannot go to school and play with my@  friends.
+P4	Your adapted text
+P5	Your adapted text
+P6	Your adapted text@  My Goggo, my aunts@  and uncles, and friends love me, even though I have a crocodile called@  Horrible Jatau living in my body.
+
+images:
+
+illustrations/pages/6105.png
+illustrations/pages/6094.png
+illustrations/pages/6092.png
+illustrations/pages/6095.png
+illustrations/pages/6099.png
+illustrations/pages/6104.png
+illustrations/pages/6105.png
+
+translations:
+
+Afrikaans (Translation)	Die krokodil in my lyf	id=11362
+ChiTonga (Translation)	Ciwena Mumubili Wangu	id=32880
+ChiTonga (Adaptation)	Ciwena mumubili wangu	id=37628
+CiNyanja (Translation)	Ng'wena Muthupi Mwanga	id=33165
+CiNyanja (Adaptation)	Ng'ona m'thupi mwanga	id=37652
+Dhopadhola (Translation)	Ngoona ideli parani	id=33123
+English (Original)	Crocodile in my body	id=6111
+English (Adaptation)	The disease in my body	id=32448
+French (Translation)	Un Crocodile Dans Mon Corps	id=10146
+IciBemba (Translation)	Ing'wena Mumubili Wandi	id=33206
+IciBemba (Adaptation)	Ing'wena ya mu mubili wandi	id=37654
+Kiswahili (Translation)	Mamba aliye mwilini mwangu	id=15746
+Luganda (Translation)	Ggonya mu mubiri gwange	id=23236
+Lusoga (Translation)	Wangoina mu mubiri gwange	id=24865
+Portuguese (Translation)	Um Crocodilo No Meu Corpo	id=16410

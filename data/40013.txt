@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=40013&d=0&a=1
+id:	40013
+title:	The Tall Dad
+author:	Phoebe Priest
+artist:	Catherine Groenewald, Abraham Muzee and Kenneth Boyowa Okitikpi
+lang:	0
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40013.png
+desc:	This book is about a little boy who has a very tall dad.
+
+page_text:
+
+P1	Hello my name is po.
+P2	And I have a dad, who's just a bit too tall.
+P3	He's bike is even too small!
+P4	But then one day I had a plan!
+P5	To make a bigger bike!
+P6	But then when he tried to sleep, he was just a bit too tall!
+P7	But then one day I had a plan!
+P8	To make a bigger bed!
+P9	After that he came happy and we lived a happy after!
+
+images:
+
+illustrations/pages/314.png
+illustrations/pages/27125.png
+illustrations/pages/311.png
+illustrations/pages/314.png
+illustrations/pages/13261.png
+illustrations/pages/318.png
+illustrations/pages/311.png
+illustrations/pages/13261.png
+illustrations/pages/317.png
+illustrations/pages/13255.png
+
+translations:
+

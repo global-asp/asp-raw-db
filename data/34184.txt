@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34184&d=0&a=1
+id:	34184
+title:	A ovelha perdida e a moeda perdida
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34184.png
+desc:	Duas parábolas contado por Jesus em Lucas 15: 3-10. ©️1999 Bible League Intl. Versão Fácil de Ler. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Jesus contou esta parábola:@—Se um de vocês tiver cem ovelhas e perder uma delas, será que não deixará as noventa e nove no pasto para procurar a ovelha perdida até encontrá‐la?
+P2	E, quando a encontra, pôem‐na alegremente sobre os ombros.
+P3	Depois de chegar a casa, chama os seus amigos e vizinhos e lhes diz: "Alegrem‐se comigo, pois achei a minha ovelha que estava perdida!"
+P4	Pois eu lhes digo que, da mesma maneira, haverá mais alegria no céu por causa de um pecador que se arrepende, do que por causa de noventa e nove pessoas justas que não precisam de arrependimento.
+P5	Ou, imaginem ainda uma mulher que tenha dez moedas de prata e perca uma.
+P6	Será que ela não acenderá um lampião, varrerá a casa e a procurará cuidadosamente até achá‐la?
+P7	E quando a encontrar, chamará as suas amigas e vizinhas, e dirá: "Alegrem‐se comigo, pois encontrei a moeda que tinha perdido!"
+P8	E da mesma maneira eu lhes digo: Há alegria na presença dos anjos de Deus por causa de um pecador que se arrepende.
+
+images:
+
+illustrations/pages/28089.png
+illustrations/pages/28085.png
+illustrations/pages/28088.png
+illustrations/pages/28194.png
+illustrations/pages/28089.png
+illustrations/pages/28083.png
+illustrations/pages/28084.png
+illustrations/pages/28086.png
+illustrations/pages/28090.png
+illustrations/pages/28091.png
+
+translations:
+
+Cinyungwe (Translation)	Bira wakutaika na kobiri yakutaika	id=34185
+Elomwe (Translation)	Epucepuche Yoorimeela ni Ekhorowa Yoorimeela	id=34186
+Emakhuwa (Translation)	Epwittipwitthi Yoomeela Musurukhu Woorimeela	id=34187

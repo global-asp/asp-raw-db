@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=37883&d=0&a=1
+id:	37883
+title:	Dua Teman Kecil
+author:	Vianinda Sari
+artist:	Jesse Pietersen
+lang:	Bahasa Indonesia
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37883.png
+desc:	Sebuah cerita rakyat dari Etiopia tentang dua teman yang bertemu dan lalu memutuskan persahabatan karena perbedaan.
+
+page_text:
+
+P1	Alkisah hiduplah Kambing Kecil dan Mcan Tutul. Mereka berteman.
+P2	Mereka pergi bermain ke lapangan.
+P3	Mereka terlambat pulang ke rumah.
+P4	Kambing Kecil berkata pada ibunya, "Aku bertemu teman yang cantik. Aku sangat senang. Kita akan bertemu lagi besok."
+P5	Ibu Kambing berkata, "Oh, Anakku. Aku senang kamu kembali dengan selamat. Dia bukan teman kita. Jangan bertemu lagi dengannya besok."
+P6	Saat itu juga, Macan Tutul Kecil bercerita pada ibunya, "Aku bertemu teman yang cantik. Aku senang. Besok kita bertemu lagi."
+P7	Ibu Macan Tutul berkata, "Oh, Anakku, sayang sekali kamu tidak memakan Kambing Kecil. Saat kamu bertemu dengannya besok, bunuh dan makan dia."
+P8	Keesokan harinya, Macan Tutul Kecil pergi ke desa Kambing Kecil.
+P9	Kambing Kecil tidak ada di luar. Dia bersembunyi dengan ibunya.
+P10	Macan Tutul Kecil berteriak, "Ayo kita main lagi ke lapangan."
+P11	Kambing Kecil berkata, "Kita bukan lagi teman. Aku menuruti perkataan ibu. Anak yang baik itu menuruti perkataan ibunya."
+P12	Macan Tutul Kecil sedih. Dia kembali ke ibunya.
+
+images:
+
+illustrations/pages/18402.png
+illustrations/pages/18401.png
+illustrations/pages/18402.png
+illustrations/pages/18403.png
+illustrations/pages/18404.png
+illustrations/pages/18405.png
+illustrations/pages/18406.png
+illustrations/pages/18407.png
+illustrations/pages/18408.png
+illustrations/pages/18409.png
+illustrations/pages/18410.png
+illustrations/pages/18411.png
+illustrations/pages/18412.png
+
+translations:
+
+Asante Twi (Translation)	Nnanfofoɔ nkumaa mmienu	id=38054
+English (Original)	Two little friends	id=18420
+Fulfulde Mbororoore (Translation)	Soobiraaɓe Famarɓe Ɗiɗo	id=31942
+Hausa (Nigeria) (Translation)	Abotar Ɗan Taure da Ɗan Damisa	id=22054
+Kinyarwanda (Translation)	Abana babiri b'inshuti	id=26152
+Kiswahili (Translation)	Marafiki wawili wadogo	id=19404
+Lámnsoʼ (Translation)	Ŋkar see mewón sibaà	id=22309
+Lusoga (Translation)	Ab'omukenkede ababiri abatonyoli	id=27269
+Ng’aturkana (Translation)	Ng’Ipalon Ng’Iarei Lochamam	id=18421
+Oluwanga (Translation)	Abetsa babiri abatiti	id=22814
+Tiv (Translation)	Ijende mba kiriki uhar	id=39579

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34401&d=0&a=1
+id:	34401
+title:	Mehuta ya dieta
+author:	Mosibudi Pauline Letjong
+artist:	Patricia  Ndlovu
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34401.png
+desc:	Ebolela ka mehuta ya diete
+
+page_text:
+
+P1	Gona le dieta tsa mehuta ka moka.
+P2	Dieta tsa ge go rutela dire 'hlapu-hlapu'.
+P3	Dieta tsa basadi tsa meletlo dire 'kwai-kwai'.
+P4	Dieta tsa basetsana le basemane tsa sekolo dire 'pha-pha'.
+P5	Dieta tsa bopapa tsa go ya mosomong di re 'kgohlo-kgohlo'.
+P6	Dieta tsaka tseo ke diratago ga dina letsata le gona di hlwekile
+P7	Dieta tsaka tseo ke diratago dibotsana gofeta  tsa sesi waka  tseo a kitimago ka tsona tsa go nkga. Dieta tsa ka tseo ke diratago ke tsa ge ke ikhuditse.
+P8	Tse ke dieta tseo ke di aparago ka gae. Diboleta. Diswara maoto a ka dire 'fosho-fosho'.
+
+images:
+
+illustrations/pages/93740175.png
+illustrations/pages/93740170.png
+illustrations/pages/93740171.png
+illustrations/pages/93740172.png
+illustrations/pages/93740173.png
+illustrations/pages/93740174.png
+illustrations/pages/93740176.png
+illustrations/pages/93740177.png
+illustrations/pages/93740175.png
+
+translations:
+
+English (Original)	Types of shoes	id=34359
+isiZulu (Translation)	Izinhlobo Zezicathulo	id=34526

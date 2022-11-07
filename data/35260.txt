@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=35260&d=0&a=1
+id:	35260
+title:	Ndozwiwha ndili ndoga
+author:	Tshidzanani T. Malaba
+artist:	Marleen Visser
+lang:	TjiKalanga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35260.png
+desc:	Nowha tjini uliwonga nelubaka kusingabvumigwe yenda?
+
+page_text:
+
+P1	Ndanyala negala mun'umba hhuba lose.@Ndoyemula bakhwinya bangu.@Kadzene ntingabhuda kuhhe tikanozana.
+P2	Ndowha kulebgwa nekwe bhembolufu.@Kadzene lingapela!
+P3	Ayizanise bodoli zwedu.@Mme bati tikagala mun'umba, Ndzimu banowotidzibilila.
+P4	Tate Nleya banogwala. Bayenda kubuwongelo.@Ayibatembezeleleni saku.
+P5	He Yesu, Tokumbila mutjidze tate Nleya.@Mutidzibilile mubhembolufu.@Toboka kubanaswi, atilitoga tohla.@Akujalo.
+P6	"Nenguba ndiyenda muntuzi wenkuku welufu, akuna bubi gwandinohla, nekuti munami." @Njimbo 23:4
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740452.png
+illustrations/pages/93740440.png
+illustrations/pages/93740447.png
+illustrations/pages/93740451.png
+illustrations/pages/93740444.png
+illustrations/pages/93740445.png
+
+translations:
+
+Afrikaans (Translation)	Ek voel bekommerd	id=35796
+English (Original)	I Feel Alone	id=35221
+English (Adaptation)	I feel worried	id=35252
+isiXhosa (Translation)	Ndiziva ndindedwa	id=35285
+Kiswahili (Translation)	Nina wasiwasi	id=35279
+Otuho (Translation)	Abotihino nî	id=35492
+Spanish (Translation)	Me siento preocupado	id=36331
+Tiv (Translation)	Zam Iyol	id=35558
+TjiKalanga (Translation)	Andizogadzikana	id=35258

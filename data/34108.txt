@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34108&d=0&a=1
+id:	34108
+title:	Un nouveau chaton
+author:	Stefanie Zaske
+artist:	Marleen Visser
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34108.png
+desc:	Priscille voulait un chaton. La famille entière voulait un chaton. Ils ont finalement trouvé le bon chaton pour eux.
+
+page_text:
+
+P1	Priscille voulait un chaton.
+P2	Priscille est allée, avec sa famille, voir des chats.
+P3	Priscille voulait ce chat, mais il était trop grand pour elle.
+P4	Thomas voulait ce chaton, mais il était trop petit pour lui.
+P5	Maman voulait ce chaton, mais il était trop rapide pour elle.
+P6	Enfin ils ont tous aimé ce chaton.
+P7	Alors c'est lui qu'ils ont choisi.
+P8	Maintenant ils sont très contents de leur nouveau chaton.
+
+images:
+
+illustrations/pages/9557.png
+illustrations/pages/9554.png
+illustrations/pages/9555.png
+illustrations/pages/9556.png
+illustrations/pages/9557.png
+illustrations/pages/9558.png
+illustrations/pages/9559.png
+illustrations/pages/9560.png
+illustrations/pages/9561.png
+
+translations:
+
+English (Translation)	New pussy cat	id=13631
+Luganda (Original)	Pussi Empya	id=13630
+Lulamoogi (Translation)	Okapa omuyaaka	id=29192
+Lusoga (Translation)	Epuusi Empyaka	id=27155

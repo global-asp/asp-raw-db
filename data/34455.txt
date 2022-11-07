@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=34455&d=0&a=1
+id:	34455
+title:	Kungani Ajao angazange angcwatjwe
+author:	Mduduzi Benjie Shongwe
+artist:	Jesse Breytenbach
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34455.png
+desc:	Ingabe Ajao lilulwane uyinyoni nobe uligundvwane?
+
+page_text:
+
+P1	Ajao lilulwane, bekalele endlini yakhe agula kakhulu. @@Bekute muntfu lomnakako.
+P2	Ekugcineni, Ajao wafa.
+P3	Bomakhelwane batsi, "Ajao ufile. Kufanele sibite tihlobo takhe kute tite titomngcwaba."
+P4	Bahamba bayobita tinyoni batsi, "Sihlobo senu sifile."
+P5	Tinyoni tefika tase tibona kutsi ngu Ajao. @@Tatsi, "Lesilwane asisiyo incenye yemndeni wetfu."
+P6	"Bonkhe emndenini wetfu banetinsiba kepha Ajao ute. Akasuye lomunye wetfu." @@Tinyoni tahamba.
+P7	Bomakhelwane babonisana. @@Bavumelana, "Tinyoni ticinisile. Ajao ute tinsiba. Ngako, akasiso sihlobo sato."
+P8	Lomunye wabo watsi, "Kufanele kutsi ungumndeni wemagundvwane ngobe ufanana nawo."
+P9	Bahamba bayobita emagundvwane batsi, "Lomunye wemndeni wenu ufile."
+P10	Emagundvwane efika ase abona kutsi ngu Ajao. @@Atsi, "Lesilwane asisiyo incenye yemndeni wetfu."
+P11	"Bonkhe emndenini wetfu banemsila. Ajao ute umsila." @@Emagundvwane ahamba.
+P12	Kute tihlobo ta Ajao letatfolakala futsi akazange angcwatjwe.
+
+images:
+
+illustrations/pages/16974.png
+illustrations/pages/16973.png
+illustrations/pages/16974.png
+illustrations/pages/16975.png
+illustrations/pages/16976.png
+illustrations/pages/16977.png
+illustrations/pages/16978.png
+illustrations/pages/16979.png
+illustrations/pages/16980.png
+illustrations/pages/16981.png
+illustrations/pages/16982.png
+illustrations/pages/16983.png
+illustrations/pages/16984.png
+
+translations:
+
+ChiShona (Translation)	Sei Ajao asina kuvigwa	id=22214
+English (Translation)	Why Ajao was not buried	id=16988
+French (Adaptation)	Pourquoi Ajao n'a pas été enterré	id=39918
+Ga (Translation)	Nɔ Hewɔ ni Anaaa Afũ Ajao	id=25743
+isiNdebele (Translation)	Kubayini u-Ajao angakhange abulungwe	id=35214
+Kiswahili (Translation)	Kwa nini Ajao hakuzikwa	id=17031
+Lusoga (Translation)	Lwaki Ajawo Tiyaziikibwa	id=20068
+Sepedi (Translation)	Gobaneng Ajao a sa bolokwa	id=33348
+Tiv (Translation)	Inima Saa Sha Tar: I ii Un Ga	id=23858
+Tshivenḓa (Translation)	Ndi nga mini Ajao a songo vhulungwa?	id=34305
+Urhobo (Translation)	O Bọ Isorọ Ewo Je Ajao Esho	id=22514
+Xitsonga (Translation)	Hikokwalaho ka yini Andzani  a nga lahliwi	id=34197
+Yoruba (Original)	Ìdí Tí Wọn Kò Sin Ajao	id=16985

@@ -1,0 +1,71 @@
+url:	https://africanstorybook.org/reader.php?id=39804&d=0&a=1
+id:	39804
+title:	Tâm atosʊra kaalei ashee amʊ
+author:	Moumouni Fafana
+artist:	Rijuta Ghate
+lang:	Anii
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39804.png
+desc:	Mbʊpá njala nnɖe n tɩ lee atʊ atosʊra kafaawɩɩ.
+
+page_text:
+
+P1	Maakɔ laŋ na àlaŋ ɩ ɖa buruu ?
+P2	K'ɩ na ɖa buruu baa sáà apaŋa na. Yaa baɩ ?
+P3	Maakɔ laŋ na abɔ ɩ wʊɖa bʊtutolo ?
+P4	K'ɩ na wʊɖa bʊtutolo baa saa apaŋa na. Yaa baɩ ?
+P5	Maakɔ laŋ na ɩkoɖi ba wʊɖa bʊkelencaŋato ?
+P6	Ɩkoɖi bakimka ba na ɖa kelencaŋa.@@Mbaɖee kǝ ba kim na ma, ba na wʊɖa bʊtutolo bʊ.
+P7	Maakɔ laŋ na ɩlɛɛma ba lee baɖono ?
+P8	Ɩlɛɛma baŋunii kǝ ba lee baɖono na.
+P9	Maakɔ laŋ na akɔ̀nɔ́ ɩ lee ɩránà ?
+P10	Arukɔ ɩ ɖa akɔ̀nɔ́ nɩ, ɩ pala ka na ɩ ɖa ɩránà.
+P11	Maakɔ laŋ na bʊtʊŋa bʊ lee bʊfɔnɔ ?
+P12	Kǝ ma yɔ na.
+P13	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :
+P14	www.revue-gugu.org@@+229 66 66 11 11@Téléphone et WhatsApp
+P15	L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+
+images:
+
+illustrations/pages/1050.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+Chichewa (Translation)	Mautoto	id=34536
+English (Original)	Colours	id=1927
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+French (Adaptation)	Raconte-Moi… Maintenant ! Les Couleurs	id=32666
+isiNdebele (Translation)	Ngitjela nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele...ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kinyarwanda (Translation)	Amabara	id=20918
+Kiswahili (Translation)	Nitajie majina ya rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Lusoga (Translation)	Langi	id=24975
+Maa (Translation)	Tólikíoki Tenákatá - Imúain	id=2818
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sepedi (Translation)	Mpotše...gona bjale! Mebala	id=1936
+Sesotho (Lesotho) (Translation)	Njoetse hona joale … Mebala	id=11549
+Setswana (Translation)	Mpotse mo... Mebala e farologaneng!	id=11164
+Spanish (Translation)	Colores	id=36304
+Tigrigna (Translation)	ሕብርታት	id=34282

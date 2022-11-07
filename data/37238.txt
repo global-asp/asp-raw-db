@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=37238&d=0&a=1
+id:	37238
+title:	Picture story 1
+author:	Name Of Writer
+artist:	Jesse Breytenbach
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37238.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/19458.png
+illustrations/pages/19455.png
+illustrations/pages/19456.png
+illustrations/pages/19458.png
+illustrations/pages/19459.png
+illustrations/pages/19460.png
+illustrations/pages/19461.png
+illustrations/pages/19462.png
+illustrations/pages/19463.png
+illustrations/pages/19464.png
+illustrations/pages/19466.png
+
+translations:
+
+ChiShona (Translation)	Mhuka ine zviviri	id=22221
+English (Original)	Creature with two	id=19467
+isiNdebele (Translation)	Isilwana esinakubili	id=35211
+isiZulu (Translation)	Izinzawu	id=19468
+Kiswahili (Translation)	Kiumbe cha ajabu	id=20022
+Lusoga (Translation)	Ekitonde  ekyendhaghulo	id=27427
+Sepedi (Translation)	Sebopiwa sa a mabedi	id=33344
+Siswati (Translation)	Silwane lesinakubili	id=34417
+Tshivenḓa (Translation)	Tshipuka  tsha zwivhili	id=34302
+Xitsonga (Translation)	Xinghunghumana	id=34195

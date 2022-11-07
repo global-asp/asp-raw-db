@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=34104&d=0&a=1
+id:	34104
+title:	Tout le monde est différent
+author:	Stefanie Zaske
+artist:	N D Mazin
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34104.png
+desc:	Apprenez quelques mots simples pour décrire des personnes.
+
+page_text:
+
+P1	un homme
+P2	une femme
+P3	Il est lent.
+P4	Il est rapide.
+P5	Il est grand.
+P6	Elle est petite.
+P7	Il est maigre.
+P8	Elle est grosse.
+P9	Elle est jeune.
+P10	Elle est vieille.
+P11	Ils sont tous différents.
+
+images:
+
+illustrations/pages/85590127.png
+illustrations/pages/85590130.png
+illustrations/pages/85590136.png
+illustrations/pages/85590133.png
+illustrations/pages/85590128.png
+illustrations/pages/85590134.png
+illustrations/pages/85590132.png
+illustrations/pages/85590135.png
+illustrations/pages/85590129.png
+illustrations/pages/85590137.png
+illustrations/pages/85590131.png
+illustrations/pages/85590127.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Tonse ndife osiyana	id=33823
+Cinyungwe (Translation)	Wentse mbakusiyana	id=33822
+English (Original)	Everyone is Different	id=33144
+Kiswahili (Translation)	Kila Mmoja ni Tofauti	id=33660
+Portuguese (Translation)	Somos Todos Diferentes	id=33540
+Spanish (Translation)	Todos somos diferentes	id=36326

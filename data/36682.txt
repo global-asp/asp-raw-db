@@ -1,0 +1,68 @@
+url:	https://africanstorybook.org/reader.php?id=36682&d=0&a=1
+id:	36682
+title:	L-bdæn
+author:	Ramzi Hachani
+artist:	Sue  Beattie
+lang:	Tunisian
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36682.png
+desc:	Xalli asħabek fel-ktæb hæđa yɛallmuk æsæmi atraf l-bdæn.
+
+page_text:
+
+P1	Sæqin
+P2	Rejlin
+P3	Rokbtin
+P4	Ħzæm
+P5	Kerċ
+P6	Sder
+P7	Ydin
+P8	Đræɛin
+P9	Marfqin
+P10	Ras
+
+images:
+
+illustrations/pages/26739.png
+illustrations/pages/26749.png
+illustrations/pages/26744.png
+illustrations/pages/26741.png
+illustrations/pages/26747.png
+illustrations/pages/26740.png
+illustrations/pages/26748.png
+illustrations/pages/26742.png
+illustrations/pages/26745.png
+illustrations/pages/26746.png
+illustrations/pages/26743.png
+
+translations:
+
+Afrikaans (Translation)	Liggaam	id=32139
+Alur (Translation)	Kumju	id=33118
+Amharic (Translation)	ሰውነት	id=34012
+Anii (Adaptation)	Gʊlɔ	id=32691
+CiNyanja (Translation)	Tupi	id=31438
+Cinyungwe (Translation)	Thupi	id=31440
+Cisena (Translation)	Manungo	id=31442
+Echuwabo (Translation)	Maningo	id=31451
+Elomwe (Translation)	Mwiili	id=31453
+Emakhuwa (Translation)	Erutthu	id=31455
+English (Original)	Body	id=22996
+French (Translation)	Le corps	id=32198
+French (Adaptation)	Le corps humain!	id=34688
+Fulfulde Mbororoore (Translation)	Ɓanndu	id=32274
+Ikisimbëtë (Translation)	Ömöbhërë	id=31354
+Imeetto (Translation)	Irutthu	id=33177
+isiXhosa (Translation)	Umzimba	id=33179
+Kiswahili (Translation)	Sehemu za mwili	id=24770
+Kiswahili (Translation)	Mwili	id=31282
+Lubukusu (Translation)	Kumubili	id=33481
+Lusoga (Translation)	Omubiri	id=26061
+Ng’aturkana (Translation)	Akwaan	id=33389
+Olunyaneka (Translation)	Olutu	id=31457
+Portuguese (Translation)	Corpo	id=31436
+Runyoro-Rutooro (Translation)	Omubiri	id=34798
+Spanish (Translation)	Cuerpo	id=36459
+Tiv (Translation)	Alegh a Iyolough	id=34392
+TjiKalanga (Translation)	Nhango dzembili	id=35273

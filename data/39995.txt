@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=39995&d=0&a=1
+id:	39995
+title:	Ah! Unzano webhola!
+author:	Milton  Nyathi
+artist:	Onesmus Kakungi
+lang:	ChiNambya
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39995.png
+desc:	Umbisana unotumwa namegulu babe kuzwintolo. Umbisana yoyu unonda nonkwaina uwe bakanopejeleja bezana ibhola lyamakumbo nabamwe bakwaina babo. Unobuza na zwinhu zwaatumwa namegulu babe?
+
+page_text:
+
+P1	Ndosoda kuzana nonkwaina wangu Jibani.
+P2	Tibakwaina babuya.@@Umwe wedu akabatumwa kumwe, tosonda tose.
+P3	Limwe izhuba nene bangu bakandituma kuzwintolo kotenga munyu namafuta okubhikisa.@@Ndakenda naJibani.
+P4	Tili munzila takabona bamwe bakwaina bedu bezana ibhola.
+P5	"Ah! Unzano webhola!" ndakadalo.@@Ndakabeda kuzana nami.
+P6	Ndakati kunaJibani, "Ngatibhuze kuti bangada kuzana nasu na. Ndokuda kasa kuzana ibhola lyamakumbo."
+P7	Jibani akati, "Ande kuzwintolo tangwa kojozha tizana ibhola."
+P8	Asi imi ndikati, "Ngatizane tangwa! Nene abatootivumila kuti tibuye kozana."
+P9	Takangwina tikazana. Imi ndakabeli wokubhata mugedi.@@Igedi lyakabekatiwa namabwe mabili makulwana.
+P10	Ndakshingilila kubhata ibhola mugedi.@@Bakwaina bangu abajakatubula kugoja kana limwempela.
+P11	Takazana ibhola kuswikila igwa lyazhala unseche.
+P12	Takenda kuzwintolo. Imali yanene yakabalashika! Ndakatanga kulila.@@Jibani wakandikalalila eti, "Leka zwokulila. Wabeda kuzana tangwa."
+P13	Takabwilila kusha tisina munyu namafuta okubhikisa.@@Takabekachenuluka, tili nolutyo.
+P14	Nene bakanyema kasa patakabwilila kusha.@@Umbuzo wokutanga wabakatibhuza ndiwokuti, "Mwabeli kupi unshaji wose yoyu?"
+P15	Takababuja ichokomende.@@Bakati, "Musubenda kozana musijavumijwa."
+P16	Takenda tikanopa madada zwokulya.@@Tapeja yopo, tikenda kunoshamba.
+
+images:
+
+illustrations/pages/12881.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/12873.png
+illustrations/pages/12874.png
+illustrations/pages/12876.png
+illustrations/pages/12877.png
+illustrations/pages/12878.png
+illustrations/pages/12879.png
+illustrations/pages/12880.png
+illustrations/pages/12881.png
+illustrations/pages/12882.png
+illustrations/pages/12883.png
+illustrations/pages/12884.png
+illustrations/pages/12885.png
+illustrations/pages/12886.png
+illustrations/pages/12887.png
+
+translations:
+
+English (Translation)	Ah! Football!	id=12926
+Fulfulde Mbororoore (Translation)	Fijirde Bol!	id=32095
+Hausa (Nigeria) (Translation)	Kai! Wasan Ƙwallo!	id=20863
+Kiswahili (Original)	Ah! Mpira!	id=12925
+Lusoga (Translation)	Aah! Omupiira!	id=20672
+Ng’aturkana (Translation)	Woe! Epira!	id=13212
+Otuho (Translation)	Ah! Akura!	id=39044
+Spanish (Translation)	¡Oh! Fútbol!	id=35741

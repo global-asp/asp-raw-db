@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34655&d=0&a=1
+id:	34655
+title:	Adventure around South Africa
+author:	Chantel Botha
+artist:	Chantel  Botha
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34655.png
+desc:	Teaches the 9 provinces of South Africa and their capital cities. (This storybook was originally created on the Maker App
+
+page_text:
+
+P1	Chanri and Boipelo are going on an adventure around South Africa. @@Their journey starts in Kimberley, in the Northern Cape. @@In Kimberley you will find the Big Hole!
+P2	Tjoeke puff toot-toot, they travel to Cape Town in the Western Cape. @@Chanri and Boipelo pick juicy grapes at the farms.
+P3	Tjoeke puff toot-toot, then they head off to Bhisho, in the Eastern Cape.@@The two friends have fun at the Elephant Park!
+P4	Tjoeke puff toot-toot, they pass through the Free State. @@They admire all the pretty roses blooming in Bloemfontein.
+P5	On to Mahikeng, in the North West. @@The train slows down to meet Rina the rhino at the National Park. @@Then our friends speed on to Polokwane, in Limpopo.
+P6	Toot-toot toot-toot! They're running late, so the train doesn't stop in Johannesburg, Gauteng. @@From the train they see many cars and people in this busy city of gold.
+P7	Tjoeke puff toot-toot, they travel to Emalahleni, in Mpumalanga. @@They visit a big coal factory to get fuel for their train.
+P8	Chanri and Boipelo end their train journey in Pietermaritzburg, KwaZulu-Natal.@@They share sweet bananas with their friends, and talk about their adventure around the country.@@Do you remember the provinces and their cities?
+
+images:
+
+illustrations/pages/93740287.png
+illustrations/pages/93740280.png
+illustrations/pages/93740282.png
+illustrations/pages/93740284.png
+illustrations/pages/93740281.png
+illustrations/pages/93740283.png
+illustrations/pages/93740285.png
+illustrations/pages/93740286.png
+illustrations/pages/93740287.png
+
+translations:
+
+Afrikaans (Translation)	Avonture deur Suid-Afrika	id=34707
+Setswana (Translation)	Loeto go ralala Aforika Borwa	id=34714
+Tshivenḓa (Translation)	Lwendo lu takadzaho lwa u mona Afurika Tshipe	id=37027
+Xitsonga (Translation)	Ku valanga Afrika-Dzonga	id=37107

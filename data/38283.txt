@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=38283&d=0&a=1
+id:	38283
+title:	Baɓatti
+author:	Yunuusa  Yaakubu
+artist:	Rob Owen
+lang:	Fulfulde Mbororoore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38283.png
+desc:	Baɓatti nasti gese gure feere-feere
+
+page_text:
+
+P1	Nyalnde feere, min ngi'i ruldere ɓaleere e wanngoya daga daayiiɗum. @@Ɗum ruldere baɓatti, e ɗi paɗoyi gure amin.
+P2	Baɓatti nasti gese, ɗi nyaami aaweeji fuu.
+P3	Min kaɓdi riiwugoɗi, ammaa ɗi cali dillugo.
+P4	Min ngaɗi hooloore, min ngulli, "Wuuu! Wuuu!" @@Ammaa baɓatti ndillaayi.
+P5	Min piyi goŋgoŋji bee payanɗe jamɗe, ammaa baɓatti ndillaayi.
+P6	Min kuɓɓi hiite ngam riiwugo baɓatti, ammaa ɗi ndillaayi.
+P7	Ɗi koɗi dow leɗɗe. Lise ngewi ngam tedduɗum baɓatti.
+P8	Sey min numti, asee, baɓatti juɗaaɗi e mbeli nyaamugo! @@Koo moye fuɗɗi mooɓugo baɓatti nder buhuuje bee raagaaji.
+P9	Ɓiɓɓe ngaddi paali kebbiniɗi bee baɓatti.
+P10	Min njuɗi baɓatti, min ca'iɗi, haa min njorni goɗɗi, kewtayɗi ndunngu, ngam sigaago. @@Ammaa baɓatti timmaayi, e ɗi lutti.
+P11	Sey fini fajiri, baɓatti piiri, ndilli. @@Ruldere nden ali wuro amin.
+P12	Nde remooɓe ngi'i gese maɓɓe, ɓe mboyi semmbee, "Gese amin mbonnidaama!" @@Himɓe wuro mboyi, "Ɗume nyaameten hikka? Ɗume baɓatti alani'en?"
+
+images:
+
+illustrations/pages/10597.png
+illustrations/pages/10597.png
+illustrations/pages/10598.png
+illustrations/pages/10599.png
+illustrations/pages/10600.png
+illustrations/pages/10601.png
+illustrations/pages/10602.png
+illustrations/pages/10603.png
+illustrations/pages/10604.png
+illustrations/pages/10605.png
+illustrations/pages/10606.png
+illustrations/pages/10607.png
+illustrations/pages/10608.png
+
+translations:
+
+Dhopadhola (Translation)	Bonyo	id=19476
+English (Original)	Locusts	id=13455
+French (Translation)	Les sauterelles	id=39910
+Lusoga (Translation)	Enzige	id=26031

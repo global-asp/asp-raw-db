@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=37720&d=0&a=1
+id:	37720
+title:	Zuba, Mwezi, Mvwula a Muwo
+author:	Limbali Muyendekwa and Maureen Musale
+artist:	Children of Paleng
+lang:	ChiTonga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37720.png
+desc:	Zuba
+
+page_text:
+
+P1	Mbukaaniinga! Kale-kale, Zuba, Mwezi, Mvwula a Muwo zyakali kulwana.
+P2	Penzi lyakali lyakuti Zuba lyakali kuyanda kubala buzuba boonse. Mwezi wakali kuyanda kumweka buzuba boonse. @@Ayalo Mvwula yakali kuyanda kuloka buzuba boonse, awalo Muwo wakali kuyanda kubbubbula buzuba boonse. @@Boonse tiibakali kuyanda kupana ciindi pe.
+P3	Bakazuminana kukkala muswaangano kuti babandisyanye. Zuba lyakabuzya mwezi, "Ino ncinzi ncocita cigwasyilizya nyika?" @@Mwezi wakavwiila, "Ndilamweka masiku oonse kutegwa banyana kabaweza kabotu."
+P4	Mpoona Mwezi wakabuzya Mvwula, "Ino ncinzi ncocita kugwasyilizya nyika?" @@Mvwula yakavwiila, "Ndilapa meenda kuzyisamu azyisyango kuti kazyikomena kabotu. Ndilapa meenda akunywa kubanyama."
+P5	Mpoona ayalo Mvwula yakabuzya Muwo, "Ino ucitaa nzi kugwasyilizya nyika?" @@Muwo wakavwiila, "Ndilakukula akusalazya nyika. Ndilamwaya mvwula nyika yoonse."
+P6	Muwo wakabuzya Zuba, "Ino ncinci ncocila kugwasyilizya nyika?" @@Zuba lyakavwiila, "Ndipa mumuni akukasaazya nyika kutegwa banyama azyisyango kazyipona."
+P7	Zuba, Mwezi, Mvwula a Muwo zyakaswiililana kabotu-kabotu.
+P8	Zuba lyakaamba lyakati, "Ncobeni umwi aumwi wesu kuli mbwagwasyilizya nyika." @@"lnzya," Mwezi wakaamba. "Kunyina muli cesu wiinda mweenzyinyina. Inga twabelekela antoomwe," Mvwula yakayungizya. @@Mpoona Muwo wakati, "Nkokuti atwaabane mazuba." Boonse bakazuminana.
+P9	Nkikaambo kaako ncomubona kuti mazuba amwi mubona mwezi azuba kazyimweka antoomwe. Alimwi muzyimwi zyiindi mulamvwa muwo kaubbubbula amvwula kailoka. @@Zuba, Mwezi, Mvwula a Muwo zyilabeleka kabotu antoomwe. Zyilamvwana.
+P10	Sena uyanda zuba, mwezi, mvwula antela muwo? @@Enga cifwanikiso cacintu ncoyandisya akati kazyintu eezyi.
+P11	Tuliiyanda nyika kuti tupone kabotu. Ilatupa cakulya aciteente, banyama azisyango. @@Zyoonse zilatugwasya munzila imwi. Mukusandula, inga twacita cimwi cintu kugwasya nyika yesu. @@Ulacita nzi kugwasya nyika yesu? Kolemba ncokonzya kucita.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+Afrikaans (Translation)	Son, Maan, Reën en Wind	id=37763
+Chichewa (Translation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=34965
+Chinkhonde (Translation)	Suba, Mwesi, Fula ni Mbelo	id=35000
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula, Amuwo	id=37407
+Chitonga (Malawi) (Translation)	Lumwi, Mwezi, Vuwa ndi Mphepu	id=35025
+CiNyanja (Translation)	Zuba, Mwezi, Mvula na Mpepo	id=32840
+CiNyanja (Adaptation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=37722
+Citumbuka (Translation)	Zuŵa, Mwezi, Vula na Mphepo	id=35051
+Ciyawo (Malawi) (Translation)	Lyuŵa, Mwesi, Ula ni Mbepo	id=35075
+Ellomwe (Malawi) (Translation)	Nndduwa, Mweri, Murimu na Ephevo	id=35107
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Kasuba, Mweshi, Mmfula, na Mwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+IciBemba (Adaptation)	Akasuba, Umweshi, Imfula Noomwela	id=37723
+isiXhosa (Translation)	ULanga, uNyanga, uMvula noMoya	id=37848
+isiZulu (Translation)	ULanga, uNyanga, uMvula noMoya bayaxoxa	id=37712
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sepedi (Translation)	Letšatši, Ngwedi, Pula le Moya	id=32458
+Sesotho (Lesotho) (Adaptation)	Letsatsi, Khoeli, Pula le Moea	id=34939
+Sesotho (South Africa) (Translation)	Letsatsi, Kgwedi, Pula le Moya	id=32437
+Siswati (Translation)	Lilanga, Inyanga, Imvula neMoya	id=32444
+Tshivenḓa (Translation)	Ḓuvha, Ṅwedzi, Mvula na Muya	id=37855
+Xitsonga (Translation)	Dyambu, N'weti, Mpfula na Moya	id=37747

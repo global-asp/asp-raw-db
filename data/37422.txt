@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=37422&d=0&a=1
+id:	37422
+title:	Imuche wangu imutolo
+author:	Nchimunya Kanyemba
+artist:	Mlungisi Dlamini
+lang:	ChiTonga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/37422.png
+desc:	Imupati wanyema akaambo akakuti imuche wakwe wile kusobana ciindi choonse kuti imupati wakwe ulabeleka inchito izyamunganda alike.
+
+page_text:
+
+P1	Ndabuka kuseni aku@  kunka mulilo
+P2	Ndakabizya menda amulilo
+P3	Nindakamana ndaka gonka@  nkunii
+P4	Ndachumba imipika.
+P5	Ndaka kukula imungada
+P6	Ndakasanzya imitiba
+P7	Ino chinzi chendibeleka@  boobu?
+P8	Kakuli imwana okwesu@  wile kusobana!
+
+images:
+
+illustrations/pages/978.png
+illustrations/pages/979.png
+illustrations/pages/980.png
+illustrations/pages/981.png
+illustrations/pages/983.png
+illustrations/pages/984.png
+illustrations/pages/985.png
+illustrations/pages/987.png
+
+translations:
+
+Arabic (Translation)	الأخ الصغير الكسول	id=21852
+Aringati (Translation)	Álụ́ma Ꞌbã Ádrị́pị Ĩmbíráŋá Ũvú Rĩ	id=7239
+CiNyanja (Translation)	Mphwanga Waulesi	id=37421
+English (Original)	Lazy little brother (Colour-in)	id=2896
+IciBemba (Translation)	Indume umwaice umunang'ani	id=37420
+isiXhosa (Translation)	Umnakwethu omncinci olivila	id=13160
+Kikamba (Translation)	Kamwanayia Kaanu	id=2898
+Lubukusu (Translation)	Wandayase Omukara	id=2899
+Luganda (Translation)	Muto Wange Munafu	id=2900
+Lugbarati (Translation)	Ma Adri Gaa Ovuo Ru Ri	id=2901
+Lugbarati (Official) (Translation)	Ma Adrigaaovuoruri	id=8796
+Lumasaaba (Translation)	Waandaaye Umukyeekhe Umutoro	id=2903
+Lunyole (Translation)	Muto Yange Omudoto	id=2904
+Lunyole (Translation)	 	id=21094
+Lusoga (Translation)	Lwaki Nkola Zenka?	id=2905
+Lusoga (Translation)	Muke ghange omugayavu	id=26974
+Maa (Translation)	Olotí Aláshe Túrúáí	id=2897
+Ng’aturkana (Translation)	Lokaito Loochi Lokalany	id=2906
+Olukabarasi (Translation)	Mbotswa Omutiti	id=31908
+Oluwanga (Translation)	Akhasiani Akhatofu	id=2907
+Runyankore (Translation)	Mutto wangye omunafu	id=23542
+Sabinyi (Translation)	Yeya Lekwa Nyee Puren	id=2908
+Setswana (Translation)	Nnake Yo O Botswa	id=2909
+Somali (Translation)	Walal Yar Oo Caajislow Ah	id=17264

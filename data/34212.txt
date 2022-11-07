@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=34212&d=0&a=1
+id:	34212
+title:	Storybook Test "hello
+author:	Raul Luar
+artist:	
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34212.png
+desc:	Test of double quote mark on storybook page
+
+page_text:
+
+P1	Page one
+P2	Page two "What?"
+P3	Page 3 don't
+P4	Page four '' this is 2 single quote marks.@On the next page  (5) are double quote marks
+P5	This is page 6
+
+images:
+
+illustrations/pages/79970200.png
+illustrations/pages/.png
+illustrations/pages/.png
+illustrations/pages/.png
+illustrations/pages/.png
+illustrations/pages/.png
+
+translations:
+

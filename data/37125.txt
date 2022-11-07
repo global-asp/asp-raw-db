@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=37125&d=0&a=1
+id:	37125
+title:	Ndzi dyondze dyondzo
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Catherine Groenewald
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37125.png
+desc:	Nhwana lontsongo u lava ku vona kokwanaxisati wa yena loko a furheka tibanana.
+
+page_text:
+
+P1	Kokwanaxisati a ndzi rhandza.@@U ndzi byele swihundla swotala handle ka xin'we ntsena.
+P2	"Xana basikiti na makamba i swa yini?"@@Kokwanaxisati a ku, "I swa masalamusi."
+P3	A ndzi lava ku vona.@@Kambe kokwanaxisati va ndzi rhuma ku endla swin'wana.
+P4	"Ti kwihi?"@@"Ti le ndhawuni ya mina ya masalamusi," ku vula kokwana.
+P5	Kokwanaxisati a ndzi rhuma endlwini ya yena.@@Ndzi twa tibanana to vupfa ti nuhela.
+P6	Ndzi kuma ndhawu ya masalamusi ya kokwanaxisati.@@Ndzi vonile tibanana leti vupfaka.
+P7	Ndzi dyile yin'we.@@A ku ri banana yo tsokombela eka tibanana leti ndzi nga tshama ndzi dya.
+P8	Ndzi teka tibanana ta mune.@@Ndzi ti tumbeta endzeni ka rhoko.
+P9	Hi siku ra makete, kokwanaxisati va teka swakudya va ya eku xaviseni.@@A ndzi nyumile.
+P10	Loko ndzi ya vitaniwa endzhaku ka nkarhi, se a ndzi swi tiva leswaku hikwalaho ka yini.@@A ndza ha yivangi na siku na rin'we.
+
+images:
+
+illustrations/pages/1360.png
+illustrations/pages/1361.png
+illustrations/pages/1360.png
+illustrations/pages/1362.png
+illustrations/pages/1363.png
+illustrations/pages/1364.png
+illustrations/pages/1366.png
+illustrations/pages/1368.png
+illustrations/pages/1369.png
+illustrations/pages/1370.png
+illustrations/pages/1371.png
+
+translations:
+
+Arabic (Translation)	موز جدتي	id=21873
+Ekegusii (Translation)	Amatoke A'Baba	id=2371
+English (Original)	Grandma's bananas	id=2094
+English (Adaptation)	I learnt a lesson	id=21792
+English (Adaptation)	Grandma's bananas (Colour-in)	id=32548
+English (Adaptation)	Grandma's bananas	id=36118
+French (Translation)	Les Bananes De Grand-Mère	id=9956
+Fulfulde (Translation)	Bananaaje Maamiyo Debbo	id=10008
+Fulfulde Mbororoore (Translation)	Kondomje Maama	id=38284
+isiZulu (Translation)	Ngifunde isifundo	id=32637
+Kanuri (Translation)	Ayawa Kakaye	id=10034
+Kikamba (Translation)	Maiũ ma Sũsũ	id=2367
+Kinyarwanda (Translation)	Imineke ya nyogokuru	id=32576
+Kiswahili (Translation)	Ndizi za Bibi	id=15942
+Kiswahili (Translation)	Nilipata Funzo	id=21836
+Luganda (Translation)	Nayiga essomo	id=24164
+Lugbarati (Translation)	Dede Ma A’Bua	id=2368
+Lugbarati (Official) (Translation)	Dede Vile A’Bua Ri	id=8749
+Lumasaaba (Translation)	Kamarofu ka Kuukhu	id=3095
+Lusoga (Translation)	Nayega eisomo	id=29322
+Maa (Translation)	Ilmaisurîn Le Kokoô	id=2742
+Oluwanga (Translation)	Amaremwa Ka Kukhu	id=2370
+Tshivenḓa (Translation)	Ndo guda ngudo	id=37299
+Zarma (Translation)	Ay Kaayi Banaaney	id=10099

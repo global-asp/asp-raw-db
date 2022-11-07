@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=37110&d=0&a=1
+id:	37110
+title:	Nsuna yo dzindela
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Magriet Brink
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37110.png
+desc:	Hinkwerhu ha wu tiva mpfumawulo wa nsuna loko wu karhi ku nininini nivusiku. Xitsotswana xitsongo kambe ku dzindela i kukulu.
+
+page_text:
+
+P1	Gogogoo! Gogogoo!
+P2	"I mani?" hi mina ndzi vutisaka ndzi ri na vurhongo.
+P3	"Hi mina," mpfumawulo wo tontswela wu hlamula.
+P4	"I mani 'hi mina'?" ndzi vutisa.
+P5	"Ndzi ku byerile, hi m-i-n-a n-t-s-e-n-a," mpfumawulo wu vuya nakambe.
+P6	"A ndzi tivi munhu loyi a vitaniwaka, 'm-i-n-a n-t-s-e-n-a'," ndzi hlamula. @@Ndzi xiya ku vona loko nete wa mina wa tinsuna wu rhendzerile mubedwa wa mina.
+P7	"Hi swona, hi mina Amos." @@Mpfumawulo wu twakala wu tontswile swinene ku tlula emasungulweni.
+P8	"Amos wihi?" ndzi vutisa ndzi ri karhi ndzi languta ehansi ka nete.
+P9	"Amos Nsuna," mpfumawulo wu vula. @@Ndzi twa ku lumiwa endleveni.
+P10	"Yoo!" Ndzi tlula ndzi sungula ku lavalava. @@"U ta swi hakela leswi!" hi mina ndzi cemaka.
+P11	Ndzi hlundzukile, ndzi pfuka ndzi ya layita rivoni.
+P12	Ndzi lava ku susa nyimpi eka Amos Nsuna wo dzindela!
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+Afrikaans (Translation)	Muskietejag	id=37401
+English (Original)	Annoying mosquito	id=14893
+English (Adaptation)	Annoying mosquito	id=36072
+French (Translation)	Moustique gênant	id=33335
+Kiswahili (Translation)	Mbu msumbufu	id=21635
+Luganda (Translation)	Wansili anyiiza	id=22989
+Lusoga (Translation)	Ensiri enhiiza	id=25729
+Setswana (Translation)	Monang o o tshwenyang	id=14964
+Spanish (Translation)	Mosquito molesto	id=35728
+Tshivenḓa (Translation)	Lunyunyu lu sinyusaho	id=37289

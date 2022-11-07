@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=39738&d=0&a=1
+id:	39738
+title:	Quanti sono?
+author:	Luisa Ceresola
+artist:	Sandra McDougall
+lang:	Italian
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/39738.png
+desc:	Conta gli insetti
+
+page_text:
+
+P1	Quante zampe hanno le due coccinelle?
+P2	Quante ali hanno i quattro uccelli?
+P3	Quante corna hanno i tre rinoceronti?
+P4	Quante proboscidi hanno i cinque elefanti?
+P5	Quante orecchie hanno i sette cani?
+P6	Quante code hanno le tre scimmie?
+P7	Quanti occhi hanno i sei gatti?
+P8	Quante zampe ha il verme?
+
+images:
+
+illustrations/pages/1786.png
+illustrations/pages/1600.png
+illustrations/pages/1599.png
+illustrations/pages/1601.png
+illustrations/pages/1602.png
+illustrations/pages/1603.png
+illustrations/pages/1604.png
+illustrations/pages/1605.png
+illustrations/pages/1606.png
+
+translations:
+
+Amharic (Translation)	ስንት?	id=13123
+Aringati (Translation)	Kí Sị́ Yã?	id=7229
+Ateso (Translation)	Imwasi Ayi?	id=2870
+Dhopadhola (Translation)	Adi?	id=19488
+English (Original)	How many?	id=1787
+French (Translation)	Combien ?	id=33799
+Kikamba (Translation)	Syianaata?	id=2871
+Kiswahili (Translation)	Ni ngapi?	id=9529
+Luganda (Translation)	Bimeka?	id=2872
+Lugbarati (Translation)	Yii Siya	id=12640
+Lumasaaba (Translation)	Biba Byeenga?	id=2873
+Lusoga (Translation)	Ameka?	id=2874
+Lusoga (Translation)	Bimeka?	id=26646
+Sabinyi (Translation)	Ata?	id=2875
+Setswana (Translation)	Tse Kae?	id=2876
+Spanish (Translation)	¿Cuántos?	id=36360

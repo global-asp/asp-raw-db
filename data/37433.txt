@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=37433&d=0&a=1
+id:	37433
+title:	Nyimbo ya Sakima
+author:	Tapiwa K. Sibanda
+artist:	Peris Wachuka
+lang:	ChiTonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37433.png
+desc:	Musakwa utaboni ulayimba kabotu aku yuumya-yumya muvwubi. Kamulibonene bakangwasigwa.
+
+page_text:
+
+P1	Sakima wakali kukkala a bazyali bakwe@  a munyina musimbi wakali a myaka ili yone. Bakali kukkala munyika yamuvwubi.@  Nganda yabo yabwizyu yakali kumamanino a zyisamu.
+P2	Naakali a myaka yotatwe, Sakima@  wakaciswa akuleka kubona. Sikama wakali musakwa wakajisi cipego.
+P3	Sakima wakalikucita zyintu zyinji,@  balo beenzyina zyobakali kwaalilwa kucita. Mbuli kukkala abapati-pati@  bamumizyi akulanganya twaambo atumbi twaambo twabapati.
+P4	Bazyali ba Sakima bakali kubeleka mu@  nganda yamuvwubi. Bakali kufyuma kuzwa a nganda a kupiluka kumangolezya@  manigi. Sakima waksli kucaala a nganda a musyooto waakwe musimbi.
+P5	Sakima wakali, kukuyanda kwiimba@  nyimbo. Buzuba bumwi banyina bakamubuzya ati, “hene uzyiila kuli nyimbo ezyi,@  Sakima?”
+P6	Sakima wakaingula, “ndizyi buyo baama.@  Ndizyinvwa buyo mumutwe, kwamana ndatalika kwiimba.”
+P7	Sakima wakali kuyanda kwiimbila@  musyoonto wakwe musimbi, kapati kuti kanvwide nzala. Musyoonto wakwe wakali@  kuswiilila kaimba lwiimbo ndwaa kali kuyandisya. Wakali kuvwa kabotu lwiimbo.
+P8	“koimba alimwi; Sakima” musyoonto@  wakwe musimbi wakali kulomba Sakima wakali kuzumina Sakima wakali kuzumina@  akwiinduluka kwiimda.
+P9	Mzngolezya aamwi bazyali bakwe noba@  kapiluka kunganda bakali kumwinye maningi. Sakima wakazyiba kuti kuli@  cilubide.
+P10	“Ino ncizi calubila baama a bataata?”@  wakabuzya Sakima. Sakima wakazyiba kuti kuti mwaana wamuvwubi wakasweeka.@  Aboobo muvwubi wakalendelelwa akuusa.
+P11	“Inga ndamwiimbila mebo. Ndiza inga@  wakomana alimwi,”Sakima wakabaambila bazyali bakwe. Pesi bazyali bakwe@  bakamukasya. “ulya ulivubinde aboobo yebo ulimusakwa ubayinde. Uyeea kuti@  nyimbo zyako inga zyangwasya zi kulinguwe?”
+P12	Nokuba boobo, Sakima taakaleka pe.@  Musyoonto wakwe wakamugwasilizya. Wakati, “nyimbo zyaSakima zyilauumbulizya@  kuti ndila anzala. Aboobo amuvwibi zyilakonzya kumuumbuli.
+P13	Buzuba bwakatobela, Sakima wakaambila@  musyoonto wakwe kuti amusindikile kunganda ya muvwubi.
+P14	Wakaima ansi ampulungwido akutalika@  kwiimba lwiimbo ndwaakali kuyandisya. Asyooto-soonto, mutwe wamuvwubi@  wakatalika kulibonya a mpulungwido.
+P15	Bamabelesyi bakaleka zyobakali kucita.@  Bakatalika kuswiilila lwiimbo lwa Sakima lubotu. Umwi musakwa wakati,@  “kunyina waakonzya kumuumbulizya uutulela. Ino mwana ooyu uubayide uyeeya@  kuti inga wacikonzya?”
+P16	Sakima wakamanizya kwiimba nyimbo@  yakwe akunyo na kuti aunke. Pesi muvwubi wakabalikila anze akwaaamba kuti@  “ndakomba, koyimba alimwi.”
+P17	Acindi nchemunya ciya, kwakayinda@  basankwa bobilo kabanyamwunde muntu. Bakamunjana mwana wamuvwubi kulumwesyi@  kwanzila kaumidwe.
+P18	Muvwubi wakakomana kubona bwana wakwe@  musankwa. Wakalumbula Sakima nkambo wakamuumbulizya. Wakabwezya mwana wakwe@  musankwa alimwi a Sakima, akuunka kuciibbadela, kuya unziba na Sakima inga@  waboona alimwi.
+
+images:
+
+illustrations/pages/13105.png
+illustrations/pages/13101.png
+illustrations/pages/13102.png
+illustrations/pages/13103.png
+illustrations/pages/13104.png
+illustrations/pages/13105.png
+illustrations/pages/13106.png
+illustrations/pages/13107.png
+illustrations/pages/13108.png
+illustrations/pages/13109.png
+illustrations/pages/13111.png
+illustrations/pages/13110.png
+illustrations/pages/13112.png
+illustrations/pages/13113.png
+illustrations/pages/13114.png
+illustrations/pages/13115.png
+illustrations/pages/13116.png
+illustrations/pages/13117.png
+illustrations/pages/13118.png
+
+translations:
+
+Arabic (Translation)	أغنية سكيما	id=21877
+English (Translation)	Sakima's song	id=13244
+English (Adaptation)	Sakima's song (Colour-in)	id=32562
+IciBemba (Translation)	Ulwimbo lwakwa Sakima	id=37431
+Kinyarwanda (Translation)	Indirimbo ya Gahima	id=32640
+Lusoga (Translation)	Olwemba lwa Sakima	id=28804
+SiLozi (Translation)	Sakimas  song	id=37432

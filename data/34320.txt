@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=34320&d=0&a=1
+id:	34320
+title:	Nyiko a kuma nguluve yakwe
+author:	Given J Hlongwani
+artist:	Marion Drew
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34320.png
+desc:	Nyiko a lahlekeriwa hi nguluve eka nghozi. Xana ku ta humelela endzhaku ka sweswo?
+
+page_text:
+
+P1	Nyiko u teka riendzo na nguluve ya yena ku ya jikajika hi xikanyakanya xa yena.
+P2	A tlumba ribye endleleni. @@Nguluve yi wela ehansi. Yi rila. Yi ku, "Ncwiiii, ncwiiiiii!"
+P3	Hlulani a yi kuma. @@A ku, "Hay'khona, xana nguluve leyi i ya mani?"
+P4	Hlulani a yi hlongorisa, ku fikela loko a yi khoma.
+P5	A teka nguluve a yi yisa ehosini. @@Hosi yi n'wi byela ku ri a yi hlayisa.
+P6	Nyiko a hundza hi kwala ndleleni. @@A twa ku gomela ka nguluve, "Hoooo, hoooo, hooo!"
+P7	A nghena endzeni. U tsakile ku vona nguluve ya yena.
+P8	Nyiko a ku ka nguluve ya yena, "Tana, a hi ye ekaya. A hi nge he chovhi xikanyakanya nakambe."
+
+images:
+
+illustrations/pages/15918.png
+illustrations/pages/15916.png
+illustrations/pages/15917.png
+illustrations/pages/15918.png
+illustrations/pages/15920.png
+illustrations/pages/15919.png
+illustrations/pages/15921.png
+illustrations/pages/15923.png
+illustrations/pages/15924.png
+
+translations:
+
+English (Translation)	Neo finds her pig	id=15972
+isiNdebele (Translation)	UNeo uthola ifarigi yakhe	id=35227
+Lusoga (Translation)	Naira ayagaana embiidhiye	id=28279
+Sesotho (Lesotho) (Original)	Neo a fumana fariki ea hae	id=15970
+Sesotho (South Africa) (Translation)	Neo o fumana fariki ya hae	id=33515
+Siswati (Translation)	Neo utfola ingulube yakhe	id=34464
+Tshivenḓa (Translation)	Tshifhiwa u wana nguluvhe yawe	id=34246

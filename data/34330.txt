@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=34330&d=0&a=1
+id:	34330
+title:	Hinkwavo va ya eMalawi
+author:	Given J Hlongwani
+artist:	Jacquiline  K
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34330.png
+desc:	Xana ku nga va na loyi a nga salaka na mutsari lotsongo wa ntsheketo lowu? (Ntsheketo na vukombisi swi endliwile eka nhlengeletano hi nkarhi wa ku wisa hi Khotavuxika 2019
+
+page_text:
+
+P1	A hi tshama na Kokwana na mhani.
+P2	Vazala wa mina, Christina, Thandi, Junior na hahani a hi tshama swin'we.
+P3	Kokwana a ta hi dyondzisa mitlangu.@@A ku ri nkarhi wa khale.
+P4	Kutani, Junior u yile eMalawi, na Kokwana u yile eMalawi.
+P5	Na hahani na Christina va yile eMalawi.
+P6	Kutani na Thandi u yile eMalawi.
+P7	A swi vava swinene.@@A ku ri hava loyi a tshama na hina.
+P8	Kambe a swi bihangi hi ndlela yaleyo, hikuva manana wa mina wa ha ri na mina.
+
+images:
+
+illustrations/pages/91400121.png
+illustrations/pages/91400117.png
+illustrations/pages/91400118.png
+illustrations/pages/91400119.png
+illustrations/pages/91400120.png
+illustrations/pages/91400121.png
+illustrations/pages/91400122.png
+illustrations/pages/91400123.png
+illustrations/pages/91400124.png
+
+translations:
+
+English (Original)	Everyone goes to Malawi	id=33735
+French (Translation)	Tout le monde va au Malawi	id=33843
+French (Adaptation)	Tout le monde va à  N'Djamena	id=38764
+isiNdebele (Translation)	Woke umuntu uya eMalawi	id=35237
+isiZulu (Translation)	Bonke baya eMalawi	id=33774
+Kiswahili (Translation)	Kila mmoja anakwenda Malawi	id=33757
+Lingala (Translation)	Mutu nioso azokende na Malawi	id=33805
+Sesotho (South Africa) (Translation)	Batho bohle ba ya Malawi	id=33790
+Siswati (Translation)	Wonkhe umuntfu uya eMalawi	id=34477
+Tshivenḓa (Translation)	Muṅwe na muṅwe u khou ya Malawi	id=34256

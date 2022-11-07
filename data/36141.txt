@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=36141&d=0&a=1
+id:	36141
+title:	Bose the Dancer
+author:	ECEWS Sahel
+artist:	Thea Nicole de Klerk
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36141.png
+desc:	This is the story of the life of Phyliis Spira
+
+page_text:
+
+P1	By the time she was four, she had learned very@  quick. She impressed all her teachers, with her ducky feet flicks! Before@  school and after, she danced everyday. Nothing@  pleased Felicia, more than ballet.
+P2	Your adapted text
+P3	Your adapted text
+P4	Your adapted text
+P5	Your adapted text
+P6	Your adapted text
+P7	Your adapted text
+P8	Your adapted text
+P9	Your adapted text
+P10	Your adapted text
+P11	Your adapted text
+
+images:
+
+illustrations/pages/8814.png
+illustrations/pages/8804.png
+illustrations/pages/8805.png
+illustrations/pages/8806.png
+illustrations/pages/8807.png
+illustrations/pages/8808.png
+illustrations/pages/8809.png
+illustrations/pages/8810.png
+illustrations/pages/8811.png
+illustrations/pages/8813.png
+illustrations/pages/8812.png
+illustrations/pages/8814.png
+
+translations:
+
+Amharic (Translation)	የዳንሰኛ ተረት፡- የፊሊስ ስፒራ ታሪክ	id=33902
+English (Original)	A Dancer's Tale: The Story of Phyllis Spira	id=8815
+Lusoga (Translation)	Olugero lwo omukini Fillis Spira	id=23263
+Spanish (Translation)	La Historia de Sofía la Bailarina	id=34942

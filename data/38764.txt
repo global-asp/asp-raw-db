@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=38764&d=0&a=1
+id:	38764
+title:	Tout le monde va à  N'Djamena
+author:	Bame Menkamla
+artist:	Jacquiline  K
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38764.png
+desc:	Est-ce quil y a quelquun qui va rester avec la jeune écrivaine de cette histoire? (Lhistoire et les illustrations créées lors dun atelier de vacances au mois de juin 2019
+
+page_text:
+
+P1	Nous vivions avec ma grand-mère et ma mère.
+P2	Mes cousins Bingar, Moussa, Adnely et aussi Ma tante Rahma vivaient avec nous.
+P3	Ma grand-mère nous apprenait des jeux. Elle nous racontait des histoires. C'était très sympa!
+P4	Un jour, Bingar est allé à N'Djamena et grand-mère est allée à N'Djamena. Je n'avais plus personne pour me raconter des histoires
+P5	Ma tante Rahma et ma cousine Adnely sont aussi allées à  N'Djamena.
+P6	Enfin, Moussa aussi est parti pour N'Djamena.
+P7	C'était vraiment triste.@@Personne ne pouvait rester avec nous.
+P8	Mais, ce n'est pas si grave, car ma mère est toujours ici avec moi.
+
+images:
+
+illustrations/pages/91400121.png
+illustrations/pages/91400117.png
+illustrations/pages/91400118.png
+illustrations/pages/91400119.png
+illustrations/pages/91400120.png
+illustrations/pages/91400121.png
+illustrations/pages/91400122.png
+illustrations/pages/91400123.png
+illustrations/pages/91400124.png
+
+translations:
+
+English (Original)	Everyone goes to Malawi	id=33735
+French (Translation)	Tout le monde va au Malawi	id=33843
+isiNdebele (Translation)	Woke umuntu uya eMalawi	id=35237
+isiZulu (Translation)	Bonke baya eMalawi	id=33774
+Kiswahili (Translation)	Kila mmoja anakwenda Malawi	id=33757
+Lingala (Translation)	Mutu nioso azokende na Malawi	id=33805
+Sesotho (South Africa) (Translation)	Batho bohle ba ya Malawi	id=33790
+Siswati (Translation)	Wonkhe umuntfu uya eMalawi	id=34477
+Tshivenḓa (Translation)	Muṅwe na muṅwe u khou ya Malawi	id=34256
+Xitsonga (Translation)	Hinkwavo va ya eMalawi	id=34330

@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=37560&d=0&a=1
+id:	37560
+title:	Safety Manual
+author:	Shadika Davis
+artist:	Shadika Davis
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37560.png
+desc:	A book about Safety. This is a Safety Manual.
+
+page_text:
+
+P1	What is Safety?@The condition of being protected from harm or other danger.
+P2	Four Possible Accidents that may happen in a Lab.@1: Thermal and Chemical Burns@2: Electric Shock@3: Fire or Explosion@4: Inhalation of Toxic Fumes
+P3	What is First Aid?@First Aid is emergency care or treatment given to an ill or injured person before regular medical treatment is given.
+P4	Simple First Aid for Cuts, Burns and Electrocution.@@For Cuts: First rinse the cut or wound with water and apply pressure with sterile gauze, a bandage or a clean cloth.
+P5	Simple First Aid for Cuts, Burns and Electrocution cont'd.@@For Burns: First, cool the burn with water/cold water. Secondly, remove rings or other tight items from the burned area. Thirdly, apply lotion and lastly bandage the burn.
+P6	Simple First Aid for Cuts, Burns and Electrocution cont'd@For Electrocution:First, turn of the source of electricity if possible.You then ask "Can you hear me?". Ask them in both ears to open their eyes.Then pinch an earlobe. Then call 999.
+P7	Six Rules to Prevent Accidents. 1:Avoid skin and eye contact with chemicals.@2: Know location of safety equipment.@3: Lab Coat and Goggles should be worn at all times.
+P8	Six Rules to Prevent Accidents cont'd.@4: Examine glassware before using.@5: Before using a chemical, read the lable carefully.@6: Maintain and use equipment properly.
+
+images:
+
+illustrations/pages/44750101.png
+illustrations/pages/44750102.png
+illustrations/pages/44750103.png
+illustrations/pages/44750104.png
+illustrations/pages/44750105.png
+illustrations/pages/44750106.png
+illustrations/pages/44750107.png
+illustrations/pages/44750108.png
+illustrations/pages/44750109.png
+
+translations:
+

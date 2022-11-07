@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=36690&d=0&a=1
+id:	36690
+title:	Æwæmer l-qerd
+author:	Ramzi Hachani
+artist:	Isaac Okwir
+lang:	Tunisian
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36690.png
+desc:	Ɛlæċ l-wæħed yelzmu yċokk fel-æwæmer elli mæ ɛandhom ħatta maɛna.
+
+page_text:
+
+P1	Don kæn qerd ɛđim. Kæn ɛirud.
+P2	Kæn kbir l-qruda.
+P3	Nhar men-nharat, l-muridin mtæɛu ɛtawh qassa qmæċ brima.
+P4	"Ataww nqarrat rasi bel-qmæċ hæđa," qal Don.
+P5	"N-næs l-koll tæbbɛu æwæmri. Mæ tċokkuċ fiya!" ɛayyat Don.
+P6	Yæxi muridinu semɛu klæm kbirhom. Kæn Don næggez, lkollhom næggzu mɛah.
+P7	Æmma t-taqrita elli fuq ras Don kænet maħzuqa yæser.
+P8	Ċædd rasu. Yæxi l-qruda ċæddu ryushom.
+P9	"Rasi yuwjaɛ," qal Don. "Rasi yuwjaɛ," ɛawdu wrah l-oxrin.
+P10	"Hæđi yæser maħzuqa!" "Hæđi yæser maħzuqa," ɛawdu l-oxrin.
+P11	Taħ Don men hæfhuf. Taħu huma l-koll wrah.
+P12	Kbir l-qruda mæt. L-muridin mtæɛu tđarru, æmma menɛu.
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldeessaa	id=18907
+ChiNdau (Translation)	Dede reudzvinyiriri	id=35148
+English (Original)	Baboon tyrant	id=18906
+English (Adaptation)	Baboon's orders	id=19751
+Fulfulde Mbororoore (Translation)	Dorooru Mawndu Toonyotoondu	id=35805
+isiNdebele (Translation)	Ikosi Yeemfene	id=33019
+isiZulu (Translation)	Inkosi yezimfene	id=21913
+Kiswahili (Translation)	Nyani aliyekuwa chifu	id=21994
+Lulamoogi (Translation)	Omukulu W'eirike	id=25339
+Lusoga (Translation)	Omukulu gha amalike	id=25125
+Ng’aturkana (Translation)	Ekatukon Ang'ichomin	id=20344
+Oluwanga (Translation)	Lishene eliali omwami	id=22820
+Tiv (Translation)	Tor u Mbaikya	id=34658

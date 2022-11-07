@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=36139&d=0&a=1
+id:	36139
+title:	Letters
+author:	Doma DEDF
+artist:	Cathy Feek
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/36139.png
+desc:	This story is about a little girl who is ill and has to stay away from school. Letters are an important form of communication while she is off sick.
+
+page_text:
+
+P1	Last week I received a lot of letters.
+P2	On Monday my doctor wrote a letter to my teacher.
+P3	Thabisile is sick. She must stay at home.
+P4	On Tuesday I got a letter from my class.
+P5	Get well soon Thabisile!
+P6	On Wednesday I got a letter from my best friend.
+P7	I drew this picture for you. Love from Dudu.
+P8	On Thursday I got a letter from my mother.
+
+images:
+
+illustrations/pages/1398.png
+illustrations/pages/1398.png
+illustrations/pages/1399.png
+illustrations/pages/1400.png
+illustrations/pages/1401.png
+illustrations/pages/1402.png
+illustrations/pages/1403.png
+illustrations/pages/1404.png
+illustrations/pages/1405.png
+
+translations:
+
+Amharic (Translation)	ደብዳቤዎች	id=33870
+Aringati (Translation)	Ãyĩkõrú Ꞌbã Wárágã Kî	id=7238
+Ateso (Translation)	Ibaluwan	id=6152
+Ekegusii (Translation)	Amarube	id=1988
+English (Original)	Letters	id=1789
+English (Adaptation)	Ibaluwan	id=10156
+French (Translation)	Des lettres	id=33451
+Kikamba (Translation)	Valua	id=2007
+Kinyarwanda (Translation)	Amabaruwa	id=20338
+Kiswahili (Translation)	Barua	id=2912
+Lubukusu (Translation)	Chibarwa	id=2913
+Luganda (Translation)	Amabaluwa	id=3183
+Lugbarati (Translation)	Waraga Yi	id=2915
+Lugbarati (Official) (Translation)	Wárágà	id=8797
+Lumasaaba (Translation)	Tsibarwa	id=2918
+Lunyole (Translation)	Ebbaluŋa	id=2919
+Lusoga (Translation)	Embaluwa	id=2920
+Maa (Translation)	Impála	id=2781
+Ng’aturkana (Translation)	Ng’Abaruae	id=2921
+Olukhayo (Translation)	Chibarwa	id=2917
+Oluwanga (Translation)	Amasafu	id=2922
+Sabinyi (Translation)	Paalakyaanik	id=2923
+Setswana (Translation)	Makwalo	id=2924
+Xitsonga (Translation)	Mapapila	id=7699

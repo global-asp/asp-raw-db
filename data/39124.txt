@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=39124&d=0&a=1
+id:	39124
+title:	The dog and the bunny
+author:	Faris Gebratsadik
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39124.png
+desc:	A short story about a dog and a bunny written by a 5 year old.
+
+page_text:
+
+P1	The dog was looking for the bunny.
+P2	The bunny was trying to catch the dog.
+P3	But the dog caught the bunny and ate it!
+
+images:
+
+illustrations/pages/7600.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/7602.png
+
+translations:
+

@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=37058&d=0&a=1
+id:	37058
+title:	The Garage
+author:	Thapelo  Marota
+artist:	Catherine Groenewald, Rob Owen and Bronwen Heath
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37058.png
+desc:	This is aimed in improving conversations in the garage with workers and the surrounding people.
+
+page_text:
+
+P1	Nthekele borotho le maswi tlhe. @@Ke leboga ka thuso ya gago.
+P2	Monna o ya Karatsheng.@@O tshela disele le oli.
+P3	Rre o ithumetsi ka tshebeletso ya Karatsheng.
+P4	Base e ya Karatsheng go tshela disele.@@E tla go tlatseletsa oli le mataere.
+P5	Tlatsa mataere a koloi tlhe.
+
+images:
+
+illustrations/pages/1215.png
+illustrations/pages/10797.png
+illustrations/pages/9637.png
+illustrations/pages/9477.png
+illustrations/pages/11461.png
+illustrations/pages/9465.png
+
+translations:
+

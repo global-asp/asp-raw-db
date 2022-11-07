@@ -1,0 +1,71 @@
+url:	https://africanstorybook.org/reader.php?id=39447&d=0&a=1
+id:	39447
+title:	Aguek ku Pien
+author:	Philip Lual Bol
+artist:	Rob Owen
+lang:	Dinka
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39447.png
+desc:	Abuk jal deet e kaaŋ ken yic lɔn ci maadh ye cieŋ.
+
+page_text:
+
+P1	Aguek ku Pien ake maadh.
+P2	Go Aguek lueel, "Baar madhie buk ciath ku buk ma la neem."
+P3	Go Pien lueel, "Yin aca leec. Ku ye ŋa bi ɣook lɔk tiet baai thok?"
+P4	Go Agɔɔk lueel, "Baai aba lɔk tiet week."
+P5	Go Aguek dhien mabior taau jɔgɔ deyic bi yien man.
+P6	Aguek ku Pien aci jal rial bak piny. @@Ku jɔl ka ɣɔŋ cikic.
+P7	Kek aci la rɔm kek yɔɔm Alɔɔl. @@Ku Pien eci riɔc kek.
+P8	Go Aguek madhde kony.
+P9	Ku jɔl ke ɣet pan man Aguek ka ke ci cɔk nɔk apɛi.
+P10	Ku jɔl ka ke cin lɔɔk bik ciam tit.
+P11	Go Aguek lueel, "Pien nyuc nhial."
+P12	Go Pien them bi nyuc nhial, ku yeen aci ye leu ci men Aguek.
+P13	"Go pien lueel," aca ye leu ic cimen du Aguek.
+P14	Yen wɛt ken akɣec Aguek bɛn piŋ.
+P15	"Na ci ɣɛɛn ye deet cimen. Ke ɣɛn abi jal ba dhuk baai."
+P16	Pien aci puou jal riaak. @@"Ku lueel lɔn ye Aguek madhden ce yeen ye piŋ."
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/18784.png
+illustrations/pages/25000.png
+illustrations/pages/25001.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25010.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+illustrations/pages/25013.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+Asante Twi (Translation)	Apɔtrɔ ne Ͻwɔ	id=40228
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog and Snake	id=19762
+English (Adaptation)	Picture story 12	id=37245
+isiZulu (Translation)	UXoxo noNyoka	id=20718
+Kῖmῖῖrũ  (Translation)	Kῖũra na Njoka	id=32816
+Kinyarwanda (Translation)	Inzoka n' Igikeri	id=20763
+Kinyarwanda (Translation)	Igikeri n'inzoka	id=22007
+Kiswahili (Translation)	Chura na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere ni Wamusota	id=20398
+Lusoga (Translation)	Omukwano gwa Wakalenga ni Wamusota	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Oluwanga (Translation)	Lishere nende Inzukha	id=22755
+Rutooro (Translation)	Kikere na Njoka	id=23231
+Sepedi (Translation)	Segwagwa le noga	id=32911
+Setswana (Translation)	Segwagwa le Noga	id=21160

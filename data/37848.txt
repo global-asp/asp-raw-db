@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=37848&d=0&a=1
+id:	37848
+title:	ULanga, uNyanga, uMvula noMoya
+author:	Bukeka  Mahlangabeza and Neliswa Pretty Magangxa
+artist:	Children of Paleng
+lang:	isiXhosa
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37848.png
+desc:	ULanga
+
+page_text:
+
+P1	Kudaladala, uLanga, uNyanga, uMvula noMoya babesilwa.
+P2	Ingxaki yayikukuba uLanga wayefuna ukukhanyisa imini yonke. @@UNyanga wayefuna ukukhanyisa ukukhanya kwakhe yonke imihla. @@UMvula wayefuna ukuna yonke imihla, aze uMoya afune ukuvuthuza yonke imihla. @@Babengafuni ukunikana amathuba.
+P3	Bagqiba kwelokuba bahlale kunye baxoxe ngalo mba.@@ULanga wabuza uNyanga wathi, "Wenza ntoni ukunceda umhlaba?"@@Waphendula uNyanga wathi, "Ndiyakhanyisa ebusuku ukuze izilwanyana zikwazi ukuzingela."
+P4	UNyanga wabuza uMvula wathi, "Wenza ntoni ukunceda umhlaba?"@@UMvula waphendula wathi, "Ndinika umhlaba amanzi ukuze imithi nezityalo zikhule kakuhle. Ndinika izilwanyana amanzi ukuze zisele."
+P5	UMvula wabuza uMoya wathi, "Wenza ntoni ukunceda umhlaba?"@@Waphendula uMoya wathi, "Ndiyatshayela ukuze umhlaba ucoceke. Ndisasaza imvula kuwo wonke umhlaba.
+P6	UMoya wabuza uLanga wathi, "Wenza ntoni ukunceda umhlaba?"@@Waphendula uLanga wathi, "Ndinika umhlaba ukukhanya nobushushu ukuze izilwanyana nezityalo ziphile."
+P7	ULanga, uNyanga uMvula noMoya bamamelana kakuhle.
+P8	Wathi uLanga, "Yinyaniso ukuba elowo apha kuthi unceda umhlaba ngendlela yakhe ekhethekileyo." @@"Ewe," watsho uNyanga, "Akukho namnye apha kuthi obhetele kunomnye."@@"Singasebenzisana," watsho uMvula.@@Wathi uMoya, "Ngoko ke masabelane ngeentsuku." Bavumelana.
+P9	Yiyo loo nto uye ngamanye amaxesha ubone inyanga ngelixa ilanga likhanyisile.@@Yaye ngamanye amaxesha uve umoya ngelixa kunethayo.@@ULanga, uNyanga uMvula noMoya basebenzisana kakuhle. Bayaqondana.
+P10	Uthanda ilanga, inyanga, imvula okanye umoya?@@Zoba eyona uyithandayo.
+P11	Sidinga umhlaba ukuze siphile. Usinika ukutya uze ukhusele kunye nezilwanyana nezityalo.@@Zonke ziyasinceda ngendlela yazo.@@Nathi ikhona into esinokuyenza ukuze sincede umhlaba wethu. @@Ungenza ntoni ukunceda umhlaba?@Yibhale.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+Afrikaans (Translation)	Son, Maan, Reën en Wind	id=37763
+Chichewa (Translation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=34965
+Chinkhonde (Translation)	Suba, Mwesi, Fula ni Mbelo	id=35000
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula, Amuwo	id=37407
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula a Muwo	id=37720
+Chitonga (Malawi) (Translation)	Lumwi, Mwezi, Vuwa ndi Mphepu	id=35025
+CiNyanja (Translation)	Zuba, Mwezi, Mvula na Mpepo	id=32840
+CiNyanja (Adaptation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=37722
+Citumbuka (Translation)	Zuŵa, Mwezi, Vula na Mphepo	id=35051
+Ciyawo (Malawi) (Translation)	Lyuŵa, Mwesi, Ula ni Mbepo	id=35075
+Ellomwe (Malawi) (Translation)	Nndduwa, Mweri, Murimu na Ephevo	id=35107
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Kasuba, Mweshi, Mmfula, na Mwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+IciBemba (Adaptation)	Akasuba, Umweshi, Imfula Noomwela	id=37723
+isiZulu (Translation)	ULanga, uNyanga, uMvula noMoya bayaxoxa	id=37712
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sepedi (Translation)	Letšatši, Ngwedi, Pula le Moya	id=32458
+Sesotho (Lesotho) (Adaptation)	Letsatsi, Khoeli, Pula le Moea	id=34939
+Sesotho (South Africa) (Translation)	Letsatsi, Kgwedi, Pula le Moya	id=32437
+Siswati (Translation)	Lilanga, Inyanga, Imvula neMoya	id=32444
+Tshivenḓa (Translation)	Ḓuvha, Ṅwedzi, Mvula na Muya	id=37855
+Xitsonga (Translation)	Dyambu, N'weti, Mpfula na Moya	id=37747

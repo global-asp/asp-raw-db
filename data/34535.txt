@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=34535&d=0&a=1
+id:	34535
+title:	Manja anga okongola
+author:	Agnes Nankhoma-Singine Nyendwa
+artist:	Mokoena. M. Alphonsina
+lang:	Chichewa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34535.png
+desc:	Kutamandira manja. (Ili buku la nthano lidalengedwa pa Maka Apu ku zamaphunziro a kutukula mabuku owerenga ndi aphunzitsi 22
+
+page_text:
+
+P1	Awa ndi manja anga okongola. Amagwira bwino nchito pamodzi.@Alingati abwenzi awiri abwino. Amapanga gulu labwino kwambiri.
+P2	Monga abwenzi abwino osatayana, pamene lina lakhala ndi dothi, linali lilipo kuti lisambike linzake.@Ali okonzekera kuthanzirana.
+P3	Amagwira nchito pamodzi ngati gulu.
+P4	Pamene chakudya chiphikidwa, manja onse awiri amagwira nchito yabwino pamodzi ngati gulu.
+P5	Dzanja la manja lilipo nthawi zonse kuthandizira dzanja lamanzere.
+P6	Dzanja lamanzere lilipo nthawi zonse kuthandizira dzanja la manja.
+P7	Monga abwenzi awiri othandizirana, okondeka ndi osamalirana, manja anga okongola amayang'anirana.
+
+images:
+
+illustrations/pages/87800200.png
+illustrations/pages/87800201.png
+illustrations/pages/87800202.png
+illustrations/pages/87800203.png
+illustrations/pages/87800205.png
+illustrations/pages/87800206.png
+illustrations/pages/87800207.png
+illustrations/pages/87800208.png
+
+translations:
+
+English (Original)	My Beautiful Hands	id=33936
+Sesotho (South Africa) (Translation)	Matsoho aka a matle	id=34708

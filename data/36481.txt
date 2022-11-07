@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=36481&d=0&a=1
+id:	36481
+title:	Yo amo
+author:	Aprende Leyendo
+artist:	Patience  M
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36481.png
+desc:	Una historia acerca de las cosas y las personas que este joven escritor ama.
+
+page_text:
+
+P1	Yo amo jugar football con Mariana, Pablo y José.
+P2	Ella es mi mamá.@@Yo amo a mi mamá.@@Ella me hace reír.
+P3	Yo amo a Dios, porque Él me creó.
+P4	Yo amo el colegio porque mis profesores me enseñan lo que necesito saber.
+P5	Amo jugar con los perros porque es divertido.
+P6	Amo los cumpleaños porque me gusta celebrar.
+P7	Y me amo porque...
+P8	... porque... sí!
+
+images:
+
+illustrations/pages/91400141.png
+illustrations/pages/91400138.png
+illustrations/pages/91400140.png
+illustrations/pages/91400141.png
+illustrations/pages/91400142.png
+illustrations/pages/91400139.png
+illustrations/pages/91400143.png
+illustrations/pages/91400144.png
+illustrations/pages/91400145.png
+
+translations:
+
+English (Original)	I love	id=33738
+French (Translation)	J'aime	id=33855
+Gikuyu (Translation)	Nĩ nyendete	id=33859
+isiZulu (Translation)	Engikuthandayo	id=33777
+Kiswahili (Translation)	Ninapenda	id=33839
+Lingala (Translation)	Na lingi	id=33808
+Sesotho (South Africa) (Translation)	Ke rata…	id=33793

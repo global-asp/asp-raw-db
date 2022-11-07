@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34542&d=0&a=1
+id:	34542
+title:	Baby Mosquito
+author:	Peter Lebuso Boase
+artist:	Peter Lebuso Boase
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34542.png
+desc:	Baby Mosquito learns an important lesson about humans. (This storybook was originally created on the Maker App
+
+page_text:
+
+P1	Long, long, time ago, all the animals could talk.@@Mother Mosquito and Baby Mosquito lived in a house.
+P2	Mother Mosquito always left Baby Mosquito at home when she went to search for food.
+P3	One day, after Mother left the house, Baby Mosquito wanted to go outside.
+P4	When Mother Mosquito came back later, she found that her child had gone out.
+P5	Mother Mosquito was worried. Baby Mosquito was out all alone.@@But just then, Baby Mosquito returned home.
+P6	Baby Mosquito was very excited. @@"Mummy, the humans were happy to see me. They clapped their hands every time I flew past!"
+P7	Mother Mosquito was alarmed.@@"You say that people were happy and clapping their hands for you?" she asked her child.
+P8	"They were not happy to see you. They were trying to squash you!" explained Mother.@@"Humans are never happy to see mosquitoes," she warned.
+
+images:
+
+illustrations/pages/93740269.png
+illustrations/pages/93740267.png
+illustrations/pages/93740268.png
+illustrations/pages/93740269.png
+illustrations/pages/93740270.png
+illustrations/pages/93740271.png
+illustrations/pages/93740275.png
+illustrations/pages/93740273.png
+illustrations/pages/93740274.png
+
+translations:
+
+French (Translation)	Le Bébé Moustique	id=40171
+Pidgin English (Nigeria) (Translation)	Mosquito Pikin	id=37837
+Setswana (Translation)	Ngwana Monang	id=34675
+Spanish (Translation)	Bebé Mosquito	id=36419

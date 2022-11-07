@@ -1,0 +1,68 @@
+url:	https://africanstorybook.org/reader.php?id=35417&d=0&a=1
+id:	35417
+title:	Decision
+author:	Azuka Menkiti
+artist:	Vusi Malindi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35417.png
+desc:	A village community makes a decision to change their lives.
+
+page_text:
+
+P1	My village had many problems. @@We made a long line to fetch water from one tap.
+P2	We waited for food donated by others.
+P3	We locked our houses early because of thieves.
+P4	Many children dropped out of school.
+P5	Young girls worked as maids in other villages.
+P6	Young boys roamed around the village while others worked on people's farms.
+P7	When the wind blew,  waste paper hung on trees and fences.
+P8	People were cut by broken glass that was thrown carelessly.
+P9	Then one day,  the tap dried up and our containers were empty.
+P10	My father walked from house to house asking people to attend a village meeting.
+P11	People gathered under a big tree and listened.
+P12	My father stood up and said,  "We need to work together to solve our problems."
+P13	Eight-year-old Aminu,  sitting on a tree trunk shouted,  "I can help with cleaning up."
+P14	One woman said,  "The women can join me to grow food."
+P15	Another man stood up and said,  "The men will dig a well."
+P16	We all shouted with one voice,  "We must change our lives." @@From that day we worked together to solve our problems.
+
+images:
+
+illustrations/pages/10625.png
+illustrations/pages/10609.png
+illustrations/pages/10616.png
+illustrations/pages/10614.png
+illustrations/pages/10611.png
+illustrations/pages/10613.png
+illustrations/pages/10615.png
+illustrations/pages/10617.png
+illustrations/pages/10612.png
+illustrations/pages/10610.png
+illustrations/pages/10618.png
+illustrations/pages/10619.png
+illustrations/pages/10620.png
+illustrations/pages/10621.png
+illustrations/pages/10623.png
+illustrations/pages/10624.png
+illustrations/pages/10625.png
+
+translations:
+
+Amharic (Translation)	ውሣኔ	id=22401
+Arabic (Translation)	القرار	id=21813
+Asante Twi (Translation)	Gyinaeɛ	id=38050
+English (Translation)	Decision	id=13304
+English (Adaptation)	Decision (Colour-in)	id=32497
+Fulfulde Mbororoore (Translation)	Anniya	id=35810
+Kῖmῖῖrũ  (Translation)	Kũgiita ĩgamba	id=32827
+Kinyarwanda (Translation)	Ikemezo k'ingirakamaro	id=32569
+Kiswahili (Original)	Uamuzi	id=13303
+Kiswahili (Adaptation)	Umoja	id=18344
+Kiswahili (Adaptation)	Uamuzi (Paka rangi)	id=33359
+Lusoga (Translation)	Okusalagho	id=25741
+Ng’aturkana (Translation)	Atiakun Akiroit	id=20496
+Pidgin English (Nigeria) (Translation)	Decision	id=37825
+Sola (Translation)	Kunɛ́yu mɛfinɛ piconsɛ nsimɛ́	id=35126
+Tiv (Translation)	Ijogh-zwa	id=32801

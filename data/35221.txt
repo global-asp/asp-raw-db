@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=35221&d=0&a=1
+id:	35221
+title:	I Feel Alone
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35221.png
+desc:	How do you cope with feeling alone during lockdown?
+
+page_text:
+
+P1	I'm tired of staying home all day.@@I miss my friends. @@I wish we could go outside and play.
+P2	All I hear about is the coronavirus!@@I wish it would go away!
+P3	Let's play with our toys.@@Mum said if we stay home, God will help keep us safe.
+P4	Mr. Khumalo is sick. He had to go to the hospital.@@Let's pray for him right now.
+P5	Lord Jesus,@Please heal Mr. Khumalo. @@Protect us from the coronavirus.@@Thank you for being with us when we are alone and afraid.@Amen.
+P6	"Even when I must walk through the darkest valley, I fear no danger, for you are with me."@@Psalm 23:4
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740452.png
+illustrations/pages/93740440.png
+illustrations/pages/93740447.png
+illustrations/pages/93740451.png
+illustrations/pages/93740444.png
+illustrations/pages/93740445.png
+
+translations:
+
+Afrikaans (Translation)	Ek voel bekommerd	id=35796
+English (Adaptation)	I feel worried	id=35252
+isiXhosa (Translation)	Ndiziva ndindedwa	id=35285
+Kiswahili (Translation)	Nina wasiwasi	id=35279
+Otuho (Translation)	Abotihino nî	id=35492
+Spanish (Translation)	Me siento preocupado	id=36331
+Tiv (Translation)	Zam Iyol	id=35558
+TjiKalanga (Translation)	Andizogadzikana	id=35258
+TjiKalanga (Translation)	Ndozwiwha ndili ndoga	id=35260

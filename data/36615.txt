@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=36615&d=0&a=1
+id:	36615
+title:	Emosies kom en gaan
+author:	Meryke Barkley
+artist:	Joe  Werna
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36615.png
+desc:	Hierdie boek verken die verskillende emosies wat ons voel. Dit help ook die kind om sy emosies te identifiseer en hanteer.
+
+page_text:
+
+P1	Aisha giggel lekker.  Sy het 'n snaakse storie gehoor.@Sy glimlag.@Hoe voel Aisha?
+P2	Isah voel knorrig.@Hy het 'n frons op sy gesig.@Hoekom voel hy so knorrig?
+P3	Yuadoo is bang vir die donker.@Ons almal voel een of ander tyd 'n bietjie bang.@Maar Yuadoo kan vir hulp vra.
+P4	Chidubem voel bekommerd oor sy skoolwerk.@Hy kan vir sy juffrou sê!@Hy kan haar vra om hom te help.
+P5	Lushan is sommer laf.@Dis lekker om soms laf te wees.
+P6	Eruro voel hartseer.@Ons mag maar huil.@Emosies kom en gaan.
+P7	Ayator borrel van geluk.@Hy is baie gelukkig.@Emosies kom en gaan.
+P8	Hadiza is verveeld.@Sy moet iets kry om haar mee besig te hou.
+P9	Ayo is kwaad.@Hy voel gefrustreed.@Dis soms moeilik om kwaad te voel.
+P10	Labake is opgewonde.@Waaroor kan sy so opgewonde voel?@Mamma het haar gunsteling kos gemaak.
+P11	Zege voel slaperig.@Hy is baie moeg.@"Maar wag, is 'slaperig' 'n emosie?" vra Efe.
+P12	Efe voel verward!@Kan jy sy vraag beantwoord?
+P13	Tega voel verbaas en geskok.@Hy het skinderstories gehoor.@Is dit waar?
+P14	Yebo is siek.@Sy voel misluk.@Sy benodig medisyne en rus om beter te voel.
+P15	Sekyen voel rustig.@@Sy is klaar met al haar takies.@@Nou kan sy gaan speel.
+P16	Bello het vandag geen takies om te doen nie.@Hy wys duime op vir Sekyen.@"Kom ons gaan speel!" sê hy.
+
+images:
+
+illustrations/pages/85590230.png
+illustrations/pages/85590231.png
+illustrations/pages/85590232.png
+illustrations/pages/85590299.png
+illustrations/pages/85590300.png
+illustrations/pages/85590301.png
+illustrations/pages/85590302.png
+illustrations/pages/85590230.png
+illustrations/pages/85590312.png
+illustrations/pages/85590304.png
+illustrations/pages/85590305.png
+illustrations/pages/85590306.png
+illustrations/pages/85590307.png
+illustrations/pages/85590308.png
+illustrations/pages/85590309.png
+illustrations/pages/85590310.png
+illustrations/pages/85590311.png
+
+translations:
+
+Asante Twi (Translation)	Atenka tumi ba na ԑkↄ	id=34866
+English (Original)	Emotions Come and Go	id=33352
+English (Adaptation)	Emotions Come and Go	id=35415
+Hausa (Nigeria) (Translation)	Yanayi ya kan zo ya tafi	id=34898
+Igbo (Translation)	Mmetuta Uche na abia na apu	id=34830
+Kiswahili (Translation)	Hisia huja na kwenda	id=33656
+Yoruba (Translation)	Imǫlárá wá  kí o lọ	id=34816

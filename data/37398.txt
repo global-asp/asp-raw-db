@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=37398&d=0&a=1
+id:	37398
+title:	Wilde diere
+author:	Meryke Barkley
+artist:	Rob Owen
+lang:	Afrikaans
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37398.png
+desc:	Leer meer oor wilde diere
+
+page_text:
+
+P1	'n Kameelperd het 'n baie lang nek.  So kan hulle die blare in die hoë bome vreet.
+P2	Olifante is baie groot.  Hulle het 'n lang slurp waarmee hulle drink en blare afpluk.  Olifante vreet grasse en blare.@Hulle het twee ivoortande wat hulle gebruik om hulleself te beskerm.
+P3	Krokodille bly in riviere.  Hulle het groot bekke met baie skerp tande.  Hulle vang ander diere vir kos.
+P4	Dit is 'n leeu.  Hy het groot en skerp tande.  Die mannetjie het maanhare.
+P5	Die grys kroonkraanvoël het baie lang bene.  Daar is 'n kroon op hulle koppe.  Dit lyk soms asof hulle dans.
+P6	Buffels hou van water en daarom bly hulle naby riviere en mere.  Hulle vreet gras. @Buffels het twee groot horings.
+P7	Sebras het wit en swart strepe.  Hulle lyk baie soos 'n perd.
+P8	Die kleiner diertjies is vlakvarke.  Hier is 'n mamma vlakvark met haar kleintjies.   Vlakvarke het ook twee groot slagtande.@Saam met die vlakvarke is bokke.  Die bokke vreet graag gras.
+P9	Hierdie is nou wel nie wilde diere nie, maar ons kry hulle in die riviere en mere waar die wilde diere water drink.  Ja, dit is visse en paddas!  Van die wilde diere vang en vreet hulle!
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9647.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9631.png
+illustrations/pages/9644.png
+illustrations/pages/9650.png
+illustrations/pages/9646.png
+illustrations/pages/9645.png
+
+translations:
+
+Acholi (Translation)	Lee me Uganda	id=24082
+English (Original)	Animals of Uganda	id=9988
+English (Adaptation)	Wild Animals	id=35777
+Kumam (Translation)	Leini Me Yuganda	id=20898
+Lusoga (Translation)	Ensolo Dha Uganda	id=20391
+Lusoga (Translation)	Ebisolo bya Yuganda	id=29357
+Siswati (Translation)	Tilwane taseveni iUganda	id=37563

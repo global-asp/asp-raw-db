@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=37603&d=0&a=1
+id:	37603
+title:	My house is new
+author:	Sheila Drew
+artist:	Sheila Drew
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37603.png
+desc:	Is my new house really
+
+page_text:
+
+P1	My house is old, but it is new for me.
+P2	There is a path to the front door.
+P3	It also has a steep roof.
+P4	There is a dam in the garden.
+P5	And a forest of trees near the dam.
+P6	I can see a big mountain in the distance.
+P7	When I sleep my house grows tall.
+P8	When I wake up it goes small
+P9	What is my new house really?
+P10	Can you guess?
+P11	Good night! Sleep tight!
+
+images:
+
+illustrations/pages/19700101.png
+illustrations/pages/19700102.png
+illustrations/pages/19700103.png
+illustrations/pages/19700104.png
+illustrations/pages/19700105.png
+illustrations/pages/19700106.png
+illustrations/pages/19700107.png
+illustrations/pages/19700108.png
+illustrations/pages/19700109.png
+illustrations/pages/19700110.png
+illustrations/pages/19700111.png
+illustrations/pages/19700112.png
+
+translations:
+

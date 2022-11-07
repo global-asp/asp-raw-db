@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=34178&d=0&a=1
+id:	34178
+title:	Jesus alimenta a multidão
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34178.png
+desc:	Uma história sobre Jesus do evangelho de Mateus 14: 13-21. ©️1999 Bible League Intl. Versão Fácil de Ler. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Os discípulos disseram a Jesus: "Despeça estas pessoas para que possam comprar comida."
+P2	Jesus disse: "Essa gente não precisa ir embora. Por que vocês mesmos não lhes dão alguma coisa para comer?"
+P3	Eles responderam: "Mas tudo o que temos são cinco pães e dois peixes!"
+P4	Jesus, então, disse: "Tragam os pães e os peixes aqui."
+P5	Jesus agradeceu a Deus e deu os pães aos discípulos que os distribuíram entre a multidão.
+P6	Todos comeram e ficaram satisfeitos. Os que comeram foram mais de cinco mil.
+
+images:
+
+illustrations/pages/28063.png
+illustrations/pages/28069.png
+illustrations/pages/28068.png
+illustrations/pages/28067.png
+illustrations/pages/28066.png
+illustrations/pages/28070.png
+illustrations/pages/28062.png
+illustrations/pages/28064.png
+
+translations:
+
+Cinyungwe (Translation)	Jezu adadyesa mthithi	id=34177
+English (Original)	Jesus Feeds the Multitude	id=32354

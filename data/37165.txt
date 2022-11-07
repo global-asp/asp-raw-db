@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=37165&d=0&a=1
+id:	37165
+title:	Wild animals
+author:	Thato  Ntlatleng
+artist:	Carol Liddiment, Ketan Raut, Marleen Visser, Zito Jorge Ngovene and Gavin  Thomson
+lang:	Sepedi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37165.png
+desc:	This is aimed towards improving understanding on wild animals in the language.
+
+page_text:
+
+P1	Mpša ya nageng e nyaka dijo. E swere ke tlala.@@The wild dog is looking for food. It is hungry.
+P2	Kubu e ja dijo tša mesong.@@The hippo is eating breakfast.
+P3	Leobu le Mmutla ba sega mmogo.@@The lizard and Rabbit are laughing together.
+P4	Noga le Mmutla ba swere di taba.@@The snake and lizard are having a conversation.
+P5	Tau ke Kgosi ya nageng.@@The Lion is the king of the jungle.
+
+images:
+
+illustrations/pages/1908.png
+illustrations/pages/18470.png
+illustrations/pages/6145.png
+illustrations/pages/27252.png
+illustrations/pages/8673.png
+illustrations/pages/7340.png
+
+translations:
+

@@ -1,0 +1,78 @@
+url:	https://africanstorybook.org/reader.php?id=36305&d=0&a=1
+id:	36305
+title:	Los Colores del Arcoíris
+author:	Aprende Leyendo
+artist:	Jesse Breytenbach
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36305.png
+desc:	La historia lista los colores del arcoíris y las cosas que tu puedes ver en tu vida que tienen los mismo colores.
+
+page_text:
+
+P1	Los arcoíris tienen siete colores.
+P2	El primer color es rojo.
+P3	Juan está usando una camiseta roja.
+P4	El segundo color es naranja.
+P5	Esto es una naranja ¿Qué más puedes ver que es de color naranja?
+P6	El tercer color es amarillo.
+P7	La yema del huevo es amarilla ¿Qué más puedes ver que es de color amarillo?
+P8	El cuarto color es verde.
+P9	Nuestra plantación de bananos es verde.
+P10	El quinto color es azul.
+P11	El cielo es azul.
+P12	El sexto color es índigo.
+P13	Estas moras son índigo.
+P14	El séptimo color es violeta.
+P15	Mi vestido es violeta ¡Es mi color favorito! ¿Cuál es tu color favorito?
+P16	¿Sabes cuáles son los siete colores del arcoíris?
+
+images:
+
+illustrations/pages/9838.png
+illustrations/pages/9838.png
+illustrations/pages/9839.png
+illustrations/pages/9840.png
+illustrations/pages/9841.png
+illustrations/pages/9842.png
+illustrations/pages/9843.png
+illustrations/pages/9844.png
+illustrations/pages/9846.png
+illustrations/pages/9847.png
+illustrations/pages/9849.png
+illustrations/pages/9850.png
+illustrations/pages/9851.png
+illustrations/pages/9852.png
+illustrations/pages/9854.png
+illustrations/pages/9853.png
+illustrations/pages/9856.png
+
+translations:
+
+Afaan Oromo (Translation)	Halluu Sabbata Waaqayyo 7	id=20420
+Afrikaans (Translation)	Kleure van die reënboog	id=37087
+Amharic (Translation)	7 የቀስተደመና ቀለሞች	id=20447
+Ateso (Translation)	 Iragin Ikanyikarei Lu Etaluka	id=20754
+CiNyanja (Translation)	Mautoto asanu ndi awili a uta wa leza	id=20881
+Dhopadhola (Translation)	Lifudu Nitye Gi Cal Abiryo	id=19961
+English (Translation)	Colours of a rainbow	id=10463
+English (Adaptation)	Seven colours in a rainbow	id=19760
+English (Adaptation)	Colours of a rainbow (English/French)	id=37751
+French (Translation)	Les couleurs d'un arc-en-ciel	id=34033
+Fulfulde Mbororoore (Translation)	Noone Timbotimbola	id=32258
+Hausa (Nigeria) (Translation)	Launi Bakwai na Bakan-gizo	id=20798
+isiZulu (Translation)	Imibala eyisikhombisa yothingo lwenkosazana	id=20679
+Kabuverdianu (Translation)	Séti Kor di Arkuíris	id=32032
+Kikamba (Translation)	Utathi	id=15419
+Kinyarwanda (Translation)	Amabara y'umukororombya	id=23174
+Kiswahili (Original)	Rangi za Upinde	id=10442
+Kiswahili (Translation)	Rangi 7 Za Upinde	id=20432
+Lunyole (Translation)	Amalangi G'olufudu	id=16557
+Lusoga (Translation)	Musoke ali na langi 7	id=20396
+Lusoga (Translation)	Langi edhiri ku musoke	id=30604
+Ng’aturkana (Translation)	Alokakinet Akiru	id=20405
+Portuguese (Translation)	As Cores Do Arco-Íris	id=16561
+Siswati (Translation)	Imibala yemushi wenkhosatane	id=13066
+Tshivenḓa (Translation)	Mivhala ya musengavhadzimu	id=34260
+Xitsonga (Translation)	Mihlovo ya nkwangulatilo	id=34334

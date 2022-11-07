@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=39894&d=0&a=1
+id:	39894
+title:	Gapisǝmpi Nuura
+author:	Fousséni DJOBO ALLEY
+artist:	Melany Pietersen
+lang:	Anii
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39894.png
+desc:	Mbʊpá njala nɖe n tɩ lǝ atʊ ɖaa ɩ sara ʊshilé nɖee Nuura a yɛɛ abeebi afar ma.
+
+page_text:
+
+P1	Ŋǝ̂ ma gapisǝmpi Nuura. Abeebi a jɩ ka wàà, Sala.
+P2	A sɔlɔ Sala páá. Baa ʊshilé ʊpaŋa na a na cǝr na nɩ. A ta shɩ na yɛɛ a fôl baa gɩjibɔŋɔ gɩpaŋa jɩ, aɖe na nɩ na.
+P3	Ʊshilé ɖǝn na Nuura a yɛɛ Sala afar. A yɛɛ yɛɛ bʊɖu bʊŋunii, ama k'a ŋǝ nɩ gaɖu gaɖǝn na. N'ɩ ɖa nɩ kashɩkashɩ.
+P4	Ama Nuura k'a yɔ wàà, anar a tɔɔ ka Sala afʊga na, a jel nɩ aka na yɛɛ wàà, a kʊ̂.
+P5	Na Nuura a kara gako na yu wàà : « Kǝ ma kɔɔ ŋǝ Sala na. » N'anar a lǝ nɩ wàà : « Pàá pɩ̂yɛ ʊcine na. »
+P6	Kagɩteŋshile gɩɖe jɩ Nuura anar a kɔɔ na Sala ashee nɩ. Aɖe cǝm gɩshɛbʊ ɖaa ba shɩ nɩ na gɩfɔlɩ ma.
+P7	Nuura 'ʊcine ʊ kǝr páá. N'a ɖa na jimǝjimǝ na gaɖu na rɩ gʊcǝma na sheu...
+P8	... naa ace atɩ sala anar.
+P9	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :
+P10	www.revue-gugu.org@@+229 66 66 11 11@Téléphone et WhatsApp
+P11	L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+
+images:
+
+illustrations/pages/9482.png
+illustrations/pages/9482.png
+illustrations/pages/9483.png
+illustrations/pages/9481.png
+illustrations/pages/9485.png
+illustrations/pages/9489.png
+illustrations/pages/9486.png
+illustrations/pages/9487.png
+illustrations/pages/9488.png
+
+translations:
+
+English (Translation)	Girl Called Norah	id=9797
+English (Adaptation)	This is Norah	id=16120
+French (Translation)	La Fille Du Nom De Norah	id=10762
+Luganda (Original)	Omuwala Norah	id=9795
+Luganda (Translation)	Omuwala Ayitibwa Noorah	id=24051
+Lusoga (Translation)	Omughala gwebeeta Noola	id=25901
+Rutooro (Translation)	omwisiki owubakweta Nora	id=22917

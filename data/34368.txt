@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=34368&d=0&a=1
+id:	34368
+title:	Ijen
+author:	Terkule Aorabee
+artist:	Natalie Propa
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34368.png
+desc:	There is a drought and Mulongo and his family are searching for food. Ijen ka i mgbegha ior ve nyôr ken zaiyol.
+
+page_text:
+
+P1	Icegh gba. Tsombur u Mulongo lu a kwaghyan ga.
+P2	Mulongo kura ve yem a min ken ikyô u keren kwaghyan.
+P3	Ve zua a sule u kôôkômbu kpa ve nenge a orsule ga.
+P4	Ve va nenge a zege ijôv mbakuv. @@Ijôv la na ve ian.
+P5	Sev mbu aven yô, ijôv kaa er, "Jiidi mo wan u nomso la!"
+P6	Aikie yô, ijôv kaa er, "Kper pepe ne jiidi mo wan ukwase la!"
+P7	Mbamaren yer wan kwase la kpa sha kon.
+P8	Ijôv kaa er, "Kper yô u jiidi mo nomou!"
+P9	Aikie yô ijôv kaa a kwase la er a jiidi iyol na!
+P10	Ijôv ye kwaghyan yô man a yav a gba kôun.
+P11	Ijôv gema nenge tsombur la cii lu uma. @@Ishima vihi un.
+P12	Ve er un atseregh ve hungwa sha kon ve yem.
+
+images:
+
+illustrations/pages/8114.png
+illustrations/pages/8111.png
+illustrations/pages/8112.png
+illustrations/pages/8113.png
+illustrations/pages/8114.png
+illustrations/pages/8115.png
+illustrations/pages/8116.png
+illustrations/pages/8117.png
+illustrations/pages/8118.png
+illustrations/pages/8119.png
+illustrations/pages/8120.png
+illustrations/pages/8121.png
+illustrations/pages/8122.png
+
+translations:
+
+Afaan Oromo (Translation)	Bulgootni Gadheedha	id=21700
+Amharic (Translation)	ጭራቆች ደደቦች ናቸው	id=21182
+English (Translation)	Mulongo and the Ogre	id=9127
+English (Adaptation)	Ogres are stupid	id=20886
+English (Adaptation)	Mulongo And The Ogre	id=21549
+French (Translation)	Mulongo Et L'ogre	id=10699
+Kiswahili (Translation)	Ujinga wa Majitu	id=21138
+Luganda (Translation)	Bawazzike ba siiru	id=21060
+Lumasaaba (Original)	Mulongo Ni Wanasilikhe	id=9126
+Lusoga (Translation)	Ebimenke bitumbaavu	id=26986
+Ng’aturkana (Translation)	Ebang'aka Ng'ibuin	id=21132
+Tigrigna (Translation)	ሕንጉጉ ሕማቓት እዮሞ	id=21103

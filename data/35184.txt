@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=35184&d=0&a=1
+id:	35184
+title:	L'amie qui me manque
+author:	Zanne Viljoen
+artist:	Benjamin Mitchley, Catherine Groenewald, Rijuta Ghate and Wiehan de Jager
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35184.png
+desc:	Deux jeunes amies denfance grandissent ensemble dans le village. Lune quitte lécole et lautre se sent seule et son amie lui manque.
+
+page_text:
+
+P1	Chaque matin au réveil, je me dépêchais de prendre mon petit déjeuner.
+P2	Ensuite, je prenais mes affaires et sortais de la maison en courant pour retrouver mon amie Muthoni.
+P3	Lorsque je trouvais Muthoni, on oubliait tout le reste.
+P4	Muthoni et moi jouions à cache-cache. Je me cachais dans de grands arbres, tandis que Muthoni allait derrière des huttes.
+P5	Muthoni et moi allions ensemble au puits du village. Nous allions chercher du bois ensemble. Nous allions à l'école ensemble.
+P6	Nous nous sommes promises de travailler dur à l'école et d'obtenir notre diplôme.
+P7	Mais un jour, Muthoni n'est pas arrivée à l'école. Je me suis présentée à la porte de notre classe et j'ai attendu qu'elle arrive. Mais elle n'est pas venue.
+P8	Lorsque je suis rentrée chez moi ce jour-là, j'ai parlé à ma mère de mon amie, Muthoni.
+P9	J'ai continué l'école, mais Muthoni me manquait beaucoup.
+P10	Chaque jour où j'allais à l'école, je cherchais Muthoni partout.
+P11	Maintenant je suis adulte, mais mon amie Muthoni me manque toujours.
+
+images:
+
+illustrations/pages/8658.png
+illustrations/pages/2444.png
+illustrations/pages/2450.png
+illustrations/pages/2452.png
+illustrations/pages/1191.png
+illustrations/pages/1514.png
+illustrations/pages/1517.png
+illustrations/pages/2481.png
+illustrations/pages/8666.png
+illustrations/pages/8641.png
+illustrations/pages/1812.png
+
+translations:
+
+Dhopadhola (Translation)	Mere parani ma akeng swa	id=33198
+English (Original)	The friend I miss	id=2278
+Kiswahili (Translation)	Rafiki ninayemkosa	id=9527
+Lusoga (Translation)	Mukagwa gwe ntabona	id=25760

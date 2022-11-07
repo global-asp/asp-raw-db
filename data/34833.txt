@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=34833&d=0&a=1
+id:	34833
+title:	Nhebe Ne Me'he
+author:	Eberechi  Ejuh
+artist:	Joe  Werna
+lang:	Ikwerre
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34833.png
+desc:	Otuntun wa bu ke gbasiru enhebe nu anya nwo ruka oro okwukwor hite obochi oisisi no du nabali.
+
+page_text:
+
+P1	Nhebe gbalizoshi nu osisi, nu owo owunwa enhebe.@  @Nnurum ekwe orchichi nu ezi-oborchi.
+P2	Nhebe galagu esezi bu Terfa nhe wey ri wiri osisi.@  @Nnumonu enkanra bier nu akpupa ntogu enhebe na ba onumgbom.
+P3	Nhebe lahashii osun ishishizibudu nu oro-okwukwo nu ngeh wiri enhie.@  @Ngeyam oyahanshi nu mgbakor mini zi nu esilaburu ruhueli oro okwukwor.
+P4	Nhebe gwuzogwu nu olu rishim. Ehninem gwuzogwu nu akwa ehim.@  @Mi nu ele enyim gwirishi mkpiri ehnine.
+P5	Ehninem na ha ezi, yahanshi nmanti. Anutorushia.@  @Ehninem toru ogologo, yahanshi nkpunkpuh. Anutorushia.
+P6	Ngwuzom, ele enyim gwuzo. A hunshi ehnine anyi.@  @Ike gwukweme ayi a yanha oro-okwukwor. Oro-okwukwor gbasa asah lanha oro.
+P7	Nhebe ne berubere.@  @Nnumohun enhebe na laha wantinti. Nhum ehninem nu akwa ehi-oro.@  @Oduleh enge oshienyenrah.
+P8	Nhebe segu nkpururu oligwe.@  @Ndeegum eli nu oro no ro mburo kpa enhebe lagu ekenya.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Amharic (Translation)	ባተሌ ባተሌዋ ፀሐይ	id=39465
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Bura (Translation)	Kethir kethir mchi	id=34888
+Ebira (Translation)	Ukoro Ukoro  ὀyi	id=34840
+English (Original)	Busy Busy Sun	id=32416
+French (Translation)	Le soleil occupé, très occupé	id=35178
+Hausa (Nigeria) (Translation)	Zirga Zirgan rana	id=34897
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyange I Memen Ga	id=36793
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

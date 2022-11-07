@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=37906&d=0&a=1
+id:	37906
+title:	እናትን የመተው አደጋ
+author:	Mezemir Girma
+artist:	
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37906.png
+desc:	በሰሜን ምዕራብ ኬንያ በቱርካና በረሃ መልክዓ ምድር ስለሚኖር ቤተሰብ የሚያስገነዝብ ቆንጆና ለልጆች የሚስማማ ታሪክ እነሆ። ልጆች እናንተስ እስካሁን ሌላ በበረሃ የሚኖሩ ሰዎች ታሪክ አንብባችሁ ታውቃላችሁ?
+
+page_text:
+
+P1	አንድ ሎዲፖ የሚባል ሰው ነበር። @@አካይ እና አኪቴላ ከሚባሉ ሁለት ሚስቶቹ ጋር ይኖር ነበር።
+P2	የሎዲፖ የመጀመሪያ ሚስት አካይ ዓይነስውር እናቱን የምታግዛቸው ብቻዋን ነበር።
+P3	አንድ ቀን የሎዲፖ ትንሿ ሚስት አኪቴላ ለባሏ ‹‹ወደ ደህና ቦታ እንሂድ እንጂ›› አለችው፡፡ @@የሚኖሩበት ቦታ በከብት ዘራፊዎች በየጊዜው ይጠቃ ነበር። አኪቴላ ደህንነቷ አደጋ ላይ መሆኑ ገባት።
+P4	ሎዲፖ ማየት የተሳናቸው እናቱ መንቀሳቀስ እንደማይፈልጉ ለአኪቴላ ነገራት። አኪቴላ የሎዲፖን እናት ትተው መሄድ እንዳለባቸው ተናገረች። @@‹‹በቃ ከዚህ ካልተንቀሳቀስን ወደ ወላጆቼ እመለሳለሁ›› ስትል አኪቴላ ለሎዲፖ በጩኸት ተናገረች።
+P5	ሎዲፖ አኪቴላን በጣም ስለሚወዳት በፍላጎቷን ተስማማ። ለመሄድ ተዘጋጁ። @@የመጀመሪያዋ ሚስቱ አካይ ግን ይህን ሁሉ ነገር ግራ በመጋባት ተመልክታለች።
+P6	የሎዲፖ ዓይነ ስውር እናት ከዛፉ ሥር ባለው የፍየል ቆዳ ላይ ተቀምጠዋል። ምን እየተካሄደ እንዳለ አያውቁም ነበር። @@‹‹እንዴት ብቻቸውን እንተዋቸዋለን?›› በማለት አካይ ተገረመች።
+P7	ሎዲፖ እና ሚስቶቹ ንብረታቸውን በሙሉ በሁለት ግመሎቻቸው ላይ ጫኑ። አሮጊቷን እንኳን ሳይሰናበቷቸው በጸጥታ ስፍራውን ትተው ሄዱ። @@አማቷን ብቻቸውን ትታቸው በመሄዷ አካይ እያለቀሰች ነበር።
+P8	አሮጊቷ ልጃቸውን እየጠሩ ይህን አሳዛኝ መዝሙር ዘመሩ፡፡ ማን ይንከባከበኛል ብለው ተጨነቁ። @@ፀሐዩ ሲያቃጥለኝ ማን ወደ ጥላ ያደርገኛል ብለው አሰቡ።
+P9	ሎዲፖ እና ሚስቶቹ እንደሄዱ ወዲያውኑ ወራሪዎች መንደሩን አጠቁ።
+P10	ወራሪዎቹ አሮጊቷን ሴት ልጃቸው የት እንደሄደ እንዲነግሯቸው ጠየቋቸው።  ‹‹ልንገድለው ስለሆነ ልንከተለው ነው›› በማለት ነገሯቸው።›› @@የመጀመሪያ ሚስቱንና ልጆቹን አትግደሉ ብለው ተማጸኑ። ሎዲፖ የወሰደውን በጋቸውን እንዲመልሱላቸውም ጠየቋቸው።
+P11	ተዋጊዎቹ ሎዲፖን ተከተሉት። ልክ በአዲሱ ቦታ እንደተቀመጠ አገኙት። @@እሱንና ወጣቷን ሚስቱንም ገደሏቸው።
+P12	የመጀመሪያዋ ሚስቱ አካይ በጉን ይዛ ተመለሰች። @@በደስታም አብረው ኖሩ።
+
+images:
+
+illustrations/pages/6931.png
+illustrations/pages/6927.png
+illustrations/pages/6928.png
+illustrations/pages/6929.png
+illustrations/pages/6930.png
+illustrations/pages/6934.png
+illustrations/pages/6931.png
+illustrations/pages/6932.png
+illustrations/pages/6933.png
+illustrations/pages/6935.png
+illustrations/pages/6937.png
+illustrations/pages/6938.png
+
+translations:
+
+Afrikaans (Translation)	Die Gevaar Van Verwerping	id=11249
+English (Original)	Danger of abandoning a mother	id=7549
+French (Translation)	Danger d'abandonner sa mère	id=40204
+isiXhosa (Translation)	Ingozi yokulahla umama	id=11462
+Kiswahili (Translation)	Lodipo amtoroka mama	id=15937
+Luganda (Translation)	Obulabe bw'okusuulirira maama	id=24361
+Lusoga (Translation)	Akabendhe akokusuulirira maama	id=25388
+Ng’aturkana (Translation)	Erono akijal itokon	id=13313
+Portugues (Translation)	Perigo de abandonar a mãe	id=38001
+Sepedi (Translation)	Motsaneng	id=11468

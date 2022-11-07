@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=36460&d=0&a=1
+id:	36460
+title:	Objetos Peligrosos.
+author:	Aprende Leyendo
+artist:	Wiehan de Jager and N/A
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36460.png
+desc:	Aprende de diferentes objetos y cosas que son peligrosas viendo sus dibujos.
+
+page_text:
+
+P1	Espina.
+P2	Fuego.
+P3	Serpiente.
+P4	Cuchilla de afeitar.
+P5	Cuchillo.
+P6	Aguja.
+P7	Pistola.
+P8	Veneno.
+
+images:
+
+illustrations/pages/5976.png
+illustrations/pages/9739.png
+illustrations/pages/6121.png
+illustrations/pages/5921.png
+illustrations/pages/9740.png
+illustrations/pages/9741.png
+illustrations/pages/9742.png
+illustrations/pages/9745.png
+illustrations/pages/9744.png
+
+translations:
+
+English (Original)	Dangerous Objects	id=9747
+Lusoga (Translation)	Ebifaananie  eby'obulabe	id=30624

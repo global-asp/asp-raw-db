@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=39924&d=0&a=1
+id:	39924
+title:	We are making Alphabets and Objects to learn
+author:	Kgomotso oepeng
+artist:	Kgomotso oepeng
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39924.png
+desc:	we are learning the alphabets and objects
+
+page_text:
+
+P1	APPLE
+P2	BOOKS
+P3	CAR
+P4	DOG
+P5	EGG
+
+images:
+
+illustrations/pages/8667001410.png
+illustrations/pages/8667001406.png
+illustrations/pages/8667001412.png
+illustrations/pages/8667001408.png
+illustrations/pages/8667001411.png
+illustrations/pages/8667001407.png
+
+translations:
+

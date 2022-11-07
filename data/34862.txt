@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34862&d=0&a=1
+id:	34862
+title:	Ule Luwo
+author:	Folasade  Adepoju and Hameed Oluwasegun Jegede
+artist:	Jacob  Matthess
+lang:	Yoruba(Ijesha)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34862.png
+desc:	Luwo yo jade lule isin lati rele. E rorun lati pada sule fun Luwp bo sero.
+
+page_text:
+
+P1	Luwo rule isin pelu yeye re.@  @Yeye re mu lowo bi han semi lo.
+P2	Opo eyan lowa lu'leisin.@  @Han mi korin.
+P3	Luwo fi ule isin sile.@  @Yeye re ri.
+P4	Luwo duro loju ona.@  @Oro ri re, obi rare, "Kabi ule mi?"
+P5	Omi to ona ni. Ori ule nla.@  @"Rara, yee su'le ria. Ule ria kere."
+P6	Luwo rin die si. Ori ule han fi pako kan.@@"Rara, yee su'le ria. Han fi pako kan le ria."
+P7	O tese morin. Ori ule han fi koriko ko.@@"Rara, yee su'le ria. Ogiri ule ria amo ni ere."
+P8	Luwo rin die si. Ori ule kekere keni igi niwa ju re.@  @"Rara, yee su'le ria. Ule ria nigi meji niwa ju re."
+P9	E pe Luwo ri yeye re komi bo niwaju re. Luwo sare laba yeye re.@@Yeye Luwo wiko Luwo, "Je ka rele!"
+P10	Kaibi ule Luwo?
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Asante Twi (Translation)	Luwo Fie	id=34864
+Bura (Translation)	KՁ ga  Luwo	id=34890
+Cinyanja (Mozambique) (Translation)	Nyumba ya Luwo	id=33827
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+English (Original)	Luwo's House	id=32346
+French (Translation)	La maison de Luwo	id=33378
+Hausa (Nigeria) (Translation)	Gidan Luwo	id=34820
+Igala (Translation)	Unyi Luwo's	id=34835
+Nupe (Translation)	Emi Luwo	id=34860
+Portuguese (Translation)	A Casa de Luwo	id=32379
+Urhobo (Translation)	Uwevwi ri Luwo	id=35204
+Yoruba (Translation)	Ilé Luwo	id=34813

@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=36759&d=0&a=1
+id:	36759
+title:	Bettie en die Borrels
+author:	Meryke Barkley
+artist:	Sorit Gupto
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36759.png
+desc:	Bettie hou daarvan om te speel
+
+page_text:
+
+P1	Bettie hou daarvan om met skoenlappers te speel...
+P2	en ook met die voëltjies.
+P3	Sy speel graag met bootjies van papier.
+P4	Dit is vetpret om sandkastele te kan bou.
+P5	Wanneer Bettie by die huis kom vra Mamma haar om te gaan bad.
+P6	"Ek haat seep!" skree sy.
+P7	Een nag het Bettie 'n droom.@Daar is kieme reg rondom die kasteel.@Die kieme val haar aan!
+P8	Bettie word deur kieme gejaag.@Sy hardloop so vinnig as wat sy kan.@"Help! Help!" skree sy.
+P9	Skielik verskyn die Koning Seep .@"Moenie bang wees nie, Bettie," sê hy.   @Koning Seep beveel  sy weermag van borrels om die kieme aan te val.
+P10	Die weermag van borrels jaag die kieme weg.
+P11	Nou hou Bettie sommer baie van seep.  @Sy skrop haarself tog te mooi skoon!
+
+images:
+
+illustrations/pages/607.png
+illustrations/pages/607.png
+illustrations/pages/612.png
+illustrations/pages/608.png
+illustrations/pages/610.png
+illustrations/pages/609.png
+illustrations/pages/611.png
+illustrations/pages/613.png
+illustrations/pages/614.png
+illustrations/pages/911.png
+illustrations/pages/910.png
+illustrations/pages/912.png
+
+translations:
+
+English (Original)	Bunty and Bubbly	id=913
+isiXhosa (Translation)	UMinti noGwebu	id=3129
+Kiswahili (Translation)	Banti na Sabuni	id=2830
+Lugbarati (Translation)	Bunty Yi Bubbly Be	id=2828
+Lugbarati (Official) (Translation)	Bàdàrʉ́ Pi Bʉ́nɨ̀ Be	id=8756
+Lusoga (Translation)	Babirye ni sabbuni	id=30412

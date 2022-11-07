@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=36465&d=0&a=1
+id:	36465
+title:	Sol y Luna
+author:	Aprende Leyendo
+artist:	Salim Kasamba, Offei Tettey Eugene, Wiehan de Jager and Magriet Brink
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36465.png
+desc:	Este cuento les habla a los niños acerca de la unidad y la tolerancia.
+
+page_text:
+
+P1	El Sol y la Luna se pelaron. Entonces comenzó a llover y a llover. Todo se inundó.
+P2	El Sol y la Luna tuvieron que para su pelea para resolver el caos de las inundaciones.
+P3	El Sol y la Luna ayudaron a los animales a escapar de las inundaciones.
+P4	El Sol habló con la Luna.
+P5	El Sol se despidió del agua. El Sol se despidió de la Luna.
+P6	El arcoíris se extendió por el cielo.
+P7	Los niños saltaron y jugaron.
+P8	Los animales saludaron a la Luna.
+
+images:
+
+illustrations/pages/25566.png
+illustrations/pages/25567.png
+illustrations/pages/25566.png
+illustrations/pages/25565.png
+illustrations/pages/25564.png
+illustrations/pages/25563.png
+illustrations/pages/26441.png
+illustrations/pages/1495.png
+illustrations/pages/8524.png
+
+translations:
+
+English (Original)	Sun and Moon	id=34274

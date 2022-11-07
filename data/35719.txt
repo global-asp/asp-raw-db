@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=35719&d=0&a=1
+id:	35719
+title:	La Huérfana
+author:	Aprende Leyendo
+artist:	Saajida  Patel
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35719.png
+desc:	Anita es un bebé rinoceronte blanco
+
+page_text:
+
+P1	Anita es un bebe rinoceronte blanco.@Los guardias forestales la rescataron del monte.
+P2	Su mamá fue asesinada por los cazadores.@@Las guardias forestales recogieron a Anita y la llevaron en un lugar seguro.
+P3	Anita tenía el corazón roto.@@Y tenía miedo que los cazadores volvieran a regresar para tomar su cuerno.
+P4	Poco a poco, Anita hizo amistades. @Ella se sentía segura y le gustaba jugar en el barro.@Ella tomaba leche nutritiva en el santuario.
+P5	Un día Anita le preguntó a su amigo Arturo: "Porque ellos quieren mi cuerno?".@@Arturo respondió: "Ellos creen que nuestros cuernos son mágicos!".
+P6	"Pero nuestros cuernos no son mágicos!" lloraba Anita.@@"No, por supuesto que no. Los cuernos son lo mismo que el cabellos o las uñas" dijo Arturo.
+P7	Anita y Arturo son los ultimos de  su especie.@@El rinoceronte blanco está casi extinto.@@Casi todos han desaparecido de nuestro mundo.
+P8	Nosotros podemos salvar a los rinocerontes y a otros animales que están en peligro de extinción.@@¿Qué puede hacer?@@Averigua más!
+
+images:
+
+illustrations/pages/93740139.png
+illustrations/pages/93740139.png
+illustrations/pages/93740140.png
+illustrations/pages/93740141.png
+illustrations/pages/93740142.png
+illustrations/pages/93740143.png
+illustrations/pages/93740144.png
+illustrations/pages/93740145.png
+illustrations/pages/93740146.png
+
+translations:
+
+English (Original)	An orphan	id=34206
+isiZulu (Translation)	Intandane	id=34508
+Tiv (Translation)	Wancôvor	id=39248
+Tshivenḓa (Translation)	Tsiwana	id=34257
+Xitsonga (Translation)	Xisiwana	id=34331

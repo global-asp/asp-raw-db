@@ -1,0 +1,66 @@
+url:	https://africanstorybook.org/reader.php?id=35255&d=0&a=1
+id:	35255
+title:	Sara's Canoe
+author:	Alison Fielden
+artist:	Rachel  Greer
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35255.png
+desc:	Sara is helping people and animals across the river in her canoe
+
+page_text:
+
+P1	Sara has a canoe to cross the river.
+P2	Some women want to go across.
+P3	Some men want to go across.
+P4	They have a bicycle too.
+P5	Some animals want to go across.
+P6	They all get in the canoe.
+P7	The elephant wants to go across.
+P8	Everyone falls in!
+P9	The elephant is sad.
+P10	Sara takes the women across.
+P11	She takes the men across.
+P12	She takes the animals across.
+P13	The elephant has to walk!
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Afrikaans (Translation)	Sara se kano	id=37090
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya Asara	id=33186
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+English (Adaptation)	Sara's Canoe	id=35250
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+Imeetto (Translation)	Ikalawa ya Saara	id=33188
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kinyarwanda (Translation)	Ubwato bwa Sara	id=32306
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A Canoa da Sara	id=33185
+Sepedi (Translation)	Mokoro wa Sara	id=33345
+Sola (Translation)	Sɑrɑ kuninɔi	id=35138
+Yom (Translation)	Sɑɑrɑ gurɣʋ	id=36272

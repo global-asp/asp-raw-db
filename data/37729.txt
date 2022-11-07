@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=37729&d=0&a=1
+id:	37729
+title:	ውድድሩ
+author:	Mezemir Girma
+artist:	Amir Bachir António Necas
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37729.png
+desc:	ቀንድ አውጣና ጥንቸል ሩጫ ቢወዳደሩ ማን ያሸንፋል? ይህ ተረት ማንበብ ለጀመሩ ልጆች የንባብ ልምምድ ለማድረግ የሚግዝና ለወደፊቱ ትምህርትርታቸው ዝግጅት ለማድረግ የሚያግዛቸው ነው፡፡
+
+page_text:
+
+P1	አንድ ቀን ጥንቸል ቀንድ አውጣ አገኘ። ቀንድ አውጣውንም ‹‹መሮጥ አትችልም! የምታውቀው ነገር መሬት ላይ መሳብ ብቻ ነው›› አለው።
+P2	ቀንድ አውጣውም ‹‹እሁድ መጥተህ እይ›› አለው።
+P3	ቀንድ አውጣው መቶ ወረቀቶች አዘጋጅቶ ሁሉም ላይ ተመሳሳይ መልዕክት ጻፈባቸው።
+P4	ቀንድ አውጣው ወረቀቱን ለጓደኞቹ ሰጣቸውና ‹‹ጥንቸሉ እኔን ፈልጎ እየተጣራ ወደዚህ ሲመጣ ከመካከላችሁ አንዱ ቀንድ አውጣው እኔ ነኝ ይበል›› አላቸው።
+P5	ከዚያም ቀንድ አውጣው ጥንቸሉ እና እሱ ከሚያልፉባቸው ቁጥቋጦዎች በስተጀርባ እንዲደበቁ ለጓደኞቹ ነገራቸው።
+P6	እሁድ እለት ጥንቸሉ መጥቶ ቀንድ አውጣውን አገኘው። ጥንቸሉም ‹‹በል እስኪ ውድድሩን እንጀምር። እኔ ግን አሸንፋለሁ›› አለው።
+P7	ቀንድ አውጣዎች ከዛፎች ጀርባ ተሰልፈው ስለነበር ጥንቸሉ ባለፈ ቁጥር እያንዳንዱ ቀንድ አውጣ ‹እኔ ነኝ ቀንድ አውጣው› እያለ ይጮህበታል፡፡ ጥንቸሉም ውድድሩን እያደረገ ‹‹ቀንድ አውጣ፣  ቀንድ አውጣ ›› እያለ ይጮሃል።
+P8	ከቁጥቋጦዎቹ በስተጀርባ ከተደበቁት ቀንድ አውጣዎች አንዱ ‹‹እኔ ቀንድ አውጣው ነኝ! እኔ ቀንድ አውጣው ነኝ!›› በማለት መለሰ፡፡
+P9	በመጨረሻም ጥንቸሉ በጣም ደከመው፡፡ ከዚያም‹‹በጣም ደክሞኛል፤ በቃ ቀንድ አውጣ አሸንፈኸኛል›› ብሎ ተኛ። አንድ ቀንድ አውጣ ከቁጥቋጦው ጀርባ ሆኖ የጥንቸሉን ድርጊት ይመለከት ነበር።
+P10	ስለዚህ ቀንድ አውጣው ጎበዝ ስለነበር ውድድሩን አሸነፈ፡፡
+
+images:
+
+illustrations/pages/9318.png
+illustrations/pages/9318.png
+illustrations/pages/9304.png
+illustrations/pages/9305.png
+illustrations/pages/9306.png
+illustrations/pages/9307.png
+illustrations/pages/9308.png
+illustrations/pages/9309.png
+illustrations/pages/9310.png
+illustrations/pages/9311.png
+illustrations/pages/9312.png
+
+translations:
+
+Ciyawo (Translation)	Kuwutuka	id=15740
+English (Original)	The race	id=9299
+English (Adaptation)	The race (Colour-in)	id=17546
+Lusoga (Translation)	Okusinganwa (Colour-in)	id=24951
+Portuguese (Adaptation)	A Corrida	id=9467

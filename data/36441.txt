@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=36441&d=0&a=1
+id:	36441
+title:	Quem nos pode ajudar?
+author:	Susana Juzarte
+artist:	Marleen Visser
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36441.png
+desc:	A história de uma família sul-africana durante o confinamento.
+
+page_text:
+
+P1	Como vai ser a escola hoje?@Mal posso esperar para ver os meus amigos!@Como vamos recuperar as lições que perdemos?
+P2	Quando o bloqueio começou, tive medo. @A mãe não podia ir trabalhar.@Não havia dinheiro suficiente para comprar comida.
+P3	A mãe e o pai estavam a discutir demasiado!@E eu e você brigamos muito, também.
+P4	O sr. Khumalo estava muito doente.@Tinha medo que o meu pai também adoecesse.@Oramos por eles e Deus ajudou-os.@Então Deus proporcionou-nos comida!
+P5	Senhor Jesus, por favor, ajude nossa família.@Por favor, esteja com todos os nossos amigos e ajude-os, também. Obrigado por nos amar e ouvir as nossas orações. Ámen.
+P6	"Deus é o nosso forte refúgio; ele é verdadeiramente o nosso amparo em tempos de angústia." salmo 46:1
+
+images:
+
+illustrations/pages/93740443.png
+illustrations/pages/93740449.png
+illustrations/pages/93740443.png
+illustrations/pages/93740442.png
+illustrations/pages/93740446.png
+illustrations/pages/93740450.png
+illustrations/pages/93740445.png
+
+translations:
+
+English (Original)	Who can help us?	id=35218
+isiXhosa (Translation)	Singancedwa ngubani?	id=35286
+Spanish (Translation)	¿Quién nos puede ayudar?	id=36407

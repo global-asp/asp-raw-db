@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=38220&d=0&a=1
+id:	38220
+title:	Siapa yang Besar?
+author:	Nurhayati Rhoda
+artist:	Karen Lilje and Wiehan de Jager
+lang:	Bahasa Indonesia
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38220.png
+desc:	Semut memandang sekelilingnya
+  dan melihat bahwa dia lebih besar
+  daripada benda di sekitar. Tetapi apakah semut benar-benar besar? Siapa yang benar-benar besar?
+
+page_text:
+
+P1	Semut memandang tanaman@  kecil dan kerikil disekitarnya. “Aku besar!” kata@  Semut.
+P2	‘Tidak, Semut. Kamu tidak@  besar,” kata Tupai. “Aku@  yang besar!”
+P3	‘Tidak, Tupai. Kamu tidak@  besar,” kata Kucing. “Aku@  yang besar!”
+P4	"Tidak, Kucing. Kamu tidak besar," kata Hiena, "Aku yang besar!"
+P5	“Tidak, Hiena. Kamu tidak@  besar,” kata Badak, “Aku@  yang besar!”
+P6	“Tidak, Badak. Kamu tidak@  besar,” kata Gajah, “Aku yang besar!”
+P7	Kemudian Gajah memandang ke@  langit. Langit dipenuhi bintang. Langit sangat besar dan luas. Langit membentang ke segala arah. “Tidak, aku juga tidak besar! Kita semua kecil!” kata Gajah tersenyum.
+
+images:
+
+illustrations/pages/879.png
+illustrations/pages/879.png
+illustrations/pages/10849.png
+illustrations/pages/8061.png
+illustrations/pages/5913.png
+illustrations/pages/1114.png
+illustrations/pages/5749.png
+illustrations/pages/1139.png
+
+translations:
+
+English (Original)	Who is big?	id=11703
+Lusoga (Translation)	Ani omubbedde?	id=27054

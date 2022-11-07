@@ -1,0 +1,66 @@
+url:	https://africanstorybook.org/reader.php?id=39440&d=0&a=1
+id:	39440
+title:	Acol ku man dɛt yam
+author:	Philip Lual Bol
+artist:	Benjamin Mitchley
+lang:	Dinka
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39440.png
+desc:	Tawen ci man Acol thou
+
+page_text:
+
+P1	Acol aci man thou. @@Acol kek wun aci ŋiec cieŋ kamken.
+P2	Na ɣɔn akal tok, ke wun Acol bɔ baai kek tik. @@Riɛnke acɔl Adut.
+P3	Go wun Acol lueel, "Adut ee moor yemen."
+P4	Acol a kec puou miɛt. @@Aci tɔc matania man ci gɔt kɔu.
+P5	Go wun Acol jal bi la luɔi yic. @@Adut kua Acol aci jal reer ka ke ci puoth mit.
+P6	Akol dɛt ka Adut yup Acol. @@Tadɛt ka ci Acol muɔc ciɛm.
+P7	Adut atheel Acol wei akɔtic. @@Matania man aci yic rɛɛt.
+P8	Acol aci matania loom ku jɔl abaŋ ciɛm. @@Aci kat.
+P9	Acol aci la reer e tim nhom. @@Aci wɛɛk lɛɛŋ kɛt man.
+P10	Go tiɛŋ tok waak jal piŋ apath.
+P11	Aci tik guɔ ŋic lɔn ye yen Acol nyiɛn mɛnh.
+P12	Acol aci wɛc nyiai kek yen. @@Aci ciam ku niin apɛth.
+P13	Wun Acol aci lɔk bɛn baai. @@Acol aliu.
+P14	Acol aci wun yok. @@Ku lueel, "Rɛɛr ka wek wac ta cit ta ye wiec yeen."
+P15	Adut kua Acol aci rot jal bɛn nhiar kedhie.
+P16	Adut aci thal tɛn kek. @@Aci Acol jal ŋic lɔn ci yen man dɛt yam bɛn yok.
+
+images:
+
+illustrations/pages/1682.png
+illustrations/pages/1675.png
+illustrations/pages/1676.png
+illustrations/pages/1677.png
+illustrations/pages/1678.png
+illustrations/pages/1679.png
+illustrations/pages/1680.png
+illustrations/pages/1681.png
+illustrations/pages/1674.png
+illustrations/pages/1682.png
+illustrations/pages/1683.png
+illustrations/pages/1685.png
+illustrations/pages/1686.png
+illustrations/pages/2483.png
+illustrations/pages/1688.png
+illustrations/pages/1690.png
+illustrations/pages/1691.png
+
+translations:
+
+Afrikaans (Translation)	Simbegwire	id=11167
+Amharic (Translation)	ሲምበግዊሬ	id=22403
+Arabic (Translation)	سمبقواير	id=21835
+CiNyanja (Translation)	Simbegwire	id=37435
+English (Original)	Simbegwire	id=7068
+English (Adaptation)	Simbi's new mother	id=21374
+English (Adaptation)	Simbegwire (Colour-in)	id=32588
+IciBemba (Translation)	Simbegwire	id=37434
+Kidawida (Translation)	Wawuda mkandee	id=22025
+Kinyarwanda (Translation)	Kanyana	id=32641
+Kiswahili (Translation)	Simbi ampata mama mpya	id=22002
+Lámnsoʼ (Translation)	Yìy à Simbi wo fiy	id=22413
+Lunyole (Translation)	Sibahwana	id=7164
+Lusoga (Translation)	Maama wa'Simba omuyaaka	id=25443

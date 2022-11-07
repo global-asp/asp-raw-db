@@ -1,0 +1,65 @@
+url:	https://africanstorybook.org/reader.php?id=37703&d=0&a=1
+id:	37703
+title:	Nthano ya nyemba
+author:	Bether Mwale-Moyo and Moffat Moyo
+artist:	Nina  Orange
+lang:	CiNyanja
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37703.png
+desc:	Nthano yamapikica yomwe inenelela umoyo wa nyemba: kushanga
+
+page_text:
+
+P1	Mnzanga anandipatsa njere za nyemba kucokera m'munda wake.
+P2	Ndinabzala nyemba zija m'nthaka.
+P3	Nyemba zinamere kucokera m'nthaka.
+P4	M'mera unakula ukupenya kudzuwa. @@Mizu imera kulowa pansi m'nthaka.
+P5	M'mera pokula umatuluka pamwamba panthaka.
+P6	M'mera umayamba kukula.
+P7	…ndi kukula.
+P8	Ndibzalanso nyemba zambiri.
+P9	Nyemba zikukula.
+P10	…ndi kukula.
+P11	Nyemba zamera makoko.
+P12	Nyemba zamera kupita pamwamba, ndi pamwamba, kukwera cipupa canga!
+P13	Ndimakolola makoko akauma.
+P14	Ndimacotsa nyemba m'makoko.
+P15	Ndimaphika nyemba, kuphikira pamodzi anyenzi ndi zokometsera.
+P16	Izi nyemba zapya kuti tidye.
+
+images:
+
+illustrations/pages/28342.png
+illustrations/pages/28338.png
+illustrations/pages/28279.png
+illustrations/pages/28280.png
+illustrations/pages/28281.png
+illustrations/pages/28282.png
+illustrations/pages/28283.png
+illustrations/pages/28339.png
+illustrations/pages/28285.png
+illustrations/pages/28286.png
+illustrations/pages/28287.png
+illustrations/pages/28288.png
+illustrations/pages/28289.png
+illustrations/pages/28340.png
+illustrations/pages/28277.png
+illustrations/pages/28292.png
+illustrations/pages/28293.png
+
+translations:
+
+Anii (Adaptation)	Aroŋca kaɖulinya kagɩsɔɔ	id=39895
+ChiTonga (Translation)	Buumi bwa Nyabo	id=32875
+ChiTonga (Adaptation)	Kaano Kanyabo	id=37702
+CiNyanja (Translation)	Ntano ya Nyemba	id=32852
+English (Original)	Life story of beans	id=32460
+Fulfulde Mbororoore (Translation)	Taariha Nyebbe: No nyebbe mawnirta	id=38350
+IciBemba (Translation)	Ubuumi bwa Cilemba	id=32869
+IciBemba (Translation)	Ubuumi bwacilemba	id=33296
+IciBemba (Adaptation)	Ubuumi bwa cilemba	id=37704
+Kῖmῖῖrũ  (Translation)	Rũgono rwa ũtũũro bwa mũng'aũ	id=32817
+Kiswahili (Translation)	Maisha ya maharagwe	id=32596
+Tshivenḓa (Translation)	Nganeavhutshilo ya dziṋawa	id=37305
+Xitsonga (Translation)	Xitori xa vutomi bya tinyawa	id=37126

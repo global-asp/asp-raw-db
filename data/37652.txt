@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=37652&d=0&a=1
+id:	37652
+title:	Ng'ona m'thupi mwanga
+author:	Bether Mwale-Moyo and Moffat Moyo
+artist:	Felicity Bell
+lang:	CiNyanja
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37652.png
+desc:	Ntombi adwala matenda yosausa ndipo ayenela kuzisamalila kuti akale na umoyo wabwino. AGogo ake amasimikizila kuti Ntombi akudya cakudya cabwino ndiponso akumwa mankwala amene afunikila kuti akale na umoyo wabwino.
+
+page_text:
+
+P1	Moni, moni, moni! Dzina langa ndine Tombi. Ndine mtsikana monga atsikana eneonse, ndisiyana nawo cifukwa ndili ndi ng'ona m'thupi mwanga. Inu simungayione ng'ona imeneyi koma ine ndidziwa kuti iliko. @@Dzina la ng'ona imeneyi ndi Horrible Invader. Ng'ona imeneyi inabisala m'thupi langa ndipo siyingacite coipa ciliconse kwa anzanga.
+P2	Ng'ona imeneyi siyingacoke m'thupi mwanga ndi kulowa m'thupi lanu ngati mwakhala pafupi nane.
+P3	Ng'ona imeneyi siyingacoke m'thupi mwanga ndi kulumphira m'thupi lanu ngakhale kuti tidyere cakudya ca masana ndi ine, kapena kugona pansi pamodzi popumula.
+P4	Ng'ona yanga, Horrible Invader, yakhala nane kucokera pomwe ndinabadwa. Ng'ona imeneyi imakonda kudya asilikari onse oteteza thupi kuti lisadwale. @@Mdani ameneyu akadya asilikari anga ambiri, ndimadwala kwambiri. Pamenepo, sindingapite kusukulu ndi kusewera ndi anzanga.
+P5	Ndimafunika kumwa mankhwala anga masiku onse pa nthawi imodzimodzi. Ngati sindikwanitsawa mankhwala, ng'ona imauka mokwiya kwambiri ndipo imayamba kudya asilikari anga. @@Sindifuna kuti ng'ona idye asilikari anga, kotero kuti aGogo azindikumbutsa kumwa mankhwal pa nthawi yoyenera.
+P6	Ngati ndimadya zakudya monga zamasamba ndi zipatso, asilikari anga amalimba ndipo samalola kuti ng'ona yanga iwagwire. @@Ndimaganiza kuti zikatere ng'ona imagona kwa kanthawi cifukwa pomwepo ndimakhala bwino ndi wamphamvu ndikukwanitsa kuseweranso ndi anzanga. Ndimakondwa kwambiri pomwe ng'ona yagona ndipo ndingakwanitse kusewera.
+P7	Masiku apitapo, aGogo ananipeleka ku cipatala kukatenga zina zodyesa ng'ona. Izi zigonesa ng'ona, ndipo ileka kudya asilikari anga. @@Ndipo nimakwanisa kucita zonse zosangalasa zamene acita ana ena monga, kutamanga, kuvina ndi kukwela mtengo.
+P8	Ndimakonda aGogo kwambiri. Iwo amandikomera mtima. Iwo amandipatsa cakudya cabwino ndipo amaonetsetsa kuti ndimamwa mavitameni ndi kulimbitsa asilikari kotero kuti ndisadwale. @@Ndipo ngati ndadwala amandipereka ku kiliniki pomwepo kuti ndilandire mankhwala.
+P9	Pambuyo popita kukagona, ndimaganiza za zinthu zambiri. Ndimaganiza zophunzira pa sukulu lalikulu. Ngati ndipitirirza kumwa mankhwala anga omwe amagoneka ng'ona yanga, ndidzapita kukafuna aGogo ndi kuwawerengera nthano pomwe iwo akalamba kwambiri ndipo sangathe kupenya bwino. @@Nditakula kukhala mzimayi, ndingakonde kuphunzira. Ndifuna kuthandiza kupeza mankhwala omwe adzafooketsa ng'ona m'matupi a anthu ena kwamyaya.
+P10	Ndidzaphunzira kukhala ndi ng'ona yanga ndipo ndi kuisunga ili cogona monga momwe ndingakwanitsire. @@Ndidzakhala ndi anznga ambiri monga ndingakwanitsire. Ndipo nddzakhala wosangalala masiku onse.
+P11	aGogo, amalume, amai aang'ono, anzanga anikonda ngakale kuti nili na ng'wena yocedwa Horrible InVader yamene ikala m'tupi yanga.
+
+images:
+
+illustrations/pages/6105.png
+illustrations/pages/6093.png
+illustrations/pages/6094.png
+illustrations/pages/6092.png
+illustrations/pages/6095.png
+illustrations/pages/6097.png
+illustrations/pages/6099.png
+illustrations/pages/6139.png
+illustrations/pages/6102.png
+illustrations/pages/6103.png
+illustrations/pages/6104.png
+illustrations/pages/6105.png
+
+translations:
+
+Afrikaans (Translation)	Die krokodil in my lyf	id=11362
+ChiTonga (Translation)	Ciwena Mumubili Wangu	id=32880
+ChiTonga (Adaptation)	Ciwena mumubili wangu	id=37628
+CiNyanja (Translation)	Ng'wena Muthupi Mwanga	id=33165
+Dhopadhola (Translation)	Ngoona ideli parani	id=33123
+English (Original)	Crocodile in my body	id=6111
+English (Adaptation)	The disease in my body	id=32448
+English (Adaptation)	Crocodile in my body	id=36020
+French (Translation)	Un Crocodile Dans Mon Corps	id=10146
+IciBemba (Translation)	Ing'wena Mumubili Wandi	id=33206
+IciBemba (Adaptation)	Ing'wena ya mu mubili wandi	id=37654
+Kiswahili (Translation)	Mamba aliye mwilini mwangu	id=15746
+Luganda (Translation)	Ggonya mu mubiri gwange	id=23236
+Lusoga (Translation)	Wangoina mu mubiri gwange	id=24865
+Portuguese (Translation)	Um Crocodilo No Meu Corpo	id=16410

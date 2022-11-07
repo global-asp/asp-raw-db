@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=34897&d=0&a=1
+id:	34897
+title:	Zirga Zirgan rana
+author:	Emmanuel  Ochiwu and Ismaila  Salihu
+artist:	Joe  Werna
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34897.png
+desc:	Wannan tatsuniya ce ta yadda dan makaranta ke kallon rana daga asuba zuwa yamma.
+
+page_text:
+
+P1	Rana ta na fitowa daga gabas ko wace safiya.@  @ Na kan ji kukan zakara yana chara da asubah.
+P2	Rana ta na gangarawa saman gidan Terfa, kafin abincin safe.@  @Na ji kamshin bier da akpupa yana biyo rana ta taga na.
+P3	Rana ta na wucewa bayan bishiya a makaranta kafin abincin rana.@  @Sai ta iso bakin kuddudufi a sakiyan filin wasa.
+P4	Rana ta kan haye bisa kai na. inuwa na ta kasance gefe na.@  @ Na kan yi wasan inuwa da abokai na.
+P5	Inuwa ta kan yi girma, sai ta kakance. Sai mu kan bi ta da gudu.@  @@  Inuwa ta kan yi tsayi, sai ta kan gajarce. Sai mu kan bi ta da gudu.
+P6	Na kan tsaya, abokai na kan tsaya. Sai mu kan ga inuwan mu sun kauce.@  @Mun kan gaji, sai mu kan koma aji. Baya makaranta, sai mu kan tafi gida.
+P7	Rana tayi yawshi.@  @Na kan ga rana tana faduwa a hankali zuwa kudu. Sai na kan ga.@  inuwa na a bango. Lokacin barci yayi.
+P8	Rana ta kan fadi bayan gajimarai.@  @  Na kan kwanta a kan gado na, sai na kan yi mafarki rana na tafiya nesa-nesa.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Amharic (Translation)	ባተሌ ባተሌዋ ፀሐይ	id=39465
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Bura (Translation)	Kethir kethir mchi	id=34888
+Ebira (Translation)	Ukoro Ukoro  ὀyi	id=34840
+English (Original)	Busy Busy Sun	id=32416
+French (Translation)	Le soleil occupé, très occupé	id=35178
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Ikwerre (Translation)	Nhebe Ne Me'he	id=34833
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyange I Memen Ga	id=36793
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

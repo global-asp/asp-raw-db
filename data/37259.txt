@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=37259&d=0&a=1
+id:	37259
+title:	Picture story 15
+author:	African Storybook
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37259.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/7991.png
+illustrations/pages/9191.png
+illustrations/pages/7988.png
+illustrations/pages/7989.png
+illustrations/pages/7993.png
+illustrations/pages/7994.png
+illustrations/pages/7996.png
+illustrations/pages/7997.png
+illustrations/pages/7998.png
+illustrations/pages/7999.png
+illustrations/pages/8000.png
+
+translations:
+
+ChiTonga (Translation)	Musankwa watakali kuyandwa amuntu	id=18651
+CiNyanja (Translation)	Munyamata wamene sanali kukondedwa	id=18660
+English (Translation)	The boy who nobody loved	id=9208
+French (Translation)	Le Garçon Que Personne N’Aimait	id=10158
+IciBemba (Translation)	Umulumendo Uo Abantu Baashatemenwe	id=18694
+isiXhosa (Translation)	Inkwenkwana eyayingathandwa mntu	id=17503
+isiZulu (Original)	Umfana owayengathandwa muntu	id=9207
+Kiswahili (Translation)	Mvulana aliyechukiwa na wote	id=12600
+Lumasaaba (Translation)	Umusooleli abe isi buli muundu akhakana ta	id=11891
+Ng’aturkana (Translation)	Edia Lope Aminae	id=12690
+Oluwanga (Translation)	Omusiani Owa Buli Omundu Yaloba	id=13020
+Portuguese (Translation)	O Menino De Que Ninguém Gostava	id=15806
+Setswana (Translation)	Mosimane yo o neng a sa ratiwe ke batho	id=17645
+SiLozi (Translation)	Mushimani Yanasalatwi Ki Mutu	id=18739
+Spanish (Translation)	El niño al que nadie amaba	id=36417

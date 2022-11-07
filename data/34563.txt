@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=34563&d=0&a=1
+id:	34563
+title:	Crocodile Et Chien
+author:	Alassane  Gaye
+artist:	Rob Owen
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34563.png
+desc:	Chien a trouvé des œufs à la rive
+
+page_text:
+
+P1	Un jour, Chien a trouvé des œufs à la rivière.
+P2	Chien a mis les dix œufs dans son sac.
+P3	Chien a pris soin des œufs et les a gardés chaud.
+P4	Crocodile a  demandé au Chien, "As-tu vu mes œufs ?"
+P5	Crocodile a interrogé tous les animaux sur ses œufs.
+P6	Pendant ce temps, les œufs se sont craqués un par un.
+P7	Chien ne pouvais pas donner assez de nourriture aux petits crocodiles.
+P8	Un jour, Crocodile a entendu le ventre grondant de jeunes crocodiles!
+P9	Crocodile est allé à l'intérieur et a frappé Chien avec sa queue.
+P10	Crocodile a poursuivi Chien au long de la route.
+P11	Chien s'est arrêté et a demandé pardon au Crocodile.
+P12	Crocodile l'a pardonné et est allé nager avec ses petits.
+
+images:
+
+illustrations/pages/17149.png
+illustrations/pages/17139.png
+illustrations/pages/17140.png
+illustrations/pages/17141.png
+illustrations/pages/17142.png
+illustrations/pages/17143.png
+illustrations/pages/17144.png
+illustrations/pages/17145.png
+illustrations/pages/17146.png
+illustrations/pages/17147.png
+illustrations/pages/17148.png
+illustrations/pages/17149.png
+illustrations/pages/17150.png
+
+translations:
+
+Anii (Adaptation)	Ayɩwa n'asna	id=39762
+CiNyanja (Translation)	Galu na Ng'wena	id=33162
+Dhopadhola (Translation)	Gwok Gi Ngona	id=19479
+English (Original)	Dog and Crocodile	id=17572
+English (Adaptation)	Crocodile and Dog	id=20911
+English (Adaptation)	Crocodile and Ngô-Iwa	id=32214
+IciBemba (Translation)	Imbwa Neeng'wena	id=32877
+isiXhosa (Translation)	UNja noXam	id=17573
+Kῖmῖῖrũ  (Translation)	Kurũ na Kῖng'ang'i	id=32815
+Kinyarwanda (Translation)	Imbwa n'ingona	id=23353
+Kiswahili (Translation)	Mayai ya Mamba	id=17596
+Kiswahili (Translation)	Mamba na Mbwa	id=21151
+Luganda (Translation)	Gonya ne Wambwa	id=22957
+Luganda (Translation)	Wambwa ne Waggoonya	id=24579
+Lusoga (Translation)	Wambwa ni Wangoina	id=25309
+Tigrigna (Translation)	ሓርገፅን ከልብን	id=21178

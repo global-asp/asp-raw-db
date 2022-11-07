@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=34322&d=0&a=1
+id:	34322
+title:	Mujombe wa Kulani
+author:	Given J Hlongwani
+artist:	Marion Drew
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34322.png
+desc:	Keke u jomba ka mujombe lowu a wu rhandzaka. U ya ehenhle emalembelembeni. U na ku chava leswaku u ta hahela enwetini.
+
+page_text:
+
+P1	Kulani u jomba ka mujombe lowu a wu rhandzaka. @@U ya ehenhla emanembenembeni. U na ku chava leswaku u ta hahela en'wetini.
+P2	Kulani a fambisa mujombe switsongo. Endzhaku na le mahlweni, endzhaku na le mahlweni. @@Loko Kulani a jomba, mujombe a wu famba hi ku hatlisa swinene.
+P3	Kulani u langutile ehansi emisaveni. A a ri ehenhla swinene. @@"Heeeyi!" A huwelela. "Vona leswaku ndzi le henhla njhani!"
+P4	A tsakile swinene ku va a ri ehenhla. A kota ku vona tiko hinkwaro. @@A a ri ehenhla ku fana na swinyanyana loko swi ri karhi swi haha ehenhla ka masimu ya mavele.
+P5	Endzhaku ka nkarhi Kulani a lava ku vuyela ehansi. Kambe mujombe a wu nga yimi. @@"Yooo, yoo, yooo," a huwelela. "A ndzi swi koti ku yimisa mujombe!"
+P6	Mujombe wu yile emahlweni wu nga yimi. Ehenhla na le hansi, ehenhla na le hansi. Kulani u tele hi ku chava. @@"Xana mujombe lowu wu ta ndzi yisa kwihi? Ndzi nga fika na le n'wetini. Ndzi fanele ku chika!" a rila.
+P7	Kutani Kulani u tshiketile mujombe. A wela ehansi, ehansi hansi.
+P8	"Yowe, yowe, yowe!" ku rila vana lavan'wana. Kulani u wele ehansi. U tivavisile nhloko. @@"Yooo, yooo, yooo," a rila.
+P9	Vana lavan'wana a va taleriwile hi ku vilela swinene. Kulani a nga swi tivi leswaku a nga endla yini. @@"Yooo, yooo, yooo," a rila.
+P10	Vana va vitanile mudyondzisi wa vona. @@"Manana Cawuke, hi kombela u ta!" va huwelela. "Kulani u wile emujombeni. U tivavisile enhlokweni."
+P11	Manana Cawuke va tsutsumele emujombeni. U tekile Kulani kutani a n'wi tswontswa emombyeni. @@Kulani a n'wayitela, "Swa antswa. A ndzi nge he yi emujombeni luwa ndzi ri ndzexe nakambe," a vula. "A ndza ha swi lavi ku ya en'wetini."
+P12	"Nkarhi lowutaka ndzi ta va na wena emujombeni, Kulani," ku vula Manana Cawuke. @@"Hi nga ya en'wetini swin'we!"
+
+images:
+
+illustrations/pages/9324.png
+illustrations/pages/9319.png
+illustrations/pages/9320.png
+illustrations/pages/9321.png
+illustrations/pages/9322.png
+illustrations/pages/9323.png
+illustrations/pages/9324.png
+illustrations/pages/9325.png
+illustrations/pages/9326.png
+illustrations/pages/9327.png
+illustrations/pages/9328.png
+illustrations/pages/9329.png
+illustrations/pages/9330.png
+
+translations:
+
+Afrikaans (Adaptation)	Keke se swaai	id=10535
+Anii (Adaptation)	Kaɖiija n'alaakpa	id=39765
+English (Translation)	Keke's swing	id=9792
+French (Translation)	La Balançoire De Kéké	id=10844
+isiNdebele (Translation)	Umjinko kaKeke	id=35229
+Lusoga (Translation)	Ekyensuubo  kya Kateme	id=31480
+Portuguese (Translation)	O Baloiço Da Keke	id=16655
+Rutooro (Translation)	Omwesuuso Gwa Keke	id=10553
+Sesotho (Lesotho) (Original)	Senkokomaile sa Keke	id=9790
+Sesotho (South Africa) (Translation)	Moswinki wa Keke	id=33521
+Setswana (Translation)	Swinki ya ga Keke	id=39416
+Siswati (Translation)	Umjikeni waKeke	id=34469
+Tshivenḓa (Translation)	Muswinki wa Keke	id=34248

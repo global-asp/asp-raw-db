@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=37291&d=0&a=1
+id:	37291
+title:	U tshina
+author:	Doris  Manyamalala and Tshedza  Tlhako
+artist:	Catherine Groenewald
+lang:	Tshivenḓa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37291.png
+desc:	Tshirendo tshi nga ha musidzana we a vha a tshi funa u tshina. Mudededzi wawe ha zwi funi
+
+page_text:
+
+P1	Musi ndo takala ndi a tshina, @Musi ndo ṱungufhala ndi a tshina, @Musi ndi na vhuludu ndi a tshina, @Na musi ndo sinyuwa ndi a tshina.
+P2	Mudededzi wanga vha ri, "Dzulani fhasi! Ni songo sokou tshina ḓuvha ḽoṱhe."
+P3	Fhedzi mme anga vha ri: @"U tshina zwi ita uri ni vhe na mutakalo wavhuḓi, @U tshina zwi ita uri ni vhe mulapfu, Ḽiṅwe ḓuvha ni ḓo vha mutshini-makone, @Na vha mangadza vhoṱhe!"
+P4	Nṋe ndi ri, "Ḽiṅwe ḓuvha ndi ḓo tshina, nahone vhathu vha ḓo badela uri vha mmbone musi ndi tshi thamuwa na u mona-mona." @@Vha ḓo ri, "U a kona u tshina NGA maanḓa."
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+French (Translation)	La Danse	id=24817
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Luganda (Translation)	Okuzina	id=22960
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lusoga (Translation)	Okukina	id=24942
+Portuguese (Translation)	Dançando	id=12173
+Rufumbira (Translation)	Kubyina	id=22758
+Rukiga (Translation)	okuzina	id=22981
+Setswana (Translation)	Mokibo	id=2695
+Spanish (Translation)	Bailando	id=33361
+Tiv (Translation)	Amar a Vinen	id=36796
+Xitsonga (Translation)	Ku cina	id=37115

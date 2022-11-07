@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=37579&d=0&a=1
+id:	37579
+title:	What Color is that?
+author:	Dominic McSherry
+artist:	Dominic McSherry
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37579.png
+desc:	Your imagination can create anything you want it to. 
+Learn some colors & and meet some animals along the way
+
+page_text:
+
+P1	This is a monkey!@Are monkey's Green?
+P2	This is a Pig!@Are Pig's Blue?
+P3	This is a Cow!@Are Cow's Purple?
+P4	Look! It's a Rat!@Are Rat's Red with Green spots?
+P5	In real life Pig's are not Blue and no Cow's are not Purple, Monkey's are not Green and Rat's are Definitely not Red with Green spots! But...
+P6	In your imagination, they can be any color you want them to be.
+
+images:
+
+illustrations/pages/23470201.png
+illustrations/pages/23470202.png
+illustrations/pages/23470203.png
+illustrations/pages/23470204.png
+illustrations/pages/23470205.png
+illustrations/pages/23470206.png
+illustrations/pages/23470207.png
+
+translations:
+

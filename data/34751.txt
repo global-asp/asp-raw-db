@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=34751&d=0&a=1
+id:	34751
+title:	Las ordenes de papá
+author:	Aprende Leyendo
+artist:	Wiehan de Jager
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34751.png
+desc:	Algunas vez te has preguntado ¿Deben los niños seguir siempre las ordenes de los adultos?
+
+page_text:
+
+P1	Había una vez un hombre llamado Oscar, quien tenía un hijo.
+P2	El hijo de Oscar se llamaba Andrés.
+P3	Un día Oscar y Andrés fueron a caminar y a jugar al parque.
+P4	Cuando estaban jugando, ellos encontraron una maleta.
+P5	Oscar vio la maleta y le dijo a Andrés, "Cógela y la llevamos a la casa."
+P6	Andrés le hizo caso a su papá, cogió la maleta y se la puso en la cabeza.
+P7	De repente, cuando iban de regreso a casa ¡una serpiente salió de la maleta.
+P8	Andrés tiro la maleta lejos de ellos y ambos padre e hijo salieron a correr.
+
+images:
+
+illustrations/pages/10082.png
+illustrations/pages/10081.png
+illustrations/pages/10082.png
+illustrations/pages/10083.png
+illustrations/pages/10084.png
+illustrations/pages/10085.png
+illustrations/pages/10087.png
+illustrations/pages/10086.png
+illustrations/pages/10088.png
+
+translations:
+
+Amharic (Translation)	አባት እና ልጅ	id=16452
+Amharic (Translation)	አባት እና ልጅ	id=16453
+English (Adaptation)	Father's advice	id=22114
+French (Translation)	Père Et Fils	id=13273
+Luganda (Original)	Father and son	id=10439
+Lusoga (Translation)	Okughabulwa kwa Bbaabba	id=25263
+Portuguese (Translation)	O Pai E O Filho	id=16580
+Setswana (Translation)	Rre le morwa wa gagwe	id=14955

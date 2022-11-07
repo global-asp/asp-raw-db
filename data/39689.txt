@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=39689&d=0&a=1
+id:	39689
+title:	I bambini di cera
+author:	Luisa Ceresola
+artist:	Wiehan de Jager
+lang:	Italian
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39689.png
+desc:	Cera una volta una famiglia con tre figli molto obbedienti. Lunico problema: i bambini erano di cera.
+
+page_text:
+
+P1	C'era una volta una famiglia felice.
+P2	I bambini non litigavano mai tra di loro.@@Aiutavano i genitori a casa e nei campi.
+P3	Ma era loro proibito avvicinarsi al fuoco.
+P4	Dovevano fare tutti i lavori durante la notte.
+P5	Perché erano fatti di cera!
+P6	Uno dei bambini, però, desiderava uscire alla luce del sole.
+P7	Un giorno la voglia di uscire era troppo forte.@@Il fratello e la sorella lo avevano avvertito di non farlo.
+P8	Troppo tardi!@@Il ragazzo si sciolse sotto il sole cocente.
+P9	I bambini di cera, vedendo il fratello letteralmente fuso, piansero.
+P10	Tuttavia escogitarono un piano.@@Modellarono la cera fusa e le diedero la forma di un uccello.
+P11	Portarono il fratello, trasformato in uccello, sulla cima di una montagna.
+P12	Quando il sole sorse, l'uccello volò via, cantando alla luce del mattino.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die kerswaskinders	id=11550
+Arabic (Translation)	أطفال الشمع	id=21881
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of wax	id=2181
+English (Adaptation)	Children of wax (Colour-in)	id=32503
+isiNdebele (Translation)	Abantwana bamafutha	id=35234
+isiXhosa (Translation)	Abantwana bekhandlela	id=2500
+isiZulu (Translation)	Abantwana abenziwe ngamakhandlela	id=2499
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kinyarwanda (Translation)	Abana b'ibishashara	id=32630
+Kiswahili (Translation)	Watoto walioumbwa kwa nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Luganda (Translation)	Abaana b'ebisasalala	id=22947
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Lusoga (Translation)	Abaana abaatondebwa munvumbo	id=26692
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana be iula	id=2516
+Sesotho (South Africa) (Translation)	Bana ba kerese	id=33508
+Setswana (Translation)	Bana ba kerese	id=2519
+Siswati (Translation)	Bantfwana bemtfwebeba	id=34474
+Tshivenḓa (Translation)	Vhana vha phula	id=34253
+Xitsonga (Translation)	Vana va swihlenge	id=34327

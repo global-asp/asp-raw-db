@@ -1,0 +1,75 @@
+url:	https://africanstorybook.org/reader.php?id=37924&d=0&a=1
+id:	37924
+title:	መጥፎ ንጉሥ
+author:	Mezemir Girma
+artist:	Marleen Visser
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37924.png
+desc:	ከእንግዲህ ፍየሎች ለምን ሲስቧቸው እንደማይወዱ ታውቃላችሁ! እስከዛሬ ገምታችሁ ታውቁ ይሆን? መልካም ንባብ ይሁንላችሁ!
+
+page_text:
+
+P1	ፍየል የእንስሳትና የአእዋፍ ንጉሥ ነበር።@ከዕለታት አንድ ቀን ስብሰባ ጠራ።
+P2	ፍየል ህልም እንዳየ ነገራቸው።@ሁሉም በጥሞና አዳመጡት።
+P3	ሕልሙ ስለ ረሃብ ነበር።@‹‹ምን እናድርግ?›› ስትል ድመት ጠየቀች ።
+P4	ዶሮ እና ዳክዬ ‹‹ንጉሡ መደብር ውስጥ ምግብ እናስቀምጥ›› አሉ።
+P5	ንጉሡ ፍየል ‹‹የማይታዘዝን ሁሉ እሰሩ›› አለ።
+P6	አዲስ ንጉሥ ለመምረጥ ጊዜው ነበር፡፡@ድመትን መርጠዋል፡፡
+P7	ፍየል ድመት ንጉሥ እንድትሆን አልፈለገም፡፡ ‹‹እኔ ነኝ ንጉሡ፡፡››
+P8	ፍየል ምግብ አልበላም፡፡@ላም ‹‹ምን እናድርግ?›› ስትል ጠየቀች፡፡
+P9	እንስሳትና አእዋፍ በአንድነት ተነጋገሩ።@በፍየል ተናደዱበት።
+P10	ውሻ ‹‹ንጉሥ በነበረበት ጊዜ ሁልጊዜ ከእርሱ ጋር ነበርኩ›› አለ።
+P11	በግ ‹‹ያማረውን የበግ ፀጉር ለልጆቹ ሰጠኋቸው›› አለ።
+P12	አሳማም ‹‹ንጉሥ በነበረ ጊዜ የአትክልት ስፍራውን እጠብቅ ነበር›› ሲል ጮኸ፡፡
+P13	<> በማለት ጠየቀ በግ።
+P14	ፍየል ለንጉሥ ድመት ምግብ እንዲወስድ እንስሳቱ ተስማሙ።
+P15	እንስሳቱ ፍየልን አገኙት። ፍየል ‹‹ሁልጊዜ ንጉሥ እሆናለሁ›› አለ፡፡
+P16	‹‹አስረን ወደ አዲሱ ንጉሥ እንወስድሃለን።››
+P17	ላም ፍየልን ወደ ንጉሡ አደባባይ ወሰደችው፡፡@ሌሎችም በደስታ ፈነጠዙ።
+P18	ለዚህም ነው ፍየሎች በሚጎተቱበት ጊዜ ለመንቀሳቀስ የሚያስቸግሩት፡፡
+
+images:
+
+illustrations/pages/13362.png
+illustrations/pages/13351.png
+illustrations/pages/13350.png
+illustrations/pages/13352.png
+illustrations/pages/13353.png
+illustrations/pages/13362.png
+illustrations/pages/13354.png
+illustrations/pages/13363.png
+illustrations/pages/13355.png
+illustrations/pages/13357.png
+illustrations/pages/13356.png
+illustrations/pages/13358.png
+illustrations/pages/13359.png
+illustrations/pages/13360.png
+illustrations/pages/13361.png
+illustrations/pages/13364.png
+illustrations/pages/13365.png
+illustrations/pages/13366.png
+illustrations/pages/13367.png
+
+translations:
+
+Afrikaans (Translation)	Bok, die valse koning	id=21806
+Alur (Translation)	Wroth marach	id=33119
+Anii (Adaptation)	Gacikori gʊyarɩ gʊtɔɔtɔɔka	id=39792
+Dinka (Translation)	Ee Muorŋak nhom ku rɛɛc	id=39429
+English (Translation)	Goat, the false king	id=13541
+English (Adaptation)	Bad king	id=21446
+Fulfulde Mbororoore (Translation)	Laamiiɗo Kalluɗo	id=35809
+isiZulu (Translation)	Imbuzi, inkosi eyayingenalo iqiniso	id=16090
+Kῖmῖῖrũ  (Translation)	Mbũri mũnene wa ũrongo	id=32841
+Kiswahili (Translation)	Mfalme mbaya	id=21997
+Kiswahili (Translation)	Mbuzi, mfalme bandia	id=22059
+Lámnsoʼ (Translation)	Fon wo bi	id=22299
+Lusoga (Original)	Wambuzi Isabazinga Omufere	id=13540
+Lusoga (Translation)	Kyabazinga omubi	id=25096
+Ng’aturkana (Translation)	Ekarikon loaronon	id=35705
+Oluwanga (Translation)	Omuruchi omubi	id=22833
+Portuguese (Translation)	Bode, O Rei Falso	id=16652
+Tiv (Translation)	Ortaregh u Lanen Kwagh	id=34356
+Yoruba (Translation)	Ọba Burúkú Kan	id=34377

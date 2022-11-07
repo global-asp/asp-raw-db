@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=34549&d=0&a=1
+id:	34549
+title:	Stay safe at the beach!
+author:	Sea Rescue and Sean Verster
+artist:	
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34549.png
+desc:	There are dangerous currents at some beaches. They are called rip currents and can carry a person away from the beach very fast. This is why you should only swim at a beach that has lifeguards on duty
+
+page_text:
+
+P1	When going to the beach, find out which ones have lifeguards. @@Always try to visit beaches that have lifeguards watching the swimmers. @@The lifeguards on duty will put red and yellow flags on the beach to show you where it is safe to swim.
+P2	Many people find it hard to see a rip current in the sea. @@Rip currents are like fast-flowing rivers that can pull even strong swimmers away from the beach. @@This is why it is better to swim between the lifeguard flags.
+P3	If you get pulled out by a rip current, try not to panic.@@Try to swim to the left or to the right of the current's flow. @@Don't try to fight the current or to swim against the current. That will make you tired and more scared.
+P4	To be safe when you visit the beach, you should always listen to the lifeguards.@@And make sure that you stay between the red and yellow flags on the beach. The flags show you where the currents are safe.
+
+images:
+
+illustrations/pages/18470601.png
+illustrations/pages/18470602.png
+illustrations/pages/18470603.png
+illustrations/pages/18470604.png
+illustrations/pages/18470605.png
+
+translations:
+
+Spanish (Translation)	¡Cuídate en la playa!	id=36397

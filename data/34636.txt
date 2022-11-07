@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=34636&d=0&a=1
+id:	34636
+title:	Test of Storyweaver title images
+author:	A S
+artist:	Pratham Books
+lang:	Acholi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34636.png
+desc:	Test of Storyweaver title images Test of Storyweaver title images.
+
+page_text:
+
+P1	Landscape image, cropped using crop tool on ASb website
+P2	Landscape image, cropped using crop tool on ASb website
+P3	Cropped square before being uploaded
+P4	Cropped square before being uploaded
+P5	Landscape image, cropped using crop tool on ASb website
+
+images:
+
+illustrations/pages/93740276.png
+illustrations/pages/93740276.png
+illustrations/pages/93740277.png
+illustrations/pages/93740279.png
+illustrations/pages/93740278.png
+illustrations/pages/93740299.png
+
+translations:
+

@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=35249&d=0&a=1
+id:	35249
+title:	Granddad is Sick
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35249.png
+desc:	Follow a little Mozambican girl and her family as they learn how to cope with the coronavirus
+
+page_text:
+
+P1	I heard that Granddad is sick. @@Now my brother is coughing, too.
+P2	Grandmother shows him how to cough into his elbow.
+P3	We call the hospital to talk to Granddad.
+P4	I pray that he gets better soon.
+P5	Mom buys masks so we can visit Granddad.
+P6	Brother stays at home just in case.
+P7	I wash my hands with soap before I leave.
+P8	I keep my hands clean when I greet my friend.
+P9	We take a taxi to the hospital.
+P10	Granddad feels better already.
+
+images:
+
+illustrations/pages/93740490.png
+illustrations/pages/93740480.png
+illustrations/pages/93740481.png
+illustrations/pages/93740482.png
+illustrations/pages/93740483.png
+illustrations/pages/93740484.png
+illustrations/pages/93740485.png
+illustrations/pages/93740486.png
+illustrations/pages/93740487.png
+illustrations/pages/93740488.png
+illustrations/pages/93740489.png
+
+translations:
+
+Afrikaans (Translation)	Oupa was siek	id=35795
+Babanki (Translation)	Tì̀ʼ ə tìʼ ə yes ə nkwaʼa	id=36981
+English (Adaptation)	Grandfather was ill	id=35251
+Kom (Translation)	Bò bò wom ti nà ko'i-à	id=40143
+Oshikwanyama (Translation)	Tatekulu okwa li ta vele	id=37055
+Otuho (Translation)	Oŋuaî nyia hohonyi hoŋ	id=35464
+TjiKalanga (Translation)	Batategulu bakabegwala	id=35266

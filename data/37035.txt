@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=37035&d=0&a=1
+id:	37035
+title:	A braai day
+author:	Andrea  Niederer
+artist:	Noeh Cotti
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37035.png
+desc:	Sipho
+
+page_text:
+
+P1	Today is a special day! @@It is Gogo Maria's birthday. @@The whole family is coming together for a big braai.
+P2	Mama and Baba Nkosi start to prepare for the braai. @@Mama Nkosi says, "Oh no! There are a few ingredients missing!"
+P3	Mama Nkosi calls the children, Sipho, Thembi, and Themba. @@"Can you go to the supermarket and buy the missing ingredients, please?" asks Mama Nkosi.
+P4	"Here is the shopping list and money. If you have money left over, you can buy sweets for yourselves!"
+P5	The three children walk to the shop.
+P6	"This is the list that Mama gave us."
+P7	"So what do we need exactly?"@@"These are the things that we need."
+P8	The three children put the groceries in the shopping basket.
+P9	"This should be everything! How much does it cost? Let's calculate!"
+P10	Now the children know how much it costs. @@"How much money do we have left for sweets?"
+P11	"Yay, we have R6 left! One lollipop costs R2."@@"How many lollipops can we buy?"@@"If we have R6 left and 1 lollipop costs R2, we can buy 3 lollipops!
+P12	While walking home, the children eat their lollipops.@@At home Mama Nkosi says, "Thank you so much, I am proud of you! Now we can prepare for the braai."
+
+images:
+
+illustrations/pages/59330101.png
+illustrations/pages/59330102.png
+illustrations/pages/59330103.png
+illustrations/pages/59330104.png
+illustrations/pages/59330105.png
+illustrations/pages/59330106.png
+illustrations/pages/59330107.png
+illustrations/pages/59330108.png
+illustrations/pages/59330109.png
+illustrations/pages/59330110.png
+illustrations/pages/59330111.png
+illustrations/pages/59330112.png
+illustrations/pages/59330113.png
+
+translations:
+
+English (Original)	A braai day	id=36849

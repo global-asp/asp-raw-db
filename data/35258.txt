@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=35258&d=0&a=1
+id:	35258
+title:	Andizogadzikana
+author:	Tshidzanani T. Malaba
+artist:	Marleen Visser
+lang:	TjiKalanga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35258.png
+desc:	Nowha tjini uliwoga nelubaka kusingabumigwe yenda.
+
+page_text:
+
+P1	Kwakahhaligwa zwikwele kukayi tiyende kanyi.
+P2	Atitjazana nebamwe bana.
+P3	Ndoyemula bakhwinya bangu.
+P4	Ndohuba yenda kukwele.
+P5	Mme  abazogadzikana nekwabasekulu. @Banogwala bakubuwongelo.
+P6	Bazwadzi bedu abazogadzikana nentha yezwinhu zwinjinji.
+P7	Banhu bose abazogadzikana nehla bhakhwa nebugwele gwebhembolufu.
+P8	Mahhuba ose towha nekwe bhembolufu. Katshene lingapela!
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740449.png
+illustrations/pages/93740447.png
+illustrations/pages/93740452.png
+illustrations/pages/93740451.png
+illustrations/pages/93740446.png
+illustrations/pages/93740442.png
+illustrations/pages/93740444.png
+illustrations/pages/93740440.png
+
+translations:
+
+Afrikaans (Translation)	Ek voel bekommerd	id=35796
+English (Original)	I Feel Alone	id=35221
+English (Adaptation)	I feel worried	id=35252
+isiXhosa (Translation)	Ndiziva ndindedwa	id=35285
+Kiswahili (Translation)	Nina wasiwasi	id=35279
+Otuho (Translation)	Abotihino nî	id=35492
+Spanish (Translation)	Me siento preocupado	id=36331
+Tiv (Translation)	Zam Iyol	id=35558
+TjiKalanga (Translation)	Ndozwiwha ndili ndoga	id=35260

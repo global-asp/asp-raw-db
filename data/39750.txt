@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=39750&d=0&a=1
+id:	39750
+title:	N tɩ cɔcɔ àtó
+author:	Moumouni Fafana
+artist:	Silva Afonso
+lang:	Anii
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39750.png
+desc:	Mbʊpá njala nnɖe n tɩ lǝ atʊ ayɔkɔcɔcɔka nɩkrɛnyɔŋ àtó ɩcɔcɔka kɩja kafaawɩɩ.
+
+page_text:
+
+P1	N tɩ cɔcɔ àtó n'amɩkrɛnyɔŋ àtó ɩcɔcɔka kɩja.
+P2	N tɩ cɔcɔ tǝmatɩ ɖǝn na krɛnyɔŋ bʊto bʊrana kaja.
+P3	N tɩ cɔcɔ akutu ɖǝn na krɛnyɔŋ bʊkututo kaja.
+P4	N tɩ cɔcɔ ʊshilè na krɛnyɔŋ bʊkelencaŋato kaja.
+P5	N tɩ cɔcɔ gʊromò na krɛnyɔŋ bʊtutolo kaja.
+P6	N tɩ cɔcɔ àlaŋ na krɛnyɔŋ bʊto buruu kaja.
+P7	N tɩ cɔcɔ ɩcaacaaca na krɛnyɔŋ bʊto bʊrana calam kaja.
+P8	N tɩ cɔcɔ ganyaʊ na krɛnyɔŋ bʊto bʊɖono kaja.
+P9	N tɩ cɔcɔ Mosambii katuuta n'àtó tuutuuma.
+P10	.
+P11	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :
+P12	www.revue-gugu.org@@+229 66 66 11 11@Téléphone et WhatsApp
+P13	L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+
+images:
+
+illustrations/pages/13669.png
+illustrations/pages/13670.png
+illustrations/pages/13671.png
+illustrations/pages/13672.png
+illustrations/pages/13673.png
+illustrations/pages/13674.png
+illustrations/pages/13675.png
+illustrations/pages/13676.png
+illustrations/pages/13677.png
+illustrations/pages/13678.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Ciyawo (Adaptation)	Wune Ngupeta	id=15772
+English (Translation)	I Colour In	id=14514
+French (Translation)	Je Peins	id=14536
+French (Adaptation)	Je Peins	id=32678
+Lusoga (Translation)	Ntaamu langi	id=26694
+Portuguese (Original)	Eu Pinto	id=14012

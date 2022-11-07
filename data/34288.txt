@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=34288&d=0&a=1
+id:	34288
+title:	Eat all colours!
+author:	African Storybook and Mimi Werna
+artist:	Pixabay  Website
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34288.png
+desc:	Fruit and vegetables are good for us
+
+page_text:
+
+P1	Did you know, when you eat fruits you are eating colours?
+P2	What colour is an apple? @@Eat all types of apples.@@Eat green, red, yellow and pink apples!
+P3	What colour is a coconut?@@Eat every type of coconut.@@Eat fresh coconut and dried coconut.
+P4	What fruits are the colour orange?@@When is an orange the colour green?
+P5	Watermelon is pink.@@Pink is my favourite fruit!@@You eat colours, when you eat fruits.
+P6	An avocado is a fruit with only one large seed.@@What colour are you eating when you eat an avocado?
+P7	What colours are these peppers?@@Every kind of pepper is a fruit.@@Fruits are different to vegetables.
+P8	Fruits grow from flowers on a plant. @@Fruits have seeds.@@Which fruits do you like to eat?
+
+images:
+
+illustrations/pages/91400224.png
+illustrations/pages/91400221.png
+illustrations/pages/91400220.png
+illustrations/pages/91400229.png
+illustrations/pages/91400231.png
+illustrations/pages/91400227.png
+illustrations/pages/91400223.png
+illustrations/pages/91400235.png
+illustrations/pages/91400219.png
+
+translations:
+
+Afrikaans (Translation)	Eet al die kleure!	id=35794
+Amharic (Translation)	ሁሉንም ቀለማት ብሉ!	id=36592
+English (Original)	Eat That Colour	id=32500
+Spanish (Translation)	¡A comer todos los colores!	id=36372
+Tshivenḓa (Translation)	Iḽani mivhala yoṱhe!	id=37292
+Xitsonga (Translation)	Dyana mihlovo hinkwayo	id=37117

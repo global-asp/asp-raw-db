@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=36327&d=0&a=1
+id:	36327
+title:	La familia de María
+author:	Aprende Leyendo
+artist:	Leo Daly and Magriet Brink
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36327.png
+desc:	Conoce a María y su familia con esta fácil lectura.
+
+page_text:
+
+P1	Yo soy María.
+P2	Ella es mi mamá.
+P3	Este es el bebé.
+P4	Él es mi papá.
+P5	Él es mi hermano.
+P6	Ella es mi hermana.
+P7	Ella es mi abuela.
+P8	Él es mi abuelo.
+P9	Él es mi tío.
+P10	Ella es mi tía.
+P11	Esta es mi familia.
+
+images:
+
+illustrations/pages/85590188.png
+illustrations/pages/85590178.png
+illustrations/pages/85590179.png
+illustrations/pages/85590180.png
+illustrations/pages/85590181.png
+illustrations/pages/85590182.png
+illustrations/pages/85590183.png
+illustrations/pages/85590184.png
+illustrations/pages/85590185.png
+illustrations/pages/85590186.png
+illustrations/pages/85590187.png
+illustrations/pages/85590188.png
+
+translations:
+
+Afrikaans (Translation)	Thembi se familie	id=34245
+Cinyanja (Mozambique) (Translation)	Banja la Maria	id=33828
+Cinyungwe (Translation)	Wadzindza wa Mboyi	id=33829
+Echuwabo (Translation)	Ana Amudhi a Mariya	id=33830
+English (Original)	Maria's Family	id=33152
+isiXhosa (Translation)	Usapho luka Thembi	id=33539
+Kiswahili (Translation)	Familia yangu	id=33659
+Portuguese (Translation)	A Minha Família	id=33538

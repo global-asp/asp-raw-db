@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=34238&d=0&a=1
+id:	34238
+title:	Ku sweka
+author:	Arnold Mushwana
+artist:	Kathy Arbuckle
+lang:	Xitsonga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/34238.png
+desc:	Ndzi pfuna ku sweka matsavu. Ku na matsavu manwe ndzi nga rhandziki ku ma sweka.
+
+page_text:
+
+P1	Ndzi vatla mazambhala.
+P2	Ndzi tsemelela khavichi.
+P3	Ndzi gireyita tikheroti.
+P4	Ndzi hlantswa tiboncisi.
+P5	Ndzi tsemelela swikwembyana.
+P6	Ndzi tsemelela xipinichi.
+P7	Manana a tsemelela tinyala.
+P8	Tinyala ti ndzi humesa mihloti loko ndzi ti tsemelela.
+
+images:
+
+illustrations/pages/28588.png
+illustrations/pages/28589.png
+illustrations/pages/28590.png
+illustrations/pages/28591.png
+illustrations/pages/28592.png
+illustrations/pages/28593.png
+illustrations/pages/28594.png
+illustrations/pages/28595.png
+illustrations/pages/28596.png
+
+translations:
+
+Amharic (Translation)	ምግብ እናብስል	id=37754
+English (Original)	Cooking	id=32565
+French (Translation)	Faire la cuisine	id=33623
+isiNdebele (Translation)	Ukupheka	id=35226
+Kinyarwanda (Translation)	Guteka	id=32566
+Kiswahili (Translation)	Kupika	id=33120
+Sepedi (Translation)	Go apea	id=32912
+Siswati (Translation)	Kupheka	id=34463
+Spanish (Translation)	Cocinando	id=36306
+Tshivenḓa (Translation)	U bika	id=34314

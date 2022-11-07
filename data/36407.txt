@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=36407&d=0&a=1
+id:	36407
+title:	¿Quién nos puede ayudar?
+author:	Aprende Leyendo
+artist:	Marleen Visser
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36407.png
+desc:	Esta es la historia de una familia Colombiana durante la cuarentena.
+
+page_text:
+
+P1	¿Cómo estarán los colegios hoy?@@¡No puedo esperar a ver a mis amigos!@@¿Cómo repondremos las clases que perdimos?
+P2	Cuando el confinamiento inicio, yo estaba muy asustada.@@Mi mami no podia trabajar.@@No habia suficiente dinero para comprar comida.
+P3	¡Mi mamá y mi papá estaban peleando mucho!@@Y tú y yo también estábamos peleando mucho.
+P4	El señor Gonzalez estaba muy enfermo. Tenía miedo que mi papá se enfermara también. @@Rezamos por ellos y Dios los ayudó. @@¡ Y luego Dios nos dio comida!
+P5	Señor Jesús, por favor ayuda a nuestra familia.@@Por favor acompaña a nuestros amigos y ayúdalos también. @@Gracias por amarnos y por escuchar nuestras oraciones. Amen.
+P6	"Dios es nuestro refugio; él es quien verdaderamente nos ayuda en lo momentos difíciles."@@Psalmo 46:1
+
+images:
+
+illustrations/pages/93740443.png
+illustrations/pages/93740449.png
+illustrations/pages/93740443.png
+illustrations/pages/93740442.png
+illustrations/pages/93740446.png
+illustrations/pages/93740450.png
+illustrations/pages/93740445.png
+
+translations:
+
+English (Original)	Who can help us?	id=35218
+isiXhosa (Translation)	Singancedwa ngubani?	id=35286
+Portuguese (Translation)	Quem nos pode ajudar?	id=36441

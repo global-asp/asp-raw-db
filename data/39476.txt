@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=39476&d=0&a=1
+id:	39476
+title:	Test 101
+author:	Alan Amory
+artist:	Wiehan de Jager and Alan Amory
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39476.png
+desc:	What to say about nothing on this holiday
+
+page_text:
+
+P1	hello to everyone on this wonderful holiday
+P2	Some people who want to see what is happening and where to go. Today.
+P3	Bacon
+
+images:
+
+illustrations/pages/1495.png
+illustrations/pages/7599.png
+illustrations/pages/7605.png
+illustrations/pages/78260101.png
+
+translations:
+

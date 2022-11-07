@@ -1,0 +1,25 @@
+url:	https://africanstorybook.org/reader.php?id=34243&d=0&a=1
+id:	34243
+title:	Third test of double quote
+author:	African Storybook
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34243.png
+desc:	This is the third test storybook created around double quote mark
+
+page_text:
+
+P1	There are 5 pages in this book.@This page one.@On page 2 is a double quote mark@On page 3 there are 2 single quote marks placed together@On page 4 is another double quote mark@On page 5 is an apostrophe
+P2	Double "
+P3	Two singles ''
+P4	Double "
+P5	Apostrophe '
+
+images:
+
+illustrations/pages/1496.png
+
+translations:
+

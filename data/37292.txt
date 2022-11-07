@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=37292&d=0&a=1
+id:	37292
+title:	Iḽani mivhala yoṱhe!
+author:	Doris  Manyamalala and Tshedza  Tlhako
+artist:	Pixabay  Website
+lang:	Tshivenḓa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37292.png
+desc:	Mitshelo na miroho zwo lugela mutakalo washu
+
+page_text:
+
+P1	Naa ni a zwi ḓivha uri musi ni tshi ḽa mitshelo ni vha ni tshi khou ḽa mivhala?
+P2	Apuḽa ḽi na muvhala ufhio?@@I ḽani mifuda yoṱhe ya maapuḽa.@@Iḽani maapuḽa madala, matswuku, a ṱaḓa, na a pinki!
+P3	Khokhonathi i na muvhala ufhio?@@I ḽani mifuda yoṱhe ya khokhonathi.@@Iḽani khokhonathi i songo omiswaho na yo omiswaho.
+P4	Ndi ifhio mitshelo i re na muvhala wa swiri?@@Ndi lini hune swiri ḽa vha na muvhala mudala?
+P5	Habu ḽi na muvhala wa pinki.@@Ndi funesa mutshelo wa muvhala wa pinki!@@Musi ni tshi ḽa mitshelo, ni vha ni tshi khou ḽa mivhala.
+P6	Gadaphele ndi mutshelo u re na thambo nthihi khulwane.@@Musi ni tshi ḽa gadaphele, ni vha ni tshi khou ḽa muvhala ufhio?
+P7	Phepha idzi dzi na muvhala ufhio?@@Mufuda muiṅwe na muṅwe wa phepha ndi mutshelo.@@Mitshelo yo fhambana na miroho.
+P8	Mitshelo i aluwa kha maluvha a re kha tshimela. @@Mitshelo i na dzimbeu.@@Ndi ifhio mitshelo ine na funa u i ḽa?
+
+images:
+
+illustrations/pages/91400224.png
+illustrations/pages/91400221.png
+illustrations/pages/91400220.png
+illustrations/pages/91400229.png
+illustrations/pages/91400231.png
+illustrations/pages/91400227.png
+illustrations/pages/91400223.png
+illustrations/pages/91400235.png
+illustrations/pages/91400219.png
+
+translations:
+
+Afrikaans (Translation)	Eet al die kleure!	id=35794
+Amharic (Translation)	ሁሉንም ቀለማት ብሉ!	id=36592
+English (Original)	Eat That Colour	id=32500
+English (Adaptation)	Eat all colours!	id=34288
+Spanish (Translation)	¡A comer todos los colores!	id=36372
+Xitsonga (Translation)	Dyana mihlovo hinkwayo	id=37117

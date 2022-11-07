@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=37267&d=0&a=1
+id:	37267
+title:	Picture story 6
+author:	Name Of Writer
+artist:	Brian Wambi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37267.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/19205.png
+illustrations/pages/19195.png
+illustrations/pages/19198.png
+illustrations/pages/19199.png
+illustrations/pages/19201.png
+illustrations/pages/19202.png
+illustrations/pages/19204.png
+illustrations/pages/19205.png
+illustrations/pages/19207.png
+illustrations/pages/19208.png
+illustrations/pages/19210.png
+
+translations:
+
+Anii (Adaptation)	Kaakaajɛŋjɛ na guuni	id=39171
+English (Translation)	Ostrich and Lioness	id=19292
+English (Adaptation)	Lioness and Ostrich	id=20870
+Kinyarwanda (Translation)	Imbuni n'Intare y'ingore	id=23848
+Kiswahili (Translation)	Mbuni na Simba	id=19401
+Kiswahili (Translation)	Simba Jike na Mbuni	id=21059
+Lámnsoʼ (Translation)	Luŋ wo wiy wun Bvərə̀ woo wiíy	id=22292
+Lusoga (Translation)	Wamaaya ni Wampologoma	id=25146
+Lusoga (Translation)	Empologoma    ni  maaya	id=25862
+Lusoga (Translation)	Wandhovu ni Maaya	id=30758
+Ng’aturkana (Original)	Ekales ka Ng'atuny	id=19211
+Ng’aturkana (Translation)	Kales ka Ng'atuny	id=19212
+Tigrigna (Translation)	ዋዕሮን ሰገንን	id=21173

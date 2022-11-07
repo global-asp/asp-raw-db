@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=35146&d=0&a=1
+id:	35146
+title:	Buku La Patani
+author:	Mlembi Meals Mathias
+artist:	
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35146.png
+desc:	This is a simple reader that shows daily activities of living.
+
+page_text:
+
+P1	Zamakati@@1------------ Amalume@2------------- Solomoni@3------------- Zelipa@4------------- Maliya@5------------- Masautso@6------------- Amai@7------------- Mnyamata @8------------- Atate
+P2	Onani amalume.  Iwo ali kubyala mbeu m'dimba lawo.
+P3	Onani Solomoni.  Iye ali kusamba kumaso.
+P4	Onani Zelipa.  Iye ali kupesa tsitsi lace.
+P5	Onani Maliya.  Iye ali kubvina pa cilimba.
+P6	Onani Masautso.  Iye ali kupsyera zinyalala.
+P7	Onani Amai.  Iwo ali kulima m'munda.
+P8	Onani Mnyamata.  Iye ali kukhwapa udzu.
+P9	Onani Atate.  Iwo anyamula khasu.
+
+images:
+
+illustrations/pages/79190101.png
+illustrations/pages/79190102.png
+illustrations/pages/79190103.png
+illustrations/pages/79190104.png
+illustrations/pages/79190105.png
+illustrations/pages/79190106.png
+illustrations/pages/79190107.png
+illustrations/pages/79190108.png
+illustrations/pages/79190109.png
+
+translations:
+

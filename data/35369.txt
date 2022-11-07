@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=35369&d=0&a=1
+id:	35369
+title:	Mboli yakayipisisa
+author:	Tshidzanani T. Malaba
+artist:	Rob Owen
+lang:	TjiKalanga
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35369.png
+desc:	Bana babili banobona mboli yakayipisisa pakati kweroli nemotana.
+
+page_text:
+
+P1	Limwe hhuba imi nehazwadzi yangu takabe tiyenda ntome kwemwahha.
+P2	Roli whuluwulu yakabe ijitila pakakunguluka.
+P3	Motana yakabe ilimulubilo itunhumala.
+P4	Ntjayeli weroli wakabe ezuwa muhala. @Esakalinga mumwahha.
+P5	Roli yakakanyanga motana.
+P6	Kwakabuya ambulesi nemapholisa bowotjidza.
+P7	Kwakahha mota mbili dzinokweba. @Imwe yakakweba roli imwe ikakweba motana.
+P8	Takabona kose. Tikahla.
+
+images:
+
+illustrations/pages/9638.png
+illustrations/pages/9635.png
+illustrations/pages/9636.png
+illustrations/pages/9637.png
+illustrations/pages/9641.png
+illustrations/pages/9639.png
+illustrations/pages/9640.png
+illustrations/pages/9638.png
+illustrations/pages/9642.png
+
+translations:
+
+Afrikaans (Translation)	'n Ernstige ongeluk	id=11396
+English (Original)	Serious accident	id=9672
+English (Adaptation)	Minor Accident	id=36140
+French (Translation)	Un Grave Accident	id=10851
+Fulfulde Mbororoore (Translation)	Dumpootirol Mootaaji	id=31978
+isiNdebele (Translation)	Ingozi ethusako	id=13063
+isiXhosa (Translation)	Ingozi embi	id=13203
+Kinyarwanda (Translation)	Impanuka ikomeye	id=32867
+Kinyarwanda (Translation)	Impanuka ikomeye	id=32868
+Kiswahili (Translation)	Ajali mbaya	id=10555
+Lámnsoʼ (Translation)	Kinshùʼùm ke tavín kí	id=22117
+Lusoga (Translation)	Akabendhe akataloodheka	id=26022
+Portuguese (Translation)	Acidente Grave	id=18868
+Rutooro (Translation)	Butandwa Eyakabi	id=14909
+Sepedi (Translation)	Kotsi ya go šiiša	id=32905
+Setswana (Translation)	Kotsi e e maswe	id=14882
+Tunisian (Translation)	Ħadeŧ moxter	id=36691

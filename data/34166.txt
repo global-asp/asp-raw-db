@@ -1,0 +1,83 @@
+url:	https://africanstorybook.org/reader.php?id=34166&d=0&a=1
+id:	34166
+title:	Yingisela miri wa mina
+author:	Arnold Mushwana
+artist:	Angie and  Upesh
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34166.png
+desc:	U tshama u yingisela leswi miri wa wena wu ku yelaka swona?
+
+page_text:
+
+P1	Namuntlha a ndzi yi exikolweni. @@I holideyi!
+P2	Namuntlha a ndzi voni thelevhixini. @@Na gezi a ri kona.
+P3	Namuntlha ndzi lava ku yingisela miri wa mina.
+P4	Xosungula, ndzi fanele ku miyela ndzi ku whii!@@Leswaku ndzi ta kota u twa kahle miri wa mina.
+P5	Ina, ndzi twa loko ndzi karhi ndzi hefemula.@@Ndzi hefemulela endzeni na le handle, endzeni na le handle.
+P6	Ndzi nga endla leswaku ndzi hefemulela ehenhla. Huuuuuuuuu!@@Kumbe ehansi. Mmmmmmmm.
+P7	Sweswi ndzi twa na mbilu ya mina loko yi ba.@@Doodom, doodoom, doodooom.
+P8	Ndzi nga endla leswaku mbilu ya mina yi ba hi ku hatlisa na kona yi rhasa?@@Ina, hi ku tlulatlula ka khumembirhi.
+P9	Sweswi ndza swi vona, mbilu ya mina yi ba hi ku hatlisa.
+P10	Ndzi veka tintiho eka voko ra mina. @@Ndzi twa ku pompa ka ngati.
+P11	Ndza titwa loko ndzi hleka.@@Haha, haha, haaah, haaa!
+P12	Ndza titwa loko ndzi ri rila.@@Yii, yii, yii!
+P13	Ndza ti twa loko ndzi phokotela mavoko.@@Pha, pha, pha.
+P14	Ndza ri twa khwiri ra mina ri karhi ri duma.@@Guddu, guddu, guddu.
+P15	Khwiri ra mina ri ri, "Ndzi lava swakudya!"
+P16	Nhompfu ya mina yi twa ku nun'hwela ka khekhe leri bakiwaka exitangeni xa manana.
+
+images:
+
+illustrations/pages/2008.png
+illustrations/pages/2009.png
+illustrations/pages/2010.png
+illustrations/pages/2011.png
+illustrations/pages/2012.png
+illustrations/pages/2013.png
+illustrations/pages/2014.png
+illustrations/pages/2016.png
+illustrations/pages/2017.png
+illustrations/pages/2018.png
+illustrations/pages/2019.png
+illustrations/pages/2020.png
+illustrations/pages/2021.png
+illustrations/pages/2022.png
+illustrations/pages/2023.png
+illustrations/pages/2024.png
+illustrations/pages/2025.png
+
+translations:
+
+Afrikaans (Translation)	Ek luister na my lyfie	id=36614
+Chichewa (Translation)	Kumvetsera thupi langa	id=34962
+Chinkhonde (Translation)	Pilikisha ifyo umbili wangu guyoba	id=34997
+Chitonga (Malawi) (Translation)	Kuvwisiliya liŵavu langu	id=35022
+Citumbuka (Translation)	Kupulikizga thupi lane	id=35048
+Ciyawo (Malawi) (Translation)	Mpikane yacikuti cilu cangu	id=35071
+Ellomwe (Malawi) (Translation)	Wiwellella mwillaka	id=35104
+English (Original)	Listen to my body	id=13202
+English (Adaptation)	Listen to my Body	id=13558
+isiXhosa (Translation)	Mamela umzimba wam	id=14960
+isiZulu (Translation)	Lalela umzimba wami	id=2910
+Khoekhoegowab (Translation)	Ti sorosa ǃgâs xa	id=24662
+Kinyarwanda (Translation)	Umva umubiri wange	id=23762
+Kiswahili (Translation)	Nausikiliza mwili wangu	id=15713
+Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
+Luganda (Translation)	Wuliliza omubiri gwange	id=23237
+Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
+Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
+Lusoga (Translation)	wulirisa omubiri gwange	id=30352
+Maa (Translation)	Ainining Osesen Lai	id=2927
+Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
+Oshikwanyama (Translation)	Handi pwilikine olutu lange eshi tali ti	id=24134
+Oshindonga (Translation)	Pulakena kolutu lwandje	id=23899
+Otjiherero (Translation)	Puratene ko rutu randje	id=24174
+Rukwangali (Translation)	Purakena korutu rwange	id=31492
+Sepedi (Translation)	Theeletša mmele wa ka	id=33462
+Sesotho (Lesotho) (Translation)	Mamela 'mele oa ka	id=36350
+Sesotho (South Africa) (Translation)	Mamela mmele wa ka	id=33373
+Siswati (Translation)	Kulalela umtimba wami	id=33401
+Spanish (Translation)	Escuchando mi cuerpo	id=34754
+Tshivenḓa (Translation)	Muvhili wanga u amba	id=34298

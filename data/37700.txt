@@ -1,0 +1,94 @@
+url:	https://africanstorybook.org/reader.php?id=37700&d=0&a=1
+id:	37700
+title:	Abanandi
+author:	Eunice  Mukonde-Mulenga
+artist:	Catherine Groenewald
+lang:	IciBemba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37700.png
+desc:	Isa we munandi
+
+page_text:
+
+P1	Ishina lyandi nine Tembo.
+P2	Kuti natemwa ukumweba pabanandi.
+P3	Amashina yaabo ni Zibo, Katele, Miyanda elyo na Manda.
+P4	Umuntu onse aaba neeco atemwa ukucita. @@Zibo atemwa ukuteya umupila.
+P5	Katele muunandi uwatemwa ukoowa.
+P6	Miyanda ena atemwa ukwangala akabwambe.
+P7	Manda atemwa ukubelenga amabuuku.
+P8	Ngaine mangalo nshi natemwa? @@Ine nalitemwa fyonse ifyo abanandi batemwa ukucita.
+P9	Nga nasanga Zibo tulaateya umupila.
+P10	Ilyo ndi na Katele tulowa.
+P11	Ilyo ndi na Miyanda tulateya icidunu.
+P12	Isa wemunandi, ngaiwe finshi watemwa?
+P13	Isa tuteye umupila.
+P14	Isa toowe.
+P15	Isa tuteye icidunu.
+P16	Isa tubelengele pamo!
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+Anii (Adaptation)	Ambasoro	id=39166
+ChiShona (Translation)	Shamwari	id=22215
+ChiTonga (Translation)	Beenzuma	id=18629
+ChiTonga (Adaptation)	Beenzuma	id=37698
+CiNyanja (Translation)	Anzanga	id=18663
+CiNyanja (Adaptation)	Anzanga	id=37699
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+Dinka (Translation)	Wɛt maadh	id=39421
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+isiNdebele (Translation)	Abangani	id=21926
+IsiNdebele (Zimbabwe) (Translation)	Abangane	id=21682
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kinyarwanda (Translation)	Inshuti	id=31364
+Kiswahili (Translation)	Marafiki	id=16084
+Lámnsoʼ (Translation)	Ŋkar si	id=22271
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Lusoga (Translation)	Emikwaano	id=25459
+Lusoga (Translation)	Emikwano	id=30568
+Mampruli (Translation)	Zɔadima	id=20110
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Olukabarasi (Translation)	Esie nende abalina banje	id=31890
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Runyoro-Rutooro (Translation)	Abanywani	id=34851
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Siswati (Translation)	Bangani	id=21520
+Spanish (Translation)	Amigos	id=34749
+Talen (Translation)	Zɔnam	id=20192
+TjiKalanga (Translation)	Bakhwinya	id=35371
+Tshivenḓa (Translation)	Khonani	id=18299
+Tunisian (Translation)	L-asħab	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=36477&d=0&a=1
+id:	36477
+title:	¿Dónde esta Lulú?
+author:	Aprende Leyendo
+artist:	Clyde  Beech and Nkosingiphile  Mazibuko
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36477.png
+desc:	¡La mamá de Lulú la está buscando en todo lado!¿Puedes encontrar a Lulú?
+
+page_text:
+
+P1	"¡Oh no!"
+P2	"Lulú, es hora de irnos," dice mamá.
+P3	¿Dónde esta Lulú?@@¿Está debajo del sofa?
+P4	¿Estará detrás de la cortina?
+P5	¿Dónde está Lulú? ¿ Al lado de la estufa, tal vez?
+P6	¿En los estantes?
+P7	"¡Lulú, es hora de irnos! ¿Dónde estás?" llama su mamá.
+P8	"¡Ahí estas!" dice mamá@@"¡Nooo quiero ir!"
+P9	"Tenemos que irnos" dice mamá@@"¡Pero realmente me gusta este!"
+P10	"¡Realmente me gusta este!"
+P11	"¡Y este!"@@"¡Y este!"
+P12	"Si regresas los libros, puedes prestar más ¿ves?" dice mamá@@"¡YAY!"
+P13	¿Dónde está Lulú ahora?
+
+images:
+
+illustrations/pages/27795.png
+illustrations/pages/27796.png
+illustrations/pages/27797.png
+illustrations/pages/27798.png
+illustrations/pages/27799.png
+illustrations/pages/27800.png
+illustrations/pages/27801.png
+illustrations/pages/27802.png
+illustrations/pages/27803.png
+illustrations/pages/27804.png
+illustrations/pages/27805.png
+illustrations/pages/27806.png
+illustrations/pages/27807.png
+illustrations/pages/27808.png
+illustrations/pages/27809.png
+illustrations/pages/27810.png
+illustrations/pages/27811.png
+
+translations:
+
+Afrikaans (Translation)	Waar is Lulu?	id=33255
+English (Original)	Where is Lulu?	id=31988
+English (Adaptation)	What Lulu wanted	id=32041
+French (Adaptation)	Où est Lulu ?	id=36538
+Kiswahili (Translation)	Lulu yuko wapi?	id=31998
+Sepedi (Translation)	Lulu o kae?	id=33254

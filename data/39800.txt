@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=39800&d=0&a=1
+id:	39800
+title:	Afo na Cabɩ
+author:	Nouhoum Salifou Bababody
+artist:	Franz Phooko
+lang:	Anii
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39800.png
+desc:	Mbʊpá njala nnɖe n tɩ lǝ atʊ Afo na Cabɩ na balʊkɔ kafaawɩɩ.
+
+page_text:
+
+P1	Afo na Cabɩ ba lee gʊsoro kʊ.
+P2	Afo a wʊɖa ganyaʊ. Cabɩ a ta wʊɖa garomo.
+P3	Baa njǝŋ Afo a ta ɖôo, aɖe tɩ cǝr n'aganyaʊ.
+P4	Cabɩ aɖe tɩ ɖǝu agaromo akpalá ɩnyɩʊ ʊshilé.
+P5	Ʊshilé ɖǝn na Cabɩ agaromo ga ŋʊm bʊrompí bʊkolom : bʊɖono bʊnyɩʊ, bʊkɔfɛto bʊnyɩʊ, bʊfɔnɔ bʊnyɩʊ
+P6	N'Afo aganyaʊ gani ga ŋʊm bʊpi bʊriu : gakori gaɖǝn, bʊkɔ́ɩ bʊnyɩʊ.
+P7	Cabɩ a yala bʊrompí bʊnan naa atɔɔ kɩtanɩ ashɩ na sukuru kabɔ na krɛnyɔŋ.
+P8	Afo ʊni k'a yala baa ganyaʊ gaɖǝn naa atɩ ŋǝ ashɩ n'akoɖǝn na, aɖʊwaa bapaja kǝ ba na yɛɛ ba shɩ̂ bʊnyaʊ na.
+P9	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :
+P10	www.revue-gugu.org@@+229 66 66 11 11@Téléphone et WhatsApp
+P11	L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+
+images:
+
+illustrations/pages/9585.png
+illustrations/pages/9576.png
+illustrations/pages/9577.png
+illustrations/pages/9578.png
+illustrations/pages/9579.png
+illustrations/pages/9580.png
+illustrations/pages/9581.png
+illustrations/pages/9582.png
+illustrations/pages/9583.png
+
+translations:
+
+French (Translation)	Kabali Et Kateera	id=13775
+French (Adaptation)	Kamy et Yamy	id=32680
+isiZulu (Translation)	UKabali noKateera	id=15353
+Ng’aturkana (Translation)	Kabali ka Kateera	id=11810

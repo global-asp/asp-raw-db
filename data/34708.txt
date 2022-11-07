@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=34708&d=0&a=1
+id:	34708
+title:	Matsoho aka a matle
+author:	Yolanda Buqwini
+artist:	Mokoena. M. Alphonsina
+lang:	Sesotho (South Africa)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34708.png
+desc:	Matsoho ka bobedi a ya hlakana. A etsa mosebetsi ka makgethe. A jwalo ka metswalle e ratanang ebile e utlwelana bohloko.
+
+page_text:
+
+P1	A na ke matsoho aka a matle. A sebetsa hantle mmoho.@@A tshwana le metswalle e mmedi ya sebele. A etsa sehlopha se tswanang pele.
+P2	Jwalo ka metswalle e utlwelanang,ha le leng le silafetse,le leng le teng ho hlatswa le leng.
+P3	A sebetsa jwalo ka sehlopha.
+P4	Ha dijo di phehwa, matsoho ka bobedi a etsa mosebetsi o tswang pele jwalo ka sehlopha.
+P5	Letsoho le letona le dula le le teng ho thusa le letshehadi.
+P6	Letsoho le letshehadi le lona le dula le le teng ho thusa le letona.
+P7	Jwalo ka metswalle e tshehetsanang, eratanang le e kgathallanang,matsoho aka a matle a dula a le teng bakeng sa le leng.
+
+images:
+
+illustrations/pages/87800200.png
+illustrations/pages/87800201.png
+illustrations/pages/87800202.png
+illustrations/pages/87800203.png
+illustrations/pages/87800205.png
+illustrations/pages/87800206.png
+illustrations/pages/87800207.png
+illustrations/pages/87800208.png
+
+translations:
+
+Chichewa (Translation)	Manja anga okongola	id=34535
+English (Original)	My Beautiful Hands	id=33936

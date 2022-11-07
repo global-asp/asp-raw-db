@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=34412&d=0&a=1
+id:	34412
+title:	Notre monde
+author:	Zanne Viljoen
+artist:	Herminder Ohri
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34412.png
+desc:	Une histoire sur la création du monde et des hommes.
+
+page_text:
+
+P1	Dieu voulait quelqu'un pour pour prendre soin du monde.
+P2	Lion a déclaré : "Je suis le roi, je peux faire ça."
+P3	Éléphant a crié: "Je suis grand.  Je suis fait pour ce travail."
+P4	Requin pensait que ses dents acérées ont fait de lui le bon.
+P5	L'aigle a ri : "Je vole et je vois tout. Je suis en forme pour ce travail".
+P6	Dieu a dit : "Je vais créer des humains pour ce travail."
+P7	Dieu a créé des hommes et des femmes à la peau noire.
+P8	D'autres avaient la peau brune.
+P9	D'autres avaient la peau jaune.
+P10	Et encore d'autres avaient la peau rose.
+P11	Le requin s'est moqué des humains : "Comment vont-ils nager ?"
+P12	Dieu a souri : "Ils apprendront."
+
+images:
+
+illustrations/pages/2237.png
+illustrations/pages/2238.png
+illustrations/pages/2239.png
+illustrations/pages/2240.png
+illustrations/pages/2242.png
+illustrations/pages/2243.png
+illustrations/pages/2244.png
+illustrations/pages/2245.png
+illustrations/pages/2248.png
+illustrations/pages/2247.png
+illustrations/pages/2246.png
+illustrations/pages/2251.png
+illustrations/pages/2252.png
+
+translations:
+
+English (Original)	Our wonderful world	id=2253
+English (Adaptation)	Our world	id=21712
+isiXhosa (Translation)	Ilizwe lethu elimangalisayo	id=7456
+Kiswahili (Translation)	Ulimwengu wetu	id=22001
+Lusoga (Translation)	Ensi Yaife	id=20670
+Lusoga (Translation)	Ensi Yaife	id=20925
+Maa (Translation)	Enkóp Áng É Enking'asíá	id=2958
+Ng’aturkana (Translation)	Akwapit Yok Nakaili-Ilon	id=2254
+Oluwanga (Translation)	Eshialo Shiefu Shiokhuchamisia	id=2255

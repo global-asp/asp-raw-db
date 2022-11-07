@@ -1,0 +1,22 @@
+url:	https://africanstorybook.org/reader.php?id=37123&d=0&a=1
+id:	37123
+title:	Test book 1
+author:	Jody Joubert
+artist:	Jody Joubert
+lang:	Afrikaans
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37123.png
+desc:	Test book. There is no context in this book.
+
+page_text:
+
+P1	This is some test text to determine how the app works? Lots of textLots of textLots of textLots of textLots of textLots of textLots of textLots of textLots of textLots of textLots of textLots of textLots of textLots of textLots of textLots
+
+images:
+
+illustrations/pages/70190101.png
+illustrations/pages/70190102.png
+
+translations:
+

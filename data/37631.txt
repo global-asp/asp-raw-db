@@ -1,0 +1,24 @@
+url:	https://africanstorybook.org/reader.php?id=37631&d=0&a=1
+id:	37631
+title:	The cows BC Test
+author:	Weziwe Buti and Akhona Mooi
+artist:	Wiehan de Jager
+lang:	Changana
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37631.png
+desc:	This story is about the different types of cows.
+
+page_text:
+
+P1	Different types of cows
+P2	Milk cows
+
+images:
+
+illustrations/pages/1499.png
+illustrations/pages/7604.png
+illustrations/pages/7605.png
+
+translations:
+

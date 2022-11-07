@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=36372&d=0&a=1
+id:	36372
+title:	¡A comer todos los colores!
+author:	Aprende Leyendo
+artist:	Pixabay  Website
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36372.png
+desc:	Las frutas y los vegetales son buenos para nosotros
+
+page_text:
+
+P1	¿Sabías que cuando comes frutas estas comiendo colores?
+P2	¿De qué color es una manzana?@ Come todo tipo de manzanas. @¡Come una verde, roja, amarilla y rosada!
+P3	¿De qué color es el coco?@Come todo tipo de coco.@¡Come coco fresco y coco seco!
+P4	¿Qué frutas son de color naranja?@¿Cuándo es una naranja color verde?
+P5	La sandía es rosada@@¡El rosado es mi fruta favorita!@@Tú comes colores cuando comes frutas.
+P6	El aguacate es una fruta con solo una gran semilla. @@¿Qué color estás comiendo cuando comes un aguacate?
+P7	¿De qué color son estos pimentones?@Todos los tipos de pimentones son frutas@Las frutas son diferentes a los vegetales.
+P8	Las frutas crecen de flores en las plantas.@Las frutas tienen semillas.@¿Qué fruta te gusta comer?
+
+images:
+
+illustrations/pages/91400224.png
+illustrations/pages/91400221.png
+illustrations/pages/91400220.png
+illustrations/pages/91400229.png
+illustrations/pages/91400231.png
+illustrations/pages/91400227.png
+illustrations/pages/91400223.png
+illustrations/pages/91400235.png
+illustrations/pages/91400219.png
+
+translations:
+
+Afrikaans (Translation)	Eet al die kleure!	id=35794
+Amharic (Translation)	ሁሉንም ቀለማት ብሉ!	id=36592
+English (Original)	Eat That Colour	id=32500
+English (Adaptation)	Eat all colours!	id=34288
+Tshivenḓa (Translation)	Iḽani mivhala yoṱhe!	id=37292
+Xitsonga (Translation)	Dyana mihlovo hinkwayo	id=37117

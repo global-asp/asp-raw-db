@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=40035&d=0&a=1
+id:	40035
+title:	Baby and cat
+author:	Declan Nott
+artist:	Declan Nott
+lang:	0
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40035.png
+desc:	It about Declan and micy read the book until you cant
+
+page_text:
+
+P1	The cat is cute
+P2	Declan is so cute
+P3	The end
+
+images:
+
+illustrations/pages/25180401.png
+illustrations/pages/25180402.png
+illustrations/pages/25180403.png
+illustrations/pages/25180404.png
+
+translations:
+

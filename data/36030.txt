@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=36030&d=0&a=1
+id:	36030
+title:	Let's go to the park
+author:	Thapelo  Sehularo
+artist:	Soumya  Menon
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36030.png
+desc:	We learn about good manners and looking after our neighbourhood park. This story also develops visual literacy by looking for details in pictures. The storybook was inspired byManners in the Park
+
+page_text:
+
+P1	It is Saturday morning. @@The children are gathered at the park. @@Everyone is playing.
+P2	Then, Tshegofatso pulls Neo off the swing! She is a bully! Can you see?@@No one wants to play with Tshegofatso again.
+P3	There is a soccer match on the other side of the park.@@The blue team scores a goal.@@They are happy.
+P4	The pink team players are unhappy. They start fighting with the blue team.@@Is it right to start fighting because you are losing?
+P5	Everyone enjoys the park. Some are walking, some are reading. What other activities do you see?@@What a wonderful time when people are relaxing.
+P6	Look carefully at this picture. @@Can you see what happens if people throw their rubbish on the ground? @@It pollutes the park.
+P7	When we play together, it is important to respect one another.@@Some are skipping rope, others are roller-skating. What else can you see?
+P8	We must all take good care of the park, and keep it clean. @@It is our park.@@Look at how beautiful our park is!
+
+images:
+
+illustrations/pages/93740705.png
+illustrations/pages/93740698.png
+illustrations/pages/93740699.png
+illustrations/pages/93740700.png
+illustrations/pages/93740701.png
+illustrations/pages/93740702.png
+illustrations/pages/93740703.png
+illustrations/pages/93740704.png
+illustrations/pages/93740705.png
+
+translations:
+
+Setswana (Original)	A re ye phakeng	id=36029

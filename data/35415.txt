@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=35415&d=0&a=1
+id:	35415
+title:	Emotions Come and Go
+author:	Mimi Werna
+artist:	Joe  Werna
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35415.png
+desc:	This book explores the different emotions we all feel
+
+page_text:
+
+P1	Aisha is chuckling because she heard a funny story.@@She is smiling.@@What is Aisha feeling?
+P2	Isah is feeling grumpy. @@He has a scowl on his face.@@Why is he irritated?
+P3	Yuadoo is scared of the dark.@@Everyone feels fear sometimes. @@But Yuadoo can ask for help.
+P4	Chidubem is worried about his school work. @@He can tell his teacher.@@He can ask for help.
+P5	Lushan is playing around!@@It's okay to be silly sometimes.
+P6	Eruro is feeling sad. @@It's okay to cry.@@Emotions come and go.
+P7	Ayator is bursting with happiness.@@He is joyful.@@Emotions come and go.
+P8	Hadiza is bored.@@She needs to find something to do.
+P9	Ayo is angry.@@He is frustrated.@@Anger is a difficult feeling.
+P10	Labake is excited. @@What's the cause of her excitement?@@Mother made her favourite food.
+P11	Zege felt sleepy.@@He was very tired.@@"But wait, is 'sleepy' an emotion?" asks Efe.
+P12	Efe is confused!@ @Can you answer his question?
+P13	Tega is feeling surprise and shock.@@He heard some gossip.@@Is it true?
+P14	Yebo is sick.@@She feels miserable.@@She needs some medicine and rest to feel better.
+P15	Sekyen is feeling content.@@She has finished her chores.@@Now she can play.
+P16	Bello does not have chores today.@@He shows two thumbs up to Sekyen.@@"Good job, now let's play!" he says.
+
+images:
+
+illustrations/pages/85590230.png
+illustrations/pages/85590231.png
+illustrations/pages/85590232.png
+illustrations/pages/85590299.png
+illustrations/pages/85590300.png
+illustrations/pages/85590301.png
+illustrations/pages/85590302.png
+illustrations/pages/85590230.png
+illustrations/pages/85590312.png
+illustrations/pages/85590304.png
+illustrations/pages/85590305.png
+illustrations/pages/85590306.png
+illustrations/pages/85590307.png
+illustrations/pages/85590308.png
+illustrations/pages/85590309.png
+illustrations/pages/85590310.png
+illustrations/pages/85590311.png
+
+translations:
+
+Afrikaans (Translation)	Emosies kom en gaan	id=36615
+Asante Twi (Translation)	Atenka tumi ba na ԑkↄ	id=34866
+English (Original)	Emotions Come and Go	id=33352
+Hausa (Nigeria) (Translation)	Yanayi ya kan zo ya tafi	id=34898
+Igbo (Translation)	Mmetuta Uche na abia na apu	id=34830
+Kiswahili (Translation)	Hisia huja na kwenda	id=33656
+Yoruba (Translation)	Imǫlárá wá  kí o lọ	id=34816

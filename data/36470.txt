@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=36470&d=0&a=1
+id:	36470
+title:	¡Está vivo!
+author:	Aprende Leyendo
+artist:	Rob Owen
+lang:	Spanish
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36470.png
+desc:	Hay 7 procesos de vida en todo lo que está vivo. Los ejemplos de cosas vivas son
+
+page_text:
+
+P1	Las cosas vivas se pueden mover. @@Los animales pueden mover sus piernas para correr lejos del peligro. @@Las plantas mueven sus flores y hojas para que den con el sol. @@Los niños se mueven saltando en una pierna.
+P2	Todas las cosas vivientes respiran volviendo la comida en energía. @Los animales y humanos comen su comida y respiran oxígeno para exhalar un gas que se llama dióxido de carbono. @Cuando corremos respiramos mucho más rápido. @Las plantas cambian la energía que reciben del dióxido de carbono que absorben por sus hojas y lo convierten en oxígeno.
+P3	Las cosas vivientes responden al mundo exterior. Esto lo llamamos sensibilidad. @@Los humanos hacen fuego cuando tienen frío. @@Las plantas se marchitan sin agua. @@Los elefantes nadan en ríos cuando tienen calor.
+P4	Las cosas vivientes tienen bebés para sobrevivir. @@Los pescados, las ranas y los pájaros ponen huevos. @@Las plantas y los árboles producen semillas para crecer nuevas plantas y árboles. @@Los humanos tienen bebés.
+P5	Todas las cosas vivientes se alimentan. @@Algunos animales comen pasto, otros carne. @@Los vegetales necesitan crecer en la tierra con buen sol y agua para crecer. @@La comida nos da energía.
+P6	Las cosas vivientes necesitan deshacerse de sus desechos. @@En los animales, los riñones y los pulmones son algunas de los órganos que ayudan a sacar los deshechos.@@Las serpientes tienden a cambiar de piel, como si se estuvieran quitando un abrigo. @@Las plantas tienen pequeñas aperturas en sus hojas llamadas estomas para sacar el oxígeno.
+P7	Todas las cosas vivientes crecen hasta que llegan a su tamaño y fuerza prevista, y cuando tienen la habilidad de tener bebés. @@El crecimiento es muy importante para reemplazar las células dañadas, como cuando nos caemos y nos lastimamos.
+P8	Los siete procesos de vida son: movimiento, respiración, sensibilidad, reproducción, nutrición, excreción y crecimiento. @@Si algo puede hacer todos estos procesos entonces ¡está vivo!
+
+images:
+
+illustrations/pages/26032.png
+illustrations/pages/26024.png
+illustrations/pages/7945.png
+illustrations/pages/8558.png
+illustrations/pages/9645.png
+illustrations/pages/26116.png
+illustrations/pages/18784.png
+illustrations/pages/7934.png
+illustrations/pages/9646.png
+
+translations:
+
+English (Original)	Alive!	id=32904

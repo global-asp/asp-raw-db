@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=35254&d=0&a=1
+id:	35254
+title:	What can we do?
+author:	African Storybook
+artist:	Sue  Beattie
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35254.png
+desc:	During the coronavirus pandemic
+
+page_text:
+
+P1	Love from a distance.@@Don't get too close!
+P2	Sneeze or cough inside your elbow.@@Don't spray your germs!
+P3	Stay away from others if you are sick.
+P4	Soap with water kills the coronavirus.@@Wash your hands often.
+P5	Wash your hands for 20 seconds.
+P6	Greet with your elbow.@@Greet with your toes.@@Greet with a wave.
+P7	Wear a clean mask every day.@@Cover your nose and mouth.
+P8	Don't give this coronavirus any chance to spread!
+
+images:
+
+illustrations/pages/93740453.png
+illustrations/pages/93740426.png
+illustrations/pages/93740454.png
+illustrations/pages/93740439.png
+illustrations/pages/93740437.png
+illustrations/pages/93740435.png
+illustrations/pages/93740430.png
+illustrations/pages/93740455.png
+illustrations/pages/93740456.png
+
+translations:
+
+Afrikaans (Translation)	Kinders wat omgee	id=35281
+CiNyungwe (Translation)	Wana wakubzipereka	id=35282
+English (Original)	Kids Who Care	id=35213
+English (Adaptation)	Kids Who Care (Sing-Along)	id=35275
+isiXhosa (Translation)	Abantwana abakhathalayo	id=35284
+Kiswahili (Translation)	Tunaweza kufanya nini?	id=35278
+Ng’aturkana (Translation)	Inyo esubakinio?	id=35700
+Otuho (Translation)	Ehan ꞌtadî hôhôî aŋaî?	id=35497
+Portuguese (Translation)	Crianças que se importam	id=35283
+Tiv (Translation)	Se Er Nen Nena?	id=35557
+Tiv (Translation)	Mbayev mba tsev-tsev	id=35559
+TjiKalanga (Translation)	Tingatatjini?	id=35259

@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=37117&d=0&a=1
+id:	37117
+title:	Dyana mihlovo hinkwayo
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Pixabay  Website
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37117.png
+desc:	Mihandzu na matsavu swikahle eka hina
+
+page_text:
+
+P1	Xana a wu swi tiva leswaku loko u dya mihandzu u dya mihlovo?
+P2	Xana apula i ra muhlovo wa njhani?@@Dyana tinxaka hinkwato ta maapula.@@Dyana ma rihlaza, tshwuka, xithopana na pinki!
+P3	Xana muhlovo wa khokhonati i wa njhani?@@Dyana tinxaka hinkwato ta tikhokhonati.@@Dyana khokhoti yo tsakama na yo omisiwa.
+P4	Hi yihi mihandzu leyi nga ya mihlovo ya xilamula.@@Xana lamula ri va ra rihlaza loko ri ri njhani?
+P5	Kalavatla i ra muhlovo wa pinki.@@Pinki i muhandzu lowu ni wu rhandzaka!@@U dya mihlovo, loko u dya mihandzu.
+P6	Kotapeni i muhandzu lowu nga na nyungu leyikulu.@@Xana u dya muhlovo wa njhani loko u dya kotapeni?
+P7	Xana mihlovo ya masovorhi i ya njhani?@@Every kind of pepper is a fruit@@Mihandzu ya hambana na matsavu.
+P8	Mihandzu yi kula ku suka eka swiluva eka swimilana.@@Mihandzu yi na tinyungu.@@Xana u rhandza ku dya mihandzu yihi?
+
+images:
+
+illustrations/pages/91400224.png
+illustrations/pages/91400221.png
+illustrations/pages/91400220.png
+illustrations/pages/91400229.png
+illustrations/pages/91400231.png
+illustrations/pages/91400227.png
+illustrations/pages/91400223.png
+illustrations/pages/91400235.png
+illustrations/pages/91400219.png
+
+translations:
+
+Afrikaans (Translation)	Eet al die kleure!	id=35794
+Amharic (Translation)	ሁሉንም ቀለማት ብሉ!	id=36592
+English (Original)	Eat That Colour	id=32500
+English (Adaptation)	Eat all colours!	id=34288
+Spanish (Translation)	¡A comer todos los colores!	id=36372
+Tshivenḓa (Translation)	Iḽani mivhala yoṱhe!	id=37292

@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=34343&d=0&a=1
+id:	34343
+title:	Ʊnyiŋu nɖee Yeesu a cere abakǝŋja ma
+author:	LINGO  Bénin
+artist:	Marleen Visser
+lang:	Anii
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34343.png
+desc:	Mbʊpá njala nnɖe
+n tɩ faŋa ʊnyiŋu nɖee 
+Yeesu a cere abakǝŋja ma.
+
+page_text:
+
+P1	Na Yeesu a lǝ abakǝŋja wàà : @@« Ɩ ta naa nyîŋǝ,@lǝ̂ ma wàà :@@"Atayà,
+P2	pâla baa aŋa a yɔ̂ wàà, akɩŋyɩɖa kagʊsʊ̀rá gʊ mana.
+P3	Akɩɩyarɩ gɩ pɩ̂.
+P4	...
+P5	Shêe atʊ ʊshilé baa ʊpaŋa na...
+P6	... ʊjɩʊ nɖee gɩ na hɩyɛŋ ma.
+P7	Tǝ̂ɖǝ atʊ atɩmbɔnɔ,
+P8	ɖaa atʊ gboo gɩ na tǝɖǝ mbaɖee ba tǝrǝtǝrǝ nʼatʊ ma.
+P9	Pàá pâla mbɔnɔ n tʊ̂ŋa atʊ aŋǝ na." »
+P10	Lʊkaasɩ 11.2-4
+P11	Texte anii : © 2019 LINGO-Bénin,@tous droits réservés pour tous pays@Pour toute utilisation hors de ce livre, contactez-nous d'abord.
+P12	Téléphone et WhatsApp (+229) 62 58 04 49 @info@lingo-benin.org
+
+images:
+
+illustrations/pages/27330.png
+illustrations/pages/16251.png
+illustrations/pages/16253.png
+illustrations/pages/16254.png
+illustrations/pages/16250.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+
+translations:
+
+Cinyungwe (Translation)	Baba Wathu	id=33235
+Cisena (Translation)	Baba Wathu	id=31887
+Elomwe (Translation)	Nivekelo na Apwiya	id=33236
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=33237
+English (Original)	The Lord's Prayer	id=16246
+Ikisimbëtë (Translation)	Amasabhi agha Omonene	id=24809
+Imeetto (Translation)	Niswali	id=34183
+Lingala (Translation)	Tata na Biso	id=22493
+Lusoga (Translation)	Esaala  ya  Katonda	id=27752
+Olunyaneka (Translation)	Tate Yetu	id=31888
+Portuguese (Translation)	Pai Nosso	id=33234

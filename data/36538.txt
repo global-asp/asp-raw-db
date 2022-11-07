@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=36538&d=0&a=1
+id:	36538
+title:	Où est Lulu ?
+author:	Nicole  Ehrhart
+artist:	Clyde  Beech and Nkosingiphile  Mazibuko
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36538.png
+desc:	Mais où est donc passée Lulu ? Sa maman la cherche partout.
+
+page_text:
+
+P1	« Oh, non ! »
+P2	« Lulu , c'est l'heure d'y aller, » appelle Maman.
+P3	Où est Lulu ?@@Est-elle sous le canapé ?
+P4	Est-elle derrière le rideau ?
+P5	Où est Lulu ?@@Est-elle à côté de la cuisinière ?
+P6	Est-elle dans le placard ?
+P7	« Lulu, c'est l'heure d'y aller ! Où es-tu ? » appelle Maman.
+P8	« Ah ! Te voilà ! » dit Maman.@@« Je ne veux pas y alleeeer ! »
+P9	« Nous devons y aller, » dit Maman.@@« Mais j'aime trop celui-ci ! »
+P10	« Oh, j'aime bien celui-ci ! »
+P11	« Et celui-là ! »
+P12	« Et celui-ci ! »@@« Et celui-là ! »
+P13	« Tu vois, tu rends des livres et tu en empruntes encore plus, » dit Maman.@@« Chouette ! »
+P14	Et où est Lulu maintenant ?
+
+images:
+
+illustrations/pages/27795.png
+illustrations/pages/27796.png
+illustrations/pages/27797.png
+illustrations/pages/27798.png
+illustrations/pages/27799.png
+illustrations/pages/27800.png
+illustrations/pages/27801.png
+illustrations/pages/27802.png
+illustrations/pages/27803.png
+illustrations/pages/27804.png
+illustrations/pages/27805.png
+illustrations/pages/27806.png
+illustrations/pages/27807.png
+illustrations/pages/27808.png
+illustrations/pages/27809.png
+illustrations/pages/27810.png
+illustrations/pages/27811.png
+
+translations:
+
+Afrikaans (Translation)	Waar is Lulu?	id=33255
+English (Original)	Where is Lulu?	id=31988
+English (Adaptation)	What Lulu wanted	id=32041
+Kiswahili (Translation)	Lulu yuko wapi?	id=31998
+Sepedi (Translation)	Lulu o kae?	id=33254
+Spanish (Translation)	¿Dónde esta Lulú?	id=36477

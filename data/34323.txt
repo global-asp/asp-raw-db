@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=34323&d=0&a=1
+id:	34323
+title:	Ndzisana ya jaha yo loloha
+author:	Given J Hlongwani
+artist:	Mlungisi Dlamini
+lang:	Xitsonga
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/34323.png
+desc:	Boti lonkulu u fikela laha a nga hlundzuka loko ndzisana ya yena ya jaha a tshamelaka ro huhwa loko boti wa yena lonkulu a endla mitirho hinkwayo ya le kaya.
+
+page_text:
+
+P1	Ndzi pfuka ndzi tshivela ndzilo.
+P2	Ndzi virisa mati.
+P3	Ndzi pandzela tihunyi.
+P4	Ndzi hakasa mbita.
+P5	Ndzi kukula ehansi.
+P6	Ndzi hlantswa swibye.
+P7	Hikwalaho ka yini u tirha ngopfu?
+P8	Loko ndzisana ya mina ya jaha yi ri ku tlangeni!
+
+images:
+
+illustrations/pages/28613.png
+illustrations/pages/28614.png
+illustrations/pages/28615.png
+illustrations/pages/28616.png
+illustrations/pages/28617.png
+illustrations/pages/28618.png
+illustrations/pages/28619.png
+illustrations/pages/28620.png
+
+translations:
+
+English (Original)	Lazy little brother	id=32582
+French (Adaptation)	Petit Frère Paresseux	id=34106
+isiNdebele (Translation)	Umnakwethu omncani ovilaphako	id=35230
+Kinyarwanda (Translation)	Umwana w'umunyamurava	id=32583
+Siswati (Translation)	Umnaketfu lomncane lovilaphako	id=34470
+Tshivenḓa (Translation)	Murathu wa mubva	id=34249

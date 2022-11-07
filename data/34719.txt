@@ -1,0 +1,68 @@
+url:	https://africanstorybook.org/reader.php?id=34719&d=0&a=1
+id:	34719
+title:	Alôm vea Dwem kaha iyiav
+author:	Terkule Aorabee
+artist:	Rob Owen
+lang:	Tiv
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34719.png
+desc:	Atseregh doo ga. Dwem vea Alôm pav Ijende sha ciu atseregh.
+
+page_text:
+
+P1	Ngise Alôm man Dwem lu ahuraior a dedoo.
+P2	Alôm kaa a Dwem er, "Se er tom sule sha ijoghave."
+P3	Alôm va a mhen er vea kaha ikyuleke shi vea kar ityom.
+P4	Alôm kaa er, "Tom wam u huren inyon ne hemba taver."
+P5	Dwem lumun u kahan kwagh tswen.
+P6	Zum u Dwem yar u huran toho yô, Alôm yar amo a gberen.
+P7	Zum u ikyuleke gba vian yô, Alôm lu huren inyon ken mkpeiyol.
+P8	Alôm kaa er, "Mo me sunda hanmô kwagh u sha tar. We sunda u shin inya."
+P9	Alôm sunda ikyuleke la cica za koso.
+P10	Dwem time shin inya kpa mande sha amishe tsegher.
+P11	Dwem kaa er Alôm bumeun yô. @@Ishima vihi in kpishi.
+P12	Ve kaha atsaka.@@Dwem kaa er, "Mo me sunda hanmô kwagh u sha tar."
+P13	We er tom imôngu a atsam zwa.
+P14	Shien u sundan yô, Dwem sunda ahu a atsaka tsegher.
+P15	Alôm sunda atam a atsaka a gbogbonan za koso.
+P16	Dwem zenda Alôm. Ijende ve bee.
+
+images:
+
+illustrations/pages/8138.png
+illustrations/pages/8135.png
+illustrations/pages/8136.png
+illustrations/pages/8137.png
+illustrations/pages/8138.png
+illustrations/pages/8139.png
+illustrations/pages/8140.png
+illustrations/pages/8141.png
+illustrations/pages/8142.png
+illustrations/pages/8143.png
+illustrations/pages/8144.png
+illustrations/pages/8145.png
+illustrations/pages/8146.png
+illustrations/pages/8147.png
+illustrations/pages/8148.png
+illustrations/pages/8149.png
+illustrations/pages/8150.png
+
+translations:
+
+Acholi (Translation)	Apwoyo Gin Ki Laluu  Gu Pitu Cam	id=20992
+Afaan Oromo (Translation)	Illeetif Waraabessa Midhaan Facaasan	id=21652
+Amharic (Translation)	ጥንቸል እና አያ ጅቦ እህል አመረቱ	id=21246
+Ateso (Translation)	EBU KEDE OCULI	id=24107
+Dhopadhola (Translation)	Oculu Kodi Ondyek	id=18696
+English (Original)	Hare and Hyena	id=9796
+English (Adaptation)	Hare and Hyena grow crops	id=20885
+French (Translation)	Lièvre et Hyène	id=34572
+Kinyarwanda (Translation)	Mpyisi na Bakame	id=22008
+Kiswahili (Translation)	Sungura na Fisi	id=15610
+Kiswahili (Adaptation)	Sungura na Fisi	id=18418
+Kiswahili (Translation)	Sungura na Fisi wanapanda mimea	id=21134
+Lunyole (Translation)	Wakayima Ni Namunyu Balima Ebirime	id=21023
+Lusoga (Translation)	Akanhima ne empiti	id=23935
+Tigrigna (Translation)	ማንቲለ በረኻን ምህርቲ ዘፍሪ ዝብኢን	id=21112
+Tiv (Translation)	Alôm vea Dwem	id=34720

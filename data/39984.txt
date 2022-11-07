@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=39984&d=0&a=1
+id:	39984
+title:	Akai está tão feliz
+author:	Cristina da Costa
+artist:	Rob Owen
+lang:	Portuguese
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39984.png
+desc:	Uma menina recebe os seus primeiros ténis.
+
+page_text:
+
+P1	A Akai não tinha ténis. @@As outras crianças da sua idade tinham ténis.
+P2	"É difícil jogar sem ténis", disse Akai à sua mãe.
+P3	"Akai, acho que está na altura de teres uns ténis", disse a mãe.
+P4	Na manhã seguinte, a mãe acordou a Akai bastante cedo.
+P5	A Akai e a mãe foram ao mercado.
+P6	Entraram numa sapataria. @@A mãe comprou uns ténis para a Akai.
+P7	À noite, a Akai só pensava nos seus ténis novos.
+P8	A Akai calçou os seus ténis novos.
+P9	A Akai só pensava em como iria mostrar os seus ténis.
+P10	A Akai voltou a calçar os seus ténis novos. @@Ela dançou à volta do quarto.
+P11	"Akai, não podes usar os ténis na cama", disse a mãe.
+P12	A Akai estava tão feliz por finalmente ter uns ténis.
+
+images:
+
+illustrations/pages/9500.png
+illustrations/pages/9441.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9499.png
+illustrations/pages/10444.png
+illustrations/pages/9498.png
+illustrations/pages/9502.png
+illustrations/pages/9501.png
+illustrations/pages/9500.png
+
+translations:
+
+English (Original)	Happy Akai	id=18497

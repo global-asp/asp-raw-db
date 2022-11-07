@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=34332&d=0&a=1
+id:	34332
+title:	Halima na swifuwo swa yena
+author:	Given J Hlongwani
+artist:	Jesse Breytenbach
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34332.png
+desc:	Halima u rhandza swifuwo. U teka nkarhi wa yena a tshama na swona
+
+page_text:
+
+P1	Halima na ndyangu wa ka vona va tshama eDebre Birhan, doroba leri nga na vuyimayima swinene eEthiopia. @@Halima i mudyondzi wa giredi ya 3. U na mbilu ya kahle na ku vutlhari.
+P2	Halima u rhandza swifuwo. U teka nkarhi wa yena a tshama na swona, a swi dyisa, na ku tlanga na swona.@@U na ximanga, mimbhaha mimbirhi, mbuti na tuva.
+P3	Siku rin'wana, Halima a ri eku tlangeni ejarateni ra xikolo na vanghana va yena loko a vona n'wana un'wana a hoxetela maribye eka matuva.@@"Hikwalaho ka yini va vavisa matuva?" a tivutisa.
+P4	Va tshikile ku tlanga kutani va tsutsumela eka tlhelo leri vana lava a va hoxetela maribye.@@Emasungulweni vanghana va yena a va nga swi twisisi leswi a swi humelela, kutani va n'wi sala endzhaku. "Tshikani ku hoxetela maribye," ku huwelela Halima.
+P5	Vana lavan'wana va tsutsumile.@@Halima u khomile matuva mambirhi lama a ma vavisekile. U vonile timbanga etimpapeni. U tekile xiboho xa ku teka matuva lamambirhi ku ya ma hlayisa ekaya.
+P6	U phamerile matuva. @@Nimadyambu u byerile vandyangu wa yena leswi a swi voneke ninhlikanhi, na hilaha a poniseke matuva hakona.
+P7	Nimixo Halima na vatswari va yena va yile etliliniki na ku kuma murhi wa matuva.@@Endzhaku ka masikunyana, swilondzo swa matuva a swi horile. Halima u titwile a tsakile.
+P8	Halima u tshamela ro byela vanghana va yena, "Ndzi rhandza swiharhi. Swiharhi swi kahle eka hina naswona i vanghana va hina. Ha swi sirhelela na ku swi hlayisa."
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana and her animals	id=21004
+English (Adaptation)	Fana and her animals (Colour-in)	id=21005
+English (Adaptation)	Fana loves animals	id=21396
+French (Translation)	Fama aime les animaux	id=34664
+isiNdebele (Translation)	UFana neenlwana zakhe	id=35238
+Kanuri (Translation)	Kurram-a Dabbawanzǝ-a	id=24765
+Kinyarwanda (Translation)	Furaha n'amatungo ye	id=23923
+Kiswahili (Translation)	Fana na wanyama wake	id=21006
+Kiswahili (Translation)	Fana anawapenda wanyama	id=21998
+Kiswahili (Adaptation)	Fana na wanyama wake (Paka rangi)	id=33354
+Luganda (Translation)	Fana n'ebisolo bye	id=23599
+Lugbarati (Translation)	Fana azini i ma anyapa be	id=24531
+Lulamoogi (Translation)	Mbasalaki ataka inho ebisolo	id=24828
+Lusoga (Translation)	Faanana  n'ebisolobye	id=25086
+Portugues (Translation)	Fana e os seus animais	id=40216
+Rukiga (Translation)	Fana arakunda e'nyamishwa	id=24413
+Rukiga (Translation)	Fana ne bisholo byeye	id=24592
+Rukiga (Translation)	Fana arakunda enyamaishwa	id=34735
+Runyankore (Translation)	Fana nakunda ebyikoko	id=23245
+Runyankore (Translation)	Fana ne nyamishwa ze	id=24112
+Sepedi (Translation)	Fana o rata diphoofolo	id=32906
+Sepedi (Translation)	Fana o rata diphoofolo (Colour-in)	id=33310
+Siswati (Translation)	Fana netilwane takhe	id=34478
+Spanish (Translation)	Fana ama los animales	id=36359
+Tiv (Translation)	Fana soo aninyamev	id=40198
+Tshivenḓa (Translation)	Fana na zwifuwo zwawe	id=34258

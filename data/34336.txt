@@ -1,0 +1,89 @@
+url:	https://africanstorybook.org/reader.php?id=34336&d=0&a=1
+id:	34336
+title:	Mfenhe na Ngwenya
+author:	Given J Hlongwani
+artist:	Abraham Muzee
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34336.png
+desc:	Hilaha Mfenhe yi nga ti ponisa ha kona ku va yo phorhiwa hi Ngwenya (Ya kumeka na leka Ntangha 3).
+
+page_text:
+
+P1	Mfenhe yi hlangana na Ngwenya etiveni.
+P2	"Xana u tshama kwihi?" ku vutisa Mfenhe. @@"Etiveni," ku vula Ngwenya.
+P3	"Xana wena u tshama kwihi?" ku vutisa Ngwenya. @@"Emisinyeni," ku hlamula Mfenhe.
+P4	"Xana wa swi kota ku hlambela?" ku vutisa Ngwenya.
+P5	"A ndzi swi koti," ku vula Mfenhe. @@"Ndzi nga ku dyondzisa."
+P6	"Hi vanghana. U nga chavi," ku vula Ngwenya.
+P7	"Mfenhe, malume wa mina wa vabya. U lava nyama," ku vula Ngwenya.
+P8	Mfenhe a yi chava. Xana Ngwenya yi ta n'wi phora na?
+P9	Mfenhe yi lava ku balekela Ngwenya.
+P10	Mfenhe a yi nga swi anakanyangi.
+P11	"Ndzi ta ku nyika mbilu ku ri u n'wi nyika," ku tshembisa Mfenhe.
+P12	"Mbilu ya mina yi le ensinyeni le emisaveni," ku vula Mfenhe.
+P13	"Xana u nga landza mbilu ya wena?" ku vutisa Ngwenya. @@"Ina," ku vula Mfenhe.
+P14	Ngwenya yi hlambela ku ya emisaveni. @@Mfenhe yi tsutsumela ensinyeni.
+P15	"Wena a wu munghana wa mina. U hembile!" ku vula Ngwenya.
+P16	"A hi vanghana. Wena u lava ku ndzi phora!" ku vula Mfenhe.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+Chichewa (Translation)	Nyani ndi Ng'ona	id=34530
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile (Colour-in)	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+French (Translation)	Singe et Crocodile	id=34555
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+Hausa (Nigeria) (Adaptation)	Ape and Crocodile	id=36137
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+isiZulu (Translation)	UNkawu noNgwenya (Colour-in)	id=33305
+Kanuri (Translation)	Dagǝl Bulongu-a Karam–a	id=32286
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende n'ingona	id=20223
+Kinyarwanda (Adaptation)	Inkende n'ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Waggoonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Otuho (Translation)	Amôlôŋ iko Eenyiaŋ	id=39278
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Siswati (Translation)	Imfene neNgwenya	id=32956
+Spanish (Translation)	El mono y el cocodrilo	id=35535
+Thimbukushu (Translation)	Shoko naNgandu	id=31528
+Tiv (Translation)	Ikya man Ambe	id=23886
+TjiKalanga (Translation)	Gudo naNgwena	id=35274
+Tunisian (Translation)	L-qerd wet-temsæħ	id=36688

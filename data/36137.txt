@@ -1,0 +1,89 @@
+url:	https://africanstorybook.org/reader.php?id=36137&d=0&a=1
+id:	36137
+title:	Ape and Crocodile
+author:	Doma DEDF
+artist:	Abraham Muzee
+lang:	Hausa (Nigeria)
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36137.png
+desc:	About how Ape saved herself from being eaten by Crocodile. (Also available at Level 3.).
+
+page_text:
+
+P1	Ape meets Crocodile by the lake.
+P2	"Where do you live?" asks Ape,  "In the lake," says Crocodile.
+P3	"Where do you live?" asks Crocodile. "In the trees," says Ape.
+P4	"Can you swim?" asks Crocodile.
+P5	"I cannot swim," says Ape. "I can teach you."
+P6	"We are friends. Do not be afraid," says Crocodile.
+P7	"Ape,  my uncle is sick. He needs meat," says Crocodile.
+P8	Ape is very afraid. Will Crocodile eat her?
+P9	Ape wants to escape from Crocodile.
+P10	Ape has an idea.
+P11	"I will give you my heart for him," Ape promises.
+P12	"My heart is in a tree on the land," says Ape.
+P13	"Will you fetch your heart?" asks Crocodile. "Yes," says Ape.
+P14	Crocodile swims back to the land. Ape runs to the trees.
+P15	"You are not my friend. You lied!" says Crocodile.
+P16	"We are not friends. You want to eat me!" says Ape.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+Chichewa (Translation)	Nyani ndi Ng'ona	id=34530
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile (Colour-in)	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+French (Translation)	Singe et Crocodile	id=34555
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+isiZulu (Translation)	UNkawu noNgwenya (Colour-in)	id=33305
+Kanuri (Translation)	Dagǝl Bulongu-a Karam–a	id=32286
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende n'ingona	id=20223
+Kinyarwanda (Adaptation)	Inkende n'ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Waggoonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Otuho (Translation)	Amôlôŋ iko Eenyiaŋ	id=39278
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Siswati (Translation)	Imfene neNgwenya	id=32956
+Spanish (Translation)	El mono y el cocodrilo	id=35535
+Thimbukushu (Translation)	Shoko naNgandu	id=31528
+Tiv (Translation)	Ikya man Ambe	id=23886
+TjiKalanga (Translation)	Gudo naNgwena	id=35274
+Tunisian (Translation)	L-qerd wet-temsæħ	id=36688
+Xitsonga (Translation)	Mfenhe na Ngwenya	id=34336

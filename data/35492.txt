@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=35492&d=0&a=1
+id:	35492
+title:	Abotihino nî
+author:	Peter Akalkal
+artist:	Marleen Visser
+lang:	Otuho
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35492.png
+desc:	Idîhû iyye abotihino aŋaî jio oŋitek hinyia ikolonierek aatî îhaŋitek?
+
+page_text:
+
+P1	Amîratio etoŋo îhaŋ jihoŋ ôlôŋ ꞌdaŋ.@@Aŋiyei amolie ôrrîahat hoŋ nanî.@@Oyyu duo efuo illet îbala.
+P2	Asayyo huno Ottuloi-epieres hunne etayirio nî oŋitek ꞌdaŋ!@@Awak duo nî ijiara Ottuloi-epieres ôlô addi!
+P3	Ijiara êbalarî êbalîtî-duri hôhôî.@@Ojio îyaŋ êllê etoŋo hôhôî îhaŋ, êttê ajiok îfaûna hôhôî.
+P4	Oŋuaî Okômô. Iyaraî inyi îttalîa.@@Ijiara êmôjôk jihonyi ihuania-ihuania.
+P5	Yesu, Hobu,@Itamurou Okômô yô. @Ifaû hôhôî jio Ottuloi-epieres ana.@@Hûmô ta awanan hôî iko hôhôî êllê etoŋo hôhôî hama buo fê êbaŋ.@@Amen.
+P6	"Ara duo bu adaha nî tôttô idumele dial, abeŋ nî abaŋ ôbô arîŋ."@@Afure 23:4
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740452.png
+illustrations/pages/93740440.png
+illustrations/pages/93740447.png
+illustrations/pages/93740451.png
+illustrations/pages/93740444.png
+illustrations/pages/93740445.png
+
+translations:
+
+Afrikaans (Translation)	Ek voel bekommerd	id=35796
+English (Original)	I Feel Alone	id=35221
+English (Adaptation)	I feel worried	id=35252
+isiXhosa (Translation)	Ndiziva ndindedwa	id=35285
+Kiswahili (Translation)	Nina wasiwasi	id=35279
+Spanish (Translation)	Me siento preocupado	id=36331
+Tiv (Translation)	Zam Iyol	id=35558
+TjiKalanga (Translation)	Andizogadzikana	id=35258
+TjiKalanga (Translation)	Ndozwiwha ndili ndoga	id=35260

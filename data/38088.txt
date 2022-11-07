@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=38088&d=0&a=1
+id:	38088
+title:	Mimin kirje joulupukille
+author:	Pia
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38088.png
+desc:	Herttainen tarina Mimi - tytön joulun odotuksesta perheen pienimmille.
+
+page_text:
+
+P1	Mimi hyppii narua pohtien samalla, onko Joulupukki saanut hänen kirjeensä?
+P2	Mimi päätti valmistaa herkkuja !
+P3	Miten herkullista ; Mimi henkäisi !
+
+images:
+
+illustrations/pages/1499.png
+illustrations/pages/1495.png
+illustrations/pages/1496.png
+illustrations/pages/1500.png
+
+translations:
+

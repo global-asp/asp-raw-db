@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=36592&d=0&a=1
+id:	36592
+title:	ሁሉንም ቀለማት ብሉ!
+author:	Mezemir Girma
+artist:	Pixabay  Website
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36592.png
+desc:	ይህ መጽሐፍ ልጆች ፍራፍሬዎችን እንዲበሉ ያበረታታል፡፡ ፍራፍሬዎችና አትክልቶች ለኛ ጥሩ ናቸው፡፡ ልዩነታቸው ግን ምን ይሆን?
+
+page_text:
+
+P1	ፍራፍሬዎችን ስትበሉ ቀለሞችን እየበላችሁ እንደሆነ ታውቃላችሁ?
+P2	ፖም ምን ዓይነት ቀለም አለው?@@ሁሉንም ዓይነት ፖም ብሉ፡፡@@አረንጓዴ፣ ቀይ፣ ቢጫ እና ሮዝ ፖም ብሉ!
+P3	ኮኮናት ምን ዓይነት ቀለም አለው?@@እያንዳንዱን ዓይነት ኮኮናት ብሉ ፡፡@@ትኩስ የኮኮናት እና የደረቀ ኮኮናት ተመገቡ፡፡
+P4	ብርቱካናማ ቀለም ያለው የትኛው ፍራፍሬ ነው?@@ብርቱካን አረንጓዴው ቀለም የሚኖረው መቼ ነው?
+P5	ሐብሐብ ሮዝ ቀለም አለው፡፡@@ሮዝ የእኔ ተወዳጅ ፍሬ ነው!@@ፍራፍሬዎችን ስትመገቡ ቀለሞችን ትበላላችሁ፡፡
+P6	አቮካዶ አንድ ትልቅ ፍሬ ብቻ አለው፡፡@@አቮካዶ ስትመገቡ ምን ዓይነት ቀለም እየበላችሁ ነው?
+P7	እነዚህ ቃሪያዎች ምን ዓይነት ቀለም አላቸው?@@እያንዳንዱ ዓይነት ቃሪያ ፍሬ ነው፡፡@@ፍራፍሬዎች ከአትክልቶች የተለዩ ናቸው፡፡
+P8	ፍራፍሬዎች በአንድ ተክል ላይ ከአበቦች ቀጥለው ያድጋሉ፡፡@@ፍራፍሬዎች ዘሮች አሏቸው፡፡@@የትኞቹን ፍራፍሬዎች መመገብ ትፈልጋላችሁ?
+
+images:
+
+illustrations/pages/91400224.png
+illustrations/pages/91400221.png
+illustrations/pages/91400220.png
+illustrations/pages/91400229.png
+illustrations/pages/91400231.png
+illustrations/pages/91400227.png
+illustrations/pages/91400223.png
+illustrations/pages/91400235.png
+illustrations/pages/91400219.png
+
+translations:
+
+Afrikaans (Translation)	Eet al die kleure!	id=35794
+English (Original)	Eat That Colour	id=32500
+English (Adaptation)	Eat all colours!	id=34288
+Spanish (Translation)	¡A comer todos los colores!	id=36372
+Tshivenḓa (Translation)	Iḽani mivhala yoṱhe!	id=37292
+Xitsonga (Translation)	Dyana mihlovo hinkwayo	id=37117

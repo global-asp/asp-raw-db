@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=36468&d=0&a=1
+id:	36468
+title:	Hagamos limonada.
+author:	Aprende Leyendo
+artist:	Niloufer  Wadia
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36468.png
+desc:	Esta historia introduce las fracciones por medio de una receta para hacer jugo de limón (limonada)
+
+page_text:
+
+P1	Acá hay un jarro de limonada. @Está fría y dulce.@@Hay 8 de nosotros@¿Cómo podemos compartir el jugo para que todos reciban la misma cantidad?
+P2	Podemos medir 8 partes iguales en el jarro de limonada. @@Usamos una cuerda para medirla.@@Corta la cuerda para que tengan la misma longitud del jarro.
+P3	Dobla la cuerda para crear 8 partes iguales. @@Marca las 8 partes en el jarro@@Ahora estamos listos para servir 8 partes iguales de limonada.
+P4	Ahora compartimos la limonada. @@Cuando la terminamos ¡queremos más!@@¿Cómo hacemos limonada?
+P5	Limonada. @@agua - 7 tazas@azúcar - 2 tazas@jugo de limón - 1 taza.@@Necesitaras exprimir 7 limones maduros. @@Usa un jarrón o una botella de 2 litros para mezclar los ingredientes.
+P6	Método@@1.Mezcla el azúcar y el jugo de limón con 2 tazas de agua fría. @2. Mezcla el jarrón, o revuelve la botella, hasta que el azúcar se disuelva. @3. Termina de mezclar las 5 tazas de agua.
+P7	Acá hay otra receta.@@1/10 jugo de limón@2/10 azúcar@7/10 agua@@El jugo de limón es una parte del total de la limonada.@@¿Cuántas partes es el total?
+P8	La imagen muestra medio limón.@@¿Cuántas partes hay en medio limón?@@¿Cuántas partes hay en un limón completo?@@Cada parte es una fracción del limón completo.
+
+images:
+
+illustrations/pages/93740612.png
+illustrations/pages/93740612.png
+illustrations/pages/93740613.png
+illustrations/pages/93740614.png
+illustrations/pages/93740615.png
+illustrations/pages/93740697.png
+illustrations/pages/93740616.png
+illustrations/pages/93740617.png
+illustrations/pages/93740618.png
+
+translations:
+
+English (Translation)	Let's make lemon juice	id=36041
+isiZulu (Original)	Asenze ujusi kalamula	id=36039

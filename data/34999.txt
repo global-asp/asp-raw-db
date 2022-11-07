@@ -1,0 +1,72 @@
+url:	https://africanstorybook.org/reader.php?id=34999&d=0&a=1
+id:	34999
+title:	Cilango
+author:	Jane  Mulenga and Mary  Ng'ambi
+artist:	Melany Pietersen
+lang:	Chinkhonde
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34999.png
+desc:	Cilango camulumyana umpafu uyo alya fiyo fipaso cingayacici?
+
+page_text:
+
+P1	Siku limo, mama agulile fipaso fya kukindana kindana.
+P2	"Tupokulya ndili fipaso?" twalalusishe.@@"Tupakulya namayolo," mama ayobile.
+P3	Mulumbu wangu Rahim mupafu fiyo. @@Agelile fipaso fyosa. Alile fingi fiyo.
+P4	"Keta fifyo Rahim abombile!" akutile mulumbu wangu mukeke. @@"Rahim otamya kangi atakwinong'onela banyake," nayobile.
+P5	Mama akalele fiyo nongwa ya Rahim.
+P6	Uswe nuswe twamukalalile Rahim.@@Loli Rahim atakapasha.
+P7	"Mupomupa cilango Rahim?" alalusishe mulumbu wangu mukeke.
+P8	"Rahim, upolamba nosi lulu," mama wake amusokile.
+P9	Rahim alyandile kubina.
+P10	"Mulwanda mwangu mukumbaba," apephwile Rahim.
+P11	Mama amenye nongwa yiyo yamupangishe Rahim kubina.@@"Fipaso fyumulanga Rahim," mama alinong'wine.
+P12	Pabumalilo, Rahim alambile kwa uswe. "Nthasokuya sona mupafu," ayobile. @@Twamusubile.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Afrikaans (Translation)	Straf	id=37762
+Arabic (Translation)	العقاب	id=21885
+Chichewa (Translation)	Chilango	id=34964
+Chitonga (Malawi) (Translation)	Chilangu	id=35024
+Citumbuka (Translation)	Cilango	id=35050
+Ciyawo (Malawi) (Translation)	Camuko	id=35074
+Ellomwe (Malawi) (Translation)	Echibalo	id=35106
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	Punishment (Colour-in)	id=32505
+isiXhosa (Translation)	Isohlwayo	id=37847
+isiZulu (Translation)	Isijeziso	id=37711
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	Adhabu (Paka rangi)	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (Lesotho) (Translation)	Kotlo	id=36352
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402
+Tshivenḓa (Translation)	Ndaṱiso	id=34299
+Urdu (Adaptation)	سزا	id=35982
+Xitsonga (Translation)	Nxupulo	id=34192

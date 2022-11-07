@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=36122&d=0&a=1
+id:	36122
+title:	Pora's routine
+author:	Talia Ahmed
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36122.png
+desc:	Its a story about a little girl pora and her day.
+
+page_text:
+
+P1	Pora woke up and ate her breakfast and fruits.
+P2	Then she went to school and learned her ABC's.
+P3	Then she read her favourite book about shapes.
+P4	Then and played with her best friend piper.
+P5	The end
+
+images:
+
+illustrations/pages/1495.png
+illustrations/pages/1500.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/1495.png
+illustrations/pages/1496.png
+
+translations:
+

@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=36421&d=0&a=1
+id:	36421
+title:	Una lección de Papá
+author:	Aprende Leyendo
+artist:	Adonay  Gebru
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36421.png
+desc:	¿Qué piensas de la lección que le dio el papá de Augusto?
+
+page_text:
+
+P1	En un pueblo, vivía un joven llamado Augusto.@@A él no le gustaba leer o siquiera abrir un libro. Él era un estudiante perezoso y se comportaba mal.
+P2	Augusto se robaba la plata de su mamá para comprar dulces. Incluso cuando ella lo escondía, el lo encontraba y lo tomaba. @@Después de comerse todos los dulces, Augusto salía a jugar con sus amigos.
+P3	Después de un tiempo, Augusto dejó de ir al colegio. En vez de ir a estudiar, se quedaba jugando todo el día y solo regresaba a su casa en la tarde. @@La abuela de Augusto noto esto y se preocupo.
+P4	"Nuestro hijo no se está portando bien. Yo creo que él no está atendiendo el colegio. También creo que me esta robando dinero," dijo la mamá de Augusto.
+P5	El papá de Augusto le dijo a su esposa: "A la próxima, esconde el dinero en las páginas de un libro. Él nunca abre un libro, entonces el dinero estará seguro ahí."
+P6	Al día siguiente, Augusto busco el dinero de su mamá. Buscó por todos lados pero no pudo encontrar nada. @@Decidió ir al mercado más cercano para encontrar un poco de dinero.
+P7	Su papá vio donde Augusto estaba yendo. @@"Hijo mío, yo sé porqué quieres ir al mercado. Más bien regresa y mira entre los libros por el dinero," dijo.
+P8	Augusto estaba confundido, pero fue a buscar entre los libros. @@Encontró el dinero que su mamá había escondido.
+P9	Al día siguiente, volvió a buscar entre los libros. Pero esta vez no encontró nada. @@Fue a preguntarle a su papá ¿por qué no había dinero en los libros?
+P10	El papá sonrió y le respondió: "Hijo mío ¿quieres suficiente dinero para comprar dulces?"@Augusto respondió: "Por supuesto, papá."
+P11	El papá dijo: "Escúchame atentamente: lee tus libros y ve a clase. En los libros encontrarás tu recompensa. No te rindas." @@"Pero padre, leer es difícil ¡Los libros son aburridos!" respondió Augusto.
+P12	El papá de Augusto estuvo callado por un tiempo, pensando cómo animar a su hijo.@@Luego le dijo: "Leamos juntos. Yo te ayudaré a encontrar la riqueza en los libros."
+
+images:
+
+illustrations/pages/27719.png
+illustrations/pages/27708.png
+illustrations/pages/27709.png
+illustrations/pages/27710.png
+illustrations/pages/27711.png
+illustrations/pages/27712.png
+illustrations/pages/27713.png
+illustrations/pages/27714.png
+illustrations/pages/27715.png
+illustrations/pages/27716.png
+illustrations/pages/27717.png
+illustrations/pages/27718.png
+illustrations/pages/27719.png
+
+translations:
+
+Amharic (Translation)	የአባት ምክር	id=33952
+Babanki (Translation)	Jì a tìʼ wàyn ə tyiftə wàyn fa tsu	id=36934
+ChiNdau (Translation)	Mukororo ongwadzwa ndibaba.	id=37932
+English (Original)	A father's lesson	id=31944
+French (Translation)	La leçon d'un père	id=33155
+isiNdebele (Translation)	Isifundo sakababa	id=35239
+Kinyarwanda (Translation)	Inama z' umubyeyi	id=32137
+Kiswahili (Translation)	Mvumilivu hula mbivu	id=32070
+Kom (Translation)	Iye'i i bò wàyn	id=40129
+Ng’aturkana (Translation)	Ng'akitatamet ka'Apa	id=33390
+Oshikwanyama (Translation)	Oshihongwa sha Tate	id=37060
+Otuho (Translation)	Ettiyeni ônô mônyê	id=36300
+Portuguese (Translation)	Uma lição de pai	id=40079
+Setswana (Translation)	Thuto ya ga rre	id=34763
+Siswati (Translation)	Sifundvo sababe	id=34479
+Tiv (Translation)	Ayom a Wan a Ter	id=36790
+Tshivenḓa (Translation)	Ngundo i bvaho kha khotsi	id=34259
+Wolaita (Translation)	Awa Timirtiya	id=32315
+Xitsonga (Translation)	Dyondzo ya tatana	id=34333

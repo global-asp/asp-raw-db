@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=34331&d=0&a=1
+id:	34331
+title:	Xisiwana
+author:	Given J Hlongwani
+artist:	Saajida  Patel
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34331.png
+desc:	Bukuta i nwana wa mhelembe yo basa
+
+page_text:
+
+P1	Bukuta i n'wana wa mhelembe yo basa.@@Vahlayisi va ntanga va n'wi ponisile exihlahleni.
+P2	Mana wa yena a dlayiwile hi vahloti.@@Vahlayisi va ntanga va tekile Bukuta ku ya eka ndhawu ya vuhlayiseki.
+P3	Mbilu ya Bukuta a yi tshovekile.@@Naswona, a chava leswaku vahloti va ta vuya va ta teka rimhondzo ra yena.
+P4	Hikatsongo, Bukuta u vile na vanghana.@@U titwile a hlayisekile na ku huhwa eridakeni.@@U nwile masi lama ma nga fuwa evuhlayiselweni.
+P5	Siku rin'wana Bukuta u vutisile munghana wa yena Mbhoma, "Hikwalaho ka yini va lava timhondzo ta hina.@@Mbhoma a hlevetela, "Va tshemba leswaku timhondzo ta hina ti na masingita!"
+P6	"Kambe timhondzo ta hina a ti na masingita!" ku rila Bukuta.@@"E-e, hi mpela a hi swona. Timhondzo ta fana na misisi na min'wala," ku vula Mbhoma.
+P7	Bukuta na Mbhoma hi vona vo hetelela va muxaka lowu.@@Timhelembe to basa ti le kusuhi na ku hela.@@Ti le kusuhi no hela emisaveni hinkwayo.
+P8	Hi nga ponisa mhelembe na swiharhi swin'wana leswi nga kusuhi na ku hela.@@Xana u nga endla yini?@@Kuma swo tala!
+
+images:
+
+illustrations/pages/93740139.png
+illustrations/pages/93740139.png
+illustrations/pages/93740140.png
+illustrations/pages/93740141.png
+illustrations/pages/93740142.png
+illustrations/pages/93740143.png
+illustrations/pages/93740144.png
+illustrations/pages/93740145.png
+illustrations/pages/93740146.png
+
+translations:
+
+English (Original)	An orphan	id=34206
+isiZulu (Translation)	Intandane	id=34508
+Spanish (Translation)	La Huérfana	id=35719
+Tiv (Translation)	Wancôvor	id=39248
+Tshivenḓa (Translation)	Tsiwana	id=34257

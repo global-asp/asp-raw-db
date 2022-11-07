@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=37256&d=0&a=1
+id:	37256
+title:	Picture story 14
+author:	Name Of Writer
+artist:	Catherine Groenewald
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37256.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/9474.png
+illustrations/pages/9465.png
+illustrations/pages/9466.png
+illustrations/pages/9469.png
+illustrations/pages/9470.png
+illustrations/pages/9939.png
+illustrations/pages/9940.png
+illustrations/pages/9474.png
+illustrations/pages/9942.png
+illustrations/pages/9475.png
+illustrations/pages/9476.png
+
+translations:
+
+English (Translation)	The lady in orange	id=18892
+Lusoga (Translation)	Omukazi   mu  kathungwa	id=29685
+Portuguese (Translation)	A Senhora Em Cor-De-Laranja	id=18893

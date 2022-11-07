@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=34308&d=0&a=1
+id:	34308
+title:	Zwipuka zwi shavha mahayani
+author:	Ndivhuho Mutsila
+artist:	Magriet Brink
+lang:	Tshivenḓa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34308.png
+desc:	Phukha nṋa dzi re vhalala  dzi a thusana kha u ḓivhofholola kha vhaṋe vhadzo vhane vha sa dzi londe
+
+page_text:
+
+P1	Vhaṅwe mukegulu vho vha vhe na khuhu dza phambo na gukulume ḽa kale.
+P2	Muḓuhulu wavho a vha dalela. Vha humbula u ṱhavha iḽi gukulume.
+P3	Gukulume ḽa mbo ḓi shavhela ḓoroboni khulu.
+P4	Gukulume ḽa ṱangana na tshimange tshe tsha shavha muṋe watsho.
+P5	Gukulume na tshimange vha ṱangana na mmbwa i no khou shavha.
+P6	Ha ḓa bere ye na yone ya vha yo shavha hayani.
+P7	Zwipuka izwi zwa swika muṅwe muḓini. Zwa vhona ngomu nḓuni hu na mbava!
+P8	Zwipuka zwa thoma u imba uri mbava dzi shavhe.
+P9	Zwa dzhena nḓuni zwa ḽa zwiḽiwa zwe zwa zwi wana henefho.
+P10	Mbava dza dovha dza vhuya. Zwipuka zwa lwa nadzo.
+P11	Mbava dzo ri u shavha dzi si tsha vhuya.
+P12	Zwipuka zwa tshila zwoṱhe afho nḓuni ḽi ḽa maladze.
+
+images:
+
+illustrations/pages/8524.png
+illustrations/pages/8517.png
+illustrations/pages/8518.png
+illustrations/pages/8519.png
+illustrations/pages/8520.png
+illustrations/pages/8521.png
+illustrations/pages/8522.png
+illustrations/pages/8523.png
+illustrations/pages/8524.png
+illustrations/pages/8525.png
+illustrations/pages/8526.png
+illustrations/pages/8527.png
+illustrations/pages/8528.png
+
+translations:
+
+Afaan Oromo (Translation)	Bineensota Manaa Godaanan	id=21701
+Afrikaans (Translation)	Die ou plaashaan	id=11053
+Amharic (Translation)	ያመለጡት እንስሳት	id=21181
+Asante Twi (Translation)	Akokɔnini no	id=38062
+English (Original)	Old rooster	id=9545
+English (Adaptation)	Animals run away	id=20874
+French (Translation)	Le Vieux Coq	id=10840
+French (Translation)	Les animaux s'enfuient	id=33337
+French (Adaptation)	Le Vieux Coq	id=34689
+Fulfulde Mbororoore (Translation)	Dogguki marle	id=38245
+Fulfulde Mbororoore (Translation)	Njakaraari nayeeri	id=38281
+isiNdebele (Translation)	Iinlwana ziyabaleka	id=35217
+isiZulu (Translation)	Izilwane ziyabaleka	id=32910
+Kiswahili (Translation)	Wanyama Wanatoroka kwao	id=21074
+Lámnsoʼ (Translation)	Nyám sí léʼkirì	id=22295
+Lulamoogi (Translation)	Ebisolo okwemulula	id=24821
+Lusoga (Translation)	Ebisolo birumuka	id=25351
+Lusoga (Translation)	Obukulu ti bumanhi	id=29160
+Ng’aturkana (Translation)	Ng’Itieng Lu Apotu Tosiwakis	id=21137
+Portuguese (Translation)	Velho Galo	id=18863
+Setswana (Translation)	Diphologolo di a tshaba	id=22026
+Siswati (Translation)	Tilwane tiyabaleka	id=34458
+Thimbukushu (Translation)	Ngondovoro ghokukurupara	id=32248
+Tigrigna (Translation)	ዘምለጡ እንስሳት	id=21111
+Tunisian (Translation)	L-hwæyeċ harbu	id=36685
+Xitsonga (Translation)	Swifuwo swi baleka	id=34201

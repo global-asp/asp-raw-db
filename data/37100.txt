@@ -1,0 +1,59 @@
+url:	https://africanstorybook.org/reader.php?id=37100&d=0&a=1
+id:	37100
+title:	'n Boek oor die weer
+author:	Meryke Barkley
+artist:	Sandra McDougall
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/37100.png
+desc:	Ontdek die verskillende tipes weer en hoe ons daaroor voel.
+
+page_text:
+
+P1	Dit is droog.
+P2	Die son is warm.
+P3	Dit is winderig.
+P4	Dit is bewolk.
+P5	Dit is koud.
+P6	Dit reën.
+P7	Ek hoor donderweer!
+P8	Ek sien 'n reënboog.
+
+images:
+
+illustrations/pages/1547.png
+illustrations/pages/1547.png
+illustrations/pages/1548.png
+illustrations/pages/1549.png
+illustrations/pages/1550.png
+illustrations/pages/1551.png
+illustrations/pages/1552.png
+illustrations/pages/1553.png
+illustrations/pages/1554.png
+
+translations:
+
+Arabic (Translation)	كتاب الطقس	id=21858
+CiNyanja (Translation)	Buku la zanyengo	id=37442
+English (Original)	Weather book	id=1861
+Kaonde (Translation)	Buuku  ya butalale	id=37441
+Kiswahili (Translation)	Kitabu cha hali ya hewa	id=2209
+Luganda (Translation)	Akatabo K’Obudde	id=2210
+Lugbarati (Translation)	Buku Angumile Niri	id=2720
+Lugbarati (Official) (Translation)	Búkù Àngù Mile Nɨ́ Rɨ̀	id=8762
+Lumasaaba (Translation)	Shiitabo Shishiwaamba Khu Bwiile	id=2211
+Lusoga (Translation)	Kitabo kya Mbeera  ya Bwire	id=21268
+Lusoga (Translation)	Akatabo ke'mbeera	id=21471
+Lusoga (Translation)	Akatabo akembeera y'obwire	id=25156
+Lusoga (Adaptation)	Mbeera	id=34024
+Maa (Translation)	Impukunót Ó Oloing'áng'e	id=2415
+Nandi (Translation)	Bukit Ab Ole U Emet	id=17251
+Ng’aturkana (Translation)	Akitab Na Eboyor Akwap	id=2212
+Olukabarasi (Translation)	Eshitabu Shielihanga	id=31903
+Olukhayo (Translation)	Esitabu Sialinga	id=2213
+Oluwanga (Translation)	Eshitabu Shielihanga	id=2214
+Setswana (Translation)	Buka Ya Maemo a Bosa	id=2215
+Somali (Translation)	Ciwaan Ayaa Kama Qan	id=16763
+Spanish (Translation)	El Libro Del Clima	id=14405
+Zande (Translation)	Gu Buku Ngaga Wai Du Rago	id=17451

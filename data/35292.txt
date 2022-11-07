@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=35292&d=0&a=1
+id:	35292
+title:	Ek is nou groot
+author:	Clerissa  Kritzinger
+artist:	Jesse Breytenbach and Wiehan de Jager
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35292.png
+desc:	n Storie vir beginner-lesers om hulle te motiveer om te leer.
+
+page_text:
+
+P1	Ek kan nou my eie stories lees.
+P2	Ek ken die alfabet en ek kan skryf.
+P3	Ek hou daarvan om vrugte te eet. Dis maak my slim.
+P4	Ek speel lekker saam met my maats.
+P5	Ek wonder wat kan ek nog leer noudat ek groot is.
+
+images:
+
+illustrations/pages/9853.png
+illustrations/pages/1496.png
+illustrations/pages/1499.png
+illustrations/pages/1500.png
+illustrations/pages/1495.png
+illustrations/pages/9850.png
+
+translations:
+

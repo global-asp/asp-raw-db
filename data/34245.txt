@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=34245&d=0&a=1
+id:	34245
+title:	Thembi se familie
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34245.png
+desc:	Ontmoet Thembi en haar familie in hierdie maklike boek.
+
+page_text:
+
+P1	Ek is Thembi.
+P2	Dit is my ma.
+P3	Dit is die baba.
+P4	Dit is my pa.
+P5	Dit is my boetie.
+P6	Dit is my sussie.
+P7	Dit is my ouma.
+P8	Dit is my oupa.
+P9	Dit is my oom.
+P10	Dit is my tannie.
+P11	Dit is my familie.
+
+images:
+
+illustrations/pages/85590188.png
+illustrations/pages/85590178.png
+illustrations/pages/85590179.png
+illustrations/pages/85590180.png
+illustrations/pages/85590181.png
+illustrations/pages/85590182.png
+illustrations/pages/85590183.png
+illustrations/pages/85590184.png
+illustrations/pages/85590185.png
+illustrations/pages/85590186.png
+illustrations/pages/85590187.png
+illustrations/pages/85590188.png
+
+translations:
+
+Cinyanja (Mozambique) (Translation)	Banja la Maria	id=33828
+Cinyungwe (Translation)	Wadzindza wa Mboyi	id=33829
+Echuwabo (Translation)	Ana Amudhi a Mariya	id=33830
+English (Original)	Maria's Family	id=33152
+isiXhosa (Translation)	Usapho luka Thembi	id=33539
+Kiswahili (Translation)	Familia yangu	id=33659
+Portuguese (Translation)	A Minha Família	id=33538
+Spanish (Translation)	La familia de María	id=36327

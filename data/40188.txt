@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=40188&d=0&a=1
+id:	40188
+title:	The Wonder Boy
+author:	Zomba Library Reading Group
+artist:	Lindiwe Mtope
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40188.png
+desc:	Nzeru reads a book about how to make electricity using falling water. He sets up his own electricity making machine which lights his homestead.
+
+page_text:
+
+P1	Behind Nzeru's house, there is a small river.@The river has a waterfall.
+P2	One day Nzeru was invited by a friend to go to the library.@@There, he read a book about electricity. He read that the force of falling water can generate electricity.
+P3	At home, he looked for his father's old bicycle dynamo generator.@@He found it after a long search.
+P4	After finding the dynamo, he went to the shop to buy low energy bulbs.
+P5	He collected scrap metal and took it to the welder.@The welder made him the turbine.@@He connected the turbine to the generator with a rod. He held the turbine under the falling water. A bulb gave light.
+P6	He cleared the surrounding and made a small dam.@He then elected two planks to hold his turbine and the generator.@@The water fell on the turbine. The turbine spin.@The bulb gave light.
+P7	He extended the wires to his hut and his parents' house.@@That night onwards, the whole homestead had light.
+P8	The water kept flowing and the lights kept lighting.@The whole village called him the wonder boy.
+
+images:
+
+illustrations/pages/50850301.png
+illustrations/pages/50850302.png
+illustrations/pages/50850303.png
+illustrations/pages/50850304.png
+illustrations/pages/50850305.png
+illustrations/pages/50850306.png
+illustrations/pages/50850307.png
+illustrations/pages/50850308.png
+illustrations/pages/50850309.png
+
+translations:
+

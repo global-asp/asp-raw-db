@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=34782&d=0&a=1
+id:	34782
+title:	Amara na wanyama
+author:	Geraldine  Nanjala
+artist:	Sarah Bouwer
+lang:	Kiswahili
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34782.png
+desc:	Hii ni hadithi kuhusu msichana mmoja anayempenda mbwa wake sana kiasi kwamba angefanya chochote kumlinda.
+
+page_text:
+
+P1	Amara alikuwa na umri wa miaka tisa. Alisomea shule ya msingi ya Kerema. Masomo aliyoyaenzi mno ni Kiingereza, Sayansi na Masomo ya Jamii. @@Alitaka kuwa wakili atakapokuwa mkubwa. Amara aliwapenda wanyama sana.
+P2	Amara aliishi na mama yake, Margi. Alikuwa mkulima mwenye bidii. @@Baba yake Amara aliaga dunia alipokuwa na umri wa miaka mitano.
+P3	Wakati Amara hakuwa shuleni, alichukua muda wake kuwa na Mbisi, mbuzi. @@Alimsafisha na kumlisha.
+P4	Amara pia alikuwa na bembeleza wake, Simba. Mama yake hakuwapenda mbwa sana lakini alimruhusu Amara kumweka Simba. @@Endapo Simba angemsumbua, angefoka, "Ondoka kabla sijakupiga teke." Amara alihuzunika.
+P5	Jumamosi moja, walikuwa na wageni kutoka kwa kikundi cha akina mama. @@Amara alifurahi kuwa rafiki za mama yake walikuwa wamekuja na watoto wao. Wangecheza kandanda.
+P6	Mama yake alikuwa ameandaa chakula ambacho kikundi kilipenda. @@Amara alikumbushwa na mamaye kumfungia Simba. Aliwabwekea wageni.
+P7	Amara hakumfungia Simba vizuri. Wageni walishangaa kumwona mbwa chumbani. Mama Oto aliuliza, "Kwa nini mnamruhusu mbwa kuingia ndani ya nyumba?" @@Mama alimwita Amara aje amtoe Simba nje.
+P8	Amara hakusikia mama yake akimwita kwa sababu walikuwa na shughuli za kucheza.
+P9	Amara alipoenda ndani ya nyumba, alimwita Simba nje. Simba alikuwa mtiifu sana kwa Amara. @@Baada ya mlo, wageni walisema, "Tutawatunza pia mbwa wetu vizuri kama Amara. Tunawatesa ilhali wanatusaidia sana."
+P10	Baadaye, mama alimwomba Amara radhi kwa kuwa mchoyo na katili kwa Simba. Amara alifurahi kwa kuwa mwishowe mama yake alimkubali mbwa wake. @@Amara anapokuwa shuleni mama yake humlisha Simba. Rafiki za mama yake wamejifunza kuwa wazuri kwa mbwa wao.
+
+images:
+
+illustrations/pages/14042.png
+illustrations/pages/14037.png
+illustrations/pages/14113.png
+illustrations/pages/14040.png
+illustrations/pages/14039.png
+illustrations/pages/14062.png
+illustrations/pages/13930.png
+illustrations/pages/14055.png
+illustrations/pages/14042.png
+illustrations/pages/13697.png
+
+translations:
+
+Dhopadhola (Translation)	Amara Kodi Ogwange	id=20820
+English (Original)	Amara and animals	id=14479
+English (Adaptation)	Amara and animals	id=36108
+Luganda (Translation)	Amara Nne’Bisolo	id=21482
+Lusoga (Translation)	Amara ni Simba	id=21256
+Runyankore (Translation)	Amara N'anenyamaishwa	id=20640

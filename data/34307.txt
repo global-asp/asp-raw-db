@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34307&d=0&a=1
+id:	34307
+title:	Hoyu ndi muṱa wa ha Mara
+author:	Ndivhuho Mutsila
+artist:	Zito Jorge Ngovene
+lang:	Tshivenḓa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34307.png
+desc:	Ndi mafhungo a muṱa wa kuṅwe kusidzana
+
+page_text:
+
+P1	Hoyu ndi Mara.
+P2	Hoyu ndi muṱa wa ha Mara.
+P3	Hoyu ndi khaladzi a mara.@ @Khaladzi awe u khou tamba bola ya milenzhe.
+P4	Hoyu ndi mukomana wa Mara.@@Mukomana wawe o eḓela.
+P5	Havha ndi mme a Mara.@@Mme awe vha khou bika zwiḽiwa.
+P6	Havha ndi khotsi a Mara.@@Vha khou fhaṱa nnḓu.
+P7	Havha ndi makhulu wa Mara@@Makhulu wawe vho dzula fhasi ha muri.
+
+images:
+
+illustrations/pages/28024.png
+illustrations/pages/28018.png
+illustrations/pages/28024.png
+illustrations/pages/28019.png
+illustrations/pages/28020.png
+illustrations/pages/28021.png
+illustrations/pages/28022.png
+illustrations/pages/28023.png
+
+translations:
+
+English (Adaptation)	This is Mara's family	id=32409
+isiNdebele (Translation)	Lo mndeni kaMara	id=35216
+Sepedi (Translation)	Le ke lapa la boMara	id=32884
+Setswana (Translation)	Ba ke balelapa la ga Mara	id=32907
+Siswati (Translation)	Lona ngumndeni waMara	id=34457
+Xitsonga (Translation)	Lowu i ndyangu wa Mikateko	id=34199

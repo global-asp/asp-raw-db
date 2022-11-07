@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34698&d=0&a=1
+id:	34698
+title:	Isobho likagogo uMampinga
+author:	Thulile Gumede
+artist:	Glanice Masilo
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34698.png
+desc:	Isobho likagogo Mampinga owayehlala yedwa emzini wakhe.
+
+page_text:
+
+P1	Wake wezwa ngendawo ebizwa ngokuthi iNkangala?
+P2	Unkosikazi Dubula kanye nomyeni wakhe bahlala eNkangala. Banabantwana abahlanu.
+P3	Abafana ababili nguSobuka kanye noNjalo. Kanti amantombazane  nguNtando, uChika kanye noSabu.
+P4	Ugogo Mampinga umama omdala osekhulile, ohlala @endaweni yaseNkangala.
+P5	Umndeni wakwaDubula uyaye uvakashele ugogo uMampinga ukuze amsize.@ Bayamuthanda kakhulu.
+P6	Ugogo uMampinga ubaphekela isobho elimnandi, elakhiwe ngobhontshisi kanye nezitshalo.
+P7	Njalo uma befika kagogo, abafana ababili bayahamba bayomkhelela amanzi.
+P8	uma sebeqedile, bonke babeye bahlale phansi kwesihlahla bathokozele isobho likaGogo uMampinga.
+
+images:
+
+illustrations/pages/31520200.png
+illustrations/pages/31520201.png
+illustrations/pages/31520202.png
+illustrations/pages/31520203.png
+illustrations/pages/31520204.png
+illustrations/pages/31520205.png
+illustrations/pages/31520206.png
+illustrations/pages/31520207.png
+illustrations/pages/31520208.png
+
+translations:
+
+English (Original)	Gogo Mampingas' soup	id=33942
+Setswana (Translation)	Sopo ya ga Nkoko	id=34509

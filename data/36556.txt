@@ -1,0 +1,67 @@
+url:	https://africanstorybook.org/reader.php?id=36556&d=0&a=1
+id:	36556
+title:	Amʊ n'ambasoro
+author:	Moumouni Fafana
+artist:	Wiehan de Jager
+lang:	Anii
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36556.png
+desc:	Mbʊpá njala nɖe n tɩ lǝ atʊ gapisopi gaɖǝn nabasoro bafaawɩɩ.
+
+page_text:
+
+P1	Amʊ n'amasampǝmbʊrʊ gɩ tɩ kiɖe ambʊsapɩ́ alaŋlaŋ.
+P2	Amʊ n'ambʊsapɩ́ gɩ wa n'átò gʊyo laŋ.
+P3	Amʊ n'amátò gɩ tɩ cǝr n'amarɛ́ɛ gatǝntǝŋi laŋ.
+P4	Amʊ n'amarɛ́ɛ n'akʊná gɩ tɩ pil acitomo.
+P5	Amʊ n'amakʊná na ŋyarɩpikǝlǝkǝlǝ gɩ tɩ jɩ ɩkoɖi baa njǝŋ.
+P6	Amʊŋyarɩpikǝlǝkǝlǝ n'amakʊná ba wʊɖa abʊŋajakpa baa gʊsʊ̀rá gʊpaŋa kasampǝna.
+P7	Amʊ n'abʊŋajakpa n'ʊbu gɩ tɩ shɛʊ afal shɛlɛm.
+P8	Amʊ n'ʊbu gɩ sɔlɔ ɩshɩnʊ ɩsǝnka na yɩɖa n'atulo ŋgbaŋgǝma mbʊmbɔnɔ sul.
+P9	Amʊ n'ambasoro baŋunii gɩ ɖa ʊciŋkǝrka nɩ.
+P10	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :
+P11	www.revue-gugu.org@@+229 66 66 11 11@Téléphone et WhatsApp
+P12	L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+
+images:
+
+illustrations/pages/5216.png
+illustrations/pages/5217.png
+illustrations/pages/5218.png
+illustrations/pages/5219.png
+illustrations/pages/5232.png
+illustrations/pages/5221.png
+illustrations/pages/5220.png
+illustrations/pages/5222.png
+illustrations/pages/5223.png
+illustrations/pages/5224.png
+
+translations:
+
+Afrikaans (Translation)	Ek en my groot familie	id=11375
+English (Original)	My family and I	id=5266
+French (Translation)	Ma Famille Et Moi	id=9924
+Fulfulde (Translation)	Min E Koreeji Am	id=10003
+isiNdebele (Translation)	Mina nomndeni wami	id=35224
+isiZulu (Adaptation)	Mina nomdeni wami	id=13596
+Kanuri (Translation)	Wu-a Yallani-A	id=10032
+Kinyarwanda (Translation)	Tubana mu byishimo	id=22148
+Kiswahili (Translation)	Mimi na familia yangu	id=7871
+Luganda (Translation)	Nze N’Abenŋanda Zange	id=8295
+Lugbarati (Official) (Translation)	Má 'ɨ́ Àzɨ́nɨ Àkú Àma Vɨ́lé Rɨ̀	id=8787
+Lumasaaba (Translation)	Be mungo mwase ni samwene	id=8296
+Lunyole (Translation)	Amago Gange Ni Nange	id=8402
+Lusoga (Translation)	Amaka Gange Ni Nze	id=5267
+Maa (Translation)	Olmáréí Láí O Nánu	id=7872
+Ng’aturkana (Translation)	Awi Kang Ka Ayong	id=8450
+Oluwanga (Translation)	Oluyia Lwanje Nende Esie	id=8294
+Portuguese (Translation)	A Minha Família E Eu	id=17614
+Rutooro (Translation)	Eka  Yange  N’Anyowe	id=15219
+Sepedi (Translation)	Nna le balapa la gešo	id=10818
+Setswana (Translation)	Nna le ba lelapa la me	id=7775
+Siswati (Translation)	Mine nemndeni wami	id=34461
+Spanish (Translation)	Mi familia y yo	id=36374
+Tshivenḓa (Translation)	Nṋe na muṱa wa hashu	id=34312
+Xitsonga (Translation)	Mina na ndyangu wa mina	id=34236
+Zarma (Translation)	Ay Nda Ay Almiyaalo	id=10096

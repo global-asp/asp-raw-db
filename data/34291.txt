@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34291&d=0&a=1
+id:	34291
+title:	Ariana wants to visit Kenya
+author:	African Storybook
+artist:	Brian Wambi, Catherine Groenewald, Isaac Okwir, Jesse Breytenbach, Rob Owen and Salim Kasamba
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34291.png
+desc:	Ariana Wangari was born in America. Her mother tells her many stories about Kenya. Now Ariana wants to visit Kenya.
+
+page_text:
+
+P1	Ariana is in America.@@She wants to visit Kenya.
+P2	On the road, she will see sheep.@@She will also see boda boda bikes and tuktuks.
+P3	She will see her Kenyan relatives.
+P4	Her relatives will prepare a big celebration.@@Ariana will celebrate and be happy with them.
+P5	Ariana will play with other children.
+P6	If she goes to the market, she will see many different things.@@She will also see people dressed differently.
+P7	She will eat many fruit.@@She will eat oranges, bananas and pineapples.
+P8	Ariana will try to climb tall trees.@@She has never done that in America.
+P9	She will see farms with different crops.@@Many Kenyans are farmers.
+P10	She will visit parks and see wild animals.@@She will see a lion, an elephant, buffaloes, a giraffe, warthogs, antelopes and zebras.
+P11	She will see domestic animals like chicken, cat, goat and dove.@@In her home in America, she has two cats.
+P12	She will witness a village wedding.@@She will see people singing and dancing in a traditional way.
+P13	She will visit the Kenyan coast.@@There, she will swim in the Indian Ocean.
+P14	On Sundays, Ariana will join her relatives to go to church.
+P15	Ariana will be so happy with her visit to Kenya.
+
+images:
+
+illustrations/pages/9850.png
+illustrations/pages/9850.png
+illustrations/pages/25049.png
+illustrations/pages/18757.png
+illustrations/pages/18768.png
+illustrations/pages/9845.png
+illustrations/pages/7976.png
+illustrations/pages/9842.png
+illustrations/pages/18762.png
+illustrations/pages/25811.png
+illustrations/pages/9651.png
+illustrations/pages/25266.png
+illustrations/pages/25949.png
+illustrations/pages/9848.png
+illustrations/pages/25953.png
+illustrations/pages/9853.png
+
+translations:
+
+German (Translation)	Ariana sie möchte nach Kenia	id=34712
+Kiswahili (Original)	Ariana anataka kutembelea Kenya	id=34202

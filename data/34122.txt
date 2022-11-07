@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=34122&d=0&a=1
+id:	34122
+title:	Flowers are beautiful
+author:	Uminathi J Repinga
+artist:	
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34122.png
+desc:	This book is about flowers and different colours
+
+page_text:
+
+P1	Flowers are beautiful and bright.
+P2	Some flowers are yellow.
+P3	Some flowers are red.
+P4	Same flowers are blue.
+P5	Some flowers are green.
+P6	Some flowers are pink.
+P7	some flowers are orange.
+P8	Flowers make the world so bright and beautiful.
+
+images:
+
+illustrations/pages/78380100.png
+illustrations/pages/78380101.png
+illustrations/pages/78380102.png
+illustrations/pages/78380103.png
+illustrations/pages/78380104.png
+illustrations/pages/78380105.png
+illustrations/pages/78380106.png
+illustrations/pages/78380107.png
+illustrations/pages/78380108.png
+
+translations:
+

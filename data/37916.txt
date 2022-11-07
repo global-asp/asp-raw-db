@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=37916&d=0&a=1
+id:	37916
+title:	ሕጻኑና ወፎቹ
+author:	Mezemir Girma
+artist:	Emily Berg
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37916.png
+desc:	አንድ የወፎች መንጋ የሚያለቅስ ሕፃን አይቶ ሕፃኑን ለመውሰድ ወሰነ።
+
+page_text:
+
+P1	እናትና አባት ልጃቸውን ለትልልቅ ልጆቻቸው ትተውታል።
+P2	ትልልቆቹ ልጆች ሲጫወቱ ሕፃኑን ረስተውታል።
+P3	አንድ ቀን ወፎች በሚያቅሰው ሕፃን ትይዩ በሰማይ ላይ መጡ፡፡
+P4	ሕፃኑን ከነ ብርድልብሱ አንስተው በረሩ፡፡
+P5	እናትዮዋ አራት ወፎች ሕፃን ልጃቸውን ይዘው ሲበሩ አዩ፡፡
+P6	ወፎቹ ሕፃኑን ተንከባከቡት፡፡
+P7	ወፎቹ በሌሉበት አንዲት እንቁራሪት ሕፃኑን ዋጠችው!
+P8	ሦስት ዝንቦችን ሲሰጧት እንቁራሪቷ ሕፃኑን ለወላጆቹ መለሰችላቸው፡፡
+
+images:
+
+illustrations/pages/8485.png
+illustrations/pages/8479.png
+illustrations/pages/8482.png
+illustrations/pages/8154.png
+illustrations/pages/8156.png
+illustrations/pages/8485.png
+illustrations/pages/8484.png
+illustrations/pages/8483.png
+illustrations/pages/8486.png
+
+translations:
+
+Anii (Adaptation)	Kokoli nɖee bʊsɔmafǝla bʊ taa ma	id=39858
+English (Original)	Baby snatched by cranes	id=8487
+English (Adaptation)	Baby and cranes	id=20910
+French (Translation)	Un Bébé Enlevé Par Des Grues	id=10144
+Kiswahili (Translation)	Mtoto na Korongo	id=21150
+Kiswahili (Translation)	mtoto na korongo	id=23300
+Lámnsoʼ (Translation)	Wán Wo Vintùŋàshàʼshàʼ vi Boŋrin	id=21041
+Luganda (Translation)	Omwana Eya Nyakulibwa Ngaali	id=11903
+Persian (Afghanistan) (Translation)	نوزاد و لک لک ها	id=33595
+Sesotho (Lesotho) (Adaptation)	Ngoana ea ileng a utsua ke mamokoatatsie	id=21158
+Sesotho (South Africa) (Translation)	Ngwana ya utswitsweng ke mamokotatsie	id=33516
+Spanish (Translation)	Bebés arrebatados por la cigüeña	id=36378
+Tigrigna (Translation)	ህፃንን ዑፍን	id=21170
+Yoruba (Adaptation)	ìkókó àti ẹyẹ Àkọ̀	id=34378

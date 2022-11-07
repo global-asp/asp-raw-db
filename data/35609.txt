@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=35609&d=0&a=1
+id:	35609
+title:	Nganja jwahika kilu
+author:	Jacinto Saidine Chaúre
+artist:	Leo Daly and Magriet Brink
+lang:	Xingoni
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35609.png
+desc:	A parábola contado por Jesus em Lucas
+
+page_text:
+
+P1	Lucas 11:1-10@@Linjôva limu Ixa ata' kuxwali paxindu nana'. Pakajomo' kuxwali, kati ya vakulijigana vala jumu atenda: «Abambu, mutijigani kuxwali ngati Xuwau hivajigine kuxwali vakulijigana vaku.»
+P2	Jôno' vatendela:@«Pakuxwaly‑apa, ntenda' nana':@Atati, lihina linu litopeli. Ukoxi winu uhiki. Mutipêkehi xakulya xitu xa kila linjôva. Mutileveleli madambi gitu, ngati hitalevelela vatikoxela. Munatileki kunyengigwa ni hindu ya madambi.»
+P3	Ixa vatendela kavêna:@«Tije' tiloli, mangôta mwengapa jwavi' ni nganjamundu, jwanjauli' katikati uhiku ni kuntende':
+P4	‹Aganja, nnyahiki makati gatatu, konda ukayangu ahikite nganjawangu, ni njipi minaku xindu xa kumpêkeha.›»
+P5	«Ni jôno' kama ajangwi' nnyumba môla kutenda: ‹Munang'angahixi. Nnyangu tijigile, ne ni akaxivanangu tigolwike. Time' nakujumuka kutenda nimpêkehi hinjôpa.›»
+P6	«Ne ndenda kuntangila: Ata' anajumuki kutenda ampêkehi makati mwaha wa kuve' nganjamundu, kwa mwaha wa kuntaukila taajumuki ni tampêkehi yowa yapalitai.»
+P7	«Ndiomana ne ndenda kuntangila kutenda:@Njôpi, tampêkehi.@Mpalahai, timpati.@Mmenyi nnyangu, tanjôgoleli.»
+P8	«Konda vowa vajôpa, avi' kwapêkeha, vapalaha, avi' kupata ni vamenya, nnyangu avi' kwajôgolela.»
+
+images:
+
+illustrations/pages/27427.png
+illustrations/pages/27457.png
+illustrations/pages/27428.png
+illustrations/pages/26580.png
+illustrations/pages/26579.png
+illustrations/pages/26581.png
+illustrations/pages/26582.png
+illustrations/pages/27429.png
+illustrations/pages/15753.png
+illustrations/pages/27430.png
+
+translations:
+
+Anii (Adaptation)	Gʊsoro ŋgʊɖee gʊ kpa gajanɩ ma	id=34112
+Cinyungwe (Translation)	Xamwali Wakubwera Usiku	id=33193
+Cisena (Translation)	Xamwali Anabwera na Masiku	id=31885
+English (Original)	Friend at Night	id=31689
+Imeetto (Translation)	Mpwana Owuukhumelela Pufya	id=33192
+Portuguese (Translation)	O Amigo Que Vem à Noite	id=31884

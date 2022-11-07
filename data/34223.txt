@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=34223&d=0&a=1
+id:	34223
+title:	I Love my fruits
+author:	Zoe Cohen
+artist:	Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34223.png
+desc:	A book about fruits and how much a little girl from Africa loves them
+
+page_text:
+
+P1	Ther are lots of fruits@Like apples, bananas, grapes, kiwis and pineapples. @I love fruits.
+P2	Oh I almost forgot....@What about pears and tomatoes, @Tomatoes yes indeed they are fruits too.
+P3	I love the way fruits smell, they often smell sweet.
+P4	My favourite fruits are watermelon, cherries and lychees.@I love these fruits because they are sweet and juicy.
+P5	What's your favourite fruits and why do you love them so much?
+
+images:
+
+illustrations/pages/1500.png
+illustrations/pages/20350100.png
+illustrations/pages/20350101.png
+illustrations/pages/20350102.png
+illustrations/pages/20350103.png
+illustrations/pages/.png
+
+translations:
+

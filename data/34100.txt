@@ -1,0 +1,21 @@
+url:	https://africanstorybook.org/reader.php?id=34100&d=0&a=1
+id:	34100
+title:	The littlest chicken
+author:	Raul Luar
+artist:	Magriet Brink
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34100.png
+desc:	This is a story with an apostrophe on the first page
+
+page_text:
+
+P1	Page 1@'n
+
+images:
+
+illustrations/pages/8519.png
+
+translations:
+

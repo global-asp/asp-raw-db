@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=37563&d=0&a=1
+id:	37563
+title:	Tilwane taseveni iUganda
+author:	Thesia Zulu
+artist:	Rob Owen
+lang:	Siswati
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37563.png
+desc:	Tilwane tase Uganda
+
+page_text:
+
+P1	Leti tindlulamitsi, tinetintsamo letindze, tidla emacembe etihlahla. @unjani umbala wendlulamitsi?
+P2	Lena yiNdlovu, indlovu lendvuna inetimphondvo. tindlovu tinetindlebe letindze kanye nemphoko lomudze, tisebentisa lomphoko kukha emacembe ekudla.@unjani umbala weNdlovu?
+P3	Lena yiNgwenya, ihlala emantini emifuleni nobe emadamini. inemlomo lomkhulu futsi lomudze kanye nematinyo lamanyenti futsi lakhaliphile. unjani umbala weNgwenya?
+P4	Leli Libhubesi, linematinyo lamadze futsi lakhaliphile. libhubesi lidla inyama kuphela futsi lihlakaniphile uma litingela. unjani umbala weLibhubesi?
+P5	Lona nguDvoye, usilwane lesitsatfwa njengeluphawu lwelive iUganda. Dvoye unetinyawo letindze kanye neboya lobudze enhloko.@unjani umbala waDvoye?
+P6	Lawa ngemaBuffalo, atidlela tjani, atihlalela eceleni kwemifula naseceleni kwemadamu.@unjani umbala waDvoye?
+P7	Lawa ngema Zebra, anembala lomhlophe nalomnyama longemalayini, atidlela inyama netjani.@unjani umbala weZebra?
+P8	Nangu umhlobo lombili wetilwane. yiMphisi kanye nenyamatane. letilwane leti tinetimphondvo letihle. @tingaki timphisi kulesitfombe? unjani umbala wenyamatane?
+P9	Ngutiphi tilwane lotibonako lapha? @Titfolakala kuphi?@Ngusiphi silwane lesidliwako kuleti?
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9647.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9631.png
+illustrations/pages/9644.png
+illustrations/pages/9650.png
+illustrations/pages/9646.png
+illustrations/pages/9645.png
+
+translations:
+
+Acholi (Translation)	Lee me Uganda	id=24082
+Afrikaans (Translation)	Wilde diere	id=37398
+English (Original)	Animals of Uganda	id=9988
+English (Adaptation)	Wild Animals	id=35777
+Kumam (Translation)	Leini Me Yuganda	id=20898
+Lusoga (Translation)	Ensolo Dha Uganda	id=20391
+Lusoga (Translation)	Ebisolo bya Yuganda	id=29357

@@ -1,0 +1,69 @@
+url:	https://africanstorybook.org/reader.php?id=37106&d=0&a=1
+id:	37106
+title:	Ku ya edorobenikulu
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Brian Wambi
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37106.png
+desc:	Jaha ri endzela malume wa rona ro sungula edorobenikulu!
+
+page_text:
+
+P1	Xitichi xa mabazi edorobeni xitele hi vanhu.
+P2	Mulanguteri wa mabazi wa huwelela, "Lava yaka edorobenikulu! Ha suka sweswi!"
+P3	Vanhu va kwetlembetana ku ya nghena ebazini.
+P4	Vavasati lava nga na vana va tshama ehansi.@@Riendzo ri ta va ri lehile.
+P5	Ndzi tshamile hi le fasitereni, etlhelo ka wanuna un'wana.
+P6	Ndzi anakanya, "Ndzi ya edirobenikulu! Ndzi ta tsundzuka ekaya."
+P7	A ku ri na van'waswimawusa vo tala lava a va xavisa tinhundzu ta vona.
+P8	Vakhandziyi van'wana va xavile swilo.@@Mina a ndzi ri hava mali yo xava.
+P9	Swo na swi pfuketana, muchayeri a ba bele.@@A ku ri nkarhi wo va hi suka.
+P10	Van'waswimawusa va kwetlembetana ku lava ku chika ebazini.
+P11	"Xana ndzi ta vuya rini?" ndzi tivutisa.
+P12	A ku hisa endzeni ka bazi.@@Ndzi pfala mahlo.
+P13	Ndzi anakanya hi manana na buti wa mina ekaya.
+P14	Hi switsongo ndzi khomiwa hi vurhongo swinene.
+P15	Endzhaku ka tiawara to hlaya ndzi pfuka.@@A ku sele vanhu vatsongo ku ri va chika.
+P16	A ku ri nkarhi wo va ndzi kuma yindlu ya malume.
+
+images:
+
+illustrations/pages/15008.png
+illustrations/pages/14993.png
+illustrations/pages/14994.png
+illustrations/pages/14995.png
+illustrations/pages/14997.png
+illustrations/pages/14996.png
+illustrations/pages/14998.png
+illustrations/pages/14999.png
+illustrations/pages/15000.png
+illustrations/pages/15001.png
+illustrations/pages/15002.png
+illustrations/pages/15003.png
+illustrations/pages/15004.png
+illustrations/pages/15005.png
+illustrations/pages/15006.png
+illustrations/pages/15007.png
+illustrations/pages/15008.png
+
+translations:
+
+Arabic (Translation)	يوم تركت المنزل ذاهباً إلى المدينة	id=21879
+Dinka (Translation)	La keny gendit	id=39445
+English (Original)	Day I left home for the city	id=15029
+English (Adaptation)	Going to the city	id=21398
+English (Adaptation)	Day I left home for the city (Colour-in)	id=32549
+English (Adaptation)	Picture story 8	id=37241
+French (Translation)	Le jour où j'ai quitté le foyer pour la ville	id=33376
+isiXhosa (Translation)	Ndiya esixekweni	id=23144
+Kῖmῖῖrũ  (Translation)	Ntũkũ ῖrῖa ndaumῖre njaa mbῖtῖte taũni	id=32812
+Kidawida (Translation)	Kwenda Muzi mbaha	id=22016
+Kinyarwanda (Translation)	Umunsi navuye murugo nerekeje m'umugi	id=32568
+Kiswahili (Translation)	Siku niliyokwenda Jijini	id=15032
+Kiswahili (Translation)	Kwenda Jijini	id=21999
+Lámnsoʼ (Translation)	Du yeé ŋkàlaʼ ye kuʼùn	id=22298
+Lusoga (Translation)	Okuja mukibuga	id=25258
+Siswati (Translation)	Luhambo loluya edolobheni	id=32944
+Tshivenḓa (Translation)	U ya ḓoroboni khulwane	id=37294

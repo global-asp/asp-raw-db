@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=35197&d=0&a=1
+id:	35197
+title:	Mukhabi mukuru webhora
+author:	Emmanuel Sithole
+artist:	David J M
+lang:	ChiNdau
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35197.png
+desc:	Nyere yekukhaba bhora yakupuwa kamurumbwana senthaka.
+
+page_text:
+
+P1	Makore ekudhaya maningi kwakanasirwa nyere yekukhaba bhora.@@Pazvakazikanwa kuti kune nyere yebhora vanthu vakatakana maningi veiida veshe.
+P2	Pakatorwiwa hondo hurutu vanthu nenyika dzeshe veipenya pane nyere iyana. Nyere yainga yarashika. @Makore mazhinjitu akadarika pasina waiziya kuti iri paini. Kwaizwi yaizoonekwazve kana kwabarwa mukhabi mukuru webhora.
+P3	Pasina mukuwo wakareba pakazobarwa kamurumbwana kaizwi Nyasha. @@Nyasha kakabarirwa mumphuri yakaromboka.
+P4	Baba vaNyasha vakatamika kacho kadoko. Vasati vatamika vakakahina nyere iyana yaipenywa pashi reshe.@Pakuamba Nyasha akana zvakakatomboziya. Kaitoti nyere iyi aina mushando weinawo.
+P5	Pakakazokura kuita jaha, Nyasha kakaqaya kukhabawo bhora nevangani vako.@@Kaishamiswa ngekunyunya nekumwisa kwakaiita vangani vako mubhora.
+P6	Apapo ndipo pakakazonyumwa kuti nyere iyana yaiya nesimba pakukhaba bhora. Kakazotoqabanga kuti kaishandise kuita mare ndiyo.@Kaizobourira mai ako chitoro. Kaizofundisazve hunun'una nehukunda hwako chikora.
+P7	Kazonasa kukura Nyasha kakatozoita mukhabi mukuru webhora.@@Vanthu vamweni vakagqina ngekuti Nyasha amunthupi ngemakhabire ake ebhora. Vamweni vaiti mudzimu vamweni vakati ingirosi.
+P8	Kuguma nanyamashi apana unoriyarwa Nyasha mukhabi mukuru webhora pashi reshe.
+
+images:
+
+illustrations/pages/27832.png
+illustrations/pages/27833.png
+illustrations/pages/27834.png
+illustrations/pages/27835.png
+illustrations/pages/27836.png
+illustrations/pages/27837.png
+illustrations/pages/27838.png
+illustrations/pages/27839.png
+illustrations/pages/27832.png
+
+translations:
+
+English (Original)	Soccer star	id=32046
+isiZulu (Translation)	Ingqwele yebhola	id=32237
+Kiswahili (Translation)	Nyota wa Soka	id=32068
+Lingala (Translation)	Mobeti ya ndembo	id=32181
+Portuguese (Translation)	A Estrela do futebol	id=32209

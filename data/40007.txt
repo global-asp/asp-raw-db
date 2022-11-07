@@ -1,0 +1,28 @@
+url:	https://africanstorybook.org/reader.php?id=40007&d=0&a=1
+id:	40007
+title:	La bella
+author:	Maria Gan
+artist:	Jacob Kono
+lang:	0
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40007.png
+desc:	La historia de la jirafa y su pequeño viaje
+
+page_text:
+
+P1	Todos los días el hombre salía a la mañana
+P2	Si familia esperaba deseosa de que trajera alimento
+P3	Un día logró capturar en las trampas que había colocado; una hermosa jirafa
+P4	Pensó que le daría alimento durante un buen tiempo a su familia.
+
+images:
+
+illustrations/pages/25088.png
+illustrations/pages/25089.png
+illustrations/pages/25082.png
+illustrations/pages/25084.png
+illustrations/pages/25085.png
+
+translations:
+

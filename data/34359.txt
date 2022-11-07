@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34359&d=0&a=1
+id:	34359
+title:	Types of shoes
+author:	Siphatisiwe Patricia Ndlovu
+artist:	Patricia  Ndlovu
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34359.png
+desc:	About different types of shoes
+
+page_text:
+
+P1	There are shoes for all occasions.
+P2	Shoes for when the sun shines go 'flip-flop'.
+P3	Shoes for ladies at a party go 'clip-clop'.
+P4	Shoes for girls and boys at school go 'tough-turf'.
+P5	Shoes for daddies at work go 'shift-shaft'.
+P6	My favourite shoes are quiet and clean.@@Not like my brother's noisy, muddy boots!
+P7	My favourite shoes are prettier than my sister's smelly running shoes.@@My favourite shoes are for when I am relaxing.
+P8	These are the shoes I wear at home. @@They are soft. @@They hug my feet and go 'fush-fush'.
+
+images:
+
+illustrations/pages/93740175.png
+illustrations/pages/93740170.png
+illustrations/pages/93740171.png
+illustrations/pages/93740172.png
+illustrations/pages/93740173.png
+illustrations/pages/93740174.png
+illustrations/pages/93740176.png
+illustrations/pages/93740177.png
+illustrations/pages/93740175.png
+
+translations:
+
+isiZulu (Translation)	Izinhlobo Zezicathulo	id=34526
+Sepedi (Translation)	Mehuta ya dieta	id=34401

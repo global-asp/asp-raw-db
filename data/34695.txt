@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=34695&d=0&a=1
+id:	34695
+title:	Endleleni eya esikoleni
+author:	Thulile Gumede
+artist:	
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34695.png
+desc:	Indaba ixwayisa abantwana ngobungozi ongahlangana nabo uma uhamba wedwa uya esikoleni.
+
+page_text:
+
+P1	UThami uvuka kakhulu zonke izinsuku.
+P2	Umama kaThami uyamsiza ukulungisela ukuya esikoleni.
+P3	Isikole sikaThami sikude nasekhaya lakhe. Uhamba nabangane bakhe uma eya esikoleni.
+P4	Ngelinye ilanga, umama kaThami wavuka waya emsebenzini. Wavuka sekudlule isikhathi sokuya esikoleni. Abangane bakhe bamshiya, baya esikoleni.
+P5	UThami wayehamba yedwa edlula ehlathini.@UThami wezwa umsindo ongajwayelekile eduze kwezihlahla.
+P6	Wezwa amazwi emuva kwamahlathi. Waqala wagijima. Wagijima waze wayofika esikoleni.
+P7	UThami wangena egijima ekilasini lakhe. Uthisha wambuza kungani engena egijima.@Wachazela uthisha ngakuzwile emahlathini ngesikhathi ehamba yedwa.
+P8	Uthisha wabe esexwayisa abafundi ngobungozi bokuhamba wedwa emahlathini.@Kusukela ngalelo langa, uThami usevuka ekuseni kakhulu alungise bese ehamba nabangane bakhe.
+
+images:
+
+illustrations/pages/93740190.png
+illustrations/pages/93740188.png
+illustrations/pages/93740196.png
+illustrations/pages/93740193.png
+illustrations/pages/93740190.png
+illustrations/pages/93740191.png
+illustrations/pages/93740192.png
+illustrations/pages/93740194.png
+illustrations/pages/93740195.png
+
+translations:
+
+English (Original)	On the way to school	id=34394

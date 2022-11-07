@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34185&d=0&a=1
+id:	34185
+title:	Bira wakutaika na kobiri yakutaika
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34185.png
+desc:	Duas parábolas contado por Jesus em Lucas
+
+page_text:
+
+P1	Pamwepo Jezu adawacitira mfananizo wakuti:@—Kodi mbani wa imwe, acikhala na mabira dzana, ndipo bira m'bodzi adataika, angasiye lini makumi mapfemba na mapfemba mutsala na kutewera bira wataikayo mpaka kumugumana?
+P2	Ndipo akamugumana, ambam'kupika paphewa mwakukomedwa aciyenda kumui.
+P3	Akafika, an'cemera axamwali wace na wapafupi aciwauza kuti: "Komedwani pabodzi na ine, nakuti bira wangu omwe akhadataika ndamugumana."
+P4	Ine nin'kuuzani kuti, ni bzibodzi‐bodzi kudzulu, kun'dzawoneka kukondwa kwene‐kwene thangwe ra mtazi m'bodzi omwe anikhumbula kuposa makumi mapfemba na apfemba wakulungama omwe an'funika lini kuti akhumbule.
+P5	Ayai, kodi ni mkazi muponi omwe angakhale na kobiri khumi za ndzayaya, icitaika ibodzi,
+P6	angasaye kugasa m'bvuniko acipsaira munyumbamo ndipo aciinyang'ana bwino‐bwino mpaka kuiwona?
+P7	Ndipo akaiwona, ambacemera axamwali na wapafupi wace aciwauza kuti: "Komedwani pabodzi na ine, nakuti kobiri yangu yomwe ikhadataika ndaiwona."
+P8	Ine nin'kuuzani kuti, ni bzibodzi‐bodzi pan'dzakhala na kukomedwa pamaso pa anju wa Mulungu thangwe ra mtazi m'bodzi omwe an'khumbula.
+
+images:
+
+illustrations/pages/28089.png
+illustrations/pages/28085.png
+illustrations/pages/28088.png
+illustrations/pages/28194.png
+illustrations/pages/28089.png
+illustrations/pages/28083.png
+illustrations/pages/28084.png
+illustrations/pages/28086.png
+illustrations/pages/28090.png
+illustrations/pages/28091.png
+
+translations:
+
+Elomwe (Translation)	Epucepuche Yoorimeela ni Ekhorowa Yoorimeela	id=34186
+Emakhuwa (Translation)	Epwittipwitthi Yoomeela Musurukhu Woorimeela	id=34187
+Portuguese (Translation)	A ovelha perdida e a moeda perdida	id=34184

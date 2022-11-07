@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=34508&d=0&a=1
+id:	34508
+title:	Intandane
+author:	saajida patel
+artist:	Saajida  Patel
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34508.png
+desc:	U-Afeefah uyintandane yobhejane ohamba ngobuhlungu benhliziyo. Silindele ukusindiswa.
+
+page_text:
+
+P1	I-Afeefah ubhejane abasha abamhlope.@@AbakwaRanger bamsindise ehlathini.
+P2	Umama wakhe wabulawa ngabazingeli.@@Abagibeli bathathe I-Afeefah bayisa endaweni ephephile.
+P3	Inhliziyo ka-Afeefah yaphuka.@@Futhi, wayesaba ukuthi abazingeli bayobuya bazothatha uphondo lwayo.
+P4	Kancane kancane. U-Afeefah wenza abangane.@@Wayezizwa ephephile futhi edlala odakeni.@@Waphuza ubisi olunomsoco endlini engcwele.
+P5	Ngelinye ilanga u-Afeefah wabuza umngani wakhe u-Aaminah, "Kungani bafuna izimpondo zethu?"@@U-Aaminah waqukula,  "Bakholelwa ukuthi izimpondo zethu zingumlingo!"
+P6	"Kodwa izimpondo zethu azimlingo!' kuzikhalela u-Afeefah.@@"Cha, cha akunjalo. Izimpondo ziefana nezinwele namazipho." Kusho u- Aaminah.
+P7	U-Afeefah no-Aaminah bangabokugcina bohlobo lwabo.@@Obhejane abamhlophe bacishe baphela.@@Cishe konke kusukile emhlabeni.
+P8	Singasindisa obhejane nezinye izilwane ezicishe zaphela.@@Yini ongayenza?@@Thola okuningi!
+
+images:
+
+illustrations/pages/93740139.png
+illustrations/pages/93740139.png
+illustrations/pages/93740140.png
+illustrations/pages/93740141.png
+illustrations/pages/93740142.png
+illustrations/pages/93740143.png
+illustrations/pages/93740144.png
+illustrations/pages/93740145.png
+illustrations/pages/93740146.png
+
+translations:
+
+English (Original)	An orphan	id=34206
+Spanish (Translation)	La Huérfana	id=35719
+Tiv (Translation)	Wancôvor	id=39248
+Tshivenḓa (Translation)	Tsiwana	id=34257
+Xitsonga (Translation)	Xisiwana	id=34331

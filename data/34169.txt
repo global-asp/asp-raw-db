@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34169&d=0&a=1
+id:	34169
+title:	Oowopeliwa Efesta
+author:	Little Zebra Books
+artist:	Alzette  Prins
+lang:	Elomwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34169.png
+desc:	Um ensinamento de Jesus em Lucas 14: 1
+
+page_text:
+
+P1	Nihiku nawiichuuwa Yeesu aaya olya vaate wa muhooleli a afarisi. Yeesu aawoonneiye wi achu yaawompwe yaathanla mapuro oocicimiheya, aaloca niphwanaphwaniho nla:@—Muchu awompwa oya ofestani ya othela ahaakuve okiraathi mapuro oocicimiheya.
+P2	Akweya onamweera hiihaa amuwompe muchu oocicimiheya woopwaha weyo. Mulipa oowopa onarwa awaacamela weyo aloca ariki: "Omuvahe mpuro mulopwana ola." Weyo muru owuulaka onaya okilaathi mpuro woohisuwanyeya.
+P3	Nto weyo wawompwa oyewo, okilaathi mpuro yoole woohisuwanyeya. Hiihaa aphiya muchu yoole oowompe onamuloca ariki: "Okaacamele va nthamwene aka."
+P4	Hiihaa, onarwa okhala oocicimiheya veeri va achu oothene ari ni weyo va yoolya yeele. Tiwi yoowo oniisinnuwiha onarwa ayevihiwa, ni yoowo oniiyeviha onarwa ainuwihiwa.
+P5	Yeesu aaloca tho wa mulipa oowopa ii:@—Waarehereryaka yoolya aa ya othana nari ohiyu, ohaawope asinthamwenaa, asinnaa, ahiimaa, awaacamanaa, amuhakhu, wi awo tho yoowope ekookihaka yoolivelaa.
+P6	Nto warehererya efesta aa, waawope oohaawa, oohiwerya, oorakala ni oohoona.
+P7	Weerano hiihaa onamwaakhela yoochuwela, ntakhara awo haanono yookookiherya, nto weyo onamwaakhela yoolivelaa mwa ovinya wookhwani wa awookololowa murima.
+
+images:
+
+illustrations/pages/28092.png
+illustrations/pages/28097.png
+illustrations/pages/28100.png
+illustrations/pages/28099.png
+illustrations/pages/28096.png
+illustrations/pages/28095.png
+illustrations/pages/28093.png
+illustrations/pages/28094.png
+illustrations/pages/28098.png
+
+translations:
+
+Cinyungwe (Translation)	Wakucemeredwa pacikondweso	id=34170
+Emakhuwa (Translation)	Atthu Oolattuliwa Vaniirani	id=34167
+Portuguese (Translation)	Os Convidados da Festa	id=34168

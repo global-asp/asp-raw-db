@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=36479&d=0&a=1
+id:	36479
+title:	Mi perro Simón
+author:	Aprende Leyendo
+artist:	Tebogo Boikanyo Matshana
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36479.png
+desc:	Alguna vez has tenido un perro como este?
+
+page_text:
+
+P1	Jamás has conocido un perro tan inteligente como Simón.@@Él piensa que es humano.
+P2	Cuando me lavo los dientes, él también se los quiere lavar.
+P3	Cuando veo televisión, él también mueve sus ojos. @@Es como si entendiera todo lo que está pasando en la pantalla.
+P4	Una noche, cuando veíamos un partido de football. @@Alguien toco la puerta. @@Era mi amiga Camila.
+P5	Era bueno verla. Nos saludamos alegremente. @@Pero Camila no saludó a Simón.@@¡Se me olvidó presentarlos!
+P6	Simón estaba acostumbrado a saludar a ofreciendo su pata. @@Estaba molesto. @@Nos fuimos a sentar, pero antes de que le pudiera ofrecer una silla a Camila ¡se sentó en la silla de Simón!
+P7	El perro no iba a tolerar estos disparates. Pero no me dio tiempo de corregir la situación. @@En un parpadeo salto al regazo de Camila y le comenzó a ladrar, mirándola fijamente a los ojos.
+P8	¡Simón estaba bravo! Camila estaba confundida. @@Yo actúe con rapidez y baje a Simón de su regazo.@@Pero desde ese día Camila no ha vuelto a venir a la casa.
+
+images:
+
+illustrations/pages/91400170.png
+illustrations/pages/91400165.png
+illustrations/pages/91400166.png
+illustrations/pages/91400167.png
+illustrations/pages/91400173.png
+illustrations/pages/91400174.png
+illustrations/pages/91400170.png
+illustrations/pages/91400171.png
+illustrations/pages/91400172.png
+
+translations:
+
+English (Adaptation)	Heidi, my dog	id=33745
+Setswana (Translation)	Ntšwa ya me, Heidi	id=33752
+Tshivenḓa (Translation)	Mmbwa yanga, Heidi	id=37297
+Xitsonga (Translation)	Bovha, mbyana ya mina	id=37121

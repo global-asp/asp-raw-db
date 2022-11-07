@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=39393&d=0&a=1
+id:	39393
+title:	udumadara engge nga sagedino
+author:	Haroun Kafi and Shubo Li
+artist:	Penuel  K
+lang:	Kufo
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39393.png
+desc:	[TRANSLATION NEEDED] About a family trip to see animals.
+
+page_text:
+
+P1	kudugu medix meme kennix. @@appa meme, riye meme, ayya meme, naginye meme kerra, riye meme, a a.
+P2	kudugu medi meme kennix ngo nna ka 'bus' ngo thux kadidi u'da ma darra. @@ka 'bus' ka'do, ayya meme, nye ma ayya, riye meme, naginye meme kerra, a a.
+P3	ngo 'dix u'da ma darra anna ka 'bus'.
+P4	ngo 'dix lixvox.
+P5	ngo 'dix tigirixshix.
+P6	ngo 'dix ndagamu.
+P7	ngo 'dix mixzox. ngo shshene ngo shshene ka mixzox, 'da…
+P8	'da mizo agudu ka fa!
+
+images:
+
+illustrations/pages/85940108.png
+illustrations/pages/85940106.png
+illustrations/pages/85940107.png
+illustrations/pages/85940108.png
+illustrations/pages/85940109.png
+illustrations/pages/85940110.png
+illustrations/pages/85940111.png
+illustrations/pages/85940112.png
+illustrations/pages/85940113.png
+
+translations:
+
+Bahasa Indonesia (Translation)	Hewan yang kami lihat	id=37157
+English (Original)	Animals we saw	id=33720
+French (Translation)	Des animaux que nous avons vus	id=33844
+isiZulu (Translation)	Izilwane esazibona	id=33772
+Kiswahili (Translation)	Wanyama tulioona	id=33725
+Lingala (Translation)	Ba niama to monaka	id=33803
+Lulogoli  (Translation)	Zinyama zia kwarora	id=33728
+Sesotho (South Africa) (Translation)	Diphoofolo tseo re di boneng	id=33788
+Tshivenḓa (Translation)	Zwipuka zwe ra zwi vhona	id=37288
+Xitsonga (Translation)	Swiharhi leswi hi swi voneke	id=37108

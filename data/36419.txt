@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=36419&d=0&a=1
+id:	36419
+title:	Bebé Mosquito
+author:	Aprende Leyendo
+artist:	Peter Lebuso Boase
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36419.png
+desc:	El bebé mosquito aprende una lección importante acerca de los humanos.
+
+page_text:
+
+P1	Hace mucho, mucho tiempo, todos los animales podían hablar. @@Mamá Mosquito y Bebé Mosquito vivían en una casa.
+P2	Mamá mosquito siempre dejaba a bebé mosquito en la casa cuando iba en búsqueda de comida.
+P3	Un día, cuando Mamá Mosquito se fue de la casa, Bebé Mosquito quería ir afuera.
+P4	Cuando Mamá Mosquito regresó, se dio cuenta que su hijo no estaba.
+P5	Mamá Mosquito estaba preocupada. Bebé Mosquito estaba todo solo afuera.@@Pero en ese momento, Bebé Mosquito regreso a la casa.
+P6	Bebé Mosquito estaba muy emocionado.@@"Mamá, los humanos estaba muy felices de verme ¡Aplaudían con sus manos cada vez que pasaba cerca a ellos!"
+P7	Mamá Mosquito estaba alarmada.@@"¿Estas diciendo que estaban felices y aplaudiendo por ti?" le preguntó a su hijo.
+P8	"No estaban felices de verte ¡Estaban intentando espicharte!" explicó la mamá@@"Los humanos nunca están felices de ver mosquitos," le advirtió.
+
+images:
+
+illustrations/pages/93740269.png
+illustrations/pages/93740267.png
+illustrations/pages/93740268.png
+illustrations/pages/93740269.png
+illustrations/pages/93740270.png
+illustrations/pages/93740271.png
+illustrations/pages/93740275.png
+illustrations/pages/93740273.png
+illustrations/pages/93740274.png
+
+translations:
+
+English (Original)	Baby Mosquito	id=34542
+French (Translation)	Le Bébé Moustique	id=40171
+Pidgin English (Nigeria) (Translation)	Mosquito Pikin	id=37837
+Setswana (Translation)	Ngwana Monang	id=34675

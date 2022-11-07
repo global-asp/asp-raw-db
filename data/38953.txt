@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=38953&d=0&a=1
+id:	38953
+title:	Musa e o gato
+author:	Susana Juzarte
+artist:	Tawanda Mhandu
+lang:	Portugues
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38953.png
+desc:	Musa maltrata um gato que ele apanhou no caminho no regresso da escola.
+
+page_text:
+
+P1	Musa vive com os pais na aldeia de Kagadama, na Nigéria.@@Ele é um menino inteligente, mas é teimoso.
+P2	Musa também é um valentão. Ele bate sempre nos amigos.@@Sempre que encontra animais, também bate-lhes.
+P3	Um dia quando ele voltava da escola, ele vê um gato.@@Ele pega nele e leva-o para casa.
+P4	Quando seu pai o vê, ele diz: "Musa pare de abusar daquele gato! Leve-o de volta para onde você o encontrou."
+P5	Musa recusa-se a devolver o gato e tranca-o numa gaiola.
+P6	Enquanto ele dorme no seu quarto, naquela noite, Musa tem um sonho.@@Musa vê o gato crescendo e correndo em sua direção. Abre a boca, com os dentes afiados. Quer comê-lo!
+P7	O gato começa a engolir os pés. @@Come até os joelhos de Musa. @@Então ele acorda.
+P8	No dia seguinte, Musa devolve o gato ao local onde o encontrou.@@A partir de então, ele promete ser um bom menino.
+
+images:
+
+illustrations/pages/26349.png
+illustrations/pages/26346.png
+illustrations/pages/26347.png
+illustrations/pages/26348.png
+illustrations/pages/26349.png
+illustrations/pages/26350.png
+illustrations/pages/26351.png
+illustrations/pages/26352.png
+illustrations/pages/26353.png
+
+translations:
+
+English (Translation)	Musa and the cat	id=22325
+Fulfulde Mbororoore (Translation)	Muusa e Muusuuru	id=32092
+Hausa (Nigeria) (Original)	Musa da kyanwa	id=22324
+Kiswahili (Translation)	Musa na paka	id=22352
+Lusoga (Translation)	Musa ni puusi	id=25442

@@ -1,0 +1,71 @@
+url:	https://africanstorybook.org/reader.php?id=37124&d=0&a=1
+id:	37124
+title:	Leswi ndzi nga lahlekisa xiswona emakete
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Catherine Groenewald
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37124.png
+desc:	Jaha ri tshembisiwa nyiko yo hlamarisa hi siku ra ku tlangela tsevu wa malembe ya ku velekiwa. Kuma leswi nga humelela.
+
+page_text:
+
+P1	Tiko ra ka hina ri na timbuti.@@Ri le kule na le madorobenikulu.
+P2	Manana a ku, "Elly, hi na nyiko ya wena ya ku tlangela tsevu wa malembe ya ku velekiwa."
+P3	Manana, hahani na mina hi yimele bazi.
+P4	Ndzi tshamile ehenhla ka nenge wa manana.@@Ndzi tlele ndlela hinkwayo.
+P5	Hi fikile emakete.@@Ndzi vonile xihahampfhukaphatsa xo saseka xa wasi.
+P6	Ximawusa xin'wana a xi ri na mihandzu.@@Ndzi vutisa manana, "I ncini leswi?
+P7	Manana a hlamula, "I maapula."@@Ndzi kombela, "Ndzi kombela ku xaveriwa rin'we."
+P8	Ndzi rivala voko ra manana.@@Se mianakanyo ya mina a yi ri eka apula.
+P9	Loko ndzi heta ku dya, se a ndzi ri ndzexe.@@Ndzi sungula ku rila.
+P10	Waxinsati a ndzi teka a ndzi yisa laha a ku ri na vana van'wana.
+P11	A ndzi anakanya leswaku kumbe laha makete ku xavisiwa vana.@@Ndzi rila swinene.
+P12	Wanuna a vutisa, "U kwihi Elly?"@@Ndzi tumbela leswaku a nga ndzi voni.
+P13	Ivi rito ra manana leri ndzi ri toloveleke ri vitana, "Elly?"@@A ndzi tsakile swinene.
+P14	Hahani a humesa xihahampfhukaphatsa xo saseka.@@"I xa wena!" ku vula hahani.
+
+images:
+
+illustrations/pages/1447.png
+illustrations/pages/1448.png
+illustrations/pages/1449.png
+illustrations/pages/1450.png
+illustrations/pages/1451.png
+illustrations/pages/1452.png
+illustrations/pages/1453.png
+illustrations/pages/1454.png
+illustrations/pages/1455.png
+illustrations/pages/1456.png
+illustrations/pages/1457.png
+illustrations/pages/1458.png
+illustrations/pages/1459.png
+illustrations/pages/1460.png
+illustrations/pages/1447.png
+
+translations:
+
+Afrikaans (Translation)	My eerste dag by die mark	id=11366
+Amharic (Translation)	ገበያ ውስጥ እንዴት እንደጠፋሁ	id=37921
+English (Original)	My first day at the market	id=2109
+English (Adaptation)	How I got lost at the market	id=21449
+English (Adaptation)	How I got lost at the market	id=35413
+French (Translation)	Ma Première Visite Au Marché	id=9926
+French (Translation)	Ma Première Journée Au Marché	id=10184
+Fulfulde (Translation)	Arannde Am Juuraade Luumo	id=10010
+Gurene (Translation)	Mam Pͻsega Da'a Ko'A	id=12669
+isiNdebele (Translation)	Ilanga Lami Lokuthoma Evikilini	id=11089
+isiZulu (Translation)	Ngosuku Lwami Lokuqala Emakethe	id=11531
+Kikamba (Translation)	Mũthenya wakwa wa mbee Ndũnyũ	id=2524
+Kiswahili (Translation)	Siku niliyopotea sokoni	id=8433
+Kiswahili (Translation)	Nilivyopotea sokoni	id=21814
+Lámnsoʼ (Translation)	Kinyo ke kí-iì yiìn é bo m lày é way	id=22300
+Likpakpaanl (Translation)	Ma Jan Aawiindaal Kinyaŋ Ni	id=18780
+Luganda (Translation)	Olunaku Lwe Nasooka Okugenda Mu Katale	id=2525
+Lusoga (Translation)	Nabulira ntya mu kiya	id=25924
+Ng’aturkana (Translation)	Akwaar kang na eking'aren alomaket	id=7063
+Portuguese (Translation)	O Meu Primeiro Dia No Mercado	id=18861
+Sabinyi (Translation)	Lee chaabate amu maakt	id=23795
+Tshivenḓa (Translation)	Nḓila ye nda xela ngayo makete	id=37298
+Zarma (Translation)	Ay Habu Koyyaŋ Sintina	id=10101

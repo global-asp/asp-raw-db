@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=36028&d=0&a=1
+id:	36028
+title:	Let's dive!
+author:	Eric  Khorombi
+artist:	Rajiv  Eipe
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36028.png
+desc:	This story explores a tropical sea world seen by two divers. It encourages readers to look carefully at the storybook pictures and travel on a journey under the ocean to learn about some of the animals there. It was inspired byDive!
+
+page_text:
+
+P1	What do you see in this picture? @@There is a small motor boat sailing on the sea. @@Those people on board are going to dive. They will be diving under the surface of the sea.@@They will visit the world under water.
+P2	They are preparing to dive. @@They need to carry tanks with oxygen in order to breathe while they are diving.@ @Oxygen tanks and other special equipment will help them to breathe while they swim under water. @@Are you ready to dive with them?
+P3	Our friends have dived below the surface of the ocean. Can you see the boat above them?@@They wore swimming goggles to prevent water from getting in their eyes. The goggles help them to see clearly under water.
+P4	Look! It's amazing what you can see under the water! @@Look at the patterns and colours of the different fishes around the corals.@@Look at the many shapes of the corals. @@Corals are also a type of animal, although they look more like plants.
+P5	The divers are very careful of this spiny fish! They don't swim near to it.@@It is very dangerous. The spines on this fish are poisonous.@@What else can you see in this picture?
+P6	Look very carefully at the middle of this picture.@@There is something hiding there. It is an octopus. It blends in with the colours and shapes around it. @@Look at the next page to see the octopus swimming.
+P7	These fish are sharks. Some types of sharks will eat humans, but not this type!@@This type of shark is harmless. The divers swim near the sharks. @@It is nearly time to head back to the boat. The oxygen tanks are running low on oxygen.
+P8	For a while, the divers swim along with a turtle.@@Then the turtle decides to eat a sea sponge for lunch. @@The divers continue on their way to the boat, which is waiting for them where they first dived into the water.
+P9	Look at these bright striped fish! Be careful of the anemone where the fish live.@@Anemones can sting us with their poisonous tentacles. But a human touch is also harmful to an anemone!
+P10	Our friends have reached the boat. They will return to the surface of the water.@@Can you see the ripples in the water from the boat far above them?@@It is time to leave this underwater world. Our dive has come to an end.
+P11	That dive was wonderful!
+
+images:
+
+illustrations/pages/93740870.png
+illustrations/pages/93740868.png
+illustrations/pages/93740869.png
+illustrations/pages/93740870.png
+illustrations/pages/93740871.png
+illustrations/pages/93740872.png
+illustrations/pages/93740873.png
+illustrations/pages/93740874.png
+illustrations/pages/93740875.png
+illustrations/pages/93740876.png
+illustrations/pages/93740877.png
+illustrations/pages/93740879.png
+illustrations/pages/93740878.png
+
+translations:
+
+Tshivenḓa (Original)	Kha ri die tshinwi!	id=36027

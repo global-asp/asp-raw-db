@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=40200&d=0&a=1
+id:	40200
+title:	Cirgu e Lelwa
+author:	Albert BLANGAR
+artist:	Isaac Okwir
+lang:	Fulfulde
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40200.png
+desc:	Cirgu e lelwa kunake ngam waɗugo soobaaku. Ammaa soobaaku ɗum neeɓaayi
+
+page_text:
+
+P1	Koo ndeye cirgu yiɗi nanngugo lelwa.
+P2	Koo ndeye lelwa sobtoo cirgu.
+P3	Nyalaande feere, cirgu noddi lelwa, "Sey coobootiren. Ko nyaamaymi min, an a nyaamataaɗum. Naaʼ en haɓidooɓe."
+P4	Lelwa yerdake. Cirgu sey wiʼi, "En kunoo en soobiraaɓe. To gooto men yewii alkawal, ɓinngel muʼum maayay."
+P5	Ɗi kunii, ɗi coobira. Jemma, lelwa waaloo ley lekki, cirgu boo e dow lekki kin.
+P6	Yeeso seɗɗa, lelwa tekki. Cirgu boo laafi.
+P7	Cirgu nanii suuno nyaamugo lelwa tekkunga. Cirgu wiʼi, "Mi faalaaki alkawal ngam mi walaa ɓinngel."
+P8	Cirgu diwi jippii ngam nanngugo lelwa. Sey cirgu ɗaggi hakkunde lice leɗɗe.
+P9	Lelwa boo hultori. Nga diwi,  nga woya, "Bee! Bee!"
+P10	Cirgu torake wiʼii, "Soobaajo am, wallitam! En kunake gewuɗo alkawal fuu sooyay ɓiyum."
+P11	Lelwa nootii, "Hakkilaayi, danyooɓe maaɗa kunii, naaʼ an! An anndi."
+
+images:
+
+illustrations/pages/17309.png
+illustrations/pages/17306.png
+illustrations/pages/17307.png
+illustrations/pages/17309.png
+illustrations/pages/17310.png
+illustrations/pages/17311.png
+illustrations/pages/17312.png
+illustrations/pages/17313.png
+illustrations/pages/17314.png
+illustrations/pages/17315.png
+illustrations/pages/17316.png
+illustrations/pages/17317.png
+
+translations:
+
+Amharic (Translation)	ነብርና ሚዳቋ	id=17660
+Asante Twi (Translation)	Etwie ne Adowa	id=34863
+English (Original)	Leopard and Antelope	id=17659
+Fulfulde Mbororoore (Translation)	Cirgu e Lelwa	id=32096
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=22072
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=34819
+Kiswahili (Translation)	Chui na Swara	id=22084
+Nupe (Translation)	Nᾱἠpᾱ bệ Ὲlớgỉ	id=34859
+Urhobo (Translation)	Ẹdjẹnẹkpo v' Akora	id=35199
+Yoruba (Translation)	Amọtékun áti Adááko	id=34894

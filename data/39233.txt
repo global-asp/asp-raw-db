@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=39233&d=0&a=1
+id:	39233
+title:	Agbande a Kuhwan Tsegher
+author:	Terkule Aorabee
+artist:	Salim Kasamba
+lang:	Tiv
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39233.png
+desc:	Ka nyi u fe sha kwagh u agbande a kuhwana?
+
+page_text:
+
+P1	Kasev kpaa ma koho agbanda? @@Hen ivese ne kpaa, kwase ngu kuhwan gbande.
+P2	Ken ya kpa ka i kuhwa agbande.@@ Mba wan iyol i yemen iniongu.
+P3	Ken ityev kpa agbande nga a yar tom. @@Mba eren tom ne sha atsam atsam je.
+P4	Ken mzough kpaa agbande nga ne msaaniyol. @@Mbamaren asev kpa soo ityoughlov kpishi. Mba van mzough saa-saa.
+P5	Kwase ne ngu kuhwan gbande yilan ior ve va msen. @@Saan mbayev iyol kpishi.
+P6	Amar nga maan iyol ka mkoho u agbande.@@ Amar sende iyol hegen.
+
+images:
+
+illustrations/pages/25948.png
+illustrations/pages/25949.png
+illustrations/pages/25950.png
+illustrations/pages/25951.png
+illustrations/pages/25952.png
+illustrations/pages/25953.png
+illustrations/pages/25954.png
+
+translations:
+
+English (Original)	All about drums	id=32510

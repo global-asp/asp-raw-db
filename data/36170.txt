@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=36170&d=0&a=1
+id:	36170
+title:	Bʊpisopi bʊnyɩʊ bʊ tɩ ci akɔmɔ
+author:	Salimatou  Bababody
+artist:	Bronwen Heath
+lang:	Anii
+level:	First sentences
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/36170.png
+desc:	Mbʊpá njala nnɖe n tɩ taba atʊ akala kaŋkɔnta nleeka.
+
+page_text:
+
+P1	Bɛn na Tamiimu ba lee arɛ̀ n'apar na naa naa ci akɔmɔ.
+P2	Na Maamɩ a lee akalajala tǝb naa aɖʊ ɩ pɛrɛtɩ ɖǝn nɩ atǝr tebiri laŋ.
+P3	Bɛn a laa ŋkala njala nɖǝn na Tamiimu a laa ɩnyɩʊ.
+P4	Bɛn a kɔɔ laa akalajala ɩnan, Tamiimu a laa ɩnyɩʊ.
+P5	Akala baɩ na Bɛn a jɩ ?@@Akala baɩ na Tamiimu a jɩ ?@@Akala baɩ ɩ saa ka ashee Maamɩ ?
+P6	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :
+P7	www.revue-gugu.org@@+229 66 66 11 11@Téléphone et WhatsApp
+P8	L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+P9	Mbʊpá njala nnɖe n tɩ taba atʊ akala kaŋkɔnta nleeka.
+
+images:
+
+illustrations/pages/1717.png
+illustrations/pages/1717.png
+illustrations/pages/1718.png
+illustrations/pages/1719.png
+illustrations/pages/1720.png
+illustrations/pages/1799.png
+
+translations:
+
+Aringati (Translation)	Ãbị́rị́ Ndẽ Anzị Ị̃rị̃ Kí Rá	id=7528
+Ateso (Translation)	Isap Iyarei Lu Eyarit Etengei	id=2999
+English (Original)	Two hungry boys	id=1800
+French (Translation)	Deux gamins affamés	id=33450
+Lubukusu (Translation)	Basoleli Babili Be Njala	id=2399
+Luganda (Translation)	Abalenzi Ababiri Abayala	id=2400
+Lugbarati (Translation)	Anzi Iri Abiri Ni Nde Ra `diyi	id=2719
+Lugbarati (Official) (Translation)	Anzɨ Ìrì Àbírí Nɨ́ Fulé Káyɨ̀ 'dɨ̀yɨ	id=8800
+Lumasaaba (Translation)	Basooleli Babili Be Ntsala	id=2401
+Lunyole (Translation)	Abaseere Babiri Abayala	id=2402
+Lusoga (Translation)	Abaisuka ababiri abayala	id=26108

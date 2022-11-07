@@ -1,0 +1,89 @@
+url:	https://africanstorybook.org/reader.php?id=34555&d=0&a=1
+id:	34555
+title:	Singe et Crocodile
+author:	Diapalante    and Mouhamed  Cisse
+artist:	Abraham Muzee
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34555.png
+desc:	Cette histoire nous montre comment Singe a réussi pour ne pas être mangé par le crocodile.
+
+page_text:
+
+P1	Singe rencontre Crocodile au bord du lac.
+P2	"Tu habites où ?" demande Singe. "Dans le lac" dit Crocodile.
+P3	"Tu habites où ?" demande Crocodile. "Dans les arbres" dit Singe.
+P4	"Peux-tu nager ?" demande Crocodile.
+P5	"Non, Je peux pas nager" dit Singe. "Je peux t'apprendre à nager"
+P6	"Nous sommes des amis. N'aie pas peur" dit Crocodile.
+P7	"Singe, mon oncle est malade. Il a besoin de la viande" dit Crocodile.
+P8	Singe a très peur. Est-ce que l'oncle du Crocodile va le manger ?
+P9	Singe veut s'échapper du Crocodile.
+P10	Singe a une idée.
+P11	"Je donnerai mon cœur pour lui," promet Singe
+P12	"Mon cœur est sur un arbre sur la terre."
+P13	"Va tu emmener ton cœur ? " demande Crocodile. @"Oui," dit Singe.
+P14	Crocodile nage jusqu'à la terre. Singe cours et monte sur les arbres.
+P15	"Tu n'es pas mon ami. Tu m'as menti." dit Crocodile.
+P16	"Nous ne sommes pas des amis. Tu veux me tuer," dit Singe.
+
+images:
+
+illustrations/pages/19079.png
+illustrations/pages/19075.png
+illustrations/pages/19076.png
+illustrations/pages/19077.png
+illustrations/pages/19078.png
+illustrations/pages/19079.png
+illustrations/pages/19080.png
+illustrations/pages/19081.png
+illustrations/pages/19082.png
+illustrations/pages/19083.png
+illustrations/pages/19084.png
+illustrations/pages/19085.png
+illustrations/pages/19086.png
+illustrations/pages/19087.png
+illustrations/pages/19088.png
+illustrations/pages/19089.png
+illustrations/pages/19090.png
+
+translations:
+
+Acholi (Translation)	Nyang ki Gunya	id=23302
+Acholi (Translation)	AYOM KI NYANG	id=23729
+Afaan Oromo (Original)	Qamaleefi Naacha	id=19146
+Afaan Oromo (Translation)	Qamalefi Naacha	id=20422
+Amharic (Translation)	ጦጣና አዞ	id=20445
+Chichewa (Translation)	Nyani ndi Ng'ona	id=34530
+English (Translation)	Ape and Crocodile	id=19147
+English (Adaptation)	Ape and Crocodile (Colour-in)	id=19166
+English (Adaptation)	Ape and Crocodile	id=19749
+French (Translation)	Singe et crocodile	id=23682
+Hausa (Nigeria) (Translation)	Labarin Biri da Kada	id=20538
+Hausa (Nigeria) (Adaptation)	Ape and Crocodile	id=36137
+IciBemba (Translation)	Kolwe Ne N'gwena	id=20869
+isiZulu (Translation)	UNkawu noNgwenya	id=20716
+isiZulu (Translation)	UNkawu noNgwenya (Colour-in)	id=33305
+Kanuri (Translation)	Dagǝl Bulongu-a Karam–a	id=32286
+Kikamba (Translation)	Nguli Na King'ang'í	id=21193
+Kinyarwanda (Translation)	Inkende n'ingona	id=20223
+Kinyarwanda (Adaptation)	Inkende n'ingona	id=22710
+Kiswahili (Translation)	Sokwe na Mamba	id=20374
+Kumam (Translation)	Onger Kede Nyang	id=20568
+Lámnsoʼ (Translation)	Kibùʼ wùn à Ngàyí	id=22291
+Luganda (Translation)	Ezike ne Gonya	id=22991
+Luganda (Translation)	Wazzike ne Waggoonya	id=23728
+Lusoga (Translation)	Wairike ni Gonya	id=22716
+Lusoga (Translation)	Nguge ni Wangoina	id=29297
+Ng’aturkana (Translation)	Echom Ka Akinyang	id=20402
+Oluwanga (Translation)	Libungwe Nende Ikwena	id=20343
+Otuho (Translation)	Amôlôŋ iko Eenyiaŋ	id=39278
+Runyankore (Translation)	(erangi omunda)empundu na gonya?	id=24124
+Siswati (Translation)	Imfene neNgwenya	id=32956
+Spanish (Translation)	El mono y el cocodrilo	id=35535
+Thimbukushu (Translation)	Shoko naNgandu	id=31528
+Tiv (Translation)	Ikya man Ambe	id=23886
+TjiKalanga (Translation)	Gudo naNgwena	id=35274
+Tunisian (Translation)	L-qerd wet-temsæħ	id=36688
+Xitsonga (Translation)	Mfenhe na Ngwenya	id=34336

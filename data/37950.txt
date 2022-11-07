@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=37950&d=0&a=1
+id:	37950
+title:	Bingu ndi Mphenzi
+author:	Peter  Msaka
+artist:	Jesse Breytenbach
+lang:	ChiChewa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37950.png
+desc:	Bingu ndi mwana wake
+
+page_text:
+
+P1	Kalekale, Bingu ndi Mphenzi zimakhala pa dziko lapansi limodzi ndi anthu.
+P2	Bingu anali mayi wa Mphenzi.
+P3	Mphenzi anali wokwiya msanga ndipo kawilikawili amakangana ndi ena.
+P4	Nthawi zonse Mphenzi akakwiya amanka akuyatsa nyumba ndi kugwetsa mitengo.@@Amachita phokoso loopsa, "Pha-pha-la-la-la, pha-pha-la-la-la!" @@Amawononga minda, komanso amatha kupha anthu.
+P5	Nthawi zonse Mphenzi akachita zimenezi, amayi ake amamuitana ndi mawu okuwa kwambiri, "Phomu! Gu-gu-lu-lu-lu, Phomu!"@@Amayesetsa kumuletsa kuononga zinthu.
+P6	Koma Mphenzi samalabada za zimene mayi ake amanena.@@Amasowetsa mtendere aliyense akakwiya.
+P7	Zinafika poti anthu anakadandaula kwa amfumu.
+P8	Amfumu analamula kuti Bingu ndi mwana wake achoke m'mudzi muja. @@Anawathamangitsira kutali ndi nyumba za anthu.
+P9	Izi sizinathandize kwenikweni. Mphenzi akakwiya amatenthabe nkhalango, "Pha-pha-la-la-la, pha-pha-la-la-la!" @@Malawi amoto nthawi zina amayambukira kuminda ndi kuyambitsa moto wowononga.
+P10	Kotero, anthu anakadandaulanso kwa amfumu.
+P11	Tsopano, amfumu analamula Mphenzi ndi Bingu kuti asakhalenso padziko la pansi.@@Anawalamula kuti azikakhala mlengalenga, kumene sakanaononganso zinthu kwambiri.
+P12	Kuchokera nthawi imeneyo, Mphenzi akakwiya, amatha kutentha ndi kuwononga zinthu, "Pha-pha-la-la-la, pha-pha-la-la-la!"@@Komanso timamvanso mayi ake, Bingu, akumukalipira, "Phomu! Gu-gu-lu-lu-lu, Phomu!"
+
+images:
+
+illustrations/pages/19056.png
+illustrations/pages/19042.png
+illustrations/pages/19044.png
+illustrations/pages/19046.png
+illustrations/pages/19047.png
+illustrations/pages/19048.png
+illustrations/pages/19050.png
+illustrations/pages/19051.png
+illustrations/pages/19052.png
+illustrations/pages/19053.png
+illustrations/pages/19054.png
+illustrations/pages/19055.png
+illustrations/pages/19056.png
+
+translations:
+
+Ateso (Translation)	Eiresi Keda Okokuke	id=21042
+Dhopadhola (Original)	Mor Koth Kodi Lith Koth	id=19073
+English (Translation)	Thunder and Lightning	id=19074
+English (Adaptation)	Thunder and her son	id=20889
+English (Adaptation)	Picture story 7	id=37266
+Kinyarwanda (Translation)	Nkuba na Mirabyo	id=22137
+Kiswahili (Translation)	Ngurumo na Radi	id=19092
+Kiswahili (Translation)	Ngurumo na mwanawe Radi	id=21141
+Lusoga (Translation)	Lukuba ni Lumyanso	id=27502
+Ng’aturkana (Translation)	Agirokin Ka Lokookeng	id=21128
+Tigrigna (Translation)	ነጎዳ ምስ ወዳ 	id=21172

@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=39997&d=0&a=1
+id:	39997
+title:	Imhuka, imhuka
+author:	Milton  Nyathi
+artist:	Rob Owen, Sandy Campbell and Wiehan de Jager
+lang:	ChiNambya
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39997.png
+desc:	Kupenyengula lubhancho lwemhuka kubanhu mubugalo bwabo.
+
+page_text:
+
+P1	Bona imhuka jatinolela mumizi yedu.
+P2	Ingombe inotipa unkaka.
+P3	Tudwidwi notungowe tunoda kugala pelyo nabanhu.
+P4	Ibhiza linoti, "Neiii."
+P5	Ingombe nembuji jinoshinga kulipa malobolo ku Uganda.
+P6	Ihuku inoti, "Kwiyoo! Kwiyoo!"
+P7	Imbwa inoshinga kulinda unzi.
+P8	Undimi unolinga imhuka jose yeji.
+
+images:
+
+illustrations/pages/1747.png
+illustrations/pages/1749.png
+illustrations/pages/7940.png
+illustrations/pages/9577.png
+illustrations/pages/1752.png
+illustrations/pages/5824.png
+illustrations/pages/1754.png
+illustrations/pages/1755.png
+illustrations/pages/1757.png
+
+translations:
+
+English (Adaptation)	Look at Our Animals	id=10258
+English (Adaptation)	Animals, Animals	id=10260
+French (Translation)	Les animaux, Les animaux	id=33449
+Fulfulde Mbororoore (Translation)	Dabbaaji Wuro	id=32014
+Hausa (Nigeria) (Translation)	Dabbobi - Dabbobi	id=20866
+Hausa (Nigeria) (Adaptation)	Dabbobi - Dabbobi	id=36135
+Lulamoogi (Translation)	Ebisolo,Ebisolo	id=25249
+Lusoga (Translation)	Bona ensolo dhaife	id=28408
+Sesotho (South Africa) (Translation)	Diphoofolo, diphoofolo	id=32720

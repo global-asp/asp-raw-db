@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=38830&d=0&a=1
+id:	38830
+title:	Ekwa! Modumo wa Sepedi 1
+author:	Diana  Tebeila
+artist:	Diana  Tebeila
+lang:	Sepedi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38830.png
+desc:	Puku ye e ka ga modumo wa tlhaka-tee ya go tšwa dialfabeteng tša Sepedi ka go lemoga modumo wa mathomo
+
+page_text:
+
+P1	a@@aga @@e @@ema
+P2	i @@iša @@o@@oli
+P3	u@@mobu @@i@@bina
+P4	d@@dula @@f@@fepa
+P5	g@@gama @@h@@hema
+P6	j@@jase @@k@@kobo
+P7	l@@loma @@m@@mae
+P8	n@@noga @@p@@pula
+P9	r@@roka @@s@@sesi
+P10	t@@tala@@w@@wele
+P11	y@@yo @@š@@šaka
+
+images:
+
+illustrations/pages/6012001035.png
+illustrations/pages/6012001024.png
+illustrations/pages/6012001025.png
+illustrations/pages/6012001026.png
+illustrations/pages/6012001027.png
+illustrations/pages/6012001028.png
+illustrations/pages/6012001029.png
+illustrations/pages/6012001030.png
+illustrations/pages/6012001031.png
+illustrations/pages/6012001032.png
+illustrations/pages/6012001033.png
+illustrations/pages/6012001034.png
+illustrations/pages/6012001035.png
+
+translations:
+
+Sepedi (Adaptation)	Ekwa! Modumo wa Sepedi 2	id=39193

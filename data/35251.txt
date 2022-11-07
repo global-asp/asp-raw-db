@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=35251&d=0&a=1
+id:	35251
+title:	Grandfather was ill
+author:	African Storybook
+artist:	Leo Daly and Magriet Brink
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35251.png
+desc:	Follow a little girl and her family as they cope with the coronavirus.
+
+page_text:
+
+P1	I always wear a mask when I go out.@@A mask protects me. And it protects others.
+P2	I wash my hands with soap and water before I leave home.@@And when I arrive home, too.
+P3	When I greet my friend, we only touch our elbows!
+P4	My grandfather was very sick. He went to hospital.@@Dad called every day for news about grandfather.
+P5	Grandfather was fit and healthy before he got sick.@@He got better.
+P6	Then, my brother started coughing.@@"My throat is sore," he said.
+P7	"Cough into your elbow!" said auntie.@@"Wear a mask. Keep your distance! Stay in your bed!" she told him.
+P8	So, my brother stayed in his bed and read.
+
+images:
+
+illustrations/pages/93740490.png
+illustrations/pages/93740490.png
+illustrations/pages/93740486.png
+illustrations/pages/93740487.png
+illustrations/pages/93740482.png
+illustrations/pages/93740489.png
+illustrations/pages/93740480.png
+illustrations/pages/93740481.png
+illustrations/pages/93740485.png
+
+translations:
+
+Afrikaans (Translation)	Oupa was siek	id=35795
+Babanki (Translation)	Tì̀ʼ ə tìʼ ə yes ə nkwaʼa	id=36981
+English (Original)	Granddad is Sick	id=35249
+Kom (Translation)	Bò bò wom ti nà ko'i-à	id=40143
+Oshikwanyama (Translation)	Tatekulu okwa li ta vele	id=37055
+Otuho (Translation)	Oŋuaî nyia hohonyi hoŋ	id=35464
+TjiKalanga (Translation)	Batategulu bakabegwala	id=35266

@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=36463&d=0&a=1
+id:	36463
+title:	Flores
+author:	Aprende Leyendo
+artist:	Jonathan Field, Rob Owen and Wiehan de Jager
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36463.png
+desc:	Una historia acerca de las flores de nuestra comunidad.
+
+page_text:
+
+P1	Hace un tiempo vivía una niña en el pueblo de San Juan llamada Leo.
+P2	A ella le gustaban mucho las flores. Un día ella fue a recoger agua del río Magadalena.
+P3	Yendo al río, encontró unas flores que le gustaban mucho ¡Woooooooow! dijo ella.
+P4	Cuando ella regreso, le dijo a su mamá que plantaran flores en su casa.
+P5	En la iglesia también vemos flores.
+P6	En nuestros vestidos también hay flores.
+P7	En nuestros zapatos encontramos flores.
+P8	A todos nos gustan las flores.
+
+images:
+
+illustrations/pages/9002.png
+illustrations/pages/9500.png
+illustrations/pages/6577.png
+illustrations/pages/9003.png
+illustrations/pages/9000.png
+illustrations/pages/9457.png
+illustrations/pages/6723.png
+illustrations/pages/6700.png
+illustrations/pages/7987.png
+
+translations:
+
+Dholuo (Translation)	Mafua	id=15197
+English (Original)	Flowers	id=9702
+Ma'di (Translation)	Ofu	id=16755

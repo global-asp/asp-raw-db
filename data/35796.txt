@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=35796&d=0&a=1
+id:	35796
+title:	Ek voel bekommerd
+author:	Magdaleen  Du Toit
+artist:	Marleen Visser
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35796.png
+desc:	Hoe gemaak wanneer jy bekommerd en alleen voel tydens die corona-virus-pandemie?
+
+page_text:
+
+P1	Hulle het die skole gesluit en ons huis toe gestuur.
+P2	Ons mag nie met ander kinders speel nie.
+P3	Ek mis my maats.
+P4	Ek mis die skool.
+P5	Mamma is bekommerd oor my oom.@@Hy is siek in die hospitaal.
+P6	Ons ouers is oor alles bekommerd.
+P7	Almal is bekommerd dat hulle sal siek word van hierdie virus.
+P8	Ons hoor net heeldag van die corona-virus!@@Ek wens dit wil weggaan!
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740449.png
+illustrations/pages/93740447.png
+illustrations/pages/93740452.png
+illustrations/pages/93740451.png
+illustrations/pages/93740446.png
+illustrations/pages/93740442.png
+illustrations/pages/93740444.png
+illustrations/pages/93740440.png
+
+translations:
+
+English (Original)	I Feel Alone	id=35221
+English (Adaptation)	I feel worried	id=35252
+isiXhosa (Translation)	Ndiziva ndindedwa	id=35285
+Kiswahili (Translation)	Nina wasiwasi	id=35279
+Otuho (Translation)	Abotihino nî	id=35492
+Spanish (Translation)	Me siento preocupado	id=36331
+Tiv (Translation)	Zam Iyol	id=35558
+TjiKalanga (Translation)	Andizogadzikana	id=35258
+TjiKalanga (Translation)	Ndozwiwha ndili ndoga	id=35260

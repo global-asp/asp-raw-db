@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=40216&d=0&a=1
+id:	40216
+title:	Fana e os seus animais
+author:	Susana Juzarte
+artist:	Jesse Breytenbach
+lang:	Portugues
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40216.png
+desc:	Fana adora animais. Ela passa tempo com eles
+
+page_text:
+
+P1	Fana e a sua família moram em Debre Birhan, uma cidade movimentada na Etiópia. Fana é uma estudante do 3º ano.@@Ela tem bom coração e é sábia.
+P2	Fana adora animais. Ela tem um gato, duas galinhas, uma cabra e uma pomba.@@Ela passa o tempo com esses animais, alimentando-os e brincando com eles.
+P3	Um dia, Fana estava a brincar no pátio da escola com seus amigos.@@Ela notou algumas crianças a atirar pedras às pombas. "Por que eles estão a magoar as pombas?"  perguntou.
+P4	Ela parou de brincar e correu em direção às crianças que estavam a atirar pedras.@@No início os seus amigos não entenderam o que estava a acontecer, então eles seguiram-na.@@"Pare de atirar pedras!" gritou Fana.
+P5	As outras crianças fugiram.@@Fana pegou nas duas pombas feridas. Ela viu feridas nas suas asas.@@E decidiu levar as duas pombas para casa para cuidar delas.
+P6	Ela alimentou as pombas. À noite, ela contou à família como salvou as pombas.
+P7	De manhã, Fana e seus pais foram à clínica e compraram remédios para as pombas.@@Depois de alguns dias, as feridas das pombas cicatrizaram. Fana sentiu-se muito feliz.
+P8	Fana  diz sempre aos amigos: "Adoro os animais. Os animais ajudam-nos e são nossos amigos. Devemos protegê-los e preservá-los".
+
+images:
+
+illustrations/pages/25266.png
+illustrations/pages/25265.png
+illustrations/pages/25266.png
+illustrations/pages/25267.png
+illustrations/pages/25268.png
+illustrations/pages/25269.png
+illustrations/pages/25270.png
+illustrations/pages/25271.png
+illustrations/pages/25272.png
+
+translations:
+
+Amharic (Translation)	ፋናና እንስሶቿ	id=21022
+English (Original)	Fana and her animals	id=21004
+English (Adaptation)	Fana and her animals (Colour-in)	id=21005
+English (Adaptation)	Fana loves animals	id=21396
+French (Translation)	Fama aime les animaux	id=34664
+isiNdebele (Translation)	UFana neenlwana zakhe	id=35238
+Kanuri (Translation)	Kurram-a Dabbawanzǝ-a	id=24765
+Kinyarwanda (Translation)	Furaha n'amatungo ye	id=23923
+Kiswahili (Translation)	Fana na wanyama wake	id=21006
+Kiswahili (Translation)	Fana anawapenda wanyama	id=21998
+Kiswahili (Adaptation)	Fana na wanyama wake (Paka rangi)	id=33354
+Luganda (Translation)	Fana n'ebisolo bye	id=23599
+Lugbarati (Translation)	Fana azini i ma anyapa be	id=24531
+Lulamoogi (Translation)	Mbasalaki ataka inho ebisolo	id=24828
+Lusoga (Translation)	Faanana  n'ebisolobye	id=25086
+Rukiga (Translation)	Fana arakunda e'nyamishwa	id=24413
+Rukiga (Translation)	Fana ne bisholo byeye	id=24592
+Rukiga (Translation)	Fana arakunda enyamaishwa	id=34735
+Runyankore (Translation)	Fana nakunda ebyikoko	id=23245
+Runyankore (Translation)	Fana ne nyamishwa ze	id=24112
+Sepedi (Translation)	Fana o rata diphoofolo	id=32906
+Sepedi (Translation)	Fana o rata diphoofolo (Colour-in)	id=33310
+Siswati (Translation)	Fana netilwane takhe	id=34478
+Spanish (Translation)	Fana ama los animales	id=36359
+Tiv (Translation)	Fana soo aninyamev	id=40198
+Tshivenḓa (Translation)	Fana na zwifuwo zwawe	id=34258
+Xitsonga (Translation)	Halima na swifuwo swa yena	id=34332

@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=37246&d=0&a=1
+id:	37246
+title:	Picture story 13
+author:	Name Of Writer
+artist:	Jesse Breytenbach
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37246.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/25820.png
+illustrations/pages/25814.png
+illustrations/pages/25815.png
+illustrations/pages/25816.png
+illustrations/pages/25817.png
+illustrations/pages/25818.png
+illustrations/pages/25819.png
+illustrations/pages/25821.png
+illustrations/pages/25823.png
+illustrations/pages/25824.png
+illustrations/pages/25825.png
+
+translations:
+
+Asante Twi (Translation)	Ɛnti ɛyɛ nokwasɛm sɛ Dedo adwene mu ka no?	id=38051
+Dangme (Original)	Dԑdo  yi  be  piᴐ?	id=22126
+English (Translation)	Is Dedo really mad?	id=22127
+English (Adaptation)	Is Dedo really mad? (Colour-in)	id=22129
+French (Translation)	Dedo est-elle vraiment folle ?	id=33612
+Lusoga (Translation)	(Myuula-mu) Aye Looyi mulalu?	id=30968

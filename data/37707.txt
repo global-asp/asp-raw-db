@@ -1,0 +1,76 @@
+url:	https://africanstorybook.org/reader.php?id=37707&d=0&a=1
+id:	37707
+title:	Bakaaze ba Selemengi
+author:	Bether Mwale-Moyo and Moffat Moyo
+artist:	Marleen Visser and Wiehan de Jager
+lang:	ChiTonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37707.png
+desc:	Selemengi ulijisi bakaaze banji. Ino Selemengi ujisi bakaaze bongaye?
+
+page_text:
+
+P1	Selemengi ulabayanda bakaaze. @@Kuli bakaaze banji kuŋanda yakwe.
+P2	Selemengi ulijisi kaaze omwe usiya. @@Ooyu kaaze ulalya nyama nji kapati.
+P3	Selemengi ulijisi kaaze omwe uneneede. @@Ooyu kaaze ulalya kufwumbwa cintu.
+P4	Kaaze watatu watanta mucisamu. @@Ooyu kaaze wapatila mucisamu.
+P5	Selemengi watanta mucisamu kuti abweze kaaze wakwe. Awalo wapatila mucisamu, kumwi kajisi kaaze wakwe. @@Banyina Selemengi bamugwasya kuseluka.
+P6	Selemengi ulijisi bakaaze bobilo batolo. @@Bakaaze aaba baloona buzuba boonse.
+P7	Selemengi ulaa bakaaze botatwe bankutwe. @@Balajata mbeba munkikini busiku boonse.
+P8	Selemengi ulijisi mubwa omwe. Izyina lyakwe ngu Lirafi. @@Lirafi tajisi beenzyinyina. Takkomene pe.
+P9	Bakaaze ba Selemengi tabamuyandi Lirafi. Balamutanda muŋanda. @@Lirafi ulatija akuyuba.
+P10	Selemengi ulamulangaula Lirafi ukumujosya kuŋanda. Bakaaze tabakkomani. @@Tabayandi kumubona alimwi Lirafi.
+P11	Ino Selemengi uliji bakaaze bongaye antoomwe? @@Ulijisi bakaaze bali lusele.
+P12	Ino selemengi ulaa babwa bongaye? Ujisi mubwa omwe. @@Sena uli kuli Lirafi lino?
+P13	Ino ujisi bakaaze bongaye kumunzi? @@Ujisi babwa bongaye kumunzi?
+
+images:
+
+illustrations/pages/12005.png
+illustrations/pages/12005.png
+illustrations/pages/12006.png
+illustrations/pages/12007.png
+illustrations/pages/12008.png
+illustrations/pages/12028.png
+illustrations/pages/12009.png
+illustrations/pages/12019.png
+illustrations/pages/12020.png
+illustrations/pages/12021.png
+illustrations/pages/12022.png
+illustrations/pages/12024.png
+illustrations/pages/12023.png
+
+translations:
+
+Afaan Oromo (Translation)	Adurroota Caalaa	id=12956
+Anii (Adaptation)	Sulemaanʊ abʊnyaʊ	id=39796
+ChiNambya (Translation)	Tungowe twa Selemeng	id=32898
+ChiShona (Translation)	Kiti dza Selemeng	id=31754
+ChiTonga (Translation)	Bakaaze ba Selemengi	id=33107
+CiNyanja (Translation)	Ma cona a Selemeng	id=33170
+CiNyanja (Adaptation)	Acona a Selemeng	id=37708
+Ekegusii (Translation)	Ebibusi bia Selemeng'	id=31829
+English (Translation)	Selemeng's cats	id=12155
+French (Translation)	Les chats de Selemeng	id=13276
+IciBemba (Translation)	Baapuushi bakwa Selemeng	id=33292
+IciBemba (Adaptation)	Baapuushi bakwa Mpundu	id=37709
+isiZulu (Translation)	Amakati kaZamo	id=31799
+KiGiryama (Translation)	P'aka a Charo	id=33479
+Kikamba (Translation)	Mbaka sya Selemeng'e	id=32164
+Kinyarwanda (Adaptation)	Injangwe za Sano	id=35870
+Kiswahili (Translation)	Paka wa Sigei	id=15558
+Lingala (Translation)	Selemenge na niawu	id=31802
+Lubukusu (Translation)	Chipuusi cha Silali	id=31747
+Lusoga (Translation)	Puusi dha Kelementi	id=27609
+Ng’aturkana (Translation)	Ng'ipakae Selina	id=33432
+Oluwanga (Translation)	Tsipusi tsia Selemeng	id=31752
+Pidgin English (Nigeria) (Translation)	Selemeng cats dem	id=37824
+Pokomo (Translation)	Mpaka jwa Subo	id=33504
+Sepedi (Translation)	Dikatse tša Selemeng	id=12581
+Sepedi (Translation)	Dikatse tša Selemeng	id=32238
+Sesotho (Lesotho) (Original)	Likatse tsa Selemeng	id=12027
+Sesotho (South Africa) (Translation)	Dikatse tsa Selemeng	id=32213
+Setswana (Translation)	Dikatse tsa ga Selemeng	id=31771
+Siswati (Translation)	Emakati a-Bakhona	id=37594
+Tshivenḓa (Translation)	Zwimange zwa Tshilima	id=31803

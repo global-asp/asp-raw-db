@@ -1,0 +1,62 @@
+url:	https://africanstorybook.org/reader.php?id=34328&d=0&a=1
+id:	34328
+title:	Thekisi ra Ehleketani
+author:	Given J Hlongwani
+artist:	Marion Drew
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34328.png
+desc:	Ehleketani na manana wa yena va yimele thekisi ku ri yi va teka yi va yisa ekaya. Ehleketani u vona vanhu na swilo swo hambana leswi tsakisaka loko va ha yimile. Kambe thekisi ya vona yi ta kala yi fika xana?
+
+page_text:
+
+P1	Helo! Vito ra mina hi mina Ehleketani. @@Ndzi yimile laha na manana hi yimele thekisi. Hi ya ekaya.
+P2	Laha ndzi fole layini. Manana wa mina u ndzi yimbelelela risimu. @@"Tana Tatana wa thekisi a wu swi voni? Hi ku yimerile, mina na Ehleketani!"
+P3	Sesi loyi a nga le tlhelo ka mina u yisa tihuku ekaya. Ti ta n'wi tshikelela mandza ku ri a dya.
+P4	Vavanuna va vuyela endzhaku ku suka entirhweni. Va ndzi n'wayitelela. @@Ndzi twa va yimbela. "Heyi Ehleketani lontsongo, u nga vileri. Thekisi ra ta hi ku hatlisa."
+P5	Wansati u hundza kwala a va ri kona. Wansati loyi a ambale kahle swinene. Tintanghu ta yena a ti nga lo saseka lero no ta saseka. @@Ti ri "Kwai, kwai Kwai, kwai," loko a famba.
+P6	Wanuna loyi u xavisa tinamuneti. @@Ndzi rhandza tinamuneti. Ta titimela na ku nyanganya. Xana wa ti tsakela?
+P7	Vona! Ku na vavasati lava nga rhwala swo lalela etinhlokweni va ya na swona ekaya. A va tlharihangi lero na ta tlhariha.
+P8	Wansati luya u le ku endleni ka misisi. @@U ya eku hungaseni ni vanghana va yena namuntlha nimadyambu.
+P9	Sweswi ndzi karhele. Manana wa ndzi bebula enhlaneni laha ndzi nga ta wisa. @@Wa yimbelela, "Ha kombela Tatana wa Thekisi, u nga hlweri, kokwana u hi yimerile enyangweni."
+P10	Hi luya munghana wa mina. Na yena u wisile. @@Hi ta fika ekaya ku nga ri khale.
+P11	Ehenhla ematilweni ku swinyanyana swi hahaka swi ya ekaya. @@Swi fanele swi fika ekaya ku nga si va na xinyami.
+P12	Wansati u na masuruvele mo saseka. Ndzi anakanya ku ri u ya xavile edorobeni namuntlha. @@Loko ndzi kula ndzi ta tixavela mina na manana masuruvele mo tala.
+P13	Manana u le ku karhaleni sweswi. @@Ndzi n'wi yimbelela risimu, "Ha kombela Tatana wa Thekisi, xana a wu fiki, hi ku yimerile, mina na mhani."
+P14	Yimanyana! Ndzi twa mpfumawulo wa thekisi! @@Hi leyi ya ta!
+P15	Hi leri thekisi ra hina lerikulu ro tshwuka.@@Ri tile ku ta teka mina na manana hi ya ekaya. Ndzi tsakile swinene.
+P16	Tata!
+
+images:
+
+illustrations/pages/7576.png
+illustrations/pages/7560.png
+illustrations/pages/7562.png
+illustrations/pages/7563.png
+illustrations/pages/7564.png
+illustrations/pages/7565.png
+illustrations/pages/7566.png
+illustrations/pages/7571.png
+illustrations/pages/7568.png
+illustrations/pages/7569.png
+illustrations/pages/7570.png
+illustrations/pages/7572.png
+illustrations/pages/7573.png
+illustrations/pages/7574.png
+illustrations/pages/7575.png
+illustrations/pages/7576.png
+illustrations/pages/7577.png
+
+translations:
+
+Afrikaans (Translation)	Nanu se taxi	id=11245
+Anii (Adaptation)	Nuura na bɔɔsʊ ajala	id=39178
+English (Original)	Nanu's taxi	id=7590
+French (Translation)	Le Taxi-Brousse De Nanu	id=12665
+isiNdebele (Translation)	Iteksi kaNanu	id=35235
+Kiswahili (Translation)	Teksi ya Nanu	id=8713
+Lusoga (Translation)	Emotoka ya Nabirye	id=25724
+Portuguese (Translation)	O Táxi Da Nanu	id=17619
+Siswati (Translation)	Ithekisi yaNanu	id=34475
+Tshivenḓa (Translation)	Thekhisi ya Funi	id=34254

@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=34464&d=0&a=1
+id:	34464
+title:	Neo utfola ingulube yakhe
+author:	Mduduzi Benjie Shongwe
+artist:	Marion Drew
+lang:	Siswati
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34464.png
+desc:	Neo walahlekelwa yingulube yakhe engotini. Yini leyenteka ngemuva kwaloko?
+
+page_text:
+
+P1	Neo watsatsa ingulube yakhe kute bagibele libhayisikili lakhe.
+P2	Washayisa litje endleleni. Ingulube yawa.@@Yakhala. Yatsi, "Hhontjiiii, hhontjiiii!"
+P3	Tsotang wayitfola. Watsi, "Hhayi bo, yabani lengulube?"
+P4	Tsotang wayigijimisa, waze wayibamba.
+P5	Watsatsa ingulube wayiyisa esikhulwini sendzawo.@@Sikhulu samtjela kutsi ayibeke.
+P6	Neo wendlula ngendlela.@@Weva umsindvo wengulube, itsi "Hmmm, hmmm, hmmm!"
+P7	Wangena. Wajabula nakabona ingulube yakhe.
+P8	Neo watsi engulubeni yakhe, "Asambe, siye ekhaya. Ngeke siphindze siligibele libhayisikili."
+
+images:
+
+illustrations/pages/15918.png
+illustrations/pages/15916.png
+illustrations/pages/15917.png
+illustrations/pages/15918.png
+illustrations/pages/15920.png
+illustrations/pages/15919.png
+illustrations/pages/15921.png
+illustrations/pages/15923.png
+illustrations/pages/15924.png
+
+translations:
+
+English (Translation)	Neo finds her pig	id=15972
+isiNdebele (Translation)	UNeo uthola ifarigi yakhe	id=35227
+Lusoga (Translation)	Naira ayagaana embiidhiye	id=28279
+Sesotho (Lesotho) (Original)	Neo a fumana fariki ea hae	id=15970
+Sesotho (South Africa) (Translation)	Neo o fumana fariki ya hae	id=33515
+Tshivenḓa (Translation)	Tshifhiwa u wana nguluvhe yawe	id=34246
+Xitsonga (Translation)	Nyiko a kuma nguluve yakwe	id=34320

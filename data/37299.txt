@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=37299&d=0&a=1
+id:	37299
+title:	Ndo guda ngudo
+author:	Doris  Manyamalala and Tshedza  Tlhako
+artist:	Catherine Groenewald
+lang:	Tshivenḓa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37299.png
+desc:	Musidzanyana u ṱoḓa u ḓivhesa musi a tshi vhona makhulu wawe vha tshi khou lugiselela u vhibvisa miomva.
+
+page_text:
+
+P1	Makhulu wanga vha a mpfuna.@@Vho mmbudza zwiphiri zwinzhi, nga nnḓa ha tshiphiri tshithihi fhedzi.
+P2	Manngi na maṱari ndi zwa u ita mini?@@Makhulu vha ri, "Ndi zwa u ita vhuṱolo."
+P3	Ndo vha ndi tshi ṱoḓa u vhona.@@Fhedzi makhulu vha nthuma uri ndi ite tshiṅwe tshithu.
+P4	"Zwi ngafhi?"@@Makhulu vha ri, "Zwi fhethu hanga ha u ita vhuṱolo."
+P5	Makhulu vho nthuma kamarani yavho.@@Ndo pfa hu tshi khou nukha miomva ine ya khou vhibva.
+P6	Ndo hu wana fhethu ha makhulu ha u ita vhuṱolo.
+P7	Ndo ḽa muthihi.@@Wo vha u muomva une wa ḓifha u fhira yoṱhe ye nda vhuya nda i ḽa.
+P8	Nda dzhia miomva miṋa.@@Nda i dzumba nga fhasi ha rokho yanga.
+P9	Nga ḓuvha ḽa u ya makete, makhulu vho dzhia zwiḽiwa u zwi rengisa.@@Ndo vha ndo shona zwihulu.
+P10	Nga murahu, musi ndi tshi vhidzwa, ndo zwi ḓivha uri ndi ngani.@@A tho ngo tsha dovha nda tswa.
+
+images:
+
+illustrations/pages/1360.png
+illustrations/pages/1361.png
+illustrations/pages/1360.png
+illustrations/pages/1362.png
+illustrations/pages/1363.png
+illustrations/pages/1364.png
+illustrations/pages/1366.png
+illustrations/pages/1368.png
+illustrations/pages/1369.png
+illustrations/pages/1370.png
+illustrations/pages/1371.png
+
+translations:
+
+Arabic (Translation)	موز جدتي	id=21873
+Ekegusii (Translation)	Amatoke A'Baba	id=2371
+English (Original)	Grandma's bananas	id=2094
+English (Adaptation)	I learnt a lesson	id=21792
+English (Adaptation)	Grandma's bananas (Colour-in)	id=32548
+English (Adaptation)	Grandma's bananas	id=36118
+French (Translation)	Les Bananes De Grand-Mère	id=9956
+Fulfulde (Translation)	Bananaaje Maamiyo Debbo	id=10008
+Fulfulde Mbororoore (Translation)	Kondomje Maama	id=38284
+isiZulu (Translation)	Ngifunde isifundo	id=32637
+Kanuri (Translation)	Ayawa Kakaye	id=10034
+Kikamba (Translation)	Maiũ ma Sũsũ	id=2367
+Kinyarwanda (Translation)	Imineke ya nyogokuru	id=32576
+Kiswahili (Translation)	Ndizi za Bibi	id=15942
+Kiswahili (Translation)	Nilipata Funzo	id=21836
+Luganda (Translation)	Nayiga essomo	id=24164
+Lugbarati (Translation)	Dede Ma A’Bua	id=2368
+Lugbarati (Official) (Translation)	Dede Vile A’Bua Ri	id=8749
+Lumasaaba (Translation)	Kamarofu ka Kuukhu	id=3095
+Lusoga (Translation)	Nayega eisomo	id=29322
+Maa (Translation)	Ilmaisurîn Le Kokoô	id=2742
+Oluwanga (Translation)	Amaremwa Ka Kukhu	id=2370
+Xitsonga (Translation)	Ndzi dyondze dyondzo	id=37125
+Zarma (Translation)	Ay Kaayi Banaaney	id=10099

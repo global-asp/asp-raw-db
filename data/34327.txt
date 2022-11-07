@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=34327&d=0&a=1
+id:	34327
+title:	Vana va swihlenge
+author:	Given J Hlongwani
+artist:	Wiehan de Jager
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34327.png
+desc:	Khale a ku ri ni ndyangu lowu a ri ni vana vanharhu vo yingisela swinene. Xiphiqo a ku ri ku a va endliwile hi swihlenge.
+
+page_text:
+
+P1	Khale wa khaleni, a ku ri na ndyangu lowu a wu tsakile.
+P2	Vana a va tshamela ro lwa. @@A va pfuna vatswari va vona ekaya na le masin'wini.
+P3	Kambe a va nga pfumeleriwi ku ya ekusuhi ni ndzilo.
+P4	A va fanele va tirha ntirho wa vona nivusiku.
+P5	Hikuva a va endliwile hi swihlenge!
+P6	Kambe un'wana wa majaha a tsakela ku ya emasaneni.
+P7	Siku rin'wana ku navela loku a ku ri ku kulu swinene. @@Buti wa yena na sesi wa yena va n'wi lemukisile.
+P8	Kambe a va hlwerile! Dyambu ro hisa ri n'wi n'okisile.
+P9	Vana va swihlenge va ririle loko va vona makwavo a ri karhi a n'oka.
+P10	Kambe va endlile kungu. @@Va vumbile masalelwa ya swihlenge leswi n'okeke a endla xinyanyana.
+P11	Va tekile makwavo wa vona lowa xinyanyana va n'wi yisa eka ntshava yo leha.
+P12	Loko dyambu ri ri karhi ri tlhava, u hahile, a yimbelela eku voningeni ka mixo.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die kerswaskinders	id=11550
+Arabic (Translation)	أطفال الشمع	id=21881
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of wax	id=2181
+English (Adaptation)	Children of wax (Colour-in)	id=32503
+isiNdebele (Translation)	Abantwana bamafutha	id=35234
+isiXhosa (Translation)	Abantwana bekhandlela	id=2500
+isiZulu (Translation)	Abantwana abenziwe ngamakhandlela	id=2499
+Italian (Translation)	I bambini di cera	id=39689
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kinyarwanda (Translation)	Abana b'ibishashara	id=32630
+Kiswahili (Translation)	Watoto walioumbwa kwa nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Luganda (Translation)	Abaana b'ebisasalala	id=22947
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Lusoga (Translation)	Abaana abaatondebwa munvumbo	id=26692
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana be iula	id=2516
+Sesotho (South Africa) (Translation)	Bana ba kerese	id=33508
+Setswana (Translation)	Bana ba kerese	id=2519
+Siswati (Translation)	Bantfwana bemtfwebeba	id=34474
+Tshivenḓa (Translation)	Vhana vha phula	id=34253

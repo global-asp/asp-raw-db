@@ -1,0 +1,33 @@
+url:	https://africanstorybook.org/reader.php?id=34566&d=0&a=1
+id:	34566
+title:	Les Sensations
+author:	Abdou  Seck
+artist:	Kathy Arbuckle
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/34566.png
+desc:	Exprime ta façon de sentir différentes choses et différentes personnes.
+
+page_text:
+
+P1	Mon cœur sens beaucoup de choses.
+P2	Je me sens heureux quand ma grand-mère nous raconte des histoires.
+P3	Je me sens folle quand je joue avec mon amie.
+P4	Je me sens mal quand mon père dit qu'il n'a pas d'argent.
+P5	Je me sens aimée quand maman me serre dans ses bras.
+
+images:
+
+illustrations/pages/28597.png
+illustrations/pages/28598.png
+illustrations/pages/28599.png
+illustrations/pages/28600.png
+illustrations/pages/28601.png
+illustrations/pages/28602.png
+
+translations:
+
+English (Original)	Feelings	id=32572
+isiZulu (Translation)	Imizwa	id=32701
+Kinyarwanda (Translation)	Amarangamutima	id=32573

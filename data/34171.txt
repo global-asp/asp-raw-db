@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=34171&d=0&a=1
+id:	34171
+title:	Jezu na wana
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Cinyungwe
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34171.png
+desc:	Uma história sobre Jesus do evangelho de Marcos 10: 13‑16. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Wanthu winango akhambabwera na wana kwa Jezu kuti awakhuye.
+P2	Wakupfundzira wace akhambawatsimula mwa ukali.
+P3	Jezu adakalipa.
+P4	Jezu adawauza kuti: "Alekeni wanawa abwere kwa Ine."
+P5	"Omwe an'bvuma lini Umambo bwa Mulungu ninga mwana, umweyo an'dzabupita lini."
+P6	Na tenepo Jezu adayamba kuwakumbatira wana wale, aciwasandzika boko na kuwadalisa.
+
+images:
+
+illustrations/pages/85590160.png
+illustrations/pages/85590161.png
+illustrations/pages/85590163.png
+illustrations/pages/85590164.png
+illustrations/pages/85590165.png
+illustrations/pages/85590166.png
+illustrations/pages/85590167.png
+illustrations/pages/85590162.png
+
+translations:
+
+English (Original)	Jesus and the Children	id=33149
+Portuguese (Translation)	Jesus e as crianças	id=34172

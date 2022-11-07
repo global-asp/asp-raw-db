@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=34416&d=0&a=1
+id:	34416
+title:	Sipho saGogo
+author:	Mduduzi Benjie Shongwe
+artist:	Sibongile Mnkandla
+lang:	Siswati
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34416.png
+desc:	Make usita Thabo kutsi ente sipho lesikhetseke kakhulu sagogo wakhe.
+
+page_text:
+
+P1	Kuta Gogo utewuvakasha. Kantsi njalo uphatsela Thabo emantongomane netitselo tesiganga nobe ummbila kanye nelijoti ngalesinye sikhatsi.@@Thabo naye ufuna kupha Gogo intfo letsite lekhetsekile.
+P2	Incwadzi ingaba sipho lesihle, kepha Gogo akakwati kufundza?@@Nakaya etitolo, ingabe utayitfola yini intfo letsite lenhle?@@"Asimentele sikhwama," kusho Thabo amoyitela. "Sikhwama lesicinile lesikhulu ngagawini loluhlata njengesibhakabhaka."
+P3	Make utsatsa indvwangu labebayitsenge esitolo. Wendlala iphethini bese ucala kuyisika.@@Kwekucala, usika tinhlangotsi letimbili letimcoka, letinkhulu futsi letibanti.
+P4	Ngemuva kwaloko usika letimbili letincane kute ahlanganise ngato.@@Thabo utigoca ndzawonye kanye netinhlangotsi letimcoka letimbili. Uyabuka njengobe Make wakhe aphindza atsatsa iphethini.
+P5	Usika lingentasi lesikhwama, ticephu letimbili letindze. Loku kutokwenta lesikhwama sicine mbamba.@@Thabo uyatigoca njengobe Make wakhe aphindze atsatsa iphethini.
+P6	Usika imicu lemine lebanti nalemidze.@@Lemibili itawutfungelwa ndzawonye kute yente umucu munye. Loku kutawenta lesikhwama sicine ngalokuphindziwe.
+P7	Ngemuva kwaloko make utsatsa umshini wekutfunga.@@Uhlanganisa tonkhe ticephu kute ente sikhwama saGogo.@@Usinika Thabo, Thabo umoyitela bese utsi, "Ngiyabonga Make, ngesikhwama saGogo lesiluhlata njengesibhakabhaka!"
+
+images:
+
+illustrations/pages/25487.png
+illustrations/pages/25488.png
+illustrations/pages/25495.png
+illustrations/pages/25490.png
+illustrations/pages/25491.png
+illustrations/pages/25492.png
+illustrations/pages/25493.png
+illustrations/pages/25494.png
+
+translations:
+
+ChiChewa (Translation)	Mphatso ya agogo akazi	id=37940
+ChiNambya (Translation)	Chipo chamegulu	id=32895
+ChiNdau (Translation)	Chipo chambuya	id=35132
+English (Original)	A present for grandma	id=21728
+French (Translation)	Un cadeau pour mamie	id=33151
+isiNdebele (Translation)	Isipho sakagogo	id=35210
+Lusoga (Translation)	Ekirabo kya dhaadha omukazi	id=28452
+Otuho (Translation)	Esiori jio hahanyi hoŋ	id=39225
+Sepedi (Translation)	Mpho ya Koko	id=33342
+Sesotho (Zimbabwe) (Translation)	Mpho Ea Nkuku	id=21729
+Spanish (Translation)	Un regalo para la abuela	id=34354
+Tshivenḓa (Translation)	Mpho  ya makhulu	id=34301
+Xitsonga (Translation)	Nyiko ya kokwanaxisati	id=34194

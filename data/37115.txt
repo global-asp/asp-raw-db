@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=37115&d=0&a=1
+id:	37115
+title:	Ku cina
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Catherine Groenewald
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37115.png
+desc:	Xiphatu xa ntombhi yo rhandza ku cina. Mudyondzisi wa yena wa nyangatseka
+
+page_text:
+
+P1	Ndza cina loko ndzi tsakile, @ndza cina loko ndzi tsanile, @ndza cina loko ndzi ri na xivundza, @ndza cina loko ndzi khunguvanyekile.
+P2	Mudyondzisi wa mina u ri, "Tshamiseka! U nga cini siku hinkwaro."
+P3	Kambe manana wa mina u ri, "Ku cina swi endla leswaku u va na rihanyo ra kahle, ku cina swi endla leswaku u leha, siku rin'wana u ta va xicini, u hlamarisa hinkwavo!"
+P4	Mina ndzi ri, "Siku rin'wana ndzi ta cina kutani vanhu va ndzi hakela ku ndzi vona ndzi karhi ndzi yima hi swinkunwana ndzi ndziwilika.@@"Ku cina ka yena ku sasekile," va ta vula."
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+French (Translation)	La Danse	id=24817
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Luganda (Translation)	Okuzina	id=22960
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lusoga (Translation)	Okukina	id=24942
+Portuguese (Translation)	Dançando	id=12173
+Rufumbira (Translation)	Kubyina	id=22758
+Rukiga (Translation)	okuzina	id=22981
+Setswana (Translation)	Mokibo	id=2695
+Spanish (Translation)	Bailando	id=33361
+Tiv (Translation)	Amar a Vinen	id=36796
+Tshivenḓa (Translation)	U tshina	id=37291

@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=37245&d=0&a=1
+id:	37245
+title:	Picture story 12
+author:	Name Of Writer
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37245.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/18784.png
+illustrations/pages/18783.png
+illustrations/pages/25000.png
+illustrations/pages/25002.png
+illustrations/pages/25003.png
+illustrations/pages/25004.png
+illustrations/pages/25005.png
+illustrations/pages/25006.png
+illustrations/pages/25007.png
+illustrations/pages/25008.png
+illustrations/pages/25009.png
+illustrations/pages/25011.png
+illustrations/pages/25012.png
+
+translations:
+
+Afaan Oromo (Translation)	Fattefi Bofa	id=20423
+Amharic (Translation)	እንቁራሪትና እባብ	id=20451
+Asante Twi (Translation)	Apɔtrɔ ne Ͻwɔ	id=40228
+Dinka (Translation)	Aguek ku Pien	id=39447
+English (Original)	Frog and Snake	id=18771
+English (Adaptation)	Frog and Snake	id=19762
+isiZulu (Translation)	UXoxo noNyoka	id=20718
+Kῖmῖῖrũ  (Translation)	Kῖũra na Njoka	id=32816
+Kinyarwanda (Translation)	Inzoka n' Igikeri	id=20763
+Kinyarwanda (Translation)	Igikeri n'inzoka	id=22007
+Kiswahili (Translation)	Chura na Nyoka	id=20434
+Luganda (Translation)	Wakikere Ne Wamusota	id=18772
+Lusoga (Translation)	Wakikere ni Wamusota	id=20398
+Lusoga (Translation)	Omukwano gwa Wakalenga ni Wamusota	id=21276
+Ng’aturkana (Translation)	Akidodok Ka Emun	id=20392
+Oluwanga (Translation)	Lishere nende Inzukha	id=22755
+Rutooro (Translation)	Kikere na Njoka	id=23231
+Sepedi (Translation)	Segwagwa le noga	id=32911
+Setswana (Translation)	Segwagwa le Noga	id=21160

@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=39600&d=0&a=1
+id:	39600
+title:	Madume
+author:	Thato  Ntlatleng
+artist:	Sina Streule and Gage Schrier
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39600.png
+desc:	This is aimed towards improving the greetings.
+
+page_text:
+
+P1	Dumelang batho ba rona.@@Le kae?
+P2	Dumela@@Re teng ,  wena o kae?
+P3	Re a leboga.
+P4	Le saleng gabotse.
+P5	Tsamayang gabotse.
+
+images:
+
+illustrations/pages/28857.png
+illustrations/pages/28200101.png
+illustrations/pages/28200111.png
+illustrations/pages/28860.png
+illustrations/pages/28863.png
+illustrations/pages/28200101.png
+
+translations:
+

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=38843&d=0&a=1
+id:	38843
+title:	Bobby Falls
+author:	Salome  Ledwaba
+artist:	Martin  Letsoalo
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38843.png
+desc:	Bobby runs after a rabbit and falls into a big hole. A simple story with short sentences. This storybook was created in 2022 as part of a collaborative project involving African Storybook
+
+page_text:
+
+P1	This is my dog. His name is Bobby. @@He is a hunting dog.
+P2	Bobby likes to hunt small animals. @@He also likes to play in the long grass.
+P3	One Saturday, Bobby went out alone to hunt. @@He saw a rabbit on a rock. @@Bobby's mouth started watering.
+P4	The rabbit saw Bobby looking at him.@@The rabbit ran away very fast.
+P5	Bobby ran after the rabbit.@@He could only think about eating rabbit.@@He did not see a big hole ahead.
+P6	Bobby fell into the deep hole.@@The rabbit ran around the hole and kept running.
+P7	Luckily, two boys heard Bobby barking, "Woof! Woof! woof!" @@They ran towards the big hole to help him.
+P8	"He is too heavy!" cried the boys!@@But they managed to pull Bobby from the hole. @@He was a very happy dog!
+
+images:
+
+illustrations/pages/6012001056.png
+illustrations/pages/6012001056.png
+illustrations/pages/6012001057.png
+illustrations/pages/6012001058.png
+illustrations/pages/6012001059.png
+illustrations/pages/6012001060.png
+illustrations/pages/6012001061.png
+illustrations/pages/6012001062.png
+illustrations/pages/6012001063.png
+
+translations:
+
+Amharic (Translation)	ቦቢ ወደቀ	id=39464
+Sepedi (Translation)	Bobby e a wela	id=39333

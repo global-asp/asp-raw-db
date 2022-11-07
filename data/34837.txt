@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=34837&d=0&a=1
+id:	34837
+title:	Ubolu ero chi olaai
+author:	Celine Nongo
+artist:	Pimville Library Soccer
+lang:	Igala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34837.png
+desc:	Ai chu todu amoto ku ma ru ubolu ki chi olaai.
+
+page_text:
+
+P1	Bling@  cho ma ki ya tene ubolu@  ero nana.@  @@  Egba du ki ya koola ubolu ero,@  I kakini, “ubolu ero chi olaai.”
+P2	Bling@  cho ma Coach Tsepo kuma ruu ubolu@  gbitigbiti.@  @@  Coach@  un ya buba amaa rubolun. Amone wéwé atene@  lebo.
+P3	Ucholo ubollu elile@  doo gbaa awaa.@  @@  Amaa rubolun ma koche@  ubollu ojodu ki wnaa.@  @@  Ugbodu, ka mone@  de, ma chane yoo todu ucholo ki@  ya wa a lila le.
+P4	Coach@  ugbo omune le, ya chulaka Coach Tsepo.
+P5	Coach alachi le, chei wu gbo ane ungbo ku ma rubolu le ka ku machane.@  @  E feun e byene gbe ane le.@@  Umuthi! Oun igbe iyii.
+P6	Bling@  chane e ruubollu ugbogbolo le.@  @@  I@  chene ruule ki lo ke de gool@  toh.
+P7	Taki iyane, ugbogbolo@  le I ne ke du gool tohn.@  @@  “Bling”?@  Amone chane dodun egba le.@  @@  “Bling”?@  coach Tsepo  le ge dodun.
+P8	“eneun duu@  ke ya du me kwane ku we rubolu@  ki nen”! Bling kayi.@  @@  Ubollu ero cho olaai.@  @@  Taki kwane ruboluu@  gbogbo gbe gba ku eko@  le takpaa.
+
+images:
+
+illustrations/pages/85940126.png
+illustrations/pages/85940122.png
+illustrations/pages/85940123.png
+illustrations/pages/85940124.png
+illustrations/pages/85940125.png
+illustrations/pages/85940126.png
+illustrations/pages/85940127.png
+illustrations/pages/85940128.png
+
+translations:
+
+English (Original)	Soccer is life	id=33730
+French (Translation)	Le foot c'est la vie	id=33846
+Hausa (Nigeria) (Translation)	Qwallon kafa rai ne	id=34821
+isiZulu (Translation)	Ibhola liyimpilo yabo	id=33784
+Kῖmῖῖrũ  (Translation)	Mũbira ni ũturõ	id=33863
+Kiswahili (Translation)	Soka ni maisha	id=33758
+Lingala (Translation)	Ndembo ezali bomoyi	id=33815
+Sesotho (South Africa) (Translation)	Bophelo ba papadi ya bolo ya maoto	id=33802
+Yoruba (Translation)	ìgbé ayé ni erée Bóòlù	id=34817

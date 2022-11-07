@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=36461&d=0&a=1
+id:	36461
+title:	Pájaros domésticos.
+author:	Aprende Leyendo
+artist:	Wiehan de Jager and N/A
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36461.png
+desc:	Dibujos y nombres de los pájaros domésticos.
+
+page_text:
+
+P1	Pato.
+P2	Gallo.
+P3	Gallina de guinea.
+P4	Pavo.
+
+images:
+
+illustrations/pages/292.png
+illustrations/pages/9730.png
+illustrations/pages/5651.png
+illustrations/pages/9731.png
+illustrations/pages/9732.png
+
+translations:
+
+English (Original)	Domestic Birds	id=9733

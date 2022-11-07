@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=36398&d=0&a=1
+id:	36398
+title:	La tierra sin gente vieja
+author:	Aprende Leyendo
+artist:	Laura Liberatore
+lang:	Spanish
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36398.png
+desc:	Este cuento siniestro proveniente de la gente de Nuquí en Choco
+
+page_text:
+
+P1	Hace mucho tiempo, sucedió en un pueblo que una banda de gente joven decidió acabar con la gente vieja.@@Ellos querían parar a los viejos de hacer mágia.
+P2	Pero uno de los jóvenes huyó con su papá y lo escondió en el desierto.
+P3	Tras haber hecho esto, la banda de jóvenes comenzó a acabar con la gente vieja.
+P4	Poco después, del desierto llegó al pueblo una serpiente.@@La serpiente entró al estómago de un niño pequeño. Constantemente asomaba su cabeza por la boca del pequeño.
+P5	Los padres del niño y el resto de la gente lo intentaron todo para solucionar este problema.
+P6	Pero ellos vieron que si mataban a la serpiente, también matarían al pequeño. Todo el mundo continuó intentando diferentes ideas.
+P7	Luego, el joven que había escondido a su padre fue y le contó todo lo que había sucedido. @@Y el hombre viejo respondió: "Esta es la situación más sencilla del mundo para tratar!".
+P8	El hombre viejo dijo: "Encuentra una rana y amárrala cerca a la serpiente. La serpiente saldrá del estómago de niño para atrapar a la rana".@@El joven hizo exactamente lo que su padre la dijo. La serpiente salió y comenzó a perseguir a la rana.
+P9	Salvaron al pequeño de una muerte segura.
+P10	.
+
+images:
+
+illustrations/pages/85590239.png
+illustrations/pages/85590249.png
+illustrations/pages/85590239.png
+illustrations/pages/85590250.png
+illustrations/pages/85590241.png
+illustrations/pages/85590242.png
+illustrations/pages/85590243.png
+illustrations/pages/85590244.png
+illustrations/pages/85590246.png
+illustrations/pages/85590247.png
+illustrations/pages/85590248.png
+
+translations:
+
+Afrikaans (Translation)	Die land sonder ou mense	id=33633
+Cinyungwe (Translation)	Maswaka Yadapha Nkhalamba Zentsene	id=33607
+Echuwabo (Translation)	Elabo Yakoddile Okala Anddimuwa	id=33608
+English (Original)	The Land of No Old People	id=33145
+isiXhosa (Translation)	Ilizwe elingenaMaxhego naMaxhegwazana	id=33634
+Portuguese (Translation)	A Terra Sem Pessoas Velhas	id=33592

@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=38760&d=0&a=1
+id:	38760
+title:	Placet!
+author:	Junus Juvenus
+artist:	Wiehan de Jager and Catherine Groenewald
+lang:	Latin
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38760.png
+desc:	Libellus de rebus quae mihi placet. 
+
+A little book of the things I like.
+
+Buku kecil tentang perkara-perkara yang disukaiku.
+
+page_text:
+
+P1	Mihi placet dormire!@Cum dormio saepe sterno....@Hoooork...Pheew.....Hoooork...@Phewww....@@Placet!
+P2	Mihi placet salire!@Unus!@Duo!@Tres!@Quattuor!@Quinque!@@Placet! Valde placet!
+P3	Mihi placet legere!@@Multum lego.@Cotidie lego.@Omnia lego.@@Placet!
+
+images:
+
+illustrations/pages/1496.png
+illustrations/pages/311.png
+illustrations/pages/1495.png
+illustrations/pages/1496.png
+
+translations:
+

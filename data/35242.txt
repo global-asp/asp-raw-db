@@ -1,0 +1,54 @@
+url:	https://africanstorybook.org/reader.php?id=35242&d=0&a=1
+id:	35242
+title:	U-Anansi nokuhlakanipha
+author:	Sponono  Mahlangu
+artist:	Wiehan de Jager
+lang:	isiNdebele
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35242.png
+desc:	Uzimu womkayi wathatha isiqunto sokobana anikele iswebu esingu-Anansi ipoto yokuhlakanipha. Uthabe khulu ngakho koke akufundako ngokuqala ngaphakathi kwayo ngendlela yokobana afune nokuyifihla emthini ukuze ibe ngeyakhe ayedwa. Ngebhadi kuye (kodwana ngetjhudu kibo boke abantu ephasini)
+
+page_text:
+
+P1	Kade abantu bebangazi litho. Bebangakwazi ngitjho nokutjala iintjalo, namkha ukuthunga itjhila, namkha ukwenza iinsetjenziswa zesimbi.@@UZimu uNyame uhlala phezulu emkayini unabo boke ubuhlakaniphi bephasi. Ububeke kuhle ngaphakathi kwepoto eyenziwe ngebumba.
+P2	Ngelinye ilanga, uNyame wathatha isiqunto sokobana uzokuthatha ipoto yokuhlakanipha ayiphe u-Anansi.@@Ngaso soke isikhathi u-Anansi nakaqala ipoto yokuhlakanipha, bekafunda into etja. Bekukarisa khulu!
+P3	Ngokuba namarhamaru u-Anansi wacabanga wathi, "Ipoto le ngizoyithatha ngiyibeke esiqongolweni phezu komuthi omude.  Bese ibe ngeyami ngingedwa." Waluka intambo ede, wayitantela epotweni yebumba ngemuva kwalokho wayibophelela emathunjini wakhe.@@Wathoma wakhwela emthini. Kodwana bekunzima ukukhelwela umuthi nepoto imtjhayisa imbetha amadolo ngaso soke isikhathi.
+P4	Ngaso soke isikhathi indodana ka-Anansi engencani beyijama ngaphasi komuthi imbukele. Yathi kuye, "Uthi bekungeze kwaba lula ukukhwelela nangabe ubophelela ipoto emhlana?"@@U-Anansi wazama ukubophelela ipoto ezele ukuhlakanipha emhlana, kwaba lula khulu.
+P5	Ngokukopeza kwelihlo besele afikile phezulu esiqongolweni somuthi. Kodwana wajama wacabanga, "Kufanele kube ngimi onokuhlakanipha koke, kodwana nakhu indodana yami ihlakaniphe ukudlula mina!"@@U-Anansi wasilingeka khulu ngalokhu wathatha ipoto yebumba leya wayijikijela phasi.
+P6	Yasaphazeka phasi yaba ziincuntwana phasi. Ukuhlakanipha besele butholwa ngibo boke abantu ukobana babelane ngabo.@@Le yindlela abantu abafunda ngayo ukulima, ukuthunga amatjhila, ukwenza iinsetjenziswa zesimbi nezinye godu izinto ezinengi abantu abakwaziko ukuzenza.
+
+images:
+
+illustrations/pages/1273.png
+illustrations/pages/1274.png
+illustrations/pages/1275.png
+illustrations/pages/1276.png
+illustrations/pages/1277.png
+illustrations/pages/1278.png
+illustrations/pages/1279.png
+
+translations:
+
+Amharic (Translation)	አናንሲና ጥበብ	id=22388
+Arabic (Translation)	أنانسي و الحكمة	id=21824
+Ateso (Translation)	Anansi Keda Acoa	id=20963
+Ateso (Translation)	Anansi Keda Acoa	id=21589
+Ekegusii (Translation)	Anansi n'obong'aini	id=2232
+English (Original)	Anansi and wisdom	id=1938
+English (Adaptation)	Anansi and wisdom (Colour-in)	id=32524
+French (Translation)	Anansi et la sagesse	id=33410
+Kikamba (Translation)	Ananzi na Ũĩ	id=2233
+Kinyarwanda (Translation)	Semuntu n'akabindi kuzuye Ubwenge	id=32560
+Kiswahili (Translation)	Anansi awapa watu hekima	id=2234
+Lugbarati (Translation)	Ibio Pi Ondoa Be	id=2230
+Lugbarati (Official) (Translation)	Èbìó Pɨ Òndʉ̀á Be	id=8775
+Lumasaaba (Translation)	Manaasi Ni Kamakhula	id=3006
+Lusoga (Translation)	Nambumbi kalimagezi	id=24920
+Maa (Translation)	Anansi Ó Eng'énó	id=2732
+Ng’aturkana (Translation)	Anansi Ka Aosou	id=2235
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=2256
+Oluwanga (Translation)	Anansi Nende Obuchesi	id=8677
+Siswati (Translation)	Anansi nekuhlakanipha	id=34484
+Spanish (Translation)	Anansi Y La Sabiduría	id=14407
+Xitsonga (Translation)	Vuntshwa na vutlhari	id=34338

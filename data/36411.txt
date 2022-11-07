@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=36411&d=0&a=1
+id:	36411
+title:	Sapito
+author:	Aprende Leyendo
+artist:	Thulile  Gumede
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36411.png
+desc:	La historia de un pequeño sapito que quería encontrar otros animales para comer.
+
+page_text:
+
+P1	En un lejano campo en Manizales, había una mamá sapo que vivía en el pasto con sus tres hijos.
+P2	Todos los días, la mamá sapo alía a buscar comida para su familia. @@La mamá sapo siempre le advertía a sus hijos: "¡No salgan mientras estoy afuera!".
+P3	Pero el sapito más pequeño quería saber a dónde se había ido la mamá para encontrar comida.@@Un día, cuando mamá sapo estaba lejos, sapito salió al mundo.
+P4	Sapito conoció a Vaca. Ella preguntó: "¿Qué comes?" mugió la vaca: "yo como heno y pasto". @@"¿Dónde puedo encontrar eso?" preguntó Sapito. "Sigue por este camino" respondió la vaca.
+P5	Sapito se encontró a Cerdo. Ella preguntó, "¿qué comes?" el Cerdo ronco: "yo como vegetales y papilla".@@"¿Dónde puedo encontrar eso?" preguntó Sapito. "Sigue por este camino" respondió el Cerdo.
+P6	Sapito se encontró con Gato. Ella pregunto: "¿Qué comes?", el gato maulló: "Yo como carne".@@"¿Dónde puedo encontrar?" preguntó Sapito. "Sigue por este camino" respondió el Gato.
+P7	Sapito conoció a Serpiente. @@"¿Qué comes?" preguntó ella. @@"Yo como sapos" siseó Serpiente.
+P8	Sapito saltó alto al aire. @@Ella saltó lo más rápido que pudo todo el camino de regreso a su casa. @@Sapito no miró hacía atrás.
+
+images:
+
+illustrations/pages/93740254.png
+illustrations/pages/93740247.png
+illustrations/pages/93740248.png
+illustrations/pages/93740249.png
+illustrations/pages/93740250.png
+illustrations/pages/93740251.png
+illustrations/pages/93740252.png
+illustrations/pages/93740255.png
+illustrations/pages/93740254.png
+
+translations:
+
+English (Original)	Little Frog	id=34450
+isiZulu (Translation)	Ixoxo elincane	id=34505

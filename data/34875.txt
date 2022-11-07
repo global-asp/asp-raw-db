@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=34875&d=0&a=1
+id:	34875
+title:	Le chat, le chien et le ballon
+author:	Stefanie Zaske
+artist:	Elke and René Leisink
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34875.png
+desc:	Le chat et le chien sont de bons amis. Ils aiment bien jouer au ballon ensemble.
+
+page_text:
+
+P1	Voici le chat.@@Voici le chien.
+P2	Le chat et le chien habitent dans une maison.@@Une maison avec une porte.@@Une maison avec un toit.
+P3	Le chat et le chien ont un ballon.@@Le ballon est rouge et bleu et vert.
+P4	Le chat et le chien jouent avec le ballon.@@Le chat lance le ballon au chien. Le chien attrape le ballon.@@Le chien lance le ballon au chat. Le chat attrape le ballon.
+P5	Ensuite le chat lance le ballon très haut.@@Oh ! Oh !
+P6	Le ballon est sur le toit.@@Le ballon est sur le toit de la maison.
+P7	Le chat et le chien peuvent voir le ballon.@@Le chat et le chien ne peuvent pas atteindre le ballon.
+P8	Le chat et le chien pleurent.@@Voici l'éléphant qui arrive.
+P9	L'éléphant est grand.@@L'éléphant peut voir le ballon. L'éléphant peut atteindre le ballon.@@L'éléphant fait descendre le ballon du toit.@L'éléphant fait descendre le ballon du toit de la maison.
+P10	L'éléphant donne le ballon au chat et au chien.@@Le chat et le chien sourient. L'éléphant sourit.@@Le chat et le chien et l'éléphant sourient.
+P11	Le chat et le chien et l'éléphant jouent avec le ballon. Le chat lance le ballon au chien. Le chien attrape le ballon. Le chien lance le ballon à l'éléphant. @@L'éléphant attrape le ballon. L'éléphant lance le ballon au chat. Le chat attrape le ballon.
+P12	Au revoir, le chat.@@Au revoir, le chien.@@Au revoir, l'éléphant.
+P13	 
+
+images:
+
+illustrations/pages/18630.png
+illustrations/pages/18631.png
+illustrations/pages/18632.png
+illustrations/pages/18633.png
+illustrations/pages/18634.png
+illustrations/pages/18635.png
+illustrations/pages/18636.png
+illustrations/pages/18637.png
+illustrations/pages/18638.png
+illustrations/pages/18639.png
+illustrations/pages/18640.png
+illustrations/pages/18641.png
+illustrations/pages/18642.png
+illustrations/pages/18782.png
+
+translations:
+
+Anii (Adaptation)	Ganyaʊ, asna na bɔl	id=36553
+CiNyanja (Translation)	Cona, Galu na mpila	id=20772
+English (Original)	Cat and Dog and the Ball	id=20148
+Kinyarwanda (Translation)	Injangwe, imbwa n'inzovu	id=20686
+Luganda (Translation)	Wakkapa ne Wambwa n'omupiira	id=23268
+Lusoga (Translation)	Epuusi, Embwa n'omupiira	id=25003
+Persian (Afghanistan) (Translation)	سگ و گربه و توپ	id=33603
+SiLozi (Translation)	Kaze Nja Nimbola	id=20923
+Tiv (Translation)	Kpatema vea Iwa man Bol	id=34841

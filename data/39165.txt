@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=39165&d=0&a=1
+id:	39165
+title:	Où est mon chat?
+author:	Rahinatou Issifou
+artist:	Bronwen Heath
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/39165.png
+desc:	Ce petit livre nous raconte comment un petit garçon cherche son chat partout. Ce livre nest pas difficile à lire.
+
+page_text:
+
+P1	Où est mon chat ?
+P2	Est-ce qu'il est dessous le lit ?
+P3	Est-ce qu'il est en haut de l'armoire ?
+P4	Est-ce qu'il est derrière le canapé ?
+P5	Est-ce qu'il est à côté de la poubelle ?
+P6	Est-ce qu'il est dans le panier ?
+P7	Est-ce qu'il est derrière la maison ?
+P8	Ha ! Le voici !
+P9	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :@@www.revue-gugu.org
+P10	+229 66 66 11 11@Téléphone et WhatsApp@@L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+Anii (Adaptation)	Ŋka na aŋganyaʊ ga ɖa ?	id=39164
+Babanki (Translation)	Bushi ə ghom ye?	id=36990
+ChiNambya (Translation)	Kayipi kangowe kangu?	id=32629
+English (Original)	Where is my cat?	id=32620
+English (Adaptation)	Where is my cat? (With activities)	id=37008
+Kinyarwanda (Translation)	Ipusi yange iri hehe?	id=32621
+Kiswahili (Translation)	Wapi paka wangu?	id=32636
+Kom (Translation)	Bès ɨ̀ yem bà?	id=40155
+Oshikwanyama (Translation)	Okambishi kange oke lipeni?	id=37047
+Pokomo (Translation)	Ayu mpaka jwangu kaakuu?	id=33506
+Yoruba (Translation)	Níbo ní ológbò mi wà?	id=33126

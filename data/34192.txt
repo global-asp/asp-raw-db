@@ -1,0 +1,72 @@
+url:	https://africanstorybook.org/reader.php?id=34192&d=0&a=1
+id:	34192
+title:	Nxupulo
+author:	Arnold Mushwana
+artist:	Melany Pietersen
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34192.png
+desc:	Hi wihi nxupulo wa jaha ra makolo loyi a dyeke mihandzu yo tala?
+
+page_text:
+
+P1	Siku rin'wana manana u xavile mihandzu yo tala.
+P2	"Xana hi ta dya rini mihandzu leyi?" hi mina ndzi vutisaka.@@"Hi ta dya mihandzu leyi nimadyambu," ku hlamula manana.
+P3	Buti wa mina Akani u na makolo.@@U ringetile mihandzu hinkwayo. U dye mihandzu yo tala swinene.
+P4	"Akani wa phungela na kona u tiehleketelela a ri yexe," ku vula mina.
+P5	Manana a hlundzukile hikokwalaho ka swiendlo swa Akani.
+P6	Na hina a hi khunguvanyekile hikokwalaho ka Akani.
+P7	"Xana mi ta n'wi xupula Akani ke?" ku vutisa buti wa mina lontsongo.
+P8	"Wena Akani, u ta tisola ku nga ri khale," ku tsundzuxa manana.
+P9	Akani a sungula ku va a nga ha titwi kahle.
+P10	"Khwiri ra mina ra vava," ku hlevetela Akani.
+P11	Manana a swi tiva leswaku hikokwalaho ka yini Akani a nga titwi kahle.@  @"Mihandzu yi le ku n'wi xupuleni," ku vula manana.
+P12	Endzhaku ka nkarhi, Akani u ve a kombela ku khomeriwa. "A ndzi nge he vi na makolo na siku na rin'we," ku tshembisa Akani.@@Ha n'wi tshemba.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Afrikaans (Translation)	Straf	id=37762
+Arabic (Translation)	العقاب	id=21885
+Chichewa (Translation)	Chilango	id=34964
+Chinkhonde (Translation)	Cilango	id=34999
+Chitonga (Malawi) (Translation)	Chilangu	id=35024
+Citumbuka (Translation)	Cilango	id=35050
+Ciyawo (Malawi) (Translation)	Camuko	id=35074
+Ellomwe (Malawi) (Translation)	Echibalo	id=35106
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	Punishment (Colour-in)	id=32505
+isiXhosa (Translation)	Isohlwayo	id=37847
+isiZulu (Translation)	Isijeziso	id=37711
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	Adhabu (Paka rangi)	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (Lesotho) (Translation)	Kotlo	id=36352
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402
+Tshivenḓa (Translation)	Ndaṱiso	id=34299
+Urdu (Adaptation)	سزا	id=35982

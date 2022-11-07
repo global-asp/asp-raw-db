@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34374&d=0&a=1
+id:	34374
+title:	Mbui, ngimbwa ni ng'ombe
+author:	Jacinto Saidine Chaúre
+artist:	Marleen Visser
+lang:	Xingoni
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34374.png
+desc:	Mbui
+
+page_text:
+
+P1	Mbui, ngimbwa ni ng'ombe akatomana uganja. Lixôva limu apangana ulendu. Vowa akwela mutuka.
+P2	Wapehike palihutu lya kuhuluka jwajendiha' mutuka vajôpa kutenda annêpi nxuluku waku. Nang'ombe annêpa.
+P3	Nangimbwa hêlahela alêpa, nambu akopoha nxuluku wamahena ni hibidi anng'ujakihi xenji jaku.
+P4	Jwakujendeha mutuka jôla apalita' kunng'ujakiha nxuluku nangimbwa jôla, nambu nambui atila wangalêpa.
+P5	Jwakujendeha mutuka jôla aximwa ni nakupivahujikiha anangimbwa xenji jau.
+P6	Kuxoko' linjôva lênele, nangimbwa, kama auweni mutuka, atenda kuugumalila ni kulingulila nkati mwaku, pangi xammoni jwakujendeha mutuka jôla, ampeli xenji jaku.
+P7	Nambui akaujôwa' mutuka, atenda kutila. Ajowoka kuntava mwaha wangalêpa.
+P8	Nang'ombe akaujôwa' mutuka, wakajanaga mbalabala, nakupaxituka. Ajenda mwapali' mweni, mwa' kutenda akalêpa nxuluku wowa wa ulendu.
+
+images:
+
+illustrations/pages/26474.png
+illustrations/pages/26470.png
+illustrations/pages/26471.png
+illustrations/pages/26473.png
+illustrations/pages/26474.png
+illustrations/pages/26475.png
+illustrations/pages/26476.png
+illustrations/pages/26477.png
+illustrations/pages/26478.png
+
+translations:
+
+Anii (Adaptation)	Nnanarɩ, asna nʼʊce	id=34344
+Cinyungwe (Translation)	Mbuzi, Mbwaya na Ng'ombe	id=31535
+Ciyawo (Translation)	Mbusi, mbwa ni ng'ombe	id=31552
+Elomwe (Translation)	Epuri, Mwalapwa ni Emope	id=31550
+Emakhuwa (Translation)	Epuri, Mwalapwa ni Enyompe	id=31551
+English (Original)	Goat, Dog and Cow	id=31498
+Imeetto (Translation)	Ipuri, Mwalapwa, ni Imope	id=33187
+Kanuri (Translation)	Kanyi-a Kǝri-a Fe-a	id=32374
+Kinyarwanda (Translation)	Ihene, Imbwa, n'Inka	id=32575
+Kiswahili (Translation)	Mbuzi, Mbwa na Ng'ombe	id=33533
+Luganda (Translation)	Wambuzi, Wambwa ne Wante	id=33531
+Lumasaaba (Translation)	Imbusi, Imbwa ni Ingaafu	id=33464
+Moro (Translation)	Rənldo, Ŋina na Dia	id=32101
+Moro (Translation)	Rǝldo, Ŋina na Dia	id=32125
+Portuguese (Translation)	O Cabrito, o Cão e a Vaca	id=31532
+Rukiga (Translation)	Embuzi, Embwa hamwe Nente	id=34734

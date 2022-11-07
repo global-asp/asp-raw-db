@@ -1,0 +1,96 @@
+url:	https://africanstorybook.org/reader.php?id=39166&d=0&a=1
+id:	39166
+title:	Ambasoro
+author:	Rahinatou Issifou
+artist:	Catherine Groenewald
+lang:	Anii
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39166.png
+desc:	Mbʊpá njala nɖe n tɩ lǝ atʊ acǝrá nɖee Samiu nabasoro ba sɔlɔ ʊleu ma. Mbʊpá nɖe kɩ n sɔm ʊtʊr na.
+
+page_text:
+
+P1	Amʊ n jɩ ka wàà, Samiu.
+P2	N wʊɖa basoro banan.
+P3	Ba jɩ ka wàà, Siina, Leela, Asiisu n'Ayaatɩ.
+P4	Amʊsoro Siina a sɔlɔ bɔl akǝka.
+P5	Amʊsoro Leela a sɔlɔ bʊtuɖaka.
+P6	Amʊsoro Asiisu a sɔlɔ ŋgee.
+P7	Amʊsoro Ayaatɩ a sɔlɔ gʊbʊtʊrka.
+P8	Amʊ ni ? N sɔlɔ acǝrá ɩŋunii nɖee ba sɔlɔ na lee ma.
+P9	N tɩ kǝ bɔl na Siina.
+P10	N tɩ ɖa bʊto na Leela.
+P11	N tɩ kʊl ŋgee n'Asiisu.
+P12	Amʊsoro, pɩ̂, mʊ nʊ ʊ sɔlɔ ʊleu ?
+P13	Pɩ̂ atɩ kǝ bɔl n'atʊ.
+P14	Pɩ̂ atɩ ɖa bʊto n'atʊ.
+P15	Pɩ̂ atɩ kʊl ŋgee n'atʊ.
+P16	Pɩ̂ atɩ tʊr gʊbɔ n'atʊ.
+P17	Ce livre a été traduit et publié par l'équipe anii de SIL à Bassila. Pour plus d'informations sur le projet anii et d'autres publications en langue anii, contactez-nous :@@www.revue-gugu.org
+P18	+229 66 66 11 11@Téléphone et WhatsApp@@L'équipe anii salue l'équipe de AfricanStoryBook et les remercie pour leur générosité et pour la licence de CC BY.
+
+images:
+
+illustrations/pages/8601.png
+illustrations/pages/8600.png
+illustrations/pages/8601.png
+illustrations/pages/8602.png
+illustrations/pages/8603.png
+illustrations/pages/8604.png
+illustrations/pages/8605.png
+illustrations/pages/8606.png
+illustrations/pages/9857.png
+illustrations/pages/8608.png
+illustrations/pages/8609.png
+illustrations/pages/8610.png
+illustrations/pages/8607.png
+illustrations/pages/9845.png
+illustrations/pages/9848.png
+illustrations/pages/9858.png
+illustrations/pages/9855.png
+
+translations:
+
+Afrikaans (Translation)	Maatjies	id=11300
+ChiShona (Translation)	Shamwari	id=22215
+ChiTonga (Translation)	Beenzuma	id=18629
+ChiTonga (Adaptation)	Beenzuma	id=37698
+CiNyanja (Translation)	Anzanga	id=18663
+CiNyanja (Adaptation)	Anzanga	id=37699
+Dholuo (Translation)	Osiepe	id=15146
+Dhopadhola (Translation)	Merin	id=15756
+Dinka (Translation)	Wɛt maadh	id=39421
+English (Translation)	Friends	id=9879
+English (Adaptation)	My New Friends	id=12412
+French (Translation)	Mes Amis	id=13272
+IciBemba (Translation)	Abanandi	id=18569
+IciBemba (Adaptation)	Abanandi	id=37700
+isiNdebele (Translation)	Abangani	id=21926
+IsiNdebele (Zimbabwe) (Translation)	Abangane	id=21682
+isiXhosa (Translation)	Abahlobo	id=9880
+isiZulu (Original)	Abangane	id=8088
+Kinyarwanda (Translation)	Inshuti	id=31364
+Kiswahili (Translation)	Marafiki	id=16084
+Lámnsoʼ (Translation)	Ŋkar si	id=22271
+Lugwere (Translation)	Bakaagwa	id=16114
+Lunyole (Translation)	Ab’Omuhago	id=16421
+Lusoga (Translation)	Emikwaano	id=25459
+Lusoga (Translation)	Emikwano	id=30568
+Mampruli (Translation)	Zɔadima	id=20110
+Ng’aturkana (Translation)	Ng'ipalon	id=15579
+Olukabarasi (Translation)	Esie nende abalina banje	id=31890
+Oluwanga (Translation)	Abetsa	id=19794
+Portuguese (Translation)	Amigos	id=16417
+Runyoro-Rutooro (Translation)	Abanywani	id=34851
+Sepedi (Translation)	Bagwera	id=18979
+Sesotho (South Africa) (Translation)	Metswalle	id=20027
+Setswana (Translation)	Ditsala	id=15037
+SiLozi (Translation)	Balikani	id=18620
+Siswati (Translation)	Bangani	id=21520
+Spanish (Translation)	Amigos	id=34749
+Talen (Translation)	Zɔnam	id=20192
+TjiKalanga (Translation)	Bakhwinya	id=35371
+Tshivenḓa (Translation)	Khonani	id=18299
+Tunisian (Translation)	L-asħab	id=15388
+Xitsonga (Translation)	Vanghana	id=18879

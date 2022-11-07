@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=36331&d=0&a=1
+id:	36331
+title:	Me siento preocupado
+author:	Aprende Leyendo
+artist:	Marleen Visser
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36331.png
+desc:	¿Cómo manejas tus miedos y preocupaciones durante la pandemia del coronavirus?
+
+page_text:
+
+P1	Cerraron los colegios y nos mandaron a casa.
+P2	No podemos jugar con otros niños.
+P3	Extraño estar con mis amigos.
+P4	Extraño ir al colegio.
+P5	Mi mamá está preocupada por mi tío.@Él está enfermo en el hospital.
+P6	Nuestros papás están preocupados por todo.
+P7	A todos nos preocupa enfermarnos con el virus.
+P8	¡Solo escuchamos del coronavirus!@¡Me gustaría que ya desapareciera!
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740449.png
+illustrations/pages/93740447.png
+illustrations/pages/93740452.png
+illustrations/pages/93740451.png
+illustrations/pages/93740446.png
+illustrations/pages/93740442.png
+illustrations/pages/93740444.png
+illustrations/pages/93740440.png
+
+translations:
+
+Afrikaans (Translation)	Ek voel bekommerd	id=35796
+English (Original)	I Feel Alone	id=35221
+English (Adaptation)	I feel worried	id=35252
+isiXhosa (Translation)	Ndiziva ndindedwa	id=35285
+Kiswahili (Translation)	Nina wasiwasi	id=35279
+Otuho (Translation)	Abotihino nî	id=35492
+Tiv (Translation)	Zam Iyol	id=35558
+TjiKalanga (Translation)	Andizogadzikana	id=35258
+TjiKalanga (Translation)	Ndozwiwha ndili ndoga	id=35260

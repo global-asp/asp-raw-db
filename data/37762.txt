@@ -1,0 +1,72 @@
+url:	https://africanstorybook.org/reader.php?id=37762&d=0&a=1
+id:	37762
+title:	Straf
+author:	Fanie Viljoen and Magdaleen  Du Toit
+artist:	Melany Pietersen
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37762.png
+desc:	Wat is die straf virn gulsige seun wat te veel vrugte geëet het?
+
+page_text:
+
+P1	Op 'n dag het Mamma verskillende soorte vrugte gekoop.
+P2	"Wanneer kan ons van die vrugte eet?" vra ons.@@"Ons sal vanaand die vrugte eet," sê Mamma.
+P3	My broer Rahim is gulsig.@@Hy proe aan al die vrugte. Hy eet 'n klomp daarvan op.
+P4	"Kyk wat het Rahim gedoen!" skree my klein boetie.@@"Rahim is stout en selfsugtig," sê ek.
+P5	Mamma is baie kwaad vir Rahim.
+P6	Ons is ook kwaad vir Rahim.@@Maar Rahim is nie jammer nie.
+P7	"Gaan Mamma vir Rahim straf?" vra my klein boetie.
+P8	"Rahim, jy gaan binnekort baie jammer wees," waarsku Mamma.
+P9	Rahim begin siek voel.
+P10	"My maag pyn," fluister Rahim.
+P11	Mamma weet hoekom Rahim siek voel.@@Die vrugte straf vir Rahim, dink Mamma.
+P12	Later sê Rahim vir ons hy is jammer. "Ek sal nooit weer so gulsig wees nie," belowe hy.@@Ons glo hom.
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Arabic (Translation)	العقاب	id=21885
+Chichewa (Translation)	Chilango	id=34964
+Chinkhonde (Translation)	Cilango	id=34999
+Chitonga (Malawi) (Translation)	Chilangu	id=35024
+Citumbuka (Translation)	Cilango	id=35050
+Ciyawo (Malawi) (Translation)	Camuko	id=35074
+Ellomwe (Malawi) (Translation)	Echibalo	id=35106
+English (Adaptation)	Punishment	id=11989
+English (Adaptation)	Punishment (Colour-in)	id=32505
+isiXhosa (Translation)	Isohlwayo	id=37847
+isiZulu (Translation)	Isijeziso	id=37711
+Kῖmῖῖrũ  (Translation)	Nthĩnje	id=32824
+Khoekhoegowab (Translation)	//Kharab	id=33541
+Kinyarwanda (Translation)	Igihano	id=32610
+Kiswahili (Original)	Adhabu	id=8074
+Kiswahili (Adaptation)	Adhabu (Paka rangi)	id=33358
+Lusoga (Translation)	Ekibonerezo	id=26316
+Oshikwanyama (Translation)	Ehandukilo	id=33468
+Oshindonga (Translation)	Egeelo	id=33470
+Otjiherero (Translation)	Ombererero	id=33466
+Rukwangali (Translation)	Edewuro	id=33474
+Sepedi (Translation)	Kotlo ya Maja	id=33463
+Sesotho (Lesotho) (Translation)	Kotlo	id=36352
+Sesotho (South Africa) (Translation)	Kotlo	id=33374
+Siswati (Translation)	Sijeziso	id=33402
+Tshivenḓa (Translation)	Ndaṱiso	id=34299
+Urdu (Adaptation)	سزا	id=35982
+Xitsonga (Translation)	Nxupulo	id=34192

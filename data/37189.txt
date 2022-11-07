@@ -1,0 +1,27 @@
+url:	https://africanstorybook.org/reader.php?id=37189&d=0&a=1
+id:	37189
+title:	Learn ABC written by Amrinder
+author:	Amrinder Singh
+artist:	Wiehan de Jager and Abraham Muzee
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37189.png
+desc:	abcdefghijklmnopqrstuvwxyz learn ABC 
+Amrinder
+
+page_text:
+
+P1	A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+P2	a b c d e f g h i j k l m n o p q r s t u v w x y z
+P3	A  _ B
+
+images:
+
+illustrations/pages/1499.png
+illustrations/pages/1499.png
+illustrations/pages/1496.png
+illustrations/pages/13262.png
+
+translations:
+

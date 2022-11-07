@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34820&d=0&a=1
+id:	34820
+title:	Gidan Luwo
+author:	Amina  Jibril and Joshua  Abdul
+artist:	Jacob  Matthess
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34820.png
+desc:	Luwo ya yi tsegumi zuwa wajen coci ya tafi gixa. Amma neman gixan shi ba yi sauki ba yada ya tsammani ba.
+
+page_text:
+
+P1	Luwo ya tafi coci da mama'n shi.@  @Ta rike hannun shi a ka'n hanya.
+P2	A ciki coci'n aqwai mutane da yawa su'n tattara.@  @ Su na yin waka.
+P3	Luwo ya bar coci'n.@  @Mama'n shi ba ta gan shi ba.
+P4	Luwo tsaya aqa'n hanyar.@  @Ya xuba kasa'r hanya'n, sai ya yi tunani, "ina gixa@  na?"
+P5	Sai, ya bi hanyar.@  @Ya gani wani bavvan gixa.@  @@  "A'a, wancan ba gida'n@  mu ba ne. gidan mu karami ne"
+P6	Luwo ya yi tafiya kax'an. Ya gan wani gixa a kan ginshiki@  @ "A'a, wancan ba gixa'n mu ba ne. Gixan mu ba ya kan ginshiki."
+P7	Ya ci gaba da tafiya. Ya gani wani karami'n gixa na bambaro.@  @ "A'a, wancan ba gida'n mu ba ne. Gidan mu na da bango'n laka."
+P8	Luwo ya kara nisa, ya gani wani karami'n gixa tare da bishiya a' waje."@  @ "A'a, wancan ba gixa'n mu ba ne. Gixan mu na da bishiya guda biyu a' waje."
+P9	A' karshe Luwo ya gan Mamma'n shi ta na zuwa gareshi. Luwo gudu waje'n ta.@  @Maman shi ta ce, "mu je gixa!"
+P10	Wanne ne gixan Luwo?
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Asante Twi (Translation)	Luwo Fie	id=34864
+Bura (Translation)	KՁ ga  Luwo	id=34890
+Cinyanja (Mozambique) (Translation)	Nyumba ya Luwo	id=33827
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+English (Original)	Luwo's House	id=32346
+French (Translation)	La maison de Luwo	id=33378
+Igala (Translation)	Unyi Luwo's	id=34835
+Nupe (Translation)	Emi Luwo	id=34860
+Portuguese (Translation)	A Casa de Luwo	id=32379
+Urhobo (Translation)	Uwevwi ri Luwo	id=35204
+Yoruba (Translation)	Ilé Luwo	id=34813
+Yoruba(Ijesha) (Translation)	Ule Luwo	id=34862

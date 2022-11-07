@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=37940&d=0&a=1
+id:	37940
+title:	Mphatso ya agogo akazi
+author:	Peter  Msaka
+artist:	Sibongile Mnkandla
+lang:	ChiChewa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37940.png
+desc:	Amayi amuthandiza Thabo kupanga mphatso yopambana ya agogo akazi.
+
+page_text:
+
+P1	Agogo akazi akubwera kudzatiyendera. Nthawi zonse amamubweretsera Thabo mtedza ndi zipatso za mtchire, kapena chimanga chachiwisi ndi chivwende.@@Thabo akufuna kuwapatsa Agogo chinthu cha mtengo wapatali.
+P2	Buku litha kukhala mphatso yabwino kwambiri, koma kodi Agogo amatha kuwerenga?@@Kodi atapita kukagula kumasitolo, atha kukapeza chinthu chosangalatsa?@@"Tiyeni tiwapangire chikwama," anatero Thabo mwachimwemwe. "Chikwama chachikulu cholimba cha mtundu wa buluu."
+P3	Amayi atenga nsalu imene anagula kusitolo. Atambasula muyeso ndi kuyamba kudula.@@Ayamba ndi mbali ziwiri zimene ndi zotambalala komanso zazikulu.
+P4	Kenako mbali zing'onozing'ono ziwiri kuti chikhale ndi maonekedwe abwino.@@Thabo azipinda limodzi ndi mbali zikuluzikulu ziwiri zija. Akuwonerera pamene Amayi akuyesa kachikena.
+P5	Adula zidutswa ziwiri m'munsi mulitali. Izi ndi zimene zichititse chikwama kukhala cholimba.@@Thabo akupinda pamene Amayi akuyesanso.
+P6	Adula zidutswa zinayi zomwe ndi zotambalala komanso zazitali.@@Ziwiri zisokedwa limodzi kupanga lamba m'modzi. Izi zilimbitsa chikwama kwambiri.
+P7	Kenako Amayi atenga makina awo osokera.@@Alumikiza zidutswa zonse kupanga chikwama cha Agogo akazi.@@Achipereka kwa Thabo amene amwetulira ndi kunena kuti, "Zikomo Amayi posoka chikwama cha Agogo akazi."
+
+images:
+
+illustrations/pages/25487.png
+illustrations/pages/25488.png
+illustrations/pages/25495.png
+illustrations/pages/25490.png
+illustrations/pages/25491.png
+illustrations/pages/25492.png
+illustrations/pages/25493.png
+illustrations/pages/25494.png
+
+translations:
+
+ChiNambya (Translation)	Chipo chamegulu	id=32895
+ChiNdau (Translation)	Chipo chambuya	id=35132
+English (Original)	A present for grandma	id=21728
+French (Translation)	Un cadeau pour mamie	id=33151
+isiNdebele (Translation)	Isipho sakagogo	id=35210
+Lusoga (Translation)	Ekirabo kya dhaadha omukazi	id=28452
+Otuho (Translation)	Esiori jio hahanyi hoŋ	id=39225
+Sepedi (Translation)	Mpho ya Koko	id=33342
+Sesotho (Zimbabwe) (Translation)	Mpho Ea Nkuku	id=21729
+Siswati (Translation)	Sipho saGogo	id=34416
+Spanish (Translation)	Un regalo para la abuela	id=34354
+Tshivenḓa (Translation)	Mpho  ya makhulu	id=34301
+Xitsonga (Translation)	Nyiko ya kokwanaxisati	id=34194

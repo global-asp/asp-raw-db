@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=36375&d=0&a=1
+id:	36375
+title:	Yo amos los bosques
+author:	Aprende Leyendo
+artist:	Rob Owen
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36375.png
+desc:	En el bosque de Kibale conoceremos diferentes especies de pájaros
+
+page_text:
+
+P1	¡Yo amo los bosques!
+P2	La semana pasada fui al bosque de Kibale
+P3	Vi muchos árboles. Vi árboles de higo, milicia y ébano, y palmas
+P4	Vi chimpancés, babuinos y monos.
+P5	Vi diferentes pájaros. Vi grullas con cresta, águilas y búhos.
+P6	Me reí cuando vi un gran elefante con una colita pequeña.
+P7	Vi tantos animales, pájaros y plantas diferentes.
+P8	El bosque de Kibale es un gran lugar par visitar ¡Yo amo los bosques! ¿y tú?
+
+images:
+
+illustrations/pages/16540.png
+illustrations/pages/16577.png
+illustrations/pages/16539.png
+illustrations/pages/16544.png
+illustrations/pages/16541.png
+illustrations/pages/16543.png
+illustrations/pages/16542.png
+illustrations/pages/16540.png
+
+translations:
+
+English (Translation)	I love forests	id=16578
+French (Translation)	J'adore les forêts	id=33800
+Jenjo (Translation)	In yi da be ka mana	id=33577
+Kinyarwanda (Translation)	Nkunda amashyamba	id=20684
+Lusoga (Translation)	Nnendha ebibira	id=24842
+Rutooro (Original)	Ngonza Ebibira	id=16545
+Tiv (Translation)	M Soo Akô	id=32803

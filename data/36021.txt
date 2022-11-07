@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=36021&d=0&a=1
+id:	36021
+title:	Sentence Street
+author:	Doma DEDF
+artist:	Joe  Werna
+lang:	English
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36021.png
+desc:	This story introduces you to 9 punctuation marks.
+
+page_text:
+
+P1	Your adapted text
+P2	Your adapted text
+P3	Your adapted text
+P4	Your adapted text
+P5	Your adapted text
+P6	Your adapted text
+P7	Your adapted text
+P8	Your adapted text
+P9	Your adapted text
+P10	Your adapted text
+P11	Your adapted text
+P12	Your adapted text
+
+images:
+
+illustrations/pages/28699.png
+illustrations/pages/28699.png
+illustrations/pages/28700.png
+illustrations/pages/28701.png
+illustrations/pages/28702.png
+illustrations/pages/28712.png
+illustrations/pages/28713.png
+illustrations/pages/28714.png
+illustrations/pages/28715.png
+illustrations/pages/28716.png
+illustrations/pages/28718.png
+illustrations/pages/28717.png
+illustrations/pages/28719.png
+
+translations:
+
+English (Original)	Sentence Street	id=32606

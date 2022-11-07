@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=34713&d=0&a=1
+id:	34713
+title:	¡Pies, manos y cabeza
+author:	Paula Rico
+artist:	Brian Wambi, Kathy Arbuckle, Sarah Bouwer, Selina Masego Morulane, Silva Afonso, Vusi Malindi, Vusumuzi Malindi and Wiehan de Jager
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34713.png
+desc:	Explora los cinco sentidos junto con el maravilloso cuerpo humano y el cerebro.
+
+page_text:
+
+P1	Yo uso mis pies para correr, saltar y patear.
+P2	Yo uso mis manos para comer, trabajar y abrazar.
+P3	Pero la cabeza es más importante que los pies o las manos.
+P4	En mi cabeza están los ojos. Yo puedo ver con mis ojos.
+P5	En mi cabeza tengo la nariz. Yo puedo oler con mi nariz.
+P6	En mi cabeza están mis orejas. Yo puedo escuchar con mis orejas.
+P7	En mi cabeza está la lengua. Con ella puedo saborear lo salado y lo dulce.
+P8	En mi cabeza tengo mi boca. Yo puedo hablar con mi boca.
+P9	En mi cabeza tengo mi boca. Yo puedo hablar con mi boca.
+
+images:
+
+illustrations/pages/13338.png
+illustrations/pages/14908.png
+illustrations/pages/9353.png
+illustrations/pages/1714.png
+illustrations/pages/14998.png
+illustrations/pages/15128.png
+illustrations/pages/16533.png
+illustrations/pages/1500.png
+illustrations/pages/10976.png
+illustrations/pages/16534.png
+
+translations:
+
+Afrikaans (Translation)	Voete, hande en my kop!	id=36608
+English (Adaptation)	Feet, hands and head!	id=16631
+French (Translation)	Pieds, mains et tête !	id=34567
+Kabuverdianu (Translation)	Pé, mô, i kabésa!	id=32012
+Lusoga (Translation)	Ebigere,emikono no mutwe!	id=25843
+Pidgin English (Nigeria) (Translation)	Leg, hand and head	id=37826

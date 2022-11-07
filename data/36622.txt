@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=36622&d=0&a=1
+id:	36622
+title:	ኤሊዎች ለምን ፀጉር እንደሌላቸው
+author:	Mezemir Girma
+artist:	Maxwell  Abwamba
+lang:	Amharic
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36622.png
+desc:	ይህ ተረት ኤሊዎች መላጣ የሚሆኑበትን ምክንያት ያብራራል፡፡ ልጆች እናንተ ስታስቡት ለምን ይመስላችኋል?
+
+page_text:
+
+P1	በአንድ ወቅት ሊኩቱ የተባለ ኤሊ ይኖር ነበር፡፡ ሊኩቱ ከአንድ ገበያ አጠገብ ነበር የሚኖረው፡፡@@በዚህ የገበያ ስፍራም አንዲት ማንዳዚ እየጠበሰች የምትሸጥ ሴት ነበረች፡፡ ብዙ ሰዎች ከእርሷ ለመግዛት ይሰለፋሉ፡፡@@የማንዳዚው መዓዛ ሊኩቱን አማለለው፡፡ ጥቂት ለመግዛትም ተመኘ፡፡
+P2	አንድ ቀን ሊኩቱ ማንዳዚ ወደምትሸጠው ሴት ሄደ፡፡ ‹‹ጥቂት ማንዳዚ ለማግኘት ለእርስዎ አንድ ነገር የማደርግልዎት ነገር አለ?›› በማለት ጠየቃት፡፡@@‹‹አዎ፣ ወደ ቻማ የሴቶች ቡድን ስሄድ፣ ሱቄን እንድታይልኝ›› ስትል ሴትየዋ መለሰችለት፡፡
+P3	ሴትዮዋ በሌለችበት ጊዜ ሊኩቱን አንድ የሚያብረቀርቅ ማንዳዚ ማረከው፡፡@@በደስታም ለራሱ ‹‹የምችለውን ያህል እበላና የተወሰኑትን በባርኔጣዬ ውስጥ እደርጋለሁ›› አለ፡፡
+P4	ሊኩቱ ከራሱ ጋር ማውራቱን ገና ሳይጨርስ ባለማንዳዚዋ ሴትዮ ከሩቅ ብቅ ስትል አያት፡፡@@እየፈላ ከነበረው ዘይት ውስጥ ያወጣውን ማንዳዚ በባርኔጣው ጠቀጠቀ፡፡@@ከዚያም ባርኔጣውን ጭንቅላቱ ላይ አደረገ፡፡ ወዲያውኑ ሊኩቱ በሚያቃጥለው ማንዳዚ ምክንያት አንገቱን ማዟዟር ጀመረ፡፡
+P5	ሴትዮዋ እንደደረሰች ልጁ በህመም በጣም ሲንጠራራ ስትመለከተው ተገረመች፡፡@@እሷም ‹‹ምነው የሆነ ችግር አለ?›› በማለት ጠየቀችው፡፡@@‹‹አይ ምንም ችግር የለም!›› ሲል ሊኩቱ መለሰላት፡፡@@በፍጥነት ወደ አጎቱ ልጅ ቤት ሄደ፡፡@@የአጎቱን ልጅ ከእንግዶች ጋር ስላገኘው ዉጪ ቁጭ ብሎ ጠበቀው፡፡
+P6	ሊኩቱ እየጠበቀ ሳለ አንገቱን መወዝወዙን ቀጠለ፡፡@@የሊኩቱ የአጎት ልጅ አንገቱን ሲወዘውዝ ሲያየው ግራ ተጋባ፡፡@@ብቅ ብሎም የሊኩቱን ባርኔጣ አነሳው፡፡ ማንዳዚው መሬት ላይ ተዝረከረከ!
+P7	ሁሉም የሊኩቱ ፀጉር ተቃጥሏል፡፡ ልጁ መላጣ ሆኗል፡፡@@‹‹እንዴ፣ ምን ሆንክ?›› የአጎቱ ልጅ ጠየቀ፡፡ ሊኩቱ ግን ለመናገር በጣም አፍሮ ዝም አለ፡፡@@የሊኩቱ ፀጉር ዳግመኛ አላደገም፡፡@@ከዚያን ጊዜ ጀምሮ ሁሉም ኤሊዎች መላጣ ሆነው ቀሩ።
+
+images:
+
+illustrations/pages/93740385.png
+illustrations/pages/93740380.png
+illustrations/pages/93740381.png
+illustrations/pages/93740382.png
+illustrations/pages/93740383.png
+illustrations/pages/93740384.png
+illustrations/pages/93740385.png
+
+translations:
+
+ChiChewa (Translation)	Chifukwa chimene afulu alibe tsitsi	id=37952
+English (Original)	Why tortoises have no hair	id=34992
+Lunyore (Translation)	Esifune esichila likhutu liba ne siole	id=35012

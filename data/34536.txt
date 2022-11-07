@@ -1,0 +1,68 @@
+url:	https://africanstorybook.org/reader.php?id=34536&d=0&a=1
+id:	34536
+title:	Mautoto
+author:	Agnes Nankhoma-Singine Nyendwa
+artist:	Rijuta Ghate
+lang:	Chichewa
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34536.png
+desc:	Timafunsa kuti nanga nciani cimapangitsa zinthu kukhala ndi mautoto osiyana.
+
+page_text:
+
+P1	Kodi n'cifukwa ciani mwamba ndiyobiriwirira?
+P2	Simakhala yobiriwirira nthawi zonse. Kodi n'conco?
+P3	Kodi n'cifukwa ciani masamba ndi amsipu?
+P4	Samakhala amsipu nthawi zonse. Kodi n'conco?
+P5	Kodi n'cifukwa ciani nthoci ndi zachikasu? Nthoci zosapsa ndi zamsipu.
+P6	Nthoci zakupsa ndi zachikasu. Nthoci zosapsa ndi zamsipu
+P7	Kodi n'cifukwa ciani maambirela ndi yakuda?
+P8	Siwonse maambirela a kuda.
+P9	Kodi n'cifukwa ciani magazi ndi ofiira?
+P10	M'magazi muli aironi. Imene imawapangitsa kukhala ofiira.
+P11	Kodi n'cifukwa ciani mcere ndi woyera?
+P12	Kaya!
+
+images:
+
+illustrations/pages/1926.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+Anii (Adaptation)	Tâm atosʊra kaalei ashee amʊ	id=39804
+English (Original)	Colours	id=1927
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+French (Adaptation)	Raconte-Moi… Maintenant ! Les Couleurs	id=32666
+isiNdebele (Translation)	Ngitjela nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele...ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kinyarwanda (Translation)	Amabara	id=20918
+Kiswahili (Translation)	Nitajie majina ya rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Lusoga (Translation)	Langi	id=24975
+Maa (Translation)	Tólikíoki Tenákatá - Imúain	id=2818
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sepedi (Translation)	Mpotše...gona bjale! Mebala	id=1936
+Sesotho (Lesotho) (Translation)	Njoetse hona joale … Mebala	id=11549
+Setswana (Translation)	Mpotse mo... Mebala e farologaneng!	id=11164
+Spanish (Translation)	Colores	id=36304
+Tigrigna (Translation)	ሕብርታት	id=34282

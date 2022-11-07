@@ -1,0 +1,82 @@
+url:	https://africanstorybook.org/reader.php?id=39436&d=0&a=1
+id:	39436
+title:	Nyan ci kuec weet
+author:	Philip Lual Bol
+artist:	Rob Owen
+lang:	Dinka
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39436.png
+desc:	Yeŋo leu bi rot looi tɛ ci raan yepiŋ tɛ weet yeen?
+
+page_text:
+
+P1	Paan e cɔl Wunkuel lɔɔm, ecieŋ kepiinydiit e cɔl Lego thin.
+P2	Apiyo, Ajɔk ku Atɔŋ ake ci la kuany tiim  mac. @@Aci Madiit lueel, "Duɔk ka nhiim maar Lego."
+P3	Go nyiir ciam thaal. @@Erin le kek ta mec.
+P4	Go Apiyo lueel, "Bitku. Lego aci thiɔk tene."
+P5	Ka Ajɔk ee wic ec Lego. @@Go Apiyo lueel, "Tak kewaar ci Madiit ok riaac."
+P6	Ajɔk akec wɛtken gam. "Ɣɛn awic lec milaŋ Lego," ku lueel.
+P7	Lego aci bɛn ku yok lecken milaŋ ke liu. @@Go thiaan ku jɔl tiit.
+P8	Go nyiir ke daŋ piŋ la, "Ɣooooo!" @@Lego eci rot guiir ku bi cuar kac.
+P9	Go Lego lueel, "Lɔn ci cuar athɛmde koŋ tiaam."
+P10	Apiyo ku Atɔŋ aci waak ŋiec ket. @@Go ke athem tiaam.
+P11	Ajɔk aci waak joor ketket. @@Go Lego guɔ ŋic lɔn ye yen cuar.
+P12	Lego aca Ajɔk liek! @@Go Madiit lueel, "Ku na cɔk ayen ken ci yen wɛtdie piŋ waar."
+
+images:
+
+illustrations/pages/10763.png
+illustrations/pages/10763.png
+illustrations/pages/10765.png
+illustrations/pages/10766.png
+illustrations/pages/10767.png
+illustrations/pages/10769.png
+illustrations/pages/10770.png
+illustrations/pages/10771.png
+illustrations/pages/10772.png
+illustrations/pages/10773.png
+illustrations/pages/10774.png
+illustrations/pages/10775.png
+illustrations/pages/10776.png
+
+translations:
+
+Afrikaans (Translation)	Woud van slange	id=20057
+ChiTonga (Translation)	Cisaka canzoka	id=18645
+CiNyanja (Translation)	Sanga la Njoka	id=18662
+Dhopadhola (Translation)	Lul Thwol	id=15738
+English (Original)	Forest of snakes	id=13265
+English (Adaptation)	The evil forest	id=14414
+English (Adaptation)	Girl who did not listen	id=21789
+English (Adaptation)	Forest of snakes	id=35366
+French (Translation)	La Forêt Des Serpents	id=13772
+IciBemba (Translation)	Insoka Isha Mumpanga	id=18682
+IciBemba (Adaptation)	Insoka Isha Mumpanga	id=35363
+Igbo (Translation)	Ọhịa agwọagwọ	id=22155
+isiNdebele (Translation)	Ihlathi leenyoka	id=21923
+isiXhosa (Translation)	Ihlathi leenyoka	id=17524
+isiXhosa (Adaptation)	Intombazana eyayinenkani	id=22430
+isiZulu (Translation)	Inyoka yehlathi, uMagilogilo	id=16094
+Kinyarwanda (Translation)	Irya mukuru	id=31712
+Kinyarwanda (Adaptation)	Inzoka Kimizi	id=32714
+Kinyarwanda (Adaptation)	Irya mukuru	id=32744
+Kiswahili (Translation)	Msitu wenye nyoka	id=13309
+Kiswahili (Translation)	Asiyesikia la mkuu	id=21817
+Luganda (Translation)	Omuwala owe mputtu	id=23787
+Lusoga (Translation)	Ekibira kye'Misota	id=22703
+Ng’aturkana (Translation)	Amoni  Ang’Imunio	id=13310
+Ng’aturkana (Adaptation)	Amoni Na Aya Ng'imunio	id=20357
+Olunyala (Translation)	Esichakha Esya Chinjukha	id=13266
+Oluwanga (Translation)	Omutsuru Kwe Tsinzukha	id=13311
+Oluwanga (Translation)	Nandahulira	id=22822
+Portuguese (Translation)	A Floresta De Cobras	id=16581
+Rukiga (Translation)	Eihamba ryenjoka	id=34746
+Runyankore (Translation)	Ekibira ky'Enjoka	id=24699
+Sepedi (Translation)	Lešoka la dinoga	id=18996
+Sesotho (South Africa) (Translation)	Moru wa dinoha	id=20026
+Setswana (Translation)	Sekgwa sa dinoga	id=14954
+SiLozi (Translation)	Linoha Zamwa Mushitu	id=18708
+Siswati (Translation)	Mambakati, inyoka yelihlatsi	id=21519
+Tshivenḓa (Translation)	Ḓaka ḽa dziṋowa	id=18296
+Xitsonga (Translation)	Xihlahla xa tinyoka	id=18880

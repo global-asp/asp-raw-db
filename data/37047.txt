@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=37047&d=0&a=1
+id:	37047
+title:	Okambishi kange oke lipeni?
+author:	Hamukoto Efraim
+artist:	Bronwen Heath
+lang:	Oshikwanyama
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/37047.png
+desc:	Okambishi kange oka kanapo. Okambishi kange ou kawetepo  opo?
+
+page_text:
+
+P1	Okambishi Kange okelipeni?
+P2	Oke li koshi yOmbete?
+P3	Oke li kombada yOsikopa?
+P4	Oke li koshi yEtyofa?
+P5	Oke li popepi nedoloma loimbondi?
+P6	Oke li mOshimbale?
+P7	Oke li pondje yeumbo?
+P8	Okaka keli apa!
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+Anii (Adaptation)	Ŋka na aŋganyaʊ ga ɖa ?	id=39164
+Babanki (Translation)	Bushi ə ghom ye?	id=36990
+ChiNambya (Translation)	Kayipi kangowe kangu?	id=32629
+English (Original)	Where is my cat?	id=32620
+English (Adaptation)	Where is my cat? (With activities)	id=37008
+French (Adaptation)	Où est mon chat?	id=39165
+Kinyarwanda (Translation)	Ipusi yange iri hehe?	id=32621
+Kiswahili (Translation)	Wapi paka wangu?	id=32636
+Kom (Translation)	Bès ɨ̀ yem bà?	id=40155
+Pokomo (Translation)	Ayu mpaka jwangu kaakuu?	id=33506
+Yoruba (Translation)	Níbo ní ológbò mi wà?	id=33126

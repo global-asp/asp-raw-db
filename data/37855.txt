@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=37855&d=0&a=1
+id:	37855
+title:	Ḓuvha, Ṅwedzi, Mvula na Muya
+author:	Doris  Manyamalala and Tshedza  Tlhako
+artist:	Children of Paleng
+lang:	Tshivenḓa
+level:	Read aloud
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37855.png
+desc:	Ḓuvha
+
+page_text:
+
+P1	Nga ṅwaha wa mmbo na tsikidzi, Ḓuvha, Ṅwedzi, Mvula na Muya vho vha vha tshi khou lwa.
+P2	Thaidzo ndi uri Ḓuvha u ṱoḓa u penya ḓuvha ḽoṱhe.@@Ṅwedzi u ṱoḓa u vhonetshela tshedza tshawe ḓuvha ḽiṅwe na ḽiṅwe.@@Mvula u ṱoḓa u na ḓuvha ḽiṅwe na ḽiṅwe, nahone Muya u ṱoḓa u vhudzula ḓuvha ḽiṅwe na ḽiṅwe.@@Vho vha vha sa ṱoḓi u sielisana.
+P3	Vha khetha uri vha dzule vhoṱhe fhasi vha amba ngazwo.@@Ḓuvha a vhudzisa Ṅwedzi, "Ndi mini zwine wa ita u thusa ḽifhasi?"@@Ṅwedzi a fhindula, "Ndi vhonetshela vhusiku uri zwipuka zwi zwime."
+P4	Ṅwedzi a vhudzisa Mvula, "Ndi mini zwine wa ita u thusa ḽifhasi?"@@Mvula a fhindula, "Ndi fha ḽifhasi maḓi uri miri na zwimela zwi hule zwavhuḓi. Ndi fha zwipuka maḓi a u nwa."
+P5	Mvula a vhudzisa Muya, "Ndi mini zwine wa ita u thusa ḽifhasi?"@@Muya a fhindula, "Ndi swiela ḽifhasi ḽa kuna. Ndi hasekanya mvula kha ḽifhasi ḽoṱhe."
+P6	Muya wa vhudzisa Ḓuvha, "Ndi mini zwine wa ita u thusa ḽifhasi?"@@Ḓuvha a fhindula, "Ndi fha ḽifhasi tshedza na vhududo u itela uri zwipuka na zwimela zwi tshile."
+P7	Ḓuvha, Ṅwedzi, Mvula na Muya vha thetshelesana nga vhuronwane.
+P8	Ḓuvha a ri, "Ndi ngoho uri roṱhe ri thusa ḽifhasi nga nḓila dzashu dzo khetheaho."@@Ṅwedzi a ri, "Ee, a huna wa khwine u fhira muṅwe."@@"Ri nga shumisana," hu amba Mvula.@@Muya a ri, "Kha ri kovhelane maḓuvha." Vha tendelana.
+P9	Ndi ngazwo nga zwiṅwe zwifhinga ni tshi vhona ṅwedzi musi ḓuvha ḽi tshi penya.@@Nga zwiṅwe zwifhinga ni tshi pfa kumuya musi mvula i tshi na.@@Ḓuvha, Ṅwedzi, Mvula na Muya vha shumisana zwavhuḓi. Vha a pfesesana.
+P10	Ni a funa ḓuvha, ṅwedzi, mvula kana muya?@@Olani tshine na tshi funesa.
+P11	Ri ṱoḓa ḽifhasi uri ri tshile. Ḽi ri fha zwiḽiwa, vhudzulo, zwipuka na zwimela.@@Zwoṱhe zwi ri thusa nga iṅwe nḓila.@@Huna zwine roṱhe ra nga ita u thusa ḽifhasi ḽashu.@@Ni ḓo ita mini u thusa ḽifhasi? Zwi ṅwaleni fhasi.
+
+images:
+
+illustrations/pages/16102.png
+illustrations/pages/16100.png
+illustrations/pages/16101.png
+illustrations/pages/16102.png
+illustrations/pages/16103.png
+illustrations/pages/16104.png
+illustrations/pages/16105.png
+illustrations/pages/16106.png
+illustrations/pages/16107.png
+illustrations/pages/16110.png
+illustrations/pages/16108.png
+
+translations:
+
+Afrikaans (Translation)	Son, Maan, Reën en Wind	id=37763
+Chichewa (Translation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=34965
+Chinkhonde (Translation)	Suba, Mwesi, Fula ni Mbelo	id=35000
+ChiTonga (Translation)	Zuba, Mwezi, Imvwula Amuwo	id=32879
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula, Amuwo	id=37407
+ChiTonga (Adaptation)	Zuba, Mwezi, Mvwula a Muwo	id=37720
+Chitonga (Malawi) (Translation)	Lumwi, Mwezi, Vuwa ndi Mphepu	id=35025
+CiNyanja (Translation)	Zuba, Mwezi, Mvula na Mpepo	id=32840
+CiNyanja (Adaptation)	Dzuwa, Mwezi, Mvula ndi Mphepo	id=37722
+Citumbuka (Translation)	Zuŵa, Mwezi, Vula na Mphepo	id=35051
+Ciyawo (Malawi) (Translation)	Lyuŵa, Mwesi, Ula ni Mbepo	id=35075
+Ellomwe (Malawi) (Translation)	Nndduwa, Mweri, Murimu na Ephevo	id=35107
+English (Translation)	Sun, Moon, Rain and Wind	id=16111
+IciBemba (Translation)	Kasuba, Mweshi, Mmfula, na Mwela	id=32864
+IciBemba (Translation)	Akasuba, Umweshi, Imfula Noomwela	id=33257
+IciBemba (Adaptation)	Akasuba, Umweshi, Imfula Noomwela	id=37723
+isiXhosa (Translation)	ULanga, uNyanga, uMvula noMoya	id=37848
+isiZulu (Translation)	ULanga, uNyanga, uMvula noMoya bayaxoxa	id=37712
+Lusoga (Translation)	Musana, Mwezi, Nkuba ni Mpewo	id=21261
+Lusoga (Translation)	Musana, Mwezi, Maadhi ni Mpewo	id=21383
+Oshikwanyama (Translation)	Etango, Ohani, Odula nOmhepo	id=31598
+Oshindonga (Translation)	Etango, Omwedhi, Omvula nOmbepo	id=31656
+Otjiherero (Translation)	Ejuva, Omueze, Ombura no Mbepo	id=31618
+Rukwangali (Translation)	Ezuva, Kwedi, Mvhura noMpepo	id=31617
+Sepedi (Translation)	Letšatši, Ngwedi, Pula le Moya	id=32458
+Sesotho (Lesotho) (Adaptation)	Letsatsi, Khoeli, Pula le Moea	id=34939
+Sesotho (South Africa) (Translation)	Letsatsi, Kgwedi, Pula le Moya	id=32437
+Siswati (Translation)	Lilanga, Inyanga, Imvula neMoya	id=32444
+Xitsonga (Translation)	Dyambu, N'weti, Mpfula na Moya	id=37747

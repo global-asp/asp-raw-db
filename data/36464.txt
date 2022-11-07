@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=36464&d=0&a=1
+id:	36464
+title:	Frutas
+author:	Aprende Leyendo
+artist:	Wiehan de Jager and Catherine Groenewald
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36464.png
+desc:	La fruta es buena para nosotros. La gente
+
+page_text:
+
+P1	Frutas, frutas, frutas.
+P2	La fruta es dulce al comer.
+P3	La gente come diferentes tipos de frutas.
+P4	Alguien puede comer mangos, mientras que otra persona come piñas.
+P5	También disfrutamos de las naranjas.
+P6	A los niños les gustan las manzanas.
+P7	A los pájaros les gusta el maíz.
+P8	Ah y las frutas son buenas para la salud. A las personas, los animales y a los pájaros les gusta mucho la fruta.
+
+images:
+
+illustrations/pages/6198.png
+illustrations/pages/6212.png
+illustrations/pages/6198.png
+illustrations/pages/6223.png
+illustrations/pages/6218.png
+illustrations/pages/6205.png
+illustrations/pages/6212.png
+illustrations/pages/6204.png
+illustrations/pages/6205.png
+
+translations:
+
+English (Original)	Fruits	id=6369

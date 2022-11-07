@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=35178&d=0&a=1
+id:	35178
+title:	Le soleil occupé, très occupé
+author:	Zanne Viljoen
+artist:	Joe  Werna
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35178.png
+desc:	Cette histoire raconte le voyage du soleil de laube au crépuscule
+
+page_text:
+
+P1	Le soleil se lève le matin, à l'est.@@J'entends le chant du coq à l'aube.
+P2	Le soleil se déplace sur la parcelle de Terfa avant le repas du matin.@@Je sens l'odeur de la nourriture qui suit le soleil jusqu'à ma fenêtre.
+P3	Le soleil se couche derrière un arbre à l'école à l'heure du déjeuner.@@Puis il arrive dans une flaque au milieu de la cour de récréation.
+P4	Le soleil se trouve au-dessus de ma tête. Mon ombre est à côté de moi.@@Je joue au jeu de l'ombre avec mes amis.
+P5	Mon ombre devient plus grande, puis plus petite. Nous courons après elle.@@Mon ombre devient plus longue, puis plus courte. Nous courons après elle.
+P6	Je suis debout, mes amis sont debout. Nous voyons nos ombres se balancer.@@Nous nous fatiguons et nous retournons en classe. Après l'école, nous rentrons chez nous.
+P7	Le soleil baille.@@Je vois le soleil se baisser lentement à l'ouest. Je vois mon ombre sur un mur.@@Il est temps d'aller se coucher.
+P8	Le soleil se cache derrière les nuages.@@Je m'allonge dans mon lit et je rêve du soleil qui voyage au loin.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Amharic (Translation)	ባተሌ ባተሌዋ ፀሐይ	id=39465
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Bura (Translation)	Kethir kethir mchi	id=34888
+Ebira (Translation)	Ukoro Ukoro  ὀyi	id=34840
+English (Original)	Busy Busy Sun	id=32416
+Hausa (Nigeria) (Translation)	Zirga Zirgan rana	id=34897
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Ikwerre (Translation)	Nhebe Ne Me'he	id=34833
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyange I Memen Ga	id=36793
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

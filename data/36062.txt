@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=36062&d=0&a=1
+id:	36062
+title:	Agente segreto
+author:	Marina Preste
+artist:	Sbusiso  Boikanyo and Linda  Liphondo
+lang:	Italian
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36062.png
+desc:	Quando il Dottor Devious sequestra i genitori di Kay
+
+page_text:
+
+P1	C'era una volta una bambina che si chiamava Kay.@ @I genitori di Kay erano dei brillanti scienziati. Essi lavoravano su un progetto top secret nel loro laboratorio.
+P2	Lo scienziato Dan Diabolico chiamato Dottor Devious voleva conoscere il segreto del progetto segreto.@@A notte fonda, il Dottor Devious mandò il suo complice Dan il Diabolico per sequestrare i genitori di Kay.
+P3	Dan catturò i genitori. Era quasi riuscito a catturare Kay, ma lei era piccola e veloce. Riuscì a sfuggirgli tra le dita. @@Kay corse come un fulmine.
+P4	Quando si fermò, si ritrovò nel bosco.@@Alzò gli occhi per vedere la cima degli alberi e inciampò!
+P5	Kay cadde contro un albero, poi iniziò a rotolare e rotolare.@@Quando si svegliò, era in una sala dove c'era una grande televisione.
+P6	"Buongiorno Kay," disse l'uomo nella televisione.@@"Sono un agente segreto per il Bene del Mondo! Tu sei la nostra nuova agente segreta!"@@Grazie a queste parole, Kay divenne coraggiosa come un lupo.
+P7	L'agente Kay uscì dall'albero tramite una porta nel tronco dell'albero. @@Corse lì dove viveva il Dottor Devious e lo sfidò a duello. @@Si sfidarono per due giorni e Kay vinse!
+P8	Dopo che i suoi genitori furono tornati a casa, Kay andò all'albero per incontrare l'uomo nella televisione.@@Lei trovò l'albero, ma non c'era la porta.@Kay si sedette e alzò gli occhi verso gli alberi.
+
+images:
+
+illustrations/pages/85940140.png
+illustrations/pages/85940136.png
+illustrations/pages/85940137.png
+illustrations/pages/85940138.png
+illustrations/pages/85940139.png
+illustrations/pages/85940140.png
+illustrations/pages/85940141.png
+illustrations/pages/85940142.png
+
+translations:
+
+English (Original)	Secret agent	id=33732
+French (Translation)	Agent secret	id=33848
+isiZulu (Translation)	Usozimfihlo	id=33783
+Kiswahili (Translation)	Ajenti wa Siri	id=33835
+Lingala (Translation)	Mosali ya makambo ya kobombama	id=33814
+Sesotho (South Africa) (Translation)	Sehlwela	id=33801

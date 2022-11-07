@@ -1,0 +1,75 @@
+url:	https://africanstorybook.org/reader.php?id=35705&d=0&a=1
+id:	35705
+title:	Ekarikon loaronon
+author:	Simon Ipoo Lodung'a
+artist:	Marleen Visser
+lang:	Ng’aturkana
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35705.png
+desc:	Toyen tokona ibore eraakatar ngakinei ngakechanak jiik!
+
+page_text:
+
+P1	Arai kolong Akine Ekarikon ang'itieng ka ng'ikieny.
+P2	Apei kolong'it kisisak Akine ng'itieng ka ng'ikieny ng'akirujaet keng.
+P3	Arai ng'akirujaet kidiama eron.@@Abu Ipaka tama, "Kikokini tokona ai?"
+P4	Tama Akukut ka Abata, "Potu atodeko akimuj ekachakasi lodula."
+P5	Tolimu Akine tama, "Echamitae toenae etieng'it lonyeyauni akimuj lodula."
+P6	Adaunet ng'irwa lukaalak, aponi toseunae Ipaka tarau ekarikon.
+P7	Nakaneni, abu Akine tong'er akipotokin Ipaka arikoru.
+P8	Nyeyaara Akine akimuj lodula. @@Tama Aite ing'itakin, "Ikokinio ng'oni ai?"
+P9	Apotu ng'itieng ka ng'ikieny daang totuko. @@Ang'oikinito kechi Akine.
+P10	Abu Ing'ok tama, "Abe kirukit bo ng'oon niajokon erai ekarikon."
+P11	Tama Amesek, "Abe ainakini bo ng'oon ng'ide keng ng'ajul kang naajokak."
+P12	Tama Ekurung'oit, "Aning'oon erai ekarikon, ayong eyokii amana keng."
+P13	"Kebala kolong Akine kori atoanikini narikoru a?" King'is Amesek.
+P14	Apotu ng'itieng topupokin atamar eyaari Akine akimuj nieyei Ipaka.
+P15	Tama Akine na eriamunotor ka ng'itieng, "Ayong arai ekarikon kus jik!"
+P16	"Kieni sua iyong ang'aunoi kiyaar lokarikon lokitetet," tamasi ng'itieng.
+P17	Abu aite kiriyaa akine jik tanang nawi ekapolon alokitete.
+P18	Ng'akiro echegererea Akine ng'irwa daang ebeyo torikoroe ng'una!
+
+images:
+
+illustrations/pages/13362.png
+illustrations/pages/13351.png
+illustrations/pages/13350.png
+illustrations/pages/13352.png
+illustrations/pages/13353.png
+illustrations/pages/13362.png
+illustrations/pages/13354.png
+illustrations/pages/13363.png
+illustrations/pages/13355.png
+illustrations/pages/13357.png
+illustrations/pages/13356.png
+illustrations/pages/13358.png
+illustrations/pages/13359.png
+illustrations/pages/13360.png
+illustrations/pages/13361.png
+illustrations/pages/13364.png
+illustrations/pages/13365.png
+illustrations/pages/13366.png
+illustrations/pages/13367.png
+
+translations:
+
+Afrikaans (Translation)	Bok, die valse koning	id=21806
+Alur (Translation)	Wroth marach	id=33119
+Amharic (Translation)	መጥፎ ንጉሥ	id=37924
+Anii (Adaptation)	Gacikori gʊyarɩ gʊtɔɔtɔɔka	id=39792
+Dinka (Translation)	Ee Muorŋak nhom ku rɛɛc	id=39429
+English (Translation)	Goat, the false king	id=13541
+English (Adaptation)	Bad king	id=21446
+Fulfulde Mbororoore (Translation)	Laamiiɗo Kalluɗo	id=35809
+isiZulu (Translation)	Imbuzi, inkosi eyayingenalo iqiniso	id=16090
+Kῖmῖῖrũ  (Translation)	Mbũri mũnene wa ũrongo	id=32841
+Kiswahili (Translation)	Mfalme mbaya	id=21997
+Kiswahili (Translation)	Mbuzi, mfalme bandia	id=22059
+Lámnsoʼ (Translation)	Fon wo bi	id=22299
+Lusoga (Original)	Wambuzi Isabazinga Omufere	id=13540
+Lusoga (Translation)	Kyabazinga omubi	id=25096
+Oluwanga (Translation)	Omuruchi omubi	id=22833
+Portuguese (Translation)	Bode, O Rei Falso	id=16652
+Tiv (Translation)	Ortaregh u Lanen Kwagh	id=34356
+Yoruba (Translation)	Ọba Burúkú Kan	id=34377

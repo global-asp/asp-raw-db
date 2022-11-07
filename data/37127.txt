@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=37127&d=0&a=1
+id:	37127
+title:	Makwembe?
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Marion Drew
+lang:	Xitsonga
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37127.png
+desc:	Wanuna u byela vana va yena ku ka va nga dyi makwembe lama a ma byaleke. Kambe vana a va yingisi.
+
+page_text:
+
+P1	Khale ka khaleni a ku ri na ndyangu wa vana va khumembirhi.
+P2	Hi ximun'wana, wanuna u byarile mbewu exirhapeni. @@A ku eka ndyangu wa yena, "Ndzi kumile mbewu leyi kambe a ndzi tivi leswaku i ya yini." @@A va lemukisa, "Mi nga dyi mihandzu wa kona ku kondza hi swi tiva leswaku i yini."
+P3	Mbewu yi mila yi va swimilana. Swimilana a swi languteka swi ri swa tin'hwembe. @@Hi nkarhinyana muhandzu wo vupfa wa xirhendzevutana a wu ringanerile ku khiwa.
+P4	Hi nkarhi lowu, wanuna a nga ri kona a ye entirhweni. @@Manana yena a yile emakete ku ya lava swakudya swa vana va yena.
+P5	Vana a va ri na ndlala swinene na kona a va nga ta yimela mana wa vona a vuya. @@N'wana lonkulu a ku, "Vonani, ndzi na ku tshembha leswaku i makwembe lama, a hi kheni!" Kutani va kha. @@Va sweka, ivi va dya ku kondza va xurha.
+P6	Vana hinkwavo va wela ehansi, va lova! @@Loko mana wa vona a fika ekaya, a kuma vana hinkwavo va tlele vutomi ku ri hava.@@A vona kamba ra kwembe eka ndyelo.
+P7	A vitana tuva ku ri rhuma eka nuna wa yena.
+P8	Loko tuva ri fika laha wanuna a tirha kona, ri sungula ku yimbelela: @@Tsi tsi Khensani a nga ha ri kona, tsi tsi, Vukosi a nga ha ri kona, tsi tsi, Vuyani a nga ha ri kona tsi tsi, Matimba a nga ha ri kona, tsi tsi.
+P9	Wanuna a vilela loko a twa hi risimu ra tuva. @@Hi xihatla a khoma ndlela a kongoma ekaya a hatlisa hilaha a kotaka hakona.
+P10	Endleleni a yima a kombela ku pfuniwa hi xingomatanda. @@Xingomatanda xi yingisela xitori xa wanuna, ivi xi n'wi nyika mhandzi ya masalamusi.
+P11	Loko wanuna a fika ekaya, a khumba n'wana un'wana na un'wana hi nhonga ya masalamusi. @@Vana va pfuka hi switsongo switsongo.
+P12	Endzhaku ka siku leri, vana a va ha dyangi makwembe.
+
+images:
+
+illustrations/pages/13029.png
+illustrations/pages/13027.png
+illustrations/pages/13028.png
+illustrations/pages/13029.png
+illustrations/pages/13030.png
+illustrations/pages/13031.png
+illustrations/pages/13032.png
+illustrations/pages/13033.png
+illustrations/pages/13034.png
+illustrations/pages/13035.png
+illustrations/pages/13036.png
+illustrations/pages/13037.png
+illustrations/pages/13038.png
+
+translations:
+
+English (Original)	Pumpkins?	id=13935
+Lusoga (Translation)	Amaliibwa?	id=29559
+Tshivenḓa (Translation)	Mafhuri?	id=37307

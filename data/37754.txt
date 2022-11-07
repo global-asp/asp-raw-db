@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=37754&d=0&a=1
+id:	37754
+title:	ምግብ እናብስል
+author:	Mezemir Girma
+artist:	Kathy Arbuckle
+lang:	Amharic
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/37754.png
+desc:	አትክልቶችን ለማዕድ በማዘጋጀት ስራ እየተራዳሁ ነው፡፡ ይሁን እንጂ ላዘጋጀው የማልወደው አንድ አትክልት አለ። እናንተ ይህን ላዘጋጀው የማልወደውን አትክልት መገመት ትችላላችሁ?
+
+page_text:
+
+P1	ድንቾቹን እልጣለሁ፡፡
+P2	ጥቅልጎመኑን እከትፋለሁ፡፡
+P3	ካሮቶቹን እፈቀፍቃለሁ፡፡
+P4	ፎሶሊያውን አጥባለሁ፡፡
+P5	በተርነቱን እቆርጣለሁ፡፡
+P6	ስፒናቹን እቆርጣለሁ፡፡
+P7	እናቴ ሽንኩርቱን ትከትፋለች።
+P8	ሽንኩርት መክተፍ ያስለቅሰኛል።
+
+images:
+
+illustrations/pages/28588.png
+illustrations/pages/28589.png
+illustrations/pages/28590.png
+illustrations/pages/28591.png
+illustrations/pages/28592.png
+illustrations/pages/28593.png
+illustrations/pages/28594.png
+illustrations/pages/28595.png
+illustrations/pages/28596.png
+
+translations:
+
+English (Original)	Cooking	id=32565
+French (Translation)	Faire la cuisine	id=33623
+isiNdebele (Translation)	Ukupheka	id=35226
+Kinyarwanda (Translation)	Guteka	id=32566
+Kiswahili (Translation)	Kupika	id=33120
+Sepedi (Translation)	Go apea	id=32912
+Siswati (Translation)	Kupheka	id=34463
+Spanish (Translation)	Cocinando	id=36306
+Tshivenḓa (Translation)	U bika	id=34314
+Xitsonga (Translation)	Ku sweka	id=34238

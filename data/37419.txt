@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=37419&d=0&a=1
+id:	37419
+title:	Moto
+author:	Jessy Sakala
+artist:	Rob Owen
+lang:	CiNyanja
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37419.png
+desc:	Nthanoyi inapekedwa ndikulembedwa
+  ndi aphunzitsi apa sukulu la Mugulu Integrated Primary ku Busolwe Sub-County
+
+page_text:
+
+P1	Onani, moto!
+P2	Moto utentha
+P3	Moto umaphika.
+P4	Moto umapatsa@  thundila
+P5	Moto umapatsa@  kuwala
+P6	Onani, moto!
+P7	Moto ndiwabwino.
+P8	Ndipo ndiwaphamvu
+
+images:
+
+illustrations/pages/8560.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8557.png
+illustrations/pages/8558.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Arabic (Translation)	النار	id=18190
+Dhopadhola (Translation)	Mac	id=19481
+English (Translation)	Fire	id=8565
+English (Adaptation)	Fire (Colour-in)	id=32487
+IciBemba (Translation)	Umulilo	id=37418
+Kaonde (Translation)	Mujilo	id=37416
+Kinyarwanda (Translation)	Umuriro	id=32574
+Lunyole (Original)	Omuliro	id=8564
+Lusoga (Translation)	Omuliro	id=24902
+Samburu (Translation)	Nkima	id=17257
+Somali (Translation)	Dab	id=17256
+Tiv (Translation)	Usu	id=32042
+Yoruba (Translation)	Iná (Ìwé tí ẹ lè fí awọ sí)	id=33196
+Zande (Translation)	Wee	id=17255

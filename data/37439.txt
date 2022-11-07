@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=37439&d=0&a=1
+id:	37439
+title:	Tingi ndi ng'ombe
+author:	Fredrick Mapulanga
+artist:	Ingrid Schechter
+lang:	CiNyanja
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37439.png
+desc:	Agogo apulumutsa moyo wa Tingi.
+
+page_text:
+
+P1	Tingi ankakhala ndi@  agogo ake.
+P2	Tsiku lina asirikali anabwera.
+P3	Tingi ndi agogo@  ake adathawa.
+P4	Adabisala kuthengo mpaka@  usiku.
+P5	Kenako asirikaliwo anabwerera.
+P6	Agogo adabisa Tingi@  pansi pamasamba
+P7	Kutakhala kotetezeka, Tingi@  ndi agogo ake adatuluka.
+P8	Anabwerera kunyumba@  mwakachetechete.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7581.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+Arabic (Translation)	تينغي و البقر	id=21857
+ChiTonga (Translation)	Tingi  a ngo'mbe	id=37440
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the cows	id=7441
+English (Adaptation)	Tingi and the cows (Colour-in)	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+IciBemba (Translation)	Tingi na in'gombe	id=37438
+isiNdebele (Translation)	UBongani neenkomo	id=13046
+isiXhosa (Translation)	UTingi kunye neenkomo	id=13200
+isiXhosa (Adaptation)	UTingi kunye neenkomo (Faka imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Kinyarwanda (Translation)	Karisa n'inka	id=20255
+Luganda (Translation)	Tingi n'ente	id=8343
+Luganda (Translation)	Tingi n'ente (Colour-in)	id=23967
+Lusoga (Translation)	Dingidingi n'ente (Colour-in)	id=25187
+Lusoga (Translation)	Tingi ne ente (Colour-in)	id=30378
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi n'ente	id=14921
+Setswana (Translation)	Tingi le dikgomo	id=32721
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

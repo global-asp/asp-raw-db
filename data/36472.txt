@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=36472&d=0&a=1
+id:	36472
+title:	A los niños les gusta jugar
+author:	Aprende Leyendo
+artist:	Catherine Groenewald, Eden Daniels, Felicity Bell, Mlungisi Dlamini, Sue Kramer and Wiehan de Jager
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36472.png
+desc:	Los niños disfrutan jugar diferentes juegos  dependiendo de su edad. Lee esta historia y descubre tu juego favorito para compartirlo con tus amigos.
+
+page_text:
+
+P1	A los niños pequeños les gusta jugar con juguetes.
+P2	A mi me gusta saltar lazo y montar en el columpio.
+P3	Dani disfruta jugar a las escondidas.
+P4	Algunos niños juegan football.
+P5	A Camilo le gusta correr.
+P6	Algunas niñas juegan basketball.
+P7	a María le gusta saltar como una rana.
+P8	Las niñas juegan con agua.
+P9	Nelly disfruta del tobogán.
+P10	A los niños les gusta jugar a la boda.
+P11	Katerine y Dana juegan con sus muñecas
+P12	Y a ti ¿qué te gusta jugar?
+
+images:
+
+illustrations/pages/6099.png
+illustrations/pages/2027.png
+illustrations/pages/1627.png
+illustrations/pages/6949.png
+illustrations/pages/4465.png
+illustrations/pages/1623.png
+illustrations/pages/4467.png
+illustrations/pages/1624.png
+illustrations/pages/1421.png
+illustrations/pages/942.png
+illustrations/pages/6516.png
+illustrations/pages/1768.png
+illustrations/pages/1770.png
+
+translations:
+
+Amharic (Translation)	ህፃናት መጫወት ይወዳሉ	id=21175
+English (Original)	Children Like to Play	id=7259
+English (Adaptation)	Children  enjoy  playing	id=13610
+English (Adaptation)	Children	id=34088
+Kiswahili (Adaptation)	Watoto Wanapenda Kucheza	id=34087
+Luganda (Translation)	Abana bagala nyoo okuzanya	id=24266
+Lunyole (Translation)	Abaana Benda Ohugudula	id=13609
+Runyoro (Translation)	Abaana abato banyumirwa kuzana emizano	id=24162

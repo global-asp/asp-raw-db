@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=36324&d=0&a=1
+id:	36324
+title:	El pelo
+author:	Aprende Leyendo
+artist:	Bronwen Heath
+lang:	Spanish
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/36324.png
+desc:	Explora las formas en las que a distintas personas les gusta arreglar su pelo.
+
+page_text:
+
+P1	María tiene pelo corto.
+P2	Ana tiene pelo largo.
+P3	Catalina tiene el pelo más largo.
+P4	Natalia tiene trenzas.
+P5	Andrés tiene barba.
+P6	Laura se ha peinado su pelo.
+P7	Santiago se ha cortado su pelo.
+P8	Gabriel se afeitó la cabeza.
+
+images:
+
+illustrations/pages/28604.png
+illustrations/pages/28605.png
+illustrations/pages/28606.png
+illustrations/pages/28607.png
+illustrations/pages/28608.png
+illustrations/pages/28609.png
+illustrations/pages/28610.png
+illustrations/pages/28611.png
+illustrations/pages/28612.png
+
+translations:
+
+English (Original)	Hair	id=32577
+Kinyarwanda (Translation)	Umusatsi	id=32578
+Kiswahili (Translation)	Nywele	id=32595
+Luganda (Translation)	Enviiri	id=33529

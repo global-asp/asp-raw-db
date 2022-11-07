@@ -1,0 +1,36 @@
+url:	https://africanstorybook.org/reader.php?id=35433&d=0&a=1
+id:	35433
+title:	I Dabble, waddle, wiggle, quack
+author:	Mimi Werna
+artist:	Pixabay  Website
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35433.png
+desc:	This story is about a little yellow duck.
+
+page_text:
+
+P1	I am a duck. @@I hatched from an egg.
+P2	I spend a lot of time around water.
+P3	I dabble in the ponds. @@I love getting wet.
+P4	I waddle with my webbed feet.
+P5	I wiggle with my tail.
+P6	My mouth is called a bill.@@I quack and drink with it.
+P7	I play in the grass. @@I play around in ponds.
+P8	Do you think I sleep in a nest?
+
+images:
+
+illustrations/pages/93740637.png
+illustrations/pages/93740631.png
+illustrations/pages/93740632.png
+illustrations/pages/93740639.png
+illustrations/pages/93740636.png
+illustrations/pages/93740638.png
+illustrations/pages/93740641.png
+illustrations/pages/93740637.png
+illustrations/pages/93740635.png
+
+translations:
+

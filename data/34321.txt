@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=34321&d=0&a=1
+id:	34321
+title:	Ximanga xa vutlhari
+author:	Given J Hlongwani
+artist:	Catherine Groenewald
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34321.png
+desc:	Tatana Kio u na ximanga xa vutlharhi lexi vuriwaka Safi.
+
+page_text:
+
+P1	Etikweni ra mina, ku tshama Tatana Baloyi. @@Tatana Baloyi va na ximanga lexi vuriwaka Safi.
+P2	Loko Tatana Baloyi va ya entirhweni, u siya rivanti ri pfuriwile.
+P3	Safi u tshama enyangweni ku veka tihlo eka yindlu.
+P4	Loko timbyana ta ka vaakelana ti tshunela ekusuhi, Safi wa ti chavisa.
+P5	Mbyana yi baleka.
+P6	Loko muakelana a gongondza erivantini, Safi u tshama a rhiyile min'wala ku ta n'waya.
+P7	Muakelana a jika a baleka.
+P8	Loko Safi a twa ndlala, u pfala rivanti.
+P9	Safi u dya swakudya swa yena.
+P10	Endzhaku ka sweswo, Safi u tlulela ehenhla ka sofa kutani a etlela. "Ngree! Ngree! Ngree!
+P11	Loko Tatana Baloyi a vuya, Safi u n'wayan'waya a tsakile na ku n'wi amukela ekaya.
+P12	Tatana Baloyi na Safi va tshama ehansi, naswona hinkwavo ka vona va hlaya phephahungu.
+
+images:
+
+illustrations/pages/8876.png
+illustrations/pages/8864.png
+illustrations/pages/8865.png
+illustrations/pages/8866.png
+illustrations/pages/8867.png
+illustrations/pages/8868.png
+illustrations/pages/8870.png
+illustrations/pages/8873.png
+illustrations/pages/8871.png
+illustrations/pages/8872.png
+illustrations/pages/8874.png
+illustrations/pages/8876.png
+illustrations/pages/8875.png
+
+translations:
+
+Ateso (Translation)	Ekapa Lo Ecobee	id=20595
+ChiNdau (Translation)	Chimangowe chakangwara	id=35196
+Dhopadhola (Translation)	Pus Ma Ryek	id=18688
+English (Translation)	Clever cat	id=8878
+Fulfulde Mbororoore (Translation)	Kuleeru Aadamu	id=32055
+Hausa (Nigeria) (Translation)	Kyanwa Mai Wayo	id=21362
+isiNdebele (Translation)	Ukatsu ohlakaniphileko	id=35228
+Kiswahili (Original)	Paka mwerevu	id=8877
+Lulamoogi (Translation)	Okapa omugezi	id=31258
+Lusoga (Translation)	Puusi engezi	id=25303
+Sesotho (Lesotho) (Translation)	Katse e bohlale	id=10622
+Sesotho (South Africa) (Translation)	Katse e bohlale	id=33509
+Siswati (Translation)	Likati lelihlakaniphile	id=34465
+Tshivenḓa (Translation)	Tshimange tsho ṱalifhaho	id=34247

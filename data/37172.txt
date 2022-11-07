@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=37172&d=0&a=1
+id:	37172
+title:	I am the black sheep
+author:	Badria Faitarouni
+artist:	Badria Faitarouni
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37172.png
+desc:	A short story about a black sheep named Eep and her family activities.
+
+page_text:
+
+P1	Hello!@@My name is Eep.@@I am a black sheep.
+P2	I have a family.@@I love my family.@I live with my mommy and brother.
+P3	My favourite hobby is painting.@@I paint flowers.@I can draw too.@@Art is so much fun.
+P4	My mommy and i love cooking.@We go to the kitchen and cook for the whole family.@We cook curry,roast and all kinds of tasty meals.
+P5	My brother and i love fishing together.@@It is our favourite thing to do with each other.@We sit on the river dock all day trying to catch fish.
+P6	I love playing outside.@@I like to look at the sky,sun,clouds and birds.
+
+images:
+
+illustrations/pages/76800101.png
+illustrations/pages/76800102.png
+illustrations/pages/76800103.png
+illustrations/pages/76800104.png
+illustrations/pages/76800105.png
+illustrations/pages/76800106.png
+illustrations/pages/76800107.png
+
+translations:
+

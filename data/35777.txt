@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=35777&d=0&a=1
+id:	35777
+title:	Wild Animals
+author:	Magnus Intwali
+artist:	Rob Owen
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35777.png
+desc:	About Wild animals found in Rwanda
+
+page_text:
+
+P1	These are giraffes. They have very long necks. They eat leaves from tall trees. How many legs does a giraffe have?
+P2	This is an elephant. The males have white tusks. They have large ears. Elephants have long trunks. They use their trunks to pick leaves off the tall trees. Elephants eat grasses and leaves.@What do elephants eat?
+P3	This is a crocodile. It lives in the rivers and lakes. It has a long tail. It has a wide mouth and many sharp teeth. It eats fish and other animals. @Where do crocodile live?
+P4	This is a lion. It has big, sharp teeth. Male lions have a mane. Where is the mane on this lion?
+P5	This is the crested crane. It is the symbol of Uganda. It has long legs and a crown. What are the colours of the crested crane?
+P6	These are water buffaloes. They eat grasses and live near rivers and lakes. @What do buffaloes eat
+P7	These animals are called zebras. They have black and white stripes.   @What are the colours of a zebra?
+P8	Here are two different types of animals. There is a mother warthog with her babies. Warthogs have tusks too. @How many warthogs can you count in the picture? The other animals are antelopes. They eat grasses. What do antelopes eat?
+P9	What types of animals do you see?@ Where do they live?@ Which other animals do you know? @What animals have you seen?
+
+images:
+
+illustrations/pages/9651.png
+illustrations/pages/9647.png
+illustrations/pages/9652.png
+illustrations/pages/9627.png
+illustrations/pages/9628.png
+illustrations/pages/9631.png
+illustrations/pages/9644.png
+illustrations/pages/9650.png
+illustrations/pages/9646.png
+illustrations/pages/9645.png
+
+translations:
+
+Acholi (Translation)	Lee me Uganda	id=24082
+Afrikaans (Translation)	Wilde diere	id=37398
+English (Original)	Animals of Uganda	id=9988
+Kumam (Translation)	Leini Me Yuganda	id=20898
+Lusoga (Translation)	Ensolo Dha Uganda	id=20391
+Lusoga (Translation)	Ebisolo bya Yuganda	id=29357
+Siswati (Translation)	Tilwane taseveni iUganda	id=37563

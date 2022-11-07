@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=34840&d=0&a=1
+id:	34840
+title:	Ukoro Ukoro  ὀyi
+author:	Aisovoh Ahmed Yahaya
+artist:	Joe  Werna
+lang:	Ebira
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34840.png
+desc:	Uhi Oni-ozi
+
+page_text:
+
+P1	Oyi onyema enene@  hure eyi Uvoha.@  @@  Ukokoro anowu enene.
+P2	Oyi apare Erehe@  Terfa hu deva resa enene.@  @@  Ma wagu bier ati akpupa jozi@  ozekete.
+P3	Oyi Anerema ochi@  emaresa Oodu.@  @@  Oyi oniakakani Izozi@  Amahe.@   
+P4	Oyi oyye ebeba iresami. Umomo am, oyei akahami.@  @@  Emi re otami amahe.
+P5	Umomami Ubani, dorai@  waiye, ya du achi.@  @@  Umomami Ugodo, dorai@  waiye, ya du achi.
+P6	Emeri otami yaage,@  Momayi ezizie.@  @@  Orawu yewu yanene@  class yahune school, de nehi.
+P7	Oyi.@  @@  Mere Oyi ametanwa wete eye eribori. Mere Umomami inu ugene.@  @@  Osetume kanasu.
+P8	Oyi osiwete.@  @@  Mahutu, Marura Oyi@  memazuse.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Amharic (Translation)	ባተሌ ባተሌዋ ፀሐይ	id=39465
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Bura (Translation)	Kethir kethir mchi	id=34888
+English (Original)	Busy Busy Sun	id=32416
+French (Translation)	Le soleil occupé, très occupé	id=35178
+Hausa (Nigeria) (Translation)	Zirga Zirgan rana	id=34897
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Ikwerre (Translation)	Nhebe Ne Me'he	id=34833
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyange I Memen Ga	id=36793
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

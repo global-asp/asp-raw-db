@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=35795&d=0&a=1
+id:	35795
+title:	Oupa was siek
+author:	Magdaleen  Du Toit
+artist:	Leo Daly and Magriet Brink
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35795.png
+desc:	Volgn klein dogtertjie en haar familie terwyl hulle met die corona-virus te doen kry.
+
+page_text:
+
+P1	Ek dra altyd 'n masker wanneer ek uitgaan.@@Die masker beskerm my. Dit beskerm ook ander mense.
+P2	Ek was my hande met seep en water voordat ek uit die huis gaan.@@En ook wanneer ek weer tuis kom.
+P3	As ek my maatjies groet, raak ons net met ons elmboë aan mekaar.
+P4	My oupa het baie siek geword. Hy het hospitaal toe gegaan.@@Pappa het elke dag gebel om te hoor hoe dit met Oupa gaan.
+P5	Oupa was baie fiks en gesond voordat hy siek geword het.@@Hy het weer beter geword.
+P6	Toe begin my boetie hoes.@@"My keel is seer," sê hy.
+P7	"Hoes in jou elmboog," sê my tannie.@@"Dra 'n masker. Staan op 'n afstand! Bly in jou bed!" sê sy vir hom.
+P8	My boetie het in die bed gebly en gelees.
+
+images:
+
+illustrations/pages/93740490.png
+illustrations/pages/93740490.png
+illustrations/pages/93740486.png
+illustrations/pages/93740487.png
+illustrations/pages/93740482.png
+illustrations/pages/93740489.png
+illustrations/pages/93740480.png
+illustrations/pages/93740481.png
+illustrations/pages/93740485.png
+
+translations:
+
+Babanki (Translation)	Tì̀ʼ ə tìʼ ə yes ə nkwaʼa	id=36981
+English (Original)	Granddad is Sick	id=35249
+English (Adaptation)	Grandfather was ill	id=35251
+Kom (Translation)	Bò bò wom ti nà ko'i-à	id=40143
+Oshikwanyama (Translation)	Tatekulu okwa li ta vele	id=37055
+Otuho (Translation)	Oŋuaî nyia hohonyi hoŋ	id=35464
+TjiKalanga (Translation)	Batategulu bakabegwala	id=35266

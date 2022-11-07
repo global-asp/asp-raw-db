@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=35185&d=0&a=1
+id:	35185
+title:	Les choses que je fais à l'école
+author:	Zanne Viljoen
+artist:	Alice Toich, Candace di Talamo, Catherine Groenewald, Jano Strydom, Karlien de Villiers, Marike le Roux and Vusi Malindi
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35185.png
+desc:	Des phrases simples sur des choses quon apprend et fait à lécole.
+
+page_text:
+
+P1	Je lis avec des amis.
+P2	Je lis tout seul.
+P3	J'apprends à écrire des chiffres.
+P4	J'apprends à écrire des lettres.
+P5	Je dessine.
+P6	Je joue au foot avec des amis.
+P7	Je chante à l'école.
+P8	Je danse à l'école.
+P9	Je cultive le potager avec la maîtresse et les amis.
+P10	Nous mangeons à l'école.
+P11	Nous nous reposons tandis que la maîtresse chante.
+P12	Qu'est-ce que tu fais à l'école ?
+
+images:
+
+illustrations/pages/8856.png
+illustrations/pages/9855.png
+illustrations/pages/1378.png
+illustrations/pages/8939.png
+illustrations/pages/9354.png
+illustrations/pages/13666.png
+illustrations/pages/9845.png
+illustrations/pages/1377.png
+illustrations/pages/9068.png
+illustrations/pages/9690.png
+illustrations/pages/12945.png
+illustrations/pages/9367.png
+illustrations/pages/13855.png
+
+translations:
+
+Afrikaans (Translation)	My skool	id=37084
+English (Adaptation)	Things I do at school	id=22116

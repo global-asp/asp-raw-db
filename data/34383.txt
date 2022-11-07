@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=34383&d=0&a=1
+id:	34383
+title:	Hyène est malade
+author:	Zanne Viljoen
+artist:	Razaque Lázaro Quive
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34383.png
+desc:	Lapin va rendre visite à son ami
+
+page_text:
+
+P1	Il était une fois, il y a bien longtemps, une époque de grande famine. Un hyène très intelligent prétendait être si malade qu'il ne pouvait même pas sortir.
+P2	Beaucoup d'animaux sont allés lui rendre visite chez lui pour le réconforter. Mais aucun d'entre eux n'est jamais sorti !
+P3	Un bel après-midi, Lapin est arrivé.  Il voulait également rendre visite à Hyène.
+P4	Il a failli aller dans la tanière de Hyène. Mais soudain, il s'est arrêté et a vu qu'il n'y avait que des traces d'animaux qui entraient, et aucun qui sortait.
+P5	Il est donc resté dehors et a crié : "Comment vas-tu ? Tu es en bonne santé, mon ami ? Est-ce que tu te sens mieux ?
+P6	Hyène lui a répondu : "Ne t'inquiète pas, mon ami. Entre et amuse-toi bien avec moi !"
+P7	"Oh, je ne sais pas si je dois entrer. Vraiment, je n'ai pas le temps maintenant, et tu as tellement de visiteurs..."@"Non, non, Lapin, il n'y a personne ici. Ce n'est pas bon pour moi de rester ici tout seul quand je suis malade."
+P8	"Tu mens ! Je peux voir les traces des animaux qui sont entrées mais qui ne sont pas sorties".
+P9	Hyène s'est tue et Lapin a dit : "Au revoir, mon ami, je pense que je te rendrai visite un autre jour."
+P10	Et Lapin s'est sauvé loin de cet endroit !
+
+images:
+
+illustrations/pages/8362.png
+illustrations/pages/8362.png
+illustrations/pages/8363.png
+illustrations/pages/8364.png
+illustrations/pages/8365.png
+illustrations/pages/8369.png
+illustrations/pages/8373.png
+illustrations/pages/8374.png
+illustrations/pages/8378.png
+illustrations/pages/8379.png
+
+translations:
+
+English (Original)	The sick hyena	id=8393
+English (Adaptation)	The sick hyena (Colour-in)	id=17424
+Lulamoogi (Translation)	Owampiti omulwaire	id=26647
+Lusoga (Translation)	Wampiti omulwaire (Colour-in)	id=24884
+Portuguese (Translation)	A Hiena Doentia	id=8394
+Xitswa (Translation)	A Yingwe Ya Ki Ti B'abzisa	id=8466

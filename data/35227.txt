@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=35227&d=0&a=1
+id:	35227
+title:	UNeo uthola ifarigi yakhe
+author:	Sponono  Mahlangu
+artist:	Marion Drew
+lang:	isiNdebele
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35227.png
+desc:	UNeo walahlekelwa yifarigi ngengozi. Kwenzeka ini emva kwalokho?
+
+page_text:
+
+P1	UNeo ukhweza ifarigi yakhe etsikirini ukhamba nayo.
+P2	Utjhayisa ilitje endleleni. Ifarigi iwela phasi. Iyalila. @@Iyalila ithi, "Wiii, hoho!"
+P3	UTsotang uyayithola. @@Uthi, "Bababe, ngeyakabani ifarigi le?"
+P4	UTsotang uyayigijimisa, bekufika lapha ayibamba khona.
+P5	Uthatha ifarigi uyisa ekosini. @@Ikosi imtjela bona ayitjheje.
+P6	UNeo uyazidlulela ngendlela. @@Uzwa ifarigi iyantswininiza, "Hmmm, hmmm, hmmm!"
+P7	Ungena ngaphakathi. @@Uyathaba ukubona ifarigi yakhe.
+P8	UNeo uthi efarigini yakhe, "Buya siye ekhaya. Angeze sisakhwelela itsikiri godu."
+
+images:
+
+illustrations/pages/15918.png
+illustrations/pages/15916.png
+illustrations/pages/15917.png
+illustrations/pages/15918.png
+illustrations/pages/15920.png
+illustrations/pages/15919.png
+illustrations/pages/15921.png
+illustrations/pages/15923.png
+illustrations/pages/15924.png
+
+translations:
+
+English (Translation)	Neo finds her pig	id=15972
+Lusoga (Translation)	Naira ayagaana embiidhiye	id=28279
+Sesotho (Lesotho) (Original)	Neo a fumana fariki ea hae	id=15970
+Sesotho (South Africa) (Translation)	Neo o fumana fariki ya hae	id=33515
+Siswati (Translation)	Neo utfola ingulube yakhe	id=34464
+Tshivenḓa (Translation)	Tshifhiwa u wana nguluvhe yawe	id=34246
+Xitsonga (Translation)	Nyiko a kuma nguluve yakwe	id=34320

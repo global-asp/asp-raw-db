@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=36522&d=0&a=1
+id:	36522
+title:	Abebe et les Anglais
+author:	Francoise  LHOMME
+artist:	Adonay  Gebru
+lang:	French
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36522.png
+desc:	Abebe est un jeune garçon qui est très content dapprendre une langue étrangère.
+
+page_text:
+
+P1	C'est la première année d'école d'Abebe.@@Son père est fermier. Cette année-là, le père d'Abebe a planté du teff dans son champ.@@Chaque jour après l'école, Abebe aide son père qui travaille dans le champ.
+P2	A côté du champ de teff il y a un terrain de football. Un après-midi où Abebe est occupé à chasser les oiseaux du champ, quatre jeunes Anglais viennent jouer au football.@@Les garçons commencent à jouer. Le ballon rebondit et atterrit dans le champ de teff.
+P3	Le ballon abîme un peu de teff. Un des garçons arrive en courant  pour récupérer son ballon dans le champ et abîme encore plus de teff !@@Ils continuent leur jeu et le ballon rebondit et atterrit plusieurs fois dans le champ.
+P4	Les garçons continuent à courir dans le champ pour chercher leur ballon. A chaque fois ils abîment un peu plus de teff.@@Abebe et son père sont de plus en plus fâchés de voir leur travail saccagé.
+P5	Ni Abebe ni son père ne parlent anglais. Ils ne savent pas comment dire aux garçons : "N'entrez pas dans notre champ. Arrêtez d'abîmer notre plantation !"@@Les jeunes Anglais, de leur côté, ne connaissent pas d'autre langue que l'anglais.
+P6	Le père d'Abebe lui dit : "Mon fils, utilise ce que tu as appris à l'école. Dis-leur d'arrêter d'envoyer leur ballon dans notre champ !"@@Pour le moment, Abebe n'a appris que quelques lettres en anglais : A, B, C, D, E, F.
+P7	Abebe voudrait crier après les garçons, mais il ne connaît pas les mots en anglais.@@Le ballon rebondit une nouvelle fois dans le champ de teff et un des garçons entre dans le champ pour récupérer son ballon.
+P8	Abebe court vers le garçon en agitant les bras. Il commence à crier.  @@Il crie aussi fort qu'il peut : "A, B, C, D, E, F !"   Il crie trois fois : "A, B, C, D, E, F !"
+P9	Le jeune Anglais arrête de courir dans le teff. Ses amis qui sont restés sur le terrain de foot s'arrêtent aussi et regardent Abebe.@@Puis ils parlent entre eux et commencent à sourire. Ils ont compris ce qu'Abebe voulait dire.
+P10	Le garçon, portant le ballon, sort du champ en marchant avec précaution.@@Puis tous les quatre s'écartent de la plantation de teff pour continuer leur jeu.@@Le père d'Abebe est surpris. Il croit que son fils leur a parlé en anglais.
+P11	Il dit : "Oh, mon fils, tu es un garçon courageux et intelligent !" Il est fier de son fils.@@Abebe lui-même est surpris et content. Il ne sait pas quoi dire.
+P12	À la suite de cela, le père d'Abebe a encouragé son fils à travailler dur à l'école et à poursuivre ses études.@@Abebe a appris trois langues et les parle aujourd'hui couramment. C'est maintenant un traducteur et un écrivain réputé.
+
+images:
+
+illustrations/pages/27727.png
+illustrations/pages/27720.png
+illustrations/pages/27721.png
+illustrations/pages/27722.png
+illustrations/pages/27723.png
+illustrations/pages/27724.png
+illustrations/pages/27725.png
+illustrations/pages/27726.png
+illustrations/pages/27727.png
+illustrations/pages/27728.png
+illustrations/pages/27729.png
+
+translations:
+
+ChiChewa (Translation)	Abebe ndi anyamata a Chizungu	id=37945
+ChiNdau (Translation)	Abebe nehurumbwana hweChiYungu	id=35134
+English (Original)	Abebe and the English boys	id=31945
+Kinyarwanda (Translation)	Cyusa n' abahungu b' Abongereza	id=32130
+Tiv (Translation)	Abebe man Mbayev Nasela	id=39252
+Wolaita (Translation)	Abebanne Paranjja naata	id=32304

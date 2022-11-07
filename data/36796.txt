@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=36796&d=0&a=1
+id:	36796
+title:	Amar a Vinen
+author:	Terkule Aorabee
+artist:	Catherine Groenewald
+lang:	Tiv
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36796.png
+desc:	Ngun ka icam sha kwagh u wankwse u gen u soo amar kpishi yô. Tica na soo kwagh la ga
+
+page_text:
+
+P1	Ka a saan mo iyol, @M vine amar, ka mea zungwen, @M vine amar, ka a huan mo, @M vine amar, shima ngi a vihim, @M vine amar.
+P2	Tica wam kaa er, "Tema girgir! Nyian cii de vinen amar ga."
+P3	Ngôm di kaam er, "Amar a vinen ka a nau mkpeiyol.@Amar a vinen ka a nau u tav, @Iyange igen me lu kwase u vinen amar, @A Kpiligh hanmô or iyol!"
+P4	Shi M kaa mer, "Iyange igen me vine amar ior a kimbi nyaregh u nengen mo zômun, tiligh ishor. Vea kaa er, "Wankwase ne fa amar DEDOO."
+
+images:
+
+illustrations/pages/1323.png
+illustrations/pages/1324.png
+illustrations/pages/1325.png
+illustrations/pages/1326.png
+illustrations/pages/1327.png
+illustrations/pages/1323.png
+
+translations:
+
+Dhopadhola (Translation)	Myel	id=20944
+English (Original)	Dancing	id=2183
+French (Translation)	La Danse	id=24817
+isiXhosa (Translation)	Ukudanisa	id=7451
+isiZulu (Adaptation)	Ukudansa	id=13333
+Luganda (Translation)	Okuzina	id=22960
+Lugbarati (Translation)	Onzi Mini Mima Aadrii Kuzu A’Dule Ri	id=3027
+Lusoga (Translation)	Okukina	id=24942
+Portuguese (Translation)	Dançando	id=12173
+Rufumbira (Translation)	Kubyina	id=22758
+Rukiga (Translation)	okuzina	id=22981
+Setswana (Translation)	Mokibo	id=2695
+Spanish (Translation)	Bailando	id=33361
+Tshivenḓa (Translation)	U tshina	id=37291
+Xitsonga (Translation)	Ku cina	id=37115

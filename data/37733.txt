@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=37733&d=0&a=1
+id:	37733
+title:	Ino Ulikuli...?
+author:	Limbali Muyendekwa and Maureen Musale
+artist:	Leo Daly and Magriet Brink
+lang:	ChiTonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37733.png
+desc:	Kogwasya beenzinyoko bobilo bajane banyama basisidwe.
+
+page_text:
+
+P1	Ino kalikuli kanyenyeene?
+P2	Ino ilikuli nkumba?
+P3	Ino ilikuli mbeba?
+P4	Ino kalikuli kayumi?
+P5	Ino ulikuli dombela?
+P6	Ino ulikuli kaaze?
+P7	Ino ilikuli nkuku?
+P8	Ino ulikuli mubwa?
+P9	Ino ilikuli ngulube?
+P10	Ino ilikuli mpongo?
+
+images:
+
+illustrations/pages/26677.png
+illustrations/pages/26675.png
+illustrations/pages/26676.png
+illustrations/pages/26677.png
+illustrations/pages/26678.png
+illustrations/pages/26679.png
+illustrations/pages/26680.png
+illustrations/pages/26681.png
+illustrations/pages/26682.png
+illustrations/pages/26683.png
+illustrations/pages/26684.png
+illustrations/pages/26686.png
+
+translations:
+
+Anii (Adaptation)	Ŋka na... ?	id=32692
+ChiTonga (Translation)	Uli kuli....?	id=33105
+CiNyanja (Translation)	Alikuti?	id=22853
+CiNyanja (Adaptation)	Alikuti...?	id=37734
+Cinyungwe (Translation)	Bziri Kuponi?	id=22854
+Cisena (Translation)	Iri Kupi?	id=22855
+Echuwabo (Translation)	Oli Uvi?	id=22856
+Elomwe (Translation)	Ori Woowi?	id=22857
+Emakhuwa (Translation)	Eri Vaavi?	id=22748
+English (Original)	Where Is...?	id=22681
+English (Translation)	Can you see them?	id=32011
+French (Adaptation)	Où est ... ?	id=32693
+IciBemba (Translation)	Shili Kwi…?	id=33211
+IciBemba (Adaptation)	Shili kwi…?	id=37735
+Ikisimbëtë (Translation)	Ököbhöörya	id=30269
+Imeetto (Translation)	Iri Vayi?	id=33190
+Kiswahili (Translation)	Kuuliza	id=30268
+Lusoga (Translation)	Kiligha...?	id=25866
+Olunyaneka (Translation)	Ikahipi?	id=22858
+Otuho (Translation)	Owon ajia....?	id=39228
+Portuguese (Translation)	Onde Está?	id=22852
+Runyankore (Translation)	Eri nkahi?	id=24329

@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=37394&d=0&a=1
+id:	37394
+title:	Op die plaas
+author:	Meryke Barkley
+artist:	Marleen Visser
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37394.png
+desc:	Leer kenn paar van die bekendste plaasdiere.
+
+page_text:
+
+P1	'n Hond is 'n troeteldier.  Hy help die boer om die plaasdiere op te pas.
+P2	Die eend swem graag in die dam met al haar kleintjies.
+P3	Die bul het groot horings.  Hy vreet gras in die weiveld.
+P4	Die donkie kan goed op sy rug dra.   Hulle wil nie altyd luister nie.
+P5	Daar is baie muise op die plaas wat graag die koring eet.
+P6	Die kat is ook 'n troeteldier wat die boer help.  Hy vang al die muise.
+P7	Die skape het baie wol wat die boer kan verkoop.
+P8	Daar is ook bokke op die plaas.  Hulle is lekker stout!
+P9	Die varke rol graag in die modder.  Hulle vreet graag.
+P10	Die henne lê baie eiers. Die boervrou gebruik die eiers en verkoop die res.
+P11	Muis kruip weg vir Kat!
+
+images:
+
+illustrations/pages/26642.png
+illustrations/pages/26643.png
+illustrations/pages/26644.png
+illustrations/pages/26645.png
+illustrations/pages/26642.png
+illustrations/pages/26647.png
+illustrations/pages/26648.png
+illustrations/pages/26649.png
+illustrations/pages/26687.png
+illustrations/pages/26652.png
+illustrations/pages/26651.png
+illustrations/pages/26647.png
+
+translations:
+
+Afrikaans (Translation)	Plaasdiere	id=32275
+Anii (Adaptation)	Alʊkɔ	id=34103
+CiNyanja (Translation)	Bulu	id=22723
+Cinyungwe (Translation)	Bulu	id=22725
+Cisena (Translation)	Buru	id=22726
+Echiziinza (Translation)	Ensíkili	id=30271
+Echuwabo (Translation)	Buru	id=22727
+Elomwe (Translation)	Puuru	id=22728
+Emakhuwa (Translation)	Puuru	id=22729
+English (Original)	Farm animals	id=22679
+French (Adaptation)	Les animaux domestiques	id=34101
+Ikisimbëtë (Translation)	Itikërë	id=30266
+Kiswahili (Translation)	Wanyama	id=29688
+Lusoga (Translation)	Mbbalasi	id=25786
+Lusoga (Translation)	Mbalaasi	id=30576
+Olunyaneka (Translation)	Ocimbulu	id=22730
+Portuguese (Translation)	Animais Domésticos	id=22724
+Spanish (Translation)	Animales de granja	id=36373

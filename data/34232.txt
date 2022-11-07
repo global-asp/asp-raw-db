@@ -1,0 +1,28 @@
+url:	https://africanstorybook.org/reader.php?id=34232&d=0&a=1
+id:	34232
+title:	Staying Home
+author:	Matthew Penny
+artist:	Catherine Groenewald, Salim Kasamba, Vusi Malindi and Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34232.png
+desc:	A siklme book to explore the possibilities of this resource.
+
+page_text:
+
+P1	We stay at home.
+P2	We don't go to school.
+P3	We wash our hands.
+P4	We stay healthy
+
+images:
+
+illustrations/pages/1499.png
+illustrations/pages/7923.png
+illustrations/pages/7977.png
+illustrations/pages/25563.png
+illustrations/pages/8601.png
+
+translations:
+

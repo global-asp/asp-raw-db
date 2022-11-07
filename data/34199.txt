@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34199&d=0&a=1
+id:	34199
+title:	Lowu i ndyangu wa Mikateko
+author:	Arnold Mushwana
+artist:	Zito Jorge Ngovene
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34199.png
+desc:	Hinkwaswo mayelana na ndyangu wa nhwana hi ku tirhisa swivulwanwe.
+
+page_text:
+
+P1	Loyi i Mikateko.
+P2	Lowu i ndyangu wa Mikateko.
+P3	Loyi i buti wa Mikateko.@  @Buti wa yena u tlanga bolo ya milenge.
+P4	Loyi i sesi wa Mikateko.@  @Sesi wa yena u tlele.
+P5	Loyi i mana wa Mikateko.@  @Mana wa yena u le ku swekeni.
+P6	Loyi i tata wa Mikateko.@  @Tata wa yena u aka yindlu.
+P7	Loyi i kokwanaxisati wa Mikateko.@  @Kokwanaxisati wa Mikateko u tshame ehansi ka murhi.
+
+images:
+
+illustrations/pages/28024.png
+illustrations/pages/28018.png
+illustrations/pages/28024.png
+illustrations/pages/28019.png
+illustrations/pages/28020.png
+illustrations/pages/28021.png
+illustrations/pages/28022.png
+illustrations/pages/28023.png
+
+translations:
+
+English (Adaptation)	This is Mara's family	id=32409
+isiNdebele (Translation)	Lo mndeni kaMara	id=35216
+Sepedi (Translation)	Le ke lapa la boMara	id=32884
+Setswana (Translation)	Ba ke balelapa la ga Mara	id=32907
+Siswati (Translation)	Lona ngumndeni waMara	id=34457
+Tshivenḓa (Translation)	Hoyu ndi muṱa wa ha Mara	id=34307

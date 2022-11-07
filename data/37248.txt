@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=37248&d=0&a=1
+id:	37248
+title:	Picture story 11
+author:	Name Of Writer
+artist:	Abraham Muzee
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37248.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/19570.png
+illustrations/pages/19567.png
+illustrations/pages/19568.png
+illustrations/pages/19569.png
+illustrations/pages/19572.png
+illustrations/pages/19573.png
+illustrations/pages/19574.png
+illustrations/pages/19575.png
+illustrations/pages/19576.png
+illustrations/pages/19577.png
+illustrations/pages/19578.png
+illustrations/pages/19581.png
+illustrations/pages/19582.png
+
+translations:
+
+English (Original)	Man with a serious problem	id=19599
+Kiswahili (Translation)	Mwanamume aliyekuwa na tatizo kubwa	id=19600

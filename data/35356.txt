@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=35356&d=0&a=1
+id:	35356
+title:	Where does our meat come from?
+author:	Valencia Casling
+artist:	Wiehan de Jager, Laura Liberatore and Marleen Visser
+lang:	English
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35356.png
+desc:	Which meat do you like? Ever wondered where it comes from. Lets see which animal gives us what.
+
+page_text:
+
+P1	Hello, I am Chicken.@What can we get from Chicken?@We can get eggs and meat.
+P2	Hello I am goat.@What can we get from Goat?@We can get meat, milk, cheese and wool.
+P3	Hello, I am cow.@What can we get from Cow?@We can get steak, cheese, milk, beef and leather.
+P4	Hello, I am sheep.@What can we get from Sheep.@We can get cheese, wool and lamb chops.
+P5	Hello, I am pig.@What can we get from Pig?@We can get bacon, pork sausages, ham and pork chops.
+P6	Thank you animals!
+
+images:
+
+illustrations/pages/13001.png
+illustrations/pages/8991.png
+illustrations/pages/13360.png
+illustrations/pages/929.png
+illustrations/pages/26649.png
+illustrations/pages/85590292.png
+illustrations/pages/7605.png
+
+translations:
+

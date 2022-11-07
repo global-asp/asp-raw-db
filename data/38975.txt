@@ -1,0 +1,29 @@
+url:	https://africanstorybook.org/reader.php?id=38975&d=0&a=1
+id:	38975
+title:	Traffic
+author:	LUCAS Bagshaw
+artist:	Rob Owen
+lang:	English
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38975.png
+desc:	Bad drivers can cause accidents.
+
+page_text:
+
+P1	Ok let's kros
+P2	Actually let's not Cross here
+P3	Ohohohohoh
+P4	Oh no I need coffee
+
+images:
+
+illustrations/pages/9636.png
+illustrations/pages/9636.png
+illustrations/pages/9637.png
+illustrations/pages/9638.png
+illustrations/pages/9639.png
+illustrations/pages/9640.png
+
+translations:
+

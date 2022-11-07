@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=39671&d=0&a=1
+id:	39671
+title:	The jungle book
+author:	Dorcas Amoako
+artist:	Dorcas Amoako and Wiehan de Jager
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39671.png
+desc:	This book has a list and images of some wild animals in the forest
+
+page_text:
+
+P1	This is a Cheeter
+P2	This is an Elephant
+P3	This is a Beaver
+P4	This is a Fox
+P5	This is a Kangaroo
+
+images:
+
+illustrations/pages/7602.png
+illustrations/pages/11660201.png
+illustrations/pages/11660202.png
+illustrations/pages/11660203.png
+illustrations/pages/11660204.png
+illustrations/pages/11660205.png
+
+translations:
+

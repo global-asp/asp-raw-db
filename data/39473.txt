@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=39473&d=0&a=1
+id:	39473
+title:	Testing 101
+author:	Alan Amory
+artist:	Wiehan de Jager and Alan Amory
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39473.png
+desc:	Thanks for the opportunity to create a book.
+
+page_text:
+
+P1	Come out to play with us.
+P2	We are having fun.
+P3	A beauty
+
+images:
+
+illustrations/pages/7597.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/84050101.png
+
+translations:
+

@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=35216&d=0&a=1
+id:	35216
+title:	Lo mndeni kaMara
+author:	Sponono  Mahlangu
+artist:	Zito Jorge Ngovene
+lang:	isiNdebele
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35216.png
+desc:	Indatjana ikhuluma ngomndeni womntazanyana
+
+page_text:
+
+P1	Lo nguMara.
+P2	Lo mndeni kaMara.
+P3	Lo mnakwabo kaMara.@@Umnakwabo udlala ibholo yeenyawo.
+P4	Lo ngudadwabo kaMara.@@Udadwabo ulele.
+P5	Lo ngunina kaMara.@@Unina upheka ukudla.
+P6	Lo ngubaba kaMara.@@Wakha indlu.
+P7	Lo ngugogo kaMara.@@Ugogo wakhe uhlezi ngaphasi komuthi.
+
+images:
+
+illustrations/pages/28024.png
+illustrations/pages/28018.png
+illustrations/pages/28024.png
+illustrations/pages/28019.png
+illustrations/pages/28020.png
+illustrations/pages/28021.png
+illustrations/pages/28022.png
+illustrations/pages/28023.png
+
+translations:
+
+English (Adaptation)	This is Mara's family	id=32409
+Sepedi (Translation)	Le ke lapa la boMara	id=32884
+Setswana (Translation)	Ba ke balelapa la ga Mara	id=32907
+Siswati (Translation)	Lona ngumndeni waMara	id=34457
+Tshivenḓa (Translation)	Hoyu ndi muṱa wa ha Mara	id=34307
+Xitsonga (Translation)	Lowu i ndyangu wa Mikateko	id=34199

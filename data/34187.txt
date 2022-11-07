@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=34187&d=0&a=1
+id:	34187
+title:	Epwittipwitthi Yoomeela Musurukhu Woorimeela
+author:	Little Zebra Books
+artist:	Leo Daly and Magriet Brink
+lang:	Emakhuwa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34187.png
+desc:	Duas parábolas contado por Jesus em Lucas
+
+page_text:
+
+P1	Yesu aahaalikela nlikanyiho nla iiraka:@—Nyuwo mwaakhalana ipwittipwitthi emiya emosa (100) nto yarimeela emosa, nyuwo khamunhiya iye miloko mithanu ni mixexe ni thanu ni xexe murowaka ophavela emosa erimeenle mpakha ophwanya?
+P2	Vano mwaphwanya, munnikapatta ni otteeliwa murima.
+P3	Mwaphiya owaani, munniwiitthana axipatthani anyu ni anamwaattamanani anyu khuyaaleela wiira: "Mutteeliweke murima ni miyo, okhala wiira koophwanya epwittipwitthi aka yaarimeenle!"
+P4	Siiso-tho, miyo kinooleelani wiira wiirimu onootthampwa-wo, mwaha wa natampi orukununxe murima waavikana atthu ale miloko mitthanu ni mixexe ni athanu ni axexe a xariya ahimphwanelela orukunuxa murima.
+P5	Wala muthiyana xeeni oniira okhalanne-ene musurukhu awe muloko wa eparatha nto wamurimeela mmosa.
+P6	Owo khompattiha muthuko, onavela mpaani, ophavelaka oratta-ene mpakha ophwanya?
+P7	Okathi omphwanyaawe onnaaleela apatthani awe ni anamwaattamanani awe wiira: ''Mutteeliweke murima ni miyo, okhala wiira koophwanya musurukhu aka waarimeenle."
+P8	Siiso-tho, kinooleelani wiira: Muluku ni malaikha annitteeliwa murima mwaha wa natampi mmosa onrukunuxa murima.
+
+images:
+
+illustrations/pages/28089.png
+illustrations/pages/28085.png
+illustrations/pages/28088.png
+illustrations/pages/28194.png
+illustrations/pages/28089.png
+illustrations/pages/28083.png
+illustrations/pages/28084.png
+illustrations/pages/28086.png
+illustrations/pages/28090.png
+illustrations/pages/28091.png
+
+translations:
+
+Cinyungwe (Translation)	Bira wakutaika na kobiri yakutaika	id=34185
+Elomwe (Translation)	Epucepuche Yoorimeela ni Ekhorowa Yoorimeela	id=34186
+Portuguese (Translation)	A ovelha perdida e a moeda perdida	id=34184

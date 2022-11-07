@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=37281&d=0&a=1
+id:	37281
+title:	Primary Colours
+author:	Ubongo
+artist:	Ubongo
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37281.png
+desc:	Learn to know a set of primary colors consists of colorants or coloured lights that can be mixed in varying amounts to produce a gamut of colors.
+
+page_text:
+
+P1	Apple and tomatoes are red.
+P2	Red is beautiful.
+P3	Bananas and the sun are yellow.
+P4	Yellow is bright and cheerful.
+P5	The sky and the ocean are blue.
+P6	Blue is cool and calm.
+P7	Mix red and yellow, you get orange.
+P8	Mix blue and yellow, you get green.
+P9	Mix red and blue, you get purple.
+P10	Red, yellow and blue are primary colours. Now you try mixing the primary colours, and see what colours you can make.
+
+images:
+
+illustrations/pages/99600151.png
+illustrations/pages/99600152.png
+illustrations/pages/99600153.png
+illustrations/pages/99600155.png
+illustrations/pages/99600156.png
+illustrations/pages/99600157.png
+illustrations/pages/99600158.png
+illustrations/pages/99600161.png
+illustrations/pages/99600162.png
+illustrations/pages/99600163.png
+illustrations/pages/99600164.png
+
+translations:
+

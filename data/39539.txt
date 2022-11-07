@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=39539&d=0&a=1
+id:	39539
+title:	Me and my family
+author:	Amran Abi
+artist:	Amran Abi
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39539.png
+desc:	This is a short stoy of Amran who is 7 years old and grade one student.
+
+page_text:
+
+P1	My name is Amran Matiwos. I am 7 years old and grade one student
+P2	My sister's name is Lelina
+P3	My brother's name is yosef
+
+images:
+
+illustrations/pages/50670101.png
+illustrations/pages/50670102.png
+illustrations/pages/50670103.png
+illustrations/pages/50670104.png
+
+translations:
+

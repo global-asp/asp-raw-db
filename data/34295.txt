@@ -1,0 +1,76 @@
+url:	https://africanstorybook.org/reader.php?id=34295&d=0&a=1
+id:	34295
+title:	Katsi na Ṱukulu na zwivhungu
+author:	Ndivhuho Mutsila
+artist:	Elke and René Leisink
+lang:	Tshivenḓa
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34295.png
+desc:	Katsi na Ṱukulu vha khou tandula shango. Vha vhona luswayo kha muri. Zwino vha ḓo ita mini?
+
+page_text:
+
+P1	Hoyu ndi Katsi.@@Hoyu ndi Ṱukulu.
+P2	Katsi na Ṱukulu vha vula vothi. Vha vula vothi ḽa nnḓu yavho.@@Katsi na Ṱukulu vha bvela nnḓa.
+P3	Katsi na Ṱukulu vha a tshimbila.@@Vha tshimbila nṱha ha hatsi. Vha tshimbila vhukati ha miri. Vha tshimbila ḓakani.@@Vha swika huṅwe vha ima.
+P4	Katsi na Ṱukulu vha vhona luswayo. Vha vhona luswayo kha muri.@@Katsi na Ṱukulu vha lavhelesa luswayo. Vha lavhelesa maipfi a re kha luswayo.
+P5	Katsi na Ṱukulu vha mbo vhala.@@Vha mbo vhala luswayo, 'ni thanyele lupila.'
+P6	Katsi a ri, "Lupila ndi mini?'@@Ṱukulu a ri, "Lupila ndi tshifuko."
+P7	Katsi na Ṱukulu a vha vhoni lupila.
+P8	Vha mbo fa nga zwiseo.@@Vha khou sea luswayo.@ @Vha khou sea mazwifhi a luswayo.
+P9	Khathihi fhedzi aḽa maipfi ambo ḓi shanduka!
+P10	Katsi na Ṱukulu vha mbo vhala maipfi maswa.@@Vha mbo vhala luswayo.
+P11	'Ni thanyele tshiṱokola.'
+P12	Katsi a ri, "Tshiṱokola ndi mini?"@@Ṱukulu a ri, "Tshiṱokola ndi tsha mitshelo."
+P13	Katsi na Ṱukulu a vha vhoni tshiṱokola.
+P14	Vha mbo fa nga zwiseo.@@Vha khou sea luswayo.@@Vha khou sea mazwifhi a luswayo.
+P15	Katsi na Ṱukulu vha lavhelesa luswayo. Vha vhona zwivhungu kha luswayo. Zwivhungu zwa shandula luswayo!@@Katsi na Ṱukulu vha kwatula zwivhungu. Vha kwatula zwivhungu vha zwi laṱa kule.
+P16	Katsi na Ṱukulu vha vhala luswayo. @@Vha mbo vhala luswayo, 'ni thanyele goriḽa.'
+P17	Katsi a ri, "Goriḽa ndi mini"@@Ṱukulu a ri, "Goriḽa ndi ṱhoho khulukhulu."
+P18	Katsi na Ṱukulu vha mbo vhona goriḽa. Katsi na Ṱukulu vha sumba goriḽa.@@Goriḽa ḽo hula. Goriḽa ndi ḽihuluhulu.@@"Katsi a ri, "Kha ri shavhe!" @Ṱukulu a ri, "Kha ri shavhe!"
+P19	Katsi na Ṱukulu vha ri u shavha! Vha shavhesa.@@Katsi na Ṱukulu vha shavhela hayani.@@Katsi na Ṱukulu vha vala vothi.
+P20	Vha vala vothi ḽa nnḓu yavho.
+P21	Salani wee, Katsi.@@Salani wee, Ṱukulu.@@Salani wee, goriḽa. @@Salani wee, zwivhungu.
+
+images:
+
+illustrations/pages/25645.png
+illustrations/pages/25646.png
+illustrations/pages/25641.png
+illustrations/pages/25642.png
+illustrations/pages/25643.png
+illustrations/pages/25650.png
+illustrations/pages/25651.png
+illustrations/pages/25652.png
+illustrations/pages/25653.png
+illustrations/pages/25654.png
+illustrations/pages/25655.png
+illustrations/pages/25656.png
+illustrations/pages/25657.png
+illustrations/pages/25658.png
+illustrations/pages/25659.png
+illustrations/pages/25660.png
+illustrations/pages/25661.png
+illustrations/pages/25662.png
+illustrations/pages/25663.png
+illustrations/pages/25664.png
+illustrations/pages/25665.png
+illustrations/pages/25666.png
+illustrations/pages/18782.png
+
+translations:
+
+English (Original)	Cat and Dog and the worms	id=21993
+Khoekhoegowab (Translation)	ǀHôas, Arib tsî ǂunin tsîn xa	id=24667
+Lusoga (Translation)	Wakapuusi, Wambwa n'Obuwuuka	id=28141
+Oshikwanyama (Translation)	Ngato, Shikonda nOshuungu	id=24159
+Oshindonga (Translation)	Okambishi nombwa nEloolo	id=23907
+Otjiherero (Translation)	Okambihi no Mbuua no mativa	id=24217
+Persian (Afghanistan) (Translation)	سگ و گربه و کرم ها	id=33605
+Rukwangali (Translation)	Mbisi noMbwa nomaginyo	id=31497
+Sepedi (Translation)	Katse le Mpša le Diboko	id=33458
+Sesotho (South Africa) (Translation)	Ntja, Katse le manyowa	id=33371
+Siswati (Translation)	Kati Nenja kanye nemisundvu	id=33396
+Tiv (Translation)	Kpatema vea Iwa man mbaanyigôr	id=34874
+Xitsonga (Translation)	Ximanga, mbyana na swivungu	id=34163

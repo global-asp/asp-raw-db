@@ -1,0 +1,73 @@
+url:	https://africanstorybook.org/reader.php?id=37111&d=0&a=1
+id:	37111
+title:	Ximanga na Mbyana: Ximanga i xa xitshopana
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Elke and René Leisink
+lang:	Xitsonga
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37111.png
+desc:	Mbyana yi vona nchumu wa xitshopana
+
+page_text:
+
+P1	Leyi i Mbyana.
+P2	Mbyana yi le ndlwini ya yona. Mbyana yi tshamile ekaya ka yona.@@Kutani un'wana a gongondza erivantini.
+P3	Mbyana yi pfula rivanti.@@Mbyana yi vona nchumu wa xitshopana!
+P4	Mbyana yi vutisa, "Hi wena mani?"@@I ximanga. Ximanga i xa xitshopana.
+P5	Nhloko ya Ximanga i ya xitshopana. @@Misisi ya Ximanga i ta xitshopana.
+P6	Mavoko ya Ximanga i ma xitshopana. Xandla xa ximanga i xa xitshopani.
+P7	Nomu wa Ximanga i ya xitshopana. Nhompfu ya Ximanga i ya xitshopana.@@Tindleve ta Ximanga i ta xitshopana. Matihlo ma Ximanga a ma xitshopana.
+P8	Mbyana ya vutisa, "Hikwalahokayini u ri wa xitshopana?"@@Ximanga xi ku, "A ndzi swi tivi."
+P9	Mbyana yi vutisa, "A wu ri kwihi?"@@Ximanga xi hlamula, "A ndzi ri exikolweni."
+P10	Mbyana yi vutisa, "Xikolo xihi?"@@Ximanga xi hlamula, "A ndzi ri xikolweni etikweni."
+P11	Mbyana yi vutisa, "A wu ri exikolweni rini?"@@Ximanga xi hlamula, "A ndzi ri exikolweni nimixo."
+P12	Mbyana yi vutisa, "A wu endla yini exikolweni?"@@Ximanga xi hlamula, "A ndzi etlele."
+P13	Mbyana yi vutisa, "A wu etlele exikolweni?! A wu etlele kwihi?"@@Ximanga xi ku, "A ndzi etlele endzhaku xikolo."
+P14	Mbyana yi anakanya kutani mbyana yi tsala. Yi tsala swin'wana ephepheni.@@Mani: Ximanga@Kwihi: endzhaku ka xikolo@Xikolo xihi: xa le etikweni@Rini: nimixo@Yini: ku etlela@Hikwalahokayini: ?
+P15	Kutani Ximanga xi ku, "A ndzi nga ri ndzexe exikolweni. A ku ri na un'wana."
+P16	Mbyana yi vutisa, "I mani un'wana a ri exikolweni?"@@Ximanga xi ku, "Ndlopfu a ri exikolweni."
+P17	Mbyana yi vutisa, "Ndlopfu a endla yini?"@@Ximanga xi ku, "Ndlopfu a penda."
+P18	Mbyana yi ku, "Xana ndlopfu a penda yini?"@@Ximanga xi ku, "Ndlopfu a penda xikolo."
+P19	Mbyana yi ku, "Xana ndlopfu a yi penda njhani xikolo?"@@Ximanga xi ku, "Ndlopfu a yi penda xikolo hi burachi leyikulu…"
+P20	Ximanga xi nga vuli nchumu. Ximanga xi ehleketa.@@Kutani xi ku, "Se ndza switiva leswaku hikwalahokayini ndzi ri wa xitshopana!"
+P21	Ximanga na Mbyana vakhomisana ndlela va ya exikolweni.@@Ndlopfu yi penda xikolo.@@Ndlopfu yi penda xikolo hi muhlovo wa xitshopana.
+P22	Ndlopfu yi pendile hinkwaswo.@@Ku nga ri xikolo ntsena, kambe yi pende na Ximanga!
+P23	Ta ta Ximanga xa xitshopana.@@Ta ta Mbyana.@@Ta ta Ndlopfu.
+
+images:
+
+illustrations/pages/25638.png
+illustrations/pages/25615.png
+illustrations/pages/25616.png
+illustrations/pages/25617.png
+illustrations/pages/25618.png
+illustrations/pages/25619.png
+illustrations/pages/25620.png
+illustrations/pages/25621.png
+illustrations/pages/25622.png
+illustrations/pages/25623.png
+illustrations/pages/25624.png
+illustrations/pages/25625.png
+illustrations/pages/25626.png
+illustrations/pages/25627.png
+illustrations/pages/25628.png
+illustrations/pages/25629.png
+illustrations/pages/25630.png
+illustrations/pages/25631.png
+illustrations/pages/25632.png
+illustrations/pages/25633.png
+illustrations/pages/25634.png
+illustrations/pages/25635.png
+illustrations/pages/25636.png
+illustrations/pages/25637.png
+illustrations/pages/18782.png
+
+translations:
+
+Anii (Adaptation)	Ganyaʊ n'asna - Ganyaʊ bʊciŋcintoyar	id=39177
+English (Original)	Cat and Dog: Cat is yellow	id=21992
+French (Adaptation)	Le chat et le chien - Le chat est jaune	id=34876
+Lusoga (Translation)	Puusi ni Embwa: Epuusi ya kyenvu	id=26939
+Tiv (Translation)	Kpatema vea Iwa: Kpatema ngu agbedaang	id=34794
+Tshivenḓa (Translation)	Tshimange na Mmbwa: Tshimange u ṱaḓa	id=37290

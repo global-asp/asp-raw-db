@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=36529&d=0&a=1
+id:	36529
+title:	Le père, le fils et l'âne
+author:	Jacqueline  Meugnier
+artist:	Adonay  Gebru
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36529.png
+desc:	Il est impossible à satisfaire tout le monde. Voici la version éthiopienne de la fable dAesop.
+
+page_text:
+
+P1	Un père et son fils partent pour un long voyage avec leur âne. En route, des personnes leur demandent pourquoi ils ne montent pas sur l'âne.
+P2	Le père propose à son fils de monter sur l'âne pendant que lui-même marchera.@@Ils font ainsi pendant un moment.
+P3	Puis ils rencontrent d'autres personnes qui font cette remarque : "Regardez ce mauvais garçon qui est monté sur son âne pendant que son père marche !"
+P4	Alors le fils saute à terre, et le père monte sur l'âne. @@Ils continuent leur voyage.
+P5	Quelque temps après, ils rencontrent d'autres personnes qui disent : "Regardez ce mauvais père monté sur son âne pendant que son fils marche !"
+P6	Alors le père et le fils décident de monter sur leur âne ensemble.
+P7	Mais peu après, ils rencontrent d'autres personnes qui disent : "Regardez comme ils sont mauvais. Ils vont tuer leur âne !"
+P8	Finalement père et fils comprennent qu'ils ne peuvent pas éviter les critiques des gens.@@Ils décident de se fier à leur propre raison pour faire ce qui leur semble bien.
+
+images:
+
+illustrations/pages/27747.png
+illustrations/pages/27742.png
+illustrations/pages/27743.png
+illustrations/pages/27744.png
+illustrations/pages/27745.png
+illustrations/pages/27746.png
+illustrations/pages/27747.png
+illustrations/pages/27748.png
+illustrations/pages/27749.png
+
+translations:
+
+Anii (Adaptation)	Gʊyà ɖǝn n'ʊpur na bagaraŋkɔŋkɔŋɔ	id=39761
+English (Original)	Father, son and donkey	id=31947
+Tiv (Translation)	Ter vea wan man jaki ve	id=39580

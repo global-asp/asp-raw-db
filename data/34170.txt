@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34170&d=0&a=1
+id:	34170
+title:	Wakucemeredwa pacikondweso
+author:	Little Zebra Books
+artist:	Alzette  Prins
+lang:	Cinyungwe
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34170.png
+desc:	Um ensinamento de Jesus em Lucas 14: 1
+
+page_text:
+
+P1	Pantsiku inango ya sabudu, Jezu adapita munyumba mwa m'kulu winango wa aFalizi kuti akadye, ndipo wanthu akhamunyang'anisisa. Ndipo Jezu pomwe adawona momwe akhasankhulira mbuto zakulemekezeka pa meza wanthu wakucemeredwa, Iye adawauza mufananizo wakuti:
+P2	—Penu munthu winango an'kucemera pacikondweso ca malowozi, leka kusankhula mpando wakulemekezeka. Nakuti pan'dzakhala kuti pacemeredwa munthu wakulemekezedwa kuposa iwepo. Ndipo ule omwe akucemerani an'dzakuuza kuti: "Mpando umweyu pasa uyu." Ndipo iwepo na manyazi un'dzakakhala pampando wakumalizira.
+P3	Tsono iwepo ukacemeredwa, ndoko ukakhale pampando wakunyozeka. Kucitira kuti wakukucemerayo akabwera an'dzakuuza kuti: "Xamwali, ndoko ukakhale pampando wakulemekezeka ule."
+P4	Ndipo iwepo un'dzalemekezeka pakati pa alendo wentsenewo. Thangwe munthu ali-wentse omwe an'bzitumbiza, iye an'dzacepesedwa, ndipo omwe an'bzicepesa an'dzakuzidwa.
+P5	Pamwepo Jezu adauza omwe akhadamucemerayo kuti:@—Iwepo ukakondza cakudya ca masikati ayai ca kulalira, leka kucemera axamwali wako, abale ayai adzindza wako, napo wapafupi wako wakudala. Ukacita bzimwebzi, bzinifunika kuti iwo acitembo acikucemerambo ndipo tenepoyo iwepo an'dzakhala wabwezeredwa.
+P6	Tsono ukakondza cakudya, cemera wakusauka, wakulemala, wakupunduka na azimola.
+P7	Ndipo iwepo un'dzakhala wakupfatsa thangwe iwo alibe cinthu cakudzakubwezera. Mabaibai yako yan'dzabwera panthawe yomwe wanthu wakulungama an'dzamuka kwa wakufa.
+
+images:
+
+illustrations/pages/28092.png
+illustrations/pages/28097.png
+illustrations/pages/28100.png
+illustrations/pages/28099.png
+illustrations/pages/28096.png
+illustrations/pages/28095.png
+illustrations/pages/28093.png
+illustrations/pages/28094.png
+illustrations/pages/28098.png
+
+translations:
+
+Elomwe (Translation)	Oowopeliwa Efesta	id=34169
+Emakhuwa (Translation)	Atthu Oolattuliwa Vaniirani	id=34167
+Portuguese (Translation)	Os Convidados da Festa	id=34168

@@ -1,0 +1,91 @@
+url:	https://africanstorybook.org/reader.php?id=36354&d=0&a=1
+id:	36354
+title:	Mosuoetsana Lineo
+author:	Lineo  Nkabane-Sekopo
+artist:	Vusi Malindi
+lang:	Sesotho (Lesotho)
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36354.png
+desc:	Pale e khutsoane e bonolo ka mosuoetsana ea hloahloa le seo a re rutang sona.
+
+page_text:
+
+P1	Enoa ke mosuoetsana oa ka.@@Lebitso la hae ke Mosuoetsana Lineo.@@O re rata haholo.
+P2	Mosuoetsana Lineo o re ruta alfabete.@@O re ruta liluma-nosi.@@Ke khona ho bitsa litlhaku a, e, i, o, u.
+P3	Mosuoetsana Lineo o re ruta mebala.@@Ke tseba khubelu, putsoa, tala, ts'ehla le nts'o.
+P4	Ka nako ea ho robala, Mosuoetsana Lineo o oa re koietsa.@@O re binela lipina tse koietsang.
+P5	Pina e koietsang e binoa tjena:@@Boroko ba khauta bo fa mahlo a lona pososelo.@Pososelo e le emetse ha le tsoha.@@Robalang baratuoa ba batle, le se ke la lla.@Ke tla le binela pina e monate e koietsang.
+P6	Mosuoetsana Lineo o tseba lipale tse ngata.@@O re phetela pale e fapaneng letsatsi ka leng la beke.
+P7	Ka 'Mantaha, o re phetela lipale tsa banna ba bahale.
+P8	Ka Labobeli, o re phetela lipale tsa basali ba bahale.
+P9	Ka Laboraro, o re phetela lipale ka mefuta ea lipalangoang.
+P10	Ka Labone o re phetela lipale ka temo.
+P11	'Me ka Labohlano, re phetela barutuoa ba bang lipale tsa rona.
+P12	Mosuoetsana oa rona ke mosuoetsana ea hloahloa ka ho fetisisa lefats'eng!@@Ha ke hola, ke batla ho ts'oana le Mosuoetsana Lineo.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25336
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+Afrikaans (Translation)	Onderwyser Akinyi	id=33493
+Chichewa (Translation)	Aphunzitsi a Akinyi	id=34967
+Chinkhonde (Translation)	M'manyisi Akinyi	id=35002
+ChiTonga (Translation)	Bayi ba Akinyi	id=18642
+ChiTonga (Adaptation)	Bayi ba Akinyi	id=37970
+Chitonga (Malawi) (Translation)	Asambizi Anyakinyi	id=35027
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+CiNyanja (Adaptation)	Aphunzitsi a Akinyi	id=37730
+Citumbuka (Translation)	Ŵasambizgi ŵa Akinyi	id=35052
+Ciyawo (Malawi) (Translation)	Akinyi ceTicala	id=35077
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+Ellomwe (Malawi) (Translation)	Akinyi muhuddihi	id=35109
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+French (Adaptation)	La Maîtresse Saratou!	id=38767
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Kafundisha Mbewe	id=18586
+IciBemba (Adaptation)	Bakafundisha ba Akanyi	id=37732
+isiNdebele (Translation)	UTitjhere Nkosi	id=13043
+isiXhosa (Translation)	UTitshalakazi uNwabisa	id=14116
+isiZulu (Translation)	Uthisha uZanele	id=13537
+Kῖmῖῖrũ  (Translation)	Mwarimũ Makena	id=32849
+Khoekhoegowab (Translation)	ǁGauǃnâ-aos Akinyis xa	id=31680
+Kiswahili (Translation)	Mwalimu Akinyi	id=33172
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Lusoga (Translation)	Musomesa Akinyi	id=27260
+Mampruli (Translation)	Tikyɛa Talata	id=20109
+Oshikwanyama (Translation)	Omuhongi Akinyi	id=24128
+Oshindonga (Translation)	Omulongi Akinyi	id=23884
+Otjiherero (Translation)	Jevrou Akinyi	id=24170
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rukwangali (Translation)	Murongi Akinyi	id=31488
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (South Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Siswati (Translation)	Thishela Nkosi	id=21746
+Talen (Translation)	Tikya Akinyi	id=20177
+Tshivenḓa (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

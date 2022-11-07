@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34860&d=0&a=1
+id:	34860
+title:	Emi Luwo
+author:	Fatima Ladan Yusuf and Mohammed Nma Baba
+artist:	Jacob  Matthess
+lang:	Nupe
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34860.png
+desc:	Luwo sneaks out of church to go home. But finding his house isnt as easy as he thought.
+
+page_text:
+
+P1	Nna Luwo wun lasun gwa lo coci.
+P2	Eza zhi dokun fi coci'o. Ace ko eni.
+P3	Luwo ci, a tinya coci'o. Nna ma kpeka.
+P4	Luwo cid a kpe gi eko'o.@@Ci jin tunani, "Ba emi yi dan'o."
+P5	Unci lo egboro degi, unci ta eye le emi wanci ko ye. @@  "Kai, nana jhin emi yi nya. Emi yi kwaan ni'a."
+P6	Unci ke lo yegboro degi be. Unci taye le evun na a'tu ta ebe'ona ye.@@Kai, nana jhin emi yi naya. Emi yi ta eba' bo'a.
+P7	Unci cigaba be ezanda'e. Unci taye le emi zanna'e na ye.@  @"Kai, nana jhin emi yi nya. Emi yi de lankpa."
+P8	Unce ke lo yegboro. Unfe keze le emi maka'gi ye be cigban'e gi egboro.@@"Kai, nana zhin emi yi nya. Cigban guba zhi egboro emi yi bo'o."
+P9	Unda mini tunani'o, wun ce le nna'u ye. Wun ci bici@datsun'u. @@Nna cig an, "Bi'da emi."
+P10	KiciyiemiLuwo zhi'o?
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Asante Twi (Translation)	Luwo Fie	id=34864
+Bura (Translation)	KՁ ga  Luwo	id=34890
+Cinyanja (Mozambique) (Translation)	Nyumba ya Luwo	id=33827
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+English (Original)	Luwo's House	id=32346
+French (Translation)	La maison de Luwo	id=33378
+Hausa (Nigeria) (Translation)	Gidan Luwo	id=34820
+Igala (Translation)	Unyi Luwo's	id=34835
+Portuguese (Translation)	A Casa de Luwo	id=32379
+Urhobo (Translation)	Uwevwi ri Luwo	id=35204
+Yoruba (Translation)	Ilé Luwo	id=34813
+Yoruba(Ijesha) (Translation)	Ule Luwo	id=34862

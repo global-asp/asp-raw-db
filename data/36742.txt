@@ -1,0 +1,65 @@
+url:	https://africanstorybook.org/reader.php?id=36742&d=0&a=1
+id:	36742
+title:	My gesig
+author:	Meryke Barkley
+artist:	Sue  Beattie
+lang:	Afrikaans
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36742.png
+desc:	Kom ons leer die verskillende dele vann mens se gesig.  Hier isn paar maats om jou te help.
+
+page_text:
+
+P1	Ek het twee ogies.@@Ek kan sien met my ogies.
+P2	Ek het twee ore waarmee ek luister.@@Ek kan alles om my hoor.
+P3	Ek het een mond.@@Ek kan praat, eet en sing met my mond.
+P4	Ek het een neusie.@@Daarmee kan ek alles ruik.
+P5	Hierdie is my ken.@@My ken is onder my mond.
+P6	Ek moet mooi na my tande kyk.@@Ek borsel hulle elke dag.
+P7	My tong is binne-in my mond.@@Dit help my om te praat, eet en te proe.
+P8	My twee wange kan ek opblaas, nes 'n ballon!
+P9	My wenkbroue sit bo my oë.@@Hulle beskerm my oë.
+P10	My hare is op my kop.@@Daar is baie verskillende kleure hare.
+
+images:
+
+illustrations/pages/26803.png
+illustrations/pages/26807.png
+illustrations/pages/26808.png
+illustrations/pages/26802.png
+illustrations/pages/26800.png
+illustrations/pages/26801.png
+illustrations/pages/26755.png
+illustrations/pages/26810.png
+illustrations/pages/26809.png
+illustrations/pages/26804.png
+illustrations/pages/26806.png
+
+translations:
+
+Afrikaans (Translation)	Gesig	id=32140
+Anii (Adaptation)	Gayɛ	id=32694
+Cinyanja (Mozambique) (Translation)	Nkope	id=31437
+Cinyungwe (Translation)	Nkhope	id=31439
+Cisena (Translation)	Nkhope	id=31441
+Echiziinza (Translation)	Obúso	id=25010
+Echiziinza (Translation)	Obúso	id=30270
+Echuwabo (Translation)	Kove	id=31443
+Elomwe (Translation)	Ethoni	id=31452
+Emakhuwa (Translation)	Owiitho	id=31454
+English (Original)	Face	id=23135
+French (Adaptation)	Le visage	id=32695
+Ikisimbëtë (Translation)	Ubhusyö	id=30267
+Imeetto (Translation)	Ikhove	id=33176
+isiXhosa (Translation)	Ubuso	id=33178
+Kiswahili (Translation)	Uso	id=29975
+Lubukusu (Translation)	Mumoni	id=33669
+Lusoga (Translation)	Mumaiso	id=30326
+Lusoga (Translation)	Mu maiso	id=30407
+Lusoga (Translation)	Mu  Maiso	id=30574
+Ng’aturkana (Translation)	Ereet	id=35701
+Olunyaneka (Translation)	Ocipala	id=31456
+Portuguese (Translation)	Cara	id=31435
+Runyoro-Rutooro (Translation)	Hamaiso	id=34799
+Spanish (Translation)	La cara	id=36322

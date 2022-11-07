@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=37119&d=0&a=1
+id:	37119
+title:	Kokwanaxisati, N'wampfundla na N'wandlopfu
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Marleen Visser
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37119.png
+desc:	Nwana u rungula hilaha kokwanaxisati wa yena a va tsheketela loko va nga si ya eku etleleni.
+
+page_text:
+
+P1	Kokwanaxisati a sungula, "N'wampfundla na N'wandlopfu a va ri vaakelana tlhelo vanghana."
+P2	N'wampfundla a a rhandza swikowa kambe a loloha ku rima.
+P3	A ku ri hava swikowa.@@Ivi N'wampfundla a sungula ku yiva tibanana ta N'wandlopfu.
+P4	N'wandlopfu a yimbelela, "Ndzi ta ri kuma khamba!"@@N'wampfundla a chuhwile.
+P5	N'wankawa a rindza nsimu kambe N'wampfundla a nga yivanga.
+P6	N'wandlopfu a ya kambela.@@N'wampfundla xi tumbela emirohweni ya tin'hwembe.
+P7	N'wandlopfu a languta hinkwako, kambe a nga ri kumanga khamba.
+P8	Siku rin'wana, N'wampfundla a balekele endzeni ka kwembe lerikulu.
+P9	N'wandlopfu a vona kwembe lerikulu, kutani a ri mita.
+P10	Kwembe ri sungula ku fambafamba endzeni ka khwiri ra N'wandlopfu.
+P11	Ivi N'wandlopfu a phela kwembe.@@N'wampfundla a baleka.
+P12	Kokwanaxisati a ku, "Pthu, choyoyoo!"
+
+images:
+
+illustrations/pages/18842.png
+illustrations/pages/18819.png
+illustrations/pages/18831.png
+illustrations/pages/18832.png
+illustrations/pages/18833.png
+illustrations/pages/18834.png
+illustrations/pages/18835.png
+illustrations/pages/18836.png
+illustrations/pages/18837.png
+illustrations/pages/18839.png
+illustrations/pages/18840.png
+illustrations/pages/18841.png
+illustrations/pages/18842.png
+
+translations:
+
+Afaan Oromo (Translation)	Akkoo, Illeetiifi Arba	id=21667
+Amharic (Translation)	አያቴ፣ ጥንቸልና ዝሆን	id=21245
+English (Original)	Grandmother's stories	id=19109
+English (Adaptation)	Grandmother, Hare and Elephant	id=20883
+Kiswahili (Translation)	Bibi atusimulia hadithi	id=19110
+Kiswahili (Translation)	Bibi, Sungura na Tembo	id=21129
+Lusoga (Translation)	Dhaada Omukazi, Wakaima ne Endovu	id=21334
+Tigrigna (Translation)	እናሓጎይ፣ ማንቲለን ሓርማዝን	id=21106
+Tshivenḓa (Translation)	Makhulu, Muvhuḓa na Nḓou	id=37295

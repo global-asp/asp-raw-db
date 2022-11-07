@@ -1,0 +1,46 @@
+url:	https://africanstorybook.org/reader.php?id=37157&d=0&a=1
+id:	37157
+title:	Hewan yang kami lihat
+author:	erwin darma
+artist:	Penuel  K
+lang:	Bahasa Indonesia
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37157.png
+desc:	Cerita tentang perjalanan sebuah keluarga melihat hewan-hewan. (Cerita dan ilustrasi dibuat di Sanggar Minggu yang diselenggarakan oleh Komunitas Pelayanan Psikologi Kota Sophiatown di Johannesburg pada bulan Juni 2019).
+
+page_text:
+
+P1	Ini adalah keluarga saya.@@Paman, sepupu, Ibu, dua saudara perempuan (yang selalu memakai jenis pakaian yang sama), saudara laki-laki, dan saya!
+P2	Keluarga saya naik bus untuk melihat hewan-hewan.@@Bibi, Ibu, saudara laki-laki, saudara perempuan (yang selalu memakai jenis pakaian yang sama), dan saya ada di dalam bus.
+P3	Kami melihat hewan-hewan dari dalam bus.
+P4	Kami melihat seekor jerapah.
+P5	Kami melihat seekor springbok.
+P6	Kami melihat seekor singa.
+P7	Kami melihat seekor gajah.@@Kami tertawa terus melihat gajah itu, karena...
+P8	...gajah itu buang air besar di sebuah pohon!
+
+images:
+
+illustrations/pages/85940108.png
+illustrations/pages/85940106.png
+illustrations/pages/85940107.png
+illustrations/pages/85940108.png
+illustrations/pages/85940109.png
+illustrations/pages/85940110.png
+illustrations/pages/85940111.png
+illustrations/pages/85940112.png
+illustrations/pages/85940113.png
+
+translations:
+
+English (Original)	Animals we saw	id=33720
+French (Translation)	Des animaux que nous avons vus	id=33844
+isiZulu (Translation)	Izilwane esazibona	id=33772
+Kiswahili (Translation)	Wanyama tulioona	id=33725
+Kufo (Translation)	udumadara engge nga sagedino	id=39393
+Lingala (Translation)	Ba niama to monaka	id=33803
+Lulogoli  (Translation)	Zinyama zia kwarora	id=33728
+Sesotho (South Africa) (Translation)	Diphoofolo tseo re di boneng	id=33788
+Tshivenḓa (Translation)	Zwipuka zwe ra zwi vhona	id=37288
+Xitsonga (Translation)	Swiharhi leswi hi swi voneke	id=37108

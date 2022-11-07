@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34819&d=0&a=1
+id:	34819
+title:	Damisa da Barewa
+author:	Amina  Jibril
+artist:	Isaac Okwir
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34819.png
+desc:	Damisa da Barewa sun xauka rantsuwa su zama abokai. Amma daga farko
+
+page_text:
+
+P1	Ko da yaushe, Damisa na qoqari ta kama Barewa.
+P2	kuma Barewa  na tsere ma Damisa ko da yaushe.
+P3	Wata rana, Damisa ta kira Barewa, "mu zama abokai. Abin da ki ke ci ba na ci. Babu wani abu da zai sa mu gaba."
+P4	Barewa ta yarda. Don haka Damisa ta ce, "Bari mu ranste don mu zama abokai. Idan kowane xayan mu ya karya rantsuwar, yaro zai mutu."
+P5	Su ka  rantsai@  don zama abokai. Da dare, Barewa tayi bacci a gindin bishiya. Damisa tayi bacci@  a kan rassan a sama.
+P6	Ba da daxewa Barewa ta yi qiba. Damisa ta sirance.
+P7	Damisa ta yi qwaxayin cin Barewa. Ta fada ma kanta, “ban damu da rantsuwar ba. Ba ni da yara!”
+P8	Damisa ta yi tselle zuwa kasa  don kama Barewa. Amma ta maqale tsakanin@  rassan biyu.
+P9	Barewa ta gigice. Ta yi tsalle ta fashe da kuka, “Beh! Beh!”
+P10	Damisa ta yi roqo, “Aboki na, taimake@  ni. Mun yarda cewa duk@  wanda ya karya rantsuwar mu ta zama abokai, zai rasa yaro.”
+P11	Barewa ta amsa, “ ya kamata mahaifin ki ce@  ta yi rantsuwar. Yanzu ta zama na ki!”
+
+images:
+
+illustrations/pages/17309.png
+illustrations/pages/17306.png
+illustrations/pages/17307.png
+illustrations/pages/17309.png
+illustrations/pages/17310.png
+illustrations/pages/17311.png
+illustrations/pages/17312.png
+illustrations/pages/17313.png
+illustrations/pages/17314.png
+illustrations/pages/17315.png
+illustrations/pages/17316.png
+illustrations/pages/17317.png
+
+translations:
+
+Amharic (Translation)	ነብርና ሚዳቋ	id=17660
+Asante Twi (Translation)	Etwie ne Adowa	id=34863
+English (Original)	Leopard and Antelope	id=17659
+Fulfulde (Adaptation)	Cirgu e Lelwa	id=40200
+Fulfulde Mbororoore (Translation)	Cirgu e Lelwa	id=32096
+Hausa (Nigeria) (Translation)	Damisa da Barewa	id=22072
+Kiswahili (Translation)	Chui na Swara	id=22084
+Nupe (Translation)	Nᾱἠpᾱ bệ Ὲlớgỉ	id=34859
+Urhobo (Translation)	Ẹdjẹnẹkpo v' Akora	id=35199
+Yoruba (Translation)	Amọtékun áti Adááko	id=34894

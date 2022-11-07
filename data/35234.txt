@@ -1,0 +1,70 @@
+url:	https://africanstorybook.org/reader.php?id=35234&d=0&a=1
+id:	35234
+title:	Abantwana bamafutha
+author:	Sponono  Mahlangu
+artist:	Wiehan de Jager
+lang:	isiNdebele
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35234.png
+desc:	Kade kwakunomndeni onabantwana abathathu abanehlonipho. Umraro kukobana bebenziwe ngamafutha.
+
+page_text:
+
+P1	Kade, lapha kwakuhlala umndeni ohlala uthabile.
+P2	Abantwana bakhona bebathandana bangalwi. @@Bebasiza ababelethi babo ekhaya nemasimini.
+P3	Kodwana bebangakavunyelwa ukobana baye eduze nomlilo.
+P4	Bekufanele benze yoke imisebenzi yabo ebusuku.
+P5	Ngesimanga sokobana bebenziwe ngamafutha!
+P6	Kodwana omunye wabesana warhalela ukuphuma aye elangeni.
+P7	Ngelinye ilanga wazizwa arhalela khulu ukuya ngaphandle. @@Umnakwabo banodadwabo bamkhalima.
+P8	Kodwana besele baladelwe! @@Wancibilika elangeni elabe litjhisa bhe!
+P9	Abentwana abenziwe ngamafutha bakhihla isililo nababona umnakwabo ancibilika aphela.
+P10	Kodwana benza iqhinga. @@Benza  ijamo  lenyoni ngeensalela zamafutha ancibilikileko.
+P11	Bathatha inyoni esele ingumnakwabo bakhamba nayo entabeni ekulu.
+P12	Lokha ilanga naliphumako, yaphapha yabaleka, yavuma emkhanyweni wekuseni.
+
+images:
+
+illustrations/pages/1295.png
+illustrations/pages/1296.png
+illustrations/pages/1297.png
+illustrations/pages/1298.png
+illustrations/pages/1299.png
+illustrations/pages/1300.png
+illustrations/pages/1301.png
+illustrations/pages/1302.png
+illustrations/pages/1303.png
+illustrations/pages/1304.png
+illustrations/pages/1305.png
+illustrations/pages/1306.png
+
+translations:
+
+Afrikaans (Translation)	Die kerswaskinders	id=11550
+Arabic (Translation)	أطفال الشمع	id=21881
+Ekegusii (Translation)	AbanaBa’Mana	id=6984
+English (Original)	Children of wax	id=2181
+English (Adaptation)	Children of wax (Colour-in)	id=32503
+isiXhosa (Translation)	Abantwana bekhandlela	id=2500
+isiZulu (Translation)	Abantwana abenziwe ngamakhandlela	id=2499
+Italian (Translation)	I bambini di cera	id=39689
+Kikamba (Translation)	Syana Sya Mũvũa	id=2502
+Kinyarwanda (Translation)	Abana b'ibishashara	id=32630
+Kiswahili (Translation)	Watoto walioumbwa kwa nta	id=2505
+Lámnsoʼ (Translation)	Wón Veé Ghàm Vilù	id=15062
+Luganda (Translation)	Abaana Abaava Mu Nvumbo	id=2506
+Luganda (Translation)	Abaana b'ebisasalala	id=22947
+Lugbarati (Translation)	Anji Afa Akazavile Ri	id=2511
+Lugbarati (Official) (Translation)	Anzɨ Òdirì Rʉ́ Dɨ̀yɨ	id=8755
+Lumasaaba (Translation)	Babaana Be Buwuula	id=3014
+Lunyole (Translation)	Abaana Bomu Bulimbo	id=2258
+Lusoga (Translation)	Abaana abaatondebwa munvumbo	id=26692
+Maa (Translation)	Inkera E Emanoo	id=2736
+Ng’aturkana (Translation)	Ng’Ide a Ng’Amonok	id=8743
+Oluwanga (Translation)	Abaana be iula	id=2516
+Sesotho (South Africa) (Translation)	Bana ba kerese	id=33508
+Setswana (Translation)	Bana ba kerese	id=2519
+Siswati (Translation)	Bantfwana bemtfwebeba	id=34474
+Tshivenḓa (Translation)	Vhana vha phula	id=34253
+Xitsonga (Translation)	Vana va swihlenge	id=34327

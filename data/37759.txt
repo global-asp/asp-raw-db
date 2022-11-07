@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=37759&d=0&a=1
+id:	37759
+title:	Vuur se storie
+author:	Fanie Viljoen and Magdaleen  Du Toit
+artist:	Rob Owen
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37759.png
+desc:	Vuur vertel sy eie storie. (Hierdie isn verwerking vann Vlak 1-storieboek
+
+page_text:
+
+P1	Kom ek vertel jou my storie.@@Ek begin as 'n klein vonkie.
+P2	Ek versprei as die wind my jaag.
+P3	Ons is goeie vriende, ek en jy.
+P4	Ek maak jou kos gaar.
+P5	Ek gee vir jou lig in die nag.
+P6	Ek ken baie kunsies.
+P7	Ek is deel van jou familie.
+P8	Maar pasop as jy my na jou huis nooi.@@Ek hou nie daarvan om alleen te wees nie.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Chichewa (Translation)	Nkhani ya moto	id=34958
+ChiNambya (Translation)	Lungano lomomoto	id=32900
+Chinkhonde (Translation)	Akapango ka moto	id=34991
+Chitonga (Malawi) (Translation)	Nthanu ya Motu	id=35018
+Citumbuka (Translation)	Nkhani ya moto	id=35044
+Ciyawo (Malawi) (Translation)	Ngani ja moto	id=35067
+Ellomwe (Malawi) (Translation)	Mwaha wa munllo	id=35100
+English (Adaptation)	Fire's story	id=9296
+isiXhosa (Translation)	Ibali loMlilo	id=37844
+isiZulu (Translation)	Indaba exoxwa nguMlilo	id=37718
+Khoekhoegowab (Translation)	ǀAes ra (ǁî-) aitsama ǁgam	id=24226
+Kiswahili (Translation)	Mimi ni Moto!	id=22082
+Lusoga (Translation)	Olufumo  olw'omuliro	id=25818
+Oluwanga (Translation)	Esie no Muliro	id=22817
+Oshikwanyama (Translation)	Ehokololo lomundilo	id=24123
+Oshindonga (Translation)	Okahokololo komulilo	id=23881
+Otjiherero (Translation)	Otjihambarere tja Muriro	id=24166
+Rukwangali (Translation)	Esanseko lyoMundiro	id=31484
+Sepedi (Translation)	Kanegelo ya Mollo	id=33460
+Sesotho (Lesotho) (Translation)	Pale ea Mollo	id=36344
+Sesotho (South Africa) (Translation)	Pale ya Mollo	id=32768
+Siswati (Translation)	Indzaba yeMlilo	id=33399
+Tshivenḓa (Translation)	Mafhungo  a mulilo	id=34297
+Xitsonga (Translation)	Xitori xa ndzilo	id=34165

@@ -1,0 +1,66 @@
+url:	https://africanstorybook.org/reader.php?id=37090&d=0&a=1
+id:	37090
+title:	Sara se kano
+author:	Meryke Barkley
+artist:	Rachel  Greer
+lang:	Afrikaans
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37090.png
+desc:	Sara help mense en diere om oor die rivier te gaan.  Maar nou wil olifant ook oorgaan!
+
+page_text:
+
+P1	Sara het 'n kano om die rivier oor te steek.
+P2	Van die vroue wil die rivier oorsteek.
+P3	Van die mans wil die rivier oorsteek.
+P4	Almal klim in.
+P5	Daar is diere wat ook die rivier wil oorsteek.
+P6	Hulle klim ook in.
+P7	Olifant wil die rivier oorsteek.
+P8	Almal val uit!
+P9	Olifant is hartseer.
+P10	Sara neem die vrou oor.
+P11	Sara neem die mans oor.
+P12	Sy neem ook die diere oor.
+P13	Maar Olifant?  Olifant moet maar stap.
+
+images:
+
+illustrations/pages/27338.png
+illustrations/pages/16290.png
+illustrations/pages/16293.png
+illustrations/pages/16297.png
+illustrations/pages/16296.png
+illustrations/pages/16298.png
+illustrations/pages/16299.png
+illustrations/pages/16300.png
+illustrations/pages/16302.png
+illustrations/pages/16294.png
+illustrations/pages/16301.png
+illustrations/pages/16292.png
+illustrations/pages/16295.png
+illustrations/pages/16291.png
+
+translations:
+
+Afrikaans (Translation)	Sara se kano	id=31601
+Amharic (Translation)	የሳራ ጀልባ	id=31650
+CiNyanja (Translation)	Ngalawa ya Sara	id=31594
+Cinyungwe (Translation)	Mwadiya wa Sara	id=31592
+Ciyawo (Translation)	Dikuwungwa Dya Asara	id=33186
+Elomwe (Translation)	Mwaaceya a Saara	id=31595
+Emakhuwa (Translation)	Ekalawa ya Saara	id=31605
+English (Original)	Sara's Canoe	id=16261
+English (Adaptation)	Sara's Canoe	id=35250
+English (Adaptation)	Sara's Canoe	id=35255
+Ga (Translation)	Sara Lɛlɛ lɛ	id=31679
+Imeetto (Translation)	Ikalawa ya Saara	id=33188
+isiXhosa (Translation)	Iphenyane likaCwengile	id=31600
+Kinyarwanda (Translation)	Ubwato bwa Sara	id=32306
+Kiswahili (Translation)	Mtumbwi wa Sarai	id=31710
+Lusoga (Translation)	Toidha Kundeka	id=22711
+Portuguese (Translation)	A Canoa da Sara	id=33185
+Sepedi (Translation)	Mokoro wa Sara	id=33345
+Sola (Translation)	Sɑrɑ kuninɔi	id=35138
+Yom (Translation)	Sɑɑrɑ gurɣʋ	id=36272

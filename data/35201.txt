@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=35201&d=0&a=1
+id:	35201
+title:	Onogbo mẹ sioma nu
+author:	Eruotor Grace
+artist:	Bronwen Heath and Ingrid Schechter
+lang:	Urhobo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35201.png
+desc:	A full-colour Level 2 version of the storybook 
+
+page_text:
+
+P1	Onogbo mẹ rhọ?, me@  mrẹ rẹ ẹn,me mr’onogbo mẹ asa vuọvo@  o
+P2	Onogbo mẹ rhọ? Ọruotọ r’ ukpe? Ẹjo, Ọ jẹ ruo@  otafe
+P3	Onogbo mẹ rhọ? Ọ ruotọ rẹ Ikọbọdo?,@  Ejo ọruotọ r’ ikpakpa
+P4	Onogbo mẹ rhọ? Ọruotọ r’ ẹ agbaran? Ejo ọ obotafe
+P5	Onogbo mẹ rhọ?  ọruotọ r’ erhurhu, ejo, o vwo wh’ ovakpo
+P6	Onogbo mẹ rhọ?, ọruotọ r’ akpẹrẹ?@  Ejo, ọ evu rẹ ekpeti
+P7	Onogbo mẹ rhọ? Ọ obotafe? Ejo, ọru’ obuko rẹ@  ikọtini
+P8	Onogbo mẹ rhọ? ọ e@  tinẹ, O si’ omanu obotọ rẹ@  ikọbọdo
+
+images:
+
+illustrations/pages/28025.png
+illustrations/pages/28025.png
+illustrations/pages/28026.png
+illustrations/pages/28027.png
+illustrations/pages/28029.png
+illustrations/pages/28031.png
+illustrations/pages/28032.png
+illustrations/pages/28033.png
+illustrations/pages/28034.png
+
+translations:
+
+Afemai (Translation)	Ólogbó mę la khé	id=34891
+English (Original)	My cat is hiding	id=32340
+Hausa (Nigeria) (Translation)	Mage na ya na  boye	id=35206
+Igala (Translation)	órbala mi márja	id=34834
+Igbo (Translation)	Pusi m na ezo-ezo	id=34828
+KiGiryama (Translation)	P'aka wangu anadzifitsa	id=33478
+Ng’aturkana (Translation)	Edukit ipaka kang	id=33420
+Nupe (Translation)	Dângi mi'a so	id=34858
+Pidgin English (Nigeria) (Translation)	My cat de hide	id=37822
+Yoruba (Translation)	Ológbò mi ṣa pamó	id=34811
+Yoruba (Translation)	Ológbò mi ṣa pamó	id=34895

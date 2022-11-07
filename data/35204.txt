@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=35204&d=0&a=1
+id:	35204
+title:	Uwevwi ri Luwo
+author:	Eruotor Grace
+artist:	Jacob  Matthess
+lang:	Urhobo
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35204.png
+desc:	Luwo sneaks out of church to go home. But finding his house isnt as easy as he thought.
+
+page_text:
+
+P1	Luwo vẹ oni rọye kpẹ ishọshi. Ọ nyọrobọ rọye whidjerhe.
+P2	Iwho ve ishọshi na, aye suine.
+P3	Luwo vrẹ n'ishọshi.@@  Jẹ oni rọye mrẹrẹ ẹ.
+P4	Luwo mudia idjerhe.Ode@  nidjerhe na yaran, ko roro@  ne, uwevwi mẹ rho?
+P5	Koneni idjerhe na nyara. Ọda mrẹ@  uwevwi ode ọvo. Ẹjo, ọnana dẹ@  uwevwi ravware ee.Uwevwi ravware vwa hanhavwe.
+P6	Luwo kọ nyayo obaro. Ọda mrẹ@  uwevwi  ọvo ro kporori. @@"Ẹjo, ọnana dẹ uwevwi ravware rẹn. Uwevwi ravware@  kporori rẹn."
+P7	Ọya phihọ obaro, ọda mrẹ uwevwi ọfa ra vwe ebọ bọ. @"Ẹjo, ọnana dẹ uwevwi ravware rẹn. Uwevwi ravware,igbeyin rekpẹn."
+P8	Ọya sheri mamọ. Ọda mrẹ uwevwi rurhe ọvo baro rọye.@  @"Ẹjo, ọnana dẹ uwevwi ravware rẹn. Uwevwi ravware vwe irhe ivẹ obaro rọye."
+P9	Luwo mrẹ oni rọye rọ guọnọ. Luwo da djẹ bro ra. @@Oni rọye da takẹ, "nẹ ọyarhe re kpo."
+P10	Uwevwi vọ ọye uwevwi rẹ Luwo?
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Asante Twi (Translation)	Luwo Fie	id=34864
+Bura (Translation)	KՁ ga  Luwo	id=34890
+Cinyanja (Mozambique) (Translation)	Nyumba ya Luwo	id=33827
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+English (Original)	Luwo's House	id=32346
+French (Translation)	La maison de Luwo	id=33378
+Hausa (Nigeria) (Translation)	Gidan Luwo	id=34820
+Igala (Translation)	Unyi Luwo's	id=34835
+Nupe (Translation)	Emi Luwo	id=34860
+Portuguese (Translation)	A Casa de Luwo	id=32379
+Yoruba (Translation)	Ilé Luwo	id=34813
+Yoruba(Ijesha) (Translation)	Ule Luwo	id=34862

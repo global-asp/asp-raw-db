@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=34354&d=0&a=1
+id:	34354
+title:	Un regalo para la abuela
+author:	Gabriela Geminiani
+artist:	Sibongile Mnkandla
+lang:	Spanish
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34354.png
+desc:	Con la ayuda de su mamá
+
+page_text:
+
+P1	La abuela vendrá de visita.  Ella siempre trae frutos secos y frutos silvestres para Thabo. Algunas veces, le trae maíces y un melón.@@Thabo desea darle a la abuela un regalo especial también.
+P2	Un libro sería una buena idea, pero ¿será que la abuela sabe leer?@@Si fuera al mercado, ¿será que encontraría algo bonito para regalarle?@@"Podríamos hacer una bolsa para ella", dice Thabo y sonríe. "Una bolsa grande y resistente de tejido grueso color azul".
+P3	Mamá busca el tejido que compraron en la tienda. Lo extiende y empieza a cortar.@@Primero, corta dos piezas grandes y anchas; son los lados principales.
+P4	Luego, mamá corta dos piezas más pequeñas que ayudarán a formar los lados de la bolsa.@@Thabo coloca las piezas pequeñas junto a las dos piezas anteriores y observa cómo mamá vuelve a cortar.
+P5	Mamá corta dos piezas largas para el fondo. Estas piezas ayudarán a que la bolsa sea muy resistente.@@Thabo toma las piezas y las junta, mientras mamá   corta nuevas partes.
+P6	Mamá corta cuatro tiras anchas y largas.@@Coserá dos piezas a la vez para formar una correa. De este modo, la correa será doblemente resistente.
+P7	Después, mamá busca su máquina de coser.@@Cose todas las piezas. La bolsa para la abuela está lista.@@Se la entrega a Thabo. El niño sonríe y dice: "¡Gracias, mamá, por haber cosido la bolsa azul para la abuela!".
+
+images:
+
+illustrations/pages/25487.png
+illustrations/pages/25488.png
+illustrations/pages/25495.png
+illustrations/pages/25490.png
+illustrations/pages/25491.png
+illustrations/pages/25492.png
+illustrations/pages/25493.png
+illustrations/pages/25494.png
+
+translations:
+
+ChiChewa (Translation)	Mphatso ya agogo akazi	id=37940
+ChiNambya (Translation)	Chipo chamegulu	id=32895
+ChiNdau (Translation)	Chipo chambuya	id=35132
+English (Original)	A present for grandma	id=21728
+French (Translation)	Un cadeau pour mamie	id=33151
+isiNdebele (Translation)	Isipho sakagogo	id=35210
+Lusoga (Translation)	Ekirabo kya dhaadha omukazi	id=28452
+Otuho (Translation)	Esiori jio hahanyi hoŋ	id=39225
+Sepedi (Translation)	Mpho ya Koko	id=33342
+Sesotho (Zimbabwe) (Translation)	Mpho Ea Nkuku	id=21729
+Siswati (Translation)	Sipho saGogo	id=34416
+Tshivenḓa (Translation)	Mpho  ya makhulu	id=34301
+Xitsonga (Translation)	Nyiko ya kokwanaxisati	id=34194

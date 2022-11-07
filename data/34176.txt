@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=34176&d=0&a=1
+id:	34176
+title:	Jesus anda sobre a água
+author:	Little Zebra Books
+artist:	Gavin  Thomson
+lang:	Portuguese
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34176.png
+desc:	Uma história sobre Jesus do evangelho de Mateus 14: 22-33. © 1999 Bible League Intl. Versão Fácil de Ler. Um Livro da Pequena Zebra.
+
+page_text:
+
+P1	Os discípulos viram Jesus andando sobre a água e ficaram com medo.
+P2	Jesus lhes disse: "Coragem, sou eu! Não tenham medo!"
+P3	"Venha!" Jesus disse. Pedro saiu do barco.
+P4	Mas Pedro teve medo e começou a afundar.
+P5	Pedro gritou: "Salve-me, Senhor!"
+P6	Jesus pegou-o pela mão e disse: "Por que você duvidou?"
+P7	Ao entrarem ambos no barco o vento parou de soprar. Os discípulos disseram: "Realmente O Senhor é o Filho de Deus!"
+
+images:
+
+illustrations/pages/28183.png
+illustrations/pages/28184.png
+illustrations/pages/28073.png
+illustrations/pages/28074.png
+illustrations/pages/28185.png
+illustrations/pages/28076.png
+illustrations/pages/28077.png
+illustrations/pages/28078.png
+illustrations/pages/28082.png
+
+translations:
+
+Cinyungwe (Translation)	Jezu an'famba padzulu pa madzi	id=34175
+English (Original)	Jesus Walks on Water	id=32355

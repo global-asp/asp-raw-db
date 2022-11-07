@@ -1,0 +1,68 @@
+url:	https://africanstorybook.org/reader.php?id=34282&d=0&a=1
+id:	34282
+title:	ሕብርታት
+author:	Tecle Zere
+artist:	Rijuta Ghate
+lang:	Tigrigna
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34282.png
+desc:	ኣብዛ መጽሓፍ ሕብርታት፡ ንምንታይ እተፈላለዩ ሕብርታት ከምዘለዉ ንሓትት። ሕጻናት ዝተፈላለዩ ሕብርታት ንኸለልዩን ክስይሙን ክኣ ትሕግዝ።
+
+page_text:
+
+P1	እዚ ሰማይ ንምንታይ ሰማያዊ ኰይኑ?
+P2	ኲሉ ግዜ ሰማያዊ ኣይኰነን። ከምኡ ድዩ?
+P3	ኣቚጽልቲ ንምንታይ ቈጽለዋይ ሕብሪ ኣለዎም?
+P4	ኲሉ ግዜ ቈጽለዋይ ሕብሪ የብሎምን። ኣለዎም ድዩ?
+P5	ንምንታይ እዩ ሙዝ ብጫ ሕብሪ ዘለዎ?
+P6	ዝበሰለ ሙዝ ብጫ እዩ። ዘይበሰለ  ሙዝ ግን ቈጽለዋይ እዩ።
+P7	ንምንታይ እዩ ጽላል ጸሊም ሕብሪ ዘለዎ?
+P8	ግን ኲሎም ጽላላት ኣይኰኑን ጸሊም ሕብሪ ዘለዎም።
+P9	ንምንታይ እዩ ደም ቀይሕ ሕብሪ ዘለዎ።
+P10	ኣብ ደም ሓጺን ኣሎ። እዚ ኽኣ ቀይሕ ይገብሮ።
+P11	ንምንታይ ጨው ጻዕዳ ኰይኑ?
+P12	ኣይፈለጥኩን።
+
+images:
+
+illustrations/pages/1926.png
+illustrations/pages/1242.png
+illustrations/pages/1243.png
+illustrations/pages/1917.png
+illustrations/pages/1054.png
+illustrations/pages/1918.png
+illustrations/pages/1919.png
+illustrations/pages/1920.png
+illustrations/pages/1922.png
+illustrations/pages/1923.png
+illustrations/pages/1924.png
+illustrations/pages/1925.png
+illustrations/pages/1928.png
+
+translations:
+
+Afrikaans (Translation)	Vertel my Nou...van Kleure!	id=11161
+Anii (Adaptation)	Tâm atosʊra kaalei ashee amʊ	id=39804
+Chichewa (Translation)	Mautoto	id=34536
+English (Original)	Colours	id=1927
+French (Translation)	Raconte-Moi… Maintenant ! Les Couleurs	id=10687
+French (Adaptation)	Raconte-Moi… Maintenant ! Les Couleurs	id=32666
+isiNdebele (Translation)	Ngitjela nje … Imibala	id=13048
+isiXhosa (Translation)	Ndixelele...ngoku! Imibala	id=1935
+isiZulu (Translation)	Ngitshele...manje! Imibala	id=1929
+Kikamba (Translation)	Ndavye…oyu! Malangi	id=1931
+Kinyarwanda (Translation)	Amabara	id=20918
+Kiswahili (Translation)	Nitajie majina ya rangi	id=1932
+Kiswahili (Adaptation)	Taja Rangi	id=16197
+Lugbarati (Translation)	Elumani ... Sawa ‘Disi Wura ‘Diyi	id=12644
+Lusoga (Translation)	Langi	id=24975
+Maa (Translation)	Tólikíoki Tenákatá - Imúain	id=2818
+Ng’aturkana (Translation)	Tolimokinae Ayong… Tokona - Ng’Ajul	id=1951
+Ng’aturkana (Adaptation)	Ng’Ajul	id=16198
+Olukhayo (Translation)	Mbolela Bulano – Echirangi	id=1930
+Portuguese (Translation)	Cores	id=18886
+Sepedi (Translation)	Mpotše...gona bjale! Mebala	id=1936
+Sesotho (Lesotho) (Translation)	Njoetse hona joale … Mebala	id=11549
+Setswana (Translation)	Mpotse mo... Mebala e farologaneng!	id=11164
+Spanish (Translation)	Colores	id=36304

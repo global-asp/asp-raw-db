@@ -1,0 +1,30 @@
+url:	https://africanstorybook.org/reader.php?id=36638&d=0&a=1
+id:	36638
+title:	Where is my ball?
+author:	Nene Ibezim
+artist:	
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36638.png
+desc:	Fatimo has a red ball. She is sad because she cant find it. She is happy when she later finds her red ball.
+
+page_text:
+
+P1	I have a red ball
+P2	Oh no! Where is my red ball?
+P3	I can't find it.
+P4	Oh wait, I see it now.
+P5	Yay! I found my red ball
+
+images:
+
+illustrations/pages/47200101.png
+illustrations/pages/47200102.png
+illustrations/pages/47200103.png
+illustrations/pages/47200104.png
+illustrations/pages/47200105.png
+illustrations/pages/47200106.png
+
+translations:
+

@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=36194&d=0&a=1
+id:	36194
+title:	Colors of the rainbow
+author:	Timia Hawk
+artist:	Magriet Brink
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36194.png
+desc:	Color off the rainbow can help you learn them this book well help you learn them
+
+page_text:
+
+P1	Red
+P2	Orange
+P3	Yellow
+P4	Green
+P5	Blue
+P6	Purple
+
+images:
+
+illustrations/pages/8522.png
+illustrations/pages/78430301.png
+illustrations/pages/78430302.png
+illustrations/pages/78430303.png
+illustrations/pages/78430304.png
+illustrations/pages/78430305.png
+illustrations/pages/78430306.png
+
+translations:
+

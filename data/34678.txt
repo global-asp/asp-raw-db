@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=34678&d=0&a=1
+id:	34678
+title:	Xigubu xa Magezi
+author:	Hlekane Paulina Baloyi and Yolanda Buqwini
+artist:	Simangaliso Sibiya, Hlekane Paulinah Baloyi and Hlekane Paulina Baloyi
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34678.png
+desc:	Magezi
+
+page_text:
+
+P1	Loko Magezi a ba xigubu xo@basa na ku ntima.
+P2	Vana va tshinela eka yena va nwi rhandzela va yimbelela
+P3	Va ku"Kasi Masingitana i nkata mani?I nkata mfanakuloni.
+P4	Vavasati chanchula loko.va twa xigubu xa yena Magezi.
+P5	Vavanuna va wa mukapa va languta@ahenhla na le hansi.
+P6	Vakhegulu va cinisa swisuti va ba nkulungwani wa le dzongeni.
+P7	Mudungwazi a dzima hi nhloko  ehansi,a nduluta na mahlo.
+P8	Vakhalabye va ba makhwela na miloti va dzinginisa na tinhloko.
+
+images:
+
+illustrations/pages/77960300.png
+illustrations/pages/77960301.png
+illustrations/pages/77960302.png
+illustrations/pages/77960303.png
+illustrations/pages/77960304.png
+illustrations/pages/77960305.png
+illustrations/pages/77960306.png
+illustrations/pages/77960307.png
+illustrations/pages/77960308.png
+
+translations:
+
+English (Original)	Magezi's drum	id=33937
+isiZulu (Translation)	Isigubhu sikaMagezi	id=34697

@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=36466&d=0&a=1
+id:	36466
+title:	Mi primer día en el colegio.
+author:	Aprende Leyendo
+artist:	Jesse Breytenbach, Mango Tree, Silva Afonso and Vusi Malindi
+lang:	Spanish
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36466.png
+desc:	Este es un cuento que describe el primer día en el colegio de un niño.
+
+page_text:
+
+P1	Era temprano en la mañana.
+P2	Yo me desperté para prepararme para el colegio.
+P3	Mientras me vestía, pensaba: "¿Cómo me veré en mi uniforme?"
+P4	Mi papá me llevó al colegio.
+P5	Me uní a los otros estudiantes de la clase. Fue mi primer día de colegio y tuve mi primera clase.
+P6	El siguiente profesor que entró al salón fue la profesora María. Ella es muy alta.
+P7	Cuando crezca, quiero ser como mi profesora.
+P8	Me encantó ir al colegio mucho.
+
+images:
+
+illustrations/pages/13846.png
+illustrations/pages/14598.png
+illustrations/pages/14047.png
+illustrations/pages/11452.png
+illustrations/pages/13846.png
+illustrations/pages/13851.png
+illustrations/pages/14050.png
+illustrations/pages/14050.png
+illustrations/pages/14057.png
+
+translations:
+
+Ekegusii (Translation)	Rituko Ritang'ani Kogend' Esukuru.	id=15391
+English (Original)	My first day in school	id=15092

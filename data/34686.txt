@@ -1,0 +1,71 @@
+url:	https://africanstorybook.org/reader.php?id=34686&d=0&a=1
+id:	34686
+title:	Chiko Notre Vache
+author:	Bame Menkamla
+artist:	Rob Owen
+lang:	French
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34686.png
+desc:	Cest lhistoire dune vache qui  est précieuse aux yeux de sa famille.
+
+page_text:
+
+P1	Voici Oumar.
+P2	Oumar aime lire toutes sortes de livres.
+P3	Elle,  c'est Chiko.
+P4	Chiko aime manger des carottes.
+P5	Oumar paît Chiko après l'école.
+P6	Il lui donne de l'eau fraîche.
+P7	Papa donne du grain à Chiko.
+P8	Il la trait tous les jours.
+P9	Chiko produit beaucoup de lait.
+P10	Papa vend le lait de Chiko.
+P11	Oumar boit du bon lait frais tous les jours.
+P12	Il dit: "Merci Chiko!"
+
+images:
+
+illustrations/pages/7945.png
+illustrations/pages/11992.png
+illustrations/pages/7944.png
+illustrations/pages/11993.png
+illustrations/pages/7939.png
+illustrations/pages/11994.png
+illustrations/pages/7938.png
+illustrations/pages/11995.png
+illustrations/pages/11996.png
+illustrations/pages/7941.png
+illustrations/pages/7943.png
+illustrations/pages/11997.png
+illustrations/pages/7945.png
+
+translations:
+
+Akuapem Twi (Translation)	Pendo Yɛ Nantwibere	id=18466
+Anii (Adaptation)	Atɩnnanarɩ ba na yɩɖa wàà, Ɖaaɖo ma	id=36519
+Asante Twi (Translation)	Yɛn Nantwibedeɛ Pendo	id=18224
+ChiTonga (Translation)	Ng'ombe yesu jiinga Pendo	id=18633
+CiNyanja (Translation)	Ng'ombe yatu Pendo	id=18588
+Dagaare (Translation)	Te Naabo Pendo	id=17778
+Dagbani/Dagbanli (Translation)	Pendo Ti Nahu	id=18154
+Ewe (Translation)	Pendo, Míaƒe Nyinɔ	id=18185
+Fante (Translation)	Hɛn Nantwi Pendo	id=18496
+French (Translation)	Pendo Notre Vache	id=13773
+Ga (Translation)	Pendo, Wɔtsina Yoo Lɛ	id=18295
+Gonja (Translation)	An Be Kena Nɛ Baa Tre Pendo Na	id=18177
+IciBemba (Translation)	Ingo’Mbe Yeesu Pendo	id=18576
+isiNdebele (Adaptation)	Ikomo yakwethu uPuna	id=13798
+isiXhosa (Translation)	UPendo inkomo yethu	id=17580
+isiZulu (Translation)	Pendo, Ti Naafu	id=15362
+isiZulu (Adaptation)	UNondlini wakwethu	id=17318
+Kasem (Translation)	Pendo, De Nao Kom	id=18211
+Ng’aturkana (Translation)	Aite Nabe Pendo	id=12949
+Nzema (Translation)	Pendo, Yɛ Ɛnlankɛ Ne	id=18433
+Oluwanga (Translation)	Ing'ombe Yefu Rapenda	id=19792
+Portuguese (Translation)	Pendo, Nossa Vaca	id=18851
+Sepedi (Translation)	Pendo kgomo ya rena	id=18985
+Setswana (Translation)	Pendo kgomo ya rona	id=17967
+SiLozi (Translation)	Pendo Komu Yaluna	id=18559
+Tshivenḓa (Translation)	Kholomo yashu Pendo	id=18320
+Xitsonga (Translation)	Ntswele ya hina i Pendo	id=18860

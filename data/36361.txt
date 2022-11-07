@@ -1,0 +1,56 @@
+url:	https://africanstorybook.org/reader.php?id=36361&d=0&a=1
+id:	36361
+title:	Una casa para un ratón
+author:	Aprende Leyendo
+artist:	Amy Uzzell and Jennifer Jacobs
+lang:	Spanish
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/36361.png
+desc:	Un ratón visita varios lugares hasta que encuentra el lugar perfecto para dormir.
+
+page_text:
+
+P1	Ratón está buscando una nueva casa.
+P2	Esta parece una buena casa.
+P3	"Tú no puedes venir y dormir conmigo" dijo Perro. @"Gracias" respondió Ratón.
+P4	Esa noche, los sueños de Ratón fueron lodosos y movidos.
+P5	"Puedes venir y dormir conmigo" dijo Loro. @"Gracias" respondió Ratón.
+P6	Esa noche, los sueños de Ratón fueron ruidosos y salvajes.
+P7	"Puedes venir y dormir conmigo" dijo Pescado. @@"Gracias" respondió Ratón
+P8	Esa noche, los sueños de Ratón fueron fríos y mojados.
+P9	Ratón necesitaba ir a un lugar cálido y seco.
+P10	Ratón encontró un estante para libros cerca.
+P11	Esa noche, Ratón tuve sueños cálidos y cómodos. @Buenas noches Ratón.
+
+images:
+
+illustrations/pages/8832.png
+illustrations/pages/8834.png
+illustrations/pages/8835.png
+illustrations/pages/8836.png
+illustrations/pages/8837.png
+illustrations/pages/8846.png
+illustrations/pages/8839.png
+illustrations/pages/8840.png
+illustrations/pages/8841.png
+illustrations/pages/8842.png
+illustrations/pages/8843.png
+illustrations/pages/8844.png
+illustrations/pages/8845.png
+
+translations:
+
+Acholi (Translation)	Ka Bwutu It Oyoo	id=20667
+Amharic (Translation)	የአይጢት ቤት	id=12960
+English (Original)	A House for Mouse	id=9118
+French (Translation)	Une  maison pour Souris	id=27668
+Hebrew (Translation)	בית לעכבר	id=35265
+Kanuri (Translation)	Fato Njilwabe	id=32370
+Kinyarwanda (Translation)	Inzu Y'imbeba	id=20854
+Kumam (Translation)	Oot Me Iyono	id=20977
+Lusoga (Translation)	Enhumba Ya Wampube	id=21391
+Otuho (Translation)	Aaji Hikwaŋ	id=33091
+Otuho (Translation)	Obô Aaji Jio Hikuaŋ	id=37231
+Setswana (Translation)	Ntlo ya legotlo	id=34762
+Spanish (Translation)	Una casa para el ratón	id=35721

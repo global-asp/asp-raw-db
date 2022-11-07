@@ -1,0 +1,40 @@
+url:	https://africanstorybook.org/reader.php?id=40171&d=0&a=1
+id:	40171
+title:	Le Bébé Moustique
+author:	BLANGAR Albert
+artist:	Peter Lebuso Boase
+lang:	French
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40171.png
+desc:	Le Bébé Moustique
+  apprend une leçon importante sur les êtres humains. (Ce livre de contes a été
+  créé à lorigine sur lapplication Maker
+
+page_text:
+
+P1	Il y a très, très longtemps, tous les animaux@  pouvaient parler. La mère moustique et le bébé moustique vivaient dans une@  maison.
+P2	Mère Moustique laissait toujours Bébé@  Moustique à la maison quand elle allait chercher de la nourriture.
+P3	Un jour, après que maman ait quitté la maison,@  bébé moustique a voulu sortir.
+P4	Lorsque Mère Moustique est revenue@  plus tard, elle a découvert que son enfant était sorti.
+P5	Mère Moustique était inquiète.@  Bébé Moustique était sorti tout seul. @  Mais juste à ce moment-là, Baby Mosquito est@  rentré chez lui
+P6	Bébé Moustique était très excité. @  "Maman, les humains étaient contents de@  me voir. Ils applaudissaient à chaque fois que je passais devant !"@  Mère Moustique était alarmé.
+P7	Mère Moustique était alarmée.@  « Vous dites que les gens étaient heureux et@  applaudissaient pour vous ? demanda-t-elle à son enfant.
+
+images:
+
+illustrations/pages/93740269.png
+illustrations/pages/93740267.png
+illustrations/pages/93740268.png
+illustrations/pages/93740269.png
+illustrations/pages/93740270.png
+illustrations/pages/93740271.png
+illustrations/pages/93740275.png
+illustrations/pages/93740273.png
+
+translations:
+
+English (Original)	Baby Mosquito	id=34542
+Pidgin English (Nigeria) (Translation)	Mosquito Pikin	id=37837
+Setswana (Translation)	Ngwana Monang	id=34675
+Spanish (Translation)	Bebé Mosquito	id=36419

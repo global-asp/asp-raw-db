@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=35801&d=0&a=1
+id:	35801
+title:	Football at School
+author:	Jose Luiz Correa
+artist:	Silva Afonso and Vusi Malindi
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35801.png
+desc:	There is a soccer match at school today. The girls will play against the boys. Who will win this exciting match?
+
+page_text:
+
+P1	Teacher: Today we have a football match. @Inês: The girls play against the boys.
+P2	Mizeque: The boys will win! @Abel: Girls can't play football.
+P3	Mizeque: The girls will lose! @Teacher: You see... the girls are good football players.
+P4	Now it is time for the match. @Inês: The girls will win!
+P5	We have a very lively start to the match. @The boys have the ball.
+P6	The boys play well. @They don't want to lose the ball.
+P7	They pass the ball to Abel. @He leaps up to head the ball.@Goal! Goal!
+P8	Now the girls have the ball. @They pass the ball fast.
+P9	Inês takes the ball. She kicks it hard. @Goal! Goal!@The match ends, and we have a 1-1 draw.
+P10	This storybook aims to improve the reading and writing skills of 2nd and 3rd-grade students. The storybooks are complementary reading and were developed by the USAID/Learn to Red project, based on the daily lives of elementary school children.
+P11	These booklets were developed by educators and illustrated by Mozambican artists. We hope that the storybooks will not only serve to consolidate reading and writing but also for students to make it part of their routines and love and enjoy reading and writing.
+P12	This publication became possible thanks to the American people's support through the United States Agency for International Development (USAID). The content of this publication is the sole responsibility of World Education, Inc. and does not necessarily reflect the views of USAID or the United States Government.
+
+images:
+
+illustrations/pages/14055.png
+illustrations/pages/14056.png
+illustrations/pages/14057.png
+illustrations/pages/14058.png
+illustrations/pages/14059.png
+illustrations/pages/14060.png
+illustrations/pages/14062.png
+illustrations/pages/14063.png
+illustrations/pages/14908.png
+illustrations/pages/14065.png
+illustrations/pages/14003.png
+illustrations/pages/14005.png
+illustrations/pages/14006.png
+
+translations:
+
+Portuguese (Original)	O Futebol	id=14898

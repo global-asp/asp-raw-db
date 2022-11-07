@@ -1,0 +1,45 @@
+url:	https://africanstorybook.org/reader.php?id=35279&d=0&a=1
+id:	35279
+title:	Nina wasiwasi
+author:	Geraldine  Nanjala
+artist:	Marleen Visser
+lang:	Kiswahili
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35279.png
+desc:	Unajimudu vipi kwa kujisikia una wasiwasi na mpweke wakati wa janga hili la virusi vya korona?
+
+page_text:
+
+P1	Walifunga mashule na kututuma nyumbani.
+P2	Hatuwezi kucheza na watoto wengine.
+P3	Nakosa kuwa na marafiki zangu.
+P4	Nakosa kwenda shule.
+P5	Mama ana wasiwasi kuhusu mjomba.@@Mjomba amelazwa hospitalini.
+P6	Wazazi wetu wana wasiwasi kuhusu kila kitu.
+P7	Kila mtu ana kiwewe kuhusu kupata ugonjwa kutokana na virusi hivi.
+P8	Kila tunachosikia kinahusu virusi vya korona!@@Nina hamu ingeondoka!
+
+images:
+
+illustrations/pages/93740441.png
+illustrations/pages/93740449.png
+illustrations/pages/93740447.png
+illustrations/pages/93740452.png
+illustrations/pages/93740451.png
+illustrations/pages/93740446.png
+illustrations/pages/93740442.png
+illustrations/pages/93740444.png
+illustrations/pages/93740440.png
+
+translations:
+
+Afrikaans (Translation)	Ek voel bekommerd	id=35796
+English (Original)	I Feel Alone	id=35221
+English (Adaptation)	I feel worried	id=35252
+isiXhosa (Translation)	Ndiziva ndindedwa	id=35285
+Otuho (Translation)	Abotihino nî	id=35492
+Spanish (Translation)	Me siento preocupado	id=36331
+Tiv (Translation)	Zam Iyol	id=35558
+TjiKalanga (Translation)	Andizogadzikana	id=35258
+TjiKalanga (Translation)	Ndozwiwha ndili ndoga	id=35260

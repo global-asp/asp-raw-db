@@ -1,0 +1,34 @@
+url:	https://africanstorybook.org/reader.php?id=37120&d=0&a=1
+id:	37120
+title:	Majesi ma kokwanaxisati
+author:	Arnold Mushwana and Given J Hlongwani
+artist:	Sikhumbuzo  Sibanda and Simangaliso  Sibiya
+lang:	Xitsonga
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37120.png
+desc:	Kokwanaxisati va ndzi endlele jesi ro saseka. (Buku leyi ya xitori yi tshuriwile xidzi eka Maker App
+
+page_text:
+
+P1	Ndzi tshama na kokwanaxisati wa mina.@@Hi tshama endzeni ka xiyindlwana xitsongo xa mabyanyi.
+P2	Vanhu va ehleketa leswaku hi swisiwana.@@Mina ndzi vona wonge ntsako i rifumo.@@Hi tsakile.
+P3	Kokwanaxisati wa mina u ndzi endlele jesi.@@Un'wana na un'wana etikweni u vulavula hi rona.
+P4	Vadyondzisi va mina va komberile kokwanaxisati leswaku na vona a va endlela majesi.
+P5	Ku nga ri khale muganga hinkwawo wu lava majesi.
+P6	Kokwanaxisati u endlele un'wana na un'wana jesi.@@Ivi a xavisa majesi.
+P7	Sweswi se hi na mali yo tala.@@Hi tsakile.@@A ka ha ri na munhu loyi a hi vonaka hi ri swisiwana.
+P8	A ndzi nge hluvuli jesi leri kokwanaxisati wa mina a nga ndzi endlela rona.@@Ri endla leswaku ndzi tinyungubyisa hi yena.
+
+images:
+
+illustrations/pages/93740306.png
+illustrations/pages/93740305.png
+illustrations/pages/93740306.png
+illustrations/pages/93740307.png
+illustrations/pages/93740308.png
+
+translations:
+
+English (Original)	Grandmother's jerseys	id=34757
+Tshivenḓa (Translation)	Dzhesi dza makhulu	id=37296

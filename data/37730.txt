@@ -1,0 +1,91 @@
+url:	https://africanstorybook.org/reader.php?id=37730&d=0&a=1
+id:	37730
+title:	Aphunzitsi a Akinyi
+author:	Bether Mwale-Moyo and Moffat Moyo
+artist:	Vusi Malindi
+lang:	CiNyanja
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37730.png
+desc:	Nkani ifupi pali aphunzitsi a bwino kwambili ndizamena apunzisi aphunzitsi.
+
+page_text:
+
+P1	Awa ndi aphunzitsi anga. Ndipo dzina lawo ndi a Akinyi. @@Iwo amatikonda kwambiri.
+P2	Aphunzitsi awa amatiphunzitsa kuwerenga. @@Amatiphunzitsa zilembo za mavawelo. Ndingawerenge zilembo a. e, i, o, u.
+P3	Aphunzitsi Akinyi amatiphunzitsa za utoto monga kufiira, kubiriwira, msipu, cikasu ndi kuda.
+P4	Pa nthawi yogona, Aphunzitsi Akinyi amatiimbira nyimbo yogonera.
+P5	Nyimbo yogonera imaimbidwa tere: @@Lulu wee, Lulu wee, @Mwana akalira ndi njala, @Mwana akalira ndi tulo, @Mwana akalira ndi njala, @Mwana akalira ndi tulo.
+P6	Aphunzitsi Akinyi amadziwa kunena nthano zambiri. @@Tsiku lililonse la mlungu, iwo amatiuza nthano zosiyanasiyana.
+P7	Patsiku Lolemba, amatiuza nthano za amuna amene anacita zinthu zazikulu.
+P8	Patsiku Laciwiri, amatiuza nthano za azimayi amene anacita zinthu zaikulu.
+P9	Patsiku Lacitatu, amatiuza nthano zonena za mayendedwe.
+P10	Patsiku Lacinayi, amatiuza nthano zaulimi.
+P11	Ndipo patsiku Lacisanu, timakamba nthano zathu patokha.
+P12	Aphunzitsi athu ndi abwino koposa m'dziko lonse. @@Ndikakula, ndifuna kuti ndikakhale ngati Aphunzitsi a Akinyi.
+
+images:
+
+illustrations/pages/9382.png
+illustrations/pages/9353.png
+illustrations/pages/9354.png
+illustrations/pages/9364.png
+illustrations/pages/9367.png
+illustrations/pages/9369.png
+illustrations/pages/9372.png
+illustrations/pages/9689.png
+illustrations/pages/9690.png
+illustrations/pages/9691.png
+illustrations/pages/9692.png
+
+translations:
+
+
+ (Translation)
+	
+  	id=25336
+Afrikaans (Translation)	Juffrou Akinyi	id=11567
+Afrikaans (Translation)	Onderwyser Akinyi	id=33493
+Chichewa (Translation)	Aphunzitsi a Akinyi	id=34967
+Chinkhonde (Translation)	M'manyisi Akinyi	id=35002
+ChiTonga (Translation)	Bayi ba Akinyi	id=18642
+ChiTonga (Adaptation)	Bayi ba Akinyi	id=37970
+Chitonga (Malawi) (Translation)	Asambizi Anyakinyi	id=35027
+CiNyanja (Translation)	Apunzisi a Akinyi	id=18611
+Citumbuka (Translation)	Ŵasambizgi ŵa Akinyi	id=35052
+Ciyawo (Malawi) (Translation)	Akinyi ceTicala	id=35077
+Dholuo (Translation)	Japuonj Akinyi	id=9709
+Dhopadhola (Translation)	Jafonji Agwera	id=15786
+Ekegusii (Translation)	Omwalimu Moraa	id=9708
+Ellomwe (Malawi) (Translation)	Akinyi muhuddihi	id=35109
+English (Translation)	Teacher Akinyi	id=9700
+French (Translation)	La Maîtresse Akiny	id=10685
+French (Adaptation)	La Maîtresse Saratou!	id=38767
+Gikuyu (Translation)	Mwarῖmῦ Njeri	id=9706
+IciBemba (Translation)	Kafundisha Mbewe	id=18586
+IciBemba (Adaptation)	Bakafundisha ba Akanyi	id=37732
+isiNdebele (Translation)	UTitjhere Nkosi	id=13043
+isiXhosa (Translation)	UTitshalakazi uNwabisa	id=14116
+isiZulu (Translation)	Uthisha uZanele	id=13537
+Kῖmῖῖrũ  (Translation)	Mwarimũ Makena	id=32849
+Khoekhoegowab (Translation)	ǁGauǃnâ-aos Akinyis xa	id=31680
+Kiswahili (Translation)	Mwalimu Akinyi	id=33172
+Lugwere (Translation)	Musomesya Nankoma	id=16192
+Lunyole (Translation)	Musomesa Nambubi	id=16586
+Lusoga (Translation)	Musomesa Akinyi	id=27260
+Mampruli (Translation)	Tikyɛa Talata	id=20109
+Oshikwanyama (Translation)	Omuhongi Akinyi	id=24128
+Oshindonga (Translation)	Omulongi Akinyi	id=23884
+Otjiherero (Translation)	Jevrou Akinyi	id=24170
+Portuguese (Translation)	Professora Akinyi	id=18885
+Rukwangali (Translation)	Murongi Akinyi	id=31488
+Rutooro (Translation)	Omwegesa Akinyi	id=11902
+Sepedi (Translation)	Morutiši Akinyi	id=18029
+Sesotho (Lesotho) (Translation)	Mosuoetsana Lineo	id=36354
+Sesotho (South Africa) (Translation)	Mosuwetsana Akinyi	id=14501
+Setswana (Translation)	Morutabana Moipone	id=14092
+SiLozi (Translation)	Muluti Akinyi	id=18561
+Siswati (Translation)	Thishela Nkosi	id=21746
+Talen (Translation)	Tikya Akinyi	id=20177
+Tshivenḓa (Translation)	Mudededzi Akinyi	id=14717
+Xitsonga (Translation)	Mudyondzisi Baloyi	id=14516

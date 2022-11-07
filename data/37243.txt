@@ -1,0 +1,31 @@
+url:	https://africanstorybook.org/reader.php?id=37243&d=0&a=1
+id:	37243
+title:	Picture story 10
+author:	Name Of Writer
+artist:	Jacob Kono
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37243.png
+desc:	A story without words
+
+page_text:
+
+
+images:
+
+illustrations/pages/25262.png
+illustrations/pages/25257.png
+illustrations/pages/25258.png
+illustrations/pages/25259.png
+illustrations/pages/25260.png
+illustrations/pages/25261.png
+illustrations/pages/25262.png
+illustrations/pages/25263.png
+illustrations/pages/25264.png
+
+translations:
+
+English (Translation)	Elephant and the spirit	id=20936
+Lusoga (Translation)	Wandhovu ni Musamba	id=27541
+Ng’aturkana (Original)	Apega Etom Ka Ekipe 	id=20935

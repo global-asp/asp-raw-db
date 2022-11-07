@@ -1,0 +1,64 @@
+url:	https://africanstorybook.org/reader.php?id=37438&d=0&a=1
+id:	37438
+title:	Tingi na in'gombe
+author:	Stephen Zulu
+artist:	Ingrid Schechter
+lang:	IciBemba
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37438.png
+desc:	Bambuya bapususha u mweo wakwa Tingi.
+
+page_text:
+
+P1	Tingi aleeikala naba@  mbuya wakwe.
+P2	Aaleafwa bambuya wakwe@  ukusunga in’gombe.
+P3	Bushiku bumo abashilika@  baishile.
+P4	Baasendele In’ gombe no@  kuya nasho
+P5	Tingi na bambuya wakwe baabutwike.
+P6	Baabeleme mu mpanga mpaka bwaila.
+P7	Elyo abashilika baishile nakabili.
+P8	Bambuya baafishile Tingi@  panshi yamabula.
+P9	Umo pa bashilika@  aabikile ulukasa palya pene pali Tingi, koma Tingi aali fye@  tondolo.
+P10	Lintu abashilika baile,@  Tingi na bambuya wakwe bafisamwike.
+P11	Baile ku n,ganda umwatalalila.
+
+images:
+
+illustrations/pages/7578.png
+illustrations/pages/7579.png
+illustrations/pages/7580.png
+illustrations/pages/7581.png
+illustrations/pages/7591.png
+illustrations/pages/7582.png
+illustrations/pages/7583.png
+illustrations/pages/7584.png
+illustrations/pages/7585.png
+illustrations/pages/7586.png
+illustrations/pages/7587.png
+illustrations/pages/7592.png
+
+translations:
+
+Arabic (Translation)	تينغي و البقر	id=21857
+ChiTonga (Translation)	Tingi  a ngo'mbe	id=37440
+CiNyanja (Translation)	Tingi ndi ng'ombe	id=37439
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15771
+Ciyawo (Adaptation)	A-Tiyagu Ni Ng'ombe	id=15807
+English (Original)	Tingi and the cows	id=7441
+English (Adaptation)	Tingi and the cows (Colour-in)	id=17405
+French (Translation)	Tingi Et Les Vaches	id=12867
+isiNdebele (Translation)	UBongani neenkomo	id=13046
+isiXhosa (Translation)	UTingi kunye neenkomo	id=13200
+isiXhosa (Adaptation)	UTingi kunye neenkomo (Faka imibala)	id=17552
+isiZulu (Translation)	Utingi	id=15385
+Kinyarwanda (Translation)	Karisa n'inka	id=20255
+Luganda (Translation)	Tingi n'ente	id=8343
+Luganda (Translation)	Tingi n'ente (Colour-in)	id=23967
+Lusoga (Translation)	Dingidingi n'ente (Colour-in)	id=25187
+Lusoga (Translation)	Tingi ne ente (Colour-in)	id=30378
+Portuguese (Translation)	Tingi E Os Bois	id=7442
+Portuguese (Translation)	Tingi E As Vacas	id=18891
+Rutooro (Translation)	Tingi n'ente	id=14921
+Setswana (Translation)	Tingi le dikgomo	id=32721
+Xitswa (Translation)	Tingi Ni Ti Homu	id=9298

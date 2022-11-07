@@ -1,0 +1,52 @@
+url:	https://africanstorybook.org/reader.php?id=34835&d=0&a=1
+id:	34835
+title:	Unyi Luwo's
+author:	Celine Nongo
+artist:	Jacob  Matthess
+lang:	Igala
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34835.png
+desc:	Luwo ldu fu kwo ko aduwa loti nyi. E mu da ni hanyi
+
+page_text:
+
+P1	Luwo le ti ugbo aduwa kpai iyeun.@  @@  I@  kwonyo owou alu ku ma la ro ajrna.
+P2	Efu unyi aduwa@  le, a mone jor mo wéwé.@  @@  Ma@  ja keli.
+P3	Luwo kwefu church.@  @@  Iye-un liin.
+P4	Luwo kpo da go eju@  ona le.@  @@  E@  chane kpe be, “Ungbo chunyi walé?
+P5	Taki chanei lulé.@  E funyi a lélà lii lé.@  @@  Taki ka kini, “ayi chunyi waan.@  Nyi wa de kékélé.
+P6	Luwo lule to gba@  pee, I cheli kakini, unyi ki do gbaun@  le gbogba.@  @@  E@  kakini, aiyi chunyi waan. Unyi wa gbogbaan.
+P7	I@  defu ule gbogbo. Taki unyi kékélé li le.@  @@  Taki kakini, a yi@  nugo chunyi wan. Unyi wa chi nekete@  ku ma du bubo.
+P8	Luwo le togba. E fu@  unyi kekele ko oli dago ododa.@  @@  E@  kakini, a iyi chunyi wan. Unyi wa na@  mo li me jii ododaun.
+P9	Ugbogbolo le, luwo fi iyeun@  le ki da waa, taki ruule@  nya kerebo@  @@  Iyeun kakini, “alo@  tunyi!”
+P10	Ungbo chunyi Luwo@  le?@  @ @@@ 
+
+images:
+
+illustrations/pages/28035.png
+illustrations/pages/28035.png
+illustrations/pages/28036.png
+illustrations/pages/28037.png
+illustrations/pages/28038.png
+illustrations/pages/28039.png
+illustrations/pages/28040.png
+illustrations/pages/28041.png
+illustrations/pages/28045.png
+illustrations/pages/28043.png
+illustrations/pages/28044.png
+
+translations:
+
+Asante Twi (Translation)	Luwo Fie	id=34864
+Bura (Translation)	KՁ ga  Luwo	id=34890
+Cinyanja (Mozambique) (Translation)	Nyumba ya Luwo	id=33827
+Cinyungwe (Translation)	Nyumba ya Luwo	id=33826
+English (Original)	Luwo's House	id=32346
+French (Translation)	La maison de Luwo	id=33378
+Hausa (Nigeria) (Translation)	Gidan Luwo	id=34820
+Nupe (Translation)	Emi Luwo	id=34860
+Portuguese (Translation)	A Casa de Luwo	id=32379
+Urhobo (Translation)	Uwevwi ri Luwo	id=35204
+Yoruba (Translation)	Ilé Luwo	id=34813
+Yoruba(Ijesha) (Translation)	Ule Luwo	id=34862

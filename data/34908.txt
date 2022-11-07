@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=34908&d=0&a=1
+id:	34908
+title:	Imibala yahlangana kanjani esibhakabhakeni
+author:	Thulile Gumede
+artist:	Offei Tettey Eugene
+lang:	isiZulu
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34908.png
+desc:	Yarinya ta koya ƴaruwan ta dalilin da ya sa bakan-gizo suna sararin sama.
+
+page_text:
+
+P1	Ngelinye ilanga emuva kwemvula enkulu eyanetha,@u-Imani wabuka phezulu esibhakabhakeni. Wabona imibala okokuqala ngqa.
+P2	Kwaze kwakuhle,ecabanga. Kungenzeka ukuba kukhona umuntu owasebenza kanzima, ependa isibhakabhaka ngebhulashi njengobaba ependa izindlu.
+P3	Wagijima eya kudadewabo wathi,Zarah buka! Kukhona umuntu osipendele isibhakabhaka saba sihle."
+P4	Kodwa uZarah wathi,"Akunjalo, Ubuwula lobo. Umncane mina ngimdala. Ngiyasazi isibhakabhaka. Ima ngikubonise."
+P5	UZarah wathatha u-Imani baya esiqiwini. "Uthingo lwenkosazane aluveli ngoba amawundlu ebhonga kokuqala noma ngoba kuzalwa kuzalwa izindlovu." kusho uZarah.
+P6	Wathatha u-Imani wamuyisa ensimini yezimbali wathi, "Imibala ayiveli ngoba amabhungezi ephelelwa imibala emafini."
+P7	Wakhombisa u-Imani incwadi. "Lemibala ayiveli ngoba obhejane begijima enkundleni besabise imibala esibhakabhakeni," kusho uZarah.
+P8	"Ngiyazi kungani uthingo lwenkosazane luvela. Umama wangitshela, manje sengiyakutshela."@UZarah wabamba isandla sika-Imani baye enkundleni yezemidlalo.
+P9	"Uthingo lwenkosazane luyavela esibhakabhakeni ngenxa yabantwana abafana nawe nami. Ngolunye usuku, imibala yabheka phansi futhi yakujabulela eyakubona."
+P10	"Yabona izingane ezinebala elikhanyayo,ezinebala elinsundu nakho konke okwakukhona. Yacabanga, "Kunganjani uma kungahlala kukuhle kanje."
+P11	" Yahlangana ndawonye esibhakabhakeni futhi baxoxa ngalokho osekufanele bakwenze. Bavumelana, "Uma sifuna ukuba bahle kumele sivele kanyekanye sonke njengeqembu."
+P12	"Yahlangana ndawonye futhi yacwebezela ngokugqamile. Yayinethemba lokuthi izoba mihle njengabantwana eyayibabona, abanguwe nami."
+
+images:
+
+illustrations/pages/26440.png
+illustrations/pages/26434.png
+illustrations/pages/26435.png
+illustrations/pages/26436.png
+illustrations/pages/26437.png
+illustrations/pages/26438.png
+illustrations/pages/26439.png
+illustrations/pages/26440.png
+illustrations/pages/26441.png
+illustrations/pages/26442.png
+illustrations/pages/26443.png
+illustrations/pages/26444.png
+illustrations/pages/26445.png
+
+translations:
+
+English (Translation)	How colours came together in the sky	id=22550
+English (Adaptation)	How colours came together in the sky	id=36073
+Hausa (Nigeria) (Original)	Yadda launuka suka hadu a sararin sama	id=22508
+Kinyarwanda (Translation)	Uko amabara yishyizehamwe mu kirere	id=32144
+Kiswahili (Translation)	Jinsi rangi zilivyokuja pamoja angani	id=22557

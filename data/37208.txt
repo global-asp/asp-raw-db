@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=37208&d=0&a=1
+id:	37208
+title:	Stay safe
+author:	Ubongo
+artist:	Ubongo
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/37208.png
+desc:	The book teaches kids to stay safe in life.
+
+page_text:
+
+P1	Hold an adult's or a friend's hand when you cross the road.
+P2	Look both ways before crossing. @@Look right, look left, and look right again before you cross.
+P3	Do not run or play on the road.  @@You can get hit by cars.
+P4	You should not talk to people you do not know. @@Strangers can be dangerous.
+P5	Do not be afraid to say "no" if a stranger asks you to do something.
+P6	Matches, lighters, and candles are tools, not toys.
+P7	Do not play with them. @@You can get burned.
+P8	Do not play with knives, scissors, and other sharp objects. @@You could hurt yourself.
+P9	Always sleep inside a bed net.@@This protects you from mosquitoes and nasty diseases like malaria.
+P10	If you are feeling ill, go to the clinic or hospital.@@You can get the right treatment there.
+P11	If you cannot swim, be careful of going into rivers, lakes, or the ocean.@@Never go into deep water.
+P12	Learn to swim, because playing in the water is so much fun.
+P13	Do not get close to wild animals!
+P14	Some animals, like snakes, can be poisonous.
+P15	Some wild animals can be dangerous.
+P16	Always be smart and stay safe!
+
+images:
+
+illustrations/pages/99600130.png
+illustrations/pages/99600131.png
+illustrations/pages/99600132.png
+illustrations/pages/99600133.png
+illustrations/pages/99600134.png
+illustrations/pages/99600135.png
+illustrations/pages/99600137.png
+illustrations/pages/99600138.png
+illustrations/pages/99600139.png
+illustrations/pages/99600141.png
+illustrations/pages/99600150.png
+illustrations/pages/99600142.png
+illustrations/pages/99600143.png
+illustrations/pages/99600144.png
+illustrations/pages/99600145.png
+illustrations/pages/99600146.png
+illustrations/pages/99600149.png
+illustrations/pages/99600148.png
+
+translations:
+
+Kiswahili (Translation)	Kuwa Salama	id=37595
+Rukwangali (Translation)	Likunga nawa	id=37374

@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=35286&d=0&a=1
+id:	35286
+title:	Singancedwa ngubani?
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	isiXhosa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35286.png
+desc:	A story of a South African family during lockdown.
+
+page_text:
+
+P1	Ingaba kuzobanjani esikolweni namhlanje?@@Andikwazi nokulinda ukubona abahlobo bam!@@Sizokwenza njani ngezifundo ezisiphosileyo?
+P2	Ukuqala kokuvaleleka endlini ndandisoyika.@@Umama wayengakwazi nokuya emsebenzini.@@Kwakungekho nemali eyoneleyo yokuthenga ukutya.
+P3	Umama notata babexabana rhoqo!@@Kwaye nathi sobabini sasisilwa rhoqo.
+P4	Umnumzana Khumalo wayegula kakhulu. Ndandisoyika ukuba utata uza kugula naye.@@Sabathandazela, uThixo wabanceda. Waze uThixo wasibonelela ngokutya!
+P5	Yesu Nkosi,@Nceda usapho lwethu.@@Yiba nezihlobo zethu uzincede nazo.@@Enkosi ngokusithanda nokuva imithandazo yethu.@Amen.
+P6	"UThixo ulihlathi, uligwiba kuthi; Ezimbandezelweni ufumaneke eluncedo kunene."@@IiNdumiso 46:1@@(Bible in isiXhosa 1859/1975 © BSSA 1975)
+
+images:
+
+illustrations/pages/93740443.png
+illustrations/pages/93740449.png
+illustrations/pages/93740443.png
+illustrations/pages/93740442.png
+illustrations/pages/93740446.png
+illustrations/pages/93740450.png
+illustrations/pages/93740445.png
+
+translations:
+
+English (Original)	Who can help us?	id=35218
+Portuguese (Translation)	Quem nos pode ajudar?	id=36441
+Spanish (Translation)	¿Quién nos puede ayudar?	id=36407

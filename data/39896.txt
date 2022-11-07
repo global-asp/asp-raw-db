@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=39896&d=0&a=1
+id:	39896
+title:	Le chat et le chien : Le chien a froid
+author:	Monique  Auriach
+artist:	Elke and René Leisink
+lang:	French
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/39896.png
+desc:	Il fait nuit. Il fait froid. Il fait trop froid pour le chien. Heureusement que le chat est là !
+
+page_text:
+
+P1	Voici le chat. @Voici le chien.
+P2	Il fait nuit. @Il fait sombre. @Il fait froid. @Il fait très froid.
+P3	Il fait trop froid pour le chien.
+P4	Le chat donne des débardeurs au chien. @Un débardeur est sale. @Un débardeur est propre.
+P5	Le chien prend le débardeur propre. Mais il a encore froid.
+P6	Le chat donne des T-shirts au chien. @Un T-shirt est grand. @Un T-shirt est petit.
+P7	Le chien prend le grand T-shirt. Mais il a encore froid.
+P8	Le chat donne des pantalons au chien. @Un pantalon est long. @Un pantalon est court.
+P9	Le chien prend le pantalon long. @Mais il a encore froid.
+P10	Le chat donne des gilets au chien. @Un gilet est mouillé, un gilet est sec.@Le chien prend le gilet sec, mais il a encore froid.
+P11	Le chat donne des vestes  au chien. @Une veste est épaisse, une veste est mince. @Le chien prend la veste épaisse, mais il a encore froid.
+P12	Le chat donne des chapeaux au chien. @Un chapeau est haut de forme, un chapeau est plat. @Le chien prend le chapeau haut de forme, mais il a encore froid.
+P13	Le chat donne des chaussures au chien. @Une paire de chaussures est neuve, une paire de chaussures est vieille.
+P14	Le chien prend les chaussures neuves, et alors… Le chien n'a plus  froid.
+P15	La nuit est finie. @La lune part. @Le soleil arrive.
+P16	Il fait jour. @Il fait clair. @Il fait chaud. @Il fait très chaud. @Il fait trop chaud pour le chien !
+P17	Au revoir, le chat. @Au revoir, le chien chaud.
+
+images:
+
+illustrations/pages/25614.png
+illustrations/pages/25597.png
+illustrations/pages/25598.png
+illustrations/pages/25599.png
+illustrations/pages/25600.png
+illustrations/pages/25601.png
+illustrations/pages/25602.png
+illustrations/pages/25603.png
+illustrations/pages/25604.png
+illustrations/pages/25605.png
+illustrations/pages/25606.png
+illustrations/pages/25607.png
+illustrations/pages/25608.png
+illustrations/pages/25609.png
+illustrations/pages/25610.png
+illustrations/pages/25611.png
+illustrations/pages/25612.png
+illustrations/pages/25613.png
+illustrations/pages/18782.png
+
+translations:
+
+Anii (Adaptation)	Ganyaʊ n'asna - Ʊnyǝŋkrǝ ʊ kpa asna	id=39781
+English (Original)	Cat and Dog: Dog is cold	id=21990
+Kabuverdianu (Translation)	Gatu i Katxor: Katxor Tene Friu	id=32094
+Lusoga (Translation)	Kkappa ni  Wambwa: Wambwa einhogoige	id=26179
+Tiv (Translation)	Kpatema vea Iwa: Wuhe kôr Iwa	id=34870

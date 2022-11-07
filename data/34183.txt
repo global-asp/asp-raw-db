@@ -1,0 +1,53 @@
+url:	https://africanstorybook.org/reader.php?id=34183&d=0&a=1
+id:	34183
+title:	Niswali
+author:	Little Zebra Books
+artist:	Marleen Visser
+lang:	Imeetto
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/34183.png
+desc:	Uma oração de Jesus em Mateus
+
+page_text:
+
+P1	Athumwanihu nri wirimu,
+P2	ncina ninyu nittakattifihiye.
+P3	Umwene enyu uwe.
+P4	Utthuna winyu upankyee, vathi vaa toko wirimu.
+P5	Nnivahe ilelo yolya ehu.
+P6	Nnilevelele coottheka cihu
+P7	toko cinaalevelelehu annitthekela.
+P8	Nhinihiye mwa coothepya,
+P9	nanso nnoopole mwa coonanara.
+P10	Kontha wa winyu uri umwene, ikuru ni nttittimiho mahuku othene. Ameni.
+P11	Mateus 6:9-13
+
+images:
+
+illustrations/pages/27330.png
+illustrations/pages/16251.png
+illustrations/pages/16250.png
+illustrations/pages/16254.png
+illustrations/pages/16255.png
+illustrations/pages/16252.png
+illustrations/pages/16260.png
+illustrations/pages/16259.png
+illustrations/pages/16258.png
+illustrations/pages/16256.png
+illustrations/pages/16253.png
+illustrations/pages/16274.png
+
+translations:
+
+Anii (Adaptation)	Ʊnyiŋu nɖee Yeesu a cere abakǝŋja ma	id=34343
+Cinyungwe (Translation)	Baba Wathu	id=33235
+Cisena (Translation)	Baba Wathu	id=31887
+Elomwe (Translation)	Nivekelo na Apwiya	id=33236
+Emakhuwa (Translation)	Yesu Onxuttiha Ovekela	id=33237
+English (Original)	The Lord's Prayer	id=16246
+Ikisimbëtë (Translation)	Amasabhi agha Omonene	id=24809
+Lingala (Translation)	Tata na Biso	id=22493
+Lusoga (Translation)	Esaala  ya  Katonda	id=27752
+Olunyaneka (Translation)	Tate Yetu	id=31888
+Portuguese (Translation)	Pai Nosso	id=33234

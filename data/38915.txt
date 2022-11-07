@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=38915&d=0&a=1
+id:	38915
+title:	Xigubu xa Magezi
+author:	Lorato Trok
+artist:	Nceba Bhengu
+lang:	Setswana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/38915.png
+desc:	Magezi a ri na xigubu lexi a xi nyanyula vanhu va muti. Loko a xi ba hinkwavo a va cina.Ntsheketo lowu wu nyikeriwile eka phurojeke ya switirhisiwa swo hlaya swa Zenex Ulwazi Lwethu hi 2020.
+
+page_text:
+
+P1	——Magezi u sungula ku ba xigubu xa yena xo basa na ntima.
+P2	Va ku, “Kasi Masingitana i nkata mani? I nkata mfanakuloni.”
+P3	Vavasati va chanchula loko va twa xigubu xa Magezi.
+P4	Vavanuna va wa mukapa va languta ahenhla na le hansi.
+P5	Mudungwazi u ndzuluta mahlo a chongorisa swa mafenya ya yena.
+P6	Vakhalabye va ba makhwela va hlakahla tinhloko va twa xigubu.
+P7	Vakhegulu va khinyakhinya swisuti va ba nkulungwani wa dzonga.
+
+images:
+
+illustrations/pages/2187000999.png
+illustrations/pages/2187000399.png
+illustrations/pages/2187000499.png
+illustrations/pages/2187000599.png
+illustrations/pages/2187000699.png
+illustrations/pages/2187000799.png
+illustrations/pages/2187000899.png
+
+translations:
+
+English (Translation)	Xigubu xa Magezi	id=38909
+isiNdebele (Translation)	Xigubu xa Magezi	id=38910
+isiXhosa (Translation)	Xigubu xa Magezi	id=38911
+isiZulu (Translation)	Xigubu xa Magezi	id=38912
+Sepedi (Translation)	Xigubu xa Magezi	id=38913
+Sesotho (Translation)	Xigubu xa Magezi	id=38914
+Siswati (Translation)	Xigubu xa Magezi	id=38916
+Tshivenda (Translation)	Xigubu xa Magezi	id=38917

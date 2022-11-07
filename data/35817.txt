@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=35817&d=0&a=1
+id:	35817
+title:	Pattern Book
+author:	Haggai Phiri
+artist:	
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35817.png
+desc:	Children to learn about patterns found naturally in the world.
+
+page_text:
+
+P1	Iyi ndi bola
+P2	Mbale
+P3	Nyumba
+P4	Chalichi
+P5	Galimoto
+P6	Sukulu
+P7	Khasu
+P8	Poto
+P9	Buku
+
+images:
+
+illustrations/pages/21701201.png
+illustrations/pages/21701202.png
+illustrations/pages/21701203.png
+illustrations/pages/21701204.png
+illustrations/pages/21701205.png
+illustrations/pages/21701206.png
+illustrations/pages/21701207.png
+illustrations/pages/21701208.png
+illustrations/pages/21701209.png
+illustrations/pages/21701210.png
+
+translations:
+

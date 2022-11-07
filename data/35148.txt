@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=35148&d=0&a=1
+id:	35148
+title:	Dede reudzvinyiriri
+author:	Emmanuel Sithole
+artist:	Isaac Okwir
+lang:	ChiNdau
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35148.png
+desc:	Zvakasejera kusayayeya zveshe zvironzwa ngemutungamiri wekundhla.
+
+page_text:
+
+P1	Kwaiyepo nezimombo redede zigurutu. Raiya nekundhla huru yairiteera mukuwo weshe.@@Zidede iri raiya neudzvinyiriri husingabhuyiki.
+P2	Asi kundhla iyi yaingawo nematede amweni ane mituru yakakurawo. @@Izvi zvaiita kuti matede amweni ahlupheke kuziya wekuyayeya.
+P3	Zuwa rimweni makudo airiteera akati, "Mambo mungaita ekudini kuti tiite gwinyiso rekuti ndimwi muri kutituma?"
+P4	Zidede riya rikati, "Mwakona zvibochwa zvangu, ndichagqoka mucheka mumusoro mwangu. Mweshe munofanirwa kuyayeya zvendinobhuya mwazwa," @Makudo eshe akabonga
+P5	Dede rimweni rakasunga mucheka mumusoro mwerekuhlupha riya. @@Rakati, "Kuqaya nyamashi, chiro cheshe chendinonge ndaronza munochiita mwazwa. Andidi unophungeya."
+P6	Raiti rikathomuka amweni aithomukawo, rikagara pashi amweni ogarawo. @@Raiti rikachwereredza amweni aichwereredzawo.
+P7	Ngekuhamba kwakaita mukuwo mucheka uyana wakaqaya kushinya mbichana mbichana.
+P8	Rarwadziwa zidede riya rakagara pashi rochoobata musoro ngenyara rikati, "Mucheka uwu ubaari kundirwadza."
+P9	Makudo amweni eshe akagara pashi ochoobatawo misoro ngenyara. Akatiwo, "Mucheka uwu ubaari kundirwadza."
+P10	Zidede riya rakaganya, "Haiwa!, ndiri kubhuyisa pheya!" Amweni oochotiwo, "Haiwa!, ndiri kubhuyisa pheya"@Rakaibongomora mphere, "Maiwee, ito iyi iri kundiuraya!" Amweni akatiwo, "Maiwee, ito iyi iri kundiuraya."
+P11	Zidede riya rakazvichinywa rikazvigira pashi. Amweni akariteedzera akazvirigirawo pashi. @@Rakaqaya kubinyauka binyauka rikawira mumawere. Amweni akabinyaukawo akawirawo mumawere
+P12	Zidede riya rakazofa ngezvironda zvekuwa. @Makudo amweni eshe akakuwara asi akapona
+
+images:
+
+illustrations/pages/18900.png
+illustrations/pages/18894.png
+illustrations/pages/18895.png
+illustrations/pages/18896.png
+illustrations/pages/18897.png
+illustrations/pages/18898.png
+illustrations/pages/18899.png
+illustrations/pages/18900.png
+illustrations/pages/18901.png
+illustrations/pages/18902.png
+illustrations/pages/18903.png
+illustrations/pages/18904.png
+illustrations/pages/18905.png
+
+translations:
+
+Afaan Oromo (Translation)	Qondaala Jaldeessaa	id=18907
+English (Original)	Baboon tyrant	id=18906
+English (Adaptation)	Baboon's orders	id=19751
+Fulfulde Mbororoore (Translation)	Dorooru Mawndu Toonyotoondu	id=35805
+isiNdebele (Translation)	Ikosi Yeemfene	id=33019
+isiZulu (Translation)	Inkosi yezimfene	id=21913
+Kiswahili (Translation)	Nyani aliyekuwa chifu	id=21994
+Lulamoogi (Translation)	Omukulu W'eirike	id=25339
+Lusoga (Translation)	Omukulu gha amalike	id=25125
+Ng’aturkana (Translation)	Ekatukon Ang'ichomin	id=20344
+Oluwanga (Translation)	Lishene eliali omwami	id=22820
+Tiv (Translation)	Tor u Mbaikya	id=34658
+Tunisian (Translation)	Æwæmer l-qerd	id=36690

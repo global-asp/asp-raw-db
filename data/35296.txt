@@ -1,0 +1,38 @@
+url:	https://africanstorybook.org/reader.php?id=35296&d=0&a=1
+id:	35296
+title:	BUKU LA PATANI
+author:	Daniel PJ Mwale and Impact Network
+artist:	
+lang:	CiNyanja
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/35296.png
+desc:	This is a book with things which people like doing.
+
+page_text:
+
+P1	Ndimakonda kuthamanga.
+P2	Ndimakonda kuphika
+P3	Ndimakonda kulemba
+P4	Ndimakonda kupsyera
+P5	Ndimakonda kuchaya mpira
+P6	Ndimakonda kulima
+P7	Ndimakonda kulumpha
+P8	Ndimakonda kusamba kumanja
+P9	Ndimakonda  kuchapa zobvala.
+
+images:
+
+illustrations/pages/93230201.png
+illustrations/pages/93230202.png
+illustrations/pages/93230203.png
+illustrations/pages/93230204.png
+illustrations/pages/93230205.png
+illustrations/pages/93230206.png
+illustrations/pages/93230207.png
+illustrations/pages/93230208.png
+illustrations/pages/93230209.png
+illustrations/pages/93230210.png
+
+translations:
+
