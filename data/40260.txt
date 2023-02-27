@@ -1,0 +1,47 @@
+url:	https://africanstorybook.org/reader.php?id=40260&d=0&a=1
+id:	40260
+title:	Akai anigyee
+author:	Ofosu  Frimpong
+artist:	Rob Owen
+lang:	Asante Twi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40260.png
+desc:	Abaayewa bi nya mpaboa hyεε εberε a na edikan.
+
+page_text:
+
+P1	Na Akai nni mpaboa. Maayewa tesε ne nsεso deε na ɔwɔbi.
+P2	Akai ka kyerεε ne maame sε, "Ɛyε den paa sε wo bεdi agorɔ na wonhyε mpaboa."
+P3	Ne maame kaa sε, "Akai me gyidi sε emerε no aso sε wonya mpaboa."
+P4	Adeε εkye anɔpa no, Akai maame nyane no ntεm.
+P5	Akai ne ne maame kɔɔ edwom.
+P6	Wɔn kɔ bea a ɔtɔn mpaboa. @@Akai maame tɔɔ mpaboa maa no.
+P7	Anadwo no, Akai dwennwene ne mpaboa foforɔ no ho.
+P8	Akai de ne mpaboa foforɔ no hyεe.
+P9	Akai dwenee sεdeε ɔbε danedane ne ho wɔ ne mpaboa foforɔ no mu.
+P10	Akai dwenee sεdeε ɔbε danedane ne ho wɔ ne mpaboa foforɔ no mu.
+P11	Ne maame kaa sε, "Akai, wo nni ho kwan sε wohyε mpaboa deda."
+P12	Akai ani gyee sε wanya mpaboa ahyε deε edikan.
+
+images:
+
+illustrations/pages/9500.png
+illustrations/pages/9441.png
+illustrations/pages/9492.png
+illustrations/pages/9493.png
+illustrations/pages/9496.png
+illustrations/pages/9495.png
+illustrations/pages/9497.png
+illustrations/pages/9499.png
+illustrations/pages/10444.png
+illustrations/pages/9498.png
+illustrations/pages/9502.png
+illustrations/pages/9501.png
+illustrations/pages/9500.png
+
+translations:
+
+English (Original)	Happy Akai	id=18497
+Fulfulde Mbororoore (Translation)	Salaamatu e seyi	id=40495
+Portuguese (Translation)	Akai está tão feliz	id=39984

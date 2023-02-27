@@ -1,0 +1,85 @@
+url:	https://africanstorybook.org/reader.php?id=40439&d=0&a=1
+id:	40439
+title:	Doggu mboju, doggu!
+author:	Yunuusa  Yaakubu
+artist:	Wiehan de Jager
+lang:	Fulfulde Mbororoore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40439.png
+desc:	Dukuure yanii diga dow lekki
+
+page_text:
+
+P1	Dukuure yanii diga dow lekki, mboju e ɗaanino ley lekki kin.
+P2	Mboju sey nani bolle, "Doggu mboju, doggu!"
+P3	Mboju wi'ika gerogal, "Goɗɗum yanii nden mi nani, 'Doggu mboju, doggu!'"
+P4	Nde gerogal nani ko mboju wi'i, ngal fuɗɗi doggugo.
+P5	Ɗi mbi'ika ɓoosaaru, "Mboju nani goɗɗum yani, sey ɗum doggi."
+P6	Ɓoosaaru maa fuɗɗi doggugo bee mboju e gerogal.
+P7	Ɓoosaaru wi'ika puccu, "Mboju nani goɗɗum yani, sey ɗum doggi."
+P8	Puccu sey fuɗɗi doggugo bee maaji.
+P9	Wamnde ƴami, "Ɗume doggoton?" Puccu jaabi, "Mi annda."
+P10	Wamnde maa sey fuɗɗi doggugo bee maaji.
+P11	Wamnde wi'ika nagge, "Mboju nani goɗɗum yani, sey ɗum doggi."
+P12	Nagge hultori, sey nge fuɗɗi doggugo.
+P13	Nagge wi'ika muusuuru, "Mboju nani goɗɗum yani, sey ɗum doggi."
+P14	Muusuuru sey fuɗɗi doggugo bee dabbaaji luttuɗi ɗin.
+P15	Sey dabbaaji ɗin potti bee ɓiɗɗo gorko.@@Mo ƴami, "On anndaa ko waɗi na?"
+P16	"Ɗum min wi'uno, 'Doggu mboju, doggu!'" Sey mo waɗi ka jalugo.
+
+images:
+
+illustrations/pages/7610.png
+illustrations/pages/7595.png
+illustrations/pages/7596.png
+illustrations/pages/7597.png
+illustrations/pages/7598.png
+illustrations/pages/7599.png
+illustrations/pages/7600.png
+illustrations/pages/7601.png
+illustrations/pages/7602.png
+illustrations/pages/7603.png
+illustrations/pages/7604.png
+illustrations/pages/7605.png
+illustrations/pages/7606.png
+illustrations/pages/7607.png
+illustrations/pages/7608.png
+illustrations/pages/7609.png
+illustrations/pages/7610.png
+
+translations:
+
+Afrikaans (Translation)	Hasie onder die boom	id=20094
+Anii (Adaptation)	Garomo ga ɖa gʊyo kaamana	id=39856
+ChiShona (Translation)	Tsuro Pazasi Pemuti	id=35455
+ChiTonga (Translation)	Sulwe Mujungusi Acisamu	id=18656
+CiNyanja (Translation)	Kalulu munsi mwa mutengo	id=18669
+Dhopadhola (Translation)	Afoyo I Tiendi Yath	id=15780
+English (Translation)	Rabbit under the tree	id=7734
+English (Adaptation)	Run Rabbit run!	id=20888
+English (Adaptation)	Picture story 5	id=37269
+French (Translation)	Le Lapin Sous Un Arbre	id=10154
+Gurene (Translation)	Sɔʻɔŋa N Boi Tia Tilum	id=12671
+IciBemba (Translation)	Kalulu Mwisamba Lya Cimuti	id=18679
+isiNdebele (Translation)	Umqasa ngaphasi komuthi	id=21951
+isiXhosa (Translation)	Umvundla phantsi komthi	id=17581
+isiZulu (Original)	Unogwaja ngaphansi kwesihlahla	id=7664
+isiZulu (Adaptation)	Unogwaja Ngaphansi Kwesihlahla (Level 4)	id=13699
+Kiswahili (Translation)	Sungura chini ya mti	id=8438
+Kiswahili (Translation)	Kimbia Sungura, Kimbia!	id=21140
+Likpakpaanl (Translation)	Sandee Busub Taab	id=18781
+Luganda (Translation)	Duka Akamwu duka!	id=24495
+Lugwere (Translation)	Napowo Ansi W’Omusaale	id=16195
+Lunyole (Translation)	Enduyu Ŋaasi W’Omuyembe	id=16585
+Lusoga (Translation)	Lumuka kaduuyu lumuka	id=25568
+Ng’aturkana (Translation)	Apoo na epung'ar!	id=21135
+Portuguese (Translation)	O Coelho Debaixo Da Árvore	id=18856
+Sepedi (Translation)	Mmutla ka tlase ga mohlare	id=18135
+Sesotho (South Africa) (Translation)	Mmutlanyana tlasa sefate	id=20049
+Setswana (Translation)	Mmutla mo tlase ga setlhare	id=15041
+SiLozi (Translation)	Shakame Mwatasi Akota	id=18743
+Siswati (Translation)	Nogwaja ngaphasi kwesihlahla	id=13776
+Siswati (Translation)	Logwaja ngaphasi kwesihlahla	id=21748
+Tshivenḓa (Translation)	Muvhuḓa fhasi ha muri	id=18322
+Xitsonga (Translation)	Kondlo ehansi ka murhi	id=19020

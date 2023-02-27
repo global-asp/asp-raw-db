@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=40305&d=0&a=1
+id:	40305
+title:	Ɓinngel Ɓowngel
+author:	Mohammed Also and Sa'id  Ahijo
+artist:	Peter Lebuso Boase
+lang:	Fulfulde
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40305.png
+desc:	Ɓinngel Ɓowngel heɓii janngirde mawde juuɗe ɓiɓɓe-Aadamaen. (Ngeel deftel winndaama gila Apilikeeson ɗum African Storybook Maker
+
+page_text:
+
+P1	Nder jamaanu neeɓuɗum, kala dabba fuu waawi wolwugo.@@Daada Ɓowngel e Ɓiyiingel e wondi nder daare.
+P2	Nde Daada Ɓowngel dillata ɗaɓɓugo nyaamndu fuu, o accay Ɓinngel maako to saare.
+P3	Nyalnde wonnde, nde o acci ɓinngel maako to saare, ɓinngel ngel yiɗi wurtoo yaasi.
+P4	Ɓaawo nde Daada wartoyi saare, o tawi ɓinngel maako dillii yaasi.
+P5	Daada Ɓowngel e wannii dow maaka. @@Kadi Ɓowngel wurtake feere mum.
+P6	Ɓinngel Ɓowngel e seyii masin.@@"Inna, yimɓe e seyi nde ɓe ngi'i-yam. Nde mi saalotoo haade maɓɓe fuu maa ɓe kellii."
+P7	Daada Ɓowngel ɓeydi wannaago.@@"A wi'i yimɓe e seyii kella juuɗe maɓɓe ngam maa?" o ƴami ɓiɗɗo maako.
+P8	"Ɓe seyaaki sam yi'ugo ma. E ɓe kaɓana halkugo-ma!" Daada faamtini-ngel.@@"Ɓiɓɓe-Aadama'en ngiɗaa yi'ugo ɓowɗi," o waggini.
+
+images:
+
+illustrations/pages/93740269.png
+illustrations/pages/93740267.png
+illustrations/pages/93740268.png
+illustrations/pages/93740269.png
+illustrations/pages/93740270.png
+illustrations/pages/93740271.png
+illustrations/pages/93740275.png
+illustrations/pages/93740273.png
+illustrations/pages/93740274.png
+
+translations:
+
+ChiChewa (Translation)	Mwana wa Udzudzu	id=40327
+English (Original)	Baby Mosquito	id=34542
+French (Translation)	Le Bébé Moustique	id=40171
+Fulfulde Adamawa (Translation)	Cufel	id=40413
+Hausa (Nigeria) (Translation)	Jaririn Sauro	id=40304
+Pidgin English (Nigeria) (Translation)	Mosquito Pikin	id=37837
+Setswana (Translation)	Ngwana Monang	id=34675
+Spanish (Translation)	Bebé Mosquito	id=36419

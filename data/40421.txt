@@ -1,0 +1,48 @@
+url:	https://africanstorybook.org/reader.php?id=40421&d=0&a=1
+id:	40421
+title:	Mabatani
+author:	Peter Msaka
+artist:	African Storybook, Natalie Propa and Wiehan de Jager
+lang:	ChiChewa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40421.png
+desc:	Zonse zokhudza mabatani. Mithundu yosiyanasiyana ndi mapangidwe osiyanasiyana. (Nkhani iyi inapangidwa koyamba kuti ikhale ya bungwe la African Storybook)
+
+page_text:
+
+P1	Mabatani anga onse ndi ozungulira.
+P2	Ena mwa mabatani anga ndi obiriwira.
+P3	Mabatani anga onse ndi ang'onoang'ono.
+P4	Ena mwa mabatani anga ndi achikasu.
+P5	Mabatani anga onse ndi abwino.
+P6	Ena mwa mabatani anga ndi ofiira.
+P7	Mabatani anga onse ndi onyezimira.
+P8	Ena mwa mabatani anga ndi abulu.
+P9	Mabatani anga onse ndi abwino.
+P10	Ndimawakonda mabatani anga onse.
+
+images:
+
+illustrations/pages/27210.png
+illustrations/pages/1200.png
+illustrations/pages/27206.png
+illustrations/pages/874.png
+illustrations/pages/27209.png
+illustrations/pages/27201.png
+illustrations/pages/27208.png
+illustrations/pages/10065.png
+illustrations/pages/27207.png
+illustrations/pages/27210.png
+illustrations/pages/27205.png
+
+translations:
+
+English (Original)	Buttons	id=18810
+English (Adaptation)	Buttons	id=24701
+English (Adaptation)	Buttons	id=24702
+Kinyarwanda (Translation)	Ibipesu	id=32112
+Kiswahili (Translation)	Vifungo	id=31407
+Kiswahili (Translation)	Vifungo  -   Buttons	id=34083
+Lusoga (Translation)	Amapensa	id=27614
+Spanish (Translation)	Botones	id=36303

@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=40443&d=0&a=1
+id:	40443
+title:	Haasumi bee na'i
+author:	Yunuusa  Yaakubu
+artist:	Wiehan de Jager
+lang:	Fulfulde Mbororoore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40443.png
+desc:	No nai Haasumi
+
+page_text:
+
+P1	Ɗo'o ɗum Haasumi. Haasumi e nodda ɓoosaaru maako.
+P2	Haasumi bee ɓoosaaru maako no nduroyay na'i. Naange nyaaɗi.
+P3	Haasumi bee ɓoosaaru maako nanii ɗonka bee weelo.
+P4	Sey ɓe ndilli ɗaɓɓutugo ndiyam.
+P5	Haasumi yejjitii to na'i maako ndillirno.
+P6	Haasumi sey fuɗɗi woyugo.
+P7	Sey mo wi'i ndikka mo hoota bee ɓoosaaru maako.
+P8	Sey na'i ngarti feere maaji! Haasumi bee ɓoosaaru maako nani belɗum.
+
+images:
+
+illustrations/pages/10432.png
+illustrations/pages/10431.png
+illustrations/pages/10432.png
+illustrations/pages/10433.png
+illustrations/pages/10434.png
+illustrations/pages/10435.png
+illustrations/pages/10436.png
+illustrations/pages/10437.png
+illustrations/pages/10438.png
+
+translations:
+
+Anii (Adaptation)	Gapisǝmpi gaɖǝn n'ɩná	id=36563
+English (Translation)	Lekishon and the cows	id=12603
+French (Translation)	Lekishon Et Les Vaches	id=13127
+isiXhosa (Translation)	ULekishon neenkomo zakhe	id=13120
+Lusoga (Translation)	Wanume ne ente	id=25346
+Maa (Original)	Lekishon O Nkishu	id=10441
+Portuguese (Translation)	Lekishon E As Vacas	id=16658

@@ -1,0 +1,49 @@
+url:	https://africanstorybook.org/reader.php?id=40453&d=0&a=1
+id:	40453
+title:	Dondu bee ciilal
+author:	Yunuusa  Yaakubu and Yusufa  Hammadu
+artist:	Isaac Okwir
+lang:	Fulfulde Mbororoore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40453.png
+desc:	Ɗume ɓurii ƴoyre
+
+page_text:
+
+P1	Naane dabbaaji ladde e njooɗodii jam.@@Ciilal bee dondu ɗum soobiraajum.
+P2	Sey weelo waɗi.@@Dabbaaji ngalaa ko nyaamata.
+P3	Dondu bee ciilal sey ndilli ɗaɓɓutugo nyamdu.@@Ɗi tawi kusel, sey ciilal fuɗɗi nyaamugo feere muuɗum.
+P4	Nde dondu yi'i ciilal e nyaama kusel feere muuɗum, sey ndu nanngingal.@@Dondu ƴami, "Mi warumaa na, koo mi acca?"
+P5	Ciilal tori, "Useni, taa' waram! Taa' tallam e waana!"
+P6	Dondu jaabi, "Mi tallataama e waana."
+P7	Ammaa dondu foondi tallugo ciilal e waana.
+P8	Dondu sey talli ciilal e waana.@@E ndu dari e gaɓɓuɗe waana kan ngam yi'ugo ɓanndu ciilal.
+P9	Ammaa ciilal we''iti biyeeli muuɗum, fuɗɗi fiirugo.
+P10	Ciilal hoɗi dow lekki.@@Dondu bee ciilal ngi'ootiri.
+P11	Ciilal wi'i, "Mi hisi ngam mi ɓuriima ƴoyre."
+P12	Dondu jaabi, "A hisi ngam mi accuma."
+
+images:
+
+illustrations/pages/25729.png
+illustrations/pages/25729.png
+illustrations/pages/25730.png
+illustrations/pages/25731.png
+illustrations/pages/25732.png
+illustrations/pages/25733.png
+illustrations/pages/25734.png
+illustrations/pages/25735.png
+illustrations/pages/25736.png
+illustrations/pages/25737.png
+illustrations/pages/25738.png
+illustrations/pages/25739.png
+illustrations/pages/25740.png
+
+translations:
+
+English (Translation)	Raven and Fox	id=22184
+Kiswahili (Translation)	Kunguru na Mbweha	id=22536
+Lusoga (Translation)	Eikoova n'ekibe	id=26755
+Ng’aturkana (Translation)	Kuruk ka Kwee	id=33431
+Tigrigna (Original)	ለባም ኳኽ	id=22017

@@ -1,0 +1,57 @@
+url:	https://africanstorybook.org/reader.php?id=40246&d=0&a=1
+id:	40246
+title:	አዱን ቆንጆዋ
+author:	Mezemir Girma
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40246.png
+desc:	አዱን ለማግባት የመረጠችው ሰው ባህሪው እንደጠበቀችው እንዳልሆነ ተገነዘበች። ከቤቱ እንዴት ታመልጥ ይሆን?
+
+page_text:
+
+P1	አዱን በጣም ቆንጆ ነበረች። በመንደሯ ያሉ ወንዶች ሁሉ ሊያገቧት ይፈልጉ ነበር።@@አዱን ግን ሁሉንም እምቢ አለች።
+P2	በአንድ የገበያ ቀን አንድ ሰው እግር ከአንድ ሰው፣ ክንድ ከሌላና አካሉን ደግሞ ከሦስተኛው ሰው ተዋሰ።@@ከዚያም ይህ ሰው ሁሉንም ክፍሎች አንድ ላይ አቀናጃቸው፡፡ አንገቱን ከላይ አድርጎ ወደ ገበያ ሄደ።
+P3	ይህ ሰው አዱንን ስለፈለጋት ሊያገባት ቆርጦ ነበር። አዱንም በመልኩ ተማረከች። ከእሱ ጋር መሆንንም ፈለገች፡፡@@ሰውዬው የመጣው ከሩቅ ከተማ ነበር፤ አዱንም ከእርሱ ጋር ለመመለስ ወሰነች፡፡
+P4	አዱንና ሰውዬው ወደ ቤት ሲሄዱ የእግሮቹ ባለቤት እግሮቹን ወሰደበት። ከዚያም የክርኖቹ ባለቤት ክርኖቹን መልሶ ወሰደበት፡፡@@እና በመጨረሻም የአካሉ ባለቤት ያንን አካል መልሶ ወሰደበት፡፡
+P5	ጭንቅላቱ ብቻ ቀረ፡፡ እናም ጭንቅላቱ ጉዞውን ቀጠለ፡፡ አዱን ፈራች፤ ቢሆንም ግን አልሸሸችም።@@ከጭንቅላቱ ቤትም ደረሱ።
+P6	በማግስቱ ጠዋት፣ ጭንቅላቱ ወደ እርሻው ከመሄዱ በፊት ለኤሊ አንድ ነገር ነገረው። ‹‹አዱን ለማምለጥ ከሞከረች፣ ይህን ጡሩምባ በመንፋት አሳውቀኝ›› አለ ጭንቅላት።
+P7	ጭንቅላቱ ከሄደ በኋላ አዱን እቃዎቿን አዘጋጀች። ከዚያም መሸሽ ጀመረች።
+P8	አዱን መነሳቷን ሲያይ፣ ኤሊ ጡሩምባውን ነፋው፡፡ ‹‹ጭንቅላት፣ ጭንቅላት፣ አዱን ልትሸሽ ነው›› በማለት ተጣራ።
+P9	ጭንቅላቱ ወደ አዱን ሄደና ‹‹ወዴት ልትሄጂ ነው?›› አላት፡፡ @@አዱን ወደ ጭንቅላት ቤት ተመለሰች።
+P10	በመጨረሻ አዱን ምን ማድረግ እንዳለባት አንድ አዋቂ አማከረች።@@አዋቂውም ‹‹ሂጂና የባቄላ ቂጣ ግዢ፣ በዘንባባ ዘይት ነክረሽ በዔሊ ጡሩምባ ውስጥ አስቀምጪው›› ብለው መከሯት።
+P11	አዱን የአዋቂውን መመሪያ ተከተለች። በቅባት የወዙትን ኬኮች በጡሩምባው ውስጥ ከተተቻቸው።
+P12	አዱን በማግስቱ እቃዋን ይዛ እንደገና መሸሽ ጀመረች።@@ኤሊ ጡሩንባውን ሊነፋ ሲያነሣ ጣፋጮቹ የባቄላ ኬኮች ወደ አፉ ገቡ።
+P13	ዔሊ እስኪበቃው በላ፡፡ @አዱንም አመለጠች፡፡
+
+images:
+
+illustrations/pages/13337.png
+illustrations/pages/13337.png
+illustrations/pages/13338.png
+illustrations/pages/13339.png
+illustrations/pages/13340.png
+illustrations/pages/13341.png
+illustrations/pages/13342.png
+illustrations/pages/13343.png
+illustrations/pages/13344.png
+illustrations/pages/13345.png
+illustrations/pages/13346.png
+illustrations/pages/13347.png
+illustrations/pages/13349.png
+illustrations/pages/13348.png
+
+translations:
+
+English (Translation)	Adun, the Beautiful	id=13539
+French (Translation)	Adun, La Belle	id=15294
+German (Translation)	Die Schöne Adun	id=20152
+Kinyarwanda (Translation)	Gahanga na Nyiramwiza	id=23175
+Kinyarwanda (Adaptation)	Gahanga na Nyiramwiza	id=33583
+Kiswahili (Translation)	Adun, mrembo	id=18218
+Lámnsoʼ (Translation)	Adun woo kimbòŋ ke wiíy	id=22283
+Lusoga (Translation)	Ada omulungi	id=24940
+Portuguese (Translation)	Adun, a Bela	id=16651
+Tiv (Translation)	Adun, kwase u doonashe	id=34640
+Yoruba (Original)	Adùn, Ọmọ Arẹwà Kan	id=13538

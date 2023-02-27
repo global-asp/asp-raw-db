@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=40303&d=0&a=1
+id:	40303
+title:	Atiimeejo
+author:	Hauwa Haruna Also and Mohammed Also
+artist:	Saajida  Patel
+lang:	Fulfulde
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40303.png
+desc:	Afeefa no ɓinngel karkanndeyel daneyel
+
+page_text:
+
+P1	Afeefa no ɓinngel karkannda daneyel.@@Aynooɓe ladde kisni-ngel.
+P2	Fiɗfiɗɓe mbari inna maagel.@@Aynooɓe ladde koosi-ngel njahri-ngel to nokkuure reento.
+P3	Afeefa e wontiri e suno masin.@@Nden boo, e ngel hultori ngam taa fiɗiɗɓe ɓen co'oo ittana-ngel luwe.
+P4	E seese, Afeefa heɓi soobiraaɓe.@@Ngel heɓi ferwere nden ngel tokkitini fijirde nder loope.@@Ngel heɓi ferwere nden ngel tokkitini fijirde nder loope.
+P5	Nyalnde wonnde Afeefa ƴami soobiraawo maagel Aaminah, "Ko waɗi ɓe ngiɗi luwe meeɗen?"@@Aaminah dimmbi hoore, "Ɓe nuɗɗinii dow luwe men ngoodi kaayeefi!"
+P6	"Ammaa luwe men ngalaa kaayeefi!" Afeefa jaabi.@@"Eeh, fakat non. Luwe no go'o ba gaasa e peɗeeli," Aaminah faamtini.
+P7	Afeefa e Aaminah kamɓe tan lutti nder ngenndi maɓɓe.@@Karkandaaji daneeji kuusii timmugo.@@Di kuusii timmugo nder duuniyaaru men.
+P8	En mbaawi kisnen karkanndaaji e dabbaaji goɗɗi ɓadiiɗi timmugo nder duuniyaaru.@@Ko mbaawataa waɗugo?@@Ɓeydu ɗaɓɓutugo!
+
+images:
+
+illustrations/pages/93740139.png
+illustrations/pages/93740139.png
+illustrations/pages/93740140.png
+illustrations/pages/93740141.png
+illustrations/pages/93740142.png
+illustrations/pages/93740143.png
+illustrations/pages/93740144.png
+illustrations/pages/93740145.png
+illustrations/pages/93740146.png
+
+translations:
+
+English (Original)	An orphan	id=34206
+Hausa (Nigeria) (Translation)	Wata Marainiya	id=40302
+isiZulu (Translation)	Intandane	id=34508
+Spanish (Translation)	La Huérfana	id=35719
+Tiv (Translation)	Wancôvor	id=39248
+Tshivenḓa (Translation)	Tsiwana	id=34257
+Xitsonga (Translation)	Xisiwana	id=34331

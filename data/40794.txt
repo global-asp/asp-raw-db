@@ -1,0 +1,82 @@
+url:	https://africanstorybook.org/reader.php?id=40794&d=0&a=1
+id:	40794
+title:	Theeletša mmele wa ka
+author:	Confidence Mokhanda
+artist:	Angie and  Upesh
+lang:	Sepedi
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40794.png
+desc:	Na o kile wa theeletša seo mmele wa gago o go botšago sona?
+
+page_text:
+
+P1	Lehono ga ke ye sekolong.@@Ke letšatši la maikhutšo!
+P2	Lehono ga ke ye go bogela TV.@@Ga go na mohlagase le ge go le bjalo.
+P3	Ke ya go dira eng?@@Lehono ke ya go theeletša mmele wa ka!
+P4	Sa pele, ke swanetše go homola kudu.@@Gore ke kgone go theeletša mmele wa ka ka noši.
+P5	Ee, bjale ke kgona go kwa mohemo wa ka.@@Ke hema ka gare le ka ntle, ka gare le ka ntle.
+P6	Gomme nka dira gore mohemo wa ka o be le lešata. Ssssssssssss!@@Le boleta. Mmmmmmm.
+P7	Ga bjale ke kgona go kwa pelo ya-ka e betha!@@Doodom, doodoom, dooo dooom.
+P8	Na nka dira gore pelo ya-ka e sepele ka lebelo goba ka go hlaboša?@@Ee, ka go tlolela godimo le fase ka makga a masomepedi.
+P9	Ge e ba ke bea menwana ya-ka letsogong la-ka, gona ke kgona go kwa go otla ga-ka ga pelo!
+P10	Ke kgona go kwa ke sega.@@Haha, haha, haaah, haaa!
+P11	Ke kgona go kwa ke opa diatla.@@Opa diatla, opa diatla, opa diatla.
+P12	Ke kwa mpa ya ka e duma!@@Kruuu, Kruuu, kruu
+P13	Mpa yaka e re, "Nfepe!"
+P14	Nko ya ka e nkga dikuku tšeo di bakago ka khitšhing ya mma.@@Gomme bjale ke nyaka go kwa mehlagare ya ka e hlafuna dikuku tšeo!
+
+images:
+
+illustrations/pages/2008.png
+illustrations/pages/2009.png
+illustrations/pages/2010.png
+illustrations/pages/2011.png
+illustrations/pages/2012.png
+illustrations/pages/2013.png
+illustrations/pages/2014.png
+illustrations/pages/2016.png
+illustrations/pages/2017.png
+illustrations/pages/2018.png
+illustrations/pages/2019.png
+illustrations/pages/2020.png
+illustrations/pages/2021.png
+illustrations/pages/2022.png
+illustrations/pages/2023.png
+illustrations/pages/2024.png
+illustrations/pages/2025.png
+
+translations:
+
+Afrikaans (Translation)	Ek luister na my lyfie	id=36614
+Chichewa (Translation)	Kumvetsera thupi langa	id=34962
+Chinkhonde (Translation)	Pilikisha ifyo umbili wangu guyoba	id=34997
+Chitonga (Malawi) (Translation)	Kuvwisiliya liŵavu langu	id=35022
+Citumbuka (Translation)	Kupulikizga thupi lane	id=35048
+Ciyawo (Malawi) (Translation)	Mpikane yacikuti cilu cangu	id=35071
+Ellomwe (Malawi) (Translation)	Wiwellella mwillaka	id=35104
+English (Original)	Listen to my body	id=13202
+English (Adaptation)	Listen to my Body	id=13558
+isiXhosa (Translation)	Mamela umzimba wam	id=14960
+isiZulu (Translation)	Lalela umzimba wami	id=2910
+Khoekhoegowab (Translation)	Ti sorosa ǃgâs xa	id=24662
+Kinyarwanda (Translation)	Umva umubiri wange	id=23762
+Kiswahili (Translation)	Nausikiliza mwili wangu	id=15713
+Luganda (Translation)	Wuliliza Omubiri Gwange	id=2930
+Luganda (Translation)	Wuliliza omubiri gwange	id=23237
+Lugbarati (Translation)	Mi Eri E’Yo Ma Ruadria	id=2931
+Lugbarati (Official) (Translation)	Mɨ́ Erɨ E'yó Mâ Ruá Mà Tiá	id=8798
+Lusoga (Translation)	wulirisa omubiri gwange	id=30352
+Maa (Translation)	Ainining Osesen Lai	id=2927
+Ng’aturkana (Translation)	Kiira Akwaan Kang	id=2929
+Oshikwanyama (Translation)	Handi pwilikine olutu lange eshi tali ti	id=24134
+Oshindonga (Translation)	Pulakena kolutu lwandje	id=23899
+Otjiherero (Translation)	Puratene ko rutu randje	id=24174
+Rukwangali (Translation)	Purakena korutu rwange	id=31492
+Sepedi (Translation)	Theeletša mmele wa ka	id=33462
+Sesotho (Lesotho) (Translation)	Mamela 'mele oa ka	id=36350
+Sesotho (South Africa) (Translation)	Mamela mmele wa ka	id=33373
+Siswati (Translation)	Kulalela umtimba wami	id=33401
+Spanish (Translation)	Escuchando mi cuerpo	id=34754
+Tshivenḓa (Translation)	Muvhili wanga u amba	id=34298
+Xitsonga (Translation)	Yingisela miri wa mina	id=34166

@@ -3,7 +3,7 @@ id:	18300
 title:	I Suɔ  Ma Kane Ni
 author:	Divine Apedo (OLE Ghana) Divine Apedo (OLE Ghana)
 artist:	Wiehan de Jager Wiehan de Jager
-lang:	DangmeDangme
+lang:	Dangme
 level:	First words
 lic:	Creative Commons: Attribution 3.0
 thumb:	http://africanstorybook.org/illustrations/covers/18300.png
@@ -11,24 +11,14 @@ desc:	Nyazia nɛ ɔ kɔɔ nyumu yo wayo ko nɛ suɔ nyazia kanemi he. E suɔ waa
 
 page_text:
 
-P1	Your translated text
-P2	I suɔ ma kane ni.
-P3	Your translated text
+P1	I suɔ ma kane ni.
+P2	Mɛ nɔ ma kane tsɔɔ?
+P3	Ye nyɛmi yo ɔ hwɔ mayo.
 P4	Mɛ nɔ ma kane tsɔɔ?
-P5	Your translated text
-P6	Ye nyɛmi yo ɔ hwɔ mayo.
-P7	Mɛ nɔ ma kane tsɔɔ?
-P8	Your translated text
-P9	Ye nyɛ kɛ ye maa hɛ dɔ.
-P10	Your translated text
-P11	Mɛ nɔ ma kane tsɔɔ?
-P12	Your translated text
-P13	Ye tsɛ kɛ ye nɛ hɛ dɔ.
-P14	Your translated text
-P15	Mɛ nɔ ma kane tsɔɔ? I ma nyɛ kane tsɔɔ ye he!
-P16	Your translated text
-P17	Your translated text
-P18	Your translated text
+P5	Ye nyɛ kɛ ye maa hɛ dɔ.
+P6	Mɛ nɔ ma kane tsɔɔ?
+P7	Ye tsɛ kɛ ye nɛ hɛ dɔ.
+P8	Mɛ nɔ ma kane tsɔɔ? I ma nyɛ kane tsɔɔ ye he!
 
 images:
 

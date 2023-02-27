@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=40410&d=0&a=1
+id:	40410
+title:	Nyerere ndi Nkhunda ya ulesi
+author:	Peter Msaka
+artist:	Joe  Werna
+lang:	ChiChewa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40410.png
+desc:	Amene amagwira ntchito molimbika atha kukhala mafumu. Amene amatha kuimba atha kunyengerera mafumu.
+
+page_text:
+
+P1	Nyerere anali mlimi wabwino.@@Amakhala m'nthaka ndi banja lake.
+P2	Amagwira ntchito molimbika pa munda wawo.@@Banja la nyerere limakhala bwino.
+P3	Nkhunda anali neba wa Nyerere.@@Banja la Nkhunda limakhala mumtengo.
+P4	Nkhunda ndi banja lake samalima.@@Amapumula tsiku lonse.
+P5	Nkhunda ndi banja lake amayimba bwino kwambiri.
+P6	"Tigawireni chakudya?" Nkhunda inapempha.@@"Ayi! Mukalime zanu!"
+P7	Nkhunda inawulukira pansi ndikuyamba kuyimba, "Nyerere ndi mfumu!"
+P8	"Nyerere ndi mfumu! Nyerere ndi mfumu!"@@Nyerere inasangalala ndi nyimboyi.
+P9	Atamaliza kudya, Nkhunda ndi banja lake anawulukiranso mumtengo wawo uja.
+P10	Tsiku linalo, Nkhunda inaseka Nyerere.@@"Mafumu amakhala ndi mutu waukulu?"
+P11	"Ndiwe osayamika komanso waulesi!" inadandaula motero Nyerere.
+P12	"Pepa!" inatero Nkhunda, ndipo inayamba kuyimba, "Nyerere ndi mfumu!"
+
+images:
+
+illustrations/pages/28294.png
+illustrations/pages/28296.png
+illustrations/pages/28297.png
+illustrations/pages/28298.png
+illustrations/pages/28301.png
+illustrations/pages/28302.png
+illustrations/pages/28303.png
+illustrations/pages/28304.png
+illustrations/pages/28309.png
+illustrations/pages/28305.png
+illustrations/pages/28307.png
+illustrations/pages/28308.png
+illustrations/pages/28306.png
+
+translations:
+
+Amharic (Translation)	ባለ ትልቅ ራሱ ጉንዳንና ሰነፏ እርግብ	id=39460
+English (Original)	Big-head Ant and Lazy Pigeon	id=30540
+English (Adaptation)	Big-head Ant and lazy Pigeon	id=32520
+French (Translation)	Fourmi Grosse-tête et Pigeon Paresseux	id=33334
+isiZulu (Translation)	Intuthwane enekhanda elikhulu nejuba	id=32909
+Kiswahili (Translation)	Siafu na Njiwa mvivu	id=33291
+Tiv (Translation)	Kon-Iyôn man Atii	id=32498

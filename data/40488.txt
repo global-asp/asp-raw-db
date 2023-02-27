@@ -1,0 +1,35 @@
+url:	https://africanstorybook.org/reader.php?id=40488&d=0&a=1
+id:	40488
+title:	The clever donkey
+author:	African Storybook
+artist:	Fikre Asfaw
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40488.png
+desc:	A story about a clever donkey. This storybook was developed as part of a Lenovo-funded project piloting African Storybook app tools at libraries. The story was created at a workshop at Ras Abebe Aregay Library
+
+page_text:
+
+P1	One day, a farmer went to the market.@@He forgot to give fodder to his donkey before he left home.
+P2	After a while, the hungry donkey opened the stable door.@@He went out and ate.@@Then, he decided to go for a walk.
+P3	As the donkey was walking, he stood on a thorn.@@The thorn pierced his hoof, but he kept going.
+P4	Along came a hyena.@@"Hello, who are you?" asked the donkey.@@"Hello, I am hungry. I will eat you," replied the hyena.
+P5	"I stood on a thorn, it could get stuck in your throat," said the donkey. @@"I will remove the thorn, then eat you," proposed the hyena.
+P6	The hyena removed the thorn from the donkey's hoof. @@The donkey swiftly kicked the hyena in the head.@@The hyena ran away, yelping.
+P7	The donkey returned home.@@The farmer came back from the market. @@He was surprised to find his donkey grazing outside.
+
+images:
+
+illustrations/pages/80690801.png
+illustrations/pages/80690802.png
+illustrations/pages/80690804.png
+illustrations/pages/80690805.png
+illustrations/pages/80690806.png
+illustrations/pages/80690808.png
+illustrations/pages/80690809.png
+illustrations/pages/80690810.png
+
+translations:
+
+English (Original)	The poor man and the wise donkey	id=39638

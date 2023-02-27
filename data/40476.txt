@@ -1,0 +1,37 @@
+url:	https://africanstorybook.org/reader.php?id=40476&d=0&a=1
+id:	40476
+title:	We love nature
+author:	Amos  Roi
+artist:	Assian Antia Monday and Masari Henry
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40476.png
+desc:	The story is about the beauty and value of nature. Storybook written
+
+page_text:
+
+P1	When the cock crows, we know it is time to wake up.@@The cock wakes up Ngutor and his father. @@They start farming early in the morning.
+P2	Mimi and her friends swim in the stream every morning. @@They love swimming in running water.
+P3	Terfa and his siblings play by the riverside after school. @@They love playing in open spaces.
+P4	Dooga and his brother love hearing the singing birds. @@They watch the birds building nests in the trees in their compound.
+P5	My mother sits in the shade of a tree. @@She loves the breeze that makes the trees sing and dance.
+P6	My little sister loves watching the twinkling stars. @@They surround the moon and listen to the moon telling them stories.
+P7	When the moon is full, our grandfather tells us scary stories.@@We love to play games in the full moon's bright light.
+P8	We love all these things about nature. @@What do you love about nature?
+
+images:
+
+illustrations/pages/93150301.png
+illustrations/pages/93150304.png
+illustrations/pages/93150302.png
+illustrations/pages/93150303.png
+illustrations/pages/93150305.png
+illustrations/pages/93150306.png
+illustrations/pages/93150307.png
+illustrations/pages/93150308.png
+illustrations/pages/93150309.png
+
+translations:
+
+English (Original)	Our lovely natural world	id=39488

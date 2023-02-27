@@ -1,0 +1,60 @@
+url:	https://africanstorybook.org/reader.php?id=40440&d=0&a=1
+id:	40440
+title:	Marle
+author:	Yunuusa  Yaakubu
+artist:	Marleen Visser
+lang:	Fulfulde Mbororoore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40440.png
+desc:	Ndaa fotooji marle goɗɗe bee inɗe maaje.
+
+page_text:
+
+P1	Ɓoosaaru
+P2	Agaaga
+P3	Nagge
+P4	Wamnde
+P5	Doomburu
+P6	Muusuuru
+P7	Mbaala
+P8	Mbe'a
+P9	Gaduuru
+P10	Gerogal
+
+images:
+
+illustrations/pages/26642.png
+illustrations/pages/26643.png
+illustrations/pages/26644.png
+illustrations/pages/26645.png
+illustrations/pages/26642.png
+illustrations/pages/26647.png
+illustrations/pages/26648.png
+illustrations/pages/26649.png
+illustrations/pages/26687.png
+illustrations/pages/26652.png
+illustrations/pages/26651.png
+illustrations/pages/26647.png
+
+translations:
+
+Afrikaans (Translation)	Plaasdiere	id=32275
+Afrikaans (Translation)	Op die plaas	id=37394
+Anii (Adaptation)	Alʊkɔ	id=34103
+CiNyanja (Translation)	Bulu	id=22723
+Cinyungwe (Translation)	Bulu	id=22725
+Cisena (Translation)	Buru	id=22726
+Echiziinza (Translation)	Ensíkili	id=30271
+Echuwabo (Translation)	Buru	id=22727
+Elomwe (Translation)	Puuru	id=22728
+Emakhuwa (Translation)	Puuru	id=22729
+English (Original)	Farm animals	id=22679
+French (Adaptation)	Les animaux domestiques	id=34101
+Ikisimbëtë (Translation)	Itikërë	id=30266
+Kiswahili (Translation)	Wanyama	id=29688
+Lusoga (Translation)	Mbbalasi	id=25786
+Lusoga (Translation)	Mbalaasi	id=30576
+Olunyaneka (Translation)	Ocimbulu	id=22730
+Portuguese (Translation)	Animais Domésticos	id=22724
+Spanish (Translation)	Animales de granja	id=36373

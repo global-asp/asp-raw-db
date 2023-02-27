@@ -1,0 +1,73 @@
+url:	https://africanstorybook.org/reader.php?id=40253&d=0&a=1
+id:	40253
+title:	የተለየ ልጅ
+author:	Mezemir Girma
+artist:	Meghan Judge
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40253.png
+desc:	ይህ ትረካ ማህበረሰብን እና ቤትን ስለማጣት እና መልሶ ስለማግኘት የሚተርክና ሃሳብ የሚያጭር ነው።
+
+page_text:
+
+P1	አንዲት እርጉዝ ሴትዮ ሆዷን ይዛ አየሁ፡፡
+P2	የሰፈሬ ሰዎች ሴትዮዋ ከእኛ ጋር እንድትቆይ ፈቀዱላት።
+P3	በዚያች ሌሊት እርጉዟ ሴትዮ ‹‹ሕፃኑ! ህፃኑ እየመጣ ነው›› በማለት ጮኸች፡፡
+P4	ሴትዮዋ ዉርንጭላ ወለደች።
+P5	ሰዎቹ ‹‹ምን እናድርግ›› ሲሉ አሰቡ።
+P6	ሰዎቹ ሸሹ። ሴትየዋ በበኩሏ ‹‹ይህ ሕፃን የተለየ ነው፡፡ እንዴት ልንከባከበው?›› በማለት አሰበች፡፡
+P7	በመጨረሻ ልጇን ለመውደድ ወሰነች። ሕፃኑ የተለየ ነበር፤ ነገር ግን ምንም ቢሆን እናቱ ነች፡፡
+P8	ዉርንጭላው አደገ፤ እናቱም እሱን ለመሸከም ተቸገረች።
+P9	እናትዮዋ አዘነች። ዉርንጭላው ተናደደ። ዉርንጭላው እናቱን በእርግጫ መታት።
+P10	ዉርንጭላው ተርቦ፣ ደክሞና ብቸኛ ሆኖ ነበር። እንቅልፍም ወሰደው፡፡
+P11	ዉርንጭላው ከእንቅልፉ ሲነቃ አንድ ሰው ከጎኑ ቆሞ አየ።
+P12	እንግዳው ሰውዬ ዉርንጭላውን ተሸክሞ ወደ ቤቱ ወሰደው።
+P13	ዉርንጭላው ሲያድግ ሰውየውን በጀርባው ይሸከመው ጀመር።
+P14	አንድ ቀን ወደ ኮረብታው ጫፍ ሄደው አረፍ አሉ።
+P15	ዉርንጭላው ከእንቅልፉ ሲነቃ እንደ በፊቱ ብቻውን ነበር፡፡
+P16	ዉርንጭላው ተጨነቀ። እናቱን ፍለጋ ሄደ።
+P17	‹‹ያቺ እናቴ ትሆን?›› ሲል ዉርንጭላው አሰበ።
+P18	ዉርንጭላውና እናቱ እንደገና አብረው መኖር ጀመሩ። እናቱን ተሸክሞ በመንደራቸው ውስጥ ይዘዋወራል።
+
+images:
+
+illustrations/pages/14979.png
+illustrations/pages/14972.png
+illustrations/pages/14973.png
+illustrations/pages/14974.png
+illustrations/pages/14976.png
+illustrations/pages/14977.png
+illustrations/pages/14978.png
+illustrations/pages/14979.png
+illustrations/pages/14980.png
+illustrations/pages/14981.png
+illustrations/pages/14982.png
+illustrations/pages/14983.png
+illustrations/pages/14984.png
+illustrations/pages/14985.png
+illustrations/pages/14986.png
+illustrations/pages/14987.png
+illustrations/pages/14988.png
+illustrations/pages/14989.png
+illustrations/pages/14990.png
+illustrations/pages/14991.png
+illustrations/pages/14992.png
+
+translations:
+
+Afrikaans (Translation)	Donkie-Kind	id=21805
+Arabic (Translation)	صغير الحمار	id=21856
+Asante Twi (Translation)	Abofra Sononko	id=40214
+ChiShona (Translation)	Mwana Anoshamisa	id=19991
+Dhopadhola (Translation)	Nyathi Ma Nyakare	id=19993
+English (Original)	Donkey child	id=15028
+English (Adaptation)	Different baby	id=15033
+English (Adaptation)	Donkey child (Colour-in)	id=32525
+isiXhosa (Translation)	UMbhongolo, usana olusisimanga	id=20818
+isiZulu (Translation)	Umntwana ongajwayelekile	id=20006
+Kinyarwanda (Translation)	Umwana w'Indogobe	id=32570
+Kiswahili (Translation)	Mtoto Punda	id=15865
+Lusoga (Translation)	Omwana oghendhaghulo	id=25745
+Lusoga (Translation)	Akalogoyi Akaazaalibwa Omuntu	id=31320
+Ng’aturkana (Translation)	Ikoku Sikiria	id=15574

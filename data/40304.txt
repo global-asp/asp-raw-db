@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=40304&d=0&a=1
+id:	40304
+title:	Jaririn Sauro
+author:	Mohammed Also
+artist:	Peter Lebuso Boase
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40304.png
+desc:	Ɗan jaririn Sauro ya koyi wani muhimmin darasi game dayanadam. An ƙirƙiri littafin labarin a kan wata manhaja ta 
+
+page_text:
+
+P1	A wani lokaci mai tsawo, dukkanin dabbobi sukan yi magana.@@Sauro da mahaifiyarsa sun rayu a wani gida.
+P2	Kodayaushe mahaifiyar sauron takan bar shi a gida in za ta je nemo abinci.
+P3	Wata rana, bayan mahaifiyar ta fita, shi kuwa ɗan ƙaramin sauron yana son fita waje.
+P4	Bayan mahaifiyar ta dawo, sai tarar cewa ɗanta ya fita waje.
+P5	Ta yi matuƙar damuwa, saboda shi kaɗai ya fita.@@Kwatsam sai ga ƙaramin sauron ya dawo gida.
+P6	Cikin matuƙar farin ciki, sai ya ce baba, mutane suna murna in sun gan ni. @@Har suna ma min tafi idan na tashi cikin sauri na wuce ta wajensu.
+P7	Mamar sai ta ji tsoro ta ce.@@"Ka ce mutane suna murna kuma suna yi maka tafi ko?"
+P8	Mahaifiyar sai ta yi masa bayani ta ce, "Ba wai murnan ganin ka suke ba." Kawai so suke su muttsuke ka. @@Ta gargaɗe shi ta ce, "Mutane ba sa taɓa murna da ganin sauro."
+
+images:
+
+illustrations/pages/93740269.png
+illustrations/pages/93740267.png
+illustrations/pages/93740268.png
+illustrations/pages/93740269.png
+illustrations/pages/93740270.png
+illustrations/pages/93740271.png
+illustrations/pages/93740275.png
+illustrations/pages/93740273.png
+illustrations/pages/93740274.png
+
+translations:
+
+ChiChewa (Translation)	Mwana wa Udzudzu	id=40327
+English (Original)	Baby Mosquito	id=34542
+French (Translation)	Le Bébé Moustique	id=40171
+Fulfulde (Translation)	Ɓinngel Ɓowngel	id=40305
+Fulfulde Adamawa (Translation)	Cufel	id=40413
+Pidgin English (Nigeria) (Translation)	Mosquito Pikin	id=37837
+Setswana (Translation)	Ngwana Monang	id=34675
+Spanish (Translation)	Bebé Mosquito	id=36419

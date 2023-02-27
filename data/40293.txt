@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=40293&d=0&a=1
+id:	40293
+title:	Ah! Кwallon ƙafa
+author:	Mohammed Also
+artist:	Onesmus Kakungi
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40293.png
+desc:	Kakar wani ɗan ƙaramin yaro ta aike shi wani kanti domin ya sayo mata wasu abubuwa. Sai ya tafi tare da wani babban abokinsa
+
+page_text:
+
+P1	Ina son yin wasa da abokina Chuma.
+P2	Mu abokanan kirki ne.@@Duk sanda aka aiki ɗaya daga cikinmu, tare muke zuwa.
+P3	Wata rana, sai kakata ta aike ni shago don na siyo gishiri da man girki.@@Sai muka tafi tare da Chuma.
+P4	Muna cikin tafiya, sai muka ga abokanmu suna buga ƙwallon ƙafa.
+P5	"Kai! Кwallon ƙafa!" Na faɗa.@@Ni ma ina son na yi wasan.
+P6	Sai na ce da Chuma, "Mu tambaye su ko za mu iya yin wasan tare. Don ni ina son ƙwallon ƙafa sosai."
+P7	Sai Chuma ya ce, "Mu fara zuwa shagon, sannan sai mu dawo mu yi wasan."
+P8	Amma sai na ce, "Mu fara yin wasan! Don kaka ba za ta bar mu mu dawo ba."
+P9	Sai muka shiga abokanmu don yin wasan. Ni ne mai tsaron raga.@@Turakun ragar an yi su da manyan duwatsu guda biyu.
+P10	Na yi ƙoƙari matuƙa wajen kama ƙwallon.@@Don haka abokaina ba su samu damar zura ƙwallo ko ɗaya ba.
+P11	Muka yi ta wasa har sai da filin ya cika da yashi.
+P12	Sannan sai muka tafi shagon, amma kuɗin kaka sun ɓata! Sai na fara kuka.@@Sai Chuma ya daka min tsawa, "Ka daina kuka, ai kai ne ka ce a fara yin wasan da farko."
+P13	Sai muka koma gida babu gishiri babu man girki.@@Ga shi mun yi datti sosai, hankalinmu ya tashi.
+P14	Kaka ta fusata san da muka koma gida.@@Abin da ta fara tambaya shi ne, "Ina kuka shiga duk tsawon wannan lokacin?"
+P15	A dole muka faɗa mata gaskiya.@@Sai ta gargaɗe mu cewa, "Kar ku ƙara zuwa wasa ba tare da izini ba."
+P16	Sai muka tafi domin bai wa agwagi abinci.@@Daga baya kuma muka wanke jikinmu.
+
+images:
+
+illustrations/pages/12881.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/12873.png
+illustrations/pages/12874.png
+illustrations/pages/12876.png
+illustrations/pages/12877.png
+illustrations/pages/12878.png
+illustrations/pages/12879.png
+illustrations/pages/12880.png
+illustrations/pages/12881.png
+illustrations/pages/12882.png
+illustrations/pages/12883.png
+illustrations/pages/12884.png
+illustrations/pages/12885.png
+illustrations/pages/12886.png
+illustrations/pages/12887.png
+
+translations:
+
+Amharic (Translation)	እ! እግርኳስ	id=40264
+ChiNambya (Translation)	Ah! Unzano webhola!	id=39995
+English (Translation)	Ah! Football!	id=12926
+Fulfulde Adamawa (Translation)	Ah! Bol-koyɗe	id=40294
+Fulfulde Mbororoore (Translation)	Fijirde Bol!	id=32095
+Hausa (Nigeria) (Translation)	Kai! Wasan Ƙwallo!	id=20863
+Kiswahili (Original)	Ah! Mpira!	id=12925
+Lusoga (Translation)	Aah! Omupiira!	id=20672
+Ng’aturkana (Translation)	Woe! Epira!	id=13212
+Otuho (Translation)	Ah! Akura!	id=39044
+Spanish (Translation)	¡Oh! Fútbol!	id=35741

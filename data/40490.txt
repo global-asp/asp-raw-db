@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=40490&d=0&a=1
+id:	40490
+title:	Brave Mouse
+author:	African Storybook
+artist:	Yididiya Ashenafi
+lang:	English
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40490.png
+desc:	This is a story about a brave mouse. This storybook was developed as part of a Lenovo-funded project piloting African Storybook app tools at libraries. The story was created at a workshop at Ras Abebe Aregay Library
+
+page_text:
+
+P1	One day, Elephant met with Rat and began laughing.@@Rat asked, "Why are you laughing?"
+P2	Elephant replied, "You are such a little creature. It is easy for other animals to eat you."@@After this conversation, they went their separate ways.
+P3	On another day, Rat was passing through the field. @@She saw some colourful flowers and stopped to admire them.
+P4	While Rat was enjoying the beauty in nature, she shifted her attention to something else. @@Lion was hiding nearby in the tall grass.
+P5	Rat realised that Lion was watching Antelope.@@Lion was waiting for the right time to catch Antelope.
+P6	Rat thought of how to save Antelope from Lion. @@As Lion began to move, Rat ran up onto his back.
+P7	Rat sank her teeth deeply into Lion's neck.@@Lion roared with pain and jumped up in the air.@@Antelope ran away to safety.
+P8	The next day, Antelope met Elephant.@@Antelope told him what happened. "Rat saved me," she said. @@Elephant felt bad for laughing at Rat.
+P9	Elephant asked Rat to forgive him. @@Rat responded, "I forgive you. Do not judge anyone by their size!" @@Elephant promised to apply Rat's advice.
+
+images:
+
+illustrations/pages/91810601.png
+illustrations/pages/91810618.png
+illustrations/pages/91810604.png
+illustrations/pages/91810605.png
+illustrations/pages/91810607.png
+illustrations/pages/91810613.png
+illustrations/pages/91810611.png
+illustrations/pages/91810612.png
+illustrations/pages/91810615.png
+illustrations/pages/91810606.png
+
+translations:
+
+English (Original)	Three friends	id=39633

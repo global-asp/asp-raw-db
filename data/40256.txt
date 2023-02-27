@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=40256&d=0&a=1
+id:	40256
+title:	የሚያወራው ቦርሳ
+author:	Mezemir Girma
+artist:	Wiehan de Jager
+lang:	Amharic
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40256.png
+desc:	ሶስት ትንንሽ ሴቶች ልጆች በማገዶ ጉዳይ እርዳታ እንደሚያስፈልገው ከሚያመስል አንድ ግዙፍ ሰው ጋር ይገናኛሉ፡፡
+
+page_text:
+
+P1	በአንድ ወቅት አንዲት ግዙፍ ሴትዮ ነበረች። ከዕለታት አንድ ቀን በሐይቁ አጠገብ የእግር ጉዞ ስታደርግ ነበር።@@ሦስት ትናንሽ ሴቶች ልጆችን አግኝታ ‹‹ከእናንተ መካከል በሁለቱም ወላጆቹ የሚወደድ ማነው?›› ብላ ጠየቀቻቸው።
+P2	ከልጆቹ አንዷ ‹‹እናቴ የበለጠ ትወደኛለች›› አለች።@@ሌላዋ ‹‹አባቴ የበለጠ ይወደኛል›› አለች።@@ሦስተኛዋ ግን ‹‹በሁለቱም ወላጆቼ እወደዳለሁ›› አለች፡፡
+P3	ግዙፏ ሴትዮ በሁለቱም ወላጆቿ የምትወደደውን ልጅ የማገዶ እንጨት በመሸከም እንድትረዳት ጠየቀቻት።@@ልጅቷ ግዙፏን ተከተለቻት።
+P4	የተወሰነ ርቀት ተጓዙ። ልጅቷ ግዙፏን ሴትዮ ‹‹የማገዶ እንጨትሽ የት ነው?›› በማለት ጠየቀቻት፡፡ @@ግዙፏም ‹‹እዚያ እዛፎቹ አጠገብ ነው!›› ስትል መለሰች፡፡
+P5	ዛፎቹ አጠገብ ሲደርሱ ልጅቷ እንደገና ‹‹የማገዶ እንጨትሽ የት ነው?›› አለቻች፡፡ @@ግዙፏም ‹‹አሁን እንኳን ሩቅ አይደለም!›› ስትል መለሰች፡፡
+P6	በመንገድ ላይ አንድ ሰው አገኙ። እሱም ግዙፏን ‹‹የልጅሽ ስም ማን ነው?›› በማለት ጠየቃት፡፡ @@ግዙፏም ‹‹የምታወራው ቦርሳ ትባላለች›› ስትል መለሰችለት።
+P7	ልጅቷ እየፈነደቀች ዘፈነች፡-@@የምታወራ ቦርሳ አይደለሁም።@ስሜ ካሙንጌ ነው!@ኦ! የምወዳት እናቴ።@ኦ! የምወደው አባቴ።@ኦ! ወተት ለመጠጣት የምጠቀምበት ቅል!
+P8	ሰውየው ልጅቷ የዘፈነችውን ሲሰማ ከሴትዮዋ ነጥቆ አዳናትና ወደ ወላጆቿ ወሰዳት።@@ታሪኩ በዚህ አበቃ!
+
+images:
+
+illustrations/pages/1461.png
+illustrations/pages/1461.png
+illustrations/pages/1462.png
+illustrations/pages/1463.png
+illustrations/pages/1465.png
+illustrations/pages/1466.png
+illustrations/pages/1467.png
+illustrations/pages/1468.png
+illustrations/pages/1469.png
+
+translations:
+
+Afrikaans (Translation)	Die pratende sak	id=11204
+Ekegusii (Translation)	Omoguko ogokwana	id=2528
+English (Original)	The talking bag	id=2112
+isiNdebele (Translation)	Isikhwama esikhulumako	id=35233
+Kikamba (Translation)	Muvuko Unenaa	id=2529
+Kiswahili (Translation)	Mkoba uzungumzao	id=2530
+Lugbarati (Translation)	Okporua Eyo Nzepi Ri	id=2531
+Lugbarati (Official) (Translation)	Òkpóróá E'yó Nzépɨ  Ɨ̀ndɨ̀ Rɨ̀	id=8764
+Lusoga (Translation)	Ensawo eyogera	id=27124
+Maa (Translation)	Olbéné Oiró	id=2986
+Ng’aturkana (Translation)	Abusek Na Irworo	id=2532
+Oluwanga (Translation)	Iloloti Ilomalomanga	id=2533
+Siswati (Translation)	Sikhwama lesikhulumako	id=34473
+Tshivenḓa (Translation)	Mukhwama wo no amba	id=34252
+Xitsonga (Translation)	Nkwama wo vulavula	id=34326

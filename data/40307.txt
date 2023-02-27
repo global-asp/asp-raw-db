@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=40307&d=0&a=1
+id:	40307
+title:	Naange Suklii-nge
+author:	Mohammed Also and Naseh  Yusuf
+artist:	Joe  Werna
+lang:	Fulfulde
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40307.png
+desc:	Ngeccawol ngool ɗum dow naange ba no pukaraajo janngirde yiiri-nge gila nge fuɗa haa nge muta.
+
+page_text:
+
+P1	Naange e fuɗa fajiri, wakkere fuuna.@@Emi nana njakardi e kukkita bimbi.
+P2	Naange ngen e tokka dow saare Terfa'en hiddee moylaari.@@Mi nanii uurngol njaram e nyaamdu tokkii naange nden faa yottii hinorde am.
+P3	Naange ngen e tokka ɓaawo leggal to janngirde amin wakkati kasitaari.@@Nde nge waɗa taarde caka nokkuure fijirde.
+P4	Naange ngen e hedda dow hoore am. Mbeelu am e daroo seraa am.@@E soobiraaɓe am min pija fijo mbeelu.
+P5	Mbeelu ngun ɓeyda mawnugo nden ngu famɗita. Min ndogga min tokkita ngu.@@Mbeelu am mawna juuta, nden ngu rammiɗa. Min ndogga min tokkita ngu.
+P6	Mi daroo, sooɓiraaɓe am maa ndaroo. Min ngi'a beeli amin e njownjowtiri.@@To min comii min koota hijibiiru. Ɓaawo janngirde, min koota saare.
+P7	Naange ngaaɓoo.@@Mi yi'a naange ngen e wirnoo seese-seese wakkere hiirna. Mi yi'a mbeelu am dow mahol.@@Ɗum wakkati ɗaanaago.
+P8	Naange ngen majjita gaɗa duule.@@Mi fukkoo dow leeso, nden mi hoyɗa naange e waɗa jahaangal daayngal.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Amharic (Translation)	ባተሌ ባተሌዋ ፀሐይ	id=39465
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Bura (Translation)	Kethir kethir mchi	id=34888
+ChiChewa (Translation)	Dzuwa lotanganika kwambiri	id=40416
+Ebira (Translation)	Ukoro Ukoro  ὀyi	id=34840
+English (Original)	Busy Busy Sun	id=32416
+French (Translation)	Le soleil occupé, très occupé	id=35178
+Hausa (Nigeria) (Translation)	Zirga Zirgan rana	id=34897
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Ikwerre (Translation)	Nhebe Ne Me'he	id=34833
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyange I Memen Ga	id=36793
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

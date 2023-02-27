@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=40294&d=0&a=1
+id:	40294
+title:	Ah! Bol-koyɗe
+author:	Also Mohammed Sale
+artist:	Onesmus Kakungi
+lang:	Fulfulde Adamawa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40294.png
+desc:	Maamiraawo suka pamaro lili-mo ngam o soodana-ɓe are gila saagooru. Nde o yahi
+
+page_text:
+
+P1	Mi yiɗi fijudugo e soobaajo am Chuma.
+P2	Min soobiraaɓe masin.@@Kala nde gooto amin lilaa fuu, min njahday.
+P3	Nyalnde wonnde, maamiraawo am lili-yam mi soodana-mo mannda e nebbam.@@Mi yahdi e Chuma.
+P4	Nder yahdu amin, min ngi'i soobiraaɓe amin e pija bol-koyɗe.@@"Ah! Bol-koyɗe," mi wi'i.
+P5	"Ah! Bol-koyɗe," mi wi'i.@@Min maa mi yiɗi mi fija.
+P6	Mi wi'i Chuma, "En ƴamu-ɓe to ɓe njaɓii pijiden e maɓɓe. Mi yiɗi fijirde bol-koyɗe masin."
+P7	Mi wi'i Chuma, "En ƴamu-ɓe to ɓe njaɓii pijiden e maɓɓe. Mi yiɗi fijirde bol-koyɗe masin."
+P8	Ammaa mi jaabii, "En piju tawon! Maamiraawo accataa'en co"ooɗen."
+P9	Min kawti e soobiraaɓe amin nder fijirde. Min laatii aynoowo saare.@@Saare amin waɗiraama kaaƴe mawɗe ɗiɗi.
+P10	Mi haɓdii masin ngam mi nannga bol.@Soobiraaɓe amin keɓaayi nyaamugo yalla bol go'o.
+P11	Min piji haa nokkuure nden heewi njaareendi.
+P12	Nden ɓaawo ɗon, min njahi saagooru. Ceede maamiraawo am majji! Mi fuɗɗi woyugo. @Chuma hooli, "Accu woyugo. An yiɗno artiraa fijirde."
+P13	Min kooti saare naa e mannda sakko nebbam.@Min fuu amin min tunnii nden e min kultori.
+P14	Maamiraawo amin seyaaki nde min kooti saare.@Ƴamol aranol ngol o ƴami min woni, "Toye ngonnooɗon gila nden?"
+P15	Min mbi'iti-mo goonga haala.@O waggini-min, "Kul on meetii fijoygo on dunŋanaaka."
+P16	Min njahi min nyaamnoyi aguwaagaaji.@Ɓaawo ɗon, min njahi min ngiiwii.
+
+images:
+
+illustrations/pages/12881.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/12873.png
+illustrations/pages/12874.png
+illustrations/pages/12876.png
+illustrations/pages/12877.png
+illustrations/pages/12878.png
+illustrations/pages/12879.png
+illustrations/pages/12880.png
+illustrations/pages/12881.png
+illustrations/pages/12882.png
+illustrations/pages/12883.png
+illustrations/pages/12884.png
+illustrations/pages/12885.png
+illustrations/pages/12886.png
+illustrations/pages/12887.png
+
+translations:
+
+Amharic (Translation)	እ! እግርኳስ	id=40264
+ChiNambya (Translation)	Ah! Unzano webhola!	id=39995
+English (Translation)	Ah! Football!	id=12926
+Fulfulde Mbororoore (Translation)	Fijirde Bol!	id=32095
+Hausa (Nigeria) (Translation)	Kai! Wasan Ƙwallo!	id=20863
+Hausa (Nigeria) (Translation)	Ah! Кwallon ƙafa	id=40293
+Kiswahili (Original)	Ah! Mpira!	id=12925
+Lusoga (Translation)	Aah! Omupiira!	id=20672
+Ng’aturkana (Translation)	Woe! Epira!	id=13212
+Otuho (Translation)	Ah! Akura!	id=39044
+Spanish (Translation)	¡Oh! Fútbol!	id=35741

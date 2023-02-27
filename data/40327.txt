@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=40327&d=0&a=1
+id:	40327
+title:	Mwana wa Udzudzu
+author:	Peter Msaka
+artist:	Peter Lebuso Boase
+lang:	ChiChewa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40327.png
+desc:	Mwana wa Udzudzu waphunzira phunziro lofunikira kwambiri lokhudza anthu.
+
+page_text:
+
+P1	Kalekale, nyama zonse zimayankhula.@@Mayi Udzudzu ndi mwana wake amakhala mnyumba.
+P2	Mayi Udzudzu amamusiya mwana wake kunyumba akamapita kokasaka zakudya.
+P3	Tsiku lina, Mayi uja atachoka pakhomo, Mwana wake anapita panja.
+P4	Mayi Udzudzu atabwera, anapeza kuti mwana uja wapita panja.
+P5	Mayi Udzudzu anada nkhawa. Mwana wake anali kunja yekha.@@Posakhalitsa, mwana uja anatulukira.
+P6	Mwana uja anali okondwa kwambiri.@@"Amayi, anthu anali okondwa kwambiri kundiona. Amandiombera m'manja nthawi zonse ndikamawadutsa ndikuuluka!"
+P7	Mayi Udzudzu uja anachita mantha.@@"Ukuti anthu anali okondwa ndi iwe ndipo amakuimbira m'manja?" Anamufunsa mwana uja.
+P8	"Sanali okondwa kukuona iwe. Amafuna akuphulitse!" Anafotokoza mayi uja.@@"Anthu sakondwa akaona udzudzu," anamuchenjeza.
+
+images:
+
+illustrations/pages/93740269.png
+illustrations/pages/93740267.png
+illustrations/pages/93740268.png
+illustrations/pages/93740269.png
+illustrations/pages/93740270.png
+illustrations/pages/93740271.png
+illustrations/pages/93740275.png
+illustrations/pages/93740273.png
+illustrations/pages/93740274.png
+
+translations:
+
+English (Original)	Baby Mosquito	id=34542
+French (Translation)	Le Bébé Moustique	id=40171
+Fulfulde (Translation)	Ɓinngel Ɓowngel	id=40305
+Fulfulde Adamawa (Translation)	Cufel	id=40413
+Hausa (Nigeria) (Translation)	Jaririn Sauro	id=40304
+Pidgin English (Nigeria) (Translation)	Mosquito Pikin	id=37837
+Setswana (Translation)	Ngwana Monang	id=34675
+Spanish (Translation)	Bebé Mosquito	id=36419

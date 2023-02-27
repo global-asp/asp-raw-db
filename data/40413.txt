@@ -1,0 +1,44 @@
+url:	https://africanstorybook.org/reader.php?id=40413&d=0&a=1
+id:	40413
+title:	Cufel
+author:	Albert  Blangar
+artist:	Peter Lebuso Boase
+lang:	Fulfulde Adamawa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40413.png
+desc:	Cufel ɗon ekkita eltol caka ɓiɓɓe aadama. Deftel ngel laati taaria taskitinaaka ngam yaarugo jaŋgirde taali yeeso yeeso. Ɗum fuɗɗi b ekkitinooɓe (22) be lewru fevrier 2019
+
+page_text:
+
+P1	Ɓoyma no kam, dabbaji fuu vaawi volwugo.@@Daada cufi e ɓinngel maako ɗon yeeɗa nder saare feere.
+P2	Nde Daada cufi ɗon yaha tefa nyamdu fuu, o voowi accugo cufel haa saare.
+P3	Nden nyande feere, nde Daada vurti saare, cufel yiɗi no@vurtugo.
+P4	Nde Daada cufi lorti saare, o tawi ɓinngel maako vurti.
+P5	Daada ɗon sakli. Cufel vurti feere maako.@@Ɓaawo ɗon seɗɗa, cufel lorti haa saare.
+P6	Cufel ɗon sehi jur, "Daada, ɓiɓɓe aadama ɗon sehi ngam laarugo yam. To mi ɗon saala yeeso maɓɓe fuu be ɗon hellana mi juuɗe!"
+P7	Daada fuɗɗi vookugo, "A wi'i yimɓe ɗon seyi e be ɗon hellana ma juuɗe? ƴami Daada haa ɓinngel maako."
+P8	"Be seyhaay ngam laarugo maa. Bee ɗon yiɗi nattingo maa!"@  @"Famtini Daada. Ɓiɓɓe aadama meeɗaay seyugo ngam laarugo cufi." Daada lorni wi'igo be eltol.
+
+images:
+
+illustrations/pages/93740269.png
+illustrations/pages/93740267.png
+illustrations/pages/93740268.png
+illustrations/pages/93740269.png
+illustrations/pages/93740270.png
+illustrations/pages/93740271.png
+illustrations/pages/93740275.png
+illustrations/pages/93740273.png
+illustrations/pages/93740274.png
+
+translations:
+
+ChiChewa (Translation)	Mwana wa Udzudzu	id=40327
+English (Original)	Baby Mosquito	id=34542
+French (Translation)	Le Bébé Moustique	id=40171
+Fulfulde (Translation)	Ɓinngel Ɓowngel	id=40305
+Hausa (Nigeria) (Translation)	Jaririn Sauro	id=40304
+Pidgin English (Nigeria) (Translation)	Mosquito Pikin	id=37837
+Setswana (Translation)	Ngwana Monang	id=34675
+Spanish (Translation)	Bebé Mosquito	id=36419

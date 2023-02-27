@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=40417&d=0&a=1
+id:	40417
+title:	Nanzikambe apikisana ndi Kalulu
+author:	Peter Msaka
+artist:	Gavin  Thomson
+lang:	ChiChewa
+level:	Longer paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40417.png
+desc:	Nthano ya Chilomwe yochokera ku mpoto kwa Mozambique. Ndi yokhudza mmene Nanzikambe anapusitsira mdani wake
+
+page_text:
+
+P1	Tsiku lina, Nanzikambe anamuuza Kalulu kuti achite mpikisano othamanga kuti adziwe amene amathamanga kwambiri.
+P2	Kalulu anavomera ndipo anati, "Iwe umayenda pang'onopang'ono! Umayamba ndi mwendo umodzi, kenako wina, kudzayambiranso ndi wina uja."@@Kalulu anadzitukumula, "Ndikusiya kumbuyo kwambiri. Sungandipezenso!"
+P3	Anaitana nyama zina zonse kuti zidzawonerere mpikisano uja.
+P4	Nanzikambe ndi Kalulu anaima pa mzere kudikira kuti ayambitse mpikisano uja.
+P5	Mpikisano utayambika, Nanzikambe anajowera pa mchira wa Kalulu.
+P6	Nyama zina zija zinaseka kwambiri.@@Kalulu sanadziwe kuti Nanzikambe anali pa mchira wake.
+P7	Kamba komva phokoso lija, Kalulu anayima mwadzidzi. Nanzikambe anadumpha kuchoka pa mchira wa Kalulu uja.@@"Iwe! Uziona kumene ukupita! Ukuchedwatu," Nanzikambe anamukuwira Kalulu.
+P8	Kalulu anadabwa. Anayambiranso kuthamanga.@@Samadziwa kuti Nanzikambe wajoweranso pa mchira wake.
+P9	Mmene Kalulu amayandikira pothera mpikisano, nyama zina zija zinaona kuti Nanzikambe anali pa mchira wa Kalulu ujabe. Nyama zina zija zinaombera mmanja ndi kuseka.@@Kalulu anamvanso phokoso ndipo anaganiza kuti Nanzikambe wafika kale pomalizira mpikisano.
+P10	Atafika pomalizira mpikisano, Nanzikambe anajowapo pa mchira wa Kalulu.@@"Bwino ungandiponde! Ndayamba ndine kufika!" Nanzikambe anamukalipira Kalulu uja.
+P11	Kalulu anachoka ndi ukali.@@Nanzikambe anatsalira kulandira mphotho, ndipo Kalulu sanapambane mpikisano uja.
+
+images:
+
+illustrations/pages/28203.png
+illustrations/pages/28195.png
+illustrations/pages/28196.png
+illustrations/pages/28197.png
+illustrations/pages/28198.png
+illustrations/pages/28199.png
+illustrations/pages/28200.png
+illustrations/pages/27258.png
+illustrations/pages/27259.png
+illustrations/pages/28203.png
+illustrations/pages/28204.png
+illustrations/pages/28205.png
+
+translations:
+
+Afrikaans (Translation)	Verkleurmannetjie Jaag Haas	id=32269
+Cinyungwe (Translation)	Dwidwi na Sulo	id=31518
+Ciyawo (Translation)	A-Citagamulo na a-Kalunga	id=31524
+Elomwe (Translation)	Namanriya Opaka Wawe Mapokha nNamarokolo	id=31522
+Emakhuwa (Translation)	Ovaanyihana wa Namanriya  ni Namarokolo	id=31523
+English (Original)	Chameleon Races Rabbit	id=31355
+French (Translation)	Caméléon fait la course contre Lapin	id=33819
+Portuguese (Translation)	O Camaleão e o Coelho	id=31510

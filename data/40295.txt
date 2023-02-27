@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=40295&d=0&a=1
+id:	40295
+title:	አስቡ
+author:	Mezemir Girma
+artist:	Alice Toich, Catherine Groenewald, Jano Strydom, Jesse Breytenbach, Razaque Lázaro Quive, Rob Owen and Wiehan de Jager
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40295.png
+desc:	አስቡ	
+ይህ ታሪክ በልጆች ላይ የማሰብ ችሎታን ለማሳደግ ታስቦ የተጻፈ ነው።
+
+page_text:
+
+P1	በቪክቶሪያ ሐይቅ ዳርቻ ሽርሽር ማድረግ የምንችልበትን አንድ ቀን አስቡት።
+P2	አንድ ቀን ሁሉም ሰው ማንበብ ሲችል እና በሁሉም ቋንቋ መጻሕፍት ሲኖሩ አስቡት፡፡
+P3	አንድ ቀን አስቡት። @@የመጀመሪያ ልጄን ስወልድ፡፡
+P4	አንድ ቀን አስቡት። @@በዓለም ላይ ያሉ ሰዎች ሁሉ እንደ ወንድም እና እህት ሆነው በሰላም ሲኖሩ።
+P5	አንድ ቀን አስቡት። @@በውኃ ላይ መራመድ ስችል፡፡
+P6	አንድ ቀን አስበው። @@ሴት ልጅህ ፕሬዚዳንት ስትሆን፡፡
+P7	አንድ ቀን አስበው። @@ወደ መቃብር ልትገባ ስትል እና እንደገና ወደ ህይወት ስትመለስ!
+P8	አንድ ቀን አስቡት። @@ሰዎች ለመብረር ክንፍ ሲያበቅሉና ፈጣሪያቸው ካለበት ቦታ ሲደርሱ።
+P9	አንድ ቀን አስቡት። @@መሬቱ ከዓለም ጥግ እስከ ጥግ በምንጣፍ ተሸፍኖ፡፡
+
+images:
+
+illustrations/pages/9847.png
+illustrations/pages/8629.png
+illustrations/pages/9066.png
+illustrations/pages/9722.png
+illustrations/pages/8945.png
+illustrations/pages/9652.png
+illustrations/pages/9069.png
+illustrations/pages/9627.png
+illustrations/pages/9592.png
+illustrations/pages/5648.png
+
+translations:
+
+English (Original)	Imagine	id=9902
+Lulamoogi (Translation)	Ologhoozye	id=26501
+Lusoga (Translation)	Fumintirizaamu	id=27170
+Spanish (Translation)	¡Imagina!	id=34753

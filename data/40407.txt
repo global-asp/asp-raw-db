@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=40407&d=0&a=1
+id:	40407
+title:	Taaria yiite
+author:	Albert  Blangar
+artist:	Rob Owen
+lang:	Fulfulde Adamawa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40407.png
+desc:	Yiite ɗon taala taaria maako. Nden nanen mo haa en faama ɗume o yiɗi wii go min.
+
+page_text:
+
+P1	Accam mi taala taaria am.@@Mi ɗon fuɗɗa huɓɓaago bee yiitere peetel.
+P2	Nden mi ɗon saŋkito too hendu hoo'i yama.
+P3	An bee am en laati soobiraaɓe goŋga.
+P4	Mi ɗon ɓenndina nyamdu.
+P5	Mi anndi waɗugo kuuje ɗuɗɗe.
+P6	Amma sey a hakkilana mi boɗɗum too a ewni yam haa saare maa.
+P7	Min mi laati goɗɗo saare maa.
+P8	Amma to a ɗon ewna mi haa saare maa kam sey a hakkila. @@Mi yiɗa goɗɗo acca mi feere am.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Afrikaans (Translation)	Die storie van Vuur	id=10807
+Anii (Adaptation)	Ʊtonu kagɩsɔɔ	id=34853
+French (Translation)	L’Histoire Du Feu	id=10760
+isiNdebele (Translation)	Inolwana Yomlilo	id=17740
+Pana (Translation)	Sa̧a a hɔ́rɛ	id=40402
+Portuguese (Translation)	A História Do Fogo	id=16415

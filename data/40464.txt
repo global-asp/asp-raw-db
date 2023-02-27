@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=40464&d=0&a=1
+id:	40464
+title:	Tûyri
+author:	Albert  Blangar
+artist:	Rob Owen
+lang:	Pana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40464.png
+desc:	Tûyri gí nyá wâʼa ka ɓil pû a há̧na
+
+page_text:
+
+P1	Sêe a há̧na, ná kó hɛ̧ri̧ ɓá ŋgɛ̧́náké ɓá ɗínáké. @@Dáy ɓá tûyri.
+P2	Tûykéri sé nyá wâʼa a sɔ̧́ hɛ̧payri too.
+P3	Ka rú ru too ɓay a ní kuriri, kú zi kála yá.
+P4	Rú laŋ hɛ̧ a vbá nzáʼa, "Ô! Ô!"@@Kú zi kála yá.
+P5	Rú háŋ kûri rá̧ wɛ̧̂ɛri̧, tûyri zi kála yá dad.
+P6	Rú ndére hɔ́rɛ ɓay a ní kuriri, a nɔ́ too, kú zi kála yá.
+P7	Kú sé mú ɓil vbándɔ̂ʼɔ diiri.@@Dáy ɓay tûl zína a kuriri, vbándɔ̂ʼɔ diikéri háy.
+P8	Sɛl a sêe kpay a falké, rú kó ɓá tûyri ka hɔrɛ rɛ́ŋ kuriri, kú ri mambá!@@Njuku a sí̧lé too ɛ́ ŋgboro ŋgbá kuriri ka rii kɔ̧ ɓil ŋgu a kuriri.
+P9	Gun a léléri fa̧ tûyri mbá sambéri gí ɓá ŋgɛ̧́náké.
+P10	Ná gí ɛʼɛ tûyri ráy a nyí kuriri. Ná ɓá a há̧narí̧ kɔ́ zoko káy.@@A ɓilké nɔ́ too, tûy a fékéri ɓá ŋgɛ̧́náké zɔ ŋgú kála.
+P11	Típélé a féké ka toma nâm, tûyri zɔ too a kála.
+P12	Gelka, njuku wâʼari kó wâʼa a kuriri, kú vbú ka mbii nûn, "Wâʼa a manárí̧ ɓew too!"@@Njuku pûri too vbú ka mbii nûn, "A̧hí̧ ná e lâʼaké a mbimbɔ̂m nɛ́ lé? "
+
+images:
+
+illustrations/pages/10597.png
+illustrations/pages/10597.png
+illustrations/pages/10598.png
+illustrations/pages/10599.png
+illustrations/pages/10600.png
+illustrations/pages/10601.png
+illustrations/pages/10602.png
+illustrations/pages/10603.png
+illustrations/pages/10604.png
+illustrations/pages/10605.png
+illustrations/pages/10606.png
+illustrations/pages/10607.png
+illustrations/pages/10608.png
+
+translations:
+
+Dhopadhola (Translation)	Bonyo	id=19476
+English (Original)	Locusts	id=13455
+French (Translation)	Les sauterelles	id=39910
+Fulfulde Mbororoore (Translation)	Baɓatti	id=38283
+Lusoga (Translation)	Enzige	id=26031
+Otuho (Translation)	Amaa	id=39613

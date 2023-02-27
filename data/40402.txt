@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=40402&d=0&a=1
+id:	40402
+title:	Sa̧a a hɔ́rɛ
+author:	Albert  Blangar
+artist:	Rob Owen
+lang:	Pana
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40402.png
+desc:	Hɔ́rɛsá sa̧a a mɛ̌ ka mûn nɛ́. Hɔ́rɛsá sa̧a a mɛ̌ ka mûn nɛ́.
+
+page_text:
+
+P1	Mɔ́ pɔŋ mí sá sa̧a hí̧ mɔ.@@Mí yáŋ báŋa.
+P2	Mi nyá gel ka kúna mí fa̧ mǐ.
+P3	Mɔ̌ kuu mǐ, ná kaw ɓá béla njuku mbaŋa.
+P4	Mi kaw kara lâʼa a mɔ̌.
+P5	Haŋa sû̧ŋ lé, mi táŋgel hí̧ mɔ̌.
+P6	Mi tu niŋ hɛ̧ri̧ ɓá ŋgɛ̧́náké.
+P7	Mi kaw ɓá mbêw ka ɓil î̧na a mɔ̌.
+P8	Dáy, mɔ́ koro mǐ ɓá bélaké ka mɔ̌ mí ɗí mǐ sé golóy.@@Mi zi ɓá ku pɔŋ mí hɛʼɛ ní nyá.
+
+images:
+
+illustrations/pages/8558.png
+illustrations/pages/8555.png
+illustrations/pages/8556.png
+illustrations/pages/8558.png
+illustrations/pages/8557.png
+illustrations/pages/8559.png
+illustrations/pages/8560.png
+illustrations/pages/8561.png
+illustrations/pages/8562.png
+
+translations:
+
+Afrikaans (Translation)	Die storie van Vuur	id=10807
+Anii (Adaptation)	Ʊtonu kagɩsɔɔ	id=34853
+French (Translation)	L’Histoire Du Feu	id=10760
+Fulfulde Adamawa (Translation)	Taaria yiite	id=40407
+isiNdebele (Translation)	Inolwana Yomlilo	id=17740
+Portuguese (Translation)	A História Do Fogo	id=16415

@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=40264&d=0&a=1
+id:	40264
+title:	እ! እግርኳስ
+author:	Mezemir Girma
+artist:	Onesmus Kakungi
+lang:	Amharic
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40264.png
+desc:	አንድ ትንሽ ልጅ ከሱቅ ጥቂት እቃዎችን እንዲገዛ በአያቱ ይላካል፡፡ ከቅርብ ጓደኛው ጋር ሄዶ ከሌሎች ጓደኞቹ ጋር እግር ኳስ መጫወት ይጀምራል። የተላከውን ያመጣ ይሆን?
+
+page_text:
+
+P1	ከጓደኛዬ ከቹማ ጋር መጫወት እወዳለሁ።
+P2	ጥሩ ጓደኞች ነን።@@አንዳችን ወደ አንድ ቦታ ስንላክ አብረን እንሄዳለን።
+P3	አንድ ቀን፣ አያቴ ጨውና የምግብ ዘይት እንድገዛ ወደ ሱቅ ላከችኝ።@@ከቹማ ጋር ሄድኩ።
+P4	በመንገድ ላይ ጓደኞቻችን እግር ኳስ ሲጫወቱ አየን።
+P5	‹‹እ! እግር ኳስ!›› አልኩ፡፡@@እኔም ለመጫወት ፈለግሁ።
+P6	ቹማን ‹‹ከእነሱ ጋር መጫወት እንችል እንደሆነ እንጠይቅ፡፡ እግር ኳስ መጫወት በጣም እወዳለሁ›› አልኩት።
+P7	ቹማ ‹‹መጀመሪያ ወደ ሱቅ እንሂድ፣ ከዚያ ለመጫወት መምጣት እንችላለን›› በማለት መለሰ።
+P8	እኔ ግን ‹‹ቆይ በመጀመሪያ እንጫወት! አያቴ እንድንመለስ አትፈቅድልንም›› አልኩት።
+P9	ለመጫወት ጓደኞቻችንን ተቀላቀልን። እኔ ግብ ጠባቂ ሆንኩ።@@ጎሎቹ  ከሁለት ትላልቅ ድንጋዮች የተሠሩ ነበሩ፡፡
+P10	ኳሷን ለመያዝ ተጣጣርኩ።@@ጓደኞቼ ምንም ግብ ማስቆጠር አልቻሉም።
+P11	ሜዳው በአሸዋ እስኪሞላ ድረስ ተጫወትን።
+P12	ከዚያም ወደ ሱቅ ሄድን፡፡ የአያቴ ገንዘብ ጠፍቷል! ማልቀስ ጀመርኩ።@@ቹማ ‹‹ማልቀስ አቁም መጀመሪያ መጫወት ፈልገህ ነበር›› ብሎ ጮኸብኝ።
+P13	ጨው ወይም የምግብ ዘይት ሳንይዝ ወደ ቤታችን ተመለስን።@@በጣም ቆሽሸንና ተጨንቀን ነበር።
+P14	ቤት ስንደርስ አያት ተናደደች።@@መጀመሪያ የጠየቀችን ጥያቄ ‹‹ይህን ሁሉ ጊዜ የት ነበራችሁ?›› የሚል ነበር፡፡
+P15	እውነቱን መናገር ነበረብን።@@‹‹ያለ ፍቃድ በጭራሽ ለመጫወት መሄድ የለባችሁም›› ስትል አስጠንቀቀችን።
+P16	ዳክዬዎችን ለመመገብ ሄድን፡፡@@በኋላ ራሳችንን አጸዳን።
+
+images:
+
+illustrations/pages/12881.png
+illustrations/pages/12871.png
+illustrations/pages/12872.png
+illustrations/pages/12873.png
+illustrations/pages/12874.png
+illustrations/pages/12876.png
+illustrations/pages/12877.png
+illustrations/pages/12878.png
+illustrations/pages/12879.png
+illustrations/pages/12880.png
+illustrations/pages/12881.png
+illustrations/pages/12882.png
+illustrations/pages/12883.png
+illustrations/pages/12884.png
+illustrations/pages/12885.png
+illustrations/pages/12886.png
+illustrations/pages/12887.png
+
+translations:
+
+ChiNambya (Translation)	Ah! Unzano webhola!	id=39995
+English (Translation)	Ah! Football!	id=12926
+Fulfulde Adamawa (Translation)	Ah! Bol-koyɗe	id=40294
+Fulfulde Mbororoore (Translation)	Fijirde Bol!	id=32095
+Hausa (Nigeria) (Translation)	Kai! Wasan Ƙwallo!	id=20863
+Hausa (Nigeria) (Translation)	Ah! Кwallon ƙafa	id=40293
+Kiswahili (Original)	Ah! Mpira!	id=12925
+Lusoga (Translation)	Aah! Omupiira!	id=20672
+Ng’aturkana (Translation)	Woe! Epira!	id=13212
+Otuho (Translation)	Ah! Akura!	id=39044
+Spanish (Translation)	¡Oh! Fútbol!	id=35741

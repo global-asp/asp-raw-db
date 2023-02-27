@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=40300&d=0&a=1
+id:	40300
+title:	Sauro Mai Ban Haushi
+author:	Mohammed Also and Sanusi Hussain Kano
+artist:	Magriet Brink
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40300.png
+desc:	Duk mun san ƙarar sauro a lokacin da yake shawagi a cikin dare. Wannan ɗan ƙaramin ƙwaron amma babban mai ɓarna!
+
+page_text:
+
+P1	Кwan! Кwan!
+P2	"Waye a nan?" na yi tambaya cikin magagi.
+P3	"Ni ne," in ji wata murya mai rikitarwa.
+P4	"Kamar ya ni ne?" na tambaya.
+P5	"Na gaya maka dai ni ne," muryar ta sake faɗa.
+P6	"Ni ban san wani 'ni ne' ba," na ba shi amsa. @@Na duba sai na ga sauro a maƙale a jikin gadona.
+P7	"Toh, sunana Sau," muryar ta amsa da ƙarfi fiye da da, har cikin kunnena.
+P8	"Wane Sau ɗin?" na tambaya lokacin da nake duba ƙarƙashin gidan saurona.
+P9	"Sau…ro." A ƙarshe ya faɗa. Kawai sai na ji cizo a kunnena.
+P10	"Ah! Na yi tsalle na fara dubawa. "Za ka yi da na sani." Na faɗa da ƙarfi.
+P11	Cikin fushi na tashi daga kan gado, na kunna fitila.
+P12	Tun daga nan na ƙulla yaƙi da sauro mai abin haushi!
+
+images:
+
+illustrations/pages/14756.png
+illustrations/pages/14755.png
+illustrations/pages/14756.png
+illustrations/pages/14757.png
+illustrations/pages/14758.png
+illustrations/pages/14759.png
+illustrations/pages/14760.png
+illustrations/pages/14761.png
+illustrations/pages/14762.png
+illustrations/pages/14763.png
+illustrations/pages/14764.png
+illustrations/pages/14766.png
+illustrations/pages/14765.png
+
+translations:
+
+Afrikaans (Translation)	Muskietejag	id=37401
+English (Original)	Annoying mosquito	id=14893
+French (Translation)	Moustique gênant	id=33335
+Fulfulde (Translation)	Ɓowngel Mostiingel	id=40298
+Kiswahili (Translation)	Mbu msumbufu	id=21635
+Luganda (Translation)	Wansili anyiiza	id=22989
+Lusoga (Translation)	Ensiri enhiiza	id=25729
+Setswana (Translation)	Monang o o tshwenyang	id=14964
+Spanish (Translation)	Mosquito molesto	id=35728
+Tshivenḓa (Translation)	Lunyunyu lu sinyusaho	id=37289
+Xitsonga (Translation)	Nsuna yo dzindela	id=37110

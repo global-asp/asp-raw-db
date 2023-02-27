@@ -1,0 +1,51 @@
+url:	https://africanstorybook.org/reader.php?id=40452&d=0&a=1
+id:	40452
+title:	Faaruuku bee soobaajo
+author:	Jibrilla  Eggi and Yunuusa  Yaakubu
+artist:	Isaac Okwir
+lang:	Fulfulde Mbororoore
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40452.png
+desc:	Soobaajo seetake gaynaako pamaro diga pobbi. Janngu habaru ɗuum ngam anndugo ko saali.
+
+page_text:
+
+P1	Wuro Faaruuku'en e daayootiri bee gariiri mawndi.
+P2	Faaruuku e woodi ɓoosaaru bi'eteendu Fin.@@Mo senndirtaa e maaru.
+P3	Nyalnde Asawe, fajiri, Faaruuku bee Jamal ndillii duroygo baali.
+P4	Jamal e yiɗi fijugo.@@Faaruuku boo e yiɗi janngugo.
+P5	Faaruuku bee Jamal e pijida.
+P6	E ɓe pija sey baali maɓɓe ndilli daayiiɗum.@@E ɓe ɗaɓɓita baali.
+P7	Ɓoosaaru ladde warii mbaala Faaruuku.@@Mo huli baaba maako fiyaymo.
+P8	Faaruuku ƴeeŋi lekki, waali dow.@@Fin e waali ley lekki kin.
+P9	Jemma pobbi ngaɗi ka woyugo.@@Faaruuku hultori.
+P10	Faaruuku yani diga dow lekki.@@Sey o nani sonnyo haade maako.
+P11	Nde maƴƴere yayni, Faaruuku yi'i Fin e haɗa pobbi yottaagomo.
+P12	Fin seetii Faaruuku.@@Faaruuku bee Fin mbaali dow lekki haa weeti.
+
+images:
+
+illustrations/pages/25050.png
+illustrations/pages/25047.png
+illustrations/pages/25048.png
+illustrations/pages/25049.png
+illustrations/pages/25050.png
+illustrations/pages/25051.png
+illustrations/pages/25052.png
+illustrations/pages/25053.png
+illustrations/pages/25054.png
+illustrations/pages/25055.png
+illustrations/pages/25056.png
+illustrations/pages/25057.png
+illustrations/pages/25058.png
+
+translations:
+
+Afaan Oromo (Translation)	Tiksituu fi hiriyaa isaa	id=35451
+Amharic (Translation)	እረኛውና የልብ ጓደኛው	id=20444
+English (Original)	Shepherd and his best friend	id=20414
+English (Adaptation)	Tarik and his friend	id=21397
+Kidawida (Translation)	Mwamburi na Mughenyi  wake	id=22023
+Kiswahili (Translation)	Tarik na rafiki yake	id=22003
+Lusoga (Translation)	Taliika ni mukagwa we	id=25475

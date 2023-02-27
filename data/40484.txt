@@ -1,0 +1,58 @@
+url:	https://africanstorybook.org/reader.php?id=40484&d=0&a=1
+id:	40484
+title:	Henndu
+author:	Yunuusa  Yaakubu
+artist:	Marion Drew
+lang:	Fulfulde Mbororoore
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40484.png
+desc:	Ɗum habaru dow semmbe henndu e no ndu wartiri duluuru.
+
+page_text:
+
+P1	Henndu e wifa.@@Ndu wifi, ndu saalii suudu amin.
+P2	Henndu e mari semmbe.@@Ndu jaɓtaniiyam pijirgel to juungo am.
+P3	Mi doggi gaɗa pijirgel am.@@Ammaa, henndu firniiyam, senndiiyam bee pijirgel am.
+P4	Henndu warti duluuru.@@Ndu ƴefti pijirgel am, ngel dilliri dow.
+P5	Duluuru sey moɗiyam!@@Walaa ko mi yi'ata, walaa ko mi meemata.
+P6	Toye pijirgel am jooni?@@Foti ngel sarkake nder lise leɗɗe.
+P7	Foti haa jooni e ngel ruuya dow duule.
+P8	Duluuru ɗustake.@@Ammaa, e mi yirloo haa jooni.
+P9	Nde me acci yirlaago, mi raari, toye henndu dilliri?
+P10	Mi yi'aayi pijirgel am.@@Mi nanataa henndu fahin.
+P11	Foti jaango mi heɓtay pijirgel am.
+P12	Jooni, ndikka mi hoota, heddeeko henndu fuɗɗita wifugo.
+
+images:
+
+illustrations/pages/14101.png
+illustrations/pages/14102.png
+illustrations/pages/14103.png
+illustrations/pages/14104.png
+illustrations/pages/14105.png
+illustrations/pages/14106.png
+illustrations/pages/14107.png
+illustrations/pages/14108.png
+illustrations/pages/14109.png
+illustrations/pages/14110.png
+illustrations/pages/14111.png
+illustrations/pages/14112.png
+illustrations/pages/14101.png
+
+translations:
+
+Acholi (Translation)	Yamo	id=21322
+English (Adaptation)	Wind	id=15055
+French (Translation)	Le Vent	id=14967
+isiXhosa (Translation)	Umoya	id=14128
+isiZulu (Translation)	Umoya	id=15053
+Kinyarwanda (Translation)	Umuyaga	id=20857
+Kiswahili (Original)	Upepo	id=14118
+Kiswahili (Adaptation)	Upepo mkali	id=18345
+Lámnsoʼ (Translation)	Shwér	id=22285
+Lusoga (Translation)	Kikunta	id=25773
+Lusoga (Translation)	Empewo	id=29454
+Sesotho (South Africa) (Translation)	Moya	id=14478
+Setswana (Translation)	Phefo	id=14129
+Xitsonga (Translation)	Moya	id=14513

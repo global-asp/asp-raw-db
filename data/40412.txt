@@ -1,0 +1,39 @@
+url:	https://africanstorybook.org/reader.php?id=40412&d=0&a=1
+id:	40412
+title:	Popi agwa
+author:	Peter Msaka
+artist:	Martin  Letsoalo
+lang:	ChiChewa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40412.png
+desc:	Popi amathamangitsa kalulu ndipo anagwa mdzenje lakuya. Nkhani yayifupi. Nkhani imeneyi inalembedwa mchaka cha 2022 ngati mbali imodzi yogwira ntchito limodzi ndi bungwe la African Storybook
+
+page_text:
+
+P1	Uyu ndi galu wanga. Dzina lake ndi Popi.@@Iye ndi galu wosaka.
+P2	Popi amakonda kusaka nyama zazing'onozing'ono.@@Amakondanso kusewera mu udzu wautali.
+P3	Loweruka lina, Popi adapita kokasaka yekha.@@Iye anaona kalulu ali pa mwala.@@M'kamwa mwa Popi munakha dovu.
+P4	Kalulu anaona Popi akumuyang'ana.@@Kalulu anathawa mwaliwiro.
+P5	Popi anamuthamangitsa kalulu uja.@@Iye ankangoganizira zomudya Kaluluyu.@@Sanaone kuti kutsogolo kwake kunali dzenje lalikulu kwambiri.
+P6	Popi anagwera m'dzenje lozama lija.@@Kalulu anathawa molizungulira dzenjelo ndi kupitilira kuthawa.
+P7	Mwamwayi, anyamata awiri anamva Popi akuwuwa "Wuu! Wuu! wuu!"@@Iwo anathamangira ku dzenje lija kukamuthandiza Popi.
+P8	"Ndiwolemera kwambiri" anadandaula anyamatawo!@@Koma anakwanitsa kumutulutsa Popi m'dzenje muja.@@Anali galu wokondwa kwambiri.
+
+images:
+
+illustrations/pages/6012001056.png
+illustrations/pages/6012001056.png
+illustrations/pages/6012001057.png
+illustrations/pages/6012001058.png
+illustrations/pages/6012001059.png
+illustrations/pages/6012001060.png
+illustrations/pages/6012001061.png
+illustrations/pages/6012001062.png
+illustrations/pages/6012001063.png
+
+translations:
+
+Amharic (Translation)	ቦቢ ወደቀ	id=39464
+English (Original)	Bobby Falls	id=38843
+Sepedi (Translation)	Bobby e a wela	id=39333

@@ -1,0 +1,65 @@
+url:	https://africanstorybook.org/reader.php?id=40258&d=0&a=1
+id:	40258
+title:	Ma nya suahunu bi
+author:	Ofosu  Frimpong
+artist:	Catherine Groenewald
+lang:	Asante Twi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40258.png
+desc:	Abaayewa ketewa no yε mfeefeemu faa kwan a ne nanabaa εfaso ama kwadu abre.
+
+page_text:
+
+P1	Me nanabaa dɔ me. @@Ͻka ahintasεm bebree kyerεε me na ogya baako.
+P2	"Na kεntεn ne ahaban yi yε de yε dεn?"@@Nanabaa kaa sε, "Ɛyε nkonyaa."
+P3	Na me pεsε me hwε. @@Nanso nanabaa soma me kɔ yε adefoforɔ.
+P4	"Wɔn wɔ he?" @@"Wɔn wɔ nkonyaa bea hɔ," nanabaa de too so.
+P5	Nanabaa soma me wɔ nedan mu. @@Na me tee kwadu a abere nka.
+P6	Ma hunu nanabaa nkonyaa bea hɔ no. @@Ma hunu kwadu a εberebere.
+P7	Me dii baako. @@Me hunu kwadu a εyε dε sen wei da.
+P8	Me fa kwadu nnan. @@Mede sei mataade ase.
+P9	Edwa da no, nanabaa kɔtɔn ne nnuane. @@Mani wui.
+P10	Ɛberε a ɔfrε me akyire no, me hunu deεn ntira. @@Ma anwia adeε biem.
+
+images:
+
+illustrations/pages/1360.png
+illustrations/pages/1361.png
+illustrations/pages/1360.png
+illustrations/pages/1362.png
+illustrations/pages/1363.png
+illustrations/pages/1364.png
+illustrations/pages/1366.png
+illustrations/pages/1368.png
+illustrations/pages/1369.png
+illustrations/pages/1370.png
+illustrations/pages/1371.png
+
+translations:
+
+Arabic (Translation)	موز جدتي	id=21873
+Ekegusii (Translation)	Amatoke A'Baba	id=2371
+English (Original)	Grandma's bananas	id=2094
+English (Adaptation)	I learnt a lesson	id=21792
+English (Adaptation)	Grandma's bananas (Colour-in)	id=32548
+French (Translation)	Les Bananes De Grand-Mère	id=9956
+Fulfulde (Translation)	Bananaaje Maamiyo Debbo	id=10008
+Fulfulde Mbororoore (Translation)	Kondomje Maama	id=38284
+IciBemba (Translation)	Inkonde shaba mama	id=40762
+isiZulu (Translation)	Ngifunde isifundo	id=32637
+Kanuri (Translation)	Ayawa Kakaye	id=10034
+Kikamba (Translation)	Maiũ ma Sũsũ	id=2367
+Kinyarwanda (Translation)	Imineke ya nyogokuru	id=32576
+Kiswahili (Translation)	Ndizi za Bibi	id=15942
+Kiswahili (Translation)	Nilipata Funzo	id=21836
+Luganda (Translation)	Nayiga essomo	id=24164
+Lugbarati (Translation)	Dede Ma A’Bua	id=2368
+Lugbarati (Official) (Translation)	Dede Vile A’Bua Ri	id=8749
+Lumasaaba (Translation)	Kamarofu ka Kuukhu	id=3095
+Lusoga (Translation)	Nayega eisomo	id=29322
+Maa (Translation)	Ilmaisurîn Le Kokoô	id=2742
+Oluwanga (Translation)	Amaremwa Ka Kukhu	id=2370
+Tshivenḓa (Translation)	Ndo guda ngudo	id=37299
+Xitsonga (Translation)	Ndzi dyondze dyondzo	id=37125
+Zarma (Translation)	Ay Kaayi Banaaney	id=10099

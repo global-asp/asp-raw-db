@@ -1,0 +1,43 @@
+url:	https://africanstorybook.org/reader.php?id=40302&d=0&a=1
+id:	40302
+title:	Wata Marainiya
+author:	Mohammed Also
+artist:	Saajida  Patel
+lang:	Hausa (Nigeria)
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40302.png
+desc:	Afeefah watayar jaririyar karkanda ce
+
+page_text:
+
+P1	Afeefah wata ƙaramar farar karkanda ce.@@Masu taimako sun kawo mata agaji daga daji.
+P2	Mafarauta sun kashe mata mahaifiyarta.@@ Masu taimako sun kai Afeefah wani waje mai tsaro.
+P3	Zuciyar Afeefah ta karaya.@@Sannan kuma tana tsoron kar mafarautan su dawo su ɗauke mata ƙahonta.
+P4	A hankali, Afeefah ta samu ƙawaye.@@Ta ji ta samu tsaro, har ta yi wasa a cikin taɓo.@@ Kuma ta sha madara mai gina jiki a waje mai tsaro.
+P5	Wata rana sai Afeefah ta tambayi ƙawarta Aminaah. "Wai me ya sa suke son ƙahonmu ne?"@@Aminaah ta yi wani huci ta ce, "Sun yarda wai ƙahonmu ana tsafi da shi."
+P6	Afeefah ta yi kuka ta ce, "To ai ƙahonmu ba na tsafi ba ne."@@Sai Ameenah ta ce, "A'a tabbas ba haka ba ne, ƙahonmu daidai yake da gashi da farce."
+P7	Afeefah da Ameenah su ne na ƙarshen a irinsu. @@Duk fararen karkanda sun kusan ƙarewa.@@Kusan duka ma sun bar duniya.
+P8	Za mu iya ceto karakandai da kuma sauran dabbobin da suka kusa ƙarewa. @@Me za ku iya iyi? @@Ku nemo sauran.
+
+images:
+
+illustrations/pages/93740139.png
+illustrations/pages/93740139.png
+illustrations/pages/93740140.png
+illustrations/pages/93740141.png
+illustrations/pages/93740142.png
+illustrations/pages/93740143.png
+illustrations/pages/93740144.png
+illustrations/pages/93740145.png
+illustrations/pages/93740146.png
+
+translations:
+
+English (Original)	An orphan	id=34206
+Fulfulde (Translation)	Atiimeejo	id=40303
+isiZulu (Translation)	Intandane	id=34508
+Spanish (Translation)	La Huérfana	id=35719
+Tiv (Translation)	Wancôvor	id=39248
+Tshivenḓa (Translation)	Tsiwana	id=34257
+Xitsonga (Translation)	Xisiwana	id=34331

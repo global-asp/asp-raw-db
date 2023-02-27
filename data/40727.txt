@@ -1,0 +1,26 @@
+url:	https://africanstorybook.org/reader.php?id=40727&d=0&a=1
+id:	40727
+title:	Terry and The Dinosaurs
+author:	Keisha Pierre
+artist:	Keisha Pierre
+lang:	English
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40727.png
+desc:	An Educational Dinosaur book for children.
+
+page_text:
+
+P1	Little Terry loves to play with dinosaurs, @He roams around the world with them all day long.
+P2	His favorite is a Brontosaurus, @That's why he loves to sing this song: @Dinosaurs and Terry, so happy together!
+P3	Triceratops, Stegosaurus even T-rex! Terry loves dinosaurs.
+
+images:
+
+illustrations/pages/64630101.png
+illustrations/pages/64630102.png
+illustrations/pages/64630103.png
+illustrations/pages/64630104.png
+
+translations:
+

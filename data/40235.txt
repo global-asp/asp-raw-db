@@ -1,0 +1,32 @@
+url:	https://africanstorybook.org/reader.php?id=40235&d=0&a=1
+id:	40235
+title:	Matende ni Mgonjwa
+author:	Stephen Kibasa
+artist:	Stephen Kibasa
+lang:	Kiswahili
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40235.png
+desc:	Matende is crying because he is sick. His mother takes care for him by giving him milk
+
+page_text:
+
+P1	Kichwa kinamuuma sana
+P2	Anaanza kulia. Nani atamsaidia?
+P3	Mama yake anakuja. Anampa maziwa ili anyamaze
+P4	Matende haachi kulia kwasababu bado ni mgonjwa.@Mama anamuogesha ili anyamaze
+P5	Anamvalisha nguo na kumbeba. Lakini bado analia
+P6	Sasa Matende amelala. Mamaake anamuonea huruma sana
+
+images:
+
+illustrations/pages/86300201.png
+illustrations/pages/86300202.png
+illustrations/pages/86300203.png
+illustrations/pages/86300204.png
+illustrations/pages/86300205.png
+illustrations/pages/86300206.png
+illustrations/pages/86300207.png
+
+translations:
+

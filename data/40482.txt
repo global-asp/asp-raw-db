@@ -1,0 +1,55 @@
+url:	https://africanstorybook.org/reader.php?id=40482&d=0&a=1
+id:	40482
+title:	Gerogal ƴoyri dutal
+author:	Jibrilla  Eggi and Yunuusa  Yaakubu
+artist:	Rob Owen
+lang:	Fulfulde Mbororoore
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40482.png
+desc:	Gerogal ƴoyri dutal bee ƴoyre hallunde ɓurnde semmbe.
+
+page_text:
+
+P1	Naane, gerogal bee dutal ɗi soobiraaji. Nyalnde feere dutal sey tawi gerogal e siwtoo ley lekki.@@E ngal darori koyngal gootal, boorooje e keewi kuuje haade maggal.
+P2	Dutal sey ƴami gerogal, "Toye koyngal maaɗa gootal?"
+P3	Gerogal sey wi'i dutal, "Cippoowo kuuje taƴaniiyam koyngal, nden hokkiyam kuuje ɗe'e."
+P4	Dutal sey ƴami gerogal, hanum maa foti waɗa non na?@@E ngal yiɗi booroore kuuje. Sey gerogal jaɓi.
+P5	Dutal sey tawi cippoowo wi'i, "Taƴu koyngal am gootal, hokkam booroore kuuje."@@Sey cippoowo jaɓi.
+P6	Dutal diwiri koyngal gootal haa hooti.@@E ngal seyori kuuje ɗe cippoowo hokkingal.
+P7	Nde dutal yotti wuro, sey tawi gerogal bee koyɗe maggal fuu ɗiɗi.
+P8	Dutal ɓerni, sey wurni gerogal, ammaa nanngaayingal. Diga ɗon dutal fuɗɗi ɗaɓɓutugo ɓikkoy gerogal.@@To dutal nanngii gootel fuu, sey nyaamangel.
+
+images:
+
+illustrations/pages/9588.png
+illustrations/pages/9587.png
+illustrations/pages/9588.png
+illustrations/pages/9589.png
+illustrations/pages/9590.png
+illustrations/pages/9591.png
+illustrations/pages/9592.png
+illustrations/pages/9593.png
+illustrations/pages/9594.png
+
+translations:
+
+Afrikaans (Translation)	Hen kul vir Arend	id=16344
+ChiTonga (Translation)	Nkuku yamucenga Sikwaze	id=18646
+CiNyanja (Translation)	Nkuku yamupita kunzelu Nkwazi	id=18664
+English (Translation)	Hen tricks Eagle	id=10544
+IciBemba (Translation)	Inkoko Yacenjesha Kapumpe	id=18683
+isiNdebele (Translation)	Isikhukhukazi sakhohlisa ikhozi	id=21929
+isiXhosa (Translation)	USikhukukazi uqhatha uKhozi	id=17526
+isiZulu (Translation)	USikhukhukazi uqiliga uKhozi	id=16359
+isiZulu (Translation)	Uskhukhukazi Ukhohlisa Ukhozi	id=16547
+Kiswahili (Translation)	Kuku amfanyia Tai hila	id=23035
+Lunyole (Original)	Engoho N’Ekongoja	id=10543
+Lusoga (Translation)	Wankoko aghubania Wakibwala	id=27051
+Sepedi (Translation)	Kgogo e hlalefetša Ntšhu	id=18169
+Sesotho (South Africa) (Translation)	Kgoho o jalletsa Ntsu	id=20029
+Setswana (Translation)	Koko o tsietsa Lenong	id=17647
+SiLozi (Translation)	Kuhu Ipuma Mbande	id=18719
+Siswati (Translation)	Sikhukhukati ukhohlisa Lukhoti	id=21954
+Tshivenḓa (Translation)	Khuhu i fhura Goni	id=18301
+Xitsonga (Translation)	Huku yi xenga Koti	id=18877

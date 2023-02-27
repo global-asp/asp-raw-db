@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=40315&d=0&a=1
+id:	40315
+title:	Abasεm a εyε sere
+author:	Ofosu  Frimpong
+artist:	Khothatso Ranoosi
+lang:	Asante Twi
+level:	First paragraphs
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40315.png
+desc:	Nhyia mmoa a wɔn ho yε nwanwa εne nnipa εho nsεm a εyε nwanwa.
+
+page_text:
+
+P1	Khotso twi afunumu. Ne afunumu no ahosuo yε bibire. @@Khotso ne n'afunumu no didi bom.
+P2	Nanabaa Thabo noa aduane. Ͻnoa aduane no wɔ kukuo tumtum mu.@@Nanabaa Thabo ne n'agyinamoa didi bom.
+P3	Neo's nantwie bedeε ahosua ahabammono no sε εserε. Nantwie bedeε no agyina Neo's nanso.@@Ne nufusuo no a εwɔ bokiti no ahyiegu.
+P4	Ntate Phakane wɔ pɔnkɔ tumtum. Ne pɔnkɔ no ho yε den. @@Ne pɔnkɔ no nkoa twe funtumfidie no.
+P5	Thabang twi ne hyεn no. Ͻne ne kraman na etu kwan. @@Thabang's kraman no poo wɔ εhyεn no mu.
+P6	Afunumu bibire no. Ahabammono nantwie bedeε, pɔnkɔ tumtum, nanabaa agyinamoa no foroo @@Thabang's hyεn no.
+P7	Wɔn firi aseε to dwom.@@Hwan na wo dwene sε ne ne εyε dε?
+
+images:
+
+illustrations/pages/12087.png
+illustrations/pages/12086.png
+illustrations/pages/12085.png
+illustrations/pages/12087.png
+illustrations/pages/12088.png
+illustrations/pages/12089.png
+illustrations/pages/12090.png
+
+translations:
+
+English (Translation)	Funny story	id=13306
+English (Translation)	Funny story	id=18748
+isiXhosa (Translation)	Ibali elihlekisayo	id=14959
+Lusoga (Translation)	Emboozi esanhusa	id=25859
+Runyoro (Translation)	Oruganikyo orukusekesa	id=23376
+Sesotho (Lesotho) (Original)	Pale e qabolang	id=13305
+Xitsonga (Translation)	Xitori Xo Hlekisa	id=14385
+Xitsonga (Translation)	Xitori Xo Hlekisa	id=18747

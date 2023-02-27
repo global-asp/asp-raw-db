@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=40236&d=0&a=1
+id:	40236
+title:	Adufudepε
+author:	Ofosu  Frimpong
+artist:	Melany Pietersen
+lang:	Asante Twi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40236.png
+desc:	Asotwee bεn na εwɔhɔ ma abarimaa a wadi aduaba adufudepε so?
+
+page_text:
+
+P1	Nanabaa de aduaba firi edwom ba yε.
+P2	Εbε yε dε yie.
+P3	Me nuabarima Vusi yε adufudepε.
+P4	Whan na ɔka nnuaba no?
+P5	Nanabaa bofueε na ɔteateamu.
+P6	Yε susu Vusi.
+P7	Yε ka kyerε nanabaa.
+P8	Nanabaa bisaa no na ɔgye tum.
+P9	Vusi yareε mpofirimu.
+P10	Ͻtu amirika kɔ agyanan bea.
+P11	Vusi sɔɔ ne yafunu mu.
+P12	Nanabaa bisaeε, "Ɛdeεn sua hunu bεn na wasua afa Vusi ho?"
+
+images:
+
+illustrations/pages/8032.png
+illustrations/pages/8025.png
+illustrations/pages/8032.png
+illustrations/pages/8029.png
+illustrations/pages/8027.png
+illustrations/pages/8023.png
+illustrations/pages/8024.png
+illustrations/pages/8030.png
+illustrations/pages/8033.png
+illustrations/pages/8031.png
+illustrations/pages/8034.png
+illustrations/pages/8035.png
+illustrations/pages/8036.png
+
+translations:
+
+Dhopadhola (Translation)	Woro	id=18692
+English (Translation)	Greed	id=13327
+Kabuverdianu (Translation)	Un Mininu Golozu!	id=31979
+Lusoga (Translation)	Omuluvu	id=26517
+Lusoga (Translation)	Obuluvu	id=30572
+Ng’aturkana (Translation)	Arorokanut	id=35703

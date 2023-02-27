@@ -1,0 +1,41 @@
+url:	https://africanstorybook.org/reader.php?id=40532&d=0&a=1
+id:	40532
+title:	Omu mwirhu
+author:	Amani  Bisimwa
+artist:	Ubongo
+lang:	Mashi
+level:	First words
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40532.png
+desc:	Ebintu rhukolesa omumwirhu. yiga ebintu omu luderho lwa amashi
+
+page_text:
+
+P1	Mbaraza
+P2	Chumpa ch'okulira
+P3	Chumpa ch'okugweshera mwo
+P4	Lwogero
+P5	Masiga
+P6	Idirisha
+P7	Lunvi
+P8	Meza
+P9	Chirhi
+P10	Ishwa lya malehe
+
+images:
+
+illustrations/pages/99600456.png
+illustrations/pages/99600446.png
+illustrations/pages/99600447.png
+illustrations/pages/99600448.png
+illustrations/pages/99600449.png
+illustrations/pages/99600450.png
+illustrations/pages/99600451.png
+illustrations/pages/99600452.png
+illustrations/pages/99600453.png
+illustrations/pages/99600454.png
+illustrations/pages/99600455.png
+
+translations:
+
+Kiswahili (Original)	Nyumbani Kwetu	id=37585

@@ -1,0 +1,50 @@
+url:	https://africanstorybook.org/reader.php?id=40416&d=0&a=1
+id:	40416
+title:	Dzuwa lotanganika kwambiri
+author:	Peter Msaka
+artist:	Joe  Werna
+lang:	ChiChewa
+level:	First sentences
+lic:	Creative Commons: Attribution 4.0
+thumb:	http://africanstorybook.org/illustrations/covers/40416.png
+desc:	Nkhaniyi ndi yokhudza dzuwa monga mmene limaonedwera ndi mnyamata wamngono kuchoka mmawa mpaka madzulo.
+
+page_text:
+
+P1	Dzuwa limatuluka m'mawa, kuchokera ku m'mawa.@@Ndimamva tambala akulira mbandakucha.
+P2	Dzuwa limadutsa pamwamba pa nyumba ya Tefa, chakudya cham'mawa tisanadye.@@Ndimamva kununkhira kwa tiyi ndi zitumbuwa kutsatira kuwala kwadzuwa pa windo langa.
+P3	Dzuwa limapita kuseli kwa mitengo masana kusukulu.@@Kenako limafika pa madzi odikha pakati pa bwalo losewererapo.
+P4	Dzuwa limayima pamwamba pa mutu wanga. Chithunzithunzi changa  chimakhala pambali panga.@@Timasewera masewero a chithunzithunzi ndi anzanga.
+P5	Chithunzithunzi changa chimakula, kenako kuchepa. Timachithamangitsa.@@Chithunzithunzi changa chimatalika, kenako kufupika. Timachithamangitsa.
+P6	Ndimaima, anzanganso amaima. Timaona zithunzithunzi zathu zikuvina.@@Timatopa kenako ndikubwereranso mkalasi. Tikaweruka timapita kunyumba.
+P7	Dzuwa limayasamula.@@Ndimaliona dzuwa likuzimirira kumadzulo. Ndimaona chithunzithunzi changa pa khoma.@@Ndi nthawi yokagona.
+P8	Dzuwa limatsika kuseli kwa mitambo.@@Ndimagona pabedi panga, ndipo ndimalota dzuwa likupita kutali kwambiri.
+
+images:
+
+illustrations/pages/28233.png
+illustrations/pages/28236.png
+illustrations/pages/28238.png
+illustrations/pages/28233.png
+illustrations/pages/28239.png
+illustrations/pages/28240.png
+illustrations/pages/28241.png
+illustrations/pages/28242.png
+illustrations/pages/28244.png
+
+translations:
+
+Amharic (Translation)	ባተሌ ባተሌዋ ፀሐይ	id=39465
+Asante Twi (Translation)	Awia nni adagyeԑ	id=34865
+Bura (Translation)	Kethir kethir mchi	id=34888
+Ebira (Translation)	Ukoro Ukoro  ὀyi	id=34840
+English (Original)	Busy Busy Sun	id=32416
+French (Translation)	Le soleil occupé, très occupé	id=35178
+Fulfulde (Translation)	Naange Suklii-nge	id=40307
+Hausa (Nigeria) (Translation)	Zirga Zirgan rana	id=34897
+Igbo (Translation)	Anwu na-enweghi ohere	id=34829
+Ikwerre (Translation)	Nhebe Ne Me'he	id=34833
+Pidgin English (Nigeria) (Translation)	Sun wey busy well, well	id=32464
+Tiv (Translation)	Iyange I Memen Ga	id=36793
+Urhobo (Translation)	Ọrẹn ro phuvhẹn  ẹ	id=35200
+Yoruba (Translation)	Oòrùn Alaápon	id=34815

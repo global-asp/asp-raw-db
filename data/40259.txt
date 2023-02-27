@@ -1,0 +1,42 @@
+url:	https://africanstorybook.org/reader.php?id=40259&d=0&a=1
+id:	40259
+title:	Ɓanndu am
+author:	Yunuusa  Yaakubu
+artist:	Mlungisi Dlamini
+lang:	Fulfulde Mbororoore
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/40259.png
+desc:	Ko ɓanndu waawi waɗugo ɗum ɗuɗɗum
+
+page_text:
+
+P1	Ɓanndu am mi doggirta.
+P2	Ɓanndu am mi diwirta.
+P3	Ɓanndu am mi wamirta.
+P4	Ɓanndu am mi yinorto.
+P5	Ɓanndu am mi diwirta ɓoggol.
+P6	Ɓanndu am mi latirta.
+P7	Ɓanndu am mi doggirta.
+P8	Ammaa mi fotaayi fiirirgo bee ɓanndu am.
+
+images:
+
+illustrations/pages/28703.png
+illustrations/pages/28704.png
+illustrations/pages/28705.png
+illustrations/pages/28706.png
+illustrations/pages/28707.png
+illustrations/pages/28708.png
+illustrations/pages/28709.png
+illustrations/pages/28710.png
+illustrations/pages/28711.png
+
+translations:
+
+Afrikaans (Adaptation)	Ek kan	id=35131
+Afrikaans (Translation)	My lyfie	id=36609
+English (Original)	My body	id=32608
+French (Adaptation)	Mon corps	id=34107
+isiZulu (Translation)	Umzimba wami	id=32725
+Kinyarwanda (Translation)	Umubiri wange	id=32609

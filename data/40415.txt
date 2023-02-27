@@ -1,0 +1,63 @@
+url:	https://africanstorybook.org/reader.php?id=40415&d=0&a=1
+id:	40415
+title:	Chakudya cha m'mawa
+author:	Peter Msaka
+artist:	Cathy Feek
+lang:	ChiChewa
+level:	First words
+lic:	Creative Commons: Attribution-Non Commercial 3.0
+thumb:	http://africanstorybook.org/illustrations/covers/40415.png
+desc:	Dziwani zimene bambo anga ndi ine timakonda kudya mmawa.
+
+page_text:
+
+P1	Abambo anga amakonda phala.
+P2	Ine ndimakonda makonifulekisi.
+P3	Abambo anga amakonda khofi.
+P4	Ine ndimakonda mkaka.
+P5	Abambo anga amakonda maapozi.
+P6	Ine ndimakonda malalanje.
+P7	Atate amakonda buledi. @@Ine ndimakonda buledi wowotcha.
+P8	Tonse timakonda mandasi.
+
+images:
+
+illustrations/pages/1571.png
+illustrations/pages/1572.png
+illustrations/pages/1573.png
+illustrations/pages/1574.png
+illustrations/pages/1575.png
+illustrations/pages/1576.png
+illustrations/pages/1577.png
+illustrations/pages/1571.png
+illustrations/pages/1578.png
+
+translations:
+
+ChiTonga (Translation)	Cakulya Camafumofumo	id=20880
+English (Original)	Breakfast	id=2839
+French (Translation)	Le petit déjeuner	id=33453
+Hausa (Nigeria) (Translation)	Karin Kumallo	id=20800
+IciBemba (Translation)	Umwikulo	id=20877
+isiZulu (Translation)	Ukudla kwasekuseni	id=8735
+Kikamba (Translation)	Lĩu wa Kwakya	id=2863
+Kiswahili (Translation)	Kifungua Kinywa	id=7780
+Luganda (Translation)	Lĩu Wa Kwakya	id=3039
+Luganda (Translation)	Ekyenkya	id=7782
+Luganda (Translation)	Ekyenkya	id=23072
+Lugbarati (Translation)	Nyaka O’Biti Si Ri	id=2862
+Lugbarati (Official) (Translation)	Nyaká Ò’Bíti Sɨ̀rɨ̀	id=8773
+Lunyole (Translation)	Ehyomumugamba	id=2844
+Lunyole (Translation)	Ebiryo Byo Mu Mugamba	id=12908
+Lusoga (Translation)	Ekyenco	id=25634
+Maa (Translation)	Endáa É Enkakenyá	id=2864
+Mampruli (Translation)	Nangbansuuri	id=21223
+Ng’aturkana (Translation)	Akimuji Na Ataparachu	id=8737
+Oluwanga (Translation)	Eshiokhulia Shiomumabwibwi	id=8738
+Pidgin English (Nigeria) (Translation)	Morning Food	id=37669
+Sabinyi (Translation)	Amikap Koron	id=2847
+Sesotho (South Africa) (Translation)	Ditjo	id=32752
+Setswana (Translation)	Difitlholo	id=2848
+SiLozi (Translation)	Mukushuko	id=20920
+Spanish (Translation)	Desayuno	id=36302
+Tunisian (Translation)	Ftur s-sbæħ	id=15164
